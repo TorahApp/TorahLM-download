@@ -1,0 +1,1649 @@
+# Maharam Schiff on Zevachim
+
+מהר"ם שיף על זבחים
+
+Link: [https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim)
+
+דיוני חז״ל בנושאי הלכה, מוסר ותנ"ך שהתקיימו במשך דורות. בנויים כהרחבות על המשנה ושזורים בהם סיפורי אגדה.
+
+17th-century commentary by Rabbi Meir ben Yaakov Schiff, based on classes he delivered in a yeshiva in Germany.
+
+Sections: Daf-Comment
+
+Location: Talmud/Bavli/Acharonim on Talmud/Maharam Schiff/Seder Kodashim
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Vilna Edition (Segments: 198, License: Public Domain)
+
+
+## Daf 17a
+
+###### Maharam Schiff on Zevachim 17a:1
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17a:1](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17a:1)
+
+
+בתוס' בד"ה **טבול יום מנ"ל כו' ואין לתרץ נמי כו'.** יש לדקדק בדבריהם מה תיקנו בזה דהא כמו בדגלי בטבול יום לא נילף מיניה מחוסר כפורים משום דטבול יום חמיר דפסיל בתרומה ואפ"ה כיון דגלי בטבול יום דטמא אף דקלישא טומאתיה תו דרשינן מוטהרה מכלל שהיא טמאה א"כ ה"נ נהי דמוקמינן חד ריבויא למחוסר כיפורים ולא נילף מיניה טבול יום משום דמחוסר כיפורים מחוסר מעשה הוא מ"מ כיון דגלי במחוסר כיפורים דטמא אע"ג דקלישא טומאתיה תו דרשינן וטהר מכלל שהיא טמא לרבות טבול יום. ונראה דלהתוספות דהכא (א) ליכא לאקשויי דכבר הוצרכו לומר תירוץ אחר גבי טבול יום דהא כתיב טמא בהדיא בכלי טבול יום כמ"ש לעיל ותירצו דצריך קרא גבי עבודה כו' וגבי אכילת תרומה וקדשים קרא אחרינא כו' וא"כ כ"ש דמוטהר מכלל כו' ליכא למילף. ותירוצם דאי לאו קרא דרבי סימאי מהני לן לגבי מחוסר כיפורים (ב):
+
+
+###### Maharam Schiff on Zevachim 17a:2
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17a:2](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17a:2)
+
+
+בא"ד **ועוד י"ל דצריך קרא לרבות טבול יום כו'.** בראשונה תירצו קושיא אחרונה דאיצטריך ריבויא במחוסר כיפורים בביאת מקדש ולא הוי ילפינן מוטהרה משום דבמת לא שייך מחוסר כיפורים. ועוד י"ל לתרץ קושיא שניה דאיצטריך ריבויא לטבול יום ולא ילפינן מורחץ במים וטמא עד הערב משום דמשמע אבל נתחטא שהזה ושנה וטבל כו':
+
+
+###### Maharam Schiff on Zevachim 17a:3
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17a:3](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17a:3)
+
+
+בא"ד **ומהני טעמי אתי שפיר דליכא למימר כו'.** למה לי אידך קרא נילף מביאת מקדש דהא איתקש קודש למקדש. אבל לא נתחוור לי מאי דקאמרי דהא קרא דביאת מקדש משתעי לפטורא ועי'. וז"ל התוס' פרק הערל וא"ת ולשתוק מוטהר דהכא ומלא יחללו דזבחים ונילף קודש ועבודות מדאיקרי טמאים לענין ביאת מקדש ואומר ר"י דאי לאו קרא דהכא לא הוה דרשינן התם טמא יהיה לרבות טבול יום כו' אלא הוי מוקמינן ליה לדרשא אחריתא ע"כ ועיין. ויש לכוין דבריהם דהכא ג"כ עפי"ז כיון דמשמעות אבל נתחטא שהזה כו' פטור מכרת לא הוי מרבינן מטמא יהיה כו' טבול יום ומחוסר כיפורים [ג"כ לא הוי מרבינן כיון דלא משכחת לה בטומאת מת] ועי':
+
+
+###### Maharam Schiff on Zevachim 17a:4
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17a:4](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17a:4)
+
+
+בסה"ד וקרא ובא השמש וטהר איצטריך כו'. ר"ל דילפינן מיניה אכילת קודש בטבול יום בפ' הערל איצטריך משום דכתיב בפרשת אמור בשרץ דקיל טפי מנדה ושכבת זרע. וזה תירוץ לקושיא הראשונה [התימה דגבי זב וזבה כו' כתיב כמה פעמים ורחץ במים וטמא עד הערב כו']. ולא יחללו איצטריך לפרושי דלא הוי דרשינן וטהר מכלל כו' אי לאו קרא דר' סימאי כמ"ש לעיל ואה"נ לפי קושיות התוס' לא איצטריך ולא יחללו ג"כ רק נקטו בלשונם ובא השמש וטהר דכתיב בשרץ. ולא יחללו לפרושי אתא (ג):
+
+
+###### Maharam Schiff on Zevachim 17a:5
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17a:5](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17a:5)
+
+
+בהגה"ה הא לא אתיא לן מחוסר כיפורים אי לאו כו' ולא לכתוב טמא וי"ל כו' לא חש לדקדק הסוף דיבור. ומתחיל הדיבור רמז לטבול יום שאם עבד חילל מנין כו':
+
+
+###### Maharam Schiff on Zevachim 17a:6
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17a:6](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17a:6)
+
+
+בתוס' בד"ה **דגמר חילול חילול כו' דממעטי התם רבנן בעל מום כו' דלא חשיב לה התם משום דטמא וטבול יום כו' חילול מתרומה נימא דפסול בתרומה במיתה ולא פסול כו' וי"ל כיון דמחיל עבודה כטמא כדנפקא לן מוינזרו כו' בגזירה שוה דחילול חילול גמרי מתרומה כו'.** ובשמעתין הכא שפיר קאמר כיון דהאי חילול דלחם אלהיו ניתן לידרש מתרומה מסתברא לאוקמי במאי דפסיל בתרומה (ד):
+
+
+
+## Daf 17b
+
+###### Maharam Schiff on Zevachim 17b:1
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:1](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:1)
+
+
+ברש"י בד"ה **כזב דמי כו' טהור הסוף דיבור.** ומתחיל הדיבור לא כזב דמי כו' דקי"ל דכשר בפרה. ומתחיל הדיבור לא דכ"ע כזב דמו כו' בהו הוו מחוסר כיפורים כו' כפרה הסוף דיבור:
+
+
+###### Maharam Schiff on Zevachim 17b:2
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:2](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:2)
+
+
+ברש"י בד"ה **טומאה דאותה פרשה כו' מק"ו ומה טבול יום כו'.** לא כ"ש אבל מחוסר כיפורים כו' כצ"ל:
+
+
+###### Maharam Schiff on Zevachim 17b:3
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:3](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:3)
+
+
+בתוס' בד"ה **קסבר כו' שנכנס למקדש חייב כרת דתנן כו' מקודשת ממנה שאין כו' ועוד דבהאי סוגיא כו' יהיה לרבות טבול יום קאמר דכ"ע מחוסר כיפורים כו'.** ע"ש בפירש"י:
+
+
+###### Maharam Schiff on Zevachim 17b:4
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:4](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:4)
+
+
+בא"ד **במחוסר כיפורים ומיהו פלוגתא דאמוראי כו במקצת שמיה ביאה כו'.** ועוד מה שפי' בקונטרס לענין למנות כו' תימה הלא טבול יום אין מונין כו'. לא מחוור זה דבמחוסר כיפורים קיימינן ועיין:
+
+
+###### Maharam Schiff on Zevachim 17b:5
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:5](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:5)
+
+
+בא"ד **א"כ יעשה רביעי חמישי בקודש מק"ו כו'.** ר"ל ומה מחוסר כיפורים שמותר בתרומה עושה ראשון ושני בקודש שלישי דפסול בתרומה אינו דין שיעשה רביעי וחמישי בקודש:
+
+
+###### Maharam Schiff on Zevachim 17b:6
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:6](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:6)
+
+
+בא"ד **הול"ל דיו כתרומה אי לאו משום דמיפרך ק"ו כו'.** כדאיתא שם בפירש"י:
+
+
+###### Maharam Schiff on Zevachim 17b:7
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:7](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:7)
+
+
+בא"ד **על דם טוהר היתה מערה כו' הרי היא כמגע טמא מת כו' פסח הבא בטומאה כו' לענין טומאה דחויה בציבור כו'.** לקמן ריש דף ל"ג:
+
+
+###### Maharam Schiff on Zevachim 17b:8
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:8](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:8)
+
+
+בתוס' בד"ה **שרפה אונן כו' כגון שלא לשמה כו' כדאמרינן בהקומץ רבה כו' בפסח הבא בטומאה כו'.** לפי"ז לא יתכן למה שהגהתי לעיל (זבחים דף ט"ז ע"ב) בתוספות בד"ה ומה טומאה כו' ותימה למ"ד אנינות לילה כו' (ה):
+
+
+###### Maharam Schiff on Zevachim 17b:9
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:9](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:9)
+
+
+בא"ד **בק"ו מטבול יום שאסור בנגיעת תרומה כו' משום אונן נקטו נגיעה וק"ל (ו).** מיהו בלא"ה קשה דהא ק"ו הוא לנגיעה והיאך פרכינן מאכילה כמ"ש בסמוך [בד"ה אונן] מפ' הערל וצ"ל בהכרח דהפירכא הוא דמשא"כ במחוסר כיפורים דאסור אף בנגיעה אבל אונן אף שאסור באכילה מ"מ מותר בנגיעה (ז) והשתא א"ש. אבל לא ידעתי אם טבול יום מותר בנגיעה ואף דשרי באכילה הא ע"כ צ"ל הרי פסח אינו נאכל אלא בלילה וא"כ העריב שמשו ודוחק לומר הא הערב שמש הוא בצאת הכוכבים וטהר יומא או כגון שנטמא בלילה וטבל בלילה. אלא פירוש דשוחטין וזורקין עליו ובלילה אוכל (ח) ועי':
+
+
+###### Maharam Schiff on Zevachim 17b:10
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:10](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:10)
+
+
+שם מה לטבול יום דמת שכן מותר לאכול בפסח הבא בטומאה [עה"ג]. ובמסקנא דשמעתין דקאמר שכך טומאה יוצאה מגופו ולא קאמר שכן אסור לאכול בפסח כו'. אפשר דהיא היא:
+
+
+###### Maharam Schiff on Zevachim 17b:11
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:11](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:11)
+
+
+בא"ד **בהגה"ה המתחלת וההיא דטבול יום כשר מן התורה כו' קודש מדרס לחטאת כו' והא דבמעורבי שמש כו' אלא שאחיו הכהנים היו מניחין כו' קודש מדרס לחטאת כו'.** ע' בתוספות ריש יומא:
+
+
+###### Maharam Schiff on Zevachim 17b:12
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:12](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:12)
+
+
+בתוס' בד"ה **והזה כו' שריפה מהזאה הסוף דיבור.** ומ"ה אונן כו' אטו אנן לאכילה קאמרינן לנגיעה קאמרינן כו' מכללן תאמר באונן שהותר כו' שאסור ליגע בקדשים כו'. בתוס' בהערל מפורש יותר. מבעל מום קשה ועוד מה לטבול יום כו' הכל דיבור אחד:
+
+
+###### Maharam Schiff on Zevachim 17b:13
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:13](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/17b:13)
+
+
+בתוס' בד"ה **אין בגדיהן עליהן כו' כתיבא התם ממש כו' דמכנסים לא כתיבא התם כו'.** וחילול במכנסים אפשר דילפינן בגזירה שוה מחוקה חוקה דבמכנסים כתיב לחק עולם ועי':
+
+
+
+## Daf 18a
+
+###### Maharam Schiff on Zevachim 18a:1
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18a:1](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18a:1)
+
+
+ברש"י בד"ה **אי מהתם כו' חיוב מיתה לפסולין כו'.** שיש אחריה עבודה כו':
+
+
+###### Maharam Schiff on Zevachim 18a:2
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18a:2](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18a:2)
+
+
+בד"ה **והא תני כו' אחרינא.** הס"ד: ומ"ה ה"מ כו' שתויי יין ממחוסר בגדים. הס"ד:
+
+
+###### Maharam Schiff on Zevachim 18a:3
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18a:3](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18a:3)
+
+
+בד"ה **ה"ק מנין כו' בגדים משתויי יין כו'.** שתויי יין ממחוסר בגדים וה"ק כו':
+
+
+###### Maharam Schiff on Zevachim 18a:4
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18a:4](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18a:4)
+
+
+בד"ה **לא מוקים כו'.** וד"ה מיומא טבא כו' להבדיל ולהורות כו'. משום דרב אורי הוי מורי בדרשותיו כדאיתא פ"ק דביצה:
+
+
+###### Maharam Schiff on Zevachim 18a:5
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18a:5](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18a:5)
+
+
+בד"ה **אי מהתם כו'.** אימא לא תיבעי בגדים קמ"ל כו' מאי היא. הס"ד: ומ"ה הכהנים כו' כהונתן בה הס"ד:
+
+
+###### Maharam Schiff on Zevachim 18a:6
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18a:6](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18a:6)
+
+
+בד"ה **שחקים ישינים.** הס"ד: ומ"ה כשירים כו' שתהא כמדתו מצוה כו' כצ"ל:
+
+
+###### Maharam Schiff on Zevachim 18a:7
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18a:7](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18a:7)
+
+
+בד"ה **חיסר אחת מכל הבגדים.** הס"ד: ומתחיל הדיבור יותר כו' בעולם. הס"ד: ומ"ה רטייה כו' על בשרו. הס"ד: [שייך לע"ב] ומ"ה מטושטשין בטיט. הס"ד: ומ"ה מקורעין כו' הוא הראוי לעבודה דבעינן כו':
+
+
+###### Maharam Schiff on Zevachim 18a:8
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18a:8](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18a:8)
+
+
+בתוס' בד"ה **תלמוד לומר כו' דהא דאמרי' במנחות כו'**:
+
+
+###### Maharam Schiff on Zevachim 18a:9
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18a:9](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18a:9)
+
+
+בתוס' בד"ה **אתיא חוקה חוקה כו' אינו כתיב בפירוש וילפינן חוקה חוקה ממחוסר בגדים כו' ובתורם מן כו'.** ר"ל בתורם מן כו' שם תירץ הרר"י והכא צ"ע לחלק:
+
+
+###### Maharam Schiff on Zevachim 18a:10
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18a:10](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18a:10)
+
+
+בא"ד **תרי קראי במחוסר בגדים למה לי דבתרוייהו כתיב חוקה כו'.** ר"ל דקושיית הרר"י דלעיל סוף ע"ב בד"ה אין בגדיהן עליהן קיימת וליכא שום תירוץ דמה דמתרץ לעיל דצריך משום מכנסים מ"מ הא בתרוייהו כתיב חוקה והוי ילפינן מהדדי דע"כ לענין חילול יליף מכנסים מוחגרת. בגזירה שוה דחוקה חוקה. אבל מ"ש ומיהו וחגרת כו' לא ידענא מאי אידון בו וצ"ע:
+
+
+###### Maharam Schiff on Zevachim 18a:11
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18a:11](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18a:11)
+
+
+בתוס' בד"ה **כהן גדול שלבש כו' אמר למלך פר ושעיר כו' היום משל מי כו' וידע שהוסר מן הכהונה.** הס"ד:
+
+
+
+## Daf 18b
+
+###### Maharam Schiff on Zevachim 18b:1
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:1](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:1)
+
+
+גמרא **רב אמר אחד זה ואחד זה כו'.** כצ"ל:
+
+
+###### Maharam Schiff on Zevachim 18b:2
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:2](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:2)
+
+
+ברש"י בד"ה **אלא לרב קשיא מרושלין.** הס"ד: ומ"ה וכ"ת כו' דקסבר אבנט כו שע"י אבנט הו"ל כחותך כו' ומכשירו הס"ד: ומ"ה אלא מסולקין כו' כקצרים מעיקרא. הס"ד:
+
+
+###### Maharam Schiff on Zevachim 18b:3
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:3](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:3)
+
+
+בד"ה **ומר סבר כו' ומאן דמחייב כו' יתור בגדים.** הס"ד:
+
+
+###### Maharam Schiff on Zevachim 18b:4
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:4](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:4)
+
+
+בד"ה **בד שיהו מין כו' ממשמעותא.** הס"ד: ומ"ה חדשים כו' פשתנן. הס"ד: ומ"ה שיהו שזורין כו' כמו לבדו הס"ד:
+
+
+###### Maharam Schiff on Zevachim 18b:5
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:5](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:5)
+
+
+בד"ה **דברים (נ"ל שצ"ל בגדים) כו' ואזיל דבר העולה כו' ליה לעיכובא.** הס"ד:
+
+
+###### Maharam Schiff on Zevachim 18b:6
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:6](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:6)
+
+
+בד"ה **ואימא עמרא כו' נימא לבדה.** הס"ד:
+
+
+###### Maharam Schiff on Zevachim 18b:7
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:7](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:7)
+
+
+בד"ה **כיתנא כו'.** מיפצל לפני טווייתו כו':
+
+
+###### Maharam Schiff on Zevachim 18b:8
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:8](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:8)
+
+
+בד"ה **אגב כו' ונחלק.** הס"ד: ומ"ה מכנסי כו' היינו פשתן. הס"ד כצ"ל:
+
+
+###### Maharam Schiff on Zevachim 18b:9
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:9](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:9)
+
+
+ברש"י בד"ה **וערל בשר כו' לא יבא כו' בהדיא.** הס"ד:
+
+
+###### Maharam Schiff on Zevachim 18b:10
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:10](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:10)
+
+
+בתוס' בד"ה **מסולקין כו' תמיד נשחט מדו כמדתו כו' ולא לעכב.** הס"ד: ומ"ה ואידך כו' התם ר"ש כסות סומא כו' דהאי סוגיא כמאן דמרבי כו'. ע"ש בתוס' מנחות מפורש יותר:
+
+
+###### Maharam Schiff on Zevachim 18b:11
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:11](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:11)
+
+
+בא"ד **ומיהו קשה אההוא דמנחות דלקמן בפ' ב"ש כו'.** כצ"ל:
+
+
+###### Maharam Schiff on Zevachim 18b:12
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:12](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:12)
+
+
+בתוס' בד"ה **והתניא משוחקין כשירים כו' תימה דביומא דף יב ע"א כו' ואמאי צריך ריבוי.** הס"ד. ור"ל כיון דמשני הכא מה שאינו נשמע ממשמעותא דקרא אינו אלא למצוה. ומיהו למה שפירש"י חדשים כשעה שהיו בבדי פשתנן איצטריך ילבש לאורויי דאינו מעכב ועיין:
+
+
+###### Maharam Schiff on Zevachim 18b:13
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:13](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/18b:13)
+
+
+בתוס' בד"ה **ואימא כו'.** מחיטה אחת. הס"ד:
+
+
+
+## Daf 19a
+
+###### Maharam Schiff on Zevachim 19a:1
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19a:1](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19a:1)
+
+
+גמרא **מדלי ליה המיינאי כו'.** כצ"ל:
+
+
+###### Maharam Schiff on Zevachim 19a:2
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19a:2](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19a:2)
+
+
+ברש"י בד"ה **והוי מדלי לי המיינאי כו' אבנטו היה כו'.** אצילי ידיו והשפילו כו':
+
+
+###### Maharam Schiff on Zevachim 19a:3
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19a:3](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19a:3)
+
+
+ברש"י בד"ה **ותיפוק ליה כו' שרי ר"י.** הס"ד. אבל אכורך עליה גמי דגופא דמתניתין אפשר דכיון דצריך לרפואה אינן חוצצין. אבל בעירובין מפרש רש"י בהדיא דאף אמתני' פריך ע"ש. ומ"ה בשמאל כו' לעבודה. הס"ד:
+
+
+###### Maharam Schiff on Zevachim 19a:4
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19a:4](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19a:4)
+
+
+בד"ה **ודאי פליגי כו' במשמע.** הס"ד:
+
+
+###### Maharam Schiff on Zevachim 19a:5
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19a:5](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19a:5)
+
+
+בד"ה **לישנא אחרינא אמרי לה כו' הוא דפליגי לישנא.** הס"ד. ומ"ה לימא כו' דאילו ר"י פשיט לן כו'. ר"ל ר"י ודאי פליג אדרבי יהודה ולית לן למימר דלא פליגי דהא עלה כו'. אלא דרבא דאיתמר בעלמא כו':
+
+
+###### Maharam Schiff on Zevachim 19a:6
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19a:6](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19a:6)
+
+
+בד"ה **ולר"י דקאמר כו'**:
+
+
+###### Maharam Schiff on Zevachim 19a:7
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19a:7](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19a:7)
+
+
+בד"ה **רבותא הוא כו' כבשרו.** הס"ד:
+
+
+###### Maharam Schiff on Zevachim 19a:8
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19a:8](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19a:8)
+
+
+בד"ה **בית השחי כו' בבשר.** [הס"ד: ומ"ה גופו כו'] גופו. הס"ד: ומ"ה נימא כו' מגורר ותחובה בו כו' מעיקרא. הס"ד: ומ"ה יצא שערו כו' שערו מאי. הס"ד: ומ"ה תפילין מהו שיחוצו למהוי יתור בגדים. הס"ד: ומ"ה אליבא כו' ובהקומץ רבה. הס"ד: ומ"ה לא תיבעי לך דודאי חייצי כו' לא מצוה היא דניהוי כגופו כו':
+
+
+###### Maharam Schiff on Zevachim 19a:9
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19a:9](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19a:9)
+
+
+בד"ה **דיום נמי חייצי דאל"כ מצינו כו'.** כצ"ל:
+
+
+###### Maharam Schiff on Zevachim 19a:10
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19a:10](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19a:10)
+
+
+בד"ה **ומן התפילין כו' מן המצוה.** הס"ד. ומ"ה דלא מתני ליה אסור שאין כו' לשנות בהן איסור. הס"ד: ומ"ה דיד חוצצין כו' לבשר. הס"ד:
+
+
+###### Maharam Schiff on Zevachim 19a:11
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19a:11](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19a:11)
+
+
+בתוס' בד"ה **כורך כו' משום דמסיק פרק כל כתבי כו' ספוג יבש וקשר עליו כו' וקאמר התם דלמדנו דספוג אינו כו' משמר נמי כו' ובסמוך כו' דאבל לא במדינה.** הס"ד: ומ"ה מאי אריא כו' משום לשון חכמים מרפא דכיון שהקושיא היה לפירושם דהול"ל צלצל דהוי חידוש גדול יותר אינו דומה שיתרץ נמי חידוש יותר דשרי במקדש וכפירש"י לכך מפרשו משום לשון חכמים מרפא שגם לישנא דגמרא אגב אורחא אינו משמע כפירש"י:
+
+
+###### Maharam Schiff on Zevachim 19a:12
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19a:12](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19a:12)
+
+
+בתוס' בד"ה **תפילין כו' דבשל ראש הא אמרינן בסמוך דאין חוצצין כו' ומיהו הא דתניא אינן כו' חידוש שאין חוצצין כו' פתילי הציץ.** הס"ד:
+
+
+
+## Daf 19b
+
+###### Maharam Schiff on Zevachim 19b:1
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:1](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:1)
+
+
+גמרא **א"ל רב סמא בריה דרב אחא לרבינא כו'**:
+
+
+###### Maharam Schiff on Zevachim 19b:2
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:2](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:2)
+
+
+ברש"י בד"ה **ששם מניח כו' דלאו בגד הוא.** הס"ד: ומ"ה מכלל כו' יחללו. הס"ד:
+
+
+###### Maharam Schiff on Zevachim 19b:3
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:3](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:3)
+
+
+בד"ה **כהן גדול כו' המקרא אם לא טבל כו' עבודה כשרה.** הס"ד: ומ"ה שחרית כו' ממחוסר בגדים. הס"ד: ומ"ה דאורייתא כו' לכולה מלתא. הס"ד:
+
+
+###### Maharam Schiff on Zevachim 19b:4
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:4](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:4)
+
+
+בד"ה **אמר קרא כו' אלא אשאר דברים כו'**:
+
+
+###### Maharam Schiff on Zevachim 19b:5
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:5](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:5)
+
+
+בד"ה **והיתה להם כו' בקידוש כתיב.** הס"ד:
+
+
+###### Maharam Schiff on Zevachim 19b:6
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:6](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:6)
+
+
+ד"ה **מניח ידיו כו' ירחצו כדכתיב קרא.** עי' במפרשי רש"י פרשת כי תשא:
+
+
+###### Maharam Schiff on Zevachim 19b:7
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:7](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:7)
+
+
+בד"ה **מאי בינייהו כו' פליגי.** הס"ד:
+
+
+###### Maharam Schiff on Zevachim 19b:8
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:8](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:8)
+
+
+בד"ה **אין צריך לקדש כו' יצא ולא הסיח דעתו.** הס"ד:
+
+
+###### Maharam Schiff on Zevachim 19b:9
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:9](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:9)
+
+
+בד"ה **דפסיק ליה כו' כי הכא.** הס"ד. ומ"ה דכתיב בגשתם כו' חדשה הס"ד: ומ"ה דכתיב בבואם והרי לא יצא. הס"ד. ומ"ה אכל גישה כו':
+
+
+###### Maharam Schiff on Zevachim 19b:10
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:10](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:10)
+
+
+ד"ה **אביאה ריקנית כו'**:
+
+
+###### Maharam Schiff on Zevachim 19b:11
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:11](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:11)
+
+
+ד"ה **דרב אחי כו'**:
+
+
+###### Maharam Schiff on Zevachim 19b:12
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:12](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:12)
+
+
+ד"ה **הכל מודים כו'.** ידיו ורגליו מודין הם כו' אלא גישה. הס"ד: ומ"ה להקטיר כו' דבעיא קידוש דהא גישת כו' כצ"ל:
+
+
+###### Maharam Schiff on Zevachim 19b:13
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:13](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:13)
+
+
+בתוס' בד"ה **וחוקה כתב בהו כו' דלא כתיבא חוקה אלא בבגדי לבן כו'**:
+
+
+###### Maharam Schiff on Zevachim 19b:14
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:14](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:14)
+
+
+בתוס' בד"ה **אי הכי דצפרא נמי כו' כיון דהוי במיתה אתיא בק"ו כו'.** ר"ל מיעוט דולבשם ממעט אינך טבילות וקידושים דחילוף בגדים דאינו במיתה ולא תילף דמעכבי אלא מגזירה שוה דחוקה אתי ולבשם וגלי דחוקה לא קאי אהך קרא אבל טבילת שחרית דבמיתה נילף מק"ו ועיין היטב: חשיב ליה ו' אאופתא. הס"ד. ומ"ה וחבירו כו' דאותו שזכה לתרום היה הולך יחידי (צ"ע להגיה):
+
+
+###### Maharam Schiff on Zevachim 19b:15
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:15](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:15)
+
+
+בתוס' בד"ה **עמידה כו' לרבנן מן הצד לא שמיה עמידה ונראה כו'**:
+
+
+###### Maharam Schiff on Zevachim 19b:16
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:16](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/19b:16)
+
+
+בתוס' בד"ה **וליתיב מיתיב כו' דאין ישיבה בעזרה אלא סמיכה.** הס"ד. למ"ש לעיל [זבחים דף טז ע"א בתוס' בד"ה מיושב] לחד שינויא שהוא מדרבנן או לצורך עבודה שרי (ט) אינו קשה כנ"ל:
+
+
+
+## Daf 20a
+
+###### Maharam Schiff on Zevachim 20a:1
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20a:1](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20a:1)
+
+
+גמרא **הכי אמר רב אסי אמר ר"י כיור שלא שקעו כו' רבי אדר' יוסי בר יהודה מוסיף כו'.** כצ"ל:
+
+
+###### Maharam Schiff on Zevachim 20a:2
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20a:2](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20a:2)
+
+
+ברש"י בד"ה **מהו שיפסלו כו'.** אם לא שקעה בבור הגולה (עיין סוף עירובין) דאמרי' כו':
+
+
+###### Maharam Schiff on Zevachim 20a:3
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20a:3](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20a:3)
+
+
+ברש"י בד"ה **ה"ג כו' אמר לפניו כו' רבין אמר לה.** הס"ד: ומ"ה שלא שקעו בבור לעבודה כו' חלבים. הס"ד: ומ"ה והוינן בה כו' אסי ולא פשיט לן. הס"ד: ומ"ה דלא צריך לקדושי וכרבי אליעזר בר"ש כו' לינה בקידוש. הס"ד. ומ"ה או דלמא כו':
+
+
+###### Maharam Schiff on Zevachim 20a:4
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20a:4](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20a:4)
+
+
+בד"ה **ולא פשיט כו' כך מחלוקת בזו ומר פשיט מיפשט כו'.** ר"ל דאילו ס"ל כמחלוקת בזו כך כו' (י) ע"כ פירושו אין צריך לקדש וכראב"ש דאי איפסלו להו בלינה וכרבי מאי אריא כיור שלא שקעו אפילו בקידוש נמי פסול אע"כ ר"א בר' שמעון מודה במי כיור והשתא שפיר מספקא להו. אך להך גיסא דלא צריך לקדושי היאך תלוי בכיור שלא שקעו מבערב אם [לא] לרבותא דאפ"ה מקדש ממנו לעבודת לילה דלינה אינה פוסלת אלא בעמוד השחר כ"ז תמצא לקמן בתוס' (זבחים דף כא ע"א):
+
+
+###### Maharam Schiff on Zevachim 20a:5
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20a:5](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20a:5)
+
+
+ברש"י בד"ה **שנים עשר דד כו' בבת אחת.** הס"ד: ומ"ה מוכני כו' שמעלין אותו בגלגלים מן הבור שחרית. הס"ד: דלירידה היה אפשר בלא גלגל כן איתא לקמן בהדיא (זבחים דף כ"א:) ומ"ה שלא יהא כו' קדושתן. הס"ד. ומ"ה מאי לאו כו' מודה במים. הס"ד: ומ"ה בא לו כהן אצל פרו להתודות כו' בעדו וגו'. הס"ד: ומ"ה ראשו כו' ומשנינן לה. הס"ד: ומ"ה והכהן כו' כלפי ההיכל הס"ד: ומ"ה מאן כו' חטאת הוא. הס"ד: ומ"ה כנגד המזבח כו' המזבח וליכא. הס"ד: ומ"ה ור"א כו' דהוא מקום דריסת כו'. כ"ז תעמוד על ציורו במסכת מדות במשניות תוי"ט:
+
+
+###### Maharam Schiff on Zevachim 20a:6
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20a:6](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20a:6)
+
+
+ברש"י בד"ה **ה"ג אבל כו' ומהו בית החליפות כו'**:
+
+
+###### Maharam Schiff on Zevachim 20a:7
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20a:7](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20a:7)
+
+
+ברש"י בד"ה **השתא רבי כו' קדושה חמורה לא כ"ש.** הס"ד: ומ"ה אנן כו' כיון דרבי מכשיר נמי צפון כו':
+
+
+###### Maharam Schiff on Zevachim 20a:8
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20a:8](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20a:8)
+
+
+ברש"י בד"ה **תרומת הדשן כו' לכל עבודות.** הס"ד: ומ"ה מתחלת עבודה כו' יום הוא. הס"ד: ומ"ה הא אמרת פסלה לינה ולינה בעמוד כו' עד בוקר. הס"ד: ומ"ה הא אמר מכאן כו' עבודת יום זה. הס"ד: ומ"ה ולינה דרבנן לינה זו כו' תזלזל בלינה. הס"ד ומ"ה ומודה רבי כו' מן הבור מקרות הגבר כו' דדמי כמו שקידש ביום. הס"ד: אבל אם לא שקעו כלל לא הוי דמי דס"ס לן כל הלילה וע':
+
+
+###### Maharam Schiff on Zevachim 20a:9
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20a:9](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20a:9)
+
+
+ברש"י בד"ה **מיהרו וקידשו כו' בכהנים שעבדו כו'.** זו אהיום ויפסול כו' כצ"ל:
+
+
+
+## Daf 20b
+
+###### Maharam Schiff on Zevachim 20b:1
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20b:1](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20b:1)
+
+
+ברש"י בד"ה **בכהני כו' רגלים.** הס"ד: ומ"ה יציאה כו' הקדשים שקידשו בכלי כו':
+
+
+###### Maharam Schiff on Zevachim 20b:2
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20b:2](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20b:2)
+
+
+ד"ה **דלא פריש כו' מעבודה.** הס"ד: ומ"ה ונטמאו כו' את הידים הס"ד: ומ"ה מטבילין כו' לבדן. הס"ד:
+
+
+###### Maharam Schiff on Zevachim 20b:3
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20b:3](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20b:3)
+
+
+ד"ה **מקדש כו' לקידוש.** הס"ד: ומ"ה בפנים כו' הכיור וגו' והתם כו' ממנו. הס"ד: ומ"ה בכלי כו' איתרבי. הס"ד: ומ"ה או שטבל במי כו' מכונסין. הס"ד: ומ"ה עבודתן כו' קידש. הס"ד:
+
+
+###### Maharam Schiff on Zevachim 20b:4
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20b:4](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20b:4)
+
+
+ד"ה **אבל יצא כו' תידוק מינה.** הס"ד:
+
+
+###### Maharam Schiff on Zevachim 20b:5
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20b:5](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20b:5)
+
+
+ד"ה **שיצא להסך כו' ידיו ורגליו.** הס"ד:
+
+
+###### Maharam Schiff on Zevachim 20b:6
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20b:6](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20b:6)
+
+
+ד"ה **פרה כו' המשחה.** הס"ד: ומ"ה ויוצא אלמא כו' ורגלים. הס"ד:
+
+
+###### Maharam Schiff on Zevachim 20b:7
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20b:7](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20b:7)
+
+
+ד"ה **את"ל כו' הדעת.** הס"ד. כצ"ל:
+
+
+###### Maharam Schiff on Zevachim 20b:8
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20b:8](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20b:8)
+
+
+בתוס' בד"ה **יציאה כו' דעתיה מיניה דמשום קידוש כו'.** לא פסול אלא משום עבודה בחוץ אבל כו' (משום דס"ד דמאן כו' עד בבית המוקד שייך לעיל ע"א סוף ד"ה מיתיבי ראוהו כו' תירוץ לקושיתם שם ודו"ק):
+
+
+###### Maharam Schiff on Zevachim 20b:9
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20b:9](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20b:9)
+
+
+בא"ד **במקום זריזין איתא אורחא דמלתא כו'.** קצת קשה מאי קושיא התם משום לישה הוא דפסול כמו בללה (זר) [חוץ לחומה] דלעיל וכן התם בגמרא מייתי עלה ברייתא דבללה זר [כשירה חוץ לחומה] פסולה ע"ש [וכן הקשה מהרש"א בסוכה דף נ] ודו"ק:
+
+
+###### Maharam Schiff on Zevachim 20b:10
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20b:10](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/20b:10)
+
+
+בא"ד **גבי שולחן אבל מקדש כו' פירוש הקונטרס דהכא.** הס"ד: ועוד דיבור זה במנחות דף ט ובסוכה דף נ. ומ"ה קידש בכלי כו' טפי מבמים. הס"ד: ומ"ה כל המטיל כו' כצ"ל:
+
+
+
+## Daf 21a
+
+###### Maharam Schiff on Zevachim 21a:1
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:1](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:1)
+
+
+גמרא **לעבודת לילה חזי א"ה היינו כו'.** כצ"ל:
+
+
+###### Maharam Schiff on Zevachim 21a:2
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:2](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:2)
+
+
+ברש"י בד"ה **והא פרה כו' ושורפה אלמא כו' לה טומאה.** הס"ד:
+
+
+###### Maharam Schiff on Zevachim 21a:3
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:3](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:3)
+
+
+בד"ה **א"ה כו' קידוש כשאר קידוש כו'**:
+
+
+###### Maharam Schiff on Zevachim 21a:4
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:4](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:4)
+
+
+ד"ה **ה"ג כו' השחר כאיברים.** הס"ד. ומ"ה מי כיור כו' לפסול עם עבודת כו' החמה כו' מי כיור כו' הכל דיבור אחד:
+
+
+###### Maharam Schiff on Zevachim 21a:5
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:5](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:5)
+
+
+בד"ה **לאיברים כאיברים כו' כמו שאיברים כו' לעבודת לילה.** הס"ד: ומ"ה אף למתירין כו' ואם שיקעו כו' לעבודת היום הכל דיבור אחד:
+
+
+###### Maharam Schiff on Zevachim 21a:6
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:6](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:6)
+
+
+ד"ה **שוב אין כו' העלאתו ואתרוייהו פליג.** הס"ד: ומ"ה לעבודת כו' חלבים. הס"ד:
+
+
+###### Maharam Schiff on Zevachim 21a:7
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:7](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:7)
+
+
+ד"ה **מאי אינו כו' קאמר לה שלא יפסלו כו' הכל דיבור אחד.** ור"ל אינו מעלהו אף לעבודת לילה שלא יפסלו לעבודת היום ועיין כנ"ל:
+
+
+###### Maharam Schiff on Zevachim 21a:8
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:8](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:8)
+
+
+בתוס' בד"ה **מי כיור כו' באיזהו מקומן.** הס"ד: ומ"ה כיור כו' משום אונס שינה כו' משמע להו שהיו ישינים בצפרא ולא עמדו משנתם בצפרא וע"ש:
+
+
+###### Maharam Schiff on Zevachim 21a:9
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:9](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:9)
+
+
+בא"ד **א"נ י"ל שהיה להם מים בכלי שרת אחר כו'.** לא הבינותי זה דודאי קושיא לא היא מאין טבלו לתרומת הדשן דמים רבים בעולם רק מיד שמעלן פסולין לדעת המקשה א"כ מ"ש בכלי שרת אחר מכלי שרת דכיור דאין תלוי במי כיור נפסלין למתירין כו' רק העלאת לילה מן הבאר עושה לינה. ונראה דהא"נ אין כאן מקומו ושייך למטה בד"ה מאי אין מעלהו כו' אוא"ת ויפסול מימיו ומה בכך כו' ועיין. ואם נדחוק דקושיתם לא היה אמקדש לתרומת הדשן דכיון דלא אפשר בענין אחר שרי רק למה אינו מעלהו הא בלא"ה צריך להעלותו לתרומת הדשן ונפסלין המים של כיור לכל דבר ואהא אתי שפיר תירוצם של הא"נ. אבל אידך תירוצם ועי"ל כו' אין מקום לזה ודו"ק:
+
+
+###### Maharam Schiff on Zevachim 21a:10
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:10](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:10)
+
+
+בסה"ד הא בלילה מחזי חזי. גם זה לא ידעתי היאך ניחא דא"ל הא בלילה חזי מקרות הגבר דא"כ אמאי צריך לקדש ביום ודו"ק:
+
+
+###### Maharam Schiff on Zevachim 21a:11
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:11](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:11)
+
+
+בתוס' בד"ה **כיור כיון ששקעו כו' דאין זריעה להקדש.** הס"ד: ומ"ה כיור שלא כו' שקעו מעלהו לעבודת כו':
+
+
+###### Maharam Schiff on Zevachim 21a:12
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:12](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:12)
+
+
+בתוס' בד"ה **מאי אין מעלהו דקאמר לעבודת היום פי' כו' דר"י אית ליה גזירת שיקוע וכו' וי"ל דלא רצו כו' בתחלת הלילה או באמצעה וכו' זמן פסול מתירין של דם וקומץ כו'.** ר"ל כיון שעתה היא זמן פסול של עבודת דם וקמיצה גופא קבעו ג"כ זמן שיקוע השתא אע"ג דלרבי יוחנן אינו פוסל למתירין אלא כאברים (כ):
+
+
+###### Maharam Schiff on Zevachim 21a:13
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:13](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:13)
+
+
+בא"ד **שע"כ יש להן להעלותו כו' ולגזירת שיקוע ליכא למיחש.** דכיון וכו' משקע ליה ולא דמי כו' וא"ת ויפסיל מימיו כו'. לר"ח בר יוסף דאית ליה נמי מצות שיקוע מאי מהני השיקוע הא מ"מ צריך להעלותו לתרומת הדשן ונפסל למתירין מאי אמרת דע"י כן יזכור וישקע אח"כ קודם עלות עמוד השחר מאי מרויחין בזה רק לאיברים ומי הוא שוטה וכו':
+
+
+###### Maharam Schiff on Zevachim 21a:14
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:14](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:14)
+
+
+בא"ד **לשומרן כשאר קדשים שלא יפסלו וכו' להו זריעה וצ"ל דהאי דפסלא להו לינה כו'.** דהא דאמר אביי כו' וזה לשונו ומאי אינו כו' הכל דיבור אחד כצ"ל:
+
+
+###### Maharam Schiff on Zevachim 21a:15
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:15](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:15)
+
+
+בא"ד **(שייך לע"ב) רק בשקיעת החמה ובעמוד השחר וכו'.** עיקר המכוון לתרץ קושית ויפסול מימיו ומה בכך לזה פי' דטעם שיקוע הוא שלא יטעה העולם (ל) ויסברו כיון דמעלהו לאחר שקיעה א"כ למה שיקעו קודם שקיעת החמה ודאי שקיעת החמה הוא מכשירו לעבודת מחר עם עמוד השחר. ובשינויא גזירת שיקוע איכא בינייהו דהשתא אם מעלהו בלילה אינו פוסל לר"י (מ) מפרשי שיסברו העולם ששיקועו בשקיעת החמה לבדו מתירו ועיין:
+
+
+###### Maharam Schiff on Zevachim 21a:16
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:16](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:16)
+
+
+בא"ד **כי אם להיות זכורין ע"י כן שיקוע דסוף הלילה שכשמצאוהו כו' כי אם יעלהו לאחר שקיעת החמה כו'.** ר"ל אע"ג דמשום שמא ישכחו ולא יחזרו וישקעו ליכא למיחש דכיון שמצאו משוקע יחזרו לשקעו קודם עמוד השחר מ"מ יש לגזור שמא יאמרו שלהכשירו כו':
+
+
+###### Maharam Schiff on Zevachim 21a:17
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:17](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:17)
+
+
+בא"ד **שמא יאמרו שלהכשיר לעבודת מתירין למחר שיקעוהו בשקיעת החמה וכו' ופריך א"ה היינו דר"ח כו' שאנו צריכין אז לשקעו כדי כו'.** ר"ל דצריך להשהותו בשיקוע שלא יאמרו שיקוע דשקיעת החמה הוא המתיר כדלעיל ושיקוע דשקיעת החמה גופא צריכא שיזכור שיקוע דסוף הלילה וק"ל:
+
+
+###### Maharam Schiff on Zevachim 21a:18
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:18](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21a:18)
+
+
+בא"ד **בשלמא לרבא דמוקי כו' הא כרבי דס"ל וכו' ולא כהאי דלא פשיט כו' כרבי קשיא דרבי אדרבי כו' ומצריך לשיקוע כדי לזכור כו' ומ"ש בהא דקאמר דכבר קידש מתחלת כו' ומ"ש התם דלא משקע ליה.** הס"ד ומ"ה אי משקע ליה:
+
+
+
+## Daf 21b
+
+###### Maharam Schiff on Zevachim 21b:1
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21b:1](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21b:1)
+
+
+גמ' **ורש"י אין מקדשין בו שנאמר כו'.** כצ"ל:
+
+
+###### Maharam Schiff on Zevachim 21b:2
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21b:2](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21b:2)
+
+
+ברש"י בד"ה **איכא בינייהו וכו' כלומר הא דאוקי אין מעלה דר"י וכו' לעבודת מחר כו'.** וה"ק מאי אינו מעלהו נמי דקאמר דאינו מעלהו בלילה כדי שלא ישתכח מלחזור ולשקעו קודם עמוד השחר ויפסלו אחר עלות עמוד השחר לעבודת יום ולעולם אבל לעבודת אותה לילה שמעלהו חזי ולא כדקס"ד וק"ל. ואין צ"ל אבל לעבודת לילה חזי הוא מדברי המקשה כיון דאין חילוק בעבודת לילה בין ר"י לר' חייא כדקס"ד א"ה היינו דר"ח כו' [רק דהכל הוא מדברי התרצן]:
+
+
+###### Maharam Schiff on Zevachim 21b:3
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21b:3](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21b:3)
+
+
+ברש"י בא"ד **ור' חייא לא אסר לה להעלותו משום כו'.** ושרי להעלותו לעבודת הלילה לר' חייא אם ירצה רק דפסולין אח"כ למתירין וכמו שכתבו התוס' לעיל בד"ה מאי אין מעלהו וז"ל ורבי חייא לא גזר ושרי ליה להעלותו כל שעה שירצה וכו'. ולא רצה רש"י לפרש דס"ל לר"י כרבי חייא ובינייהו גזירת שיקוע דלרבי חייא שרי להעלותו אף דפסולין לעבודת מתיר ולר"י אסור להעלותו דא"כ קשה דר"י דבסמוך קידש ידיו לתרומת הדשן למחר אין צריך לקדש כו' הא מים נפסלו בהעלותן בלילה לתרומת הדשן ואיך יועילו לעבודת היום למחר [דלא עדיף מאילו קידש ידיו ביום מאותן המים שכבר העלוהו בלילה אפי' חזר ושיקען קודם עמוד השחר שכבר נפסלו בהעלותן בלילה מיד] ולפי' רבינו ברוך בתוס' בהגה"ה איכא בינייהו כו' דס"ד השתא דלר"י פסול למתירין מקשה באמת בסמוך הכי וגירסתו א"ה למחר אין צריך לקדש למימרא דלמתירין מיחזי חזי כו' [דאל"כ אמאי א"צ לקדש הא כבר נפסלו המים בהעלותן בלילה א"כ] היינו דרב חסדא ומקשי מהך מימרא דרבי יוחנן ולא מקשה תיכף בשנותו גזירת שיקוע איכא בינייהו דאינו מוכרח עדיין היאך יסבור ר"י אי כרבי חייא אי כרב חסדא [דשפיר איכא לפרושי השתא דסובר ר"י כרבי חייא וכדמפרש לה רבינו ברוך באמת. אבל מאידך דר"י מוכרח שפיר דס"ל כר"ח ולכך מקשה מינה היינו דרב חסדא]. מיהו אמאי צריך לרבינו ברוך לומר דלר"י פסול מדרבנן ולא פסול מן התורה וצ"ע היטב. גם לפירש"י אמאי מקשה לעיל א"ה היינו דרבי חייא ולא מקשה מהך דקידש ידיו לתרומת הדשן כו' דהרי המים פסולין בהעלותן למתירין. ואי ניחא ליה למיפרך מיניה וביה היינו דרבי חייא. אמאי לא מקשה השתא נמי מיד [דמשני גזירה שיקוע דמפרש לה רש"י דסובר כרב חסדא תיקשי מיד] היינו דרב חסדא והיא קושית התוס' באמת ודו"ק:
+
+
+###### Maharam Schiff on Zevachim 21b:4
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21b:4](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21b:4)
+
+
+ברש"י בד"ה **והא אמר ר"י וכו' הא קשיא לן דלא כו' לא פסלה לינה.** הס"ד. וא"כ הא דאמרינן קידש ידיו לתרומת הדשן כו' וראה בקצת דברי ר"ח ובקצת דברי רבי בקידוש. ובמי כיור לא ס"ל כלל כרבי דפסליה מדאורייתא רק מדרבנן פסולין קודם תרומת הדשן (נ) ומ"ה הא כרבי כו' הא דאמר ר"י כו':
+
+
+###### Maharam Schiff on Zevachim 21b:5
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21b:5](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21b:5)
+
+
+ברש"י בד"ה **אלא לאביי כו' קשיא דרבי אדרבי בו' במודה רבי דמקרות הגבר כו' הוא דגריס ליה.** הס"ד: ומ"ה מאי שנא כו' ומ"ש כו'. הס"ד: ומ"ה דמסלק ליה כו' הדשן ור"י הוא וכו'. הכל דיבור אחד:
+
+
+###### Maharam Schiff on Zevachim 21b:6
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21b:6](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21b:6)
+
+
+ברש"י בד"ה **א"ה כו' בתמיה אמאי אמר כו' קידוש מחר.** הס"ד: ומ"ה ומשני א"צ לקדש הוא דאמר דכיון כו' וכרבי אליעזר. הס"ד: ומ"ה היינו דרב חסדא כו' היינו דרב חסדא. הס"ד:
+
+
+###### Maharam Schiff on Zevachim 21b:7
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21b:7](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21b:7)
+
+
+ברש"י בד"ה **לא היו רואין אותו כו'**:
+
+
+###### Maharam Schiff on Zevachim 21b:8
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21b:8](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21b:8)
+
+
+(בד"ה) **לא דמשקע השתא.** הס"ד:
+
+
+###### Maharam Schiff on Zevachim 21b:9
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21b:9](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21b:9)
+
+
+(בד"ה) **בי תרי כו' עבדי שתי היכירות כו'.** כצ"ל:
+
+
+###### Maharam Schiff on Zevachim 21b:10
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21b:10](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21b:10)
+
+
+בתוס' בד"ה **אי משקע ליה כו' וא"ת כו' היינו בהעלותו כו'.** קושיתם לא מיחוורא. וצ"ל שחזר והעלוהו ושיקעוהו לשם זה [כדי להעלותו בשביל] שישמעו הכהנים ועיין:
+
+
+###### Maharam Schiff on Zevachim 21b:11
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21b:11](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21b:11)
+
+
+בא"ד **וי"ל דהיינו דקאמר דמשקע ליה בגלגלא והקול שנשמע כו' הבור ומעלהו ואיבעית אימא דמשקע בחומרתא אף השיקוע היה בגלגלא כדי להשמיע כו' בהורידו ובהעלותו.** גם זה ובהעלותו הוא דוחק ועיין כי כמדומה שכל זה משובש:
+
+
+###### Maharam Schiff on Zevachim 21b:12
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21b:12](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/21b:12)
+
+
+בהגה"ה המתחלת איכא בינייהו כו' ועוד מקשים דלפרוך וכו' ועוד אדפריך בסמוך כו' כצ"ל (ס):
+
+
+
+## Daf 22a
+
+###### Maharam Schiff on Zevachim 22a:1
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:1](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:1)
+
+
+ברש"י בד"ה **ירחצו כו' אל המזבח לא לכתוב ירחצו דהא אורחצו הסמוך קאי הס"ד.** ומביא פסוק מאוחר מפקודי דכתיב אצל האי קרא דורחצו ממנו משה ואהרן ובניו: ומ"ה שנמשח עמו כו':
+
+
+###### Maharam Schiff on Zevachim 22a:2
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:2](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:2)
+
+
+בד"ה **לנחושת כו'.** דימיתיו לכיור ולא לדבר אחר לא הקשיתי כו' ניתי בהקישא אלא ש"מ כו'. הכל דיבור אחד:
+
+
+###### Maharam Schiff on Zevachim 22a:3
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:3](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:3)
+
+
+ד"ה **כל המשלים כו' מפרש להו הס"ד: ומ"ה משלים כו' כהנים.** הס"ד:
+
+
+###### Maharam Schiff on Zevachim 22a:4
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:4](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:4)
+
+
+ד"ה **אפילו לרביעית כו' לא נפסלו כשרין.** הס"ד:
+
+
+###### Maharam Schiff on Zevachim 22a:5
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:5](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:5)
+
+
+ד"ה **יבחושין כו' מן המים הס"ד: ומ"ה אפילו בעינייהו כו' כשר ור"ל כו'.** הכל דיבור אחד:
+
+
+###### Maharam Schiff on Zevachim 22a:6
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:6](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:6)
+
+
+ד"ה **למעוטי כו' מכוונת נתן סאה כו' נמצא שהמקוה הזה כו' לבטולינהו.** הס"ד:
+
+
+###### Maharam Schiff on Zevachim 22a:7
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:7](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:7)
+
+
+ד"ה **מטבילין בו מחטין כו'.** וצנוריות:
+
+
+###### Maharam Schiff on Zevachim 22a:8
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:8](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:8)
+
+
+ד"ה **כשרין להשאיב הכיור מתוכו כו'**:
+
+
+###### Maharam Schiff on Zevachim 22a:9
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:9](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:9)
+
+
+ד"ה **והתניא כו' והכרעים ירחץ כו' ואחד יין.** הס"ד:
+
+
+###### Maharam Schiff on Zevachim 22a:10
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:10](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:10)
+
+
+ד"ה **מאי ק"ו כו' וה"ק ק"ו למים כו' קרבי קדשים.** הס"ד:
+
+
+###### Maharam Schiff on Zevachim 22a:11
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:11](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:11)
+
+
+ד"ה **והא תנא דבי כו'.** כצ"ל:
+
+
+###### Maharam Schiff on Zevachim 22a:12
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:12](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:12)
+
+
+בתוס' בד"ה **בין שאין כו' בדהוה ביה רביעית מעיקרא הס"ד: ור"ל דהוי ביה רביעית עכ"פ מעיקרא רק שעתה אין בו כמו גבי נטילת ידים וק"ל.** ועיין בתוספות סוכה. ואח"כ שייך ד"ה בקודח מתוכו כו' לא פי' כן. הס"ד: ואח"כ שייך ד"ה והא ממנו כו' מתניתין דיומא דקתני כו' שיהא בו כשיעור. אבל אגופא דמתניתין [לא קשה. דאפשר] לא בעי בכיור גופא שיעור רביעית:
+
+
+###### Maharam Schiff on Zevachim 22a:13
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:13](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:13)
+
+
+ד"ה **ק"ו מכנו כו' ונפחתה שולי'.** הס"ד: ומ"ה לרביעית כו' לרביעית של נטילת ידים וקצת היה נראה כו' ר"ל כבר בטלו רביעית כו' בפרק שלשה מינין הס"ד. ואף דר"פ בתרא יותר הוי יש לישב וק"ל: ומ"ה למעוטי טיט כו' מקוה אין מטבילין כו' מקואות פ"ד אלו כו' מ' סאה מים וטיט ר"א כו' יורד מאליו דברי ר"מ כו' אבא אליעזר בן דילאי אומר מקום שהמשקולת כו' ר"ש אמר הנכנס בשפופרת כו':
+
+
+###### Maharam Schiff on Zevachim 22a:14
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:14](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:14)
+
+
+בתוס' בד"ה **אפי' לרביעית כו' שוחה ושותה ממנו כו'.** עיין התם בפ' כל הבשר:
+
+
+###### Maharam Schiff on Zevachim 22a:15
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:15](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:15)
+
+
+בתוס' בד"ה **נתן סאה כו' והכא כתיב במים כו'**:
+
+
+###### Maharam Schiff on Zevachim 22a:16
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:16](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22a:16)
+
+
+בתוס' בד"ה **והא תנא דבי שמואל פי' הקונטרס לא ידענא כו'.** כצ"ל:
+
+
+
+## Daf 22b
+
+###### Maharam Schiff on Zevachim 22b:1
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:1](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:1)
+
+
+ברש"י בד"ה **ת"ל ערל כו' בכהן קאמר.** הס"ד: ומ"ה שנתנכרו כו' למקום. הס"ד:
+
+
+###### Maharam Schiff on Zevachim 22b:2
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:2](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:2)
+
+
+בד"ה **טמא פסול כו' קרב בטומאה.** הס"ד. דזקני דרום דאמרו אמתניתין לא שנו כו' אבל טמא מת מתוך כו' ע"כ למדו מתני' איחיד ואי איירי בציבור פשיטא דלא איירי במת רק תאמר טמא סתמא בכל טמא איירי ואיירי ביחיד לזה אמרו דאפ"ה לא איירי במת דמתוך כו': ומ"ה מתוך כו' ביחיד דיעבד כו'. דהשתא ליכא למיפרך מה לציבור שכן באה בטומאת בעלים לכן מרצה בטומאת כהן תאמר ביחיד דבטומאת בעלים נדחה לפסח שני אינו מרצה בכהן טמא דמ"מ נילף כיון דמרצה בציבור לכתחלה מרצה ביחיד דיעבד שהציבור טמאין ומדגלי כו'. הכל דיבור אחד. אשתראי. הס"ד:
+
+
+###### Maharam Schiff on Zevachim 22b:3
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:3](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:3)
+
+
+ברש"י בד"ה **טמא שרץ כו' מטמא מת.** הס"ד: ומ"ה קסברי כו' מכפרין כמתכפרין כשהותרה כו' כהן כציבור מה כו':
+
+
+###### Maharam Schiff on Zevachim 22b:4
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:4](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:4)
+
+
+ד"ה **מאי קסברי כו' בק"ו.** הס"ד: ומ"ה אי קסברי כו' מאיש איש כי יהיה כו' אפי' חל שביעי שלו כו' ליה כטמא שרץ: ומ"ה אמאי לא עבדי ציבור בטומאה הא כל כו'. הכל דיבור אחד:
+
+
+###### Maharam Schiff on Zevachim 22b:5
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:5](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:5)
+
+
+בד"ה **אלא ס"ל כמ"ד כו'**:
+
+
+###### Maharam Schiff on Zevachim 22b:6
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:6](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:6)
+
+
+בד"ה **איזה כח כו' ואזיל שהיחיד טמא כו' טמא שרץ והכהן המרצה כו'.** הכל דיבור אחד:
+
+
+###### Maharam Schiff on Zevachim 22b:7
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:7](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:7)
+
+
+בד"ה **מקום שאם כו' אצל שרץ ואמאי אמרי זקני דרום מרצה כו'**:
+
+
+###### Maharam Schiff on Zevachim 22b:8
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:8](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:8)
+
+
+בד"ה **טמא מת כו' מתוך שמרצה בעבודת ציבור לכתחלה כו'.** כצ"ל:
+
+
+###### Maharam Schiff on Zevachim 22b:9
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:9](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:9)
+
+
+בתוס' בד"ה **יצאו מי כו' דכך שמו מי כיור בשעת מתן תורה הס"ד.** ור"ל לאו דוקא כל שנשתנה שמו קודם מתן תורה רק כיון שבשעת מתן תורה היה נקרא מי כיור ונעשה השם לווי הא דכתב רחמנא במים יצאו מי כיור וע"ש: ומ"ה ערל כו' לערלות וקרי ליה כו':
+
+
+###### Maharam Schiff on Zevachim 22b:10
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:10](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:10)
+
+
+ד"ה **משום דאין כו' אפילו שב בשעת עבודה כו' לא היה לבו לשמים.** הס"ד: ומ"ה אבל טמא כו' דאינו מרצה ביחיד לפי כו':
+
+
+###### Maharam Schiff on Zevachim 22b:11
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:11](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:11)
+
+
+ד"ה **אי הכי כו' אבל אי לאו מתוך לא וכו'.** טמא מיירי בין וכו':
+
+
+###### Maharam Schiff on Zevachim 22b:12
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:12](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:12)
+
+
+בא"ד **ועי"ל כי נמי כו'.** ההבדל שבין ב' התירוצים לתירוץ ראשון היה הבל"ז לעולם לא אמרינן מתוך ובציבור בין טמא מת ובין טמא שרץ מרצה וטמא פסול דמתני' מיירי בין טמא מת בין טמא שרץ ביחיד פסול דלא אמרינן מתוך ומקשה לדידכו דאמריתו מתוך א"כ בהכרע ס"ל דבטמא שרץ אף בציבור אינו מרצה דאי לא תימא הכי אמאי טמא פסול לימא מתוך ואמאי ניליף ק"ו דטמא שרץ מרצה בציבור ונימא מתוך אלא לעולם לא אמרינן מתוך ואין זה דמיון לפירוש ר"ת דבסמוך דאפילו לפי האמת דזקני דרום ס"ל מרצה בטמא שרץ בציבור והקושיא הוא א"ה נילף יחיד מיחיד כדבסמוך. ולועוד י"ל הבל"ז לעולם אמרינן מתוך וטמא דמתניתין איירי בזב וכו':
+
+
+###### Maharam Schiff on Zevachim 22b:13
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:13](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:13)
+
+
+בא"ד **ושרץ לא דמרצה ביחיד וכו' בדיעבד ושרץ מק"ו וכו' בטמא שרץ ור"ת גריס וכו' דבמועדו אפילו בטומאה היינו בין במת בין בשרץ וכו'.** ר"ל בטומאת כהן דבסמוך:
+
+
+###### Maharam Schiff on Zevachim 22b:14
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:14](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:14)
+
+
+שם והא דקאמרו זקני דרום וכו' דבמועדו אמר רחמנא ואפי' בטומאה מ"מ אין לו ריצוי וכו' ואילו נטמאו ציבור בשרץ אין לו לאכול בטומאה וכו' מק"ו מטמא מת יחיד ומשני וכו' מק"ו דמת אתיא שטעון וכו' וי"ל דהא דלא אכלי וכו' כמתכפרין ה"נ נימא וכו' א"כ יאכל יחיד כבציבור. הס"ד כצ"ל:
+
+
+###### Maharam Schiff on Zevachim 22b:15
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:15](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/22b:15)
+
+
+לפי' ר"ת (ע) צ"ל פירכא דר"ל [דפריך אזקני דרום] ומה בטמא שרץ שהטומאה קליל שם ומשלחין קרבנות. דאף שהוא משום דיכולין לאכול בלילה סוף סוף בטומאת שרץ לסיבת קלותו משלח קרבנותיו וא"ה כהן שנטמא וכו' וק"ל:
+
+
+
+## Daf 23a
+
+###### Maharam Schiff on Zevachim 23a:1
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:1](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:1)
+
+
+ברש"י בד"ה **לפי אוכלו כו' דהיינו שחיטה.** וש"מ דאין שוחטין וזורקין אלא על האוכלין ומפרש תכוסו מלשון שחיטה כדלעיל (זבחים דף ד') ברש"י כאדם האומר כוס לי טלה זה כו' אבל ברייתא דבסמוך מפרש תכוסו מלשון מנין וכן מפרש רש"י בחומש:
+
+
+###### Maharam Schiff on Zevachim 23a:2
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:2](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:2)
+
+
+ברש"י בד"ה **וכי לא מקשי כו' דשוחטין עליו לכתחלה.** הס"ד:
+
+
+###### Maharam Schiff on Zevachim 23a:3
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:3](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:3)
+
+
+ד"ה **מיתיבי לזקני דרום.** הס"ד: ומ"ה מפני כו' צולין. הס"ד: ומ"ה שהנזיר כו' כדכתיב וכי ימות כו' נזירות טומאתו שתי כו':
+
+
+###### Maharam Schiff on Zevachim 23a:4
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:4](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:4)
+
+
+ד"ה **ה"נ דמרצה ציץ.** הס"ד: ומ"ה כגון כו' בכיצד צולין הס"ד: ומ"ה טומאת התהום כו' צולין הס"ד: ומ"ה לא אמרו דהותרה טומאה כו':
+
+
+###### Maharam Schiff on Zevachim 23a:5
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:5](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:5)
+
+
+ד"ה **מאי לאו כו' ק"ו מהלכה.** הס"ד. וא"ל כאן ולטעמיך (פ) דמוקמית לה בטומאת בעלים במת והיאך ממעט שרץ הא שוחטין וזורקין עליו אף בוודאי אלא צ"ל דאין שוחטין וזורקין על טמא שרץ וקשה לזקני דרום דזה אינו קושיא וק"ל:
+
+
+###### Maharam Schiff on Zevachim 23a:6
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:6](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:6)
+
+
+ברש"י בד"ה **טומאת התהום כו' ראייה אחת ספק חציה כו'.** הכל דיבור אחד. עליו מגופו. הס"ד:
+
+
+###### Maharam Schiff on Zevachim 23a:7
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:7](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:7)
+
+
+בד"ה **כהן המרצה כו' ה"ז מרצה.** הס"ד: ומ"ה דרמי בר חמא כו' וס"ל דאין יחיד טמא מת משלח כו'. אבל א"ל דס"ל משלח קרבנותיו ואתיא ברייתא דבסמוך [ונשא אהרן כו'] דמקשה לרמי בר חמא כפשטה בטמא מת הציץ מרצה ומתניתין דלעיל בטמא שרץ וס"ל אין שוחטין וזורקין על טמא שרץ וברייתא דרבי חייא למעוטי טומאת התהום דזיבה. ואף דמשמעות ברייתא דרבי חייא הוא יותר למעט הכל מ"מ מרווחנא קושית התא שמע דבסמוך. דיציבא בארעא וגיורא בשמי שמיא שטמא שרץ שיכול לאכול לאורתא אין שוחטין וזורקין ואין הציץ מרצה וטמא מת משלח קרבנות בדיעבד ולמ"ד אין שוחטין וזורקין על טמא שרץ הוא מקרא דאיש איש וכו' ואפי' חל שביעי שלו בע"פ כפירש"י לעיל וטמא מת גופיה משלח קרבנותיו בדיעבד וקרא אינו אלא למצוה [כל זה אין סברא דכלפי לייא] וזה פשוט:
+
+
+###### Maharam Schiff on Zevachim 23a:8
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:8](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:8)
+
+
+ברש"י בד"ה **ת"ש וכו' חכמים.** הס"ד. כצ"ל:
+
+
+###### Maharam Schiff on Zevachim 23a:9
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:9](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:9)
+
+
+בתוס' בד"ה **זקני דרום כו' הוי ופליגי אמתניתין דתמיד כו' ס"ל כרבי נתן כו' לא חזי.** הס"ד: ומ"ה מפני כו' דרום תנאי הוא כו' דלכ"ע מרצה כו' אית להו טומאת כו' התם לר"י הס"ד: ומ"ה אלא בטומאת מת וקתני כו' איש איש למצוה. הס"ד: ומ"ה לא למעוטי כו' הא טומאה ידועה לא מרצה ותירץ הרב רבינו חיים כהן דמיירי כו' והוי כטומאת שרץ כו' טעמא דבשביעי יכול כו' ומיירי ברייתא דר"ח בכהן כו'. ר"ל ברייתא דר"ח איירי בכהן לא בבעלים:
+
+
+###### Maharam Schiff on Zevachim 23a:10
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:10](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:10)
+
+
+בא"ד **בטומאה ודאי של שרץ וכו'.** ר"ל הדיוק של טומאת התהום לאפוקי ודאי של שרץ או מת בז' שלו:
+
+
+###### Maharam Schiff on Zevachim 23a:11
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:11](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:11)
+
+
+בא"ד **בטומאה אלא שולחין קרבנותיהן וכו' ברייתא דר"ח דכיון דשוחטין כו'.** למיעבד ע"י טהורין כו' ולא מהדרינן אטהורים אפי' כו' לכתחלה אלא מהדרינן כו' (ואפשר שלא מרצה נמשך ג"כ אולא מהדרינן) (צ):
+
+
+###### Maharam Schiff on Zevachim 23a:12
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:12](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:12)
+
+
+בא"ד **דטומאה דחויה בציבור כו'.** ר"ל לא שהותרה בציבור רק דחויה ופלוגתא היא בעלמא:
+
+
+###### Maharam Schiff on Zevachim 23a:13
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:13](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:13)
+
+
+בא"ד **אפי' בטומאה אלא אם יכול לזרוק כו' ואפי' איכא טהורין.** הס"ד. ור"ל דהכא פשיטא ליה אם קבל הדם בטומאה שמרצה לכתחילה לזרוק:
+
+
+###### Maharam Schiff on Zevachim 23a:14
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:14](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:14)
+
+
+בתוס' בד"ה **טומאת התהום דזיבה פי' הקונטרס כגון כו' של י"ג ספק כולו כו'.** ר"ל בין השמשות של אור לי"ג לא אור לי"ד דהא הוי טבול יום היאך ירצה [מאחר דבשמעתין איירי בטומאת כהן] מיהו בסמוך כתבו בהדיא בין השמשות סוף יום י"ג וצ"ע. ובסה"ד כתבו בהדיא שראה א' בי"ג וטבל והעריב שמשו כו' ואפשר מ"ש סוף יום י"ג כתבו אהא דר"י [דבפסחים דאיירי בטומאת בעלים דשוחטין וזורקין עליו וכמו דבעי לאשכוחי לרבנן דאיירי בז' שלו דהיינו ע"כ בטומאת בעלים אבל בפירש"י בשמעתין דאיירי בטומאת כהן ודאי דאיירי באור לי"ג]:
+
+
+###### Maharam Schiff on Zevachim 23a:15
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:15](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:15)
+
+
+בא"ד **לא מצי משכח לר' יוסי כו'.** דס"ל מכאן ולהבא סותר ע"ש דף פ"א:
+
+
+###### Maharam Schiff on Zevachim 23a:16
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:16](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23a:16)
+
+
+[בא"ד] **ונ"ל ברוך דבעי' כו' אמרו לו לאחר שחיטה ראית בין כו' סתר מידי ורבינו מקשה לימא שראה לפני כו' ורבינו מתרץ בזה דכיון כו' וקשה על פירושו משמעתין דמיירי בכהן המרצה וי"ל כו' למימר אולי יראה כו' כצ"ל.** והנה הלשון מגומגם והמכוון בדבריהם נראה דמקשו אפירש"י אם זה איקרי טומאת התהום אמאי לא מצי משכח התם לר' יוסי לימא בכי האי גוונא אלא בכי ה"ג לא מיקרי כלל טומאת התהום לכ"ע לכן מקשה התם שפיר בשלמא לרבנן משכחת דשחטו על זב בשביעי שלו ואח"כ ראה דסותר כו' ובזה מיושב ג"כ קושית רבינו אבל הוא מתרץ בענין אחר וקשה משמעתין דקאמר למעוטי טומאת התהום דזיבה היכא משכחת לה ולא מצי לומר דראה בז' שלו כו' דהא הכא בכהן שהוא זב קיימינן דא"ל לדידיה כו' י"ל כגון שראה א' בי"ג וטבל כו' דהא אף ברואה לפני שחיטה וחזר וראה שניה דסתר פי' [רבינו] כיון דראייה ראשונה אינו מטמא במשא לא פקע שמו כו' כ"ש בטבל וטהור גמור. אבל רבינו ברוך מפרש שמעתין בראה בי"ג וטבל והעריב שמשו כו':
+
+
+
+## Daf 23b
+
+###### Maharam Schiff on Zevachim 23b:1
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:1](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:1)
+
+
+גמ' **ובמאי אי בנזיר כו'.** ודאי אף בנזיר קשה לרמי בר חמא דמוקמי מתני' דלעיל מפני שאמרו הנזיר ועושה פסח כו' אין הציץ מרצה על טומאת הגוף בטומאת בעלים במת רק צריך לישב הברייתא אף בלא רמי בר חמא:
+
+
+###### Maharam Schiff on Zevachim 23b:2
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:2](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:2)
+
+
+גמ' **אינן במיתה אלא כו'.** כצ"ל:
+
+
+###### Maharam Schiff on Zevachim 23b:3
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:3](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:3)
+
+
+ברש"י בד"ה **אם עון פיגול וכו' ירצה ואם עון כו'.** בכל מקום וה"ק כו' אם אינו ענין לחוץ לזמנו תנהו ענין לחוץ למקומו הרי כבר נאמר לא ירצה:
+
+
+###### Maharam Schiff on Zevachim 23b:4
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:4](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:4)
+
+
+בד"ה **הרי כבר נאמר המקריב כו' ואי אפשר לומר כן שאין הקרבן כו'.** נקיט ההוכחה עצמה שבקרא דאם האכל יאכל ביום הג' איירי במחשב לאוכלו חוץ לזמנו ולא באוכלו ביום הג' וכפירש"י בפרשת צו. אם הותיר ממנו. הס"ד: ומ"ה הא אינו נושא כו' הא כלומר הנה כו':
+
+
+###### Maharam Schiff on Zevachim 23b:5
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:5](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:5)
+
+
+ברש"י בד"ה **אלימא טומאת שרץ ומיתוקמא בכהן או בבעלים כו'.** ובסמוך ד"ה אי נימא טומאת שרץ פי' ונוקמא זקני דרום בכהן כו' הוכרח לפרש כן דכיון דס"ל לזקני דרום בלא"ה שוחטין וזורקין כדלעיל לא משמע ליה דמכח ריצוי ציץ הוא והכא לרמב"ח מפרש או אפי' בבעלים וע"י ריצוי הציץ הוא דשוחטין וזורקין ועיין:
+
+
+###### Maharam Schiff on Zevachim 23b:6
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:6](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:6)
+
+
+בד"ה **לעולם וכו' אשתראי בהן.** הס"ד. ומ"ה שום טמא כו' על טומאת שרץ. הס"ד: ומ"ה ואיכא כו' בר חמא הס"ד. ומ"ה עון מקדישין לא כו' לא מרצה הס"ד: ומ"ה במאי טומאה כו' אכיל ליה. הס"ד: ומ"ה היכא וכו' ויחיד אינו נדחה ציבור לא עבדי בטומאה הס"ד. ומ"ה אלא וכו' קרבן יחיד. הס"ד: ומ"ה לעולם כו' אשתראי בהו. הס"ד: ומ"ה לעמוד כו' שבטיך לעמוד לשרת וגו'. הס"ד: ומ"ה ולא לישיבה וכו':
+
+
+###### Maharam Schiff on Zevachim 23b:7
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:7](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:7)
+
+
+ד"ה **אימא עבודה במיתה.** הס"ד:
+
+
+###### Maharam Schiff on Zevachim 23b:8
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:8](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:8)
+
+
+בתוס' בד"ה **אם עון כו' ומה שנזכר פיגול קודם לנותר כו'.** גם לפירש"י מקשו זה. ועיין בתוס' יומא דף ז' ובפסחים דף ט"ז ובמנחות תמצא כל אלו התוס'. גם עיין בספר קרבן אהרן באריכות סוגיא זו עם פירש"י ותוספות בלי חידוש כ"כ:
+
+
+###### Maharam Schiff on Zevachim 23b:9
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:9](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:9)
+
+
+בא"ד **אע"ג דבקרא נזכר ברישא חוץ לזמנו כו' כתיב בקרא בהדיא.** הס"ד: ומ"ה אם עון נותר כו' לא נותר ממש כו' חוץ לזמנו. הס"ד: ומ"ה הא אינו נושא כו' דמשמע דבר שהוא לרצון כו' הותר מכללן בכל הני דפריך מנייהו בהקומץ רבה יוצא ושמאל ובעל מום וא"ת א"כ נותר ופיגול כו' דלפני ה' אין עון דיוצא כו' חשיב שפיר לפני ה' שהמחשבה בפנים וא"ל דבבמה כו' של מזבח דאיכא למ"ד כו' וקשה למ"ד לינה מועלת כו' מתירין אין חייבין כו' על המזבח החיצון כשלמים אין כו' בשלמים אינו דין שיפסול כו' דאפי' פסולא ליכא א"כ במנחת כהנים כו' דהותר מכללו לגמרי. הס"ד: ומ"ה לאו כגון שנטמאו בעלים במת כו' אלא בכי האי גוונא כו' ולא עון מקדישין. הס"ד: ומ"ה אי נימא כו' א"כ אין הציץ מרצה על היחיד דהא כו'. אין להקשות דלמא לכתחלה אין שוחטין ובדיעבד ציץ מרצה דהשתא כיון דלכתחלה יחיד נדחה ציבור עבדי בטומאה וכמו טמא מת לזקני דרום. דכיון דס"ל אין שוחטין וזורקין מאיש איש יליף אפי' חל בז' שלו כפרש"י לעיל א"כ הוי לעכב אפי' בדיעבד כטמא מת לרמי בר חמא [דס"ל דאפי' בדיעבד מעכב מקרא דאיש איש וה"ה בטומאת שרץ דמ"ש דיהני ריצוי ציץ בטמא שרץ טפי מטמא מת כיון דתרוייהו נכללו בקרא דאיש איש]:
+
+
+###### Maharam Schiff on Zevachim 23b:10
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:10](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:10)
+
+
+בא"ד **וקשה מאי פריך וכו' דמרצה בציבור מק"ו דלעיל.** ומה מת שטעון הזאה שלישי ושביעי כו':
+
+
+###### Maharam Schiff on Zevachim 23b:11
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:11](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:11)
+
+
+בא"ד **דלית ליה כמו זקני דרום** כצ"ל:
+
+
+###### Maharam Schiff on Zevachim 23b:12
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:12](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:12)
+
+
+בא"ד **וסבר רמי בר חמא טומאת מת מרצה בכהן ביחיד כו'.** וטמא פסול דמתניתן בזב ומצורע שטומאה יוצא מגופו כמ"ש התוס' לעיל:
+
+
+###### Maharam Schiff on Zevachim 23b:13
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:13](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:13)
+
+
+בתוס' בד"ה **אימא מה זר כו' דמחוסר בגדים לא מייתרא אלא משום כו' דלא ילפינן מיתה מהא דקרייה רחמנא זר ולפ"ה כו' (עהח"ג)ענין התוס' דהכא הן הן הדברים דלעיל [ דף יח ע"א בתוס' בד"ה אתיא חוקה חוקה] וזרו לעיל שקושית הר"ר יעקב קיימא וה"נ אחרי נשאר פירש"י לעיקר הקשו ועוד קשה לפ"ה דליהוי זר ומכנסים כו'.** והוא כי התוס' מפרשים קושית הגמרא אף יושב במיתה מכח דרחמנא קרייה זר ליהוי כזר וע"ז אמר דהוי ב' כתובים הבאין כאחד דרחמנא כתב מיתה במכנסים דהיינו מחוסר בגדים ובלא רחוץ ידים ורגלים ותרוייהו מייתרא דכיון דכתיב בבגדים והיתה להם כהונת עולם אין בגדיהן עליהן אין כהונתן כו' [והוי כזר] ובזר כתיב מיתה [ולא סברי התוס' עתה תירוץ הר"ר יעקב דבעי קרא למכנסים דוהיתה להם כהונת עולם בשאר בגדים הוא דכתיב] ונילף חוקה חוקה שלא רחוץ ממחוסר בגדים אלא ע"כ כיון התורה שלא נילף מיתה מהא דקרייה רחמנא זר ולכן איצטריך מיתה בהדיא במחוסר בגדים והדר כתביה בלא רחוץ ידים למיהוי ב' כתובין הבאין כאחד להורות דהיכא דלא כתיבא מיתה בהדיא אף דקרייה רחמנא זר לא הוי במיתה. ולפי' הקונטרס דיליף מחדא דיושב אינו במיתה דמפרש ליהוי יושב במיתה במה מצינו ומשני דאם נילף במה מצינו א"כ ל"ל קרא בלא רחוץ כו' אלא מש"ה כתבה רחמנא בה מיתה בפירוש דליהוי ב' כתובין הבאין כאחד שלא רחוץ ומחוסר בגדים דהיינו זר [והוי פירושא בהא דקאמר תלמודא דהוי מחוסר בגדים ושלא רחוץ כו' ב' כתובים. דהיינו דלא לכתוב רק חדא מנייהו ואידך ל"ל. ולזה כתב רש"י וה"ה דהומ"ל דחד מהנך עם זר הוי ב' כתובים]. וע"ז הקשו הא הו"ל ג' כתובים במחוסר בגדים וזר ושלא רחוץ ואף דליכא ייתורא אלא ב' לפירש"י מיקרי ג' כתובים. וכתבו ובקונטרס פי' וה"ה כו'. וא"א לומר כן כו'. וזהו מ"ש לעיל (זבחים דף י"ח) והשתא אתי שפיר גם קושית הרר"י כו' דהיינו כפי' התוס' דהכא וכתבו עוד שם אבל יושב אע"ג דקרי זר אינו במיתה [דהוי ג' כתובים] אבל על שאר פסולין כגון ערל כו' לא איצטריך קרא כו' כיון דלא איקרי זרים עכ"ל וכפי' התוס' דהכא ואח"כ הקשו שם חוזרני לומר כו' דהא עיקר הדבר אינו מן המדה וא"צ ייתור [להיות ג' כתובים] רק ב' ייתורים ואחד לגופיה וא"כ הפשט לקמן [בשמעתין דהכא] אינו כפי' התוס' שיהיה הקושיא מכח זר [דיושב איקרי זר] וישני משום דהוי מחוסר בגדים ושלא רחוץ מיותרים והוי ב' כתובים הבאין כאחד ולמ"ד ב' כתובין מלמדין הוי שתויי יין קרא שלישי [דכל זה אינו מן המדה דלא צריך רק ייתור אחד או ב' ייתורים למ"ד דבעי' ג' כתובים] וא"כ ע"כ פירוש דמחוסר בגדים הוא והיתה להם כהונה ומטעם זרות ש"מ דהוא במיתה ואשמעינן ב' כתובים דהיכא דליכא זרות כמו יושב (ק) אינו במיתה מכח מה מצינו. וכפי' הקונטרס. וא"כ הדרא קושיא ל"ל מיתה במכנסים [אף לתירוץ הרר"י דלעיל דאין כהונתן עליהן לא קאי אמכנסים מ"מ] נילף בגזירה שוה דחוקה חוקה משאר בגדים דכתיב בהן והיתה להם כהונה. אבל לפי' התוס' ודאי דלא היה קושיא דאי לאו מיתה במכנסים לא הוי ידעינן מיתה במחוסר בגדים דהא הוי ב' כתובים (ר) לאורויי דלא הוי במיתה מהא דאיקרי זר וכמו יושב דאף דהוי זר אינו במיתה רק פי' התוספות אינו דא"כ צ"ל משום דהוי מחוסר בגדים ושלא רחוץ ידים ורגלים ר"ל מיתה דכתיב בהדיא דהיינו במכנסים וא"כ הוי ב' ייתורים ולעיל חוזרני לומר דקושית הרר"י קיימא דב' כתובים אין צריך ייתור רק אחד מהם ע"ש ודו"ק היטב כי הנראה לפענ"ד כתבתי (וצ"ע) (עה"ג) דברים הנ"ל דחוקים המה ואינם במשמעות התוס' ויש מפרשים [גם לפי' התוס' דהכא] שאין צריך רק פסוק אחד ייתור לב' כתובים רק לפי מ"ש התוספות שהקושיא הוא מכח זר איצטריך ב' כתובים בשלא רחוץ. לאורויי דלא תילף ממחוסר בגדים בגזירה שוה דחוקה חוקה דליהוי כזר. ומחוסר בגדים איצטריך מיתה גביה דאל"כ לא הוי ידעינן מיתה גביה. ואי לאו מיתה בהדיא במחוסר בגדים אף דקרייה רחמנא זר לא הוי ידעינן דלענין מיתה קרייה זר רק לענין חילול וקושית הגמרא [דפריך לחייב מיתה ביושב] מכדי יושב כו' אחרי דהורה לנו התורה במחוסר בגדים דקרייה זר וכתיב ביה מיתה נילף מניה יושב [דחייב במיתה משום דהוי בזר] ומשני משום דהוי שלא רחוץ דנמי כתיב ביה מיתה מיותרת כו' [דאיכא למילף חוקה חוקה ממחוסר בגדים דליהוי כזר] וקושית חוזרני לומר דלעיל הוא אף לפירוש התוס' ל"ל ב' קרא במחוסר בגדים אף אי לא כתיב מיתה במחוסר בגדים [נהי דלא ידעינן מיתה משום דקרי זר כדלעיל מ"מ] נילף גזירה שוה חוקה חוקה משתויי יין ועי':
+
+
+###### Maharam Schiff on Zevachim 23b:14
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:14](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:14)
+
+
+בתוס' בד"ה **הואיל ורצפה מקדשה כו'.** גירסת רש"י מקודשת וק"ל:
+
+
+###### Maharam Schiff on Zevachim 23b:15
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:15](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/23b:15)
+
+
+בא"ד **וכלי שרת פי' כו' וי"ל דהתם לא מיירי כגון דכריך כו'.** כצ"ל:
+
+
+
+## Daf 24a
+
+###### Maharam Schiff on Zevachim 24a:1
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24a:1](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24a:1)
+
+
+גמרא **ואי לית ליה לר"ש גז"ש כי נאמר יד בקבלה כו'.** ה"ה דמצי למיפרך נתינה נמי לא תהא בימין. וקושית רבא דבסמוך א"ה אפי' נתינה נמי אינו נולד מתירוצא דרב יהודה ועיין:
+
+
+###### Maharam Schiff on Zevachim 24a:2
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24a:2](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24a:2)
+
+
+גמ' **ועוד לימא לית ליה לר"ש גז"ש והתניא כו' יד אינו אלא ימין אצבע אינו אלא ימין.** למסקנא [דמסיק אביי במקרא נדרש לפניו ולאחריו פליגי] לאו דוקא וכי נאמר יד כו' רק ה"ה אצבע ומשום דאורחא דקבלה ביד נקיט לה:
+
+
+###### Maharam Schiff on Zevachim 24a:3
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24a:3](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24a:3)
+
+
+ברש"י בד"ה **שני כתובין כו' בגמרות חדשים ישנו כאן שמועה אחריתא ברש"י ולא נתחוורו עיין עליו.** ועי' עוד מה שהגהתי בדף זה בסמוך בהיפוך הדף:
+
+
+
+## Daf 24b
+
+###### Maharam Schiff on Zevachim 24b:1
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:1](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:1)
+
+
+גמ' **ולקחת מדם הפר ונתת על קרנות המזבח באצבעך כו' אמר רבה בר חנה אמר ר"ל כ"מ כו'.** כדכתיב ולקח הכהן מדם כו' כצ"ל:
+
+
+###### Maharam Schiff on Zevachim 24b:2
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:2](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:2)
+
+
+גמ' **והרי קמיצה דלא כתיב בה כו' ולא משני דכתיב ביה וימלא כפו ממנה כרבא דבסמוך [דאמר יד יד לקמיצה ופירש"י היכא כתיב יד בקמיצה וימלא כפו ממנה] ורבא גופיה משני או אצבע או כהונה.** משום דמ"מ תקשי זריקה [דלא כתיב ביה אלא כהונה כדלקמן בסמוך]. או קושטא ידע דחד לקומץ וחד לקידוש ועי':
+
+
+###### Maharam Schiff on Zevachim 24b:3
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:3](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:3)
+
+
+ברש"י **והרי קמיצה דלא כתיב בה כו' ולא משני דכתיב ביה וימלא כפו ממנה כרבא דבסמוך [דאמר יד יד לקמיצה ופירש"י היכא כתיב יד בקמיצה וימלא כפו ממנה] ורבא גופיה משני או אצבע או כהונה.**בד"ה במקרא נדרש ר"ש כו' לקמיה ורבנן כו' ולאחריו הס"ד: ומ"ה מפקא כו' דברי אביו ומכלל כו':
+
+
+###### Maharam Schiff on Zevachim 24b:4
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:4](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:4)
+
+
+ד"ה **כל מקום שנאמר אצבע בקבלה כו' קרא דלעיל שינה בקבלה שקיבל בשמאל פסול דר"א דריש אצבע כי' ולא אונתן וקאמר לך במקום כו'**:
+
+
+###### Maharam Schiff on Zevachim 24b:5
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:5](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:5)
+
+
+ד"ה **ולקחת כו' כתיב הס"ד: ומ"ה ולא לפני פניו דלא כו'**.
+
+
+###### Maharam Schiff on Zevachim 24b:6
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:6](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:6)
+
+
+ד"ה **לכהונה כו' הכהנים.** הס"ד: ומ"ה תרתי כו' גבי זריקת חטאת כו':
+
+
+###### Maharam Schiff on Zevachim 24b:7
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:7](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:7)
+
+
+ד"ה **המעכב כו' מצורע כגון קמיצה כו'.** בעינן ימין הס"ד:
+
+
+###### Maharam Schiff on Zevachim 24b:8
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:8](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:8)
+
+
+ד"ה **בכהונה בבגדי כהונה עיין לעיל בתוס' (זבחים דף יג) בד"ה בכהן כשר כו'**:
+
+
+###### Maharam Schiff on Zevachim 24b:9
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:9](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:9)
+
+
+בד"ה **זרק כו' כל הזבחים דלא כו'**:
+
+
+###### Maharam Schiff on Zevachim 24b:10
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:10](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:10)
+
+
+ד"ה **ואלא הא כו' כפו ממנה.** הס"ד: ומ"ה לחליצה שתהא בימין הס"ד:
+
+
+###### Maharam Schiff on Zevachim 24b:11
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:11](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:11)
+
+
+ד"ה **מדרבה כו' כהונה כתיב.** הס"ד כצ"ל:
+
+
+###### Maharam Schiff on Zevachim 24b:12
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:12](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:12)
+
+
+בתוס' בד"ה **במקרא כו' על ענין ראשון למילף קבלה כו' דכ"ע דרשי מקרא לפניו בלא וא"ו מוסיף על ענין ראשון וקשה לילף קבלה מנתינה דפריך כו' ולאחריו פליגי ובסמוך כו' המקרא לפני פניו.** הס"ד: ומ"ה והרי זריקה כו' ותנן זרק כו' ר"ש. הס"ד: ומ"ה אמר אביי פליג בברייתא ופירש"י זרק כו' בברייתא לעיל הקשה הרב כו' אף כל כו' ופריך ידו הימנית מדרבה בר בר חנא נפקא כו' ומשני כדי נסבא אי נמי סבר לה כר"ש כו' דאפי' גרסינן זרק מצינו למימר כו' לא ס"ל כוותיה דלא יליף ימין בזריקה כו' משום דזריקה לא ילפינן מהזאה וק' כו' דעדיפא משני פליג כו' גרסינן מלק ע"כ אמת כו' כדמוכח בסמוך ובפ"ק דאמר מ"ט כו' לר"ש כו' וצריך כו' ס"ל כוותיה בחדא ר"ל דכהונה בעי אצבע אבל לענין היקישא לא דר"ש ל"ל היקישא [והאי תנא אית ליה היקישא]:
+
+
+###### Maharam Schiff on Zevachim 24b:13
+
+[https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:13](https://torahapp.org/share/book/Maharam%20Schiff%20on%20Zevachim/r/24b:13)
+
+
+בא"ד בד"ה **במקרא כו' על ענין ראשון למילף קבלה כו' דכ"ע דרשי מקרא לפניו בלא וא"ו מוסיף על ענין ראשון וקשה לילף קבלה מנתינה דפריך כו' ולאחריו פליגי ובסמוך כו' המקרא לפני פניו.**בפ"ק דחולין דף כב ע"א ימין אפי' כי' מדרבה בב"ח נפקא כו' ימין בחטאת בהמה אלא בהזאה כו' במליקה אלא בהזאה דוקא וא"ת כו': ע"כ ממה שזכינו להעלות על מזבח הדפוס מקדשי חידושי הגאון המחבר ז"ל ממסכת זאת:
+

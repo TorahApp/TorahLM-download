@@ -1,0 +1,1501 @@
+# Yekar Tiferet on Mishneh Torah, Agents and Partners
+
+יקר תפארת על משנה תורה, הלכות שלוחין ושותפין
+
+Link: [https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners)
+
+חיבור הלכתי פורץ-דרך וחדשני מבחינת היקפו ואופן סידור הדינים שבו. נכתב על ידי הרמב"ם במאה ה-12.
+
+Legal code written by Maimonides in the 12th century, groundbreaking in its organization and scope.
+
+Sections: Chapter-Halakhah-Comment
+
+Location: Halakhah/Mishneh Torah/Commentary/Yekar Tiferet/Sefer Kinyan
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Friedberg Edition (Segments: 152, License: unknown)
+
+
+## Chapter 1
+
+
+### Halakhah 1
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 1:1:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:1:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:1:1)
+
+
+**האומר לשלוחו וכו'.** יש לדקדק כיון דשותפין שייכי טפי להל' שכנים אמאי הקדים לבאר הל' שלוחין. איכא לתרוצי איידי דזוטר מילייהו פסיק שדי להו ואורחא דתלמודא לתרוצי הכי. אבל הנכון בזה דהכא קאי למאי דסליק מיניה. לעיל כתב כל הלוקח שדה בצד מצר חבירו הוא כמו שליח לחבירו ולתקן שלחו ולא לעוות לפיכך סמך לו הל' שלוחין.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 1:1:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:1:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:1:2)
+
+
+**אין צריכין עדים וכו'.** הכי אמרינן בגמ' לא איברי סהדי אלא לשקרי, ולא איירי הכא אלא בשליחות ממון דוקא ולא בהלכות שליחות גיטין וקדושין דהתם בדוכתיה מפרש לה.
+
+
+
+### Halakhah 2
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 1:2:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:2:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:2:1)
+
+
+**אבל שליח שעבר בכל שהוא וכו'.** משמע מלשון רבינו אפילו שטעה בפחות משוה פרוטה חוזר. וא"ת פחות משוה פרוטה אינו ממון וניתן למחילה וי"ל כיון דמצי למימר ליה לתקוני שדרתיך ולא לעוותי נתבטל השליחות.
+
+
+
+### Halakhah 3
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 1:3:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:3:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:3:1)
+
+
+**נתן מעות לשלוחו.** היינו עובדא דרב. והקשה הראב"ד ז"ל ותירץ כמבואר [בהשגות. ורבינו] לא ניחא ליה בהאי [תירוצא] בשלמא בזמן שהמשלח והמוכר [רוצים לקיים המקח שפיר] משלם השליח מה שעוות, [אבל] היכא דהמוכר רוצה לבטל המכר לפי שנתבטל השליחות תבטל המכר ואמאי [משלם] השליח משום הכי תירץ תירוץ כולל וחלק בין הודיעו שהוא שליח ללא הודיעו ועובדא דרב נחמן סתם היה הילכך אפילו אם ירצה המוכר לחזור בו אינו יכול דלגבי דידיה לא נתבטל השליחות שהרי לא ידע שהוא שליח וזכה המשלח במקחו וחוזר על השליח.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 1:3:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:3:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:3:2)
+
+
+**לפיכך אם התנה עליו וכו'.** הא [יתפרש לך] מהך דלעיל וכי היכא דהך דלעיל איירי בסתם כדכתיבנא האי לפיכך נמי איירי בסתם וקא מבעי לי היכא דכתב ליה לשליח בין לתקן בין לעוות והלך וקנה ואמר שליח של פלוני אני וטעה חוזר או לא. ומסתברא לי שאינו חוזר. כיון שאמר לו בין לתקוני בין לעוותי אפילו עוות לא נתבטל השליחות [שהרי לא] שינה מדעת בעל הבית לקמן יתבאר בזה.
+
+
+
+### Halakhah 4
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 1:4:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:4:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:4:1)
+
+
+**האומר לשלוחו וכו' וקנה הלוקח בית סאה בלבד.** מסתברא שאם הלוקח אומר בית סאתים הייתי צריך יכול לחזור ולא יקנה כלל.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 1:4:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:4:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:4:2)
+
+
+**[שהרי]עבר על דבריו.** דלא ניחא ליה דליפשו עלויה שטרי.
+
+
+
+### Halakhah 5
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 1:5:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:5:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:5:1)
+
+
+**וחולק התוספת השליח עם בעל המעות.** משמע לי מיתור לשון זה שאם היה הדבר ספק הכל לבעל המעות ועל השליח להביא ראיה.
+
+
+
+### Halakhah 6
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 1:6:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:6:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:6:1)
+
+
+**ונתן בלא עדים ולא לקח השטר וכו'.** משמע שאם נתן בעדים ולא לקח השטר פטור השליח. וא"ת אמאי שמא ילכו להם למדינת הים ונמצא זה עבר את [דבריו] וי"ל דיכול לכתוב שובר על פי העדים ואם לא כתב איהו דאפסיד אנפשיה.
+
+
+
+### Halakhah 7
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 1:7:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:7:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:7:1)
+
+
+**השולח מעות וכו'.** היינו דחנוני על פנקסו ופועל אין מנהג לפרוע להם בעדים... פקדון מנהג הוא לפרוע בעדים ואמאי... נשבעים ונוטלין מבעל הבית ובשלמא בזמן שהם שנים היו סבורין להיות עדים אבל אחד [הו"ל] ליתן בפני עדים וי"ל דאיהו דאפסיד אנפשיה שהיה לו לומר לשליח תן לי בעדים ולא היה לו לסמוך על המנהג דאיכא כמה דפרעי בלא סהדי דלא איברי סהדי אלא לשקורי.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 1:7:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:7:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:7:2)
+
+
+**אלא מחרים הלוה וכו'.** חרם זה תקנת הגאונים הוא ואם יבואו השלוחים ויאמרו עשינו שליחותיה ופרענו החוב חוזר הלוה ומשביע את המלוה שהרי יש לו טענת ודאי ואם לא ירצה לישבע מחזיר מה שגבה ולא נמצא למפרע שעבר על החרם דשמא [אמת] קאמר ומפני חומרת השבועה פירש [ורוצה] לפרוע ואין עדות השלוחין מועלת לעשותו מוחרם לפי שהם נוגעים בעדות.
+
+
+
+### Halakhah 8
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 1:8:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:8:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:8:1)
+
+
+**ראובן ששלח כתב לשמעון וכו'.** מכח מנהג התגרים נגעו בה ויכול לעכב עד שישלח הרשאה כדי להנצל מהשבועה.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 1:8:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:8:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:8:2)
+
+
+**ישבע הלוה וכו'.** אין שבועה זו אלא בזמן שאבד הכתב אבל אם הכתב מצוי ניתי ונחזי אם הוא כתב ידו או לא ואם אין מי שיכיר כתב ידו אז ישבע הלוה שהוא מכיר שזה כתב ידו ונפטר.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 1:8:3
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:8:3](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:8:3)
+
+
+**אבל אם לא היה [הכתב] כתב ידו וכו'.** זו פלוגתא דשמואל ור' יוחנן ופסקו הלכתא כשמואל דאמר אין משלחין מעות בדיוקני ואפילו עדים חתומין עליה, וזה שכתב רבינו **שאין הלוה יודע שהוא כתב ידו** משמע שלא יועיל [בלא] ידיעת הלוה.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 1:8:4
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:8:4](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:8:4)
+
+
+**ויש מי שהורה וכו'.** הוראה זו לך... מש... וטעמא דמסתבר הוא כיון דאיכא עדים על הדיוקני הוי כטענת ודאי ולפיכך ישבע ראובן.
+
+
+
+### Halakhah 9
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 1:9:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:9:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/1:9:1)
+
+
+**לוי שבא [בשליחות] וכו'.** לא מחדש בהלכה זו אלא שנשבע שבועת [מודה במקצת].
+
+
+
+## Chapter 2
+
+
+### Halakhah 1
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 2:1:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:1:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:1:1)
+
+
+**אין הגוי נעשה שליח וכו'.** וא"ת מה לתרומה דאיכא איסור כרת שאר דברים מנין, לא קשיא דתרומה קילא [משאר דברים] שכן ישנה במחשבה כדאיתא ריש פ' האיש מקדש. אבל עיקר קושיא ליתא דכתיב אתם גם אתם לרבות שלוחכם. וכי היכא דישראל נתרבה לכל מיני שליחות הכי נתמעט הגוי מכל מיני שליחות עיין פ' איזהו נשך.
+
+
+
+### Halakhah 2
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 2:2:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:2:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:2:1)
+
+
+**עושה אדם שליח וכו'.** נשים הרי הן בכלל בני ברית והעבדים הוקשו [להן] דכתיב וכתב לה וכתיב בשפחה או חופשה לא נתן לה. וכתב רבינו **נעשים שלוחין למשא ולמתן** [לפי] שיש דברים שאין האשה והעבד נעשים שלוחים. וכל דבר שאין נעשים שלוחים מבאר רבינו במקומו.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 2:2:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:2:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:2:2)
+
+
+**אחד הקטן ואחד הקטנה וכו'.** וא"ת למה הוצרך לכתוב זה וכי עד השתא לא ידעינן שהקטנה והקטן שוין. וי"ל משום דאשכחן דקטנה יש לה יד ויש לה חצר שזוכה לה חצרה ויש לה ד' אמות אבל [קטן] אינו זוכה במתנה עד שתגיע ממש לידו וכתבה רבינו פ"ד מהלכות זכיה ומתנה. וס"ד קטנה יש לה שליחות [לפיכך] הוצרך לכתוב דקטן וקטנה [לא שייכי בשליחות].
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 2:2:3
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:2:3](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:2:3)
+
+
+**לפיכך השולח וכו'.** איכא [למידק אמאי השמיט] רבינו [צלוחית] כיון שהוזכר [במשנה]. וי"ל התם שקיל וטרי טובא ואסיקנא כגון [שנטלה] החנוני למדוד לאחרים ובשואל שלא [מדעת] קא מפלגי אי שואל הוי אי גזלן הוי ופסק [דגזלן] הוי. וכתבה בהלכות גזלה ואבידה פ"ג. וז"ל [לפיכך] אם החזירו לקטן או לעבד ואבד מהם או [נשבר] חייב לשלם ע"כ. ומה שהשוה עבד לקטן קשיא והרי העבד בן דעת הוא. וי"ל דכיון דשואל שלא מדעת הבעלים צריך להחזיר לבעלים או [לרשותו]. אבל אם שלח עבדו הגדול ובידו פונדיון ומדד לו באיסר שמן ונתן לו את האיסר חנוני פטור, שהרי מסר לבן דעת וליכא טעמא דאמרי רבנן לאודועי שדריה, ופשוט הוא שלא השוה עבד לקטן [אלא] גבי צלוחית דהויה שאלה שלא מדעת.
+
+
+
+### Halakhah 3
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 2:3:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:3:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:3:1)
+
+
+**הרי זה משלח ביד מי שיראה לו וכו'.** [שמה] שאמר לו לשלוח ביד מי שירצה ביד [מי] שהוא ראוי קאמר ליה ואם שלח ביד מי שאינו ראוי הרי זה כאלו אבדו בידים. ומה שכתב הראב"ד ובשבועת הסת, הכי ודאי ורבינו לא איירי הכא בענין חיוב שבועה משום דלא פסיקא ליה, דבשלמא אם טען עליו לא היה תנאי זה בינינו או לא שלחת דבר פשיטא דנשבע היסת, אבל אם טען עליו [המלוה] זה לא היה ראוי לשלוח על ידו אין כאן שבועה שהרי אמר לדידי חזי ליה שהיה ראוי לשלוח על ידו.
+
+
+
+### Halakhah 4
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 2:4:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:4:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:4:1)
+
+
+**השליח שקנה וכו'.** מסתברא [דלא אמרו] שבטל המקח אלא [ב]שסתם, ומיהו אם כתב לשליח בין [לתקן בין לעוות לא] נתבטל המקח שהרי לא עבר על דעת בעה"ב.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 2:4:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:4:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:4:2)
+
+
+**ויהיה הדין בינו ובין זה ששלחו.** אם שלח סתם חייב לתקן מה שעוות, ואם שלח [והתנה] בין לתקן בין לעוות מה שעשה עשוי.
+
+
+
+### Halakhah 5
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 2:5:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:5:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:5:1)
+
+
+**כופין אותו וכו'.** פרק הגוזל עצים פריך פשיטא, ומשני לה התם.
+
+
+
+### Halakhah 6
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 2:6:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:6:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:6:1)
+
+
+**הסרסור שליח הוא.** ואם הרויח הריוח למשלח ואם שנה והפסיד הפסיד לעצמו, וכי היכי דהוי שליח [למוכר] הכי נמי [הוי שליח ללוקח כיון] שנהגו שנוטל מהמוכר [והלוקח] אבל [במקום שנהגו] שנוטל שכר מאחד מהם אינו שליח אלא למי שנוטל השכר ממנו, ואם אין שם מנהג ידוע, שלחו המוכר הוי שליח למוכר, שלחו לוקח הוי שלוחו של לוקח.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 2:6:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:6:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:6:2)
+
+
+**נשבע הסרסור שבועת התורה וכו'.** השיג הראב"ד אין כאן שבועת התורה וכו'. דעת רבינו שכיון שהזכיר לו בשעה שמסר לו החפץ סכום מעות על כרחך כשהוא תובע אינו תובע הבגד אלא המעות שאמר לו בתחלה והוא הודה במקצת חייב שבועת התורה, ודינו של הראב"ד משכחת לה כגון שאמר לו הילך חפץ זה ולא תמכרנו בחמשים, והלך זה [ומכרו בחמשים] בכי האי גונא נשבע שבועת היסת שהרי אינו תובע אותו ממון קצוב אלא החפץ שלו.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 2:6:3
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:6:3](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:6:3)
+
+
+**החפץ לבעלים וכו'.** השיג עליו הראב"ד... שאפילו יודה הסרסור יאמר... הקונה שזה החפץ של ראובן... לפי שלא יצ... חפץ מחזקת...
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 2:6:4
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:6:4](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:6:4)
+
+
+**ומחרים.** כתקנת הגאונים.
+
+
+
+### Halakhah 7
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 2:7:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:7:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:7:1)
+
+
+**כל [סרסור] שהודיע ללוקח וכו'.** נמשך רבינו אחר... שהלוקח לא סמך על הסרסור כלל ומ"מ מודה [רבינו שאם] אמר לו מכור חפץ זה בכמה שתמצא שאין לך פסוק דמים גדול מזה, אבל אין דברי [רבינו] אלה בסתם ולא היה לו לסרסור למכור עד [שיודיע] לבעלים. ותמהני על הראב"ד היכי מדמה סתם למפרש ואומר מכור בכמה שתמצא.
+
+
+
+### Halakhah 8
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 2:8:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:8:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:8:1)
+
+
+**הלוקח כלים וכו'.** טעמא דבהליכה חשיב לוקח וחייב באונסין, ובחזרה חשיב נושא שכר ופטור מן האונסין, וחייב בגניבה ואבידה.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 2:8:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:8:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:8:2)
+
+
+**נטלן ע"מ למוכרן לאחרים וכו'.** טעמא, דחזרה נמי הליכה היא, דאי משכח לזבוני אבבא דביתיה מי לא הוה מזבין ליה, כדאיתא בפ' האומנין ומינה שאם לקחן לשגרן לבית חמיו ובחזרה מכרן חייב באונסין, דמשעת מכירה קמי להו ברשותיה, וכן אם נשתמש בהן בחזרה קמי להו ברשותיה.
+
+
+
+### Halakhah 9
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 2:9:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:9:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/2:9:1)
+
+
+**ואם היה האונס וכו'.** היינו דתני איסי בן יהודה אין רואה שבועת ה' תהיה בין שניהם, [הא יש] רואה יביא עדים ויפטר ואע"ג דהאי קרא בשומר שכר כתיב ה"ה לכל שאר השומרים, והשלוחים והשותפין.
+
+
+
+## Chapter 3
+
+
+### Halakhah 1
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 3:1:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:1:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:1:1)
+
+
+**מי שהיתה לו קרקע וכו'.** כתב רבינו מטלטלין פקדון. אזיל לשיטתיה שאין כותבין הרשאה על המלוה וכבר נהגו לכתוב הרשאה על הכל אפי' על מלוה על פה ואפילו כפר... וכופין את הנתבע לעמוד בדין עם השליח. [ויש] לתת טעם, כיון שפשט מנהג זה על מנת כן [לוה ממנו] או קבל ממנו פקדון שאם ישלח שליח [בהרשאה] שיעמוד עמו בדין, ואפשר שדברי רבינו [אמורים] במקום שלא פשט מנהג זה.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 3:1:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:1:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:1:2)
+
+
+**וכל מה שיזכה בו הרי הוא [של] משלחו וכו'.** הכי אמרינן פרק מרובה והלכתא שליחא שויא, ומכאן קשה קצת למה שהיה רגיל ר"ת לשלוח הרשאה ביד גוי, דהא קי"ל דאין הגוי נעשה שליח, וגם ר"ת לא אמרה אלא בגוי דידעינן ביה דציית דינא דישראל, ואי לא, חיישינן שמא יוליך את הנתבע לפני ערכאותיהם ויוציא ממנו ממון שלא בדין. ואיכא נמי משום לפניהם ולא לפני גויים.
+
+
+
+### Halakhah 2
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 3:2:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:2:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:2:1)
+
+
+**הקנה לזה שהרשה וכו'.** כתב הראב"ד אם אמר לו מאה דינרים ממה שיש לי ביד פלוני יהיו שלך לא ידון אלא על המאה ע"כ. ואין כאן השגה על רבינו, שגם הוא לא כתב אלא שליש או רביע. אלא דקשיא לי כיון שעשאו שותף אמאי בעי הרשאה הואיל ודן על חלקו דן על הכל, וי"ל מה שכתב רבינו לזה שהרשה לאו דוקא אלא לזה ששלח כלומר בלא הרשאה והדין שכתב הראב"ד ז"ל [הוי] כהלכתא בלא טעמא דמאי שנא מנכסי מלוג מגו דנחית אפירא נחית לגופא של קרקע, וי"ל, שותף שיש לו שליש או רביע יש לו חלק בכל [פרוטה אם] יגבה מעט או הרבה יקח חלקו. אבל זה שפסק מאה דינרים אינו שותף אלא שכיר ושכר טרחו הוא נוטל, ולפיכך אינו דן עמו אלא על המאה, ומבעל [בנכסי מלוג] של אשתו לא קשיא כלל שהרי אם אין לו [קרקע אין לו פירות].
+
+
+
+### Halakhah 3
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 3:3:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:3:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:3:1)
+
+
+**אחד מן האחים וכו'.** אע"פ שחלקו האחים והשותפין ונשאר ביניהם פקדון זה שעדיין לא חלקו אינו צריך הרשאה.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 3:3:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:3:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:3:2)
+
+
+**לפיכך אם היה במדינה.** ואם היה במקום קרוב והודיעהו ולא בא אומרים לו למה לא באת.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 3:3:3
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:3:3](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:3:3)
+
+
+**יש לו לחזור על בעל הדין.** הרי שזכה בדין אינו יכול לומר לעצמי הצלתי אלא הכל לשותפות. ומיהו אם דן עמו על חלקו ונסתלק ובא שותפו והוציא יותר ממה שהוציא הראשון, מסתברא לי שהציל לעצמו כיון שנפסק הדין נתיאש זה וחבירו זכה מכח טענותיו ושלו הוא נוטל ולא משל שותפו.
+
+
+
+### Halakhah 4
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 3:4:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:4:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:4:1)
+
+
+**הבעל בנכסי אשתו וכו'.** כבר תירצתי זה אליבא דהראב"ד ואם אין פירות בקרקע אע"פ שיש לו חלק במה שתוציא הקרקע, בהאי שעתא מיהא אינו שותף וצריך הרשאה.
+
+
+
+### Halakhah 5
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 3:5:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:5:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:5:1)
+
+
+**מי שהיה לו ביד חבירו וכו'.** פתח רבינו [בפקדון או מלוה] וסיים בפקדון, להשמיע, דאפי' במלוה אם רצה ליתן נפטר אבל אם בא בהרשאה דוקא בפקדון אבל במלוה לא, כדכתב בסמוך.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 3:5:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:5:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:5:2)
+
+
+**וכל הבא בהרשאה וכו'.** כתב הראב"ד ז"ל דוקא כשהוא עם בעל דינו בעיר אחת אבל אם היה בעל דינו בעיר אחרת מציל ממון חבירו הוא, וכן כתבו התוס', ומכאן יש ללמוד שאם בעל דינו אלם, מצוה הוא להציל עשוק מיד עושקו.
+
+
+
+### Halakhah 6
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 3:6:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:6:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:6:1)
+
+
+**התובע חבירו בדין וכו'.** פסק כלישנא בתרא דנהרדעי דלא כתבינן אורכתא אמטלטלי דכפריה, ומשמע שאם תבעו בקרקע וכפר כתבינן עלה אורכתא ולא מחזי כשקרא דקרקע אינה נגזלת.
+
+
+
+### Halakhah 7
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 3:7:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:7:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:7:1)
+
+
+**נותן לו קרקע כל שהוא וכו'.** כבר נהגו לכתוב כן בכל ההרשאות.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 3:7:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:7:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:7:2)
+
+
+**היתה לו מלוה וכו'.** כתב הראב"ד אם לא מסר לו שטר החוב ע"כ. וקשיא לי אם בכתיבה ומסירה [בלא] הרשאה נמי דן עמו ואי בלא כתיבה ומסירה מאי מהניא, וי"ל דהרשאה במקום כתיבה היא שהרי כותב בה [ואפיק] לגרמך, ורבינו סובר שאין לשון הכתוב בהרשאה עומד במקום כתיבה דאי לא תימא הכי לא שויא שליח ואם רצה לעכב לעצמו מעכב, ותו דלשון [מכירת] השטר לחוד ולשון הרשאה לחוד [הילכך] אפילו מסר לו את השטר אינו כותב הרשאה עליו, וזהו שכתב רבינו בסמוך גבי מכירת השטר מפני שהוא מקנה השעבוד שבו.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 3:7:3
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:7:3](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:7:3)
+
+
+**ודברים אלו קלים הם וכו'.** קושיא זו שייך נמי למי שמפרש שמקנה לו ד' אמות של קבורה ויש מי שאומר שאין לך אדם שאינו דר בבית, או שלו או בשכירות שהיא מכירה ליומא, ומקנה לו ד' אמות בבית או בחצר שהוא דר בו ולפיכך נהגו לכתוב סתם ונתן לו (ד') ארבע אמות קרקע ואגבן וכו' ור"ת כתב [דהודאת] בעל דין כמאה עדים.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 3:7:4
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:7:4](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:7:4)
+
+
+**שאין אומרים בו יקוב הדין וכו'.** וכבר נהגו כל בתי דינין אשר שמענו לכוף את הנתבע לדון עם הבא בהרשאה וטעמא רבה איכא דכיון דפשט המנהג הזה הוי כאלו התנה עמו בהדיא בשעה שלוה ממנו שכל מי שיבא בהרשאתו יתן לו כאילו הוא בעצמו בא, והמנהג כלל גדול בדיני ממונות ואפילו על מלוה על פה [שכפר בה] נהגו לכתוב הרשאה מהטעם שכתבתי כיון שנהגו כן לא מחזי כשיקרא, וטעם המנהג שלא יהיה כל אחד נוטל ממונו של חבירו והולך לו למדינת הים. ודברי רבינו קיימים במקום שאין שם מנהג ידוע.
+
+
+
+### Halakhah 8
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 3:8:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:8:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:8:1)
+
+
+**מי שהרשה את אחד וכו'.** ואם [התנה] השליח שלא יכול לבטלו, הכל לפי תנאי.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 3:8:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:8:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:8:2)
+
+
+**ואין למורשה וכו'.** ואפילו הרשה אותו על קרקע, יכול לומר אין רצוני שיהיה קרקעי ביד אחר, שמא יפסידנה.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 3:8:3
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:8:3](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:8:3)
+
+
+**לפיכך אם התנה וכו'.** יש כאן מקום שאלה אם מת השליח הראשון... וכבר מת, או דילמא כיון שהתנה שיוכל לעשות שליח הוי שלוחו של משלח ולא נתבטל שליחותו, ומסתברא שלא נתבטל שליחותו של שני שהרי לא כתב ראשון לשני הרשאה אלא מכח הרשאת המשלח אשר בידו, הילכך הוי שליח של המשלח עצמו, שאם לא יכתבו בהרשאתו של שני שבא מכח הרשאת המשלח עצמו לא ידון עמו הנפקד, שהרי אומר לו מי ששלחך לאו בעל דיני הוא, וזה פשוט.
+
+
+
+### Halakhah 9
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 3:9:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:9:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:9:1)
+
+
+**הבא בהרשאה וכו'.** מה שכתב או מכר לו הכי פירושו כגון שהרשה אותו לקחת חפץ ממנו והלך ומכרו לו, אפי' מכרו בשוויו מצי למימר לקחת חפץ שלחתיך ולא למכרו, כי הייתי חפץ לחפץ ואין לך עוות גדול מזה.
+
+
+
+### Halakhah 10
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 3:10:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:10:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:10:1)
+
+
+**ראובן שבא בהרשאה וכו'.** מכאן אתה למד שאפילו נודע שמת המשלח קודם שנתן זה הפקדון פטור, שהרי בהרשאתו נתן ואם ידע הנפקד שמת המשלח ונתן הפקדון ליד השליח, חייב באחריותו שהרי נתבטלה ההרשאה.
+
+
+
+### Halakhah 11
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 3:11:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:11:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:11:1)
+
+
+**ראובן שבא בהרשאת שמעון וכו'.** הדבר ברור דהכא איירי בשכפר אחר שנכתבה ההרשאה, דהא טעמא הוי משום דמחזי כשקרא והכא בשעה שכתב ההרשאה אכתי לא כפר, ומה שכתב הראב"ד וצריך אריכות בזה, לא ידעתי מה אריכות צריך, ואפשר שדעתו להשיג [על רבינו] שהיה לו להאריך ולפרש דאיירי שכפר [אחר] שנכתבה ההרשאה, ואני אומר שזה מפורש מתוך לשונו.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 3:11:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:11:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:11:2)
+
+
+**ויהיה הממון מונח בבי"ד וכו'.** ואפי' רצה השליח לישבע על טענת לוי שהוא יודע בודאי שהוא שקר, מצי לוי למימר, שמעון מהימן לי ואנת לא מהימנת לי.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 3:11:3
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:11:3](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/3:11:3)
+
+
+**ואין מעכבין שבועתו של זה.** מסתברא לי שאין הדברים אמורים אלא בזמן שהתובע בעיר אחרת שיש בדבר עיכוב, אבל אם התובע בעיר כדאי היא התקנה הקלה שישלחו אחריו ויבא ויחרים בפניו, שמא יודה ולא יוציא זה שם שמים לבטלה.
+
+
+
+## Chapter 4
+
+
+### Halakhah 1
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 4:1:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:1:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:1:1)
+
+
+**כשירצו השותפין וכו'.** משמע מדברי רבינו שאין להם תקנה אלא בהגבהת הכיס, ואיכא למידק דמשכחת לה כגון שהקנה ראובן לשמעון חצי מעותיו אגב קרקע דנהי דאין מטבע נקנה בחליפין אבל נקנה הוא אגב קרקע, וכן שמעון הקנה לראובן חצי מעותיו אגב קרקע נמצא כל אחד מהם שותף בממון חבירו, וי"ל דאין הכי נמי אבל הגבהת הכיס ניחא טפי, דמשכחת לה אפילו שאין להם קרקע.
+
+
+
+### Halakhah 2
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 4:2:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:2:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:2:1)
+
+
+**האומנין שנשתתפו וכו'.** כתב הראב"ד ורבותינו הורו שהאדם יכול להקנות את עצמו כקנין העבדים, ואין השגה על רבינו, שהוא מדבר בסתם שותפות, אבל אם פרשו שהם משתעבדים עצמם זה לזה מודה הוא שנעשו שותפין, וכן כתב בעל מגדל עוז ונכון הוא, ואפילו התנו על מציאה תנאם קיים, דכל אחד הוי כשכיר או פועל לחבירו, ומיהו משמע לי מדברי הראב"ד דאפי' לא פירשו שהם משתעבדים עצמם זה לזה נעשו שותפין כדי שישתעבדו זה לזה ונמצא חולק על רבינו.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 4:2:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:2:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:2:2)
+
+
+**אבל אם היו לוקחים הבגדים וכו'.** פירוש אע"פ שכל אחד תופר לבדו ואורג לבדו הרי הם שותפים, אבל אם שניהם תופרין הבגד או אורגים ביחד אפי' אינם לוקחים בממון עצמם אלא שתופרין או אורגים בשכירות ביחד, לא שייך הכא אין אדם מקנה דבר שלא בא לעולם, שהרי כל אחד שכר מלאכתו הוא נוטל, וזה פשוט.
+
+
+
+### Halakhah 3
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 4:3:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:3:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:3:1)
+
+
+**השותפין שהטילו לכיס וכו'.** הטעם שאין הריווח בא אלא מחמת העסק, וכיון שבעל המאה מתעסק כבעל השלש מאות נוטל עמו בשוה, וכן בהפסד, כיון שלא התנו, סתם שותפות הכי הוא. ואפילו לא נשאו ונתנו במעות, אלא שנתנו המעות ברבית לגוים, חולקים לפי מנינם כיון שלא התנו.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 4:3:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:3:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:3:2)
+
+
+**ואפילו לקחו שור לטביחה וכו'.** כתב הראב"ד שאין הדברים אמורים אלא בריוח שהרויח בו כשהוא חי במלאכתו, מפני שחלק הקטן צריך לגדול, ע"כ. ואני אומר טעם זה לא כתבו רש"י אלא לרבא דמוקי מילתיה דשמואל בשור לחרישה ועומד לחרישה, אבל לרב המנונא דמוקי מילתיה דשמואל לחרישה ועומד לטביחה לא שייך האי טעמא, דאפילו נמלכו עליו לשחיטה חולקין בשוה, אלא קשיא לי דעד כאן לא פליגי רבא ורב המנונא אלא בשור לחרישה, אבל לקחוהו לטביחה משמע דמודו כו"ע דחולקים לפי מעות, וי"ל דרב המנונא דקי"ל כותיה אפילו בשור לטביחה קאמר דחולקין בשוה, אלא אגב דנקט רבא שור לחרישה נקט רב המנונא נמי שור לחרישה, אבל ה"ה בשור לטביחה, והטעם מפורש בירושלמי, וזה דעת רבינו והרי"ף ז"ל, אבל יש מפרשים דרב המנונא דוקא בשור לחרישה אמרה, אבל שור לטביחה חולקין לפי המעות, וכבר האריך הרא"ש בפסקיו, וסובר רבינו דדוקא אם מכרוהו חי אבל שחוט חולקין לפי מעות, ואפילו קנאוהו לחרישה ומכרוהו שחוט חולקין לפי מעות, וכן כתב הרי"ף, וזה דעת רבינו שכתב אם מכרוהו חי, ולדעת רב המנונא אין חלוק בין שור לחרישה או לטביחה, אם מכרוהו חי בשוה, ואם שחוט חולקין לפי מעות, והכי משמע דאיירי רב המנונא ופליג עליה דרבה דאיירי כשמכרוהו חי, דאמר אבל שור לחרישה, ונמלכו עליו לטביחה ונזדמן שמכרוהו חי, זה נוטל לפי מעותיו, וזה נוטל לפי מעותיו, וכ"ש אם טבחוהו, ועליה פליג רב המנונא כשמכרו כשהוא חי חולקין בשוה, וזה שלא כדברי הראב"ד, ופירוש דברי רבינו לא מבעיא אם לקחו לחרישה ומכרוהו כשהוא חי אלא אפילו לקחוהו לטביחה, כיון שמכרוהו כשהוא חי השכר לאמצע, אבל אם מכרוהו כשהוא שחוט, לא מבעיא אם לקחוהו לטביחה אלא אפילו לקחוהו לחרישה חולקין לפי מעות, ותו לא מידי.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 4:3:3
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:3:3](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:3:3)
+
+
+**במה דברים אמורים שנשאו ונתנו וכו'.** תנן וכן ג' שהטילו לכיס פחתו או הותירו כך הם חולקין, ומותבינן מינה לשמואל כדפרש"י ואיכא דמפרשי דמותבינן מינה לרב המנונא, ולענין דינא לא נפקא מינה מידי, דמתרץ לה רב נחמן הותירו זוזי חדתי פחתו אסתירא דצוציתא. וא"ת היכי משכחת לה הותירו אם לא נשאו ונתנו בהם כדפרש"י וי"ל כגון שהלוו אותם ע"מ להחזיר אותם חדשים, אי נמי בתחלה שיצאו חדשים לא היו שוים יותר הרבה מן הישנים, ואח"כ נתבטלו הישנים לגמרי ועלו החדשים.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 4:3:4
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:3:4](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:3:4)
+
+
+**בד"א בסתם וכו'.** אתא לאשמועינן אע"ג דהוי תנאי זה חוץ מהסברא כל תנאי שבממון קיים, ומסתברא דתנאי מפורש מהני בכיוצא בזה אבל בסתם לא מהני, אע"פ שהמנהג כך, כי זה מנהג שוטים הוא, שיטול בעל המעט חלק גדול בשכר ומעט בהפסד, ואין ראוי שיהיה זה תלוי במנהג, אלא כפי ערך האנשים לפי חריפותו וזריזותו.
+
+
+
+### Halakhah 4
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 4:4:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:4:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:4:1)
+
+
+**השותפים שהתנו וכו'.** פרק המקבל מימרא דרבא, ורש"י ז"ל פירש הני בי תרי דעבוד עיסקא [וכו' ולשון עיסקא], דחקו לפרש כן, אבל ה"ה לשותפין שנשתתפו במעות שלהם דמאי שנא, וע"כ איירי בשקבעו זמן וכן פרש"י ז"ל.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 4:4:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:4:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:4:2)
+
+
+**ואין אחד מהם וכו'.** טעמא, משום דאמר רווחא לקרנא משתעבד, ואי אמר הב לי פלגו דרוחאי ופלגו קרנאי, מצי אמר ליה עסקא להדדי משועבד, ואי אמר ליה נפלוג ואי מטי לך פסידא [דרינא] בהדך, מצי למימר ליה מזלא דבי תרי עדיף, ורבינו סמך על מה שסמך למטה **והשנים מרויחים יותר מן האחד,** ומהאי טעמא אפילו אמר ליה אי מטי לך פסידא [דרינא] בהדך, מצי למימר שנים מרויחים יותר מן האחד, ואם חלק שלא מדעת חבירו אין חלוקתו חלוקה, וכל מה שירויח הרי הוא לאמצע, ואם הפסיד הפסיד לעצמו, אע"פ שמודה חבירו שחלק בשוה, כיון שלא ניחא ליה, לא הויא חלוקה.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 4:4:3
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:4:3](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:4:3)
+
+
+**נשתתפו סתם וכו'.** וכיון שיכול לחלק בעל כרחו של חבירו, אם חלק בלא ידיעת חבירו, אם החלוקה שוה, מה שחלק חלק, ואם אין חלוקתו שוה בטלה החלוקה, וחוזרין וחולקין בשוה.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 4:4:4
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:4:4](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:4:4)
+
+
+**היה זמן ידוע וכו'.** דהוי כאלו קבעו זמן לשותפים, ואם יש שם סחורות שאין להם זמן ידוע למכירתם, חולקים אותם. ואותה סחורה שיש לה זמן ידוע מניחין אותה עד שיגיע זמנה לימכר.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 4:4:5
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:4:5](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:4:5)
+
+
+**היה להם חוב וכו'.** ולא מצי למימר ליה תגבה אתה מחצית ואני מחצית, דמצי למימר ליה כח דבי תרי עדיף לגבות החוב, וכן דקדקתי מלשון רבינו שכתב וכשיפרעו החובות וכו', ולא כתב וכל אחד יגבה חלקו.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 4:4:6
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:4:6](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:4:6)
+
+
+**היה עליהם חוב וכו'.** כתב רבינו שנים שלוו בשטר אחד, נעשו אחראין זה לזה. הילכך הכא איירי כגון שלוו בשני שטרות, או שהיה מפורש בשטר שאין אחראין זה לזה, ואם הם אחראין כגון שלוו בשטר אחד או בשני שטרות ופירשו שהם אחראין זה לזה.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 4:4:7
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:4:7](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:4:7)
+
+
+**אמר לו חבירו נחלוק וכו'.** זה מהטעם שאמרו מזלא דבי תרי עדיף.
+
+
+
+### Halakhah 5
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 4:5:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:5:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/4:5:1)
+
+
+**הנותן מעות לחבירו וכו'.** ומה שכתב רבינו עד שישב בחנות, לאו למימרא דמיד שישב בחנות יכול לומר לו נחלוק, אלא עד שישא ויתן בחנות, ואם יש שם דברים שיש זמן ידוע למכירתן, עד שיגיע זמן. ואם יש דברים שאין בהם דין חלוקה, עד שימכרו כמות שהם והכל כפי ראות בי"ד.
+
+
+
+## Chapter 5
+
+
+### Halakhah 1
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 5:1:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:1:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:1:1)
+
+
+**המשתתף עם חבירו בסתם [לא ישנה].** אחד מהשותפין הוי שליח לחבירו [ואם] שינה ידו על התחתונה, לפיכך אם הרויח הריוח לאמצע ואם הפסיד הפסיד לעצמו.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 5:1:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:1:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:1:2)
+
+
+**ואין כל [הדברים האלו] צריכין קנין.** [ולא עדים] דלא איברו סהדי אלא לשקרי.
+
+
+
+### Halakhah 2
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 5:2:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:2:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:2:1)
+
+
+**אחד מן השותפין וכו'.** כל זה מן הטעם שאמרנו [בהל' א'] שהם כשלוחים זה לזה לפיכך אם התנו ביניהם הכל לפי התנאי.
+
+
+
+### Halakhah 3
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 5:3:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:3:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:3:1)
+
+
+**רשאי ליקח לעצמו וכו'.** סד"א ניחוש לחשדא שמא יאמרו מהשותפות הוא, קמ"ל, ובלבד שימכור אלו לעצמן ואלו לעצמן.
+
+
+
+### Halakhah 4
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 5:4:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:4:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:4:1)
+
+
+**אחד מהשותפין וכו'.** הטעם אשר כתב רבינו הוא מבואר. הילכך אם רצה להוליך מקצת הסחורה, ונשאר ביד השותף כפי חלק שיש לו בשותפות, אינו מעכב עליו, שאם יארע אונס אינו צריך להוציא ממנו שהרי יש תחת ידו.
+
+
+
+### Halakhah 5
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 5:5:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:5:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:5:1)
+
+
+**אחד מן השותפין שבא לישן את הפירות וכו'.** כתב הראב"ד זו תוספתא אינה מחוורת ואין למדין ממנה ע"כ, ולא פי' מאי קשיא ליה בה, ואפשר משום דמילתא דפשיטא היא כי הפירות הישנים נמכרים ביותר מן החדשים ואמאי מעכב עליו, ודעת רבינו שאע"פ שהישנים שוין יותר הרי הם נחסרים והולכים והם מעותדים למקרה ולפיכך מעכב עליו.
+
+
+
+### Halakhah 6
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 5:6:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:6:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:6:1)
+
+
+**שותפין [ששמו] פירותיהם.** סד"א דבהאי הנאה דמשתתפי אהדדי וצייתי להדדי מחלי אהדדי, קמ"ל שותפין לקוחות הן, ויש להם הונייה זה על זה.
+
+
+
+### Halakhah 7
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 5:7:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:7:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:7:1)
+
+
+**שותפין שמחלו להם וכו'.** סד"א שדרך המוכסין למחול מפני הסחורה, כדי שיעברו עליהם תדיר עם סחורתם ואפילו אמרו משום פלוני מחלנו יהיה לאמצע, קמ"ל דמפני שהוא חשוב אצלם או מפני שאוהבים אותו מחלו.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 5:7:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:7:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:7:2)
+
+
+**היו באין בדרך וכו'.** וא"ת [למה] לא מחלק בין יכולין להציל לאין יכולין להציל כדאמרינן בעלמא, וי"ל דכל כה"ג שותף חולק שלא לדעת חבירו כיון דאיכא חשש איבוד, הילכך אם אמר בהדיא לעצמי אני מציל הוי כאילו חלק מהשותפות והציל לעצמו, ואם לא אמר, הציל לאמצע.
+
+
+
+### Halakhah 8
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 5:8:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:8:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:8:1)
+
+
+**דבר הידוע לשותפין וכו'.** משמע מהכא שאם עבר זמן השותפות אע"פ שעדיין לא חלקו יכול לטעון מה שירצה, ועל חבירו הראיה, ואע"פ שהוא דבר הידוע לשותפות, כיון שהוא ברשות אחד מהם יכול לומר לקחתיה ממך.
+
+
+
+### Halakhah 9
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 5:9:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:9:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:9:1)
+
+
+**אחד מן השותפין.** אפילו עבר זמן השותפות צריך שיחלוק בפני ג', דמצי למימר מאן שם לך, איני חפץ בשומא זו.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 5:9:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:9:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:9:2)
+
+
+**ובלבד שיהיו נאמנים ויודעים בשומא וכו'.** ומה שכתב נאמנים נפקא ליה מדקרי להו בי"ד ואם אינם נאמנים לא מיקרו בי"ד.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 5:9:3
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:9:3](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:9:3)
+
+
+**אבל אם היו מעות.** פרק איזהו נשך גבי הנהו תרי כותאי דעבוד עסקא בהדי הדדי.
+
+
+
+### Halakhah 10
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 5:10:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:10:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:10:1)
+
+
+**אסור להשתתף עם עובד ע"ז וכו'.** ומיהו אם נתחייב כבר שבועה משביעו ולא יפסיד את שלו וכתב רבינו בתשובה שהישמעאלים אינם עובדים ע"ז, אדרבה הם מיחדים יחוד שאין בו דופי, הילכך מותר להשתתף עמהם וכשהם נשבעים בשם משביעים אותם ולא בזולתו.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 5:10:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:10:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:10:2)
+
+
+**וכבר ביארנו [במקומו וכו'].** שביעית דאמר קרא לאכלה ולא לסחורה.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 5:10:3
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:10:3](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:10:3)
+
+
+**[ולא]בבכורות וכו'.** בבכור תם ובזמן הבית אין מוכרין [אותו], אבל בזמן שאין בית מותר למוכרו בין תם בין בעל מום כאשר ביאר במקומו ואפילו בזמן שמותר למוכרו כגון שנפל לו או נולד לו אין עושין בהם סחורה. דומיא דפירות שביעית ונבילות וטריפות שאם נפלה לו נבלה או טריפה מותר למוכרה ואסור לעשות בהם סחורה, ופירות שביעית נמי מותר למכור מהם ואסור לעשות בהם סחורה וכן תרומות אסור לעשות בהם סחורה אפילו מכהן לכהן וטעמא דבכורות ותרומות משום צד קדושה דאית בהו.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 5:10:4
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:10:4](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:10:4)
+
+
+**ולא בטריפות וכו'.** פ"ח מהלכות מאכלות אסורות כתב וז"ל וכל דבר שאסור באכילה ומותר בהנאה אע"פ שהוא מותר בהנאה אסור לעשות בו סחורה ולכוין מלאכתו בדברים האסורים חוץ מן החלב שהרי נאמר בו יעשה לכל מלאכה ע"כ. הא למדת שאין הדברים אמורים אלא בדבר שאיסורו איסור תורה ועומד לאכילה.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 5:10:5
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:10:5](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:10:5)
+
+
+**ונראה לי שאם הפסיד.** סברת רבינו נכונה דמה לי אם עבר על דברי שותפו ומה לי אם עבר על דברי חכמים ז"ל.
+
+
+
+### Halakhah 11
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 5:11:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:11:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/5:11:1)
+
+
+**שכבר יצא הממון וכו'.** וא"ת בשלמא כשמת בעל העסקא שייך שפיר האי טעמא אבל היכא דמית המתעסק לא שייך, וי"ל דהיכא דמית המתעסק אין צריך טעם דפשיטא דמצי למימר לאביכם הייתי מאמין ולכם איני מאמין וכן אם מת המשלח בטל השליחות ואם מת השליח שוב לא יעשה שליחותו ואין יורשיו באים במקומו מטעמא דאמרן וזה פשוט.
+
+
+
+## Chapter 6
+
+
+### Halakhah 1
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 6:1:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/6:1:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/6:1:1)
+
+
+**שנים שהן נושאין ונותנין וכו'.** איכא למידק אמאי השמיט רבינו מימרא דשמואל דאמר בפרק חזקת הבתים השותפין נעשו שומרי [שכר] זה לזה, וי"ל דלא נפקא מינה מידי דהוי שמירה [בבעלים דפטור] [וה"ה] אם פשע דהרי בשעה שנשתתפו נשאל כל אחד לחבירו והוי כשמור לי ואשמור לך דהויא שאלה בבעלים וכיון שהיה עמו בשעת שאלה אע"פ שלא היה עמו בשעת האונס הוי שאלה בבעלים ופטור ואע"ג דקרא דאם בעליו עמו לא נכתב אלא גבי שואל ה"ה לשאר השומרים וכ"ש הוא אם השואל שכל הנאה שלו נפטר בשאלת הבעלים כ"ש שאר השומרים.
+
+
+
+### Halakhah 2
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 6:2:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/6:2:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/6:2:1)
+
+
+**ואם נגנב או אבד וכו'.** כתב הראב"ד ולמה לא יהיה כשומר שכר על הפקדון והלא נוטל ממנו שכר כפועל בטל ע"כ, וכתב בעל מגדול עוז שאין דברי רבינו אלא בזמן שאין נותן לו שכר כגון שנוטל בריוח יותר מבהפסד, ולפי זה אין השגתו על רבינו אלא שהיה לו לפרש, ואין זה נכון אצלי אלא בכל גוונא אין המתעסק חייב לשלם חלק הפקדון כי השכר שהוא נוטל אינו שכר שמירת הפקדון אלא שכר מה שהוא מתעסק בפקדון כדי שלא יהיה שם אבק רבית כתקנת חכמים ולפיכך לא נקרא המתעסק נושא שכר להתחייב בגניבה ואבידה.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 6:2:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/6:2:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/6:2:2)
+
+
+**ולפי תקנה זו וכו'.** מכאן אתה למד שאע"פ שהוא קרוב להפסד כמו לשכר הוי אבק רבית, ומשום הכי צריך שיהיה קרוב להפסד ורחוק משכר.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 6:2:3
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/6:2:3](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/6:2:3)
+
+
+**כפועל בטל וכו'.** אומדין כמה אדם רוצה ליתן שיבטל ממלאכה שהוא עושה ולעשות מלאכה קלה כזאת.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 6:2:4
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/6:2:4](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/6:2:4)
+
+
+**[שהאריס]משועבד הוא וכו'.** וא"ת וכי מפני שהוא משועבד לו יהיה מותר להלוות ברבית וי"ל דאין כאן אלא אבק רבית וכיון שהוא משתעבד לו הוי כאלו נתן לו שכרו ותרתי בעינן שיש לו עסק אחר ויהיה אריסו ולפי זה צריך לפרש דאריסיה דר' אלעזר היו לו בהמות אחרות לעצמו ולא הוצרך התלמוד לפרש דסמיך על הא דאמר רב לעיל מינה דאמרי אינשי גביל לתורא גביל לתורי.
+
+
+
+### Halakhah 3
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 6:3:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/6:3:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/6:3:1)
+
+
+**לפיכך אם הרויחו וכו'.** כתב רבינו שיטול המתעסק תרי תלתי באגרא ותלתא בהפסד כמבואר מלשונו, והשיג עליו הראב"ד שכך אמרו תרי תלתא באגרא ופלגא בהפסד ע"כ, ולכאורה הכי משמע בגמ' דאמרינן מה נפשך אי פלגא באגר תרי תלתי בהפסד אי פלגא בהפסד תרי תלתי באגר וכתב רש"י ז"ל דאיכא שכר עמל במאי דשקיל טפי באגר, ורבינו משוה למי שאומר כן טועה, וטעמו ז"ל דאמרינן בני רב עיליש נפק עליהו ההוא שטרא דהוה כתיב ביה פלגא באגר פלגא בהפסד אמר רבא רב עיליש גברא רבה הוה ואיסורא לאינשי לא הוה ספי מה נפשך אי פלגא באגר תרי תלתי בהפסד כלומר משום דגברא רבה הוה מפרשי לישנא דשטרא הכי והוי כאלו התנה כן בפירוש אבל אינשי דעלמא אם התנה כן בפירוש מותר אבל מן הסתם אסור עד שיטול המתעסק תרי תלתי באגר ותלתא בהפסד ושאני רב עיליש דגברא רבה הוה והוה כאלו פירש וכדכתיבנא וטעמא רבה איכא כדי שירויח המתעסק בין היכא דאיכא רווחא בין היכא דאיכא פסידא שאם אתה אומר שיתן פלגא בהפסד נמצא טורח בחלק הפקדון כשכר המתנת חלק המלוה, ודוק ותשכח שעלו דברי רבינו כהוגן בלא שבוש ודברי מגדול עוז לא ידענא מאי קאמר.
+
+
+
+### Halakhah 4
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 6:4:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/6:4:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/6:4:1)
+
+
+**יש מי שטועה וכו'.** לפי סברא זו ה"ה אם יטול תרי תלתא באגר ופלגא (תרי תלתי) בהפסד, כלומר בעל המעות והמתעסק נוטל פלגא באגר ותילתא בהפסד אי פלגא בהפסד תרי תלתא באגר, כלומר אם ירצה רב עיליש פלגא בהפסד ותרי תלתא באגר הרי דשתי החלוקות שוות והבחירה ביד המתעסק בשעת התנאי, ורב עיליש אנו עושין סתמו כפירושו אבל אינשי בעלמא לא וכדכתיבנא.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 6:4:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/6:4:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/6:4:2)
+
+
+**ורבותי הורו וכו'.** לא כתב רבינו טעם למה לא נראו לו דברי רבותיו, ונ"ל טעמו דבשלמא אם היה זה איסור תורה לא היה התנאי מועיל, אבל כיון דאין כאן איסור אלא מדרבנן התנאי מועיל הם אמרו והם אמרו.
+
+
+
+### Halakhah 5
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 6:5:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/6:5:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/6:5:1)
+
+
+**הורו רבותי שאם התנו וכו'.** ומודה הוא לרבותיו במה שהורו שאם התנו שיטול המתעסק שלשה חלקים בשכר, הג' חלקים הם עליו מלוה, מ"מ האחרונים חלוקים עליו וגם בזה החצי מלוה והחצי פקדון ומה שהמתעסק נוטל שכר יותר מבהפסד הוא לשכר עמלו שטרח בחצי שהוא פקדון ונראה שזו היא כונת הראב"ד ז"ל שכתב הוסיף עתה תימה ואמר לא די על דרך זה שכל ההפסד וכו', כלומר הוסיף תימה על מה שאמר בשם רבותיו שאם התנו שיטול המתעסק ג' חלקים בשכר הג' חלקים הם עליו מלוה הרי תמיה אחת, ועתה הוסיף תמיה אחרת כי לפי דרך זה לפעמים נמצא משלם למתעסק יותר על ההפסד כגון המשל שכתב רבינו.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 6:5:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/6:5:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/6:5:2)
+
+
+**אבל הדרך הדין וכו'.** כיצד זה שהתנו שיטול בשכר ששה בכל (יום) י"ב והפסדו יפסיד ארבעה לכל עשרה והשנים הם כנגד שכר עמלו שטרח בחלק הפקדון שאם היה פורע ששה כאשר היה התנאי בשכר נמצא שטרח בחלק הפקדון מפני חלק המלוה ונמצא אבק רבית, שאע"פ שהפסידו הרי טרח, וכן אם התנו על ההפסד כיצד כגון שהתנו [ש]יפסיד המתעסק ששה לכל י"ב והרויחו י"ב, נוטל המתעסק שמונה לכל י"ב, ששה כנגד מה שהיה ראוי להפסיד ושנים כנגד שכר עמלו, שאם היה נוטל ששה לבד היה אבק רבית ולפיכך נוטל שנים שהם שליש מה שהיה ראוי שיטול חבירו, נמצאת המתעסק נוטל שמונה לכל י"ב ובעל המעות נוטל ד' ואע"פ שזה מבואר בדברי רבינו הארכתי במשל לפי שהוא קרוב לשכל המעיין.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 6:5:3
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/6:5:3](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/6:5:3)
+
+
+**נמצאת אתה אומר וכו'.** לא נתבאר בדברי רבינו הכא הקרן מה תהא עליו, אי פלגא מלוה ופלגא פקדון כתקנת חכמים, אי לפי השכר כאשר הורו רבותיו, שהרי אפילו תימא שהתנו שיטול המתעסק רביע בשכר, שנמצא לפי הוראת רבותיו שרביע המעות הלואה וג' רבעים בתורת פקדון, שנמצא הטורח מרובה וההנאה מועטת, מ"מ כיון שהוא משלם פחות ממה שהיה ראוי לשלם זהו שכרו, וכבר כתבתי למעלה שהוא מודה לרבותיו וטעמא דמסתבר הוא שיהיה אחריות הממון כפי הריוח שהוא נוטל או לפי ההפסד.
+
+
+
+## Chapter 7
+
+
+### Halakhah 1
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 7:1:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:1:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:1:1)
+
+
+**הנותן מעות לחבירו וכו'.** איירי בסתם או שהתנו שיהיה השכר וההפסד ביניהם בשוה, אבל אם התנו בפירוש שאם יהיה שם הפסד יפסיד המתעסק שליש הכל לפי תנאו כאשר כתב רבינו לעיל ואין הדבר כן אלא א"כ התנו על דבר זה בפירוש וכו' והודיענו הכא שאין הדברים אמורים אלא בזמן שאבד מקצת הממון כיון שנשאר מהפקדון אם ישלם חצי ההפסד הוי אבק ריבית.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 7:1:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:1:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:1:2)
+
+
+**יש מי שהורה וכו'.** נ"ל טעם הוראה זו שאע"פ שנאבד כל הממון מתחלת העסק היה פלגא פקדון, ואם ישלם מחצה נמצא למפרע באיסורא נתעסק, ובדרך כלל אמרו תלתא בהפסד [בין] שאבד מקצת הממון [בין] שנאבד הכל, בין אם יגיע לבעל המעות מחצה בין לא יגיע לו מחצה, לעולם שליש הוא מפסיד. ורבינו סובר שלא אמרו תלתא בהפסד אלא בזמן שנאבד מקצת הממון ולא כולו ואפילו היכא דנאבד מקצת הממון בעינן שיגיע לבעל המעות פלגא לעולם, לפיכך אם הקרן מאה ועשרים ופוחת מאה וחמשה, משלם המתעסק חמשה וארבעים, ונוטל בעל המעות ששים ונתבארו דברי רבינו.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 7:1:3
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:1:3](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:1:3)
+
+
+**לפיכך שטר עסקא וכו'.** ראיתי מי שכתב דאין נשבע על הכל דלמה ישבע בחנם כיון שאין משלמים אלא החצי דומיא דשנים אוחזין בטלית, ואני אומר דלא דמיא כלל לההוא דשנים אוחזין, דהתם אם נשבע על הכל מרע לדבוריה אבל הכא לא מרע לדיבוריה דקושטא משתבע דהא מה שכתוב בשטר נתן לו, אלא שחכמים תקנו דלהוי פלגא מלוה ופלגא פקדון הילכך משתבע שפיר דנתן לו מאה, אע"פ שאינו גובה אלא חמשים וק"ל.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 7:1:4
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:1:4](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:1:4)
+
+
+**אע"פ שלעולם טוענין ליורשים וכו'.** שהיה אפשר לטעון ליורש שמא הפסיד, ואין המתעסק מפסיד אלא שליש ובעל המעות שני שלישים, ואמאי נוטל מחצה, אלא מדלא טענינן ליורשים הכי משמע דלעולם נוטל בעל המעות פלגא דהיא מלוה, ומראיה זו הטעה רבינו את בעלי ההוראה, ויש לי ללמד בה זכות דלא טענינן ליתמי או ליורש אלא מילתא דשכיח אבל מילתא דלא שכיחא לא טעינן להו ומילתא דלא שכיחא הוא שיפסיד העסקא ולא יצא לה קול. אי נמי דאי דהוה אבוהין קיים לא מצי למטען הכי עד שיביא ראיה, כיון דתקינו רבנן דפלגא מלוה צריך להביא ראיה שהפסיד להפקיע תקנתא דרבנן, ואם לא הביא ראיה אינו נאמן, ליורשין נמי לא טענינן להו כנגד תקנתא דרבנן עד שיביאו ראיה שהיה הפסד בעסקא. אע"ג שלמדתי זכות על בעלי ההוראה, מ"מ דברי הרב עיקר והטעם נכון.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 7:1:5
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:1:5](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:1:5)
+
+
+**ולמה אני אומר וכו'.** כבר כתבתי לעיל טעם החולקים.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 7:1:6
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:1:6](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:1:6)
+
+
+**וכן אם התנו וכו'.** הכא משמע שהודה לרבותיו דכי היכי דאם התנו שיטול המתעסק רביע השכר רביע הממון מלוה, כן אם התנו שיטול המתעסק ג' חלקים בשכר, ג' חלקי הממון מלוה.
+**השיג הראב"ד ז"ל שאינו דומה עמל ה' דינרין לעמל ק' דינרים ע"כ** ודעת רבינו שחכמים השוו מדותיהם בין שהיא עסקא רבא בין שהיא עסקא מועטת לעולם משלם המתעסק שתות הפחת, הילכך הכא נמי אע"ג דבתחלה הוה עסקא מרובה והשתא מועטת לא ישתנה דינה כיון שיש שם עמל אפילו מעט אבל אם נאבד כל הממון משלם כל המלוה אם מעט ואם הרבה.
+
+
+
+### Halakhah 2
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 7:2:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:2:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:2:1)
+
+
+**המתעסק שהפסיד וכו'.** זה נמשך אחר סברתו דבין בשכר בין בהפסד צריך שיקח שכר עמלו ואם יש שכר נוטל המתעסק יותר מבעל המעות, ואם יש שם הפסד מפסיד המתעסק פחות מבעל המעות, והכל לפי התנאי ואם היה מן הסתם בשכר נוטל שני שלישים ובהפסד מפסיד שליש והכא איירי בסתם עסקא.
+
+
+
+### Halakhah 3
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 7:3:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:3:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:3:1)
+
+
+**נתן לו מאתים יריעות וכו'.** למדנו שאין שם העסקא גורם אלא השטר גורם, אם נכתבו בשני שטרות הרי הם שתי עסקות ואם נכתבו בשטר אחד הרי הוא עסקא אחת אע"פ שהן סחורות משונות.
+
+
+
+### Halakhah 4
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 7:4:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:4:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:4:1)
+
+
+**אין המתעסק יכול לחלוק וכו'.** בבא זו לא צריכא אלא משום סיפא.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 7:4:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:4:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:4:2)
+
+
+**ואם חילק ועשה וכו' אלא השכר או ההפסד ביניהם וכו'.** דסד"א כיון שלא טרח והניחו בבי"ד, כל מה שנותן לו מריוח חלק המלוה הוי רבית, קמ"ל דעדיין תורת עסקא עליו, שאם היה רוצה היה נושא ונותן בחלק הפקדון שעל מנת כן נתן לו בתחלה.
+
+
+
+### Halakhah 5
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 7:5:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:5:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:5:1)
+
+
+**המתעסק שנתן [וכו'].** אע"ג דהוי פלגא מלוה לא הוי כמלוה דעלמא דלהוצאה נתנה ועושה בה מה שירצה. אלא חכמים תקנו שיהא פלגא מלוה להתחייב באונסין אבל לא להוצאה שעל מנת כן נתן לו שיתעסק בכולו.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 7:5:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:5:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:5:2)
+
+
+**כבר ביארנו שהמתעסק שמת וכו'.** כתב הרא"ש בתשובה שאפי' אשתו ובני ביתו נאמנין לומר זה מעסקו של פלוני ונוטלו בלא שבועה וכן אם נמצא כתוב בפנקסו של מת עסקא פלוניא הוא של פלוני, נוטלה בלא שבועה ודברים של טעם הם, אע"פ שאין נראה כן מלשון רבינו שכתב ואם יש שם עדים וכו' משמע דעדים ממש בעינן.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 7:5:3
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:5:3](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:5:3)
+
+
+**אא"כ היה בהם וכו'.** וא"ת מאי קמ"ל, וי"ל דאע"ג דבשעה שמת לא היה הריוח ניכר כגון שלא הגיע זמן מכירת הסחורה אפי' בכה"ג הריוח ליורשין שעל דעת זה נקנית הסחורה וכן אם מת בעל המעות זכו יורשיו בחלק הריוח כפי תנאי העסקא.
+
+
+
+### Halakhah 6
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 7:6:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:6:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:6:1)
+
+
+**הנותן מעות לחבירו וכו'.** כדאמרינן המבטל כיסו של חבירו פטור מדיני אדם וחייב בדיני שמים.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 7:6:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:6:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:6:2)
+
+
+**ואם נודע בראיה וכו'.** וכגון שהעידו שקנה במעותיו של חבירו, אבל אם קנה במעות עצמו פטור.
+
+
+
+### Halakhah 7
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 7:7:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:7:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:7:1)
+
+
+**נתן לו מעות וכו'.** ואם שנה אם הרויח הריוח לעצמו ואם הפסיד ההפסד לעצמו.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 7:7:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:7:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/7:7:2)
+
+
+**ואם היה שותף עמו בחצר מותר.** ולא ידעתי מה ענין שותפות החצר לכאן וכי מפני שיש לו שותפות בחצר לא בעינן שיהיו עיניו בחנות. לפיכך נראה שיש טעות סופר וכך צריך להגיה ואם היה שותף עמו בחנות מותר כיון ששניהם בחנות אע"פ שזה יעסוק באומנותו חבירו יהיו עיניו בחנות וכ"ש שאם היה שותף עמו באומנות שמותר.
+
+
+
+## Chapter 8
+
+
+### Halakhah 1
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 8:1:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/8:1:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/8:1:1)
+
+
+**הנותן ביצים וכו'.** ופירוש כפועל בטל רואין כמה אדם רוצה להתבטל ממלאכה כבדה ולעסוק במלאכה קלה כזו, מפני שאין טורח מרובה בגידול התרנגולים, ולפיכך לא כתב רבינו צריך להעלות שכרו בכל יום כפועל בטל כדכתב גבי רועה שיש שם טורח מרובה, אלא שמין לו כמה ראוי לו בשכרו כל זמן גידול התרנגולין ונותן לו.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 8:1:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/8:1:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/8:1:2)
+
+
+**ואם אמר לו וכו'.** תמיה לי מילתא והרי הראש דבר גדול הוא ומה צריך האליה, ותו בכבשים האליה לבדה דבר גדול הוה, ובגמ' לא אמרו אלא ריש עגלא לפטומא, וי"ל דאו או קתני או ריש עגלא או אליה אם הוא כבש, יש מקומות שהאליה היא מרובה ויש מקומות שאינו [מרובה] כ"כ, וזנב העגל והעז לא נקרא אליה, ודבר מועט הוא, ומסתברא שאם יש לו בהמות אחרות סגי ליה בזנב העגל, דהא במותר שליש סגי ליה, והוא דבר מועט, דאפשר שיהיה שם מותר שליש או לא יהיה, ואפילו הכי הקלו רבנן, ולמותר שליש קרי רבינו דבר מועט.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 8:1:3
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/8:1:3](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/8:1:3)
+
+
+**ואם היה אריסו וכו'.** דאמרי אינשי סתם אריסא למריה ארעא משתעבד.
+
+
+
+### Halakhah 2
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 8:2:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/8:2:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/8:2:1)
+
+
+**השם עגלים וכו'.** ואם כבר חלקו וזה נטל מחצה וזה מחצה, אין מוציאין ממנו, דאבק רבית הוא. ואין מוציאין מזה לזה ולא מזה לזה.
+
+
+
+### Halakhah 3
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 8:3:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/8:3:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/8:3:1)
+
+
+**שמין פרה וחמור וכו'.** ואע"פ שלא שכר את הפרה ולא נהנה ממנה מותר כיון שהיה יכול ליהנות בה.
+
+
+
+### Halakhah 4
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 8:4:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/8:4:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/8:4:1)
+
+
+**השם בהמה וכו'.** מה שכתב רבינו **עד סוף שנה שניה,** לא קאי אלא אמקום שנהגו לגדל, ומה שכתב רבינו **וביום החמשים** אבהמה גסה קאי, ואין נותן לו שכר גידול הולדות, אלא חולקין זה נוטל ג' רביעים וזה נוטל רביע. דאע"ג דחצי אחריות של מחצית חבירו עליו, כיון דבעי למטרח משום מחצה שלו שהוא קרן גמור ואינו מלוה וכי טרח משום דידיה טרח לא מחזי כרבית כפרש"י ז"ל.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 8:4:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/8:4:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/8:4:2)
+
+
+**ואם לא התנו.** קשה לי אמאי חולקין בשוה להוי כסתם עסקא, ושמין כמה היו שוין הולדות בסוף חמשים יום וכמה שוין עתה, ויטול המתעסק שני שלישי השכר, וי"ל כיון דנוטל שכר על אמו הולד נגרר אחרי אמו, ואם התנה כן בפני שלשה הוי כאלו חלק, והולדות שומא חדשה היא, ואם לא התנה כן, לא חלק השותפות, ואין כאן אלא שומת אמו וכבר נטל שכרה ולא מחזי כרבית.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 8:4:3
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/8:4:3](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/8:4:3)
+
+
+**מקום שנהגו וכו'.** השיג עליו הראב"ד וז"ל אלא לבהמה כמו למעות כלומר שכר כתף [ע"כ]. וכן פרש"י ז"ל, לפי גרסתם שגורסין מקום שנהגו להעלות שכר כתף למעות ולבהמה מעלין, כיון (דבכאיל) [דקכאיל] להו בחדא א"כ כתף בהמה דומיא דכתף מעות, אבל גרסת רבינו היא גרסת ר"ח דפליג להו בתרתי ותני כתף למעות מעלין לבהמה מעלין, ולא היה גורס לבהמה בלמ"ד אלא בהמה מעלין, ופי' רבינו אם היה מנהג לתת שכר כתף או בהמה למעות, וכגון שהיה המשא ומתן שלהם בפרוטות, וצריך כתף או בהמה להוליכם ממקום למקום מעלין לו, אם נשא הוא בכתף, ונוטלו מלבד שכרו, זה נ"ל פשט הברייתא, אבל מדברי רבינו שהוא מפרש כי שכר מה שנושא על כתפו הוא במקום שכר העסקא, ואין צריך לתת לו שכר אחר, ואיברא דהכי משמע דומיא דסיפא דקתני ומקום שנהגו להעלות ולדות בשכר עמלו מעלין, אלא שלקת מדת הדין, דבשלמא בסיפא נוטל הולדות בשכר עמלו, אבל ברישא טורח ואינו נוטל שכר העסקא, ויש לתרץ כיון דסוף סוף מרויח אע"פ שבא לו ע"י טורח זהו שכרו, ואם לא נהגו לתת שכר כתף למעות אין צריך לתת לו שכר עמלו, שאע"פ שהוא נושא על כתף, כך הוא מנהג כל המתעסקין, נמצא לפי דרך זה, כי שני המנהגים הם מן הקצה אל הקצה, ומ"מ פשט הברייתא הוא מה שכתבתי למעלה, וכן פרש"י והראב"ד ז"ל כי שכר כתף או שכר הבהמה לפי גרסתם נוטלו מלבד שכר עמלו וכן היא מתפרשת גם לפי גרסת רבינו.
+
+
+
+### Halakhah 5
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 8:5:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/8:5:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/8:5:1)
+
+
+**אריס אומר למחצה ירדתי וכו'.** אע"ג דקרקע בחזקת בעליה עומדת, אם טען כנגד המנהג עליו להביא ראיה.
+
+
+
+### Halakhah 6
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 8:6:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/8:6:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/8:6:1)
+
+
+**בעל שהוריד אריסין וכו'.** כיון שהבעל היה אריס, לבעל ירדו, ולא לדעת האשה, והוי כיורד לשדה חבירו שלא ברשות, ושמין לו וידו על (העליונה) התחתונה, ואפילו [הוצאות] אין להם בו, אלא ידם על התחתונה, כיורד שלא ברשות, ואם אין הבעל אריס ארעא לאריסי קיימא ונוטלין כמנהג המדינה, ואם יש מנהגים שונים נוטלין כפחות שבהם. ואם אין שם מנהג, מסתברא שרואין אם השביחו הרבה נוטלין מחצה ולא יותר ואם לא השביחו הרבה נוטלין שליש, ואם השביחו מעט נוטלין רביע כפי ראות בי"ד.
+
+
+
+### Halakhah 7
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 8:7:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/8:7:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/8:7:1)
+
+
+**האחין או שאר היורשין וכו'.** כונת הראב"ד להשיג על רבינו שסתם וכתב הרי הם כשותפין לכל דבר, והרי מה שירויחו שלא מכח ירושת אביהם או מה שנפל לכל אחד מצד אמו אינם שותפין בו, הילכך היה לו לבאר. ואם הלשון אשר כתוב בספרים שלנו היה לפני הראב"ד אין מקום להשגה, שהרי כתב שלא חלקו ירושת מורישן הרי פירש בכמה תלוי הדבר, דאלו מה שהרויח כל אחד או מה שנפל לכל אחד, הרי הוא מחולק ועומד, ומה שכתב הרי הם כשותפין לכל דבר לא שהם שותפים בכל הדברים, אלא שהם כשותפין לכל דבר השותפות, וזה פשוט לא היה כדאי לכותבו, אלא מפני שבעל מגדל עוז לא ירד לדעת המשיג.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 8:7:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/8:7:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/8:7:2)
+
+
+**אחד מן האחין.** כתב הראב"ד גם בזה קצר מאד ע"כ, כונת השגתו שהיה לו לבאר אם חלה חולי שיש לו קצבה אבל רפואה שאין לה קצבה מתרפא מן האמצע, והכי אמרינן נמי גבי אלמנה שחלתה דרפואה שיש לה [קצבה] הרי היא בכלל כתובה, ואם אין לה קצבה הרי היא בכלל מזונות, וסובר רבינו כיון שהתלמוד לא חילק כאן כמו שחילק גבי אלמנה אין לנו לחלק, אלא בין אם פשע ללא פשע כדשלח רבין לא שנו אלא דחלה בפשיעה, אבל חלה באונס נתרפא מן האמצע, וטעמא דבשלמא אחין אמרינן כמו שחלה זו באונס אפשר שיחלה גם הוא הילכך ניחא להו דלהוי רפואתו מן האמצע, ולפיכך אין לחלק בין יש לה לרפואתו קצבה לאין לה קצבה, אבל גבי אלמנה, לא ניחא להו ליתמי, דלהוי מן האמצע, אלא דבר שאין לה קצבה עשאוהו למזונות ומתרפאת בעל כרחם, והתוספתא אינה הלכה כיון שלא קבעוה בתלמוד, אי נמי שהתוספתא שנויה עלה דההיא דאלמנה, ומי שהביאה עלה דמתניתין דהכא היה חושב שדין האחין כדין האלמנה עם היתומים ולא היא וכדכתיבנא.
+
+
+
+## Chapter 9
+
+
+### Halakhah 1
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 9:1:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/9:1:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/9:1:1)
+
+
+**השותפין וכו'.** כתבו בשם ר"ת שהמלוה לחבירו למחצית שכר אינו יכול להשביעו (במעות) [בטענת] שמא, שאינו מורה היתר לעצמו, שהרי נוטל שכר טורחו ע"כ, ואני אומר שרבינו חולק על זה, וזהו שכתב השותפין כולן, לכלול המתעסקים שכולן חייבים לישבע דאע"ג דנוטל שכרו אינו נוטל אלא כפועל בטל, ואם יש לו עסק אחר אינו נוטל אלא דבר מועט, הילכך מורה היתר לעצמו ולפיכך חייבוהו חכמים שבועה.
+
+
+
+### Halakhah 2
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 9:2:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/9:2:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/9:2:1)
+
+
+**ואין כל אחד מאלה וכו'.** פרק כל הנשבעים אמר רב נחמן והוא שיש טענה בינייהו שתי כסף מעין דאורייתא תקנוה אלא שזה טוען ודאי וזה טוען שמא.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 9:2:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/9:2:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/9:2:2)
+
+
+**אבל אם חושדן וכו'.** זה הלשון נראה מיותר לגמרי שהרי ברישא אמר אין אחד מכל אלו נשבע ומסתברא דהכי קאמר אבל אם חושדן וכו' אינם נשבעים אבל אם נתחייב שבועה ממקום אחר יכול לגלגל עליו אפי' חושדן בפחות משתי כסף.
+
+
+
+### Halakhah 3
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 9:3:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/9:3:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/9:3:1)
+
+
+**מכאן הורו רבותי וכו'.** וא"ת הראיה שכתב רבינו מבוארת ומוסכמת, וי"ל דשאני אשה הנעשית אפוטרופא בחיי בעלה דמוריא היתר טפי כיון שבעלה עשה אותה אפוטרופא בחייו ודעתה קלה וחושבת שהיא כמו אפוטרופוס שמינהו אבי היתומים שאין משביעין אותו וגוזלת של היתומים, ולפיכך אמרו משביעין אותה בכל גוונא, ורבינו למד ממנה לכל הנשבעין מספק שהיורש יכול להשביעו אע"ג שאינו יודע בכמה היה חושדו מורישו.
+
+
+
+### Halakhah 4
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 9:4:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/9:4:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/9:4:1)
+
+
+**אע"פ שאין עדים וכו'.** זה מבואר בכמה דוכתי דלא אמרינן מיגו לאפטורי אשבועה.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 9:4:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/9:4:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/9:4:2)
+
+
+**וכן אפוטרופוס וכו'.** טעמא דמילתא דאם אתה מחייבו שבועה לבסוף אף הוא נמנע בתחלה מלהיות אפוטרופוס, ולא ימצא אדם מי שירצה להיות אפוטרופוס על יתומיו, אבל מינוהו בי"ד אגב ההיא הנאה שהוא חשוב אצל בי"ד והוא נאמן אצלם לא מימנע הילכך משביעין אותו אפילו מן הספק.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 9:4:3
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/9:4:3](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/9:4:3)
+
+
+**וכן האשה.** כיון דשבועת השותפין והאפוטרופסים מדרבנן בטעמא כל דהו דחינן לה.
+
+
+
+### Halakhah 5
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 9:5:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/9:5:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/9:5:1)
+
+
+**המשלח ביד חבירו וכו'.** זה מתשו' הגאונים, אלא שקשה קצת שא"כ אין לך אדם שירצה לעשות שליחות לחבירו כיון שלבסוף הוא חייב לישבע, וי"ל דאין זה קשה כיון שיכול להתנות ע"מ שאהיה פטור משבועה ויעשה שליחות חבירו.
+
+
+
+### Halakhah 6
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 9:6:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/9:6:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/9:6:1)
+
+
+**השותפין שנושאין ונותנין וכו'.** משכחת לה שאע"פ שהפקיד בידו במדה ובמשקל ובמנין יכול להשביעו שמא החליף רע בטוב אם הוא דבר המתחלף וחושד אותו שיש בחליפין הפסד שתי כסף.
+
+
+
+### Halakhah 7
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 9:7:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/9:7:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/9:7:1)
+
+
+**אבל אם היתה לו טענת ודאי וכו'.** משמע דעל טענת ספק אין מגלגלין ובסמוך כתב דעל טענת השותפות שהוא מן הספק מגלגלין, לא קשיא דבסיפא איירי בכל הנשבעין בטענת ספק כגון השותפין וחביריו, אבל ברישא איירי בשאר טענות שאין נשבעין על טענת ספק אלא על הודאי. ונראה דה"ה למי שבא ליפרע מנכסי יתומים לא יפרע אלא בשבועה אם רצה היתום לגלגל עליו מגלגל כל מה שירצה אבל אם נתחייב שבועת היסת אין מגלגלין עליו דתקנתא בעלמא היא והכי משמע מדברי רבינו שכתב בין של תורה בין של דבריהם אבל שבועת היסת אינה מדבריהם אלא מן התקנה.
+
+
+
+### Halakhah 8
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 9:8:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/9:8:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/9:8:1)
+
+
+**והחוב הנשאר וכו'.** משמע שאם יש איזה ערעור על החוב שאינו מבורר עדיין שותפין הן.
+
+
+
+### Halakhah 9
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 9:9:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/9:9:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/9:9:1)
+
+
+**אבל יש להחרים וכו'.** חרם זה וכיוצא בו מתקנת הגאונים הוא כדי שידקדקו במשאם ומתנם ולא יאמר כל אחד הריני פטור משבועה שהרי הוא לא יודע שאינו נפטר מן החרם ותקנה גדולה היתה כדי שלא יבואו לידי גזלה.
+
+
+
+## Chapter 10
+
+
+### Halakhah 1
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 10:1:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/10:1:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/10:1:1)
+
+
+**שותף שטען על חבירו וכו'.** לכאורה משמע מדברי רבינו שאינו יכול להשביעו שתי שבועות שבועת היסת ושבועת השותפין, והא ודאי ליתא שאם רצה להשביעו שבועת היסת על טענתו משביעו ואם חושד אותו יכול להשביעו שבועת השותפין, הילכך צריך לפרש דבריו אם רצה התובע שלא ישבע השותף כגון שלא חשד אותו אלא בטענה זו הילכך הרשות בידו להשביעו היסת על הטענה דאע"ג שהיא שבועת התקנה מ"מ אינה ע"י גלגול ואם חשד אותו ורוצה להשביעו שבועת השותפין שהיא חמורה שהיא שבועת המשנה אע"פ שהטענה באה ע"י גלגול הרשות בידו.
+
+
+
+### Halakhah 2
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 10:2:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/10:2:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/10:2:1)
+
+
+**התובע שותפו וכו'.** דקדק רבינו אינו יכול להשביעו בטענת ספק, אבל בטענת ודאי יכול להשביעו אפילו אחר זמן מרובה שחלקו השותפות.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 10:2:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/10:2:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/10:2:2)
+
+
+**ואפי'ע"י גלגול וכו'.** משמע דגלגול שבועה מן התורה דכתיב ואמרה האשה אמן אמן והיינו דכתב ואפילו ע"י גלגול וקשה קצת דבשלמא שבועת היסת כיון שהיא תקנתא לא תקנוה אלא היכא דאיכא דררא דממונא, אבל גלגול שבועה אם היא מן התורה אמאי אין מגלגלין אפילו על השבועה. וי"ל דומיא דגלגול האשה מה גלגול דאשה אינו בא לחייבה שבועה אלא להפסידה כתובתה אף כל מקום שמגלגלין אין מגלגלין אלא על טענה שאם יודה בה יתחייב ממון.
+
+
+
+### Halakhah 3
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 10:3:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/10:3:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/10:3:1)
+
+
+**טען שעדיין שותפי אתה וכו'.** שיש טענה ודאית יכול להשביעו היסת ולגלגל עליו שלא גזלתני מעולם שאם יודה שגזלו יתחייב לשלם.
+
+
+
+### Halakhah 4
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 10:4:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/10:4:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/10:4:1)
+
+
+**טען שעדיין וכו' והלה אומר לא נשתתפנו וכו'.** שאם היה מודה ואומר נשתתפנו וחלקנו היה פטור משבועה כדכתב לעיל.
+
+
+
+### Halakhah 5
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 10:5:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/10:5:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/10:5:1)
+
+
+**ראובן שהטיל ת' [דינרים] וכו'.** אם היו מרויחין היו חולקין בשוה וכן היה ראוי שישלם שמעון מביתו חמשים אלא שאין השותף מן הנשבעים ונוטלין, ודעת הראב"ד ז"ל שהשכר למחצה וההפסד לפי מעותיהן ולפי דרך זה מפסיד שמעון מאה ושני שלישים ונוטל שליש, אלא שלקת מדת הדין כיון שנוטל מחצה בריוח למה לא יתן מחצה בהפסד ומה שהביא מן הירושלמי גם רבינו מודה בו שנוטל בריוח מחצה וכן בהפסד כאשר כתב בפ"ד ובעלי ההוראה היו אומרים שפורע שמעון מביתו עד תשלום ההפסד ודברי רבינו עיקר שהיא מילתא מציעתא בין דעת הראב"ד ובעלי ההוראה.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 10:5:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/10:5:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/10:5:2)
+
+
+**טען ראובן וכו'.** פי' ואני פטור משבועה לפיכך מגלגל עליו שאינו יודע ואם לא ירצה לישבע פורע חמשים מביתו שהוא חצי כל ההפסד.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 10:5:3
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/10:5:3](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/10:5:3)
+
+
+**ואם לא נתעסק שמעון וכו'.** נסתלקה שבועת השותפין ונשבע היסת.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 10:5:4
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/10:5:4](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/10:5:4)
+
+
+**ולא עוד אלא אם היה וכו'.** רבינו הולך לפי שיטתו והראב"ד לפי שיטתו, ולפי שיטת בעלי ההוראה מוציאין משמעון המנה ומשלם מביתו חמישים.
+
+
+
+### Halakhah 6
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 10:6:1
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/10:6:1](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/10:6:1)
+
+
+**אם היה בידו כדי החוב וכו'.** כלומר שאינו יודע לשותפו, יש לו מיגו ולפיכך נאמן.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 10:6:2
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/10:6:2](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/10:6:2)
+
+
+**אפילו היתה מלוה בשטר וכו'.** אפילו במלוה בשטר שייך קנונייא כי שמא כבר פרע לו ועתה החזיר השטר ללוי כדי לעשות קנונייא.
+
+
+###### Yekar Tiferet on Mishneh Torah, Agents and Partners 10:6:3
+
+[https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/10:6:3](https://torahapp.org/share/book/Yekar%20Tiferet%20on%20Mishneh%20Torah%2C%20Agents%20and%20Partners/r/10:6:3)
+
+
+**וכן אם יצא שטר וכו'.** הראב"ד מחלק בין אם היה השטר ביד שמעון ובין אם היה ביד ראובן ורבינו סובר כיון שהשטר בשם שמעון אע"ג שהשטר ביד ראובן נפטר (לו) [לוי] בהודאת שמעון דמצי למימר לבעל חובי החזרתי ואפילו היה השטר ביד שמעון אינו נאמן לומר נפרעתי דחיישינן לקנונייא דאי איתא דפרעיה הוה מהדר ליה שטרא. וא"ת כיון שהשטר ביד שמעון נהמניה במיגו דאי הוה בעי הוה מהדר שטרא למאריהו וישבע שמעון שפרעו לוי ושהחזיר לשותפות, וי"ל דלא אמרינן מיגו במקום חזקה וכיון שהשטר הזה מוחזק לשותפות אין המיגו מועיל להוציאו מחזקתו ועלו דברי רבינו כהוגן.
+

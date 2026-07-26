@@ -1,0 +1,330 @@
+# Mishnat DeRabbi Eliezer on Ruth Rabbah
+
+משנת דרבי אליעזר על רות רבה
+
+Link: [https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah)
+
+אוסף מדרשים על חמישה חומשי תורה וחמש מגילות שנאספו ממקורות שונים במהלך כ-800 שנים.
+
+Collections of midrash on the five books of the Torah and the five megillot compiled over eight centuries
+
+Sections: Paragraph-Comment
+
+Location: Midrash/Aggadah/Midrash Rabbah/Commentary/Mishnat DeRabbi Eliezer
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Midrash Rabbah, Vilna, 1878 (Segments: 29, License: Public Domain)
+
+
+## Parasha 1
+
+
+### Paragraph 1
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 1:1:1
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/1:1:1](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/1:1:1)
+
+
+**ומי היו כו'.**דבל"ז י"ל כפרש"י לפני מלוך כו' ששפטו השופטים או כתרגום נגיד נגידים ובימי בועז היו כנזכר במגלה משא"כ עתה דדרש לגנאי אוי לדור כו' ע"כ ל"ל דקאי אבועז דהרי צדיק גמור היה ולא עליו נאמר לשון וי לכ"א ברק ודבורה דוי לדרא דאשה מדבריית כדאית' בש"ס:
+
+
+
+### Paragraph 2
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 1:2:1
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/1:2:1](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/1:2:1)
+
+
+**אפשר כן שדור שמדותיו כו'.**המדרש מתמה מדכתיב האזכה במאזני רשע וכי אפשר לזכות ע"י מאזני רשע ומי פתי יאמר כן והל"ל הלא אחייב במאזני מרמה אלא ובכיס פי' שהיו פושטים טלפי' שהם כשרים ועשו כיס למשקלם הקטנים כדאית' בח"מ סי' רל"א ס"י ע"ש וזהו שהוכיחם וכי אתם סוברים שתזכו במה שאתם עושים בדין לעשות כיסוי של עור שלא יקל כיון שמתחלה נעשה שוא וזהו ל' מרמה ואף משה רמז זה בתורה לא יהיה גו' דל"ל למכתב בכיסך אלא לרמז זה כנ"ל:
+
+
+
+### Paragraph 5
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 1:5:1
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/1:5:1](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/1:5:1)
+
+
+**הוא עיקר כו'.**דיוקו דהוא מיותר דכבר כתיב וילך אלא לרמז שהוא עיקר ואף שזה ידוע מ"מ בא הכתוב ליתן טעם למה הוא נענש תחלה:
+
+
+
+## Parasha 2
+
+
+### Paragraph 3
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 2:3:1
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/2:3:1](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/2:3:1)
+
+
+**נאמרו מעתיקו של עולם כצ"ל.**שהש"י נקרא עתיק יומין וכד"א ויעתק משם טעות גדול בכאן ועיין באות אמת:
+
+
+
+### Paragraph 4
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 2:4:1
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/2:4:1](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/2:4:1)
+
+
+**ויוקים זה אלימלך.**י"ל שנקרא יוקים שקיים את התורה ואעפ"כ נק' ג"כ ושרף למדך שמי שמבטל דבר אחד כו' דאם לא נכתב יוקים איך נלמד על מבטל דבר אחד דלמא חטא הרבה ולכך נענש:
+
+
+
+### Paragraph 6
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 2:6:1
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/2:6:1](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/2:6:1)
+
+
+**מצאו אותם פרוצים בעבירות.**ובילקוט גרס בעריות והיא היא דבכ"מ במדרש ובגמרא מכנה עריות בעבירה וי"ל דדייק דהל"ל רק ויבואו שמה דהרי כתיב לגור בשדה מואב אלא בא להורות אעריות כמו בשדה מצאה וכן דרש גבי עשו ומאחר דכתיב ויבואו שדי מואב א"כ ל"ל ויהי שם אלא לרמז שחזרו למקום מים לכך כתיב שם כמש"ה וימצאו שם מים עיי' פ' תולדות ובמ"ש שם:
+
+
+
+### Paragraph 11
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 2:11:1
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/2:11:1](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/2:11:1)
+
+
+**ומה שמעה כו'.**ק' דמה חדושו גם מה שמסיק כתוב א' אומר כו' מה בעי הכא ונ"ל דה"פ דהמדרש דקדק דל"ל למכתב בשדה מואב כיון דכתיב ותשב משדי מואב בוודאי שם שמעה ותירץ שמעה כי פקד ה' את עמו לכך כתיב בשדה מואב להורות ששמעה ההפרש שיש בין שדה מואב דהיינו חו"ל ובין א"י דהרי כתוב א' אומר כו' עד ורבנן אמרו בא"י בשביל עמו לכך שבה משם לשוב לא"י כי שם פקד ה' את עמו ועיין באלשיך:
+
+
+
+### Paragraph 15
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 2:15:1
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/2:15:1](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/2:15:1)
+
+
+**אר"י כל אותן כו' ליתן לשלמה כו'.**דיוקו דברישא אמרה יעשה וחזרה ואמרה יתן גם למה אמרה בלשון זכר עמכם לכם לז"א שרימזה אמש"ה ויתן ה' חכמה לשלמה:
+
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 2:15:2
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/2:15:2](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/2:15:2)
+
+
+**וכי יש אדם מיבם כו'.**תימה לפ"ז מה זה שאמרה כי אמרתי וגו' הלהן תעגנה וי"ל שסברה דאיסור אשת אח אינו רק באחים מאב ועיין ברש"י שמוכח שהי"ל גי' אחרת:
+
+
+
+### Paragraph 19
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 2:19:1
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/2:19:1](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/2:19:1)
+
+
+**א"ר לוי כ"מ שנאמר יד ה' כו'.**דר' לוי חולק את"ק שדרש יצאה בי יד ה' אמשה ואהרן ואמר ח"ו לומר כן דהרי כ"מ שנאמר יד ה' היינו מיתת מגפה אלא דקאי אדור המדבר ובר קפרא אמר יד תבעו כו' לפי שאמרו מי יתן מותנו ביד ה' לכך פגע בם יד ה' ואר"ש גם זה אינו דהרי רק ביוצאין היתה מגפה היינו המרגלים עצמם ולא ביושבים בביתם כדכתיב וימותו מוציאי דבת הארץ במגפה משא"כ כולם ולזה בא רבי ראובן לסייע לר"ס הרי אף בניהם היה מצירים כו' לפי שהיו מעוכבים במדבר לפי שלא מת אחד מהם קודם שהיה בן ס' שנים ואין זה מיתת מגפה:
+
+
+
+### Paragraph 21
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 2:21:1
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/2:21:1](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/2:21:1)
+
+
+**נשיקה של גדולה כו'.**עיין מ"ש פ' ויצא:
+
+
+
+## Parasha 3
+
+
+### Paragraph 7
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 3:7:1
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/3:7:1](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/3:7:1)
+
+
+**מלאה בבנים כו'.**י"ל למה נרמז זה כאן שהיה לה עוד בנים ובנות או שהיתה מעוברת ונראה דקאי אדלעיל קראן לי מרה לפרה כו' אילין מכותיה כו' לומר שאילו היתה צדקת ומעשיה נעים לא נענשה במיתת בנים. ושמא תאמר והלא מחלון וכליון היו גדולים כדאיתא בגמרא ומדרש ותרגום ועד י"ג שנים הבן לוקה בעון אב ואם מכאן ואילך איש בעונו ימות לכ"א אני מלאה הלכתי דתיבת אני מיותר אלא להורות על מה ששייך לגופה היינו בנים ובנות קטנים או שהיתה מעוברת ואלו בודאי מתו בחטאה וזה ג"כ כוונת המ"י וז"ל וימותו גם שניהם ללמדך שעין הרע מכה בבנים א"ר חייא עד י"ג שנים הבן לוקה בעון אב ואם ע"ש והוא תמוה. ועפ"ד הנ"ל ניחא דבא להוכיח שמתו בעין הרע דא"ל שמתו בעון אביהם דהרי רק עד י"ג שנים הבן נענש בעון אב והם היו גדולים אע"כ שמתו בעין הרע ומדרשים הנ"ל ס"ל שלא מתו בעון עצמם שגיירום והטבילום וגם על יציאתם לחו"ל אין להענישם שהיו טפלים אחר אביהם כדאיתא במפרשים:
+
+
+
+## Parasha 4
+
+
+### Paragraph 2
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 4:2:1
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/4:2:1](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/4:2:1)
+
+
+**זו היא ששבה משדה מואב.**פי' זו היא הראשונה ששבה ונתגיירה ממואב כדלעיל מיניה שעתה נתחדשה ההלכה עמוני ולא עמונית. וכן מפורש בירושלמי ומ"כ העתיק ונדחק להשיאו לדבר אחר:
+
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 4:2:2
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/4:2:2](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/4:2:2)
+
+
+**בקציר העומר מדבר.**פי' אע"פ דעתה נתחדשה ההלכה כנ"ל אעפ"כ לא נכתבה המגילה בשביל זה רק ללמוד שכר ג"ח כדלעיל יע"ש מ"כ דאל"כ למה קורין רות בשבועות הלא קציר שעורים הוא קציר עומר שהוא בפסח אלא שנכתבה ללמוד שכר ג"ח והתורה כולה ג"ח לכך קורין אותו בשבועות. ומהר"מ אלשיך פי' דרשב"נ הורה לנו דכשבאת היה קציר עומר ושהתה עד סוף קציר חטים שהוא משך ג' חדשים כמו רשב"נ לקמן ששהתה ימי הבחנה כדין גירות:
+
+
+
+### Paragraph 4
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 4:4:1
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/4:4:1](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/4:4:1)
+
+
+**בת ארבעים שנה היתה כו'.**פי' מדאמר לכי בתי ולא ס"ל דקורין לכלות בנות בפרט לאחר מות בעלה ואף דקודם לזה כתיב בנותי סמך דרוש זה כאן לומר שהיתה בת מ' כבת ז' ליופי לכך ויקר מקרה שכל הרואה אותה כו' מחמת יופי' ולפ"ד המ"כ שנלמד מבועז שקרא בתי אין שום שייכות למ"ד זה כאן:
+
+
+
+### Paragraph 6
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 4:6:1
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/4:6:1](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/4:6:1)
+
+
+**ולא הוה חכים לה.**דקשה לו מלת זאת שמשמע שהורה באצבע עליה לכך מקשה וכי לא הוה ידע הנער על מי ששואל עד שהיה צריך להראות באצבעו ותי' דלכ"כ הזאת להתנצל לפני הנער שלא יקשה בעיניו וכי דרכו לשאול בנשים לכ"א על זאת אני שואל לפי שמעשיה נאים ואפשר בזה ג"כ כוונת הרי"ע בפירושו שמביא המ"כ ולפ"ז ניחא מה שמאריך לקמן גבי שאול אתמול כו' ולפרש שם הקושיא בע"א:
+
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 4:6:2
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/4:6:2](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/4:6:2)
+
+
+**רבתה רפתה לה.**דייק תי' היא מיותר' אלא שבא לומר שהיא מצד עצמה מואביה היא רק שחמותה מאלפא ועיין מתנות כהונה:
+
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 4:6:3
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/4:6:3](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/4:6:3)
+
+
+**שלמה מעם ה' אמר רבי חסא שלמה כתיב שלמה עתיד לצאת ממנה כן צריך להיות.**וכ"ה הגירסא בילקוט וכ"ה הגירסא של מתנות כהונה כנראה מפירושו ונשמט בדפוס שורה אחת:
+
+
+
+## Parasha 5
+
+
+### Paragraph 6
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 5:6:1
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/5:6:1](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/5:6:1)
+
+
+**קליל זעיר כו'.**יש לומר דנשמר מליתן יותר שלא יבוא לידי ספק קידושין וכדאיתא באורח חיים סימן תרצ"ה בהג"ה ס"ד שלא ישלח איש לאלמנה משלוח מנות מטעם זה עיין שם לכן נתן לה דבר השוה בפחות משוה פרוטה לכך מסיק דנראין הדברים שהברכה שרתה במעיה שאילו שרתה ברכה באצבעותיו הרי נעשה דבר חשוב השוה יותר מש"פ:
+
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 5:6:2
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/5:6:2](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/5:6:2)
+
+
+**שאילו היה יודע ראובן כו'.**דראובן היה מסופק אם ראוי להציל או לא כדאיתא במפרשים כמה פעמים וכדי להציל השבטים מחטא ציוה להשליכו לבור שיש נחשים שאם יהיה ראוי להצילו יעשה לו נס וכדאיתא בזוהר תירוץ זה ואילו היה יודע שהכתוב משבחו ומכתיב עליו למען הצילו בוודאי על כתיפו כו' ואילו היה יודע אהרן כו' דקאמר דחייב אדם בכבוד אחיו הגדול אפילו הקטן גדול ממנו בתורה כדאיתא ביו"ד סי' ר"ו ואיתא שם דאם האב תלמיד של בנו חייב לעמוד לפניו ויש להם להרחיק זה מזה ע"ש ונראה דה"ה באחיו הגדול ועיין באבות פרק ד' משנה י"ב ולכך כתיב ושמח בלבו שלא לעשות שום מעשה הניכר לזלזל כבודו נגד אחיו הקטן רק בלבו שמח שהיה רבו ואילו היה יודע שהכתוב מכתיב ומפרסם זה בתופים היה משמיע קול ויוצא לקראתו ואילו היה יודע בועז שהכתוב מכתיב ותשבע ותותר א"כ נעשה לדידה דבר חשוב ולא יצא מכלל ספק קידושין:
+
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 5:6:3
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/5:6:3](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/5:6:3)
+
+
+**עגלות פטומות כו'.**דלאו משום עין רעה נתן לה מעט רק כדלעיל דה' קליל כו' ע"ש:
+
+
+
+### Paragraph 12
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 5:12:1
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/5:12:1](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/5:12:1)
+
+
+**זכותי תרד עמך ד"א כו'.**יש לדקדק לשון ד"א דעדיין לא פי' לשון וירדתי ואף אם היה כתיב והלכתי היה דורש זכותי תרד מיתור היו"ד וי"ל דלדרש זכותי תרד עמך מיושב ג"כ לשון וירדתי היינו שתרד ממעלתה ומזכותה בשביל שיגין זכותה על רות יתמעטו זכיותיה על דרך קטונתי מכל החסדים:
+
+
+
+### Paragraph 15
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 5:15:1
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/5:15:1](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/5:15:1)
+
+
+**שבירך על מזונו.**פי' ל"ל וייטב לבו כיון דכתיב וישת היינו וייטב לבו דכתיב ושתה בלב טוב וכה"א טוב לב משתה תמיד ותי' דלכן כתיב וייטב לבו שבירך ע"מ וכתיב טוב עין הוא יבורך:
+
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 5:15:2
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/5:15:2](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/5:15:2)
+
+
+**ד"א כו' שעסק בתורה.**דדייק למה לא כתיב לבבו כמו שמדייק רש"י בפ' וירא לבבכם אכ"כ מכאן שאין יצה"ר שולט כו'. לכ"א כאן שעסק בתורה והתורה תבלין. לכ"כ לבו ולא לבבו וכדאיתא בברכות אמרו בלבבכם וע"ש:
+
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 5:15:3
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/5:15:3](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/5:15:3)
+
+
+**ד"א כו' שהיה מבקש אשה.**דק"ל מה וייטב לבו הלא דרשינן וילכו כו' וטובי לב שנתעברו נשותיהם כו' וזה לא היה לו אשה ואיך שייך אצלו וייטב לבו. לכ"א שהיה מבקש אשה בלבו כדכתיב מצא טוב:
+
+
+
+## Parasha 6
+
+
+### Paragraph 1
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 6:1:1
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/6:1:1](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/6:1:1)
+
+
+**וינגע ה' וגו' עם אברהם ושרה.**וזה בא ע"י שלא גילה לוט שהיא אשתו ובזכות זה ניצל מתוך ההפיכה כפי' רש"י ע"פ ויזכור אלהים את אברהם וגו' ע"ש ונולד מואב שבאה רות זקינתו ממנו ע"ז אקום להודות:
+
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 6:1:2
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/6:1:2](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/6:1:2)
+
+
+**והנה אשה טהורה כו' שנאמר אמתך וגו'.**דייק לשון והנה דה"ל ואשה שוכבת לכ"א דוהנה אשה שבכאן הוא היפך והנה אשה לקראתו שבמשלי סימן ז' שנאמר ופרשת כנפיך וגו' ארורים הרשעים כו' שהיא דיברה בלשון חכמה וצניעות טהורה היא ועיין ביפ"ע והגי' ללא לצורך:
+
+
+
+### Paragraph 4
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 6:4:1
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/6:4:1](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/6:4:1)
+
+
+**ותהי לו לאשה אר"ל עיקר כו'.**דל"ל למכתב ותהי לו לאשה כיון דכתיב ויקח גו' אלא לאחר שלקחה נעשית לו לאשה שקודם לא היתה אשה ולפי' המ"כ לא הי"ל להביא רק סוף הפ':
+
+
+
+## Parasha 8
+
+
+### Paragraph 1
+
+###### Mishnat DeRabbi Eliezer on Ruth Rabbah 8:1:1
+
+[https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/8:1:1](https://torahapp.org/share/book/Mishnat%20DeRabbi%20Eliezer%20on%20Ruth%20Rabbah/r/8:1:1)
+
+
+**ואף תמר שלקחה כו'.**עיין יפ"ע ולשון המדרש אינו סובל פירושו דקאמר זקניכם משמע דבא עליהם מחמת זה והפי' כפשוטא שאף הם מפסול שנשא כלתו אלא בתו של שם היא כמו ולא עוד שהיתה בת כהן וחמיר איסורה טפי ובאמת נשמת תמר היא נשמת רות כדאיתא במפרשים עיין ב"ר פ' וישב:
+

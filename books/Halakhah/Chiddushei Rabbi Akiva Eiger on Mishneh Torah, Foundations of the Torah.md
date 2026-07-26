@@ -1,0 +1,217 @@
+# Chiddushei Rabbi Akiva Eiger on Mishneh Torah, Foundations of the Torah
+
+חידושי רבי עקיבא איגר על משנה תורה, הלכות יסודי התורה
+
+Link: [https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah](https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah)
+
+חיבור הלכתי פורץ-דרך וחדשני מבחינת היקפו ואופן סידור הדינים שבו. נכתב על ידי הרמב"ם במאה ה-12.
+
+Legal code written by Maimonides in the 12th century, groundbreaking in its organization and scope.
+
+Sections: Chapter-Halakhah-Comment
+
+Location: Halakhah/Mishneh Torah/Commentary/Chiddushei Rabbi Akiva Eiger/Sefer Madda
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Friedberg Edition (Segments: 13, License: Public Domain)
+
+
+## Chapter 5
+
+
+### Halakhah 2
+
+###### Chiddushei Rabbi Akiva Eiger on Mishneh Torah, Foundations of the Torah 5:2:1
+
+[https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:2:1](https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:2:1)
+
+
+**במל"מ** אלא דצריך לעי' במ"ש הר"ן שם בסוף דבריו דעכו"ם הבא על בת
+ישראל לאו בכלל ג"ע הוא וכו' (נעה"ג) לא הבנתי דהא הר"ן שם הביא דבג"ע
+אפילו להנאת עצמו אסור דבעצי אשירה הוי להנאתו וכן בההוא דהעלה טינא
+הוי להנאתו הרי דאפילו בביזרא דע"ז וג"ע אפילו להנאתו יהרג ואל יעבור,
+וא"כ עדיין ק' אמאי בעכו"ם שרוצה לבת ישראל להנאתו לא יהי' בו דין יהרג
+ואל יעבור.
+
+
+
+### Halakhah 4
+
+###### Chiddushei Rabbi Akiva Eiger on Mishneh Torah, Foundations of the Torah 5:4:1
+
+[https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:4:1](https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:4:1)
+
+
+**ברמב"ם**
+**כל מי שנאמר בו יעבור ואל יהרג ונהרג ולא
+עבר הרי זה מתחייב בנפשו** (נעה"ג) עי' שו"ת הרדב"ז ח"א בלשונותיו של
+הרמב"ם סי' ג'.
+
+
+
+### Halakhah 5
+
+###### Chiddushei Rabbi Akiva Eiger on Mishneh Torah, Foundations of the Torah 5:5:1
+
+[https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:5:1](https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:5:1)
+
+
+**בכ"מ** ולא דמי למה
+שאמרו שם שאם היתה ככר של תרומה כו' (נעה"ג) נלע"ד דהיינו מה שאמרו
+בירושלמי על המתניתין הנ"ל לא מסתבר אם היתה ככר טמאה וס"ל להרשב"א דזהו
+קאי על בבא דככרות אבל לגבי נשים לא. ושמעתי שבספר מקראי קודש כתב להגי'
+בירושלמי שצ"ל אם היתה כבר טמאה. וזה מסתבר יותר מלישנא דהרשב"א.
+
+
+
+### Halakhah 8
+
+###### Chiddushei Rabbi Akiva Eiger on Mishneh Torah, Foundations of the Torah 5:8:1
+
+[https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:8:1](https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:8:1)
+
+
+**במל"מ** ד"ה והיכא דמכר כו' והן הן דברי תוס' פרק
+כל שעה דכ"א ד"ה וכל כו' (ונעה"ג) ועי' בדברי הרב המחבר פי"ג ה"ה משגגות
+בד"ה אמנם קושטא דמילתא.
+
+
+###### Chiddushei Rabbi Akiva Eiger on Mishneh Torah, Foundations of the Torah 5:8:2
+
+[https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:8:2](https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:8:2)
+
+
+**במל"מ** ד"ה ודע [דאחר שכתבנו] כו'. א"ה
+עי' בדברי הרב המחבר כו' ומד' תוס' שרמז הרב לא מוכיח מידי דס"ל דדבר
+הלמד באם אינו ענין דאינו לוקה כמו שיראה המעיין (נעה"ג) ואדרבה משם
+מוכח בהיפך דלקי דהא באם קאי באינו ענין לגזל אלא לכובש שכר שכיר לוקה
+עי"ש. וכ"כ בשו"ת מוצל מאש סי' ק'.
+
+
+###### Chiddushei Rabbi Akiva Eiger on Mishneh Torah, Foundations of the Torah 5:8:3
+
+[https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:8:3](https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:8:3)
+
+
+**במל"מ** ד"ה ודע
+דאחר שכתבנו לעיל כו' דבב"ח לוקה אף שלא כדרך אכילה (נעה"ג) לא ידעתי
+כוונת הרב ז"ל דהא אף לאיסי ב"י לוקה בב"ח באוכל שלא כדרך אכילתו
+כדאמרינן בסוגי' להכי לא כתיב אכילה בגופי' עי"ש. ואולי כוונת הרב ז"ל
+דלפי"מ דקיי"ל לא אפשר ומכוין אסור ממילא מוכרחין לומר בהא דריב"ז דהי'
+יושב בצלו של היכל דהטעם משום דשאני היכל דלתוכו עשוי ומבואר בתוס' שם
+דהא אינו אסור שלא כד"ה משום דילפינן חטא חטא מתרומה א"כ מוכח דאנן ס"ל
+דאף מה דיליף בג"ש הוי כאילו כתיב אכילה בגופי' וכסברת מאן דמותיב
+והיינו על דרך דברי המהרש"א דמדמי זה לזה עיי"ש. אמנם באמת א"א לומר כן
+דהרי המהרש"א מסיק דלרבא ע"כ יש איזהו לימוד אחר דבכלאי כרם ג"כ אין
+לוקין שלא כד"ה. וא"כ יקשה לדידן דקיי"ל כרבא גבי מעילה וגם קיי"ל בזה
+כאביי דכ"כ לוקין שלא כד"ה יקשה מברייתא דאיסי ב"י דנפיק מה לכלאי כרם
+שלוקין עליה' שלא כד"ה. ואף די"ל בזה דלא כמהרש"א והיינו די"ל דרבא ס"ל
+תי' אחר על פירכת הש"ס דהיינו דהברייתא אתיא כר"ש דס"ל כ"ש למלקות וה"נ
+שלא כד"ה וכמ"ש מהרש"ל. וכן ראיתי שתירץ בספר שעה"מ. הא זה אינו מספיק
+לדעת הרב ז"ל דכתב בסמוך (ד"ה וראיתי) דחולק בזה על מהרש"ל וא"כ אין
+קיום לדברי מהרש"א בדעת רבינו אע"כ דלא דמי כלל זה לזה וכדכתבו המפורשים
+לחלק דדוקא בב"ח דהגז"ש בא רק לאיסור בב"ח בזה הדיוק מדלא כתיב אכילה
+בגופי' אבל גבי חטא חטא מתרומה הגז"ש אתיא לדברים הרבה ליכא דיוקא בזה
+וא"כ שפיר י"ל דקיי"ל כאיסי ב"י והא דאמרינן שלא כדרך אכילתן היינו
+משום דלא כתיב אכילה בגופי'. וגם אין להקשות דאם איתא דקיי"ל כאיסי ב"י
+מנ"ל לדינא דבב"ח אסור בהנאה שלא כד"ה הא כיון דילפינן בק"ו מערלה י"ל
+דילפינן לבא מה"ד ואסור רק כדרך הנאתו, די"ל דילפינן במה מצינו בכלאי
+כרם דליכא למימר שור הנסקל יוכיח כמ"ש תוספות דמה לשוהנ"ס דמותר גם
+באכילה שלא כד"ה משא"כ בב"ח דאסור באכילה שלא כד"א מדלא כתיב אכילה
+בגופי' אסור גם בהנאה שלא כד"ה כמו כלאי כרם.
+
+
+###### Chiddushei Rabbi Akiva Eiger on Mishneh Torah, Foundations of the Torah 5:8:4
+
+[https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:8:4](https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:8:4)
+
+
+**במל"מ** ד"ה והנה אף שלכאורה דברי רבינו ז"ל שלא חייב מלקות כו' א"ה מכאן מוכח
+כו' וא"נ משום נותר הו"ל לחייבו על אכילתו והנאתו כו' (נעה"ג) לענ"ד
+אין ראיה דהכא דאיסור אכילה והנאה אתי מחד לאו דלא יאכל בודאי פשיטא
+דאינו לוקה רק פעם אחד דהוי משם אחד משא"כ דיליף מג"פ לא תבשל אחד
+לאיסור אכילה ואחד לאיסור הנאה בזה מסתפק המ"ל אם לוקה ב' וכדדייק המ"ל
+בלשונו ואע"ג דבכל איסורים אם מצטרף בדבר אחד לוקה וכמ"ש רבינו בפ"ז מה'
+ע"ז כו' ע"ש.
+
+
+###### Chiddushei Rabbi Akiva Eiger on Mishneh Torah, Foundations of the Torah 5:8:5
+
+[https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:8:5](https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:8:5)
+
+
+**במל"מ** ד"ה עוד כתב התוספות בפ' כ"ש
+כו' לפי הנראה דתוס' ס"ל דכל שלא כד"ה שרי לגמרי כו' (נעה"ג) והיינו אף
+בע"ז לתי' א' דאשירה לצל עשוי' ולפ"ז ישאר התמיה אמאי אסרו רבנן דנעשה
+זבל הא מ"מ הוי שלא כד"ה. והרב ז"ל הק' כן ע"ד תוס' פסחים (דכ"ח) וע"ז
+(דמ"ג) ותירץ לנכון דר"י ס"ל דשלא כד"ה אסור דרבנן אבל לפי"ד תוס' אלו
+דודאי מוכח דס"ל דאפילו דרבנן שרי הקושיא במקומה עומדת וצ"ע. אחר זמן
+רב זכני ה' בס' שעה"מ וראיתי שעמד בזה.
+
+
+###### Chiddushei Rabbi Akiva Eiger on Mishneh Torah, Foundations of the Torah 5:8:6
+
+[https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:8:6](https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:8:6)
+
+
+**במל"מ** ד"ה יש לחקור בהא דקיי"ל דכ"א שבתורה אין לוקין עליהם שלא כד"ה
+כו' (נעה"ג) ויש לעיין באומר קונם דבר זה עלי אם אסור שלא כד"ה או דמסתמא
+לא אסור עליו רק דרך הנאתו ועיין עירובין (ד"ל ע"א) ובמג"א סי' שפ"ו סק"י.
+
+
+###### Chiddushei Rabbi Akiva Eiger on Mishneh Torah, Foundations of the Torah 5:8:7
+
+[https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:8:7](https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:8:7)
+
+
+**במל"מ** ד"ה ודע דכל זה הוא לסברת איסי כו' א"ה ואם לחשך כו'
+אמור לו דס"ל להרב ז"ל (נעה"ג) ואינו מספיק די"ל בפשיטות על קושי' המ"ל
+דאביי סבר כרב אשי דיליף בחולין דבב"ח אסור מקרא דל"ת כל תועבה וא"כ
+אסור רק כדרך אכילתו דבהא ודאי ל"ש לומר מדלא כתיב אכילה בגופי' כיון
+דל"ת כל תועבה אתיא להרבה דברים וממילא גם איסור בב"ח בכלל ל"צ למכתב
+אכילה בגופי' ופשוט.
+
+
+
+## Chapter 6
+
+
+### Halakhah 7
+
+###### Chiddushei Rabbi Akiva Eiger on Mishneh Torah, Foundations of the Torah 6:7:1
+
+[https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:7:1](https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:7:1)
+
+
+**ברמב"ם**
+**הסותר אפילו כו' וכן השורף עצי הקדש.** (נעה"ג) אפילו בפחות משו"פ תוס' מכות דכ"ב ע"א ד"ה אלא הב"ע.
+
+
+
+### Halakhah 9
+
+###### Chiddushei Rabbi Akiva Eiger on Mishneh Torah, Foundations of the Torah 6:9:1
+
+[https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:9:1](https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:9:1)
+
+
+**ברמב"ם**
+**כל השמות האמורות כו'
+כל השמות אמורות במיכה** (נעה"ג) עי' תשובת רדב"ז ח"א סי' ס"ז.
+
+
+
+## Chapter 9
+
+
+### Halakhah 4
+
+###### Chiddushei Rabbi Akiva Eiger on Mishneh Torah, Foundations of the Torah 9:4:1
+
+[https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/9:4:1](https://torahapp.org/share/book/Chiddushei%20Rabbi%20Akiva%20Eiger%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/9:4:1)
+
+
+**ברמב"ם**
+**וכן אם כו' שהדין כך הוא והלכה כו'.** (נעה"ג) עי' מ"ל פרק ט' מהלכות אישות ה"ו בסופו.
+

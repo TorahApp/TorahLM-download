@@ -1,0 +1,76 @@
+# Chiddushei Anshei Shem on Makkot
+
+חידושי אנשי שם על מכות
+
+Link: [https://torahapp.org/share/book/Chiddushei%20Anshei%20Shem%20on%20Makkot](https://torahapp.org/share/book/Chiddushei%20Anshei%20Shem%20on%20Makkot)
+
+דיוני חז״ל בנושאי הלכה, מוסר ותנ"ך שהתקיימו במשך דורות. בנויים כהרחבות על המשנה ושזורים בהם סיפורי אגדה.
+
+11th-century code that presents practical legal conclusions of talmudic passages and served later authorities as a basis for determining law.
+
+Sections: Daf-Comment
+
+Location: Talmud/Bavli/Rishonim on Talmud/Rif/Commentary/Chiddushei Anshei Shem
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Vilna Edition (Segments: 6, License: Public Domain)
+
+
+## Daf 2b
+
+###### Chiddushei Anshei Shem on Makkot 2b:1
+
+[https://torahapp.org/share/book/Chiddushei%20Anshei%20Shem%20on%20Makkot/r/2b:1](https://torahapp.org/share/book/Chiddushei%20Anshei%20Shem%20on%20Makkot/r/2b:1)
+
+
+**מהר"ם**
+ תניא בתוספתא רבי אמר אף בדיני ממונות והוא לא ידע שיש להם קרוב או פסול תתקיים העדות בשאר והכי פירושא כולה עד וגמרי' מינה מה שפסול קרוב או פסול היינו טעמא דנטפלו לפסולין הלכך אם היו שוגגין ולא נצטרפו לדעת הכשרים בהכשרן ונחלקת מהן העדות וכי היכי דתלינן בדעת הפסולין אי אמר למחזי אתינן אי לאסהודי ה"נ תלינן בדעת הכשרים אם לא הכירו בפסולין כל זה ל' הרמב"ן שהביא ראיה מזו התוספתא לתשובת רב אלפס ז"ל שהביא הר"ן ז"ל וז"ל רבי' אשר"י ולא מסתבר לי כלל דכיון שהעיד הפסול בב"ד נתבטל גם עדות הכשרין ואין תלוי במה שלא הכיר הכשר בקורבתן כי לא נמצא זה בתלמוד דאי איתא שתלוי בהכרת העדים הוי לתלמודא למימר דשיילינן להו לכשרין אם הכירו בפסולין של אלו והכי פירושא דתוספתא והוא לא ידע המלוה שיש לו או ללוה שם קרוב או פסול כי לא הזמינום לעדים אלא הם מעצמן באו לראות תתקיים העדות בשאר עדים וכן משמע מתוך לשון הלכות גדולות שכתב בהן קאמרי רבנן דשטרא דחתימי עליה סהדי ואשתכח חד מנייהו קרוב או פסול נהי דממונא לא מפקינן אפומיה אבל משבעינן ליה אפומא דהאי עד כשר והא דלא מיפסיל עד כשר בצרופו של פסול דאמרי' רווחא שביק למאן דקשיש מיניה ואתא פסול וחתם ומשמע דדוקא לא נפסל הכשר במה שנמצא חתום עם הפסול אבל אם העידו יחד בב"ד נתבטלה גם עדות הכשר ויראה שאם הזמין המלוה עדים כשרים ועמדו שמה קרובים או פסולים אפי' אם כוונו להעיד ובאו והעידו בב"ד לא נתבטלה עדות הכשרים דכיון שיחד את עדיו לאו כל כמינייהו להפסיד בזה ממונו דהא דקאמר תלמודא דשיילינן להו אי למחזי אתו אי לאסהודי אתו היינו דבר הנעשה בפני רוב עם בלא הזמנת עדים ובאין כולם להעיד:
+
+
+###### Chiddushei Anshei Shem on Makkot 2b:2
+
+[https://torahapp.org/share/book/Chiddushei%20Anshei%20Shem%20on%20Makkot/r/2b:2](https://torahapp.org/share/book/Chiddushei%20Anshei%20Shem%20on%20Makkot/r/2b:2)
+
+
+אבל המזמין כו' עד שלא היתה כוונתו אלא בראויין להעיד נל"ק שכל זה היתה הג"ה בס' האלפס מחכם אחד ולא מדברי המחבר ונשתבשה ונכתבה תוך הספר:
+
+
+###### Chiddushei Anshei Shem on Makkot 2b:3
+
+[https://torahapp.org/share/book/Chiddushei%20Anshei%20Shem%20on%20Makkot/r/2b:3](https://torahapp.org/share/book/Chiddushei%20Anshei%20Shem%20on%20Makkot/r/2b:3)
+
+
+בח"מ סי' ל"ו מביאו ולא כתוב וזכור לעדות וגם קל"ק אי זכור יעיד עוד בב"ד בלא צירוף דהרי בח"מ סי' מ"ה תשובת הרא"ש גם בנימוקי יוסף פרק זה בורר מביאה ולא כתב שם וזכור לעדות:
+
+
+
+## Daf 3b
+
+###### Chiddushei Anshei Shem on Makkot 3b:1
+
+[https://torahapp.org/share/book/Chiddushei%20Anshei%20Shem%20on%20Makkot/r/3b:1](https://torahapp.org/share/book/Chiddushei%20Anshei%20Shem%20on%20Makkot/r/3b:1)
+
+
+**מהר"ם**
+ נ"ל דזה הוא דעת רש"י שפי' בשם רבינו הזקן ועצם ה' לאו דווקא אלא סוף הגבול שזו הוא החמשה והוא סוף הזקן בשבולת באמצע או נאמר עצם חמישי. ר"ל שבולת הזקן מתחת בגרגרת כמו לפר"ח כדאיתא בי"ד סימן קפ"א ואשר"י מייתי ליה ממתני' דנגעים דתנן איזהו הזקן מפרק של לחי עד פיקה של גרגרת.
+
+
+
+## Daf 4a
+
+###### Chiddushei Anshei Shem on Makkot 4a:1
+
+[https://torahapp.org/share/book/Chiddushei%20Anshei%20Shem%20on%20Makkot/r/4a:1](https://torahapp.org/share/book/Chiddushei%20Anshei%20Shem%20on%20Makkot/r/4a:1)
+
+
+התוספות בפ"ק דשבועות והאשר"י בפירקין הוכיח דמספרים כעין תער אסור בפאות הראש:
+
+
+###### Chiddushei Anshei Shem on Makkot 4a:2
+
+[https://torahapp.org/share/book/Chiddushei%20Anshei%20Shem%20on%20Makkot/r/4a:2](https://torahapp.org/share/book/Chiddushei%20Anshei%20Shem%20on%20Makkot/r/4a:2)
+
+
+והיינו כרבי יוחנן וס"ל דפליגא סוגיין דלעיל דלא הוה צריך לאוקמי דרב במספרים דהא ברייתא דהעברת שער מדברי סופרים איכא לאוקמא בשער בית השחי ולדברי רב אלפס שהביא שקלא דרב ומימרא דר' חייא בר אבא אמר רבי יוחנן נל"ק דס"ל דלא פליגא ורבי יוחנן במספרים קאמר דמדרבנן אבל בתער מודה דלוקה מדאורייתא ושאר אברים בתער מדרבנן כברייתא דהעברת שער מדברי סופרים ובמספרים שרי כדרב:
+

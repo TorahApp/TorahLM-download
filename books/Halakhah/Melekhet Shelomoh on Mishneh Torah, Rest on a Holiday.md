@@ -1,0 +1,31 @@
+# Melekhet Shelomoh on Mishneh Torah, Rest on a Holiday
+
+מלאכת שלמה על משנה תורה, הלכות שביתת יום טוב
+
+Link: [https://torahapp.org/share/book/Melekhet%20Shelomoh%20on%20Mishneh%20Torah%2C%20Rest%20on%20a%20Holiday](https://torahapp.org/share/book/Melekhet%20Shelomoh%20on%20Mishneh%20Torah%2C%20Rest%20on%20a%20Holiday)
+
+חיבור הלכתי פורץ-דרך וחדשני מבחינת היקפו ואופן סידור הדינים שבו. נכתב על ידי הרמב"ם במאה ה-12.
+
+Legal code written by Maimonides in the 12th century, groundbreaking in its organization and scope.
+
+Sections: Chapter-Halakhah-Comment
+
+Location: Halakhah/Mishneh Torah/Commentary/Melekhet Shelomoh/Sefer Zemanim
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Friedberg Edition (Segments: 1, License: Public Domain)
+
+
+## Chapter 2
+
+
+### Halakhah 10
+
+###### Melekhet Shelomoh on Mishneh Torah, Rest on a Holiday 2:10:1
+
+[https://torahapp.org/share/book/Melekhet%20Shelomoh%20on%20Mishneh%20Torah%2C%20Rest%20on%20a%20Holiday/r/2:10:1](https://torahapp.org/share/book/Melekhet%20Shelomoh%20on%20Mishneh%20Torah%2C%20Rest%20on%20a%20Holiday/r/2:10:1)
+
+
+**גוי שהביא וכו' והבא בשביל ישראל זה [מחוץ לתחום] מותר לישראל אחר.** כתב הרב המגיד ז"ל ופי' הבא בשביל ישראל במחוץ לתחום דכשם שאסור לו כך אסור לכל בני ביתו דאדעתא דכולהו אתי וכן מוכיח שם בעירובין וכו' יעו"ש וכן כתבו התוס' שם בד"ה אדעתא כו' ומרן ב"י ז"ל בסי' תקט"ו. וראיתי להרדב"ז ז"ל החדשות בסי' תקס"ב שנשאל באורחים שהיו מסובין אצל בעה"ב והביא הגוי דבר בשביל בעה"ב אם הוא אסור גם לאורחים והשיב כיון שהם סמוכים עליו באותו שבת או באותו יו"ט כל מה שאסור לבעה"ב אסור לאורחים שהרי הם כבני ביתו לאותו שבת וכשם שאסור לכל בני הבית אע"פ שלא הובא אלא בשביל בעה"ב אסור גם לאורחים וטעמא דמילתא נ"ל שאמרו רז"ל שלא יהנה ממה שנעשה בשבילו בשבת כדי שלא יבא לומר לגוי לעשות נמצא שאם יהנו בני ביתו או אורחיו כאילו נהנה הוא ולכן אסור ומיהו וכו' יעו"ש. ולענ"ד לא זכיתי להבין דבריו שהרי אמרו בגמ' דטעמא דר' שמעון היינו משום דכל דאתי לבי רבן גמליאל אדעתא דכולהו רבנן קאתי והדברים ברורים דסתם דעת המביא הוא שיאכלו כולם ומשו"ה אסור ודלא כמ"ש הרב ז"ל משום שנהנה הבעה"ב והנאה כי האי נמי אסרו עליו הואיל ונעשה האיסור בשבילו ומה לו להרדב"ז ז"ל לבקש טעם שהוא אסור דכיון דבגמ' אמרו רבנן טעמא ונפק"מ טובא כמ"ש הרדב"ז אח"ז וצריך לי ישוב ועיין בכנסת הגדולה ז"ל או"ח סי' תקט"ו בהגהות ב"י שהביא תשובה זו של הרדב"ז בקיצור יעו"ש שם פ"ז הט"ז ואין נושאין נשים כו'. (עיין מ"ש הרב המגיד ועיין מ"ש בס"ד בהל' אישות פ"י הי"ד).
+

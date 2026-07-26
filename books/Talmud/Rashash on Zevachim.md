@@ -1,0 +1,4721 @@
+# Rashash on Zevachim
+
+רש"ש על זבחים
+
+Link: [https://torahapp.org/share/book/Rashash%20on%20Zevachim](https://torahapp.org/share/book/Rashash%20on%20Zevachim)
+
+דיוני חז״ל בנושאי הלכה, מוסר ותנ"ך שהתקיימו במשך דורות. בנויים כהרחבות על המשנה ושזורים בהם סיפורי אגדה.
+
+19th-century annotations based on classes that the author, Rabbi Shmuel Strashun, delivered in a synagogue in Lithuania.
+
+Sections: Daf-Comment
+
+Location: Talmud/Bavli/Acharonim on Talmud/Rashash/Seder Kodashim
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Vilna Edition (Segments: 513, License: Public Domain)
+
+
+## Daf 2a
+
+###### Rashash on Zevachim 2a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/2a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/2a:1)
+
+
+**במשנה הבכור והמעשר כו'.**ק"ל מדוע לא קאמר נמי מעשר ששחטו לשם בכור כשר ואיפכא פסול דהא לקמן פ"י מבואר דבכור קדוש טפי ממעשר שקדושתו מרחם ונאכל לכהנים:
+
+
+###### Rashash on Zevachim 2a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/2a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/2a:2)
+
+
+**גמרא ל"ל למיתני אלא כו' ליתני ולא עלו כו'.**לפי עומק חכמת הלשון נ"ל דלא מצי למיתני ולא עלו כו' חוץ כו' דהיה משמע דהחוץ כו' שב על ולא עלו ולומר דהפסח והחטאת עלו לשם חובה. אבל השתא דתני אלא משמעותו דעיקרו אתי לאשמעינן דכשרים. ומובן שפיר דחוץ בא לאפקועי מכלל כשרות. ועמש"כ רפ"ז דפסחים:
+
+
+###### Rashash on Zevachim 2a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/2a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/2a:3)
+
+
+**ד"ה אלא. וישחטנו לשמו.**כצ"ל:
+
+
+###### Rashash on Zevachim 2a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/2a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/2a:4)
+
+
+**תד"ה לשם גבוה. כגון בגבוה.**נדפס בגליון נ"א בנמוך. ר"ל דבזה לא נצטרך להגהת משמע כו':
+
+
+###### Rashash on Zevachim 2a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/2a:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/2a:5)
+
+
+**בא"ד וי"ל משום דדרשינן טעמא דשמעון כו'.**כצ"ל (צ"ק):
+
+
+###### Rashash on Zevachim 2a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/2a:6](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/2a:6)
+
+
+**בא"ד ועוד יש לדקדק כו'.**מה שנדפס בגליון וצ"ע כו' והוא מח"ג. אינו כלום. דהתוס' דייקי שפיר דא"א דלשם נמוך כשרים א"כ מאי איריא מפני ששחטן לשם גבוה מהן כיון דאפילו לשם נמוך כשרים:
+
+
+
+## Daf 2b
+
+###### Rashash on Zevachim 2b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/2b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/2b:1)
+
+
+**גמרא אלא אם כמה שנדרת עשית כו'.**עי' פרש"י ובפי' הרמב"ם ולשון הרע"ב אם כו' שנשחט לשם נדר. משמע דאם שחטו לשם עולת נדבה או חובה אינו עולה ג"כ לשם נדרו. ואולי מדמה לה לחטאת חלב ששחטה לשם חטאת דם דמסקינן לקמן (ט ב) דפסולה. אבל יותר נראה לדמותו לתודה ששחטה לשם תודה אחרת דכשרה לקמן (ז) ע"ש בפרש"י ד"ה לא דידיה. וכ"מ לקמן בספ"ד במשנה דתנן והחטאת והאשם לשם חטא. דמשמע דשאר קרבנות לא בעינן לשם אותו דבר דוקא. וכ"מ במנחות (ב ב) רש"א כו' שהקומץ מחבת לשם מרחשת מעשיה מוכיחין כו'. ואם איתא משכחת לה בכה"ג וע"ש בכל הסוגיא. ואגב עיוני תמהתי על מה שהשמיט הרמב"ם דין השוחט תודה לשם תודת חבירו דפליגי בה רבה ור"ח לקמן (ז):
+
+
+###### Rashash on Zevachim 2b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/2b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/2b:2)
+
+
+**שם לא הוית גבן באורתא כו'.**ב"ק (כ) וש"נ. ונ"ל דצ"ל בי הרמך בה' עמש"כ בגיטין (ס ב):
+
+
+###### Rashash on Zevachim 2b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/2b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/2b:3)
+
+
+**שם ואי ס"ד סתמא פסול כו' קיימי ב"ד כו'.**התוס' נדחקו לפרש דאף מי שלא היה בלבו היינו שלא הוציא בשפתיו אבל מ"מ בלבו חשב וכלפי לייא. ועוד קשה לישניה דמי שלא היה כשר דמשמע בדיעבד (עי' ריש חולין) הלא תנאי ב"ד הוא דוקא דלא לימא. אשר ע"כ נלע"ד דהאי ואי ס"ד כו' הוא פירוש לדברי ר' יוסי וכוונת ר"י הוא לומר דאף שלא היה בלבו דהיינו שלא חשב ג"כ כשר בדיעבד. וראייתו דהא תנאי ב"ד הוא דלא לימא (ר"ל בהוצאת פה) לשמו דילמא כו' אבל מ"מ בלבו צריך לחשוב לשמו (ובזה אין חשש דלמא יחשוב שלא לשמו דבזה לא יפסול הזבח כמש"כ התוס' בס"פ המפקיד דכל מחשבה הפוסלת בקדשים אינה אלא בדבור דוקא ועי' לקמן ד ב' תד"ה מחשבה וכ"כ רש"י במנחות ב ב) ואי ס"ד דאם לא חשב אף בדיעבד פסול קיימי ב"ד כו' וכפי' התוס' ונכון בעז"ה. ובמש"כ א"ש כפשטיה הא דתנן לקמן ברפ"ח זה יקרב לשם מי שהוא. דנדחקו התוס' לפרש דר"ל סתמא מפני הא דר' יוסי דאמר דתנאי ב"ד הוא דלא לימא לשמו. ולפמש"כ דמודה ר"י דמחשבה בעי לכתחלה לשמו יל"פ דיחשב בלבו לשם מי שהוא. אך עומד לנגדי הא דדייק רבה לקמן בס"פ ב"ש מהא דר' יוסי טעמא שלא היה בלבו כלל הא היה בלבו לשם חולין פסול ולפי מה שפירשתי דהיינו בלבו ממש. הא אינו פוסל אלא בדבור פה וצ"ע:
+
+
+###### Rashash on Zevachim 2b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/2b:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/2b:4)
+
+
+**תד"ה הא לשם.**הנ"א שנדפסה בגליון היא משובשת וכבר העיר בזה הצ"ק:
+
+
+###### Rashash on Zevachim 2b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/2b:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/2b:5)
+
+
+**תד"ה אתנו. פעמים שטועה וסבור שהוא קרבן אחר.**ק"ל דהא פלוגתא דאמוראי היא במנחות (מט) בעקירה בטעות אי הויא עקירה או לא. ותיקשי מדר"י למ"ד דלא הוי עקירה. ואנן קי"ל כוותיה. עי' רמב"ם פט"ו מהל' פהמ"ק ובכ"מ. ועמש"כ בעירובין (לז):
+
+
+
+## Daf 3a
+
+###### Rashash on Zevachim 3a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/3a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/3a:1)
+
+
+**גמרא אלא מהא הכותב טופסי גיטין כו'.**ועי' פרש"י. ק"ל הא אפי' כוון הסופר לשם האיש והאשה כגון שראה תגר ביניהם כפרש"י בגיטין שם. או שזנתה ונאסרה עליו. והקדים הסופר וכתב לשמן אפ"ה פסול משום דלא צוהו הבעל וכדתנן שם (עא ב) אמרו לו נכתוב גט לאשתך כו' אמרו לסופר וכתב (ואם כן כתב ודאי לשמן) כו' הגט בטל עד שיאמר כו'. ושם (בדף עב) תניא כתב סופר לשמה כו' הרי הגט בטל עד כו' שיאמר לסופר כתוב כו'. ועי' ב"מ (כב). ואולי יש לומר דאם תאמר סתמא כשר והיינו משום דסתמא הוי כאומר בפירוש לשמה ה"נ הל"ל דסתמא הוי כמו שאמר לו הבעל בפירוש לכתוב:
+
+
+###### Rashash on Zevachim 3a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/3a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/3a:2)
+
+
+**שם ואפי' כ"ש מציל**(ופירש"י אלמא דלאו מיני' חייץ כו') ושני עשו כו' (ופרש"י וכ"ש אצל כ"ח מיניה הוא כו'). וק"ל דזה היפך ממאי דקי"ל בעלמא מב"מ אינו חוצץ ושאינו מינו חוצץ:
+
+
+###### Rashash on Zevachim 3a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/3a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/3a:3)
+
+
+**תד"ה הכותב. וקשה להר"י כו' הוסיף כו'.**ולעד"נ דלשון יתר משמע דבו נכלל מה שמבואר בהקודם ועוד יותר. כמו אם תאמר דלראובן יש יותר תבואה מלשמעון ע"כ ר"ל דמה שיש לשמעון יש לראובן ועוד יותר. אבל לשון הוספה אינה אלא הוספה על העיקר. והעיקר אולי יש בו יותר על התוספת. כגון אם תתן לאחד מאה כור ותוסיף לו אח"כ עוד א' הא' נקרא הוספה אף דבעיקר יש יותר מאה פעמים ככה. ובמ"ר דברים פ"א אדם לוקח מחברו ליטרא כו' הוסיף לי כמה הוסיף לו אונקיא אבל הקב"ה תוספתו יתירה מן העיקר ונכון בעז"ה:
+
+
+
+## Daf 3b
+
+###### Rashash on Zevachim 3b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/3b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/3b:1)
+
+
+**גמרא ולא יחללו כו' קדשים מחללין כו'.**פרש"י דחוק. ול"נ לפרש דהאי ולא יחללו כו' הוא אזהרה. ומפרש במאי את אשר ירימו. ר"ל במורם לקדשים. והאי את פירושו עם. או דפי' ולא יחללו היינו דאין כאן חילול (והוא ע"ד פרש"י) את אשר ירימו. והיינו חולין דאפשר להרימם ולהקדישם וזהו כעין דרשא דשמואל לקמן (יא ב):
+
+
+
+## Daf 4a
+
+###### Rashash on Zevachim 4a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/4a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/4a:1)
+
+
+**גמרא נאמרה זביחה בשינוי קודש ונ"ז בש"ב מה כו' איכא למיפרך כו'.**ק"ל דכמו דאמרי' לעיל דכיון דאפיק רחמנא קבלה בלשון הולכה לומר דהולכה לא תפקה מכלל קבלה. ה"נ נימא דלהכי אפיק רחמנא שינוי בעלים בלשון ש"ק למימרא דדינייהו שוים ויש לחלק קצת:
+
+
+###### Rashash on Zevachim 4a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/4a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/4a:2)
+
+
+**שם מה לשינוי קדש כו' וישנו בציבור כביחיד.**וכן איתא בפסחים (ר"ד סא. סב ב). ומזה אנכי תמה על מה שפי' הרע"ב וז"ל אבל קרבנות צבור שנשחטו שלא לשמן עלו לצבור לשם חובה שהשחיטה מושכתן כו' והוא מפי' הרמב"ם. אח"ז מצאתי לקצת מפרשים אחרונים שהרגישו בזה. וצ"ל שהם מפרשים דהא דאמר וישנו בצבור כביחיד היינו בשאר עבודות חוץ משחיטה. והם לא אמרו אלא בשחיטה דוקא. או דמפרשי כוונת הגמ' דש"ב לא שייך בק"צ אפי' לכתחלה כיון דאין בעליו מיוחדים. ובש"ק שייך עכ"פ לכתחילה. או דמפרשי דהא דסכין מושכתן למה שהן. היינו משום דלב ב"ד מתנה עליהם עי' לקמן (ו ב) ובפרש"י וכ"כ התוי"ט אבל מדין תורה פסיל להו שלא לשמן אף בשחיטה ועמש"כ בביצה (כ ב). אמנם הרמב"ם בחבורו פט"ו מהל' פסהמ"ק תבריה לגזיזיה ומשוה לגמרי ק"צ לקרבן יחיד אף בשחיטה שלא לשמו:
+
+
+###### Rashash on Zevachim 4a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/4a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/4a:3)
+
+
+**רש"י ד"ה והקריבו זו קבלת הדם. דהא בתר שחיטה כתיב.**עי' לקמן (יג) תד"ה אתה:
+
+
+###### Rashash on Zevachim 4a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/4a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/4a:4)
+
+
+**תד"ה וישנן. הל"ל הכא למ"ד שעבודא לאו דאורייתא כו' תרתי מיהא דוקא.**מה שנדפס בגליון גי' צ"ק חדא. טעותא היא כמבואר:
+
+
+###### Rashash on Zevachim 4a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/4a:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/4a:5)
+
+
+**בא"ד אבל ליכא איסורא בש"ב כיון דליכא בעלים.**כצ"ל:
+
+
+
+## Daf 4b
+
+###### Rashash on Zevachim 4b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/4b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/4b:1)
+
+
+**גמרא מה לאיל נזיר שכן יש עמו דמים אחרים.**כצ"ל:
+
+
+###### Rashash on Zevachim 4b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/4b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/4b:2)
+
+
+**רש"י ד"ה ולרב פנחס. לקמן כו'.**כצ"ל בלא ו':
+
+
+###### Rashash on Zevachim 4b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/4b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/4b:3)
+
+
+**תד"ה מחשבה. מה בין לשמן ושלא לשמן כו'.**כצ"ל:
+
+
+
+## Daf 5a
+
+###### Rashash on Zevachim 5a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/5a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/5a:1)
+
+
+**גמרא יתיב ר"ז כו' אשם דלא אתי לאחר מיתה.**כצ"ל:
+
+
+###### Rashash on Zevachim 5a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/5a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/5a:2)
+
+
+**שם מה לשלמים שכן טעונין נסכים כו'.**לכאורה תמוה דא"כ מ"ק עולה תוכיח הלא עולה ג"כ טעונה נסכים (עי' רמב"ם פ"ב מהל' מעה"ק). וכן קשה דהל"ל מה להצה"ש שטעונין נסכים ואז לא היה יכול לומר תודה תוכיח (וכמו כן קשה לגי' הר"ח בתוס' דגריס ג"כ סמיכה והלא עולה טעונה ג"כ סמיכה) וסבור הייתי לתרץ. דעולת העוף אינה טעונה נסכים (וסמיכה). והא דאמר עולה תוכיח הכוונה על עולת העוף. אבל גם ז"א דא"כ מ"ק בתר הכי מה להצה"ש שבהן שכן ישנן בציבור הלא עוף אינו בציבור (ע"ש פ"א הל' ד' ובפ"ד מהל' שקלים ה"ט) אח"ז מצאתי שעמדו קצת בזה הגרע"א והגריח"ל בהגהותיהם והניחו בצ"ע. ונלע"ד לתרץ. והוא דהרי אשם מצורע טעון נסכים (ע"ש בפ"ב מהל' מעה"ק) ולכן מתחלה קאמר מה לשלמים שכן כל המין טעון נסכים משא"כ באשם דא"ט כל המין נסכים. עולה תוכיח דיש בה ג"כ שא"ט נסכים והוא עולת העוף. ואח"כ אמר מה להצה"ש שישנן בצבור ור"ל דיש מהן עכ"פ שבאין בצבור משא"כ אשם דאין אחד מהן בצבור ונכון בעז"ה:
+
+
+###### Rashash on Zevachim 5a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/5a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/5a:3)
+
+
+**רש"י ד"ה שאין מרצין. שאין כפרה למתים.**לקמן (ט ב):
+
+
+###### Rashash on Zevachim 5a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/5a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/5a:4)
+
+
+**תד"ה הגה"ה. וי"ל דדוקא ש"ק וש"ב מדמי דהוי כבאין לאחר מיתה כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 5a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/5a:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/5a:5)
+
+
+**תד"ה עולתה. שכל חטאות קודמות לעולות אפילו כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 5a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/5a:6](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/5a:6)
+
+
+**תד"ה אשם דלא. תימה כו' נילף כו' בהיקישא בזה"ת.**ואנכי תמה מאי חזית דאקשית לשלמים אקיש לחטאת כדאמר הש"ס לקמן (בע"ב). והשתא עדיין לא אסיק אדעתיה מיעוט דאותה:
+
+
+###### Rashash on Zevachim 5a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/5a:7](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/5a:7)
+
+
+**תד"ה הא. וא"ת כו' ובהיקשא דזה"ת כו'.**עצ"ק שתירץ ע"ז דבהך הקישא דזה"ת לא כתיב פסח כו'. ואשתמיטתיה הגמרא לקמן (ז ב) דגם פסח ילפינן מהך היקשא משום דגם הוא מרומז בקרא דבתריה ע"ש:
+
+
+
+## Daf 5b
+
+###### Rashash on Zevachim 5b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/5b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/5b:1)
+
+
+**רש"י ד"ה ק"ל לר"ל דלא אתי כו' ר' אלעזר.**כצ"ל וכן בתוס':
+
+
+###### Rashash on Zevachim 5b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/5b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/5b:2)
+
+
+**תד"ה חטאת. ול"נ דגרס וחטאת.**כצ"ל (צ"ק):
+
+
+###### Rashash on Zevachim 5b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/5b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/5b:3)
+
+
+**בא"ד שלא תכשירנה מדלא אתיא לאח"מ כו'.**כצ"ל (צ"ק):
+
+
+###### Rashash on Zevachim 5b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/5b:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/5b:4)
+
+
+**תד"ה מיעט**(בסה"ד)**. ויש שום צריכותא.**כצ"ל (צ"ק):
+
+
+
+## Daf 6a
+
+###### Rashash on Zevachim 6a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/6a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/6a:1)
+
+
+**גמרא אמר רבא עשה דסמיכה קאמרת כו'.**ק"ל הא רבא גופיה אמר בשבועות (יג) דמודה רבי בכרת דיומא. ה"נ נימא דעשה דסמיכה דבקרבן גופיה לא מכפר:
+
+
+###### Rashash on Zevachim 6a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/6a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/6a:2)
+
+
+**רש"י ד"ה אם גאל יגאל כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 6a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/6a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/6a:3)
+
+
+**תד"ה אחד. ותימה כו'.**עצ"ק. ואנכי מוסיף ע"ד דבריש ערכין ובמנחות נקט הש"ס דעת ר"מ בלשון רבנן וכן בברייתא שם ושם הגי' יורש סומך יורש ממיר סתם ולא נזכר ר"מ:
+
+
+###### Rashash on Zevachim 6a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/6a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/6a:4)
+
+
+**תד"ה מקופיא. לגבי אחיו כו'.**כצ"ל (צ"ק):
+
+
+###### Rashash on Zevachim 6a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/6a:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/6a:5)
+
+
+**תד"ה א"ד. שעיר שלא קרב ברגל זה כו' אע"פ שמרגל שעבר נתכפרו כו' דקאתי האי שעיר ומכפר כו'.**כצ"ל:
+
+
+
+## Daf 6b
+
+###### Rashash on Zevachim 6b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/6b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/6b:1)
+
+
+**גמרא התם נמי כפר מתן בהונות ל"כ מתנות הראש.**עי' פרש"י ותוס'. ולעד"נ לפרש דאף ר"ע מודה דאם נשפך הדם מתנות הראש אינן מעכבות כדמשמע לישנא דקרא והנותר דהיינו אם יש נותר וכדדייק הש"ס ביומא שם וסוגיא דהתם אתיא ככ"ע. וכי פליגי ר"ע וריב"נ היכא דלא נשפך וישנו בעין דלר"ע עדיין מיקרי מחוסר כפרה ואסור לאכול בקדשים (וכה"ג אמרי' בפסחים (נט ב) דהקטר אימורין מעכבין אכילת בשר בדאיתנייהו. אבל אם נטמאו או שאבדו לא) ולריב"נ כפר מתן בהונות ומותר לאכול בקדשים אלא שעדיין מצוה מוטלת עליו לתת מתנות הראש:
+
+
+###### Rashash on Zevachim 6b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/6b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/6b:2)
+
+
+**תד"ה לא. והדר מסיק מתן בהונות כו'.**כצ"ל:
+
+
+
+## Daf 7a
+
+###### Rashash on Zevachim 7a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/7a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/7a:1)
+
+
+**גמרא דתניא ובשר זבח תודת שלמיו ביום קרבנו וגו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 7a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/7a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/7a:2)
+
+
+**רש"י ד"ה חטאת ששחטה. [וד"ה] כשרה. ועלתה לו.**מה שהקשה הצ"ק על הגהת רש"ק דהא חטאת אינה באה בנדבה. אינו כלום דהא אשם ג"כ אינו בא בנדבה ואפ"ה כשר ולא עלה משום דילפינן מהיקשא דזה"ת כדמסקינן לעיל (ה ב) וה"ה לחטאת בכה"ג:
+
+
+###### Rashash on Zevachim 7a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/7a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/7a:3)
+
+
+**תד"ה סכין. ובברייתא חידש טפי ממתניתין הא דקתני כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 7a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/7a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/7a:4)
+
+
+**תד"ה אמר רבא. אע"ג דרבא לא פי' הפסוקים בדבריו.**כצ"ל:
+
+
+###### Rashash on Zevachim 7a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/7a:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/7a:5)
+
+
+**תד"ה חטאת. וכגון כו' ה"ל כעל**(כצ"ל) כו' דמסתמא כו' א"נ כו'. ביאור דבריהם. דמתחלה פי' מחוייב עולה היינו שיודע שעבר על עשה. ולהכי כשרה דמסתמא כו' ויכפר על הכל. וא"כ ה"ל כאינו מחוייב כלל בודאי. דלא שייך הכא שאין לך כו' דמה בכך כיון דמסתמא יביא ויכופר מכל עשה שעליו. אבל אם כבר הפריש חיישינן דלמא עבר אעשה לאחר הפרשה (שאין לך אדם כו') והוא לא יביא אחרת כיון דלא ידע. וזו שהפרישה לא תכפר את"ל דלא מיכפרא אעשה דלאחר הפרשה. וה"ל כמי שאינו מחוייב כלום דפסולה. (והא דבמחוייב חטאת ל"א דמסתמא יביא אף דמוטל עליו חיוב מה"ת. ובעולה אע"ג דלא הטילה התורה עליו חיוב אמרי' דמסתמא יביא. ע"כ צ"ל משום דעל חיוב חטאת מכפרת מקיבעא חמיר טפי). ושוב כתבו א"נ כו' ור"ל דאפי' לא תרצה לומר סברא דמסתמא יביא כיון דאין עליו חיוב מה"ת. מיירי דאמר הרי עלי עולה דאז ודאי יביא לקיים נדרו:
+
+
+
+## Daf 7b
+
+###### Rashash on Zevachim 7b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/7b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/7b:1)
+
+
+**רש"י ד"ה ואשכחן זביחה.**מה שהוסיפו בד"ח שינוי קדש הוא שבוש עי' תד"ה הוא:
+
+
+
+## Daf 8a
+
+###### Rashash on Zevachim 8a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/8a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/8a:1)
+
+
+**תד"ה וזריקה. תימה כו'.**עצ"ק:
+
+
+###### Rashash on Zevachim 8a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/8a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/8a:2)
+
+
+**תד"ה ועשה. ואית ספרים כו' אר"ה בריה דרב יהושע.**כצ"ל:
+
+
+
+## Daf 8b
+
+###### Rashash on Zevachim 8b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/8b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/8b:1)
+
+
+**תוס' סד"ה הלכך. עיקר פירכא סמיך אותו כו'.**ר"ל על ותו מי גמירי כו'. ובחנם הגיהו:
+
+
+###### Rashash on Zevachim 8b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/8b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/8b:2)
+
+
+**תד"ה הנך. וע"ק חטאות פנימיות לר"ש כו'.**הוא לקמן (מג):
+
+
+###### Rashash on Zevachim 8b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/8b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/8b:3)
+
+
+**בא"ד מה להנך שכן פיגול פוסל בהן תאמר בחה"פ.**ואע"ג דלקמן (יד) אמרינן מודה היה לפסול. היינו בתר דקי"ל פסול שלא לשמן ילפינן פיגול מק"ו כדאיתא שם:
+
+
+###### Rashash on Zevachim 8b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/8b:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/8b:4)
+
+
+**תד"ה ואם. דלא הוה צריך למכתב לזבח שלמים כו' ואם עז כו' מדכתיב לעיל אם מן הבקר מכלל כו'.**כצ"ל:
+
+
+
+## Daf 9a
+
+###### Rashash on Zevachim 9a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/9a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/9a:1)
+
+
+**גמרא ואימא שחטיה לשם תמורה כו' א"נ למיקם עליה בלי"מ ולי"ג.**נ"ל למחוק מן א"נ עד ולי"ג:
+
+
+###### Rashash on Zevachim 9a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/9a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/9a:2)
+
+
+**רש"י ד"ה ה"נ. ומיעוטא דמן לבן ב' שנים ולנקבות אתא.**כצ"ל:
+
+
+###### Rashash on Zevachim 9a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/9a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/9a:3)
+
+
+**תד"ה למאי נ"מ. תימה כו'.**עצ"ק. ול"נ עוד ליישב דהכא קאי למ"ד ישנה לשחיטה מתחלה ועד סוף:
+
+
+###### Rashash on Zevachim 9a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/9a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/9a:4)
+
+
+**תד"ה א"נ. המ"ל נמי דל"ב סמיכה כו'.**תימה מדוע חלקו דבריהם דלעיל בד"ה דלא ה"ל למיכלל גם זו. ומרש"ק נראה שמוחק תיבת ומעשר מדבריהם. אבל מפורש במנחות (צב) במשנה ובברייתא דגם מעשר אינו טעון סמיכה. ואולי משום דלכאורה סמיכה אינה אלא מחיים וא"כ אפי' אם הוא כשלמים לא שייך ביה שוב סמיכה להכי סמכו דבריהם דהכא אחר דבור למאי נ"מ. ולכאורה המ"ל נמי נ"מ בבכור ומעשר שאינן אלא במתנה אחת. ועי' במנחות שם בסוף הדף ובתד"ה שכן:
+
+
+###### Rashash on Zevachim 9a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/9a:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/9a:5)
+
+
+**תד"ה ושלמים. האי שלמי פסח הוי ל"ע שנתו ולא זמנו או עברה זמנו ולא שנתו.**מה שנדפס בגליון גי' רש"ק נראה שהוא שבוש עי' לקמן:
+
+
+
+## Daf 9b
+
+###### Rashash on Zevachim 9b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/9b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/9b:1)
+
+
+**רש"י ד"ה בעיא דרבא. כיון כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 9b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/9b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/9b:2)
+
+
+**תד"ה איתיביה. היינו במידי כו' בחטאת גופיה כו' אבל ש"ק ל"כ בחטאת.**עי' לעיל (ח ב) בתד"ה הלכך כי שם באו דבריהם יותר נכון:
+
+
+###### Rashash on Zevachim 9b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/9b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/9b:3)
+
+
+**תד"ה ושחט. לעיל בפרקין כו'.**ובהרע"ב מביא ע"ז קרא דמחטאתו אשר חטא שתהא לשם אותו החטא. ותימה על התוי"ט שלא העיר עליו בזה:
+
+
+###### Rashash on Zevachim 9b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/9b:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/9b:4)
+
+
+**תד"ה על מי. מיהו גרע כו'.**עיין מש"כ לעיל (ז) בתד"ה חטאת ותעמוד על כוונתם כאן. ודברי הצ"ק מגומגמין בזה:
+
+
+
+## Daf 10a
+
+###### Rashash on Zevachim 10a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/10a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/10a:1)
+
+
+**גמרא**(בפיסקא) רא"א אף האשם. כצ"ל כבמתניתין:
+
+
+
+## Daf 10b
+
+###### Rashash on Zevachim 10b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/10b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/10b:1)
+
+
+**רש"י ד"ה כר' ישמעאל. דהא ד' קרנות כתיבי בה.**כצ"ל:
+
+
+###### Rashash on Zevachim 10b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/10b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/10b:2)
+
+
+**תד"ה מה. וה"נ כו'.**עי' לקמן (ר"ד יג) בגמ':
+
+
+
+## Daf 11a
+
+###### Rashash on Zevachim 11a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/11a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/11a:1)
+
+
+**רש"י ד"ה בא לעובדה. בהולכה והקטרה.**כצ"ל:
+
+
+###### Rashash on Zevachim 11a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/11a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/11a:2)
+
+
+**רש"י ד"ה א"כ. שכל השנה כו' פסח הנשחט לשמן כשר.**כצ"ל. ועי' הגהת הב"ח:
+
+
+
+## Daf 11b
+
+###### Rashash on Zevachim 11b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/11b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/11b:1)
+
+
+**רש"י ד"ה הא כדאיתא. וכשרים נמי כו' גבי קדשים קלים.**כצ"ל:
+
+
+###### Rashash on Zevachim 11b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/11b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/11b:2)
+
+
+**במשנה מפי שבעים ושנים זקן.**עמש"כ בס"ד בסנהדרין (טז ב) בתד"ה אחד:
+
+
+###### Rashash on Zevachim 11b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/11b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/11b:3)
+
+
+**גמרא התם מדכתיב את הכבש אחד כו'.**הגרי"פ הגיה האחד. במחכ"ת הטעהו המציין. אבל באמת כוונת הש"ס לקרא דפ' פנחס (כי שם הציווי לדורות. ובפ' תצוה הוא רק לימי המילואים כדפרש"י שם) ושם נאמר אחד:
+
+
+###### Rashash on Zevachim 11b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/11b:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/11b:4)
+
+
+**רש"י ד"ה ואימא חד בבקר. לא ישהא יותר מחצות.**הוא דלא כהלכתא דקי"ל כר"י דאינו אלא עד ד' שעות:
+
+
+
+## Daf 12b
+
+###### Rashash on Zevachim 12b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/12b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/12b:1)
+
+
+**רש"י ד"ה הורו. דאילו עבר כו' יחיד כו' פטור.**הא דלא פי' כפשוטו דהשתא אידחי ליה האי קרבן ולא מצו להקריבו כיון שהורו ב"ד שהחלב שאכל מותר הוא. משום דדחוי בטעות הוה (עי' תד"ה הכא) ולאחר שחזרו בהן איגלי מילתא למפרע דלאו דחוי הוה:
+
+
+###### Rashash on Zevachim 12b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/12b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/12b:2)
+
+
+**תד"ה וש"מ יש**(בסופו)**. וק"ל ע"ז כו' הלא בידו להשהותו כו'.**ר"ל והוה דומיא דנפגם המזבח והמיר דתו ואשחור מעיו"ט שהביאו לקמן בדבור הסמוך. דלכ"ע דיחוי מעיקרא לא הוה דחוי ועי' לקמן (נט) בתד"ה עד. וז"פ ולא כתבתי רק לאפוקי מהגאון בעל פ"מ שלא הבין כן במחכ"ת ומסיק דאין ספק שאין זה אלא הגהה מאיזה תלמיד ע"ש:
+
+
+###### Rashash on Zevachim 12b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/12b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/12b:3)
+
+
+**תד"ה וש"מ דחוי**(בסופו)**. הא ממום עובר לא ילפי דלא הוי דחוי כו'.**כצ"ל וא"צ להגהת תיבת דלדחי:
+
+
+###### Rashash on Zevachim 12b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/12b:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/12b:4)
+
+
+**תד"ה הכא. ור"ת כו' דגבי הורו ב"ד לא הוה דחוי כו'.**כצ"ל והגהת הצ"ק לל"צ:
+
+
+###### Rashash on Zevachim 12b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/12b:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/12b:5)
+
+
+**תד"ה מה להצה"ש**(בסופו)**. כדמוכח לעיל.**הוא (י ב) וע"ש בתד"ה מה:
+
+
+
+## Daf 13a
+
+###### Rashash on Zevachim 13a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/13a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/13a:1)
+
+
+**גמרא יצאו שפיכת שירים כו'.**לקמן (לט):
+
+
+
+## Daf 13b
+
+###### Rashash on Zevachim 13b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/13b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/13b:1)
+
+
+**גמרא**(בסה"ע) הא ר"ש. עי' פרש"י. וק"ל דהא טעמא דר"ש הוא משום דאפשר לבטלה וטבילת אצבע א"א לבטלה וא"כ אפי' ר"ש יודה בה כהא דאמר רשב"ל לקמן מודה ר"ש בהולכת חטאות הפנימיות כו'. ויש לחלק קצת דכיון דאין סברא שטבילת אצבע תפגל אלא משום דהוה מעין הולכה לא עדיפא מהולכה גופה שבה. אך כיון דהשתא ס"ד דמיירי בחטאות הפנימיות מדפריך מאי איריא כו' ובהם גם הולכה גופה מפגלת:
+
+
+###### Rashash on Zevachim 13b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/13b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/13b:2)
+
+
+**שם מאי איריא כו' האמר כל שאין כו'.**ק"ק הא מסקינן לקמן דמודה ר"ש ליפסול וא"כ י"ל דקמ"ל דבזה גם פסול אין בו עי' תד"ה מודה:
+
+
+###### Rashash on Zevachim 13b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/13b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/13b:3)
+
+
+**רש"י ד"ה מצדה. מה לחוץ למקומו כו'. שהרי פסולו חמור כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 13b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/13b:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/13b:4)
+
+
+**תד"ה דיקא. דאיירי בשלא לשמן.**כצ"ל:
+
+
+
+## Daf 14a
+
+###### Rashash on Zevachim 14a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/14a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/14a:1)
+
+
+**רש"י ד"ה חוץ למקומו מנ"ל. מנ"ל דפסלה בפנימיות.**כצ"ל:
+
+
+###### Rashash on Zevachim 14a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/14a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/14a:2)
+
+
+**רש"י ד"ה ואת"ל. כל רצפת העזרה מבין האולם כו'.**כצ"ל:
+
+
+
+## Daf 14b
+
+###### Rashash on Zevachim 14b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/14b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/14b:1)
+
+
+**תד"ה שיכור. אלא שיכור בשא"ד המשכרים ודלא כר"י דאמר מחלי עבודה.**כ"ז הוא העתקת לשון הגמרא דפ' מומין אלו. ובחנם הגיהו הצ"ק והפ"מ:
+
+
+###### Rashash on Zevachim 14b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/14b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/14b:2)
+
+
+**תד"ה הגהה**(בסופו)**. אבל ק"ל לפירושי דא"כ כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 14b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/14b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/14b:3)
+
+
+**תד"ה והרי**(בסופו)**. דאפי' לרבנן דא"ל במפוחא וזריקה פריך כו'.**כצ"ל:
+
+
+
+## Daf 15a
+
+###### Rashash on Zevachim 15a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/15a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/15a:1)
+
+
+**גמרא נהי נמי דיחזור הכשר כו'.**נ"ל לפרש דהא ודאי אף אם תאמר דהולכה שלא ברגל לש"ה מ"מ אם הוליך הכהן ברגל אף אם מקצת הולכתו היתה בהושטת ידו לא מיפסלא. דאל"כ איך אפשר להשמר שלא יושיט ידו קצת בעת הולכתו. וכ"מ ממתניתין דפסחים שהובאה לעיל נתנה לחבירו כו' אף לפי שנויא דניידי פורתא. ולא פסול אלא אם כהן אחד לא הוליך כלל ברגל רק בהושטת יד לבד. ולפ"ז אף למאי דמשני לעיל אימא יחזור הכשר (ואי גרסינן שם כשר בלא ה' כמו שהעתיק שם רש"י א"ש טפי ודו"ק) מ"מ לא נפשוט מזה דהולכה שלא ברגל שמה הולכה דא"ל דר"ל דאותו הכהן עצמו דוקא חוזר ומקבל. וזה כשר אף אם תאמר דלא הוי הולכה כמש"כ. אך מ"מ נפשוט מזה דאפשר לתקוני דהא כבר עשה קודם הולכה שלא ברגל לבד והניח מידו ואיפסלא לה ואפ"ה מהני מאי דבא אח"כ לעשות ג"כ הולכה ברגל. והפוך ביה כי הוא נכון לע"ד:
+
+
+###### Rashash on Zevachim 15a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/15a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/15a:2)
+
+
+**שם הולכה שלא ברגל מחלוקת ר"ש ורבנן.**ואסיקו עלה בחוכא. ונ"ל לשכך קצת החוכא (כה"ג תמצא במפרשים לרוב) והוא דלר"ש דאמר אפשר שלא בהולכה שוחט בצד המזבח. ואפי' בזה ע"כ הולכה שלא ברגל תהיה שמה הולכה (עי' רש"י דף כו ד"ה אא"ב וז"ל ולריו"ח כו' ליכא למפרך כו' אבל השוחט בצד המזבח כו') ע"כ ס"ל דאין זה הולכה. ורבנן סברי דגם הולכה כזו שמה הולכה וא"כ א"א לבטלה:
+
+
+###### Rashash on Zevachim 15a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/15a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/15a:3)
+
+
+**שם לדברי המכשיר פסול כו' רבא אמר כו'.**כה"ג בעירובין (ח ב) חולין (עה):
+
+
+###### Rashash on Zevachim 15a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/15a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/15a:4)
+
+
+**רש"י ד"ה הא איתעבידא וד"ה אא"ב.**צ"ל הד"א:
+
+
+
+## Daf 15b
+
+###### Rashash on Zevachim 15b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/15b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/15b:1)
+
+
+**גמרא ל"נ אלא כשהכניסו וחזר והוציאו כו'.**המל"מ פי"ג מהל' פהמ"ק ה"ט הגיה בכאן ע"ש וכן הוגה בד"ח עה"ג. אבל מרש"י ד"ה הא צריך נראה שהיה גורס כגי' שלפנינו:
+
+
+###### Rashash on Zevachim 15b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/15b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/15b:2)
+
+
+**רש"י ד"ה אי תניא. ואין מחלוקת בין ר"א לת"ק.**אך הרמב"ם בפי' (והרע"ב אחריו) כ' ואה"ל כר"א מוכח דס"ל דפליגי ולת"ק אף בהולכה לחוץ פסלה מחשבה וכ"פ בחיבורו שם בסה"פ. ונראה לה"ר לפרש"י דסתמא דגמרא לעיל משני לא דקאי זר בראי עפרש"י שם. וע"ש במל"מ. אולם מה דסיים רש"י אלא אר"ש אבוה כו'. תמוה דסתם ר"א הוא בן הורקנוס. וכן אי גרסינן ר' אלעזר בל"י וכן הגיה הגרי"פ (וזה יותר נראה שהוא חבירו של ר"ש הנזכר לפניו אבל ר' אליעזר היה בדור שלפני פניו. ודלא כסה"ד שחשבו בר' אליעזר. ועמש"כ בס"ד בפסחים (עז).) היינו בן שמוע. אח"ז ראיתי בהגהת הב"ח שגורס במשנה ר"א בר"ש וזה היה בבירור גי' רש"י:
+
+
+###### Rashash on Zevachim 15b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/15b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/15b:3)
+
+
+**במשנה ומחוסר כפורים ומחוסר בגדים.**גי' זו נראה ישרה בעיני התוי"ט (ונסתייע מפרש"י) ומסמיך כו' ע"ש. ול"נ עוד דנאות להסמיך מחו"כ לטבו"י דתרוייהו בני בקתא נינהו דלא נגמרו טהרתן. אכן בגמרא מוכח דהגי' הוא בהפך כאשר העיר הגרי"פ. ונ"ל דברש"י צ"ל הבד"א ובא לחלוק לנו בין טבו"י למחו"כ דבטומאות חלוקות הן:
+
+
+###### Rashash on Zevachim 15b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/15b:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/15b:4)
+
+
+**תד"ה זר. הא דלא תנא כו'.**הצ"ק מחק מדבריהם פרועי ראש ע"ש. ואינו מוכרח לפי המבואר בדבריהם בסה"ע ע"ש:
+
+
+###### Rashash on Zevachim 15b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/15b:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/15b:5)
+
+
+**תד"ה אלא**(בסופו)**. ותימה לי דהא איצטריך חילול ל"ר כו'.**ולי תימה על תמיהתם דהא דתני לוי מפיק מדלא כתיב ולא יחלו דהוה נמי ל"ר עמש"כ שם:
+
+
+###### Rashash on Zevachim 15b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/15b:6](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/15b:6)
+
+
+**תד"ה אתיא**(בסופו)**. וגם זר דאינו במיתה בקבלה כו' כש"כ פרועי ראש דבמיתה כו'.**לכאורה משמע מדבריהם דמיתת פרועי ראש היא אפי' בעבודה שאינה תמה. ותימה דלקמן (ר"ד יח) מוכח דמיתת שתויי יין אינה אלא בעבודה תמה. ומיתת פר"ר ל"י אלא משתויי יין ופשיטא דלא עדיפא מינה. ואולי כוונתם דנילף עכ"פ דמחלי עבודה בעבודות שח"ע מיתה מק"ו מזר דמיחל אפי' בעבודה שא"ח עליה מיתה:
+
+
+
+## Daf 16a
+
+###### Rashash on Zevachim 16a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/16a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/16a:1)
+
+
+**תד"ה מיושב. ועי"ל כו' ובד"נ אפי' ת"ח עומד.**ק"ל א"כ יכול לפרוך מה ליושב ת"ח שכן פסול לעדות ד"נ:
+
+
+###### Rashash on Zevachim 16a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/16a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/16a:2)
+
+
+**גמרא ר' אלעזר אמר מהכא הן כו'.**כצ"ל בל"י:
+
+
+
+## Daf 16b
+
+###### Rashash on Zevachim 16b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/16b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/16b:1)
+
+
+**תד"ה אתיא. תימה כו' שלא הותר מכללו.**לחומר התמיה נ"ל דמה שת"ח מעיד מיושב זה נקרא הותר מכללו:
+
+
+###### Rashash on Zevachim 16b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/16b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/16b:2)
+
+
+**תד"ה ומה טומאה. תימה אי אנינות לילה דאורייתא כו'.**תימה לי דאפי' למ"ד דלילה מדרבנן היינו היכא שמת ביום אבל אם מת בלילה נ"פ דלכ"ע הלילה והיום שלאחריה מה"ת. וא"כ תקשה לכ"ע דאונן שמת לו מת בלילה אינו אוכל. וי"ל דבכה"ג אף בטומאה אינו נאכל אם נטמאו הצבור בלילה כדאיתא בפסחים (ס"ד עח):
+
+
+###### Rashash on Zevachim 16b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/16b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/16b:3)
+
+
+**בא"ד תאמר באנינות שלא הותר.**ק"ל מנ"ל דאם היו רוב ציבור אוננים ח"ו שלא תותר להם אכילה מק"ו מטומאה. וי"ל משום דאפי' לכה"ג לא הותרה אכילה באנינות וא"כ ליכא ק"ו על אכילה דנימא דיו:
+
+
+
+## Daf 17a
+
+###### Rashash on Zevachim 17a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/17a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/17a:1)
+
+
+**גמרא סוף סוף קלישא לה טומאתו.**כ"מ שהיה גי' רש"י וקאי אמח"כ. וק"ל א"כ מדידיה לחודיה מצי לילף טבו"י ומאי אהני לן טמא:
+
+
+###### Rashash on Zevachim 17a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/17a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/17a:2)
+
+
+**תד"ה טבו"י. ואע"ג דבפ' הערל**(דף עד ב' כצ"ל) דרשינן טהרה כו'. כצ"ל בל"ו ע"ש בגמרא ותוס':
+
+
+
+## Daf 17b
+
+###### Rashash on Zevachim 17b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/17b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/17b:1)
+
+
+**תד"ה קסבר. ובריש מס' כלים כו' וחייב חטאת.**לפנינו הגי' שם וחייבין. וא"כ אין ראיה דחייבין קאי על טמאים דעלמא (על אותן שהן ראויין להתחייב על ביאת מקדש) וכלפי שאמר בע"נ שאין טבו"י נכנס לשם וא"ח עליה חטאת דר"ל אפילו טמאים גמורים תני הכא דחייבין. ולא קאי על מח"כ כלל. וכ"נ שם מהמפרשים כולם:
+
+
+
+## Daf 18a
+
+###### Rashash on Zevachim 18a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/18a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/18a:1)
+
+
+רש"י ד"ה אי מהתם (הב')**. בעבודה המעכבה כפרה אבל נתינת אש כו' שהרי יש שם אש כו'.**לכאורה ה"ל לפרש כפשוטו משום דאין כפרה אלא בדם והוא עצמו שלא הוקטרו אימוריו כשר עי' לקמן (כד ב) בפירושו ד"ה המעכב כפרה. ואולי משום הקטרת קומץ דמעכבא נקט טעם זה:
+
+
+###### Rashash on Zevachim 18a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/18a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/18a:2)
+
+
+**בא"ד להכי כתב הכא כו' דאף בעבודה שאינה מעכבא כפרה.**כצ"ל:
+
+
+###### Rashash on Zevachim 18a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/18a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/18a:3)
+
+
+**רש"י ד"ה אי מהתם**(הג')**. מוהיתה להם כהונה.**לכאורה ה"ל לפרש מונתנו ב"א הכהן אש:
+
+
+###### Rashash on Zevachim 18a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/18a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/18a:4)
+
+
+**תד"ה הגהה**(בסופו)**. אדוני המלך פר ואיל שקריבין כו'.**כצ"ל. ועמש"כ ביומא (יב ב) בס"ד:
+
+
+
+## Daf 18b
+
+###### Rashash on Zevachim 18b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/18b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/18b:1)
+
+
+**רש"י ד"ה אלא מסולקין. דהא ע"כ לרב כו' מיגז אגיז השתא כו'.**כצ"ל בל"ו:
+
+
+
+## Daf 19a
+
+###### Rashash on Zevachim 19a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/19a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/19a:1)
+
+
+**גמרא בית השחי מהו שיחוץ.**עפרש"י. ונראה דהרמב"ם בחיבורו כללו בהא דנכנס רוח בבגדו שהביא. ורבא מיבעי ליה הא בדרך את"ל. ולא נצטרך למש"כ הכ"מ שלא היה זה בגיר' הרמב"ם:
+
+
+###### Rashash on Zevachim 19a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/19a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/19a:2)
+
+
+**שם יצא שערו בבגדו מהו.**מה שציינו המסה"ש לברכות (כ"ד כצ"ל) ע"ש דהוא לכוונה אחרת:
+
+
+###### Rashash on Zevachim 19a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/19a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/19a:3)
+
+
+**שם מ"ש דיד דכתיב ילבש על בשרו כו'.**עמש"כ בזה ביומא (כג ב) בס"ד:
+
+
+###### Rashash on Zevachim 19a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/19a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/19a:4)
+
+
+**רש"י ד"ה ל"א אמרי לה. וד"ה לימא פליג.**הגי' שלפנינו יפה ומשובחת. ולא נצרך להגהת הצ"ק והנ"א שבגליון:
+
+
+
+## Daf 19b
+
+###### Rashash on Zevachim 19b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/19b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/19b:1)
+
+
+**גמרא א"ה דצפרא נמי.**עמש"כ ביומא (יב) בס"ד:
+
+
+###### Rashash on Zevachim 19b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/19b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/19b:2)
+
+
+**שם שפיר קאמרי ליה.**כצ"ל:
+
+
+
+## Daf 20a
+
+###### Rashash on Zevachim 20a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/20a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/20a:1)
+
+
+**רש"י ד"ה ואמרינן התם מאן שמעת ליה דאמר כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 20a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/20a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/20a:2)
+
+
+**רש"י ד"ה אנן ה"ק. דרבי נמי מכשיר לצפון שבמזרח כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 20a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/20a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/20a:3)
+
+
+**רש"י ד"ה אלא מאי. ומשום כו' ישראל וכהנים לשחיטת חטאת כו'.**כצ"ל:
+
+
+
+## Daf 20b
+
+###### Rashash on Zevachim 20b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/20b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/20b:1)
+
+
+**תד"ה קידש. כדמשמע בההיא דסוכה כו'.**כצ"ל:
+
+
+
+## Daf 21a
+
+###### Rashash on Zevachim 21a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/21a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/21a:1)
+
+
+תד"ה כיור (הא')**. ויש עוד טעם כו' טפי מבכולהו לילה כו'.**כצ"ל:
+
+
+
+## Daf 21b
+
+###### Rashash on Zevachim 21b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/21b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/21b:1)
+
+
+**גמרא בי תרי היכרי הוו עבדי כו'.**כה"ג בסוכה (נה):
+
+
+
+## Daf 22a
+
+###### Rashash on Zevachim 22a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/22a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/22a:1)
+
+
+**גמרא אר"פ אם קדח בו רביעית מטבילין בו כו'.**לע"ד דקאי אהא דקאמר ר"ל כל המשלים למי מקוה כו' לרביעית אינו משלים. וקמ"ל ר"פ אם לאחר שנתבטלו במקוה שלימה קדח כו' מטבילין כו' אף דאם לא היה בתחלה אלא רביעית לא היו מתבטלין בה:
+
+
+###### Rashash on Zevachim 22a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/22a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/22a:2)
+
+
+**תד"ה למעוטי. אלו מעלין ול"פ השלג כו'.**כצ"ל. ומלת מי מיותרת:
+
+
+###### Rashash on Zevachim 22a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/22a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/22a:3)
+
+
+**בא"ד מקוה שיש בו מ' סאה מים וטיט כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 22a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/22a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/22a:4)
+
+
+**בא"ד רי"ה אומר במים ובטיט.**כצ"ל:
+
+
+
+## Daf 23a
+
+###### Rashash on Zevachim 23a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/23a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/23a:1)
+
+
+**רש"י ד"ה וכי לא מקשי. דהא מודו מיהא כו'.**כצ"ל:
+
+
+
+## Daf 23b
+
+###### Rashash on Zevachim 23b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/23b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/23b:1)
+
+
+תד"ה הא (בסופו)**. דלא מיפסל בהו שלא לשמן.**כצ"ל:
+
+
+###### Rashash on Zevachim 23b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/23b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/23b:2)
+
+
+**תד"ה אימא. ובחנם נכתבה דהא ילפינן חוקה לגז"ש כו'.**נ"ל ביאור דבריהם דבלא לימוד לא הוה ס"ד לחייב מיתה ביושב מדקריא זר דה"א דלא אתא אלא לומר דמיחל עבודה. רק כיון דגלי לן קרא במח"ב דמיקרי ג"כ זר וחייב עליו מיתה מפורש הוה ילפינן מיניה לכל מי דמיקרי זר לחיוב מיתה. אבל כיון דכתיב ג"כ מיתה מפורש בלא רחוץ ידו"ר דמיותר דהא הוה ילפינן חוקה ממח"ב ע"כ להורות דלא נילף בעלמא ממח"ב דכל דמיקרי זר חייב מיתה. ומיושב הצ"ע דהצ"ק ועי' לעיל (יח) תד"ה אתיא:
+
+
+###### Rashash on Zevachim 23b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/23b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/23b:3)
+
+
+**בא"ד**(כ"ד ע"א) וקרא דוחגרת כו' בר"פ ובסנהדרין כו'. כצ"ל:
+
+
+
+## Daf 24a
+
+###### Rashash on Zevachim 24a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/24a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/24a:1)
+
+
+**גמרא באצבע ולקח מלמד של"ת קבלה אלא בימין.**ותימה על התוי"ט בשם הרמב"ם שכ' וחכמים למדין יד מאצבע. דהרי מבואר בסוגיין דמאצבע גופיה דכתיב בקבלה (דסברי דבאצבעו אולקח דכתיב לפניו נמי קאי כדאיתא לקמן) ילפי. ועוד דלא מצינו כתוב יד בקבלה. ועוד דיד מיד גופיה דכתיב גבי מצורע עשיר גבי שמן ילפינן כדלקמן ובמנחות (י). ועי' בלשון הרמב"ם עצמו דלא כתב כן:
+
+
+###### Rashash on Zevachim 24a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/24a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/24a:2)
+
+
+**רש"י ד"ה הואיל ורצפה. וד"ה וכלי שרת.**נראה דגירסתו היה מקודשת. מקודשין. אבל גי' התוס' מקדשת. מקדשין וכ"ה גי' הרמב"ם בפי' והרע"ב אחריהם. והתוי"ט ל"ד בהעתיקו פרש"י על פי' הרע"ב. ובדוחק יש לכוון גם פרש"י לפירושם:
+
+
+###### Rashash on Zevachim 24a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/24a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/24a:3)
+
+
+**רש"י ד"ה אלא א"ר. הוא דאיכא למידרש נמי כו'.**כצ"ל:
+
+
+
+## Daf 24b
+
+###### Rashash on Zevachim 24b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/24b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/24b:1)
+
+
+**גמרא ארבב"ח אריו"ח כ"מ שנאמר כו'.**בכה"מ המצויינים במסה"ש איתא בשם ר"ל. וכן בפרש"י כאן ד"ה תרתי בעינן איתא בס"י וקאמר ר"ל. ובד"ח התקינו המגיהים ריו"ח וטעות הוא בידם:
+
+
+###### Rashash on Zevachim 24b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/24b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/24b:2)
+
+
+**שם אמר אביי פליג בברייתא.**כה"ג בריש עירובין:
+
+
+###### Rashash on Zevachim 24b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/24b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/24b:3)
+
+
+**רש"י [ד"ה לקידוש קומץ]**(בסה"ע)**. שיאחז הכלי כו'.**ובמנחות פי' יתנהו בימין בתוך הכלי. ובאמת תרוייהו בעינן בימין כדמוכח שם (ז) א"כ הוצרכת ג' כהנים ע"ש:
+
+
+###### Rashash on Zevachim 24b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/24b:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/24b:4)
+
+
+**תד"ה במקרא. בפ' השואל**(דף צה כצ"ל) כו' למ"ל דההיא ר"ש כו'. עי' דבריהם במנחות (יט) שבאו ביתר ביאור:
+
+
+###### Rashash on Zevachim 24b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/24b:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/24b:5)
+
+
+**תד"ה והרי. ועוד אור"ת כו' דההוא תנא דזאת התורה כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 24b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/24b:6](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/24b:6)
+
+
+**בסה"ד**(בד' הסמוך) ולכך הוצרך לשנויי כדי נסבה לרבנן. כצ"ל:
+
+
+
+## Daf 25b
+
+###### Rashash on Zevachim 25b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/25b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/25b:1)
+
+
+**רש"י ד"ה מים שבתוכה. ופסק לה חיותייהו כו'.**ועי' בר"ש פ"ט דפרה מ"ג שהשיב עליו מכ"מ דמוכח דרשאי לערות מכלי שמלא בו לכלי אחר ולקדש בו. אבל הכא אפשר לומר כיון דהמילוי הראשון אינו כשר לקדש בו שלא נתמלא לשם קידוש הוה כמו המפנה את המעיין לתוך הגת כו' דשם פ"ו. ואף דשם איירי שהפסיקן כדפי' הרע"ב וכדמשמע ברפ"ה דמקואות (והכא משמע שעדיין מזנק והולך) י"ל דכלי גרע טפי וכמו מעיין שהעבירו ע"ג השוקת (שם):
+
+
+###### Rashash on Zevachim 25b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/25b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/25b:2)
+
+
+**רש"י ד"ה נתן ידו. ונתן ידו למעלה בראשו לעשות כו'.**כ"ה לשון הר"ש:
+
+
+
+## Daf 26a
+
+###### Rashash on Zevachim 26a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/26a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/26a:1)
+
+
+**גמרא אלא אימא חתך ואח"כ קבל כשרה כו'.**ק"ל מדוע כשרה הלא קודם שחתך ונפסל השמנונית שברגל. היא נפקא מעט מעט לתוך שאר הגוף (ומאי מהני כשחתך אח"כ הואיל דכבר פרוש ממנו) וכשמקבל יוצאה עם הדם לתוך המזרק [ועמש"כ במעילה (ח ע"ב) בס"ד] :
+
+
+###### Rashash on Zevachim 26a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/26a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/26a:2)
+
+
+**שם ה"נ בבואם כו' עד שיבא כולו לא"מ.**כה"ג דרשינן בכתובות (כה):
+
+
+###### Rashash on Zevachim 26a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/26a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/26a:3)
+
+
+**ד"ה ע"ג הכבש. שיהא יסוד המזבח למטה כו'.**כצ"ל:
+
+
+
+## Daf 26b
+
+###### Rashash on Zevachim 26b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/26b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/26b:1)
+
+
+**רש"י ד"ה לא. דהא בעושה במחשבה קיימינא.**כצ"ל:
+
+
+###### Rashash on Zevachim 26b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/26b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/26b:2)
+
+
+**תד"ה ואי. ומיהו קשה לרבנן דל"ל רואין כו'.**עי' תוי"ט שם מי"א:
+
+
+
+## Daf 27a
+
+###### Rashash on Zevachim 27a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/27a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/27a:1)
+
+
+**גמרא תנן חישב ליתן כו'.**תיבת כו' דאיתא לקמן אחר ואליבא דר"י צריך למחקה משם ולהעמידה כאן אחר תיבת תנן:
+
+
+###### Rashash on Zevachim 27a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/27a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/27a:2)
+
+
+**רש"י ד"ה לא נחלקו. דבעינן למימר.**הס"ד ואח"כ מה"ד
+
+
+
+## Daf 27b
+
+###### Rashash on Zevachim 27b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/27b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/27b:1)
+
+
+**גמרא ל"נ אלא בניתנין כו' בחוץ שנתנן לפנים כו'.**עצ"ק ופ"מ. ובקל י"ל דלא מיירי כאן מחטאת וכחכמים דלקמן (פא ב) במשנה:
+
+
+###### Rashash on Zevachim 27b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/27b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/27b:2)
+
+
+**במשנה או מקצת אימוריו.**ק"ל מדוע לא תני כזית מאימוריו כדתני באכילת בשר או כזית מבשרו. דהא גם בהקטרה בעינן כזית דוקא עי' ס"פ ובפ' דלקמן (לה) במשנה וכדיליף לה בר"פ הקומץ רבה בגמרא. ולקמן (כט ב) במשנה איתא זה"כ כל השוחט כו' דבר שדרכו להקטיר כזית כו'. ובגי' שבמשניות ליתא גם שם תיבת כזית. אולם בגמרא ס"פ מוכח דגרסי' שם כזית ע"ש היטב:
+
+
+###### Rashash on Zevachim 27b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/27b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/27b:3)
+
+
+**שם לזרוק דמו למחר.**כלומר חוץ לזמנו. דאפי' חשב לזרוק בלילה ג"כ פיגול כדאיתא בגמרא לקמן (נו ב) ועי' בפ"ב דמנחות מ"ב בהרע"ב ותוי"ט שם ד"ה לאכול:
+
+
+###### Rashash on Zevachim 27b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/27b:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/27b:4)
+
+
+**שם לאכול בשרו למחר.**עפרש"י. ולעד"נ דמצי איירי אף בשלמים ור"ל דחשיב לאכלו כל יום המחרת דהיינו אף בלילה שאחריו דגם היא נכללת בשם מחר (ובפרט בקדשים שהלילה הולכת אחר היום) וראיה לזה מלקמן (נו ב) יכול יהו נאכלין לאור שלישי כו'. ואע"ג דלא כתיב רק ביום זבחכם יאכל וממחרת וע"ש בפרש"י:
+
+
+
+## Daf 28a
+
+###### Rashash on Zevachim 28a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/28a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/28a:1)
+
+
+**גמרא רה"א עור האליה לאו כאליה דמי.**פרש"י לענין הקטרה (ור"ל בשלמים ודכוותייהו אבל בעולה דכולה כליל אף עור האליה קריבה דדינו כבשר כדלקמן) אבל מ"מ היא חשובה כבשר דראויה לאכילת אדם ולכן תני במתניתין דאם חשב עליו לאכול הוה פיגול. ודברי הצ"ק בזה שגגה גדולה ע"ש:
+
+
+###### Rashash on Zevachim 28a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/28a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/28a:2)
+
+
+**שם עור בית הפרסות המה דקה**ב"ת אלו אשר סבבתים ליתא בחולין:
+
+
+###### Rashash on Zevachim 28a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/28a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/28a:3)
+
+
+**שם כי אתא ריב"א אמר רב כו'.**עי' הגרי"פ. ול"נ פשוט לגרוס רבה. ור"ל דרבה דלעיל סמיך כו'. ויותר ה"נ להגיה שמואל סמיך כו':
+
+
+###### Rashash on Zevachim 28a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/28a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/28a:4)
+
+
+**שם שהרי כבר נאמר כו' מבשר זבח שלמיו כו'.**כצ"ל. וכן בפרש"י:
+
+
+###### Rashash on Zevachim 28a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/28a:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/28a:5)
+
+
+**רש"י ד"ה חוץ למקומו. אם שחט ע"מ להקטיר מאחת כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 28a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/28a:6](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/28a:6)
+
+
+**רש"י ד"ה ממנו. משמע דלא קאי עונה תשא כו'.**כצ"ל:
+
+
+
+## Daf 28b
+
+###### Rashash on Zevachim 28b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/28b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/28b:1)
+
+
+**תד"ה מסתברא. וכן טמא ששמש כו' כדאמר לעיל.**הוא (בדף טז):
+
+
+###### Rashash on Zevachim 28b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/28b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/28b:2)
+
+
+**בא"ד שכן הותר ציץ טהור בקרב.**הגהה שבגליון טעותא היא כמובן וק"ל מדוע לא הקשו כן מהא דאמר בתחלה מסתברא נותר כו' דדמי ליה בז"ב ולא קאמר ג"כ שכן הותר כו'. ואי משום דאלו הוי נמי בחוץ למקומו. א"כ גם מהכא לא מקשו מידי דהוו נמי בנותר:
+
+
+###### Rashash on Zevachim 28b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/28b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/28b:3)
+
+
+**בא"ד ושניהם לא עשה מקריב כקרב.**כ"נ דצ"ל:
+
+
+###### Rashash on Zevachim 28b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/28b:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/28b:4)
+
+
+**בא"ד ופריך אדרבה חוץ למקומו כו'.**עצ"ק ודבריו תמוהים דכל הני דחשיב שם בפ' ב"ש לא שייכי כאן דכולהו איתנייהו בנותר:
+
+
+
+## Daf 29a
+
+###### Rashash on Zevachim 29a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/29a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/29a:1)
+
+
+**רש"י ד"ה דדמי ליה בז"ב. כי פרכינן אדרבה חוץ למקומו כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 29a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/29a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/29a:2)
+
+
+**בא"ד דנימא דנשיאת עון דגבי מחשבות כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 29a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/29a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/29a:3)
+
+
+**תד"ה למקום. ולעיל בפ"ק**(דף יד) גבי הולכת חטאות הפנימיות. כצ"ל:
+
+
+###### Rashash on Zevachim 29a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/29a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/29a:4)
+
+
+**בא"ד דשילהי כה"פ קאמר מחשב לניתנין בחוץ ליתנן בפנים.**כצ"ל:
+
+
+
+## Daf 29b
+
+###### Rashash on Zevachim 29b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/29b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/29b:1)
+
+
+**במשנה חוץ למקומו פסול ואב"כ.**בתוי"ט מביא ע"ז קרא דקדושים ע"ש. ותמיהני דהלא רבא מסיק בסוגיא דלעיל (כח ב) דכולהו מקרא אריכא (דפ' צו) אתיין ועי' לעיל (כג ב) תד"ה עון פיגול:
+
+
+###### Rashash on Zevachim 29b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/29b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/29b:2)
+
+
+**שם ובלבד שיקרב המתיר כמצותו.**בתוי"ט העתיק לשון רש"י דמעילה כדכתיב גבי כשר ירצה לכפר עליו. ולא הרגיש כי מקרא זה איננו. וצריך להגיהו ונרצה לו לכפר הכתוב בריש ויקרא. ומה שהביא הוא קרא דלרצונכם כו' דכתיב גבי קרא דלא ירצה. תמוה דקרא זה דפ' קדושים אוקמיה אחוץ למקומו לעיל בד"ה חוץ למקומו. ואולי לסימנא בעלמא נקטיה. ובפסחים (סא ב) מביא רש"י קרא דמיום השמיני והלאה ירצה:
+
+
+###### Rashash on Zevachim 29b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/29b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/29b:3)
+
+
+**רש"י ד"ה או להקטיר. ובלבד דליחשיב עלייהו להאכילן כו'.**כצ"ל:
+
+
+
+## Daf 30a
+
+###### Rashash on Zevachim 30a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/30a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/30a:1)
+
+
+**גמרא ואם משאמר ה"ז תמורת עולה נמלך ואמר כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 30a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/30a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/30a:2)
+
+
+**רש"י ד"ה ה"ג. משום דאמר תמורת תמורת כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 30a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/30a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/30a:3)
+
+
+**רש"י ד"ה ישנה. דא' רבא עדיין היא מחלוקת ממתניתין בתמורת עולה ושלמים בלחצות כו'.**כצ"ל:
+
+
+
+## Daf 30b
+
+###### Rashash on Zevachim 30b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/30b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/30b:1)
+
+
+**רש"י ד"ה דבעא מיניה. דאההוא גופיה כו' בחוץ ובחדא אכילה.**כצ"ל:
+
+
+###### Rashash on Zevachim 30b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/30b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/30b:2)
+
+
+**רש"י ד"ה אלא כזית כזית. דלא ה"ל כו' ההיא דכזית וכזית כו'.**כצ"ל:
+
+
+
+## Daf 31a
+
+###### Rashash on Zevachim 31a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/31a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/31a:1)
+
+
+**רש"י ד"ה התם איכא שיעורא. וד"ה אבל הכא.**לכאורה זה היפך ממה דקי"ל בעלמא דנראה ונדחה גרעא מדחוי מעיקרא ויש לחלק:
+
+
+###### Rashash on Zevachim 31a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/31a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/31a:2)
+
+
+**רש"י ד"ה לטמא בקל. דאינו נעשה עוד ראשון.**כצ"ל:
+
+
+###### Rashash on Zevachim 31a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/31a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/31a:3)
+
+
+**בא"ד כל אשר בתוכו יטמא.**כצ"ל:
+
+
+###### Rashash on Zevachim 31a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/31a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/31a:4)
+
+
+**תד"ה ואת איזבל. כדכתיב תהיה כל תבואתה לאכול.**כצ"ל. והוא בויקרא (כה):
+
+
+###### Rashash on Zevachim 31a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/31a:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/31a:5)
+
+
+**גמרא בעי רב אשי כו'.**נדפס בגליון צ"ל רב אסי. ונראה טעם הגהה זו משום דאביי דקדים לרב אשי אתי למיפשט בעייתו. ואי משום הא לא איריא. חדא דהיה גם רב אשי קדמון עי' סה"ד. שנית עי' ריש חולין (ע"ב) תד"ה אנא. וה"נ א"ל דגם בימי אביי איבעיא להו הא:
+
+
+
+## Daf 31b
+
+###### Rashash on Zevachim 31b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/31b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/31b:1)
+
+
+**גמרא סד"א כו' אבל הכא דבהאי כי אורחיה כו' קמ"ל.**ק"ל דאכתי מה יענה להא דתנן לקמן בספ"ו גבי חטאת העוף ועולתו כה"ג והתם לאו כי אורחיה. דחטאת כולה לכהנים ואין למזבח אלא דמה. ובעולה אין לכהנים בה כלום אלא כולה למזבח. ואולי התם שיגרא דלישנא דהכא תני. וכה"ג תני התם או שמלק ומיצה הדם חוץ למקומו. וכן בחטאת העוף שם או שמילק ומיצה הדם שלא לשמה עיין שם ובמאי פיגל עיין מעילה (ריש דף ט) ובתד"ה לצדדין ובמש"כ שם בס"ד:
+
+
+###### Rashash on Zevachim 31b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/31b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/31b:2)
+
+
+**במשנה ובטמאים.**בתוי"ט ולא כי"נ דל"ג דהא כו'. אנכי שמעתי בשם גדול אחד ליישב קושיית התוס' על הלכות א"י שכ' דנשים לא ישחטו מדוע לא קאמר הש"ס משום דבעי למיתני נשים. ואמר דפי' כל הפסולים היינו הנך דחשבינהו בפרק דלעיל. והתם הוזכר טמא. אבל לא נשים. וממילא לפ"ז מאן דל"ג כאן ובטמאים לא משתבש. אמנם לשון הגמרא משום דקבעי למיתני טמאים למ"ה:
+
+
+
+## Daf 32a
+
+###### Rashash on Zevachim 32a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/32a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/32a:1)
+
+
+**במשנה נתנו ע"ג הכבש.**בתוי"ט כיון דהבעלים נתכפרו כדתנן ברפ"ב. ל"ד. דבמשנה איתא סתם פסול. אלא דשמואל הוא דאמרה שם בגמרא והביאו הרע"ב שם:
+
+
+###### Rashash on Zevachim 32a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/32a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/32a:2)
+
+
+**רש"י ד"ה אם יש דה"נ. דכתיב המקריב כו' בראוי להקרבה כו'.**(לעיל כח ב. וכט) מפקינן ליה לדרשה אחרינא. ודרשה זו ל"מ כעת:
+
+
+###### Rashash on Zevachim 32a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/32a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/32a:3)
+
+
+**תד"ה ובטמאים. והיו זקוקין להוציאה אף חוץ לחיל והר הבית.**כצ"ל:
+
+
+###### Rashash on Zevachim 32a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/32a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/32a:4)
+
+
+**בא"ד וא"ת וכיון דטבו"י מותר בשאר מקומות.**כצ"ל:
+
+
+
+## Daf 32b
+
+###### Rashash on Zevachim 32b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/32b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/32b:1)
+
+
+**גמרא אר"י קסבר עולא רובן זבים ונעשו ט"מ כו' א"ל אביי מי דמי כו' דלמא ה"ק מר כו'.**לכאורה אכתי קשה מי דמי. התם חזינן דמחו"כ אסור בעזרה רק משום מצות מתן בהונות שרי ליה רחמנא. שפיר אמרינן דגם אם ניתוסף עליו איסורא דטבו"י נמי שרי משום מתן בהונות. דהא לא מצינו דטבו"י לבד יאסר משום מצוה זו אבל זבים דבהדיא אסר רחמנא עלייהו למיעבד פיסחא. וכי משום דאיתוסף עלייהו עוד איסור טומאה יהיו מותרים. וי"ל משום דע"כ מוכח דלא מטע"ז שרי דא"כ אפי' ראה קרי בלילה נמי. אלא ע"כ משום הואיל הוא:
+
+
+###### Rashash on Zevachim 32b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/32b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/32b:2)
+
+
+**רש"י ד"ה שחל שמיני. שער נקנור שלא נתקדש.**כצ"ל:
+
+
+
+## Daf 33a
+
+###### Rashash on Zevachim 33a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/33a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/33a:1)
+
+
+**רש"י ד"ה הכל בכתב. כל פתחי העזרה כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 33a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/33a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/33a:2)
+
+
+**רש"י ד"ה שמא ירבה. לאחר שסמך כו'.**משמע דס"ל דקודם שסמך כיון דאישתרא ליה ליכנס התיר הוא אצלו עד שיסמוך. אבל מש"כ לצד פנים. ל"י מאי דוחקיה דאף דנאמר דזה הוי כמו שנטמא בפנים משום דבהתירא נכנס. מ"מ הא קי"ל בפ"ב דשבועות דיצא בארוכה חייב ע"ש:
+
+
+
+## Daf 33b
+
+###### Rashash on Zevachim 33b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/33b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/33b:1)
+
+
+**תד"ה לענין. והקשה כו' וטמא יהיה לרבות טבו"י.**תמוה דהרי טמא יהיה כתיב גבי כרת וא"כ אפי' כרת נמי ליחייב אלא ע"כ דהתם בביאת כולו. וא"כ גם עשה מנ"ל:
+
+
+
+## Daf 34a
+
+###### Rashash on Zevachim 34a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/34a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/34a:1)
+
+
+**גמרא ורבא אמר מחלוקת כו' כיון דלא קרינן ביה וטומאתו כו'.**ק"ל הא טומאת הגוף גופיה לא ידעינן אלא מדסמיך לכל טהור יאכל בשר. והלא גם טומאת בשר סמיכא ליה יותר מלוטומאתו כו'. א"כ למאי צריך ללמוד למד מלמד ומריחוק מקום טפי ה"ל ללמוד מן כל טהור כו' גופיה ובקירוב מקום:
+
+
+
+## Daf 34b
+
+###### Rashash on Zevachim 34b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/34b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/34b:1)
+
+
+**רש"י ד"ה למעוטי שיריים. שהן נעשין דחויים ע"י כו'.**כ"נ דצ"ל:
+
+
+
+## Daf 35a
+
+###### Rashash on Zevachim 35a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/35a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/35a:1)
+
+
+**במשנה לאכול כח"ז ולהקטיר כח"ז כשר כו'.**ובתוי"ט וצ"ע דהא תנינא לה חדא זימנא בס"פ דלעיל. הנה כבר הקשה רש"י בכיוצא בזה ברפ"ג דמנחות ותירץ דלר"א איצטריך כו' והביאו התוי"ט שם. וה"נ דכוותיה. ואף דמלשון רש"י שם משמע דלא בא לתרוצי רק בבא דלאכול ולהקטיר פחות מכזית. מ"מ בתירוצו מיושבת גם בבא זו וכ"מ שם מציון התוי"ט. אמנם ק"ל דבתירוצו עדיין לא יתיישב לר' ירמיה שם בספ"ק דמוקי מתניתין דהתם כר"א א"כ כבר ידעינן משם דאף ר"א לא גזר בכזה. וכן הכא יקשה לר' ירמיה דמוקי מתניתין דס"פ דלעיל כר"א ע"ש בגמרא:
+
+
+###### Rashash on Zevachim 35a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/35a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/35a:2)
+
+
+**גמרא אר"א פיגל בזבח נתפגל השליל כו' פיגל באימורין נתפגלו פרים.**תמיה אנכי על הרמב"ם שבפי"ח מהל' פהמ"ק הל' כ"ג פסק כוותיה לענין שליל ושליא. ושם בהל' ז' בסופה פסק דבשר חטאות הנשרפות אינן מתפגלין לעולם (הביאו התוי"ט לקמן פ"ד מ"ד ע"ש) ודלא כר"א ולשיטתו יתפרש יפה מתניתין דלקמן (מג) וכל שיש לו מתירין בין לאדם בין למזבח חייבין עליו משום פיגול. וע"כ אין הכוונה שיחשב ע"ד שיש לו מתירין. דהא אם חשב לזרוק הדם או להקטיר הקומץ (שהן עצמן המתירין) ה"ז פיגול. אלא ע"כ הכוונה על המתפגל. והדר מפרש פרים הנשרפין כו' דמן מתיר את אימוריהן ליקרב. ור"ל שיש בהן דברים הניתרין למזבח ולכן ח"ע משום פיגול אבל הבשר שאינו למזבח משמע שאח"ע משום פיגול. (ורש"י נדחק שם לפרש אליבא דר"א). אך לכאורה לפי מה שפירשתי יהיה משמע מלשון המשנה שאמרה העולה כו' ועורה לכהנים. דחייבין על העור ג"כ משום פיגול. והרמב"ם שם לא כתב אלא בשר העולה. ואולי לא כוונה המשנה אלא על עור האליה ועי' לעיל (כח) ובמש"כ שם בס"ד. ובשיטת הרמב"ם הלזו ינצל הרע"ב מגמגום התוי"ט עליו בפ"ב דמעילה מ"ט ולהתוי"ט שם נראה דאישתמיט דברי הרמב"ם הללו. ולדברי ר"א א"ש הא דאמרי' בסנהדרין (מב ב) שכן אדם כו' פיגול (וכן שם נב) היינו דשייך פיגול ממש בבשר הפרים דמיירי בהו קרא דמחוץ למחנה. ודלא כפרש"י ותוס' שם. ודע דהרע"ב שפי' דהטעם דמחשבת שליל ושליא אינה מפגלת הוא משום דלאו גופה דזיבחא הם. העתיקם מפרש"י במשנה. אבל ל"ד במחכ"ת. דלר"א ע"כ הטעם משום שאין דרכם ליאכל הוא וכמו שפרש"י כאן והסכימו גם התוס' ע"י. ומה שלא פי' כן במשנה הוא מפני דהגמרא לפניו ולכן מפרש כפי הס"ד וכמה שכתב התוי"ט בכ"מ:
+
+
+###### Rashash on Zevachim 35a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/35a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/35a:3)
+
+
+**תד"ה פיגל בזבח. ושם דחק בחנם כו' דמוראה אבה"ד ואין בה לא אכילת אדם כו'.**אזלי לשיטתם בדבור הסמוך לקמן דזה מיירי בעולת העוף. אבל רש"י שפי' דאלל היינו גיד הצואר מיירי אפילו בחטאת. ובחטאת נאכלת לכהנים כדאיתא בתו"כ ויקרא רפ"ט והשליך אותה אותה ולא חטאת העוף ופי' הק"א דאם ירצה הכהן יאכלנה. ולקמן (סד ב) במשנה וכולה לכהנים. ובדף (סז) במשנה שכן שינה א"ש לדבר שכולו היתר. לכן הוכרח רש"י לפרש הטעם דל"ח לאכילה. ודברי הרמב"ם בפ"ב מהל' מעילה הל"ו שכתב דאסור ליהנות במוראתה דחטאת העוף אחר הזייה צע"ג. ודברי הכ"מ שהביא מסוף תמורה תמוהים מאד דמאי ראיה מעולה לחטאת:
+
+
+###### Rashash on Zevachim 35a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/35a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/35a:4)
+
+
+**בא"ד אבל ע"כ ר' אלעזר כו'.**כצ"ל בל"י:
+
+
+
+## Daf 35b
+
+###### Rashash on Zevachim 35b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/35b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/35b:1)
+
+
+**תד"ה וש"מ. תימה כו'.**ול"נ משום דסמיך אסיפא הוזה דמם ח"ע משום פיגול וס"ד דאבשר נמי קאי כמו הרישא דקאי עליה כדקאמר מ"ל לינת בשר. עי' בר"פ אלו נערות תד"ה נערה:
+
+
+
+## Daf 36a
+
+###### Rashash on Zevachim 36a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/36a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/36a:1)
+
+
+**גמרא וליפלוג בניתנין בפנים כו'.**עפרש"י ור"ל דממחשב ליתן בחוץ את הניתנין בפנים לא מקשי משום דמתורץ במה שאמר כבר דסבר שלא במקומו כמקומו דמי ועי' תוס' לעיל (כו ב) ד"ה אמר שמואל. ולפלא בעיני דברי התוי"ט שכ' וצ"ע כו' שנשמטו מכ"ת פרש"י והתוס' שהזכרתי:
+
+
+
+## Daf 37a
+
+###### Rashash on Zevachim 37a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/37a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/37a:1)
+
+
+**תד"ה תרי. גבי ה' שנתערבו עורות פסחיהם והא כו' ומשני מנ"מ כו'.**עמש"כ בשלהי פסחים בדבריהם:
+
+
+
+## Daf 37b
+
+###### Rashash on Zevachim 37b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/37b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/37b:1)
+
+
+**גמרא אלא לרי"ש דמוקי לי' כולי' בבכור מעשר ופסח דל"ק תמורתן מנ"ל.**כצ"ל:
+
+
+
+## Daf 38a
+
+###### Rashash on Zevachim 38a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/38a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/38a:1)
+
+
+**גמרא התם חד רא כו'לגופיה.**מפרש"י נראה דל"ג ב"ת אלו שסבבתים ונכון:
+
+
+###### Rashash on Zevachim 38a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/38a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/38a:2)
+
+
+**שם וכפר כו' מפני הדין שיכול והלא דין הוא.**בסנהדרין (ד ב) כ' רש"י דל"ג תיבת שיכול ע"ש:
+
+
+###### Rashash on Zevachim 38a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/38a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/38a:3)
+
+
+**שם א"כ בטלת תורת ארבע קרנות.**מפרש"י משמע דל"ג תיבת ארבע ונכון:
+
+
+###### Rashash on Zevachim 38a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/38a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/38a:4)
+
+
+**רש"י ד"ה נאמרו דמים למטה. ומיהו חטאת כו' דל"ש בה לשון שפיכה שהיא במתנת אצבע.**כ"נ דצ"ל ומה שבינתיים למחוק:
+
+
+
+## Daf 39a
+
+###### Rashash on Zevachim 39a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/39a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/39a:1)
+
+
+**גמרא והתניא יצאו שיריים כו'.**לעיל (יג) ושכחוהו המציינים:
+
+
+###### Rashash on Zevachim 39a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/39a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/39a:2)
+
+
+**רש"י ד"ה ועשה כאשר עשה. כל מתנות דמו שנה כו'.**כצ"ל:
+
+
+
+## Daf 39b
+
+###### Rashash on Zevachim 39b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/39b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/39b:1)
+
+
+**רש"י ד"ה שמכפרים על עבירת מצוה ידועה. כמותו ששניהן כו'.**כצ"ל:
+
+
+
+## Daf 40a
+
+###### Rashash on Zevachim 40a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/40a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/40a:1)
+
+
+**רש"י ד"ה ל"נ אלא לר"ש. דבהאי קרא איתקוש פר כהן משיח כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 40a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/40a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/40a:2)
+
+
+**רש"י ד"ה קרן קרנות. וחוזרים ומלמדים זה מזה בהיקש.**ק"ל מהא שכתבו בעל המאור והט"א בר"ה (לד) (ורמזתי עליהם שם בד"ה ה"ק אי לאו גז"ש) דמהיקשא א"א למיתי את האמור של זה בזה וש"ז בזה ע"ש וי"ל:
+
+
+
+## Daf 40b
+
+###### Rashash on Zevachim 40b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/40b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/40b:1)
+
+
+**גמרא אלא פר הע"ד של ציבור ושעירי עבודת כוכבים כו'.**לכאורה ה"נ איכא למיפרך מה להנך שכן אין דמן נכנס לפני ולפנים. ואולי דלא רצה למיפרך משוויות דשלילה במקום דאית ליה פירכא מחיובא:
+
+
+
+## Daf 41b
+
+###### Rashash on Zevachim 41b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/41b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/41b:1)
+
+
+תד"ה והא (בסופו)**. יש לתמוה כו'.**עי' ביומא (נ) בתד"ה פר ישוב לזה. ועי' במש"כ שם:
+
+
+
+## Daf 42a
+
+###### Rashash on Zevachim 42a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/42a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/42a:1)
+
+
+**גמרא מאן חכמים ר' אלעזר.**כצ"ל בל"י וכן כולם ובפרש"י. ועמש"כ לקמן (קט ב):
+
+
+
+## Daf 42b
+
+###### Rashash on Zevachim 42b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/42b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/42b:1)
+
+
+**גמרא והא בין בין קתני קשיא.**מכאן תמיה אנכי על פי' הר"ש והא"ר בפ"י דאהלות מ"ד על הא דאיתא שם בין מלמעלן בין מלמטן. דהיינו שתיהן יחד. והבאתי דבריהם במו"ק (כ ב) בד"ה ואחותו. וכן מפרש המרדכי בשם ר' יואל הא דאיתא שם בין מאביו בין מאמו ואני הבאתי שם כיוצא בזה מגמרא דקדושין וכן בב"ב (נה ב) הקבוע בין בימה"ח ובין בימה"ג (משם יש לדחות דש"ה דקתני בין. ובגי' המשנה ליתא כלל בין ובין):
+
+
+###### Rashash on Zevachim 42b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/42b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/42b:2)
+
+
+**שם והא כיון דחשיב ביה בפנים פסולה כי הדר כו'.**כצ"ל ומה שבינתים מיותר וכן ליתא במנחות:
+
+
+###### Rashash on Zevachim 42b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/42b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/42b:3)
+
+
+**תד"ה כי. הקשה בקונט' בהקומץ ושוחט ומקבל נמי כו' דכי חשיב בשחיטה או בקבלה כו'.**כצ"ל:
+
+
+
+## Daf 43a
+
+###### Rashash on Zevachim 43a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/43a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/43a:1)
+
+
+**במשנה לוג שמן של מצורע רש"א אח"ע משום פיגול.**התו"ח כתב דלחכמים דלעיל דס"ל דאין פיגול בנסכים כלל מ"מ בלוג שמן של מצורע מודו דנתפגל במחשב בשעת מתן שבע ובמתן בהונות (מש"כ במתן בהונות לא נראה כלל כדמוכח לקמן (מד סע"א) בגמרא ובפרש"י. אבל בשעת מתן שבע לכאורה יש מקום לומר כן וכרב יוסף שם אליבא דרבי). ויש להוסיף עוד דר"ש דס"ל דאין בו פיגול כלל אזיל לשיטתו לקמן דכל שאינו על מזבח החיצון אח"ע משום פיגול. וביותר לפמש"כ התוס' במנחות (עד ב) ד"ה איכא מתנות שהיו על הפרוכת. רק דלפ"ז יקשה על הרמב"ם שפסק כר"ש. אולם אישתמיטתי' דהא דרב יוסף איפרך שם ואסקינן דלכ"ע אין מתנותיו מפגלין:
+
+
+###### Rashash on Zevachim 43a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/43a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/43a:2)
+
+
+**רש"י ד"ה לוג שמן. שיריו נאכלין.**עתוי"ט. ול"נ פשוט דכוונתו משום דאין פיגול נוהג אלא בדבר שיל"מ בין לאדם ובין למזבח. ומה"ט פסק הרמב"ם דפרים ושעירים הנשרפים אין פיגול בבשרם כאשר הבאתי לעיל (לה) ע"ש. ולכן אנכי תמה על הא דאיתא לקמן (מד ב) בברייתא לוג שמן כו' ח"ע משום פיגול מפני שדם (האשם) מתירו לבהונות והכי הל"ל שדם מתירו לשיריו לאכילת כהנים:
+
+
+
+## Daf 43b
+
+###### Rashash on Zevachim 43b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/43b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/43b:1)
+
+
+**גמרא**(בסה"ע) ואי ל"נ כו' דיו לבמה"ד כו'. הנה רש"י ל"ג לה משום דהא קלות נמי במיתה. ולע"ד י"ל דהש"ס פריך לפום מאי דתני בברייתא הייתי אומר על הקלות בלאו. א"כ היאך קס"ד למימר דעל החמורות במיתה הלא יש לנו למימר דיו:
+
+
+###### Rashash on Zevachim 43b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/43b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/43b:2)
+
+
+**רש"י ד"ה אבר דמחבר. איכא למימר כיון כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 43b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/43b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/43b:3)
+
+
+**רש"י ד"ה בבשר שלמים. ואין מפריח טומאתו.**כצ"ל:
+
+
+###### Rashash on Zevachim 43b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/43b:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/43b:4)
+
+
+**תד"ה נאמר. היינו דלהוי שלמים ל"ר.**ולע"ד נ"פ משום דכתיב זבח השלמים ושייך שפיר ל"י על הזבח:
+
+
+
+## Daf 44a
+
+###### Rashash on Zevachim 44a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/44a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/44a:1)
+
+
+**גמרא על הקלות במיתה לכך כו'.**עצ"ק ודבריו תמוהים. דתירוצו דאי לא כתיב מת גבי תרומה ה"א דתרומה במת בכרת. מה"ת דיו לבמה"ד להיות כנידון וקושייתו אינה כלום. דהא לא כתיב מת גבי תרומה בפרט. ואיכא למימר דמשום מעשר נכתב כדמסיק דל"ת חמורות עה"ק נמי במיתה:
+
+
+
+## Daf 44b
+
+###### Rashash on Zevachim 44b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/44b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/44b:1)
+
+
+**גמרא לוג שמן כו' מפני שדם מתירו לבהונות.**עמש"כ בזה לעיל (מג):
+
+
+###### Rashash on Zevachim 44b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/44b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/44b:2)
+
+
+**רש"י ד"ה ס"ד כו'. האי דאצטריך קרא כל לרבויי ול"נ ליה מקרבנם.**כצ"ל:
+
+
+###### Rashash on Zevachim 44b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/44b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/44b:3)
+
+
+**רש"י ד"ה להזות דמה למחר. של פנים.**הס"ד ואחר כך מה"ד
+
+
+
+## Daf 45a
+
+###### Rashash on Zevachim 45a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/45a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/45a:1)
+
+
+**במשנה דברי ר"ש ר"י מחייב.**בתוי"ט ומכאן סתירה כו'. עי' בבה"ז שיישב בטוב דברי הכ"מ:
+
+
+###### Rashash on Zevachim 45a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/45a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/45a:2)
+
+
+**תד"ה דומיא**(בע"ב
+
+
+###### Rashash on Zevachim 45a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/45a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/45a:3)
+
+
+**. פגם ונהנה במעילה וממעטינן במחובר כו'.**כצ"ל:
+
+
+
+## Daf 45b
+
+###### Rashash on Zevachim 45b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/45b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/45b:1)
+
+
+**במשנה אבל העצים כו'.**בתוי"ט בשם פי' הרמב"ם או הקריב עצים כו'. נראה משום דמשמע ליה דבאכילת עצים אפי' לת"ק פטור דלא שייך בהו אכילה כלל וכמש"כ התוי"ט לעיל במ"ג בד"ה והלבונה. אבל קשה דמ"מ ה"ל לפרושי בלבונה וקטורת ג"כ לענין הקרבה נמי. ועוד קשה דבגמרא מוכח דלא מיירי אלא באכילה:
+
+
+###### Rashash on Zevachim 45b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/45b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/45b:2)
+
+
+**ד"ה ה"ג נומא כו'. ול"נ שכך פי' רמב"ק כו'.**אולי הוא ר"ת ולי נאמר:
+
+
+###### Rashash on Zevachim 45b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/45b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/45b:3)
+
+
+**רש"י ד"ה אבל. כדמרבינן להו מוהבשר יתירה כו'.**כצ"ל:
+
+
+
+## Daf 46a
+
+###### Rashash on Zevachim 46a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/46a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/46a:1)
+
+
+**רש"י ד"ה בשני חלולים. מדלא כתיב כו' ולא יחלו.**כצ"ל (רש"ק). וכן היה הגירסא לפני המהרש"א בסנהדרין (נא) וכ"כ המהרש"ל שם (פג) בתד"ה חילול דרבים:
+
+
+###### Rashash on Zevachim 46a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/46a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/46a:2)
+
+
+**רש"י ד"ה והרי תה"ד. ותורם אה"ד מלא המחתה.**עמש"כ בפסחים (כו) ע"ד:
+
+
+###### Rashash on Zevachim 46a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/46a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/46a:3)
+
+
+**תד"ה ה"ג. והכא מ"ל מדתני לוי ולעיל כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 46a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/46a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/46a:4)
+
+
+**תד"ה חד. וי"ל דמוקמינן מיעוטא בנותר כו' אע"ג דאין בהם פיגול יש בהן איסור טומאה דמרבינן כו'.**כצ"ל. וכוונתם נ"פ דיותר מסתברא למימר דמיעוטא קאי אנותר דלא כתיב בהדיא בקרא דאשר הם מקדישים רק מרבויי דלא יחלל:
+
+
+
+## Daf 46b
+
+###### Rashash on Zevachim 46b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/46b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/46b:1)
+
+
+**תד"ה אבל. וא"ת והאמר ריו"ח לעיל כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 46b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/46b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/46b:2)
+
+
+**במשנה אר"י כו' שהוא תנאי ב"ד.**כה"ג אמר ר' יוסי עצמו בסוף טבול יום ובפ"ז דדמאי מ"ג:
+
+
+
+## Daf 47b
+
+###### Rashash on Zevachim 47b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/47b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/47b:1)
+
+
+**גמרא ב' כהנים מקבלין את דמו אחד ביד ואחד בכלי כו'.**במשנה ח' בפי"ד דנגעים איתא אחד בכלי וא' ביד וכ"ה בתו"כ. ובתוספתא שם פ"ט הובאה שם בר"ש ובא"ר איתא להדיא זה שקבל בכלי מקבל תחלה וזה שקבל ביד מקבל אחריו ואם שינה כשר. והרע"ב ל"ד שכ' שלאחר שקבל כהן אחד למקצת דם בידו היה כהן אחר מקבל הדם בכלי. והרמב"ם בפ"ד מהל' מחכ"פ ה"ב לא ביאר ג"כ דלכתחלה צריך לקבל בכלי תחלה. רק בזריקה על המזבח כתב שתהיה תחלה ואח"כ על התנוך ובהונות ע"ש וצ"ע:
+
+
+
+## Daf 48a
+
+###### Rashash on Zevachim 48a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/48a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/48a:1)
+
+
+**גמרא איידי דנכנס דמן לפני ולפנים חביבא ליה.**לכאורה המ"ל דאיידי דאתיין מדרשה רחוקה טפי. דבחיצונות מ"מ כתיבא בהו מפורש במקום אשר תשחט העולה כו' דהכתוב מדבר בנאכלות כדלקמן ר"פ דם חטאת. וכן ושחט את החטאת במקום העולה כתיב מפורש בחטאת חיצונה. אבל פנימית לא ילפינן אלא מיתורא כדלקמן:
+
+
+###### Rashash on Zevachim 48a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/48a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/48a:2)
+
+
+**רש"י ד"ה גמר באיל באיל. כתיב ביה**(ר"ל באשם שפחה חרופה דביה קיימינן) באיל האשם ובאשם מעילות נמי כו'. כנ"ל דצ"ל. ור"ל דלא יליף מזה אלא אשם שפחה חרופה (וכדמשמע פשטי' דגמרא) דכתיב ביה באיל האשם כדכתיב באשם מעילות. משא"כ בא"ת ואשם גזילות דלא כתיב בהו אלא איל לא מצי למילפינהו בזה להכי איצטריך בהו גז"ש דבערכך. והרע"ב שכתב בפ"ו דכריתות מ"ו "ואשם ש"ח הואיל והוא איל כו'" ע"ש דמשמע דמפרש דיליף בבמה מצינו במה שהוא איל כמותם לפיכך אף הוא בכסף שקלים. ל"ד כלל. דא"כ א"ת וא"ג נמי. וגז"ש דבערכך ל"ל. והוא עצמו הביא שם גם הגז"ש דבערכך:
+
+
+
+## Daf 48b
+
+###### Rashash on Zevachim 48b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/48b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/48b:1)
+
+
+**רש"י ד"ה דכתיב בכשבה. תנהו לענין לפנימיות כו' לעיכובא.**הן גם לחיצוניות גופייהו נצרך עיכובא וכדפריך הגמרא שאר חטאות נמי אשכחן למצוה כו':
+
+
+
+## Daf 49a
+
+###### Rashash on Zevachim 49a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/49a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/49a:1)
+
+
+**גמרא לפי שיצא כו' לידון כו' בבוהן כו' ואוזן כו'.**בקרא כתיב אוזן ברישא והדר בוהן. וכה"ג דקדקו התוס' במנחות (ט ב):
+
+
+
+## Daf 49b
+
+###### Rashash on Zevachim 49b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/49b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/49b:1)
+
+
+**רש"י ד"ה והתם. ואילו קרחת וגבחת כתיב גבי נתקין כו' וזה בשער צהוב.**תמוה שמערבב קרוג"ב בנתקים. והמה שנים ענינים נפרדים דקרו"ג מיטמאין בד' מראות כדכתיב כמראה צרעת עור בשר. ושער לבן או צהוב אינן סימן טומאה בהם (עי' בספ"י דנגעים ובמפרשים). ונתקים מטמאין בכל המראות. ושער צהוב בהם סימן טומאה (ע"ש ברה"פ). ועוד פרוח בנתקים דטהור ילפינן בת"כ מן ואיש כי ימרט ראשו כו' טהור הוא הביאוהו המפרשים במ"ט שם. והכא יליף מן מראשו ועד רגליו. וכן תימה על הרמב"ם שבנגעי בגדים בפי"ב מהל' ט"צ הל"ח פסק דפרח בכולו טהור כר"נ שלפנינו וגבי קרו"ג שם פ"ה לא הביא ד"ז דפרח בכולו טהור. אם לא שגם הוא הולך בשיטת רש"י וגבי נתקים הביא ד"ז דפרח בכולו בספ"ח שם. ועי' במל"מ שם בפי"ב. ובדבריו ובשיטת הרמב"ם והרמב"ן שהביא התוי"ט בספ"י י"ל פרש"י והרמב"ם. אבל העיקר נראה דהכא הכוונה על בהרת שנעשה בקרו"ג ואינו ענין להא דפריחה בנתקים שהביא המל"מ שם:
+
+
+
+## Daf 50a
+
+###### Rashash on Zevachim 50a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/50a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/50a:1)
+
+
+**רש"י ד"ה שם שם. ובמעשר כתיב ואכלת כו'.**עמש"כ ע"ד במגילה (ח):
+
+
+###### Rashash on Zevachim 50a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/50a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/50a:2)
+
+
+**תד"ה אמר. ור"ת גורס אמי אמרה ואמי שם חכם וביבמות כו'.**ואנכי תמה דמה לו לשבש הספרים הלא אשכחנא ג"כ אמר שם אדם (ירמיה כ'. עזרא ב' י'. נחמיה יא). ובכ"ד משמרות כהונה בד"ה א' כ"ד נמנה הי"ו אמר. ובגמרא ערכין (יב ב) נזכר ג"כ. ומדברי התוס' הללו שחתרו למצוא אמי שם חכם ושבשו הספרים ולא רצו לפרש אמר שם חכם יען לא מצאו שם זה בש"ס נדחה מה ששמעתי בשם חכם אחד לפרש בנדרים (י ב) מהו אמר שמואל כו' דמהו שם חכם. אולם בנדה (נט ב) כתבו דקלא שם חכם אף שלא נמצא במקום אחר שם זה. ובההיא דנדרים נ"ל דמהו הוא כמו מאן דהוא בחולין (נ) ביצה (כז) ע"ש פרש"י ולישנא דנדרים משונה כמש"כ המפרשים:
+
+
+###### Rashash on Zevachim 50a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/50a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/50a:3)
+
+
+**גמרא ונאמר להלן ראשו וכרעיו כו'.**עמש"כ בזה ביומא (סח):
+
+
+###### Rashash on Zevachim 50a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/50a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/50a:4)
+
+
+**תד"ה מה להלן. וא"ת כו' כיון דהוה הימנו וד"א כו' אין זה היקש אלא גילוי כו'.**לכאורה י"ל דלעולם זהו היקש גמור וקי"ל דדבר הלמד בהיקש א"ח ומלמד בגז"ש. ולכן דייק שפיר מזה דדבר הלמד בגז"ש חוזר ומלמד בגז"ש ואגבו נלמד ג"כ עמו את הבא בהיקש עמש"כ התוס' בס"פ בד"ה היינו:
+
+
+
+## Daf 50b
+
+###### Rashash on Zevachim 50b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/50b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/50b:1)
+
+
+**רש"י ד"ה מלמד בק"ו. ומה היקש שאינו מלמד בהיקש כו' גז"ש המלמדת בג"ש כו'.**כצ"ל:
+
+
+
+## Daf 51a
+
+###### Rashash on Zevachim 51a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/51a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/51a:1)
+
+
+**רש"י ד"ה שקבלו פסולין. או זרקו כו'.**כ"נ דצ"ל עיין לקמן פז ע"ב:
+
+
+
+## Daf 52a
+
+###### Rashash on Zevachim 52a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/52a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/52a:1)
+
+
+**גמרא ק"ו לפר כה"מ משעיר נשיא כו' יכול יעכבנו.**עפרש"י. וקשה דהא נצרך לאתויי יסוד מערבי כדלעיל (נא):
+
+
+###### Rashash on Zevachim 52a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/52a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/52a:2)
+
+
+**רש"י**(ברה"ע)**. או אינו כו'.**ג"ת הללו שייכים לדבור דלעיל המתחיל ה"ג והנקודות דלפניהם למוחקם:
+
+
+
+## Daf 52b
+
+###### Rashash on Zevachim 52b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/52b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/52b:1)
+
+
+**גמרא לא אם אמרת בתחתונים שנתנו למעלה כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 52b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/52b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/52b:2)
+
+
+**תד"ה תאמר. מעולת העוף שסופו למטה.**עי' לקמן (נד) ברש"י ד"ה וממצה מדמה ובתד"ה ואי ותבין:
+
+
+
+## Daf 53a
+
+###### Rashash on Zevachim 53a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/53a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/53a:1)
+
+
+**גמרא אף ירידתו מן הכבש בסמוך לו.**נסתפקתי (לפי הצד שכתבתי במדרש איכה בפתיחה דוזכור את בוראך. דכשיורד מן המזבח צריך לילך דרך אחוריו ופניו למזבח ע"ש) אם צריך להקיף לימין דהיינו מן הדרום למזרח ולצפון ולמערב עד הקרן. או פונה לשמאל שהוא סמוך לקרן. וראיתי לרש"י לקמן (סג ב) במתניתין בסופה שכתב ולג"ד הנעשים בה למטן אינו עולה ואינו מקיף אלא עומד על הרצפה בקרקע. לא הבינותיו דאם כוונתו דכיון דאינו עולה רק שעובדם בעומדו על הקרקע אינו בדין דהקפת ימין. ז"א כדמוכח ביומא (טו ב) גבי זריקת דם התמיד ע"ש ובפירושו. ושם (עח ב) ובש"מ טובא. ואם ר"ל דא"צ ליקרב לשם אלא עומד באשר הוא עומד ועושה עבודתם. גם ז"א דהלא הגשה צריך ליגע הכלי בקרן. וחטאת העוף ג"כ ילפינן מינה. ובשפיכה נמי צריך לילך עד היסוד דשפיכה היא בקרוב כדפירש' לעיל (לז). ולענין ספיקתנו תמצא מבואר ברש"י לקמן (סב ב) ד"ה שני כבשים. וע"ש דמוכח מדבריו ג"כ דיורד מן הכבש דרך אחוריו ופניו המזבחה:
+
+
+###### Rashash on Zevachim 53a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/53a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/53a:2)
+
+
+**רש"י ד"ה וחומר. מושך כו'.**נראה כוונתו לפרש וחומר דהוא מלשון מרוח בהיפך אתוון ור"ל שהוא ממרח את הדם שלא ישאר ממנו מודבק באצבעו. ונראה דלא היה בגירסתו תיבות מלמעלה מלמטה שלפנינו בגמרא וכמו שהעתיק. ולהרמב"ם בחבורו פי' אחר בזה ע"ש ולפירושו א"ש תיבות מלמעלה מלמטה והכוונה שסומך את הדם בראשו מלמעלה שלא יפול לארץ ומלמטה לצד הגוף שלא יתפשט להלאה:
+
+
+
+## Daf 53b
+
+###### Rashash on Zevachim 53b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/53b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/53b:1)
+
+
+**תד"ה העולה. ולא נהירא דכולה כו' דמצוה במתן שיריים.**עי' לעיל (נא) ברש"י ד"ה אל יסוד הג' שכתב אם נשאר כו' וכ"כ (בר"ד לז) משמע דדעתו ג"כ כהר"מ:
+
+
+###### Rashash on Zevachim 53b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/53b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/53b:2)
+
+
+**תד"ה ק"ק. אבל יוצא כו' ניחא כו'.**והתוי"ט כ"ע ואני אומר אף יוצא כו'. ואני אומר דפשוט דכוונתם על יוצא דחוץ לקלעים ועי' לקמן (ס"ד פט) בגמרא:
+
+
+
+## Daf 54a
+
+###### Rashash on Zevachim 54a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/54a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/54a:1)
+
+
+**גמרא ת"ש נמצא פורח כו'.**תימה דזה הלשון לא נמצא במשנה ולא בתוספתא רק סתמא דגמרא מתרצה לה לקמן כן. ושם אזלא אליבא דלוי ע"ש בתוס' ובמש"כ שם. וא"כ מאי מקשה מזה על רב:
+
+
+###### Rashash on Zevachim 54a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/54a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/54a:2)
+
+
+**תד"ה רב. וק"ק לישנא דמתניתא לרב דתניא כו'.**כצ"ל:
+
+
+
+## Daf 54b
+
+###### Rashash on Zevachim 54b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/54b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/54b:1)
+
+
+**רש"י ד"ה ועלית. קרי עלייה משם כו'.**כצ"ל:
+
+
+
+## Daf 55a
+
+###### Rashash on Zevachim 55a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/55a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/55a:1)
+
+
+**רש"י ד"ה קק"ד. נפסלים בטבו"י וביוצא.**עי' לעיל (נג ב) בתד"ה קק"ד ובמש"כ שם:
+
+
+###### Rashash on Zevachim 55a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/55a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/55a:2)
+
+
+**במשנה שחיטתן בכ"מ בעזרה.**בתוי"ט כ' ויל"ד אמאי שינה כו'. לי יש דקדוק יותר בהא דלקמן רפ"ו (סג) דתני נקמצות בכ"מ בעזרה ונאכלין לפנים מן הקלעים. אבל נ"ל משום דלאכילה לא בעינן לפני אה"מ וכשר אפי' צידי צדדין כדמסקינן לקמן (נו) להכי תני לפנים מן הקלעים לכלול גם אותם. משא"כ בשחיטה שפסול צ"צ כמבואר שם ופרש"י כגון לשכות להכי נקיט עזרה דמשמעה מקום הגלוי ולמעוטי הלשכות. אך ק"ק דהא אפי' לשכות הבנויות בחול דהמה חוץ לקלעים רק דפתוחות לקדש אוכלין שם קק"ד כדאיתא שם. וי"ל כיון דפתוחות לפנים ואין יכולין להכנס בתוכן אלא דרך פנים שפיר גם הם נכללין בשם לפנים מן הקלעים. ודע דבתוי"ט ד"ה בכל העיר בסופו שכ' וה"נ קשה דה"ל למינקט חוץ ממחנה ישראל. ט"ס וצ"ל בכל מחנה ישראל כלשון המשנה בפרק בתרא:
+
+
+###### Rashash on Zevachim 55a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/55a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/55a:3)
+
+
+**ד"ה ליום ולילה. ותניא תודת שלמיו כו'.**הוא לעיל (לו):
+
+
+###### Rashash on Zevachim 55a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/55a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/55a:4)
+
+
+**רש"י ד"ה (המורם) [כיוצא בהן] . ונאכלין בכל העיר.**השמיט בכל מאכל:
+
+
+###### Rashash on Zevachim 55a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/55a:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/55a:5)
+
+
+**רש"י ד"ה (טהור) [ואיזה זה] . במדבר כל דגל בתוך אסיפת דגלו.**הוא חדוש גדול ול"י מאין לקח זה דלכאורה כל דגליהם ביחד משמע שהוא מחנה ישראל:
+
+
+###### Rashash on Zevachim 55a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/55a:6](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/55a:6)
+
+
+**גמרא רא"א כו' שיכול והלא דין הוא ומה קק"ל שהוכשרו בכל הרוחות כו'.**רבים מתקשים בפתרון ק"ו זה. ונ"ל דהכוונה היא כך. מה קדק"ל שיש להם מקום מורווח לשחיטתם לא הוכשר מקומם לקק"ד בכדי שלא ידחקו עליהם את מקומם. קק"ד שאין להם אלא מקום קטן א"ד שלא יוכשר אותו מקום לקק"ל בכדי שלא ידחקו עליהם את מקומם. וסברא זו תמצא בגמרא בר"פ דלקמן:
+
+
+
+## Daf 55b
+
+###### Rashash on Zevachim 55b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/55b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/55b:1)
+
+
+**גמרא לול קטן היה אחורי בהכ"פ כדי להכשיר כו'.**כ"נ דצ"ל ותיבות גבוה שמונה אמות יש למחוק וכ"נ להדיא מתד"ה שנים. והטעות נפל מהא דלעיל גבי פשפשין:
+
+
+###### Rashash on Zevachim 55b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/55b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/55b:2)
+
+
+**רש"י ד"ה וחד להכשיר צפון. דמאי קדושתיה דצפון מדרום כו'.**לפ"ז ק"ל קצת לישנא דקרא בויקרא (יד יג) במקום אשר ישחט אה"ח כו' במקום הקדש. דהרי הכוונה היא דישחט בצפון דוקא (עי' לעיל מט) וא"כ מאי זה שמסמנו במלות במקום הקדש הלא כל הרוחות קדושתן שוות. ולפרש"י בחומש שם והוא מתו"כ שבא לשלול מקום עמידתו שהוא שער נקנור שלא נתקדש בקדושת עזרה א"ש:
+
+
+###### Rashash on Zevachim 55b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/55b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/55b:3)
+
+
+**רש"י ד"ה לאכילת קק"ד. קס"ד כו' בעי' פתח.**כצ"ל:
+
+
+
+## Daf 56a
+
+###### Rashash on Zevachim 56a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/56a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/56a:1)
+
+
+**גמרא תני תנא קמי' דר"נ כל העזרה כו'.**תימה דזו משנה מפורשת רפ"ה דמדות בלשון זה ממש:
+
+
+###### Rashash on Zevachim 56a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/56a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/56a:2)
+
+
+**שם מנין לדם שנפסל בשקה"ח כו'.**עי' בתוס' ובש"א סי' י"ז. ולע"ד נל"פ דנ"מ לענין מחשבת פיגול דאם חשב לזרוק הדם בלילה הוה כמחשב למחר כדאיתא לקמן (בע"ב) דאי מביום צוותו ה"א דהוה כמו שחשב שיקריבוהו פסולים דכשר כדלעיל ספ"ג:
+
+
+###### Rashash on Zevachim 56a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/56a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/56a:3)
+
+
+**תד"ה מנין. ואי לר' יהושע האמר כו' אלא בהקטרה וא"כ קרא דהכא ל"ל.**עמש"כ בס"ד בב"ק (עו ב):
+
+
+
+## Daf 56b
+
+###### Rashash on Zevachim 56b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/56b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/56b:1)
+
+
+**במשנה שינה באכילתן כו' ונאכלין בכל העיר כו'.**יל"ד שהרי הפסח נאכל ג"כ בכל העיר. ואולי רמז התנא בזה דהפסח אינו נאכל בשתי מקומות עי' פסחים ס"פ כ"צ. והא דלא חשיב לה הכא בפסח כמו שחשב שאר הדברים שחלוק מהם דלא חש להאריך כיון שכבר באר זה במקומו במס' המיוחדת לו ודי לו כאן ברמז מעט ונכון בס"ד:
+
+
+
+## Daf 57a
+
+###### Rashash on Zevachim 57a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/57a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/57a:1)
+
+
+**גמרא הוסיף לך הכתוב הויה אחרת.**ופרש"י כמו זו הבאה לו בהיקש. וקשה א"כ היה לנו להוסיף יום ולילה ויהיה נאכל לב' ימים וב' לילות ועי' בכורות ר"פ עד כמה בגמרא:
+
+
+###### Rashash on Zevachim 57a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/57a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/57a:2)
+
+
+**רש"י ד"ה לחו"ש של שלמים. ולקמיה פריך ודלמא לשל תודה אקשינן.**[כצ"ל] :
+
+
+
+## Daf 58a
+
+###### Rashash on Zevachim 58a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/58a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/58a:1)
+
+
+**תד"ה קדשי. ושמא הא דנקט דיעבד כו'.**לי משנה ערוכה (לקמן פד) עולה שעלתה חיה לראש המזבח תרד. ומוקמינן לה שם בגמרא (פה) בכשרה:
+
+
+###### Rashash on Zevachim 58a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/58a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/58a:2)
+
+
+**גמרא השתא כולו לעולה כשר כולו לשלמים מיבעיא ואידך איצטריך כו'.**נראה דפליגי כעין פלוגתת ר"א ות"ק לעיל (נה) לענין צפון בשחיטת קק"ל. ור' יוסי כר"א וריב"י כת"ק ולפ"ז לא א"ש מה שפרש"י בר' יוסי שהשלמים כשרים אף בצפון מק"ו:
+
+
+###### Rashash on Zevachim 58a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/58a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/58a:3)
+
+
+**רש"י ד"ה מאי כנגדן. ואפי' סמוך לכותל העזרה צפוני כו' מכנגד זויות כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 58a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/58a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/58a:4)
+
+
+**רש"י ד"ה באומד ה' סאין. כך שיעורו כו' שהוא חלק.**ר"ל שאילו היו הגחלים מונחים צבורים בגומא היה בנקל לחתות מחתה של סאה אף בפחות מה' סאין. והגהת הצ"ק לל"צ:
+
+
+
+## Daf 58b
+
+###### Rashash on Zevachim 58b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/58b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/58b:1)
+
+
+**רש"י ד"ה א"ר אדא. וי"א אמות מזוית פתח היכל כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 58b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/58b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/58b:2)
+
+
+**תד"ה הא. ובתוספתא כו' נכנסים כו' שלא רחוץ ידו"ר דר"מ וחכמים כו'.**כצ"ל. מה שהקשה בגה"ש תמוה. דאדרבה כיון דא"ל לר' יוסי כולי' מזבח בצפון לא היה יכול להיות הכיור נגד המזבח:
+
+
+
+## Daf 59a
+
+###### Rashash on Zevachim 59a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/59a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/59a:1)
+
+
+**גמרא א"ק צפונה שיהא צפון פנוי מכלים.**ק"ל א"כ דס"ל כוליה מזבח בצפון קאי וס"ל ג"כ דרשה דצפונה. ע"כ א"א שיהא הכיור נגד המזבח ול"ל טעמא מקרא דואת המזבח שם פתח כו' מזבח בפתח א"מ כו' וצ"ע:
+
+
+###### Rashash on Zevachim 59a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/59a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/59a:2)
+
+
+**רש"י**(ברה"ע)**. מזבח העולה שם פתח משכן א"מ כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 59a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/59a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/59a:3)
+
+
+**רש"י ד"ה ונוקמיה בין המזבח ולהיכל בצפון. בסתימת כותל ההיכל ממזוזת כו'.**כצ"ל:
+
+
+
+## Daf 59b
+
+###### Rashash on Zevachim 59b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/59b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/59b:1)
+
+
+**רש"י ד"ה כי גמיר ג"ש. דרבוע כו'.**כצ"ל בלי י' וכן כולם:
+
+
+
+## Daf 60a
+
+###### Rashash on Zevachim 60a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/60a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/60a:1)
+
+
+**גמרא קק"ד מנלן ת"ל קדש קדשים.**נ"ל לפרש משום שנותן טעם כי קק"ד היא מוכח דזוהי הסבה הגורמת. א"כ כל קק"ד נמי. ובזה מתורץ תמיהת התוס' משום דדרשה דגופי' דקרא עדיפא ליה. ותמיהתם איננה רק לפי מה שפירשו דיליף מג"ש וכפרש"י:
+
+
+
+## Daf 61b
+
+###### Rashash on Zevachim 61b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/61b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/61b:1)
+
+
+**גמרא מעיקרא סבור כו' אטום כאדמה.**כצ"ל בכף וכן העתיק הרע"ב בפ"ג דמדות מ"א:
+
+
+
+## Daf 62a
+
+###### Rashash on Zevachim 62a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/62a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/62a:1)
+
+
+**גמרא ת"ר איזהו כרכוב כו' תרי הוי כו'.**עמש"כ בזה דבר נכון בס"ד בחדושי לס' נת"ע (בדף קג):
+
+
+###### Rashash on Zevachim 62a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/62a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/62a:2)
+
+
+**רש"י ד"ה והכתיב. ומגיע למעלה עד מתחת לכרכוב.**ראיתי להעתיק פה מאשר כתבתי בחדושי על פירוש רש"י בחומש בכדי שיתבאר לך מעשה הכרכוב והרשת אשר רבים נבוכו בו. וז"ל שם בפ' תרומה (כ"ז ה) בפרש"י והיה רחבו (של הכרכוב) אמה כו' נמצא שהמכבר רחב אמה. ונראה פירושו דכיון שהגיע (ר"ל הרשת) עד חצי המזבח והיינו מלמעלה למטה. ע"כ לא היה רחבו יותר מאמה. חשוב ג' אמות משפת כרכוב ולמעלה כמו שפי' ברה"פ אליבא דר' יוסי (וע"כ ר"ל עם גובה הקרנות ולא הוי דומה למזבח עולמים שהיה ג"א לבד הקרנות. או דר"ל ג"א משפתו התחתון. אבל בפי' לזבחים (ס) ד"ה משפת סובב. נראה שסובר דהיה ג"א לבד הקרנות כבב"ע וכרכוב היה כל שהוא וכ"נ בפי' שם (סב) ד"ה חד לנוי). ואמה רוחב הכרכוב (באמת זה ל"י מנין לו אולי מצא כן בברייתא דמלאכת המשכן) ואמה רוחב הרשת ס"ה ה"א חצי גובה המזבח. וה"א התחתונות לא היה מוקף כלל. וכ"נ בפי' שם (סב) בד"ה חד לנוי. ורחבו מגיע למטה עד חציו. וע"כ צ"ל כן דהרי הטבעות היו קבועות ברשת. ובשבת (צב) קאמר עליו וגמירי דכל טונא דמידלי במוטות תילתא מלעיל ותרי תילתא מלתחת (ונראה משם דלא חשיב גובה הקרנות הואיל דלא היה אלא אמה על אמה ומפרש"י שם א"נ כן. וצ"ל לפירושו דשם דג"א דמשפת סובב היינו עם הקרנות והכרכוב היה רחב כ"ש ומתחתיו היה הרשת רוחב ב"א ודו"ק) כתבתי כ"ז לאפוקי מביאור נתה"ש דנראה מדבריו דהמכבר היה קבוע מקרקעית המזבח ולמעלה עד חציו (וכמ"ק מפרש"י לעיל (נג) ד"ה הרשת) וכ"נ מהצ"ק מהגהתו בפרש"י כאן למטה במקום למעלה ע"ש. ואישתמיטתייהו הגמרא דשבת שהבאתי דלדבריהם היה ע"כ חציו מלעיל וחציו מלתחת. אם לא שיאמרו דהטבעות היו רחבות הרבה או שהיו כפופין למעלה עד תרי תילתי גובה מתחתית המזבח. ולכאורה ע"כ צ"ל כן דאל"ה אין צורך למאי דקאמר שם וגמירי כו'. דע"כ מוכח בלא"ה דינא דהמוציא למעלה מעשרה חייב ודו"ק:
+
+
+###### Rashash on Zevachim 62a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/62a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/62a:3)
+
+
+**ודע**דהסוגיא דשבת שהבאתי אזלא אליבא דר' יוסי לעיל דמזבח של משה היה גבהו עשרה אמות. וראיה למש"כ הרמב"ם בפ"ג בית הבחירה ה"ה כוותיה. והכ"מ כתב שם דסתמא דגמרא בפ' שתי הלחם כוותיה וכוונתו (לדף צז ב) גובה המזבח כמה הוי עשר אמות ופרש"י כדאמרי' בזבחים כו' וזהו לר' יוסי. ובעניותי אתמה על פירושם דנ"פ בעיני דע"כ ל"פ אלא במזבח דמשה אבל דב"ע דביה איירי הסוגיא לכ"ע היה גובהו עשר. וראיה לזה מיומא (טז ב) דלא מוכיח ר"א ב"א דפליג ר' יהודה אסתמא דמדות מהא דרפ"ג שם דסתמה דגובהו היה עשר אמות:
+
+
+
+## Daf 62b
+
+###### Rashash on Zevachim 62b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/62b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/62b:1)
+
+
+**גמרא עומד על שנים עשר בקר כו'.**כצ"ל כדכתיב בקרא ומלת עמודים למחוק:
+
+
+###### Rashash on Zevachim 62b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/62b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/62b:2)
+
+
+**רש"י ד"ה ומעלותיהו פנות קדים.**כצ"ל. וכן לקמן בד"ה
+
+
+###### Rashash on Zevachim 62b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/62b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/62b:3)
+
+
+**ופרכינן.**צ"ל נהי דפנות קדים כו':
+
+
+###### Rashash on Zevachim 62b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/62b:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/62b:4)
+
+
+**[ד"ה ומשני] .**צ"ל מובלעים בשתי אמות של מזבח:
+
+
+###### Rashash on Zevachim 62b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/62b:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/62b:5)
+
+
+**תד"ה שיתין. והוה ליה לשנויי כו'.**כצ"ל. מש"כ בגליון דהפ"מ הניח דבריהם בצ"ע. וכן הצ"ק גמגם בדבריהם ע"ש. לי כוונתם פשוטה. דר"ל דלרב שלא היה המזבח במקום הכבש רק ל"א אמה מצפון לדרום לא ה"ל להקשות אלא ס"ג הוו. וכן התרצן לא ה"ל להזכיר היסוד כלל ועי' רש"ק:
+
+
+
+## Daf 63a
+
+###### Rashash on Zevachim 63a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/63a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/63a:1)
+
+
+**גמרא חוץ מכבשו של מזבח כו'.**עי' רש"ק. ועמש"כ עליו בעירובין (נח ב):
+
+
+###### Rashash on Zevachim 63a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/63a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/63a:2)
+
+
+**במשנה המנחות כו'.**קשה מ"ט מפרשן קודם לקרבנות העוף הלא הם קודמין להן כדלקמן פ"י. ועי' לקמן (סד ב) תד"ה חטאת. ואולי משום דזוטרן מילייהו הכא דכל פרטי דינייהו מפורשין במקומן במס' מנחות והכא לא תני להו רק אגב דתני בפרק דלעיל מקומן של עבודות הזבחים ומקום אכילתן דהנאכלין וזמנן ולמי. פסיק ושדי להו. וק"ל דלא תני בחטאת העוף דיני אכילתה:
+
+
+###### Rashash on Zevachim 63a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/63a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/63a:3)
+
+
+**רש"י ד"ה לפנים מן הקלעים. דכתיב כו' וסמיך ליה כו'.**הן בפרשת וזאת תורת המנחה גופה כתיב תאכל במקום קדוש בחצר א"מ כו' כל זכר כו'. וכה"ג דקדק התוי"ט אחריו בפרק דלעיל גבי אשם. ואולי י"ל (גם דקדוק התוי"ט) משום דהכא כתיב ולכל גבייהו:
+
+
+###### Rashash on Zevachim 63a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/63a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/63a:4)
+
+
+**במשנה**(הב') ושירי הדם. ופרש"י של חטאות החיצונות וכ"כ התו' לקמן (סד). ולכאורה ה"נ כיון דתני סתמא משמע אף מחטאות הפנימיות. וכמ"ק בגמרא דמביא ע"ז קרא דכתיב בפהע"ד לבד. וס"ל להאי תנא דכוליה מזבח בצפון העזרה קיימא ולכן נותן על יסוד מערבי שבקרן דרומית עי' לעיל (נג סע"א):
+
+
+###### Rashash on Zevachim 63a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/63a:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/63a:5)
+
+
+**שם עולין דרך ימין ומקיפין.**נראה פי' הגם שא"צ אלא לקרן דרומית מזרחית כגון בעולת העוף. לאחר שיגמור עבודתו שמה אינו חוזר על העקב אלא מקיף כל המזבח לימינו אף לחנם משום כל פינות כו' וכ"נ מפרש"י בסוכה. וכמ"ק מהא דלג"ד אלו אי לאו טעמא דיתעשנו הי' מקיף דרך ימין חנם כל הרוחות השלשה. ופרש"י בכאן בשביל צרכי עבודה כו' תמוה בעיני. וכן אינו מדוייק לשונו ביומא (מג ב) במשנה ד"ה בכל יום כהנים שכ' ומקיף את המזבח לעבוד:
+
+
+
+## Daf 63b
+
+###### Rashash on Zevachim 63b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/63b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/63b:1)
+
+
+**במשנה חוץ כו' שהיו עולין ויורדין על העקב.**הלשון תמוה דהעיקר חסר דלא תני איך היו עולין אם דרך ימין או דרך שמאל (ועי' לקמן סד ב) לשון הברייתא. ונ"ל דחסר ב' תיבות וכצ"ל עולין דרך שמאל ויורדין עה"ע וכלשון הברייתא שהובאה בסוכה (מח ב). ועוד אני אומר דשם בסוכה צ"ל תנן התם במקום ת"ר והכוונה על המשנה שלפנינו. וע"ש בתד"ה ועולת העוף (שבע"א):
+
+
+###### Rashash on Zevachim 63b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/63b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/63b:2)
+
+
+**רש"י ד"ה ומקיפין ויורדין דרך שמאל.**כצ"ל:
+
+
+###### Rashash on Zevachim 63b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/63b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/63b:3)
+
+
+**רש"י ד"ה לג' דברים**(בסופו)**. ואינו מקיף אלא עומד על הרצפה בקרקע.**אינו מדוייק דבשפיכת שיריים משמע שלא היה עומד על הרצפה אלא על היסוד עי' לעיל (סב ב) בפירושו ד"ה שני כבשים קטנים. ועמש"כ לעיל (נג) ע"ד:
+
+
+###### Rashash on Zevachim 63b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/63b:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/63b:4)
+
+
+**תוי"ט ד"ה וחוזרין. ותוס' כ' דטעמא כו'.**הן כפי העתקתו לשון רש"י אין ביניהם כלום. אבל בתוס' סוכה שם העתיקו לשונו שלא ירבה בהילוך בחנם ע"ש:
+
+
+
+## Daf 64a
+
+###### Rashash on Zevachim 64a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/64a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/64a:1)
+
+
+**גמרא שמא יתעשנו כו'.**ק"ק הלא היה יכול לילך דרך הסובב וישפילם למטה מגב המזבח אשר שם המערכה ועשנה עי' ספ"ק דיומא:
+
+
+###### Rashash on Zevachim 64a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/64a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/64a:2)
+
+
+**רש"י**(ברה"ע)**.<b>**מה שנדפס בגליון נ"א ולא הוא שבוש:</b>
+
+
+###### Rashash on Zevachim 64a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/64a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/64a:3)
+
+
+**רש"י ד"ה צבר. ואפי' הוא מתקרב לכבש כל אמת רוחב הקרן.**כצ"ל:
+
+
+###### Rashash on Zevachim 64a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/64a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/64a:4)
+
+
+**בא"ד ועומד בדרומה ש"ק.**ועה"ג ס"א בצפונה. אבל גי' הצ"ק במזרחה. וכ"צ להגיה בתוס':
+
+
+###### Rashash on Zevachim 64a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/64a:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/64a:5)
+
+
+**בא"ד ואע"פ שזה נמשך לצד הכבש אמה של קרן כו' עומד כנגדו כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 64a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/64a:6](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/64a:6)
+
+
+**תד"ה שירי. דבעי קרן מערבית דרומית.**כ"ה גי' הצ"ק:
+
+
+
+## Daf 64b
+
+###### Rashash on Zevachim 64b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/64b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/64b:1)
+
+
+**ד"ה היה מתמצה. שמקיף ומקרב כו'.**כצ"ל ולשון הרע"ב שמקרב כו'. ובריש מנחות (סד ב) פי' מיצוי סוחט בין אצבעותיו וניצוק הדם הולך למרחוק. ונ"ל ראיה לפירושו דכאן מלקמן בגמרא (ר"ד פח) דמגע להו (פי' לכותל מזבח כשמזה) ופריך הזאה היא מיצוי היא. וכן במשנה דלקמן נטל את הראש והקיף בית מליקתו למזבח. וזה יש לדחות די"ל דדוקא הראש שהוא קצר וקשה צריך לדחקו לכותל (ובזה נדחו דברי התוס' לקמן (סה) בד"ה דמו ועמש"כ שם). ואדרבה משם ראיה להפך. מדל"ק כן ברישא במיצוי הגוף. אבל לכאורה יש להכריע כפי' דמנחות מהא דלעיל (טו) אלא חטאת העוף דפסולה בה מחשבה לר"ש המ"ל כו' ואי בתר דנפיק דם איתעביד מצותה מאי קושיא דלמא מדפריש ועד דמטא למזבח. ואי כפי' דהכא יקשה מעולת העוף דלית בה אלא מיצוי:
+
+
+###### Rashash on Zevachim 64b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/64b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/64b:2)
+
+
+**גמרא קיר שהשירין שלו מתמצין ליסוד.**ופי' והנשאר הוא מה שנשאר מהדם שקלט ונדבק בקיר המזבח. או דדרשינן והנשאר כמו והנשר והא' יתירא כא' דוהאזניחו (ישעיה יט) והוא לשון נשירה שבדברי חז"ל:
+
+
+###### Rashash on Zevachim 64b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/64b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/64b:3)
+
+
+**שם מי כתיב ימצה.**כ"ה נקוד בגמרות שלפנינו (ול"י ממי יצאו) והוא בנין הפעיל. ובתוי"ט כתב כלומר בשו"א ופת"ח והוא מבנין פעל. ולכאורה הנקוד שלפנינו יותר נכון דומיא דוהזה רישא דקרא. אבל ל"נ לנקדו ימצה בקל כי לא נמצא שורש זה בתנ"כ רק בנפעל ובקל ביוצא לשני כהכא. אח"ז מצאתי בבה"ז ג"כ נקוד כמש"כ:
+
+
+###### Rashash on Zevachim 64b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/64b:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/64b:4)
+
+
+**במשנה חטאת העוף כו'**(ובמשנה הב') מיצה דמה שלא לשמה כו' אחד חטאת כו' ושמיצה א"ד כו'. עי' מעילה (ר"ד ט) ובתוס' שם ובמש"כ שם בס"ד:
+
+
+###### Rashash on Zevachim 64b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/64b:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/64b:5)
+
+
+**שם כיצד קרב המתיר כמצותו כו' כיצד ל"ק המתיר כו' או שמלק ומיצה הדם חוץ למקומו כו'**(ובסוף המשנה בדף סה א) לאכול כח"ז ולהקטיר כח"ז כשר כו'. עי' בכ"ז מש"כ לעיל (לא ב) בס"ד. ומש"כ התו"ח כאן דאם חשב סתם חוץ לזמנו מ"מ הוי פסול ע"ש. לא מחוור בעיני דהרי בגמרא שם אמר רבא בר ר"ח וא"א אויר מזבח כמזבח דמי עולת העוף דפסלה במחשבה המ"ל. מדלא קאמר דמפגלה וקאמר דפסלה משמע דאפי' פסול לית בה:
+
+
+
+## Daf 65a
+
+###### Rashash on Zevachim 65a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/65a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/65a:1)
+
+
+**גמרא ת"ל הכהן לקבוע לו כהן.**כצ"ל:
+
+
+###### Rashash on Zevachim 65a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/65a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/65a:2)
+
+
+**רש"י ד"ה והקטיר אותו. בכנפיו לא יבדיל.**כצ"ל:
+
+
+###### Rashash on Zevachim 65a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/65a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/65a:3)
+
+
+**תד"ה דמו. מדלא קתני בה הקיף בית מליקה למזבח.**לכאורה הא גם בעולה גופה במיצוי הגוף לא תני הקיף כו'. וצ"ל דסברי דדם הגוף יוכל לצאת כולו בלא הקפה. והוכחתם ממאי דל"ת בחטאת הקפה משום דם הראש. ועי' מה שכתבתי לעיל (סד ב) ברש"י:
+
+
+
+## Daf 65b
+
+###### Rashash on Zevachim 65b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/65b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/65b:1)
+
+
+**גמרא רבא אמר שהייה כו'.**בתד"ה וראב"ש איתא כ"פ רבה וכ"נ מדאקדמיה לאביי. ויש לדחות:
+
+
+###### Rashash on Zevachim 65b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/65b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/65b:2)
+
+
+**רש"י ד"ה (מאי בינייהו) [ת"ק] . ולקמן תנן כו'.**מה שנדפס בגליון צ"ל תנא הוא שבוש. ראה בר"פ דלקמן:
+
+
+
+## Daf 66a
+
+###### Rashash on Zevachim 66a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/66a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/66a:1)
+
+
+**רש"י ד"ה מכדי. דאי אזהרה היא כו' אינו מוזהר כו' ולא שטעון הבדלה האי ל"ל כמו כו'.**כצ"ל. ותיבות ד"א למחוק:
+
+
+###### Rashash on Zevachim 66a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/66a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/66a:2)
+
+
+**בא"ד מדאתא והקריבו לחלק ללמדנו הבדלה כו'.**כצ"ל וכן הגיה הצ"ק:
+
+
+###### Rashash on Zevachim 66a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/66a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/66a:3)
+
+
+**תד"ה אלא. מכל לאוין כו'.**כל הני דחשבי י"ל דמשום דכתיבי בלשון נוכח לכן לכ"ע הוו אזהרה:
+
+
+###### Rashash on Zevachim 66a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/66a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/66a:4)
+
+
+**רש"י ד"ה עשאה למעלה. כלומר כמעשה אחד מכולן.**מזה ג"כ ראיה למש"כ בשבועות (טז) בתד"ה תני בס"ד:
+
+
+
+## Daf 66b
+
+###### Rashash on Zevachim 66b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/66b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/66b:1)
+
+
+**גמרא**(פיסקא) עולת העוף דשני במאי אילימא דשני במליקה כו'. בתוי"ט ד"ה כמעשה עולה בסופו. ואי איתא דמתני' ראב"ש היא בלא"ה כו'. לכאורה לראב"ש מאי מהני הא דשינה במליקה לר' יהושע להוציאה מעולת העוף. אם במאי דלא הבדיל הא אמרי דלא פסל בה. ואם במאי דמלקה למטה הא כתב לקמן דלשיטתם לכ"ע לא פסל בה:
+
+
+
+## Daf 67a
+
+###### Rashash on Zevachim 67a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/67a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/67a:1)
+
+
+**ד"ה ששחטן בדרום. ששינה שמן ומעשיהן.**לכאורה הל"ל שמן ומקומן עי' לקמן בגמרא:
+
+
+
+## Daf 67b
+
+###### Rashash on Zevachim 67b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/67b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/67b:1)
+
+
+**רש"י ד"ה חציין למעלה. כגון דפשיטא ליה כו'.**לכאורה גם אם היו כולן מעורבין היה הדין כן. דעולה אחת וחטאת אחת ודאי כשרין. דהשלישית שעשה למעלה ע"כ היתה או עולה מפורשת או מן הסתומה. וכן מהג' דלמטה ע"כ א' היתה או חטאת המפורשת או מן הסתומה. ואולי לשון דאינה כשרה אלא סתומה דחקתו:
+
+
+###### Rashash on Zevachim 67b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/67b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/67b:2)
+
+
+**בא"ד האחת יוצאה בה ידי חטאת כו' ויקריבו בתנאי כו'.**ל"י למה לנו התנאי. אם בראשונה הקריב סתם על שתיהן כמש"כ לעיל גם עתה יקריב סתם ועי' עירובין (לז) ובתד"ה לאיזו:
+
+
+###### Rashash on Zevachim 67b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/67b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/67b:3)
+
+
+**רש"י ד"ה ואמאי. בשלמא כו' דה"ל תרי גברי.**לכאורה תמוה דהא הבעלת עולה מחוייבת חטאת ג"כ וא"כ יהיה עולה לה לשם חטאתה. והחטאת מהסתומה תעלה לחברתה ונגד זה העולה מהסתומה תעלה לה. וי"ל משום דקיימא לן בכריתות (פ"ו מ"ז) דלא יביא מחטא על חטא ואפי' מחלב שאכל אמש על חלב שאכל היום (וכבר כתבתי בפ"ב דקנים דה"ה במחוכ"פ נמי וה"ר לדבר ע"ש). ואפי' לדעת הרמב"ם שהביא התוי"ט שם דבשניהם מין אחד אינו אלא מדרבנן ובדיעבד כפר. י"ל דהכא מיירי בשני שמות לידה וזיבה:
+
+
+###### Rashash on Zevachim 67b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/67b:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/67b:4)
+
+
+**רש"י ד"ה שלש למעלן. דנדרה שתיהן עולות.**כצ"ל:
+
+
+
+## Daf 68a
+
+###### Rashash on Zevachim 68a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/68a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/68a:1)
+
+
+רש"י [בד"ה צריכה] (ברה"ע)**. ובהשלמת קן שני ממין אחר.**כצ"ל וכ"ה בתוי"ט בקנים (ור"ל שתביא עתה קן שלם ממין אחר לספק פירושה) שהרי קובעתו כו' (ר"ל וא"כ ע"כ צריכה עוד פרידה א' מאותו מין שהביאה כבר לחובתה) וע"ז קאמר תו וא"ת תביא קן ממין אחר כצ"ל (וכ"ה שם) וכו' (ר"ל ותסגי לה בג' פרידות) אין חבירו עולה כו' (ר"ל אותו שקרב ראשונה לנדרה) ופי' הצ"ק בו תמוה:
+
+
+###### Rashash on Zevachim 68a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/68a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/68a:2)
+
+
+**רש"י ד"ה וחטאת אחת. וה"ל זוג ממינו לעולה מב' שמביאה חובתה כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 68a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/68a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/68a:3)
+
+
+**במשנה כה"פ שמלקו כו' וא"מ בבה"ב.**במשניות איתא להך בבא בסיום המשנה. אבל מהא דקאמר בגמרא לקמן (בע"ב) לרב האי כל לאתויי שמאל ולילה ותני והדר מפרש. משמע כגי' שלפנינו:
+
+
+
+## Daf 69a
+
+###### Rashash on Zevachim 69a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/69a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/69a:1)
+
+
+**רש"י ד"ה זבחים. ויזבחו כו'.**ע"כ ט"ס הוא עי' לקמן (קיז ב) בפי' ד"ה אין מנחה:
+
+
+###### Rashash on Zevachim 69a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/69a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/69a:2)
+
+
+**רש"י ד"ה הא נמי. נהי כו' עולה שלא הותרה כו'.**קשה הא בעינן ממשקה ישראל מן המותר לישראל. והל"ל דבעולה נמי גזה"כ כמו בחטאת. או כמו חלב שמקטירין ע"ג המזבח. ואולי זה מיקרי ה"ל שעת הכושר בשחיטה קודם שהוקדשה. ובכה"ג לא מיפסל מטעם משקה ישראל עי' חולין (קמ) תד"ה למעוטי:
+
+
+###### Rashash on Zevachim 69a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/69a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/69a:3)
+
+
+**רש"י ד"ה בשלמא חולין לא שוותה שחיטתן כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 69a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/69a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/69a:4)
+
+
+**רש"י ד"ה מדבר שבהכשירו. מליקת קדשים בפנים.**קשה דנילף מקדשים טרפה בפנים. ורש"י כתב לעיל בד"ה בשלמא דהא מתניתא כר"מ והוא מטהר מליקת טרפה:
+
+
+
+## Daf 69b
+
+###### Rashash on Zevachim 69b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/69b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/69b:1)
+
+
+**במשנה ק"ו אם נבלת בהמה כו' נה"ע שא"מ כו'.**עי' לעיל (נ ב) תד"ה מה נבילת שתמהו הא א"ל מה לנבלת בהמה שא"מ בבית הבליעה כדלקמן בגמרא:
+
+
+###### Rashash on Zevachim 69b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/69b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/69b:2)
+
+
+**גמרא אלא דיו לבא מן הדין להיות כנדון.**כצ"ל:
+
+
+###### Rashash on Zevachim 69b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/69b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/69b:3)
+
+
+**תד"ה ר"י.**עמש"כ בפסחים (לה ב) בס"ד:
+
+
+
+## Daf 70b
+
+###### Rashash on Zevachim 70b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/70b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/70b:1)
+
+
+**רש"י ד"ה ת"ל כל חלב. דסמיך ליה כי כל אוכל חלב.**מזה דרשינן בפסחים (מג ב) חלב חולין. ול"י מה דחקו להוציא מפשוטו דהכוונה על כל חלב שור כו' דבקרא שלפניו. דהא דדרשינן ביומא (עד) מזה לרבות כוי וח"ש הא מסקינן התם לר"ל דאינו אלא אסמכתא. ואף ריו"ח נ"ל דהדר מזה. ולכן יהיב טעמא דחזי לאיצטרופי וע"ש בתוס'. ובזה מתורץ מה שהקשו בת"י שם לריו"ח מדוע לא לקי על ח"ש כיון דמרבי ליה מכל. וכן מש"כ עוד שם דשמא יש להעמידו (ר"ל רבוייא דכל) לדרשא אחרת. ועתה נגלתה לנו הדרשא האחרת:
+
+
+
+## Daf 71a
+
+###### Rashash on Zevachim 71a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/71a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/71a:1)
+
+
+**במשנה ברובע ונרבע.**עי' בפי' הרע"ב. ומה שהוסיפו בד"ח בדבריו מלת של. נראה שבוש וכן בפי' הרמב"ם אשר ממנו לקח הרע"ב ליתא. וכוונתם פשוטה דר"ל שהיה הרובע או הנרבע והנהרג עובד כוכבים. דאז אין הבהמה נהרגת עי' רמב"ם פ"ט מהל' מלכים ה"ו. ודע דמה שחדשו לנו הרמב"ם והרע"ב דקודם שנגמר דינו אסור לגבוה. יש לו מקור נאמן מהגמרא ר"פ כל האסורים לפי' הראשון של התוס' שם בד"ה טול. אך ע"י עובד כוכבים לא ראיתי עדיין מקורו. ואולי דחילייהו מהא דקרא סתמא כתיב מן הבהמה להוציא את הרובע והנרבע ומן הצאן להוציא את הנוגח. ממעטינן כל הני דליכא בהו סקילה ועי' תד"ה ע"פ עד אחד. שוב נזכרתי שגם זה גמ' בר"פ אין מעמידין לוקחין מהם בהמה לקרבן וא"ח לא משום רובע ולא משום נרבע. דמשמע דאם ידעינן שכן הוא נאסרים לגבוה. וממילא מוכח גם הא דלא נגמר דינו. [וכמו כן מהא דנפסל ע"י ע"א] ועמש"כ לקמן (פד) דברים הסותרים לכאורה לזה. אבל דעת לנבון נקל לחלק בניהם:
+
+
+###### Rashash on Zevachim 71a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/71a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/71a:2)
+
+
+**רש"י**[**בד"ה נתערבו****. מוקצה שהקצהו לצורך תקרובת עבודת כוכבים.**מה שנמחקה מלת תקרובת משם הרש"ק. הוא לחנם וללא לצורך:
+
+
+
+## Daf 71b
+
+###### Rashash on Zevachim 71b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/71b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/71b:1)
+
+
+**במשנה זה יקרב לשם מי שהוא כו'.**עי' בתוס'. ועמש"כ בזה בריש מכלתין:
+
+
+###### Rashash on Zevachim 71b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/71b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/71b:2)
+
+
+**רש"י ד"ה מין בשא"מ. עולה בשלמים שאין מתן דמן כו' שוה.**תמוה דהרי שתיהן ב' מתנות שהן ארבע כמבואר בפ' איזהו:
+
+
+###### Rashash on Zevachim 71b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/71b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/71b:3)
+
+
+**תד"ה ובטרפה. הרי המתה שלו כדתנן דיאותו הכהנים בעורו.**תמוה דהתם טעמא דשרייה השחיטה וההפשט. אבל אם מת עורו נמי אסור וכ"כ רש"י להדיא שם (קד) ד"ה דאפי' בגבולין וז"ל אם מת עורו אסור וטעון קבורה כו' שרייה שחיטתו והפשט עורו כו' ע"ש וצע"ג. ומהא דאיתא בשבועות (יא ב) גבי פרה אם מתה תפדה ומסקינן משום עורה הוה קשה שפיר על הא דב"ק. אבל גם משם ל"ק למש"כ התוס' שם ד"ה משום:
+
+
+
+## Daf 72a
+
+###### Rashash on Zevachim 72a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/72a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/72a:1)
+
+
+**גמרא אבל לגבוה אימא לא נפסדינהו לכולהו.**ועפרש"י. והתוס' הקשו בר"פ הא נמי תנינא בקינין ואם פרח מבין המתות לכולן כו'. ולע"ד י"ל דאי מהתם ה"א דוקא עופות דאין להן תקנה בפדיון כדאיתא ברפי"ב דמנחות וכמש"כ רש"י לקמן (עג ב) ד"ה חטאת והתוס' (עד ב) ד"ה והא. אבל בהמה דאית לה תקנתא בפדייה אימא לא נפסידינהו ויהיו מותרים להדיוט:
+
+
+###### Rashash on Zevachim 72a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/72a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/72a:2)
+
+
+**שם ואי מהכא ה"א ה"מ קדשים דמאיסי.**התוי"ט העתיק כאן לישנא דגמרא בתמורה דלגבוה דמאיס אבל להדיוט אימא ה"נ דליבטלו כו'. ונראה דל"ד במחכ"ת דהא מהכא שמעינן דאפי' להדיוט לא בטילי מדקתני ימותו ולא תני תקנתא דירעו וימכרו כמו בבבא הסמוכה וכמו שפרש"י בד"ה אימא ניבטלי אבל לגי' דהכא א"ש דר"ל דכיון שנתערבו בקדשים להכי מאיסי אפי' להשהותן עד שיוממו ויפדו. וע"ד שאמרו בתמורה חדא בחולין וחדא בקדשים וצריכי דאי אשמעינן גבי קדשים משום דמאיסא ע"ש. ושם בתמורה קאי ארובע וחבריו דתנן הכא דאינן אסורין אלא להקדש ע"ש:
+
+
+
+## Daf 73a
+
+###### Rashash on Zevachim 73a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/73a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/73a:1)
+
+
+**גמרא רא"א רואין את העליונות כו'.**מפרש"י כאן מוכח דגריס רואין אותן וכמו שהוא בציונו וכ"ה במשנה שם:
+
+
+
+## Daf 73b
+
+###### Rashash on Zevachim 73b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/73b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/73b:1)
+
+
+**רש"י ד"ה אי מקריב. ומתניתין אפי' הוכרו כו'.**זהו הוספה מדעת עצמו. אבל עיקר כוונת רבא הוא דאפי' הוקרבו כולם דודאי נקרבו הכשרים אפ"ה לא מרצו וכגוונא דמתניתין דקינין דמייתי רהב"י:
+
+
+###### Rashash on Zevachim 73b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/73b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/73b:2)
+
+
+**רש"י ד"ה ותנן**(בסה"ע)**.<b>**נראה דצ"ל מכשרינן הנך דפיישי</b>:
+
+
+
+## Daf 74a
+
+###### Rashash on Zevachim 74a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/74a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/74a:1)
+
+
+**גמרא אר"נ כו' טבעת כו' ונפלה אחת מהן ליה"ג הותרו כולן.**עי' בשו"ע יו"ד סי' ק"י ס"ז בהגהה שפסק דבכה"ג אסור לאדם אחד לאכול את כולם אפי' בזא"ז. והגר"א שם הביא סתירה לזה מדאמרי' רב דאמר כר"א. והרי אכילת מזבח כאדם אחד דמי וכ"כ שם הפ"ח. ולע"ד אין מזה סתירה כלל. דאטו מזבח גברא הוא והוזהר על אכילת איסורים. האיסור הוא על הכהן המקטיר עליו דבר האסור לו. וי"ל דגם שם יקריבום שני כהנים דוקא. ולפ"ז יהיה ראיה לדין הב' של הרמ"א שם דאפי' ב' בנ"א אין לאכלם בב"א. מהא דקאמר לעיל שמא יבואו י' כהנים בב"א כו' ע"ש:
+
+
+
+## Daf 74b
+
+###### Rashash on Zevachim 74b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/74b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/74b:1)
+
+
+**גמרא והא בעי סמיכה אר"י בקרבן נשים.**והרמב"ם בפ"ו מהל' פה"מ ה"ד כ' אבל קרבנות אנשים כו' הרי אלו לא יקרבו עד שיתן האחד חלקו לחברו הביאו התוי"ט. וק"ל הא בפסחים (פט ב וצ) איתא דאינו יכול למכור וליתן עולתו ושלמיו שהפריש לעצמו ופסקה הוא ז"ל בפ"ד מהל' מעילה ה"ח. ומש"כ התוי"ט שלמד כן מדר"ש כו' אינו כלום דהתם בתחילת הקדש ודאי מצי לאתנויי. ומש"כ עוד ואע"ג דהתם הלכה כר"ע כו'. תמוה דהתם ה"ט משום דבעינן או הודע אליו חטאתו. ולפי שיטתו היה יכול להביא מסתם מתניתין דרפ"ח דנזיר שהביא לעיל מהתוס':
+
+
+
+## Daf 75a
+
+###### Rashash on Zevachim 75a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/75a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/75a:1)
+
+
+**גמרא ואם נתן ארבע מכולן יצא.**נלע"ד לפרש דאם ערב ובלל אח"כ הדמים זה בזה. וה"ה אם לא נתן אלא מתנה אחת מכולן יצא אליבא דת"ק דבסמוך וממילא משמע. ופי' התוס' תמוה דהא כבר תנא ואם נתן מתנה מכ"א יצא. גם מה שהוכיחו דלא אתי כב"ש מסיפא תמוה דהלא גם מרישא שהזכרתי מוכח כן. ולבי אומר לי דלא היה בגירסתם ברישא בבא זו דואם נתן מתנה מכ"א יצא:
+
+
+
+## Daf 75b
+
+###### Rashash on Zevachim 75b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/75b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/75b:1)
+
+
+**במשנה חתיכות בחתיכות קדשי קדשים כו' יאכלו כחמור שבהן.**לכאורה עולה נמי קק"ד והלל"פ קדשי קדשים הנאכלין. אבל עי' בפ"ז דשקלים מ"ג שעולה נחתכת לאברים. והנאכלים לחתיכות. ולכן כיון שאמר חתיכות ממילא מובן דמיירי בנאכלין. ובמשנה הסמוכה דקדק ג"כ התנא למינקט אברי כו' ונכון בעז"ה:
+
+
+
+## Daf 76a
+
+###### Rashash on Zevachim 76a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/76a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/76a:1)
+
+
+**תד"ה אין. וגרסי' בסה"מ באכילתו.**עי' בירושלמי שם שמקשה וכשם שהוא ממעט באכילתו כך הוא ממעט באכילתה כו' אשכח תני מפני שהוא ממעט באכילתו ובאכילתה ולפלא על התוס' שלא הביאוהו:
+
+
+
+## Daf 76b
+
+###### Rashash on Zevachim 76b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/76b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/76b:1)
+
+
+ברש"י (בסה"ע)**.<b>**הנקודות מיותרות כי נמשך הדבור עם הא שבדף הסמוך:</b>
+
+
+###### Rashash on Zevachim 76b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/76b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/76b:2)
+
+
+**תד"ה אשם זה. וד"ה וסמיכה.**עיין מה שכתבתי ע"ד בפסחים (צח) בס"ד:
+
+
+
+## Daf 77a
+
+###### Rashash on Zevachim 77a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/77a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/77a:1)
+
+
+**רש"י ד"ה ור"א. כדתניא בת"כ אין לי אלא מזבח כבש מנין כו'.**וכ"ה במנחות (נז ב)] :
+
+
+###### Rashash on Zevachim 77a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/77a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/77a:2)
+
+
+**ברש"י**(בסה"ע)**.**הנקודות למחוק כי הד"א עם מה שבעמוד הב':
+
+
+
+## Daf 78a
+
+###### Rashash on Zevachim 78a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/78a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/78a:1)
+
+
+**בד"ה בדם פסולין. כגון ברובע ונרבע.**ק"ל דהא לרב זביד לקמן בגמרא (עט ב) ע"כ צ"ל דנותנן לשם מים בעלמא וכסברת ר"א לעיל באברי חטאת (עי' תד"ה בדם בהמה ושם ד"ה במאי קמיפלגי). וכן לר"פ שם אינו אלא משום גזירה. והא ר"א גופיה מודה לכ"ע ברובע ונרבע ולמתניתין ג"כ בבע"מ. וע"כ טעמא משום דמאיסי כדלעיל וא"כ בדם נמי וכדלקמן (פא) בברייתא בדברי ר"י. ואולי לזה כיון הרע"ב שהשמיט רובע ונרבע שבפרש"י ודלא כהתוי"ט שכ"ע וה"ה כו':
+
+
+###### Rashash on Zevachim 78a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/78a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/78a:2)
+
+
+**גמרא אר"ל הפיגול כו'.**בהגרי"פ מלת והטמא ליתא בתוס' כו'. ותמוה שהרי כתבו בא"ד וקשה דאם התרה בשלשתן כו' וכן וע"ק אם נפרש פיגול ונותר וטמא שלשתן יחד כו'. הרי לפניך דהיה הגי' לפניהם והטמא ג"כ:
+
+
+
+## Daf 78b
+
+###### Rashash on Zevachim 78b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/78b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/78b:1)
+
+
+**תד"ה ונשער. הגה"ה ואף על פי שהזכיר בקונטרס כו'.**כצ"ל:
+
+
+
+## Daf 79a
+
+###### Rashash on Zevachim 79a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/79a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/79a:1)
+
+
+**גמרא רבא אמר כו' דמדינא סגי להו בכ"ד כו'.**ק"ל בתרתי. חדא דודאי דמי חטאת כבר נפסלו כשהם בכלי כזה שנטמא גבו לחכמים דר"י בפ"י דפרה מ"ג וא"כ מאי שייך דלמא חייס עלייהו. שנית דכיון דהכלי כבר נפסלה לחטאת כנ"ל שוב המי חטאת מטמאין אותו ע"ש פי"א מ"ג בהרע"ב בסופו:
+
+
+###### Rashash on Zevachim 79a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/79a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/79a:2)
+
+
+**שם דלמא חייס עלייהו ולא מטביל ליה.**כצ"ל:
+
+
+
+## Daf 79b
+
+###### Rashash on Zevachim 79b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/79b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/79b:1)
+
+
+תד"ה אף (בסופו)**. דקאמרי רבנן אף זה כו' ורבו עליו טהור.**לפ"ז משמע לכאורה דפלוגתייהו תלי בפלוגתתם בעלמא במב"מ אי בטיל אי לא. וא"כ מאי ורמינהו הא גבי חרסן אמר נמי דבמי רגלים דהוה מינו אפי' עשירי טמא:
+
+
+###### Rashash on Zevachim 79b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/79b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/79b:2)
+
+
+**תד"ה ה"ג. ומיהו לר"פ כו' א"א לומר כן כו'.**ולע"ד י"ל דזה ודאי אין סברא לגזור היכא דהפסול הוי מיעוט אטו בעיניה כיון דבעלמא מיעוטא כמאן דליתיה דמי. תדע דהא קי"ל בכל האיסורין דחד בתרי בטיל ביבש מב"מ (עי' יו"ד ר"ס ק"ט) ול"ג מידי. אלא הכא גזרינן אטו היכא דהפסול מרובה ואם היה מים היה דם הכשר ניכר בו דמדינא גם זה מותר לזרוק כמו בנתערב בדם בהמה וחיה. ושם ודאי יש לגזור אטו בעיניה הואיל דהכשר הוה מיעוטא וכולה חדא גזירה היא. ולכן ס"ל לר"א בדם התמצית שאינו מצוי לרבות על דהנ"פ לא שייך למיגזר מחמתו. וגם אם אירע שנתערב רוב דם התמצית ואם היו מים היה דם הכשר ניכר בו ג"כ כשר. ול"ג ביה (אטו בעיניה) כיון דלא שכיחא. ובזה יעלו ג"כ דברי הרע"ב כהוגן ומוצל ממה שגמגם עליו התוי"ט ע"ש ונכון בעז"ה:
+
+
+###### Rashash on Zevachim 79b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/79b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/79b:3)
+
+
+**ד"ה דם תמימים. גזירה כו'.**לפ"ז ה"ל להגמרא לאקשויי לרב זביד לעיל ליפלוג נמי ר"א בהא. אבל לעד"נ הטעם משום דמאיסי כמו דל"פ באברי בע"מ לעיל (עז ב) והגמרא אמרה סברא זו שם לעיל מינה:
+
+
+###### Rashash on Zevachim 79b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/79b:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/79b:4)
+
+
+**רש"י ד"ה התחתונים למעלה. ומפני שמצוה כו'.**לכאורה לא היה צריך לזה דבלא"ה הכי שפיר טפי. דעתה כשיחזור ויתן למטה לא נצטרך לומר שמה כאילו הן מים אלא דתעלה לו לשפיכת שיריים וכמו דמסיק. משא"כ אם יקדים למטה נצטרך לומר גם שמה רואין כו'. אבל הא דתעלה לו לשפיכת שיריים שכ' איננו אליבא דהלכתא וכמו שפסק הרמב"ם בפ"ב מהל' פהמ"ק הל' י"א כרב יוסף לקמן (פא) דשפיכת שיריים צריכה איצטבא ע"ש. ולהכי לקמיה כוון יפה במה שפי' באם לא נמלך ונתן כשר. העליון. והשמיט סיומא דברייתא (שם בע"ב) דיחזור ויתן למטה שהביא התוי"ט. דלר"י לרבנן ישפך לאמה. והברייתא מיירי דאיערב חטאת בשיריים כמבואר שם בגמרא. ודברי הרמב"ם בזה צ"ע וע"ש בלח"מ והתוי"ט לא חלה ולא הרגיש בזה. וכן שפיר דק רש"י לפרש לקמן בדברי ר"א שאמר ינתנו במתן ארבע. ורואה כו' כאילו הן מים. ולא פי' דעולה לשפיכת שיריים. אבל ק"ל לאביי ולרשב"ל דס"ל מקום עולה מקום שיריים. וע"כ צ"ל כמש"כ התוס' שם ד"ה אבל. וא"כ אמאי פליג ר' יהושע שם:
+
+
+###### Rashash on Zevachim 79b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/79b:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/79b:5)
+
+
+**בתוי"ט ד"ה ואם לא נמלך**(בסופו)**. אבל לר"א ל"ק כו' דס"ל דא"ב.**תמוה דהא אוקמינן ליה בכוס בכוסות וכמ"ש בעצמו לקמן בדבור הסמוך. וא"כ ודאי נתן גם מן הניתנין למטה למעלה וכבר נתכפר. הכי הל"ל דלדידיה ל"ק מטעם דנתנן לשם מים וכדאיתא בתוס' שם:
+
+
+
+## Daf 80a
+
+###### Rashash on Zevachim 80a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/80a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/80a:1)
+
+
+**גמרא כגון שנתערבו אחת באחת.**עי' פרש"י. ולכאורה כאן יל"פ דר"ל שוה בשוה ואפילו הרבה:
+
+
+
+## Daf 81b
+
+###### Rashash on Zevachim 81b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/81b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/81b:1)
+
+
+**רש"י ד"ה הב"ע. רישא דפלוגתא ולמטה דלכתחלה כו'.**כ"נ דצ"ל:
+
+
+
+## Daf 82a
+
+###### Rashash on Zevachim 82a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/82a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/82a:1)
+
+
+**רש"י ד"ה משל. לתלמיד שמזג לו לרבו כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 82a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/82a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/82a:2)
+
+
+**רש"י ד"ה לא בחמין. וכיון כו' מזוג סתם בחמין הייתי אומר כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 82a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/82a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/82a:3)
+
+
+**רש"י ד"ה ה"ג כל הענין. ואדרבנן פליג בת"כ.**כצ"ל:
+
+
+###### Rashash on Zevachim 82a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/82a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/82a:4)
+
+
+**תד"ה מכדי.**עצ"ק. ולי קשה עוד ע"ד דהא מ"מ מקשה ר"ה שפיר כיון דמעיקרא איירי קרא בכל קק"ד שפיר איצטרך חטאת למעוטינהו:
+
+
+###### Rashash on Zevachim 82a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/82a:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/82a:5)
+
+
+**במשנה שהציץ מרצה על הטמא כו'.**ופי' הרע"ב (והוא מהרמב"ם) דילפינן מן איש אשר יקרב כו' אל הקדשים כו' וטומאתו עליו כו'. ק"ל דהרי האי קרא איירי בטומאת הגוף וקי"ל לעיל (כג ב) עון מקדישים לא וי"ל:
+
+
+###### Rashash on Zevachim 82a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/82a:6](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/82a:6)
+
+
+**גמרא הה"א אשר יובא הנכנס פוסל כו'.**כצ"ל:
+
+
+
+## Daf 82b
+
+###### Rashash on Zevachim 82b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/82b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/82b:1)
+
+
+**גמרא בשר כו' הנכנס לפנים כשר שהיה בדין שפסול כו' הה"א מדמה כו'.**ק"ל ל"ל האי הא דרשינן לעיל (סג) מנין שאם הקיפו כו' שהכהנים נכנסין לפנים ואוכלין שם קק"ד ת"ל בקדש הקדשים תאכלנו והאי קרא כתיב בתר ולכל חטאתם:
+
+
+###### Rashash on Zevachim 82b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/82b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/82b:2)
+
+
+**רש"י ד"ה דתרי גופים. אין אזהרתו של זה במשמעו ש"ז כו'.**כצ"ל בבי"ת:
+
+
+###### Rashash on Zevachim 82b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/82b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/82b:3)
+
+
+**רש"י ד"ה אלא א"ר. ע"מ פנים היה לא מיפסל עד כו'.**כצ"ל:
+
+
+
+## Daf 83a
+
+###### Rashash on Zevachim 83a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/83a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/83a:1)
+
+
+**גמרא ואת פר החטאת כו' את דמם לכפר כו'.**כצ"ל. ותיבות אל א"מ למחוק:
+
+
+###### Rashash on Zevachim 83a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/83a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/83a:2)
+
+
+**רש"י ד"ה ר"ש ס"ל בנסכים ש"ז כר"י.**וכ"כ הרע"ב אחריו. ומ"מ א"ב מנחת נסכים ש"ז דלר"י ל"י ולר"ש ירדו כמו שנתבאר בגמרא:
+
+
+
+## Daf 83b
+
+###### Rashash on Zevachim 83b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/83b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/83b:1)
+
+
+**רש"י ד"ה אימורי. כדתניא בת"כ מקדשי ה' המיוחדין כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 83b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/83b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/83b:2)
+
+
+**בא"ד דנ"ל מכל חלב לה'.**כצ"ל:
+
+
+###### Rashash on Zevachim 83b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/83b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/83b:3)
+
+
+**רש"י ד"ה אשר תאכל האש. ותפקיעם העולה על המזבח חזור כו'.**כ"נ דצ"ל ונקיט לישנא דקרא ומפרשו:
+
+
+
+## Daf 84a
+
+###### Rashash on Zevachim 84a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/84a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/84a:1)
+
+
+**גמרא נסכים הבאים בפ"ע לד"כ ירדו.**ע"כ ס"ל לר"ל דהמתנדב יין מנסכו לספלים ודלא כשמואל לקמן (צא:) דמזלפו ע"ג האשים דלדידיה לר' יהושע ל"י. ולפ"ז קשה לקמן דפריך פשיטא אמאי לא משני דאתי לאפוקי משמואל. וע"כ צ"ל דס"ל לתלמודא דזה לא איצטרך לאשמעינן כיון דסתם מתניתין במנחות (עד:) דלא כוותיה. ומזה נסתייע פסק הרמב"ם פט"ז מהל' מעה"ק הל' י"ד דלא כשמואל והכ"מ נדחק שם בזה:
+
+
+###### Rashash on Zevachim 84a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/84a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/84a:2)
+
+
+**שם נסכים הבאים עם הזבח אצ"ל כו'.**ק"ל מדוע ל"ק מנחה הבאה עם הזבח דקדים:
+
+
+###### Rashash on Zevachim 84a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/84a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/84a:3)
+
+
+**במשנה הרובע כו'.**התוי"ט דקדק מדוע לא תני הנוגח כמו בר"פ דלעיל. ולולי דמסתפינא הייתי אומר דלר' יהודה דפוטר שור ההקדש מן המיתה בב"ק (מד ב) ה"ה דמותר להקרבה. ול"ד לעפ"י עד אחד או עפ"י הבעלים דהתם שור בר מיתה הוא אלא שמחוסר עדים. והכא כולהו איירי כשאירעו פסולייהו לאחר שהוקדשו כמש"כ התוס' לקמן (ע"ב) בד"ה ומוציא. ועמש"כ בר"פ דלעיל בס"ד:
+
+
+###### Rashash on Zevachim 84a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/84a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/84a:4)
+
+
+**תד"ה זאת. אבל העולה קמא אתא לעולה ראשונה כו'.**וכ"כ בנדה (מ). וצ"ע דהתם מהעולה דוערך דבסוף הפרשה קדריש. ואם ר"ל דכמו דדריש התם עולה ראשונה ה"נ נדרוש הכא ל"י לאיזה ענין הוא. ולפי גי' הבה"ז כאן ברש"י דפסחים ע"ש יש ליישב קצת דבריהם. ואולי כוון לזה הבה"ז ולחנם השיג עליו הצ"ק. אח"ז מצאתי להצ"ק במנחות (כו ב) שעמד בזה ע"ד:
+
+
+###### Rashash on Zevachim 84a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/84a:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/84a:5)
+
+
+**בא"ד וא"ת הא ר"י סבר כו' רצפה מקדשה כו'.**עי' לקמן (פז) תד"ה כבש וצע"ק:
+
+
+
+## Daf 85a
+
+###### Rashash on Zevachim 85a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/85a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/85a:1)
+
+
+**גמרא אר"ז אף אנ"ת שנשפך דמה כו'.**נראה דכוונתו על הברייתא דלעיל (פד) שמפורשים בה בהדיא בדברי ר"ש שלא ירדו (ומשא"כ במתניתין דתני סתם רש"א לא תרד) ולכן אתיא לנכון הגי' ברש"י ד"ה והרי דקתני סיפא:
+
+
+
+## Daf 86a
+
+###### Rashash on Zevachim 86a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/86a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/86a:1)
+
+
+**ד"ה ואין מועלין. דכיון דה"ל כמעוכלין כו'.**זה אינו מספיק דהא אף באפר מועלין עד שתצא לבה"ד כדתנן בפ"ב דמעילה אלא הכא משום דפקעו ואין מצוה להחזירן:
+
+
+
+## Daf 86b
+
+###### Rashash on Zevachim 86b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/86b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/86b:1)
+
+
+**רש"י ד"ה היו תורמין. מלא המחתה.**עמש"כ בפסחים (כו) בדבריו:
+
+
+
+## Daf 87a
+
+###### Rashash on Zevachim 87a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/87a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/87a:1)
+
+
+**תד"ה לשולחן.**עי' כה"ד. ועמש"כ בזה דבר נכון בס"ד במנחות (ק):
+
+
+
+## Daf 88a
+
+###### Rashash on Zevachim 88a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/88a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/88a:1)
+
+
+**במשנה כלי הלח כו' ומדות יבש כו'.**עי' רש"י ותוס' שנדחקו. ולעד"נ לפרש כלי מלשון וכל בשליש (ישעיה מ) וזהו דאשמעינן שמואל ל"ש אלא מדות אבל מזרקות כו'. (ותמיהני על פרש"י וביותר על הרע"ב אחריו שפי' כלי הלח קערות ומזרקות נגד דברי שמואל. שוב התבוננתי בפרש"י וראיתי דמפרש דשמואל לא קאי אלא אסיפא אהא דאין כלי הלח מקדשות את היבש). ואולי שהונח מתחלה שרש כול על מדידת הלח. ומדוד על מדידת היבש. ואין סתירה מן מי מדד בשעלו מים. (ועי' תוס' מנחות ח ב ד"ה כלי הלח). וכל בשליש עפר הארץ. דגדולה מזו מצינו דאותיות שהן ממוצא אחד או הדומות בכתיבה וכיוצא באים לפעמים זו תחת זו כמו שנתבאר בספרי המדקדקים ומפרשי התנ"כ. ועוד יל"פ דהתנא רוצה לאשמעינן דכלי שאין לו תוך אינו מקדש (דכ"מ במנחות (עח ב) מב' לישני דר"פ ע"ש. ועי' עוד שם (בדף יא) בעי ר"פ דבקיה כו' מאי תוך כלי בעינן כו' (ובדף פז ב) בבעי' אחרונה דרמי ב"ח מר"ח) וכלי הלח ודאי יש לו תוך אבל כלי יבש אפשר להיות בלתי תוך. לכן קאמר מדת היבש וכלי מדה א"א בלא תוך. ואולי לזה כוון התוי"ט:
+
+
+###### Rashash on Zevachim 88a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/88a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/88a:2)
+
+
+**תד"ה אלא בפנים.**עמש"כ בסוכה ספ"ד בס"ד:
+
+
+
+## Daf 88b
+
+###### Rashash on Zevachim 88b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/88b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/88b:1)
+
+
+**רש"י ד"ה קנסות. לשון וקולסא דנחשא כו'.**ר"ל בחילוף דטלנ"ת:
+
+
+###### Rashash on Zevachim 88b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/88b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/88b:2)
+
+
+**רש"י ד"ה מראות נגעים. ולבנים של נתקי הראש כו'.**עי' בר"ש שם:
+
+
+
+## Daf 89a
+
+###### Rashash on Zevachim 89a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/89a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/89a:1)
+
+
+**גמרא א"ק תעשו שיהו כל העשיות שוות.**פי' משום דתעשו ע"כ הוה קאי גם על שבעת הימים:
+
+
+###### Rashash on Zevachim 89a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/89a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/89a:2)
+
+
+**רש"י ד"ה ועל היסוד. ובאשם לא מצינו שנאמרו.**ר"ל שנאמרו בו בפירוש. אבל מ"מ גם הוא טעון שפיכת שיריים ליסוד כדפרש"י לעיל (נא) ד"ה אל יסוד מזבח העולה. ועי' (נג ב) בתד"ה העולה. וזה ג"כ נקרא חומר מה שנאמר בפירוש כדפרש"י בברכות (כא) וע"ש בגה"ש:
+
+
+
+## Daf 90a
+
+###### Rashash on Zevachim 90a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/90a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/90a:1)
+
+
+**גמרא ומ"ס לא מיפסלי ביוצא.**עמש"כ במעילה פ"א מ"ב בס"ד. מש"כ התוי"ט דנ"ל דמתניתין אליבא דר"א כו' וכ"מ בסוגיא. ל"ד דז"א אלא לפי דקס"ד דפלוגתייהו בדהדר עיילינהו. אבל לר"פ דמוקי בדאיתנהו אבראי ורע"ס דזריקה מועלת ליוצא לענין מעילה כו'. ולאפסולי ודאי מיפסלי עי' בהראב"ד פ"א מהל' פהמ"ק הל' ל"ג ובתוס' במעילה שם בסה"פ. א"כ ר"א ור"ע שוין בזה. ולהרמב"ם שם יש קצת מקום לדבריו:
+
+
+
+## Daf 90b
+
+###### Rashash on Zevachim 90b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/90b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/90b:1)
+
+
+**גמרא פרים דחג נמי כמשפטם כתיב בהו.**מנחות (מד ב). לכאורה נראה דבשאר רגלים דלא כתיב בהו כמשפט. החטאות קודמין. וכן ברמב"ם פ"ט מהל' תומ"ס ה"ז לא כתב רק בקרבנות החג אינו כן. וכ"נ להדיא מהתוי"ט פ"ד דמנחות מ"ד ד"ה ולא המוספין. ודלא כתורע"ק אות ע"ז שכ' סתם וברגל כבשים קודמין. ואולי סברתו מדרשה דבמועדיכם הוקשו כל המועדים זל"ז. אבל ז"א דהא מכמשפט ילפינן נמי דקרבנות החג מעכבין זה את זה ובשאר רגלים אין מעכבין כמבואר במנחות (סוף ד' מד ור"ד מה). ואפשר דדבר זה מתמ"ר לא למדנו מדברי יחזקאל למדנו כמו שדרשו שם מקרא דוביום החדש כו'. ורש"י ביחזקאל פי' נמי ג"כ בשארי רגלים ע"ש (מ"ה כ"ג. ומ"ו ד'):
+
+
+###### Rashash on Zevachim 90b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/90b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/90b:2)
+
+
+**תד"ה חוץ. א"נ כו' לאו בחטאת הבאה עם האשם כו'.**כ' הצ"ק פי' כו' אבל חטאת מצורע קודמת לאשמו. ואשתמיטתיה גמרא דמנחות (ה) הקדים חטאתו לאשמו כו' תעובר צורתה ותצא לבה"ש והתוס' הביאוה לעיל (ה) ד"ה עולתה. וכוונת התוס' נראה דהתנא לא איירי בכאן לאשמעינן דאשם מצורע קודם לחטאתו דזיל קרי בי רב הוא כמש"כ התוס' שם. וכמו דלא תני כל החטאות קודמות לעולות חוץ מחטאות החג ושעירי ע"ז שהן מאוחרות לעולות הבאות עמהן כדלעיל בגמרא. אלא דאשמעינן דאף לשאר חטאות אשם מצורע קדים מפני שהוא בא להכשיר. ועוד יל"פ כוונה אחרת בדבריהם והוא דמש"כ בקושייתם אדרבה חטאת מצורע עדיף כו' ומכפר. חילייהו הוא מדקתני מתניתין כל החטאות כו' קודמות דמשמע אפי' חטאת מצורע וא"כ ע"כ לא גרע משאר חטאות דמכפרין וע"ז תירצו דלא מיירי בחטאת מצורע וא"כ איכא למימר דבאמת לא מכפר. ועי' ערכין (יז ב) רש"ס דבר המכפרו ורי"ס דבר המכשירו וע"ש בפרש"י ותוס'. ולמדנו משם דחטאתו נקראת מכפר ולא מכשיר:
+
+
+###### Rashash on Zevachim 90b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/90b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/90b:3)
+
+
+**ואגב**עיוני ראיתי ברש"י בפסחים (נט ב) אהא דיליף שם דעולת מצורע אם הקדים לחטאתו יצא בדיעבד מדכתיב והעלה הכהן את העולה שהעלה כבר. וכ' מדה"ל למיכתב ואת העולה יעלה וכתיב והעלה משמע אפי' הביא העולה קודם לחטאת יכפר. משמע דר"ל משום דוהעלה הוא עבר מבנין הפעיל רק דהו' שואית מהפכו לעתיד. אבל מ"מ מדה"ל למכתב יעלה דהוא עתיד מבורר וכתיב והעלה דרשינן ליה נמי לעבר ממש והו' הוא ו' העיטוף. אבל ק"ל דא"כ נידרוש נמי מדכתיב ועשה הכהן את החטאת ולא כתיב יעשה. שעשה כבר וליתכשר בדיעבד אם הקדים חטאתו לאשמו וכבר הבאתי ממנחות דאפי' בדיעבד פסולה. ואפשר לומר דש"ה דכבר התחיל המקרא לדבר בעשיית העולה בלשון עתיד מבורר ואחר ישחט את העולה ובתר הכי אמר והעלה. ולולי פרש"י הנ"ל לומר דהדרש הוא מתיבות את העולה דמיותרות דהא כבר עסיק בה וה"ל והעלה במפיק ה' או והעלה אותה. לכן דרשינן את העולה העשויה כבר ע"ד דדרשינן העולה עולה ראשונה שם (נח ב) וש"מ:
+
+
+###### Rashash on Zevachim 90b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/90b:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/90b:4)
+
+
+**במשנה רשאין לשנות באכילתן כו'.**עתוי"ט שנדחק בפי' לישנא דלשנות. ול"נ דהכוונה דיכולין לשנות אכילתן מאכילת המזבח דהיא דרך צלי על האש אבל הם רשאין לאוכלן צלויין ושלוקין כו'. והתוספתא שמבארת במנחות הוא לרבותא יותר דהא מחבת ומרחשת ומאפה תנור כבר הן מתוקנות לאכילה ואפ"ה רשאין לשנותן לאיזה אופן שירצו:
+
+
+###### Rashash on Zevachim 90b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/90b:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/90b:5)
+
+
+**רש"י ד"ה ובאין בכסף שקלים. ואתי אשם תלוי כו' בגז"ש בערכך כו'.**וכ"כ הרע"ב אחריו כאן ובכריתות פ"ו מ"ו. ונ"ל דל"ד דלפי המתבאר לעיל (מח) וע"ש בתד"ה גמר. ובכריתות (כב ב) לרבנן דר"ע שם דהל' כוותייהו לא ילפינן א"ת אלא מואם נפש ו' מוסיף על ענין ראשון. וע"ע מש"כ לעיל (מח):
+
+
+###### Rashash on Zevachim 90b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/90b:6](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/90b:6)
+
+
+**רש"י ד"ה שלמים שבאו אמש. ושהו עד היום לשחטן.**כן העתיקו התוי"ט וע"ש:
+
+
+###### Rashash on Zevachim 90b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/90b:7](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/90b:7)
+
+
+**גמרא איבעיא להו תדיר ומקודש איזה מהם קודם כו'.**ולא איפשטא. וכתב הרע"ב ונראה דתדיר קודם. וכ' התוי"ט טעמו משום דתדיר מקרא נ"ל אבל למקודש ל"ל קרא כו'. לכאורה אישתמיטתיה גמרא דהוריות (ס"ד יב) וכל המקודש מחבירו קודם א"ח מנלן דתניא וקדשתו כו' והביאה ג"כ הרע"ב שם עי' תשובת ש"א סי' כ"ח. אבל נ"ל דכוונת הגמרא שם איננה אלא להביא ראיה מתדבר"י דהקדמה הוא מענין קדושה ולכן ממילא מוכח דדבר המקודש יותר ראוי להקדימו לדבר שקדושתו פחותה ממנו:
+
+
+###### Rashash on Zevachim 90b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/90b:8](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/90b:8)
+
+
+**תד"ה תדיר. ונראה כל"א שפי' בקונטרס עולת מוספי ר"ח כו'.**נראה דה"ה עולת תמיד ופר העדה לענין עבודת הדם. ולא נקטי עולת ר"ח אלא כי היכי דנוכל לפרש אף לענין הקטרה ודלא כהצ"ק:
+
+
+
+## Daf 91a
+
+###### Rashash on Zevachim 91a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/91a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/91a:1)
+
+
+**רש"י ד"ה ויהיה אחר ממרס. את הראוי ליקדם ולזרקו.**כצ"ל:
+
+
+
+## Daf 92a
+
+###### Rashash on Zevachim 92a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/92a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/92a:1)
+
+
+**תד"ה ושקבלו פסולין. או זרקו כו' ואין הנותר במזרק כשר כו'.**ק"ל כיון דפי' וזרקו היינו או זרקו והמכוון שקבלו כשרין א"כ היתה לה שעת הכושר. ונראה דמשום זה קאמר במעילה (ה ב) דמעילה דוקא דמשמע אבל דדם חטאת לאו דוקא ודלא כתוס' שם ע"ש בסוגיא ותבין:
+
+
+
+## Daf 93a
+
+###### Rashash on Zevachim 93a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/93a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/93a:1)
+
+
+**גמרא ת"ר מדמה כו' ולא מדם פסולה כו' רע"א כו' ורש"א כו' ור"ש לטעמיה דאמר קדק"ל אין טעונין מו"ש.**עי' לח"מ פ"ח מהל' מעה"ק ה"ג שהקשה על הרמב"ם דמזכה שטרא לבי תרי דהכא פסק כר"ש והתם פסק כר"י וכן הקשו התוי"ט והבה"ז. ולעד"נ דחיליה דהרמב"ם מהא דלקמן אחר משנה הסמוכה ת"ר יכול ניתז מן הצואר על הבגד יהא טעון כבוס ת"ל אשר יזה לא אמרתי לך אלא בראוי להזאה. ומזה נילף מק"ו להיכא שלא היתה לה שעת הכושר כגון שנשחטה חוץ לזמנה כו' דהא בניתז מן הצואר רגע קודם נפילתה על הבגד ראויה היתה להתקבל בכלי ולהזות (עי' תד"ה ניתז) ממעטינן מחמת שאינה ראויה להזאה כמות שהיא בלתי מעשה הקבלה בכלי כש"כ נשחטה חוץ לזמנה שאינה ראויה כלל להזאה וכן רש"י במשנה ר"פ פי' הטעם דפסולה א"ט כבוס מדכתיב אשר יזה כו' וא"כ ע"כ מדמה אתי למעוטי שהיתה לה שעת הכושר ואותה פרט לתרומה וכן הרמב"ם בפי' לא הביא אלא מיעוט אחד דמדמה ונכון בעז"ה:
+
+
+
+## Daf 93b
+
+###### Rashash on Zevachim 93b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/93b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/93b:1)
+
+
+**גמרא מאי לאו ה"ק כו' משגמר להזות א"ט כבוס.**לכאורה הא עדיין איכא נתינה על הקרנות דמזבח הקטורת. ונ"ל דגם הניתן שם נכלל בשם הזאה בדרך השאלה. וכן מצינו במשנה דמגילה ספ"ב דכוללה בהזאות ג"כ זריקות ומתנות ע"ש בפרש"י ד"ה הזיה. וכן בקדושין (לו) ע"ש בתד"ה הקבלות. או י"ל דכאן מיירי בפר ושעיר דיוה"כ דאית בהו ז' הזיות ע"ג המזבח אחר מתן הקרנות:
+
+
+###### Rashash on Zevachim 93b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/93b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/93b:2)
+
+
+**ד"ה זה חומר. אכיבוס קאי.**אבל הרמב"ם מפרש דקאי נמי אשבירת כ"ח. ולומר דבשאר קדשים אף כ"ח סגי במריקה ושטיפה. וכ"כ בחבורו בפ"ח מהל' מעה"ק הי"ד. ולכאורה קשה מהא דאמרי' בפסחים (למ"ד ב ושם) התורה העידה על כ"ח שא"י מידי דופיו לעולם. והרי מהני בהו מו"ש בשאר קדשים. וי"ל דקדשים שאני מפני דהתירא בלעו כדמשני ר"א בשלהי מס' ע"ז לענין שפוד ואסכלא. ומ"מ ילפינן לענין איסורא מהא דאף בחטאת בכלי נחושת התירה התורה ע"י מו"ש ובכ"ח הצריכה שבירה עי' תוס' פסחים שם ד"ה התורה. והא דאמרינן שם לענין חמץ התורה העידה כו' אע"ג דהתירא הוא דבלע. וכ"מ שם ג"כ לענין בשר בחלב דלא מהני להו אלא הסקה. איכא למימר כמש"כ הר"ן שם בשם הרמב"ן דחמץ כיון דשמו עליו לא מיקרי התירא ע"ש. וכן בבו"ח א"ל האי טעמא. וזה דלא כהה"מ בפ"ה מהל' חמץ הכ"ג בדעת הרמב"ם דחמץ מיקרי התירא בלע ע"ש:
+
+
+###### Rashash on Zevachim 93b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/93b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/93b:3)
+
+
+**גמרא**(בסה"ע) ר' אלעזר אומר בגד כו'. כצ"ל בל"י כבמתניתין וכצ"ל בפרש"י:
+
+
+###### Rashash on Zevachim 93b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/93b:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/93b:4)
+
+
+**תד"ה מנין. אבל אם קצעה או לא חשב כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 93b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/93b:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/93b:5)
+
+
+**בא"ד**(בדף השני) וי"ל דאע"ג דמקבל טומאה במחשבה כיון דלא מיחדו לישיבה כו'. כן העתיקם המ"א בסי' ש"ח ס"ק כ"ד:
+
+
+
+## Daf 94a
+
+###### Rashash on Zevachim 94a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/94a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/94a:1)
+
+
+**גמרא מטלית פחותה משלש א"ב.**מהרמב"ם וכ"מ בפכ"ב מהל' כלים הכ"א נראה להדיא דהיה הגי' לפניהם פחותה משלשה. אבל מדברי התוס' בסוכה (טז) ד"ה דלא ובנדה (ס ב) ד"ה במטלניות ובר"ש פכ"ח דכלים מ"ח מוכח להדיא דגרסי כגי' שלפנינו:
+
+
+
+## Daf 95a
+
+###### Rashash on Zevachim 95a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/95a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/95a:1)
+
+
+**רש"י ד"ה והא בעי. ובורית ואהל.**בשבת (צ) ובנדה (סב) מסיק דבורית ואהל חדא הם והז' חשיב שם במשנה מי גריסין ע"ש:
+
+
+
+## Daf 96a
+
+###### Rashash on Zevachim 96a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/96a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/96a:1)
+
+
+**רש"י ד"ה בקלנבו. שנקרא ע"ש ע"ז.**כ"ה בסנהדרין (סג ב) ע"ש:
+
+
+
+## Daf 96b
+
+###### Rashash on Zevachim 96b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/96b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/96b:1)
+
+
+**במשנה מריקה ושטיפה כו'.**בתוי"ט ולפ"ז גרסי' מריקה ושטיפה בצונן כו' ונ"א דגרסי מריקה בחמין כו' היא גי' הרמב"ם. ול"נ דאינו מוכרח דהרמב"ם גורס בהדיא חמין. ומש"כ ואמרו מריקה בחמין לא קאי אמתניתין אלא על חכמים דברייתא. ותדע דאמר ע"ז ואמרו ל"ר ועל כמריקת הכוס כתב ומה שאמר בל"י. ואפ"ה מפרש כוונת המשנה לדעת החכמים כמו שמפרש רבה בשלהי ע"ז כמש"כ התוס' כאן ד"ה השפוד. ואביי דמקשה ליה הוא משטיפה דלכ"ע בצונן. ורש"י ע"כ יאמר דגם רבה ל"ג וכפי מש"כ ראשונה ואביי פליג עליה בפירושא:
+
+
+
+## Daf 97a
+
+###### Rashash on Zevachim 97a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/97a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/97a:1)
+
+
+**ד"ה הרי הקלים. ליום ולילה.**הן בקק"ל יש ג"כ שאינו אלא ליום ולילה כגון תודה ואיל נזיר. יותר ה"ל לפרש לזכרי כהונה ועמש"כ עליו לקמן (קא ב):
+
+
+
+## Daf 97b
+
+###### Rashash on Zevachim 97b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/97b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/97b:1)
+
+
+**רש"י ד"ה עד שיבלע. כגון המהתך שומן כו'.**כצ"ל:
+
+
+
+## Daf 98b
+
+###### Rashash on Zevachim 98b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/98b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/98b:1)
+
+
+**במשנה לאכול בערב.**וכ' התוי"ט משום טבו"י נקט לה. והוא מדברי תוס' דהכא ודרפ"ג דחגיגה. וגם תירוץ התו"ח איתא בדבריהם כאן. ושם ונראה שלא ראם. גם נשתבש בדברי התוי"ט שהבין בו שהטבילה לחוד מעכבתו מחלוקה. די"ל דכוונתו שלא הביא עדיין כפרתו. אבל לדינא נוכל לומר דאפי' הביא כפרתו אלא שלא טבל ג"כ אינו חולק וכ"כ הצ"ק בשם בה"ז וקלסי'. ומאי דפשיטא ליה להתו"ח כיון דמה"ת ראוי הוא. אין איסור דמד"ס מעכבתו מחלוקה. אונן ביום קבורה יוכיח לאוקימתא דרב אסי לקמן (צט ב) דג"כ אינו אלא מדרבנן ואינו חולק:
+
+
+###### Rashash on Zevachim 98b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/98b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/98b:2)
+
+
+**שם וכל שאין לו בבשר כו'.**מש"כ התוי"ט בשם כך מצאתי. היא גמרא ערוכה בפרקין (קג ב) ע"ש ופלא הוא:
+
+
+
+## Daf 99a
+
+###### Rashash on Zevachim 99a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/99a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/99a:1)
+
+
+רש"י [**ד"ה הפוסלני******(בסה"ע)**. וכן לגבי תרומה באומר נשמרתי כו'.**כצ"ל:
+
+
+
+## Daf 99b
+
+###### Rashash on Zevachim 99b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/99b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/99b:1)
+
+
+**גמרא מאן תנא אנינות לילה דרבנן**(ולקמן) תדע כו'. ק"ל דהא כ' התוס' לעיל (לג ב) בד"ה לענין. דעשה דפסח שיש בו כרת דוחה לעשה ול"ת ולא בעינן גם כן בעידנא. ואיסור אכילת אונן בקדשים ילפינן לקמן (קא) מק"ו ממעשר הקל ושם אינו אלא ל"ת. וכן הרמב"ם בפי"ט מהל' סנהדרין חשבו בין הל"ת שאין בהם כרת ולא מיתת ב"ד (ודרך אגב נ"ל דט"ס ברמב"ם וצ"ל ולא מיתה ביד"ש ע"ש ותבין) באות ס"ח (וחוץ לעניננו ק"ל במה שחייב מלקות לאונן באכילת קדשים והא לא ילפינן לה אלא בק"ו ממעשר ואין עונשין מה"ד). בשלמא לרבא לקמן (ק ב) דמיירי שמת לו מת לאחר ששחטו וזרקו עליו דאז האכילה אינה אלא למצוה בעלמא כמש"כ התוס' שם שפיר. אבל לאינך אמוראי דמיירי דמת קודם ששחטו וזרקו עליו הא בשעת שחיטה לכ"ע בעינן גברא דחזי לאכילה כדמוכח בפסחים (עח ב) ולידחי. וזהו כוונת התוס' לקמן בד"ה אר"ח במש"כ א"כ היכי דייק כו'. והבה"ז והצ"ק ל"ד במחכ"ת וגם פרש"י לקמן (ק) בד"ה אביי תמוה לפ"ז במש"כ ואכילת פסחים ל"מ לאביי וצ"ע:
+
+
+###### Rashash on Zevachim 99b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/99b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/99b:2)
+
+
+**רש"י ד"ה והעצים. המתנדב עצים מביא קרבן עמהם.**ק"ל דאמאי לא פי' כפשוטו דעצים גופייהו איקרי קרבן עי' מנחות (כ ב):
+
+
+###### Rashash on Zevachim 99b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/99b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/99b:3)
+
+
+**תד"ה אר"ח. הקרבה ביום אסור כחטאת כו'.**כצ"ל בכ"ף:
+
+
+
+## Daf 101b
+
+###### Rashash on Zevachim 101b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/101b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/101b:1)
+
+
+**גמרא**(בסה"ע) וכדברי האומר יש מנחה בבמה. ולכאורה למ"ד אין מנחה בבמה יקשה ומן הקדשים ל"ל. וע"כ צ"ל אליביה טעם אחר. או מילתא דאתי מק"ו טרח וכתב לה קרא. וא"כ גם רב גופיה מצי סבר דאין מנחה בבמה. אלא דברייתא זו סוברת דיש מנחה בבמה. והוצרכתי לכתוב זה מפני שראיתי למחבר זמנינו שהקשה מכאן על התוס' לעיל (סח ב) ד"ה ונילף שכ' דהוי מצי לשנויי דרב סבר כמ"ד אין מנחה בבמה. אך הא ק"ל דסתם סיפרא מני ר"י והוא סובר לקמן (קיג) דאין מנחה בבמה. עי' שבת (ר"ד קלז) וש"ד:
+
+
+###### Rashash on Zevachim 101b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/101b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/101b:2)
+
+
+**רש"י ד"ה לייחס. שלא היה כה"ג אלא מפנחס.**וכ"כ התוס'. וק"ל דהא עד אביתר שנסתלק בימי דוד היו כה"ג מזרע איתמר. עי' סוטה (מח ב) ובפרש"י שם. ובפירושו לשמואל (א' ב ל):
+
+
+###### Rashash on Zevachim 101b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/101b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/101b:3)
+
+
+**רש"י ד"ה שהרי הותרו לזר. וקדק"ד היה כו' ולא נאכל אלא ליום ולילה.**תמוה דתודה ואיל נזיר ג"כ א"נ אלא ליום ולילה והן קדק"ל. ועמש"כ עליו לעיל (צז):
+
+
+###### Rashash on Zevachim 101b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/101b:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/101b:4)
+
+
+**רש"י ד"ה בקדשים קלים. לא יחלוק כו' חולק בהן.**וכן לקמן בד"ה לא בבמה. הזכיר חלוקה. האי קרא מוקמינן לקמן (קב) לענין אכילה. ולחלוקה ילפינן מקרא אחר מן כל זכר. ול"י מאי דחקו לפרש כן דהא המורם מהם (ר"ל מקק"ל) תנן בפ' איזהו דאינו נאכל אלא לכהנים כו'. ובבמה דהותר לזר הוא משום דשם אין שם קדושה עליהן יותר משאר הבשר כיון דאין נוהגין בה:
+
+
+
+## Daf 102b
+
+###### Rashash on Zevachim 102b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/102b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/102b:1)
+
+
+**גמרא דתניא אבא שאול אומר לעולם אינו אוכל כו'.**נראה דצ"ל אינו חולק וכ"ה בתוספתא פי"ג דמנחות ע"ש בשינוי לשון קצת ושם איתא ר' נהוראי:
+
+
+###### Rashash on Zevachim 102b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/102b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/102b:2)
+
+
+**שם בעי ר"א נטמא בינתיים מהו.**ר"ל וגם נטהר בינתיים:
+
+
+###### Rashash on Zevachim 102b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/102b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/102b:3)
+
+
+**שם תן לי מחזה ושוק ואוכל א"ל ומה במקום שיפה כחך בחטאתך כו'.**נראה דצ"ל בחטאת בלא כינוי ור"ל שכולה לכהנים. ומחטאת ישראל שהוסיף הרש"ק הוא לחנם:
+
+
+###### Rashash on Zevachim 102b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/102b:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/102b:4)
+
+
+**רש"י ד"ה שכשם שהורע כחך. במנחתך כך הורע כחי במנחתי.**כצ"ל:
+
+
+###### Rashash on Zevachim 102b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/102b:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/102b:5)
+
+
+**רש"י ד"ה את דמם. ואע"ג דאין בכור נאכל במחלוקת כו'.**לע"ד נראה דנ"מ היכא דנתנו ישראל לאותו בית אב בכלל:
+
+
+
+## Daf 103a
+
+###### Rashash on Zevachim 103a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/103a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/103a:1)
+
+
+**במשנה עולה שנשחטה שלא לשמה כו' עורה לכהנים.**בפי' הרמב"ם ומה שאמר שעלתה לאיש כו' ר"ל עלתה לגבי המזבח. ודוחק דהא קרא קאמר עולת איש. וכן המשנה אומרת שעלתה לאיש. ול"נ לפרש דעלתה לאיש לשם נדבה כדאיתא בריש מכלתין. וע"ד דאמרי' בערכין פ"ח מ"ז כמה אדם רוצה ליתן כו' להעלותו עולה שאינו רשאי:
+
+
+###### Rashash on Zevachim 103a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/103a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/103a:2)
+
+
+**שם ואחד עולת האשה כו'.**בפי' הרמב"ם ומה שאמר איש פרט לעולת הקדש כו'. תימה וכי סני ליה דרשה דמתניתין עולה שעלתה לאיש וכ"ה בברייתא לקמן בסה"ע. ואולי דהרמב"ם דינא הוא דאתי לאשמעינן ותרתי שמעת מיניה:
+
+
+###### Rashash on Zevachim 103a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/103a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/103a:3)
+
+
+**תד"ה אלא. וי"ל דל"ש ליה כו'.**ק"ל דהא מתניתין נמי היא בפ"ו דשקלים מ"ה וששה לנדבה כו' דברי ר"י. ואפי' את"ל דלא קאי רק על פירושא דקינין כו'. מ"מ משמע דל"פ על הא דששה לנדבה. ולעד"נ דדברי ר"י בברייתא שלפנינו (ר"ל הראשונה) הוא ט"ס דכ"מ מהא דקאמר רב המנונא לקמן כמאן כר"י. ופרש"י לקמן מייתי לה דאמר כו'. משמע דכאן ל"ג ליה:
+
+
+
+## Daf 103b
+
+###### Rashash on Zevachim 103b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/103b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/103b:1)
+
+
+**גמרא רי"ש אומר כו' ודין הוא ומה עולה כו'.**וכ' התוי"ט דלדידיה ל"צ מיעוט לקק"ל דליכא למילפינהו מק"ו מעולה דאינה קדק"ד כמוה. ואני אומר דלקק"ל ליכא ק"ו דמה לעולה דלא זכו בה הבעלים כלום משא"כ בקק"ל דזכו בם בבשרם:
+
+
+###### Rashash on Zevachim 103b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/103b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/103b:2)
+
+
+**שם לו יהיה פרט לטבו"י ומחו"כ ואונן שיכול כו'.**מה שנדפס בגליון בשם רש"ק למחוק ומחו"כ ל"י על מה. וכן בסמוך גרסינן ת"ל לו יהיה פרט למחו"כ ומשם לא מחק:
+
+
+###### Rashash on Zevachim 103b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/103b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/103b:3)
+
+
+**שם אמר אביי מדסיפא כו'.**יבמות (קג) וש"נ:
+
+
+###### Rashash on Zevachim 103b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/103b:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/103b:4)
+
+
+**רש"י ד"ה תיפוק ליה. כדנפקא ליה לרבי.**תמוה דנראה דדרשה דלו יהיה שבברייתא איננה מדברי רבי אלא סתמא היא ואתאן לת"ק. דלרבי האי אשר הקריב מיותר ג"כ כמו לרי"ש וע"כ לדידיה נמי למעוטי טבול יום וכו' וע"כ לו יהיה לדרשה דרי"ש לעצמות:
+
+
+
+## Daf 104a
+
+###### Rashash on Zevachim 104a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/104a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/104a:1)
+
+
+**גמרא והלכתא כחכמים.**פשוט דזהו מסתמא דגמרא ודלא כרחב"א אר"י דפסק כר"ע וכ"נ מפרש"י כאן ומתוס' בכורות (לב ב). ומדברי הרמב"ם והרע"ב אחריו נראה שמפרשים דגם זה הוא מדברי רחב"א אר"י ותמוה:
+
+
+
+## Daf 104b
+
+###### Rashash on Zevachim 104b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/104b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/104b:1)
+
+
+**גמרא שנאמר הבירה אשר הכינותי.**כצ"ל:
+
+
+
+## Daf 105a
+
+###### Rashash on Zevachim 105a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/105a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/105a:1)
+
+
+**גמרא מי אמרינן כיון דנפקי להו איטמו להו.**עי' בהראב"ד בפ"ה מהל' פרה ה"ה שכ' דלפי' הרמב"ם שהוא כפי' התוס' צ"ל מיטמו להו:
+
+
+###### Rashash on Zevachim 105a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/105a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/105a:2)
+
+
+**שם צריכין הכשר טומאה ממקום אחר.**עפרש"י דר"ל דחזי לטומאה מיהא בעי. ודעת הראב"ד פ"ג מהל' אה"ט ה"ג דגם הכשר מים בעי לרבנן. ועי' חולין (קיח) פירות שלא הוכשרו כתנור שלא נגמרה מלאכתו דמי (ובכ"מ שם בדעת הראב"ד ט"ס) וכ"נ דעת רש"י מדלא הזכיר כאן הכשר מים כדלעיל בתנא דבר"י. רק דחלוקין בפי' הכשר טומאה דלרש"י היינו נגיעת שרץ וקאי על זרעים דקרא (והתוס' בב"ק (עז) גרסי אין צריכין כו' וע"ש) ולהראב"ד היינו הכשר מים וקאי על אותן שמטמאין טומאה חמורה. ולפ"ז מתפרש יפה הא דאמר לקמן (ע"ב) והא קתני רישא צריכה מחשבה וא"צ הכשר ומאן שמעת ליה האי סברא ר"מ (ובגליון ציין ע"ז וצ"ע רב) דלרבנן הא בעי הכשר מים. וסתם הכשר בכ"מ הוא הכשר מים עי' עוקצין פ"ג מ"ג בתוי"ט ד"ה והחלב בשם הר"ש. וכפרש"י בבכורות (י) ובכריתות (כא). ובנדה (נא) דקאמר על משנה זו (דהא דאיתא התם והתנן ג' דברים כו' ושלא כסדרן במשנה נ"ל דט"ס הוא וצ"ל י"ג וכסדרן במשנה) נהי דהכשר שרץ ל"ב הכשר מים בעיא ה"מ לאקשויי הא סתם הכשר הוא הכשר מים כדפריך הכא וכדפי' אלא דעדיפא מקשה. אולם קשה מדוע לא משני שם דרבנן דאמרו לו ס"ל כחכמים דהכא דבעי' הכשר מים. ונ"ל דזהו כוונת הראב"ד שם בסופו מש"כ וסוגיין נמי בכולי גמרא כרי"ש דל"ב לא הכשר מים ולא הכשר שרץ. וכן בחולין (קכא) אזלא הסוגיא כתנא דבר"י. ועי' תוס' ב"ק שם דמשמע דה"ל גי' אחרת כאן:
+
+
+###### Rashash on Zevachim 105a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/105a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/105a:3)
+
+
+**רש"י ד"ה השורף פ"א. פר כה"מ ופהע"ד גמרי מקרא יתירא כו'.**כצ"ל ולמחוק תיבות ופר יוה"כ:
+
+
+###### Rashash on Zevachim 105a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/105a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/105a:4)
+
+
+**תד"ה מחוסר**(בע"ב
+
+
+###### Rashash on Zevachim 105a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/105a:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/105a:5)
+
+
+**. ובירושלמי כו' מהו שיטמא בגדים כו'.**נ"ל דט"ס הוא וצ"ל בפנים ודלא כק"ע שם:
+
+
+
+## Daf 105b
+
+###### Rashash on Zevachim 105b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/105b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/105b:1)
+
+
+**רש"י ד"ה ומטמאה ט"א בכביצה. ואי דנקיט לה בפומיה כו' אין לך מחשבה גדולה מזו.**צ"ע מהא דאיתא בנדה (נ ב) אריב"נ ק"ו אם מטמאה טומאה חמורה שלא במחשבה ופרש"י כגון האוכלה כו' ואפי' לא חשב עליה כגון שלא ידע שזה הוא. ועוד תימה מדוע לא פי' כאן בפשוטיה דאי נקיט לה בפומיה ודאי לא בעי כביצה כדאמר דנקיט בפומיה לא תיבעי לך:
+
+
+###### Rashash on Zevachim 105b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/105b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/105b:2)
+
+
+**גמרא דת"ר להלן כו' כאן למחנה אחת לומר לך כו'.**ועפרש"י דמאל מחוץ למחנה הכתוב גבי פר ושעיר דיוה"כ יליף לה. והתוי"ט העתיק מפי' הרמב"ם וסמכוהו למה שנאמר בפהע"ד והוציא את כל הפר כו' אמרו כיון כו' (וע"כ ט"ס הוא וצ"ל למה שנאמר בפר כהן משיח. או למחוק מלת כל והתוי"ט לא הרגיש בזה והעתיק בשבוש כאשר הוא בפי' הרמב"ם) וצ"ל דגי' אחרת היה לפניו בגמרא ותו"כ. והתוי"ט לא העיר בזה. ולא עוד אלא שביומא פ"ו מ"ז הביא הגמרא ופרש"י כמו שהוא לפנינו:
+
+
+
+## Daf 106a
+
+###### Rashash on Zevachim 106a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/106a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/106a:1)
+
+
+**גמרא יכול אף משנעשה אפר כו'.**וכן העתיק הרע"ב. ותמה עליו התוי"ט דהל"ל לאחר שניתך כלישנא דמתניתין. ופשוט דהרע"ב כתב כן אליבא דהלכתא שפוסק כת"ק דברייתא וכ"פ הרמב"ם בחבורו. ונראה שהם מפרשים דניתך הבשר דמתניתין הוא סיום דברי ר"ש (ולא מסתם מתניתין) וכמו דשמעינן ליה בברייתא לגי' שלפנינו:
+
+
+###### Rashash on Zevachim 106a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/106a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/106a:2)
+
+
+**רש"י ד"ה דשויא חרוכא. דאותם קרינן בהו אבל פר לא מיקרי.**כ"נ דצ"ל. והיה הגי' לפניו בדברי ר"ש הפר מטמא כו' כביומא ספ"ו ע"ש ובפירושו:
+
+
+###### Rashash on Zevachim 106a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/106a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/106a:3)
+
+
+**במשנה א"ל אף השוחט בפנים כו'.**בתור"ע תמה מה זו שאלה הלא לקמן (ר"ד קט) תנן אחד כו' שהיה פסולן בקדש כו' חייב. וכן קשה לרבי ע"ש. ול"נ דע"כ כלל זה ל"ד דהתנן שם (ע"ב) וכלם שחסרו כ"ש כו' פטור. והרי היה להם שעת הכושר ואם עלו ל"י. ויוצא הוה דומיא דפסול חסרון כדאמרי' לקמן (קי) מה לי חסר מה לי יצא:
+
+
+###### Rashash on Zevachim 106a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/106a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/106a:4)
+
+
+**רש"י ד"ה עד כאן. עד המקרא הזה דלא יזבחו כו'.**לכאורה ה"ל לפרש עד מקרא דלמען וכדמסיק וכ"מ להדיא בתו"כ ע"ש:
+
+
+###### Rashash on Zevachim 106a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/106a:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/106a:5)
+
+
+**בסה"ד ועל העלאת חוץ.**נראה למחוק דזה כתיב אחריו. והתוי"ט העתיקו בפרק דלקמן מ"ט כמו שהוא לפנינו ולא הרגיש:
+
+
+
+## Daf 106b
+
+###### Rashash on Zevachim 106b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/106b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/106b:1)
+
+
+**רש"י ד"ה זאת להם. עונש עשה ול"ת כו'.**והרע"ב שם מפרש זאת להם ר"ל דוקא דומיא דמדבר היינו שהקדישן בשעת איסור הבמות חייב כרת ולא אחרת היינו שהקדישן בשעת היתר הבמות. והתוי"ט ל"ד בהעתיקו עליו הגמרא בפרש"י:
+
+
+###### Rashash on Zevachim 106b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/106b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/106b:2)
+
+
+**גמרא משביעית.**ע"כ אין הכוונה מאיסור עבודת קרקע שבה. דא"כ טובא לאוי איכא בכגון זה לבישת שעטנז. כלאי בהמה בהנהגה ובהרבעה. כלאי זרעים. לא תחסום וכדומה. אלא ע"כ יכוון כאן על אכילת פירותיה שלא כדין. אמנם בעניותי לא מצאתי בהם לאו מפורש. וביומא (פג) איתא טבל ושביעית שביעית ופירש"י אחר זמן הביעור דהוי בעשה. משמע שגם הוא ז"ל ל"מ בה איסור לאו. דאל"כ הוה רבותא טפי דאע"פ שיש בה לאו מ"מ קילא מטבל וכמו טבל ונבלה. ובאמת ק"ל שם מדוע ל"ק הברייתא רבותא טפי דנבלה ושביעית שביעית וממילא הוה ידעינן הא דטבל ושביעית דהא אפי' נבלה קודמת לטבל. וברמב"ם פי"ד מהל' מ"א כתוב בבא זו דנבלה ושביעית ומשמע שכן היה לפניו הגי' בגמרא. והמ"א בסי' תרי"ח ס"ק ט' העתיק מהגמרא נבלה ושביעית תחת טבל ושביעית שבנוסחתינו ואולי מצא כן בגמרות שלפניו והיא גי' נכונה מאד. אולם יש לפלפל בזה לפי חלוקי הדעות אם עשה דוחה עשה או לא עי' בש"א תשו' ל"ג:
+
+
+###### Rashash on Zevachim 106b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/106b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/106b:3)
+
+
+**רש"י ד"ה אפי' למ"ד. ואילו אחותך היא כו' לא אפנייה כו'.**כצ"ל:
+
+
+
+## Daf 107a
+
+###### Rashash on Zevachim 107a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/107a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/107a:1)
+
+
+**גמרא דם יחשב לרבות הזורק.**נ"ל דעיקר דרשה הוא מדם שפך דבתריה וכ"נ מפרש"י כאן וכ"מ להדיא מדבריו לקמן בד"ה ההוא מבע"ל השוחט כו'. וכ"פ בסנהדרין (לד ב) ובפי' התורה ודלא כהצ"ק שהגיה לקמן (ע"ב) בדבריו בד"ה שחט וזרק:
+
+
+###### Rashash on Zevachim 107a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/107a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/107a:2)
+
+
+**רש"י ד"ה והא דתנן. דתנן כה"נ על מזבח החיצון כו'.**משמע דחטאות הפנימיות דמעכבין זא"ז א"ח על מקצת דמים. ולקמן (קי ב) א"ר דאפי' בהן חייב ע"ש בפרש"י ותוס':
+
+
+###### Rashash on Zevachim 107a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/107a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/107a:3)
+
+
+**רש"י ד"ה אותו. שלם משמע.**וכה"ג דרשינן בחולין (סט) אותה שלמה ולא חסירה. והתם לכ"ע בהמה שלמה משמע משום דהתם קאי אבהמה דכתיב לעיל מינה. אבל הכא דכתיב קודם אשר יעלה עולה או זבח פליגי בה:
+
+
+###### Rashash on Zevachim 107a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/107a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/107a:4)
+
+
+**רש"י ד"ה ורי"ש נ"ל. דמצי למיכתב או מחוץ למחנה.**כצ"ל:
+
+
+
+## Daf 108b
+
+###### Rashash on Zevachim 108b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/108b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/108b:1)
+
+
+**גמרא אר"ל מחלוקת כו'.**עי' היטב כל הסוגיא. ועי' תוי"ט מה שהביא בשם פי' הרמב"ם בנא"י. וסיים עליו והן דברי ריו"ח בגמרא. ותמוה. (וכבר כ"ע המל"מ שלא יוכל ליישבם). ובעיקר דברי הרמב"ם נל"פ כוונתו דר"ל דר"ש דריש אותו לחייב על כל אבר ואבר ולא למעוטי חסר. ור' יוסי דריש אותו למעוטי חסר ולא לחייב על כל אבר ואבר. ור"ל דמפלוגתייהו דמתניתין דמיירי בד' וה' אברים שמעינן נמי דפליגי ג"כ במקטיר אבר אחד חסר דלר"ש חייב ולר"י פטור. ואף שאינו כחד מאמוראי בסוגיין צ"ל שהיה לפניו גי' אחרת בגמרא:
+
+
+
+## Daf 109a
+
+###### Rashash on Zevachim 109a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/109a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/109a:1)
+
+
+**תד"ה עולה. אע"ג כו' ומשקין ברביעית כו' אבל דרך אכילה כו'.**עי' מש"כ ע"ד דהכא ביבמות (קיד ב):
+
+
+
+## Daf 109b
+
+###### Rashash on Zevachim 109b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/109b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/109b:1)
+
+
+**במשנה ר"א פוטר כו'.**הוא ר' אלעזר בלא י' בן שמוע כדמוכח לקמן (קי ב) בתד"ה ומודה. וכן צריך להגיה בגמרא ופרש"י ובמשנה דהקומץ והלבונה הכל בל"י. מה שכ' הרע"ב דקסבר כל המתירין נפסלין בחסרון כו'. הוא שלא בדיוק דבזה ל"פ רבנן. ולשון רש"י בזה מדוייק שפיר:
+
+
+###### Rashash on Zevachim 109b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/109b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/109b:2)
+
+
+**גמרא א' רבה בהקטרה דהיכל כ"ע ל"פ.**ועפרש"י. ולפ"ז נ"ל דהעושה כדי להריח בה אפי' בכזית חייב עי' כריתות (ו ב). ומהמל"מ בפ"ב מהל' כלי המקדש ה"ח נראה דאשתמיט סוגיא זו שלפנינו ע"ש. ומהת"י בכריתות שם משמע דהלל"מ היה דלכתחלה פרס ובדיעבד יוצא בכזית ודלא כפרש"י ולכן אפשר דהעושה א"ח עד שיעשה שיעור פרס:
+
+
+###### Rashash on Zevachim 109b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/109b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/109b:3)
+
+
+**רש"י ד"ה והקטרת. קסבר כו' אשיעור הקטרה כו' כזית.**והעתיקו התוי"ט. ועי' בתור"ע. ומש"כ שהתוי"ט כ' במשנה הקודמת דלר' יוסי קאי על קרבן כולו וזהו כאוקימתא דר"ל. ל"ד במחכ"ת שזהו כפי גי' שלפנינו בפיה"מ אבל התוי"ט העתיק הנא"י דאפי' לר"י קאי אותו על אבר שלם וסיים ע"ז שהן דברי ריו"ח בגמרא ועמש"כ שם. ונלע"ד בשטת רש"י דאותו פי שנים במובנו. אבר שלם והקטרה שלמה. ובקומץ ולבונה כו' דלא שייך אבר לא בעינן אלא שיעור הקטרה. וכ"נ מהכ"מ שהביאו התוי"ט בד"ה המעלה כזית:
+
+
+
+## Daf 110a
+
+###### Rashash on Zevachim 110a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/110a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/110a:1)
+
+
+**גמרא מה לי חסר מ"ל יצא.**כה"ג בעיא דר"ל לעיל (צט) מה לי טמא מ"ל בע"מ. ודר"פ במנחות (נז) חימצה ויצאת כו':
+
+
+
+## Daf 111a
+
+###### Rashash on Zevachim 111a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/111a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/111a:1)
+
+
+רש"י (בסה"ע) [**ד"ה השוחט****. וא"ת והלא כה"ע בחוץ נפסלו ביציאתן.**ולכאורה מזה אין קושיא שהיה לו שעת הכושר ופסולן בקדש עמש"כ בר"פ:
+
+
+
+## Daf 111b
+
+###### Rashash on Zevachim 111b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/111b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/111b:1)
+
+
+**רש"י ד"ה והשתא. אדיוקא קאי דאיכא למידק כו'.**ק"ק דלעיל (קב ב) אמרי' בכה"ג הא לא קתני ע"ש:
+
+
+###### Rashash on Zevachim 111b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/111b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/111b:2)
+
+
+**במשנה נתן שניהם בפנים פטור.**בתוי"ט יש לדחוק דכולי גווני קתני. כה"ג כתבו התוס' לעיל ר"פ חטאת העוף הביאם בעצמו שם:
+
+
+
+## Daf 112a
+
+###### Rashash on Zevachim 112a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/112a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/112a:1)
+
+
+**במשנה וכן שעיר המשתלח.**עפרש"י. ולשון התוי"ט דאי קודם וידוי בעי לכנס כו' וה"ה ראוי לבא. משמע דבאמת חייבין עליו קודם וידוי וז"א דגם זה ממעטינן בברייתא לקמן (ס"ד קיג) מלה'. אלא דמתניתין לא איירי מזה. שוב ראיתי שגם הרמב"ם בפי"ח מהל' מעה"ק הי"א פסק דחייבין עליו קודם וידוי וע"ש בהראב"ד ובנו"כ ועצ"ק. ודע דלשון הרע"ב שכ' כל שאינו ראוי לבא שאין עתיד להקריב. דמשמע דממעטינן מזה שעיר המשתלח אפי' קודם וידוי הוא שלא בדיוק כדאמרן:
+
+
+
+## Daf 112b
+
+###### Rashash on Zevachim 112b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/112b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/112b:1)
+
+
+**במשנה שרש"א כל שהוא ראוי לבא לא"ז ה"ז בל"ת.**וטעמו מלא תעשון ככל אשר כו'. והעתיקו הרמב"ם בפי' בקוצר. וכ' עוד בדברי חכמים אין הענין כו' אבל הכוונה שהלאו הזה הוא אזהרה לכרת שאין לוקין עליו. והעתיקו התוי"ט. וק"ל הא סתם מתניתין ברפ"ג דמכות דלוקין על לאו שניתן לאזהרת כרת וכר"ע שם בגמרא וכ"פ בחבורו רפי"ח מהל' סנהדרין ובפ"א מהל' א"ב ה"ז. ועוד ק"ל דהא כבר נ"ל אזהרה לשוחט ומעלה בגמרא בר"פ דלעיל:
+
+
+###### Rashash on Zevachim 112b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/112b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/112b:2)
+
+
+**שם וחכ"א כל שאין בו כרת א"ב בל"ת.**לכאורה חכמים היינו ת"ק. ונראה דר"ש וחכמים פליגי בפירושא דפטור שבדברי הת"ק וכה"ג בפסחים (קטז ב) במשנה ע"ש ברשב"ם ותוס':
+
+
+###### Rashash on Zevachim 112b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/112b:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/112b:3)
+
+
+**שם עולותיהן ושלמיהן בחוץ חייבין.**עתוי"ט בלשון הרמב"ם בנ"א אבל העולה היא דורון אפי' הקריבה בתוך ימה"ס כו'. משמע דאם הביא עולתו בתוך הזמן יצא ואפי' למצוה א"צ להביא אחרת והוא חדוש גדול ולא כן משמע בפסחים (נט סע"א). ובתוספתא פ"א דזבחים איתא להדיא עולת נזיר ועולת יולדת ועולת מצורע כו' ששחטן מח"ז בבעלים כשרים כו' אלא שלא עלו לבעלים לשם חובה:
+
+
+###### Rashash on Zevachim 112b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/112b:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/112b:4)
+
+
+**שם ומשהוקם המשכן נאסרו הבמות.**וכ' הרע"ב אבל עובדי כוכבי' מותרין להקריב שלמים כו'. ל"י אמאי נקיט שלמים עי' לקמן בגמרא (קיז) ובמנחות (עג ב) דיש פלוגתא בזה אם מביאין שלמים. ועולות לכ"ע מביאין. ולשון הרמב"ם בפי' ומותר לעובד כוכבים עכשיו להקריב עולות כו':
+
+
+###### Rashash on Zevachim 112b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/112b:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/112b:5)
+
+
+**שם באו לשילה נאסרו הבמות.**לשון הרע"ב ומנוחה זו שילה שלא היה נוסעים כו' כמו במדבר. ובגמרא לקמן (קיט ב) איתא בשלמא למ"ד זו"ז שילה מנוחה דנחו מכיבוש כו' ע"ש:
+
+
+###### Rashash on Zevachim 112b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/112b:6](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/112b:6)
+
+
+**רש"י ד"ה בעשה. והביאום לה'.**לכאורה קשה הא מוקמינן ליה לעיל (קו ב) באותן שהקדישן בשעת היתר הבמות כו'. וי"ל דילפינן מינה בק"ו להקדישן בשעת איסור הבמות כדאיתא שם בגמרא ועל עשה אין שייך למפרך וכי מזהירין מן הדין:
+
+
+###### Rashash on Zevachim 112b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/112b:7](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/112b:7)
+
+
+**רש"י ד"ה הקדישן בשעת איסור. מההיא שעתא כו' וכיון שהמתין עד שלא יוכל לקיימו כו'.**ול"י למה לא יוכל לקיים עתה להקריבם בבמת ציבור. ועוד ק"ל דאם תיכף כשהקדיש חרבה שילה מאי ה"ל למיעבד. ועוד כיון דהעשה כבר עבר א"כ לכתחלה יקריב בבמה קטנה ומלשון המשנה משמע דבעת ההקרבה עובר בעשה. ולעד"נ דהעשה הוא כיון דהקדיש בשעת איסור הוי כמו שפירש להדיא ע"מ שיקריבם במשכן הואיל דא"א בבמה והוי בעשה דמוצא שפתיך כו' כאשר נדרת ועשית כמש"כ רש"י לקמן בסמוך ועי' מש"כ בסמוך:
+
+
+###### Rashash on Zevachim 112b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/112b:8](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/112b:8)
+
+
+**במשנה קדשים שהוקדשו למשכן.**פרש"י בזה דחוק. ול"נ לפרש דר"ל שהקדישן בשעת איסור הבמות דאז הוי כאילו הוקדשו בפירוש למשכן וכמש"כ לעיל:
+
+
+###### Rashash on Zevachim 112b:9
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/112b:9](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/112b:9)
+
+
+**שם קה"י שהוקדשו למשכן כו' ואם הקריבן בבמה פטור.**נראה דמ"מ ידי נדרו דהיינו אם אמר עלי לא יצא ועי' בפי"ג דמנחות מ"י:
+
+
+
+## Daf 113a
+
+###### Rashash on Zevachim 113a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/113a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/113a:1)
+
+
+**במשנה ומתן סביב.**פי' הרע"ב דכתיב כו' על המזבח סביב ולא בבמה. וכ"פ לענין הגשה וכיהון. ולכאורה קשה לר' יוסי בפרק דלעיל (קח) במשנה (וע"ש בגמרא) דהל' כוותיה מא"ל. ועי' לקמן (קיט ב) בגמרא ופרש"י שהביא בכל הני קראי דכתיבי בהו פתח א"מ או לפני ה'. רק לענין מחיצה בדמים פרש"י ג"כ מדכתיב המזבח פי' בה"א. ובהכי י"ל ג"כ פי' הרע"ב בכל הני. אך הקרא דהביא לענין כיהון הוא שלא ככתוב ואולי ט"ס הוא:
+
+
+###### Rashash on Zevachim 113a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/113a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/113a:2)
+
+
+**גמרא לא מיבעיא חוץ לחומה כו' ואימא תתכשר קמ"ל.**נ"ל מזה דעיקר פלוגתתם על המשנה דפרה פ"ד מ"ב שרפה חוץ מגיתה כו' פסולה. אלא דהש"ס קבעה הכא על משנתינו דממילא גם הכא פליגי דאלת"ה אדרבה הוה רבותא טפי דאפילו חול"ח דרחקה אפ"ה פטור:
+
+
+###### Rashash on Zevachim 113a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/113a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/113a:3)
+
+
+**רש"י ד"ה מקום שפורשת. וליציאת נפשה לא קבע כו'.**כצ"ל:
+
+
+
+## Daf 114a
+
+###### Rashash on Zevachim 114a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/114a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/114a:1)
+
+
+**גמרא אלא מוקצה ונעבד כו' בקק"ל ואליבא דריה"ג כו'.**ק"ל מדוע לא אמר כר"ש דאמר קדשים שחייב באחריותן חייבין עליהם כפל וד' וה' בפ' מרובה וכן פליג בשבועה בפ' שבועת הדיינין. ולענין אונאה בפ' הזהב. וכזה קשה בבכורות (נג ב) לענין מע"ב דמוקי ג"כ כריה"ג ולא כר"ש. ועי' בפסחים (ד"ו) סד"א הואיל וכי איתא הדר בעיניה כו' ובפרש"י ובמש"כ שם בס"ד:
+
+
+###### Rashash on Zevachim 114a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/114a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/114a:2)
+
+
+**שם**(בסה"ע) וגלגל לגבי שילה מח"ז הוא. ק"ל הא חטאת יחיד דהיא כשבה או שעירה אם עברה שנתן פסולה עי' יומא (סה ב) ובפרש"י שם וא"כ אינן ראויין לאח"ז דימי גלגל היו י"ד שנה:
+
+
+###### Rashash on Zevachim 114a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/114a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/114a:3)
+
+
+**רש"י ד"ה נ"ל דה"ג. דנראו לבא כו' קודם שנעשו אתנן ומחיר כו'.**לכאורה אף לאחר שנעשו אומ"ח ראויין הן אגב אמן דומיא דכלאים:
+
+
+###### Rashash on Zevachim 114a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/114a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/114a:4)
+
+
+**תד"ה אתנן. לא מתוקם כו' כדדרשי' כו' לכ"נ פרט לנדור.**ע"ש דמוקי לה בפסח וכרבי. ומדלא מוקי כריה"ג ש"מ דלדידי' למ"ל משום דמודה דאסור למכרם. ואולי דילפינן ממעשר. ולכן אין אתנן ומחיר חל עליהן בלא קרא דלכ"נ. ועי' פסחים (צ) דאביי באמת הוה ס"ד לאוקמה כריה"ג. אבל משמע דהדר ביה מהא דר' אושעיא:
+
+
+###### Rashash on Zevachim 114a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/114a:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/114a:5)
+
+
+**תד"ה משום.**מש"כ בגליון (והוא מהרש"ק והצ"ק) דגי' הרע"ב מודה ר"ש לרבנן. לפנינו הגי' בהרע"ב כבפנים:
+
+
+
+## Daf 115b
+
+###### Rashash on Zevachim 115b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/115b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/115b:1)
+
+
+**רש"י ד"ה שנאמר וידום אהרן. הרי ששתק וקבל השכר כו'.**כצ"ל:
+
+
+
+## Daf 116a
+
+###### Rashash on Zevachim 116a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/116a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/116a:1)
+
+
+**גמרא**[והתניא אבל שלמים לא כ"א עולות.] עולות אין שלמים לא כמ"ד כו'. כ"ה גי' הרש"ק. ולפי' גי' זו נראה דהשתא חזר בו ממה שתירץ מעיקרא אלא אימא כו' עולות ושלמים. וזהו שאמר עולות אין כו' ור"ל לעולם כדדייקת עולות אין שלמים לא. ול"ק דאתיא כמ"ד כו'. אבל זה תמוה דלא מתרץ הקושיא מקרא דויזבחו כו'. והנה הרש"ק נסתייע לגי' זו מהע"י. ועיינתי בו והנה ליתא שם הא דעולות אין כו'. וא"כ אין בין הגירסאות אלא שינוי לשון קצת והענין אחד. ולפ"ז נ"ל דלעולם לא חזר מתירוצא דאלא אימא כו'. וכמ"ד כו' לא קאי רק על הברייתא הב' דמייתא והוא דבמדרש ב"ר פכ"ב (ובש"מ שציינתי בהגהותי לש"ר פי"ד אות ז' במ"ת) ובירושלמי פ"ק דמגילה מתרצו להאי קרא דויזבחו כו' למ"ד דלא קרבו שלמים. דפי' שלמים בלא הפשט וניתוח. אולם בזה א"א לתרץ הברייתא הראשונה דהא מסיימא ועולה שהקריבו כו' טעונה הפשט וניתוח ונכון בעז"ה. וזה קצת דלא כמש"כ בהגהותי שם שנמשכתי אחרי הט"א בחגיגה שהזכרתיו שמה:
+
+
+###### Rashash on Zevachim 116a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/116a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/116a:2)
+
+
+**שם ר"א וריב"ח ח"א קרבו שלמים ב"נ כו'.**לכאורה פלוגתתם כעין פלוגתת ריה"ג ור"ע במנחות (עג ב) ע"ש:
+
+
+###### Rashash on Zevachim 116a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/116a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/116a:3)
+
+
+**שם תתנער כו' ותבא אומה כו'.**כ"ה בע"י וברש"י:
+
+
+###### Rashash on Zevachim 116a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/116a:4](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/116a:4)
+
+
+**רש"י ד"ה ויזבחו וד"ה לכל**עד בין לעובדי כוכבים. צ"ל הד"א.
+
+
+###### Rashash on Zevachim 116a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/116a:5](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/116a:5)
+
+
+**וקרבו עולות.**הוא דבור חדש וכן היתה גירסתו בגמרא:
+
+
+
+## Daf 116b
+
+###### Rashash on Zevachim 116b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/116b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/116b:1)
+
+
+**גמרא אסור לסייען ולעשות שליחותן.**בתור"ע העלה מזה בצ"ע דברי התוס' במנחות (קט ב) בד"ה והעלה וע"ש בצ"ק שפי' כוונת התוס' דחוניו לא הקריב בעצמו רק דאורינהו. ול"נ דבאמת טעה בזה דהיה סבור דקדשי עובד כוכבים מותר לישראל אפי' לעשות ולהיות שלוחם. ולפיכך פסלה המשנה שם הכהנים לשמש בבהמ"ק. רק לפי הס"ד דהתוס' דהקריבו קרבנות ישראל תמהו איך טעה בזה דזיל קרי ב"ר הוא. וזה ג"כ שלא כדברי הרש"א שם בהבנת דברי התוס':
+
+
+
+## Daf 117b
+
+###### Rashash on Zevachim 117b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/117b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/117b:1)
+
+
+**רש"י ד"ה אין מנחה בבמה. דפסוק זה בקדשים שהוקדשו כו'.**כצ"ל:
+
+
+###### Rashash on Zevachim 117b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/117b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/117b:2)
+
+
+**בא"ד מנין אף עולה ת"ל זבחי יכול כו'.**כצ"ל:
+
+
+
+## Daf 118b
+
+###### Rashash on Zevachim 118b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/118b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/118b:1)
+
+
+**רש"י ד"ה אסברא לי. הראני כו'.**והנה לפנינו הגי' אסברא לך. ועי' בסה"ד בהקדמה דגי' רש"י עיקר כי מצינו בש"ס (ע"ש המקומות שהביא) דר"ש בן אליקום היה תלמידו דר' אלעזר:
+
+
+###### Rashash on Zevachim 118b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/118b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/118b:2)
+
+
+**רש"י ד"ה וקאמר כלב. נתעכבו כו' שלשים ושמונה שנה.**כצ"ל:
+
+
+
+## Daf 119a
+
+###### Rashash on Zevachim 119a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/119a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/119a:1)
+
+
+**גמרא נחלה זו ירושלים ואומר כו'.**עי' בפי' הרמב"ם הביאו התוי"ט בקוצר. יראתי וזחלתי לומר על אדונינו עטרת ראשנו הרמב"ם זלה"ה דלפי ששגור היה בפיו סדור הג' כתובים בנוסח יהי כבוד זאח"ז כי בחר ה' בציון וגו'. כי יעקב בחר לו וגו'. כי לא יטוש וגו'. סבר שכן המה סדורים בכתוב. ובאמת לא קרב זא"ז כי הראשון הוא בתהלים קל"ב. הב' בקל"ה. והג' בצ"ד:
+
+
+###### Rashash on Zevachim 119a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/119a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/119a:2)
+
+
+**שם רש"א מנוחה זו ירושלים כו'.**הט"א במגילה (ט ב) כ' דע"כ ט"ס הוא כאן דאל"כ קשה דר"ש אדרשב"י לקמן בסמוך:
+
+
+
+## Daf 119b
+
+###### Rashash on Zevachim 119b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/119b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/119b:1)
+
+
+**גמרא מתנות סביב דכתיב וזרקו עה"מ סביב.**כצ"ל. והוא קרא דויקרא (א ה) ועפרש"י והמציין טעה:
+
+
+###### Rashash on Zevachim 119b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/119b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/119b:2)
+
+
+**שם וכלי שרת אשר ישרתו בם בקדש.**והרע"ב ל"ד בהביאו ע"ז קרא דלשרת בקדש. דההוא בבגדי שרת כתיב וכמו שהבאתו הגמרא על בגדי שרת ועתו"ח. גם מש"כ עוד הרע"ב על וריח ניחוח קרא דריח ניחוח לה' ג"כ ל"ד דכי בבמה אינו מקריב לה' ודוקא מלפני ה' הוא דממעטינן במה. והגמרא הביאה קרא דלריח ניחוח לה' הכתוב בפ' שחוטי חוץ וכמו שפרש"י דכתיב באותו קרא פתח א"מ. ובפרש"י יש ט"ס וצ"ל והקטיר החלב:
+
+
+
+## Daf 120a
+
+###### Rashash on Zevachim 120a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/120a:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/120a:1)
+
+
+**גמרא ומר משני כאן בקדשי במה גדולה.**ועי' בפרש"י. וק"ל דאיך עברו על מ"ע דמוצא שפתיך כו' כדפרש"י לעיל במתניתין (קיב ב) בסופו בד"ה פטור:
+
+
+###### Rashash on Zevachim 120a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/120a:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/120a:2)
+
+
+**בסה"ע אמרה תורה לן ישרף ופיגול ישרף כו'.**הרש"ק כ' דגי' זו טעותא היא. והצ"ק כ' שלא ידע למה. ואי גרסינן לה נ"ל דצ"ל מה לן פסול אף פיגול פסול וכסברת רבא לעיל (קד ב) וע"ש בתד"ה לא (וברש"י ד"ה מנין צ"ל כנותר בכ"ף) ומשיב או כלך כו' ר"ל מנא לך דלן גופיה פסול:
+
+
+###### Rashash on Zevachim 120a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/120a:3](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/120a:3)
+
+
+**רש"י ד"ה ומומין. דלא אשכחן דשרינהו בקטנה.**לכאורה יפלא דאדרבה בתמורה (ז) ילפינן מלא תקריבו דמעוך לבמת יחיד. ובבכורות (יד ב) אר"א מנין לזובח בע"מ בבמת יחיד בשעת היתר הבמות שהוא בל"ת שנא' לא תזבח כו'. (וצ"ל דההיא דתמורה איצטריך שעובר משעת הקדש ע"ש בסוגיא דלעיל וצ"ע). ואולי משום דבמומין דהכא נכלל גם האיש המקריב שלא יהיה בע"מ כדמוכח לעיל (טז) ע"ש ברש"י ד"ה ה"ג מה להצד כו' וע"ז יכוון במש"כ דלא אשכחן כו':
+
+
+
+## Daf 120b
+
+###### Rashash on Zevachim 120b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/120b:1](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/120b:1)
+
+
+**רש"י ד"ה (תורת) לעשות] . ונותר נמי מפיגול יליף כו'.**ל"י למאי נצרך לזה דהא גם נותר כתיב באותה פרשה וכדכתב בסמוך:
+
+
+###### Rashash on Zevachim 120b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/120b:2](https://torahapp.org/share/book/Rashash%20on%20Zevachim/r/120b:2)
+
+
+סליק מסכת זבחים בס"ד
+

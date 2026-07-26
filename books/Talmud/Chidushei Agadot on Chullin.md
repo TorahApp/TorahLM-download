@@ -1,0 +1,1205 @@
+# Chidushei Agadot on Chullin
+
+חידושי אגדות על חולין
+
+Link: [https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin)
+
+דיוני חז״ל בנושאי הלכה, מוסר ותנ"ך שהתקיימו במשך דורות. בנויים כהרחבות על המשנה ושזורים בהם סיפורי אגדה.
+
+17th-century commentary by the Maharsha analyzing aggadic talmudic passages, printed together with his Chidushei Halakhot in the back of the Vilna Talmud.
+
+Sections: Daf-Comment
+
+Location: Talmud/Bavli/Acharonim on Talmud/Chidushei Agadot/Seder Kodashim
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Vilna Edition (Segments: 128, License: Public Domain)
+
+Version (En): Sefaria Community Translation (Segments: 8)
+
+
+## Daf 5a
+
+###### Chidushei Agadot on Chullin 5a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/5a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/5a:1)
+
+
+**[אלא**י גורן וכו'] כחצי גורן כו' נראה לפ"ז נמי יהיה שער שומרון שער ב"ד שיושבים שם סנהדרין כמו שת"א שעריך לתרע בית דינך וק"ל:
+
+
+###### Chidushei Agadot on Chullin 5a:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/5a:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/5a:2)
+
+
+**ע"פ** הדבור שאני כו' והיא גופא אשמעינן דאע"ג דמבי טבחי הוה הותר לו ע"פ הדבור דבר אסור משום שחיטת טבחי דאחאב וק"ק כיון דע"פ הדבור היה אמאי לא נימא דהוגד לו ע"פ הדבור שהיה דבר המותר מזבוח דעובדיה כדלעיל וק"ל:
+
+
+###### Chidushei Agadot on Chullin 5a:3
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/5a:3](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/5a:3)
+
+
+**קרי** לי' נערה כו' א"כ עורביים כו' עיין בחדושינו בזה פ"ב דסוטה:
+
+
+
+## Daf 5b
+
+###### Chidushei Agadot on Chullin 5b:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/5b:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/5b:1)
+
+
+**ע"ב ומשימין** עצמן כבהמה כו' עיין פרש"י ועיי"ל לענין מאכלו שלא ידקדק בו כבהמה זו ועיין פרק כיצד מעברין גבי חיתך ישבו בה אם משום כחי' כו':
+
+
+
+## Daf 6a
+
+###### Chidushei Agadot on Chullin 6a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/6a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/6a:1)
+
+
+**דמות**ונה מצאו כו' וכתבו התוס' במדרש יש שהיא ע"ז שהטמין יעקב תחת האלה בהר בשכם עכ"ל בקראי כתיב תחת האלה אשר עם שכם ופרש"י אצל שכם והיינו בהר גריזים כמפורש בקרא ואת הברכה על הר גריזים וגו' הלא המה וגו' אצל אלוני מורה והוא שכם כדכתיב עד מקום שכם עד אלון מורה והם הכותים שהביאום מלך אשור והושיבום בהר שומרון כמפורש בספר מלכים ושם מפורש עבודת כוכבים שלהם נרגל והוא תרנגול כפרש"י שם:
+
+
+###### Chidushei Agadot on Chullin 6a:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/6a:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/6a:2)
+
+
+**בתלמיד** כו' כל ספר משלי נאמר דרך משל ופשטיה דקרא הוה הנמשל ממנו וקאמר בתלמיד היושב לפני רבו כו' שהוא הנמשל מן ללחום את מושל וגו' אבל לפי הדרשה דלעיל לענין דבר איסור לא יתפרש בנמשל ללחום את מושל וק"ל:
+
+
+
+## Daf 7a
+
+###### Chidushei Agadot on Chullin 7a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/7a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/7a:1)
+
+
+**אלא**מקום הניחו לו אבותיו כו' פרש"י מקום הניחו כשיבואו בנינו אחרינו ואם לא ימצאו מה לתקן במה יגדל שמם עכ"ל אם עשו כן אסא ויהושפט בכוונה כפי המובן מפירושו הוא קשה שיניח את ישראל לעבוד ע"ז משום בנו שיתגדל שמו ואפשר דר"ל שלא בכוונה עשו דהיינו שלא הרגישו בדבר כדי שיתגדל בם בנו וענין מעשה דבית שאן נמי בכה"ג היה שלא הרגישו אבותיו בו וק"ל:
+
+
+###### Chidushei Agadot on Chullin 7a:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/7a:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/7a:2)
+
+
+**שלא** יעברו כו' [עי' פירושו בחדושי הלכות]:
+
+
+###### Chidushei Agadot on Chullin 7a:3
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/7a:3](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/7a:3)
+
+
+**א"ל** חלוק כו' יש לנו רמז בנס זה בקרא בס' תהלים גבי קריעת ים סוף שאמר הכתוב הפך ים ליבשה היינו קריעת ים סוף בנהר יעברו ברגל היינו האי נהרא גינאי שעברו בו רבי פנחס וההוא דדרי חיטי והיינו ברגל שם נשמחה לשמחת יו"ט דפסחא ואמר מושל בגבורתו לשנות הטבעים עיניו גם בגוים תצפינה דהיינו לההוא טייעא שיעבור שם משום דהסוררים שהוא הטייעא אל ירומו פיהם לגבי שמיא כמ"ש כך עושין לבני לויה כו' וק"ל:
+
+
+**He said to it, "Part, etc.":** We have a hint to this in the verse in Psalms referring to the splitting of the Red Sea: As the verse (Psalms 66:6) states, "He turned the sea into dry land" - that is the splitting of the Red Sea; "they crossed the river on foot (*regel*)" - that is that Ginai River that Rabbi Pinchas ben Yair and the one carrying wheat crossed; and the *regel* (also the word for pilgrim festival) is that "we rejoice there," with the joy of the holiday of Passover. And it [then] states (Psalms 66:7), "He rules forever with His might" - to change nature; "His eyes also scan the nations" - which is that that Arab should cross there, so that "the rebellious," which is the Arab, "not raise (their mouths)" towards the Heavens. This is like he said, "That is what one does to a person who accompanies, etc.?" And it is easy to understand.
+
+
+
+## Daf 7b
+
+###### Chidushei Agadot on Chullin 7b:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/7b:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/7b:1)
+
+
+**ע"ב קדושים** הם כו' [עי' פירושו בחדושי הלכות]:
+
+
+**They are holy, etc.:** (See his commentary in Chiddushei Halakha)
+
+
+###### Chidushei Agadot on Chullin 7b:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/7b:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/7b:2)
+
+
+**אל** תלחם גו' כי כמו שער בנפשו גו' מפורש בפ' אלו נאמרין ע"ש:
+
+
+**Eat not the bread, etc. For as one that has reckoned within himself, etc.:** This is explained in the chapter [entitled] Elu Neamarin (Sotah 38b:12), see there.
+
+
+###### Chidushei Agadot on Chullin 7b:3
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/7b:3](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/7b:3)
+
+
+**אם** בחייהן כך כו' [עי' פירושו בחדושי הלכות]:
+
+
+**If during their lifetimes it is so, etc.:** (See his commentary in Chiddushei Halakha.)
+
+
+###### Chidushei Agadot on Chullin 7b:4
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/7b:4](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/7b:4)
+
+
+**שאימתן** כו' אפרדות דלעיל קאי וסבר כמ"ד בפסחים דפרד בימי ענה הוה ואיכא מ"ד התם דפליג וסבירא ליה דפרד מימי בראשית הוה ופירוש ימים אליביה כמו שתרגום אונקלוס גובריא וק"ל:
+
+
+**Because their terror (*eimatam*), etc.:** It is referring to the mules from earlier. And he holds like the one in Pesachim (54a) that says that mules came to be from the days of Anah. And there, there is one who disagrees and holds that mules came to be from the days of creation. So the explanation of *yemim* (in Genesis 36:24), according to him, is like the Targum of Onkelos, "mighty men."
+
+
+###### Chidushei Agadot on Chullin 7b:5
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/7b:5](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/7b:5)
+
+
+**אין** עוד מלבדו כתיב כו' הכי משמע קרא אין לומר אין עוד על שום אלהים מלבד על הקב"ה והוא שמה שהקב"ה גוזר אין עוד אלהים אחרים שהם כוחות הטומאה והכישוף לשנות הגזירה אבל מה שגוזרים בכישוף יש עוד הקב"ה שיוכל לשנות אותה הגזירה ע"י הזכיות כההיא דרבי חנינא וק"ל:
+
+
+**It is written, 'there is none other beside Him,' etc.:** This is the understanding of [this] verse: "There is no other," cannot be said about any power beside the Holy One, blessed be He. And that is that whatever the Holy One, blessed be He, decrees; there are no other powers - that is the forces of impurity and sorcery - to change the decree. But that which they decree by sorcery, there is an Other who is able to change the decree through merits, like that [case] of Rabbi Chanina. And it is easy to understand.
+
+
+###### Chidushei Agadot on Chullin 7b:6
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/7b:6](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/7b:6)
+
+
+**לדבר** מצוה כו' מקשים והא אמרינן שלוחי מצוה אינן ניזוקין לא בהליכתן ולא בחזירתן ונראה לפרש דמה"ט קאמר דמרצה כדם עולה שהעולה באה לכפרה על הרהורי הלב ואפשר דבהדי דאזיל לדבר מצוה קמהרהר בעבירה הוה ושכיח הזיקא הוה וכה"ג קאמרינן בסוף מכילתין וק"ל:
+
+
+**To a matter of a commandment, etc.:** [Commentators] ask, "But behold, we say, 'Those entrusted with [the performance of] a commandment are not injured, not on their way and not on their return!'" So it appears that it can be explained that it is for that reason that it said that it "effects atonement like the blood of a burnt offering": As a burnt offering comes to atone for meditations of the heart. So it is possible that when he went to the matter of a commandment, he was meditating about a sin, such that injury is found. And we say like this at the end of our tractate; and it is easy to understand.
+
+
+###### Chidushei Agadot on Chullin 7b:7
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/7b:7](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/7b:7)
+
+
+**מימיו** לא בצע על פרוסה כו' בצע ברכת המוציא משמע כפרש"י ואפילו ברכת המוציא לא בצע מפרוסה שאינו שלו אבל משלמה שאינו שלו הוה ברך ברכת המוציא אם לא היה לו משלו אלא פרוסה דשלמה ופרוסה שלמה קודמת לברכת המוציא וק"ל:
+
+
+**In [all] his days he never broke on a piece of bread, etc.:** Broke [the bread] with a blessing of *HaMotzi* (over bread) - it is understood like the explanation of Rashi. But even though he did not break from a piece of bread, that was not his, with the blessing of *HaMotzi*; he did recite the blessing of *HaMotzi* over a complete one that was not his if he did not have his own. [This is because] a piece of a complete [loaf] or a complete piece has precedence [over a piece of a piece] for the blessing of *HaMotzi*. And it is easy to understand.
+
+
+
+## Daf 9a
+
+###### Chidushei Agadot on Chullin 9a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/9a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/9a:1)
+
+
+**כתב**שחיטה ומילה כו' עיין פרש"י דלענין שיהא הת"ח בקי בהלכות שחיטה לא אצטריך ליה לאשמועינן דודאי צריך הת"ח להיות בקי בכל דינים והלכות התורה כדאמרינן בעלמא ואפילו במסכת כלה וכן כתב שילמוד דינים והלכות כתיבת התורה ותפילין ומזוזה בכלל לימוד כל התורה אלא שילמוד וירגיל עצמו לכתוב ואע"ג דחיוב שיכתוב אדם לעצמו סת"ם יוצא ע"י אחר שכתבן לו מ"מ ירגילו הת"ח בכתיבה וק"ל:
+
+
+
+## Daf 17a
+
+###### Chidushei Agadot on Chullin 17a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/17a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/17a:1)
+
+
+**נאסר**להם בשר תאוה כו' בשלמא לרבי ישמעאל היינו דכתיב הצאן ובקר ישחט כו'. מזה נראה לישב מה שדקדקו בתוספות ערכין פ"ג אקרא דהתאוו תאוה במדבר דבשליו שני כתיב התאוו תאוה לפי שהיה אחר מ"ת ולמ"ד הכא דבמדבר נאסר להם בשר תאוה וקאמר קרא שהתאוו במדבר לדבר איסור שהתאוו לבשר תאוה שיהא מותר להם כשיכנסו לארץ וז"ש בתהלים ויתאוו תאוה במדבר שהזכיר שהתאוו לדבר שהיה אסור להם במדבר עד שיכנסו לארץ ולפי שהם התאוו לדבר אחד של איסור ודבר א' של היתר לדבר של איסור כדכתיב התאוו תאוה מי יאכילנו בשר דהיינו בשר תאוה שלא הותר במדבר ולדבר א' של היתר זכרנו את הדגה וגו' ועז"א משה על תאות האיסור הצאן ובקר ישחט להם ומצא להם שהרי נאסר להן בשר תאוה במדבר אבל השני' של היתר שאמרו זכרנו את הדגה וגו' את כל דגי הים ביד ה' למצוא להם והיה מאמר הש"י בזה עתה תראה היקרך דברי אם לא שביד ה' ליתן להן תאותן בין של היתר ובין של איסור ונתן להם הש"י דבר אחד שהוא השליו שהוא מין עוף ומהאי קרא למדנו ברפ"ב דחולין שחיטה לעוף בסימן א וצאן ובקר ישחט להן דבהמה בשחיטה וכל דגי הים יאסף להם דדגים באסיפה בעלמא סגי אבל עוף שנברא מן הרקק בסימן א' שהוא קרוב למין בהמה ולמין עוף שיהא להם כל תאותן בדבר א' של היתר דלא נאסר להן בשר תאוה במדבר אלא בקר וצאן דאפילו צבי ואיל הותר להן כדמסיק שם ועד"ז אמר הכתוב הבשר עודנו בין שיניהם וגו' ירצה שעל תאות אכילת דגים שהיה של היתר לא נענשו אבל שנתמלא בזה תאותן של איסור שהוא בשר תאוה כמ"ש מי יאכילנו בשר עודנו בין שיניהם וגו' נענשו על תאותן של דבר איסור וק"ל:
+
+
+
+## Daf 24a
+
+###### Chidushei Agadot on Chullin 24a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/24a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/24a:1)
+
+
+**ושלשים**לעבודה כו'. דבן שלשים לכח בעבודת משא כפרש"י בחומש וה' שנים מקודם ללמוד עבודת משא ועיין בזה ברא"ם פרשת בהעלותך על דברי הראב"ע:
+
+
+###### Chidushei Agadot on Chullin 24a:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/24a:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/24a:2)
+
+
+**ואידך** שאני לשון כשדים דקליל כו'. ודכתיב ללמדם ספר היינו נמי בספריהם בלשון כשדים דבספר תורה כבר ידעו כדכתיב ומשכילים בכל חכמה ויודעי דעת וגו' וק"ק במאי פליגי הני תנאי הא מידי דקליל כלשון כשדים ת"ק נמי מודה דסגי בג' שנים ומידי דתקיפ' כהלכות עבודה ר"י נמי מודה דבעי ה' שנים ויש לישב ודו"ק:
+
+
+
+## Daf 27a
+
+###### Chidushei Agadot on Chullin 27a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/27a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/27a:1)
+
+
+**בב'**סימנים כו'. יראה לפי דעת החוקרים שכל יסוד היותר רחוק מן הגלגל הוא יותר גשמי וחומרי והארץ יסוד התחתון הוא יותר גשמי מיסוד המים שעליו ולכן הבהמה אשר נפשה מהאדמה מחומר הגס יצטרך לזכך להעלות חומרה לאכילת נפש אדם שהוא נברא ג"כ מחומר הגס מהאדמה ובב' סימנים שנשחטו יזדכך חומר הבהמה שהוא יותר גם כי הדם הוא הנפש ועיקר מצות שחיטה להוציא דם הנפש אבל הדגים אשר בריאתן מהמים מחומר היותר דק מתעלה נפש האדם מאכילתן כמו שהן באסיפה בעלמא ולזה עופות שנבראו מרקק צריך זיכוך בסימן א' קצת וק"ל.
+
+
+###### Chidushei Agadot on Chullin 27a:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/27a:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/27a:2)
+
+
+**דכתיב** על וייצר כו'. עיין פרש"י לפי' בתרא דקרא דעוף יעופף נמי משמע דמארעא אברי יש ליישב מה שהקשו התוס' אתדע שהרי עופות יש להן קשקשין מה צריך ראייה לזה שהרי בהדיא כתיב ישרצו המים שרץ וגו' ועוף יעופף דסד"א דקאי על ויצר לחוד ומארעא לחוד איבריאו ומכח ראיה דתדע ע"כ נימא דמרקק נבראו וקאי נמי אישרצו המים וגו' וק"ל:
+
+
+
+## Daf 37a
+
+###### Chidushei Agadot on Chullin 37a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/37a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/37a:1)
+
+
+**שלא**הרהרתי. דאי שלא טמא את עצמו בידים במת מאי רבותיה הא כהן הוה ועוד דאי בידים ה"ל למכתב לא טמאתי אבל מטומאה משמע שנטמאה שלא בידים ובכונה והיינו שלא הרהרתי כו' ועיין בתוספתא:
+
+
+###### Chidushei Agadot on Chullin 37a:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/37a:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/37a:2)
+
+
+**בשר** כוס כו'. והיינו מסוכנת מחמת חולי שתמות קרי ליה נבלה אבל מסוכנת מחמת טרפה לא שייך למימר דהא מן התורה אסורה כיון שסופה למות וי"ל דלא כתב כאן טרפה אלא להורות טעם דמסוכנת שאסר לו יחזקאל כמו טרפה מדאורייתא דאסורה משום שסופו למות ולפי פשוטו מלת מנעורי אין לו מקום כאן אבל לפי הדרש יש לפרש מנעורי מלשון נעור משניערה להיות נבילה ולמות וק"ל:
+
+
+###### Chidushei Agadot on Chullin 37a:3
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/37a:3](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/37a:3)
+
+
+**שלא** אכלתי מבהמה כו'. מדמה לה לפיגול שהוא דבר נאסר במחשבה בקרבן בחוץ לזמנו או חוץ למקומו כך בהמה שהורה בה חכם קודם הוראה היתה לפי מחשבת השואל שמא הוא דבר אסור ולמ"ד מבהמה שלא הורמו מתנותיה שעושה טבלים כמו בתרומה שהוא תולה במחשבה ע"י שנותן עיניו בצד זה ואוכל בצד אחר כדאמרי' פ"ק וק"ל:
+
+
+
+## Daf 44a
+
+###### Chidushei Agadot on Chullin 44a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/44a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/44a:1)
+
+
+**זה**הרואה טרפה לעצמו. עיין פרש"י ועי"ל הרואה טרפה לעצמו ואינו מאמין לאחרים על הטרפות הרי כי מזמנים לו לא אזיל והרי הוא מקיים שונא מתנות יחיה ואהא מייתי ההיא דר"א דכי הוה מזמנין ליה לא אזיל ואמר לא קבעי מר דאיחי כו' וק"ל:
+
+
+###### Chidushei Agadot on Chullin 44a:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/44a:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/44a:2)
+
+
+**הרואה** טרפה לעצמו כו'. עיין פרש"י ושמעתי פירוש הפסוק בזה שאומר אשרי כל ירא ה' ההולך וגו' ר"ל מי שבא לידו ספק טרפות והוא ירא את ה' ומחמיר על עצמו מספק לאכלה הנה אשריו בעה"ב שמנע עצמו מספק טרפה אבל יגיע כפיך כי תאכל וגו' יש לו מעלה יתירה דהיינו שמיגע עצמו וכפיו למצוא היתר לספקו עד שאוכלה הנה זה שזוכה ב' עולמות דכתיב ביה אשריך בעה"ז שהרי אוכלה וטוב לעה"ב שהתיגע נפשו בתורה וק"ל:
+
+
+
+## Daf 49a
+
+###### Chidushei Agadot on Chullin 49a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/49a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/49a:1)
+
+
+**אווזא**בזוזא וריאה [דידה] בד' כו'. חושבנא דדין כחושבנא דדין ור"ל לא ביותר ' מכדי דמי' רק בכדי שווי' וק"ל:
+
+
+###### Chidushei Agadot on Chullin 49a:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/49a:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/49a:2)
+
+
+**ואברכה** מברכיך כו'. כתבו התוס' ואפי' כותים כו' כותי דיהיב שלמא לר' ישמעאל כו' עכ"ל ר"ל ולהכי אצטריך ליה ואברכה מברכיך לר' ישמעאל ויש לפרש לפי זה דבמקום ברכה דישראל דעדיפא היינו משום דהוה ברכה מיוחדת לכהנים משא"כ ואברכה מברכיך דהוה כוללת אף לכותים לר"י:
+
+
+
+## Daf 55a
+
+###### Chidushei Agadot on Chullin 55a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/55a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/55a:1)
+
+
+**מסאה**ועד סאתים בחצי לוג וכו'. בהלכה זו עמדנו בימי חנוכה ואמרנו להעלות על ספר מהיכן שלמדו לומר כן ובנרות חנוכה שהיא הנס גם ביום ראשון ימי חנוכה לפי שהמנורה היתה טמאה וליכא למימר שעשו המנורה של עץ כמ"ש הרא"ם דהא בשעת עשיה היו מטמאין אותה ועוד לת"ק דפליג אר"י ב"י ופוסל גם בשל עץ מאי איכא למימר אלא בין לת"ק ובין לר"י ב"י בפ' כל הצלמים ופרק אין מכירין אית לן למימר דלא היה אפשר להן אלא בשברי כלי חרס שהן טהורין דהיינו הבאין מסתם כלים היותר גדולים שנזכרו בשמעתין מסאה ועד סאתים שבשבריהם נטהרו בפחות מחצי לוג והשתא ע"כ בלילה הראשונה ג"כ לא נתנו אלא פחות מחצי לוג לכל נר ונר שהוא עיקר שיעור השברים שנטהרו ואעפ"כ היו דולקין כל הלילה בימי חנוכה שהם לילי טבת ארוכים דצריך חצי לוג לכל נר לפרש"י בפרשה תצוה וא"כ היה הנס גם ביום ראשון וע"ז רמז הכתוב בנרות דזכריה מי בז ליום קטנות דאם היה הנס בשאר ימי השנה היה אפשר לבעל דין לחלוק ולומר שלא היה נס ביום ראשון דפחות מחצי לוג יכול להיות דולק כל הלילה בשאר ימות השנה אבל מי בז ליום קטנות שהיה הנס ביום היותר קטנות דהיינו בימי טבת שהלילות ארוכים וצריך חצי לוג לכל נר ונר שהיה דולק כל הלילה ודו"ק ועיין בפרק במה מדליקין:
+
+
+
+## Daf 56b
+
+###### Chidushei Agadot on Chullin 56b:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/56b:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/56b:1)
+
+
+**הוא**עשך ויכוננך כו'. עיין פרש"י אבל בערוך בערך הזר ובערך כן פירש שהוא לשון סיבוב כמו בחבל שהוא מכונן על צוארה דפ"ד דמכשירין והמכנן את החבל על יד כי' דפ"ז דפרה. ועש"ז נקראו הבני מעים הסובבים הדורא דכנתא וכן פי' הרע"ב בפי' המשנה בפ"ו דפרה מכנן מלשון הדורא דכנתא ובפ"ד דמכשירין גבי' מכונן על צוארה לשון הוא עשך ויכוננך ע"ש וק"ל:
+
+
+###### Chidushei Agadot on Chullin 56b:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/56b:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/56b:2)
+
+
+**ממנו** כהניו כו'. כולה מפרש בתורה ממנו כהניו שנתנה לאהרן ולזרעו לדור עולם ממנו נביאיו שנאמר נביא מקרבך מאחיך וגו' ממנו מלכיו שנא' מקרב אחיך תשים עליך מלך ולא מייתי מהאי קרא דממנו יתד וגו' דלמעלה הוא לישראל דאין צריכין משום דבר לאומה אחרת וק"ל:
+
+
+
+## Daf 57b
+
+###### Chidushei Agadot on Chullin 57b:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/57b:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/57b:1)
+
+
+**מאי**עסקן בדברים כו'. כתבו התוס' אע"ג דבכה"ג חשיב בהמוכר את הספינה מלגלג כו' ולהודיע איך שלמה ידע עכ"ל והוא דחוק דשלמה ודאי ברוח הקודש ידע ואמרה אבל הנראה דאין זה מלגלג כמ"ש בעל חובת הלבבות בדברים התלוים באמונה אף שידע אותם בקבלה צריך כל אדם לחקור אותם במופת והוא שקראו עסקן בדברים בעלמא כגון זו עסק וראה ר"ש בן חלפתא לחקור אחריהם לידע אותם במופת וק"ל:
+
+
+###### Chidushei Agadot on Chullin 57b:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/57b:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/57b:2)
+
+
+**לך** אל נמלה וגו'. בפ' המוציא תפילין יליף מהאי קרא גזל מנמלה ויש לפרש משום דיש לדקדק בהאי קרא מאי קאמר לך אל נמלה עצל דהא ודאי מדת זריזות הוא זה ועוד דרכיה לשון רבים ולא נקט בקרא רק דרך א' תכין בקיץ לחמה אבל נקט קרא עצל דאפי' היותר עצל שבו אינו סומך על של חברו שלא יבא לידי גזלה ולא כן אדם העצל שלא חש ע"ז וסומך על של חברו גם אם לא יתן לו יטול בחזקה והיינו גזל מנמלה והיינו דרכיה לשון רבים הא' כפשוטו שמכין בקיץ מה שצריך בחורף והב' דאפי' העצל עושה כן שלא יבואו לידי גזלה גם בכלל דרכיה לשון רבים מה שנזכר בהאי עובדא דאוהבים האמת ועונשין למשקר בהריגה וק"ל:
+
+
+
+## Daf 58b
+
+###### Chidushei Agadot on Chullin 58b:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/58b:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/58b:1)
+
+
+**אמרי** אנשי שב שני אימרא בקתא מבקא כו'. גם אם לישנא דאינשי הוא אינו דומה דלחוכא וטלולא נאמר אבל הוא משל על אשה רעה מסייעתו להרע לאחרים ולפעמים הוא עושה רעה לאחרים ולא הודיע לה עד אח"כ וחרה לה על אישה שלא הודיעה כדי שתהיה גם היא עושה כמו כן כמו בקתא זו שחרה לה על הבקא שלא הודיע אותה שאפשר למצוץ דם דרך הסדין וק"ל:
+
+
+###### Chidushei Agadot on Chullin 58b:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/58b:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/58b:2)
+
+
+**ס'** מאני דפרזלא תלוי ליה לבקא כו'. גם זה למשל נאמר על בעל לשון הרע שהוא חושב שלא עשה כלום בדיבורו ל"ה אבל נשיכתו כבידה כנשיכת בקא זו כדאמרינן בערכין שהיא שקולה נגד ג' עבירות ע"ז וג"ע וש"ד דהתם כתיב גדולה והכא כתיב מדברת גדולות ודו"ק:
+
+
+
+## Daf 59a
+
+###### Chidushei Agadot on Chullin 59a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/59a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/59a:1)
+
+
+**ואי**לאו דיתבי במיא כו' וקיימתי בעצמי החכמה וכו'. לפי שרפואה זו בחנם היה בדבור שניתן לעולם בחנם כמ"ש במדרש נמשלה התורה למים מה מים בחנם כו' ע"כ מביא האי קרא דכתיב ברישא כי בצל החכמה בצל הכסף שפעמים שצריכין לשניהם לחכמת הרופא וגם כסף הוצאת צורך רפואות אבל יתרון דעת החכמה שהיא בעצמה תחיה בעליה בלא כסף כרפואה זו במים קרים וק"ל:
+
+
+###### Chidushei Agadot on Chullin 59a:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/59a:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/59a:2)
+
+
+**קרי** עליה כו'. לא יאונה לצדיק כל און עבירה משמע אבל חמירא סכנתא מאיסורא וק"ל:
+
+
+
+## Daf 59b
+
+###### Chidushei Agadot on Chullin 59b:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/59b:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/59b:1)
+
+
+**ע"ב כאריה** מתיל כו'. הנה זה הקיסר כפר ביכולת ושיש אחר שיש לו כח ויכולת יותר ממנו דהא פרשא קטיל אריה וא"ל דמתיל לאריה דבי עילאי דעל ההוא אריה נאמר אריה שאג מי לא יירא שאין הפרש יכול לו מיראת שאגתו כמו שהראה לו דבמרחק ד' מאות וג' מאות פרסי אפי' מעברתא ושורא נפל ונתור ככי כו' כך ה' דבר מי לא ינבא שלא יראה מאותה הנבואה שיש יכולת ביד ה' להעניש כמ"ש בענינו אם תהיה רעה בעיר וה' לא עשה. ושא"ל הקיסר שוב
+
+
+###### Chidushei Agadot on Chullin 59b:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/59b:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/59b:2)
+
+
+**בעינא** דאחזי לאלהייכו כו' וא"ל שמשא דחד משמשי דקיימי קמיה כו'. יש לדקדק אמאי לא השיב לו מהאי עובדא גופא דלעיל באריה דבי עילאי דלא מצית חזית ליה דההוא חד משמשי דקיימי קמיה קב"ה לא מצית חזית ליה שכינה לא כ"ש ונראה לפרש דמציאתו יתברך גם ליכולתו האמין הקיסר מתוך עובדא דלעיל דע"י תפלת ריב"ח בא האריה דבי עילאי וראה יכולתו שהוא א' מנבראיו יתעלה אלא דעל הראיה השכלית קאמר בעינא דאחזי לאלהייכו להשיג ממהותו וא"ל דאף בשמש לא יוכל להסתכל ולהשיג ממהותו שכבר נסתפקו בו גדולי הפילוסופין אם השמש גשמי יסוד פשוט חמישי או שהוא שכל פשוט שכינה לא כ"ש שלא תוכל להשיג מהותו אלא מציאתו מצד פעולותיו יתברך. ושוב א"ל קיסר
+
+
+###### Chidushei Agadot on Chullin 59b:3
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/59b:3](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/59b:3)
+
+
+**בעינא** דאיצבת ליה נהמא כו'. שהאמין בגשמות מצד פעולותיו בעוה"ז שהם גשמיים כמו השמש שלא יוכל להשיג מהותה ואעפ"כ אפשר שהוא גשמי כנראה מצד פעולותיו וע"ז מסיק לו בתשובתו הני כנושאי וזלוחאי כו' מצד פעולות משמשיו נשתלשל לפעולת גשמים. ובת קיסר שאמרה
+
+
+###### Chidushei Agadot on Chullin 59b:4
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/59b:4](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/59b:4)
+
+
+**אלהיכם** נגרא הוא כפרה בהשגחה פרטית שהוא נגרא שעשה לו תקרה ועליה שהם השמים ואינו משגיח בארץ כמ"ש הכופרים עזב אלהים את הארץ והנה על ידי תפלת ריב"ח נראה לה ההשגחה פרטית שנשתלם לה מדה כנגד מדה שנצטערת ויהב לה מסתוריתא וק"ל:
+
+
+
+## Daf 60a
+
+###### Chidushei Agadot on Chullin 60a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/60a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/60a:1)
+
+
+**אמר**רב יהודה שור שהקריב אדם הראשון קרן כו' וקרניו קודמות לפרסותיו כו'. הענין מבואר כי הקרן נאמר בכ"מ על עיקר הדבר כמ"ש הקרן קיימת כו' והנה לפי שאדם נטה בחטאו למינות להאמין ח"ו בשניות כמ"ש בסנהדרין אדם הראשון מין היה וכפר בעיקר שנאמר איכה אן נוטה לבך ולכך כשחזר בתשובה הקריב שור שהיה לו קרן א' מורה על עיקר האחדות וע"כ היה בו הקרן שהוא א' קודם לפרסותיו שהם שנים מורים על הריבוי שהנמצאות בהשתלשלם יגיעו בסופם לרבים ודו"ק:
+
+
+###### Chidushei Agadot on Chullin 60a:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/60a:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/60a:2)
+
+
+**אל** תקרי צבאם אלא צביונם. פירשו התוספות מפי' הערוך דכולהו מצביונם נפקי כו' ע"ש והוא דחוק לפרש בצביונם קמא דוקא מלשון יופי וצביונם בתרא בג' לשונות ונראה שדרשו כן מהאי קרא דאמאי נקט רב צבא השמים והארץ טפי משאר יסודות הפשוטים וצבאם וע"כ דרשו שרמז הכתוב כאן על כל הנבראים שעלה בבריאותם חומר וצורה ותכלית והוא שאמר בקומתן נבראו שהוא קיימת וגודל חומר כל נברא ובדעתן נבראו הוא ידיעת צורה של כל נברא שבו ניכר ונודע כי הוא זה בצורתו וצביונם נבראו הוא רצונם התכליתי הנראה ממנו והוא שרמז ויכלו השמים שהוא יסוד היותר פשוט מחומר וקרוב לצורה והארץ הוא היסוד היותר גשמי בחומרו וצבאם הוא התכלית הרצוני של כל נברא וד"ק:
+
+
+###### Chidushei Agadot on Chullin 60a:3
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/60a:3](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/60a:3)
+
+
+**ק"ו** בעצמם כו'. נראה כמ"ש אין לך עשב ועשב מלמטה שאין לו מזל ומלאך והם נשאו ק"ו בעצמם שלא לצאת בערבוביא וכה"ג כתבו התוס' בפ"ק גבי גינאי נהרא חלוק לי מימך כו' ע"ש וק"ל:
+
+
+###### Chidushei Agadot on Chullin 60a:4
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/60a:4](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/60a:4)
+
+
+**פתח** שר העולם כו'. הוא מטטרון כמ"ש התוספות והוא שר העולם ע"ש כי מטטרון גימטריא שדי שאמר לעולמו די שלא יהיה יותר מת"ק כי הנעלם משדי הוא ת"ק כמו שכתבו התוספות פרק אין דורשין וק"ל:
+
+
+
+## Daf 60b
+
+###### Chidushei Agadot on Chullin 60b:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/60b:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/60b:1)
+
+
+**ע"ב א"ל** לכי ומעטי את עצמך כו'. הענין הרמוז כמו שכתבו המפרשים לכנסת ישראל שימעטו את עצמן בעוה"ז כדאמרינן פ' גיד הנשה כי אתם המעט וגו' כי אתם הממעטין כו' וענין לכי ומשול ביום ובלילה הוא שע"י שאתם ממעטין עצמכם בעוה"ז שהוא לכם לילה תזכו למשול גם בעוה"ב שהוא לכם ליום ותשובה שרגא בטיהרא כו' כי אין זה ממשלה בעוה"ז והיתה התשובה לימנו בך ימים ושנים שתמשלו בעוה"ז שהם ימי המעשה במנין הימים ושנים אשר על ידו תזכו לעולם שכולו ארוך באין מנין ואמרה יומא נמי שהוא טובת העוה"ז אשר ניתן לעובדי כוכבים א"א דלא מנו ביה תקופות רמז כי דבר המקיף אם אינו גדול כ"כ הנה אין לו סוף והוא ענין שרבו גם רבו ממשלת העובדי כוכבים בעוה"ז ואמר לה זיל ליקרו בך צדיקי כו' אמר לה כן ליישב דעתה כי אלו הצדיקים לא נקראו כן אלא ע"ש שמקטינין עצמן בעוה"ז יעקב אמר קטנתי מכל וגו' וכן בדוד כדאמרינן הוא הקטן כשם שבקטנותו הקטין את עצמו כו' ושמואל הקטן בעובדא דפ"ק דסנהדרין חזייא דלא קא מתיישבה דעתה שלא יהיה לה כלל ממשלה בעוה"ז אמר ששעיר של ר"ח יהיה כו' הוא שעיר הוא אדום הוא מקטרגן של ישראל להתיש כחו בר"ח ושיהיה גם לישראל לפעמים ממשלה בעוה"ז כירח הזו שפעם שהיא מתגדלת מתחלת החדש ופעם שהיא מתקטנת בסוף החדש וכן הוא הענין בכנסת ישראל כדאיתא במדרשות:
+
+
+###### Chidushei Agadot on Chullin 60b:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/60b:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/60b:2)
+
+
+**ועמדו** על פתח קרקע כו'. לפי מה שפרש"י בחומש שהכל נברא ביום ראשון וכל א' נקבע ביומו גם הדשאין נבראו ביום ראשון ועמדו מאז על פתח קרקע אלא שבתלתא בשבתא יצאו קצת עד שבקש אדם רחמים וצמחו ביום ו' והענין מבואר שאמרו בפ"ק דתענית גדול יום הגשמים כיום שנבראו בו שמים וארץ ואמרו שבתחלה עלה במחשבה לבראו במדת הדין ולבסוף שיתף עמו מדת הרחמים כנאמר בענינא ביום עשות ה' אלהים ארץ וגו' ובגשמים נאמר כיוצא בזה כי לא המטיר ה' אלהים על הארץ ואדם אין וגו' דכשעדיין לא היה אדם בעולם לא המטיר ה' אלהים במדת הדין שהיה שליט עד שבא אדם ובקש רחמים להפך מדת הדין לרחמים והוא ענין שהקב"ה מתאוה לתפלתן של צדיקים שהם מטילין כח וגבורה בפמליא של מעלה שהוא מדת הרחמים שיגבר על מדת הדין:
+
+
+###### Chidushei Agadot on Chullin 60b:3
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/60b:3](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/60b:3)
+
+
+**כתוב** קניגי כו' כתוב אדונקי באגדתיך כו'. עי' פרש"י ובערוך בערך אדונקי פירש ענין אדונים הוא כו' זיל כתוב באגדתיך באגדה שלך שכן דרך לכתוב באגדות תי' קשות ויש ששונים באגרתיך שכן דרך לכתוב באגרות תי' תמורות עכ"ל:
+
+
+###### Chidushei Agadot on Chullin 60b:4
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/60b:4](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/60b:4)
+
+
+**עוים** מתימן באו כו'. ויהיה והעוים מחובר למקרא שלאחריו דכתיב מתימן כל ארץ וגו' כמ"ש התוס'. ואמר
+
+
+###### Chidushei Agadot on Chullin 60b:5
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/60b:5](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/60b:5)
+
+
+**ולמה** נקראו עוים שעיוותו מקומן. לשון חורבן כמו עוה עוה עוה אשימנה ד"א שאיוו לאלוהות כו' א' מתחלף בע' בלשון כמ"ש בר' חייא שקרא לאלפין עיינין כו' ורמז בזה דכתיב אלוה מתימן יבא וגו' כדאמרי' שלא רצו לקבל אלוה א' ואיוו לאלוהות הרבה וק"ל:
+
+
+###### Chidushei Agadot on Chullin 60b:6
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/60b:6](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/60b:6)
+
+
+**ליפקו** מכפתורים כו'. אין זה מפורש בקרא אבל הוא בכח המאמר דלכך נכתב המקרא אבל גבי חשבון מפורש בקרא דאתו ישראל וליפקו מסיחון והא דלא חשיב בכיבוש א"י רק ז' עממים ולא חשיב נמי ארץ עוים שכבשו מכפתורים י"ל דכל ארץ פלשתים מארץ כנעני תחשב כמפורש בספר יהושע וק"ל:
+
+
+###### Chidushei Agadot on Chullin 60b:7
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/60b:7](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/60b:7)
+
+
+**שריון** תנא כו'. ובחומש הוסיף רש"י לפרש בו ובמקום אחר הוא אומר עד הר שיאון הוא חרמון הרי לו ד' שמות כו' ע"ש וקאמר הכא דאפי' הרי ארץ ישראל כו' ר"ל אפי' אלו הרים גבוהים שנקראין שניר על שם הרי שלג כפרש"י בחומש דאין דרך להיות שם ישוב אעפ"כ חביבין הן על א"ה וק"ל:
+
+
+###### Chidushei Agadot on Chullin 60b:8
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/60b:8](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/60b:8)
+
+
+**ואת** העם העביר וגו' מנ"מ כו'. לפי פשוטו איכא טעמא לפי שכבר קנה יוסף בלחם את כל אשר להם גם את ארצם העביר אותם מעיר לעיר כדי שיהיה להם זכרון שאין להם עוד חלק בארץ כפרש"י בחומש מ"מ כל הסיפור זה לא הוה איצטריך אי לאו לאשמועינן שהיה חס על כבודן של ישראל דלא ליקרו כו' וק"ל:
+
+
+
+## Daf 63a
+
+###### Chidushei Agadot on Chullin 63a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/63a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/63a:1)
+
+
+**אמר**משפטיך וגו'. עיין פרש"י ועי"ל דה"ק צדקתך לנמלה שאתה נותן לה דעת להכין מזונותיה בקיץ הוא במדת טובך כהררי אל נגלית ומפורסם כמ"ש לך אל נמלה עצל תכין וגו' ומשפטיך שאתה עושה בדגים הוא במקום סתר בתהום רבה וק"ל:
+
+
+###### Chidushei Agadot on Chullin 63a:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/63a:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/63a:2)
+
+
+**באו** רחמים כו'. היינו מטר כפרש"י כדאמרינן במסכת תענית שהם רחמים לעולם ואפשר שזה הוא בטבע שהעוף זה יודע זמן גשמים באים לעולם ומבשר טוב על כך וראו זה בנסיון והיינו דקאמר והוא דיתיב אמידי כו' דכן ראו זה כמה פעמים בנסיון כשיושב אמידי ועביד שרקרק כך בא אח"כ מטר אבל לבשר הגאולה ודאי אין זה בטבע אלא בנס ומ"ה קאמר וגמירי דאי יתיב אארעא כו' דיש להם קבלה על כך ולא בנסיון ויש בזה רמז בקרא דכתיב מה נאוו על ההרים רגלי מבשר וגו' כלומר רגלי מבשר הוא עוף הזה המבשר על המטר כשאינו יושב על הארץ אבל מה נאוו כשיהיו רגלי מבשר על ההרים דהיינו כשעומד אארעא דאז משמיע ישועה וגו' וקול צופיך הוא עוף זה המצפצף נשאו קול יחדיו ירננו וגו' רננו לא נאמר אלא ירננו לעתיד כדאמרי' ר"פ חלק וק"ל:
+
+
+###### Chidushei Agadot on Chullin 63a:3
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/63a:3](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/63a:3)
+
+
+**אפסקיה** למוחיה כו'. לכאורה קשה דקארי ליה מאי קארי ליה הא קחזינן דלא שרק כהוגן שלא בזמנו שהרי נענש ואפסקיה למוחיה כו' וי"ל דהכי פריך דהא חזינן דגם אם שרק על הארץ אתא גשם שעמד העוף בי כרבא ורמז בשריקתו שהמטר יבא על החרישה הצריכה למטר וכן היה שבא מטר והרעם בתוך המטר הביא גלל ואפסקיה למוחיה משום דלא עשה כדרכו ליתיב אמידי אלא יתיב אקרקע ומ"מ חזינן דגם אם הוא יושב על הארץ אתא מיטרא ולא משיחא. ומשני
+
+
+###### Chidushei Agadot on Chullin 63a:4
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/63a:4](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/63a:4)
+
+
+**ההוא** ביידא הוה. דלא אתי מטרא משום שריקתו שהיה על הארץ אלא שהוא ודאי לא שרק על הארץ על המטר אלא על משיחא שרק ומשום דביידא הוה שלא היה עדיין זמן משיחא אתא מטרא והגלל בתוכו לאפסוקי מוחיה לעונשו על שקרו וק"ל:
+
+
+
+## Daf 63b
+
+###### Chidushei Agadot on Chullin 63b:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/63b:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/63b:1)
+
+
+**ע"ב לעולם** ישנה אדם לתלמידו דרך קצרה. מבואר בריש פ"ק דפסחים:
+
+
+
+## Daf 67b
+
+###### Chidushei Agadot on Chullin 67b:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/67b:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/67b:1)
+
+
+**לויתן**דג טהור הוא שנאמר כו'. ק"ק וכי יש להסתפק בו בדג טמא וכי יאכיל הקב"ה לצדיקים לעתיד דבר טמא ויש ליישב דיש להסתפק בלויתן שאינו כלל מין דג טהור ומין אחר טהור הוא כגון עוף הדר במים כמו בר איוזא ומייתי דדג טהור הוא שהרי יש לו קשקשים וסנפירים כשאר דגים טהורים וק"ל:
+
+
+
+## Daf 84a
+
+###### Chidushei Agadot on Chullin 84a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/84a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/84a:1)
+
+
+**מע"ש**לע"ש כו' פרש"י אלו האחרים שאמרת ליטרא דגים וליטרא בשר אימת כו' עכ"ל. ע"ש והוא דחוק דלא יהיה קאי נמי אליטרא ירק שאמר דאי לאו בכל יום מה יאכל ולולי פירושו נראה לפרש דאכולהו קאי בין אמי שיש לו מנה ובין אמי שיש לו י' מנין ובין אמי שיש לו נ' מנה דלא יאכל רק ליטרא בשר הני כולהו לאימת יאכלו בשר בריוח וקאמר מע"ש לע"ש וק"ל:
+
+
+###### Chidushei Agadot on Chullin 84a:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/84a:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/84a:2)
+
+
+**מגז** כבשים כו'. פרש"י קנה לך צאן כו' ואין זה במשמעות הכתוב ונראה לפרש כעין שאמר הכא שיפחות האדם באכילתו ולא ילך אחר המותרות כן אמר לענין מלבושיו שלא יבקש לו בגדי משי חשובים אלא מגז כבשים דהיינו בגד צמר ללבושיך ובמאכליו אמר כאן אל תבקש בשר ללפת בו הפת כי די לך חלב עזים ללחמך דהיינו ללפת בו הפת ואמר לחמך קודם כו' דלכך לא כתיב ולחם ביתך בוי"ו ומסיים תן חיים לנערותיך דבימי נערות תרגיל ולמוד עצמך ליתן חיים לנפשך דהיינו רק לקיום הנפש ולא תבקש מותרות ועוד יפורש לקמן וק"ל:
+
+
+
+## Daf 84b
+
+###### Chidushei Agadot on Chullin 84b:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/84b:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/84b:1)
+
+
+**ע"ב עשתרות** שמעשרות את כו'. רש"י הביא דרש זה בפרשת עקב וכתב הרא"ם בפרשת תבא דגם לפי זה יהיה עשתרות מלשון חוזק ולא מלשון עושר ע"ש ומתוך שמעתין לא משמע כן וק"ל:
+
+
+###### Chidushei Agadot on Chullin 84b:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/84b:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/84b:2)
+
+
+**ורוצה** לאבדן כו'. עיין פרש"י ועי"ל כמשמעו כגון שהוא עושר ואינו רוצה שיתערבו בתוך מעותיו כי ירא פן יבא זה ויאבד את זה כדאמרי' בכתובות בבת נקדימון וק"ל:
+
+
+###### Chidushei Agadot on Chullin 84b:3
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/84b:3](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/84b:3)
+
+
+**לעולם** יאכל אדם כו'. ודרש ליה לקרא הכי טוב איש חונן לבניו ולאשתו לכבדם מלבושים נאים יותר ממה שיש לו דהיינו אם אין לו שיהא מלוה בשבילם אבל דברים הצריכים לו יכלכל במשפט שכלו דהיינו אכילה ושתיה פחות ממה שיש לו ומלבושיו במה שיש לו וע"ז אמר לעיל מגז כבשים שיש לך ללבושיך ואל תחפוץ במלבושי כבוד יותר משיש לך ואמר דיו שיתפרנס מחלב גדיים כו' דהיינו שלא יאכל הגדיים וטלאים הקטנים שיש לו אלא שיתפרנס בפחות דהיינו מחלבם ואמר לחמך קודם ללחם ביתך שהוא דבר ההכרחי לאדם אבל בכבוד דהיינו במלבושים נאים דקרי ליה למאני מכבדותי אשתו ובניו קודמין לכבדם יותר משיש לו וק"ל:
+
+
+
+## Daf 86a
+
+###### Chidushei Agadot on Chullin 86a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/86a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/86a:1)
+
+
+**כל**העולם כולו ניזון בשביל חנינא כו'. יבואר במסכת תענית:
+
+
+
+## Daf 87a
+
+###### Chidushei Agadot on Chullin 87a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/87a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/87a:1)
+
+
+**לא**ברא רוח כו' הצדוקי הזה נטה להאמין בשניות ואמר מי שברא הרוחני לא ברא הגשמי שהם ההרים ולכך שינה הלשון ברא בדבר רוחני ויצר בדבר גשמי והיה תשובת רבי לו שוטה שפיל לסיפיה דקרא כי תשובתך בצידו ה' צבאות שמו כי ה' שהוא שמו המיוחד הוא ה' של שני הצבאות שהם הגשמי והרוחני וכה"ג איתא בסנהדרין ששאל צדוקי א' לר"ג כו והשיב לו ר"ג אלא מעתה גבי אדם דכתיב ויברא ויצר ה"נ כו' דכתיב גבי צלמו שהוא צלם אלהים דבר רוחני לשון בריאה וגבי יצירת הגוף כתיב ויצר ה' אלהים אדם מן האדמה וזה אין סברא שיהיו שני שותפין באדם א' כדמסיק שם ויבואר זה במקומו שם. ומ"ש ויתנו בברותי ראש כו' המינות נקרא ראש ע"ש הפסוק שורש פורה ראש ולענה וגו' ודו"ק:
+
+
+
+## Daf 88b
+
+###### Chidushei Agadot on Chullin 88b:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/88b:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/88b:1)
+
+
+**ואנכי**עפר כו'. ולפום ריהטא הוא דחוק וכי אילו לא אמר אברהם ואנכי עפר וגו' לא היה לטומאת מת טהרה עולמית ואפשר לפרש דאי לאו בשכר אברהם היה הכשר טהרת טמא מת בענינים רחוקים אשר מניאותם היה קשה אמנם בשכר שמיעט אברהם את עצמו שאמר ואנכי עפר ואפר זכו להיות הכשר והזאת טהרתם בענינים אשר קלים מציאותם שהם עפר ואפר והזכות הוא מן הדומה לדומה שבזכות שאמר ואנכי עפר בתחלת יצירת אדם כמבואר לקמן בסמוך זכו לעפר סוטה שעל ידי זה תזכה להוליד בן כאברהם כמבואר בפרק כשם ובזכות שאמר ואנכי אפר במותי זכו לטהר באפר טומאת מת וק"ל:
+
+
+
+## Daf 89a
+
+###### Chidushei Agadot on Chullin 89a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/89a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/89a:1)
+
+
+**זכו**לב' מצות לחוט כו' דעיקר תפילין וציצית טעם מבואר בתורה אבל מצות " הנוספות בכ"א דהיינו בציצית חוט אחד של תכלת כדכתיב ונתנו על ציצית הכנף פתיל וגו' וכן הקשירה בתפילין דוקא ע"י רצועות קמיירי הכא ומהא דקאמר הכא בשלמא רצועה דכתיב וראו כל עמי הארץ וגו'. יש להביא ראיה לפרש"י בפ' התכלת שפירש אלו תפילין שבראש כו' מפני שיש על של ראש שי"ן ודלי"ת שהוא רוב השם כו' ודו"ק ועיין בתוס' פ"ק דברכות דף ו':
+
+
+###### Chidushei Agadot on Chullin 89a:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/89a:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/89a:2)
+
+
+**מפני** שתכלת דומה לים כו'. יראה שרמז בזה קישור שלש עולמות זה בזה מלמטה למעלה ברצון הש"י והוא שאמר הים שהוא כלל עולם התחתון כפי טבע הבריאה שהיה העולם כולו מים במים עד מאמר יקוו המים והנה הוא מתדמה ומתקשר ברקיע שהוא עולם האמצעי ורקיע שהוא כלל עולם האמצעי הוא מתדמה ומתקשר בעולם המלאכים הדומים לאבן הספיר כי המה ספיריים בזכותם ובצורתם ואבן הספיר שהוא עולם המלאכים הוא מתדמה ומתקשר בכסא כבודו יתעלה והוא שאמר במצות תכלת וראיתם אותו וזכרתם וגו' ולא תתורו אחרי לבבכם וגו' לעשות ח"ו פירוד בקישור הג' עולמות שזכרנו ודו"ק:
+
+
+###### Chidushei Agadot on Chullin 89a:3
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/89a:3](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/89a:3)
+
+
+**קשה** גזל הנאכל שאפי' צדיקים כו'. יראה דודאי הכא לאו גזל מקרי דאל"כ איך אמר אברהם על מה שהיה בעין וחלק האנשים אשר הלכו אתי יקחו חלקם וגו' ועוד דכבר מחל מלך סדום על הכל שנא' והרכוש קח לך וגו' ועוד כנראה מעניינו שמלך סדום לא היה יכול להציל ואמרינן בהגוזל בתרא דאפי' לא אמר אני אציל לעצמי הציל לעצמו אלא שאברהם ממדת חסידות לא רצה ליהנות כמ"ש שלא תאמר אני העשרתי וגו' והכא ה"ק קשה גזל הנאכל בגזלן דעלמא שקשה לו לעשות תשובה ולשלם לכ"א מה שכבר גזל כההיא איתתא שאמרה ריקה אפי' אבנט כו' והביא ראיה מאברהם שהרי לא היה רוצה ליהנות והיה בעיניו כגזל ואעפ"כ אמר רק אשר אכלו הנערים שקשה היה בעיניו לשלם מה שכבר נאכל ודו"ק:
+
+
+###### Chidushei Agadot on Chullin 89a:4
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/89a:4](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/89a:4)
+
+
+**נתתי** גדולה לאברהם כו'. מבואר ברוב גדולה האדם יזכור שפלות בריאתו ולזה אברהם הזכיר שפלות תחלת היצירה שנברא אדם הראשון מן האדמה וז"ש ואנכי עפר מתחלת היצירה ואפר בסוף ע"ש ואל עפר תשוב ואהרן ומשה הוסיפו בשפלות יצירת שאר כל אדם אף שיצירת האדם היה מדבר שיש לומר עליו מה שהיא האדמה אבל אנחנו מה היתה יצירתנו מטפה סרוחה של כלום מה היא וזה"ש אין העולם מתקיים אלא בשביל משה כו' ר"ל כי בזה השפלות היצירה שאמרו מה מתקיים מאדם הראשון ואילך שאין כאן יצירה אלא מטפה סרוחה ודוד אמר אנכי תולעת וגו' הזכיר שפלות היצירה פרטית שהיה בו לפי מה שאחז"ל שהיה ראוי להיות נפל ביצירתו אלא שניתן לו ע' שנים שהיו חסרים לאדם בשביל חטאו עד אלף שנים יומו של הקב"ה וע"ז אמר ואנכי בתחלת יצירתי ראוי להיות נפל לבא מיד לרמה ותולעה אבל מהחסד אלהים היה שניתן לי שבעים שנה ולחרפת אדם שנחסרו משנותיו בשביל חטאו שהיא חרפתו וק"ל:
+
+
+###### Chidushei Agadot on Chullin 89a:5
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/89a:5](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/89a:5)
+
+
+**יכול** יגיס דעתו כו'. עיין פרש"י והוא דחוק ועוד נ"ל לפרש ע"פ מה שאמרו במס' תענית בעובדא דראב"ש שהיה דעתו גסה עליו מפני שלמד תורה הרבה נזדמן לו אדם א' א"ל ראב"ש כמה מכוער אותו האיש והשיב לו לך אצל האומן שעשאני וע"ז הזהיר כאן שלא יגיס דעתו לומר כן אלא מישרים תשפוט בשכלך את בריאת בני אדם כענין שנא' והאלהים עשה את האדם ישר וגו' וק"ל.
+
+
+
+## Daf 90b
+
+###### Chidushei Agadot on Chullin 90b:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/90b:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/90b:1)
+
+
+**דברה**התורה לשון הבאי ערים גדולות וגו'. בערוך בערך גוזמא שהוא משל כשם שהשמים אתה מגביה ראשך כו' כך הערים האלה אי אתה רואה את ראש המבצר עד כו' ע"ש באורך:
+
+
+
+## Daf 91a
+
+###### Chidushei Agadot on Chullin 91a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91a:1)
+
+
+**רבי**יהושע בן לוי אמר כו' כעובד כוכבים נדמה לו כו' כת"ח נדמה לו כו'. יש לשאול מהיכן הדעת של תורה מכרעת לומר כן דאימא כישראל נדמה לו וכע"ה ונראה לפרש דכיון דהעיד הכתוב שלא היה יכול לו יש לי לומר מאיזה מקום בא עליו המלאך עד שנגע בכף ירך א' שלא היה יכול ליזהר ממנו והכתוב בא לפרש ולא לסתום ולהכי קאמרינן דכעובד כוכבים נדמה לו או כת"ח נדמה לו דהשתא שפיר נדע באיזה ירך נאסר דהיינו טופלו לימינו אבל אם היה נדמה לו כישראל וכע"ה אכתי לא היה ידעינן באיזה ירך שנאסר כיון דיכול לטופלו לאיזה צד שירצה וק"ל:
+
+
+###### Chidushei Agadot on Chullin 91a:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91a:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91a:2)
+
+
+**בהאבקו** עמו כאדם שחובק כו' ורש"י בחומש כתב מנחם פי' לשון אבק שהיו מעלים עפר כו' ול"נ שהוא לשון ויתקשר כו' שחובקו ואובקו כו' עכ"ל צ"ע שהוא הכריע שלא כדברי מנחם שהוא לשון אבק אלא מלשון קישור כאילו מפיו אנו חיים והנה פירושו ופירוש מנחם הם בעצמם פלוגתא דתנאי הכא. בשמעתין ויש ליישב בדוחק וכוונת הדרוש בשהתאבקו עד כסא הכבוד עיין בחדושי אגדות הרשב"א בע"י:
+
+
+###### Chidushei Agadot on Chullin 91a:3
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91a:3](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91a:3)
+
+
+**דבר** שלח ביעקב זה גיד הנשה כו'. ר"ל כל שאר מצות אין להם דבר (סבה) מיעקב רק זו המצוה ששלח אדני ביעקב גופיה דבר דהיינו שתקע כף ירך ובסבה זו נפל המצוה בכל אומה ישראלית והענין מבואר בקרא וירא כי לא יכול לו שראה כי עלה השחר שדמות יעקב הוא למעלה לא יכול לו לעצמו ויגע בכף ירכו רמז דליוצאי ירכו יוכל להזיק וע"כ לא יאכלו בני ישראל וגו' לפי שנגע בהם להזיקם וק"ל:
+
+
+###### Chidushei Agadot on Chullin 91a:4
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91a:4](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91a:4)
+
+
+**פרע** להם בית השחיטה כו'. דקדק לומר גבי גיד הנשה בפניהם ולא קאמר גבי בית השחיטה משום דאם היה השוחט אחד מבית יוסף אפילו לפניהם לא היה מועיל כיון דשחיטת עובד כוכבים פסולה אפילו בעומד ע"ג ופרע להם בית השחיטה היינו שיניח אותן שיפרעו להן בעצמן אבל בגיד הנשה ודאי דאף בעובד כוכבים נוטל לפניהם סגי ועיין בחדושי הלכות פירוש והכן לפי' התוספות וק"ל:
+
+
+###### Chidushei Agadot on Chullin 91a:5
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91a:5](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91a:5)
+
+
+**על** פכים כו'. עיין פרש"י ופירוש לפירושו דמדכתיב כבר שהעביר כל אשר לו ע"כ מה שחזר שוב ונשאר שם לא היה אלא בשביל דבר מה שלא היה נחשב לכלום והם הפחותים שבכלים כדתנן פי"ב דנגעים על מה חסה תורה על כלי חרסו ועל פכו כו' על ממונו הבזוי כו' ולזה אמרו מכאן לצדיקים שחביב עליהן ממונם הבזוי כ"כ לפי שאין פושטים כו' וכדרך שאמרו ת"ח מדקדקין על פחות משוה פרוטה אך מה שפרש"י בסוף דבריו שלא הספיק להעבירם וחשכם לו הוא מגומגם דכבר כתוב והוא לן בלילה וגו' ויקם בלילה ויקח וגו' דמשמע דכל זה נעשה בלילה ודו"ק ורש"י פי' בחומש ששכח פכים קטנים והוא ע"פ ב"ר ועיין ברא"ם שם:
+
+
+###### Chidushei Agadot on Chullin 91a:6
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91a:6](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91a:6)
+
+
+**מכאן** לת"ח שלא יצא כו'. כתבו התוס' דאומר ר"ת דדוקא נקט ת"ח כו' עכ"ל ע"ש אבל ר"י פירש בתוספות רפ"ק דפסחים דבשאר כל אדם נמי שייך מפני המזיקין מדמייתי עלה מקרא דאל תצאי איש וגו' ויש לישב לפירושו דנקט הכא ת"ח לרבותא דלא תימא תורתו משמרתו מן המזיקים ועי"ל לפי מה שפרש"י לקמן גבי בועז שגנאי הוא לת"ח לצאת בלילה כו' עכ"ל והיינו דמשום מזיקין לא היה שייך שהיו נעריו עמו אלא משום גנאי נגעו בו וכדאמרי' פרק כיצד מברכין ואע"ג דלא היה יחידי אל יצא בלילה שלא יחשדוהו שהולך לזונה מ"ה נקט הכא ת"ח ובהכי ניחא דמייתי קרא דוישכם אברהם בבקר ויחבוש וגו' דנראה מפרש"י דהיינו קרא דעקידה והרי אברהם לא היה יחידי דב' נעריו היו עמו כמו שהקשו התוספות אבל אם נאמר דמשום גנאי קאמר אע"ג דלא היה יחידי ניחא אבל בפרק כיצד מברכין משמע דלא נגעו בו משום גנאי אלא ביחידי בלילה ורש"י בפירוש רות כתב טעם אחר בבועז לפי שהיה הדור פרוץ בגניבה כו' ע"ש ולא ידענא למה הניח תלמודינו וק"ל:
+
+
+
+## Daf 91b
+
+###### Chidushei Agadot on Chullin 91b:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:1)
+
+
+**ע"ב לך** נא ראה את שלום כו'. דלא יפול בו שום לשון ראה אלא לשון שאל כמו וישאלו איש לרעהו לשלום וכמוהו רבים וע"כ אמרו דראה לא קאי על השלום אלא על לך שהליכה תהיה בראיה וק"ל:
+
+
+###### Chidushei Agadot on Chullin 91b:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:2)
+
+
+**ויזרח** לו השמש כו' מהכא משמע דזרחה בעבורו משום מזיקין שלא יהיה יחידי בלילה ורש"י בחומש שפירש לו לצרכו לרפאות צלעתו כו' ע"ש הוא ע"פ ב"ר וק"ל:
+
+
+###### Chidushei Agadot on Chullin 91b:3
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:3](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:3)
+
+
+**מקום** שהתפללו אבותי כו'. כפרש"י ע"ש בית אלהים קרוי בית אל והוא הר המוריה וכן פרש"י בחומש ושיעור דבריו בפירוש החומש כך הם כי ממה שאמרו הכא צדיק בא לבית מלוני כו' ועוד אמרו בפסחים יעקב קרא לירושלים בית אל יקשה לך על ב' המאמרים אלו מהיכן למדו לומר כן שבמקום בית המקדש היה לן כמוזכר בב' מאמרים האלה דהא פשיטא דלוז אינה ירושלים כדמוכיחין המקראות וכיון דבלוז היה לן כדכתיב ואולם לוז שם העיר וגו' היאך אמרו שבמקום בית המקדש היה לן והשיב אני אומר כו' שע"י הקפיצה של הר המוריה ללוז נקרא לוז בית אל ע"ש בית אלהים דהיינו בהמ"ק ולאו היינו בית אל הסמוך לעי אלא ירושלים נקרא בית אל ע"י הקפיצה ללוז שהיה סוף גבול ארץ ישראל אבל בית אל הסמוך לעי אינו סוף גבול א"י מצד מזרח כדכתיב בית אל מים והעי מקדם וגו' ומזה תפול טענת הרמב"ן בזה ודברי הרא"ם בזה אינם מבוררים ובפ' חלק פרש"י בע"א ועיין עליו בחזקוני ואין כאן מקום להאריך:
+
+
+###### Chidushei Agadot on Chullin 91b:4
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:4](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:4)
+
+
+**כד** צלי בעי כו'. תרתי דריש מיניה מלשון תפלה ומלשון פגיעה כפרש"י וכתב הרא"ם למאי דדרשינן ויפגע מלשון תפלה יהיה פי' במקום שמו של הקב"ה כו' ע"ש ואין צורך דכיון דתרתי משמע כמ"ש הרא"ם גופיה מתפרש שפיר במקום כפשטיה על מקום בית המקדש וק"ל:
+
+
+###### Chidushei Agadot on Chullin 91b:5
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:5](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:5)
+
+
+**מיד** בא השמש וכו'. עי' פרש"י הכא ובחומש:
+
+
+###### Chidushei Agadot on Chullin 91b:6
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:6](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:6)
+
+
+**עלי** יניח צדיק ראשו כו'. בב"ר מפורש שעשאן כמין מרזב כו' רפרש"י בחומש והוא שהניח מלמטה אבן אחד להניח ראשו עליו וסביב אותוו האבן הניח הרבה אבנים בגובה מג' צדדים עד שנעשו ג' דפנות כמין מרזב שיש דף א' מלמטה וג' דפנות מצדדין התחילו כל אבנים מריבות עם אותו אבן שהניח מלמטה כל א' אומרת עלי יניח צדיק את ראשו עד וכלן נבלעים באבן א' ר"ל שכולן נבלעו באותה אבן אחת שלמטה כדי שיניח ראשו על כלן ודברי הרא"ם בזה אינם מבוררים ואין להאריך:
+
+
+###### Chidushei Agadot on Chullin 91b:7
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:7](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:7)
+
+
+**וגויתו** כתרשיש כו'. ופרש"י ים ששמו תרשיש כו' וכן פרש"י בס' דניאל ים ששמו תרשיש והוא ים של אפריקא עכ"ל דאילו ים של כל עולם הוא שליש העולם ורוחבו יותר מב' אלפים פרסי אבל רבינו סעדיה פירש בספר דניאל וגויתו כתרשיש ב' אלפים בעומק הים תרשיש עכ"ל ולפי זה איכא למימר דעומקו של ים של כל עולם הוא ב' אלפים פרסי וק"ל.
+
+
+###### Chidushei Agadot on Chullin 91b:8
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:8](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:8)
+
+
+**מיד** והנה ה' נצב עליו כו'. פרש"י לשומרו ויהיה עליו קאי על יעקב ולא על הסולם וכן עולים ויורדים בו קאי על יעקב והכי איתא בהדיא בב"ר ע"ש ואיכא למ"ד התם דאסולם קאי עולים ויורדים בו ובהכי ניחא מה שהקשו התוס' דהכא משמע שאותן שעולין הם שיורדים ולעיל כו' דודאי כן הוא דפליגי כדאיתא בב"ר בהדיא ולעיל דעולין תרין ויורדין תרין כמ"ד שם עולים ויורדים על הסולם קאי והן מלאכי לויה עולין מלאכי ח"ל ויורדים מלאכי א"י וכי פגעי כו' אבל הכא כמ"ד הן העולים הן היורדים ועל יעקב קאי דבעו לסכוניה עד שבא הקב"ה ונצב עליו לשומרו. וענין שהיו עולים תרי ויורדים תרי והם מלאכי לויה כמו שמצינו בכ"מ במלאכי לויה כמ"ש פרק כל כתבי ב' מלאכי שרת המלוין לו כו' או ע"ש שאין אדם חשוב יוצא בלא שנים כמ"ש באברהם וב' נעריו עמו ודו"ק:
+
+
+###### Chidushei Agadot on Chullin 91b:9
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:9](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:9)
+
+
+**כאדם** שמניף על בנו כו'. עיין פרש"י ויותר נראה לפרש להצילו מן הזבובים וכן הוא בהדיא בב"ר משל לבן מלכים שהיה ישן ע"ג עריסה והיו זבובים שוכנים עליו כו' ע"ש:
+
+
+###### Chidushei Agadot on Chullin 91b:10
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:10](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:10)
+
+
+**מלמד** שקפלה כו'. וכתב הרא"ם ולא הספיק לו ההבטחה לבדה כו' מפני שיש הפרש בין הכח והפועל [ולכן ירא] עכ"ל אבל קשה דאכתי מנלן דהקפילה היה כדי שתהא נוחה ליכבש דהא לא קשיא לן אלא מאי רבותי' ואימא רבותיה טובא שנתן לו כל א"י וקפלה תחתיו מפני שתהיה הבטחתו נתונה בפועל וע"כ הנראה דודאי הספיק ליעקב הבטחה לבדה על הנתינה וא"כ מה שקפלה תחתיו לא היה אלא הבטחה אחרת שלא אמר בפירוש דהיינו כדי שתהא נוחה ליכבש כו' ודו"ק.
+
+
+###### Chidushei Agadot on Chullin 91b:11
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:11](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:11)
+
+
+**ויאמר** שלחני כי עלה השחר א"ל כו'. אין זה בכח מאמר המלאך שלחני כי עלה השחר דאיכא למימר בהיפך שאמר שלחני כי עלה השחר שהיה מתיירא מן השתר מפני שהיה גנב כו' כמ"ש לו יעקב אבל מתוך ענינו נלמד דבר זה (שאמר) שא"ל שלחני כי עלה השחר שא"ל יעקב גנב אתה כו' לפי דעת יעקב שנדמה לו כעובד כוכבים כדלעיל וע"ז השיב לו המלאך שהגיע זמנו לומר שירה ומששמע יעקב ממנו שהוא מלאך השם א"ל לא אשלחך כ"א ברכתני וק"ל:
+
+
+###### Chidushei Agadot on Chullin 91b:12
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:12](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:12)
+
+
+**מסייע** ליה לרב חננאל. עיין בתוס' והוא דחוק דזה אין צריך ראיה דכבר העיד ישעיה ע"ז שהמלאכים אומרים שירה וקרא זה אל זה וגו'. וביחזקאל אומר ברוך כבוד וגו' וק"ל:
+
+
+###### Chidushei Agadot on Chullin 91b:13
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:13](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/91b:13)
+
+
+**לא** הגיע זמני לומר שירה כו'. לכאורה שהוציאו זה הדרש ותשובת המלאך שהוא בכח המאמר דכי עלה השחר ופירשו שהוא טעם על שאמר שלחני דמשום דעלה השחר והגיע זמני לומר שירה על כן שלחני אבל קשה שגם בכח המאמר דכי עלה השחר הפך זה דמשום דעלה השחר ומתיירא אני משום שהיה גנב או קוביוסטוס וע"כ נראה לפרש דמסיפא דהאי קרא קא מפקא להו האי דרשה דכתיב ויאמר לא אשלחך כי אם ברכתני דמשמע שלא ידע יעקב שהוא מלאך עד השתא אחר שאמר לו המלאך שלחני כי עלה השחר וע"כ אמרו כי אחר שאמר לו המלאך שלחני כי עלה השחר ושהוצרך ללכת ממנו בלי עיכוב מפני שעלה השחר א"ל יעקב גנב אתה כו' שמתיירא אתה מפני השחר כי לפי דעת יעקב איש היה ולא מלאך כדאמרי' לעיל ככותי נדמה לו כו' וכת"ח נדמה לו כו' וע"ז השיב לו המלאך כי מלאך הוא ושהוצרך ללכת ממנו בלי עיכוב מפני שהגיע זמן שירה בשחר ואחר ששמע יעקב ממנו כי הוא מלאך השם א"ל יעקב לא אשלחך כי אם ברכתני. ומ"ש ג' כתות כו'. פרש"י ג' כתות חדשים מיום אל יום עכ"ל הכי משמע ליה לישנא דג' כתות של מלאכי השרת כו' והוצרך לפרש כן משום דהיינו דמסייע ליה לרב חננאל כו' דהא דקאמר מיום שנבראתי לא הגיע זמני לומר שירה עד עכשיו משמע נמי דמיום שנברא המלאך אינו אומר שירה אלא פעם אחת והכי אמרו בב"ר א"ר חלבו ארשב"נ לעולם אין כת של מעלה מקלסת ושונה אלא בכל יום בורא הקב"ה כת של מלאכים והן אומרין שירה חדשה לפניו והולכין כו' עכ"ל ומיהו האי קרא דכי עלה השחר מוקי בב"ר במלאכים כתיב ויאמר שלחני כי עלה השחר כו' א"ל זה מיכאל וגבריאל שהן שרים של מעלה דכולן מתחלפין ואינון לא מתחלפין ע"כ והתוס' כתבו דמסייע ליה לרב חננאל כו' פירוש במה שאמר שהמלאכים אומרים שירה עכ"ל והוא דחוק דדבר זה אין צריך סיוע דכבר העיד ע"ז ישעיה הנביא דהמלאכים אומרים שירה וקרא זה אל זה גו' ויחזקאל ששמע שהיו אומרים ברוך כבוד ה' גו' עוד כתבו א"נ הא דקאמר שלא הגיע זמני מיום שנבראתי לומר שירה עד עכשיו ה"נ קאמר רב חננאל שאינן רשאין להרבות בשירה דקאמר א' אומרת קדוש ותו לא וכן מסתמא לא היו אומרים שירה אלא פעם א' עכ"ל גם זה הוא דחוק וכי משום שאין אומרים בכל יום אלא קדוש ותו לא נאמר מ"ה שאין אומרים דבר זה אלא פעם אחת מיום שנבראו ומ"ש ואמרי לה פעם אחת בעולם כו'. אין לפרש דכל המלאכים לא אמרו שירה אלא פעם אחת בעולם דהא מצינו בג' מקומות שאמרו שירה בהאי קרא דיעקב ויאמר שלחני כי עלה השחר ובישעיה וקרא זה אל זה גו' וביחזקאל ברוך כבוד ה' גו' אלא שיש לפרש דודאי דבכל יום אומרים המלאכים שירה אלא שבכל יום מתחדשים המלאכים לומר שירה עד שאין מלאך א' אומר שירה אלא פעם אחת בעולם ונראה עוד דכל הני לישני לא פליגי אלא שאמרו שיש כיתות שאין מתחלפין כלל ואומרות שירה בכל יום פעם א' והן מיכאל וגבריאל ויש כיתות שמתחלפין פעם אחת בשבת ויש שמתחלפין יותר עד פעם אחת בחדש וכן כולן לפי מעלתן עד שאמרו שיש כיתות שאין אומרים שירה אלא פ"א מיום שנבראו והיינו דאמרי לה פ"א בעולם והוא הענין בעצמו שכתבנו בשם ב"ר וכונת הדרוש כפי מה שאמרו במדרשות למלאכים ניתן קדושה א' שנאמר בגזירת עירין פתגמא ובמאמר קדישין שאלתא ולישראל ב' קדושות שנאמר והתקדשתם והייתם קדושים גו' העליונים שאין היצה"ר שולט בהן דיין קדושה א' ולתחתונים שהיצה"ר שולט בהן ב' קדושות ולזה אמרו הצדיקים המקדישים עצמן מלמטה מחיצתן לפנים ממלאכי השרת ומלאכים שואלין אותם מה הורה אל כדכתיב כעת יאמר ליעקב ולישראל מה פעל אל כמו שיסד הפייט בקדושתא דפרשת זכור ושרפי קידש המעולים כתלמיד לרב שואלים מה פעל אל אלים כו' אלה חוצה פונים ואלה לפני ולפנים בצל שדי כו' ולזה מבואר כי ישראל הם לפנים ממחיצת המלאכים וצורת יעקב חקוקה תחת כסא הכבוד גם שם נשמתן של צדיקים וע"כ הם הורשו בכל שעה לומר שירה לפניו יתעלה ואחריהם המלאכים היותר קרובים אל השכינה והם מיכאל וגבריאל שאינן מתחלפין יש להן רשות פעם א' בכל יום ואחריהם כתות מתחלפות כפי מעלתן ניתן להם לומר שירה עד הכת שמתחדשים בכל יום ואין אומרים שירה אלא פ"א בעולם ואמר כי ישראל מזכירין את השם אחר ב' תיבות כו' הוא כפירוש התרגום בג' קדושות קדיש בשמי מרומא בית שכינתיה קדיש על ארעא עובד גבורתיה קדיש לעלם עלמיא ואז ולעלמי עלמיא דהיינו לעה"ב יתייחד שמו הקדוש בעולם שנאמר ביום ההוא יהיה ה' אחד ושמו אחד כי בעה"ז ניתן לכל אומה שר בשמים גם עובדי כוכבים הרבה בארץ יאמינו לצבא השמים וע"כ המלאכים אין להם להזכיר שם המיוחד עד אחר שמזכירין הג' קדושות דהיינו בקדושה שיהיה לעלמי עלמיא שיהיה אז שמו הקדוש אחד ואמר כי הכת האחד אומרת קדוש שהוא קדיש בשמי מרומא וכת הב' הוסיפה לומר ק"ק על הקדושה דעל ארעא גו' וכת הג' אומרת והוסיפה ק' ק' ק' על הקדושה דעלמי עלמיא ומזכיר את שם המיוחד כי אז יהיה שמו אחד אבל ישראל המיחדים קדושתו על ארעא גם בעוה"ז בנוסח אתה אחד ושמך אחד ומי כעמך ישראל גוי אחד בארץ הנה הם לפנים ממחיצת המלאכים לייחד שמו אחרי קדוש השני שהוא הוראה שהוא קדיש על ארעא דהיינו אחר ב' תיבות וע"כ גם בשמע ישראל מייחדים שמו המיוחד אחר ב' תיבות. ואמר דאין מלאכי השרת אומרים שירה למעלה עד שיאמרו ישראל למטה. הוא כפי מה שאמרנו לפי שהם לפנים ממחיצת המלאכים ראוים הם להתחיל בשירה ואח"כ המלאכים כמ"ש קדמו שרים אחר נוגנים קדמו שרים אלו ישראל ואח"כ נוגנים הם המלאכים כמו שיסד הפייט בקדושתא דפרשת החודש ע"ש וכן המלאכים מכבדין עצמן לפי מעלתן והכי איתא בהגדה וקרא זה אל זה ואמר מלמד שהמלאכים מכבדין זה את זה זה אומר לחברו פתח אתה שאתה גדול ממני ויש אומרים כתות הן אחת אומרת לחברתה פתחי את שאת גדולה ממני כו' ובעל העקידה בשער ס"ג האריך במאמר דהכא ולפי דרכו נאמר כל זה למעלת המלאכים ע"ש ויליף לה מדכתיב ברן יחד ככבי בקר כו' כפרש"י דלפי פשוטו למה הקדים הככבים שהם מעולם האמצעי לבני אלהים שהם המלאכים מעולם העליון: ומ"ש ברוך אופנים הוא דאמרי לה. מבואר בפרש"י וכפי מה שביארנו כי הם יותר קרובים אל השכינה כי החיות מכסא כבוד עצמן הן והאופנים בתר חיות גרירי כמ"ש התוס' גם צורות החיות מד' פנים אשר בארץ ע"כ ניתן להם רשות לייחד שמו אחר ב' תיבות שהוא הוראה על קדושתו אשר על ארעא כמו שניתן רשות לישראל וכתבו התוס' ברוך אופנים הוא דאמרי ליה אבל קדוש אומרים שרפים כדכתיב שרפים עומדים ממעל לו גו' וכתיב בתריה וקרא זה אל זה גו' ק' ק' ק' ה' ומה שאנו אומרים בתפלת יוצר והאופנים וחיות הקודש כו' דחיות נמי אומרים ברוך דעדיפי משרפים וקרא נמי מוכח דחיות ואופנים אומרים ברוך דבתר קרא דברוך כתיב וקול כנפי החיות משיקות גו' וקול האופנים גו' וכתיב כי רוח החיה באופנים וא"ת דילפי' השתא לפי זה דחיות ושרפים אין הכל א' ובפ' אין דורשין אמר פסוק אחד אומר שש כנפים לאחד ופסוק אחד אומר ד' כנפים לאחד ומאי קושיא הא האי קרא דשש כנפים בשרפים כתיב והא בחיות כתיב וי"ל דמסתבר טפי ליה שאין משונים בכנפים וכה"ג פריך בפ' בא לו כתיב ועשית לך ארון עץ וכתיב ועשו ארון עצי שטים אע"פ שהיה ארון אחר מסתמא כמו שהיה זה כך היה זה וכן בהמוכר פירות למ"ד פניהם איש אל אחיו והכתיב ופניהם אל הבית פריך מכרובים של שלמה אכרובים של משה דמסתמא לא נשתנו זה מזה עכ"ל. גם מזה שאנו אומרים ביוצרות פני כל חיה ואופן וכרוב כו' דכרוב נמי אומר ברוך הכי מוכח מתוך המקראות דכרוב וחיה הכל א' והאופנים בתר כרוב גרירי דכתיב ויראו הכרובים היא החיה גו' ובלכת הכרובים ילכו האופנים אצלם גו':
+
+
+
+## Daf 92a
+
+###### Chidushei Agadot on Chullin 92a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/92a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/92a:1)
+
+
+**וכי**מראין לאדם מה שהיה כו'. אין זה סותר מה שאמרו בפ' הרואה אין מראין לאדם אלא מהרהורי לב וכו' דה"ק אין מראין לו לאדם על העתיד להיות אלא מענין הרהורי לבו שהרהר כבר ביום ודו"ק:
+
+
+###### Chidushei Agadot on Chullin 92a:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/92a:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/92a:2)
+
+
+**אשכולות** שבה אלו ת"ח כו'. כדאמרינן בסוף סוטה מאי אשכולות איש שהכל בו ע"ש:
+
+
+###### Chidushei Agadot on Chullin 92a:3
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/92a:3](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/92a:3)
+
+
+**ואכרה** לי (בנ') [בחמישה עשר] כסף כו'. אין כירה אלא לשון מכירה כו'. מפורש פ"ק דסוטה:
+
+
+###### Chidushei Agadot on Chullin 92a:4
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/92a:4](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/92a:4)
+
+
+**בט"ו** זה ט"ו בניסן כו' כסף אלו צדיקים כו'. יש לעיין דבתחלה קראן כסף שלא במנין ואח"כ קראן שעורים ובמנין מ"ה והוא מבואר בזמן שישראל בכלל עושין רצונו של מקום נקראים כסף ובהפך נקראים סיג כמ"ש ואצרוף כבור סיגיך גו' וסיגים השבת כל רשעי גו' ועד"ז אמר הכתוב כסף נבחר לשון צדיק ולב רשעים כמעט ר"ל לשון צדיק הוא ככסף נבחר שאין בו סיג אבל הרשעים אין לבם ופיהם שוה וכמעט כסף יש בו כי רובו סיג וזש"ה (אשר הוצאתיך) [ויוציא אתכם] מכור הברזל כי בגלות מצרים היה הקב"ה מצרפן ככסף שנצרף בכור הברזל עד שהיו ביום הגאולה שהוא ט"ו בניסן ככסף הזה ע"י מצות מילה ופסח וזהו בזמן הגאולה אבל כשישראל בגלות הצדיקים שבהם נדמו לשעורים כמו שיסד הפייט זרוים כשעורים וע"פ מ"ש בפ' האשה אמר ר"י לא הגלה הקב"ה את ישראל לבין העובדי כוכבים אלא כדי שיתוספו להם גרים שנאמר וזרעתיה לי בארץ כלום זורע אדם סאה אלא להכניס ממנה כמה כורים וכן מצינו בצדיקים שנמשלו לשעורים כמ"ש פרק חלק וימד שש שעורים רמז לה ו' צדיקים שיצאו ממנה דוד חנניה מישאל ועזריה ודניאל ומשיח ולזה בכתוב הזה בגאולת מצרים בט"ו בניסן קראן כסף שאז היו כל ישראל ככסף אבל בגלותם קראן שעורים דהיינו מ"ה צדיקים שהעולם מתקיים בגלותן בבבל ובא"י כמ"ש שחלקן אם ל' כאן וט"ו בא"י ואם כו' ובא הכתוב והכריע דכתיב ואקחה שלשים כסף ואשליכהו בית ה' גו' והיינו שלשים צדיקים בא"י כמ"ש אם טוב בעיניכם הבו לי שכרי גו' ואע"ג דלעיל גבי כסף קראן שלא במנין וגבי מנין מ"ה קראן שעורים ע"ש הגלות כמ"ש לעיל הכא דלא איירי אלא באותן ל' שבא"י שלא גלו קראן שפיר כסף ודו"ק:
+
+
+###### Chidushei Agadot on Chullin 92a:5
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/92a:5](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/92a:5)
+
+
+**אלו** ל' צדיקי אומות העולם כו'. יש לדקדק לכאורה דהאי קרא הוא רישא דענינא מקרא דהביא לעיל ואקחה שלשים כסף ואשליכהו גו' ומשמע דדריש ליה בצדיקי ישראל והכא דריש האי קרא בצדיקי א"ה ודוחק הוא לומר דפליגי וי"ל דמשמע להו דהנהו צדיקי וישקלו את שכרי שלשים כסף ודאי דצדיקי א"ה קאמר דלא כתיב ביה השליכהו בית ה' אבל בקרא דאקחה שלשים כסף מפורש ואשליכהו בית ה' דמיירי בצדיקי ישראל וק"ל:
+
+
+
+## Daf 94a
+
+###### Chidushei Agadot on Chullin 94a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/94a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/94a:1)
+
+
+**תרנגולת**טריפה הואי כו'. ואפי' דטעות כנעני היה שרי היינו באינו משקר לו בדיבורו אבל הכא שמכר לו בתורת שחוטה כמ"ש רש"י לקמן אסור וע"ש בתוספות וק"ל:
+
+
+###### Chidushei Agadot on Chullin 94a:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/94a:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/94a:2)
+
+
+**אנפקא** חייא משמע כו'. ק"ק דעיקר התירוץ שעבר על דבריו חסר מן הספר דהא דאנפקא חייא משמע נמי היה ידע דאל"כ לית ביה גניבת דעת ויש ליישב:
+
+
+###### Chidushei Agadot on Chullin 94a:3
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/94a:3](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/94a:3)
+
+
+**חביות** המכורות כו'. עיין פרש"י ולולי פירושו נראה לכאורה דלאו משום הפסד שתהיה חסרה נגעו בה אלא כיון שמכרה כבר לחנוני אסור לו ליטול ממנה בלי רשות החנוני וכשהוא פותחם כאילו הוא רוצה לטעום כולם בשבילו לראות החזק והטוב בהם הרי הוא גונב דעתו אלא א"כ הודיעו לאורח שמכרם ולכבדו נגד הבריות עושה כן ואפשר לומר דאי משום כבודו בלא הודיעו נמי שרי כדקתני גבי פך ריקן וק"ל:
+
+
+###### Chidushei Agadot on Chullin 94a:4
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/94a:4](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/94a:4)
+
+
+**מפני** שמטעהו כו'. ק"ק דהיאך מטעהו וגונב דעתו דהא לשתותו שם מביאו בבית האבל לנחמו ביין ואפשר שהיה דרכם שכ"א מביא שם ולא היו שותין מכולן והיה זה יכול להשמט עם לגין שלו שלא יהיו שותין ממנו ובהכי ניחא בלגין המתקשקש משמע שהוא נראה חסר ע"י קשקוש מאי מטעהו שייך בו אבל כיון שלא שתו את כולן בחזרתו יראה לגין המתקשקש ומטעהו שאבל יסבור ששתו ממנו עד שנעשה ריקן ואשמועי' דאעפ"כ לכבדו בחבר עיר שרי וק"ל:
+
+
+###### Chidushei Agadot on Chullin 94a:5
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/94a:5](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/94a:5)
+
+
+**לא** ימכור לחברו סנדל כו'. ק"ק הכא במכירה מאי קמ"ל הא ודאי אונאה היא כיון דמתה אין עורה חזק כשל בריאה שחוטה וי"ל דמיירי כגון שהוא מכר לו אותן בזול כמו של מתה אלא כדי להחזיק לו טובה בעלמא א"ל שהוא חיה שחוטה דהשתא לא הוה אלא גניבות דעת ובההיא דלא ישגר לו חבית יין ושמן צף כו' מתוקמא במתנה דאי במכירת שמן האיך הטעהו ושלח לו יין כיון דאיכא למיקם עליה וק"ל:
+
+
+
+## Daf 95b
+
+###### Chidushei Agadot on Chullin 95b:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/95b:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/95b:1)
+
+
+**מברא**קאתי לאפי יומא טבא כו'. דבר זה לא הוה ניחוש כדמסיק וענינו מפורש בחדושינו במסכת הוריות גבי האי מאן דבעי למידע אי מסיק שתיה ואי מצלח עסקיה כו' דכיון שלא הזכיר אלא צד אחד הטוב ולא ההפך דהיינו הצד הרע אין זה ניחוש דאינו סומך עליו להרע כדמפורש שם והך דיונתן מקרי ניחוש שמפורש בו שאמר ב' החלוקות אם כה יאמרו דומו גו' לא נעלה ואם כה יאמרו עלו ועלינו מיהו הך דאליעזר דקרי ליה הכא ניחוש אינו מפורש ב' החלוקות דלא כתיב אלא והיה הנערה אשר אומר אליה הטי גו' ואמרה שתה גו'. ולא כתיב ביה ההפך אם לא תאמר שתה י"ל דאע"ג דאינו מפורש הצד השני ע"כ שאמר גם צד השני מדסמך על דבריו ונתן לה הנזם וב' צמידים קודם שהגידה לו בת מי היא מנחש הוה למ"ד דבן נח אינה מצווה על הניחוש כמ"ש התוס' והא דר"י דא"ל לינוקא פסוק לי פסוקיך וא"ל שמואל מת כו' לא מקרי ניחוש אלא סימן בעלמא כדמסיק דלא היא דלא שכיב שמואל כו' ור"י נמי ידע להאי מלתא דלרעה אין לסמוך כמ"ש שם אלא דמ"מ סימן הוא דלא ליטרח לילך שם ודו"ק:
+
+
+###### Chidushei Agadot on Chullin 95b:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/95b:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/95b:2)
+
+
+**והאמר** רב כל ניחוש כו'. יש לדקדק היאך בעי למימר דרב עבר על לאו דניחוש וי"ל דלמאי דבעי למימר נמי השתא באומר צד א' מקרי ניחוש היינו בסומך על זה אבל רב כיון דלא אכל ולא נתקיים מחשבתו שאמר יומא טבא לנו אין כאן ניחוש ופריך דגם אם היה אוכל שם לאו ניתוש הוה כיון דלא אמר צד השני כאליעזר וכמ"ש לעיל וק"ל:
+
+
+###### Chidushei Agadot on Chullin 95b:3
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/95b:3](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/95b:3)
+
+
+**בית** תינוק כו'. עיין פרש"י אבל הרמב"ם פירש בפי"א מהלכות עבודת כוכבים תינוק כגון פסוק לי פסוקיך אם אמר לו פסוק מן הברכות ישמח כו' ע"ש גם נראה שם מדברי הראב"ד דלענין איסור והיתר קאמר דבג"פ לא הוה ניחוש אלא סימן והראב"ד חולק דלענין סמיכה קאמר ע"ש:
+
+
+
+## Daf 105a
+
+###### Chidushei Agadot on Chullin 105a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/105a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/105a:1)
+
+
+**א"ל**הני להיכא כו' אפשר שהרגיש בו שרצה לגנבן וק"ל:
+
+
+
+## Daf 105b
+
+###### Chidushei Agadot on Chullin 105b:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/105b:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/105b:1)
+
+
+**ע"ב** מאי איעבד כו' יש לפרש דלא הות ידעה דאמרו אינהו מלתא ותלתה הדבר משום דלא מקנח לכו בחספא כו' ועי"ל שהספינה היתה יכולה מיהת מעיקרא לאוסרו בכישוף ואינהו אמרו מלתא ושריוה אבל לרב חסדא ולרבה להזיק לעצמה לא היתה כלל יכולה להם משום דלא מקנח כו':
+
+
+###### Chidushei Agadot on Chullin 105b:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/105b:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/105b:2)
+
+
+**וכייל** ומני לית לן בה כו' פרש"י בא' מכל כו' והיינו לענין שאין רשות לשד בו טפי עדיף ליה כייל ומר דלא הוי הפקירא אבל לענין ברכה מצויה אמרינן בפ' המפקיד הפך זה דאין ברכה מצויה לא בדבר המנוי כו' וק"ל:
+
+
+
+## Daf 106a
+
+###### Chidushei Agadot on Chullin 106a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/106a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/106a:1)
+
+
+**חזנהו**דהוו שדו מיא כו' פירשו התוס' והא דאיעכב ולא עשה מעצמו כו' ע"ש פי' לדבריהם כתירוצם קמא יתורץ נמי קושייתם הראשונה שהוא לא עשה כן שהיה ירא שיפקידו עליו שאר שדים שעשה כן ובתירוצם בתרא יתורץ נמי קושייתם שניה שאם הודיעם ודאי לאו לכולם הוה אפשר להודיע ואפשר דהאחרים לא הוו ידעי ביה ולכך אמר השתא דידענא דרגילהו ביה דכולם ידעי ביה לא הוו מעכבי וק"ל:
+
+
+###### Chidushei Agadot on Chullin 106a:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/106a:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/106a:2)
+
+
+**מים** אחרונים הרגו כו' במים אחרונים ודאי דאיכא לפרש דא"נ אי לאו טעמא דמלח סדומית ראוי לתקן מטעם זה אבל במים ראשונים א"א לפרש כן דהא אי לאו חיוב נטילה משום סרך תרומה לא בא זה שלא נטל לידי אכילת איסור ונראה לפרש דלא בא לומר אלא דעבירה גוררת עבירה משום דעבר על נטילת ידים בא לעבירה אכילת דבר איסור ועבירת סכנות נפשות גוררת סכנות נפשות דעבירה סכנת מלח סדומית שלא נטל ידיו למים אחרונים הביאו לידי סכנות הריגת נפש וק"ל:
+
+
+
+## Daf 109a
+
+###### Chidushei Agadot on Chullin 109a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/109a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/109a:1)
+
+
+**שרא**לן כוותיה כו'. ענין זה מפורש כמ"ש דמצות הקב"ה עלינו גזירת המלך הם בלי טעם בדבר וז"ש כל דאסר לן שרא לן דכותיה וא"כ ע"כ האי דאסר לן גזירת המלך הוא ומייתי אסר לן דמא אל תאמר משום מאיסותיה הוא כדאמרי' ספ"ב דמכות ומה אם הדם שנפשו של אדם קצה הימנו כו' הרי שרא לן דם כבד ואי מטעם מאיסותיה היה לאסור גם דם הכבד וכן אסר לן דם נדה ואי משום מאיסותיה הרי שרא לן דם טוהר וא"כ על כרחך איסורא הוא משום גזרת המלך וכן בבשר וחלב וכן בחזיר ובכל אינך דמייתי יש לפרש בכה"ג דאי הוה ביה טעמא אמאי שרא בכיוצא בו ולזה אמרה דודאי גם איסור בשר בחלב גזרת המלך היא ומאי שרא לן דכותיה וק"ל:
+
+
+
+## Daf 127a
+
+###### Chidushei Agadot on Chullin 127a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/127a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/127a:1)
+
+
+**יש**לך בריות גדלות בים כו'. זכר במעשה ה' ד' יסודות הפשוטים אש רוח מים ארץ וז"ש כי כל נברא מן היסודות אלו אינו יוצא מטבעו כי הנה יש לך בריות גדלות בים שנבראו מן המים כדגים הללו ואם עולות ליבשה שהוא ארץ כדכתיב ויקרא אלהים ליבשה ארץ וגו' הוא יסוד הקרוב למים אעפ"כ מיד מתות וכן בהפך ואמר יש לך בריות גדלות מיסוד האור שהוא אש ואם עולות לאויר שהוא יסוד הקרוב לו מיד מתות וכן בהפך והוא מפני שכל נברא מד' יסודות הפשוטים אינו יוצא מטבעו וק"ל:
+
+
+###### Chidushei Agadot on Chullin 127a:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/127a:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/127a:2)
+
+
+**וכן** הנפילים כו'. אם הנפילים דקרא קאמר הוא קשה להבין דמשמע במקראות דבני אדם גבורים הם ולא שרץ ומין צב גם סלמנדריא דקאמר הכא מין צב בת"י אתנשמת דקרא פי' סלמנדרא ודו"ק:
+
+
+###### Chidushei Agadot on Chullin 127a:3
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/127a:3](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/127a:3)
+
+
+**שם** האזינו כל יושבי חלד כו'. דימה את האדם לחולדה במזמור הזה לפי שזכר שם שאל יבטח האדם בעשרו כי אין דירתו רק ביבשה כמו החולדה ובבא מבול לעולם יכלה המין כולו וגרע הוא מכל שאר ב"ח שנשאר מיהת מינן בים ועיין בע"י בירושלמי דפ' ח' שרצים:
+
+
+###### Chidushei Agadot on Chullin 127a:4
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/127a:4](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/127a:4)
+
+
+**ביברי** דנרש אינן מן הישוב כו'. לפרש"י דמיירי בחיות הדרים בים שייך שפיר הכא אבל לפירוש התוס' בשם ר"ת דמיירי בבני אדם הדרים בב' עיירות בביברי ובנירש דרשעים הם מה שייך זה המאמר בכאן ולפי כונתינו דלעיל יש לפרש דאנשי ביברי ונרש דרשעים הן אינן ראוין להיות מן הישוב כחולדה זו הדרה ביבשה אלא שיבאו המים עליהם לשטוף אותן וע"ז מייתי קרא ארץ ארץ ארץ שמעי גו' כפל הענין שכל יושבי הארץ ישימו זאת על לבם שהם דרים בארץ ואם לא ישמעו לדבר ה' יבא המבול עליהם ויכלו מן הארץ וע"ז מסיק בכל זאת לא אבה נרש שמוע גו' וק"ל:
+
+
+###### Chidushei Agadot on Chullin 127a:5
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/127a:5](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/127a:5)
+
+
+**הם** הביאו ברי' כו'. מפרש"י הם הביאו על אנשי וועד קאי שהיו רשעים מזווגי כלאים אבל בב"ר נראה דקאי אענה אשר מצא את הימים גו' מה עשה הביא חמורה וזיוג לה סוס ויצאה ממנה פרדה א"ל הקב"ה אני לא בראתי דבר המזיק חייך שאני בורא לך דבר המזיק הביא כו' ויצא ממנו חברבר והיינו ערוד כפירוש הערוך ולפי זה י"ל הלכתי לוועד כמשמעו לוועד חכמים והם הביאו לא קאי אלא אענה אשר מצא את הימים כדברי הב"ר וק"ל:
+
+
+
+## Daf 133a
+
+###### Chidushei Agadot on Chullin 133a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/133a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/133a:1)
+
+
+**פשטיה**דקרא במאי כתיב כו'. כבר כתבנו בפ"ק דבס' משלי פשטיה דקרא הוא הנמשל כדמסיק בתלמיד שאינו הגון ושר בשירים היא התורה שנקראת כולה שירה כמ"ש כתוב לך את השירה הזאת ועי"ל הכא דקאמר פשטיה דקרא במאי כתיב משום דלעיל דריש ליה על לב רע אי כרב ספרא אי כרבא דמיירי בתלמיד שאינו מבין והכא דריש ליה טפי כפשטיה על לב רע כמשמעו תלמיד שאינו הגון וק"ל:
+
+
+###### Chidushei Agadot on Chullin 133a:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/133a:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/133a:2)
+
+
+**ירע** שריד באהלו. עיין פרש"י נראה לומר מלשונו דשריד מיירי באותו תלמיד רע ולא משמע כן מדקאמר ואין שריד אלא ת"ח שנא' בשרידים אשר ה' גו' אבל ת"ח לאו היינו ההוא תלמיד אלא שהוא רבו השונה אותו והמקרא מסורס אש לא נופח בשריד על אשר ירע באהלו על שהניח התלמיד הרע באהלו של תורה וק"ל:
+
+
+###### Chidushei Agadot on Chullin 133a:3
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/133a:3](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/133a:3)
+
+
+**כאילו** זורק כו'. הדמיון בזה כי התורה נמשלה לאבן יקרה והיצה"ר אשר בתלמיד שאינו הגון הוא נקרא אבן מכשול ואבן מרקוליס ואמר כי הזורק אבן למרקוליס אף שאין דעתו רק לבזיון הנה הוא מוסיף כבוד ע"ז כיון דעבודתה בכך ונעשה גם אבן הזה אבן שיקוץ לע"ז כן השונה התורה שהיא אבן יקרה לאינו הגון הנה הוא הוסיף אבני מכשול בו שאינו לומדה אלא לתכלית וכוונה רעה כמאמרם הלומד תורה שלא לשמה טוב לו שלא נברא וק"ל:
+
+
+
+## Daf 134a
+
+###### Chidushei Agadot on Chullin 134a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/134a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/134a:1)
+
+
+**מאי**הצדיקו אילימא בדינים והא כתיב ודל גו'. גם שמצינו ושפטו את העם משפט צדק דהיינו שלא יעשו עול במשפט היינו היכא דכתיב צדק גבי משפט אבל צדק גרידא כי הכא משמע לזכותו בדין ועוד מדכתיב ברישא דקרא שפטו דל ויתום דהיינו לשפוט לו צדק והכא שינה למיכתב הצדיקו דהיינו משמע לזכותו קאמר ולהכי פריך והכתיב ודל גו' ומסיק אלא צדק משלך דהיינו שתזכהו ליתן לו שלך דהיינו הספק דמדינא הוה שלך דהמע"ה ודו"ק:
+
+
+
+## Daf 134b
+
+###### Chidushei Agadot on Chullin 134b:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/134b:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/134b:1)
+
+
+**ע"ב דורשי** חמורות כו'. ובפרש"י בחומש דורשי רשומות כו' ועיין פרש"י הכא לפי הגירסא דורשי חמורות כו' והתוס' כתבו בשם רב סעדיה גאון כעין המעשה כו'. ר"ל שזה השכר זרוע לחיים וקיבה היה במדה כעין המעשה שעשה פנחס הזרוע כנגד היד כו' ורמז לזה בקרא דכתיב וזה משפט הכהנים מאת זובחי גו' דלשון משפט לא נאמר בכל כ"ד מתנות כהונה אלא בזרוע לחיים וקיבה דר"ל דאלו המתנות הוא להם במשפט כפי המעשה שעשה פנחס אביהם וק"ל:
+
+
+
+## Daf 137b
+
+###### Chidushei Agadot on Chullin 137b:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/137b:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/137b:1)
+
+
+**דהוה**מתני ליה לבריה רחלים כו'. נראה בזה כי שם רחל הוא שם המין כדכתיב שניך כעדר הרחלים אמנם כשיבא הכתוב להבדיל בין הזכר והנקבה קרא הנקבה רחל בשם המין והזכר איל כדכתיב בהאי קרא רחלים מאתים ואילים עשרים וכן בעז שהוא שם המין בכ"מ כשיבא להבדיל בין הזכר והנקבה קרא הנקבה עז והזכר תיש כדכתיב עזים מאתים ותישים עשרים ולפי שזה השם הונח ע"ש המין שהוא על הרוב זכר גם כשהוא נאמר ביחיד על הנקבות לא כתב רחלות בלשון לנקבות רבות אלא בלשון זכר ע"ש המין וכן בעזים לא כתב עזות מזה הטעם ור"י שאמר לשון חכמים לחוד שמצינו בלשון המשנה גם כשהוא נאמר על המין נאמר בלשון נקבה כדתנן בפרק הגוזל קמא רחל טעונה וגזזה כו' רחל. העומדת לגזוז כו' ומ"ה קאמר אתנייה גם הכא במתניתין רחלות שהוא לשון לנקבות רבות וק"ל:
+
+
+###### Chidushei Agadot on Chullin 137b:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/137b:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/137b:2)
+
+
+**זקוקין** דנורא מפומיה דרב כו'. הוא משל על התורה דמרתחא באדם כמ"ש כי הנה דברי כאש גו' וק"ל:
+
+
+
+## Daf 139b
+
+###### Chidushei Agadot on Chullin 139b:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/139b:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/139b:1)
+
+
+**משה**מן התורה מנין כו' המן מן התורה כו' אסתר כו' מרדכי כו'. יראה בזה לפי שבאלו הד' מצינו שיש להם עוד שמות אחרים במשה טוביה אביגדור כו' בהמן אמרו שהוא ממוכן אסתר היא הדסה מרדכי בלשן פתחיה ולפי הנראה היה לבעל דין לחלוק ולומר שאלו שמות המיוחדים להם אינם עיקר מן התורה בהם כי שם משה בת פרעה נתנה לו והוא לשון מצרי כדעת המפרשים ושם המן ומרדכי ואסתר נראה כי שמות פרסיים הם כי המגילה נכתבה ע"י הפרסיים שע"כ לא הוזכר שם הקב"ה במגילה כדעת הראב"ע וע"כ אמר במשה מנין שהוא שם המיוחד לו לעיקר מן התורה שנאמר בשגם הוא בשר גו' שקודם שנקרא כך ע"י בת פרעה קראו התורה אותו בשם זה ע"ש שהוא הוציא ומשה את ישראל מן הים עד"ה ימשני ממים רבים וע"כ נקרא משה ולא נמשה או משוי והוא מבואר כשדור המבול לא היו מאמינים בהשגחה פרטית שאמרו מה שדי כי נעבדנו כדאמרי' פ' חלק ונפרע מהם במדה כי לפי הטבע ראוי שיהיה העולם מים במים אבל היתה השגחה אלהית שנא' יקוו המים ותראה היבשה לצורך בן אדם וע"כ הביא עליהם מי המבול כפי הטבע ולפי שע"י משה רבינו נתפרסם זאת השגחה שבני ישראל הלכו ביבשה תוך הים והמצריים נטבעו שם ע"כ הזכיר שם משה כאן ועד"ז אמר המן מן התורה מנין שזהו שם המיוחד לו ואמר המן העץ במעשה הנחש והוא לפי שהיה הוא גזע צפעוני מעשו ועמלק אשר כחם נחש הקדמוני ובמדרש המן והנחש פתחו באף כו' ושניהם נתנו עיניהם במה שאינו ראוי להם כו' כדאיתא פ"ק דסוטה ואמר אסתר מן התורה מנין שהוא עיקר שמה ואמר ואנכי הסתר אסתיר ע"ש שבימיה נתקיים מקרא זה שאמר הקב"ה אסתיר לפי שרחקו והסתירו ישראל עצמם מדבור אנכי שהוא עיקר אמונה כדאמרי' פ"ק דמגילה למה נתחייבו שונאיהם של ישראל כליה לפי שהשתחוו לצלם ונהנו מסעודת אחשורוש וע"ז אמר מרדכי מן התורה מנין שע"י זכו להנצל להיעשות בני חורין מלשון מר דרור כי הוא וסיעתו אנשי כנסת הגדולה לא רצו להשתחות לצלם ולא ליהנות מאותה סעודה ועל שם שהוא ראש לגדולה ולש"ט נמשל לראש בשמים משמן המשחה וק"ל:
+
+
+###### Chidushei Agadot on Chullin 139b:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/139b:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/139b:2)
+
+
+**אלא** אימא במילין. עי' פרש"י ובערוך פירש עוד בשם ר"ח במילין כשיחתן של עופות כו'. ובגיטין פ"ד שהיה רב עיליש יודע שיחת העופות כו' ע"ש:
+
+
+
+## Daf 142a
+
+###### Chidushei Agadot on Chullin 142a:1
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/142a:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/142a:1)
+
+
+**אלא**למען יאריכון ימיך לעולם שכולו ארוך ולמען ייטב כו'. במשנת פאה אמרו אלו דברים שאדם אוכל מפירותיהם בעה"ז והקרן קיימת לעה"ב כבוד אב ואם וכו'. ויליף לה מהאי קרא למען יאריכון ימיך בעה"ז ולמען ייטב לך בעה"ב אבל לרבי יעקב דהכא דלית ליה שכר מצוה בהאי עלמא יקשה ל"ל תרוייהו לעולם שכולו ארוך וכולו טוב ונראה ליישב ע"ד שאמרו בקידושין ולתני נמי בהך מתני' דאוכל מפירותיהם כו' שלוח הקן ומשני משום דלית ליה פרי. דאינו מקרי טוב לבריות כמו כבוד אב שנאמר אמרו צדיק כי טוב כי פרי גו' ע"ש והענין מבואר כמו כבוד אב ואם שהוא טוב לה' ולבריות ראוי להיות בו שכר משותף לגוף ולנפש והוא הפרי שבעה"ז ולפי שהנפש המשכלת הוא עיקר מעשה האדם ראוי להיות לה עוד שכר מיוחד ועיקרי והוא הקרן שבעה"ב ור' יעקב מתוך מעשה שראה אמר ע"כ שכר בהאי עלמא ליכא כלל וע"כ אמר שמתן שכר הפרי לגוף ולנפש הוא יהיה לתחיית המתים שיהא בגוף ונפש והוא שאמר למען יאריכון ימיך לעולם שכולו ארוך דהיינו שכר הפרי לתחיית המתים שיהיו ימיך לגוף ולנפש יוחר ארוכים מבעה"ז ולמען ייטב לך לעולם שכולו טוב הוא הקרן שכר מיוחד לנפש לעולם הבא ערב וטוב לנשמת הצדיקים שישבו ועטרותיהם בראשיהם ונהנין מזיו השכינה ומזה ששינה הכתוב בשלוח הקן לכתוב למען ייטב לך קודם והארכת ימים וגם שלא כתב ימיך בכינוי כמ"ש גבי כבוד אב ואם לפי שאין בשלוח הקן שכר פרי כלל לגוף ולנפש רק שכר נפשי לעולם הבא לחוד כדמסיק בקדושין ודו"ק:
+
+
+###### Chidushei Agadot on Chullin 142a:2
+
+[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/142a:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Chullin/r/142a:2)
+
+
+**בפרש"י** בד"ה לעולם שכולו טוב בפ"ק דקדושין אמרי' דר' יעקב חזא עובדא בא' כו'. עכ"ל לפירושו נראה דכל הך סוגיא מודלמא לא הוה הכי ר' יעקב מעשה כו' עד סוף פירקין לא שייכא אלא בפ"ק דקדושין וק"ל:
+

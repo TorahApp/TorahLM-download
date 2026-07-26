@@ -1,0 +1,611 @@
+# Minchat Shai on Song of Songs
+
+מנחת שי על שיר השירים
+
+Link: [https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs)
+
+פירוש מן המאה ה-17 המתמקד בשינויי נוסח, טעמי המקרא ודקדוקי הגייה בטקסט המקראי.
+
+17th-century commentary focusing on textual variants, cantillation marks, and vowelization of biblical text.
+
+Sections: Chapter-Verse-Comment
+
+Location: Tanakh/Rishonim on Tanakh/Minchat Shai/Writings
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Arba'ah Ve'Esrim im Minhat Shai. Mantua, 1742-1744 (Segments: 54, License: Public Domain)
+
+
+## Chapter 1
+
+
+### Verse 1
+
+###### Minchat Shai on Song of Songs 1:1:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/1:1:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/1:1:1)
+
+
+**שיר.** שי"ן רבתי רמז למה שאמרו רבותינו כל השירים קדש ושיר השירים קדש קדשים עיין בחיי פרשת כי תבא:
+
+
+###### Minchat Shai on Song of Songs 1:1:2
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/1:1:2](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/1:1:2)
+
+
+**אשר לשלמה.** במסכת סופרים סוף פרק ה' כל השלמות האמורים בשיר השירים כולם קודש חוץ מאחד שהוא חול ואיזהו הנה מטתו שלשלמה וי"א האלף לך שלמה ע"כ אבל בגמ' פ' שבועת העדות הכי איתא כל שלמה האמור בשיר השירים קדש שיר למי שהשלום שלו חוץ מזה כרמי שלי לפני האלף לך שלמה לדידה והכי איתא בזוהר פ' פקודי דף רכ"ז ומאתים לנוטרים את פריו רבנן כלו' הניחם ויעסקו בתורה א' מששה שבהם וי"א אף זה חול הנה מטתו שלשלמה ופרכינן אף זה ולא מבעיא האיך אלא הא דאמר שמואל מלכותא דקטלא חד משיתא בעלמא כלו' באנגריא דעבודת המלך או בהוצאה למלחמ' הרשות לא מיענשא שנאמר כרמי שלי לפני האלף לך שלמה למלכותא דרקיעא ומאתים לנוטרים את פריו למלכותא דארעא שמואל לא כת"ק ולא כיש אומרים אלא ה"ק ויש אומרים אף זה קדש וזהו חול דמטתו ושמואל דאמר כיש אומרים ע"כ בגמ' והר"ן כתב ולפי זה נ"ל דק"ל דכל שלמה האמור בשיר השירים קדש ואף כרמלי שלי לפני חוץ מהנה מטתו שלשלמה ותמהני על הרמ"בם ז"ל שכתב בפ' ו' מהלכות יסודי התורה על שלמה האמור בשיר השירים קדש והרי הוא כשאר הכינויין חוץ מזה האלף לך שלמה ע"כ והכסף משנה כתב וכיון דשמואל כיש אומרים משמע דהכי אית לן למפסק והר"ן תמה על רבינו שפסק כת"ק ולי נראה דהיינו טעמא דכיון דלשמואל אנו צריכים להגיה לשון ויש אומרים לא נקטינן כוותיה אלא נקטינן כמאי דמשמע פשט לשון ויש אומרים אף זה חול דמשמע ולא מבעיא האיך וכיון שאנו תופסים הברייתא כפשטה פסקינן כת"ק ומה שכתב רבינו והרי הוא כשאר הכינויים דעתו לומר דכשאמרו דשלמה האמור בשיר השירים ומלא מלכיא שבדניאל הם קדש לא אמרו לענין שאין נמחקים אלא הרי הם כשאר הכנויים לכל דבריהם ונאמר דהוו קדש שאם השביע את העדים בהם וכפרו חייבים וכ"כ הרי"טבא אבל רי"אז כתב כלשון הזה ומ"זה ביאר שהם נמחקים כמו חנון ורחום ולי נראה שאינן נמחקים שהק"בה עצמו נקרא שלמה שנאמר ויקרא לו ה' שלום והרי הוא כשאר הכנויין בב"ה בראיה ח' ע"כ והרמב"ן ז"ל בחידושיו לשבועות כתב כל שלמה האמור בשיר השירים קדש אפשר דלענין מחק קאמר ולא דמי לכינוי רחום וחנון דאיכא כנוי שהוא שם כגון אל"ף למ"ד אל"ף דל"ת וכן שלמה האמור בשיר השירים קדש ואינו נמחק אבל מלא מלכיא האמור בדניאל שהוא קדש נ"ל דלאו לענין מחק קאמר שהרי זה כנוי ואינו שם ודמי לחנון ורחום ומותר למחקו שהרי מלך גדול אני והמלך הקדוש מותר למחקן ולא מצאנו בו איסור אלא לענין שבועה קאמר שאם השביעו במלך מלכיא האמור בדניאל קדש הוא א"נ קמ"ל פירושא דקראי אגב אורחיה ואף בשלמה האמור בשיר השירים לא ראיתי הסופרים נמנעים מלמחוק בהן וכן נראה מדברי הרב ר' משה ז"ל ועיקר עכ"ל וגם הר"ן תפש לעיקר דעת זה האחרון של הר"מבן וכ"כ הר"אש בשבועות וכן כתב בתשובותיו סוף כלל שלישי שאף כל פי שהשם עצמו נקרא שלום כיון שאינו שם העצם אלא ע"י הפעולה נקרא כך הוה ליה כשמות הנמחקים וכ"ש שלמה שאינו קדוש אלא בשביל שהשלום שלו שהוא נמחק וכן כתב רבינו ירוחם בספר אדם נתיב ב' חלק א' ועיין מ"ש בדניאל נ' בס"ד ובירמיה סי' כ"ג ושופטים ו':
+
+
+
+### Verse 2
+
+###### Minchat Shai on Song of Songs 1:2:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/1:2:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/1:2:1)
+
+
+**כי טובים דדיך מיין.** בפרק אין מעמידין ובשיר השירים רבה אמר לו ר"ע לר' ישמעאל ישמעאל אחי היאך אתה קורא כי טובים דדֶיך מיין או כי טובים דדַיך מיין ופי' רשי לשון נקבה והכי קאמר כנסת ישראל ישקני הצור מנשיקות פיהו כי כך אמר לי כי טובים דדַיְךְ מיין א"ל אין הדבר כן שהרי חבירו מוכיח עליו לריח שמניך טובים וגו' פי' חבירו מוכיח עליו שהוא ל' זכר וכנסת ישראל היא שאמרה כך לפני שכינה לריח שמניך וגו' עלמות אהבוך לא שייך למימר לנקבה ועיין ש"ת בר ששת סימן קפ"ד ואילת אהבים למוה"רר שלמה הלוי בן אלקבץ:
+
+
+
+### Verse 5
+
+###### Minchat Shai on Song of Songs 1:5:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/1:5:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/1:5:1)
+
+
+**ונאוה.** הו"או בגעיא בספרים כ"י ובדפוסים קדמונים:
+
+
+
+### Verse 6
+
+###### Minchat Shai on Song of Songs 1:6:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/1:6:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/1:6:1)
+
+
+**נחרו בי.** בס"ס הנו"ן במאריך:
+
+
+
+### Verse 7
+
+###### Minchat Shai on Song of Songs 1:7:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/1:7:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/1:7:1)
+
+
+**שאהבה נפשי.** ש ה' בטעם בקריה וסימנהון שֶׁ֤אהבה נפשי עד שׁ֤המלך במסבו שׁ֤הביאתיו אל בית אמי שׁ֤הנחלים הלכים שׁ֤הימים הראשונים ניו טובים סימן אמב"ני זה מצאתי במסורת כ"י:
+
+
+
+### Verse 8
+
+###### Minchat Shai on Song of Songs 1:8:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/1:8:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/1:8:1)
+
+
+**צאי לך.** הצד"י בגעיא:
+
+
+###### Minchat Shai on Song of Songs 1:8:2
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/1:8:2](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/1:8:2)
+
+
+**בעקבי הצאן.** בס"ס הק"וף רפה וכן כתב המכלל יופי וכן משמע מדברי רד"ק בשרשים שרש עקב:
+
+
+###### Minchat Shai on Song of Songs 1:8:3
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/1:8:3](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/1:8:3)
+
+
+**על משכנות הרעים.** כתיב חסר וא"ו ונדרש בזוהר פ' בלק דף קצ"ח:
+
+
+
+### Verse 9
+
+###### Minchat Shai on Song of Songs 1:9:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/1:9:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/1:9:1)
+
+
+**לססתי.** לית חסר ויש בו דרש בשיר השירים רבתי ומכילתא פ' בשלח פ' וינער ה' את מצרים:
+
+
+
+### Verse 15
+
+###### Minchat Shai on Song of Songs 1:15:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/1:15:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/1:15:1)
+
+
+**הנך יפה עיניך.** הנו"ן בפתח:
+
+
+
+### Verse 17
+
+###### Minchat Shai on Song of Songs 1:17:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/1:17:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/1:17:1)
+
+
+**רחיטנו.** רהיטנו ק' והוא חד מן ד' מלין כתיב ח' באמצעות תיבותא וקריה ה' על פי המסורת:
+
+
+
+## Chapter 2
+
+
+### Verse 7
+
+###### Minchat Shai on Song of Songs 2:7:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/2:7:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/2:7:1)
+
+
+**ואם תעוררו.** הו"או בגעיא בס"ס ובדפוסים ישנים כחברו שבסימן ג':
+
+
+###### Minchat Shai on Song of Songs 2:7:2
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/2:7:2](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/2:7:2)
+
+
+**עד שתחפץ.** התי"ו בסגול:
+
+
+
+### Verse 11
+
+###### Minchat Shai on Song of Songs 2:11:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/2:11:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/2:11:1)
+
+
+**הסתו.** הסתיו ק' והס"מך דגושה:
+
+
+###### Minchat Shai on Song of Songs 2:11:2
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/2:11:2](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/2:11:2)
+
+
+**הלך לו.** בס"ס מדוייקים הטעם בל"מד ובספרים אשכנזים בה"א:
+
+
+
+### Verse 13
+
+###### Minchat Shai on Song of Songs 2:13:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/2:13:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/2:13:1)
+
+
+**נתנו ריח קומי לכי.** לך ק' אבל ואמר לי קומי לך דלעיל בסמוך כתיב וקרי לך וכן במסורת מלכים ב' ד' לכי ב' כתיב כן מה יש לכי בבית קומי לכי רעיתי תניינא דסיפרא גם במסורת דריש מלכים לא נמנה עם מלין דכתיבין יו"ד בסוף תיבותא ולא קריין רק קומי לכי שבפסוק התאנה חנטה פגיה:
+
+
+
+### Verse 15
+
+###### Minchat Shai on Song of Songs 2:15:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/2:15:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/2:15:1)
+
+
+**שעלים שעלים.** במדרש שמות פ' כ"ב ושיר השירים רבה על פסוק זה אמר ר' ברכיה שועלים קדמאה מלא תניינא חסר שעלים כתיב על שם שעלו של ים ע"כ והביאו ג"כ רש"י ז"ל וכן מצאתים במקצת ספרים כ"י אך ברוב ספרים שניהם חסרים ומסרה דילהו שועלים ב' מלאים בקריה וסימנהון ויפן זנב אל זנב שועלים הלכו בו וכתב במכלל יופי אף על פי שחסרו הוא"ו אחר שמקומו וא"ו תאריך קריאתו כמו עם הוא"ו נר' שאין בו געיא עכ"ל:
+
+
+
+## Chapter 3
+
+
+### Verse 4
+
+###### Minchat Shai on Song of Songs 3:4:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/3:4:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/3:4:1)
+
+
+**עד שהביאתיו.** בא מלא בעי"ם הפעל והבי"ת בצירי והאל"ף נחה ברוב נוסחאו' הדפוס וכ"י וכן נקדו המכלול בהפעיל מנחי העי"ן והל"מד וכן ראוי על פי המסורת ונסדר הסימן כאן ובישעיה מ"ג שזהו אחד מהתיבות מלאים יו"ד בלישן הבאה ובמ"ג משנת שנח מצאתי הבי"ת בחירק והא"לף בחולם וטעות הוא:
+
+
+
+### Verse 6
+
+###### Minchat Shai on Song of Songs 3:6:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/3:6:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/3:6:1)
+
+
+**כתימרות.** בספרים כ"י התי"ו במאריך ובקצתן המ"ם בחטף פתח:
+
+
+###### Minchat Shai on Song of Songs 3:6:2
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/3:6:2](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/3:6:2)
+
+
+**מקטרת.** אין במ"ם געיא:
+
+
+
+### Verse 7
+
+###### Minchat Shai on Song of Songs 3:7:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/3:7:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/3:7:1)
+
+
+**הנה מטתו שלשלמה.** איכא מ"ד קדש הוא כדכתיבנא לעיל ריש ספרא:
+
+
+
+### Verse 11
+
+###### Minchat Shai on Song of Songs 3:11:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/3:11:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/3:11:1)
+
+
+**בעטרה שעטרה.** השי"ן במאריך ולא בטפחא:
+
+
+
+## Chapter 4
+
+
+### Verse 1
+
+###### Minchat Shai on Song of Songs 4:1:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/4:1:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/4:1:1)
+
+
+**שערך.** העי"ן בשוא לבדו:
+
+
+
+### Verse 2
+
+###### Minchat Shai on Song of Songs 4:2:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/4:2:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/4:2:1)
+
+
+**מן הרחצה.** בנסחא כ"י הרי"ש בקמץ וכן מצאתי בספר דקדוק ישן שנמצא בקמץ חטף בכל אספמיא וכתב גם כן אחר כך שנמצא ברוב דוקנים הָרַחְצה ופלוגתא הָרָחְצה וכך מקובלני עכ"ל וברוב ספרים שלנו בפתח:
+
+
+
+### Verse 5
+
+###### Minchat Shai on Song of Songs 4:5:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/4:5:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/4:5:1)
+
+
+**תאומי צביה הרעים בשושנים.** דין קדמאה תְאוֹמי בשוא וחולם ותניינא תָאֳמי בקמץ וחטף קמץ בסימן ז' וסימן תתאו תְתָאו פי' הראשון תי"ו בשוא והשני תי"ו בקמץ:
+
+
+
+### Verse 8
+
+###### Minchat Shai on Song of Songs 4:8:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/4:8:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/4:8:1)
+
+
+**שניר וחרמון.** בסי"ן שמאלית כמ"ש בסוף פ' דברים:
+
+
+
+### Verse 9
+
+###### Minchat Shai on Song of Songs 4:9:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/4:9:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/4:9:1)
+
+
+**באחד מעיניך.** באחת ק':
+
+
+
+### Verse 13
+
+###### Minchat Shai on Song of Songs 4:13:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/4:13:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/4:13:1)
+
+
+**כפרים עם נרדים: נרד וכרכם.** חצי הספר בפסוקים:
+
+
+
+### Verse 16
+
+###### Minchat Shai on Song of Songs 4:16:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/4:16:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/4:16:1)
+
+
+**יזלו בשמיו.** הז"ין בדגש:
+
+
+
+## Chapter 5
+
+
+### Verse 2
+
+###### Minchat Shai on Song of Songs 5:2:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/5:2:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/5:2:1)
+
+
+**שראשי נמלא טל.** הרי"ש בדגש ע"פ המסורת ומכלול דף ע"ב:
+
+
+###### Minchat Shai on Song of Songs 5:2:2
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/5:2:2](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/5:2:2)
+
+
+**קוצותי.** בדגש הצד"י וכן קוצותיו תלתלים:
+
+
+
+### Verse 3
+
+###### Minchat Shai on Song of Songs 5:3:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/5:3:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/5:3:1)
+
+
+**איככה איככה.** שניהם מלאים מלעיל על פי המסורת:
+
+
+
+### Verse 4
+
+###### Minchat Shai on Song of Songs 5:4:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/5:4:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/5:4:1)
+
+
+**ומעי המו עליו.** כתב החכם מו"הרר שלמה הלוי בן אלקבץ חלקו בחיים בפי' שיר השירים הנקרא בשם אילת אהבים זה לשונו וחייב אני להודיע צערי לרבים כי מצאתי פי סופרים ופי ספרים מוטעים בפסוק הזה כי ברוב הספרים כתוב ומעי המו עלי בי"וד וכבר תראה מי שיפרשהו בנוסח זה כי לא אגלה ערותו בקהל אמרתי לגלות אזן שומעת דברי לבל תטעה גם היא כי הגרסה האמיתית ומעי המו עליו בו"או ר"ל בעבורו ע"כ וגם כי דבריו אינם צריכים חיזוק לא אחשך פי מלומר כי גם אני מצאתי כתוב עלי בדפוסים ישנים וגם חדשים מקרוב באו וכן במאיר נתיב שרש המה ושרש מעה ובקצת המפרשים ומה גם כי במדרש חזית על זה הפסוק ובספר אות אמת שם ובמדרש שוחר טוב על פסוק אזכרה אלהים ואהמיה במזמור ע"ז ובילקוט תילים גם כן על פסוק הנזכר בכולם כתוב עלי בי"וד איברא כי משמעות המדרשים אין הכרח ומשתמעי לתרי אנפי אמנם בילקוט ירמיה רמז שט"ו ע"פ על כן המו מעי לו הובא מדרש שוחר טוב בסגנון אחר ונכרין דברי אמת שהוא היותר שלם שבכולם ומוכח בהדיא מהתם דקרינן עליו וכן הוא בספרים כ"י המדוקדקים:
+
+
+
+### Verse 5
+
+###### Minchat Shai on Song of Songs 5:5:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/5:5:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/5:5:1)
+
+
+**וידי נטפו מור ואצבעתי מור עבר.** מור ד' מלא בלישנא וסימן אלך לי אל הר המור וידי נטפו ב' בו נטפת מור עבר ובמדרש חזית דרשו שלשת אחרונים מלשון מרירות וכן בפרק במה מדליקין ובפ' ר"ע אמר רב גידל אמר רב כל ת"ח שיושב לפני רבו ואין שפתותיו נוטפות מא פי' מרירה מחמת אימה תכוינה שנאמר שפתותיו שושנים נוטפות מור עובר אל תקרי שושנים אלא ששונים אל תקרי מור עובר אלא מר עובר ועיין מה שאכתוב במלאכי סימן ב':
+
+
+
+### Verse 8
+
+###### Minchat Shai on Song of Songs 5:8:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/5:8:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/5:8:1)
+
+
+**שחולת אהבה אני.** קדמאה כי חולת תניינא שחולת סימן כי שקד:
+
+
+
+## Chapter 6
+
+
+### Verse 5
+
+###### Minchat Shai on Song of Songs 6:5:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/6:5:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/6:5:1)
+
+
+**שערך כעדר העזים.** העי"ן בשו"א לבדו:
+
+
+
+### Verse 12
+
+###### Minchat Shai on Song of Songs 6:12:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/6:12:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/6:12:1)
+
+
+**עמי נדיב.** בס"א כ"י מסור עליו חדא מלה אבל בכמה ספרים תרתין מלין וכ"כ אבן עזרא וכן נראה מפירוש רש"י וגם במקרא גדולה נמסר עליו לית ותרתין כתיב:
+
+
+
+## Chapter 7
+
+
+### Verse 1
+
+###### Minchat Shai on Song of Songs 7:1:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/7:1:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/7:1:1)
+
+
+**שובי שובי.** ארבעתם מלעיל:
+
+
+
+### Verse 2
+
+###### Minchat Shai on Song of Songs 7:2:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/7:2:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/7:2:1)
+
+
+**ידי אמן.** הא"לף בקמץ והוא חטוף מפני דגשות המ"ם מכלול דף רי"ב:
+
+
+
+### Verse 3
+
+###### Minchat Shai on Song of Songs 7:3:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/7:3:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/7:3:1)
+
+
+**שררך.** השי"ן בקמץ חטוף כמ"ש בירמיה ה' על ישדדם וזה ג"כ בא שלם ונקוד ע"ד החסר כמו רפאות תהי לשרך משלי ג' וכן לא כרת שרך (יחזקאל ט״ז:ד׳) שהדגש ברי"ש לחסרון אות הכפל וכן כתב הרא"בע בספר מאזני לשון הקדש דף רי"ז ועיין מ"ש במזמור ט' על חננני:
+
+
+
+### Verse 5
+
+###### Minchat Shai on Song of Songs 7:5:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/7:5:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/7:5:1)
+
+
+**כשני עפרים.** בגיליון ס"א מטוליטולא כתוב בהללי עֲפָרים:
+
+
+
+### Verse 8
+
+###### Minchat Shai on Song of Songs 7:8:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/7:8:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/7:8:1)
+
+
+**ושדיך לאשכלות.** הא"לף בפתח והכ"ף בחולם:
+
+
+
+### Verse 9
+
+###### Minchat Shai on Song of Songs 7:9:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/7:9:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/7:9:1)
+
+
+**כשאשכלות.** הא"לף בסגול והכ"ף בשוא וכן כתב רד"ק בספר מכלול משקל אֶפְעוֹל ובשרשים וכן מצאתי במסורת כ"י שכל אשכלות בלשון רבים פתוחות חוץ מזה שהוא בסגול ובמקצת ספרים כ"י ודפוס ישן כתוב גם זה בפתח ואין לסמוך עליהם:
+
+
+
+### Verse 13
+
+###### Minchat Shai on Song of Songs 7:13:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/7:13:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/7:13:1)
+
+
+**הנצו הרמונים.** מצאתי בס' דקדוק ישן כ"י שצד"י הנצו בדגש במקום אות החסרה כמו הנצצו ובספרים שבידינו אין בהם דגש ושרשו נצה:
+
+
+
+## Chapter 8
+
+
+### Verse 1
+
+###### Minchat Shai on Song of Songs 8:1:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/8:1:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/8:1:1)
+
+
+**אשקך.** בנוסח כ"י השי"ן במאריך וברוב הספרים בגלגל ול"ד הוא במקום מאריך כמ"ש בחומש פעמים רבות:
+
+
+
+### Verse 2
+
+###### Minchat Shai on Song of Songs 8:2:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/8:2:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/8:2:1)
+
+
+**אנהגך.** במקצת ספרים הה"א במאריך ובחילופי בן אשר ובן נפתלי שבדפוס הגי"מל בשוא ופתח לב"א וטעות הוא אצלי וצ"ל בשוא לבדו וכן מצאתי בחילופים כ"י:
+
+
+
+### Verse 5
+
+###### Minchat Shai on Song of Songs 8:5:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/8:5:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/8:5:1)
+
+
+**חבלתך.** בס"ס הל"מד בגלגל ואין טעם אחר בכ"ף וכן הוא ברוב ספרי הדפוס ובספרים אחרים הגלגל בכ"ף ואין שום טעם בל"מד ויש ספרים שהל"מד במאריך והכ"ף בגלגל ובעל רב פעלים ובעל הלשון כתבו בפתח הל"מד ובספרים שלנו קמוצה:
+
+
+
+### Verse 6
+
+###### Minchat Shai on Song of Songs 8:6:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/8:6:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/8:6:1)
+
+
+**רשפי.** הפ"א דגושה ע"פ המסורת שמה שבר רשפי קשת רפה וכן כתב רש"י בתילים סימן ע"ו:
+
+
+###### Minchat Shai on Song of Songs 8:6:2
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/8:6:2](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/8:6:2)
+
+
+**שלהבתיה.** מלא חדא לבן אשר לכן התי"ו בשוא וכ"כ רד"ק בשרש אפל ושרש שלהב וה"א אחרונה רפויה בספרים כ"י מדוייקים וכן במסורת סוף פרשת בשלח במ"ג:
+
+
+
+### Verse 8
+
+###### Minchat Shai on Song of Songs 8:8:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/8:8:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/8:8:1)
+
+
+**ביום שידבר בה.** חד מן ג' ביום דגשים ומטעין בהון מסורת קהלת סימן י"ב ועיין מה שאכתוב שם:
+
+
+
+### Verse 10
+
+###### Minchat Shai on Song of Songs 8:10:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/8:10:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/8:10:1)
+
+
+**כמוצאת שלום.** במקצת ספרים כ"י הצד"י בצירי והא"לף נחה כמו אין בשורה מצֵאת (שמואל ב י״ח:כ״ב) וכן כתב אבן עזרא ונעלם הא"לף כמנהגו אך ברוב הספרים הצד"י בשוא והאל"ף בצירי וכן כתב האפודי ור"דק במכלול דף קע"ב ובשרשים שרש מצא ולוית חן פ' י"א מהשער הרביעי וזהו א' מן י"ז מלין שתנוע בהן הא"לף שלא כדין חברותיהן וקורין להן במסורת מפקין אל"ף פי' מפקין מוציאין וסימן נמסר בריש מסרה גדולה וכ"כ ר' אלייה המדקדק בדבור תשיעי מספר מסורת המסורת ובהגהת שרשים תמה על ראב"ע ובב"ר ס' ל"ה דריש ליה כאילו המ"ם בשורק לשון יציאה כמו היא מוצאת ולא לשון מציאה כמשמעו בחולם ואין משיבין על הדרש:
+
+
+
+### Verse 12
+
+###### Minchat Shai on Song of Songs 8:12:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/8:12:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/8:12:1)
+
+
+**האלף לך שלמה.** איכא מ"ד קדש הוא כדכתיבנא לעיל ריש ספרא:
+
+
+
+### Verse 14
+
+###### Minchat Shai on Song of Songs 8:14:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/8:14:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Song%20of%20Songs/r/8:14:1)
+
+
+**ודמה לך.** הוא"ו במאריך והד"לת בשוא ובס"א כ"י בחטף פתח ועיין שופטים ה':
+

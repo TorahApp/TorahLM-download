@@ -1,0 +1,893 @@
+# Kessef Mishneh on Mishneh Torah, Sheqel Dues
+
+כסף משנה על משנה תורה, הלכות שקלים
+
+Link: [https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues)
+
+חיבור הלכתי פורץ-דרך וחדשני מבחינת היקפו ואופן סידור הדינים שבו. נכתב על ידי הרמב"ם במאה ה-12.
+
+Legal code written by Maimonides in the 12th century, groundbreaking in its organization and scope.
+
+Sections: Chapter-Halakhah-Comment
+
+Location: Halakhah/Mishneh Torah/Commentary/Kessef Mishneh/Sefer Zemanim
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Torat Emet 363 (Segments: 93, License: Public Domain)
+
+
+## Chapter 1
+
+
+### Halakhah 1
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 1:1:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:1:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:1:1)
+
+
+**מצות עשה מן התורה ליתן כל איש מחצית השקל בכל שנה ושנה וכו'. . ואינו נותנו בפעמים רבות וכו'. .**
+
+
+
+### Halakhah 2
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 1:2:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:2:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:2:1)
+
+
+**מנין כסף האמור בתורה וכו'.** משנה פרק יש בכור (בכורות דף מ"ט:) חמש סלעים של בן במנה צורי שלשים של עבד חמשים של אונס ומפתה ומאה של מוציא שם רע כלם בשקל הקדש במנה צורי. ופירש"י כלם בשקל הקדש דהוי עשרין מעין.
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 1:2:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:2:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:2:2)
+
+
+**ומ"ש ומשקלו ש"כ שעורה.** זה מבואר על פי מה שאכתוב בסמוך בשם הרי"ף שמשקל הפרוטה חצי שעורה.
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 1:2:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:2:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:2:3)
+
+
+**ומ"ש וכבר הוסיפו חכמים עליו וכו'.** בפרק יש בכור (בכורות דף נ') אמר רבא סלע דאורייתא תלתא ותילתא הוי דכתיב עשרים גרה השקל ומתרגמינן עשרין מעין ותניא שש מאה כסף דינר מיתיבי סלע של קדש מ"ח פונדיונין בתר דאוסיפו עלייהו דתניא עשרים גרה השקל מנין שאם רצה להוסיף יוסיף ת"ל יהיה יכול יפחות ת"ל הוא. ופירש רש"י בתר דאוסיפו עליה על סלע דאורייתא הוסיפו שתות ועשאוהו למדת סלע צורי כ"ד מעין. יהיה עשרים גרה יהיה השקל משמע עוד הויה אחרת. בפרשת ערכין כתיב הוא בסדר ויקח קרח כתיב עשרים גרה הוא:
+
+
+
+### Halakhah 3
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 1:3:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:3:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:3:1)
+
+
+**הסלע ארבעה דינרים וכו'.** מבואר פרק הזהב (מציעא דף נ"א:) במשנה.
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 1:3:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:3:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:3:2)
+
+
+**ומ"ש והדינר שש מעין וכו' עד ופרוטה אחת משמנה באיסר.** בפרק קמא דקדושין (י"ב).
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 1:3:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:3:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:3:3)
+
+
+**ומ"ש ומשקל הפרוטה חצי שעורה,** כ"כ הרי"ף שם:
+
+
+
+### Halakhah 4
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 1:4:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:4:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:4:1)
+
+
+**ועוד מטבע אחר היה שם וכו'.** כ"כ רבינו גם בפירוש המשנה ריש פ"ב דשקלים דתנן מצרפים שקלים דרכונות מפני משוי הדרך:
+
+
+
+### Halakhah 5
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 1:5:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:5:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:5:1)
+
+
+**מחצית השקל זו היא מצותה וכו'.** נלמד ממ"ש בסמוך מנין שאם רצה להוסיף יוסיף וכו' יכול יפחות ת"ל הוא. ושנינו במשנה פ"ב דשקלים כשעלו ישראל מהגולה היו שוקלין דרכונות חזרו לשקול סלעים חזרו לשקול טבעין בקשו לשקול דינרים ובירושלמי סלעים כמשמען טבעין פלגות סילעין דינרין קרטין בקשו לשקול דינרין ולא קבלו מהם. ופירש רבינו כשעלו מהגולה היו שוקלים דרכונות ר"ל שהיה המטבע שלהם דרכונות כפל הסלע והיה שוקל אדם במחצית השקל סלע חזרו לשקול סלעים והיה שוקל אדם שקל ר"ל מחצית הסלע חזרו לשקול טבעין ר"ל שחזר המטבע שלהם חצי סלע והוא שקל והיה אדם שוקל במחצית השקל שקל שלם שהוא מחצית השקל של תורה כי סלע הוא שקל של תורה ואין מותר לשקול בשום פנים פחות מן השיעור הכתוב בתורה אבל שוקל יותר כפי שנוי המטבעות בקשו לשקול דינרים והוא רביעית הסלע ולא הודו בזה, עכ"ל:
+
+
+
+### Halakhah 6
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 1:6:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:6:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:6:1)
+
+
+**בזמן שהיה מטבע וכו'.** כתב הראב"ד הדרך הזה וכו'. והם עניים היו והעשירו עכ"ל. כוונתו לומר שלא היו שוקלים דרכונות מפני שהמטבע שלהם היה דרכונות שהם היו עניים כשעלו מהגולה ואיך אפשר שהיה להם מטבע גדול אלא אף על פי שהמטבע שלהם היה סלע היו שוקלים לשקליהם דרכונות שהם שני סלעים מפני שהיו מתי מעט ואילו לא היו שוקלים אלא מחצית השקל לא היה מספיק לקרבנות צבור. ואיני רואה שום זרות בדברי רבינו דאטו מפני שהם עניים לא יתכן שיהיה להם מין מטבע גדול:
+
+
+
+### Halakhah 7
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 1:7:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:7:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:7:1)
+
+
+**הכל חייבים ליתן מחצית השקל וכו' עד אין מקבלים מהם.** משנה בפרק קמא דשקלים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 1:7:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:7:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:7:2)
+
+
+**ומ"ש שהכהנים חייבים.** שם במשנה א"ר יהודה העיד בן בוכרי שכל כהן שהוא שוקל אינו חוטא. א"ל ריב"ז לא כי אלא שכל כהן שאינו שוקל חוטא:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 1:7:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:7:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:7:3)
+
+
+**קטן שהתחיל אביו וכו'.** גם זה משנה שם:
+
+
+
+### Halakhah 8
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 1:8:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:8:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:8:1)
+
+
+**השקלים אינם נוהגים אלא בפני הבית.** משנה בסוף שקלים (דף י"א).
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 1:8:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:8:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:8:2)
+
+
+**ומ"ש ובזמן שב"ה קיים נוהגים השקלים בין בא"י בין בח"ל.** הכי משמע מדתנן בפ"ג דשקלים שהיה תורם לשם בבל לשם מדי ולשם מדינות הרחוקות:
+
+
+
+### Halakhah 10
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 1:10:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:10:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:10:1)
+
+
+**(ט-י) באחד באדר משמיעין על השקלים וכו' עד ממשכנין אותו.** משנה בפ"ק.
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 1:10:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:10:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:10:2)
+
+
+**ומ"ש כל מי שאינו חייב בשקלים וכו' אין ממשכנין אותו.** שם במשנה אין ממשכנין נשים ועבדים וקטנים ואם שקלו מקבלים מידם:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 1:10:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:10:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/1:10:3)
+
+
+**ומ"ש ואין ממשכנין הכהנים מפני דרכי שלום.** משנה פ"ק דשקלים. ובירושלמי כיני מתניתין אין ממשכנין הכהנים מפני (דרכי שלום) [דרך הכבוד]:
+
+
+
+## Chapter 2
+
+
+### Halakhah 1
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 2:1:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:1:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:1:1)
+
+
+**כיצד כונסין השלחנים את השקלים בכל מדינה ומדינה וכו'.** רפ"ב דשקלים כשם שהיו שופרות במקדש כך היו שופרות במדינה, ובירושלמי רפ"ו דשקלים תני שופרות הללו היו קצרים מלמעלה ורחבים מלמטה מפני הרמאים כלומר כדי שלא יכניס אדם רמאי ידו ויעשה כמי שמטיל באחת מהן ויטול ממה שבהן. ומדקתני שופרות במדינה משמע דשנים היו.
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 2:1:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:1:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:1:2)
+
+
+**ומ"ש ולמה עושין שתי תיבות אחת שמשליכים בה שקלים של שנה זו וכו':**
+
+
+
+### Halakhah 3
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 2:3:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:3:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:3:1)
+
+
+**(ב-ג) ובמקדש היו לפניהם י"ג תיבות כל תיבה כמין שופר.** בפרק ו' דשקלים י"ג שופרות היו במקדש וכתוב עליהם תקלין חדתין תקלין עתיקין קינין וגוזלי עולה עצים ולבונה זהב לכפורת וששה לנדבה. תקלין חדתין שבכל שנה ושנה. ועתיקין מי שלא שקל אשתקד שוקל לשנה הבאה. קינים הם תורים וגוזלי עולה הם בני יונה וכלם עולות דברי ר' יהודה וחכמים אומרים קנים אחד חטאת ואחד עולה וגוזלי עולה כלם עולות. ובירושלמי ששה לנדבה כנגד שש קרבנות קני זבים קני זבות קיני יולדות חטאות ואשמות המנחות ועשירית האיפה ורבינו כמ"ש כאן כתב בפירוש המשנה.
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 2:3:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:3:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:3:2)
+
+
+**ומ"ש רבינו שמינית למותר חטאת וכו' תשיעית למותר אשם וכו'.** אין דבריו מכוונים עם הירושלמי ובתוספתא מכוון כדברי רבינו ונראה שבירושלמי יש ט"ס:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 2:3:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:3:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:3:3)
+
+
+**ומ"ש ותנאי ב"ד הוא על כל המותרות שיקרבו עולות בהמה.** ירושלמי פ"ד דשקלים:
+
+
+
+### Halakhah 4
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 2:4:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:4:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:4:1)
+
+
+**בכל מדינה ומדינה וכו'.** ברפ"ב דשקלים מצרפים שקלים לדרכונות מפני משוי הדרך.
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 2:4:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:4:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:4:2)
+
+
+**ומ"ש ממלאין מכל השקלים שיקבצו שם ג' קופות גדולות וכו'.** שם בג' פרקים בשנה תורמין את הלשכה בפרוס הפסח ובפרוס העצרת ובפרוס החג ושנינו עוד שם בשלש קופות של שלש שלש סאין תורמין את הלשכה וכתוב עליהן א' ב' ג' ופי' שם רבינו ענין תורמין שמכניסין הממון כולו המכונס מן השקלים ונותנין אותו בלשכה ולוקחין מאותו הממון שבלשכה שלש קופות גדולות שמחזיקות כלל גדול מן הממון המכונס והיו נותנין השלש קופות בלשכה מהלשכות תחת מפתח ומנעול ואח"כ היו מוציאין מאלו השלש קופות ממון באלו השלשה מועדים בכל מועד שיעור ידוע והיו מספקים ממנו לקרבנות ועל נטילת ממון מן הקופות שתרמו בהן אומר בשלשה פרקים תורמין את הלשכה עכ"ל. וכתב עוד אמתני' דבשלש קופות של ג' ג' סאין תורמין את הלשכה כבר הודעתיך בהלכה הקודמת כי הממון כולו היו מכניסין בלשכה אחת וממלאין ממנו שלש קופות ומוציאין משם בכל מועד מהג' מועדות ואמר בזאת ההלכה כי מה שמוציאין משם בכל מועד הוא שלש קופות (שמחזקת) של ג' ג' סאין וכתוב על אלו הג' קופות שמחזקת כל אחת מהן ג' סאין א' ב' ג' וזה כדי שיספקו מהראשונה עד שתכלה ואח"כ מתחילין מן השניה עד שתכלה ואח"כ מן השלישית עד שתכלה ואח"כ ממלאים אותם פעם שנית בפרוס עצרת ואח"כ ממלאין אותן פעם שלישית בפרוס החג וא"כ יהיה שיעור מה שמוציאין באלו השלשה זמנים כ"ז סאה לפי שתשע סאין מוציאין בכל פעם. ונדע מזה כי השלש קופות הגדולות שבהן היה הממון המכונס ומהן יוצא בכל מועד ומועד שמחזיקות כ"ז סאה כל קופה מהם מחזקת תשע סאין ואם היה הממון יותר ממה שמחזיקות אותן הג' קופות אותו המותר נקרא שירי הלשכה, עכ"ל:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 2:4:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:4:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:4:3)
+
+
+**וכתב** הראב"ד על דברי רבינו (עי' לקמן הלכה ח') שפת יתר הוא זה ואין דרך המשנה כן עכ"ל. טעמו שהוא מפרש כמו שפירשו התוספות בפרק שני דקידושין. ואינו מוכרח ודברי רבינו נכונים ונלמדים מהירושלמי כמ"ש בפירוש המשנה הנזכר:
+
+
+
+### Halakhah 5
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 2:5:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:5:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:5:1)
+
+
+**ומ"ש בר"ח ניסן ובר"ח תשרי קודם יו"ט או אחריו וקודם עצרת בט"ו יום,** רבינו בפירוש המשנה כתב ענין פרוס חצי מועד וכן אמרו בירושלמי כל מה דתנינן פרס פלגא עניינו חצי חדש. ובתוספתא איזהו פרס אין פחות מט"ו יום קודם לרגל עכ"ל. ומ"ש רבינו
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 2:5:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:5:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:5:2)
+
+
+**גבי ראש חדש תשרי או אחריו** אע"פ שבמשנה הנזכרה שנינו גבי סברת ר' אליעזר ור"ש למה אמרו בכ"ט באלול ולא אמרו באחד בתשרי מפני שהוא יו"ט וא"א לעשר ביום טוב לפיכך הקדימוהו בכ"ט באלול סובר רבינו דהקדימוהו לאו דוקא דה"ה שיכולים לאחרו:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 2:5:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:5:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:5:3)
+
+
+**וכיצד תורמין אותן וכו' והוא אומר להם אתרום והם אומרים לו תרום תרום וכו'.** משנה שם:
+
+
+
+### Halakhah 6
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 2:6:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:6:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:6:1)
+
+
+**ומה שכתב ובראש חדש ניסן תורמין מתרומה חדשה.** בפ"ק דר"ה (דף ז') תניא באחד בניסן ר"ה לתרומת שקלים ובגמ' מנ"ל א"ר יאשיה אמר קרא זאת עולת חדש בחדשו לחדשי השנה אמרה תורה חדש והבא קרבן מתרומה חדשה וגמרי שנה שנה מניסן דכתיב ראשון הוא לכם לחדשי השנה ופירש"י חדש בחדשו לחדשי חדשים יתירי לדרשא:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 2:6:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:6:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:6:2)
+
+
+**לא הספיקו להם השקלים וכו'.** שם בירושלמי שלמה שלישית חוזר ותורם ר״מ אומר יחזור לשירים שהיה ר״מ אומר מועלין בשירים שמא יצטרכו להם לבסוף. והתוספות פרק האיש מקדש (קידושין דף נ״ד) הביאו הירושלמי הזה ופירשו דלת״ק חוזר ותורם מתקלין חדתין אחר החג ואל יתרום משירי הלשכה. ויש לתמוה על רבינו למה פסק כר״מ ושבק ת״ק. ונ״ל שטעמו משום דבהאיש מקדש מתיב לרב מדתניא מועלין בחדתין ואין מועלין בעתיקין דברי ר' יהודה ר״מ אומר מועלין אף בעתיקין שהיה ר״מ אומר מועלין בשירי הלשכה. ופירשו התוספות שם דת״ק סבר כמ״ד חוזר ותורם מתקלין חדתין שהובאו אחרי החג ואל יתרום משירי הלשכה ולכך מועלין בחדתין שמא יצטרכו להם אבל לא בעתיקין לפי שתורת שירי לשכה עליהם ר״מ אומר מועלין אף בעתיקין שהיה ר״מ אומר מועלין בשירי הלשכה ור״מ לטעמיה דאמר שלמו כלם חוזר לשירים ודומים זה לזה דכי היכי דחוזרים לשירים ה״נ חוזרים לעתיקין אם יצטרכו ומשני לא תימא ר״מ אלא אימא ר״י ופירש״י אימא ר״י אומר מועלין בעתיקין. וכיון דבגמ' דידן אמרי' דר״י הוא דאמר מועלין בעתיקין ממילא ידעינן דר״י הוא דאמר יחזור לשירים והלכה כמותו לגבי ר״מ:
+
+
+
+### Halakhah 7
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 2:7:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:7:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:7:1)
+
+
+**שלש קופות הקטנות שהוא תורם בהן ומוציא לחוץ וכו'.** משנה פרק ג' דשקלים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 2:7:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:7:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:7:2)
+
+
+**ותורם ראשונה מן הקופה האחת הגדולה וכו'.** ג"ז משנה שם תרם את הראשונה וחיפה בקטבלאות שניה וחיפה בקטבלאות שלישית לא היה מחפה שמא ישכח ויתרום מן הדבר התרום, ופירש שם רבינו לא היה מחפה שאילו היה מכסה אותה היה מוציא בפעם השנית בתחלה מאותה הקופה הגדולה שהתחיל בה בפעם ראשונה וזהו ענין אמרם שמא יתרום מן התרום וכשמניחה מגולה תהיה ניכרת וכשיכנס בפעם השנית לתרום יתחיל ממנה ונמצא מוציא מכל קופה וקופה מן הג' קופות הכתוב עליהם א' ב' ג' עד שתהיה כל קופה מהן הקרב ממנה על כל ישראל כי כל קופה מן השלש קטנות מתכוונין עליה על קצת מישראל הוא אמרם תרם את הראשונה לשם א"י עכ"ל. ובירושלמי נוטל מן הראשונה אע"פ שיש בראשונה חוזר לשניה נטל מן השניה חוזר לשלישית שלמה שלישית חוזר לשניה שלמה שניה חוזר לראשונה. ונראה דה"פ נוטל הקופה הקטנה שכתוב עליה א' מן הראשונה שבגדולות ואע"פ שעדיין נשאר הרבה בקופה הגדולה הראשונה נוטל הקופה הקטנה שכתוב עליה ב' מהקופה הגדולה השניה ואחר כך נוטל הקופה הקטנה שכתוב עליה ג' מהקופה הגדולה השלישית וכשיכנס לתרום בעצרת מתחיל לתרום הקופה הקטנה שכתוב בה א' מהקופה הגדולה השלישית שסיים בה ואח"כ נוטל הקופה הקטנה השניה שכתוב בה ב' מהשניה והיינו דקתני שלמה שלישית כלומר שמילא הקופה הקטנה הראשונה מהקופה הגדולה השלישית חוזר לשניה כלומר שממלא הקופה הקטנה שכתוב בה [ב' מהקופה הקטנה הגדולה השנייה, שלמה שניה חוזר לשלישית כלומר שממלא הקופה הקטנה שכתוב בה] ג' מהקופה הגדולה הראשונה. כנ"ל פירוש הירושלמי ואין זה מכוון לדברי רבינו שכתב ותורם השניה מן הגדולה שתרם ממנה בראשונה וצ"ע:
+
+
+
+### Halakhah 8
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 2:8:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:8:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:8:1)
+
+
+**כשהוא תורם שלש קופות אלו תורם את הראשונה לשם א"י וכו'.** משנה שם ופי' ה"ר עובדיה לשם ארץ ישראל שהם שלחו שקליהם תחלה שהאחרים עדיין לא הביאו לשם. כרכים המוקפים הסמוכים כמו עמון ומואב מלשון מקיפין בבועי. ומכל מקום בכל פעם היו תורמין על שם כל ישראל על הגבוי ועל העתיד לגבות ולא הזכיר התנא חילוק מקומות הללו אלא להודיעך שתקנו שלשה פרקים אלו לפי שאז יתקבצו כל שקלי ישראל, עכ"ל. וכ"כ סמ"ג בשם ר"י:
+
+
+
+### Halakhah 9
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 2:9:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:9:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:9:1)
+
+
+**כשהוא תורם מתכוין לתרום על הגבוי שיש בלשכה וכו'.** בפרק בתרא דכתובות דף ק"א תורמין על האבוד ועל הגבוי ועל העתיד לגבות. ורבינו נראה שגורס על הגבוי ועל הגבוי ועל העתיד לגבות ופירש"י על העתיד לגבות ואפילו לא נגבה לאחר מכאן יש לו חלק בתרומה ובקרבנות אלא שחיסר מצוה:
+
+
+
+### Halakhah 10
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 2:10:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:10:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:10:1)
+
+
+**כשיכנס התורם לתרום לא יכנס בבגד שאפשר להחבות בו כסף וכו'.** בפרק ג' דשקלים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 2:10:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:10:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:10:2)
+
+
+**ומ"ש ומדברים היו עמו משעה שיכנס.** ירושלמי שם:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 2:10:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:10:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/2:10:3)
+
+
+**ואע"פ שנזהרים כל כך עני ומי שהוא נבהל להון לא יתרום מפני החשד וכו'.** שם תנא דבי ר' ישמעאל קווץ לא יתרום מפני החשד ונראה שרבינו מפרש קווץ עני. והראב"ד כתב וז"ל כתב זה מפני שראה בירושלמי וכו' שמא יחביא בשערו ע"כ. ובעל מ"ע כתב גירסת הירושלמי קבוץ בבי"ת וכתב שטעם רבינו שפי' עני שהוא מקבץ ממקום למקום והפירוש השני נבהל להון מלשון וקובץ על יד:
+
+
+
+## Chapter 3
+
+
+### Halakhah 1
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:1:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:1:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:1:1)
+
+
+**חציי השקלים הכל צריכים להם וכו'.** מתבאר בפ"ק דשקלים במשנה:
+
+
+
+### Halakhah 2
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:2:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:2:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:2:1)
+
+
+**כל מי שאינו חייב בשקלים וכו'.** שם ואלו חייבין בקלבון לויים ישראלים גרים ועבדים משוחררים אבל לא נשים ולא עבדים ולא קטנים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:2:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:2:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:2:2)
+
+
+**ומ"ש וכן אם היה אחד חייב ואחד פטור וכו'.** שם השוקל ע"י כהן ע"י אשה ע"י עבד ע"י קטן פטור ופירש שם רבינו אם שקל אדם שקל בשבילו ובשביל מי שאינו חייב בשקל כגון הנשים והעבדים שנתינת אותו חצי שקל חסידות לא חובה אינו חייב בקלבון.
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:2:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:2:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:2:3)
+
+
+**ומה שכתב רבינו וכן הכהנים פטורים מן הקלבון.** נלמד ממה ששנינו השוקל על ידי כהן פטור והוצרך רבינו להשמיענו שהכהנים פטורים מן הקלבון מפני שהם חייבים בשקלים כמו שנתבאר בפרק ראשון ואעפ"כ פטורים מקלבון כיון שאין ממשכנין אותם. ויש ספרים שגורסים במשנה דלעיל בהדיא אבל לא כהנים:
+
+
+
+### Halakhah 3
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:3:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:3:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:3:1)
+
+
+**הנותן שקל עליו ועל העני וכו'.** גם זה שם השוקל ע"י עני או ע"י שכנו או ע"י בן עירו פטור אם הלוון חייב:
+
+
+
+### Halakhah 4
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:4:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:4:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:4:1)
+
+
+**האחין שעדיין לא חלקו וכו'.** שם האחין השותפין שחייבים בקלבון פטורים ממעשר בהמה. [ופי' שם רבינו מעשר בהמה] הוא חייב בו מי שנולד אצלו אבל הלוקח מזולתו בהמה אינו חייב להוציא מעשר והשותפין והאחין בהיותם שותפים בנכסי אביהם אינם חייבים בקלבון לפי שהם כמו אדם אחד והם חייבים להוציא מעשר בהמה ממה שילדו צאנם ובקרם וכשיפרדו איש מעל אחיו ויחלקו ממונם יהיה כל אחד מהן כאילו קנה מחבירו החלק המגיע לו ולא יתחייב במעשר בהמה מאותם ולדות שחלקו ואם נתנו שקל בשבילם אחר שחלקו יתחייבו בקלבון עכ"ל:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:4:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:4:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:4:2)
+
+
+**כתב** הראב"ד לא מצאתי לזה שורש בגמרא וכו' אלא האחין השותפין עכ"ל. ואין בזה השגה מאחר שבקצת ספרים כתוב כן והמגדל עוז הביא כמה ראיות להחזיק דברי רבינו.
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:4:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:4:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:4:3)
+
+
+**ומ"ש רבינו בד"א בשותפין שנשאו ונתנו במעות השותפות אבל אם הביא זה מעותיו וכו'.** בעל מגדל עוז נתן טעם לדברי רבינו ואינו מספיק וצ"ע:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:4:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:4:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:4:4)
+
+
+**ומ"ש רבינו נשאו ונתנו ואחר זמן חלקו וחזרו ונשתתפו חייבים בקלבון.** [משנה פ' מעשר בהמה בכורות נ"ו:]:
+
+
+
+### Halakhah 5
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:5:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:5:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:5:1)
+
+
+**ומ"ש האחין והשותפין וכו' וחלקו בכספים וכו' עד עומדין לחלוקה.** שם בגמ' (שקלים ו') וכתב הראב"ד א"א בירושלמי עד הם עיקר נכסים עכ"ל. ולדעת רבינו י"ל שמאחר שבגמרא דידן לא חילקו בכך משמע דגמרא דידן לא סבר להא דרבי מנא:
+
+
+
+### Halakhah 6
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:6:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:6:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:6:1)
+
+
+**הנותן שקל להקדש וכו'.** משנה פ"ק דשקלים על ידו ועל ידי חברו חייב בקלבון אחד ר"מ אומר שני קלבונות נתן סלע ליטול שקל חייב שני קלבונות. ופירש רבינו אם נתן סלע כדי ליקח מן האדם המקבל השקלים שקל ויחשוב לו בשקל בשביל אדם שהוא חייב בשקלים שיתן שני קלבונות האחד המחוייב לשקל שלקח בסלע והשני המחוייב עליו באותו שנתן בשבילו או בשביל חבירו עכ"ל:
+
+
+
+### Halakhah 7
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:7:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:7:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:7:1)
+
+
+**כמה הוא שיעור הקלבון וכו'.** שם כמה הוא שיעור קלבון מעה כסף וחכמים אומרים חצי וידוע דהלכה כחכמים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:7:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:7:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:7:2)
+
+
+**ומה שכתב ומעולם לא נתן הקלבון פחות מזה. . והקלבונות אינם כשקלים אלא מניחין אותן בפני עצמן וכו'.** ירושלמי בסוף פ"ק דשקלים להיכן היו קלבונות נופלים ר"מ אומר לשקלים ר' אלעזר אומר לנדבה ר"ש אומר ריקועי פחים צפוי לבית קדשי הקדשים בן עזאי אומר שולחנים היו נוטלין ועושין בשכרן ויש אומרים להוצאת דרכים ור"מ דאמר לשקלים הוי יחידאה לגבי אינך תנאי ומ"ה כתב רבינו והקלבונות אינם כשקלים ומפני שנסתפק בדברי שאר תנאים הלכה כדברי מי סתם וכתב אלא מניחים אותם השלחנים בפני עצמן עד שיסתפק מהם ההקדש. והראב"ד כתב על דברי רבינו הרבה מחלוקת יש בזה בתוספתא ובירושלמי עכ"ל. וכבר כתבתי טוב טעם ודעת בדברי רבינו:
+
+
+
+### Halakhah 8
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:8:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:8:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:8:1)
+
+
+**מי שאבד שקלו וכו'.** ברפ"ב דשקלים פלוגתא דר"י ור"ל וידוע דהלכה כר' יוחנן:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:8:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:8:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:8:2)
+
+
+**בני העיר ששלחו שקליהם וכו'.** בפרק הזהב (מציעא נ"ז נ"ח) אהא דתנן דהקדשות אין שומר חנם נשבע עליהם רמי מדתנן ברפ"ב דשקלים בני העיר ששלחו שקליהם ונגנבו או אבדו אם משנתרמה התרומה נשבעים לגזברים ואם לאו נשבעים לבני העיר ובני העיר שוקלים אחרים תחתיהם אמר שמואל בנושא שכר עסקינן ונשבעין ליטול שכרן והא נגנבו או שאבדו קתני וש"ש בגניבה ואבידה חיובי מיחייב והכא נהי דשלומי לא משלמי אגרייהו מיהא ליפסיד אמר רבה נגנבו בלסטים מזויין אבדו שטבעה ספינתו בים ר"א אמר שבועה זו תקנת חכמים היא שלא יהו בני אדם מזלזלין בהקדשות ופירש"י ר' אלעזר אמר לעולם שבועה זו ליפטר מתשלומין היא ובש"ח ודקשיא לך מתניתין דאורייתא פטור לגמרי ורבנן הוא דתקון לה שלא יזלזלו בהקדשות בשמירתן. וממה שסתם רבינו כאן וכתב והם חוזרים ונותנים שקליהם פעם שניה ולא חילק בין נתרמה תרומה ללא נתרמה ולקמן גבי ש"ש כתב ובני העיר מה היה להם לעשות הרי לא מסרו אלא לש"ש משמע בהדיא שהוא סובר שאם שלחום ביד ש"ח אע"פ שנתרמה תרומה שוקלין שקלים אחרים תחתיהם מפני שפשעו במה ששלחו ביד ש"ח וכ"כ בהדיא בפירוש המשנה. ויש לתמוה על זה כי ס"ד דמתני' בש"ח אמאי לא אקשינן עליה היכי קתני אם משנתרמה תרומה נשבעים לגזברים ואם לאו נשבעין לבני העיר ובני העיר שוקלים אחרים תחתיהם דמשמע דבשנתרמה תרומה אין בני העיר שוקלין אחרים תחתיהם וכן יקשה על ר' אלעזר דאמר שבועה זו תקנת חכמים היא למימרא דמתני' בש"ח היא. וצ"ל שרבינו סובר דמאן דמוקי לה בש"ח יפרש דכי קתני ובני העיר שוקלים אחרים תחתיהם ארישא נמי קאי.
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:8:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:8:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:8:3)
+
+
+**ומ"ש ואם אמרו אנשי העיר הואיל ואנו משלמין שקלינו אין רצוננו שישבע השליח וכו'.** ירושלמי בפ' ב' דשקלים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:8:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:8:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:8:4)
+
+
+**נמצאו השקלים הראשונים וכו'.** בפ"ב דשקלים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:8:5
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:8:5](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:8:5)
+
+
+**ומ"ש והראשונים יפלו לשקלי השנה והאחרונים יפלו לשקלי שנה שעברה.** ירושלמי שם ומסיים בה אלו הם הראשונים אלו הם השניים ר' פנחס בר' חנינא ור' אבא מרי חד אמר אלו ששלחו בני העיר תחלה (ואחרונה) [וחורנא] אמר אלו שהגיע ליד גזברים תחלה וכתבו רבינו לקמן בסמוך:
+
+
+
+### Halakhah 9
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:9:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:9:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:9:1)
+
+
+**שלחו שקליהם ביד שומר שכר וכו'.** משנה כתבתיה בסמוך בני העיר ששלחו שקליהן ונגנבו או אבדו אם משנתרמה התרומה נשבעים לגזברים ואם לאו נשבעים לאנשי העיר ובני העיר שוקלין אחרים תחתיהם ואוקמה שמואל (מציעא נ"ח) בנושא שכר ומאי נגנבו בלסטים מזויין ומאי אבדו שטבעה ספינתו בים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:9:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:9:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:9:2)
+
+
+**ומ"ש ובני העיר פטורים וכו'.** בפרק ב' דשקלים אהא דתנן אם משנתרמה תרומה וכו' פירש רבינו מעות השקלים כשכונסים אותם נותנים אותה בלשכה ידועה ואח"כ לוקחין ממנו קצת בג' קופות ומוציאים אותו בקרבנות צבור וזאת הלקיחה נקראת תרומת הלשכה ותניא תורמין על הגבוי ועל העתיד ליגבות ולפיכך אם נתרמה תרומה ואח"כ אבד הממון נשבעים השלוחים לגזברים לפי שמאחר שנתרמה תרומה ברשות הגזברים יחשב ואפילו מה שלא הגיע לידם שהרי תורמין על העתיד ליגבות ואם עדיין לא נתרמה תרומה נשבעים השלוחים לאנשי העיר והם שוקלים פעם שניה:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:9:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:9:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:9:3)
+
+
+**ודע** דבפרק הזהב על הא דאמר שמואל בש"ש עסקינן ונשבעין ליטול שכרן מקשה א"ה נשבעין לגזברים נשבעין לבני העיר אמר רבה נשבעין לבני העיר במעמד גזברים כי היכי דלא נחשדינהו וא"נ כי היכי דלא לקרו להו פושעים. ויש לתמוה למה רבינו השמיט זה וסתם וכתב כלשון המשנה נשבעים לגזברים. וי"ל שמאחר שאמר ר' אלעזר שבועה זו תק"ח היא כדי שלא יהיו בני אדם מזלזלים בהקדשות תו לא צרכינן לההוא שינוייא:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:9:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:9:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:9:4)
+
+
+**יש מי שאומר שהשקלים הראשונים וכו'. . כתב** הראב"ד בירושלמי מחלוקת אמוראים, עכ"ל. וכבר כתבתיו בסמוך:
+
+
+
+### Halakhah 10
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:10:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:10:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:10:1)
+
+
+**הנותן חצי שקל לחבירו וכו'.** משנה פ"ב דשקלים הנותן שקלו לחבירו לשקול על ידו ושקלו על ידי עצמו אם נתרמה תרומה מעל.
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:10:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:10:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:10:2)
+
+
+**ומ"ש וכן הגוזל או הגונב וכו'. ומ"ש והוא חייב לשלם לבעלים שנים.** כלומר אם לא נתרמה תרומה כדין גונב מההדיוט שהוא משלם תשלומי כפל או להוסיף חומש אם נתרמה תרומה כדין גונב מההקדש שהוא מוסיף חומש:
+
+
+
+### Halakhah 11
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:11:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:11:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:11:1)
+
+
+**הנותן מחצית השקל מן ההקדש וכו'.** משנה פ"ב דשקלים השוקל שקלו מן ההקדש אם נתרמה תרומה ואח"כ קרבה בהמה מעל ממעות מעשר שני ומדמי שביעית יאכל כנגדו. והדבר מבואר שמ"ש רבינו כשיסתפקו ממנה יתחייב במעילה הוא פירוש מה ששנינו ואח"כ קרבה בהמה, ופירש ה"ר עובדיה השוקל שקלו מן ההקדש שהיו בידו מעות שהוקדשו לבדק הבית וכסבור שהם של חולין ושקל מהם שקלו ונתרמה התרומה וקנו בהמה באותה תרומה והקריבוה אז נתחייב השוקל קרבן מעילה אבל לא קודם לפי שזה ההקדש נשאר הקדש כמו שהיה בכל מקום שהוא ולא נשתנה וכשנקרבה הבהמה והוא נתכוון שהיא מממון כל מי ששקל בתרומת הלשכה נעשה כאילו קנה בהמה באותן מעות של הקדש והקריבה ונהנה שלא משכנוהו בשביל שקלו ונתחייב בקרבן מעילה ורישא נמי דקתני כשנתן לו חבירו לשקול ע"י ושקל על ידי עצמו דמעל היינו נמי שקרבה בהמה אחר שנתרמה התרומה והאי דלא תנייה ברישא משום דסמיך אסיפא שמפרש בה מעילת שניהם וה"ט שאינו מועל מיד אע"פ שנהנה כבר לפי שאין מעילה אלא במוציא מן ההקדש לחולין אבל המוציא מההקדש להקדש אע"פ שנהנה אינו מועל אלא לאחר שעשה מעשה בהקדש השני וכן מוכח בירושלמי עכ"ל:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:11:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:11:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:11:2)
+
+
+**היה של עיר הנדחת לא עשה כלום.** הטעם מפני שהוא אסור בהנאה וצריך טעם למה פרט עיר הנדחת:
+
+
+
+### Halakhah 12
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:12:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:12:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:12:1)
+
+
+**המפריש שקלו וכו'.** ירושלמי פ"ב דשקלים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:12:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:12:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:12:2)
+
+
+**המפריש שנים ונמצא שאינו חייב אלא אחד וכו'.** שם הפריש שנים והוא סבור שחייב שנים ונמצא שאינו חייב אלא אחד השני מה את עביד ליה נשמעינה מן הדא הפריש חטאתו וסבור שהוא חייב ונמצא שאינו חייב לא קדשה הפריש שתים סבור שהוא חייב שתים ונמצא שאינו חייב אלא אחת אותה שניה מה את עביד לה אלא רועה ה"נ אלו לנדבה:
+
+
+
+### Halakhah 13
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:13:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:13:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:13:1)
+
+
+**הלוקח מעות בידו וכו'.** משנה פרק ב' דשקלים המכניס מעות ואמר הרי אלו לשקלי ב"ש אומרין מותרן נדבה וב"ה אומרים מותרן חולין ובירושלמי ר' יוסי בשם ר' אלעזר במה פליגי במכניס פרוטרוט אבל באומר אלו לשקלי דכ"ע שמותרן נדבה ר' חזקיה ורב ביבא בשם ר' אלעזר פליגי במכניס פרוטרוט אבל באומר אלו לשקלי מודו דמותרן חולין אמר ר' חזקיה מתניתין מסייעא לר' ביבא ופסק כר' ביבא משום דמתני' מסייעא ליה:
+
+
+
+### Halakhah 14
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:14:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:14:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:14:1)
+
+
+**מעות שנמצאו וכו' עד מחצה למחצה להחמיר.** משנה רפ"ז דשקלים והטעם שמחצה למחצה יפלו ללבונה מפני שהלבונה היא עצמה קרבן ועצים מכשירי קרבן. כתב ה"ר עובדיה מחצה על מחצה יפלו לגוזלי עולה בירושלמי פריך בשלמא קרוב לגוזלי עולה כיון דמדאורייתא אזלינן בתר קורבא הוי כאילו ודאי הן מגוזלי עולה אלא מחצה על מחצה דמספקא שדינן להו לגוזלי עולה לחומרא האשה שהביאה המעות הללו במה תתכפר שמא מקיני חובה נפלו וכשאתה מקריב מהן גוזלי עולה במה תתכפר האשה ומשני ב"ד הממונים על הקינין לוקחין משל צבור כפי אותן המעות שנמצאו ומקנין אותם לבעלי המעות שנמצאו ומקריבין מהן קינין על הספק והחטאת לא תהא נאכלת עכ"ל. ואיני יודע למה השמיטו רבינו:
+
+
+
+### Halakhah 15
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:15:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:15:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:15:1)
+
+
+**וכל המעות הנמצאות בהר הבית חולין.** ג"ז משנה שם.
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 3:15:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:15:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/3:15:2)
+
+
+**ומ"ש שאין הגזבר מוציא מעות מתרומת הלשכה וכו'.** שם בירושל':
+
+
+
+## Chapter 4
+
+
+### Halakhah 1
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 4:1:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:1:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:1:1)
+
+
+**תרומת הלשכה מה יעשה בה וכו'.** ריש פ"ד דשקלים התרומה מה היו עושין בה לוקחין בה תמידים ומוספין ונסכיהם העומר ושתי הלחם ולחם הפנים וכל קרבנות הצבור:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 4:1:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:1:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:1:2)
+
+
+**ומ"ש והקטרת ושכר עשייתה.** שם:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 4:1:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:1:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:1:3)
+
+
+**ומ"ש ולחם הפנים ושכר עושי לחם הפנים.** בר"פ שני דייני בית גרמו על מעשה לחם הפנים נוטלים שכרן מתרומה הלשכה:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 4:1:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:1:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:1:4)
+
+
+**ומ"ש ופרה אדומה ושעיר המשתלח ולשון של זהורית שקושרין בין קרניו.** משנה פ"ד דשקלים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 4:1:5
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:1:5](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:1:5)
+
+
+**ומה שכתב אבל פר העלם דבר של צבור ושעירי עכו"ם בתחלה גובים להם וכו'** [מנחות דף נ"ב.]:
+
+
+
+### Halakhah 2
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 4:2:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:2:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:2:1)
+
+
+**פרוכות של היכל תחת בנין עשויות וכו'.** בר"פ שני דייני (כתובות ק"ו) אמר ר' נחמן אמר רב נשים האורגות בפרוכות נוטלות שכרן מתרומת הלשכה ואני אומר מקדשי בדק הבית הואיל ופרוכות תחת בנין עשויות מיתיבי נשים האורגות בפרוכות נוטלות שכרן מתרומת הלשכה התם בדבבי דא"ר זירא אמר רב י"ג פרוכות היו במקדש שני ז' כנגד ז' שערים אחד לפתחו של היכל ואחד לפתחו של אולם ב' בדביר ב' כנגדן בעליה. ופירש"י בדבבי בפרוכות שכנגד הפתחים דלצניעותא עבידי ואינם תחת בנין אבל כל צורך בנין כגון פרוכות המבדילות בין היכל לקה"ק שהיו במקדש שני במקום אמה טרקסין שעשה שלמה בבנין ראשון ואותן פרוכות נעשו מקדשי בדק הבית:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 4:2:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:2:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:2:2)
+
+
+**המנורה וכלי שרת וכו'.** בר״פ שני דייני (כתובות דף ק״ו:) תנא דבי ר' ישמעאל כלי שרת באים מתרומת הלשכה מיתיבי כלי שרת באים ממותר נסכים תנאי היא דתנן ר' ישמעאל אומר מותר תרומה לכלי שרת ר״ע אומר מותר נסכים לכלי שרת. ופסק רבינו כר״ע ואע״ג דר' חנינא סגן הכהנים סבר כר״י ומשמע ליה דהיכא דליכא מותר נסכים מודה ר״ע לר' ישמעאל:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 4:2:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:2:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:2:3)
+
+
+**ודע** דגרסינן התם בעא ר' הונא מרב כלי שרת מהו שיעשו מקדשי בדק הבית צורך מזבח נינהו ומקדשי בדק הבית אתו או צורך קרבן נינהו ומתרומת הלשכה היו עושים אותם א"ל אין נעשים אלא מתרומת הלשכה איתיביה וככלותם הביאו לפני המלך ויהוידע וכו' ל"ק כאן שגבו והותירו כאן שגבו ולא הותירו וכי גבו והותירו מאי הוי אמר רבי אבהו לב בית דין מתנה עליהם אם הוצרכו הוצרכו ואם לאו יהו לכלי שרת. ויש לתמוה דמשמע דפליגי ארבי ישמעאל ור"ע דמר אמר מתרומת הלשכה ומר אמר ממותר נסכים אבל מקדשי בדק הבית לא. וצ"ל דכי לב ב"ד מתנה עליהם חזרו אותם מעות כמותר נסכים או כתרומת הלשכה. ומכל מקום יש לתמוה למה השמיט רבינו דבר זה דמקדשי בדק הבית אתו היכא דגבו והותירו:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 4:2:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:2:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:2:4)
+
+
+**בגדי כהונה וכו'.** הכל מתרומת הלשכה [תוספתא יומא פ"א]:
+
+
+
+### Halakhah 7
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 4:7:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:7:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:7:1)
+
+
+**מגיהי ספרים שבירושלים וכו' עד כדי צרכן.** פרק שני דייני (כתובות דף ק"ו):
+
+
+
+### Halakhah 8
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 4:8:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:8:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:8:1)
+
+
+**כבש היו עושין מהר הבית להר המשחה וכו'.** בפרק ג' דפרה:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 4:8:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:8:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:8:2)
+
+
+**ומה שכתב וכן היו עושים כבש שמוציאין עליו שעיר המשתלח.** משנה פ' ב' שעירים (יומא ס"ו):
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 4:8:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:8:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:8:3)
+
+
+**ומ"ש ושניהם נעשין משירי הלשכה.** משנה פרק ד' דשקלים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 4:8:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:8:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:8:4)
+
+
+**ומ"ש וכן מזבח העולה וההיכל והעזרות באים משירי הלשכה.** ירושלמי פ"ד דשקלים. אבל בגמרא דידן ר"פ שני דייני (כתובות ק"ו) מזבח העולה הלשכות והעזרות באים מקדשי בדק הבית, ויש לתמוה למה הניח רבינו גמרא דידן ופסק כירושלמי:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 4:8:5
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:8:5](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:8:5)
+
+
+**אמת המים שבירושלים וכו' עד משירי הלשכה.** משנה פ"ד דשקלים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 4:8:6
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:8:6](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:8:6)
+
+
+**ועכו"ם שהתנדב מעות לדברים אלו וכו'.** ירושלמי פ"ק דשקלים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 4:8:7
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:8:7](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:8:7)
+
+
+**ומ"ש ואפילו גר תושב.** הוא נלמוד מדמשוה התם כותי עם העכו"ם וכותיים באותו זמן לא היו עובדים ע"א וקתני דאין מקבלים מהן וכ"ש לגר תושב ואפילו מ"ד התם בירושלמי [דמקבלין] מן הכותי ע"כ לא אמר [אלא] בכותי אבל לא בגר תושב:
+
+
+
+### Halakhah 9
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 4:9:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:9:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:9:1)
+
+
+**מותר תרומת הלשכה וכו'.** פ"ד דשקלים תנאי ב"ד הוא על המותרות שיקרבו עולות ושם במשנה מותר תרומה ר"ע אומר לקיץ המזבח:
+
+
+
+### Halakhah 10
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 4:10:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:10:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:10:1)
+
+
+**שקלים שלא וכו'.** ירושלמי ס"פ אלו הם הממונים תנן התם קדשי מזבח מוציאים הראוי להם מקדשי בדק הבית א"ר חייא כן היא מתניתין קדשי מזבח מוציאין את הראוי להם מקדשי בדק הבית קדשי בדק הבית [אין] מוציאין את הראוי להם מקדשי מזבח כך היא הגירסא הנכונה. וכתב הראב"ד בשקלים ירושלמי מצא דבר זה וכו' שהרי שנינו כן במעילה עכ"ל. וטעמו משום דמסיים בה התם והא תנינן כלי שמצאו בו צורך לבדק הבית מניחין אותו והשאר נמכרין ודמיהם נופלים ללשכת בדק הבית א"ר חזקיה כיני מתניתין לצורך לשכת בדק הבית וזה נאמר על מתניתין דקתני שתי לשכות היו במקדש אחת מהן לשכת הכלים כל מי שהוא מתנדב כלי זורקו לתוכה אחת לשלשים יום הגזברים פותחין אותה וכל כלי שנמצא בו צורך לבדק הבית מניחין אותו והשאר נמכרים ודמיהם נופלים ללשכת בדק הבית. וסובר הראב"ד דכיון דעל האי מתניתין הוא דאתמר לא נאמר אלא בלשכה זו דוקא. ופשטא דירושלמי לא משמע כוותיה. ובעל מגדל עוז הביא ראיות לדברי רבינו. והירושלמי הזה צריך למוד:
+
+
+
+### Halakhah 12
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 4:12:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:12:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:12:1)
+
+
+**(יא-יב) משיגיע ר"ח ניסן וכו'.** בפ' קמא דר"ה (דף ז'):
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 4:12:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:12:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:12:2)
+
+
+**ומ"ש לפיכך אם הגיע ר"ח ניסן ויש עמהם בהמות לתמידים וכו'.** בפ"ק דשבועות (דף י' י"א) אמר עולא א"ר יוחנן תמידים שלא הוצרכו לצבור נפדין תמימים א"ל רב חסדא וכי קדושה שבהן להיכן הלכה אמר רבה לב ב"ד מתנה עליהם אם הוצרכו הוצרכו ואם לאו יהיו לדמיהם. ופירש"י תמידין שלא הוצרכו לצבור שלקחום ממעות תרומת הלשכה דתנן אין פוחתין מששה טלאים המבוקרים בלשכת הטלאים וכשמגיע ר"ח ניסן לא היו מקריבים שום קרבנות צבור ממעות התרומה של אשתקד כדאמר בפ"ק דר"ה ונמצאו בכל שנה ד' טלאים בלשכת הטלאים ממעות התרומה הישנה והיינו לא הוצרכו לצבור להקריב בשנה שעברה, נפדים תמימים להכשירם בשנה זו מחללים אותם על מעות חולין ואותם המעות ילכו למותר התרומה ישנה וכיון שיצאו לחולין חוזרים ולוקחים אותם ממעות תרומה חדשה ויקרבו בשנה זו עכ"ל:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 4:12:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:12:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:12:3)
+
+
+**ומ"ש רבינו וכך היו עושים במותר הקטרת וכו' עד סוף הפרק.** משנה פ"ד משקלים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Sheqel Dues 4:12:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:12:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Sheqel%20Dues/r/4:12:4)
+
+
+**סליקו להו הלכות שקלים בס"ד**
+

@@ -1,0 +1,270 @@
+# Tiferet Shmuel on Nedarim
+
+ תפארת שמואל על נדרים
+
+Link: [https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim)
+
+דיוני חז״ל בנושאי הלכה, מוסר ותנ"ך שהתקיימו במשך דורות. בנויים כהרחבות על המשנה ושזורים בהם סיפורי אגדה.
+
+Influential 14th-century code presenting practical legal conclusions of talmudic passages, based on the work of the Rif.
+
+Sections: Siman
+
+Location: Talmud/Bavli/Rishonim on Talmud/Rosh/Commentary/Tiferet Shmuel/Seder Nashim
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Vilna Edition (Segments: 23, License: Public Domain)
+
+
+## Siman 1
+
+###### Tiferet Shmuel on Nedarim 1
+
+[https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/1](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/1)
+
+
+**טועם** לך מותר לגמרי כו'. ולא כדברי רמב"ן שאמר מודרני ממך לבד משמע שלא ידבר עמו מופרשני ממך משמע שלא ישא ויתן עמו ומרוחקני ממך משמע שלא יעמוד בד' אמות ואמת שג"כ בגמרא מפרש כך לשונו בלא שאני אוכל לך מ"מ נ"ל כדברי הרא"ש כי בגמרא כך אומרים בלא שאני אוכל לך הוו ידים שאינן מוכיחות שיוכל לפרש כנ"ל ומאחר שאין מוכיחות הכל מותר:
+
+
+
+## Siman 2
+
+###### Tiferet Shmuel on Nedarim 2
+
+[https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/2](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/2)
+
+
+**אבל** אם אמר אני נודר זה הלשון לשון שבועה כו'. פי' ושבועה לא הוי שאמרה בלשון נדר ושבועה דאמר בלשון נדר משמע דלא הוי שבועה כמו שכתב הר"ן בריש נדרים וכן דעת ר"ת ור"י מגש והרשב"א אבל אין לפרש דמש"ה לא הוי שבועה מאחר שלא הזכיר שם וכינוי דזה אינו דהא ס"ל להמחבר דאפילו לא הזכיר שם וכינוי מ"מ הוי ידות שבועה ואסור בסוף פ' שבועות העדות ע"ש:
+
+
+
+## Siman 3
+
+###### Tiferet Shmuel on Nedarim 3
+
+[https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/3](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/3)
+
+
+**אע"ג** דלא אמר אלא בה כמ"ד במה שכתב בה דמי והא דקתני בה ובמה כו' פי' או במה כו':
+
+
+
+## Siman 4
+
+###### Tiferet Shmuel on Nedarim 4
+
+[https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/4](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/4)
+
+
+**ומסתבר** דהלכה כרב יהודה שהיה מופלג כו'. וצ"ל דבנדרים דקילי לא מיזהר אינש בתנאי אבל לענין גיטין פסק הרא"ש דכל מידי שתלוי בידו של אדם לא חיישינן שמא תעביר על תנאו עיין בריש המגרש:
+
+
+
+## Siman 5
+
+###### Tiferet Shmuel on Nedarim 5
+
+[https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/5](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/5)
+
+
+**וגם** רב נחמן שני אליביה דרב יהודה. בספרים דידן לא נמצא כן ובפי' רבינו מצאתי שגרס ר"נ אמר לך ר"י הוא הדין דליתני מהלך וכו'. ולזה כיון הרב ז"ל:
+
+
+
+## Siman 6
+
+###### Tiferet Shmuel on Nedarim 6
+
+[https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/6](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/6)
+
+
+**ושלא** אוכל דלא אכילנא משמע. ואביי תי' כאן במסרבין בו וכו' (כצ"ל) עיין בפ"ג דשבועות שם והיינו טעמא דנדרים דאיסור חפצא הוא שאוכל הוא שלא אוכל וכו' ר"ל דהרא"ש מיישב מ"ש דבנדרים אמרינן דקרבן לא אוכל לך מותר ובשבועה לא אוכל לך אסור דעלה קתני להס"ד דמקשן דבזה חומר שבועה מבנדרים ובא לתרץ טעמיה בשלמא בנדרים דקאי אחפץ א"כ מה שאמר קרבן לא אוכל לך החפץ (שלא אוכל) הוא כקרבן (אבל מה שאמר שאינו קרבן) אבל בשבועות דאסור נפשיה שלא אוכל משמע דלא עבידנא ולא אוכל וק"ל:
+
+
+
+## Siman 7
+
+###### Tiferet Shmuel on Nedarim 7
+
+[https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/7](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/7)
+
+
+**ואפי'** אם אמר ישיבת סוכה עלי כו'. דהוי בלשון נדר אפ"ה לא מהני וכן הוא להדיא בטור יורה דעה ומכאן משמע דמהני לשון שבועה כשאומרו בלשון נדר והוי מהני אם לא שנשבע לבטל המצוה ולעיל ריש פ"ק (ע"א כתבתי ריש מסכתא זו) כתב דלא מהני בלשון נדר אם אמרו בלשון שבועה שהרי כשאומר נודר אני שלא אוכל כו' כמו שפירשתי לעיל. שאני התם שמזכיר ענין שבועה בלשון נדר מגרע הלשון משא"כ כשמהפך הענין ומעלה הלשון כשמזכיר לשון שבועה ודו"ק ומ"מ אין ראיה ברורה דמהני לשון שבועה בלשון נדר דשמא הכא בלשון את"ל קאמר את"ל דמהני בשאר דוכתי הכא לא מהני דלעולם נשבע על גופו לבטל המצוה וכ"פ הר"י קארו ז"ל:
+
+
+
+## Siman 8
+
+###### Tiferet Shmuel on Nedarim 8
+
+[https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/8](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/8)
+
+
+**ירושלמי** תנינא וכו' דלא יפול ויגלגל וכו' ר"ל שלא יפול הבעל ויגלגל עליו המוכסין אח"כ כל מה שתלה בשם בעל זרוע וק"ל:
+
+
+
+## Siman 9
+
+###### Tiferet Shmuel on Nedarim 9
+
+[https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/9](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/9)
+
+
+**ופורע** לו את חובו מוקי ליה רבא וכו'. מכאן משמע דפסק דלא כחנן מדהביא תי' אליביה דרבנן גם משמע דלחנן א"צ לפרוע אף בשאר חובות ועי' בזה בטור וב"י בסי' קכ"ח:
+
+
+
+## Siman 10
+
+###### Tiferet Shmuel on Nedarim 10
+
+[https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/10](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/10)
+
+
+**והך** דבפרק אע"פ מיירי בב"ח וקדושת דמים וכו'. עיין בתוס' דר"ל דאיירי וכו' והוי כקדושת דמים והר"ן דחה דברים אלו ע"ש ותמצא נחת:
+
+
+
+## Siman 11
+
+###### Tiferet Shmuel on Nedarim 11
+
+[https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/11](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/11)
+
+
+**דשכירות** קרקע נקנית בכסף ובשטר ובחזקה וכו'. ור"ל מיד כשהחזיק קנה כל משך זמן שכירות אפילו בלא מעות וק"ל:
+
+
+
+## Siman 12
+
+###### Tiferet Shmuel on Nedarim 12
+
+[https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/12](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/12)
+
+
+**ירושלמי** ביתך זה משום מה אתה תופסו וכו'. נראה דרבינו מפרש דתרתי מבעיא ליה חדא דאם אמר זה אי שרי במכרו ונתנו והדר בעי אי אמר קונם ביתך או בית זה אי נפל ובני אי שרי ליכנס או לאו ופשיט בעיא שניה דיש חילוק בין בית סתם לזה ובעיא ראשונה לא אפשיטא ולחומרא דמספקא לן אי תפיס לשון ראשון וכו' וכמ"ש פ' השואל וכ"פ הטי"ד סי' רט"ז שוב מצאתי להב"י שם שכתב ג"כ כמ"ש ושמחתי והר"ן לא כ"ב וע"ש ודבריו צ"ע ליישב:
+
+
+
+## Siman 13
+
+###### Tiferet Shmuel on Nedarim 13
+
+[https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/13](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/13)
+
+
+**תניא** רשב"א אומר דג כו'. בגמ' גרס דג שאני טועם אסור בגדולה ומותר בקטנה דגה שאני טועם אסור בקטנה ומותר בגדולה דג דגה וכו' וע' בדברי רבינו בפי' הגמ' שם:
+
+
+
+## Siman 14
+
+###### Tiferet Shmuel on Nedarim 14
+
+[https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/14](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/14)
+
+
+**דאנא** אכיל ליה פחות מלטרא גבי דדנא וכו'. בירושלמי שלנו גרס פחות מליטרא כילכית מטעים ליה ור"ל כשהיה שואל דגים קטנים פחות מליטרא אזי הוא נותן לו כילכית משמע שכילכת נקרא דג קטן והוא טהור ומכאן קשה על אותן המפרשים דס"ל דכילכת הוא דג טמא והוא טהור עיין י"ד וצ"ע:
+
+
+
+## Siman 15
+
+###### Tiferet Shmuel on Nedarim 15
+
+[https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/15](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/15)
+
+
+**ומסתבר** ליה טעמיה דרב יוסף. ומדברי ר"ן נ"ל דקי"ל בהא כרבא מדכתב דבעיין דרבא לא איפשיטא וכו' וטעמו נראה דגם ר"י לא מצינו שחלק עליו לאחר ששמע שרבא ס"ל דכל מילי משמע וק"ל:
+
+
+
+## Siman 16
+
+###### Tiferet Shmuel on Nedarim 16
+
+[https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/16](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/16)
+
+
+**אית** תנויי תני אפילו על קדמיתא נשאל וכו'. כצ"ל ר"ל אפי' הנייתי על בני עיר ולא הוי הזקן כמיפר נדרי עצמו וק"ל:
+
+
+
+## Siman 17
+
+###### Tiferet Shmuel on Nedarim 17
+
+[https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/17](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/17)
+
+
+**מ"ט** ברישא א"ל לא כלבא וכו'. משמע דס"ל דאף למסקנא דקי"ל כראב"י קאי אלו התירוצים וכך הכריע הר"ן בשם הרמב"ן:
+
+
+
+## Siman 18
+
+###### Tiferet Shmuel on Nedarim 18
+
+[https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/18](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/18)
+
+
+**ובירושלמי** נמי איכא וכו'. אינו כך בירושלמי אלא דפליגי ביה ר"י ור"ל חד אמר מפני החשד וח"א מפני הבושה והכא בכדי כתב הרא"ש הני טעמי שהרי לא דייק מינייהו מידי וכדומה שטעות הוא ובפרק השולח (גיטין ל"ה ע"ב) כתב הרא"ש ועי' מה שהגהתי:
+
+
+
+## Siman 19
+
+###### Tiferet Shmuel on Nedarim 19
+
+[https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/19](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/19)
+
+
+**וגרשה** ולא אפשיטא ואזלינן לחומרא. והר"ן בשם הרשב"א כתב דמהא דשמואל דלעיל אפשיטא דגרושין כשתיקה דמי ע"ש:
+
+
+
+## Siman 20
+
+###### Tiferet Shmuel on Nedarim 20
+
+[https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/20](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/20)
+
+
+**בעי** רמי בר חמא בעל וכו' ולא אפשיטא וכו'. וצ"ע קצת כיון דדרך רבינו לפסוק כאת"ל ובבעיא שניה אמרינן את"ל בעל מיפר בלא שמיעה וכו' וכ"כ להדיא הר"ן בשם הרמב"ן:
+
+
+
+## Siman 21
+
+###### Tiferet Shmuel on Nedarim 21
+
+[https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/21](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/21)
+
+
+**אינה** סופגת את הארבעים אלא תספוג מכת מרדות. אע"פ שהוא דעת ר"י שם סבירא ליה לסברתו דאף ת"ק ס"ל כן ור"י לפרושי ת"ק אתי ועי' כ"מ פי"ז מהלכות נדרים:
+
+
+
+## Siman 22
+
+###### Tiferet Shmuel on Nedarim 22
+
+[https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/22](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/22)
+
+
+**שלא** אכחול כו' ושלא ארחץ וכו' א"צ להפר. דלא חל נדרה עתה אבל מ"מ יפר ועצה טובה הוא לו שמא יגרשנה ותהא אסורה לחזור לו כמו בקונם שאני עושה לפיך קי"ל כר"י בן נורי וקי"ל כנ"ל ובט"ז כתב ע"ז דברים שלא נ"ל ודו"ק:
+
+
+
+## Siman 23
+
+###### Tiferet Shmuel on Nedarim 23
+
+[https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/23](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim/r/23)
+
+
+**והלכה** כעולא וכר"נ וכו'. וכ"כ הרמב"ם ז"ל משום עינוי נפש וכו'. נראה דהיינו דוקא לר"י דמתניתין דכוליה פרקין ר"י הוא אבל לרבנן דקי"ל כוותייהו מפר אף משום עינוי נפש וכמ"ש הר"ן גם הרא"ש כ"כ בפי' בגמרא דף פ"ג ע"ב וכמ"ש לעיל דקי"ל כשמואל וכ"כ הטור וב"י בסי' רל"ז ודלא כהבנת הטור בהרא"ש ודו"ק: סליק תפארת שמואל
+

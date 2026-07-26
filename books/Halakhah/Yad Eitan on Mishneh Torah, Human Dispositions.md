@@ -1,0 +1,117 @@
+# Yad Eitan on Mishneh Torah, Human Dispositions
+
+יד איתן על משנה תורה, הלכות דעות
+
+Link: [https://torahapp.org/share/book/Yad%20Eitan%20on%20Mishneh%20Torah%2C%20Human%20Dispositions](https://torahapp.org/share/book/Yad%20Eitan%20on%20Mishneh%20Torah%2C%20Human%20Dispositions)
+
+חיבור הלכתי פורץ-דרך וחדשני מבחינת היקפו ואופן סידור הדינים שבו. נכתב על ידי הרמב"ם במאה ה-12.
+
+Legal code written by Maimonides in the 12th century, groundbreaking in its organization and scope.
+
+Sections: Chapter-Halakhah-Comment
+
+Location: Halakhah/Mishneh Torah/Commentary/Yad Eitan/Sefer Madda
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Friedberg Edition (Segments: 8, License: Public Domain)
+
+
+## Chapter 5
+
+
+### Halakhah 12
+
+###### Yad Eitan on Mishneh Torah, Human Dispositions 5:12:1
+
+[https://torahapp.org/share/book/Yad%20Eitan%20on%20Mishneh%20Torah%2C%20Human%20Dispositions/r/5:12:1](https://torahapp.org/share/book/Yad%20Eitan%20on%20Mishneh%20Torah%2C%20Human%20Dispositions/r/5:12:1)
+
+
+**בכ"מ** ד"ה ואסור כו'. ומ"ש לא ימכור שדה ויקנה בית כו'. עיין פי"א מה' שמיטה:
+
+
+
+### Halakhah 13
+
+###### Yad Eitan on Mishneh Torah, Human Dispositions 5:13:1
+
+[https://torahapp.org/share/book/Yad%20Eitan%20on%20Mishneh%20Torah%2C%20Human%20Dispositions/r/5:13:1](https://torahapp.org/share/book/Yad%20Eitan%20on%20Mishneh%20Torah%2C%20Human%20Dispositions/r/5:13:1)
+
+
+**ואינו נעשה לא ערב ולא קבלן.** עיין יבמות (דף ק"ט):
+
+
+
+## Chapter 6
+
+
+### Halakhah 7
+
+###### Yad Eitan on Mishneh Torah, Human Dispositions 6:7:1
+
+[https://torahapp.org/share/book/Yad%20Eitan%20on%20Mishneh%20Torah%2C%20Human%20Dispositions/r/6:7:1](https://torahapp.org/share/book/Yad%20Eitan%20on%20Mishneh%20Torah%2C%20Human%20Dispositions/r/6:7:1)
+
+
+**או שהלך בדרך לא טובה מצוה להחזירו.** ברכות (דף ל"א ע"ב):
+**בהגמ"יי** סי' ה', בסוף הדבור: ע"כ במדרש. וכן אי' בזוהר פ' נח (דף ס"ח):
+
+
+
+### Halakhah 8
+
+###### Yad Eitan on Mishneh Torah, Human Dispositions 6:8:1
+
+[https://torahapp.org/share/book/Yad%20Eitan%20on%20Mishneh%20Torah%2C%20Human%20Dispositions/r/6:8:1](https://torahapp.org/share/book/Yad%20Eitan%20on%20Mishneh%20Torah%2C%20Human%20Dispositions/r/6:8:1)
+
+
+**שלא לבייש חבירו ברבים כו' בד"א בדברים שבין אדם לחבירו כו'.** עיין במהרש"א בערכין שכתב דכ"מ בת"כ:
+
+
+
+### Halakhah 10
+
+###### Yad Eitan on Mishneh Torah, Human Dispositions 6:10:1
+
+[https://torahapp.org/share/book/Yad%20Eitan%20on%20Mishneh%20Torah%2C%20Human%20Dispositions/r/6:10:1](https://torahapp.org/share/book/Yad%20Eitan%20on%20Mishneh%20Torah%2C%20Human%20Dispositions/r/6:10:1)
+
+
+**ויחוס על ממונם יותר מממון עצמו.** לא הראו מקורו. והוא בברכות (י"ח סע"ב):
+
+
+
+## Chapter 7
+
+
+### Halakhah 2
+
+###### Yad Eitan on Mishneh Torah, Human Dispositions 7:2:1
+
+[https://torahapp.org/share/book/Yad%20Eitan%20on%20Mishneh%20Torah%2C%20Human%20Dispositions/r/7:2:1](https://torahapp.org/share/book/Yad%20Eitan%20on%20Mishneh%20Torah%2C%20Human%20Dispositions/r/7:2:1)
+
+
+**אבל האומר שקר נקרא מוציא ש"ר על חבירו.** פי' והוא חמור והוא ג"כ בכלל לאו דלא תלך רכיל. וכ"כ רבינו בפירוש ברפ"ג דהל' נערה דאזהרה של מוציא ש"ר הוא מלא תלך רכיל וע"ש בכס"מ. ומ"ש בהגהות בשם סמ"ג אזהרה למקבל לה"ר מקרא דכתיב לא תשא שמע שוא הוא מפרק ע"פ (קי"ח). ודע דגם רבינו כתבו בה' סנהדרין פכ"א הלכה ז' דבכלל לאו דלא תשא אזהרה למקבל לה"ר ומספר לה"ר ומעיד עדות שקר וכל הני איתא בפ' ע"פ. וצ"ל דסמך כאן על מ"ש שם בענין לאו דלא תשא דעיקרו אזהרה לדיין הוא שלא ישמע דברי אחד מבעלי דין בלא חבירו אלא שנכללין בו ג"כ אזהרה למקבל ומספר לה"ר ומעיד עדות שקר ואע"פ שיש בהן בלאו הכי אזהרות כמ"ש כאן ובהלכות עדות כתב נמי להך להגדיל האיסור. ובאגדה דפ' ע"פ דרשו מזה ג"כ עונש דראוי להשליכו לכלבים דכתיב לכלב תשליכון אותו וכתיב בתריה לא תשא וגו':
+
+
+
+### Halakhah 3
+
+###### Yad Eitan on Mishneh Torah, Human Dispositions 7:3:1
+
+[https://torahapp.org/share/book/Yad%20Eitan%20on%20Mishneh%20Torah%2C%20Human%20Dispositions/r/7:3:1](https://torahapp.org/share/book/Yad%20Eitan%20on%20Mishneh%20Torah%2C%20Human%20Dispositions/r/7:3:1)
+
+
+**ג' עבירות נפרעין מן האדם בעוה"ז ואין לו חלק לעוה"ב ע"ג ג"ע וש"ד ולה"ר כנגד כולם.** לקמן בה' תשובה פ"ג הל' ה' כתב הכס"מ דצ"ע היכא מייתי להו, ונעלם ממנו דברי רבינו עצמו שכתב בפי' המשנה פ"א דאבות דאיתא בתוספתא על ג' דברים נפרעים מן האדם בעוה"ז ואין לו חלק לעוה"ב וכו'. ונראה שנתכוון להתוספתא דפאה. ואע"ג דגירסתנו שם שהקרן קיימת לו לעוה"ב מיהו גירסת רבינו היתה ואין לו חלק לעוה"ב וכן הגירסא בסמ"ג, גם איתא בהדיא במס' דרך ארץ רבה ובאגדת בראשית פ"ג המספר לה"ר אין לו חלק לעוה"ב, ועוד גרסינן בברכות (ס"א) ועירובין (י"ח ב') כל העובר אחורי אשה בנהר אין לו חלק לעוה"ב והיינו כשבא עי"ז לידי ניאוף כמ"ש התוס' שם, ובפ"ק דברכות (י') דאמר לו נביא לחזקיה שלא יחיה לעוה"ב משום דלא עסק בפ"ו. והיינו משום דאיתא ביבמות (ס"ד) דמי שאינו עוסק בפ"ו כאלו שופך דמים וא"כ אם מי שאינו עוסק בפ"ו אין לו חלק לעוה"ב כ"ש לש"ד שאין לו חלק לעוה"ב, ומכל זה מוכח כגירסת רבינו והסמ"ג בתוספתא דפאה. וא"ת דבב"מ (נ"ט) איתא דהבא על א"א מיתתו בחנק ויש לו חלק לעוה"ב, י"ל דכבר כתב מהרש"א דהתם כשנחנק וקבל דינו, וכה"ג כתבו התוס' בסנהדרין (מ"ז) גבי עיר הנדחת דאין להם חלק לעוה"ב אי לא איקטול אבל אם דנו אותם והרגום יש להם חלק. והטעם מבואר מדברי התוס' פ"ק דסוטה (ד' ע"ב) ע"ש דתשובה עם יסורין מכפרין על מיתות ב"ד, וכשנהרג הוי כיסורין וגם כל המומתין מתודין והוי כתשובה, וע"ש דמשמע דבלא תשובה ויסורין הבא על א"א נטרד ואין לו חלק לעוה"ב, ואף הבא באקראי בעלמא. ובמרכבת המשנה ח"ב השיג על המהרש"א ונעלם ממנו התוס' דסוטה. וכן נעלמו ממנו דברי הסמ"ג ופי' המשנה לרבינו הנ"ל:
+**בהגמ"יי** סי' ג'. בירושלמי, מותר לומר לשון הרע על בעלי המחלוקת כו'. הוא בירושלמי דפאה הובא בסמ"ג. ומה שהשמיטו רבינו נראה דס"ל דלא קיי"ל כן דיש להוכיח מתלמודא דידן דלא ס"ל הכי מהא דאמר רבא במ"ק (ט"ז) מנלן דאי מתפקר בעל דין בשלוחא דבי דינא ואתי ואמר לא מתחזי כלישנא בישא דכתיב העיני האנשים ההם תנקר לא נעלה, ופירש"י ואי לאו דשליח אמר ליה למשה משה לא הוה ידע. והשתא לפ"ד הירושלמי אכתי מנלן דשליח ב"ד בעלמא רשאי לומר לב"ד דילמא גבי משה שאני דהיה רשאי שלוחו לומר מה שחרפו דתן ואבירם למשה משום דהוו בעלי מחלוקת עם משה, ומדיליף מיניה היתר לשליח ב"ד ע"כ ש"מ דאי לאו שליח ב"ד אסור לומר לה"ר על בעלי המחלוקת:
+
+
+
+### Halakhah 4
+
+###### Yad Eitan on Mishneh Torah, Human Dispositions 7:4:1
+
+[https://torahapp.org/share/book/Yad%20Eitan%20on%20Mishneh%20Torah%2C%20Human%20Dispositions/r/7:4:1](https://torahapp.org/share/book/Yad%20Eitan%20on%20Mishneh%20Torah%2C%20Human%20Dispositions/r/7:4:1)
+
+
+**כל המספר בטובת חבירו בפני שונאיו ה"ז אבק לה"ר.** בגמרא איתא סתם, ונראה דטעמו של רבינו שהוסיף בפני שונאיו מאי דליתא בגמ' משום שהיה קשה לו הא אמרי' פ"ב דעירובין דאומרים כל שבחו של אדם שלא בפניו. ע"כ כתב דבפני שונאיו דוקא אסור:
+**בכ"מ** ד"ה ויש כו'. ומ"ש אחד המספר לה"ר בפני חבירו כו'. בפ"ג דערכין (ט"ו) אמר רבא כל מילתא דמתאמרא באפי מרא כו' ויש לתמוה על רבינו למה כתב דלא כרבא ע"כ. עיין בפר"ח ובס' דברי שמואל שתירצו ע"פ מ"ש תוס' שם. ויש להב"ר מהא דמ"ק (י"ד) דיליף דשליח ב"ד אין בו משום לישנא בישא ולא דחי דדילמא הוה מתאמרא באפי מרא אלא ש"מ דבבזיון לא מהני זה:
+

@@ -1,0 +1,3270 @@
+# Rashash on Nazir
+
+רש"ש על נזיר
+
+Link: [https://torahapp.org/share/book/Rashash%20on%20Nazir](https://torahapp.org/share/book/Rashash%20on%20Nazir)
+
+דיוני חז״ל בנושאי הלכה, מוסר ותנ"ך שהתקיימו במשך דורות. בנויים כהרחבות על המשנה ושזורים בהם סיפורי אגדה.
+
+19th-century annotations based on classes that the author, Rabbi Shmuel Strashun, delivered in a synagogue in Lithuania.
+
+Sections: Daf-Comment
+
+Location: Talmud/Bavli/Acharonim on Talmud/Rashash/Seder Nashim
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Vilna Edition (Segments: 362, License: Public Domain)
+
+
+## Daf 2a
+
+###### Rashash on Nazir 2a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/2a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/2a:1)
+
+
+**תד"ה נזיר. אבל מהני לישני כו' חייל עליה נזירות נמי כי אין מתכוון כו'.**כ"מ מהא דמוקי בגמרא באומר אהא דקאמר בלבו. מכלל דבשאר לישני דמתני' לא בעינן בלבו. ועי' לקמן (ג ב) תד"ה כגון:
+
+
+###### Rashash on Nazir 2a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/2a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/2a:2)
+
+
+**תד"ה האומר הריני. הא האומר הריני כו' לא מהני.**ודעת הר"ן בנדרים (ט) דהריני לחוד ג"כ מהני. ותימה א"כ ל"ל כזה. ונ"ל דלפמש"כ התוס' לקמן בסמוך דבבא זו אינה לפרש ידות אלא דהן הוו עיקר נזירות א"ש דבזולת כזה לא הוה אלא יד. ונ"מ בין עיקר ליד נלע"ד דכמו דכנויי כנויין לב"ה מותרין (נדרים י' ב) ה"נ יד ליד מותר כגון שהיה נזיר שלא נהיה רק ע"י יד עובר לפניו ואמר אהא או הריני לא"כ אבל אמר הריני כזה ה"ז נזיר. ובפשוט י"ל דבלא כזה בעינן דקאמר בלבו כמו באהא ובכזה ל"ב:
+
+
+
+## Daf 2b
+
+###### Rashash on Nazir 2b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/2b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/2b:1)
+
+
+**רש"י**(בסה"ע). בתמיה ומי אמר כו'. כצ"ל:
+
+
+###### Rashash on Nazir 2b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/2b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/2b:2)
+
+
+**תוס' ד"ה לימא. ולישנא דאהא משמע דאהא לאלתר.**כצ"ל ותיבת נזיר למחוק:
+
+
+###### Rashash on Nazir 2b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/2b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/2b:3)
+
+
+**תד"ה ודלמא אהא כו'. כדתניא כו'.**כצ"ל כדאיתא בגמרא:
+
+
+###### Rashash on Nazir 2b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/2b:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/2b:4)
+
+
+**בא"ד כלומר אהא נאה במצוה התלויה כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 2b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/2b:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/2b:5)
+
+
+**תד"ה ואמאי נאה.**ט"ס וצ"ל ואמר אינאה:
+
+
+###### Rashash on Nazir 2b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/2b:6](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/2b:6)
+
+
+**בסה"ד ותוהה על הראשונות.**נראה דר"ל וא"כ הוה כמו דלא נדר בנזיר (וכדאמר שה"צ ומביאין חולין לעזרה) ונמצא שציער עצמו מן היין בלא נזירות ואין כאן מצוה שתבטל חטא הצער. ולשון הגמרא דלמא אתי למעבר על נזירותיה הוא ענין חרטה להעביר הנזירות ממנו וכ"מ במפרש ודוחק. וביותר הלשון דלקמן (יט) הואיל ושנה בחטא ועיין תוס' ב"ק (צא ב) ד"ה אלא שציער:
+
+
+
+## Daf 3a
+
+###### Rashash on Nazir 3a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/3a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/3a:1)
+
+
+**גמרא ואב"א האי שולח כו' כדמתרגם ר"י כו'.**מבואר דהתרגום הוא על קרא דושולח כו'. והתוי"ט ל"ד בהעתיקו על קרא דשלחיך כו':
+
+
+###### Rashash on Nazir 3a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/3a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/3a:2)
+
+
+**רש"י ד"ה כדתנן. שחייב משום לא תוציא[ו] .**זה הלשון לא נמצא בתורה אצל שבת. ואולי צ"ל אל יצא עי' סוף פ"ק דעירובין ובתוס' שם:
+
+
+###### Rashash on Nazir 3a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/3a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/3a:3)
+
+
+**רד"ה תנא פרע. אף פרע האמור גבי נזיר גידול שיער.**נראה דרצה לומר דל"ת דפרע הוא שם לשיער בעלמא אף דאינו בר שלשים יום. והנך רואה כמה נתלבטו המפרש והתוס' בכאן. ואולי יל"פ דהכי קאמר מה התם כתיב אצל פרע גדל אף שלוח דכתיב כאן אצלו הוא גם כן לשון גידול:
+
+
+###### Rashash on Nazir 3a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/3a:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/3a:4)
+
+
+**תד"ה תנא. דמקרא דכהן הדיוט לא משמע דלא ישלחו לא הוי כו'.**כ"נ דצ"ל:
+
+
+###### Rashash on Nazir 3a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/3a:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/3a:5)
+
+
+**בא"ד אבל כי גמרינן כהן הדיוט מנזיר דשילוח הוי מן שלשים בג"ש.**כ"נ דצ"ל:
+
+
+
+## Daf 3b
+
+###### Rashash on Nazir 3b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/3b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/3b:1)
+
+
+**רש"י ד"ה ודלמא. לטבול החיה בדם השחוטה ולשלחה ולעשותן כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 3b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/3b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/3b:2)
+
+
+**רד"ה מאי טעמא. דקא מתפיס ימינו לוישבע כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 3b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/3b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/3b:3)
+
+
+**רד"ה לא. ימין שאוכל ככר זה כו'.**ל"י למה שינה כאן לפרש שאוכל מדלעיל שפי' שלא אוכל:
+
+
+###### Rashash on Nazir 3b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/3b:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/3b:4)
+
+
+**תד"ה צפורי. דא"א דליכא חד מצורע כו' ולא נזירות כו'.**ר"ל ולהכי לא פריך דלמא ליפטור נזיר טמא מקרבנותיו קאמר:
+
+
+###### Rashash on Nazir 3b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/3b:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/3b:5)
+
+
+**תד"ה כגון. אין סברא שיקבל עליו צפורין דנזיר זה אם יטמא.**כצ"ל:
+
+
+###### Rashash on Nazir 3b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/3b:6](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/3b:6)
+
+
+**תד"ה מאי בינייהו. וא"ת ולישני דא"ב היכא דצפרים סתמא קיבל עליה כו'.**כצ"ל:
+
+
+
+## Daf 4a
+
+###### Rashash on Nazir 4a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/4a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/4a:1)
+
+
+**גמרא מושבע ועומד עליו מה"ס.**ר"ת פירשו בלשון תמיה. וק"ל מדוע לא אוקמיה ביין של מע"ש בירושלים וכן איתא בספרי ריהג"א לפי שהוא אומר ואכלת לפני ה' כו' ת"ל מיין ושכר יזיר. וכן תרומה משמע ביומא (עד ב) דמצוה מה"ת לאכלה דאמר שם ולא אביא אה"ת שהיא בקום אכול. ועי' ג"כ פסחים (סד ב) וי"ל:
+
+
+###### Rashash on Nazir 4a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/4a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/4a:2)
+
+
+**תד"ה מיין ושכר. דהא כבר כתיב מכל אשר יעשה כו'.**התוי"ט העתיק האי קרא בשיבוש ע"ש:
+
+
+###### Rashash on Nazir 4a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/4a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/4a:3)
+
+
+**תד"ה לאלופי. אלא איין ולאפוקי כו'.**כצ"ל ומלת ושכר נראה למחוק:
+
+
+
+## Daf 4b
+
+###### Rashash on Nazir 4b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/4b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/4b:1)
+
+
+**גמרא ושאני גבי בכור דכתיב ביה לה'.**המפרש ותוס' ומהריב"ל שהביא הכ"מ בפ"ג מהל' נזירות הי"ג כולם פי' דהכוונה על לה' דכתיב גבי נדר בר"פ מטות כי ידור נדר לה'. ול"י מה ה"ל להתוי"ט שפי' הכוונה על לה' דכתיב גבי בכור תקדיש לה'. ולשון דכתיב ביה אולי אטעיתיה אבל אין זה הכרע. וגם מהמפרש משמע דל"ג מלת בי'. ובתוס' משמע דגרסי ושאני הכא דכתיב לה'. ואולי משום קושיית הברכת ראש דהאי לה' דבפ' מטות מבע"ל להא דנדרים חלים ע"ד מצוה (נדרים טז ב) או משום דק"ל הא מקשינן נזירות לנדרים (שם ג) אבל זה ל"ק משום דגבי נדרים נמי לא מרבינן אלא בכור דהוי נדור קצת כדמסיק. וק"ק לפ"ז למה ל"ל משום דכתיב ביה לה' לימא שאני בכור דמצוה להקדישו. וי"ל. אמנם לפי' התוי"ט קשה דמאי יענה לר' יוסי דדריש ליה לחטאת ואשם. ואולי יאמר משום דכתיב לה' לחטאת ויקרא (ד ג) לחטאת לה' (במדבר כח טו) וגבי אשם נמי כתיב אשמו לה' (ויקרא ה טו) ושם (יט כא) ודוחק. ופי' הב"ר דהכוונה על לה' דכתיב גבי כי תדור נדר בפ' תצא לא מחוור דפשטיה מיירי בנדרי קרבן דלא שייך בהו התפסה בבכור. ולעד"נ דר"ל לה' דכתיב בפ' נזיר לנדור נדר נזיר להזיר לה'. דלה' שב נמי על לנדור נדר וכמו דפריך בנדרים (טז ב) שבועה נמי הא כתיב או השבע שבועה לה' ע"ש:
+
+
+###### Rashash on Nazir 4b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/4b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/4b:2)
+
+
+**שם גבי נזיר נמי הכתיב לה'.**נ"פ דהקושיא איננה רק לר"ש מאחר דמוקי דרי"ע ור' יוסי תרוייהו ס"ל דבעינן דבר הנדור ואפ"ה מרבינן מן לה' דבר שאינו נדור לגמרי. גבי נזיר נמי ה"ל לרבויי מן לה' נזירות שמשון. אבל לרי"ע ור' יוסי גופייהו ליכא למיפרך מידי דדלמא באמת ס"ל כן וכרי"ה וסתמא דמתניתין. ומיושב פסק הרמב"ם והוא ע"ד תירוץ מהריב"ל (עתוי"ט). והתו"ח ל"ד במה שהקשה עליו הא רי"ע ור' יוסי ס"ל כשמעון הצדיק. וגם מהריב"ל גופיה (כפי מה שהביא הכ"מ בשמו) ל"ד במש"כ דהאי שנויא היינו לר' יוסי וא"נ כו' ולרי"ע ע"ש. גם מש"כ התו"ח ולמה נפסוק כיחידאי נגד המרובים. אינו כלום דכיון דסתם מתניתין כהיחיד יש לפסוק כן וכמש"כ מהריב"ל בעצמו. ועי' רשב"ם בב"ב (דף עט). ומש"כ עוד דבנדרים מוקמינן מתניתין דשם כר"י ולא כר"ש דס"ל כשה"צ. ע"ש בגמרא דלאוקימתא קמייתא מוקי לה דוקא כשה"צ:
+
+
+###### Rashash on Nazir 4b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/4b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/4b:3)
+
+
+**רש"י ד"ה רי"ע אוסר. כגון חטאת כו'.**בגליון מגיה עולה. והוא לל"צ דחטאת מיקרי ג"כ דבר הנדור לכ"ע לר' יוסי מרבויא דלה' וכדמסיק. ולרי"ע דמפיק ליה לבכור ע"כ ס"ל דחטאת ל"צ לרבויי:
+
+
+###### Rashash on Nazir 4b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/4b:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/4b:4)
+
+
+**רד"ה גבי נזיר נמי. הא כתיב ביה לה' להזיר לה'.**כצ"ל:
+
+
+###### Rashash on Nazir 4b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/4b:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/4b:5)
+
+
+**רד"ה לשאוב מים מן הגיע. גרסי'.**אולי צ"ל מן הגבא. או מן הגומא. או מן העין:
+
+
+###### Rashash on Nazir 4b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/4b:6](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/4b:6)
+
+
+**תד"ה שמשון. שהמלאך היה אומר לאביו.**אולי צ"ל על אביו כי לא אמר המלאך כי נזיר אלהים כו' אלא להאשה:
+
+
+###### Rashash on Nazir 4b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/4b:7](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/4b:7)
+
+
+**תד"ה גרויי. כלומר מרחוק זרק כו'.**פי' הלחי ולא כהתוי"ט שכ' ע"י חצים דהא כתיב בלחי החמור הכיתי כו':
+
+
+
+## Daf 5a
+
+###### Rashash on Nazir 5a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/5a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/5a:1)
+
+
+**תד"ה תלכנה. ומשני כו' דלמא ד' ירחין בחד זימנא ותרין כו'**(כגי' הגמרא). כצ"ל:
+
+
+###### Rashash on Nazir 5a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/5a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/5a:2)
+
+
+**תד"ה הני**(בסופו). בתחלת שנת מ' לשאלה ול"ד מקץ כו'. גם הראב"ע בפ' ראה פי' מקץ שבע שנים תעשה שמטה בתחלת השנה ע"ש:
+
+
+###### Rashash on Nazir 5a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/5a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/5a:3)
+
+
+**גמרא כנגד נזיר כו' ל' חסר א'.**עיין במפרש ותוס' שכ' דנזר אלהיו ע"ר לא קחשיב דהוא לשון כתר. ובירושלמי איתא אחד לחידושו יצא. פי' לגופו איצטריך והוא כמו דאיתא בגמרתינו בכ"ד דאין דורשין תחלות. ודע דבמפרש נשמטו עוד ג' לשני דנזירות עי' במקרא ותמלאם:
+
+
+
+## Daf 5b
+
+###### Rashash on Nazir 5b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/5b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/5b:1)
+
+
+**תד"ה תנן סתם כו'**(בסופו). אלא ביום ל' דהוי ליה כפרה כו'. כצ"ל. ר"ל הואיל דקרבנותיו באין ג"כ לכפר על שציער כו' (עי' לעיל (ב ב) תד"ה ואמר אינאה) לכן מהראוי דתיכף אחר הבאתם יהיה מותר לשתות יין. ואם יביאם בכ"ט והוא ע"כ יאסר ביין עד הערב ישאר בלא כפרה על אותו מקצת יום שאחר קרבנותיו ועי' א"מ:
+
+
+###### Rashash on Nazir 5b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/5b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/5b:2)
+
+
+**תד"ה אמר. י"ל דמשום דשני לקמן לר"מ כאומר שלמים.**משמע דכן גירסתם בגמרא כאומר בכ"ף. וכצ"ל לקמן בדבריהם ד"ה תנן:
+
+
+###### Rashash on Nazir 5b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/5b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/5b:3)
+
+
+**רש"י ד"ה והא תנן. איכא דגרסי לה בל"א כו'**עד סה"ד. ומשמע דבאומר שלמין דקאמר הוא ל"ד אלא דר"ל דאמר שלשים (ועי' בתוס') ודינו דאפי' בדיעבד אם גלח ביום ל' ל"י וזה אשמעינן בסיפא דסיפא דהיא פירושא דרישא. וסיפא דקתני ואם גלח ליום ל' יצא מיירי בנזירות סתמא ואפי' לכתחלה נמי וכדמשמע מהא דקאמר אליביה לעיל איידי דאיכא יום תלתין דמגלח. אבל קשה בבא שניה דואם גלח את הראשונה ליום ל' כו' דע"כ מיירי ג"כ בנזירות סתמא. א"כ למה לא יגלח השניה לכתחלה ביום נ"ט. וי"ל דזהו משום לתא דיום ל' כיון שנהג בתחלתו נזירות לשם הראשונה אמרו דלא יעלה לכתחלה גם לשניה וכ"מ מהא דמסיים שם שיום ל' עולה לו מן המנין דפשטיה קאי על הא דאם גלח ביום ס' חסר א' יצא:
+
+
+
+## Daf 6a
+
+###### Rashash on Nazir 6a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/6a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/6a:1)
+
+
+**רש"י ד"ה א"ל ב"פ.**עי' הגהות הב"ר בדבור זה. ול"נ להוסיף עוד הגהה א' דבמקום אלמא צ"ל אלא:
+
+
+
+## Daf 6b
+
+###### Rashash on Nazir 6b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/6b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/6b:1)
+
+
+**גמרא א"ה ליסתור כולהו אר"ל כו' זאת תורת הנזיר כו'.**קשה מדוע לא מתרץ בדרשה דברייתא דלקמן (יט ב) אליבא דר"א והימים הראשונים יפלו מכלל דאיכא אחרונים. הביאו התוס' בד"ה קסבר ר"א. וי"ל דרצה לתת טעם ג"כ להא דסותר שלשים ע"ש בתד"ה ה"ג נטמא:
+
+
+###### Rashash on Nazir 6b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/6b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/6b:2)
+
+
+**שם ריו"נ אומר א"צ כו'.**בס"י הגי' רבי אומר עי' א"מ וב"ר והגהת הב"ח. ול"נ דא"א לגרוס רבי דא"כ איך ס"ד דב"פ כוותיה ולא עד בכלל כמש"כ התוס' והא מצינו לו בערכין (יח) דס"ל עו"ע בכלל:
+
+
+
+## Daf 7a
+
+###### Rashash on Nazir 7a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/7a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/7a:1)
+
+
+**במשנה הריני נזיר אחת גדולה כו'.**מהמפרש משמע דגריס אחת קטנה ברישא ונכון דשייך שפיר טפי סמיכת אפי' מכאן ועד סה"ע לאחת גדולה:
+
+
+###### Rashash on Nazir 7a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/7a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/7a:2)
+
+
+**תד"ה ואמאי. פי' ולהוי נזיר לעולם.**והתוי"ט הוסיף כמו במשנה דלקמן. משמע דר"ל כמו במשנה הסמוכה כעפר הארץ כו'. ול"ד דהכא אם תאמר דכוונתו ממש עד סה"ע ה"ל להיות נזיר נזירות אחת עד עולם ולא כהתם דהוה נזיר עולם בנזירות חלוקות:
+
+
+
+## Daf 8a
+
+###### Rashash on Nazir 8a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/8a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/8a:1)
+
+
+**גמרא אמאי לא כו' ותיהוי ליה תקנתא.**לכאורה מאי פריך. התם אמרינן דמוקמינן ליה אחזקה שלא היה נזיר אבל הכא כיון דנזירות א' ממ"נ קבל עליו אמרינן דלא נוציאנו מחזקת נזירות לעולם. וי"ל הואיל דנזירות חלוקות הן הוי כמו מאיסור לאיסור דלא מחזיקינן עי' ביצה (כה א) תד"ה בחזקת ויבמות (ל ב) ד"ה אשה. משא"כ לרבי דספק חדא נזירות אריכא הוא שייך לאוקמיה אחזקה שפיר:
+
+
+###### Rashash on Nazir 8a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/8a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/8a:2)
+
+
+**רש"י**(ברה"ע). לפי ששערות ראשו מרובין משני חייו. ה"נ להגיה מחדשי חייו. כי כל שער מחייבו סתם נזירות:
+
+
+###### Rashash on Nazir 8a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/8a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/8a:3)
+
+
+**רד"ה הריני נזיר כו' ר"ש אוסר כו'. שכל ספק נזירות להחמיר דספיקו בנזיר חמור מודאי.**דלשון להחמיר משמע ליה דנותנין עליו חומרי שניהם. דאם יבוא לשתות יין כו' אומרים לו שמא נזיר אתה. ולאחר ל' כשבא לגלח ולהביא קרבן אומרים לו אינך נזיר ואי אתה רשאי להביא חולין לעזרה ועי' תד"ה שיהא:
+
+
+###### Rashash on Nazir 8a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/8a:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/8a:4)
+
+
+**תד"ה הריני. או קופה ריקנית לפניו כו'.**כצ"ל:
+
+
+
+## Daf 9a
+
+###### Rashash on Nazir 9a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/9a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/9a:1)
+
+
+**רש"י ד"ה אר"י כו'. אלא כו' בזמן שאמר כו' והרי הן עלי קרבן כו'.**גם הרמב"ם מפרש דכוונת ר"י שיאמר ג"כ קרבן. אך דמפרש דר"ל דקבל עליו הקרבן דחייב הנזיר להביא. ומשמע דלא גריס מלת הן ע"ש. אבל התוי"ט העתיק גם בפי' הרמב"ם מלת הן. וצ"ל דכוונתו שיהיו הן לדמי קרבן נזירותו. וכ"פ הרמב"ם בעצמו לקמן גבי דלת לר"י ע"ש. אבל קשה דהתנן ספ"ה דתמורה האומר על בהמה טמאה כו' הרי אלו עולה לא"כ. וי"ל דש"ה כיון דכבר אמר הריני נזיר. ונזיר נצרך לקרבנות אמרינן דודאי כוונתו לדמי קרבן. וכן התוס' חילקו בכיוצא בזה לפי שיטתם. גם י"ל דהכא דאמר עלי משמע טפי דלדמי קאמר וכמו שחילק ר"א בערכין (ה ב). וא"ל דשם אינו אלא לר"מ. הכא עדיפא דשלו הם ויכול למוכרן אפי' לרבנן מהני:
+
+
+###### Rashash on Nazir 9a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/9a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/9a:2)
+
+
+**תד"ה הריני**(בסופו). דבירוש' קרי לדבילה תירוש. גם בגמרתינו יומא (עו ב) איתא תניא הנודר מן התירוש אסור בכל מיני מתיקה ופרש"י בפירות כו':
+
+
+###### Rashash on Nazir 9a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/9a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/9a:3)
+
+
+**תד"ה אין אדם. נחלקו כו' בהאומר ערך כלי כו'.**וכן הביא המפרש. וע"ש דעיקר פלוגתייהו הוא במעריך פחות מבן חדש. וזה הוא מימרא דרב שם. אלא משום דשם איכא למימר דטעמא דר"מ משום גזירה כדאיתא התם. לכן הביאו הא דכלי:
+
+
+
+## Daf 10a
+
+###### Rashash on Nazir 10a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/10a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/10a:1)
+
+
+**במשנה הדלת הזה.**התוי"ט הביא ראיה דדלת הוא ג"כ לשון זכר מדכתיב דלתים בסי' הרבים. ושגה בזה במחכ"ת. דרבוי הזוגי שוה לזול"נ כמו שנתים ודומיו עי' תל"ע סי' קל"ז:
+
+
+###### Rashash on Nazir 10a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/10a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/10a:2)
+
+
+**שם**(בסוף המשנה) אם עומדת היא. עתוי"ט שנדחק. ול"נ שזה אינו סיום דר"י אלא מסתם משנה לפרושי פלוגתייהו דמיירי בעמדה אח"כ מאיליה. ובזה יפולו גם כמה דברים שבתוס':
+
+
+###### Rashash on Nazir 10a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/10a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/10a:3)
+
+
+**גמרא וצריכי כו'.**בתוי"ט חיסר הרבה בהעתקת הצריכותא ונצרך תיקון:
+
+
+###### Rashash on Nazir 10a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/10a:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/10a:4)
+
+
+**תד"ה הרי עלי קרבן.**כצ"ל:
+
+
+###### Rashash on Nazir 10a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/10a:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/10a:5)
+
+
+**תד"ה ב"ש**(בסופו). אבל היו רגילים להביא נו"נ כו'. כדכתיב בס"פ נזיר מלבד אשר תשיג ידו וגו' וכפרש"י שם מספרי:
+
+
+
+## Daf 10b
+
+###### Rashash on Nazir 10b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/10b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/10b:1)
+
+
+**רש"י ד"ה ואמר הריני נזיר מיין**(בסופו). אבל בדלת ל"פ ר"י דהא לא שייך לישנא דנדרים גבי דלת כלל. ותימה אלמה לא הלא כה"ד יוכל לאסור עליו בהתפסת קרבן וכמו ששנינו בפ"ה דנדרים קונם לביתך שאני נכנס ועוד רבות. ובאמת י"ל דפליג ג"כ אדלת ועפ"י מש"כ בפ"ב דפאה מ"ז ע"ש:
+
+
+###### Rashash on Nazir 10b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/10b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/10b:2)
+
+
+**תד"ה ואמר. ה"נ מיין בשבילה כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 10b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/10b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/10b:3)
+
+
+**תד"ה ב"ש סברי**(כצ"ל)
+
+
+###### Rashash on Nazir 10b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/10b:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/10b:4)
+
+
+**תורפי'. וא"ת כו' ל"ל פרה רבוצה ולתנאי זה אם עמדה כו'.**כצ"ל:
+
+
+
+## Daf 11a
+
+###### Rashash on Nazir 11a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/11a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/11a:1)
+
+
+במשנה מעשה באשה א' שהיתה שיכורה כו'.
+
+
+###### Rashash on Nazir 11a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/11a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/11a:2)
+
+
+**ובגמרא ח"מ כו' ואם שיכור הוא כו'.**בתוי"ט בשם הרמב"ם אבל לא הגיע לשכרותו של לוט. ולעד"נ דשיכורה ושיכור האמורים כאן המה שמות תוארים לאשר משתקעים ברוב ימיהם בשכרות אבל עתה אינן שיכורים כלל ולהכי אמרינן שלא נתכוונו לנזירות כיון דרגילי ביין אלא לכוס זה בלבד שיהא עליהם כקרבן:
+
+
+###### Rashash on Nazir 11a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/11a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/11a:3)
+
+
+**תד"ה דהוי מתנה עמשכב"ת. וא"ת כו' וי"ל אחרי שאחרים יכולים להביא קרבנות כו'.**בגה"ש הקשה בנדרים מא"ל ע"ש. ול"נ דכמו דאמרי' בהמדיר לענין קדושי ביאה דאע"ג דא"א לקיומיה ע"י שליח מ"מ מהני תנאי דאיתקוש הוויות להדדי ע"ש בפרש"י. אף אנן נאמר כיון דאיתקוש נזירות לנדרים כו' כדאיתא בריש נדרים להא נמי איתקוש דמה נזירות מהני תנאי אף נדרים כן. ועי' נו"ב מ"ת חלק יו"ד סי' קמ"ז:
+
+
+###### Rashash on Nazir 11a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/11a:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/11a:4)
+
+
+**תד"ה לרבנן. כשם שנאסר כו' בחד מעניני נזירות כן ניתר בסוף כו'.**כצ"ל:
+
+
+
+## Daf 11b
+
+###### Rashash on Nazir 11b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/11b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/11b:1)
+
+
+**רש"י ד"ה וקמיפלגי כו' דתנן ד' נדרים. במס' נדרים כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 11b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/11b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/11b:2)
+
+
+**גמרא מינה מדקאמר ועלי לגלח ש"מ ואני על תחלת כו'.**ק"ל דלמא לעולם ואני אסיפא משמע וש"ה כיון דאמר אחריו ועלי גלי אדעתיה דואני דאמר הוא ארישא וזהו דאשמעינן. דכה"ג אמרינן בשבועות (כג) גבי שלא אוכל ושלא אשתה ע"ש:
+
+
+###### Rashash on Nazir 11b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/11b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/11b:3)
+
+
+**רש"י ד"ה וממאי דהכי הוא. אלא פירושי קמפרש כו'.**נ"ל דר"ל דהתנא מפרש דהאי דקאמר ואני כוונתו ג"כ על ועלי כו':
+
+
+###### Rashash on Nazir 11b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/11b:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/11b:4)
+
+
+**תד"ה ואם היו פקחין**(בסופו). שהרי עשה נזירות ל"י וגילחו אחר וגילח לחבירו. כצ"ל:
+
+
+
+## Daf 12a
+
+###### Rashash on Nazir 12a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/12a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/12a:1)
+
+
+**גמרא ומודה ריו"ח כו' ולא אם אם ולא אם אב ולא אחות כו'.**כ"נ דצ"ל:
+
+
+###### Rashash on Nazir 12a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/12a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/12a:2)
+
+
+**שם ואף על פי שהיתה לה אחות ונתגרשה לאח"מ כו'.**ונ"פ דבמאי דסיים פתח וה"ה לכל הני דלעיל. וא"ש מאי דקאמר מ"ט לפי' התוס' כלומר ה"ד כו'. והרי באחות מ"ל בפשוט שנולדה אח"כ ובשעה שמנהו שליח לא הוכרה עדיין או שלא נתעברה כלל עי' קדושין (סב ב). וע"כ לא פריך אלא על דורות שלמעלה ממנה:
+
+
+###### Rashash on Nazir 12a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/12a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/12a:3)
+
+
+**רש"י ד"ה גליון. והנך חטאות דידי' נינהו.**עמש"כ ע"ד בקינין שם בס"ד. וכן ע"ד התוס' ד"ה ואלו במש"כ אם יצטרך לזיבה אחרת כו' והוקבע לזיבות ראשון:
+
+
+###### Rashash on Nazir 12a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/12a:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/12a:4)
+
+
+**תד"ה אסור. קטנות שא"י אם אביהן קבל עבורן קדושין כו'.**לכאורה י"ל דל"ח להכי שיעבור האב על הא דאמרי' ברפ"ב דקדושין אסור לאדם כו' עד שתגדל ותאמר בפלוני אני רוצה וע"ש בתוס':
+
+
+###### Rashash on Nazir 12a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/12a:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/12a:5)
+
+
+**תד"ה מ"ט. כלומר ה"ד כו'**עד ולאסור מספק. צ"ל לעיל קודם ד"ה כי משוי:
+
+
+
+## Daf 12b
+
+###### Rashash on Nazir 12b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/12b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/12b:1)
+
+
+**גמרא ואילו גבי דידיה תנן האומר כו'.**כצ"ל כי היא משנה שם:
+
+
+###### Rashash on Nazir 12b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/12b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/12b:2)
+
+
+**רש"י ד"ה אמר רבא. ה"ג כו'. והאי דקא מייתי ליה אינהו כו' משום נדבה.**תימה דהא בתוכם יש ג"כ חטאת שאינה באה בנדבה אפי' חטאת נזיר כדמוכח בכ"ד ומהן בנדרים (י' א) חסידים הראשונים היו מתאוים להביא קרבן חטאת כו' ע"ש. וגם הלחם הבא עם שלמי נזיר משמע במעילה (יא א) במשנה דאינו בא בנדבה ובספרי נשא פיס' ל"ח דאפי' אמר הריני נזיר ע"מ לגלח על מאה חטאות אינו רשאי להביא יותר מחטאת אחת. וצ"ל דיוצאין אם יביאו העולה לבדה:
+
+
+###### Rashash on Nazir 12b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/12b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/12b:3)
+
+
+**תד"ה מ"ט**(בסופו). ואין חיוב שום ח"נ בעולם. כצ"ל:
+
+
+###### Rashash on Nazir 12b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/12b:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/12b:4)
+
+
+**תד"ה כי פליגי**(בסופו). אבל בלישנא דמתניתין משמע להו דחצי קאי אעלי. כצ"ל:
+
+
+###### Rashash on Nazir 12b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/12b:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/12b:5)
+
+
+**במשנה כשיהיה לי ולד.**במשניות הגי' כשאראה וכ"ה בתוס'. וכ' התוי"ט ול"י אמאי שני כו'. ודקדוק חמור הוא. ועמש"כ בנדרים (יז) בס"ד ליישב זה:
+
+
+###### Rashash on Nazir 12b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/12b:6](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/12b:6)
+
+
+**תד"ה בת. אבל אמר בל"ז כו' אפי' בת טומטום כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 12b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/12b:7](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/12b:7)
+
+
+**תד"ה הפילה. כר"י דסבר לא מחית כו'.**והתוי"ט מסיים היינו ר"י דס"פ דלעיל גם מ"ה. ול"ד דשם אינו מבואר דספיקא דנזירות לקולא רק הגמרא שם מייתא ברייתא דתני בה בהדיא לר"י כן ע"ש וכדמייתי התוס' לקמן בד"ה לר"י:
+
+
+
+## Daf 13a
+
+###### Rashash on Nazir 13a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/13a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/13a:1)
+
+
+**במשנה הפילה אשתו אינו נזיר כו'.**משמע מדברי התוס' דאם הוה ידעינן דכלו לו חדשיו אף שמת במעי אמו קודם שנולד היה נזיר ודאי. אלמא דמקרי ולד. ונראה לכאורה דחייב להתאבל עליו ג"כ. אך בפ' יש בכור תנן דהבא אחר בן תשעה שיצא ראשו מת הוה בכור לנחלה. ואולי דש"ה דכתיב וילדו לו בנים עי' ב"ב (ר"ד קכז):
+
+
+###### Rashash on Nazir 13a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/13a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/13a:2)
+
+
+**תד"ה לר' יהודה. הוא דקאמר לר"י אבל כו'.**כצ"ל והשורה שבינתים יתירה:
+
+
+###### Rashash on Nazir 13a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/13a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/13a:3)
+
+
+**בסה"ד כיון דבשעת הנדר לא היה הולד בעולם.**ומשמע דאם כבר נולד בשעת הנדר אלא דהוא לא הוה ידע ואמר אם ילדה אשתי הריני נזיר. ה"ז נזיר. אבל ז"א כדמוכח לקמן (לג ב) במשנה. ושם בגמרא (ר"ד לד) מי הוה נזיר כיון דבשעתא דקא נזר לא ידע כו'. ונ"ל דט"ס כאן וצ"ל כיון דבשעת הנדר לא הוי הפלאה. ועי' לשונם שם בסד"ה אלא:
+
+
+###### Rashash on Nazir 13a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/13a:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/13a:4)
+
+
+**רש"י ד"ה או דלמא. ואהא דלעיל נמי כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 13a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/13a:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/13a:5)
+
+
+**תד"ה שמע חבירו**(בסופו). כשיהיה לך בן. כצ"ל:
+
+
+###### Rashash on Nazir 13a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/13a:6](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/13a:6)
+
+
+**תד"ה הריני נזיר ונזיר. והתחיל משלים את שלו שהרי כו'.**כן נראה דצ"ל. ומש"כ והתחיל הוא משום דאם לא התחיל כגון שנולד ביום הראשון לא היה נ"מ מידי בהא דישלים את שלו ברישא:
+
+
+###### Rashash on Nazir 13a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/13a:7](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/13a:7)
+
+
+**תד"ה הריני נזיר כשיהיה. הוא זקוק למנותם מיד כו'.**כצ"ל בלא ו':
+
+
+
+## Daf 14a
+
+###### Rashash on Nazir 14a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/14a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/14a:1)
+
+
+**רש"י ד"ה ואת"ל**(בסופו). נזירות מועטת או לנזירות מאה כו'. כצ"ל:
+
+
+###### Rashash on Nazir 14a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/14a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/14a:2)
+
+
+**תוספות**(ברה"ע) לא סלקי הנך עשרה שישלים אחר נזירות דאחר עשרים לאיצטרופי כו'. כצ"ל:
+
+
+###### Rashash on Nazir 14a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/14a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/14a:3)
+
+
+**תד"ה מי חיילא. או אחר שנה אחת כו' דחזר לנזירות עולם כו'.**ל"י מדוע בבעיא ראשונה דרבא במעכשיו ק' יום לצד דחיילין מהשתא אע"ג דאסור לגלח בכל ימי משך הק"י כתבו לעיל דיגלח ויביא קרבן אחר כלות סתם נזירות דמונה לאחר כ'. ובמש"כ המפרש בד"ה ואת"ל יש לישב קצת:
+
+
+###### Rashash on Nazir 14a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/14a:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/14a:4)
+
+
+**תד"ה אמר כמשה. וק"ק למ"ד דלבד נו"נ לא קריבין בבמה**(ר"ל אפי' בבמת ציבור) כו' דהא קרבן נזיר לאו נידר ונידב הוא. כ"נ דצ"ל. עי' בסוגיא דזבחים שם ובתמורה י"ד ב' בתד"ה אלא:
+
+
+###### Rashash on Nazir 14a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/14a:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/14a:5)
+
+
+**בסה"ד ולא היה היתר כי אם בשילה.**כן הגיה בס' ב"ר. אבל תמוה דהרי היו יכולין להקריב קרבנותיהן באוה"מ בעודן בערבות מואב שהרי לא עברו את הירדן עד בעשור בניסן. ואין לומר מפני חלות ורקיקין דאינן באין מן החדש. דהא אפי' למ"ד דחדש נוהג בח"ל לא התחיל אלא מעת בואם לארץ. וגם לשון כל ימיהם אינו מדוקדק שהרי גלגל לא היה אלא י"ד שנה. והיו יכולין להביא אח"כ בשילה:
+
+
+
+## Daf 14b
+
+###### Rashash on Nazir 14b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/14b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/14b:1)
+
+
+**תד"ה אליבא דמאן. והאי יסתור דהכא ע"כ ל"ד דהא אר"א בפרק דלקמן דנטמא ביום שלשים דאינו סותר אלא שבעה.**כצ"ל:
+
+
+
+## Daf 15a
+
+###### Rashash on Nazir 15a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/15a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/15a:1)
+
+
+**גמרא וכן מתניתין לרב ש"מ ורב כמאן כו'**עד סוף הסוגיא. עמש"כ במגילה (ד) וביבמות (פ):
+
+
+###### Rashash on Nazir 15a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/15a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/15a:2)
+
+
+**רש"י**(בסוף המשנה). וטעמא מאי כדאמרן שאין תגלחת בינתים כו'. לכאורה קשה דא"כ בנזירות מרובה ג"כ לא יגלח אחר השלמת נזירות בנו בכדי שיוכל להשלים נזירותו אח"כ וכמו שהוא באמת כן לפי' התוס'. וי"ל דסברתו הוא דבשלמא בנזירות מועטת היכא דלא מנה עדיין קודם לידת בנו ל"י ואין נזירות פחות מל"י (ואולי זהו כוונתו במש"כ שאין תגלחת בינתיים) ולכן לא חשיבי לנזירות לבדן ומצטרפין לנזירות בנו וכחדא נזירות אריכא הם. משא"כ בנזירות מרובה ומנה כבר קודם לידת בנו ע' ימים ויותר שיש בהם כדי נזירות שלמה חשיבי בפ"ע ולא מיצטרפי תו על נזירות בנו. וכן כשנשאר עוד ל"י שהוא כדי נזירות שלמה (אף שקודם לידת בנו לא מנה עדיין ל"י) חשיבי בפ"ע ולא מצטרפי לנזירות בנו ולכן צריך לגלח בינתיים. ועי' לעיל (יג ב ויד) בבעיות דרבא ובפי' התוס' שם ותמצא עוד סברות לחלק:
+
+
+###### Rashash on Nazir 15a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/15a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/15a:3)
+
+
+**בתור"ע**אות י"ט תמה על הרמב"ם דהא גם בנולד ביום ע"א יהיה הגלוח הב' ביום קל"א לקבלת נזירותו (שהוא יום ל' לגלוח בנו) כמו שנולד בתוך ע' ע"ש. סובר הרב ז"ל דהא דאמרינן אין תגלחת פחותה מל"י היינו דמגלח ביום הל' עצמו. אבל ז"א דאינו מגלח אלא ביום ל"א וכ"מ להדיא בהרמב"ם פ"ד ה"ה שכתב ונמצא מפסיד כו' י' ימים כו'. ולדברי הרב ז"ל לא הפסיד רק ט' ימים. וכ"מ בתוס' (יד ב) ד"ה נטמא ביום ג"ש. ועי' לקמן (לט א) בתד"ה סתם והכוכב לא האיר כלל בכוונתו:
+
+
+###### Rashash on Nazir 15a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/15a:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/15a:4)
+
+
+**תד"ה לא הפסיד כלום. וה"ל למיתני במתני' הרויח בלידת הבן כו'.**כצ"ל:
+
+
+
+## Daf 15b
+
+###### Rashash on Nazir 15b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/15b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/15b:1)
+
+
+**רש"י ד"ה אבא שאול**(בסופו). גזירת גלוח וכיבוס. עי' מו"ק (כג א) תד"ה כל:
+
+
+###### Rashash on Nazir 15b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/15b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/15b:2)
+
+
+**רד"ה לעולם אימא לך**(בסופו). ודמי לעובר ברה"ר כו'. ל"י אמאי דקדק לומר ברה"ר. דנ"פ דאפילו ברה"י נמי דכיון דודאי טומאה היא מ"ל רה"ר ומ"ל רה"י. וכן הביא רש"י בפסחים (פ ב) במשנה מהתוספתא "אבל אמרו לו קבר התהום עמך בבית כו'" ע"ש ובית הוה רה"י:
+
+
+###### Rashash on Nazir 15b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/15b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/15b:3)
+
+
+**תד"ה סותר את שלפניו. דכתיב וספר לו ז' ימים לטהרתו.**כצ"ל:
+
+
+
+## Daf 16a
+
+###### Rashash on Nazir 16a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/16a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/16a:1)
+
+
+**רש"י**(במשנה). וכולה מתני' מפורש כו'. כצ"ל:
+
+
+###### Rashash on Nazir 16a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/16a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/16a:2)
+
+
+**תד"ה שיום ל' עולה. לר"מ עולה למנין כו' ולב"פ א"צ למניין נזירות ראשון כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 16a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/16a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/16a:3)
+
+
+**תד"ה הריני נזיר ל"י. וא"ת מ"מ כו' הא לר"א דריש לקמן בברייתא כו'.**הוא (בדף יט ב):
+
+
+
+## Daf 16b
+
+###### Rashash on Nazir 16b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/16b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/16b:1)
+
+
+**תד"ה ולר"א. וה"ל לסתור את הכל אלא מדרשה דזת"ה כו'.**המ"ל מדרשה דוהימים הראשונים מכלל דאיכא אחרונים. ועמש"כ לעיל (ו ב):
+
+
+###### Rashash on Nazir 16b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/16b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/16b:2)
+
+
+**רש"י ד"ה איתמר. אע"ג דלא הדר אמר אני מקבל כו'.**כצ"ל:
+
+
+
+## Daf 17b
+
+###### Rashash on Nazir 17b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/17b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/17b:1)
+
+
+**רש"י ד"ה כגון שנכנס בשידה. דהוא תחתיה**(כצ"ל) שהיתה השידה מעל ראשו. וקשה כיון דמתחתיו השידה שלמה איך תבוא הטומאה ממעל. וכה"ג הקשו על פרש"י בשבת (מד ב) בד"ה ואין מצלת. וצ"ל דמיירי שאין השידה גבוהה מעל הקבר טפח. ועמש"כ לקמן בסמוך:
+
+
+###### Rashash on Nazir 17b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/17b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/17b:2)
+
+
+**רד"ה אבל אבראי. וכיון שפרע מעליו את המעזיבה.**כצ"ל כלשון הגמרא. ואולי שהיתה הגי' לפניו בגמרא מתחתיו ולעיל צ"ל בדבריו שהיא תחתיו ומיושב ג"כ קושייתי דשם:
+
+
+
+## Daf 18b
+
+###### Rashash on Nazir 18b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/18b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/18b:1)
+
+
+**רש"י ד"ה כגון דחזיא. והאי דאמר דחזיא כו' איידי דנקיט לה כו'.**כה"ג כתבתי בעירובין (קג ב) והבאתי שם עוד דוגמאות:
+
+
+###### Rashash on Nazir 18b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/18b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/18b:2)
+
+
+**תד"ה בשלמא. ולא הוי פירושו כההיא דלעיל כו'.**כה"ג כתבו בב"ב (ס"ד יא) ובכ"מ:
+
+
+
+## Daf 19a
+
+###### Rashash on Nazir 19a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/19a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/19a:1)
+
+
+**תד"ה סבר**(בסופו). משא"כ (והוא ר"ת מה שאין כן) עולה לא מייתי. כצ"ל:
+
+
+
+## Daf 19b
+
+###### Rashash on Nazir 19b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/19b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/19b:1)
+
+
+**תד"ה א"ל ר"פ. צ"ל דלא שמיע ליה לההיא ברייתא.**והא דהגמרא לא מסייע ליה מהך ברייתא עמש"כ בברכות (כו):
+
+
+
+## Daf 20a
+
+###### Rashash on Nazir 20a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/20a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/20a:1)
+
+
+**במשנה ובה"א כו' שיהא נזיר שתים.**נ"ל דדוקא בכה"ג שהכחשה היא בנזירות חלוקות. אבל אם אחת אומרת שקבל עליו סתם נזירות וא' אומרת ששים יום הוי נזיר לששים עי' לעיל (ח) בסוגיא דרואין אה"ק כאילו מלאה חרדל ותבין החילוק. וק"ל גם בגוונא דמתניתין. דהא ע"כ ל"א דספק נזירות להקל אלא משום דלא מעייל נפשיה לספיקא. או כדר"ט דל"נ נזירות אלא להפלאה כמבואר בנדרים (יט ב) מה דלא שייכא הכא. ותרי ותרי הוה ספיקא דאורייתא או דרבנן ולא מוקמינן אחזקה עי' יבמות (לא). ועי' כתובות (כו ב) תד"ה אנן:
+
+
+
+## Daf 20b
+
+###### Rashash on Nazir 20b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/20b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/20b:1)
+
+
+**רש"י ד"ה יתיב ר"ל. כי תנן במתני' כולן נזירים כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 20b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/20b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/20b:2)
+
+
+**תד"ה הריני נזירה ושמע כו'. ואינו רשאי לגרום כו' כדכתיב ל"י דברו.**לקמן (כא ב) בד"ה אלא העלו פי' זה בצ"ע ופי' בשם הר"א פי' אחר:
+
+
+###### Rashash on Nazir 20b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/20b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/20b:3)
+
+
+**תד"ה הריני נזיר ואת. ועדיין אינו יודע כו'.**כצ"ל:
+
+
+
+## Daf 21a
+
+###### Rashash on Nazir 21a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/21a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/21a:1)
+
+
+**גמרא ומשום דקתני בסיפא כו' מכלל דאיכא אמצעי מש"ה תני ואני ואני.**ק"ל מגיטין (כט ב) במשנה דתני ואין שליח אחרון כו' ודייק מזה בגמרא שם מכלל דשליח דשליח משוי שליח אע"ג דלא תני ליה (ועמש"כ ברפ"ב דב"ק). וזה י"ל דהתם צריך להאריך קצת והכא אינה אלא תיבה א'. אבל קשה עוד מנדרים (סו א) במשנה דתני לזה ולזה ותני אח"כ הותר האמצעי כו'. וי"ל כיון דתני שם ברישא לכולכם וע"כ לא הוו בפחות מג' כמש"כ התוס' בכתובות (ח). א"כ מובן דאיכא אמצעי ועמש"כ בס"ד בחדושי לס' נת"ע אות י"ג:
+
+
+###### Rashash on Nazir 21a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/21a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/21a:2)
+
+
+**שם ומאי אחרון דקתני אמצעי ואיידי דתני ראשון תני אחרון.**וכן מצינו בקרא (בראשית לג ב) ואת לאה וילדיה אחרונים. ולא קשה מזה על הא דדייק בגיטין שם מלשון אחרון כדהבאתי לעיל. הוא משום דלא תנן מקודם ראשון והכא ל"ק אלא משום איידי כו'. והתוי"ט בפ"ז דדמאי מ"ג ל"ד במחכ"ת. וכן יפול בזה מש"כ אני ברפ"ב דב"ק:
+
+
+###### Rashash on Nazir 21a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/21a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/21a:3)
+
+
+**תד"ה לימא. בשלמא לרשב"ל כו' לאשמעי' כו' ואע"ג דאמצעי מפסיק כו'.**לכאורה קשה א"כ מאי פריך לר"י נשיאה וליתני חד. י"ל משום דאי בא התנא לאשמעינן חידוש דהפסקה ה"ל לאשמעי' גם חדוש דרביעי. אלא ע"כ לא בא התנא אלא לאשמעינן דין התפסה א"כ לא ליתני אלא חד. ויל"פ כן לשון הש"ס וליתני חד (אי לא בעי למיתני אלא דין התפסה) ולשמעינן הני (הו' בא בכאן לשמוש או המחלק ור"ל או ה"ל לאשמעינן הני חידושי) ועיין בספר ב"ר:
+
+
+
+## Daf 22a
+
+###### Rashash on Nazir 22a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/22a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/22a:1)
+
+
+**גמרא ואס"ד בעל מיגז גייז תייתי נמי עולת העוף כו'.**והרמב"ם בפ"ט מהל' נזירות הלי"א פסק באמת דמביאה אף האשם. והיינו לפי מה דקי"ל דמיגז גייז וכ"מ בגמרא לעיל (יט). וצ"ע דבסוגיא דנדרים (פ"ג) מוכח דאליבא דאביי דאמר שם אין קרבן לחצי נזירות א"ש אפי' אי אמרינן מיגז גייז ע"ש היטב בר"ן. וכן מתורץ בזה יפה הק"ק שבתד"ה ת"ש ועיין בס' ב"ר:
+
+
+###### Rashash on Nazir 22a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/22a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/22a:2)
+
+
+**תד"ה מר זוטרא. בנדרים משמע דמיבעי ליה לרמב"ח כגון דמחית בשר זבחי שלמים אחר כו' ואמר כו' כבשר ז"ש זה כו' כי אמר כבשר ז"ש זה אם דעת כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 22a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/22a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/22a:3)
+
+
+**בא"ד ולעיל קאמר כו' מיעקר קא עקר איהי נמי כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 22a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/22a:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/22a:4)
+
+
+**בא"ד וי"ל ולומר דר"ל ומי דמי כו'.**ר"ל כאילו היה כתוב ומי דמי בוי"ו:
+
+
+###### Rashash on Nazir 22a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/22a:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/22a:5)
+
+
+**בא"ד דלישנא כו' משמע דהפשיטות קיימא כדמייתי לעיל כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 22a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/22a:6](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/22a:6)
+
+
+**בא"ד אלא אמרינן ואני כמעיקרא כמו שהיא אסורה כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 22a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/22a:7](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/22a:7)
+
+
+**בא"ד אבל דרמב"ח כו' בשעת התיר אחר זריקת דמים.**כצ"ל:
+
+
+###### Rashash on Nazir 22a:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/22a:8](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/22a:8)
+
+
+**בא"ד וצ"ל דסוגיא דהכא כו' דקאמר כו' כבשר ז"ש קודם זריקה.**כצ"ל. ור"ל דמיירי דבשעת נדרו עדיין לא נזרק הדמים:
+
+
+
+## Daf 22b
+
+###### Rashash on Nazir 22b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/22b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/22b:1)
+
+
+**גמרא**(בסה"ע) ברייתא כגון כו' דקא תלי נדרו בנדרה. עיין בתוס'. והרע"ב פי' דזה הוי כמו קיום. ובתור"ע הקשה עליו דהתנן בפ"י דנדרים מ"ז דקיום קודם לנדר לא הוי קיום. ולק"מ דהא הרע"ב פי' שם הטעם משום דהוי קיום בטעות כו' וא"כ בנדר מפורש כי הכא הוי קיום ועמש"כ שם בשם הספרי. ותו דהכא ע"כ ענתה אמן תכ"ד ותכ"ד כדבור דמי והוה הנדר והקיום כבבת אחת וי"ל דבכזה הוי קיום. שוב ראיתי שגם המל"מ פ"ב מהלכות נזירות ובפי"ג מהל' נדרים חשב זה כמו קיום קודם הנדר דלא מהני. ולעד"נ כמש"כ:
+
+
+
+## Daf 23a
+
+###### Rashash on Nazir 23a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/23a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/23a:1)
+
+
+**גמרא אחד אכלו לשם מצוה וא' אכלו לשם אכילה גסה כו'.**לפי התוס' דמיירי שאינו רעב לאכול לתאבון. נל"פ דאכלו לשם מצוה היינו דמשום חפצו בקיום המצוה אוכלו בנפש חפיצה ובתאבון לב כדי לקיים מצות בוראו. והב' שקיום המצוה אינו אלא מצד ההכרח ממילא אכילתו איננה לתאבון ועי' ט"א בר"ה (כט):
+
+
+###### Rashash on Nazir 23a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/23a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/23a:2)
+
+
+**רש"י ד"ה ת"ר**(בסופו). דהא כבר כתיב כו' יניא אותה דהיינו שהפר לה בידיעתה. ר"ל דלהכי לא הציג התנא דרשתו זאת במקראות הקודמים דכתיב בהו וה' יסלח לה. דהתם כתיב יניא אותה משמע בפניה משא"כ הכא דכתיב אותם יל"פ דהיא לא ידעה:
+
+
+
+## Daf 24a
+
+###### Rashash on Nazir 24a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/24a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/24a:1)
+
+
+**במשנה האשה כו' ואח"כ הפר לה בעלה כו'.**מלשון הר"ן והרא"ש בנדרים (פ"ג) בד"ה הא קרבן לחצי נזירות איכא. שציירו כגון שהפר לה אחר ט"ו יום. משמע לכאורה דאם נדרה נזירות מרובה והפר לה אחר שמנתה ל"י דהוא סתם נזירות שלמה. לפי מאי דקי"ל דבעל מיגז גייז צריכה להביא כל הקרבנות אף אם לא הפרישתם עדיין. אבל העיקר נ"ל דגם זה נקרא חצי נזירות לדידה. ואינהו דברו בהוה ול"ד. וראיה לזה מלקמן (כח א) במשנה דרע"א אפילו נשחטה כו' אינו יכול להפר ובגמרא שם הטעם מפני הפסד קדשים. אלמא אפי' השלימה כבר הנזירות משלם רק משום ההיא פורתא דתישרי לשתות יין כו' מחמת הפרתו מקמי דתזרק עליה הדם מיקרי חצי נזירות ושוב לא נוכל לזרוק הדם עליה:
+
+
+###### Rashash on Nazir 24a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/24a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/24a:2)
+
+
+**שם היו לה מעות סתומין יפלו לנדבה.**וכתב התוי"ט טעמא שם במעילה במשנה. ל"ד במחכ"ת דשם ליתא טעם ע"ז. ואדרבה הגמרא כאן (ר"ד כה) פריך על הא דיפלו לנדבה דשם והלא ד"ח מעורבין בהן. והתם במשנה לא קאמר טעם אלא בדינא דרישא לא נהנין ול"מ מפני שהן ראויין לבוא כולן שלמים ועמש"כ לקמן בסמוך:
+
+
+###### Rashash on Nazir 24a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/24a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/24a:3)
+
+
+**רש"י ד"ה שלמים. ואצ"ל דאין מועלין בהן וכדמפרש בפ"ק כו'.**וכ"ע התוי"ט ועוד דממשנה גופה מפורש דמידי ה"ט דיפלו לנדבה כו'. כדניים ושכיב הרב אמרה. דאדרבה אהא דפריך הגמרא עלה והלא דמי חטאת כו' כ' התוס' דה"ה דהוי מצי לאתובי והלא דמי שלמים כו' והביאן בעצמו שם במעילה. אלא דשגה כאן במחכ"ת בטעם דאיתא שם במשנה על הא דלא נהנין ול"מ מפני שראויין לבוא כולן שלמים וסבר דזהו טעם ג"כ על הא דתני בתרי' מת כו' יפלו לנדבה וכדמוכח ג"כ מדבריו לעיל בד"ה יפלו (עמש"כ שם) וכאן הכי הל"ל דמידי הוא טעמא דלא מועלין אלא כו' ויהיה מזה תפיסה על המפרש. דהלא במשנה זו דהביאה הגמרא כאן מפורש כו':
+
+
+
+## Daf 25a
+
+###### Rashash on Nazir 25a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/25a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/25a:1)
+
+
+**תד"ה יפלו**(שבדף הקודם). אלא הכא כו' דאז יכול להביא בכולן אחד מקרבנותיו ולכך כו'. כצ"ל. ותיבות דמשמע אכל קרבנותיו קאמר. צריך להציגם למטה אחר תיבות לקרבנות נזירותי:
+
+
+
+## Daf 25b
+
+###### Rashash on Nazir 25b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/25b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/25b:1)
+
+
+**רש"י ד"ה אשם שניתק. שהקדים ושחטו לשם עולה.**כ"נ דצ"ל:
+
+
+###### Rashash on Nazir 25b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/25b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/25b:2)
+
+
+**רד"ה כשר. הא לא ניתק או שלא שחטו לשם עולה.**כ"נ דצ"ל:
+
+
+###### Rashash on Nazir 25b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/25b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/25b:3)
+
+
+**תד"ה אמר מר**(בסופו). מיירי דאמר לקרבנות טומאתו. כצ"ל. כי כן איתא להדיא שם בתחלת הברייתא מטמא מקדש כו' וע"ש בסוגיית הגמרא. ושם איתא ג"כ מפורש דאמר אלו לחטאתו ואלו לעולתו ע"ש:
+
+
+
+## Daf 26a
+
+###### Rashash on Nazir 26a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/26a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/26a:1)
+
+
+**רש"י ד"ה ע"א. עולת בהמה לא תביא שהיא לא נדרה אלא עולת העוף.**עמש"כ לקמן (נט ב) בס"ד:
+
+
+###### Rashash on Nazir 26a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/26a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/26a:2)
+
+
+**תד"ה הגה"ה**א'. דכמו שהחטאת באה לחובה (ר"ל לנזירות) כך עולה אבל כשאמר לחובתי משמע יותר חטאת שהחטאת באה גם בעלמא לחובה כו'. כצ"ל:
+
+
+###### Rashash on Nazir 26a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/26a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/26a:3)
+
+
+**שם בהגה"ה**הב'. אבל אמר לנזירותי גרידא כו' ואם מת לא נתקבלה בזה הלכה בנזיר כו'. כצ"ל:
+
+
+
+## Daf 26b
+
+###### Rashash on Nazir 26b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/26b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/26b:1)
+
+
+**תד"ה אבל בהמה. וא"ת סוף סוף קשה כו' מהמקדיש זכר לדמי נסכים.**כצ"ל:
+
+
+###### Rashash on Nazir 26b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/26b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/26b:2)
+
+
+**תד"ה אלא. תו לא מיפרקי דאין לעופות פדיון כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 26b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/26b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/26b:3)
+
+
+**בא"ד**(בסה"ע) ומת קודם הקרבה כו' דלא יהבינן להו דין דסתומין לענין זה שיקריב כו' חטאת. תימה איך יוכל להקריב חטאת לאחר מיתה. כי מש"כ המפרש לעיל (כא ב) דבחטאת העוף לא גמרינן שתמות במיתת בעליה כבר צווחו עליו וע"ש בב"ר:
+
+
+
+## Daf 27a
+
+###### Rashash on Nazir 27a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/27a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/27a:1)
+
+
+**תד"ה וכ"ת. לכן נראה לפרש הסוגיא כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 27a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/27a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/27a:2)
+
+
+**בא"ד אלא מעתה דקאמר מעות דוקא גמירי מעות ולא עופות בתמיה.**ר"ל אף דעופות חזו לאלתר להקרבה והוו לכאורה כמו בהמה בע"מ. וכמו שהקשו בריש הדבור. מ"מ פריך שפיר כיון דדייקי לשון ההלכה מעות וממעטי פרים ונסכא כו' דלא דמי למעות בזה דצריכי שהייה אף שאין בזה טעם לחלק. א"כ ה"ה עופות ל"ד למעות בזה שהן עצמן ראויין להקרבה:
+
+
+###### Rashash on Nazir 27a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/27a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/27a:3)
+
+
+**תד"ה ואמאי**(בע"ב). וה"ה דהני סתומין הוו מעלו לנדבה. כצ"ל:
+
+
+###### Rashash on Nazir 27a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/27a:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/27a:4)
+
+
+**בא"ד וה"ה דר"ה בבהמות דהוו כסתומין.**כצ"ל:
+
+
+
+## Daf 27b
+
+###### Rashash on Nazir 27b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/27b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/27b:1)
+
+
+**תד"ה מתיב רב המנונא.**כצ"ל:
+
+
+###### Rashash on Nazir 27b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/27b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/27b:2)
+
+
+**בא"ד ממעות שהפריש אביו לחטאת.**כצ"ל:
+
+
+###### Rashash on Nazir 27b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/27b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/27b:3)
+
+
+**תד"ה היתה. לפדותם ולהביא בדמיהן נדבה או קרבנות נזירותו דבע"מ כו'.**כ"נ דצ"ל. דבבא זו קאי על ב' הדינים דרישא:
+
+
+###### Rashash on Nazir 27b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/27b:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/27b:4)
+
+
+**תד"ה מאי איריא. אבל במתניתין קתני מעות מפורשין להכי תני קודם מעות סתומין כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 27b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/27b:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/27b:5)
+
+
+**תד"ה מתיב רבא. ושלשה קרבנות כתיבי.**לכאורה ה"נ להגיה קרבנו. ואולי נסבי ל"ר משום שלשה דנקטי. וכ"ה לשונם לקמן בד"ה ת"ל:
+
+
+###### Rashash on Nazir 27b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/27b:6](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/27b:6)
+
+
+**שם וחד בשעירה וחד בכבשה.**כצ"ל כסדרן בתורה:
+
+
+###### Rashash on Nazir 27b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/27b:7](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/27b:7)
+
+
+**תד"ה ת"ל. עד שיהא קרבנו לשם חטאו.**כצ"ל:
+
+
+
+## Daf 28a
+
+###### Rashash on Nazir 28a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/28a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/28a:1)
+
+
+**גמרא אבל יוצא בקרבן שהפריש לעצמו אפילו מן הקלה עה"ח כו'.**כצ"ל וכ"ה בכריתות:
+
+
+###### Rashash on Nazir 28a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/28a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/28a:2)
+
+
+**שם יכול ל"י בבהמה שהפריש לעצמו אפי' מן הקלה עה"ק או מן החמורה עה"ח שכן אם כו'.**כצ"ל וכ"ה שם:
+
+
+###### Rashash on Nazir 28a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/28a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/28a:3)
+
+
+**תד"ה בד"א. וצ"ל דקאי אדר"ע כו' אע"ג דאסורה ביין עד שישחטו שאר הבהמות כו'.**ל"י מנ"ל דר"ע ס"ל כר"א דאית ליה אחר מעשים כולן. וראיתי בתוי"ט שהעתיק דבריהם עד שיזרק הדם. ואולי הוא שהגיה כן בדבריהם ונכון:
+
+
+
+## Daf 28b
+
+###### Rashash on Nazir 28b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/28b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/28b:1)
+
+
+**רש"י ד"ה בד"א. הואיל ושותה יין בו ביום.**נראה להגיה לאלתר:
+
+
+###### Rashash on Nazir 28b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/28b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/28b:2)
+
+
+**תד"ה כבשי. ואי ל"ל נו"נ קריבין בי"ט כו' ולא יאכל הבשר עד הערב כו'.**צ"ע דבביצה (כב) מוכח בגמרא ופרש"י ותוס' דאף למ"ד אין קריבין בי"ט ולא יוכל להקטיר את האימורין עד הערב. מ"מ הבשר יאכל בו ביום:
+
+
+###### Rashash on Nazir 28b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/28b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/28b:3)
+
+
+**תד"ה דתנן. וקאמר דבעל אחד משלשתן יצא.**כצ"ל:
+
+
+###### Rashash on Nazir 28b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/28b:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/28b:4)
+
+
+**גמרא**(בסה"ע). וריב"ח אר"ל כדי כו'. בגליון מביא גי' ס"א ור"ל אריב"ח. כ"ה גי' התוס' לקמן (כט) בסד"ה ה"ג:
+
+
+###### Rashash on Nazir 28b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/28b:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/28b:5)
+
+
+**תד"ה גלח. דבפלוגתא לא קמיירי דבגמרא פליגי כו'.**לכאורה לפיר"ת שהביאו התוס' לקמן (ל א) בד"ה הניחא. דעונת נדרים אינה סותרת. א"כ לכ"ע דוקא ב' שערות סותר. ותוספתא זו דאיתא בה להדיא דב"ש מבטלין הנזירות אישתמיטא מהתוי"ט בספ"ג דסוטה:
+
+
+###### Rashash on Nazir 28b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/28b:6](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/28b:6)
+
+
+**תד"ה בנו. תימה כו' והאמר ריב"ח**(כצ"ל) אף לחנכו כו' מוטל על האב. תימה דתלו תמיהתם בריב"ח והלא מבואר בכ"מ בש"ס מצות חינוך המוטל על האב. ועי' שבת (קכא א) תד"ה ש"מ:
+
+
+
+## Daf 29a
+
+###### Rashash on Nazir 29a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/29a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/29a:1)
+
+
+**תד"ה לזכר.**דבור זה מלא טעותי המעתיקים. ועי' נו"ב מ"ת חלק יו"ד סי' קל"ג תיקון דבריהם וביאורם:
+
+
+
+## Daf 29b
+
+###### Rashash on Nazir 29b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/29b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/29b:1)
+
+
+**גמרא ואב"א דכ"ע כדי לחנכו במצות ומופלא הסל"א דרבנן כו'.**לכאורה המ"ל ג"כ דפליגי במופלא הסל"א דרבי סבר דרבנן ואתי חינוך דרבנן ודחי כו'. וריב"י סבר דאורייתא:
+
+
+
+## Daf 30a
+
+###### Rashash on Nazir 30a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/30a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/30a:1)
+
+
+**רש"י ד"ה ואי אייתי באמצע. ואפשר דקאי בשלש עשרה כו'.**כ"נ דצ"ל:
+
+
+###### Rashash on Nazir 30a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/30a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/30a:2)
+
+
+**תד"ה ה"ג ואי לבסוף כלומר עכשיו שלא נבדק כו' אם לא יביא ב"ש כו' דודאי אלו ל"י היה בשביל נדר אביו.**ק"ל דהא פסקינן בנדה (מו) דחוששין שמא נשרו בספיקא דאורייתא. וצ"ל דה"ק אלו הוה אפשר לידע דלא הביא אלא לבסוף. אבל כיון דא"א דחיישינן לנשירה ושמא אייתי במצעי. אבל מש"כ לקמן דאמתני' ליכא למיפרך דודאי בדקינן כו' ואי מספקינן כו'. קשה הרי לעולם יהיה ספק שמא נשרו:
+
+
+###### Rashash on Nazir 30a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/30a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/30a:3)
+
+
+**בא"ד וגם בשביל עצמו כיון שלא פירש.**נראה דר"ל שלא פירש אם יביא ב"ש במצעי יהיה נזיר מעכשיו בשביל עצמו:
+
+
+###### Rashash on Nazir 30a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/30a:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/30a:4)
+
+
+**תד"ה לרבי. שימתין ר"ח ששים יום כו'.**כצ"ל. וכ"ה גי' האו"מ שבגליון אלא שנדפס שלא במקומו:
+
+
+
+## Daf 30b
+
+###### Rashash on Nazir 30b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/30b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/30b:1)
+
+
+**גמרא דברי ר' יוסי ר' אלעזר כו'.**כצ"ל בל"י:
+
+
+###### Rashash on Nazir 30b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/30b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/30b:2)
+
+
+**שם בעי רבה יש לו ב' בנים כו' כל דקדים גלח גלח א"ד ירושה כו'.**והרע"ב פסק דאם קדם א' מהן כו' זכה. ובתור"ע הקשה עליו הא זה בעי' דלא איפשטא כו' ע"ש. ולי נראה דהרע"ב אזיל בשיטת הרי"ף והרמב"ם דבבעי' דלא איפשטא אם תפס לא מפקינן מיניה (עי' רא"ש בפ"ב דב"ק סי' ב' וברמב"ם ספ"א מהל' נ"מ ובמ"מ שם) ומטעם דקדם ותפס קאמר הרע"ב דזכה:
+
+
+
+## Daf 31a
+
+###### Rashash on Nazir 31a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/31a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/31a:1)
+
+
+**במשנה חבית של יין כו'.**עי' בתוי"ט ולכאורה דבריו מגומגמין. ונראה כוונתו דדינר זהב או כסף גופו ראוי לב"ה משא"כ יין או שמן דנמכרים לצריכין למזבח וזהו שכ' ונפדה. ודמיהן יפלו לב"ה. או דט"ס בדבריו ותחת ונפדה צ"ל ונקרב. ומש"כ וכדתנן במ"ח כו' לכאורה תמוה דאדרבה שם איתא דיביא בדמיהן עולות. אבל ס"ל ז"ל דר"א ור"י דבמ"ז פליגי על ר' אלעזר בהא דמ"ח וס"ל דדמיהן יפלו לב"ה דאף ר"י ל"ק אלא בהמה דוקא דאפילו נקבות כו' ויביא בדמיהן עולות. וזה דלא כהרמב"ם בפ"ה מהל' ערכין ה"ח. (ונראה דלפני הרמב"ם היה הגי' במ"ח ר' אליעזר ביו"ד לכן נדחק לחלק) אלא כהראב"ד שם. (ומש"כ הראב"ד ור"א סבר כר"י ר"ל כר"י ועדיפא מיני' ודו"ק) וכוונת התוי"ט שהביא משקלים הוא למאי דכתב וימכר לצריכין. ומאי דלא מוקי התוי"ט מתניתין דהכא כר' אלעזר. משום דא"כ ל"ל למיתני חבית טפי ה"ל למיתני פרה ודו"ק:
+
+
+###### Rashash on Nazir 31a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/31a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/31a:2)
+
+
+**גמרא ובה"א א"כ שיצא בראשון מבע"ל.**עי' ע"ז פי' התוס' (בדף לג) וכוונתם נראה דר"ל מדאמר ראשון ולא בראשון בב'. ולא מיתורא דמביתי ועי' במפרש. וכן מבואר להדיא בש"מ. והנה הופיעו לנו חכז"ל דבר חדש בשמוש הב'. דכשהוא בא בראש מלת ראשון יורה שאינו ראשון מחלט. אלא ראשון למינים הבאים אחריו אף שקדמו אחר שאינו ממינו. ובזה נ"ל הא דבפ' במדבר (ב ט) כתיב בדגל יהודה ראשונה יסעו. ובפ' בהעלותך (י' יד) כתיב ויסע כו' בראשונה. הוא מפני דשם כתיב מקודם נעלה הענן כו'. א"כ הוא היה הראשון בנסיעה. ודגל יהודה איננו ראשון אלא נגד שארי דגלים לכן כתיב בראשונה בבי"ת. והא דכתיב יד העדים תהיה בו בראשונה. י"ל משום דאחד מן העדים דוחפו תחלה (סנהדרין מ"ה במשנה) וא"כ עד השני איננו ראשון אלא נגד כל העם. ובמסית דכתיב ידך תהיה בו בראשונה. אולי משום דגם בו מצוה בעדים תחלה והניסת אינו אלא ראשון לשאר העם. וכעת ל"מ עדיין ד"ז מפורש. וק"ק דבמשנה פ"ז דסנהדרין מ"י איתא העומדים כו' מביאין אותו לב"ד וסוקלין אותו ולא בארה דהמצוה בניסת להמיתו תחלה. אולם בספרי איתא הביאו רש"י בנימוקיו וכן הרמב"ם בחבורו. ואולי משום דזיל קרי בי רב הוא. (ועמש"כ בס"ד בס' נת"ע בהשמטה דף קי"א). והא דבארה דין דעדים שם פ"ו מ"ד. הוא לשני דברים א'. לאשמעינן דד"ז נוהג בכל הנסקלין אף שבתורה לא בא אלא בעובד ע"ז. ב'. להורות לנו דא' מן העדים דוחפו כו':
+
+
+
+## Daf 31b
+
+###### Rashash on Nazir 31b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/31b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/31b:1)
+
+
+**במשנה אמרו ב"ה לב"ש אי אתם מודים בכזה שהוא הקדש טעות כו'.**עי' תד"ה נשאל וד"ה אמרו. ולעד"נ דכמו דמפרשינן טעמייהו דב"ש התם דאע"ג דאמר שחור אמרינן דדעתו היה להקדיש ל"ש שחור ול"ש לבן שיצא ראשון והאי דקאמר שחור לפי שטעה והיה סבור שהשחור יצא ראשון כמש"כ התוס' לעיל ד"ה כיצד. ה"נ נאמר דדעתו היה להקדיש הבהמה אם לנזירותו אם לנדבה והא דקאמר לנזירותו לפי שטעה והיה סבור שהוא נזיר. ואף אם הפריש הג' בהמות ואמר הרי הן לנזירותי והרי בתוכן יש אחת שהיא לחטאת שאינה באה בנדבה. יל"פ דכוונתו דאם אינו נזיר תהיה לשלמי נדבה. גם י"ל דמיירי שלא הפריש אלא שתים לעולה ולשלמים. או שלא הפריש אלא אחת עתוי"ט מ"ד ד"ה והלך:
+
+
+
+## Daf 32a
+
+###### Rashash on Nazir 32a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/32a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/32a:1)
+
+
+**רש"י ד"ה ה"מ. אבל אם הפריש בהמה לצורך תמורת עולה כו'.**עי' מל"מ פ"א מהל' תמורה שתמה על פירושו:
+
+
+
+## Daf 32b
+
+###### Rashash on Nazir 32b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/32b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/32b:1)
+
+
+**תד"ה ואם לאו. שאלמלי כו'.**צ"ל ביו"ד בסוף:
+
+
+###### Rashash on Nazir 32b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/32b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/32b:2)
+
+
+**גמרא מי שלא נתקיימו דבריו אמאי הוי נזיר כו'.**לפי מה שפי' המפרש לעיל (ל"א רע"ב) כוונת משנה זו דר"ל דשנים היו מתוכחים באותו שבא כנגדו א' אומר שזה ראובן. והב' אומר שאינו ראובן והריני נזיר אם הוא ראובן. הוה א"ש בפשיטות לישנא דמתניתין מי שלא נתקיימו דבריו דר"ל דבריו הראשונים שאמר שאינו ראובן. ואם הוא ראובן הרי ל"נ דבריו ולכן הוה נזיר שהרי אמר הריני נזיר אם הוא ראובן. וכן תפרש כולם על דרך זה. ונראה שלזה כוון הרמב"ם בפירושו אלא שקיצר במובן. אבל ק"ל על פי' זה דהלא זה הוא נדרי שגגות שהתירו חכמים כמו אם אכלתי כו' בנדרים (כה ב) במשנה. ושם בגמרא הדין אמר שבועתא דהכי אמר רב כו' ומוכח שם בפי' הר"ן דאי תלי בזה איסור פירות נמי שרי. אלא ודאי פי' התוס' עיקר ומקשה הגמרא שפיר:
+
+
+
+## Daf 33a
+
+###### Rashash on Nazir 33a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/33a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/33a:1)
+
+
+**תד"ה ראה את הכוי. ואותו שאמר שזה חיה הוי ספק נזיר.**כצ"ל:
+
+
+###### Rashash on Nazir 33a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/33a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/33a:2)
+
+
+**בא"ד וכן כו' שאין אחד מכם נזיר משמע אם יש אחד מכם שאינו נזיר ומשמע שידע בעצמו כו'.**כ"נ דצ"ל:
+
+
+###### Rashash on Nazir 33a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/33a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/33a:3)
+
+
+**תד"ה וב"ה הנ"מ**(בסופו). ה"נ איגליא מלתא כלומר במשנתינו כ"כ. הוא ר"ת כמו כן:
+
+
+
+## Daf 33b
+
+###### Rashash on Nazir 33b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/33b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/33b:1)
+
+
+**תד"ה אבל פותחין. אילו באו עשרה בנ"א שיפייסוך כו'.**הוא בנדרים (כא ב):
+
+
+
+## Daf 34a
+
+###### Rashash on Nazir 34a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/34a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/34a:1)
+
+
+**במשנה ראה את הכוי כו' הרי כולם נזירים.**התוס' לעיל (לג) פי' דכולה ר"ש היא. והתוי"ט לא נתחוור בזה ולעד"נ דאתיא אפילו לר"י דע"כ ל"ק דלא מחית לספיקא אלא אם בשעה שנדר עמד הדבר להתברר מיד כמו גבי כרי אם לא אירע בו מקרה הגניבה. וכן גבי אחד בא כנגדן אם לא היה נרתע לאחוריו. משא"כ כוי שגם חז"ל לא הכריעו בו ואינו עומד להתברר עד שיבוא אליהו. איך נאמר שכיון על ברורו כיון שא"א. וע"כ היתה כוונתו על ספיקו. ולפ"ז נוכל לומר שכוונת המשנה על נזירות ודאית כפשטה והוא כעין פי' הרמב"ם:
+
+
+###### Rashash on Nazir 34a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/34a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/34a:2)
+
+
+**תד"ה הרתיע. אילימא ר"ט מי הוה נזיר.**כצ"ל כלישנא דגמרא:
+
+
+###### Rashash on Nazir 34a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/34a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/34a:3)
+
+
+**תד"ה שלשה. והיוצא מה"ג דכתיב ענבים כו'.**טפי ה"ל לאתויי קרא דמכל אשר יעשה מגפן היין כו' לא יאכל:
+
+
+
+## Daf 34b
+
+###### Rashash on Nazir 34b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/34b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/34b:1)
+
+
+**תד"ה מיין ושכר יזיר מיעט. אע"ג דדרשינן כו'.**ק"ק דנקטי הדרשות לר"ש דשם ולא לחכמים וי"ל:
+
+
+
+## Daf 35a
+
+###### Rashash on Nazir 35a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/35a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/35a:1)
+
+
+**תד"ה ור"א. א"נ אומר ר"י דע"כ כו'.**זהו הגהת האו"מ. אבל ל"נ להגיה אומר ר"ת כדמוכח בדבריהם לקמן ע"ב בד"ה איכא:
+
+
+###### Rashash on Nazir 35a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/35a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/35a:2)
+
+
+**תד"ה רבא**(בסופו). דסתם כבש משמע בן שנה. בקרא כתיב הכשבים. רק דמשמע להו דאין חילוק בין כבש לכשב דשניהם משמעותם בני שנה וכ"כ הרמב"ם בהקדמתו לסדר קדשים בד"ה והנני אומר. אולם אני הוכחתי במק"א (ועמש"כ בפסחים סט ב) דדוקא כבש הוא בן שנה אבל כשב הוא כולל המין כולו בן שנה ובן שתים ולמעלה:
+
+
+
+## Daf 35b
+
+###### Rashash on Nazir 35b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/35b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/35b:1)
+
+
+**תד"ה מכדי תרי. וכן נמי כו' פרטא בתרא דוקא כו' ואהני פרטא קמא לרבות כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 35b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/35b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/35b:2)
+
+
+**תד"ה איכא. דאין לו לריבוי שאחריו לרבות כולי האי.**כצ"ל:
+
+
+
+## Daf 36a
+
+###### Rashash on Nazir 36a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/36a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/36a:1)
+
+
+**תד"ה ארבב"ח. וה"ג והוינן בה מקום מגעו אמאי פסול הא לא הוי כביצה.**וע"ע לשונם לקמן ע"ב בד"ה א"ל לא. וק"ל נימא טיט הנרוק יוכיח כדמייתי מיניה בסוכה (יט) לענין אויר פחות מג"ט דאיצטרופי מצטרף והוא עצמו אינו כשר וע"ש בתוס':
+
+
+
+## Daf 36b
+
+###### Rashash on Nazir 36b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/36b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/36b:1)
+
+
+**תוס' בד"ה וכזית. ה"מ לאוכל חלב שהוא בעיניה.**כצ"ל:
+
+
+
+## Daf 37a
+
+###### Rashash on Nazir 37a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/37a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/37a:1)
+
+
+**תד"ה שאין. דתנן מערבין לנזיר ביין.**כצ"ל:
+
+
+
+## Daf 37b
+
+###### Rashash on Nazir 37b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/37b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/37b:1)
+
+
+**גמרא משום דנזיר מקדשים לא ילפינן.**נ"ל דאף לב"ש דילפי נזירות טעות מהקדש טעות כדלעיל (ט. לא). ה"מ לענין חלות נזירות עליו משום דהוא נקרא ג"כ קדוש כקרבן. אבל היוצא מן הגפן שנאסר עליו לא מצינו בקרא שיקרא קודש לגביה:
+
+
+
+## Daf 38a
+
+###### Rashash on Nazir 38a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/38a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/38a:1)
+
+
+**רש"י ד"ה נזיר רביעית שמן לנזיר. לחלות ולרקיקי נזיר.**כ"נ דצ"ל:
+
+
+###### Rashash on Nazir 38a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/38a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/38a:2)
+
+
+**רד"ה בר מינה דההיא. כדאמרי' בחגיגה כו' אלמא לכל מילי בעינן מקוה של מ' סאה.**הוא כפרש"י שם ולא טבלו המחטין אלא במיעוט מים שבכלי. דמשמע דמשום מיעוט מים נגעו בה דהיינו שאין בהם מ' סאה. אבל יל"פ שם דהפסול הוא מחמת שאין טובלין בתוך כלים והוא מדאורייתא לכ"ע כדאיתא בתוס' פסחים (יז ב) ד"ה אלא:
+
+
+
+## Daf 38b
+
+###### Rashash on Nazir 38b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/38b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/38b:1)
+
+
+**רש"י ד"ה רבא אמר. וכן נמי למתניתא דתני לחייב כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 38b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/38b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/38b:2)
+
+
+**תד"ה חמרא חדתא. בתרי לאוין דכתיב מיין ושכר יזיר כו'.**תימה דהלא זה אינו אלא עשה:
+
+
+
+## Daf 39a
+
+###### Rashash on Nazir 39a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/39a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/39a:1)
+
+
+**רש"י ד"ה א"ר פפא. משום דלא נהירא לי מלתא.**כצ"ל:
+
+
+###### Rashash on Nazir 39a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/39a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/39a:2)
+
+
+**תד"ה ושיירו בו. שיעורא בעלמא הוא כו' ובכך יש חשיבת שער.**לקמן מוקי להברייתא דתני בה דאם שיירו בו כדי לכוף כו' אינו סותר כר' אליעזר. ולכאורה קשה דהא האי שיעורא דכדי לכוף ר"י הוא דאמרה בנדה (נב ב) במשנה לענין חשיבת שער. אבל ר"א ס"ל שם דשיעורא בכדי לקרוץ בציפורן. ואולי להכי דקדקה המשנה שם לומר שתי שערות. והאמורות בכ"מ. ולא אמרה סתם שערות האמורות כו'. הוא להורות לנו דדוקא במקום שהשיעור הוא בב' שערות הוא דפליגי לאפוקי הכא לענין סתירה דנזירות דהויא ברוב ראשו אף לר"א השיעור בכדי לכוף וכמו שבאר הש"ס לקמן דיליף מתגלחת טומאה כו':
+
+
+
+## Daf 39b
+
+###### Rashash on Nazir 39b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/39b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/39b:1)
+
+
+**תד"ה ת"ר. אבל בקוצץ מעיקרו כו' כדתני באידך ברייתא כו'.**כצ"ל:
+
+
+
+## Daf 40a
+
+###### Rashash on Nazir 40a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/40a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/40a:1)
+
+
+**תד"ה רבי. והוי כאילו כתיב תער לא יעבור ולא יעבור כו'.**עמש"כ כיוצא בזה בק"א להט"א בסוף ר"ה בד"ה מאי עבידתיה:
+
+
+
+## Daf 40b
+
+###### Rashash on Nazir 40b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/40b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/40b:1)
+
+
+**רש"י ד"ה דתניא זקנו. והלא כל שערו כתיב כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 40b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/40b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/40b:2)
+
+
+**בסה"ד ת"ל יגלח זקנו.**כצ"ל. וכן לקמן ובתוס' במקום וגלח צ"ל יגלח:
+
+
+###### Rashash on Nazir 40b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/40b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/40b:3)
+
+
+**תד"ה ומ"ט דרבנן. ועי"ל כו' דנפקא להו מראשו דדחי כו'.**כצ"ל:
+
+
+
+## Daf 41a
+
+###### Rashash on Nazir 41a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/41a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/41a:1)
+
+
+**רש"י ד"ה ותו. וקא מקיים לל"ת דופאת זקנם לי"ג כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 41a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/41a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/41a:2)
+
+
+**רד"ה ור"א מ"ט. להא דתני לעיל דמצורע יליף מדינא כו'.**וכן התוס' לעיל בד"ה והאי תנא. קרו לה ברייתא. ומפורש יותר בדבריהם כאן ד"ה ראשו. וכ"מ לישנא דרבא ב"מ האי תנא מעיקרא כו' והדר אמר נילף מדינא כו'. וצ"ע דלעיל משמע דכ"ז הוא שקלא וטריא דבני הישיבה:
+
+
+
+## Daf 41b
+
+###### Rashash on Nazir 41b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/41b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/41b:1)
+
+
+**תד"ה ואיצטריך. כדאמר בעלמא כו' זה המשוה צדעיו כו'.**הוא במכות (כ ב):
+
+
+###### Rashash on Nazir 41b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/41b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/41b:2)
+
+
+**תד"ה ואי כתב. ועוד כיון דגלי כו'. ה"ה שידחה ב' לאוין כו'.**פה מצאתי ישוב למה שהעליתי בפסחים (מז ב) דבריהם דשם בצ"ע. אבל לקמן (ס"ד מ"ח) מוכח דרק רי"ש אית ליה האי סברא ור"ע ל"ל. וכ"כ התוס' שם בסוף הסוגיא:
+
+
+
+## Daf 42a
+
+###### Rashash on Nazir 42a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/42a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/42a:1)
+
+
+**תד"ה מתקיף. וברייתא משתמעה כו'.**עמש"כ בס"ד בנדרים (כו) בד"ה איתיביה. ועי' לקמן (מג א) בד"ה א"כ וד"ה ולמ"ד:
+
+
+
+## Daf 42b
+
+###### Rashash on Nazir 42b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/42b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/42b:1)
+
+
+**גמרא כאן בחיבורי אדם באדם כו'.**עי' במפרש ותוס'. ולע"ד נל"פ חיבורי אדם באדם היינו אדם הנוגע באדם שנטמא במת ופירש שהוא טמא טומאת ערב. אם נגע בו אדם (בעודו נוגע בט"מ) אותו הג' אינו טמא אלא לתו"ק. אבל נזיר אינו טמא כלל. ונ"מ דגם אותו היום עולה לו למנין נזירות אף בלא טבל (עי' לקמן (נד ב) תד"ה ואינו סותר בסופו ובש"מ בשם הרא"ש) וכן לעושי פסח לא העמידו דבריהם במקום כרת. וחיבורי אדם במת הוא כפי' התוס'. ואל תקשה עלי מהא דתנן פ"ה דזבים מ"י הנוגע כו' ובטמא מת מטמא אחד ופוסל אחד. והיינו אפי' לא פירש כמש"כ הרע"ב ומוכרח הוא שם. ולדידי כיון דמטמא אדם לתו"ק איך יתכן שהאוכלים שנגעו בו לא יהיו אלא שניים אף לתרומה וכקושיית הכ"מ שהביא התוי"ט שם. די"ל דשם איירי לדינא דאורייתא וכמש"כ הר"ש הבאתיו שמה ברה"פ ונכון בס"ד:
+
+
+###### Rashash on Nazir 42b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/42b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/42b:2)
+
+
+**רש"י ד"ה והא אמר רי"צ כו'. אם אדם נוגע ידו במת ואוחז בו.**ז"פ דבנגיעה קצת סגי ואף בגופו. ומש"כ ואוחז בו ר"ל דבשעה שידו אחרת נגעה בחבירו עדיין היתה ידו הראשונה אחוזה בנגיעת המת:
+
+
+###### Rashash on Nazir 42b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/42b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/42b:3)
+
+
+**תד"ה בחבורי. פר"י שהג' הנוגע בנוגע בנוגע במת כו'.**כן העתיק המל"מ בפ"ה מהל' ט"מ ה"ב. ועי' מהרש"א בב"מ (קה ב) בתד"ה על:
+
+
+
+## Daf 43a
+
+###### Rashash on Nazir 43a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/43a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/43a:1)
+
+
+**גמרא למ"ד במותם עד שימות אין גוסס לא.**ובתד"ה עד שעה מוכח דממעט ג"כ מגוייד. וק"ל מהא דפרש"י בב"ק (מב ב) ד"ה מ"ט אע"ג דכתיב והמית נימא כיון שאמדוהו למיתה כו'. ובספרי פ' חוקת פיסקא קכ"ה אשר ימות מגיד הכתוב שאין מטמא עד שימות. ודרשתם הוא מיתורא דהא כבר כתיב ברישא דקרא הנוגע במת ע"ש דכן מוכח וכ"פ הז"א. משמע ג"כ דממת לחודיה לא הוה ידעינן זה. ונראה דהכא נמי במותם מיותר דהא כבר כתיב בקרא דלפניו על נפש מת לא יבוא. וכ"כ התוס' לקמן (ר"ד מח) ע"ש:
+
+
+###### Rashash on Nazir 43a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/43a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/43a:2)
+
+
+**תד"ה א"כ נימא. והתם כו' דייק מהך ברייתא.**והגיהו דצ"ל מתניתין. וכן בדבור הסמוך. ועיין מה שציינתי לעיל (מב) בד"ה מתקיף:
+
+
+
+## Daf 43b
+
+###### Rashash on Nazir 43b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/43b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/43b:1)
+
+
+**בתוספות**(בסה"ע). ההיא נמי כר"א בר יעקב. כ"נ דצ"ל או דצ"ל כר' יהודה:
+
+
+
+## Daf 44a
+
+###### Rashash on Nazir 44a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/44a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/44a:1)
+
+
+**במשנה ותגלחת מצוה.**עתוי"ט בשם הרמב"ם דבגילח עובר ג"כ בעשה דכל היוצא מפיו יעשה. ולכאורה הו"ל להביא ג"כ הל"ת דלא יחל שכ' שם הרמב"ם דלוקה עליו בפ"ע לבד מה שלוקה על הל"ת דתער ל"י על ראשו. ובמש"כ התוס' לעיל (מא ב) בד"ה ואי כתב דאין סברא לחלק בין לאו אחד לשנים לענין דחייתם מפני עשה. מיושבים דבריו:
+
+
+###### Rashash on Nazir 44a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/44a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/44a:2)
+
+
+**גמרא ויין יותר מכללו כו' מה טומאה שהיא סותרת הותרה כו'.**ק"ל לר"ע דס"ל בסוטה (ג) דלה יטמא מצוה א"כ חזינן דאף טומאה לא הותרה מכללה לצורך מצוה. ומת מצוה שאני דהוא דוחה גם עבודה מולאחותו ומצוה כזו לא אשכחן גבי יין. ודוחק לומר דסוגיא זו אזלא אליבא דר"י דס"ל לה יטמא רשות. ועי' ש"א סי' ס':
+
+
+
+## Daf 44b
+
+###### Rashash on Nazir 44b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/44b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/44b:1)
+
+
+**במשנה ואינו מביא קרבן אא"כ היה מעו"ש.**עתוי"ט שכ' דאף לפי' התוס' דזה קאי על מצורע שגלח בח'. מ"מ יל"פ גם אנזיר אם לא טבל עד יום ח'. וזהו שכתב הרמב"ם בחבורו דאם נתאחר בטבילתו כמה ימים יעריב שמשו ויביא קרבנותיו למחר והכ"מ לא כתב מנין לו כו'. ונראה דגם הכ"מ כיון לזה במה שהביא בהל' י"א סיום דר"ע ואינו מביא כו' ללא צורך שמה אם לא לבאר בזה הא דאם נתאחר בטבילתו כו' שבהל' י"ג. אבל תמוה מאד יגיעתו למצוא מקור לד"ז מהמשנה. דהלא בהדיא מוקי רבא להא דתני הלל מביא קרבנותיו בט' בלא טבל בז':
+
+
+###### Rashash on Nazir 44b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/44b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/44b:2)
+
+
+**רש"י ד"ה אלמא קסבר. דכי היכי דזב אסור ליכנס במחנה לויה דהיינו בעזרה כו'.**ע"כ צ"ל דר"ל עזרת נשים או משום דעומד בשער ניקנור כדלקמן שהוא שער עזרת ישראל קרי ליה עזרה. אבל מ"מ הלשון אינו מדוייק דהא זב אסור בכל הר הבית:
+
+
+###### Rashash on Nazir 44b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/44b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/44b:3)
+
+
+**תד"ה א"ל ר"ט. שנאמר בפ' מצורע כו' וכבס את בגדיו ורחץ את בשרו במים כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 44b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/44b:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/44b:4)
+
+
+**בא"ד וא"כ הוי טבו"י אם אחר לגלח עד ח' כו'.**כצ"ל:
+
+
+
+## Daf 45a
+
+###### Rashash on Nazir 45a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/45a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/45a:1)
+
+
+**במשנה היה מביא ג"ב חטאת עולה ושלמים.**מש"כ התוי"ט דכן הם כתובים בפ' בין בהבאה כו'. ל"ד דבהבאה כתיבא עולה ברישא. ולקמן בא"ד דק שפיר לכתוב שהרי בפרשה כך הם סדורים בעשייה:
+
+
+###### Rashash on Nazir 45a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/45a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/45a:2)
+
+
+**רש"י ד"ה רי"א א"צ. לומר מסברא שאסור דרך בזיון.**כצ"ל:
+
+
+
+## Daf 45b
+
+###### Rashash on Nazir 45b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/45b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/45b:1)
+
+
+**רש"י ד"ה רמ"א. בין טמא שגלח בעזרה.**לכאורה לפי שיטתו לעיל בהיפוך הדף בד"ה ה"ג לעולם. נזיר טמא בעזרה מאי בעי דאפי' במחנה לויה אסור:
+
+
+###### Rashash on Nazir 45b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/45b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/45b:2)
+
+
+**שם ואין לך שאינו משלח תחת הדוד אלא הטמא כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 45b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/45b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/45b:3)
+
+
+**רד"ה מ"ט. ואם טמא הוא טעון שילוח תחת זבח כו'.**ר"ל לאפוקי תחת החטאת שאינה זבח. אבל בתוספתא פ"ד איתא בדר"מ הטמא שבמקדש משלח תחת הדוד של חטאת ושל אשם:
+
+
+###### Rashash on Nazir 45b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/45b:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/45b:4)
+
+
+**במשנה נוטל את הזרוע כו' וחלת כו' ומניפן.**וכן העתיק הרמב"ם בפ"ח מהנ"ז ה"ד. ותמיהני מדוע השמיטו האימורין וחזה ושוק שהוזקקו ג"כ עמהם בתנופה כמש"כ הרמב"ם בפ"ט מהל' מעה"ק ה"ט ע"ש בכ"מ ועי' לקמן (נט ב) תד"ה ארנב"י:
+
+
+
+## Daf 46a
+
+###### Rashash on Nazir 46a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/46a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/46a:1)
+
+
+**במשנה רש"א כיון שנזרק כו'.**ופסק הרמב"ם בפ"ח מהנ"ז ה"ה כוותיה. והתוי"ט שמח שמצא טעם נכון לפסקו משום דרבי שנה בסה"פ דבריו בלשון חכמים. ועל חנם שמח שהרי לקמן (סג) סתם כר"א כדאריו"ח שם והיא בתרייתא ועי' לח"מ:
+
+
+###### Rashash on Nazir 46a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/46a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/46a:2)
+
+
+**תד"ה והתניא. וקס"ד כו' שלא לעכב התנופה ולהקס"ד דהכי פירושו ע"כ לאו רבנן כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 46a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/46a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/46a:3)
+
+
+**תד"ה ואלא. ותפרש דכוון להשוות כו'.**כצ"ל. והוא לשון כוונה:
+
+
+###### Rashash on Nazir 46a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/46a:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/46a:4)
+
+
+**תד"ה אי אליבא דר"א כו'.**עי' ב"ר. ובסה"ד צ"ל וכדשני לל"ק:
+
+
+###### Rashash on Nazir 46a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/46a:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/46a:5)
+
+
+**תד"ה ומי לא מעכבא. וס"ל להאי לישנא כו' לב"ש להשוות אין לו ליש לו שהממורט יעביר תער על ראשו.**לכאורה תמוה דהא בש"א א"צ להעביר תער ע"ר. וצ"ל דכלפי דאמרו ב"ה צריך כו' ור"ל דצריך להעביר תער לגלח שער דוקא וזה דאין לו שער אין לו תקנה. ע"ז אמרו ב"ש דא"צ להעביר תער לגלח שער אלא יעביר התער על ראשו הנקרח ודוחק. ולע"ד נל"פ דב"ש דרשי זאת תורת הנזיר תורה אחת לכל הנזירים דיש להם תקנה לשתות יין ולהטמא למתים אף למי שאין לו שער. וכן לגבי תנופה אף למי שאין לו כפים להניף. אף דמי שיש לו תרוייהו מעכבי כר"א. דומה למש"כ הרא"ש בפ' לולב הגזול סי' י"ד דכל הפסולין בד' מינים דאע"פ שגם בדיעבד לא יצא בהו. מ"מ בשעת הדחק שאין לו כשרים מברכין עליהן לכתחלה גם ביום ראשון דאורייתא ויוצאין מה"ת ודלא כק"נ שם:
+
+
+###### Rashash on Nazir 46a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/46a:6](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/46a:6)
+
+
+**בא"ד כמאן דכתיב חוקה דמי ובהך שמעתין מוקמי לה כר"א כו'.**כצ"ל:
+
+
+
+## Daf 46b
+
+###### Rashash on Nazir 46b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/46b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/46b:1)
+
+
+**רש"י ד"ה והתניא נזיר ממורט. א"צ להעביר תער על ראשו.**כצ"ל:
+
+
+###### Rashash on Nazir 46b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/46b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/46b:2)
+
+
+**רד"ה ור"א דתניא. אר"א לעולם כו' והכי אמרי ב"ש א"צ להעביר תער על ראשו דעדיין לא יהא מותר.**כצ"ל:
+
+
+###### Rashash on Nazir 46b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/46b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/46b:3)
+
+
+**במשנה רד"ה ונמצא פסול. וזבחיו שהפריש כו' וצריך להביא אחרים במקומן.**עמש"כ לקמן בס"ד:
+
+
+
+## Daf 47a
+
+###### Rashash on Nazir 47a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/47a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/47a:1)
+
+
+**גמרא הנ"מ דקתני וחכ"א יביא שאר קרבנותיו ויטהר.**כצ"ל:
+
+
+###### Rashash on Nazir 47a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/47a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/47a:2)
+
+
+**רש"י ד"ה ענין אחר. אלא אף אותו שהפריש תחלה צריך להחליף כו'.**אולי טעמו מפני שהיו נראין היום ונדחו כשנטמא לכן אינן חוזרים ונראים וכמו שאריו"ח כה"ג בזבחים (יב ב) משא"כ לרבנן דכיון שנזרק א' מן הדמים הותר לשתות יין ולהטמא ג"כ רק לכתחלה א"י להטמאות מפני שהקפידה תורה שיביא קרבנותיו בטהרה לכן לא מיקרי דחוי:
+
+
+###### Rashash on Nazir 47a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/47a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/47a:3)
+
+
+**במשנה יטמא נזיר שאין קדושתו ק"ע ואל יטמא כהן שקדושתו ק"ע.**התוס' והתוי"ט נדחקו בזה ועי' או"מ. ולעד"נ דקדושת עולם דכאן פירושו לדורות עולם. כדכתיב והיתה כו' לכהונת עולם לדורותם (שמות מ' ט"ו). ועוד קראי טובא. משא"כ נזיר אף שהוא יכול להיות נזיר עולם אינו מוריש קדושתו לדורותיו אחריו:
+
+
+###### Rashash on Nazir 47a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/47a:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/47a:4)
+
+
+**תד"ה וכן. והשתא כו' אלא עובד בח' בגדים כו' דת"ר כו' משיח**(כצ"ל) כו' ת"ל כו'. וע"ש דדרשה זו אינה אלא לר"מ. ועמש"כ בס"ד ביומא (יב):
+
+
+###### Rashash on Nazir 47a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/47a:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/47a:5)
+
+
+**בא"ד וקשה דא"כ הל"ל משיח חזי לעבודה כו'.**ותירוצם דחוק. ולפי מה שהוכחתי במגילה (ט ב) בס"ד. דכהן שעבר אף אם יארע עוד הפעם פסול בכה"ג אינו ראוי לשמש תחתיו אלא ממנים אחר ודלא כהט"א. בקל מ"ל משוח ומרובה בגדים בזמן אחד בששניהם עוברים ועי' או"מ. ובזה יל"פ הא דלקמן משוח שעבר ומרובה בגדים בכה"ג ובמצאו המת מצוה ביוה"כ עצמו כמש"כ בהג"ה לקמן:
+
+
+
+## Daf 47b
+
+###### Rashash on Nazir 47b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/47b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/47b:1)
+
+
+**גמרא עבר מחמת קירויו ועבר מחמת מומו כו'.**נ"פ דד"ז שייך נמי בכהנים הדיוטים:
+
+
+###### Rashash on Nazir 47b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/47b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/47b:2)
+
+
+**תד"ה מרובה. והשתא שניהם כו' מרובה בגדים עדיף שעביד עבודה כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 47b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/47b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/47b:3)
+
+
+**תד"ה ת"ש. וסגן עובד בבגדים כמו הדיוט כמו שעובד ביוה"כ כו'.**האו"מ תמה דהא ביוה"כ יש עבודות שנצרך לח' בגדים דוקא. ולפמש"כ ביומא (יב) בד"ה רש"י מיושב תמיהתו:
+
+
+###### Rashash on Nazir 47b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/47b:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/47b:4)
+
+
+**תד"ה למה. מימינו פי' לימינו.**ר"ל לאפוקי שלא תפרש שהוא לשון מינוי וכדאיתא הגירס' בסוטה למה סגן ממונה. וכן רש"י ביומא מביא גירסא זו:
+
+
+
+## Daf 48a
+
+###### Rashash on Nazir 48a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/48a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/48a:1)
+
+
+**תד"ה אין לי. וס"ל דגמר אחוה אחוה מבני יעקב כו'.**ק"ל דהא התם ביבמות פריך ולילף מעריות ומשני דנין אחים מאחים ואין דנין אחים מאחיך כו' עד מדדמי ליה ילפינן. והכא לתרוייהו ל"ד. ואדרבה טפי דמי לאשת אח דבפ' קדושים כתיב לישנא דאחיו ב"פ והכא נמי כתיב ולאחיו. אך לפי מה שהביאו התוס' בריש יבמות מהת"כ ומהירושלמי דקרא דקדושים מיירי דוקא מאשת אח מאביו איכא למימר דבאמת יליף מהתם דדמי ליה אך דברי התוס' עדיין אינם מיושבים. ועוד תימה דאישתמיט לכתה"ג הת"כ במקומו דדריש מהיקשא דלבנו ובתו שהוא יורשם אף אחיו ואחותו שהוא יורשם. הביאו הרי"ף והרא"ש בהלק"ט:
+
+
+###### Rashash on Nazir 48a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/48a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/48a:2)
+
+
+**בא"ד ול"ל האי צריכותא דלקמן כו' דל"ל הנך סברות דלקמן כו'.**ק"ק דהרי האי תנא קאמר נמי דמשפחת אביו עדיפא מהא דכה"ד דמטמא לאחיו מן האב כו'. וא"כ אי לא כתיב לאביו ה"א דלאמו אתי למעוטי אביו דמיטמא ליה. וי"ל:
+
+
+
+## Daf 48b
+
+###### Rashash on Nazir 48b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/48b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/48b:1)
+
+
+**תד"ה האי**(שבע"א). וי"ל אליבא דרי"ש קי"ל דא"ל בפ' המפלת כו' למדין ומשיבין. עי' לקמן בגה"ש שבעמוד:
+
+
+###### Rashash on Nazir 48b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/48b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/48b:2)
+
+
+**ד"ה ולאחותו כדתניא. כדעביד לקמן צריכותא לר"ע כו'.**כצ"ל:
+
+
+
+## Daf 49a
+
+###### Rashash on Nazir 49a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/49a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/49a:1)
+
+
+**תד"ה ומשני. ועל נפש מת ל"י דמוקי ליה לקרובים.**כצ"ל:
+
+
+###### Rashash on Nazir 49a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/49a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/49a:2)
+
+
+**בא"ד ונראה למהר"ף דלר"ע דדריש מנפש מת דנזיר כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 49a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/49a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/49a:3)
+
+
+**בא"ד וכיון דהוי מטעם כו"פ כו' א"כ אפי' בק"ו נמי לא כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 49a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/49a:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/49a:4)
+
+
+**בא"ד הילכך תו ליכא למידייניה בכו"פ כו' כגון אמו כמו לר"ע כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 49a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/49a:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/49a:5)
+
+
+**בא"ד אינו מכח הפסוק עצמו דכ"ג אלא מכ"ה כדפרישי' לעיל.**כצ"ל:
+
+
+###### Rashash on Nazir 49a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/49a:6](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/49a:6)
+
+
+**בא"ד ותו לא מידי כ"ז לשון מהר"ף.**כצ"ל:
+
+
+
+## Daf 49b
+
+###### Rashash on Nazir 49b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/49b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/49b:1)
+
+
+**במשנה על מגען כו'.**כצ"ל בל"ו:
+
+
+###### Rashash on Nazir 49b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/49b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/49b:2)
+
+
+**תד"ה ועל השדרה. ואע"פ שאין עליהם בשר וכו'.**כצ"ל:
+
+
+###### Rashash on Nazir 49b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/49b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/49b:3)
+
+
+**תד"ה ועל ח"ק עצמות**(בסופו). מדלא קתני להו בפ"ב דאהלות. כצ"ל:
+
+
+###### Rashash on Nazir 49b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/49b:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/49b:4)
+
+
+**תד"ה כך**(בסופו). דכש"כ דמכזית מה"מ וכו'. כוונתם במלת וכו' הוא על אבר מה"מ דקתני דגם ממנו פריך לקמן על אבר ממנו מגלח על כולו לא כש"כ:
+
+
+
+## Daf 50a
+
+###### Rashash on Nazir 50a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/50a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/50a:1)
+
+
+**גמרא הניחא למ"ד כו' אלא למ"ד כו' מא"ל.**כהאי לישנא בכה"ג איתא ביומא (עח) תינח ביוה"כ כו' תינח מנעל סנדל מא"ל. וכ' רש"י שם דל"ג התינח כו' וע"ש בר"ן:
+
+
+###### Rashash on Nazir 50a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/50a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/50a:2)
+
+
+**רש"י ד"ה או דלמא. דלא אצטריך כו' אי אית ליה נצל כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 50a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/50a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/50a:3)
+
+
+**רד"ה אלא למ"ד. אכתי מטמא בכזית כנבלה.**כצ"ל:
+
+
+###### Rashash on Nazir 50a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/50a:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/50a:4)
+
+
+**תד"ה ת"ש. דמש"ה לא נפסל מלאכול לכלב.**למ"ד דט"ח עד לגר ע"כ לא נפסל אף מלאכול לאדם. ואולי דט"ס הוא וצ"ל לאדם. ובסה"ד הסמוך שכ' ג"כ וראוי אכתי לכלב לא קשיא דהתם אזלי למ"ד עד לכלב:
+
+
+###### Rashash on Nazir 50a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/50a:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/50a:5)
+
+
+**תד"ה חוץ. כלומר כמו שרודה אותו כו'.**כצ"ל:
+
+
+
+## Daf 50b
+
+###### Rashash on Nazir 50b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/50b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/50b:1)
+
+
+**תד"ה יש ניצוק**(בסופו). אבל לב"ש לא קמב"ל כו'. א"כ טעמייהו משום רירי. ולכאורה נראה מלישנא דב"ש דאמרי אף כו' דמודו בהא דאמר ת"ק אלא שמוסיפין ע"ד. ואי טעמא דת"ק משום דסמיכי גם ב"ש מודו ליה ומוספי אף דאינן סמיכי רק דאית בהו רירי ג"כ הוי חבור וכ"מ בדברי התוס' עצמם לקמן בד"ה מידי איריא. ואולי כוונתם דל"ת דהאי בעיא אינה אלא לב"ש הואיל דמוספי מקפה כו':
+
+
+###### Rashash on Nazir 50b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/50b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/50b:2)
+
+
+**תד"ה ת"ש אף כו'. אלמא טעמא דב"ש כו'.**כצ"ל:
+
+
+
+## Daf 51a
+
+###### Rashash on Nazir 51a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/51a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/51a:1)
+
+
+**תד"ה והא ליכא. ולא כו' דה"ק מן הבשר כו'.**כצ"ל:
+
+
+
+## Daf 51b
+
+###### Rashash on Nazir 51b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/51b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/51b:1)
+
+
+**גמרא לא אם אמרת במת כו' ורובע ומלא תרווד רקב.**כצ"ל. ובמשנה הגי' ורקב לחודי' והיא גי' יותר נכונה:
+
+
+###### Rashash on Nazir 51b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/51b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/51b:2)
+
+
+**תד"ה מיתיבי. רוב ורובע ומלא תרווד רוב פי' כו'.**כצ"ל. ור"ל רוב דקתני פי' רוב בנין כו':
+
+
+
+## Daf 52a
+
+###### Rashash on Nazir 52a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/52a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/52a:1)
+
+
+**גמרא ת"ש שדרה שגירד כו'.**היא בתוספתא דאהלות פ"ב:
+
+
+
+## Daf 52b
+
+###### Rashash on Nazir 52b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/52b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/52b:1)
+
+
+**גמרא ב"ש אומרים רוב עצמות מן העצמים**(ר"ל דבזה הלשון היתה הלכה ולכן) או משנים כו' דמיעוט עצמות שנים. ובה"א רובע מן הגויה (ר"ל ג"כ דבזה הלשון היתה הלכה ולכן בעינן) מרוב הבנין כו'. וכן מצינו לריב"נ בספ"ב דאהלות דדקדק מלשון הלכה לא אמרו עצמות אלא עצם. ופי' הרמב"ם בעדיות במשנה זו לא נתחוור בעיני:
+
+
+###### Rashash on Nazir 52b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/52b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/52b:2)
+
+
+**תד"ה ואב"א**(בסופו). ובא ר"ש לומר כרבי. משמע דר"ש ג"כ לא אמר אלא על רביעית דם אבל בהשאר מודה שחזר בו. אבל בתוספתא דאהלות פ"ד ליתא כלל לדברי רבי אלא תיכף אחר דברי ר"י נשנה דר"ש ומשמע דאכולהו פליג:
+
+
+
+## Daf 53a
+
+###### Rashash on Nazir 53a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/53a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/53a:1)
+
+
+**תד"ה י"מ כו'**עד דה"ל מכריע צ"ל לקמן אחר תיבת וקדשים וצ"ל וי"מ בו'. וכאן צ"ל ד"ה והא אין דעת שלישית כו' דלקמן:
+
+
+###### Rashash on Nazir 53a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/53a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/53a:2)
+
+
+**בא"ד ופריך והא אין הכרעת שלישית מכרעת בתרה.**כצ"ל בה':
+
+
+
+## Daf 53b
+
+###### Rashash on Nazir 53b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/53b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/53b:1)
+
+
+**גמרא רשב"ל אמר מגלח מדלא קתני בסיפא.**תימה דהא לא תני שם אלא דברים שמטמאין ואפ"ה אין הנזיר מגלח עליהם. לאפוקי אבר מה"מ כו' שפיר איכא למימר כריו"ח דס"ל דטהורין לגמרי כדמשמע בסוף הסוגיא דמוקי להא דאבר שנחלל מן המת דאית ביה עצם כשעורה דוקא. וא"כ מה ליה לתנא למתניי' שמה (וברמב"ם פ"ג מהל' ט"מ הל"ב וג' ובכ"מ שם דמשמע דמטמא אלא שאה"נ מגלח עליו וכן הגר"א ז"ל מנה ברפ"ב דאהלות לעצם כשעורה ולאבר מה"מ שא"ע בשר כראוי לשתים שמטמאין במגע ובמשא צ"ע ועמש"כ שם) והתוס' נראה שהרגישו בזה במש"כ אע"ג (כמו שהגהתי בדבריהם) דמטמא במגעו ובמשאו וכדדרשינן בסמוך. ור"ל דרשב"ל הביא ראיה דמגלח ג"כ לשיטתו דס"ל דמטמא. אבל מ"מ קשה מאי אצטריך למימר לריו"ח כל היכא דמשמע מכללא כו'. ועוד קשה לר"ל מדוע לא תנייה ברישא גבי עצם כשעורה. והא דלא תני רובע עצמות אע"ג דהוא מטמא במגע ובמשא ולהיות הנזיר מגלח עליו לכ"ע. י"ל דל"ח ברישא אלא דברים שמגלח עליהן בכל טומאותן משא"כ רובע עצמות שאין מגלח על אהילו אף שמטמא. אך קשה לריו"ח ג"כ מדוע לא חשיב אמה"ח שא"ע בשר כראוי שמטמא במגע ובמשא (פ"א דכלים מ"ה. פ"ב דאהלות מ"ג) ודוחק לומר דהתנא כללו בהא דתני עצם כשעורה. (דלדידיה ודאי אין מטמא באין בו עצם כשעורה דאין סברא שיהא חמור מאבר מה"מ). דהרי חלוקים הם בדינן דממת מטמא אף שאינו אבר שלם. ומחי הוא דוקא באבר שלם. והא אפי' בשיש עליהם בשר כראוי דשוין לגמרי חשב כ"א בפ"ע. ולכן נ"ל דלריו"ח באמת אין הנזיר מגלח על אהמ"ח שא"ע בשר כראוי אף שמטמא במוב"מ. ובתרתי פליגי באבר מה"מ על עיקר טומאתו ובאמה"ח על גילוחו. וכ"מ דנקיט עליהן בלשון רבים. ומשום אמה"ח איצטריך לומר לריו"ח כל היכא דמשמע מכללא כו':
+
+
+###### Rashash on Nazir 53b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/53b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/53b:2)
+
+
+**רש"י ד"ה אלא דאקמח. פחות מחצי קב אפילו על מגעו אינו מיטמא כו'.**ועי' בב"ר. אבל מ"מ צ"ע דא"כ אפילו חצי קב לא יטמא במגעו:
+
+
+###### Rashash on Nazir 53b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/53b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/53b:3)
+
+
+**תד"ה ריו"ח. ורשבל"א כו' מדלא קתני לה בסיפא כו' לא יגלח אע"ג דמטמא במוב"מ כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 53b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/53b:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/53b:4)
+
+
+**תד"ה והא חצי לוג דם. דש"מ חצי לוג דם אין כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 53b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/53b:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/53b:5)
+
+
+**תד"ה האי אבר**(בסופו). אפי' אין עליהם. נראה דר"ל דל"ת דאין טומאת אהל אלא דוקא כשדבר אחר מאהיל על המת ועל האדם כדכתיב אדם כי ימות באהל כו' קמ"ל דגם כשאדם מאהיל על המת נטמא:
+
+
+###### Rashash on Nazir 53b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/53b:6](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/53b:6)
+
+
+**תד"ה חרב. או לטמא אדם הבא באהל אשר החרב בתוכו.**וכן לקמן (נד ב) ד"ה ת"ש. כתבו דשלח רח"כ איזה בית אשר תבנו לי כו'. אבל דעת הרמב"ם בפ"ה מהל' ט"מ הי"ג שא"מ באהל וכ"ד הרמב"ן. ולכאורה הכא משמע כדברי התוס' כיון דוכל אשר יגע כו' דרשינן למאהיל. וכל הנך דדריש כאן כולן מטמאין באהל. ודע שדעת הרמב"ם שם דגם במשא א"מ. והכ"מ כתב שם שהרמב"ן הניח ד"ז בצ"ע. ותמה עליו שהרי מתניתין היא בריש כלים ע"ש. ואני תמה עליו שנעלם מכ"ת פירוש הר"ש שם (והרע"ב אחריו) דמוקי ליה באדם ט"מ:
+
+
+
+## Daf 54a
+
+###### Rashash on Nazir 54a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/54a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/54a:1)
+
+
+**תד"ה וא"מ למנות עד שיטהר ומביא קרבנותיו.**כצ"ל. עי' לעיל (מט ב) בתד"ה ומזה:
+
+
+###### Rashash on Nazir 54a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/54a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/54a:2)
+
+
+**תד"ה ורביעית דם. אלא נקט כו' בפ"ב דאהלות שהן מטמאין באהל.**כצ"ל:
+
+
+###### Rashash on Nazir 54a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/54a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/54a:3)
+
+
+**תד"ה וכלים. ובגמרא אפרש כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 54a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/54a:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/54a:4)
+
+
+**תד"ה וימי ספרו. וצ"ע דלא ליתני אלא ספרו כו'.**ולי י"ל לפי דאיכא למ"ד (מו"ק ז ב) דלענין תה"מ קילי ימי חלוטו מימי ספרו והתוס' כתבו שם דשמא יש פירכא דלא לילף ק"ו מימי ספרו. ואם כן איצטריך למיתני ימי חלוטו לאשמעינן דאין עולין. ועי"ל הואיל דתני דימי הסגר עולין ותנן (מגילה ח ב) אין בין מצורע מוסגר למוחלט כו' ויש לטעות דגם בזה שוין קמ"ל:
+
+
+###### Rashash on Nazir 54a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/54a:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/54a:5)
+
+
+**בתוי"ט ד"ה ובית הפרס. ואף טומאת בית הקברות תנן כו' דא"ס אבל כו' לפיכך לא תני ליה הכא.**נראה דאישתמיטתיה דברי הכ"מ בפ"ו מהל' נזירות הל"ח שמפרש טומאת ביה"ק היינו גולל ודופק ע"ש. והרי תני להו. ולכאורה הנ"ל לפרש דביה"ק הוא קברים שפינום מהמתים דאיתא בסנהדרין (דף מז) דיש בהם טומאה. אולם רש"י פי' שם דטומאתן מדרבנן. ולעיל בגמרא על משנה זו (טז ב) משמע שהוא מדאורייתא וכ"כ התוי"ט שם במ"ו. ובעירובין (מז) פריך הגמרא ביה"ק ס"ד טומאה דאורייתא היא. אבל יל"פ דביה"ק הוא קבר סתום דמטמא אף שלא כנגד הטומאה אם יש בו פותח טפח עי' לעיל (נג ב) תד"ה סתום. ואף שהוא מדאורייתא מבקבר מ"מ אין הנזיר מגלח עליו. ותמיהני על לשון התוס' בב"ב (ק ב) ד"ה ורומן שכ' דתניא גבי אהל דנזיר או בקבר כו'. דהרי בסוגיא שם לענין טומאה בעלמא תניא. ונ"ל דט"ס בתוס' וכצ"ל דתניא בנזיר גבי אהל או בקבר כו':
+
+
+
+## Daf 54b
+
+###### Rashash on Nazir 54b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/54b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/54b:1)
+
+
+**רש"י ד"ה ואין סותר אה"ק. והאי דתנן כו' וסותר אה"ק כו'.**תמוה דהא הכא ג"כ ימים שהיה בהן בארץ העמים אין עולין לו כהתם. ואף שיש לדחוק ולכוון זה בתירוצו. מ"מ לא היה כדאי לעשות בזה קושיא ותירוץ:
+
+
+###### Rashash on Nazir 54b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/54b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/54b:2)
+
+
+**רד"ה איבעיא להו. אלא נכנס לה באוירא קליט ליה טומאה.**כ"נ דצ"ל:
+
+
+###### Rashash on Nazir 54b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/54b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/54b:3)
+
+
+**תד"ה ארץ. גדולות יותר ממ' סאה כו'.**בר"פ ט"ו דכלים ורפ"ח דאהלות ובכ"ד איתא דבמ' סאה מכוונות סגי ליטהר. וצ"ל דמלת יותר שבדבריהם נמשכת למעלה. ור"ל שהן גדולות ביותר דהיינו ממ"ס ומעלה:
+
+
+###### Rashash on Nazir 54b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/54b:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/54b:4)
+
+
+**תד"ה ת"ש. כדאמרינן במס' שמחות פ"ד כ"ט שהנזיר כו'.**כצ"ל. והוא שם משנה כ"א:
+
+
+###### Rashash on Nazir 54b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/54b:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/54b:5)
+
+
+**בא"ד והא דלא אוקי מתניתין בכלי מתכות כו'.**מבואר דגם רח"כ מודה בזה לר"ת דבכלי מתכות צריך הזיה רק דס"ל שאין הנזיר מגלח עליו. והתוי"ט ל"ד במש"כ ור"ת סובר דבכ"מ צריך הזי' ורח"כ השיב לו כו'. משמע דסובר דפליג ג"כ על הזיה. ונראה שיש השמטה בדבריו וצ"ל אחר מילת הזיה. והנזיר מגלח עליהם. שוב נדפסו תור"ע וראיתי שעמד בזה ע"ד. אך בשם הרמב"ן בפ' חוקת הביא דגם הזיה א"צ וע"ש טעמו ונימוקו. וכ"כ בחידושיו לב"ב (כ). והגה"ש הביא שכן גם דעת המאור. והרמב"ם בפ"ז מהנ"ז הל"ח כתב ג"כ שאינו מזה בג' וז' אבל כ' שד"ז מיוחד בנזיר אבל כל אדם כו' יזה בג' וז' כו'. והכ"מ תמה שיהא נזיר קיל משאר בנ"א. וכ' עוד הרמב"ם שם שזה שאינו (כ"ה בהעתקת הכ"מ) מזה כו' כדי שיעלה לו ימי טומאתו בכלי ממנין ימי נזירתו. והתוי"ט הבין שבא בזה לתת טעם על שלא הצריכוהו הזאה. והוא תימה דמה טעם יש בזה. וע"ק יזה ולא יהיה עולין לו. ועוד דהא משמע ממתני' דאינו סותר הקודמין אבל אין עולין. דאל"כ ה"ל לתנא לחשוב זה יחד עם ימי הזב והזבה וכו' כמש"כ הכ"מ שם בדין ז'. ולקמן בגמרא בפיסקא ומתחיל ומונה. מבואר להדיא דכל דחשיב בהך בבא אין עולין. ונלע"ד אשר הכ"מ והתוי"ט לא ירדו בכאן במחכ"ת לסוף דעת הרמב"ם. וכוונתו בזה ליישב תמיהת הכ"מ. והוא שבאמת לטהרו מהטומאה ודאי נזיר לא עדיף משאר בני אדם שלא להצריכו הזאה אלא דאף שלא הוזה וא"כ עדיין הוא בטומאתו גם לאחר שבעה. מ"מ עולין לו הימים לאחר ז' למנין נזירתו. ולענין זה אמר הש"ס הני כלים בני הזאה אינון ונכון בעז"ה. ועי' בתוי"ט עוד מה שהביא בשם הרמב"ן שהחרב אינו מטמא באהל דאל"כ היו הכהנים אסורים בכל הבתים כו'. לכאורה קשה דהא מסיק בסוף דאף במגע אין הכהן מוזהר. וא"כ אף שהיה מטמא באהל ג"כ יוכל להיות שהכהנים מותרים ליכנס לבתים משום שאין טעונין הזיה והנזיר אינו מגלח עליהם כמו במגע. והרי הרח"כ משמע דס"ל שמטמא באהל וגם צריך הזיה מ"מ כיון שאין הנזיר מגלח עליו אין הכהן מוזהר כש"כ לדעת הרמב"ן שאינו טעון גם הזיה. ולפמש"כ המל"מ פ"ג מהלכות אבל בסברת ספר היראים לענין מתי עובדי כוכבים ע"ש יתיישבו דברי הרמב"ן ג"כ:
+
+
+
+## Daf 55a
+
+###### Rashash on Nazir 55a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/55a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/55a:1)
+
+
+**גמרא תיבה שהיא מלאה כלים וזרקה ע"פ המת באהל טמאה.**בהעתקת התוס' ליתא לתיבת באהל. וכ"נ דאפי' באויר תיטמא מפני שמאהלת עה"מ. והנה ע"כ מיירי בתיבה גדולה מחזקת מ"ס בלח דאל"ה אינה חוצצת עי' לעיל בתד"ה ארץ העמים וכדתנן בפ"ח דאהלות. וא"כ טמאה. טהורה ל"ד ור"ל אכלים שבתוכה וברש"י צ"ל כל הכלים בל"ו. אח"כ האיר ה' את עיני ומצאתי ברייתא זו בתוספתא פ"ט דאהלות וליתא התם תיבת באהל. וכן הגי' שם טמאין. טהורין. וע"ש בפי' ז"ז להגר"א ז"ל. ושם איתא ר' יוסי אומר וצ"ל בר' יהודה. ועי' שלהי יומא דמוקי ר' יוסי סתמא ג"כ בר' יוסי בר יהודה. ובתוס' נראה שט"ס בת"כ וצ"ל בתוספתא. ואולם הר"ש שם בפ"ח מ"ב השיא התוספתא לכוונה אחרת:
+
+
+###### Rashash on Nazir 55a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/55a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/55a:2)
+
+
+**תד"ה והתניא בניחותא. אבל לשנויי בתראי לנכנס בארץ העמים כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 55a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/55a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/55a:3)
+
+
+**תד"ה אר"ח.**(בסופו). משנתרפא ומשספר. כצ"ל:
+
+
+###### Rashash on Nazir 55a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/55a:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/55a:4)
+
+
+**תד"ה אילימא. וה"ק ל"ש כו' כלומר שאין לו לעשות כו' מועטת בתחלת ימי צרעתו.**כצ"ל:
+
+
+###### Rashash on Nazir 55a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/55a:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/55a:5)
+
+
+**בא"ד**(ע"ב) כגון מי שנדר חמשים ושלשה ויתיב כו'. כצ"ל:
+
+
+
+## Daf 55b
+
+###### Rashash on Nazir 55b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/55b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/55b:1)
+
+
+**תד"ה אוכל. דספק כו' אם בוהק הוא והשתא כו' דנתרפא לגמרי.**משמע דאם לא נתרפא לגמרי אלא שכהה מראית הנגע למטה מד' מראות (שנקראת בוהק) לא יצא עדיין מטומאתו ליטהר בתגלחת וצפרים וכו'. ותימה דבת"כ דריש מן ונרפא כו' דאפי' לא הלכו רק סימני הטומאה דהיינו שער הלבן או המחיה. ונראה דכש"כ אם הנגע עצמה הוכהה:
+
+
+###### Rashash on Nazir 55b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/55b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/55b:2)
+
+
+**בא"ד וביום השמיני יקח כו' ואחד לאשם וכבשה אחת לחטאת.**כצ"ל:
+
+
+###### Rashash on Nazir 55b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/55b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/55b:3)
+
+
+**בא"ד ואינו עולה לתגלחת נזיר כדאמרי' כו'.**כצ"ל ומלת טהור למחוק:
+
+
+###### Rashash on Nazir 55b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/55b:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/55b:4)
+
+
+**תד"ה ומדקדק. וכדרבנן בפ"ג דאמרי הביא כו' ויום ששים שהוא כו' מגלח כדפרישית.**כצ"ל. ועי' לקמן בד"ה ה"ג. ועמש"כ לקמן בפ' הסמוך על משנה זו דרך אחר נכון בס"ד:
+
+
+###### Rashash on Nazir 55b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/55b:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/55b:5)
+
+
+**בא"ד שמנינו התחיל ביום ס"א כו'.**התוי"ט לקמן בפ' הסמוך בד"ה ושותה הקשה למה לא יתחיל מיום ס' ע"ש. ונ"ל ראייה לדבריו מדלא יליף לקמן (נו רע"ב) דימי ספירו אין עולין אלא משום דטעון תגלחת וכיון שכבר גלח אין לנו שלא יעלה לו:
+
+
+
+## Daf 56a
+
+###### Rashash on Nazir 56a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/56a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/56a:1)
+
+
+**תד"ה ה"ג**(בסופו). ואע"ג דתגלחות שניות ביום ל"א. כצ"ל:
+
+
+###### Rashash on Nazir 56a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/56a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/56a:2)
+
+
+**רש"י ד"ה אוכל בקדשים לאחר ששים. ובסוף ז"י לימי ספירו מגלח שנית ומביא קרבן לצרעת בח' ואוכל כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 56a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/56a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/56a:3)
+
+
+**רד"ה ועוד מתיב ר"א. ומעכשיו מתחיל להזיר לה' ימי נזרו.**כצ"ל:
+
+
+
+## Daf 56b
+
+###### Rashash on Nazir 56b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/56b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/56b:1)
+
+
+**במשנה א"ר אלעזר כו'.**כצ"ל בל"י וכן בגמרא ובמפרש ותוס':
+
+
+###### Rashash on Nazir 56b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/56b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/56b:2)
+
+
+**גמרא ור"א משום ר' יהושע גמר כו'.**עי' במפרש ותוס'. וק"ל דבריש תענית (ב ב) אמר ריה"ג משום ר' יהושע העובר כו' ומוקי לה רנב"י שם (ג) בר' יהושע בן בתירה. ובמה שהבאתי בפסחים (קב ב) בד"ה מיתיבי ע"ש יתיישב זה:
+
+
+
+## Daf 57a
+
+###### Rashash on Nazir 57a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/57a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/57a:1)
+
+
+**רש"י**(ברה"ע). צ"ל ר' אליעזר ביו"ד:
+
+
+###### Rashash on Nazir 57a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/57a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/57a:2)
+
+
+**תד"ה עצם. כדכתיב על נפש מת לא יבא.**כצ"ל:
+
+
+###### Rashash on Nazir 57a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/57a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/57a:3)
+
+
+**במשנה וסופרין שלשים יום.**פי' הרע"ב וכגון שנדרו נזירות ביחד כו'. ול"י מה הוצרך לזה דכיון דלכ"א מספקינן שמא הוא הטמא א"כ סתר את הקודמין וצריך כ"א למנות מעתה מחדש סתם נזירות שקבל עליו דהוא ל"י. והמפרש שכתב ג"כ בריש המשנה שקיבלו ביחד. י"ל משום דמגלחין דנקט במתני' ע"כ היינו אחר כלות משך נזירותם. ואם לא קבלו ביום אחד יכלו נזירות א' קודם לחבירו ויצטרך להמתין עד כלות נזירות השני. ונראה דלשון הרמב"ם בפירושו אטעייה להרע"ב במחכ"ת ע"ש:
+
+
+
+## Daf 57b
+
+###### Rashash on Nazir 57b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/57b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/57b:1)
+
+
+**גמרא ואמאי דלמא לאו טמאין אינון וקעביד הקפה.**לכאורה קשה דהא ממ"נ יכולין לגלח אי משום תגלחת טומאה או משום תגלחת טהרה. וי"ל דהא תגלחת בין דטומאה ובין דטהרה אין מעכבין כדפסק הרמב"ם בפ"י הל"ט. ועוד למדנו בפ"ח ה"ו בתגלחת טהרה דאע"פ שאינה מעכבת מצוה לגלח אפי' לאחר זמן מרובה. ונראה דגם בתגלחת טומאה כן הוא. וענ"ל דתגלחת אחת עולה לשתיהן דאם לא גלח תגלחת טומאה בזמנה. כשהשלים נזירות טהרה וגלח כמצותה עולה ג"כ למצות תגלחת טומאה שהיה עליו (ובקל יש לחלק בין זה להא דלקמן בסה"פ במה שהשיב רשב"י לתלמידיו). ואחרי הצעות הללו יל"פ דהכי פריך ודלמא לאו טמאין אינון כו' וא"כ ע"כ לא יגלחו אח"כ כשישלימו נזירות טהרה. ואותו שנטמא לא יקיים מצות תגלחת טהרה. טפי הל"ל שבפעם ראשון לא יגלחו ואח"כ כשיספרו יביא כ"א קרבן טהרה (כי בפעם הראשון כיון שלא יגלחו לא יצטרכו להביא אלא קרבן טומאה ולהקריבו למי שהוא טמא) ויגלחו. ולהטמא יעלה גם למצות תגלחת טומאה שהיה עליו קודם (וגם ירוויחו שלא יצטרכו להשלים נזירותם בפעם הראשון כמש"כ לעיל. אלא לסוף ז"י יוכלו להביא קרבן הטומאה) ונכון בס"ד:
+
+
+###### Rashash on Nazir 57b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/57b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/57b:2)
+
+
+**שם כולהו שני דראב"א לא איקיים כו'.**כה"ג בשבת (קח):
+
+
+###### Rashash on Nazir 57b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/57b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/57b:3)
+
+
+**רש"י ד"ה אמאי. ואאידך מינייהו כו'.**ר"ל מתרתי קמייתא שהזכיר כי על הראשונה לא עבר דממ"נ הויא למצוה אם לתגלחת מצורע או לנזירות טומאה או לטהרה. וה"ה דבתרתי בתרייתא עובר מספק:
+
+
+
+## Daf 58a
+
+###### Rashash on Nazir 58a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/58a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/58a:1)
+
+
+**רש"י ד"ה לא דכ"ע לאו שמה הקפה. ומאן דתני לה מראשו כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 58a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/58a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/58a:2)
+
+
+**תד"ה אמר רבא. אע"ג דאפשר כו' כגון שיגלח כל הראש.**כצ"ל:
+
+
+
+## Daf 58b
+
+###### Rashash on Nazir 58b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/58b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/58b:1)
+
+
+**תד"ה ולמאן דמוקי. לחנם פי' הש"ס כן דאליביה**(כצ"ל) קיימא. ובמש"כ בברכות (יא) ד"ה וב"ש ע"ש יתיישב גם הכא:
+
+
+
+## Daf 59b
+
+###### Rashash on Nazir 59b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/59b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/59b:1)
+
+
+**במשנה א"ל ב"ז כו' אלא מביא חטאת העוף כו'.**דעת המפרש דעולת העוף א"צ להביא דלא מעכבא וכ"כ הרמב"ם בפ"י ה"ח. וכן התוס' לקמן (ר"ד ס) כתבו ושמא מספק לא הצריכוהו. והכ"מ תמה דאע"פ שאינה מעכבת למה לא יביאנה ויתנה עליה. וכן התוס' כתבו כאן וה"ה עולת העוף ולא חש לפרשה. ולע"ד נראה אחר דר' יהושע אומר ומביאין קרבן טומאה דמשמע החטאת והעולה (ודלא כהמפרש) וב"ז בא אחריו ושינה לשונו ואמר חטאת העוף ש"מ דדוקא קאמר. וטעמא נ"ל משום דאף דאיתא בת"כ גבי קרבן יולדת עשירה דמביאה חטאת העוף דאינה יכולה להביא חטאת בהמה תחתיה אינו אלא בחטאת דאינה באה בנדבה. אבל בעולה כגון עולת נזיר טמא אף דדינה בעוף. כיון דעולה באה בנדבה וגם היא עצמה אמרי' לעיל (יח ב) דאינה אלא לדורון. יכול להביא עולת בהמה תחתיה ותבא עליו ברכה. ואף דאין מביאין תורין כנגד בנ"י כו' (קנים ספ"ב) בהמה שאני. ולכן לב"ז דצריך להביא עולת בהמה ג"כ משום ספק נזיר טהור תו ל"צ לעולת העוף דמתנה ואומר אם טמא אני העולת בהמה תהיה תחת עולת העוף שאני חייב. וזהו שאמר והעולה נדבה כלומר היתרון שבבהמה על העוף תהיה נדבה ונכון בעז"ה. וכן לקמן (ס) בברייתא דתני שנייה מביא חטאת העוף (והיא משום ספק תגלחת שנייה דמצורע עני) ועולת בהמה (משום ספק נזיר טהור) דתמה ג"כ הכ"מ מדוע ל"י גם עולת העוף משום קרבן מצורע עני וביותר קשה לרי"ש בנו של ריב"ב בערכין (כא) דעולתו מעכבתו. ובמש"כ א"ש דיוצא בעולת הבהמה שמביא. וכש"כ גבי מצורע דקי"ל דעני שהביא קרבן עשיר יצא. (והא דאינו מביא חטאת ג"כ מבהמה ותעלה לו אי משום נזירת טהרה אי משום תגלחת שניה דמצורע ולא יצטרך להביא ספק מליקת חולין למזבח. משום דא"כ לא יוכל שוב להביא חטאת בתגלחת רביעית ודוק) אבל לכאורה שם א"א ליישב בזה משום דמצורע בתגלחת שניה אינו מביא אלא למחרת יום תגלחתו דוקא (לעיל מד ב) ומשום נזירות טהרה הוא קודם הגילוח. אולם גם הא לא תברא דמשמע ברמב"ם פי"ח מהל' מעה"ק ד"ט ויותר בפיה"מ דזבחים פי"ד מ"ג לפי נוסח הא"י שמביא התוי"ט. דעולת מצורע אפי' הביאה בתוך ימי ספירו יצא. ועי' עוד בפ"י מהנ"ז ה"ז ובראב"ד וכ"מ. וכן בספ"ד מהל' פהמ"ק ובכ"מ שם. ובמש"כ מיושב תמיהת הלח"מ בפ"ט מהנ"ז הט"ו ע"ש. דכיון דגם גדול היה צריך להביא עכ"פ עולת העוף משום ספק קרבן נזיר טמא לכן בכדי שלא תחלוק השוו מדותיהם שיביא עולת בהמה. והוא כעין תירוצו אלא שמוטעם יותר:
+
+
+###### Rashash on Nazir 59b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/59b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/59b:2)
+
+
+**והנה**מה שחלקתי בין חטאת העוף דיולדת שא"י להביא תחתיה בהמה לבין עולת העוף. נ"ל ראיה מכריתות ר"פ ארבעה מח"כ דאר"פ י"ל לעוף איתרבי לעולת בהמה לא כש"כ. ומה שתמה שם התוס' ישנים זב וזבה יוכיחו דאיתרבו לעוף ולא לבהמה. אני אומר דגם המה אם הביאו עולת בהמה ת' עולת העוף דיצאו. ובזה נראה ליישב קושיית הט"א במגילה (ח) בד"ה מזובו ולא מזובו ונגעו. על התוס' דמנחות וש"מ שכתבו דמזה ילפינן דטמא משלח קרבנותיו ואע"ג דא"א לו לסמוך. והקשה שהרי קרבן זב הוא מהעוף דאין טעון סמיכה. ולפמש"כ א"ש דמשמע דיוכל להביא אף עולת בהמה תחת עולת העוף כשאר זבים אף דטעון סמיכה. ועוד נ"ל ראיה ממנחות (מח ב) אבל עולת נזיר כו' שהיו בני שתי שנים ושחטן כשרים דיליף מעולת נדבה ע"ש ובנדבה קי"ל כרבנן שם (קז ב) קטן והביא גדול יצא. לכן בכוונה השמיט הרמב"ם בספ"ד מהל' פהמ"ק סיום התוספתא שלא עלו לבעלים לשם חובה (והכ"מ כ' שם דל"י על מה) והוא דס"ל דהתוספתא אתיא כרבי דפליג שם אחכמים בקטן והביא גדול דל"י והוא ז"ל פסק כחכמים בפט"ז מהל' מעה"ק. א"כ ה"ה הכא עלו לבעלים לשם חובה. ועוד נ"ל ראיה דאף בחטאת יולדת אם היתה מביאה ע"י איזו עילה וסיבה דהתירא חטאת בהמה היתה ג"כ נתכפרה בה לאכילת קדשים. והוא דפריך הגמרא בכריתות (ט ב) ובנדה (מ) אלא מעתה אכלה דם וילדה ה"נ דאינה מביאה אלא קרבן אחד. והרי על דם חייבת חטאת בהמה קבועה ופריך דתתכפר בה ג"כ על לידתה. אבל עדיין צ"ע בנידן דידן דהרי מבואר ברמב"ם שם דאם קבע עוף לא יצא בהבאת בהמה (וכ"מ במפרש לעיל (כו) בד"ה ע"א). אבל ל"י מנ"ל זאת דרבנן מודו ממין למין דאף מקטן לגדול דל"י דהלא י"ל דכל המשנה אזלא אליבא דרבי. ואולי זוהי כוונת הראב"ד שם להשיג עליו ודלא כהכ"מ דסיוע מסייע ליה. ועמש"כ שם בסוגיא בס"ד:
+
+
+###### Rashash on Nazir 59b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/59b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/59b:3)
+
+
+**גמרא מאי לעבד כו' לדקיה דלא ליסרו.**פי' המפרשים בזה דחוק מאד. ולנל"פ לפי שאר"י שיבקש אחד שידור בנזיר לזה אמר ר"נ איזה תרופה יעשה ליה ר"י למעיו שלא ליווסרו [כמו מייסרן ומפייס פסחים קז] כגון בשלשול או שאר חולי שהיין היה מועיל להו [כדאי' בנדרים (סו) במשנה שהמיושן יפה למעיים] ועכשיו יאסר בו ששים יום:
+
+
+###### Rashash on Nazir 59b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/59b:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/59b:4)
+
+
+**במשנה נזיר שהיה טמא בספק כו'.**פי' הרע"ב שביום הראשון אירע לו הספק וכ"כ המפרש והתוס' לעיל (נה ב) ומוכרח הוא דאל"כ לא היה צריך להמתין ל"י בתגלחת ראשונה משום ספק נזיר טהור. ולפי מאי דפסק הרע"ב לעיל פ"ג מ"ה כר"א דבנטמא בו ביום אינו סותרו. מוכרח ע"כ לומר דס"ל כהרמב"ם בפ"ו מהנ"ז הל"ו דאף דאינו סותר מ"מ קרבן טומאה מביא. וכ"מ לשון הרע"ב שם. והתוי"ט ל"ד במה שמלא דבריו שם בדברי התוס' דמוכח מדבריהם דלר"א גם קרבן אינו מביא (ולכאורה ראיה לשיטת הרמב"ם מהא דאר"ח לעיל (יח) דא"ת רבי הוא כו'. ואי דנטמא בח' כו' הרי יצא לשעה הראויה לקרבן. ולשיטת התוס' קשה דילמא ס"ל כר"א דהלכה כוותיה ולדידיה אינו מביא קרבן על הב' דאין כאן ימים הראשונים ע"ש ע"ב בתד"ה מתחיל. אבל ז"א דא"כ מאי איריא מפני שמביא קרבן אחד על טומאות הרבה אפי' נטמא לאחר הבאת הקרבן נמי דהא לאו בר קרבן הוא על הטומאה הב' דאין כאן ימים. אבל ראיה מהא דאר"א שם נטמא בשמיני כו' מביא קרבן עכאו"א. והא מבע"ל לר"פ שם (יט ב) א"ד דנפקין תרין ומתחילין תלתא (ולהמפרש שם בלשון ראשון והרמב"ם בחבורו פשיט ליה רבא כן) והא כשנטמא בח' אינו אלא נפיק חד ועייל תרין אפי' לפי' התוס' שם דלר"א מתחיל למנות בז'. ולהמפרש שם דלר"א אינו מונה אלא מח' הרי אינו אלא יום אחד. והתוס' שם בד"ה א"ל ר"פ נדחקו הרבה בזה. ולדעת הרמב"ם א"ש בפשיטות) ומעתה לשון המשנה אוכל בקדשים אחר ס' יום בדיוק. ולא כאשר נדחקו התוס' לעיל. והוא משום דתגלחת השניה יוכל לגלח ביום ל' לתגלחת הראשונה (וכן הבין התוי"ט בלשון הרע"ב. אבל לא מטעמי' אלא) משום דאפי' נטמא אינו סותר אותו יום ועולה לו מן המנין וא"כ ה"ל יום ל"א. ולשיטת התוס' דלר"א גם קרבן אינו מביא אי נוקי מתניתין כר"א דהלכה כותיה. ע"כ מיירי שאירע הספק טומאה ביום הב' למנינו (דביום א' אין זה טמא שסותר ומביא קרבן. ונ"ל דאף גילוח לא בעי דהא בהא תליא עיין לעיל (יז ב) ובתד"ה מה טעם. וכ"מ לשון התוס' טז ב ד"ה רא"א שכתבו אלא מונה ז"י טומאה ומזה ושונה וטובל ומונה כו'. ולא הזכירו גילוח) א"כ תגלחת הראשונה הוי ביום ל' ליום שאירע בו הספק שהוא ל"א לתחלת מנינו. ותגלחת הב' ביום ל"א לתגלחת הראשונה. וג"כ מכוון אכילת קדשים אחר ס' דוקא ונכון מאד בעז"ה:
+
+
+###### Rashash on Nazir 59b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/59b:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/59b:5)
+
+
+**שם ושותה יין כו' אחר ק"כ יום.**התוי"ט הקשה דנזירות הג' ימנה מיום ס' שגלח בו דיעלה לכאן ולכאן. ולע"ד ז"א דכיון דמספקינן ליה בתגלחת ספירו דמצורע ואחר תגלחתו טובל ובעי הערב שמש ואינו מביא קרבנותיו עד למחר כדלעיל (מד ב) לכן הוא נכלל בימי ספירה דאינן עולין לו. אבל לי קשה דיום הראשון שאירעו בו הספיקות יהא עולה למנין דהא ימי חלוטו אינו סותר הקודמין וכש"כ ביום הראשון למנינו דאפילו טומאת מת אינה סותרתו כדכתבינן לעיל. ואולי דדוקא נקיט במתניתין לעיל דימי גמרו איך סותרין הקודמין אבל אותו יום עצמו סותר כי הוא נכלל בימי גמרו שא"ע לו. ובזה חמיר מטומאת מת דאפילו ביום ראשון סותרו. אבל קשה לומר דהבא מן הדין יהא חמור מן הנדון דהא עצמן דימי חלוטו אין עולין לא למדנו אלא מימי טומאה לעיל (נו). ולכן נ"ל דספק מוחלט אינו ר"ל דספק החלטו אירע לו ביום ראשון אלא דספק לו אולי נחלט מכבר:
+
+
+
+## Daf 60a
+
+###### Rashash on Nazir 60a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/60a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/60a:1)
+
+
+**גמרא דאי ודאי מצורע ולאו טמא הוא.**ק"ל דאי נימא טמא הוא ג"כ צ"ל דחטאת העוף ספק ואזלא לקבורה:
+
+
+###### Rashash on Nazir 60a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/60a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/60a:2)
+
+
+**תד"ה ה"ג שני'. אלא משום ספק מוחלט.**כצ"ל:
+
+
+###### Rashash on Nazir 60a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/60a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/60a:3)
+
+
+**רש"י ד"ה מאי אית לך. לפי שאין חטאת בהמה באה עה"ס כו' וה"ל כחטאת שנתכפרו כו' לפי שאין מביאין קדשים לבה"פ.**נראה דהם שני טעמים. ואזיל לשיטתו לעיל (כא ב) ד"ה וה"ט בסופו דבחטאת העוף לא גמירי דתמות וע"ש בב"ר מש"כ בכוונתו (בר"ד כב):
+
+
+###### Rashash on Nazir 60a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/60a:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/60a:4)
+
+
+**תד"ה ספק טמא. הרי ביום ל"ח יגלח תגלחת ג' ושמא נזיר טמא הוא כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 60a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/60a:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/60a:5)
+
+
+**תד"ה מוחלט ספק. והשמיני יעלה למנין ל' מביום ל' יגלח כו'.**כצ"ל. או דצ"ל וביום ל"ז יגלח. דלגי' ספרים שלפנינו לא יוכל לאכול בקדשים עד יום ל"ט שהרי אינו מביא קרבנותיו אלא למחרת יום תגלחתו עי' לעיל (נה ב) בתד"ה ומדקדק הר"ם:
+
+
+
+## Daf 60b
+
+###### Rashash on Nazir 60b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/60b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/60b:1)
+
+
+**גמרא שאלו תלמידיו את רשב"י נזיר טהור ומצורע מהו שיגלח כו' ועולה לו לכאן ולכאן.**ק"ל הא תגלחת נזיר צריך להיות על א' מן הדמים. ומצורע קודם גילוח דינו כמו מוחלט וקי"ל במו"ק (ס"ד טו) דמצורע אינו משלח קרבנותיו ע"ש תד"ה אחרי טהרתו:
+
+
+###### Rashash on Nazir 60b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/60b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/60b:2)
+
+
+**תד"ה נזיר טהור. לא יפטרו זו את זו**הס"ד ומה"ד ולא תעלה:
+
+
+###### Rashash on Nazir 60b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/60b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/60b:3)
+
+
+**שם וביום השמיני יקח שני כבשים וזו תגלחת נזיר כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 60b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/60b:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/60b:4)
+
+
+**שם ולקח את שער ראש נזרו.**כצ"ל:
+
+
+###### Rashash on Nazir 60b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/60b:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/60b:5)
+
+
+**תד"ה ותעלה. ורחץ את בשרו כו'.**כצ"ל:
+
+
+
+## Daf 61a
+
+###### Rashash on Nazir 61a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/61a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/61a:1)
+
+
+**רש"י ד"ה שאני הכא. משום דא"ק גבי נדרים כו'.**כ"נ דצ"ל וכמש"כ התוס'. והציון הוא ג"כ בטעות דהקרא הוא בר"פ מטות:
+
+
+
+## Daf 61b
+
+###### Rashash on Nazir 61b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/61b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/61b:1)
+
+
+**גמרא אלא א"ר בשלמא כו' יכול לא יהו נערכין ת"ל איש הכא כו'.**כצ"ל. דהא לא כתיב בקרא אלא חד איש. ועמש"כ לקמן בדף הסמוך:
+
+
+###### Rashash on Nazir 61b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/61b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/61b:2)
+
+
+**שם אי משום קרבן לאו מהכא נפקא ליה אלא מהתם כו'.**במנחות שם דפריך על הא דריה"ג מהכא נפקא מהתם נפקא דבר אל בני ישראל כו'. ולכאורה הפי' הפשוט דמקשה ול"ל דרשה דלעולה למעוטי עולת נזירות כיון דכבר אימעוט מן בני ישראל עצם הנזירות ממילא לא יביא קרבנותיו. ומשני אי מהתם ה"א קרבן הוא דלא לייתי כו'. ופי' אי מהתם היינו דרשה דבנ"י (וכפי' מהתם הקודם) והיינו כתירוצא דרבא דכאן. ורש"י דפי' שם אי מהתם היינו מיעוטא דלעולה. ומתוך כך נדחק נמי לפרש לעיל שם פרט לנזירות כלומר כו' אין חל עליו. וכוונתו בכדי להסב הקושיא על מיעוטא דבנ"י ל"ל דמלעולה כבר ידעינן דאינן בתורת נזירות. וע"ז משני בפשיטות אי מהתם כו' היינו מלעולה. כוונתו נעלמה. ונראה משום דהתוס' הקשו כאן כיון דאימעיטו לגמרי מנזירות א"כ ל"ל לעולה כו'. וקושייתם לכאורה אינה מובנת דהלא אי לאו מיעוטא דלעולה ה"א דבנ"י לא אתי אלא למעוטי מקרבן. אבל כוונתם הוא ע"ד קושיית אביי בקדושין (ד) מ"ד כו' אלא הכא כו' ע"ש. ולכן הוצרכו להמציא קרבן בלא נזירות. ולזאת א"א לפרש שם הקושיא דל"ל מיעוטא דלעולה. דהא שפיר איצטריך לגוונא שכ' התוס'. ולכן הוצרך רש"י לסבב הקושיא על דרשה דבנ"י:
+
+
+###### Rashash on Nazir 61b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/61b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/61b:3)
+
+
+**תד"ה ודלמא טהרה. דבפ"ק דיומא כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 61b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/61b:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/61b:4)
+
+
+**תד"ה א"ה עבדים**(בסופו). וה"ה דאשינוייא קמא כו' פריך. עי' גה"ש. ול"נ דר"ל דהוי מצי פריך דכמו דעבדים אף דאיכא למעוטינהו מעל נפשו וכן מן להרע או להטיב כדמעטינן לקמן (סב ב) נדרים ע"ש במפרש. מ"מ מרבינן להו מן ואמרת ה"נ כותים אע"ג דיש למעטם מן לאביו נרבינהו מן איש:
+
+
+
+## Daf 62a
+
+###### Rashash on Nazir 62a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/62a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/62a:1)
+
+
+**גמרא והתניא גבי נדרים איש מה ת"ל איש איש כו'.**בהגהת הב"ח מחק איש הב'. ובאמת בכל הסוגיא מרבה כותים מחד איש בערכין וכן בנזירות להמקשה לעיל ובדברי רבא. (ובספרים שלנו שכתוב בדבריו בערכין ת"ל איש איש ודאי ט"ס כמש"כ שם וכן בערכין (ה ב) בתד"ה יכול שכתוב דתרתי איש כתיבי ט"ס. וכצ"ל ואע"ג דאיש במעריך כתיב אא"ע כו' וכ"ה בהעתקת דבריהם בתוי"ט שם. ומש"כ שם עוד וא"ת והא ממעטינן מאיש דהכא כותים כו' ג"כ ט"ס וצ"ל מבנ"י דהכא עי' בסוגיא דתמורה שם. והצ"ק ל"ד. אך ק"ל דמאי מקשו מתמורה. דשם ל"ק אלא כיון דכתיב בריש הענין בנ"י קאי אתמורה ג"כ. אבל לא למעקרי' מערכין דכתיב גבייהו). אולם בכ"ד דמייתי הש"ס הך דרשה דלגבי נדרים איתא מה ת"ל איש איש. וכ"א בת"כ וע"ש בק"א. ואישתמיט להב"ח גם דברי התוס' במנחות (יז ב) ד"ה מאי דמפרשי להדיא דמכפל איש איש דרשינן. וכן בסנהדרין (נו) מוכח להדיא דמכפילי דכתיב גבי ברכת השם מרבינן כותים דקאמר שם בסוף הסוגיא איש איש ל"ל דברה תורה כלשון בנ"א. ובסוטה (כו ב) ואלא למעוטי כותים וקאי על הא דקתני חוץ כו' וממי שאינו איש. אלמא דאינו נקרא איש. אמנם שם מסיק על הא דאר"ה כותי מקנין ע"י פשיטא אף דכתיב בפרשה ושכב איש אותה. ואולי משום דכתיבי עוד שני פעמים בפרשה מלת איש בפסוקי (יט כ) וצ"ע בכלל זה:
+
+
+###### Rashash on Nazir 62a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/62a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/62a:2)
+
+
+**שם לכדתניא היתר נדרים פורחין באויר כו'.**ובגליון צ"ל לכדתנן. וטעותא היא דדברי ר"א אשר עיקר המטרא בכאן עליהם לא הוזכרו שם במשנה:
+
+
+###### Rashash on Nazir 62a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/62a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/62a:3)
+
+
+**רש"י ד"ה שנאמר כי יפליא**(שבסה"ע). ואחד בנדרים. הוגה בגליון דצ"ל בערכין. ולחנם הוגה דכן קרי ליה גם לעיל בד"ה מכדי הא איתקיש. והוא משום דשם כתיב נדר בערכך. וכ"ה הגי' בתוס' כאן:
+
+
+
+## Daf 62b
+
+###### Rashash on Nazir 62b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/62b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/62b:1)
+
+
+**במשנה רש"י ד"ה חומר. ומתחיל ומונה כבתחלה ואם כו' משלים את השאר.**והעתיקו התוי"ט. משמע דימים שלא נהג נזירתו מחמת כפיית רבו אינן עולין לו. והנה אם רק ביין לבדו לא נהג נזירותו קשה לפי מה שפי' הרע"ב לעיל פ"ה מ"ג ה"ל לעלות. ואפי' לפסק הרמב"ם שהביא התוי"ט שם אינו אלא מחמת קנס והכא לא שייך למקנסי' ואם ל"נ נזירותו בטומאה ה"ל לסתור גם הקודמין דלא עדיף ממי שנטמא באונס. ואפי' נטמא במת מצוה דמצווה לטמא לו משמע לשון הרמב"ם בפי"ז הי"ג דסותר. והוא דמפרש הא דאר"א שם במשנה ואל יטמא נזיר שהוא מביא קרבן על טומאתו ר"ל על טומאה זו שיטמא עתה להמ"מ. אבל אין זו מוכרח דיל"פ על טומאה דעלמא. ובכריתות (ט) ל"א אלא מזיד שוגג ואונס אבל לא מצוה. ואולי י"ל דגם מצוה בכלל אונס שהוא אנוס מחמת המצוה. וכמ"ק מהא דיליף שם פתאום זה אונס מן ויאמר ה' פתאום כו' והתם אונס דמצוה לשמוע בקול ה'. אולם הרמב"ם עצמו בפ"ו ה"ג לא כתב אלא שטמאוהו עובדי כוכבים באונס. ואולי י"ל דהכא עדיף טפי דבשעה שרבו כופהו אין לו דין נזיר כלל דאמרה תורה לאסור איסר על נפשו למעוטי מי שאין נפשו קנויה לו משמע דממעטו מדין נזיר. ועי' בירושלמי וברמב"ם ובראב"ד בפ"ה מהנ"ז. והשתא דאתינן להכי. יל"פ דאפי' לא נהג נזירתו ביין לבד ג"כ א"ע לו כיון שאין לו אז דין נזיר כלל לענין זה:
+
+
+###### Rashash on Nazir 62b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/62b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/62b:2)
+
+
+**רד"ה למה רבו כופו. שאם נדר בהנאה כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 62b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/62b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/62b:3)
+
+
+**שם או שאמר ערך פלוני.**גם הוא עצמו נערך כדאיתא בריש ערכין:
+
+
+###### Rashash on Nazir 62b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/62b:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/62b:4)
+
+
+**רד"ה א"ה אפי'. מה שנדר ממנו.**כצ"ל:
+
+
+###### Rashash on Nazir 62b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/62b:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/62b:5)
+
+
+**רד"ה אלא אמר אביי. וערך אין לו שאין גופו קנוי לו.**תמוה דהא איתא בריש ערכין דעבדים מעריכין ונערכין:
+
+
+
+## Daf 63a
+
+###### Rashash on Nazir 63a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/63a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/63a:1)
+
+
+**גמרא בעי רמב"ח נטמא בתוך מלאת ונודע לו לאחר מלאת מהו כו'.**פי' המפרש והתוס' בזה דחוקים. ולע"ד נל"פ בעייתו בטהת"ה. והכי קמבע"ל היאך גמירי ההלכה. אי גמירי דבטה"ת אזלינן בתר הידיעה ר"ל דדינה כאילו נטמא אז בעת אשר נודעה לו. לכן אם היתה אחר מלאת לר"א אינה סותרת אלא ז' וכן לרבנן מדינא דאורייתא. ובנטמא ביום ל"ב גם לרבנן א"ס אלא ז' אפילו מדרבנן. וכן בנזירות מרובה בנטמא לאחר מלאת לרבנן סותר ל' מדרבנן ולר"א ז' כמבואר כ"ז לעיל בפ"ג. או דלא גמירי אלא דוקא באם נודעה לו אחר הגילוח לר"א או לאחר הקרבן לרבנן. אבל בנודע קודם לא גמירי כלל. וממילא דינה כטומאה ידועה ובה ליכא ספיקא דאזלינן בתר זמן הטומאה וסותר הכל. ולכן פשיט ליה רבא שפיר במסקנא מדקתני בין כך ובין כך סותר ור"ל בין טומאה ידועה ובין טה"ת ולא קמפליג מידי ש"מ דדינן שוין לגמרי דסותר הכל כדאמרן ונכון בעז"ה:
+
+
+###### Rashash on Nazir 63a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/63a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/63a:2)
+
+
+**רש"י ד"ה כיצד. אם נטמא בטומאת מת וירד לטבול כו'.**נראה דר"ל באותן טומאות שאין הנזיר מגלח עליהן עתור"ע אות נ"ב:
+
+
+###### Rashash on Nazir 63a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/63a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/63a:3)
+
+
+**רד"ה ותו. כיון דמדאורייתא טה"ת הותרה הא דתניא כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 63a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/63a:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/63a:4)
+
+
+**תד"ה כיצד. ירד לטבול במערה בשביל טומאת שרץ כו'.**וכ"כ הרע"ב. מבואר מדבריהם דסיפא דקתני מטומאת מת. דוקא קתני דבטומאת שרץ אינו טמא אלא בשצף דלא מיקרי טהת"ה. והא דקתני להקר טהור ה"ה לטבול מטומאת שרץ אלא דלרבותא נקט כמש"כ התוס' לקמן. ותמיהני על תור"ע שנראה מדבריו שהוא חידש ד"ז מעצמו. אולם טעם החילוק שבין טומאת מת לשרץ שחידש נכון מאד וש"י. ונפלאתי על התור"ע שלא העיר על הרע"ב שפי' או ט"מ שטבל ואח"כ קבל עליו נזירות כו' והא מסקינן לעיל (יח) דטמא מתחלה אינו טעון תגלחת:
+
+
+###### Rashash on Nazir 63a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/63a:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/63a:5)
+
+
+**תד"ה מאן תנא. י"ל דלגבי עושה פסח מיירי כו' ואתיא כו' בין לר"א כו'.**מבואר מדבריהם דדוקא אי מיירי בפסח הוא דמצי אתיא אף לר"א. אבל בנזיר ליכא לאוקמי אליבא דידיה דכיון דלא נזרק הדם ע"כ לא גלח עדיין ותגלחת מעכבת. והיא מצוה בפ"ע. וכ"ה להועוי"ל. ולהמהרש"א בפסחים שם בתוס' אישתמיטו דבריהם דהכא. וגם בדבריהם שם מוכח דדוקא לרבנן אתיא הא דמר בר"א בנזיר וכמש"כ שם. אך לכאורה קשה דהא אף לר"א מגלח אחר אחד מן הדמים כדאמר לעיל (מה א) במשנה מגלח על החטאת שהחטאת קודמת בכ"מ. ואף לי"ס דגרסי שם ר' אלעזר מ"מ לא אשכחן דר' אליעזר פליג בהא. ולת"ק שם דהוא ר"י מגלח על השלמים לבד לפי' התוס' דשם. וכ"מ עוד ממתניתין סוף (דף מה) "ואח"כ הותר הנזיר לשתות יין ולהטמא למתים רש"א כיון כו' לשתות ביין כו'". ולמה לא הזכירו תגלחת. ע"כ משום דהיא לכ"ע אחר אחד מן הדמים (ולשון התוס' (מז א) ד"ה ונטמא אינו מדויק וע"ש בב"ר) וא"כ אף לר"א מ"ל דינא דמר בר"א והוא כגון שגלח על א' מן הדמים וקודם זריקת שאר דמים נודע לו טהת"ה. ולר"א אם נטמא אז סותר כדאיתא ס"פ ג' מינין. ועמש"כ בפסחים (פא ב) בתד"ה אלא:
+
+
+###### Rashash on Nazir 63a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/63a:6](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/63a:6)
+
+
+**ומש"כ**התוי"ט בד"ה אם עד שלא גילח. דאילו לר"א לא איצטריך לגמירי ע"ש. אני אומר דצריכה וצריכה. לומר דקודם הגילוח סותר את הכל וכמש"כ בס"ד לעיל בבעי' דרמב"ח:
+
+
+
+## Daf 63b
+
+###### Rashash on Nazir 63b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/63b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/63b:1)
+
+
+**גמרא חיישינן שמא בין פרקין עבר.**האי חיישינן היינו לקולא. ומצינו כיוצא בו כמש"כ בגיטין (עג ב):
+
+
+
+## Daf 64a
+
+###### Rashash on Nazir 64a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/64a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/64a:1)
+
+
+**גמרא בעי רמב"ח מת בכלי וכלי צף כו' בתר כלי אזלינן כו'.**לכאורה היא פלוגתא דתנאי בפ"י דפרה מ"ג ובעדיות פ"ז מ"ה. וי"ל:
+
+
+###### Rashash on Nazir 64a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/64a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/64a:2)
+
+
+**רש"י ד"ה הא כיצד. כגון לאחר שיצא נמצא צף כו'.**כצ"ל:
+
+
+
+## Daf 64b
+
+###### Rashash on Nazir 64b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/64b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/64b:1)
+
+
+**רש"י ד"ה א"ל מודינא. כלומר אחר שטבל ואחר שגילח.**כצ"ל:
+
+
+###### Rashash on Nazir 64b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/64b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/64b:2)
+
+
+**במשנה המוצא מת בתחלה.**בגליון בשם התוי"ט דאהלות שבנוסחת מהר"ם נמחק תיבת בתחלה. ועמש"כ שם בס"ד:
+
+
+
+## Daf 65a
+
+###### Rashash on Nazir 65a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/65a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/65a:1)
+
+
+**גמרא מיתיבי וכמה כו' פי' ר"א בר"צ נוטל כו'.**ובגליון מחק תיבות בר"צ. וטעות הוא אלא דלעיל צריך למחוק כדמוכח בתוס':
+
+
+###### Rashash on Nazir 65a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/65a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/65a:2)
+
+
+**תד"ה מצא אחד שאילמלי כו'.**כצ"ל ביו"ד בסוף:
+
+
+
+## Daf 65b
+
+###### Rashash on Nazir 65b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/65b:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/65b:1)
+
+
+**רש"י ד"ה אר"ל עילא. כי הדר ומצא להך שלישי מפני ליה גבייהו.**כצ"ל:
+
+
+###### Rashash on Nazir 65b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/65b:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/65b:2)
+
+
+**תד"ה א"ר משרשיא. מהו שיחפור בעומק עד שיגיע לסלע כו'.**בש"מ הקשה הא מפורש באהלות פט"ז הבודק בודק כו' עד שיהא מגיע לסלע כו'. ולכאורה הנ"ל שהן מפרשי' דשם קאי על משך האורך וכמו במשנה הסמוכה שם היה בודק והגיע לנחל כו' מפסיק. אבל ז"א דשמא הוא חצר המערה או הריוח שבין כוך לכוך:
+
+
+###### Rashash on Nazir 65b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/65b:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/65b:3)
+
+
+**תד"ה ור' יהושע. שת"ק מטמאו מספק ור"י בא לומר שהוא ודאי מצורע.**נ"ל דדוקא קאמרי ולא איפכא. דעתה י"ל דמלת ספק שבדברי ת"ק משמשת לשתים למעלה ולמטה וכמו בב"מ (סא) קרי ביה את כספך לא תתן לו בנשך ובמרבית ובנשך ובמרבית ל"ת אכלך. וכה"ג כתב התוי"ט בב"ב פ"א מ"ד בשם הב"י בכוונת המשנה שם. ושם (דף פח ב) ברשב"ם ד"ה אחד מיו"ד בליטרא תמצא ג"כ כיוצא בזה. ועמש"כ בק"א להט"א בר"ה בד"ה שייך לאבני שהם ובמ"ר בראשית פכ"ב אות א':
+
+
+###### Rashash on Nazir 65b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/65b:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/65b:4)
+
+
+**בא"ד לעולם ל"נ במצורע אלא טהור גמור כו'.**לכאורה קשה ממשנה ערוכה לעיל (נט ב) נזיר כו' ומוחלט בספק. וי"ל דמ"ל דספק לו אם החליטו הכהן או לא. ועוד בגווני אחריני:
+
+
+###### Rashash on Nazir 65b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/65b:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/65b:5)
+
+
+**תד"ה בשבעה. במראה שראה איש ואשה נזקקין זל"ז וכ"מ כו' אפילו ראה בהמה כו' נזקקין זל"ז.**לכאורה אדרבה מדמוסיף ר"י לומר נזקקין מכלל דת"ק לא איירי בזה. וגם מסוף דבריו "אפי' ראה בגדי צבע האשה" מוכח דת"ק בראה אשה לבד קאמר. ודע דממה שסיים שם במשנה הרהר עד שלא ראה או ראה עד שלא הרהר משמע דפי' במראה דלא כהמפרש כאן שראה שד כו'. ולפמש"כ הגראז"ל שם דגירסת עד. עד. משמע דתרוייהו בעינן אלא דאין חילוק בסדרן. והקשה דאמאי חשיב להו בשנים ע"ש. יהיה מזה אדרבה ראיה לפי' המפרש ודו"ק:
+
+
+###### Rashash on Nazir 65b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/65b:6](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/65b:6)
+
+
+**בא"ד בראיה ג' לרבנן כו' אבל לר"א רביעית לסתור כו'.**כצ"ל:
+
+
+###### Rashash on Nazir 65b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/65b:7](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/65b:7)
+
+
+**בהרע"ב כגון בשר שמן חלב כו'.**כ"ה כוונתו כאשר נקדתי. ולא כאשר שמעתי קורין שמן כי כן מוכח ביומא (יח) מהנוטריקון ע"ש:
+
+
+
+## Daf 66a
+
+###### Rashash on Nazir 66a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/66a:1](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/66a:1)
+
+
+**רש"י ד"ה מי גרע. כדאמר מר או איש אשר כו'.**כצ"ל. והוא שם (כב ד) והמציין השתבש ג"כ:
+
+
+###### Rashash on Nazir 66a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/66a:2](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/66a:2)
+
+
+**תד"ה אלא אראב"א. אבל משנזקק לטומאה אז לא תפטר כו'.**ופי' הרע"ב לדידיה דזהו כוונת המשנה וספיקו וש"ז ר"ל ספק דמחמת הש"ז באה הזיבה. והקשה התוי"ט מהוי"ו דוש"ז. ואני אומר דכן מצינו גם לעיל פ"ז מ"ג ואהל ורובע עצמות דפי' הרע"ב אם האהיל על רובע עצמות. ואמת דגם שם העיר התוי"ט מהוי"ו דורובע. אבל מצינו גם במקרא ווי"ן יתירים כמו אלה. עי' בראשית (ל"ו) בפירש"י בפסוק ואיה וענה:
+
+
+###### Rashash on Nazir 66a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/66a:3](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/66a:3)
+
+
+**ירושלמי פרק כג**
+
+
+###### Rashash on Nazir 66a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/66a:4](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/66a:4)
+
+
+****(סוף הלכה ג') דאר"י בשם ר' ינאי אל נא תהי כמת תסגר מה ימי הסגר ז' אף ימי המת ז'. כצ"ל וכ"ה במדרש ב"ר פ' ק' וכדמוכח ג"כ בירושלמי בפ' ואלו מגלחין. והקה"ע במחכ"ת צלל במים אדירים והעלה חרס בידו ושכח גם ד"ע בירושלמי שם:
+
+
+###### Rashash on Nazir 66a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Nazir/r/66a:5](https://torahapp.org/share/book/Rashash%20on%20Nazir/r/66a:5)
+
+
+סליק מסכת נזיר. בעזרת השי"ת מקבץ ומפזר
+

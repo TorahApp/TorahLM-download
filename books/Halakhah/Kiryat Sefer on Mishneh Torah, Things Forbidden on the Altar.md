@@ -1,0 +1,801 @@
+# Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar
+
+קרית ספר על משנה תורה, הלכות איסורי המזבח
+
+Link: [https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar)
+
+חיבור הלכתי פורץ-דרך וחדשני מבחינת היקפו ואופן סידור הדינים שבו. נכתב על ידי הרמב"ם במאה ה-12.
+
+Legal code written by Maimonides in the 12th century, groundbreaking in its organization and scope.
+
+Sections: Chapter-Halakhah-Comment
+
+Location: Halakhah/Mishneh Torah/Commentary/Kiryat Sefer/Sefer Avodah
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Friedberg Edition (Segments: 69, License: Public Domain)
+
+
+## Chapter 1
+
+
+### Halakhah 1
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 1:1:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/1:1:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/1:1:1)
+
+
+**מצות קטו** שיהיו כל הקרבנות תמימים ומובחרים דכתיב תמים יהיה לרצון זו מצות עשה:
+
+
+
+### Halakhah 2
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 1:2:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/1:2:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/1:2:1)
+
+
+**אזהרת רכב** שלא להקדיש בעלת מום למזבח דכתיב כל אשר בו מום לא תקריבו מפי השמועה למדו שזו אזהרה למקדיש בעלי מומין למזבח דאי לבל תשחטו הרי נאמר למטה לא תקריבו גבי עורת או שבור וגו' ואפילו הקדישו לדמי נסכין דכל לגבי מזבח פסול כדכתיב לא תקריבו.
+
+
+
+### Halakhah 3
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 1:3:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/1:3:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/1:3:1)
+
+
+**המתכוין** לומר שלמים ואמר עולה או עולה ואמר שלמים אינו לוקה אם היה בעל מום דבעיא פיו ולבו שוים דהקדש טעות לאו הקדש הוא. מי [שדימה] להקדיש בעל מום למזבח והקדיש הרי זו הקדש לדעת הרב ז"ל דפיו ולבו שוין ואינו לוקה משום דהוי כשוגג:
+
+
+
+### Halakhah 4
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 1:4:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/1:4:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/1:4:1)
+
+
+**אזהרת רכג** שלא לשחוט בעל מום לקרבן דכתיב בבעלי מומין לא תקריבו אלה לה' מפי השמועה למדו שזו אזהרה לשוחט דאם בל תקדישו הרי כבר אמור למעלה א"כ מה ת"ל לא תקריבו לא תשחטו:
+**אזהרת רכד** שלא לזרוק דם בעלי מומין למזבח דכתיב לא תקריבו אלה לה' מפי השמועה למדו דהאי ריבוייא לאזהרת זריקת דם אתא:
+**אזהרת רכה** שלא להקטיר אימורין של בעלי מומין על גבי מזבח דכתיב ואשה לא תתנו מהם על המזבח נמצאת למד שאם עבר והקדיש בעל מום למזבח ושחטו וזרק דמו והקטיר אימוריו לוקה ד' מלקיות דכל חד הוי לאו באנפי נפשיה:
+
+
+
+### Halakhah 5
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 1:5:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/1:5:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/1:5:1)
+
+
+**אזהרת רכו** שלא יקריב בעל מום עובר דכתיב לא תזבח לה' אלהיך שור ושה אשר יהיה בו מום מפי השמועה למדו שזו אזהרה לבעל מום עובר שאם הקריבה לוקה דכתיב כל דבר רע לרבות מום עובר:
+
+
+
+### Halakhah 6
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 1:6:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/1:6:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/1:6:1)
+
+
+**אזהרת רכז** שלא להקריב בעל מום מיד הגוי דכתיב ומיד בן נכר לא תקריבו את לחם אלהיכם מכל אלה והיינו בקרבן יחיד דמרבי' גוי כישראל דכתיב איש איש לרבות הגוים שנודרים נדרים ונדבות כישראל ולא יקבלוהו ממנו אלא תמים:
+
+
+
+### Halakhah 7
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 1:7:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/1:7:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/1:7:1)
+
+
+**אזהרת רכח** שלא להטיל מום בקדשים דכתיב בקרבן כל מום לא יהיה בו מפי השמועה למדו שזו אזהרה שלא יתן בו מום דכל מום לא יהיה בו קרינא ביה לא יהיה בו שלא יטיל בו מום וכתיב ברישיה דקרא ואיש כי יקריב זבח שלמים וגו' אין לי שלא יטיל מום אלא בשלמים מנין לרבות העולה ת"ל נדר מנין לרבות התודה ת"ל נדבה מנין לרבות יולדת ונזיר מצורע ת"ל לפלא מנין לרבות התמורות והולדות ת"ל בבקר ומנין לרבות הבכור והמעשר והפסח ת"ל בצאן מנין לרבות חטאת ואשם ת"ל או בצאן. ואינו לוקה אלא בזמן שבית המקדש קיים שהרי היה ראוי ליקרב ופסלו אבל בזמן הזה אף על פי שעבר על ל"ת אינו לוקה דכיון דאינו עומד לקרבן לאו מידי פסל ביה ללקות.
+
+
+
+### Halakhah 8
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 1:8:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/1:8:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/1:8:1)
+
+
+**הטיל** מום בבעלת מום אינו לוקה דדרשינן כולי קרא תמים יהיה לרצון כל מום לא יהיה בו דמשמע תמים הראוי לרצון אמרתי לך דכל מום לא תטיל בו אבל בעל מום לא.
+
+
+
+### Halakhah 9
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 1:9:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/1:9:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/1:9:1)
+
+
+**אחד** המטיל מום בקדשים או בתמורתן כדילפינן מריבויי דקרא ותמורת בכור ומעשר או תשיעי של טעות עשירי אינו לוקה בהטלת מום דלא חזו להקרבה דכתיב הם בבכור ומעשר לומר דהם קרבין ואין תמורתם קרבים וכתיב העשירי להוציא את התשיעי.
+
+
+
+### Halakhah 10
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 1:10:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/1:10:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/1:10:1)
+
+
+**המקדיש** בעלת מום למזבח אע"פ שלוקה הרי זו נתקדשה דכתיב בבעל מום ולנדר לא ירצה ריצוי הוא דאיני מרצה הא מקדש קדישי וכיון שנתקדשה תפדה ותצא לחולין ויביא בדמיה קרבן:
+**מצות קיו** לפדות פסולי המוקדשין ויצאו לחולין דכתיב רק בכל אות נפשך תזבח ואכלת בשר מפי השמועה למדו שפסוק זה מדבר בפסולי המוקדשין שיפדו דאי בבשר תאוה להתירה בלא הקטרת אימורין הרי כבר כתוב במקום אחר כי ירחיב ה' אלהיך וגו' ואמרת אכלה בשר אלא בבעלי מומין שיפדו כדאמר' וביארנו בהלכות ערכין דקרא דאם כל בהמה אשר לא יקריבו ממנה וגו' שמדבר בבעלי מומין שנפדו.
+
+
+
+### Halakhah 11
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 1:11:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/1:11:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/1:11:1)
+
+
+**ובעלת** מום קבוע שילדה אפילו תמים יפדה ויצא לחולין נראה דוולד קדוש מן התורה כיון דבעלת מום עצמה מיתפיס בה קדושה כדילפינן מלא ירצה וולדה נמי כמוה דהא מרבינן וולד בעלי מומין מדכתיב אם זכר וגו' ואף ע"ג דהתם הוה בעל מום בתר דאקדשיה ולהכי וולד קרב דאמו נמי היתה ראויה ליקרב כשהקדישה קודם שנפל בה מום אפ"ה לענין קדושה בעלת מום מעיקרא נמי הא אית בה קדושה מדאוריתא כדילפינן ולהכי וולדה נמי אית בה קדושה מדאוריתא כדאמר' אלא דאינו נקרב כיון שאמו שבא הוא מכחה לא היתה ראויה ליקרב שקדם מומה להקדשה ולא יהא טפל חמור מן העיקר ואם ילדה אחר פדיון הוולד חולין דכיון דנפדית וולדה נמי נפדה דהוי ירך אמו ואם מתה קודם שתפדה נפדת מתה דלא בעי' העמדה והערכה כדכתיב והעמיד והעריך אלא בקדם הקדשן את מומם אבל קדם מום קבוע להקדשן לא בעי' העמדה והערכה דכתיב אותה למעוטי בעל מום מעיקרו דלא הוי בכלל העמדה כדאמ' אבל מקדיש בעלת מום עובר או תמימה ונולד בה מום קבוע צריכה העמדה והערכה דכתיב אשר לא יקרב ממנה קרבן וגו' שאינה קריבה כל עיקר יצתה זו שאינ' קריבה היום וקריבה למחר שיעבור מומה וקאמר רחמנ' עביד לה העמדה והערכה וכל זמן שהוא מפרכסת תפדה דהוי העמדה והערכה כיון דאינה מטמאה טומאת נבלה כדילפינן בדוכתא ואם ילדה יקרב וולדה דכתיב אם זכר גבי שלמים וקרא יתירא הוא דנשתיק קרא מיניה ומדלא קבע ליה זכר כדקבע בעולה ממילא דנקבה נמי חזיא זכר ונקבה תו למה לי אלא לרבות וולד ותמורה אין לי אלא תמימים וולד ותמורה של בעלי מומין מנין אם אם לרבות וולד ותמורה של בעלי מומין ילדה אחר שנפדית אסור מדרבנן דמדאוריתא עובר ירך אמו הוא ופקעה קדושתן בפדיון אמן. קדשים שהנאתן להקדש נוהגין בהם ביזיון להוסיף בדמיהם ושהנאתן לבעלים כבכור ומעשר אין נוהגים בהם בזיון וכתבו בתוספות דאף על גב דמפרש הטעם משום דהנאתו לבעלים על כרחין מדאוריתא הוא דדרשינן גבי עיר הנדחת בהמתך מי שנאכל בתורת בהמתך יצאו בכור ומעשר שאין נאכלין בתורת בהמתך דאין נמכרין באיטליז וכו' ושמא משום קרא דנפקא דאין נוהגין ביזיון בדבר שאין הנאתו להקדש עד כאן:
+
+
+
+## Chapter 2
+
+
+### Halakhah 1
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 2:1:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/2:1:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/2:1:1)
+
+
+**כל** המומין הפסולין באדם ובבהמה חמשים כדילפינן להו לעיל בתרוייהו.
+
+
+
+### Halakhah 2
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 2:2:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/2:2:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/2:2:1)
+
+
+**ויש** מומין אחרים מיוחדין בבהמה ואינם ראויים להיות באדם ולהכי לא ילפינן להו דשלשה ועשרים הם עינו עגול כאדם עינו א' כשל עגל וא' כשל אווז דהוו מום שבגלוי יבלת בעינו ויש בה שיער דאף על גב דאין מומין בלבן היכא דאית בה שיער מגונה הוא והוי מומא בכלל יבלת דכתיבא בבהמה ניקב עור שבין חוטמה במקום הנראה פיה דומה לשל חזיר פרום חטייה החיצונות שנקבו או שנגממו אף על פי שנשאר מקצתן או שנפגמו אם נעקרו חטיה הפנימיות נטלו קרניה וזכרותן עמהם נפגם עור הגיד נפגמה הערוה של נקבה נפגם הזנב מן העצם היה ראש הזנב מפוצל לשנים בשני עצמים כל הני הוי מומא ונראה דהוו כולהו בכלל חרוץ הכתוב בבהמה זנב קצר רך ומדולדל נראה דהני נמי הוו בכלל חרוץ דכיון דתרבית עגלים אינו כן הוי כמי שנחרץ נשבר עצם מן הזנב הוי בכלל שבור דכתי' שבר יד ושבר רגל מה אלו אינם חוזרים ובגלוי אף כל שנשבר שהוא בגלוי ואינו חוזר לאפוקי נשבר עצם הצלע שאינו בגלוי בעל חמש רגלים או אין לה אלא שלשה רגלים איפשר דהוו בכלל שרוע הכתוב בתורה ובעל שלש דהוי חסר ומום שבגלוי וילפינן בכלל ופרט וכלל כל מומין שבגלוי פרסת רגלו או ידו עגולה כשל חמור דפרסות בהמה טהורה אינן עגולות ידו או רגלו קלוטות כשל חמור וזהו קלוט האמור בתורה נגמם זכרות וטלפיה נראה דהוי בכלל חרוץ הרי אלו כ"ב ובין חוליא לחוליא כמלא אצבע כשר הא יותר פסול הרי כ"ג.
+
+
+
+### Halakhah 6
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 2:6:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/2:6:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/2:6:1)
+
+
+**כל** מום מע"ג מומין המנויין בבהמה פוסלין אותה מן הקרבן דכתי' ולנדר לא ירצה. ואם נפל אחד מהם בתמימה שהיא קדש תפדה ותצא לחולין כדכתיב תזבח ואכלת בשר דמיירי בפסולי המוקדשין שיפדה חוץ מזקן וחולה ומזוהם דאף על גב דאינם כשרים לקרבן כדילפינן לעיל אינם נפדים עד שיפול בהם מום קבוע.
+
+
+
+### Halakhah 8
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 2:8:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/2:8:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/2:8:1)
+
+
+**יש** ד' חולים בבהמה שאינה מקריבין אותה לפי שאינה מן המובחר וכתיב מבחר נדריך וגו' יבלת בלובן עיניו בלא שיער נגממו קרניו אע"פ שנשאר מזכרותן נפגמו חטיו הפנימיות (נגממו) אין הבהמה נפדית על אלו ואם הקריבה הורצה דמבחר נדריך דכתיב למצוה הוא ולא לפסול.
+
+
+
+### Halakhah 9
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 2:9:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/2:9:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/2:9:1)
+
+
+**וכן** בהמת קדשים שנעבדה בה עבירה שיש בה חיוב מיתה דאלו חרש בשור וחמור לא נפסל דכתיב אלה מאלה אי אתה מקריב אבל אתה מקריב קדשים שנעבדה בהם עבירה או שהמיתה את האדם בעד אחד או על פי הבעלים דאינה נסקלת הבהמה דמודה בקנס פטור [אינה קריבה] דכתי' מן הבהמה להוציא רובע ונרבע מן הבקר להוציא את הנעבד מן הצאן להוציא את המוקצה שהוקצה והופרש לצורך עבודה זרה ומן הצאן להוציא את הנוגח וצריכי כולהו ולא נפדין דאין בהמה נפדית אלא על מום הניכר בה נראה משום דכתיב ואם כל בהמה טמאה וגו' דמיירי בבעלי מומין שיפדו וקרי לה טמאה שניכר מומה כטמאה שניכרת בסימניה.
+
+
+
+### Halakhah 10
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 2:10:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/2:10:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/2:10:1)
+
+
+**נולד** בבהמה טרפות האוסרה באכילה אסורה לגבי מזבח כדכתיב הירצך או הישא פניך דכיון דאינו ראוי להדיוט אינו ראוי לגבוה וכתיב נמי אם עולה קרבנו מן הבקר וגו' מן הבקר מה תלמוד לומר אלא להוציא את הטרפה ואין פודין אותה דאין פודין את הקדשים להאכילן לכלבים כדאמר' לעיל מדכתיב ואכלת ולא לכלביך וכן אם נמצא אחד מן האיברים הפנימיי' חסר אף על פי שאינה טרפה אסורה למזבח דכתיב תמימים יהיו לכם מלמד שאין מקריבין חסר ואם היה יתר כל יתר כנטול דמי ופסולה:
+
+
+
+## Chapter 3
+
+
+### Halakhah 1
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 3:1:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/3:1:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/3:1:1)
+
+
+**אין** מומין ולא נקבות פסול בעוף דכתיב תמים זכר בבקר בכשבים בעזים מלמד דתם וזכר בבהמה כדכתיב כולה בהמה בקר כשב ועז ואין תם וזכר בעוף יכול שיבש גפה ושנסמית עינה וכן כל חסרת אבר תלמוד לומר ואם מן העוף ולא כל העוף וכן טרפה נפסל לקרבן משום הקריבהו נא לפחתך הירצך או הישא פניך.
+
+
+
+### Halakhah 2
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 3:2:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/3:2:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/3:2:1)
+
+
+**תורים** קטנים פסולים ובני יונה גדולים פסולים דכתיב מן התורים דמשמע גדולים או מן בני היונה דמשמע קטנים ולא לישתמיט קרא למיכתב בשום דוכתא מן בני התורים או מן היונה. תחלת הציהוב בזה ובזה פסול דיצאו מכלל קטנים ונפסלו מבני יונה ולכלל גדולים לא באו שיוכשרו בתורים וכתיב מן התורים ולא כל התורים מן בני היונה ולא כל בני היונה פרט לתחלת הציהוב שבזה ושבזה כדאמר' והאי לא הוי אלא אסמכתא בעלמא דפיסולייהו משום ספקא דמסקנא דתלמודא הוי דאיצטריך קרא למעוטי נרבע ונעבד אי נמי דתחלת ציהוב ממילא אימעוט מבתורים דומיא דבני יונה מה בני [יונה] תחלתם דוקא קטנים אף תורים תחלתם דוקא גדולים למעוטי תחלת הציהוב.
+
+
+
+### Halakhah 3
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 3:3:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/3:3:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/3:3:1)
+
+
+**הטומטום** והאנדרוגינוס הן ספק זכר ספק נקבה והרי הם כמין אחר ובקרבנות נאמר זכר תמים ונקבה תמימה עד שיהא זכר ודאי ונקבה ודאית לפיכך העוף שהוא טומטום ואנדרוגינוס פסול למזבח דאף על גב דאין זכרות בעוף אפילו הכי בעינן או זכר ודאי או נקבה ודאית.
+
+
+
+### Halakhah 4
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 3:4:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/3:4:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/3:4:1)
+
+
+**וכן** הכלאים ויוצא דופן ומחוסר זמן פסולין אף על פי שאין בהם מום דכתיב שור או כשב או עז עד שיהא כל מין ומין בפני עצמו לא שיהא מעורב כבש ועז כי יולד פרט ליוצא דופן והיה שבעת ימים פרט למחוסר זמן תחת אמו פרט ליתום שנולד אחר שנשחטה אמו.
+
+
+
+### Halakhah 5
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 3:5:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/3:5:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/3:5:1)
+
+
+**הנדמה** כגון רחל שילדה מין עז פסול לגבי מזבח כבעל מום דכתיב או עז פרט לנדמה וכתיב נמי גבי קרבן חובה בראש חדש ושעיר עזים א' המיוחד ובא מששת ימי בראשית ממשפחות עזים וצריכי תרי קראי כדאיתא התם.
+
+
+
+### Halakhah 6
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 3:6:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/3:6:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/3:6:1)
+
+
+**וכן** הרובע והנרבע והמוקצה לע"ז והנעבד אף על פי שמותרים באכילה פסולין לגבי מזבח כדילפינן לעיל בבהמה ובעוף נמי פסילי מדכתיב מן התורים ולא כל התורים ומן בני היונה ולא כל בני היונה למעוטי נרבע ונעבד דס"ד אמינא הואיל וכתיב כי משחתם בהם מום בם ואין השחתה אלא דבר ערוה ועבודה זרה כדכתיב כי השחית כל בשר וכתיב פן תשחיתון ועשיתם לכם פסל וגו' דמשמע דכל שהמום פוסל בו דהיינו בהמה דבר ערוה וע"ז פוסלין בה כדכתיב משחתם בהם מום בם ועוף דלא פסיל ביה מומא אימא דבר ערוה ועבודה זרה נמי לא ליפסיל ביה קמ"ל מן התורים כדאמר' ונראה דמוקצה נמי הוי בכלל האי דרשה דהא הוקצה לע"ז וכן בהמה ועוף שהרגו את האדם הוו כרובע ונרבע ופסולין לגבי המזבח דלא גרעי מנוגח דכתיב ומן הצאן [לרבות] את הנוגח ואינו לוקה עליהם מן התורה דלא נתפרשה אזהרתן בתורה אלא דנמעטו מקראי כדאמ' אבל אתנן זונה ומחיר כלב לוקה עליהם דנתפרשה אזהרתן בתורה כדכתיב לא תביא אתנן זונה וגו' ומשום דנאמרו בלאו אחת אינו לוקה על שניהם אלא אחת:
+
+
+
+### Halakhah 8
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 3:8:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/3:8:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/3:8:1)
+
+
+**מצות קיז** להקריב מיום השמיני והלאה דקודם זמן זה נקרא מחוסר זמן ואין מקריבין אותו דכתיב והיה שבעת ימים תחת אמו ומיום השמיני והלאה ירצה וגו' וכל שבעת ימים נקרא מחוסר זמן כדכתיב שבעת ימים תחת אמו ואם עבר והקריבו אינו לוקה דהוי לאו הבא מכלל עשה ולא נרצה הקרבן כדכתיב ומיום השמיני והלאה ירצה הא קודם לא נרצה.
+
+
+
+### Halakhah 9
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 3:9:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/3:9:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/3:9:1)
+
+
+**תורים** שלא הגיע זמנם הוי כמחוסר זמן בבהמה ובני יונה שעבר זמנם הוו כבעל מום אלא שאינו לוקה אף ע"פ שהקרבן פסול ולא נרצה דכיון דתורים הוו כמחוסר זמן ואינו לוקה דהוי לאו הבא מכלל עשה בני יונה דאיתקשו לתורים לא לקי עלייהו אי עבר זמנן א"נ דלא נתפרשה אזהרתן אלא ממיעוטא כדאמ' לעיל.
+
+
+
+### Halakhah 10
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 3:10:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/3:10:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/3:10:1)
+
+
+**המקדיש** טומטום ואנדרוגינוס וטרפה וכלאים ויוצא דופן למזבח הרי זה כמקדיש עצים ואבנים דהוו כחולין לכל דבר וימכרו ויביא בדמיהן כל קרבן שירצה ואינם כבעל מום אלא כבהמה טמאה מה בהמה טמאה דליכא במינה קרב דטומטום ואנדרוגינוס בריות משונות הם והוי כאלו לא קרב במינו וכך יוצא דופן תהי בה אינשי והוי כאלו לא קרב במינו וכן כלאים משונה הוא והוי כאלו לא קרב במינו מאי אמרת טרפה דאיכא במינה קרב שאר בהמות תמימות ולא דמי לטמאה אלא לבעל מום לא היא דאי לא דמיא לטמאה להא מילתא דיש במינה קרב דמיא לה במילתא אחריתי דאסירי באכילה כמותה לאפוקי בעלת מום דלא דמיא לה דמותרת באכילה ולהכי כל הני לא נחתא להו קדושת הגוף אבל המקדיש רובע ונרבע ומוקצה ונעבד ואתנן ומחיר הוו כמקדיש בעל מום עובר וירעו עד שיפול בהם מום קבוע ויפדו עליו דכיון דיש במינן קרב הוו כבעל מום משום דאין מומם ניכר לא יפדו עד שיפול בהם מום קבוע כמקדיש בעל מום עובר וכן מחוסר זמן הוי כמקדיש בעל מום עובר מטעמא דאמרן. נמצאו כל האסורין למזבח ט"ו עם יתום.
+
+
+
+### Halakhah 12
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 3:12:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/3:12:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/3:12:1)
+
+
+**כל** האסורין לגבי מזבח אסורין בכל שהן אפילו נתערב אחד בריבוא נפסד הכל ונפסל למזבח והיינו מדרבנן דמדאוריתא בטלי ברובא כדכתיב אחרי רבים להטות וליכא חומרא במוקדשין טפי מחולין אלא מדרבנן דהא באיברי בעלי מומין שנתערבו באיברי תמימין אם עלו לא ירדו אפילו לרבנן דפליגי אדרבי אליעזר דאית להו דרשא דמום בם לא ירצו הא על ידי תערובת ירצו אלא דלכתחלה אסירי מדרבנן כדאמ'. וכולן וולדותיהן מותרי' לגבי מזבח חוץ מוולד נרבעת ונעבדת ומוקצת ושהמית את האדם דהיא וולדה נרבעו ונגחו ונעבדת ומוקצת דניחא ליה בניפחיה דדעתו להשתחוות ולהקצות לכל הנפח אבל אי אחר כך נתעברו לא פסילי וכן אפרוח שנולד מביצת יונה טרפה מותר לגבי המזבח דהא גופא אחרינא הוא וגוף זה לא היה במעי הטרפה.
+
+
+
+### Halakhah 14
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 3:14:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/3:14:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/3:14:1)
+
+
+**המשתחוה** לקמה חטיה מותרין למנחות דאין דעתו להשתחוות אלא למה שהוא רואה לא לסלת ועוד דנשתנו ונדמו לוולדות של איסורי מזבח דלא נאסרו אלא הם ולא וולדותיהם כאתנן דגלי ביה קרא הם ולא וולדותיהם. וכן בהמה שפטמה בכרשיני עבודה זרה מותרת למזבח שהרי נשתנו ודרשינן נמי גבי אתנן זונה הם ולא שנוייהן.
+
+
+
+### Halakhah 15
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 3:15:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/3:15:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/3:15:1)
+
+
+**לוקחין** קרבנות מן הגוים ואין חוששין לאיסורי מזבח דאזלינן בתר רובא וכתיב נמי מעמלקי הביאום וגו' למען זבוח לה' אלהיך:
+
+
+
+## Chapter 4
+
+
+### Halakhah 1
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 4:1:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:1:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:1:1)
+
+
+**אחד** הבהמה ואחד העוף שנרבע או המית את האדם או הוקצה או נעבד הכל פסול לגבי מזבח כדילפינן רובע ונרבע ומוקצה ונעבד בבהמה ובעוף נמי נרבע ונעבד מדכתיב מן התורים ואם המיתו את האדם הוו כרובע ונרבע דחייבים מיתה ופסילי הכא נמי דחייבין מיתה פסילי ואם היו שם שני עדים הרי הבהמה או העוף נסקלין דכתיב ואת הבהמה תהרוגו וכתיב השור יסקל וגו' היה שם עד א' והבעלים שותקים או על פי הבעלים בלי עד זו היא המותרת להדיוט ואסורה לגבי מזבח דכיון דאשכחן מיעוטא בהני לאוסרם למזבח כדאמרינן לא איצטריך אלא לכהאי גוונא דלהדיוט [לא] אסירי דאלו איכא עדים ונסקל לא הוה צריך מיעוטא דפשיטא דנסקלין ואפילו להדיוט אסירי כדאמרינן היה שם עד אחד והבעלים מכחישים הרי זה מותר אף למזבח דעד אחד אינו קם לממון. ואי אסורה על פיו למזבח הרי קם לממון.
+
+
+
+### Halakhah 3
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 4:3:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:3:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:3:1)
+
+
+**שור** האיצטדין הרי הוא כשר למזבח דהוי כאנוס וכתיב והמית איש וגו' דמשמע מרצונו וכתיב כי יגח ולא שיגח הוא אחרים. אין הבהמ' נפסלת משום רובע ונרבע אלא ברביעה בן תשע שנים דבבציר מהכי לאו רביעה היא וכן האשה פחותה מבת שלש שנים ויום אחד אין הבהמה נפסלת על ידה דלאו ביאה היא כדילפינן בדוכתא וגוי ועבד נמי פוסלים הבהמה ברביעה [כיון שנעשה בה מעשה כמו שנאסרת ברביעה בין שתהיה שלו ובין שתהיה של חבירו משום דעבד בה מעשה, ועוד דגוי נמי מוזהר על הבהמה כדכתיב והיו לבשר אחד (בראשית ב, כד) ולהכי פוסל אותה].
+
+
+
+### Halakhah 4
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 4:4:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:4:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:4:1)
+
+
+**מאימתי** תפסל הבהמה [או עוף] משום מוקצה משיעשו בה הכומרים מעשה דאין הקדש לעבודה זרה אלא בגזיזה או עבודה לשם עבודה זרה איקרי מוקצה לעבודה זרה ואיסור מוקצה לגבוה ילפינן ליה נמי מדכתיב תשמרו להקריב לי במועדו לי ולא מה שהוקצה לאדון אחר.
+
+
+
+### Halakhah 5
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 4:5:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:5:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:5:1)
+
+
+**הרובע** והנרבע בין בהמה שלו בין של חברו דכיון דעבד בה מעשה אסרה ובין באונס בין ברצון דאין קישוי אלא לדעת וכן מצינו הבהמה הנרבעת היא נסקלת ואף על פי שהיא אנוסה ובין בזדון בין בשגגה דאף על גב דבשוגג אדם אינו במיתה וכתיב מות יומת ואת הבהמה תהרוגו דמשמע כשימות האיש הבהמה תהרוגו אפילו הכי כיון שבאת תקלה לאדם על ידה ואפילו בשוגג היא נסקלת ובין לפני הקדשה בין לאחר הקדשה אסורה למזבח דכתיב זאת התורה לעולה וגו' זאת מיעוטא שאם עלו רובע ונרבע נמי ירדו ולא איצטריכו תרי קראי אלא חד לחולין שנרבעה ואקדשה וחד לנרבעה כשהיא הקדש אבל מוקצה בעינן שלו וקודם שיקדיש דאם הקדיש הרי אינה שלו ואינו יכול להקצותה דאין אדם אוסר דבר שאינו שלו והוא אינו מעשה דהכומרים הם שעושים מעשה להקצותה כדאמ'.
+
+
+
+### Halakhah 6
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 4:6:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:6:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:6:1)
+
+
+**הנעבד** בין שעבד שלו בין של חברו בין באונס בין ברצון בין בזדון בין בשגגה בין לפני הקדש בין אחר כך אסורה דאף על גב דבאונס פטור ממיתה אפ"ה איכא עשה דבכל נפשך שחייב למסור עצמו אפילו בכל אונסא ומשום הכי נאסרה דהא עבדה באיסור כדאמרינן וכל ציפוי נעבד אסורין בהנאה דכתיב לא תחמוד כסף וזהב עליהם וגו' וכתיב נמי ואבדתם את שמם כל העשוי לשמה אבל מוקצה מה שעליו מותר דלא אסרה תורה אלא הוא.
+
+
+
+### Halakhah 7
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 4:7:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:7:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:7:1)
+
+
+**ואבני** ההר שהשתחוה לו פסולין למזבח דקל וחומר ומה אתנן שמותר בתלוש להדיוט אסור במחובר לגבוה ואפילו למכשירי קרבן דכתיב בית ה' אלהיך דמשמע אפילו לבנין הבית וכתיב אתנן זונה סתמא לא שנא תלוש ולא שנא מחובר נעבד שאסור בתלוש להדיוט אינו דין שאסור במחובר לגבוה ולא תימא ק"ו לקולא דקולא וחומרא לחומרא דיינינן וכן מי מעין שהשתחוה לה פסולין למזבח דדילמא לקילוח המעיין והלוכו השתחוה והרי כל המעיין נעבד ויש נעבד במחובר אצל גבוה כדילפינן מקל וחומר דאתנן.
+
+
+
+### Halakhah 8
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 4:8:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:8:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:8:1)
+
+
+**כל** שיש בו שם לעבודה זרה לא יעשה למלאכת הקדש אף על פי שמותר בהנאה נראה דלא אסירי כל הני אלא מדרבנן דמדאוריתא כיון דנשתנו שרו דדיו לבא מן הדין להיות כנדון דבאתנן איכא שינוי [שרי] כדדרשינן הם ולא שנוייהם:
+**אזהרת רכט** שלא להקריב אתנן זונה ומחיר דכתי' לא תביא אתנן זונה ומחיר כלב וגו' והמקריב אחד מהם או שניהם כאחד לוקה אחת מפני שנאמרו בלאו אחד. ואי זהו אתנן האומר לזונה הא לך דבר זה בשכרך אחת זונה שפחה או גויה או ישראלית שהיא ערוה עליו או ממחוייבי לאוין דכתיב הכא לא תביא אתנן זונה וגו' כי תועבת וגו' וכתיב התם גבי עריות כי כל אשר יעשה מכל התועבות וגו' מה להלן עריות שאין קידושין תופסין בה הכא נמי עריות שאין קדושין תופסין בה ושפחה וגויה נמי דאין קדושין תופסין בהם כדילפי' בדוכתייהו ומחוייבי לאוין נמי אף על גב דתפסי בהו קדושין [הוי אתנן דהא גבי כהן דאסור בזונה כדכתיב (ויקרא כא, ז) אשה זונה וכו' הויא זונה נמי מחייבי לאוין כדילפינן התם פי"ח מהלכות איסורי ביאה, והכא נמי כתיב זונה] אבל פנויה אפילו היה כהן אתננה מותר דלא מקרייא זונה לגבי כהן אלא זונה דעריות וכן אשתו נדה אתננה מותר דלא הויא זונה דהא מותרת לאחר זמן.
+
+
+
+### Halakhah 9
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 4:9:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:9:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:9:1)
+
+
+**נשא** אחד מחייבי לאוין [כל שיתן לה מחמת בעילה הרי זה אסור דאתנן זונה כתיב (דברים כג, יט) אתנן מחמת זנות] והזכור אתננו אסור דכתיב הכא תועבה וכתיב התם מכל התועבות האלה וגו' גבי עריות וזכר נמי דאיכתיב בהדייהו. נתנה האשה אתנן לבועל מותר משום אתנן אף על פי שאין ראיה לדבר דלשתרי להקרבה זכר לדבר ואתנן לא נתן לך ותהי להפך מדכתי' להפך משמע דאין קרוי אתנן אלא מן האיש לאשה לא בהפך.
+
+
+
+### Halakhah 10
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 4:10:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:10:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:10:1)
+
+
+**האומר** לחברו הא לך דבר זה ותלין שפחתך אצל עבדי העברי ואין לו אשה ובנים דאסיר בשפחה הרי זה אתנן וכן הבעלי לפלוני הישראלי הרי זה אתנן דכל מה שהוא שכר בעילתה הוי אתנן בין נתנו הבועל או אחר דאתנן זונה איקרי.
+
+
+
+### Halakhah 11
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 4:11:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:11:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:11:1)
+
+
+**פסק** לתת לה טלה ונתן לה מאה כולן אתנן ואסורין למזבח דכולהו מכח אתנן קאתו וכולהו אתנן נינהו ולא מתנה. נתן לה אתננה ולא בא עליה לא הוי אתנן עד שיבא עליה ואם קדמה והקריבתו כשר כשאמר לה אי מיצטריך ליך ניקני לך מעכשיו דהוי ברשותה להקדישו ואי לא איצטריך ליך לא מיקני לך עד שעת ביאה ולהכי איצטריך לאשמועינן דמותר אם קדמה והקריבתו דלא תימא אתנן הוה קדמה והקדישתו קודם שיבא עליה ואחר כך בא עליה הרי זה ספק אם הוא אתנן הואיל ובא עליה קודם שתקריבנו או אינו אתנן שהרי הקדישתו קודם דאמירתו לגבוה כמסירתו להדיוט.
+
+
+
+### Halakhah 13
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 4:13:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:13:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:13:1)
+
+
+**בא** עליה ולא נתן לה ולאחר זמן נתן לה הרי זה אתנן [בד"א] בזונה גויה דאינה צריכה משיכה ואמר בטלה זה או בישראלית שהי' הטלה בחצרה ואמר הרי היא שלך אם לא אתן לך מעות ביום פלוני אבל אמר לה טלה סתם ובא עליה בין זונה בין ישראלית ולאחר זמן שלח לה טלה הרי זה מותר משום אתנן דהא דמשדר לה בתר הכי מתנה בעלמא הוא דאין אתנן אלא המיוחד בשעת ביאה כדכתיב אתנן זונה שהוא אתנן בשעת ביאת זנות.
+
+
+
+### Halakhah 14
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 4:14:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:14:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:14:1)
+
+
+**אין** אסור משום אתנן ומחיר אלא גופן שהוא דבר הראוי ליקרב על גבי המזבח אבל נתן לה מה שאינו ראוי ולקחה בו קרבן הרי זה כשר דכתיב לא תביא אתנן זונה וגו' אתנן גופיה הוא דאסיר ולא חילופיה ואפילו אתנן גופיה אם נשתנה כחטים שעשאם סולת כשר כיון שנשתנו דכתיב גם שניהם ולא שינוייהם ונראה דעיקר דרשא דהם היא הם ולא וולדותיהם דחטים ועשאם סולת כיון דחטים גופייהו לא חזו להקרבה פנים חדשות באו לכאן אבל טלה ונעשה איל אף על גב דנשתנה כיון דמעיקרא חזי להקרבה והשתא נמי חזי להקרבה לא הוי שינוי ואסור. נתן לה בהמת מוקדשין לא נאסרה למזבח ואפי' מנה אותם על פסחו לא נפסל שכבר זכה בהן גבוה משעה שהקדישן דכתיב לכל נדר להוציא את הנדור כבר והאי לא איצטריך אלא לפסחו דכתיב ואם ימעט הבית מהיות משה החייהו משה שימנה אחרים עמו על פסחו ויתנו לו מעות דהא אית ליה זכיה בגויה אבל מוקדשין אחרים דלית ליה זכיה בגוייהו לא איצטריך קרא דפשיטא דלאו ממוניה הוא ואין אדם אוסר דבר שאינו שלו וכן כל דבר שאינו שלו לא פסלו אלא אם כן נתיאשו הבעלים דקנייה בייאוש ובעופות אף על פי שהן מוקדשין אתנן חל עליהם דהכי גמירי לה משום דעוף בא בנדר ונדבה.
+
+
+
+### Halakhah 16
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 4:16:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:16:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:16:1)
+
+
+**אי** זהו מחיר כלב זה האומר לחברו הא לך טלה זה תחת כלב זה דמחיר כלב היינו חליפי כלב כדכתיב תמכור עמך בלא הון ולא רבית במחיריהם אלמא מחיר היינו דמים וכן אם החליף כלב בכמה בהמות ועופות כולן אסורות לגבי מזבח דהא כלהו הוו מחיר הכלב.
+
+
+
+### Halakhah 17
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 4:17:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:17:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:17:1)
+
+
+**שני** שותפין שחלקו זה לקח עשרה טלאים וזה תשעה וכלב נראה דמדאוריתא כולהו טלאים מותרים דטלה שכנגד הכלב נתערב ובטיל מדאוריתא ואפי' דמי כל אחד פחותין מדמי הכלב איפשר נמי דלא אסירי חד מינייהו מדאוריתא דאף על גב דנשרי טיפונא דכלב אכולהו אפ"ה רובא דכולהו הוי היתר ובטיל מדאוריתא.
+
+
+
+### Halakhah 18
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 4:18:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:18:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/4:18:1)
+
+
+**נשתנה** המחיר כגון חטין ונעשו סלת מותר כדילפינן לעיל מדכתיב הם ולא שינוייהם. אתנן כלב ומחיר זונה מותרין דכתיב גבי שניהם שנים ולא ארבעה אתנן בזונה ומחיר בכלב ואתנן זונה ומחיר כלב מותרין לבדק הבית שהרי נשתנו ושינוייהן מותרין כדילפינן אבל גופן של אתנן לא יעשה ריקועים לבית דכתיב לכל נדר להביא את הריקועים:
+
+
+
+## Chapter 5
+
+
+### Halakhah 1
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 5:1:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/5:1:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/5:1:1)
+
+
+**אזהרת רל** שלא להקטיר שאור ודבש לגבי המזבח דכתיב כי כל שאור וכל דבש לא תקטירו ממנו וגו' ואיסורין בכל שהן דכתיב כי כל שאור וגו' אין לי אלא מרובה ממועט מנין תלמוד לומר כל שאור וכל דבש וגו' ואינו חייב אלא אם הקטירן עם הקרבן או לשם קרבן כדכתיב ברישיה דקרא כל המנחה אשר תקריבו וגו' לא תעשה חמץ כי כל שאור וכל דבש דמשמע לשם קרבן ואחד המקטיר עצמן או תערובת שלהן [לוקה] דכתיב כי כל לרבות עירובו ובדבש נמי כתיב וכל דבש כל לכל שהו וכל לעירובו וי"ו דוכל דבש מוסף לענין ראשון ולוקה על כל א' מהם בפני עצמו דלא תקטירו ממנו אכל חד קאי ואם הקטיר שניהם כאחת אינו לוקה אלא אחת לפי ששניהם נאמרו בלאו אחד ואינו נמנה אלא לאו אחד.
+
+
+
+### Halakhah 2
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 5:2:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/5:2:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/5:2:1)
+
+
+**נפל** מהם כל שהו בקטרת נפסלה כדילפינן מדכתיב כל שאור וגו' דאתי לרבות ממועט ואם הקטיר ממנה בהיכל לוקה כיון דהקטיר כזית קטרת שהיה בו כל שהו משאור או דבש דאין הקטרת קטרת פחותה מכזית דלגבי פגול איתקש אכילת מזבח לאכילת אדם כדדרשינן מאם האכל יאכל.
+
+
+
+### Halakhah 3
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 5:3:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/5:3:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/5:3:1)
+
+
+**העלה** שאור או דבש בפני עצמן למזבח לשם עצים פטור דכתיב קרבן ראשית תקריבו אותם לה' אשאור ודבש הכתוב בראש המקרא העליון קאי וקאמר יש לך להביא מהם בכורים מן הדבש ושתי הלחם מן השאור ואל המזבח לא יעלו לריח ניחוח ודרשינן לריח ניחוח הוא דאינם עולים שאור ודבש אבל עולים לשם עצים אפילו הקטיר דבר שאינו ראוי להקטרה כבשר חטאת ואשם וקדשים קלים וכו' בדבש או בשאור הואיל והוא מן הקרבן לוקה אף על פי שאין כל אלו ראויים להקטרה הן קרויין קרבן וחייב עליהם דכתיב קרבן ראשית תקריבו אותם לה' משמע דשאור ודבש נמי קרויין קרבן.
+
+
+
+### Halakhah 5
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 5:5:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/5:5:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/5:5:1)
+
+
+**וכן** כל דברים אלו שאינם ראויים להקטרה אסור להקטירם על גבי המזבח דכתיב לא תקטירו ממנו והאי ממנו יתירא הוא ודרשינן ביה לא תקטירו כל שממנו לאישים שקרב מהם כבר לאישים האימורין וכן הקומץ וכן הבזיכים קיימי שיירים בבל תקטירו.
+
+
+
+### Halakhah 6
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 5:6:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/5:6:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/5:6:1)
+
+
+**המקטיר** איברי בהמה טמאה על המזבח לוקה ואף על פי שאיסור הקרבתה מכלל עשה שהרי נאמר מן הטהורה אכול כדכתיב זאת הבהמה אשר תאכלו וגו' ומן הטהורה תקריב כדכתיב מן הבהמה מן הבקר וגו' הא טמאה לא תאכל ולא תקריב אפילו הכי כשם שלוקה על אכילת הטמאה כדכתיב אך את זה לא תאכלו וגו' כך לוקה על הקרבתה דכיון דגלי אאכילת אדם דלקי הכי נמי אאכילת מזבח אבל מקריב אברי חיה טהורה עובר בעשה דכתיב מן הבהמה מן הבקר מן הצאן תקריבו את קרבנכם הא מן החיה לא תקריבו ולאו הבא מכלל עשה הוא עשה.
+
+
+
+### Halakhah 7
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 5:7:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/5:7:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/5:7:1)
+
+
+**הגוזל** או הגונב והקריבו הקרבן פסול דכתיב קרבנו ולא הגזול וכיון דלא נתיאשו הבעלים לאו קרבנו הוא והקב"ה שונאו דכתיב שונא גזל בעולה ואם נתיאשו הבעלים הקרבן כשר ושפיר קרינא ביה קרבנו. הגונב עולת חבירו והקריבה סתם נתכפרו בה בעלים הראשונים ואפילו לאחר יאוש דקרבן אינה נגזלת דכל היכא דאיתיה ביה גזא דרחמא איתיה.
+
+
+
+### Halakhah 9
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 5:9:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/5:9:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/5:9:1)
+
+
+**אין** מביאין מנחות ונסכים לא מן הטבל ולא מן החדש קודם לעומר ולא מן המדומע ואין צריך לומר מערלה וכלאי הכרם דבעינן ממשקה ישראל מן המותר לישראל ודרשא גמורה הוא דמהאי קרא נמי ילפינן דטרפה אסורה לגבוה והני אסירי והוי מצוה הבאה בעבירה שהקב"ה שונאה ואם הביא לא נתקדשו להיותן ראויין לקרבן ונתקדשו ליפסל.
+
+
+
+### Halakhah 10
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 5:10:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/5:10:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/5:10:1)
+
+
+**כל** המנחות אין מביאין אותן מן החדש קודם שתי הלחם דכתיב בכורים לה' בשתי הלחם ואם הביא כשר כיון דהותר להדיוט:
+
+
+
+### Halakhah 11
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 5:11:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/5:11:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/5:11:1)
+
+
+**מצות קיח** למלוח כל הקרבנות קודם שיעלו למזבח דכתיב על כל קרבנך תקריב מלח ואין לך דבר שקרב למזבח בלא מלח חוץ מיין הנסכים והדם והעצים דכתיב וכל קרבן כלל מנחתך פרט על כל קרבנך חזר וכלל כלל ופרט וכלל אי אתה דן אלא כעין הפרט מה הפרט מפורש מנחה שאחרים באים חובה לה שצריך לה עצים אף כל אחרים באים לה חובה יצאו עצים ודם דאין אחרים באים חובה להם דאין טעונין מלח אימא קרבן מנחתך דבר המתיר אף כל דבר המתיר אביא את הדם שמתיר את הקרבן תלמוד לומר מעל מנחתך ולא מעל דמך יכול תהא כל המנחה כולה טעונה מלח תלמוד לומר קרבן מנחתך הוא הקומץ בלבד שטעון מלח אין לי אלא קומץ מנין לרבות לבונה תלמוד לומר על כל קרבנך תקריב מלח. ומצוה למלוח כמולח בשר לצלי שמהפך את האבר ומולח דכתיב במלח יכול תבינהו יתן בו טעם כביצה שיתן בו מלח הרבה תלמוד לומר תמלח שבא לרבות יכול במי מלח ת"ל במלח שבא למעט ולא תשבית מלח הבא מלח שאינה שובתת והיא מלח סדומית ומנין שאם לא מצא מלח סדומית שמביא איסתרוקנית תלמוד לומר תקריב תקריב מכל שהו בין סדומית בין אסתרוקנית תקריב אפילו בשבת תקריב אפילו בטומאה ואם מלח כל שהו אפילו בגרגיר מלח אחד כשר דהא כתיב תמלח לרבות שהוא כשר אפילו לא נתן מלח הרבה:
+
+
+
+### Halakhah 12
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 5:12:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/5:12:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/5:12:1)
+
+
+**אזהרת רלא** שלא להשבית מלח מעל הקרבנות ואם הקריב בלא מלח כלל לוקה דכתיב ולא תשבית מלח ברית אלהיך ואף על פי שלוקה הקרבן כשר והורצה דכל מקום שהחזיר הכתוב בצו את אהרן מה שאמור כבר בפרשת ויקרא אינו אלא לעכב והכא במלח לא שנה בה הכתוב חוץ מן המנחה שהמלח מעכב בקמיצה.
+
+
+
+### Halakhah 13
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 5:13:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/5:13:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/5:13:1)
+
+
+**המלח** שמולחין בו הקרבנות משל צבור היא כמו העצים דאמרה תורה הבא מלח והבא עצים דכתיב על העצים אשר על האש אשר על המזבח מה מזבח משל צבור אף עצים ואש משל צבור אף מלח משל צבור דדנים דבר הנוהג בכל הזבחים מדבר הנוהג בכל הזבחים או כלך לדרך אחר ולא יוכיחו עצים שאינם באים עמה בכלי אחד תלמוד לומר בלחם הפנים ברית מלח עולם הוא מה להלן משל צבור כדכתיב מאת בני ישראל אף כאן משל צבור ולהכי לא יביא היחיד מלח עם קרבנו ובשלשה מקומות היו נותנים אותה:
+
+
+
+## Chapter 6
+
+
+### Halakhah 1
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 6:1:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/6:1:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/6:1:1)
+
+
+**כשם** שמצוה להיות כל קרבן תמים ונבחר כדילפינן לעיל כך נסכים יהיו תמימים ונבחרים דכתיב תמימים יהיו לכם ונסכיהם שיהיו הנסכים תמימים שלא יביא נסכים שריחם וטעמם רע. וכן עצי המערכה לא יהיו אלא נבחרים ועץ לח מותלע פסול למזבח דאינו יכול ליגרר ממנו מה שהתליע בלח כמו דיבש ומותלע אינו ראוי להבער וכתיב ובער עליה הכהן עצים וגו' עצים שהם ראויים להבער ויבש גורר את מקום המותלע ועצי סתירה פסולים לעולם איפשר דילפי' מדכתיב ובער וגו' עצים דנראה עצים שהם עשויים להבערה מתחלתם הילכך בעינן חדשים.
+
+
+
+### Halakhah 3
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 6:3:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/6:3:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/6:3:1)
+
+
+**המקדיש** נסכים או עצים פסולים הוי ספק אי לקי משום מקדיש בעל מום או דילמא אין בעל מום אלא בבהמה הילכך לא לקי.
+
+
+
+### Halakhah 4
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 6:4:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/6:4:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/6:4:1)
+
+
+**נסכים** ולבונה ועופות ועצים וכלי שרת שנפסלו או שנטמאו אין פודין אותם דכתיב והעמיד והעריך כל שישנו בהעמדה נערך ואלו אינם בכלל העמדה דכתיב והעמיד את הבהמה בהמה נפדית ולא אלו וקודם שיתקדשו בכלי פודין אותן דלא קדשי אלא קדושת דמים ולא קדושת הגוף כיון דלא נתקדשו בכלי וטהורין אף על פי שלא קדשו בכלי אין פודין אותן דאי פריק להו לחולין תו לא משכחי גזברין מידי אחרינא לצורך העבודה חוץ ממנחת חוטא דכתיב בה מחטאתו דמשמע מקצת חטאתו שאם העני יביא מקצת דמים תורים והשאר הם חולין וכתיב נמי על חטאתו דמשמע יוסיף דאם היה עני והפריש עשירית האיפה והעשיר יפדנה ויוסיף עליה מעות ויביא כבשה או שעירה לפיכך פודין אותם אע"פ שהיא טהורה כיון שלא נתקדשה בכלי שרת. וכל הנסכים שנטמאו עושה להם מערכה בפני עצמה ושורפן במזבח כיון דאין נפדין.
+
+
+
+### Halakhah 6
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 6:6:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/6:6:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/6:6:1)
+
+
+**מי** החג שנטמאו אפילו הקדישן ואחר כך נטמאו אם השיקן טהרו מדאוריתא דזו היא זריעתן שעברו עליהם מי המקוה ונעשו חבור ובטלו ומעלה הוא דעשו בקדשים מדרבנן שלא להשיקן כשהקדישן ואחר כך נטמאו.
+
+
+
+### Halakhah 7
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 6:7:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/6:7:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/6:7:1)
+
+
+**זתים** וענבים שנטמאו דורכן פחות מכביצה דאוכל טמא פחות מכביצה לא מטמא אחרים כדילפינן בדוכתיה ויינן כשר לנסכים דמשקין מופקדין הם בתוך הזג ואינן חבור לו אלא כמי שנותנן בכלי וכשנטמא הזג לא נטמא משקה.
+
+
+
+### Halakhah 8
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 6:8:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/6:8:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/6:8:1)
+
+
+**אין** זריעה מועלת לטהר בקדשים מדרבנן דמדאוריתא מהני עצים ולבונה מתטמאין כאוכל לענין קרבן ופסולין לגבי מזבח דכתיב והבשר כל טהור יאכל בשר וי"ו יתירה לרבות עצים ולבונה של קדש לטומאה וקאי אדלעיל והבשר אשר יגע בכל טמא לא יאכל והבשר.
+
+
+
+### Halakhah 9
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 6:9:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/6:9:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/6:9:1)
+
+
+**יין** מתוק ומעושן ומבושל עד שנשתנה טעמו פסול לגבי מזבח דבעינן תמימים ונבחרים כדכתי' תמימים יהיו לכם ונסכיהם והני לאו תמימים הוו ויין שנתגלה פסול לגבי מזבח דלא חזי להדיוט וכתיב הקרבהו נא לפחתך. הדלה גפן על גבי תאנה יינה פסול לנסכים מפני שנשתנה ריחו וכתיב זבח ונסכים מה זבח שלא נשתנה דהא נדמה פסול לקרבן אף נסכים שלא נשתנה.
+
+
+
+### Halakhah 11
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 6:11:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/6:11:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/6:11:1)
+
+
+**סלת** שהתליעה רובה או רוב החטים שנעשה מהם פסולה דבעינן תמימים וליכא וכל סלת שנשאר בה קמח פסולה דכל שעולה אבק כשמכניס ידו לתוכה לאו סלת תמימה הויא וכתיב תמימים יהיו וגו'.
+
+
+
+### Halakhah 13
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 6:13:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/6:13:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/6:13:1)
+
+
+**חטין** שלקטן מגללי בהמה וזרען הוי ספק אי אזדא מאיסותייהו והני אחריני נינהו או דילמא משום כחישותא דכיון שנתעכלו שוב אין מגדלין חטים מלאים ובריאים כדמעיקרא.
+
+
+
+### Halakhah 14
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 6:14:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/6:14:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/6:14:1)
+
+
+**השמנים** הפסולין שמן של גרגרים שנשרו במים או של זתים כבושין או שלוקין או שמן של שמרים או שריחו רע דכתיב תמימים יהיו לכם וגו' והני לאו תמימים הוו.
+
+
+
+### Halakhah 15
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 6:15:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/6:15:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/6:15:1)
+
+
+**כל** המנחות והנסכים כשרים אפילו מחוצה לארץ ומן הישן ובלבד מן המובחר חוץ מן העומר ושתי הלחם שאין באים אלא מן החדש ומארץ ישראל דכתיב כי תבאו אל הארץ אשר אני נותן לכם וקצרתם וגו' והבאתם את עומר ראשית קצירכם וכתיב בשתי הלחם ממושבותיכם תביאו לחם תנופה וכתיב והקרבתם מנחה חדש' וגו' וכת' וחג הקציר בכורי מעשיך וגו':
+
+
+
+## Chapter 7
+
+
+### Halakhah 1
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 7:1:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/7:1:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/7:1:1)
+
+
+**לא** כל דבר שאינו פוסל מביא אותו לכתחלה אלא כל שיביא לקרבן יביא מן המובחר וכן כל שיביא למנחות ונסכים יביא מן המובחר.
+
+
+
+### Halakhah 9
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 7:9:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/7:9:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/7:9:1)
+
+
+**תשעה** מינין בשמן מפני שינוי מעשיו משלשה לקיטות שבזתים הראשון שבכל לקיטה כשר למנורה והשאר למנחות דלמנורה בעינן כתית דכתיב שמן זית זך כתית למאור זך כתית למאור ולא זך כתית למנחות ולא הוי כתית אלא ראשון שבכל זית ולמנחות כולן שריין דכתיב ועשרון סולת בלול בשמן כתית אם כן מה תלמוד לומר למאור אלא מפני שחסה תורה על ממונן של ישראל דאלו היה צריך לחזר במנחות אחר זך וכתית כמו למנורה היו מפסידין שהיו לוקחין אותו ביוקר.
+
+
+
+### Halakhah 11
+
+###### Kiryat Sefer on Mishneh Torah, Things Forbidden on the Altar 7:11:1
+
+[https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/7:11:1](https://torahapp.org/share/book/Kiryat%20Sefer%20on%20Mishneh%20Torah%2C%20Things%20Forbidden%20on%20the%20Altar/r/7:11:1)
+
+
+**וכל** דבר שהוא לשם האל הטוב שיהא מן הנאה הקדיש דבר יקדיש מן היפה וכן הוא אומר כל חלב לה':
+

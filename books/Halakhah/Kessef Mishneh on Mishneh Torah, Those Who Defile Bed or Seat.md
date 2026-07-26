@@ -1,0 +1,2832 @@
+# Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat
+
+כסף משנה על משנה תורה, הלכות מטמאי משכב ומושב
+
+Link: [https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat)
+
+חיבור הלכתי פורץ-דרך וחדשני מבחינת היקפו ואופן סידור הדינים שבו. נכתב על ידי הרמב"ם במאה ה-12.
+
+Legal code written by Maimonides in the 12th century, groundbreaking in its organization and scope.
+
+Sections: Chapter-Halakhah-Comment
+
+Location: Halakhah/Mishneh Torah/Commentary/Kessef Mishneh/Sefer Taharah
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Torat Emet 363 (Segments: 299, License: Public Domain)
+
+
+## Chapter 1
+
+
+### Halakhah 1
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:1:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:1:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:1:1)
+
+
+**הזב והזבה והנדה והיולדת וכו'.** בפירקא קמא דכלים מני להו באבות הטומאה:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:1:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:1:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:1:2)
+
+
+**ומה שכתב מטמאים כלים במגע.** דכתיב וכלי חרס אשר יגע בו הזב ישבר וכל כלי עץ ישטף במים.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:1:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:1:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:1:3)
+
+
+**ומה שכתב ומטמא אדם במגע ובמשא.** דכתיב הנוגע בבשר הזב יכבס בגדיו ורחץ במים וטמא עד הערב וכתיב והנושא אותם יכבס בגדיו ורחץ במים וכו' ובפרק חמישי דזבים תנן הנוגע בזב ובזבה בנדה וביולדת וכו' מטמא שנים ופוסל אחד וכו' אחד הנוגע ואחד המסיט אחד הנושא ואחד הנישא ותניא בתורת כהנים והדוה בנדתה והזב את זובו מה הזב מטמא במשא אף הזוב מטמא במשא לזכר לרבות את המצורע ולנקבה לרבות היולדת.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:1:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:1:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:1:4)
+
+
+**ומה שכתב ומטמא משכב ומושב ומרכב מתחתיו.** דכתיב כל המשכב אשר ישכב עליו הזב יטמא וכל הכלי אשר ישב עליו יטמא וכל המרכב אשר ירכב עליו הזב יטמא.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:1:5
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:1:5](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:1:5)
+
+
+**ומה שכתב ומטמא מדף על גבו.** פרק ד' דזבים ופרק ו' דעדיות (משנה ב') ובתורת כהנים:
+
+
+
+### Halakhah 2
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:2:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:2:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:2:1)
+
+
+**אחד זבה קטנה וכו'.** בת"כ יליף לה מקרא.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:2:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:2:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:2:2)
+
+
+**ומ״ש או מחמת אונס.** בת״כ ובפרק בנות כותים (נדה דף ל״ב ע״ב) יליף לה מקרא.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:2:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:2:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:2:3)
+
+
+**ומ"ש ואחד בעל ב' ראיות וכו'.** בפ"ק דמגילה (דף ח') משנה וגמרא:
+
+
+
+### Halakhah 3
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:3:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:3:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:3:1)
+
+
+**קטנה בת יום אחד וכו'.** משנה פרק יוצא דופן (נדה דף מ"ג ע"ב ומ"ד ע"ב):
+
+
+
+### Halakhah 4
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:4:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:4:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:4:1)
+
+
+**קטן בן יום אחד מטמא בזיבה.** שם (דף מ״ג ע״ב) ובר״פ בנות כותים (נדה דף ל״ג):
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:4:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:4:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:4:2)
+
+
+**ואחד גרים ועבדים.** רפ"ב דזבים הכל מיטמאין בזיבה אף הגרים אף העבדים בין משוחררים בין שאינם משוחררים.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:4:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:4:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:4:3)
+
+
+**ומ"ש שמטמאין בנדה:**
+
+
+
+### Halakhah 5
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:5:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:5:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:5:1)
+
+
+**סריס אדם וסריס חמה מטמאין בזיבה וכו'.** רפ"ב דזבים:
+
+
+
+### Halakhah 6
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:6:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:6:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:6:1)
+
+
+**אין האשה מטמאה בלובן ולא האיש באודם וכו'.** בריש פרק בנות כותים (נדה דף ל״ב ע״ב) ובפרק כל היד:
+
+
+
+### Halakhah 7
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:7:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:7:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:7:1)
+
+
+**טומטום ואנדרוגינוס וכו'.** רפ"ב דזבים.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:7:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:7:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:7:2)
+
+
+**ומ"ש לפיכך אין שורפין עליהם תרומה וקדשים ואין חייבים עליהם על טומאת המקדש.** שם וטומאתן בספק ומבואר בתוספתא בפ"ב דזבים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:7:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:7:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:7:3)
+
+
+**ראה לובן ואודם כאחד וכו'.** שם ובפרק המפלת עלה כ"ח ויליף לה מקרא.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:7:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:7:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:7:4)
+
+
+**ומ"ש וכן הנוגע בלובן ואודם שלו כאחד וכו'.** שם בתוספתא:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:7:5
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:7:5](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:7:5)
+
+
+**ומ"ש הוא עצמו שנגע בלובן ואודם וכו'.** שם הוא עצמו שנגע בלובן ואודם ונכנס למקדש פטור וגירסא משובשת היא וצריך להגיה חייב:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:7:6
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:7:6](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:7:6)
+
+
+**וכתב** הראב"ד בלובן ואודם שראה א"א אולי טעה בלשון התוספתא וחילק וכו'. ואין דברים אלו כדאי לכתוב שטעה טעות גדולה או קטנה שהרי אפשר לפרש התוספתא בנגע בשלו אבל אי קשיא הא קשיא מ"ש נגע הוא מנגעו אחרים דכיון דבנגעו אחרים אינם חייבים על ביאת המקדש משום דבעינן שתהא טומאת זכר ודאי או טומאת נקבה ודאית מאותו טעם בעצמו יש לפטור בשנגע הוא בעצמו ויש לדחוק ולפרש לשון רבינו כפירוש הראב"ד דבנגעו טומטום ואנדרוגינוס בשל אחרים מיירי אלא שלשון שראה שכתב רבינו קשה לזה:
+
+
+
+### Halakhah 8
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:8:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:8:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:8:1)
+
+
+**דם הנדה או דם הזבה וכו'.** משנה פרק יוצא דופן (נדה דף מ״ג ע״ב).
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:8:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:8:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:8:2)
+
+
+**ומ״ש במגע ובמשא.** בריש פרק דם הנדה (נדה דף נ״ד ע״ב) מנא ה״מ דדם הנדה מטמא אמר חזקיה דאמר קרא והדוה בנדתה מדוה כמותה מה היא מטמאה אף מדוה מטמא:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:8:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:8:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:8:3)
+
+
+**וכבר ביארנו בענין איסור נדה וכו'.** בפ"ה מהא"ב.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:8:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:8:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:8:4)
+
+
+**ומ״ש אבל אם ראתה דם ירוק הרי הוא טהור וכו'.** משנה פ' כל היד (נדה דף י״ט) וכחכמים.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:8:5
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:8:5](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:8:5)
+
+
+**ומ"ש שהרוק מתעגל ויוצא.** שם בגמרא:
+
+
+
+### Halakhah 9
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:9:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:9:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:9:1)
+
+
+**אשה שיצא הולד מדפנה וכו'.** בר״פ יוצא דופן (נדה דף מ״א:) אמרינן דביוצא ולד ודם דרך דופן ר״ש מטהר וחכמים מטמאים ובמקור מקומו טמא פליגי מר סבר מקור מקומו טמא ומר סבר מקור מקומו טהור ופירש״י רבנן סברי טיפה עצמה מטמא במגע משום דנגעה במקור ומקור מקומו טמא ואיתמר עלה אמר ריש לקיש לדברי המטמא בדם מטמא באשה לדברי המטהר בדם מטהר באשה רבי יוחנן אמר אף לדברי המטמא בדם מטהר באשה ויליף ר״י מקרא שאין אשה טמאה עד שיצא מדוה דרך ערותה וידוע דהלכה כר״י:
+
+
+
+### Halakhah 10
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:10:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:10:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:10:1)
+
+
+**מקור האשה שנעקר וכו'.** שם מקור שנעקר ונפל לארץ טמאה וכו' למאי אילימא לטומאת שבעה דם אמר רחמנא ולא חתיכה אלא לטומאת ערב ופירש"י שנעקר חתיכת בשר:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:10:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:10:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:10:2)
+
+
+**וכן מקור שהזיע כשתי טיפי מרגליות וכו'.** שם אמר ר"י מקור שהזיע כשתי טיפי מרגליות טמאה למאי אילימא לטומאת שבעה ה' דמים טמאים באשה ותו לא אלא לטומאת ערב ודוקא תרתי אבל חדא אימא מעלמא אתיא. ופירש"י טיפי מרגליות דם לבן וצלול. לטומאת ערב מפני שנגע במקור ונוגע בה. מעלמא מן הצדדין:
+
+
+
+### Halakhah 12
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:12:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:12:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:12:1)
+
+
+**זובו של זב מאבות הטומאות וכו' ומטמא במגע ובמשא.** פ״ק דכלים ובפרק דם הנדה (נדה דף נ״ד ע״ב) יליף לה מקרא.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:12:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:12:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:12:2)
+
+
+**ומ״ש בכל שהוא.** משנה ר״פ יוצא דופן (נדה דף מ'):
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:12:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:12:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:12:3)
+
+
+**ראיה ראשונה של זב וכו'.** בריש זבים וכב"ה.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:12:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:12:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:12:4)
+
+
+**ומ״ש בין מאיש קטן.** בפרק בנות כותים (נדה דף ל״ב ע״ב) בעיא דאיפשיטא והיינו למגע אבל למשא לא מטמא אלא בשתי ראיות דאז מקרי זב אבל בראיה אחת לא מיקרי זב כמו שלמדו שם מהכתובים.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:12:5
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:12:5](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:12:5)
+
+
+**ועל מ"ש רבינו בין מאיש גדול בין מאיש קטן,** כתב הראב"ד א"א אין לשונו מיושר. טעמו לומר שעל מ"ש והרי היא כש"ז לא יצדק לומר בין מאיש קטן אבל טומאת ראיה ראשונה של זב בקטן אינו אלא מטעם שהיא תחלת זוב והכתוב הקיש בזב קטן לגדול כמו שמפורש בפרק בנות כותים עלה ל"ד ורבינו גם כן לכך נתכוון.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:12:6
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:12:6](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:12:6)
+
+
+**ומ"ש וכן המשכבות והמושבות וכו'.** בסוף נדה (עב:) ובתוספתא דזבים פרק קמא וכבית הלל:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:12:7
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:12:7](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:12:7)
+
+
+**ראה אחת מרובה כשתים וכו'.** בתוספתא דזבים וכב"ה:
+
+
+
+### Halakhah 13
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:13:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:13:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:13:1)
+
+
+**ראיה ראשונה של מצורע וכו'.** בפרק בנות כותים עלה ל"ד ל"ה וכדאסיק אביי:
+
+
+
+### Halakhah 14
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:14:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:14:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:14:1)
+
+
+**רוק הזב ושכבת וכו'.** בפ״ק דכלים זובו של זב ורוקו ושכבת זרעו ומימי רגליו וכו' מטמאים במגע ובמשא ובר״פ דם הנדה (נדה דף נ״ה ע״ב) יליף רוקו מדכתיב וכי ירוק הזב בטהור ומרבי ליה בין לטומאת מגע בין לטומאת משא ומימי רגליו מייתי לה (דף נ״ו) מדתניא זובו טמא וזאת לרבות מימי רגליו ושכבת זרעו מייתי לה בס״פ כיצד הרגל (דף כ״ה) מק״ו ור' יהושע נתן טעם לש״ז דמטמא אף במשא משום דא״א בלא צחצוצי זיבה כל שהוא ומשמע לרבינו דה״ה למימי רגליו וכתב רבינו טעם זה שהוא יותר פשוט וקצר. ומ״כ מאי דמטמא מימי רגליו מהאי טעמא ק״ל דבנדה יליף מוזאת ואפשר לתרץ דגמרא יליף מוזאת לומר דאפילו ר״א דמטהר ממשא לש״ז דסבירא ליה כיון דכתיבא ביה ש״ז לא מטמאה הכא מודה מרבויא דוזאת אבל לדידן דקי״ל כר' יהושע דא״א וכו' ה״ה למימי רגליו וראיה לדבר דאמרינן בתורת כהנים זאת תורת הזב מה הזב וכו' ומייתי לה בנדה (דף כ״ב) ובתר הכי בת״כ יכול אף מימי רגלים יהו סותרים וכו' ומהי תיתי שיהו סותרים והא ש״ז גופא לא סתרא אלא משום צחצוחי זיבה אלא ודאי משום דמימי רגליו נמי אי אפשר בלא צחצוחי זיבה קאמר הכי. וממ״ש רבינו פ״ק דכלים נראה דתרוייהו נפקי מוזאת ויהיב רבינו טעמא מאי שנא דמרבינן הני טפי מאחריני משום דא״א להו בלא צחצוחי זיבה. ואפשר שלזה נתכוון רבינו כאן עכ״ל:
+
+
+
+### Halakhah 15
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:15:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:15:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:15:1)
+
+
+**אחד זב ואחד נדה ויולדת וזבה וכו':**
+
+
+
+### Halakhah 16
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:16:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:16:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:16:1)
+
+
+**תשעה משקין בזב וכו'.** בריש פרק דם הנדה (נדה דף נ״ה ע״ב) ובת״כ.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:16:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:16:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:16:2)
+
+
+**ומה** שכתוב בספרי
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:16:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:16:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:16:3)
+
+
+**רבינו כמותו** טעות סופר הוא וצריך להגיה ולכתוב כמותן ובזה יבא לשונו דבור על אפניו הרי אלו שלשה מן הזב וחביריו כמותן משאר האדם כלומר כשם ששלשה אלו טהורים משאר האדם כך הם טהורים כשהם מהזב וחביריו הנזכר בראש הפרק.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:16:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:16:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:16:4)
+
+
+**ועל מה שכתב רבינו כל אחד מאלו כמשקין טמאים שאין מטמאין אדם** כתב הראב"ד א"א אף בזה טעה וכו'. מ"ש משמעתא קמייתא דאלו דברים דמסכת ברכות (דף נ"א ע"ב) היינו לומר דגבי מוזגין את הכוס ואחר כך נוטלין לידים משמע דבכל שהוא מטמו כלי וידים כי אין רגילות להיות נדבק רביעית בידים ולא בכלי ואני אומר שמאחר שדבריו יכולים להתפרש דלא מיירי אלא לענין מגע אין כאן טעות:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:16:5
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:16:5](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:16:5)
+
+
+**כיחו וניעו ומי האף וכו'.** בריש פרק דם הנדה (נדה דף נ״ה ע״ב).
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:16:6
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:16:6](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:16:6)
+
+
+**ומ"ש ורירו.** בתוספתא פרק בתרא דזבים.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:16:7
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:16:7](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:16:7)
+
+
+**ומ"ש ובכלל הרוק הן חשובים,** כלומר ומשום הכי לא מנה אלא ג' דאל"כ שבעה מיבעי ליה:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:16:8
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:16:8](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:16:8)
+
+
+**דם היוצא מפי האמה וכו'.** שם (בנדה דף נ"ו) זובו טמא הוא [הוא טמא] ואין דם היוצא מפיו ומפי האמה טמא ומשמע דהיינו ודאי לענין שלא יטמא כזב אבל מטמאין כמשקין טמאין וכן מפורש בתוספתא דזבים פרק אחרון:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 1:16:9
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:16:9](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/1:16:9)
+
+
+**ומ"ש היה מוצץ ורוקק דם וכו'.** בפרק מצות חליצה עלה ק"ה יבמה שרקקה [דם] תחלוץ לפי שא"א לדם בלא צחצוחי רוק מיתיבי יכול יהא דם היוצא מפיו ומפי האמה טמא ת"ל זובו הוא זובו טמא ואין דם היוצא מפיו ומפי האמה טמא ל"ק כאן במוצצת כאן בשותת:
+
+
+
+## Chapter 2
+
+
+### Halakhah 1
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 2:1:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:1:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:1:1)
+
+
+**דם הנדה וכו'. אינו מטמא אלא כל זמן שהוא לח וכו'.** ריש פרק דם הנדה (נדה דף נ״ד ע״ב) ויליף לה מקראי.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 2:1:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:1:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:1:2)
+
+
+**ומה שכתב ואם היו המים הפושרין בתחלתן וכו'.** שם פלוגתא דתנאי ופסק לחומרא בדאורייתא:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 2:1:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:1:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:1:3)
+
+
+**וכתב** הראב"ד אם שורין אותו א"א נ"ל דלא בעינן מעת לעת אלא לשרץ ונבילה עכ"ל. טעמו משום דבאינך שהם דברים רכים בשרייה כל דהו סגי להו אבל מפשט דברי המשנה משמע כדברי רבינו וכך הוא דעת התוספות:
+
+
+
+### Halakhah 2
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 2:2:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:2:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:2:1)
+
+
+**פשתן שטוואתו נדה וכו'.** פרק התערובות עלה ע"ט:
+
+
+
+### Halakhah 3
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 2:3:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:3:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:3:1)
+
+
+**זב שהניח פיו על פי הכוס עד כשהן נדות.** תוספתא פ"ה דטהרות אלא שבנוסחא דידן כתוב במי רגלים או ביין אין רואים אותם כאילו הם מים ונ"ל שט"ס הוא:
+
+
+
+### Halakhah 4
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 2:4:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:4:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:4:1)
+
+
+****כתב הראב"ד זב שנשך את הפת ואת הבצל המסיטן טהור א"א מצאתי בשתי נסחאות טמא בשתיהם ומה שחילקן וכו'. ונוסחת רבינו נכונה שאין עליה תשובה לומר למה חילקן ולא עירבן ורבינו שמשון הביא תוספתא זו בפרק רביעי וגירסתו כגירסת רבינו:
+
+
+
+### Halakhah 7
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 2:7:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:7:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:7:1)
+
+
+**ומ"ש רבינו שואלים כלי מי רגלים.** רבינו לא גריס כלי וכן נמצא בספר רבינו כתיבת יד דל"ג כלי:
+
+
+
+### Halakhah 8
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 2:8:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:8:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:8:1)
+
+
+**חרס שהיה הזב וכו'.** ג"ז שם בתוספתא וכראב"י ובפרק התערובות עלה ע"ט:
+
+
+
+### Halakhah 9
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 2:9:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:9:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:9:1)
+
+
+**זבה שנעקרו מימי רגליה.** בפרק יוצא דופן (נדה דף מ"ב) בעיא דלא איפשיטא ואף על גב דאמר רבה בבעיא בתרייתא את"ל לא פסק רבינו כן משום דגמרא אמר תיקו בהאי בעיא דזבה.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 2:9:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:9:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:9:2)
+
+
+**ומה שכתב וכן עכו"ם שנעקרו מימי רגליה וכו'.** גם זה שם בעיא דלא איפשיטא:
+
+
+
+### Halakhah 10
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 2:10:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:10:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:10:1)
+
+
+**העבדים מטמאים בזיבה ובנדה וכו'.** ברפ"ב דזבים תנן דעבדים אפילו שאינם משוחררים מטמאים בזיבה.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 2:10:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:10:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:10:2)
+
+
+**ומ"ש אבל העכו"ם אין מטמאים וכו' וחכמים גזרו וכו'.** בפרק בנות כותים עלה ל"ד.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 2:10:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:10:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:10:3)
+
+
+**ומ"ש זכרים ונקבות.** שם אמרינן דב"ש מפלגי בין זכרים לנקבות וב"ה לא מפלגי.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 2:10:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:10:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:10:4)
+
+
+**ומ"ש והוא שיהיה הזכר בן ט' שנים ויום אחד ולמעלה והנקבה בת ג' שנים ויום אחד ולמעלה.** פ"ב דע"ז (דף ל"ז) במסקנא:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 2:10:5
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:10:5](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:10:5)
+
+
+**בעת שגזרו עליהם לא גזרו על שכבת זרע שלהם כו'.** בפרק בנות כותים (נדה דף ל״ד):
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 2:10:6
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:10:6](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/2:10:6)
+
+
+**נמצאת למד. ודם הנכרית כרוקה וכמימי רגליה וכו'.** בפרק בנות כותים וכבית הלל:
+
+
+
+## Chapter 3
+
+
+### Halakhah 1
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:1:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:1:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:1:1)
+
+
+**בועל נדה כנדה.** מבואר בתורה ואם שכוב ישכב איש אותה ותהי נדתה עליו.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:1:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:1:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:1:2)
+
+
+**ומה שכתב ומטמא אדם במשא וכו'.** כן משמע בפירקא קמא דכלים דתנן למעלה מהם בועל נדה משמע שיש בהם כל החומרות שהוזכרו בקודמין כן נראה שהוא דעת רבינו:
+
+
+
+### Halakhah 2
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:2:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:2:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:2:1)
+
+
+**אין משכב בועל נדה ומרכבו וכו'.** בפ״ק דכלים למעלה מהם בועל נדה שהוא מטמא משכב תחתון כעליון ובריש פרק בנות כותים (נדה דף ל״ב ל״ג) דהיינו לומר דאי איכא עשר מצעות זו על זו שיהיה תחתונו של בועל נדה כעליונו של זב שאינו מטמא אלא אוכלים ומשקים ולא אדם וכלים.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:2:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:2:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:2:2)
+
+
+**ומה שכתב ולמה נגרעה טומאת משכבו וכו'.** שם ובתורת כהנים:
+
+
+
+### Halakhah 3
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:3:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:3:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:3:1)
+
+
+**אחד הבא על הנדה או על וכו'.** בסוף נדה (דף ע"ב).
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:3:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:3:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:3:2)
+
+
+**ומה שכתב אחד המערה ואחד הגומר.** משנה פרק הבא על יבמתו (יבמות דף נ״ג ע״ב) ובתורת כהנים פרשת מצורע.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:3:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:3:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:3:3)
+
+
+**ומה שכתב בין גדול שבא על הקטנה וכו'.** במה דברים אמורים כשהיה הבועל בן תשע שנים ויום אחד והנבעלת היתה בת שלש שנים ויום אחד וכו'. פרק יוצא דופן (נדה דף מ״ד מ״ה).
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:3:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:3:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:3:4)
+
+
+**ומה שכתב וכן בועל הזב וכו'.** בסוף נדה (דף ע"ג).
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:3:5
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:3:5](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:3:5)
+
+
+**ומה שכתב ואחד הנוגע בזב או הנבעלת מן הזב.** נדה שם:
+
+
+
+### Halakhah 4
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:4:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:4:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:4:1)
+
+
+**הנדה והזבה כו' כולן מטמאות למפרע מעת לעת וכו'.** בריש נדה וכחכמים דשקלי וטרו אמוראי לפרושי מילתייהו ופרט רבינו את אלו מפני שבפרק יוצא דופן (נדה דף מ״ב) פרטום שהרי על כל הנשים אמרו בריש נדה. ואפשר דלרבותא נקט הני וכ״ש אחרות והני בכלל דקתני מתני' הן.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:4:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:4:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:4:2)
+
+
+**ומ"ש ועד שלאחר התשמיש הרי היא כפקידה ושלפני תשמיש אינו כפקידה וכו'.** שם עלה ה' אמר רב יהודה אמר שמואל עד שלפני תשמיש אינו [ממעט] כפקידה מ"ט א"ר קטינא וכו' מתוך שמהומה לביתה אינה מכנסת לחורין ולסדקין:
+
+
+
+### Halakhah 5
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:5:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:5:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:5:1)
+
+
+**אשה שיש לה וסת וכו'.** משנה שם:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:5:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:5:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:5:2)
+
+
+**הגיע שעת וסתה ולא בדקה עצמה וכו'.** משנה פרק בנות כותים (נדה דף ל״ט).
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:5:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:5:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:5:3)
+
+
+**ומ"ש ואם מצאה עצמה טהורה וכו'.** שם פלוגתא דרב ושמואל וידוע דהלכה כרב באיסורי:
+
+
+
+### Halakhah 6
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:6:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:6:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:6:1)
+
+
+**כל אשה שיש לה וסת וכו'.** משנה בנדה פרק האשה (דף ס"ג).
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:6:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:6:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:6:2)
+
+
+**ומה שכתב היתה למודה להיות רואה בתחלת הוסת וכו' עד עת שמצאה דם.** נדה שם:
+
+
+
+### Halakhah 7
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:7:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:7:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:7:1)
+
+
+**הרואה כתם וכו'.** פרק קמא דנדה (דף ה') כל הנשים כתמן טמא למפרע ונשים שאמרו חכמים דיין שעתן כתמן כראייתן וכתב רבינו עד עת הפקידה אפילו הוי טפי ממעת לעת ואם כן הוא חמור יותר מראייתה דאילו בראייתה תופס הזמן המועט כמו שנתבאר וכאן תולה בפקידה דוקא דומיא דבגד דהוי טמא למפרע אפילו ימים רבים עד שעת בדיקה:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:7:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:7:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:7:2)
+
+
+**וכתב** הר"י קורקוס ז"ל וטעם יש בדבר דאילו רואה עתה אין טעם להחמיר עליה למפרע ביותר ממעת לעת אמנם כתם שאינה יודעת מתי יצא דם זה מגופה יש להחמיר ולומר דסמוך לפקידה יצא עכ"ל.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:7:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:7:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:7:3)
+
+
+**ומה שכתב וכן הבגד שנמצא עליו כתם וכו'.** בפרק דם הנדה (נדה דף נ״ו ע״ב):
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:7:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:7:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:7:4)
+
+
+**ומה שכתב אפילו כבסתו ולא בדקתו וכו'.** שם אסיקנא דעד שעת כיבוס חזקתו בדוק ומשמע דהיינו דוקא בסתמא אבל אם אומרת שהיא יודעת שלא בדקתו טמא.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:7:5
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:7:5](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:7:5)
+
+
+**ומה שכתב ואפילו נמצא הכתם לח.** שם במשנה (דף נ"ז ע"ב):
+
+
+
+### Halakhah 8
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:8:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:8:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:8:1)
+
+
+**וכל הנשים שדיין שעתן וכו'.** בפירקא קמא דנדה עלה ה' פלוגתא דתנאי ופסק כרבי חנינא בן אנטיגנוס לגבי רבי מאיר משום דרבי מאיר מחמיר בכתם מבראייתה ובסוף פרק הרואה כתם (נדה דף נ״ח ע״ב) תנן דאמר רבי עקיבא שלא אמרו חכמים בכתמים להחמיר אלא להקל.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:8:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:8:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:8:2)
+
+
+**ומה שכתב כל אלו הנשים הטמאות למפרע וכו'.** שם (דף ה') לא פליג ר' חנינא בן אנטיגנוס אלא בנשים שדיין שעתן אבל בשאר נשים מודה שכתמן כראייתן ותניא תו התם (דף ו') הרואה דם מטמאה מעת לעת ומה היא מטמאה משכבות ומושבות אוכלים ומשקים וכלי חרס המוקפים צמיד פתיל ואינה מטמאה את בועלה למפרע וכו' הרואה כתם מטמאה למפרע ומה היא מטמאה אוכלין ומשקין משכבות ומושבות וכלי חרס המוקף צמיד פתיל וכו' ומטמאה את בועלה ומסיק התם דמעת לעת שבנדה עושה משכב ומושב לטמא אדם לטמא בגדים.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:8:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:8:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:8:3)
+
+
+**ומה שכתב וכן רוקן ומימי רגליהם טמאים למפרע.** נראה דיליף לה בקל וחומר מכלי חרס המוקף צמיד פתיל.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:8:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:8:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:8:4)
+
+
+**ומה שכתב אבל אינה מטמאה את הבועל למפרע משום בועל נדה אלא משום נוגע בלבד.** בפרק כל היד עלה ט"ו כששהתה מעת לעת ומפקידה לפקידה בעלה מטמא משום מגע ואינו מטמא משום בועל ופירש רש"י מטמא משום נוגע [במעת לעת בנדה] טומאת ערב בספק דרבנן לתלות ואינו מטמא משום בועל לטמא טומאת ז' ואפילו לתלות.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:8:5
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:8:5](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:8:5)
+
+
+**ומה שכתב אבל הרואה כתם הבועל אותה וכו'.** שם במשנה (דף י"ד) מודים חכמים לרבי עקיבא ברואה כתם שהיא מטמאה את בועלה ואמרינן בגמרא (דף ט"ו) דמכאן ולהבא דוקא קתני דמטמאה את בועלה לרבנן דהלכתא כוותייהו:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:8:6
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:8:6](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:8:6)
+
+
+**ומה שכתב רבינו אבל הרואה כתם הבועל אותה וכו'.** לשון אבל אינו נוח לי ונמצא בספר כתיבת יד כתוב וכל במקום אבל והיא הגירסא הנכונה:
+
+
+
+### Halakhah 9
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:9:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:9:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:9:1)
+
+
+**מעוברת שהוציא העובר את ידו והחזירה וכו'.** בפרק המפלת (נדה דף כ״ח) ומסיק דלחומרא הוא דקאמר רב הונא ומדרבנן אבל ימי טוהר אין נותנין לה דלאו לידה היא עד שיצא רובו וזה שכתב רבינו טומאת יולדת (י״ד) וכו' מדברי סופרים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:9:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:9:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:9:2)
+
+
+**וטומאת מעת לעת או מפקידה לפקידה.** בפרק כל היד (נדה דף ט״ו) אמרו מעת לעת דרבנן:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:9:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:9:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:9:3)
+
+
+**וטומאת וסתות.** בפרק כל היד פסקו התוספות דווסתות דרבנן דר״נ דהוא בתרא מוקי התם (דף י״ו) פלוגתא דרב ושמואל בהכי ולרב הוו דרבנן וקיימא לן כרב באיסורי וכן יש שם מחלוקת רבי אליעזר ורבי יהושע בזה ורבי יהושע סבר דהוי דרבנן וכן יש מחלוקת חכמים ורבי מאיר בזה וחכמים סברי דהוו דרבנן וכ״פ בשאלתות וכ״פ ר״ח. וטומאת כתמים בפרק כל היד ובפרק הרואה כתם (נדה דף נ״ז נ״ח) אמרו שהיא מדרבנן:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:9:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:9:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:9:4)
+
+
+**ומ"ש לפיכך אין שורפין עליהם וכו'.** ברייתא פירקא קמא דנדה (דף ו').
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 3:9:5
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:9:5](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/3:9:5)
+
+
+**ומ"ש וכן חולין שנעשו על טהרת הקדש וכו'.** גבי מעת לעת שבנדה איכא תרי לישני התם ופסק כלישנא בתרא ואע"ג שהוא להחמיר בדרבנן משום דאלישנא קמא פרכינן פירכי טובא ושני להו בשינויי דחיקי ועוד כי בסוף הסוגיא (דף ז') הקשו על חולין הטבולים לחלה שאמרו שם דחמירי וגזרו בהו טומאה והא מעת לעת שבנדה שלא גזרו בה דאמר מר קבלה מיניה רב שמואל בחולין שנעשו על טהרת הקדש ולא בחולין שנעשו על טהרתן תרומה משמע דהכי קי"ל כיון דפריך מינה בסתמא ומשני התם דלא דמו דהתם אין תרומה מעורבת בהם אבל חלה מעורבת בהם ואבע"א הנח מעת לעת דרבנן ופסק כפירוש שני להקל בדרבנן:
+
+
+
+## Chapter 4
+
+
+### Halakhah 1
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:1:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:1:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:1:1)
+
+
+**ארבע נשים דיין שעתן וכו'.** משנה פ"ק דנדה.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:1:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:1:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:1:2)
+
+
+**ומה שכתב היתה בחזקת מעוברת וכו'.** ברייתא שם (דף ח' ע"ב).
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:1:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:1:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:1:3)
+
+
+**ומה שכתב ראתה דם ואח"כ הוכר עוברה וכו'.** שם (דף מ') בעיא דאיפשיטא:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:1:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:1:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:1:4)
+
+
+**איזו היא מניקה וכו'.** ברייתא שם (דף ז' ע"ב).
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:1:5
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:1:5](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:1:5)
+
+
+**ומ"ש אפילו מת בנה וכו'.** שם במשנה וכחכמים.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:1:6
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:1:6](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:1:6)
+
+
+**ומ"ש אבל אחר כ"ד חדש וכו'.** שם (דף ט') בברייתא וכרבי יהודה ורבי יוסי ור"ש לגבי ר"מ:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:1:7
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:1:7](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:1:7)
+
+
+**איזו היא בתולה וכו'.** שם במשנה (דף ו' ע"ב).
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:1:8
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:1:8](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:1:8)
+
+
+**ומ"ש או ילדה וכו'.** ברייתא שם:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:1:9
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:1:9](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:1:9)
+
+
+**איזו היא זקנה וכו'.** שם במשנה.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:1:10
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:1:10](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:1:10)
+
+
+**ומ"ש ואיזו היא סמוך לזקנותה וכו'.** שם (דף ט') היכי דמי סמוך לזקנותה אמר רב יהודה כל שחברותיה אומרות עליה זקנה היא ור"ש אומר כל שקורים לה אמא אמא ואינה בושה רבי זירא ורבי שמואל בר רב יצחק ח"א כל שאינה מקפדת וחד אמר כל שאינה בושה מאי בינייהו איכא בינייהו בושה ואינה מקפדת ופסק רבינו כר"ש משום דרבי זירא ור"ש ב"ר יצחק משמע דסברי כוותיה ובפלוגתא דר' זירא ור"ש ב"ר יצחק פסק לקולא משום דמידי דרבנן היא:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:1:11
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:1:11](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:1:11)
+
+
+**עברו עליה ג' עונות וראתה וכו'.** שם תנו רבנן זקנה שעברו עליה שלש עונות וראתה דיה שעתה ועוד עברו עליה שלש עונות וראתה דיה שעתה ועוד עברו עליה שלש עונות וראתה הרי היא ככל הנשים ומטמאה מעת לעת ומפקידה לפקידה ומדברי רבינו נראה שלא היה גורס אלא שתי פעמים עברו עליה שלש עונות ואתי ליה שפיר מאי דתנן בההוא פירקא (דף ז' ע"ב) ובמה אמרו דיה שעתה בראיה ראשונה אבל בשניה מטמאה מעת לעת ואינו צריך לידחק במה שנדחקו בו התוספות.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:1:12
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:1:12](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:1:12)
+
+
+**ומ"ש או פחות או יתר.** בברייתא הנזכרת אסיקנא דל"ש בין כוונה לפיחתה או הותירה:
+
+
+
+### Halakhah 2
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:2:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:2:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:2:1)
+
+
+**בתולה שראתה דם וכו'.** שם (דף י' ע"ב) ולשון אפילו שופעת שכתב רבינו קשה דבגמרא פריך אפילו שופעת וכ"ש פוסקת אדרבה פוסקת הויא כשתי ראיות ומשני אימא ושופעת ופרש"י וסמי מכאן אפילו ויש לומר שמאחר שרבינו כתב בהדה דולפת שפיר דמי למיתני לגבה אפילו שופעת:
+
+
+
+### Halakhah 3
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:3:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:3:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:3:1)
+
+
+**תינוקת שלא הגיע זמנה לראות וכו'.** שם (דף ט' ע"ב) תנו רבנן תינוקת שלא הגיע זמנה לראות וראתה פעם ראשונה דיה שעתה ושניה דיה שעתה פעם שלישית הרי היא ככל הנשים ומטמאה מעת לעת ומפקידה לפקידה עברו עליה שלש עונות וראתה דיה שעתה ועוד עברו עליה ג' עונות וראתה דיה שעתה ועוד עברו עליה ג' עונות הרי היא ככל הנשים ומטמאה מעת לעת ומפקידה לפקידה וכתב הרשב"א בת"ה הארוך ברייתא זו ד"ה היא וטעמא דמילתא דכל שלא הגיע זמנה לראות אין לה דמים וראיה ראשונה שראתה אינה אלא מקרה ואינה ראיה להצטרף עד שתתחזק בראיות אחרות הילכך ראיה ראשונה אינה אלא כאחת ואין לה כח להחזיק הראשונה אבל כשתראה עוד פעם שלישית עם השתי ראיות אחרונות תתחזק הראשונה ואלו השתים מגלות על הראיה הראשונה שראיה גמורה היתה ולא מקרה ומעתה לפי הטעם הזה אפילו לרשב"ג נמי מוחזקת היא ובזו אין הפרש בין רבי לרשב"ג ואע"פ שיש מגדולי המפרשים והפוסקים שפירשו דלרבי דוקא אתיא לפי שאין הראשונה ראויה להצטרף לעולם והילכך לרשב"ג אינה מוחזקת עד שתראה ד' ראיות מסתברא לי שא"א להעמידה שאם כן כל אותה סוגיא ושקלא וטריא דרב גידל ורב כהנא וחזקיה ור"י ור"ש בן יהוצדק וכל נחותי ימא אתו כרבי ודלא כהלכתא דאנן בווסתות כרשב"ג סבירא לן כדאיפסקא הלכתא בב"ק ולפיכך נ"ל הדרך שכתבתי נכון וברור עכ"ל. וכך היא דעת רבינו שפסקה לברייתא זו ויש בספרי רבינו חסרון הניכר וצריך להגיה עברו עליה ג' חדשים ואח"כ ראתה דיה שעתה עברו עליה ג' חדשים אחרים ואח"כ ראתה דיה שעתה עברו עליה שלשה חדשים אחרים וראתה מטמאה למפרע:
+
+
+
+### Halakhah 4
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:4:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:4:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:4:1)
+
+
+**תינוקת שהגיע זמנה לראות וכו' עד ואח"כ ראתה דיה שעתה.** גם זה שם.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:4:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:4:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:4:2)
+
+
+**ומה שכתב עברו עליה שלשה חדשים אחרים וכו'.** פשוט הוא:
+
+
+
+### Halakhah 5
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:5:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:5:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:5:1)
+
+
+**מעוברת ומניקה וכו'.** משנה שם (דף ז' ע"ב) ובמה אמרו דיה שעתה בראייה ראשונה אבל בשניה מטמאה מעת לעת ואם ראתה את הראשונה מאונס אף בשניה דיה שעתה ובגמרא (דף י' ע"ב) אמר רב אכולהו וכו' ופסק רבינו כר"י ור' יוסי ור"ש לגבי ר"מ ואע"ג דרבי יוחנן סבר כר"מ הא רב דהלכה כוותיה באיסורי לגבי שמואל סבר כוותייהו ולא שבקינן רובא דתנאי למפסק כר"מ דיחידאה הוא ועוד דלית הלכתא כוותיה לגבי חד מינייהו וכיון דרב סבר הכי לא חיישינן לדרבי יוחנן בהא:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:5:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:5:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:5:2)
+
+
+**וכתב** הר"י קורקוס ז"ל שיש הוכחה לפסק זה ממה שאמרו אחר כך כתנאי וכיון שאחר שהזכירו פלוגתא דאמוראי אמרו כתנאי משמע דאמוראי לא שמיע להו מן הך ברייתא דאי הוה שמיע להו הל"ל הלכתא כפלוני הילכך אפלוגתא דתנאי איכא למיסמך למפסק כרובא וכ"ש דמתניתין סתמא קתני וטפי משמע דאכולהו קאי ושוב מצאתי בירושלמי שאמרו דר"י סבר כרב עכ"ל. ובכן נסתלק מעל רבינו מ"ש עליו הרב ראב"ד מטמאות למפרע אמר אברהם הא דלא כהלכתא דקיי"ל כרבי יוחנן דאמר מעוברת ומניקה דיין שעתן כל ימי עיבורן וכל ימי מניקותן:
+
+
+
+### Halakhah 6
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:6:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:6:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:6:1)
+
+
+**מעוברת או מניקה שראתה דם וכו'.** משנה שם (דף ז' ע"ב) רבי יוסי אומר מעוברת ומניקה שעברו עליהן ג' עונות דיין שעתן ומשמע לרבינו דלא פליג אלא אר"א דאמר התם כל הנשים דיין שעתן אבל ת"ק לא פליג אר' יוסי ודלא כפרש"י דפליג ולפי פירוש רבינו רבי יוסי נמי כת"ק ס"ל דמעוברת משיודע עוברה ומניקה משנולד אלא דאתא למימר דבעברו עליהן ג' עונות פעם אחת בלבד דיין שעתן אבל אם עברו עליהן ג' עונות פעם שניה מטמאות למפרע ות"ק לא פליג עליה:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:6:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:6:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:6:2)
+
+
+**הרואה דם טוהר וכו': וכל שדיה שעתה אע"פ שאינה מטמאה למפרע וכו'.** משנה סוף פ"ק דנדה (דף י"א) אע"פ שאמרו דיה שעתה צריכה להיות בודקת חוץ מן הנדה והיושבת על דם טוהר.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:6:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:6:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:6:3)
+
+
+**ומה שכתב וכל אשה המרבה לבדוק משובחת.** ריש פרק כל היד (נדה דף י״ג):
+
+
+
+### Halakhah 7
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:7:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:7:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:7:1)
+
+
+**חכמים תקנו וכו'.** בריש נדה (דף ד' ע"ב) ופרש"י שחרית להכשיר טהרות של לילה להוציא מכלל ספק טומאה שאם תמצא טהורה תדע שלא ראתה בלילה ולכשתמצא ערבית טמאה יצאו אלו מספק.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:7:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:7:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:7:2)
+
+
+**ומ"ש וכל אוכלת תרומה בודקת וכו'.** משנה ספ"ק דנדה (דף י"א):
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:7:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:7:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:7:3)
+
+
+**וכל אשה בודקת בשעה שעוברת לשמש מטתה.** שם במשנה שצריכה לבדוק בשעה שעוברת לשמש ביתה ובגמרא (דף י"א ע"ב) אמר רב יהודה אמר שמואל לא שנו אלא באשה עסוקה בטהרות דמגו דבעיא בדיקה לטהרות בעיא נמי בדיקה לבעלה אבל אינה עסוקה בטהרות לא בעיא בדיקה ואסיקנא דאע"ג דיש לה וסת אם היא עסוקה בטהרות צריכה בדיקה לבעלה ואם אינה עסוקה בטהרות אע"פ שאין לה וסת אינה צריכה בדיקה לבעלה ולפי זה יש לתמוה על רבינו שכתב שכל הנשים שיש להם וסת בחזקת טהרה לבעליהן דמאי איריא יש להם וסת אפילו אין להם וסת הרי הן בחזקת טהרה לבעליהן כל שאינה עסוקה בטהרות וכבר השיגו הראב"ד וכתב כל הנשים שיש להם וסת א"א איני יודע מהו זה דקי"ל כל לבעלה אינה צריכה בדיקה אא"כ עסוקה בטהרות ואפילו אשה שאין לה וסת עכ"ל. וליישב דעת רבינו י"ל שהוא ז"ל סובר שמה שאמרו בגמרא לא שנו אלא בעסוקה בטהרות וכו' היינו דוקא בעד שלפני תשמיש אבל בעדים דלאחר תשמיש לעולם צריכה כ"כ המ"מ בפ"ד מהא"ב:
+
+
+
+### Halakhah 8
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:8:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:8:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:8:1)
+
+
+**חזקת בנות ישראל וכו'.** פ"ק דנדה עלה י' ע"ב:
+
+
+
+### Halakhah 9
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:9:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:9:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:9:1)
+
+
+**החרשת והשוטה וכו'.** משנה ריש פרק כל היד (נדה דף י"ג ע"ב):
+
+
+
+### Halakhah 10
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:10:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:10:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:10:1)
+
+
+**כל הכתמים הבאים וכו'.** משנה וגמרא בסוף פרק דם הנדה (נדה דף נ״ו):
+
+
+
+### Halakhah 11
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:11:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:11:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:11:1)
+
+
+**כל הכתמים הטמאים וכו'.** בפ"ט דנדה (דף ס"א ע"ב) ז' סמנים מעבירים על הכתם וכו' הטבילו ועשה על גביו טהרות העביר עליו ז' סמנים ולא עבר ה"ז צבע הטהרות טהורות ואינו צריך להטביל עבר או שדיהה [ה"ז כתם] הטהרות טמאות וצריך להטביל ובגמרא (דף ס"ב ע"ב) תניא ר' חייא אומר דם הנדה ודאי מעביר עליו שבעה סמנים ומבטלו ופירש"י דם הנדה ודאי כגון נדה שקנחה בסדין דם אע"ג דודאי דם הוא מעביר עליו ז' סמנים ומבטלו ואפילו לא עבר הרי הוא בטל וטהור הואיל ואין אדם מקפיד עליו אחר העברת סמנין מדאזל ליה חזותא ואע"ג דקאמר התם אהא דר' חייא רבי לא שנאה ר' חייא מנא ליה ופירש"י דאינה משנה ומשובשת היא ר"ל הוא דאמר הכי לפרוקי מאי דאותיב עליה ר"י אבל ר"י סבר דמשנה היא דהא מותיב מינה לר"ל ואמוראי בתראי נמי סברי לה התם להא דר' חייא. ומ"מ מה שכתב
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:11:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:11:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:11:2)
+
+
+**רבינו בין עבר בין לא עבר מטבילו** קשיא לי דהא בלא עבר תנן ה"ז צבע ואינו צריך להטביל. וי"ל דאינו צריך להטביל פעם שניה קתני אבל פעם ראשונה צריך להטביל וכדקתני ברישא דמתניתין הטבילו. וא"ת אם הוא צבע למה צריך להטבילו י"ל דכיון דנחת לידי ספק טומאה צריך טבילה ואם הטבילו קודם שעברו עליו ז' סמנין כיון דאיגלאי מילתא דצבע הוא עלתה לו אותה טבילה ואי איגלאי מילתא דכתם הוא לא עלתה לו אותה טבילה כיון שהיה שם דם הנדה בעין וצריך להטבילו שנית:
+
+
+
+### Halakhah 12
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:12:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:12:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:12:1)
+
+
+**בגד שאבד בו כתם וכו' ומבטלו.** בפרק ט' דנדה (דף ס"א).
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:12:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:12:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:12:2)
+
+
+**ומה שכתב אבדה בו ש"ז וכו'.** שם ופירש"י במחט מקום הזרע קשה והמחט מתעכב מלהכנס בו. חדש אין נבדק בחמה לפי שהוא עב ומהודק אבל שחוק נבדק בחמה שוטחו בחמה מקום הזרע הוי סתום ואין החמה נראית כנגדו כל כך:
+
+
+
+### Halakhah 13
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:13:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:13:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:13:1)
+
+
+**בגד שהיה עליו כתם וכו'.** משנה כתבתיה בסמוך.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:13:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:13:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:13:2)
+
+
+**ומ"ש שהרי הקפיד על הכתם להסירו וכו'.** שם בגמרא:
+
+
+
+### Halakhah 14
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:14:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:14:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:14:1)
+
+
+**כתם שהעביר עליו ששה סמנים וכו'.** ברייתא שם (דף ס"ב) ובספרי רבינו כתוב פעמיים צנון והוא ט"ס וצריך לכתוב במקומו צפון והוא הנקרא בלעז שאבו"ן:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:14:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:14:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:14:2)
+
+
+**העביר עליו ז' סמנין וכו'.** גם זה ברייתא שם העביר עליו ז' סמנין ולא עבר שנאן ועבר טהרותיו טהורות אמר ר' זירא ל"ש אלא הטהרות שנעשו בין תכבוסת ראשונה לשניה אבל טהרות שנעשו אחר תכבוסת שניה טמאות שהרי הקפיד עליו ועבר אמר ליה ר' אבא לרב אשי מידי בקפידא תליא מילתא א"ל אין דתניא רבי חייא אומר דם הנדה ודאי מעביר עליו ז' סמנין ומבטלו ואמאי הא דם נדה הוא אלמא בקפידא תליא מילתא הכא נמי בקפידא תליא מילתא ופירש"י שנאן ועבר טהרותיו טהורות דאם איתא דדם הוא בהעברה קמייתא הוה עבר. תכבוסת העברת סמנים. שהרי הקפיד עליו כשחזר והעבירן גילה דעתו שמקפיד עליו בספק דם. ועבר ע"י העברה זו ונעשה בו מעשה דם שכן דרך דם לעבור ע"י ז' סמנים. מידי בקפידא תליא בתמיה כיון דטהרות שבינתים טהורות אלמא לאו דם הוא אחרונות משום קפידא אמאי טמאוה דם הנדה ודאי כגון נדה שקנחה בסדין דם אע"ג דודאי דם הוא מעביר עליו ז' סמנין ומבטלו ואפילו לא עבר הרי הוא בטל וטהור הוא הואיל ואין אדם מקפיד עליו אחר העברת סמנין מדאזל לה חזותא עכ"ל וה"ה בפ"ט מהא"ב פירש הסוגיא לדעת רבינו עיין עליו. ואם תאמר והרי כיון שהעביר עליו ז' סמנין ולא עבר אין זה כתם אלא צבע וכמ"ש רבינו למעלה וא"כ אין כאן עוד טומאה אפילו אחר תכבוסת שניה ואפילו מקפיד ותירצו התוספות עיין עליו:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:14:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:14:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:14:3)
+
+
+**והר"י** קורקוס ז"ל כתב וז"ל ומדברי רבינו נ"ל שאפשר לפרש בדרך אחרת דודאי ע"י כיבוס משתנה הוא ומראיתו מכהה וה"נ מיירי בנשתנה ע"י כיבוס ראשון ובכי הא לא הוי צבע וכמ"ש רבינו למעלה לא עבר כלל ה"ז צבע ואם עבר וכו' דכל שהוא ודאי עובר או מכהה באופן שלא ישאר אלא רישומן לבד וכיון שנשתנה הרי נתבטל וטהור אף על פי שהוא כתם כי מסתמא אינו מקפיד עוד עליו ולכך טהור אבל זה שחזר והעבירו הקפיד על רושם כל שהוא ולכך טמא עד שיבטלו ויטבילו וז"ש הואיל וגילה דעתו שהוא מקפיד עליו ורוצה להוציא רישומו כי בודאי אין שם אלא רישומו עד כאן לשונו:
+
+
+
+### Halakhah 15
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 4:15:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:15:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/4:15:1)
+
+
+**האשה שמתה וכו'.** משנה וגמרא בסוף נדה (דף ע"א) וכת"ק:
+
+
+
+## Chapter 5
+
+
+### Halakhah 1
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 5:1:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:1:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:1:1)
+
+
+**הזב והזבה וכו' יולדת שלא טבלה וכו'.** בפרק במה אשה (שבת ס״ד:) ובפרק בנות כותים עלה ל״ה ובת״כ שנינו וידיו לא שטף במים אפי' לאחר כמה שנים:
+
+
+
+### Halakhah 3
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 5:3:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:3:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:3:1)
+
+
+**יולדת שירדה לטבול וכו'.** בפרק יוצא דופן עלה מ"ב:
+
+
+
+### Halakhah 4
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 5:4:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:4:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:4:1)
+
+
+**יולדת שטבלה אחר שבעה וכו'.** משנה בסוף נדה (דף ע"א) וכבית הלל.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 5:4:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:4:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:4:2)
+
+
+**ומה שכתב רבינו נמצאת אתה למד שהיולדת בתוך ימי טוהר אוכלת במעשר וכו'.** שיעור הלשון כך הוא שהיולדת דינה הוא שבתוך ימי טוהר אוכלת במעשר וכו':
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 5:4:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:4:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:4:3)
+
+
+**וכתב** הראב"ד ותהיה טהורה לכל א"א כמה דבריו מבולבלים וכו'. מ"ש ומשנה שלימה היא בפרק חומר בקודש (חגיגה דף כ"א) אונן ומחוסר כפורים צריכים טבילה לקדש אבל לא לתרומה. ומ"ש ואם יאמר הני מילי לאכילה אבל למגע לא הרי דבריו סותרים זה את זה כלומר שהוא כתב ותהיה טהורה לכל דמשמע לכל מילי בין למגע בין לאכילה והוא אומר דמתניתין דמצרכה טבילה הני מילי לאכילה. וליישב דברי רבינו יש לומר שמה שכתב רבינו לכל היינו לומר שתהיה טהורה בין לקדש בין לתרומה במגע דוקא וזה מבואר בדבריו שהרי כתב שלאכילה אף לתרומה יראה לו שצריכה טבילה כך היה נראה לומר אלא שמדברי רבינו בפרק שנים עשר מהלכות שאר אבות הטומאה נראה שמחוסר כפורים עד שלא הביא כפרתו אסור ליגע בקדש ולפיכך צריך לפרש דברי רבינו דה"ק ומטמאה את הקדשים בולד הטומאות עד שתשלים ימי טוהר וגם תהיה טהורה לכל דהיינו על ידי הבאת קרבנותיה.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 5:4:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:4:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:4:4)
+
+
+**ומה שכתב רבינו ויראה לי** מצאתי בספר מוגה כלשון הזה ויראה לי שמאחר שהיא מטמאה את הקדש שהיא צריכה טבילה בסוף ואחר תגע בקדש אף על פי שאינה צריכה טבילה אחרת לאכילת התרומה:
+
+
+
+### Halakhah 5
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 5:5:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:5:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:5:1)
+
+
+**יולדת שהיא מצורעת וכו'.** משנה פרק בנות כותים (נדה דף ל״ד) וכב״ה ויליף לה מדכתיב ולנקבה לרבות מצורעת למעיינותיה וברפ״ב דטבול יום ושאר כל הטמאים וכו' משקים היוצאים מהם כמשקין שהוא נוגע בהם אלו ואלו תחילה חוץ מן המשקה שהוא אב הטומאה והיינו משקה הזב:
+
+
+
+### Halakhah 6
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 5:6:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:6:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:6:1)
+
+
+**זבה קטנה וכו'.** משנה בסוף נדה (דף ע"ב) ומודים ברואה תוך אחד עשר יום וטבלה לערב ושמשה שמטמאים משכב ומושב וחייבין בקרבן טבלה ביום שלאחריו ושמשה הרי זו תרבות רעה ומגען ובעילתן תלויים.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 5:6:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:6:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:6:2)
+
+
+**ומה שכתב רבינו שטבלה ביום השמור שלה וכו'.** הוא מה ששנינו טבלה ביום שלאחריו וכו'.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 5:6:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:6:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:6:3)
+
+
+**ומה שכתב טבלה בליל השמור וכו'.** זה הוא מה ששנינו ומודים ברואה בתוך י"א יום וטבלה לערב וכו' וביאר רבינו כל זה בפרק ששי מהלכות איסורי ביאה:
+
+
+
+### Halakhah 7
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 5:7:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:7:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:7:1)
+
+
+**הרואה דם ביום י"א וכו'.** גם זה שם במשנה וכבית הלל:
+
+
+
+### Halakhah 8
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 5:8:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:8:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:8:1)
+
+
+**וכתב הראב"ד אע"פ שאסורה לשמש לערב א"א יש כאן שיבוש ולמה אסורה לשמש לערב והלא יצא מגרגרנותו וכו'. ואין ספק שספר מוטעה נזדמן להראב"ד שבספרינו כתוב עד לערב. ומ"ש אבל הרואה דם בעשירי וכו'.** שם וכר"י:
+
+
+
+### Halakhah 9
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 5:9:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:9:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:9:1)
+
+
+**זב וזבה גדולה וכו'.** בפרק כיצד צולין (פסחים דף פ״א) ובפרק שני דנזיר (דף ט״ו ע״ב) נתבאר שאפי' ראתה בשביעי אחר טבילה סותרת הכל ופרק בנות כותים (נדה דף ל״ג ע״ב) אמרו ואחר תטהר אמר רחמנא אחר אחר לכולן שלא תהא טומאה מפסקת ביניהם ובפרק תינוקת (נדה דף ס״ז ע״ב) אמרו מכדי האידנא כלהו ספק זבות שווינהו רבנן ליטבלינהו ביממא דשבעה ומשני משום דר״ש דתניא אחר תטהר אחר אחר לכולן ר״ש אומר אחר מעשה תטהר אבל אמרו חכמים אסור לעשות כן שמא תבא לידי ספק ובת״כ אחר תטהר אחר המעשה תטהר כיון שטבלה יכולה להתעסק בטהרות אבל אמרו חכמים לא תעשה כן שלא תבא לידי ספק:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 5:9:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:9:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/5:9:2)
+
+
+**אע"פ שהם עושים משכב ומושב למפרע וכו'.** הכי איתא בפ"ק דמגילה (דף ח' ע"ב) א"ל רבא אלא מעתה גבי זב דכתיב וכבס בגדיו וטהר התם מאי וטהר מעיקרא איכא אלא טהור השתא מלטמא כלי חרס בהיסט אע"ג דהדר חזי לא מטמא למפרע. וכתב רש"י אף על פי שטבילתו ביום ואם ראה אחר טבילה בו ביום סתר הכל ומטמא משכב ומושב וכו' אפילו הכי מהני ליה טבילה לטהרו מלטמא כלי חרס שהסיט בין טבילה לראיה והכי דריש לה בת"כ ונראה בעיני דהא דדרשינן ליה וטהר מלטמא כלי חרס מדכתביה להאי קרא בתר קרא אשר יגע בו הזב דנפקא לן מיניה היסט כלי חרס לזב ואין לך עוד טמא שמטמא כלי חרס בהיסט אלא הוא עכ"ל:
+
+
+
+## Chapter 6
+
+
+### Halakhah 1
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 6:1:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:1:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:1:1)
+
+
+**כבר ביארנו שהזב וחביריו וכו'.** בתחילת פ' ראשון.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 6:1:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:1:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:1:2)
+
+
+**ומ"ש ובין שישב על המשכב וכו'.** בת"כ אין לי אלא בזמן ששכב על המשכב וישב על המושב מנין שכב על המושב וישב על המשכב ת"ל יטמא ריבה.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 6:1:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:1:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:1:3)
+
+
+**ומה שכתב ואי זהו מרכב וכו'.** בתורת כהנים ובפרק כ"ג דכלים.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 6:1:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:1:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:1:4)
+
+
+**וטפיטן של סוס** הוא הנקרא בערבי סרג אל פרס:
+
+
+
+### Halakhah 2
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 6:2:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:2:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:2:1)
+
+
+**המשכב והמרכב כל אחד מהם אב וכו'.** בפ"ק דכלים מונה אותה באבות הטומאות ובתורת כהנים אמרו שהמשכב נעשה אב הטומאה לטמא אדם ולטמא בגדים ובפרשת זבים כתיב כל המשכב אשר ישכב עליו הזב יטמא וכל הכלי אשר ישב עליו יטמא ואיש אשר יגע במשכבו ורחץ במים וגו' וכל המרכב אשר ירכב עליו הזב יטמא וכל הנוגע בכל אשר יהיה תחתיו יטמא עד הערב והנושא אותם יכבס בגדיו ורחץ במים וגו' ודריש בת"כ דוהנושא אותם קאי על כל מאי דכתיב בענין מעיינותיו ומרכבו ומושבו ודם הנדה ובפרק כ"ג דכלים שנינו מה בין מרכב למושב מרכב חלק מגעו ממשאו ומושב לא חלק מגעו ממשאו כלומר שבנוגע במשכב נאמר יכבס בגדיו וגו' ובנוגע במרכב נאמר יטמא עד הערב ולא נאמר יכבס בגדיו למדנו שאינו מטמא בגדים אפילו נוגע בהם עד שלא פירש ממטמאיו ונוגע במשכב מטמא בגדים עד שלא פירש ממטמאיו אבל פירש ממטמאיו אינו מטמא כלים מדכתיב יכבס בגדיו דמשמע דוקא בגדיו שהוא לבוש בשעת נגיעה והוא הדין לשאר כלים שהוא נוגע בהם באותה שעה והכי תניא בת"כ ואיש אשר יגע במשכבו יכבס בגדיו בשעת מגעו מטמא בגדים פירש אינו מטמא בגדים ותניא תו בת"כ מנין לעשות שאר כלים כבגדים ת"ל וטמא יכול יטמא אדם וכלי חרס ת"ל בגד בגד הוא מטמא ולא אדם וכלי חרס ובפ"ב דזבים תנן כלל אמר רבי יהושע כל המטמא בגדים בשעת מגעו מטמא אוכלים ומשקים להיות תחילה והידים להיות שניות ואינו מטמא לא אדם ולא כלי חרס לאחר פרישתו ממטמאיו מטמא משקים להיות תחילה והאוכלים והידים להיות שניות ואינו מטמא בגדים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 6:2:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:2:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:2:2)
+
+
+**נמצאת למד שהזב והזבה וכו'.** נתבאר בפרק ראשון ובפרק זה.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 6:2:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:2:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:2:3)
+
+
+**ומה שכתב ואינו מטמא לא אדם ולא כלי חרס.** כבר כתבתי בסמוך דהכי דריש בתורת כהנים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 6:2:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:2:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:2:4)
+
+
+**הנה למדת שכל טמא שנאמר בו יכבס בגדיו וכו'.** נתבאר בסמוך.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 6:2:5
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:2:5](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:2:5)
+
+
+**ומה שכתב ועושה אותם ראשון לטומאה כמוהו:**
+
+
+
+### Halakhah 3
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 6:3:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:3:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:3:1)
+
+
+**כל הכלים שינשאו למעלה מן הזב וכו'.** בפרק בנות כותים (נדה דף ל״ב ל״ג) יליף מקרא דוכל הנוגע בכל אשר יהיה תחתיו יטמא דעליונו של זב אינו מטמא אלא אוכלים ומשקים.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 6:3:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:3:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:3:2)
+
+
+**ומ"ש שהם נקראים מדף.** בפ"ד דזבים תנן שהזב עושה משכב ומושב מתחתיו לטמא אדם ולטמא בגדים ועל גביו מדף לטמא אוכלים ומשקים וכתב רבינו טומאת מדף הוא כי הזב וחביריו וכו' כשהיה עליו למעלה ממנו אוכלים ומשקים נטמאו ואפילו אם היו בינו ובינם חציצות רבות וכן כשיש למעלה מן הזב כלים מונחים זה על זה הרי הכלי העליון טמא טומאת מדף ואע"פ שבינו ובין הזב חציצות רבות אמנם הכלי ההוא טמא טומאה קלה ר"ל שאינו אב הטומאה אבל דינו כדין כלים שנגעו בזב שמטמאין אוכלים ומשקים בלבד לא אדם וכלים וכבר נתבאר כי כל הכלים הראויים למשכב שתחת הזב כולם אב הטומאה ואין חילוק בין המשכב התחתון הדבק בקרקע או המשכב הדבק לגופו וכל הכלים אשר על הזב כולם ראשון לטומאה ואין חילוק בין הבגד הדבק על גופו מלמעלה ובין הבגד העליון שכנגד הרקיע הכל טמא טומאת מדף ואין הדין כן במת אבל דין כלים שעל גביו או כלים שתחתיו או כלים שנגעו בו דין אחד לכולם וכו' ויליף לה בסיפרא מקראי. והלשון הזה של מדף וכו' בכאן עיקרו מנדף והוא ממאמרם ריחו נודף יריח למרחק הרבה הפליג הענין הזה על הזב אשר יטמא כלים שעל גביו ואפי' היה ביניהם חציצה רבה כאילו יעבור ריחו ויגיע אליהם ויטמאם על דרך הדמיון עכ"ל:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 6:3:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:3:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:3:3)
+
+
+**ומ״ש וטומאת מדף מדבריהם.** הוא ממה שאמרו בריש נדה (דף ד' ע״ב) בטומאה דרבנן דיקא נמי דקתני מדף כד״א קול עלה נדף ואע״ג דבפרק בנות כותים (נדה דף ל״ב ל״ג) יליף לה מקרא משמע לרבינו שהוא אסמכתא דהא בת״כ דריש האי תחתיו תחתיו ממש ולא לעליונו כדדריש בפרק בנות כותים ובזה נתיישב מ״ש עליו הראב״ד א״א יש טומאת מדף מדבריהם אבל זו אע״פ שהיא קרויה מדף אינה מדבריהם שהרי התורה אמרה והנוגע בכל אשר יהיה תחתיו יטמא עד הערב ודרשינן לה במסכת נדה כל אשר יהיה תחתיו הזב ואמרה תורה יטמא עד הערב אלמא כלי שטף נמי מטמא במגע עכ״ל. ומה שסיים אלמא כלי שטף נמי מטמא במגע היינו לומר שכיון שעליונו של זב מטמא מן התורה לדעת הראב״ד הרי הוא ראשון ומטמא כלי שטף במגע אבל לדעת רבינו שאינו טמא אלא מדרבנן אינו מטמא כלים כלל:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 6:3:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:3:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:3:4)
+
+
+**כתב** הר"י קורקוס ז"ל תמהני מהראב"ד שרוצה לפרש כוליה קרא בעליונו שמטמא גם כלי שטף במגע דהא הלכה רווחת היא דעליונו של זב אוכלים ומשקים לבד מטמא וכמו שכתבתי ממשנה פ"ד דזבים ופ"ו דעדיות גם בתוספתא דזבים פ"ג גם בת"כ גם בפרק בנות כותים באותה סוגיא שהזכיר הראב"ד:
+
+
+
+### Halakhah 4
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 6:4:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:4:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:4:1)
+
+
+**הזב והזבה וכו'.** משנה וגמרא בפרק תינוקת (נדה דף ס״ט ע״ב) ושנינו בתורת כהנים שטומאה זו מדברי סופרים:
+
+
+
+### Halakhah 5
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 6:5:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:5:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:5:1)
+
+
+**כל מקום שאתה שומע טומאת משכב ומרכב וכו'.** שם בגמרא ובפ"ק דכלים שנינו למעלה מהם מרכב שהוא מטמא תחת אבן מסמא למעלה מן המרכב משכב ששוה מגעו למשאו והוא מלשון והיתית אבן חדה ושומת על פום גובא כמו שאמרו בפ"ב דנדה שם דהיינו אבן כבדה העשויה להניח ואינה מיטלטלת ורבותא הוי אע"פ שאין נרגש כובד הזב היושב עליה במה שתחתיה כי ע"י כובד האבן אין כובד הזב מעלה ולא מוריד לכלים שתחתיה ואין מגיע להם כובדו ובת"כ יליף להו מקראי.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 6:5:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:5:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:5:2)
+
+
+**ומ״ש רבינו וכן אם היה אחד ממטמאי משכב ומושב למטה ואבן עליו.** בפ״ה דזבים כל הנישא על גבי הזב טמא כל שהזב נישא עליו טהור חוץ מן הראוי למשכב ולמושב והאדם כיצד אצבעו של זב ( תחת האבן או) תחת הנדבך הטהור מלמעלה מטמא שנים ופוסל אחד פירש מטמא אחד ופוסל אחד הטמא מלמעלן והטהור מלמטן מטמא שנים ופוסל אחד פירש מטמא אחד ופוסל אחד האוכלים והמשקין המשכב והמושב והמדף מלמעלן מטמאים אחד ופוסלים אחד פירשו מטמאים אחד ופוסלים אחד המשכב והמושב מלמטן מטמאין שנים ופוסלים אחד האוכלים והמדף מלמטה טהורים מפני שאמרו כל הנושא והנישא על המשכב טהור חוץ מן האדם ופי' רבינו שמדף ששנינו היינו אוכלים או משקים וכלי שטף שאינן ראויים למשכב ומושב. ואע״פ שבמשנה זו לא הזכירו מרכב כללו רבינו עם משכב ומושב שודאי דינם שוה שע״ז אמרו בר״פ בכל מערבין (עירובין דף כ״ז) שאין למדין מן הכללות אפילו במקום שנאמר בהם חוץ דהא איכא מרכב:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 6:5:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:5:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:5:3)
+
+
+**כתב** הראב"ד ואינו מטמא לא אדם ולא כלים א"א כבר כתבנו למעלה שעליונו של זב מטמא כלי שטף במגע עכ"ל. וכבר כתבתי טעם דברי רבינו:
+
+
+
+### Halakhah 6
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 6:6:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:6:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:6:1)
+
+
+**כתוב בספרי רבינו האוכלים והכלים והמשקים,** והוא חילוף מט"ס וצריך להגיה האוכלים והמשקים והכלים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 6:6:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:6:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/6:6:2)
+
+
+**ומ"ש והכלים שאינם עשויים לא למשכב ולא למושב ולא למרכב.** בפ"ג דחגיגה (כ"ג ע"ב) ובפ"ו דשבת (דף נ"ט) יכול כפה סאה וישב עליה יהא טמא וכו' תלמוד לומר אשר ישב עליו והיושב על הכלי יטמא מי שמיוחד לישיבה יצא זה שאומרים לו עמוד ונעשה מלאכתנו:
+
+
+
+## Chapter 7
+
+
+### Halakhah 1
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 7:1:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:1:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:1:1)
+
+
+**הזב מטמא את המשכב והמושב והמרכב בה' דרכים וכו'.** בסוף פרק שני דזבים וכתב שם רבינו ראיה מהפסוק.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 7:1:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:1:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:1:2)
+
+
+**ומה שכתב וכל אחד מחמשה דרכים אלו הוא הנקרא מדרס בכ"מ,** כם כתב רבינו שם גם כן:
+
+
+
+### Halakhah 2
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 7:2:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:2:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:2:1)
+
+
+**וכן המשכב והמרכב מטמאים את האדם בשבעה דרכים וכו'.** ג"ז בסוף פ"ב דזבים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 7:2:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:2:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:2:2)
+
+
+**ומ"ש רבינו מפי השמועה למדו שמקום שהזב יושב ומטמא וכו'.** בת"כ והיושב על הכלי אשר ישב עליו הזב יטמא מקום שהזב יושב ומטמא ישב הטהור ויטמא אין לי אלא בזמן שהוא יושב עליו והזב שם מנין לעשות ריקם כמלא ת"ל כלי לעשות ריקם כמלא פי' ריקם כשאינו שם מלא כשהוא שם.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 7:2:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:2:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:2:3)
+
+
+**ומ"ש אעפ"י שהיתה אבן מבדלת וכו'.** בת"כ יליף לה מקרא:
+
+
+
+### Halakhah 3
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 7:3:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:3:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:3:1)
+
+
+**אין הזב מטמא את המשכב וכו'.** בת"כ.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 7:3:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:3:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:3:2)
+
+
+**ומה שכתב כיצד מקצת טמא על המשכב וכו'.** בפ"ה דזבים הטמא על מקצת משכב והטהור על מקצת משכב טמא מקצת טמא על המשכב ומקצת טהור על המשכב טהור נמצאת טומאה נכנסת לו ויוצאת ממנו במיעוטו ופירש שם רבינו כבר קדם לנו כי אשר יטמא משכב ומרכב לא יטמא אותו עד שינשא רובו עליו וכן האיש הטהור כשינשא על משכב טמא צריך שינשא רובו ואז יטמא אמר יתברך באדם אשר ישב על משכב הזב ואם על המשכב הוא ובא הפירוש הוא עד שינשא רובו עליו ודע כי אנחנו לא נחוש על רוב המשכב ומיעוטו אמנם על רוב הנישא ואפי' היה על מיעוט המשכב הוא מטמא אותו ומיטמא ממנו ולשון סיפרא או על הכלי אשר הוא יושב עליו או על מקצתו והנה יהיה ביאור המשנה כך רוב הטמא על קצת משכב ורוב הטהור על מקצתו נטמא הטהור נמצאת טומאה נכנסת למשכב ויוצאת ממנו במיעוטו לפי שמקצתו נטמא וטימא זולתו:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 7:3:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:3:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:3:3)
+
+
+**וכתב** הראב"ד ומקצת הטהור על אותו משכב א"א לא ידעתי מהו על אותו משכב שאפי' על משכב שהוא טמא גמור אם לא ישב עליו הטהור רובו טהור דהכי דריש לה בספרא ואם על המשכב הוא עד שינשא רובו עליו כדרך שנכנסת לו הטומאה כך היא יוצאה ממנו עכ"ל וי"ל שדבר פשוט הוא וכך מבואר בדבריו בפי' המשנה שכתבתי וגם פה מבואר בתחילת דבריו שכתב אבל אם נישא מיעוטו הואיל ולא נגע ה"ז טהור ולא כתב אותו משכב אלא כדי לסיים שהמשכב והנישא עליו טהורים ואין כאן מקום לטעות בו:
+
+
+
+### Halakhah 4
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 7:4:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:4:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:4:1)
+
+
+**זב שהיה מוטל על חמשה ספסלין וכו'.** משנה פ"ד דזבים ופירש רבינו שמשון לאורכן ששכב אורכו לאורכן טמאים שעל כל אחד ואחד נשען רובו פעמים על זה פעמים על זה לרוחבן ששוכב אורכו לרוחבן ולכך טהורין דאין רובו נשען על אחד מהם ישן לרוחבן ספק נתהפך לארכן טמאים ורבינו פירש שם בהיפך ורש"י בהמצניע (דף צ"ג) פירש כרבינו שמשון וכן משמע בתוספתא פ"ק:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 7:4:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:4:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:4:2)
+
+
+**היה מוטל על ששה כלים וכו'.** גם זה שם ודייק רבינו לכתוב אין טמא משום משכב לומר דלא מיעט שאר כלים אלא מטומאת משכב אבל לא מטומאת מגע ונפקא מינה דטמא משום משכב הוי אב הטומאה לטמא אדם וכלים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 7:4:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:4:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:4:3)
+
+
+**עמד על שני משכבות וכו': וכתב** הראב"ד אני ראיתי המשנה כך וכו'. ומשנה זו בפרק ד' דזבים וסבור רבינו דכיון דבשם רבי שמעון שנינו טהורים משמע דרבנן פליגי עליה ומטמו בכל גוונא. וכן נראה מדבריו בפירוש המשנה שכתב ואין הלכה כר"ש:
+
+
+
+### Halakhah 5
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 7:5:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:5:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:5:1)
+
+
+**היה יושב על גבי המטה וכו' עד הרי הכלים שתחת לוח המכבש טהורים.** שם וכת"ק:
+
+
+
+### Halakhah 7
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 7:7:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:7:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:7:1)
+
+
+**וכתב הראב"ד מפני שהוא רפוי א"א כל מ"ש בזה הרבה יגיעות וכו' עד יצפון לישרים תושיה: ואני** אומר שנראה מדבריו שהוא סובר שרבינו מפרש שיושב על המכבש היינו שיושב על הלוח הנתון על הבגדים ומפני כך הקשה עליו מה שהקשה ואין הדבר כן אלא ביושב על קצה המכבש שאצל הלוח המונח על הבגדים ואילו היה הלוח דחוק על הבגדים היו הבגדים רצוצים תחת המכבש והיה היושב על קצה המכבש נישא על הבגדים ועכשיו שהלוח המונח על הבגדים רפוי כשהוא יושב על קצה המכבש אינו נישא על הבגדים ואפשר דמשום הכי נקט תנא מכבש של כובס כלים מפני שאין דרך להדקו מפני שאין צורך לכובס בהידוק דכשיתפשטו קמטיו קצת סגי להו. אבל מכבש של חייטים מהדקים אותו בכל כחם כדי שיהיו הבגדים עומדים זקופים ומה ששנו בתוספתא בזמן שטעון אבנים כלים שתחתיו טהורים הטעם מפני שע"י אבנים אינו מהודק אבל כשהוא קשור בחבלים הוא מהודק:
+
+
+
+### Halakhah 8
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 7:8:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:8:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:8:1)
+
+
+**זב שדרס על כלי וכו'.** בפרק בא סימן (נדה דף מ״ט ע״ב) ופרק חומר בקדש (דף כ״ב) ובפרק במה אשה (שבת דף נ״ט):
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 7:8:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:8:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/7:8:2)
+
+
+**היה הכלי משמש לישיבה וכו'.** בתורת כהנים:
+
+
+
+## Chapter 8
+
+
+### Halakhah 1
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 8:1:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:1:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:1:1)
+
+
+**כבר ביארנו בתחילת ספר זה וכו'.** בפרק א':
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 8:1:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:1:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:1:2)
+
+
+**אבל אם הסיטה הטומאה את האדם לא נטמא.** בפרק רבי עקיבא כמו שאכתוב בסמוך:
+
+
+
+### Halakhah 3
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 8:3:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:3:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:3:1)
+
+
+**(ב-ג) אין בכל אבות הטומאות וכו'.** בר״פ ר״ע (שבת דף פ״ג ע״ב) כל הטומאות המסיטות טהורות חוץ מהיסטו של זב שלא מצינו לו חבר בכל התורה כולה. ואיתיה נמי בפרק יוצא דופן וברפ״ה דזבים המסיט את הזב או שהזב מסיטו מטמא אוכלים ומשקים וכלי שטף במגע ונתבאר גם בפ״ג דזבים ושם כתב רבינו כל זה:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 8:3:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:3:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:3:2)
+
+
+**ומ"ש ואחד זב וזבה נדה ויולדת בכל הדברים האלו.** בפ"ה דזבים.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 8:3:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:3:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:3:3)
+
+
+**ומ"ש והזב שהסיט וכו' אפילו כלי חרס טמאים וכו' חומר בהיסט הזב וכו' ואם הסיטו טימאהו.** בתורת כהנים וכלי חרס אשר יגע בו הזב ישבר יכול אפילו נגע בו הזב מאחוריו ת"ל אשר יגע בו ולהלן הוא אומר אשר תבושל בו מה בו האמור להלן מאוירו אף כאן מאוירו מאחר שלמדנו שאינו מטמא אלא מאוירו מה ת"ל אשר יגע בו מגע שהוא ככולו הוי אומר זה היסטו:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 8:3:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:3:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:3:4)
+
+
+**וכן כלי חרס שהוא נבוב וכו'.** בפ"ב דעדיות (משנה ה') לפסין אירניות שהן טהורות באהל המת וטמאות במשא הזב ופי' רבינו שהן מחבתות ועושין אותם מזדווגות וכשנשלם בישולם חולקים אותם באמצע ונעשית שתי מחבתות וכו' וקודם חילוקם וכו' מתטמאות במשא הזב ר"ל כשנשא אותם הזב ונדנד אותם ואינם מתטמאות באהל המת והטעם בזה שכלי חרס לא יטמא במת ולא בשרץ ולא בזולתם אלא מאוירו וכו' זולתי בטומאת הזב בלבד ר"ל כשנטמא במשא הזב וכו' ולשון התוספתא אין טומאה לכלי חרס אלא מאוירו ובהיסט הזב ובשביל אלה העיקרים אמרנו באלה הלפסין קודם חילוקם כיון שאין להם אויר ולא דרך פתח אלא כמו כדור נבוב שאינן מתטמאים באהל המת ומתטמאות במשא הזב עכ"ל. ובספרי רבינו כתוב כפרור והוא ט"ס וצריך להגיה ולכתוב במקומו ככדור:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 8:3:5
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:3:5](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:3:5)
+
+
+**וכן מחט שהיתה בלועה בתוך העץ וכו'.** בפ"ט דכלים מלמד שבלע את הדרבן ולבינה שבלעה את הטבעת וכו' הסיטן הזב נטמאו. ותמיה לי מאי וכן דהא קמא הוי חידושא טפי שהוא מציל באהל וזה אינו מציל:
+
+
+
+### Halakhah 4
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 8:4:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:4:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:4:1)
+
+
+**זב שהכניס ידו וכו' שאין הנדה וכיוצא בה מטמאים לאיברים.** נראה שרבינו מפרש כן מה שאמרו ריש פרק ר״ע (שבת דף פ״ב ע״ב) דנדה אינה לאיברים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 8:4:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:4:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:4:2)
+
+
+**וכתב** הראב"ד על דברי רבינו זה אינו מחוור אצלי כי מאחר שאויר מטמא במגע וכו'. ואין בזה השגה על רבינו שפירושים שונים הם ורש"י מפרש פירוש שלישי:
+
+
+
+### Halakhah 5
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 8:5:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:5:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:5:1)
+
+
+**זב שהיה קנה אחוז בתוך קומטו וכו'.** בפרק יוצא דופן (נדה דף מ״ג) אמר ריש לקיש קנה בקומטו של זב והסיט בו את הטהור טהור קנה בקומטו של טהור והסיט בו הזב טמא מ״ט דאמר קרא כל אשר יגע בו הזב וידיו לא שטף זהו היסטו של זב שלא מצינו לו טומאה בכל התורה כולה ואפקיה רחמנא בלשון נגיעה למימרא דהיסט ונגיעה כידיו מה התם מאבראי אף הכא מאבראי:
+
+
+
+### Halakhah 6
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 8:6:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:6:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:6:1)
+
+
+**הזב בכף מאזנים וכו'.** בפ"ד דזבים הזב בכף מאזנים ומשכב ומושב כנגדו כרע הזב טהורים כרעו הם טמאים ופירשו רבינו ורבינו שמשון טהורים דקתני רישא היינו טהורים מדין משכב אבל טמאים הם משום היסט ובסיפא טמאים משום משכב לפי שכבר נתלה הזב במשכב ההוא והוא אחד מחמשה דרכים שהזב מטמא את המשכב כמו שנתבאר בפרק שביעי:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 8:6:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:6:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:6:2)
+
+
+**היה בכף שנייה שאר הכלים וכו'.** שם הזב בכף מאזנים ואוכלים ומשקים בכף שנייה טמאים ופירש רבינו אין חילוק בכאן בין כרע הזב לכרעו האוכלים [טהורין שהרי אוכלים] טמאים בהיסט הזב דהיינו ראשון לטומאה ודבר ידוע דאוכלים ומשקים לאו דוקא:
+
+
+
+### Halakhah 7
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 8:7:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:7:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:7:1)
+
+
+**הזב וטהור וכו'.** בפרק ג' דזבים.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 8:7:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:7:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:7:2)
+
+
+**ומ״ש והוא האילן שאין בעובי עיקרו רובע הקב.** בפרק המקבל (בבא מציעא דף ק״ה ע״ב):
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 8:7:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:7:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:7:3)
+
+
+**ומ"ש והוא שנחבא בה ודוחק אותה תזוז בו.** שם כל שנחבאת בחזיונה ומפרש רבינו בחזיונה כשאוחז בה והיא נחבאת תוך ידו וכופף אותה היא מזזת אותו ולזה קורא כחה רע. ואף ע"פ שבמשנה שנו דעלו בסולם צורי טהור כלומר אפילו אם אינו קבוע במסמר לא חשש רבינו להזכירו משום דכי ניזיל בתר טעמא ממילא משמע:
+
+
+
+### Halakhah 8
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 8:8:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:8:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:8:1)
+
+
+**זב וטהור שהיו שניהם כאחד וכו'.** בפ"ג דזבים וכחכמים:
+
+
+
+### Halakhah 11
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 8:11:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:11:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:11:1)
+
+
+**זב שנישא מקצתו על הטהור וכו' וכן חיבורי הזב שנישאו על הטהור.** בפ"ה דזבים ופירש שם רבינו שהכוונה לומר שאין אנו צריכין שינשא רובו של זב על הטהור או רובו של טהור על הזב כי אם במשכב ומושב אבל באדם אפילו מקצת נושא או מקצת נישא טמא. ובתוספתא ואלו הן מקצתן ראשי אצבעות ידים ורגלים כלומר אפילו זה יקרא מקצת ובת"כ דריש לה מקראי.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 8:11:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:11:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/8:11:2)
+
+
+**ומ"ש ואלו הם החיבורים וכו'.** תוספתא בפרק [ה'] דזבים:
+
+
+
+## Chapter 9
+
+
+### Halakhah 1
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 9:1:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/9:1:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/9:1:1)
+
+
+**דבר שהיה מחובר בארץ וכו' עד וכן כל כיוצא באלו.** בפרק רביעי דזבים.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 9:1:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/9:1:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/9:1:2)
+
+
+**ומה שכתב זה הכלל כל שנפל מכח היסטו טמא מכח הרעדה טהור.** תוספתא בפרק [ד'] ואיתיה בפרק בכל מערבין וכתוב בספרים או הסיר והוא ט"ס וצריך לכתוב במקומו או הניד:
+
+
+
+### Halakhah 2
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 9:2:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/9:2:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/9:2:1)
+
+
+**תנור שהיתה הפת דבוקה וכו'.** תוספתא דזבים פ"ד:
+
+
+
+### Halakhah 3
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 9:3:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/9:3:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/9:3:1)
+
+
+**אין המשכב או המרכב מטמא כלים וכו'.** בפ"ה דזבים כל הנושא ונישא על גבי המשכב טהור חוץ מן האדם ותנן תו התם ככר של תרומה שהוא נתון על גבי המשכב והנייר בינתים בין מלמעלה בין מלמטה טהור.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 9:3:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/9:3:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/9:3:2)
+
+
+**ומ"ש וכן אם הסיט וכו'.** פשוט הוא דכיון דאינו מטמא במשא לא יטמא בהיסט:
+
+
+
+### Halakhah 4
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 9:4:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/9:4:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/9:4:1)
+
+
+**הזב והטהור שישבו בספינה קטנה היכולה להמיט באדם אחד או באסדא או שרכבו ע"ג בהמה.** כך היא הנוסחא הנכונה בדברי רבינו והיא משנה ברפ"ג דזבים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 9:4:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/9:4:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/9:4:2)
+
+
+**וכן נדה שישבה עם הטהורה וכו'.** ברפ"ד דזבים רבי יהושע אומר נדה שישבה עם הטהורה במטה כפה שבראשה טמאה מדרס ישבה בספינה כלים שבראש הנס שבספינה טמאים מדרס וכתב רבינו שם בפירוש המשנה הנזכר רבי יהושע חולק על סתם [המשנה] הקודמת אשר אין מטמא מדרס (אלא) כשהם יושבים בספינה או באסדא אלא בגדים שעליו שאפשר שידרוס הטמא אבל כלים שבראש הטהור אינם מדרס וכן לא ישים ת"ק כלים שבראש הנס מדרס ואין הלכה כרבי יהושע:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 9:4:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/9:4:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/9:4:3)
+
+
+**והראב"ד** כתב על דברי רבינו תמה אני איך עירב ובילבל את הדברים וכו'. ואין בזה השגה על רבינו שפירושו מחוור דרבי יהושע לאיפלוגי אתנא קמא אתא ולשון רבי יהושע אומר הכי משמע ולא מצינו בשום מקום חילוק בין זב לנדה ומאי דנקט רבי יהושע נדה איכא למימר משום דבעי למתני שישבה עם הטהורה במטה שזה שייך בנקבה טפי מבזכר. ומ"ש הראב"ד דאין כאן טומאת ספק אלא כאותה ששנינו וכו' כדאיתא בנדה י"ל דמשם נלמד דגמרא לאו כרוכלא ליזיל וליתני:
+
+
+
+### Halakhah 5
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 9:5:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/9:5:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/9:5:1)
+
+
+**הנדחק בריחיים וכו'.** תוספתא דאהלות פרק תשיעי אלא שהיא כתובה בשיבוש שכתוב בה שאין עוקרים במקום שעוקרים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 9:5:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/9:5:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/9:5:2)
+
+
+**וכתב** הראב"ד מצאתי נוסחא באי זה ריחים אמרו וכו'. ואף על פי שנוסחת תוספתא דידן שעוקרים אותה ודוחפין אותה ממקומה כבר יכול להתפרש בה פירוש רבינו:
+
+
+
+## Chapter 10
+
+
+### Halakhah 1
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 10:1:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:1:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:1:1)
+
+
+**עם הארץ אע"פ שהוא ישראל וכו'.** משנה פ"ב דחגיגה (דף י"ח ע"ב) בגדי ע"ה מדרס לפרושים.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 10:1:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:1:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:1:2)
+
+
+**ומ"ש ואם נגע בכלי חרס מאוירו טימאהו.** כלומר דאילו נגע בו מאחוריו טהור דאין כלי חרס מקבל טומאה מאחוריו אבל אם הכניס ידו באוירו אע"פ שלא נגע בו טימאהו.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 10:1:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:1:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:1:3)
+
+
+**ומ"ש ושורפין את התרומה על מגען אף על פי שטומאתן בספק.** בפרק ד' דטהרות על ששה ספיקות שורפין את התרומה וחד מינייהו על ספק בגדי עם הארץ.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 10:1:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:1:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:1:4)
+
+
+**ומה שכתב ואינם נאמנים על הטהרות.** פשוט בכמה מקומות בגמרא מהם בפרק חומר בקודש (חגיגה דף כ״ב כ״ג) ובפרק עד כמה (בכורות דף ל' ע״ב).
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 10:1:5
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:1:5](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:1:5)
+
+
+**ומ"ש ולעולם הוא בחזקה זו וכו' עד ובטהרתן.** בפ' עד כמה.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 10:1:6
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:1:6](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:1:6)
+
+
+**ומ"ש ושלא יקח מע"ה דבר לח וכו' עד ובכסותו.** בפ"ב דדמאי ואע"פ ששם שנינו שצריך שיקבל עליו שלא ימכור לע"ה לח ויבש השמיטו רבינו משום דההיא כמ"ד אסור לגרום טומאה לחולין שבא"י ורבינו סובר שאינה הלכה כמו שנתבאר בפ"ח מהלכות בכורים:
+
+
+
+### Halakhah 6
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 10:6:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:6:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:6:1)
+
+
+**(ב-ו) הבא לקבל דברי חבירות וכו' עד אין צריכין לקבל דברי חבירות כבתחילה.** פרק עד כמה (בכורות דף ל' ע״ב) והטעם שאם אמר איני מקבל אלא לטהרת ידים מקבלים מפני שאינו משייר דבר שלם שהרי מקבל עליו נט״י שהוא עיקר אכילת חולין בטהרה אבל אם קיבל לטהרות ולא לנט״י הוי כמשייר הכל כי העיקר הוא זה.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 10:6:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:6:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:6:2)
+
+
+**ומ"ש כשמקבלים אותו חוששין לו כל שלשים יום וכו'.** שם עד כמה מקבלין אותו וכו':
+
+
+
+### Halakhah 7
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 10:7:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:7:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:7:1)
+
+
+**עם הארץ שקיבל עליו דברי חבירות וכו'.** תוספתא פרק תשיעי דטהרות.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 10:7:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:7:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:7:2)
+
+
+**ומ"ש ונשאל החבר וכו'.** בסוף פרק עד כמה (בכורות דף ל' ל"א) רואה את קדשיו ומעשרותיו ונשאל על טהרותיו:
+
+
+
+### Halakhah 8
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 10:8:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:8:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:8:1)
+
+
+**חבר שנעשה גבאי וכו'.** בסוף פרק עד כמה (בכורות דף ל"א):
+
+
+
+### Halakhah 9
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 10:9:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:9:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:9:1)
+
+
+**עם הארץ שקיבל עליו וכו'.** שם וכחכמים.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 10:9:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:9:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:9:2)
+
+
+**ומה שכתב וכל החשוד לחמור וכו'.** שם במשנה ובגמרא (דף ל'):
+
+
+
+### Halakhah 10
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 10:10:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:10:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:10:1)
+
+
+**חבר שנחשד על הטהרות וכו'.** נלמד מדין מי שיצאת טריפה מתחת ידו:
+
+
+
+### Halakhah 11
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 10:11:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:11:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:11:1)
+
+
+**החשוד על השביעית וכו'.** משנה וגמרא פרק עד כמה (בכורות דף ל'):
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 10:11:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:11:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/10:11:2)
+
+
+**וכל החשוד על דבר וכו'.** פרק כל פסולי המוקדשין (בכורות דף ל״ה) במשנה פלוגתא דר״מ ורשב״ג ופסק כרשב״ג שכל מקום ששנה רשב״ג במשנתנו הלכה כמותו. והראב״ד כתב על דברי רבינו כבר כתבתי עליו במקום אחר שאין זה כלום עכ״ל. והוא בפרק י״ב מהלכות מעשר ובפרק ח' מהלכות שמיטה ובפי״א מהלכות עדות ושם הלצתי בעד רבינו:
+
+
+
+## Chapter 11
+
+
+### Halakhah 1
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 11:1:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:1:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:1:1)
+
+
+**כבר ביארנו.** בסוף פרק י"ג מהלכות פרה:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 11:1:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:1:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:1:2)
+
+
+**וכן נאמנים הם על טהרת יין ושמן.** משנה בפרק חומר בקדש (חגיגה דף כ"ד ע"ב):
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 11:1:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:1:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:1:3)
+
+
+**וכן נאמנים הם על התרומה וכו' בשעת הגיתות והבדים.** גם זה משנה שם:
+
+
+
+### Halakhah 3
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 11:3:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:3:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:3:1)
+
+
+**עם הארץ שנעל בית בדו וכו'.** נראה שזו היא ששנינו בפ"ט דטהרות הגומר את זיתיו ושייר קופה אחת יתננה לעני כהן דברי ר"מ ר"י אומר יוליך לו את המפתח מיד ר"ש אומר מעת לעת ופסק כרבי יהודה ואע"ג דבתוספתא קתני ברבי יהודה כל אותו יום לא חש לה רבינו דמשמע דמשבשתא היא דפליגא אמתניתין.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 11:3:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:3:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:3:2)
+
+
+**ומ"ש ואם לא עשה כן וכו':**
+
+
+
+### Halakhah 4
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 11:4:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:4:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:4:1)
+
+
+**הביא לו עם הארץ חבית של תרומה וכו'.** משנה פרק חומר בקדש שם:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 11:4:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:4:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:4:2)
+
+
+**אפילו בשעת הגיתות והבדים וכו'.** בפרק חומר בקדש (דף כ"ה) תנא אין נאמנין לא על הקנקנים ולא על התרומה קנקנים דמאי אי קנקנים דקדש מגו דנאמן אקדש נאמן נמי אקנקנים אלא אקנקנים דתרומה פשיטא השתא אתרומה אינו נאמן אקנקנים נאמן אלא בריקנים דקדש ובשאר ימות השנה ובמלאים דתרומה ובשעת הגיתות ורבינו משוה קנקנים ריקנים דקדש לתרומה שגם גבי תרומה כתב אין נאמנים על הכלי הריקם לומר שהוא טהור לתרומה משמע שאינו גורס במלאים דתרומה אלא בריקנים דקדש בכל השנה ודתרומה בשעת הגיתות אבל קשה לזה ששם הקשו על זה מדתנן כדי יין וכדי שמן המדומעות מאי לאו מדומעות דתרומה כלומר וקתני מתניתין דנאמנים עליה בשעת הגיתות והבדים וקודם שבעים יום ומשני במדומעות דקדש ובמטהר טבלו ליטול ממנו נסכים ומשמע דמלאים ממדומע קאמר ומקשה אמאי דאמר דמלאים דתרומה בשעת הגיתות אינו נאמן וכגירסא דספרים דידן:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 11:4:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:4:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:4:3)
+
+
+**וכתב** הר"י קורקוס ז"ל שצ"ל לדעת רבינו שהוא ז"ל מפרש דלעולם בריקנים מיירי והמקשה היה מפרש לה בריקנים שמכניסים בהם המדומע ומאן דמשני מפרש לה בריקנים לקדש דנאמן לומר שהוא טהור ויכול חבר לקחת אותו בחזקת טהור דאילו מלא בכל השנה נאמן ולמה אמרו בין הגתות וקודם שבעים יום לבד:
+
+
+
+### Halakhah 5
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 11:5:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:5:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:5:1)
+
+
+**כלי שהיה בתוכו יין וכו'.** משנה וגמרא שם ודברי רבינו כפירוש התוספות:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 11:5:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:5:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:5:2)
+
+
+**במה דברים אמורים בשאר א"י וכו'.** משנה שם (דף כ"ו) בירושלים נאמנים על הקדש ובגמרא תנא נאמנים על כלי חרש [גסין] לקדש וכ"כ למה שאין עושין כבשונות בירושלים ופירש"י על כלי חרס הגסים וכל שכן הדקים ובהדיא תניא בירושלים נאמנים על טהרת כל הכלים לקודש וכל כך למה מהדר אף על הדקים.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 11:5:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:5:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:5:3)
+
+
+**ומ"ש אף ע"פ שהמשקים שבתוכו טמאים אפי' היה בגדו שהוא מדרס וכו'.** שם וכרבי יוחנן:
+
+
+
+### Halakhah 6
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 11:6:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:6:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:6:1)
+
+
+**מן המודיעית ולפנים וכו'.** משנה בפרק חומר בקדש (דף כ"ה ע"ב) ובגמרא (דף כ"ו) תנא נאמנים בכלי חרס הדקים לקודש ופירש"י בגמרא מן המודיעים ולפנים שאין עושין כבשונות בירושלים לא לדקים ולא לגסים ומיהו בדקים הוצרך לאנשי ירושלים דכל יחיד ויחיד נסכו בביתו לכך הוסיפו להם טהרה ליחידים מגבול מודיעית אבל בעלי הלשכה המספיקים נסכים לצבור די להם בנכנסים לתוך העיר ולשם בלבד האמינום על החביות א"נ יחידים צריכין לדקים אף לבישול שלמיהם יום יום עכ"ל. ורבינו שסתם וכתב מן המודיעית ולפנים נאמנים על כלי חרס ולא חילק בין דקים לגסים יש לתמוה עליו וכבר השיגו הראב"ד וכתב א"א בגמרא מפרש שאינו נאמן אלא על כלי חרס הדקים לקודש עכ"ל. וליישב דברי רבינו אפשר שדקדק ולא כתב כל כלי חרס לומר דלא על כל כלי חרס קאמר וסתם כלי חרס הוו דקים וזה דוחק ויותר נכון לומר שטעמו משום דעל ההיא דתנא נאמנים על כלי חרס הדקים אמר ר"ל והוא שניטלים בידו אחת ור"י אמר אפילו שאין ניטלים בידו אחת ומשמע לרבינו דר"ל מפורש דדקים דוקא ור"י מפרש דלאו דוקא דהוא הדין לגסים כדקתני באידך ברייתא דבחד ברייתא אשמעינן נאמנות דדקים ובאידך ברייתא אשמעינן נאמנות דגסים והוה ליה כאילו תנא נאמנים על כלי חרס בין דקים בין גסים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 11:6:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:6:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:6:2)
+
+
+**והמודיעית עצמה פעמים כלחוץ וכו'.** שם תנא מודיעית [עצמה] פעמים כלפנים פעמים כלחוץ כיצד קדר יוצא וחבר נכנס כלפנים שניהם נכנסים או שניהם יוצאים כלחוץ. ופירש"י מודיעית הכרך עצמו. קדר יוצא מלפנים מן המודיעית ונכנס למודיעית וחבר בא מחוץ למודיעית ונכנס למודיעית. כלפנים מותר ליקח ממנו שהקדר לא יחזור עוד לאחריו ואם לא עכשיו יקח אימתי. שניהם נכנסים מחוץ למודיעית ובאו בתוך הכרך. כלחוץ אלא ימתין עד שיהא מן הכרך ולפנים וכן שניהם יוצאים הואיל ומצאו לפנים ושם לא לקח ממנו לא יקח עוד וכל שכן קדר נכנס וחבר יוצא הואיל וסוף הקדר ליכנס לפנים יחזור החבר הצריך ליקח ויקח:
+
+
+
+### Halakhah 7
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 11:7:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:7:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:7:1)
+
+
+**קדר שהביא קדירות וכו'.** משנה שם הקדר שהוא מוכר [הקדירות] נכנס לפנים מן המודיעית הוא הקדר והן הקדירות והן הלוקחין נאמן יצא אינו נאמן:
+
+
+
+### Halakhah 8
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 11:8:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:8:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:8:1)
+
+
+**הלוקח כלי חרס מן הכבשן וכו'.** בריש פ"ה דפרה איפליגו תנאי במילתא ומייתי לפלוגתא בתוספתא פ"ד דפרה ומסיים בה זו משנה ראשונה רבותינו אמרו פותח ונוטל ואינו נמנע והחבר בא אפילו לאחר שלשה ימים ונוטל ופסק כמשנה אחרונה ותמהני עליו דכיון דלא הוזכרה משנה אחרונה במתניתין משמע דס"ל לרבי דליתא למשנה אחרונה והיאך הניח דברי רבי במתניתין ותפס דברי התוספתא וכעין מה שאמרו אם רבי לא שנאה רבי חייא מנא ליה ויש לתמוה על הראב"ד שלא השיגו בזה:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 11:8:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:8:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:8:2)
+
+
+**ודע** דמתניתין הכי איתא המביא כלי חרס לחטאת טובל ולן על הכבשן וכו' ולתרומה פותח את הכבשן ונוטל רבי שמעון אומר מן הסדר השני רבי יוסי אומר מן הסדר השלישי ונראה שרבינו מפרש שדברי תנא קמא דמתניתין דאמר פותח את הכבשן ונוטל היינו דברי רבותינו דתוספתא וה"ק פותח את הכבשן ונוטל ואינו נמנע אלא שבמשנה קיצרו בלשון משום דממילא משמע ויש לדקדק בלשון התוספתא מאי והחבר בא וכו' דבכלל ואינו נמנע הוא. ונראה לי שוי"ו זו היא במקום שי"ן והכי קאמר נוטל ואינו נמנע שהחבר בא אפילו אחר שלשה ימים ונוטל:
+
+
+
+### Halakhah 9
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 11:9:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:9:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:9:1)
+
+
+**טומאת ע"ה ברגל וכו'.** בס"פ חומר בקדש (דף כ"ז) ובפרק בנות כותים:
+
+
+
+### Halakhah 10
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 11:10:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:10:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:10:1)
+
+
+**הפותח את חביתו ברגל וכו'.** משנה שם וכחכמים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 11:10:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:10:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:10:2)
+
+
+**ודע** דאמרינן בגמרא יתיב רב אמי וכו' עד שאין צריך להניחה ומשמע לכאורה דלמסקנא לרבנן מותר להניחה ורבינו לא פסק כן משום דמשמע ליה דבדרך דחייה איתמר ומה שרצה להכריע משום דרבי יהודה יגמור קאמר איכא למידחי דאורחא דמילתא נקט דכיון שיש לו רשות לגמור אין לו צורך להניחה לרגל אחר אי נמי דעדיף היתרא דיגמור דהוי בשעת איסור מלהניחה דלא הוי אלא בשעת היתר וא"נ האי דקתני לא יניחנה רבנן הוא:
+
+
+
+### Halakhah 11
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 11:11:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:11:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:11:1)
+
+
+**אחר הרגל במוצאי יום טוב וכו'.** גם זה משנה שם:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 11:11:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:11:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:11:2)
+
+
+**וכל הכלים טעונין טבילה וכו'.** משנה שם כל הכלים שהיו במקדש טעונין טבילה חוץ ממזבח הזהב ומזבח הנחושת מפני שהם כקרקע דברי רבי אליעזר וחכמים אומרים מפני שהם מצופין ובגמרא (דף כ"ז) מפני שהם מצופין אדרבא כיון דמצופין נינהו מיטמו וכו' ופסק רבינו כרבנן וכתירוצא בתרא דפשטא דמתני' הכי משמע וגם כיון דבתרא הוא הוי עיקרא ועיין במה שאכתוב בפרק רביעי מהלכות כלים:
+
+
+
+### Halakhah 12
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 11:12:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:12:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/11:12:1)
+
+
+**ע"ה שאמר טהור אני וכו':**
+
+
+
+## Chapter 12
+
+
+### Halakhah 1
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:1:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:1:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:1:1)
+
+
+**המפקיד כלים אצל ע"ה וכו'.** בפ"ח דטהרות.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:1:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:1:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:1:2)
+
+
+**ומ"ש או שנתן כלי לאומן ע"ה.** תוספתא פ"ח דטהרות המוסר כלים לאומנים ע"ה טמאים מדרס וטמא מת ומשמע ודאי דהיינו בסתמא אבל אם מכירו שהוא אוכל בתרומה טהורים מטמא מת אבל טמאים מדרס וכדתנן במתניתין גבי המפקיד כלים אצל ע"ה והתוספתא סמכה בזה על מה ששנינו במשנה גבי מפקיד דמאי שנא:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:1:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:1:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:1:3)
+
+
+**וכתב** הראב"ד הרי אלו טמאים א"א מצאתי שתי נוסחאות וכו'. ונראה מדבריו שהיה גורס בדברי רבינו במפקיד ובנותן כלי לאומן הרי אלו טמאים מדרס וטהורים מטמא מת וניחא ליה באומן דהכי מתנייא בתוספתא בגירסא הנכונה לדעת הראב"ד וקשיא ליה על אותה גירסא מדתנן גבי מפקיד טמא מדרס וטמא מת ומ"ש מאומן והשתדל למצוא טעם לחלק ביניהן כי האומן מקפיד יותר שלא יגע טמא מת בכלים שנתנו לו וסיים דבריו שעירב מפקיד עם אומן לומר שאינם טמאים מדרס טעה כלומר דבמפקיד הל"ל דטמא מת נמי הוי וכל זה בנוי על הגירסא המשובשת שנזדמנה לו בספרי רבינו והגירסא האמיתית כמ"ש בספרינו על מפקיד ונותן כלי לאומן ע"ה הרי אלו טמאים מדרס וטמא מת ואם מכירו שהוא אוכל בתרומה טהורים מטמא מת וכבר ביארתי טעמו:
+
+
+
+### Halakhah 2
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:2:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:2:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:2:1)
+
+
+**המניח כליו בפני ע"ה וכו' עד שאין לו רשות שיכנס.** תוספתא פ"ח דטהרות וגורס רבינו המניח כליו וכו' טמאים מדרס וטהורים מטמא מת:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:2:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:2:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:2:2)
+
+
+**וכתב** הר"י קורקוס ונראה שטעמו דכיון שלא הפקידן אינן ברשותו אלא לענין מדרס שבקל יהיו מדרס דמכל מקום ברשותו הם קצת כיון שא"ל שמור לי את אלו אבל לענין טומאת מת לא כי אינם ברשותו לגמרי כההיא דהמפקיד אצל ע"ה או נתן לאומן ע"ה אבל נתנם על כתפו הוי מפקיד לגמרי ונפקד גמור והוו ברשותו לכל דבר עכ"ל:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:2:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:2:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:2:3)
+
+
+**ומ"ש הניח גיתו וביתו.** ט"ס הוא וצריך להגיה ולכתוב בורו במקום ביתו:
+
+
+
+### Halakhah 3
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:3:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:3:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:3:1)
+
+
+**המוסר מפתח ביתו לע"ה וכו'.** משנה פ"ז דטהרות ואיתא בפ' בתרא דע"ז (דף ע' ע"ב):
+
+
+
+### Halakhah 4
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:4:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:4:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:4:1)
+
+
+**המניח כליו וכו'.** משנה פ"ז דטהרות המניח כליו בחלון של אורייארין ר"א בן עזריה מטהר וחכ"א עד שיתן לו מפתח או חותם או עד שיעשה לו סימן ופירש רבינו אורייארין הבלנים שבמרחצאות ויש במרחצאות חלונות ישימו כל איש לבושו בחלון מהם וידוע שהלכה כחכמים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:4:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:4:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:4:2)
+
+
+**ומ"ש אפילו מצא החותם מקולקל וכו'.** תוספתא פרק ח' דטהרות:
+
+
+
+### Halakhah 5
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:5:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:5:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:5:1)
+
+
+**המניח ע"ה בתוך ביתו וכו'.** משנה פ"ז דטהרות ופירש רבינו כבר ידעת שאוכלין ומשקין טומאתן קלה וכן כלי חרס לא יהיה אב הטומאה ולכן גזרו שיטמא כל מה שבבית מאלה המינים וכו' אמנם המשכבות והמושבות אשר הם אב הטומאה לא נדון עליהן שהם שבו אב הטומאה אלא כשאין בע"ה רואה מי שיכנס בבית ולא מי שיצא ממנו ונפרד ע"ה בשמירה וכן כלי חרס המוקפים צמיד פתיל לא יטמאו במגע אלא במשא הזב וכו' ולזה לא נדון בו בטומאה עד שיפרד ע"ה בו מבלי פחד ולא נשאר לו מי שיראהו אפילו כרות ידים ורגלים וכו' להיות הבית מגיע ברשות ע"ה שב כמו ביתו של ע"ה שהכל טמא עכ"ל:
+
+
+
+### Halakhah 6
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:6:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:6:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:6:1)
+
+
+**חבר שהיה ישן וכו' עד הרי הם טמאים.** תוספתא פ"ח דטהרות:
+
+
+
+### Halakhah 9
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:9:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:9:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:9:1)
+
+
+**המניח עם הארץ בתוך ביתו וכו'.** משנה פ"ז דטהרות.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:9:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:9:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:9:2)
+
+
+**ומ"ש הניחו ישן ומצאו ער וכו'.** שם וכחכמים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:9:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:9:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:9:3)
+
+
+**וכן המניח אומנים וכו'.** ג"ז שם וכחכמים:
+
+
+
+### Halakhah 10
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:10:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:10:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:10:1)
+
+
+**אשת חבר שהניחה וכו'.** גם זה שם וכחכמים:
+
+
+
+### Halakhah 11
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:11:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:11:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:11:1)
+
+
+**האשה שנכנסה וכו' וכן האשה שיצאה וכו'.** ג"ז שם וכחכמים:
+
+
+
+### Halakhah 12
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:12:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:12:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:12:1)
+
+
+**גבאי מלכות שנכנסו.** ג"ז שם והובאה בפרק חומר בקדש (דף כ"ו) וגירסת רבינו הגבאים שנכנסו לתוך הבית הבית טמא אם יש עמהם עכו"ם נאמנים לומר לא נגענו וכתב רבינו סבת זה מה שזכרו בתוספתא מפני שאימת עכו"ם עליהם.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:12:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:12:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:12:2)
+
+
+**ומ"ש בד"א בזמן שיש שם עדים וכו'.** פשוט דארישא קאי והוא בתוספתא דטהרות פ"ח וקתני התם אם יש עכו"ם עמהם אע"פ שהמשכון בידם אע"פ שהעכו"ם מעיד בהם שנכנסו ואמרו לא נגענו הרי אלו נאמנים מפני שאימת עכו"ם עליהם:
+
+
+
+### Halakhah 13
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:13:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:13:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:13:1)
+
+
+**הגנבים שנכנסו וכו'.** משנה פ"ז דטהרות:
+
+
+
+### Halakhah 14
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:14:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:14:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:14:1)
+
+
+**הגבאים והגנבים שעשו תשובה וכו'.** בפ' חומר בקדש שם משנה וגמרא גבי גנבים וכתב רבינו דה"ה לגבאי מלכות אם עשו תשובה:
+
+
+
+### Halakhah 15
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:15:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:15:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:15:1)
+
+
+**המניח את ביתו פתוח וכו'.** בפרק ח' דטהרות.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:15:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:15:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:15:2)
+
+
+**ומ"ש אפילו הניחו נעול ומצאו פתוח וכו'.** שם וכחכמים:
+
+
+
+### Halakhah 16
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:16:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:16:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:16:1)
+
+
+**קורדום שאבד בבית וכו'.** פ"ק דפסחים עלה י' וכרבנן:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:16:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:16:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:16:2)
+
+
+**כתב** רבינו שנשאל אמאי הכא תלינן באדם טמא ומטמאינן לכל טהרות שבבית מספק מ"ש מהא דאמרינן בפ"ק דנדה (דף ד') גבי ככר של תרומה שנתונה ע"ג הדף ומדף טמא נתון תחתיה אע"פ שאם נפלה א"א [לה שתפול] אא"כ נגעה [בדף ובא ומצאה במקום אחר] טהורה וכו' עד שיאמר ברור לי שלא נכנס אדם לשם א"ר אילעאי לא נצרכה אלא למקום מדרון [וכן הקשו תוספות פסחים (י':) ד"ה שאני יע"ש] והשיב גבי קרדום אמרינן אדם נכנס שם ונטל הקרדום ועשה בו צרכיו והחזירו לזוית אחרת והרי זה בחזקת רשע ששואל שלא מדעת גזלן הוא והרשע פחות מעם הארץ שהוא בחזקת טמא אבל בככר אין לומר כן שאין אדם שואל ככר להחזירו בעצמו שאין בדבר תועלת שהרי אינו כלי שיעשה בו מלאכה ואילו נכנס לבית זה אדם רשע היה נוטלו והולך לו ולפיכך אנו אומרים לא נכנס כאן אלא חבר שחזקתו טהור:
+
+
+
+### Halakhah 17
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:17:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:17:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:17:1)
+
+
+**הדר עם עם הארץ בחצר וכו'.** משנה רפ"ה דטהרות וכרבי יוסי:
+
+
+
+### Halakhah 18
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:18:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:18:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:18:1)
+
+
+**חבר שהיתה לו מחיצה וכו'.** תוספתא רפ"ט דטהרות:
+
+
+
+### Halakhah 19
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:19:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:19:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:19:1)
+
+
+**חבר שהיה גגו למעלה.** תוספתא פרק ח' דטהרות וכת"ק.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:19:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:19:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:19:2)
+
+
+**ומ"ש ולא משום יין נסך.** הכי משמע בפרק בתרא דע"ז (עלה ע'):
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:19:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:19:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:19:3)
+
+
+**היו הגגות זה בצד זה וכו'.** תוספתא פ"ט דטהרות וטעמא משום דכיון שהם זה בצד זה הרי הם כחצר אחד שפושט ידו ואין מכלים דבר ומינה נשמע דהוא הדין לגגו של עם הארץ למעלה דחיישינן שמא יפשוט ידו ויגע שיטען שנפל איזה דבר מגגו לשל חבר ולכך פושט ידו לבקשו משא"כ כשגגו של חבר למעלה שאין לעם הארץ שום טענה לפשוט ידו שם משום הכי לא חיישינן זהו יישוב דברי רבינו אבל קשה דבפרק בתרא דע"ז (דף ע' ע"ב) גרסינן וגגו של חבר בצד גגו של עם הארץ אותו חבר שוטח שם פירות ומניח שם כלים ואע"פ שידו של עם הארץ מגעת לשם ורב ור"י איפליגו התם בחצר החלוקה במסיפס דבסמוך ור"י סבר שאע"פ שידו של עם הארץ מגעת לשם ומדמה לה להא דגגו של חבר בצד גגו של עם הארץ אע"פ שידו של עם הארץ מגעת לשם טהורות הטהרות וי"ל דההיא דאותו חבר שוטח שם פירות וכו' היא סברת רשב"ג בתוספתא דפליג את"ק ומותיב מינה לר"י לאוקומי לר"י ככ"ע אבל לענין הלכה נקטינן כתנא קמא:
+
+
+
+### Halakhah 20
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:20:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:20:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:20:1)
+
+
+**שתי חצירות וכו'.** בפירקא בתרא דע"ז שם:
+
+
+
+### Halakhah 21
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:21:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:21:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:21:1)
+
+
+**חצר החלוקה במסיפס וכו'.** כך היא הגירסא הנכונה ובספרים כתוב החלוקה בספינה וט"ס הוא. וכבר כתבתי בסמוך דבפ' בתרא דע"ז איפליגו רב ור"י במילתא ופסק כר"י ופירוש מסיפס מחיצה נמוכה:
+
+
+
+### Halakhah 22
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:22:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:22:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:22:1)
+
+
+**חבר שנפל דליו וכו'.** משנה פ"ח דטהרות וכתב רבינו ולא יסתפק עליך אמרו בדלי טמא אע"פ שהוא בתוך הבור לפי שהוא מעת שהגיע ברשות ע"ה שב טמא מת והטעם שלא חילקו חכמים בכלים שברשות עם הארץ:
+
+
+
+### Halakhah 23
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:23:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:23:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:23:1)
+
+
+**אשת עם הארץ שנכנסה וכו'.** משנה פרק ח' דטהרות שם וכתב רבינו אם נכנסה שלא ברשות אלא להוציא ענין פלוני ותצא הנה לא הורשת להשתמש ולגעת לאשר בבית כי אימת בעל הבית עליה ולא תשלח ידה לדבר:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:23:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:23:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:23:2)
+
+
+**קדר חבר שהכניס קדירותיו.** משנה ריש פרק ז' דטהרות וכתנא קמא:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:23:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:23:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:23:3)
+
+
+**ומה שכתב במה דברים אמורים בשהניחן סמוך לר"ה וכו'.** בפ"ב דכתובות (דף כ"ד ע"ב). וכתב הראב"ד מוכיחין שהונחו למכור א"א אין זה הטעם יפה וכו'. ואיני יודע מה ראה הראב"ד בטעם זה לטעון עליו שהרי הכל יודעים שהביא למכור וכי כל המביאים קדרות מביאים למכור והלא כבר אפשר שמביאם לעצמו או לחבירו שצוה להביאם לו ומה שנתן טעם הראב"ד בשכלי אומנותו בידו הכל באים לראות האומניות ועל ידי כן ממשמשין בקדירות איני יודע מה חידוש יש בכלי אומנות כלי חרס עד שיבאו הכל לראותם. ורש"י פירש כמו שפירש רבינו:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 12:23:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:23:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/12:23:4)
+
+
+**חבר שהניח וכו'.** תוספתא דטהרות פ"ט:
+
+
+
+## Chapter 13
+
+
+### Halakhah 1
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 13:1:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:1:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:1:1)
+
+
+**כהן שטיהר כליו וכו'.** בפרק ז' דטהרות המניח כליו מגת זו לגת הבאה כליו טהורים ובישראל עד שיאמר בלבי היה לשמרם:
+
+
+
+### Halakhah 2
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 13:2:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:2:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:2:1)
+
+
+**הרוצה לעשות יינו בטהרה וכו' וצריך לעמוד על האומנים וכו'.** בפ"י דטהרות וכרבי יוסי:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 13:2:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:2:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:2:2)
+
+
+**יצאו חוץ לפתח בית הבד וכו'.** ג"ז שם:
+
+
+
+### Halakhah 3
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 13:3:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:3:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:3:1)
+
+
+**הבדדין והבוצרים וכו'.** שם:
+
+
+
+### Halakhah 4
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 13:4:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:4:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:4:1)
+
+
+**המטהר את הבדדין וכו'.** שם וכרבי יוסי:
+
+
+
+### Halakhah 5
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 13:5:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:5:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:5:1)
+
+
+**היו חמריו וכו'.** ברייתא בסוף פרק ב' דחגיגה (דף כ' ע"ב) ומקשה בגמרא מאי שנא רישא ומ"ש סיפא ואסקה רבי יצחק נפחא רישא בבא להם דרך עקלתון ומשמע דה"ק הב"ע בשבעל הבית יכול לבא להם דרך עקלתון פתאום דמרתתי ואמרי השתא אתי. ויש לתמוה על רבינו למה השמיט מלהזכיר דרישא מיירי דוקא בשיכול לבא להם דרך עקלתון וצ"ל שבכלל מ"ש והם מפחדים ליגע ואומרים עכשיו יבא שהרי הוא יבא אחרינו היא דבא להם דרך עקלתון דאמר רבי יצחק נפחא לאו למימרא דבא דרך עקלתון דוקא בעינן שכל שהוא בא אחריהם הוי כבא להם דרך עקלתון שהרי הוא רואה והם אינם רואין אותו:
+
+
+
+### Halakhah 6
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 13:6:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:6:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:6:1)
+
+
+**חבר שהיה לבוש בחלוק וכו'.** תוספתא בפרק שמיני דטהרות שם:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 13:6:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:6:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:6:2)
+
+
+**היה סל על כתיפו וכו'.** שם (דף כ') ובפרק שני דחגיגה בגמרא היה סל על כתיפו ומגריפה בתוך הסל [ואמר] היה בלבי על הסל ולא היה בלבי על המגריפה הכל טהור ומגריפה טמאה וכו'. ולטמא מגריפה לסל אין כלי מטמא כלי ולטמא מה שבסל וכו' באומר שמרתיה מדבר המטמאה ולא מדבר הפוסלה ופירש"י הסל של תאנים על כתיפו ומגריפה הוא כלי ברזל וכו' שבו מבדילים תאנים המדובקות זו בזו. המטמאה הנותן לה טומאה לטמא אחרים. הפוסלה מלהשתמש בה טהרות לכתחילה אי נמי נ"מ לאוכל הדבוק בה שהוא פסול באכילה ומכל מקום אם נגעה בטהרות אינה מטמאתן. וקשה שדברי רבינו הם בהיפך שבגמרא משמע שמה שבסל טהור ורבינו כתב שהוא פסול וליישב נראה לומר דרבינו קשיא ליה דאי כדפירש"י קשה דלא הוה ליה למיתני מגריפה טמאה אלא מגריפה פסולה ותו איכא למידק מאי האי דפריך וליטמא מה שבסל מאן א"ל דלא ליטמא דהא בברייתא לא אידכר אלא דינא דסל ומגריפה ועוד מאן א"ל דאיכא תאנים בסל דילמא בסל ריקם מיירי לכך סובר רבינו דכיון דמגריפה להפריד תאנים המדובקים היא עשויה אין לה ענין עם הסל אלא א"כ יש בו תאנים ומש"ה פריך וליטמא מה שבסל וליתני הסל טהור ומה שבתוכו והמגריפה טמאים ומשני דלא מצי תני הכי משום דמה שבסל אינו טמא אלא פסול דהב"ע באומר שמרתיה מדבר המטמאה כלומר הנותן לה כח טומאה שהאוכל שיגע בה יהיה טמא ויפסול את אחרים ולא מדבר הפוסלה כלומר מדבר שאינו מטמאה אלא לעשות האוכל שיגע בה פסול ולא יטמא האוכל ההוא את אחרים והשתא אתי שפיר דלא תני בברייתא דינא דמה שבתוך הסל דמאחר דקתני הסל טהור ומגריפה טמאה ממילא משמע שמה שבתוך הסל אינו לא טמא ולא טהור אלא פסול והשתא אתי שפיר דקאמר מגריפה טמא וסלקי דברי רבינו כהוגן. ודע שיש בספרי רבינו טעות סופר וכך היא הגירסא הנכונה והמגריפה טמאה וכל תרומה שבסל פסולה והוכרח רבינו לאוקומה בתרומה משום דאילו בחולין אין שני עושה שלישי:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 13:6:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:6:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:6:3)
+
+
+**היה משתמש מן החבית בטהרה וכו'.** תוספתא בפרק שמיני דטהרות.
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 13:6:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:6:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:6:4)
+
+
+**ומה שכתב ואם אמר בלבי היה לשומרה וכו'.** כך יש ללמוד ממה ששנינו בברייתא פרק אין דורשין (חגיגה דף כ') גבי היה משמר החבית בחזקת יין ונמצא שמן:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 13:6:5
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:6:5](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:6:5)
+
+
+**נתחלפו לו כלים וכו'.** בספ"ג דחגיגה שם:
+
+
+
+### Halakhah 7
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 13:7:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:7:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:7:1)
+
+
+**חבר שמת וכו'.** תופסתא בפרק ט' דטהרות וכתב רבינו שמשון בפרק ח' דכלים דכיון דאפשר לתקן בטבילה לא חשו אם החמירו בהם ואפילו בכלי חרס דלא פלוג בכלים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 13:7:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:7:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:7:2)
+
+
+**וכתב** הראב"ד כל זה אינו אלא לקודש או לתרומה אבל לחולין לא מחזקינן טומאה ואם כתב כן להשיג על רבינו שסתם ולא חילק כבר נודע שדרך רבינו לכתוב המשנה או התוספתא כצורתה. ועוד שאין דבריו מוכרחים שכבר אפשר דאף לחולין חששו:
+
+
+
+### Halakhah 8
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 13:8:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:8:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:8:1)
+
+
+**מי שאמר לו עד אחד נטמאו טהרותיך וכו'.** בפרק שלישי דקידושין (דף ס"ה ע"ב):
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 13:8:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:8:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:8:2)
+
+
+**היה עושה עמו בטהרות או בזבחים וכו'.** פרק הניזקין (גיטין דף נ"ד:) וכאוקימתא דרבא ובסוף הלכות פסולי המוקדשין הארכתי בביאור דעת רבינו:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 13:8:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:8:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:8:3)
+
+
+**וכתב** הראב"ד נראה לי שאם היה עושה בשכר אפילו אחר כמה ימים נאמן וכו'. ואין בזה השגה על רבינו שלא ביאר שכבר נודע שדרכו להעתיק הגמרא כצורתה ודין הס"ת כבר כתבו במקומו וממילא ילמוד אדם משם לכאן:
+
+
+###### Kessef Mishneh on Mishneh Torah, Those Who Defile Bed or Seat 13:8:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:8:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Those%20Who%20Defile%20Bed%20or%20Seat/r/13:8:4)
+
+
+**סליקו הלכות מטמאי משכב ומושב**
+

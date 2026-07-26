@@ -1,0 +1,637 @@
+# Kessef Mishneh on Mishneh Torah, Foundations of the Torah
+
+כסף משנה על משנה תורה, הלכות יסודי התורה
+
+Link: [https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah)
+
+חיבור הלכתי פורץ-דרך וחדשני מבחינת היקפו ואופן סידור הדינים שבו. נכתב על ידי הרמב"ם במאה ה-12.
+
+Legal code written by Maimonides in the 12th century, groundbreaking in its organization and scope.
+
+Sections: Chapter-Halakhah-Comment
+
+Location: Halakhah/Mishneh Torah/Commentary/Kessef Mishneh/Sefer Madda
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Torat Emet 363 (Segments: 63, License: Public Domain)
+
+Version (En): Sefaria Community Translation (Segments: 1)
+
+
+## Chapter 1
+
+
+### Halakhah 1
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 1:1:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/1:1:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/1:1:1)
+
+
+**יסוד היסודות ועמוד החכמות לידע שיש שם מצוי ראשון.** מלת שם שכתב כאן רבינו אינו מורה על מקום שהוא יתעלה אין לו מקום אבל מלת שם פה היא כפ"א רפה בלשון ישמעאל. ודומה לזה מ"ש בפרק ג' מהלכות תשובה. שלשה הם הנקראים אפיקורוסים האומר שאין שם נבואה כלל ואין שם מדע. ובפרק ה' מהלכות תעניות יש שם ימים וכו'. ועוד יש לפרש פה מלת שם לומר שהוא יתעלה נמצא בכל מקום כדכתיב מלא כל הארץ כבודו:
+
+
+
+### Halakhah 10
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 1:10:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/1:10:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/1:10:1)
+
+
+**בקש לדעת אמתת המצאו וכו'.** כתב הראב"ד א"א אין דעתי מיושבת על זה שהרי ראה בסיני בארבעים יום של לוחות מה שלא ראה נביא מעולם עד שקנאו המלאכים בו ובקשו לדוחפו עד שאחז בכסא ומה הוצרך עוד. ועוד אם זאת היתה בקשתו מה צריך היה בתשובה לומר וחנותי את אשר אחון. ולכן נ"ל לפי שהקב"ה אמר לו לא אעלה בקרבך וכו' ובקש משה שישוב וא"ל הודיעני נא את דרכיך וא"ל פני ילכו וגו' ומשה אמר אם אין פניך הולכים וגו' אל תאמר כשנכנס לארץ אז תלך עמנו כי לא נזוז מכאן עד שתלך עמנו וא"ל הקב"ה גם את הדבר הזה אעשה ויאמר הראני את כבודך כלומר אני רוצה לראות ויאמר אני אעביר כל טובי על פניך וכו' ואודיעך בעברי, והעם אשר הכעיס אותי יהיה מי שאחון עליו ולא על כלם. ופנים ואחור סוד גדול הוא ואין ראוי לגלותו לכל אדם ואולי בעל הדברים הזה לא ידעהו עכ"ל. וי"ל שמה שקנאו בו הוא מפני שהיה רוצה להוריד את התורה לארץ ולכן הוצרך לאחוז בכסא להשיב להם תשובה ואין משם הכרח שהשיג אז ההשגה הגדולה הזאת. ומ"ש ועוד אם זאת היתה בקשתו מה צורך היה בתשובה לומר וחנותי את אשר אחון י"ל שלדעת רבינו יתפרש דהכי נאמר ליה. השגה זו שאתה שואל אין כח בבן אדם להשיגה אלא בתורת מתנת חנם אתן לך ושתשיג מה שלא ידע איש לפניך ולא ידע לאחריך:
+
+
+He wished to know G-d’s true existence - the Ra’avad wrote: “this does not sit well in my mind, because A. Moses indeed witnessed on Mount Sinai, (during the forty days of leading up to his receiving the tablets), things which no prophet has ever seen, and even the angels were jealous of him, (to the point where they wished to push him away, causing him to hold on to the heavenly throne!)and B. if this is what he was requesting, then why did G-d need to mention in his response: “And I shall show favor to whom I wish to show favor etc.”? It therefore appears to me, that being that G-d had previously stated: “I shall no longer travel in your midst!” to which Moses responded: “If your countenance does not accompany us etc.”, to which G-d consented and responded: “This too I shall fulfill”, however regarding the people who angered me - “I shall [only] show favor to whom I choose to show favor” - and not [necessarily] to everyone”. Now in response to the Ra’avad’s first argument: The fact that the angels became jealous of Moses, is because he wished to bring the Torah down to this world, (and he therefore needed to hold on to the heavenly throne, so that he would have the power to respond), and that was the cause of their jealousy - not because he was able to grasp what they could not. And in response to the second argument , which was based on the context of G-d’s response to Moses, it would seem that according to the Rambam, it can be explained that what G-d was telling Moses was that this knowledge which he wishes to grasp, is not within the power of a human being to understand, rather I will grant it to you as a unconditional gift…
+
+
+
+## Chapter 2
+
+
+### Halakhah 12
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 2:12:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/2:12:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/2:12:1)
+
+
+**צוו חכמים הראשונים שלא לדרוש ברבים בדברים אלו אלא לאיש אחד בלבד וכו'.** ריש פרק אין דורשין:
+
+
+
+## Chapter 4
+
+
+### Halakhah 13
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 4:13:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/4:13:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/4:13:1)
+
+
+**ואף על פי שדברים אלו דבר קטן קראו אותן חכמים שהרי אמרו דבר גדול מעשה מרכבה דבר קטן הוויות דאביי ורבא אעפ"כ ראוי להקדימם וכו'.** בסוכה סוף פ' הישן אמרו על ריב"ז שלא הניח מקרא ומשנה וכו' דבר גדול ודבר קטן דבר גדול מעשה מרכבה דבר קטן הוויות דאביי ורבא:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 4:13:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/4:13:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/4:13:2)
+
+
+**וכתב** הר"ן דבר קטן הוויות דאביי ורבא פי' משום דמעיקרא אמר שלא הניח מקרא ומשנה וכו' קרי להוויות דאביי ורבא דבר קטן. לפי שאין ספק שהתנאים הראשונים היו יודעים המשנה על בוריה הוויות דהוו בתר הכי אביי ורבא לדבר קטן חשבינן להו, והרמב"ם כתב מה שרצה והלואי שלא נכתב. וכן פירש הריטב"א וסיים אבל דבר גדול הוא מכל חכמות העולם. וזה הפירוש אמת הוא ולא כמו שפירשו אחרים והאלהים יכפר בעד עכ"ל:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 4:13:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/4:13:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/4:13:3)
+
+
+**ובשם** הרב אליהו מזרחי ז"ל מצאתי כתוב וז"ל מן המבואר ששם גדול נאמר על שני פנים. אם בכמות. אם באיכות. ושהגדול באיכות יחלק עוד לשנים. האחד מהם על גודל הדרוש ומעלתו. וזה עוד יחלק לשני פנים אם מצד גודל נושא הדרוש ואם מצד עומק מושגו. והשני על גודל שכרו. ומעתה אין טענה משם גדול הנאמר על מעשה מרכבה. כי מעשה מרכבה אם נקרא גדול מהחכמה התלמודית הנה הוא גדול מצד גודל הדרוש ומעלתו בשני האופנים יחד שהם גודל נושא הדרוש ועומק מושגו. ואולם החכמה התלמודית אע"פ שאינה חוקרת על נושא גדול כגודל חכמת מעשה מרכבה שהרי הדרוש של מעשה מרכבה הוא הבורא יתעלה בין לדעת חכמי הקבלה בין לדעת חכמי המחקר ונושא החכמה התלמודית הם מעשה מצותיו יתברך. מ"מ כאשר לא יודע הענין בה מצד גודל נושא הדרוש וקשיו רק מצד גודל השכר ומיעוטו הנה בלי ספק שהחכמה התלמודית היא השורש והעיקר אשר בה נזכה לחיי העוה"ב משאר מיני החכמות והיא החכמה היותר גדולה מזה הצד מכל מה שזולתה והביא ראיות על זה:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 4:13:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/4:13:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/4:13:4)
+
+
+**ואני** אומר שע"פ דרך זה יתבאר הא דתנן ר"א (בן) חסמא אומר קינין ופתחי נדה הן גופי הלכות וכו' לומר שאע"פ שתקופות וגימטריאות עסקם בדברים מעולים שהם הגרמים השמימיים וקינים הם דבר קל הערך. ופתחי נדה נושאם דבר מכוער. אעפ"כ אלו הן גופי הלכות כלומר עיקרי תורה מצד השכר הגדול הצפון לעוסקים בהם. ותקופות וגימטריאות אע"פ שנושאם דברים מעולים מאד אינם עיקרים אלא כמו פרפראות לחכמה התלמודית שהיא ראויה להקרא חכמה סתם להיות עסקה בפירוש מצותיו יתברך ולגודל השכר הניתן לעוסקים בה ומקיימין מצותיה:
+
+
+
+## Chapter 5
+
+
+### Halakhah 1
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 5:1:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:1:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:1:1)
+
+
+**כל בית ישראל מצווין על קידוש השם וכו' עד בין נאנס בתוך עשרה בין נאנס בינו לבין העובדי כוכבים.** הכל בסנהדרין (דף ע"ד) א"ר יוחנן משום ר' שמעון בר יהוצדק נמנו וגמרו בעליית בית נתזא בלוד כל עבירות שבתורה אם אומרים לאדם עבור ואל תהרג יעבור ואל יהרג חוץ מעבודת כוכבים גילוי עריות ושפיכות דמים. כי אתא רב דימי אמר ר' יוחנן לא שנו אלא שלא בשעת ההמרה אבל בשעת ההמרה אפילו מצוה קלה יהרג ואל יעבור. כי אתא רבין אמר ר' יוחנן אפי' שלא בשעת ההמרה לא אמרו אלא בצנעה אבל בפרהסיא אפי' מצוה קלה יהרג ואל יעבור. אמר רב יעקב אמר ר' יוחנן אין בפרהסיא פחות מעשרה בני אדם ואמרו שם דבעינן שיהיו ישראל שנאמר ונקדשתי בתוך בני ישראל. והקשו שם והא אסתר בפרהסיא הואי כלומר ונבעלה לאחשורוש ולא מסרה נפשה. אמר אביי אסתר קרקע עולם היתה כלומר היא אינה עושה מעשה הוא עושה בה מעשה. רבא אמר הנאת עצמן שאני ואזדא לטעמיה דאמר רבא עובד כוכבים דאמר לישראל קטול אספסתא פי' קצור עשב בשבתא ושדי לחיותא ואי לא קטילנא לך, לקטול ולא לקטליה. שדי לנהרא לקטליה ולא לקטול מ"ט לעבורי מילתא הוא דבעי. ופסק רבינו כרבא ונראה דסבירא ליה כהרמב"ן דעובד כוכבים הבא על בת ישראל לאו בכלל ג"ע הוא דא"כ לרבא דאמר הנאת עצמן שאני כלומר אפילו עבדה מעשה הא אמרינן דבשלש עבירות יהרג ואל יעבור אפילו מתכוין להנאת עצמו. והיינו טעמא דלא הוי בכלל ג"ע דאי בזנות גזירת בית דין של שם הוא ואי דרך חתנות מלא תתחתן בם נפקא דמשאר עבירות הוא ולית ליה דרשה דאל תקרי לבת לומר דהיתה אשת איש. ואפשר שלזה כיון רש"י שכתב על מה שהקשו והא אסתר פרהסיא הואי ונבעלה לעובד כוכבים ולא מסרה נפשה. נשמר דלא נימא דפריך דאשת איש הואי ולא מסרה נפשה דא"כ לא הוה מתרץ רבא מידי דכיון דג"ע היא אפי' מתכוין להנאת עצמו יהרג ואל יעבור. ועל מה שכתב הגמרא אפי' מצוה קלה יהרג ואל יעבור שאלו מאי מצוה קלה אמר רבא ב"ר יצחק אמר רב אפילו לשנויי ערקתא דמסאנא ופירש"י שרוך הנעל שאם דרך העובדי כוכבים לקשור כך ודרך ישראל בענין אחר כגון שיש צד יהדות בדבר ודרך ישראל להיות צנועים אפי' שינוי שאין בו מצוה אלא מנהג בעלמא. והתימא על רבינו שכתב אפי' על מצוה משאר מצות דמשמע דדוקא מצוה אבל לא מנהג. ואפשר שרבינו היה מפרש ערקתא דמסאנא כמו שפי' הרי"ף שהיו רצועות ישראל משונות כדי שלא ילבשו מלבוש כותי שזו מל"ת היא כמ"ש בפי"א מהלכות עובדי כוכבים שאין מתדמין לעובדי כוכבים לא במלבוש ולא בשיער שנאמר ולא תלכו בחוקות וגו' וכתוב בנימוקי יוסף דהא דאמרינן עובד כוכבים הבא על בת ישראל לא הוי בכלל ג"ע דוקא הוא אבל ישראל הבא [על] העובדת כוכבים בכלל עריות חמורות היא דהא זמנין דמיחייב מיתה עלה דקנאים פוגעים בו ואם לא פגעו בו קנאים חייב כרת. וכתב עוד שכל דבר שבידם להעבירו בעל כרחו אין לנו למסור נפשנו למיתה בשב ואל תעשה וכדאשכחן באסתר דקרקע עולם היתה ואפי' בשעת ההמרה כדאשכחן באלישע בעל כנפים שנטל תפילין מראשו כשראה קסדור. וכתב הר"ן בפ' במה טומנין דלא אמרו יהרג ואל יעבור אלא לעבור על מצות ל"ת אבל לא דגזרו לבטל מצות עשה כיון שאינו עובר בידים ועוד שהם יכולים לבטלה ממנו על כרחו שיניחוהו בבית האסורין ותבטל מאליה עכ"ל. וקשיא לי שהרי רב חנינא בן תרדיון מסר נפשו כדי לעסוק בתורה וכן ר' יהודה בן בבא כדי לסמוך זקנים ובמדרש מה לך יוצא ליסקל על שנטלתי לולב מה לך יוצא ליצלב על שמלתי את בני ואין לומר מדת חסידות שנו כאן אלא משמע שעל פי הדין היו עושים כן וההיא דאלישע בעל כנפים לא מכרעא דכבר קיים באותו היום מצות תפילין וגם לא אמר לקסדור שמקיים גזירתם שלא להניח תפילין אבל השיב למה ששאלו מה זה בידך ואמר כנפי יונה:
+
+
+
+### Halakhah 4
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 5:4:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:4:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:4:1)
+
+
+**כל מי שנאמר בו יעבור ואל יהרג ונהרג ולא עבר הרי זה מתחייב בנפשו.** סובר רבינו שכשאמרו בגמרא יעבור ואל יהרג פירוש צריך לעבור כדי שלא יהרג. אבל שלמים וכן רבים סוברים דאם נהרג ולא עבר צדקה תחשב לו. ונראה שמפרשים יעבור ואל יהרג הרשות בידו לעבור כדי שלא יהרג. וכתב בנימוקי יוסף דאפילו לפי סברת רבינו אם הוא אדם גדול וחסיד ירא שמים ורואה שהדור פרוץ בכך רשאי לקדש את השם ולמסור עצמו אפילו על מצוה קלה כדי שיראו העם ולמדו ליראה את השם ולאהבו בכל לבם:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 5:4:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:4:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:4:2)
+
+
+**ואעפ"כ מפני שעבר באונס אין מלקין אותו וכו'.** כ"כ ג"כ התוס' בר"פ הבא על יבמתו (יבמות נ"ד) והביאו ראיה דקאמר בפ' רבי ישמעאל (ע"ז נ"ד) דנעבד באונס אסור וכו'. ודע דהא דאמרן שמפני שעבר באונס אין מלקין אותו ואין ממיתין אותו היינו בשאר עבירות חוץ ממי שאנסוהו לבא על הערוה מפני שאין קישוי אלא לדעת כמבואר בדברי רבינו פ"א מהלכות איסורי ביאה:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 5:4:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:4:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:4:3)
+
+
+**כתב** הרמ"ך מכיון שעבר באונס אין מלקין אותו ואין ממיתין וכו'. תמיהא לי דתנן ריש פרק ארבע מיתות דפוער עצמו לבעל פעור זו היא עבודתו ומפרש בגמ' אע"ג דמכוין לבזוייה וההוא ודאי מוטעה הוא אע"פ שקיבל עליו התראה דסבור דהתראתם בטל ואפ"ה חייב וה"נ אם עבד כוכבים באונס והתרו בו חייב מיתה, עכ"ל. ואין תלונתו על רבינו אלא על חז"ל שדרשו ההוא ולא אנוס. ומ"ש שאם עבד כוכבים באונס והתרו בו חייב מיתה דברים תמוהים הם שהם שני הפכים בנושא אחד שאם קיבל עליו התראה הרי זה מרוצה ולא אנוס ואם אומר שאעפ"כ הוא רוצה לעבדה מפני שאונסים אותו ה"ז אנוס לא מרוצה. ולענין מה שהקשה מפוער עצמו לבעל פעור לאו קושיא היא שרבינו מפרש דלאו לענין חיוב סקילה אמרינן דזו היא עבודתה אלא לענין חיוב חטאת וכך מבואר בדברי רבינו פרק ג' מהלכות עבודת כוכבים שכתב וז"ל העובד כוכבים כדרכה ואפילו עשה דרך בזיון חייב כיצד הפוער עצמו לפעור כדי לבזותו או זרק אבן למרקוליס כדי לבזותו הואיל ועבודתו בכך חייב ומביא קרבן על שגגתו, עכ"ל:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 5:4:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:4:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:4:4)
+
+
+**ומה אם עבודת כוכבים שחמורה מן הכל וכו' אין חייב כרת ואין צריך לומר מיתת בית דין.** כתב הרמ"ך נראה כי זה ק"ו פריכא הוא דכרת לא מיחייב דרחמנא לבא בעי ואי לא מקבלה עליה באלוה לאו כלום הוא אבל מיתת ב"ד שהיא בעדים והתראה כיון שעבר אחר שהתרו בו חייב כדאמרינן הפוער עצמו לפעור זהו עבודתו ואע"ג דמכוין לבזוייה, עכ"ל. ואיני רואה טעם בדברים אלו דכיון שאינו עובד אלא באונס מה התראה שייך בזה וכמו שכתבתי בסמוך:
+
+
+
+### Halakhah 5
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 5:5:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:5:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:5:1)
+
+
+**נשים שאמרו להם וכו'.** משנה פ"ח דתרומות כלשון רבינו. כתב הרשב"א בתשובה בסיעה של נשים עוברת ואמרו להם עובדי כוכבים תנו לנו אחת מכם ונטמאה ואם לאו הרי אנו מטמאים את כלכן אפילו היתה אחת מהן מחוללת יטמאו את כולן ואל ימסרו אותה להם. ולא דמי למה שאמרו שם שאם היתה ככר של תרומה טמאה ימסרו אותה ולא יטמאו את כל הככרות של תרומה דככר תרומה טמאה שאני דטמא הוא לגמרי ומה יוסיף עוד זה אבל אשה אם חללה עצמה פעם אחת ונטמאת בעבירה כל שתעבור ותטמא את עצמה תוסיף על חטאתה פשע ובפעם הזאת אין בינה לבין הטהורה והכשרה שבהן ולא כלום ולמה יאנסוה למסרה להם שלא מדעתה ועוד שמא כבר הרהרה תשובה ושבה מדרכה הרעה:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 5:5:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:5:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:5:2)
+
+
+**וכן אם אמרו להם וכו'.** בירושלמי על אותה משנה דבסמוך תניא סיעת בני אדם המהלכים בדרך ופגעו בהם עובדי כוכבים ואמרו להם תנו לנו אחד מהם ונהרוג אותו ואם לאו נהרוג כולכם אפילו כלם נהרגים לא ימסרו נפש אחת מישראל יחדו להם אחד כגון שבע בן בכרי ימסרו אותו להם ולא יהרגו אמר ר"ל והוא שיהיה חייב מיתה כשבע בן בכרי ור' יוחנן אמר אפילו שאינו חייב מיתה ומייתי התם עובדא בהאי בר נש תבעתיה מלכותא וערק ללוד לגבי ריב"ל ואקיף מלכא מדינתא ויהב להו והוה אליהו רגיל דמתגלי ליה ותו לא איתגלי ליה וצם כמה צומין עד דאיתגלי ליה א"ל לדילטור אנא מתגלי א"ל ולא משנה עשיתי א"ל וזו משנת חסידים היא. ופסק רבינו כר"ל אף על גב דמן הסתם לא קיי"ל כוותיה לגבי דר' יוחנן משום דהוי ספק נפשות ולהחמיר דלא ימסרוהו בידים ביד העובדי כוכבים ועוד דמתניתא מסייעא ליה דקתני כשבע בן בכרי משמע כשחייב מיתה כמותו דוקא ומקרא איכא למידק הכי שאל"כ למה ליה ליואב למימר נשא יד במלך בדוד כלומר והרי הוא חייב מיתה משמע דאי לאו הכי לא היו רשאים למוסרו לו וסובר רבינו דההוא בר נש דריב"ל היה חייב מיתה כשבע בן בכרי ואפ"ה לא איתגלי ליה אליהו מפני שמסרו וא"ל וזו משנת חסידים היא אלמא דלכתחילה אין מורים כן:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 5:5:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:5:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:5:3)
+
+
+**כתב** הרמ"ך אף על פי שנמצא בתוספתא כדבריו לא ידענא טעמא מאי דהא מסיק בגמרא (פסחים כ"ה) דמש"ה אמרינן בשפיכות דמים יהרג ואל יעבור דסברא הוא מאי חזית דדמא דידך סומק טפי והכא ליכא האי סברא דהא יהרגו כלם והוא עצמו ומוטב שיהרג הוא עצמו ואל יהרגו כולם. ואני אומר שאין טענתו טענה על התוספתא דאיכא למימר דהתם שאני שיחדו לו וא"ל קטול לפלניא ומש"ה אי לאו טעמא דמאי חזית דדמא דידך סומק טפי לא הוה אמרינן דיהרג ואל יעבור והיינו דקתני סיפא יחדוהו להם אבל ברישא שלא יחדוהו שלא אמרו אלא תנו אחד מכם ונהרוג אותו בכל אחד מהם שירצו למסור אותו איכא למימר להו מאי חזיתו שתמסרו את זה תמסרו אחד מכם ותצילו את זה דמאי חזיתו דדמא דהאיך סומק טפי דלמא דמא דהאי סומק טפי וע"פ טענה זו א"א להם למסור שום אחד מהם אבל אי קשיא על ר"ל קשיא דאמר שאע"פ שיחדוהו להם אם אינו חייב מיתה לא ימסרוהו דהא ליכא הכא סברא דמאי חזית דדמא דידך סומק טפי שהרי הוא והם נהרגים אם לא ימסרוהו. ואפשר לומר דס"ל לר"ל שמ"ש דבש"ד סברא הוא אינו עיקר הטעם דקבלה היתה בידם דש"ד יהרג ואל יעבור אלא שנתנו טעם מסברא להיכא דשייך אבל אין ה"נ דאפילו היכא דלא שייך האי טעמא הוי דינא הכי דיהרג ואל יעבור:
+
+
+
+### Halakhah 6
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 5:6:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:6:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:6:1)
+
+
+**כענין שאמרו באונסין וכו' ומתרפאין בכל איסורין שבתורה וכו'.** פסחים פרק כל שעה (פסחים דף כ״ה ע״א) כי אתא רבין א״ר יוחנן בכל מתרפאין פירוש במקום סכנה חוץ מעבודת כוכבים וגלוי עריות ושפיכות דמים:
+
+
+
+### Halakhah 7
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 5:7:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:7:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:7:1)
+
+
+**ומנין שאפילו במקום סכנת נפשות אין עוברין על אחת משלש עבירות אלו וכו'.** מבואר שם קרוב ללשון רבינו:
+
+
+
+### Halakhah 8
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 5:8:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:8:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:8:1)
+
+
+**במה דברים אמורים שאין מתרפאין בשאר איסורין וכו'.** פסחים שם (דף כ"ה ע"ב) מר בר רב אשי אשכחיה לרבינא דקא שייף לברתיה בגוהרקי דערלה פירוש בוסר זיתים קטנים א"ל אימור דאמור רבנן בשעת הסכנה שלא בשעת הסכנה מי אמור א"ל האי אישתא צמירתא כשעת הסכנה דמיא ואיכא דאמרי הכי קאמר ליה מידי דרך הנאתן קא עבידנא כלומר שכיון שאינו דרך הנאתן לא מיתסר מדאורייתא. ופוסק רבינו כשתי הלשונות דלענין דינא תרווייהו איתנהו ובאיסורין דרבנן י"א דכיון דלא מתסרי אלא דרבנן שרו אפילו דרך הנאתן וי"א דאפשר דקיל טפי איסורי תורה שלא כדרך הנאתן מאיסורין של דבריהם כדרך הנאתן:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 5:8:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:8:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:8:2)
+
+
+**כתוב** באורחות חיים על מ"ש רבינו מותר לעשות רטיה מחמץ בפסח כיון שיש לו מכה י"א דלא התיר אלא בחמץ דנכרי וכ"כ הרשב"א דחמץ דנכרי הוא והשאילה לישראל או הניחה ע"ג מכתו ואין אחריותה על ישראל ואם אין מלוגמא לנכרי מקנה לו ישראל קמח ועושה הנכרי ממנה מלוגמא ונותנה ע"ג מכת ישראל, עכ"ל:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 5:8:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:8:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:8:3)
+
+
+**חוץ מכלאי הכרם ובשר בחלב וכו'.** כך מתבאר שם (כ"ד:) בגמ' דלוקין עליהן אפילו שלא כדרך הנאתן משום דלא כתיב בהו אכילה וממילא שמעינן דאין מתרפאין בהם שלא במקום סכנה אפילו שלא כדרך הנאתן דדוקא בשאר איסורין דשלא כדרך הנאתן שרי מדאורייתא הוא דשריא שלא במקום הסכנה:
+
+
+
+### Halakhah 9
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 5:9:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:9:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:9:1)
+
+
+**מי שנתן עיניו באשה וכו'.** מעשה בסנהדרין סוף פרק בן סורר (סנהדרין דף ע״ה) ואיכא מ״ד התם דאשת איש היתה ואיכא מ״ד דפנויה היתה ושקלו וטרו אליביה מ״ט אסרו לו לספר עמה ואמר רב אחא כדי שלא יהיו בנות ישראל פרוצות בעריות ושם הקשו ולינסבה ותירצו דלא מייתבא דעתיה דכתיב מים גנובים ימתקו:
+
+
+
+### Halakhah 11
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 5:11:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:11:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:11:1)
+
+
+**ויש דברים אחרים שהם בכלל חילול השם וכו'.** בסוף יומא (דף פ"ו) היכי דמי חילול השם אמר רב כגון אנא אי שקילנא בשרא מטבחא ולא יהיבנא דמי לאלתר אמר אביי לא שנו אלא באתרא דלא תבעי אבל באתרא דתבעי לית לן בה. זו היא גירסת רש"י. אבל גירסת רבינו נראה שהיא בהפך לא שנו אלא באתרא דתבעי אבל באתרא דלא תבעי לית לן בה כלומר שאם תובעו והוא מקיף אז איכא חילול השם אבל אם אינו תובעו ליכא חילול השם. ורבי יוחנן אמר כגון אנא דמסגינא ארבע אמות בלא תורה ובלא תפילין. וזהו שכתב רבינו הכל לפי גודלו של חכם וכו'.
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 5:11:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:11:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:11:2)
+
+
+**ומ"ש או שירבה בשחוק,** למדו מדתנן פ"ב דדמאי המקבל עליו להיות חבר כלומר להיות נאמן על המעשרות מה דברים יקבל עליו וא"ר יהודה שצריך לקבל עליו שלא ירבה בשחוק ואע"ג דרבנן פליגי עליה ואמרו דאינו צריך ע"כ לא פליגי אלא במקבל להיות נאמן על המעשרות אבל ת"ח אין ה"נ שצריך שלא ירבה בשחוק.
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 5:11:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:11:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:11:3)
+
+
+**ומ"ש או באכילה ושתיה וכו'.** ברייתא בפסחים (דף מ"ט) סוף פרק אלו עוברין תלמיד חכם המרבה סעודתו בכל מקום מחלל שם שמים. וממה שכתב אצל ע"ה וביניהם נראה לדקדק דדוקא כשאוכל עמהם ובביתם אבל אם הם אוכלים עמו בביתו או הוא אוכל בביתם ולא עמהם כדרך האכסנאין שרי:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 5:11:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:11:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/5:11:4)
+
+
+**או שדיבורו עם הבריות אינו בנחת עד סוף הפרק.** ברייתא בסוף יומא (דף פ"ו) קרובה ללשון רבינו. ושיעור הלשון כך הוא ועושה בכל מעשיו לפנים משורת הדין בתנאי שלא יתרחק הרבה משורת הדין לצד הטוב עד שיראה שאינו מן היישוב או עד שישתומם אלא יעשה לפנים משורת הדין באופן ממוצע עד שבעשייתו כל המעשים טובים שזכרנו ימצאו הכל מקלסין אותו ואוהבים אותו:
+
+
+
+## Chapter 6
+
+
+### Halakhah 1
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 6:1:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:1:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:1:1)
+
+
+**כל המאבד וכו'.** כך פשוט פרק הקומץ רבה (מנחות דף ל') ובסוף מכות (דף כ"ב) ובספרי פרשת ראה:
+
+
+
+### Halakhah 2
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 6:2:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:2:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:2:1)
+
+
+**ושבעה שמות הם וכו'.** ברייתא סוף פ' שבועת העדות (שבועות דף ל״ה) אלו הן שמות שאין נמחקין כגון א״ל אלהי״ך אלהי״ם אלהיכ״ם אהי״ה אשר אהי״ה אדנ״י וי״ה שד״י צבאו״ת הרי אלו אין נמחקין, ונראה שגירסת רבינו א״ל אלו״ה אלה״י אלהי״ם וגירסא נכונה היא דאשמעינן דו״ה דאלו״ה וה״י דאלה״י והי״ם דאלהי״ם הוו מעצם השם ולא דמו לכ״ם דאלהיכ״ם דאינו מעצם השם אלא דהשם קדשו. ואע״ג דאשמעינן דהי״ם מאלהי״ם הוי מעצם השם מכל מקום איצטריך לאשמועינן בה״י דאלה״י דאיכא למימר כיון דאלה״י הוא סמוך לעולם הוה ה״י דידיה ככ״ם דאלהיכ״ם. וטעמא דלא דמי לכ״ם דאלהיכ״ם היינו משום דכיון דאשכחן ה״י שהוא מעצם השם באלהי״ם כל היכא דאשכחן אלה״י הוי קדוש מעצמו משא״כ בכ״ם דאלהיכ״ם. ונראה שלא היה בגירסת רבינו אהי״ה אשר אהי״ה.
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 6:2:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:2:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:2:2)
+
+
+**ומ"ש רבינו שהם שבעה שמות ובפרטן אתה מוצא שמונה** היינו משום דאדנ"י וי"ה שם אחד ולא דמו לא"ל אלו"ה דהכא אדנ"י הוא נקרא אף כשהוא נכתב יהו"ה. ובנוסחא אחרת מספרי רבינו מצאתי שלא היה כתוב אלהי ולפי אותה גירסא הוו שפיר שבעה שמות אף אם נמנה שם הוי"ה ושם אדנות בשנים. ובנוסחא שנדפסה בווניציאה כתוב ושבעה שמות הם, שהם הנכתב יו"ד ה"א וא"ו ה"א והוא השם המפורש או הנכתב אדנ"י ואלו"ה ואלהי"ם ואהי"ה ושד"י וצבאו"ת. ונוסחא נכונה היא דמני שם אהי"ה בכלל השבעה שמות ואין אנו צריכים לידחק למנות שם ההויה ושם אדנות באחד. ושפיר עבד דלא מני אל ולא אלהי משום דבכלל אלו"ה ואלהי"ם הוו אלא דאכתי קשה אמאי איצטריך למנות אלוה הא בכלל אלהי"ם הוא:
+
+
+
+### Halakhah 3
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 6:3:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:3:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:3:1)
+
+
+**כל הנטפל לשם מלפניו וכו'.** שם בברייתא (שבועות ל"ה) פלוגתא דתנאי דאיכא מ"ד בין מלפניו בין מלאחריו נמחק ואחרים אומרים לאחריו אינו נמחק שכבר קדשו השם אמר רב הונא הלכה כאחרים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 6:3:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:3:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:3:2)
+
+
+**ואע"פ שנתקדשו ואסור למוחקם וכו'.** הוא אשר דברתי דשאני לן בין האותיות שהם קדושות לפי שהם מעצם השם לאותיות שאינם מעצם השם רק שהשם קדשם:
+
+
+
+### Halakhah 4
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 6:4:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:4:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:4:1)
+
+
+**כתב אל"ף למ"ד מאלהי"ם וכו'.** ברייתא שם כתב א"ל מאלהי"ם י"ה מיהו"ה אינו נמחק ש"ד משד"י צ"ב מצבאות הרי זה נמחק ופסק שם שמואל הלכה כן:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 6:4:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:4:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:4:2)
+
+
+**וכתב** הראב"ד א"א זה אינו כלום וכו' הרי אלו נמחקין עכ"ל. ויש לתמוה שדברי הראב"ד הם דברי רבינו אות באות והיאך כתב עליו זה אינו כלום. וי"ל שכוונת הראב"ד לומר שלא הוזכר בגמרא אלא י"ה מיהו"ה, כלומר דוקא כשנתכוין לכתוב השם שלם וכתב י"ה למעלת שם המיוחד אבל כשלא נתכוין רק לכתוב י"ה לכוונת שם בפני עצמו לא אמרו שאינו נמחק. וא"ל מאלהי"ם דאינו נמחק היינו משום שאף אם נתכוין לכתבו שם בפני עצמו אינו נמחק ולא גרע מפני שנתכוין לכתוב אלהי"ם משא"כ בשם י"ה והביא כל לשון הברייתא כלומר אין עוד מלבדו וא"כ מהיכא תיתי לן. והמדקדק בלשון רבינו יראה שאין מקום להשגתו שדעתו ז"ל לומר די"ה הוא מקצת שם המפורש ומצד זה חלה עליו הקדושה ולכן לא מנו אותו בשמות שאינן נמחקים משא"כ באל ואלהים דאל הוי שם בפני עצמו ולא מפני שהוא מקצת שם אלהים וכיון שהכותב מקצת שם המפורש אינו נמחק כל שכן הכותב י"ה לכוונת שם בפני עצמו שיש לו שתי קדושות קדושת שם המפורש וקדושתו שהוא שם בפני עצמו. וכן מפורש במסכת סופרים ובירושלמי פ"ק דמגילה הכותב א"ל מד' אותיות י"ה מד' אותיות אינם נמחקין מפני שיש שמות כיוצא בהם, עכ"ל. וזה מבואר בדברי רבינו שהכותב י"ה לכוונת שם בפני עצמו אינו נמחק ודלא כדמשמע מהראב"ד שהוא נמחק. ואפשר שנזדמנה להראב"ד בדברי רבינו נוסחא זו ענינה. כתב אל"ף למ"ד מאלהי"ם ו"ה מיהו"ה אינו נמחק. וכך נראה שהיתה נוסחת ההגהות שכתבו י"ה מיהו"ה לא דמי וכו'. ועל זה אומר דלא אמרו אלא י"ה אבל צ"ב וש"ד נמחקין והוא הדין לו"ה כיון שאינו שם בפני עצמו:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 6:4:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:4:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:4:3)
+
+
+**והרב** הר"ם אלשקאר ז"ל כתב בתשובה שכוונת הראב"ד להשיג על רבינו במ"ש שאם כתב ש"ד משד"י וצ"ב מצבאות ולא השלים השם הרי זה נמחק דמשמע שאם היה כתוב השם כולו אינו יכול למחוק ממנו לא ש"ד ולא צ"ב שהרי לא אמרו בברייתא כתב אלא בא"ל מאלהי"ם י"ה מיהו"ה בהני הוא שאמרו כתב ואפילו שלא היה כל השם כתוב אבל גבי ש"ד משד"י וצ"ב מצבאות לא אמרו כתב אלא אפילו שיהא כל השם כתוב יכול למחוק ממנו ש"ד וצ"ב עכ"ל. ודבר תימה הוא להעלות על הדעת שאחר שיהא כל השם כתוב יהיה מותר למחוק ממנו אפילו אות אחת כ"ש רוב אותיותיו. ומה שרצה להכריע מדלא קתני בברייתא גבי ש"ד וצ"ב כתב אינו הכרע דהא פשיטא דאכתב דקתני ברישא קאי. ועוד שא"א לומר שיהא זו כוונת הראב"ד שא"כ כך ה"ל לכתוב לא אמרו אלא כתב א"ל מאלהי"ם ולא ה"ל להשמיט תיבת כתב מהשגתו מאחר שהיא עיקר השגתו:
+
+
+
+### Halakhah 5
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 6:5:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:5:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:5:1)
+
+
+**שאר הכנויים שמשבחים בהם את הקב"ה וכו'.** שם בברייתא:
+
+
+
+### Halakhah 6
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 6:6:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:6:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:6:1)
+
+
+**כלי שהיה שם כתוב עליו וכו'.** פ"ק דערכין (דף ו'):
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 6:6:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:6:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:6:2)
+
+
+**וכן אם היה שם כתוב וכו'.** ברייתא פרק כל כתבי (שבת ק"כ) הרי שהיה שם כתוב לו על בשרו הרי זה לא ירחוץ ולא יסוך ולא יעמוד במקום הטנופת נזדמנה לו טבילה של מצוה כורך עליה גמי ויורד וטובל רבי יוסי אומר לעולם יורד וטובל כדרכו ובלבד שלא ישפשף ופסק כתנא קמא ושם אמרו האי גמי היכי דמי אי מיהדק הוי חציצה ואי לא מיהדק עיילי ביה מיא. חציצה תיפוק ליה משום דיו בלחה מ"מ קשיא אלא אמר רבה בר שילא היינו טעמייהו דרבנן דקא סברי אסור לעמוד לפני השם ערום כלומר דמטעם מחיקת השם אינו אסור דכתיב לא תעשון כן לה' אלהיכם עשייה הוא דאסור גרמא שרי ולא חש רבינו לכתוב דדוקא בדיו לחה לפי שזה אינו מענין הלכות אלו אלא מענין הלכות מקואות. ומה שאמר ואם לא מצא גמי וכו'. פשוט הוא:
+
+
+
+### Halakhah 7
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 6:7:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:7:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:7:1)
+
+
+**הסותר אפילו אבן אחת וכו'.** בספרי פרשת ראה אנכי:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 6:7:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:7:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:7:2)
+
+
+**וכן השורף עצי הקדש וכו'.** הכי מפורש בסוף מכות (דף כ"ב):
+
+
+
+### Halakhah 8
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 6:8:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:8:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:8:1)
+
+
+**כתבי הקדש כולן ופירושיהן וביאוריהן וכו'.** כך פשוט בריש פרק כל כתבי (שבת דף קט"ז):
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 6:8:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:8:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:8:2)
+
+
+**והמאבדן ביד מכין אותו מכת מרדות.** ככל עובר על דברי חכמים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 6:8:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:8:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:8:3)
+
+
+**אבל אפיקורוס שכתב ספר תורה וכו'.** גיטין פרק השולח (גיטין דף מ״ה ע״ב) אמר רב נחמן נקטינן ס״ת שכתב אפיקורוס ישרף ובפ' כל כתבי (שבת שם) אמרינן אספרים שכתבם אפיקורוס א״ר טרפון אקפח את בני שאם יבאו לידי שאני אשרוף אותם ואת האזכרות שבהם ור' ישמעאל אמר ק״ו ומה לעשות שלום בין איש לאשתו אמרה תורה שמי שנכתב בקדושה ימחה על המים הללו שמטילים איבה בין ישראל לאביהם שבשמים עאכ״ו:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 6:8:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:8:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:8:4)
+
+
+**אבל עובד כוכבים שכתב את השם וכו'.** פרק השולח (גיטין מ"ה) ס"ת שכתבו עובד כוכבים יגנז:
+
+
+
+### Halakhah 9
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 6:9:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:9:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:9:1)
+
+
+**כל השמות האמורים באברהם וכו'.** עד סוף הפרק. הכל סוף פרק שבועת העדות (שבועות דף ל״ה)
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 6:9:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:9:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:9:2)
+
+
+**ומ"ש אף זה שנאמר אדני אם נא מצאתי חן בעיניך** לפי יש אומרים שהוא חול שהיה מדבר עם המלאכים ואיפסקא הלכתא דאף זה קודש דכתיב לעיל מיניה וירא אליו ה' ואמר להקב"ה אל נא תעבור מעל עבדך המתן לי כאן עד שאכניס האורחים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 6:9:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:9:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:9:3)
+
+
+**כל השמות האמורים בלוט וכו' חוץ מזה וכו'.** ונתנו טעם בגמרא משום להחיות את נפשי מי שיש בידו להמית ולהחיות זה הקב"ה. וכתב הריטב"א הא ודאי ליכא אלא אחד שהוא חול הנה נא אדני סורו נא והא דנקט כל שמות אגב ריהטיה נקט הכי. וכתב עוד מי שיש בידו להמית ולהחיות והא דכתיב ויאמר אליהם פירוש בפניהם:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 6:9:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:9:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:9:4)
+
+
+**כל השמות האמורים בגבעת בנימין וכו'.** פלוגתא דר"א ורבי יהושע ופסק כר' יהושע.
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 6:9:5
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:9:5](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:9:5)
+
+
+**ומ"ש האמורים במיכה חול וכו'** אע"ג דפליג התם ר"א את"ק דיהו"ה קדש פסק כת"ק. ומה שכתב בנבות קדש מוסכם:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 6:9:6
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:9:6](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:9:6)
+
+
+**כל שלמה האמור בשיר השירים וכו'.** בגמרא הכי איתא כל שלמה האמור בשה"ש קדש. שיר למי שהשלום שלו חוץ מזה כרמי שלי לפני האלף לך שלמה כלומר לדידיה ומאתים לנוטרים את פריו רבנן. כלומר הניחם ויעסקו בתורה אחד מששה שבהם. וי"א אף זה הנה מטתו שלשלמה שהיה נבעת מאשמדאי כדאמרינן בגיטין. וי"א אף זה ולא מיבעיא האיך אלא הא דאמר שמואל כל מלכותא דקטלא חד משיתא בעלמא כלומר באנגריא לא מיענשה שנאמר האלף לך מלכותא דרקיעא ומאתים לנוטרים את פריו מלכותא דארעא כמאן לא כת"ק ולא כי"א אלא ה"ק אף זה קודש וזהו חול דמטתו ושמואל דאמר כיש אומרים וכיון דשמואל כי"א משמע דהכי אית לן למפסק. והר"ן תמה על רבינו שפסק כת"ק. ולי נראה דהיינו טעמא דכיון דלשמואל אנו צריכין להגיה לשון וי"א לא נקטינן כותיה אלא נקטינן במאי דמשמע פשט לשון י"א אף זה חול דמשמע ולא מיבעיא האיך וכיון שאנו תופשים הברייתא כפשטה פסקינן כת"ק:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 6:9:7
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:9:7](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:9:7)
+
+
+**והרי הוא כשאר הכנויים.** דעת רבינו לומר דכשאמרו דשלמה האמור בשה"ש ומלך מלכיא שבדניאל הם קודש לא אמרו לענין שאין נמחקים אלא הרי הם כשאר הכנויין לכל דבריהם ונאמר דהוו קדש שאם השביע את העדים בהם וכפרו חייבים וכ"כ הריטב"א והר"ן ז"ל. וכ"כ הרא"ש ז"ל בתשובות סוף כלל ג' וז"ל ומ"ש רבי מצליח דשלמה האמור בשה"ש אינו נמחק לפי שהוא קדש לא כיון יפה וכו' עד וכ"ש שלמה שאינו קדוש אלא בשביל שהשלום שלו והוא נמחק:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 6:9:8
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:9:8](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/6:9:8)
+
+
+**כל מלכיא האמור בדניאל וכו'.** ברייתא שם כלשון רבינו (שם בשבועות) ואי אפשר לומר שהכוונה כל מקום שכתוב מלכיא שבדקו בספר דניאל ולא מצאו (כי) אלא תרי מלכיא אנת מלכא מלך מלכיא ועוד אחר וביומיהון די מלכיא אינון ולא יצדק לומר כל על שנים בלבד. ועוד שמלכיא שבאנת מלכא אינו קדוש אלא ודאי על מלך האמור במלך מלכים אמרו שהוא קדוש וכן פירש"י כל מקום שנאמר שם מלך. ואפ"ה קשה דהא אשכחן מלך שהוא קדש לבד מזה והוא שכתוב כען אנא נבוכדנצר משבח וכו' למלך שמיא. ולכן אני אומר דמאי דקאמר כל מלכיא האמור בדניאל אין הכוונה על ספר דניאל אלא הכונה על דברי דניאל שכל מלך שהזכיר דניאל הוא חול חוץ מזה שהוא קודש:
+
+
+
+## Chapter 7
+
+
+### Halakhah 1
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 7:1:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/7:1:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/7:1:1)
+
+
+**ואין הנבואה חלה אלא על חכם וכו'.** בפ"ד דנדרים (דף ל"ח) אמר ר' יונתן אין הקב"ה משרה שכינתו אלא על חכם גבור ועשיר. ומפרש רבינו גבור במדותיו כההיא דתנן איזהו גבור הכובש את יצרו. וכן אפשר לפרש עשיר השמח בחלקו אלא ששם משמע בגמרא דגבור כפשוטו שיהא בעל כח וכן עשיר כפשוטו שיהיה לו ממון הרבה. לכך נראה דרבינו סברא דנפשיה קאמר ולא מהא דר' יונתן. ומ"מ צ"ע למה לא כתב שיהא גבור בכח ועשיר ועניו וכהא דר' יונתן. וי"ל שהרא"ש פירש אהא דר' יונתן אין הקב"ה משרה שכינתו בקביעות ומשמע מדבריו דשלא בקביעות אפשר שיתנבא אע"פ שלא יהיה בו כל המדות הללו. ורבינו לא נחת הכא לפרש אלא תנאי הנביא להתנבאות ואפילו שלא יהא בקביעות:
+
+
+
+### Halakhah 4
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 7:4:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/7:4:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/7:4:1)
+
+
+**שאין הנבואה שורה לא מתוך עצבות וכו'.** בפרק במה מדליקין (שבת דף ל'):
+
+
+
+## Chapter 8
+
+
+### Halakhah 1
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 8:1:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/8:1:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/8:1:1)
+
+
+**משה רבינו לא האמינו בו ישראל מפני האותות שעשה וכו'.** בספר העיקרים מאמר ראשון פי"ח ביאר יפה דברי רבינו:
+
+
+
+## Chapter 9
+
+
+### Halakhah 1
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 9:1:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/9:1:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/9:1:1)
+
+
+**ונאמר לא בשמים היא.** בפ' הזהב (ב"מ נ"ט) גבי פלוגתא דר' אליעזר ורבנן אמרינן עמד ר' יהושע על רגליו ואמר לבת קול שיצאת ופסקה הלכה כר"א לא בשמים היא ואמרינן התם מאי לא בשמים היא אמר ר' ירמיה אין משגיחין בבת קול וכל שכן דאין משגיחין בנביא המתנבא:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 9:1:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/9:1:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/9:1:2)
+
+
+**הא למדת שאין נביא רשאי לחדש דבר מעתה.** זה לשון ת"כ על פסוק אלה המצות אשר צוה ה' את משה ואיתיה בריש מגילה:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 9:1:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/9:1:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/9:1:3)
+
+
+**לפיכך אם יעמוד איש וכו'.** זה פשוט דמאחר שקבלנו שאין נביא רשאי לחדש דבר מעתה הא ודאי משקר הוא ועליו נאמר ומת הנביא ההוא כי דבר סרה על ה':
+
+
+
+### Halakhah 2
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 9:2:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/9:2:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/9:2:1)
+
+
+**וכן אם צונו בדברי הרשות וכו'.** משנה סוף פרק הנחנקין (סנהדרין פ"ט) הכובש נבואתו והמוותר על דברי הנביא כלומר המפקירם שלא חשש לדבריו ונביא שעבר על דברי עצמו מיתתן בידי שמים שנאמר אנכי אדרוש מעמו ואמרו בגמרא דכלהו נפקי מהאיש אשר לא ישמע דפשטיה קאי למוותר על דברי הנביא שאינו שומע לדבריו וכן משמע מיניה נביא שהוא עצמו אינו שומע והיינו עובר על דברי עצמו וקרי ביה לא ישמיע והיינו כובש נבואתו ואכולהו קאמר אנכי אדרוש מעמו:
+
+
+
+### Halakhah 3
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 9:3:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/9:3:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/9:3:1)
+
+
+**וכן אם יאמר לנו הנביא וכו'.** יבמות פרק האשה רבה (יבמות דף צ':) ובספרי אליו תשמעון אפילו אומר לך עבור על אחת מכל מצות שבתורה כגון אליהו בהר הכרמל הכל לפי שעה שמע לו.
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 9:3:2
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/9:3:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/9:3:2)
+
+
+**ומ"ש שנודע לנו שהוא נביא** לומר שאם עד שלא נודע לנו מדברים אחרים שהוא נביא וזה החלו לעשות אין שומעין לו ואפילו העובר על דבריו בדברי הרשות אינו נענש עד שיוחזק וכך אמרו בפ' הנחנקין שהטעם ששמעו ישראל לאליהו בהר הכרמל לפי שהיה מוחזק בנבואה שאילו לא היה מוחזק לא היו שומעין לו:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 9:3:3
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/9:3:3](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/9:3:3)
+
+
+**וכן למדנו מהחכמים הראשונים וכו'.** בסוף הנחנקין (סנהדרין צ') א"ר אבהו א"ר יוחנן אם יאמר לך נביא עבור על דברי תורה שמע לו כלומר לפי שעה חוץ מעבודת כוכבים:
+
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 9:3:4
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/9:3:4](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/9:3:4)
+
+
+**ואם אמרו שהדבר נעקר לעולם וכו'.** וכן אם עקר דבר מדברים שלמדנו מפי השמועה כיון שתורתנו נצחית ולמדנו שלא יבא עוד נביא לחדש דבר ואמרו חז"ל בכמה מקומות (חולין קכ"ד.) אילו אמר לי יהושע בן נון מפומיה לא צייתנא ליה. גם אמרו (תמורה ט"ז. וע"ש) על אותם הלכות שנשתכחו בימי אבלו של משה לא רצה הקב"ה ללמדם ליהושע וא"ל אין נביא רשאי לחדש דבר א"כ כשזה מתנבא בדבר תורה נתברר לנו שדבר סרה. אבל קשה לי דאמרו פ"ק דיבמות דיצתה בת קול לומר דהלכה כב"ה וקיי"ל הכי בכל דוכתא והתוס' שם ובפרק הזהב נתנו טעם לדבר ואינו עולה כפי דעת רבינו וצ"ע:
+
+
+
+### Halakhah 4
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 9:4:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/9:4:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/9:4:1)
+
+
+**או שאמר בדין מדיני התורה שה' צוה לו שהדין כך וכו'.** וא"ת שנראה מדבריו כאן שאפילו כיון את ההלכה לטמא את הטמא ולטהר את הטהור יחנק ומדבריו בראש הפרק נראה דדוקא כשבא להוסיף או לגרוע או לשנות הרי זה נביא שקר ויחנק הא כשבא לומר הלכה כדברי פלוני כיון שאינו מוסיף ולא גורע ולא משנה אינו נביא שקר. ונ"ל דבראש הפרק לא נתכוין אלא להוציא מלבן של בעלי הכתות אשר קצתם אומרים שבא להוסיף וקצתם אומרים שבא לגרוע ולשנות לפי שאין התורה נצחית ובסוף הפרק אמר הדין הנופל במתנבא שהלכה כדברי פלוני:
+
+
+
+### Halakhah 5
+
+###### Kessef Mishneh on Mishneh Torah, Foundations of the Torah 9:5:1
+
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/9:5:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Foundations%20of%20the%20Torah/r/9:5:1)
+
+
+**במה דברים אמורים בשאר מצות אבל וכו'.** למעלה כשאמר אם יאמר לך הנביא עבור על דברי תורה שמע לו חוץ מעבודת כוכבים הזכיר שם עבודת כוכבים אגב דשאר מצות שכוונתו שם היתה לומר דבשאר מצות שומעים לנביא וכאן נתכוין לדבר בעבודת כוכבים בייחוד דאין שומעין לו אפילו לפי שעה ולמד כן ממה שאמרו אם יאמר לך הנביא עבור על ד"ת שמע והיינו דוקא לפי שעה וכמו שכתבתי למעלה וקאמר חוץ מעבודת כוכבים אלמא דבעבודת כוכבים אפילו לפי שעה אין שומעין לו:
+

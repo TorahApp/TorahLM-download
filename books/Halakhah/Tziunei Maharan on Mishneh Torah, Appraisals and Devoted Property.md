@@ -1,0 +1,109 @@
+# Tziunei Maharan on Mishneh Torah, Appraisals and Devoted Property
+
+ציוני מהר"ן על משנה תורה, הלכות ערכים וחרמין
+
+Link: [https://torahapp.org/share/book/Tziunei%20Maharan%20on%20Mishneh%20Torah%2C%20Appraisals%20and%20Devoted%20Property](https://torahapp.org/share/book/Tziunei%20Maharan%20on%20Mishneh%20Torah%2C%20Appraisals%20and%20Devoted%20Property)
+
+חיבור הלכתי פורץ-דרך וחדשני מבחינת היקפו ואופן סידור הדינים שבו. נכתב על ידי הרמב"ם במאה ה-12.
+
+Legal code written by Maimonides in the 12th century, groundbreaking in its organization and scope.
+
+Sections: Chapter-Halakhah-Comment
+
+Location: Halakhah/Mishneh Torah/Commentary/Tziunei Maharan/Sefer Haflaah
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Friedberg Edition (Segments: 7, License: Public Domain)
+
+
+## Chapter 1
+
+
+### Halakhah 1
+
+###### Tziunei Maharan on Mishneh Torah, Appraisals and Devoted Property 1:1:1
+
+[https://torahapp.org/share/book/Tziunei%20Maharan%20on%20Mishneh%20Torah%2C%20Appraisals%20and%20Devoted%20Property/r/1:1:1](https://torahapp.org/share/book/Tziunei%20Maharan%20on%20Mishneh%20Torah%2C%20Appraisals%20and%20Devoted%20Property/r/1:1:1)
+
+
+**הערכים הם נדר מכלל נדרי הקדש כו' עד ומשום ככל היוצא מפיו יעשה.** עי' בכ"מ שנדחק ועי' מ"ש רבינו לפיכך חייבין עליהם כו', הניח הכ"מ חלק ולא הראה שום מוצא לזה, אבל באמת כל דברי רבינו מבוארין בתו"כ בחקותי פרשתא ג' ברייתא ד' נדר בערכך הקיש ערכים לנדרים מה נדרים בבל תאחר לשלמו אף ערכים בבל תאחר לשלמו, ובויקרא רבה פ' ל"ז ארשב"י כשם שבנדרים בל יחל ובל תאחר כן בערכין בל יחל ובל תאחר לפיכך משה מזהיר את ישראל ואומר איש כי יפליא נדר בערכך נפשות לה' ע"כ:
+
+
+
+### Halakhah 7
+
+###### Tziunei Maharan on Mishneh Torah, Appraisals and Devoted Property 1:7:1
+
+[https://torahapp.org/share/book/Tziunei%20Maharan%20on%20Mishneh%20Torah%2C%20Appraisals%20and%20Devoted%20Property/r/1:7:1](https://torahapp.org/share/book/Tziunei%20Maharan%20on%20Mishneh%20Torah%2C%20Appraisals%20and%20Devoted%20Property/r/1:7:1)
+
+
+**העבד כו' ואם יפדה והיה לו יתן ערך שנדר.** בתוספתא ריש פ"ק דערכין הובא גם ברש"י ותוס' ריש מס' ערכין נשים ועבדים נודרין ונידרין נערכין ומעריכין אם יש להן בזמן הזה גובין מהן ואם לאו כותבין עליהן וגובין מהן לאחר זמן ע"ש:
+
+
+
+## Chapter 4
+
+
+### Halakhah 26
+
+###### Tziunei Maharan on Mishneh Torah, Appraisals and Devoted Property 4:26:1
+
+[https://torahapp.org/share/book/Tziunei%20Maharan%20on%20Mishneh%20Torah%2C%20Appraisals%20and%20Devoted%20Property/r/4:26:1](https://torahapp.org/share/book/Tziunei%20Maharan%20on%20Mishneh%20Torah%2C%20Appraisals%20and%20Devoted%20Property/r/4:26:1)
+
+
+**כיצד דין מקדיש שדה מקנתו כו'.** עיין במל"מ, וכבר תפסו עליו דאישתמיט מיניה גמרא ערוכה ערכין (דף י"ד:) דר"א ס"ל דוחשב האמור בשדה מקנה הוא דבר קצוב כמו בשדה אחוזה, ע"ש:
+
+
+
+## Chapter 5
+
+
+### Halakhah 12
+
+###### Tziunei Maharan on Mishneh Torah, Appraisals and Devoted Property 5:12:1
+
+[https://torahapp.org/share/book/Tziunei%20Maharan%20on%20Mishneh%20Torah%2C%20Appraisals%20and%20Devoted%20Property/r/5:12:1](https://torahapp.org/share/book/Tziunei%20Maharan%20on%20Mishneh%20Torah%2C%20Appraisals%20and%20Devoted%20Property/r/5:12:1)
+
+
+**כל המקדש בהמה וכו' אין פודין אותה אחר שמתה אלא תקבר אבל אם הקדיש שחוטה או נבלה לבד"ה הרי זו תפדה.** בתו"כ בחוקותי פרשתא ד' ברייתא ב', טמאה לרבות את המתה יכול אפילו אמר הרי זו הקדש ומתה תפדה ת"ל והעריך את שיש לו עמדה יש לו ערכה ואת שאין לו עמדה אין לו ערכה וע"ש עוד:
+
+
+
+## Chapter 6
+
+
+### Halakhah 9
+
+###### Tziunei Maharan on Mishneh Torah, Appraisals and Devoted Property 6:9:1
+
+[https://torahapp.org/share/book/Tziunei%20Maharan%20on%20Mishneh%20Torah%2C%20Appraisals%20and%20Devoted%20Property/r/6:9:1](https://torahapp.org/share/book/Tziunei%20Maharan%20on%20Mishneh%20Torah%2C%20Appraisals%20and%20Devoted%20Property/r/6:9:1)
+
+
+**האומר שור זה הקדש כו'.** הכסף משנה הניח חלק ולא הראה מוצאו (והרדב"ז כתב על זה מימרא זו לא ידעתי מקומה) והוא תוספתא ערוכה ברפ"ג דתמורה שור זה הקדש לאחר שלשים יום שחטו בתוך שלשים יום מותר באכילה מת מותר בהנאה הקדישו לשם שלמים הרי זה מקודש, מעכשיו לאחר שלשים יום ושחטו בתוך שלשים יום אסור באכילה מת אסור בהנאה הקדישו לשם שלמים הרי זה אינו מקודש (ועי' בירושלמי פ"ג דקדושין):
+
+
+
+### Halakhah 33
+
+###### Tziunei Maharan on Mishneh Torah, Appraisals and Devoted Property 6:33:1
+
+[https://torahapp.org/share/book/Tziunei%20Maharan%20on%20Mishneh%20Torah%2C%20Appraisals%20and%20Devoted%20Property/r/6:33:1](https://torahapp.org/share/book/Tziunei%20Maharan%20on%20Mishneh%20Torah%2C%20Appraisals%20and%20Devoted%20Property/r/6:33:1)
+
+
+**ראיה לדבר זה מה שאמר יעקב אבינו וכל אשר תתן לי עשר אעשרנו לך.** ובהשגות א"א הראיה מיעקב ראיה היא כו'. ולכאורה לפמש"כ הריב"ש בתשובותיו סי' שכ"א דקודם מתן תורה היה קונה גם דשלבל"ע וראיה מיעקב שקנה הבכורה מעשו ראיית רבינו ליתא, אולם נראה דדברי רבינו הם ע"פ המד"ר שם (בראשית פ' ע') וידר ישראל נדר לאמר לאמר לדורות כדי שיהיו נודרין בעת צרתן ע"ש, והובא בתוס' חולין דף ב' ע"ב ד"ה אבל, ולפ"ז י"ל דראיית רבינו הוא מלדורות דמוכח ג"כ דנדר כזה מהני, אך מ"ש רבינו ונאמר אשר נדרת לי שם נדר לא אתיא שפיר לפ"ז:
+
+
+
+## Chapter 7
+
+
+### Halakhah 1
+
+###### Tziunei Maharan on Mishneh Torah, Appraisals and Devoted Property 7:1:1
+
+[https://torahapp.org/share/book/Tziunei%20Maharan%20on%20Mishneh%20Torah%2C%20Appraisals%20and%20Devoted%20Property/r/7:1:1](https://torahapp.org/share/book/Tziunei%20Maharan%20on%20Mishneh%20Torah%2C%20Appraisals%20and%20Devoted%20Property/r/7:1:1)
+
+
+**ההקדשות כו' אחד הכסף ואחד שאר המטלטלין ששוין כסף.** הכ"מ לא הראה מוצא לזה, אולם דברי רבינו מבוארין בתו"כ בחקותי פ' י"א ברייתא ז' בשקל הקדש מה ת"ל לפי שנאמר ופדה יכול בעבדים ובשטרות ובקרקעות ת"ל בשקל הקדש אין לי אלא סלעים של קדש מנין לרבות דבר המטלטל ת"ל ופדה לרבות דבר המטלטל. ומש"כ רבינו ששוין כסף כוונתו למאי דאיתא שם ברפי"ב ואם בבהמה הטמאה ופדה בערכך מה ת"ל לפי שנאמר בשקל הקדש יכול אין לי אלא סלעים של הקדש מנין לרבות דבר המטלטל ת"ל ופדה לרבות דבר המטלטל וא"כ למה נאמר בשקל הקדש פודה בכל דבר שהוא מטלטל ובלבד שהוא צריך לישום בכסף, וביאר שם הר"ש משאנץ בפירושיו דבעינן שוה כסף דהיינו ככסף וצריך לעשות דמים תחלה כמה שוה, וזה כוונת רבינו:
+

@@ -1,0 +1,2510 @@
+# Rashash on Temurah
+
+רש"ש על תמורה
+
+Link: [https://torahapp.org/share/book/Rashash%20on%20Temurah](https://torahapp.org/share/book/Rashash%20on%20Temurah)
+
+דיוני חז״ל בנושאי הלכה, מוסר ותנ"ך שהתקיימו במשך דורות. בנויים כהרחבות על המשנה ושזורים בהם סיפורי אגדה.
+
+19th-century annotations based on classes that the author, Rabbi Shmuel Strashun, delivered in a synagogue in Lithuania.
+
+Sections: Daf-Comment
+
+Location: Talmud/Bavli/Acharonim on Talmud/Rashash/Seder Kodashim
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Vilna Edition (Segments: 288, License: Public Domain)
+
+
+## Daf 2a
+
+###### Rashash on Temurah 2a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/2a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/2a:1)
+
+
+**רש"י ד"ה לית ליה. דודאי א"ט סמיכה כו'.**עי' מנחות (צג) תד"ה לרבות:
+
+
+###### Rashash on Temurah 2a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/2a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/2a:2)
+
+
+**תד"ה ור"מ. וי"ל דלמעוטי כו' וממילא אמר דאין השותפין סומכין כדאמר כו'.**ול"נ משום דאית לן למעוטי מק"ו דתנופה כדאיתא בס"פ שתי מדות:
+
+
+
+## Daf 2b
+
+###### Rashash on Temurah 2b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/2b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/2b:1)
+
+
+**גמרא ת"ל ואם המר ימיר לרבות את האשה.**עפרש"י. ול"נ דדריש ממלת המר לחודה דהוא מקור ומשמש לזכר ולנקבה דכל הס"ד דאשה אינה בתמורה הוא משום דכה"פ כולה אינה אלא בל"ז לכן אהני לן המקור לרבוייה. ונ"ל דה"ט דר"ש לקמן (יג) במשנה דיליף למעוטי ק"צ ממעשר. ולא דריש למעוטי מדכתיב ל"י בלשון יחיד כמו דיליף הת"ק. משום דמקור משמש לרבים וליחיד. לכן כמו דמרבינן אשה מהמקור אע"ג דכה"ע מדבר בלשון זכר כן ה"ל לרבויי צבור ושותפין אף דכה"ע נאמר בלשון יחיד. ובזה היה מתורץ ג"כ תמיהת התוס' במנחות (צג) ד"ה מיבעיא ליה. רק דיקשה לפ"ז לת"ק דר"ש דיליף למעוטי ציבור ושותפים ממה דנאמר הענין בל"י ולא מרבי להו מהמקור:
+
+
+###### Rashash on Temurah 2b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/2b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/2b:2)
+
+
+**שם אבל הכא כיון דעונש שאש"ב הוא דתנן אין הציבור כו'.**והרמב"ם בריש ה' תמורה פסק דגם בקרבן ציבור אם המיר לוקה. וכ' הלח"מ והש"א תש"ו פ"ב דע"כ היה גורס כגי' קמא שהביא רש"י אבל לאו שאין בו מעשה כו'. וכתב עוד הש"א דלגי' זו אדרבה יהיה ראיה להרמב"ם דציבור ישנו באזהרה דלא ימיר דאל"כ ה"ל לאו שאש"ב ול"ל לא יקחו ללמד שהאשה מוזהרת ע"י האיש ביבמות (פד ב) ולא ילפינן מהא דהשוה הכתוב אשה לאיש כו' הואיל דאש"ב. הא נוכל למילף מתמורה דאף דא"נ בצבור וה"ל לאו שאש"ב ואפ"ה נשים חייבות. ואנכי תמה דאיך נקרא לתמורה לאו שאש"ב. כיון דכל יחיד ויחיד מוזהר עליה רק דהתורה לא הזהירה על ק"צ ואין זה אלא תנאי במה הזהירה. וכמו שאינו נקרא אש"ב מה שא"נ בקדשי בה"ב. הכי נקרא לאו דשעטנז אש"ב הואיל ואינו אלא בצמר ופשתים ובשוע וטוי ונוז דוקא וכן שארי לאוין הרבה כיוצא בזה. וגדולה מזו חילקו התוס' ביבמות (ה) בד"ה ואכתי בשם ר"י ע"ש. ולגי' שלפנינו צ"ל שאינו אלא אשגרת לישנא. ומה שהקשה הש"א על גי' דלאו שאין בו מעשה. הלא ריו"ח אמר לקמן לא תיתני מימר דבדיבורו עשה מעשה. נ"ל דאינה קושיא דמ"מ ה"א דאינו נכלל בכלל איש או אשה כי יעשו כו'. כיון דאינו עושה מעשה בידים ממש. ועוד דהרמב"ם לא פסק כריו"ח דבריש הלכות תמורה חשיב גם למימר בלאו שאין בו מעשה. ואפשר דסמיך על סוגיא זו דסתמא דגמרא קרי ליה לאו שאב"מ. ותמיהני על הה"מ בפי"ג מהלכות שכירות שצידד לומר דהרמב"ם כתב כלשון המימרא דחשיב גם למימר אבל באמת ס"ל דהטעם הוא כריו"ח משום דבדבורו בא לכלל מעשה. דהלא בריש הלכות תמורה כתב דמי שהמיר בקרבן ציבור לוקה ואין התמורה קודש. הרי דאף שלא בא לכלל מעשה מ"מ לוקה. ועי' בלח"מ בהל' שכירות שם שהסב כוונת הה"מ לדרך אחר:
+
+
+###### Rashash on Temurah 2b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/2b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/2b:3)
+
+
+**שם עובד כוכבים מהו שימיר.**הבה"ז והצ"ק הקשו אמאי לא נילף תחלת הקדש מסוף הקדש מסמיכה דאינה נוהגת בקרבן עובד כוכבים כמו דילפינן לענין יורש לעיל. ול"נ דלק"מ דבשלמא לענין יורש ילפינן שפיר דכמו דלענין סמיכה אינו נחשב כקרבן שלו לסמוך עליו. כן לענין תמורה אינו כשלו להמיר אבל הכא מה ענין תמורה לסמיכה למילפינהו מהדדי. תדע דהא גם קרבן נשים לא בעי סמיכה. ומדוע לא קאמר הש"ס לעיל דלהכי איצטריך לרבויי נשים לתמורה דסד"א דנילף מסמיכה. ובאמת ממירה אף שאינה סומכת. שוב מצאתי כדברי בתוס' מנחות (צג) בד"ה לפי והנך רואה שנעלמו דבריהם מהמחברים הנזכרים:
+
+
+###### Rashash on Temurah 2b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/2b:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/2b:4)
+
+
+**רש"י ד"ה בכולן רואה אני להחמיר. חוץ מן הנסכים דודאי אין מביאין.**לכאורה יל"פ דקאי אף על הנסכים וס"ל כריה"ג במנחות (עג ב) וכלישנא דברייתא דאזרח אתיא כר"ע. והגמרא דלא מפרשא כאן טעמיה בזה משום דסמכה בזה אהא דכבר מבואר שם בברייתא טעמא דריה"ג:
+
+
+###### Rashash on Temurah 2b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/2b:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/2b:5)
+
+
+**רש"י ד"ה המקדיש מוסיף חומש. אבל מימר אינו מוסיף חומש. ע"א כו'.**אבל ביומא ובזבחים פי' דאתי לאפוקי המתכפר:
+
+
+###### Rashash on Temurah 2b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/2b:6](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/2b:6)
+
+
+**תד"ה ואין**(בסופו). נראה למחוק תיבות משל ציבור:
+
+
+###### Rashash on Temurah 2b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/2b:7](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/2b:7)
+
+
+**תד"ה קתני**(בסופו). היאך אפשר לעשות שליח. כ"ה גירסת הצ"ק. וק"ל דאם מטעם שליחות קאתינן עלה א"כ מצינו שליח לדבר עבירה. ומדוע לא הביא הש"ס בקדושין (מג) גם תמורה בין אותן שמביא שם דמצינו בהם שליח לד"ע:
+
+
+
+## Daf 3a
+
+###### Rashash on Temurah 3a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/3a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/3a:1)
+
+
+**רש"י ד"ה ה"ג מ"ט לה' כתיב בהו. דכתיב איש איש מבית ישראל כו' שנאמר אשר יקריבו לה'.**כצ"ל:
+
+
+###### Rashash on Temurah 3a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/3a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/3a:2)
+
+
+**רש"י ד"ה ר"י היא. דקא משתעי לקמן בהא מילתא.**נ"פ דיכוון להא דלקמן (ד ב) ל"י ממנו עד בקר כו' מכלל דר"י סבר (לאו שאב"מ) לוקין עליו ע"ש. והגרי"פ במחכ"ת ל"ד כלל שהשיא כוונתו להא דמייתא הגמרא בסמוך א"ר אידי בר אבין כו'. וזה היפך הדרוש כי שם אדרבה אמר דבעלמא לשאב"מ אין לוקין עליו חוץ כו' ומימר ומטעם דבדיבורו עושה מעשה כדלקמן ועי' בתד"ה והרי בסופו. ובמכות פריך דר"י אדר"י ומשני הא דידיה הא דרביה:
+
+
+###### Rashash on Temurah 3a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/3a:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/3a:3)
+
+
+**תד"ה והרי. ולימא או נשבע או מימר כו'.**תימה הכי מימר ילפינן מקרא בפרט דלקי. אין זה אלא לאחר דיליף על כל לאו שאב"מ דלוקין עליו. ממילא גם על מימר לוקין. ונ"ל למחוק או מימר:
+
+
+
+## Daf 3b
+
+###### Rashash on Temurah 3b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/3b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/3b:1)
+
+
+**גמרא ריו"ח ורשב"ל אמרי אינו לוקה.**כצ"ל:
+
+
+###### Rashash on Temurah 3b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/3b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/3b:2)
+
+
+**שם אימר הנ"מ לפייס א"ח אבל מילקא כו'.**וכל הענין. לכאורה למאי דמסקינן חד ובשמו תשבע אתא לשבועת אמת דהיינו שבועת השומרין וכדומה. וחד לקיים את המצוה. והנה בריש המקרא דובשמו תשבע בתרוויהון כתיב את ה' אלהיך תירא כו' ואמרינן במ"ר ר"פ מטות וכן בתנחומא שם והביאם רש"י בפיה"ת על הנך קראי "אם יש בך כל המדות האלו אתה רשאי להשבע כו'". וא"כ קשה הא דלא פסלינן שבועות פ"ז אלא החשוד עה"ש. ומצאתי להרמב"ן בפיה"ת בפ' ואתחנן שהעתיק הגמרא שלפנינו בגירסא אחרת. ובשמו תשבע דא"ר ל"ל אא"ע לשבועת הדיינין דנ"ל משבועת ה' תהיה בין שניהם תנ"ע לשבועה דעלמא דשריין ואא"ע לשבועה דמצוה דנ"ל מן ובו תדבק תנ"ע לשבועה דחול. וכן הביא הילקוט שם. והשתא לפי גירסא זו א"ש דלא בעינן כל התנאים הללו אלא לשבועה דמצוה או דחול אבל לשבועת הדיינין דקי"ל מן שבועת ה' כו' לא בעינן התנאים האלו. אמנם לכאורה גי' זו תמוה דמאי קאמר אא"ע לשבועת הדיינין דנ"ל כו' הא משם לא מוכח דשריא כדפריך אימר הנ"מ לפייס א"ח כו'. אבל לגירסת הילקוט א"ש דכן איתא שם אבל אשבועה אפילו מילקא לילקי. ויל"פ דהכי פריך אימר הנ"מ (דשריא שבועת אמת) לפייס א"ח (היכא דבאה לפייס כגון שבועת הדיינין) אבל אשבועה (דעלמא אפילו על אמת) אפילו מילקא לילקי כו'. שוב ראיתי להרמב"ן בס' המצות מ"ע ז' שפירש כן כמש"כ. ובגירסת הילקוט שהבאתי מיושב היטב פירוש זה מכל הגמגומים שכ"ע במג"א שם. וראיתי במג"א שם עוד שגגה שכ' שהילקוט הביא שתי הגירסאות. ול"ד דע"ש שלא הביא רק גירסא זו הנכונה שהבאתי בשם הרמב"ן בפיה"ת. אלא דבזה הביא ב' נוסחאות או דילפינן מדכתיב ובשמו תשבע ב"פ. או מן ובשמו תשבע ומן ובו תדבק כגירסת הרמב"ן שם:
+
+
+###### Rashash on Temurah 3b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/3b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/3b:3)
+
+
+**רש"י ד"ה וזו היא שבועת ביטוי. אבל שבועת העדות כו' מביא כו' אשם.**אינו מדוייק דשבועת העדות היא ג"כ בעולה ויורד:
+
+
+###### Rashash on Temurah 3b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/3b:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/3b:4)
+
+
+**רש"י ד"ה ומאי שנא. דממעט אוכל ולא אכל מקרבן.**וכ"ה בתוספות. ותמוה דבזה ליכא פלוגתא דלכ"ע חייב בקרבן וזהו להיטיב דכתיב בקרא. וכוונת הגמרא בלמעוטי אוכל ולא אכל היינו ממלקות. וכן איתא בשבועות שם להדיא בגמרא וצע"ג:
+
+
+
+## Daf 4a
+
+###### Rashash on Temurah 4a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/4a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/4a:1)
+
+
+**רש"י ד"ה ל"ת חרש. דמשמע בין קללה סתם כו'.**בשבועות (לה) במשנה איתא המקלל עצמו וחבירו בכולן עובר בל"ת. משמע דבלא שם או כינוי אינו עובר. ובאמת ל"י מהיכן למדנו דבעינן דוקא שם או כינוי דאי מן בנקבו שם כדכ' לקמן א"כ ניבעי שם המיוחד דוקא לרבנן דר"מ כמו באביו ושם (לו) אמר ר' ינאי על הא דהמקלל עצמו כו' ודברי הכל ע"ש בפרש"י. ועי' מהרש"א שם בסוף הפרק:
+
+
+###### Rashash on Temurah 4a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/4a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/4a:2)
+
+
+**רש"י ד"ה ע"א. וילפינן בסנהדרין כו' ג"ש כו'.**שם לא נזכר ג"ש אלא בנין אב וע"ש בתד"ה מאי ל"ת (שבע"ב). ומש"כ וכי היכי דהתם ליכא אלא מלקות גרידתא כו' ל"י מאין פסיקא ליה דהתם סגי במלקות גרידתא:
+
+
+###### Rashash on Temurah 4a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/4a:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/4a:3)
+
+
+**רש"י ד"ה ואיב"א. כלומר דהאי קרא כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 4a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/4a:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/4a:4)
+
+
+**רש"י ד"ה זו תרומה. וקאמר רחמנא לא תאחר כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 4a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/4a:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/4a:5)
+
+
+**תד"ה מלאתך. דלכך קרי לתרומה דמע לפי שנוהגת בלח.**כצ"ל. ונראה דלפ"ז מה שנאמר בעלמא מדומע פירושו שעושה את החולין דמע דהיינו תרומה [אח"ז ראיתי שקדמני בזה התוי"ט בפ"ג דתרומות מ"א בשם הרמב"ם] :
+
+
+###### Rashash on Temurah 4a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/4a:6](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/4a:6)
+
+
+**תד"ה היו. עשרה מן השניה כו'.**לפי מאי דמסקי דכל המאה של הראשונה מתוקנים הל"ל כאן אחד עשר וחלק תשיעי:
+
+
+###### Rashash on Temurah 4a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/4a:7](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/4a:7)
+
+
+**בא"ד ובדמאי מיירי כו'.**תמוה דא"כ איך אמר ר"א עלה דלוקה התנן בפ"א דדמאי מ"ד אם הקדים מע"ש לראשון אין בכך כלום. ועי' בתוי"ט במשנה שלפנינו:
+
+
+###### Rashash on Temurah 4a:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/4a:8](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/4a:8)
+
+
+**תד"ה ואיתמר. ויל"פ על הראשונה אם קבע מעשרותיה בתוכה.**כ"נ דצ"ל ור"ל בעצמה לא בחברתה. ואע"פ שהקדים מע"ש שלה קודם למע"ר דחברתה אין בכך כלום וכמש"כ הצ"ק בפירש"י ע"ש:
+
+
+
+## Daf 4b
+
+###### Rashash on Temurah 4b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/4b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/4b:1)
+
+
+**רש"י ד"ה ל"א. משום דהוי מימר לאו ששוה בכל כו'.**גם מלאתך ודמעך ל"ת הוי לאו השוה בכל. וע"כ כוונתו כמש"כ הרמב"ם בפי' ובחבורו ריש הלכות תמורה שהלאו דתמורה כולל הכל. והעשה והיה הוא ותמורתו יהיה קודש אינו בציבור ובשותפין:
+
+
+###### Rashash on Temurah 4b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/4b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/4b:2)
+
+
+**בא"ד שאם ישראל גרשה הדר מצי כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 4b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/4b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/4b:3)
+
+
+**תד"ה וכל. דלא סמיך מכל מתנותיכם תרימו.**כצ"ל וכן לקמן ובדבור הסמוך:
+
+
+###### Rashash on Temurah 4b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/4b:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/4b:4)
+
+
+**בסה"ד אבל מכל מתנותיכם אפשר לקיימו אפילו אם לא עבר הלאו.**אולי יכוונו באם הקדים קודם ראיית פני הבית דאז לא עבר כיון דא"ח עדיין מה"ת לתרום עי' תוספות עירובין (לא ב) ד"ה ומה. או דר"ל דהאי מכל מתנותיכם כתיב גבי לוים והם לא עשו האיסור רק הבעה"ב המפריש:
+
+
+
+## Daf 5a
+
+###### Rashash on Temurah 5a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/5a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/5a:1)
+
+
+**תד"ה מיתיבי**(בסופו). ומש"ה פריך לרבא אף דלא מהני לילקי. כ"נ דצ"ל:
+
+
+
+## Daf 5b
+
+###### Rashash on Temurah 5b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/5b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/5b:1)
+
+
+**גמרא ורבא התם כו' וס"ל כריו"נ.**כה"ג בב"מ (צה ב):
+
+
+###### Rashash on Temurah 5b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/5b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/5b:2)
+
+
+**שם א"ל רבא ש"ה דא"ק מכל מתנותיכם תרימו וגו'.**כצ"ל:
+
+
+###### Rashash on Temurah 5b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/5b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/5b:3)
+
+
+**שם ש"ה דא"ק ולנדר לא ירצה.**מפרש"י משמע דגריס דא"ק כי לא לרצון ועי' בפירושו לקמן בדף הסמוך בד"ה מהיכא:
+
+
+###### Rashash on Temurah 5b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/5b:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/5b:4)
+
+
+**רש"י ד"ה בבכור נאמר ל"ת. כגון גיזה ועבודה.**זה אסור אפילו בשאר פהמו"ק שיש להם פדיון. וה"ל לפרש לענין לשוחטו באיטלז ולשקלו בליטרא. וכן פירש בעצמו בב"ק (יג) וכ"פ התוספות לקמן (ח):
+
+
+###### Rashash on Temurah 5b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/5b:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/5b:5)
+
+
+**רש"י ד"ה אבל נמכר הוא. שאם נפל בו מום כו'.**בריש מע"ש איתא דמוכרין אותו תמים חי. והביאה הגמרא לקמן (ז ב). וכן בב"ק איתא בברייתא זו ונמכר תם חי. ואולי משום דר"נ אמר לקמן (שם) דבזמן הבית א"מ אותו תמים חי לכן פירש בבע"מ דנמכר בכל זמן. ומש"כ למוכרו לכהן. אולי משום הא דר"ח לקמן (ח ב) ע"ש ובמש"כ שם ע"ד:
+
+
+###### Rashash on Temurah 5b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/5b:6](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/5b:6)
+
+
+**רש"י ד"ה ואינו נמכר. הואיל ואיתקוש אהדדי מעשר ובכור כדלקמן.**לקמן איתא דלמדין מהדדי בגז"ש דעברה עברה:
+
+
+###### Rashash on Temurah 5b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/5b:7](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/5b:7)
+
+
+**רש"י ד"ה מכל מתנותיכם. את תרומת ה' ת"ג.**בעלמא פירש דמרבויי דכל משמע אפילו ת"ג:
+
+
+
+## Daf 6a
+
+###### Rashash on Temurah 6a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/6a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/6a:1)
+
+
+**גמרא**(ברה"ע) ותניא המקדיש תמימין לבד"ה כו'. כ"נ לכאורה להגיה. אבל י"ל דכוון הש"ס למ"ז דפ"ד דשקלים לדברי ר"א ע"ש ועמש"כ בגיטין (פה) בס"ד:
+
+
+###### Rashash on Temurah 6a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/6a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/6a:2)
+
+
+**רש"י ד"ה ש"ה דכתיב השב תשיב לו.**כצ"ל וכן לקמן:
+
+
+
+## Daf 6b
+
+###### Rashash on Temurah 6b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/6b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/6b:1)
+
+
+**רש"י ד"ה בשינוי קונה. ולרבא לא קניא אלא היכא כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 6b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/6b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/6b:2)
+
+
+**גמרא**(בסה"ע) רבא אמר ל"נ כו'. תירוץ כזה אמר רבינא ביומא (סג ב) על מחוסר זמן ורבא תירץ שם בע"א. לכן נראה לגרוס גם כאן רבינא:
+
+
+
+## Daf 7a
+
+###### Rashash on Temurah 7a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/7a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/7a:1)
+
+
+**גמרא ואלא ל"ת דמעוך כו' מפקינן לבמת יחיד.**עמש"כ בזה בס"ד בשלהי זבחים:
+
+
+###### Rashash on Temurah 7a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/7a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/7a:2)
+
+
+**רש"י ד"ה רבא אמר כגון שהומם. דכרעי' דראשון הוא.**ר"ל והראשון כבר הוברר ע"י גורל לכן לא נצרך השני הגרלה לכ"ע ועי' לשונו ביומא. ועמש"כ בר"ה (ה ב) בק"א להט"א בד"ה כגון שעברו עליו ב' רגלים והומם:
+
+
+###### Rashash on Temurah 7a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/7a:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/7a:3)
+
+
+**רש"י ד"ה מתקיף לה רשב"ל. שמא כו' דילקה משום לא תקדישו כו'.**סיגנון הסוגיא מוכח כפירושו דקאי אהקדיש ודלא כפי' התוס' דקאי אהקטרה וזריקה מדמסיק כיון דשביק תמים ואקדיש בע"מ. וכן רבא אמר השתא כו' אפי' מקדיש כו'. אלא דק"ל לפי' זה מאי פריך ליה ריו"ח מהא דעובר משום ה' שמות דילמא התם מיירי במקדיש בע"מ שהי' תם מעיקרא ולא מיירי במימר. ונ"ל דדעת ריו"ח הוא דמימר בע"מ אינו עובר על בל תקדישו נוסף על לאו דלא ימיר. והשתא הוכחתו יפה דמכדי אלאוי קמהדרי ואי בתמורה נמי איתא הלאו דבל תקדישו (ומדוייק היטב מילת נמי) ששה הויין:
+
+
+###### Rashash on Temurah 7a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/7a:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/7a:4)
+
+
+**רש"י ד"ה שמא. ותפסה בתמורת בהמת קודש תמימה.**וכ"כ שם בפי' על המשנה. והוא לשיטתו לקמן (כז) דרע ברע לא עביד תמורה וע"ש בתוס':
+
+
+###### Rashash on Temurah 7a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/7a:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/7a:5)
+
+
+**תד"ה אפילו. וה"ה מקדיש לדמי עולה.**עי' בכ"מ ריש הל' איסורי מזבח. ומש"כ דהמקדיש נקבה לעולה דלקי. ל"י מנ"ל הא. די"ל דאע"ג דא"ר לעולה כיון דראוי' לשום קרבן לא בזיא מילתא ולא לקי. וכן רבא ל"א אלא מקדיש ליה לדמי נסכים דמשמע בע"מ דוקא אבל תמים לא אע"ג דלא חזי הוא בעצמו לנסכים:
+
+
+
+## Daf 7b
+
+###### Rashash on Temurah 7b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/7b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/7b:1)
+
+
+**רש"י ד"ה על לאו שבכללות. ושחיטה מלא תקריבו אלה כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 7b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/7b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/7b:2)
+
+
+**גמרא**(בסה"ע) דבזה"ז נמי מוכרין אותו תמים חי. עמש"כ בס"ד בפ"א דמע"ש מ"ב:
+
+
+###### Rashash on Temurah 7b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/7b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/7b:3)
+
+
+**רש"י ד"ה לא בחטאת. משעת הקטרת אימורין ואילך זוכה בבשר.**כצ"ל:
+
+
+###### Rashash on Temurah 7b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/7b:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/7b:4)
+
+
+**בסה"ע כלומר מאי דקתני בברייתא.**עמש"כ בס"ד בנדרים (כו). ויתורץ ג"כ תמיהת רש"ל בעירובין (לו) על רש"י ותוספות:
+
+
+
+## Daf 8a
+
+###### Rashash on Temurah 8a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/8a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/8a:1)
+
+
+**גמרא והני הוא דלא מזבני כו'.**כ"ה גי' הצ"ק כמו שהוא בגליון. ונראה דר"ל דהמה אינם יכולים למוכרו לכהן אחר שיקריבנו כיון דהם בעצמן א"י להקריבו וכמו שהביא רש"י שם מגמרא דב"ק ודלא כהתוס' שם:
+
+
+###### Rashash on Temurah 8a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/8a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/8a:2)
+
+
+**רש"י ד"ה מ"ש דידן. והשתא לא אסיק אדעתיה סיפא כו'.**ביבמות שם במשנה ליתא להאי סיומא ויאכלו במומן ויתכן דרב משרשיא הוסיף זה מעצמו ליתר ביאור וכמו שהביא הלשון משחררין אע"ג דבמשנה הגי' ושחררו ורבא הוא דתיקנה אימא כו' ומשחררין. ועמש"כ בגיטין (מב ב) בס"ד:
+
+
+###### Rashash on Temurah 8a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/8a:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/8a:3)
+
+
+**רש"י ד"ה לא אמר ב"ע. שהפקידו כהן אצל כו' ונשבע והודה כו'.**כצ"ל:
+
+
+
+## Daf 8b
+
+###### Rashash on Temurah 8b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/8b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/8b:1)
+
+
+**רש"י ד"ה ה"ט דישראל אסור. לקנות בכור תם כו' משום דסתם בכור תם כו'.**משמע דבע"מ מותר למוכרו לישראל. וקשה לפ"ז מאי קאמר מר זוטרא לקמן ל"ס לכו הא דאר"ה כו' דלמא במומי' זבני ליה וברא"ש בר"פ כל פה"מ גריס להדיא דא"ל שמכר לנו פלוני כהן במומו. ועוד דגם בע"מ נמכר בזול לפי שא"נ באיטלז וא"נ בליטרא כדאיתא בבכורות שם. וכן פי' בעצמו לקמי' דאסור לקנות בשר בכור מכהן. וכ"מ מפירושו בחולין (מד ב) במש"כ ר"ח כהן הוה וכמש"כ המהרש"א שם בכוונתו. אלא דל"ד במש"כ דאיכא למ"ד דאסור כו' דטפי הל"ל דר"ח עצמו אוסר. ועמש"כ (לעיל ה ב) בדבריו:
+
+
+###### Rashash on Temurah 8b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/8b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/8b:2)
+
+
+**תד"ה דלמא. ופריך והאר"י אין רואין כו'.**יתכן שהי' לפניהם הגירסא כאן רב יהודה כדאיתא בבכורות וכמו שהעיר הגרי"פ לכן לחנם מחקו בד"ח תיבת יהודה:
+
+
+
+## Daf 9a
+
+###### Rashash on Temurah 9a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/9a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/9a:1)
+
+
+**גמרא ולכתוב לא יחליפנו כו' אי כתב הכי ה"א תצא זו ותכנס זו כו'.**משמע דלשון חליפין מישתמע הכי. וק"ל מלקמן (כו ב) קדשי ב"ה אמר חליפת זו כו' לא אמר כלום תחת זו כו' דבריו קיימין. ואמר אביי שם דתחת מישתמע לישנא דאיתפוסי ולישנא דאחולי כו' גבי קדשי בד"ה כו' לישנא דאחולי הוא וא"כ לישנא דחליפין אמאי לא"כ מי גרע מלישנא דתחת וצ"ע:
+
+
+###### Rashash on Temurah 9a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/9a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/9a:2)
+
+
+**שם מי מתפיס בדבר שאינו שלו.**ק"ל אלמה לא הא תנן ברפ"ד דנזיר הריני נזיר ושמע חבירו ואמר ואני ואני כולם נזירים. ומוכח שם בגמרא דהוא מטעם התפסה ועי' בסוגיא דשבועות רפ"ג בפלוגתת אביי ורבא ובר"ן שם באורך. ולכאורה י"ל דכיון דלישנא דחליפין הוא תצא זו ותכנס זו. ובכזה אינו יכול לעשות בשל חבירו כדמוכח במרובה בסוגיא דצנועין. אבל ז"א לפי חילוקי התוס' שם בד"ה הוא דאמר כצנועין. וזה י"ל קצת. אבל קשה דאם לשון חליפין אינו משמע אלא שתצא זו ותכנס זו ואפ"ה אמר רחמנא דנתפסת קדושת תמורה בלשון זה וכדתנן לקמן (כו ב). אלמה תנן התם מחוללת אין זו תמורה וצ"ע:
+
+
+###### Rashash on Temurah 9a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/9a:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/9a:3)
+
+
+**שם ת"כ דריו"ח כשם שא"מ שנים באחד כך כו'.**כצ"ל:
+
+
+
+## Daf 9b
+
+###### Rashash on Temurah 9b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/9b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/9b:1)
+
+
+**גמרא וניתק לעולה מהו שימיר בו.**פרש"י סתמי' לשם עולת נדבת ציבור קאי. תמוה דלקמן בס"פ אמרינן דלמ"ד דלנדבת ציבור אזלי פשיטא דאינו עושה תמורה. ובעיא דר"א הוא אליבא דר' אלעזר דס"ל דלנדבת יחיד אזלי ועושה תמורה ע"ש:
+
+
+###### Rashash on Temurah 9b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/9b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/9b:2)
+
+
+**שם משום דבההיא קדושה הא איתמר בה ח"ז.**הצ"ק הגיה הא אימר. ולפמש"כ הרמב"ם בפי' ריש תרומות בשם תרומה ע"ש ובמש"כ שם בס"ד. א"ש לנכון גי' זו שלפנינו:
+
+
+###### Rashash on Temurah 9b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/9b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/9b:3)
+
+
+**שם אמר אביי כו' אי גוף אחר באותה קדושה כו'.**כצ"ל בריש וכן לקמן ה' פעמים וברש"י פעם א':
+
+
+###### Rashash on Temurah 9b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/9b:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/9b:4)
+
+
+**שם והוסיף עליו חומש וחיללו על חבירו.**כצ"ל או דצ"ל על אחר:
+
+
+###### Rashash on Temurah 9b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/9b:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/9b:5)
+
+
+**שם**(בסה"ע) מי אמרי' באשם קמא הוא דמוסיף (ר"ל אע"ג דנשתנה לקדושה אחרת כגון באבד כו') אבל בגוף אחר כו' אין מוסיף חומש (בדף הסמוך) א"ד כל אותה קדושה מוסיף חומש. כצ"ל. ולהלן צ"ל כגי' שלפנינו כהצ"ק:
+
+
+###### Rashash on Temurah 9b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/9b:6](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/9b:6)
+
+
+**רש"י ד"ה ואת"ל. משום דבההיא קדושה כו'.**רש"ק מח"ז. והוא תמוה:
+
+
+###### Rashash on Temurah 9b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/9b:7](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/9b:7)
+
+
+**רש"י ד"ה אי שני גופין. אבל הכא כו' דהאי חזי למזבח הקדש שני כו'.**ר"ל הקדש שני מחדש. אבל יותר נראה להגיה הקדש ראשון:
+
+
+###### Rashash on Temurah 9b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/9b:8](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/9b:8)
+
+
+**רש"י ד"ה אי שתי קדושות. אלא אבד והפריש אחר כו'.**כצ"ל:
+
+
+
+## Daf 10a
+
+###### Rashash on Temurah 10a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/10a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/10a:1)
+
+
+**גמרא אי לאו דרבי רחמנא מלבד אשר תשיג ידו ה"א כו'.**לכאורה לא יהא רשאי ללות ולהביא קרבנותיו וכדדרשינן בערכין (ל ב) והשיגה ידו שלא ילוה ויגאל. אבל נראה דזה לא איצטריך לאשמעינן דפשיטא כיון דלוה משלו הוא מביא:
+
+
+###### Rashash on Temurah 10a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/10a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/10a:2)
+
+
+**שם מאי הוה עלה.**קשה הא נפשט מהא דא"כ מצינו ציבור ושותפין עושין תמורה. ועי' כה"ג שבת (כב ב) ובתוס' ורא"ש שם:
+
+
+###### Rashash on Temurah 10a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/10a:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/10a:3)
+
+
+**רש"י ד"ה א"ד סוף סוף מכח קמא כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 10a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/10a:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/10a:4)
+
+
+**רש"י ד"ה לענין כפרה. לאשמעינן כו'.**כצ"ל תיבה אחת:
+
+
+###### Rashash on Temurah 10a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/10a:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/10a:5)
+
+
+**תד"ה ואזדא**(בסופו בע"ב). ומייתי ליה בבכורות (יד) מקרא. בעניותי לא מצאתי שם מפורש. ונ"ל דצ"ל ומייתי ליה לקמן בבכור מקרא. וכוונתם על הא דדרשינן לקמן (כה) יכול לא יקדישנו בבטן ת"ל אשר יבוכר כו':
+
+
+
+## Daf 10b
+
+###### Rashash on Temurah 10b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/10b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/10b:1)
+
+
+**גמרא אמר לי' הב"ע באבר כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 10b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/10b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/10b:2)
+
+
+**רש"י ד"ה איתיבי'. וקתני לא שלמין בהן.**וכ"פ התוס'. לכאורה יל"פ הקושיא מרישא מן לא אברים בעוברים:
+
+
+###### Rashash on Temurah 10b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/10b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/10b:3)
+
+
+**רש"י ד"ה אי ר' יהודה. דהאי תנא הא סברא א"ל מדקמהדר לי' ר' יוסי כו'.**עמש"כ בחולין (סט ב) דלא מקשי כאן מהא דר' יוסי דע"ז משני שם דטעמא דנפשי' קאמר. אלא דמקשה מלישנא דת"ק גופא מדקאמר אין ממירין כו' מכלל דמיקדש קדשי וכ"מ בתוס' לקמן ד"ה הא מני בסופו. וא"ת א"כ מדוע לא מקשה לב"פ מדקאמר אין ממירין עוברין מכלל דמיקדש קדשי. י"ל דכמו דשני לעיל לקדושת דמים ה"נ לק"ד:
+
+
+###### Rashash on Temurah 10b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/10b:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/10b:4)
+
+
+**בא"ד ור"ש הוא דהוי ב"ז כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 10b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/10b:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/10b:5)
+
+
+**רש"י ד"ה כגון. ובתמורה לא דדרשינן כו'.**כצ"ל:
+
+
+
+## Daf 11a
+
+###### Rashash on Temurah 11a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11a:1)
+
+
+**גמרא השוחט את החטאת ומצא בה בן ד' כו'.**ברמב"ם פ"ד מהלכות תמורה ה"ו בהגהת מהרי"א מביא גי' בן שמונה חי בגסה כו'. ותמוה דחטאת נקבה ליכא מן הגסה:
+
+
+###### Rashash on Temurah 11a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11a:2)
+
+
+**שם ותניא אידך כו' ונאכלת בכ"מ ונאכלת לעולם.**כצ"ל כדלקמן (כה ב):
+
+
+###### Rashash on Temurah 11a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11a:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11a:3)
+
+
+**שם ל"א אבל כלאים כו' הלין הוא דל"ק כו'.**נראה דגם לל"א זה הקושיא הוא ממקדיש ולד ויצא דרך דופן וכ"מ מפרש"י רק דהוסיף סיומא דברייתא:
+
+
+###### Rashash on Temurah 11a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11a:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11a:4)
+
+
+**רש"י ד"ה ה"ק מקדישין כו'. ודקתני סיפא בהך ברייתא.**הוגה בגליון מתניתין והוא מהצ"ק. ולפמש"כ בנדרים (כו) בס"ד א"ש הגירסא שלפנינו ע"ש:
+
+
+###### Rashash on Temurah 11a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11a:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11a:5)
+
+
+**תד"ה הא מני. מדקמהדר ליה רבי יוסי והלא כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 11a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11a:6](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11a:6)
+
+
+**תד"ה ה"ק. ונראה דמש"ה דחיק רש"י כו'.**ול"נ עוד משום דעל עוברין תני אבל לא ממירין לכן שייך שפיר למיתני גבי אברין וממירין:
+
+
+###### Rashash on Temurah 11a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11a:7](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11a:7)
+
+
+**בא"ד ועוד דבמתניתין גבי חומר כו'.**זה יישב רש"י בעצמו שפיר:
+
+
+###### Rashash on Temurah 11a:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11a:8](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11a:8)
+
+
+**תד"ה השוחט. כגון שעירה.**כצ"ל:
+
+
+
+## Daf 11b
+
+###### Rashash on Temurah 11b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11b:1)
+
+
+**גמרא חוץ מדמי אותו אבר שבה.**כצ"ל:
+
+
+###### Rashash on Temurah 11b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11b:2)
+
+
+**שם רבא סבר לה כר"א.**(נ"ל דר"ל דאסבר לה להא דמודה ר"י כר"א). ור"ש לא סבר לה כר"א. (פירוש לא אסברה להא דמודה ר"י כר"א אלא דוקא באבר שבנטילתו היא מתה מיד) אבל בדינא דר"א כ"ע ל"פ דהוי נבלה מחיים. ובזה מתורץ הצ"ע דהלח"מ ברפט"ו מהלכות מעה"ק על הרמב"ם. וכן ר"ש מצי סבר דטרפה אינה חיה. ונ"ל דהני אמוראי פליגי ג"כ בערכין ודמים דנידונין בכבודן והיינו באבר שהנשמה תלויה בו כדאיתא בערכין (כ) במשנה. והא דאמר שם בגמרא זה"כ כו' לאתויי מן הארכובה ולמעלה סתמא כר"ח דכאן. ולכאורה מפני זה ה"ל לפסוק כוותיה. אבל הרמב"ם שם נראה דפוסק כר"ש ולכן לא הביא ג"כ הא דמן הארכובה ולמעלה. ואולי סמך על פשטות לשון המשנה דשם דלא אמרה אלא ראש וכבד דהיינו דבר שמתים מיד בנטילתן:
+
+
+###### Rashash on Temurah 11b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11b:3)
+
+
+**שם בעי רבא הקדיש אבר לדמיו כו'.**ערכין (ה):
+
+
+###### Rashash on Temurah 11b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11b:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11b:4)
+
+
+**שם דתניא לא תגוז בכור צאנך אבל אתה גוזז כו'.**בכורות (ט ב). ולשם כוונו התוספות בד"ה התם והמציין השתבש:
+
+
+###### Rashash on Temurah 11b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11b:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11b:5)
+
+
+**שם ת"ש האומר מה שבמעיה כו'.**לעיל (י ב):
+
+
+###### Rashash on Temurah 11b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11b:6](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11b:6)
+
+
+**רש"י ד"ה באומר הרי עלי כו'. ל"א ירושלמי כו' הא מייתי בהמה שאין כל הגוף שלו.**כצ"ל:
+
+
+###### Rashash on Temurah 11b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11b:7](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11b:7)
+
+
+**שם כגון דאמר כזוזא מן הדא בהמה כו' כלומר שוה זוז מבהמה זו כו'.**לכאורה זה הוה כמקדיש דבר שאינו שלו:
+
+
+###### Rashash on Temurah 11b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11b:8](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11b:8)
+
+
+**רש"י ד"ה בעוף מהו. לרבי יוסי קבע"ל כו'.**הא דלא פירש אפילו לרבי יהודה ובאבר שהנשמה תלויה בו וכפירוש הרמב"ם בחבורו שם. הוא משום דדין זה לא מוכח מקרא (לרבי יהודה) דכל אשר יתן כו' דכתיב ביה בהמה. אלא דיליף מערכין ודמים עיין בסוגיא דערכין (ד' ב. ה א) א"כ פשיטא דה"ה בעוף וע"ש בלח"מ ובפ"ה מהלכות ערכין הי"ד:
+
+
+###### Rashash on Temurah 11b:9
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11b:9](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11b:9)
+
+
+**רש"י ד"ה הקדיש אבר לדמיו. מי אמר לרבי יוסי מדאקדיש חד אבר כו' ומיגו כו'.**הנה היפך המיגות מסדר הגמרא ועמש"כ בזה בערכין שם ובמש"כ הלח"מ שם בהלכות ערכין:
+
+
+###### Rashash on Temurah 11b:10
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11b:10](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/11b:10)
+
+
+**רש"י ד"ה היא שלמים וולדה חולין. דלדה"כ אין העובר קדוש.**הן למ"ד דעובר ירך אמו הוא ואם שיירו אינו משוייר. קדוש העובר מיד מכח האם עי' בתוספות לעיל ד"ה ואזדא ריו"ח לטעמיה. אלא דר"ל אפילו למ"ד וולדות קדשים ממעי אמן הן קדושין. ועי' בהגהות מוהר"ב רנשבורג:
+
+
+
+## Daf 12a
+
+###### Rashash on Temurah 12a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/12a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/12a:1)
+
+
+**במשנה ואין מי חטאת נעשין מ"ח כו' ואין בה"פ עושה ב"פ.**כצ"ל:
+
+
+###### Rashash on Temurah 12a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/12a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/12a:2)
+
+
+**גמרא ארחב"א אריו"ח ראב"י היא כו'.**וקיים דבריו הרע"ב בפי' הא' וסיים כ"נ פי' משנה זו וכ"פ במס' תרומות כו'. ותמיהני כיון דהגמרא דחי ליה מפני מימרא דרבין אריו"ח מאן ספין כו' לקיימו:
+
+
+###### Rashash on Temurah 12a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/12a:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/12a:3)
+
+
+**תד"ה אין המדומע. ואם יש בשניה שיעור כדי לבטל כו'.**מלשון זה משמע דהחולין שבמדומע לא מצטרפי לבטלו וכדעת הרמב"ם שהבאתי שם בתרומות ודלא כפרש"י:
+
+
+###### Rashash on Temurah 12a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/12a:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/12a:4)
+
+
+**תד"ה ואין המחומץ. לכן נל"פ כגון כזית שאור כו'.**כצ"ל:
+
+
+
+## Daf 12b
+
+###### Rashash on Temurah 12b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/12b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/12b:1)
+
+
+**רש"י ד"ה מטהרת ברבייה. דאין השאובין פוסלין כו' אלא כו' כ' סאין.**התוי"ט בפ"ה דתרומות מ"ו הביא את הב"י שכ' בשם רש"י דנזיר דבעינן כשרים כ' סאה ורביעית (כצ"ל). ובמחכ"ת ל"ד דהרי מסיק שם דבטלוה והעמידו על כ"א סאה. וע"ז סובב כוונת הב"י ע"ש:
+
+
+###### Rashash on Temurah 12b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/12b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/12b:2)
+
+
+**רש"י ד"ה אלא הא כו'. לא ר' אליעזר כו'.**כצ"ל בי':
+
+
+###### Rashash on Temurah 12b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/12b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/12b:3)
+
+
+**רש"י ד"ה אלא לפ"ח כלים. ויוסף ב"ח היא.**הס"ד ומתחיל דבור שנפלו למקוה:
+
+
+###### Rashash on Temurah 12b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/12b:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/12b:4)
+
+
+**תד"ה אלא אר"פ**(שבע"א). ור"י השיב כו' אבל אם רובן שאובין אפי' אם ירדו אח"כ מ"ס כו'. כצ"ל:
+
+
+###### Rashash on Temurah 12b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/12b:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/12b:5)
+
+
+**בא"ד דבכ"מ בהש"ס מצינו כן דמעיקרא כו'.**גדולה מזו תמצא בשבועות (לז) לפי' קמא דבתד"ה מאי ע"ש:
+
+
+###### Rashash on Temurah 12b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/12b:6](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/12b:6)
+
+
+**בא"ד אבל ע"י רבייה והמשכה כשר לכ"ע שאם יש כו' מותר למלאות בכתף כו' עד שיתמלאו וההיא דפ"ד כו'.**כצ"ל ור"ל ולא תקשה משם דמשמע דבעינן שיתערבו קודם שיגיעו למקוה וע"ז תירצו ונראה דקתני שנתערבו כו'. וכ"נ שהבינם התוי"ט במקואות שם:
+
+
+
+## Daf 13a
+
+###### Rashash on Temurah 13a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/13a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/13a:1)
+
+
+**רש"י ד"ה שלשה שדות. ומש"ה עושה מלא מענה לכל צד דשמא לא' לב' ראשיה כו'.**הר"ש בפ' י"ז דאהלות הקשה עליו דאכתי ס"ס הוא כו' והביאו התוי"ט כאן ע"ש. ולעד"נ דלק"מ דזה הכל נקרא ס' אחד אם נתגלגל עצם עד כאן או לא. ודמיא להא דכ' התוס' בכתובות (ט) בד"ה ואב"א דשם אונס חד הוא. ועיין באחרונים בכללי ס"ס. ולכאורה הייתי רוצה לתרץ בסברת התוס' בנדה (כז) ד"ה חומר ע"ש הבאתיה בר"ה (כט) ועמש"כ שם ובכתובות ספ"ב:
+
+
+###### Rashash on Temurah 13a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/13a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/13a:2)
+
+
+**רש"י ד"ה לרבות שוגג. והמיר לבן דגבי קדשים כו'.**כצ"ל ומלת זו למחוק:
+
+
+###### Rashash on Temurah 13a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/13a:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/13a:3)
+
+
+**תד"ה שלש. אבל מה שפרש"י כו' דפי' כו' הן בה"פ דהעפר מטמאן.**כצ"ל:
+
+
+###### Rashash on Temurah 13a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/13a:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/13a:4)
+
+
+**במשנה הציבור והשותפין א"ע תמורה כו'.**ור"ש אומר בלשון אחר יצאו קרבנות ציבור. וכ' התוי"ט דלדינא אין ביניהם מחלוקת וע"ש דלשונו מגומגם והכי הל"ל דגם לת"ק העיקר תלוי בבעל הקרבן אם הוא יחיד או צבור ושותפין. דלא ימיר היינו בעה"ק וקאמר בל"י ממילא משמע דהוא יחידי:
+
+
+###### Rashash on Temurah 13a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/13a:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/13a:5)
+
+
+**רש"י ד"ה אי קרבן. דדריש לעיל מהא מילתא כו'.**כצ"ל:
+
+
+
+## Daf 13b
+
+###### Rashash on Temurah 13b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/13b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/13b:1)
+
+
+**גמרא מאן שמעת ליה האי סברא ר' אלעזר.**כצ"ל בלא י' וכן בכה"ע וברש"י:
+
+
+###### Rashash on Temurah 13b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/13b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/13b:2)
+
+
+**רש"י ד"ה ל"א. תמורת שמו שא"ח אלא ע"ד הראוי סברא היא.**כצ"ל:
+
+
+###### Rashash on Temurah 13b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/13b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/13b:3)
+
+
+**רש"י ד"ה לנדבת ציבור אזלו. לשופרות.**כצ"ל:
+
+
+
+## Daf 14a
+
+###### Rashash on Temurah 14a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14a:1)
+
+
+**במשנה שקה"צ דוחין כו' ואת הטומאה.**פי' הרמב"ם (והרע"ב אחריו) והוא שיהיו רוב הכהנים טמאים. ול"י מנ"ל זה. עי' ביומא (ו ב) פלוגתת ר"נ ור"ש בטומאה דחויה או הותרה והנ"מ שביניהם ולא נזכר שם רוב. ולא אשכחן רוב אלא בקהל ולענין פסח בפסחים (עט) במשנה נטמא הקהל או רובו או שהיו הכהנים טמאים. ומדל"ק או רובן כדאמר בקהל משמע דבהם לא תלי הדבר ברוב. (ודע דמשמע לי דבעבודת הפסחים כל המשמרות שוות. ובשלהי סוכה דתנן בג"פ בשנה היו כה"מ שוות כו' ופרש"י בג' רגלים. י"ל דעה"פ נכלל ברגל שלו. או דלא חשיב רק אותן שיש בהן הנייה לכהנים וכפרש"י שם ובפסח אין להם הנאה של כלום. אך אמר שם ושאר ק"צ ואמרינן בגמרא לאתויי פהע"ד ש"צ כו' והרי בהם ג"כ אין לכהנים כלום). ובפי' הרמב"ם בפ"ז דפסחים במשנת ה"ד באים בטומאה כ' ג"כ כשנטמאו רוב הכהנים. והוסיף ג"כ או כשנטמא רוב הקהל. וזה תמוה ביותר דמה לי טומאת קהל בקרבנות ציבור. הלא גם יחיד טמא משלח קרבנותיו. ובחבורו פ"ד מהלכות ביאהמ"ק הי"ד כ' אם הי' רוב הכהנים נכנסים שם בירושלים כו' ע"ש. ול"מ מקור למה שתלה בירושלים. כי לענין פהע"ד ש"צ אמרינן בהוריות (ג) דהולכין אחר רוב יושבי א"י. ולענין פסח אמרינן בפסחים (צד ב) אחר רוב העומדין בעזרה. ובחבורו פ"ז מהלכות ק"פ הל"ו כ' משערין בכל הנכנסין לעזרה ועד שהן מבחוץ קודם שתכנס כת הראשונה כו' וצ"ע בכ"ז:
+
+
+###### Rashash on Temurah 14a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14a:2)
+
+
+**רש"י ד"ה קה"י חייבין באחריותן. כלומר יש מהן כו'.**ועי' בתוי"ט ביאור כוונתו. ולפ"ז קשה מאי דשקיל וטרי הגמרא בהא דעושין תמורה. נימא דיש מהן תני וכן בהא דמקשה בגמרא על בבא דנוהגות בזו"נ נימא דיש מהן קתני והיינו בשלמים וכדמסיק בואב"א. וצ"ל דכ"ז אינו אלא משום יגדיל תורה ויאדיר. ותדע דרישא משני כי קתני בבהמה קתני. ובמציעתא משני האיכא עולת העוף:
+
+
+###### Rashash on Temurah 14a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14a:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14a:3)
+
+
+**בא"ד כגון קרבן עולת יולדת.**הא דלא נקיט גם חטאתה משום דהיא באה מן העוף אף בעשירה. והגמרא תירצה לרישא דבבהמה קתני. ועי"ל משום דתני ובאחריות נסכיהם והחטאת א"ט נסכים. אבל עולת בהמה דיולדת טעונה נסכים כדאיתא במנחות (צא ב). ויותר נראה דתחת וקרבנה שמחק הצ"ק (וכן בהרע"ב ליתא) צ"ל וחטאתה:
+
+
+###### Rashash on Temurah 14a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14a:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14a:4)
+
+
+**רש"י ד"ה שכה"י כשר למוספין. ובלבד שיקדמו כו'.**ועי' ר"ה (ל ב) בתוס' דגם אחר התמיד יכול להקריב המוספין:
+
+
+###### Rashash on Temurah 14a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14a:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14a:5)
+
+
+**בהרע"ב מנחתם ונסכיהם של קרבנות ציבור קרבים אפי' בלילה אפי' למחר.**ל"ד דבקרבנות יחיד נמי דינא הכי. ובזבחים (מד) איתא אדם מביא א"ז היום ונסכים מיכן עד עש"י. וכן לקמן בגמרא דמקשה ונסכים מי קרבי בלילה מדתניא דנסכים ביום ולא משני הא בק"צ והא בק"י:
+
+
+###### Rashash on Temurah 14a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14a:6](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14a:6)
+
+
+**תד"ה וכל. לכך נ"ל דל"מ קרב בלילה אלא מנ"ס.**ובגמרא צריך למחוק בבא דבין ביום ובין בלילה כו'. וכן ליתא לקמן (בע"ב) וכן מח"ז הב"ח ביומא שם:
+
+
+###### Rashash on Temurah 14a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14a:7](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14a:7)
+
+
+**שם ומש"ה ניחא דל"מ הכא דלמא א"ק ליקרב כו'.**לכאורה הני קראי דמייתא הכא מוכחי דקדשי ליקרב:
+
+
+###### Rashash on Temurah 14a:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14a:8](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14a:8)
+
+
+**בסה"ד אלא דמהדר לפרוכי אף מרישא לפי כו'.**כ"נ דצ"ל:
+
+
+
+## Daf 14b
+
+###### Rashash on Temurah 14b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14b:1)
+
+
+**גמרא כתב לך את הדברים האלה.**כצ"ל וכן לקמן:
+
+
+###### Rashash on Temurah 14b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14b:2)
+
+
+**שם אלה תעשו לה' במועדיכם.**מצויין בטעות כי הוא בסוף פנחס:
+
+
+###### Rashash on Temurah 14b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14b:3)
+
+
+**שם לעולותיכם.**כצ"ל בל"ו:
+
+
+###### Rashash on Temurah 14b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14b:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14b:4)
+
+
+**שם הא אינו מדבר אלא במנחת חוטא ובמנחת קנאות.**כצ"ל:
+
+
+###### Rashash on Temurah 14b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14b:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14b:5)
+
+
+**ד"ה אלא לעולם לאקרובי. דנזירות קרבי בבמת יחיד.**כצ"ל:
+
+
+###### Rashash on Temurah 14b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14b:6](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/14b:6)
+
+
+**תד"ה אלא**(בסופו). ואם אמר הריני מגלח על מאה עולות כו'. ספרי פיסקא ל"ח הביאו רש"י בפיה"ת:
+
+
+
+## Daf 15a
+
+###### Rashash on Temurah 15a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15a:1)
+
+
+**רש"י ד"ה עשר שנים. וכתיב ויהי מיום שבת הארון בקרית יערים כו'.**כצ"ל וכן בתוס':
+
+
+###### Rashash on Temurah 15a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15a:2)
+
+
+**בא"ד שכך מפורש כו' ושמואל מת וגו' וכתיב בתריה ויאמר דוד כו'.**קרא דויאמר כו' כתיב מוקדם (שם כז א). וקרא דושמואל כו' כתיב (שם כח ג). ובתוס' ליתא מלת בתריה:
+
+
+###### Rashash on Temurah 15a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15a:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15a:3)
+
+
+**בא"ד הרי ארבעים וט' צא מהן ט' שנים כו'.**כצ"ל וכ"ה בתוס':
+
+
+###### Rashash on Temurah 15a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15a:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15a:4)
+
+
+**בא"ד וה"ג כו' ושנה אחת שמלך שאול ושמואל ושתים שמלך שאול בעצמו.**כצ"ל:
+
+
+###### Rashash on Temurah 15a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15a:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15a:5)
+
+
+**תד"ה ושלשים. וכתיב ויהי מיום שבת הארון כו' ויהיו עד עשרים שנה.**בקרא ליתא למלת עד. ואולי זהו הוספה מהתוס' לביאור ולומר דהנך כ' שנה הוא בס"ה עם הז' חדשים שהי' בשדה פלשתים:
+
+
+###### Rashash on Temurah 15a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15a:6](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15a:6)
+
+
+**בא"ד מצינו יג"ש לשמואל ושאול משמת עלי עד שמלך דוד ול"ו לדוד כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 15a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15a:7](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15a:7)
+
+
+**בא"ד ועד בכלל והיינו שנה עשירית שמלך שמואל כו'.**כצ"ל. או דצ"ל וה"ג עשר שנים מלך שמואל כו'. כדאיתא בפרש"י:
+
+
+###### Rashash on Temurah 15a:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15a:8](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15a:8)
+
+
+**בא"ד דכתיב בשנת ארבעים למלכות דויד נדרשו וגו'. וצריך לומר כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 15a:9
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15a:9](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15a:9)
+
+
+**בא"ד וי"מ למנות י"ג של שמואל שהרי כל שנותיו כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 15a:10
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15a:10](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15a:10)
+
+
+**בא"ד וקי"ל דמ' שנה שפט עלי א"י.**קרא כתיב בשמואל (א' ד יח):
+
+
+
+## Daf 15b
+
+###### Rashash on Temurah 15b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15b:1)
+
+
+**גמרא הבאים מהשבי בני הגולה כו' צפירי חטאת כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 15b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15b:2)
+
+
+**שם ורבים מהכהנים והלוים כו' זה הבית בעיניהם בוכים כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 15b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15b:3)
+
+
+**שם אלא אילים וכבשים כנגד מי.**כצ"ל:
+
+
+###### Rashash on Temurah 15b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15b:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15b:4)
+
+
+**שם אם רבו מטהרין טיהרו.**כצ"ל:
+
+
+###### Rashash on Temurah 15b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15b:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15b:5)
+
+
+**רש"י ד"ה שהי' ר"י אומר. דכתיב בשלח כו' ושעיר עזים כו' ונפקא לן דהכי מהאי קרא כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 15b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15b:6](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/15b:6)
+
+
+**תד"ה כיוצא.**בהגה' צ"ק שבגליון דכתיב גבי לוים ופר שני כו'. כצ"ל. [מש"כ הצ"ק דבת"כ תניא דר"י דריש ופר שני שיהא בן ב' שנים ע"ש. שגה בזה דזה דריש ר"י הגלילי וכ"ה במשנה ב' בפ' ג' דפרה וכן בר"ה (י) בתד"ה עגל וסתם ר' יוסי הוא בן חלפתא] :
+
+
+
+## Daf 16a
+
+###### Rashash on Temurah 16a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/16a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/16a:1)
+
+
+**גמרא וילכדה עתניאל בן קנז כו'.**מצויין בטעות וצ"ל שם ט"ו. וכן בשופטים א' ושם איתא הקטן ממנו לכן בחנם נמחק בדפוסים:
+
+
+###### Rashash on Temurah 16a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/16a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/16a:2)
+
+
+**שם רש ואיש תככים כו'.**מצויין בטעות וצ"ל משלי כ"ט:
+
+
+###### Rashash on Temurah 16a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/16a:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/16a:3)
+
+
+**רש"י ד"ה עושה שניהם.**צ"ל עושה כולם:
+
+
+
+## Daf 16b
+
+###### Rashash on Temurah 16b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/16b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/16b:1)
+
+
+**רש"י ד"ה ארבעה ניתנו להם כו'. ארבעה כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 16b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/16b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/16b:2)
+
+
+**רש"י ד"ה שתי שכחות. ובמק"א פירשה רבי כו' ול"מ ארבעה אלא ביחיד כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 16b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/16b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/16b:3)
+
+
+**בא"ד רנ"א כו' לתרוצי נמי אתא אחת כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 16b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/16b:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/16b:4)
+
+
+**בא"ד הילכך ע"כ כו' אלא ביחיד וגמרי' לה' דמתה מדרעייה.**כצ"ל:
+
+
+###### Rashash on Temurah 16b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/16b:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/16b:5)
+
+
+**תד"ה וכי. מעתה אותה שנגמרה להיות רועה כו' אע"ג דאפשר להיות בציבור כו'.**לכאורה תמוה דמאי איכפת לן אם בציבור נאמרה הלא באמת ס"ל לר"ש ביומא (נ) דבציבור רועה. אבל לפמש"כ התוס' לעיל (טו ב) בד"ה וקא קרבה ע"ש א"ש בפשיטות:
+
+
+###### Rashash on Temurah 16b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/16b:6](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/16b:6)
+
+
+**תד"ה רנ"א. וגם שכחו אם היא מן השנים או מן השלשה.**כצ"ל:
+
+
+###### Rashash on Temurah 16b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/16b:7](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/16b:7)
+
+
+**רש"י**(במשנה) שאם המיר בע"מ בתמימה כו'. עמש"כ לעיל (ז) בד"ה שמא:
+
+
+
+## Daf 17a
+
+###### Rashash on Temurah 17a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/17a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/17a:1)
+
+
+**גמרא אר"פ מ"ט דר"א כו'.**נ"ל לגרוס אמר רבא. מדפריך ליה ר"פ על טע"ז:
+
+
+###### Rashash on Temurah 17a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/17a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/17a:2)
+
+
+**רש"י ד"ה תצא זו כו'. ואותה של הקדש תמימה כו' והויא תמורה.**צ"ע דהא תנן לקמן (כו ב) זו מחוללת ע"ז אין זה תמורה. ועמש"כ לעיל (ט):
+
+
+###### Rashash on Temurah 17a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/17a:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/17a:3)
+
+
+**רש"י ד"ה פסול הגוף. וכ"ה כו' בלא חסרון כו'.**פירושו דחוק. ולעד"נ דטריפות אף שאינה אלא באבר אחד מ"מ פועלת בכל הגוף דטרפה אינה חיה. ואפי' למ"ד דחי'. אינה חי' לזמן מרובה כמש"כ התוס' בחולין (קמ). אבל בע"מ כל גופו בריא וחי ואין בו חסרון אלא באותו אבר ועי' תוס' דמסכת ע"ז (ריש ד' ו). ומ"מ פריך שפיר משרוע וקלוט דכיון דמתחלת ברייתו הוא מיקרי חסרון בגופו:
+
+
+###### Rashash on Temurah 17a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/17a:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/17a:4)
+
+
+**תד"ה גבי. ולפי גי' ראשונה דשוגג דתמורה לקי משום דגזה"כ היא כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 17a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/17a:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/17a:5)
+
+
+**בא"ד ורבינו שמשון שאנץ.**כצ"ל:
+
+
+###### Rashash on Temurah 17a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/17a:6](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/17a:6)
+
+
+**תד"ה אכנס. ונכנס בו והמיר כו'.**כצ"ל:
+
+
+
+## Daf 17b
+
+###### Rashash on Temurah 17b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/17b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/17b:1)
+
+
+**תד"ה לא. וא"ת ליתני עסה"ע ולא לתני וולד וולדן.**כ"נ דצ"ל ולמחוק תיבת וולדן ראשון:
+
+
+###### Rashash on Temurah 17b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/17b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/17b:2)
+
+
+**בסה"ד דלא ה"ל למימר דפטרי**(ר"ל הצרות) כו'. עי' בדבריהם ריש יבמות:
+
+
+###### Rashash on Temurah 17b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/17b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/17b:3)
+
+
+**תד"ה נקבה. וא"ת כו' כתיב הם דממעטינן כו' תמורות.**והתוי"ט הוסיף לר' יהודה כו'. נראה דצ"ל לר"מ לפמש"כ בעצמו שם. אולם שם דבריו תמוהים וכבר השיגו שם התו"ח:
+
+
+###### Rashash on Temurah 17b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/17b:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/17b:4)
+
+
+**בא"ד וי"ל אחרי שכתוב מיעוט כו' אצטריך כו'.**והא דלא תירץ איפכא. משום דא"כ יקשה ל"ל קרא לרבויי עוד גבי תודה לקמן (יח א וב):
+
+
+###### Rashash on Temurah 17b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/17b:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/17b:5)
+
+
+**תד"ה אי. ואי דאשם כו' ה"ה דהמ"ל זכר הוא.**דהא ל"ל דלהכי קאמר גמירי לה כו' דלא ליקו על תמורה. דהא אח"כ אמר אלא כו' וקרא למעוטי תמורת אשם:
+
+
+
+## Daf 18a
+
+###### Rashash on Temurah 18a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/18a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/18a:1)
+
+
+**גמרא כיון דלמיתה אזלא ממילא ל"ק.**כצ"ל:
+
+
+###### Rashash on Temurah 18a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/18a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/18a:2)
+
+
+**תד"ה ל"ל. וי"ל דהוא ל"מ לי' עשה כו'.**כ"נ דצ"ל:
+
+
+###### Rashash on Temurah 18a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/18a:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/18a:3)
+
+
+**במשנה רא"א ולד שלמים לא יקרב שלמים.**בתור"ע דקדק מדשייר ולד תמורה משמע דמודה בי' ר"א דקרב משום דלא שכיח דיעבור בלאו דלא יחליפנו כו' וכמש"כ רש"י לקמן בגמרא בד"ה גזירה גבי ולד תודה. ותמיהני והרי אדרבה לקמן (כ ב) מדמה הש"ס ולד תמורה לולד ולד דלר"ש לכ"ע לא קרב וע"ש בתוס'. ולכן נראה דלהכי שייר ולד תמורה דכ"ש הוא דדמי לולד ולד כנ"ל בגמרא. ועי' לח"מ ברפ"ד מהלכות תמורה. גם מה שהקשה אלישנא דר"ש דאמר ועל ולד ולד תמורה דלפי הגמרא הנ"ל אפי' ולד תמורה נמי כולד ולד דמי. נ"ל דלק"מ דהגמרא לא קאמרה אלא דהוא גרע מולד קדשים ולכן לר"א דאפי' ולד ראשון לא קרב כש"כ ולד תמורה (ע"ש בתוס') אבל שיהא שוה ממש לולד ולד לא קאמרה. והוא כמו ממוצע בין ולד לולד ולד. עמש"כ בחדושי הרמב"ם בפ"ד מהלכות תמורה. ומה שהקשה על פסק הרמב"ם כר"ש הא הוה מחלוקת ואח"כ סתם. כבר קדמו בזה הלח"מ. ולי קשה בלא זה מדוע פסק כר"ש נגד הת"ק. וע"כ צ"ל משום דפליגי אמוראי אליבי' משמע דהלכתא כוותיה וכמש"כ הפוס' בכ"מ:
+
+
+###### Rashash on Temurah 18a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/18a:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/18a:4)
+
+
+**רש"י ד"ה גזירה. אתי לשהויי' כו' ואתו בהו לידי גיזה ועבודה.**הקשה התוי"ט דת"ל דאם ישהה יעבור בעשה כו'. ול"נ משום דל"מ דיבטלו רבנן מ"ע משום סייג רק כי היכי דלא יבוא לידי איסור בקום ועשה וכ"כ הש"א בתשו' ד' ע"ש:
+
+
+###### Rashash on Temurah 18a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/18a:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/18a:5)
+
+
+**תד"ה וחכ"א. צ"ע כו'.**ולעד"נ ליישב ע"ד תירוץ הגמרא בנדה (ל ב. ומט) מהו דתימא מסתבר טעמא כו'. וכה"ג תירצו התוס' במנחות (יב) גם אנכי בערכין (ח):
+
+
+
+## Daf 18b
+
+###### Rashash on Temurah 18b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/18b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/18b:1)
+
+
+**תד"ה תני. והך דרשה אינה אלא אסמכתא כו' ובפסחים מוקי לה כו'.**שם לא נמצא דרשה רק מן אם כשב אבל דרשה על מיעוטא דהוא ל"נ שם ורק בת"כ שם במקומו דרשינן ליה למעוטי דאין הצבור מביא שלמים נדבה. וזה דלא כמש"כ בס' נת"ע (דף קב ב):
+
+
+###### Rashash on Temurah 18b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/18b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/18b:2)
+
+
+**גמרא ת"ל אם על תודה.**כצ"ל בל"ו:
+
+
+###### Rashash on Temurah 18b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/18b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/18b:3)
+
+
+**תד"ה וחליפות. צ"ע כו'.**לכאורה פשוט דכאן ר"ל דילמא הכינוי דיקריבנו (דפשטי' קאי על התודה עצמה) ממעט השניה אפי' מהקרבה בלא לחם לאחר שהקריב האחת עם לחם. וריבויא דיקריב אתא דיכול להקריב מתחלה איזו שירצה. לכן צריך לריבוי דאם כו' וכ"נ מפרש"י. רק דקשה על לשון דיכול יהו כולן טעונות לחם דהא כבר אימעוט חליפות מן יקריבנו (ואולי לזה כוונו התוספות בהצ"ע) ועי' במנחות (ס"ד עט ותחלת ד"פ) החלוקים בין תודת חובה לנדבה:
+
+
+###### Rashash on Temurah 18b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/18b:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/18b:4)
+
+
+**במשנה תמורת עולה כו' הרי אלו כעולה וטעונין הפשט ונתוח כו'.**נ"פ דה"ה דטעונין סמיכה ונסכים כדלעיל בשלמים (ובמנחות צ"א מרבינן סתם ולדות קדשים ותמורתן לנסכים) ולא תני הכא אלא אותן דברים שאינן בשלמים. ובתודה לא הוצרך לפרט בה כלום דהואיל ותני בה ובלבד כו' מוכח דבשאר דברים שוים:
+
+
+###### Rashash on Temurah 18b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/18b:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/18b:5)
+
+
+**גמרא במחלוקת שנויה ורבי אלעזר היא.**כצ"ל בל"י וכן בכל הסוגיא:
+
+
+
+## Daf 19a
+
+###### Rashash on Temurah 19a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/19a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/19a:1)
+
+
+**גמרא**(ברה"ע) אבל גבי וולד תמורת אשם כו'. כצ"ל:
+
+
+###### Rashash on Temurah 19a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/19a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/19a:2)
+
+
+**שם א"ל רבא אחר הפסח קא אמרת כו'.**כצ"ל וכ"ה הצ"ק:
+
+
+###### Rashash on Temurah 19a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/19a:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/19a:3)
+
+
+**רש"י ד"ה אביי אמר. אם היה מפריש ב' בהמות לאחריות או אם אבדה כו'.**כ"נ דצ"ל:
+
+
+###### Rashash on Temurah 19a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/19a:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/19a:4)
+
+
+**תד"ה אביי. שהרי אם ל"נ מקדושתה במפריש נקבה לעולה דמיה לא ידחו כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 19a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/19a:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/19a:5)
+
+
+**בא"ד דאם הולד דתמורת אשם היה קרב א"כ ידחה אמה כו'.**ר"ל אמה דתמורה דהיינו הקדש ראשון עיין לעיל בדבריהם ד"ה אבל. אמנם ק"ל דהא מוכח לעיל דלא פריך אלא דהולד יקרב הוא עצמו עולה. ובזה לא ידחה הקדש ראשון ממה שהופרש לאשם:
+
+
+
+## Daf 19b
+
+###### Rashash on Temurah 19b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/19b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/19b:1)
+
+
+**במשנה המפריש נקבה לאשם תרעה כו'.**וכתב התוי"ט ובעולה מילתא דפשיטא. ור"ל דלהכי לא איצטרך למיתני גבה דין זה דתרעה. וה"ל להוסיף תבלין דאפילו ר"ש מודה בה כמש"כ רש"י והרע"ב. וכמו שסיים לקמיה לענין ולד אשם דלא תני דאפילו ר"א מודה ביה. אבל מלשון רש"י ותוספות והרע"ב משמע דהיה לפניהם הגירסא במשנה מפורש גם גבי המפריש נקבה לעולה דתרעה. וכ"נ להדיא מפרש"י לקמן (כ א בסה"ע):
+
+
+###### Rashash on Temurah 19b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/19b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/19b:2)
+
+
+**גמרא אלא ה"ט דר"ש במח"ז דיליף ליה מבכור כו'.**לכאורה מ"מ הקושיא מאשם בן שתים והביאו בן שנה במקומה עומדת דהוא נמי לא הוה אלא מח"ז. וי"ל דלא ילפינן מבכור אלא דומיא דידיה דאותו השם שיהיה לו אחר ז' יש לו גם עתה ואין בו פסול אחר זולת שלא הגיע עדיין זמנו ליקרב. משא"כ באשם שעתה נקרא בשם כבש. והתורה חייבתו באיל דוקא ולא תקשה מהא דב"ק (סה ב) דאיל בן יומו קרוי איל. דהתם אינו אלא ע"ד השאלה אבל עיקר שמותם בן שנה קרוי כבש ובן שתים קרוי איל:
+
+
+###### Rashash on Temurah 19b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/19b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/19b:3)
+
+
+**תד"ה ר"ש. אבל לר"ש ב"י דאית ליה אליבא דרבי שמעון כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 19b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/19b:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/19b:4)
+
+
+**תד"ה והא מח"ז. במס' חולין כו'.**הצ"ק התפלא דהרי משנה ערוכה היא בזבחים כו'. אבל כן דרך הראשונים להביא מהגמרא השגורה יותר. ולדוגמא רש"י ותוס' בחולין (כה) הביאו הא דמשישופם בעור הדג מגמרא דסנהדרין והיא משנה בכלים פט"ז מ"א. וכן הר"ן בנדרים (לג ב) בד"ה אפילו תימא מביא הא דבני העיר ששלחו את שקליהם כו' מהגמרא דהזהב והיא משנה בשקלים. [וכן בסוכה (יב ב) הביאו רש"י ותוס' הא דהאונין של פשתן משיתלבנו מגמ' דשבת והיא משנה בנגעים וגדולה מזו מצינו להתוס' בחולין (קכב ב) בד"ה לגבל שהביאו שלשים ריס מגמרא דלא יחפור והיא משנה בסוף מרובה וכדהעיר שם הגרי"פ. והר"ש בפ"א דכלים במ"ג בסופו מביא הא דטבעת אדם טמאה כו' מגמרא דשבת והיא משנה בכלים גופא רפי"ב ועמש"כ בכתובות (ד) בתד"ה מסייע] . ודוק ותמצא הרבה כי"ב. וכה"ג דרך הגמרא עצמה כמש"כ בס"ד ברפ"ב דשבת ושם (קיב ב) ובריש ב"ב ובש"מ:
+
+
+
+## Daf 20a
+
+###### Rashash on Temurah 20a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/20a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/20a:1)
+
+
+**גמרא קס"ד ה"ט דר"ש כו' דהאיכא שם עולה עליה גבי עני בעולת העוף.**כ"נ שהיתה גירסת התוספות וכ"מ מפרש"י לקמן:
+
+
+###### Rashash on Temurah 20a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/20a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/20a:2)
+
+
+**שם הא לא חטא ולא איחייב בשעיר.**כצ"ל וכ"ה הצ"ק:
+
+
+###### Rashash on Temurah 20a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/20a:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/20a:3)
+
+
+**רש"י ד"ה הואיל ומותר הפסח. מיהו שם שלמים עלה והואיל דהוי שלמים נקבה נחתא לה כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 20a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/20a:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/20a:4)
+
+
+**רש"י ד"ה הואיל ומותר אשם. ותקדוש קדושת הגוף כעולת נקבה כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 20a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/20a:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/20a:5)
+
+
+**בסה"ע כדקתני מתניתין המפריש כו'.**עמש"כ לעיל (יט ב) במשנה:
+
+
+###### Rashash on Temurah 20a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/20a:6](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/20a:6)
+
+
+**תד"ה רבי. כיון דאין דינם שוה לתמורה דאשם עושה תמורה כו'.**כ"ה הגירסא הישנה וישרה היא. וגירסת הגליון והיא מהצ"ק טעותא היא:
+
+
+###### Rashash on Temurah 20a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/20a:7](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/20a:7)
+
+
+**תד"ה הני. מ"מ לא דמו דהוא גופא כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 20a:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/20a:8](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/20a:8)
+
+
+**בסה"ד ה"נ בההיא שעתא דחטא לא איחייב בעולת העוף כו'.**עמש"כ בערכין (יז ב) במשנה על פירוש הרמב"ם דשם:
+
+
+###### Rashash on Temurah 20a:9
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/20a:9](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/20a:9)
+
+
+**תד"ה ר"ש. וא"כ חזי שפיר בעולת נקבה.**כצ"ל:
+
+
+
+## Daf 20b
+
+###### Rashash on Temurah 20b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/20b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/20b:1)
+
+
+**תד"ה אבל לפני כפרה**(בסופו). ובתר הכי כו' שהתמורה נמי דמיה קריבה לעולה ס"ל. פירוש ולא כדס"ד בל"ק דדמיה קרבים לאשם. ולכן גם ולדה אינו קרב אשם. ודלא כהגהת הצ"ק:
+
+
+
+## Daf 21a
+
+###### Rashash on Temurah 21a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/21a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/21a:1)
+
+
+**במשנה אר"ש מ"ט שהבכור כו'.**לכאורה ה"נ דר"ש לטעמיה דדריש בעלמא טעמיה דקרא עי' לקמן (ע"ב) בתד"ה ממקום אבל כשתעיין סיום דברי הספרי הביאוהו התוספות לעיל (יח) תראה דנצרך הטעם לכ"ע:
+
+
+###### Rashash on Temurah 21a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/21a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/21a:2)
+
+
+**גמרא בעו במערבא המטיל מום כו'.**עי' בתוספות ובמה שתמהתי ע"ד בעבודת כוכבים (יג ב). ונ"ל דאף דשם אמרינן דבזה"ז לכ"ע אינו אלא מדרבנן ע"ש. מיבעיא הכא משום דמ"מ אתו מכח הבכור והמעשר הראויים להקרבה:
+
+
+###### Rashash on Temurah 21a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/21a:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/21a:3)
+
+
+**שם דרחמנא מעטיה עשירי להוציא התשיעי.**ובשלהי בכורות דאמר יכול שאני מרבה אף התשיעי אמרת כו' ע"ש. צ"ל דאף ל"ד אלא דר"ל מאי ראית לרבות י"א ולמעוטי תשיעי אימא איפכא וכ"ה להדיא בת"כ פרשה ויקרא פרק ט"ז סימן ד'. אלא דשם ממעט לתשיעי מן מן הבקר ע"ש והכא ממעט ליה מן עשירי:
+
+
+###### Rashash on Temurah 21a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/21a:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/21a:4)
+
+
+**תד"ה אי. דמיירי הכא במעשר שנזרע כו'.**נ"ל דצ"ל שהופרש וכן לקמן בדבור הסמוך:
+
+
+
+## Daf 21b
+
+###### Rashash on Temurah 21b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/21b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/21b:1)
+
+
+**רש"י ד"ה אתה מעלה בכור. וברייתא כו'.**וכ"ה בתוספות ב"ק (יב ב). והוגה בגליון כאן ושם דצ"ל ומשנה. ועמש"כ בנדרים (כו) בס"ד:
+
+
+###### Rashash on Temurah 21b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/21b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/21b:2)
+
+
+**רש"י ד"ה בכל הרואה. שיוכל לראותו העומד בירושלים.**אבל במשנה פי"ד דזבחים פירש איפכא:
+
+
+###### Rashash on Temurah 21b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/21b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/21b:3)
+
+
+**תד"ה ממקום. מדרשא דספרי שפירש לעיל.**הוא בדף יח ד"ה אפילו:
+
+
+###### Rashash on Temurah 21b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/21b:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/21b:4)
+
+
+**בא"ד והיינו דוקא לכתחלה הוא דאימעוט כו'.**משמע דאימעוט דאינו רשאי להביאם. ובב"ק (יב ב) פירש התוספות דא"צ להביאם. ול"י מה דחקם לזה:
+
+
+###### Rashash on Temurah 21b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/21b:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/21b:5)
+
+
+**תד"ה ושאבדה. ועוד לר' אבא כו'.**תימה דלקמן מוכח להדיא דבמתכפר בשאינה אבודה לכ"ע אבודה מתה. אלא דלר"ה אפילו בנתכפר באבודה אם מעצמו עשה כן האחרת מתה. וא"כ ה"ל להקשות אליבא דכ"ע. וכבר עמד עליהם התוי"ט אלא שלשונו מגומגם ע"ש. ועי' בבה"ז מ"ש ע"ד דלקמן (כב ב):
+
+
+###### Rashash on Temurah 21b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/21b:6](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/21b:6)
+
+
+**בסה"ד דמ"ד הואיל כו' ובע"מ כו' ורועה כו'.**לשון ורועה תמוה דהא מסאבא וקיימא כדפריך הגמרא לקמן. ונראה להגיה דצ"ל דרועה וקאי על אבודת לילה. ועמש"כ לקמן (כב) ברש"י ד"ה דאי לאו מומא. ולענין עיקר פירוש המשנה נלע"ד דמילתא דפסיקא נקטא וכמו שתירץ הש"ס לקמן (כג ריש ע"ב) ע"ש:
+
+
+
+## Daf 22a
+
+###### Rashash on Temurah 22a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/22a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/22a:1)
+
+
+**רש"י ד"ה דאי לאו מומא. תרעה כו'.**אשגרת לישנא הוא. דהא מסאבא וקיימא. ור"ל דתמכר ויפלו דמיה לנדבה. וכצ"ל לקמן (כג ב) בתד"ה המפריש בסופו שכתבו והשני רועה. ומאי שייכא רעייה גבי מעות:
+
+
+###### Rashash on Temurah 22a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/22a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/22a:2)
+
+
+**רש"י ד"ה עברה שנתה חזיא להקרבה. אפילו אין שם ריעותא לבד דאיבוד מתה.**כ"נ דצ"ל:
+
+
+###### Rashash on Temurah 22a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/22a:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/22a:3)
+
+
+**תד"ה אי תניא. התם הוא דאהני לה אבודה כו'.**כ"נ דצ"ל כגירסא שבגמרא:
+
+
+
+## Daf 22b
+
+###### Rashash on Temurah 22b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/22b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/22b:1)
+
+
+**גמרא אילימא אליבא דרבנן כו' אבודה בשעת הפרשה רועה.**ק"ל לשיטת רש"י דבנמצאת בע"מ אפילו לרבנן תמות א"כ מצינו לאוקמי מילתא דרבא אליבייהו וכגון בנמצאת בע"מ. וכן לפירוש התוספות לעיל ד"ה אמר לך. איכא לאוקמי בעברה שנתה:
+
+
+###### Rashash on Temurah 22b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/22b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/22b:2)
+
+
+**שם כגון שקבל דמה בשתי כוסות כו'**עד סופא. בפשטא נראה דהאיבעיא היא אם נמצא הכוס אח"כ אם יוכל לשפכו ליסוד או לא. ורש"י שסיבב הבעיא לענין פסול הזבח לא עמדתי ע"ד הרחבה:
+
+
+###### Rashash on Temurah 22b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/22b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/22b:3)
+
+
+**תד"ה אפילו. ואיצטריך רבא לאשמועינן כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 22b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/22b:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/22b:4)
+
+
+**במשנה המפריש מעות לחטאת ואבדו והפריש כו' עד שנמצאו הראשונות כו'.**עיין מה שכתבתי בראש השנה (ה ב) מדוע לא נאמר דהשניים הוו כהקדש טעות. ועל מה שתירצתי שם משום דהוה כנולד. לכאורה יש סתירה לזה מב"ק (ס"ד קי) דפריך שם על אביי דאמר אדעתא דהכי לא יהיב ליה. מחטאת ואשם שמתו בעליה ליפוק לחולין דאדעתא דהכי לא אפרשה. אבל י"ל דפריך אליבא דר"א דס"ל דפותחין בנולד. אמנם עכ"פ למדנו משם ישוב לקושייתינו. משום דהלכתא גמירי להו:
+
+
+###### Rashash on Temurah 22b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/22b:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/22b:5)
+
+
+**שם והשניה תמות דברי רבי כו'.**לשון הרע"ב דרבי סבר כו' וכי היכי דאם נתכפר בשאינו אבוד האבוד הנשאר כשימצא כו'. הוסיף על לשון רש"י לקמן (כג) בד"ה דרבי סבר. תיבת כשימצא. וגרע במחכ"ת דהא כאן הכוונה בנמצאת קודם כפרה. שוב ראיתי בפירוש הרמב"ם שגם דבריו בזה כסיגנון הרע"ב ותמוה. אולם בנא"י שהביא התוי"ט לעיל במ"א ליתא לכ"ז:
+
+
+###### Rashash on Temurah 22b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/22b:6](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/22b:6)
+
+
+**שם וחכ"א אין חטאת מתה אלא כו'.**וכתב התוי"ט ה"ק אין חטאת מתה ודאי כו' בין שאינה אבודה אלא כו'. זה הוסיף מדעתו על לשון התוספות לקמן בד"ה הכל מודים. ול"ד דשאינה אבודה שתמות בנמצאת אחר כפרה איך משכחת לה כיון דכבר נתכפר בה:
+
+
+
+## Daf 23a
+
+###### Rashash on Temurah 23a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/23a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/23a:1)
+
+
+**רש"י ד"ה אלא לרבי אבא כו'. ורבנן סברי. ואיכא למידק כו' וכגון דנתכפר באבודה ורבנן היא כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 23a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/23a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/23a:2)
+
+
+**בא"ד וסיפא דמשמע כו' ואפילו מאבודין הלין דפיישן אזלי ליה"מ כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 23a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/23a:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/23a:3)
+
+
+**תד"ה דרבי. ותירץ כגון כו'.**ק"ל א"כ מאי מותיב רב משרשיא מהברייתא ומסקינן דלא אתיא כרבי התם מאי רווחא דהקדש איכא אם לא יעשה ככה וי"ל בדוחק:
+
+
+
+## Daf 23b
+
+###### Rashash on Temurah 23b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/23b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/23b:1)
+
+
+**תד"ה וששה. וכ"כ למה שלא היו רוצין לעשות ממותר כו' ואע"ג דאיכא מ"ד כו'.**תימה דהתם משמע דמשום עיקר הנדר הוא דאם נדר איל והביא פר לא יצא דמוקי לה שם כרבי דאמר קטן והביא גדול ל"י. אבל בהמותר איכא למימר דלא איכפת לן אפילו להביא עוף וצ"ע:
+
+
+
+## Daf 24a
+
+###### Rashash on Temurah 24a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24a:1)
+
+
+**גמרא ר"א בר"ש אומר אפילו כו' יוצא לבית השרפה.**עי' בכורות (לב ב) בתד"ה פסק:
+
+
+###### Rashash on Temurah 24a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24a:2)
+
+
+**תד"ה ר"א. ויש לחלק כו'.**ע"ש (לג) בתד"ה דתניא ובמש"כ שם בס"ד:
+
+
+
+## Daf 24b
+
+###### Rashash on Temurah 24b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:1)
+
+
+**במשנה כיצד מערימין כו'.**התוי"ט כתב בשם הרמב"ם דתחבולה שאינה להתיר תקרא מרמה. לפ"ז ק"ל הפיוט דיום ליבשה שיסד הר"י הלוי הטבעתי בתרמית. בת ענמית. ולמש"כ התוי"ט דבלשון תורה מצינו גם לערמת היתר א"ש קצת. וראיתי להמפרש דפירש בתרמית של מצרים ור"ל דהב' בא לשמוש הסבה כמו איש בחטאו וכדומה. ודוחק:
+
+
+###### Rashash on Temurah 24b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:2)
+
+
+**שם ואם נקבה זבחי שלמים.**וכתב התוי"ט והכא דלמיתה אזיל רשאי לשנותן אף לשלמים. אין טעם זה מספיק אלא לפרש"י (ואחריו הרע"ב) שפירש לקמן בגמרא אהא דמוקי לה בבהמה דהקדש. דהיינו חטאת. אבל הרמב"ם בפירושו כ' שהקדישה לאחד מן הקרבנות וכ"נ מפירוש התוספות וכפשטיה דלישנא דגמרא ור"ל אף בתודה או שלמים ורוצה להתפיס את הולד לחובת נדרו שהיה עליו. והטעם פשוט משום דא"א לעיולי ליה דנקבה לעולה לא חזי:
+
+
+###### Rashash on Temurah 24b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:3)
+
+
+**שם אם זכר עולה ואם נקבה כו'.**וכתב התוי"ט אע"ג כו' שכשיש לו ב' בהמות כו'. דבריו אינן מחוורין דמנין הוא יודע שתלד תאומים (וביותר לפמש"כ הרשב"ם שארמזהו לקמן אין דבריו עולין כלל). אלא הטעם כיון דהוא זכר ויכול להקדישנו לעולה אינו רשאי להקדישו לשלמים וכדאיתא בגמרא גבי בכור. והתוי"ט לשיטתו לעיל בדבור הסמוך שכתב הטעם משום דלמיתה אזיל כו'. אבל כבר השגתי עליו גם שם כנ"ל:
+
+
+###### Rashash on Temurah 24b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:4)
+
+
+**שם ילדה שני זכרים כו' והשני ימכר כו'.**נ"ל דהטעם הוא דמי שיצא ראשון הרי הוא קדוש כפי מאמרו והב' הוא חולין גמור דלא הקדיש אלא אחד. וגדולה מזו כתב הרשב"ם בב"ב (קמ ב) במתניתין ובגמרא שם (קמא ב) ע"ש (ולכאורה ממתניתין דלפנינו תיובתא לאה"נ שכתב שם במתניתין ואכמ"ל) אך מפני דלא ידעינן הי מינייהו נפק ראשון לכן ימכר השני לצרכי אותו המין. וכ"כ יקרב למי שהוא. וכ"מ מפרש"י בגמרא בד"ה אי בהמת הקדש היא. אך דבריו במתניתין ל"מ כן וצ"ע:
+
+
+###### Rashash on Temurah 24b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:5)
+
+
+**גמרא אר"י מותר להטיל מום כו'.**בכורות (ג ב) וש"נ:
+
+
+###### Rashash on Temurah 24b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:6](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:6)
+
+
+**שם מ"ד נגזר דלמא נפיק רוב ראשו כו' ואימא ה"נ כו'.**ק"ל דהרי בע"ז (יג ב) מסקינן אליבא דרבא דבזה"ז לכ"ע אינו אלא מדרבנן. וא"כ מאי פריך הכא ואימא ה"נ הא ה"ל גזרה לגזרה. וכן לחנם נדחקו התוספות בבכורות (לה) ד"ה א"ד להוציא מלת אימר ממשמעותיה כיון דאינו אלא ספק דרבנן:
+
+
+###### Rashash on Temurah 24b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:7](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:7)
+
+
+**תד"ה אם זכר. אבל שלמים לא דנחתא מקדושתיה.**ועי' לשון התוי"ט בשם הרמב"ם. וק"ל דאדרבה שלמים קדשי טפי מבכור כדאיתא בריש זבחים ובפרק כל התדיר. ושם בגמרא אדרבה בכור קדים כו' אפ"ה כו' (וכן ק"ק לקמן בגמרא בהא דא"ל ר"ע לר"ש אמר על הבכור כו' עולה הוי כו'). ולשון רש"י לקמן בגמרא אבל שלמים דקדושה קלה היא כו'. יל"פ דר"ל קלה מעולה. וכיון דאיכא לעיולי טפי דהיינו לקדושת עולה אסור להתפיסו בקלה הימנה:
+
+
+###### Rashash on Temurah 24b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:8](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:8)
+
+
+**בסה"ד משום דבעי לאוקמי אכיצד מערימין.**יפה כ' הבה"ז אבל סיפא לא קאי אכיצד מערימין. והצ"ק שכתב דסיפא דילדה שתי נקבות קמהדר אהערמת הקדש ל"ד כלל. דא"כ ישאר קושיית הגמרא אידך נהוי בקדושתא דאימיה:
+
+
+###### Rashash on Temurah 24b:9
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:9](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:9)
+
+
+**תד"ה הא עדיפא. אנן קי"ל כו'.**כצ"ל בל"ו:
+
+
+###### Rashash on Temurah 24b:10
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:10](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:10)
+
+
+**בסה"ד ולמכור קצת כו'.**הגה"ה שבגליון בשם רש"ק תמוה. ולא נמצא ברש"ק:
+
+
+###### Rashash on Temurah 24b:11
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:11](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:11)
+
+
+**תד"ה קסבר**(השייך לדף כ"ה). דאי קסבר כו' א"כ נחתא כו' משעה שנוצרו כו'. כצ"ל:
+
+
+###### Rashash on Temurah 24b:12
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:12](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:12)
+
+
+**בא"ד ואי ממעי אמן הן קדושין ל"ח קדושת הפה כו'.**אפי' אם בהוייתן הן קדושין ל"ח קדושת הפה מטעם שכתב לעיל ועיין גירסת הצ"ק:
+
+
+###### Rashash on Temurah 24b:13
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:13](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:13)
+
+
+**בא"ד וא"ת מנלן כו' וי"ל כו'.**אין כל חדש בזה שכבר כ' לעיל א"כ נחתא קדושת האם כו' שהרי בבהמת הקדש מוקמינן לה:
+
+
+###### Rashash on Temurah 24b:14
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:14](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/24b:14)
+
+
+**בא"ד וא"ת לר"ח כו' וישחטנו ולאחר שחיטה תיבדק כו'.**זה חוזר על הך דהכא. דהתם בבכור א"י לשחטו במקדש דלמא הוא נקבה ולא במדינה דלמא זכר הוא וכן פרש"י שם. אבל מ"מ יש תקנה להקדישו לשלמים על תנאי אם הוא נקבה לשם אשה משום סמיכה:
+
+
+
+## Daf 25a
+
+###### Rashash on Temurah 25a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/25a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/25a:1)
+
+
+**גמרא**(ברה"ע) אמאי אין קדושה חלה עליהן כו'. לפי מאי דס"ד דממעי אמן הן קדושין ה"מ לאקשויי על בבא דואם נקבה ז"ש למאי דמוקי לה בבהמה דהקדש. ועיין זבחים (קיד) בתד"ה וקסבר:
+
+
+###### Rashash on Temurah 25a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/25a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/25a:2)
+
+
+**רש"י ד"ה להוי הפקר. אי אפקריה מקמי הכי לכל התבואה כו'.**הא דלא קאמר דאי אפקריה מקמי הכי הלקט. דזה תלוי בדין ברירה. אבל הכי הל"ל שיהא הפקר בשעת נשירת מיעוטו. עיין ר"ש פ"ה דמע"ש מ"א ובמש"כ שם:
+
+
+###### Rashash on Temurah 25a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/25a:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/25a:3)
+
+
+**רש"י ד"ה רצה בולדה מתכפר. חשיב עובר כו' באנפי נפשיה ולא מכח אמו.**כצ"ל וכמו שהעתיקו התוספות:
+
+
+
+## Daf 25b
+
+###### Rashash on Temurah 25b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/25b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/25b:1)
+
+
+**רש"י ד"ה דלמא טעמא דריו"ח. וכי אזיל ולד חטאת למיתה היכא דלא רצה להתכפר בו כו'.**וצ"ל דמיד דהחליט בדעתו כן אע"ג דעדיין לא נתכפר באמו ימות. כדמוכח במתניתין ר"פ דלעיל ובגמרא שם רישא פסיקא ליה ע"ש בפירש"י. ומ"מ לישנא דפסיקא ליה אינו מדוייק לפ"ז דהא קודם שהחליט להתכפר באמו לא ימות:
+
+
+
+## Daf 26b
+
+###### Rashash on Temurah 26b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/26b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/26b:1)
+
+
+**תד"ה ש"מ. וא"ת מ"מ כו' דהא לא שייכא קדושת דמים בעופות כו'.**וכ"כ לקמן בסה"ד ל"י למה לא וכי גרע ממקדיש עצים ואבנים לקנות מהם קרבן דקדשי קדושת דמים וימכרו ויביא בדמיהן קרבן וע"ש בפירש"י. ויש לומר דכוונתם דזה דומה למפריש נקבה לעולה דלכ"ע תרעה עד שתסתאב כו' כמש"כ רש"י לעיל (יט ב) במשנה וע"ש בסוגיא (דף כ) ובתוספות. וא"כ בעופות דאין להם פדיון לא קדשי כלל:
+
+
+###### Rashash on Temurah 26b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/26b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/26b:2)
+
+
+**בא"ד א"נ כההיא דפרק התערובות כו' וכה"ג מצינו דיחוי מעיקרו כו'.**ע"כ ר"ל בנפל הדם מתוך הצואר אל מים שבכלי שרת. דאם נתקבל תחלה בכ"ש היה נראה מעיקרא. אבל כה"ג ל"י איך הוא חוזר ונראה דהא בשעה שנתקבל בכלי שהיה בו מים לא היה עליו שם דם דנתבטל בהמים. אפילו אם תאמר דמים אינן חוצצים כמו סיב ביומא (נח):
+
+
+###### Rashash on Temurah 26b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/26b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/26b:3)
+
+
+**בא"ד נסייעיה מרבנן כו' ואמרי ירעה עד שיסתאב וימכר ויביא בדמיו פסח.**כצ"ל:
+
+
+###### Rashash on Temurah 26b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/26b:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/26b:4)
+
+
+**בא"ד המפריש נקבה לאשם תרעה כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 26b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/26b:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/26b:5)
+
+
+**בא"ד דטעמא דר"ש משום דאזיל לטעמיה כו'.**ר"ל אבל לר"א למ"ל דאזיל בשיטת ר"ש בזה דהא במפריש נקבה לעולה אפי' ר"ש מודה דתרעה כמו שהבאתי לעיל:
+
+
+###### Rashash on Temurah 26b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/26b:6](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/26b:6)
+
+
+**גמרא אמר אביי תחת מ"ל לישנא דאיתפוסי כו'.**כה"ג משני אביי גופיה בנדרים (טז). ובגיטין (לב ע"ב):
+
+
+
+## Daf 27b
+
+###### Rashash on Temurah 27b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/27b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/27b:1)
+
+
+**תד"ה לא. בפלוגתא דר"א ורבנן בהקדשות.**כצ"ל:
+
+
+###### Rashash on Temurah 27b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/27b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/27b:2)
+
+
+**במשנה אמר על בהמה טמאה כו' הרי אלו עולה לא"כ.**משמע דלא מהני מידי אמירתו. ומוכרח הוא לפי' הי"מ שהביאו התוספות לקמן. וקשה דמ"מ יועיל דבורו לאסור אותם על כה"ע כקרבן כדתנן בפ"א דנדרים מ"ד וצ"ל דמתניתין אתיא כר"י שם:
+
+
+
+## Daf 28a
+
+###### Rashash on Temurah 28a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/28a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/28a:1)
+
+
+**רש"י**(בסה"ע) דכיון דאמר חכם מום קבוע הוא כו'. ל"ד דאפילו עובר פסול כ"ז שלא עבר כדאיתא (ביומא סד) וכ"מ לקמן ר"ד לג:
+
+
+###### Rashash on Temurah 28a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/28a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/28a:2)
+
+
+**תד"ה טול וא"ת כו' תיפוק ליה ממשקה ישראל כו'.**זהו שלא כדבריהם בחולין (קמ) בד"ה למעוטי שכ' דשהיה להם שעת הכושר לא ילפינן ממשקה ישראל. ודבריהם שם תמוהים מהא דלקמן (כט) וכדהוכיחו במנחות (ו) בד"ה כתב:
+
+
+
+## Daf 28b
+
+###### Rashash on Temurah 28b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/28b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/28b:1)
+
+
+**תד"ה ומה. ובפרק כה"צ לא עבד כי האי ק"ו כו'**(ר"ל כי הכא מציפויין) נעבד כו' והמ"ל האי ק"ו דאו חילוף התם ומה אתנן ומחיר שהם אסורין ציפוייהן מותרים ולהתיר ציפוי הר כו'. כצ"ל ועצ"ק. וכלל דבריהם הוא דהכא המ"ל ק"ו דהתם ולא המ"ל או חילוף. וכן התם המ"ל ק"ו דהכא וגם או חילוף כהכא ויוכל לתרץ ג"כ דלחומרא עבדינן. אבל קשה דלפ"ז ל"ל מן הבקר להוציא את הנעבד תיפוק ליה מק"ו דהתם כיון דל"ל או חילוף:
+
+
+###### Rashash on Temurah 28b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/28b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/28b:2)
+
+
+**תד"ה והאי תנא.**עיין כה"ד מש"כ דהא מפיק ליה לעיל כו' משמע דדריש ליה ממן הבקר וכן בסה"ד דמפיק ליה ממן הבקר. ע"כ ט"ס וצ"ל ממן הבהמה כדלעיל. אבל צ"ע דאמאי לא מייתו מהא דר"ש דלעיל דמסיים להדיא ת"ל מן הבהמה להוציא רובע ונרבע ועל זאת לא יעלה תירוצם כ"כ. ועוד קשה דבנדה (מא) מייתי הגמרא אליבא דר"ש הנך קראי דמן הבהמה (וזה י"ל עפ"י מש"כ התוספות בשבת (קכח) ד"ה ונתן דדרך הש"ס שאינו מביא עיקר הדרשה ע"ש). גם לפי מה שהוכיחו בחולין (כג) ד"ה כי משחתם דכ"ע אית להו הך דרשה דכי משחתם. לא מקשו מידי:
+
+
+###### Rashash on Temurah 28b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/28b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/28b:3)
+
+
+**תד"ה כל. צ"ע כו'.**לעד"נ דבא להורות דדוקא במקום שהמום פוסל שם דבר ערוה וע"ז פוסלין ולאפוקי מעשר דאין מום פוסל בו גם אלו אינן פוסלין. וכדאיתא בבכורות (נז) ועי' בדבריהם בחולין (כג) ד"ה כי משחתם:
+
+
+
+## Daf 29a
+
+###### Rashash on Temurah 29a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/29a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/29a:1)
+
+
+**רש"י ד"ה אימא תישתרי. אבל גבי מוקצה ונעבד תרי קראי ל"ל כו'.**ק"ל א"כ לפי המסקנא דלא מוכח ממשקה ישראל אלא היכא דלא היתה לה שה"כ ישאר הקושיא מנלן דשרי להדיוט הא אצטריך קרא למעוטי גבוה היכא דהיתה לו שה"כ דל"י ממשקה ישראל. וע"כ צ"ל כמש"כ התוספות במנחות (ו) ד"ה כתב דמדגלי רחמנא בטרפה ילפינן לכל דוכתי. ולפ"ז גם עתה לא נצרך לדברי רש"י:
+
+
+
+## Daf 29b
+
+###### Rashash on Temurah 29b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/29b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/29b:1)
+
+
+**גמרא וכתיב התם כי כל אשר יעשה מכל התועבות האלה.**כצ"ל. וק"ק דהביא מן המאוחר דהלא קודם למקרא זה כתיבי ב"פ התועבות באותה פרשה:
+
+
+###### Rashash on Temurah 29b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/29b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/29b:2)
+
+
+**רש"י ד"ה בטלה זה. הואיל דיחדיה בשעת ביאה.**כ"נ דצ"ל:
+
+
+###### Rashash on Temurah 29b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/29b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/29b:3)
+
+
+**רש"י ד"ה תועבה כתיב. ואכולהו כתיב מכל התועבות האלה.**כצ"ל:
+
+
+
+## Daf 30a
+
+###### Rashash on Temurah 30a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/30a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/30a:1)
+
+
+**רש"י ד"ה מחד מינייהו. נמצא בתשעה מאותן שכנגדו מגיע מדמי הכלב כו'.**ק"ל דמ"מ יקשה דנברור תלת מהן ונימא דהן נגד הכלב וג' חמישיות מאחד הטלאים שעמו. והשבעה הם נגד שמונה ושתי חמישיות שעם הכלב ולישתרו וי"ל:
+
+
+###### Rashash on Temurah 30a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/30a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/30a:2)
+
+
+**תד"ה ואידך. יש לתמוה דהכא כו' וכן בההיא דלוקח יין מבין הכותים כו' וא"כ בכל איסור כו'.**לכאורה ההיא דלוקח יין כו' ל"ק כלל דהתם לא קרא שם תרומה אלא על מה שעתיד להפריש וא"כ מה ששותה הן חולין ודאין. משא"כ באיסור שהיה מופרש ועומד מאן לימא לן דאותו ישקול דלמא ישקול מההיתר והאיסור ישאר בהתערובות ואפי' להא דהכא לא דמי דהא חלקו סתמא ולא יחדו אותו שנגד הכלב לכן פריך שפיר ניפוק חדא כו' ונאמר דאיגלי מילתא למפרע שזהו שלקחו נגד הכלב. משא"כ באיסור שהיה מבורר מעיקרא ל"ל הכי. אבל מהא דיומא שפיר קמקשו דהתם מעיקרא היה מעות של כאו"א מופרשין ומיוחדים לו. ומש"כ דג' שלקחו קיניהן בשותפות. אינו מדוייק דע"ש ביומא דלא קאי אלא על הא דנותן כאו"א דמי קיני חובתו לתוך שופר אחד. ועיין בדבריהם בסוטה (יח):
+
+
+###### Rashash on Temurah 30a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/30a:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/30a:3)
+
+
+**בא"ד ואומר מורי כו' אבל הני תערובתו בהיתר כו' אז סמכינן אברירה.**פשוט דר"ל דוקא למ"ד דיש ברירה כמש"כ בריש הדבור. והרי הא דהלוקח יין מביא הש"ס בכ"מ לפלוגתא דברירה. וכן הא דסוגיין פריך בבכורות (נז) רק למ"ד דיש ברירה. ותמיהני על התוי"ט דנראה שהבין דר"ל דבכה"ג לכ"ע י"ב. דהביא דבריהם לתרץ מה שתמה בתחלה דהא קי"ל דבדאורייתא א"ב. ועי' בתו"ח שאמר דבר חכמה דקושיית הש"ס קאי על הא דמשמע דמה דאמר בר"פ כה"א לגבי מזבח אוסרין בכש"ה כו' ומחיר. דקאי נמי על הא דכשנגד הכלב אסור. ובע"ח דלא בטלי אינו אלא מדרבנן לכן פריך שפיר אפילו למאי דקי"ל דל"א ברירה אלא בדרבנן. אבל אין זה מכוון לפי המבואר בש"ך בכללי ס"ס אות י"ט ואחריו החזיק המל"מ בפ"ד מהלכות בכורות ה"א בסופו דהיכא דנפל הספק בהיותו דאורייתא לא מהני מה שבא אח"כ מצד אחד להיות דרבנן וכש"כ הכא דגם עתה הנשארים שלא נתערבו יהיו אסורים דלדידהו ל"א י"ב. אולם עפ"י דרכו י"ל דהוי כב' תערובות המבואר בסימן ק"י בש"ך סק"נ וס"ק כ"ב ע"ש אך אין זה ענין לדין ברירה. ולא נצטרך ג"כ למיפק חדא. ומה שהתפלא בתור"ע דאף בלא תערובות אחר כיון דמחיר הכלב מעורב עם ט' מדאורייתא בטל ברוב נ"ל ליישב עפ"י מש"כ המל"מ בפ"ט מהלכות מטמאי מו"מ בכוונת המרדכי וז"ל ונראה דעיקר החילוק הוא שכ"ד שתחלת איסורו כו' היה מעורב לא שייך ביה ביטול ע"ש:
+
+
+
+## Daf 30b
+
+###### Rashash on Temurah 30b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/30b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/30b:1)
+
+
+**תד"ה דניחא. תימה כו' וגבי אתנן כו' ובולד מודו דשרי כו'.**דאין לומר דהא דשרו היינו בעיברה אח"כ דהא משמע דרבא דאמר ולד הנרבעת אסורה כו' קאי אמתניתין דולדותיהן מותרים ואמר אבל הני אסורין ואיהו מיירי בעיברו מעיקרא. ולזה כוונו התוספות בב"ק (סו) ד"ה הם:
+
+
+###### Rashash on Temurah 30b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/30b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/30b:2)
+
+
+**במשנה כל האסורים כו' ולדותיהן מותרים.**ופירש הרע"ב כגון כו' כשהוא חולין והוא מפירוש הרמב"ם משמע דבנרבעו כשהן מוקדשין אסורין והוא כרבא אר"נ לקמן בל"א אבל בחבורו פ"ג מהלכות א"מ הי"ג פסק דאפילו בשנרבעו כשהן מוקדשין מותרין וע"ש בכ"מ ותימה על התוי"ט שלא העיר בזה. ומש"כ הרע"ב טעמא משום זוז"ג הוא כל"ק דרבא ונ"ל דבאתנן ומחיר אפי' היה הזכר ג"כ כיוצא בה מותר הולד משום מיעוטא דהם ולא ולדות ועוד דלא גרע משינוייהן לב"ה דהא נשתנה לזרע ואח"כ לולד. ולכן חלקן התנא לשנותן בפ"ע לעיל ולא סמך על הכלל דכאן. (וזה י"ל משום דחלוקין באם היו מעוברות קודם לכן כמש"כ לעיל) ולפ"ז יפה דקדק הכ"מ בספ"ד שם על הרמב"ם מה שהשמיט היתר דולדותיהן בהדי שינוייהן בפ"ע כמו תנא דמשנתינו ואין תפיסת המל"מ עליו כלום. אבל אחר העיון נלפע"ד בדעת הרמב"ם שגם בשאר איסורין הולדות מותרין אפי' היכא דהזכר ג"כ אסור דליכא זוז"ג ומטעם דאישתנו. וטעם זה נזכר בגמרא לקמן בל"א לר"נ. ויתורץ בזה קושיית התד"ה אבל. והראיה מדסתם הרמב"ם ולדותיהן מותרים ולא הזכיר טעם דזוז"ג. וכן בפירושו לא זכר טע"ז אלא בולד טרפה. ועוד ראיה ממה שפסק שם בפ"ג הי"ד דהמשתחוה לקמה חטיה מותרין למנחות שהרי נשתנו ונדמו לולדות של א"מ כו'. וזהו כמו שפשט מ"ז בריה דר"נ בע"ז כדהביא הכ"מ שם. ש"מ דחד טעמא הוא משום דנשתנו ונכון בס"ד:
+
+
+###### Rashash on Temurah 30b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/30b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/30b:3)
+
+
+**רש"י ד"ה ואם ימעט.**מה שהוסיפו בדפ"ח לקנות כו' והוא מהצ"ק הוא לחנם:
+
+
+
+## Daf 31a
+
+###### Rashash on Temurah 31a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/31a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/31a:1)
+
+
+**רש"י ד"ה ל"א מאוירא. לאחר שנולד הולך וגדל.**כצ"ל. וכמו שהועתק בתוספות:
+
+
+
+## Daf 31b
+
+###### Rashash on Temurah 31b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/31b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/31b:1)
+
+
+**במשנה ולדן וחלבן אסור כו'.**התוי"ט כתב דשייר הא דא"י לחולין להגזז ולהעבד הנשנה בחולין ובבכורות. והוא ז"ל שייר הא דפטור מן הבכורה דנשנה שם ג"כ. ממתנות לק"ל. דהא א"נ אלא בשור ושה והמקדישן תמימים לבד"ה א"י מידי מזבח. ובע"מ אפילו למזבח נמי אבל בכור שייך במקדיש חמור לבד"ה. ואולי משום דקולא הוא בקדשי מזבח. ומש"כ עוד ושייר נמי הקדש עילוי דלקמן עמש"כ שם בס"ד. אמנם לדעת הראב"ד ורש"י שהביא התוי"ט שם. שייר נמי דבקד"מ אין משנין מקדושה לחברתה. ובקדב"ה משנין אף מהיכל למזבח. ואפילו לדעת הרמב"ם בקדב"ה משנין עכ"פ מקל לחמור. ובקד"מ כלל לא:
+
+
+###### Rashash on Temurah 31b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/31b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/31b:2)
+
+
+**גמרא וכללא הוא כו'**עד כי קתני אעיקר זיבחא. נראה לפמש"כ לעיל ברפ"ב גם הכא ה"מ לשנויי מי קתני כל קד"מ. יש בקד"מ קתני. והגמרא סמיך בכאן על הואב"א דשם:
+
+
+###### Rashash on Temurah 31b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/31b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/31b:3)
+
+
+**תד"ה ואפילו**(בסופו)**. אפילו למ"ד יש מעילה בדם ה"מ דם דחזי כו'.**וק"ל דשם במעילה כי מקשה ליה מהא דחלב המוקדשין כו' מתרץ ומחלק בין דם דלא מתקיימא בלעדו אבל בלא חלב מתקיימא. ומדוע לא מחלק כי הכא וכן הכא כהתם:
+
+
+
+## Daf 32a
+
+###### Rashash on Temurah 32a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/32a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/32a:1)
+
+
+**במשנה ומקדישין אותן הקדש עילוי.**הכוונה ע"כ אקד"מ כפרש"י. דאילו קדב"ה אין להם הקדש עילוי כדאיתא לקמן בברייתא. והלשון משמעו דקאי ארישא אאחד קד"מ ואחד קדב"ה. ותו דואם מתו יקברו אליבא דר"ל לקמן בגמרא לא קאי אלא אקדב"ה והתנא מיסתם לה סתומי ונצרך סכינא חריפא למיפסקה. ונלע"ד דמשנה זו מישך שייכא למשנה דלעיל על יש בקדב"ה (וראיה דלא סיים שם משא"כ בקד"מ כדמסיים ברישא משא"כ בקדב"ה). ואמר כאן אף שאחד קד"מ כו'. מ"מ מקדישין אותן (ר"ל קד"מ) הקדש עילוי משא"כ קדב"ה. וזה חשוב לחומר קדב"ה דקדושים כ"כ עד שהבעלים אין בהם שום יד להקדישן אף הקדש עילוי משא"כ קד"מ עדיין יד הבעלים עליהן להקדישן הקדש עילוי. (וזה דלא כהתוי"ט שהבאתיו לעיל). ואמר עוד ואם מתו יקברו לר"ל א"ש בפשיטות דדוקא קדב"ה בעו העמדה והערכה אבל קד"מ לא. ולריו"ח ג"כ לא קאי אלא אקדשי בדה"ב ובבע"מ מעיקרא דמודה דל"ב העמדה והערכה בק"מ. עיין לקמן בסוגיא ובפרש"י ונכון בעז"ה: וק"ק דה"ל למיחשב ג"כ דגנב והקדיש לבד"ה מחייב בד' וה'. ובהקדיש למזבח פטור עי' ב"ק (עו. עח). אך י"ל דזה הויא בכלל הקדש עילוי דחשיב. עמש"כ בס"ד בתוס' ד"ה מקדישין:
+
+
+###### Rashash on Temurah 32a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/32a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/32a:2)
+
+
+**רש"י ד"ה מקדושה לקדושה.**עיין בתוי"ט דעת הראב"ד בקדושת בד"ה ותבין כוונתו:
+
+
+###### Rashash on Temurah 32a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/32a:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/32a:3)
+
+
+**רש"י ד"ה חרמי כהנים. היינו סתם חרמין ולהכי נקט כו'.**ולעד"נ דאפילו למ"ד סתם חרמים לכהנים. הכא במתפיס קד"מ. דא"ת דכוונתו היתה לכהנים אין בדבריו כלום לדברי ר"ה. אמרינן דודאי היה דעתו על חרמי גבוה. וגדולה מזו מצינו לר"מ לעיל ס"פ כיצד מערימין. וכה"ג נמצא טובא בש"ס סברא זו. ולפמש"כ התור"ע בנדה אות ל"ז בשם הרמ"ע דהיכא דתני לא עשה ולא כלום הכוונה דהוה כאילו לא עשה כלל ונשאר הדבר בהווייתו קודם. אבל היכא דתני ל"ע כלום ר"ל דרק למה שכוון בעשייתו לא הועיל. ומ"מ מהני עשייתו לאיזה דבר. אלא היכא דליכא למיטעי נקיט לע"כ אף בדבר דלא מהני כלל. יש לכוון פרש"י לדעתינו והוא משום שהיה ק"ל מאי דנקיט ל"ע כלום דמשמע דמהני אמירתו לענין מה לכן פירש דמיירי בחרם סתם דמהני לחול עליו חרמי גבוה. ולקמן בברייתא דנקיט נמי לישנא דל"ע כלום היינו משום דליכא למיטעי. או דאתיא כר"מ עיין בערכין (ה ב) המקדיש בהמת חבירו כו' ודוק:
+
+
+###### Rashash on Temurah 32a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/32a:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/32a:4)
+
+
+**רש"י ד"ה אמר עולא. מדה"ל למכתב חרם קדש כו' וכתיב כל חרם**(כצ"ל) ה"מ על הכל חייל חרם כו'. לכאורה יל"פ דהכי דריש כל חרם אפילו חרמי כהנים חייל על קדש קדשים:
+
+
+###### Rashash on Temurah 32a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/32a:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/32a:5)
+
+
+**תד"ה מקדישין. פירוש ומצי שקיל דבר מועט כו' ול"נ דלא מצינו כו'.**עמש"כ ביומא (כו ב):
+
+
+###### Rashash on Temurah 32a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/32a:6](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/32a:6)
+
+
+**בא"ד דאטו מי לא שייך כו' כמה כו'.**לכאורה גם דמיהן משלם שייך בהו באומר הרי עלי והפרישן דלריו"ח חייב באחריותן אפי' נגנבו או שנאבדו ולר"ל במתו מיהא מחייב כדאיתא בחולין (קלט):
+
+
+###### Rashash on Temurah 32a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/32a:7](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/32a:7)
+
+
+**בא"ד דבקד"מ יש שם הבעלים לפדותן כשהוממו אבל בקדב"ה כו'.**נראה כוונתם ע"ד שכתבו לעיל (כז ב) בסד"ה לא ע"ש. ולע"ד ה"נ לחלק דבקד"מ עדיין שם הבעלים עליהן להקריבן לשמן ולכפר עליהן. משא"כ בקדב"ה כיון שהפרישן אע"ג שלא מסרן עדיין לגזבר נסתלק שם הבעלים מעליהן מכל דבר. ועיין ב"ק (עו) בתד"ה והשתא ושם (עט) בד"ה גנב ותמצא כדברים האלה:
+
+
+###### Rashash on Temurah 32a:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/32a:8](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/32a:8)
+
+
+**תד"ה והאמר**(בריש ע"ב). ואשמעינן שאין כו' לענין כו' עד שיפדנה. ר"ל שאין אסור לשחוט אלא עד שישיימוה לדעת כמה הוא החוב עליו לבד"ה אבל לפדות א"צ קודם שחיטה שאין לבד"ה כלום בגוף העולה וכ"מ בדבריהם לקמן. והצ"ק שהגיה תיבת אלא טעה במחכ"ת:
+
+
+
+## Daf 32b
+
+###### Rashash on Temurah 32b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/32b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/32b:1)
+
+
+**גמרא ת"כ דריו"ח ואם כל בהמה טמאה אשר לא יקריבו כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 32b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/32b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/32b:2)
+
+
+**שם בבע"מ שיפדו הכ"מ.**כן הוא הגירסא שלפנינו וישרה היא. וההגהה שבגליון שבושא היא אף שכן היא במנחות ובבכורות יש להגיה שם כמו דאיתא הכא:
+
+
+###### Rashash on Temurah 32b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/32b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/32b:3)
+
+
+**שם כשה"א ואם בבהמה הטמאה ופדה כו'.**כצ"ל:
+
+
+###### Rashash on Temurah 32b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/32b:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/32b:4)
+
+
+**תד"ה וד"ה. אבל בקדב"ה למאן דאית ליה כו'.**כצ"ל. ותיבת אפילו נראה למחוק:
+
+
+
+## Daf 33a
+
+###### Rashash on Temurah 33a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/33a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/33a:1)
+
+
+**גמרא**(ברה"ע) הא מה אני מקיים ואם כל בהמה טמאה אשר לא יקריבו כו'. כצ"ל וכן בציון התוספות:
+
+
+###### Rashash on Temurah 33a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/33a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/33a:2)
+
+
+**שם**(בסה"ע) א"ל רי"ר לר"ז לר"ל כו' וקתני קד"מ בע"מ יפדו כו' ש"מ פודין כו'. ק"ק כיון דקי"ל קדשים שמתו יצאו מידי מעילה דב"ת (ריש מעילה) א"כ איך הוה ס"ד דמתו ממש כיון דתו לית בהו קדושה לא אלימי למיתפס פדיונם. וי"ל דהוא מדרבנן:
+
+
+###### Rashash on Temurah 33a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/33a:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/33a:3)
+
+
+**רש"י ד"ה וריו"ח. ומיהו והעמיד והעריך ארישא כו' ואסיפא דמשתעי בבד"ה קאי.**תמיהני על התוי"ט שכתב בד"ה ואם מתו בסופו. "ואע"ג דלבד"ה ל"ל קרא י"ל דכיון דגלי קרא בשל מזבח ה"ה בשל בד"ה" איך אישתמיטתיה הגמרא ופרש"י במקומו:
+
+
+###### Rashash on Temurah 33a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/33a:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/33a:4)
+
+
+**רש"י ד"ה נפלוג ר"ש עלה. דקאמרי אינהו יקברו ואיהו יפדו.**כצ"ל:
+
+
+###### Rashash on Temurah 33a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/33a:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/33a:5)
+
+
+**תד"ה אפילו. כגון שמתפיס תרנגולין לבדה"ב.**נראה להגיה למזבח:
+
+
+
+## Daf 33b
+
+###### Rashash on Temurah 33b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/33b:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/33b:1)
+
+
+**תוס' סד"ה כדתניא. מכלל דת"ק מיירי בתרווייהו.**כן העתיק התוי"ט בפ"ה דמעילה:
+
+
+###### Rashash on Temurah 33b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/33b:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/33b:2)
+
+
+**רש"י ד"ה חולין שנשחטו בעזרה. אתי למימר נמי קדשים שאירע בהם פסול טומאה או פסול נותר יקברו וקיי"ל כו' לימד עכה"פ כו'.**להני תרתי דחשיב לא הוה צריך ללימוד מן בקדש כו' דבהדיא כתיב בהו שריפה בפרשה צו (ויקרא ז פסוקי יז יט). וכן התוי"ט ל"ד שכ' (במ"ו ד"ה כה"ק) ומה"ט בשר קדש שנטמא או נותר כו' וכן שער נזיר טהור כו'. דבשער נזיר נמי כתיב ונתן על האש כו' וכדפרש"י לקמן בגמרא:
+
+
+###### Rashash on Temurah 33b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/33b:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/33b:3)
+
+
+**רש"י ד"ה וכן חיה. דליכא למיגזר כו' אפ"ה תשרף.**וכתב התוי"ט דהוא מלתא בלא טעמא. ונראה דאישתמיטתיה גמרא חולין (פה ב) וקדושין (נח) ופרש"י ותוספות ע"ש:
+
+
+###### Rashash on Temurah 33b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/33b:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/33b:4)
+
+
+**רש"י ד"ה את שדרכן. אערלה וכה"כ קאי.**וכ"פ הרמב"ם והרע"ב אחריהם. ונראה כוונתם דאתרומה ל"מ קאי דהא איתא בספ"ק דפסחים דתעשה זילוף. עי' שבת (כה) תד"ה כך. ושאר הנשרפים נמי אמרינן בס"פ כל התדיר נסכים שנטמאו כו' ושורפן אלמא דבר שמצוה מה"ת בשריפה אפי' משקה נמי. וכן חמץ לר"י דיליף מנותר אפי' משקין מחוייב לעשות היסק גדול ולשורפן. לכן ל"מ קאי רק על ערלה וכה"כ. וטעמא נ"ל משום דשרפה דידהו לא כתבה תורה בלשון חיוב רק פן תוקדש. ובזה א"ש מה שפרש"י על הא דכהנ"ש לא יקברו דלמא כו'. שהעלה הגה"ש בקושיא דתיפוק ליה דמצותו בשרפה ע"ש. דמשום ערלה וכה"כ איצטרך לה"ט ונכון בעז"ה. ומזה לכאורה קשה לפי' א"נ שבתוספות שבת שם דתרומה מצותה מן התורה בשרפה דאם כן למה שריא בזילוף. אם לא שיפרשו כדפרישית בסוף פרק קמא דפסחים בס"ד:
+
+
+
+## Daf 34a
+
+###### Rashash on Temurah 34a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/34a:1](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/34a:1)
+
+
+**גמרא כאן בנזיר טמא.**הגרי"פ הביא מתוספות דנזיר דצ"ע מנלן דנקבר. והוא מהתוי"ט. ונ"ל דל"ד כלל במחכ"ת. דהכא פשוט כיון דאסור בהנאה מקרא דקדוש יהיה כו' כדאיתא בקדושין (נז ב) ממילא דנקבר כשאר אה"נ דמתניתין. והתוספות שם לא עיינו אלא לר"מ שם דס"ל דהכל משלחין תחת הדוד חוץ מטמא שבמדינה ומפרש בברייתא טעמא מפני ששערו נקבר. הא ודאי טעמא בעי כיון דיליף מן זבח לרבות האשם אף במדינה נמי כמו נזיר טהור:
+
+
+###### Rashash on Temurah 34a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/34a:2](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/34a:2)
+
+
+**שם ובשר המת שנפרכו טהורין.**נדה (נה):
+
+
+###### Rashash on Temurah 34a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/34a:3](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/34a:3)
+
+
+**שם עולת העוף שנתמצה כו' ואסורין.**עמש"כ בזבחים (לה א) לתמוה על הרמב"ם שכתב ד"ז אצל חטאת העוף והעלתיו בצ"ע. ועתה נ"ל שגירסתו היה בכאן חטאת העוף שנתמצה כו' וכמ"ד דמיצוי מעכב עיין בפ"ז מהלכות מעה"ק ה"ז ובלח"מ שם. דלגירסא שלפנינו קשה מפ"ב דמעילה (מ"ב) "עולת העוף כו' מיצה דמה כו' ומועלין בה כו'". מדוע לא תני ואין מועלין במוראה ונוצה כדתני שם במ"ד בעולת בהמה נזרק דמה כו' ואין מועלין בעורה אבל מועלין בבשרה כו'. אלא ש"מ דגם בהן יש מעילה אף לאחר המיצוי. ואימתי יוצאין מידי מעילה. נ"ל משישליכן אל מקום הדשן כי אז נעשו מצותן וכמו דישון מזבח הפנימי והמנורה שם בפ"ג מ"ד דמשמע שם מפירוש הרע"ב דמועלין בהן עד שמוציאם למקום הדשן. (ודלא כתוספות שם בד"ה בשלמא) ושם בגמרא נפ"ל דישונם ומקומם מהדשן דכתיב אצל מוראה ונוצה ולכן חד דינא אית להו לכולהו. ונראה עוד דהא דתנן גבי עולת העוף ומועלין בה עד שתצא לבית הדשן קאי אכולה אבשרה וגם על מוראה ונוצה וכל חד לבית דישונו מורו"נ לדישנו שהוא אצל הכבש. ובשרה לדישונה שהוא חוץ לג' מחנות לרב כדא"ל ולריו"ח כדא"ל. ואף שמפרש"י כאן משמע דהכא ג"כ ר"ל לאחר שהשליכן אצל המזבח. מ"מ קשיא חדא מאי קא מקשה הלא הכא הוא מטעם אחר משום דכבר נעשו מצותן ואפילו לא נבלעו נמי. שנית מאי דתלי במיצוי הא עדיין לא גמרו מצותן עד שישליכם אצל המזבח. אבל אי גרסינן חטאת ניחא דבה לא צותה התורה מאומה לעשות בהן רק אסורים בהנאה מאיזה דרשה או מהל"מ. לכן ה"ל כשאר אה"נ. והברייתא לא הזכירה הקבורה כיון שאינה מן המצוה. ודע דלפי סברת התוספות לעיל בד"ה הנשרפין בטעם שהנקברים אפרן אסורין כיון דלא צותה התורה על ביעורן משוך איסורייהו לעולם. הנ"ל דלרבנן דס"ל בחמץ אף מפרר וזורה לרוח. מ"מ אפרן מותר הואיל דצותה התורה תשביתו בכ"ד שאתה יכול להשביתו ה"ל נעשית מצותו ודלא כהרמב"ם והטור שהביא המ"א ר"ס תמ"ה וכן התוספות בפסחים (כא ב) בד"ה בהדי וא"ש לפ"ז גי' אף מפרר ובזה נדחו ראיות הש"א בתשו' פ"ז לפרש"י נגד פירוש ר"ת ע"ש כנ"ל נכון בס"ד. [אבל ק"ק לפ"ז מאי אהדרו ליה רבנן לר"י בפסחים (סוף דף כז) חלבו של שור הנסקל יוכיח כו'. הא ביה לא צותה התורה כלל לבערו. משא"כ חמץ דצותה להשביתו שפיר יליף מנותר דבשריפה] :
+
+
+###### Rashash on Temurah 34a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/34a:4](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/34a:4)
+
+
+**רש"י**(ברה"ע). ונודע לו שלא חטא כו'. וכ"כ הרע"ב אחריו וכמ"ק בפירוש הרמב"ם. משמע דהיכא דלא נודע לו רק שאירע בו פסול אחר כגון נותר או טומאה או שנשחט חל"ז וחל"מ לכ"ע בשרפה כשאר קדשים. וצ"ע דמוכח להדיא בפסחים (ר"ד כח) דר"י פליג אף בגווני שזכרתי וכפרש"י בעצמו שם וע"ש בתד"ה ואתה דיליף ליה מקרא בת"כ (והוא בצו פרשתא ט' פי"ג הלכה ה והק"א הבין שם הת"כ כפרש"י דהכא). וגם לשון המשנה עצמה מוכח כן דקאי על נשחט חו"ל כו' דסמיך ליה דנודע לו מאן דכר שמיה. וכ"מ בכריתות (כד ב) דמשני התם ר"א תברא מי ששנה זו כו'. משמע דלא אשכח תנאי בהדיא דפליגי בהא. ולפרש"י הל"ל הא רבנן והא ר"י. והא דל"ק הא רבנן והא ר"ש דפליגי בחולין שנב"ע. י"ל דס"ל דבהא אפילו חכמים דר"ש מודו משום דמחזי כזבח פסול. רק דלא ידע לחלק בין א"ת לאשם ודאי:
+
+
+###### Rashash on Temurah 34a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/34a:5](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/34a:5)
+
+
+**רש"י ד"ה כאן בשק. ואידי ואידי בטהור או טמא.**פשוט דזה לא קאי רק אשער נזיר דבפטר חמור מאי שייטא דטומאה וטהרה גבי'. והתוי"ט ל"ד דהעתיקו רק על פ"ח. אבל קשה דבנזיר טהור ודאי אף בשער ישרף כדכתיב בקרא. וראיתי בהגהה מוהר"ב רנשבורג דמחק או טמא. ול"נ איפכא לגרוס בטמא לבד:
+
+
+###### Rashash on Temurah 34a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Temurah/r/34a:6](https://torahapp.org/share/book/Rashash%20on%20Temurah/r/34a:6)
+
+
+סליק מסכת תמורה. בעזר בורא רוח וצר צורה
+

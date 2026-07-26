@@ -1,0 +1,8268 @@
+# Rashash on Sanhedrin
+
+רש"ש על סנהדרין
+
+Link: [https://torahapp.org/share/book/Rashash%20on%20Sanhedrin](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin)
+
+דיוני חז״ל בנושאי הלכה, מוסר ותנ"ך שהתקיימו במשך דורות. בנויים כהרחבות על המשנה ושזורים בהם סיפורי אגדה.
+
+19th-century annotations based on classes that the author, Rabbi Shmuel Strashun, delivered in a synagogue in Lithuania.
+
+Sections: Daf-Comment
+
+Location: Talmud/Bavli/Acharonim on Talmud/Rashash/Seder Nezikin
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Vilna Edition (Segments: 950, License: Public Domain)
+
+
+## Daf 2a
+
+###### Rashash on Sanhedrin 2a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/2a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/2a:1)
+
+
+**גמרא הדוב והנמר והברדלס כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 2a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/2a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/2a:2)
+
+
+**שם אין מוסיפין על העיר כו'.**ופרש"י ירושלים. וכתב הרע"ב (והוא מהרמב"ם) דאין מוסיפין קדושה כו'. וק"ל מדוע לא תני כל העיירות המוקפות חומה דקדושות ג"כ לענין שילוח מצורעים (פ"א דכלים מ"ז). ולפמ"ש הרע"ב שם (והוא מהר"ש) דדוקא מוקפות חומה מימות יהב"נ. [ועי' רש"י מגילה (י' ב') ד"ה כל המצות ובשבועות ט"ז סע"א] אולי אף סנהדרי של ע"א לא מהני להרחיב החומה. אבל ק"ק גם משאר עיירות שאמק"ח דקדושות ג"כ לענין הוצאת אבנים המנוגעות מהן כמ"ש שם התוי"ט. וכמו כן קשה מהר הבית דהוא נגד מחנה לויה ומשתלחין ממנו זבים כו' ועי' תוס' שבועות (טו) ד"ה ויוצא. ואולי גם עליו אין יכולים להוסיף כי משכו שהוא ה' מאות אמה על המ"א הוא מרומז בקרא דרוחב חמשים בחמשים. שיהיה שטחו נ' פעמים כחצר המשכן כמש"כ המפרש המכונה בשם רש"י בד"ה (א' כח יט) אלא שלשונו מגומגם שם. וכש"כ שלא היו רשאין להוסיף על ההיכל כי הכל בכתב כו'. רק על המזבח שהוסיפו לדעת ר' יוסי בבית שני מקרא דרשו כדאיתא בזבחים (סב) ומה שהוסיפו על רוחב האולם לעשותו י"א אמה ובבית שלמה לא היה אלא עשרה אפרש אי"ה במדות:
+
+
+###### Rashash on Sanhedrin 2a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/2a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/2a:3)
+
+
+**שם ומנין להביא עוד שלשה כו' הטייתך לרעה ע"פ שנים.**מוכח דאף בסנהדרי קטנה נגמר הדין לחובה ע"פ שנים מכריעין וכ"מ לקמן בפ' היו בודקין ובכ"מ. וק"ל מדוע לא ילכו לב"ד הגדול וישאלו וכדכתיב כי יפלא וגו' וקמת ועלית וגו' ועוד והצילו העדה כתיב. וביותר קשה להפוסקים דאין סומכין על הרוב היכא דאיכא לברורי:
+
+
+###### Rashash on Sanhedrin 2a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/2a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/2a:4)
+
+
+**רש"י ד"ה מיאונין. דכל דתיקון רבנן כעין דאורייתא תיקון.**הנו"ב במ"ת חא"ע סי' קי"ד וכן בתור"ע הבינו דר"ל כעין גט של תורה. וקהו בזה דהיכן מצינו בגט שיהא צריך ג'. ולי אפשר לומר דכוונתו על חליצה שהיא כעין מיאון שהיבם ממאן ליבמה כדכתיב מאן יבמי וגו':
+
+
+###### Rashash on Sanhedrin 2a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/2a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/2a:5)
+
+
+**רש"י ד"ה הזאב. דאמרינן בב"ק אחד שור כו'.**עי' תוי"ט:
+
+
+###### Rashash on Sanhedrin 2a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/2a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/2a:6)
+
+
+**רש"י ד"ה וא"ד לא את השבט. רובו כו'.**מה שהקשו הרש"ל והרש"א מהמקשה לקמן בגמרא דאמר אבל כולו לא. לק"מ דרש"י לא בא לשלול כולו אלא דפי' דה"ה רובו דהוא ככולו ברוב המקומות. ולכן מקשה שפיר מעיקר הכוונה. דזה ודאי לא ניתן להאמר שיכוין התנא לרובו דוקא ולא לכולו. אולם מפי' הרמב"ם ומחבורו ברפ"ה מהל' סנהדרין משמע דדוקא כולו. ונ"ל ראיה לפירש"י דהא אמרי' נמי ואי אתה מוציא כל העיר כולה והתם רובה ככולה כדאי' לקמן (קי"א ב) במשנה ועד שיודח רובה. ומש"כ הרש"א וה"ק ריו"נ בהדיא עד רובו משמע דמרובו כו'. לכאורה תמוה דהא רש"י פי' בדר' יאשיה וטפי ממאה נפקא כו' אלמא שפי' דעו"ע בכלל וא"כ נוכל לומר גם בדריו"נ דעד רובו ורובו בכלל וכל שאינו כולו ממש הוא נכלל ברובו. וכן הלשון ואפילו ריו"נ ל"ק אלא רובו כו' מוכח להדיא דלא כדבריו ועי' בלח"מ:
+
+
+
+## Daf 2b
+
+###### Rashash on Sanhedrin 2b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/2b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/2b:1)
+
+
+**רש"י ד"ה ואין ב"ד שקול. ולמ"ל הטייתך לטובה עפ"א כו'.**לכאורה הא משכ"ל במוסיפין כמו דמשני ר' אבהו על הטייתך לרעה עפ"ש ונל"פ דהא דאין ב"ד שקול הוא מקרא דלנטות עשה לך ב"ד נוטה כדלקמן (ג ב). ולישנא דסוף סוף כו' דלקמן בדברי המקשה קאי על רישא דמילתא דקאמר ומנין להביא עוד כו' הטייתך לרעה עפ"ש. וראיתי להתוי"ט שגם הוא העתיק ע"ז דרשה דלנטות. ולא הרגיש על הרע"ב שפי' טעמא דלמ"ל הטייתך כו' כפירש"י. שוב התבוננתי דרש"י לשיטתו בסוגיא דלקמן דמפרש לנטות אחרי רבים עשה לך ב"ד שיהיה בו נטייה אחרי רבים. וקיצר בכאן וסמיך אדלקמיה:
+
+
+###### Rashash on Sanhedrin 2b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/2b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/2b:2)
+
+
+**רש"י ד"ה הודאות. הלואה אחר הלואה כו' גבי עדים זוממים.**תיבת זוממים נראה למחוק:
+
+
+
+## Daf 3a
+
+###### Rashash on Sanhedrin 3a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/3a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/3a:1)
+
+
+**גמרא נזק היינו חבלות.**הן לשטת רש"י לקמן (סוף דף יג) דהא דאמרינן לעיל דבהודאה והלואה לא בעינן מומחין משום נע"ד היינו אפילו בא"י ונזק דקתני בהני דבעי מומחין הוא אפילו בשן ורגל דשכיחין (ובבבל עבדינן שליחותייהו) מ"מ בא"י דאיכא מומחין לא מכשרי הדיוטות וכמש"כ מהר"ם. לא א"ש כ"כ הקושיא דהא אי לא תני נזק ה"א דבנזקי שן ורגל ל"ב מומחין כמו בבבל. אך י"ל דהקושיא קאי לתירוצא דרב אחא דסמיך ליה:
+
+
+###### Rashash on Sanhedrin 3a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/3a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/3a:2)
+
+
+**רש"י ד"ה דגמירי.**צ"ל דגמיר:
+
+
+###### Rashash on Sanhedrin 3a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/3a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/3a:3)
+
+
+**תד"ה נזק. לאו כו' אלא כו' ומיהו כו' אבל כו' דאין מועד בבבל.**והקשה התוי"ט דאמאי שייר לאינך נזקים ותמיהני דהא כ' התוס' לעיל בד"ה שלא דנזקי שור בשור וכל הני דעבדינן שליחותייהו הויין בכלל הודאות והלואות דהיינו בכלל דיני ממונות דתני ברישא:
+
+
+
+## Daf 3b
+
+###### Rashash on Sanhedrin 3b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/3b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/3b:1)
+
+
+**גמרא נימא בדורשין תחילות קמפלגי כו' לא דכ"ע אד"ת כו'.**לכאורה מפני מה סני ליה לומר דפליגי בד"ת דהא בסוכה (ו ב) איכא לישנא דפליגי בזה ר"ש ורבנן ועי' בתוס' שם וכאן. ונ"ל משום דאיתא במכילתא פרשת משפטים בפסוק לא תבשל גדי בחלב אמו דר' יאשיה אמר דראשון תחלה נאמר ואין דורשין תחלות. וא"כ אם נאמר כאן דפליגי בד"ת יקשה דר' יאשיה אדר' יאשיה ונכון בעז"ה:
+
+
+###### Rashash on Sanhedrin 3b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/3b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/3b:2)
+
+
+**שם אימר דשמעת ליה לר"י בס"ג דכתיבי קראי.**התוי"ט רוצה להגיה דכתיבי בקרא ע"ש (וברש"ל משמע דכן היה לפניו הגי' ברש"י) הן לפי פירושו לא היה צריך להגהה דהכתוב שם שנה ושלש שבעים וכן בפ' משפטים כתיב ושבעים מזקני ישראל. ויתפרש ע"ד שאמרו בחולין (כב ב) לא לישתמיט קרא כו' וה"נ לא לישתמיט קרא ולכתוב שבעים ואחד חד זימנא. ולי ה"נ דכוונת הש"ס על הקרא דוישארו שני אנשים דדרשינן (לקמן יז) בקלפי נשתיירו ע"ש ואם היה ע"א לא ה"ל להשאר אלא אחד:
+
+
+###### Rashash on Sanhedrin 3b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/3b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/3b:3)
+
+
+**תד"ה ר"י. היינו משום דמשה ע"ג.**הרש"א הניח דבריהם בצ"ע. ול"נ דסברת התוס' דבהא כ"ע מודו דבעינן אחד ע"ג (ועי' לקמן (טז) בתד"ה אחד וי"מ כו' ובמש"כ שם) כדאשכחן במשה רק דבזה פליגי דלרבנן גם הוא מן המנין ולכ"ד שצריך סנ"ג גם הוא היה מוכרח לישב עמהם כדאמר לקמן ואת בהדייהו ולר"י לא היה מן המנין וגם בלעדו היו דנין אפי' דבר שצריך סנ"ג. דהוא היה טרוד בשא"ד שהיה מלך ונביא עי' לקמן (טז ב) בתד"ה את תבנית. זולת לעת הצורך בעת שנתקשו באחד מן הדינים וכגון לענין פהע"ד ש"צ וכמש"כ התוס' שם וכן לעבר השנה דתניא לקמן (יא) אין מעברין אה"ש אא"כ ירצה נשיא. וכן להא דתנן בפ"ב דר"ה ראש ב"ד אומר מקודש ויליף לה בגמרא מן וידבר משה. רק דק"ק לפ"ז מאי דקאמר שם לר"י עמך משום שכינה כו' וי"ל:
+
+
+
+## Daf 4a
+
+###### Rashash on Sanhedrin 4a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/4a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/4a:1)
+
+
+**גמרא מנין לר"ד שיצאה מב' מתים כו'.**הן באהלות פ"ב מ"ו איתא ור"ד מב' מתים (וכן שם לעיל מ"ב) בלא תיבת שיצאה. ונ"ל דכלפי דאיתא בתוספתא רפ"ג הביאה הר"ש בפ"ב מ"ב דאר"י ל"נ ר"ע וחכמים על ר"ד שפירש מב' מתים שהיא טהורה עמ"נ על ר"ד שפירשה מב' רביעיות מב' מתים כו' להכי קאמר הכא שיצאה מב"מ לאשמועינן דאפי' לא יצאה רק חצי רביעית מזה וח"ר מזה ג"כ מטמאה וכרשב"י בתוס' שם דדוקא בכה"ג נחלקו ובבאה מב' רביעיות מב"מ אף חכמים מודו. וזהו שאמר ב' נפשות ושיעור אחד ר"ל דלא יצא מב' הנפשות רק שיעור א':
+
+
+###### Rashash on Sanhedrin 4a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/4a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/4a:2)
+
+
+**שם יכול בחלב אמרת י"א למקרא.**פי' דחלב משתנה בסמיכות אבל חלב לא כדכתיב חלב צאן עם חלב כרים. שמעתי מפי המדקדק בעל ספר הל"מ ז"ל:
+
+
+###### Rashash on Sanhedrin 4a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/4a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/4a:3)
+
+
+**רש"י ד"ה קרנת. בחטאות כו' ובכבשה כו' ובשעירה דיחיד כו'.**כצ"ל. ותימה שהקדים כבשה לשעירה שלא כסדרן בפרשה וכבר הרגיש בזה הא"ת הביאו המ"ש. וע"ש:
+
+
+###### Rashash on Sanhedrin 4a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/4a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/4a:4)
+
+
+**תד"ה ורבנן ירשיען.**הגה"ה שעה"ג בשם מהר"ם משובשת:
+
+
+###### Rashash on Sanhedrin 4a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/4a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/4a:5)
+
+
+**תד"ה ורבנן נפשת. תימה כו' ל"ל תרי קראי כו'.**לכאורה חד למגע וחד לאהל. והא דקאמר שם ור"ע לטעמיה הוא כפי' רש"י שם:
+
+
+
+## Daf 4b
+
+###### Rashash on Sanhedrin 4b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/4b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/4b:1)
+
+
+**רש"י ד"ה ואל יוכיח. וכולם שמעתים ודחטאת העוף כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 4b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/4b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/4b:2)
+
+
+**רש"י ד"ה דשני קרא. אותיות הקריה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 4b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/4b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/4b:3)
+
+
+**תד"ה לטטפת. ובירושלמי כו' וריו"ח בשם ר' ירמיה כו'.**התוי"ט בפ' הנחנקין מ"ג הגיה ר' ירמיה בשם ר' יוחנן:
+
+
+###### Rashash on Sanhedrin 4b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/4b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/4b:4)
+
+
+**תד"ה כדרך. לכך מפרש ר"ת איפכא כדרך שזכורך בא ליראות כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 4b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/4b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/4b:5)
+
+
+**תד"ה דרך בישול. והאי דקרי לצלי קדר בישול כו' ש"ה דכתיב ובשל כו'.**אבל מה יענו להא דכתיב בפ' ראה גבי פסח ובשלת ובד"ה (ב לה) ויבשלו הפסח ומזה ילפינן בר"פ הנודר מה"מ דצלי בכלל בישול. ומן המקראות הללו יקשה ג"כ לפי' הפר"ח בריש הל' בב"ח בגמרא זו:
+
+
+
+## Daf 5a
+
+###### Rashash on Sanhedrin 5a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/5a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/5a:1)
+
+
+**תד"ה כגון. והא דאמר כגון אנא כו'.**כצ"ל:
+
+
+
+## Daf 5b
+
+###### Rashash on Sanhedrin 5b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/5b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/5b:1)
+
+
+**תד"ה אלא. ולכך שרי חוץ לש"פ כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 5b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/5b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/5b:2)
+
+
+**בא"ד ומשמע התם כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 5b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/5b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/5b:3)
+
+
+**תד"ה יפה. ונראה כו' כמו שרגילין לעשות הדין.**הן אף לשמואל אין רגילין לעשות הדין בפחות מג' כדתנן ד"מ בשלשה אלא דלדידיה דאף בע"כ דיניהם דין כמש"כ התוס' לעיל ע"א ד"ה דן א"כ דל קבלתם מהכא והוה כבע"כ דגם כן דיניהם דין:
+
+
+
+## Daf 6a
+
+###### Rashash on Sanhedrin 6a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/6a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/6a:1)
+
+
+**רש"י ד"ה סברוה. דבעו למימר כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 6a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/6a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/6a:2)
+
+
+**תד"ה דכ"ע. אבל רבי שמעון ב"ג כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 6a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/6a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/6a:3)
+
+
+**תד"ה מקשינן. דכתיב (זכריה ח׳:ט״ז) אמת ומשפט שלום כו'.**כצ"ל:
+
+
+
+## Daf 6b
+
+###### Rashash on Sanhedrin 6b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/6b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/6b:1)
+
+
+**גמרא וכן ביהושפט ה"א ויאמר אל השופטים ראו מה אתם עושים כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 6b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/6b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/6b:2)
+
+
+**שם והא ר"ה תלמידיה דרב הוה.**ב"ק (קטו) וש"נ:
+
+
+###### Rashash on Sanhedrin 6b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/6b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/6b:3)
+
+
+**תד"ה טחנה. להכי נקוט ואפאה כו'.**עי' מש"כ בזה בב"ק בס"ד:
+
+
+
+## Daf 7a
+
+###### Rashash on Sanhedrin 7a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/7a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/7a:1)
+
+
+**גמרא כל דיין שנוטל ממון מזה ונותן לזה כו'.**כצ"ל. וכ"ה ברי"ף ורא"ש ולקמן (ח) במימרא דר"ח בר"ח ובזה א"ש הסימן:
+
+
+
+## Daf 7b
+
+###### Rashash on Sanhedrin 7b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/7b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/7b:1)
+
+
+**גמרא שיבא מכשורא.**בגליון ד"ח איתא דצ"ל שיכא והוא מהרש"ל. ותמוה ועפירש"י וכן הערוך הביאו בערך שב:
+
+
+###### Rashash on Sanhedrin 7b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/7b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/7b:2)
+
+
+**שם הוי אומרים לעץ הקיצה.**במקרא כתוב אומר:
+
+
+###### Rashash on Sanhedrin 7b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/7b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/7b:3)
+
+
+**שם קרי ביה נמי שמע כו'.**משום דשמוע כתיב ח"ו ועמש"כ בברכות (טו):
+
+
+###### Rashash on Sanhedrin 7b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/7b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/7b:4)
+
+
+**שם צדק את הדין ואח"כ חתכהו.**הרש"א בח"א נדחק בביאורו. ול"נ דבא לומר אם בא דין לפניך אשר תמצאהו מפורש אולם יש לך קושיא או סתירה עליו ממק"א אל תאמר אפסקהו כמו שהוא ואח"כ אראה ליישב הקושיא או הסתירה ע"ד שאמרו בעירובין (סז ב) בדרבנן עבדינן מעשה והדר מותבינן תיובתא. אלא צדקהו ר"ל תרצהו תחלה מהקושיות והסתירות ואח"כ תפסקהו:
+
+
+
+## Daf 8a
+
+###### Rashash on Sanhedrin 8a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/8a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/8a:1)
+
+
+**גמרא כדתניא ראויה היתה פרשת נחלות כו'.**כצ"ל כדלקמן גבי מקושש וכ"ה בב"ב:
+
+
+###### Rashash on Sanhedrin 8a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/8a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/8a:2)
+
+
+**שם אתה והזקנים שבדור עמך.**כצ"ל וכ"ה ברי"ף ורא"ש וכן העתיק רש"י בפיה"ת:
+
+
+###### Rashash on Sanhedrin 8a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/8a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/8a:3)
+
+
+**רש"י ד"ה משה א"ל. ובמקרא דכי אתה תביא כו' נשבעתי להם וגו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 8a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/8a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/8a:4)
+
+
+**תד"ה מוציא ש"ר. ואתי להוציא לעז כו' לפי שלא ידעו לדון הוסיפו עליהן.**והרמב"ם בפי' הוסיף לומר או שהן פסולים. וכ"ע התוי"ט ל"י מ"ק דהא עדיין הם יושבים ודנין עם אלו. אולי דעת התוי"ט שגם בדיינין נמצא אחד מהם קרוב או פסול דינם בטל. אולם ד"ז תלוי באשלי רברבי ועי' תומים סי' מו ס"ק כח שהוכיח דעת הרי"ף ששאר הדיינים לא נפסלו. וא"כ י"ל שגם הרמב"ם הולך בזה בשיטת רבו הרי"ף:
+
+
+###### Rashash on Sanhedrin 8a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/8a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/8a:5)
+
+
+**בסד"ה ואין לדמות ליוסיפו הדיינין לקמן כו'.**וכתב התוי"ט דשם אמת הוא שא' אמר א"י. אבל מה יענה להא דתנן לקמן (מ א) י"ב מחייבין וי"א מזכין דיוסיפו הדיינין. וי"ל דהתם ג"כ אמת הוא שלא היו יכולין להכריע גם אחד מהם לדעתם כדאי' שם בגמרא בסוה"פ כדי שלא יצאו מב"ד מעורבבין:
+
+
+
+## Daf 8b
+
+###### Rashash on Sanhedrin 8b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/8b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/8b:1)
+
+
+**גמרא והאי תנא הוא כו'.**עי' פירש"י וק"ל דהכי הל"ל וקמיפלגי בפלוגתא דר"י ורבנן כלישני דאינך דלקמן:
+
+
+###### Rashash on Sanhedrin 8b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/8b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/8b:2)
+
+
+**רש"י ד"ה והזימום. ואפי' להפסידה כתובתה לא מהימן כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 8b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/8b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/8b:3)
+
+
+**תד"ה בעדה. אבל לענין כ"ג דדרשינן מהאי קרא אין סברא כו'.**כצ"ל:
+
+
+
+## Daf 9b
+
+###### Rashash on Sanhedrin 9b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/9b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/9b:1)
+
+
+**גמרא והתורה אמרה אל תשת רשע עד.**עפרש"י. ועמש"כ במ"ר נשא פ"ו אות ח' בהערה:
+
+
+###### Rashash on Sanhedrin 9b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/9b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/9b:2)
+
+
+**רש"י ד"ה ומשלמין ממון. מאה כסף כו'.**לכאורה גם טוה"נ כתובה צריכין לשלם לו. והתוס' בכתובות ר"ד ל"א פי' רק לענין הכתובה וצ"ע:
+
+
+###### Rashash on Sanhedrin 9b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/9b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/9b:3)
+
+
+**תד"ה ואין. דאם היה כהן נשוי אחותו.**ר"ל של העד:
+
+
+
+## Daf 10a
+
+###### Rashash on Sanhedrin 10a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/10a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/10a:1)
+
+
+**גמרא א"ק ונקלה אחיך לעיניך כי מחית אגבא דחיי מחית.**ופירש"י בשעה שלוקה יהא אחיך שיכה את החי. משמע דלאחר מיתה לא נקרא תו אח. וכן במכות (ה ב) במשנה כאשר זמם לעשות לאחיו והרי אחיו קיים עי' פירש"י שם. ותימה דביבמות (נ"ה ב) אמרי' דלאחר מיתה נמי איקרי שארו ופירש"י מדכתיב כי אם לשארו גבי טומאה (וכ"ה לפי האמת כמש"כ התוס' בב"ב (קי"ד ב) ד"ה מה ודלא כמש"כ ביבמות שם כמו שתמהתי עליהם בחדושי שם) והרי שם כתיב ג"כ אח. ולולי פירש"י הייתי מפרש כאן דיליף מן ונקלה דלאחר מיתה לאו בר קלון הוא כדאיתא בב"ק (פ"ו ב) והא מית ליה ול"ל כיסופא. ונ"ל ליישב דאח מחמת קורבה שהוא בן אביו או בן אמו ודאי נקרא אח אף לאחר מיתה. אבל אחיך דהכא הוא מפני שאחיו הוא במצות כדאיתא שם (פ"ח) וכיון דמת דנעשה חפשי מה"מ שוב איננו אח:
+
+
+###### Rashash on Sanhedrin 10a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/10a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/10a:2)
+
+
+**רש"י ד"ה משום. דב"ד הצדיקו כו' והיה אם בן הכות הרשע.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 10a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/10a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/10a:3)
+
+
+**רש"י ד"ה ונקלה. כי מחי אידך פלגא כו'.**כצ"ל:
+
+
+
+## Daf 10b
+
+###### Rashash on Sanhedrin 10b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/10b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/10b:1)
+
+
+**גמרא רנ"א קידוש אחר עיבור כו'.**נ"ל להגיה רנב"י מדמזכירו אחר אביי ורבא:
+
+
+###### Rashash on Sanhedrin 10b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/10b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/10b:2)
+
+
+**שם תניא כיצד ארשב"ג בג' מתחילין כו'.**עד סיומא. בפשוטא נראה דהב' שמוסיפין בסוף לתשלום ז' אינם לסיועת המו"מ אם צריכה לעבר (דזה כבר נגמר בהחמשה כיון דג' אמרו דצריכה הולכין אחר הרוב) רק בכדי שיוגמר העבור במושב ז' לטעמים דלקמן וכ"מ מפירש"י. אולם דעת הרמב"ם בפי' ובחבורו פ"ד מהל' קה"ח ה"י נראה דאחר הוספת הב' האחרונים נו"נ עוד הפעם וכ"נ מפירש"י בשבת (יא) ד"ה עיבור שנה. וכבר כתבתי זאת בהגהותי למ"ר ויקרא פכ"ט. ונראה דאף לדעת הרמב"ם ה"ה אם בתחלה הסכימו כל הג' שנצרך לישב מוסיפין עוד ב' שיהיה המו"מ בה' וכן אף אם הסכימו כל הה' שצריכה להתעבר מוסיפין עוד ב' שיהיה הגמר בז'. ותמה אנכי על המפרש להל' קה"ח ואחריו נמשך התוי"ט שנראה דעתו שאם הסכימו כולם אין מהצורך להוסיף. ומה שמדמה שם עיבור השנה לד"נ. נ"ל ראיה מה דפסק הרמב"ם שם דמתחילין בה מן הצד כד"נ. ומפרשיו לא חשפו מקורו. והוא מהירושלמי בפ"ב דר"ה ה"ה ובפרקין ה"ב. וטעמא נ"ל דנ"מ בה לד"נ להעשות בני עונשין בני יג"ש ובנות יב"ש. וגם להעשות בן תשע ובת ג' שתהא ביאתן ביאה להענש אחרים ע"י. ומש"כ התוי"ט בסה"ד להשלים המכוון כו' להיות כו' והאסיף בזמנן. משמע דמעברין ג"כ בשביל האסיף שיהא בזמן החג כדכתיב וחג האסיף. אך ל"מ זה בגמרתינו רק אם תקופת תמוז נמשכת כו' וכמש"כ בדבור הקודם [אח"ז מצאתי בת"כ פרשת אמור באספכם את תבואת הארץ עבר אה"ש שתעשה החג באסיפת הפירות. הביאו רש"י בנימוקיו בשינוי לשון קצת ומפירוש הרמב"ן שם משמע דזהו על פירות האילן דלקמן (י"א ב') ודלא כפירש"י ותוס' שם והרמב"ם בפ"ד מהל' קה"ח ס"ג מפרש שלא צמחו פירות האילן שדרכן לצמח בזמן הפסח ובאמת יש לתמוה על הת"כ איך יכולין ב"ד לידע קודם ניסן מה יהיה בשלהי קייטא באסיפת הפירות וביותר כשרואין שהאביב הוא בזמנו ועי' תוס' שם בד"ה או דלמא] :
+
+
+###### Rashash on Sanhedrin 10b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/10b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/10b:3)
+
+
+**שם תני רב יוסף הני כו'.**כצ"ל:
+
+
+
+## Daf 11a
+
+###### Rashash on Sanhedrin 11a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/11a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/11a:1)
+
+
+**גמרא מעשה בר"ג כו' עמד שמואל הקטן כו'.**ובברכות (כ"ח ב) הסדיר כו' לפני ר"ג כו' א"ל ר"ג כו' עמד שמואל הקטן כו' וע"כ הוא ר"ג הזקן דהרי לקמן איתא דאמר שמואל הקטן בשעת מיתתו שמעון כו' לחרבא והוא רשב"ג הנהרג אביו של ר"ג דיבנה. וע"כ לא נתמנה בנו בחייו. ובפ"ב דפאה מ"ו מעשה כו' לפני ר"ג ועלו ללשכת הגזית וע"כ ג"כ המכוון על ר"ג הזקן דבימי ר"ג דיבנה מי הוו ב"ד בלה"ג. והתוס' בנדה (ו ב) כתבו דאין רגילות להזכיר ר"ג סתם אלא ר"ג הזקן:
+
+
+###### Rashash on Sanhedrin 11a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/11a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/11a:2)
+
+
+**שם א"ל ח"ו לא תהא כזאת בישראל.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 11a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/11a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/11a:3)
+
+
+**שם מיתיבי כמה עה"ש כו' רשבג"א חדש.**ק"ל מאי קושיא דילמא משום דלא עביד כשמעתיה מפני שרבים חלקו עליו כדאיתא בירושלמי ברכות הבאתיו בחדושי לשו"ע או"ח סי' תע"ב
+
+
+###### Rashash on Sanhedrin 11a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/11a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/11a:4)
+
+
+**רש"י ד"ה ח"ו. שאוכל השום בבואי כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 11a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/11a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/11a:5)
+
+
+**תד"ה מפני. משום כו' אפי' אשנים מהם אין מעברין אלא שעושים אותן כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 11a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/11a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/11a:6)
+
+
+**תד"ה ומפני. כדתנן פ"ק דתענית כו'.**כצ"ל:
+
+
+
+## Daf 11b
+
+###### Rashash on Sanhedrin 11b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/11b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/11b:1)
+
+
+**רש"י ד"ה דזמן ביעורא. שנה שלישית או ששית כו' ראשונה ושניה חייב כו'.**וכ"כ ביבמות (עג). ואינו מדויק דבפ"ה דמע"ש מ"ו תנן דזמן הביעור בעה"פ של רביעית ושל שביעית ע"ש ובתוס' יבמות שם. וכן לשונו בפיה"ת אינו מכוון בזה:
+
+
+###### Rashash on Sanhedrin 11b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/11b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/11b:2)
+
+
+**רש"י ד"ה ועל פירות האילן. ואם לא יביאם כו' צריך לטרוח כו'.**ובתד"ה או מבואר דזה הוי מדאורייתא:
+
+
+###### Rashash on Sanhedrin 11b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/11b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/11b:3)
+
+
+**רש"י ד"ה ובזמן שאביב אחד. אבל כשאביב ראוי ליקצר כו'.**פי' דלבד שמאריכין עליהם איסור אכילה מן החדש. אלא דגם לקצור אסור כדכתיב ראשית קצירכם וכדאיתא במנחות:
+
+
+###### Rashash on Sanhedrin 11b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/11b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/11b:4)
+
+
+**רש"י ד"ה איבעיא להו. לפיכך כשהיא צריכה לעבר עפה"א כו'.**הא דלא פי' על האביב הוא משום דבזה גם לת"ק היו שמחין. אבל נוכל לפרש דהכוונה כאן אם יש סעד מן הגדיים כו' דגם על א' מהשלשה מעברין כדלעיל. אלא דלא נזכר זה בברייתא זו:
+
+
+
+## Daf 12a
+
+###### Rashash on Sanhedrin 12a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/12a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/12a:1)
+
+
+**רש"י ד"ה ששנת בצורת. בקראי מ"ל.**נ"ל דבא ליישב בזה קושיית הרש"א בתד"ה ומפני מה ע"ש:
+
+
+###### Rashash on Sanhedrin 12a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/12a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/12a:2)
+
+
+**רש"י ד"ה ולא במ"ש. ומאריכין כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 12a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/12a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/12a:3)
+
+
+**תד"ה לא משנה. ואע"ג דלא מגלין מ"מ אין מחשבין כו'.**והא דמסקינן לעיל חשובי מיחשבי וכו' היינו דוקא מפני הדחק כדפירש"י לקמן בסמוך:
+
+
+###### Rashash on Sanhedrin 12a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/12a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/12a:4)
+
+
+**תד"ה ולא. ולפ"ז לא יתכן כו'.**מה שהקשה המהרש"א לפמש"כ בדבור הקודם לק"מ. אך ק"ק דבלאו הא דר"ש לא יתכן פירושם דיהיה ג"ש זא"ז זו ואצ"ל זו וי"ל בדוחק:
+
+
+###### Rashash on Sanhedrin 12a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/12a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/12a:5)
+
+
+**תד"ה חוששין. דתנן במסכת אהלות פ"ב מ"ג.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 12a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/12a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/12a:6)
+
+
+**תד"ה שעיבר. דע"ז מטמא בפר"ע כמת.**ע"ש (פג ב) דלא איתקש למת אלא לקולא דלא מטמא בפחות מכזית:
+
+
+###### Rashash on Sanhedrin 12a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/12a:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/12a:7)
+
+
+**בא"ד ותימה שהרי בט"ו יום היו כו'.**כ"נ דצ"ל ור"ל בט"ו יום שמכ"ט באדר שזהו הזמן המאוחר אשר בו יכולין לעבר כדשמואל לקמן עד י"ד בניסן:
+
+
+
+## Daf 12b
+
+###### Rashash on Sanhedrin 12b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/12b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/12b:1)
+
+
+**גמרא שהשיא א"י לעשות פסח שני.**ק"ק לפ"ז מאי דכתיב שם וישחטו הפסח בי"ד לחדש השני וגו' ויעשו בני ישראל כו' את חג המצות שבעת ימים. הלא פסח שני אינו אלא לילה אחת:
+
+
+###### Rashash on Sanhedrin 12b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/12b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/12b:2)
+
+
+**שם אלא חסורי מיחסרא כו'.**עיין בש"א תשובה ל"ח פירוש נכון בסוגיא זו:
+
+
+###### Rashash on Sanhedrin 12b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/12b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/12b:3)
+
+
+**שם עיברוה מאי אמר עולא א"מ אה"ח.**עפירש"י. ולכאורה סותר למה שפי' לעיל (י ב) בד"ה חישוב דעיבור. וגם ומקודש שבדברי ר"נ הוא אך למותר. ולעד"נ דקידוש נקרא אם מקדשין ביום ל' כמבואר בר"ה (כ) א"ר כו' כאן לקדשו ע"ש פירש"י ובכל הסוגיא (ונ"ל משום דקי"ל כראב"צ דאם לא נראה בזמנו אין מקדשין אותו שם כ"ד ונכון בעז"ה) ולפ"ז יהיה המכוון כאן דאם עברו אה"ח ביום ל' אין מקדשין אותו לעשותו ר"ח אדר הב' דא"כ היה ראוי לעשותו ג"כ ר"ח ניסן אם לא עברוה וקרינן ביה זה ניסן ואין אחר ניסן אבל אם יעברו אה"ח ולא יקבעו ר"ח אדר הב' עד מחרתו לא נראה כ"כ יום אתמול לעשותו ר"ח ניסן וכ"נ שפירש הרמב"ם בחבורו. רק מה שפסק שם דאף לכתחלה מקדשין צריך עיון דהא גם ר"נ לא פי' אלא בדיעבד. ודע שנראה להגיה אמר רבה בטל העבור תחת רבא:
+
+
+
+## Daf 13a
+
+###### Rashash on Sanhedrin 13a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/13a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/13a:1)
+
+
+**רש"י ד"ה חג האסיף. ולמיעבריה לאלול כו' לא אפשר כו'.**ל"ד אלול דה"ה חדש אחר וכדכ' לקמן בדבור זה הלכך כו' אי דחית ליה כו' בין ע"י עיבור חדש אחר. דהא אמ"ע אחר אדר ואיכא חדשים טובא עד אלול:
+
+
+###### Rashash on Sanhedrin 13a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/13a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/13a:2)
+
+
+**בא"ד דהא מעיקרא מסדרינן לירחי כי היכי כו'.**כ"נ דצ"ל וכדלקמן בדבריו:
+
+
+###### Rashash on Sanhedrin 13a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/13a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/13a:3)
+
+
+**בא"ד ובמס' סוכה נמי כו' לא מיקלע בשבת כו'.**כצ"ל ותיבת אלול נ"ל למחוק ע"ש ובפירש"י ותוס':
+
+
+###### Rashash on Sanhedrin 13a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/13a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/13a:4)
+
+
+**תד"ה ור"י. ודוקא לאחרים דקיימי בתקופת ניסן כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 13a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/13a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/13a:5)
+
+
+**בא"ד דאשכחנא כ"ת דלא חיישי' לאד"ו.**כצ"ל:
+
+
+
+## Daf 13b
+
+###### Rashash on Sanhedrin 13b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/13b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/13b:1)
+
+
+**גמרא א"ב יום תקופה מתחיל כו'.**עפירש"י. ולעד"נ דהא איתא בעירובין (נו) דתקופת תשרי אינה נופלת לעולם בתחלת הלילה. וא"כ ע"כ הא דקאמרי הני תנאי ט"ז לאו דוקא אלא גם עוד שעות. ולכן נוכל לומר ג"כ דל"ד שלמים אלא אפילו לא נחסר רק שעות מיום ט"ז. ובזה פליגי דחד כוונתו שעות יותר על ט"ז ואידך כוונתו על שעות בתוך ט"ז (וכן בפ"ב דערלה מ"ב וג' מפרשי הרע"ב והתוי"ט דלמאה ולמאתים דאיתא שם לאו מצומצמין אלא פחות ע"ש) ולעיל דפריך אי קסברי יום תקופה גומר כו' אכתי לא נחית לזה וכצ"ל גם לפירש"י:
+
+
+###### Rashash on Sanhedrin 13b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/13b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/13b:2)
+
+
+**רש"י ד"ה איכא בינייהו.**דבור זה שייך לע"א
+
+
+###### Rashash on Sanhedrin 13b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/13b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/13b:3)
+
+
+**רש"י ד"ה תנא. ויום תקופה מתחיל.**וצ"ל דאם היה חסר י"ד יום ועוד שעות הוה בכלל י"ד ואין מעברין. וק"ל דא"כ איכא לאוקמי בתקופת תשרי ואם היה חסר י"ד ועוד שעות אין מעברין אבל אם היה חסר ט"ו יום שלמים. (והוא ע"כ עם עוד שעות דא"נ לעולם בתחילת הלילה כמש"כ לעיל) מעברין דיום תקופה גומר. ע"כ נלע"ד דלפי מאי דמוקי לה דמלמעלה למטה קחשיב ועד י"ד מעברין ע"כ משמע דאם היה חסר י"ד ועוד שעות מעברין דיום תקופה גומר. אבל זה ודאי אם נופלת התקופה בתחילת ליל ט"ו מעברין לאדר דכיון דהיא בתחילת הלילה לכ"ע יום תקופה מתחיל. ובזה קושיא הא' של התוס' לק"מ:
+
+
+###### Rashash on Sanhedrin 13b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/13b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/13b:4)
+
+
+**גמרא אריו"ח מיסמך סבי.**עי' בתוי"ט שכתב ואפשר לדחות ראיית הרמב"ם דאליהו הנביא יכול לסמוך ע"ש. אך מה יענה להא דאיתא בעירובין (מג ב) לב"ד הגדול אתא ע"ש הרי דאיתא לב"ד הגדול טרם ביאתו:
+
+
+###### Rashash on Sanhedrin 13b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/13b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/13b:5)
+
+
+**רש"י ד"ה במקום ע"א קאי.**עי' לקמן (טז ב) בפי' ד"ה דאוקי:
+
+
+
+## Daf 14a
+
+###### Rashash on Sanhedrin 14a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/14a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/14a:1)
+
+
+**גמרא ר' חנינא ורבי הושעיא הוה קא משתקיד כו'.**הרש"א בח"א הגיה דצ"ל רב בתרוייהו:
+
+
+###### Rashash on Sanhedrin 14a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/14a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/14a:2)
+
+
+**רש"י ד"ה וקיים. שמקברת את בעלה.**פסחים (פז ב) ושם:
+
+
+###### Rashash on Sanhedrin 14a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/14a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/14a:3)
+
+
+**תד"ה ועריפת. זקני אותה העיר מביאין כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 14a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/14a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/14a:4)
+
+
+**תד"ה ור"ש. מן הצאן להוציא את הנוגח כו' אמר ר"ע בת כו'.**כצ"ל:
+
+
+
+## Daf 14b
+
+###### Rashash on Sanhedrin 14b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/14b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/14b:1)
+
+
+**תד"ה מתניתין. דבעינן מלך ונביא או"ת כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 14b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/14b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/14b:2)
+
+
+**גמ' ת"ר איזהו מע"ש שא"ד ידועים כו'.**לכאורה יפלא מדוע לא הביא הש"ס מהמשנה דפ"ד דמע"ש מ"ב דשמה איתא ג"כ ככל האמור בברייתא זו. ולפי מש"כ התד"ה נ"ר י"ל דלהכי מביא הברייתא דמינה מוכח ג"כ דדוקא במע"ש יש חילוק בין דמיו ידועין לא"י וכמשמעות מתניתין. ובפ"ה שם מ"ד מוכח ג"כ דבנ"ר לעולם בעינן ג' ע"ש בר"ש וכ' ג"כ טעם אחר נאות:
+
+
+###### Rashash on Sanhedrin 14b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/14b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/14b:3)
+
+
+**שם אפילו אחד מהם בעלים.**נ"ל דדוקא היכא דאיכא ג' אבל בדמיו ידועין דסגי בחד אין בעליו כשרים לו ובזה אתא לי שפיר לישנא דמתניתין שם בפ"ד יפדה ע"פ עד אחד:
+
+
+
+## Daf 15a
+
+###### Rashash on Sanhedrin 15a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/15a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/15a:1)
+
+
+**גמרא ר' אבהו אמר באומר ערכי עלי בא כהן לגבות ממנו מטלטלין כו'.**ק"ל מאי איריא ערכין אפילו דמי נמי. בשלמא לאוקימתא קמייתא י"ל דאתי לאשמועינן אגב אורחיה כר"מ דאין אדם מ"ד לבטלה. ולהשניה נמי י"ל דאשמעינן דאע"ג דערך הוא דבר קצוב לפי השנים מ"מ כשאמר הרי אלו לערכי דעתו לאתפוסי כל דמי שויין אף אם המה הרבה יותר מדמי ערכו הקצוב. דל"ד להא דמ"ג פ"ב דשקלים ע"ש דהתם כתיב העשיר לא ירבה אבל הכא כמה דבעי מנדב לבהד"ב וכש"כ בדמי עלי דאינו קצוב. אבל לאוקימתא זו קשה. ואולי בדמי עלי כיון דצריך עשרה למשיימיה לא פסיקא ליה למתני בשלשה. אולם קשה דמ"ל נמי באומר הרי עלי מנה לבדה"ב וכדאמרי' בב"ק (ס"ד ו) וכן מ"ל בנהנה מן ההקדש דמשלם קרן וחומש ועמש"ש בב"ק שם. ולזה יש לומר דמועל אינו משלם בקרקע דהתשלומין הוא כמו פדיית ההקדש שנהנה ממנו (עמש"כ בס"ד ברפ"ו דתרומות) ואין הקדש נפדה בקרקע. או מדכתיב גבה ונתן אותו לכהן וכמו שפי' הרע"ב בפי"ח דשבת על הא דהקדש א"נ בקרקע משום דכתיב ונתן אה"ע כו' דבר הניתן מיד ליד והוא מפי' הרמב"ם אך התוי"ט קיהה בדרשה זו ועי' ג"כ מש"כ שמה בס"ד. והעיקר נ"ל דמתניתין תרתי תני הערכין ר"ל עני שהעריך שנידון בהשג יד בג' דצריך ג' לאמוד ערך השגת ידו דבו כתיבי הג' כהנים. והמטלטלין זהו דין שני אף בעשיר דאם בא לגבות ממנו מטלטלין ג"כ בג'. וה"ה בדמי ובהרי עלי מנה כו' אלא משום דאיירי בערכין נקטיה. וזה ילפינן מג' כהנים דכתיבי גבי פדיון בהמה דמה לי עיולי כו'. וכן הא דאמר קרקעות בעשרה דמשמע דזהו פי' והקרקעות תשעה וכהן דמתניתין ה"ה אם בא לפדותן מן ההקדש דעיקר כהנים כתיבי בזה. ודברי התוי"ט בכאן מגומגמין:
+
+
+###### Rashash on Sanhedrin 15a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/15a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/15a:2)
+
+
+**שם בשלמא לר"י היינו דכתיב כהן.**לשון הרע"ב דבערכין כהן כתיב כערכך הכהן. ל"ד בתרתי חדא דזה כתיב בפדיון בהמה. שנית דה"ל למינקט כהן קמא הכתוב שם וגם התוי"ט ל"ד בזה ע"ש. גם מש"כ דל"ד בערכין אלא ה"ה בהקדשות כו' אינו מוכרח די"ל דדוקא בערכין (וכמש"כ לעיל פי' הערכין דמתניתין) משום דכהן קמא דאתא לגופא בהו כתיב אבל אינך אדרבה אתו לרבות אפי' ישראל כדלקמן:
+
+
+###### Rashash on Sanhedrin 15a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/15a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/15a:3)
+
+
+**שם אלא לרבנן כהן ל"ל.**ר"ל דילמה כהן קמא דאתא לגופיה כתבי' בערכין ומאי חזית דעקרית ליה מגופיה ושדיתיה אקרקעות:
+
+
+###### Rashash on Sanhedrin 15a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/15a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/15a:4)
+
+
+**רש"י ד"ה ואדם כי"ב.**מה שנדפס בגליון בשם רש"ל להגיה לשומן הוא שבוש וברש"ל ט"ס:
+
+
+###### Rashash on Sanhedrin 15a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/15a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/15a:5)
+
+
+**תד"ה אם. וי"ל כו' קרא דאיש אשר יתן כו'.**כצ"ל:
+
+
+
+## Daf 15b
+
+###### Rashash on Sanhedrin 15b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/15b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/15b:1)
+
+
+**תד"ה אימא. באפי נפשיה ואיש אשר יתן כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 15b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/15b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/15b:2)
+
+
+**בא"ד וי"ל כו' אבל הכא כו' ולא שור לבעלים.**ק"ל מב"ק (מג) דדריש ר"ל כסף כו' והשור יסקל כ"ז שהשור בסקילה הבעלים משלמין כו'. וגם ריו"ח ל"פ עליו אלא מפני ריבוי דאם עבד ע"ש. ועמש"כ בפסחים (מג ב) בתד"ה סד"א:
+
+
+###### Rashash on Sanhedrin 15b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/15b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/15b:3)
+
+
+**בא"ד וי"ל כו' אבל יומת משמע בב"ד.**ק"ל מלקמן ס"פ הנשרפין דדן רי"ש יומת מן ימות דהוה בידי שמים ע"ש:
+
+
+###### Rashash on Sanhedrin 15b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/15b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/15b:4)
+
+
+**גמרא א"ב נחש.**הרמב"ם פסק כר"ע והראב"ד השיגו. וישוב הכ"מ לכאורה תמוה דהא בכ"מ פסקינן כת"ק אפי' אם שנים חולקין עליו. ומהם ביבמות (נו ב) במשנה דפליגי ר"א ור"ש את"ק ופסק הרמב"ם כת"ק. אבל בב"ב (פג) פריך וכר"י מי לא תנן ר"מ ורש"א כו' אע"ג דת"ק פליג עלייהו. ואולי משום דר"י אמר שם מעשה לסייע לת"ק איכא למימר דכולה ר"י היא. וגם ראב"צ דמייתא הגמרא שם לקמן ס"ל כר"מ ור"ש וא"כ ה"ל תלתא. וביבמות (פ ב) אלא הא דעבד רבא תוספאה כו' כמאן כרבי כו' כיון דאיכא רשב"ג כו' כרבים עביד ואע"ג דת"ק פליג וע"ש בק"נ אות י"ט. והלח"מ מסייעו להרמב"ם מהא דב"ק שהביא רש"י. ואף דע"כ צריך לחלק בין נידון דהכא לדהתם כמש"כ התוס' מ"מ חזינן מהתם דהוא חלוק מהשאר. ולפ"ז יש לסייעו ג"כ מהא דשבת (קכא ב) חמשה נהרגין בשבת כו' ונחש שבא"י ופסקה הרמב"ם אפילו לר"י דמשאצ"ל חייבין עליה ועי' מ"א סי' שי"ו ס"ק כ"ג ואם דהכא מיירי בתרבות מ"מ סעד יש כנ"ל:
+
+
+
+## Daf 16b
+
+###### Rashash on Sanhedrin 16b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/16b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/16b:1)
+
+
+**גמרא שופטים לכל עיר ועיר מניין ת"ל שופטים בכל שעריך.**כצ"ל וכן בשוטרים:
+
+
+###### Rashash on Sanhedrin 16b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/16b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/16b:2)
+
+
+**שם דא"ק והוצאת גו' האשה ההיא וגו' איש ואשה וגו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 16b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/16b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/16b:3)
+
+
+**תד"ה ואחרי. וק"ק דבד"ה בתחלת מלכותו כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 16b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/16b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/16b:4)
+
+
+**בא"ד ואיך יתכן שהיה אביו כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 16b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/16b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/16b:5)
+
+
+**תד"ה את תבנית. הא גבי סנהדרין לשבטים אמרינן כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 16b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/16b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/16b:6)
+
+
+**תד"ה אחד. וי"מ דאחד כו' הוא הנשיא כו'.**עמש"כ לעיל (ג ב) בדבריהם. ונ"ל לומר לפ"ז דלרבנן ג"כ היה הנשיא לבד הע"א ותחת משה עשו לדורות שנים נשיא ואב"ד. השני היה יושב עמהם יחד לכ"ד הנצרך להעשות ע"פ סנה"ג כי הוא היה למנין הע"א. והראשון היה רק לענינים מיוחדים אשר בארתים שם (ואולי הוחלה זאת בימי יוסי בן יועזר ויוסי בן יוחנן שהם הראשונים מהזוגות והקודמים להם אנטיגנוס ושמעון הצדיק לא נמצא להם זוגות) ואתיא הא דהוריות לכ"ע. ובזה א"ש מעשה דתלמי המלך שכנס ע"ב זקנים (מגילה ט) דפשוט דהם הסנה"ג כי מהם תצא תורה ואתא כרבנן. וכן הא דבפ"א דזבחים מ"ג ובפ"ג דידים מ"ה מפי שבעים ושנים זקן. אך שם י"ל לפי שהיה ביום שהושיבו את ראב"ע לנשיא. ור"ג היה ג"כ שם בהועד כדאיתא בברכות (כח) אולם גם מהרמב"ם בריש ה"ס מוכח להדיא דלא היה רק ע"א עם הנשיא והב"ד:
+
+
+###### Rashash on Sanhedrin 16b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/16b:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/16b:7)
+
+
+**בא"ד כדאמרינן גבי זקן ממרא הוא ומופלא שבב"ד.**למיעוט בקיאותי לא מצאתיו בש"ס זולת בתוספתא דמכילתין רפ"ז איתא הוא והמופלא שבהם כו' אבל לא לענין ז"מ ע"ש:
+
+
+###### Rashash on Sanhedrin 16b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/16b:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/16b:8)
+
+
+**תד"ה אחת ולא ג'. אין להקשות דלישתוק מאחת כו'.**עי' רש"א. ולענ"ד נ' דע"כ ל"א תפסת מרובה ל"ת אלא אם תרצה לתפוס דוקא המרובה ולא המיעוט אבל הכא הא לא באת למעט שנים אלא לעשות שנים וגם יותר וכמו דדרשינן זקני שנים הכי יותר פסול. או ערבי נחל שתים והסכמת הפוסקים דאפילו טובא נמי וכדומה הרבה:
+
+
+
+## Daf 17a
+
+###### Rashash on Sanhedrin 17a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/17a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/17a:1)
+
+
+**גמרא עמך ואת בהדייהו.**והא דאמרי' לעיל דמשה במקום ע"א קאי (וא"כ ליבעי ע' וע"א) דז"א אלא כשהוא לבדו (תוי"ט) ונ"ל להטעים ע"פ הא דאיתא באבות פ"ד מ"ח ואל תאמר קבלו דעתי שהן רשאין ולא אתה וכדפי' הרע"ב ע"ש:
+
+
+###### Rashash on Sanhedrin 17a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/17a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/17a:2)
+
+
+**רש"י ד"ה מי שעלה. עלה בידם חלק.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 17a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/17a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/17a:3)
+
+
+**רש"י ד"ה ואי אמר טעמא.**נ"ל דהוה ק"ל שינוי לשון הש"ס דמעיקרא קאמר ואי אמר מילתא והשתא קאמר טעמא. לכן פי' דר"ל דאע"ג דאמר עתה טעמא על מה שאמר תחילה א"י ועכשיו אומר דעה החלטית לזכות או לחובה דוקא לפי' התוס' לקמן (לג ב) וכן הרמב"ם בפ"ט מה"ס אפ"ה לא מקבלינן מיניה. והרש"א נראה שלא הבין כן:
+
+
+###### Rashash on Sanhedrin 17a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/17a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/17a:4)
+
+
+**תד"ה שיודע. הוו בכלל או בנבלת חיה.**עמש"כ בס"ד בעירובין (יג ב) בדבריהם:
+
+
+###### Rashash on Sanhedrin 17a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/17a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/17a:5)
+
+
+**בא"ד**() דבהדיא כו' בתו"כ כו' מק"ו דבהמה שא"מ במגע בכעדשה כו' ת"ק אותם כו'. חפשתי שם ולא מצאתי לא הק"ו ולא המיעוט רק בפרשת שמיני בסופה בפסוק וכי ימות מה"ב אשר היא כו' דריש היא מטמא במשא ואין השרץ מטמא במשא הלא דין הוא מה בהמה שלא עשה דמה כבשרה כו' כאשר הביאו בעצמם בעירובין מתו"כ. והרש"א שכתב שם וה"ה דהמ"ל ק"ו מבהמה שא"מ במגע כעדשה לא זכר מדברי התוס' שלפנינו. ודע דמש"כ הרש"א כאן דנחש מטמא במגע בכזית הוא לפלא בעיני. ומש"כ התוס' על פיר"ת דלא אשכחן אותה דרשה בתו"כ נ"ל דכוונת ר"ת על הא דבתר האי קרא דכל הולך על גחון דפי' התו"כ דזה נחש כתיב ולא תטמאו בהם דדרשו בתו"כ שם דזה הויא הודעה דאין מקבלין טומאה מהם ומזה נמי משמע קצת דאף במגע בכזית א"מ ודלא כרש"א הנ"ל:
+
+
+
+## Daf 17b
+
+###### Rashash on Sanhedrin 17b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/17b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/17b:1)
+
+
+**גמרא כל עיר שאין בה שנים לדבר כו'.**גי' הרמב"ם בפ"א מה"ס ה"ה שאין בה שנים א' לדבר וא' לשמוע כו' וכן היה גי' התוס' במנחות (סה) בד"ה ויודעים ודלא כהגהת הצ"ק שם:
+
+
+###### Rashash on Sanhedrin 17b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/17b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/17b:2)
+
+
+**שם מחכו עלה במערבא ר' אלעזר.**כצ"ל בל"י וכן באיפוך:
+
+
+###### Rashash on Sanhedrin 17b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/17b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/17b:3)
+
+
+**שם ושני עדים וב' זוממין וב' זוממי זוממין כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 17b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/17b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/17b:4)
+
+
+**רש"י ד"ה רב נחמן. שמעון התימני.**ובתוי"ט פ"ב דמע"ש מ"ט כ' שמעון בן ננס ומשמע שכן היה לפניו הגי' ברש"י והסה"ד פוסח בזה על שתי הסעפים:
+
+
+###### Rashash on Sanhedrin 17b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/17b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/17b:5)
+
+
+**רש"י ד"ה והא שלחו. מוציא מכלל רבינו.**כצ"ל:
+
+
+
+## Daf 18a
+
+###### Rashash on Sanhedrin 18a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/18a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/18a:1)
+
+
+**רש"י ד"ה מאתים.**עי' כה"ד. הן לפמש"כ בס"ד לקמן (מ') הלא יצטרך להוסיף לר"י מ"ח ולרבנן מ"ט. ונראה דהא הנוספים הם מהג' שורות רק דכאשר יתוספו על הסנהדרין אז לא ישארו בהמון קריה כנגד שרי עשרות ע"כ צריך שיהיה בעיר עוד אנשים למלאות חסרונם. אך כנגד א' מהנוספים יהיה אותו שאמר א"י דכיון דתו לא שמעינן ליה והוה כמאן דליתיה הרי הוא כאחד העם או כאחד מן השורות אשר גם המה נכנסין במספר העם שכנגד שרי עשרות. ובמש"כ תבין שאין מקום למה שנתפלא התוי"ט בסד"ה מוסיפין. ועי' ברמב"ם בפרק ח ובפ"ט מה"ס ובנו"כ:
+
+
+
+## Daf 18b
+
+###### Rashash on Sanhedrin 18b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/18b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/18b:1)
+
+
+**גמרא אר"י מעיד למלך והתנן לא דן כו'.**הן רש"י פי' דהקושיא היא מולא דנין אותו וכ"נ שפי' התוס'. והתוי"ט ל"ד שהבין דהקושיא היא מולא מעידין אותו. די"ל דהיינו לחובתו וכדמשמע לישנא דאותו ורי"א למלך דר"ל לזכותו:
+
+
+###### Rashash on Sanhedrin 18b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/18b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/18b:2)
+
+
+**רש"י ד"ה אם בכיר. חטין שנזרעו בראש החדש.**עי' ב"מ (קו ב) וברש"י שם ד"ה בחרפי דמוכח שם דזריעת החטים אינה נמשכת כלל בר"ח אדר. וכן בר"ה (טז) בד"ה כי חזי כ' שהחטה נזרעת במרחשוון. לכן נ"ל להגיה פה בראש החורף:
+
+
+
+## Daf 19a
+
+###### Rashash on Sanhedrin 19a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/19a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/19a:1)
+
+
+**גמרא אלא ה"ק כו' מקדושתו לא יצא כו' ור"י אגב מררי כו'.**משמע דר"י נמי דריש מקדושתו וקרא דומן המקדש ל"י דנסיב במתניתין קאי לתרווייהו ונ"ל משום דמשמע דולא יחלל דכתיב בתריה הוא טעם וביאור להקודם. ולא כן פירש"י במשנה (ועליו נוכל לומר דפי' לפי הס"ד כדרכו) והרע"ב אחריו:
+
+
+###### Rashash on Sanhedrin 19a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/19a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/19a:2)
+
+
+**שם וש"מ אבלים עומדים וכה"ע עוברין.**וכן המשנה אומרת דרך כה"ע עוברין והרע"ב ל"ד במש"כ ועומדין בשורה לנחם. וסיום דבריו הוא כהוגן. אך במשנה דברכות פ"ג איתא ג"כ העומדים בשורה כו':
+
+
+###### Rashash on Sanhedrin 19a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/19a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/19a:3)
+
+
+**שם אין שורה פחותה מעשרה בנ"א.**פירוש לנידן זה כי בעלמא מצינו שורה בשלשה כמו בביצה (יד ב') ביומא (פז א):
+
+
+###### Rashash on Sanhedrin 19a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/19a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/19a:4)
+
+
+**רש"י ד"ה משום מעשה. בואי ואראנו ליך.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 19a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/19a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/19a:5)
+
+
+**גמרא אבל מלכי ב"ד דן ודנין אותו.**וכה"ע. ומשמע משום דהם יצייתו לעמוד כשיעידו בם. ובתוי"ט יש כאן ט"ס ולכן רבים מתקשים בו. ונראה לסרס התיבות וכצ"ל וא"ת כו' ואף במלכי ב"ד וא"כ ה"נ לא יהיו נדונין מה"ט (ר"ל משום דיהיה נצרך לעמוד כנ"ל) וקשוט עצמך ואח"כ קשוט אחרים (ומה"ט יפסלו ג"כ לדון) וי"ל כו' דשאני ד"נ דחמירי דלכן אין בזיון להם כשיעמדו:
+
+
+###### Rashash on Sanhedrin 19a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/19a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/19a:6)
+
+
+**תד"ה ינאי. וי"ל משום דעשה דכבוד תורה עדיף כו'.**ונ"ל ראיה מהוריות (יג) חכם כו':
+
+
+
+## Daf 19b
+
+###### Rashash on Sanhedrin 19b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/19b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/19b:1)
+
+
+**גמרא כתיב ויקח המלך כו' את ארמוני כו'.**כצ"ל ברי"ש:
+
+
+###### Rashash on Sanhedrin 19b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/19b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/19b:2)
+
+
+**שם ואשתו היהודיה כו'.**כצ"ל וכן ברש"י:
+
+
+###### Rashash on Sanhedrin 19b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/19b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/19b:3)
+
+
+**רש"י ד"ה ולא חולצין. מפני שאסורה לינשא.**לכאורה ה"נ דמצות חליצה אינה בכדי שתהא מותרת להנשא. אלא שהיא מצוה מטעם הכמוס מאתנו אף אם אינה רוצה להנשא לעולם. ובתשובת חכ"צ סי' א' משמע דדעתו ג"כ דאם אינה רוצה אין כאן מצוה וצ"ע בד"ז [ועמש"כ ביבמות (לט ב) בס"ד] . ואולי י"ל דכוונת רש"י דקרא לא מיירי אלא באותן שהן מותרות להנשא משום דכתיב ל"ת אה"מ החוצה כו' דמשמע דזולת זה שזקוקה ליבום היתה מותרת לחוץ עי' פסחים (ר"ד לו) מי שאיסורו משום ב"ת חמץ בלבד כו' ובר"ש פ"א דטהרות מ"ג. וכמו דאמרי' בקדושין (ר"ד יב) היכא דלא מצי מיעד לא הוה זביני' זבינא כו'. אך מקרא זה יש לדחות בהא דאיתא שם (יג ב) בסוגיא דמיתת בעל מתרת ע"ש. אבל י"ל מהא דכתיב בסה"פ ונקרא שמו בישראל דדרשינן שם (יד) כיון שחלץ כו' הותרה לכ"י. אלמא דאיירי קרא באותן שמותרות להנשא אחר החליצה. וממזרת ונתינה דחולצות. מותרות הן לפסולים: והרמב"ם בחבורו פ"ב מהל' מלכים ה"ג כ' כיון שא"א ליבם את אשתו כך אין חולצין לה כו'. ונ"פ דר"ל מטעם דכל העולה ליבום עולה לחליצה כו' (ולא עמדתי ע"ד מרן הכ"מ שחתר למצוא טעם על הא דאין חולצין ויש בו חסרון מלת או קודם משום דגנאי כו' כי ב' טעמים חלוקים הם) אלא דק"ל דהא חייבי עשה דעלמא גם כן מדאורייתא ל"ח ליבום דאין עשה דוחה עשה מ"מ מרבינן מיבמתו דעולין לחליצה כמ"ש התוס' בפ' כיצד (כ ב) ד"ה גזירה וכ"כ הה"מ בפ"ו מהל' יבום הל"י בשם בה"ג דריבויא דיבמתו דרשינן לאלמנה מן הנשואים ע"ש. ומאי אולמא האי עשה דשום תשים עליך שתהא אימתו עליך משארי עשה. ואין לומר כיון דרשות בידו להרוג המבזהו כמ"ש הרמב"ם בפ"ג מהל' מלכים. לכן יבמתו דומה לעריות דח"כ. דהא ודאי דתפסי בה קדושין והגמרא שם תלי טעמא בהכי. ודע דנ"ב דאף דאינו חולץ וא"מ מ"מ אסורה להנשא לשוק ונשארה זקוקה אף אם אין שם אח אלא הוא וכלשון הרמב"ם באם מת הוא אלא תשב לעולם בזיקתה:
+
+
+###### Rashash on Sanhedrin 19b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/19b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/19b:4)
+
+
+**רש"י ד"ה שפדאו. שעל אברהם כו' דכתיב והרביתי את זרעך.**תמוה דהאי קרא ביצחק כתיב וה"ל להביא מקראי דגבי אברהם שמצינו בו הרבה כיוצא בזה:
+
+
+
+## Daf 20a
+
+###### Rashash on Sanhedrin 20a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/20a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/20a:1)
+
+
+**במשנה שנאמר כו' הולך אחרי המטה.**כצ"ל וכן בגמרא:
+
+
+###### Rashash on Sanhedrin 20a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/20a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/20a:2)
+
+
+**שם וכשמברין אותו כה"ע מסובין עה"א כו'.**במשניות הגי' כאן סמוכין ולעיל גבי כה"ג מסובין. ונ"ל דגבי כה"ג גם המה אוכלין אתו כדרך כל המברין דפי' הרע"ב בפ"ג דמו"ק מ"ז. אבל במלך לא היה אוכלין אתו דנראה כעין גסות ולהכי נקיט סמוכין:
+
+
+###### Rashash on Sanhedrin 20a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/20a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/20a:3)
+
+
+**תד"ה נשים. דכיון דשעת צער הוא כו'.**צע"ק מסוכה ר"ד נ"ב:
+
+
+
+## Daf 20b
+
+###### Rashash on Sanhedrin 20b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/20b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/20b:1)
+
+
+**גמרא תנא נמי ומוציא למלחמת הרשות.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 20b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/20b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/20b:2)
+
+
+**שם ואיני יודע איזה מהן תחלה.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 20b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/20b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/20b:3)
+
+
+**רש"י ד"ה באבקתא. בנקבי ארוכותיו.**כצ"ל:
+
+
+
+## Daf 21a
+
+###### Rashash on Sanhedrin 21a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21a:1)
+
+
+**רש"י ד"ה וימשחו. בשלמה כתיב.**כצ"ל ומלת אותו למחוק:
+
+
+###### Rashash on Sanhedrin 21a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21a:2)
+
+
+**גמרא והרביעי אדוניה ב"ח.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 21a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21a:3)
+
+
+**שם ולמאן דדריש וי"ו מ"ח הוו.**ונ"ל דהוא לשון קושיא ואולי גם זה הוא מאתקפתא דרבינא:
+
+
+###### Rashash on Sanhedrin 21a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21a:4)
+
+
+**שם והא הואי מיכל.**דברי הרש"א בח"א כאן תמוהים. א) במש"כ דהא ודאי באשה אחת במיכל ידע המקשה דלמלויי י"ח כו'. הלא מיכל באה אליו קודם מעשה דבת שבע וא"כ כבר היו לו שבע נשים כשא"ל נתן אם מעט כו' ויקשה דיהא מוכח דמותר לו עד כ"א. ובזה נדחה נמי מש"כ ובהכי ניחא דל"פ ליה מב"ש דמאי יפרוך כיון דעל מעשה דידה א"ל זה. ב) מאי דמפרש דהפירכא היא על הקרא דלא חשיב רק שש נשים והא הואי נמי מיכל. הלא הקרא ל"ח הנשים רק הבנים. ולמיכל לדעת המקשה לא הי' בנים:
+
+
+###### Rashash on Sanhedrin 21a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21a:5)
+
+
+**שם מכאן ואילך לא היה לה.**נ"ל דר"ל דאפי' אותן שהיו לה קודם מתו:
+
+
+###### Rashash on Sanhedrin 21a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21a:6)
+
+
+**שם ויצא לך שם כו' שאין להן כו'.**בפירש"י הגי' שלא היה להן כו' והיא יותר נכונה. אולם התוס' בגיטין (ו ב) ד"ה נימא העתיקו כגי' שלפנינו:
+
+
+###### Rashash on Sanhedrin 21a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21a:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21a:7)
+
+
+**רש"י ד"ה וא"ר שקלה. אלמא כו'.**בע"י הגי' אלא ובדבור חדש וכצ"ל כאן:
+
+
+###### Rashash on Sanhedrin 21a:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21a:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21a:8)
+
+
+**תד"ה דאי. וזה לשון הירושלמי תרתי כו'.**הרמב"ן בפיה"ת הביא משמא דירושלמי דמכילתין בסיגנון אחר והכ"מ בפ"ח מהל' מלכים הביא בשם סמ"ג משמא דירושלמי שבת ול"מ בשני המקומות רק במכות פ"ב הל"ו וע"ש:
+
+
+
+## Daf 21b
+
+###### Rashash on Sanhedrin 21b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21b:1)
+
+
+**גמרא רב יהודה רמי כתיב ויהי כו'.**כאן צ"ל הגהת הגרי"פ דלקמן רב ולא שם:
+
+
+###### Rashash on Sanhedrin 21b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21b:2)
+
+
+**שם וכתיב כו' ארבעת אלפים אריות סוסים.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 21b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21b:3)
+
+
+**שם איתיביה אביי כו' שלא יתנאה בשל אבותיו.**כצ"ל כדלעיל וכ"ה בע"י:
+
+
+###### Rashash on Sanhedrin 21b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21b:4)
+
+
+**שם עושה אותה כמין קמיע ותולה בזרועו.**ק"ל הא אסור לתלות ס"ת אפי' בכיס כדמוכח להדיא בברכות (כד סע"א) ואף שיש לדקדק קצת מלשון רש"י שם דדוקא ביתד אסור. מסתימת לשון הפוסקים משמע דאפי' ביד אסור וכ"מ להדיא מהט"ז והמ"א בר"ס מ'. ועוד דס"ת משמע ודאי דאסור בכ"ע דהאמר שם הנחה כס"ת משמע הנחה דוקא ולולי דמסתפינא הייתי אומר דס"ת שניה לא היתה תורה שלמה אלא מספר המצות בקוצר וכמו שפי' קצת קרא דוכתבת על האבנים את כ"ד התורה הזאת דמזבח הר עיבל ומהא דקרי לה המשנה ס"ת אין ראיה דגדולה מזו מצינו בב"ב (י"ד) דקרו לפסוק תורה צוה לנו כו' ס"ת ואשר העירני לזה הוא שת"א משנה התורה פתשגן אורייתא ופתשגן הוא תורף הענין כמו פתשגן הכתב דמג"א לדעת רוב המפרשים. ועוד שקשה הדבר לשמוע שס"ת שלמה דשיעור ארכו והקפו ו' טפחים בגויל (ב"ב שם) ישא המלך בזרועו תמיד. ורש"ל שכ' שהיה בכתיבה דקה כבר כ"ע הרש"א שאינן אלא דברי נביאות:
+
+
+###### Rashash on Sanhedrin 21b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21b:5)
+
+
+**תד"ה סוסים. על סוס אחד כו' כדמוכח קרא דהרבות סוס.**נראה דמל"י לו סוס לחודא לא משמע להו לאכוחי דמצינו בר"פ וישלח ויהי לי שור וחמור על שורים וחמורים הרבה וכה"ג טובא:
+
+
+###### Rashash on Sanhedrin 21b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/21b:6)
+
+
+**תד"ה כתב. ור"ת פי' דשם מקום דשמיה ליבנן.**כצ"ל דאותיות א' ה' משמשות בארמית ליחס:
+
+
+
+## Daf 22a
+
+###### Rashash on Sanhedrin 22a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/22a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/22a:1)
+
+
+**גמרא וכתיב וכתב את משנה התורה הזאת כתב הראוי להשתנות.**בתוספתא הגי' העתיד להשתנות ובירושלמי פ"א דמגילה ה"ט שהוא עשוי להשתנות וגירסאות אלו יותר נכונות:
+
+
+###### Rashash on Sanhedrin 22a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/22a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/22a:2)
+
+
+**שם א"ל קראו לי לבת שבע כו'.**הן קרא דקראו לי כו' כתיב מאוחר לקרא דותבא ב"ש אלא דהש"ס לישנא דקרא בעלמא נקט:
+
+
+###### Rashash on Sanhedrin 22a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/22a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/22a:3)
+
+
+**רש"י ד"ה התירו ליחד. ואע"פ שנאסר יחוד של פנויה.**מזה הביא בעל עצי ארזים לסתור דעת הפרישה דח"ל אסורין ביחוד מה"ת דהרי אבישג היתה אסורה על דוד בלאו דלא ירבה כו' ע"ש ר"ס כ"ב. ובמחכ"ת ל"ד דנ"פ דהלאו דל"י אינו אלא בנושאה בחופה וקדושין אבל לא בזנות והרי להראב"ד בפ"ג מהל' מלכים אף בפילגשים מותר. ועי' בסוטה (ז') דמשמע דאפילו איסור סוטה שהיא בלאו אסורה ביחוד לרבנן וכדעת הפרישה ושם מבואר ג"כ דכל דיש לה היתר מותרת ביחוד. ואבישג נמי ה"ל היתר שאם רצה היה מגרש אחת מנשיו:
+
+
+
+## Daf 22b
+
+###### Rashash on Sanhedrin 22b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/22b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/22b:1)
+
+
+**גמרא ומינה מה שתויי יין דמחלי עבודה כו' קשיא.**מש"כ הגרי"פ מסתירת פירש"י דהכא לדתענית. כתבתי שם בס"ד דלא סתר א"ע כלל:
+
+
+###### Rashash on Sanhedrin 22b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/22b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/22b:2)
+
+
+**רש"י ד"ה משמרות. שתראנו ביופי.**כצ"ל:
+
+
+
+## Daf 23a
+
+###### Rashash on Sanhedrin 23a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/23a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/23a:1)
+
+
+**גמרא אלא ה"ק כשזה כו' שניהן כו'.**לפי גי' הרש"א זה כו' נראה לגרוס ושניהן כו' וכדגרסי' במשנה:
+
+
+###### Rashash on Sanhedrin 23a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/23a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/23a:2)
+
+
+**שם תנ"ה לעולם כו' עד שיקבל עליו בפני ב"ד מומחה.**כ"ה גי' רש"י ונראה דיקבל הוא מלשון קובלנא כמו בס"פ עוקבן הבבלי קבל קדמנא:
+
+
+
+## Daf 23b
+
+###### Rashash on Sanhedrin 23b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/23b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/23b:1)
+
+
+**תד"ה ואמר**(בסופו). וקא מקשה שפיר תנינא. כצ"ל:
+
+
+###### Rashash on Sanhedrin 23b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/23b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/23b:2)
+
+
+**תד"ה ורבנן**(בסופו). וא"כ לא יפסיד בפסול הראשונים כו'. כצ"ל:
+
+
+
+## Daf 24a
+
+###### Rashash on Sanhedrin 24a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/24a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/24a:1)
+
+
+**גמרא במחשכים כו' ארי"ר זה תלמודה של בבל.**כה"ג ארי"ר בפסחים (לד ב וש"נ) בבלאי כו' משום דיתבי בארעא דחשוכא אמריתו שמעתתא דמחשכן. והא דאריו"ח בלולה במקרא כו' הוא ג"כ לגנאי וכפי' הרש"א בח"א וכמו כל הדרשות דלעיל ומשמע דבלולה כו' קאי על אנשיה ודלא כדמשמע לכאורה מפיר"ת דקאי על תלמודא דבבל דהרי גם תלמודא דירו' בלולה מכול:
+
+
+###### Rashash on Sanhedrin 24a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/24a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/24a:2)
+
+
+**רש"י ד"ה סיפא. ומש"ה מהימנינן ליה אעדים כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 24a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/24a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/24a:3)
+
+
+רש"י (במשנה) **ד"ה נאמן. להיות דיין.**וכ"ע התוספות יו"ט דלרבותא נקיט כו'. הן לעיל (כג סע"א) גלה לן כוונתו דז"ל שם נאמן כו' בדיינין מיירי מדקתני שלשה רועי בקר:
+
+
+###### Rashash on Sanhedrin 24a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/24a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/24a:4)
+
+
+**תד"ה אר"ד. ע"כ נראה דאמילתייהו דרבנן קאי דדוקא כו'.**נ"ל ראיה לזה מהא דלעיל דאר"ל תני עידו ובדקבלי' עלי' בבי תרי. ואפ"ה מודו רבנן שם בזמן שמביא ראיה שהוא קרוב או פסול:
+
+
+
+## Daf 24b
+
+###### Rashash on Sanhedrin 24b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/24b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/24b:1)
+
+
+**רש"י ד"ה אבל תולה בד"ע. דודאי נדר ליה כדי להפטר**ר"ל משבועה גמורה. וכן ומחיל ר"ל השבועה המוטלת עליו:
+
+
+###### Rashash on Sanhedrin 24b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/24b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/24b:2)
+
+
+**גמרא מאי בינייהו.**ר"ל בדינא דמתניתין לענין פסול עדות כי טובא א"ב לענין אם צריך להחזיר לחבירו מה שזכה:
+
+
+###### Rashash on Sanhedrin 24b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/24b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/24b:3)
+
+
+**רש"י ד"ה כל כה"ג. דסומך על לא דבר.**ר"ל אע"ג דהסמיכה איננה בטוחה כי פן יארע לו סבה שלא יוכל לעבוד ולפרוע מ"מ הוא סבור שבידו טובו וסומך בזה אבל הכא ליכא סמיכה כלל. ויותר נראה למחוק מלת לא וכן ברא"ש בפ' א"נ סי' ע' ליתא וכן הגיה מהר"ם בתוס' שם:
+
+
+###### Rashash on Sanhedrin 24b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/24b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/24b:4)
+
+
+**בא"ד אדעתא דלא יהיב ליה ולאסמכתא קא מתני.**כ"ה שם ושם:
+
+
+###### Rashash on Sanhedrin 24b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/24b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/24b:5)
+
+
+**בא"ד ש"מ מספיקא גמר ומקני.**ומלת אתני ליתא שם וכן בתוס' כאן ושם:
+
+
+###### Rashash on Sanhedrin 24b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/24b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/24b:6)
+
+
+**תד"ה ואלו. אפילו למ"ד אסמכתא היא ואסמכתא ל"ק כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 24b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/24b:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/24b:7)
+
+
+**תד"ה כל. אבל ר"ת כו' דטפי חשיב אסמכתא מה שהיה בידו כו'.**מה שנדפס בגליון בשם רש"ל למחוק מלת מה הוא שבוש וברש"ל יש ט"ס:
+
+
+###### Rashash on Sanhedrin 24b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/24b:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/24b:8)
+
+
+**בא"ד**(בדף כה) כמו אם ישלם במיטבא בההוא ודאי כו'. כצ"ל:
+
+
+
+## Daf 25a
+
+###### Rashash on Sanhedrin 25a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/25a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/25a:1)
+
+
+**גמרא א"ר לוה ברבית פסול לעדות.**הא דלא מייתא הגמרא תנ"ה מברייתא דלקמן ע"ב. עמש"כ בס"ד בברכות ספ"ג:
+
+
+###### Rashash on Sanhedrin 25a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/25a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/25a:2)
+
+
+**שם הכא תרגומא אי תקדמיה יונך ליוני.**ק"ל דלפ"ז הוא ענין קוביא ומדוע אפסקינהו תנא במלוה ברבית והנלע"ד דאף להכא תרגומא לא קאי אימתי דר"י אלא על משחק בקוביא ומטעם דס"ל דלאו אסמכתא היא כדאר"ש ואף רמב"ח ל"פ אלא אליבא דת"ק. אבל על מפריחי יונים לא קאי דמודה דאסמכתא גמורה היא משום דאמר בנקשא תליא ואנא ידענא לנקושי טפי כדלקמן ומש"ה פלגינהו תנא מהדדי. והא דפסקו הרמב"ם והשו"ע גם באם תקדמיה יונך לא פסול אלא בשאין לו אומנות כו' הוא מפני שפסקו כמ"ד ארא עי' בכ"מ וסמ"ע:
+
+
+###### Rashash on Sanhedrin 25a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/25a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/25a:3)
+
+
+**רש"י ד"ה אין אחד. ושניהם מכוונים לנזירות.**ר"ל כיון דתלו במידי דלאו בידייהו ולא ידעי לה כדמסיק. ע"כ מספיקא גמרו ונזרו וכדכ' לעיל בסה"ע:
+
+
+###### Rashash on Sanhedrin 25a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/25a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/25a:4)
+
+
+**רש"י ד"ה בר ביניתוס. אוזיף. הלוה.**כצ"ל:
+
+
+
+## Daf 25b
+
+###### Rashash on Sanhedrin 25b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/25b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/25b:1)
+
+
+**גמרא משיקרעו את שטריהן כו' דאפילו לנכרי כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 25b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/25b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/25b:2)
+
+
+**רש"י ד"ה אפי' במדבר. כדפרשי' גבי קוביא.**כצ"ל:
+
+
+
+## Daf 26a
+
+###### Rashash on Sanhedrin 26a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/26a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/26a:1)
+
+
+**גמרא אלא הא אמר להו ברישא.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 26a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/26a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/26a:2)
+
+
+**שם אמרו ליה קרי לן רועי בקר ולא אמר ליה מר ול"מ.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 26a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/26a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/26a:3)
+
+
+**תד"ה לעקל.**עי' רש"א. וק"ל על גירסתו ופירושו כיון דעצים אין בהן קדושת שביעית (סוכה מ) מהיכא תיתי לאסור בהם קצירה כלל. וי"ל:
+
+
+
+## Daf 26b
+
+###### Rashash on Sanhedrin 26b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/26b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/26b:1)
+
+
+**גמרא שבנא בעל הנאה היה.**הרש"א בח"א כתב לפי שהיה ת"ח כדלעיל לכן נקרא שבנא הסופר. והר"י בתוס' שבת (יב ב) הוכיח מהפסוקים דשבנא הסופר היה אחר ע"ש. אבל ביומא ספ"ג ובכתובות רפי"ג מסקי דזהו בעצמו הסוכן:
+
+
+###### Rashash on Sanhedrin 26b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/26b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/26b:2)
+
+
+**רש"י ד"ה מפני השטן. שהיה מקטרג כו'.**כצ"ל:
+
+
+
+## Daf 27a
+
+###### Rashash on Sanhedrin 27a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/27a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/27a:1)
+
+
+**גמרא נימא כתנאי.**וכל הסוגיא. לכאורה קשה דהא בלתיאבון הוה ג"כ מקולא לחומרא דבאכילת נבלה אינו רע לבריות וא"כ אמאי מודה רבא בי'. וכן לוה ברבית א"ר לעיל דפסול ואמאי הא אינו רע לבריות. וי"ל דטעמא דרבא דמכשיר בלהכעיס הוא דכיון דאינו נהנה ממנה ע"כ הא דעובר עליה אינו רק משום דלא מחשיב לה לעבירה לכן להעיד שקר דחמירא מינה (וגם היא מצות שכלית) אמרי' דמחשיב ליה לעבירה ולא עביר עליה. אבל היכא דאינו אוכל אלא לתיאבון א"כ חזינן דמחשיב לה לעבירה רק דתאותו מעבירתו לכן חשדינן ליה דגם חמדת ממון תעבירנו ואף להרע לבריות וכמש"כ הרי"ף והרא"ש כפין ואכיל נבלה כפין נמי ושקיל ד' זוזי ומסהיד:
+
+
+###### Rashash on Sanhedrin 27a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/27a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/27a:2)
+
+
+**רש"י ד"ה ה"ג מומר כו'. כיון דמשום ממון קעביד כו'.**משמע דאם אינו אוכל רק היכא דאינו מוצא כלל דהתירא כשר. ותמוה דבכ"מ בש"ס פי' אם אינו מוצא דהתירא עי' ריש חולין ועוד ליפלגו בלתיאבון גופיה. ודוחק לומר דבאינו מוצא כלל גם לאביי כשר ומלשון הרי"ף והרא"ש שהעתקתי לעיל משמע ג"כ דאפילו אינו מוצא כלל פסול דכמו שתאוות הבשר מעבירתו על הדת כן תעבירנו חמדת הממון. ונפשו ש"א מחמדתן ביותר כדאיתא בשלהי מכות. וכ"מ לעיל בתד"ה החשוד (וע"ש בנ"י) ולעיל (ט ב) בד"ה לרצונו:
+
+
+###### Rashash on Sanhedrin 27a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/27a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/27a:3)
+
+
+**רש"י ד"ה שבועת שוא. עה"ע כו' שבועת שקר על העמוד ש"א שהוא של זהב.**תימה דמבואר להדיא בשבועות (כט) במשנה דזוהי שבועת שוא. וע"ע שם (כ ב כא) לכן נ"ל למחוק ב"ת אלו שבועת שקר:
+
+
+###### Rashash on Sanhedrin 27a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/27a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/27a:4)
+
+
+**תד"ה מאי. וקא בעי למימר דאפי' שבועת שוא.**הלשון אינו מכוון דאיתא להדיא במתניתין שם שאפילו שבועת שוא. ועיין רש"א:
+
+
+
+## Daf 27b
+
+###### Rashash on Sanhedrin 27b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/27b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/27b:1)
+
+
+**גמרא א"ל מאי דעתך כו' ור"י האמר הוזם בד"מ כשר לד"נ.**ק"ק לפי' הב' ברש"י דליכלינהו לעיניו היינו שיטלו ממונו אין זה ד"נ:
+
+
+###### Rashash on Sanhedrin 27b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/27b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/27b:2)
+
+
+**במשנה אלו הן הקרובין אחיו כו'.**במשניות איתא ג"כ אביו וכן במ"ר ר"פ שופטים. אבל מהרמב"ם בפי' מוכח להדיא דל"ג ליה ונתן טעם לדבר. ואין לה"ר דל"ג ליה מדתני ר"ח לקמן שמונה אבות כו' משום דל"ח אלא הני דאיתנייהו בבניהם וחתניהם (וכמו דל"ח גיסו וחורגו מה"ט) ואביו אינו בבן וחתן שיעלו במנין דהיינו אחיו ובעל אחותו דתני בהדיא. אף שכ' התוס' שם דגם בהני איכא טובא דחדא נינהו היינו עם הנך דאתו מכללא. אבל כל הכ"ד המה אישים נפרדים ודו"ק:
+
+
+###### Rashash on Sanhedrin 27b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/27b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/27b:3)
+
+
+**שם וכל הראוי ליורשו.**בפשטיה משמע דזהו ג"כ ממשנה ראשונה וכ"נ שהבין רש"ל מפירש"י אבל נתחוור יותר בפי' הרמב"ם דזוהי תשלום משנת ר"ע. ולכאורה אדרבה פי' זה תמוה דהאר"י זו משנת ר"ע דמשמע דקאי על כל מה דחשיב הת"ק והוא קחשיב אחי אמו ובעל אחות אמו וכן בנו של בעל אמו דהוא אחיו מן האם כדלקמן בגמרא. והתוי"ט שמלא א"ד דהא בכלל דודו הוא אף מן האם. בעיני אז"נ דהא דודו וב"ד דקרא (ויקרא כה) דוקא מן האב כדאיתא ביבמות (נד ב) וע"ש. גם מש"כ וגיסו נמי כו' ראויות לירש זא"ז כו'. הן לקמן בגמרא גבי מתנתא דהוו חתימי עלה תרי גיסי משמע דלר' יוסי דמתניתין כשר בגיסו ואולי יפרש דהיינו למשנה ראשונה ועי' בסוגיא זו במאור ובמלחמות:
+
+
+###### Rashash on Sanhedrin 27b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/27b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/27b:4)
+
+
+**שם שונא כל שלא דבר עמו ג"י באיבה.**נ"פ דשיעור דג"י הוא מהכתוב והוא לא שונא לו מתמול שלשם (דברים י״ט:ד׳). ועי' ב"ק (ס"ד כג) בדרשת אביי במתמול שלשום דשור המועד ובתוס' שם:
+
+
+###### Rashash on Sanhedrin 27b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/27b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/27b:5)
+
+
+**רש"י ד"ה לא יומתו. דחד אב וחד בן סגי.**בנ"י ליתא מלת סגי ונכון יותר:
+
+
+
+## Daf 28a
+
+###### Rashash on Sanhedrin 28a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/28a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/28a:1)
+
+
+**גמרא מ"ט דרב כו' ובנים לרבות דור אחר.**לכאורה ה"נ דר"ל דה"ק קרא ל"י אבות ע"י בנים ובנים פי' וגם ע"י הבנים של הבנים ורש"י לא פי' כן אולי משום דכבר דרשו לעיל מן ובנים דפסולי לעלמא אבל אין זה הכרע:
+
+
+###### Rashash on Sanhedrin 28a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/28a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/28a:2)
+
+
+**שם בן אחי חמיו מהו בן אחות חמיו מהו.**כ"ה הגי' ברי"ף ורא"ש וכ"מ מפירש"י:
+
+
+###### Rashash on Sanhedrin 28a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/28a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/28a:3)
+
+
+**רש"י ד"ה ה"ג אלא רב. ומיהו לה"כ דאמר רבא בי"נ כו' והלכתא כוותיה דרבא כו'.**כ"נ דצ"ל וע"ש ברשב"ם ודלא כהגהת הגרי"פ:
+
+
+###### Rashash on Sanhedrin 28a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/28a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/28a:4)
+
+
+**תד"ה מאי. וי"ל דכיון דחתנו הוי כו'.**כצ"ל:
+
+
+
+## Daf 28b
+
+###### Rashash on Sanhedrin 28b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/28b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/28b:1)
+
+
+**גמרא בעדי מסירה כר' אלעזר.**כצ"ל בל"י וכן לקמן ובתוס':
+
+
+###### Rashash on Sanhedrin 28b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/28b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/28b:2)
+
+
+**שם א"ל זיל לא שבקו לי כו'.**כה"ג בב"מ (כט ב) ובגיטין (מז):
+
+
+###### Rashash on Sanhedrin 28b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/28b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/28b:3)
+
+
+**רש"י ד"ה באשת חורגו. בהשפטה**(כצ"ל) כו' לפי שהבנים ראוים לירש כו'. לכאורה הרי חורגו ג"כ ראוי לירש את אשתו וצ"ל דמיירי בשכתב לה דו"ד אין לי בנכסייך כו' כדאיתא ר"פ הכותב. ובלא"ה צ"ל כן משום פירות דאכיל חורגו ועי' ברמ"א סי' ל"ג ס"ג:
+
+
+###### Rashash on Sanhedrin 28b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/28b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/28b:4)
+
+
+**רש"י ד"ה בעל כאשתו. והרי הוא כו'.**כצ"ל והב"ת ואשה כבעלה נ"ל למחוק:
+
+
+###### Rashash on Sanhedrin 28b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/28b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/28b:5)
+
+
+**רש"י ד"ה אבי חתן. ול"א בשביל בנו שנתקרב (שמעון כו'.**כצ"ל) ולמחוק תיבת ראובן שבינתים וכן בנ"י ליתא:
+
+
+
+## Daf 29a
+
+###### Rashash on Sanhedrin 29a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29a:1)
+
+
+**גמרא מפיץ וחרב כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 29a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29a:2)
+
+
+**שם דכתיב והושיבו כו' ויעידוהו לאמר ברכת אלהים ומלך.**כ"ה במקרא. ועמש"כ במ"ר נשא פ"ו אות ח' במ"ק בהערה:
+
+
+###### Rashash on Sanhedrin 29a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29a:3)
+
+
+**שם רמ"א מהכא אמתים וחצי ארכו.**עפירש"י והרש"א בח"א גמגם עליו. ואני שמעתי פי' נכון בזה והוא כשתגרע הו' של וחצי הוה משתמע דחצי ארכו הוה אמתים וכולו ד' אמות אח"ז מצאתי כן להמגיה בע"י. ואנכי הוספתי בזה שהיה מתפרש ע"ד הכתוב בסמני שמן המשחה וקנמן בשם מחציתו חמשים ומאתים וכדפירש"י שם משמא דגמרא. אפס שם הטעם מפני הכרעות ולא מצאנום אלא במשקל (בפ' הספינה) וכן במדידה גודש. אבל במדידת אמה לא מצינו ואולי מפני שא"א לצמצם וכדפי' הרשב"ם שם בסוגיא:
+
+
+###### Rashash on Sanhedrin 29a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29a:4)
+
+
+רש"י (במשנה) **ד"ה אפילו. ואע"ג כו'.**וכ"כ אחריו הרע"ב. והתוי"ט דייק מזה דלא ס"ל מש"כ הכ"מ לחלק דדוקא בד"נ אמרינן דהוא כמאן דליתא ע"ש ול"ד במחכ"ת דהם ל"א אלא עכשיו כשאומר א"י הוה כמאן דליתיה. אבל אח"כ כאשר התבונן ואומר דעת ברור אף דבד"נ גם בזה אין שומעין לו וכמש"כ לעיל (יז) מ"מ בד"מ יכול להיות דשומעין לו כדעת הכ"מ:
+
+
+###### Rashash on Sanhedrin 29a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29a:5)
+
+
+**רש"י ד"ה והושיבו. שיועצי המלך היו יועצים כו'.**בקרא מבואר שאיזבל עצמה עשתה כן בלתי יועצי המלך ועתוי"ט:
+
+
+###### Rashash on Sanhedrin 29a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29a:6)
+
+
+**רש"י ד"ה ואין טוענין. אין טוענין ב"ד בשבילו כו'.**כצ"ל:
+
+
+
+## Daf 29b
+
+###### Rashash on Sanhedrin 29b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29b:1)
+
+
+**גמרא הכי אמרי' משמיה דרבא כל מילי דכדי לא דכירי אינשי.**יתכן שכוון להא דאמר רבא לר"נ בשבועות (לד ב) כל מילתא דלא רמיא עליה דאינש עביד לה ולאו אדעתיה:
+
+
+###### Rashash on Sanhedrin 29b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29b:2)
+
+
+**שם פלוני ופלוני אתי תבעיה לדינא כו'.**עי' גירסת הרי"ף והרא"ש:
+
+
+###### Rashash on Sanhedrin 29b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29b:3)
+
+
+**שם אמרו ליה ניזיל ונהדר.**פירש"י נשלם החצי שקבלנו. אבל גי' הרי"ף בפ' דלקמן א"ה נהדר לן ההוא פלגא דיהבינן משמע דזה אמרו היורשין:
+
+
+###### Rashash on Sanhedrin 29b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29b:4)
+
+
+**רש"י ד"ה עירי ושכבי. רוצה אתה כו'.**הא דלא פי' דאמר בניחותא עי' ש"ך סי' פ"א ס"ק כ"ח:
+
+
+###### Rashash on Sanhedrin 29b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29b:5)
+
+
+**רש"י ד"ה ושלחו. למיתי קמייהו לדינא ואודי כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 29b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29b:6)
+
+
+**רש"י ד"ה במקרקעי. מוחזק בה והודה לשמעון כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 29b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29b:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/29b:7)
+
+
+**רש"י ד"ה מאי. א"ד כיון דמלוה להוצאה ניתנה כו'.**והנ"י כתב דאפי' בפקדון נמי וכ"פ בש"ע וע"ש באחרונים:
+
+
+
+## Daf 30a
+
+###### Rashash on Sanhedrin 30a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/30a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/30a:1)
+
+
+**גמרא בשדה דבריו קיימין.**והא דל"א דשלא להשביע א"ע אמר כן. עי' בנ"י. ולשטת הרשב"ם בב"ב (קמט) ד"ה ת"ש דהיכא דהמעות בעין ואמר של פלוני הם ל"א דשלא להשביע א"ע אמר כן א"ש בפשיטות. אך התוס' שם נראה שחולקין עליו. והנ"י שם נראה דאית ליה דהרשב"ם וכאן נדחק ליישב. ועי' ש"ך סי' פ"א סקל"ה:
+
+
+###### Rashash on Sanhedrin 30a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/30a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/30a:2)
+
+
+**שם אילימא לבע"ד התם קיימי.**עפירש"י. דהא דקתני ומוציאין אכה"א לחוץ ע"כ חוץ מבע"ד כמש"כ התוי"ט. אבל אי קאי על העדים א"ש דהא כיון שחקרו את הראשון ע"כ הוציאוהו שלא יהא בעת שיחקרו את הב' ומסתמא הוציאו גם אותו אחרי חקירתו:
+
+
+###### Rashash on Sanhedrin 30a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/30a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/30a:3)
+
+
+**שם דתניא רנ"א כו' גמרו אה"ד כו'.**זהו סיומא דברייתא בדר"נ ועי' ברי"ף ורא"ש ובחנם מחק הרש"ל:
+
+
+###### Rashash on Sanhedrin 30a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/30a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/30a:4)
+
+
+**רש"י ד"ה היינו דר"ל. דאמר חזקה אין ב"ד כו'.**אולי צ"ל דאמרינן חזקה כו':
+
+
+###### Rashash on Sanhedrin 30a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/30a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/30a:5)
+
+
+**רש"י ד"ה כמערים. שלא יטלום בחייו כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 30a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/30a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/30a:6)
+
+
+**רש"י ד"ה והוא עד. דאילו השביע ע"א ולא העידו כו'.**כן הוא קריאתו כאשר נקדתיו ודלא כהגהת רש"ל:
+
+
+
+## Daf 30b
+
+###### Rashash on Sanhedrin 30b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/30b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/30b:1)
+
+
+**רש"י ד"ה דרמיתו דיקלי וזקפיתו להו.**כצ"ל:
+
+
+
+## Daf 31a
+
+###### Rashash on Sanhedrin 31a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/31a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/31a:1)
+
+
+**גמרא אלא הוא דאמר כה"ת כו'.**הא דקאמר בל"י משום דלעיל ספ"ק איתא דאמוראי דנהרדעי רב חמא:
+
+
+###### Rashash on Sanhedrin 31a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/31a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/31a:2)
+
+
+**רש"י ד"ה וצירף עדותן. כריב"ק כו'.**לכאורה ה"נ דאף כרבנן דידיה אתא דהא הכא כ"א אומר דתרוייהו חזו כאחד ואחדא מנה קמסהדי רק דז"א דבדיוטא העליונה הוה וז"א בתחתונה ולא תליא רק בהא דרשב"א וע' בתוס' דחה"ב:
+
+
+###### Rashash on Sanhedrin 31a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/31a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/31a:3)
+
+
+**תד"ה הוא**(בסופו). בין מנה ומאתים למנה שחור כו'. כצ"ל:
+
+
+###### Rashash on Sanhedrin 31a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/31a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/31a:4)
+
+
+**במשנה אמר לו כל ראיות כו'.**ברי"ף ורא"ש הגי' אמרו. וכן לקמן אמר הבא ראיה כו' הגי' ברא"ש אמרו לו וברי"ף ל"ג ליה כלל. אמנם מצינו רבות בש"ס דקרו לב"ד בלשון יחיד וכן הכא סותר את הדין פירש"י בית דינו:
+
+
+###### Rashash on Sanhedrin 31a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/31a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/31a:5)
+
+
+**שם הבא עדים ואמר אין לי כו' ה"ז אינו כלום.**שינה מלשון הרישא דתני אינו סותר. לומר דאף קודם גמר דין אין בהם כלום:
+
+
+
+## Daf 31b
+
+###### Rashash on Sanhedrin 31b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/31b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/31b:1)
+
+
+**גמרא שלחו כו' העביר עלי אה"ד אמרו לו כו'.**כצ"ל והא' חרוקה:
+
+
+###### Rashash on Sanhedrin 31b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/31b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/31b:2)
+
+
+**רש"י ד"ה עד שיסתתם. ומתחלה סותר כו'.**נראה דצ"ל סתם טענותיו ועי' גי' הרא"ש:
+
+
+###### Rashash on Sanhedrin 31b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/31b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/31b:3)
+
+
+**רש"י ד"ה אפי' מטבריא. הולכת אחריו לציפורי.**כצ"ל:
+
+
+
+## Daf 32a
+
+###### Rashash on Sanhedrin 32a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/32a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/32a:1)
+
+
+**במשנה מה בין ד"מ לד"נ כו'.**ק"ל מדוע לא חשיב הא דעדות מיוחדת כשרה בד"מ ולא בד"נ כדאיתא במכות (ו ב):
+
+
+###### Rashash on Sanhedrin 32a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/32a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/32a:2)
+
+
+**שם ד"נ כו' ואין מחזירין לחובה.**נ"ל דאם בתחלה חייבוהו ואח"כ החזירוהו לזכות מחזירין לחובה ואין אני קורא בזה צדיק אל תהרוג כיון דבפעם הראשון יצא חייב. וראיה מלקמן (עח) בפלוגתת ר"נ ורבנן דאמרי שם לר"נ דאמדוהו לחיים ומת ל"צ קרא שהרי יצא מב"ד זכאי ופירש"י ונ"ל מצדיק א"ת. ואפ"ה מצריך קרא להיכא דאמדוהו למיתה והקל ואמדוהו לחיים ומת. וגם זה מטעם שרגלים לדבר ועי' פירש"י שם ד"ה אין אומד אחר אומד:
+
+
+###### Rashash on Sanhedrin 32a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/32a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/32a:3)
+
+
+**רש"י ד"ה שזמנו כתוב. ע"י משכון כו'.**עי' מהרש"א וכן במש"כ בתד"ה חיישינן. ולכאורה יקשה למה שפי' או שהגיע זמנו קודם ר"ה מאי רבותא דשמיטה. וי"ל דקודם השמיטה היה יכול לכתוב פרוזבול או למכור שטרותיו לב"ד משא"כ עתה דס"ד דכה"ש משמטת ל"ל תקנה כלל:
+
+
+
+## Daf 32b
+
+###### Rashash on Sanhedrin 32b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/32b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/32b:1)
+
+
+**גמרא כדתניא צדק צדק תרדוף א' לדין וא' לפשרה כיצד כו'.**עפירש"י דתרוייהו נפקי מכפל צדק צדק. והנראה דהכיצד מפרש תרווייהון דטעונה ושא"ט דתדחה שא"ט כו' הוא פי' לדין והיו שתיהן כו' הטל פשרה כו' הוא פי' לפשרה ועי' גי' הרי"ף והרא"ש. וכן הרמב"ם בחבורו מביא על הני דיני דכיצד כו' קרא דבצדק תשפוט עמיתך:
+
+
+###### Rashash on Sanhedrin 32b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/32b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/32b:2)
+
+
+**שם בזה אח"ז שתיהן עוברות.**נל"פ כגון שעתה עומדות במקום מרחב שאם אחת תעמוד במקומה תוכל השניה לעבור בצדה. וכ"כ יתפרש בב' גמלים ורש"י לא פירש כן. גם ל"י מדוע בספינה פי' שתלך אחת אל היבשה ולא פי' שתשב אחור כמו בגמלים:
+
+
+###### Rashash on Sanhedrin 32b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/32b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/32b:3)
+
+
+**שם היו שתיהן כו' רחוקות שתיהן טעונות.**כ"ה ברי"ף ורא"ש וכצ"ל:
+
+
+###### Rashash on Sanhedrin 32b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/32b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/32b:4)
+
+
+**רש"י ד"ה לגולה. לפומבדיתא כו'.**וכ"פ בקדושין (עא ב) ועמש"כ שם ולעיל ספ"ק איתא דייני גולה כו' דייני דפומבדיתא כו':
+
+
+###### Rashash on Sanhedrin 32b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/32b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/32b:5)
+
+
+**תד"ה היכי**(בסופו). פותחין בזכות. כצ"ל:
+
+
+
+## Daf 33a
+
+###### Rashash on Sanhedrin 33a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/33a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/33a:1)
+
+
+**גמרא לפני חכמים ביבנה והתירוה.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 33a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/33a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/33a:2)
+
+
+**רש"י ד"ה הלכה חמורך. למכור את חמורי כו'.**בנדרים (ס ב) איתא דעשיר גדול היה:
+
+
+###### Rashash on Sanhedrin 33a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/33a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/33a:3)
+
+
+**רש"י ד"ה רב חסדא. לשנויי מתני' דדן אה"ד.**כצ"ל:
+
+
+
+## Daf 33b
+
+###### Rashash on Sanhedrin 33b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/33b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/33b:1)
+
+
+**רש"י ד"ה זכות גרידתא. לבעל דינו.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 33b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/33b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/33b:2)
+
+
+**תד"ה שעירבן**(בסופו). חשיב כמו מזיד שה"ל לחכם לדקדק כו'. עי' בס"פ אלו מציאות ששגגת תלמוד עולה זדון ובפירש"י שם:
+
+
+###### Rashash on Sanhedrin 33b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/33b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/33b:3)
+
+
+**גמרא דכתיב ל"ת ול"ת עליו.**דלשון חמלה נופל בנמצא לו זכות דראוי לחמול עליו וכסוי נופל בנמצא לו חובה שלא יכסוהו:
+
+
+###### Rashash on Sanhedrin 33b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/33b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/33b:4)
+
+
+**רש"י ד"ה כתיב. בח"מ יומת הרוצח.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 33b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/33b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/33b:5)
+
+
+**רש"י ד"ה טעה בנואף. וזיכה מהו.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 33b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/33b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/33b:6)
+
+
+**בא"ד הוא היה רודפני כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 33b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/33b:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/33b:7)
+
+
+**תד"ה שטעה. וי"ל דהכא מיירי בהעראה כו'.**ק"ל א"כ ל"ל שלא כדרכה אפילו כדרכה נמי דהא העראה בא"א ל"י אלא מהיקישא דר' יונה בר"פ הבע"י. ואולי משום שארי עריות דילפינן שם במה"צ מנדה ואשת אח נקט של"כ. דבמה"צ אפשר שהצדוקין מודין:
+
+
+
+## Daf 34a
+
+###### Rashash on Sanhedrin 34a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/34a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/34a:1)
+
+
+**גמרא ת"ש דאריב"ח אחד מה"ת כו'.**עי' תוס' נזיר (כט) ד"ה ה"ג בשם ר"ת שיש ריב"ח שהוא תנא:
+
+
+###### Rashash on Sanhedrin 34a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/34a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/34a:2)
+
+
+**תד"ה מה. וקשה דהל"ל כו'.**מה שהגיהו עה"ג בשם רש"ל להוסיף תיבת נמי הוא שבוש. כי כוונת הרש"ל על לקמן והל"ל נמי כו' וכמו שהגי' לפנינו:
+
+
+
+## Daf 34b
+
+###### Rashash on Sanhedrin 34b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/34b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/34b:1)
+
+
+**תד"ה סתמא. תימה כו' משום כו' בכל עת.**י"ל דמשום זה הרי נוכל לקיימו על יום המעונן כדדריש ליה ר"מ:
+
+
+###### Rashash on Sanhedrin 34b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/34b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/34b:2)
+
+
+**גמרא מנה"מ כו' א"ק והוקע אותם לה' נגד השמש.**הן לקמן יליף מזה דהמיתה עצמה לא תהא בלילה דקאמר וליקטליה לאורתא נגד השמש בעינן. ונ"ל דהכא יליף מרישא דקרא מקח את כל ראשי העם דמפרש לקמן חלק להם ב"ד ונגד השמש קאי גם ע"ז:
+
+
+
+## Daf 35a
+
+###### Rashash on Sanhedrin 35a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/35a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/35a:1)
+
+
+**רש"י ד"ה חלק להם. ועו"ג בסקילה וכה"נ נתלין כו'.**תלי תניא בדלא תניא כי בכל הנסקלין פלוגתא ולרבנן אינן נתלין ועו"ג לכ"ע נתלה כדאי' שם:
+
+
+###### Rashash on Sanhedrin 35a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/35a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/35a:2)
+
+
+**תד"ה אשרו. וצ"ל כו' דלא מהימן לוה במיגו כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 35a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/35a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/35a:3)
+
+
+**תד"ה ליגמריה. שכבר כתבו מאתמול כו'.**ק"ל דהא מ"מ גם היום יכולין לחזור בהן ואף המלמד זכות בשעת גמ"ד כדלעיל (לד) וא"כ יצטרך שוב לכתוב דבריהן מטעמים המבוארים שמה:
+
+
+
+## Daf 35b
+
+###### Rashash on Sanhedrin 35b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/35b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/35b:1)
+
+
+**רש"י ד"ה יכול יטמא. וכתיב על נפש מת וגו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 35b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/35b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/35b:2)
+
+
+**רש"י ד"ה מה ת"ל. קא ס"ד כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 35b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/35b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/35b:3)
+
+
+**רש"י ד"ה אמר רבא. שנדחה מפני ק"י כו'.**הוא דבור בפ"ע ושייך לר"ד הסמוך:
+
+
+###### Rashash on Sanhedrin 35b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/35b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/35b:4)
+
+
+**תד"ה רציחה. אע"פ שדוחה את המילה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 35b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/35b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/35b:5)
+
+
+**תד"ה מושבות. והא דדרשינן כו' אבל כו' במדורת בה"מ.**ע"ש דלא קאי הכי אלא דאתא למישרי אברים ופדרים:
+
+
+###### Rashash on Sanhedrin 35b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/35b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/35b:6)
+
+
+**תד"ה אין. וא"ת ונימא דיו כו'.**מש"כ הרש"א די"ל דכיון דגוף הרציחה נדחית מפני שבת כו'. נ"ל דל"ד דמזה אין ראיה דשבת חמורה ממנה. די"ל דמש"ה נדחית דהוה בשוא"ת ואם תדחה אה"ש יהא בקום ועשה. אלא די"ל בדרך אחר דכיון דעבודה דוחה אה"ש בקום ועשה ורציחה א"ד. אין לנו לומר דגוף עבודה תהא נדחית מפני הרציחה. וי"ל עוד דא"ת דגוף העבודה נדחית מפני הרציחה איך יתכן שתהא חמורה ממנה לדחות אה"ש והרציחה אינה דוחתו. ודומה ממש למש"כ התוספות לעיל והדברים ברורים לע"ד:
+
+
+
+## Daf 36a
+
+###### Rashash on Sanhedrin 36a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/36a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/36a:1)
+
+
+**רש"י ד"ה אין רציחה. דהא בי"ט נמי כ"מ לא יעשה כתיב.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 36a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/36a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/36a:2)
+
+
+**תד"ה ומה. ול"נ דלק"מ כיון כו' לחומרא אמרינן.**תמוה דכיון דכתיב מעם מזבחי לומר שרציחה דוחה עבודת ק"י א"כ ע"כ צ"ל הק"ו דתדחה הרציחה גם יו"ט ולא לומר הק"ו איפכא דא"כ מעם מזבחי מאי עביד ליה וי"ל בדוחק:
+
+
+###### Rashash on Sanhedrin 36a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/36a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/36a:3)
+
+
+**גמרא והא הוה שלמה הוה שמעי ב"ג.**נראה דר"ל דהוה רביה ושלמה הוה ציית ליה כדאיתא בברכות (ח) ופירש"י אינו מובן לי:
+
+
+###### Rashash on Sanhedrin 36a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/36a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/36a:4)
+
+
+**תד"ה והא הוה חזקיה. דחזקיה לא הוה מושל עכ"י שבימיו גלו כו'.**כ"נ דצ"ל. ור"ל א"כ בתחלת מלכותו היה עדיין מולך הושע ב"א על יתר השבטים עד שנת שש למלכותו כמבואר במלכים. ובזה לא נצטרך למה שנדחקו המפרשים בדבריהם:
+
+
+
+## Daf 36b
+
+###### Rashash on Sanhedrin 36b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/36b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/36b:1)
+
+
+**רש"י ד"ה כי קאמר רב. ואין אלו טעמים הבנת רבו כו'.**כ"נ דצ"ל:
+
+
+###### Rashash on Sanhedrin 36b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/36b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/36b:2)
+
+
+**רש"י ד"ה לא תטה. ומה לנו לחוס על שור המועד כו'.**ל"ד נקיט מועד דאפי' תם ורובע ונרבע נמי דהא בשור הנסקל סתמא קאמר ר"א:
+
+
+###### Rashash on Sanhedrin 36b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/36b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/36b:3)
+
+
+**רש"י ד"ה הא תשעה. והדר פרכינן אאתקפתין כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 36b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/36b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/36b:4)
+
+
+**בא"ד ובסנהדרין כתיב ונשאו אתך.**כוונתו על הא דפ' יתרו וכדמסיק לקמן בד"ה ונשאו אתך והמציין לבמדבר השתבש:
+
+
+###### Rashash on Sanhedrin 36b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/36b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/36b:5)
+
+
+רש"י (במשנה) **ד"ה כחצי גורן. אין פני הראשונים רואים זא"ז.**ר"ל ראשון שבקצה מזה עם הראשון שבקצה אחר:
+
+
+
+## Daf 37a
+
+###### Rashash on Sanhedrin 37a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/37a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/37a:1)
+
+
+**גמרא אמרי עד האידנא הוה קטינא חריך שקיא כו'.**כצ"ל וכ"ה בב"מ ובברכות (ר"ד מו). והנה המהרש"א בח"א הקשה מזה על הא דאמר משה הן בעודני חי עמכם גו' ואף כי אחרי מותי. ולי לק"מ דהבריוני לא כחשו בעקרי האמונה בהשגחה ובשכר ועונש כנראה מדבריהם עד האידנא כו' רק שחטאו לתיאבון. אולם מרי ישראל היה ביסודי האמונה כמו בעגל ובמרגלים ובשארי נסיונות יפה שפט משה הן בעודני כו' שראו אותות השגחה והיכולת כי גדלו כפרו בו יתעלה ואף כו' וכבר כתבתי זה בחדושי לס' נת"ע:
+
+
+###### Rashash on Sanhedrin 37a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/37a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/37a:2)
+
+
+**תד"ה התורה. וא"ת כו' בן אמך והיכי אתא כו'.**כצ"ל ומלת והא מיותרת:
+
+
+###### Rashash on Sanhedrin 37a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/37a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/37a:3)
+
+
+**בא"ד ומיהו היכא דלא בעיל כו'.**עי' מהר"ם בביאור דבריהם. וק"ל א"כ אשת איש תהיה מותרת להתייחד עם בעלה הראשון ועי' כתובות (ס"ד כז) ובסוטה (ז):
+
+
+
+## Daf 37b
+
+###### Rashash on Sanhedrin 37b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/37b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/37b:1)
+
+
+**גמרא אראה בנחמה אם לא כו'.**עפירש"י במכות (ה ב) ובתוס' חגיגה (טז ב):
+
+
+###### Rashash on Sanhedrin 37b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/37b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/37b:2)
+
+
+**שם גלות מכפרת מחצה עון.**כצ"ל וכ"ה בע"י:
+
+
+###### Rashash on Sanhedrin 37b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/37b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/37b:3)
+
+
+**שם היושב בעיר כו' וברעב כו' ונפל על הכשדים כו' וחיה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 37b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/37b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/37b:4)
+
+
+**שם ובני יכניה אסיר שאלתיאל.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 37b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/37b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/37b:5)
+
+
+**רש"י ד"ה שזה הרגו. שדרך סוסים מיוזנים כו'.**כצ"ל והוא לשון המקרא (ירמיה ה):
+
+
+###### Rashash on Sanhedrin 37b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/37b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/37b:6)
+
+
+**תד"ה שאין. והאי דקאמר או אני או אתה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 37b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/37b:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/37b:7)
+
+
+**תד"ה מיום שחרב. ר"ל מ"מ כו' כי ההיא עובדא.**הן ההיא עובדא היה בימי ר' יהושע ב"פ ושמעון בן שטח לקמן (קז ב) ואחר שמעון ב"ש היה שמעיה ואבטליון ואחריהם היה הלל והוא היה מאה שנה קודם חורבן (שבת טו):
+
+
+###### Rashash on Sanhedrin 37b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/37b:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/37b:8)
+
+
+**בא"ד וי"ל דזכות תולה כו'.**כצ"ל ומלת מילה למחוק וכן בע"י ליתא:
+
+
+###### Rashash on Sanhedrin 37b:9
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/37b:9](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/37b:9)
+
+
+**בא"ד התם נמי זכות תלה לו כו'.**כצ"ל:
+
+
+
+## Daf 38a
+
+###### Rashash on Sanhedrin 38a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/38a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/38a:1)
+
+
+**גמרא שנאמר חכמות בנתה ביתה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 38a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/38a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/38a:2)
+
+
+**שם שברא את כה"ע כולו בחכמה.**כצ"ל וכ"ה בע"י:
+
+
+###### Rashash on Sanhedrin 38a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/38a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/38a:3)
+
+
+**רש"י ד"ה והיא נתעברה. ושילשלו שם אשה ובאגדה כו'.**שם איתא דשילשלו לו אשתו:
+
+
+###### Rashash on Sanhedrin 38a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/38a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/38a:4)
+
+
+**רש"י ד"ה ולאבן נגף. שמנקפת אהר"ג.**כצ"ל ותיבות ממהר הגלות ט"ס וכן בע"י ליתא:
+
+
+###### Rashash on Sanhedrin 38a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/38a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/38a:5)
+
+
+**רש"י ד"ה כיון דסוגרין. דב"ה הנעלמת מהן כו'.**ולעד"נ כיון דתחלת המו"מ של הלכה נקראת פתיחה וכמו שפירש"י בר"פ ד"ה פותחין. הגמר שלה נקרא סגירה וכן בלשון לעז קורין להחלט וגמר של דבר בלשון סגירה (בשלאסי"ן) בל"א. (זאקליוצעני"ע בל"ר). ועי' לקמן (מד ב) כיון שסוגר שוב אינו פותח ופירש"י שם:
+
+
+###### Rashash on Sanhedrin 38a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/38a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/38a:6)
+
+
+**רש"י ד"ה עולא. והם גלו לסוף תת"נ משנכנסו כו'.**כצ"ל:
+
+
+
+## Daf 38b
+
+###### Rashash on Sanhedrin 38b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/38b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/38b:1)
+
+
+**גמרא וכתיב התם ואמרו על אשר עזבו את ברית כו'.**כצ"ל הוא בדברים כ"ט והמרשים טעה:
+
+
+###### Rashash on Sanhedrin 38b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/38b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/38b:2)
+
+
+**שם כי מי גוי כו' אלהים קרובים כו'.**המ"ש הביא מכאן ראיה דאלהים הוא קדש ועי' במ"ר שם. ולא עמדתי ע"ד אונקלוס דכאן תרגם אלהא ולהלן בפסוק ל"ד או הנסה אלהים תרגם י"י בב' יודי"ן:
+
+
+###### Rashash on Sanhedrin 38b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/38b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/38b:3)
+
+
+**שם א"ל ההוא צדוקי כו' עלה אלי מבעי ליה.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 38b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/38b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/38b:4)
+
+
+**שם אל תמר בו אל תמירני בו.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 38b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/38b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/38b:5)
+
+
+**רש"י ד"ה גופו. ע"ש שהיא עמוקה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 38b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/38b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/38b:6)
+
+
+**רש"י ד"ה ולי מה יקרו. בתר כו' באותו מזמור.**כצ"ל:
+
+
+
+## Daf 39a
+
+###### Rashash on Sanhedrin 39a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/39a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/39a:1)
+
+
+**גמרא אבות יאכלו בוסר כו'.**בע"י הגי' אכלו כו' והוא בירמיה (ל"א):
+
+
+###### Rashash on Sanhedrin 39a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/39a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/39a:2)
+
+
+**שם אמר לה הכי קאמינא כו'. אמרה ליה אכול מהאי אמר לה מאיסא כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 39a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/39a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/39a:3)
+
+
+**שם כתיב מי כעמך ישראל כו'.**בשמואל (ב ז) איתא כישראל. אולם בד"ה (א יז) איתא ישראל:
+
+
+
+## Daf 39b
+
+###### Rashash on Sanhedrin 39b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/39b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/39b:1)
+
+
+**גמרא הכתוב בצאת לפני החלוץ ואומרים כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 39b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/39b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/39b:2)
+
+
+**שם ויקרא אחאב כו' ועובדיהו היה ירא את ה' מאד.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 39b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/39b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/39b:3)
+
+
+**שם מיעקב למד כו'.**כצ"ל וכן לקמן צ"ל ולא למד:
+
+
+
+## Daf 40a
+
+###### Rashash on Sanhedrin 40a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/40a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/40a:1)
+
+
+**במשנה בזמן שמכחישין זה את זה עדותן בטלה.**וכ' הרמב"ם בחבורו בפ"ב מהל' עדות ה"ג דאפילו אחד הכחיש את שנים. ולכאורה יפלא דהא אפי' אם היה מכחישן לגמרי אין דבריו ש"א במקום שנים. ואולי דהכא גרע דכיון דגם הוא מודה בגוף הענין א"כ הוה עד כמוהם והואיל דהוא מוכחש משנים הוה כנמצא א' מהם פסול דעדות כולן בטלה ועי' לשון רש"י לקמן (ס' סע"א) ול"ד למש"כ התוס' לעיל (ל"א) בסד"ה שב"ש. דהתם מכחשי אהדדי בגוף הענין ועי' לקמן בגמ' (מ"א):
+
+
+###### Rashash on Sanhedrin 40a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/40a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/40a:2)
+
+
+**שם אמר א' מן התלמידים כו' מעלין אותו ומושיבין כו' ואפי' הוא אומר כו' שומעין לו.**משינוי הלשון נראה דתלמיד מתחשב ג"כ למנין כאשר יצטרך לילך אחר הרוב. וכדמוכח נמי מהא דריב"ח לעיל (לד) אחד מה"ת שזיכה ומת רואין אותו כאילו חי כו' ופירש"י לענין המנין. אבל הנידון פשוט דאינו מן המנין רק דשומעין דבריו אולי יישרו בעיני הדיינים או מקצתם וכן מתבאר בירושלמי הל' ה' וכ"כ בשם הרמב"ן. ובדברי הרמב"ם בחבורו פ"י ה"ח נראה דיש ט"ס ועולה למנין הכתוב אצל הנידון צריך להציגו לעיל בא' מן התלמידים. והא דפריך לעיל (יז) לרעה ע"פ שנים ל"מ לה הוה מצי לשנויי בכה"ג בא' מה"ת. או דזה נכלל ג"כ במוסיפין דמשני התם:
+
+
+###### Rashash on Sanhedrin 40a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/40a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/40a:3)
+
+
+**שם וכמה מוסיפין ב' ב' כו'.**הן למאי דאמרי' לעיל (יז) דהאי דקאמר א"י כמאן דליתיה דמי (עמש"כ שם) ע"כ באחרונה אין מוסיפין אלא אחד דאל"כ המ"ל ע"א ועמש"כ בספ"ק:
+
+
+###### Rashash on Sanhedrin 40a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/40a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/40a:4)
+
+
+**רש"י ד"ה מכירים. וזו כו' אלא כל שאר בדיקות אינו כו'.**ולשון הרע"ב אלא כשאר בדיקות שאינן כו'. זה פשוט דמ"מ אינו בכלל בהא דתנן בדיקות אמר א"י כו' עדותן קיימת. דודאי אם א"י אם ישראל או נכרי עדותן בטלה ובשבועות (לד) אמרינן מי לא בעי מידע אם נכרי הרג כו' וכן אם לא התרו בו אינו כלום. ולשון הרמב"ם בפי' אין זה מכלל החקירות כו' אבל הוא דבר שאין שם עדות כו' אלא שידע אמיתתו. ובר"פ דלעיל כ' כי החקירה והדרישה כו' כגון כמה הלוה כו' ועל איזה דרך הלוהו. וע"ע בחבורו פ"א מהל' עדות ה"ד וברפ"ב שם ובמל"מ. ודע דמדבריו ברפי"ב מה"ס נראה שמפרש דאותו קאי על העובר עבירה וזה נ"ל יותר דכיון דלא נזכר מקודם דמיירי בעדות רציחה משמע דזה איירי בכל העבירות. ומה שאמר בברייתא ע"ז נכרי הרג כו' איננו ביאור להקודם רק הוא שאלה בפ"ע. אולם גם לדידי יקשה מה דלא הזכיר בברייתא קודם שאלת נכרי הרג. ההורג אה"נ כמו דהקדים העובד ע"ז לשאלת את מי עבד. אך מצאתי כה"ג בספ"ק דמכות היכי הוו עבדי כו' טרפה הרג כו' ולא הקדים לומר בהורג אה"נ כדמקדים שם בבועל את הערוה. אך שם י"ל משום דבמתניתין שם ארשב"ג אף הן מרבים שופכי דמים הרי דאיירי ברוצח:
+
+
+###### Rashash on Sanhedrin 40a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/40a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/40a:5)
+
+
+**רש"י ד"ה חקירות אמר א' א"י. בטלה כה"ע ואפי' הן מאה כו'.**הן לא פי' כמסקנא דרבא לקמן (מא ב) ויותר קשה על הרע"ב שנמשך אחריו (כי רש"י אורחיה לפעמים לפרש במשנה כהס"ד) ובפרט לדעת הרמב"ם שפסק כמסקנתו דרבא בפ"ב מהל' עדות הל"ג וע"ש בלח"מ ובמש"כ בס"ד במכות. והפלא על התוי"ט שהעתיק בסמוך אוקימתא דרבא ולא העיר מדברי הרע"ב מאומה:
+
+
+
+## Daf 40b
+
+###### Rashash on Sanhedrin 40b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/40b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/40b:1)
+
+
+**גמרא כיון דכולהו**(ר"ל כל הז') בהדי הדדי (בכללות הג' חייבי מיתה) כתיבן (כהעתקת רש"י) מהדדי ילפא (ר"ל דהרי גם אתה מודה דילפינן כל אחד מחבירו כדקאמרת ליכתבינהו בחדא וכדפירש"י) וכיון דילפי כו'. כנ"ל ופירש"י אינו מכוון כ"כ בלשון הש"ס:
+
+
+###### Rashash on Sanhedrin 40b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/40b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/40b:2)
+
+
+**שם ע"ג להנך תרתי ל"ד שכן בסייף.**רש"י ותוס' נדחקו. ולעד"נ לפירש"י בריש מכות בהא דקאמר שם ומה הסוקל אינו נסקל כו' נוכל לומר דהאמת כן הוא דאף אם באו לחייבו סקילה או שריפה אינן נידונין רק בסייף מק"ו שפי' התוס' שם. וע"ש במהרש"א דמשמע מדבריו דלא נמצא סתירה לזה וא"כ אתיא הכא כעין חומר. אלא דלכאורה יש סתירה לזה ממשנה דס"פ הנחנקין "כל הזוממין מקדימין לאותה מיתה חוץ מזוממי ב"כ ובועלה" משמע דמקדימין אפי' לשריפה דומיא דב"כ וי"ל בדוחק. אבל סתירה מפורשת מכתובות (מה מו) היא וזוממיה מקדימין לבית הסקילה. וכן לקמן (נ ב) אר"ש זוממי נשואה ב"כ כו' וזוממי ארוסה ב"כ כו' ואם איתא להא דאמרן א"כ לדידיה דסייף קיל מכולהו אין לזוממין מיתה אחרת זולתה ומאי קמ"ל ועוד שם בברייתא הסמוכה דמוקמיה לה כר"ש אמר היא בשריפה ואין זוממיה בשריפה. ול"ל מיעוטא ממ"נ אין להם מיתה אחרת זולת סייף. וע"ש (נא ב) זוממיה בכלל מיתת בועלה כו'. ואם איתא מאי נפקא מניה הלא הן אינן נידונין לא במיתתה שהיא שריפה ולא במיתתו שהיא סקילה אלא בסייף. ואולי לר"ש דסייף קיל מכולן ע"כ אתא קרא דלאחיו ולא לאחותו ואפקיה מק"ו אבל לרבנן א"ל דאיתא להאי ק"ו וכ"ז נעלמו מהמהרש"א הנ"ל. ופי' ראשון דרש"י הכא נ"ל שכוונתו מדכתיב גביה עין בעין וגו' וזהו ע"כ שהעידו עליו שסימא עין חבירו וכן כולם. כן נפש בנפש ר"ל שהעידו עליו שהרג אה"נ ודלא כמו שהבינוהו התוס' והשמיטו מלות עין בעין וגו' שבדבריו:
+
+
+###### Rashash on Sanhedrin 40b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/40b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/40b:3)
+
+
+**שם א"ל ר' יוסי כו' אמש הרגו א"ל באיזו שבוע כו'.**לכאורה אמש פירושו לילה שעברה עתה וא"כ גם שאלת איזה יום לא תפול בה. אבל עי' לקמן (מד רע"ב) בפירש"י שכתב בה"ע קרי ליה נמי אמש כו' ואע"ג דלפ"ז יהיה שייך נמי שאלת כמה בחדש ואם בא בר"ח עצמו יפול נמי שאלת איזה חדש. ר' יוסי ס"ל דתשובת איזה יום יספיק לכולהו:
+
+
+###### Rashash on Sanhedrin 40b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/40b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/40b:4)
+
+
+**רש"י ד"ה שכן צריך התראה. דכתיב כאשר זמם וזה חשב כו'.**כ"ה בכתובות (לג):
+
+
+###### Rashash on Sanhedrin 40b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/40b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/40b:5)
+
+
+**תד"ה מנין. בחבר כו'.**ולפ"ז לא א"ש מה דאמר אא"ע לכרת ופירש"י דקמי שמיא גליא כו' דהא בחבר גם לדידן גליא דמזיד הוא. וצל"פ לדידהו דלמאי נצרך הכתוב לפרש לן באיזה אופן יענש ביד"ש. והתוי"ט ל"ד בהרכבתו פירש"י ותוס' יחד:
+
+
+
+## Daf 41a
+
+###### Rashash on Sanhedrin 41a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/41a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/41a:1)
+
+
+**רש"י ד"ה בחנות. מקום היה בירושלים.**ובעלמא פי' דהיה בהר הבית:
+
+
+###### Rashash on Sanhedrin 41a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/41a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/41a:2)
+
+
+**רש"י ד"ה אלא ד"נ. שנאמר וקמת ועלית וגו'.**עי' תוי"ט ספ"א דמכות בד"ה ובח"ל:
+
+
+###### Rashash on Sanhedrin 41a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/41a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/41a:3)
+
+
+**תד"ה באשה. ולא בעי ר"י כו'.**עי' לקמן (עב ב) ההיא ריב"י היא כו' ובפירש"י שם וצ"ע:
+
+
+
+## Daf 41b
+
+###### Rashash on Sanhedrin 41b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/41b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/41b:1)
+
+
+**גמרא בתרי שיפורא ל"א דטעי.**עפ"ז העיר הגרי"פ על התוי"ט בד"ה א' אומר בג' שכתב דבתרי עבורי כו' ועל פיו הגיהו כן בתוי"ט בד"ח. ול"ד דזה אומר הש"ס לדחויי הסיעתא אבל אליבא דאמת דפסקינן כריו"ח נשאר הטעם דתרי עבורי (ומשום דברובא ידע) וכ"ה בתד"ה שזה בסופו. וכן בפסחים שם:
+
+
+###### Rashash on Sanhedrin 41b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/41b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/41b:2)
+
+
+**רש"י ד"ה ר"ע. וזה א"א להזימו.**כצ"ל וכן בתוס':
+
+
+###### Rashash on Sanhedrin 41b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/41b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/41b:3)
+
+
+**תד"ה אחד אומר בב'.**עמש"כ ע"ד בפסחים בס"ד:
+
+
+
+## Daf 42a
+
+###### Rashash on Sanhedrin 42a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/42a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/42a:1)
+
+
+**רש"י ד"ה אבל. ואין לטעות.**הס"ד ואח"כ מה"ד בהנץ החמה. או דצ"ל ב' תיבות בה נץ ומלת בה נמשכת למעלה:
+
+
+
+## Daf 43a
+
+###### Rashash on Sanhedrin 43a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/43a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/43a:1)
+
+
+**גמרא לכדתניא וירגמו אותו אבן אותו כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 43a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/43a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/43a:2)
+
+
+**שם ת"ש כו' א' מה"ת שזיכה ומת רואין אותו כאילו חי כו'.**לכאורה התם הוא לענין שיצטרפוהו למנין כדפירש"י לעיל וז"א אלא אם כבר זיכה אבל הכא לא מיבעי ליה אלא לענין להביא דיינים אחרים וא"ל אפי' אמר כו' נמי. וי"ל דהכי דייק דדוקא זיכה ושמע כבר דברי הסותרין את דבריו והוא נשאר בדעתו הוא דאמרי' דתו לא הוה הדר ביה וחשבינן ליה למנין. אבל אמר כו' כיון דלא שמע עדיין סתירת דבריו אמרינן דאלו שמע היה מודה לדבריהם. הואיל דאלו שלפנינו כבר הפכו בזכותו למדי ולא מצאו ודאי סברא דחויה היא מה שאמר ללמד. כיון דרבותיו לא הגיעו לה:
+
+
+
+## Daf 43b
+
+###### Rashash on Sanhedrin 43b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/43b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/43b:1)
+
+
+**במשנה אומרים לו התודה**(ר"ל על כל עבירות שעבר מימיו) כו' שכן מצינו בעכן כו' וכזאת כו' (ר"ל שכן גם עכן התודה גם על מעילתו בחרמים אחרים וזהו אולי כוונת רש"י במ"ש בגמרא כו') ואם א"י להתודות (ר"ל שאינו זוכר כל העבירות) א"ל אמור (בסתם) תהא כו':
+
+
+###### Rashash on Sanhedrin 43b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/43b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/43b:2)
+
+
+**גמרא א"ל יהושע בגורל אתה בא עלי כו'.**משמע דע"י הגורל לבד (אפי' אם לא היה מודה) רצה להרגו וכמו שא"ל ה' והיה הנלכד כו' ישרף רק שבקשהו שיתודה בכדי שידעו הכל שמשפט הגורל הוא מה' ושמו יהיה מכובד וגם כדי שיהיה לו כפרה. ודלא כמש"כ הרע"ב שנהרג על ידי הודאתו. והוא לקחו מפי הרמב"ם אבל לא השלים דבריו ע"ש:
+
+
+
+## Daf 44a
+
+###### Rashash on Sanhedrin 44a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44a:1)
+
+
+**גמרא אסא דקאי ביני חילפי אסא שמיה כו'.**חילפא היא ערבה כדאיתא בסוכה (לד). ואולי הכוונה בכאן על הא דנאגדים יחד בלולב דמצוה. ומדקאמר ביני חילפי יהיה ראיה למה שכתב המגן אברהם בסי' תרנ"א סק"ד בשם האר"י ודלא כהשל"ה שם:
+
+
+###### Rashash on Sanhedrin 44a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44a:2)
+
+
+**שם גם לקחו מן החרם כו'.**בכולהו צ"ל וגם בוא"ו:
+
+
+###### Rashash on Sanhedrin 44a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44a:3)
+
+
+**שם עכן כו' וכתיב התם את בריתי הפר.**ר"ל דביבמות (עב) דרשינן מיניה לרבות את המשוך:
+
+
+###### Rashash on Sanhedrin 44a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44a:4)
+
+
+**שם מ"ד במצוה דגופיה לא פקר קמ"ל.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 44a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44a:5)
+
+
+**שם אלא זה יאיר בן מנשה ששקול כרובה של סנהדרין.**מש"כ הרש"א בח"א שהולכין אחר ל"ו לחובה ע"ש. ל"ד שאין הולכין לחובה ע"פ אחד:
+
+
+###### Rashash on Sanhedrin 44a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44a:6)
+
+
+**רש"י ד"ה היכי עביד. דמשתחוה לאדם כו'.**ולשונו במגילה שהשתחוה לו והוא יותר מכוון:
+
+
+###### Rashash on Sanhedrin 44a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44a:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44a:7)
+
+
+**תד"ה חיישינן. והיאך אשה מתגרשת בלילה.**מבואר דלא כדעת הא"ז מובא בנו"ב מ"ת חאה"ע סי' קי"ד שפוסל נתינת גט בלילה ע"ש:
+
+
+###### Rashash on Sanhedrin 44a:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44a:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44a:8)
+
+
+**בא"ד והא דלא משני הכא דחזא ליה בבואה כו'.**כצ"ל:
+
+
+
+## Daf 44b
+
+###### Rashash on Sanhedrin 44b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44b:1)
+
+
+**גמרא לעולם יבקש אדם רחמים שיהו הכל מאמצין א"כ כו'.**ועי' פירש"י. ומזה יש ללמד זכות על פזמון דמלאכי רחמים וכו' חלו נא פני אל וכו' ונוסח מכניסי רחמים הכניסו כו' וכיוצא באלו אשר רבים גמגמו עליהם. אך י"ל דהכא דוקא ביחיד וכמו דמחלק הש"ס בסוטה (לג) ועי' באחרונים באו"ח ס"ס ק"א:
+
+
+###### Rashash on Sanhedrin 44b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44b:2)
+
+
+**שם יעכרך ה' ביום הזה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 44b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44b:3)
+
+
+**שם וכלכל ודרדע כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 44b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44b:4)
+
+
+**שם פשיטא כל כמיניה.**מפירש"י משמע דל"ג פשיטא וכן בע"י ליתא:
+
+
+###### Rashash on Sanhedrin 44b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44b:5)
+
+
+**רש"י ד"ה עתה באתי. על של עכשיו כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 44b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44b:6)
+
+
+**רש"י ד"ה אביך. תרח ואבותיו מכנען באו.**הן המה היו מבני שם ולא מזרע כנען וגם לא מצינו שגרו בארץ כנען ועי' רש"י בפיה"ת בר"פ לך בפסוק והכנעני אז בארץ:
+
+
+###### Rashash on Sanhedrin 44b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44b:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/44b:7)
+
+
+**רש"י ד"ה וכי כל כמיניה. דחשדינן להו לסהדי כו'.**כצ"ל:
+
+
+
+## Daf 45a
+
+###### Rashash on Sanhedrin 45a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/45a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/45a:1)
+
+
+**גמרא א"ר כו' דרבנן אדרבנן ל"ק.**ק"ל דנימא רבנן חיישי להרהורא והתם גזה"כ הוא ע"ש בתד"ה אם היה לבה נאה ול"ל קרא דונוסרו. ואולי כיון דאמר רבה גמירי כו' תו ל"ל דטעמייהו כאן משום הרהורא והתם משום הכתוב אין הכרח שיגלה את לבה דוקא ודלא כתוס' הנ"ל. אבל קשה מאי דאמר לקמן לימא דר"נ תנאי היא נימא דטעמא דר"י משום גזה"כ דהשוה הכתוב כו' כדפירש"י לעיל:
+
+
+###### Rashash on Sanhedrin 45a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/45a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/45a:2)
+
+
+**שם ומנין שבסקילה ובדחיה ת"ל סקל יסקל או ירה יירה כו'.**נ"ל דדרשה זו נ"ל מרבוי דיירה דאתא לומר דאף דאמרתי לך סקל יסקל לא תטעה לומר דסגי בזה בלבד אלא יירה פי' יריה צ"ל מקודם ואם לא מת בה אז אמרתי לך דיסקל. או דדריש לה במדת אם אינו ענין לו תנהו ענין לחבירו. ויש לקרב דרשה זו לפשוטו ולומר דהאי או במקום אם וכמו שפירש"י בויקרא (ד כג) ולא נצטרך לדחוק ולומר כדמשמע מדברי התוס' בפסחים (ו ב) ד"ה אבל בחד דזהו בכלל מה שאמרו אין מוקדם ומאוחר בתורה. ומרבוי דיסקל (לבד) דריש בסמוך לדורות ולהכי לא מסיק שם כוליה קרא (ר"ל גם או ירה יירה) משום דכבר אפיקתיה דבסקילה ובדחיה ודלא כגי' הילקוט שהובאה בגליון (ומשמעות קצת בפירש"י): ודע מה שפירש"י ולא כתב כי סקל סקל כו'. נראה כוונתו דה"ל ליכתבינהו תרוייהו במקור וכדאיתא במרובה (סה) לימא קרא המצא המצא כו' או דר"ל דליכתוב סקול סקל בלשון צווי:
+
+
+
+## Daf 45b
+
+###### Rashash on Sanhedrin 45b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/45b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/45b:1)
+
+
+**גמרא דתניא גואל הדם הוא ימית כו'.**כצ"ל (וכן העתיק הרמב"ם בפ"א מהל' רוצח ה"ב). בפגעו בו מ"מ. נ"ל דדרוש זה מהוא ימיתנו דסופיה דמיותר. ומש"כ רש"י דברוצח שוגג כו' מיירי קרא תמוה. וכבר עמד עליו המל"מ שם:
+
+
+###### Rashash on Sanhedrin 45b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/45b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/45b:2)
+
+
+רש"י (במשנה) **ד"ה אין דנין. דל"מ להפוכי בזכותייהו כו'.**כצ"ל:
+
+
+
+## Daf 46a
+
+###### Rashash on Sanhedrin 46a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/46a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/46a:1)
+
+
+**גמרא**(פיסקא) האיש תולין. הגהת רש"ל בכאן אינה מוכרחת כלל:
+
+
+###### Rashash on Sanhedrin 46a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/46a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/46a:2)
+
+
+**שם לרבות בן סו"מ.**התוי"ט הקשה דל"ל לרבוי' הלא גם הוא מהנסקלין דיליף להו לעיל. ול"נ דה"א דלא מרבינן אלא כעין מקלל שעל חטאו נהרג ובכל ימי צבאו משא"כ בסו"מ שע"ש סופו נהרג ואינו אלא עד שיקיף זקן או עד שראוי לקרותו אב:
+
+
+###### Rashash on Sanhedrin 46a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/46a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/46a:3)
+
+
+**תד"ה שתי. ויש חובר חבר.**תמוה דזה אינו במיתה אלא באזהרה בלבד עי' לקמן (סה) ואולי מפני צורך השעה דן גם עליה מיתה ולכוונה זו מביא הש"ס בסמוך הא דב"ד עונשין שלא מה"ת כמו רוכב הסוס בשבת:
+
+
+###### Rashash on Sanhedrin 46a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/46a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/46a:4)
+
+
+רש"י (במשנה) **ד"ה ותולה אותו. בידיו.**כצ"ל וכ"ה בהרע"ב:
+
+
+
+## Daf 46b
+
+###### Rashash on Sanhedrin 46b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/46b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/46b:1)
+
+
+**גמרא מניין למלין א"מ שע"ע בל"ת ת"ל כו'.**נ"ל דהלנה היא בעמוד השחר כבקדשים ובשכיר וא"ע בל"ת דל"ת עד שיעבור עליו כל הלילה אבל מ"מ בעשה דכי קבור תקברנו ביום ההוא (דהוא עשה בפ"ע כמו שחשבה הרמב"ם בסה"מ מ"ע רל"א ובריש הל' סנהדרין) עובר בשקיעת החמה ולא ראיתי כעת למי שידבר בזה:
+
+
+
+## Daf 47a
+
+###### Rashash on Sanhedrin 47a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/47a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/47a:1)
+
+
+**רש"י ד"ה הואיל ונדחה. כדתניא מע"ה כו'.**ולקמן כ' משום זבח רשעים תועבה ונראה דזבח רשעים אינו אלא בקרבנות נדבה אבל חטאת חובה לא מימעיט אלא מדרשה דע"ה. וכן מתבאר בדבריו חולין (ה ב) ד"ה דלאו חיובא:
+
+
+###### Rashash on Sanhedrin 47a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/47a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/47a:2)
+
+
+**רש"י ד"ה יטמא. ת"ל לנפש ל"י בעמיו.**אבל בתו"כ ראיתי שדורש זה מבעמיו דלא יטמא בעל ומבעמיו דלנפש דריש למעוטי מת מצוה ורש"י בפיה"ת שפי' תרוייהו למעוטי מ"מ תמוה ועמש"כ בערכין (דף ד) בס"ד:
+
+
+
+## Daf 47b
+
+###### Rashash on Sanhedrin 47b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/47b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/47b:1)
+
+
+**תד"ה מ"ט. הא אריו"ח כו' ורבא פסק כר"י כו'.**הן זאת דריו"ח סובר דעריפתה אוסרתה אינו מבואר ומוכרח שם עמש"כ שם גם מה שהכריחו דרבא ס"ל כוותיה י"ל דל"א אלא נגד ר"ל לבד והכא גם ר' ינאי רבו וחבריא ס"ל כר"ל אבל בכריתות (ר"ד כ"ד) איתא דרבא בעצמו אמר דעריפתה אוסרתה:
+
+
+
+## Daf 48a
+
+###### Rashash on Sanhedrin 48a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/48a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/48a:1)
+
+
+**תד"ה נתנו. דמשמע אבל ייחד לא.**לכאורה יקשה לפ"ז מאי דקאמר ולאביי כו' אזמני' אע"ג דלא צר דילמא ר"ח איירי בהזמנה לחוד דהיינו יחוד דגם אביי מודה דלאו כלום הוא. וי"ל דגם לר"ח דבעינן תרתי הזמנה וצר ההזמנה איננה ביחוד לבד אלא במעשה כדמוכח ההיא דהוסיף בו דימוס דמוקי לה אליבא דר"ח ורבא דרמא ביה מת וכן ההוא דכיס שעשאו להניח בו תפילין דמוקי לה דהניח ג"כ:
+
+
+
+## Daf 49a
+
+###### Rashash on Sanhedrin 49a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/49a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/49a:1)
+
+
+**גמרא א"ל ה"ל להצילו בא' מאבריו.**מבואר דאף הנרדף עצמו אינו רשאי להרגו אם יכול להציל א"ע בא' מאבריו וכן פירש"י לקמן (נז סע"א ובר"ד עד) ותימה על המגיה במל"מ סוף הל' חובל שמביא בשם כ"י של המל"מ דהנרדף עצמו א"צ לדקדק בזה:
+
+
+###### Rashash on Sanhedrin 49a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/49a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/49a:2)
+
+
+**שם היה לך להצילו בא' מאבריו.**מבואר דכינוי להצילו שב על הרודף וכפי' התוס' לקמן (עג) ד"ה להצילו ודלא כפירש"י לעיל ברה"ע:
+
+
+###### Rashash on Sanhedrin 49a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/49a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/49a:3)
+
+
+**רש"י ד"ה ומגדלי בלורית. והתירן הכתוב כו'.**כצ"ל:
+
+
+
+## Daf 49b
+
+###### Rashash on Sanhedrin 49b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/49b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/49b:1)
+
+
+**גמרא ואידך ההוא למצוה בעלמא.**נראה דלר"ה ברדר"י הוה לעיכובא דאל"כ יאמר גם מצות חליצה ולפמש"כ המהרש"א בכוונת רש"י י"ל דגם ר"ס ורפ"ס ס"ל דתמיד ה"ל לעיכובא וצ"ע להלכה. ומה שתמהו התוס' מסדר ברכות התם הוה ג"כ לעיכובא וכדאיתא ר"פ הקורא למפרע וכן סדר התקיעות וכמש"כ התוס' בר"ה (לד ב) ד"ה מתשעה והר"ן שם על הא דתקיעות וברכות של ר"ה ויוה"כ מעכבות ולא עמדתי ע"ד התוס' שהציגו תמיהתם על הא דר"ה ברדר"י דאמר אף סדר תמיד:
+
+
+###### Rashash on Sanhedrin 49b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/49b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/49b:2)
+
+
+**רש"י**(במשנה) ונ"מ למתחייב שתי מיתות כו'. התוי"ט תמה מדוע לא נקיט הנ"מ דב' חייבי מיתות שנתערבו כו' דקדים ע"ש ופשוט דרש"י נקיט לישנא דגמרא לקמן (נ ב) נ"מ למי שנתחייב ב' מב"ד נידן בחמורה וע"ש במהרש"א:
+
+
+###### Rashash on Sanhedrin 49b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/49b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/49b:3)
+
+
+**רש"י ד"ה ולאפוקי וד"ה היא אומרת**צ"ל בד"א:
+
+
+
+## Daf 50b
+
+###### Rashash on Sanhedrin 50b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/50b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/50b:1)
+
+
+**תד"ה כשהוא**(בסופו). והא דקאמר כהאי תנא כו'. עי' בר"ן בס"פ אלו עוברין דהביא דוגמאות לזה דאמר האי לישנא אע"ג דלית ביה פלוגתא:
+
+
+###### Rashash on Sanhedrin 50b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/50b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/50b:2)
+
+
+**תד"ה ת"ל. והא דקאמר בסמוך כר' אלעזר כו'.**כצ"ל בל"י וכן כולם:
+
+
+
+## Daf 51a
+
+###### Rashash on Sanhedrin 51a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/51a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/51a:1)
+
+
+**גמרא ניסת כו' לעו"ג כו'.**עפירש"י ותמוה לקרותה בעבור נשואי עו"ג זיקת בעל הלא אין כו' עי' יבמות (מה ב עו א) ואולי ר"ל א' מז' עממין אחר שנתגייר:
+
+
+###### Rashash on Sanhedrin 51a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/51a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/51a:2)
+
+
+**שם ותו מידי כהנת לכהן כתיב.**לכאורה היינו פירכא קמייתא ונ"ל דקושיא זאת שבה על הא דסיים בברייתא אע"פ שאינה כהנת דר"ל שאינה נשאת לכהן דמשמע דבקרא כתיב הכי להכי פריך מידי כו':
+
+
+
+## Daf 51b
+
+###### Rashash on Sanhedrin 51b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/51b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/51b:1)
+
+
+**תד"ה סירכא. ומיהו קשה כו'. אבל בכלתו כו'.**נראה דצ"ל אבל באת חמיה לא כו':
+
+
+###### Rashash on Sanhedrin 51b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/51b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/51b:2)
+
+
+**גמ' ת"ל איש כו' אשת רעהו כו' הכל היה בכלל כו'.**מזה אנכי תמה על מש"כ בתוס' הרא"ש ביבמות (לד) דנערה המאורסה אין בה קרבן בשוגג משום דל"כ בה כרת ע"ש. והרי גם היא בכלל ואל אשת עמיתך כו' כמו (באשת רעהו דאמר כאן) וכתיב בסה"פ ונכרתו הנפשות וכ"מ מלשון הרמב"ם בסה"מ בל"ת שמ"ז ולשון רש"י בכתובות (ג) לדחות פי' רבותיו דקדושי כסף דרבנן (האיך סוקלין ע"י ומביאין חולין לעזרה על שגגתן) הרי דפסיקא ליה דמביאין קרבן וכ"כ לקמן (נג) במתני' כיון דקדשה אשתו היא כו' ובפיה"ת (דברים כג א) כ' שאין בעריות מיתת ב"ד שאין בה כרת ולקמן (פ"א) בגמרא אשת רעהו טמא זו נערה המאורסה ומקרא מלא בה בפרשת תצא על דבר אשר ענה את אשת רעהו והא דמעטינן בריש ארוסה מתחת אשה פרט לארוסה היינו ממלת תחת תדע דלא ממעטה מאשתו דכתיבה כ"פ בפרשה והתוס' ביבמות (נט) כתבו דלילף העראה מנערה המאורסה בכל העריות דאיתקיש כולן להדדי כו' והיינו בקרא דכי כל אשר כו' ונכרתו כו' עלמא דפשיטא להו דכרת עלה נמי קאי וצע"ג. [וכ"פ בשו"ע א"ע סי' קכ"ו ס"ק מ"ד דאם כתב לארוסה דהות אנתתיה כשר וע"ש בב"י בשם הרי"ו והרשב"א] :
+
+
+###### Rashash on Sanhedrin 51b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/51b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/51b:3)
+
+
+**שם ור"ע מהם מקריבים והיו קדש נפקא.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 51b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/51b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/51b:4)
+
+
+**רש"י ד"ה הוציא הכתוב. והוציא כתוב אחר כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 51b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/51b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/51b:5)
+
+
+**רש"י ד"ה זוממיה. וזוממיה בכלל מיתת בועלה הן.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 51b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/51b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/51b:6)
+
+
+**רש"י ד"ה נוציא זו. דאם משמע להביא את הנשואה כו' ואם משמע גז"ש להוציא פנויה כו'.**כצ"ל:
+
+
+
+## Daf 52a
+
+###### Rashash on Sanhedrin 52a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/52a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/52a:1)
+
+
+**במשנה רי"א אף הוא כו'.**נל"פ דלקמן במתני' תני ג"כ בהנחנקין כריכת סודר כו' לכן קאמר אף הוא ר"ל שהוא מהנשרפין אם מת כו' ורש"י נדחק בזה:
+
+
+###### Rashash on Sanhedrin 52a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/52a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/52a:2)
+
+
+**גמ' ומאן דיליף מב"א מנ"ל דכתיב וימותו כו' כעין מיתה כו' אותם ולא בגדיהם.**ועי' בתוס' והתימה על הרע"ב שפי' דילפינן דלא נשרפו גופותיהם מדכתיב וישאום בכתנותם:
+
+
+
+## Daf 52b
+
+###### Rashash on Sanhedrin 52b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/52b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/52b:1)
+
+
+**תד"ה טעה. ואף כו' נמי חזר בו.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 52b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/52b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/52b:2)
+
+
+**רש"י ד"ה אלא להקל. ולקמן כו' דד"מ כסדרן כו'.**ושם לא פי' כן אלא משום שלא פי' כו' ע"כ קלה היא כו':
+
+
+
+## Daf 53a
+
+###### Rashash on Sanhedrin 53a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/53a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/53a:1)
+
+
+**גמרא במאי גמרי במות יומתו גמרי.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 53a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/53a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/53a:2)
+
+
+**שם א"ל בדמיהם כו' גמרו.**כ"ה להדיא לקמן (נד) בשתי ברייתות ובדף סו ובכריתות (ה) והא דלא מייתא להו לסייעתא עמש"כ בברכות (כו):
+
+
+###### Rashash on Sanhedrin 53a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/53a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/53a:3)
+
+
+רש"י (במשנה) **ד"ה הבא על האם. לחייבו על אחותו שהיא אחות אביו ואחות אמו.**כצ"ל וע"ש:
+
+
+###### Rashash on Sanhedrin 53a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/53a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/53a:4)
+
+
+**בא"ד וה"נ כתיב בהו חלוק לרבנן כדמפרש בגמרא.**בגמרא ליתא רק דלר"י איכא מיעוט אמך היא ורבנן דרשי לה לדרשה אחריתא וכיון דליכא מיעוט ממילא חייב שתים דילפינן מאחותו דהוי דבר שהיה בכלל כו' כדפירש"י במכות שם ועי' לקמן (נד) בפי' ד"ה בשוגג ולקרבן ובמש"כ שם:
+
+
+###### Rashash on Sanhedrin 53a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/53a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/53a:5)
+
+
+**רש"י ד"ה אלא בח"ל. וטעמא דר"ע התם מפרש מלא יקח כו'.**שם לא מפרש מידי רק ביבמות (מט) אמרי' טעמי דיש ממזר מח"ל דכתיב לא יגלה כנף אביו וכר"י דבאנוסת אביו הכתוב מדבר וסמיך ליה ל"י ממזר. והא דאין קדושין תופסין לדידי' משום דהא בהא תליא כמ"ש התוס' בקדושין (סז ב):
+
+
+
+## Daf 53b
+
+###### Rashash on Sanhedrin 53b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/53b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/53b:1)
+
+
+**רש"י ד"ה תני כדתנן. דר"י אף בראוי' כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 53b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/53b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/53b:2)
+
+
+**רש"י ד"ה אלא אמו. אמאי לא אקשי ליה מר"י גופי' כו' מודה להו דחייב.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 53b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/53b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/53b:3)
+
+
+**רש"י ד"ה אלא אמר רבא. ולא שם איסור אם.**כצ"ל והס"ד ואח"כ מה"ד ומייתי לה בג"ש. וקוטב פירושו כפי הגי' שלפנינו נ"ל דכ"ה דבשלמא אמך היא שפיר למידרש למעוטי דא"ח משום אשת אב משום דרישא דקרא הוה משמע דחייב אבל ערות אביך היא דאידך קרא ליכא למידרשי' למעוטי דא"ח משום אמו דהא אין שום משמעות ברישי' דלחייב אבל למעוטי דא"ח משום אשת איש א"ש דיש משמעות מרישי' דלחייב כמו שמבאר והולך וגי' המהרש"א ופירושו לא מחוור:
+
+
+###### Rashash on Sanhedrin 53b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/53b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/53b:4)
+
+
+**תד"ה לדבריו. דסבר כדתנן בסוף כו'.**כצ"ל:
+
+
+
+## Daf 54a
+
+###### Rashash on Sanhedrin 54a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54a:1)
+
+
+**רש"י ד"ה ת"ל. דהאי לאו ערות אביו היא.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 54a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54a:2)
+
+
+**רש"י ד"ה בשוגג. דנ"ל כו' לחלק כרת למפטם וסך כו'.**לכאורה לא היה צריך לזה דהם בכלל כל העריות ע"ש (יד) בפי' ד"ה לחלק (ובע"ב שם) ד"ה למפטם וסך ואולי דמשמע ליה דלא ילפינן מדבר שהיה בכלל כו' אלא דומיא דאחותו דהיינו עריות דנקבות דנפישי הנאתייהו (ועי' לקמן ע"ב בתד"ה הבא וברש"א שם ובמש"כ במכות יד ב) ותדע דאר"א לקמן הבא עה"ז והביא זכר עליו לר"ע א"ח אלא אחת משום דחד לאו הוא אטו מי גרע מבא על ב' זכרים דנילף מואל אשה לחייב על כל אשה ואשה ועי' לקמן ע"ב בתד"ה הנרבע ובמש"כ שם:
+
+
+###### Rashash on Sanhedrin 54a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54a:3)
+
+
+**משנה הבא עה"ז.**התוי"ט תמה למאי נקיט ליה הכא ולנ"פ דהתנא לא רצה לדלג ותנא להו כסדרן ברישא וכה"ג כתב בעצמו בפ"ד דטהרות מי"א ומיושב בזה קושית התוס' רפ"ב דב"ק בד"ה הבהמה וכמו שהעירותי שמה:
+
+
+###### Rashash on Sanhedrin 54a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54a:4)
+
+
+**תד"ה הבא על הזכור**(כצ"ל). והא דלא קתני והביא זכר עליו כו'. ולעדנ"פ דכיון דתני הבא עה"ז ממילא מישתמע גם הנשכב וכמו דבכל העריות לא תני להנשכבות באפי נפשייהו ובזה א"ש מה שאמר אם כו' בהמה מה חטאה דגמגם התוי"ט דהלא לא נשנית מקודם דהבהמה נהרגת ע"ש שנדחק וכן נ"ל דהא דל"ת והביא בהמה עליו הוא דמיסרך סריך בלישנא דריש כריתות דלא מיתניא ליה התם משום דליכא חילוק חטאות בהם כדאיתא (שם ג). ולפ"ז אתיא כמין חומר הא דהשמיט התם הביא זכר עליו דהוא למנינא לשינויי דריו"ח שם דמיסרך סריך בלישנא דהכא אולם מלקמן (סה א) קצת סתירה לזה ודעת התוס' בקושייתם מהביא זכר עליו. י"ל ע"פ מש"כ רש"י שם בכריתות ד"ה דאר"א ואי קשיא כו' אבל מ"ז דלא מיתהני כו' ע"ש. וע"ע בתוס' יבמות (נד ב) בד"ה בזכור:
+
+
+###### Rashash on Sanhedrin 54a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54a:5)
+
+
+**רש"י ד"ה אשר ישכב א"ז**(בסופו). מחייב נשכב. כצ"ל בל"ו:
+
+
+
+## Daf 54b
+
+###### Rashash on Sanhedrin 54b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54b:1)
+
+
+**גמרא אזהרה לנשכב**(ר"ל לזכר) מנין. עי' פירש"י בכריתות (ג) ד"ה דא"ר אבהו:
+
+
+###### Rashash on Sanhedrin 54b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54b:2)
+
+
+**שם קרי ביה לא תשכב.**לכאורה נראה דר"ל בנקודות נפעל תשכב ושי"ן דגושה וכ"ה בהגה' הב"ח אבל מהמהרש"א לקמן בד"ה אם א"ע נראה שהיתה גירסתו תושכב מבנין הפעל. ובכריתות הגי' תשכיב מהפעיל:
+
+
+###### Rashash on Sanhedrin 54b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54b:3)
+
+
+**שם אזהרה לנשכב**(לבהמה) מנין ת"ל לא יהיה קדש כו'. עפירש"י ותוס' וק"ל דמ"מ מנלן דנשכב לבהמה מיקרי תועבה דהא בפ' עריות (דעלה כתיב כי את כל התועבות האל או לפי' התוס') לא הוזכר נשכב לבהמה ואולי זהו כוונת אביי במה שאמר דכי כתיב כו' בגברי כתיב ודלא כפירש"י:
+
+
+###### Rashash on Sanhedrin 54b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54b:4)
+
+
+**שם ת"כ דרב זכר בן ט' כו'.**צ"ל זכור וכדמשמע מפירוש רש"י:
+
+
+###### Rashash on Sanhedrin 54b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54b:5)
+
+
+**רש"י ד"ה וגם קדש. האמור מה תועבה האמור שם קאי אף אנשכב אף תועבה האמור אצל לא יהיה קדש אף נשכב במשמע.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 54b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54b:6)
+
+
+רש"י ד"ה ונאמר להלן. במסית. הס"ד ואח"כ צ"ל ד"ח **מה להלן בסקילה. דכתיב וסקלתו באבנים.**ויש לקיים בדוחק קצת גם הגי' שלפנינו:
+
+
+###### Rashash on Sanhedrin 54b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54b:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54b:7)
+
+
+**רש"י ד"ה כתועבת הגוים. כי את כל התועבות האל עשו כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 54b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54b:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54b:8)
+
+
+**רש"י ד"ה בהמה. עשה בה קטנה כגדולה.**כצ"ל כבגמרא:
+
+
+###### Rashash on Sanhedrin 54b:9
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54b:9](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54b:9)
+
+
+**תד"ה עשו. דבתר זכור כתיב ובכל בהמה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 54b:10
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54b:10](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54b:10)
+
+
+**תד"ה הבא עה"ז והביא זכר**(כצ"ל). כיון שהם ב' ביאות. והמערה בעצמו דאר"א לקמן דמחייב תרתי צ"ל דהוי ג"כ כב' ביאות שוכב ונשכב ועמש"א בסמוך: מש"כ הרש"א דאחותו שהיא אחות אביו כו' לא מיקרי שמות מחולקין בכריתות שם ובמכות (יד) אמרי' להדיא (דאין) [דהן] שמות מחולקין:
+
+
+###### Rashash on Sanhedrin 54b:11
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54b:11](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/54b:11)
+
+
+**תד"ה הנרבע.**עכה"ד. לפ"ד נראה דה"ה הבא על זכור והביא עליו זכר דלר"ע א"ח אלא אחת הוא אפי' בשני זכרים. וכן הבא עה"ב והביא בהמה עליו דא"ח אלא אחת לר' אבהו אליבא דר"ע ולאביי לכ"ע הוי אפי' בב' בהמות וזה דלא כהרמב"ם בפ"ה מהל' שגגות ה"ג ולכאורה דעת התוס' מוכרחת ולפלא שלא העירו בזה מנו"כ. שוב בא לידי ס' שעה"מ וראיתי שהאריך בזה בפי"ז מהל' איסורי ביאה הי"א ודע דק"ל על מה שפסק שם הרמב"ם וברפ"ד כר"ע בבא עה"ז והביא זכר עליו דא"ח אלא אחת דלכאורה ה"ל לפסוק כר"י דהרי ר"א אמר לקמן גבי המערה בעצמו דמחייב תרתי ואולי דלאו תרתי חטאות קאמר אלא שני איסורים:
+
+
+
+## Daf 55a
+
+###### Rashash on Sanhedrin 55a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/55a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/55a:1)
+
+
+**גמרא תניא זכור בן תשע כו'.**כצ"ל כמש"כ לעיל:
+
+
+###### Rashash on Sanhedrin 55a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/55a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/55a:2)
+
+
+**שם הואיל כו' כתיבא נמי הא מילתא דדרשה.**כצ"ל ועי' הגי' ביבמות:
+
+
+###### Rashash on Sanhedrin 55a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/55a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/55a:3)
+
+
+**רש"י ד"ה המערה. בהקישא דר"י כי כל אשר יעשה מכל התועבות האלה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 55a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/55a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/55a:4)
+
+
+**רש"י ד"ה איידי. דערות אחות כו'.**כצ"ל:
+
+
+
+## Daf 55b
+
+###### Rashash on Sanhedrin 55b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/55b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/55b:1)
+
+
+**גמרא דבעי רה"מ ישראל הבא עה"ב בשוגג מהו כו' והכא כו' תקלה ליכא.**עמש"כ בזה לקמן (נז ב) בס"ד:
+
+
+###### Rashash on Sanhedrin 55b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/55b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/55b:2)
+
+
+**שם כיון דמזידה היא תקלה נמי איכא כו'.**וכן לקמן גבי קטן. מזה נ"ל דאף דפסק בשו"ע ח"מ סי' צ"ו ס"ג ותכ"ד ס"ח דקטן שהזיק וחבל פטור מלשלם אפי' לאחר שהגדיל ודלא כהג"א מ"מ לצאת יד"ש חייב:
+
+
+###### Rashash on Sanhedrin 55b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/55b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/55b:3)
+
+
+**שם בן ט' כו' ומטמא כנדה.**בנדה הגי' בנדה בב':
+
+
+###### Rashash on Sanhedrin 55b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/55b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/55b:4)
+
+
+**רש"י ד"ה ואם בא עליה יבם. ומקבלו אביה.**עי' קדושין (י) תד"ה ומקבל ובגיטין (סד ב) בתד"ה וכל שאינה:
+
+
+###### Rashash on Sanhedrin 55b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/55b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/55b:5)
+
+
+**תד"ה וחייבין. כמו בן ט' כו' אלא כמאמר כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 55b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/55b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/55b:6)
+
+
+**בסה"ד וניחא לפי' דלא קתני גבי קטנה ופוסלת כו'.**לכאורה אכתי קשה מדוע לא תני ופוסלת אה"ב דזה לא מוכח מהא דואם בא כו' מומתין ע"י ולדעת הראב"ד בפ"ד מהל' אסורי מזבח ה"ג דבהמה נפסלת אף אם בא על פחותה מבת ג"ש א"ש אבל נ"ל ראיה לדעת הרמב"ם מהא דתני גבי ב"ט שנים ופוסל אה"ב כו' דאטו לא נכלל בזה ג"כ אם בא בהמה עליו. ונראה דאף לשמואל דס"ל בזכור לעיל דבבן ג' נמי חייב בבהמה מודה דבעינן ב"ט כדמשמע מלישנא דמתני' וכדכתיבנא וטעמא דמשכבי אשה דמיני' יליף שמואל לא כתיב אלא בביאת זכור:
+
+
+
+## Daf 56a
+
+###### Rashash on Sanhedrin 56a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/56a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/56a:1)
+
+
+**גמרא תנא עד שיברך שם בשם מנה"מ כו' בנקבו שם יומת.**הנה רש"י כתב לקמן (סו) דר"מ בר' יוסי דהוא חכמים דמתני' דשם ל"ל הך ברייתא ע"ש והתוי"ט שם כתב מדפי' הרע"ב כאן הך דרשה דהכא (ומש"כ ג"כ בשם הרמב"ם לא נמצא בפי' שלפנינו) ש"מ דהכי ס"ל להלכה דלפי' המשנה אינו מוכרח ע"ש ואני אומר דמוכרח מדתני יכה יוסי את יוסי כדפירש"י וכן דברי הכ"מ (שהביא שם) דלכן פסק הרמב"ם כן משום סתמא דברייתא דהכא תמוהים דיותר הל"ל מן המשנה עצמה מן יכה יוסי כנ"ל והכ"מ כ' שם בהל' ח' בעצמו ולהכי נקט יכה דא"ח עד שיברך שם בשם כמו שקדם. ול"נ ראיה דבד"ז ליכא פלוגתא מהא דמשני לקמן בעינא שם בשם ולא מקשה הניחא למ"ד דבעינא כו' אלא למ"ד דלא בעי מא"ל:
+
+
+###### Rashash on Sanhedrin 56a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/56a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/56a:2)
+
+
+**שם והא כו' מהתם נפקא ה' זו ברכת השם.**ול"ל דאתיא הך דהכא כתנא דב"מ לקמן דלא דריש ויצו דהוא ל"ל גם דרשה דאיש איש דהא לא חשיב ברכת השם במצות ב"נ:
+
+
+
+## Daf 56b
+
+###### Rashash on Sanhedrin 56b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/56b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/56b:1)
+
+
+**תד"ה לאמר. אע"ג כו' במחזיר גרושתו כתיב כו'.**הן לפי מה שבארתי ביומא ובחדושי לס' נת"ע אות ח' בסופו דכוונת הנביא על הא דכתוב באותה פרשה אחרי אשר הוטמאה דדרשי לה רבנן על סוטה ודאית א"כ זנות דא"א איתא בהאי קרא ונכון בס"ד:
+
+
+
+## Daf 57a
+
+###### Rashash on Sanhedrin 57a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/57a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/57a:1)
+
+
+**רש"י ד"ה בע"ג דברים. וזיבוח וקיטור.**השמיט עוד ניסוך והשתחויה:
+
+
+###### Rashash on Sanhedrin 57a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/57a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/57a:2)
+
+
+**רש"י ד"ה נהרג עליו. משום גזל כו'. דהיינו שפחה חרופה כו'.**הוא לר' ישמעאל דאמר בכריתות (יא) בשפחה כנענית הכ"מ ומאורסת לע"ע ואמרינן בגיטין (מג) דמאי מאורסת מיוחדת ולהמהרש"א אישתמיט ד"ז:
+
+
+###### Rashash on Sanhedrin 57a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/57a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/57a:3)
+
+
+**רש"י ד"ה כיוצא בו. דש"ד דאילו ש"ד בשוגג כו' אלא רחמנא חס עליה.**ק"ל דלפ"ז מאי קמ"ל לרה"מ לעיל (נה ב) הא מה"ט אמרי' שם בקטן וקטנה דהבהמה נסקלת על ידיהם. וי"ל משום דחזינן דמזיק אפי' בשוגג חייב לשלם כדאיתא ספ"ב דב"ק אלמא דבמה שבין אדם לחבירו אין חילוק בין שוגג למזיד אלא דברוצח חס רחמנא עליה דלא למקטליה. אבל במה שבין אדם למקום בשוגג לא עניש עליה רק דקשה הלא מ"מ חייב בקרבן אלמא דחוטא הוא ועי' בנזיר (כג) דאפילו בספק איסור בשוגג א"ק ונשא עונו. ואולי מפני קושיא זה השכיל רש"י לפרש שם כסבור מותר דקרוב לאנוס הוא לר"ח ולאביי במכות (ט). אך עכ"ז קשה דהא בכה"ת אומר מותר ג"כ חייב בקרבן כמש"כ התוס' שם (ז ב) ד"ה אלא. וצ"ל בשוגג וכיון דמייתי קרבן מתכפר לו לגמרי ותו ליכא תקלה. ואע"ג דגם במזיד מתכפר לו כדאיתא לעיל (מז) מ"מ מה שנסקל ע"י אין לך תקלה גדולה מזו:
+
+
+
+## Daf 57b
+
+###### Rashash on Sanhedrin 57b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/57b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/57b:1)
+
+
+**גמרא אלא אריו"ח ל"נ אלא לנעה"מ דלדידהו ל"ל כו'.**לכאורה ה"נ דקאי נמי אעדה כו' דלהכי מקלינן עלייהו דליבעו עדה כו' משום דלדידהו ל"ל. וכמו בנכנסה לחופה ול"נ דמקלינן עלייהו לדונן בחנק מה"ט. אבל פירש"י מוכרח מהא דמשני לקמן תנא דב"מ הוא כו' ואם איתא מ"מ נ"מ לעדה כו' וכ"נ מלשון אלא דקאמר. ודע דמשמע דבא"א גמורה דידן נידון בסייף אפילו לר"ש דחנק חמור כיון דלדידהו אית להו בדינייהו דיינינן להו וכן מבואר להדיא לקמן (עא ב) ול"י מנ"ל לריו"ח הא הלא הברייתא היתה מתפרשת יפה לדידיה ואפי' בא"א גמורה וכן הברייתא השניה דעל א"א נידון בחנק וכן לא היינו נצטרך לקמן שם לומר דס"ל כתנא דב"מ דמיתה שלהם היא חנק. ועוד ק"ו הוא מה נעה"מ דלדידהו ליתא כלל דילן בדינא דידן. א"א דא"ל לדידהו לא כש"כ דדילן בדינא דידן:
+
+
+###### Rashash on Sanhedrin 57b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/57b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/57b:2)
+
+
+**שם ארנב"י כו' שנכנסה לחופה ול"נ כו'.**לרבא לקמן (נח ב) דבשל"כ פטור באשת חברו המ"ל אפי' בא"א גמורה ובשלא כדרכה:
+
+
+###### Rashash on Sanhedrin 57b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/57b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/57b:3)
+
+
+**תד"ה וחכמים. דמתוך כך מסיק לעיל על ד' מצות כו'.**כ"נ דצ"ל ור"ל מחמת קושיית אי משום דאיתרבאי מאיש איש אפי' (נכרי) [עבודת כוכבים] נמי כו'. אח"ז ראיתי הגי' כן בד"י:
+
+
+###### Rashash on Sanhedrin 57b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/57b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/57b:4)
+
+
+**תד"ה הורתו. דלא פסיקא כו' שאין לו שאר האב כו'.**כצ"ל:
+
+
+
+## Daf 58a
+
+###### Rashash on Sanhedrin 58a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/58a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/58a:1)
+
+
+**רש"י ד"ה וחכ"א יקיים. אלא למעוטי הו"ל בקדושה כיון כו'.**כצ"ל בל"ו וכמו שהעתיקו התוס':
+
+
+###### Rashash on Sanhedrin 58a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/58a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/58a:2)
+
+
+**רש"י ד"ה נשא אשה. ומשום דהנך גיורות קאמר כו'.**כצ"ל:
+
+
+
+## Daf 58b
+
+###### Rashash on Sanhedrin 58b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/58b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/58b:1)
+
+
+**גמרא שנאמר מוקש אדם כו'.**עי' פירש"י בע"י:
+
+
+###### Rashash on Sanhedrin 58b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/58b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/58b:2)
+
+
+**רש"י ד"ה נכרי מותר. בין לר' אליעזר כו'.**כצ"ל ביו"ד:
+
+
+###### Rashash on Sanhedrin 58b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/58b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/58b:3)
+
+
+**רש"י ד"ה ולכלל ישראל. דליגזור ליה כו'.**נראה דר"ל דעל עבדים בפרט ל"ג חכמים גזרות רק לישראל ולגרים גמורים ולמשוחררים שהמה כישראלים. וא"כ כש"כ שלא גזרו גזירות על ב"נ במצות דידהו וראיה ברורה להמל"מ בפ"י מהלכות מלכים ריש ה"ז לענין משוך בבני קטורה לדעת הרמב"ם ע"ש:
+
+
+###### Rashash on Sanhedrin 58b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/58b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/58b:4)
+
+
+**רש"י ד"ה מדרגילי. למיקרי לה כו'.**כצ"ל:
+
+
+
+## Daf 59a
+
+###### Rashash on Sanhedrin 59a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/59a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/59a:1)
+
+
+**רש"י ד"ה ומשני. שב והבטל מלעשות עול.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 59a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/59a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/59a:2)
+
+
+**רש"י ד"ה מורשה מאורסה. אמוראי איכא כו'.**ע"ש דר"ח תנא לה:
+
+
+###### Rashash on Sanhedrin 59a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/59a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/59a:3)
+
+
+**רש"י ד"ה מגזל. וכן נעה"מ דהא בכלל ג"ע הוא.**לפירושו למאי מסיק הגמ' דינו כו' דבסקילה. ועוד דלעיל (נז ב) משני על הא דמקשה מלאמר זו ג"ע התם בעריות דידהו. ולכן הנל"פ דר"ל דלא חשיב אלא הנך דמחייבי עלייהו מיתה דידהו אבל הא דבסקילה לא חשיב:
+
+
+###### Rashash on Sanhedrin 59a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/59a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/59a:4)
+
+
+**רש"י ד"ה לאו בני כבוש. לא נתנה ארץ לכבוש כי אם כו'.**כ"נ דצ"ל. אבל ק"ל מהא דחולין (ס"ד ס) עמון ומואב טהרו בסיחון וכן שם לעיל מיניה בדרשה דקרא והעוים. ובתוס' גיטין (ר"ד נח) כ' דקונים בחזקה דכיבוש מלחמה ע"ש:
+
+
+###### Rashash on Sanhedrin 59a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/59a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/59a:5)
+
+
+**תד"ה אף. וקשה כו' דרישא נ"ל כו'.**כצ"ל בלא ד':
+
+
+
+## Daf 60a
+
+###### Rashash on Sanhedrin 60a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/60a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/60a:1)
+
+
+**גמרא סתמא כר"ע דמקיש כו'.**עמ"ש בס"ד במכות (ה ב):
+
+
+###### Rashash on Sanhedrin 60a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/60a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/60a:2)
+
+
+**רש"י ד"ה אלא לאו בכינוי. אבל בזמן ב"ד קורעין כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 60a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/60a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/60a:3)
+
+
+**תד"ה המלך. תימה כו'.**ול"נ ליישב ע"פ הירושלמי דמקשה אמאי דתנן דא"ל אמור מה ששמעת בפירוש וא"ל גדף אלא אותו השם שאמרתי לפניכם אותו קלל כו' הביאו הכ"מ בפ"ב מהל' ע"ג הל"ח. ואף דהש"ס שלנו אינו סובר כן דה"ל לפרש כמ"ש התוי"ט. מ"מ שמעינן מיניה דזה לא נקרא גידוף ועכ"ז חייבין עלה לקרוע כדתני במתניתין. ואיכא למימר דבכה"ג א"ל לחזקיה:
+
+
+
+## Daf 60b
+
+###### Rashash on Sanhedrin 60b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/60b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/60b:1)
+
+
+**גמרא יכול שאני מרבה המגפף כו'.**קשה דא"כ לא תעבדם יתירה דפירש"י במתני' למאי אתא. ואולי הוה מוקמינן ליה לדרשה דאביי אליבא דר' אמי לקמן (סג) וע"ש בסוגיא ובפירש"י ועי' לקמן במהרש"א בד"ה של"כ מהשתחוואה נפקא:
+
+
+###### Rashash on Sanhedrin 60b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/60b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/60b:2)
+
+
+**שם וכ"ת זובח ל"ל לגופי' דמחשבין מעבודה לעבודה.**וכל הסוגיא. הן לפמש"כ התוס' בב"מ (מג ב) דמחשבה דפיגול היינו באמירה דוקא וא"כ ה"ה במחשבת ע"ג. ועי' חולין (לט) תד"ה אלא ולקמן (סה) בד"ה הואיל (ואע"ג דבע"ג אמרי' שם בחולין בשלהי מסכת דאפי' אמחשבה מעניש מ"מ קטלא ודאי לא מחייב עלה דמנא ידעינן) ולמאי דמסיק רבינא לקמן (סא ב) דלזא"ז קתני א"כ תיפוק ליה דחייב משום דאמר אעבוד כו'. ואולי דהכא איירי להכעיס:
+
+
+###### Rashash on Sanhedrin 60b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/60b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/60b:3)
+
+
+**רש"י ד"ה אילו נאמר. בא הכתוב לענוש מיתה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 60b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/60b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/60b:4)
+
+
+**רש"י ד"ה ת"ל. וכל עבודות שבעולם בכדרכה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 60b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/60b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/60b:5)
+
+
+**רש"י ד"ה לפי שיצאה זביחה. שנכללו בכלל וילך ויעבוד.**לכאורה הכלל הזה הוא בכדרכה וה"נ יותר לפרש מכלל דבלתי לה' לבדו דנכללו בו כל מעשה מכובד וכדמשמע גם מדברי המהרש"א. ויתורץ בזה גם תמיהת התוס' בד"ה המקטר דאי לאו בלתי כו' ה"א דא"ח אלא בזביחה לבדה בשל"כ. אך לא א"ש לפ"ז מאי דמקשה רבא בר"ח אימא יצאת השתחואה ללמד עה"כ כולו. דמה זה בא למעט יותר מן הכלל דבלתי. אולם י"ל דאדרבה בא לרבות דלא נימא דבלתי לא איירי אלא בעבודת פנים:
+
+
+###### Rashash on Sanhedrin 60b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/60b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/60b:6)
+
+
+**רש"י ד"ה אימא יצאה. וכ"ש דרך כבוד כהשתחואה ודקא קשיא כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 60b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/60b:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/60b:7)
+
+
+**רש"י ד"ה לגופיה. דאפילו לא שחט שחיטה עצמה כו'.**כצ"ל:
+
+
+
+## Daf 61a
+
+###### Rashash on Sanhedrin 61a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61a:1)
+
+
+**גמרא התם בזובח להכעיס.**לכאורה להכעיס דומה למאהבה ומיראה דפליגי בהו אביי ורבא לקמן וע"ש בתוס' ולקמן (סד) ד"ה אע"ג:
+
+
+###### Rashash on Sanhedrin 61a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61a:2)
+
+
+**שם היכא דפלחו כו' דכתיב ל"ת לך פסל.**(ר"ל ל"ת את עצמך פסל וכמו דדרשינן לקמן (עג) אבידת גופו מן והשבותו לו ע"ש בתוס') ולכן חייב הנעבד אם קבל העבודה דהרי עשה א"ע לפסל. כי פליגי בדבורא כו'. ור"ל וכמו דפליגי בחיובא דנעבד בדבורא כמו כן פליגי בחיובא דעובד:
+
+
+###### Rashash on Sanhedrin 61a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61a:3)
+
+
+**רש"י**(בסה"ע) אין נסתין לעבוד אדם. משמע דאפי' הסית לעבוד איש אחר. אבל הרמב"ם בפ"ה הל' ה' השווה איש אחר לשאר עו"ג וכ"מ לשון הגמרא וטעם החילוק פשוט:
+
+
+###### Rashash on Sanhedrin 61a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61a:4)
+
+
+**תד"ה ומר. כשמכמינין לו עדים ואומר היאך כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 61a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61a:5)
+
+
+**בא"ד ע"כ יש לחייב כו' כמסית לע"ג כו'.**כצ"ל:
+
+
+
+## Daf 61b
+
+###### Rashash on Sanhedrin 61b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61b:1)
+
+
+**גמרא יחיד לא ממלך וטעי בתריה.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 61b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61b:2)
+
+
+**שם רבא אמר כו' הא דא"ל כך אוכלת כו'.**וכן מיתניא בהדיא במתניתין ברישא דהאומר אעבוד כו' ע"ש וקצת תימה דלא הביאה רבא לסיוע:
+
+
+###### Rashash on Sanhedrin 61b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61b:3)
+
+
+**שם רבינא אמר לזא"ז קתני.**כה"ג משני ג"כ לקמן (סז):
+
+
+###### Rashash on Sanhedrin 61b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61b:4)
+
+
+**שם אמר אביי מנא אמינא דתנן כו'.**כצ"ל בל"ו והב' צ"ל בו':
+
+
+###### Rashash on Sanhedrin 61b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61b:5)
+
+
+**שם האי שגגת מעשה דעו"ג ה"ד אי קסבר בה"כ הוא כו'.**לכאורה המ"ל כגון שהתריז לפעור וקסבר ע"ג אחרת היא וכה"ג איתא בתוס' לקמן (סב ב) בסד"ה העלם ועמש"כ שם:
+
+
+###### Rashash on Sanhedrin 61b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61b:6)
+
+
+**רש"י ד"ה ודלא כהמן. הא דקתני יכול כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 61b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61b:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61b:7)
+
+
+**רש"י ד"ה ושוין שאינו כו'. מי שמביא חטאת על הודע דשגגת מעשה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 61b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61b:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61b:8)
+
+
+**בא"ד מדכתיב בא"ת שגגתו שגג תרי זימני כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 61b:9
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61b:9](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/61b:9)
+
+
+**רש"י ד"ה הרי לבו. ולא שוגג אלא לשמים.**כצ"ל ומלת הוא למחוק:
+
+
+
+## Daf 62a
+
+###### Rashash on Sanhedrin 62a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/62a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/62a:1)
+
+
+**גמרא ואילו בע"ג תנן ושוין שבשעירה כיחיד.**רש"ל הגיה תני. ובאמת משנה מפורשת בהוריות פ"ב מ"ו ובע"ג היחיד והנשיא והמשיח מביאין שעירה ועדיפא מהברייתא דלא איירי בנשיא. אלא משום דלישנא דברייתא קצר יותר ועוד דכבר אייתי לה אביי לעיל וכמש"כ בס"ד ברפ"ב דשבת:
+
+
+###### Rashash on Sanhedrin 62a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/62a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/62a:2)
+
+
+**רש"י ד"ה א"ח אלא אחת. דכל עבודתה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 62a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/62a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/62a:3)
+
+
+**רש"י ד"ה לחלק. וחייב עליה הכתוב בפני עצמה שפרט כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 62a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/62a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/62a:4)
+
+
+**רש"י ד"ה השתחואה נמי. דהא גבי סקילה כתיב וישתחו כו'.**כצ"ל בחד ו':
+
+
+
+## Daf 62b
+
+###### Rashash on Sanhedrin 62b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/62b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/62b:1)
+
+
+**תד"ה העלם. וה"נ המ"ל במגפף כו'.**ע"כ ר"ל ומנשק ומחבק כו' כדי שיהיה הנה אך כל אלו הן עכ"פ בלאו אף שאין דרכה בכך ולר"ל בשבת (סט) א"ח קרבן עד שישגג בלאו. ואין לומר ששגג בזה א"כ ה"ל כהעלם זה וזה יש לחלק. אולם יותר הל"ל בעבודות בזויות וכמש"כ לעיל (סא ב):
+
+
+
+## Daf 63a
+
+###### Rashash on Sanhedrin 63a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/63a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/63a:1)
+
+
+**גמרא אלמלא ו' שבהעלוך כו'.**ק"ל לפ"ז איך אמר נחמיה (במזמור ט') ויאמרו זה אלהיך אשר העלך ממצרים:
+
+
+###### Rashash on Sanhedrin 63a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/63a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/63a:2)
+
+
+**רש"י ד"ה ר"ע היא. לאפוקי הרהורא כו'.**עיין לקמן (ס"ה סע"א) ובתד"ה הואיל ובמש"כ לעיל (ס ב):
+
+
+###### Rashash on Sanhedrin 63a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/63a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/63a:3)
+
+
+רש"י ד"ה **איתקושי. אלי אתה לזביחה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 63a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/63a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/63a:4)
+
+
+**רש"י ד"ה אבל המגפף. לא תלכון אחרי אלהים אחרים.**כצ"ל והוא בדברים (ו יד) והמציין טעה ועי' מהרש"א. ומה שפירש"י לעיל דאביי מוקי לה ללאוי יתירי ר"ל דכיון דיתירי נינהו דרשינן להו למגפף כו' ולנעבד כהמן:
+
+
+###### Rashash on Sanhedrin 63a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/63a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/63a:5)
+
+
+**רש"י ד"ה לבן סו"מ. ל"ת אכילה שתהרגו עליה.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 63a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/63a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/63a:6)
+
+
+**תד"ה אמר ר"א. ולרשב"י כו' איתוקמא קמייתא כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 63a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/63a:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/63a:7)
+
+
+**תד"ה משום. דהוי לאו שניתן לאזהרת מב"ד.**כצ"ל:
+
+
+
+## Daf 63b
+
+###### Rashash on Sanhedrin 63b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/63b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/63b:1)
+
+
+**גמרא וכתיב וגו' דברו לעגלות כו'.**כצ"ל. ותיבת דברו הוא תחלת פסוק שלפני פסוק דלעגלות:
+
+
+###### Rashash on Sanhedrin 63b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/63b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/63b:2)
+
+
+**שם ומאי ניהו תרנגולת.**עי' רש"א בח"א. ובערוך ערך סך פי' ע"ש שסוככת על בניה: ואנשי כות. כצ"ל: את אשימא. כצ"ל בא': את נבחז. כצ"ל בז' וכן ברש"י עי' ח"א:
+
+
+###### Rashash on Sanhedrin 63b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/63b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/63b:3)
+
+
+**רש"י ד"ה וכומריו.**צ"ל וכמריו:
+
+
+
+## Daf 64a
+
+###### Rashash on Sanhedrin 64a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/64a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/64a:1)
+
+
+**גמרא הס כי לא להזכיר בש"ד.**כצ"ל וכ"ה בע"י והוא פסוק (עמוס ו׳:י׳):
+
+
+###### Rashash on Sanhedrin 64a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/64a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/64a:2)
+
+
+**רש"י ד"ה ויצעקו בני ישראל.**ט"ס וכצ"ל ויזעקו בקול גדול באכה"ג כתיב:
+
+
+
+## Daf 64b
+
+###### Rashash on Sanhedrin 64b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/64b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/64b:1)
+
+
+**רש"י ד"ה כי מזרעו. דלעיל מיניה כתיב אשר יתן כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 64b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/64b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/64b:2)
+
+
+**תד"ה העביר. וא"ת מקמא מיחייב ליה.**ולע"ד יותר מזה מצינו בעיר הנדחת (לקמן קי"ב) לרי"ה דדנין וחובשין דאע"ג דנגמר דינו לסקילה אם אח"כ ימצא רובא חוזרין ודנין אותו לסייף מכש"כ הכא אם באו עדים אפי' לאחר שנגמר דינו שהעביר גם יתר בניו אפי' בזא"ז סותרין דינו:
+
+
+###### Rashash on Sanhedrin 64b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/64b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/64b:3)
+
+
+**תד"ה וכי. דלעה"ז נפ"ל מקראי דמולך בע"ג.**כצ"ל בב':
+
+
+
+## Daf 65a
+
+###### Rashash on Sanhedrin 65a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65a:1)
+
+
+**רש"י ד"ה רל"א. וחטאת א"ב אלא עה"מ דכתיב ועשה כו'.**ולקמן בד"ה [אי הכי] כתב מקרא דלעושה בשגגה ועי' לעיל ס"ג בתד"ה אלא:
+
+
+###### Rashash on Sanhedrin 65a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65a:2)
+
+
+**רש"י ד"ה עקימת שפתיו. שעוקמן ומנענען כו'.**כצ"ל בל"י:
+
+
+###### Rashash on Sanhedrin 65a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65a:3)
+
+
+**רש"י ד"ה והתורה אמרה. וכל שזדונו חייב מיתה על שגגתו מביא קרבן.**אינו מדויק דלא תלי במיתה אלא בכרת דוקא ולכן מכה אביו ואמו וגונב נפש אף דיש בהן מיתה אינן בני קרבן הואיל ולית בהו כרת כדאיתא בתו"כ שהביא בעצמו לקמן ע"ב בראשו ובאמת כתיב ג"כ כרת בבעל אוב והנפש אשר תפנה אל האובות גו' והכרתי אותה ועי' דבריו בריש כריתות:
+
+
+###### Rashash on Sanhedrin 65a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65a:4)
+
+
+**תד"ה והנשאל. וי"ל איפכא דאזהרה לנשאל כו' מל"י כו' ושואל כו'.**נ"פ דרש"י מאן לפרש כן דהמשנה קוראתו נשאל ובקרא כתיב שואל. מ"מ קושייתם חזקה וגם רש"י חזר בו בפי' הגמ' כמו שהעיר המהרש"א וכן בריש כריתות במשנה. אכן שם בגמ' (ג ב) פי' ג"כ מלא ימצא כו' וע"ש בגליון וע' מש"כ בספ"ק דעירובין:
+
+
+###### Rashash on Sanhedrin 65a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65a:5)
+
+
+**תד"ה מאן. כדתניא בספ"ק דכריתות דף ז'.**כצ"ל:
+
+
+
+## Daf 65b
+
+###### Rashash on Sanhedrin 65b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65b:1)
+
+
+**גמרא שאני עדים זוממין הואיל וישנן בראיה.**פירש"י בזה דחוק ועי' ברי"ף גי' אחרת. ולעדנל"פ גי' שלפנינו דר"ל הואיל דמצינו דעדות מתקיימת ע"פ ראיה לחודא כר"ט בהחובל (צ ב) בסנהדרין שראו ביום לאחד שהרג אה"נ. ואף ר"ע ל"פ אלא בד"נ משום והצילו העדה. וא"כ אין החיוב מחמת הגדתן דהא גם בלתי הגדה היה יכול הדין להתקיים:
+
+
+###### Rashash on Sanhedrin 65b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65b:2)
+
+
+**שם לא דיתיב בה"פ ומשתעי.**כאן ל"א דסליק כמו בשנויא דלעיל דשם הוה ס"ד דמשתעי מקברו כפירש"י לכן השיבהו לא דסליק אבל הכא גם המקשה ידע דסליק דהרי כתיב עולים מה"א. ונראה דהכא ה"מ לשנויי דמשום כבוד שאול אישתעי כי אורחיה כמו שעלה ראשו למעלה מפני כבודו ע"ש בפירש"י ורד"ק:
+
+
+###### Rashash on Sanhedrin 65b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65b:3)
+
+
+**שם אמרו לו בזיתו כו'.**בע"י הגי' אמר ור"ל טורנוסא אמר לר"ע דביזה את אביו כו':
+
+
+###### Rashash on Sanhedrin 65b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65b:4)
+
+
+**רש"י ד"ה מתיב ר"ז. אחר שריבינו דברים כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 65b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65b:5)
+
+
+**רש"י ד"ה עולה כדרכו.**נראה דצ"ל עונה:
+
+
+###### Rashash on Sanhedrin 65b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65b:6)
+
+
+**רש"י ד"ה ברא גברא. ע"י ס"י שמלמד צירוף כו'.**כ"ה בע"י:
+
+
+###### Rashash on Sanhedrin 65b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65b:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65b:7)
+
+
+**רש"י ד"ה עיגלא. ל"א כו' שלישי לבטן.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 65b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65b:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65b:8)
+
+
+**רש"י ד"ה המחשב. לשון עונה מעונן כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 65b:9
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65b:9](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/65b:9)
+
+
+**תד"ה הואיל. דתני בתו"כ בהדי עדים זוממין.**כצ"ל:
+
+
+
+## Daf 66a
+
+###### Rashash on Sanhedrin 66a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/66a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/66a:1)
+
+
+רש"י (במשנה א') **ד"ה שחייבין. כגון כו' ולא המתעסק.**הן מהגמרא משמע דלא אתי לאפוקי אלא מין מלאכה שא"ח על זדונו כו' אבל לא למעט באיכות עשייתה כמו מתעסק. ואולי כוונתו רק על הא דהתנה התנא נמי ועל שגגתו חטאת דפי' הגמרא אינו מספיק לזה. ומשכחת לה כרת במזיד במתעסק כגון שנתכוין לחתוך מחובר זה וחתך מחובר אחר. עי' לעיל (סב ב) בתד"ה להגביה. ומש"כ דבר שיש בו מעשה ל"מ בשבת מלאכה דאין בה מעשה זולת מחמר עי' ר"פ מי שהחשיך:
+
+
+###### Rashash on Sanhedrin 66a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/66a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/66a:2)
+
+
+**גמרא מאן חכמים ר"מ בר"י הוא כו'.**בתור"ע הקשה מדוע ל"א דחכמים דר"מ בשבועות ספ"ד הוא. דסברי דאף מקלל אה"ש א"ח בכינוי כ"ש או"א ע"ש שהאריך. ולכאורה קושייתו תמוה דהתם בשם המתברך כמש"כ התוי"ט שם. אבל דבריו יתכנו לשטת הרמב"ם שבארתי בחדושי בפ"ב מהל' עדים ה"ז:
+
+
+
+## Daf 66b
+
+###### Rashash on Sanhedrin 66b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/66b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/66b:1)
+
+
+**רש"י ד"ה ת"ר נערה. עד שירבה שחור כו'.**וכ"כ לקמן (ק ב) ואנכי ל"מ סימן זה לא' מן התנאים דפליגי בסימני בוגרות בנדה (מז) לבד ר"י אמרו שם (נב) לענין מיאון:
+
+
+###### Rashash on Sanhedrin 66b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/66b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/66b:2)
+
+
+**רש"י ד"ה כי התם. דכתיב לבדו כו'.**כצ"ל:
+
+
+
+## Daf 67a
+
+###### Rashash on Sanhedrin 67a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/67a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/67a:1)
+
+
+**במשנה אמר יש יראה כו' כך אוכלת כו'.**עי' לעיל (סא ב) שנויא דרבא ובמש"כ שם:
+
+
+###### Rashash on Sanhedrin 67a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/67a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/67a:2)
+
+
+**שם אמר לשנים הן עדיו כו'.**מדברי התוי"ט ד"ה מכמינים נראה דלשנים א"צ לומר לו היאך נניח כו'. אבל ל"נ כן מהתוס' לעיל (ס"ד ח) ע"ש:
+
+
+###### Rashash on Sanhedrin 67a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/67a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/67a:3)
+
+
+**שם מכמינים לו עדים כו'.**משמע דעד א' והניסת לא סגי ונדחה התוי"ט בטעמו. ול"נ משום דה"ל עדות מיוחדת שפסולה בע"נ במכות (ו ב) ואף דאמרי' לקמן בברייתא מדליקין כו' כדי שיהו רואין אותו ומסתמא יראו גם את הניסת מ"מ לא מהני דבעינן שיהא כ"א רואה את חברו כגי' הרמב"ם שם במכות רואין את המתרה והמתרה רואה אותן ולא כגי' שלפנינו או:
+
+
+###### Rashash on Sanhedrin 67a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/67a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/67a:4)
+
+
+**שם והוא א"ל אמור מה שאמרת ביחוד.**לפירש"י הוא נותן אצבע לתוך פיו. ול"נ דיחוד פי' בבירור כמו בפ"ו דשקלים מ"ב ור"ל ברר יפה דבריך הראשונים:
+
+
+###### Rashash on Sanhedrin 67a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/67a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/67a:5)
+
+
+**גמרא רבינא אמר כו' ולזא"ז קתני.**כה"ג משני לעיל (סא ב):
+
+
+###### Rashash on Sanhedrin 67a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/67a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/67a:6)
+
+
+**שם רפ"א כי קתני מסית כו'.**והנה הר"ב פי' למתני' דלמעוטי קאתי וכר"ש וסיפא כרבנן כמ"ש התוי"ט בד"ה המדיח והוא כדקס"ד דמקשה ותמוה ונראה דהוא מפרש רישא ר"ש וסיפא רבנן הוא תירוץ כסתמא דהש"ס [וכה"ג פירש"י בב"מ מ"א בד"ה אתאן לר"ע] וכה"ג משני ר"ח במגילה (ט ב) ובהוריות (יב ב) ומהרמב"ם בפי' נראה דמפרש דנביא המסית את היחיד לכ"ע בחנק (ובחבורו רפ"ד מהל' ע"ז חזר בו) ודקאמר הש"ס טעמא דהדיוט הא נביא בחנק הוא בניחותא והקושיא איננה רק מוהמסית את ההדיוט טעמא כו' ובשנויא דר"פ גריס כי קתני מסית את ההדיוט להכמנה ור"ל דלמדיח אין מכמינים וב"ס היה ג"כ מסית:
+
+
+###### Rashash on Sanhedrin 67a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/67a:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/67a:7)
+
+
+**רש"י ד"ה הן רואין. ואע"ג דשמעי קלי' כו'.**ק"ל דהא משמע בחולין (צו) דבטב"ע דקלא סגי וצ"ל דדוקא לענין איסורא אבל לא לקטלא וגדולה מזו ראיתי בנתיבות סי' פ"א בשם קצה"ח דאף בממון לא מהני טב"ע דקלא אך מה דמשמע מדבריו דלהכי לא מהני בד"נ משום דבעינן ראיה וידיעה צ"ע דהרי מוכח להדיא בשבועות (לד) ובתוס' שם דידיעה לחוד סגי וכן נ"ל מהרמב"ם ספ"ט מהל' עדות דטב"ע דקלא מהני מדלא פסל סומין בטב"ע דקלא אלא מטעם שאינן ראוין לראות משמע דבראוין מהני:
+
+
+
+## Daf 67b
+
+###### Rashash on Sanhedrin 67b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/67b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/67b:1)
+
+
+**גמרא כדר"ח ור"א כו' עסקי בהלכות יצירה.**לעיל הגי' בספר:
+
+
+###### Rashash on Sanhedrin 67b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/67b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/67b:2)
+
+
+**שם ויאמרו החרטומים כו' א"ר אלעזר כו'.**כצ"ל בל"י:
+
+
+###### Rashash on Sanhedrin 67b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/67b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/67b:3)
+
+
+**רש"י ד"ה שוכב עם בהמה. מאוב וידעוני דכתיב בהו כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 67b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/67b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/67b:4)
+
+
+**רש"י ד"ה בלטיהם. כמו ותבא בלט.**כוונתו לרות (ג) והמרשים לשופטים שגה:
+
+
+
+## Daf 68a
+
+###### Rashash on Sanhedrin 68a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/68a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/68a:1)
+
+
+**גמרא ולא חסרתי מרבותי אפילו כו' ולא חסרוני תלמידי אלא כו'.**מפרש"י נראה הגי' בהיפך בו אלא ובתלמידיו אפי' וכ"כ בח"א:
+
+
+###### Rashash on Sanhedrin 68a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/68a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/68a:2)
+
+
+**רש"י ד"ה לחלוץ תפיליו.**לכאורה ה"נ להגיה א"נ אסור להניח שמא יצא כו'. עי' שבת (ס"א) אר"ס כו' אלא אפי' למ"ד שבת ז"ת כו'. ועי' בתוס' כאן אמנם דבריו מיושבים כפי הגירסא לפי שיטת התוס' במנחות (לו ב) ד"ה אי קסבר ע"ש:
+
+
+###### Rashash on Sanhedrin 68a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/68a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/68a:3)
+
+
+**רש"י ד"ה שפופרת. קנה כו' כחול מכחול קיסם כו' שתוחבין בתוכו כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 68a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/68a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/68a:4)
+
+
+**רש"י ד"ה בין קסרי. שהיה נושאין א"מ מקסרי ללוד.**הן מקומו של ר"א היה בלוד כדלעיל (לב ב) וא"כ ה"נ לכאורה לפרש בהפך מלוד לקסרי (לפי גירסתו בין כו') אולם (לבד דא"כ הל"ל בין לוד לקסרי) קסרי היא חו"ל כדמשמע במגילה (ו) ואיך יתכן שיוציאוהו מארץ לחו"ל ואולי בחליו אמטוהו לקסרי כדאשכחן ברבי בפרק הנושא:
+
+
+
+## Daf 68b
+
+###### Rashash on Sanhedrin 68b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/68b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/68b:1)
+
+
+**גמרא אר"ח קטן שהוליד כו' ולא לבן בן.**מה שציינו הע"מ להרמב"ם הוא טעות דהוא ז"ל לא הביאו דנקטינן כרבה דקטן אינו מוליד דההיא דאם אין לאיש גואל מסייע ליה דברייתא היא כמובא בב"ק (קט ב) ופסקה הרמב"ם בפ"ח מהל' גזלה הל' ז'. ונראה דטעותו הוא שהיה מפרש דאם הבן הוליד שוב הוא עצמו אינו נעשה בסו"מ וכעין דרשה דלקמן בן ולא הראוי לקרותו אב אשר זה הביא הרמב"ם במקום שציין:
+
+
+###### Rashash on Sanhedrin 68b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/68b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/68b:2)
+
+
+**רש"י ד"ה תני ר"ח. משיביא ש"ש עד שיקיף עטרה.**כצ"ל. ומה שבינתיים למחוק:
+
+
+
+## Daf 69a
+
+###### Rashash on Sanhedrin 69a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69a:1)
+
+
+**גמרא א"ל לעולם אימא לך עוברה ניכר לשליש ימיה כו'.**ביבמות (מב) הוכחתי מהסוגיא דשם דרבינא לא דחה אלא ראייתו אבל בעיקר דבריו מודה ע"ש:
+
+
+###### Rashash on Sanhedrin 69a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69a:2)
+
+
+**רש"י ד"ה קנאה. ובלבד שיקבל אביה את גיטה.**עי' מה שציינתי לעיל (נה ב) ע"ד:
+
+
+
+## Daf 69b
+
+###### Rashash on Sanhedrin 69b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:1)
+
+
+**גמרא וכתיב אליעם בן אחיתופל כו'.**כצ"ל בל"ו:
+
+
+###### Rashash on Sanhedrin 69b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:2)
+
+
+**שם וילך גשור.**כצ"ל בל"ה:
+
+
+###### Rashash on Sanhedrin 69b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:3)
+
+
+**שם אלכה נא ואשלם א"נ.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 69b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:4)
+
+
+**שם וילך אל ביתו אל עירו.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 69b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:5)
+
+
+**שם אברהם גדול מנחור שנה כו'.**כצ"ל עי' מהר"ם וח"א. ול"נ דל"ד נקט שנה שנה ושתי שנים אלא דכ"א לא היה גדול מחברו רק ח' חדשים כדי עבור (וימי נדות וטהרה) נמצא דאברהם גדול מהרן ט"ז חדשים וא"כ היה הרן גדול משרה ח' שנים וח' חדשים וכשעברה היה ח' שנים (ול"ד בשביל חדש דאצלו אין לחשוב ימי נדות וטהרה עי' תד"ה דל) אך צ"ע דהא משמע לעיל (נח ב) דאברהם והרן לא היו מאם אחת וא"כ ח' חדשים ללא צורך. וא"ת דגם נחור היה מאשה אחרת יפול עוד ח' חדשים ולהבנת הח"א יפול בס"ה שנתיים:
+
+
+###### Rashash on Sanhedrin 69b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:6)
+
+
+**רש"י ד"ה והא א' מכל העריות. דאתו לה משום קדושין כו'.**כצ"ל ולמחוק לחייבה או להגיה לחייבם:
+
+
+###### Rashash on Sanhedrin 69b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:7)
+
+
+**רש"י ד"ה אלא. אי בעית כו'.**כצ"ל בב' תיבות:
+
+
+###### Rashash on Sanhedrin 69b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:8)
+
+
+**רש"י ד"ה פסלה. ומיהו מיתה לא (מחייבו) כגון שלא התרו (בהן).**נראה להגיה מחייבה בה'. דדוחק לומר דכיון דילפי מדורות הראשונים יהיו ג"כ בני עונשין מקודם כמוהם וכמ"ש התוס' לעיל בע"א
+
+
+###### Rashash on Sanhedrin 69b:9
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:9](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:9)
+
+
+רש"י ד"ה אי נימא.
+
+
+###### Rashash on Sanhedrin 69b:10
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:10](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:10)
+
+
+**בלדת שלמה בנה ויקרא כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 69b:11
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:11](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:11)
+
+
+**בא"ד כדאמרי' בתמורה כו'.**עי' הגהת רש"ל:
+
+
+###### Rashash on Sanhedrin 69b:12
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:12](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:12)
+
+
+רש"י ד"ה חצי ימיו. שבעים שנה. הס"ד ומתחיל ד"ח **פשו**:
+
+
+###### Rashash on Sanhedrin 69b:13
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:13](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/69b:13)
+
+
+**רש"י ד"ה ותדע. דהא הוה לה לב"ש.**כצ"ל:
+
+
+
+## Daf 70a
+
+###### Rashash on Sanhedrin 70a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70a:1)
+
+
+**במשנה אכל טבל כו'**עד שלא נפדו. התוי"ט הכריח דל"ג לה דהא א"ח עד שיאכל בשר וישתה יין. ומשום הא לא איריא די"ל דהכוונה דהיין ששתה היה טבל ושתיה בכלל אכילה ושיגרא דלישני דהקודמים נקיט. ומע"ש של"נ דקתני אף שצריך שיקח במעות כמש"כ רש"י לקמן (ע"ב בד"ה אכל מע"ש) וא"כ ממילא נפדה מ"ל דלקחו דרך מקח ולא נתכוין שיהיו המעות נתפסים בקדושת מעשר (עי' בהרע"ב פ"ד דמע"ש מ"ו) או שלקחו באסימון והקדש מ"ל בנסכים שקדשו בכלי דשוב אין להם פדיון:
+
+
+###### Rashash on Sanhedrin 70a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70a:2)
+
+
+**גמרא ותניא יין תוסס א"ב משום גילוי כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 70a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70a:3)
+
+
+**שם התם משום שמחה כו' הכא כו' ובכ"ש לא מימשך ויין עד מ' יום.**נל"פ דכ"ז בניחותא ופשיטות הבעיא. ודברי רמב"ם בזה תמוהים דלא פטר אלא ביום הג' למליחתו וביין מגתו סתם הדברים. (ובזה י"ל דסמיך אמש"כ בפ"ו מהל' איסורי מזבח ה"ט דיין מגתו הוא דלא שהה מ' יום) דהא אפי' לא איפשטא ה"ל למיפסק דספק נפשות להקל. אח"ז מצאתי להב"ח באו"ח סי' תקנ"ב שהעיר קצת מזה:
+
+
+###### Rashash on Sanhedrin 70a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70a:4)
+
+
+**שם למי מדינים.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 70a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70a:5)
+
+
+**שם רמ"א אותו אילן שאכל א"ה ממנו כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 70a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70a:6)
+
+
+רש"י (במשנה) **ד"ה <b>ואע"פ. דדילמא ממאכל אחרינא כו'.**כצ"ל:</b>
+
+
+###### Rashash on Sanhedrin 70a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70a:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70a:7)
+
+
+**רש"י ד"ה כפל. שני תרטימרים.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 70a:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70a:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70a:8)
+
+
+**רש"י ד"ה שיחי. צער כמו כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 70a:9
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70a:9](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70a:9)
+
+
+**רש"י ד"ה מתוך. קללו בבן רביעי שלו.**כצ"ל:
+
+
+
+## Daf 70b
+
+###### Rashash on Sanhedrin 70b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70b:1)
+
+
+**גמרא שאביך ירא שמים היה.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 70b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70b:2)
+
+
+**שם ואיהו אסיק בשר ויין ואכל כיון דבמצוה קא עסיק ל"מ.**בתו"ח כתב דבעבור חדש ודאי היה חבורה של חכמים ע"ש. ותמוה דא"כ בלא טעמא דבמצוה קעסיק תיפוק ליה דכולה סריקין בעינן:
+
+
+###### Rashash on Sanhedrin 70b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70b:3)
+
+
+**רש"י ד"ה למואל. להקב"ה למואל כמו למו שכינה הוא כו'.**כ"א בע"י:
+
+
+###### Rashash on Sanhedrin 70b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70b:4)
+
+
+**רש"י ד"ה אי שכר. כלומר אל לרוזנים כו' לא נאה להם לומר כן.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 70b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70b:5)
+
+
+**רש"י ד"ה בפת דגן. ול"י משום מאי נקט פת דגן.**ולעד"נ דכלפי דבר"פ הפועלים דתנן פת וקטנית איבעי ליה שם לר"א פת קטנית תנן או פת וקטנית ע"ש להכי תני הכא פת דגן דלא ליתי למטעי:
+
+
+###### Rashash on Sanhedrin 70b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70b:6)
+
+
+**רש"י ד"ה אחריפו. בלילה היו יושבים כו' להשמיע קול.**נל"פ ע"פ הא דאיתא ביומא (ס"ד כ) דבלילה נשמע הקול יותר מביום:
+
+
+###### Rashash on Sanhedrin 70b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70b:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70b:7)
+
+
+רש"י ד"ה סתם שקצים. שאף בקולו ש"מ אינו שומע.
+
+
+###### Rashash on Sanhedrin 70b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70b:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/70b:8)
+
+
+**הא טהורים חייב.**הס"ד ואח"כ מ"ד כי תנן וכהגהת הגרי"פ:
+
+
+
+## Daf 71a
+
+###### Rashash on Sanhedrin 71a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/71a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/71a:1)
+
+
+**גמרא אבוה אבוה ואמיה אמיה נינהו.**כצ"ל ועי' הלשון ברש"י:
+
+
+###### Rashash on Sanhedrin 71a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/71a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/71a:2)
+
+
+**שם וכיון דאיכא מזוזה לא אפשר.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 71a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/71a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/71a:3)
+
+
+**רש"י ד"ה מציינין. דאבן מנוגעת מטמאה באהל.**ל"ד כמש"כ בס"ד ע"ד בב"ב (ט ב):
+
+
+###### Rashash on Sanhedrin 71a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/71a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/71a:4)
+
+
+**רש"י ד"ה מתרין בו. דהא התראת עדים בעי.**עי' לעיל (ט ב) וצע"ק:
+
+
+###### Rashash on Sanhedrin 71a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/71a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/71a:5)
+
+
+**תד"ה ע"מ.**בכה"ד צ"ל אלעזר בל"י:
+
+
+
+## Daf 71b
+
+###### Rashash on Sanhedrin 71b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/71b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/71b:1)
+
+
+**רש"י ד"ה למדנו ויסרו. דכתיב עם בן.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 71b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/71b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/71b:2)
+
+
+**רש"י ד"ה שהכה א"ח. אשת חברו.**הס"ד ואח"כ מ"ד פטור:
+
+
+###### Rashash on Sanhedrin 71b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/71b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/71b:3)
+
+
+**רש"י ד"ה לישראל. אי הוה עביד השתא.**הס"ד ואח"כ מ"ד מיתתו לא אישתני:
+
+
+###### Rashash on Sanhedrin 71b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/71b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/71b:4)
+
+
+רש"י ד"ה בסקילה מ"ט לא. דכיון דאישתני גופה ואישתני קטלה. ובסמוך **בד"ה תדון. אע"ג דאישתני גופה ואישתני קטלה.**כנ"ל דצ"ל:
+
+
+
+## Daf 72a
+
+###### Rashash on Sanhedrin 72a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/72a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/72a:1)
+
+
+**גמרא אמר רבא מ"ט דמחתרת כו'.**כצ"ל בל"ו:
+
+
+###### Rashash on Sanhedrin 72a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/72a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/72a:2)
+
+
+**רש"י ד"ה אבל לענין מקנה. לשלומי אם נאנס וכל כמה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 72a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/72a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/72a:3)
+
+
+**תד"ה אפילו. וי"ל דהתם בגנב מגגו כו'.**לכאורה קשה דהא אמרי' אליביה דאפי' ביש לו דמים ברשותיה קיימי. אבל לק"מ דהא בזה ל"פ רב דבקיימת מחזירה בעינה כדכתיב והשיב אה"ג כדפירש"י וכדמוכח מכמה משניות רק שסובר דזה גזה"כ הוא דיחזירנה בעינה אע"פ שקנאה כמו שפסקה התורה בנזקין לשלם מן העדית דוקא אם יש לו ולכן אין הגונב ממנו משלם תשלומי כפל הואיל דהוא מחויב להחזירה בעינה א"כ אינה שלו לגמרי אבל לאחר יאוש קנהו לגמרי אף לענין שא"ח להחזיר אלא דמיה. ודע דמש"כ דלאו בר קטלא הוא דבעי התראה. פשוט דל"ד להא דתני דבי חזקיה לקמן (עט ב) ועי' כתובות (לה) דהכא בלא התראה אמרי' דלא עביד כלל דבר שחייבין עליו מיתה דלא אתא אדעתא דנפשות:
+
+
+###### Rashash on Sanhedrin 72a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/72a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/72a:4)
+
+
+**תד"ה לא. ואתנן אסרה כו'.**מה שהגיה הגרי"פ דצ"ל אתנן הוא לל"צ כמש"כ שם בס"ד:
+
+
+
+## Daf 72b
+
+###### Rashash on Sanhedrin 72b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/72b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/72b:1)
+
+
+**גמרא כאן בבן על האב.**ועי' פירש"י ותוס'. מכאן ק"ל על הגי' בברכות (ז' ב') גבי דוד ואבשלום "אמר סתם ברא דרחים על אבא" וכ"ה גי' ע"י שם:
+
+
+###### Rashash on Sanhedrin 72b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/72b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/72b:2)
+
+
+**שם אין לי אלא במיתה האמורה כו'.**לעיל הגי' הכתובה כבסמוך:
+
+
+###### Rashash on Sanhedrin 72b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/72b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/72b:3)
+
+
+**שם מחתרתו זו היא התראתו.**עי' פירש"י. ולעד"נ טעם החילוק הוא דמחתרת היינו בבית שהבעה"ב שוכב שמה שקרוב מאד שירגיש בו וע"כ אדעתא דהכי אתי שאם יעמוד כנגדו יהרגנו אבל גגו כו' נוכל לומר שסובר שהבעה"ב לא ירגיש בו. ולכן אפי' תנא דלעיל דלא מפליג נראה דדוקא בגגו כו' שסמוכים לשכיבתו של בעה"ב אבל בשדה וכיוצא מודה ג"כ שצריך התראה. וכן מתבאר ברמב"ם סוף הל' גניבה. ומעתה מש"כ התוס' לעיל ד"ה אפי' "וי"ל דהתם בגנב מגגו כו'" ל"ד דה"ה אפי' לתנא דלא מפליג נמי מ"ל בגנב משדה וכי"ב ודלא כמהרש"א שם:
+
+
+###### Rashash on Sanhedrin 72b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/72b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/72b:4)
+
+
+**רש"י ד"ה לפקח. אם כשהוא חותר נפל עליו גל.**כצ"ל:
+
+
+
+## Daf 73a
+
+###### Rashash on Sanhedrin 73a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/73a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/73a:1)
+
+
+**בא"ד ומיהו רוצח כו'.**לשון ומיהו אינו מדוקדק דאין לך פגם גדול מזה כדלקמן בגמ' ותוס':
+
+
+###### Rashash on Sanhedrin 73a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/73a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/73a:2)
+
+
+**רש"י ד"ה יש מושיע לה. שהרי כשישיגה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 73a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/73a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/73a:3)
+
+
+**תד"ה ומה**(בסופו). דאבושתה קפיד קרא. כצ"ל בה':
+
+
+###### Rashash on Sanhedrin 73a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/73a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/73a:4)
+
+
+**תד"ה אף. וי"ל כו' דחובה להציל.**ק"ל דחובה נמי תיפוק ליה משופך דם האדם כו' דלעיל דמשמע שם דאינה אסמכתא:
+
+
+###### Rashash on Sanhedrin 73a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/73a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/73a:5)
+
+
+**תד"ה ח"כ. ומיהו קשה הא בהמה כו'.**עי' יבמות (נד ב) תד"ה בזכור:
+
+
+
+## Daf 73b
+
+###### Rashash on Sanhedrin 73b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/73b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/73b:1)
+
+
+**גמרא חד למעוטי עו"ג כו'.**ולשאר ח"כ ומיתות ב"ד לא איצטריך למעוטי דכיון דבענינא דנעהמ"א כתיב משמע דוקא דומיא דידה:
+
+
+
+## Daf 74a
+
+###### Rashash on Sanhedrin 74a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/74a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/74a:1)
+
+
+**גמרא דכתיב וכי ינצו אנשים.**המציין לדברים טעה כי הכוונה על קרא דמשפטים:
+
+
+###### Rashash on Sanhedrin 74a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/74a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/74a:2)
+
+
+**שם אינהו דאמור כר"א דתניא כו'.**מכאן סתירה מפורשת לפי' הגר"א ז"ל בס' שנ"א בפ' הרואה דכוונת הש"ס בכ"מ על סיפא דברייתא המובאה שם בגמרא (סא ב) רע"א בכל נפשך אפי' נוטל א"נ. אבל ר"א ע"כ ס"ל דבכ"נ אין הכוונה על מסירת נפש ממש דא"כ אין לך אדם שממונו יהיה חביב עליו יותר מנפשו ע"ש. והכא אמר הש"ס בהדיא דאינהו כר"א וע"כ צ"ל דיגיה כר"ע ובהגהותיו כאן לא תקן:
+
+
+###### Rashash on Sanhedrin 74a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/74a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/74a:3)
+
+
+**רש"י ד"ה מה רוצח יהרג ואל יעבור. אם אמר כו'.**כצ"ל:
+
+
+
+## Daf 74b
+
+###### Rashash on Sanhedrin 74b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/74b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/74b:1)
+
+
+**רש"י ד"ה היכי יהבינן. הלא חוק כו'.**ר"ל ועובר ישראל על לפני עור עי' נ"י:
+
+
+###### Rashash on Sanhedrin 74b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/74b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/74b:2)
+
+
+**[תד"ה והא**(בסופו). עי' מהרש"א ועמש"כ עליו במגילה (טו)] :
+
+
+
+## Daf 75a
+
+###### Rashash on Sanhedrin 75a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/75a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/75a:1)
+
+
+**רש"י ד"ה ואם איתא. מיהו אודויי כו'.**נראה דהוא מטעם דלפני עור כו':
+
+
+###### Rashash on Sanhedrin 75a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/75a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/75a:2)
+
+
+**שם גמרא לאביי איידי כו' תני נמי חמותו ואם חמותו.**כצ"ל. ואף דזה דוחק קצת לומר דתני תרתי איידי דחדא. וה"ל יותר דאתא כרי"ש. י"ל משום דלישנא דמתני' משמע טפי דתרוייהו לאיסורא:
+
+
+###### Rashash on Sanhedrin 75a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/75a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/75a:3)
+
+
+**שם ומה כאן למטה כלמעלה אף להלן למעלה כלמטה.**כן הגיה המהרש"א לקמן:
+
+
+
+## Daf 75b
+
+###### Rashash on Sanhedrin 75b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/75b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/75b:1)
+
+
+**רש"י ד"ה אתיא הנה. מה להלן שרפה כו'.**לא דקדק לפרש אחר לשון הברייתא דלהלן היינו בבת בתו. וכאן הוא בשרפה דחמותו:
+
+
+###### Rashash on Sanhedrin 75b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/75b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/75b:2)
+
+
+**רש"י ד"ה השתא אינהי ל"כ.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 75b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/75b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/75b:3)
+
+
+**רש"י ד"ה רב אשי. דלא תצטרך לאפוכה כו' אף כאן למעלה כלמטה.**ל"י מדוע לא הזכיר דגם רישא לא נצטרך לאפוכה ולמיתני מנין לעשות למעלה כלמטה:
+
+
+###### Rashash on Sanhedrin 75b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/75b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/75b:4)
+
+
+**בא"ד שהן רחוקות ואיסורן למטה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 75b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/75b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/75b:5)
+
+
+**בא"ד הא דקשיא לן לעיל השתא אינהי כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 75b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/75b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/75b:6)
+
+
+**בא"ד אף באזהרה האמורה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 75b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/75b:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/75b:7)
+
+
+**רש"י ד"ה לא אתיא.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 75b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/75b:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/75b:8)
+
+
+**תד"ה אמך. בפד"מ דרשינן משום אמו כו'.**ל"י מדוע נקטי דרשה דאליבא דר"י ולא דרשה דאליבא דחכמים שם לעונש דאמו שאינה אשת אביו:
+
+
+
+## Daf 76a
+
+###### Rashash on Sanhedrin 76a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/76a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/76a:1)
+
+
+**גמרא מהאי קושיא לא נידונה.**כצ"ל וכן לקמן:
+
+
+###### Rashash on Sanhedrin 76a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/76a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/76a:2)
+
+
+**שם אפיקתיה מדינא דב"כ ואוקימתיה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 76a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/76a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/76a:3)
+
+
+**שם אר"מ זה המשיא את בתו לזקן כדתניא כו'.**ל"י מדוע בחר יותר דרשה דר"א מדר"ע:
+
+
+###### Rashash on Sanhedrin 76a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/76a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/76a:4)
+
+
+**רש"י ד"ה ועוד מה הוא חלקת. דכלתו כאמו אוקמה באתרה כו' שאר דידה מיניה וביה.**כצ"ל וכן לקמן בא"ד:
+
+
+###### Rashash on Sanhedrin 76a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/76a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/76a:5)
+
+
+**רש"י ד"ה זה המשהא בתו בוגרת. שמתאוה להפקידה ומזנה.**כצ"ל:
+
+
+
+## Daf 76b
+
+###### Rashash on Sanhedrin 76b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/76b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/76b:1)
+
+
+**תד"ה והמלוה. ואם כו' היו מניחין אותו.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 76b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/76b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/76b:2)
+
+
+**במשנה רוצח שהכה א"ר באבן כו'.**נראה דחשיב כאן כולהו ד"מ ב"ד. אבן הוא סקילה ברזל סייף מים חנק אור שרפה. ואשמעינן דלא נהרג באותו מיתה שהרג דס"ד דנילף ק"ו מעדים זוממין עיין מכות (ב ב) בתוס':
+
+
+
+## Daf 77a
+
+###### Rashash on Sanhedrin 77a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/77a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/77a:1)
+
+
+דף עז [ע"א
+
+
+###### Rashash on Sanhedrin 77a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/77a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/77a:2)
+
+
+**גמרא א"ק מות יומת המכה רוצח הוא ברוצח הוא דמחייב מצמצם כו'.**עפירש"י וקשה דהא אפיקתיה לעיל (טו ב) למעוטי דאי אתה הורגו על רציחת שורו. וברא"ש הגי' כאן קרא דמות יומת הרוצח א"כ א"ש אבל מפירש"י משמע להדיא כגי' שלפנינו] :
+
+
+
+## Daf 77b
+
+###### Rashash on Sanhedrin 77b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/77b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/77b:1)
+
+
+**גמרא מצא איתמר.**פירש"י דחוק. ומדברי הרמב"ם בחבורו פי"ב מהל' פרה הל' ב' וג' נראה דגרס נמצה איתמר ונכון מאד כי מיצה שהוא מבנין פעל הדגוש משמעו דע"י כח המזה נתמצה אבל נמצה שהוא מנפעל יל"פ דמאליו נתמצה עי' זבחים (סד ב) מי כתיב ימצה ימצה כתיב ובפירש"י ובתוי"ט. ותמיהני על מפרשי המשנה שלא פי' כפי' הגמרא דכאן. ומדלא פריך מרישא דמתני' דשם הזה "על ב' כלים כו' ספק מחבירו מיצה עליו הזייתו פסולה". ע"כ צ"ל משום דשם א"ל דהפסול הוא מטעם דכבר נעשית מצותו כמש"כ שם בס"ד. ומאן לימא לן דלא כן הוא באמת ונ"מ דפסול אף במיצה ממש. ונתחזקה קושייתי דשם על הרע"ב ע"ש:
+
+
+###### Rashash on Sanhedrin 77b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/77b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/77b:2)
+
+
+**רש"י ד"ה ואח"כ נפלה לשוקת. דרך נקב שפופרת.**נראה כוונתו נקב שרחבו כשפופרת הנוד. ותמיהני דשיעור זה לא נאמר אלא לענין עירוב מקואות (פ"ו דמקואות מ"ז) אבל לענין קדוש כשהיא שלמה עדיפא ע"ש ספ"ד בתוי"ט:
+
+
+
+## Daf 78a
+
+###### Rashash on Sanhedrin 78a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/78a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/78a:1)
+
+
+**גמרא ואי לאו כחו הוא תיזל לתחת כו'.**נראה דכ"ז הוא תשובת ר"פ למר בר"א [וזה דלא כמשמעות דברי מהר"ם שבתוי"ט פי"ב דפרה מ"ב ע"ש] :
+
+
+###### Rashash on Sanhedrin 78a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/78a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/78a:2)
+
+
+**שם וטרפה שהרג בפני ב"ד חייב כו'.**נראה דאתא אפי' כר"ע דאמר במכות (יב) דסנהדרין שראו בא' שהרג אה"נ אין ממיתין אותו כו'. דהתם טעמא דבעינן והצילו העדה כדאיתא בר"ה ר"ד כ"ו וכיון דטרפה הוא ל"ח להצלה דידיה וכמו לקמן (פא ב) במלקיות של כריתות עסקינן דגברא בר קטלא הוא כו' ע"ש:
+
+
+###### Rashash on Sanhedrin 78a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/78a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/78a:3)
+
+
+**רש"י ד"ה כל דהוא**(בסופו). ולא שנים שהכוהו. כצ"ל:
+
+
+###### Rashash on Sanhedrin 78a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/78a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/78a:4)
+
+
+**תד"ה בגוסס. ותדע כו'.**לכאורה אינו מובן דהא כ"א למיתה עומד וחיובא דההורגו ע"כ אינו אלא מפני שקרב מיתתו ולכן על הגוסס נמי חייב משום קירוב המיתה והעושהו גוסס נמי ליחייב מה"ט וי"ל דהתדע אינו אלא לראיה דהגוסס הוא כחי ולכן אין לחייב העושהו גוסס על אותה שעה כיון דעדיין חי הוא רק אם באת לחייבו הוא לאחר שימות וכיון דמת ע"י אחר פטור:
+
+
+
+## Daf 78b
+
+###### Rashash on Sanhedrin 78b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/78b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/78b:1)
+
+
+**תד"ה לא. מתוך הסברא כו'.**ואולי י"ל דספיקו היה אם נגמור חילול חילול מע"ג לענין זה כמו דיליף ראב"ש לעיל (עד):
+
+
+###### Rashash on Sanhedrin 78b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/78b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/78b:2)
+
+
+**רש"י**(במשנה) משום דכי אתרו ביה ה"ס הוא כו'. ועי' לקמן בתד"ה א"נ דה"ס כה"ג לכ"ע לא הוה התראה אבל ל"י מה הכריחם לטע"ז הלא בפשוט י"ל מטעם דבעינן שיתכוין למה שחייבין עליו מיתה וכמו לר"ש דפטור אפילו בנתכוין לזה והרג לזה דהוי התראת ודאי וכ"מ במכות (ז ב) דעל הא דתניא שם בבלי דעת פרט למתכוין מפרש רבה למתכוין להרוג אה"ב וכו' ואם איתא דפטור דידהו מקטלא הוא מטעם התראה גרוע א"כ לוקי בלא התרו בו ואפי' נתכוין לאדם ולפמש"כ התוס' שם יש לדחות:
+
+
+
+## Daf 79b
+
+###### Rashash on Sanhedrin 79b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/79b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/79b:1)
+
+
+**גמרא אלא פשיטא שאינו מתכוין לזה אלא לזה כו'.**לכאורה דילמא יכוין למתכוין להרוג את הבהמה כו' דאין זה שוגג כדמוכח במכות שם דממעטינן ליה מגלות אבל במתכוון להרוג א"ז והרג א"ז ס"ל אי כרבי אי כרבנן בדרשה דונתת נפש תחת נפש ואולי משום דזה הוה בכלל דרך עליה דג"כ אינו גולה אבל במתכוין לזה והרג את זה אתא לאפוקי מדרשה דרבי:
+
+
+
+## Daf 80a
+
+###### Rashash on Sanhedrin 80a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/80a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/80a:1)
+
+
+**תד"ה ואחרים. מדפריך בפ' התערובות.**כצ"ל בל"ו:
+
+
+
+## Daf 80b
+
+###### Rashash on Sanhedrin 80b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/80b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/80b:1)
+
+
+**רש"י בד"ה ואם עד של"נ דינה הוכר עוברה.**משמע דאם עדיין לא הוכר בשעת גמ"ד אינו נאסר בגמ"ד ול"י מנ"ל הא דאדרבה בלא הוכר מסתבר טפי לומר דירך אמו הוא מבהוכר (ועי' בקדושין ס"ב ב) ונ"ל דט"ס הוא וצ"ל עיברה כלשון הגמרא שלפנינו:
+
+
+###### Rashash on Sanhedrin 80b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/80b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/80b:2)
+
+
+**תד"ה עובר. דרבא דאמר ולד הנוגחת אסור כו' משום דעובר ירך אמו הוא וכדמוכח בתמורה דף ז.**נראה דמצוין בטעות וצ"ל דף ל ב ע"ש ובב"ק (מז) בד"ה מ"ט גופה שכ' דמהא דתמורה אין להוכיח כו' הוא כפי שיטת ר"ת שהביאו לקמן:
+
+
+###### Rashash on Sanhedrin 80b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/80b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/80b:3)
+
+
+**בא"ד דרבא גופיה כו' השוחט אה"ט ומצא בה בן ט' חי מותר וכו'.**מזה ק"ל על מש"כ הש"ך ביו"ד סי' נ"ז ס"ק מ"ה בשם מהרש"ל דטרפה מתעברת רק שלא תבא לידי לידה אלא תמות בו א"כ י"ל דרבא מיירי בנטרפה ולבסוף עיברה:
+
+
+###### Rashash on Sanhedrin 80b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/80b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/80b:4)
+
+
+**בא"ד ור"ת כו' והא דא"ר כו' וה"ט כיון כו' הוי כאילו נגמר דין שניהם להריגה כו'.**טעם זה עולה יפה להא דאמרינן הכא ואם עד של"נ דינה עיברה ומשנ"ד ילדה אסור אבל להא דא"ר ולד הנוגחת כו' מסתבר יותר טעם שכ' התוס' בב"ק שם ע"ש:
+
+
+###### Rashash on Sanhedrin 80b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/80b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/80b:5)
+
+
+**בא"ד ומיהו ההיא דפ' הפרה קשה כו'. אטו כו'.**עמש"כ בב"ק שם בישוב קושיא זו בס"ד:
+
+
+
+## Daf 81a
+
+###### Rashash on Sanhedrin 81a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/81a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/81a:1)
+
+
+**גמרא אבוה דר"י בר חמא.**עי' הגהת הגרי"פ. ועמש"כ עליו ביומא (ו ב) מרש"י דחולין (לח) ד"ה אבוה דרב אבוברם:
+
+
+###### Rashash on Sanhedrin 81a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/81a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/81a:2)
+
+
+**שם שופך דם זה בן סורר ומורה.**עפירש"י ולע"ד נל"פ דשופך דמו של עצמו על חנם כדלעיל (ר"ד עב) וע"ד שדרשו לעיל (סג) עליו ל"ת על הדם:
+
+
+###### Rashash on Sanhedrin 81a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/81a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/81a:3)
+
+
+**שם כשהיה ר"ג מגיע למקרא הזה כו' מאן דעביד לכולהו כו'.**אולי יכוון לפסוק י"ט שם את כל חקותי שמר כו' חיה יחיה:
+
+
+###### Rashash on Sanhedrin 81a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/81a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/81a:4)
+
+
+**תד"ה נידון בזיקה. אי אית ליה אחין.**זהו כמש"כ התוי"ט בפ"ג דכריתות מ"ה בשם הרמב"ם "שכל אלו שתאסר הערוה כו' צריך כו'" מצוין בעולם. ועמש"כ במהדורות לס' נת"ע בדף קיד אבל ק"ל דהא כ' התוס' ביבמות (לב ב) סד"ה איסור דבמוסיף א"צ להיות שם אחד והביאו ראיה מכריתות וכ"כ התוי"ט שם בשם הרמב"ם וא"כ אפילו ל"ל אחים נמי מיגו דאיתוסף עליה איסור אשת איש לכ"ע איתוסף נמי לגבי דידיה משום אשת אב. ועוד ק"ל דהנו"ב במ"ת חאו"ח סי' קיז הביא בשם תוס' חולין (קג) סד"ה דאיסור חלב. דהיכא דבאו ב' איסורים כאחד ע"ד שכבר נאסר ואחד מצי חייל גריר נמי השני עמו לחול אע"פ שהשני לבדו לא היה חייל א"כ ה"נ באו כאחד ב' איסורים אשת איש ואשת אב נאמר מיגו דחל איסור אשת איש משום מוסיף חייל נמי ע"י גרירה איסור אשת אב אולם ע"ש בתוס' גופיה ותראה דלאו כ"ע ס"ל סברא זו ובכריתות (יד ב) נמי אמרינן דאיכא ברא לסבא וע"ש בתוי"ט ומש"כ בשם הרמב"ם: ודע דבפרה"מ להרמב"ם מוכח שהיה הגי' לפניו כאן חמותו ונעשית אשת אב נידון בחמותו ע"ש. ונ"ל דלגי' זו ר"י ס"ל כר"ש דשרפה חמורה והתו"ח הניח דבריו בצ"ע:
+
+
+###### Rashash on Sanhedrin 81a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/81a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/81a:5)
+
+
+**תד"ה לידון. ורבא מהדר ליה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 81a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/81a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/81a:6)
+
+
+**תד"ה אפי'. וקצת תימה אמאי אין מתרין בו כו'.**כצ"ל:
+
+
+
+## Daf 81b
+
+###### Rashash on Sanhedrin 81b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/81b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/81b:1)
+
+
+**גמרא ומאי כיפה אר"י מלא קומתו.**פירש"י גובה ומהרמב"ם בפי' ובחבורו נראה שגם משכה באורך וברוחב אינה אלא כדי עוביו ונ"ל ראיה לפי' ז"ל מערכין (יט) קומתי עלי נותן שרביט שאינו נכפף כו' ע"ש אלמא דקומתו כוללת גם עוביו ומה שאמר שם מלא קומתי עלי נותן שרביט הנכפף התם משום לישנא יתירא דמלא אבל הכא דקאי על המקו' שמכילו שייך לישנא דמלא ובב"ב (עה ב) דאמר שמואל בספינה עד שימשוך את כולה רצה לאוקמי' כר"א דאמר בבהמה עד שתהלך מלא קומתה א"כ ע"כ במלא קומתה נכלל גם משך ארכה וע"ש בתד"ה אע"ג וכן נ"ל דמה שאר"י לעיל (ע"א) אם לא היתה אמו שוה כו' ובקומה וכן הא דר"פ שני שעירי שיהיו שוין בקומה כוללת ג"כ העובי דמנ"ל לומר דדוקא על שיווי קומתם קפיד קרא ולא על שיווי עובים:
+
+
+###### Rashash on Sanhedrin 81b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/81b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/81b:2)
+
+
+**שם ואר"ל מ"ד כי גם כו'.**עפירש"י ול"נ דגם הדרשות דומות כי רעה דתמותת פירשה ג"כ רשעה קטנה וקלה שאיננה כדאי למות ע"י:
+
+
+###### Rashash on Sanhedrin 81b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/81b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/81b:3)
+
+
+**רש"י ד"ה עבירות מחזיקות. בחזקת רשע ובהתראה כו'.**כצ"ל ומלת הוא למחוק:
+
+
+
+## Daf 82a
+
+###### Rashash on Sanhedrin 82a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/82a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/82a:1)
+
+
+**גמרא וכה"א לא יהיה קדש.**הגרי"פ הגיה ל"ת קדשה וכן העתיק רש"י בשבת (נה ב):
+
+
+###### Rashash on Sanhedrin 82a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/82a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/82a:2)
+
+
+**רש"י ד"ה זקינו דר"פ. הוא ר"ח בר"א והכי אמרינן בחלק.**לפנינו לא נמצא שם ואולי אין כוונתו רק דהאי עובדא הובא גם שם. ומשום קצת שנוים דנמצאו ביניהם ציין לשם:
+
+
+
+## Daf 82b
+
+###### Rashash on Sanhedrin 82b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/82b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/82b:1)
+
+
+**גמרא והא המקלל את הקוסם.**לעיל הגי' בקוסם:
+
+
+###### Rashash on Sanhedrin 82b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/82b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/82b:2)
+
+
+**רש"י ד"ה אבי אמו. ואמרו בסוטה פוטיאל זה יוסף כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 82b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/82b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/82b:3)
+
+
+**רש"י ד"ה הסליא. ולדקדק אחר עונם כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 82b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/82b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/82b:4)
+
+
+**תד"ה המולח. כדתניא הניף והגיש כו'.**כצ"ל וע' סוטה רפ"ג ובהגהת הגרי"פ שם:
+
+
+
+## Daf 83a
+
+###### Rashash on Sanhedrin 83a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/83a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/83a:1)
+
+
+**גמרא והתניא אזהרה ליוצק כו' וקרא אסמכתא בעלמא.**וקרא אתא לטבו"י כדלקמן:
+
+
+###### Rashash on Sanhedrin 83a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/83a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/83a:2)
+
+
+**שם ולא יחללו את קבנ"י את אשר ירימו כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 83a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/83a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/83a:3)
+
+
+**שם דאמר שמואל אר"א מנין כו' תרומה טמאה כו'.**בחולין הגי' משום ר"א וע"ש ברש"י ד"ה הא דרבי':
+
+
+###### Rashash on Sanhedrin 83a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/83a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/83a:4)
+
+
+**רש"י ד"ה ולא משום טומאה**(בסופו). מאי דמחייב אזרות כו'. כצ"ל:
+
+
+###### Rashash on Sanhedrin 83a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/83a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/83a:5)
+
+
+**רש"י ד"ה אבל ערל. כולהו קים לן בהו כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 83a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/83a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/83a:6)
+
+
+**רש"י ד"ה טהורה אין. וקאי אדשמואל כו'.**הן גם בהבריי' איתא טהורה ויל"פ דקאי גם עלה:
+
+
+
+## Daf 83b
+
+###### Rashash on Sanhedrin 83b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/83b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/83b:1)
+
+
+**רש"י ד"ה לימא מר. דכתיב בתר ומתו בו כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 83b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/83b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/83b:2)
+
+
+**תד"ה פרט. כיון שנגע בו טמאהו.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 83b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/83b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/83b:3)
+
+
+**תד"ה וטבול יום. ואף על גב דבפרק הערל דרשינן טהרה לטבו"י כו'.**כצ"ל בל"ו עי' ביבמות שם ובתד"ה מכלל:
+
+
+###### Rashash on Sanhedrin 83b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/83b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/83b:4)
+
+
+**בא"ד מיהו קשה דאיכא קרא אחרינא בקדשים ל"י כו'.**כצ"ל בל"ו:
+
+
+
+## Daf 84a
+
+###### Rashash on Sanhedrin 84a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/84a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/84a:1)
+
+
+**גמרא ורי"ש סבר דנין הדיוט מהדיוט כו' ור"ע כיון שהדיח כו'.**תימה דהא מצינו טובא לישנא דיומת גם בהדיוט כל העושה בו מלאכה יומת. בנקבו שם יומת ומכה אדם יומת. ונ"ל דפי' הדיוט דהכא היינו שעושה דבר שהוא הדיוט אליו כמו זר ששמש דהוא הדיוט לו שנתנו לגדולים ממנו דהיינו לכהנים. וכן נביא שהדיח אר"ע כיון כו' אין לך הדיוט גדול מזה דודאי הוא הדיוט לנבואה שאינו ראוי לה ועושה א"ע נביא לדבר בשם ה'. ודע שאנכי מסתפק לר"ע בזר שקרב לעבודת לוים או אפי' משורר ששיער לאביי בערכין (יא ב) דכתיב בהו ג"כ והזר הקרב יומת ע"ש אם הם בסקילה או בחנק. ולכאורה אם לא היה מיתתן רק ביד"ש ה"ל ללמוד מהן גם זר בעבודת כהן:
+
+
+###### Rashash on Sanhedrin 84a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/84a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/84a:2)
+
+
+**רש"י ד"ה א"ק בו**(בסופו). שהן פסול טומאה כמותה. כצ"ל:
+
+
+
+## Daf 84b
+
+###### Rashash on Sanhedrin 84b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/84b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/84b:1)
+
+
+**רש"י ד"ה אפי' נפלים. אטום או שיש לו כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 84b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/84b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/84b:2)
+
+
+**רש"י ד"ה לכדתנא דב"ח. בב"ק כו'.**וכן הובא לעיל (עט ב):
+
+
+###### Rashash on Sanhedrin 84b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/84b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/84b:3)
+
+
+**תד"ה ה"א. תימה א"כ כו'.**ולי תימה על התימה דהא בעובר פטור ממיתה אפי' ק"ל בגוויה שכלו לו חדשיו כדמוכח ספ"ז דאהלות ועי' בנדה (מד) תד"ה איהו:
+
+
+
+## Daf 85a
+
+###### Rashash on Sanhedrin 85a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/85a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/85a:1)
+
+
+**רש"י ד"ה מצוה שלא להכותו. דכתיב לא יוסיף כו'.**כצ"ל:
+
+
+
+## Daf 85b
+
+###### Rashash on Sanhedrin 85b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/85b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/85b:1)
+
+
+**גמרא ות"ל דליכא עימור כלל כו' דאוקמא באפי זיקא כו'.**ק"ל דבאשה מ"ל עימור ממש וכדא"ר לעיל היא וולדה נגחו. ואולי י"ל כיון דהעימור משמע דבעינן שיהא בו שיווי קצת אפילו לת"ק. ועימור דעובר אין בו שיווי כלל דגם בלעדו היתה האשה עושה מה שעשתה ואולי עוד ביותר:
+
+
+###### Rashash on Sanhedrin 85b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/85b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/85b:2)
+
+
+**רש"י ד"ה הגנב. מ"מ וההוא כו' למעוטי גונב עבד.**צ"ע דהא לקמן בשמעתין ממעטינן ליה לר"י מן מאחיו ולרבנן מן בני ישראל:
+
+
+###### Rashash on Sanhedrin 85b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/85b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/85b:3)
+
+
+**רש"י ד"ה ועדיין ברשות הנגנב כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 85b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/85b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/85b:4)
+
+
+**רש"י ד"ה פטור. שהרי לא גנבו.**צ"ע דבמשנה פי' דמימעיט מן ונמצא בידו ועי' בתוס':
+
+
+
+## Daf 86a
+
+###### Rashash on Sanhedrin 86a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/86a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/86a:1)
+
+
+**רש"י ד"ה של בית פלוני. לא רצה כו' שחשובים היו כו'.**הן בסוף עדיות איתא ועוד אחרת היתה שם כו' ופי' הרע"ב ולא הזכיר שם כו' ללמדך כו' שלא לספר בגנות חברו כו' והוא מפי' הרמב"ם:
+
+
+###### Rashash on Sanhedrin 86a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/86a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/86a:2)
+
+
+**רש"י ד"ה וכי ינצו אנשים יחדו איש וגו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 86a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/86a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/86a:3)
+
+
+**רש"י ד"ה מבני. מ"ם יתירא כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 86a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/86a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/86a:4)
+
+
+**רש"י ד"ה בעדים האחרונים. מתרין בו או"א בפני הדיינין.**ע"ש בגמ' וצע"ק:
+
+
+###### Rashash on Sanhedrin 86a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/86a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/86a:5)
+
+
+**תד"ה דבר. ובפ' יש בכור חמש ולא חצי חמש.**כצ"ל:
+
+
+
+## Daf 86b
+
+###### Rashash on Sanhedrin 86b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/86b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/86b:1)
+
+
+**רש"י ד"ה ושנים אומרים בפנינו אכל. לחזקיה דס"ל כר"ע אין נהרגין ולריו"ח דאמר כרבנן נהרגין.**כ"נ דצ"ל ועי' מהרש"א:
+
+
+###### Rashash on Sanhedrin 86b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/86b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/86b:2)
+
+
+**במשנה נמצא חומרו קולו.**עי' פירש"י. ולכאורה הנל"פ דחומרו ר"ל חומר העבירה דעדיין לא הגיע להוראה והעיז נגד הסנה"ג גורם לו להקל שאינו נהרג וכמו שפירש הרע"ב והוא מהרמב"ם. אולם לשון כזה יש בפ"ד דחלה מ"ה ושם אינו מתפרש רק ע"ד פירש"י דהכא. אך מצינו רבות שהלשון שוה והפירוש משתנה. [ובפרה פ"ד מ"ד איתא ג"כ כלשון זה ושם יש לכוין ב' הפירושים] :
+
+
+
+## Daf 87a
+
+###### Rashash on Sanhedrin 87a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/87a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/87a:1)
+
+
+**גמרא דבר זו הלכה.**נראה דדריש דבר לשון דבור והיינו הל"מ שלא ניתנה בכתב אלא בדבור:
+
+
+###### Rashash on Sanhedrin 87a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/87a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/87a:2)
+
+
+**שם בשעריך זו לקט שו"פ.**נראה דעוקרין לקרא מפשטיה לגמרי ולכן נוהג דין ז"מ אף בח"ל עי' בגמרא ספ"ק דמכות:
+
+
+###### Rashash on Sanhedrin 87a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/87a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/87a:3)
+
+
+**שם וקמת מב"ד.**עי' פירש"י. ואולי יליף זה מן ויקם מתוך העדה עי' לעיל (פב סע"א
+
+
+###### Rashash on Sanhedrin 87a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/87a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/87a:4)
+
+
+**שם דכתיב לכן כו' לא יאמר כו'.**עי' הגהת הגרי"פ אכן בירמיה (יו יד) כתיב ולא יאמר כו' אך בשינוי לשון קצת מהאמור כאן. ועי' בספ"ק דברכות דהביאו ג"כ קרא דולא יאמרו המאוחר והרי"ף בע"י שם הרגיש בזה:
+
+
+###### Rashash on Sanhedrin 87a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/87a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/87a:5)
+
+
+**רש"י ד"ה כדתנן הם העידו. אי בפלוגתא כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 87a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/87a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/87a:6)
+
+
+**רש"י ד"ה שמעברין**(בסופו). יעברוה. כצ"ל:
+
+
+###### Rashash on Sanhedrin 87a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/87a:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/87a:7)
+
+
+**רש"י ד"ה הלכתא אחד עשר. ואם ראתה ג"י כו' ולטבילת מים חיים.**עי' שבת (סה ב) בפירושו שדחה זה מתוספתא חומר בזב מבזבה כו' וזבה אינה טעונה מים חיים. ונראה להגיה כאן ולספירת ז' נקיים:
+
+
+
+## Daf 87b
+
+###### Rashash on Sanhedrin 87b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/87b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/87b:1)
+
+
+**רש"י ד"ה ונתת נפש תחת נפש. ואי תפסו כו' ממונו דהורג וקידשו בו אה"א כו'.**כצ"ל ושבינתיים נראה מיותר:
+
+
+
+## Daf 88a
+
+###### Rashash on Sanhedrin 88a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/88a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/88a:1)
+
+
+**גמרא עריפת עגלה בפלוגתא דר"א ור"ע כו'.**כאן שלא הזכיר גם ראב"י י"ל משום דדי בפלוגתת ב' ראשונים. אבל בסמוך גבי טהרת מצורע דדלג את ר"א הקודם ונקט את ר"ש המאוחר צריך טעם:
+
+
+###### Rashash on Sanhedrin 88a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/88a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/88a:2)
+
+
+**רש"י ד"ה י' כהנים.**ט"ס וצ"ל בני אדם:
+
+
+###### Rashash on Sanhedrin 88a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/88a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/88a:3)
+
+
+**רש"י ד"ה ממקום שנעשה חלל. לתת אותך על צוארי חללי רשעים.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 88a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/88a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/88a:4)
+
+
+**רש"י ד"ה שלש אינן לקט. שאין דרך להפקירן.**טעמו לא מחוור דהפקירא דמלכא היא. וע"ש במפרשים טעם בשם הירושלמי מקרא:
+
+
+###### Rashash on Sanhedrin 88a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/88a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/88a:5)
+
+
+**תד"ה מרחו. וא"ת תרומה נמי לתני כו'.**עי' מה שציינתי ע"ד בב"ק בס"ד:
+
+
+###### Rashash on Sanhedrin 88a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/88a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/88a:6)
+
+
+**תד"ה קינויו. היינו דוקא קודם שנמחקה כו'.**הן בסוטה מסקינן דאף לאחר סתירה אינו יכול למחול. ולשון רש"י כאן מזוקק:
+
+
+
+## Daf 88b
+
+###### Rashash on Sanhedrin 88b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/88b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/88b:1)
+
+
+**גמרא זקן ממרא שרצו בית דינו למחול כו'.**בסוטה הגי' בית דין והוא יותר נכון דקאי על ב"ד שבלשכת הגזית:
+
+
+###### Rashash on Sanhedrin 88b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/88b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/88b:2)
+
+
+**תד"ה אי. ומיהו תימה כו' שאגד ג' מינין בפ"ע כו'.**מדברי מהרש"ל נראה דאישתמיטתיה במחכ"ת דאתרוג אינו עמהן באגודה (סוכה לד ב):
+
+
+###### Rashash on Sanhedrin 88b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/88b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/88b:3)
+
+
+**בא"ד אבל תפילין אם הניחן כו' והניח גבייהו כו' ה"ז מוסיף גורע.**והא דלא מ"ל בציצית כה"ג שקשר אח"כ עליהן חוט חמישי. עי' תוס' ר"פ התכלת שהקשו כה"ג דלוקי בהטיל למוטלת ובתירוצם יתיישב גם זאת:
+
+
+
+## Daf 89a
+
+###### Rashash on Sanhedrin 89a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89a:1)
+
+
+**גמרא א"ה תפילין נמי כו'.**הסוגיא הזאת תובן ע"פ המבואר במנחות (לד ב) דהד' בתים צריכין להיות מעור אחד דוקא ועי' בשו"ע א"ח סי' לב סעיף לח ומכאן יהיה ראיה דלא מהני תפירה:
+
+
+###### Rashash on Sanhedrin 89a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89a:2)
+
+
+**במשנה אלא מעלין אותו לב"ד הגדול שבירושלים כו'.**משמע דבעינן שב"ד הגדול יהיה שם ג"כ דוקא ואם כבר גלו ליבנה יחזרו לירושלים ברגל. וקושיית התוס' דא"כ מ"ל לריב"ז דהוה בסנהדרין לא תקשה די"ל דאין חוזרין אלא לחניות דהא לא קאמר רק שבירושלים ודו"ק היטב בתוס'. רק דל"י מנ"ל הא דבעת מיתתו בעינן שיהא ב"ד הגדול בירושלים:
+
+
+###### Rashash on Sanhedrin 89a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89a:3)
+
+
+**שם איש פלוני נתחייב מיתה בב"ד.**נראה דשמוש הב' מן בב"ד הוא לסבה הגורמת כמו איש בחטאו יומתו. ור"ל על שהמרה דבריהם:
+
+
+###### Rashash on Sanhedrin 89a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89a:4)
+
+
+שם **בגמ' ד' צריכין הכרזה כו'.**ומשמע דאפי' ר"ע דמצריך רגל דוקא אינו אלא בזקן ממרא אבל באינך מודה דסגי בכתיבה בכה"מ וכ"כ הכ"מ בפי"ח מהל' עדות הל"ז ובספ"ג מהל' ממרים. ובעי טעמא דהרי בכולהו כתיב ישמעו ויראו. ונ"ל משום דבז"מ כתיב וכל העם ולא ישראל כדכתיב במסית ובסו"מ וברש"י במשנה ט"ס וכל ישראל וצ"ל וכל העם. וכן נפל ט"ס זה ברמב"ם (ספ"ג מהל' ממרים) ועם היינו המוניים והמה אינם מתפעלים בשמיעה כי אם בראיה חושיית:
+
+
+###### Rashash on Sanhedrin 89a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89a:5)
+
+
+**שם בעדים כתיב והנשארים דלא כ"ע חזו.**לכאורה תמוה דהא לבן סו"מ טפי ל"ח כ"ע דהרי כ"י אינן אלא ג"ח. וכן ז"מ אינו אלא במופלא שבב"ד. אבל בא ואחוך. דבע"ג ובמסית כתיב ולא יוסיפו לעשות כדבר הרע הזה דמשמע הדבר הזה ממש כמו כדבר הזה דשמואל (א ט כא) ודעזרא (י ה) והכ' הוא שקראו הרד"ק כ' ההתאמתות. משא"כ בבסו"מ לא כתיב אלא סתמא ישמעו ויראו ויכוין דכאשר ישמעו דעל דבר קל כזה שאכל תרטימר כו' נסקל ייראו לנפשם ולא יזידון לעבור על אחת מדתי התורה. וכן בז"מ לא כתיב אלא ישמעו ויראו ולא יזידון עוד. הכוונה דכאשר ישמעו דמופלא שבב"ד נסקל על שהמרה נגד הסנה"ג ייראו עוד להזהר בכל אשר יצא מפיהם ולא יסורו ממנו:
+
+
+###### Rashash on Sanhedrin 89a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89a:6)
+
+
+**רש"י ד"ה ובעדים זוממין. שיש כו' ומועלי בשבועות.**כ"נ דצ"ל עי' לעיל (כז):
+
+
+###### Rashash on Sanhedrin 89a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89a:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89a:7)
+
+
+**במשנה אפילו כוון את ההלכה לטמא אה"ט כו'.**קשה דבדבר הלכה אפי' ניבא בשם ה' הוא בחנק שהוא נביא שקר דלא בשמים היא וכמש"כ הרמב"ם בפ"ט מהל' יסה"ת הד"א או שאמר בדין מד"ת שה' צוה לו שהדין כך הוא ה"ז נביא השקר ויחנק כו' ע"ש. ולולי דברי הרמב"ם הייתי אומר כיון דל"א אלא בפרט א' מן המצוה אינו בכלל נביא השקר דדבר כתיב דמשמע דבר שלם כדפטרינן לקמן בגמרא בעוקר קצת דשאר מצות. ונלע"ד דזה תלי בפלוגתת אם משגיחין בב"ק עי' תוס' יבמות (יד) ד"ה ר"י היא:
+
+
+###### Rashash on Sanhedrin 89a:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89a:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89a:8)
+
+
+**שם גמרא וקרי ביה אשר לא ישמע אל דברי.**נראה דר"ל כמו שלא נכתב אחריו אשר דבר והיינו הנביא עצמו אשר דבר פי ה' אליו ממש. אך ק"ל דכובש נבואתו ת"ל דעבר על ד"ע שהרי נצטוה שילך וינבא וכמו יונה שא"ל ה' קום לך אל נינוה גו' והגמ' לקמן לא לקחה ממנו דמיון רק לכובש נבואתו. וזה ודאי דעובר עד"ע הוא אפי' באינו עושה מעשה דומיא דאחר כגון חבריה דמיכה. ודוחק לומר דא"ח בעובר עד"ע רק אם גלה נבואתו כמו עדו הנביא לקמן:
+
+
+###### Rashash on Sanhedrin 89a:9
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89a:9](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89a:9)
+
+
+**רש"י ד"ה ואין שני נביאים. דכתיב כו'.**לשון המקרא אינו כן:
+
+
+
+## Daf 89b
+
+###### Rashash on Sanhedrin 89b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89b:1)
+
+
+**גמרא א"ל מאן דאכיל כו' לקי.**כה"ג במכות (כ ב) והדמיון אינו מובן. ועי' בערוך ערך תמר ופי' מגומגם. ואולי יל"פ שהיה איש בבית ר"ח שהיה דרכו לאכול תמרי בארבלא. וכששמע מאי דתנא קמיה דר"ח א"ל לקי בתמיה מאן מתרי ביה. וכן שם במכות אמר ליה מני כו':
+
+
+###### Rashash on Sanhedrin 89b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89b:2)
+
+
+**שם עמוד לי במלחמה זו של"י הראשונות אין בהם ממש.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 89b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89b:3)
+
+
+**רש"י ד"ה עדו הנביא. שנתנבא על המזבח בב"א.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 89b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89b:4)
+
+
+**רש"י ד"ה תמרי בארבילא. בכברה.**כ"מ בבבא מציעא (כו ב):
+
+
+###### Rashash on Sanhedrin 89b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/89b:5)
+
+
+**תד"ה אליהו. דכתיב באליהו ובדברך כו'.**כצ"ל בב' וכן לקמן:
+
+
+
+## Daf 90a
+
+###### Rashash on Sanhedrin 90a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/90a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/90a:1)
+
+
+**רש"י ד"ה מחלוקת. דכתיב ובא האות כו' נלכה וגו' ונעבדם.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 90a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/90a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/90a:2)
+
+
+**רש"י ד"ה בה ל"ת. אלמא שאר מצות כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 90a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/90a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/90a:3)
+
+
+**רש"י ד"ה ובין בשאר מצות. למ"ל לרה"מ אונתצתם.**הס"ד ואח"כ מתחיל דבור דרחמנא כו':
+
+
+###### Rashash on Sanhedrin 90a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/90a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/90a:4)
+
+
+רש"י ד"ה מר כדא"ל. בחנק. הס"ד ומה"ד **וה"ה לרבנן**:
+
+
+###### Rashash on Sanhedrin 90a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/90a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/90a:5)
+
+
+**רש"י ד"ה לאחיו. היכא דבעדותו מחייבין איש כו'.**התוי"ט דקדק מדבריו דדוקא היכא דמחייבין גם את הבועל ע"ש. ול"נ מדבריו לעיל בסמוך ד"ה ובועלה דס"ל דאף דאינן מחייבין אותו מ"מ נידונין בחנק. ודקדוקו מכאן אין הכרח כ"כ:
+
+
+###### Rashash on Sanhedrin 90a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/90a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/90a:6)
+
+
+**התוי"ט**כ' שמדברי הרמב"ם בהקדמתו לפיה"מ שהעתיקו בריש מכות מוכח דפרק הנחנקין הוא האחרון. וכוונתו למש"כ שם ואמרו שבשביל שאמר ואלו הן הנחנקין כו'. ואינה ראיה דהא כ' שם ג"כ הדביק אליו ואלו הן הלוקין אף שהוא פרק האחרון. ואגב אומר דמש"כ שם דאין רשות לב"א לענות ולהלקות (וכן העתיקו התוי"ט שם) ט"ס הוא וצ"ל לענוש ולהלקות:
+
+
+###### Rashash on Sanhedrin 90a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/90a:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/90a:7)
+
+
+**במשנה שנאמר ועמך כו' יירשו ארץ.**בתוי"ט בשם הרמב"ם בחבורו ארץ זו משל כו'. הוא ז"ל כ"כ לשיטתו שם בפ"ח (ע"ש בכ"מ) שעוה"ב הוא עולם הנשמות. אבל לפי' הרע"ב שהוא אחר התחיה יהיה ארץ כמשמעו:
+
+
+###### Rashash on Sanhedrin 90a:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/90a:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/90a:8)
+
+
+**רש"י [ד"ה כל ישראל] . מעיקרא איירי בד"מ ומפרש ואזיל בהו כו'.**כצ"ל:
+
+
+
+## Daf 90b
+
+###### Rashash on Sanhedrin 90b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/90b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/90b:1)
+
+
+**גמרא ונתתם ממנו את תרומת ה' כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 90b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/90b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/90b:2)
+
+
+**שם צד"ק כו' סימן.**עי' הגהתו וביאורו בח"א:
+
+
+###### Rashash on Sanhedrin 90b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/90b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/90b:3)
+
+
+**רש"י ד"ה מה ארי. אין אנו יודעים כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 90b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/90b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/90b:4)
+
+
+**בא"ד אלא לטרוף ולמלא חורו כו'.**כ"ה הנ"י וישרה היא עיין ב"ק (טז ב):
+
+
+
+## Daf 91a
+
+###### Rashash on Sanhedrin 91a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/91a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/91a:1)
+
+
+**גמרא ת"ר בכ"ד בניסן איתנטילו כו'.**במג"ת פ"ג איתא זה המעשה בכ"ה בסיון וע"ש בת"ח:
+
+
+###### Rashash on Sanhedrin 91a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/91a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/91a:2)
+
+
+**שם א"ל אנטונינוס כו' לפטור עצמן מה"ד.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 91a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/91a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/91a:3)
+
+
+**רש"י ד"ה א"כ לגבולותיה. דלהך ארעא כו'.**כצ"ל:
+
+
+
+## Daf 91b
+
+###### Rashash on Sanhedrin 91b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/91b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/91b:1)
+
+
+**גמרא אר"י א"ר כל המונע הלכה כו'.**סמך מאמר זה לכאן מפני סיום מאמר ר"ש כל המלמד תורה בעה"ז כו' דלקמן הדומה למאמר ריב"ל הקודם כה"א שירה בעה"ז כו' והפסיק ביניהם במאמר רחב"א אריו"ח מפני שלמודו בתה"מ דומה ללימוד דריב"ל:
+
+
+###### Rashash on Sanhedrin 91b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/91b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/91b:2)
+
+
+**שם אפי' עוברין שבמעי אמן כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 91b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/91b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/91b:3)
+
+
+**רש"י ד"ה מה מחץ. דאין רפואה כו'.**כצ"ל:
+
+
+
+## Daf 92a
+
+###### Rashash on Sanhedrin 92a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/92a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/92a:1)
+
+
+**גמרא כל המשייר כו' כאילו עובד ע"ג שנאמר כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 92a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/92a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/92a:2)
+
+
+**רש"י ד"ה ואתה לך. לקץ הימין.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 92a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/92a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/92a:3)
+
+
+**רש"י ד"ה שעתיד הקב"ה כו'.**עי' רי"ף בע"י:
+
+
+
+## Daf 92b
+
+###### Rashash on Sanhedrin 92b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/92b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/92b:1)
+
+
+**גמרא בקש לגנות כל שירות כו'.**עי' פירש"י ולעד"נ דח"ו לדמות שיריו לשל דוד שאמר ברוה"ק ומכילות כוונות רבות קדושות לבד פשוטיהן. אלא דדייק לומר שבקש לגנות כו' ור"ל בפני המון אשר אינם מבינים זולת הפשטיות לומר גם אנכי אוכל עשות כמוהו וע"ד הכתוב כדוד חשבו להם כלי שיר (עמוס ו׳:ה׳):
+
+
+###### Rashash on Sanhedrin 92b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/92b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/92b:2)
+
+
+**רש"י ד"ה וטעו. נמצאת אומר משדבר עמו בה"ב עד כו' היה ד' מאות ושלשים ואותן כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 92b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/92b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/92b:3)
+
+
+**רש"י ד"ה חבריהם. שהיה חבר של חמ"ו כו'.**כצ"ל:
+
+
+
+## Daf 93a
+
+###### Rashash on Sanhedrin 93a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/93a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/93a:1)
+
+
+**גמרא אר"פ ש"מ סוסיא חיורא כו'.**עי' פירש"י. ובפשוטו משמע דאדסליק מיניה קאי מדנעשו לבנים שהוא סימן להנחת רוגז:
+
+
+###### Rashash on Sanhedrin 93a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/93a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/93a:2)
+
+
+**שם זוטרי אייתי בלא דעתייהו.**עי' פירש"י. ובפשוטו נל"פ דכיון דזוטרי הוו היה יכול להסתירם שלא יראום:
+
+
+###### Rashash on Sanhedrin 93a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/93a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/93a:3)
+
+
+**שם הנבאים לכם בשמי שקר.**כצ"ל:
+
+
+
+## Daf 93b
+
+###### Rashash on Sanhedrin 93b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/93b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/93b:1)
+
+
+**גמרא יודע נגן שיודע לשאול.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 93b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/93b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/93b:2)
+
+
+**שם ובדוד כתיב ובכל אשר יפנה יצליח.**עי' בגליון ועמש"כ בס"ד במ"ר נשא פ"ו אות ח' במ"ק בההערה:
+
+
+###### Rashash on Sanhedrin 93b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/93b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/93b:3)
+
+
+**שם ורשבנ"א דניאל מבני"ה דניאל כו'.**לכאורה דניאל הב' מיותר וכן ליתיה בע"י. וי"ל הגי' דכלפי שאר"א כולן מבי"ה. אמר איהו דניאל ר"ל הוא לבד. ואח"כ מפרש הקרא מבני"ה דניאל. חמ"ו משאר שבטים:
+
+
+###### Rashash on Sanhedrin 93b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/93b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/93b:4)
+
+
+**שם והפחות הראשונים כו' בלחם ויין אחד כו'.**במקרא כתיב אחר ברי"ש וע"ש בפירש"י:
+
+
+###### Rashash on Sanhedrin 93b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/93b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/93b:5)
+
+
+**שם ומאי ניהו אנשים.**במגילה הגי' ומאן וכן בע"י כאן מאן נינהו:
+
+
+###### Rashash on Sanhedrin 93b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/93b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/93b:6)
+
+
+**רש"י ד"ה אביר הרועים. היינו דואג כו' דקרי ליה אביר הרועים.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 93b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/93b:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/93b:7)
+
+
+**רש"י ד"ה מבניך אשר יצאו ממך.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 93b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/93b:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/93b:8)
+
+
+**רש"י ד"ה רח"א. להכי קרי להו סריסים כו'.**כצ"ל:
+
+
+
+## Daf 94a
+
+###### Rashash on Sanhedrin 94a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94a:1)
+
+
+**גמרא והאיכא חזקיה שחזקו יה כו'.**ק"ל דהא כולהו שמותיו ג"כ אינם אלא תוארים ע"ש מאורעותיו. וכמו כן קשה גבי סנחריב דהלא רבא ויקירא ודאי שמות תוארים הם:
+
+
+###### Rashash on Sanhedrin 94a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94a:2)
+
+
+**שם תגלת פלאסר.**מלכים (ב טו כט). תגלת פלנאסר. (כצ"ל ת' פלמנאסר) ד"ה ב' (כח כ). שלמנאסר. מלכים ב' (יז ג). פול. שם (טו יט). סרגון. ישעיה (כ א):
+
+
+###### Rashash on Sanhedrin 94a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94a:3)
+
+
+**רש"י ד"ה שומר מה מליל. מה דבר כו'.**משמע דמפרשו מלשון מי מלל לאברהם ואם שהוא מ"י:
+
+
+###### Rashash on Sanhedrin 94a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94a:4)
+
+
+**רש"י ד"ה אתא בקר.**צ"ל לא אתא בקר עי' בע"י:
+
+
+###### Rashash on Sanhedrin 94a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94a:5)
+
+
+רש"י ד"ה פלא כו'. שלם. הס"ד ומה"ד **שחיזק**:
+
+
+###### Rashash on Sanhedrin 94a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94a:6)
+
+
+**רש"י ד"ה ה"ג. ול"ג תחת כבודו ולא תחת כבודו ממש דמשמע כו' דהאי כו' לא תחת ממש כו'.**כ"ה בע"י:
+
+
+
+## Daf 94b
+
+###### Rashash on Sanhedrin 94b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94b:1)
+
+
+**גמרא ה' אמר אלי עלה על הארץ כו'.**כצ"ל וכן ברש"י:
+
+
+###### Rashash on Sanhedrin 94b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94b:2)
+
+
+**שם ונוה צדיקים יברך.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 94b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94b:3)
+
+
+**שם העצומים והרבים את מלך אשור וגו' ועלה על כל אפיקיו וגו' וכתיב כו'.**כצ"ל כנראה מפירש"י:
+
+
+###### Rashash on Sanhedrin 94b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94b:4)
+
+
+**שם נביא אעשרת השבטים איתנבי כו'.**והא דכתיב וחלף ביהודה ר"ל שיוסיף מדעתו הרעה לחלוף גם ביהודה וכמו שאמר הנביא עליו (שם י) והוא לא כן דמה כו' כן אעשה לירושלים כו':
+
+
+###### Rashash on Sanhedrin 94b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94b:5)
+
+
+**רש"י ד"ה יען כי מאס. ואתרעו ברצין כו'.**כצ"ל ומלת להשחיתם למחוק וכן בע"י ליתא:
+
+
+###### Rashash on Sanhedrin 94b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94b:6)
+
+
+**רש"י ד"ה אחרי הדברים. השתא משמע האמת שהיה בחזקיה.**כ"ה בע"י וכצ"ל:
+
+
+###### Rashash on Sanhedrin 94b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94b:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94b:7)
+
+
+**רש"י ד"ה אע"פ שאלף. שמניחין אותו מלעבוד.**כצ"ל ובע"י הגי' לאבוד:
+
+
+###### Rashash on Sanhedrin 94b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94b:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/94b:8)
+
+
+**רש"י ד"ה בא על עית. ימני רבני משרייתיה.**כצ"ל והוא תרגום דיפקיד כליו:
+
+
+
+## Daf 95a
+
+###### Rashash on Sanhedrin 95a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/95a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/95a:1)
+
+
+**גמרא עתיד ירמיה ב"ח מענתות ומתנבי עלך.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 95a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/95a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/95a:2)
+
+
+**שם עד דסליק ויתיב מעילוי שורה.**פי' למעלה מחומת ירושלים:
+
+
+###### Rashash on Sanhedrin 95a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/95a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/95a:3)
+
+
+**שם עלה קם ומניד ברישיה.**כ"ה בע"י וכ"מ מפירש"י:
+
+
+###### Rashash on Sanhedrin 95a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/95a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/95a:4)
+
+
+**שם א"ל אפיך צלותך בר ברך כו'.**וממנו למד חזקיה שאמר טוב כו' אם שלום ואמת יהיה בימי (מלכים ב' כ יט):
+
+
+###### Rashash on Sanhedrin 95a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/95a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/95a:5)
+
+
+**רש"י ד"ה נטרד דואג. ואתה נכשל.**בע"י הגי' ניצול:
+
+
+###### Rashash on Sanhedrin 95a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/95a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/95a:6)
+
+
+**רש"י ד"ה אמרי קים ביה. אינהו הוא בקיאו כו'.**שם הגי' בדקי:
+
+
+
+## Daf 95b
+
+###### Rashash on Sanhedrin 95b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/95b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/95b:1)
+
+
+**גמרא בעי אביי חסר חד רבוא.**נראה דר"ל חד רבוא אלף ולפני הרש"א בח"א לא היה כתוב זה הצד וכן בע"י ליתא:
+
+
+###### Rashash on Sanhedrin 95b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/95b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/95b:2)
+
+
+**שם אמר ליה ההוא גברא כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 95b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/95b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/95b:3)
+
+
+**רש"י ד"ה עברו בשחי וד"ה אמצעיי'.**צ"ל דבור א':
+
+
+###### Rashash on Sanhedrin 95b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/95b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/95b:4)
+
+
+**רש"י ד"ה ה"ג. ול"ג והא כתיב כו'.**עי' רי"ף בע"י מש"כ בכוונתו והא דכתיב והנה כולם פגרים י"ל דקאי על הקפ"ה אלף שהוזכרו לעיל:
+
+
+###### Rashash on Sanhedrin 95b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/95b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/95b:5)
+
+
+**רש"י ד"ה נבוכדנצר. דחזי גבריאל והכירו בכבשן.**דהוא שהציל את חמ"ו כדאיתא בפסחים (קיח):
+
+
+
+## Daf 96a
+
+###### Rashash on Sanhedrin 96a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96a:1)
+
+
+**גמרא אזל אשכחינהו מלאכי שרת כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 96a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96a:2)
+
+
+**שם אמרו ה"ד וגם את הזקן תספה.**בע"י הגי' אמר:
+
+
+###### Rashash on Sanhedrin 96a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96a:3)
+
+
+**שם והזהרו בוורידין כר"י והזהרו כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 96a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96a:4)
+
+
+**שם אלא הכי כתובו כו'.**כצ"ל ומלת אמר למחוק וכן בע"י ליתא:
+
+
+###### Rashash on Sanhedrin 96a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96a:5)
+
+
+**שם הוה כתיב שמי' ושמי' דאבוה היינו כו'.**כ"ה הגי' בע"י:
+
+
+###### Rashash on Sanhedrin 96a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96a:6)
+
+
+**רש"י ד"ה טחון. על שכר שטרח כו' ואיזהו שכר נתן בעברי כו'.**כ"ה שם:
+
+
+###### Rashash on Sanhedrin 96a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96a:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96a:7)
+
+
+**רש"י ד"ה ויחלק. איידי כו' ואיירי כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 96a:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96a:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96a:8)
+
+
+**רש"י ד"ה הזהרו בוורידין. ואינו חותכו כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 96a:9
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96a:9](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96a:9)
+
+
+**רש"י ד"ה כי הא מילתא. אע"ג כו' שמהם תצא תורה.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 96a:10
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96a:10](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96a:10)
+
+
+**רש"י ד"ה עאכו"כ. שישתלם להם.**כ"ה בע"י:
+
+
+
+## Daf 96b
+
+###### Rashash on Sanhedrin 96b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96b:1)
+
+
+**גמרא כסי ולא אידמו.**לולי פירש"י ה"נ דט"ס הוא וצ"ל נסי בנו"ן ובגיטין הגי' אייתי:
+
+
+###### Rashash on Sanhedrin 96b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96b:2)
+
+
+**רש"י ד"ה חקוקה לו. לכך כתיב בא נ"נ.**הוא במלכים (ב כה א) ובירמיה (נב ד):
+
+
+###### Rashash on Sanhedrin 96b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96b:3)
+
+
+**רש"י ד"ה כסף וחומר. פעמים ששלשים כאן כו'.**לפנינו שם איתא דלעולם שלשים בא"י וט"ו כאן:
+
+
+###### Rashash on Sanhedrin 96b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96b:4)
+
+
+**בא"ד ובמס' חולין כו' אמרי' כו' וכה"א צרור כו'.**ור"ל דקשיין אהדדי אבל דרך הגמרא כן כמ"ש התוס' בברכות (כו ב) בד"ה ואין שיחה:
+
+
+###### Rashash on Sanhedrin 96b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96b:5)
+
+
+**רש"י ד"ה מתלגא. ומטרים.**נראה דצ"ל ומטרות כבכתוב (איוב לז):
+
+
+###### Rashash on Sanhedrin 96b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/96b:6)
+
+
+**רש"י ד"ה אימת אתי. קא מיירי נמי כו'.**כצ"ל:
+
+
+
+## Daf 97a
+
+###### Rashash on Sanhedrin 97a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/97a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/97a:1)
+
+
+**גמרא עד שתכלה פרוטה מן הכיס.**עפירש"י והנה הודות לאל בדורותינו נמצאים עשירים מופלגים בעמינו וגם יתר העם הפרוטה מצויה בידם. הכי ניתן נואש ח"ו להגאולה ויל"פ הכוונה להפך דחזינן דבימיהם היתה הפרוטה נחשבה לממון כדתנן ה' פרוטות הן (ב"מ פ"ד מ"ז) ובש"מ ואמר כאן דאז לא תהיה נחשבת למאומה ולא תראה עוד עד דאפילו בכיס ר"ל של צדקה (דנקרא כיס סתם בכתובות פ"ו מ"ה) דשם מצויים המטבעות הקטנות ביותר מנדבת דלת העם גם שם לא תמצא כי תהיה הרוחה ואף הפחותה שבנדבות לא תהיה בפרוטה:
+
+
+
+## Daf 97b
+
+###### Rashash on Sanhedrin 97b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/97b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/97b:1)
+
+
+**גמרא ר"א בריה דרבא אמר לאחר ה"א שנה איתמר.**אדלעיל קאי דלאחר ה"א ורצ"א שנה העולם יתום:
+
+
+###### Rashash on Sanhedrin 97b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/97b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/97b:2)
+
+
+**שם תיפח כו' שהיו אומרים כיון שהגיע הקץ כו'.**ומלת את ליתא בע"י:
+
+
+###### Rashash on Sanhedrin 97b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/97b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/97b:3)
+
+
+**שם לא פחות עלמא כו' דמקבלי כו' בכל דרא.**בסוכה הגי' בכל יומא:
+
+
+###### Rashash on Sanhedrin 97b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/97b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/97b:4)
+
+
+**שם והא"ר דרא כו' י"ח אלפי פרסה.**התוס' שם מחקו מלת פרסה:
+
+
+###### Rashash on Sanhedrin 97b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/97b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/97b:5)
+
+
+**שם הא דעיילי בבר כו'.**בפירש"י כאן ובסוכה מבואר דהנך דעיילי בלא בר עדיפי ותימה שהרש"א בח"א הבין בהפך אולם פירושו יתכן לפי' הערוך ערך בר בפי' הב' וקושייתו על רשב"י דנסתפק עליהן אם אלף הן ע"ש לק"מ דהא אביי ל"א אלא לא פחות כו' אבל לפעמים יתכן שהן יותר:
+
+
+###### Rashash on Sanhedrin 97b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/97b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/97b:6)
+
+
+**רש"י ד"ה ותשקמו. כבר עברו כו'.**עד סופו ליתא בע"י:
+
+
+###### Rashash on Sanhedrin 97b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/97b:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/97b:7)
+
+
+**רש"י ד"ה עוד אחת. עקר כבודם ופארם כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 97b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/97b:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/97b:8)
+
+
+**רש"י ד"ה לא בכסף. משום כו'. קרי תשובה בלשון כסף.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 97b:9
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/97b:9](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/97b:9)
+
+
+**רש"י ד"ה בעלתי בכם.**כצ"ל:
+
+
+
+## Daf 98a
+
+###### Rashash on Sanhedrin 98a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/98a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/98a:1)
+
+
+**גמרא וכרת הזלזלים במזמרות ואת הנטישות הסיר התז.**כצ"ל כנראה מפירש"י:
+
+
+###### Rashash on Sanhedrin 98a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/98a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/98a:2)
+
+
+**שם לאליהו דהוה קאי אפיתחא כו'.**כצ"ל וכ"ה בע"י:
+
+
+###### Rashash on Sanhedrin 98a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/98a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/98a:3)
+
+
+**רש"י ד"ה ואצרוף וד"ה אמגושי.**צ"ל בד"א:
+
+
+###### Rashash on Sanhedrin 98a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/98a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/98a:4)
+
+
+**רש"י ד"ה שרי חד. דסבר דאיבעי ליה לצאת כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 98a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/98a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/98a:5)
+
+
+**רש"י ד"ה השער הזה. שבעיר היה אותה שעה.**כצ"ל:
+
+
+
+## Daf 98b
+
+###### Rashash on Sanhedrin 98b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/98b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/98b:1)
+
+
+**רש"י ד"ה כגון קיסר. כדכתיב נשיא להם ול"כ מלך.**הן לעיל מיני' כתיב ועבדי דוד מלך עליהם אך גם ר"פ לא הקשה מקרא זה וצ"ע:
+
+
+
+## Daf 99a
+
+###### Rashash on Sanhedrin 99a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/99a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/99a:1)
+
+
+**גמרא רבי אומר שס"ה שנה כמנין ימה"ח.**רבי לשיטתו בערכין (לא) דשנה האמורה בבתי ע"ח היא שס"ה ימים ויליף שאר שנים מיניה כדמוכח ביומא ס"ה ב' ע"ש בת"י:
+
+
+###### Rashash on Sanhedrin 99a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/99a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/99a:2)
+
+
+**רש"י ד"ה אקוט בדור. ואמלוך עליהם.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 99a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/99a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/99a:3)
+
+
+**רש"י ד"ה ר"א שס"ה. מה כו' של מרגלים שנה א' לכל יום.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 99a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/99a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/99a:4)
+
+
+**רש"י ד"ה ועד עכשיו. עד ימה"מ.**כצ"ל וכ"ה בע"י. ודע כי דבורי רש"י בכאן מסורסים:
+
+
+###### Rashash on Sanhedrin 99a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/99a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/99a:5)
+
+
+**רש"י ד"ה כי מי נח. לאותו זמן משנשבע כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 99a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/99a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/99a:6)
+
+
+**גמרא כי דבר ה' בזה ואת מצותו הפר.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 99a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/99a:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/99a:7)
+
+
+**שם זה המבזה דבור שנאמר להם לישראל מסיני.**כצ"ל:
+
+
+
+## Daf 99b
+
+###### Rashash on Sanhedrin 99b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/99b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/99b:1)
+
+
+**גמרא רא"א כאילו עשאו לד"ת כו' רבא אמר כו'.**דבריהם צ"ל קודם דברי ר"ל וכ"כ הגר"א ז"ל:
+
+
+###### Rashash on Sanhedrin 99b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/99b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/99b:2)
+
+
+**רש"י ד"ה כי אכף. כאוכף שעל החמור.**כ"ה בע"י:
+
+
+###### Rashash on Sanhedrin 99b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/99b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/99b:3)
+
+
+**רש"י ד"ה תורה עומדת לו. למסור לו טעמי תורה וסתריה.**כ"ה שם:
+
+
+###### Rashash on Sanhedrin 99b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/99b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/99b:4)
+
+
+**רש"י ד"ה כאילו עשאו. לאותו דב"מ.**זה קאי ע"ד ר' אבהו:
+
+
+
+## Daf 100a
+
+###### Rashash on Sanhedrin 100a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100a:1)
+
+
+**גמרא [רב פפא אשתלי ואמר כגון הני רבנן כו'.**עמש"כ בס"ד בב"מ ע"ג ב] :
+
+
+###### Rashash on Sanhedrin 100a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100a:2)
+
+
+**שם א"ל האי סיוע קא מסייע ליה.**כ"ה גי' סה"י ובד"ח הגיהו לך. ול"נ דאף דבכ"ד לשנן יתיב פלוני קמי' פלוני ויתיב וקאמר כו' ר"ל פלוני ראשון אמר כמו לקמן (קיא) ובסוכה (יא) אבל מצינו בע"ז (ס"ד ו) ויתיב ר"א קמיה דר"ה ויתיב וקאמר כו' פירושו דר"ה קאמר כדמוכח שם לקמיה ולכן גם כאן נוכל לפרש דר"ז הוא דקאמר עתיד כו':
+
+
+###### Rashash on Sanhedrin 100a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100a:3)
+
+
+**שם א"ל ריקה אם לא ראית לא האמנת מלגלג כו'.**משמע דההקפדה היתה על מה שאמר כשם שאמרת כך ראיתי (וכ"מ מלישנא דלעיל אלא אי שמיע לך הא כו') ומה שלא הקפיד על מה שלגלג עליו בתחלה ממש אולי לא שמע ריו"ח ורש"י לא פי' כן:
+
+
+###### Rashash on Sanhedrin 100a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100a:4)
+
+
+**שם ריו"ח אמר לתרופה ממש רשבנ"א כו'.**כצ"ל והשאר נראה למחוק:
+
+
+###### Rashash on Sanhedrin 100a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100a:5)
+
+
+**שם אמר ליה מ"ט לא שכיחת כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 100a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100a:6)
+
+
+**רש"י ד"ה א"ל ההוא סבא. וריו"ח נמי ה"ק כדאמרת.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 100a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100a:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100a:7)
+
+
+**רש"י ד"ה כנגד היכל. ומאחורי האולם תא א' כו'.**נראה דצ"ל ומאחורי ההיכל או ק"ק עי' ספ"ד דמדות:
+
+
+###### Rashash on Sanhedrin 100a:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100a:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100a:8)
+
+
+**רש"י ד"ה לכוי דב"ז. שהשמש והאויר נכנסין כו'.**כצ"ל:
+
+
+
+## Daf 100b
+
+###### Rashash on Sanhedrin 100b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100b:1)
+
+
+**גמרא תנא בספרי צדוקים.**התוי"ט כתב שבאבות התיר הרע"ב בביה"כ ובמרחץ ול"ד דשם איירי בספרי חכמתם וכאן כ' שאין בהם חכמה:
+
+
+###### Rashash on Sanhedrin 100b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100b:2)
+
+
+**שם הא שלמה נמי אמרה דאגה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 100b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100b:3)
+
+
+**שם ועצומים כל הרוגיה.**לישנא דקרא הוא במשלי (ז):
+
+
+###### Rashash on Sanhedrin 100b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100b:4)
+
+
+**שם משוכבת חיקך שמור פתחי פיך.**הוא קרא (במיכה ז׳:ה׳):
+
+
+###### Rashash on Sanhedrin 100b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100b:5)
+
+
+**רש"י ד"ה לא תיפשוט. לחבלא להפסד.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 100b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100b:6)
+
+
+**רש"י ד"ה נערה. עד שירבה שחור כו'.**עמש"כ ע"ד לעיל (סו ב):
+
+
+###### Rashash on Sanhedrin 100b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100b:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100b:7)
+
+
+**רש"י ד"ה מאן דא"ל מעברתא. בין שני שבילות.**נראה דצ"ל שבולות עי' מכות (כ' ב):
+
+
+###### Rashash on Sanhedrin 100b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100b:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100b:8)
+
+
+**רש"י ד"ה מה ילד יום. מה יארע היום.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 100b:9
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100b:9](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100b:9)
+
+
+**רש"י ד"ה גנים.**צ"ל בשפל גגים:
+
+
+###### Rashash on Sanhedrin 100b:10
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100b:10](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/100b:10)
+
+
+**רש"י ד"ה רבא אמר. נהנין מיגיען כו'.**כצ"ל:
+
+
+
+## Daf 101a
+
+###### Rashash on Sanhedrin 101a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/101a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/101a:1)
+
+
+**גמרא דאיבלע בארזא ואיתעביד ליה ניסא כו'.**פשוטו משמע דהבלעת הארז היתה ע"י השד והנס הוא שפלטי'. ורש"י אולי רצה להשוות בליעת ארז זו להא דישעיה דבס"פ החולץ דהוה לאצולא ע"ש:
+
+
+###### Rashash on Sanhedrin 101a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/101a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/101a:2)
+
+
+**שם שרי שמן כו'.**אולי צ"ל שדי בד' מלשון שדים בסמיכות:
+
+
+###### Rashash on Sanhedrin 101a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/101a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/101a:3)
+
+
+**שם ויאמר אם שמוע תשמע לקול כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 101a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/101a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/101a:4)
+
+
+**רש"י ד"ה כי הא דרי"צ. ובלעו הארז.**כצ"ל:
+
+
+
+## Daf 101b
+
+###### Rashash on Sanhedrin 101b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/101b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/101b:1)
+
+
+**גמרא וכתיב וכהצר לו כו' וישיבהו ירושלים כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 101b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/101b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/101b:2)
+
+
+**שם וידע מנשה כו'.**עיין בע"י כאן הוספת דברים:
+
+
+###### Rashash on Sanhedrin 101b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/101b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/101b:3)
+
+
+**שם בת שבע בתו כו'.**ל"ד אלא בת בנו עי' לעיל (סט ב) ובע"י ל"ג בתו:
+
+
+
+## Daf 102a
+
+###### Rashash on Sanhedrin 102a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102a:1)
+
+
+**גמרא אחאב עבד את הבעל מעט כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 102a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102a:2)
+
+
+**שם כי שכם בא כ"י כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 102a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102a:3)
+
+
+**שם וידח ירבעם את ישראל כו'.**כצ"ל. ובן נבט ליתא במקרא:
+
+
+###### Rashash on Sanhedrin 102a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102a:4)
+
+
+**שם קול גדול לאמר קרבו פקדות כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 102a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102a:5)
+
+
+**רש"י ד"ה וביום פקדי. בט"ב שבכל שנה מאותן כו'.**כ"נ דצ"ל וכוונתו למה שמבואר בסוף תענית בפירושו שבכל ט"ב מתו מהם:
+
+
+###### Rashash on Sanhedrin 102a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102a:6)
+
+
+**רש"י ד"ה מפתקה. הכתוב וחתום בה.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 102a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102a:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102a:7)
+
+
+**רש"י ד"ה שום דופי. גימגום בתלמודו.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 102a:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102a:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102a:8)
+
+
+**רש"י ד"ה אין אביו. והוא גוזל להקב"ה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 102a:9
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102a:9](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102a:9)
+
+
+**רש"י ד"ה אחד מכ"ד. בב"ב מפרש כמה הוי הכרע ליטרא.**כצ"ל:
+
+
+
+## Daf 102b
+
+###### Rashash on Sanhedrin 102b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102b:1)
+
+
+**גמרא ויאמרו כו'. אל תשמע ולוא תאבה.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 102b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102b:2)
+
+
+**שם ויאמר אצא והייתי רוח שקר כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 102b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102b:3)
+
+
+**רש"י ד"ה אח לשמים. באחשורוש אח לראשו**:
+
+
+###### Rashash on Sanhedrin 102b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/102b:4)
+
+
+**רש"י ד"ה דפרע קיני'. הפורע קנאה נוקם חמתו וקנאתו כו'.**כצ"ל:
+
+
+
+## Daf 103a
+
+###### Rashash on Sanhedrin 103a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/103a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/103a:1)
+
+
+**גמרא ויהי אחרי בא אמציהו כו'.**כצ"ל והוא שם כ"ה:
+
+
+###### Rashash on Sanhedrin 103a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/103a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/103a:2)
+
+
+**רש"י ד"ה מה"ד. שלא לקבל פני מנשה.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 103a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/103a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/103a:3)
+
+
+**רש"י ד"ה עד כאן. כי מלאכיו משמע ליה דסליק כו'.**כצ"ל:
+
+
+
+## Daf 103b
+
+###### Rashash on Sanhedrin 103b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/103b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/103b:1)
+
+
+**גמרא והארץ נתן לבני אדם.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 103b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/103b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/103b:2)
+
+
+**רש"י ד"ה שם ע"ג על גופו.**ובגמרא שלפנינו איתא על אמתו ובמ"ר ס"פ מצורע שנמצאת כתובת קעקע על בשרו. ונ"ל דמקובל היה בידם לישנא דכתובת קעקע כדאיתא במדרש וס"ל כר"ש במכות (כא) במשנה דא"ח עד שיכתוב את השם ומ"ס כדקס"ד דר"א בריה דרבא שם ומ"ס כדהשיבו רב אשי ע"ש:
+
+
+
+## Daf 104a
+
+###### Rashash on Sanhedrin 104a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/104a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/104a:1)
+
+
+**גמרא ומשפחות סופרים כו' שוכתים המה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 104a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/104a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/104a:2)
+
+
+**רש"י ד"ה המה הקנים. אמר ירמיה כה אמר כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 104a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/104a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/104a:3)
+
+
+**רש"י ד"ה ומשרה שכינה. והנה איש אלהים בא כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 104a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/104a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/104a:4)
+
+
+**רש"י ד"ה קטנה לגדול. כדי שתהא זרעו כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 104a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/104a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/104a:5)
+
+
+**בא"ד ולא קטן וקטנה ממש כו'.**וכן במדרש שם איתא שהיו משיאין לבן י"ב שנה:
+
+
+###### Rashash on Sanhedrin 104a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/104a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/104a:6)
+
+
+**בסה"ד מבושל כל כך.**כצ"ל:
+
+
+
+## Daf 104b
+
+###### Rashash on Sanhedrin 104b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/104b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/104b:1)
+
+
+**גמרא בא ונשקן כו' והביאן לביתו.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 104b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/104b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/104b:2)
+
+
+**שם אמר רבא אריו"ח כל המציק כו'.**בע"י הגי' א"ר אלעאי בר ברכיה אריו"ח:
+
+
+###### Rashash on Sanhedrin 104b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/104b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/104b:3)
+
+
+**רש"י ד"ה אלי. קונני כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 104b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/104b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/104b:4)
+
+
+**רש"י ד"ה ה"ג ויגדל דהתם כו'. הוא בעצמו והכא כו' ע"י שליח.**יובן ע"פ מה שהביא בפר"ד דרוש כ"ג בשם הראב"ד דכשהמכה ע"י הקב"ה בעצמו אז היא כלה ונחרצה כו' ע"ש:
+
+
+
+## Daf 105a
+
+###### Rashash on Sanhedrin 105a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/105a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/105a:1)
+
+
+**גמרא אם יבא דוד כו' והוריש את בניך גת.**נ"ל דשגרת לישנא דלעיל (ק"ב) בדרשת קרא דלכן תתני שלוחים על מורשת גת נקיט הכא:
+
+
+###### Rashash on Sanhedrin 105a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/105a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/105a:2)
+
+
+**שם והנביאים הלעולם יחיו וחזרו והודו כו'.**כצ"ל ומה שבינתיים מסובבים בע"י:
+
+
+###### Rashash on Sanhedrin 105a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/105a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/105a:3)
+
+
+**שם ויסרו למשפט כו'. ארבב"ח כו'.**גי' רש"י א"ר אבא בר כהנא:
+
+
+###### Rashash on Sanhedrin 105a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/105a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/105a:4)
+
+
+**שם ר' אליעזר אומר ישובו כו'.**כצ"ל בי':
+
+
+###### Rashash on Sanhedrin 105a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/105a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/105a:5)
+
+
+**שם והיו צהובין זל"ז.**עפירש"י ומזה תמהתי על לשון רש"י בפיה"ת בנשא בפסוק יאר ה' פניו אליך יראה לך כו' פנים צהובות אכן גם בגמרא מצינו לשון זה לשמוש שמחה בחולין (ז' ב) ובנדרים (מט ב) ובש"מ ועי' בערוך:
+
+
+###### Rashash on Sanhedrin 105a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/105a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/105a:6)
+
+
+**שם ומ"ד בא על אתונו היה כתיב הכא כרע שכב כו'.**הגרי"פ גמגם בראיית פסוק זה והגר"א ז"ל משבש ליה ולע"ד הכוונה מפני שתפס לשון שכיבה אשר מצאנוהו גבי בעילה כדמסיק ולא רבץ כלישנא דיעקב (ויחי) והוא ע"ד שאמרו במ"ר (בלק) על אמרו כי התעללת לשונו סרוח ופי' המ"כ שתפס לשון טומאה כד"א ויתעללו בה. וכן בב"ר פ' פ"ז בפסוק ותאמר שכבה עמי להלן ופרשת כנפיך כו' אבל זו כו' ע"ש:
+
+
+###### Rashash on Sanhedrin 105a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/105a:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/105a:7)
+
+
+**רש"י ד"ה מואב סיר. דוד כו'.**עיין ח"א:
+
+
+###### Rashash on Sanhedrin 105a:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/105a:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/105a:8)
+
+
+**רש"י ד"ה מאן נינהו. דמשום הכי בורר הקב"ה כו'.**נראה דהיה כתוב בר"ת דמ"ה ור"ל דמכל הכותים עי' בע"י:
+
+
+
+## Daf 105b
+
+###### Rashash on Sanhedrin 105b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/105b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/105b:1)
+
+
+**גמרא ייטב כו' ויגדל את כסאו כו' מעין קאמרי ליה.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 105b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/105b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/105b:2)
+
+
+**שם לא יהא ריחן נודף כאהלים כו'.**עי' ברכות (טז) תד"ה אהלים:
+
+
+###### Rashash on Sanhedrin 105b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/105b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/105b:3)
+
+
+**רש"י ד"ה מ"ב קרבנות. בין פרים ואילים ז' כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 105b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/105b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/105b:4)
+
+
+**רש"י ד"ה ריחן נודף.**כצ"ל:
+
+
+
+## Daf 106a
+
+###### Rashash on Sanhedrin 106a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106a:1)
+
+
+**גמרא מה ארז כו' ושרשיו מועטין ואין גזעו מחליף.**כאן מוחלף הסדר מסדרן בקנה ובתענית הגי' מכוונת:
+
+
+###### Rashash on Sanhedrin 106a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106a:2)
+
+
+**שם שמעתים שוכתים.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 106a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106a:3)
+
+
+**שם ויהיו שקוצים כאהבם.**כצ"ל בכ"ף וכן ברש"י:
+
+
+###### Rashash on Sanhedrin 106a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106a:4)
+
+
+**שם ואת בלעם בן בעור הרגו בחרב.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 106a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106a:5)
+
+
+**רש"י ד"ה אינו עומד במקום מים. שכינה הוא דאמרה.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 106a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106a:6)
+
+
+**בא"ד מפרש באגדה בכה"ג.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 106a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106a:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106a:7)
+
+
+**רש"י ד"ה משומו אל. כשמשים הקב"ה פדיון לעמו.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 106a:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106a:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106a:8)
+
+
+**רש"י ד"ה אוי לה. אוי לה לאומה שתהיה באותן הימים שתעלה ע"ד לעכב ישראל.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 106a:9
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106a:9](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106a:9)
+
+
+**רש"י ד"ה ציים. וצי אדיר לא יעברנו.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 106a:10
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106a:10](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106a:10)
+
+
+**רש"י ד"ה וצים. דכתיב היינו מקום כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 106a:11
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106a:11](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106a:11)
+
+
+**רש"י ד"ה מהר שלג. שניר.**כי שניר ת"א טור תלגא:
+
+
+###### Rashash on Sanhedrin 106a:12
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106a:12](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106a:12)
+
+
+**רש"י ד"ה וינזרו לבשת. והלכו אחרי הבשת.**כי עבודתם היה דרך בזיון ובשת ע"י פיעור:
+
+
+
+## Daf 106b
+
+###### Rashash on Sanhedrin 106b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106b:1)
+
+
+**גמרא בלעם בר כמה כו' בר ל"ג שנין או בר ל"ד.**נראה דמספקא ליה בהנך שני מפני דאמרינן לקמן שנותיו של דואג ל"ד ודאחיתופל ל"ג:
+
+
+###### Rashash on Sanhedrin 106b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106b:2)
+
+
+**שם סימן גבור כו'.**הם סימני דרשות דרי"צ ונשמט סימן דרשה דקרא דגם אל כו':
+
+
+###### Rashash on Sanhedrin 106b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106b:3)
+
+
+**שם וכי הוה מטי ר"י בעוקצין אשה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 106b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106b:4)
+
+
+**שם ולבסוף קראו תלמידו.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 106b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106b:5)
+
+
+**רש"י ד"ה הרגו אל חלליהם. והציתו אש כו' ונפל לתוך האש.**מה שגמגם עליו הרש"א ששריפת ב"ד איננה אלא ע"י פתילה של אבר עמש"כ בישובו בב"ר ס"פ ס"ה במ"ת בס"ד:
+
+
+###### Rashash on Sanhedrin 106b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106b:6)
+
+
+**רש"י ד"ה בר ל"ג. דלר"ס בלעם חי' יותר מן ר"י שנה כו'.**עמש"כ במ"ר פרשת בלק אות כ"ג במ"ק בס"ד:
+
+
+###### Rashash on Sanhedrin 106b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106b:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106b:7)
+
+
+**רש"י ד"ה במגדל. ומשנה א' באהלות כו' מגדל העומד באויר טומאה בתוכו כלים שבעוביו טהורים.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 106b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106b:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/106b:8)
+
+
+**רש"י ד"ה שכובשת ירק. דא"מ טומאה ע"י עוקצין כו'.**בטהרות רפ"ב לא משתעי בהכי ע"ש:
+
+
+
+## Daf 107a
+
+###### Rashash on Sanhedrin 107a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/107a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/107a:1)
+
+
+**גמרא אל ימשלו בי דלא לישתעו בי רבנן שביקיה לך אז איתם שלא יכתב סורחני כו'.**כ"ה בע"י:
+
+
+###### Rashash on Sanhedrin 107a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/107a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/107a:2)
+
+
+**שם נצטרע דכתיב תחטאני באזוב כו'.**עפירש"י ונ"ל דגם מסיפא דקרא דריש ומשלג היינו צרעת כדתנינן בהרת עזה כשלג ובקרא והנה ידו מצורעת כשלג וכן במרים ובגיחזי והמ' הוא לשמוש מן:
+
+
+###### Rashash on Sanhedrin 107a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/107a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/107a:3)
+
+
+**רש"י ד"ה צרפתני. חשבת כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 107a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/107a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/107a:4)
+
+
+**רש"י ד"ה איכו זממא. רסן ואפסר כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 107a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/107a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/107a:5)
+
+
+**רש"י ד"ה סוחר. דרכו לפנות.**נראה דצ"ל לגנות או לפגום:
+
+
+
+## Daf 107b
+
+###### Rashash on Sanhedrin 107b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/107b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/107b:1)
+
+
+**גמרא אמר לו חזור בך.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 107b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/107b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/107b:2)
+
+
+**שם הנה נא המקום כו' מכלל דעד השתא לא הוה צר.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 107b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/107b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/107b:3)
+
+
+**שם העת כו' ולקחת בגדים וזיתים כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 107b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/107b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/107b:4)
+
+
+**רש"י ד"ה ויפרץ בו. גיחזי.**נראה דצ"ל בגיחזי:
+
+
+###### Rashash on Sanhedrin 107b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/107b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/107b:5)
+
+
+**במשנה אבל עומדין בדין.**נראה דקאי אתרוייהו ר"ל על דור הפלגה ועל אנשי סדום ור"נ לא פליג אלא על אנשי סדום ולא על דור הפלגה וזהו כוונת רש"י במש"כ ובחדא פליג והתוי"ט ל"ד בזה:
+
+
+
+## Daf 108a
+
+###### Rashash on Sanhedrin 108a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/108a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/108a:1)
+
+
+**במשנה**הגר"א ז"ל גורס עדת קרח קודם דור המדבר ונראה ראיה מפסקי דגמרא דמפרש תחלה עדת קרח ואח"כ דור המדבר:
+
+
+###### Rashash on Sanhedrin 108a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/108a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/108a:2)
+
+
+**[שם אמר ליה אינם עומדים בעדת צדיקים אבל עומדים בעדת רשעים.**לכאורה שפיר קאמרי רבנן ונ"ל דר"נ מפרש לקרא ע"פ מדה י"ט מל"ב מדות דר"א בנו של ריה"ג מדבר שנאמר בזה והוא הדין לחבירו ע"ש:
+
+
+###### Rashash on Sanhedrin 108a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/108a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/108a:3)
+
+
+**שם עדת קרח אינם עתידין לעלות כו'.**לכאורה עדת קרח הם הר"ן איש השרופים והראיה מהמקרא אינה על הבלועים אולם מצאתי בפירש"י בפסחים (נד) שקורא ג"כ להבלועים עדת קרח וכן הרע"ב בפ"ה דאבות במ"ו] :
+
+
+###### Rashash on Sanhedrin 108a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/108a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/108a:4)
+
+
+**גמרא וכתיב יכלו בטוב ימיהם וברגע שאול יחתו.**כצ"ל וזהו כוונת הגר"א ז"ל:
+
+
+###### Rashash on Sanhedrin 108a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/108a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/108a:5)
+
+
+**שם וברבה נידונו שנאמר כל מעינות תהום רבה וכתיב ויסכרו מעינות תהום**(ר"ל ולא כתיב כל עי' ב"ר פל"ג ס"ד) אריו"ח כו'. כצ"ל. וכ"ה בע"י:
+
+
+###### Rashash on Sanhedrin 108a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/108a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/108a:6)
+
+
+**שם בליעה דגדר כו'.**אולי צ"ל דגרר בב' רישין עמש"כ בשבת (קט) ובב"ר שם חשיב שנים אחרים:
+
+
+###### Rashash on Sanhedrin 108a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/108a:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/108a:7)
+
+
+**שם ולא נח בהם כו'.**במקרא כתוב נה בה':
+
+
+
+## Daf 108b
+
+###### Rashash on Sanhedrin 108b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/108b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/108b:1)
+
+
+**גמרא מן הטהורין שבעה מן הטמאים שנים כו'.**משמע לכאורה דשבעה דומיא דשנים מה שנים אינם שני זוגות אף שבעה כן אבל במ"ר פל"ב איתא דהיו ז' זוגות ע"ש ואולי כאן לישנא דקרא נקיט:
+
+
+###### Rashash on Sanhedrin 108b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/108b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/108b:2)
+
+
+**שם ואריו"ח מיכן שנאסרו בתה"מ.**כצ"ל וכ"ה בע"י:
+
+
+
+## Daf 109a
+
+###### Rashash on Sanhedrin 109a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/109a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/109a:1)
+
+
+**גמרא [ת"ר אנשי סדום אין להם חלק לעולם הבא שנאמר כו'.**גי' זאת תמוהה [וכה"ג דקדק התוי"ט לעיל פ"ג מ"ז] שהרי אינה מחדשת על המשנה כלום ונ"ל דט"ס הוא וצ"ל הגי' כמו דאיתא בתוספתא שנאמר כו' רעים וחטאים בעוה"ז לה' מאד לעוה"ב ובזה א"ש ג"כ מימרא דרב יהודה בתרה לפרש אליביה הכפל דרעים וחטאים אולם מצאתי גם כן בבכורות (מ"ח ב) דמביא הש"ס ת"ר הוא לפדות ובנו לפדות כו' ואין בה תוספת מאומה על לשון המשנה. וכן בע"ז דף ל"א ת"ר החרצנים והזגין של נכרים לחים אסורין יבשים מותרין כו'] :
+
+
+###### Rashash on Sanhedrin 109a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/109a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/109a:2)
+
+
+**שם ערום ילינו מבלי לבוש.**כ"נ דצ"ל: הפסוקים אינם מובאים כאן כסדרן במקרא והח"א התעורר בזה ע"ש:
+
+
+###### Rashash on Sanhedrin 109a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/109a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/109a:3)
+
+
+**שם כי נח נפשיה דר"י כו' דמא.**כצ"ל ובציון הגרי"פ ט"ס וצ"ל מו"ק כ"ה ב':
+
+
+###### Rashash on Sanhedrin 109a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/109a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/109a:4)
+
+
+**רש"י ד"ה מעם גר. ונתדלדלו מאדם כו'.**בד"ח הוגה מארצם ולכאורה הג"י א"ש טפי דהוא פי' על מאנוש דקרא:
+
+
+###### Rashash on Sanhedrin 109a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/109a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/109a:5)
+
+
+**רש"י ד"ה יומם וד"ה אפרסמון.**בע"י הד"א וכצ"ל:
+
+
+###### Rashash on Sanhedrin 109a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/109a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/109a:6)
+
+
+**רש"י ד"ה א"ל. יתמא למרי דתורא.**כצ"ל:
+
+
+
+## Daf 109b
+
+###### Rashash on Sanhedrin 109b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/109b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/109b:1)
+
+
+**גמרא דעבר במברא יהיב ד' זוזי כו'.**ולעיל אמר דניתב חד זוזי כו' ואולי דלעיל הוא לבני עירם ודכאן הוא לאורחים וכעובדא דכובס דמייתא עלה וכדי למונעם מבוא כדלעיל ועוד י"ל דהדיינים הגביהו השער:
+
+
+###### Rashash on Sanhedrin 109b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/109b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/109b:2)
+
+
+**שם בקהלם אל תחד כבודי.**כצ"ל בל"ו:
+
+
+###### Rashash on Sanhedrin 109b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/109b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/109b:3)
+
+
+**שם אבירם שאיבר כו'.**כצ"ל בר':
+
+
+###### Rashash on Sanhedrin 109b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/109b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/109b:4)
+
+
+**שם בן ראובן בן כו'.**בקרא כתוב בני:
+
+
+###### Rashash on Sanhedrin 109b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/109b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/109b:5)
+
+
+**[שם קרח שנעשה קרחה כו'.**עמש"כ במגילה (טו)] :
+
+
+
+## Daf 110a
+
+###### Rashash on Sanhedrin 110a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/110a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/110a:1)
+
+
+**גמרא ואולת בידיה תהרסנו.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 110a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/110a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/110a:2)
+
+
+**שם ויקומו כו' ומאתים נשיאי עדה מיוחדים כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 110a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/110a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/110a:3)
+
+
+**רש"י ד"ה לקרובי פיתחא. ותפתח הארץ במקום שהן.**ויל"פ בריאה דכאן מלשון וברא אותהן בחרבותם (יחזקאל כ״ג:מ״ז):
+
+
+
+## Daf 110b
+
+###### Rashash on Sanhedrin 110b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/110b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/110b:1)
+
+
+**גמרא שורש בעה"ז וענף לעה"ב.**ע"ז ד' א':
+
+
+###### Rashash on Sanhedrin 110b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/110b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/110b:2)
+
+
+רש"י (במשנה) **ד"ה מה היום. אף עשרת השבטים אין עתידים כו'.**בד"ח סבבו מלת אין ול"נ דזהו דבור חדש ציון על רישא דמתניתין או להגיה במקומו כן:
+
+
+###### Rashash on Sanhedrin 110b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/110b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/110b:3)
+
+
+**רש"י ד"ה וישליכם. כדאמרי' שהוליכם למדינת כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 110b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/110b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/110b:4)
+
+
+**רש"י ד"ה ת"ר עשרת השבטים. ואית דמפרשי כו'**עד לעה"ב. ליתא בע"י:
+
+
+###### Rashash on Sanhedrin 110b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/110b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/110b:5)
+
+
+**רש"י ד"ה האובדים. ולא שמעתי עוד.**הרי"ף בע"י כ' דמלת ולא הוא ר"ת ולשונות אחרים ע"ש:
+
+
+###### Rashash on Sanhedrin 110b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/110b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/110b:6)
+
+
+רש"י ד"ה וענף לעוה"ב. נראה דהס"ד ומה"ד **באים הם לעוה"ב שאע"פ כו'**:
+
+
+
+## Daf 111a
+
+###### Rashash on Sanhedrin 111a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111a:1)
+
+
+**גמרא ל"נ למרייהו דאמרת עלייהו הכי.**כ"ה בע"י וכן לקמן:
+
+
+###### Rashash on Sanhedrin 111a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111a:2)
+
+
+**שם אלא למי שלא למד אפי' חוק אחד.**כ"ה גי' הילקוט הביאה הח"א:
+
+
+###### Rashash on Sanhedrin 111a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111a:3)
+
+
+**שם עתה תראה אשר אעשה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 111a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111a:4)
+
+
+**רש"י ד"ה אר"ל שלישי כו'. ובני לוט ובני נחור.**כ"נ דצ"ל:
+
+
+###### Rashash on Sanhedrin 111a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111a:5)
+
+
+**רש"י ד"ה לא ניחא. ל"א שלישית שלישי של שם.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 111a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111a:6)
+
+
+**בא"ד והשלישית משמע שני שליש כו'.**נראה משום דנוכל לקרות והשלישיות כאשר בכ"מ קרינן בחולם אף שח"ו:
+
+
+###### Rashash on Sanhedrin 111a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111a:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111a:7)
+
+
+**רש"י ד"ה אף יציאתן ממצרים. שיצאו אחד משלשים רבוא כו'.**כצ"ל:
+
+
+
+## Daf 111b
+
+###### Rashash on Sanhedrin 111b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:1)
+
+
+**גמרא זה הרודה את יצרו.**הוא לענותו נגד מה שנהנה מעבירה והיא תשובת המשקל שהזכירו חכמי המוסר. עי' ברש"י בפיה"ת (ויקרא כ"ה מ"ג) וכן תפרש הגי' דמגילה זה הדן את יצרו:
+
+
+###### Rashash on Sanhedrin 111b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:2)
+
+
+**במשנה הכה כו' העיר ההוא לפי חרב.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 111b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:3)
+
+
+**שם שנאמר החרם כו'.**מלת שנאמר ל"ג רש"י וכן הב' והג' עי' רש"א:
+
+
+###### Rashash on Sanhedrin 111b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:4)
+
+
+**שם ושרפת כו' ואת כל שללה שללה ולא שלל שמים.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 111b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:5)
+
+
+**שם כאילו אתם מעלים עולה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 111b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:6)
+
+
+**שם ולא ידבק כו' מן החרם וגו' שכ"ז כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 111b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:7)
+
+
+**גמ' יצאו הן ולא שלוחן.**בשעה"מ הביא בשם ש"מ כ"י שהקשה כיון דקיי"ל אין שליח לד"ע א"כ ליהוי כמו שהדיחו השלוחין מעצמן ותירץ דמיירי שהם מעיר אחרת או כגון שאמרו פלוני ופלוני אמרו לנו לומר לכם לפיכך לא חשיבא להו מילתא ולא גרירי בתרייהו ול"נ דמשמעות שלוחן הוא שליח אחד מדל"ק שלוחיהן כמו בסוטה (מה) ויצאו הן ולא שלוחיהן ואין מדיחים פחות משנים כדמסיק:
+
+
+###### Rashash on Sanhedrin 111b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:8)
+
+
+**שם איתיבי ערים תשע כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 111b:9
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:9](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:9)
+
+
+רש"י (במשנה) **ד"ה יחידים. מתוך שהחמרת כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 111b:10
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:10](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:10)
+
+
+**רש"י ד"ה הכה. מכלל דשיירא כו' שנשתהו בעיר כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 111b:11
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:11](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:11)
+
+
+**בסה"ד להיות נדחין עמה.**כצ"ל וכ"ה בהרע"ב
+
+
+###### Rashash on Sanhedrin 111b:12
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:12](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:12)
+
+
+**רש"י ד"ה יצאו. אם המדיחין עצמן יצאו והדיחום כו' דנין בסייף כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 111b:13
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:13](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:13)
+
+
+**רש"י ד"ה מקרבך. משמע כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 111b:14
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:14](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:14)
+
+
+**רש"י ד"ה יושבי עירם.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 111b:15
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:15](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/111b:15)
+
+
+**רש"י ד"ה חולקין. שבט אחר כו' באותו קצת העיר.**כצ"ל:
+
+
+
+## Daf 112a
+
+###### Rashash on Sanhedrin 112a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112a:1)
+
+
+**גמרא והוצאת את האיש כו' ההיא וגו' איש ואשה כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 112a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112a:2)
+
+
+**שם מ"ט בהמה כמאן דל"פ דמיא כו'.**פירש"י אינו מכוון בלשון הש"ס. ועוד דלפי' לא תיאסר חלק האחר אלא באכילה ולשון אסורה משמע אפי' בהנאה כדין בהמת עה"נ לכן הנלע"ד דר"ח ודאי סובר יש ברירה ולזאת עיסה מותרת וכן הבין הש"א בתשו' פ"ט בבהמה דאסירה ה"ט משום דינקי מהדדי וכסברת רב בביצה (לז ב) ע"ש ויהא סיעתא לפסק הרי"ף והרמב"ם שם כרב ע"ש ברא"ש כיון דר"ח כאן ס"ל גם כן כוותיה:
+
+
+###### Rashash on Sanhedrin 112a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112a:3)
+
+
+**שם בהמת עה"נ מהו כו' לטהרה מידי נבלה.**נראה דשור הנסקל שנשחט לאחר שנגמר דינו אע"ג דאסור בהנאה מ"מ מהניא ביה שחיטה לטהרו מידי נבלה וראיה לזה מהא דס"ל לר"מ בב"ק (עא) דמתחייב בד' וה' וא"כ ע"כ שחיטה היא שוב מצאתי כן להדיא בפירש"י מנחות (קא רע"ב) ע"ש. ואע"פ שאין פירש"י שם מוכרח וכן דברי התוס' שם בד"ה ועגלה ערופה די"ל ע"ד שתירץ ר"ח לרב בכריתות (כא) כגון דאיכא פחות מכזית כו' ע"ש:
+
+
+###### Rashash on Sanhedrin 112a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112a:4)
+
+
+**רש"י ד"ה קשיא. למ"ד אין חולקין כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 112a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112a:5)
+
+
+**רש"י ד"ה מענה את דינם.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 112a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112a:6)
+
+
+**רש"י ד"ה למיהוי כבני מתא. כיון ששהה ל"י נקרא מיושבי העיר כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 112a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112a:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112a:7)
+
+
+**רש"י ד"ה ה"ג אמר מר את כל שללה לרבות כו'.**כצ"ל ותיבות אשר בה נ"ל למחוק עי' רש"א:
+
+
+###### Rashash on Sanhedrin 112a:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112a:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112a:8)
+
+
+**בא"ד ודוקא שכבר היו כו'.**הוא לשון אחר עי' רש"א:
+
+
+###### Rashash on Sanhedrin 112a:9
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112a:9](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112a:9)
+
+
+**רש"י ד"ה שיער נשים. אי הוה בכלל ואת כל שללה כו'.**לכאורה הל"ל בכלל ואת כל אשר בה:
+
+
+
+## Daf 112b
+
+###### Rashash on Sanhedrin 112b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112b:1)
+
+
+**גמרא ומי שנאכל בתורת בהמתה כו' שא"נ בתורת בהמתה.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 112b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112b:2)
+
+
+**רש"י ד"ה היה בה קד"מ. כונסין אותן לכיפה ומאכילין כו'.**לכאורה תמוה דזה לא נאמר אלא באדם לעיל (פא ב') אבל בבהמה תניא בע"ז (יג) אין מקדישין כו' בזה"ז ואם הקדיש כו' תיעקר כו' ואיזהו עיקור נועל דלת בפניה והיא מתה וע"ש פירש"י וכ"כ הרמב"ם ברפ"ד מהל' פהמ"ק בהל' חטאות המתות וכן לעיל (פ' א') גבי שור שנגמר דינו שנתערב באחרים דאר"י כונסן לכיפה פירש"י בעצמו ומתים ברעב:
+
+
+###### Rashash on Sanhedrin 112b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112b:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112b:3)
+
+
+**רש"י ד"ה ור"ש היא. ודינייהו לפי חרב כו' ול"א שיחרימו אותם עמהם כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 112b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112b:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112b:4)
+
+
+**רש"י ד"ה וכל שקרב. והלכך אצטריך בהמתה.**כצ"ל וכן בסה"ד:
+
+
+###### Rashash on Sanhedrin 112b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112b:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112b:5)
+
+
+**רש"י ד"ה תרומה ביד ישראל. ונהי דבאכילה לא שרינן לה**(כצ"ל) דשמא היה נותנה לכהן רשע שבתוכה. ק"ק מאי איריא רשע אפי' צדיק נמי דהא גם נכסי צדיקים שבתוכה נשרפין ולמעלה כתב דשמא ה"נ לכהן צדיק שחוצה לה:
+
+
+###### Rashash on Sanhedrin 112b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112b:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112b:6)
+
+
+**רש"י ד"ה אלא בעיר אחרת. והעלו אותו לירושלים כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 112b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112b:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112b:7)
+
+
+**רש"י ד"ה אלא לאו. ואם איתא כו' ממון גבוה הוא לישתרו.**וכן אר"ש לעיל שללה פרט כו' וכסף מעשר ולמסקנא דמוקי לה דאסקוה לגוה ונפיל מחיצות היינו דוקא לרבנן דמעשר ממון הדיוט הוא (עיין בבעל המאור) אבל לר"מ דממון גבוה הוא יאכלו כשיבנה החומה דשלל שמים הוא ועמש"כ בפסחים (ז). כ"ז כתבתי לאפוקי מהתוי"ט דמשמע מדבריו דמתניתין אתי ככ"ע אפי' כר"מ. ויש ג"כ עיון בפסקי הרמב"ם דבספ"ד מהל' ע"ז פסק למתניתין דמע"ש יגנזו ובספ"ג מהל' מע"ש פסק דממון גבוה הוא ועי' בכ"מ בפ"ו מהל' בכורים הל"ד:
+
+
+###### Rashash on Sanhedrin 112b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112b:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/112b:8)
+
+
+**רש"י ד"ה ואין שאת. וה"ק קרא כי ירבה ממך הדרך או כי כו'.**כצ"ל:
+
+
+
+## Daf 113a
+
+###### Rashash on Sanhedrin 113a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/113a:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/113a:1)
+
+
+**גמרא והיתה העיר חרם היא וכל אשר בה לה'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 113a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/113a:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/113a:2)
+
+
+**שם ויהי דבר ה' אליו כו'.**כצ"ל וכן לקמן:
+
+
+###### Rashash on Sanhedrin 113a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/113a:3](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/113a:3)
+
+
+**שם אמר ליה שלש מפתחות כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 113a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/113a:4](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/113a:4)
+
+
+**רש"י ד"ה וליפרקי' וכו'. ומשני כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 113a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/113a:5](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/113a:5)
+
+
+**רש"י ד"ה דכתיב ואבדתם**(בסופו). דהאי לאו שלל שמים הוא. כ"נ דצ"ל:
+
+
+###### Rashash on Sanhedrin 113a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/113a:6](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/113a:6)
+
+
+**רש"י ד"ה דכ"ע. והא דקאמר כו' דודאי מילתא קא מפרשי כו' דל"ת עוד לא משמע ליה כו'.**כצ"ל ור"ל לכן לא אפשר לדונו בדבר שיצא מה"כ כו' ונלמד דאף כל בנין כגון גנות ופרדסים:
+
+
+###### Rashash on Sanhedrin 113a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/113a:7](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/113a:7)
+
+
+**רש"י ד"ה לא יריחו. דכתיב בימיו כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 113a:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/113a:8](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/113a:8)
+
+
+**רש"י ד"ה שלש מפתחות. על אוצרות כו' ולא רצה למנות שליח כו'.**כצ"ל:
+
+
+###### Rashash on Sanhedrin 113a:9
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/113a:9](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/113a:9)
+
+
+**רש"י ד"ה דטרקי' וד"ה דכתיב.**(כצ"ל) הד"א וכ"ה בע"י:
+
+
+
+## Daf 113b
+
+###### Rashash on Sanhedrin 113b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/113b:1](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/113b:1)
+
+
+**גמרא שנאמר בבוא רשע כו' ועם קלון חרפה.**נראה דדריש קלון מלשון קלוי באש ונרדף עם לשון חרון שהוא ג"כ מלשון חרה מני חורב עי' רש"י בפיה"ת פ' בשלח בפסוק וברוח אפיך. ועמש"כ בב"ר פס"ה במ"ק:
+
+
+###### Rashash on Sanhedrin 113b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/113b:2](https://torahapp.org/share/book/Rashash%20on%20Sanhedrin/r/113b:2)
+
+
+סליק בעזר צורי
+

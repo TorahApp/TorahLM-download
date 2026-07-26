@@ -1,0 +1,4425 @@
+# Radak on Zechariah
+
+רד"ק על זכריה
+
+Link: [https://torahapp.org/share/book/Radak%20on%20Zechariah](https://torahapp.org/share/book/Radak%20on%20Zechariah)
+
+פרשנות פשט ידועה מן המאה ה-13 המשלבת עיונים לשוניים ופילוסופיים.
+
+Popular 13th-century commentary focusing on the simple meaning of the text and incorporating grammar and philosophy.
+
+Sections: Chapter-Verse-Paragraph
+
+Location: Tanakh/Rishonim on Tanakh/Radak/Prophets
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Radak on Nach (Segments: 451, License: unknown)
+
+Version (En): Sefaria Community Translation (Segments: 49)
+
+
+## Chapter 1
+
+
+### Verse 1
+
+###### Radak on Zechariah 1:1:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:1:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:1:1)
+
+
+**בחדש השמיני בשנת שתים לדריוש היה דבר ה' אל זכריה בן ברכיה בן עדוא הנביא לאמר.**הנביא שב אל זכריה ואפשר כי גם עדוא היה נביא ואמרו כי הוא עדוא החוזה גם מצאנו במדרש עדוא הנביא:
+
+
+" In the eighth month, in the second year of Darius, was the word of the Lord unto Zechariah, the son of Berechiah, the son of Iddo, the prophet, saying" - The prophet is to be referred to Zechariah, though perhaps Iddo may also have been a prophet, for it is said that he is the same as Iddo, the seer. (II Chronicles 9:29.) We have also found in the Midrash* the words, " Iddo, the prophet."
+
+
+###### Radak on Zechariah 1:1:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:1:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:1:2)
+
+
+**לאמר.**לישראל כמ"ש אחר כן ואמרת אליהם אמור להם שיזכרו הקצף שקצף ה' על האבות והם דור שחרב בו הבית ויזכרו כי בעבור מעשיהם קצף ה' עליהם לפיכך ישובו הם אל ה' ולא יהיו כאבותיהם והם היו מתעצלים בבנין הבית כי לא החלו לבנות עד החדש התשיעי ועוד היו בידיהם מעשים רעים כמו שכתוב בספר עזרא:
+
+
+" Saying" - to Israel, as is immediately added, "And thou shalt say unto them." Say unto them, that they should remember the displeasure wherewith the Lord was displeased with the fathers, that is, with the generation in whose time the temple was desolated ; they should also remember that it was on account of their deeds that the Lord was displeased with them, they should therefore return to the Lord, and not be like their fathers. They were at this time slothful in building the temple, for they did not begin to build until the ninth month, and evil deeds were still in their hands, as is written in the book of Ezra.
+
+
+
+### Verse 3
+
+###### Radak on Zechariah 1:3:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:3:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:3:1)
+
+
+**ואמרת.**מבואר הוא:
+
+
+" Therefore say." This is plain.
+
+
+
+### Verse 4
+
+###### Radak on Zechariah 1:4:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:4:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:4:1)
+
+
+**אל תהיו.**מבואר הוא:
+
+
+" Be not:' This is plain.
+
+
+
+### Verse 5
+
+###### Radak on Zechariah 1:5:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:5:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:5:1)
+
+
+**אבותיכם איה הם.**הלא תראו כי תמו בחרב ברעב ובדבר כמו שהנביאים היו אומרים להם:
+
+
+" Your fathers, where are they?" Do ye not see that they have been consumed by the sword, the famine, and the pestilence, as the prophets said to them ?
+
+
+###### Radak on Zechariah 1:5:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:5:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:5:2)
+
+
+**והנביאים הלעולם יחיו.**והנביאים שהיו מוכיחים אותם יוכלו לחיו' לעולם ולהוכיחם כבר הוכיחם ולא שמעו אך תראו שהכל הגיע אליהם כמו שאמרו להם זהו שאמר אך דברי וחקי ורז"ל פי' כי והנביאים תשובת העם שאמרו תשובה נצחת השיבה כנסת ישראל לנביא אמר להם חזרו בתשובה אבותיכם שחטאו איה הם אמרו לו והנביאים שלא חטאו איה הם היכן הם וחזרו והודו לו:
+
+
+" And the prophets, do they live for ever ?'' The prophets, who reproved them, could they live for ever, and reprove them ? He reproved them already, and they did not hearken. But see how every thing has happened to them, as the prophets announced, and as is said (in the following verse), "But my words and statutes," Our Rabbis, of blessed memory, have interpreted the words, "The prophets, where are they," as the answer of the people. They say that the congregation of Israel gave a controversial reply to the prophet. He said to them, Return in true repentance, for your fathers sinned, and where are they? The people answered him, And the prophets who did not sin, where are they ? But they afterwards repented and made confession to him.
+
+
+
+### Verse 6
+
+###### Radak on Zechariah 1:6:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:6:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:6:1)
+
+
+**אך דברי וחקי.** וחקי ר"ל גזרותי שגזרתי עליהם שימותו בחרב וברעב ובדבר ויגלו הנשארים הלא תראו שהשיגו את אבותיכם ובאו להם הכל כמו שצויתי את עבדי הנביאים שיאמרו להם והם עצמם שבו והתודו בעת החרבן זהו שאמר וישיבו ויאמרו:
+
+
+" But my words and statutes" My statutes, i. e. my evil decrees which I decreed concerning them, that they should die by the sword, and by famine, and by pestilence, and that the survivors should be led away captive, do ye not see that they have overtaken your fathers, and have all come upon them, as I commanded my servants the prophets to announce to them ? and they themselves repented and confessed this in the time of the desolation, as is said in the following verse, " And they returned and said."
+
+
+
+### Verse 7
+
+###### Radak on Zechariah 1:7:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:7:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:7:1)
+
+
+**ביום עשרים וארבעה לעשתי עשר חדש הוא חדש שבט.**שמות החדשים כמו שכתוב במגלת אסתר ובזה הספר לא ידענו אם הם לשון ארמי כי לא מצאנו אותם בשאר ספרי הקדש:
+
+
+" Upon the four and twentieth day of the eleventh month)' that is, the month Shevat. As to the names of the months, as they are written in the roll of Esther, and in this book we do not know whether they are Chaldee or not, for we do not find them in the other holy books.
+
+
+###### Radak on Zechariah 1:7:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:7:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:7:2)
+
+
+**היה דבר ה' אל זכריה.**בא לו מלאך ודבר עמו והראה לו זאת המראה שהוא מספר והולך:
+
+
+" The word of the Lord was to Zechariah." An angel came to him, and spake with him, and showed him this vision, which he is now narrating.
+
+
+
+### Verse 8
+
+###### Radak on Zechariah 1:8:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:8:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:8:1)
+
+
+**ראיתי הלילה.**מראות זכריה סתומות מאד כמראות דניאל ולא כן מראות שאר הנביאים כי כח הנבואה היתה הולכת ודלה מימי הגולה לפיכך לא בארו את דבריהם ולא הבינו המראות כאשר הם ואמר ראיתי הלילה במראות הלילה ראיתי זאת המראה שראיתי:
+
+
+"I saw by night." The visions of Zechariah are very obscure, like those of Daniel, but the visions of the other prophets are not so ; the reason is, that the power of prophecy had been gradually exhausting from the days of the captivity ; therefore, they did not make their words clear, and did not understand the visions as they were. He says, " I saw by night," i. e., in the visions of the night I saw this vision, in which I beheld -
+
+
+###### Radak on Zechariah 1:8:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:8:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:8:2)
+
+
+**איש רוכב על סוס אדום.**ומצאנו בדברי רז"ל פי' הפסוק כך ראיתי הלילה בקש הקב"ה להפך את כל העולם כולו ללילה והנה איש רוכב ואין איש אלא הקב"ה שנאמר ה' איש מלחמה על סוס אדום בקש הקב"ה להפוך את כל העולם לדם כיון שנסתכל בחנניה מישאל ועזריה מיד נתקררה דעתו שנ' והוא עומד בין ההדסים אשר במצולה ואין הדסים אלא צדיקים וכן הוא אומר ויהי אומן את הדסה ואין מצולה אלא בבל שנאמר האומר לצולה חרבי מיד שחורין נעשו שרוקים ואדומים לבנים שנאמר ואחריו סוסים אדומים שרוקים ולבנים ואחרי זה נפרש במראה מה שנוכל לפרש:
+
+
+"a man riding upon a red horse." We have found in the words of our rabbis of blessed memory, the following exposition of this verse : " I saw in the night, that the Holy One, blessed be He, sought to turn the whole world into night, and behold a man riding. This man is no other than the Holy One, blessed be He, for it is said, "The Lord is a man of war." "Upon a red horse.' The Holy One, blessed be He, sought to turn the whole world into blood, but when he looked upon Hannaniah, Mishael, and Azariah, his anger was cooled, for it is said, "And he stood among the myrtle-trees (hadassim.)" The myrtle- trees can mean nothing else but the righteous, for it is said, ' He brought up Hadassah.' (Esther 2:7) In like manner, "In the bottom,' means nothing else but Babylon, for it is said, "That saith to the deep, be dry." (Isaiah 44:27.) Immediately the black horses became speckled, and the red horses white, for it is said, ( And behind him red horses, speckled and white.' (Verse 8.)" But we shall endeavour to interpret the vision as well as we can. "
+
+
+###### Radak on Zechariah 1:8:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:8:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:8:3)
+
+
+**איש.**הוא מלאך ה' כמו והאיש גבריאל וכן אמר בסוף הענין מלאך ה' עומד בין ההדסים וראה אותו רוכב על סוס מורה למהירות שליחתו וטעם אדום ושאר הגוונים אפשר שנאמרו לטעם וכתב אדוני אבי ז"ל כי סוס אדום רמז לנבוכדנצר הנקרא רישא דדהבא והזהב הוא אדום פי' נבואתו היתה בארבע מלכיות כמו חלום נבוכדנצר ומראות דניאל ואף על פי שהסוסים הם היו במשל המלאכים שלוחי האל כמו שכתוב מ"מ רמז הוא לארבע מלכיות ופי' איש רוכב כי המלאכים מושלים בתחתונים וכל מעשה האל בארץ על ידם ובאמצעותם ושליחתו היתה לעקור מלכות בבל ואעפ"י שבזמן המראה הזאת כבר נעקרה מלכות בבל נראה לו המראה שלימה כמו שהיתה מפני המלכיות השלש העתידות ובזמן מלכות פרס היתה מראה זאת כמו שאמר בשנת שתים לדריוש:
+
+
+A man." That is, the angel of the Lord, as in Daniel 9:21 , " The man Gabriel; " and so we read further on, " The angel of the Lord that stood between the myrtle- trees." He saw him riding upon a horse, to denote his speed in embassy. As to the meaning of the word " red,'* and the other colours, it may be that some definite meaning was intended by them ; and my lord my father, of blessed memory, has written, that the red horse is typical of Nebuchadnezzar, who is called the head of gold, and gold is red; for this prophecy refers to the four king- doms, like the dream of Nebuchadnezzar, and the visions of Daniel. And although the horses figuratively re- present the angels the messengers of God, there is, ne- vertheless, a reference to the four kingdoms. The vision of " a man riding," signifies that the angels rule over the lower world, and that all the work of God on earth is done by them and through their mediation. The object of the man's mission was to root up the kingdom of Babylon ; and although at the time of this vision the Babylonian monarchy had been already rooted out, the vision was exhibited to him complete, as it had been, on account of the three kingdoms that were still future. The vision happened in the time of the Persian monarchy, as is said, " In the second year of Darius."
+
+
+###### Radak on Zechariah 1:8:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:8:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:8:4)
+
+
+**והוא עומד בין ההדסים אשר במצולה.**הם ישראל והמשילם להדסים ר"ל לעצי הדס לפי שיש להם ריח טוב כן ישראל שבבבל יש להם ריח מצות ר"ל עומד ביניהם לעזרם ולהוציאם מהגלות:
+
+
+" And he stood amongst the myrtle-trees that were in the bottom." These signify Israel, and he compares them to myrtle-trees ; for as these have a good odour, so the Israelites in Babylon had the good odour of the com- mandments. He is represented as standing among them to help them, and deliver them from captivity. "
+
+
+###### Radak on Zechariah 1:8:5
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:8:5](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:8:5)
+
+
+**במצולה.**היא בבל:
+
+
+"In the bottom" This is Babylon.
+
+
+###### Radak on Zechariah 1:8:6
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:8:6](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:8:6)
+
+
+**ואחריו סוסים אדומים שרוקים ולבנים.**שרוקים מין צבע שלא נתברר אצלינו מה הוא וי"א שהיו שרוקים במסרק ואין לו טעם והנה שרוקים במראה הזאת במקום שחורים הנזכר במראה האחרת שהיא ארבע מרכבות וי"ת שרוקים במראה הזאת שחתין נוסחא אחרת קווחין, ואלה הסוסים מן הדומה לא היה עליהם רוכב וזה שהיה רוכב היה שר למלאכים האחרים לפיכך ראה אותו רוכב ואחריו סוסים אדומים אם נפרש סוס אדום על נבוכדנצר נפרש סוסים אדומים על בנו ועל בן בנו והנה הם כנגד המרכבה הראשונה שרוקים ולבנים כאלו אמר ואחריהם שרוקים ואחריהם לבנים והנה לא זכר כנגד המרכבה הרביעית כי לא ראה אותה בזאת המראה בעבור שהיתה רחוקה אף על פי שראה אותה במראות האחרות:
+
+
+" And behind him red horses, specified and white." " Speckled," a species of colour, but what colour is not clear to us. There are some who say, that it means, coloured with colouring stuff, but this is nonsense. The speckled horses in this vision, are instead of the black horses in the other vision of the four chariots. (Chap, vi.) The Targum of Jonathan renders " speckled" by JVinD, and according to another reading, ^rmp " bay." * So far as appears, these horses had no riders upon them : he that was riding was the prince or captain over the other angels, and therefore he saw him riding. " And behind him red horses." If we interpret " a red horse," of Nebuchadnezzar, then we should interpret the " red horses," of his son and grandson ; and, behold ! these answer to the first chariot (in chap. vi.). " Speckled and white.'" As if he had said. Behind them were speckled horses, and behind them again white. And, behold ! he does not mention any thing to answer to the fourth chariot, for he did not see it in this vision, on account of its distance, but in the other vision he did see it.
+
+
+
+### Verse 9
+
+###### Radak on Zechariah 1:9:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:9:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:9:1)
+
+
+**ואמר, הדובר בי.**הוא שאמר עליו היה דבר ה' אל זכריה:
+
+
+" And I said he that spake with me, said." This answers ,to what is said above, " The word of the Lord was to Zechariah."
+
+
+###### Radak on Zechariah 1:9:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:9:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:9:2)
+
+
+**אני אראך.**היה לו לומר אני אשמיעך כי לא הראה לו עוד אלא מראה הסוסים שהראה מתחילה לו אפשר כי אראך כמו אשמיעך כי חוש הראות נשאל לשאר החושים לפי שהוא החזק שבכלם כמו שאמר וכל העם רואים את הקולות ראה ריח בני ויתכן פי' אראך כמשמעו ואמר לו על זה המראה האחרת שהראה לו ארבע קרנות שהיא מבוארת מזאת ואף על פי שהוא לא הבינה עד שפירשה לו:
+
+
+" I will show thee" (literally, I will cause thee to see). He ought to have said, I will cause thee to hear, for he did not show him any thing more than the vision of the horses, which he had shown him from the beginning. " I will show thee," may mean, I will cause thee to hear ; for the sense of seeing is employed figuratively for the other senses, as it is said, " And all the people saw the thunderings." (Exodus 20:15) " See the smell of my son." (Genesis 27:27.) But the literal interpretation of " I will show thee," is also good, for it may refer to the other vision of the four horns, which is clearer than this, though he did not understand it until it was explained to him.
+
+
+
+### Verse 10
+
+###### Radak on Zechariah 1:10:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:10:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:10:1)
+
+
+**ויען האיש.**הוא רוכב הסוס ושמע הנביא שהמלאך הרוכב ענה אף על פי שהוא לא היה שואל אותו ואמר לו כי אלה הסוסים הם שלוחי האל ששלחם להתהלך בארץ על דרך שאמר השטן משוט בארץ ומתהלך בה ואפשר כי המלאך הרוכב לא ענה אל הנביא אלא פי' ויען כמו וענית ואמרת ויען איוב הראשון והנה שמע הנביא שרוכב הסוס היה אומר ושואל לאלה הסוסים אשר שלח ה' להתהלך בארץ מה ענין הארץ והם ענו ואמרו לו התהלכנו בארץ וראינו אותה יושבת ושוקטת ואלה כמו ולאלה וכן ודוד הגיד לאמר אחיתופל בקושרים כמו ולדוד ושני אנשים שרי גדודים היו בן שאול כמו לבן שאול והדומים להם:
+
+
+" And he answered.' He that was riding upon the horse. The prophet heard the angel riding on the horse answer, although he had not asked him anything; and he said to him, These horses arc the messengers of God, whom he hath sent to walk to and fro through the earth, in the same way as Satan said, " From going to and fro in the earth, and from walking up and down in it." (Job 1:7) But, perhaps, the angel that was riding, did not answer the prophet at all, but the word " answer," is to be taken, as in Deuteronomy 26:5, " Thou shalt answer, and say ; " and again, in Job 3:2, " And Job answered and said," where it occurs the first time. And then the sense may be, that the prophet heard the rider on the horse speaking to, and asking those horses, which the Lord had sent to walk to and fro through the earth, what was the state of the earth : * and they answered and said, " We have walked to and fro through the earth, and have seen it sitting still, and at rest." " These," may signify " to these;" and thus (the preposition is omitted in the following cases), " One told David, saying, Ahitophel is among the conspirators." Here David is the same as " to David." (II Samuel 15:31.) And again, " And two men, captains of bands, were the son of Saul," i. e., to the son of Saul; and there are other similar passages.
+
+
+
+### Verse 11
+
+###### Radak on Zechariah 1:11:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:11:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:11:1)
+
+
+**ויענו.** מבואר הוא:
+
+
+" And they answered." This is plain.
+
+
+###### Radak on Zechariah 1:11:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:11:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:11:2)
+
+
+**יושבת ושוקטת.**ראינו שלות העכו"ם וישראל בצער לפיכך ענה המלאך ואמר עד מתי אתה לא תרחם את ירושלם:
+
+
+" Sitteth still and is at rest" i. e., We have seen the peace of the Gentile nations, and Israel in trouble, there- fore the angel answered and said, " How long wilt thou not have mercy upon Jerusalem ? "
+
+
+
+### Verse 12
+
+###### Radak on Zechariah 1:12:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:12:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:12:1)
+
+
+**ויען.**זהו העומד בין ההדסים שהיה לעזרת ישראל או המלאך הדובר לנביא והוא הנכון:
+
+
+And the angel of the Lord answered" i. e., either he who was standing among the myrtle-trees, who was for the help of Israel, or the angel that was speaking with the prophet ; mid this last is the true (interpretation).
+
+
+###### Radak on Zechariah 1:12:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:12:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:12:2)
+
+
+**עד מתי אתה לא תרחם את ירושלם.**כי בעוד שישקטו העכו"ם לא יצאו מהגלות עד אבוד מלכות בבל והנה המראה הזאת כבר עבר ענינה בזמן שראה אותה אלא שהראה לו מה שעבר בעבור הראותו כי שלות בבל וחורבנה הכל מאת האל יתברך באמצעות המלאכים המנהיגים וכי הם משתדלים בטוב ישראל וכן ממשלת השלש מלכיות הנותרות ומפלתם הכל יהיה מאת האל יתברך כמו שהראוהו מה שהיה במלכות בבל שעברה:
+
+
+" How long wilt thou not have mercy upon Jerusalem ?" As long as the Gentile nations are at rest, (Israel) cannot go forth from captivity, nor, until the destruction of Babylon. And, behold! the subject of this vision was long past at the time when he saw it; but the angel shows him the past, in order to let him see that the prosperity of Babylon and its desolation were all from God, blessed be He, through the mediation of the conducting angels,t and that they were employed in promoting the welfare of Israel ; and that the three remaining kingdoms and their fall should also be from God, according to what he had shown him of the Babylonian monarchy, which was past.
+
+
+###### Radak on Zechariah 1:12:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:12:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:12:3)
+
+
+**אשר זעמתה זה שבעים שנה.**אם על מה שעבר כמו שפירשנו היו שבעים שנה למלכות בבל וזעומה היתה כל מלכות נבוכדנצר או אמר זה שבעים שנה על זמן המראה שהיתה בשנת שתים לדריוש ואז שלמו לחורבן ירושלם שבעים שנה ואע"פ שזו המראה היתה בחדש שבט והם החלו לבנות בחדש כסליו אעפ"י כן זעומה היתה עדיין וכל זמן בנותם העיר במלחמה היו עם צריהם:
+
+
+"against which thou hast had just indignation these threescore and ten years." If these words refer to the past, as we have interpreted, then the seventy years refer to the kingdom of Babylon, and the indignation was that which existed during the whole time of Nebuchadnezzar. Or, the seventy years may have been mentioned in reference to the time of the vision, which was in the second year of Darius; at which time the seventy years were complete for the desolation of Jerusalem. For although this vision was in the month Shevat: and they had begun to build in Kislev, nevertheless the indignation still continued, and during all the time of the building the city, they were at war with their enemies.
+
+
+
+### Verse 13
+
+###### Radak on Zechariah 1:13:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:13:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:13:1)
+
+
+**ויען, דברים נחומים.**חסר הנסמך ופי' דברים דברי נחומים או הוא שם תאר והוא הנכון:
+
+
+" And the Lord answered .... words, comforts," The governing word is omitted. The absolute form, is to be interpreted as if it were "words of comfort ; " or it may be an adjective, and this is the fact.
+
+
+
+### Verse 14
+
+###### Radak on Zechariah 1:14:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:14:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:14:1)
+
+
+**ויאמר.**הדברים הטובים שאמר לו האל יתברך אמר לי שאקרא אותם באזני ישראל לנחמם:
+
+
+" And the angel said to me" The good words which God, blessed be He, spake to him, he spake to me, that I might proclaim them in the ears of Israel to comfort them.
+
+
+
+### Verse 15
+
+###### Radak on Zechariah 1:15:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:15:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:15:1)
+
+
+**וקצף, השאננים.**ר"ל כמו שאמר יושבת ושוקטת:
+
+
+"I am sore displeased heathen at ease" that is, as is said above, " Sitteth still, and is at rest."
+
+
+###### Radak on Zechariah 1:15:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:15:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:15:2)
+
+
+**אני קצפתי מעט.**אני קצפתי על ישראל מעט להגלותם מארצם ומעט הוא כנגד מה שהרעו הם לישראל אחר גלותם:
+
+
+" I was a little displeased" I was a little displeased with Israel, so as to carry them captive from their land, and this word, a "little' is put in contrast to what they (the Gentiles) had done to Israel after their captivity.
+
+
+###### Radak on Zechariah 1:15:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:15:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:15:3)
+
+
+**עזרו לרעה.**להרע להם יותר מדאי וכן אמר בישעיה קצפתי על עמי חללתי את נחלתי ואתנם בידך לא שמת להם רחמים על זקן הכבדת עולך מאד:
+
+
+"Helped fonvard the affliction " by doing them evil, more than enough, and so it is said in Isaiah, " I was wroth with my people, I profaned my inheritance, and delivered them into thy hand, but thou showedst them no mercy ; upon the ancient hast thou heavily laid thy yoke." (Isaiah 47:6.)
+
+
+
+### Verse 16
+
+###### Radak on Zechariah 1:16:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:16:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:16:1)
+
+
+**לכן כה אמר ה', וקוה.**כתיב בה"א במשקל נוה וקרי בלא ה"א והוא קו הבנין החוט שנוטין על הנדבך:
+
+
+" Therefore thus saith the Lord" the Kethib has a heh at the end, like (a dwelling). The Keri is without the heh. The word signifies a building line, a cord, which they stretch over the row of bricks.
+
+
+
+### Verse 17
+
+###### Radak on Zechariah 1:17:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:17:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:17:1)
+
+
+**עוד קרא, תפוצנה ערי מטוב.**מרוב טובה ושלוה שיהיה להם תפוצנה הנה והנה כלומר שירבה היישוב:
+
+
+" Cry yet through good shall be spread abroad" On account of the abundance of good and prosperity that they shall have, they shall be spread abroad ; that is to say, the inhabited part shall increase.
+
+
+###### Radak on Zechariah 1:17:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:17:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/1:17:2)
+
+
+**ונחם.**פתח והוא מבנין הדגוש:
+
+
+- has pathach, and is from a dageshed conjugation.
+
+
+
+## Chapter 2
+
+
+### Verse 1
+
+###### Radak on Zechariah 2:1:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:1:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:1:1)
+
+
+**ואשא.**במראה הזאת שב לראות מראה אחרת שהיא מבוארת מן הראשונה כי הבין ממנה כי הקרנות הם לנגח כמו וקרני ראם קרניו בהם עמים ינגח יחדיו אבל לא הבין מי היו אלה הקרנות:
+
+
+###### Radak on Zechariah 2:1:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:1:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:1:2)
+
+
+**ד' קרנות.**הם ד' מלכיות והם מלכות בבל מלכות פרס ומדי ומלכות יון וכן ת"י ארבע מלכוון וארבעתם הרעו לישראל כמו שפי' המלאך אשר זרו את יהודה את ישראל וירושלם:
+
+
+
+### Verse 2
+
+###### Radak on Zechariah 2:2:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:2:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:2:1)
+
+
+**ואמר, אשר זרו.**נגחו עוד אותם עד שזרו אותם הנה והנה כל אחת מהקרנות בזמנה הרעו להם כי מלכות פרס אף על פי שהעלם מהגלות בתחלת מלכותם אחרי כן הרעו להם בימי ארתחששתא הראשון ובימי אחשורוש עד שנת שתים לדריוש:
+
+
+
+### Verse 3
+
+###### Radak on Zechariah 2:3:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:3:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:3:1)
+
+
+**ויראני ה' ארבעה חרשים.**אומנים כמו חרש עצים כלו' לגדע הקרנות כלומר כל מלכות תהיה חרש לה לגדע המלכות הקודמת לה כי מלכות בבל נפלה ביד פרס ומלכות פרס נפלה ביד יון ויון ביד רומי, ורומי תפול ביד ישראל או יהיה החרשים משל על המלכים שרי מעלה הממונים על המלכיות ורז"ל פירשו הפסוק לימות המשיח ואמרו מאן נינהו ארבע חרשים א"ר שמעון חסידא משיח בן דוד ומשיח בן יוסף ואליהו וכהן צדק:
+
+
+
+### Verse 4
+
+###### Radak on Zechariah 2:4:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:4:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:4:1)
+
+
+**ואמר, כפי איש לא נשא ראשו.**נגחו וזרו אותם כשיעור שלא נשא איש מבני ישראל ראשו מפניכם כפי פירוש כשיעור וכן איש כפי אכלו וכן תרגם יונתן ולא שביק אינש להלכא בקומה זקופה:
+
+
+###### Radak on Zechariah 2:4:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:4:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:4:2)
+
+
+**לידות.**להשליך כמו וידו אבן בי:
+
+
+
+### Verse 5
+
+###### Radak on Zechariah 2:5:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:5:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:5:1)
+
+
+**ואשא.**במראה הזאת שב לראות מראה אחרת ויתכן שתהיה מראה זאת עתידה לימות המשיח כמו מראות יחזקאל שמדד המלאך ירושלם ארכה ורחבה:
+
+
+###### Radak on Zechariah 2:5:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:5:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:5:2)
+
+
+**חבל מדה.**חבל שמודדין בה וזה האיש היה מלאך אחר לא הדובר בו:
+
+
+
+### Verse 6
+
+###### Radak on Zechariah 2:6:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:6:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:6:1)
+
+
+**ואמר, למד.**מקור מן מדד כמו לרוס את הסלת מן רסס רב לכם סוב מן סביב:
+
+
+
+### Verse 7
+
+###### Radak on Zechariah 2:7:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:7:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:7:1)
+
+
+**והנה.**ויאמר אליו רוץ דבר אל הנער הלז והוא לא אמר לו לפי שהמלאך הזה היה דובר בו מתחילה אמר לו שידבר אליו זה כי אף על פי שראה המלאך מודד ארץ ירושלם ורחבה:
+
+
+###### Radak on Zechariah 2:7:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:7:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:7:2)
+
+
+**פרזות תשב.**כלומר מחוץ לעיר ישבו רבים כי לא תכיל אותם העיר אף על פי שתארך ותרחב מאד ממה שהיתה ישבו חוצה לה רבים ערי פרזות מאין חומה דלתים ובריח כי בבטחה ישבו שלא יפחדו מאדם כי אני אהיה לה חומת אש:
+
+
+
+### Verse 8
+
+###### Radak on Zechariah 2:8:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:8:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:8:1)
+
+
+**ויאמר, הנער.**אפשר כי נער היה בשנים בהנבאו כמו שמואל וירמיהו או היה משרת נביא אחר גדול ממנו לפיכך קראו נער כמו ויהושע בן נון נער:
+
+
+
+### Verse 9
+
+###### Radak on Zechariah 2:9:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:9:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:9:1)
+
+
+**ואני אהיה, חומת אש.**שלא יגע אדם בהם לרעה כמו שלא יגע באש שלא יכוה אותו:
+
+
+###### Radak on Zechariah 2:9:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:9:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:9:2)
+
+
+**ולכבוד אהיה בתוכה.**ענין הכבוד החופף עליהם כמו שכתוב בנבואת ישעיה וברא ה' על מכון הר ציון וגו':
+
+
+
+### Verse 10
+
+###### Radak on Zechariah 2:10:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:10:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:10:1)
+
+
+**הוי הוי.**לשון קריאה והכפל לחזק וכן הוי ציון המלטי:
+
+
+###### Radak on Zechariah 2:10:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:10:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:10:2)
+
+
+**ונוסו מארץ צפון.**אמר כנגד הנשארים בבבל שלא עלו בראשונה שימהרו לצאת ולשוב ירושלם ולבנות הבית כי הגיע זמנו זהו ונוסו כוי"ו נרדם ורכב וסוס ומורה על מלה חסרה כלומר צאו ונוסו:
+
+
+###### Radak on Zechariah 2:10:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:10:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:10:3)
+
+
+**כי כארבע רוחות השמים.**ר"ל כי זה שאמרתי שיצאו מהגלות לא אמרתי אלא אותם שגלו לבבל כמו שאמר יושבת בת בבל כי השאר רחוקים הם מהם כי אני פרשתי אותם בגלות כמו ארבע רוחות שהם רחוקות זו מזו ארבע פאות העולם מזרח רחוק ממערב וצפון רחוק מדרום כן רחוקים ישראל זה מזה בגלותם ולא הגיע זמנם לצאת עדיין אלא גלות יהודה הגיע זמנו לצאת לפיכך אמר הוי ציון המלטי והוא שבט יהודה ובנימין כי הם היו יושבים בציון ורז"ל דרשו בארבע רוחות כמו שאי אפשר לעולם בלא ארבע רוחות כך אי אפשר לעולם בלא ישראל:
+
+
+
+### Verse 12
+
+###### Radak on Zechariah 2:12:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:12:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:12:1)
+
+
+**כי כה אמר, אחר כבוד שלחני.**אחר הכבוד שהבטיח אתכם כמו שכתוב בנבואה למעלה שתכליתה ולכבוד אהיה בתוכה אחר זה שלחני אל הגוי השוללים אתכם כי אין די לאל יתברך בטובה שישלם לכם תמורת הרעה שהגיע לכם בגלות עד שיקח נקמה מאויביכם אשר שללו אתכם:
+
+
+###### Radak on Zechariah 2:12:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:12:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:12:2)
+
+
+**כי הנוגע בכם.**הנוגע בכם לא ינקה כאדם שנוגע בבבת עינו והיא אישון העין שינקר אותו אם יגע בו בחזקה כן הנוגע בכם להרע יגע בנפשו:
+
+
+
+### Verse 13
+
+###### Radak on Zechariah 2:13:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:13:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:13:1)
+
+
+**כי הנני, והיו שלל לעבדיהם.**ר"ל האומות יהיו שלל לישראל שהיו עבדיהם בגלות:
+
+
+###### Radak on Zechariah 2:13:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:13:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:13:2)
+
+
+**וידעתם.**אז בהגיע זאת הנבואה תדעו כי ה' צבאות שלחני וזה יהיה לעתיד בימות המשיח:
+
+
+
+### Verse 14
+
+###### Radak on Zechariah 2:14:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:14:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:14:1)
+
+
+**רני ושמחי.**יתכן לפרש נבואה זו עד ממעון קדשו עתידה לימות המשיח בעבור שאמר ונלוו גוים רבים:
+
+
+###### Radak on Zechariah 2:14:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:14:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:14:2)
+
+
+**הס כל בשר.**ולא ראינו זה בבית שני אלא ששאר כל הפרשה ענינה בבית שני שדבר על יהושע ועל זרובבל:
+
+
+
+### Verse 15
+
+###### Radak on Zechariah 2:15:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:15:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:15:1)
+
+
+**ונלוו.**מבואר הוא והוא לשון חבור:
+
+
+
+### Verse 16
+
+###### Radak on Zechariah 2:16:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:16:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:16:1)
+
+
+**ונחל, יהודה.**שהוא חלק האל יתברך אז ינחל אותו האל יתברך שיהיה נחלתו על אדמת הקדש שיצא מהגלות ויהיה נחלת האל על אדמת הקדש והפסוק הזה כמו כי חלק ה' עמו יעקב חבל נחלתו וזכר יהודה לפי שהוא ראש ממלכות ישראל ואם בבית שני יהודה הוא ששב מהגלות:
+
+
+
+### Verse 17
+
+###### Radak on Zechariah 2:17:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:17:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:17:1)
+
+
+**הס.**שתוק כמו שפירשנו:
+
+
+###### Radak on Zechariah 2:17:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:17:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/2:17:2)
+
+
+**כי נעור ממעון קדשו.**הוא השמים ואמר נעור ע"ד משל כאיש אשר יעור משנתו ע"ד שאמר ויקץ כישן ה' ונעור מבנין נפעל מנחי העי"ן על משקל נבון נכון אעפ"י שהם בקמץ הנו"ן וזה בצר"י:
+
+
+
+## Chapter 3
+
+
+### Verse 1
+
+###### Radak on Zechariah 3:1:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:1:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:1:1)
+
+
+**ויראני.**השטן משל לסנבלט וחבריו שהיו שוטנים אותם ומשביתים ממלאכתם וי"ת וחטאה קאים על ימיניה לאסטנא ליה:
+
+
+
+### Verse 2
+
+###### Radak on Zechariah 3:2:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:2:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:2:1)
+
+
+**ויאמר ה'.**הוא המלאך ונקרא בשם רבו וכן בדבר גדעון ובמקומות אחרים:
+
+
+###### Radak on Zechariah 3:2:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:2:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:2:2)
+
+
+**ויגער ה'.**הוא האל יתברך:
+
+
+###### Radak on Zechariah 3:2:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:2:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:2:3)
+
+
+**הבוחר בירושלם.**לבנותה ולא תוכל לשטנו:
+
+
+###### Radak on Zechariah 3:2:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:2:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:2:4)
+
+
+**הלא זה אוד מוצל מאש.**כמו אוד הדולק שיסירו אותו מהאש שלא ידלק עוד וכן זה מוצל מאש הגלות לבא לירושלם ולבנות הבית ולכהן בו ורז"ל דרשו בו כמשמעו שהיה עם צדקיהו ואחאב אשר קלם מלך בבל באש והם נשרפו והוא נצול כמו שאמר בדרש ההוא וכת"י:
+
+
+
+### Verse 3
+
+###### Radak on Zechariah 3:3:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:3:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:3:1)
+
+
+**ויהושע היה לבוש בגדים צואים.**פי' כי זה משל על בניו שנשאו נשים נכריות וכת"י ויהושע הוו ליה בנין דנסבין להון נשין דלא כשרן לכהונתא וכך אמרו רז"ל כי על עון שהיו בניו נושאין נשים שאינם הגונות לכהונה ולא מיחה בידם אמר זה שנאמר ויהושע היה לבוש בגדים צואים וכי דרכו של יהושע היה ללבוש בגדים צואים אלא שהיו בניו נושאים נשים שאינם הגונות לכהונה ולא מיחה בידם וכן כתוב בעזרא וימצא מבני הכהנים אשר הושיבו נשים נכריות מבני ישוע בן יהוצדק ואחיו וגו':
+
+
+
+### Verse 4
+
+###### Radak on Zechariah 3:4:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:4:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:4:1)
+
+
+**ויען.**המלאך אמר אל המלאכים האחרים העומדים לפניו כי הוא היה גדול מהם והוא היה שולחם ות"י לדמשמשין קדמוהי:
+
+
+###### Radak on Zechariah 3:4:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:4:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:4:2)
+
+
+**הסירו.**רמז שיבדילו מהנשים הנכריות:
+
+
+###### Radak on Zechariah 3:4:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:4:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:4:3)
+
+
+**עונך.**פי' כי הבגדים הצואים הם משל לעון:
+
+
+###### Radak on Zechariah 3:4:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:4:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:4:4)
+
+
+**מחלצות.**הם חליפות בגדים נקיים וזה משל על הזכיות כלומר כיון שיוסר העין יראו בך הזכיות וכן ת"י ואלבש יתך זכוון:
+
+
+
+### Verse 5
+
+###### Radak on Zechariah 3:5:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:5:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:5:1)
+
+
+**ואמר.**אמר זכריה הנביא אמרתי אל המלאך ישימו צניף טהור על ראשו אחר שצוית להסיר הבגדים הצואים מעליו והלבש אותו מחלצות צוה גם כן שישימו צניף טהור על ראשו לחנכו להיותו כהן גדול שהיתה מצנפת על ראשו:
+
+
+###### Radak on Zechariah 3:5:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:5:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:5:2)
+
+
+**וילבישוהו בגדים.**וכבר הלבישוהו בגדים כי הנה אמר והלבש אותך מחלצות קודם שזכר זכריה הנביא וכן וירם תולעים ויבאש וכבר באש כי כל דבר יבאש קודם שירם תולעים וכן הן אתה קצפת ונחטא והדומים להם:
+
+
+###### Radak on Zechariah 3:5:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:5:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:5:3)
+
+
+**ומלאך ה' עומד.**כן ראה במראה הנבואה כי עד שישימו הצניף הטהור על ראשו עמד מלאך ה' שלא הלך מעיניו:
+
+
+
+### Verse 6
+
+###### Radak on Zechariah 3:6:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:6:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:6:1)
+
+
+**ויעד מלאך ה'.**העיד בו זה הדבר כמו העדותי בכם העד העיד בנו האיש ונפתחה העי"ן מפני שהיא גרונית כי היה משפטו ויעד כמו וישב את כל הרכוש:
+
+
+
+### Verse 7
+
+###### Radak on Zechariah 3:7:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:7:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:7:1)
+
+
+**כה אמר, תדין את ביתי.**לפי שהיה כהן גדול ועל פיו יעשו שאר הכהנים:
+
+
+###### Radak on Zechariah 3:7:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:7:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:7:2)
+
+
+**ונתתי.**אתן לך והוי"ו כוי"ו ויהי ביום השלישי וישא אברהם את עיניו:
+
+
+###### Radak on Zechariah 3:7:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:7:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:7:3)
+
+
+**מהלכים בין העומדים האלה.**הם המלאכים שהם עומדים וקיימים לעולם ר"ל תלך ביניהם וזה רמז לנשמתו בהפרדו מהגוף וי"ת ובאחיות מיתיא וגו':
+
+
+
+### Verse 8
+
+###### Radak on Zechariah 3:8:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:8:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:8:1)
+
+
+**שמע נא, ורעיך.**שאר הכהנים:
+
+
+###### Radak on Zechariah 3:8:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:8:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:8:2)
+
+
+**כי אנשי מופת המה.**ראויים הם להעשות להם מופת על ידם ורז"ל דרשו מאן נינהו אנשי מופת אנשים שנעשה להם מופת זהו חנניה מישאל ועזריה:
+
+
+###### Radak on Zechariah 3:8:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:8:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:8:3)
+
+
+**כי הנני מביא את עבדי צמח.**פי' בו זה זרובבל וטעם מביא וכבר בא ר"ל להגדיל עוד מעלתו ותצמח גדולתו כצמח האדמה שהולך וגדל וכן אמר עוד למטה הנה איש צמח שמו ומתחתיו יצמח ובנה את היכל ה' וכן אמר חגי הנביא אקחך זרובבל וגו' כמו שפירשנו וי"מ כי צמח זה המלך המשיח אמר אף על פי שזאת הישועה אני מביא לכם עוד אביא לכם ישועה גדולה ממנה בזמן שאביא את עבדי צמח ועוד דרשו בו כי המשיח מנחם שמו ומנחם בגימטריא צמח וכת"י ית עבדי משיחא:
+
+
+
+### Verse 9
+
+###### Radak on Zechariah 3:9:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:9:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:9:1)
+
+
+**כי הנה האבן.**הוא אבן הבדיל שמיישרין בו הבנין או פי' האבן שישימו תחלה ישימנה זרובבל לפני יהושע כמ"ש למטה והוציא האבן הראשה:
+
+
+###### Radak on Zechariah 3:9:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:9:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:9:2)
+
+
+**על אבן אחת שבעה עינים.**על כל אבן ואבן יהיו שבעה עינים ר"ל שמירות רבות מאת האל ית' מפני הצרים החושבים להשבית מלאכתם ואלה הם שבעה עיני ה' שאמר למטה:
+
+
+###### Radak on Zechariah 3:9:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:9:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:9:3)
+
+
+**ושבעה.**הוא סך חשבון על הרוב אינו שבעה דוקא וכן שבע כחטאתיכם שבע יפול צדיק וקם והדומים ואבי אדוני ז"ל פי' שבעה דווקא והם יהושע עזרא זרובבל נחמיה וג' נביאים חגי זכריה ומלאכי ותרגם יונתן שבע עיינין חזן ליה:
+
+
+###### Radak on Zechariah 3:9:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:9:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:9:4)
+
+
+**הנני מפתח פתוחה.**כאלו היתה האבן קשורה כל הימים שבטלו המלאכה ועתה יפתח אותה וישם אותה בבנין ויתכן לפרשו מענין ופתחת עליהם פתוחי חותם ולפי שהשלמת תכונת האבן היפה הציורים והפרחים והכפתורים שיציירו בה בפתוח אמר כן עד"מ כלומר הנני משלימם לבנין בכל תכונתה:
+
+
+###### Radak on Zechariah 3:9:5
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:9:5](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:9:5)
+
+
+**ומשתי.**פעל יוצא לא משו פעל עמד וזה יהיה בזמן שהבטיחו הנביאים את זרובבל להגדיל מעלתו כמו שאמר חגי אקחך זרובבל ואמר זכריה הנני מביא את עבדי צמח ואז יהיו ישראל בשלום בבית שני לפיכך אמר תקראו איש לרעהו:
+
+
+###### Radak on Zechariah 3:9:6
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:9:6](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:9:6)
+
+
+**עון הארץ.**אפשר כמשמעו או יהיה פי' עונש כמו כי לא שלם עון האמרי כלומר שיסיר מהם בזמן ההוא כל רע וכל צרה ויחיו בשלום:
+
+
+
+### Verse 10
+
+###### Radak on Zechariah 3:10:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:10:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/3:10:1)
+
+
+**ביום ההוא, תקראו.**מרוב שלום שיהיה לכם:
+
+
+
+## Chapter 4
+
+
+### Verse 1
+
+###### Radak on Zechariah 4:1:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:1:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:1:1)
+
+
+**וישב, ויעירני.**בשאר המראות אמר ואשא עיני כי ראה מעצמו אבל זאת המראה המלאך העירו לראותה:
+
+
+###### Radak on Zechariah 4:1:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:1:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:1:2)
+
+
+**יעור משנתו.**מבנין נפעל ופי' הוא העירני ואני נתעוררתי כאיש אשר יעור משנתו:
+
+
+
+### Verse 2
+
+###### Radak on Zechariah 4:2:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:2:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:2:1)
+
+
+**ויאמר.**ויאמר כתיב והוא ספור דברי הכתוב וקרי ואמר והקרי דברי זכריה:
+
+
+###### Radak on Zechariah 4:2:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:2:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:2:2)
+
+
+**וגלה.**במפיק ואיננה לנקבה נסתרת וכמוהו כבכורה בטרם קיץ ותעלומה יוציא אור לא גשמה ביום זעם:
+
+
+###### Radak on Zechariah 4:2:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:2:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:2:3)
+
+
+**ושבעה נרותיה עליה.**כמו מנורת התורה. והאמצעי הוא רמז לענין האלוה המחבר בין ההפכים וכן שבע כפולות הם הפכים והמנהיגים לעולם שהיא כלו הפכים ז' כוכבי לכת והעולם שש צלעות ושלשה מישרים ובעל הצלעות הוא השביעי והוא הנקודה וכן גוף כל דבר אלא שבעל ספר יצירה זכר בעולם שש צלעות לששה צדדים והיכל הקדש מכוון באמצע זכר הדבר הנכבד שבכל הנוצרים:
+
+
+###### Radak on Zechariah 4:2:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:2:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:2:4)
+
+
+**עליה.**על המנורה והגולה למעלה מהם והראה לו זאת המראה להודיעו כי האל יתברך יאיר לישראל הפך מה שהיו בחשכה:
+
+
+###### Radak on Zechariah 4:2:5
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:2:5](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:2:5)
+
+
+**שבעה ושבעה מוצקות לנרות.**שבע מוצקות היו לה לכל נר מצוקה אחד, ורש"י ז"ל פירש שבעה ושבעה מוצקות לכל נר שבעה מוצקות מוצקות שם תאר במקום פעל שהיו מוציקות שמן מנר לנר:
+
+
+
+### Verse 3
+
+###### Radak on Zechariah 4:3:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:3:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:3:1)
+
+
+**ושנים זיתים.**ועוד ראיתי שנים זיתים על המנורה או על הגלה ואחד הוא:
+
+
+###### Radak on Zechariah 4:3:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:3:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:3:2)
+
+
+**אחד מימין הגלה ואחד על שמאלה.**כמו משמאלה אבל אמר כי על הגלה היו ולמטה אמר על ימין המנורה ועל שמאלה והענין אחד:
+
+
+
+### Verse 4
+
+###### Radak on Zechariah 4:4:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:4:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:4:1)
+
+
+**ואען.**מבואר הוא:
+
+
+
+### Verse 5
+
+###### Radak on Zechariah 4:5:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:5:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:5:1)
+
+
+**ויען.**מבואר הוא:
+
+
+
+### Verse 6
+
+###### Radak on Zechariah 4:6:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:6:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:6:1)
+
+
+**ויען לא בחיל ולא בכח.**כמו שראית מעשה המנורה נעשה מאליו בלא אדם עורך את הנרות ומציק בהם את השמן כן יעשה בנין הבית בלא כח אדם אלא ברוח האל יתברך וברצונו ועוד יפרש לו המראה דרך פרט:
+
+
+
+### Verse 7
+
+###### Radak on Zechariah 4:7:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:7:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:7:1)
+
+
+**מי אתה הר הגדול.**אמר כנגד סנבלט וחבריו השוטנים אם תהיה כהר הגדול תהיה לפני זרובבל למישור ולא תוכל לעמוד לפניו להשבית המלאכה:
+
+
+###### Radak on Zechariah 4:7:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:7:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:7:2)
+
+
+**והוציא את האבן הראשה.**כמו שהוציא את האבן הראשה כשהחל הבנין ביום כ"ד לחודש התשיעי כן ישלים המלאכה:
+
+
+###### Radak on Zechariah 4:7:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:7:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:7:3)
+
+
+**תשואות חן חן לה.**כאשר שם זרובבל האבן הראשה בבנין שם אותם בתשואות והמון רב ואמרו כל העם חן חן לה לאבן הזאת מאת האל יתברך והכפל לחזק הענין כמו שלום שלום לרחוק:
+
+
+
+### Verse 8
+
+###### Radak on Zechariah 4:8:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:8:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:8:1)
+
+
+ויהי דבר ה',
+
+
+
+### Verse 9
+
+###### Radak on Zechariah 4:9:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:9:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:9:1)
+
+
+**ידי זרובבל תבצענה.**ר"ל תשלימנה וכן והיה כי יבצע ה' את כל מעשהו בהר ציון ישלים:
+
+
+
+### Verse 10
+
+###### Radak on Zechariah 4:10:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:10:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:10:1)
+
+
+**כי מי בז ליום קטנות.**כי כשהתחילו לבנות השביתו צריהם מלאכתם והנה היום ההוא יום תשואות קטנות היה והיו בוזים לאותו יום כל השנים ששבתה המלאכה ועתה כשיראו האבן הבדיל ביד זרובבל ישמחו:
+
+
+###### Radak on Zechariah 4:10:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:10:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:10:2)
+
+
+**האבן הבדיל.**הוא אבן המשקולת אשר ביד הבנאי ליישר הבנין והוא חסר הנסמך כאלו יאמר האבן אבן הבדיל ואותה המשקולת עושין אותה מבדיל או מעופרת ונקראת אבן כמו לא יהיה לך בכיסך אבן ואבן:
+
+
+###### Radak on Zechariah 4:10:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:10:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:10:3)
+
+
+**שבעה אלה.**פי' מה שאמר למעלה על אבן אחת שבעה עינים אלה הם עיני ה' שהם משוטטים בכל הארץ והוא רואה המצירים לישראל וישמרם מידם שלא ישלטו בהם:
+
+
+
+### Verse 11
+
+###### Radak on Zechariah 4:11:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:11:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:11:1)
+
+
+**ואען.**ענין המנורה הבין כי להראות אורה ושמחה הראה לו והמלאך פי' לו דבר המנורה שהיא נעשית מאליה להראותו כי לא בחיל ולא בכח ועתה שאל לו מה ענין שני זתים וענין שתי שבלי זיתים וענין שני צנתרות הזהב ואם לא נזכר במראה משאלתו נלמד שראה אותם וענה לו המלאך על שתי השאלות בקצרה וברמז ואמר לו שאלה שני בני היצהר והנביא הבין תשובתו:
+
+
+
+### Verse 12
+
+###### Radak on Zechariah 4:12:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:12:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:12:1)
+
+
+**ואען, שתי שבלי הזתים.**מהזתים האלה היו נופלים שני ענפי זתים שהיו נדרכים ביד שתי צנתרות הזהב והיו נדרכים מאליהם ופי' ביד בתוך והנה הזתים היו נדרכים בתוך הצנתרות והשמן נופל מהצנתרות אל הגולה ומהגולה יוצא למוצקות ומהמוצקות לנרות ודמה הענפים לשבלים לפי שהיו מלאים גרגרי הזתים כמו השבלים שהם מלאים גרגרי החטה צנתרות הם כלים כמין צפחת ות"י אסקריטון דדהב וכן תרגם אונקלוס כצפיחית בדבש איסקריטון בדבשא:
+
+
+###### Radak on Zechariah 4:12:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:12:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:12:2)
+
+
+**המריקים מעליהם הזהב.**השמן הזך כזהב וכן כוס זהב בבל ביד ה' היין הזך והנקי:
+
+
+
+### Verse 14
+
+###### Radak on Zechariah 4:14:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:14:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:14:1)
+
+
+**ויאמר אלה שני בני היצהר.**יצהר הוא השמן כמו דגן תירוש ויצהר לפיכך קרא אותם זתים והם זרובבל ויהושע וקראם בני היצהר לפי שנמשחו בשמן המשחה זה למלוכה וזה לכהונה:
+
+
+###### Radak on Zechariah 4:14:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:14:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/4:14:2)
+
+
+**העומדים על אדון כל הארץ.**שמזומנים לעשות רצונו ות"י אילין תרין בני רברבין דקיימין קדם רבון כל ארעא וענין שתי הזתים ושתי שבלים ושתי צנתרות לא נתפרש לאיזה ענין היו משל והנה הזתים משל לזרובבל ויהושע ושני השבלים היוצאין מהן משל למעשיהם שהחלו בידיהם בבנין הבית ושני צנתרות משל לנחמיה ועזרא הבאים אחריהם ועל ידי ארבעתם יצאה אורה וטובה לישראל:
+
+
+
+## Chapter 5
+
+
+### Verse 1
+
+###### Radak on Zechariah 5:1:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:1:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:1:1)
+
+
+**ואשוב, מגלה עפה.**ראה במראה מגילה אחת שתעוף באויר וכן תרגם יונתן מגילה פרחא:
+
+
+
+### Verse 2
+
+###### Radak on Zechariah 5:2:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:2:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:2:1)
+
+
+**ויאמר, ארכה עשרים אמה ורחבה עשר באמה.**לא נתברר על איזה זמן נאמר זאת הנבואה ונראה כי על זמן הנביא נאמר כי ראינו בספר עזרא הרבה עבירות שהיו בידם ועל הגנבה ועל שבועת שקר יצאו זאת האלה כי הגנבה אע"פ שאינה חמורה כשבועות שוא ושקר ממנה יבא לידי שבועת שקר ומה שראה מדת ארכה ומדת רחבה פי' המפרשים כי ראה אותה יוצאת מאולם הבית שהיה ארכו עשרים ורחבו עשר כבנין שבנה שלמה ואע"פ שהיה חרב אז והמגילה הזאת יצאה משם שהיתה שם פרושה כמדת האורך והרוחב וזהו שאמר היוצאת והוצאתיה:
+
+
+
+### Verse 3
+
+###### Radak on Zechariah 5:3:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:3:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:3:1)
+
+
+**ויאמר, זאת האלה.**הקללה:
+
+
+###### Radak on Zechariah 5:3:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:3:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:3:2)
+
+
+**על פני כל הארץ.**ארץ ישראל ות"י דא מומתא דעתידה למיפק וזו כענין מגילה שראה יחזקאל שהיתה כתובה פנים ואחור וכן זאת המגלה היתה כתובה מזה ומזה והיתה כתובה מצד אחד כל הגונב נקה ומצד אחד כל הנשבע נקה ופי' כמוה כמו כמוך כפרעה כמוני כמוך ר"ל כי המגלה היתה כתובה באלה ובקללה מצד זה כמו מצד זה ומצד זה כמו מצד זה ופי' נקה נכרת כמו ונקה לא אנקך נקה מבנין נפעל אף על פי שהארכתי להם עד עתה מעתה יקבלו פורענותם כי הגיע זמנם לפיכך יצאה זאת המגלה והנביא ראה המגלה ולא ראה הכתוב בה כמו יחזקאל עד שאמר לו המלאך כי כח הנבואה היתה הולכת ודלה לפיכך היו מראות זכריה סתומות ובחגי זכריה ומלאכי פסקה הנבואה:
+
+
+
+### Verse 4
+
+###### Radak on Zechariah 5:4:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:4:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:4:1)
+
+
+**הוצאתיה.**האלה הזאת הוצאתיה להעניש מעתה הגונב והנשבע ולא אאריך להם עוד:
+
+
+###### Radak on Zechariah 5:4:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:4:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:4:2)
+
+
+**ולנה בתוך ביתו.**תשכון האלה בתוך ביתו עד שתכלה אותו ואת עצי ביתו ואת אבניו:
+
+
+
+### Verse 5
+
+###### Radak on Zechariah 5:5:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:5:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:5:1)
+
+
+**ויצא, וראה.**כי אחר שהראהו מראה זו של מגלה עפה נעלם ממנו המלאך ואחר כך יצא והראהו מראות האיפה:
+
+
+###### Radak on Zechariah 5:5:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:5:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:5:2)
+
+
+**היוצאת.**יוצאת מבית ה' כמו הראשונה או פי' יוצאת מארץ ישראל ות"י מאן דגלן אלין:
+
+
+
+### Verse 6
+
+###### Radak on Zechariah 5:6:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:6:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:6:1)
+
+
+**ואמר, זאת האיפה היוצאת.**הראהו גלות עשרת השבטים שגלו כבר שהם שקועים בגלות לא יצאו עתה כמו שיצאו גלות יהודה ובנימן והראה לו איפה שהיא מדה ר"ל שהאל מדד להם מדה כנגד מדה כי כמו שהם עשו שהאריכו ימים רבים ברשעם מיום שנחלקה המלכות עד היום שגלו ולא היה להם מלך מכל מלכיהם שהחזירם למוטב אלא כולם הלכו בדרך רעה וכמו שהם האריכו ברעה כן יהיו בגלות ימים רבים זו היא מדה כנגד מדה לפיכך ראה הנביא איפה שהיא מדה:
+
+
+###### Radak on Zechariah 5:6:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:6:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:6:2)
+
+
+**ויאמר.**עינם בכל הארץ עוד פי' לו המלאך ואמר לו זאת עינם ר"ל זאת האיפה שאתה רואה מורה שעין יש עליהם שרואה מעשיהם וכן הוא רואה בכל הארץ כמו שאמר למעלה עיני ה' המה משוטטות בכל הארץ עינם ר"ל העין הרואה אותה הוא עין ה':
+
+
+
+### Verse 7
+
+###### Radak on Zechariah 5:7:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:7:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:7:1)
+
+
+**והנה ככר עופרת נשאת.**היתה נשאת:
+
+
+###### Radak on Zechariah 5:7:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:7:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:7:2)
+
+
+**בתוך האיפה.**ככר לשון נקבה כמו ככר לחם אחת עשרה ככרי כסף וככר העופרת מורה להכביד אותה ולהשקיעם בגלות:
+
+
+###### Radak on Zechariah 5:7:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:7:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:7:3)
+
+
+**וזאת אשה אחת יושבת בתוך האיפה.**הזאת למי היתה זאת האשה והיא עשרת השבטים שהיו במלכות אחת והלכו דרך אחת לרעה לפיכך קראה אשה אחת והיא יושבת בתוך האיפה שהיא מקבלת המדה שמרדה:
+
+
+
+### Verse 8
+
+###### Radak on Zechariah 5:8:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:8:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:8:1)
+
+
+**ויאמר זאת הרשעה.**אמר המלאך לנביא זאת האיפה שהיא הרשעה שהיתה בישראל והיא עשרת השבטים שעשו העגלים והחלו בעבודת הבעל:
+
+
+###### Radak on Zechariah 5:8:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:8:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:8:2)
+
+
+**וישלך אותה אל תוך האיפה.**לפיכך השליך אותה האל יתברך אל תוך האיפה שמדד לה כמדתה:
+
+
+###### Radak on Zechariah 5:8:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:8:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:8:3)
+
+
+**וישלך את אבן העופרת אל פיה.**להשקיעה בגלות ימים רבים, ופי' אל פיה אל פי האיפה ורשעה הוא שם דבר או שם התאר:
+
+
+
+### Verse 9
+
+###### Radak on Zechariah 5:9:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:9:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:9:1)
+
+
+**ואשא עיני, והנה שתים נשים.**לענין שפי' באשה אחת שהיא עשרת השבטים נפרש בשתי נשים שהם יהודה ובנימין שגלו לבבל אף על פי שכבר עלו מהגולה כשהיתה מראה זו הראה לו מראה על אותם שנשארו בבבל שנתעצלו לעלות לירושלם אף אחר שהחלו לבנות הבית ואמר שראה שתי נשים אלו יוצאות בגלות:
+
+
+###### Radak on Zechariah 5:9:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:9:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:9:2)
+
+
+**ורוח בכנפיהם.**כלומר שגלו קל מהרה לבבל:
+
+
+###### Radak on Zechariah 5:9:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:9:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:9:3)
+
+
+**ולהנה כנפים ככנפי החסידה.**כלומר כנפים ארוכות ורחבות כמו החסידה:
+
+
+###### Radak on Zechariah 5:9:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:9:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:9:4)
+
+
+**ותשנה את האיפה.**היו נושאות אותה על כנפיהם להראותם כי גלותם ביושר ובמדה שמדד להם האל תחת מעשיהם הרעים ומה שאמר בין הארץ ובין השמים הדבר ידוע כי המעופף הוא מעופף בין הארץ והשמים ברקיע השמים להראות כי אלה אינם כאשה הראשונה שאותה השליך ככר עופרת אל פיה להשקיעה בארץ במקום גלותה אלא אלה לא אמר להשקיעם בארץ אלא תלויות באויר עד זמן ששבו לארצם לשבעים שנה ומה שראה יהודה ובנימן כמראה שתים נשים ועשרת השבטים אשה אחת לפי ששבט יהודה היה מיוחד לבדו מפני המלוכה וצרף עמו שבט בנימן משאר השבטים לפי שהיה חלקם כאחד ושניהם גלו כאחד לפיכך אמר שתי נשים והחכם הגדול הרב רבי משה בר מיימון ז"ל פי' שתי נשים מלאכים ראה אותם כדמות נשים כמו שראה אותם כדמות סוסים גם כן מפני שתשש כח הנבואה בזמנו:
+
+
+
+### Verse 10
+
+###### Radak on Zechariah 5:10:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:10:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:10:1)
+
+
+**ואמר, אנה המה מוליכות את האיפה.**ולא שאל כן במראה הראשונה לפי שראה שהיו מוליכות אותה במהרה ומה שאמר כי הנשים היו מוליכות את האיפה ר"ל כי הם גרמו ששלם האל יתברך כמדתם וכאלו אמר הן מגלות עצמן:
+
+
+
+### Verse 11
+
+###### Radak on Zechariah 5:11:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:11:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:11:1)
+
+
+**ויאמר לבנות לה בית בארץ שנער.**לה רפה הה"א זהו ששלח להם ירמיה הנביא ארוכה היא בנו בתי' ושבו:
+
+
+###### Radak on Zechariah 5:11:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:11:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/5:11:2)
+
+
+**והוכן והניחה שם על מכונתה.**והוכן מושבם שם כלומר שבנו שם בתים וקבעו ישיבתם שם ועדיין הניחם שם על מכונתם כלומר הכנה שעשתה לה מבנין בתים ונטיעת כרמים נתעצלו לעלות מבבל אשר נשארו אחר שעלה עזרא ולא רצו לעלות אף אחר שהחלו לבנות הבית והניחה מלה מורכבת מן הניחה מבנין הפעיל והונחה מבנין הפעל וטעם ההרכבה כי מתחילה כשגלתה שם הונחה שם שלא ברצונם ואח"כ הניחה שם היא עצמה כלומר ברצונה עכבה שם ונתעצלה לעלות אל ירושלם:
+
+
+
+## Chapter 6
+
+
+### Verse 1
+
+###### Radak on Zechariah 6:1:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:1:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:1:1)
+
+
+**ואשוב, ארבע מרכבות יוצאות מבין שני ההרים וההרים הרי נחושת.**מראות ד' מלכיות שראה אותם פעמים עוד שב וראה אותם פעם שלישית מבוארת מן הראשונות וקרא אותם מרכבות והמרכבה ד' סוסים להראות חזקה של כל אחת בזמנה שמלכו בעולם וכל אחת הרעה לישראל ועוד ראה אותם שהיו יוצאות מבין שני ההרים וזה מורה על חזקם כחוזק ההרים וההרים הרי נחשת והוא הברזל החותך הנקרא אצי"ר בלע"ז ויש כמוהו במקרא ואחד מהם הולכי רכיל נחשת וברזל שפי' שהוא חזק מהאבן שהוא חותך ופוסל האבן ולתת להם חוזק יותר הראה אותו שהיו הרי נחשת ועוד זכר נחשת לשתוף השם כמו נחשתי ויברכני ה' בגלליך וביד הד' מלכיות ישראל מנוסים ונבחנים:
+
+
+
+### Verse 2
+
+###### Radak on Zechariah 6:2:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:2:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:2:1)
+
+
+**במרכבה.**רמז למלכות בבל כמו שפי':
+
+
+###### Radak on Zechariah 6:2:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:2:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:2:2)
+
+
+**סוסים שחורים.**הוא שאמר למעלה שרוקים והוא רמז למלכות מדי ופרס וקראם למעלה שרוקים והנה שחורים לפי שהם שתי אומות אע"פ שהם מלכות אחת וי"מ כי הראה לו גוון שחורים לפי שהושחרו במלכותם פניהם של ישראל וזה היה בימי המן וי"מ כי הגוונים האלו לפי מנהגם בצבע מלבושיהם והיתה אחת נוהגת בגוון שרוקים והאחת בגוון שחורים:
+
+
+
+### Verse 3
+
+###### Radak on Zechariah 6:3:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:3:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:3:1)
+
+
+**ובמרכבה השלישית, לבנים.**רמז למלכות יון ולא ידענו למה כנה אותם בלבנים וכתב רבי' סעדיה ז"ל כי מפני שהמלך הראשון ליון היה אלכסנדרוס מקדון שהיה חכם פילוסוף והחכמה הוא דבר לבן ומחוור לפיכך כנה המלכות ההיא בלבנים:
+
+
+###### Radak on Zechariah 6:3:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:3:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:3:2)
+
+
+**ובמרכבה הרביעית סוסים ברדים אמוצים.**במרכבה הזאת ראה שני גונים ברודים שהוא גוון שיש לו כתמים לבנים כדמות הברד והם בתוך גוון אחר ומה שהראה לו זה הגוון במלכות ישמעאל לפי שהם חושבים להחזיק בתורת משה שהיא לבנה כברד אבל מערבים אותה באמונות רבות כמו שהברד מעורב במראה שבהם אם מראה שחור או מראה אחר. אמוצים אמר בו התרגום קטמנין ר"ל שמראיה כמראה הדשן והמרכבה הזאת רמז למלכות רומי שהשפילה מלכות יון ומלכה היא בעולם וראה בה שני גוונים לפי שיש מלכות אחר עמה שמולכת בעולם והיא מלכות ישמעאל וכן אמר במלכות נבוכדנצר כמו שפתר אותה דניאל ומלכות פליגא תהוי:
+
+
+
+### Verse 4
+
+###### Radak on Zechariah 6:4:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:4:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:4:1)
+
+
+**ואען.**לפי שראה כבר שתי מראות בענין זה ובשניה שהוא ד' קרנות נתבאר לו יותר ממה שנתבאר לו בראשונה כמו שביאר לו המלאך ועתה בראותו ג"כ ד' מרכבות וידע כי לחדש דבר הראה אותם לו שאל את המלאך מה אלה אדוני כלומר מה באו לחדש כי כבר ראיתי המראות שהם רמז לד' מלכיות אם כן מה אלה לאיזה ענין הראיתי בהם:
+
+
+
+### Verse 5
+
+###### Radak on Zechariah 6:5:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:5:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:5:1)
+
+
+**ויען, אלה ארבע רוחות.**כמו לד' רוחות וכן ויבא ירושלם כמו לירושלם בן שאול כמו לבן שאול והדומים לו ר"ל אלה הד' מרכבות יוצאות לד' רוחות השמים כלומר לתת רשות לד' מלכיות למשול בד' רוחות כל אחת בזמנה כלומר בכל העולם שהוא ד' פאות:
+
+
+###### Radak on Zechariah 6:5:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:5:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:5:2)
+
+
+**מהתיצב על אדון כל הארץ.**כלומר בשליחות האל ששלחם על זה כמו שאמר ויבאו בני האלהים להתיצב על ה':
+
+
+
+### Verse 6
+
+###### Radak on Zechariah 6:6:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:6:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:6:1)
+
+
+**אשר בה.**ולא זכר האדומים כי כבר עברה מלכות בבל ומלכות מדי ופרס יצאו תחלה אל ארץ צפון שהיא בבל להשחיתה ואח"כ משלו בכל ממלכות הארץ והלבנים שהוא מלכות יון יצאו אל אחריהם שמלכותה גברה שהרי אלכסנדרוס מקדון המלך הראשון ליון הרג דריוש בבבל ולקח המלוכה ממנו ומלך אח"כ הוא והבאים אחריו בכל העולם:
+
+
+###### Radak on Zechariah 6:6:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:6:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:6:2)
+
+
+**והברדים יצאו אל ארץ התימן.**שהוא ארץ הדרום בעבור כי רומי היא צפונית ולוליאנוס קיסר שמלך על רומי החל להלחם במלכות יון ותחילת מלחמותיו יצאו אל ארץ מצרים שהיא דרומית ובכל הארצות היו מוליכים בני יון אז וזה לוליאנוס קיסר התגבר עליהם והוא העביר המלוכה מבני יון והחזירה לרומיים:
+
+
+
+### Verse 7
+
+###### Radak on Zechariah 6:7:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:7:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:7:1)
+
+
+**והאמצים.**הם רמז למלכות ישמעאל שהתאמצו מעצמם לבקש מלוכה לאיזה מקום שיהיה לפיכך לא תאר להם רוח וזהו שאמר ויבקשו ללכת להתהלך בארץ:
+
+
+###### Radak on Zechariah 6:7:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:7:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:7:2)
+
+
+**ויאמר.**כלומר נתן להם רשות להתהלך ולכבוש ארצות:
+
+
+
+### Verse 8
+
+###### Radak on Zechariah 6:8:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:8:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:8:1)
+
+
+**ויזעק.**כלומר קרא עלי בקול גדול ואמר לי ראה היוצאים אל ארץ צפון הניחו את רוחי בארץ צפון כלומר אלה השחורים שיצאו אל בבל להשחיתה עשו לי נחת רוח כשהשחיתו אותה הניחו את רוחי את כעסי שהיה לי עליהם שהרעו לישראל יותר מדאי כמו שאמר אשר אני קצפתי מעט והמה עזרו לרעה:
+
+
+
+### Verse 9
+
+###### Radak on Zechariah 6:9:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:9:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:9:1)
+
+
+ויהי:
+
+
+
+### Verse 10
+
+###### Radak on Zechariah 6:10:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:10:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:10:1)
+
+
+**לקוח.**מקור במקום צווי כמו הלוך וקראת:
+
+
+###### Radak on Zechariah 6:10:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:10:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:10:2)
+
+
+**מאת הגולה.**מאת הבאים מהגולה והם חלדי וטוביה וידעיה ויאשיהו והביאו כסף וזהב לנדבה לבנין הבית ובא דבר השם לנביא והודיעו זה ואמר לו שיקח הכסף והזהב ויעשה מהם עטרות:
+
+
+###### Radak on Zechariah 6:10:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:10:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:10:3)
+
+
+**ובאת אתה ביום ההוא.**ביום שתבא שם כי לא אמר לו שילך שם ביום הנבואה:
+
+
+###### Radak on Zechariah 6:10:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:10:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:10:4)
+
+
+**ובאת בית יאשיה בן צפניה.**כי בביתו היו האחרים וזהו שאמר אשר באו מבבל יאשיהו עם הנזכרים:
+
+
+
+### Verse 11
+
+###### Radak on Zechariah 6:11:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:11:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:11:1)
+
+
+**ולקחת.**תקח מהם כסף וזהב שהביאו בידם לנדבה:
+
+
+###### Radak on Zechariah 6:11:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:11:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:11:2)
+
+
+**ועשית עטרות.**תעשה ממנו שתים עטרות ותשים האחת בראש יהושע למנותו כהן גדול וזה כמו הצניף הטהור שהיו משימין על ראשו בנבואה כמו שאמר למעלה והעטרה האחת לא היה צריך להזכיר מה יעשה בה כי ידוע כי בראש זרובבל תהיה כי הוא היה במקום מלך ואין מלך בלא עטרה ואפשר כי קודם ששמו העטרה בראשו נקרא פחת כמו שכתוב פחת יהודה ואחר ששמו העטרה בראשו קראוהו מלך ואף על פי שלא נכתב מזה דבר יתכן מדרך הסברא לאמר כן:
+
+
+###### Radak on Zechariah 6:11:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:11:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:11:3)
+
+
+**ועשית.**לבן נפתלי מלרע השופר בתי"ו ולבן אשר מלעיל השופר בשי"ן וכמוהו אנו קוראים:
+
+
+
+### Verse 12
+
+###### Radak on Zechariah 6:12:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:12:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:12:1)
+
+
+**ואמרת, הנה איש צמח שמו.**כלומר הנה איש עמך שיהיה ראש ישראל והוא זרובבל ויקרא צמח כי מעלתו תהיה כמו צמח האדמה שיגדל מעט מעט כן מעלתו תעלה מעט מעט עד שתגדל מאד כמו שהתנבא עליו חגי ביום ההוא נאום ה' צבאות אקחך זרובבל וגו' ומתחתיו יצמח ממקומו כלו' מהמקום שהוא שם והוא ירושלם משם תבא לו המעלה:
+
+
+
+### Verse 13
+
+###### Radak on Zechariah 6:13:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:13:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:13:1)
+
+
+**והוא יבנה.**כפל הענין לחזק:
+
+
+###### Radak on Zechariah 6:13:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:13:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:13:2)
+
+
+**והוא ישא הוד.**הוד והדר מלכות ישא:
+
+
+###### Radak on Zechariah 6:13:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:13:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:13:3)
+
+
+**על כסאו.**כמו המלך היושב על כסאו ומושל בארץ:
+
+
+###### Radak on Zechariah 6:13:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:13:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:13:4)
+
+
+**והיה כהן על כסאו.**כלומר לפני כסאו כמו מהתיצב על אדון כל הארץ וכן אמר בספר שמואל והתהלך לפני משיחי כל הימים כי הכהן היה בא לפני המלך להורותו ולדבר עמו ולא היה המלך בא לפני הכהן אלא כשהיה שואל באורים ותומים כמו שכתוב ולפני אלעזר הכהן יעמד ושאל לו במשפט האורים לפני ה':
+
+
+###### Radak on Zechariah 6:13:5
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:13:5](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:13:5)
+
+
+**ועצת שלום תהיה בין שניהם.**כי לא יקנא זה את זה ושניהם יסכימו כאחד באשר יעשו:
+
+
+
+### Verse 14
+
+###### Radak on Zechariah 6:14:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:14:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:14:1)
+
+
+**והעטרות תהיה.**כל אחת מהעטרות תהיה להם לזכרון בהיכל ה' כמו שאמר בתורה לזכרון לפני ה' כלומר נדבתם תעלה לפני ה' לטוב להם בזה ובבא וי"מ לזכרון שיהיו נזכרים בפי הדורות הבאים כי היו שמותם כתובים ומפותחים בהם:
+
+
+###### Radak on Zechariah 6:14:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:14:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:14:2)
+
+
+**לחלם.**הוא חלדי שזכר למעלה ושתי שמות היו לו:
+
+
+###### Radak on Zechariah 6:14:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:14:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:14:3)
+
+
+**ולחן.**הוא יאשיה שזכר ורז"ל דרשו בהיכל ה' כי שם הושמו העטרות אחר שנתנו בראש זרובבל ובראש יהושע וכן אמר במשנה מדות ושרשרות של זהב היו קבועות בתקרת האולם שבהם פרחי כהונה עולים ורואים את העטרות שבחלונות שנאמר והעטרות תהיה לחלם ולטוביה ולידעיה ולחן בן צפניה לזכרון בהיכל ה':
+
+
+
+### Verse 15
+
+###### Radak on Zechariah 6:15:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:15:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:15:1)
+
+
+**ורחוקים.**מגויי הארצות יבואו מארץ רחוקה לבנות בהיכל ה' כלומר להתנדב לבנין הבית ואפשר שהיה זה בימי הורדוס בבנין הגדול שבנה בבית המקדש וי"מ ורחוקים על ישראל המפוזרים בגלות בארץ רחוקה:
+
+
+###### Radak on Zechariah 6:15:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:15:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/6:15:2)
+
+
+**והיה אם שמוע תשמעון.**כל זה שאני מבטיח אתכם יהיה אם שמוע תשמעון בקול ה' אלהיכם:
+
+
+
+## Chapter 7
+
+
+### Verse 1
+
+###### Radak on Zechariah 7:1:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:1:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:1:1)
+
+
+ויהי בשנת:
+
+
+
+### Verse 2
+
+###### Radak on Zechariah 7:2:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:2:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:2:1)
+
+
+**וישלח.**פי' אחר ששלח וכן הן אתה קצפת ונחטא. וירד מעשות החטאת והדומים להם ופי' אחר ששלח היה דבר ה' אל זכריה ולא זכר מי היה השולח וי"מ כי בית אל שם אדם והוא שלח מן הגולה שראצר ורגם מלך ואנשיו לירושלם והנכון כי בית אל כמשמעו, וכת"י ושלח לבית אל ואלו השולחים היו בני הגולה ואמר וישלח לשון יחיד דרך כלל וכן האבכה כאשר עשיתי והשלוחים היו שראצר ורגם מלך ואנשיו, ורגם מלך אדם ששמו כך והביא אנשים עמו וזהו שאמר ואנשיו ובאו לירושלם לחלות את פני ה' ושלחו בידם בני הגולה לשאול ולאמר אל הכהנים ואל הנביאים האבכה:
+
+
+
+### Verse 3
+
+###### Radak on Zechariah 7:3:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:3:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:3:1)
+
+
+**לאמר, לבית ה'.**כמו בבית ה' וכת"י דמשמשין בבית מקדשא דה':
+
+
+**To say to the house of the LORD —** meaning, "in the house of the LORD." And Targum Jonathan translates as "who were serving in the Holy Temple of the LORD."
+
+
+###### Radak on Zechariah 7:3:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:3:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:3:2)
+
+
+**ואל הנביאים.**חגי זכריה ומלאכי וי"ת ולספריא:
+
+
+**And to the prophets —** Haggai, Zechariah, and Malachi. And Targum Jonathan translates as "and to the scribes."
+
+
+###### Radak on Zechariah 7:3:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:3:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:3:3)
+
+
+**האבכה.**כי עדיין לא היו מאמינים בבנין הבית מפני האויבים שהשביתו את המלאכה כמה שנים ועתה אף על פי ששמעו כי היו בונים היו קטני אמנה ולא היו רוצים לעלות מבבל כי לא היו מאמינים שישלם בנין הבית ויעמד מפני הצרים אותם ושאלו אם יצומו בתשעה באב כמו שעשו שבעים שנה:
+
+
+**Shall I weep —** because they still did not believe in the construction of the House because of the enemies who had forced the work for many years, and now, even though they heard that they had built it, they were of little faith and did not want to go up from Babylon, because they did not believe that the construction of the House was finished and stood because of the enemies. And they asked if they should fast on the Ninth of Av as they did during the seventy years.
+
+
+###### Radak on Zechariah 7:3:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:3:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:3:4)
+
+
+**הנזר.**מקור. כלומר אם אנזר ממאכל וממשתה ומתענוג וי"ת האמנע נפשי מתפנוקין:
+
+
+**and shall I keep abstinent** That is to say, "should I abstain from food and drink and pleasure." And Targum Jonathan translates as "shall I refrain my soul from enjoyable things."
+
+
+
+### Verse 5
+
+###### Radak on Zechariah 7:5:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:5:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:5:1)
+
+
+**אמר.**אמרו בחמישי ובשביעי אף על פי שהם ארבע צומות זכר החמישי שהיה בה החרבן וזכר השביעי שנהרג בו גדליה והיה חרבן שני שכבר נשארו דלת הארץ ולא היתה חרבה אם נשארו דלת העם שהשאיר נבוזראדן לכורמים וליוגבים וגדליה נהרג בראש חדש השביעי ולפי שהוא יום טוב קבעו התענית למחרתו:
+
+
+**Say —** They said "on the fifth and the severth" even though there are four fast days. It mentions the fifth because upon it was the destruction, and the seventh because in it Gedaliah was killed, and it was a second destruction, because already the poorest of the land remained and were not destroyed, since the poorest of the land were kept by Nebuzadaran to be vine dressers and ditch diggers (II Kings 25:12), but Gedaliah was killed on the first day of the seventh month, and since it was a holiday they declared a fast the day after.
+
+
+###### Radak on Zechariah 7:5:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:5:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:5:2)
+
+
+**הצום צמתני אני.**צמתני צמתם אותי כלומר אם צמתם בעבורי בעבור עונותיכם חרבה הבית וגליתם בעבור זה צמתם אם תעשו משפט וצדקה אין אתם צריכים לצום כי בנה נבנה הבית ועלו מן הגולה ותשבו בארץ כל הימים אם תעשו הטוב בעיני לא תגלו ממנה לעולם ומה שאמר אני אחר שאמר צמתני ר"ל האני צויתי אתכם לצום וי"ת הצום תעני אתון מתענן קדמי:
+
+
+**Did you fast Me, I? —** did you fast Me, meaning did you fast for Me, that is to say, if you fasted on Mu account, on account of your sins the Temple was destroyed and you were exiled. On account of this you fast. If you perform justice and righteousness, you will not need to fast, for the House will be built and you will go up from exile and dwell in the land all days. If you do good in My eyes you will not ever be exiled from it. And what is the purpose that the "I" after "did you fast Me" serves? It is meant to say "Did I command you to fast?" And the Targum Yonatan translates as "On the fast did you fast your fasting before Me?"
+
+
+
+### Verse 6
+
+###### Radak on Zechariah 7:6:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:6:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:6:1)
+
+
+**וכי תאכלו.**כלומר מה לי לצומכם ולמאכלכם הצום תצומו בעבור עונותיכם והמאכל והמשתה תאכלו ותשתו להנאתכם הכל הוא לכם מה לי בכל זה כי הצום והאכילה אין בהם דבר לכבודי:
+
+
+
+### Verse 7
+
+###### Radak on Zechariah 7:7:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:7:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:7:1)
+
+
+**הלוא.**מי גרם לכם הצום אלא עונותיכם ובהיות ירושלם שלוה קראתי ביד עבדי הנביאים שתשובו מעונותיכם ולא תחרב הארץ ולא אביתם לשמוע:
+
+
+###### Radak on Zechariah 7:7:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:7:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:7:2)
+
+
+**והנגב והשפלה יושב.**כלומר כל הארץ היתה יושבת לבטח וזכר הנגב והשפלה וכל שכן ההרים והגבעות שהיו יושבים לבטח יושב כלומר היה בהם יישוב בטח:
+
+
+
+### Verse 8
+
+###### Radak on Zechariah 7:8:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:8:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:8:1)
+
+
+**ויהי דבר ה'.**אחר שהפסיק הדבור בדבר והשפלה יושב עוד שב לדבר עמו תכלית הדברים הראשונים שיאמר עוד אל כל עם הארץ ומה שהיו קוראים להם הנביאים הראשונים שהיו אומרים להם:
+
+
+
+### Verse 9
+
+###### Radak on Zechariah 7:9:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:9:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:9:1)
+
+
+**כה אמר ה' צבאות, משפט אמת שפטו.**כשתשפטו בין איש לרעהו יהיה משפטכם משפט אמת ומי שיהיה צריך לעשות עמו חסד ורחמים שהם יותר על המשפט עשו:
+
+
+
+### Verse 10
+
+###### Radak on Zechariah 7:10:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:10:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:10:1)
+
+
+**ואלמנה.**אלו שהם חלשים הזהרו בהם מאד שלא תעשקו אותם לא בממון ולא בדברים:
+
+
+###### Radak on Zechariah 7:10:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:10:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:10:2)
+
+
+**ורעת איש אחיו.**ר"ל אל תחשבו איש רעת אחיו בלבבכם אפילו המחשבה אסורה כל שכן המעשה. ועוד שהמחשבה מביא לידי מעשה ואפילו לא יעשה מעשה אסור שנאמר לא תשנא את אחיך בלבבך:
+
+
+
+### Verse 11
+
+###### Radak on Zechariah 7:11:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:11:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:11:1)
+
+
+**וימאנו, סוררת.**ענין עוות כמו כפרה סוררה ומי שאינו רוצה להקשיב לקורא אליו יעוות כתיפו כנגדו ואינו רוצה לפנות אליו:
+
+
+
+### Verse 12
+
+###### Radak on Zechariah 7:12:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:12:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:12:1)
+
+
+**ולבם שמו שמיר.**שמיר היא אבן חזקה שלא יוכל הברזל לפוסלה:
+
+
+###### Radak on Zechariah 7:12:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:12:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:12:2)
+
+
+**ואת הדברים.**דברי תוכחה שהיו אומרים להם הנביאים:
+
+
+###### Radak on Zechariah 7:12:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:12:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:12:3)
+
+
+**ברוחו.**ברוח נבואה שהיתה מדברת עם הנביאים:
+
+
+###### Radak on Zechariah 7:12:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:12:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:12:4)
+
+
+**ויהי קצף גדול.** על אבותיכם:
+
+
+
+### Verse 13
+
+###### Radak on Zechariah 7:13:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:13:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:13:1)
+
+
+**ויהי כאשר קרא.**כמו שקרא להם בשמי ולא שמעו כן יקראו ולא ישמע:
+
+
+
+### Verse 14
+
+###### Radak on Zechariah 7:14:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:14:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:14:1)
+
+
+**ואסערם על כל הגוים אשר לא ידעום.**מלת ואסערם קשה בדקדוק ואמרו כי היא מורכבת מפעל הקל ונפעל ואדוני אבי ז"ל כתב כי כלו מהקל ואף על פי שהוא בודד פירוש ואסער עמם כמו ישושום מדבר וציה שפירושו ישושו עמם ואמר ואסערם כמשפט כדי להרחיב על העי"ן ולהקל מעליה ונקדו האלף בצר"י והסמך בקמץ להאריך המלה ולהרחיבה עוד וענין הפסוק אני מצטער עמם בגלות כענין בכל צרתם לו צר ודברה תורה כלשון בני אדם ויתכן לפרש שיהיה ואסערם פועל יוצא כי מצאנו כי בפעל אחד עומד ויוצא כי מצאנו הלמו עקבי סוס שהוא עמד הלמוני בל ידעתי יוצא והחכם רבי אברהם א"ע ז"ל פירש ואסער עליהם בסערת רוחי והוא הפיץ אותם על פני כל הגוים:
+
+
+###### Radak on Zechariah 7:14:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:14:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/7:14:2)
+
+
+**והארץ נשמה אחריהם.**הפך והנגב והשפלה יושב:
+
+
+
+## Chapter 8
+
+
+### Verse 1
+
+###### Radak on Zechariah 8:1:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:1:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:1:1)
+
+
+**ויהי דבר ה' צבאות לאמר.**כמו אלי לאמר ובמסרה לית כותיה:
+
+
+
+### Verse 2
+
+###### Radak on Zechariah 8:2:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:2:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:2:1)
+
+
+**כה אמר.** זאת הפרשה נחמה לעתיד לימות המשיח במלחמת גוג ומגוג שיבואו על ירושלם ואז אקנא בעבורה וחמה גדולה אשפוך על כל הגוים הבאים עליה:
+
+
+So said – This section is a consolation for the future, for the days of the messiah during the war of Gog and Magog which will come upon Jerusalem. Then I will be jealous for her sake and I will pour out great fury upon all the nations that come against her:
+
+
+
+### Verse 3
+
+###### Radak on Zechariah 8:3:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:3:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:3:1)
+
+
+**כה אמר, ונקראה ירושלם עיר האמת.**כמו שהבטיח שארית ישראל לא יעשו עולה ולא ידברו כזב הוא הדין לכל ארץ ישראל וזכר ירושלם שהיא ראש הממלכה ועוד מפני הר ה' הר הקדש שלא יחללוהו עוד זרים:
+
+
+So said the Lord – And Jerusalem will be called the city of truth as He promised “The remnant of Israel shall neither commit injustice nor speak lies…” (Tzefaniah 3:13) The same is true for all of the land of Israel, but the verse specified Jerusalem because she is the head of the kingdom. And furthermore because of the mountain of the Lord, the holy mountain which will no longer be profaned by strangers:
+
+
+
+### Verse 4
+
+###### Radak on Zechariah 8:4:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:4:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:4:1)
+
+
+**כה אמר ה'.**על כל נחמה אמר כה אמר לחזק הנחמה כי על כל פנים תהיה הטובה:
+
+
+###### Radak on Zechariah 8:4:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:4:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:4:2)
+
+
+**ואיש משענתו בידו.**כמשמעו כמו שאמר מרוב ימים:
+
+
+
+### Verse 5
+
+###### Radak on Zechariah 8:5:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:5:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:5:1)
+
+
+**ורחובות.** מבואר הוא:
+
+
+
+### Verse 6
+
+###### Radak on Zechariah 8:6:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:6:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:6:1)
+
+
+**כה אמר ה', גם בעיני יפלא.**יש מפרשים בתמיה כאלו אמר הגם בעיני יפלא וכן אתה זה בני עשו והדומים לו והחכם ר' אברהם א"ע ז"ל פי' כמשמעו כלומר אני עושה פלא בימים ההם שלא עשיתי כמוהו:
+
+
+
+### Verse 7
+
+###### Radak on Zechariah 8:7:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:7:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:7:1)
+
+
+**כה אמר, מארץ מזרח ומארץ מבא השמש.**הוא הישוב השלם מן מזרח עד מערב ישראל נפוצים בכל מקום מהיישוב:
+
+
+
+### Verse 8
+
+###### Radak on Zechariah 8:8:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:8:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:8:1)
+
+
+**והבאתי.**זכר ירושלם כמו שפי' לפי שהיא עיר הממלכה ומפני בית המקדש שהיה בה שהיו כל ישראל באים שם:
+
+
+###### Radak on Zechariah 8:8:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:8:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:8:2)
+
+
+**באמת.**כמו וארשתיך לי באמונה:
+
+
+
+### Verse 9
+
+###### Radak on Zechariah 8:9:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:9:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:9:1)
+
+
+**כה, תחזקנה ידיכם.**כשאתם שומעים כל הנחמות האלה העתידות תחזקנה עתה ידיכם במצות האל ולבנות ביתו כאשר החילותם כי אתם רואים כי ביום יסד בית ה' החלה הברכה לבא עליכם:
+
+
+
+### Verse 10
+
+###### Radak on Zechariah 8:10:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:10:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:10:1)
+
+
+**כי לפני.**ר"ל לפני שיוסד בית ה' שיסד בשנת שתים לדריוש ביום כ"ד לתשיעי ידעתם כי שכר האדם לא נהיה כלומר לברכה אלא הלך למארה:
+
+
+###### Radak on Zechariah 8:10:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:10:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:10:2)
+
+
+**איננה.**כאלו הבהמה איננה כיון ששכרה הלך למארה:
+
+
+###### Radak on Zechariah 8:10:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:10:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:10:3)
+
+
+**ואשלח.**ענין התרת הדבר להרע כמו ושלחתי בכם את חית השדה כתרגומו ואגרי:
+
+
+
+### Verse 11
+
+###### Radak on Zechariah 8:11:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:11:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:11:1)
+
+
+**ועתה.**מבואר הוא:
+
+
+
+### Verse 12
+
+###### Radak on Zechariah 8:12:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:12:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:12:1)
+
+
+**כי זרע השלום.** כלומר זרעכם הוא לשלום ולברכה עד שקוראים לו זרע השלום וי"ת זרעא יהא שלם:
+
+
+###### Radak on Zechariah 8:12:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:12:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:12:2)
+
+
+**והנחלתי.**אפשר שעל בית שני אמר כן אם ישמרו מצות ה' או היא עתידה לימות המשיח והפסוק הבא אחריו יוכיח שאמר בית יהודה ובית ישראל ובבית שני לא שבו בית ישראל:
+
+
+
+### Verse 13
+
+###### Radak on Zechariah 8:13:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:13:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:13:1)
+
+
+**והיה.**קללה שהגוים מקללים אתכם גם בבוא רעב או מקרה רע בארצם יאמרו כי בעון ישראל הוא ששוכנים ביניהם:
+
+
+###### Radak on Zechariah 8:13:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:13:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:13:2)
+
+
+**והייתם ברכה.**שהגוים יתברכו בכם כמו והיה ברכה:
+
+
+###### Radak on Zechariah 8:13:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:13:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:13:3)
+
+
+**תחזקנה ידיכם.**בזמן הזה מפני הנחמות הטובות שתשמעו שעתידות לבא לישראל:
+
+
+
+### Verse 14
+
+###### Radak on Zechariah 8:14:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:14:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:14:1)
+
+
+**כי כה אמר, ולא נחמתי.**כי עשיתי מה שזממתי עד שהחרבתי ארצם והגליתי אותם:
+
+
+
+### Verse 15
+
+###### Radak on Zechariah 8:15:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:15:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:15:1)
+
+
+**כן שבתי, אל תיראו.**מהשוטנים אתכם סנבלט וחבריו החושבים להשבית מעשיכם עתה:
+
+
+
+### Verse 16
+
+###### Radak on Zechariah 8:16:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:16:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:16:1)
+
+
+**אלה, דברו אמת.**שלא תדברו אחד בפה ואחד בלב:
+
+
+###### Radak on Zechariah 8:16:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:16:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:16:2)
+
+
+**ומשפט שלום.**כי אם תשפטו צדק יהיה שלום בין בעלי הדינין כמו שארז"ל במשל בני אדם דשקלי גלימיה מבית דינא זמיר ואזיל באורחא והם הביאו פסוק על זה המשל גם כל העם הזה על מקומו יבא בשלום כל העם אפי' המתחייב בדין ורז"ל פי' ומשפט שלום על הפשרה שאמר איזה משפט שיש בו שלום הוי אומר זה בצוע ומשפט פתוח כי הוא סמוך:
+
+
+###### Radak on Zechariah 8:16:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:16:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:16:3)
+
+
+**בשעריכם.**כי שם מושב הזקנים כמו שאמר בתורה השערה אל הזקנים:
+
+
+
+### Verse 17
+
+###### Radak on Zechariah 8:17:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:17:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:17:1)
+
+
+**ואיש את רעת רעהו.**ולמעלה ורעת איש אחיו אל תחשבו פי' למעלה:
+
+
+###### Radak on Zechariah 8:17:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:17:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:17:2)
+
+
+**ושבועת שקר אל תאהבו.**אמר אל תאהבו לפי שאמר אחר כן שנאתי כלו' מה ששנאתי אני אל תאהבו אתם:
+
+
+###### Radak on Zechariah 8:17:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:17:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:17:3)
+
+
+**כי את כל אלה.**איש את רעת רעהו ושבועת שקר ומה שהוא הפך הראשונים שהוא האמת והשלום לפי' אמר את כל אלה:
+
+
+
+### Verse 18
+
+###### Radak on Zechariah 8:18:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:18:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:18:1)
+
+
+**ויהי דבר ה'.**ואם תעשו אלה הדברים אשר צויתי אתכם אמר השם צבאות כי הצומות אשר שאלתם אם תצומו באותן הימים לא תצומו אבל תשמחו בהם מרוב הטובה שתהיה לכם:
+
+
+**And the word of the LORD —** And if you do these things that I command you, says haShem of Hosts, then the fasts about which you asked if you should fast on those days, you will no longer fast, but rejoice on them, from all the good that will be yours.
+
+
+
+### Verse 19
+
+###### Radak on Zechariah 8:19:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:19:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:19:1)
+
+
+**צום הרביעי.**זהו תמוז שהיו צמים בגלות בי"ז לחדש יום שנבקעה בו העיר:
+
+
+**The fast of the fourth —** This is Tammuz, when they fasted in exile on the seventeenth of the month, the day that the city was broken into.
+
+
+###### Radak on Zechariah 8:19:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:19:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:19:2)
+
+
+**וצום החמישי.**זה אב שהיו צמים בט' בו:
+
+
+**And the fast of the fifth —** This is Av, when they fasted on the ninth.
+
+
+###### Radak on Zechariah 8:19:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:19:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:19:3)
+
+
+**וצום השביעי.**זה צום גדליה כמו שפירשנו למעלה וצום העשירי זה עשרה בטבת שבו סמך מלך בבל על ירושלם:
+
+
+**And the fast of the seventh —** This is the fast of Gedaliah, as we explained above. **And the fast of the tenth —** This is the Tenth of Tevet, when the king of Babylon began to besiege Jerusalem.
+
+
+###### Radak on Zechariah 8:19:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:19:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:19:4)
+
+
+**יהיה.**כל אחד מהם לבית יהודה בבית שני כי עשרת השבטים לא שבו:
+
+
+**Will be** All of these fasts *had been* kept for the house of Judah during the Second Temple period, because the Ten Tribes had not returned.
+
+
+###### Radak on Zechariah 8:19:5
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:19:5](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:19:5)
+
+
+**והאמת והשלום אהבו.**ובתנאי שתאהבו האמת והשלום כמו שצויתי אתכם:
+
+
+**And the truth and peace you will love** This will happen provided that you love the truth and peace as I commanded you.
+
+
+
+### Verse 20
+
+###### Radak on Zechariah 8:20:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:20:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:20:1)
+
+
+**כה אמר, עד אשר יבואו עמים.**עדיין יהיה זמן שיבאו עמים וזה יהיה בימות המשיח וכן עוד היום גדול פירוש עדיין כמו עוד אושיבך באהלים והדומים להם:
+
+
+
+### Verse 21
+
+###### Radak on Zechariah 8:21:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:21:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:21:1)
+
+
+**אלכה גם אני.** כתרגומו דין לדין יימר אזיל אף אנא:
+
+
+
+### Verse 22
+
+###### Radak on Zechariah 8:22:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:22:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:22:1)
+
+
+**ובאו עמים, וגוים עצומים.**עצומים במספר וכן עצמו אלמנותיו מחול ימים בענין הבמות והענין כפול במלות שונות וי"ת ומלכוון רברבן:
+
+
+
+### Verse 23
+
+###### Radak on Zechariah 8:23:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:23:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:23:1)
+
+
+**כה אמר, בימים ההמה אשר יחזיקו.**זה שאמרתי לכם יהיה באותם הימים אשר יחזיקו ואחר כך אמר והחזיקו לאריכות הדברים ביניהם כמו ואם באמת ובתמים דיותם:
+
+
+###### Radak on Zechariah 8:23:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:23:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/8:23:2)
+
+
+**עשרה אנשים.**אינו דווקא אלא שהוא סך חשבון כמו ואפו עשר נשים לחמכם והדומים לו: ובדרש עשרה אנשים מכל לשונות הגוים הרי שבע מאות לכל כנף וכנף מארבע כנפות:
+
+
+
+## Chapter 9
+
+
+### Verse 1
+
+###### Radak on Zechariah 9:1:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:1:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:1:1)
+
+
+**משא דבר ה' בארץ חדרך.**נבואה זו היא בארץ חדרך ודמשק ששם תהיה מנוחתו או פירוש נבואת ה' תהיה עדיין בארץ חדרך כמו בארץ ישראל כי מארץ ישראל תהיה וכן דמשק תהיה מנוחתו כלמר שכינת כבודו ונבואתו מצאנו בדברי רז"ל חדרך רבי בניה אומר זה משיח שהוא חד לעכו"ם ורך לישראל אמר לו רבי יוסי בן דורמסקית עד מתי אתה מעוות עלינו את הכתובים מעיד אני עלי שמים וארץ שאני מדמשק ויש שם מקום ששמו חדרך אמר לו ומה אני מקיים ודמשק מנוחתו שעתידה ירושלם שתהיה מגעת עד דמשק שנאמר מנוחתו ואין מנוחה אלא ירושלם וכן הוא אומר זאת מנוחתי עדי עד אמר לו ומה אני מקיים ונבנתה העיר על תלה אמר לו שאינה עתידה לזוז ממקומה אמר לו ומה אני מקיים ורחבה ונסבה למעלה שעתידה ירושלם שתהא מרחבת ועולה מכל צדדיה כתאנה זו שצרה למטה ורחבה מלמעלה ושערי ירושלם עתידים להיות מגיעין עד דמשק וכן הוא אומר אפך כמגדל הלבנון צופה פני דמשק וגליות באות וחונות בתוכה שנאמר ודמשק מנוחתו:
+
+
+###### Radak on Zechariah 9:1:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:1:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:1:2)
+
+
+**כי לה' עין אדם.**כי באותן הימים יהיה עין כל אדם לה' לא לאלילים ולא לעצבים לפי' תהיה ארץ חדרך ודמשק ושאר המקומות הקרובות לארץ ישראל כמו צר וצידון וחמת וערי פלשתים נכללות בערי יהודה ויהיו באמונת ישראל:
+
+
+###### Radak on Zechariah 9:1:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:1:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:1:3)
+
+
+**וכל שבטי ישראל.**כל שכן שבטי ישראל שיהיה עינם ולבם לה' או פי' וכל שבטי ישראל כלומר עין אדם יהיה לה' ולכל שבטי ישראל ללכת בדרכיהם כמו שאמר למעלה נלכה עמכם:
+
+
+
+### Verse 2
+
+###### Radak on Zechariah 9:2:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:2:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:2:1)
+
+
+**וגם חמת.**אמר וגם חמת שהיא עיר גדולה כמו שאמר חמת רבה והיא חוץ לגבול ארץ ישראל כי היא אחד מגבולי ארץ ישראל ואמר כי באותו הזמן תהיה חמת בתוך גבולה הוא שאמר תגבל בה צר וצידון כי חכמה מאד וכן צר וצידון שהם קרובים לה יהיו בתוך גבולה וטעם:
+
+
+###### Radak on Zechariah 9:2:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:2:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:2:2)
+
+
+**כי חכמה מאד.**על צור כמו שנזכר בפרשת צור בספר יחזקאל ופירש כי חכמה בעיניה בימים קדמונים ולא הועילה לה חכמתה אבל בזמן המשיח לא תבטח בחכמתה ותכנע לפני ישראל:
+
+
+
+### Verse 3
+
+###### Radak on Zechariah 9:3:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:3:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:3:1)
+
+
+**ותבן.**כי כשנבנתה מצור לה בימים הקדמונים ותצבור כסף כעפר וחרוץ כטיט חוצות ולא הועיל לה כל זה:
+
+
+
+### Verse 4
+
+###### Radak on Zechariah 9:4:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:4:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:4:1)
+
+
+**הנה ה' יורישנה.**כלומר הורישה מכל גדולתה:
+
+
+###### Radak on Zechariah 9:4:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:4:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:4:2)
+
+
+**והכה בים חילה.**כמו שמפורש ביחזקאל וכשתזכור כל אלה תכנע בימות המשיח ואף על פי שהיו יושבים בה באותו הזמן אינם היושבים בה בימים הקדמונים נודע דבר צור לכל כי נכתב בנביאים וכתוב אצל היושבים בה היום והיו שם באותו הזמן:
+
+
+
+### Verse 5
+
+###### Radak on Zechariah 9:5:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:5:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:5:1)
+
+
+**תרא.**מלרע הטעם ברי"ש אמר כשתראה אשקלון שנכנעה צור תכנע גם היא ויתכן לפרש כי צור וצידון טעמו למטה עם הפסוק הבא אחריו:
+
+
+###### Radak on Zechariah 9:5:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:5:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:5:2)
+
+
+**ותבן צור.**אמר חמת תגבל בה אבל צור וצידון תחשב לעמוד כנגד ישראל לפי שחכמה מאד בעיניה כמו שכתוב בספר יחזקאל וצידון היתה סמוכה לה ונמשכת אחריה לפיכך סמוכה אל צור ותבן תחשב להמלט בבנין שתבנה ובכסף וזהב שתאסף וכל זה לא יועיל לה כי הנה השם יורישנה:
+
+
+###### Radak on Zechariah 9:5:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:5:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:5:3)
+
+
+**מצור.**מגדל חזק וכן ויבן ערי מצורות וכן תרגם יונתן ובנא צור תוקפא לה וחרוץ כמו וזהב וכן בירקרק חרוץ וכן תרגם יונתן ודהבא:
+
+
+###### Radak on Zechariah 9:5:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:5:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:5:4)
+
+
+**הנה ה' יורישנה.**ענין גרוש ושלוח כמו מוריש אותם מפניך והדומים לו וכן תרגם יונתן מתרך לה:
+
+
+###### Radak on Zechariah 9:5:5
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:5:5](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:5:5)
+
+
+**והכה בים חילה.**כל העושר והממון שבה שהיתה בוטחת בו יבא הים וישטף אותו:
+
+
+###### Radak on Zechariah 9:5:6
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:5:6](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:5:6)
+
+
+**והיא באש תאכל.**והיא רוצה לומר העיר ובניניה ומגדליה הבצורות שהיתה בוטחת בהן תצא אש מתוכה שתשרוף אותם:
+
+
+###### Radak on Zechariah 9:5:7
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:5:7](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:5:7)
+
+
+**תרא.** וכשתראה אשקלון כי צור נחרבה ביד האל תירא ותכנע לפני ישראל וכן עזה וכן עקרון:
+
+
+###### Radak on Zechariah 9:5:8
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:5:8](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:5:8)
+
+
+**כי הוביש מבטה.**והיא צור שהיו מביטים אליה וחושבים להנצל עמה בעבור חזקה מבטה המ"ם בסגול והוביש ענין בושת ופירוש עם צור שהיו מביטים אליו יבושו כשיורישנו האל יתברך וי"ת פי' הוביש על עקרון ופי' הוביש עקרון ממבטה ותרגם ארי בהיתת מבית רוחצניה:
+
+
+###### Radak on Zechariah 9:5:9
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:5:9](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:5:9)
+
+
+**ואבד מלך מעזה.**מלכה שהיה בה באותו הזמן יאבד הוא והמלכות שלו כי לישראל תהיה:
+
+
+###### Radak on Zechariah 9:5:10
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:5:10](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:5:10)
+
+
+**לא תשב.** באנשים, שיהיו שם באותו הזמן כי ישראל יהיו מיישבין אותה:
+
+
+
+### Verse 6
+
+###### Radak on Zechariah 9:6:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:6:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:6:1)
+
+
+**וישב ממזר באשדוד.**יש מפרשים שם אומה וי"מ ממזר מעריות ישראל שישבו לבדם בערי פלשתים ויבדלו מהקהל והנה ארז"ל כי אליהו יטהר הממזרים ויושיבם בקהל ה' ויש לפרשו בחסרון כף הדמיון וממזר כמו זר וכן לא יבא ממזר ושני הממי"ן נוספות כמו שני הממי"ן אשר במלת נהרסו ממגורות ופי' היושב באשדוד מפלשתים ישב בה כמו איש זר ונכרי כי תחת יד ישראל יהיו וזהו מה שאמר אחריו והכרתי גאון פלשתים:
+
+
+
+### Verse 7
+
+###### Radak on Zechariah 9:7:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:7:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:7:1)
+
+
+**והסרותי דמיו מפיו.**דרך משל כלומר מה שאכל ישראל וכלהו הוא דמיו ושקוציו ר"ל אבער רשעי לב שביניהם ונשאר גם הוא לאלהיו ומה שישארו מהם שיהיה לבם נכון לה' אשאיר אותו ויהיה כאלוף ביהודה ופי' גם הוא כמו שאר בני הנכר הנלוים אל ה' שנאמר עליהם והביאותים אל הר קדשי ושמחתים בבית תפילתי הנה הם כאלוף וכגדול שביהודה:
+
+
+###### Radak on Zechariah 9:7:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:7:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:7:2)
+
+
+**ועקרון כיבוסי.**תהיה עקרון כמו היבוסי יושב ירושלים שהיה יושב בתוך בני ישראל והיה למס עובד להן כן יהיה בימות המשיח וזכר יהודה לפי ששם הר הקדש ובית התפילה ואדוני אבי ז"ל פי' דמיו ושקוציו נבול הפה שרגילין בו העכו"ם:
+
+
+
+### Verse 8
+
+###### Radak on Zechariah 9:8:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:8:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:8:1)
+
+
+**וחניתי לביתי מצבה.**אהיה כמו מחנה לבית ישראל שהוא ביתי יהיה שמי להם כמו אם היה עמהם מחנה גדול שלא יפחדו עוד מצבא שיחנה עליהם ולא מעובר ושב שירע להם מצבה כתוב בה' במקום אל"ף:
+
+
+###### Radak on Zechariah 9:8:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:8:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:8:2)
+
+
+**כי עתה ראיתי בעיני.**עתה בזה הזמן שתהיה כל זאת ההבטחה ראיתי בעיני ענים וטלטולם בגלות בין האומות ואושיעם ואביא עליהם כל זאת הטובה ראיתי כמו וירא אלהים את בני ישראל והחכם רבי אברהם א"ע ז"ל פי' כי הם דברי הנביא אמר עתה ראיתי בעיני במראות הלילה בנבואה כל זה:
+
+
+
+### Verse 9
+
+###### Radak on Zechariah 9:9:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:9:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:9:1)
+
+
+**גילי מאד בת ציון.**גילי מלרע זכר ציון וירושלם כי היא ראש המלכות:
+
+
+###### Radak on Zechariah 9:9:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:9:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:9:2)
+
+
+**צדיק ונושע הוא.**צדיק יהיה ובצדקתו יהיה נושע מחרב גוג ומגוג נושע פתח שהוא עבר מוסב לעתיד מפני הוי"ו:
+
+
+###### Radak on Zechariah 9:9:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:9:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:9:3)
+
+
+**עני.**כמו ענין וכן ת"י ענותן וכן אמר בנבואת ישעיה לא יצעק ולא ישא קנה רצוץ לא ישבור וגו':
+
+
+###### Radak on Zechariah 9:9:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:9:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:9:4)
+
+
+**ורוכב על חמור.**לא מחסרון שהרי כל העולם יהיה ברשותו אלא מענוה ירכב על חמור ועוד להורות כי לא יצטרכו ישראל לסוסים ולרכב לפיכך אמר אחריו והכרתי רכב מאפרים וסוס מירושלים:
+
+
+###### Radak on Zechariah 9:9:5
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:9:5](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:9:5)
+
+
+**ועל עיר בן אתונות.**כפל הענין במילות שונות ועוד זכר עיר שהוא קטן בשנים כי הוא הנבחר לרכוב וכן אמר על בני אבצן רוכבים על שלשים עירים:
+
+
+###### Radak on Zechariah 9:9:6
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:9:6](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:9:6)
+
+
+**בן אתונות.**ר"ל בן אחת האתונות וכן ויקבר בערי גלעד באחת מערי גלעד:
+
+
+
+### Verse 10
+
+###### Radak on Zechariah 9:10:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:10:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:10:1)
+
+
+**והכרתי.**וכן אמר בנבואת מיכה והכרתי סוסיך מקרבך והאבדתי מרכבותיך וזכר מאפרים ומירושלם לפי שהיתה נחלקת המלכות בימים הראשונים אבל בימי המשיח יהיו אחדים:
+
+
+###### Radak on Zechariah 9:10:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:10:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:10:2)
+
+
+**ודבר שלום לגוים.**ישלים בין גוי לגוי אם יהיה ביניהם מלחמה כי כל הגוים יהיו נשמעים אליו:
+
+
+###### Radak on Zechariah 9:10:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:10:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:10:3)
+
+
+**ומשלו מים ועד ים.**פי' החכם רבי אברהם א"ע ז"ל מהים הדרומי הנקרא ים האדום עד הים הצפוני שהוא ים אוקינוס:
+
+
+###### Radak on Zechariah 9:10:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:10:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:10:4)
+
+
+**ומנהר עד אפסי ארץ.**מנהר היוצא מעדן שהוא בתחלת המזרח עד אפסי ארץ שהוא סוף המערב והנה ימשול בכל העולם:
+
+
+
+### Verse 11
+
+###### Radak on Zechariah 9:11:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:11:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:11:1)
+
+
+**גם את.**אמר כנגד כנסת ישראל כמו שאמר על המלך המשיח שיהיה נושע בצדקתו אמר גם את תהי נושעת בדם בריתך והוא דם המילה שהחזיקו בו ישראל בגלות יותר מכל המצות:
+
+
+###### Radak on Zechariah 9:11:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:11:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:11:2)
+
+
+**מבור אין מים בו.**זהו הגלות וי"מ בדם בריתך דם הברית אשר כרת ה' עם ישראל בסיני. ואדוני אבי ז"ל פירש מים נבואה בדרך משל שנסתמה הנבואה בגלות ולא היה נביא אחר חגי זכריה מלאכי וכן מצאנו אומר בענין הנבואה הוי כל צמא לכו למים:
+
+
+
+### Verse 12
+
+###### Radak on Zechariah 9:12:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:12:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:12:1)
+
+
+**שובו לבצרון.**המפרשים פירשו ענין פרשה זו בבית שני ואדוני אבי ז"ל פירש הפרשה ג"כ בבית שני אלא שחצי פסוק זה פי' בעתידה הכתובה למעלה ופי' שובו לבצרון שובו לאל יתברך שהוא מבצר ומגדל עוז:
+
+
+###### Radak on Zechariah 9:12:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:12:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:12:2)
+
+
+**אסירי התקוה.** בעבור שהיו בגלות והיו אסורים ומקוים לגאולה זה כמה שנים גם היום מגיד משנה אשיב לך אמר האל יתברך בבשורה אחרת קרובה יבשר לך הנביא המגיד שניה לראשונה שהגיד שהיתה עתידה והוא מה שהושיע האל יתברך לישראל מידי יון בבית שני ע"י מתתיה בן יוחנן כהן גדול ובניו ולפי דעתי כי כל הפרש' עתידה ואפרש אותה תחלה על דעת המפרשים בבית שני:
+
+
+
+### Verse 13
+
+###### Radak on Zechariah 9:13:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:13:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:13:1)
+
+
+**כי דרכתי.**שבט יהודה יהיה קשתי ואדריך אותו על יון כלומר ביהודה אלחם עם יון:
+
+
+###### Radak on Zechariah 9:13:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:13:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:13:2)
+
+
+**מלאתי אפרים.**כמו מלא ידו בקשת והוא מתיחת הקשת בכל כחו לירות החץ וזכר אפרים אע"פ שבבית שני לא היה שבט אפרים ולא שאר השבטים הנה נשארו בארץ אחר גלות השבטים בימי הושע בן אלה מועטים כאשר מצאנו בדברי יאשיהו מיד מנשה ואפרים ומכל שארית ישראל והם גלו עם שבט יהודה ובנימן לבבל ושבו עמהם בשובם:
+
+
+###### Radak on Zechariah 9:13:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:13:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:13:3)
+
+
+**ועוררתי בניך ציון על בניך יון.**אעורר אותם עליהם ואתן בהם כח וגבורה וזהו שאמר ושמתיך כחרב גבור:
+
+
+
+### Verse 14
+
+###### Radak on Zechariah 9:14:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:14:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:14:1)
+
+
+**וה' עליהם יראה.**כלומר ה' ילחם להם:
+
+
+###### Radak on Zechariah 9:14:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:14:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:14:2)
+
+
+**בשופר יתקע.**כאלו בשופר יתקע כדרך הנלחמים:
+
+
+###### Radak on Zechariah 9:14:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:14:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:14:3)
+
+
+**והלך בסערות תימן.**ילך על בני יון כמו רוח סערה כמו שכתוב ה' בסופה ובסערה דרכו וזכר תימן שהיא פאת דרום כי משם תבא רוח סערה כמו שכתוב מן החדר תבא סופה והוא רוח דרום כמו שכתוב וחדרי תימן וכן תרגם יונתן וידבר בעלעול רוח מדרומא:
+
+
+
+### Verse 15
+
+###### Radak on Zechariah 9:15:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:15:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:15:1)
+
+
+**וה' צבאות יגן עליהם.**על יהודה ואפרים שזכר:
+
+
+###### Radak on Zechariah 9:15:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:15:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:15:2)
+
+
+**ואכלו וכבשו אבני קלע.**ולא די שיגן עליהם שלא יכבשו אויביהם אלא הם יאכלו אויביהם ויכבשו אותם הנותרים לעבדים ולשפחות וכנה בני יון אבני קלע שהם אבני חצות שקולעים בהם הקלעים לפי שכנה בני יהודה בהפכה אבני נזר שהם אבנים טובות ומרגליות שמשימין אותם בעטרה:
+
+
+###### Radak on Zechariah 9:15:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:15:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:15:3)
+
+
+**ושתו והמו כמו יין.**ר"ל ושתו דמי האויבים ויהמו עליהם כמו אם ישתו יין ובא על דרך וכעסיס דמם ישכרון וההמיה על היין כמו שאמר שכרו ולא יין המו ולא שכר:
+
+
+###### Radak on Zechariah 9:15:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:15:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:15:4)
+
+
+**ומלאו כמזרק כזויות מזבח.**יהיו מלאים מדם האויבים כמזרק שמקבלים בו דם הקרבנות או כמו זויות המזבח שזורקין בהם הדם:
+
+
+
+### Verse 16
+
+###### Radak on Zechariah 9:16:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:16:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:16:1)
+
+
+**והושיעם.** כצאן עמו כמו שמושיע אדם צאנו בכל כחו כן יושיע עמו כי הוא צאנו וי"מ כמו שהושיעם ע"י משה שהיה רועה אותם כצאן כמו שנא' נחית כצאן עמך ביד משה ואהרן:
+
+
+###### Radak on Zechariah 9:16:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:16:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:16:2)
+
+
+**כי אבני נזר מתנוססות על אדמתו.**כי יהיו יהודה ואפרים כמו אבני נזר מתנוססות ומתרוממות על אדמתו שהיא אדמת הקדש מתנוססות מתרוממות וכן נתתי ליראיך נס להתנוסס וכן נס ענין גבהות ורוממות כי נושא הנס מגביה ומרומם אותו על ראש העם:
+
+
+
+### Verse 17
+
+###### Radak on Zechariah 9:17:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:17:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/9:17:1)
+
+
+**כי מה טובו ומה יפיו.** אמר מה טוב יהיה פרי ארצכם מה טובו של הדגן והתירוש המגדל והמנובב בחורים יפים ובתולות יפות כאלו שיהיו בזמן ההוא:
+
+
+
+## Chapter 10
+
+
+### Verse 1
+
+###### Radak on Zechariah 10:1:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:1:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:1:1)
+
+
+**שאלו.**בזמן ההוא אם תשאלו מהשם יתברך מטר בעת מלקוש ה' עושה חזיזים מיד ישמע תפלתכם ויעשו חזיזים ויתן מטר והחזיזים יהיו עם המטר וכן אמר ודרך לחזיז קולות והם אותם שמבהיקים בעת המטר לפני בא הרעש והוא מגזרת חזה. ורבותינו ז"ל פי' כמו ענן ומה שאמר בעת מלקוש שהוא המטר האחרון שהוא בימי ניסן כלומר אפי' באחרונה אם יצטרכו למטר יתן להם ויגדל העשב מהרה:
+
+
+###### Radak on Zechariah 10:1:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:1:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:1:2)
+
+
+**ומטר גשם.**בסמיכות אדמת עפר מטיט היון ר"ל רבוי המטר יתן לאותם שיהיו בזמן ההוא:
+
+
+###### Radak on Zechariah 10:1:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:1:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:1:3)
+
+
+**לאיש עשב בשדה.**לכל אחד מהם יתן לו עשב בשדהו ורז"ל פי' כי בזמן שישראל עושים רצונו של מקום יעשה הוא רצונם ואם יצטרך איש אחד לבדו מטר ולא האחרים יתן לו לבדו מטר ואם יצטרך איש לעשב אחד בשדהו או בגנו ולא יצטרך לעשב אחר יתן לאותו העשב לבדו מטר כמו שאמר אחד מן החסידים האי משרא בעי מטרא והאי משרא לא בעי מטרא:
+
+
+
+### Verse 2
+
+###### Radak on Zechariah 10:2:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:2:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:2:1)
+
+
+**כי התרפים.**אז יכירו כי התרפים דברו און כי יראו כי הנבואות שאמרו נביאי האמת נתקיימו הרעות נתקיימו בחרבן הארץ והנחמות נתקיימו בזמן ההוא יכירו אז כי בעלי התרפים שהיו מתעים אותם קודם חרבן הארץ וכן הקוסמים ונביאי השקר בחלומותיהם שהיו אומרים להם קודם החרבן שלום יהיה לכם יכירו אז כי הבל ינחמון והכל היה שקר ואון והבל:
+
+
+###### Radak on Zechariah 10:2:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:2:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:2:2)
+
+
+**על כן נסעו.**נסעו וגלו מארצם כמו הצאן אשר אין להם רועה:
+
+
+###### Radak on Zechariah 10:2:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:2:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:2:3)
+
+
+**יענו כי אין רועה.**יענו יכנעו וכן ומהמונם לא יענה ענין הכנעה:
+
+
+
+### Verse 3
+
+###### Radak on Zechariah 10:3:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:3:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:3:1)
+
+
+**על הרועים.**מלכי אנטיוכס שלחצו את ישראל לפני יום שקמו בית חשמונאי עליהם ואחר שהמשיל ישראל לצאן המשיל המלכים השולטים לרועים או לעתודים ההולכים לפני הצאן והצאן אחריהם:
+
+
+###### Radak on Zechariah 10:3:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:3:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:3:2)
+
+
+**אפקד.** עונם עליהם:
+
+
+###### Radak on Zechariah 10:3:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:3:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:3:3)
+
+
+**כי פקד.**זכר ענים ולחצם ואמר להושיעם:
+
+
+###### Radak on Zechariah 10:3:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:3:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:3:4)
+
+
+**את עדרו.**לא יניחם ביד הרועים עוד:
+
+
+###### Radak on Zechariah 10:3:5
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:3:5](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:3:5)
+
+
+**ושם אותם כסוס הודו במלחמה.**כמו הסוס שיראה כחו וגבורתו במלחמה. שנ' עליו וישיש בכח יצא לקראת נשק:
+
+
+
+### Verse 4
+
+###### Radak on Zechariah 10:4:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:4:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:4:1)
+
+
+**ממנו פנה.**פנה הוא משל על ראש העם. כמו שאמר התיצבו הנה כל פנות העם שר"ל ראשי העם ר"ל שלא יהיה עליהם ראש מיון:
+
+
+###### Radak on Zechariah 10:4:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:4:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:4:2)
+
+
+**יתד.**הוא הפקיד. וכן אמר ותקעתיו יתד במקום נאמן:
+
+
+###### Radak on Zechariah 10:4:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:4:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:4:3)
+
+
+**קשת מלחמה.**שלא יצטרכו לעזר עם אחר אלא ידיהם רב להם:
+
+
+###### Radak on Zechariah 10:4:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:4:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:4:4)
+
+
+**יצא כל נוגש יחדיו.**שיהיו נוגשים בשונאיהם:
+
+
+
+### Verse 5
+
+###### Radak on Zechariah 10:5:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:5:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:5:1)
+
+
+**והיו כגבורים בוסים בטיט חוצות.**ישראל יהיו כמו גבורי יון שהיו מתחילה ויהיו בוסים ורומסים אויביהם בתוך טיט חוצות:
+
+
+###### Radak on Zechariah 10:5:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:5:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:5:2)
+
+
+**במלחמה.**באותה מלחמה שילחמו עמם:
+
+
+###### Radak on Zechariah 10:5:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:5:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:5:3)
+
+
+**והובישו רוכבי סוסים.**האויבים שבאו עליהם רוכבי סוסים יהיה להם בשת שישראל ינצחום והם רגליים:
+
+
+
+### Verse 6
+
+###### Radak on Zechariah 10:6:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:6:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:6:1)
+
+
+**וגברתי.**אתן להם גבורה אל אויביהם:
+
+
+###### Radak on Zechariah 10:6:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:6:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:6:2)
+
+
+**והושבותים.**מלה מורכבת מן והושבתים מן ישב ומן השיבותים מן שוב ושני הענינים נכונים כאן ר"ל כי ישיבם אל ארצם ויושיבם שם בהשקט ובבטחה:
+
+
+###### Radak on Zechariah 10:6:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:6:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:6:3)
+
+
+**והיו כאשר לא זנחתים.**יהיו בכבוד גדול ובשלום כאלו לא זנחתים מעולם כי מרוב הטובה לא יזכרו צרותיהם שעברו:
+
+
+
+### Verse 7
+
+###### Radak on Zechariah 10:7:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:7:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:7:1)
+
+
+**והיו כגבור אפרים.**אפרים יהיו כלם במלחמה כמו גבור כמו שאמר למעלה והיו כגבורים:
+
+
+###### Radak on Zechariah 10:7:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:7:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:7:2)
+
+
+**ושמח לבם.**ישמח לבם בנצחם אויביהם:
+
+
+###### Radak on Zechariah 10:7:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:7:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:7:3)
+
+
+**כמו יין.**פי' כמו שותה יין וכן תרגם יונתן כשתי חמר, וכן כי חמודות אתה, איש חמודות, לץ היין, שותה היין והדומים להם רבים:
+
+
+###### Radak on Zechariah 10:7:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:7:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:7:4)
+
+
+**ובניהם יראו ושמחו.**הקטנים והנערים שאין דרכם להלחם יראו במלחמת אבותם שינצחו אויביהם במלחמה ושמחו:
+
+
+
+### Verse 8
+
+###### Radak on Zechariah 10:8:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:8:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:8:1)
+
+
+**אשרקה להם.**ענין הנעת השפתים בקול רם והוא סימן הקריאה וכן ושרק לו מקצה הארץ וענין אקבצם י"מ כי מפני הצרות שהיו עושים להם מלכי יון היו מפוזרים בין האומות ובימי חשמונאי שבו אל ארץ ישראל, וי"מ זה הפסוק לעתיד:
+
+
+###### Radak on Zechariah 10:8:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:8:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:8:2)
+
+
+**ורבו כמו רבו.**כמו שרבו במצרים כן ירבו בזמן ההוא:
+
+
+
+### Verse 9
+
+###### Radak on Zechariah 10:9:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:9:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:9:1)
+
+
+**ואזרעם בעמים.**י"מ שאמר זה על שהיו זרועים בגוים כשנתפזרו באומות מפני צרות מלכי יון ושם היו זוכרים האל ומצותיו:
+
+
+###### Radak on Zechariah 10:9:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:9:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:9:2)
+
+
+**וחיו את בניהם ושבו.**ושם יחיו עם בניהם ושבו לארצם בימי חשמונאי וי"מ ואזרעם בעמים אחר שיהיו נושעים בימי חשמונאי ילכו לסחור' או לטייל בין העמים ויהיו מכובדים ביניהם על התשועה שעשה להם האל יתברך:
+
+
+###### Radak on Zechariah 10:9:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:9:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:9:3)
+
+
+**וחיו את בניהם ושבו.**כשישובו לארצם ישובו בממון גדול שיחיו בו עם בניהם:
+
+
+
+### Verse 10
+
+###### Radak on Zechariah 10:10:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:10:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:10:1)
+
+
+**והשיבותים מארץ מצרים ומאשור.**שיצאו משם מפני הצרות:
+
+
+###### Radak on Zechariah 10:10:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:10:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:10:2)
+
+
+**ואל ארץ גלעד ולבנון.**גלעד מעבר הירדן מזרחה ולבנון כולל כל ארץ ישראל מזה העבר כמו שאמר ההר הטוב הזה והלבנון:
+
+
+###### Radak on Zechariah 10:10:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:10:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:10:3)
+
+
+**ולא ימצא להם.**לא יספיק להם מרובם, וי"ת ולבנון ומקדשא כמו שתרגם אונקלוס:
+
+
+
+### Verse 11
+
+###### Radak on Zechariah 10:11:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:11:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:11:1)
+
+
+**ועבר בים צרה.**האומות שהם רבים כמו הים תעבור בהם צרה ואמר ועבר לשון זכר ר"ל דבר הצרה:
+
+
+###### Radak on Zechariah 10:11:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:11:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:11:2)
+
+
+**והכה בים גלים.**האל יתברך יכה בים ובגליו וייבש אותם ר"ל המון העמים וזהו והובישו כל מצלות יאור כמו שפירש והורד גאון אשור וזכר אשור ומצרים שהם הרעו לישראל יותר משאר האומות:
+
+
+
+### Verse 12
+
+###### Radak on Zechariah 10:12:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:12:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/10:12:1)
+
+
+**וגברתים בה'.**כמו ואל משה אמר עלה אל ה' הנה פירשנו פרשה זו על דעת המפרשים בבית שני והנכון בעיני כי היא כלה עתידה כמו שלפניה ויבא זכר יהודה ואפרים על נכון כי בימי המשיח ישובו כל ישראל לארצם יהודה ואפרים מה שלא שבו בבית שני אלא גלות בבל שהיה יהודה ובנימן ובזכרו יהודה בכל מקום כאלו זכר בנימן עמו כי בנימן נופל ליהודה ומה שזכר יון הוא כאלו זכר גוג ומגוג כי אחים היו מבני יפת וכלם יבאו בימי המשיח וכת"י על בניך יון על בני עממיא כמו שכתבנו וכל הפרשה מבואר לזה הפירוש ומה שאמר ואזרעם בעמים פירושו כדעת התרגום כמו שכתבנו ופי' ועבר בים צרה כמו שפירשנו או יהיה פירושו כמשמעו כמו שאמר בנבואת ישעיה והחרים ה' את לשון ים מצרים וגו':
+
+
+
+## Chapter 11
+
+
+### Verse 1
+
+###### Radak on Zechariah 11:1:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:1:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:1:1)
+
+
+**פתח לבנון.**פירשו המפרשים זה על בטול מלכות בית חשמונאי או על עת חורבן בית שני ויתכן לפרש סמוך לענין אשר למעלה ממנו על אבדון הבבליים וכזה הוא דעת יונתן שתרגם פתחו עממיא וגומר:
+
+
+
+### Verse 2
+
+###### Radak on Zechariah 11:2:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:2:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:2:1)
+
+
+**הילל ברוש.**ת"י אלילו מלכיא וגו':
+
+
+###### Radak on Zechariah 11:2:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:2:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:2:2)
+
+
+**הבציר.**כמו ערים בצורות, וכתוב הבצור בוי"ו וקרי ביו"ד הבציר והענין אחד ויש לפרש הבציר כענין והשיג לכם דיש את בציר והמשילם לעצי היער וסמכם לבציר לפי שהיו עושים פירות כלומר שהיו עשירים וגדולים בעלי נכסים ומקנה וקנין:
+
+
+
+### Verse 3
+
+###### Radak on Zechariah 11:3:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:3:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:3:1)
+
+
+**קול יללת, אדרתם.**חזקם ותקפם ותפארתם ופי' הפסוק כתרגומו ורז"ל פי' הפרשה על חורבן בית שני ולבנון הוא בית המקדש ואמרו כי מ' שנה קודם חרבן הבית היו דלתות ההיכל נפתחות מאליהן גער בהן רבן יוחנן בן זכאי אמר לו היכל היכל עד מתי אתה מבעית עצמך יודע אני שסופך לחרב וכבר נתנבא עליך זכריה פתח לבנון דלתיך:
+
+
+
+### Verse 4
+
+###### Radak on Zechariah 11:4:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:4:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:4:1)
+
+
+**כה אמר ה' אלהי, רעה את צאן ההריגה.**פרשה זו רוב המפרשים פירשוה לשעבר אמר לנביא שיתנבא על ענין ישראל מה יהיה עד גלותם וי"מ אותה בבית שני וקראה צאן ההריגה כי נתונים הם ליהרג ביד שונאיהם תמיד כשעוברים על מצות האל יתברך ופירש אדוני אבי ז"ל רעה מקור כמו לרעות וכן למען היה לה ברק כמו להיות כלומר הוא אמר לרעות כי לא אמר לנביא שירעה הוא אלא האל אמר לרעותם כמו שאמר וארעה את צאן ההריגה:
+
+
+
+### Verse 5
+
+###### Radak on Zechariah 11:5:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:5:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:5:1)
+
+
+**אשר קוניהן יהרגון.**יהרגו אותם והנה הם ביד מוכר וקונה בלי חמלה:
+
+
+###### Radak on Zechariah 11:5:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:5:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:5:2)
+
+
+**ולא יאשמו.** אינם חושבים עצמם אשמים אם יהרגו אותם:
+
+
+###### Radak on Zechariah 11:5:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:5:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:5:3)
+
+
+**ומוכריהן יאמר.**כל אחד ממוכריהם יאמר כשמכרן ברוך ה':
+
+
+###### Radak on Zechariah 11:5:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:5:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:5:4)
+
+
+**ואעשיר.**יאמר ברוך ה' כי אני עשיר מדמי אלה השבויים ובאמרו הרשע המוכר ברוך ה' זהו בחשבו כי רצון האל יתברך במעשה זה כמו שאמר סנחריב המבלעדי ה' עליתי על הארץ הזאת להשחיתה או נאמר כי רגילות בני אדם בזה לתת שבח לאל יתברך בכל ריוח שירויחו הן מדרך הצדק הן מדרך הרשע וכענין זה אמרו רז"ל גנבא אפום מחתרתא רחמנא קרי, ואעשיר האלף נחה והוי"ו פתוחה והעי"ן בשו"א לבדו:
+
+
+###### Radak on Zechariah 11:5:5
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:5:5](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:5:5)
+
+
+**ורועיהם לא יחמול עליהם.**והאל שהוא רועיהם אינו חומל עליהם לפיכך הם נופלים ביד אויביהם מוכרים וקונים ואמר רועיהם לשון רבים כמו ישמח ישראל בעושיו איה אלוה עושי:
+
+
+
+### Verse 6
+
+###### Radak on Zechariah 11:6:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:6:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:6:1)
+
+
+**כי לא אחמול עוד.** אם לא ייטיבו מעשיהם:
+
+
+###### Radak on Zechariah 11:6:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:6:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:6:2)
+
+
+**על יושבי הארץ.**על יושבי ארץ ישראל:
+
+
+###### Radak on Zechariah 11:6:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:6:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:6:3)
+
+
+**ביד רעהו וביד מלכו.** ישחיתו הם בהם ומלכם גם כן ישחית בהם הן מלך ישראל והן מלך האומות השולט עליהם:
+
+
+###### Radak on Zechariah 11:6:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:6:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:6:4)
+
+
+**ממציא.**מזמין, כמו ואת העולה המציאו אליו לנתחיה:
+
+
+###### Radak on Zechariah 11:6:5
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:6:5](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:6:5)
+
+
+**וכתתו את הארץ.**בין זה ובין זה יכריתו וישחיתו את ארץ ישראל:
+
+
+###### Radak on Zechariah 11:6:6
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:6:6](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:6:6)
+
+
+**ולא אציל מידם.**לפי שחטאו לי:
+
+
+
+### Verse 7
+
+###### Radak on Zechariah 11:7:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:7:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:7:1)
+
+
+**וארעה, לכן עניי הצאן.**באמת עניי הצאן מצאתים כשלקחתיה לרעות תחלה אפרש פרשה זו על דעת המפרשים אותה לעבר אעפ"י שלא מצאתי לאחד מהם פירוש שלם בפרשה זו אפרש אני מה שאמצא בדעתי בע"ה ית':
+
+
+###### Radak on Zechariah 11:7:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:7:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:7:2)
+
+
+**ואקח לי שני מקלות.**דרך הרועה לנהוג צאנו במקל שבידו ואמר כי לרעות את ישראל לקח שני מקלות רמז בזה כי הנהגתו אותם לא היה בענין אחד רק לפי מעשיהם היה מנהיגם לפיכך זכר שני מקלות ואמר לאחד קראתי נועם ולאחד קראתי חבלים ולאחד שניהם פתחין שלא בסמיכות ואין זה כמנהג ברוב אלא שנמצאו כך מעטים ואמר כי לאחד מן המקלות קרא נועם ר"ל כי בנעימות נהג אותם על דרך שאמר דוד המלך ה' רועי לא אחסר בנאות דשא ירביצני על מי מנוחות ינהלני וזה היה בזמן שהיו ישראל שומרים דרך ה' שהיו מלכיהם ושופטיהם טובים ומדריכים אותם בדרך ישרה ואז היה האל מנהיג אותם בנעימות שבעים כל טוב אין שטן ואין פגע רע:
+
+
+###### Radak on Zechariah 11:7:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:7:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:7:3)
+
+
+**ולאחד.**מן המקלות קרא חובלים, והוא לשון השחתה כמו מחבלים כרמים ר"ל שהם השחיתו דרכם ועלילותם והוא נהג אותם על הענין הזה שלא חשש לשמור אותם מן האויבים אך היה נוהג אותם עדיין שלא סלק שכינתו ושמירתו מעליהם עד גלותם כי היו מלכים טובים ומלכים רעים אחריהם ובזמן שהיו רעים היה בא להם הרע והיה שם המקל חובלים ובזמן שהיו עושים טוב היה בא להם הטוב והיה שם המקל נועם:
+
+
+###### Radak on Zechariah 11:7:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:7:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:7:4)
+
+
+**וארעה את הצאן.**בין טוב ובין רע רעיתים:
+
+
+
+### Verse 8
+
+###### Radak on Zechariah 11:8:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:8:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:8:1)
+
+
+**ואכחיד את שלשת הרועים בירח אחד.**הם בני יאשיהו יהואחז ויהויקים וצדקיהו אלו השלשה מתו ביד אויביהם ויהויכין בן יהויקים אעפ"י שגלה לא נכחד כי ממנו נשתלשלה המלכות מלכות בית דוד אבל אלו השלשה נכחדו כי יהואחז וצדקיהו לא היה מזרעם מלך ויהויקים מת בבזיון סחוב והשלך ואלה השלשה היו בסוף חרבן הארץ וגלות הארץ כי בין שלשתם לא מלכו אלא כ"ב שנה וארבע חדשים וכלם היו בצרה ומה שאמר בירח אחד ר"ל בזמן מועט וכמוהו יאכלם חדש את חלקיהם:
+
+
+###### Radak on Zechariah 11:8:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:8:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:8:2)
+
+
+**ותקצר נפשי.**על דרך משל כמו ותקצר נפשו בעמל ישראל ובא על ענין שאמר יחזקאל ותקע נפשי מעליה כאשר נקעה נפשי מעל יהודה ושני הפסוקים מורים על חורבן הארץ בימי צדקיהו ובאמרו וגם נפשם בחלה בי כלומר לא קצרה נפשי בהם בתחלה כי גם נפשם מאסה בי מתחלה לפיכך קצרה נפשי בהם ויונתן לא תרגם כן פסוק ותקצר נפשו בעמל ישראל ותרגם ותקצר נפשי בהם ורחיק מימרי יתהון ותרגם וגם נפשם בחלה בי על דנפשהון קצת בפולחני ובשלשת הרועים לא פי' יונתן דבר אלא תרגמו כפשוטו ושיציתי תלתא פרנסיא בירחא חד:
+
+
+
+### Verse 9
+
+###### Radak on Zechariah 11:9:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:9:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:9:1)
+
+
+**ואמר לא ארעה אתכם.**וקודם שחרב הבית בימי ג' הרועים האלה כשראיתי כי מעשיהם רעים ולא היה עתיד לעמוד אחריהם מלך טוב אמרתי לא ארעה עוד אותם על דרך והסתרתי פני מהם והיה לאכל:
+
+
+###### Radak on Zechariah 11:9:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:9:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:9:2)
+
+
+**המתה תמות.**בדבר:
+
+
+###### Radak on Zechariah 11:9:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:9:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:9:3)
+
+
+**והנכחדת תכחד.**בחרב:
+
+
+###### Radak on Zechariah 11:9:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:9:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:9:4)
+
+
+**והנשארות תאכלנה אשה את בשר רעותה.**ברעב:
+
+
+
+### Verse 10
+
+###### Radak on Zechariah 11:10:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:10:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:10:1)
+
+
+**ואקח.**וכבר לקחתי את מקלי:
+
+
+###### Radak on Zechariah 11:10:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:10:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:10:2)
+
+
+**את נועם.**זה יאשיהו כי לא היה אחריו מלך טוב:
+
+
+###### Radak on Zechariah 11:10:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:10:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:10:3)
+
+
+**ואגדע אותו.**ע"י פרעה נכה הסירותיו:
+
+
+###### Radak on Zechariah 11:10:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:10:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:10:4)
+
+
+**להפיר.**בצר"י ובי"ד המשך אמר כיון שראיתי שלא יקום אחריו מלך טוב הסירותי אותו כדי שישלטו העמים בישראל כי לא היו שומרים דרך ה' אלא בהכרח המלך כמו שכתוב לפיכך אמר להפר את בריתי אשר כרתי את כל העמים כאלו כרת האל ברית עם כל העמים שלא יריעו לישראל כי לא הרעו להם בימי יאשיהו כי גם פרעה נכה שלח לו שלא ילחם עמו:
+
+
+
+### Verse 11
+
+###### Radak on Zechariah 11:11:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:11:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:11:1)
+
+
+**ותופר ביום ההוא.**אותה הברית הופרה ביום שמת יאשיהו כי שלש הרועים שלטו בהם העמים ובזזו ושללו והרגו והגלו אותם:
+
+
+###### Radak on Zechariah 11:11:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:11:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:11:2)
+
+
+**וידעו כן עניי הצאן השמרים אותי.**אותם הצדיקים שהיו בהם שהיו שומרים אותי כלומר אשר דברתי להם על ידי הנביאים ולא שמעו כי לא היו מאמינים להם אך הטובים שהיו בהם היו שומרים אותי כלומר דברי כמו ואביו שמר את הדבר ובבא הפורענות ידעו כי דבר ה' הוא:
+
+
+
+### Verse 12
+
+###### Radak on Zechariah 11:12:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:12:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:12:1)
+
+
+**ואמר אליהם.**דבר ה' הוא שאמר אליהם ע"י הנביאים:
+
+
+###### Radak on Zechariah 11:12:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:12:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:12:2)
+
+
+**הבו שכרי.**כיון שאני רועה אתכם הבו שכרי והשכר הוא התשובה ומעשים טובים:
+
+
+###### Radak on Zechariah 11:12:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:12:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:12:3)
+
+
+**ואם לא חדלו.**כמו שאמר יחזקאל אם ישמעו ואם יחדלו:
+
+
+###### Radak on Zechariah 11:12:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:12:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:12:4)
+
+
+**וישקלו את שכרי שלשים כסף.**שלשים צדיקים היו בהם בימי אלה שלשת הרועים ומצאנו מהם דניאל חנניה מישאל ועזריה וירמיה ויחזקאל וצפניה ואי אפשר שלא היו בהם אחרים ואם לא נזכרו שהרי כתוב נתנו את נבלת עבדיך מאכל לעוף השמים בשר חסידיך לחיתו ארץ וי"ת ואמרית להון אם תקין בעיניכון עבדו רעותי ואם לא אתמנעו ועבדו ית רעותי גוברין מקצת כלומר קצת אנשים שבו בתשובה:
+
+
+
+### Verse 13
+
+###### Radak on Zechariah 11:13:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:13:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:13:1)
+
+
+**ויאמר ה' אלי השליכהו אל היוצר.**אמר הנביא שאמר לו האל יתברך שישליך זה הכסף אל היוצר ופי' המפרשים כמו האוצר כי אותיות אהו"י הם מתחלפות ופי' שומר האוצר וכת"י אמרכלא רוצה לומר בדרך משל שיתיחדו בבית ה' ויהיו נבדלים מן העם העושים הרע בעיני ה' ואמר אל היוצר על דרך משל כענין היוצר יחד לבם ומבין וגו' והוא יודע הטובים והרעים חוקר לב ובוחן כליות כי יש מראים עצמם טובים ואינם טובים:
+
+
+###### Radak on Zechariah 11:13:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:13:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:13:2)
+
+
+**ואקחה.**כך היה נראה לו במראה הנבואה כי הוא היה לוקח הכסף ומשליכו בית ה' אל היוצר אבל ענין זה כבר עבר שנים רבות כי בימי ג' הרועים היה ור"ל בדרך המשל כי התיחדו הטובים ונבדלו מן העם ולא היו נראים עמהם ברחובות וזה שאמר ירמיה הנביא שוטטו בחוצות ירושלם ובקשו ברחובותיה אם יש איש מבקש אמונה ואסלח לה כמו שפירש אותו בספר ירמיה ומה שאמר אדר היקר הוא בית ה' ר"ל כמו שאמר ואשליך אותו בית ה' ר"ל אל אדר היקר ואל שאמר עומד במקום שנים ופירש אשר יקרתי מעליהם נכבדתי בעצמי וסרתי מעליהם לרוע מעשיהם וכת"י:
+
+
+
+### Verse 14
+
+###### Radak on Zechariah 11:14:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:14:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:14:1)
+
+
+**ואגדע.** זה אמר על החרבן שגדע צדקיהו שהיה תכלית החובלים והמשחיתים וחרב הבית וגלו ישראל:
+
+
+###### Radak on Zechariah 11:14:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:14:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:14:2)
+
+
+**להפר את האחוה בין יהודה ובין ישראל.**האחוה שהיתה בין יהודה ובין ישראל בעבודת עכו"ם הופרה אז כיון שגלתה יהודה לא נשאר בישראל עובדי עכו"ם כי ישראל עד שגלו לא הניחו מלעבוד עכו"ם בכל הצרות שהיו באות עליהם וכיון שגלו וראו כי דברי הנביאים אמת בחרבן הארץ לא עבדו אח"כ עכו"ם ויהודה ג"כ עבדו עכו"ם עד שגלו וכיון שגלו בטלה העכו"ם מהם הנה כי הופרה אז האחוה שהיתה ביניהם בעכו"ם וכת"י, הנה פירשנו פרשה זו לשעבר ופרשה הבאה אחריה על כל פנים היתה נבואה לעתיד בזמן בית שני ונפרשנה אחרי אשר נפרש פרשה זו בזמן בית שני פי' אדוני אבי ז"ל כן אמר הש"י החלותי לרעותם ולקחתי לי שני מקלות בחורים לרעותם נועם וחובלים נועם כהן גדול וחובלים מלך על כהן נאמר כי שפתי כהן ישמרו דעת ואמר ודעת לנפשך ינעם וחובלים מלך בעבור שהוא כמו רב החובל באניה ואלה הצאן אף על פי שרעיתים אני בשני אלה המקלות והסירותי מעליהם רועים אחרים והם מלכי האומות לא חזרו למוטב ושלחתי להם שלשת הנביאים לרעותם במקומי והם חגי זכריה ומלאכי ולא הועילו להם תוכחתם הכחדתים כמו שאמר ואכחיד את שלשת הרועים בירח אחד מזה נלמוד כי בירח אחד מתו ואחריהם לא היתה נבואה בישראל וכן ארז"ל משמתו חגי זכריה ומלאכי נסתלקה נבואה מישראל וכן נמצא כי תחלת נבואתם בזמן אחד היה בשנת שתים לדריוש אמר כאשר הכחדתי שלשת אלה הרועים ותקצר נפשי בהם וגם נפשם בחלה בי מאסה בי ורז"ל אמרו פגה בוחל וצמל ואמרו פגה אלו ימי הנעורים בוחל שהבת גדולה והאב קץ בה ופירש צמל יצאת מלאה שהיא בוגרת ונואש אביה מלהשיאה מרוב שבתה בבית ואמר לא ארעה וגו' ואקח את מקלי את נועם ואגדע אותו זה בקרוב לגלותם אבדה מהם כהונתם, הבו שכרי שובו בתשובה ושבו בתשובה ולא היתה תשובתם שלמה כי אם שלשים יום מאבלות שהתאבלו על כהן גדול שמת זהו שלשים כסף, השליכוהו אל היוצר כמו אל האוצר כמו שפי' אל בית ה' אל בית היוצר וענינו כתוב נבואה זו ושים אותה בבית ה' ויש מפרשים אל היוצר אל הקהל כמו יוצר גובי, אדר היקר אשר יקרתי מעליהם הדר הכבוד שסלקתי מעליהם בעבור כי בבית שני לא שרתה שכינה:
+
+
+###### Radak on Zechariah 11:14:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:14:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:14:3)
+
+
+**אשר יקרתי.**אשר מנעתי מן הוקר רגליך:
+
+
+###### Radak on Zechariah 11:14:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:14:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:14:4)
+
+
+**ואגדע את מקלי השני את החובלים.**הוא המלך והוא היה אגריפס כי בימיו הגלה טיטוס, והחכם ר' אברהם הלוי מטוליטולה שחבר ספר הקבלה פי' פרשה זו כן רעה את צאן ההריגה זה בנין בית שני וז"ש ואקח לי שני מקלות לאחד קראתי נועם ולאחד קראתי חובלים נועם זו נשיאות זרובבל נחמיה התרשתא שהם מבני דוד ולהם נתן ה' מלכות ישראל ברית מלח חובלים זה מלכות הכהנים כי הם בתחילה בנו בית המקדש אחד בהר גריזים ונתחתנו אל הכותיים ומהם יצאה האפיקורסות לעולם ולבסוף הורקנוס כהן גדול שמש בכהונה גדולה ארבעים שנה ולבסוף נעשה צדוקי ויהרג את הכהנים הוא ואלכסנדרוס בנו וכן היה דעת אריסטובולוס בן בנו נוטה, ואכחיד את שלשת הרעים בירח אחד, שלשה גדולות אלו רמז נשיאות בני דוד ומלכות בני חשמונאי ומלכות עבדיהם וקרא לכל ימי בית שני ירח אחד לפי שהיו בעיניו כימים אחדים וזהו שאמר ואקח את מקלי את נועם ואגדע אותו להפר את בריתי וגו' זו פטירת זרובבל ונחמיה כי נכרתה האהבה והופר הברית אשר היתה ביניהם ובין מלכי פרס וזהו שאמר אם טוב בעיניכם וגו' זהו שאמר להם כשהיה רועה אותם במקלו השני החובלים וכאלו אמר אם טוב בעיניכם ללכת בדרכי ה' וישקלו את שכרי שלשים כסף רמז לשלשים שנה שמלכו מלכים של חסד ואלו הם מתתיהו הנקרא חשמונאי שנה אחת יהודה בנו שש שנים יונתן בנו שש שנים ושמעון בנו י"ח שנה הרי ל"א שנה ואם היו בהם חדשים חסרים נעשו ל' שנה שמלכו מלכי אמונה וזהו שאמר ויאמר ה' אלי השליכהו אל היוצר אדר היקר אשר יקרתי מעליהם כלומר אדר הוא ויקר זה השכר וראוי להיותו בקרבנות ובכופר נפשות הקהל וקראם יוצר ופי' יוצר כמו שאמר והנה יוצר גובי וזהו שאמר ואשליך אותו בית ה' אל היוצר כענין הראשון הוא:
+
+
+###### Radak on Zechariah 11:14:5
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:14:5](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:14:5)
+
+
+**ואגדע את מקלי השני את החובלים.**זו עקירת מלכות בית חשמונאי בימי החובלים שהיו בהם הורקנוס ואריסטובולוס ובניו להפר האחוה בין יהודה כלומר אשר היה עומד להפר האחוה כמו שכתוב וצבי עדיו לגאון שמהו ופי' אשר לגאון שמהו ובין החובלים הוא שחלקו ישראל שתי ממלכות כאשר עשה ירבעם בן נבט שנחלקה בימיו מלכות בית דוד והופרה האחוה בין יהודה ובין ישראל:
+
+
+
+### Verse 15
+
+###### Radak on Zechariah 11:15:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:15:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:15:1)
+
+
+**ויאמר ה' אלי עוד קח לך כלי רועה אוילי.**אלו העבדים, הוי רועה האליל עוזבי הצאן חרב על זרועו ועל עין ימינו זרועו יבש תיבש ועין ימינו כהה תכהה, זה אגריפס המלך אשר העלה את אספאסיאנוס ואת טיטוס על ארץ ישראל ושרי הפריצים אשר עשו את כל הרעות:
+
+
+###### Radak on Zechariah 11:15:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:15:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:15:2)
+
+
+**ויאמר ה' אלי עוד קח לך כלי רועה אוילי.**אמר הש"י לזכריה שיקח לו כלי רועה שוטה במראה הנבואה והוא סימן למלך שיקום בישראל בזמן בית שני שיעשה מעשיו בשגעון וכלי הרועה השוטה משונה מכלי רועה אחר כי כלי הרועה הוא כמו שק שישים שם הרועה לחם שיאכל וכוס שישתה בו ודברים אחרים שצריך אליהם במדבר ברעותו הצאן והרועה השוטה כליו פחות וגרוע ונופל ממנו מזונו וכשיחסר מזונו מתקצף על הצאן ומכה אותם ולא יחוס עליהן:
+
+
+###### Radak on Zechariah 11:15:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:15:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:15:3)
+
+
+**אוילי.**היו"ד ליחס כיו"ד אכזרי וזה המלך הוא הורודוס שהיה עבד מבני חשמונאי וקם עליהם ומלך הוא ולקח אשה מהם והנהיג מלכותו בשטות והרג אשתו ובניו ועשה רעות רבות בישראל וי"ת אתנבי על פרנסא טפשא:
+
+
+
+### Verse 16
+
+###### Radak on Zechariah 11:16:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:16:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:16:1)
+
+
+**כי הנה, הנער.**פי' הטלה:
+
+
+###### Radak on Zechariah 11:16:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:16:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:16:2)
+
+
+**הנצבה.**העומדת במקומה שלא תוכל ללכת לרעות לא יכלכל אותה במקומה:
+
+
+###### Radak on Zechariah 11:16:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:16:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:16:3)
+
+
+**ופרסיהן יפרק.** לא די שלא ייטב להן אלא ירע להן שבמקלו ישבר פרסיהן ולא יוכלו ללכת וי"ת ושארהון יגמר:
+
+
+
+### Verse 17
+
+###### Radak on Zechariah 11:17:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:17:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:17:1)
+
+
+**הוי רועי האליל עזבי הצאן.**רועי, כמו רועה וכן באהל רועי כמו עוזבי כמו עוזב היו"ד נוספת וכן אסרי לגפן עירה חצבי מרום קברו והדומים להם:
+
+
+###### Radak on Zechariah 11:17:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:17:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:17:2)
+
+
+**האליל.** כמו רופאי אליל דבר שאינו מועיל וזה הרועה הוא הורודוס או אגריפס:
+
+
+###### Radak on Zechariah 11:17:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:17:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/11:17:3)
+
+
+**חרב על זרועו.**אחר שאמר יבש תיבש כהה תכהה לא רצה לומר חרב ממש אלא ר"ל כליון כמו שהחרב מכלה ואמר זרועו ר"ל שיכלה כחו ואמר עין ימינו ר"ל שתכלה השגחתו ועצתו במעשיו ור"ל עין ימינו עין הלב וכן כתב החכם ר' אברהם א"ע ז"ל אבל הוא לא פירש ענין הפרשה כענין שפירשנו אנחנו:
+
+
+
+## Chapter 12
+
+
+### Verse 1
+
+###### Radak on Zechariah 12:1:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:1:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:1:1)
+
+
+**משא דבר ה'.**אחר שזכר פורענות ישראל וחרבן הארץ פעמים התנבא על טוב ישראל ופורענות האומות ואמר נאם ה' נוטה שמים ויסד ארץ כלומר כי הוא ברא שמים וארץ ובידו הכל לנתוץ ולהרוס לבנות ולנטוע וזכר אדם כמו שאמר ישעיה ואדם עליה בראתי כלומר ואני הגליתי את ישראל ובידי להעלותם מהגלות ולהנקם מאויביהם וכתב החכם ר' אברהם בן עזרא ז"ל כי סמך ויוצר רוח אדם בקרבו לנוטה שמים ויוסד ארץ לפי שהאדם עולם קטן כנגד שמים וארץ שהוא עולם גדול ומה שאמר ויוצר רוח אדם בקרבו ולשון יצירה לא מצאנו אלא על דבר שיש בו ממש שהוא מוחש בחושים ולא כן הרוח ואמר כי מה שאמר ויוצר אמר על יצירת כלי הגוף המקבלים כח הרוח והם המוח והלב:
+
+
+
+### Verse 2
+
+###### Radak on Zechariah 12:2:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:2:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:2:1)
+
+
+**הנה אנכי, סף רעל.**כמו כוס התרעלה שהשותה אותו ימות כן כל הצובאים על ירושלם יסופו ויכלו:
+
+
+###### Radak on Zechariah 12:2:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:2:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:2:2)
+
+
+**וגם על יהודה יהיה במצור.**ר"ל כי יהודה יצורו עם האויבים על ירושלם וטעם על יהודה כי גם עליהם תהיה סף הרעל מתחלה שיבאו על כרחם במצור על ירושלם והנה תהיה עליהם זאת צרה גדולה ופי' הענין כי בבא גוג ומגוג על ירושלם אחרי הגאולה יעלו על ארץ יהודה כי מגמת פניהם לבא על ירושלם תחלה ולא יחושו לכל ארץ ישראל לכבשה תחלה כי יאמרו אחר שנכבוש ירושלם תהיה נכבשת כל ארץ ישראל לפנינו אבל יעלו לירושלם דרך ארץ יהודה כי היא דרכם ויקחו עמהם בני יהודה על כרחם שיבאו עמהם לצור על ירושלם: וכן ת"י.
+
+
+
+### Verse 3
+
+###### Radak on Zechariah 12:3:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:3:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:3:1)
+
+
+**והיה, אבן מעמסה.** המשילה תחלה לסף רעל והוסיף להמשילה לאבן מעמסה ר"ל כל היגיעים להלחם על ירושלם ילקו בה כמו האבן הגדולה שהיא לעומסיה למעמס גדול ולמשא כבד ובעוד שמרימים אותה מן הארץ להרימה על כתפם יעשו בה שריטות בידיהם ומנסים בה כחם אנשים רבים ובהסיעם אותה ישרט בידיהם כן יאספו על ירושלם כל גויי הארץ וכלם יהיו נאספים בה מעמסה מן ויעמוס איש על חמורו ועמסים על החמורים ענין משא וכת"י אבן תקלא לכל עממיא כל אנסהא אתבזזא יתבזזון וגו':
+
+
+a stone of burden – She is compared first to a cup of weakness, and then the prophet goes on to compare her to a stone of burden. This is to say - all those who wear themselves out fighting against Jerusalem will be beaten by her. This is like a great stone which is a tremendous burden and a heavy load to those who bear it. Furthermore, while they are lifting it off the ground to place it on their shoulders it will gash their hands. Many men test their strength against it and through carrying it gash their hands. So all the nations of the world will gather against Jerusalem, they will all be gathered together in her. The word burden (maamasa) is as in “…and each one loaded (va’yaamos) his donkey…” (Genesis 44:13) Loading something on a donkey relates to a burden. Targum Yonatan translated it into Aramaic as “a heavy stone for all nations, all who rob her will surely be plundered…”
+
+
+
+### Verse 4
+
+###### Radak on Zechariah 12:4:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:4:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:4:1)
+
+
+**ביום ההוא, אפקח את עיני.**לשמרם מהמכה שאביא על העמים אע"פ שהם ביניהם הם וסוסיהם ינצלו מהמכה אבל כל סוס העמים אכה בעורון ואמר בעורון אחר שאמר בתמהון כי שתי המכות האלה תהיינה להם והתמהון הוא בלב והעורון הוא בעינים:
+
+
+
+### Verse 5
+
+###### Radak on Zechariah 12:5:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:5:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:5:1)
+
+
+**ואמרו אלופי יהודה.**יאמרו בלבם כשהיו בין אויביהם כי יושב ירושלם יהיו אמצה וחוזק להם שיצאו להלחם עמם בעזרת ה' צבאות וינצלו בם:
+
+
+###### Radak on Zechariah 12:5:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:5:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:5:2)
+
+
+**אמצה.**שם בשקל עולה ענוה כבשה שלוה:
+
+
+
+### Verse 6
+
+###### Radak on Zechariah 12:6:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:6:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:6:1)
+
+
+**ביום ההוא אשים את אלופי יהודה.**גדולי יהודה שיהיו בחוץ אשימם ככיור אש בעצים כי באש שאשלח בגוים תמהון ושגעון יתבוננו כי מאת ה' הוא ויכו הם ובני יהודה שעמהם בגוים על ימין ועל שמאל ופי' כיור אש גחלת אש מלשון תנור וכירים וכמו שהעצים והעמיר נכונים לבער עם אש כן העכו"ם יהיו נכונים לאבדון ולכליון בתמהון ובשגעון שישלח בהם האל יתברך ואלופי יהודה יהיו בהם כמו האש לכלותם:
+
+
+###### Radak on Zechariah 12:6:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:6:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:6:2)
+
+
+**וישבה ירושלם עוד תחתיה בירושלם.**כי העכו"ם חשבו להשמידה מהיות עיר והיא תשב עוד במקומה במקום שהיא נקראת ירושלם היום:
+
+
+
+### Verse 7
+
+###### Radak on Zechariah 12:7:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:7:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:7:1)
+
+
+**והושיע ה', אהלי יהודה בראשונה.**לפי שהצרים על עיר יושבים באהלים לפיכך אמר אהלי יהודה ואמרו עוד כי על בית רכבים אמר שהם יושבים באהלים לעולם והיו יושבים בתוך בני יהודה ות"י אהלי יהודה קרוי דבית יהודה בראשונה קודם שיושעו יושבי ירושלם יהיו נושעים בני יהודה שהם מבחוץ מפחד אויביהם שבאו עמהם במצור:
+
+
+###### Radak on Zechariah 12:7:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:7:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:7:2)
+
+
+**למען לא תגדל תפארת בית דוד.**כי בית דוד יהיו מבפנים בעיר עם יושבי ירושלם ואם יושעו הם בתחלה יתפארו על בני יהודה שהם מבחוץ ויאמרו שעל ידם הם נושעים:
+
+
+
+### Verse 8
+
+###### Radak on Zechariah 12:8:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:8:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:8:1)
+
+
+**ביום ההוא, הנכשל בהם.**החלש שבהם יהיה כדוד שהיה גבור חיל ואיש מלחמה:
+
+
+###### Radak on Zechariah 12:8:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:8:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:8:2)
+
+
+**ובית דוד.**ר"ל המלך המשיח כמו שמעו נא בית דוד שאמר על אחז המלך ויצא המלך לפניהם להלחם בגוים ההם כאלהים ופי' כמלאך ה':
+
+
+
+### Verse 9
+
+###### Radak on Zechariah 12:9:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:9:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:9:1)
+
+
+**והיה ביום ההוא אבקש להשמיד.**אבקש ואעשה כלומר אשים כל רצוני להשמידם:
+
+
+
+### Verse 10
+
+###### Radak on Zechariah 12:10:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:10:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:10:1)
+
+
+**ושפכתי, רוח חן ותחנונים.** כלומר שימצאו חן בעיני ואושיעם מן הגוים הבאים עליהם וכפל הענין במילות שונות לחזק הענין ויונתן תירגם רוח חסדא ורחמין ופי' אדוני אבי ז"ל רוח שיהיה חן בעיני כל אדם ושיהיו תחנוניכם מקובלים לפני והנה אמר שיגן עליהם הנה זכר המדרגות העליונות המנשאות אותם אח"כ אמר שאם יזדמן שידקרו אחד מהם במלחמה ואפילו הדיוט שבהם תימה גדולה יהיה להם היאך יהיה דבר זה ויחשבו אותו שהוא תחלת ירידה והכנעה נגד אויביהם כמו שעשה יהושע כאשר הכו אנשי העי מישראל שלשים וששה איש אמר אהה ה' ואמר מה אומר אחרי אשר הפך ישראל עורף לפני אויביו כן יהיה ענינם עתה אם יראו שיהרג מהם אפי' אחד יתמהו והביטו אלי את אשר דקרו בעבור שדקרו וספדו עליו כאדם שאין לו אלא בן אחד וימות או כאדם שימות בכורו ורז"ל פי' על משיח בן יוסף שיהרג במלחמה ותמה אני לפי פירושם איך סתמו ולא זכרו כלל:
+
+
+###### Radak on Zechariah 12:10:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:10:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:10:2)
+
+
+**והמר.**ענין מרירות לב:
+
+
+
+### Verse 11
+
+###### Radak on Zechariah 12:11:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:11:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:11:1)
+
+
+**ביום ההוא, כמספד.**בפתח מפני הסמיכות:
+
+
+###### Radak on Zechariah 12:11:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:11:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:11:2)
+
+
+**הדדרימון בבקעת מגדון.**ידוע היה אצלם ולא ראינו זכר מזה במקרא:
+
+
+
+### Verse 12
+
+###### Radak on Zechariah 12:12:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:12:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:12:1)
+
+
+**וספדה הארץ.**אנשי הארץ יספדו על זה הדיקור:
+
+
+###### Radak on Zechariah 12:12:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:12:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/12:12:2)
+
+
+**משפחות משפחות.**כל אחת במקומה ואלה המשפחות הנזכרות כמו נתן ושמעי יהיו גדולות וידועות באותו הזמן והנביא זכרם דרך נבואה ומה שאמר ונשיהם לבד הוא דרך צניעות או פי' לפי שהנשים מקוננות וסופדות יותר מן האנשים אמר שתתיחדנה לבדן לספוד כמנהגן:
+
+
+
+## Chapter 13
+
+
+### Verse 1
+
+###### Radak on Zechariah 13:1:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:1:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:1:1)
+
+
+**ביום ההוא יהיה מקור נפתח לבית דוד.**אפשר לפרשו כמשמעו וכן רז"ל הדביקוהו לפסוק יצאו מים חיים מירושלם ואמרו יכול שיתערבו בהן מעינות אחרות ת"ל יהיה מקור נפתח לבית דוד מקור אחד הוא לחטאת ולנדה. ואמרו עוד כיון שהגיעו המים לפתח בית דוד נעשה נחל גדול שנאמר ביום ההוא יהיה מקור נפתח לבית דוד ולמה שפירש הפסוק כמשמעו יהיה פי' לחטאת ולנדה כי עד היום ההוא לא יצאו מים בירושלם בתוך העיר ואז יצאו מים חיים בעיר ולא יצטרכו לצאת חוץ לעיר למי חטאת שצריך שיהיו חיים כמו שכתוב וכן לנדה שהיא זבה שצריכה מים חיים:
+
+
+
+### Verse 2
+
+###### Radak on Zechariah 13:2:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:2:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:2:1)
+
+
+**והיה, אכרית את שמות העצבים.**שהיו שם טרם גלותם בראשונה או העצבים שעובדים שם היום:
+
+
+###### Radak on Zechariah 13:2:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:2:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:2:2)
+
+
+**וגם את הנביאים.**נביאי השקר שהיו שם במקדש ראשון:
+
+
+###### Radak on Zechariah 13:2:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:2:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:2:3)
+
+
+**ואת רוח הטומאה.**יצר הרע:
+
+
+
+### Verse 3
+
+###### Radak on Zechariah 13:3:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:3:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:3:1)
+
+
+**והיה כי ינבא איש עוד.**אני אעביר הנביאים אבל אם יהיה חוטא אחד שינבא ברוח שקר ויכזב ויאמר כי ברוח האל נבא וישראל בזמן ההוא תהיה בהם דעה והשכל שיכירו את דברי המתנבא ההוא אם יהיו דברי אמת או דברי שקר ויאמרו אליו אביו ואמו שהם יולדיו לא תחיה כי שקר דברת בשם ה' ויולדיו הוא תוספת ביאור כי כבר זכר אביו ואמו ודקרוהו אביו ואמו ויכוהו ויפצעוהו ליסרו, או פירוש ודקרוהו יהרגוהו כמו שאמר לא תחיה:
+
+
+
+### Verse 4
+
+###### Radak on Zechariah 13:4:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:4:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:4:1)
+
+
+**והיה ביום ההוא יבושו.**כשיראו שלא יתקיימו נבואתם יבושו:
+
+
+###### Radak on Zechariah 13:4:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:4:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:4:2)
+
+
+**בהנבאותו.**מקור בתוספת תי"ו וכן במשנה והלא במאמר אחד יכול להבראות:
+
+
+###### Radak on Zechariah 13:4:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:4:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:4:3)
+
+
+**ולא ילבשו עוד אדרת שער למען כחש.**כי כן היה מנהג נביאי השקר ללבוש שקים ואדרת שער למען כחש למען שיוכלו לכחש ויאמינו בהם בני אדם כי הם מראים עצמם בפני בני אדם שהם פרושים ואנשים צדיקים וישרים ולא ידברו כזב וכשיראו שלא יתקיימו נבואתם יהיה להם בשת ויניחו ממעשיהם ומחזיונם וממלבושיהם ויכחשו בנבואתם ויאמרו שאינם נביאים ולא נבאו מעולם אלא עובדי אדמה הם ולא יתעסקו בדברים הללו אלא בעבודת האדמה ובמקנה ובקנין:
+
+
+
+### Verse 5
+
+###### Radak on Zechariah 13:5:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:5:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:5:1)
+
+
+**ואמר.**יאמר לשואל אותו איה נבואתו יכחש ויאמר לא נביא אנכי:
+
+
+###### Radak on Zechariah 13:5:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:5:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:5:2)
+
+
+**הקנני.**למדני להיות רועה מקנה ומתעסק בעבודת האדמה:
+
+
+
+### Verse 6
+
+###### Radak on Zechariah 13:6:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:6:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:6:1)
+
+
+**ואמר אליו מה המכות האלה בין ידיך.** אם כן שאין אתה נביא מה המכות האלה שבין ידיך כי המכות הם סימן שהיית מתנבא ואביך ואמך הכוך ויסרוך שלא תתנבא:
+
+
+###### Radak on Zechariah 13:6:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:6:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:6:2)
+
+
+**ואמר אשר הכתי בית מאהבי.**יאמר אין המכות בעבור הנבואה אלא אוהבי הכוני ויסרוני לפי שהייתי משולח ולא הייתי מתעסק בעבודת האדמה בנערותי והיו מכים אותי שאסור משילוח הנערים ואתעסק במלאכה וטעם המכות בין הידים שהיו אוסרים ידיו ורגליו כדי שלא יצא לחוץ. וטעם הענין הזה לעתיד לפי שהאל יתברך יעדנו לעתיד ואמר והיה אחרי כן אשפוך את רוחי על כל בשר ונבאו בניכם ובנותיכם ואותם שלא יתנבאו יקנאו לאחרים שיתנבאו ויעשו עצמם נביאים כמו האחרים ויכירו אבותם השומעים נבואתם שהיא שקר ויאמרו להם אבותם לא תחיה כי שקר דברת בשם ה'. ואדוני אבי ז"ל פי' הענין הזה לעתיד לבא בזמן תחיית המתים ואמר כי כשיחיו המתים כמו שכתוב בדניאל ורבים מישיני אדמת עפר יקיצו אלה לחיי עולם הצדיקים ואלה לחרפות ולדראון עולם אותם שכפרו בעיקר וכפרו בתחיית המתים ואותם בינונים שלא כפרו בעיקר אך היו חולמים חלומות שקר ואמרו נבואות מלבם אך לא עבדו עכו"ם כשיחיו יהיו בידיהם מכות כמו מכות שחין או גרב וזה יהיה שכר לפעולתו ועונשו על שהתנבא בשקר כדי שיכירוהו בני אדם ויהיה לו בשת כמו שאמר יבשו הנביאים איש מחזיונו בהנבאותו בעבור נבואת השקר בימים הקדמונים ולא ילבשו עוד אדרת שער כמו שעשו בתחלה שהיו לובשים שקים ובגדי פרושים ועובדי האל בעבור שיאמינו בני אדם שקריהם ובזמן העתיד כשיראום בני אדם ויכירום יכחש כל אחד מהם ויאמר לא היו דברים מעולם כי עובד אדמה אנכי כי אדם הקנני מנעורי אדם עם הארץ הקנני שם אותי רועה מקנה ועובד אדמה ובאמרם לו מה המכות האלה בין ידיך יאמר הוא הם אשר הכתי בית מאהבי בבית המדרש הכוני מאהבי על הכתובה שהיינו כותבים והיינו לומדים או על דבר אחר שיאמר:
+
+
+
+### Verse 7
+
+###### Radak on Zechariah 13:7:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:7:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:7:1)
+
+
+**חרב עורי על רועי.**פי' רש"י ז"ל על עשו שהפקדתי על צאן גלותי ועל גבר עמיתי שחברתיו אלי לשמור את צאני כמוני והך את הרועה מלכות הרשעה והחכם ר' אברהם פי' שהנבואה הזאת על מלחמות רבות תהיינה בכל הארץ בימי משיח בן יוסף וטעם רועי על מלך מעכו"ם שהמשילו השם על הארץ והוא חושב עצמו שהוא כאלהים על כן אמר ועל גבר עמיתי שהוא חושב על עצמו שהוא גבר עמיתי:
+
+
+###### Radak on Zechariah 13:7:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:7:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:7:2)
+
+
+**הך את הרועה.**השם יתברך יכרית כל רועה מהעכו"ם ותפוצנה צאנו והצערים הם השלטונים והשרים שהם צעירים מהמלכים ות"י חרבא אתגלי על מלכא דבבל וגומר ר"ל המשנים של העכו"ם והשלטונים:
+
+
+
+### Verse 8
+
+###### Radak on Zechariah 13:8:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:8:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:8:1)
+
+
+**והיה בכל הארץ.**פי' בכל ארץ ישראל וי"מ בכל העולם כי גם מאומות העולם לא ישארו אלא הטובים שיהיו עובדי האל יתברך:
+
+
+###### Radak on Zechariah 13:8:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:8:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:8:2)
+
+
+**פי שנים.**שני חלקים מהם:
+
+
+###### Radak on Zechariah 13:8:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:8:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:8:3)
+
+
+**יכרתו יגועו.**מקצתם יכרתו בחרב ומקצתם יגועו בדבר:
+
+
+###### Radak on Zechariah 13:8:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:8:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:8:4)
+
+
+**והשלישית יותר בה.**ישארו בארץ חיים:
+
+
+
+### Verse 9
+
+###### Radak on Zechariah 13:9:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:9:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/13:9:1)
+
+
+**והבאתי, באש.**פי' בצרות קשות דומות לאש ואמר אש לפי שהמשילה למצרף הכסף והזהב שהם צורפים ובוחנים באש כן יהיו הם מצורפים ובחונים בסבלם הצרות הקשות בלב טוב באותו הזמן שיסבלו אותם וכן ת"י ואעיל ית תליתאה בעקא בכור דאשא:
+
+
+
+## Chapter 14
+
+
+### Verse 1
+
+###### Radak on Zechariah 14:1:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:1:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:1:1)
+
+
+**הנה יום בא לה'.**לה' יהיה אותו היום שכבודו וגבורתו באותו הזמן יראה והוא זמן שיבא גוג ומגוג על אדמת ישראל כמו שנבא יחזקאל הנביא וחלק שללך בקרבך זה אמר כנגד ירושלם כי יחלקו הגוים שלל העיר בקרבה כמו שאמר ונשסו הבתים ויונתן תרגם הוא יומא דעתיד למיתי מן קדם ה' ויפלגון בית ישראל ית נכסי עכו"ם בגויך ירושלם:
+
+
+
+### Verse 2
+
+###### Radak on Zechariah 14:2:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:2:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:2:1)
+
+
+**ואספתי.** כלומר שישים בלבם לבא אל ירושלם למלחמה כמו שאמר בנבואת יחזקאל והעליתיך מירכתי צפון והביאותיך על הרי ישראל:
+
+
+###### Radak on Zechariah 14:2:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:2:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:2:2)
+
+
+**ונלכדה העיר.**זאת הצרה תהיה לצרף השלישית שיוותר בה ועליה נאמר בנבואת ישעיה חבי כמעט רגע עד יעבור זעם ונאמר בנבואת דניאל והיתה עת צרה אשר לא נהיתה מהיות גוי וגו':
+
+
+###### Radak on Zechariah 14:2:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:2:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:2:3)
+
+
+**ונשסו הבתים.**מפעלי הכפל שרשו שסס וכן מי נתן למשסה יעקב ענין בזה ושלל:
+
+
+###### Radak on Zechariah 14:2:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:2:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:2:4)
+
+
+**ויצא חצי העיר בגולה.**ר"ל שיגלום מן העיר כשבויים אל אהליהם שהם חוץ לעיר עד כאן יניחם האל יתברך ביד אויביהם לצרף אותם וימלט כל הכתוב בספר ויקבל הצרה בלב טוב ויתר העם לא יכרת מן העיר כי לא יתנם האל יתברך עוד ביד אויביהם ויתגברו ישראל על האויבים בעזרת האל עמהם זהו שאמר ויצא ה' ביום קרב ביום מלחמה תרגום מלחמה קרבא וכן טובה חכמה מכלי קרב והדומים לו ואמר ביום קרב ולא פירש באיזו מלחמה ופירושו כתרגומו כיום אגחותיה קרב על ימא דסוף כי אז היו ישראל בצרה גדולה כי המצריים היו רודפים אחריהם ואמר להם משה רבינו עליו השלום ה' ילחם לכם ואתם תחרישון וכן אמר הנה ונלחם בגוים ההם:
+
+
+
+### Verse 4
+
+###### Radak on Zechariah 14:4:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:4:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:4:1)
+
+
+**ועמדו רגליו.**על דרך משל שיראו אות ומופת בהר הזתים שיבקע ופי' החכם הגדול רבינו משה ז"ל סבתו כמו ויברך אותך לרגלי בסבתי כן רגליו רוצה לומר קיום סבותיו כלו' הנפלאות אשר יראו אז במקום ההוא אשר הוא יתברך סבתם כלומר עושם וי"ת ויתגלו גבורתיה בעדנא ההיא והר הזתים הוא על פני ירושלם כלומר סמוך לירושלם במזרחה מחציו מזרחה וימה ממזרח למערב יבקע ההר כולו חציו לצפון וחציו לדרום ויהיה ביניהם גיא גדול מאד:
+
+
+###### Radak on Zechariah 14:4:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:4:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:4:2)
+
+
+**ומש.**יסור כלומר שיסיר ויעתק חצי ההר ממקומו לצד צפון וחציו לצד דרום והגיא ביניהם וכן תרגם יונתן ומש ויתלש ומשל האות הזה שיבקעו הגוים הבאים על ירושלם ויפלו הנה והנה:
+
+
+
+### Verse 5
+
+###### Radak on Zechariah 14:5:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:5:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:5:1)
+
+
+**ונסתם גיא הרי.**כשיבקע ההר ינוסו מפני קול הרעש וינוסו אל גיא הרי:
+
+
+###### Radak on Zechariah 14:5:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:5:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:5:2)
+
+
+**כי יגיע גיא הרים אל אצל.**כי הגיא שיעשה בבקעה ההיא יאריך ויגיע אל אצל והוא שם מקום כלומר חוץ להרים תהיה הבקיעה ההיא עד אצל וינוסו שם שיחשבו להנצל חוץ להרים וימצאו שם גיא כמו כן הרי כמו הרים וכן אצילי ידי כמו ידים וקרע לו חלוני כמו חלונים וחשופי שת כמו חשופים והדומים להם כמו שכתבנו בספר מכלל:
+
+
+###### Radak on Zechariah 14:5:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:5:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:5:3)
+
+
+**כאשר נסתם.**רוצה לומר נסו אבותיכם וכן ואותנו הוציא משם והדומים להם:
+
+
+###### Radak on Zechariah 14:5:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:5:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:5:4)
+
+
+**מפני הרעש.** אמרו כי מה שאמר בישעיה וינועו אמות הספים אז היה הרעש וזה הוא שאמר בתחלת עמוס שנתים לפני הרעש:
+
+
+###### Radak on Zechariah 14:5:5
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:5:5](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:5:5)
+
+
+**ובא ה' אלהי.**אז יבא השם אלהי כמו שאמר ויצא ה' כמו שפירש כל קדושים עמך כמו וכל קדושים וכן שמש ירח ראובן שמעון מלך שרים והדומים להם ורוצה לומר קדושים מלאכים על דרך כי מלאכיו יצוה לך שמה הנחת ה' גבוריך. וטעם עמך כנגד ירושלם כמו שאמר בתחלת הפרשה בקרבך ויונתן תרגם עמך עמיה כמו עמו והחכם הגדול הרמב"ם ז"ל פירש הענין על ההבטחה הטובה אשר הבטיח את ישראל על ידי נביאיו הקדושים פי' ובא ה' אלהים על ידי כל הקדושים עמך המדברים לישראל ויונתן תרגם ונסתם תחלת הפסוק ויסתתים דומה שהיה קורא ונסתם בשקל כי נכתם עונך וכן נמצא במקצת הספרים ואמר כי כן קוראים אנשי מזרח ונסתם ואם הקריאה כן יהיה פירוש כן כי אחרי שיבקע הר הזתים יסתם אחר שעה או שעות או יום או יומים וזה יהיה יותר אות גדול שיסתם אחר שיבקע כי הרעש הנמצא בעולם שתבקע הארץ ממנו לא תסתם אחר כן וכן היה בקיעת הארץ לקרח ולעדתו שנסתמה הארץ אחר שנבקעה כמו שאמר ותכס עליהם הארץ וזה היה אות גדול ופי' כי יגיע גיא הרים אל אצל העמק שנעשה בין שני חציי ההר כשיסתם יגע סתומו אל המקום הגבוה שבהר שלא תאמר שיסתם חציו או שני חלקיו אלא כולו יסתם עד המקום הגבוה שבהר ואצל ענינו גבוה כמו ואל אצילי בני ישראל שענינו גדולי ישראל ומה שאמר הרים והר הזתים הוא הר אחד לפי שבבקיעתו נעשה שנים:
+
+
+
+### Verse 6
+
+###### Radak on Zechariah 14:6:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:6:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:6:1)
+
+
+**והיה ביום ההוא.**ביום שזכר שיהיה בו האות יהיה זה הענין שלא יהיה אור יקרות וקפאון ופי' על דרך משל שלא יהיה אור היום ההוא בהיר והוא אור יקרות כמו וירח יקר הולך ולא אור קפאון והוא קפוא ועבה שהוא כמו חשך ופי' שלא יהיה היום ההוא כלו לא כאור ולא כחשך כלומר לא ברוחה ולא בצרה כי שתיהם יהיו בו וכן אמר אחריו לא יום ולא לילה ויונתן תרגם לא יהא נהורא אלהין עדי וגליד:
+
+
+And it shall come to pass on that day - on the day that he mentioned that there would be the sign, this is the matter, that there will not be light of yeqarot nor of qippa'on, and the interpretation by way of analogy is that the light of day will not be bright, which is the light of yeqarot, as in "the moon walks yaqar (in brightness)" (Job 31:26), and neither [will there be] light of qippa'on, which is frozen and thick, which is like darkness. And the interpretation is that that day will not be neither all like light nor all like darkness, meaning neither comfortable nor troubling, but rather both of them will be in it. And likewise he (Zechariah) says after it (verse 7)"not day and not night." And Jonathan translated, "there will not be light, but rather passing light and ice/thickness/congealment"
+
+
+
+### Verse 7
+
+###### Radak on Zechariah 14:7:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:7:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:7:1)
+
+
+**והיה יום אחד.**אותו היום יהיה יום מיוחד לה' שיודע בו בגבורותיו ובנפלאותיו שיעשה באותו היום:
+
+
+###### Radak on Zechariah 14:7:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:7:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:7:2)
+
+
+**לא יום ולא לילה.**לא יהיה כולו יום ולא כולו לילה כלומר לא יהיה כלו צרה ולא כלו רוחה:
+
+
+###### Radak on Zechariah 14:7:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:7:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:7:3)
+
+
+**והיה לעת ערב יהיה אור.**לעת הצרה הגדולה שיצא בגולה אז ויצא ה' ונלחם בגוים ההם:
+
+
+
+### Verse 8
+
+###### Radak on Zechariah 14:8:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:8:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:8:1)
+
+
+**והיה, מים חיים.**הוא שאמר בנבואת יואל ומעין מבית ה' יצא וגו' והוא שנאמר בנבואת יחזקאל והנה מים מפכים ונאמר שם והיו לנחל גדול הכל כמו שכתוב שם:
+
+
+###### Radak on Zechariah 14:8:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:8:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:8:2)
+
+
+**הקדמוני.** המזרחי:
+
+
+###### Radak on Zechariah 14:8:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:8:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:8:3)
+
+
+**האחרון.**המערבי הוא שנאמר בנבואת יחזקאל ובאו הימה אל הים:
+
+
+###### Radak on Zechariah 14:8:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:8:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:8:4)
+
+
+**בקיץ ובחורף יהיה.**מוצאם שלא ייבשו אלה הנחלים ולא יכזבו מימיהם וי"ת בקייטא ובסיתוא יהון נפקין וכתב החכם רבי אברהם א"ע ז"ל כי זכר קיץ וחורף לפי שהם תקופות יבשות כי ימי הקיץ הם חמים ויבשים וימי החורף קרים ובאלה הימים יחסרו הנהרות:
+
+
+
+### Verse 9
+
+###### Radak on Zechariah 14:9:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:9:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:9:1)
+
+
+**והיה ה' למלך.**כשיראו הגוים הבאים על ירושלם אלה הנפלאות הנזכרות יכירו כי ה' הוא המולך על כל הארץ ומשגיח בתחתונים ועושה בהם כרצונו והטבעים הופך לעשות רצון יראיו כי הכל מעשה ידיו:
+
+
+And the Lord shall become King - When the nations who come to Jerusalem see the wonders mentioned here, they will recognize that the Lord reigns over all the earth and exerts His providence on the lower world. He does with them as he pleases, and nature is transformed to do the will of those who fear Him, because everything is the work of His hands:
+
+
+###### Radak on Zechariah 14:9:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:9:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:9:2)
+
+
+**ביום ההוא יהיה ה' אחד ושמו אחד.**שיכירו כי ה' אחד ואין אלוה מבלעדו וכן שמו יהיה אחד שלא יזכרו בשם אלוה אחר בעולם אלא שמו לבדו יזכרו כמו שכתוב למעלה והיה ביום ההוא נאם ה' צבאות אכרית את שמות העצבים מן הארץ ולא יזכרו עוד והחכם ר' אברהם בן עזרא ז"ל פירשו בשם המפורש שהוא שם בן ארבע אותיות וכן כתב ושמו אחד הוא השם הנכבד הנודע על ידי משה רבינו עליו השלום ויקרא אז בפי הכל ככתיבתו וכן החכם הגדול הר"ר משה ז"ל פירשו בשם המפורש כי כל השמות המיוחסים לאל יתברך הם שמות נגזרים אם לפי יחס הפעלות אליו או לפי ההישרה לשלמותו וכאשר רבו אלה השמות הנגזרים חשבו קצת בני אדם שיש לה' יתברך תארים רבים כמספר הפעולות אשר נגזרו השמות מהם ולזה ייעד בהגיע לבני אדם השגה שתתיר מהם זה הספק ואמר ביום ההוא יהיה ה' אחד ושמו אחד ר"ל שכמו שהוא אחד כן יקרא אז בשם אחד לבד והוא המורה על העצם לבד לא שהוא נגזר וכן ת"י ותתגלי מלכותא דה' וגו':
+
+
+IN THAT DAY י-ה-ו-ה SHALL BE ONE, WITH ONE NAME — That is, all will recognize that God is one, and there is no other divinity; and so God’s name will be one - that is, they will not call by name another divinity throughout the world, only God’s name, God alone will they call. As it says earlier (Zech 13:2), “In that day, too—declares י-ה-ו-ה of Hosts—I will erase the very names of the idols from the land; they shall not be uttered anymore. And I will also make the ‘prophets’ and the impure spirit vanish from the land.” And the sage Rabbi Abraham ibn Ezra (of blessed memory) explains our verse as referring particularly to the Explicit, Personal Name - the 4-Letter Name, the Tetragrammaton. Ibn Ezra writes, “WITH ONE NAME - this is The Glorious Name, that which became known through Moses our teacher, peace be upon him, and it will be expressed aloud then, in all mouths, as it is spelled.” (as of now, it is never spoken as written). And so too the great sage Rabbi Moses [ed: he’s likely referring either to Maimonides or Nachmanides, I’m not sure which and I couldn’t find the quote] also explains our verse as referring to the Explicit Personal Name. “Because all names attributed to God, may He be blessed, are names that define; whether they relate God’s actions to Him, or whether they try to point toward God’s wholeness and perfection. And when these many definitional names proliferate, some of the people start to think that God has many (separate) aspects, as many as the behaviors that these names describe. And this phenomenon, this confusion and doubt, the prophecy declares, is destined to be untangled when understanding reaches the people, the understanding that can release them from it. This prophecy says: “In that day י-ה-ו-ה shall be one, with one name.” That is, just as God is One, so too God will be called then by One Name only, the only name that denotes the Divine Essence alone, and not any definition or connotation.” So too, in Targum Yonatan, “There will be a revelation of the sovereignty of י-ה-ו-ה”.
+
+
+
+### Verse 10
+
+###### Radak on Zechariah 14:10:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:10:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:10:1)
+
+
+**יסוב כל הארץ כערבה.**כל הארץ סביב ירושלם שהיא עתה הרים כמו שאמר ירושלם הרים סביב לה תהיה אז מישור כערבה והיא תרום ותגביה על כל הארץ אף על פי שעתה ג"כ היא גבוה מכל ארץ ישראל מפני ההרים שהם סביב לה היום לא תראה גבהותה כל כך אבל באותו הזמן שתהיה כל הארץ סביבותיה ארץ מישור תראה גבהותה על כל הארץ הוא שאמר בנבואת ישעיה יהיה הר בית ה' נכון בראש ההרים ונשא מגבעות ואף על פי שפירושו שם נשא בגדולה ובמעלה הכל יהיה זה וזה:
+
+
+###### Radak on Zechariah 14:10:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:10:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:10:2)
+
+
+**מגבע לרמון.**משם יחל המישור:
+
+
+###### Radak on Zechariah 14:10:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:10:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:10:3)
+
+
+**נגב ירושלם.**לדרום ירושלם:
+
+
+###### Radak on Zechariah 14:10:4
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:10:4](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:10:4)
+
+
+**וראמה.**בתנועת האלף והוא במקום וי"ו עי"ן הפעל כאלף וקאם שאון אלא שהאל"ף ההיא היא נחה ופי' וראמה כמו שכתבנו שתהיה רמה וגבוה על כל הארץ:
+
+
+###### Radak on Zechariah 14:10:5
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:10:5](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:10:5)
+
+
+**וישבה תחתיה.**במקומה תהיה אלא שתארך ותרחב:
+
+
+###### Radak on Zechariah 14:10:6
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:10:6](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:10:6)
+
+
+**שער הפנים.**הוא שנאמר בנבואת ירמיה שער הפנה ומגדל חננאל נזכר גם כן שם:
+
+
+###### Radak on Zechariah 14:10:7
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:10:7](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:10:7)
+
+
+**יקבי המלך.**מן גורן ויקב וידועים היו אצלם שהיו חוץ לעיר ות"י עד שיחי מלכא:
+
+
+
+### Verse 11
+
+###### Radak on Zechariah 14:11:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:11:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:11:1)
+
+
+**וישבו בה.**פירוש וישבו בה לעולם:
+
+
+###### Radak on Zechariah 14:11:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:11:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:11:2)
+
+
+**וחרם לא יהיה עוד.**שלא תהיה לחרם ולחרבן לעולם כמו שנאמר בנבואת ירמיה לא ינתש ולא יהרס:
+
+
+
+### Verse 12
+
+###### Radak on Zechariah 14:12:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:12:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:12:1)
+
+
+**וזאת תהיה המגפה אשר יגוף ה'. המק בשרו.**זה נפול האברים:
+
+
+###### Radak on Zechariah 14:12:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:12:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:12:2)
+
+
+**והוא עומד על רגליו.**שלא יחיה מתוך החולי אלא בעוד שהוא עומד על רגליו ימסו בשרו ואיבריו:
+
+
+###### Radak on Zechariah 14:12:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:12:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:12:3)
+
+
+**בחוריהן.**כשתמקנה העינים יהיה מקומם חור ותרגם יונתן יתמסן בגלגליהון וזה המכה הוא שנאמר בנבואת ישעיה ונתתי בהם אות ושלחתי מהם פלטים וגו':
+
+
+
+### Verse 13
+
+###### Radak on Zechariah 14:13:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:13:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:13:1)
+
+
+**והיה ביום ההוא: ועלתה ידו על יד רעהו.**תפסק ידו כשיחזיק ביד רעהו כמו שאמר המק בשרו וכן כעלות גדיש בעתו ותעל שכבת הטל ועריה עליה וכן תרגם יונתן ותתליש ידיה עם ידא דחבריה:
+
+
+
+### Verse 14
+
+###### Radak on Zechariah 14:14:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:14:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:14:1)
+
+
+**וגם יהודה.**פירוש גם יהודה שבאו עם הגוים ונלחמו עמהם בירושלם כשיראו המגפה שישלח ה' בהם יאספו חילם זהב וכסף ובגדים כמו שאמר ואכלו על ימין ועל שמאל ומה שאמר ואסף רוצה לומר יאסוף על ידם תחלה ואחר כך יצאו יושבי ירושלם ויבזו גם הם ויונתן תרגם ואף דבית יהודה וגו':
+
+
+
+### Verse 16
+
+###### Radak on Zechariah 14:16:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:16:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:16:1)
+
+
+**והיה כל הנותר.**הנותרים הם שהשיבו אל לבם במלחמה ההיא ושבו אל ה' בכל לבם:
+
+
+###### Radak on Zechariah 14:16:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:16:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:16:2)
+
+
+**למלך ה' צבאות.**שהם הכירוהו למלך על כל הארץ:
+
+
+###### Radak on Zechariah 14:16:3
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:16:3](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:16:3)
+
+
+**את חג הסכות.**לפי שבאותו זמן תהיה המלחמה ויראו נפלאות הבורא יתברך מדי שנה בשנה לזכרון אותו היום:
+
+
+
+### Verse 17
+
+###### Radak on Zechariah 14:17:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:17:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:17:1)
+
+
+**והיה, ולא עליהם יהיה הגשם.**על הארץ שלא יעלו יושביה אותה שנה לא ירד עליהם המטר:
+
+
+
+### Verse 18
+
+###### Radak on Zechariah 14:18:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:18:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:18:1)
+
+
+**ואם משפחת מצרים.**ולא עליהם והם לא ירד עליהם מטר כל השנים ולא יצטרכו למטר אם כן מה יהיה עונשם תהיה עליהם המגפה אשר יגוף ה' את כל הגוי' שבאו על ירושלם כמו שאמר המק בשרו:
+
+
+###### Radak on Zechariah 14:18:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:18:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:18:2)
+
+
+**אשר לא יעלו לחוג.**בעבור שלא יעלו בני מצרים לחוג את חג הסוכות יהיה להם זה העונש שתהיה בהם המגפה וי"ת לא להון יסק נילוס ברם עליהון תהא מחתא דימחי ה' וכו':
+
+
+
+### Verse 19
+
+###### Radak on Zechariah 14:19:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:19:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:19:1)
+
+
+**זאת תהיה חטאת מצרים וחטאת כל הגוים.** חטאת מצרים המגפה וחטאת כל הגוים המטר שלא ירד עליהם כמו שזכרנו חטאת פי' עונש כלומר עונש החטאת על זה הדרך כי לא שלם עון האמורי רוצה לומר עונש העון ותרגם יונתן פורענות:
+
+
+
+### Verse 20
+
+###### Radak on Zechariah 14:20:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:20:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:20:1)
+
+
+**ביום ההוא יהיה על מצילות הסוס קדש לה'.**מצילות הם שתולים בצוארי הסוסים והם מקשקשים אותם המצילות יהיו קדש לה' שיעשו מהם סירות לבשל בהם בבית המקדש. ואלה הסוסים. יש מפרשים שהם הסוסים שימותו במגפה כמו שאמר ויש מפרשים סוסים העולים שנה בשנה לחוג את חג הסכות שיקדישו מצילות סוסיהם לעשות מהם סירות לבשל בהם בבית המקדש ופירוש על מצילות כאלו כתוב ומפותח עליהם קדש לה' כן יהיו נודעים כי הם קדש ולא יקח אדם מהם לעצמו אפילו אחת ובדברי רז"ל מאי על מצילות הסוס אמר רבי יהושע בן לוי עתיד הקדוש ברוך הוא להוסיף על ארץ ישראל עד שעה שהסוס רץ ומצל פירוש עד חצי היום שעושה הסוס צל לעצמו מתחתיו ורבי אליעזר אמר מצלות שתולין לסוס בין עיניו יהיו קדש לה':
+
+
+###### Radak on Zechariah 14:20:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:20:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:20:2)
+
+
+**והיה הסירות בבית ה' כמזרקים.**פי' רבים כמזרקים וכן תרגם יונתן סגיאין כמזרקיא כמו שיהיו רבים המזרקים בבית ה' לזרוק בהם הדם כי הזובחים יהיו רבים כי כל הבאים לחוג יביאו זבחים:
+
+
+
+### Verse 21
+
+###### Radak on Zechariah 14:21:1
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:21:1](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:21:1)
+
+
+**והיה.**עוד ירבו הסירות לרוב הזובחים כי לא יספיקו להם אותם שיהיו בבית המקדש אלא כל סיר בירושלם וביהודה יהיו קדש לה' לבשל בהם זבחי שלמים וכשיבואו הגוים הזובחים יקחו מהם ובשלו בהם:
+
+
+###### Radak on Zechariah 14:21:2
+
+[https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:21:2](https://torahapp.org/share/book/Radak%20on%20Zechariah/r/14:21:2)
+
+
+**ולא יהיה כנעני עוד.** תרגם יונתן ולא יהא עביד תגרא עוד כמו כנעניה נכבדי ארץ שפי' סוחריה כלומר לא יצטרך בית ה' עוד לסוחר שימכור שם סירות או נחשת לעשות מהם סירות כי רבים יהיו המתנדבים המקדישים: ואדוני אבי ז"ל פירש כי על הגבעונים אמר שהיו חוטבים עצים ושואבי מים בבית המקדש לא יהיו שם עוד כי מגדולי העכו"ם יהיו עובדי הכהנים, וכן פירש וגם מהם אקח לכהנים וללוים: ֠
+

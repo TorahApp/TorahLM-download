@@ -1,0 +1,1905 @@
+# Rashash on Meilah
+
+רש"ש על מעילה
+
+Link: [https://torahapp.org/share/book/Rashash%20on%20Meilah](https://torahapp.org/share/book/Rashash%20on%20Meilah)
+
+דיוני חז״ל בנושאי הלכה, מוסר ותנ"ך שהתקיימו במשך דורות. בנויים כהרחבות על המשנה ושזורים בהם סיפורי אגדה.
+
+19th-century annotations based on classes that the author, Rabbi Shmuel Strashun, delivered in a synagogue in Lithuania.
+
+Sections: Daf-Comment
+
+Location: Talmud/Bavli/Acharonim on Talmud/Rashash/Seder Kodashim
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Vilna Edition (Segments: 221, License: Public Domain)
+
+
+## Daf 2a
+
+###### Rashash on Meilah 2a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2a:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2a:1)
+
+
+**כתב**התוי"ט בשם הרמב"ם
+
+
+###### Rashash on Meilah 2a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2a:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2a:2)
+
+
+**הביא אחר כריתות מעילה מפני כו'.**לכאורה בפשוט י"ל דכ"ה הסדר בויקרא תחלה חטאת קבוע דבאה על חייבי כריתות ואח"כ קרבן עולה ויורד ואח"כ אשם מעילות:
+
+
+###### Rashash on Meilah 2a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2a:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2a:3)
+
+
+**גמרא ואי תנא שחטה בלילה ה"א הואיל וזרק דמה ביום כו'.**כצ"ל עתד"ה שחטן בסופו:
+
+
+###### Rashash on Meilah 2a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2a:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2a:4)
+
+
+**רש"י ד"ה וכן אם שחט בלילה. והאי כל דכן הוא כו'.**ועתד"ה שחטן ולעד"נ דבהך בבא אתי לאשמעינן דאף דזרק ביום מ"מ לא יצאו מידי מעילה. ולהכי בבבי קמייתא דלא מיירי בזריקה הוה רבותא בהיפך. אבל הכא הוה רבותא דאף דהזריקה היתה כהוגן מ"מ ל"י מידי מעילה דומיא דשחטן חוץ לזמנן כו' דהוה הרבותא בזה כמ"ש התוס' לקמן:
+
+
+###### Rashash on Meilah 2a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2a:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2a:5)
+
+
+**רש"י ד"ה או חוץ למקומן. מבשר זבח שלמיו וגו'.**כצ"ל:
+
+
+###### Rashash on Meilah 2a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2a:6](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2a:6)
+
+
+**רש"י ד"ה ואיזו היא שלא ה"ל שעה"כ. וה"ה לכל הני כו' וה"ט דנקיט הני כו'.**והוא דוחק. ולכאורה נראה דלפי סוגיין לקמן בגמרא דלר' יהודה דלכ"ע בהני דרישא אם עלו ירדו. אין בהן מעילה אלא מדרבנן. א"ש בפשיטות דר' יהושע מעילה דאורייתא אתי לאשמעינן דכל הנך דחשיב הכא לכ"ע אם עלו לא ירדו. ולכן דברי התוי"ט בד"ה ושקבלו פסולין שתלה טעם מעילתן מדאורייתא משום דא"ל תקנתא. שלא בדקדוק דבל"ה נמי כיון דאם עלו ל"י ועוד דודאי מיירי שאין עוד דם הנפש דאל"כ עדיין יש תקנה שיקבלו כשרים ויזרקו ויצאו מידי מעילה. אלא שהרמב"ם סתם ברפ"ג דהל' מעילה וכתב דאם נפסלו בדברים שיפסלו בהן הקרבנות כו' מועלין בהו מד"ס. ושיטתו הוא דאפילו בהך דאם עלו ל"י אין בהן מעילה ד"ת וכמו שבאר הלח"מ בפ"ג מהל' פהמ"ק ה"ז ע"ש:
+
+
+###### Rashash on Meilah 2a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2a:7](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2a:7)
+
+
+**רש"י ד"ה אימא כמאן דחנקינון דמי קמ"ל. והאי בעל הש"ס כו'.**דבריו סתומין. ואולי יכוון למש"כ התוס' בד"ה ששחטן. דלפי ששונה כ"א בפ"ע לא חש לשנותם ביחד. וא"כ לא מוכח דין ששחט וזרק בלילה אלא ממה ששנה ג"כ שחט בלילה וזרק ביום ולכן הוה שפיר לא זו א"ז. וזהו שכ' בדבור הקודם וה"ה אם שחט בלילה וזרק בלילה:
+
+
+###### Rashash on Meilah 2a:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2a:8](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2a:8)
+
+
+**תד"ה ששחטן. והדר תני לזא"ז כו'.**פשוט דר"ל במאי דתני בתחלה שחטן בדרום כו' ואח"כ תני שחטן בצפון כו'. והצ"ק ל"ד בזה:
+
+
+###### Rashash on Meilah 2a:9
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2a:9](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2a:9)
+
+
+**בא"ד והדר מפרש וכיצד קתני כו' שינוי מקום דדרום שאמרנו כגון כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 2a:10
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2a:10](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2a:10)
+
+
+**בא"ד ובגמרא תני אפילו שניהם ובמשנה שיירי כו'.**לכאורה תמוה דהרי תני שם במשנה אפי' הוא שוגג והיא מזידה כו' והיינו דתרוייהו ל"מ למצוה כדפי' הגמרא שם. וי"ל דמשמע להו מדתני ר"ח אמשנתינו אפי' כו' מוכח דזה הוה רבותא טפי כששניהם מתכוונים שלא לשם מצוה בדרך אחד:
+
+
+###### Rashash on Meilah 2a:11
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2a:11](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2a:11)
+
+
+**בסה"ד כיון דאשמעינן חדא כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 2a:12
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2a:12](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2a:12)
+
+
+**תד"ה פשיטא. ועי"ל דלפי מה שפי' מורי ניחא כו'.**ע"כ ר"ל מה שהביאו בשמו לקמן בד"ה חוץ לזמנו ע"ש. וא"כ היינו תירוץ קמא. ולולי דמסתפינא הייתי אומר דדבריהם אלו מקומם לעיל בד"ה שחטן אחר מה שהביאו בשם ר"י לשבש הספרים. וכוונתם ליישב הגי' ע"ד שכתבתי ברש"י ד"ה וכן אם שחט:
+
+
+
+## Daf 2b
+
+###### Rashash on Meilah 2b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2b:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2b:1)
+
+
+**רש"י ד"ה ומשני הואיל כו'. דכתיב ביה ירצה לכפר.**עמש"כ בזבחים (כט ב) בס"ד:
+
+
+###### Rashash on Meilah 2b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2b:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2b:2)
+
+
+**בא"ד וכיון דהא זריקה חשובה כו'.**נראה דצ"ל דהא שחיטה:
+
+
+###### Rashash on Meilah 2b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2b:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2b:3)
+
+
+**רש"י ד"ה אליבא דר"י. פרט כו' ושלנה.**ט"ס הוא וצ"ל תחתיה ושנשחטה בלילה:
+
+
+###### Rashash on Meilah 2b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2b:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2b:4)
+
+
+**בסה"ע**הנקודות מיותרות כי הד"א:
+
+
+###### Rashash on Meilah 2b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2b:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2b:5)
+
+
+**תד"ה עלו. דלכ"ע לא ירדו.**כצ"ל:
+
+
+###### Rashash on Meilah 2b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2b:6](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2b:6)
+
+
+**תד"ה ורבה. תימה אמאי שבק שנשחטה בלילה ונשפך דמה כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 2b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2b:7](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2b:7)
+
+
+**בא"ד ופי' הר"י דמיירי הכא בעוף כו' והכא לא מודה ר"י כו' דל"ד לניתנין כו' בזבחים ז ב.**כצ"ל ודלא כהמציין) דל"פ ר"י כו' אבל כו' פליג ר"י כו' בצפון כלומר כו' מיהו קשה כו' ולפר"י אמאי איתותב כו'. מכ"ז משמע להדיא דרבה ל"פ ארב יוסף בהא דלר"ש אף בעולת העוף שעשאה למטה דלא תרד (וזה שלא כדברי התוס' בזבחים (פד) בד"ה הניתנים ע"ש) ולכן שפיר נמחק בד"ח תיבות גבי זבחים שבדבריהם והצ"ק ל"ד בזה:
+
+
+###### Rashash on Meilah 2b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2b:8](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/2b:8)
+
+
+**תד"ה ומי איכא. וכן גבי אפר חטאת בסוף התכלת.**כצ"ל:
+
+
+
+## Daf 3a
+
+###### Rashash on Meilah 3a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3a:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3a:1)
+
+
+**רש"י ד"ה קמ"ל. וכש"כ בהנך כו' דאית בהו מעילה.**כצ"ל:
+
+
+###### Rashash on Meilah 3a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3a:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3a:2)
+
+
+**רש"י ד"ה איתיבי'. והעמיד השלישית בשינוי מקום מליקה.**כצ"ל וכמש"כ לקמן בד"ה וקתני בפרק כו':
+
+
+###### Rashash on Meilah 3a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3a:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3a:3)
+
+
+**בא"ד ואוקימנא התם בגמרא דכל הני דתני התם היינו ששינה במקום מליקה.**ע"ש היטב דאינו כן ועי' בתוס':
+
+
+###### Rashash on Meilah 3a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3a:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3a:4)
+
+
+**תד"ה והא. מתוך דר"א ניכר שהי' פשוט לו כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 3a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3a:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3a:5)
+
+
+**תד"ה שהכניסה. דאי ס"ד דמספקא לי' ליבעי ליה הא כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 3a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3a:6](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3a:6)
+
+
+**בא"ד כלומר קבעי בעולת כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 3a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3a:7](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3a:7)
+
+
+**שם שהוא פשוט לו.**כצ"ל:
+
+
+
+## Daf 3b
+
+###### Rashash on Meilah 3b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3b:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3b:1)
+
+
+**גמרא א"ל רב אשי לרבא.**בקדושין (עב ב) איתא כשמת רבא נולד רב אשי וע"כ כאן ט"ס:
+
+
+###### Rashash on Meilah 3b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3b:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3b:2)
+
+
+**רש"י ד"ה לא לעולם. ע"כ ל"ק רבה כו' או שיצאתה אם עלתה תרד כו'.**וכן לקמן בא"ד הזכיר יציאה ב"פ וכן בד"ה אבל. ותימה דיוצא באימורין אף לר' יהודה לא ירדו. ולר"ש אף ביצא דמה כמבואר כ"ז בזבחים (פד):
+
+
+###### Rashash on Meilah 3b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3b:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3b:3)
+
+
+**רש"י ד"ה א"ל בזריקה. אבל הא דאר"ג כו' היינו דפיגל בזריקה ממש כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 3b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3b:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3b:4)
+
+
+**רש"י ד"ה א"ל ר"א. ופיגול דקמיצה הוי כמו פיגול דשחיטה דכי היכי דקבע כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 3b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3b:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3b:5)
+
+
+**תד"ה קומץ. וא"ת ואיך ס"ד לומר כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 3b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3b:6](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3b:6)
+
+
+**בא"ד אבל שם פיגול חל משעת שחיטה כמו לענין להביא לידי קדושה.**כ"נ דצ"ל:
+
+
+###### Rashash on Meilah 3b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3b:7](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3b:7)
+
+
+**בא"ד ומשני דמייתי כו' עד שעת זריקה כמו לענין להביא לידי מעילה.**כצ"ל:
+
+
+###### Rashash on Meilah 3b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3b:8](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/3b:8)
+
+
+**בא"ד**(בדף הסמוך) כלומר ע"כ פקע פיגול כו'. כצ"ל:
+
+
+
+## Daf 4a
+
+###### Rashash on Meilah 4a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/4a:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/4a:1)
+
+
+**רש"י ד"ה והא. היאך מביא אחרים השיריים לידי פיגול כו' ומביא השיריים לידי פיגול.**כצ"ל:
+
+
+###### Rashash on Meilah 4a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/4a:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/4a:2)
+
+
+**תד"ה אי בעולה**(בסה"ע)**. דלעולם מיירי בחטאת וקודם זריקה.**כ"נ דצ"ל:
+
+
+
+## Daf 4b
+
+###### Rashash on Meilah 4b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/4b:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/4b:1)
+
+
+**תד"ה הפיגול. משום דיש קק"ד דלא פסיקא כו' כגון בעולה אי אפי' ליתא לדר"ג.**כצ"ל:
+
+
+###### Rashash on Meilah 4b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/4b:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/4b:2)
+
+
+**בא"ד כלומר שיהא מרוצה לאכול בהיתר ממנו אלמא דחשבה כו'.**כצ"ל:
+
+
+
+## Daf 5a
+
+###### Rashash on Meilah 5a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/5a:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/5a:1)
+
+
+**רש"י ד"ה שלן. או הבשר כו'**עד סה"ד. תימה דמשמע דהדם נזרק כראוי בזמנו א"כ תיפוק ליה מטעם דכבר הוזה. אלא ודאי הכא לכ"ע פירושו דלן דמה וכן פרש"י בזבחים וכן התוס' שם:
+
+
+###### Rashash on Meilah 5a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/5a:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/5a:2)
+
+
+**תד"ה שקיבלו. ולא ניחא למימר דלזא"ז קתני בכה"ג כו' חד מילתא היא.**נראה שכוונו למש"כ בר"פ האיש מקדש ע"ש:
+
+
+###### Rashash on Meilah 5a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/5a:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/5a:3)
+
+
+**בא"ד וא"ת א"כ ל"ל למיתני וזרקו פסולין כלל כו'.**לכאורה יל"פ דהכוונה דפסולין לא קאי אוזרקו. אלא פי' וזרקו כשרין וכ"נ מפרש"י:
+
+
+
+## Daf 5b
+
+###### Rashash on Meilah 5b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/5b:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/5b:1)
+
+
+**רש"י ד"ה אלא לעולם דמעילה. כדאמרן הכא ופסולים דתני גבי כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 5b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/5b:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/5b:2)
+
+
+**בסה"ד א"נ שאותו הדם דינו לישפך לאמה כדין שיריים.**נראה דר"ל כדין שיריים שבצואר בהמה דאמרינן בזבחים (לד ב) דלכ"ע נשפכין לאמה. אבל מה שסיים דאי כו' טעונין יסוד אינו מכוון דהכי הל"ל דאי כו' ה"ל לכהן כשר לחזור ולקבל ולזרוק ויתכשר הזבח:
+
+
+###### Rashash on Meilah 5b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/5b:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/5b:3)
+
+
+**רש"י ד"ה ה"ג. היינו כשחישב פסול בקבלה כו'.**ר"ל ושיריים אינם נעשים אלא בזריקה כמש"כ התוס' כאן ובזבחים (לד ב) רש"י ותוס' וזה דלא כהגהת הב"ח:
+
+
+###### Rashash on Meilah 5b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/5b:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/5b:4)
+
+
+**רש"י ד"ה ה"ק אין לך. כגון כו' ונותר.**כדי נסבי' דאפי' אם אינו עושה שיריים מ"מ אין תקנה לדם הנשאר דהרי גם הוא נפסל בלינה עי' ר"פ דלקמן:
+
+
+
+## Daf 6a
+
+###### Rashash on Meilah 6a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/6a:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/6a:1)
+
+
+**גמרא ת"ש רש"א כו' כיצד לן לפני זריקה כו'.**נראה פירושו לן הבשר כו' לאחר זריקה דהיינו שזרק כתיקונו בעוד יום. אבל בלן הדם בדלא היה שהות למזרקיה לכ"ע מועלין. ובהי' שהות אתאן לפלוגתא דהיתר זריקה או היתר אכילה. ולפ"ז ל"פ ר"ש אסתמא דברייתא דלעיל (ד' ד ע"ב). וכ"נ שפי' התוס' כאן ורש"י במנחות (קא ב). ופירושו כאן תמוה:
+
+
+###### Rashash on Meilah 6a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/6a:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/6a:2)
+
+
+**רש"י ד"ה לאחר זריקה א"מ בו. והכא ליכא למידק כו' דהא ס"ל לר"ש כו'.**מוכח מדבריו דאפי' בפיגול אמרי' לר"ש כה"ע לזרוק כזרוק דמו וכן הבינוהו הבה"ז והצ"ק. ותימה לקרותו עומד לזרוק כיון דאסור לזרקו. וגדולה מזו אמרינן במנחות (קא ב) אלא הני מנחות מצוה לפדותן ע"ש:
+
+
+###### Rashash on Meilah 6a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/6a:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/6a:3)
+
+
+**[רש"י ד"ה כל לאפוקי כו'] . והיינו דאמרינן במס' מנחות**הוא (בד' מז ב) הא איתותב ר"ג כו'. תימה דהלא למ"ד היתר אכילה שנינו אתיא דוקא כר"ג. וע"ש בתד"ה ולאו איתותב: ודע דאגב עיוני ראיתי דבר מתמיה בכ"מ בפ"ג מהלכות מעילה ה"א שכ' דסוגיא דפי"ב דמנחות כריו"ח רהטא. ותימה דנהפוך הוא דהתם אזלא דוקא כמ"ד דהיתר זריקה שנינו ע"ש (קב). ואח"ז מצאתי לשעה"מ בפ"ד מהלכות גירושין שעמד עליו בזה. וכן יתר דבריו שם תמוהים וכבר השיגם הבה"ז:
+
+
+###### Rashash on Meilah 6a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/6a:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/6a:4)
+
+
+**תד"ה ת"ש רש"א. ל"מ ליישב מתניתין אם לא כדר"ג.**כצ"ל:
+
+
+
+## Daf 6b
+
+###### Rashash on Meilah 6b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/6b:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/6b:1)
+
+
+**רש"י ד"ה בשר קק"ד. ואח"כ נכנס.**תימה דמאי מעליותא בחזר ונכנס כיון דכבר נפסל ביוצא. דע"כ לא אמרינן בזבחים (צ) מאי לאו דהדר עיילינהו. וכן ר"פ שם דאמר בדהדר עיילינהו כ"ע ל"פ כו' אלא בסיפא דוקא באימורי קק"ל די"ל דלא מיפסלי ביוצא קודם זריקה. וכן במנחות (מז ב) לענין שתי הלחם דאר"פ דבהדר עיילינהו פליגי היינו דנאמר דר"ע ס"ל דשחיטה לא מקדשא ולא איפסלו כלל. וכ"כ קשה בזבחים שם דקס"ד דטעמא דר"ע באימורי קק"ל דס"ל דלא מיפסלי ביוצא. דא"כ מ"ט בבשר קק"ד. ועי' בתוס' שם (כו) ד"ה דלמא. והתוי"ט שהקשה על מה שפרש"י לקמן בסיפא ג"כ דמיירי בחזרו מהא דר"פ שם בזבחים דאמר בדהדר עיילינהו כ"ע ל"פ. זה לק"מ דר"פ ל"ק שם אלא למידחי הכתנאי. אבל באמת לפי דקאמר רבינא ב"ש שם דמיפסלי ביוצא. אפי' בדהדר פליג ר"א. ודלא כהרמב"ם בפ"א מהלכות פהמ"ק הל' ל"ג דמשמע שדחה דברי רבינא ב"ש מהלכה ועצ"ק שנגע במקצת דברי אלה:
+
+
+###### Rashash on Meilah 6b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/6b:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/6b:2)
+
+
+**רש"י ד"ה וא"ח עליו משום פיגול כו'. אלא זריקה כשרה.**והתוס' כתבו ביתר ביאור לענין פיגול דאמרינן כהרצאת כשר כך הרצאת פסול וכ"כ במנחות (מז ב). (והתוי"ט ל"ד במש"כ בשמם דפיגול יליף בגז"ש כו'. דל"כ הגז"ש אלא לענין נותר). ואף דמוקמינן לקמן ביצא מקצת בשר. דאפי' ר' יהושע מודה דאם נשתייר כזית בשר זורק אה"ד (פסחים עט) וכש"כ לר"א דס"ל שם (עז) דם אע"פ שאין בשר וא"כ זריקה כשרה היא. מ"מ לענין בשר היוצא דלא מהני הזריקה ליה לאשתרויי באכילה כדלקמן בסה"פ ה"ל לדידי' כזריקה פסולה ועי' לשון רש"י במנחות שם:
+
+
+###### Rashash on Meilah 6b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/6b:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/6b:3)
+
+
+**רש"י ד"ה וזריקה כתיקנה.**צ"ל דזריקה:
+
+
+###### Rashash on Meilah 6b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/6b:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/6b:4)
+
+
+**תד"ה בשר. משום דאית ליה לר' אליעזר דאין זריקה כו'.**כצ"ל ביו"ד:
+
+
+###### Rashash on Meilah 6b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/6b:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/6b:5)
+
+
+**בא"ד רע"א אין מועלין דקסבר זריקה כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 6b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/6b:6](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/6b:6)
+
+
+**תד"ה שלא כתיקונה. כשנעשית הזריקה עצמה בפסול שפיגל בשחיטה כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 6b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/6b:7](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/6b:7)
+
+
+**תד"ה א"ל. וקשיא כו' דהא פי' במתניתין שאין לדמות.**לכאורה תמוה דהא כתבו שם דשארי פסולים חמירי מיוצא. א"כ איכא למימר דמקשה ליה מק"ו. וי"ל דכוונתם דכיון דבשאר פסולי אף ר"ע מודה וא"כ ע"כ צריך לחלק בין הא דמחשבין על האבוד להא דר"ע וא"כ מאי מקשה ליה ודו"ק:
+
+
+###### Rashash on Meilah 6b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/6b:8](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/6b:8)
+
+
+**בא"ד והא דקאמר והא אבוד ושרוף דליתנהו בעולם כו'.**כצ"ל:
+
+
+
+## Daf 7a
+
+###### Rashash on Meilah 7a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/7a:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/7a:1)
+
+
+**רש"י ד"ה אמר רבא. אימא מחשבין על העומד כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 7a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/7a:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/7a:2)
+
+
+**רש"י ד"ה אלא ששחט שניהם בב"א. כגון ששחטום שני כהנים כאחת.**עתו"ח. ומש"כ א"נ כאן מיירי מזריקת הדם. נראה דט"ס הוא וצ"ל בקבלת הדם ועי' בתוס':
+
+
+###### Rashash on Meilah 7a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/7a:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/7a:3)
+
+
+**תד"ה חישב. וגם לא קמבעי' כו' דהא נמי פשיטא דפיגל.**כצ"ל:
+
+
+###### Rashash on Meilah 7a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/7a:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/7a:4)
+
+
+**תד"ה א"ל**(בסופו)**. מלאיתויי מדיני הטומאה.**כצ"ל:
+
+
+###### Rashash on Meilah 7a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/7a:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/7a:5)
+
+
+**תד"ה אלא. והכא פשיט ליה דא"מ בנשפכין כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 7a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/7a:6](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/7a:6)
+
+
+**תד"ה לכפר. ויס"ג כו' והלא פסול הוא שהשיב לו כך הזקן.**כצ"ל:
+
+
+###### Rashash on Meilah 7a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/7a:7](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/7a:7)
+
+
+**תד"ה תשובה. כאילו היו מאותו שזרק דמו.**כצ"ל:
+
+
+
+## Daf 7b
+
+###### Rashash on Meilah 7b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/7b:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/7b:1)
+
+
+**גמרא**(בסה"ע) אר"ח ליוצאין כו'. נראה דר"ל דיצא חוץ לחומת ירושלים. דאילו חוץ לעזרה הא ס"ל לריו"ח בזבחים (סוף דף פט) דבשר קק"ל שיצא לפני זר"ד כשר. ועי' בהראב"ד ובכ"מ בפ"א מהלכות פהמו"ק הלכה ל"ב. ועי"ל דר"ח קאי ארישא אבשר קק"ד ואיידי דתני שם לישנא דאין מועלין תני ג"כ בסיפא גבי קק"ל כן וכה"ג כ' התוס' לקמן (ח) בד"ה נזרק דמן. וכנ"ק מלשון רש"י:
+
+
+###### Rashash on Meilah 7b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/7b:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/7b:2)
+
+
+**תד"ה אריו"ח. י"ל דל"ד דאי אמרינן דטעמא כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 7b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/7b:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/7b:3)
+
+
+**תד"ה ועל זה. ועל האימורים נמצא מע"ד בקק"ד להקל ולהחמיר.**כצ"ל:
+
+
+###### Rashash on Meilah 7b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/7b:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/7b:4)
+
+
+**תד"ה הא ממונא. דאי למ"ד היתר זריקה א"כ כו' ר"ל לאחר שניתר לזריקה כו'.**משמע דאף לענין הבאת אימורי קק"ל למעילה ולהתחייב משום פיגול כו' הוה ג"כ משנראה לזריקה וצ"ע בזה:
+
+
+
+## Daf 8a
+
+###### Rashash on Meilah 8a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8a:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8a:1)
+
+
+**תד"ה ובלינה. שהרי ההזאה ביום המליקה ואל"כ איפסל כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 8a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8a:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8a:2)
+
+
+**בסה"ד ומשעת מליקה מונין.**נראה דנ"מ אם הוזה דמה בצמצום עם שקעה"ח דא"ת דמונין משעת הזאה ה"ל לתת יום המחרת תחת יום המליקה ותהא נאכלת לילה ויום וכה"ג אמרינן בברכות (ט) ע"ש:
+
+
+###### Rashash on Meilah 8a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8a:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8a:3)
+
+
+**תד"ה ואין מועלין בה. בדין ה"ל למיתני חה"ע עם פה"נ דתרוייהו ל"ס לגבוה כו'.**תמוה דהא ל"ד אהדדי כלל דחה"ע נאכלת לכהנים ולכן אין בה מעילה אחר הזאת דמה. ופה"נ אדרבה אין בהם לכהנים כלום לכן מועלין בכולן. ונ"ל להגיה דכצ"ל בדין ה"ל למיתני (ר"ל בתחלה) עולת העוף עם פה"נ דתרוייהו סלקי לגבוה כולהו:
+
+
+###### Rashash on Meilah 8a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8a:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8a:4)
+
+
+**בסה"ד ואף משתצא לבה"ד מועלין בה.**תמוה דהא קתני בה ומועלין בה עד שתצא לבה"ד. ונ"ל דט"ס הוא וצ"ל ועד שתצא לבה"ד מועלין בה. ובאו בזה ליישב מדוע לא קדים למיתני פה"נ דהא אף בהו מועלין גם בעורן לזה קאמרי דעולת העוף אף שתשרף כולה ונעשית אפר מועלין בה עד שתצא לבה"ד. ופה"נ אחר שיותך הבשר שוב אין מועלין. ועמש"כ לקמן דאף באימוריהן שנקטרין על המזבח אין מועלין משנשרפו:
+
+
+###### Rashash on Meilah 8a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8a:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8a:5)
+
+
+**תד"ה הוכשרו. מ"מ גבי פר ושעיר של יוה"כ כו' שהרי משל צבור הם כו'.**אינו מדוייק דהרי פר יוה"כ של יחיד הוא. ופר הע"ד של צבור הוא. אלא החילוק הוא בין זמנם קבוע לאין זמנם קבוע עי' רפ"ב דתמורה:
+
+
+###### Rashash on Meilah 8a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8a:6](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8a:6)
+
+
+**תד"ה קרמו. וי"ל דמשום טבו"י נקטינן כו'.**לשונם תמוה דהא כולהו דחשיב צריכין לקרימה דוקא. מחו"כ מטעמא שכתבו לטבו"י. ולענין לשחוט הזבח ודאי בעינן קרימה:
+
+
+###### Rashash on Meilah 8a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8a:7](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8a:7)
+
+
+**תד"ה נזרק. פי' עליהן על הלחמים.**כצ"ל:
+
+
+###### Rashash on Meilah 8a:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8a:8](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8a:8)
+
+
+**תד"ה הקומץ. בזבחים בפ' בית שמאי**(מב ב). כצ"ל:
+
+
+###### Rashash on Meilah 8a:9
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8a:9](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8a:9)
+
+
+**תד"ה ופיגול. ובלינה דקתני אי מיירי בבאה עם הזבח.**כצ"ל:
+
+
+###### Rashash on Meilah 8a:10
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8a:10](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8a:10)
+
+
+**רש"י**(בסה"ע) ופוסל אה"ת. לכאורה כיון דלתרומה אינו אלא כמו שני אותו קודש שנגע בו לא יפסלנה. ואולי כוונתו על הטבו"י עצמו. דהוא פוסל אה"ת:
+
+
+
+## Daf 8b
+
+###### Rashash on Meilah 8b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8b:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8b:1)
+
+
+**גמרא ותני רב הוזה דמה.**כצ"ל וכדלקמן גבי מיצה וכמו שהעתיקו התוס':
+
+
+###### Rashash on Meilah 8b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8b:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8b:2)
+
+
+**שם והנשאר כו' חטאת הוא.**כצ"ל וכן בסמוך וברש"י ותוס':
+
+
+###### Rashash on Meilah 8b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8b:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8b:3)
+
+
+**רש"י ד"ה לר"מ. דעביד לי' שלישי ופוסל מדרבנן.**כצ"ל:
+
+
+###### Rashash on Meilah 8b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8b:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8b:4)
+
+
+**רש"י ד"ה אינו מעכב. וח"ע משום פיגול נותר וטמא.**כצ"ל:
+
+
+###### Rashash on Meilah 8b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8b:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8b:5)
+
+
+**רש"י ד"ה דתני רב**(צ"ל ותני רב). ומדקתני במתניתין כו'. כצ"ל:
+
+
+###### Rashash on Meilah 8b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8b:6](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8b:6)
+
+
+**רש"י ד"ה אלא ארישיה.**מלת באצבעו צריך למחוק:
+
+
+###### Rashash on Meilah 8b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8b:7](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8b:7)
+
+
+**תד"ה אר"ח. א"נ כגון שיצא וחתך כו' עם העצם כו'.**כצ"ל ומלת כולו למחוק. ומה שהגיה הצ"ק דצ"ל עד העצם דעם העצם הוי מום. תמוה דא"כ מה הוא שסיימו שאין זה פסול בעופות כו'. הרי עד העצם אינו מום אפי' בבהמה כדאיתא בזבחים שם. אלא ודאי גרסי' עם העצם. ומשום דבעוף אינו פוסל אלא מחוסר אבר שלם. רק דק"ל דא"כ תיפוק ליה דאסור באכילה משום אמ"ה ועי' חולין (קב): ומש"כ ואח"כ מלקה. משמע דאחר מליקה אפי' קודם הזאה אם חתך פסול. והיינו ע"כ מטעם שכתבתי שם בקושייתי ע"ש. ונ"ל דמפרשי דמה שתירץ שם ר"ח חותך באבר כו'. קאי לתרוצי דלעולם כדאמרי' מעיקרא חתך ואח"כ שחט כשרה כו'. ומעיקרא דקאמר אלא אימא חתך ואח"כ קיבל כשרה ה"מ למיפרך כמו שהקשיתי שם אלא דעדיפא מיני' קפריך. ומה שאמר שם אחר שינויי דר"ח קיבל ואח"כ חתך פסולה ש"מ כו'. שיגרא דתירוצא קמא נקיט. ועיין לח"מ בפ"א מהל' פהמ"ק הי"ד:
+
+
+###### Rashash on Meilah 8b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8b:8](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/8b:8)
+
+
+**תד"ה והא תניא. ומשני התם כתיב והנותרת כו'.**כצ"ל:
+
+
+
+## Daf 9a
+
+###### Rashash on Meilah 9a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/9a:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/9a:1)
+
+
+**גמרא קתני מיהת מיצה דמן.**ק"ל הא מיצוי בחטאת הוה חצי מתיר דהזאה ודאי מעכבא ודוחק לומר דאתיא כר"מ במנחות (טז). ועוד לרשב"ל בזבחים (מא ב) דאף לר"מ א"מ בחצי מתיר מא"ל. וצ"ל דבכלל מיצוי דחטאת הוי נמי הזאתה:
+
+
+###### Rashash on Meilah 9a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/9a:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/9a:2)
+
+
+**במשנה פרים הנשרפים כו' ומועלין בהן בבה"ד עד שיתיך הבשר.**ק"ל מדוע לא קתני דבאימוריהן מועלין עד שיצאו לבה"ד ונלע"ד דלפי דמצות הרמת והוצאת הדשן לא כתיבי אלא גבי עולה. לא ילפינן מינה אלא הנעשין על מזבח החיצון דומיא דידה. ע"ד שאר"ש בפ' ב"ש בזבחים (מג) במשנה כל שאינו על מזה"ח כשלמים א"ח עליהן משום פיגול. וכעין תירוץ התוס' לקמן (י ב) ד"ה הכל מודים. [ודע דמשמע דחייבין עליהן משום פיגול כו' קאי ג"כ על הבשר שהרי ומועלין בהן כו' לא קאי אלא עלייהו לחוד ועמש"כ בזבחים (לה) וצ"ע] :
+
+
+###### Rashash on Meilah 9a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/9a:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/9a:3)
+
+
+**רש"י ד"ה קרמו בתנור. כמו שחיטה דקק"ד.**הן גם קק"ל הוכשרו בשחיטתן ליפסל בטבו"י. ומחו"כ. וכה"ג דקדקו התוס' אחריו שם (נג ב). ואפשר משום דאינהו הוו ג"כ קק"ד נקיט להו:
+
+
+###### Rashash on Meilah 9a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/9a:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/9a:4)
+
+
+**רש"י ד"ה ואין בהן מעילה. וכבר נעשית מצותן.**לכאורה בכדי נקיט לה. ולקמן בלחה"פ לא כתב רק טעם דשעת היתר לכהנים. והרע"ב הוסיף מדילי' גם שם טעם דנעשית מצותו:
+
+
+###### Rashash on Meilah 9a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/9a:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/9a:5)
+
+
+**רש"י ד"ה הנהנה מאפר תפוח. היה צובר אה"א לצד א' של מזבח.**שם איתא תפוח היה באמצע המזבח:
+
+
+###### Rashash on Meilah 9a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/9a:6](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/9a:6)
+
+
+**שם ועושהו עגול כו'.**כצ"ל:
+
+
+
+## Daf 9b
+
+###### Rashash on Meilah 9b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/9b:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/9b:1)
+
+
+**גמרא הא אפר דלית בי' מששא אפי' לגבי מזבח לא יחזיר.**כ"נ דצ"ל לפי' התוס':
+
+
+###### Rashash on Meilah 9b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/9b:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/9b:2)
+
+
+**רש"י ד"ה איכא דמותיב. דכי פקעה על גבי המזבח כו' ה"ה דאפי' אפר שפקע על גבי המזבח כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 9b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/9b:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/9b:3)
+
+
+**תד"ה וכולן. וקאי אעצמות וגידים כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 9b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/9b:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/9b:4)
+
+
+**בא"ד דהרבה דשן יש לתרום מלבד זה.**כצ"ל:
+
+
+###### Rashash on Meilah 9b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/9b:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/9b:5)
+
+
+**בא"ד שעומד הדשן שע"ג המערכה לתרום.**כצ"ל:
+
+
+
+## Daf 10a
+
+###### Rashash on Meilah 10a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/10a:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/10a:1)
+
+
+**תד"ה רישא. אבל ר"ש כו' כדמוכח בפ' יש בקרבנות כו' דמוקי לה באבודה שלא בשעת הפרשה.**בגי' שלפנינו שם ליתא:
+
+
+###### Rashash on Meilah 10a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/10a:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/10a:2)
+
+
+**בא"ד לכן נראה להר"מ כו' אבל הכא דאם לא קרב החטאת היה מוסיף ומביא חטאת שמנה כו'.**צ"ע דהתם נמי קתני באיזו בבות יביא מאלו ומאלו חטאת כו' ומדייק הגמרא שם הא אם הביא מא' מהן השני יוליכו ליה"מ ומוקי לה כרבי. ובל"ז דבריהם צריכין ביאור. ודברי בה"ז מגומגמין:
+
+
+###### Rashash on Meilah 10a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/10a:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/10a:3)
+
+
+**תד"ה הכל מודים. וא"ת ואמאי לא נקט יצא.**ע"כ ר"ל יצא כולו וכמש"כ הבה"ז. וא"כ פליג רבא אדריו"ח דלעיל (סוף דף ו) דאמר דביוצא כולו לא אמר ר"ע. ואפשר דל"א ריו"ח אלא לענין פיגול נותר וטמא. אבל לא לענין מעילה:
+
+
+###### Rashash on Meilah 10a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/10a:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/10a:4)
+
+
+**בא"ד מיהו קשיא דבמתניתין תנן גבי עולה כו'.**עצ"ק שהעלה דבריהם בצ"ע דהא כבר חילקו לעיל דהתם בעי' בגדי כהונה כו'. ולעד"נ דט"ס וצ"ל גבי פה"נ כו' דמועלין בהן בבה"ד והרי שריפתן שם ג"כ לא בעי' ב"כ דהא כשרה אפי' בזר כמש"כ הרמב"ם בפ"ז מהל' מעה"ק הל' ה' (והכ"מ שם לא הראה מקורו. והוא ירושלמי ס"פ שני שעירי). וכן בתירוצם צ"ל דשאני פה"נ כו':
+
+
+###### Rashash on Meilah 10a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/10a:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/10a:5)
+
+
+**במשנה וחייבין עליהן כו' ופיגול אין בהן.**כצ"ל וכן בסוף מתניתין צ"ל ופיגול אין בו:
+
+
+###### Rashash on Meilah 10a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/10a:6](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/10a:6)
+
+
+**שם זה"כ כל שיל"מ אח"ע משום פיגול כו'.**מש"כ התוי"ט דפה"נ דמן מתיר בשרן ועורן לבה"ד. משמע דחייבין עליהן משום פיגול ועמש"כ עליו בזבחים (לה) בס"ד:
+
+
+###### Rashash on Meilah 10a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/10a:7](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/10a:7)
+
+
+**רש"י ד"ה אח"ע כו'. דנותר יליף עון עון מפיגול.**כצ"ל ע"ש בזבחים (מה א וב). ועתור"ע. וע"ש בזבחים בתד"ה יש לו מתירין דמאשר יקרב לא ילפינן לדבר שיל"מ. ועי' לעיל (ו ב) בתד"ה בשר:
+
+
+
+## Daf 10b
+
+###### Rashash on Meilah 10b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/10b:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/10b:1)
+
+
+**רש"י ד"ה ולא נהנין. אין מועלין כו' אלא מדרבנן כו'.**עי' לעיל (ג) ובפירושו ובבה"ז וצ"ק שם:
+
+
+###### Rashash on Meilah 10b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/10b:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/10b:2)
+
+
+**תד"ה ולד. דא"כ ל"ל עיברה שנתה והא כ"ע כו'.**כצ"ל:
+
+
+
+## Daf 11a
+
+###### Rashash on Meilah 11a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/11a:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/11a:1)
+
+
+**ד"ה המפריש. ולא פי' אלו לחטאת כו'.**וכן פי' הרע"ב. וכ"ע התוי"ט ל"ד דאפי' אמר אלו לחובתי מפורשין הן כו'. ואני אומר עליו ז"ל דל"ד דלפי מה שפירשו לקמן בהא דשהן ראויין להביא בכולן שלמים דר"ל דבכל מעה ומעה כו' וכפי שבאר דבריהם שם התוי"ט בעצמו. פשוט דאפי' אמר לחובתי ואף באמר אלו לחטאתי ולעולתי כו' נמי דינה הכי. ומה שהביא התוי"ט ממש"כ בנזיר. אינו כלום דשם קאי על דינא דלקמן במת דשם מחלק במתניתין בין סתומין למפורשין. אבל ברישא דלא מחלק משמע דאפי' במפורשין (דבסיפא) נמי. ועי' בתוס' דנזיר (כו) בסד"ה הא. אבל לפי' התוס' שהביא התוי"ט בד"ה מת בועי"ל הוה איפכא דברישא מיירי ביותר סתומין מבסיפא. ואין זה משמעות המשנה. אולם על מה שפי' הרע"ב ג"כ בסיפא גבי מת שלא פי' אלו לחטאתי כו'. שם יפול עליו שפיר דל"ד:
+
+
+###### Rashash on Meilah 11a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/11a:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/11a:2)
+
+
+**רש"י ד"ה מפני. דבכל מנה ומנה כו'.**לשון הרע"ב דכל מעה ומעה:
+
+
+###### Rashash on Meilah 11a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/11a:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/11a:3)
+
+
+**במשנה ירדו לשיתין.**כ' התוי"ט דהוא לשון ארמית כו'. והוא ג"כ לשון עברי והיו שתותיה מדוכאים (ישעיהו י״ט:י׳). כי השתות יהרסון (תהילים י״א:ג׳):
+
+
+###### Rashash on Meilah 11a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/11a:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/11a:4)
+
+
+**רש"י ד"ה ואימא. ונוקים דאידי ואידי כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 11a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/11a:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/11a:5)
+
+
+**רש"י ד"ה אמר לך ריו"ח.**כצ"ל:
+
+
+###### Rashash on Meilah 11a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/11a:6](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/11a:6)
+
+
+**תד"ה לול. לצד הקרן של מערב.**כצ"ל. או כמו שהגיה הצ"ק של מזבח:
+
+
+
+## Daf 11b
+
+###### Rashash on Meilah 11b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/11b:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/11b:1)
+
+
+**רש"י ד"ה אלא לר"ד. ביוה"כ אחר מא"ל.**כאן צ"ל סה"ד:
+
+
+###### Rashash on Meilah 11b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/11b:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/11b:2)
+
+
+**רש"י ד"ה וכתיב התם ושמו. הני הוא דמועלין בהן.**ל"ד דעגלה ערופה לא שמענו דיש בה מעילה ועי' לקמן (יג) תד"ה אתיא:
+
+
+###### Rashash on Meilah 11b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/11b:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/11b:3)
+
+
+**רש"י ד"ה א"ד לימא כו'. דאי רבנן כו' היאך יכול לקלטן.**כצ"ל:
+
+
+###### Rashash on Meilah 11b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/11b:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/11b:4)
+
+
+**תד"ה מה. לא חשיב האי דיוקא דלישנא קמא לראב"צ ויש גורסין איכא דאמרי כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 11b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/11b:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/11b:5)
+
+
+**במשנה המקדיש דישון בתחלה כו'.**פירושי המפרשים בזה דחוקים מאד. ולעד"נ דר"ל דקדושה שהיה בהן קודם כבר אזלא לה כדקתני רישא. אבל אם הקדישו אדם עתה מחדש (וזהו שכוון במלת בתחלה) מועלין בו. ועי' בפי' הרע"ב דלכאורה כוונתו נעלמה. ואולי יכוון דדוקא אם הקדיש דמיו בעוד היותו בפנים ר"ל בהיכל דאז לא היה ראוי לשערו ולשומו משום דכ"א אסור ליכנס שמה שלל"צ עבודה והוא באזהרת אל יבוא דר"פ אחרי. ותיכף כשהוציאוהו לעזרה דאז הי' ראוי לשומו נהנה ממנו מעל. משא"כ אם היה שהות לשומו קודם שנהנה ממנו. או שהקדישו לאחר שהוציאוהו לעזרה דהיה שהות לשומו קודם שהקדישו לא מעל. ובזה ינצל מכל גמגומי התוי"ט עליו:
+
+
+###### Rashash on Meilah 11b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/11b:6](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/11b:6)
+
+
+**תד"ה המקדיש. דהא ודאי דכל דבר יכול כו'.**כצ"ל:
+
+
+
+## Daf 12a
+
+###### Rashash on Meilah 12a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/12a:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/12a:1)
+
+
+**רש"י ד"ה אימא אידי ואידי. דהאי דכתיב ודשנו אה"מ כו'.**תמוה דהאי במזבח החיצון כתיב כמבואר בפרשה:
+
+
+###### Rashash on Meilah 12a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/12a:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/12a:2)
+
+
+**תוס'**(ברה"ע)**. דהי' קביעות מקום לדשן מנורה כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 12a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/12a:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/12a:3)
+
+
+**בא"ד דאכתי לא יצא לבה"ד שמח"ל.**הלשון תמוה דמשמע שסופו לצאת לבה"ד והלא היא נשארה שם לעולם. ולבה"ד אין מוציאין אלא האפר שבתפוח:
+
+
+###### Rashash on Meilah 12a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/12a:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/12a:4)
+
+
+**תד"ה מנורה. בג"ש דשן דשן כו'.**תימה דלא מצינו בקרא דשן אצל המנורה. ואולי כיון דכתיב בה בהטיבו הוה כמו דכתיב בה דשן וכדאמרינן בעלמא ושב הכהן ובא הכהן זו היא שיבה כו'. אבל קשה כיון דדשן דהכא אינו מופנה דילמא ילפינן מדשן דכתיב גבי הוצאת הדשן דהוא מחוץ למחנה. וי"ל עפ"י הא דאמרי' ביבמות (נד ב) איידי דכולי' קרא לדרשה כו' ע"ש:
+
+
+###### Rashash on Meilah 12a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/12a:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/12a:5)
+
+
+**תד"ה וכי. ר"ח הדר בי' כו' דודאי כו' אלא מדרבנן בקדשים שמתו.**כצ"ל ומלת כמו למחוק:
+
+
+###### Rashash on Meilah 12a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/12a:6](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/12a:6)
+
+
+**בא"ד**(ע"ב). לא כמו שאתה סובר מתוך קושייתי כו'. כצ"ל:
+
+
+###### Rashash on Meilah 12a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/12a:7](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/12a:7)
+
+
+**בא"ד מיהו הייתי מקשה כך כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 12a:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/12a:8](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/12a:8)
+
+
+**בא"ד דה"ה גבי קדשים שמתו שתהי' בהם מעילה.**כצ"ל:
+
+
+
+## Daf 12b
+
+###### Rashash on Meilah 12b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/12b:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/12b:1)
+
+
+**גמרא הזבל והפרש.**נראה דזבל הוא מה שמוציאה ומשליכה לחוץ. ופרש נקרא כשהוא עדיין במעיה וכדכתיב בקרא וקרבו ופרשו. ולכן לא פריך רק מפרש:
+
+
+###### Rashash on Meilah 12b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/12b:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/12b:2)
+
+
+**תד"ה ודמיו. דאפי' כי איכא מעילה מדרבנן ל"מ אלא קרן כדאיתא בריש מכלתין וכל לא מועלין כו' אף מדרבנן כדפי' במתניתין.**כצ"ל:
+
+
+###### Rashash on Meilah 12b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/12b:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/12b:3)
+
+
+**תד"ה אלא. קס"ד כו' למוכרו וליקח מהן צורכי מזבח דומיא דקדשי בד"ה כו'.**כצ"ל:
+
+
+
+## Daf 13a
+
+###### Rashash on Meilah 13a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/13a:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/13a:1)
+
+
+**במשנה אילן ואח"כ נתמלא פירות שדה ואח"כ נתמלאה עשבים כו' וא"מ במה שבתוכן כו'.**מה שהקשה התוי"ט מביצת תרנגולת ומחלב חמורה דלעיל. נראה דלק"מ די"ל דהתם מיירי בחלב שהי' בדדיה וביצה שהיתה במעיה בשעה שהקדישם. ומה שהביא ראי' בסד"ה רש"א לפסוק כר' יוסי מגידולי קונם דפ"ז דנדרים. עמשכ"ע שם (נז) בס"ד. ובר מן דין הא איסורא מיהא איכא אפי' לת"ק וכדאיתא בפסחים שהביא לעיל. ולכאורה ה"נ ראיה לפסוק כר' יוסי ממשנה דלקמן שרשי אילן של הדיוט הבאין בשה"ק וכו'. ומדאיצטריך לאשמועינן בהו דאין מועלין ש"מ דבשאר גידולי הקדש מועלין. אבל י"ל דרישא מיירי דכשהקדיש הקרקע היו כבר שרשי אילן של חבירו לתוכה. וכן סיפא כשהקדיש את האילן כבר היו שרשיו לתוך שדה חבירו. וכ"מ לישנא דגמרא בב"ב (כו ב) מידי איריא בגידולין הבאין לאחר מכאן עסקינן. מכלל דלשינויא דרבינא שם לאו בהכי איירי:
+
+
+###### Rashash on Meilah 13a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/13a:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/13a:2)
+
+
+**שם ולד המעושרת.**כצ"ל וכן לקמן. והקשה התוי"ט דבדמאי קרי מעושרת לכלכלה שהופרש ממנה המעשרות והרמב"ם העתיק ולד המעשר. ונראה דאישתמיטתי' מ"ז דפ"ט דבכורות מן המעושרים דפירושו מן העשיריים. ובגמרא שם (נט ב) הוה ס"ד דפירושו אותן שעישר עלייהו ודחי שם דאינו אלא העשיריים ודיקא נמי כו'. וז"ל הרמב"ם שם בפירושו והוא מה שאמרו בתיקון מה שאמר מעושרין מאי מעושרין עשיריים:
+
+
+###### Rashash on Meilah 13a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/13a:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/13a:3)
+
+
+**רש"י ד"ה אילן מלא פירות. ובבכורים לא מיתוקמא שהרי אין קרבין כו'.**ועתוי"ט. ול"נ דמשום הא לא איריא כיון דטעונין הנחה לפני המזבח שפיר מיקרי ראוי למזבח ומה שאח"כ נוטלין הכהנים משלחן גבוה קזכו כמו בשר החטאת והאשם ודומיהן:
+
+
+###### Rashash on Meilah 13a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/13a:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/13a:4)
+
+
+**רש"י ד"ה וכן פרה של חולין. הדשה כו'.**כצ"ל. והתוס' שכ' בסד"ה הפועלים מפרה של הקדש אולי ט"ס הוא. ועי' לקמן בתד"ה אתיא (בע"ב) פי' הר"פ:
+
+
+###### Rashash on Meilah 13a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/13a:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/13a:5)
+
+
+**תד"ה אתיא. תדע מדאיצטריך כו' לאסור גיזה כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 13a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/13a:6](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/13a:6)
+
+
+**בא"ד**(ע"ב) דע"כ צריך ללמוד מבכור לענין הנקה במעשר מגז"ש דהעברה העברה כיון כו' מוקדשים מבכור אלא לענין הנקה כו' כמו כן לענין מעשר ילפינן כו'. כצ"ל:
+
+
+
+## Daf 13b
+
+###### Rashash on Meilah 13b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/13b:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/13b:1)
+
+
+**במשנה ראבצ"א נוהגין כו'.**התוי"ט העלה בצ"ע על הרמב"ם בחבורו שהשמיט ד"ז ע"ש. ול"נ דהרי הרמב"ם מפרש בפיה"מ דראב"צ אתא לאפלוגי ולומר דמותר ליהנות ממנה והביא ראיה מהא דנוהגין כו'. ות"ק סבר דאין זה ראיה דהתם טעמא משום דמצות ללה"נ (ויש ט"ס בפירושו וצ"ל תחת אינה מודה. אינו ראיה ובהגהת התוי"ט ג"כ ט"ס וצ"ל לא שמעינן) ולכן לא הביאו הרמב"ם להלכה דלענין לתתה בלולב הוא פשוט דשרי מטעם דמללה"נ וזה הביא בד"ט. ולשאר הנאות פסק דאסור כת"ק. אלא דלכאורה קשה מ"ש זה מהא דפסק הרמב"ם בפ"א מהלכות שופר ה"ג דבשופר של עולה לא יתקע לכתחלה. וי"ל דשאני הכא דאפילו הנאה גמורה אינה אסורה אלא מדרבנן מדקתני ולא מועלין לכן בהנאה דמצוה ל"ג אפי' לכתחלה:
+
+
+###### Rashash on Meilah 13b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/13b:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/13b:2)
+
+
+**רש"י ד"ה וא"ל ר"ל. דדריש נסכיה.**כצ"ל וכן בדבור שאח"ז:
+
+
+###### Rashash on Meilah 13b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/13b:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/13b:3)
+
+
+**תד"ה ר"א. מה נסכי יין המנסכו בחוץ חייב אף ניסוך המים יהא חייב.**כצ"ל:
+
+
+
+## Daf 14a
+
+###### Rashash on Meilah 14a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/14a:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/14a:1)
+
+
+**תד"ה שבאשרה. אלא נהנין פריך דכיון שאין הקן מאילן של הקדש כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 14a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/14a:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/14a:2)
+
+
+**בא"ד כלומר יטול הקן בידו.**כצ"ל:
+
+
+###### Rashash on Meilah 14a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/14a:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/14a:3)
+
+
+**בא"ד דהא אותם קנים שנשברו דומים כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 14a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/14a:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/14a:4)
+
+
+**בסה"ד הרר"פ שי' לפרש כו'.**כצ"ל:
+
+
+
+## Daf 14b
+
+###### Rashash on Meilah 14b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/14b:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/14b:1)
+
+
+רש"י (ברה"ע)**. על שס"ח מנה.**כצ"ל:
+
+
+###### Rashash on Meilah 14b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/14b:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/14b:2)
+
+
+**רש"י ד"ה רב פפא. ונמצא מועל.**הס"ד ומה"ד דדלמא. וקאי על הקושיא ומלת אמרי שבגמרא נראה למחוק. ועלייהו שבדר"פ מפרש אצלם כמו ועליו מטה מנשה:
+
+
+###### Rashash on Meilah 14b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/14b:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/14b:3)
+
+
+**רש"י ד"ה אלא. שדעתו לבנותן בו ביום.**כצ"ל:
+
+
+###### Rashash on Meilah 14b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/14b:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/14b:4)
+
+
+**תד"ה מותר. וא"ת ולמה הוזקקו לעשות כן מיד שחיללו כו'.**כצ"ל. ור"ל למה הוצרכו לתת אותה לאומנין שהרי מיד שחיללוה על מעות האומנין ויצאה לחולין היו יכולין לחלל מעות תרומה החדשה עליה. והנה תירוצם הראשון פשוט. ובתירוץ הב' ר"ל דחיישינן דלמא אתי לאחולי הקטורת תיכף על מעות תרומה החדשה טרם שיוציאה לחולין ע"י חילול על המעות שיפריש לשכר האומנין. ואין הקדש מתחלל על הקדש. אבל עתה שהוא מפריש ליד האומנין (כהגהת הצ"ק) לא אתי לאיתרשולי. והצ"ק לא ירד לכוונתם במחכ"ת:
+
+
+###### Rashash on Meilah 14b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/14b:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/14b:5)
+
+
+**בא"ד א"נ ה"פ דליכא בנין כשיעור מעות הקטורת לולי כו'.**כצ"ל:
+
+
+
+## Daf 15a
+
+###### Rashash on Meilah 15a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15a:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15a:1)
+
+
+**רש"י**(בסה"ע)**. דכתיב ואיש כי יאכל קדש בשגגה כו'.**יש לתמוה דהא האי קרא בתרומה הוא דכתיב כדפרש"י שם בנימוקיו וע"ש בת"כ. וי"ל עפ"י תירוץ התוס' בזבחים (לג ב) בד"ה ההוא ע"ש:
+
+
+###### Rashash on Meilah 15a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15a:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15a:2)
+
+
+**תד"ה קדשי מזבח. אם אכל בשר עולה זו ח"ז ומבשר עולה אחרת כו'.**ל"ד דאפי' משני מיני זבחים ג"כ מצטרפין:
+
+
+###### Rashash on Meilah 15a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15a:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15a:3)
+
+
+**בא"ד וכן למ"ד לקמן דמעילה בש"פ כו'.**שם לא איירי אלא בנהנה. אבל דבריהם יתכנו לאבא שאול בפסחים (לג). ועמש"כ שם בס"ד בתד"ה אף ותבין. וגם תראה שדבריהם לקמן בד"ה אחד שכ' שאם נהנה בח"ז בשר כו' תמוהים מאד דבהנאה ליכא למ"ד דבכזית. ונ"ל דשם ט"ס וצ"ל שאם אכל כח"ז כו':
+
+
+###### Rashash on Meilah 15a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15a:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15a:4)
+
+
+**תד"ה מחוורתא. כלומר דבר ברור כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 15a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15a:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15a:5)
+
+
+**בסה"ד ואית בהו לבעלים כלומר כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 15a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15a:6](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15a:6)
+
+
+**תד"ה ואפי'. י"ל דשמא קסבר קב"ה לא היו בכלל העמדה.**צ"ע דהא בתמורה (לב ב) איתא דלד"ה בין לריו"ח ובין לר"ל לרבנן קב"ה היו בכלל העמדה והערכה. וא"כ מנ"ל להש"ס דריו"ח ל"ל דרבנן אלא כר"ש דשם:
+
+
+###### Rashash on Meilah 15a:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15a:7](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15a:7)
+
+
+**בא"ד א"נ כו' דהעמידו מחיים כו'.**בגה"ש העלה דבריהם בצ"ע מהא שכתבו בחולין (קלה) דבעינן ההעמדה בשעת פדייה ע"ש. ול"נ דלק"מ דאטו ניבעי שתהא הפדייה תוכ"ד מהעמדה. אלא דכוונתם שם דבעינן שתהא העמדה בשעה שהיא ראויה להפדות ושם אינה ראויה הגיזה להפדות בשעת העמדה שהרי אינו רשאי לגוזזה. אבל הכא ראויה להפדות מחיים בשעת העמדה. וכגון בשעה שהיא מסוכנת ועומדת למות יכול להעמידה ולהעריכה כמה תהא שוה בנבלותה:
+
+
+###### Rashash on Meilah 15a:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15a:8](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15a:8)
+
+
+**בא"ד ואפי' בקב"ה אמרי' בפ' כ"ש דליכא מעילה.**כוונתם לאוקימתא דרב יוסף שם דטעמא די"א דלא מעל הוא משום דא"פ אה"ק להאכילן לכלבים. והגהת הצ"ק תמוה:
+
+
+###### Rashash on Meilah 15a:9
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15a:9](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15a:9)
+
+
+**בא"ד אבל לשאר הנאות פודין בקב"ה כגון כו'.**כצ"ל:
+
+
+
+## Daf 15b
+
+###### Rashash on Meilah 15b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15b:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15b:1)
+
+
+**רש"י ד"ה וא"ל והרי תודה. ודם כו' וליתיה לא בפיגול ולא בטמא כו'.**שייר נותר דג"כ ליתי' בי'. והתוס' בזבחים (קט) בד"ה עולה לא נקטי אלא פיגול והביאם התוי"ט כאן ולא הרגיש:
+
+
+###### Rashash on Meilah 15b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15b:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15b:2)
+
+
+**רש"י ד"ה אלא תני. ע"א אמר לי רבי כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 15b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15b:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15b:3)
+
+
+**רש"י ד"ה ומצטרפין**(במשנה)**. לאכול מכולן בש"פ כו'.**סתם כא"ש בפסחים (לב ב) דאילו לת"ק דשם הוא בכזית. ולשון הרב האוכל כזית כו':
+
+
+###### Rashash on Meilah 15b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15b:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15b:4)
+
+
+**תד"ה בשלמא**(בסופי')**. לזרוק עליו אה"ד לכתחלה וחייבים עליו בבשר משום פיגול כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 15b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15b:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15b:5)
+
+
+**תד"ה כל הפיגולים. כבר כו'.**עי' בדבריהם בזבחים (קט). ול"נ דהכא אשמעינן דמצטרפות ג"כ לענין טומאת ידים. דומה לבבא דכל הנבלות כו' הסמוכה דלד"ה מיירי לענין טומאה. וראיה לזה דהא לקמן (יז ב) על המשנה דהפיגול והנותר אין מצטרפין אר"י א"ש ל"ש אלא לטומאת הידים כו'. מכלל דכאו"א דשנוי כאן דמצטרף בפני עצמו מיירי ג"כ בזה:
+
+
+###### Rashash on Meilah 15b:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15b:6](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15b:6)
+
+
+**תד"ה אמר רב. ואיסור טמאה משום טמאה כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 15b:7
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15b:7](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15b:7)
+
+
+**בא"ד**(בד' טז) וא"ת ומ"ט כו' והא טומאת טהורה וטמאה משום נבלה. כ"נ דצ"ל:
+
+
+###### Rashash on Meilah 15b:8
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15b:8](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15b:8)
+
+
+**בא"ד וא"ת והא כו' וכל הנבלות בין של טמאה כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 15b:9
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15b:9](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/15b:9)
+
+
+**בסה"ד כגון טהורה וטמאה כו'.**כצ"ל:
+
+
+
+## Daf 16a
+
+###### Rashash on Meilah 16a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/16a:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/16a:1)
+
+
+**גמרא ולוי אמר אפי' לאכילה נמי מצטרפין.**עי' בתוס' שכ' דס"ל דאע"ג דבעלמא אין אחע"א הכא מודה כו' וה"ה דחייל נמי איסור נבלה אטמאה וק"ל מהא דאיתא בחולין (ק ב) בברייתא רי"א יכול תהא נבלת עוף טמא כו' יצא זה שאין איסורו משום ב"ת נבלה כו'. ואולי י"ל דע"כ לא גלי לן קרא דיבא איסור נבלה ויחול כו' אלא בנבלת בהמה דחמירא לטמא במגע ובמשא. [וכ"א בזבחים (ע)] אבל נבלת עוף דלית בה טומאה זולת בבית הבליעה לא שמעינן. אולם לפ"ז יקשה עדיין מהא דמכות (טז ב) ריסק ט' נמלים כו' ואחד משום כזית נבלה וע"ש בתוס'. [ואין סתירה להתוס' דמכות מהא דזבחים דהרי נבלת נמלה אין בה שום טומאה די"ל משום דשם נבלה אית ביה טומאה דהא גם חלב נבלה אינו מטמא] והרי בנמלים ליכא שום טומאה. לכן נראה לחלק דנבלת עוף קילא דהותרה מכללה אצל כהנים במליקה ועי' יבמות (לג ב) תד"ה אר"י. שוב ראיתי לרש"ל בחולין שם שעמד על הסתירה משם להא דמכות ובתירוצו יתיישב ג"כ הא דכאן. והמהרש"א שם משמע שמתרץ הסתירה בדברי התוס' דמכות ע"ש ותמוה דא"כ נבלת עוף נמי:
+
+
+###### Rashash on Meilah 16a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/16a:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/16a:2)
+
+
+**שם א"ד פליגא אדרב.**כצ"ל:
+
+
+###### Rashash on Meilah 16a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/16a:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/16a:3)
+
+
+**רש"י ד"ה ע"א קשה רישא. להא סיפא דקתני בין בחייה כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 16a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/16a:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/16a:4)
+
+
+**תד"ה מיתיבי. כדאמר התם ובת"כ לפי שא"ל חליפין.**כצ"ל:
+
+
+###### Rashash on Meilah 16a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/16a:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/16a:5)
+
+
+**בא"ד וכש"כ משני אברים כו'.**כצ"ל ותיבת כזית למחוק:
+
+
+###### Rashash on Meilah 16a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/16a:6](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/16a:6)
+
+
+**ריש ד"ה ועוד. אבל ח"ז מפרה כו' מצטרפין קשיא רישא אסיפא.**כצ"ל:
+
+
+
+## Daf 16b
+
+###### Rashash on Meilah 16b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/16b:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/16b:1)
+
+
+**תוס' ד"ה פתח. בין הבהמה הטהורה לטמאה כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 16b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/16b:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/16b:2)
+
+
+**ד"ה וקלסיה. דמסתבר טעמא דרב כו'.**אולי צ"ל דריב"ח:
+
+
+###### Rashash on Meilah 16b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/16b:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/16b:3)
+
+
+**ד"ה וקלסיה**(הב' בסופו)**. דאברייתא דאברים כו'.**בגליון הוגה דצ"ל אמתניתין כו'. ועמש"כ בס"ד בנדרים (כו) בד"ה איתיביה:
+
+
+
+## Daf 17a
+
+###### Rashash on Meilah 17a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/17a:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/17a:1)
+
+
+**במשנה כלל אר"י כו'.**ופסקו הרמב"ם בפ"ד מהלכות ט"א הי"א וכ"כ בפי' הכלל הזה אמת. וקשה דהלא ביומא (פ"א) אמרינן דרבנן פליגי עלי' ע"ש. ונ"ל דסמך אסוגיא דסוכה (יז) דאזלא כוותי' ע"ש:
+
+
+###### Rashash on Meilah 17a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/17a:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/17a:2)
+
+
+**תד"ה כל**(בסופו)**. כגון שרץ ונבלה.**הצ"ק הגיה ומת במקום ונבלה ע"ש. ואישתמיטתי' שיטת הרמב"ם בפי' ובחבורו שם דחשיב לנבלה ושרץ אין טומאתן שוה שזו מטמאה במשא. וזה א"מ אלא במגע. ותדע דגם התוס' ס"ל כן מדלא ציירו טומאתו ולא שיעורו כגון שרץ ונבלה:
+
+
+###### Rashash on Meilah 17a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/17a:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/17a:3)
+
+
+**תד"ה אר"ח. וזו חשוב להצטרף.**כצ"ל:
+
+
+###### Rashash on Meilah 17a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/17a:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/17a:4)
+
+
+**ד"ה אילו**(בסה"ע) שהוא כעסן וירא אני כו'. כצ"ל:
+
+
+
+## Daf 17b
+
+###### Rashash on Meilah 17b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/17b:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/17b:1)
+
+
+**גמרא שפחה של בית אבא נזדמן לה מלאך ג' פעמים.**עפרש"י ותוס'. אבל בב"ר פמ"ה איתא דרבנן אמרי ארבעה וריב"ח אמר חמשה:
+
+
+###### Rashash on Meilah 17b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/17b:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/17b:2)
+
+
+**במשנה השרץ והנבלה כו' א"מ זע"ז כו'.**לפרש"י במשנה דלעיל אתיא כר' יהושע. אבל לשיטת הרמב"ם והתוס' שם שהבאתי י"ל דאתיא אפי' כרבנן:
+
+
+###### Rashash on Meilah 17b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/17b:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/17b:3)
+
+
+**גמרא אבל לענין אכילה מצטרפין.**ומשמע דאף לענין כרת וקרבן קאמר. וכ"מ מדלא מוקי מתניתין אלא לטומאת ידים. וכ"נ להדיא ברמב"ם בפי"ח מהלכות פהמ"ק הלכה י' וי"א. והתוס' בזבחים (עח) מוקי לה בדלא מערבן. וא"כ קשה ממשנה דכריתות רפ"ג דתנן משני מינין פטור וקאי גם אפיגול ונותר ע"ש. ואולי י"ל דהכא מיירי שאכלן תכופות בלי הפסק בינתיים וכה"ג מחלק שם ר' מאיר במשנה (יב ב) ע"ש בגמרא:
+
+
+###### Rashash on Meilah 17b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/17b:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/17b:4)
+
+
+**רש"י ד"ה כי קדש הם. משמע כו'.**אבל בגמרא הגי' הוא וכ"ה בפסחים ובמכות וע"ש בפרש"י. וכ"נ דקדש הם לא כתיב אצל פסולי קדשים אלא באיסור זרות:
+
+
+###### Rashash on Meilah 17b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/17b:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/17b:5)
+
+
+**במשנה כבמזון שתי סעודות לעירוב.**מש"כ הרע"ב שהם שמונה ביצים לדברי רבותי. במחכ"ת אגב שיטפי' ל"ד דעי' בפ"ח דעירובין מ"ב דזה ליכא למ"ד. שוב נזכרתי שכ"כ גם הטור או"ח סי' ת"ט וע"ש בט"ז סק"ח:
+
+
+
+## Daf 18a
+
+###### Rashash on Meilah 18a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/18a:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/18a:1)
+
+
+**תד"ה תני. תימה כו' קאמר לר"ש ליצטרף היתר כו'.**כצ"ל:
+
+
+###### Rashash on Meilah 18a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/18a:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/18a:2)
+
+
+**בא"ד כדקתני בירושלמי ברישא כו'.**נ"ל למחוק תיבת בירושלמי. וכוונתם על המשנה דר"פ שם:
+
+
+###### Rashash on Meilah 18a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/18a:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/18a:3)
+
+
+**במשנה ערלה וכלאי הכרם מצטרפין זע"ז.**מש"כ הרע"ב לאסור במאתים ביבש ובלח בנו"ט. ל"ד. וכך הל"ל במין במינו במאתים ושלא במינו בנו"ט או אפי' במינו וכגון המחמץ [עי' פ"ב דערלה מ"ו] :
+
+
+###### Rashash on Meilah 18a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/18a:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/18a:4)
+
+
+**שם אר"ש מ"ט כו'.**התוי"ט הביא בשם הרמב"ם דמסיים שאנו חוששין להשוות השיעור לטומאה בדברים שמטמאין לא בדברים שמתטמאים. וכ"ע התוי"ט דלא נוח לו כו' ע"ש. לכאורה שפתי הרמב"ם ברור מללו דל"ח שיהיו שיעוריהן שוין אלא לענין הצטרפות המטמאין. אבל להצטרפות המתטמאין ל"ח שיהי' שיעוריהן שוין (גם נראה שבתוי"ט נפל ט"ס וצ"ל דהא אמרן לעיל טומאתו ולא שיעורו. גם לקמן שכ' "וזהו פירושו שבכאן". ט"ס וצריך להציגם אחר וי"מ כו'). אמנם ק"ל לפי מה שחילק הרמב"ם. מסוכה (יז ב) דפריך על רבה דאמר דמש"ה לא מצטרפי סכך פסול ואויר מפני דלא שוו שיעורייהו להדדי מהא דהבגד והשק כו'. והלא סכך פסול ואויר הוויין כדברים המטמאין. אך לפי מה שהוסיף הרמב"ם כאן ביאור בדברי ר"ש. י"ל דהיינו הא דמשני התם כדקתני טעמא אר"ש מ"ט כו'. מלשון הרע"ב שכ' וכן כ"א מצטרף לקל וכולן מצטרפין זע"ז כו'. משמע דאפי' שלא כסדר השנוי במשנה. ולא כן פי' בכלים ועי' תוי"ט שם:
+
+
+
+## Daf 18b
+
+###### Rashash on Meilah 18b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/18b:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/18b:1)
+
+
+**גמרא אין לי אלא אוכל. נהנה כו' מנין.**כ"נ דצ"ל ולמחוק הו':
+
+
+###### Rashash on Meilah 18b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/18b:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/18b:2)
+
+
+**שם אי מה חטא כו' פגימתו והנאתו באחד.**כ"נ דצ"ל בבי"ת:
+
+
+###### Rashash on Meilah 18b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/18b:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/18b:3)
+
+
+**רש"י ד"ה ואפי' לזמן מרובה. מנין שמצטרפין ויהא חייב.**כצ"ל ומלת הנהנה למחוק:
+
+
+###### Rashash on Meilah 18b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/18b:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/18b:4)
+
+
+**תד"ה יכול. שאינה פוגמה כו' את בעלה.**הגהת הצ"ק אינה מוכרחת:
+
+
+###### Rashash on Meilah 18b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/18b:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/18b:5)
+
+
+**תד"ה אכילתו. וכדפי' שם בתוספות.**כצ"ל וכן בסה"ד:
+
+
+
+## Daf 19a
+
+###### Rashash on Meilah 19a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/19a:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/19a:1)
+
+
+**גמרא שיכול מאי פשיטא נפש כתיב מ"ד כו'.**לכאורה בפשוטא משמע דאשמעינן דאף שחלוקין בשארי מצות מיחיד. משוח מביא פר ונשיא שעיר קמ"ל דבזה שוין וכדתנן בהוריות (ט) וע"ש בפרש"י. וי"ל דזה כבר ילפינן שם (ח) דקראי דחלוקת קרבנותיהם לא מיירי אלא בדבר שזדונו כרת ושגגתו חטאת:
+
+
+###### Rashash on Meilah 19a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/19a:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/19a:2)
+
+
+**שם עד דביקע בקרדום ויפגם פגום.**כ"נ דצ"ל בל"ו:
+
+
+###### Rashash on Meilah 19a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/19a:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/19a:3)
+
+
+**רש"י ד"ה עד שיצא מן ההקדש לחול. דקסבר דמאן דמיחייב חטאת כו' חייב באחריותו עד שיביאנו לעזרה וכיון כו'.**עי' ט"א מגילה (ח) בד"ה רש"א שתמה מאד ע"ז. וכ' דגי' שלפנינו כיון שהוציא מעל נכונה:
+
+
+###### Rashash on Meilah 19a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/19a:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/19a:4)
+
+
+**תד"ה אקשיה**(הא')**. אלא אי קשיא כו' ה"ל להזכיר לענין חיוב דהא מעב"ג כו'.**מה שנדפס בגליון כאן הגה' מצ"ק הוא שבוש. כי הכא לא הגיה כלום רק לקמן בתירוצם שכ' כלומר מעב"ג הגיה והוסיף תיבת נפקא ע"ש:
+
+
+###### Rashash on Meilah 19a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/19a:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/19a:5)
+
+
+**תד"ה אקשיה**(הב')**. הא יש בהן מעילה דהיינו אימורי קדשים קלים או קדק"ד כו'.**כ"נ דצ"ל:
+
+
+
+## Daf 19b
+
+###### Rashash on Meilah 19b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/19b:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/19b:1)
+
+
+**[במשנה נהנה בכחצי פרוטה ופגם בכח"פ כו'.**נראה דהו' מן ופגם הוא ו' המחלקת] :
+
+
+###### Rashash on Meilah 19b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/19b:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/19b:2)
+
+
+**רש"י ד"ה ור"נ. דכ"ש חמירי כ"כ שמביאין אחרים לקדושה ויש בהן מעילה.**לכאורה תמוה דהא משקדשו קדושת הפה יש בהן מעילה כדתנן לעיל בפ"ב. ואולי יכוון דכיון דנתקדשו בכ"ש קדשו קדושת הגוף דאין להם פדיון כדתנן בר"פ י"ב דמנחות ולכן יש בהם מאז מעילה אחר מעילה ואפשר דגם ת"ק מודה בזה ובהמה דנקט ל"ד אלא לאפוקי כ"ש:
+
+
+###### Rashash on Meilah 19b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/19b:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/19b:3)
+
+
+**שם דכ"ש מקדשין כל דבר.**כצ"ל:
+
+
+###### Rashash on Meilah 19b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/19b:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/19b:4)
+
+
+**תד"ה מ"ט. דכתיב יכפר עליו כו'.**כצ"ל ומלת אשר למחוק וכן בסמוך:
+
+
+###### Rashash on Meilah 19b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/19b:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/19b:5)
+
+
+**בא"ד שהכ"ש מקדש מה שבתוכו.**כצ"ל:
+
+
+
+## Daf 20a
+
+###### Rashash on Meilah 20a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/20a:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/20a:1)
+
+
+**במשנה נתנה לחבירו הוא מעל.**וכ' התוי"ט בשם הרמב"ם בטוה"נ הבאה לו. וסייעתא לפסק השו"ע או"ח סי' רכ"ג ס"ה וע"ש במ"א סק"ח:
+
+
+###### Rashash on Meilah 20a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/20a:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/20a:2)
+
+
+**שם נטל פרוטה של הקדש כו'.**התוי"ט הקשה דהא תו ל"ל. ולי י"ל משום דרצה לאשמעינן דינה בבלן:
+
+
+###### Rashash on Meilah 20a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/20a:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/20a:3)
+
+
+**תד"ה נתנה לבלן**(בסופו). בישראל מיירי מדקתני חבירו. הן מצינו בשבת (קנ) דתנן לחבירו ומוקי לה ר"פ בחבר נכרי. ועי' תוס' סוכה (לט) ד"ה הלוקח. ולשונם בב"מ דבעובד כוכבים לא שייך מעילה ור"ל וא"כ לא שייך למיתני וחבירו לא מעל:
+
+
+###### Rashash on Meilah 20a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/20a:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/20a:4)
+
+
+**המשנה כולן מעלו.**התוי"ט העתיק הירושלמי מה שמחלק בין הא דהכא להא דתרומות פ"ד מ"ד ע"ש. ול"נ דע"כ גמרא דילן ל"ל הך חילוק דהירושלמי דא"כ היאך רצה לפשוט ממתניתין בעיא דאמר לשלוחו זבין לי ליתכא ואזיל וזבין ליה כורא דהתם הרי זבין בב"א ודומה להך דתרומות. וע"כ צריך לחלק לגמרתינו כמו שחילק הר"ש שם בתחלה מדעת עצמו ע"ש:
+
+
+###### Rashash on Meilah 20a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/20a:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/20a:5)
+
+
+**תד"ה השליח. כדאמרינן כו' דילפינן חטא כו'.**והרע"ב כתב מקרא דואשמה הנפש ההיא כו' והוא מפי' הרמב"ם ועתוי"ט. ואנכי תמה דהרי מקרא זה לא כתיב אצל מעילה רק בגזל הגר בפ' נשא:
+
+
+
+## Daf 20b
+
+###### Rashash on Meilah 20b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/20b:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/20b:1)
+
+
+**רש"י ד"ה ש"מ מוסיף ע"ד הוי.**מה שהוסיפו בד"ח מלת שליח וכן בתוס' הוא לל"צ כמבואר:
+
+
+###### Rashash on Meilah 20b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/20b:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/20b:2)
+
+
+**בא"ד וזבין ליה כורא שהוא פי שנים.**כצ"ל:
+
+
+
+## Daf 21a
+
+###### Rashash on Meilah 21a:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/21a:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/21a:1)
+
+
+**במשנה כיצד יעשה נוטל כו'.**מפרש"י ותוס' וכ"נ מהרמב"ם בחבורו בפ"ז מהמ"ע ה"ו. דבהקדש יכול לחלל אף שהוא ברשות אחר כמש"כ התוס' בב"ק (סח ב) ד"ה הוא. והרע"ב נמשך אחרי הרמב"ם בפי' ולא מחוור:
+
+
+###### Rashash on Meilah 21a:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/21a:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/21a:2)
+
+
+**החנווני. ושליח נמי לא מעל שהרי עשה שליחותו.**זה אינו לפי המסקנא דלקמן בגמרא:
+
+
+###### Rashash on Meilah 21a:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/21a:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/21a:3)
+
+
+**תד"ה הבא לי בחציה. שמן ופתילות.**הס"ד. ומה"ד
+
+
+###### Rashash on Meilah 21a:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/21a:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/21a:4)
+
+
+**והלך והביא לו. בחציה כו' ושינה כו'**הד"א. כצ"ל:
+
+
+###### Rashash on Meilah 21a:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/21a:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/21a:5)
+
+
+**תד"ה אר"א. וקאמר דמה שיזיעו במעטן כו'.**כצ"ל ומלת בגמר' למחוק:
+
+
+###### Rashash on Meilah 21a:6
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/21a:6](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/21a:6)
+
+
+**בא"ד אע"ג דאיהו לא עביד חשוב משקה.**כצ"ל:
+
+
+
+## Daf 21b
+
+###### Rashash on Meilah 21b:1
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/21b:1](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/21b:1)
+
+
+**רש"י ד"ה והביא בשלשה. סלעי כסף כו'.**כצ"ל וכן לקמן בפי' הגמרא:
+
+
+###### Rashash on Meilah 21b:2
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/21b:2](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/21b:2)
+
+
+**רש"י ד"ה ואם הפקידן**(במשנה)**. לפיכך לא מעל השולחני אלא המפקיד.**וכ"כ בקדושין (נג ב). אבל הרמב"ם בפי' ובחבורו כ' דגם המפקיד לא מעל (וכ"כ הרע"ב אחריו). ועי' מה שהקשיתי עליו (שם נ) מהא דנזכר בעה"ב ולא נזכר שליח השליח מעל לפי הטעם שפרש"י שם. ונראה דהרמב"ם ס"ל דשם הטעם כמו שפרש"י בחגיגה (י ב) ע"ש:
+
+
+###### Rashash on Meilah 21b:3
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/21b:3](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/21b:3)
+
+
+**תד"ה פרוטה. ואע"ג דספיקא היא כו' ר"ע לטעמיה כו'.**בתוספתא איתא להדיא כאן בדברי ר"ע דמביא א"ת:
+
+
+###### Rashash on Meilah 21b:4
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/21b:4](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/21b:4)
+
+
+**בא"ד תימה ליבטל כו'.**מש"כ התו"ח ואפשר דאתיא כר"י דסבר מב"מ לא בטיל. זה אינו למש"כ התוס' במנחות (כב ב) ובש"מ דביבש ביבש אפי' ר"י מודה דבטיל ע"ש:
+
+
+###### Rashash on Meilah 21b:5
+
+[https://torahapp.org/share/book/Rashash%20on%20Meilah/r/21b:5](https://torahapp.org/share/book/Rashash%20on%20Meilah/r/21b:5)
+
+
+סליק מסכת מעילה. בעזרת שוכן מעלה:
+

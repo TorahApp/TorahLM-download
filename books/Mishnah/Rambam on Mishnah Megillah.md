@@ -1,0 +1,889 @@
+# Rambam on Mishnah Megillah
+
+רמב"ם על משנה מגילה
+
+Link: [https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah)
+
+חיבור התשתית הקדום של חז״ל, המתעד מגוון דעות הלכתיות ממסורת התורה שבעל פה. נחתם בשנת 200 לספירה לערך.
+
+Maimonides’ first published work, which he began writing in 1161 at the age of 23, including discussions on the Mishnah and legal decisions.
+
+Sections: Chapter-Mishnah-Comment
+
+Location: Mishnah/Rishonim on Mishnah/Rambam/Seder Moed
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Vilna edition (Segments: 69, License: Public Domain)
+
+Version (En): Translation by Rabbi Robert Alpert, 2023 (Segments: 69)
+
+
+## Chapter 1
+
+
+### Mishnah 1
+
+###### Rambam on Mishnah Megillah 1:1:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:1:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:1:1)
+
+
+**מגילה נקראת באחד עשר בשנים עשר בי"ג כו':** אמרו ז"ל לקיים את ימי הפורים האלה בזמניהם זמנים הרבה תקנו להם חכמים ואמר על כן היהודים הפרזים היושבים בערי הפרזות וכשהיו אנשי הפרזים עושים יום י"ד היו אנשי הכרכים עושים בחמשה עשר ואם היתה מוקפת חומה מימות יהושע בן נון אפילו נפלה החומה ונהרסה לא נחוש לזה. והטעם שסמכו עליו לכרכים המוקפים חומה מה שזכרו בירושלמי והוא אמרם חלקו כבוד לא"י שהיתה חרבה באותן הימים ותלו אותו בימות יהושע בן נון ואנשי שושן קורין אותה יום ט"ו אע"פ שהיא מחודשת לפי שעיקר הנס היה שם ועיקר חבור המגילה ונוח בט"ו בו.
+
+
+It is stated (Esther 9:31): “[These days of Purim shall be observed] at their proper time, [as Mordecai the Jews – and now Queen Esther – has obligated them to do],” the Sages instituted for them many times (Tractate Megillah 2a), and it is stated (Esther 9:19): “That is why village Jews, who live in unwalled towns, observe the fourteenth day of the month of Adar,” and since “the village Jews” [observe] on the fourteenth [of Adar], therefore, the people who dwell in walled cities observe on the fifteenth [of Adar]. But if they (i.e., the cities they live in) were walled from the days of Joshua, even though it was destroyed, we are not concerned about this, and reason that they (i.e., the Sages) attached the matter “in cities surrounded by a wall,” as we explained in the Jerusalem Talmud, and they stated to us: “they allotted honor to the Land of Israel that was ruined in those days, and they (i.e., the Sages) attached it in from the days of Joshua the son of Nun. But the people of Shushan read it (i.e., the Megillah) on the fifteenth day [of Adar] even though it is [a] new [place] since the essence of the miracle was performed in it as is explained in the Book of Esther (Esther 9:18): “[But the Jews of Shushan mustered on both the thirteenth and the fourteenth days,] and so rested on the fifteenth.
+
+
+###### Rambam on Mishnah Megillah 1:1:2
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:1:2](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:1:2)
+
+
+**ויום הכניסה** הוא יום שני ויום חמישי לפי שאנשי הכפרים מתכנסים בהם לשמוע ספר תורה. ואסור לקרות המגילה בשבת והטעם מה שבארנו בשופר ובלולב. וקריאתה בימים חלוקים היה בזמן שהיתה ידינו פשוטה ותקיפה לקיים המצות בשלימותן. אבל בזמן הזה רוצה לומר מיום שנתחבר הגמרא עד שיבוא משיח במהרה בימינו אין קורין אותה אלא בזמנה והוא יום ארבעה עשר וחמשה עשר כמו שביארנו. והמגילה חובה לקרותה בלילה ולשנותה ביום:
+
+
+ויום הכניסה – this is Monday and Thursday because the people of the villages gather on them to hear the Torah scroll [being read] (and Maimonides wrote this in the Laws of Megillah, Chapter 1, Halakha 7, and such has Rabbeinu Hananel explained, but not according to Rashi’s explanation that they come [on Monday and Thursday to court]. But it is prohibited to read the Megillah on Shabbat, and the reason is like we explained regarding the [Sounding of] the Shofar (see Maimonides’ commentary to Tractate Rosh Hashanah, Chapter 4, Mishnah 1) and the [Waving of the] Lulav (Tractate Sukkah, Chapter 4, Mishnah 2 – “lest he remove it four cubits in the public domain and walk toa specialist to learn [how to use it].”). And its (i.e., of the Book of Esther) on different days did not exist other than at the time when our hand was strong and we have the ability to force the complete fulfillment of the commandment, but at this time, meaning to say, from the time that the Talmud was compiled until the Messiah will speedily arrive, we don’t red it other than at its [proper] time and that is the fourteenth day and fifteenth day [of Adar] like we have explained (see also Laws of Megillah Chapter 1, Halakha 9. And the reading of the Megillah is obligatory once at night and on the morrow [during the day] a second time (see Tractate Megillah 4a and 20a).
+
+
+
+### Mishnah 2
+
+###### Rambam on Mishnah Megillah 1:2:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:2:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:2:1)
+
+
+**כיצד חל להיות יום י"ד בשני כו':** כבר בארנו כי יום הכניסה הוא יום ב' וה' ושהמגילה אינה נקראת בשבת ולפיכך כשיחול יום י"ד להיות בשבת שאי אפשר לקרותה בו ידחו עיירות גדולות ליום הכניסה שהוא יום חמישי ואין קורין אותה בערב שבת לפי שנאמר הואיל ונדחו ידחו ליום הכניסה:
+
+
+We have already informed [you] that יום הכניסה /”the gathering day” is Monday and Thursday, and tha that the Megillah (i.e., Scroll of Esther) is not read on the Sabbath day, and therefore, if the fourteenth of Adar fell on the Sabbath, when it is impossible to read it, the large cities should advance it to the [previous] “gathering day” which is Thursday. But they should not read it on Friday (i.e., the day before the fourteenth of Adar which occurs on Shabbat) because we say since it was advanced, it should be advanced to the [previous] gathering day (see Tractate Megillah 4a).
+
+
+
+### Mishnah 3
+
+###### Rambam on Mishnah Megillah 1:3:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:3:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:3:1)
+
+
+**איזו היא עיר גדולה כל שיש בה עשרה בטלנים כו':** י' בטלנים הוא שיהיה בבהכ"נ י' בני אדם שלא תהיה להם שום מלאכה אלא עסקי צבור ות"ת וקביעותם בבהכ"נ וכשיחול יום ט' באב יום שבת מתענין יום ראשון כי אקדומי פורענותא לא מקדמינן וכן כשיחול יום חגיגה ביום שבת נקריב ביום ראשון כמו שיתבאר במסכת חגיגה וכשיחול יום הקהל ביום השבת תהיה הקריאה ביום (שמיני) [צ"ל ראשון] וזמן עצי כהנים כבר קדם לך גדרו בסוף תעניות וכשיחול אחד מאלו הימים ביום שבת יהיה הקרבן יום ראשון וכל אלו מאחרין לפי דלא מטא זמן חיובייהו. ואמרו מתנות לאביונים ר"ל כי מי שנתן באותן הימים ר"ל יום אחד עשר שנים עשר ושלשה עשר מתנות לאביונים יצא ידי חובתו ורבי יהודה יפרש דברי חכמים שקדם זכרם:
+
+
+עשרה בטלנים – that there should be ten men in the synagogue that do not have a trade/vocation other than the [welfare of] the needs of the community and the Reading/Study of the Torah and the diligence in the synagogue (see Tractate Megillah 5a). But when the Ninth of Av falls on Shabbat, we fast on Sunday (i.e., the 10th of Menahem Av) for (see Talmud Megillah 5a) “for the advancement of punishment/retribution, we do not anticipate for ourselves.” And similarly, if the day of the festive offering of the visitors of the Temple on the festivals occurs on the Sabbath day, we off it on Sunday, as will be explained in Tractate Hagigah (Chapter 2 Mishnah 4). And if the Day of Assembly (see Deuteronomy 31:10-13 – which commands the Jewish people to assemble in the Temple courtyard once every seven years to hear the public reading of the book of Deuteronomy during the Festival of Sukkot following the Sabbatical year) falls on Shabbat, the Reading [of the Torah] will be on Sunday. And the time of the priests’ wood-offering, already the marking off of its time was advanced at the end of [Tractate] Taanit (see Chapter 4 Mishnah 5), that if one of those days was on Shabbat, the sacrifice would take place on Sunday. But we made all of these later for the time of our obligation had not [yet] arrived (see Tractate Megillah 5a). And we stated regardingמתנות לאביונים /gifts for the poor, he wants to say that if he gave מתנות לאביונים on those days, that is to say, on the eleventh, twelfth [or] thirteenth [of Adar], he has fulfilled his religious obligation. But Rabbi Yehuda explains the words of the Sages (see Tractate Sanhedrin 25a) that were mentioned above.
+
+
+
+### Mishnah 4
+
+###### Rambam on Mishnah Megillah 1:4:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:4:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:4:1)
+
+
+**קראו את המגילה באדר הראשון ונתעברה השנה כו':** שיעור זאת המשנה כך אין בין ארבעה עשר וחמשה עשר ימים של אדר ראשון לאדר שני אלא מקרא מגילה ומתנות לאביונים אבל אלו ואלו אסורים בהספד ובתענית:
+
+
+The arrangement of this Mishnah is such: There is no difference between the fourteenth [day] and fifteenth [day] of First Adar to that of Second Adar other than the Reading of the Megillah and Gifts to the Poor. But on this (i.e., the 14th and 15th of First Adar) and that (i.e., the 14th and 15th of Second Adar), eulogies and fasting are prohibited (see Tractate Megillah 6b).
+
+
+
+### Mishnah 5
+
+###### Rambam on Mishnah Megillah 1:5:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:5:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:5:1)
+
+
+**אין בין יום טוב לשבת אלא אוכל נפש בלבד כו':** כבר בארנו בסוף ביצה כי אלו דברי בית שמאי אבל בית הלל יש להם דברים אחרים מלבד אוכל נפש שהם מותרין לעשותן בי"ט ואסורין בשבת כמו שבארנו שם:
+
+
+We have already explained at the end of [Tractate] Betzah (Chapter 5, Mishnah 2) that these are the words of the School of Shammai, but the School of Hillel have with them things outside of the preparation of food that are permitted on Festivals and prohibited on the Sabbath as we have explained there.
+
+
+
+### Mishnah 6
+
+###### Rambam on Mishnah Megillah 1:6:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:6:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:6:1)
+
+
+**אין בין המודר הנאה מחבירו כו':** נדר הוא שיאמר אדם הרי עלי עולה או שלמים.
+
+
+נדר – he who would say, “behold, a burnt-offering or a peace-offering is upon me.”
+
+
+###### Rambam on Mishnah Megillah 1:6:2
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:6:2](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:6:2)
+
+
+**ונדבה.** היא שיאמר הרי זו עולה או שלמים. ואם מת או נגנב קרבן נדבה אינו חייב באחריותו לפי שהוא יחדו והפרישו והוא עובר בבל תאחר על שניהם כמו שאמר השם יתברך (דברים כ״ג:כ״ד) מוצא שפתיך תשמור ועשית וגו' ואמרו בפירוש כאשר נדרת זה נדר לה' אלהיך אלו חטאות ואשמות עולות ושלמים נדבה כמשמעה אשר דברת אלו קדשי בדק הבית בפיך זו צדקה:
+
+
+נדבה – he who would say, “behold, this burnt-offering or peace-offering is upon me” (see Tractate Megillah 8a) that if the free-will offering died, he is not responsible for it because he designated it. But on all of them, he transgresses in not bringing them on time, God, may He be exalted said (Deuteronomy 23:24): "מוצא שפתיך תשמור [ועשית כאשר נדרת לה' אלהיך נדבה אשר דברת בפיך]" /“You must fulfill what has crossed your lips [and perform what you have voluntarily vowed to the LORD your God, having made the promise with your own mouth.]” And they (i.e., the Rabbis) said in its explanation (Tractate Rosh Hashanah 6a): "כאשר נדרת"/what you voluntarily vowed – this is a vow; "לה' אלהיך"/to the LORD your God.- these are sin-offerings, guilt-offerings, burnt-offerings and peace offerings; "נדבר"/the promise – in its usual sense/by implication; "אשר נדרת"/what you have voluntarily vowed – these are consecrated for Temple maintenance; "בפיך"/with your own mouth – for charity.
+
+
+
+### Mishnah 7
+
+###### Rambam on Mishnah Megillah 1:7:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:7:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:7:1)
+
+
+**אין בין זב הרואה שתי ראיות לרואה שלש כו':** **אין בין מצורע מוסגר למצורע מוחלט כו':** כבר בארנו בפרק שמיני של פסחים (הל' ה') מענין זב בעל שתי ראיות או בעל שלש ראיות כל מה שצריך בהבנת זה הדבר ועוד יתבארו כל משפטי הזבות במקומן והדבר שהן שוין בו הוא טומאה וספירת שבעה כמו שבארנו שם.
+
+
+We have already explained in the eighth chapter of [Tractate] Pesahim (Mishnah 5) from the matters of a man suffering from gonorrhea who is given to two sightings [within a three-day period] and one who is given to three sightings [within a three day period] in order for the need to understand what they (i.e., the Rabbis) have said here (in Tractate Pesahim, Chapter 8, Mishnah 5), and all of the laws of women with flux will be explained in their place. And the matter that has been compared regarding it is ritual defilement and the counting of seven [clean days] as we explained there.
+
+
+###### Rambam on Mishnah Megillah 1:7:2
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:7:2](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:7:2)
+
+
+ו**מצורע מוסגר** הוא אותו שאמר בו הש"י והסגירו הכהן.
+
+
+מצורע מוסגר (quarantined leper – a suspected leper who has not yet been declared conclusively leprous by a Kohen. This leper must be isolated for a period of up to two weeks, until the Kohen can determine conclusively whether or not he is suffering from leprosy; he is ritually impure) -he is what God has said regarding him (Leviticus 13:5): “[But if it is a white discoloration on the skin of his body which does not appear to be deeper than the skin and the hair in it has not turned white,] the priest shall isolate the affected person for seven days.”
+
+
+###### Rambam on Mishnah Megillah 1:7:3
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:7:3](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:7:3)
+
+
+ו**מוחלט** הוא אותו שאמר בו הש"י וטמאו הכהן. ענין מוחלט שנצמת דינו ופסקו עליו לטומאה תרגום לצמיתות לחלוטין ונשתוו שניהם לטומאה ושלוח מחוץ למחנה.
+
+
+ומוחלט (confirmed leper – who has been declared conclusively ritually impure by a Kohen. A confirmed leper must grow his hair long and rend his garments. To purify himself when healed, he must shave off all of his hair and bring a special purification guilt-offering)- he is what God stated concerning him (Leviticus 13:8):”[And if the priest sees that the rash has spread on the skin,] the priest shall pronounce him impure; it is leprosy.” And the subject of a confirmed leper, that his status has been adjudicated and already it has been confirmed upon him that he is ritually impure, the Aramaic translation of [the Hebrew word] לצמיתות (see Leviticus 25:23: "והארץ לא תמכר לצמתת"/”The land must not be sold beyond reclaim”) permanently/in perpetuity, and both of them were compared to the ritual defilement and being sent out from the camp.
+
+
+###### Rambam on Mishnah Megillah 1:7:4
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:7:4](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:7:4)
+
+
+ו**טהור מתוך ההסגר** אינו צריך תגלחת וצפרין למה שאמר הש"י ויצא הכהן אל מחוץ למחנה וראה הכהן והנה נרפא נגע הצרעת מן הצרוע ובאה הקבלה אע"פ שהדבר ברור מי שצרעתו תלויה ברפואתו הוא שצריך תגלחת וצפרים יצא מוסגר שצרעתו תלויה בימים והוא אמרו והסגירו שבעת ימים ואחר יטהר אפילו נשאר אותו סימן כמו שנתבאר בפירוש במסכת נגעים ונשתוו שניהן בטהרה במים לפי שנאמר בטהור מתוך הסגר וכבס בגדיו וטהר:
+
+
+וטהור מתוך הסגר (and he is pure after being locked up) – he does not require shaving [all his hair from his body] and [the bringing of sacrificial] birds, to state to him, may He (i.e., God) be exalted (Leviticus 14:3): “[The priest shall go outside the camp. If the priest sees] that the leper has been healed of his scaly affection,” and even though the matter is clear, it comes through the received tradition that whenever one’s leprosy is dependent upon his healing, he is the one who is required shaving and birds, except for the quarantined leper whose leprosy is dependent upon days (see Tractate Megillah 8b), and he (i.e., God) (Leviticus 13:21): “the priest shall isolate him for seven days,” and afterwards he will be pure even though there remains that plague, as will be explained and clarified in Tractate Negaim, and they compared both of them with purification in water (i.e., in a ritual bath) because it is stated also with a pure person after he is locked up/טהור מתוך הסגר (Leviticus 13:6): “he shall wash his clothes, and he shall be pure.”
+
+
+
+### Mishnah 8
+
+###### Rambam on Mishnah Megillah 1:8:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:8:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:8:1)
+
+
+**אין בין ספרים לתפילין ומזוזות כו':** רצו באמרם בכל לשון בכתב כל אומה ובלשון כל אומה.
+
+
+He (i.e., the compiler of the Mishnah, Rabbi Judah the Prince) wanted, when he says, "בכל לשון" – meaning to say, in the script of every nation and in the language of every nation (see Tractate Megillah 9a).
+
+
+###### Rambam on Mishnah Megillah 1:8:2
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:8:2](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:8:2)
+
+
+ו**ספרים ותפילין ומזוזות** שתנאי כתיבתם כולם שוין כמו שנתבאר במנחות. והלכה כרבן שמעון בן גמליאל:
+
+
+וספרים ותפילם ומזוזות – the condition of writing all of them is equivalent as it will be explained in [Tractate] Menahot (in the Chapter הקומץ רבה ). And the Halakha is according to Raban Shimon ben Gamaliel.
+
+
+
+### Mishnah 9
+
+###### Rambam on Mishnah Megillah 1:9:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:9:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:9:1)
+
+
+**אין בין כהן משוח בשמן המשחה למרובה כו':** מרובה בגדים הוא כהן בבית שני שלא היה להם שמן המשחה אבל היה כהן גדול בלבישתו בגדי כהונה גדולה.
+
+
+מרובה בגדים – He is a Kohen in the Second Temple period as they did not have the anointing oil but rather, he was made the High Priest via his wearing the clothing of the High Priesthood.
+
+
+###### Rambam on Mishnah Megillah 1:9:2
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:9:2](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:9:2)
+
+
+ו**פר הבא על כל המצות** הוא מה שאמר הש"י אם הכהן המשיח. ונשתוו שניהן בפר יוה"כ ועשירית האיפה.
+
+
+ופר הבא על כל המצות – this God spoke of if the anointed priest would sin, etc. (See Leviticus 4:3), and they (i.e., the Rabbis) compared both of them regarding the bullock of Yom Kippur and the one-tenth of an Ephah.
+
+
+###### Rambam on Mishnah Megillah 1:9:3
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:9:3](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:9:3)
+
+
+ו**כהן שעבר** הוא כשאירע פסול בכ"ג ביה"כ ומינו אחר תחתיו כמו שביאר ביומא שאחר יוה"כ ישוב הראשון לגדולתו ויעבור השני שנתמנה ונשתוו שניהן שהן מצווין על הבתולה ואסורין באלמנה ושאר דיני כה"ג חובה על שניהן מלבד אלו שזכרנו:
+
+
+וכהן שעבר – if something occurred to make the High Priest unfit for service on Yom Kippur, and they appointed another in his place as we explained in Yoma (see Tractate Yoma, Chapter 1, Mishnah 1), for after Yom Kippur, the original [High Priest] returns to his high position/office and the second who was appointed is removed (see Tractate Megillah 9b and Tractate Yoma 12b), and both of them compared that they are commanded regarding [being married to] a virgin [woman] and prohibited to a widow, and all the rest of the laws of the High Priest is obligatory upon both of them, except for what is mentioned [in the Mishnah].
+
+
+
+### Mishnah 10
+
+###### Rambam on Mishnah Megillah 1:10:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:10:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:10:1)
+
+
+**אין בין במה גדולה לבמה קטנה כו':** במה גדולה היא במת צבור כמו שאמר הכתוב (מלכים א' ג, ד) היא הבמה הגדולה ואמרו אינו קרב בבמה ר"ל בבמה קטנה שהיא במת יחיד וכ"ז בשעה שהותרו הבמות כמו שיתבאר בפרק האחרון מזבחים (הל' ט'):
+
+
+במה גדולה – this is the communal shrine like Scripture states (I Kings 3:4): “[The king went to Gibeon to sacrifice there, for that was the largest shrine/כי היא הבמה הגדולה” and it is stated [in the Mishnah]:אינו קרב בבמה -meaning to say, on a small shrine which is an individual shrine. And all of this is at the time when [personal] shrines were permitted as will be explained in the last chapter of Tractate Zevakhim (Chapter 14, Mishnayot 4-8).
+
+
+
+### Mishnah 11
+
+###### Rambam on Mishnah Megillah 1:11:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:11:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/1:11:1)
+
+
+**אין בין שילה לירושלים כו':** בכל הרואה ר"ל שהיו אוכלין בכל מקום שהיה יכול לראות את שילה. ואמר יש אחריה היתר רוצה לומר כי אחר שגדל השם יתברך לשילה [אולי צ"ל נאסרו הבמות] כשחרב התיר לנו ההקרבה בבמות. ומאחר שבחר בירושלים אין מקריבין בשום מקום זולתו לעולם ואע"פ שחרב אסור להקריב בבמה. ועוד יתבארו עיקרי אלו הדינים כולם וראיותיהם בסוף זבחים:
+
+
+בכל הרואה – he eats all the time that he sees the Temple, at whichever distance that it will be. And it (i.e., the Mishnah) states: "יש אחריה התר" (i.e., the Sanctity of Shiloh permitted the shrines after its destruction) that after God sanctified it, [private] shrines were permitted to us to sacrifice after it was destroyed, but once God chose Jerusalem, we don’t sacrifice in any place apart from it forever, and the principles of all of these laws will be explained at the end of [the commentary to] (Tractate) Zevakhim.
+
+
+
+## Chapter 2
+
+
+### Mishnah 1
+
+###### Rambam on Mishnah Megillah 2:1:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:1:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:1:1)
+
+
+**הקורא את המגילה למפרע כו':** כתוב במגילה נזכרים ונעשים כמו שאי אפשר לאדם לעשות מלאכה בזמן שעבר אם לא עשאה כמו כן אין ראוי לקרות את המגילה אחר זמן קריאתה ואסור לקרותה על פה לאמרו נזכרים ואמר כתוב זאת זכרון בספר ושיעור זו המשנה ופירושה כך עברי שקראה תרגום בכל לשון לא יצא חוץ מלשון יוני אבל קורין אותה ללועזות בלע"ז והוא שתהיה כתובה בלע"ז כדי שלא תהא קריאתו על פה ומה שנשתנה לשון יוני משאר הלשונות לפי שהיה מובן אצלם הלא תראה מה שאמר במה שקדם אף בספרים לא התירו שיכתבו אלא יונית והטעם מפני שהם פרשו התורה בלשון יון לתלמי המלך ונתפרסמה אצלם אותה העתקה עד שהיתה אצלם אותו הלשון כמו לשונם וכאלו היתה אשורית וכן אמר לשון יוני לכל כשר ומוסיף על זה כי זה הלשון היה משובח אצלם רבינו הקדוש אומר מה לי לשון תרסי או לשון עברי או לשון יוני והלועז ששמע אשורית יצא לפי שאע"פ שאינו יודע פי' כל מלה ומלה יודע הוא כל המעשה:
+
+
+It is stated in the Megillah (i.e., Book of Esther – Chapter 9, Verse 28): “[Consequently, these days] are recalled and observed [in every generation],” like that it is impossible for a person that while he is engaged in work to perform now what had already passed, such [is the case] regarding the reading [of the Megillah] that he should not read at the end what is appropriate to read first (see Tractate Megillah 17a). And it is prohibited to read it by heart, for indeed it states, "נזכרים"/it is recalled and it is stated (Exodus 17:14): “[Then the LORD said to Moses,] ‘Inscribe this in a document, [and read it aloud to Joshua: I will utterly blot out the memory of Amalek from under heaven!],” just like this memory is in the book/scroll, so that they are recalled, so too they are called that which is stated here in a book/scroll (see Tractate Megillah 18a). And the order of this Mishnah and its explanation is such: An Israelite who read an Aramaic translation in any language did not fulfill [his religious obligation] other than from the Greek language, but we read it to those foreign language speakers in a foreign language [provided that] it is written in the foreign language in order that the reading should be by heart. And what makes the Greek language designated as special from the other language is because it was known among them, for don’t you see that they said [in the Mishnah] above regarding Scrolls that they (i.e., the Rabbis) did not permit that they should be written other than in Greek, and the reason for this is that they translated the Torah in the Greek language for King Talmi (see Tractate Megillah 9a) and that translation was spread until that language (i.e., Greek) became for them like their language, and it is as if it is Asshurit /form of Hebrew (i.e., the language and form of writing that we use today), and similarly, they (i.e., the Rabbis) (see Tractate Megillah 18a) stated the Greek language is fit/appropriate for all, and added to this, that this language was important in their eyes, our Holy Rabbi (Rabbi Judah the Prince) stated, what difference is it to me whether it is the Tarsi language or the Hebrew language or the Greek language (this was the reading of our teacher in Tractate Bava Kamma 83a). But a person speaking a foreign language who heard it in Asshurit/Hebrew has fulfilled [his religious obligation], for even though he does not know the meaning of each and every word, he does understand the general principle of the matter (see Tractate Megillah 18a).
+
+
+
+### Mishnah 2
+
+###### Rambam on Mishnah Megillah 2:2:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:2:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:2:1)
+
+
+**קראה סירוגין ומתנמנם יצא כו':** סירוגין פיסקי פיסקי ואפילו שהה כדי לגמור את כולה
+
+
+סירוגין -segment by segment (i.e., at intervals), and even if he delayed [long enough] in order to complete all of it.
+
+
+###### Rambam on Mishnah Megillah 2:2:2
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:2:2](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:2:2)
+
+
+ו**מתנמנם** הוא שהתחיל לישן אבל לא נשתקע בשינה כמו שדקדקנו בסוף פסחים. ואמר כותבה בתנאי שתהיה כוונתו על הקריאה שהוא קורא במגילה שכותב ממנה שהיא שלימה ולא על קריאתו באותה שניה שהוא כותב לפי שאינו יוצא ידי חובתו עד שיקרא בספר שלם.
+
+
+ומתנמנם – he that begins to sleep, but he is still not in a deep sleep like we established boundary to at the end of [Tractate] Pesahim (see Chapter 10, Mishnah 8). And it (i.e., the Mishnah) stated: כותבה: with the condition that he would have intention upon reading that which he does in the Megillah – not on the reading with what he copies from it, because he doesn’t fulfill his religious obligation until he reads with a complete Megillah (see Tractate Megillah 18b).
+
+
+###### Rambam on Mishnah Megillah 2:2:3
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:2:3](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:2:3)
+
+
+**סם** שם העיקר.
+
+
+סם (paint) – it is the name of one of the dyes whichever they will be.
+
+
+###### Rambam on Mishnah Megillah 2:2:4
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:2:4](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:2:4)
+
+
+**סקרא** הוא כמו אבן שצובעים בו צבע אדום.
+
+
+סקרא (red paint)– ALMAGRAH (see Tractate Gittin, Chapter 2, Mishnah 3 and Tractate Shabbat, Chapter 12, footnote 10 in Rabbi Kapach’s edition) .
+
+
+###### Rambam on Mishnah Megillah 2:2:5
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:2:5](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:2:5)
+
+
+**קומוס** מין עפר ירוק והוא מסמני הדיו ובערבי אלזא"ג.
+
+
+קומוס (ink prepared with gum) - ALZAG (see Tractate Shabbat, chapter 12, footnote 11 in Rabbi Kapach’s edition).
+
+
+###### Rambam on Mishnah Megillah 2:2:6
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:2:6](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:2:6)
+
+
+ו**קנקנתום** ממיני הקומוס.
+
+
+קלקנתום (vitriol, an ingredient of shoe-black) – ALKALKANAT (see Tractate Shabbat, Chapter 12, footnote 11 in Rabbi Kapach’s edition), and it is a species from the kinds of ink prepared with gum.
+
+
+###### Rambam on Mishnah Megillah 2:2:7
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:2:7](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:2:7)
+
+
+**נייר** הוא הנקרא בערבי נאגד.
+
+
+נייר (parchment, papyrus) – ALCHAGAD
+
+
+###### Rambam on Mishnah Megillah 2:2:8
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:2:8](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:2:8)
+
+
+**דיפתרא** הוא העור שאינו מעובד כל צרכו:
+
+
+דפתרא (hide prepared for writing) – the hide what its tanning was not complete (see Tractate Gittin, Chapter 2, Mishnah 4 – the ends of the parchments).
+
+
+
+### Mishnah 3
+
+###### Rambam on Mishnah Megillah 2:3:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:3:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:3:1)
+
+
+**בן עיר שהלך לכרך ובן כרך שהלך לעיר כו':** כשדעתו לחזור למקומו ליל י"ד ולא חזר קורא כמקומו ואם לא היה כן קורא עמהם. והלכה כר"מ:
+
+
+If it was his intention to return to his place on the night of the fourteenth [of Adar and he was delayed, thenקורא כמקומו - he reads [the Megillah] like the place where he is. But if the matter is not such, he reads with them (see Tractate Megillah 19a). And the Halakha is according to Rabbi Meir (i.e., in terms of the requirement of reading the entire Megillah).
+
+
+
+### Mishnah 4
+
+###### Rambam on Mishnah Megillah 2:4:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:4:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:4:1)
+
+
+**הכל כשרין לקרות את המגילה כו':** **אין קורין את המגילה ולא מלין כו':** הכל אפי' אשה. וכבר בארנו (פ"א ה"א) כי המגילה נקראת ליל פורים ויום פורים ועל קריאת היום אמרו אין קורין עד שתנץ החמה לאמרם והימים האלה נזכרים ונעשים ואמר במילה וביום השמיני וגו' ואמר בהזאה והזה הטהור על הטמא ביום השלישי וביום השביעי וגו' הקיש טבילה להזאה כי בשביעי טובל כמו שביאר הכתוב.
+
+
+הכל – and even a woman (see Tractate Arakhim 2b). And we have already explained (Tractate Megillah, Chapter 1, Mishnah 1) that the Megillah is read on the night of Purim and on Purim day , and regarding the reading of the day, it states that we don’t read it until the sun rises (Tractate Megillah 20a), as it states (Esther 9:28): “Consequently, these days are recalled,” and it states [in the Torah] regarding ritual circumcision (Leviticus 12:3): “On the eighth day [the flesh of his foreskin shall be circumcised]” and it states [in the Torah] regarding sprinkling (Numbers 19:19): “The pure person shall sprinkle it upon the impure person on the third day and on the seventh day, [thus purifying him by the seventh day].” And there is an analogy made between immersion to sprinkling, because on the seventh [day], he immerses, as Scripture explained.
+
+
+###### Rambam on Mishnah Megillah 2:4:2
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:4:2](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:4:2)
+
+
+ו**שומרת יום כנגד יום** כבר בארנו דינה בפסחים (פ"ח ה"ה) ועוד יתבאר בשלימות במס' נדה ומה שנאמר שנחשוב יום מעת עלות השחר לאמרו בעזרה (נחמיה ד׳:ט״ו) מעלות השחר עד צאת הכוכבים וקרא אותו הזמן יום והוא אמרם והיה לנו הלילה למשמר והיום למלאכה. ומה שאמר וכולם שעשו משעלה עמוד השחר כשר למי שעבר ועשה בעת הצורך הגדול אבל המעשה הגמור הוא אחר הנץ החמה ואין הלכה כר"י:
+
+
+ושומרת יום כנגד יום – we have already explained its laws in [Tractate] Pesahim [Chapter 8, Mishnah 5], and they will be explained in completion in Tractate Niddah [Chapter 4, Mishnah 7]. And we considered [the beginning of] the day from the crack of dawn until the [evening] stars appear, as it is stated in [The Book of] Ezra (actually the book of Nehemiah – as Ezra is called “Second Ezra” – Chapter 4, Verse 15: “And so we worked on, while half were holding lances, from the break of day until the stars appeared”). And it (i.e., the Bible) called this time period “day” and it says concerning it (Nehemiah 4:16): “that we may use the night to stand guard and the day to work.”, and all of this for someone who transgressed [and read the Megillah from the crack of dawn] and did so in a case of emergency, but ab initio, [one reads Megillah] after sunrise. But the Halakha is not according to Rabbi Yehuda [who states that a minor may read the Megillah].
+
+
+
+### Mishnah 5
+
+###### Rambam on Mishnah Megillah 2:5:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:5:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:5:1)
+
+
+**כל היום כשר לקריאת מגילה כו':** וידוי המעשר כבר בארתי אותו במס' מע"ש (פ"ה ה"י) ובאה אחר זאת הפרשה היום הזה ה' אלהיך וגו' ודרשינן סמוכין היום נאמר בהלל זה היום עשה ה' ובשופר יום תרועה יהיה לכם. ובמוספים דבר יום ביומו. ובתפלת המוספין כמו המוספין.
+
+
+ודוי מעשר – it has already been explained in [Tractate] Maaser Sheni (Chapter 5, Mishnah 10), and it is stated after this portion (Deuteronomy 26:16): “[The LORD your God commands you] this day, etc. [to observe these laws and rules; observe them faithfully with all your heart and soul]. And we expound (Tractate Megillah 20b) on the interpretation founded on the fact of juxtaposed verses, and it states in Hallel ((Psalms 118:24): “This is the day that the LORD has made – [let us exult and rejoice on it].” And concerning [The Sounding of] the Shofar (Numbers 29:1): “[In the seventh month, on the first day of the month, you shall observe a sacred occasion: you shall not work at your occupations.] You shall observe it as a day when the horn is sounded.” And regarding the Musaf/Additional Offerings (Leviticus 23:37): “[These are the set times of the LORD that you shall celebrate as sacred occasions, bringing offerings by fire to the LORD] – burnt offerings, meal offerings, sacrifices, and libations, on each day what is proper to it.” And the Musaf prayers are like the Musaf sacrifices.
+
+
+###### Rambam on Mishnah Megillah 2:5:2
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:5:2](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:5:2)
+
+
+**וידוי פרים** הוא הוידוי הנאמר על פר כהן המשיח ופר העלם דבר של צבור ועוד יתבאר עניינם בהוריות. ומיני העבודה כולם שזכר לא יהיו אלא ביום לאמרו ביום צותו את בני ישראל להקריב את קרבניהם ביום ולא בלילה. וכבר בארנו בשלישי מר"ה (הלכה א') כי הדינים לא יהיו אלא ביום. ואמרי' בסוטה ועשה לה הכהן את כל התורה הזאת ואמר על פי התורה אשר יורוך ועל המשפט מה משפט ביום אף השקאת סוטה ביום ואמר בעגלה ערופה ונכפר להם הדם ולפי שבא בהם לשון כפרה כקדשים לא יהיו אלא ביום כמו שהקדשים לא יקרבו אלא ביום כמו שזכרנו. וטהרת מצורע הוא בפירוש ביום טהרתו:
+
+
+וודוי פרים – this is the confession that is stated on the bull of the anointed priest/פר כהן משיח and the bull for n unwitting communal sin/פר העלם דבר של צבו, and their matters will be explained in [Tractate] Horayot, and all kinds of Divine Services that it (i.e., the Mishnah) mentions will not be other than during the daytime, as it states (Leviticus 7:38): “[on the day] when He commanded that the Israelites present their offerings to the LORD”/ביום צותו את בני ישראל להקריב את קרבניהם" – during the daytime but not at night, and we have aleady explained in the third [chapter] of [Tractate] Rosh Hashanah, that we don’t judge other than during the daytime. And it is stated regarding the suspected unfaithful wife/Sotah (Numbers 5:30): “and the priest shall carry out all of this ritual with her”/"ועשה לה הכהן את כל-התורה הזאת"’ and He (i.e., God) said (Deuteronomy 17:11): “You shall act in accordance with the instructions given you and the ruling handed down to you,”/"על-פי התורה אשר יורוך ועל-המשפט" – just as the ruling/משפט is performed during the daytime, so too the handing of the bitter water to the suspected wife is during the day time. And It (i.e., the Torah) said regarding the עגלה ערופה/the heifer whose neck was broken (Deuteronomy 21:8): “And they will be absolved of bloodguilt”/"ונכפר להם הדם" and since it states regarding it (i.e., the heifer whose neck was broken) the language of atonement/absolution like Holy Things, it should not be other than during the daytime like the fact that the Holy Things are not offered other than during the daytime as we have explained. But the purification of the leper is stated explicitly (Leviticus 14:2): “This shall be the ritual for a leper at the time (literally, on the day/daytime) that he is to be purified”/"ביום טהרתו".
+
+
+
+### Mishnah 6
+
+###### Rambam on Mishnah Megillah 2:6:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:6:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:6:1)
+
+
+**כל הלילה כשר לקצירת העומר כו':** קצירת העומר אינו אלא בלילה והוא קבלה ועוד יתבאר ענין קצירת העומר בעשירי ממנחות.
+
+
+קצירת העומר – does not [occur] other than during the nighttime, and this is from the words of the received tradition (see Tractate Megillah 21a and Tractate Menahot 66a), and the order of the Cutting of the Omer will be explained in the tenth [chapter] of [Tractate] Menahot.
+
+
+###### Rambam on Mishnah Megillah 2:6:2
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:6:2](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:6:2)
+
+
+ו**הקטר חלבים ואברים** הם מותר תמיד של בין הערבים והוא אמרו היא העולה על מוקדה על המזבח כל הלילה.
+
+
+והקטר חלבים ואיברים – the remained of the Daily Offering of the Afternoon (i.e., the time between the beginning of the decline of the sun and sunset) , and this is what the Torah states (Leviticus 6:2): “The burnt offering itself shall remain where it is burned upon the altar all night.”
+
+
+###### Rambam on Mishnah Megillah 2:6:3
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:6:3](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:6:3)
+
+
+ואמר **דבר שמצותו ביום כשר כל היום** לאתויי סידור בזיכים והם שני בזיכי לבונה שנותנין על לחם הפנים כמו שיתבאר במנחות (פי"א).
+
+
+And it (i.e., the Mishnah) stated: דבר שמצותו ביום כשר כל היום – to include the arrangements of the dishes/censers, and they are the two censers of (white) frankincense that are placed on the shewbread like it will be explained in [Tractate] Menahot (Chapter 11, Mishnah 8).
+
+
+###### Rambam on Mishnah Megillah 2:6:4
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:6:4](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/2:6:4)
+
+
+**ודבר שמצותו בלילה כשר כל הלילה** לאתויי אכילת פסחים וכבר ידעת כי אכילת פסח אין מותר לאכלו אלא עד חצות אבל גזרה היא כדי להרחיק את האדם מן העבירה:
+
+
+ודבר שמצותו בלילה כשר כל הלילה – to include the eating of the Passover sacrifice. And you already knew that it is not permitted to eat the Passover offering other than up until midnight (see also Tractate Zevakhim, Chapter 5, Mishnah 8) , but that this a decree in order to keep people away from transgression.
+
+
+
+## Chapter 3
+
+
+### Mishnah 1
+
+###### Rambam on Mishnah Megillah 3:1:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:1:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:1:1)
+
+
+**בני העיר שמכרו רחובה של עיר כו':** זו המשנה היא לרבי מנחם בר יוסי שהוא נותן לרחובה של עיר קדושה מאחר שמתפללין בו בתעניות ובמעמדות ואינה הלכה לפי שלא יחדוה לתפלה והתפלה בו עראי והעיקר בכל זה מעלין בקדש ולא מורידין ואסור למכור בית הכנסת אלא בכפרים אבל בית הכנסת של כרכים אי אפשר למוכרו לפי שהרבים יש להם בה זכות:
+
+
+This Mishnah is according to Rabbi Menahem the son of Rabbi Yossi, for according to him there is holiness to the street of a city since they pray on it on fast days and on non-priestly watches (i.e., corresponding to the priestly watches in Jerusalem. On those days, part of the non-priestly watch would go there. The remainder of the non-priestly watch would remain at home and fast from Monday to Thursday and read special portions from the Torah and recite special prayers), but this is not the Halakha, because they didn’t designate it specifically for prayer, but rather they would pray there incidentally/by chance (see Tractate Megillah 26a and Tosafot s.v. "בני העיר" and Rashi s.v. "זו דברי" ). And the generally principal in all of this is that we ascend in holiness but we do not descend (see Tractates Berakhot 28a, Shabbat 21b, Yoma 12b, 73a, Megillah 9b, 21bb, Horayot 12b, Menahot 39a, 92b – "מעלין בקודש ואין מורידין"). And it was not permitted to sell a synagogue other than in the villages, but a synagogue of the large cities, it is impossible to sell it because everyone is there (see Tractate Megillah 26a).
+
+
+###### Rambam on Mishnah Megillah 3:1:2
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:1:2](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:1:2)
+
+
+**אין מוכרין את של רבים ליחיד כו':** ואין הלכה כרבי יהודה:
+
+
+The Halakha is not according to Rabbi Yehuda.
+
+
+
+### Mishnah 2
+
+###### Rambam on Mishnah Megillah 3:2:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:2:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:2:1)
+
+
+**אין מוכרים בית הכנסת אלא על תנאי כו':** זהו כשלא מכרו אותו אנשי הכפר כולם בהסכמה אבל אם מכרוהו זקני המקום כולם במעמד אנשי המקום כולם יכולים למכור ואפילו לעשות ממנו דירה לשתות בו יין תמיד. ואין הלכה כרבי מאיר ולא כרבי יהודה:
+
+
+To what circumstances does [this Halakhic statement] apply? That all the people of the village did not sell it with the agreement of everyone, but if all the elders of the place in the presence of all the people of the place, it is permitted for them to sell it and even to make of it a place to always drink wine in it (see Tractate Megillah 26b – as well as Maimonides’ Mishneh Torah, in the Laws of Prayer, Chapter 11, Halakha 7). But the Halakha is neither according to Rabbi Meir nor according to Rabbi Yehuda.
+
+
+
+### Mishnah 3
+
+###### Rambam on Mishnah Megillah 3:3:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:3:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:3:1)
+
+
+**ועוד א"ר יהודה בהכ"נ שחרב אין מספידין בתוכו כו':** עגמת נפש רוצה לומר שיכאב הלב כשיש בו עשבים וישתדלו בבנינו אם יוכלו או תכנע נפשם וישובו אל ה' אם אין בהם יכולת לבנותו ולפיכך מותר לתלוש העשבים ולהריחם במקומם. אבל לא יתלוש ויאכיל או יאבדם לגמרי ודברי ר' יהודה אלו כולם אמת:
+
+
+עגמת נפש (grief of the soul) – it (i.e., the Mishnah) wants to say that their souls will languish/melt when there will there will be grass on it and they will attempt to build it (i.e., their destroyed synagogue) if it possible for them (see also Mishneh Torah, Hilkhot Tefillah, Chapter 11, Halakha 11), or their hearts will be humbled/depressed and they will return [in repentance] to God if it is impossible to build it. And therefore, it is permitted to him to uproot and to leave it in the same place, but he should not uproot and eat it or else they will perish from there (see Tractate Megillah 29a), and all the words of Rabbi Yehuda are correct.
+
+
+
+### Mishnah 4
+
+###### Rambam on Mishnah Megillah 3:4:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:4:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:4:1)
+
+
+**ר"ח אדר שחל להיות בשבת קורין בפרשת שקלים כו':** שבת ראשונה היא שבכלל ימותיה היא ראש חדש אדר והוא כשיתחיל ראש חדש אדר יום ראשון או שני או שלישי או רביעי או חמישי או ששי קוראין פרשה ראשונה והיא פרשת שקלים יום שבת שהוא שבת האחרון של שבט וכשתדע שבת ראשון ושניה ושלישית ורביעית יתבארו לך שבתות ההפסקה ואני אבארם
+
+
+שבת ראשונה – that the New Moon/Rosh Hodesh Adar will be during that week (see Tractate Megillah 29b), as for example, if Rosh Hodesh Adar occurs on Sunday or on Monday or on Tuesday or on Wednesday or on Thursday or on Friday, we read the first [special] portion which is the portion of Shekalim (Exodus 30:11-16) on the Sabbath day which is the last Sabbath that is in the month of Shevat. But if you know the first Sabbath and the second and the third and the fourth, it will be explained to you the intervening Sabbaths.
+
+
+###### Rambam on Mishnah Megillah 3:4:2
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:4:2](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:4:2)
+
+
+שבת **שניה** היא השבת שבכלל ימיה פורים על הדרך שבארנו בשבת ראשונה
+
+
+שבת שניה – it when Purim falls during that week in the manner that we explained regarding the first shabbat.
+
+
+###### Rambam on Mishnah Megillah 3:4:3
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:4:3](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:4:3)
+
+
+ושבת **שלישית** היא השבת הבאה אחר פורים או קודם ראש חדש ניסן אם יחול ראש חדש ניסן בשבת
+
+
+שבת שלישית – this is the Shabbat that is after Purim or before Rosh Hodesh Nisan, if Rosh Hodesh Nisan falls on Shabbat.
+
+
+###### Rambam on Mishnah Megillah 3:4:4
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:4:4](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:4:4)
+
+
+ושבת **רביעית** היא שיחול ראש חדש ניסן בתוכה על הדרך שקדם. ומה שאמרתי בראש חדש אדר שאפשר להיותו בכל יום מימי השבוע על עיקר הצווי ר"ל הראייה
+
+
+ושבת רביעית – that is when Rosh Hodesh Nisan falls during that week in the manner that we explained above. And what I said that it is possible for Rosh Hodesh Adar to fall on any day that will be of the days of the week is not other than according to the essence of the law, meaning to say, through visual sighting.
+
+
+###### Rambam on Mishnah Megillah 3:4:5
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:4:5](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:4:5)
+
+
+ו**פרשת שקלים** היא כי תשא עד סוף הפרשה
+
+
+ופרשת שקלים – this is [the Torah portion of] Kee Tissa (Exodus 30:11-16) until the end of the portion.
+
+
+###### Rambam on Mishnah Megillah 3:4:6
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:4:6](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:4:6)
+
+
+ואמרו **חוזרין לכסדרן** רוצה לומר סדר ההפטרות כי בכל שבת קורין ההפטרה מענין הסדר ובזמן אלו הפרשיות והמועדים הן הפטרות מענין הפרשה לא מענין הסדר כי בשבת ראשונה מפטיר ביהוידע הכהן ובשניה פקדתי את אשר עשה לך עמלק ובשלישית וזרקתי עליכם מים טהורים וברביעית בראשון באחד לחדש וכן בראשי חדשים וחנוכה יהו הפטרות מענין הזמן ומפסיק ענין הסדר כמו שיתבאר וזהו ענין אמרם לכל מפסיקין:
+
+
+And it (i.e., the Mishnah) states: חוזרין לסדרן/they resume the regular set of readings, it (i.e. the Mishnah) wants to say, the order of the Haftarot/prophetic portions for on every Shabbat we read the Haftarah from the subject of the order (i.e., Torah portion of the week), but at the time that we read these [four special] portions, and similarly at periodic occasions, we recite the Haftarah from the subject of the [special] portion, not from the subject of the ordered (i.e., regular weekly) portion. For on the first Shabbat, we recite the Haftarah of Yehoyadah the Priest (Second Kings 11:17-12:17), and on the second [Shabbat], “I am exacting the penalty for what Amalek [did to Israel]” (First Samuel 15:1-34), and on the third [Shabbat[, “I will sprinkle upon you purifying waters” (Ezekiel 36:16-36), and on the fourth [Shabbat], “So says the LORD God: On the first day of the first month” (Ezekiel 45:18-46:15). And similarly, on Rosh Hodesh commemorations and on Hanukkah we recite the Haftarah from the subject matter of the [holiday] season as will be explained and we interrupt the subject matter of the regular order (i.e., according to the theme of the weekly Torah reading), and this is the matter of why it (i.e., the Mishnah) says, לכל מפסיקין/they break off (from the ordinary set of Torah readings for the special readings and Haftarah portions).
+
+
+
+### Mishnah 5
+
+###### Rambam on Mishnah Megillah 3:5:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:5:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:5:1)
+
+
+**בפסח קורין בפרשת מועדות כו':** זה הדבר מבואר וסדר הקריאה באלו הזמנים הוא מנהג פשוט בכל ישראל מה שאומר לך. יום ראשון של פסח [קורין] משכו וקחו לכם והפטרה בפסח גלגל. יום שני שור או כשב והפטרה פסח יאשיהו. יום שלישי קדש לי. יום רביעי אם כסף תלוה את עמי. וביום חמישי פסל לך. ויום ששי ויעשו בני ישראל. ביום שביעי ויהי בשלח הפטרה וידבר דוד. ביום שמיני כל הבכור הפטרה עוד היום. ושבת שבתוך הפסח קורין ראה אתה אומר אלי הפטרה העצמות היבשות. וביום ראשון של עצרת קורין בחדש השלישי הפטרה ויהי בשלשים שנה וביום שני כל הבכור הפטרה תפלה לחבקוק וביום ראשון מראש השנה קורא וה' פקד את שרה והפטרה ויהי איש אחד מן הרמתים וביום שני והאלהים נסה הפטרה מצא חן במדבר ובצום כפור בשחרית קורין אחרי מות הפטרה כה אמר רם ונשא ובמנחה פרשת עריות הפטרה בנבואת יונה וביום ראשון וביום שני מסוכות קורין שור או כשב הפטרה ביום ראשון הנה יום בא ביום שני ויקהלו אל המלך שלמה ושאר ימות החג קורין בקרבנות החג וביום שמיני כל הבכור הפטרה ויהי ככלות שלמה ובתשיעי קורין וזאת הברכה הפטרה ויהי אחרי מות ושבת שבתוך החג קורין ראה אתה אומר אלי הפטרה ביום בא גוג:
+
+
+All of this is clear, and the order of the Torah readings on these [special] seasons/occasions, and it is a custom that has spread throughout all of Israel as I will explain to you (see Tractate Megillah 31a-b). On the first day of Passover (Exodus 12:21-51): “Go and pick out lambs, etc.” and the Haftarah is the “Passover at Gilgal” (Joshua 5:2-6:1, 27) and on the second day [of Passover], “When an ox, a sheep or a goat is born,” (Leviticus 22:26-33:44) and the Haftarah is the Passover of Josiah (Second Kings 23:1-25). On the third day [of Passover], “Consecrate to Me every first-born” (Exodus 13:1-16). And on the fourth day [of Passover], “If you lend money to My people” (Exodus 22:24-23:19). And on the fifth day [of Passover], “Carve two tablets of stone” (Exodus 34:1-26). And on the sixth day [of Passover], “Let the Israelite people offer the Passover sacrifice at its set time” (Numbers 9:1-15). And on the seventh day [of Passover] “Now when Pharaoh let the people go” (Exodus 13:17-15:26). And the Haftarah is “And David spoke to God” (Second Samuel 22:1-51). And on the eighth day [of Passover], “You shall consecrate to the LORD your God all male firstlings” (Deuteronomy 15:19-16:17), and the Haftarah is, “This same day at Nob” (Isaiah 10:32-12:6). But on the Sabbath that is within the Festival [of Passover], we read on it from “See, You say to me” (Exodus 33:12-34:26) and the Haftarah is the “Dry Bones” (Ezekiel 37:1-14). And on the first day of Atzeret/Shavuot we read “In the third month” (Exodus 19:1-20:23), and the Haftarah is “In the thirteenth year” (Ezekiel 1:1-28, 3:12). And on the second day [of Shavuot], “You shall consecrate to the LORD your God all male firstlings” (Deuteronomy 15:19-16:17) and the Haftarah is “The Prayer of the prophet Habakkuk” (Habakkuk 3:1-19). And on the first day of Rosh Hashanah, “The LORD took note of Sarah as He had promised” (Genesis 21:1-34) and the Haftarah, “There was a man from Ramathaim of the Zuphites” (First Samuel 1:1-2:10). And on the second day [of Rosh Hashanah], “And God put Abraham to the test” (Genesis 22:1-24), and the Haftarah, “The people…found favor in the wilderness (Jeremiah 31:2-20). And on the Fast of Atonement (i.e., Yom Kippur) in the morning, “After the death [of the two sons of Aaron]” (Leviticus 16:1-34) and the Haftarah, “For thus said He who is high aloft” (Isaiah 57:14 – 58:14). And at the Afternoon service, the portion of the forbidden relationships/nakedness (Leviticus 18:1-30), and the Haftarah is the prophecy of [the book of] Jonah (plus Micah 7:18-20). And on the first and second days of Sukkot, “When an ox, a sheep or a goat is born,” (Leviticus 22:26-23-44) and the Haftarah on the first day [of Sukkot] “Lo, a day of the LORD is coming” (Zechariah 14:1-21) and on the second day [of Sukkot] “All the men of Israel gathered before King Solomon” (First Kings 8:2-21). And all the rest of the days of Sukkot festival the sacrifices of the festival [of Sukkot are read] (Numbers 29:17-34), and on the Eighth Day (i.e., Shemini Atzeret) , “”You shall consecrate to the LORD your God all male firstlings” (Deuteronomy 15:19-16:17), and the Haftarah is “When King Solomon finished offering to the LORD” (First Kings 8:54-66) and on the ninth day (i.e., Simhat Torah), “And this is the Blessing” (Deuteronomy 33:1-34:12) and the Haftarah, “After the death of Moses the servant of the LORD,” (Joshua 1:1-18). And on the Shabbat within the Festival [of Sukkot], “See, You say to me,” (Exodus 33:12-34:26), and the Haftarah is “On that day, when Gog sets foot on the soil of Israel” (Ezekiel 38:18-39:16).
+
+
+
+### Mishnah 6
+
+###### Rambam on Mishnah Megillah 3:6:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:6:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:6:1)
+
+
+**בחנוכה בנשיאים בפורים ויבא עמלק כו':** שבת שבתוך חנוכה מפטירין בנרות בזכריה ואם חל יום ראשון מחנוכה ביום שבת שיהו בחנוכה שתי שבתות שבת ראשון מפטירין בנרות דזכריה ושניה בנרות שלמה ואם חל יום פורים בשבת תהיה ההפטרה פקדתי את אשר עשה עמלק וכן אם יחול ר"ח בשבת מפטיר והיה מדי חדש בחדשו ואם יחול ביום ראשון הפטרה מחר חדש וזהו ענין אמרו לכל מפסיקין לראשי חדשים לחנוכה ולפורים וכן לתעניות ולמעמדות מפטירין מענין תעניות ומעמדות לא מענין סדר אותה שבת ובתשעה באב קורין כי תוליד בנים ומפטיר אסוף אסיפם ונהגו העם לקרות בזה הגלות הפטרה קודם תשעה באב מענין התוכחות לא מענין הסדרים וכן אחר תשעה באב מפטיר בנחמות עד השבת שקודם ראש השנה שהיא ההפטרה מענין התשובה וההפטרות שקודם תשעה באב דברי ירמיהו שמעו דבר ה' חזון ישעיהו איכה היתה לזונה ואחר תשעה באב נחמו נחמו ותאמר ציון עניה סוערה אנכי אנכי הוא מנחמכם רני עקרה קומי אורי שוש אשיש שובה ישראל וקורין ברכות וקללות בתעניות לאומרם מוסר ה' בני אל תמאס.
+
+
+The Shabbat that is within Hanukkah, we recite the Haftarah of the candles of Zechariah (Zechariah 2:14-4:7). But if the first day of Hanukkah occurs on Shabbat, so that there will be two Sabbaths of Hanukkah, on the first Sabbath we recite the Haftarah of the candles of Zechariah and on the second [Sabbath], the candles of Solomon (First Kings 7:40-50). And if Purim day occurs on the Sabbath, the Haftarah will be: “I am exacting the penalty for what Amalek did to Israel” (First Samuel 15:2-34) (note: this can only occur in Jerusalem and other walled cities from the time of Joshua son of Nun – as they celebrate Purim on 15 Adar). And similarly, if Rosh Hodesh occurs on the Sabbath day, we recite the Haftarah, “And new moon after new moon” (Isaiah 66:1-24). But if Rosh Hodesh was on Sunday, we recite the Haftarah of “Tomorrow will be the New Moon” (First Samuel 20:18-42). This is the matter that it (i.e., the Mishnah) spoke of (in Mishnah 5 of this chapter): “For all these they break off (i.e., from the ordinary set order of the readings are interrupted, for the Haftarot) for New Moons, for Hanukkah and for Purim.” And similarly, for fast days and the non-priestly watches (which correspond to the priestly watches – the entire Jewish people was divided into twenty-four non-priestly watches, and each time a priestly watch went to Jerusalem to offer sacrifices, part of the corresponding “Ma’amad”/non-priestly watch would go there as well. The remainder of the “watch” would remain at home, and would fast each day from Monday to Thursday, read special portions from the Torah and recite special prayers), they would recite the Haftarah from the matter of the fast but the non-priestly watch would not [recite a special Haftarah] of the order of that Shabbat. For on Tisha B’Av/Ninth of Av, they read [in the Torah) “When you have begotten children” (Deuteronomy 4:25-40) and recite the Haftarah “I will make an end of them – [declares the LORD]” (Jeremiah 8:13-9:23). And The people had the practice during the time of this exile to read the Haftarot prior to Tisha B’av from the subject matter of the Rebukes/Admonitions not from the matter of the [Torah] portions. And similarly, after Tisha B’Av we recite Haftarot of Consolation until the Sabbath before Rosh Hashanah and we recite the Haftarah from the subject of Repentance. And the Haftarot that we recite before Tisha B’Av are: “The words of Jeremiah” (Jeremiah 1:1-2:3), “The Vision of Isaiah” (Isaiah 1:1-20), [and] “Alas she has become a harlot,” (Isaiah 21-27) (but as Kapach notes, that when Maimonides mentioned the order of the Haftarot at the conclusion of Sefer Ahavah in the Mishneh Torah, he switched these Haftarot according to our current practice: a) Jeremiah 1:1-2:3, Jeremiah 2:4-28 – “Hear the word of the LORD” and the “Vision of Isaiah” (Isaiah 1:1-27). And after it (i.e., Tisha B’Av), we read, “Comfort, Oh Comfort My People” (Isaiah 40:1-26), “Zion says, The LORD has forsaken me,” (Isaiah 49:14—51:3), “Unhappy, storm-tossed one, uncomforted!” (Isaiah 54:11-55:5), “I, I am He who comforts you!” (Isaiah 51:15-52:12), “Shout O barren one, You who have bore no child” (Isaiah 54:1-10), “Arise, shine for your light has dawned" (Isaiah 60:1-22), “I greatly rejoice in the LORD” (Isaiah 61:10-63:9), “Return, O Israel, to the LORD your God” (Hosea 14:2-10, Joel 2:15-27, Micah 7:18-20). And we read (in the Torah) the Curses and Blessings on Fast Days, because it states (Proverbs 3:11): “Do not reject the discipline of the LORD, my son.”.
+
+
+###### Rambam on Mishnah Megillah 3:6:2
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:6:2](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/3:6:2)
+
+
+ואמר **ואינו עולה להם מן החשבון** שאינה עולה להם אותה הקריאה שקורין בב' ובה' לקריאת יום שבת ולא נאמר שיחשבו השלשה שקראו ויקראו ד' ביום שבת ממקום שפסקו בו השלשה לקריאתה וישלימו לחשבון שבעה אלא חוזרין לראש הפרשה כמו שהוא גלוי ומפורסם:
+
+
+And it stated in the Mishnah "אינו עולה להן מן החשבון"/but it is not taken into account (i.e., the section read is re-read on the following Shabbat) – for that reading does not count for them that they read on Mondays and Thursdays for the obligation of the Shabbat [Torah reading] that they should consider for themselves with the three [portions] and read four on the Sabbath day from the place that the third [Aliyah] stopped to read and complete the number of seven , but rather, they repeat the [entire] portion as it is generally known (see Tractate Megillah 31b).
+
+
+
+## Chapter 4
+
+
+### Mishnah 1
+
+###### Rambam on Mishnah Megillah 4:1:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:1:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:1:1)
+
+
+**הקורא את המגילה עומד ויושב כו':** אמרו מקום שנהגו לברך יברך רוצה לומר אחר קריאת המגילה אבל לפניה על כל פנים צריך לברך לפי שהוא מצוה והעיקר אצלנו כל המצות כולם מברך עליהם עובר לעשייתם ויברך לפניה שלש ברכות על מקרא מגלה ושעשה נסים ושהחיינו ואחריה נהגו לברך הרב את ריבנו. וזכור אלו הדברים והוא שלא יקראו על ראש הצבור פחות מג' בני אדם ולא יקרא אדם אחד בספר פחות מג' פסוקים ולפיכך אם קראו י"ג פסוקים יקרא האחד מהם ד' פסוקים ולא יתחיל בפרשה פחות מג' פסוקים ואז יהיה ראוי לו שיפסיק הקריאה וירד ולא יניח מן הפרשה פחות מן ג' פסוקים ואז יהיה מותר לו להפסיק. כל אלו הם עקרים בקריאה על ראש בני אדם. והמתחיל לקרות בס"ת הוא חייב לברך אשר בחר בנו מכל העמים ונתן לנו את תורתו וחותם נותן התורה והקורא אחרון שהוא משלים יברך לאחריו אשר נתן לנו תורתו תורת אמת וחיי עולם נטע בתוכנו וחותם נותן התורה. ומה שסדרנו שבזמן הזה יברך כל אחד ואחד לפניה ולאחריה מפני הנכנסים בבהכ"נ שלא ראו אותו שבירך תחלה וכשרואין איש אחד שעולה וקורא בלא ברכה יחשבו כי הקורא בתורה אינו צריך ברכה לפניה וכמו כן הנמצאים בבהכ"נ שראו הראשון שירד ולא בירך ויצאו ולא ראו אחרון שבירך לאחריה יחשבו כי אין צריך לברך אחר קה"ת:
+
+
+It is stated [in the Mishnah], מקום שנהגו לברך – refers only to after the reading of the Megillah (see Tractate Megillah 21b), but prior to its [reading], it is obligatory to bless in any case because it is a Mitzvah, and the general principle with us is: “In the performance of all religious ceremonies, one must say the blessing/benediction over them before doing them”(see Tractate Pesahim 7b, 119b, Sukkah 39a, Menahot 35b and Nidah 63a). And we recite three blessings before it (i.e., the Reading of the Megillah): “on the reading of the Megillah,” “that God has performed miracles” and “Shehekheyanu”/who has kept us in life, sustained us, etc. And they had the practice to recite the blessing after the reading: “Who does champion our cause,” etc. And remember these general principles: And they are – that we don’t read in public less than ten Biblical verses (see Tractate Megillah 21b). And we do not have less than three people read from a Torah scroll in public. And one person does not read in a Torah scroll less than three verses, and therefore, when we read thirteen verses, one of them reads four verses. And we don’t begin a portion with less than three verses, and then it is permitted to him to stop the reading and to go down. And There should not remain in a portion less than three verses and then it would be permitted for him to stop. All of these general principles are regarding public reading. And a person who begins in the reading of the Torah scroll is obliged to bless, “who has chosen us from all the nations and given us His Torah. [Praised are You, O LORD] who has given us the Torah. And the person who reads last and completes it (i.e., the reading) blesses after it: “who has given us a Torah of truth and planted eternal life in our midst. [Praised are You, O LORD] who has given us the Torah. But they established now that each person recites the blessings [both] before and after because of those who enter [late] and because of those who depart/leave [early] to the synagogue, who did not see that person who made the blessing initially, and when they would see one after another ascend and read without a blessing, they would think that a person reading the Torah does not have to make the blessing beforehand, and if those present there saw the first person who descended and did not make a blessing and they left and did not see the last person who made the blessing afterwards would think that there is no obligation for a blessing after the reading of the Torah (see Tractate Megillah 21b – Kapach did not supply this source).
+
+
+
+### Mishnah 2
+
+###### Rambam on Mishnah Megillah 4:2:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:2:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:2:1)
+
+
+**בראשי חדשים ובחולו של מועד קורין ארבעה כו':** אמרו זה הכלל סימן בעלמא לפי שאין לנו יום שיש בו מוסף ואינו י"ט אלא מה שנזכר וכל זה מבואר ואמת. ובכ"מ שיאמר מברך לפניה ולאחריה רוצה לומר על דרך החיוב כמו שבארנו:
+
+
+It (i.e., the Mishnah) stated "זה הכלל", is a mere sign (see Tractate Megillah 22b), because we don’t have a day where Musaf [is recited] that is not a Festival day other than what it mentioned (i.e., Rosh Hodesh or the Intermediate Days of a Festival) . And all of this is clear and correct. And everywhere that it (i.e., the Mishnah) states"מברך לפניה ולאחריה" - this is according to the principle of the law as we have explained.
+
+
+
+### Mishnah 3
+
+###### Rambam on Mishnah Megillah 4:3:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:3:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:3:1)
+
+
+**אין פורסין על שמע ואין עוברין לפני התיבה כו':** אמר השם ונקדשתי בתוך בני ישראל. ובאה הקבלה כל דבר שבקדושה לא יהיה פחות מעשרה.
+
+
+God said (Leviticus 22:32): “And I will be sanctified in the midst of the children of Israel”, and it comes through the received tradition that any matter that is related to holiness will not occur with less than ten [men] (see Tractate Megillah 23b and Berakhot 21b, among others).
+
+
+###### Rambam on Mishnah Megillah 4:3:2
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:3:2](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:3:2)
+
+
+ו**פורסין על שמע** היא הפריסה וההצעה שהיא קידם קריאת שמע רוצה. לומר שיסדר אדם אחד יוצר ואהבה.
+
+
+ופורשין על שמע – this is the separation/preparation that is before the recitation of the Shema, meaning to say that one person recites [the blessing] of יוצר/creating new lights and אהבה/love (i.e., Ahavah Rabbah in the morning and Ahavat Olam in the evening).
+
+
+###### Rambam on Mishnah Megillah 4:3:3
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:3:3](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:3:3)
+
+
+ו**עוברין לפני התיבה** הוא שיתמנה אחד להתפלל בקהל.
+
+
+ועוברין לפני התיבה – that one should stand to pray in the congregation/community.
+
+
+###### Rambam on Mishnah Megillah 4:3:4
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:3:4](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:3:4)
+
+
+ו**מעמד** ו**מושב** הוא כשהיו מתקבצים בני אדם ללוות את המת ובאין לסופדו שהיה אדם אחד ספדן ואומר להם בפרק מפרקי ההספד עמדו יקרים עמדו שבו יקרים שבו ואין מטריחין כל זה הטורח אא"כ היו עשרה או יותר. וכשיאמר אדם ערכי עלי והערכים פסוקים וידועים הם כבר בלשון התורה ואין לו לזה המעריך מה שיתן אלא אחוזתו הכהן הממונה על ההקדשות יקח מאותה אחוזה דמי הערך שנתחייב בו לפני עשרה מישראל ואחד מהם כהן שיסכימו כולם שזו שוה זה הערך ואז ירד לתוכה וכן כשאמר דמי ערכי עלי שהוא חייב במה שישומו אותו כעבד הנמכר בשוק ויתן דמיו כמו שיתבאר בערכין ג"כ צריך זה שישומו אותו י' בני אדם ואחד מהם כהן ויתן כפי שומתן וזה ענין באמרם ואדם כיוצא בהם ענינו כקרקעות וזה שאמרו תשעה וכהן אינו תנאי אבל הוא רשות כי אם הם ט' מישראל דיו לפי שפרשת ערכים נשנית בה מלת כהן י' פעמים ובאה הקבלה כי כהן אחד בלבד יספיק לנו וכל מה שנשנה כהן הוא רבוי אחר רבוי למעט ואפילו ישראל:
+
+
+ומעמד ומושב – this is when they gather people to accompany the corpse , they would gather together to eulogy and one person eulogies and says to them in segments from parts of the eulogy: “Stand dear ones, stand, sit, dear ones, sit. And we don’t take pains to do this unless there were ten persons there or more (see Tractate Megillah 23b, Tractate Bava Batra 106b). And if a person said: “My value is upon me,” for the valuations are set in the Torah (see Leviticus 27:1-8), and he didn’t have with what to pay other than his property, behold the Kohen that is appointed over matters of that which is dedicated to the Temple takes from that land in equivalence to the valuation that he is liable for according to ten people – nine of them Israelites and one of them a Kohen and all of them will agree (note: when examining the Laws of Valuation and Property set apart for Priestly or Temple use, Chapter 8, this condition is not mentioned) for this is worth these monies, and afterwards he descends into it. And similarly, if a person said, “these monies are upon me,” he needs to estimate with a slave whose is sold in the marketplace and give his monies as it is explained in [Tractate] Arakhin (19-20), behold he also needs to make valuation with ten people and one of them is Kohen and will give according as they will say and this is the matter that it (i.e., the Mishnah) states: "ואדם כיוצא בהן", it is the intention to state that a person is like land/property. And this that we said, “nine and a Kohen, is not a condition but rather an option, meaning to say, and even if there were nine Israelites it is permitted, because it states in the portion of valuations (i.e., Leviticus 27:1-8) the word “Kohen” ten times and it comes through received tradition that one Kohen is sufficient and all that the word “Kohen” is doubled, it is “one amplification after another amplification is only to restrict”/אין ריבוי אחר ריבוי אלא למעט (i.e., the two expressions negate each other, and together they are treated as a restrictive expression), and even an Israelite (see Tractate Megillah 23b and Sanhedrin 15a – but אין מיעוט אחר מיעוט אלא לרבות – a restriction after a restriction is only to amplify).
+
+
+
+### Mishnah 4
+
+###### Rambam on Mishnah Megillah 4:4:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:4:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:4:1)
+
+
+**הקורא בתורה לא יפחות מג' פסוקים כו':** אם היו שלשתן ג' פרשיות כמו הפרשה שבישעיה (נ"ב) כה אמר ה' חנם. כה אמר ה' אלהים מצרים. ועתה מה לי פה וגו'. כמו אלו הג' פסוקים לא יקראם כולם לתורגמן ואח"כ יתרגם אבל קורא אותם אחד אחד.
+
+
+אם היו שלשתן שלש פרשיות – as for example it is stated in Isaiah 52:3-5 (also found in Tractate Megillah 24a, but according to Kapach’s notes, it is only two portions): “For thus said the LORD, etc.,” “For thus said the LORD God, Of old, My people went down to Egypt,” “What therefore do I gain here, etc.?” This is like these three verses – all of them should not be read to the translator of the Biblical passages recited at services and afterwards he would translate them [to Greek or Chaldee], but rather translate them one by one.
+
+
+###### Rambam on Mishnah Megillah 4:4:2
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:4:2](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:4:2)
+
+
+**ואין מדלגין בתורה** בשני ענינים אבל בענין אחד כמו באחרי מות ואך בעשור לחדש מדלגין ובנביאים אפילו מענין לענין והתנאי בשניהם שלא ישהה אלא כדי שישלים התורגמן לתרגם הפסוק שהוא מתרגם או הג' פסוקים אם הוא מתרגם בנביא:
+
+
+ואין מדלגין בתורה – in two subjects/matters. But in one matter, like Aharei Mot (Leviticus 16 – which deals with Yom Kippur) and (Leviticus 23:27): “Mark, the tenth day [of this seventh month is the Day of Atonement],” we skip. And in [passages from] the Prophets, we skip, and in all of them, with the condition that he should not delay other than in order that the translator will complete translating the verse that he is translating, or the three verses if he was translating from the Prophets.
+
+
+
+### Mishnah 5
+
+###### Rambam on Mishnah Megillah 4:5:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:5:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:5:1)
+
+
+**המפטיר בנביא הוא פורס על שמע כו':** משום כבוד עצמו תקנו לו חכמים זה מאחר שהוא ממציא עצמו להפטיר ראוי הוא שיעשו על ידיו אלו המעשים המשובחים וכשהמפטיר בנביא קטן שאי אפשר לו לעבור לפני התיבה עד שיתמלא זקנו אביו או רבו יורדין במקומו לאלו הדברים ויהיה כאלו הוא עצמו מפטיר בנביא כיון שהוא תלמידו או בנו והכל שוה:
+
+
+Because of the dignity of the congregation that individual person performs all of these important tasks and it is appropriate for them. But if a minor was reciting the Haftarah from the Prophets, where it is impossible for him to go before the ark until his beard becomes full (see Tractate Hullin 24b), his father or teacher/Rabbi stands [with him] for these things, as if he himself recite the Haftarah on the Prophets, because he and his student or his son are equivalent.
+
+
+
+### Mishnah 6
+
+###### Rambam on Mishnah Megillah 4:6:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:6:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:6:1)
+
+
+**קטן קורא בתורה ומתרגם כו':** קטן קורא בתורה אמר אחד מן הגאונים האחרונים כי זה אחר השלישי.
+
+
+קטן קורא בתורה – one of he latter Geonim stated that this is after the third [Aliyah] (see The Laws of Prayer, Chapter 12, Halakha 17 – that Maimonides changes his mind).
+
+
+###### Rambam on Mishnah Megillah 4:6:2
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:6:2](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:6:2)
+
+
+ו**פוחח** הוא שיהיה הבגד שעליו נקרע העליון ממנו עד שכתפיו ולבו נראין ערומין דמתרגמינן ערום ויחף פחח ויחף. ואין הלכה כר' יהודה באמרו כי מי שלא ראה מאורות מימיו לא יפרוס על שמע שאע"פ שלא נהנה מאורם שיראה נהנה מפעולתם בעולם ר"ל הפעולות הבאים מאורם בעוה"ז.
+
+
+ופוחח – he is as for example that his clothing that is upon him was torn from above until the flesh of his shoulders and his chest is seen, and the Aramaic translation of (Isaiah 20:2 -not verse 3 as found in Kapach’s footnotes): “going naked and barefoot,” –“to have holes in his garment/clad in rags/exposed and barefoot.” But the Halakha is not according to Rabbi Yehuda who states [in the Mishnah] that whomever had never seen the lights of the sun should not spread a cloak over his head for the recitation of the prayers preceding the Shema/divide the prayers for the Shema, for even though he doesn’t enjoy their light, he surely benefits from their activity in the world, meaning to say, the activities that are indirectly engendered by their light.
+
+
+
+### Mishnah 7
+
+###### Rambam on Mishnah Megillah 4:7:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:7:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:7:1)
+
+
+ו**אסטיס** צבע כדמות תכלת ובערבי פל"ג. ופואה שרשים דקים אדומים שצובעין בהם אודם ובערבי פוו"ה. וכמו כן כל דבר שצובע הידים אמנם אם היו רוב בני אותה העיר צובעי ידים מפני שמתעסקים באותו צבע מותר לו לישא את כפיו שהרי נסתלק טעם מפני שהעם מסתכלין בו:
+
+
+ואסטס – ALNILAG, and similarly all things that color the hands, but if most of the people of that place had colored hands on account of their engaging with that color, it is permissible for him (if he is a Kohen) to raise his hands (see Tractate Megillah 24b), for the reason is nullified “because the people are looking at him.”
+
+
+
+### Mishnah 8
+
+###### Rambam on Mishnah Megillah 4:8:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:8:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:8:1)
+
+
+**האומר איני עובר לפני התיבה בצבועין כו':** על מצחו או על פס ידו פי' שישים של ראש על מצחו או של יד על פס ידו ה"ז דרך טועים לפי שהוא הולך אחר לשון התורה ממש לפי דעתו.
+
+
+על מצחו או על פס ידו – meaning to say, that he should place the [Tefillin] of the head on his forehead or [the Tefillin] of the hand on the palm of his hand, for surely this is the path of heretics/sectarians, because he follows after the simple meaning of the Biblical verses according to his [insufficient] knowledge.
+
+
+###### Rambam on Mishnah Megillah 4:8:2
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:8:2](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:8:2)
+
+
+**על בית אונקלי** שיתלה אותם על זרועו או כתפו או שיתן אותה בחיקו.
+
+
+על בית אנקלי – that he suspends it on his arm or places it it in the pocket in his garment.
+
+
+###### Rambam on Mishnah Megillah 4:8:3
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:8:3](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:8:3)
+
+
+וה**חיצונים** הם הכופרים בתורה בכל ואינם מאמינים ממנה לא תורה שבכתב ולא תורה שבע"פ:
+
+
+וחיצונים – they have departed from the realm of the religion completely for they do not believe neither in the Written Torah or the Oral Torah, and we don’t say, יברכך טובים – for the righteous and wicked people praise God as it states (Jeremiah 10:7): “Who would not revere You, O King of the Nations.”
+
+
+
+### Mishnah 9
+
+###### Rambam on Mishnah Megillah 4:9:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:9:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:9:1)
+
+
+ואין ראוי לומר **יברכוך טובים** לפי שהשם יתברך מברכים אותו טובים ורעים כמו שכתוב מי לא יראך מלך הגוים. ועל קן צפור יגיעו רחמיך לפי שהטעם אינו צד רחמניות מהשם יתברך באומרו לא תקח האם על הבנים אבל היא גזרת הכתוב. ועל טוב יזכר שמך מפני ששמו נזכר על טוב ועל רע כמו שאמרו מברך על הרעה כשם שמברך על הטובה. ואם אמר מודים מודים משתקין אותו מפני שנראה כאלו ההודאה לשתי רשויות וההודאה אינה אלא לאחד.
+
+
+ועל טוב יזכר שמך – because it is mentioned about the good and the evil like we said (Mishnah Berakhot, Chapter 9, Mishnah 5): “One blesses on the evil in the same way that he blesses on the good, and when he says, "מודים מודים" – surely one must doubt through his admission that perhaps it is for two [gods], but it is for one [God].
+
+
+###### Rambam on Mishnah Megillah 4:9:2
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:9:2](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:9:2)
+
+
+ו**המכנה בעריות** הוא שיכנה וישים כנוי הנסתר במקום כינוי הנוכח ויאמר במקום אביך ואמך ואחותך אביו ואמו ואחותו. ואם תרגם מזרעך לא תתן להעביר למולך ומזרעך לא תתן לארמיותא הנה הפך הלשון ממשמעותן בכל וכוונת הפסוק לשם איסור עבודת המולך:
+
+
+ובמכנה בעריות – that we reverse them to a hidden language in the present time, and we state, in place of your father and mother and sister, [we say] “his father and his mother and his sister” (see Tractate Megillah 25a). But if he translated [the term] "להעביר למולך" (Leviticus 18:21) as it stated, he removed the Bilical verse completely from its plain meaning, for the intention there is to provide the worship of Molech.
+
+
+
+### Mishnah 10
+
+###### Rambam on Mishnah Megillah 4:10:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:10:1](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:10:1)
+
+
+**מעשה ראובן נקרא ולא מתרגם כו':** ענין עגל השני הוא מה שנשנה מענינו והוא מפסוק ויאמר משה אל אהרן עד פסוק וירא משה את העם וגו' וכמו כן ויגוף ה' את העם וגו'. ואלו הפסוקים אינן מתרגמין על ראש הצבור מפני כבוד אהרן. ואין מתרגמין ברכת כהנים מפני שאומרים בה ישא השם פניו אליך ויראה להמון הפך מה שאמר אשר לא ישא פנים. ואמר מעשה דוד ואמנון לא נקראין ולא מתרגמין אינה קושיא למה שאמר מעשה תמר נקרא ומתרגם כי כל מה שזוכר אמנון סתם נקרא ומתרגם ומה שזכר אמנון בן דוד אינו נקרא ואינו מתרגם משום כבוד דוד וטעם האומר אין מפטירין במרכבה כדי שלא ישאלו ההמון כשישמעו אותה ולא יוסיף להם אלא ספק וטעם ר"א הוא כבוד לירושלים ולישראל. והלכה כרבי יהודה ואין הלכה כר"א:
+
+
+The explanation of [the term in the Mishnah] "השני", the twofold condition, and it from: “And Moses said to Aaron” until “And Moses saw the people,” (Exodus 32:21-25), And similarly (Exodus 32:35): “Then the LORD sent a plague upon the people [for what they did with the calf that Aaron made].” And the reason that we don’t translate these verses in public is because of the honor/respect of Aaron (see Tractate Megillah 25). And ברכת כהנים should not be translated because it is stated there (Numbers 6:26): “The LORD bestow His favor with you/lift up His countenance” but the masses will consider that this contradicts what is stated (Deuteronomy 10:17): “who shows no favor [and takes no bribe].”
+
+
+###### Rambam on Mishnah Megillah 4:10:2
+
+[https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:10:2](https://torahapp.org/share/book/Rambam%20on%20Mishnah%20Megillah/r/4:10:2)
+
+
+סליק פירוש המשניות להרמב"ם ממסכת מגילה
+
+
+And it (i.e., the Mishnah) states: מעשה דוד ואמנון לא נקראין ולא מתרגמין – which does not contradict what it (i.e., the Mishnah) said above – that the story of Tamar is read and translated, because in every place where Amnon is mentioned undefined and is translated. But what is mentioned “Amnon the son of David” is not read not translated in public because of the respect/honor of [King] David (see Tractate Megillah 25b). And the reason the one who states [in the Mishnah]: "אין מפטירין במרכבה" - in order that the multitude will not ask when they hear it on the things that they don’t add to them other than doubts. And the reason of Rabbi Eliezer is honor to [the land of] Israel and to Jerusalem. And the Halakha is according to Rabbi Yehuda. But the Halakha is not according to Rabbi Eliezer (and so has Maimonides decided in the order of the Haftarot at the end of Sefer Ahavah [in the Mishneh Torah] that we recite the Haftarah of Ezekiel 16:1 and following – “O mortal, proclaim Jerusalem’s abomination to her” which is our practice/custom).
+

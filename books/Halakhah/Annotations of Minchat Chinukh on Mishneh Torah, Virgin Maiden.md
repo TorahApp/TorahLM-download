@@ -1,0 +1,67 @@
+# Annotations of Minchat Chinukh on Mishneh Torah, Virgin Maiden
+
+חידושים ומקורים מבעל מנחת חינוך על משנה תורה, הלכות נערה בתולה
+
+Link: [https://torahapp.org/share/book/Annotations%20of%20Minchat%20Chinukh%20on%20Mishneh%20Torah%2C%20Virgin%20Maiden](https://torahapp.org/share/book/Annotations%20of%20Minchat%20Chinukh%20on%20Mishneh%20Torah%2C%20Virgin%20Maiden)
+
+חיבור הלכתי פורץ-דרך וחדשני מבחינת היקפו ואופן סידור הדינים שבו. נכתב על ידי הרמב"ם במאה ה-12.
+
+Legal code written by Maimonides in the 12th century, groundbreaking in its organization and scope.
+
+Sections: Chapter-Halakhah-Comment
+
+Location: Halakhah/Mishneh Torah/Commentary/Annotations of Minchat Chinukh/Sefer Nashim
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Friedberg Edition (Segments: 4, License: Public Domain)
+
+
+## Chapter 1
+
+
+### Halakhah 3
+
+###### Annotations of Minchat Chinukh on Mishneh Torah, Virgin Maiden 1:3:1
+
+[https://torahapp.org/share/book/Annotations%20of%20Minchat%20Chinukh%20on%20Mishneh%20Torah%2C%20Virgin%20Maiden/r/1:3:1](https://torahapp.org/share/book/Annotations%20of%20Minchat%20Chinukh%20on%20Mishneh%20Torah%2C%20Virgin%20Maiden/r/1:3:1)
+
+
+**שנאמר לא יוכל לשלחה.** נ"ב צ"ל שלחה בלא למ"ד, ונ"מ בזה אין הגליון מספיק. [אמר נכד המחבר יהושע העשיל באב"ד הנ"מ מבואר פעמים רבות בספרו הבהיר מנחת חינוך ואחת מהם מבואר במצוה תקנ"ח שם לא יוכל לשלחה כל ימיו. וזה לשונו שם מבואר בהר"מ בה' נ"ב פ"א ופ"ב ויש בדברי הרהמ"ח ט"ס שמביא לא יוכל לשלחה ובאמת גבי מש"ר כתיב לשלחה וכאן כתיב שלחה בלא למ"ד בתחלה ונ"מ כתבתי כמה פעמים בחלק זה דלכ"ע אם מתרין משום לאו אחר אין התראה כלום דסבר דאחיכו ביה א"כ אם התרו בו מפסוק לא יוכל לשלחה אין לוקין כי פסוק זה לא נאמר באונס רק במש"ר וכן במש"ר אם התרו בו משום פסוק זה דאונס ג"כ אינו כלום והדברים ברורים בס"ד. עכ"ל הזהב]:
+
+
+
+### Halakhah 7
+
+###### Annotations of Minchat Chinukh on Mishneh Torah, Virgin Maiden 1:7:1
+
+[https://torahapp.org/share/book/Annotations%20of%20Minchat%20Chinukh%20on%20Mishneh%20Torah%2C%20Virgin%20Maiden/r/1:7:1](https://torahapp.org/share/book/Annotations%20of%20Minchat%20Chinukh%20on%20Mishneh%20Torah%2C%20Virgin%20Maiden/r/1:7:1)
+
+
+**לשלחה.** צ"ל שלחה, ונ"מ כמו שכתבתי בחיבורי:
+
+
+
+### Halakhah 9
+
+###### Annotations of Minchat Chinukh on Mishneh Torah, Virgin Maiden 1:9:1
+
+[https://torahapp.org/share/book/Annotations%20of%20Minchat%20Chinukh%20on%20Mishneh%20Torah%2C%20Virgin%20Maiden/r/1:9:1](https://torahapp.org/share/book/Annotations%20of%20Minchat%20Chinukh%20on%20Mishneh%20Torah%2C%20Virgin%20Maiden/r/1:9:1)
+
+
+**בכ"מ,** זה פשוט. נ"ב אין זה פשוט כ"כ עיין בר"ן והוא פלוגתא בירושלמי דאיכא מ"ד דאינה יכולה למחול קנס כי הוי דשלב"ל דאי בעי מודה ומיפטר עיי"ש:
+
+
+
+## Chapter 2
+
+
+### Halakhah 13
+
+###### Annotations of Minchat Chinukh on Mishneh Torah, Virgin Maiden 2:13:1
+
+[https://torahapp.org/share/book/Annotations%20of%20Minchat%20Chinukh%20on%20Mishneh%20Torah%2C%20Virgin%20Maiden/r/2:13:1](https://torahapp.org/share/book/Annotations%20of%20Minchat%20Chinukh%20on%20Mishneh%20Torah%2C%20Virgin%20Maiden/r/2:13:1)
+
+
+**במל"מ,** צריכין אנו למודעי. נ"ב צ"ע דמבואר הוא להדיא בתוס' ר"פ נערה שנתפתתה דף מ"ב ע"א ד"ה לאביה נמי דבקטנה מפותה לא שייך מחילה אף היכא דקנס לעצמה. וע"ע ברמב"ם פ"י מהל' מלכים ה"ב דכתב דמאנס ומפתה גיורת קטנה יהיה הקנס ביד ב"ד עד שתגדיל פן תמחה ע"ש, מבואר ג"כ הכי דשייך קנס במפותה קטנה דאין לה אב דהא בגיורת כמאן דל"ל אב דמי והקנס לעצמה וצע"ג:
+

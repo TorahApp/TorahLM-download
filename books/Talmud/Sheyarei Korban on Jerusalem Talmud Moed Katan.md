@@ -1,0 +1,598 @@
+# Sheyarei Korban on Jerusalem Talmud Moed Katan
+
+שיירי קרבן על תלמוד ירושלמי מועד קטן
+
+Link: [https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan)
+
+דיוני חז״ל בנושאי הלכה, מוסר ותנ"ך שהתקיימו במשך דורות. בנויים כהרחבות על המשנה ושזורים בהם סיפורי אגדה.
+
+18th-century detailed analytic commentary by the chief rabbi of Berlin, Rabbi David ben Naphtal Hirsch Frankel.
+
+Sections: Chapter-Halakhah-Segment-Comment
+
+Location: Talmud/Yerushalmi/Commentary/Sheyarei Korban on Jerusalem Talmud/Seder Moed
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Piotrków, 1898-1900 (Segments: 49, License: Public Domain)
+
+
+## Chapter 1
+
+
+### Halakhah 1
+
+
+#### Segment 2
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 1:1:2:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:1:2:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:1:2:1)
+
+
+**אלא כר"מ\.** וקשה הא כחכמים נמי מצי אתי' דגם אינהו סברי דמעיין שיצא בתחלה לאו טירחא היא וי"ל דאיכא למימר לרבנן מעיין שיצא בתחלה מידי דטירחא היא ואפ"ה שרי רבנן כדמיבעיא לקמן אבד וטרח מהו וא"ת איך נוקמי מתני' כר"מ הא ר"ע אפי' בית הבעל מתיר להשקות וי"ל דה"ק דאתי' כר"מ בהא דלאו טירחא היא א"נ מתני' אתיא לאשמועינן דאפי' בית השלחין מי קילון אסור:
+
+
+
+#### Segment 4
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 1:1:4:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:1:4:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:1:4:1)
+
+
+**הפוסקין והבריכה.** פירשתי בקונט' חדא מילתא היא וכ"פ רש"י בבבלי דף ד' ואפשר לומר דהפוסקין היינו בריכה שנתמלא מן המעיין ונפסק המעיין אלא דק"ק א"כ ה"ל למפשט מהכא בעי' דלעיל:
+
+
+
+### Halakhah 2
+
+
+#### Segment 2
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 1:2:2:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:2:2:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:2:2:1)
+
+
+**מפני שהוא מכשיר צדדיה לזריעה.** כמו שפירשתי בקונט' כן פרש"י בגמ' וכ"פ הרא"פ אך הא דקאמר הש"ס בסמוך חפר לעשות אמה של בניין הפי' דחוק לכן נ"ל לפרש דה"ק שהוא מכשיר את הצדדים שבחפירה עצמה ובאמת לשון הש"ס בבלי שהוא מכשיר אגפיה לזריעה אבל לשון הירושלמי שהוא מכשיר צדדיה והשתא שפיר קאמר דבאמה של בניין ליכא משום מכשיר צדדיה לזריעה:
+
+
+
+#### Segment 5
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 1:2:5:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:2:5:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:2:5:1)
+
+
+**ומפרקין המנעול וכו'.** מה שיש לדקדק בכל הסוגיא מבואר בשקלים פ"ק (דף ג):
+
+
+
+### Halakhah 3
+
+
+#### Segment 2
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 1:3:2:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:3:2:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:3:2:1)
+
+
+**בסתם חלוקים.** הרא"פ פי' בסתם חלוקים ולא הוזכר ראב"י בהדיא ע"כ ואינו מחוור ול"נ לפרש עוד דבסתם חלוקים היינו בשנטועי' עשר לבית סאה ופי' שבקונט' נראה עיקר:
+
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 1:3:2:2
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:3:2:2](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:3:2:2)
+
+
+**אשכח תני וכו'.** פי' הרא"פ דקתני בהדיא מועד ש"מ כמו שאוסר התם דומיא דהכי מתיר הכא אפי' ז' ימים אחרוני' דאי אוסר מז' ימים אחרונים אין שייך לומר ובמועד אסור אף בשביעית בכה"ג אוסר אלא ודאי חילוק של היתר ואיסור מלאכה ביניהון ור"ש נמי כראב"י ס"ל וכדאשכח בברייתא ע"כ ודבריו תמוהים למה אין שייך לומר ובמועד אסור הכי הל"ל דאין שייך לומר דבשביעית מותר דהא איכא ז' ימים אחרונים דאסורים אלא דליתא נמי להא דכיון דכל השנה שרי לא חש לאותן ז' ימים וע"ק מאי קאמר דר"ש כראב"י הא עפר לבן כמרווחין ובהן אף רבנן אסרי וע"ק לעיל בפרקין נמי קאמר הנך תרי טעמי שחלוקים שביעית ממועד ולא מייתי הא דאשכח תני אלא ודאי פי' שבקונט' עיקר וכ"מ בתיו"ט ע"ש:
+
+
+
+#### Segment 3
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 1:3:3:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:3:3:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:3:3:1)
+
+
+**אלא כאן באילן וכו'.** כ' הרא"ש בפירקין ודברי הרי"ף שפסק כראב"י עיקר דבירושל' פ"ב דשביעית מוכח דרבנן אסרי הרבצה והא דקתני חכמים מתירים בזה ובזה מפרש בין ששתו קודם הרגל בין שלא שתו בין באילן בין בזרעים ע"כ ודבריו תמוהים לי הא לא מסיק בשביעית דרבנן אסרי הרבצה אלא ראב"י בברייתא הוא דאוסר ואם נאמר דסובר רבנן דמתני' דפליגי אר"ש ראב"י היא עדיין קשיא הא התם בעפר לבן איירי דה"ל כמרווחין כמפורש כאן והתם ובמרווחין לא פליגי רבנן וראב"י דהכא ולתרווייהו אסור א"כ מאי מייתי הרא"ש סיעתא לאסור השקאה בנטועים עשר לבית סאה מהרבצה דעפר לבן ותו קשיא אמ"ש הרא"ש דהירושל' מפרש דחכמים מתירין אפי' בזרעים שלא שתו קודם הרגל הא מפורש מסיק הש"ס איפכא וכדפירשתי בקונט' וכן קשיא נמי אדברי הר"ן דמשמע מדבריו דהירושל' סובר דפליגי בתרווייהו ע"ש ונ"ל דגירסתם בין ששתו קודם הרגל בין שלא שתו קודם הרגל בין באילן בין בזרעים וצ"ע:
+
+
+
+### Halakhah 4
+
+
+#### Segment 5
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 1:4:5:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:4:5:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:4:5:1)
+
+
+**התירו סופו מפני תחילתו\.** וכ"ה בבבלי דף ז' וקשה הא גרסינן בבבלי בביצה דף י"א ע"ב אמר עולא ג' דברים התירו סופו משום תחלתו ור' יהודה אומר ד' דברי' ולא קחשיב הך דהכא ואם נאמר דעולא ור"י פליגי אר"ח קשה למה פסקו הפוסקים כר"ח וי"ל כיון דמסיק בבבלי אמר רב אשי מתני' נמי דייק' פסקו כוותי' דבתר' הוא:
+
+
+
+### Halakhah 5
+
+
+#### Segment 1
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 1:5:1:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:5:1:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:5:1:1)
+
+
+**רמ"א רואין את הנגעים להקל.** כ' התיו"ט דבירושלמי משמע דגרסי' תחילה מדמייתי מתני' דנגעים וכו' ע"ש ואיני רואה שום ראיה מזה אדרבה כפי מ"ש בקונט' נראה בהיפך דלא גרסינן במתניתין תחילה אלא דבברייתא הוא דגרסינן הכי כדמסיק:
+
+
+
+#### Segment 2
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 1:5:2:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:5:2:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:5:2:1)
+
+
+**ואינו נכנס לעזרה.** וקשה הא כל זמן שלא טימאו הכהן טהור הוא ולמה לא יכנוס לעזרה וי"ל כיון שכב' נטמא בנגע זה אסור לכנוס לעזרה אפי' לאחר. הפטור כשנולד בו סימן טומאה אפי' קודם הראותו לכהן ודוחק:
+
+
+
+#### Segment 4
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 1:5:4:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:5:4:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:5:4:1)
+
+
+**לקרוע ולהתאבל וכו'.** כחב הרב"י סי' ת"ב וז"ל וכתב בנמוקי יוסף סוף מ"ק מתאבל לאו דוקא בנעילת הסנדל ושאר דברים הנהוגים באבל אלא מתאונן ואסור לאכול בקדשים שהם ראוים ליאכיל בשמחה וכו' עכ"ל ואין זה דעת הפוסקים שכתבו דין זה ואם כדבריו כיון דלא נפקא לן מידי בזמן הזה דלית לן קדשים לא ה"ל לכתבו אלא ודאי מתאבל ממש קאמר עכ"ל וקשה למה ליה להביא ראיה מהפוסקים הרי מדברי ש"ס אלו שהורה לו לקרוע ולהתאבל ש"מ דלכל הדברים נוהג אבילות ועוד קשה דהרי תניא באבל רבתי כל שקורעים עליו במיתתו קורעין עליו בשעת ליקוט עצמות ש"מ דלכל הדברים אינו כאבל וי"ל דס"ל דקריעה לחוד ושאר דיני אבל לחוד ודוחק:
+
+
+
+#### Segment 5
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 1:5:5:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:5:5:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:5:5:1)
+
+
+**תני לא ישא וכו'.** הדבר תימא לכן נ"ל דה"ג תני נושא אדם שיש לו בנים אשה אפי' בקבר אר"י כמעשה שאירע והיינו מעשה דיוסף הכהן:
+
+
+
+### Halakhah 8
+
+
+#### Segment 2
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 1:8:2:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:8:2:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:8:2:1)
+
+
+**דבית ר"י אמר כדרכו ממלא את המחט.** כחב הרא"ש בפרקין ה"ד הדיוט אמרי דבי ר' ינאי כל שאינו יכול להוציא מלא מחט באחת ריב"ח אמר כל שאינו יכול לכוין אמרה בשפת חלוקו ולא פסיקא הילכתא כמאן הילכך המכיר בעצמו שהוא יודע באחו מאלו לא יחפור במועד ע"כ וקשה למה לא פסיקא ליה מהכא דמדאר"י כדרכו ממלא אח המחט ש"מ דאף למלא המחט הדיוט הוא ואף רבי יוחנן לא פליג אלא דסובר דכדרכו אחת אחת הוא אבל מודה מיהת שההדיוט יודע לחפור מלא מחט דאל"כ בסמוך דקאמר הש"ס איזהו הדיוט ואיזהו אומן למה לא קאמר נמי הא דר' יוחנן כל שאינו יודע לחפור מלא המחט אלא ודאי דאף ר' יוחנן מודה בהא לר' ינאי וי"ל כיון דבבבלי גרס' דבי ר' ינאי אמרי כל שאינו יכול להוציא מלא מחט זהו הדיוט וע"כ לומר דפליג אירושלמי הלכך אבבלי סמכינן ולא איפסיקא הלכתא:
+
+
+
+#### Segment 3
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 1:8:3:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:8:3:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:8:3:1)
+
+
+**סירוג שתי וערב מיתוח שתי ערב.** כחבו תוס' דף י' ותימא האיך מותר לעשות מלאכה כי האי בלא שינוי וע"ק למה סירוג שהיא תחלת מלאכה תהא מותרת שתי וערב ומיתוח שאינה אלא גמר מלאכה תהא אסורה לת"ק ולר"י לא תהא מותרחת אלא שתי או ערב מיהו הא י"ל דסירוג מותר שלאתחישן על האדמה אך בסמוך נראה דבלאו הכי נמי שרי לכן נראה דסירוג היינו שהחבלים עדיין רפוים בלא מיתוח ולכך שרי דזה ה"ל שינוי גמור:
+
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 1:8:3:2
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:8:3:2](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/1:8:3:2)
+
+
+הדרן עלך פרק משקין
+
+
+
+## Chapter 2
+
+
+### Halakhah 1
+
+
+#### Segment 5
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 2:1:5:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/2:1:5:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/2:1:5:1)
+
+
+**בשהגיע זמנו לשתות וכו'.** פי' שבקונט' הוא פירש"י בבבלי ולא ידעתי מי דחקו לפרש כן הא איכא לפרשו כפשטי' דהגיע זמנו של שדה לשתות ואם לא ישתה יתיישב וכדאמרי' לעיל בפ"ק ופירושו תמוה דהא תני ומרביצים שדהו משהגיע עונות המים שלו ואי כפירושו הל"ל ומרביצין הבקעה ע"כ נ"ל כדפרישית:
+
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 2:1:5:2
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/2:1:5:2](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/2:1:5:2)
+
+
+**מחלפא שיטתיה דר' יודה.** בקונט' הגהתי ויש לקיים הגירסא כאן ולהגיה בסמוך ותחלה מקשה דר' יודה אדר"י דמחמיר במתני ומיקל כאן ומשני דבמתני' דרכו להערי' להפכן סמוך לחג כדי שיעשה שאר מלאכותיו בחג אבל באבל ליכא למיחש ובסמוך גרסי' וכ"ש מחלפא שיטתי' דר' יוסי ומשני דאמרו לו לא רבי יוסי ולא תקשי אך קשיא לי לפ"ז ליתא לדר"י דאמר כשם שהן חלוקין כאן כך חלוקין באבל ויהי מהתימא לי אמ"ש תוס' בד"ה ר' יהודה אומר אף זורעים במתני' מחמיר ר"י וכאן מיקל ע"כ ולמה לא הביאו דברי הירושלמי:
+
+
+
+### Halakhah 2
+
+
+#### Segment 2
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 2:2:2:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/2:2:2:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/2:2:2:1)
+
+
+**הא בתחלה אסור\.** כתב הרא"ש אם היה סבור שיכול להמתין עד לאחר המועד ואם אירע דבר שאם ימתין יהא דבר האבד שרי ובכה"ג איתא בירושלמי אמתני' דמי שהיה יינו וכו' הא לכתחלה אסור וכו' אלא כינן קיימים כשהגיע זמנו לבצור דסבר קאים ולא קם ע"כ ותימא הא ראיה לסתור היא דהכא משמע דבכה"ג אסור כיון שהיה יכול לבצור קודם המועד לא היה לו לעמוד על דעתו דשמא יתקלקל והלכך לכתחלה אסור וצע"ג:
+
+
+
+#### Segment 3
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 2:2:3:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/2:2:3:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/2:2:3:1)
+
+
+דקדקירא בגליון פי' מין זפת דק נקרא כך גלידא פי' מין זפת עב כפור מתרגמי' גלידא ע"כ ואין פי' נראה דא"כ למה תלי הדבר בגרבא ובכוזתא ופי' שבקונט' עיקר וכ"מ בבבלי:
+
+
+
+### Halakhah 3
+
+
+#### Segment 2
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 2:3:2:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/2:3:2:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/2:3:2:1)
+
+
+אגרא וקרנא כתב הריב"ש בתשובה ומביאו הב"י בא"ח סי' תקל"ט ירושלמי הדא שיירתא וכו' פי' פחות מן קרנא דר"י בר בון ר"ל מן השכר שהוא מכלל הקרן לפי סברתו שהוא חולק עם ר' מונא וכ"פ הריא"ג וכו' איברא שהר"מ מקוצי כתב שאפי' למכור צריך שיהי' פוח' מן הקרן ונר' שפסק כר' מונא או שהיה לו נוסחא אחר' בירושלמי או שלא הי' מפרש אותן כפירוש הנכון שפי' הריא"ג ע"כ ותימא הרי לפום פי' לא פליגי ר' מונא ור' יוסי בר בון ואדרבה הסמ"ג הוא מפרש כמו שפירש"י בקונט' דר"י בר' בון פליג אר' מונא ופסק כר' יוסי וצע"ג:
+
+
+
+#### Segment 3
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 2:3:3:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/2:3:3:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/2:3:3:1)
+
+
+**בשיש שם עדים.** כתב הב"י בח"מ סימן ק"ח ומ"ש רבינו ויש עדים שהוא מאותו עסק אם הם יתומים קטנים צריך שאותן עדים העידו כן בחיי אביהן דאילו לאחר מיתתו אין מקבלין עדות על יתומים קטנים כמו שנתבאר בסימן כ"ח ובסימן ק"י עכ"ל ופשט לשון הירושלמי מורה שאף לאחר מיתה מקבלין העדים וכן משמע לשון הרי"ף בפ' המקבל וטעמא דמילתא כמ"ש בקונט' דכיון שהוא שלו לא הוה כמקבל עדים שלא בפניו ודמיא לפקדון דמכירים בעדים שהוא שלו וכמ"ש בח"מ סי' רצ"ו ע"ש:
+
+
+
+#### Segment 4
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 2:3:4:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/2:3:4:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/2:3:4:1)
+
+
+**כלום אסרו בשר בכור להשקל בליטר' וכו'.** כתבו תוס' בבכורות ר"פ כל פסולי המוקדשין אע"פ שפי' כטעם משום דהנאחז לבעלים ע"כ מדאורייתא הוא כדמוכח בסוף חלק דדריש בהמתה מי שנאכל בתורת בהמתה יצא בכור ומעשר שאינן נאכלין בתורת בהמתה דתנן פסולי המוקדשין נמכרין באיטלז וכו' חוץ מן הבכור והמעשר ושמא משום קרא נפקא דאין נוהגין בזיון בדבר שאין הנאתו להקדש עכ"ל וכאן משמע מפורש דאינו אלא מדרבנן ואי קשיא הך ברייתא דבהמתה והיא שנוייה לקמן בפ' חלק ר"ש אומר בהמתה ולא בכורות ומעשרות שבתוכה י"ל דמוקי לה בתמימי' דכיון דאית ליה לכהן זכי' בגויה מחיים לא אימעיטו משללה ולא שלל שמים ועיין בבבלי בסנהדרין ס"פ חלק:
+
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 2:3:4:2
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/2:3:4:2](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/2:3:4:2)
+
+
+הדרן עלך פרק מי שהפך
+
+
+
+## Chapter 3
+
+
+### Halakhah 1
+
+
+#### Segment 3
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 3:1:3:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:1:3:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:1:3:1)
+
+
+**מהו לצאת לצור לעשות דבר מצוה וכו'.** גרסי' בבבלי פ"ק דעכו"ם דף י"ג כהן מטמא לצאת לח"ל ללמוד תורה ולישא אשה וכתבו תוס' שם ודוקא בהנך מצות שהן חשובות ללמוד תורה שגדול ת"ת שמביא לידי מעשה ואשה נמי דכתיב לא תהו בראה אבל לשאר מצוה לא והכי משמע בפ' בתרא דמגלה אבל בשאלתות דרב אחא מפרש הנך דקילי וכ"ש לשאר מצוה שהם חשובות ע"כ וקשה הא הכא נמי היה לדבר מצוה ואפ"ה אסר לו ר' חנינא לצאת וי"ל דמצוה זו לאו עליה רמיא אלא עלה דידה וכמ"ש בקונט' ומדברי תוס' שם למדתי דסברי דמעשה דר"ח לא היה דעתו לחזור לא"י ע"ש מיהו מסוגיין לא משמע הכי וצ"ע:
+
+
+
+#### Segment 5
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 3:1:5:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:1:5:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:1:5:1)
+
+
+**א"ל שאול משמים נשקפה וכו'.** פי' ביפה מראה שא"ל שאל חידה זו משמים נשקפה וכו' ונ"ל שעל המוח וכו' עכ"ל וקשה לשון שאול דהל"ל שאל וע"ק למה כעס רבי וע"ק למה קילל ר' שלא יתמנה חכם ול"נ דה"פ שאול משמים נשקפה על שהיה ר' מכבד לבר אלעשה שלא היה בעל תורה ע"ז אמר בר קפרא שאול שהוא תחתית הארץ משמים נשקפה נתעלת ועלתה לשמי השמים וכו' ומפחדת כל בעלי כנפים כלומר בר אלעשה הוא מכובד יוחר מבעלי תורה שנקראו בעלי כנפים וכו' הנס יאמר הו הו הנמלט מזה שאינו מכבד לאנשים כאלה ישמח והנלכד בעון זה נלכד והפך ר' וראה שהוא מצחק ולא אמר החידה הלזו אלא כנגד רבי וכעס ע"ז וא"ל שאף הוא לא יגיע לכבוד שיכבדוהו בני אדם כמו שמכבדין לחכם:
+
+
+
+#### Segment 12
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 3:1:12:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:1:12:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:1:12:1)
+
+
+**בשלא חזר בו.** כתב הרמב"ם פ"ז מה' ת"ת שלשה שנדהו והלכו להן וחזר זה מדבר שנידוהו בגללו באין שלשה אחרים ומתירין לו ולא כתבו מפרשי דבריו מנין לרבינו לחלק בין חזר ללא חזר ולא עוד אלא שבעל לח"מ האריך בענין זה ע"ש והדבר ברור שיצא לו מדברי הש"ס אלו:
+
+
+
+#### Segment 13
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 3:1:13:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:1:13:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:1:13:1)
+
+
+**ונדון אילין לאילין וכו'.** כתב הרמב"ם פ"ז מה' ח"ח חכם זקן בחכמה וכן נשיא או אב ב"ד שסרח אין מנדין אותו בפרהסיא לעולם אא"כ עשה כירבעם בן נבט וחביריו וכתב הכ"מ דקשה לרבינו מדוגמא השקו וע"ש תירוצו ול"נ דעובדא דדוגמא השקוהו היה קודם שתקע באושא דאין מנדין לזקן א"נ לא פשטה אז אות' תקנה אבל עכשיו שפשטה התקנה אין מנדין וכדברי הרמב"ם ובספר משנה למלך מפרש דרבי ירמיה ביקש לנדות את ר' יעקב ומה שפרשתי בקונטרס נ"ל עיקר:
+
+
+
+#### Segment 15
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 3:1:15:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:1:15:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:1:15:1)
+
+
+**מתניתא פליגא על ר"ח וכו'.** בקונט' הגהתי מתני' מסייעא לדר"ח ויותר נ"ל להגיה אר"ח מ"ד מותר בשתכפוהו אביליו מ"ד אסור בשלא תכפוהו מתניתין פליגא על ר"ח וכ"ה בבבלי בפרקין ופריך ר"ש בר' יצחק ניחא בתוך ז' דמותר משום רגל דאף דרגל מבטל גזירות ז' אינו מבטל גזירות ל' ואם יגלח בתוך הרגל עדיין בתוך ימי אבלו הוא אלא בתוך שלשים למה יגלח בערב הרגל וידחה האבילות יגלח בתוך הרגל והתיב ר' חנניה דלכך מותר שלא יאמרו בתוך שלשים חמיר מתוך שבעה ולעולם כדרב חסדא ודקשי' לן מברייתא דמותר בתכפוהו אביליו לכ"ע שאני הכא באנוס שהוא מותר אפי' כדרכו במספרים וזהו מסכים לדברי הבבלי:
+
+
+
+#### Segment 16
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 3:1:16:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:1:16:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:1:16:1)
+
+
+**שפה כנטילת צפרנים לכל דבר.** מכאן ראיה שמותר ליטול צפרנים בתוך שבוע שחל ט"ב להיות בתוכה דהא ליטול שפה לכ"ע מותר כמ"ש ש"ע א"ח סימן תקנ"א סעיף י"ג ועיין מג"א שם ס"ק י"ח וקשיא לי נמי אמ"ש הרמ"א בהג"ה בא"ח סימן תקל"ב לאסור נטילת צפרנים בחול המועד ובסי' תקנ"א סעיף ח' כתב כל אדם מותר ליטול שפה בחול המועד וצ"ע:
+
+
+
+### Halakhah 4
+
+
+#### Segment 1
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 3:4:1:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:4:1:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:4:1:1)
+
+
+**וטווה לעצמו תכלת לציצתו.** בבבלי הגירסא וטווה על ירכו תכלת לציצתו וגירסתינו נראה עיקר דאל"כ אמאי פריך בסמוך ארב הא לאחר לא ה"ל למפרך נמי מהא דאמרינן במתני' דטווה דוקא על ירכו ואילו רב מתיר אפי' בפלך וע"ק קושית התוס' מ"ש תפילין דמתירין בלא שינוי ומה שמחלקין דבתפילין צריך כתיבה תמה תהיה הכתיבה בשינוי שזה אפשר וע"ק ר' יוחנן דאמר בבבלי טווה ואפי' בפלך והא איהו דאמר הלכה כסתם משנה בשלמא לירושלמי איכא לשנויי דמתניתין בלהניח איירי אבל הבבלי דלא מחלק בהכי קשיא ולפי גירסתינו לק"מ ולפ"ז אף בקושית הש"ס בסמוך צריך להגיה מתני' פליגא על רב וטווה לעצמו תכלת לציצתו:
+
+
+
+### Halakhah 5
+
+
+#### Segment 2
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 3:5:2:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:2:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:2:1)
+
+
+**שבאת לו שמועה קרובה בשבת\.** כתב הטור י"ד סי' ח"ב וכתב בספר המצות השומע שמועה קרובה בשבת השבת עולה לו ליום א' ולמחר קורע וה"ל יום ששי שביעי לאבילות וכ"כ בה"ג והר"ר יחיאל כתב שאין שבת עולה לו בתחילת המניין אלא יתחיל למנות ביום א' וה"ל יום שבת שביעי לאבילות ונוהג בו דברים שבצינעא עכ"ל וקשה שהרי מפורש כאן כדברי בה"ג וצ"ע:
+
+
+
+#### Segment 6
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 3:5:6:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:6:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:6:1)
+
+
+**אין כיני נאמר הלכה כר' ליעזר.** הרא"פ פי' ברפ"ג דברכות נימא הלכה כר"א ותו לא ואנא ידענא דוקא בנתינה ולא בחליצה אלא ודאי משום דבשני ס"ל אף בחליצה כר"א ע"כ וכ"כ בס' שדה יהושע ע"ש ואינו מחוור דאיכא למידק איפכא דקמ"ל דהלכה כר"י בחליצה אפי' ביום שני ועוד מאי קשיא ליה לא ליתני הלכה כר"י בחליצה ה"א דבחליצה מספקא ליה הלכתא כמאן לכן פי' הראשון שבקונט' עיקר:
+
+
+
+#### Segment 7
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 3:5:7:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:7:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:7:1)
+
+
+**פרה מגמלה וכו'.** נראה הא דגרסינן בבבלי ריש פ"ב מריון בריה דרבא ומר בריה דרב אחא ה"ל גמלא דתור' בהדי הדדי וכו' נמי איירי בכה"ג שהי' כל א' עובד שבוע אחת ופסק מר לגמלא שלא יעשה מריון בשבוע זו ובשבוע שניח ישלים וכיון שכבר הי' חיי' לו לא היה לו להפסיקו שגם למריון מגיע הפסד שהרי אי אפשר להשלים מה שהן פנויים בתוך ימי אבלו וזה דלא כהראב"ד ועיין ברא"ש וראיתי שכ"כ הרמב"ן כמ"ש ולא ידעתי למה לא הביאו דברי הירושלמי דפרה מגמלה ה"ז עושה אם היה חייב לו:
+
+
+
+#### Segment 10
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 3:5:10:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:10:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:10:1)
+
+
+**אי אפשר לומר וכו'.** כתבו תוס' בפרקין דף כ"ג ע"א בד"ה רי"א וכו' בירושלמי פוסק הלכה כדברי המוסיף בימים שבעה וראיתי כשהייתי קטן ר"י זקיני שלא היה יושב למקומו עד שבוע הרביעי ולא ידעתי טעמו שאם היה סובר כר"י א"כ יסבור כמותו בשנייה שאינו יוצא מפתח ביתו מיהו י"ל בהא אשכחנא טובא לעיל דסברי אבילות ז' ושמא טעמו כרבנן ומשום דצריך לישב במקומו ואינו מדבר וטוב יותר שישב חוץ למקומו וידבר וכו' ע"כ וקשה מאי ס"ד דר"י סובר אבילות י"ד זהו לא שמענו מעולם וע"כ לומר דאבילות לחוד ואינו יוצא מפתח ביתו לחוד א"כ מאי ראייה מייתי ממ"ד דאבילות ז' גם מ"ש דסובר כרבנן קשה מנ"ל לחלק בכך לכן נ"ל דר"י מפרש לדר' יהושע בן לוי דהלכה כמ"ד מוסיף ימים כמ"ש בקונט' נמצא שבשב' שנייה נכנס לב' הכנס' ואינו חוזר למקומו עד שבוע רביעית וזה ברור:
+
+
+
+#### Segment 12
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 3:5:12:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:12:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:12:1)
+
+
+**הרי שמוליכין וכו'.** בתוס' בפרקין דף כ"ב בד"ה גורסין אלו שבאין מונין משיצא וכו' ע"ש ועיין ברא"ש ועיין בב"י סי' שע"ה וגירסתינו נראה עיקר:
+
+
+
+#### Segment 14
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 3:5:14:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:14:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:14:1)
+
+
+**אי מה עצרת יום א' וכו'.** כ' הי"מ וא"ת מאי דעתיה דהאי מקשה דמעיקרא אקשי דנקיש לחומרא ח' והשתא מקשה דנקיש לקולא יום א' ע"ש ולפמ"ע בקונט' לק"מ:
+
+
+
+#### Segment 16
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 3:5:16:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:16:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:16:1)
+
+
+**ואפ' טפילה לטפילה חייב לקרוע.** כ' הב"י בי"ד סי' ש"מ בד"ה ושיעור טפח וכו' הרי"ף כ' הא דתניא קורע על חמיו וחמותו מפני כבוד אשתו דמשמע דדוקא על הני קורע אבל לא על שאר קרובים והשמיט עובדא דאמימר שקרע אבן בנו משום דמשמע דחומרא הוא שהחמיר על עצמו ע"כ ותימא הרי כאן מפורש דאבן בנו חייב לקרוע ולאו חומרא היא וצ"ע:
+
+
+
+#### Segment 17
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 3:5:17:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:17:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:17:1)
+
+
+**מקום שנהגו לרחוץ אחר המטה וכו'.** כ' הרמב"ן יראה מכאן שהיו נוהגין במקצת מקומות שהקרובים המברין האבל היו מרחיצין אוחו קודם הבראה לפי שעשו אותה כאכילה ושתי שצריכה להם הרבה מפני שצריכין להעביר הזוהמא והיו מסירין רחיצה זו הראשונה ואח"כ היו נוהגין איסור ברחיצה כל ז' ע"כ נראה שמפרש דר"י בר בון בא למרץ דחכמי דרום לא התירו אלא רחיצה שאחר המטה ולר' חמא אסרו רחיצה דכל ז' אך קשה אם נפרש לאחר המטה דוקא בפי' הרמב"ן א"כ מעיקרא מאי קשיא ליה א"ו דמקשה סבר אחר המטה מת לו מת אחר מוסיף על הקרע וכו'. כ' הב"י סי' ש"ע בד"ה כתב המרדכי סוף מ"ק והסמ"ג בשם הירושלמי מי שמת לו מת וקרע עליו ואח"כ מת לו מת אחר אם תוך ז' אינו קורע קרע אחר ואם אחר ז' מוסיף על קרע ראשון כל שהוא מת לו מת אחר ג' אחר ז' של שני מוסיף כל' שהוא וכן מוסיף והולך עד טיבורו ע"כ והקשה עליהם ע"ש ולא ידעתי מנ"ל דמחלק בין תוך ז' לאחר ז' ואולי גירסא אחרת היתה להם מיהו גירסתינו עיקר שהיא מסכמת עם הבבלי:
+
+
+
+#### Segment 19
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 3:5:19:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:19:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:19:1)
+
+
+**ר"ח בר פפא סלק וכו\.** פי' ב"מ מאנין דלא חפיתין שאינן מצמצמין לו אלא קצרים או ארוכים כי ע"י שהי' אבל לא לבש בגדיו הנאותין לו ומ"מ לא היו קרועי' הדא מנן לך וקאמר ליה שכן היה ר' סימון עושה שבשבת מחליף ואינו קורע ע"כ ופי' שבקונט' נראה עיקר ובחול איירי מדמייתי לי' הכא ואי כדברי הי"מ ה"ל לאתויי לעיל גבי דיני אבילות בשבת:
+
+
+
+#### Segment 22
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 3:5:22:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:22:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:22:1)
+
+
+**שומט קלמנטרין שלה ודיו.** כתב הנימוקי יוסף בפרקין מחיר קרביטיו לא סגי ליה בזקיפה אלא מתיר הקשירה שבין הזרועות והאמצעי ומיד האמצעי נופל למטה לארץ והזרועות עומדין במקומן עכ"ל וקשה וכאן מפורש שרשב"א מיקל מדקאמר ודיו ולפי דברי הנ"י רשב"ג מחמיר דלא סגי ליה בזקיפה:
+
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 3:5:22:2
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:22:2](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:22:2)
+
+
+**מטה שנקליטיה עולין ויורדין שומטין ודיו.** בבבלי גרסי' מטה שנקליטין יוצאין ממנה זוקפה ודיו ופירשו הפוסקים בעצים זקופין לצד ראשה שא"א לכפותה לפיכך זוקפה על צדה ודיו ע"כ וקשה לשון הש"ס דקאמר שנקליטיה יוצאיון הא לעולם נקליטין כך הם שיוצאים לצד ראשהכדי לפרוס עליהם וה"ל למימר מטה שיש לו נקליטין אך לפי מה שפירשתי בקונט' ניחא ואע"ג דלשון זוקפה קשה קצת כיון דבירושלמי מפורש שומטה ע"כ לפרש גם זוקפה שבבבלי דהוא לשון שומטה א"נ ה"ק כיון שהוציא את הנקליטין מניח אח המטה זקופה ואינו צריך לכפותה:
+
+
+
+#### Segment 24
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 3:5:24:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:24:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:24:1)
+
+
+**על הארץ וכו'.** כתב הי"מ ש"מ דלארץ ממש קאמר כגון ישבו לארץ ידמו וה"נ דבר הסמוך לארץ דה"ל כאילו הוא בארץ ממש עכ"ל ולפי פירושו לשון הש"ס דחוק וגם קשה מנ"ל שלא ישבו על הארץ ממש ופי' שבקונט' עיקר:
+
+
+
+#### Segment 25
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 3:5:25:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:25:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:5:25:1)
+
+
+**מתניתא לא אמרה כן וכו'.** וקשה דבסנהדרין פ"ב הלכה ב' גרסינן אמתניתין וכשמברין אותו וכו'. הדא אמרה ספסל אין בו משום כפיית המטה כה"ג חייב בכפיית המטה משמע דלא ס"ל לחלק בין כה"ג לשאר כל אדם וי"ל דסוגיא דהתם אולי לפום מסקנא דשמעתין דלא עבדין כן אלא כברייתא וכפי' השני בקונט' הלכך צריכין לפרש למתניתין דאין חילוק בין כה"ג לשאר כל אדם:
+
+
+
+### Halakhah 7
+
+
+#### Segment 4
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 3:7:4:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:7:4:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:7:4:1)
+
+
+**עשרה קרעים אסורין באיחוי וכ' ועל שמועות הרעות.** וכו'. כתב הש"ך בי"ד סי' ש"מ ס"ק נ"ב קורעין על שמועות רעות דכתיב ויחזק דוד וכו' וכב"י בשם רי"ו דלפי הפסוק נראה שחיי' להתאבל כל היום ע"כ ונראה דה"ה דמאחין למחר ע"כ הדבר תימא הרי מפורש כדין ובבבלי ובכל הפוסקים דקריעה שקורעין על שמועות רעות אינן מאחין לעולם וצ"ע:
+
+
+
+#### Segment 12
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 3:7:12:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:7:12:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:7:12:1)
+
+
+**עקילס אתנא סירא.** במגילה פ"ב הגירסא עקילס אתניסאה וכתב הי"מ בערוך ' תניסאה לשון יון מות ולפ"ז מפרס הש"ס מילתא דעקילס דר"ל עולם שאין בו מות ע"כ ולא מצאתי בערוך דבר זה רק שכתב איסתניס הוא חולה בלשון גם הגי' שבכאן אינה מסכמת לפי' זה לכן נ"ל פי' שבקונט' עיקר:
+
+
+
+### Halakhah 8
+
+
+#### Segment 3
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 3:8:3:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:8:3:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:8:3:1)
+
+
+**נחת מן חמריה ואפיק מנא טבייא וכו'.** בסנהרין ובהוריות הגירסא שלח ואייתי מאנא וכו' משמע מזה שמיד ששמע קרע כל הבגדים ודלא כמ"ש הנמ"י פ"ט דאבל ומביאו הב"י בסי' ש"מ דר"י קרע י"ג אצטלות דמילתא בזה אחר זה כשלובש אחד היום פושטו למחר או ליומא אחרא ולובש אחר ע"כ וליתא דפעם אחד קורע ולא ביום אחר וכן יש להוכיח מבבלי דף כ"ה במעשה דרב ספרא ע"ש ונראה דר' יוחנן לא קרע אלא למטה מקנה שפה מדמייתי הך מעשה להכא:
+
+
+
+### Halakhah 9
+
+
+#### Segment 2
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 3:9:2:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:9:2:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:9:2:1)
+
+
+**סברין מימר מי דעתון דרבנן ובדקו ואשכחו וכו'.** כתב הרא"ש בפרקין ועושין הבראה במועד והר"ם כתב דאין עושין הבראה במועד והביא ראי' מהירוש' דגרסינן החתם ר' תנחום וכו' ויש לדחות דהוופ שעשו הבראה ולא נמלכו בו ואפשר שאם שאלוהו לא היה מוחה ואפי' היה מוחה מאן לימא לן דהלכתא כוותיה דטפי מסתבר דהלכתא כסוגיא דירושלמי דמוקי מתני' אין קורעין ולא חולצין וכו' במועד ע"כ וקשה א"ב שאם היו שואלין אותו היה מסכים עמהם מאי בדקו ומאי קמ"ל בזה וע"ק אם נאמר שהיה מוחה בהן אלא דלא סמכינן על ר' אמי עדיין קשיא איך נדחה דעת כולהו רבנן דסברי כר' אמי לפי פי' זה והי' נ"ל לתרץ דכאן איירי שעשו לו הבראה כדרך שעושין בחול ואפי' אותן שלא היו בשעת מיתה עשו הבראה וזהו היה שלא מדעת עהחכמים ור' אמי והיינו כדעת ר' מונא דלעיל דף ח' ע"ב ובזה הסוגיות שניהם על מקומם יבואו בשלום:
+
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 3:9:2:2
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:9:2:2](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/3:9:2:2)
+
+
+הדרן עלך פרק אלו מגלחין וסליקא לה מסכת מועד קטן וכולא סדרא דמועדא היינו לאחר שקברו ואפי' כל ז' ולא אתי ליאפוקי אלא שעת אנינות א"כ עיקר התירוץ חסר מן הספר וצ"ע:
+
+
+
+## Chapter 10
+
+
+### Halakhah 7
+
+
+#### Segment 2
+
+###### Sheyarei Korban on Jerusalem Talmud Moed Katan 10:7:2:1
+
+[https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/10:7:2:1](https://torahapp.org/share/book/Sheyarei%20Korban%20on%20Jerusalem%20Talmud%20Moed%20Katan/r/10:7:2:1)
+
+
+הדרן עלך פרק ערבי פסחים וסליקא לה מסכת פסחים
+

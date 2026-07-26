@@ -1,0 +1,4103 @@
+# Yachin on Mishnah Keritot
+
+יכין כריתות
+
+Link: [https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot)
+
+חיבור התשתית הקדום של חז״ל, המתעד מגוון דעות הלכתיות ממסורת התורה שבעל פה. נחתם בשנת 200 לספירה לערך.
+
+First part of an 18th-century commentary by Rabbi Yisrael Lipschitz called Tiferet Yisrael, containing brief explanations of the Mishnah’s simple meaning.
+
+Sections: Chapter-Seif-Comment
+
+Location: Mishnah/Acharonim on Mishnah/Yachin/Seder Kodashim
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Mishnah, ed. Romm, Vilna 1913 (Segments: 339, License: Public Domain)
+
+
+## Chapter 1
+
+
+### Seif 1
+
+###### Yachin on Mishnah Keritot 1:1:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:1:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:1:1)
+
+
+**שלשים ושש כריתות בתורה**
+ שהעובר עליהן במזיד בלי התראה חייב כרת. אבל בהתרו בו, יש מהן נסקלין, ויש שנשרפין, ויש שנחנקין, ויש רק במלקות. מיהו בעבר בשוגג, בכולן חייב חטאת, חוץ מפסח ומילה [ועי' מ"ש בס"ד בסוגר העונשין סוף מסכת סנהדרין]. ונקט תנא מנינא לומר שבעשאן כולן בהעלם א' חייב על כל א' וא':
+
+
+
+### Seif 2
+
+###### Yachin on Mishnah Keritot 1:2:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:2:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:2:1)
+
+
+**הבא על האם**
+ אבל אם אמו ואם אביו מד"ס:
+
+
+
+### Seif 3
+
+###### Yachin on Mishnah Keritot 1:3:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:3:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:3:1)
+
+
+**ועל הכלה**
+ אשת בנו:
+
+
+
+### Seif 4
+
+###### Yachin on Mishnah Keritot 1:4:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:4:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:4:1)
+
+
+**והאשה המביאה את הבהמה עליה**
+ כל הנך דנקט תנא עד הכא, כולן כשהיו במזיד ובהתראה חייבין סקילה:
+
+
+
+### Seif 5
+
+###### Yachin on Mishnah Keritot 1:5:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:5:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:5:1)
+
+
+**הבא על אשה ובתה**
+ תרווייהו לחד חשיב להו, מדבחד לאו כתיבי, ואשה היינו חמותו. ויש בכללה אם חמותו ואם חמיו. ובכלל בתה דנקט תנא, נכלל בת אשתו, בת בתה, ובת בנה, בתו, ובת בתו, ובת בנו [ומה"ט נ"ל דנקט תנא אשה ובתה, ולא נקט חמותו ובת חורגתו, משום דיש בכלל אשה ובתה כמה עריות הנ"ל, שאינן נכללין בכלל לשון חמותו ובת חורגתו. מיהו הרמב"ם ריש הלכות שגגות נקט לכולהו בפירוש רק דתנא דנן רק שם הלאו נקט]. ודין כולן כשהיו במזיד והתראה בשריפה, ובלא התראה רק בכרת, ובשוגג בחטאת:
+
+
+
+### Seif 6
+
+###### Yachin on Mishnah Keritot 1:6:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:6:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:6:1)
+
+
+**ועל אשת איש**
+ ואם במזיד ובהתראה, בחנק:
+
+
+
+### Seif 7
+
+###### Yachin on Mishnah Keritot 1:7:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:7:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:7:1)
+
+
+**הבא על אחותו**
+ אפילו אחותו רק מאביו או רק מאמו:
+
+
+
+### Seif 8
+
+###### Yachin on Mishnah Keritot 1:8:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:8:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:8:1)
+
+
+**ועל אשת אחיו**
+ בין אחיו מאביו או מאמו:
+
+
+
+### Seif 9
+
+###### Yachin on Mishnah Keritot 1:9:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:9:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:9:1)
+
+
+**ועל אשת אחי אביו**
+ אשת אחי אביו מהאב. אבל אשת אחי אביו מהאם, או אשת אחי אמו, כולהון שניות הן [כרמב"ם פ"א מאישות]:
+
+
+
+### Seif 10
+
+###### Yachin on Mishnah Keritot 1:10:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:10:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:10:1)
+
+
+**ועל הנדה**
+ כל המנויין עד הכא, אם במזיד ובהתראה חייב מלקות. מיהו כשילקה נפטר מכרת. ובלא התראה חייב כרת. ובשוגג חייב חטאת:
+
+
+
+### Seif 11
+
+###### Yachin on Mishnah Keritot 1:11:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:11:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:11:1)
+
+
+**המגדף**
+ מברך שם ידוד. וי"א דגם בשם אדר חייב, ובשאר שמות אינו רק לאו. ומגדף אינו חייב רק כשיברך שם בשם. אבל המברך שם הקב"ה בשם ע"ז, רק קנאין פוגעין בו [רמב"ם פ"ב מע"ז]. ולמ"ד מגדף היינו המזמר לע"ז, צ"ל דמיירי בעבודתה בכך, וקמ"ל דאפילו בעבודה בפה חייב. [והקשה אאמ"ו הגזצוק"ל מ"ש מאמירה לעכו"ם דהוא רק שבות. ואת"ל התם אין האמירה גופה העבירה רק גרם עבירה, משא"כ מגדף. עכ"פ מ"ש חוסם בקול ומנהיג בקול מאמירה לעכומ"ז. ותירץ, דעכומ"ז לדעת עצמו עושה, משא"כ בהמה עושה ע"ד האדם]:
+
+
+
+### Seif 12
+
+###### Yachin on Mishnah Keritot 1:12:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:12:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:12:1)
+
+
+**והעובד ע"ז**
+ בדרך עבודתה. אבל המזבח, והמקטר, והמנסך, והמשתחוה, אפילו אין דרך לעבדן בכך חייב עליהן:
+
+
+
+### Seif 13
+
+###### Yachin on Mishnah Keritot 1:13:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:13:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:13:1)
+
+
+**והנותן מזרעו למולך**
+ שמוסר בנו לכומרי מולך, שיעשו בו נימוסיהם, ואח"כ ישיבוהו לאביו, והאב ישאנו בין ב' מדורות, אבל אינו שורפו [ועמ"ש פ"ז דסנהדרין סי' ס"ו]:
+
+
+
+### Seif 14
+
+###### Yachin on Mishnah Keritot 1:14:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:14:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:14:1)
+
+
+**ובעל אוב**
+ וכד מעשהו. מקטיר קטורת ידוע, ומניף בשרביט הדס אילך ואילך ולוחש מלות ידועות לפני גולגולת המת שעומד לפניו, ואז השואל שומע תשובת שאלתו כאילו יוצאת מתחת כתף הבעל אוב, או כאלו יוצא מבין פרקי אצבעותיו, כי לדעתם שם יושב אז הרוח של המת [ועי' מ"ש סנהדרין פ"ז סי' ס"ט]. ושייר תנא ידעוני [והוא שמכניס עצם עוף ידוע או חיה ידועה בפיו, ועושה מעשי תעתועים, ויפול בנכפה וידבר עתידות (ועי' שם סי' ע'). ולהכי שייריה תנא, מדהזכירה תורה אוב וידעוני בלאו א', להכי בעשה שניהן בשוגג בהעלם א', אינו חייב רק חטאת א', להכי לא נקט תנא רק שם הלאו כלעיל סי' ה'. [ולרמל"מ פ"ד משגגות, קיי"ל בהא כר"ל לגבי ר' יוחנן, ולהכי לא נקטה מתני' ידיעוני מדאין בו חטאת. משום דעל פי הרוב אין בו מעשה. ואם היה בו מעשה ועשה אותו בהדי מעשה אוב חייב ב' חטאות [ועי' יבמות דל"ז א' תוס' ד"ה הלכתא]:
+
+
+
+### Seif 15
+
+###### Yachin on Mishnah Keritot 1:15:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:15:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:15:1)
+
+
+**המחלל את השבת**
+ שעשה אחד מל"ט מלאכות או מתולדותיהן [ועי' רש"י פ"ז דשבת]. וכל הנזכרין עד כאן חוץ מהבעילות, כולן במזיד והתראה בסקילה. ומהשתא מתחיל תנא למנות עד אחר הסך בשמן המשחה, הנך שכולהון במזיד והתראה חייב מלקות ונפטר מכרת, ובלא התראה ובמזיד, חייב כרת. ובשוגג חטאת:
+
+
+
+### Seif 16
+
+###### Yachin on Mishnah Keritot 1:16:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:16:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:16:1)
+
+
+**וטמא שאכל את הקדש**
+ אף דגם הבשר טמא, דהרי נטמא הבשר כשלקחו הטמא בידיו לאכלו, עכ"פ הרי טומאת הגוף קדים ואף שנטמא הבשר קודם שנטמא הגוף, עכ"פ הו"ל טומאת הגוף איסור כולל, ואיסור חל על איסור, [כזבחים פי"ג מ"ב. והא דהכפיל תנא מלת טמא לבסוף. תירץ ע"ר א?מ"ו זצוק"ל, דקמ"ל דאפילו נכנס למקדש ואח"כ נטמא במקדש, חייב כששהה כדי עבודה כרפ"ב דשבועות]:
+
+
+
+### Seif 17
+
+###### Yachin on Mishnah Keritot 1:17:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:17:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:17:1)
+
+
+**האוכל חלב ודם נותר**
+ בשר קדשים שנתותר אחר זמן אכילתן:
+
+
+
+### Seif 18
+
+###### Yachin on Mishnah Keritot 1:18:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:18:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:18:1)
+
+
+**פגול**
+ כשאכל בשר מקדשים, שחישב בא' מד' עבודות שבהן, שחיטה, קבלה, הולכה, זריקה, לאכול או להקריב מהקרבן אחר זמן הראוי, מקרי פגול שחייב עליו כרת. אבל בחישב לאכול או להקריב חוץ למקום הראוי, אע"ג דג"כ נקרא פגול, אפ"ה באכל ממנו פטור מכרת.
+
+
+
+### Seif 19
+
+###### Yachin on Mishnah Keritot 1:19:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:19:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:19:1)
+
+
+**השוחט והמעלה בחוץ**
+ ששחט או העלה קרבן חוץ לעזרה:
+
+
+
+### Seif 20
+
+###### Yachin on Mishnah Keritot 1:20:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:20:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:20:1)
+
+
+**והעושה מלאכה ביום הכפורים**
+ שאכל או עשה מלאכה ביו"כ:
+
+
+
+### Seif 21
+
+###### Yachin on Mishnah Keritot 1:21:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:21:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:21:1)
+
+
+**המפטם את השמן**
+ שריקח שמן כמדה ומשקל הסממנים כמו שעשה אותו משרע"ה במדבר. ודוקא כשעשה אותו כדי שיסוך בו אדם. אבל בעשאו להריח או אפילו להתלמד, אף שמעולם לא נעשה שוב אחר שעשאו משרע"ה [כש"ס ד"ה ב'], אפ"ה פטור:
+
+
+
+### Seif 22
+
+###### Yachin on Mishnah Keritot 1:22:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:22:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:22:1)
+
+
+**והמפטם את הקטורת**
+ שרקח יחד י"א סממני קטורת כקטורת שבמקדש, כשיעור הראוי להקטרה. והכא נמי דוקא בעשאו להריח, אבל להתלמד או למסרו לצבור, פטור:
+
+
+
+### Seif 23
+
+###### Yachin on Mishnah Keritot 1:23:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:23:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:23:1)
+
+
+**והסך בשמן המשחה**
+ שנעשה רק פעם א' ע"י משה, ומושחין ממנו את הכה"ג בין גבות עיניו תמונת @X והוא כי יוונית [עי' מ"ש זבחים פ"י סי' ל"ז]. ולמלך מזרע דוד מושחין במצחו כמין נזר [עי' רמב"ם פ"א מכלי מקדש ה"ט]. ואין מושחין למלך בן מלך, רק כשיש מחלוקת מי ימלוך. וכשסך זר ממנו כזית, או אפילו מלך וכוה"ג שסכו מהשמן שבראשם במקום אחר בגופן כזית, חייב כרת [רמב"ם שם ה"י].
+
+
+
+### Seif 24
+
+###### Yachin on Mishnah Keritot 1:24:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:24:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:24:1)
+
+
+**הפסח והמילה במצות עשה**
+ ולהכי אף שכשהזיד ולא עשאן, חייב כרת, אפ"ה אין חטאת בשגגתן:
+
+
+
+### Seif 25
+
+###### Yachin on Mishnah Keritot 1:25:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:25:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:25:1)
+
+
+**על אלו**
+ על כל הלא תעשות דתני לעיל:
+
+
+
+### Seif 26
+
+###### Yachin on Mishnah Keritot 1:26:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:26:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:26:1)
+
+
+**ועל שגגתם חטאת**
+ ואפילו לא ידע מעולם שזה חטא. כגון תינוק שנשבה בין העכו"ם, לא מחשב אונס [כשבת ס"ח ב' ורמב"ם פ"ג משגגות ה"ו, ודלא כרש"י וכר"ב]. מיהו אינו חייב חטאת עד שיהיה שוגג מתחלה ועד סוף עשייתו. ואפילו ידע שדבר זה אסור בלאו, אבל סבור שפטור מכרת, מחשב שוגג וחייב קרבן. אבל כשידע שחייב כרת על חטאת זה, רק קסבר שפטור מקרבן, שגגת קרבן לאו שגגה היא [רמב"ם שם ה"ב]:
+
+
+
+### Seif 27
+
+###### Yachin on Mishnah Keritot 1:27:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:27:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:27:1)
+
+
+**ועל לא הודע שלהן**
+ שלא ידע אם חטא או לא. ודוקא דאיקבע איסורא, שיודע וודאי שיש כאן איסור, רק שאינו יודע אם חטא בו. כגון שהיה לפניו ב' חתיכות, א' וודאי חלב וא' וודאי שומן, ואכל א' מהן בשוגג. או אשתו ואחותו עמו, ובעל אחת מהן. או שעשה מלאכה ביום א', ואינו יודע אם בשבת או בחול עשה [ולתוס' כריתות די"ז ב' ד"ה מדסיפא], דוקא בעשה מלאכה בביה"ש קרוב למ"ש, דאיקבע איסורו כל היום], חייב אשם תלוי. אבל באין שם איסור וודאי כגון שהיה לפניו חתיכה א' שמסופקים בה אם היא חלב או שומן, ואכלה בשוגג פטור מאשם תלוי. וצריך נמי שיהיה חטא שחייב בזדונה כרת, ובשגגתה חטאת קבוע:
+
+
+
+### Seif 28
+
+###### Yachin on Mishnah Keritot 1:28:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:28:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:28:1)
+
+
+**אשם תלוי**
+ נקרא כך משום דתולה ומגין עליו מיסורים בעונשי שמים, עד שיוודע לו שבוודאי חטא, ויביא אז חטאת קבוע:
+
+
+
+### Seif 29
+
+###### Yachin on Mishnah Keritot 1:29:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:29:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:29:1)
+
+
+**מפני שהוא בעולה ויורד**
+ ר"ל מפני שכשיוודע לו שבוודאי חטא, מביא קרבן עולה ויורד [דהיינו אם הוא עשיר אז הוא עולה בחיובו, שחייב להביא כשבה או שעירה לחטאת. ואם עני הוא, אז יורד בחיובו, שדי לו להביא ב' תורים או ב' בני יונה א' לעולה וא' לחטאת. ואם אין ידו משגת גם לזה, אז די לו להביא עשירית האיפה סולת למנחה, בלי שמן ולבונה, והוא הנקרא מנחת חוטא, וזה ילפינן בג"ש דאין אשם תלוי בא רק כשחייב על הודע שלו חטאת קבוע [כהוריות ד"ח ב'. ואיצטריך הש"ס לטעם זה משום דגם בטומאת מקדש שייך איקבע איסורא, דהרי אינו חייב כרת רק בנכנס בטומאה מפתח עזרת ישראל ולפנים [כמנחות כ"ז ב']. א"כ משכח"ל שפיר שנכנס בטומאה באחד מהעזרות שלפניו, ואינו יודע אם לעזרת ישראל או לעזרת נשים נכנס. וכ"כ מגדף הרי אינו חייב רק בבירך שם המיוחד, וב' שמות לפניו ואינו יודע איזה גידף. וכ"כ בכל אינך דתני במתני' שייך אתחזק איסורא, כגון השוחט והמעלה בחוץ, הרי אינו חייב רק בהעלה בראש המזבח שבחוץ, ודבר הראוי להקריב בפנים [כזבחים ק"ח א' וק"ט א'], א"כ משכח"ל שהיה ב' חתיכות לפניו, וב' גבשושיות לפניו. א' מזבח בנוי, וא' סלע, ואינו יודע איזה חתיכה העלה, או על איזה גבשושית העלה. וכ"כ בע"ז. הרי אינו חייב רק בעבודה שעבודתה בכך, וזה אינו יודע אם פיער עצמו לפעור וזרק אבן למרקוליס, או איפכא. וכן מעביר זרעו למולך, ב' ילדים לפניו, א' בנו וא' שאינו בנו, והעביר א', ואינו יודע איזה העביר. וכן מפטם שמן וקטורת, שאינו חייב בשניהן רק בשעשאן כפי המשקולת האמור בתורה, והיו ב' מיני שמן או קטורת לפניו, וא' מהן חסר, ופיטם א' מהן ואינו יודע איזה. וכ"כ בסך אינו יודע אם בשמן המשחה שעשה משה או בשמן אחר. וכן בבעל אוב, שהיה גלגולת מת לפניו [כסנהדרין ס"ה ב'] ודבר אחר כעין גלגולת ושאל בא' מהן. וכן כולהו שנזכרו במתני' שייך בהן שפיר איקבע איסורא].
+
+
+
+### Seif 30
+
+###### Yachin on Mishnah Keritot 1:30:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:30:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:30:1)
+
+
+**שנאמר**
+ בחיוב חטאת:
+
+
+
+### Seif 31
+
+###### Yachin on Mishnah Keritot 1:31:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:31:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:31:1)
+
+
+**יצא מגדף שאינו עושה מעשה**
+ ומדפטור על הודע שלו מחטאת, פטור נמי על לא הודע שלו מאשם תלוי:
+
+
+
+### Seif 32
+
+###### Yachin on Mishnah Keritot 1:32:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:32:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:32:1)
+
+
+**יש**
+ ומהשתא מפרש תנא כל דיני חטאת. ומתחיל לפרש דיני חטאת שחייב אדם שלא ע"י חטא [ומפ"ב ולהלן מפרש דיני חטאת שבא על חטא]. וקאמר, יש יולדות מביאות חטאת ונאכל, ויש וכו':
+
+
+
+### Seif 33
+
+###### Yachin on Mishnah Keritot 1:33:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:33:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:33:1)
+
+
+**המפלת כמין בהמה חיה ועוף**
+ מדנאמר בהן לשון יצירה כבאדם. ואף דבבהמה לא נאמר יצירה. עכ"פ בהמה בכלל חיה שנכתב בה לשון יצירה [כחולין דע"א]:
+
+
+
+### Seif 34
+
+###### Yachin on Mishnah Keritot 1:34:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:34:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:34:1)
+
+
+**וחכמים אומרים עד שיהא בו מצורת האדם**
+ שיהיה כל פניו כאדם, חוץ מפה, ואזנים, ואף, ושאר הגוף, שאע"פ שהן כבהמה, וחיה, ועוף, אפ"ה אמו טמאה לידה וחייבת קרבן. וי"א דגם בצד א' מהפנים סגי. וי"א דבזה"ז בכל גוונא טמאה לידה [מ"מ פ"י ה"ט מאסו"ב]. [ואילה"ק, לרבנן מי גרע מסנדל ושליא וכדומה דבכולהו אמו טמאה לידה, וכלקמן, אף שאין בו צורת אדם כלל. י"ל התם וולד היה ונשחת, ואזלינן בתר רובא. אבל הכא הרי קצת תוארו כבהמה לפנינו]:
+
+
+
+### Seif 35
+
+###### Yachin on Mishnah Keritot 1:35:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:35:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:35:1)
+
+
+**המפלת סנדל**
+ הוא כעין חתיכת בשר ארוך, וכרוך לפעמים סביב להולד, וגם החתיכה ההיא ולד היה, רק שנתמעך בבטן אמו מדדחקו אחיו, או ע"י שהכה דבר על בטן אמו [רש"י נדה מ"ה א' ורמב"ם פ"י מאסו"ב]. ואע"ג דבל"ז חייבת קרבן וודאי משום ולד האחר שעמו, והרי על כל הולדות שילדה תוך מלאות נפטרת בקרבן א'. י"ל דמיירי שהולד הנולד עמו זכר היה, שאין לו רק ז' ימי טומאה, ומדמספקינן שהוא נקיבה תשב י"ד ימי טומאה. ועוד מייתי כמה נ"מ בש"ס [כנדה כ"ה ב']:
+
+
+
+### Seif 36
+
+###### Yachin on Mishnah Keritot 1:36:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:36:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:36:1)
+
+
+**או שליא**
+ הוא כעין כיס מעור, שהולד במעי אמו מונח בתוכו, וכשנולד, הולד קורע אותו כיס ויוצא מבטן אמו, ומיירי הכא שילדה השליא ואין בו ולד:
+
+
+
+### Seif 37
+
+###### Yachin on Mishnah Keritot 1:37:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:37:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:37:1)
+
+
+**ושפיר מרוקם**
+ הוא כעין שפופרת מעור שמרוקם ומצוייר בלוחה שבתוכו תמונת אדם. דהיינו שהתמונה ארוכה כגודל עדשה, וב' עיניו בראשו, כעין ב' טיפי זבוב, מרוחקות זו מזו, וב' נקבי חוטמו כב' טיפי זבוב מקורבות זל"ז, ופיו מתוח תחת החוטם כחוט הכער, וחיתוך ידים ורגלים אין לו:
+
+
+
+### Seif 38
+
+###### Yachin on Mishnah Keritot 1:38:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:38:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:38:1)
+
+
+**והיוצא מחותך**
+ שחתכוהו אברים אברים והוציאוהו מבטן אמו:
+
+
+
+### Seif 39
+
+###### Yachin on Mishnah Keritot 1:39:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:39:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:39:1)
+
+
+**וכן שפחה שהפילה**
+ קמ"ל שפחה, דאף במצוה שאין שוין בה אשה ואיש, אפ"ה כל מצוה שאשה חייבת בה, שפחה ועבד חייבין בה:
+
+
+
+### Seif 40
+
+###### Yachin on Mishnah Keritot 1:40:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:40:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:40:1)
+
+
+**המפלת ואין ידוע מה הפילה**
+ אם מין שחייבת עליו קרבן, או מין פטור:
+
+
+
+### Seif 41
+
+###### Yachin on Mishnah Keritot 1:41:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:41:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:41:1)
+
+
+**ואחת ממין חובה**
+ מיהו בכה"ג מביאת כל אחת התור או היונה של עולה ומתנת עליו, אם מין חובה ילדתי, הר"ז לחובתי, ואם לאו תהא נדבה, אבל בתור או היונה של החטאת שמביאה כל אחת, לא מצו להתנות, דהרי אין חטאת בא בנדבה. ואפ"ה מביאתו מדאורייתא מספק, ורק מדרבנן אינו נאכל. [ועי' תמורה פ"ז סי' ל"ח. ותמוהים דברי תוס' חדשים כאן, שנתקשה על הר"ב שכתב דלא הוה חולין בעזרה, והקשה מנזיר [דכ"ט] דאמרינן דהוה חולין בעזרה. ולפע"ד פשוט דכוונת הר"ב דרק מדאורייתא לא הוה חולין בעזרה, וכן מפורש שם בש"ס ע"ב]:
+
+
+
+### Seif 42
+
+###### Yachin on Mishnah Keritot 1:42:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:42:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:42:1)
+
+
+**אמר רבי יוסי אימתי בזמן שהלכו זו למזרח וזו למערב**
+ רצה לומר שהביאו קניהן והלכו להן, שאינן יכולים להתנות:
+
+
+
+### Seif 43
+
+###### Yachin on Mishnah Keritot 1:43:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:43:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:43:1)
+
+
+**מביאות קרבן ונאכל**
+ דאז מביאות חטאת א' בשותפות, ומתנות יחד שאותה שחייבת חטאת מלידתה, תהיה זאת החטאת שלה. דדוקא חטאת או אשם שבאין על חטא לא מהני תנאי [כלקמן ד"ה מ"ה], דכתיב או הודע אליו חטאתו. אבל הנך מצו מייתי ומתנו:
+
+
+
+### Seif 44
+
+###### Yachin on Mishnah Keritot 1:44:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:44:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:44:1)
+
+
+**המפלת שפיר**
+ כעין שפופרת:
+
+
+
+### Seif 45
+
+###### Yachin on Mishnah Keritot 1:45:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:45:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:45:1)
+
+
+**מלא דם מלא גנינים**
+ ר"ל מלא צבעים וגוונים. וי"א דר"ל מלא תולעים:
+
+
+
+### Seif 46
+
+###### Yachin on Mishnah Keritot 1:46:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:46:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:46:1)
+
+
+**המפלת כמין דגים וחגבים שקצים ורמשים**
+ בהנך אף ר"מ דפליג במ"ג מודה, מדבהנך לא כתיב לשון יצירה. ואע"ג דתנן [נדה פ"ג מ"ג] דאם יש עמהן דם, טמאה. היינו דטמאה נדה, אבל לא משום לידה:
+
+
+
+### Seif 47
+
+###### Yachin on Mishnah Keritot 1:47:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:47:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:47:1)
+
+
+**המפלת יום ארבעים**
+ דעד שעברו מ' יום מהריונה, אינן רק מים בעלמא, ולא מקרי ולד:
+
+
+
+### Seif 48
+
+###### Yachin on Mishnah Keritot 1:48:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:48:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:48:1)
+
+
+**ויוצא דופן**
+ דכתיב אשה כי תזריע וילדה, ר"ל שתלד ממקום שמזרעת:
+
+
+
+### Seif 49
+
+###### Yachin on Mishnah Keritot 1:49:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:49:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:49:1)
+
+
+**רבי שמעון מחייב ביוצא דופן**
+ דכתיב ואם נקבה תלד, והול"ל ואם נקבה היא, דכבר כתיב לידה בתחלת הפרשה, אלא לרבות יוצא דופן:
+
+
+
+### Seif 50
+
+###### Yachin on Mishnah Keritot 1:50:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:50:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:50:1)
+
+
+**המפלת אור לשמנים ואחד**
+ מיירי שילדה נקבה, שטובלת לאחר י"ד ומותרת לבעלה, אבל אסורה עדיין לכנס למקדש ולאכל קודש עד אחר שהביאו קרבנן ביום ס"ז משטבלה. וזו הפילה בליל שקודם יום הס"ז משטבלה, שהוא ליל שקודם יום הפ"א משילדה. אבל בילדה זכר לא משכח"ל שתפיל תוך מלאות, דהרי בזכר טובלת אחר יום ז' משילדה ומותרת לבעלה ואסורה לכנוס למקדש ולאכל קודש עד אחר יום ל"ג משטבלה, והרי בל"ג יום א"א שתפיל ולד שתתחייב עליו קרבן:
+
+
+
+### Seif 51
+
+###### Yachin on Mishnah Keritot 1:51:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:51:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:51:1)
+
+
+**בית שמאי פוטרין מן הקרבן**
+ שחייבת אותו מלידה שנייה. דאף דהפילה לאחר מלאות, עכ"פ מדהיה אז עדיין לילה, והרי אי אפשר שתביא קרבנותיה בלילה, להכי לעניין קרבן כהפילה תוך מלאות דמי, שנפטרת בקרבן א' על כמה וולדות:
+
+
+
+### Seif 52
+
+###### Yachin on Mishnah Keritot 1:52:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:52:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:52:1)
+
+
+**מאי שנא אור לשמנים ואחד מיום שמנים ואחר**
+ דכשהפילה ביום פ"א וודאי כ"ע מודו דמייתי עלה קרבן לבד, מדהפילתו לאחר מלאות, והרי בכל דבר חיוב דין הלילה שוה לדין היום שלאחריה:
+
+
+
+### Seif 53
+
+###### Yachin on Mishnah Keritot 1:53:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:53:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:53:1)
+
+
+**אם שוה לו לטומאה לא ישוה לו לקרבן**
+ זו קושיא אחרת היא שהקשו ב"ה. ור"ל והרי אתם מודים דבראתה דם בלילה שקודם יום פ"א, שטמאה לבעלה, ואין דינו כדם שראתה תוך ימי מלאות, שהוא דם טוהר. א"כ למה לא ישוה הלילה להיום שלאחריו גם לענין קרבן:
+
+
+
+### Seif 54
+
+###### Yachin on Mishnah Keritot 1:54:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:54:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:54:1)
+
+
+**ולא לקרבן צבור**
+ עיקר הסברא, היינו דבשלמא שבת מדחזי להקריב בו קרבנות היום, ורק לקרבן שאינו חובת היום לא יקריב, הו"ל כראוי להקריבו אז, אלא שדבר אחר מעכבו מלהקריב, כגון שהוחלה או אין לו מעות, אבל לילה אינו זמן הקרבה כלל ומצ"ע לא חזי אותו עת להקרבה, לפיכך לא דמי כלל למפלת ביום פ"א:
+
+
+
+### Seif 55
+
+###### Yachin on Mishnah Keritot 1:55:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:55:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:55:1)
+
+
+**הדמים אינן מוכיחין**
+ ר"ל הקושיא שהקשתם מדם, אם שוה לו לטומאה וכו', ג"כ אינה קושיא:
+
+
+
+### Seif 56
+
+###### Yachin on Mishnah Keritot 1:56:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:56:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:56:1)
+
+
+**דמיה טמאין**
+ משום לידה, ולא נחשב לדם טוהר:
+
+
+
+### Seif 57
+
+###### Yachin on Mishnah Keritot 1:57:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:57:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:57:1)
+
+
+**ופטורה מן הקרבן**
+ מדהוא תוך מלואת. אלמא דאין טומאת הדם וחיוב הקרבן תלויין זב"ז:
+
+
+
+### Seif 58
+
+###### Yachin on Mishnah Keritot 1:58:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:58:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:58:1)
+
+
+**האשה שיש עליה ספק חמשה זיבות**
+ שראתה בג' ימים רצופין, כמה פעמים דם, ומסופקת אם בימי נדה או זיבה ראתה כל פעם:
+
+
+
+### Seif 59
+
+###### Yachin on Mishnah Keritot 1:59:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:59:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:59:1)
+
+
+**וספק חמשה לידות**
+ ר"ל או שהפילה כמה פעמים, ומסופקת מה הפילה כל פעם, אם מין חיוב או פטור:
+
+
+
+### Seif 60
+
+###### Yachin on Mishnah Keritot 1:60:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:60:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:60:1)
+
+
+**מביאה קרבן אחד**
+ תור או יונה לחטאת, דחטאת בא על ספק:
+
+
+
+### Seif 61
+
+###### Yachin on Mishnah Keritot 1:61:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:61:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:61:1)
+
+
+**ואין השאר עליה חובה**
+ ר"ל אינן עליה חובה מצד לידתה, להכי אסורה להביאן, כדי שלא יהיה כחולין בעזרה. ורק חטאת א' שרו לה חכמים שתקריב, כדי להתירה לאכל קדשים ולכנוס למקדש.
+
+
+
+### Seif 62
+
+###### Yachin on Mishnah Keritot 1:62:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:62:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:62:1)
+
+
+**חמש לידות ודאות**
+ שילדה כל פעם אחר מלואת של לידה הקודמת:
+
+
+
+### Seif 63
+
+###### Yachin on Mishnah Keritot 1:63:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:63:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:63:1)
+
+
+**מעשה שעמדו קינים**
+ ב' תורים או ב' בני יונה:
+
+
+
+### Seif 64
+
+###### Yachin on Mishnah Keritot 1:64:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:64:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:64:1)
+
+
+**בירושלים בדינרי זהב**
+ דינר זהב לכל קן. דע"י שנצטרכו להרבה קינין נתיקרו מאד:
+
+
+
+### Seif 65
+
+###### Yachin on Mishnah Keritot 1:65:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:65:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:65:1)
+
+
+**אמר רבן שמעון בן גמליאל**
+ הוא רשב"ג הנהרג בזמן החורבן, והוא אבי אבי אביו של רבי. אבל רשב"ג השני אביו של רבי, לא היה בזמן המקדש [ועיין מ"ש בס"ד בפירושינו ברפ"ב דאבות]:
+
+
+
+### Seif 66
+
+###### Yachin on Mishnah Keritot 1:66:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:66:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:66:1)
+
+
+**המעון הזה**
+ ר"ל נשבע אני במקדש הזה שהוא מעונה אלהי קדם:
+
+
+
+### Seif 67
+
+###### Yachin on Mishnah Keritot 1:67:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:67:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:67:1)
+
+
+**עד שיהו בדינרין**
+ מלת דנרין ר"ל דנרי כסף. אבל דנרי ר"ל דנרי זהב. שהוא היה חושש שע"י היוקר יתמנעו העניות מלהביא אפילו קן א', ויבואו לאכול קדשים או לכנס למקדש בטומאת הגוף שהוא בכרת. [ונ"ל דמשום דשיוזלו תולה בדעת אחרים, דאולי יתיקרו מטעם אחר, להכי השתמש בלשון זה שאינו שבועה כלל, רק הבטחת דברים [כנדרים ד"י]. וכך מצינו כ"פ שנזהרו מלשבע רק בלשון זה [ככריתות פ"ו מ"ג]. וכן מצינו שנשבעו כמה פעמים בעבודה [כב"ב די"א א' וגיטין נ"ח א']. שג"כ אינה שבועה. וכל זה מדהיו נזהרין מלשבע אפילו באמת]:
+
+
+
+### Seif 68
+
+###### Yachin on Mishnah Keritot 1:68:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:68:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:68:1)
+
+
+**ואין השאר עליה חובה**
+ אע"ג שמן התורה חייבות להביא השאר [כש"ס ד"ט ב']. אפ"ה הקיל משום עת לעשות לה' הפרו תורתיך. שע"י שלא היו נצרכות לכל כך קינין הרבה, הוזלו הקינין, וניצולו מאיסור כרת:
+
+
+
+### Seif 69
+
+###### Yachin on Mishnah Keritot 1:69:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:69:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/1:69:1)
+
+
+**ועמדו קינים בו ביום ברבעתים**
+ כל קן בעד רביע דינר כסף:
+
+
+
+## Chapter 2
+
+
+### Seif 1
+
+###### Yachin on Mishnah Keritot 2:1:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:1:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:1:1)
+
+
+**ארבעה מחוסרי כפורים**
+ ר"ל ד' הן שמביאין חטאת שלא על חטא, רק משום שמחוסרין כפרה וגמר טהרה [ואפשר דר"ל מחוסרי כפרה מדלא חטאו, אלא דלפ"ז דחיקא לן לישנא דקאמר בתר הכי גר מחוסר כפרה עד וכו'. וק' וכי זריקת הדם מעכב מלהתכפר. או שאח"כ יהיה חייב כפרה. אלא ע"כ דכפרה היינו טהרה גמורה לאכל קדשים, וכמ"ש גם על המזבח וכפר, דהיינו יטהרו בזריקת הדם עליו]:
+
+
+
+### Seif 2
+
+###### Yachin on Mishnah Keritot 2:2:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:2:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:2:1)
+
+
+**והמצורע**
+ והא דלא נקט נמי מצורעת כדנקט זב וזבה. ה"ט משום דמצורע ומצורעת שוין בעיקר טומאתן, דזה וזאת שיעור נגען בכגריס. משא"כ זב וזבה, זב בראיות תליא רחמנא, דבראה ג' ראיות ביום א'. טמא, אבל זבה טומאתה תליא בימים, שצריך שתראה ג' ראיות בג' ימים רצופין, אז היא זבה גדולה:
+
+
+
+### Seif 3
+
+###### Yachin on Mishnah Keritot 2:3:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:3:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:3:1)
+
+
+**רבי אליעזר בן יעקב אומר גר מחוסר כפרה עד שיזרק עליו הדם**
+ ר"ל דכל גר שמל וטבל אסור לאכול קדשים עד שיביא עולת בהמה ויזרק דמה במזבח, או שיביא ב' עופות לעולות ויתמצה דמן במזבח משו"ה ה"ל מחוסכ"פ. ולת"ק גר שמל וטבל מותר לאכול קדשים, רק שאסור לבוא בקהל עד שיזרק דם קרבנותיו. וקיי"ל דבזה"ז שאין מקדש, משמל וטבל מותר בקהל [י"ד רס"ח ס"ב]:
+
+
+
+### Seif 4
+
+###### Yachin on Mishnah Keritot 2:4:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:4:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:4:1)
+
+
+**ונזיר ליינו ותגלחתו וטומאתו**
+ ר"ל דכל נזיר מביא ג' בהמות, כבשה לחטאת, וכבש לעולה, ואיל לשלמים. וכשהקריבו אחת וזרקו דמה בעבורו, מותר ביין וגלוח ולהטמא משו"ה הו"ל מחוסכ"פ, ולת"ק לא מחשב נזיר מחוסר כפרה, מדאין קרבנו מעכבו מלאכול קדשים:
+
+
+
+### Seif 5
+
+###### Yachin on Mishnah Keritot 2:5:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:5:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:5:1)
+
+
+**הבא על השפחה**
+ שפחה חרופה שחציה שפחה וחציה בת חורין, שמקודשת לעבד עברי, ובא עליה ישראל אחר, בין בשוגג בין במזיד, אם רק היא היתה מזידה, אז היא לוקה והוא מביא איל אשם:
+
+
+
+### Seif 6
+
+###### Yachin on Mishnah Keritot 2:6:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:6:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:6:1)
+
+
+**ונזיר שנטמא**
+ במת. ואפילו באונס, אז מזה בג' וז' באפר פרה, ואח"כ מגלח וטובל בז', ולמחר מביא ב' עופות, אחד לחטאת וא' לעולה, וכבש לאשם. ומשהביא חטאת העוף שלו מתחיל למנות נזירותו מחדש:
+
+
+
+### Seif 7
+
+###### Yachin on Mishnah Keritot 2:7:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:7:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:7:1)
+
+
+**ועל שבועת העדות**
+ שהשביען שיעידו לו עדות ממון, וכפרו העדים לומר שאין יודעים העדות, בין שהיו מזידין או שוגגין, שחשבו שאין חייבים על דבר זה קרבן, אז כשירצו העדים לעשות תשובה, מביא כל א' קרבן עולה ויורד, דהיינו שכשהוא עשיר מביא כשבה או שעירה לחטאת. וכשהוא עני מביא ב' עופות אחד לחטאת ואחד לעולה. וכשאין ידו משגת גם לזה, מביא עשירית האיפה סולת [ועי' מ"ש בפירושינו בס"ד בהקדמת פ"ג דשבועות סי' ג']:
+
+
+
+### Seif 8
+
+###### Yachin on Mishnah Keritot 2:8:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:8:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:8:1)
+
+
+**ועל שבועת הפקדון**
+ כשתבעו חבירו ממון שיש לו אצלו בהלואה או בפקדון או גזילה וכדומה, וכפר ונשבע, אז כששב, מחזיר הגזל. ומביא איל לאשם גזילות:
+
+
+
+### Seif 9
+
+###### Yachin on Mishnah Keritot 2:9:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:9:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:9:1)
+
+
+**וחמשה מביאים קרבן עולה ויורד**
+ שעלה ונתרבה קרבנו כשהוא עשיר, ויורד ונתמעט קרבנו כשהוא עני:
+
+
+
+### Seif 10
+
+###### Yachin on Mishnah Keritot 2:10:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:10:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:10:1)
+
+
+**הבא על השפחה ביאות הרבה**
+ אבל בבעל שפחות הרבה אפילו בהעלם א', חייב על כל א' וא' לבד, משום דהגופות חלוקות, ובכה"ג רבייא קרא שיתחייב קרבנות הרבה [ועי' חולין דפ"ב ב']:
+
+
+
+### Seif 11
+
+###### Yachin on Mishnah Keritot 2:11:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:11:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:11:1)
+
+
+**ונזיר שנטמא טומאות הרבה**
+ ואפילו נטמא טומאות הרבה ביום ז' לטהרתו. ואפילו למ"ד שביום ז' אחר גלוח וטבילה כבר חל עליו נזירות טהרה, אפ"ה כיון דלא אתא עדיין לשעה שראוייה לקרבן עד יום ח', להכי לא מחשבו כל הטומאות שביני ביני רק כטומאה אחת. ולרמב"ם [פ"ו מנזירות] אפילו נטמא טומאות הרבה ביום ח', דיינינן לכולהו כטומאה א'. ורק כשהביא כבר חטאתו על טומאה הראשונה, אז צריך להביא קרבנות לבד על טומאה ב':
+
+
+
+### Seif 12
+
+###### Yachin on Mishnah Keritot 2:12:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:12:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:12:1)
+
+
+**על ידי אנשים הרבה**
+ שמביא מנחת שעורים כשישקנה מים המרים ודי לכולן בא':
+
+
+
+### Seif 13
+
+###### Yachin on Mishnah Keritot 2:13:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:13:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:13:1)
+
+
+**ומצורע שנתנגע נגעים הרבה**
+ שנתנגע ונתרפא, וחזר ונתנגע ונתרפא. דרק בנתנגע נגע ב' אחר שהביא חטאתו לת"ק ואשמו לר"י, אז מביא קרבן על כל נגע ונגע:
+
+
+
+### Seif 14
+
+###### Yachin on Mishnah Keritot 2:14:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:14:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:14:1)
+
+
+**הביא צפוריו**
+ היינו ב' צפרים שמביא המצורע, א' לשחיטה וא' לשלוח. ואינן קרבן:
+
+
+
+### Seif 15
+
+###### Yachin on Mishnah Keritot 2:15:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:15:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:15:1)
+
+
+**ונתנגע לא עלו לו עד שיביא את חטאתו**
+ אינו ר"ל שצריך להביא צפרים אחרים על הנגע הראשון, ליתא, דהרי אמרינן ברישא דדיינינן נגע הראשון וב' כנגע א', א"כ גבי צפרים נמי כשיביאם על נגע ב' יעלו לו גם על נגע א'. רק ר"ל שלא עלו לו הצפרים לנגע ראשון להיות לה לגמר טהרה. וחסורי מחסרא וה"ק, אפילו הביא כבר הצפרים וחזר ונתנגע לא עלו לו כלומר לא הועילו לו לחלקן, רק מחשב הכל כצרעת א', ואינו מביא על שניהן רק קרבן א'. וגם למקבעיני' בעניות ועשירות לא עלו לו הצפרים, דאם כשהביא הצפרים היה עשיר, ואח"כ כשרוצה להביא חטאתו היה עני, או איפכא הכל הולך אחר מעמדו בשעת הבאת חטאתו:
+
+
+
+### Seif 16
+
+###### Yachin on Mishnah Keritot 2:16:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:16:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:16:1)
+
+
+**רבי יהודה אומר עד שיביא את אשמו**
+ פליגי בקרא דאם לא תשיג ידו בטהרתו, אי בטהרתו ר"ל חטאת או אשם. בנדה [ד"ע ע"ב] אמר שמואל באין חולק דס"ל כת"ק. ואפ"ה קיי"ל כר"י [רמב"ם ד"ה ממחוסכ"פ]:
+
+
+
+### Seif 17
+
+###### Yachin on Mishnah Keritot 2:17:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:17:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:17:1)
+
+
+**האשה שילדה ולדות הרבה**
+ כגון שהפילה בתוך וכו':
+
+
+
+### Seif 18
+
+###### Yachin on Mishnah Keritot 2:18:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:18:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:18:1)
+
+
+**הפילה בתוך שמנים נקבה**
+ ר"ל שהפילה תוך הפ' ימי מלואת של נקיבה. כגון שילדה נקיבה, שטובלת אחר י"ד יום, וחזרה ונתעברה, והפילה נקבה לאחר מ' משנתעברה, דהיינו אחר יום נ"ד אחר לידה הראשונה, וחזרה והפילה לאחר נ"ד יום מלידה ב'. אבל בילדה זכר, לא משכחת לה שתפיל תוך מלואת [כפ"א סי' כ']:
+
+
+
+### Seif 19
+
+###### Yachin on Mishnah Keritot 2:19:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:19:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:19:1)
+
+
+**והמפלת תאומים**
+ אפילו זכרים, כגון שנתעברה מג' ילדים יחד, וילדה א', וחזרה והפילה הב', תוך מלואת של ראשון, וחזרה והפילה הג' תוך מלואת של ב', מביאה קרבן א' לכולן. ונקט תאומים לרבותא דר"י, דאפילו תאומים, שנתעברה מכולן כאחת, אפ"ה לא אמרינן דכולהו כחדא לידה אריכתא דמו, רק צריכה קרבן לשלישי לבד. [והא דנקט בתאומים מפלת. נ"ל משום דכשילדה הולד הראשון בזמנו בחודש הט', אינו מצוי שישתהו אח"כ הולדות אחרים. ואי כיהודה וחזקיה בני ר' חייא שנולדו זה ג' חדשים אחר זה [כיבמות דס"ה ב'], עכ"פ כיון דילדה ראשון לז', ובזמן הש"ס יולדת לז' יולדת למקוטעין, ויולדת לט' אינה יולדת למקוטעין, [כנדה דל"ח ב', ועי' אה"ע סי' קנ"ו, דלדידן גם יולדת לט' יולדת למקוטעין]. א"כ אם יהיה הג' בר קיימא א"א שנולד רק אחר מלואת של השני [עיין נדה ד"מ ע"א] והרי הכא איירי שנולד הג' תוך מלואת של השני, ע"כ שיהיה הג' נפל]:
+
+
+
+### Seif 20
+
+###### Yachin on Mishnah Keritot 2:20:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:20:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:20:1)
+
+
+**ואינה מביאה על השני**
+ מדנולד תוך מלואת של ראשון:
+
+
+
+### Seif 21
+
+###### Yachin on Mishnah Keritot 2:21:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:21:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:21:1)
+
+
+**מביאה על השלישי**
+ מדנולד אחר מלואת של ראשון:
+
+
+
+### Seif 22
+
+###### Yachin on Mishnah Keritot 2:22:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:22:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:22:1)
+
+
+**ואינה מביאה על הרביעי**
+ מדנולד תוך מלואת של ג' שהביאה קרבן עליו:
+
+
+
+### Seif 23
+
+###### Yachin on Mishnah Keritot 2:23:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:23:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:23:1)
+
+
+**אלו מביאין קרבן עולה ויורד**
+ עיין פירושו סי' ט':
+
+
+
+### Seif 24
+
+###### Yachin on Mishnah Keritot 2:24:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:24:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:24:1)
+
+
+**על שמיעת הקול**
+ ר"ל שבועת העדות, דכתיב גביה ושמעה קול אלה שהשביען שיעידוהו, ושיקרו ואמרו שאין יודעין. עי' סי' ז':
+
+
+
+### Seif 25
+
+###### Yachin on Mishnah Keritot 2:25:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:25:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:25:1)
+
+
+**ועל ביטוי שפתים**
+ ר"ל שבועת בטוי דכתיב גביה לבטא בשפתים, שנשבע להרע או להטיב, ועבר בשוגג על שבועתו, או שנשבע על הן ולאו דלשעבר בשוגג לשקר:
+
+
+
+### Seif 26
+
+###### Yachin on Mishnah Keritot 2:26:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:26:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:26:1)
+
+
+**ועל טומאת מקדש וקדשיו**
+ שהיה טמא ונכנס בשוגג למקדש או אכל קודש בשוגג. כל הג' הללו יש חלוק בקרבנן, בין עשיר לדל או דלי דלות כלעיל סי' ז':
+
+
+
+### Seif 27
+
+###### Yachin on Mishnah Keritot 2:27:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:27:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:27:1)
+
+
+**והמצורע**
+ דיולדת עשירה מביאה כבש לעולה ובן יונה או תור לחטאת. [ומצורע עשיר מביא ב' כבשים] ויולדת ומצורע עניה מביאה ב' עופות א' לחטאת וא' לעולה. דביולדת ומצורע כשהן בדלי דלות אין מביאין כלל. [והא דקאמר בש"ס יולדת מביאה בדלות ועשירות, ומצורע מביא בדלות. נ"ל דאחטאת עוף קאי. דרק יולדת מביאתו בין בדלות ובין בעשירות, אבל מצורע מביא עוף רק בדלות]:
+
+
+
+### Seif 28
+
+###### Yachin on Mishnah Keritot 2:28:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:28:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:28:1)
+
+
+**ומה בין השפחה**
+ שפחה חרופה:
+
+
+
+### Seif 29
+
+###### Yachin on Mishnah Keritot 2:29:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:29:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:29:1)
+
+
+**לבין כל העריות**
+ אלו הן החילוקים שביניהן, שלא שוותה להן לא וכו':
+
+
+
+### Seif 30
+
+###### Yachin on Mishnah Keritot 2:30:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:30:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:30:1)
+
+
+**כל העריות אחד האיש ואחד האשה שווין במכות ובקרבן**
+ דאם שניהן מזידין, כל א' לוקה. ואם שניהן שוגגין, כל א' מביא חטאת:
+
+
+
+### Seif 31
+
+###### Yachin on Mishnah Keritot 2:31:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:31:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:31:1)
+
+
+**ובשפחה לא השוה את האיש לאשה במכות**
+ דרק היא אפשר שתתחייב מלקות:
+
+
+
+### Seif 32
+
+###### Yachin on Mishnah Keritot 2:32:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:32:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:32:1)
+
+
+**ולא את האשה לאיש בקרבן**
+ דרק הוא אפשר שיתחייב קרבן:
+
+
+
+### Seif 33
+
+###### Yachin on Mishnah Keritot 2:33:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:33:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:33:1)
+
+
+**כל העריות עשה בהן את המערה כגומר**
+ דבהכניס רוב העטרה, הו"ל כהכניס כל האבר וגמר ביאתו:
+
+
+
+### Seif 34
+
+###### Yachin on Mishnah Keritot 2:34:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:34:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:34:1)
+
+
+**וחייב על כל ביאה וביאה**
+ י"א דר"ל בכל אופן שתהיה הביאה, ואפילו בבעלה שלא כדרכה [היינו בנקב אחורים], חייב. משא"כ בשפחה חרופה דוקא בכדרכה חייב. אמנם להרמב"ם [פ"ג מביאה], ר"ל דבכל עריות בבעל הרבה ביאות בהרבה העלמות, אם בשוגג, חייב חטאת על כל העלם והעלם, ואם במזיד חייב ענשו על כל ביאה וביאה, ואף בחייב מיתה שאי אפשר להרגו ולחזור ולהרגו יענש בשמים [רמב"ם שם]. ורק בבעל גוף א' כמה ביאות בהעלם א' אינו חייב רק קרבן א'. אבל בשפחה חרופה אפילו בעלה כמה בעילות בכמה העלמות, אינו חייב רק אשם א'. אבל בגופות מחולקין, אפילו היה הכל בהעלם א' לכ"ע גם בשפחה מביא על כל גוף וגוף קרבן לבד. והנה ד' דברים מחלקין לחיוב חטאת [וסימנם השיג]. (א) העלם. שכשחטא בשוגג, ואח"כ נודע לו שחטא, וחזר ונעלם ממנו שזה חטא, וחזר וחטא, חייב על כל העלם והעלם קרבן לבד. (ב) שמות. ר"ל שמות איסור נפרדים, שאם אכל חלב, ודם, ופגול, ונותר, אפילו אכלן כולן בהעלם א', חייב על כל שם ושם של איסור קרבן לבד. ואפילו לא היה רק פעולה אחת, כגון ששחט בהמת קדשים בשבת, בחוץ, לע"ז, אף שבכה"ג הרי לא עשה רק פעולה א', אפ"ה חייב ג' חטאת. וכ"כ בבעל חשה שיש עליה ז' או ח' שמות ערוה, אף שלא בעלה רק בעילה א', אפ"ה חייב על כל שם ערוה שבה חטאת לבד. וכ"כ באכילות, באכל חלב, שהוא נותר, וביו"כ, והאדם היה טמא, חייב ד' חטאות. אמנם כל שהיה החטא בגוף א' ופעולה אחת, אין השמות מחלקין לעניין קרבן או מלקות או מיתה רק בחלו זה על זה באיסור כולל, או מוסיף, או בת אחת. [כולל היינו כשהאיסור שחל אחרון מרבה בחתיכות הנאסרין. כגון שנשבע שלא יאכל תאנים ותזר ונשבכ. שלא יאכל תאנים וענבים, הרי בשבועה ב' הרבה בחתיכות הנאסרים יותר משבועה ראשונה, לכן כשאכל תאנים חייב ב'. וכ"כ שהיתה נבילה מקודם יו"כ. ואח"כ חל יו"כ ואכלו, הרי מקודם לא היה אסור רק בהנבילה, וכשחל יו"כ נאסר מכל הנאכלים, להכי הו"ל יו"כ איסור כולל. וכ"כ בבעילות, אשת איש שנעשת חמותו, שע"י חמותו נאסר גם בקרובותיה. ודו"ק. אבל מוסיף היינו כשהאיסור השני מרבה בבני אדם הנאסרים. כגון שנשבע ואסר על עצמו תאנה זו, ואח"כ אסרה על עצמו ועל ראובן. או קודש שנעשה נותר, שמתחלה לא היתה אסורה רק על זר. ואח"כ גם על כהן. וכ"כ בבעילות, חמותו ונעשת אשת איש, דמעיקרא לא היתה אסורה רק עליו, וכשנעשת א"א נתוסף בה איסור לכל ישראל, לכן כשבעלה חתנה, חייב ב', וסימנך חרך, ר"ת חתיכות רבות כולל. אמנם בת אחת היינו כשחלו ב' האיסורים בבת אחת, כגון אשת אחיו שהיא א"א, יו"כ ושבת שחלו כאחת ועשה מלאכה ביום ההוא, וכדומה לרוב]. (ג) ודיעות ג"כ מחלקות לחטאת. כגון שבעל נדה א' בעילות הרבה בהעלם א', או אכל חלב וחזר ואכל חלב, הכל בהעלם א', ואח"כ נודע לו שחטא במעשה הראשון, וחזר ונודע לו שחטא גם במעשה השני, חייב על כל ידיעה וידיעה קרבן לבד [רמב"ם פ"ו משגגות ה"ט]. (ד) גופות מחלקין ג"כ, אבל רק בבעילות. כגון שבעל כמה נדות בהעלם א', חייב על כל גוף וגוף קרבן לבד. ואפילו באשה אחת שבעלה בנדתה, וטבלה לנדתה, וחזרה וראתה נדה וחזר ובעלה, אף שהיה הכל בהעלם א', והכל בגוף א' והכל בשם א', עכ"פ כיון שנטהרה בינתיים, מחשבה כל פעם כגוף אחר. אבל במאכלות אינו כן, שכשאכל ה' זיתי חלב מה' בהמות, אף שהיה כל א' גם ממין תבשיל אחר, אינו חייב רק קרבן א' על ההעלם האחד. וכ"כ בפעולות, ששחט ה' בהמות לע"ז, או ששחטן בשבת, אף שהגופות מחולקין אין חייב רק חטאת א' על כל ההעלם [רמב"ם פ"ג ופ"ו משגגות. ועי' רמל"מ שם, שכ' בשם ריא"ז דבבהמה דינה כאדם שיהיה גופין מחלקין, ועי' בשער המלך [דקט"ו ע"ד] שיש פלוגתא, די"א דדוקא בעילה באדם דחשיב, גופין מחלקין ולא בבהמה, וי"ח. ועי' חולין [דפ"ב ב] ודו"ק]. אמנם לעניין שבת, מלבד העלמות וידיעות שמחלקות לעניין שבת כמו בשאר איסורין [עי' לח"מ פ"ז משגגות הי"ט], יש עוד ב' דברים שמחלקין אצלה לחיוב חטאות [וסימנך מי]. (א) מלאכות מחלקות, כגון שחרש, זרע, קצר, וטחן בשבת א', בשגגת מלאכה, שלא ידע שאלו המלאכות אסורות בשבת, אבל ידע שהיום שבת, חייב על כל מלאכה ומלאכה חטאת א'. ואפילו עשה מלאכות אלו בעצמן בהרבה שבתות, כיון שלא היה שם העלם שבת רק העלם מלאכה, לא אמרינן שהימים שבינתיים יהיו כידיעה על כל מלאכה, ויביא חטאת על כל זריעה וזריעה. רק יביא על הזריעות שבכל השבתות רק חטאת א', וכמו כן על כל הטחינות חטאת א' וכו'. (ב) ימים מחלקים, שאם היה שם שגגת שבת, שלא ידע שהיום שבת, אף שלא ידע ג"כ שמלאכות אלו אסורות, ועשה מלאכות הרבה בשבתות הרבה, אז הימים שבין שבת לשבת הו"ל כידיעה, וחייב חטאת על כל שבת ושבת ששגג בו. ואפילו עשה מלאכות הרבה בכל שבת, עכ"פ כיון שהיה שם גם העלם שבת, אינו חייב על כולן שעשה בכל שבת א', רק חטאת א'. ואפילו בעשה מלאכה א' בשבתות הרבה, כגון שזרע בשבת זה, וחזר וזרע בשבת אחר, אפ"ה כיון שכל שבת ושבת היה העלם אחר, שלא ידע שאז שבת הוא, להכי חייב על כל שבת ושבת קרבן לבד. [ולרמב"ם פ"ז משגגות, דוקא בעשה מלאכות הרבה מעין מלאכה א', כגון אב ותולדתו, חייב על כל שבת ושבת בכה"ג. אבל בעשה רק אותה מלאכה עצמה בשבתות הרבה אף בכה"ג חייב על כל השבתות רק חטאת א'. ועי' רלח"מ שם ה"ח. ועי' מ"ש כקופת הרוכלין בס"ד צד א' ע"ד אות ג' ד"ה אמנם]:
+
+
+
+### Seif 35
+
+###### Yachin on Mishnah Keritot 2:35:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:35:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:35:1)
+
+
+**שעשה בה את המזיד כשוגג**
+ ר"ל בין שהוא מזיד או שוגג, אם רק היא מזידה, שחייבת מלקות אז מביא הוא אשם. אבל אם היא שוגגת, שאז פטורה ממלקות, בין שהוא שוגג או מזיד, פטור גם הוא מאשם, דחיוב דידיה ודידה רק במזיד שלה תלוי:
+
+
+
+### Seif 36
+
+###### Yachin on Mishnah Keritot 2:36:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:36:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:36:1)
+
+
+**איזו היא שפחה**
+ חרופה:
+
+
+
+### Seif 37
+
+###### Yachin on Mishnah Keritot 2:37:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:37:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:37:1)
+
+
+**כל שחציה שפחה וחציה בת חורין**
+ שנתארסה ע"י קדושין לעבד עברי, שמותר בשפחה ומותר בבת חורין. [משא"כ עבד כנעני, אסור בה מצד חצי חירות שבה, וכשנתארסה לו אין בה דין שפחה חרופה]:
+
+
+
+### Seif 38
+
+###### Yachin on Mishnah Keritot 2:38:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:38:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:38:1)
+
+
+**והפדה לא נפדתה**
+ משמע שפדוייה ואינה פדוייה כראוי. לפיכך לא תפסו בה קידושין לחייבה מיתה. אבל בהיתה פדוייה גמורה, דאז כשנתארסה תפסו בה קדושין, להכי אם זנתה, כל מי מהן שהוא מזיד חייב מיתה:
+
+
+
+### Seif 39
+
+###### Yachin on Mishnah Keritot 2:39:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:39:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:39:1)
+
+
+**זו היא שפחה ודאית**
+ ר"ל שפחה חרופה דקאמר קרא, היינו שפחה גמורה, שנתקדשה לעבד עברי. והא דכתיב והפדה לא נפדתה, דברה תורה כלשון בני אדם:
+
+
+
+### Seif 40
+
+###### Yachin on Mishnah Keritot 2:40:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:40:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:40:1)
+
+
+**רבי אלעזר בן עזריה אומר כל העריות מפורשות**
+ דמיירי בבת חורין דוקא:
+
+
+
+### Seif 41
+
+###### Yachin on Mishnah Keritot 2:41:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:41:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:41:1)
+
+
+**ומה שיור**
+ נ"ל דר"ל, ומה שייר הכתוב מכל העריות אצל השפחה חרופה שכתב בה הך לישנא דהפדה לא נפדתה, שלא נכתב כן בכל העריות, דמשמע מזה שיהא דינה חלוק משאר עריות:
+
+
+
+### Seif 42
+
+###### Yachin on Mishnah Keritot 2:42:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:42:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:42:1)
+
+
+**אין לנו אלא שחציה שפחה וחציה בת חורין**
+ דהכי מסתבר, שיהא משוייר בה קצת דין שאר עריות, דעי"ז תהיה עכ"פ בת חורין במקצת. ולא כדברי רבי ישמעאל דקאמר דמיירי בשפחה גמורה, וס"ל לראב"ע אף דבכל דוכתי אמרינן דברה תורה כלשון בנ"א, שאני הכא דמדכתיב כי לא חופשה, ל"ל תו והפדה לא נפדתה. ע"כ לאשמעינן דמיירי בנפדת במקצת. אבל לר"ע בכל דוכתי לא אמרינן דברה תורה כלשון בנ"א:
+
+
+
+### Seif 43
+
+###### Yachin on Mishnah Keritot 2:43:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:43:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:43:1)
+
+
+**כל העריות אחד גדול ואחד קטן**
+ ר"ל אם א' גדול וא' קטן, בין האיש או האשה:
+
+
+
+### Seif 44
+
+###### Yachin on Mishnah Keritot 2:44:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:44:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:44:1)
+
+
+**הקטן פטור**
+ והגדול חייב, כשהיה הקטן בר ביאה, דהיינו זכר בן ט' שנים ויום א', והנקיבה בת ג' שנים ויום א':
+
+
+
+### Seif 45
+
+###### Yachin on Mishnah Keritot 2:45:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:45:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:45:1)
+
+
+**הישן פטור**
+ והער חייב:
+
+
+
+### Seif 46
+
+###### Yachin on Mishnah Keritot 2:46:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:46:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/2:46:1)
+
+
+**והמזיד בהכרת**
+ משא"כ בשפחה חרופה, אם היה א' מהן קטן שניהן פטורים, [ולרמב"ם פ"ט משגגות ופ"ג מביאות, כשהוא קטן בן ט' ויום א'. היא לוקה והוא באשם, וכשיגדל יביאנו]. וכשהיה א' מהן ישן, שניהם פטורים. [ולרמב"ם בהיה הוא ישן, היא חייבת מלקות והוא פטור, דדוקא בהיתה היא ישינה, שניהן פטורים. ועי' רמ"מ ספ"ג מביאות]. וכשהיא שוגגת שניהן פטורים בין שהוא מזיד או שוגג. דכל שהיא אינה במלקות, פטור הוא מקרבן. ובהיתה היא מזידה, בין שהיה הוא שוגג או מזיד, היא לוקה והוא מביא אשם, וכלעיל:
+
+
+
+## Chapter 3
+
+
+### Seif 1
+
+###### Yachin on Mishnah Keritot 3:1:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:1:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:1:1)
+
+
+**אמרו לו אכלת חלב**
+ אפילו א"ל כך חד [ש"ס]. ונ"ל דאפ"ה נקט אמרו, לשון רבים. דקמ"ל דאפילו עד מפי עד, ואפילו אשה, ואפילו לא בתורת עדות רק בדרך אמירה בעלמא, מדלא הכחיש, נאמנים:
+
+
+
+### Seif 2
+
+###### Yachin on Mishnah Keritot 3:2:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:2:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:2:1)
+
+
+**מביא חטאת**
+ ודוקא בשתק הוא להגדת העדות. [ונ"ל דאפילו אומר אח"כ ששתיקתו היה מדהוה מסופק, אפ"ה שתיקתו דמעיקרא כבר חייבתו בקרבו]. אבל בהשיב איני יודע אם אכלתי, בע"א פטור, ובב' עדים חייב [תוס' ד"ה אמרו וד"ה אלא] והיינו לר"מ. אבל לרבנן אפילו בב' עדים בין במכחישן ובין בשתק פטור [כרמב"ם רפ"ג משגגות]. וה"ה לעניין איסור, בשאמר אדם לחבירו שנאסר דבר פלוני. דוקא כשהדבר הוא של העד [ולהטור אפילו הופקד ביד העד. ואפילו אין לו מגו לאסרו עכשיו, אפ"ה נאמן לאסרו, עש"ך י"ד רסקכ"ז], או שיש לו להעד מגו לאסרו בידים עכשיו. אבל בב' לטבותא, שאין הדבר שלו, וגם אין לו להעד מגו, אז אין ע"א נאמן לאסור דבר של חבירו, רק בשא"ל העד לבעלים נאסר הדבר לפניך, אז אם הבעלים שתקו להעד ולא הכחישוהו תכ"ד, אמרינן שתיקה כהודאה דמיא, ואינו יכול לומר אח"כ איני מאמינך. רק בשמכחישו אח"כ, ואומר עתה נודע לי בבירור שאתה משקר, אז אין העד נאמן. אבל בשלא א"ל העד בתחלה נאסר לפניך, אפילו שתקו הבעלים בתחלה, מצי השתא הבעלים לומר להעד שמא משקר אתה, ואין העד נאמן. מיהו אם בלבו באמת מאמין להעד, אפילו מכחישו בפה, לא מהני רק ביי"נ [רמ"א י"ד רסיקכ"ז]. וי"א דגם היכא דבעלים באמת מסופק אם הגדת העד אמת, אפילו לא א"ל נאסר לפניך, נאמן העד [ש"ו קכ"ז סקט"ז]:
+
+
+
+### Seif 3
+
+###### Yachin on Mishnah Keritot 3:3:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:3:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:3:1)
+
+
+**מביא אשם תלוי**
+ מיירי נמי בשתק להעדות. חבל באמר איני יודע פטור גם מאשם תלוי [וערלח"מ פ"ח דשגגות ה"ג, שגם הרמב"ם*) אפשר דס"ל כן]. מיהו דוקא שב' העדים שמכחישין זא"ז באו כאחת*). אבל בבאו זה אח"ז, הראשון נאמן, דכל מקום שהאמינה תורה ע"א, נאמן כב', ואין העד האחרון נאמן תו נגדו:
+
+
+
+### Seif 4
+
+###### Yachin on Mishnah Keritot 3:4:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:4:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:4:1)
+
+
+**והוא אומר לא אכלתי**
+ ואפילו משיב רק איני יודע, וכלעיל:
+
+
+
+### Seif 5
+
+###### Yachin on Mishnah Keritot 3:5:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:5:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:5:1)
+
+
+**רבי מאיר מחייב**
+ וממשכנין אותו להביא חטאתו. דאע"ג דכל חייבי חטאות ואשמות אין ממשכנין אותן, הכא ממשכנין, מדהו"ל כנזיר שנזרק בעבורו א' מהדמים בקרבנותיו, דמדהותר אז ביין, להכי ממשכנין אותו להביא גם חטאתו, דמדאין חטאתו בא לו לכפרה או לשום צורך, חיישינן שמא פשע [כערכין כ"א א']. א"כ ה"נ כיון דאמר לא אכלתי, בין שמתכוון שלא אכל כלל, או שר"ל לא אכלתי שוגג אלא מזיד. ודאי לא יביא החטאת, כדי שלא יהיה חולין בעזרה, והרי אינו נאמן בדבריו לר"מ, להכי ממשכנין אותו:
+
+
+
+### Seif 6
+
+###### Yachin on Mishnah Keritot 3:6:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:6:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:6:1)
+
+
+**אמר רבי מאיר אם הביאוהו שנים למיתה חמורה**
+ כשיעידו שעשה במזיד דבר שחייב עליו מיתה:
+
+
+
+### Seif 7
+
+###### Yachin on Mishnah Keritot 3:7:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:7:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:7:1)
+
+
+**אמרו לו מה אם ירצה לומר מזיד הייתי**
+ ר"ל אם רוצה יכול לומר מזיד הייתי, דאז פטור מקרבן, והעדים א"א שיכחישוהו בזה, דלא ידעו מה בלבו. ואע"ג דהו"ל מגו במקום עדים דלא אמרינן, בין שטענתו או המגו יהיה נגד הגדת העדים [כש"ך ח"מ פ"ב כלל ה' במגו]. י"ל דר"ל דמתרצינן דיבוריה, שכך כוונתו לא אכלתי שוגג רק מזיד. ואע"ג דאין אדם משים עצמו רשע, מדהוא קרוב לעצמו, וקרוב פסול לעדות [כסנהדרין ד"ט ב']. היינו למה שנוגע לגופו, לחייב גופו שום עונש הגוף, או לפסול גופו מלהיות עד. אבל להתחייב א"ע ממון, אדרבה העדאת בעל דין כמאה עדים דמי. ומכ"ש הכא דנאמן שמזיד היה ואינו רוצה להביא חולין לעזרה [ועי' ר"ן שבועות דשטרא]. ור"מ ס"ל אפילו מתרץ דבוריה בפירוש אח"כ ואומר לא אכלתי שוגג רק במזיד, חייב, מדלא השיב כן מתחלה:
+
+
+
+### Seif 8
+
+###### Yachin on Mishnah Keritot 3:8:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:8:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:8:1)
+
+
+**אכל חלב וחלב**
+ ר"ל ב' זיתי חלב:
+
+
+
+### Seif 9
+
+###### Yachin on Mishnah Keritot 3:9:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:9:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:9:1)
+
+
+**בהעלם א'**
+ אבל באכלן בב' העלמות, שנעלם ממנו שזה חלב או שחלב אסור, ואכל כזית, ונודע לו אח"כ שאכל איסור, וחזר ונעלם ממנו כבתחלה, וחזר ואכל, ונודע לו אח"כ שאכל שוב איסור, קיי"ל דהעלמות מחלקות וחייב ב' חטאות:
+
+
+
+### Seif 10
+
+###### Yachin on Mishnah Keritot 3:10:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:10:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:10:1)
+
+
+**וחזר ואכל כחצי זית**
+ ולא שהה ביניהן בכדי אכילת פרס [כמשנה ג'], וגם לא היה ידיעה בינתיים שזהו חלב, דאל"כ ידיעות מחלקות, ויש ידיעה גם לחצי שיעור.
+
+
+
+### Seif 11
+
+###### Yachin on Mishnah Keritot 3:11:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:11:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:11:1)
+
+
+**חייב**
+ ואפילו היה מב' מיני תבשיל, אין תמחויין מחלקין:
+
+
+
+### Seif 12
+
+###### Yachin on Mishnah Keritot 3:12:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:12:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:12:1)
+
+
+**וכמה ישהה האוכלן**
+ ר"ל האוכל ב' חצאי זיתים דאמרן דמצטרפין:
+
+
+
+### Seif 13
+
+###### Yachin on Mishnah Keritot 3:13:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:13:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:13:1)
+
+
+**כאילו אכלן קליות**
+ ר"ל אם שההמתחלת אכילתו ועד לבסוף, עד כדי שאם היה כל הזית פירורין דקין כקליות, והם גרעיני חיטים קלויין, שדרך לאכלן א' א', ה"נ אם היה אוכל הפירורים א' א' תיכף זה אחר זה, כבר היה אוכלן בזה הזמן, חייב. ובשהה באכילתו יותר מזה השיעור, פטור. מיהו אם לא הפסיק באכילתו, רק שהה בלעיסתו ובליעתו, אפילו כל היום כולו, מצטרף לר"מ:
+
+
+
+### Seif 14
+
+###### Yachin on Mishnah Keritot 3:14:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:14:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:14:1)
+
+
+**וחכמים אומרים עד שישהה מתחלה ועד סוף כדי אכילת פרס**
+ ר"ל אפילו לא הפסיק בין אכילה לאכילה, רק שהה בלעיסה ובליעה מתחלה ועד סוף יותר מכדי אכילת פרס, אין מצטרף, ובפחות מכאן מצטרף. וה"ה בשתיית משקין אסורין, אם שהה בין שתייה לשתייה רק כדי אכילת פרס, חייב. [כך מוכח מש"ס הכא. ולרמב"ם [פי"ד מצו"א ה"ח], בשתייה שיעור השהייה ברביעית, וצ"ע. ותי' רכ"מ דחוק מאוד אחמ"כ למעיין בש"ס הכא]. מיהו שיעור פרס בכל דוכתא לרש"י ד' ביצים ולרמב"ם ג' ביצים [ועי' מ"ש עירובין פ"ח סי' י"א]. ואפילו היה האיסור מעורב בתבשיל היתר ג"כ כך דינו, דכשהכזית מעורב בהיתר כשיעור פרס, מצטרף לחיוב כרת, וחטאת, ומלקות [רמב"ם פט"ו ממ"א ה"ג]. ולרש"י דוקא בשהממשות איסור קיים, אבל כשנמוח האיסור בתערובת ההיתר, אז אפילו יש כזית בכדא"פ, טעם כעיקר לאו דאורייתא [רק בבו"ח כשנתערב אוכל באוכל, לכ"ע טעם כעיקר דאורייתא. אבל באוכל שנבלע בכלי י"ל דאף בבו"ח לאו דאורייתא, מדהו"ל נ"ט בר נ"ט [פרי מגדים י"ד בפתיחה לבו"ת]. ולרבינו אליהו בכל כזית בכדא"פ לקי בשאכל כזית מהתערובות, [עי' רלח"מ פט"ו ממ"א ה"א]:
+
+
+
+### Seif 15
+
+###### Yachin on Mishnah Keritot 3:15:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:15:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:15:1)
+
+
+**אכל אוכלין טמאין**
+ או שתה וכו':
+
+
+
+### Seif 16
+
+###### Yachin on Mishnah Keritot 3:16:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:16:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:16:1)
+
+
+**ושתה משקין טמאין**
+ דבאכל אוכלין טמאין כשיעור חצי פרס, או שתה משקין טמאין רביעית, ולא שהה באכילתו או שתייתו יותר מכדי אכילת פרס, נפסל גווייתו מלאכול קודש או תרומה עד שיטבול. או שתה וכו':
+
+
+
+### Seif 17
+
+###### Yachin on Mishnah Keritot 3:17:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:17:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:17:1)
+
+
+**ונכנס למקדש**
+ ר"ל לחצר המקדש ועבד עבודה, והרי שתוי יין שעבד חייב מיתה בידי שמים ועבודתו פסולה. אבל בנכנס מהמזבח ולפנים ולא עבד עבודה, פטור ממיתה. ולרמב"ם [פ"א מביאת מקדש] חייב עכ"פ מלקות. ולראב"ד שם פטור גם ממלקות:
+
+
+
+### Seif 18
+
+###### Yachin on Mishnah Keritot 3:18:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:18:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:18:1)
+
+
+**ושהה**
+ באמצע האכילה או השתייה:
+
+
+
+### Seif 19
+
+###### Yachin on Mishnah Keritot 3:19:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:19:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:19:1)
+
+
+**כדי אכילת פרס**
+ אז מצטרף, דבאכל אוכלין או שתה משקין טמאין, נפסל גוויתו מלאכול קודש או תרומה. ובשתה יין ועבד, עבודתו פסולה, וחייב מיתה בידי שמים. אבל בשהה באמצע יותר מכדי אכילת פרס, לא נפסל גופו כשאכל טומאה, ואינו חייב מיתה, ולא פוסל עבודתו כשעבד שתוי:
+
+
+
+### Seif 20
+
+###### Yachin on Mishnah Keritot 3:20:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:20:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:20:1)
+
+
+**רבי אליעזר אומר אם הפסיק בה**
+ שלא שתה כל הרביעית יין בבת אחת:
+
+
+
+### Seif 21
+
+###### Yachin on Mishnah Keritot 3:21:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:21:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:21:1)
+
+
+**או שנתן לתוכו מים כל שהוא**
+ שנתן מעט מים בהיין:
+
+
+
+### Seif 22
+
+###### Yachin on Mishnah Keritot 3:22:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:22:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:22:1)
+
+
+**פטור**
+ כשנכנס למקדש ועבד עבודה, פטור, דדרך שכרות בעינן. מיהו בשתה יותר מרביעית. אפילו לא שתהו כולו כאחת, או שנתן בו מעט מים, חייב מיתה, ופוסל העבודה [רמב"ם פ"א מביאת מקדש]. ולראב"ד שם בהך גוונא חייב רק מלקות:
+
+
+
+### Seif 23
+
+###### Yachin on Mishnah Keritot 3:23:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:23:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:23:1)
+
+
+**וחייב עליה ארבע חטאות ואשם אחד**
+ נ"ל דבהך מתני' וכמו כן בכולהו מתני' עד סוף פרקן, קמ"ל דאפשר דאיסור חל על איסור בין באכילות או בעילות, בג' אופנים, בכולל, מוסיף, או בת אחת:
+
+
+
+### Seif 24
+
+###### Yachin on Mishnah Keritot 3:24:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:24:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:24:1)
+
+
+**וביום הכפורים**
+ דחייב ד' חטאות. משום חלב. ומשום שאכל קודש בטומאת הגוף. ומשום שאכל נותר. ומשום שאכל ביו"כ. וחייב גם אשם מעילות משום שמעל בהקדש כשאכלו. ואע"ג דבאוכל הקדש שאינו שוה כלום אין בו מעילה [פסחים דכ"ט], א) והכא מדהו"ל נותר אסור בהנאה. י"ל דהתם היינו שצריך שיהיה הקודש מצד עצמו שוה פרוטה אילו היה חולין. תדע דאל"כ מעילה בכל קודש היכא משכחת לה, והרי אסור בהנאה. ועי' [כריתות דכ"ג ע"א]. ואע"ג דבכל דוכתא אין איסור חל על איסור. אפ"ה חייב הכא על כל איסור קרבן, דמיירי שהיה כאן או כולל או מוסיף או בת אחת. כיצד. מתחלה כשנולדה הבהמה היה אסור רק חלבה. אקדשה חל איסור מעילה על החלב באיסור כולל, דמדאיתוסף איסור הנאה גם בכל גוף הבהמה, נכלל נמי בהך איסור גם הנאת אכילת החלב שימעול ג"כ כשאכלו, אף שאכילתו כבר אסור היה. ולהכי חייב קרבן מעילה כשאכל החלב, מלבד החטאת שהיה חייב באכילתו תחלה. וכשנטמא אח"כ האדם שאכלו, הו"ל תו איסור כולל, דמקודם שנטמא לא היה אסור באכילת בשר קודש טהור, והשתא שנטמא, נאסר גם בו, ומגו דנאסר בו, נאסר גם בהחלב הזה באיסור טומאת הגוף, אף שכבר היה אסור מתחלה. וכשנעשה החלב הזה אח"כ נותר, הו"ל תו איסור מוסיף, דקודם שנעשה נותר היה החלב הזה עכ"פ מותר לגבוה, והשתא כשנתותר נאסר גם להקריבו לגבוה. ולהכי מדחל איסור נותר על החלב לאסרו לגבוה, חל נמי אהדיוט. חל ליה יו"כ הו"ל תו איסור כולל, דמדנאסר השתא זה האדם מלאכול כל מאכל שבעולם, נאסר גם בחתיכה זו:
+
+
+
+### Seif 25
+
+###### Yachin on Mishnah Keritot 3:25:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:25:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:25:1)
+
+
+**והוציאו בפיו**
+ שהוציאו בפיו בשעת האכילה כדרכו מרה"י לר"ה. דאילו בהוציאו בפיו שלא בשעת אכילה, אין דרך הוצאה בכך ופטור [כשבת פ"י מ"ג]:
+
+
+
+### Seif 26
+
+###### Yachin on Mishnah Keritot 3:26:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:26:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:26:1)
+
+
+**חייב**
+ דבליעתו היא הנחתו. ולפי מה דקיי"ל [א"ח תרי"א] דיש חיוב הוצאה גם ביו"כ, נקט שאם היה שבת, ר"ל דאם חל יו"כ בשבת, חייב ג"כ עוד ב' חטאות משום הוצאה, משום שבת ומשום יו"כ, דאיסור חל על איסור בשחלין שניהן בבת אחת, והרי כשקידש היום חלו שניהן כא':
+
+
+
+### Seif 27
+
+###### Yachin on Mishnah Keritot 3:27:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:27:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:27:1)
+
+
+**אמרו לו אינו מן השם**
+ ר"ל אין חיוב חטאת זה משום שם אכילה, רק משום הוצאה, ולהכי לא חשבינן ליה, כמו דלא חשבינן שאר פעולה שעשה בשעה שאכל, כגון שהבעיר אש ביו"כ בשעה שאכל, וכדומה. ור"מ חשיב ליה, דעכ"פ באותו כזית חלב שאכל ובאותה פעולה כשהיתה בפיו, נתרבו חיובי החטאת. [אב"י ל"מ נ"ל להוסיף על דברי קדשו של ע"ר, דר"מ ס"ל דכיון דאינו חייב בהוציאו בפיו רק באוכל. ובדרך אכילה, א"כ בכה"ג שם הוצאה תלוי בעניין האכילה, ועי' מ"ש בס"ד שבת פ"י סי' ט"ו]:
+
+
+
+### Seif 28
+
+###### Yachin on Mishnah Keritot 3:28:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:28:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:28:1)
+
+
+**ונדה**
+ יעקב בא על אמו והולידה בת, הרי הבת הזאת בתו, ואחותו מאמו, וב' האיסורין באין כא' כשנולדה. נשאה אחיו, [אב"י, מאב, דאי מאם, הרי הבת הזאת אחותו מאם, ואין קדושין תופסין בה] דאע"פ שהיא ממזרת, אפ"ה קדושין תופסין בה, ולהכי חזרה ונאסרה על יעקב משום אשת אחיו אף לאחר שיפקע ממנה איסור א"א מדהו"ל איסור מוסיף, דמתחלה לא היתה אסורה רק על יעקב, והשתא שנשאת לאחיו נאסרה גם לשאר אחיו. ואי"ל הרי מתחלה ג"כ היתה אסורה לכל אחיו של יעקב משום ממזרת. ואע"ג דממזרת רק בלאו, והשתא נאסרה לאחיו משום אשת אח שהיא בכרת. עכ"פ הרי קיי"ל דגם חמור לא חל על הקל. י"ל דמיירי שיש ליעקב אח ממזר, שהיתה מותרת לו בתחלה, והשתא ע"י שנשאה אחי יעקב נאסרה גם להממזר. מת אחיו שנשאה, או גרשה, ונשאה אחי אביו של יעקב, הרי איסור אשת אחי אביו ואיסור אשת איש באין כאחת. ושניהן איסור מוסיף על האיסורין הקודמין, דאיסור אשת איש מוסיף, שנאסרה אכ"ע ע"י נשואין אלו כל ימי חיי בעלה. ואיסור אשת אחי אביו מוסיף, שנאסרה השתא לעולם ע"י נשואין אלו גם על אחי בעלה שהיתה מותרת להן בתחלה. חזרה ופרסה נדה, חל איסור נדה על כל האיסורין הקודמין ע"י איסור מוסיף, מדנאסרה השתא גם על בעלה. ולהכי כשבעל אותה יעקב אביה בנדתה בשגגת כולן, חייב ו' חטאות. אבל טפי מהנך ו' חטאות לא משכח"ל [מיהו כשבעלה במזיד והתראה אפשר שיתחייב שבע מלקיות, מדהיתה ג"כ ממזרת]:
+
+
+
+### Seif 29
+
+###### Yachin on Mishnah Keritot 3:29:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:29:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:29:1)
+
+
+**ואשת איש ונדה**
+ יעקב היה לו בת ושמה דינה, ולבן היה לו בת ושמה לאה. נשא לבן את דינה, ויעקב נשא לאה, והוליד לבן מדינה בת יעקב בת, ושמה רחל. נשא ראובן בן יעקב את רחל, בת דינה אחותו, שהיא נכד יעקב. מת ראובן או גרשה, ונשאה אחיו של יעקב. חזר ומת אחיו של יעקב או גרשה, ונשאה אחי אביו של יעקב. חזרה רחל ופרסה נדה. א"כ כשבא עליה יעקב אז, חייב עליה ז' חטאות, (א) משום בת בתו, (ב) משום אחות אשתו, דהרי רחל ולאה אשתו, שתיהן הן בנות לבן, וכשנולדה רחל חלו ב' האיסורים כא' על יעקב, (ג) ומשום איסור כלתו דאתוסף עלה איסור קרובות לגבי כל אחי ראובן ע"י נשואין הללו, (ד) ואיסור אשת אחיו, (ה) ואיסור אשת אחי אביו, (ו) וא"א [שג"כ חלו ב' אלו כאחד], (ז) איסור נדה. וכל א' מאלו הז' האיסורים, מוסיף איסור עליה מבני אדם שהיתה מותרת להן תחלה קודם שחל האיסור ההוא כלעיל סי' כ"ח:
+
+
+
+### Seif 30
+
+###### Yachin on Mishnah Keritot 3:30:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:30:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:30:1)
+
+
+**אם עבר הזקן**
+ אביו של יעקב, שבת בת בנו אסורה לו רק מדרבנן ותפסו קדושין:
+
+
+
+### Seif 31
+
+###### Yachin on Mishnah Keritot 3:31:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:31:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:31:1)
+
+
+**ונשאה**
+ אחר שמת אחי אביו של יעקב:
+
+
+
+### Seif 32
+
+###### Yachin on Mishnah Keritot 3:32:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:32:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:32:1)
+
+
+**חייב עליה**
+ יעקב:
+
+
+
+### Seif 33
+
+###### Yachin on Mishnah Keritot 3:33:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:33:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:33:1)
+
+
+**משום אשת אב**
+ דמדאתוסף ברחל איסור להבן האחר של הזקן כשנשאה הזקן, נאסרה ג"כ על יעקב משום אשת אב. ואת"ל עכ"פ מה עדיף אותו בן של הזקן מיעקב, כמו דביעקב אי אפשר שיחול איסור אשת אב עליו מדכבר היתה אסורה עליו משום אשת אחי אביו גם קודם שנשאה הזקן, כמו כן אותו הבן של זקן כבר היתה האשה זאת אסורה עליו משום אשת אחי אביו גם קודם שנשאה הזקן, ואיך יחול על הבן ההוא איסור אשת אב בזאת האשה. נ"ל דמה"ט באמת הטעים הרמב"ם בפירושו וכתב כגון דאתיליד ליה בן קטן לסבא וכו'. ור"ל שנולד להזקן אותו בן, אחר מיתת אחי אביו. וא"כ תיכף כשיגדל זה הבן הקטן יחול עליו איסור אשת אחי אביו, ואיסור אשת אביו, ואיסור אשת איש בבת אחת. ואת"ל האיך יתחייב בה יעקב משום אשת אביו, הרי לא תפסי בה קידושין של אביו, מדהיתה אשת אחיו של הזקן, דהרי מחייבת ליעקב משום אשת אחי אביו. י"ל דמיירי שנפלה לפני הזקן ביבום. ואת"ל א"כ מותרת היא לזקן, ולמה תני עבר הזקן. י"ל דאף שמותר מדאורייתא ליבמה, עכ"פ אסורה לזקן מדרבנן מדהיא בת בת בנו, וגם מדהיא כלת בנו, מדנשאה ראובן בן יעקב. ואת"ל עכ"פ גם כלתו ממש היא להזקן, דהרי מחייבת ליעקב משום אשת אח, ולא תפסו בה קדושין להזקן. י"ל דמיירי שנשאת לאחיו של יעקב מאם ולא מאב, דאז אינה כלתו של זקן, רק אשת בן אשתו, ומותרת להזקן:
+
+
+
+### Seif 34
+
+###### Yachin on Mishnah Keritot 3:34:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:34:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:34:1)
+
+
+**ועל בת בת אשתו**
+ דבבת אשתו אפשר שיתחייב ו' חטאות כמו שחייב לעיל בבתו. ובבת בת אשתו אפשר שיתחייב ז' חטאות כמו שחייב לעיל בבת בתו. כיצד. בת אשתו אפשר שתהיה אחותו. כגון שאביו של יעקב אנס או פתה אשה, וילדה לו רחל, ונשא יעקב אנוסת או מפותת אביו שמותרת לו [כאה"ע ט"ו ס"ה]. והרי רחל שילדתה האנוסה לאביו, היא (א) בת אשתו של יעקב. (ב) ואחיתו. (ג) חזר אחיו של יעקב מצד אם ונשא את רחל, הרי היא גם אשת אחיו. (ד) גרשה האח של יעקב או מת, ונשאה אחי אביו של יעקב, הרי נעשת גם אשת אחי אביו. (ה) וגם אשת איש. (ו) וכשפרסה נדה אסור ג"כ משום נדה, וכולן מוסיף, או בת א'. ונמצא כשבא אז יעקב עליה בשוגג חייב ו' חטאות. וכן בבת בת אשתו, משכחת לה שתהיה אחות אשתו. כגון לבן שבא על בת לאה בתו, והוליד רחל. ונשא יעקב את לאה, נמצאת רחל (א) בת בת אשתו של יעקב. (ב) ואחות אשתו של יעקב. (ג) נשא בנו של יעקב מאשה אחרת את רחל, הרי היא ג"כ כלתו. (ד) מת בנו אי גרשה, ונשאה אחי יעקב. (ה) חזר גם זה ומת או גרשה, ונשאה אחי אביו של יעקב. (ו) והרי היא אשת איש. (ז) ונדה. נמצא כשבא יעקב עליה אז בשוגג, חייב ז' חטאות כמו בבת בתו לעיל. [ונ"ל דה"ה דהוה מצי למנקט כל הנך ז' חטאות בבת אשתו, כגון לבן שבא על לאה בתו והוליד רחל, ונשא יעקב את לאה, נמצאת רחל (א) בת אשחו (ב) ואחות אשתו של יעקב. (ג) נשא בנו של יעקב מאשה אחרת את רחל, הרי היא וכו', הכל כמו שזכרנו אצל בת בת אשתו. אלא דניחא ליה לתנא למנקט הז' חטאות אלו בבת בת אשתו, כדי שיהיה דוגמת ז' חטאות דלעיל. דלא משכח"ל רק בבת בתו, כמו שבארנו, ה"נ נקט דוגמתן בבת בת אשתו]:
+
+
+
+### Seif 35
+
+###### Yachin on Mishnah Keritot 3:35:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:35:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:35:1)
+
+
+**ונדה**
+ כגון לבן בא על לאה בתו וילדה בת. נשא יעקב אותה בת, הרי לאה חמה אסורה על יעקב (א) משום חמותו. (ב) ומשום אחות אשתו. (ג) נשאת לאה לבן יעקב, הרי נאסרה שוב על יעקב משום כלתו. (ד) מת בן יעקב או גרשה, ונשאה אח של יעקב, הרי נאסרה שוב על יעקב משום אשת אחיו. (ה) מת גם זה או גרשה, ונשאה אחי אביו של יעקב, הרי חזרה ונאסרה משום אשת אחי אביו. (ו) והרי היא א"א. (ז) ופרסה נדה. נמצא כשבא יעקב עליה אז בשוגג חייב ז' חטאות. [כך פירשתי לדעת הר"ב ז"ל אמנם לא ידענא ל"ל להר"ב לתאר זה באופן איסור הרי הכל משכח"ל באופן המותר. כגון לאה ורחל אחיות, וללאה בת ושמה דינה, נשא יעקב את דינה, וראובן בן יעקב נשא את לאה, הרי לאה אסורה על יעקב משום כלתו ומשום חמותו, מתה דינה אשת יעקב, ונשא תחתיה את רחל אחות לאה הרי שוב נאסרה לאה על יעקב משום אחות אשתו**), שוב מת ראובן בן יעקב, ונשאת לאה לעשו אחי יעקב. שוב מת גם עשו, ונשאת לאה שוב לישמעאל אחי אבי יעקב, והיא עכשיו א"א ונדה, והרי כאן כל הז' חיובי כרת בכל נשואי ההיתר].
+
+
+
+### Seif 36
+
+###### Yachin on Mishnah Keritot 3:36:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:36:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:36:1)
+
+
+**וכן הבא על אם חמותו**
+ כגון לבן בא על בת לאה בתו והולידה רחל, ונשא יעקב את רחל, נמצאת לאה אסורה על יעקב (א) משום אם חמותו (ב) ומשום אחות אשתו, דהרי לאה ורחל שתיהן בנות לבן. וב' איסורים אלו באין כאחת, כשנשא יעקב את רחל. (ג) נשאת לאה לבן יעקב, הרי נאסרה נמי ליעקב משום כלתו, דהו"ל איסור מוסיף אאסורים הקודמין, מדנאסרה השתא גם לשאר בני יעקב שהיתה מותרת להם תחלה. (ד) מת בן יעקב או גרשה, ונשאת לאח יעקב, הרי נאסרה תו על יעקב משום אשת אחיו, והו"ל תו איסור מוסיף מדנאסרה ע"י נשואין זו לשאר אחיו. (ה) מת גם זה או גרשה, ונשאה אח אבי יעקב. הרי נאסרה תו על יעקב משום אשת אחי אביו, דהו"ל ג"כ איסור מוסיף, מדנאסרה בנשואין זו גם על שאר אחי אביו של יעקב. (ו) והרי היא אשת איש, דהו"ל איסור מוסיף, מדנאסרה אכ"ע. (ז) ופרסה נדה, דהו"ל מוסיף, מדנאסרה עי"ז גם אבעלה. נמצא כשבא יעקב אז על לאה בשוגג, חייב עליה שבע חטאות:
+
+
+
+### Seif 37
+
+###### Yachin on Mishnah Keritot 3:37:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:37:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:37:1)
+
+
+**ועל אם חמיו**
+ לבן בן לאה בא על זקנתו חוה אם לאה, והולידה בת ושמה רחל. נשא יעקב את רחל, הרי לבן אביה הוא חמיו, ונאסרה לאה על יעקב (א) משום אם חמיו. (ב) ומשום אחות אשתו, דהרי לאה ורחל שתיהן בנות חוה. (ג) נשאת לאה לבן יעקב, נעשת ליעקב כלתו. (ד) מת בן יעקב ונשאה אח יעקב. הו"ל אשת אחיו. (ה) מת גם זה, ונשאה אח אבי יעקב, הו"ל אשת אחי אביו ליעקב. (ו) והרי היא א"א. (ז) ופרסה נדה, נמצא כשבא עליה יעקב בשוגג חייב ז' חטאות:
+
+
+
+### Seif 38
+
+###### Yachin on Mishnah Keritot 3:38:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:38:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:38:1)
+
+
+**ואם חמיו**
+ חוה היה לה ב' בנות רחל ולאה, ובן א' ושמו לבן. ובא יעקב ונשא רחל, ואת בת לאה, ואת בת לבן, הרי חוה אסורה על יעקב. (א) משום חמותו. (ב) ומשום אם חמותו, מדנשא גם בת לאה. (ג) ומשום אם חמיו, מדנשא גם בת לבן בן חוה:
+
+
+
+### Seif 39
+
+###### Yachin on Mishnah Keritot 3:39:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:39:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:39:1)
+
+
+**אמרו לו שלשתן שם אחד הן**
+ דמחד קרא נפקא כולהו, ולהכי אין חילוק חטאות ביניהן:
+
+
+
+### Seif 40
+
+###### Yachin on Mishnah Keritot 3:40:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:40:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:40:1)
+
+
+**אמר רבי עקיבא שאלתי את רבן גמליאל ואת רבי יהושע באטלס**
+ שוק שמוכרין שם בהמות ובשר,
+
+
+
+### Seif 41
+
+###### Yachin on Mishnah Keritot 3:41:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:41:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:41:1)
+
+
+**של אמאום**
+ שם מקום:
+
+
+
+### Seif 42
+
+###### Yachin on Mishnah Keritot 3:42:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:42:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:42:1)
+
+
+**שהלכו ליקח בהמה למשתה בנו של רבן גמליאל**
+ קמ"ל דאף שהיה הנשיא טרוד בנשואי בנו. והוא במקום המון שבשוק, וגם האב"ד הוה עמו, אפ"ה לא חשש ר"ע מלשאל מהם שם דינים אלו שאינם מצויים, בידעו בהן שבענוותנותן לא יקפידו עליו בזה. וקמ"ל נמי שהם ג"כ לא נתביישו שם במקום מפורסם לומר על כולן לא שמענו. ללמדך שבכל עסקיהם היה רק תורת ה' חפצם, ויראתו על פניהם [ואעפ"כ היו שאלותיו קצת מעניין עסקיהן, דבנשואין יברכו וצונו על העריות. להכי שאלן בדיני עריות, ומדהלכו לקנות בהמה להכי שאלן נמי בדיני אבר המדולדל בבהמה, ומדרגילין לזבוח אז שלמי שמחה שאלן בשוחט ה' זבחים]:
+
+
+
+### Seif 43
+
+###### Yachin on Mishnah Keritot 3:43:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:43:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:43:1)
+
+
+**או אחת על כל אחת ואחת**
+ אי בגופין מחולקין, הרי גם שמות מחולקין היו, ופשיטא דחייב ג' חטאות, ומה קמבעייא ליה. אלא כגון ראובן שבא על אמו לאה, והוליד ב' בנות, רחל ודינה. חזר ובא על רחל בתו והוליד שמעון, הרי כשבא שמעון על דינה, יש כאן משום אחותו, משום דדינה ושמעון שניהן בני ראובן. והיא ג"כ אחות אביו, משום שראובן ודינה שניהן בני לאה. והיא ג"כ אחות אמו, דהרי דינה ורחל ג"כ שתיהן בנות לאה. [כך הוא אוקימתא בש"ס, ובאמת הוה מצי למנקט באופן שרחל אם שמעון אינה ממזרת, ואפ"ה תהיה דינה אחותו, ואחות אביו, ואחות אמו. כגון שלאה היה לה בנים, ראובן ורחל, ובא ראובן על לאה אמו והוליד דינה. וחזר ובא על אחותו רחל הכשירה והוליד שמעון, הרי דינה לשמעון אחותו [מאב], ואחות אביו [מאם], ואחות אמו [מאם]. רק משום דבעי למנקט כל מיני אחוה, דהרי דינה היא אחות שמעון מאב ולא מאם. ודינה אחות ראובן מאם ולא מאב. ולהכי נקט נמי שרחל היא בת ראובן מלאה, כדי שתהיה דינה לרחל אחותה מאב ומאם, דהרי שניהן הם בנות ראובן ולאה, דקמ"ל דאפילו בכה"ג מבעייא ליה אם חל על אינך, אף דשוה לכל א' בחד צד]:
+
+
+
+### Seif 44
+
+###### Yachin on Mishnah Keritot 3:44:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:44:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:44:1)
+
+
+**ורואין אנו שהדברים קל וחומר**
+ דמה בה' נדות שהן רק שם א', דהיינו לאו א', אפ"ה בעשאן בהעלם א' חייב ה', מכ"ש בשאלתך, שהן ג' לאוין מחולקין, אינו דין שיתחייב על כל א' וא'. מיהו הך ק"ו פריכא הוא דבנדות גופין מחולקין, משא"כ בשאלתו היה הכל גוף א'. [ולפעד"נ דאפ"ה הם שלמדו הק"ו לא פרכו הך פירכא, משום דטפי מסתבר לחלק בין החיובים משום דשמות מחולקין ממה שנחלק משום דגופות מחולקין, דהרי לשמות מחולקין לא צריך קרא לחלק, משא"כ לגופות מחולקין צריך קרא [כריתות ד"ט א']. אשה לחייב על כל אשה ואשה. ומכ"ש אי נימא מה"ט דבבהמה דלא חשיבי, באמת לא אמרינן דגופות מחלקין. ועי' מ"ש לקמן סי' ס"ח]. אלא דבלאו הכי חייב בשאלת ר"ע ג' חטאות מדרבייה קרא, דאחותו יתירא כתיב:
+
+
+
+### Seif 45
+
+###### Yachin on Mishnah Keritot 3:45:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:45:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:45:1)
+
+
+**ועוד שאלן רבי עקיבא אבר המדולדל בבהמה**
+ שנתלש רוב האבר ומעורה במקצת. דבנתלש כולו, הרי אבר מהחי של בהמה מטמא כנבילה.
+
+
+
+### Seif 46
+
+###### Yachin on Mishnah Keritot 3:46:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:46:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:46:1)
+
+
+**מהו**
+ שיטמא כנבילה, מי הוה כנתלש לגמרי, והו"ל כאמה"ח, או לא:
+
+
+
+### Seif 47
+
+###### Yachin on Mishnah Keritot 3:47:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:47:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:47:1)
+
+
+**אמרו לו לא שמענו אבל שמענו באבר המדולדל באדם**
+ דבנתלש לגמרי, הו"ל אמה"ח של אדם דמטמא כמת. מיהו הכא עדיין מדולדל הוא:
+
+
+
+### Seif 48
+
+###### Yachin on Mishnah Keritot 3:48:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:48:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:48:1)
+
+
+**שכך היו מוכי שחין בירושלים עושין**
+ כשהוחלו בשחין רע, שאבריהן מתפרקין ונופלין:
+
+
+
+### Seif 49
+
+###### Yachin on Mishnah Keritot 3:49:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:49:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:49:1)
+
+
+**וחותכו**
+ לאו משום טהרה חתכו המצורעין האבר, דהרי האבר עצמו בעודו מחובר קצת, טהור הוא, רק חתכוהו, כדי שלא יתמאסו בין חבריהם ברגל באבר המדולדל:
+
+
+
+### Seif 50
+
+###### Yachin on Mishnah Keritot 3:50:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:50:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:50:1)
+
+
+**עד שהוא מניח בו כשעורה**
+ שאם יחתכו לגמרי, יטמא האבר להרופא שנוגע בהאבר בשעת פרישה:
+
+
+
+### Seif 51
+
+###### Yachin on Mishnah Keritot 3:51:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:51:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:51:1)
+
+
+**ותוחבו בסירה**
+ סירה הוא קוץ, כמו בור וסירה גרמא ליה [סנהדרין מ"ט א']. ור"ל שבעוד האבר מחובר באדם קצת, תוחב האבר בקוץ התקוע בקרקע או בכותל. [כך כתב רש"י. ונ"ל דלהכי לא יאחז הרופא בידו את הקוץ שבו תחוב האבר, בשפה שהמצורע נתלש בכח מהאבר, משום דאף שלא יתטמא הרופא עי"ז טומאת מגע, דהרי הקוץ אינו מקבל טומאה מדאינו מאכל אדם ולא כלי [עי' רמב"ם פ"א וב' מאוכלין]. עכ"פ אפ"ה לא אחז הרופא הקוץ בידו, דכשינתז המצורע ויתלש מהאבר, יהיה הרופא נושא את האמה"ח שמטמא במשא ואהל כמת כרמב"ם פ"ב מטו"מ ה"ג] ולרמב"ם בפי' משניות, סירה ר"ל רצועה, כמ"ש בני הגאב"ד דל"ב שליט"א בשמו. נ"ל דמצינו דוגמתו במשנה לבן הפוסק בסירה [בכורות דל"ח א'] דר"ל הרצועה, המקפת את בבת העין. מיהו לשון תוחב לא שייך ברצועה, דהול"ל קושרו בסירה]:
+
+
+
+### Seif 52
+
+###### Yachin on Mishnah Keritot 3:52:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:52:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:52:1)
+
+
+**והוא נמשך ממנו**
+ ר"ל אחר שתחב הרופא האבר בקוץ. החולה נמשך והולך, ונתלש האבר מאליו:
+
+
+
+### Seif 53
+
+###### Yachin on Mishnah Keritot 3:53:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:53:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:53:1)
+
+
+**והלה עושה פסחו**
+ גם החולה עושה פסחו, דמיירי שנתלש בכח בפעם א', שלא נגע בו האבר בשעת פרישה:
+
+
+
+### Seif 54
+
+###### Yachin on Mishnah Keritot 3:54:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:54:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:54:1)
+
+
+**והרופא עושה פסחו ורואין אנו שהדברים קל וחומר**
+ דמה אדם שמקבל טומאה מחיים וגם יש בו טומאה בחייו מעצמו כשהוא זב או מצורע, אפ"ה אבר המדולדל בו טהור, בהמה שאינה מקבלת טומאה מחיים, דאין שום בעל חי מקטו"מ [כחולין ע"ה א'], וגם אין בגופה טומאה בחייה, מכ"ש שהאבר המדולדל בה טהור וכן מסקינן חולין [פ"ט מ"ז]:
+
+
+
+### Seif 55
+
+###### Yachin on Mishnah Keritot 3:55:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:55:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:55:1)
+
+
+**או אחת על כל אחת ואחת**
+ דאע"ג דכבר שמעי' במשנה ב' האוכל חלב וחלב בהעלם אחד חייב רק א', התם אפשר לאוקמא דכולן מבהמה א', וקמ"ל הכא בגופים מחולקים דאינו כן:
+
+
+
+### Seif 56
+
+###### Yachin on Mishnah Keritot 3:56:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:56:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:56:1)
+
+
+**אמרו לו לא שמענו**
+ אע"ג דכבר אמרו במ"ז דשמעו בבא על ה' נדות, שג"כ גופין מחולקין כי הכא, וחייב ה'. עכ"פ שמא יש לחלק בין אדם לבהמה [כלקמן סי' ס"ח]:
+
+
+
+### Seif 57
+
+###### Yachin on Mishnah Keritot 3:57:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:57:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:57:1)
+
+
+**אמר רבי יהושע שמעתי**
+ ר"ל אף שכשאלתך ממש שלא נהנה ברבוי הפעולות לא שמעתי, עכ"פ שמעתי ענין כיוצא בו כשנהנה ברבוי הפעולות, דהיינו באוכל מה' תמחויין, ולדידי אין אין חילוק בין נהנה או לא:
+
+
+
+### Seif 58
+
+###### Yachin on Mishnah Keritot 3:58:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:58:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:58:1)
+
+
+**באוכל מזבח אחד בחמשה**
+ קודם זריקה, דאז יש בה מעילה:
+
+
+
+### Seif 59
+
+###### Yachin on Mishnah Keritot 3:59:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:59:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:59:1)
+
+
+**תמחויים**
+ בה' מיני תבשיל:
+
+
+
+### Seif 60
+
+###### Yachin on Mishnah Keritot 3:60:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:60:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:60:1)
+
+
+**ורואה אני שהדברים קל וחומר**
+ דמה מעילה שהכל זבח וגוף א' חייב ה', דתמחויין מחלקין גבי מעילה [דאע"ג דגבי שאר חיובי חטאת אין תמחויין מחלקין. מעילה שאני דחמירא, כלקמן במתני', וכן כ' הרמב"ם פ"ט משגגות ה"ג]. ה' זבחים ששחטן בחוץ דגופין מחולקין, מכ"ש שחייב על כל א' א':
+
+
+
+### Seif 61
+
+###### Yachin on Mishnah Keritot 3:61:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:61:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:61:1)
+
+
+**אמר רבי שמעון לא כך שאלן רבי עקיבא**
+ דא"כ מה השיבו לו מאוכל, התם נהנה בכל אכילה ואכילה:
+
+
+
+### Seif 62
+
+###### Yachin on Mishnah Keritot 3:62:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:62:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:62:1)
+
+
+**ורואה אני שהדברים קל וחומר**
+ דהרי במעילה הכל גוף א' ורק תמחויין נפרדים. וכ"ש מה' זבחים, ואפ"ה אמר תחלה עם ר"ג לא שמענו, מדיש להשיב על זה כמו שהשיב באמת ר"ע:
+
+
+
+### Seif 63
+
+###### Yachin on Mishnah Keritot 3:63:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:63:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:63:1)
+
+
+**אמר רבי עקיבא אם הלכה**
+ שכך קבלת מרבך:
+
+
+
+### Seif 64
+
+###### Yachin on Mishnah Keritot 3:64:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:64:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:64:1)
+
+
+**ואם לדין**
+ שכך אתה דן מק"ו ממעילה:
+
+
+
+### Seif 65
+
+###### Yachin on Mishnah Keritot 3:65:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:65:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:65:1)
+
+
+**שעשה בה את המאכיל כאוכל**
+ המאכיל הקדש לחבירו, חייב המאכיל ולא האוכל על ידו:
+
+
+
+### Seif 66
+
+###### Yachin on Mishnah Keritot 3:66:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:66:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:66:1)
+
+
+**ואת המהנה כנהנה**
+ במידי דלאו בר אכילה, ג"כ המהנה חייב ולא הנהנה על ידו. וה"ה דהוה מצי למימר דמעילה חמור, שחייב בה הנהנה כהאוכל.
+
+
+
+### Seif 67
+
+###### Yachin on Mishnah Keritot 3:67:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:67:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:67:1)
+
+
+**צירף המעילה לזמן מרובה**
+ ר"ל ועוד חומרא יש במעילה שכשנהנה היום חצי פרוטה, ולאחר שנה חזר ונהנה חצי פרוטה, והכל בהעלם א', מצטרף שיהיה כנהנה בשוה פרוטה יחד, שחייב קרבן מעילה:
+
+
+
+### Seif 68
+
+###### Yachin on Mishnah Keritot 3:68:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:68:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:68:1)
+
+
+**שאין בו אחד מכל אלו**
+ שאין בו א' מכל חומרות הנ"ל. וקיי"ל דבבהמות אין גופין מחלקין, ובאכל נותר מה' זבחים, בהעלם א' חייב רק חטאת א', וגם תמחויין אין מחלקין בין להקל בין להחמיר, דהיינו באכל ב' חצאי זיתים מב' גופין או מב' תמחויין מצטרף [כרמב"ם פ"ו משגגות. [וי"א דגם בבהמה גופין מחלקין. ועמ"ש לעיל פ"ב סי' ל"ד]:
+
+
+
+### Seif 69
+
+###### Yachin on Mishnah Keritot 3:69:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:69:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:69:1)
+
+
+**מה הוא**
+ שעשה הרבה תולדות שמאב א' בשבת זו, וחזר ועשה אותן התולדות עצמן בכל שבת ושבת שאח"כ, והכל היה בהעלם א', מה דינו. ותרתי שאל ממנו. (א) אם כל התולדות שעשה בשבת א' בהעלם א', מחשבו כאילו קצר וקצר בהעלם א', וחייב רק חטאת א', או דלמא דתולדות חלוקים הו"ל כאבות מחולקים וחייב על כל תולדה חטאת א'. (ב) עוד שאל, אם ימים שבינתים בין שבת לשבת הוויין כידיעה, וחייב על כל שבת ושבת לבד, או דלמא מדהיה הכל בהעלם א', מחייב על כל השבתות רק חטאת א':
+
+
+
+### Seif 70
+
+###### Yachin on Mishnah Keritot 3:70:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:70:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:70:1)
+
+
+**או אחת על כל אחת ואחת**
+ ופליגי בש"ס רבה ורב חסדא, דלרבה. מיירי שהיה ההעלם שגגת מלאכה וזדון שבת, ר"ל שלא ידע שמלאכות אלו אסורות בשבת אבל ידע כל פעם שהוא שבת, ועל זה שאל אם שבתות מחולקין כגופין מחולקין דמי או לא. אבל בשגגת שבת וזדון מלאכות, דהיינו שלא ידע שהוא שבת אבל ידע שמלאכות אלו אסורות, ידע ר"ע שפיר שימים שבינתיים, הויין כידיעה בינתיים, דחייב על כל שבת ושבת. ולרב חסדא, רק בשגגת שבת וזדון מלאכות שאל אם ימים שבינתיים הוה כידיעה בינתיים. אבל בידע שהוא שבת ושגג במלאכות ידע ר"ע שחייב על כל שבת ושבת חטאת לבד:
+
+
+
+### Seif 71
+
+###### Yachin on Mishnah Keritot 3:71:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:71:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:71:1)
+
+
+**אמר לי חייב על כל אחת ואחת**
+ פשט ליה אתרווייהו לחומרא, דחייב על כל תולדה ותולדה שעשה חטאת לבד, וכן לכל שבת ושבת.
+
+
+
+### Seif 72
+
+###### Yachin on Mishnah Keritot 3:72:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:72:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:72:1)
+
+
+**ומה אם הנדה**
+ בבא אל ה' נשים נדות בהעלם א' שלא ידע שנדה אסורה, דוגמת שלא ידע שמלאכות זו אסורות בשבת, ועשאה וחזר ועשאה [ולרב חסדא הנ"ל תשובת ר"א היה מבא על נדה א' ה' פעמים, וטבלה ונטהרה ופרסה נדה בין כל ביאה וביאה ה' פעמים. דטבילות שבינתיים בנדה הוה כימים בינתיים בשבת. דאי בה' נשים נדות ממש, היכא מצי למפשט מזה, דנימא בשבת ימים מחלקין. דמה ימים שבינתים איכא בה' נדות]:
+
+
+
+### Seif 73
+
+###### Yachin on Mishnah Keritot 3:73:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:73:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:73:1)
+
+
+**שאין בה תוצאות הרבה**
+ ר"ל שאין בה ענינים הרבה כשבת שיש בה אבות ותולדות, אבל נדה אין בה רק ביאה:
+
+
+
+### Seif 74
+
+###### Yachin on Mishnah Keritot 3:74:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:74:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:74:1)
+
+
+**וחטאות הרבה**
+ נ"ל דר"ל שאין בה הרבה מיני חטאת, דבשבת לא לבד שיש לכל אב תולדה, אלא יש ג"כ הרבה מיני אבות, ויש ג"כ זדון שבת ושגגת מלאכה, או שגגת שבת וזדון מלאכה. משא"כ בנדה, א"א שיתחייב רק על מין פעולה א' דהיינו ביאה ורק בשחישב שביאה זו מותרת לו.
+
+
+
+### Seif 75
+
+###### Yachin on Mishnah Keritot 3:75:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:75:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:75:1)
+
+
+**שבת שיש בה תוצאות הרבה וחטאות הרבה**
+ בש"ס גרסינן ומיתות הרבה:
+
+
+
+### Seif 76
+
+###### Yachin on Mishnah Keritot 3:76:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:76:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:76:1)
+
+
+**אינו דין שיהא חייב על כל אחת ואחת**
+ מיהו מהך ק"ו לא מפשט רק בעשה מלאכה א' בשבתות הרבה דחייב על כל שבת ושבת, אבל בעשה בשבת א' תולדות הרבה שמאב א' לא מפשט מנדה, דהרי אין בנדה תולדות. רק מסברא קאמר שחייב גם בזה על כל תולדה חטאת לבד. [אב"י ולר"ח קבל מניה ר"מ מר"א דבעשה מלאכה א' בשבתות הרבה, הוה ימים שבינתיים כידיעה, אבל בעשה וולדות הרבה מעין מלאכה א' בשבת א', לא קבל מניה, שיתחייב על כל א' [ש"ס]. והרמב"ם בפירושו תפס לפרש המשנה כשיטת ר"ח, וכ' בסוף, ואין כן הלכה, אלא הואיל ואין שם ידיעה בינתיים אינו חייב רק א', עכ"ל. וצע"ג הרי אמרינן בש"ס דקבלה מניה. אח"ז ראיתי ברמב"ם [פ"ז משגגות ה"ח] שכ' דדוקא בעשה מלאכות הרבה מעין מלאכה א' בשבתות הרבה חייב על כל שבת ושבת. ותמה הרלח"מ. ע"ש. ול"נ שזה תלוי עם דבריו הקדושים בפירושו כאן, שע"כ היה לרבינו נוסחא אחרת בגמ'. וכבר רמז ע"ר נ"י על הלח"מ זה לעיל פ"ב סי' ל"ד, סי' ד' אות ב', ע"ש]:
+
+
+
+### Seif 77
+
+###### Yachin on Mishnah Keritot 3:77:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:77:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:77:1)
+
+
+**והנדה מוזהרת עליו**
+ לפיכך חשיבה כל ביאה להיות כחטא אחר. ואף לרב חסדא לעיל דהכל מיירי באשה א', עכ"פ ב' בני אדם חוטאים בביאה זו, להכי חשיבה כל ביאה שתתחלק לחייב עליה לבד:
+
+
+
+### Seif 78
+
+###### Yachin on Mishnah Keritot 3:78:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:78:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:78:1)
+
+
+**אמר לי הבא על הקטנות**
+ ר"ל בבא על ה' נדות קטנות [אב"י ולר"ח מה קטנות. קטנות דעלמא, גמ']:
+
+
+
+### Seif 79
+
+###### Yachin on Mishnah Keritot 3:79:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:79:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:79:1)
+
+
+**יוכיח שאין בהם אלא אזהרה אחת**
+ שהרי הקטנה פטורה בבעלה בנדתה:
+
+
+
+### Seif 80
+
+###### Yachin on Mishnah Keritot 3:80:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:80:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:80:1)
+
+
+**אמר לי הבא על הבהמה יוכיח**
+ שחייב על כל ביאה וביאה. ואע"ג שגם בהמה נהרגת, כדכתיב ואת הבהמה תהרוגו. עכ"פ אין הריגתה לעונש, דהרי אינה בת עונשין, רק משום כבוד החוטא, שלא יאמרו זו היא שנכשל בה פלוני [כסנהדרין פ"ז מ"ד]. [והא דלא קאמר שוטה וחרשית יוכיח. י"ל דאפשר שתתרפא. גם בעי למנקט בהמה שאין במינה בת חיוב כלל]:
+
+
+
+### Seif 81
+
+###### Yachin on Mishnah Keritot 3:81:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:81:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/3:81:1)
+
+
+**אמרתי לו בהמה כשבת**
+ רצה לומר גם בבהמה אני מסופק בבא עליה הרבה ביאות אם חייב על כל א' וא'. ולעניין פסק הלכה עי' לעיל סי' ס"ח.
+
+
+
+## Chapter 4
+
+
+### Seif 1
+
+###### Yachin on Mishnah Keritot 4:1:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:1:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:1:1)
+
+
+**ספק לא אכל**
+ מיירי דאיקבע איסורא. דהיינו שנודע לו השתא שבשעת אכילה היה שם איסורא וודאי, רק שלא ידע אם אכלו. כגון חלב ושומן לפניו, ומסופק אם אכל האיסור, וכדמסיק. חלב ושומן לפניו ותני והדר מפרש:
+
+
+
+### Seif 2
+
+###### Yachin on Mishnah Keritot 4:2:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:2:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:2:1)
+
+
+**ספק שאין בו**
+ ר"ל או שהיה חתיכת חלב לפניו יותר מכזית. וסבר שהוא שומן, ומסופק השתא אם אכל ממנו כזית [רמב"ם פ"ח משגגות] [ולתוס' מיירי בב' חתיכות אחד כזית ואחד חציו, וקמ"ל דאף בס"ס חייב].
+
+
+
+### Seif 3
+
+###### Yachin on Mishnah Keritot 4:3:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:3:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:3:1)
+
+
+**שגג באחת מהן**
+ נקט שגג, אגב משנה ב':
+
+
+
+### Seif 4
+
+###### Yachin on Mishnah Keritot 4:4:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:4:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:4:1)
+
+
+**ואין ידוע באיזו מהם עשה**
+ כגון שעשה מלאכה בע"ש בין השמשות, דמדהיה בשעת כניסת שבת, הו"ל כאיקבע איסורא, מדיודע בוודאי שעבר עליו שבת, ומסופק אם עשה בו מלאכה, דמי שפיר לב' חתיכות לפניו:
+
+
+
+### Seif 5
+
+###### Yachin on Mishnah Keritot 4:5:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:5:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:5:1)
+
+
+**מביא אשם תלוי**
+ ונקרא תלוי שכפרתו תלוייה עד שיוודע לו שחטא ויביא חטאת. ולולא מסתאפינא נ"ל דתלוי לשון ספק. כמו ועמי תלואים למשובתי, ר"ל מסופקים. וכן בלשון חז"ל פ"ק דפסחים מ"ה. תולין לא אוכלין ולא שורפין ר"ל מסתפקין, וכן שם מ"ז שורפין תלוייה עם הטמאה, ר"ל שטומאתה בספק. ה"נ ר"ל אשם שבא על ספק]. מיהו בהיה מסופק בשעת אכילתו אם הוא חלב או שומן. ואפ"ה אכלו, הו"ל מזיד ופטור מאשם:
+
+
+
+### Seif 6
+
+###### Yachin on Mishnah Keritot 4:6:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:6:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:6:1)
+
+
+**אינו מביא אלא אשם אחד**
+ כגון שהיו לפניו הרבה חתיכות של היתר ושל איסור, ואכל ב' מהן. ואח"כ מסופק שמא שניהן היו חלב:
+
+
+
+### Seif 7
+
+###### Yachin on Mishnah Keritot 4:7:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:7:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:7:1)
+
+
+**אם היתה ידיעה בינתים**
+ שנודע לו בין אכילה לאכילה שספק חלב אכל:
+
+
+
+### Seif 8
+
+###### Yachin on Mishnah Keritot 4:8:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:8:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:8:1)
+
+
+**כשם שהוא מביא חטאת על כל אחת ואחת**
+ אם היתה לו ידיעה וודאית בינתיים.
+
+
+
+### Seif 9
+
+###### Yachin on Mishnah Keritot 4:9:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:9:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:9:1)
+
+
+**כך הוא מביא אשם תלוי על כל אחת ואחת**
+ על ידי ידיעת ספק שבינתיים:
+
+
+
+### Seif 10
+
+###### Yachin on Mishnah Keritot 4:10:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:10:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:10:1)
+
+
+**חייב**
+ חטאת:
+
+
+
+### Seif 11
+
+###### Yachin on Mishnah Keritot 4:11:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:11:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:11:1)
+
+
+**על כל אחת ואחתי**
+ כלעיל פ"ג מ"ב:
+
+
+
+### Seif 12
+
+###### Yachin on Mishnah Keritot 4:12:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:12:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:12:1)
+
+
+**מביא אשם תלוי על כל אחד ואחד**
+ דשמות מחלקין גם באשם תלוי:
+
+
+
+### Seif 13
+
+###### Yachin on Mishnah Keritot 4:13:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:13:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:13:1)
+
+
+**חלב ונותר לפניו**
+ וסבור דשניהן שומן היתר:
+
+
+
+### Seif 14
+
+###### Yachin on Mishnah Keritot 4:14:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:14:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:14:1)
+
+
+**רבי אליעזר מחייב חטאת**
+ דהרי וודאי חטא:
+
+
+
+### Seif 15
+
+###### Yachin on Mishnah Keritot 4:15:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:15:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:15:1)
+
+
+**ורבי יהושע פוטר**
+ דבחטאת כתיב אשר חטא בה, עד שידע במה חטא. ור"א ס"ל דמלת בה צריך לאשמעינן פרט למתעסק בשבת דפטור, דהיינו שהתכוון לחתוך תלוש וחתך מחובר, פטור, מדלא התכוון לאיסור. ואע"ג דמתעסק כבר שמעינן מדכתיב מלאכת מחשבת, עד שיתכוון לאותה מלאכה [כריתות די"ט ב']. י"ל דסד"א דהיינו דוקא בהתכוון לחתוך תלוש או מחובר זה, וחתך מחובר אחר, שלא התכוון לאותו גוף כלל, אבל בהתכוון לאותו גוף, רק שסבור שהוא תלוש וחתכו והרי הוא מחובר, סד"א שיתחייב, קמ"ל מלת בה, עד שיתכוון למלאכה האסורה, רק שישגג ויחשוב שהיא מותרת [תוס' שבת ע"ב ב']. והר"ב כ' שעכ"פ חייב אשם תלוי. אבל הרמב"ם פסק [פ"ח משגגות ה"ה] דפטור גם מאשם תלוי. ואילה"ק ממשנה א' אשתו ואחותו שבעל א' וחייב אשם תלוי. די"ל דבעינן אשם תלוי דומיא דחטאת דבכל מקום שאין חייב בוודאי חטאת אין חייב בספיקו אשם תלוי [כפ"ה מ"ב] וא"כ כמו שאינו חייב חטאת בוודאי, אם אינו יודע איזה וודאי שחטא, כ"כ בספק אינו חייב אשם תלוי אם אינו יודע על איזה ספק הוא מביאו. מיהו בחלבים ועריות אפי' מתעסק. בכל גוונא חייב לכ"ע, שהרי נהנה גרונו:
+
+
+
+### Seif 16
+
+###### Yachin on Mishnah Keritot 4:16:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:16:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:16:1)
+
+
+**אמר רבי יוסי לא נחלקו**
+ ר"א ור"י:
+
+
+
+### Seif 17
+
+###### Yachin on Mishnah Keritot 4:17:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:17:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:17:1)
+
+
+**על העושה מלאכה בין השמשות**
+ שבין שבת ליו"כ. דבזמן שהיה מקדשין ע"פ ראייה אפשר היה שיהיה חליי? סמוכים.
+
+
+
+### Seif 18
+
+###### Yachin on Mishnah Keritot 4:18:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:18:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:18:1)
+
+
+**שאני אומר מקצת מלאכה עשה מהיום ומקצתה למחר**
+ דהו"ל כעשה חצי שיעור בזה, וחצי שיעור בזה. ואף דר' יוסי גופי' ס"ל [שבת ל"ד ב] דביה"ש כהרף עין. ואיך אפשר לחלק לזה ולזה עכ"פ איפשר שעשה מקצתה מקודם וקצתה אח"כ:
+
+
+
+### Seif 19
+
+###### Yachin on Mishnah Keritot 4:19:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:19:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:19:1)
+
+
+**או על העושה ואין ידוע מעין איזו מלאכה עשה**
+ אם חרש או זרע, וכדומה:
+
+
+
+### Seif 20
+
+###### Yachin on Mishnah Keritot 4:20:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:20:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:20:1)
+
+
+**אף מאשם תלוי**
+ [אב"י דלחטאת הוה ידיעה פחות מהראוי ולאשם הוה ידיעה יותר מהראוי]. והכי קיימא לן [רמב"ם שם ה"ה. ודלא כהר"ב. ועיי' רמל"מ שם ה"ב]:
+
+
+
+### Seif 21
+
+###### Yachin on Mishnah Keritot 4:21:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:21:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:21:1)
+
+
+**לא נחלקו על דבר שהוא משום שם אחד**
+ כגון ב' נדות במטה ובעל אחת בשוגג, ואינו יודע איזה מהן בעל. ב' גפנים לפניו בשבת וחתך מאחד מהן, ומסופק מאיזה חתך:
+
+
+
+### Seif 22
+
+###### Yachin on Mishnah Keritot 4:22:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:22:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:22:1)
+
+
+**על דבר שהוא משום שני שמות**
+ כגון שמסופק אם קצר או טחן. או שמסופק אם קצר חטין או שעורין. או שנתכוון לעשות זו ועשה זו [רש"י]:
+
+
+
+### Seif 23
+
+###### Yachin on Mishnah Keritot 4:23:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:23:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:23:1)
+
+
+**ורבי יהושע פוטר**
+ [אב"י אפשר דר"ש לטעמי' דס"ל לקמן [פ"ה מ"ד ה' ו'] דב' שעשו חטא א' ואינן יודעין מי מהן עשאו, שניהן מביאין חטאת א', אלמא דמכח ממ"נ הו"ל כהודע אליו לגבי הפועל, ה"ה נמי באיכא ממ"נ מצד הפעולה מקרי הודע אליו. ולדידי' רק בב' שמות ס"ל לר' יהושע דפטור מדכתיב אשר חטא בה, עד שידע עכ"פ מין החטא]:
+
+
+
+### Seif 24
+
+###### Yachin on Mishnah Keritot 4:24:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:24:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:24:1)
+
+
+**לבנות ולקט שחורות**
+ בש"ש אמרי' דבמתעסק, דהיינו שנתכוון לגוף זה ועשה בגוף אחר בין ממין א' בין בב' מינין, בין במין פעולה א', כגון לקצור מחובר זה, וקצר מחובר אחר, או שנתכוון לקצור, וטחן, בכל גוונא כיון שלא התכוון כמו שעשה, לכ"ע פטור. דהו"ל מתעסק. כי פליגי, בנתכוון לב' הגופים, לעשות זו תחלה ואח"כ השני, והלכה ידו על השני תחילה, ועשה בהיפוך, בתחלה השני ואח"כ הראשון, דלר"ש ור"ש שזורי אם משם א', דהיינו שב' הגופים הן ממין א', לכ"ע חייב, ולא אכפת לן שנתהפכו לו הפעולות ממה שהתכוון, אבל בב' שמות דהיינו שהן ב' מינים, בהא פליגי ר"א ור' יהושע. ור' (שמעון) [יהודה] ס"ל בין בב' שמות, דהיינו תאנים וענבים, בין אפילו בשם א', דהיינו שחורות ולבנות שהן מין א', פליגי ר"א ור' יהושע. ונקט תאנים וענבים שהן ב' מינים לרבותא דר"א, ושחורות ולבנות שהן בעצם מין אחד, לרבותא דר' יהושע דאפ"ה פוטר. (ובמשנה שבש"ס גרסי' א"ר שמעון תמה אני וכו'):
+
+
+
+### Seif 25
+
+###### Yachin on Mishnah Keritot 4:25:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:25:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:25:1)
+
+
+**רבי אליעזר מחייב חטאת**
+ מדנתכוון לשניהן:
+
+
+
+### Seif 26
+
+###### Yachin on Mishnah Keritot 4:26:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:26:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:26:1)
+
+
+**ורבי יהושע פוטר**
+ מדנתהפך ממחשבתו:
+
+
+
+### Seif 27
+
+###### Yachin on Mishnah Keritot 4:27:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:27:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:27:1)
+
+
+**אמר רבי יהודה**
+ ה"ג אמר ר"ש:
+
+
+
+### Seif 28
+
+###### Yachin on Mishnah Keritot 4:28:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:28:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:28:1)
+
+
+**תמה אני אם יפטר בה רבי יהושע**
+ בגוונא דאמר ר' יהודה:
+
+
+
+### Seif 29
+
+###### Yachin on Mishnah Keritot 4:29:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:29:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:29:1)
+
+
+**אם כן למה נאמר אשר חטא בה**
+ סתמא דמתני' מתמה על תמיהת ר"ש, א"כ דלא פטר בזה ר' יהושע, א"כ למה כתבה תורה או הודע אליו חטאתו אשר חטא בה, דמשמע דווקא שיתכוון להחטא כפי שעשאו אז חייב חטאת. ומשני, פרט וכו':
+
+
+
+### Seif 30
+
+###### Yachin on Mishnah Keritot 4:30:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:30:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/4:30:1)
+
+
+**פרט למתעסק**
+ דהיינו בין שהתכוון לאותה פעולת האיסור בגוף אחר, או שהתכוון לפעולת איסור אחר אפי' באותו הגוף. או שלא התכוון לפעולת איסור כלל, בכולם הו"ל מתעסק ופטור כשעשאה, וכמ"ש לעיל סי' כ"ד. ולר' יהודה אפי' נתהפך לו סדר הפעולות שהתכוון, נמי הוה בכלל מתעסק ופטור, והכי קיי"ל [עי' רלח"מ פ"א משבת ה"י].
+
+
+
+## Chapter 5
+
+
+### Seif 1
+
+###### Yachin on Mishnah Keritot 5:1:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:1:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:1:1)
+
+
+**ובעופות**
+ בין בזה או בזה. וכן כולן בין בין קתני:
+
+
+
+### Seif 2
+
+###### Yachin on Mishnah Keritot 5:2:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:2:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:2:1)
+
+
+**ודם עיקור**
+ נחירה היינו שתוחב סכין סמוך לנחירים בצואר הבהמה. וחותך משם באורך הצואר. ועיקור דהכא, ר"ל שחתך הסימנים ברוחב בסכין פגום, דטריפה משום עיקור שנעקרו הסימנים. ולא נשחטו:
+
+
+
+### Seif 3
+
+###### Yachin on Mishnah Keritot 5:3:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:3:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:3:1)
+
+
+**ודם הקזה שהנפש יוצאה בו**
+ ר"ל שהקיז לבהמה, ויצא דם הנפש. והיינו דבתחלת הקזה יוצא דם בלי קלוח, והוא נקרא דם חבלה. ואח"כ כל זמן שמקלח בכח, הוא דם שהנפש יוצא בו. ונקרא דם הנפש. ואח"כ כשמתחלת הבהמה להתחלש ולמות חוזר הדם ושותת בלי קלוח. ולתוס' אכולה קאי, שבדם שחיטה או נחירה או עיקור או הקזה חייב, רק בדם שהנפש יוצא בו, והיינו כל זמן שמקלח. ולרמב"ם [פ"ו ממאכלות ה"ג] דוקא בהקזה, אבל באינך. כיון דחבל אותה במקום שתלוי החיות, בכל דם שיש בו אדמימות חייב:
+
+
+
+### Seif 4
+
+###### Yachin on Mishnah Keritot 5:4:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:4:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:4:1)
+
+
+**חייבים עליו**
+ דבאכל כזית דם מהן, חייב כרת:
+
+
+
+### Seif 5
+
+###### Yachin on Mishnah Keritot 5:5:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:5:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:5:1)
+
+
+**דם הלב**
+ לפי גרסת הספרים שלפנינו [ש"ס דכ"ב א] הא דקאמר הכא ואינו חייב על דם הלב כרת, היינו בהדם הבלוע בבשר הלב. דקמ"ל מתני' דאע"ג דיש בלב גידין הרבה מלאין דם, וכמו כן כל טחול גופה כולה דם, אפ"ה דינם כשאר דם אברים, שקודם שפירש מותר לגמרי, ולאחר שפירש או כשנצרר שם ע"י מכה, הוא בלאו ולא בכרת [כטור י"ד ס"ז]. אבל דם הכנוס תוך חלל הלב, ששואפתו הבהמה לשם בשעה שהנשמה יוצא ממנה כששוחטה, על זה הדם חייב כרת [וכן כתב רש"י ור"ב. ולתוס' [חולין קי"א א'] גם דם הנמצא בחלל הסמפונות של ריאה וכבד נמי מה"ט בכרת]. אמנם לרי"ף, ולרא"ש [פרק כל הבשר אות (כ"ד) [כ"ה]. וכ"כ לרמב"ם [פ"ו ממאכלות], הגירסא בש"ס להיפך, דמתני' מיירי בדם שבחלל הלב ובו פטור מכרת. ורב דקאמר בש"ס דחייב עליו כרת, היינו בדם הבלוע בבשרו. [ונ"ל דטעמייהו. דלדידהו לא דמי דם לב לשאר דם אברים. מפני שבלב מקור החיים, ודם שבלוע בו, הוא דם הנפש ודאי, כדכתיב כי דם כל בשר נפשו הוא. משא"כ דם שבחללו, כיון ששואפת דם לחלל הלב גם קודם שיקלח דם הנפש, להכי משנתמלא הלב מאותו דם. אי אפשר שיבוא עוד לחללו דם שהנפש יוצא בו]:
+
+
+
+### Seif 6
+
+###### Yachin on Mishnah Keritot 5:6:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:6:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:6:1)
+
+
+**דם ביצים**
+ דם ביצת זכר, אף שמלא גידי דם, אפ"ה דינו כשאר דם אברים [וכלעיל]. אבל דם הנמצא בביצי נקיבת העוף. י"א דאפי' בלאו אינו, דאסור רק מדרבנן. וי"א דמתני' בביצת נקבה מיירי, ורק שנמצא במקום הקשר דאז אסור בלאו. אבל שלא במקום הקשר אסור רק מדרבנן. וי"א דבנמצא בחלמון בלאו. ובחלבון אסור מדרבנן. וי"א דכשנמצא שלא במקום הקשר, אפי' הדם מותר. ונוהגים בכולן לאסור גם הביצה. [ועי' בטור וב"י י"ד ס"ו. ומה שהקשו רבעתו"ס דאי מתני' בדם ביצי זכר, היכי קאמר בש"ס אוציא דם ביצים שאינן מין בשר. נ"ל דברייתא זו וודאי בדם ביצי נקיבת עוף מיירי, אבל מנ"ל שהברייתא פירושא דמתני']:
+
+
+
+### Seif 7
+
+###### Yachin on Mishnah Keritot 5:7:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:7:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:7:1)
+
+
+**דם חגבים**
+ מותר לגמרי רק כשכנסו בכלי ואינו ניכר שהוא מדגים וחגבים, אסור מדרבנן משום מראית עין [י"ד ס"ה ט']:
+
+
+
+### Seif 8
+
+###### Yachin on Mishnah Keritot 5:8:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:8:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:8:1)
+
+
+**דם התמצית**
+ דם שמתמצה ושותת בשעת שחיטה או אח"כ:
+
+
+
+### Seif 9
+
+###### Yachin on Mishnah Keritot 5:9:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:9:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:9:1)
+
+
+**אין חייבין עליהן**
+ ר"ל פטור מכרת, וחטאת, אבל הוא במלקות. [והא דהפסיק בדם דגים וחגבים. בין דם טחול ולב לדם התמצית. והרי הנך ג' וודאי דינן שוה והו"ל למסמכינהו גבי הדדי. נ"ל דנקט דם דגים וחגבים באמצע הנך שכולם בדם מכונס מיירי. לאשמעינן דגם בדם דגים וחגבים דוקא במכונס עכ"פ אסור, אבל בבלוע תוך בשרן אפי' לכתחילה מותר]:
+
+
+
+### Seif 10
+
+###### Yachin on Mishnah Keritot 5:10:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:10:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:10:1)
+
+
+**רבי יהודה מחייב בדם התמצית**
+ וקיי"ל כת"ק:
+
+
+
+### Seif 11
+
+###### Yachin on Mishnah Keritot 5:11:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:11:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:11:1)
+
+
+**רבי עקיבא מחייב על ספק מעילות**
+ בספק נהנה מהקדש או לא:
+
+
+
+### Seif 12
+
+###### Yachin on Mishnah Keritot 5:12:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:12:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:12:1)
+
+
+**אשם תלוי וחכמים פוטרים**
+ מדאין חייבין על שגגתו חטאת רק אשם מעילות, אין מביאין על ספיקו אשם:
+
+
+
+### Seif 13
+
+###### Yachin on Mishnah Keritot 5:13:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:13:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:13:1)
+
+
+**ומודה רבי עקיבא שאין מביא את מעילתו**
+ ר"ל שא"צ לשלם קרן הממון שמעל בו:
+
+
+
+### Seif 14
+
+###### Yachin on Mishnah Keritot 5:14:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:14:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:14:1)
+
+
+**עד שתתודע לו**
+ שוודאי מעל:
+
+
+
+### Seif 15
+
+###### Yachin on Mishnah Keritot 5:15:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:15:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:15:1)
+
+
+**אמר רבי טרפון מה לזה מביא שתי אשמות**
+ דהשתא כשמסופק קאמרת שמביא אשם תלוי, ולכשיתוודע לו שחטא יחזור ויביא אשם מעילות וודאי:
+
+
+
+### Seif 16
+
+###### Yachin on Mishnah Keritot 5:16:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:16:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:16:1)
+
+
+**אלא יביא מעילה וחומשה**
+ קרן הממון שנסתפק בו אם מעל, וחומש הקרן. ואע"ג שאינו יודע אם מעל, אפ"ה צריך להביא הקרן והחומש מיד, מדרוצה להתנות על האשם שכשחטא יהיה לאשם וודאי, וכדמסיק, והרי אי אפשר שיביא האשם וודאי אם לא ישלם תחלה הקרן והחומש [תוס' שבת ע"א ב]:
+
+
+
+### Seif 17
+
+###### Yachin on Mishnah Keritot 5:17:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:17:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:17:1)
+
+
+**ויביא אשם בשני סלעים**
+ איל שנלקח בב' סלעים. דכל האשמות צריך שיהיו כל א' בן ב' שנים, ושיהיה שוה ב' סלעים, חוץ מאשם נזיר ואשם מצורע צריך שיהיה בן שנה דוקא, ונקח אפי' בפרוטה:
+
+
+
+### Seif 18
+
+###### Yachin on Mishnah Keritot 5:18:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:18:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:18:1)
+
+
+**ואם ספק**
+ ר"ל ואם תמיד אעמוד בספק:
+
+
+
+### Seif 19
+
+###### Yachin on Mishnah Keritot 5:19:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:19:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:19:1)
+
+
+**מביא על לא הודע**
+ לפיכך יכול להתנות, אבל בכל חייבי חטאת א"א שיביא החטאת בספיקו בתנאי שהרי חטאת היא נקיבה ואשם הוא זכר. ותו דס"ל לר"ט דדוקא בחטאת צריך שידע קודם שיביא קרבנו שוודאי חטא. משא"כ באשם וודאי. ואנן קיי"ל דאשם נמי בעי ידיעה בתחלה:
+
+
+
+### Seif 20
+
+###### Yachin on Mishnah Keritot 5:20:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:20:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:20:1)
+
+
+**ואל יביא ספק מעילה במאה מנה**
+ ואי"ל עכ"פ יביא אשם ויתנה, וכשיתוודע לו שוודאי חטא יביא הדמים. זה א"א וכלעיל סי' ט"ז:
+
+
+
+### Seif 21
+
+###### Yachin on Mishnah Keritot 5:21:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:21:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:21:1)
+
+
+**האשה שהביאה חטאת העוף ספק**
+ שמסופקת אם ילדה מין חיוב או מין פטור, מביאה כבש העולה שחייבת היולדת, ומתנת עליו, שבאם לא ילדה יהיה לנדבה. אבל חטאת העוף מביאה בספק מגזירת הכתוב, רק שאינו נאכל מדרבנן, מדהו"ל כעין חולין בעזרה [כנזיר דכ"ט ב]:
+
+
+
+### Seif 22
+
+###### Yachin on Mishnah Keritot 5:22:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:22:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:22:1)
+
+
+**תעשנה ודאי**
+ ויאכל לכהנים [אב"י הא בלא נודע לה שילדה עד לאחר מליקה קודם הזיית ומצוי דמה, גומר הזיית דמה ותשרף, ולא יאכל כדי שלא יאמרו חטאת העוף הבאה על הספק תאכל, ולקמן [פ"ו מ"ה] דמיירי להיפך שנודע לה שלא ילדה, לא הזכיר התנא הבבא אם נודע לה קודם מליקה, דאז הדין דתצא לחולין. ועי' רמב"ם [הל' פסוהמו"ק פ"ז הי"א]:
+
+
+
+### Seif 23
+
+###### Yachin on Mishnah Keritot 5:23:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:23:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:23:1)
+
+
+**שממין שהיא מביאה על לא הודע מביאה על הודע**
+ שבין בוודאי בין בספק, מביאה לחטאת תור או בן יונה א'. מיהו דוקא בנודע לה קודם שנמלקה. אבל בלא נודע לה, אי"ל תביאנו בתנאי שאם יודע לה שילדה יהיה לחובתה הרי אסור להביא קדשים לבית הפסול, והרי זו נשרפת כסוף תמורה ואיך תתנה שיהיה לחובתה:
+
+
+
+### Seif 24
+
+###### Yachin on Mishnah Keritot 5:24:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:24:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:24:1)
+
+
+**רבי עקיבא מחייב באשם תלוי**
+ לטעמי' במשנה ב', דמחייב אשם תלוי בספק מעילות:
+
+
+
+### Seif 25
+
+###### Yachin on Mishnah Keritot 5:25:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:25:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:25:1)
+
+
+**וזה מביא אשם תלוי**
+ למ"ד דאינו חייב אשם תלוי עד שיהי' ב' חתיכות לפניו בשעת אכיל', דמצוות כתיב [כש"ס די"ח], א"כ הול"ל הכא דהשני פטור, דהרי כשאכל השנייה לא היה רק חתיכה א'. י"ל דמתני' ר"א היא, דס"ל דבאכל חלב כוי חייב אשם תלוי, דא"צ ב' חתיכות. ומה"ט רשאי נמי להביא אשם תלוי בנדבה [כפ"ו מ"ג] [אבל אי"ל דמיירי שאכלו שניהן ביחד, ובידי אדם אפשר לצמצם [כתוס' חולין כ"ח ב'], וראשונה ושנייה דנקט, לאו דוקא, רק ר"ל שבעוד שזה אכל זו בא אחר ואכל שנייה. ליתא, דעכ"פ לישנא דמתני' ובא אחר ואכל שנייה לא משמע הכי. מיהו קק"ל דאפילו נימא דמתני' ר"א היא, עכ"פ למה לא מקשי לעיל [די"ח] מהך מתני' להנך אמוראי דלעיל. וי"ל. אמנם אנן קיי"ל דא"צ חתיכה מב' חתיכות רק בדאיקבע איסורא סגי. דהיינו דכשידע שהיה כאן פ"א איסור, חייב אשם תלוי כשאכל החתיכה:
+
+
+
+### Seif 26
+
+###### Yachin on Mishnah Keritot 5:26:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:26:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:26:1)
+
+
+**רבי שמעון אומר שניהם מביאים אשם אחד**
+ בשותפות, ומתנים שכל מי שאכל חתיכת הקודש, יהיה חלק חבירו בהקרבן מחול לו. ויביאו האשם בלי סמיכה, דמדצריך לסמוך בכל כחו, הרי אותו שא"צ לסמוך עביד עבודה בקדשים. וכיון דלא אפשר לא מעכב:
+
+
+
+### Seif 27
+
+###### Yachin on Mishnah Keritot 5:27:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:27:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:27:1)
+
+
+**רבי יוסי אומר אין שנים מביאים אשם אחד**
+ דס"ל דלא מהני תנאי בקרבן שבא על חטא. והכי קיי"ל [רמב"ם פ"ח משגגות]. וקיי"ל נמי כחכמים דאין אשם תלוי בא כלל על ספק מעילה:
+
+
+
+### Seif 28
+
+###### Yachin on Mishnah Keritot 5:28:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:28:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:28:1)
+
+
+**חתיכה של חולין**
+ ר"ל שומן של היתר:
+
+
+
+### Seif 29
+
+###### Yachin on Mishnah Keritot 5:29:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:29:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:29:1)
+
+
+**אכל את השניה מביא חטאת**
+ אף שאינו יודע על איזה חתיכה נתחייב:
+
+
+
+### Seif 30
+
+###### Yachin on Mishnah Keritot 5:30:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:30:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:30:1)
+
+
+**אין שנים מביאים חטאת אחת**
+ אבל אשם תלוי מביא כל א', דת"ק ר' יוסי היא. והכי קיי"ל [רמב"ם שם]:
+
+
+
+### Seif 31
+
+###### Yachin on Mishnah Keritot 5:31:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:31:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:31:1)
+
+
+**חתיכה של חלב וחתיכה של קדש**
+ שומן המותר של קודש:
+
+
+
+### Seif 32
+
+###### Yachin on Mishnah Keritot 5:32:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:32:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:32:1)
+
+
+**מביא אשם תלוי**
+ אפילו למאי דקיי"ל דאין אשם תלוי במעילות, הכא חייב משום ספק חלב. [אב"י ואפי' לר' יהושע דס"ל [לעיל פ"ד מ"ב] דאף דידע וודאי שחטא, אפ"ה פטור מאשם תלוי. י"ל היא הנותנת מדהחטא הוא ממ"נ לחיוב חטאת, ג"כ הוה ידיעה יותר מהראוי לחיוב אשם תלוי. משא"כ הכא דהספק הוא אם חייב אשם או חטאת. הו"ל כספק חיוב או פטור, להכי חייב] ולר"ע דס"ל יש אשם תלוי במעילות, יוצא הכא באשם א' ממ"נ, אי משום ספק חלב או ספק קודש:
+
+
+
+### Seif 33
+
+###### Yachin on Mishnah Keritot 5:33:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:33:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:33:1)
+
+
+**אכל את השניה מביא חטאת ואשם ודאי**
+ חטאת משום חלב, ואשם מעילות משום קודש:
+
+
+
+### Seif 34
+
+###### Yachin on Mishnah Keritot 5:34:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:34:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:34:1)
+
+
+**רבי שמעון אומר שניהם מביאים חטאת ואשם**
+ בשותפות ומתנים שמי שאכל החלב יהיה חלק חבירו מחול לו בהחטאת, ומי שאכל הקודש יהי' חלק חבירו מחול לו בהאשם:
+
+
+
+### Seif 35
+
+###### Yachin on Mishnah Keritot 5:35:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:35:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:35:1)
+
+
+**רבי יוסי אומר אין שנים מביאים חטאת ואשם**
+ דלא מהני תנאי אפי' בב' קרבנות:
+
+
+
+### Seif 36
+
+###### Yachin on Mishnah Keritot 5:36:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:36:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:36:1)
+
+
+**מביא חטאת**
+ דממ"נ אכל חלב:
+
+
+
+### Seif 37
+
+###### Yachin on Mishnah Keritot 5:37:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:37:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:37:1)
+
+
+**רבי עקיבא אומר מביא אשם תלוי**
+ ר"ל אף אשם תלוי משום ספק מעילות. ולטעמי' אזל דמחייב אשם תלוי במעילות:
+
+
+
+### Seif 38
+
+###### Yachin on Mishnah Keritot 5:38:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:38:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:38:1)
+
+
+**מביא שתי חטאות**
+ ודוקא שאכלן בב' העלמות, דבלא היתה ידיעה בינתיים. הו"ל כאכל חלב וחלב בהעלם א' שחייב רק חטאת אחד:
+
+
+
+### Seif 39
+
+###### Yachin on Mishnah Keritot 5:39:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:39:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:39:1)
+
+
+**וזה מביא אשם תלוי**
+ ר"ל אף אשם תלוי צריך שיביא כל א' משום ספק מעילות:
+
+
+
+### Seif 40
+
+###### Yachin on Mishnah Keritot 5:40:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:40:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:40:1)
+
+
+**חתיכה של חלב וחתיכה של חלב נותר**
+ דנותר ג"כ בכרת:
+
+
+
+### Seif 41
+
+###### Yachin on Mishnah Keritot 5:41:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:41:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:41:1)
+
+
+**מביא חטאת ואשם תלוי**
+ חטאת, מדודאי חלב אכל, ואשם תלוי משום ספק נותר. דאיסור נותר חל על איסור חלב מדהו"ל נותר איסור מוסיף, דמעיקרא היה חלב הקודש מותר למזבח, ומדאיתותר נאסר גם למזבח:
+
+
+
+### Seif 42
+
+###### Yachin on Mishnah Keritot 5:42:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:42:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:42:1)
+
+
+**מביא שלש חטאות**
+ ב' משום ב' אכילות חלב, וא' משום נותר. מיהו כשלא נודע לו בינתיים שאכל חלב, אינו מביא על ב' אכילות החלב רק חטאת א', כלעיל. והא דלא מייתי נמי אשם מעילות מדאכל קודש. י"ל דמיירי שלא היה הכזית נותר שוה פרוטה, והרי בכה"ג לא מעל. והא דתני לעיל [פ"ג מ"ד] באכל נותר דמביא ג"כ אשם מעילות מדאכל קודש. התם מיירי באכל בשר בהמה גסה שאינו מתקלקל כשנשתהה ונעשה נותר, ולפיכך הכזית שאכל עדיין שוה פרוטה, משא"כ הכא מיירי בבשר בהמה דקה שמתקלקל כשנשתהה. אי נמי התם מיירי בימות הגשמים שאין הבשר מתקלקל כשנשתהה, והכא מיירי בקיץ שמתקלקל הבשר כשנשתהה ונעשה נותר, ואינו שוה פרוטה:
+
+
+
+### Seif 43
+
+###### Yachin on Mishnah Keritot 5:43:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:43:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/5:43:1)
+
+
+**רבי יוסי אומר כל חטאת שהיא באה על חטא אין שנים מביאים אותה**
+ אבל חטאת של מחוסרי כפרה, שאינה מובאת על חטא, באה בשותפות ובתנאי [כלעיל פ"א מ"ד]. ואנן קיי"ל דגם חטאת מחוסרי כפרה אינה באה בשותפות. [אב"י וקמ"ל אליבא דר' יוסי ה' בבות (א) במשנה ד' קמ"ל דאין ב' מביאין אשם א'. (ב) במשנה ה' קמ"ל דאין ב' מביאין חטאת א'. והנך ב' הם האבות, ושאר הבבות הם התולדות מהנך ב', דנקט להו בדרך לא זו אף זו. (ג) במשנה ו' קמ"ל אף כשודאי אחד חייב חטאת ואחד אשם אלא שלא ידעינן מי חייב החטאת ומי האשם, אפ"ה אין הב' מביאין הקרבנות הללו ביחד. (ד) במשנה ז' קמ"ל אף דכל אחד חייב וודאי חטאת. אפ"ה אין שניהם מביאין אשם מספק ביחד. (ה) במשנה ח' קמ"ל אף דכל א' חייב חטאת בוודאי, אפ"ה אין מביאין ביחד גם חטאת שלישי מספק]:
+
+
+
+## Chapter 6
+
+
+### Seif 1
+
+###### Yachin on Mishnah Keritot 6:1:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:1:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:1:1)
+
+
+**יצא וירעה בעדר**
+ כשאר חולין, מדהקדישו בטעות:
+
+
+
+### Seif 2
+
+###### Yachin on Mishnah Keritot 6:2:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:2:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:2:1)
+
+
+**וחכמים אומרים ירעה עד שיסתאב**
+ ר"ל עד שיפול בו מום:
+
+
+
+### Seif 3
+
+###### Yachin on Mishnah Keritot 6:3:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:3:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:3:1)
+
+
+**וימכר ויפלו דמיו לנדבה**
+ להביא בדמיו עולת נדבת צבור לקיץ המזבח [כתמורה פ"ג מ"ד]. דס"ל דמתוך שבבעת הפרשת הקרבן היה לבו נוקפו שמא חטא. גמר ומקדישו אף כשא"צ לו:
+
+
+
+### Seif 4
+
+###### Yachin on Mishnah Keritot 6:4:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:4:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:4:1)
+
+
+**הרי הוא בא על חטא אחר**
+ דס"ל דמתנדב אדם אשם תלוי בכל יום:
+
+
+
+### Seif 5
+
+###### Yachin on Mishnah Keritot 6:5:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:5:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:5:1)
+
+
+**הדם ישפך**
+ להנחל השוטף בעזרה:
+
+
+
+### Seif 6
+
+###### Yachin on Mishnah Keritot 6:6:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:6:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:6:1)
+
+
+**והבשר יצא לבית השרפה**
+ ואפילו לר"מ לעיל דס"ל דהו"ל כחולין, אפ"ה הכא שכבר נשחט, אין דינו כשאר חולין בעזרה שצריך קבורה, רק דינו כקרבן שנפסל שצריך שריפה:
+
+
+
+### Seif 7
+
+###### Yachin on Mishnah Keritot 6:7:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:7:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:7:1)
+
+
+**נזרק הדם**
+ ואח"כ נודע לו (שחטא) [שלא חטא]:
+
+
+
+### Seif 8
+
+###### Yachin on Mishnah Keritot 6:8:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:8:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:8:1)
+
+
+**הבשר יאכל**
+ מדבשעת זריקה עדיין מסופק היה אשם תלוי כשר הוא:
+
+
+
+### Seif 9
+
+###### Yachin on Mishnah Keritot 6:9:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:9:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:9:1)
+
+
+**והבשר יאכל**
+ דס"ל דכלי שרת מקדשין הפסול ליקרב, וכל העומד לזרוק כזרוק דמי, והו"לנכנזרק הדם קודם שנודע לו:
+
+
+
+### Seif 10
+
+###### Yachin on Mishnah Keritot 6:10:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:10:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:10:1)
+
+
+**אם עד שלא נשחט**
+ נודע לו (שחטא) [שלא חטא]:
+
+
+
+### Seif 11
+
+###### Yachin on Mishnah Keritot 6:11:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:11:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:11:1)
+
+
+**יצא וירעה בעדר**
+ ולא פליגי רבנן כלעיל, דהתם מדלבו נוקפו מספק גמר ומקדיש. אבל הכא עיקר סמיכתו על העדים, או על מחשבתו שסבור שוודאי חטא, ומדנודע השתא שטעה לגמרי, בטעות הקדישו:
+
+
+
+### Seif 12
+
+###### Yachin on Mishnah Keritot 6:12:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:12:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:12:1)
+
+
+**משנשחט הרי זה יקבר**
+ דמדהקדיש בטעות הו"ל חולין בעזרה:
+
+
+
+### Seif 13
+
+###### Yachin on Mishnah Keritot 6:13:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:13:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:13:1)
+
+
+**הבשר יצא לבית השרפה**
+ דמדנזרק הדם, מחזי כזבח פסול, להכי צריך שריפה. ואת"ל כיון שהפרישו לוודאי ונודע לו שלא חטא הקדש בטעות היא דאינו קדוש [כנזיר רפ"ה] והו"ל חולין בעזרה שדינן בקבורה [כשלהי תמורה] וכל הנקברים לא ישרפו כמבואר שם. י"ל כיון דעיקר טעם שלא ישרפו שמא יהנו מעפרן, א"כ הכא שנשרפין בבית הדשן, שם אע"ג שאין מועלין באפר דאין לך דבר שנעשה מצותו ומועלין בו, עכ"פ איסורא איכא [כפ"ג דמעילה] ובדילי אינשי משם ואין לחוש שמא יהנה מעפרן:
+
+
+
+### Seif 14
+
+###### Yachin on Mishnah Keritot 6:14:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:14:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:14:1)
+
+
+**שור הנסקל אינו כן**
+ כאשם תלוי:
+
+
+
+### Seif 15
+
+###### Yachin on Mishnah Keritot 6:15:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:15:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:15:1)
+
+
+**אם עד שלא נסקל**
+ נודע לו שלא המית ישראל, או שהוזמו עדיו:
+
+
+
+### Seif 16
+
+###### Yachin on Mishnah Keritot 6:16:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:16:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:16:1)
+
+
+**עגלה ערופה אינה כן**
+ כשור הנסקל:
+
+
+
+### Seif 17
+
+###### Yachin on Mishnah Keritot 6:17:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:17:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:17:1)
+
+
+**אם עד שלא נערפה**
+ נודע מי הרגו:
+
+
+
+### Seif 18
+
+###### Yachin on Mishnah Keritot 6:18:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:18:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:18:1)
+
+
+**משנערפה תקבר במקומה**
+ כשאר עגלה ערופה:
+
+
+
+### Seif 19
+
+###### Yachin on Mishnah Keritot 6:19:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:19:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:19:1)
+
+
+**והלכה לה**
+ דהרי בשעת עריפה עדיין ספק היה, כדינה:
+
+
+
+### Seif 20
+
+###### Yachin on Mishnah Keritot 6:20:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:20:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:20:1)
+
+
+**ובכל שעה שירצה**
+ דשמא חטא בחיוב כרת. וס"ל דא"צ חתיכה מב' חתיכות, וגם א"צ איקבע איסורא:
+
+
+
+### Seif 21
+
+###### Yachin on Mishnah Keritot 6:21:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:21:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:21:1)
+
+
+**אמרו עליו על בבא בן בוטי**
+ מתלמידי ב"ש היה [כביצה ד"כ ע"א] וכ"כ ר"א [כתוס' נדה ד"ז ב']:
+
+
+
+### Seif 22
+
+###### Yachin on Mishnah Keritot 6:22:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:22:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:22:1)
+
+
+**שהיה מתנדב אשם תלוי בכל יום**
+ לאו דוקא, דהרי בשבת ויו"ט אסור להקריב קרבן יחיד:
+
+
+
+### Seif 23
+
+###### Yachin on Mishnah Keritot 6:23:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:23:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:23:1)
+
+
+**חוץ מאחר יום הכפורים יום אחד**
+ דהרי בחטא ביו"כ, כל היום מכפר, וכלקמן:
+
+
+
+### Seif 24
+
+###### Yachin on Mishnah Keritot 6:24:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:24:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:24:1)
+
+
+**אמר המעון הזה**
+ נשבע בביהמ"ק:
+
+
+
+### Seif 25
+
+###### Yachin on Mishnah Keritot 6:25:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:25:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:25:1)
+
+
+**אלו היו מניחים לי הייתי מביא**
+ מיד אחר יו"כ:
+
+
+
+### Seif 26
+
+###### Yachin on Mishnah Keritot 6:26:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:26:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:26:1)
+
+
+**אלא אומרים לי המתן עד שתכנס לספק**
+ דבשלמא בשאר ימות השנה, דלמא אתמול אחר שהביא אשמו חטא. אבל יו"כ הרי כל היום מכפר, וכלעיל. לכן צריך להמתין יום שלם:
+
+
+
+### Seif 27
+
+###### Yachin on Mishnah Keritot 6:27:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:27:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:27:1)
+
+
+**פטורים**
+ דכתיב מכל חטאותיכם לפני ד' תטהרו, והיינו חטא שנודע רק לה', אבל חטא שמחייבו קרבן וודאי, אינו מתכפר עד שיביא קרבנו:
+
+
+
+### Seif 28
+
+###### Yachin on Mishnah Keritot 6:28:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:28:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:28:1)
+
+
+**מי שבא על ידו ספק עברה**
+ ספק כרת:
+
+
+
+### Seif 29
+
+###### Yachin on Mishnah Keritot 6:29:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:29:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:29:1)
+
+
+**פטור**
+ מאשם תלוי:
+
+
+
+### Seif 30
+
+###### Yachin on Mishnah Keritot 6:30:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:30:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:30:1)
+
+
+**האשה שיש עליה חטאת העוף ספק**
+ שולדה ומסופקת אם מין חיוב או פטור ילדה:
+
+
+
+### Seif 31
+
+###### Yachin on Mishnah Keritot 6:31:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:31:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:31:1)
+
+
+**מפני שמכשרתה לאכול בזבחים**
+ שאם ילדה מין חיוב, אסורה מלאכול קדשים עד שתביא קרבנה, והרי אין יו"כ מועיל רק לכפר חטא:
+
+
+
+### Seif 32
+
+###### Yachin on Mishnah Keritot 6:32:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:32:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:32:1)
+
+
+**אם משנמלקה נודע לה**
+ שילדה מין פטור:
+
+
+
+### Seif 33
+
+###### Yachin on Mishnah Keritot 6:33:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:33:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:33:1)
+
+
+**הרי זו תקבר**
+ וא"ת מ"ש מאשם תלוי, דכשנודע לו לאחר זריקה שלא חטא, היה דינו לאחר שנודע כמו קודם שנודע, ויאכל [כלעיל מ"א], וה"נ הול"ל הכא דכשנודע לה לאחר שנמלקה שפטורה היתה, יהיה דינה כמקודם וישרף ככל חטאת העוף הבא על הספק [כרמב"ם פ"ז מפסוהמ"ק], ויהיה אפרו מותר בהנאה, והרי כשיקבר יהיה אפרו אסור בהנאה [כשלהי תמורה]. י"ל דהכא שאני, כיון דגם קודם שנודע היתה אסור באכילה מחשש שאינה קודש, להכי לאחר שנודע שפטורה היתה, דמי טפי לחולין בעזרה. להכי גזרו בה רבנן שתקבר ככל חולין שנשחטה בעזרה [כתמורה פ"ז מ"ד, ועמ"ש שם בס"ד. כך נ"ל פי' הגמ' [מכילתן דכ"ו ב']. ודברי רש"י, ור"ב דגריר אבתריה צ"ע. ועי' נזיר [דכ"ט ב'], ועי' מ"ש לעיל [פ"א מ"ד].
+
+
+
+### Seif 34
+
+###### Yachin on Mishnah Keritot 6:34:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:34:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:34:1)
+
+
+**המפריש שתי סלעים לאשם**
+ שכך הדין של כל אשם, שיהיה איל בן ב' שנים, ושיהיה שוה לכל הפחות ב' סלעים, חוץ מאשם נזיר ואשם מצורע, שהן כבש בן שנה, וסגי בשוה כל דהו:
+
+
+
+### Seif 35
+
+###### Yachin on Mishnah Keritot 6:35:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:35:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:35:1)
+
+
+**יפה שתי סלעים**
+ בשעת כפרה. ואף שכשלקחו היה שוה רק סלע, בתר שעת כפרה אזלינן, ואדם מתכפר בשבח הקדש:
+
+
+
+### Seif 36
+
+###### Yachin on Mishnah Keritot 6:36:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:36:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:36:1)
+
+
+**והשני ירעה עד שיסתאב**
+ דמדניקח בדמי אשם, אינו מקריבו עולה מבלי שיומם תחלה:
+
+
+
+### Seif 37
+
+###### Yachin on Mishnah Keritot 6:37:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:37:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:37:1)
+
+
+**ויפלו דמיו לנדבה**
+ לנדבת צבור לקנות בדמיהן עולות לקיץ המזבח:
+
+
+
+### Seif 38
+
+###### Yachin on Mishnah Keritot 6:38:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:38:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:38:1)
+
+
+**לקח בהן שני אילים לחולין**
+ על מנת לאכלן, וא"כ מעל. וחויב קרבן מעילה בב' סלעים, וחייב עוד החומש של ב' סלעים שמעל בהן, מלבד הקרן שצריך להשיב, וה"ל הקרן והחומש יחד י' זוזים, ב' סלעים שהן ח' זוזים קרן, ועוד ב' זוזים לחומש מלבר, שחייב בעבור הב' סלעים שמעל בהן:
+
+
+
+### Seif 39
+
+###### Yachin on Mishnah Keritot 6:39:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:39:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:39:1)
+
+
+**אחד יפה שתי סלעים ואחד יפה עשרה זוז**
+ דהיינו כפי הקרן וחמש שחייב:
+
+
+
+### Seif 40
+
+###### Yachin on Mishnah Keritot 6:40:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:40:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:40:1)
+
+
+**היפה שתי סלעים יקרב לאשמו**
+ ר"ל בשביל אשם מעילות שנתחייב השתא מדמעל, דאע"ג שלא נהנה עדיין, וגם לא פגם, אפ"ה כל שהוציא הקדש לחולין א"צ פגם והנאה [כמעילה פ"ה מ"ד]:
+
+
+
+### Seif 41
+
+###### Yachin on Mishnah Keritot 6:41:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:41:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:41:1)
+
+
+**והשני למעילתו**
+ ר"ל בעבור האשם שהיה חייב תחלה, ובעבור החומש שהיה חייב, מדקיי"ל שהחומש שייך להקרבן כשמעל בקרבן מזבח [כמעילה ד"ט. והר"ב פי' בהיפוך ממה שכתבנו, ודבריו תמוהין כמ"ש רמל"מ פ"ד ממעילות ה"ז בד"ה ודע]. דמדמעל במעות הרי הן חולין גמורים, ומה שהשביח המעות שלו הוא. אבל בלא היה שוה א' מהן י' זוז, חייב ליקח מהשוק איל ששוה י' זוז בעבור האשם שמעל בו, בהוספת חומש:
+
+
+
+### Seif 42
+
+###### Yachin on Mishnah Keritot 6:42:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:42:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:42:1)
+
+
+**אחד לאשם ואחד לחולין**
+ שלקח בשני סלעים שהפריש לאשם, ב' אילים, א' לאשם שחייב וא' לאכילתו. נמצא שמעל רק בסלע. בין שלקח האשם ואח"כ החולין, או איפכא, או שלקחן שניהם יחד:
+
+
+
+### Seif 43
+
+###### Yachin on Mishnah Keritot 6:43:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:43:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:43:1)
+
+
+**יקרב לאשמו**
+ לאשם שהיה חייב תחלה, שהרי לשמו ניקח וממעות שהופרש לו:
+
+
+
+### Seif 44
+
+###### Yachin on Mishnah Keritot 6:44:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:44:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:44:1)
+
+
+**והשני למעילתו**
+ אם שוה השתא ב' סלעים יביאנו לאשם מעילה שחייב:
+
+
+
+### Seif 45
+
+###### Yachin on Mishnah Keritot 6:45:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:45:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:45:1)
+
+
+**ויביא עמה סלע וחומשה**
+ דהיינו ה' דינרין, ויפלו לנדבת צבור. דהרי הכא מדקנה אחד לאשם, נמצא הבהמה האחרת שבח הקדש היא כולה, וצריך להחזירה כמו שהיא כולה להקדש ואינו יכול לחשבה לתשלומיו, אבל יכול לחשבה לכפרתו להביאה בעבור אשם מעילה שחייב, דאדם מתכפר בשבח הקדש. ולהכי הואיל ואלו לא היה מועל בסלע זה, היה הדין שיפול לנדבה, וכדקיי"ל מותר אשם לנדבה. ה"נ השתא שמעל ישלם הה' דינרין לנדבה שמעל בה. והכא לא אמרינן כברישא דאם א' שוה י' זוז שיועיל לו להפטר מקרן וחומש שחייב. ליתא דממ"נ, אם זה שקנה לאשם שוה י' זוז פשיטא שא"א שיחשוב אותן ב' דינרין ששוה יותר מהראוי לתשלומי חיובו, דהרי השבח להקדש. דאע"ג דקיי"ל אדם מתכפר בשבח הקדש, עכ"פ הרי צריך לשלם הב' דינרין עם הגזילה, והרי אלו הב' דינרין ששוה הקרבן יותר ממה שחייב, הם בהאשם שקנה. ותו דהא דאדם מתכפר בשבח הקדש היינו בקנה אשם בסלע והוקר ושוה ב' סלעים, בתר שעת הקרבה אזלינן ויוצא בו. אבל הכא ששוה האשם שחייב יותר מב' סלעים מהיכא תיתא שיזכה בהן הוא לחשבון החומש שחייב. ותו כיון דסלע שמעל בו, מותר אשם היה, שדינן ליפול לנדבה לעולת קיץ המזבח, איך יהיה יכול לצרף החומש אל האשם. וכן אם השני שקנה לחולין שוה י' זוז, נמי אינו יכול לחשבן בעד הקרן וחומש שחייב, דהרי חייב ה' זוז לעולת קיץ המזבח מדמעל במותר אשם. וא"כ האיך יחשוב הקרן והחומש שחייב, בהאשם מעילות שמביא. [ועי' רמל"מ פ"ד ממעילה ה"ו]:
+
+
+
+### Seif 46
+
+###### Yachin on Mishnah Keritot 6:46:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:46:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:46:1)
+
+
+**לא יביאנה בנו אחריו**
+ אפילו שגג הבן ג"כ בכרת, אפ"ה לא יביא חטאת זו לכפרתו, דחטאת שמתה בעליה היא ולמיתה אזלא [כתמורה רפ"ד]:
+
+
+
+### Seif 47
+
+###### Yachin on Mishnah Keritot 6:47:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:47:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:47:1)
+
+
+**ולא יביאנה מחטא על חטא**
+ לאו על בנו קאי, רק על כל מפריש חטאת דעלמא:
+
+
+
+### Seif 48
+
+###### Yachin on Mishnah Keritot 6:48:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:48:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:48:1)
+
+
+**אפילו על חלב שאכל אמש לא יביאנו על חלב שאכל היום**
+ מיהו בכה"ג אם הביא כיפר. אבל חטאת חלב שהקריבה בעבור דם שאכל לא יצא:
+
+
+
+### Seif 49
+
+###### Yachin on Mishnah Keritot 6:49:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:49:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:49:1)
+
+
+**שיהא קרבנו לשם חטאו**
+ דמשמע, חטאתו ולא כשהופרש לשם חטא אדם אחר, כברישא. ומשמע נמי, חטאתו ולא כשהופרש לשם חטא אחר:
+
+
+
+### Seif 50
+
+###### Yachin on Mishnah Keritot 6:50:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:50:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:50:1)
+
+
+**מביאין מהקדש כשבה**
+ ר"ל כשהפריש מעות ליקח כשבה לחטאת, רשאי ליקח בהמעות שעירה לחטאת. וכמו כן להיפך. דכל המחוייב חטאת יכול להביא כשבה או שעירה כמו שירצה:
+
+
+
+### Seif 51
+
+###### Yachin on Mishnah Keritot 6:51:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:51:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:51:1)
+
+
+**מהקדש כשבה ושעירה**
+ ר"ל אי שעירה:
+
+
+
+### Seif 52
+
+###### Yachin on Mishnah Keritot 6:52:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:52:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:52:1)
+
+
+**תורין ובני יונה**
+ ר"ל או בני יונה:
+
+
+
+### Seif 53
+
+###### Yachin on Mishnah Keritot 6:53:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:53:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:53:1)
+
+
+**כיצד**
+ אב' בבות דסיפא קאי:
+
+
+
+### Seif 54
+
+###### Yachin on Mishnah Keritot 6:54:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:54:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:54:1)
+
+
+**הפריש**
+ מעות לחטאת:
+
+
+
+### Seif 55
+
+###### Yachin on Mishnah Keritot 6:55:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:55:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:55:1)
+
+
+**יביא עוף**
+ והמעות הנותר יהיה חולין. [ואע"ג דהמעות נתפס בקדושה, דהרי בשהפריש מעות לחטאתו ומת, ילכו לים המלח [כתמורה פ"ד מ"ב], וא"כ ה"נ אמאי השאר חולין, קדושה שבהן להיכן הלכה [כפסחים דל"ד ב']. נ"ל דשאני הכא דרבייא קרא, דכתיב בקרבן עולה ויורד שמביא חטאת, וכפר עליו הכהן מחטאתו [ויקרא ה' פ"ו ופ"י ופסוק י"ב], משמע ממקצת דבר שהפריש יביא חטאת, והיינו בהעני. דאף על גב דעני שהביא קרבן עשיר יצא [ולא להיפוך] ויוכל להביא שפיר כשבה או שעירה. היינו בדיעבד, אבל לכתחילה צריך קרבן עני דוקא]:
+
+
+
+### Seif 56
+
+###### Yachin on Mishnah Keritot 6:56:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:56:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:56:1)
+
+
+**יביא כשבה ושעירה**
+ דכתיב בעשירית האיפה [שם] על חטאתו, משמע דבהעשיר יוסיף על הדמים, להפריש לעשירית האיפה, ויביא עוף, אע"ג דעשירית האיפה אינה מין דמים, כמו שיקריב השתא. וא"כ כ"ש כשהפריש מעות לעוף והעשיר, יוכל להוסיף עליהן להביא כשבה, דשניהן מיני דמים. ולא אמרינן שהמעות שהפריש יפלו לנדבה:
+
+
+
+### Seif 57
+
+###### Yachin on Mishnah Keritot 6:57:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:57:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:57:1)
+
+
+**ונסתאבו**
+ שהוממו:
+
+
+
+### Seif 58
+
+###### Yachin on Mishnah Keritot 6:58:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:58:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:58:1)
+
+
+**אם רצה יביא בדמיהן עוף**
+ אם העני. דאל"כ עשיר שהביא קרבן עני לא יצא:
+
+
+
+### Seif 59
+
+###### Yachin on Mishnah Keritot 6:59:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:59:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:59:1)
+
+
+**הפריש עוף ונסתאב**
+ והוא נעשה עני. ומיירי שיבש גפו וכדומה בחסר אבר, דאל"כ הרי אין תמות וזכרות בעופות [כתמורה פ"ו מ"ד]:
+
+
+
+### Seif 60
+
+###### Yachin on Mishnah Keritot 6:60:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:60:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:60:1)
+
+
+**לא יביא בדמיו עשירית האיפה**
+ ה"ה לא כשבה ושעירה, רק נקט עשירית האיפה מדאין מנוי שיתעשר דאתעשר אל תאשר [כגיטין ד"ל ב']:
+
+
+
+### Seif 61
+
+###### Yachin on Mishnah Keritot 6:61:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:61:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:61:1)
+
+
+**רבי שמעון אומר כבשים קודמין לעזים בכל מקום**
+ בכל מקום בתורה נזכר כבשים קודם לעזים:
+
+
+
+### Seif 62
+
+###### Yachin on Mishnah Keritot 6:62:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:62:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:62:1)
+
+
+**יכול מפני שהן מובחרין מהן**
+ ויהיה הידור מצוה שיביא כשבה:
+
+
+
+### Seif 63
+
+###### Yachin on Mishnah Keritot 6:63:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:63:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:63:1)
+
+
+**ואם כבש יביא קרבנו לחטאת**
+ [כויקרא ד' פכ"ז ופל"ב], דכאן הקדים שעירה לכשבה:
+
+
+
+### Seif 64
+
+###### Yachin on Mishnah Keritot 6:64:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:64:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:64:1)
+
+
+**תורין קודמין לבני יונה בכל מקום**
+ בכל מקום בתורה הקדים תורים לבני יונה:
+
+
+
+### Seif 65
+
+###### Yachin on Mishnah Keritot 6:65:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:65:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:65:1)
+
+
+**האב קודם לאם בכל מקום**
+ בכל מקום בתורה הקדים אב לאם:
+
+
+
+### Seif 66
+
+###### Yachin on Mishnah Keritot 6:66:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:66:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:66:1)
+
+
+**מלמד ששניהם שקולים**
+ מדאורייתא:
+
+
+
+### Seif 67
+
+###### Yachin on Mishnah Keritot 6:67:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:67:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:67:1)
+
+
+**האב קודם לאם בכל מקום**
+ מדרבנן ן[י"ד ר"מ]:
+
+
+
+### Seif 68
+
+###### Yachin on Mishnah Keritot 6:68:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:68:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:68:1)
+
+
+**מפני שהוא ואמו חייבין בכבוד אביו**
+ דגם האם חייבת בכבוד בעלה מדמפרנסה. אבל בנתגרשה, אף דבעל חייב במצות טפי מאשה, אפ"ה שניהן שוין [ועי' הוריות פ"ג מ"ז]:
+
+
+
+### Seif 69
+
+###### Yachin on Mishnah Keritot 6:69:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:69:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:69:1)
+
+
+**אם זכה הבן לפני הרב**
+ שלמד רוב חכמתו ממנו:
+
+
+
+### Seif 70
+
+###### Yachin on Mishnah Keritot 6:70:1
+
+[https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:70:1](https://torahapp.org/share/book/Yachin%20on%20Mishnah%20Keritot/r/6:70:1)
+
+
+**מפני שהוא ואביו חייבין בכבוד רבו**
+ להשיב אבידתו, ולפדותו משבי, ולהחיותו, ולפרוק משאו, בכל הני רב קודם לאב. ואם אביו ג"כ ת"ח אף שאינו רבו, אביו קודם בכל דבר שהוא צער הגוף. אבל בדבר שבממון, כהשבת אבידה, דוקא כשאביו שקול כרבו אביו קודם [ועי' ב"מ ספ"ב]. וכל זה ברב שלמדו בחנם. אבל במלמדו בשכר, אז אותו ששילם עבורו שכר הלימוד, אף שאינו אביו, הוא קודם לרבו בכל דבר [י"ד רמ"ב סל"ד]:
+

@@ -1,0 +1,1101 @@
+# Mishnah Pesachim
+
+משנה פסחים
+
+Link: [https://torahapp.org/share/book/Mishnah%20Pesachim](https://torahapp.org/share/book/Mishnah%20Pesachim)
+
+דינים הקשורים לחג הפסח: איסור חמץ, קורבן הפסח, מצה, מרור וליל הסדר.
+
+Passover: ridding of chametz, the Paschal lamb offering, matzah, maror, and the Seder.
+
+Sections: Chapter-Mishnah
+
+Location: Mishnah/Seder Moed
+
+Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
+
+Version (He): Torat Emet 357 (Segments: 89, License: Public Domain)
+
+Versions (En):
+  - Open Mishnah (Segments: 18, License: CC-BY-SA)
+  - The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein (Segments: 71, License: CC-BY)
+
+
+## Chapter 1
+
+###### Mishnah Pesachim 1:1
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/1:1](https://torahapp.org/share/book/Mishnah%20Pesachim/r/1:1)
+
+
+אוֹר לְאַרְבָּעָה עָשָׂר, בּוֹדְקִין אֶת הֶחָמֵץ לְאוֹר הַנֵּר. כָּל מָקוֹם שֶׁאֵין מַכְנִיסִין בּוֹ חָמֵץ אֵין צָרִיךְ בְּדִיקָה. וְלָמָה אָמְרוּ שְׁתֵּי שׁוּרוֹת בַּמַּרְתֵּף, מָקוֹם שֶׁמַּכְנִיסִין בּוֹ חָמֵץ. בֵּית שַׁמַּאי אוֹמְרִים, שְׁתֵּי שׁוּרוֹת עַל פְּנֵי כָל הַמַּרְתֵּף. וּבֵית הִלֵּל אוֹמְרִים, שְׁתֵּי שׁוּרוֹת הַחִיצוֹנוֹת שֶׁהֵן הָעֶלְיוֹנוֹת:
+
+
+On the evening of the fourteenth [of Nissan] we check for *chamets* [leavened grain products] by candlelight. Any place into which we do not bring *chamets* does not require checking. And why did [the Sages] say [that we must check up to] two rows in the wine cellar? [It is] a place which we bring leavened bread into. Beit Shammai says, "Two rows upon the entire wine-cellar." But Beit Hillel says, "The two outer rows, which are the uppermost."
+
+
+###### Mishnah Pesachim 1:2
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/1:2](https://torahapp.org/share/book/Mishnah%20Pesachim/r/1:2)
+
+
+אֵין חוֹשְׁשִׁין שֶׁמָּא גָרְרָה חֻלְדָּה מִבַּיִת לְבַיִת וּמִמָּקוֹם לְמָקוֹם, דְּאִם כֵּן, מֵחָצֵר לְחָצֵר וּמֵעִיר לְעִיר, אֵין לַדָּבָר סוֹף:
+
+
+We do not need to be concerned [that] perhaps a weasel dragged [*chamets*] from [one] house to [another] house, or from [one] place to [another] place. Since if [we were to be concerned, we would also need to be concerned that *chamets* was dragged] from [one] courtyard to [another] courtyard, and from [one] city to [another] city — there [would be] no end to the matter.
+
+
+###### Mishnah Pesachim 1:3
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/1:3](https://torahapp.org/share/book/Mishnah%20Pesachim/r/1:3)
+
+
+רַבִּי יְהוּדָה אוֹמֵר, בּוֹדְקִין אוֹר אַרְבָּעָה עָשָׂר וּבְאַרְבָּעָה עָשָׂר שַׁחֲרִית וּבִשְׁעַת הַבִּעוּר. וַחֲכָמִים אוֹמְרִים, לֹא בָדַק אוֹר אַרְבָּעָה עָשָׂר, יִבְדֹּק בְּאַרְבָּעָה עָשָׂר. לֹא בָדַק בְּאַרְבָּעָה עָשָׂר, יִבְדֹּק בְּתוֹךְ הַמּוֹעֵד. לֹא בָדַק בְּתוֹךְ הַמּוֹעֵד, יִבְדֹּק לְאַחַר הַמּוֹעֵד. וּמַה שֶּׁמְּשַׁיֵּר, יַנִּיחֶנּוּ בְצִנְעָא, כְּדֵי שֶׁלֹּא יְהֵא צָרִיךְ בְּדִיקָה אַחֲרָיו:
+
+
+Rabbi Yehuda says, "We check on the evening of the fourteenth, and on the fourteenth in the morning, and at the time of the destruction [of *chamets*]." And the Sages say, "If he did not check on the evening of the fourteenth, he must check on the [day of the] fourteenth. If he did not check on the fourteenth, he must check on [the intermediate days of] the festival. If he did not check on the festival, he must check after the festival." And what he leaves over [on the night of the fourteenth in order to eat on the morrow], he must put in a concealed place, in order that checking after it shall not be necessary.
+
+
+###### Mishnah Pesachim 1:4
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/1:4](https://torahapp.org/share/book/Mishnah%20Pesachim/r/1:4)
+
+
+רַבִּי מֵאִיר אוֹמֵר, אוֹכְלִין כָּל חָמֵשׁ, וְשׂוֹרְפִין בִּתְחִלַּת שֵׁשׁ. וְרַבִּי יְהוּדָה אוֹמֵר, אוֹכְלִין כָּל אַרְבַּע, וְתוֹלִין כָּל חָמֵשׁ, וְשׂוֹרְפִין בִּתְחִלַּת שֵׁשׁ:
+
+
+Rabbi Meir says, "We may eat [*chamets*] through all [the first] five [hours of the day], and we must burn [it] at the beginning of the sixth [hour]." Rabbi Yehuda says, "We may eat [it] through all [the first] four [hours of the day], we hold [it] in suspense through the fifth [hour], and we must burn it at the beginning of the sixth [hour]."
+
+
+###### Mishnah Pesachim 1:5
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/1:5](https://torahapp.org/share/book/Mishnah%20Pesachim/r/1:5)
+
+
+וְעוֹד אָמַר רַבִּי יְהוּדָה, שְׁתֵּי חַלּוֹת שֶׁל תּוֹדָה פְסוּלוֹת מֻנָּחוֹת עַל גַּג הָאִצְטַבָּא. כָּל זְמַן שֶׁמֻּנָּחוֹת, כָּל הָעָם אוֹכְלִים. נִטְּלָה אַחַת, תּוֹלִין, לֹא אוֹכְלִין וְלֹא שׂוֹרְפִין. נִטְּלוּ שְׁתֵּיהֶן, הִתְחִילוּ כָל הָעָם שׂוֹרְפִין. רַבָּן גַּמְלִיאֵל אוֹמֵר, חֻלִּין נֶאֱכָלִין כָּל אַרְבַּע, וּתְרוּמָה כָּל חָמֵשׁ, וְשׂוֹרְפִין בִּתְחִלַּת שֵׁשׁ:
+
+
+Rabbi Yehudah also said, "Two loaves of bread of a thank-offering [that had become] unfit were placed on the roof of the [Temple] portico. As long as they [both] lay [there], all the people would eat [*chamets*]. [When] one of them was removed, they would suspend and neither eat nor burn [their *chamets*]. [When] the second one of them was removed, all the people would begin burning [their *chamets*]." Rabban Gamliel says, "[*Chamets* that is] *chulin* [ food permitted for general consumption] may be eaten through all [the first] four [hours of the day]; but [*chamets* that is] *terumah* [may be eaten even] through all [the first] five [hours of the day]; and we must burn [all *chamets*] at the beginning of the sixth [hour]."
+
+
+###### Mishnah Pesachim 1:6
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/1:6](https://torahapp.org/share/book/Mishnah%20Pesachim/r/1:6)
+
+
+רַבִּי חֲנִינָא סְגַן הַכֹּהֲנִים אוֹמֵר, מִימֵיהֶם שֶׁל כֹּהֲנִים לֹא נִמְנְעוּ מִלִּשְׂרֹף אֶת הַבָּשָׂר שֶׁנִּטְמָא בִוְלַד הַטֻּמְאָה עִם הַבָּשָׂר שֶׁנִּטְמָא בְאַב הַטֻּמְאָה, אַף עַל פִּי שֶׁמּוֹסִיפִין טֻמְאָה עַל טֻמְאָתוֹ. הוֹסִיף רַבִּי עֲקִיבָא וְאָמַר, מִימֵיהֶם שֶׁל כֹּהֲנִים לֹא נִמְנְעוּ מִלְּהַדְלִיק אֶת הַשֶּׁמֶן שֶׁנִּפְסַל בִּטְבוּל יוֹם בְּנֵר שֶׁנִּטְמָא בִטְמֵא מֵת, אַף עַל פִּי שֶׁמּוֹסִיפִין טֻמְאָה עַל טֻמְאָתוֹ:
+
+
+Rabbi Chanina, the adjunct head of the *Kohanim* [the priestly caste, a subgroup of tribe of Levi, which is uniquely responsible for maintaining and carrying out the sacrificial services in the Temple], said, "During [all] the days of the *Kohanim*, they never refrained from burning [sacrificial] meat that had become impure by a secondary source of impurity [along] with [sacrificial] meat that had become impure by a primary source of impurity, even though it added impurity to impurity." Rabbi Akiva added and said, "During [all] the days of the *Kohanim*, they never refrained from lighting oil that had become unfit by [contact with] a *tevul yom* [a person who has immersed that day for purification but who must wait for night-fall to be fully pure] in a lamp that had become impure by one who had become impure by a corpse, even though they would [by so doing] add impurity to impurity."
+
+
+###### Mishnah Pesachim 1:7
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/1:7](https://torahapp.org/share/book/Mishnah%20Pesachim/r/1:7)
+
+
+אָמַר רַבִּי מֵאִיר, מִדִּבְרֵיהֶם לָמַדְנוּ, שֶׁשּׂוֹרְפִין תְּרוּמָה טְהוֹרָה עִם הַטְּמֵאָה בְּפֶסַח. אָמַר לוֹ רַבִּי יוֹסֵי, אֵינָהּ הִיא הַמִּדָּה. וּמוֹדִים רַבִּי אֱלִיעֶזֶר וְרַבִּי יְהוֹשֻׁעַ, שֶׁשּׂוֹרְפִין זוֹ לְעַצְמָהּ וְזוֹ לְעַצְמָהּ. עַל מַה נֶּחֱלְקוּ, עַל הַתְּלוּיָה וְעַל הַטְּמֵאָה, שֶׁרַבִּי אֱלִיעֶזֶר אוֹמֵר, תִּשָּׂרֵף זוֹ לְעַצְמָהּ וְזוֹ לְעַצְמָהּ, וְרַבִּי יְהוֹשֻׁעַ אוֹמֵר, שְׁתֵּיהֶן כְּאֶחָת:
+
+
+Said Rabbi Meir, "From their words we learn that we may burn *terumah* that is pure [but is *chamets*, together] with [*terumah*] that is impure on Pesach." Rabbi Yose said to him, "This is not analogous. [Even] Rabbi Eliezer and Rabbi Yehoshua concede that each is burned separately. About what do they disagree? About [*terumah* whose status of purity was] in question and impure [*terumah*], where Rabbi Eliezer says, 'Each must be burned separately;' and Rabbi Yehoshua says, 'Both [of them may be burned] together.'"
+
+
+
+## Chapter 2
+
+###### Mishnah Pesachim 2:1
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/2:1](https://torahapp.org/share/book/Mishnah%20Pesachim/r/2:1)
+
+
+כָּל שָׁעָה שֶׁמֻּתָּר לֶאֱכֹל, מַאֲכִיל לַבְּהֵמָה לַחַיָּה וְלָעוֹפוֹת, וּמוֹכְרוֹ לַנָּכְרִי, וּמֻתָּר בַּהֲנָאָתוֹ. עָבַר זְמַנּוֹ, אָסוּר בַּהֲנָאָתוֹ, וְלֹא יַסִּיק בּוֹ תַּנּוּר וְכִירָיִם. רַבִּי יְהוּדָה אוֹמֵר, אֵין בִּעוּר חָמֵץ אֶלָּא שְׂרֵפָה. וַחֲכָמִים אוֹמְרִים, אַף מְפָרֵר וְזוֹרֶה לָרוּחַ אוֹ מַטִּיל לַיָּם:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+So long as he is permitted to eat, he feeds it to beasts, animals, and birds. [The fact that we do not have (the uniform structure): "So long as he eats, he feeds," but the dual structure, indicates that two (different) men are intended, viz.: "So long as a Cohein is permitted to eat terumah, an Israelite may feed chullin to his beast," our Mishnah being in accordance with R. Gamliel, who says (1:5): "Chullin is eaten all four hours, and terumah, all five." The halachah, however, is not in accordance with him, but both terumah and chullin are eaten all four, "suspended" all of the fifth, and burned at the beginning of the sixth.] ("he feeds it to beasts, animals, and birds":) [It is necessary to state all. For if only "beasts" were stated, we would assume that with a beast, where what is left over can be seen and burned, it is permitted; but with an animal, such as a marten, a cat, and a weasel, where what is left over is generally hidden, it is forbidden. (We must, therefore, be apprised otherwise.) And if only "animals" were stated, we would assume that it is permitted because an animal hides what it leaves over, so that the owner is not in transgression of "bal yeraeh" ("It may not be seen"); but if a beast leaves something over, the owner might not remember to burn it and he would be in transgression of "bal yeraeh," so that I might think it were forbidden. We must, therefore, be apprised otherwise. And since we are taught "beasts" and "animals," we are also taught "birds."] And he may sell it to a gentile, [as opposed to the view of Beth Shammai, who say that one is forbidden to sell his chametz to a gentile unless he knows that he will finish it before Pesach, an Israelite being commanded to remove it from the world and (to see to it) that it not remain.], and it is permitted to derive benefit from it [i.e., from its ashes. If he burned it before the time that it is forbidden, he is permitted to derive benefit from its ashes even after the time that it is forbidden.] Once its time has passed, [i.e., when the sixth hour has arrived, even though it is only rabbinically interdicted], it is forbidden to derive benefit from it, [just as if derivation of benefit were prohibited by the Torah. So that if he betrothed a woman with it, we do not grant validity to his betrothal. And even hardened chametz, such as grain on which (roof-) drippings have fallen, which even on Pesach itself is only rabbinically interdicted — if he betrothed a woman with it on the fourteenth (of Nissan) when the sixth hour had arrived, we grant no validity to his betrothal.], and he may not kindle oven or stove with it. [This must be stated vis-à-vis R. Yehudah, who says that there is no removal of chametz but burning. We might think that while burning it one could derive benefit from it. We must, therefore, be apprised otherwise, that even in the (regular) course of its removal it is forbidden to derive benefit from it once the time of its prohibition has arrived.] R. Yehudah says: There is no removal of chametz but burning [He derives it from "nothar" (left-over sacrificial portions), from which benefit may not be derived, which is punishable by kareth, like chametz, and which is commanded to be burned, and not (to be disposed of) in any other manner.]; and the sages say: It is also permitted to scatter it to the winds or cast it into the sea. [The rabbis do not derive it from nothar, for this (derivation) is controverted by (the law of) a stoned ox, which though forbidden for eating and derivation of benefit, and punishable by kareth, does not require burning.]
+
+
+###### Mishnah Pesachim 2:2
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/2:2](https://torahapp.org/share/book/Mishnah%20Pesachim/r/2:2)
+
+
+חָמֵץ שֶׁל נָכְרִי שֶׁעָבַר עָלָיו הַפֶּסַח, מֻתָּר בַּהֲנָאָה. וְשֶׁל יִשְׂרָאֵל, אָסוּר בַּהֲנָאָה. שֶׁנֶּאֱמַר (שמות יג) לֹא יֵרָאֶה לְךָ שְׂאֹר:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+It is permitted to derive benefit from the chametz of a gentile over which Pesach has passed. [This is not to say that it is forbidden to eat it — but since it is to be taught: "and it is forbidden to derive benefit from that of an Israelite," the antithesis is stated in respect to a gentile. Or else, because there are some who forbid to themselves the bread of a gentile, it is not stated explicitly: "It is permitted to eat the chametz of a gentile."]; and it is forbidden to derive benefit from that of an Israelite, it being written (Exodus 13:7): "Se'or (leaven) shall not be seen unto you." [That is, he is penalized for having transgressed "Se'or shall not be seen unto you." Or else, this refers to the beginning, viz.: "The chametz of a gentile is permitted," it being written: "Se'or shall not be seen unto you," which is expounded: What is yours, you may not see, but you may see what is a gentile's.]
+
+
+###### Mishnah Pesachim 2:3
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/2:3](https://torahapp.org/share/book/Mishnah%20Pesachim/r/2:3)
+
+
+נָכְרִי שֶׁהִלְוָה אֶת יִשְׂרָאֵל עַל חֲמֵצוֹ, אַחַר הַפֶּסַח מֻתָּר בַּהֲנָאָה. וְיִשְׂרָאֵל שֶׁהִלְוָה אֶת הַנָּכְרִי עַל חֲמֵצוֹ, אַחַר הַפֶּסַח אָסוּר בַּהֲנָאָה. חָמֵץ שֶׁנָּפְלָה עָלָיו מַפֹּלֶת, הֲרֵי הוּא כִמְבֹעָר. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר, כָּל שֶׁאֵין הַכֶּלֶב יָכוֹל לְחַפֵּשׂ אַחֲרָיו:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If a gentile lent an Israelite [money] on his (the Israelite's) chametz [before Pesach, and the Israelite said to him: "If I have not repaid you by this and this date, acquire it from now," and he left the pledge in the gentile's home, where it remained all of Pesach], after Pesach, he may derive benefit from it. [For since the time arrived and he did not pay him, the chametz, being in the gentile's domain, did not lack "claiming," so that it is seen retroactively that at the time he pledged it with him, it was his (the gentile's)]. And if an Israelite lent a gentile on his (the gentile's) chametz — after Pesach, he may not derive benefit from it. [For it is seen retroactively that it was the Israelite's.] If debris falls upon chametz, it is considered removed, [notwithstanding which he must nullify it, lest the mound be removed on the festival and he be found to have transgressed.] R. Shimon b. Gamliel says: Whatever a dog cannot search after (is considered removed). [How much can a dog search after? (A distance of) three handbreadths.]
+
+
+###### Mishnah Pesachim 2:4
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/2:4](https://torahapp.org/share/book/Mishnah%20Pesachim/r/2:4)
+
+
+הָאוֹכֵל תְּרוּמַת חָמֵץ בְּפֶסַח בְּשׁוֹגֵג, מְשַׁלֵּם קֶרֶן וְחֹמֶשׁ. בְּמֵזִיד, פָּטוּר מִתַּשְׁלוּמִים וּמִדְּמֵי עֵצִים:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If one eats terumah of chametz on Pesach unwittingly [If he were unwitting in respect to the terumah, even if he were witting in respect to the chametz], he pays the principal and a fifth, [even though it is forbidden to derive enjoyment from chametz on Pesach, and it is worth nothing. For in respect to one who eats terumah unwittingly it is written (Leviticus 22:14): "And he shall give to the Cohein the holy thing" — something which can become holy — not money, but fruit. And what is paid becomes terumah, so that it is not the monetary worth that is being paid.] (If he eats it) wittingly, [If he were witting in respect to the terumah, even if he were unwitting in respect to the chametz], he is exempt from payment and from the worth of the wood. [If it were unclean terumah, he does not pay the worth of the wood, which can be used as fuel for cooking. For if he were witting in respect to the terumah, he is like any other robber, and he pays money, relative to worth and not relative to amount. But chametz on Pesach has no worth, for benefit may not be derived from it, and it is also forbidden as fuel, so that he has caused no loss (to the Cohein).]
+
+
+###### Mishnah Pesachim 2:5
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/2:5](https://torahapp.org/share/book/Mishnah%20Pesachim/r/2:5)
+
+
+אֵלּוּ דְבָרִים שֶׁאָדָם יוֹצֵא בָהֶן יְדֵי חוֹבָתוֹ בְּפֶסַח, בְּחִטִּים, בִּשְׂעוֹרִים, בְּכֻסְּמִין וּבְשִׁיפוֹן וּבְשִׁבֹּלֶת שׁוּעָל. וְיוֹצְאִין בִּדְמַאי וּבְמַעֲשֵׂר רִאשׁוֹן שֶׁנִּטְּלָה תְרוּמָתוֹ, וּבְמַעֲשֵׂר שֵׁנִי וְהֶקְדֵּשׁ שֶׁנִּפְדּוּ, וְהַכֹּהֲנִים בְּחַלָּה וּבִתְרוּמָה. אֲבָל לֹא בְטֶבֶל, וְלֹא בְמַעֲשֵׂר רִאשׁוֹן שֶׁלֹּא נִטְּלָה תְרוּמָתוֹ, וְלֹא בְמַעֲשֵׂר שֵׁנִי וְהֶקְדֵּשׁ שֶׁלֹּא נִפְדּוּ. חַלּוֹת תּוֹדָה וּרְקִיקֵי נָזִיר, עֲשָׂאָן לְעַצְמוֹ, אֵין יוֹצְאִין בָּהֶן. עֲשָׂאָן לִמְכֹּר בַּשּׁוּק, יוֹצְאִין בָּהֶן:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+These are the things with which one fulfills his obligation [to eat matzoth] on [the first night of] Pesach, [when he is obligated to eat matzoth, viz. (Exodus 12:18): "In the evening shall you eat matzoth"]: with wheat, with barley, with spelt, with oats, and with fox-tail oats, [but not with rice, millet, and other species, it being written (Deuteronomy 16:3): "You shall not eat chametz upon it; seven days shall you eat matzoth upon it." One fulfills his matzah obligation only with things susceptible of becoming chametz — to exclude rice, millet, and other species, which do not become chametz, but only putrefy.] And one fulfills his obligation with demai, and with ma'aser rishon whose terumah was taken, and with ma'aser sheni and hekdesh that were redeemed [The need for enumerating all of these is explained in the eighteenth chapter of Shabbath], and Cohanim (fulfill their obligation) with challah and with terumah. [(If this were not stated) I might have thought that matzah which is fit for all men is required, but challah and terumah are not fit for non-priests. We are, therefore, apprised otherwise.] The challoth of the todah (the thanksgiving offering) and the wafers of the Nazirite's offering — If one made them for himself, [even though they are bona fide matzah], he does not fulfill his obligation with them, [it being written (Exodus 12:17): "And you shall watch the matzoth" — matzah which is watched for the sake of matzah; to exclude these, which are not watched for the sake of matzah, but for the sake of the offering.]; if he made them to sell them in the marketplace, he fulfills his obligation with them. [For with whatever is to be sold in the marketplace, he says to himself: "If I sell them, fine; if not, I will eat them as matzah of mitzvah."]
+
+
+###### Mishnah Pesachim 2:6
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/2:6](https://torahapp.org/share/book/Mishnah%20Pesachim/r/2:6)
+
+
+וְאֵלּוּ יְרָקוֹת שֶׁאָדָם יוֹצֵא בָהֶן יְדֵי חוֹבָתוֹ בְּפֶסַח, בַּחֲזֶרֶת וּבְעֻלָשִׁין וּבְתַמְכָא וּבְחַרְחֲבִינָה וּבְמָרוֹר. יוֹצְאִין בָּהֶן בֵּין לַחִין בֵּין יְבֵשִׁין, אֲבָל לֹא כְבוּשִׁין וְלֹא שְׁלוּקִין וְלֹא מְבֻשָּׁלִין. וּמִצְטָרְפִין לְכַזָּיִת. וְיוֹצְאִין בַּקֶּלַח שֶׁלָּהֶן, וּבִדְמַאי, וּבְמַעֲשֵׂר רִאשׁוֹן שֶׁנִּטְּלָה תְרוּמָתוֹ, וּבְמַעֲשֵׂר שֵׁנִי וְהֶקְדֵּשׁ שֶׁנִּפְדּוּ:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+And these are the greens with which one fulfills his obligation (to eat maror - bitter herbs) on Pesach: with chazereth (lettuce), with endives, with tamcha [bast which grows around the palm tree], with charchavina (palm ivy), and with maror (bitter herb) [a kind of coriander which is especially bitter]. One fulfils his obligation with them whether they are wet or dry [specifically with their stalk, as stated below. But with leaves, (he fulfills his obligation) only with wet ones, but not with dry ones.] But they may not be preserved (in vinegar), and they may not be boiled to a pulp, and they may not be cooked. And they combine to an olive-size [for the fulfillment of the maror obligation. The same is true of the five species of grain. They combine to an olive-size for the fulfillment of the matzah obligation. Both are being referred to.] And one fulfills his obligation with their stalks, and with demai, and with ma'aser rishon whose terumah was taken, and with ma'aser sheni and hekdesh which were redeemed.
+
+
+###### Mishnah Pesachim 2:7
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/2:7](https://torahapp.org/share/book/Mishnah%20Pesachim/r/2:7)
+
+
+אֵין שׁוֹרִין אֶת הַמֻּרְסָן לַתַּרְנְגוֹלִים, אֲבָל חוֹלְטִין. הָאִשָּׁה לֹא תִשְׁרֶה אֶת הַמֻּרְסָן שֶׁתּוֹלִיךְ בְּיָדָהּ לַמֶּרְחָץ, אֲבָל שָׁפָה הִיא בִּבְשָׂרָהּ יָבֵשׁ. לֹא יִלְעֹס אָדָם חִטִּין וְיַנִּיחַ עַל מַכָּתוֹ בְּפֶסַח, מִפְּנֵי שֶׁהֵן מַחֲמִיצוֹת:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+It is forbidden to soak morsan (coarse bran) for chickens (on Pesach) [in cold water, and it goes without saying, in lukewarm water], but it may be stirred [in boiling water. For so long as the water is boiling, it cannot become chametz. And nowadays, even stirring with hot water is related to as forbidden.] A woman may not soak the morsan that she takes with her to the bath-house [to rub her flesh with, for it becomes chametz through soaking], but she may rub it dry on her flesh [even though her flesh is moist with water]. One may not chew wheat grain and place it on his sore on Pesach because it becomes chametz thereby.
+
+
+###### Mishnah Pesachim 2:8
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/2:8](https://torahapp.org/share/book/Mishnah%20Pesachim/r/2:8)
+
+
+אֵין נוֹתְנִין קֶמַח לְתוֹךְ הַחֲרֹסֶת אוֹ לְתוֹךְ הַחַרְדָּל, וְאִם נָתַן, יֹאכַל מִיָּד, וְרַבִּי מֵאִיר אוֹסֵר. אֵין מְבַשְּׁלִין אֶת הַפֶּסַח לֹא בְמַשְׁקִין וְלֹא בְמֵי פֵרוֹת, אֲבָל סָכִין וּמַטְבִּילִין אוֹתוֹ בָהֶן. מֵי תַשְׁמִישׁוֹ שֶׁל נַחְתּוֹם, יִשָּׁפְכוּ, מִפְּנֵי שֶׁהֵן מַחֲמִיצִין:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+Flour is not to be put into charoseth [something containing vinegar and water, into which meat is dipped] or into mustard. And if one put it [into mustard], he must eat it immediately. [For mustard is sharp and it does not become chametz very quickly as it does in charoseth. But with charoseth, the first tanna concurs with R. Meir that it is forbidden.] R. Meir forbids it [even if he puts it into mustard, holding that it becomes chametz in mustard immediately, as in charoseth. The halachah is not in accordance with R. Meir. The Pesach (i.e., the meat of the Pesach offering) is not to be cooked, [it being written (Exodus 12:9): "…and cooked, cooked" — in any way], neither in liquids nor in fruit juices. But it may be anointed and dipped in them [after being roasted, and we do not say that its taste is thereby neutralized. Or else, even before it is roasted, it is permitted to anoint the Pesach with fruit juice. For thus was it taught (7:3): "If they anointed it with oil of terumah, if they were a company of Cohanim, they may eat it."] The water used by the baker [to cool his hands in when he forms the matzoth] should be spilled [down an incline, so that it not collect in one place] because it (thereby) becomes chametz.
+
+
+
+## Chapter 3
+
+###### Mishnah Pesachim 3:1
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/3:1](https://torahapp.org/share/book/Mishnah%20Pesachim/r/3:1)
+
+
+אֵלּוּ עוֹבְרִין בְּפֶסַח, כֻּתָּח הַבַּבְלִי, וְשֵׁכָר הַמָּדִי, וְחֹמֶץ הָאֲדוֹמִי, וְזֵתוֹם הַמִּצְרִי, וְזוֹמָן שֶׁל צַבָּעִים, וַעֲמִילָן שֶׁל טַבָּחִים, וְקוֹלָן שֶׁל סוֹפְרִים. רַבִּי אֱלִיעֶזֶר אוֹמֵר, אַף תַּכְשִׁיטֵי נָשִׁים. זֶה הַכְּלָל, כָּל שֶׁהוּא מִמִּין דָּגָן, הֲרֵי זֶה עוֹבֵר בְּפֶסַח. הֲרֵי אֵלּוּ בְאַזְהָרָה, וְאֵין בָּהֶן מִשּׁוּם כָּרֵת:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+These are to be removed ["from the world"] on Pesach [For even though one does not transgress bal yeraeh because of them, the rabbis ordained that they be removed. As stated below (3:5): "Siur (partially fermented dough) must be burned, even though one who eats it is not liable."], kutach habavli [made from mouldy bread and milk, in which they would dip food], shechar hamadi [beer that they would make in Madai from wheat or barley soaked in water ], chometz ha'adomi [ vinegar made in Edom, from barley placed in wine and left there until it fermented], zitom hamitzri [one-third barley, one-third wild saffron, one-third salt, made for healing purposes. Up to this point (there have been enumerated) varieties of chametz which are fit for eating in ta'aroveth (admixture). From this point on, hardened chametz in itself ], the zoma of dyers [water into which bran-flour is placed and which the dyers use in their work], the amil of cooks [a loaf made from the flour of grain less than one-third matured, used for covering pots to absorb vapors], and the kolan of scribes [mill-ground kneaded with water and used by scribes for gluing their papers]. R. Eliezer says: Also the adornments of women (tachshitei nashim). [R. Eliezer is hereby adding (to the categories). For the first tanna enumerates only absolute grain chametz in admixture or hardened chametz in itself. And R. Eliezer adds even tachshitei nashim, which is hardened chametz in admixture with other ingredients. The gemara asks: "Tachshitei nashim"? (i.e., What do adornments have to do with chametz? And it answers:) "Say, rather: 'tifulei nashim,'" the meal that women apply (tofloth) to their skin with other herbs to remove hair or to whiten and smooth the skin. The halachah is not in accordance with R. Eliezer.] This is the rule: Whatever is of a variety of grain must be removed on Pesach, [if it is one of the five varieties mixed with water. For if there is no water, but only fruit juice, the ruling is that fruit juice dos not produce chametz.], they are subsumed in the exhortation [i.e., if one eats them he transgresses a negative commandment], and they are not subject to kareth. [For only complete chametz is subject to kareth and not an admixture. But he receives stripes if he eats an olive-size of chametz in an admixture in the amount of time it takes to eat a p'ras (half a loaf) and if he does not, he does not receive stripes by Torah law. However, a prohibition does obtain, any amount of an admixture of chametz on Pesach being forbidden.]
+
+
+###### Mishnah Pesachim 3:2
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/3:2](https://torahapp.org/share/book/Mishnah%20Pesachim/r/3:2)
+
+
+בָּצֵק שֶׁבְּסִדְקֵי עֲרֵבָה, אִם יֵשׁ כַּזַּיִת בְּמָקוֹם אֶחָד, חַיָּב לְבַעֵר. וְאִם לֹא, בָּטֵל בְּמִעוּטוֹ. וְכֵן לְעִנְיַן הַטֻּמְאָה, אִם מַקְפִּיד עָלָיו, חוֹצֵץ. וְאִם רוֹצֶה בְקִיּוּמוֹ, הֲרֵי הוּא כָעֲרֵבָה. בָּצֵק הַחֵרֵשׁ, אִם יֵשׁ כַּיּוֹצֵא בוֹ שֶׁהֶחֱמִיץ, הֲרֵי זֶה אָסוּר:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+Dough in the cracks of an areivah (a kneading trough) [used to reinforce fragments and splits] — If there is an olive-size (of dough) in one spot, he must remove it. If not, it is neutralized by its smallness. [And if it is not used for reinforcement, even less than an olive-size must be removed, for he does not void it there (to the areivah), and he might decide to take it from there.] The same applies to uncleanliness (tumah). [If a sheretz touched this dough on Pesach ("whose prohibition gives it significance") — if there is an olive-size of dough, it acts as a partition against tumah (i.e., against tumah being imparted to the areivah). It is not considered as (part of) the areivah, and tumah is not transferred to it. With less than an olive-size — if he is not concerned about it, it is voided to the areivah; it is considered as if the sheretz had touched the areivah itself, and it becomes tamei.] If he is concerned about it (i.e., about its being there), it is a partition; and if he wants it there, it is like the areivah. [This is what is meant: And on the other days of the year, "when its prohibition does not give it significance," it depends not upon the size (of the dough), whether or not it is an olive-size, but upon his concern. If he is concerned about its being there and will eventually remove it from there, it is a partition against the (transference of the) tumah, whether or not it is an olive-size, and it does not confer tumah upon the areivah. And if he is not concerned about it and wishes it to remain there, even if it contains several olive-sizes, it is like part of the areivah, and when the sheretz touches the dough, it is as if it touches the areivah itself.] Batzek hacheresh ("deaf-mute" dough) [which when struck with the hand does not emit a sound, like a deaf-mute, who is called and does not answer. Another interpretation: "Batzek hacheress" ("shard dough") [which is as hard as a shard, so that it cannot be determined whether or not it has become chametz] — If there is aught like it which has become chametz, [i.e., if there is other dough which was kneaded at the same time as it was, and which has become chametz], it is forbidden, [and if there is not aught like it, then the standard (for its becoming chametz) is the amount of time it takes one to walk a mil at a normal pace, about two-fifths of an hour.]
+
+
+###### Mishnah Pesachim 3:3
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/3:3](https://torahapp.org/share/book/Mishnah%20Pesachim/r/3:3)
+
+
+כֵּיצַד מַפְרִישִׁין חַלָּה בְטֻמְאָה בְיוֹם טוֹב, רַבִּי אֱלִיעֶזֶר אוֹמֵר, לֹא תִקְרָא לָהּ שֵׁם עַד שֶׁתֵּאָפֶה. רַבִּי יְהוּדָה בֶּן בְּתֵירָא אוֹמֵר, תַּטִּיל בְּצוֹנֵן. אָמַר רַבִּי יְהוֹשֻׁעַ, לֹא זֶה הוּא חָמֵץ שֶׁמֻּזְהָרִים עָלָיו בְּבַל יֵרָאֶה וּבְבַל יִמָּצֵא, אֶלָּא מַפְרַשְׁתָּהּ וּמַנַּחְתָּה עַד הָעֶרֶב, וְאִם הֶחֱמִיצָה, הֶחֱמִיצָה:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+How is challah separated from tumah on a festival? [i.e., If the dough has become unclean, so that the challah taken from it is not fit for consumption by a Cohein, how can it be separated on the festival of Pesach? It cannot be baked on Pesach, for it is not fit for consumption. It cannot be left over to be burned at night, for it might become chametz. It is not permitted to feed it to dogs, for it is forbidden to destroy consecrated food on a festival.] R. Eliezer says: Let him not call it by name ("challah") until it is baked, [so that each (loaf) is fit for him, for from each loaf he separates a little. And after it is baked, if he wishes, he can separate the complete challah for all. For R. Eliezer holds that if one takes (loaves) from the oven and places them into a basket, they all combine for (purposes of) challah.] R. Yehudah says: Let it (the separated dough) be placed in cold water (so that it not become chametz.)] R. Yehoshua said: This is not the chametz that we are exhorted against in bal yeraeh and bal yimatzeh. [For it is not his after he calls it by name, and it is written (Exodus 13:7): "…shall not be seen unto you" — What is yours, you may not see, but you may see that of others and that of the Exalted. And this is neither yours not that of your neighbor, not yet having reached the hand of the Cohein. And R. Eliezer holds, that since if he wishes, he can ask (absolution for his dedication), it is dedication in error, therefore, not dedication, and thus, fit for him to eat and (regarded as) the chametz of an Israelite. And R. Yehoshua holds that we do not say: "Since if he wishes, etc." The halachah is in accordance with R. Eliezer.]
+
+
+###### Mishnah Pesachim 3:4
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/3:4](https://torahapp.org/share/book/Mishnah%20Pesachim/r/3:4)
+
+
+רַבָּן גַּמְלִיאֵל אוֹמֵר, שָׁלֹשׁ נָשִׁים לָשׁוֹת כְּאַחַת וְאוֹפוֹת בְּתַנּוּר אֶחָד, זוֹ אַחַר זוֹ. וַחֲכָמִים אוֹמְרִים, שָׁלֹשׁ נָשִׁים עוֹסְקוֹת בַּבָּצֵק, אַחַת לָשָׁה וְאַחַת עוֹרֶכֶת וְאַחַת אוֹפָה. רַבִּי עֲקִיבָא אוֹמֵר, לֹא כָל הַנָּשִׁים וְלֹא כָל הָעֵצִים וְלֹא כָל הַתַּנּוּרִים שָׁוִין. זֶה הַכְּלָל, תָּפַח, תִּלְטֹשׁ בְּצוֹנֵן:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+R. Gamliel says: Three women may knead (dough) together [each enough for a full oven, and need not fear that it will become chametz, even though one must wait until two have baked], and they bake in one oven, one after the other. And the sages say: Three women occupy themselves with the dough [i.e., Not so much leniency is to be exercised as to permit them to knead at the same time, but each occupies herself with her own dough]: one [the last one] kneads, one [the middle one] forms, and one [the third one, who kneaded first,] bakes. [So that each of the three is found to be occupying herself with her dough at the same time: one kneading her dough, one forming her dough, one baking her dough.] R. Akiva says: Not all women, and not all wood, and not all stoves are the same. ] R. Akiva refers to the statement of R. Gamliel, saying that it is not advisable to do as he says, for some women are lazy and the dough will become chametz if they take too much time, and some stoves do not heat so quickly, and some wood does not burn so quickly. Rather, the view of the sages should be followed — that they should be constantly occupied with the dough; for so long as they do so, it does not become chametz. And this is the halachah.] This is the rule: If [the dough in her hands] begins to rise, she should douse [her hands] in cold water [and form it so that it cools].
+
+
+###### Mishnah Pesachim 3:5
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/3:5](https://torahapp.org/share/book/Mishnah%20Pesachim/r/3:5)
+
+
+שִׂאוּר, יִשָּׂרֵף, וְהָאוֹכְלוֹ פָטוּר. סָדוּק, יִשָּׂרֵף, וְהָאוֹכְלוֹ חַיָּב כָּרֵת. אֵיזֶהוּ שִׂאוּר, כְּקַרְנֵי חֲגָבִים. סָדוּק, שֶׁנִּתְעָרְבוּ סְדָקָיו זֶה בָזֶה, דִּבְרֵי רַבִּי יְהוּדָה. וַחֲכָמִים אוֹמְרִים, זֶה וָזֶה, הָאוֹכְלוֹ חַיָּב כָּרֵת. וְאֵיזֶהוּ שִׂאוּר, כָּל שֶׁהִכְסִיפוּ פָנָיו כְּאָדָם שֶׁעָמְדוּ שַׂעֲרוֹתָיו:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+Siur [partially fermented dough] must be burned, and one who eats it is not liable. Sidduk [When dough becomes chametz, it develops sedakim (slits)] must be burned, and one who eats it incurs kareth. Which is "siur"? Like the horns of hoppers [a slit here, a slit there]. "Sidduk" — intersecting slits. These are the word of R. Yehudah. The sages say: One who eats either incurs kareth, ["like the horns of hoppers" also being "sidduk." ] Which is "siur" [for which one is not liable]? That [which has no slits, but] the surface of which is ashen, as one whose hair stands on end [from fright, his face turning ashen. The halachah is in accordance with the sages.]
+
+
+###### Mishnah Pesachim 3:6
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/3:6](https://torahapp.org/share/book/Mishnah%20Pesachim/r/3:6)
+
+
+אַרְבָּעָה עָשָׂר שֶׁחָל לִהְיוֹת בְּשַׁבָּת, מְבַעֲרִים אֶת הַכֹּל מִלִּפְנֵי הַשַּׁבָּת, דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹמְרִים, בִּזְמַנָּן. רַבִּי אֶלְעָזָר בַּר צָדוֹק אוֹמֵר, תְּרוּמָה מִלִּפְנֵי הַשַּׁבָּת, וְחֻלִּין בִּזְמַנָּן:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If the fourteenth (of Nissan) falls out on Shabbath, everything is burned before Shabbath [both chullin and terumah, except for what he needs to eat on Shabbath.] These are the words of R. Meir. The sages say: (Everything is removed) in its time (i.e., on Shabbath). R. Eliezer b. Tzaddok says: Terumah (is burned) before Shabbath, [for he can feed it neither to non-priests nor to beasts, and it is not permitted to let it stay], and chullin (is removed) in its time (i.e., on Shabbath), [for he can find many eaters for it. The halachah is in accordance with R. Eliezer b. Tzaddok.]
+
+
+###### Mishnah Pesachim 3:7
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/3:7](https://torahapp.org/share/book/Mishnah%20Pesachim/r/3:7)
+
+
+הַהוֹלֵךְ לִשְׁחֹט אֶת פִּסְחוֹ, וְלָמוּל אֶת בְּנוֹ, וְלֶאֱכֹל סְעֻדַּת אֵרוּסִין בְּבֵית חָמִיו, וְנִזְכַּר שֶׁיֶּשׁ לוֹ חָמֵץ בְּתוֹךְ בֵּיתוֹ, אִם יָכוֹל לַחֲזֹר וּלְבַעֵר וְלַחֲזֹר לְמִצְוָתוֹ, יַחֲזֹר וִיבַעֵר. וְאִם לָאו, מְבַטְּלוֹ בְלִבּוֹ. לְהַצִּיל מִן הַנָּכְרִים, וּמִן הַנָּהָר, וּמִן הַלִּסְטִים, וּמִן הַדְּלֵקָה, וּמִן הַמַּפֹּלֶת, יְבַטֵּל בְּלִבּוֹ. וְלִשְׁבֹּת שְׁבִיתַת הָרְשׁוּת, יַחֲזֹר מִיָּד:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If one were on his way [on the fourteenth of Nissan] to slaughter his Pesach offering, or to circumcise his son, or to eat the betrothal feast in the house of his father-in-law, and he remembered that he had chametz in his house — if he can return (home) and burn it and return to his mitzvah, he should do so; if not, he should void it in his heart.] (If he were on his way) to save someone [a Jew] from a troop [pursuing him], from a flood, from robbers, from a fire, or from a cave-in, he should nullify it in his heart. (If he were on his way) to establish resting for something permitted (as opposed to something that is a mitzvah) [i.e., If he were going to await night at the (Sabbath) bound, to establish "resting" there, so that he could walk two thousand cubits from there (on the festival) for the sake of something permitted], he must return immediately. [But if he were going to establish resting for the sake of a mitzvah, e.g., to go the next day to the house of a mourner or to a house of (mitzvah) feasting, it is as if he were going to slaughter his Pesach offering.]
+
+
+###### Mishnah Pesachim 3:8
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/3:8](https://torahapp.org/share/book/Mishnah%20Pesachim/r/3:8)
+
+
+וְכֵן מִי שֶׁיָּצָא מִירוּשָׁלַיִם וְנִזְכַּר שֶׁיֶּשׁ בְּיָדוֹ בְּשַׂר קֹדֶשׁ, אִם עָבַר צוֹפִים, שׂוֹרְפוֹ בִמְקוֹמוֹ. וְאִם לָאו, חוֹזֵר וְשׂוֹרְפוֹ לִפְנֵי הַבִּירָה מֵעֲצֵי הַמַּעֲרָכָה. וְעַד כַּמָּה הֵן חוֹזְרִין, רַבִּי מֵאִיר אוֹמֵר, זֶה וָזֶה בְכַבֵּיצָה. רַבִּי יְהוּדָה אוֹמֵר, זֶה וָזֶה בְכַזָּיִת. וַחֲכָמִים אוֹמְרִים, בְּשַׂר קֹדֶשׁ בְּכַזַּיִת, וְחָמֵץ בְּכַבֵּיצָה:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+Similarly, if one had left Jerusalem, and he remembered that he had with him consecrated flesh, [which is rendered pasul (unfit) by his leaving, the wall of Jerusalem being the (sanctioned) partition for lower-order offerings], if he had passed Tzofim [the name of a place whence the Temple can be seen], he burns it in his place, [and he is not constrained to return]; if not, he returns and burns it before the Temple with wood from the (altar) wood-pile, [it being written (Leviticus 6:23): "…in the holy place. It shall not be eaten; it shall be burned with fire" — In the place of its eating is its burning.] And for what quantity [of remembered chametz or consecrated flesh] does he return? R. Meir says: For either, the size of an egg. [But if less — if chametz, he voids it in his heart; if consecrated flesh, he burns it in his place. R. Meir holds that "its returning (i.e., the necessity of returning because of it) is as its tumah" (uncleanliness). Just as the tumah of food is with the size of an egg, (food less than that size not becoming tamei), so its returning is not for less than that quantity.] R. Yehudah says: For either, the size of an olive. [He holds that "its returning is as its prohibition" — Just as its prohibition is with an olive-size (one being liable for the eating of an olive-size of chametz or consecrated flesh), so its returning is for an olive-size.] And the sages say: Consecrated flesh, for an olive-size; chametz, for the size of an egg. [Because of the gravity attaching to consecrated flesh, he returns even for an olive-size; but for chametz, which is chullin, he returns only for the size of an egg. The halachah is in accordance with the sages.]
+
+
+
+## Chapter 4
+
+###### Mishnah Pesachim 4:1
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/4:1](https://torahapp.org/share/book/Mishnah%20Pesachim/r/4:1)
+
+
+מָקוֹם שֶׁנָּהֲגוּ לַעֲשׂוֹת מְלָאכָה בְּעַרְבֵי פְסָחִים עַד חֲצוֹת, עוֹשִׂין. מָקוֹם שֶׁנָּהֲגוּ שֶׁלֹּא לַעֲשׂוֹת, אֵין עוֹשִׂין. הַהוֹלֵךְ מִמָּקוֹם שֶׁעוֹשִׂין לְמָקוֹם שֶׁאֵין עוֹשִׂין, אוֹ מִמָּקוֹם שֶׁאֵין עוֹשִׂין לְמָקוֹם שֶׁעוֹשִׂין, נוֹתְנִין עָלָיו חֻמְרֵי מָקוֹם שֶׁיָּצָא מִשָּׁם וְחֻמְרֵי מָקוֹם שֶׁהָלַךְ לְשָׁם. וְאַל יְשַׁנֶּה אָדָם, מִפְּנֵי הַמַּחֲלֹקֶת:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+In a place where it was the custom to work on Pesach eve until mid-day, they (are permitted to) work. In a place where it was the custom not to work, [so that they not be preoccupied with work and forget to burn the chametz, to slaughter the Pesach offering, and to prepare the matzah of mitzvah], they do not work. If one goes from a place where they work to one where they do not work, or from a place where they do not work to one where they do work, there are imposed upon him the stringencies of the place whence he came and the place to which he went. And one should not deviate because of contention. [This is what is meant: If one goes from a place where they do not work to a place where they work, there are imposed upon him the stringencies of the place whence he came, and he should not work. For we rule "Let one not deviate from the custom of the city" only because of contention. But here there is no contention! For what will those who see him not working say? "He holds that work is forbidden and disagrees with all of us"? They will not say this, but rather: "He is out of work." For "there are plenty of idlers in the marketplace" every day of the year. And "there are imposed the stringencies of the place whence he came" applies only when he intends to return there; but if not, he deports himself as the people of the place to which he went, whether for lenity or stringency.]
+
+
+###### Mishnah Pesachim 4:2
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/4:2](https://torahapp.org/share/book/Mishnah%20Pesachim/r/4:2)
+
+
+כַּיּוֹצֵא בוֹ, הַמּוֹלִיךְ פֵּרוֹת שְׁבִיעִית מִמָּקוֹם שֶׁכָּלוּ לְמָקוֹם שֶׁלֹּא כָלוּ, אוֹ מִמָּקוֹם שֶׁלֹּא כָלוּ לְמָקוֹם שֶׁכָּלוּ, חַיָּב לְבַעֵר. רַבִּי יְהוּדָה אוֹמֵר, אוֹמְרִים לוֹ, צֵא וְהָבֵא לְךָ אַף אָתָּה:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+Similarly, if one brought shevi'ith fruits from a place where they "ended" [to the beast in the field and the men of his place are obliged to remove it from their houses] to a place where they did not end, [the men of that place still eating of those (shevi'ith) fruits, which they had gathered into the house]; or from a place where they did not end to a place where they did end, he is obliged to remove them [because of the stringencies of the place whence he came.] R. Yehudah says: We say to him: "You, too, go and bring." [The argument of R. Yehudah and the first tanna centers around one who preserved three types of greens in vinegar or in brine. Two of them "ended to the beast" in the field; the third did not. The first tanna holds that he may eat from those which ended on the strength of those which did not end, since they are in one container. And this is the implication of: "…from a place where they did not end to a place where they did end" — entirely — "he is obliged to remove them." But if not all of them ended, but only some of them, he eats also from the variety that ended so long as not all of them have ended, relying on the latter. And R. Yehudah says: "You, too, go and bring" from the variety that ended, as this man did — you will not find any. Therefore, he is permitted to eat only of the variety that did not end. For it is not permitted to eat varieties that ended on the strength of one that did not; and he must, therefore, remove all of them. The halachah is in accordance with R. Yehudah re the dictum of R. Gamliel, the halachah being in accordance with him in tractate Shevi'ith (9:5)].
+
+
+###### Mishnah Pesachim 4:3
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/4:3](https://torahapp.org/share/book/Mishnah%20Pesachim/r/4:3)
+
+
+מָקוֹם שֶׁנָּהֲגוּ לִמְכֹּר בְּהֵמָה דַקָּה לַגּוֹיִם, מוֹכְרִין. מָקוֹם שֶׁנָּהֲגוּ שֶׁלֹּא לִמְכֹּר, אֵין מוֹכְרִין. וּבְכָל מָקוֹם אֵין מוֹכְרִין לָהֶם בְּהֵמָה גַסָּה, עֲגָלִים וּסְיָחִים שְׁלֵמִין וּשְׁבוּרִין. רַבִּי יְהוּדָה מַתִּיר בִּשְׁבוּרָה. בֶּן בְּתֵירָה מַתִּיר בְּסוּס:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+In a place where it was the custom to sell a small animal to idolators, they (are permitted) to sell. In a place where it was the custom not to sell, [where they were stringent with themselves, lest they come to sell a large one], they do not sell. And in all places it is not permitted to sell a large animal to them, [the rabbis having decreed (against it) lest he lend or rent his beast to an idolator (who might work with it on Shabbath), and a Jew is exhorted vis-à-vis the resting of his animal (on the Sabbath). Or else, sometimes he might sell it on Sabbath eve towards dark and shout to his beast so that it follow the purchaser, which if the beast does because it recognizes his voice, he is found to be "mechamer" ("driving") his beast on the Sabbath.] (And it is not permitted to sell them) calves or young asses, sound or broken, [For though they cannot be worked, they (i.e., selling them) might come to be confused with the selling of large beasts. R. Yehudah permits selling an unsound beast, [which will never be fit to be worked; but he concurs that it is forbidden to sell calves or young asses, for when they are grown, they will be fit for work. The halachah is not in accordance with R. Yehudah.] Ben Betheirah permits selling a horse, [since it is used for riding, and "a living person carries himself." The halachah is not in accordance with Ben Betheirah. And one may sell a beast through an agent when he (the owner) is not present at the time of the sale. For there is no reason to fear that he (the agent) will come to lend or rent it, it not being his. Nor is there any reason to fear that he will be in transgression of mechamer, the animal not recognizing his voice.]
+
+
+###### Mishnah Pesachim 4:4
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/4:4](https://torahapp.org/share/book/Mishnah%20Pesachim/r/4:4)
+
+
+מָקוֹם שֶׁנָּהֲגוּ לֶאֱכֹל צָלִי בְלֵילֵי פְסָחִים, אוֹכְלִין. מָקוֹם שֶׁנָּהֲגוּ שֶׁלֹּא לֶאֱכֹל, אֵין אוֹכְלִין. מָקוֹם שֶׁנָּהֲגוּ לְהַדְלִיק אֶת הַנֵּר בְּלֵילֵי יוֹם הַכִּפּוּרִים, מַדְלִיקִין. מָקוֹם שֶׁנָּהֲגוּ שֶׁלֹּא לְהַדְלִיק, אֵין מַדְלִיקִין. וּמַדְלִיקִין בְּבָתֵּי כְנֵסִיּוֹת וּבְבָתֵּי מִדְרָשׁוֹת, וּבַמְּבוֹאוֹת הָאֲפֵלִים, וְעַל גַּבֵּי הַחוֹלִים:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+In a place where it was the custom to eat roast on Pesach night, they eat. In a place where it was the custom not to eat it, [the impression being given that they are eating consecrated food outside of Eretz Yisrael], they do not eat. In a place where it was the custom to light a candle on Yom Kippur, they light it, [it being forbidden to cohabit on Yom Kippur, and so long as a candle is burning, one will not do so, it being forbidden to cohabit by the light of a candle]. And in a place where it was the custom not to light, they do not light, [lest he look upon his wife and be attracted to her and he come to cohabit with her.] And they are lit in houses of prayer and houses of study and dark alleyways and above (the heads of) the sick [i.e., in any place where a man and his wife are not wont to be alone.]
+
+
+###### Mishnah Pesachim 4:5
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/4:5](https://torahapp.org/share/book/Mishnah%20Pesachim/r/4:5)
+
+
+מָקוֹם שֶׁנָּהֲגוּ לַעֲשׂוֹת מְלָאכָה בְתִשְׁעָה בְאָב, עוֹשִׂין. מָקוֹם שֶׁנָּהֲגוּ שֶׁלֹּא לַעֲשׂוֹת מְלָאכָה, אֵין עוֹשִׂין. וּבְכָל מָקוֹם תַּלְמִידֵי חֲכָמִים בְּטֵלִים. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר, לְעוֹלָם יַעֲשֶׂה אָדָם עַצְמוֹ תַּלְמִיד חָכָם. וַחֲכָמִים אוֹמְרִים, בִּיהוּדָה הָיוּ עוֹשִׂין מְלָאכָה בְעַרְבֵי פְסָחִים עַד חֲצוֹת, וּבַגָּלִיל לֹא הָיוּ עוֹשִׂין כָּל עִקָּר. וְהַלַּיְלָה, בֵּית שַׁמַּאי אוֹסְרִין, וּבֵית הִלֵּל מַתִּירִין עַד הָנֵץ הַחַמָּה:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+In a place where it was the custom to work on Tisha b'Av, they work. In a place where it was the custom not to work, they do not work. And in every place, Torah scholars are idle [from their work that entire day, so that they not take their minds off the mourning.] R. Shimon b. Gamliel says: Let one always "make himself a Torah scholar" (and not work) [and it will not seem ostentatious in him. For one seeing him idle will think it is because he has nothing to do and not because he is prohibiting work to himself.] And the sages say: In Judah they would work on Pesach eve until mid-day, and in the Galil, they would not work at all. [The sages hold that the performance of labor on Pesach eve is not a function of custom. In Judah, it was permitted, and in the Galil it was patently forbidden, and not a function of custom.] As to the night [preceding the fourteenth of Nissan], Beth Shammai forbids [the performance of labor to the men of the Galil (who forbid working on Pesach eve) just as it is forbidden on all other festivals, the night appertaining to the day (that follows)], and Beth Hillel permit it until sunrise, [as with a fast, eating being forbidden in the daytime, and permitted the (preceding) night.]
+
+
+###### Mishnah Pesachim 4:6
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/4:6](https://torahapp.org/share/book/Mishnah%20Pesachim/r/4:6)
+
+
+רַבִּי מֵאִיר אוֹמֵר, כָּל מְלָאכָה שֶׁהִתְחִיל בָּהּ קֹדֶם לְאַרְבָּעָה עָשָׂר, גּוֹמְרָהּ בְּאַרְבָּעָה עָשָׂר. אֲבָל לֹא יַתְחִיל בָּהּ בַּתְּחִלָּה בְאַרְבָּעָה עָשָׂר, אַף עַל פִּי שֶׁיָּכוֹל לְגָמְרָהּ. וַחֲכָמִים אוֹמְרִים, שָׁלֹשׁ אֻמָּנֻיּוֹת עוֹשִׂין מְלָאכָה בְעַרְבֵי פְסָחִים עַד חֲצוֹת, וְאֵלּוּ הֵן, הַחַיָּטִים, הַסַּפָּרִים וְהַכּוֹבְסִין. רַבִּי יוֹסֵי בַּר יְהוּדָה אוֹמֵר, אַף הָרַצְעָנִים:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+R. Meir says: All work [needed for the festival], which one began before the fourteenth, may be completed on the fourteenth [even in a place where it was the custom not to work. But work not needed for the festival may be done in a place where it was the custom to work. And in a place where it was the custom not to work, even if he began such work before the fourteenth, he may not complete it.] But he may not begin it on the beginning of the fourteenth, even if he can complete it. And the sages say: Three craftsmen may follow their trade on Pesach eve until mid-day: tailors [They are permitted to work on the fourteenth in all places, for we find a leniency in respect to tailoring on chol hamoed (the intermediate days of the festival) that we do not find in respect to other trades — that one who is not expert in it may sew as he regularly does, for which reason on the fourteenth, which is of lesser sanctity than chol hamoed, even a professional (tailor) may work.], barbers, and washermen. [For one who comes from abroad and one who is released from prison may cut his hair and wash his clothing on chol hamoed. And since we find a leniency on chol hamoed, on the fourteenth, which is of lesser sanctity, it is permitted to all.] R. Yossi b. Yehudah says: Even the cobblers. [For the festival pilgrims repair their shoes on the festival. And the sages hold that we do not derive the beginning of the cobblers' work — the making of new shoes — from its end, the repairing of shoes for the festival pilgrims. The halachah is in accordance with the sages.]
+
+
+###### Mishnah Pesachim 4:7
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/4:7](https://torahapp.org/share/book/Mishnah%20Pesachim/r/4:7)
+
+
+מוֹשִׁיבִין שׁוֹבָכִין לַתַּרְנְגוֹלִים בְּאַרְבָּעָה עָשָׂר. וְתַרְנְגֹלֶת שֶׁבָּרְחָה, מַחֲזִירִין אוֹתָהּ לִמְקוֹמָהּ. וְאִם מֵתָה, מוֹשִׁיבִין אַחֶרֶת תַּחְתֶּיהָ. גּוֹרְפִין מִתַּחַת רַגְלֵי בְהֵמָה בְאַרְבָּעָה עָשָׂר, וּבַמּוֹעֵד מְסַלְּקִין לַצְּדָדִין. מוֹלִיכִין וּמְבִיאִין כֵּלִים מִבֵּית הָאֻמָּן, אַף עַל פִּי שֶׁאֵינָם לְצֹרֶךְ הַמּוֹעֵד:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+It is permitted to set up chicken coops [for the hatching of chicks, ab initio] on the fourteenth. And if a hen ran away, she is returned to her place, [That is, if she ran away on chol hamoed. For if she ran away on the fourteenth — if it is permitted to set coops ab initio on the fourteenth, it is obviously permitted to return her. We must be speaking, then, of a hen that ran away on chol hamoed. And the instance must be one in which she had been sitting on the eggs three days before she ran away, so that the eggs are no longer fit for eating and are "a thing that will go lost" if she is not returned. Therefore,] if she dies, another is set in her place [so that the eggs not go lost]. (Dung) is flung out from under the legs of the beasts on the fourteenth. And on chol hamoed, [which is of greater sanctity], it is [not flung out but] moved to the side. Articles may be brought to and from the craftsman's house [on the fourteenth], even if not needed for the festival.
+
+
+###### Mishnah Pesachim 4:8
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/4:8](https://torahapp.org/share/book/Mishnah%20Pesachim/r/4:8)
+
+
+שִׁשָּׁה דְבָרִים עָשׂוּ אַנְשֵׁי יְרִיחוֹ, עַל שְׁלֹשָׁה מִחוּ בְיָדָם, וְעַל שְׁלֹשָׁה לֹא מִחוּ בְיָדָם. וְאֵלּוּ הֵן שֶׁלֹּא מִחוּ בְיָדָם, מַרְכִּיבִין דְּקָלִים כָּל הַיּוֹם, וְכוֹרְכִין אֶת שְׁמַע, וְקוֹצְרִין וְגוֹדְשִׁין לִפְנֵי הָעֹמֶר, וְלֹא מִחוּ בְיָדָם. וְאֵלּוּ שֶׁמִּחוּ בְיָדָם, מַתִּירִין גִּמְזִיּוֹת שֶׁל הֶקְדֵּשׁ, וְאוֹכְלִין מִתַּחַת הַנְּשָׁרִים בְּשַׁבָּת, וְנוֹתְנִים פֵּאָה לַיָּרָק, וּמִחוּ בְיָדָם חֲכָמִים:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+The men of Jericho were wont to do six things; Against three they (the sages) protested, and against three they did not protest. Those against which they did not protest: They would gender date-palms all the day (of the fourteenth of Nissan). [They would graft a soft shoot of a male palm with a female palm, the male gendering the fruit and not the female]; they would "sandwich" the Shema [They would not say: "Baruch shem kevod malchutho leolam va'ed" in reciting the Shema. Another interpretation. They would not pause between "echad" and "ve'ahavta," though it is necessary to draw out "echad" and to pause between "the kingdom of Heaven" and other things.]; and they would harvest and heap up stacks [of new grain] before (offering) the omer, [not fearing that they might come to eat from it.] — and they (the sages) did not protest. [All of the six things that they did were not favored by the sages. It is just that they did not protest against these three and they did protest against the others.] And these are the ones against which they protested: They (the men of Jericho permitted [the eating of] growths of hekdesh [i.e., growths of a tree dedicated to the Temple, feeling that the fruit alone was interdicted. Some versions have "cuttings of hekdesh," i.e., they would cut down for their benefit the branches of trees of hekdesh, which sprouted after the tree had been dedicated]; they would eat from fruits found under a tree on a Sabbath, [though they did not know whether they had fallen on Sabbath eve and were permitted, or whether they had fallen on Sabbath and were forbidden.]; and they would give peah for greens, [whereas the ruling is that anything which one does not bring in for storage is not subject to peah, and greens are not brought in for storage. The sages protested, for they thereby excluded the greens from ma'aser, the poor eating them in their untithed state (tevel), assuming that they were peah, which is not subject to ma'aser, it being hefker (renounced property)] — and the sages protested.
+
+
+###### Mishnah Pesachim 4:9
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/4:9](https://torahapp.org/share/book/Mishnah%20Pesachim/r/4:9)
+
+
+שִׁשָּׁה דְבָרִים עָשָׂה חִזְקִיָּה הַמֶּלֶךְ, עַל שְׁלֹשָׁה הוֹדוּ לוֹ, וְעַל שְׁלֹשָׁה לֹא הוֹדוּ לוֹ. גֵּרַר עַצְמוֹת אָבִיו עַל מִטָּה שֶׁל חֲבָלִים, וְהוֹדוּ לוֹ. כִּתֵּת נְחַשׁ הַנְּחֹשֶׁת, וְהוֹדוּ לוֹ. גָּנַז סֵפֶר רְפוּאוֹת, וְהוֹדוּ לוֹ. עַל שְׁלֹשָׁה לֹא הוֹדוּ לוֹ, קִצֵּץ דְּלָתוֹת שֶׁל הֵיכָל וְשִׁגְּרָן לְמֶלֶךְ אַשּׁוּר, וְלֹא הוֹדוּ לוֹ. סָתַם מֵי גִיחוֹן הָעֶלְיוֹן, וְלֹא הוֹדוּ לוֹ. עִבֵּר נִיסָן בְּנִיסָן, וְלֹא הוֹדוּ לוֹ:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+King Hezekiah did six things, three of which met with their (the sages') approbation, three of which did not. He dragged his father's bones on a litter of ropes, [for purposes of atonement. He did not bury him in a litter befitting his honor, so that he be demeaned because of his wickedness and the wicked thereby take reproof], and this met with their approbation. He crushed the brass serpent, [as explained in Chronicles, because they were led astray by it], and this met with their approbation. He hid the Book of Cures, [for they recovered immediately and their hearts were not humbled by their illness. Rambam explains that the Book of Cures described the forms of stars and of talismans, affirming that certain forms fashioned at certain times would cure certain illnesses. This came near to drawing men to idolatry, for which reason Hezekiah hid it], and this met with their approbation. He cut (the gold from the doors of) the Temple and sent it to the king of Assyria, and this did not meet with their approbation. He stopped up the upper mouth of the waters of Gichon, and this did not meet with their approbation. He intercalated Nissan on Nissan, and this did not meet with their approbation. [After Nissan had entered, he decided to make it Adar Sheni, but it is written (Exodus 12:2): "This month shall be for you the beginning of months" — this month is Nissan, and no other month is Nissan. And Hezekiah did not do so after Nissan itself had entered; but on the thirtieth day of Adar he intercalated the year, whereas the ruling is that the year is not to be intercalated on the thirtieth of Adar since that day may be declared Nissan.]
+
+
+
+## Chapter 5
+
+###### Mishnah Pesachim 5:1
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/5:1](https://torahapp.org/share/book/Mishnah%20Pesachim/r/5:1)
+
+
+תָּמִיד נִשְׁחָט בִּשְׁמֹנֶה וּמֶחֱצָה וְקָרֵב בְּתֵשַׁע וּמֶחֱצָה. בְּעַרְבֵי פְסָחִים נִשְׁחָט בְּשֶׁבַע וּמֶחֱצָה וְקָרֵב בִּשְׁמֹנֶה וּמֶחֱצָה, בֵּין בְּחֹל בֵּין בְּשַׁבָּת. חָל עֶרֶב פֶּסַח לִהְיוֹת בְּעֶרֶב שַׁבָּת, נִשְׁחָט בְּשֵׁשׁ וּמֶחֱצָה וְקָרֵב בְּשֶׁבַע וּמֶחֱצָה, וְהַפֶּסַח אַחֲרָיו:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+The tamid (the perpetual burnt-offering) is slaughtered eight and a half hours (after sunrise) and sacrificed at nine and a half. On Pesach eve it is slaughtered at seven and a half and sacrificed at eight and a half, both on a weekday and on Shabbath. [The afternoon tamid is slaughtered all of the days of the year (excluding Pesach) eight and a half hours (after sunrise). For the time of the slaughtering of the tamid is when the evening shadows begin to fall; that is, from six and a half hours on, when the sun inclines to the west. For between six and seven it stands in the middle of the sky and casts no shadow, but each man's shadow is "beneath" him. And its slaughtering is delayed for two hours after its time because of vows and gift-offerings, it being written (Leviticus 6:5): "And he shall cause to smoke upon it the fats of the peace-offerings, so that nothing come after the afternoon tamid. And even on Shabbath, when vows and gift-offerings are not sacrificed, the time of the slaughtering of the afternoon tamid is delayed for the sake of uniformity with the weekday vows and gift-offerings. And on Pesach eve, when the Pesach offering is sacrificed after the afternoon tamid, it is advanced one hour and slaughtered at seven and a half.] If Pesach eve falls out on Sabbath eve, it is slaughtered at six and a half, [for there is also the roasting of the Pesach, which does not override Shabbath and which must be done while it is still day. The slaughtering of the tamid is, therefore, advanced to six and a half], and it is sacrificed at seven and a half [The end of the sacrifice is at seven and a half, one hour being required for its processing], and the Pesach (is slaughtered) after it.
+
+
+###### Mishnah Pesachim 5:2
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/5:2](https://torahapp.org/share/book/Mishnah%20Pesachim/r/5:2)
+
+
+הַפֶּסַח שֶׁשְּׁחָטוֹ שֶׁלֹּא לִשְׁמוֹ, וְקִבֵּל וְהִלֵּךְ וְזָרַק שֶׁלֹּא לִשְׁמוֹ, אוֹ לִשְׁמוֹ וְשֶׁלֹּא לִשְׁמוֹ, אוֹ שֶׁלֹּא לִשְׁמוֹ וְלִשְׁמוֹ, פָּסוּל. כֵּיצַד לִשְׁמוֹ וְשֶׁלֹּא לִשְׁמוֹ, לְשֵׁם פֶּסַח וּלְשֵׁם שְׁלָמִים. שֶׁלֹּא לִשְׁמוֹ וְלִשְׁמוֹ, לְשֵׁם שְׁלָמִים וּלְשֵׁם פָּסַח:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If one did not slaughter the Pesach lishmo (as such, for its own sake) [as when he slaughtered it as a peace-offering], or if he received [its blood in the sprinkling bowl], or brought [the blood to the altar] or sprinkled [the blood on the altar] not lishmo; or lishmo and not lishmo [as when he slaughtered it lishmo and received the blood not lishmo]; or not lishmo and lishmo, it is invalidated. [We are hereby apprised that thought obtains from one (sacrificial) function to another (i.e., if he thought while performing one function to perform another with an unfit thought, e.g., if he thought: "I shall slaughter it lishmo to sprinkle its blood lo lishmo"), the offering is immediately invalidated, even if he did not perform the second function with that unfit thought. And this is how our Mishnah is to be understood, viz.: "Or [if he thought, while slaughtering, to sprinkle the blood lo lishmo] and [he sprinkled it] lishmo, it is unfit. The fact that lo lishmo renders the Pesach offering unfit is derived from (Exodus 12:27): "And you shall say: 'It is a Paschal sacrifice'" — It must be sacrificed as a Paschal offering. And "it" ("hu") connotes a categorical requirement (which, if not observed, invalidates the offering)]. "Lishmo and not lishmo": How so? Leshem Pesach and leshem shelamim (peace-offering). "Shelo lishmo and lishmo". How so? Leshem shelamim and leshem Pesach. (See above).
+
+
+###### Mishnah Pesachim 5:3
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/5:3](https://torahapp.org/share/book/Mishnah%20Pesachim/r/5:3)
+
+
+שְׁחָטוֹ שֶׁלֹּא לְאוֹכְלָיו וְשֶׁלֹּא לִמְנוּיָיו, לַעֲרֵלִים וְלִטְמֵאִים, פָּסוּל. לְאוֹכְלָיו וְשֶׁלֹּא לְאוֹכְלָיו, לִמְנוּיָיו וְשֶׁלֹּא לִמְנוּיָיו, לְמוּלִים וְלַעֲרֵלִים, לִטְמֵאִים וְלִטְהוֹרִים, כָּשֵׁר. שְׁחָטוֹ קֹדֶם חֲצוֹת, פָּסוּל, מִשּׁוּם שֶׁנֶּאֱמַר (שמות יב) בֵּין הָעַרְבָּיִם. שְׁחָטוֹ קֹדֶם לַתָּמִיד, כָּשֵׁר, וּבִלְבַד שֶׁיְּהֵא אֶחָד מְמָרֵס בְּדָמוֹ עַד שֶׁיִּזָּרֵק דַּם הַתָּמִיד. וְאִם נִזְרַק, כָּשֵׁר:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If he slaughtered it not for its eaters [e.g., for a sick man, an old man, and a child, who cannot eat an olive-size of flesh, and there are no others counted for it but they, it is pasul (unfit), it being written (Exodus 12:4): "A man according to his eating shall you count" — one who is capable of eating.], and not for those counted for it [i.e., if one company were counted for it and he slaughtered it for a different company], for the uncircumcised, [i.e., for Israelites whose brothers died because of circumcision (so that they were not circumcised), these being unfit to eat the Pesach, it being written (Exodus 12:48): "And no uncircumcised one shall eat of it."], and for the unclean [They, too, are forbidden to eat consecrated food, and they incur kareth if they do] (If he slaughtered it for any of the above), it is pasul. (If he slaughtered it) for its eaters and not for its eaters, for those counted for it and for those not counted for it, for the circumcised and the uncircumcised, for the unclean and the clean, it is kasher. [and it is not like "lishmo and not lishmo," which is pasul. For there the p'sul is in its body, i.e., the invalidating thought relates to the body of the offering, but with "for its eaters and not for its eaters, etc.", the invalidating thought does not relate to the body of the offering, but to something outside it.] If he slaughtered it before mid-day, it is pasul, it being written (Exodus 12:6): "towards evening." If he slaughtered it before the tamid it is kasher, so long as someone stirs its blood [so that it not congeal, so that it be fit for sprinkling] until the blood of the tamid has been sprinkled. And if it were sprinkled [before the blood of the tamid ], it is kasher. [For even though the Pesach follows the tamid, it being written in regard to the Pesach (Deuteronomy 16:6): "in the evening," (Exodus 12:6): "towards evening," it is not invalidated thereby.]
+
+
+###### Mishnah Pesachim 5:4
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/5:4](https://torahapp.org/share/book/Mishnah%20Pesachim/r/5:4)
+
+
+הַשּׁוֹחֵט אֶת הַפֶּסַח עַל הֶחָמֵץ, עוֹבֵר בְּלֹא תַעֲשֶׂה. רַבִּי יְהוּדָה אוֹמֵר, אַף הַתָּמִיד. רַבִּי שִׁמְעוֹן אוֹמֵר, הַפֶּסַח בְּאַרְבָּעָה עָשָׂר, לִשְׁמוֹ חַיָּב, וְשֶׁלֹּא לִשְׁמוֹ פָּטוּר. וּשְׁאָר כָּל הַזְּבָחִים, בֵּין לִשְׁמָן וּבֵין שֶׁלֹּא לִשְׁמָן, פָּטוּר. וּבַמּוֹעֵד, לִשְׁמוֹ פָּטוּר, וְשֶׁלֹּא לִשְׁמוֹ חַיָּב, וּשְׁאָר כָּל הַזְּבָחִים, בֵּין לִשְׁמָן וּבֵין שֶׁלֹּא לִשְׁמָן, חַיָּב, חוּץ מִן הַחַטָּאת שֶׁשְּׁחָטָהּ שֶׁלֹּא לִשְׁמָהּ:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If one slaughters the Pesach in the presence of chametz [that is, if when he slaughtered it there were chametz in the domain of the slaughterer or of one of the company, even if there were no chametz in the azarah (the Temple court)], he transgresses a negative commandment, [viz. (Exodus 34:25): "Do not slaughter in the presence of chametz the blood of My sacrifice," but the offering is not invalidated.] R. Yehudah says: The tamid, too, [the afternoon tamid of Pesach eve. If one slaughtered it in the presence of chametz, i.e., if there were chametz in the domain of the slaughterer or of the sacrificer, he transgresses a negative commandment, viz.: "My sacrifice" — the sacrifice which is distinctly Mine, the tamid. The halachah is not in accordance with R. Yehudah.] R. Shimon says: If he slaughtered the Pesach [in the presence of chametz] on the fourteenth, lishmo, he is liable [by reason of: "Do not slaughter in the presence of chametz." For it is a kasher Pesach and the slaughtering is valid and called "slaughtering."]; and (if he slaughtered it) not lishmo, he is not liable, [for the Pesach is pasul, and the slaughtering is not valid and not called "slaughtering."] And for all other offerings [which were slaughtered on the fourteenth after mid-day in the presence of chametz], whether lishmo or not lishmo, he is not liable, [even though they are kasher, as it was taught: "All offerings which were sacrificed lo lishmo are kasher, etc." In spite of this, he is not liable, "My sacrifice" being written twice — (here): "Do not slaughter in the presence of chametz the blood of My sacrifice," and (Exodus 23:18): "You shall not sacrifice in the presence of chametz the blood of My sacrifice." Why does Scripture divide it and not write "My sacrifices" in one verse, so that all offerings would be implied, both the Pesach offering and all others? To teach us that when a "sacrifice" obtains, that is, on the fourteenth, when the Pesach offering obtains, he is not liable for other offerings; and when the (Pesach) "sacrifice" does not obtain, as in the midst of the festival, he is liable for other offerings if he slaughters them in the presence of chametz.] And in [the midst of] the festival, (if he slaughters it [in the presence of chametz]) lishmo, [as the Pesach offering], he is not liable [for "Do not slaughter in the presence of chametz the blood of My sacrifice," for a Pesach offering not in its time, lishmo, is pasul, and the slaughtering is invalid]; (if he slaughters it) shelo lishmo, [as shelamim (a peace-offering)], he is liable, [for it is "eligible" for this and the slaughtering is valid. And he is liable by reason of "Do not slaughter" as well as by reason of bal yeraeh and bal yimatzeh.] And for all of the other offerings [which were sacrificed on the festival in the presence of chametz], whether lishmo or lo lishmo, he is liable, [Scripture exhorting against other offerings, too] — except for a sin-offering which was slaughtered lo lishmah [it being written in respect to the slaughtering of a sin-offering: "It is a sin-offering" — "it," and not what was slaughtered lo lishmah.]
+
+
+###### Mishnah Pesachim 5:5
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/5:5](https://torahapp.org/share/book/Mishnah%20Pesachim/r/5:5)
+
+
+הַפֶּסַח נִשְׁחָט בְּשָׁלֹשׁ כִּתּוֹת, שֶׁנֶּאֱמַר וְשָׁחֲטוּ אֹתוֹ כֹּל קְהַל עֲדַת יִשְׂרָאֵל, (שמות יב) קָהָל וְעֵדָה וְיִשְׂרָאֵל. נִכְנְסָה כַת הָרִאשׁוֹנָה, נִתְמַלֵּאת הָעֲזָרָה, נָעֲלוּ דַלְתוֹת הָעֲזָרָה. תָּקְעוּ, הֵרִיעוּ וְתָקָעוּ. הַכֹּהֲנִים עוֹמְדִים שׁוּרוֹת שׁוּרוֹת, וּבִידֵיהֶם בָּזִיכֵי כֶסֶף וּבָזִיכֵי זָהָב. שׁוּרָה שֶׁכֻּלָּהּ כֶּסֶף כֶּסֶף, וְשׁוּרָה שֶׁכֻּלָּהּ זָהָב זָהָב. לֹא הָיוּ מְעֹרָבִין. וְלֹא הָיוּ לַבָּזִיכִין שׁוּלַיִם, שֶׁמָּא יַנִּיחוּם וְיִקְרַשׁ הַדָּם:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+The Pesach is slaughtered in three groups [Whether the congregation be large, or it be small and they can slaughter it at one time, it is a mitzvah to divide them into three groups, one (slaughtering) after the other], it being written (Exodus 12:6): "And the entire assembly of the congregation of Israel shall slaughter it" — "assembly," "congregation," and "Israel" [three groups]. When the first group entered and the azarah (the Temple court) was filled, the doors of the azarah were closed. They (the Cohanim) sounded the tekiah, and the teruah, and the tekiah (on the shofroth.) The Cohanim stood row upon row, and in their hands were large vessels [for receiving the blood], (vessels) of silver and of gold — one row, all of silver; the other, all of gold [to add beauty to the occasion]; they were not intermixed. And the vessels had no bases [They were broad on top and came to a point on the bottom, so that they could not be rested on the ground], lest [the Cohanim] place them there [until they received additional blood (there being many offerings) and forget them] and the blood congeal [and not be fit for sprinkling.]
+
+
+###### Mishnah Pesachim 5:6
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/5:6](https://torahapp.org/share/book/Mishnah%20Pesachim/r/5:6)
+
+
+שָׁחַט יִשְׂרָאֵל וְקִבֵּל הַכֹּהֵן, נוֹתְנוֹ לַחֲבֵרוֹ וַחֲבֵרוֹ לַחֲבֵרוֹ, וּמְקַבֵּל אֶת הַמָּלֵא וּמַחֲזִיר אֶת הָרֵיקָן. כֹּהֵן הַקָּרוֹב אֵצֶל הַמִּזְבֵּחַ זוֹרְקוֹ זְרִיקָה אַחַת כְּנֶגֶד הַיְסוֹד:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If an Israelite slaughtered (the Pesach) [If he wishes to, he may, the shechitah of a non-priest being kasher with all offerings] and the priest received it, he gives it to his neighbor, [for they were standing in a row], and his neighbor to his neighbor ["The multitude of the people is the glory of the King"]. And he receives the full one [from the giver first] and [then] returns the empty one. [But not in reverse order; but as soon as he extends it (the full one) to him, he must receive it, for "mitzvoth are not to be passed over."] The Cohein nearest the altar gives it one fling [with the vessel itself, not sprinkling it with his finger (the only offering requiring this being the sin-offering, in respect to which it is written: "with his finger")] facing the base [i.e., on the sides of the altar above the base. He flings it to the perpendicular of the altar and it descends to the base. "facing the base" is stated in light of the fact that the base does not surround the entire altar, but only the north and the west, and "consuming" a cubit south and east, as explained in Middoth.]
+
+
+###### Mishnah Pesachim 5:7
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/5:7](https://torahapp.org/share/book/Mishnah%20Pesachim/r/5:7)
+
+
+יָצְתָה כַת רִאשׁוֹנָה וְנִכְנְסָה כַת שְׁנִיָּה. יָצְתָה שְׁנִיָּה, נִכְנְסָה שְׁלִישִׁית. כְּמַעֲשֵׂה הָרִאשׁוֹנָה כָּךְ מַעֲשֵׂה הַשְּׁנִיָּה וְהַשְּׁלִישִׁית. קָרְאוּ אֶת הַהַלֵּל. אִם גָּמְרוּ שָׁנוּ, וְאִם שָׁנוּ שִׁלְּשׁוּ, אַף עַל פִּי שֶׁלֹּא שִׁלְּשׁוּ מִימֵיהֶם. רַבִּי יְהוּדָה אוֹמֵר, מִימֵיהֶם שֶׁל כַּת שְׁלִישִׁית לֹא הִגִּיעַ לְאָהַבְתִּי כִּי יִשְׁמַע ה', מִפְּנֵי שֶׁעַמָּהּ מֻעָטִין:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+After the first group left, the second group entered. After the second group left, the third group entered. As it was done with the first group, so was it done with the second and the third. They [all three groups] recited the Hallel. If they completed it, they repeated it. [When they started to slaughter (the Pesach), they started to recite the Hallel. If there were so many offerings that they finished the Hallel before they had finished slaughtering, and there were still many to slaughter, they would recite it a second time.] And if they recited it a second time [and the slaughtering of the offerings of that group had not yet been completed], they would recite it a third time, [and so with the second and third groups.] R. Yehudah says: All the days of the third group, they never reached (in the Hallel): "Ahavti ki yishma Hashem," [even the first time], for it was very small.
+
+
+###### Mishnah Pesachim 5:8
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/5:8](https://torahapp.org/share/book/Mishnah%20Pesachim/r/5:8)
+
+
+כְּמַעֲשֵׂהוּ בְחֹל כָּךְ מַעֲשֵׂהוּ בְשַׁבָּת, אֶלָּא שֶׁהַכֹּהֲנִים מְדִיחִים אֶת הָעֲזָרָה שֶׁלֹּא בִרְצוֹן חֲכָמִים. רַבִּי יְהוּדָה אוֹמֵר, כּוֹס הָיָה מְמַלֵּא מִדַּם הַתַּעֲרֹבוֹת, זְרָקוֹ זְרִיקָה אַחַת עַל גַּבֵּי הַמִּזְבֵּחַ, וְלֹא הוֹדוּ לוֹ חֲכָמִים:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+As it is done on the weekday, so was it done on Shabbath; but the Cohanim would douse the azarah contrary to the will of the sages. [Because there was much blood, they would douse it on Shabbath. There was a water duct running through the azarah. When they wanted to douse it, they would plug up its outlet and the water would flow over the sides onto the entire azarah, after which they would unplug the outlet and the water would run out.] R. Yehudah says: He (a Cohein) would fill a cup from the mixed bloods [on the floor (of the azarah)] and fling it once against the altar; but the sages did not concur with him. [The halachah is not in accordance with R. Yehudah.]
+
+
+###### Mishnah Pesachim 5:9
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/5:9](https://torahapp.org/share/book/Mishnah%20Pesachim/r/5:9)
+
+
+כֵּיצַד תּוֹלִין וּמַפְשִׁיטִין, אֻנְקְלָיוֹת שֶׁל בַּרְזֶל הָיוּ קְבוּעִים בַּכְּתָלִים וּבָעַמּוּדִים, שֶׁבָּהֶן תּוֹלִין וּמַפְשִׁיטִין. וְכָל מִי שֶׁאֵין לוֹ מָקוֹם לִתְלוֹת וּלְהַפְשִׁיט, מַקְלוֹת דַּקִּים חֲלָקִים הָיוּ שָׁם, וּמֵנִיחַ עַל כְּתֵפוֹ וְעַל כֶּתֶף חֲבֵרוֹ, וְתוֹלֶה וּמַפְשִׁיט. רַבִּי אֱלִיעֶזֶר אוֹמֵר, אַרְבָּעָה עָשָׂר שֶׁחָל לִהְיוֹת בְּשַׁבָּת, מֵנִיחַ יָדוֹ עַל כֶּתֶף חֲבֵרוֹ, וְיַד חֲבֵרוֹ עַל כְּתֵפוֹ, וְתוֹלֶה וּמַפְשִׁיט:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+How would they suspend and flay (the offering)? There were iron hooks [with their heads bent upwards] fixed in the walls, and in the poles [little poles called "nanasim" ("dwarves"), fixed in the azarah slaughterhouse], on which they would suspend and flay them. And if one had no place for suspending and flaying — there were thin, smooth ["barked"] sticks there, which he would place on his shoulder and the shoulder of his neighbor, and on which he would suspend and flay (the offering). R. Eliezer says: If the fourteenth (of Nissan) fell out on a Sabbath, [when it is not permitted to move the sticks], he places his hand on his neighbor's shoulder, and his neighbor (places) his hand on his shoulder, and he suspends it [on his elbow sinews in (the crook of his arm] and flays it. The halachah is not in accordance with R. Eliezer, there being no shvuth (rabbinic "resting") in the Temple.]
+
+
+###### Mishnah Pesachim 5:10
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/5:10](https://torahapp.org/share/book/Mishnah%20Pesachim/r/5:10)
+
+
+קְרָעוֹ וְהוֹצִיא אֵמוּרָיו, נְתָנוֹ בְמָגִיס וְהִקְטִירָן עַל גַּבֵּי הַמִּזְבֵּחַ. יָצְתָה כַת רִאשׁוֹנָה וְיָשְׁבָה לָהּ בְּהַר הַבַּיִת, שְׁנִיָּה בַּחֵיל, וְהַשְּׁלִישִׁית בִּמְקוֹמָהּ עוֹמֶדֶת. חֲשֵׁכָה, יָצְאוּ וְצָלוּ אֶת פִּסְחֵיהֶן:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+After he has slit it open and taken out its eimurin [the fats offered up on the altar], he places them in a maggis [a dish. (The targum of "its dishes" is "magisohi")], and he (the Cohein) smokes them upon the altar. After the first group leaves, it waits in the Temple Mount [This, on Shabbath, when they cannot carry out their Pesach]; the second, in the chel [between the soreg (one of the approaches of the Temple fortification) and the wall of the women's court at the beginning of the Temple ascent]; and the third stays in its place. When night fell, they went out and roasted their Pesach, [the roasting of the Pesach not overriding Shabbath.]
+
+
+
+## Chapter 6
+
+###### Mishnah Pesachim 6:1
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/6:1](https://torahapp.org/share/book/Mishnah%20Pesachim/r/6:1)
+
+
+אֵלּוּ דְבָרִים בַּפֶּסַח דּוֹחִין אֶת הַשַּׁבָּת, שְׁחִיטָתוֹ וּזְרִיקַת דָּמוֹ וּמִחוּי קְרָבָיו וְהֶקְטֵר חֲלָבָיו. אֲבָל צְלִיָּתוֹ וַהֲדָחַת קְרָבָיו אֵינָן דּוֹחִין אֶת הַשַּׁבָּת. הַרְכָּבָתוֹ וַהֲבָאָתוֹ מִחוּץ לַתְּחוּם, וַחֲתִיכַת יַבַּלְתּוֹ, אֵין דּוֹחִין אֶת הַשַּׁבָּת. רַבִּי אֱלִיעֶזֶר אוֹמֵר, דּוֹחִין:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+These (the following) things in the Pesach (offering) override the Sabbath [The Pesach overrides the Sabbath, it being written "in its appointed time" in respect to the Pesach, viz. (Numbers 9:2): "Let the Children of Israel offer the Pesach in its appointed time"; and, in respect to the tamid, viz. (Ibid. 28:2): "…shall you observe to offer to Me in its appointed time." Just as "in its appointed time" of the tamid overrides the Sabbath, viz. (Ibid. 28:10): "The burnt-offering of the Sabbath in its Sabbath, in addition to the tamid, etc.", so, "in its appointed time" of the Pesach overrides the Sabbath]: its slaughtering, the sprinkling of its blood [These cannot be done at night, it being written in that regard (Leviticus 7:38): "…on the day that He commanded to present, etc." — on the day, and not at night.], michui of its entrails ["michui" - "cleaning out," as in (Proverbs 30:20): "She eats and wipes (machthah) her mouth." The cleaning out of the entrails (so that they not putrefy) overrides the Sabbath], and the smoking of its fats. But its roasting and the rinsing out of its innards do not override the Sabbath, [for these can be done after dark]. Carrying it (the Paschal lamb) [on his shoulders to bring it through the public domain to the azarah — Even though only a (rabbinical) shvuth ("resting") interdict obtains (for "a living thing carries itself"), it does not override the Sabbath, for it should have been done the day before.], and [similarly] bringing it from outside the tchum (the Sabbath boundary), and the cutting off of its wart — these do not override the Sabbath. [The cutting off of the wart of a Pesach offering, to remove its blemish, even if it be only a shvuth transgression (as when he removes it with his teeth or his hand) does not override the Sabbath. As to our having learned (Eruvin 103a): "A wart may be cut off in the Temple" (on the Sabbath), that applies to a dry wart, which is brittle, whereas our Mishnah speaks of a moist wart. And notwithstanding the fact that when he removes it with his teeth or his hand, he is doing it in an unusual manner (kilacher yad), still, with a wet wart it is forbidden, for it could have been done the day before.] R. Eliezer says: They override the Sabbath, [ R. Eliezer holding (Shabbath 19a) that the "enablers" of a mitzvah override the Sabbath. ]
+
+
+###### Mishnah Pesachim 6:2
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/6:2](https://torahapp.org/share/book/Mishnah%20Pesachim/r/6:2)
+
+
+אָמַר רַבִּי אֱלִיעֶזֶר, וַהֲלֹא דִין הוּא, מָה אִם שְׁחִיטָה שֶׁהִיא מִשּׁוּם מְלָאכָה דּוֹחָה אֶת הַשַּׁבָּת, אֵלּוּ שֶׁהֵן מִשּׁוּם שְׁבוּת לֹא יִדְחוּ אֶת הַשַּׁבָּת. אָמַר לוֹ רַבִּי יְהוֹשֻׁעַ, יוֹם טוֹב יוֹכִיחַ, שֶׁהִתִּירוּ בוֹ מִשּׁוּם מְלָאכָה, וְאָסוּר בּוֹ מִשּׁוּם שְׁבוּת. אָמַר לוֹ רַבִּי אֱלִיעֶזֶר, מַה זֶּה, יְהוֹשֻׁעַ, מָה רְאָיָה רְשׁוּת לְמִצְוָה. הֵשִׁיב רַבִּי עֲקִיבָא וְאָמַר, הַזָּאָה תוֹכִיחַ, שֶׁהִיא מִצְוָה וְהִיא מִשּׁוּם שְׁבוּת וְאֵינָהּ דּוֹחָה אֶת הַשַּׁבָּת, אַף אַתָּה אַל תִּתְמַהּ עַל אֵלּוּ, שֶׁאַף עַל פִּי שֶׁהֵן מִצְוָה וְהֵן מִשּׁוּם שְׁבוּת, לֹא יִדְחוּ אֶת הַשַּׁבָּת. אָמַר לוֹ רַבִּי אֱלִיעֶזֶר, וְעָלֶיהָ אֲנִי דָן, וּמָה אִם שְׁחִיטָה שֶׁהִיא מִשּׁוּם מְלָאכָה, דּוֹחָה אֶת הַשַּׁבָּת, הַזָּאָה שֶׁהִיא מִשּׁוּם שְׁבוּת, אֵינוֹ דִּין שֶׁדּוֹחָה אֶת הַשַּׁבָּת. אָמַר לוֹ רַבִּי עֲקִיבָא, אוֹ חִלּוּף, מָה אִם הַזָּאָה שֶׁהִיא מִשּׁוּם שְׁבוּת, אֵינָהּ דּוֹחָה אֶת הַשַּׁבָּת, שְׁחִיטָה שֶׁהִיא מִשּׁוּם מְלָאכָה, אֵינוֹ דִין שֶׁלֹּא תִדְחֶה אֶת הַשַּׁבָּת. אָמַר לוֹ רַבִּי אֱלִיעֶזֶר, עֲקִיבָא, עָקַרְתָּ מַה שֶּׁכָּתוּב בַּתּוֹרָה, בֵּין הָעַרְבַּיִם בְּמֹעֲדוֹ (במדבר ט), בֵּין בְּחֹל בֵּין בְּשַׁבָּת. אָמַר לוֹ, רַבִּי, הָבֵא לִי מוֹעֵד לָאֵלּוּ כַּמּוֹעֵד לַשְּׁחִיטָה. כְּלָל אָמַר רַבִּי עֲקִיבָא, כָּל מְלָאכָה שֶׁאֶפְשָׁר לַעֲשׂוֹתָהּ מֵעֶרֶב שַׁבָּת, אֵינָהּ דּוֹחָה אֶת הַשַּׁבָּת. שְׁחִיטָה שֶׁאִי אֶפְשָׁר לַעֲשׂוֹתָהּ מֵעֶרֶב שַׁבָּת, דּוֹחָה אֶת הַשַּׁבָּת:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+R. Eliezer said: Should this not follow a fortiori, viz.: Now if slaughtering, which [though it is forbidden on Shabbath with chullin (i.e., for secular purposes)] being an absolute labor, [notwithstanding this,] it overrides the Sabbath [with the Pesach offering], — these ("enablers"), which are (forbidden by reason of) shvuth, should they not certainly override the Sabbath! R. Yehoshua said to him: This argument is overturned by (what obtains on) a festival, absolute labor [(like slaughtering and cooking) being permitted to all men], and shvuth activities being forbidden [e.g., They forbade the bringing of something from outside the tchum to be eaten, in that this could have been done the day before, even though tchum is a rabbinic ordinance]. R. Eliezer rejoined: What is this, Yehoshua? How can you compare reshuth (what is merely permitted) to mitzvah? [A man's eating is reshuth, but the requirement of the Most High is mitzvah. And if the sages established their shvuth interdict with reshuth, should they do so also with mitzvah! (And R. Yehoshua holds that all "festival joy" is mitzvah, in spite of which it does not override the Sabbath)]. R. Akiva answered and said: Haza'ah (the sprinkling of the purifying waters) will overturn (R. Eliezer's argument), viz.: Haza'ah is a mitzvah [in the instance of one who has become unclean through a dead body, whose seventh day (in the process of purification) falls out on Sabbath on Pesach eve. If he is not sprinkled upon he cannot bring his Pesach offering, in spite of which haza'ah does not override the Sabbath, this being the ruling espoused by R. Akiva], and haza'ah is shvuth, [a man seeming to be "amended" thereby], and it does not override the Sabbath! Therefore, you, too, should not wonder about these ("enablers"). Even though they (the "enablers" of the Pesach offering) are mitzvah, and they are shvuth factors, they do not override the Sabbath. R. Eliezer rejoined: But I question that, too [i.e., I differ on haza'ah, too, and I contend that it should override the Sabbath so that it not keep him from the Pesach — from this a fortiori argument itself], viz.: Now if slaughtering, which is an absolute labor, overrides the Sabbath, haza'ah which is (only) a shvuth interdict, should it not certainly override the Sabbath! R. Akiva rejoined: Or turn it around [i.e., I can turn the argument around. (For it was axiomatic to R. Akiva that haza'ah kept one back from the Pesach offering, so that it could be reasoned a fortiori that slaughtering should also keep him back)], viz.: Now if haza'ah, which is (only) a shvuth interdict, does not override the Sabbath, slaughtering, which is an (absolute) labor — how much more so should it not override the Sabbath! R. Eliezer rejoined: Akiva, you have uprooted what is written in the Torah, viz. (Numbers 9:3): "towards evening, in its appointed time" [(Ibid. 2)): "Let the children of Israel offer the Pesach in its appointed time"], whether on a weekday or on the Sabbath. R. Akiva answered: My master, bring me "an appointed time" for these ("enablers")! [i.e., Show me that they have an appointed time as slaughtering does. Therefore, since they have no appointed time, and they could have been performed the day before, they do not override. (And haza'ah, too, is not a function of the Pesach offering itself, and "an appointed time" is not written in respect to it.) The halachah is in accordance with R. Akiva.] R. Akiva stated a rule: Any labor which could have been done Sabbath eve does not override the Sabbath. Slaughtering (of the Pesach), which could not have been done Sabbath eve, overrides the Sabbath.
+
+
+###### Mishnah Pesachim 6:3
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/6:3](https://torahapp.org/share/book/Mishnah%20Pesachim/r/6:3)
+
+
+אֵימָתַי מֵבִיא חֲגִיגָה עִמּוֹ, בִּזְמַן שֶׁהוּא בָא בְּחֹל, בְּטָהֳרָה וּבְמֻעָט. וּבִזְמַן שֶׁהוּא בָא בְּשַׁבָּת, בִּמְרֻבֶּה וּבְטֻמְאָה, אֵין מְבִיאִין עִמּוֹ חֲגִיגָה:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+When does one bring a chagigah (a festival offering) with it [with the Pesach on the fourteenth of Nissan]? When it (the fourteenth) falls on a weekday, (when the people are) in (a state of) cleanliness [For even though the Pesach overrides the Sabbath and uncleanliness, the chagigah does not], and with a small amount [i.e., when there is not enough of the Pesach to be eaten by the entire company, so that the chagigah is eaten first in order that their satiety be achieved with the Pesach]. And on the Sabbath, with a large amount [i.e., when the company is so small that the Pesach alone suffices for them], and in uncleanliness, a chagigah is not brought with it.
+
+
+###### Mishnah Pesachim 6:4
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/6:4](https://torahapp.org/share/book/Mishnah%20Pesachim/r/6:4)
+
+
+חֲגִיגָה הָיְתָה בָאָה מִן הַצֹּאן, מִן הַבָּקָר, מִן הַכְּבָשִׂים וּמִן הָעִזִּים, מִן הַזְּכָרִים וּמִן הַנְּקֵבוֹת. וְנֶאֱכֶלֶת לִשְׁנֵי יָמִים וְלַיְלָה אֶחָד:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+The chagigah comes from the flock and from cattle, from lambs and from goats, from males and from females [as opposed to the Pesach, which does not come from cattle or from females]; and it is eaten for two days and one night.
+
+
+###### Mishnah Pesachim 6:5
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/6:5](https://torahapp.org/share/book/Mishnah%20Pesachim/r/6:5)
+
+
+הַפֶּסַח שֶׁשְּׁחָטוֹ שֶׁלֹּא לִשְׁמוֹ בְשַׁבָּת, חַיָּב עָלָיו חַטָּאת. וּשְׁאָר כָּל הַזְּבָחִים שֶׁשְּׁחָטָן לְשׁוּם פֶּסַח, אִם אֵינָן רְאוּיִין, חַיָּב. וְאִם רְאוּיִין הֵן, רַבִּי אֱלִיעֶזֶר מְחַיֵּב חַטָּאת, וְרַבִּי יְהוֹשֻׁעַ פּוֹטֵר. אָמַר רַבִּי אֱלִיעֶזֶר, מָה אִם הַפֶּסַח שֶׁהוּא מֻתָּר לִשְׁמוֹ, כְּשֶׁשִּׁנָּה אֶת שְׁמוֹ, חַיָּב, זְבָחִים שֶׁהֵן אֲסוּרִין לִשְׁמָן, כְּשֶׁשִּׁנָּה אֶת שְׁמָן, אֵינוֹ דִין שֶׁיְּהֵא חַיָּב. אָמַר לוֹ רַבִּי יְהוֹשֻׁעַ, לֹא, אִם אָמַרְתָּ בַּפֶּסַח, שֶׁשִּׁנָּהוּ לְדָבָר אָסוּר, תֹּאמַר בַּזְּבָחִים, שֶׁשִּׁנָּן לְדָבָר הַמֻּתָּר. אָמַר לוֹ רַבִּי אֱלִיעֶזֶר, אֵמוּרֵי צִבּוּר יוֹכִיחוּ, שֶׁהֵן מֻתָּרִין לִשְׁמָן, וְהַשּׁוֹחֵט לִשְׁמָן, חַיָּב. אָמַר לוֹ רַבִּי יְהוֹשֻׁעַ, לֹא, אִם אָמַרְתָּ בְאֵמוּרֵי צִבּוּר שֶׁיֵּשׁ לָהֶן קִצְבָּה, תֹּאמַר בַּפֶּסַח שֶׁאֵין לוֹ קִצְבָּה. רַבִּי מֵאִיר אוֹמֵר, אַף הַשּׁוֹחֵט לְשֵׁם אֵמוּרֵי צִבּוּר, פָּטוּר:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If one slaughtered the Pesach not lishmo (see 5:2) on [the fourteenth that fell out on] Sabbath, [thinking that just as it is permitted to slaughter it lishmo, so it is permitted to slaughter it lo lishmo], he is liable for a sin-offering, [having desecrated the Sabbath unwittingly]. And all other sacrifices which he slaughtered as a Pesach — If they are not fit [as a Pesach offering, such as a calf or a two-year-old ram, or a female], he is liable [for a sin-offering, if he forgot that it was Shabbath or if he thought that it was permitted to slaughter other sacrifices as a Pesach on Shabbath. For this is not "erring in a matter of mitzvah," all knowing that these (i.e., such animals) are not kasher as a Pesach.] And if they are fit, [as when he slaughtered a one-year-old shelamim (peace-offering) lamb as a Pesach, erring in this because of his preoccupation with the slaughtering of his Pesach, and not remembering that he had dedicated it as a different sacrifice], R. Eliezer says that he is liable (for a sin-offering) [even though he has "erred in a matter of mitzvah"]; and R. Yehoshua says that he is not liable, [holding that if one erred in a matter of mitzvah and yet performed some mitzvah, he is not liable for a sin-offering. And this one performed a mitzvah, for he sacrificed an offering. For all offerings sacrificed lo lishman are kasher. And R. Yehoshua rules (Pesachim 62b) that even those which are slaughtered as a Pesach are kasher.] R. Eliezer said to him: Now if the Pesach, which it is permitted [to slaughter on Shabbath] lishmo, if he changes its name, [you nevertheless admit] that he is liable [for a sin-offering, as we learned above] — (other) sacrifices, which are forbidden (on Shabbath) lishman, if he changes their name, should it not follow, all the more, that he is liable! R. Yehoshua rejoined: No, in the instance of the Pesach, he changed the name to something which is forbidden [i.e., he slaughtered it in the name of a different offering, which it is forbidden to slaughter on Shabbath], whereas in the instance of the other sacrifices, where he changed the name to something which is permitted, [i.e., where he slaughtered it as something (a Pesach) which it is permitted to slaughter on Shabbath], (say that he is not liable for an offering)! R. Eliezer rejoined: (Offerings) specified for the congregation [on Shabbath, such as temidim and mussafim overturn your argument], it being permitted to slaughter them lishman, and yet if one slaughters [other sacrifices] in their name (i.e., as communal offerings), he is liable (for a sin-offering)! R. Yehoshua rejoined: No, in the instance of offerings specified for the congregation there is a set number [He does not see others involved in slaughtering, and once the tamid has been slaughtered, he knows that there is no need to slaughter another, so that (if he does) he is not "erring" but "unwitting," for he should not err in such a thing.], whereas in the instance of Pesach, there is no set amount, [for everyone requires it. So that he sees many people busied with it and he becomes preoccupied with the mitzvah. And even if he had already slaughtered a Pesach and found this animal standing in the azarah and thought it was a Pesach and slaughtered it for someone else, this is "erring in a matter of mitzvah"] (and he should not be liable for a sin-offering). R. Meir says: Also one who slaughters [on Shabbath other offerings, all the days of the year] as an offering specified for the congregation, is not liable. [The halachah is in accordance with R. Yehoshua and it is not in accordance with R. Meir.]
+
+
+###### Mishnah Pesachim 6:6
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/6:6](https://torahapp.org/share/book/Mishnah%20Pesachim/r/6:6)
+
+
+שְׁחָטוֹ שֶׁלֹּא לְאוֹכְלָיו וְשֶׁלֹּא לִמְנוּיָיו, לַעֲרֵלִין וְלִטְמֵאִין, חַיָּב. לְאוֹכְלָיו וְשֶׁלֹּא לְאוֹכְלָיו, לִמְנוּיָיו וְשֶׁלֹּא לִמְנוּיָיו, לְמוּלִין וְלַעֲרֵלִין, לִטְהוֹרִים וְלִטְמֵאִים, פָּטוּר. שְׁחָטוֹ וְנִמְצָא בַעַל מוּם, חַיָּב. שְׁחָטוֹ וְנִמְצָא טְרֵפָה בַסֵּתֶר, פָּטוּר. שְׁחָטוֹ וְנוֹדַע שֶׁמָּשְׁכוּ הַבְּעָלִים אֶת יָדָם, אוֹ שֶׁמֵּתוּ אוֹ שֶׁנִּטְמְאוּ, פָּטוּר, מִפְּנֵי שֶׁשָּׁחַט בִּרְשׁוּת:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If he slaughtered it (on Shabbath) not for its eaters, and not for those counted for it, for the uncircumcised, and for the unclean, he is liable (for a sin-offering). (If he slaughtered it) for its eaters and not for its eaters, for those counted for it and for those not counted for it, for the circumcised and the uncircumcised, for the clean and the unclean, he is not liable, [for the Pesach is kasher, as stated above (5:3)]. If he slaughtered it and he discovered it to be blemished, he is liable (for a sin-offering) [for he is shogeg ("unwitting") and not anuss ("constrained"), for he should have inspected it (before he slaughtered it).] If he slaughtered it and found it to be treifah in a hidden part (which he could not have inspected beforehand), he is not liable. If he slaughtered it and found out that the owners had "withdrawn their hands" [from it before it was slaughtered and had numbered themselves with a different offering], or if they had died or become unclean, [in which instance Shabbath is not overridden for them], he is not liable, having slaughtered with permission [i.e., He is regarded as "anuss," not having known that this was the case and not having been expected to inquire about it.]
+
+
+
+## Chapter 7
+
+###### Mishnah Pesachim 7:1
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:1](https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:1)
+
+
+כֵּיצַד צוֹלִין אֶת הַפֶּסַח, מְבִיאִין שַׁפּוּד שֶׁל רִמּוֹן, תּוֹחֲבוֹ מִתּוֹךְ פִּיו עַד בֵּית נְקוּבָתוֹ, וְנוֹתֵן אֶת כְּרָעָיו וְאֶת בְּנֵי מֵעָיו לְתוֹכוֹ, דִּבְרֵי רַבִּי יוֹסֵי הַגְּלִילִי. רַבִּי עֲקִיבָא אוֹמֵר, כְּמִין בִּשּׁוּל הוּא זֶה, אֶלָּא תוֹלִין חוּצָה לוֹ:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+How is the Pesach roasted? A pomegranate spit is brought [and not one of other woods, for they exude water, rendering the Pesach quasi-cooked in water (which is interdicted by Scripture), and pomegranate wood does not exude water. And it is also not to be roasted on a spit of metal, as stated below, for metal, when part of it is hot, all of it is hot, so that the meat is roasted by the metal, whereas Scripture states (Exodus 12:9): "roasted in fire," and not roasted by something else.], and it (the spit) is stuck from the midst of its mouth until its bottom, and its legs and entrails are placed within it. These are the words of R. Yossi Haglili. R. Akiva says: This is a kind of cooking, [its entrails being cooked within it as within a pot.] Rather, they are suspended outside it. [They are suspended on the spit above the mouth of the lamb. The halachah is in accordance with R. Akiva.]
+
+
+###### Mishnah Pesachim 7:2
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:2](https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:2)
+
+
+אֵין צוֹלִין אֶת הַפֶּסַח לֹא עַל הַשַּׁפּוּד וְלֹא עַל הָאַסְכְּלָא. אָמַר רַבִּי צָדוֹק, מַעֲשֶׂה בְּרַבָּן גַּמְלִיאֵל שֶׁאָמַר לְטָבִי עַבְדּוֹ, צֵא וּצְלֵה לָנוּ אֶת הַפֶּסַח עַל הָאַסְכְּלָא. נָגַע בְּחַרְסוֹ שֶׁל תַּנּוּר, יִקְלֹף אֶת מְקוֹמוֹ. נָטַף מֵרָטְבּוֹ עַל הַחֶרֶס וְחָזַר עָלָיו, יִטֹּל אֶת מְקוֹמוֹ. נָטַף מֵרָטְבּוֹ עַל הַסֹּלֶת, יִקְמֹץ אֶת מְקוֹמוֹ:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+The Pesach is to be roasted neither on a spit (of metal) nor on a grill. R. Tzaddok said: Once R. Gamliel said to Tevi, his bondsman: "Go out and roast the Pesach for us on a grill. [Our Mishnah is incomplete. The complete version: "…and if the grill has holes, it is kasher. And R. Tzaddok said: Once, etc."] If the Pesach touched the clay of an oven, its place should be peeled. [He should peel from the Pesach the place that came in contact with the stove, it having been roasted there by the heat of the oven clay, so that it is not "roasted by fire."] If some of its juice dripped on the clay and returned to it [i.e., If the fats heated by the clay returned to the Pesach and were absorbed in it], its place should be removed. [It is not enough to peel it off, but about the thickness of a finger should be removed. For fats are well absorbed into it, and those fats are clay-roasted.] If some of its juice dripped onto flour [and the flour were heated, in which instance the juice is broiled by the flour and the juice in the flour may not be eaten, being broiled by something else (i.e., other than fire)], he should take a handful from its place [and burn that handful, as (one does with) other kodshim (consecrated foods) that become unfit.]
+
+
+###### Mishnah Pesachim 7:3
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:3](https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:3)
+
+
+סָכוֹ בְשֶׁמֶן תְּרוּמָה, אִם חֲבוּרַת כֹּהֲנִים, יֹאכֵלוּ. אִם יִשְׂרָאֵל, אִם חַי הוּא, יְדִיחֶנּוּ. וְאִם צָלִי הוּא, יִקְלֹף אֶת הַחִיצוֹן. סָכוֹ בְשֶׁמֶן שֶׁל מַעֲשֵׂר שֵׁנִי, לֹא יַעֲשֶׂנּוּ דָמִים עַל בְּנֵי חֲבוּרָה, שֶׁאֵין פּוֹדִין מַעֲשֵׂר שֵׁנִי בִירוּשָׁלָיִם:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If it were anointed with oil of terumah, [it being permitted to anoint a Pesach with fruit juice] — if it were a company of Cohanim, they eat it. If Israelites, it is rinsed off, [for it was not absorbed.] And if it had been roasted, the outer layer is peeled off, [the oil having been absorbed.] If it were anointed with oil of ma'aser sheni, it should not be assessed for payment by the company, for ma'aser sheni is not redeemed in Jerusalem [even to eat it there in cleanliness, it being written (Deuteronomy 14:25): "Then you shall change it to money, and you shall bind the money in your hand, and you shall go to the place (Jerusalem)"].
+
+
+###### Mishnah Pesachim 7:4
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:4](https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:4)
+
+
+חֲמִשָּׁה דְבָרִים בָּאִין בְּטֻמְאָה וְאֵינָן נֶאֱכָלִין בְּטֻמְאָה. הָעֹמֶר, וּשְׁתֵּי הַלֶּחֶם, וְלֶחֶם הַפָּנִים, וְזִבְחֵי שַׁלְמֵי צִבּוּר, וּשְׂעִירֵי רָאשֵׁי חֳדָשִׁים. הַפֶּסַח שֶׁבָּא בְטֻמְאָה, נֶאֱכָל בְּטֻמְאָה, שֶׁלֹּא בָא מִתְּחִלָּתוֹ אֶלָּא לַאֲכִילָה:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+Five things (i.e., offerings) come (i.e., may be offered) in uncleanliness, but are not eaten in uncleanliness. [There are no other communal offerings eaten (by the Cohanim) but these. And a communal offering overrides uncleanliness, this being derived from Pesach, in respect to which it is written (Numbers 9:2): "in its appointed time," and which overrides uncleanliness in an instance where the majority of the congregation is unclean, viz. (Numbers 9:10): "A man, if he become unclean" — a man is subject to postponement (until the second Pesach), but the populace is not subject to postponement. And in respect to communal offerings it is written (Numbers 29:39): "These shall you offer unto the L rd in your appointed times," just as it is written in respect to the Pesach, "in its appointed time." Our Mishnah apprises us that even though they are sacrificed in uncleanliness to satisfy the communal requirement, they are not eaten in uncleanliness. The reason we have "Five things" and not "Communal offerings" is to exclude all of the festival offerings, which are like communal offerings in that they come "in a crowd," in a gathering of fellows for the festival; yet they do not override uncleanliness, just as they do not override the Sabbath.] (The five things:) the omer, the two breads, the show-bread, the congregational peace-offerings [the atzereth (Shavuoth) lambs, there being no other congregational peace-offerings], and the Rosh Chodesh goats. [The festival goats are not mentioned, for since we are apprised of the congregational peace-offerings, which are types of payment and which are not eaten in uncleanliness, the same applies to all other types of payment. The only reason we must be apprised of the Rosh Chodesh goats is that "appointed time" is not written in that regard, so that we might think they do not override uncleanliness. For all of the communal offerings are derived from "appointed time," it being written in respect to all of them: "These shall you offer to the L rd in your appointed times."] The Pesach which comes in uncleanliness is eaten in uncleanliness; for it came in the beginning only for eating. [When the essential mitzvah of the Pesach was given, it was given only for eating, viz. (Exodus 12:4): "a man according to his eating." And when the Torah permitted bringing it in uncleanliness viz. (the derivation): "a man is subject to postponement, but not the populace," it did so in respect to eating.]
+
+
+###### Mishnah Pesachim 7:5
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:5](https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:5)
+
+
+נִטְמָא הַבָּשָׂר וְהַחֵלֶב קַיָּם, אֵינוֹ זוֹרֵק אֶת הַדָּם. נִטְמָא הַחֵלֶב וְהַבָּשָׂר קַיָּם, זוֹרֵק אֶת הַדָּם. וּבַמֻּקְדָּשִׁין אֵינוֹ כֵן, אֶלָּא אַף עַל פִּי שֶׁנִּטְמָא הַבָּשָׂר וְהַחֵלֶב קַיָּם, זוֹרֵק אֶת הַדָּם:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If the flesh became unclean and the fats were intact, he does not sprinkle the blood, [for the Pesach is essentially for human consumption]. If the fats became unclean and the flesh were intact, he sprinkles the blood. And with mukdashin (consecrated offerings) it is not so, but even if the flesh became unclean and the fats were intact, he sprinkles the blood.
+
+
+###### Mishnah Pesachim 7:6
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:6](https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:6)
+
+
+נִטְמָא קָהָל אוֹ רֻבּוֹ, אוֹ שֶׁהָיוּ הַכֹּהֲנִים טְמֵאִים וְהַקָּהָל טְהוֹרִים, יֵעָשֶׂה בְטֻמְאָה. נִטְמָא מִעוּט הַקָּהָל, הַטְּהוֹרִין עוֹשִׂין אֶת הָרִאשׁוֹן, וְהַטְּמֵאִין עוֹשִׂין אֶת הַשֵּׁנִי:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If the congregation or the majority of it became unclean [with dead-body uncleanliness — for the Pesach is overridden (i.e., offered in uncleanliness) only with dead-body uncleanliness], or if the Cohanim were unclean and the congregation clean, it is offered in uncleanliness [even by individuals who had become unclean. For the clean ones themselves offer it in uncleanliness because of the Cohanim (who had become unclean). For no distinction is made in a communal offering that is brought in uncleanliness. Since the offering of the majority comes in uncleanliness, the individuals, too, offer it in uncleanliness.] If a minority of the congregation became unclean, the clean ones offer the first Pesach and the unclean ones, the second.
+
+
+###### Mishnah Pesachim 7:7
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:7](https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:7)
+
+
+הַפֶּסַח שֶׁנִּזְרַק דָּמוֹ, וְאַחַר כָּךְ נוֹדַע שֶׁהוּא טָמֵא, הַצִּיץ מְרַצֶּה. נִטְמָא הַגּוּף, אֵין הַצִּיץ מְרַצֶּה, מִפְּנֵי שֶׁאָמְרוּ, הַנָּזִיר וְעוֹשֶׂה פֶסַח, הַצִּיץ מְרַצֶּה עַל טֻמְאַת הַדָּם, וְאֵין הַצִּיץ מְרַצֶּה עַל טֻמְאַת הַגּוּף. נִטְמָא טֻמְאַת הַתְּהוֹם, הַצִּיץ מְרַצֶּה:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If the blood of a Pesach were sprinkled and afterwards it became known that it [the Pesach or the blood], was unclean, the tzitz [the high-priest's frontlet] atones [and he is exempt from Pesach sheni (the second Pesach offering)]. If his [the owner's] body became unclean [with dead-body uncleanliness], the tzitz does not atone [and he is subject to Pesach sheni, for at the time of the sprinkling he was not a Pesach offerer, Scripture having rejected him.] For they (the sages) said: With a Nazirite and with one who offers a Pesach, the tzitz atones for uncleanliness of the blood, but the tzitz does not atone for uncleanliness of the body. [Concerning a Nazirite it is written (Numbers 6:9): "and if one die on him… (12) then the first days shall fall off." If he becomes unclean through a dead body before he brings his offerings, his (previous) Naziritism is canceled. ("the tzitz atones for uncleanliness of the blood":) and his shaving is kasher, and he is permitted to drink wine and to become unclean for the dead. ("but the tzitz does not atone for uncleanliness of the body":) If he were unclean when he brought his offerings, everything is negated.] If he [i.e., his body] became unclean with "uncleanliness of the depths" (tumath hatehom), the tzitz atones. [All dead-body uncleanliness not known to anyone beforehand is called "tumath hatehom." It is a halachah to Moshe on Sinai that tumath hatehom was waived for them, since no one had ever known about the uncleanliness. If such uncleanliness became known to him after he had offered his Pesach, he need not offer the Pesach sheni. Likewise, if tumath hatehom became known to a Nazirite after he had brought his offerings, he need not bring an offering for uncleanliness. (Tumath hatehom obtains with dead-body uncleanliness alone)].
+
+
+###### Mishnah Pesachim 7:8
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:8](https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:8)
+
+
+נִטְמָא שָׁלֵם אוֹ רֻבּוֹ, שׂוֹרְפִין אוֹתוֹ לִפְנֵי הַבִּירָה מֵעֲצֵי הַמַּעֲרָכָה. נִטְמָא מִעוּטוֹ, וְהַנּוֹתָר, שׂוֹרְפִין אוֹתוֹ בְחַצְרוֹתֵיהֶן אוֹ עַל גַּגּוֹתֵיהֶן מֵעֲצֵי עַצְמָן. הַצַּיְקָנִין שׂוֹרְפִין אוֹתוֹ לִפְנֵי הַבִּירָה, בִּשְׁבִיל לֵהָנוֹת מֵעֲצֵי הַמַּעֲרָכָה:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If all of it or most of it became unclean, it is burned before the birah. [The entire sanctuary is called "birah." It is burned there in order to shame them, that they take care not to come to uncleanliness again.] It is burned with the wood of the (altar) woodpile [so as not to shame those who have no wood.] If the lesser part of it became unclean and [likewise] nothar [i.e., if something were left over from a clean Pesach], it is burned in their courtyards or on their roofs with their own wood. The stingy burn it [that lesser part which became unclean and the nothar from a clean Pesach] before the birah in order to benefit from the wood of the woodpile.
+
+
+###### Mishnah Pesachim 7:9
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:9](https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:9)
+
+
+הַפֶּסַח שֶׁיָּצָא אוֹ שֶׁנִּטְמָא, יִשָּׂרֵף מִיָּד. נִטְמְאוּ הַבְּעָלִים אוֹ שֶׁמֵּתוּ, תְּעֻבַּר צוּרָתוֹ וְיִשָּׂרֵף בְּשִׁשָּׁה עָשָׂר. רַבִּי יוֹחָנָן בֶּן בְּרוֹקָא אוֹמֵר, אַף זֶה יִשָּׂרֵף מִיָּד, לְפִי שֶׁאֵין לוֹ אוֹכְלִין:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If the Pesach went out [i.e., outside of the wall (of Jerusalem)] or became unclean, it is to be burned immediately [on the fourteenth, and he need not wait until the morning of the fifteenth for its appearance to have changed, i.e., to have become nothar. (In any event, he cannot burn it on the festival, it being forbidden to burn kodshim on a festival.)] If the owners became unclean or if they died, [so that its defect is not in itself, but externally caused], its appearance must change [i.e., He must wait until it becomes nothar] and he burns it on the sixteenth. R. Yochanan b. Beroka says: This, too, is to be burned immediately, for it has no eaters. [R. Yochanan b. Beroka differs with the first tanna only where the owners became unclean or died before the blood was sprinkled, in which instance the flesh, not having been fit for eating, is considered defective in itself. The halachah is not in accordance with R. Yochanan b. Beroka.]
+
+
+###### Mishnah Pesachim 7:10
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:10](https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:10)
+
+
+הָעֲצָמוֹת, וְהַגִּידִין, וְהַנּוֹתָר, יִשָּׂרְפוּ בְשִׁשָּׁה עָשָׂר. חָל שִׁשָּׁה עָשָׂר לִהְיוֹת בְּשַׁבָּת, יִשָּׂרְפוּ בְּשִׁבְעָה עָשָׂר, לְפִי שֶׁאֵינָן דּוֹחִין לֹא אֶת הַשַּׁבָּת וְלֹא אֶת יוֹם טוֹב:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+The bones, [which he may not break, the breaking of a bone being forbidden, and in which marrow is left, which requires burning], and the sinews [which may not be eaten, but for which one is not Scripturally liable, such as the fats of the gid hanasheh (the thighbone sinew), which are permitted, but which "Israel, the holy ones" forbade to themselves; or else, the outer sinew, close to the flesh, which is forbidden but for which one is not liable (so that by Torah law, it is nothar, but it may not be eaten for the rabbis forbade it)], and nothar [left-over flesh of the Pesach, their having been lax in its eating] — these are to be burned on the sixteenth [on chol hamoed (the first intermediate day of the festival). Even though they became pasul (unfit) on the first morning, it is forbidden to burn them on the festival. For the burning of kodshim is an aseh (a positive commandment) and the festival is an aseh and a lo ta'aseh (a negative commandment), and an aseh does not override a lo ta'aseh and an aseh.] If the sixteenth falls out on Shabbath, they are to be burned on the seventeenth; for they override neither Shabbath nor a festival.
+
+
+###### Mishnah Pesachim 7:11
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:11](https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:11)
+
+
+כָּל הַנֶּאֱכָל בְּשׁוֹר הַגָּדוֹל, יֵאָכֵל בִּגְדִי הָרַךְ, וְרָאשֵׁי כְנָפַיִם וְהַסְּחוּסִים. הַשּׁוֹבֵר אֶת הָעֶצֶם בַּפֶּסַח הַטָּהוֹר, הֲרֵי זֶה לוֹקֶה אַרְבָּעִים. אֲבָל הַמּוֹתִיר בַּטָּהוֹר וְהַשּׁוֹבֵר בַּטָּמֵא, אֵינוֹ לוֹקֶה אֶת הָאַרְבָּעִים:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+Everything which is eaten in a large ox [in which everything destined to harden has already hardened] is eaten in a soft kid [i.e., is fit to be eaten in an eight-day-old Pesach. But what is not eaten in a large ox is not "numbered" over in a Pesach, even though it be soft now (since it is destined to harden)] — the tops of the forelegs and the cartilages. [i.e., What is eaten in a large ox? The cartilaginous tops of the forelegs and other cartilages, such as the ear lobe, the breast cartilages, and the small ribs at the end of the spine. Since they are eaten in a large ox, boiled, they are eaten in a soft kid, roasted.] If one breaks a bone in a clean Pesach, he receives forty stripes. But if one leaves over in a clean Pesach or if he breaks (a bone) in an unclean Pesach, he does not receive forty stripes. [("But if one leaves over, etc.":) For it is written (Exodus 12:10): "And you shall not leave over anything of it until morning; and what is left over of it until morning, in fire shall you burn it." Scripture adduces an aseh (a positive commandment) after a lo ta'aseh (a negative commandment) by way of saying: If you have transgressed the lo ta'aseh, fulfill its related aseh and you will not receive stripes. Or else, it (leaving over) is a negative transgression not involving an act, which is not subject to stripes. ("Or if he breaks a bone in an unclean Pesach, etc.":) For it is written (Ibid. 46): "And a bone shall you not break in it" — One is exhorted vis-à-vis a kasher Pesach, and not vis-à-vis one that is pasul.]
+
+
+###### Mishnah Pesachim 7:12
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:12](https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:12)
+
+
+אֵבָר שֶׁיָּצָא מִקְצָתוֹ, חוֹתֵךְ עַד שֶׁמַּגִּיעַ לָעֶצֶם, וְקוֹלֵף עַד שֶׁמַּגִּיעַ לַפֶּרֶק, וְחוֹתֵךְ. וּבַמֻּקְדָּשִׁין קוֹצֵץ בַּקּוֹפִיץ, שֶׁאֵין בּוֹ מִשּׁוּם שְׁבִירַת הָעֶצֶם. מִן הָאֲגַף וְלִפְנִים כְּלִפְנִים, מִן הָאֲגַף וְלַחוּץ כְּלַחוּץ. הַחַלּוֹנוֹת וְעֹבִי הַחוֹמָה, כְּלִפְנִים:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If part of a limb [of the Pesach] went outside [its (permitted) partition, e.g., holy of holies that went outside of the azarah or lower-order offerings that went outside of Jerusalem, the flesh that went out is treifah and may not be eaten], he cuts [the flesh that went out all around until he reaches the bone], and he pares [the flesh that did not go out] until he reaches the joint [where the two bones are joined. He eats the flesh that he pared off, for it did not go out], and he cuts [the joint and discards the entire bone, part of which went out.] And with [other] consecrated offerings [aside from the Pesach], he cuts it off [the part of the limb that went out] with a hack; for the breaking of a bone is not interdicted in them [as it is in the Pesach]. From the agaf inside is like the inside. [The "agaf" is the space where the door shuts, where it "knocks against" when it is closed. ("From the agaf inside is like the inside":) And lower-order offerings may be eaten there.] From the agaf [i.e., the space where the door shuts] outside is like the outside. The windows [in the wall of Jerusalem] and the thickness of [the top of] the wall is like the inside.
+
+
+###### Mishnah Pesachim 7:13
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:13](https://torahapp.org/share/book/Mishnah%20Pesachim/r/7:13)
+
+
+שְׁתֵּי חֲבוּרוֹת שֶׁהָיוּ אוֹכְלוֹת בְּבַיִת אֶחָד, אֵלּוּ הוֹפְכִין אֶת פְּנֵיהֶם הֵילָךְ וְאוֹכְלִין, וְאֵלּוּ הוֹפְכִין אֶת פְּנֵיהֶם הֵילָךְ וְאוֹכְלִין, וְהַמֵּחַם בָּאֶמְצַע. וּכְשֶׁהַשַּׁמָּשׁ עוֹמֵד לִמְזֹג, קוֹפֵץ אֶת פִּיו וּמַחֲזִיר אֶת פָּנָיו עַד שֶׁמַּגִּיעַ אֵצֶל חֲבוּרָתוֹ וְאוֹכֵל. וְהַכַּלָּה, הוֹפֶכֶת פָּנֶיהָ וְאוֹכֶלֶת:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If two companies were eating [one Pesach] in one house, these (i.e., the members of one company) may turn their faces in one direction and eat, and the others may turn their faces in the other direction and eat. [And even if this gives the impression of two companies on one Pesach, this does not concern us, for it is written (Exodus 12:7): "…of the houses in which they eat it," the implication being that two persons may eat one Pesach in two houses; but one person may not eat in two places. (Ibid. 46): "In one house shall it be eaten" is accordingly understood as meaning that one man may not eat it in two houses. And two companies turning their faces away from each other are like two houses.] And the boiler [for boiling water with which to mix wine may be placed] in the middle, so as to be easily accessible to both companies. And even though it intervenes between the companies, this does not concern us.] When the steward [serving both companies] arises [from one company with which he has begun to eat his Pesach] to pour [for the other company], he compresses his mouth and turns his face [towards his company, so that they not suspect him of eating with the other company, one person not eating with two companies, as stated above] until he returns to eat with his company. And a bride, [who is ashamed] may turn her face [to the other side] and eat, [for one Pesach may be eaten in two companies].
+
+
+
+## Chapter 8
+
+###### Mishnah Pesachim 8:1
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/8:1](https://torahapp.org/share/book/Mishnah%20Pesachim/r/8:1)
+
+
+הָאִשָּׁה בִּזְמַן שֶׁהִיא בְּבֵית בַּעְלָהּ, שָׁחַט עָלֶיהָ בַּעְלָהּ וְשָׁחַט עָלֶיהָ אָבִיהָ, תֹּאכַל מִשֶּׁל בַּעְלָהּ. הָלְכָה רֶגֶל רִאשׁוֹן לַעֲשׂוֹת בְּבֵית אָבִיהָ, שָׁחַט עָלֶיהָ אָבִיהָ וְשָׁחַט עָלֶיהָ בַּעְלָהּ, תֹּאכַל בִּמְקוֹם שֶׁהִיא רוֹצָה. יָתוֹם שֶׁשָּׁחֲטוּ עָלָיו אַפֹּטְרוֹפְּסִין, יֹאכַל בִּמְקוֹם שֶׁהוּא רוֹצֶה. עֶבֶד שֶׁל שְׁנֵי שֻׁתָּפִין, לֹא יֹאכַל מִשֶּׁל שְׁנֵיהֶן. מִי שֶׁחֶצְיוֹ עֶבֶד וְחֶצְיוֹ בֶן חוֹרִין, לֹא יֹאכַל מִשֶּׁל רַבּוֹ:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+A woman — so long as she is in her husband's house — if her husband slaughtered for her and her father slaughtered for her, she eats of her husband's, [so long as she did not specify that she wished her father's. For it is assumed that she wishes to be numbered with her husband's.] If she had gone to spend the first festival [after her wedding] in her father's house, [this being the custom] — if her father slaughtered for her and her husband slaughtered for her, she eats where she likes. [This, in an instance where she had not been in the habit of always "running" to her father's house until now, so that we are in doubt as to her preference.] An orphan for whom caretakers slaughtered [If he had two caretakers and each numbered him for his Pesach], he eats wherever he wishes. A bondsman of two partners eats of neither. [For who granted that the one's half be numbered with the other? There is no amendment for him unless the two agree that he be numbered with one of them.] One who is half bondsman-half free does not eat of his master's, [but of his own. For since the halachah is that we compel his master to write him a writ of emancipation, even though he has not yet been freed, he is regarded as freed and eats of his own.]
+
+
+###### Mishnah Pesachim 8:2
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/8:2](https://torahapp.org/share/book/Mishnah%20Pesachim/r/8:2)
+
+
+הָאוֹמֵר לְעַבְדּוֹ, צֵא וּשְׁחֹט עָלַי אֶת הַפֶּסַח, שָׁחַט גְּדִי, יֹאכַל. שָׁחַט טָלֶה, יֹאכַל. שָׁחַט גְּדִי וְטָלֶה, יֹאכַל מִן הָרִאשׁוֹן. שָׁכַח מָה אָמַר לוֹ רַבּוֹ, כֵּיצַד יַעֲשֶׂה, יִשְׁחַט טָלֶה וּגְדִי וְיֹאמַר, אִם גְּדִי אָמַר לִי רַבִּי, גְּדִי שֶׁלּוֹ וְטָלֶה שֶׁלִּי. וְאִם טָלֶה אָמַר לִי רַבִּי, הַטָּלֶה שֶׁלּוֹ וּגְדִי שֶׁלִּי. שָׁכַח רַבּוֹ מָה אָמַר לוֹ, שְׁנֵיהֶם יֵצְאוּ לְבֵית הַשְּׂרֵפָה, וּפְטוּרִין מִלַּעֲשׂוֹת פֶּסַח שֵׁנִי:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If one said to his bondsman: Go and slaughter the Pesach for me — if he slaughtered a kid, he [the master] may eat it [even though on all the other festivals he was accustomed to use a lamb. Since he did not specify, (it is assumed that) he relies upon him.]; if he slaughtered a lamb, he may eat it. If he slaughtered a kid and a lamb, he eats of the first [and he burns the second. The gemara construes this as applying only to king and queen — some say (that the rationale of their eating the first, etc. is) the fostering of peace in the kingdom; others, because they rely upon their bondsmen and are not particular as to whether they eat kids or lambs. Therefore, not being particular, they eat of the first, fulfilling the obligation therewith. But men in general, who are particular, may eat neither of the first nor of the second, the ruling being that one may not be numbered on two Pesachim at the same time to eat of whichever he likes. For there is no breirah (retroactive discrimination), so that when he wishes to eat of the one, we entertain the reservation that perhaps at the time of slaughtering he did not intend that one.] If he forgot what his master had told him [i.e., He told him "kid" or "lamb," but he forgot which], what does he do? He slaughters the lamb and the kid and says: "If my master said 'kid,' the kid is his and the lamb is mine; and if my master said 'lamb,' the lamb is his and the kid is mine." [The gemara construes this as an instance of one's having gone to a shepherd who was his master's familiar and who, desiring his (the master's) amendment, said to him (the servant): "If your master said 'kid,' the kid is his and the lamb is yours on condition that your master have no rights in it," in which instance the bondsman acquires it. For if not so, whatever the bondsman acquires is acquired by the master, so that both would be his master's.] If his master forgot what he had said to him, both (kid and lamb) are burned, and they (master and bondsman) have no Pesach sheni obligation. [For even though both are burned and not eaten because those numbered for them cannot be discriminated, still, the slaughtering and the sprinkling were valid, one (animal) for one; the other, for the other — as manifest to Heaven.]
+
+
+###### Mishnah Pesachim 8:3
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/8:3](https://torahapp.org/share/book/Mishnah%20Pesachim/r/8:3)
+
+
+הָאוֹמֵר לְבָנָיו, הֲרֵינִי שׁוֹחֵט אֶת הַפֶּסַח עַל מִי שֶׁיַּעֲלֶה מִכֶּם רִאשׁוֹן לִירוּשָׁלַיִם, כֵּיוָן שֶׁהִכְנִיס הָרִאשׁוֹן רֹאשׁוֹ וְרֻבּוֹ, זָכָה בְחֶלְקוֹ וּמְזַכֶּה אֶת אֶחָיו עִמּוֹ. לְעוֹלָם נִמְנִין עָלָיו עַד שֶׁיְּהֵא בוֹ כַזַּיִת לְכָל אֶחָד וְאֶחָד. נִמְנִין וּמוֹשְׁכִין אֶת יְדֵיהֶן מִמֶּנּוּ עַד שֶׁיִּשָּׁחֵט. רַבִּי שִׁמְעוֹן אוֹמֵר, עַד שֶׁיִּזְרֹק עָלָיו אֶת הַדָּם:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If one said to his sons: "I am slaughtering the Pesach for the one of you who comes up first to Jerusalem" [This, in order to spur each one to be first (In truth, he numbers all of his sons for the Pesach. It is just that the one who comes up first attains to it first, and all of his brothers attain to it through him)] — as soon as the head and greater part of the first enters, he attains to his portion and all the others attain (to theirs) through him. One can be numbered for it so long as there is an olive-size for each one (who is numbered). One can be numbered for it and withdraw until it is slaughtered. R. Shimon says: until the blood is sprinkled [i.e., one can withdraw even after it is slaughtered so long as the blood has not yet been sprinkled. And R. Shimon concedes that one can be numbered for it only until it is slaughtered.]
+
+
+###### Mishnah Pesachim 8:4
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/8:4](https://torahapp.org/share/book/Mishnah%20Pesachim/r/8:4)
+
+
+הַמַּמְנֶה עִמּוֹ אֲחֵרִים בְּחֶלְקוֹ, רַשָּׁאִין בְּנֵי חֲבוּרָה לִתֵּן לוֹ אֶת שֶׁלּוֹ, וְהוּא אוֹכֵל מִשֶּׁלּוֹ, וְהֵן אוֹכְלִין מִשֶּׁלָּהֶן:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If one [of the company] numbered others together with him for his portion [without the knowledge of the company], the members of the company are permitted to give him his (portion). He eats of his and they eat of theirs. [They are permitted to tell him: "Take yours and leave, and you and your friends eat," the members of the company not desiring so many individuals in their midst. (This tanna holds that one Pesach may be eaten in two companies)].
+
+
+###### Mishnah Pesachim 8:5
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/8:5](https://torahapp.org/share/book/Mishnah%20Pesachim/r/8:5)
+
+
+זָב שֶׁרָאָה שְׁתֵּי רְאִיּוֹת, שׁוֹחֲטִין עָלָיו בַּשְּׁבִיעִי. רָאָה שָׁלֹשׁ, שׁוֹחֲטִין עָלָיו בַּשְּׁמִינִי שֶׁלּוֹ. שׁוֹמֶרֶת יוֹם כְּנֶגֶד יוֹם, שׁוֹחֲטִין עָלֶיהָ בַשֵּׁנִי שֶׁלָּהּ. רָאֲתָה שְׁנֵי יָמִים, שׁוֹחֲטִין עָלֶיהָ בַשְּׁלִישִׁי. וְהַזָּבָה, שׁוֹחֲטִין עָלֶיהָ בַשְּׁמִינִי:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If a zav had two sightings, [in which instance he is unclean for seven days and does not require an offering (of atonement)], it (the Pesach) may be slaughtered for him on the seventh day [even though "his sun did not set" (this, provided that he immerse at the time of slaughtering), for he is fit to eat it at night. For it is only one who is unclean through a dead body, whose seventh day falls out on the fourteenth, who is pushed off to Pesach sheni, even though he is fit to eat it at night, as it is written (Numbers 9:6): "And there were men who were unclean by the body of a man, and they could not make the Pesach on that day" — They could not do so on that day, but they could eat the Pesach in the evening — and they were pushed off to Pesach sheni. But for other types of uncleanliness, if he is fit to eat it in the evening, it is slaughtered for him, even though his sun has not set.] If he had three sightings, [in which instance he is not fit to eat until he brings atonement (offerings)], it is slaughtered for him on his eighth day [i.e., if his eighth day fell out on Pesach eve, even if he did not bring his atonement (this, on condition that he give his (atonement) offerings to beth-din.)] A woman who observes day (of cleanliness) against day (of uncleanliness) [i.e., if she had a sighting in the eleven days between one niddah sequence and the next, in which instance she must count the next day (as a day of cleanliness)], it is slaughtered for her on her second day [i.e., on the day of her counting. For once she counts part of the day, she is permitted to immerse. And even though her sun has not set, it is slaughtered for her.] If she had sightings on two (consecutive) days, it is slaughtered for her on the third day. And a zavah [i.e., if she saw three consecutive days within the eleven days, in which instance she must count seven clean days and bring an offering (of atonement)], it is slaughtered for her on the eighth day.
+
+
+###### Mishnah Pesachim 8:6
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/8:6](https://torahapp.org/share/book/Mishnah%20Pesachim/r/8:6)
+
+
+הָאוֹנֵן, וְהַמְפַקֵּחַ אֶת הַגַּל, וְכֵן מִי שֶׁהִבְטִיחוּהוּ לְהוֹצִיאוֹ מִבֵּית הָאֲסוּרִים, וְהַחוֹלֶה וְהַזָּקֵן שֶׁהֵן יְכוֹלִין לֶאֱכֹל כַּזַּיִת, שׁוֹחֲטִין עֲלֵיהֶן. עַל כֻּלָּן אֵין שׁוֹחֲטִין עֲלֵיהֶן בִּפְנֵי עַצְמָן, שֶׁמָּא יָבִיאוּ אֶת הַפֶּסַח לִידֵי פְסוּל. לְפִיכָךְ אִם אֵרַע בָּהֶן פְּסוּל, פְּטוּרִין מִלַּעֲשׂוֹת פֶּסַח שֵׁנִי, חוּץ מִן הַמְפַקֵּחַ בַּגַּל, שֶׁהוּא טָמֵא מִתְּחִלָּתוֹ:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+The Pesach offering is slaughtered for: an onan (a mourner) [So long as his dead one has not been buried, he is called an "onan." And after burial, the entire day of death, he is called an onan. On the night following, he is "onan miderabanan" (an onan by rabbinic ordinance). And they (the rabbis) did not establish their words in the face of kareth vis-à-vis the Pesach. Therefore, it is slaughtered for him, for by Torah law he is fit (to eat it)], and one who digs out a mound (of debris) [which has fallen on one, and it is not known whether he will be found alive or dead. The Pesach is slaughtered for him (the one who digs out the mound), for he is in a status of "clean" until it be known that he has become unclean.] Likewise, one who was promised to be freed from prison, and a sick or an old man who are able to eat an olive-size. ("It is slaughtered for them":) in the company of others. It is not slaughtered for any of them by themselves, lest they bring the Pesach to psul (a state of unfitness) [i.e., lest the onan in his preoccupation become unclean through his dead one, and lest the one who digs out the mound find the one buried under it to be dead, in which instance he (the first) is found to have "tented" over uncleanliness, and lest the imprisoned one not be released. We are speaking of a prison of idolators, where even if they had promised to release him, we fear that they will not do so — (Psalms 144:8): "…whose mouths speak deceit, etc." But if one is imprisoned by Israel (i.e., by beth-din), e.g., to force him to divorce a woman who is unfit for him or to pay money (that he owes), it is permitted to slaughter for them even by themselves if they promised to release them — for (Tzephaniah 3:13): "the remnant of Israel … will not speak deceit." And if the prison were in Jerusalem, even if they were imprisoned by idolators, the Pesach may be slaughtered for them alone, for it can be brought to the prison and eaten there. And it is not slaughtered for the sick and the old by themselves lest their illness become aggravated and they not be able to eat an olive-size.] Therefore, [since when it was slaughtered for them they were fit, and the blood was sprinkled for them], if they became unfit [as explained above], they do not have a Pesach sheni obligation — except for the one who dug out a mound, [under which a dead man was found, in which instance he does have a Pesach sheni obligation], for he was unclean from the beginning [i.e., before it was slaughtered; for he "tented over the uncleanliness from the time he began digging. This, if the mound were round, in which instance he definitely "tented" over it from the beginning; but if it were straight, it may be that at the time of slaughtering he had not yet tented over the uncleanliness, in which instance he has no Pesach sheni obligation.]
+
+
+###### Mishnah Pesachim 8:7
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/8:7](https://torahapp.org/share/book/Mishnah%20Pesachim/r/8:7)
+
+
+אֵין שׁוֹחֲטִין אֶת הַפֶּסַח עַל הַיָּחִיד, דִּבְרֵי רַבִּי יְהוּדָה. וְרַבִּי יוֹסֵי מַתִּיר. אֲפִלּוּ חֲבוּרָה שֶׁל מֵאָה שֶׁאֵין יְכוֹלִין לֶאֱכֹל כַּזַּיִת, אֵין שׁוֹחֲטִין עֲלֵיהֶן. וְאֵין עוֹשִׂין חֲבוּרַת נָשִׁים וַעֲבָדִים וּקְטַנִּים:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+A Pesach is not slaughtered for an individual, [it being written (Deuteronomy 16:5): "You may not sacrifice the Pesach b'achad…", i.e., "beyachid" ("for an individual")]. These are the words of R. Yehudah. R. Yossi permits it. The Pesach is not slaughtered even for a company of a hundred who cannot eat an olive-size. [R. Yossi says this. That is, the criterion is eating (and not number). If one individual can eat an olive-size, a Pesach is slaughtered for him. If there are a hundred, none of whom can et an olive-size, the Pesach is not slaughtered for them. The halachah is in accordance with R. Yossi.] A company is not made of women, bondsmen, and minors [to slaughter the Pesach. Women and bondsmen in one company — for fear of sexual license. Minors and bondsmen in one company — for fear of promiscuity, i.e., homosexuality. But women and bondsmen may form companies by themselves.]
+
+
+###### Mishnah Pesachim 8:8
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/8:8](https://torahapp.org/share/book/Mishnah%20Pesachim/r/8:8)
+
+
+אוֹנֵן טוֹבֵל וְאוֹכֵל אֶת פִּסְחוֹ לָעֶרֶב, אֲבָל לֹא בַקָּדָשִׁים. הַשּׁוֹמֵעַ עַל מֵתוֹ, וְהַמְלַקֵּט לוֹ עֲצָמוֹת, טוֹבֵל וְאוֹכֵל בַּקָּדָשִׁים. גֵּר שֶׁנִּתְגַּיֵּר בְּעֶרֶב פֶּסַח, בֵּית שַׁמַּאי אוֹמְרִים, טוֹבֵל וְאוֹכֵל אֶת פִּסְחוֹ לָעֶרֶב. וּבֵית הִלֵּל אוֹמְרִים, הַפּוֹרֵשׁ מִן הָעָרְלָה כְּפוֹרֵשׁ מִן הַקָּבֶר:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+An onan immerses and eats his Pesach at night, [Torah aninuth (mourning) obtaining only in the daytime, viz. (Leviticus 10:19): "…and if I had eaten a sin-offering this day, etc." — the day is forbidden; the night is permitted. And he requires immersion: Because kodshim had been forbidden to him until now, the rabbis required that he immerse. But an onan may not eat other kodshim (aside from Pesach) at night, for night-aninuth is forbidden (in kodshim) by rabbinic ordinance. But vis-à-vis Pesach, the rabbis did not establish their words in the face of kareth.], but not (other) kodshim, [for the eating of other kodshim is only an aseh (a positive commandment), viz. (Exodus 29:33): "And they shall eat those things with which atonement was made."] If one hears about his dead one (i.e., that one of his close kin has died), [(On the day of his hearing, he is an onan derabanan)], and, [likewise], if one gathers the bones [of his father or mother (— it is stated in Moed Katan that he mourns them the entire day and does not mourn them at night)], he immerses and eats kodshim at night, [for in the daytime itself, he is only an onan derabanan]. If one becomes a proselyte on Pesach eve, Beth Shammai say: He immerses and eats his Pesach at night. Beth Hillel say: One who separates from the foreskin is as one who separates from the grave, [and he requires sprinkling on the third and seventh days. Beth Shammai and Beth Hillel differ only in respect to an uncircumcised gentile, who circumcised himself on the fourteenth (of Nissan), Beth Hillel holding — a decree, lest he become unclean the next year and say: "Last year I was not cleaned of all my uncleanliness until the day of Pesach eve, when I immersed and ate — now, too, I will immerse and eat" — not realizing that the preceding year, having been a gentile, he had not acquired uncleanliness, and that now, being a Jew, he does acquire uncleanliness. And Beth Shammai hold that we do not decree thus. But in respect to an uncircumcised Jew (as when his brothers died because of circumcision), all agree that he immerses and eats his Pesach at night, and we do not decree "an uncircumcised Jew by reason of an uncircumcised gentile."]
+
+
+
+## Chapter 9
+
+###### Mishnah Pesachim 9:1
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/9:1](https://torahapp.org/share/book/Mishnah%20Pesachim/r/9:1)
+
+
+מִי שֶׁהָיָה טָמֵא אוֹ בְדֶרֶךְ רְחוֹקָה וְלֹא עָשָׂה אֶת הָרִאשׁוֹן, יַעֲשֶׂה אֶת הַשֵּׁנִי. שָׁגַג אוֹ נֶאֱנַס וְלֹא עָשָׂה אֶת הָרִאשׁוֹן, יַעֲשֶׂה אֶת הַשֵּׁנִי. אִם כֵּן, לָמָּה נֶאֱמַר טָמֵא אוֹ שֶׁהָיָה בְדֶרֶךְ רְחוֹקָה, שֶׁאֵלּוּ פְּטוּרִין מֵהִכָּרֵת, וְאֵלּוּ חַיָּבִין בְּהִכָּרֵת:
+
+
+“[The Lord spoke to Moses, saying: Speak to the children of Israel, saying: If anyone of you or of your generations] Was unclean [by reason of contact with a dead body] or on a distant journey” (Numbers 9:9-10) And did not observe the first [Passover], [Then] he must observe the second [Passover]. [If] he [unintentionally] erred Or was prevented And did not observe the first [Passover], [Then] he must observe the second [Passover]. If so [asked the Mishnah], Why is it said (in Numbers 9:10): [That those] “unclean [by reason of contact with a dead body] or on a distant journey” [observe the second Passover]? [The Mishnah answers: It is to teach] that these [“unclean by reason of contact with a dead body or on a distant journey”] are exempt from being cut off from their kin, But those [who deliberately fail to observe the Passover] are liable to being cut off from their kin.
+
+
+###### Mishnah Pesachim 9:2
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/9:2](https://torahapp.org/share/book/Mishnah%20Pesachim/r/9:2)
+
+
+אֵיזוֹ הִיא דֶרֶךְ רְחוֹקָה, מִן הַמּוֹדִיעִים וְלַחוּץ, וּכְמִדָּתָהּ לְכָל רוּחַ, דִּבְרֵי רַבִּי עֲקִיבָא. רַבִּי אֱלִיעֶזֶר אוֹמֵר, מֵאַסְקֻפַּת הָעֲזָרָה וְלַחוּץ. אָמַר רַבִּי יוֹסֵי, לְפִיכָךְ נָקוּד עַל ה', לוֹמַר, לֹא מִפְּנֵי שֶׁרְחוֹקָה וַדַּאי, אֶלָּא מֵאִסְקֻפַּת הָעֲזָרָה וְלַחוּץ:
+
+
+What is “a distant journey” (within the meaning of Numbers 9:10)? From Modi’in and beyond, And the same distance in any direction [from Jerusalem is a distant journey] — [These are] the words of Rabbi Akiva. Rabbi Eliezer says: [A journey is distant anytime one leaves] from the threshold of the Temple Court and beyond. Said Rabbi Yose [to Rabbi Eliezer]: For that reason there is a dot over the letter *hei* [ in the word *rechokah* - “distant” - in Numbers 9:10], [In order] to teach: Not because it is really distant, But [when one has departed] from the threshold of the Temple Court and beyond [One is regarded as being on “a distant journey”].
+
+
+###### Mishnah Pesachim 9:3
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/9:3](https://torahapp.org/share/book/Mishnah%20Pesachim/r/9:3)
+
+
+מַה בֵּין פֶּסַח רִאשׁוֹן לַשֵּׁנִי, הָרִאשׁוֹן אָסוּר בְּבַל יֵרָאֶה וּבַל יִמָּצֵא, וְהַשֵּׁנִי, מַצָּה וְחָמֵץ עִמּוֹ בַּבָּיִת. הָרִאשׁוֹן טָעוּן הַלֵּל בַּאֲכִילָתוֹ, וְהַשֵּׁנִי אֵינוֹ טָעוּן הַלֵּל בַּאֲכִילָתוֹ. זֶה וָזֶה טָעוּן הַלֵּל בַּעֲשִׂיָּתָן, וְנֶאֶכָלִין צָלִי עַל מַצּוֹת וּמְרוֹרִים, וְדוֹחִין אֶת הַשַּׁבָּת:
+
+
+What is the difference between the first Passover and the second [Passover]? The first [Passover] is subject to the prohibition that “[Leaven] shall not be seen [with you]” (Exodus 13:7) And “[leaven] shall not be found [in your houses]” (Exodus 12:19); While at the second [Passover, One may have both] leavened and unleavened bread in the house. The first [Passover] requires [the reciting of] Hallel (Psalms 113–118) when [the Passover lamb] is eaten, While the second [Passover] does not require [the reciting of] Hallel when it is eaten. But both [first and second Passover] require [the reciting of] Hallel when they are offered, And they [both] are eaten roasted with unleavened bread and bitter herbs, And they [both] override the Sabbath.
+
+
+###### Mishnah Pesachim 9:4
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/9:4](https://torahapp.org/share/book/Mishnah%20Pesachim/r/9:4)
+
+
+הַפֶּסַח שֶׁבָּא בְטֻמְאָה, לֹא יֹאכְלוּ מִמֶּנּוּ זָבִין וְזָבוֹת נִדּוֹת וְיוֹלְדוֹת. וְאִם אָכְלוּ, פְּטוּרִים מִכָּרֵת. רַבִּי אֱלִיעֶזֶר פּוֹטֵר אַף עַל בִּיאַת מִקְדָּשׁ:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+A Pesach brought in uncleanliness may not be eaten by zavin and zavoth, niddoth, and yoldoth (women who have just given birth). [For in respect to (Exodus 9:10): "…if he become unclean by a body," it is written: "a man," which is expounded: A man is pushed off (to Pesach sheni), but a congregation is not pushed off. But with zivah (and related) uncleanliness, even a congregation is pushed off.]; but if they do eat, they are exempt from kareth. [For in respect to the eating of kodshim in uncleanliness of body it is written (Leviticus 7:19): "Everyone that is clean may eat flesh," followed by (Ibid. 20): "And the soul that eats flesh … and his uncleanliness is upon him, that soul shall be cut off from its people" — Flesh which is eaten by the clean, if the unclean eat it, they are liable (to kareth) for uncleanliness; flesh which is not eaten by the clean, e.g., a Pesach which is brought in uncleanliness, if the unclean eat it they are not liable (to kareth) for uncleanliness.] R. Eliezer exempts [zavin and zavoth from kareth] even for entering the sanctuary. [If they entered the sanctuary, they are exempt when the Pesach is overridden by uncleanliness (i.e., when it may be eaten in uncleanliness), viz. (Numbers 5:2): "And let them send out of the camp every leper and every zav and everyone that is unclean by a body" — When those unclean by a body are sent out, zavin and lepers are sent out; when those unclean by a body are not sent out, zavin and lepers are not sent out. And the first tanna does not expound the verse thus, for all must be separated from their (respective) encampments. The halachah is not in accordance with R. Eliezer.]
+
+
+###### Mishnah Pesachim 9:5
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/9:5](https://torahapp.org/share/book/Mishnah%20Pesachim/r/9:5)
+
+
+מַה בֵּין פֶּסַח מִצְרַיִם לְפֶסַח דּוֹרוֹת, פֶּסַח מִצְרַיִם מִקָּחוֹ מִבֶּעָשׂוֹר, וְטָעוּן הַזָּאָה בַאֲגֻדַּת אֵזוֹב עַל הַמַּשְׁקוֹף וְעַל שְׁתֵּי מְזוּזוֹת, וְנֶאֱכָל בְּחִפָּזוֹן בְּלַיְלָה אֶחָד, וּפֶסַח דּוֹרוֹת נוֹהֵג כָּל שִׁבְעָה:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+What is the difference between the Pesach of Egypt and the Pesach of (all) the generations? The Pesach of Egypt — its taking (i.e., its being designated as a Pesach offering) was on the tenth (of Nissan), it required sprinkling with a bundle of hyssop on the lintel and on the two door-posts, and it was eaten in haste in one night. And the Pesach of generations obtains all seven. [Our Mishnah is defective. This is what is intended: "And it is eaten in haste in one night, and its chametz (interdict) obtains the entire day (i.e., the fifteenth of Nissan). And the Pesach of the generations — its Pesach (interdict) obtains all seven days." For in respect to the Pesach of Egypt it is written (Exodus 13:3): "And chametz shall not be eaten (4): This day you go out, etc." — Understand it as: Chametz shall not be eaten (on) this day (that) you go out alone.]
+
+
+###### Mishnah Pesachim 9:6
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/9:6](https://torahapp.org/share/book/Mishnah%20Pesachim/r/9:6)
+
+
+אָמַר רַבִּי יְהוֹשֻׁעַ, שָׁמַעְתִּי שֶׁתְּמוּרַת הַפֶּסַח קְרֵבָה, וּתְמוּרַת הַפֶּסַח אֵינָהּ קְרֵבָה, וְאֵין לִי לְפָרֵשׁ. אָמַר רַבִּי עֲקִיבָא, אֲנִי אֲפָרֵשׁ. הַפֶּסַח שֶׁנִּמְצָא קֹדֶם שְׁחִיטַת הַפֶּסַח, יִרְעֶה עַד שֶׁיִּסְתָּאֵב, וְיִמָּכֵר, וְיִקַּח בְּדָמָיו שְׁלָמִים, וְכֵן תְּמוּרָתוֹ. אַחַר שְׁחִיטַת הַפֶּסַח, קָרֵב שְׁלָמִים, וְכֵן תְּמוּרָתוֹ:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+R. Yehoshua said: I heard [from my teachers] that the Pesach substitute is sacrificed [as a shelamim (peace-offering) after Pesach] and that the Pesach substitute is not sacrificed [i.e., There is a Pesach substitute which is not sacrificed as a shelamim itself but which is allowed to graze until it sustains a blemish, at which time it is sold and a shelamim purchased with the money; for what is left over from the Pesach is sacrificed as a shelamim], and I cannot explain it [i.e., I have forgotten which is sacrificed and which grazes until it sustains a blemish.] R. Akiva said: I will explain it: The Pesach [which was lost and another substituted for it, and] which was found before the slaughtering of the [second] Pesach, [so that it (the first) was standing before us at the time of the slaughtering — the time of slaughtering designated it as a "Pesach," so that its not having been sacrificed renders it "actively rejected," for which reason it itself is not sacrificed as a shelamim] (but it) is allowed to graze until it sustains a blemish and it is sold. And the same is true of its substitute [if he afterwards substituted a non-dedicated (chullin) animal for it.] After the slaughtering of the Pesach, it is sacrificed as a shelamim [i.e., If after the slaughtering of the second the first were found, the time of slaughtering had not designated it (the first) as a Pesach, and it was not "actively rejected," so that it itself is sacrificed as a shelamim]. And the same is true of its substitute. [And R. Yehoshua could have spoken of the Pesach itself, viz.: "There is a Pesach which is sacrificed and a Pesach which is not sacrificed."]
+
+
+###### Mishnah Pesachim 9:7
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/9:7](https://torahapp.org/share/book/Mishnah%20Pesachim/r/9:7)
+
+
+הַמַּפְרִישׁ נְקֵבָה לְפִסְחוֹ אוֹ זָכָר בֶּן שְׁתֵּי שָׁנִים, יִרְעֶה עַד שֶׁיִּסְתָּאֵב, וְיִמָּכֵר, וְיִפְּלוּ דָמָיו לִנְדָבָה. הַמַּפְרִישׁ פִּסְחוֹ וָמֵת, לֹא יְבִיאֶנּוּ בְנוֹ אַחֲרָיו לְשֵׁם פֶּסַח, אֶלָּא לְשֵׁם שְׁלָמִים:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If one separated a female as his Pesach or a two-year-old male (instead of a one-year-old), it is to be allowed to graze until it sustains a blemish and its monies given for gift-offerings. [The monies are to be placed in the Temple chest for gift burnt-offerings.] If one set aside his Pesach and died, his son after him should not bring it as a Pesach, but as a shelamim [For it is a Pesach whose owner died, so that none are numbered for it.]
+
+
+###### Mishnah Pesachim 9:8
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/9:8](https://torahapp.org/share/book/Mishnah%20Pesachim/r/9:8)
+
+
+הַפֶּסַח שֶׁנִּתְעָרֵב בִּזְבָחִים, כֻּלָּן יִרְעוּ עַד שֶׁיִּסְתָּאֲבוּ, וְיִמָּכְרוּ, וְיָבִיא בִדְמֵי הַיָּפֶה שֶׁבָּהֶן מִמִּין זֶה, וּבִדְמֵי הַיָּפֶה שֶׁבָּהֶן מִמִּין זֶה, וְיַפְסִיד הַמּוֹתָר מִבֵּיתוֹ. נִתְעָרֵב בִּבְכוֹרוֹת, רַבִּי שִׁמְעוֹן אוֹמֵר, אִם חֲבוּרַת כֹּהֲנִים, יֹאכֵלוּ:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If the Pesach got mixed up with (other) offerings [e.g., If three lambs got mixed up: one, a Pesach; one, a guilt-offering; one, a burnt-offering], they are to be allowed to graze until they sustain a blemish. Then they are to be sold, and he buys for the amount of the choicest of them this variety, and for the amount of the choicest of them, that variety, and he lays out the addition from his pocket. [He buys for the amount of the choicest of them a burnt-offering; for the choicest might have been a burnt-offering. And for the amount of the choicest of them, a guilt-offering; for the choicest might have been a guilt-offering. And for the amount of the choicest of them, a Pesach — if they all sustained blemishes before the festival. And if they sustained blemishes after the festival, he offers them as shelamim, for the choicest might have been a Pesach. And that addition which he must add for the second until he arrives at the amount of the choicest, he lays out from his pocket. For example, if the choicest were worth a sela, he brings three of his selaim, and, taking one, says: "Wherever the burnt-offering is, it is exchanged for this sela," and he brings a burnt-offering for it. Then he takes the second sela and says: "Wherever the guilt-offering is, it is exchanged for this sela," and he brings a guilt-offering for it; and so, with the shelamim.] If the Pesach got mixed up with bechoroth (firstlings)], for which the sprinkling of the blood is the same as for the Pesach], R. Shimon says: If they were a company of Cohanim, they eat [all of them on that night, for a bechor is eaten by the Cohanim. And he sacrifices the Pesach as a Pesach wherever it is, and the bechoroth as bechoroth wherever they are. And even though he thereby diminishes the time in which the bechor is eaten (for a bechor is normally eaten for two days and one night, and now it can only be eaten until mid-night, the cut-off time for the Pesach, so that he is found to be bringing consecrated food to "the house of psul" - unfitness), R. Shimon holds that he is permitted to do so. And the rabbis differ with him, saying that they must be allowed to graze until they sustain a blemish, after which he buys offerings for the amount of the choicest of them, as in the instance (above) of a Pesach that got mixed up with other offerings.]
+
+
+###### Mishnah Pesachim 9:9
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/9:9](https://torahapp.org/share/book/Mishnah%20Pesachim/r/9:9)
+
+
+חֲבוּרָה שֶׁאָבַד פִּסְחָהּ, וְאָמְרָה לְאֶחָד, צֵא וּבַקֵּשׁ וּשְׁחֹט עָלֵינוּ, וְהָלַךְ וּמָצָא וְשָׁחַט, וְהֵם לָקְחוּ וְשָׁחֲטוּ, אִם שֶׁלּוֹ נִשְׁחַט רִאשׁוֹן, הוּא אוֹכֵל מִשֶּׁלּוֹ, וְהֵם אוֹכְלִים עִמּוֹ מִשֶּׁלּוֹ, וְאִם שֶׁלָּהֶן נִשְׁחַט רִאשׁוֹן, הֵם אוֹכְלִין מִשֶּׁלָּהֶן, וְהוּא אוֹכֵל מִשֶּׁלּוֹ. וְאִם אֵינוֹ יָדוּעַ אֵיזֶה מֵהֶן נִשְׁחַט רִאשׁוֹן, אוֹ שֶׁשָּׁחֲטוּ שְׁנֵיהֶן כְּאֶחָד, הוּא אוֹכֵל מִשֶּׁלּוֹ, וְהֵם אֵינָם אוֹכְלִים עִמּוֹ, וְשֶׁלָּהֶן יֵצֵא לְבֵית הַשְּׂרֵפָה, וּפְטוּרִין מִלַּעֲשׂוֹת פֶּסַח שֵׁנִי. אָמַר לָהֶן, אִם אֵחַרְתִּי, צְאוּ וְשַׁחֲטוּ עָלָי. הָלַךְ וּמְצָאוֹ, וְשָׁחַט, וְהֵן לָקְחוּ וְשָׁחֲטוּ, אִם שֶׁלָּהֶן נִשְׁחַט רִאשׁוֹן, הֵן אוֹכְלִין מִשֶּׁלָּהֶן, וְהוּא אוֹכֵל עִמָּהֶן. וְאִם שֶׁלּוֹ נִשְׁחַט רִאשׁוֹן, הוּא אוֹכֵל מִשֶּׁלּוֹ, וְהֵן אוֹכְלִין מִשֶּׁלָּהֶן. וְאִם אֵינוֹ יָדוּעַ אֵיזֶה מֵהֶם נִשְׁחַט רִאשׁוֹן, אוֹ שֶׁשָּׁחֲטוּ שְׁנֵיהֶם כְּאֶחָד, הֵן אוֹכְלִין מִשֶּׁלָּהֶן, וְהוּא אֵינוֹ אוֹכֵל עִמָּהֶן, וְשֶׁלּוֹ יֵצֵא לְבֵית הַשְּׂרֵפָה, וּפָטוּר מִלַּעֲשׂוֹת פֶּסַח שֵׁנִי. אָמַר לָהֶן וְאָמְרוּ לוֹ, אוֹכְלִין כֻּלָּם מִן הָרִאשׁוֹן. וְאִם אֵין יָדוּעַ אֵיזֶה מֵהֶן נִשְׁחַט רִאשׁוֹן, שְׁנֵיהֶם יוֹצְאִין לְבֵית הַשְּׂרֵפָה. לֹא אָמַר לָהֶן וְלֹא אָמְרוּ לוֹ, אֵינָן אַחֲרָאִין זֶה לָזֶה:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If a company (chaburah) lost its Pesach and they said to one (of their group): "Go and look for it and slaughter it for us," and he went and found it and slaughtered it, and they took (a lamb) and slaughtered it — if his were slaughtered first, he eats of his and they eat of his. [For since they said: "Slaughter it for us," they are numbered for his; and they burn theirs, for it is a Pesach without owners, and they eat entirely of his.] And if theirs were slaughtered first, they eat of theirs, [for they opted out of the lost one and withdrew from it], and he eats of his, [for he was not numbered with theirs.] And if it were not known which was slaughtered first, or if both were slaughtered as one, he eats of his and they do not eat with him, [for theirs might have been slaughtered first, and they withdrew from his], and theirs is burned, [for his might have been slaughtered first and they are not numbered on the second.] And they are exempt from Pesach sheni, [for in any event they were numbered on the first (lamb that was slaughtered, and eating is not a categorical requirement (for the validity of the offering).] If he [that individual who went to look for the first Pesach] said to them: "If I am late, [number me with you and] go out and slaughter for me" [and they did not say: "Slaughter it for us"] — if he went and found it and slaughtered it, and they took (a lamb) and slaughtered it" — if theirs were slaughtered first, they eat of theirs and he eats with them. [Since they numbered him for theirs, he withdrew from the first and opted out of his mission. And if his were slaughtered first, he eats of his and they eat of theirs. And if it were not known which was slaughtered first or if both were slaughtered as one, they eat of theirs and he does not eat with them and his is burned, for theirs might have been slaughtered first and he withdrew from his, for he made them (his) messengers.] And he is exempt from Pesach sheni, [for in any event he was numbered on the first (lamb that was slaughtered), and eating is not a categorical requirement.] If he said to them: ["Slaughter for me if I am late"] and they said to him: ["Look for it and slaughter it for us"], they all eat from the first (lamb that is slaughtered) [for he is their messenger and they are his messengers.] And if it were not known which of them were slaughtered first, they both are burned [and they are (all) exempt from Pesach sheni.] If he did not tell them and they did not tell him, they are not responsible for one another. [We are not concerned which was first, but he eats of his and they eat of theirs.]
+
+
+###### Mishnah Pesachim 9:10
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/9:10](https://torahapp.org/share/book/Mishnah%20Pesachim/r/9:10)
+
+
+שְׁתֵּי חֲבוּרוֹת שֶׁנִּתְעָרְבוּ פִסְחֵיהֶן, אֵלּוּ מוֹשְׁכִין לָהֶן אֶחָד וְאֵלּוּ מוֹשְׁכִין לָהֶן אֶחָד, אֶחָד מֵאֵלּוּ בָא לוֹ אֵצֶל אֵלּוּ, וְאֶחָד מֵאֵלּוּ בָא לוֹ אֵצֶל אֵלּוּ, וְכָךְ הֵם אוֹמְרִים, אִם שֶׁלָּנוּ הוּא הַפֶּסַח הַזֶּה, יָדֶיךָ מְשׁוּכוֹת מִשֶּׁלְּךָ וְנִמְנֵיתָ עַל שֶׁלָּנוּ, וְאִם שֶׁלְּךָ הוּא הַפֶּסַח הַזֶּה, יָדֵינוּ מְשׁוּכוֹת מִשֶּׁלָּנוּ וְנִמְנֵינוּ עַל שֶׁלָּךְ. וְכֵן חָמֵשׁ חֲבוּרוֹת שֶׁל חֲמִשָּׁה חֲמִשָּׁה, וְשֶׁל עֲשָׂרָה עֲשָׂרָה, מוֹשְׁכִין לָהֶן אֶחָד מִכָּל חֲבוּרָה וַחֲבוּרָה, וְכֵן הֵם אוֹמְרִים:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If the Pesachim of two companies got mixed up, these (the members of one company) take one [of the Pesachim] (for themselves), and the others take one. One of these [i.e., one from one company] comes to those [the other company], and one of these comes to those. And thus do they [the company] say [to that individual:] "If this Pesach [that we took] is ours, [then we have chosen well]; withdraw from yours and number yourself with ours. And if this Pesach is yours, [then you are numbered for it], and we withdraw from ours [and let it belong to the other company] and let us be numbered with you." [It is found, then, that if they had been exchanged, the entire company would have withdrawn from theirs and been numbered for the one they had chosen. And thus do the members of the second company say to the individual who comes to them. And, perforce, one from one company must come to the others and be numbered with them; and we do not say: Let each company withdraw from theirs wherever it is and then be numbered for one of the Pesachim, respectively. For it is stated in the baraitha in the gemara that it is forbidden for all of the company to withdraw from the Pesach and leave it without owners. And if they might have been exchanged, and they wish to withdraw from their Pesach and be numbered on the other, when they say: "We withdraw from ours" they are leaving the Pesach without owners, and this is forbidden.] But now, when an individual from one company comes to the other, whatever the case, there is no Pesach without owners. For if they chose theirs, correctly, all the members of their company are numbered for it, except this individual, who withdrew from his company (and is now joining theirs). And if they had exchanged it, then one of them had come with his Pesach, and when the others (from his original company) withdrew from it, he remained numbered with it.] And the same holds for five companies of five men each and for ten companies of ten men each [whose Pesachim got mixed up. Each company] takes for itself one [of the Pesachim] of each company [and the five men in each company divide themselves among the five Pesachim, so that if they were exchanged, there will not be one Pesach without one of its original owners numbered for it.] And thus do they say: [When the new companies have been formed, four say to one: "If this Pesach is yours, then the four of us withdraw from our four (original) Pesachim wherever they are, and we are numbered with you." Then he (the one) and three others say the same to a second. And so, all four to every one in the company. And thus with each company.]
+
+
+###### Mishnah Pesachim 9:11
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/9:11](https://torahapp.org/share/book/Mishnah%20Pesachim/r/9:11)
+
+
+שְׁנַיִם שֶׁנִּתְעָרְבוּ פִסְחֵיהֶם, זֶה מוֹשֵׁךְ לוֹ אֶחָד, וְזֶה מוֹשֵׁךְ לוֹ אֶחָד, זֶה מַמְנֶה עִמּוֹ אֶחָד מִן הַשּׁוּק, וְזֶה מַמְנֶה עִמּוֹ אֶחָד מִן הַשּׁוּק, זֶה בָא אֵצֶל זֶה, וְזֶה בָא אֵצֶל זֶה, וְכָךְ הֵם אוֹמְרִים, אִם שֶׁלִּי הוּא פֶסַח זֶה, יָדֶיךָ מְשׁוּכוֹת מִשֶּׁלְּךָ וְנִמְנֵיתָ עַל שֶׁלִּי. וְאִם שֶׁלְּךָ הוּא פֶסַח זֶה, יָדַי מְשׁוּכוֹת מִשֶּׁלִּי וְנִמְנֵיתִי עַל שֶׁלָּךָ:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+If the Pesachim of two men [Reuven and Shimon] got mixed up, this one [Reuven] takes one for himself, and that one [Shimon] takes one for himself. This one [Reuven] numbers with himself one from the marketplace, [telling him: "Wherever my Pesach is, you are numbered for it"], and that one [Shimon] numbers with himself one from the marketplace. This one [Reuven] comes to this [Pesach taken by Shimon], and that one [Shimon] comes to that [Pesach taken by Reuven]. And this is what they say: [This is what Reuven says to Yehudah, who remains with the Pesach taken by Shimon:] "If this Pesach is mine" [i.e., If I did not choose correctly, and this is not the Pesach for which you were numbered with Shimon], then withdraw from yours and be numbered with me on [this, which is] mine. And if this Pesach is yours, [Shimon having chosen correctly], then I withdraw from mine and am numbered [with you] on [this, which is] yours." [The reason each one must number with himself someone from the marketplace is that if they came to stipulate thus between themselves and to say: "If this Pesach is mine and yours is yours, then we have chosen correctly; and if not, I withdraw from mine and number myself with yours," then, when he withdraws from his, he leaves his Pesach without an owner, none having yet been numbered for it. And each cannot be numbered together with the other before he withdraws from his, for one cannot be numbered on two Pesachim at the same time, this not satisfying (slaughtering the Pesach for) "Those numbered for it."]
+
+
+
+## Chapter 10
+
+###### Mishnah Pesachim 10:1
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/10:1](https://torahapp.org/share/book/Mishnah%20Pesachim/r/10:1)
+
+
+עַרְבֵי פְסָחִים סָמוּךְ לַמִּנְחָה, לֹא יֹאכַל אָדָם עַד שֶׁתֶּחְשָׁךְ. וַאֲפִלּוּ עָנִי שֶׁבְּיִשְׂרָאֵל לֹא יֹאכַל עַד שֶׁיָּסֵב. וְלֹא יִפְחֲתוּ לוֹ מֵאַרְבַּע כּוֹסוֹת שֶׁל יַיִן, וַאֲפִלּוּ מִן הַתַּמְחוּי:
+
+
+On the eve of Passover [from] close to [the time of] the afternoon offering, no one must eat until nightfall. Even the poorest person in Israel must not eat [on the night of Passover] unless he reclines. And they must give him no fewer than four cups of wine, even [if he receives relief] from the charity plate.
+
+
+###### Mishnah Pesachim 10:2
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/10:2](https://torahapp.org/share/book/Mishnah%20Pesachim/r/10:2)
+
+
+מָזְגוּ לוֹ כוֹס רִאשׁוֹן, בֵּית שַׁמַּאי אוֹמְרִים, מְבָרֵךְ עַל הַיּוֹם, וְאַחַר כָּךְ מְבָרֵךְ עַל הַיָּיִן. וּבֵית הִלֵּל אוֹמְרִים, מְבָרֵךְ עַל הַיַּיִן, וְאַחַר כָּךְ מְבָרֵךְ עַל הַיּוֹם:
+
+
+They pour the first cup [of wine] for [the leader of the seder]. The House of Shammai say: He recites a blessing for the day [first], and then recites a blessing over the wine But the House of Hillel say: He recites a blessing over the wine [first], and then recites a blessing for the day.
+
+
+###### Mishnah Pesachim 10:3
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/10:3](https://torahapp.org/share/book/Mishnah%20Pesachim/r/10:3)
+
+
+הֵבִיאוּ לְפָנָיו, מְטַבֵּל בַּחֲזֶרֶת, עַד שֶׁמַּגִּיעַ לְפַרְפֶּרֶת הַפַּת. הֵבִיאוּ לְפָנָיו מַצָּה וַחֲזֶרֶת וַחֲרֹסֶת וּשְׁנֵי תַבְשִׁילִין, אַף עַל פִּי שֶׁאֵין חֲרֹסֶת מִצְוָה. רַבִּי אֱלִיעֶזֶר בְּרַבִּי צָדוֹק אוֹמֵר, מִצְוָה. וּבַמִּקְדָּשׁ הָיוּ מְבִיאִים לְפָנָיו גּוּפוֹ שֶׁל פָּסַח:
+
+
+[Then] they set [food] before him. He dips the lettuce before he reaches the course following the [unleavened] bread. [Then] they set before him unleavened bread, lettuce, and a mixture of apples, nuts, and wine, and two dishes, although the mixture of apples, nuts, and wine is not compulsory. Rabbi Eliezer bar Tzadok says: It is compulsory. And in the Temple they used to bring before him the body of the Passover-offering.
+
+
+###### Mishnah Pesachim 10:4
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/10:4](https://torahapp.org/share/book/Mishnah%20Pesachim/r/10:4)
+
+
+מָזְגוּ לוֹ כוֹס שֵׁנִי, וְכָאן הַבֵּן שׁוֹאֵל אָבִיו, וְאִם אֵין דַּעַת בַּבֵּן, אָבִיו מְלַמְּדוֹ, מַה נִּשְׁתַּנָּה הַלַּיְלָה הַזֶּה מִכָּל הַלֵּילוֹת, שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין חָמֵץ וּמַצָּה, הַלַּיְלָה הַזֶּה כֻלּוֹ מַצָּה. שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין שְׁאָר יְרָקוֹת, הַלַּיְלָה הַזֶּה מָרוֹר. שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין בָּשָׂר צָלִי, שָׁלוּק, וּמְבֻשָּׁל, הַלַּיְלָה הַזֶּה כֻלּוֹ צָלִי. שֶׁבְּכָל הַלֵּילוֹת אָנוּ מַטְבִּילִין פַּעַם אַחַת, הַלַּיְלָה הַזֶּה שְׁתֵּי פְעָמִים. וּלְפִי דַעְתּוֹ שֶׁל בֵּן, אָבִיו מְלַמְּדוֹ. מַתְחִיל בִּגְנוּת וּמְסַיֵּם בְּשֶׁבַח, וְדוֹרֵשׁ מֵאֲרַמִּי אוֹבֵד אָבִי, עַד שֶׁיִּגְמֹר כֹּל הַפָּרָשָׁה כֻלָּהּ:
+
+
+They pour a second cup [of wine] for him. And here the son questions his father. And if the son has insufficient understanding [to question], his father teaches him [to ask]: Why is this night different from all [other] nights? On all [other] nights, we eat leavened and unleavened bread, [but] on this night, [we eat] only unleavened bread. On all [other] nights, we eat all kinds of vegetables, [but] on this night, [we eat only] bitter herbs. On all [other] nights, we eat meat roasted, stewed or boiled, [but] on this night, [we eat] only roasted [meat]. On all [other] nights, we dip [vegetables] once, [but] on this night, we dip [vegetables] twice. And according to the son's intelligence, his father instructs him. He begins [answering the questions] with [the account of Israel’s] shame and concludes with [Israel’s] glory, and expounds from “My father was a wandering Aramean” until he completes the whole passage.
+
+
+###### Mishnah Pesachim 10:5
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/10:5](https://torahapp.org/share/book/Mishnah%20Pesachim/r/10:5)
+
+
+רַבָּן גַּמְלִיאֵל הָיָה אוֹמֵר, כָּל שֶׁלֹּא אָמַר שְׁלֹשָׁה דְבָרִים אֵלּוּ בְּפֶסַח, לֹא יָצָא יְדֵי חוֹבָתוֹ, וְאֵלּוּ הֵן, פֶּסַח, מַצָּה, וּמָרוֹר. פֶּסַח, עַל שׁוּם שֶׁפָּסַח הַמָּקוֹם עַל בָּתֵּי אֲבוֹתֵינוּ בְמִצְרַיִם. מַצָּה, עַל שׁוּם שֶׁנִּגְאֲלוּ אֲבוֹתֵינוּ בְמִצְרַיִם. מָרוֹר, עַל שׁוּם שֶׁמֵּרְרוּ הַמִּצְרִים אֶת חַיֵּי אֲבוֹתֵינוּ בְמִצְרָיִם. בְּכָל דּוֹר וָדוֹר חַיָּב אָדָם לִרְאוֹת אֶת עַצְמוֹ כְאִלּוּ הוּא יָצָא מִמִּצְרַיִם, שֶׁנֶּאֱמַר (שמות יג), וְהִגַּדְתָּ לְבִנְךָ בַּיּוֹם הַהוּא לֵאמֹר, בַּעֲבוּר זֶה עָשָׂה ה' לִי בְּצֵאתִי מִמִּצְרָיִם. לְפִיכָךְ אֲנַחְנוּ חַיָּבִין לְהוֹדוֹת, לְהַלֵּל, לְשַׁבֵּחַ, לְפָאֵר, לְרוֹמֵם, לְהַדֵּר, לְבָרֵךְ, לְעַלֵּה, וּלְקַלֵּס, לְמִי שֶׁעָשָׂה לַאֲבוֹתֵינוּ וְלָנוּ אֶת כָּל הַנִּסִּים הָאֵלּוּ, הוֹצִיאָנוּ מֵעַבְדוּת לְחֵרוּת, מִיָּגוֹן לְשִׂמְחָה, וּמֵאֵבֶל לְיוֹם טוֹב, וּמֵאֲפֵלָה לְאוֹר גָּדוֹל, וּמִשִּׁעְבּוּד לִגְאֻלָּה. וְנֹאמַר לְפָנָיו, הַלְלוּיָהּ:
+
+
+Rabban Gamliel used to say: Whoever does not mention these three things on Passover does not discharge his duty, and these are they: the Passover-offering, unleavened bread, and bitter herbs. [The] Passover-offering [is offered] because the Omnipresent One passed over the houses of our ancestors in Egypt. Unleavened bread [is eaten] because our ancestors were redeemed from Egypt. [The] bitter herb is [eaten] because the Egyptians embittered the lives of our ancestors in Egypt. In every generation a person must regard himself as though he personally had gone out of Egypt, as it is said: “And you shall tell your son in that day, saying: ‘It is because of what the Lord did for me when I came forth out of Egypt.’” Therefore it is our duty to thank, praise, laud, glorify, exalt, honor, bless, extol, and adore Him Who performed all these miracles for our ancestors and us; He brought us forth from bondage into freedom, from sorrow into joy, from mourning into festivity, from darkness into great light, and from servitude into redemption. Therefore let us say before Him, Hallelujah!
+
+
+###### Mishnah Pesachim 10:6
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/10:6](https://torahapp.org/share/book/Mishnah%20Pesachim/r/10:6)
+
+
+עַד הֵיכָן הוּא אוֹמֵר, בֵּית שַׁמַּאי אוֹמְרִים, עַד אֵם הַבָּנִים שְׂמֵחָה. וּבֵית הִלֵּל אוֹמְרִים, עַד חַלָּמִישׁ לְמַעְיְנוֹ מָיִם. וְחוֹתֵם בִּגְאֻלָּה. רַבִּי טַרְפוֹן אוֹמֵר, אֲשֶׁר גְּאָלָנוּ וְגָאַל אֶת אֲבוֹתֵינוּ מִמִּצְרָיִם, וְלֹא הָיָה חוֹתֵם. רַבִּי עֲקִיבָא אוֹמֵר, כֵּן ה' אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ יַגִּיעֵנוּ לְמוֹעֲדִים וְלִרְגָלִים אֲחֵרִים הַבָּאִים לִקְרָאתֵנוּ לְשָׁלוֹם, שְׂמֵחִים בְּבִנְיַן עִירֶךָ וְשָׂשִׂים בַּעֲבוֹדָתֶךָ, וְנֹאכַל שָׁם מִן הַזְּבָחִים וּמִן הַפְּסָחִים כוּ', עַד בָּרוּךְ אַתָּה ה' גָּאַל יִשְׂרָאֵל:
+
+
+Up until which point should he recite? The House of Shammai says: Up to 'as a happy mother of children'. The House of Hillel says: Up to 'flint stone into a water-spring', and conclude with the blessing of redemption. Rabbi Tarfon says: 'who redeemed us and our ancestors from Egypt', but without a concluding blessing. Rabbi Akiva says: 'O YHVH our God and God of our ancestors--may we come to reach other seasons and festivals in peace, joyful in the rebuilding of your city, and jubilant in your Temple service, where we will eat from the offerings and Passover sacrifices etc.' until 'Bless you YHVH, Redeemer of Israel.
+
+
+###### Mishnah Pesachim 10:7
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/10:7](https://torahapp.org/share/book/Mishnah%20Pesachim/r/10:7)
+
+
+מָזְגוּ לוֹ כוֹס שְׁלִישִׁי, מְבָרֵךְ עַל מְזוֹנוֹ. רְבִיעִי, גּוֹמֵר עָלָיו אֶת הַהַלֵּל, וְאוֹמֵר עָלָיו בִּרְכַּת הַשִּׁיר. בֵּין הַכּוֹסוֹת הַלָּלוּ, אִם רוֹצֶה לִשְׁתּוֹת, יִשְׁתֶּה. בֵּין שְׁלִישִׁי לָרְבִיעִי, לֹא יִשְׁתֶּה:
+
+
+They mix a third cup; he blesses his meal. [The] fourth [cup] is concluded with Hallel, which he says with the [concluding] blessing. Between these cups, if he wishes to drink, he may drink. Between the third and the fourth [cups], he may not drink.
+
+
+###### Mishnah Pesachim 10:8
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/10:8](https://torahapp.org/share/book/Mishnah%20Pesachim/r/10:8)
+
+
+וְאֵין מַפְטִירִין אַחַר הַפֶּסַח אֲפִיקוֹמָן. יָשְׁנוּ מִקְצָתָן, יֹאכְלוּ. כֻּלָּן, לֹא יֹאכֵלוּ. רַבִּי יוֹסֵי אוֹמֵר, נִתְנַמְנְמוּ, יֹאכְלוּ. נִרְדְּמוּ, לֹא יֹאכֵלוּ:
+
+
+They may not add an afikoman after the Pesach offering. If a few of them fell asleep, they may eat. If all of them [changed locations], they may not eat. Rabbi Yossi says: if they nod off, they may eat. If they fall asleep, they may not eat.
+
+
+###### Mishnah Pesachim 10:9
+
+[https://torahapp.org/share/book/Mishnah%20Pesachim/r/10:9](https://torahapp.org/share/book/Mishnah%20Pesachim/r/10:9)
+
+
+הַפֶּסַח אַחַר חֲצוֹת, מְטַמֵּא אֶת הַיָּדָיִם. הַפִּגּוּל וְהַנּוֹתָר, מְטַמְּאִין אֶת הַיָּדָיִם. בֵּרַךְ בִּרְכַּת הַפֶּסַח פָּטַר אֶת שֶׁל זֶבַח. בֵּרַךְ אֶת שֶׁל זֶבַח, לֹא פָטַר אֶת שֶׁל פֶּסַח, דִּבְרֵי רַבִּי יִשְׁמָעֵאל. רַבִּי עֲקִיבָא אוֹמֵר, לֹא זוֹ פוֹטֶרֶת זוֹ, וְלֹא זוֹ פוֹטֶרֶת זוֹ:
+
+
+*(The Mishna with Obadiah Bartenura by Rabbi Shraga Silverstein)*
+The Pesach, after midnight, renders one's hands unclean. [For it is nothar from midnight on. And the rabbis decreed that nothar render one's hands unclean so that they not be lax in eating it. And whence is it derived that the Pesach is nothar after midnight? For it is written (Exodus 12:8): "And they shall eat the flesh on this night," and (Ibid. 12): "And I shall pass through the land of Egypt on this night." Just as there (12), until midnight; here (8) too, until midnight.] Pigul and nothar render one's hands unclean. If he made the blessing for the Pesach ["…who sanctified us with His commandments and commanded us to eat the Pesach"], he exempts the sacrifice. If he made the blessing for the sacrifice ["…who sanctified us with His commandments and commanded us to eat the sacrifice"], he exempts the Pesach. [The "sacrifice" here is the festival offering (chagigah) of the fourteenth of Nissan.] These are the words of R. Yishmael. R. Akiva says: This does not exempt that and that does not exempt this. [The halachah is in accordance with R. Akiva.]
+
