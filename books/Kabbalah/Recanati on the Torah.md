@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Recanati on the Torah (Segments: 1909, License: Public Domain)
 
-Version (En): Français (Segments: 9)
+Version (En): Sefaria Community Translation (Segments: 9)
 
 
 ## Bereshit

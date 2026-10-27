@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Vocalized Edition (Segments: 548)
 
-Version (En): Eliyahu Munk, HaChut Hameshulash (Segments: 506)
+Version (En): Sefaria Community Translation (Segments: 507)
 
 
 ## Chapter 1
@@ -849,7 +849,7 @@ EACH ONE TO HIS WORK AND HIS PORTERAGE AND HIS RESPONSIBILITY. He appointed each
 [https://torahapp.org/share/book/Sforno%20on%20Numbers/r/5:15:1](https://torahapp.org/share/book/Sforno%20on%20Numbers/r/5:15:1)
 
 
-**וְהֵבִיא הָאִישׁ אֶת אִשְׁתּוֹ.** וְלֹא נֶאֱמַר מֵאַחַר שֶׁבְּכָל זֶה שֶׁשָּׁטְתָה אִשְׁתּוֹ מִדַּרְכֵי הַצְּנִיעוּת וּמָעֲלָה בוֹ מַעַל יָשַׁב וְדָמַם, אֵין זֶה כִּי אִם רֹעַ לֵב, וְאַף עַל פִּי שֶׁנֶּעְלַם מֵעֵינָיו שֶׁשָּׁכַב אִישׁ אוֹתָהּ, לֹא נָחוּשׁ לְקִנְאָתוֹ. וְכֵן אִם קִנֵּא בְּלִי סִבָּה, לֹא בִּשְׁבִיל זֶה נֶאֱמַר שֶׁתִּהְיֶה קִנְאָתוֹ דָּבָר בָּטֵל. כִּי אָמְנָם אַף עַל פִּי כֵן נִמְחוֹק הַמְּגִלָּה וְנַקְרִיב כַּכָּתוּב בַּפָּרָשָׁה.
+**וְהֵבִיא הָאִישׁ אֶת אִשְׁתּוֹ.** וְלֹא נֹאמַר מֵאַחַר שֶׁבְּכָל זֶה שֶׁשָּׁטְתָה אִשְׁתּוֹ מִדַּרְכֵי הַצְּנִיעוּת וּמָעֲלָה בוֹ מַעַל יָשַׁב וְדָמַם, אֵין זֶה כִּי אִם רֹעַ לֵב, וְאַף עַל פִּי שֶׁנֶּעְלַם מֵעֵינָיו שֶׁשָּׁכַב אִישׁ אוֹתָהּ, לֹא נָחוּשׁ לְקִנְאָתוֹ. וְכֵן אִם קִנֵּא בְּלִי סִבָּה, לֹא בִּשְׁבִיל זֶה נֹאמַר שֶׁתִּהְיֶה קִנְאָתוֹ דָּבָר בָּטֵל. כִּי אָמְנָם אַף עַל פִּי כֵן נִמְחוֹק הַמְּגִלָּה וְנַקְרִיב כַּכָּתוּב בַּפָּרָשָׁה.
 
 
 והביא האיש את אשתו, we do not say that seeing that her husband had sat by silently while his wife had behaved unchastely, accusing her in his heart without saying a word, that this is proof of the husband’s bad attitude and we should therefore ignore his jealousy seeing he had allowed matters to get to the point where she had slept with another man; neither do we ignore his jealousy if she had not given him cause as something not worth paying attention to. We still subject her to the destruction (erasing) of the name of G’d (in the procedure the Torah will presently describe) in order to reveal the truth.
@@ -1500,6 +1500,9 @@ A major function of the combined activity by the “tutored and the ignorant” 
 **תַּחַת פִּטְרַת כָּל רֶחֶם.** שֶׁהָיְתָה הָעֲבוֹדָה מֻטֶּלֶת עֲלֵיהֶם.
 
 
+(3) IN PLACE OF ALL THE FIRST ISSUE OF THE WOMB. On whom the responsibility for the service had been imposed.
+
+
 
 ### Verse 17
 
@@ -1519,7 +1522,7 @@ A major function of the combined activity by the “tutored and the ignorant” 
 [https://torahapp.org/share/book/Sforno%20on%20Numbers/r/8:17:2](https://torahapp.org/share/book/Sforno%20on%20Numbers/r/8:17:2)
 
 
-**בְּיוֹם הַכּוֹתִי כָל בְּכוֹר. הִקְדַּשְׁתִּי.** אֲבָל מַה שֶּׁהִצְרַכְתִּי אוֹתָם לְפִדְיוֹן, הָיָה הַטַּעַם בִּשְׁבִיל שֶׁבְּיוֹם הַכּוֹתִי הִקְדַּשְׁתִּים לִי שֶׁלֹּא יִתְעַסְּקוּ בַּעֲבוֹדַת הֶדְיוֹט כְּלָל, כְּמוֹ שֶׁאָסַרְתִּי גִּזָּה וַעֲבוֹדָה בִּבְכוֹר בְּהֵמָה. וְזֶה עָשִׂיתִי כְּדֵי לְהַצִּילָם בְּתוֹרַת הַקֹּדֶשׁ, שֶׁלֹּא הָיוּ רְאוּיִים לְהִנָּצֵל מִנִּגְעֵי מִשְׁלַחַת מַלְאֲכֵי רָעִים (תהלים עח:מט), בִּהְיוֹת הֵם הַנִּכְבָּדִים בָּעָם וְקוֹלַר כֻּלָּם תָּלוּי בָּהֶם. וְאָמַרְתִּי שֶׁיִּפָּדוּ כְּדֵי שֶׁיֵּצְאוּ לְחֻלִּין, בָּזֶה שֶׁיִּהְיוּ מֻתָּרִים בַּעֲבוֹדַת הֶדְיוֹט.
+**בְּיוֹם הַכּוֹתִי כָל בְּכוֹר. הִקְדַּשְׁתִּי.** אֲבָל מַה שֶּׁהִצְרַכְתִּי אוֹתָם לְפִדְיוֹן, הָיָה הַטַּעַם בִּשְׁבִיל שֶׁבְּיוֹם הַכּוֹתִי הִקְדַּשְׁתִּים לִי שֶׁלֹּא יִתְעַסְּקוּ בַּעֲבוֹדַת הֶדְיוֹט כְּלָל, כְּמוֹ שֶׁאָסַרְתִּי גִּזָּה וַעֲבוֹדָה בִּבְכוֹר בְּהֵמָה. וְזֶה עָשִׂיתִי כְּדֵי לְהַצִּילָם בְּתוֹרַת הֶקְדֵּשׁ, שֶׁלֹּא הָיוּ רְאוּיִים לְהִנָּצֵל מִנִּגְעֵי מִשְׁלַחַת מַלְאֲכֵי רָעִים (תהלים עח:מט), בִּהְיוֹת הֵם הַנִּכְבָּדִים בָּעָם וְקוֹלַר כֻּלָּם תָּלוּי בָּהֶם. וְאָמַרְתִּי שֶׁיִּפָּדוּ כְּדֵי שֶׁיֵּצְאוּ לְחֻלִּין, בָּזֶה שֶׁיִּהְיוּ מֻתָּרִים בַּעֲבוֹדַת הֶדְיוֹט.
 
 
 ביום הכותי כל בכור בארץ מצרים הקדשתי, the reason why I required them now to undergo the procedure of being redeemed from their sanctity and the duties that were part of this that from the day I had sanctified them, was that they were not supposed to engage in mundane activities, such as earning a livelihood, at all.

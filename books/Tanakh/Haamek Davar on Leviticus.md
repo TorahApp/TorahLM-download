@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Sefer Torat Elohim, Vilna 1879 (Segments: 957, License: Public Domain)
 
-Version (En): Yalkut, Sifsei Chachomim Chumash, Metsudah Publications, 2009 (Segments: 61)
+Version (En): Introductions to Ha'amek Davar. Trans. by Elchanan Greenman, 2019 (Segments: 61)
 
 
 ## Introduction to Leviticus

@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Binyan Tziyon, Altona, 1868 (Segments: 714, License: Public Domain)
 
-Version (En): Sefaria Responsa Anthology (Segments: 27)
+Version (En): Sefaria Community Translation (Segments: 27)
 
 
 ## Teshuva 1

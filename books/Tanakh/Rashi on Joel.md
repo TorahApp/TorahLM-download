@@ -121,7 +121,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Joel/r/1:7:2](https://torahapp.org/share/book/Rashi%20on%20Joel/r/1:7:2)
 
 
-**חָשַׂף חֲשָׂפָהּ וְהִשְׁלִיךְ.** קִלּוּף קְלִפּוֹת הָעֵץ וְהִשְׁלִיכוֹ עַד הִלְבִּינוּ זְמוֹרוֹת הַגֶּפֶן:
+**חָשֹׂף חֲשָׂפָהּ וְהִשְׁלִיךְ.** קִלּוּף קְלִפּוֹת הָעֵץ וְהִשְׁלִיכוֹ עַד הִלְבִּינוּ זְמוֹרוֹת הַגֶּפֶן:
 
 
 **he has peeled it and cast it off**—He has peeled off the bark of the tree and cast it off until the branches of the vine have become white.
@@ -357,7 +357,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Joel/r/1:18:1](https://torahapp.org/share/book/Rashi%20on%20Joel/r/1:18:1)
 
 
-**נָבֻכוּ.** נִתְעַרְבְּלוּ וְנִסְגְּרוּ וְתָעוּ בַּיְּעָרִים וּבַמִּדְבָּרוֹת:
+**נָבֹכוּ.** נִתְעַרְבְּלוּ וְנִסְגְּרוּ וְתָעוּ בַּיְּעָרִים וּבַמִּדְבָּרוֹת:
 
 
 **herds of cattle are perplexed**—They are confounded. They are closed in and astray in the forests and in the wilderness.
@@ -594,7 +594,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Joel/r/2:10:1](https://torahapp.org/share/book/Rashi%20on%20Joel/r/2:10:1)
 
 
-**רָעֲשׁוּ שָׁמַיִם.** בִּשְׁבִיל פֻּרְעָנוּת הַבָּאָה עַל יִשְׂרָאֵל רוֹגְזִים וְרוֹעֲשִׁים:
+**רָעֲשׁוּ שָׁמָיִם.** בִּשְׁבִיל פֻּרְעָנוּת הַבָּאָה עַל יִשְׂרָאֵל רוֹגְזִים וְרוֹעֲשִׁים:
 
 
 **the heavens tremble**—Because of the retribution coming upon Israel, they quake and tremble.
@@ -1020,7 +1020,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Joel/r/4:8:1](https://torahapp.org/share/book/Rashi%20on%20Joel/r/4:8:1)
 
 
-**לַשְּׁבָאִים וְגוֹ׳.** לִבְנֵי שְׁבָא:
+**לִשְׁבָאיִם וְגוֹ׳.** לִבְנֵי שְׁבָא:
 
 
 **to the Shebaites**—To the children of Sheba.

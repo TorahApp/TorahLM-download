@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Mareh Yechezkel, Bene Brak, 2000 (Segments: 1688, License: unknown)
 
-Version (En): Rabbi Francis Nataf, 2021 (Segments: 36)
+Version (En): Sefaria Community Translation (Segments: 36)
 
 
 ## Bereshit

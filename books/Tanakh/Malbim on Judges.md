@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Wikisource (Segments: 590, License: Public Domain)
 
-Version (En): Sefaria Community Translation (Segments: 590)
+Version (En): Trans. Betzalel Avraham Feinstein, 2026 (Segments: 590)
 
 
 ## Chapter 1
@@ -33,8 +33,7 @@ Version (En): Sefaria Community Translation (Segments: 590)
 **(א-ג) למה לא שאלו זאת עד עתה מי העולה בתחלה? ולמה אמר לשמעון ולא לשבט אחר?**
 
 
-Malbim on Judges — **The Questions**
-**(1–3) Why had they not asked until now, “Who shall go up first?” And why did he say to Shimon rather than to another tribe?**
+Malbim on Judges — **The Questions** **(1–3) Why had they not asked until now, “Who shall go up first?” And why did he say to Shimon rather than to another tribe?**
 
 
 ###### Malbim on Judges 1:1:2
@@ -45,13 +44,7 @@ Malbim on Judges — **The Questions**
 **וישאלו.** בחיי יהושע לא הוצרכו לשאול באורים ותומים כי יהושע סדר הכל עפ"י דברי ה' וכמו שאמר חז"ל (עירובין דף סג עא) דכתיב ולפני אלעזר הכהן יעמד ולא מצאנו שנצרך לו יהושע, אבל במותו הוצרכו לשאול באורים ותומים. א) מי יעלה כי בחיי יהושע היה הוא המצביא את העם, עתה שאלו מי יעלה בתחלה, ב) תחלה כבשו כולם ביחד, ועתה הוצרך כל שבט לכבוש את חלקו, כמו שאמר (יהושע יג) אנכי אורישם רק הפילה בנחלה, לכן שאלו מי יכבוש בתחלה שאם לא יצליח הראשון יאמר הכנעני כי במות יהושע נשתה גבורתם. ומפני שבחלק כל שבט נשארו עמים שלא כבשו עוד יספר פה איך נלחמו עמהם.
 
 
-**And they asked.** During the lifetime of Joshua they did not need to inquire by means of the Urim and Tumim, for Joshua arranged everything according to the word of Hashem, as our Sages said (Eruvin 63a), as it is written, “And he shall stand before Eleazar the priest” — yet we do not find that Joshua needed it. But after his death they needed to inquire by means of the Urim and Tumim.
-
-(a) Who should go up? For during the lifetime of Joshua he was the one who commanded the people; now they asked who should go up first.
-
-(b) At first they conquered all together; now each tribe needed to conquer its own portion, as it says (Joshua 13), “I Myself will dispossess them; only cast it by lot for an inheritance.” Therefore they asked who should conquer first — for if the first were not successful, the Canaanite would say that with Joshua’s death their valor had weakened.
-
-And because in the portion of each tribe there remained nations that they had not yet conquered, he relates here how they fought against them.
+**And they asked.** During the lifetime of Joshua they did not need to inquire by means of the Urim and Tumim, for Joshua arranged everything according to the word of Hashem, as our Sages said (Eruvin 63a), as it is written, “And he shall stand before Eleazar the priest” — yet we do not find that Joshua needed it. But after his death they needed to inquire by means of the Urim and Tumim. (a) Who should go up? For during the lifetime of Joshua he was the one who commanded the people; now they asked who should go up first. (b) At first they conquered all together; now each tribe needed to conquer its own portion, as it says (Joshua 13), “I Myself will dispossess them; only cast it by lot for an inheritance.” Therefore they asked who should conquer first — for if the first were not successful, the Canaanite would say that with Joshua’s death their valor had weakened. And because in the portion of each tribe there remained nations that they had not yet conquered, he relates here how they fought against them.
 
 
 
@@ -105,8 +98,7 @@ And because in the portion of each tribe there remained nations that they had no
 **(ד) אחר שאמר שנתן ה' את הכנעני בידם ויכום בבזק איך אמר שוב שלחמו ושהכו את הכנעני?**
 
 
-**The Questions**
-**(4) After stating that Hashem delivered the Canaanite into their hand and they defeated them at Bezek, how can it then say again that they fought and struck the Canaanite?**
+**The Questions** **(4) After stating that Hashem delivered the Canaanite into their hand and they defeated them at Bezek, how can it then say again that they fought and struck the Canaanite?**
 
 
 ###### Malbim on Judges 1:4:2
@@ -119,7 +111,7 @@ And because in the portion of each tribe there remained nations that they had no
 
 **And they struck them at Bezek.** At first the camps went out with their commanders and arrayed themselves around Bezek, and there they struck ten thousand men. And when it says “at Bezek,” it means around Bezek, as in: “And it came to pass, when Joshua was by Jericho” (Joshua 5).
 
-(“Adoni-Bezek” the first time is accented on the last syllable [milra], and this indicates that the yod is not additional; rather, the yod strengthens the name, as is found in Scripture. But the second and third occurrences of “Adoni-Bezek” are accented on the penultimate syllable [mil‘el], which is a sign that the yod is additional — for by then he was no longer a lord.)
+ (“Adoni-Bezek” the first time is accented on the last syllable [milra], and this indicates that the yod is not additional; rather, the yod strengthens the name, as is found in Scripture. But the second and third occurrences of “Adoni-Bezek” are accented on the penultimate syllable [mil‘el], which is a sign that the yod is additional — for by then he was no longer a lord.)
 
 
 
@@ -198,8 +190,7 @@ And because in the portion of each tribe there remained nations that they had no
 **(ח-כב) שאל מהרי"א אם היה הכוונה לזכור כאן המלחמות שעשו בני יהודה אחרי מות יהושע מה ראה לזכור אחריו מלחמת חברון ודביר וענין עכסה וכבר נזכר לכידת חברון בספר יהושע ושם יחסה אל כלב?, ולמה זכר שנית ענין עכסה, ולמה חזר שנית שנתנו לכלב את חברון? במ"ש ואת היבוסי לא יכלו בני בנימין להורישם יקשה מג' פנים.**
 
 
-**The Questions**
-**(8–22) The Abarbanel asked: If the intention here was to recount the wars that the children of Judah waged after the death of Joshua, why did it see fit to mention afterward the war of Hebron and Debir and the matter of Achsah, when the capture of Hebron has already been recorded in the Book of Joshua, and there it is attributed to Caleb? And why is the matter of Achsah mentioned a second time? And why does it again state that Hebron was given to Caleb? With regard to what is written, “But the Jebusite the children of Benjamin could not dispossess,” this raises difficulty in three respects.**
+**The Questions** **(8–22) The Abarbanel asked: If the intention here was to recount the wars that the children of Judah waged after the death of Joshua, why did it see fit to mention afterward the war of Hebron and Debir and the matter of Achsah, when the capture of Hebron has already been recorded in the Book of Joshua, and there it is attributed to Caleb? And why is the matter of Achsah mentioned a second time? And why does it again state that Hebron was given to Caleb? With regard to what is written, “But the Jebusite the children of Benjamin could not dispossess,” this raises difficulty in three respects.**
 
 
 ###### Malbim on Judges 1:8:2
@@ -221,15 +212,7 @@ And because in the portion of each tribe there remained nations that they had no
 ולדעתי אחרי כי אדוני צדק מלך ירושלים היה הראשון מן חמשה המלכים שהתקבצו על גבעון ושם נפל (יהושע י') בודאי חשבו מחשבות ללכוד את עירו כמו שלכדו אז ערי החמשה מלכים, והלכו במצוא ידם להלחם, והיה הלוחם יהודה, כי ירושלים היתה בחלקו של בנימין ורצועה בתוכה היה ליהודה (כנ"ל טו) ומצד זה היה גם הוא נוגע בנחלתה, ואז בחיי יהושע לא יכלו להוריש יושביה שהיו יבוסים וישב בקרב יהודה עד היום זה רצה לומר עד סוף חיי יהושע שכתב ספרו. ואחרי מות יהושע התעוררו מלחמות ביניהם ובין יושבי העיר וילכדו אותה וישרפו העיר לענוש על שמרדו ולחמו בם. ועל כל זה הגם שכבשו העיר לא כבשו את המצודה שנקרא אח"כ בשם מצודת ציון שלא נלכדה עד ימי דוד ושם ישב ג"כ יבוסי כמו שאמר (ש"ב ה' ז-ח) ויהודה לא לחמו שם כי אינו מחלקם ובנימין לא התחילו להלחם שם כלל, ועל זה אמר לא הורישו בני בנימין רצה לומר לא לחמו כלל ושם ישב את בני בנימין עד היום הזה (שהוא עד סוף חיי שמואל שהוא כתב ספר שופטים), וזה קרוב לדברי מהרי"א,
 
 
-In my view, since Adoni-Zedek king of Jerusalem was the first of the five kings who gathered against Gibeon and there fell (Joshua 10), they surely devised plans to capture his city, just as they then captured the cities of the five kings. And they went, as opportunity allowed, to wage war — and Judah was the one who fought. For Jerusalem was in the portion of Benjamin, yet a strip within it belonged to Judah (as above in ch. 15); and from this perspective he too had a claim to its territory.
-
-Thus, during the lifetime of Joshua they were unable to dispossess its inhabitants, who were Jebusites, and they dwelled among Judah “until this day” — meaning until the end of Joshua’s lifetime, when he wrote his book.
-
-After the death of Joshua, wars arose between them and the inhabitants of the city; they captured it and burned the city in punishment for having rebelled and fought against them.
-
-Yet despite capturing the city, they did not capture the stronghold, which was later called the Fortress of Zion, and which was not taken until the days of David; and there too a Jebusite dwelled, as it says (II Samuel 5:7–8). Judah did not fight there, since it was not in their portion, and Benjamin did not begin to fight there at all. Concerning this it says, “The children of Benjamin did not dispossess” — meaning they did not fight at all — and he dwelled with the children of Benjamin “until this day” (that is, until the end of Samuel’s lifetime, who wrote the Book of Judges).
-
-And this is close to the view of the Abarbanel.
+In my view, since Adoni-Zedek king of Jerusalem was the first of the five kings who gathered against Gibeon and there fell (Joshua 10), they surely devised plans to capture his city, just as they then captured the cities of the five kings. And they went, as opportunity allowed, to wage war — and Judah was the one who fought. For Jerusalem was in the portion of Benjamin, yet a strip within it belonged to Judah (as above in ch. 15); and from this perspective he too had a claim to its territory. Thus, during the lifetime of Joshua they were unable to dispossess its inhabitants, who were Jebusites, and they dwelled among Judah “until this day” — meaning until the end of Joshua’s lifetime, when he wrote his book. After the death of Joshua, wars arose between them and the inhabitants of the city; they captured it and burned the city in punishment for having rebelled and fought against them. Yet despite capturing the city, they did not capture the stronghold, which was later called the Fortress of Zion, and which was not taken until the days of David; and there too a Jebusite dwelled, as it says (II Samuel 5:7–8). Judah did not fight there, since it was not in their portion, and Benjamin did not begin to fight there at all. Concerning this it says, “The children of Benjamin did not dispossess” — meaning they did not fight at all — and he dwelled with the children of Benjamin “until this day” (that is, until the end of Samuel’s lifetime, who wrote the Book of Judges). And this is close to the view of the Abarbanel.
 
 
 ###### Malbim on Judges 1:8:4
@@ -293,23 +276,7 @@ And this is close to the view of the Abarbanel.
 ודרשוהו ב תמורה (דף יז): ששלשת אלפים הלכות נשתכחו בימי אבלו של משה ועתניאל בן קנז החזירם מפלפולו, ושמה שאמר ארץ הנגב נתתני רצה לומר אדם מנוגב מכל טוב שאין בו אלא תורה, ושבני הקיני עזבו דושנה של יריחו שנתן להם יהושע והלכו אצל עתניאל בן קנז ללמוד תורה. חכמו השכילו לדעת, כי על השנות הדבר פעמים, כי כיון בפעם הזאת אל ענינים משליים משובצים בזהב המליצה, כי מצאנו שדביר נקראת קרית סנה (יהושע טו מג) ומזה הוציאו כי עיר הזאת נתיחדה אז לקרית ספר, רצה לומר ששם התאספו תלמידים להגות ולשנות בספר התורה והיה שם ישיבה גדולה, ונקראת ג"כ קרית סנה ע"ש רצון שוכני סנה, וע"ש שמשה קבל תורה מסיני, ושעתניאל היה ראש הישיבה, והוא הכה את קרית ספר, שההכאה תאמר בדברי חכמים על הנצוח בפלפול, כמו שאמר מלחמתה של תורה, ואמר כי תשב ללחום את מושל, חציך שנונים, וכדומה שדרשוהו על מלחמת התורה, וההכאה היא מי שנוצח המלחמה ומסיק הלכה, כמו שאמר ברכות (דף יח) על והוא ירד והכה את הארי בתוך הבור ביום השלג דתני ספרא דבי רב ביומא דסתוא, ועתניאל הוא נצח, אם מלחמת הכנעני בקרית ספר כפשוטה וזה נזכר בס' יהושע, אם הנצוח השני התוריי וזה נזכר פה, ויען ראתה עכסה כי נפל בחלקה ארץ הנגב משני ענינים, א) שהיתה הארץ נגובה צמאה למים וזה נזכר בס' יהושע, ב) שבעלה פנה לארץ הנגב, הרוצה להחכים ידרים, וזה כל ישעו וכל חפץ כי לא יצמיח מחיה לביתו, ועל זה אמר נתתני תחת נתת לי, שאני נעשיתי ארץ הנגב ע"י בעלי ולכן בקשה ברכה ושדה לפרנסה, ונתן לה גלות עליות וגלות תחתיות. א) להשקות את ארצה הנגובה, ב) רמז לה ג"כ כי כבר יש לך איש המושך מים חיים ממקור הברכה העליונה והתחתונה מחכמה האלהית והאנושית.
 
 
-And they expounded it in Temurah (17a): that three thousand laws were forgotten during the days of mourning for Moses, and Othniel son of Kenaz restored them through his dialectical reasoning. And when she said, “You have given me the land of the Negev,” it means a person dried of all material good, possessing nothing but Torah. And that the children of the Kenite left the luxuriance of Jericho, which Joshua had given them, and went to Othniel son of Kenaz to study Torah.
-
-They wisely understood that the repetition of the matter indicates that this time it alludes to allegorical themes set in golden rhetoric. For we find that Debir is called Kiriath-Sepher (Joshua 15:49), and from this they derived that this city was then designated as a “city of the book,” meaning that students gathered there to meditate upon and review the Book of the Torah, and there was a great academy there. It was also called Kiriath-Sannah, after “the will of the One who dwells in the bush,” and because Moses received the Torah from Sinai. And Othniel was the head of the academy.
-
-He “struck Kiriath-Sepher” — and in the language of the Sages, striking refers to victory in dialectical debate, as in “the war of Torah.” Thus it says, “When you sit to fight with a ruler,” “Your arrows are sharp,” and similar verses that are expounded concerning the war of Torah. And “striking” refers to one who wins the battle and establishes the halakhah, as it says in Berakhot (18b) regarding “And he went down and struck the lion in the pit on a snowy day,” which is expounded: “the school of Rav in the winter day.” Thus Othniel prevailed — whether in the literal war against the Canaanite at Kiriath-Sepher (as mentioned in Joshua), or in the second, Torah-based victory (as mentioned here).
-
-And since Achsah saw that the land of the Negev had fallen to her in two senses:
-
-(1) that the land itself was dry and thirsty for water — this is mentioned in Joshua;
-
-(2) that her husband had turned toward the Negev — for “one who wishes to become wise should go south” —
-
-and this was all his desire and delight, and it would not produce sustenance for his household, therefore she said, “You have given me” (using נתתני instead of נתת לי), meaning that I myself have become like the land of the Negev through my husband. Therefore she requested a blessing and a field for livelihood. And he gave her upper springs and lower springs:
-
-(1) to water her dry land;
-
-(2) and also as a hint that you already have a man who draws living waters from the source of blessing — both upper and lower — from divine wisdom and from human wisdom.
+And they expounded it in Temurah (17a): that three thousand laws were forgotten during the days of mourning for Moses, and Othniel son of Kenaz restored them through his dialectical reasoning. And when she said, “You have given me the land of the Negev,” it means a person dried of all material good, possessing nothing but Torah. And that the children of the Kenite left the luxuriance of Jericho, which Joshua had given them, and went to Othniel son of Kenaz to study Torah. They wisely understood that the repetition of the matter indicates that this time it alludes to allegorical themes set in golden rhetoric. For we find that Debir is called Kiriath-Sepher (Joshua 15:49), and from this they derived that this city was then designated as a “city of the book,” meaning that students gathered there to meditate upon and review the Book of the Torah, and there was a great academy there. It was also called Kiriath-Sannah, after “the will of the One who dwells in the bush,” and because Moses received the Torah from Sinai. And Othniel was the head of the academy. He “struck Kiriath-Sepher” — and in the language of the Sages, striking refers to victory in dialectical debate, as in “the war of Torah.” Thus it says, “When you sit to fight with a ruler,” “Your arrows are sharp,” and similar verses that are expounded concerning the war of Torah. And “striking” refers to one who wins the battle and establishes the halakhah, as it says in Berakhot (18b) regarding “And he went down and struck the lion in the pit on a snowy day,” which is expounded: “the school of Rav in the winter day.” Thus Othniel prevailed — whether in the literal war against the Canaanite at Kiriath-Sepher (as mentioned in Joshua), or in the second, Torah-based victory (as mentioned here). And since Achsah saw that the land of the Negev had fallen to her in two senses: (1) that the land itself was dry and thirsty for water — this is mentioned in Joshua; (2) that her husband had turned toward the Negev — for “one who wishes to become wise should go south” — and this was all his desire and delight, and it would not produce sustenance for his household, therefore she said, “You have given me” (using נתתני instead of נתת לי), meaning that I myself have become like the land of the Negev through my husband. Therefore she requested a blessing and a field for livelihood. And he gave her upper springs and lower springs: (1) to water her dry land; (2) and also as a hint that you already have a man who draws living waters from the source of blessing — both upper and lower — from Divine wisdom and from human wisdom.
 
 
 ###### Malbim on Judges 1:11:3
@@ -362,11 +329,7 @@ As our Sages said in the Midrash: “One to whom the secrets of the upper and th
 **ויהי.** עד עתה ספר כי יהודה שעלה אחרי מות יהושע להלחם כדבר ה' הצליח ויעש חיל וה' עמו, מעתה עד סוף הקאפיטל מתחיל לספר כי אח"ז לא עשו כמצות ה' ולא הורישו את יושבי הארץ הגם שראו שה' עמם, והוא הוצעה למ"ש בס' הבא שעלה מלאך ה' אל הבוכים להוכיחם על זאת. ומספר איך חטאו בזה כל שבט ושבט, ומתחיל מיהודה ואומר, הגם כי היה ה' את יהודה ויורש את ההר וממילא היה נקל לו לירד מן ההר אל העמק ולכבוש את יושבי העמק, וכמו שאמר (יהושע יז יח) כי הר יהיה לך כו' והיה לך תוצאותיו כי תוריש את העמק ולכבוש את יושבי העמק, וכמו שאמר (יהושע יז יח) כי הר יהיה לך כו' והיה לך תוצאותיו כי תוריש את העמק מבואר כי אחרי כיבוש ההר נקל מאד לכבוש את העמק, בכ"ז כי לא להוריש את יושבי העמק, רצה לומר לא כבש את ההר על הכוונה לכבוש אחריו את יושבי העמק, יען כי רכב ברזל להם התרפה ותתירא מללחום עמהם, כי גם כוונתם בכבישת ההר לא היה להוריש הכנעני מחלקם רק מצד, כי...
 
 
-**And it was.** Until now it has related that Judah, who went up after the death of Joshua to fight according to the word of Hashem, succeeded, acted valiantly, and that Hashem was with him. From this point until the end of the chapter it begins to recount that afterward they did not act according to the command of Hashem and did not dispossess the inhabitants of the land, even though they saw that Hashem was with them. This serves as the introduction to what is stated in the next chapter, that the angel of Hashem went up to Bochim to rebuke them for this.
-
-It then recounts how each tribe sinned in this matter, beginning with Judah. It says: although Hashem was with Judah and he dispossessed the hill country, it would therefore have been easy for him to descend from the mountain to the valley and conquer the inhabitants of the valley, as it says (Joshua 17:18), “For the mountain shall be yours… and its outgoings shall be yours, for you shall dispossess the valley.” It is thus clear that after conquering the hill country it would have been very easy to conquer the valley.
-
-Nevertheless, he did not dispossess the inhabitants of the valley; that is, he did not conquer the hill country with the intention of afterward conquering the inhabitants of the valley, because when he saw that they had iron chariots he became discouraged and was afraid to fight against them. For even their intention in conquering the hill country was not to dispossess the Canaanite entirely from their portion, but only because…
+**And it was.** Until now it has related that Judah, who went up after the death of Joshua to fight according to the word of Hashem, succeeded, acted valiantly, and that Hashem was with him. From this point until the end of the chapter it begins to recount that afterward they did not act according to the command of Hashem and did not dispossess the inhabitants of the land, even though they saw that Hashem was with them. This serves as the introduction to what is stated in the next chapter, that the angel of Hashem went up to Bochim to rebuke them for this. It then recounts how each tribe sinned in this matter, beginning with Judah. It says: although Hashem was with Judah and he dispossessed the hill country, it would therefore have been easy for him to descend from the mountain to the valley and conquer the inhabitants of the valley, as it says (Joshua 17:18), “For the mountain shall be yours… and its outgoings shall be yours, for you shall dispossess the valley.” It is thus clear that after conquering the hill country it would have been very easy to conquer the valley. Nevertheless, he did not dispossess the inhabitants of the valley; that is, he did not conquer the hill country with the intention of afterward conquering the inhabitants of the valley, because when he saw that they had iron chariots he became discouraged and was afraid to fight against them. For even their intention in conquering the hill country was not to dispossess the Canaanite entirely from their portion, but only because…
 
 
 
@@ -423,8 +386,7 @@ Nevertheless, he did not dispossess the inhabitants of the valley; that is, he d
 **(כג) לאיזה צורך ספר זאת? ודי שיאמר שכבשו עיר בית אל?**
 
 
-**The Questions**
-**(23) Why was it necessary to recount this? Would it not have been enough simply to state that they captured the city of Bethel?**
+**The Questions** **(23) Why was it necessary to recount this? Would it not have been enough simply to state that they captured the city of Bethel?**
 
 
 ###### Malbim on Judges 1:23:2
@@ -435,13 +397,7 @@ Nevertheless, he did not dispossess the inhabitants of the valley; that is, he d
 **ויתירו בית יוסף בבית אל.** המחנה לא קרבו עדיין אל בית אל עצמה רק שלחו לתור את הארץ סביב סביב (כי פועל תר נקשר תמיד עם מלת את, לתור את הארץ, לבד פה בא עם שימוש הב' כי לא תרו את בית אל עצמה רק בבית אל רצה לומר בגבול בית אל, ומבואר אצלנו שיש הבדל בין התר ובין המרגל שהמרגל יבקש ערות הארץ ומקום שנוח לכבשה, והתר מבקש הטוב (כמו לתור להם מנוחה) שדרשו בסביבות בית אל מקום הטוב לחניית המחנה, כי חשבו לצור ולעמוד סביב בית אל ימים רבים, (וגם אמרו ויתירו בבנין הפעיל ששלחו תרים לתור ולא תרו הם עצמם כפרש"י) ושם העיר רצה לומר שאינו בית אל שאצל העי שהיה לבנימין רק בית אל לוזה כנ"ל (יהושע טז ב').
 
 
-**And the house of Joseph spied out Bethel.** The camp had not yet approached Bethel itself; rather, they sent to scout the land round about. For the verb tur (“to scout”) is usually connected with the word et, as in “to scout the land,” but here it appears with the preposition b, because they did not scout Bethel itself but in Bethel, that is, in the region of Bethel.
-
-It is explained that there is a difference between a tar (scout) and a meragel (spy): the spy seeks the vulnerable points of the land and the place easiest to conquer, whereas the scout seeks what is good (as in “to scout out a resting place for them”). Thus they searched in the surroundings of Bethel for a suitable place for the camp to encamp, since they intended to lay siege and remain around Bethel for many days.
-
-(It also says vayaturu in the causative form, meaning that they sent scouts to scout and did not scout themselves, as Rashi explains.)
-
-And “the name of the city” means that this was not the Bethel near Ai that belonged to Benjamin, but Bethel-Luz, as explained above (Joshua 16:2).
+**And the house of Joseph spied out Bethel.** The camp had not yet approached Bethel itself; rather, they sent to scout the land round about. For the verb tur (“to scout”) is usually connected with the word et, as in “to scout the land,” but here it appears with the preposition b, because they did not scout Bethel itself but in Bethel, that is, in the region of Bethel. It is explained that there is a difference between a tar (scout) and a meragel (spy): the spy seeks the vulnerable points of the land and the place easiest to conquer, whereas the scout seeks what is good (as in “to scout out a resting place for them”). Thus they searched in the surroundings of Bethel for a suitable place for the camp to encamp, since they intended to lay siege and remain around Bethel for many days. (It also says vayaturu in the causative form, meaning that they sent scouts to scout and did not scout themselves, as Rashi explains.) And “the name of the city” means that this was not the Bethel near Ai that belonged to Benjamin, but Bethel-Luz, as explained above (Joshua 16:2).
 
 
 
@@ -480,9 +436,7 @@ And “the name of the city” means that this was not the Bethel near Ai that b
 **ויראם וכו' ויכו.** השומרים לבדם את העיר, ומזה היה להם לראות כי ה' עמם עד שאחד ירדוף אלף (ואת האיש, אמר זה אגב גררא, א) כי שמרו מה שהבטיחו שזה מהראוי והיושר, ב) בל יטעו כי לוז הזאת היא לוז אשר בארץ החתים).
 
 
-**And he showed them… and they struck.** The watchmen alone captured the city. From this they ought to have recognized that Hashem was with them — that one could chase a thousand.
-
-“And the man…” — this is added in passing: first, to indicate that they fulfilled their promise, which was upright and proper; and second, so that one should not mistakenly identify this Luz with the Luz located in the land of the Hittites.
+**And he showed them… and they struck.** The watchmen alone captured the city. From this they ought to have recognized that Hashem was with them — that one could chase a thousand. “And the man…” — this is added in passing: first, to indicate that they fulfilled their promise, which was upright and proper; and second, so that one should not mistakenly identify this Luz with the Luz located in the land of the Hittites.
 
 
 
@@ -497,8 +451,7 @@ And “the name of the city” means that this was not the Bethel near Ai that b
 **(כז) הלא כבר אמר זה בספר יהושע סי' י"ז:**
 
 
-**The Questions**
-**(27) Was this not already mentioned in the Book of Joshua (ch. 17)?**
+**The Questions** **(27) Was this not already mentioned in the Book of Joshua (ch. 17)?**
 
 
 ###### Malbim on Judges 1:27:2
@@ -595,9 +548,7 @@ And “the name of the city” means that this was not the Bethel near Ai that b
 
 **And the Amorite was determined.** He began moving upward from the valley into the hill country, settling in Mount Heres, as well as Aijalon and Shaalbim. The tribe of Dan by itself could not overcome them until the house of Joseph came to assist; then the power of the house of Joseph prevailed.
 
-
-
-Nevertheless, they merely imposed tribute. Even after witnessing open hostility, when they should have learned and utterly dispossessed them, they refrained from doing so. They were satisfied with extracting tribute and defining the Amorite’s border.
+ Nevertheless, they merely imposed tribute. Even after witnessing open hostility, when they should have learned and utterly dispossessed them, they refrained from doing so. They were satisfied with extracting tribute and defining the Amorite’s border.
 
 
 
@@ -629,8 +580,7 @@ Nevertheless, they merely imposed tribute. Even after witnessing open hostility,
 **(ב) למה בא אעלה אתכם עתיד במקום עבר?: (יא) למה חזר פה הספור ממיתת יהושע והזקנים שכבר נזכר בסוף יהודע?-מן פסוק יא עד סוף הקאפטיל באו דברים מכופלים ומיותרים ורובם אין להם שייכות לכאן כלל:**
 
 
-**The Questions**
-**(2) Why does the phrase “I will bring you up” appear in the future tense rather than in the past? (11) Why does it revert here to recount the death of Joshua and the elders, which has already been recorded at the end of the Book of Joshua? — From verse 11 until the end of the chapter there are duplications and apparent redundancies, most of which seem to bear no direct connection to this context.**
+**The Questions** **(2) Why does the phrase “I will bring you up” appear in the future tense rather than in the past? (11) Why does it revert here to recount the death of Joshua and the elders, which has already been recorded at the end of the Book of Joshua? — From verse 11 until the end of the chapter there are duplications and apparent redundancies, most of which seem to bear no direct connection to this context.**
 
 
 ###### Malbim on Judges 2:1:2
@@ -652,9 +602,7 @@ Nevertheless, they merely imposed tribute. Even after witnessing open hostility,
 **ויאמר אעלה אתכם.** תוכחה זו סובבת על ב' דברים: א) מצד הרע שיש בהמעשה עצמה ע"ד תיסרך רעתך, ב) מצד הנזק הנמשך ממנה, (על הא') אומר, הלא חשבתי אעלה וכו' רצה לומר, א) ההרמה מן השפלות היותר גדול מעני מצרים, ב) ההגעה אל המעלה היותר גבוה שהיא ואביא אתכם אל הארץ ואומר עי"כ אמרתי כי תכירו טובה זו עולמית מה שחויבתם לי בעבורה הודאה ועבודה, ועי"כ לא אפר בריתי אתכם לעולם רק בתנאי.
 
 
-**And He said, “I will bring you up.”** This rebuke revolves around two matters: (a) the evil inherent in the deed itself, as in “Your wickedness shall chastise you,” and (b) the harm that results from it.
-
-Regarding the first, He says: “Did I not say, ‘I will bring you up’?” — that is to say: (1) the elevation from the lowest degradation, the affliction of Egypt; (2) the bringing you to the highest exaltation, namely, “and I will bring you to the land.” And I said — meaning, through this I declared — that you should recognize this everlasting kindness, for which you were obligated to render Me gratitude and service. And on this basis, I said, “I will not annul My covenant with you forever” — but only on condition…
+**And He said, “I will bring you up.”** This rebuke revolves around two matters: (a) the evil inherent in the deed itself, as in “Your wickedness shall chastise you,” and (b) the harm that results from it. Regarding the first, He says: “Did I not say, ‘I will bring you up’?” — that is to say: (1) the elevation from the lowest degradation, the affliction of Egypt; (2) the bringing you to the highest exaltation, namely, “and I will bring you to the land.” And I said — meaning, through this I declared — that you should recognize this everlasting kindness, for which you were obligated to render Me gratitude and service. And on this basis, I said, “I will not annul My covenant with you forever” — but only on condition…
 
 
 
@@ -710,9 +658,7 @@ Regarding the first, He says: “Did I not say, ‘I will bring you up’?” �
 **וישלח.** כל הספור הקודם היה בעוד היו הזקנים שאריכו ימים אחרי יהושע, שבימיהם עדיין עבדו את ה', רק שהתרשלו בכבוש הארץ ובא מלאך והוכיחם ע"ז והם התחרטו ובכו וזבחו לה', עתה מתחיל לספר מה שהיה אחרי מות הזקנים, והקדים שתחלה שלח יהושע את העם לרשת הארץ כפי פקודת התורה והם החזיקו בעבודות ה'.
 
 
-**And he sent.** The entire previous narrative took place while the elders who outlived Joshua were still alive. During their days the people continued to serve Hashem, though they were negligent in completing the conquest of the land. The angel rebuked them, they regretted their actions, wept, and sacrificed to Hashem.
-
-Now the text turns to what happened after the elders died. It introduces this by recalling that Joshua had originally sent the people to take possession of the land in accordance with the Torah’s command, and that they remained faithful in divine service during his lifetime.
+**And he sent.** The entire previous narrative took place while the elders who outlived Joshua were still alive. During their days the people continued to serve Hashem, though they were negligent in completing the conquest of the land. The angel rebuked them, they regretted their actions, wept, and sacrificed to Hashem. Now the text turns to what happened after the elders died. It introduces this by recalling that Joshua had originally sent the people to take possession of the land in accordance with the Torah’s command, and that they remained faithful in Divine service during his lifetime.
 
 
 
@@ -751,9 +697,7 @@ Now the text turns to what happened after the elders died. It introduces this by
 **ויעשו.** חושב כי התמוטטו בשלשה מדרגות זה אחר זה: א) תחלה עשו את הרע בעיני ה' שחטאו נגד מצות התורה, ב) אחר כך הגיעו לקצה המרי עד שעבדו את הבעלים. ועתה ביאר כי במרי זה שעבדו ע"ז היה ג"כ שתי מדרגות, כי יש העובד ע"ז בשיתוף, ויש ששוכח אלהים עשהו בהחלט. ותחלה עבדו בשיתוף. וזה שאמר –
 
 
-**And they did.** He explains that they collapsed in three stages, one after another: (a) first, they did evil in the eyes of Hashem, meaning that they sinned against the commandments of the Torah; (b) afterward, they reached the extreme of rebellion, to the point that they served the Baals.
-
-He now clarifies that even within this rebellion of idolatry there were two stages: for there is one who serves idolatry in association (with God), and there is one who completely forgets the God who made him. At first they served in association. And this is what it says —
+**And they did.** He explains that they collapsed in three stages, one after another: (a) first, they did evil in the eyes of Hashem, meaning that they sinned against the commandments of the Torah; (b) afterward, they reached the extreme of rebellion, to the point that they served the Baals. He now clarifies that even within this rebellion of idolatry there were two stages: for there is one who serves idolatry in association (with God), and there is one who completely forgets the God who made him. At first they served in association. And this is what it says —
 
 
 
@@ -767,13 +711,7 @@ He now clarifies that even within this rebellion of idolatry there were two stag
 **ויעזבו את ה' אלהי אבותם.** (יש הבדל אצלי בכ"מ בין כשמזכיר שם ה' סתם שאז ידבר עליו מצד היותו בורא העולם ומחדשו ובין כשיזכיר שם אלהים בכינוי (כמו אלהי ישראל אלהי אבותם) שאז ידבר עליו מצד הקשר שיש לו עם ישראל ועם אבותיהם שבחרם לחלקו והשגיח עליהם בהשגחה מופלאת) ומצד זה אסור להם לעבוד בשיתוף כי אינם נתונים תחת שום שר וכוכב רק תחת השגחת ה', כמו שאמר אשר חלק ה' לכל העמים ואתכם לקח ה', ובעת יעבדו בשיתוף הגם שאינם עוזבים את ה' מצד עצמו, כי עדיין מאמינים שהוא בורא העולם ומחדשו, בכ"ז עוזבים את ה' אלהי ישראל או את ה' אלהי אבותם, רצה לומר שעוזבים אותו מצד שהוא אלהי ישראל ואלהי אבותם שעי"כ הם תחת פקודת השגחתו ואין אתו אל נכר, וזה שאמר ויעזבו תחלה עזבו את ה' אלהי אבותם רצה לומר שהתחילו לעבוד בשיתוף ועזבו אלהי אבותם המוציא אותם מארץ מצרים שמאז השלם בהשגחה מיוחדת ויחדם לחלקו, וילכו אחרי אלהים אחרים ובזה הכעיסו את ה' במה ששתפו שם שמים ודבר אחר. ואחר כך התמוטטו יותר וירדו פלאים.
 
 
-**And they forsook Hashem, the God of their fathers.** (In my view, throughout Scripture there is a distinction between when the name “Hashem” is mentioned alone — in which case it speaks of Him as Creator of the world and its continual renewer — and when the name “God” is mentioned with a possessive qualifier, such as “the God of Israel” or “the God of their fathers” — in which case it speaks of Him in terms of the relationship He has with Israel and their fathers, whom He chose as His portion and over whom He exercised special providence.)
-
-For this reason, they were forbidden to serve [other powers] in association, since they are not placed under any ministering power or star, but only under the providence of Hashem — as it says, “whom Hashem allotted to all the nations… but you Hashem has taken.” When they served in association, although they did not forsake Hashem in His essential aspect — for they still believed that He is the Creator and Renewer of the world — nevertheless they forsook Hashem as the God of Israel or as the God of their fathers; that is, they abandoned Him insofar as He is the God of Israel and of their fathers, by virtue of which they are under His direct providential governance and have no foreign god with Him.
-
-Thus it says, “And they forsook” — first they forsook “Hashem, the God of their fathers,” meaning that they began to serve in association and thereby abandoned the God of their fathers who brought them out of the land of Egypt, who from then onward exercised special providence over them and designated them as His portion. “And they went after other gods” — and by this they provoked Hashem, in that they joined the Name of Heaven with something else.
-
-Afterward, they collapsed even further and descended terribly.
+**And they forsook Hashem, the God of their fathers.** (In my view, throughout Scripture there is a distinction between when the name “Hashem” is mentioned alone — in which case it speaks of Him as Creator of the world and its continual renewer — and when the name “God” is mentioned with a possessive qualifier, such as “the God of Israel” or “the God of their fathers” — in which case it speaks of Him in terms of the relationship He has with Israel and their fathers, whom He chose as His portion and over whom He exercised special Providence.) For this reason, they were forbidden to serve [other powers] in association, since they are not placed under any ministering power or star, but only under the Providence of Hashem — as it says, “whom Hashem allotted to all the nations… but you Hashem has taken.” When they served in association, although they did not forsake Hashem in His essential aspect — for they still believed that He is the Creator and Renewer of the world — nevertheless they forsook Hashem as the God of Israel or as the God of their fathers; that is, they abandoned Him insofar as He is the God of Israel and of their fathers, by virtue of which they are under His direct providential governance and have no foreign god with Him. Thus it says, “And they forsook” — first they forsook “Hashem, the God of their fathers,” meaning that they began to serve in association and thereby abandoned the God of their fathers who brought them out of the land of Egypt, who from then onward exercised special Providence over them and designated them as His portion. “And they went after other gods” — and by this they provoked Hashem, in that they joined the Name of Heaven with something else. Afterward, they collapsed even further and descended terribly.
 
 
 
@@ -812,7 +750,7 @@ Afterward, they collapsed even further and descended terribly.
 ב) אח"כ וימכרם ביד אויביהם מסביב, שהיו אויבים להם עצמם באשר הם שכניהם הרעים, ופירוש וימכרם שמסרם בידם שע"י שסלק השגחתו מאתם סר צלם מעליהם ונעזבו ביד הטבע והמקרה, ולא יכלו עוד לעמד לפני אויביהם שהיו חזקים מהם בטבע.
 
 
-(b) Then, “He sold them into the hands of their surrounding enemies,” that is, enemies who opposed them simply as hostile neighbors. “He sold them” means that He handed them over — for once He removed His special providence, their protective covering was gone, and they were abandoned to the forces of nature and circumstance. Consequently, they could no longer withstand enemies who were stronger by natural means.
+(b) Then, “He sold them into the hands of their surrounding enemies,” that is, enemies who opposed them simply as hostile neighbors. “He sold them” means that He handed them over — for once He removed His special Providence, their protective covering was gone, and they were abandoned to the forces of nature and circumstance. Consequently, they could no longer withstand enemies who were stronger by natural means.
 
 
 ###### Malbim on Judges 2:14:3
@@ -823,7 +761,7 @@ Afterward, they collapsed even further and descended terribly.
 ג) ואח"כ הוסיף להענישם בפועל לא ע"י סילוק השגחתו לבד, עד כי –
 
 
-(c) And afterward He further punished them actively, not merely by withdrawing His providence, until…
+(c) And afterward He further punished them actively, not merely by withdrawing His Providence, until…
 
 
 
@@ -837,11 +775,7 @@ Afterward, they collapsed even further and descended terribly.
 **בכל אשר יצאו יד ה' היתה בם לרעה.** רצה לומר כי תחלה שהיה רק הסתרת פנים לא היתה הרעה ע"י יד ה', רק באה בטבע מעצמה ועתה הענישם בפועל ובמכת ידו, ותחלה שהיה רק הסתרת פנים יצויר שלפעמים יצליחו גם הם בדרך הטבע נגד אויב שחלש בטבע, ועתה שהענישם בפועל כפיו, הנה בכל אשר יצאו הגם שהיה ראוי שיצלחו בדרך הטבע יד ה' היתה בם לבל יצלחו כאשר דבר כו' להם שבעת יעבדו ע"ז יענישם בפועל, וכן התמיד להרע להם עד שהצר להם מאד והכירו את אשר הרעו והתחילו לשוב.
 
 
-**Wherever they went out, the hand of Hashem was against them for harm.** That is to say, at first, when there was only concealment of the Divine countenance, the harm did not come by the hand of Hashem, but arose naturally on its own. Now, however, He punished them actively and by His own hand. 
-
-Previously, when it was merely concealment of the Divine presence, it was conceivable that at times they might still succeed by natural means against an enemy weaker by nature. But now, when He punished them actively with His hand, then wherever they went out — even when, according to natural circumstances, they ought to have prevailed — the hand of Hashem was against them so that they would not succeed, as He had spoken to them, that when they served idolatry He would punish them directly. 
-
-And thus He continued to deal harshly with them until they were greatly distressed, recognized the evil they had done, and began to return.
+**Wherever they went out, the hand of Hashem was against them for harm.** That is to say, at first, when there was only concealment of the Divine countenance, the harm did not come by the hand of Hashem, but arose naturally on its own. Now, however, He punished them actively and by His own hand. Previously, when it was merely concealment of the Divine presence, it was conceivable that at times they might still succeed by natural means against an enemy weaker by nature. But now, when He punished them actively with His hand, then wherever they went out — even when, according to natural circumstances, they ought to have prevailed — the hand of Hashem was against them so that they would not succeed, as He had spoken to them, that when they served idolatry He would punish them directly. And thus He continued to deal harshly with them until they were greatly distressed, recognized the evil they had done, and began to return.
 
 
 
@@ -855,13 +789,7 @@ And thus He continued to deal harshly with them until they were greatly distress
 **ויקם.** כבר כתבתי שמאמר זה בכללו מן פסוק יו"ד עד סוף הסימן היא כעין הוצעה כוללת לכל הספר, שספר ענין ישראל כל ימות השופטים עד שמואל הנביא כותב הספר, שבמשך הזמן ההוא נמשך חטאם בא' מג' מדרגות הנ"ל, ועונשם באחד מג' מיני עונשים הנ"ל, ועתה יספר איך היה ענין השופטים שקמו בכל דור להושיע לישראל, תחלה אמר דרך כלל ויקם ה' שפטים ויושיעום שתמיד עת צר להם הקים להם שופטים וכן השופטים שהיו להם הושיעום מיד שוסיהם, בזה הושוו כל השופטים שהגיע לישראל תשועה על ידם. אבל היה הבדל במשך זמן התשועה שמצאנו שופטים שהיה להם תשועה כל ימי חיי השופט, כמו עתניאל ודבורה ודומיהם, ומצאנו שופטים שעוד בחיי השופט חזרו האויבים לשלוט בהם, כמו אהוד ושמשון ודומיהם, ומבאר שזה היה תלוי לפי הדור שאם שמעו לקול השופט כל ימי חייו, ואז נושעו כל ימי חיי השופט עד מותו שחזרו לרשעתם, ולפעמים מרו וסרו מהר בעוד השופט חי, ושלט עליהם אויב בחיי השופט. וזה שאמר –
 
 
-**And He raised up.** I have already written that this entire passage, from verse 10 until the end of the chapter, serves as a general introduction to the entire book. It recounts the condition of Israel throughout all the days of the Judges, until Samuel the prophet, who wrote the book. During that period their sin persisted in one of the three stages mentioned above, and their punishment likewise in one of the three kinds of punishments described above.
-
-Now it relates how the Judges arose in each generation to deliver Israel. First, it states in general terms: “And Hashem raised up judges, and they saved them” — meaning that whenever they were in distress, He raised up judges for them; and those judges who arose delivered them from the hand of their plunderers. In this respect, all the judges were alike: Israel attained deliverance through them.
-
-However, there was a difference in the duration of the deliverance. We find judges whose deliverance lasted throughout the entire lifetime of the judge, such as Othniel, Deborah, and others. And we find judges during whose lifetime the enemies returned to dominate, such as Ehud, Samson, and others.
-
-He explains that this depended upon the generation: if they listened to the voice of the judge throughout his lifetime, then they were delivered for all the days of the judge’s life, and only after his death did they return to wickedness. But at times they rebelled and quickly turned aside even while the judge was still alive, and the enemy ruled over them during the judge’s lifetime. And this is what it says —
+**And He raised up.** I have already written that this entire passage, from verse 10 until the end of the chapter, serves as a general introduction to the entire book. It recounts the condition of Israel throughout all the days of the Judges, until Samuel the prophet, who wrote the book. During that period their sin persisted in one of the three stages mentioned above, and their punishment likewise in one of the three kinds of punishments described above. Now it relates how the Judges arose in each generation to deliver Israel. First, it states in general terms: “And Hashem raised up judges, and they saved them” — meaning that whenever they were in distress, He raised up judges for them; and those judges who arose delivered them from the hand of their plunderers. In this respect, all the judges were alike: Israel attained deliverance through them. However, there was a difference in the duration of the deliverance. We find judges whose deliverance lasted throughout the entire lifetime of the judge, such as Othniel, Deborah, and others. And we find judges during whose lifetime the enemies returned to dominate, such as Ehud, Samson, and others. He explains that this depended upon the generation: if they listened to the voice of the judge throughout his lifetime, then they were delivered for all the days of the judge’s life, and only after his death did they return to wickedness. But at times they rebelled and quickly turned aside even while the judge was still alive, and the enemy ruled over them during the judge’s lifetime. And this is what it says —
 
 
 
@@ -900,9 +828,7 @@ He explains that this depended upon the generation: if they listened to the voic
 **וכי.** רצה לומר ולפעמים הקים כו' שופטים והיה ה' כו' והושיעם כו' כל ימי חיי השופט, וגם זה היה לפי מעשה הדור כי ינחם ה' מנאקתם מפני לוחציהם. כי עמדו בצדקם כל ימי השופט וצעקו אל ה' ונחם אל הרעה כל ימי השופט, ומ"ש לוחציהם ודוחקיהם, הלוחץ נגשו במס ועבדות, והדוחק בא במקומו וצר לו המקום כמו שאמר ואיש אחיו לא ידחקון (יואל ב'), אבל בכ"ז.
 
 
-**And when.** That is to say, at times He raised up judges, and Hashem was with the judge, and he delivered them all the days of the judge’s life. And this too depended upon the conduct of the generation, for Hashem relented because of their groaning from those who oppressed them.
-
-For they stood in their righteousness throughout the days of the judge and cried out to Hashem, and He relented from the harm during all the days of the judge. And regarding the phrase “their oppressors and their crushers”: the oppressor presses them with tribute and servitude, while the crusher crowds them, constricting their space, as it says, “and one shall not press another” (Joel 2). Yet even so…
+**And when.** That is to say, at times He raised up judges, and Hashem was with the judge, and he delivered them all the days of the judge’s life. And this too depended upon the conduct of the generation, for Hashem relented because of their groaning from those who oppressed them. For they stood in their righteousness throughout the days of the judge and cried out to Hashem, and He relented from the harm during all the days of the judge. And regarding the phrase “their oppressors and their crushers”: the oppressor presses them with tribute and servitude, while the crusher crowds them, constricting their space, as it says, “and one shall not press another” (Joel 2). Yet even so…
 
 
 
@@ -930,9 +856,7 @@ For they stood in their righteousness throughout the days of the judge and cried
 **ויחר.** אחר שהקדים ההקדמה הזאת מן פסוק יא עד הנה שב למה שסיים בפסוק י' ויקם דור אחר אחריהם אשר לא ידעו את ה' וכו', ולכן ויחר אף ה' בישראל, שאחר שראה ה' שהתמוטטו מאמונתם חרה אפו על הדורות ההם ויאמר יען אשר עברו את בריתי (ולא שמעו לקולי, ולמעלה (ב) ולא שמעתם בקולי, שמיעה בקול הוא קבלת הפקודה או הדברים מצד עצמם, ושמיעה לקול הוא שישמע הטענה והראיה מצד השכל, כמו ושמע לקול יריבי (ירמיה יח) הקשיבו לקול שופר (שם ו') רצה לומר טענות שלהם, ועדות השופר, שמורה פורעניות, ומוסיף שלא שמו הלב לשמוע מצד הטענה והמופת).
 
 
-**And the anger burned.** After presenting this introduction from verse 11 until here, he returns to what he concluded in verse 10: “And another generation arose after them who did not know Hashem,” etc. Therefore, the anger of Hashem burned against Israel. For when Hashem saw that they had collapsed from their faith, His anger burned against those generations, and He said: “Because they have transgressed My covenant (and have not listened to My voice…).”
-
-Above (v. 2) it says, “you have not listened to My voice.” There is a distinction between “listening to the voice” and “listening in the voice”: listening “to the voice” means accepting the command or words in themselves, whereas listening “in the voice” refers to heeding the argument and reasoning through intellectual consideration — as in “Hear the voice of my adversaries” (Jeremiah 18), “Listen to the sound of the shofar” (Jeremiah 6), meaning their arguments and the testimony of the shofar that signals impending calamity. And it adds that they did not set their heart to listen on the basis of argument and proof.
+**And the anger burned.** After presenting this introduction from verse 11 until here, he returns to what he concluded in verse 10: “And another generation arose after them who did not know Hashem,” etc. Therefore, the anger of Hashem burned against Israel. For when Hashem saw that they had collapsed from their faith, His anger burned against those generations, and He said: “Because they have transgressed My covenant (and have not listened to My voice…).” Above (v. 2) it says, “you have not listened to My voice.” There is a distinction between “listening to the voice” and “listening in the voice”: listening “to the voice” means accepting the command or words in themselves, whereas listening “in the voice” refers to heeding the argument and reasoning through intellectual consideration — as in “Hear the voice of my adversaries” (Jeremiah 18), “Listen to the sound of the shofar” (Jeremiah 6), meaning their arguments and the testimony of the shofar that signals impending calamity. And it adds that they did not set their heart to listen on the basis of argument and proof.
 
 
 
@@ -957,7 +881,7 @@ Above (v. 2) it says, “you have not listened to My voice.” There is a distin
 **אשר עזב יהושע.** הוא מאמר מוסגר רצה לומר מה שיהושע עזבם ולא הורישם בחייו כבר היה סבה מאת ה', והוא –
 
 
-**Which Joshua left.** This is a parenthetical statement — meaning that what Joshua left and did not dispossess during his lifetime was already by divine design, and it was…
+**Which Joshua left.** This is a parenthetical statement — meaning that what Joshua left and did not dispossess during his lifetime was already by Divine design, and it was…
 
 
 
@@ -1128,9 +1052,7 @@ Above (v. 2) it says, “you have not listened to My voice.” There is a distin
 **ויוסיפו לעשות הרע.** וכמש"ש והיה במות השופט ישובו והשחיתו, ויחזק ה' את עגלון כו' על כי עשו את הרע רצה לומר שעגלון היה חלוש מצד עצמו, ובדרך הטבע היו הם מתגברים עליו רק ע"י שעשו הרע חזקו ה' עד שנצח אותם ע"י השגחת ה', וכמו שאמר שם טו בכל אשר יצאו יד ה' היתה בם לרעה. וגם ע"י שעשו הרע נתחזק כי בזה הסית את שכניהם להתעולל בם, באמרו אלהים עזבם ולא יצא עוד בצבאותם כי מרו בו. ושעל ידי זה...
 
 
-**And they again did evil.** As was stated there: “And when the judge died, they returned and corrupted themselves.” “And Hashem strengthened Eglon…” — because they did evil; that is to say, Eglon was weak in himself, and according to natural circumstances they would have prevailed over him. But because they did evil, Hashem strengthened him until he defeated them through divine providence, as it says there (2:15), “Wherever they went out, the hand of Hashem was against them for harm.”
-
-And also, by doing evil they caused him to be strengthened, for by this he incited their neighbors to mistreat them, saying: “Their God has forsaken them and no longer goes out with their armies, for they have rebelled against Him.” And through this…
+**And they again did evil.** As was stated there: “And when the judge died, they returned and corrupted themselves.” “And Hashem strengthened Eglon…” — because they did evil; that is to say, Eglon was weak in himself, and according to natural circumstances they would have prevailed over him. But because they did evil, Hashem strengthened him until he defeated them through Divine Providence, as it says there (2:15), “Wherever they went out, the hand of Hashem was against them for harm.” And also, by doing evil they caused him to be strengthened, for by this he incited their neighbors to mistreat them, saying: “Their God has forsaken them and no longer goes out with their armies, for they have rebelled against Him.” And through this…
 
 
 
@@ -1144,13 +1066,7 @@ And also, by doing evil they caused him to be strengthened, for by this he incit
 **ויזעקו וכו' ויקם להם מושיע.** כמו שאמר בהקדמה (למעלה ב' יז) והנה עתניאל שפטם גם בעניני הדת לכן כתוב ומושיע לב"י ויושיעם, ואהוד רק הצילם מצר לכן כתוב להם מושיע, כי לא צלחה עליו רוח ה' כעל עתניאל רק ע"י שהיה אטר יד וכו' רצה לומר: א) ע"י שהיה אטר היה יכול להסתיר החרב בצד ימין ולא הרגישו בו כי אין דרך לאחוז החרב בצד ימין, ב) מצד ששלחו בידו מנחה מצא מקום לבא אל המלך, ומפרש ע"י שהיה אטר.
 
 
-**And they cried out… and He raised up for them a deliverer.** As was stated in the introduction (above 2:17). And behold, Othniel judged them also in matters of religion; therefore it says, “a deliverer for the children of Israel, and he delivered them.” But Ehud only saved them from distress; therefore it says, “for them a deliverer,” for the Spirit of Hashem did not come upon him as it did upon Othniel. Rather, it was through his being left-handed, etc. — that is to say:
-
-(a) Because he was left-handed, he was able to conceal the sword on his right side, and they did not detect it, since it is not customary to grasp a sword on the right side in that manner.
-
-(b) And because they sent tribute by his hand, he found opportunity to approach the king.
-
-And it explains that this was by virtue of his being left-handed.
+**And they cried out… and He raised up for them a deliverer.** As was stated in the introduction (above 2:17). And behold, Othniel judged them also in matters of religion; therefore it says, “a deliverer for the children of Israel, and he delivered them.” But Ehud only saved them from distress; therefore it says, “for them a deliverer,” for the Spirit of Hashem did not come upon him as it did upon Othniel. Rather, it was through his being left-handed, etc. — that is to say: (a) Because he was left-handed, he was able to conceal the sword on his right side, and they did not detect it, since it is not customary to grasp a sword on the right side in that manner. (b) And because they sent tribute by his hand, he found opportunity to approach the king. And it explains that this was by virtue of his being left-handed.
 
 
 
@@ -1334,9 +1250,7 @@ And thus it is taught in the Mishnah: “Anyone who ‘covers his feet’ must i
 **ויחילו עד בוש.** יש הבדל בין מתמהמה, בושש, אחר, התמהמה הוא הפך החש, שהוא בלתי ממהר וזריז רק מתעכב, והבושש הוא אם מתעכב יותר מן הראוי, והמאחר הוא המאחר זמן קבוע ובוש מנחי העי"ן משתתף עם בושש מן הכפולים, והנה תחלה המתינו עד התמהמהם, כי חשבו שמסיך את רגליו ודרך להתמהמה ולהתעכב, אבל אח"כ שהחלו עד בושש יותר משיעור הראוי ואז פתחו במפתח. אבל...
 
 
-**And they waited until they were ashamed.** There is a distinction between the terms “lingering” (mithmahmeah), “delaying” (boshesh), and “being late” (achar). “Lingering” is the opposite of haste — one is not quick and eager, but delays. “Delaying” refers to tarrying longer than is appropriate. “Being late” refers to arriving after an established time. And “bosh,” from the hollow verbs, is related to “boshesh,” from the doubled verbs.
-
-At first they waited during his lingering, for they thought that he was covering his feet, and it is customary to linger and delay. But afterward, when he delayed beyond the proper measure, they became ashamed — and then they opened the door with a key. But…
+**And they waited until they were ashamed.** There is a distinction between the terms “lingering” (mithmahmeah), “delaying” (boshesh), and “being late” (achar). “Lingering” is the opposite of haste — one is not quick and eager, but delays. “Delaying” refers to tarrying longer than is appropriate. “Being late” refers to arriving after an established time. And “bosh,” from the hollow verbs, is related to “boshesh,” from the doubled verbs. At first they waited during his lingering, for they thought that he was covering his feet, and it is customary to linger and delay. But afterward, when he delayed beyond the proper measure, they became ashamed — and then they opened the door with a key. But…
 
 
 
@@ -1515,7 +1429,7 @@ Concerning this, the Sages offered a parable: As the palm tree has only one core
 **ותשלח.** אחר ההכנה הזאת מזכות השופט והדור, ותאמר אליו: א) שידע שדבריה דברי נבואה, וזה שאמר הלא צוה ה', ב) צווי ה' היה שימשוך אליו אנשים להר תבור, ושיהיה מספרם עשרת אלפים, ושיהיו משבט זבולון ונפתלי, וחז"ל נתנו טעמים למה נבחרו אז ב' שבעים אלה.
 
 
-**And she sent.** Following these preparations — through the merit of the leader and the generation — she addressed him: first, to make clear that her words were prophetic, as indicated by the phrase, “Has not Hashem commanded?” Second, the divine directive was that he gather men to Mount Tabor, numbering ten thousand, specifically from the tribes of Zebulun and Naphtali. The Sages have offered explanations for the selection of these two tribes at that moment.
+**And she sent.** Following these preparations — through the merit of the leader and the generation — she addressed him: first, to make clear that her words were prophetic, as indicated by the phrase, “Has not Hashem commanded?” Second, the Divine directive was that he gather men to Mount Tabor, numbering ten thousand, specifically from the tribes of Zebulun and Naphtali. The Sages have offered explanations for the selection of these two tribes at that moment.
 
 
 
@@ -1529,7 +1443,7 @@ Concerning this, the Sages offered a parable: As the palm tree has only one core
 ואז **ומשכתי אליך** בהשגחת ה' ימשוך כל מחנהו אל נחל קישון, ושם ונתתיהו בידך בדרך נס.
 
 
-And then **“I will draw toward you”** — through Hashem’s providence, He will draw Sisera and all his forces to the Kishon River, and there He will deliver him into your hand through miraculous intervention.
+And then **“I will draw toward you”** — through Hashem’s Providence, He will draw Sisera and all his forces to the Kishon River, and there He will deliver him into your hand through miraculous intervention.
 
 
 
@@ -1544,8 +1458,7 @@ And then **“I will draw toward you”** — through Hashem’s providence, He 
 **(ח) איך אמר אם לא תלכי לא אלך אחר שדברה אליו בשם ה' והממרה פי נביא חייב מיתה, ומז"ש כי לא תהיה תפארתך וכו'?**
 
 
-**The Questions**
-**(8) How was it possible for him to say, “If you will not go with me, I will not go,” once she had spoken to him in the name of Hashem — since one who rebels against a prophet’s command is deserving of death? And what is the meaning of, “For the honor shall not be yours,” etc.?**
+**The Questions** **(8) How was it possible for him to say, “If you will not go with me, I will not go,” once she had spoken to him in the name of Hashem — since one who rebels against a prophet’s command is deserving of death? And what is the meaning of, “For the honor shall not be yours,” etc.?**
 
 
 ###### Malbim on Judges 4:8:2
@@ -1556,9 +1469,7 @@ And then **“I will draw toward you”** — through Hashem’s providence, He 
 **ויאמר אליה ברק אם תלכי עמי.** לא שהסתפק בנבואתה, ולא שהמרה את פיה שהממרה פי נביא חייב מיתה, רק אחר שהיה הציווי שימשוך אליו עשרת אלפים איש אמר שאם לא תלך עמו לא יאמינו לו העם ולמה ילך בחנם. ב) אחר שהודיעה לו שיפול בנס, חשב כי זכותו אינו מספיק לנס כזה רק אם תלך שאז יהיה הנס בזכותה,
 
 
-**And Barak said to her, “If you go with me.”** This was not out of doubt in her prophecy, nor rebellion against her command — for one who rebels against a prophet is deserving of death. Rather, since he was commanded to gather ten thousand men, he reasoned that if she did not accompany him, the people would not trust his word, and he would go for nothing.
-
-Moreover, because she had told him the victory would be miraculous, he assumed that his merit alone was not sufficient to warrant such a miracle; only if she went with him would the miracle occur through her merit.
+**And Barak said to her, “If you go with me.”** This was not out of doubt in her prophecy, nor rebellion against her command — for one who rebels against a prophet is deserving of death. Rather, since he was commanded to gather ten thousand men, he reasoned that if she did not accompany him, the people would not trust his word, and he would go for nothing. Moreover, because she had told him the victory would be miraculous, he assumed that his merit alone was not sufficient to warrant such a miracle; only if she went with him would the miracle occur through her merit.
 
 
 ###### Malbim on Judges 4:8:3
@@ -1703,9 +1614,7 @@ This is reflected in the Midrash: Rabbi Yehudah and Rabbi Nehemiah offer two int
 **וסיסרא.** הנה מהרי"א שאל פה, איך עשתה יעל כדבר הרע הזה להרוג את סיסרא אחר ששלום בינו ובין בית בעלה ובא לביתה וזה נגד חוקי המדינות?! ואני אומר כפי שיטתו, הנה השלום שבין יבין ובית חבר הי' שלום כולל עם בני קיני השוכנים במדבר יהודה שעל זה אמר ובין בית חבר הקיני. ועתה שנפרד חבר מאת אחיו ונטה אהלו בין ב"י, אין עליו חיוב הברית של בני קיני, כי נפרד מהם.
 
 
-**And Sisera.** Abarbanel questions how Jael could have performed such a deed — killing Sisera after there was peace between him and her husband’s household, and after he had entered her tent — seemingly in violation of accepted norms.
-
-I respond, following his reasoning: the peace between Jabin and the house of Heber was part of a broader covenant with the Kenites who dwelled in the wilderness of Judah, as the verse states. But once Heber separated from his kinsmen and settled among Israel, the covenant of the Kenites no longer bound him, since he had withdrawn from that collective.
+**And Sisera.** Abarbanel questions how Jael could have performed such a deed — killing Sisera after there was peace between him and her husband’s household, and after he had entered her tent — seemingly in violation of accepted norms. I respond, following his reasoning: the peace between Jabin and the house of Heber was part of a broader covenant with the Kenites who dwelled in the wilderness of Judah, as the verse states. But once Heber separated from his kinsmen and settled among Israel, the covenant of the Kenites no longer bound him, since he had withdrawn from that collective.
 
 
 ###### Malbim on Judges 4:17:2
@@ -1744,7 +1653,7 @@ A second explanation, according to Abarbanel, is that Sisera fled into Jael’s 
 **ותתקע.** רצה לומר היא לקחה את המקבת ביד האחד ואת היתד ביד השני, אבל כי לא היה לה כח להלום במקבת על היתד, היה מעזר ה' שהיתד צנח בארץ מעצמו ע"י כובדו, ובקע ועבר, וע"י שהיה נרדם ע"י החלב ששתה ויעף ויגע שעל ידי זה מת תיכף.
 
 
-**And she struck it in.** She held the mallet in one hand and the tent peg in the other; yet she lacked the physical strength to drive it through by her own power. Therefore, by divine assistance, the peg descended into the ground by its weight, penetrating and passing through. And since he had fallen into deep sleep from the milk he drank, being fatigued and faint, he died at once.
+**And she struck it in.** She held the mallet in one hand and the tent peg in the other; yet she lacked the physical strength to drive it through by her own power. Therefore, by Divine assistance, the peg descended into the ground by its weight, penetrating and passing through. And since he had fallen into deep sleep from the milk he drank, being fatigued and faint, he died at once.
 
 
 
@@ -1800,7 +1709,7 @@ A second explanation, according to Abarbanel, is that Sisera fled into Jael’s 
 והנה יש הבדל בין שיר וזמר. שהזמר הוא מדרגה יותר גדולה מן השיר, והסדר תמיד שירו לו זמרו לו, אשירה ואזמרה. שהזמר מוסיף על השיר, והתבאר אצלי שהזמר מיוחד רק מה שמשבח את ה' על ענינים השגחיים או נסים וכדומה.
 
 
-There is a difference between “shir” (song) and “zemer” (psalm). “Zemer” denotes a higher form of praise than “shir,” which is why Scripture consistently says, “Sing to Him, chant to Him,” or “I will sing and I will chant,” with the chant intensifying the song. I have explained that “zemer” is used particularly when praising God for acts of providence, miracles, or extraordinary intervention.
+There is a difference between “shir” (song) and “zemer” (psalm). “Zemer” denotes a higher form of praise than “shir,” which is why Scripture consistently says, “Sing to Him, chant to Him,” or “I will sing and I will chant,” with the chant intensifying the song. I have explained that “zemer” is used particularly when praising God for acts of Providence, miracles, or extraordinary intervention.
 
 
 ###### Malbim on Judges 5:3:3
@@ -1811,7 +1720,7 @@ There is a difference between “shir” (song) and “zemer” (psalm). “Zeme
 ויש הבדל בין ה' ובין אלהי ישראל – שציון אלהי ישראל מציין תמיד ההשגחה המיוחדת בישראל שע"י ינוסס עמם נס להתנוסס, ובזה אמרה כי תשיר מצד שהוא ה' בורא העולם ומנהיג ההנהגה הכללית, וגם תזמר מצד שהוא אלהי ישראל ומנהיג אותם בהשגחה נסיית בדרך פלא.
 
 
-There is a difference between the name “Hashem” and the title “the God of Israel.” The latter consistently refers to His particular providence over Israel, through which He raises them by miraculous intervention. Thus she declares that she will sing in recognition of Him as Hashem — Creator and universal Governor — and she will chant in recognition of Him as the God of Israel, who guides them through extraordinary and miraculous providence.
+There is a difference between the name “Hashem” and the title “the God of Israel.” The latter consistently refers to His particular Providence over Israel, through which He raises them by miraculous intervention. Thus she declares that she will sing in recognition of Him as Hashem — Creator and universal Governor — and she will chant in recognition of Him as the God of Israel, who guides them through extraordinary and miraculous Providence.
 
 
 ###### Malbim on Judges 5:3:4
@@ -1850,7 +1759,7 @@ These two verses function as a preface to the Song itself; from here onward the 
 **והרים נזלו.** למטה, עד שנמס הכל והיה למים. מפני ה' זה סיני, רצה לומר שנמוגו מפני ה' שבא מהר סיני, אשר נתן עוז לעמו, מפני ה' שהוא אלהי ישראל ע"י השגחתו הדבוקה בם, והמופתים שעשה להם.
 
 
-**And the mountains melted.** They dissolved downward until all was liquefied. “Before Hashem — this is Sinai” means that they melted before Hashem who came forth from Mount Sinai and endowed His people with power; before Hashem as the God of Israel, manifest through His intimate providence and the miracles He wrought on their behalf.
+**And the mountains melted.** They dissolved downward until all was liquefied. “Before Hashem — this is Sinai” means that they melted before Hashem who came forth from Mount Sinai and endowed His people with power; before Hashem as the God of Israel, manifest through His intimate Providence and the miracles He wrought on their behalf.
 
 
 
@@ -1914,9 +1823,7 @@ And likewise, **“the open settlements ceased.”** The people withdrew into fo
 **יבחר.** בעת נכנסו ישראל לארץ אז עבר החלוץ לפניהם שהם בני ראובן ובני גד שהיו ארבעים אלף חלוצי צבא שעברו לפניהם (יהושע ד') ועתה לא בא אחד מן החלוץ למלחמה, כי הלוחמים עתה היו בני זבולון ובני נפתלי, על פי זה דבר המליץ נשגבות, יאמר כי ארבעים אלף חלוצי צבא שבחר ה' בימי קדם שלחמו אז בשדה במערכה לא לחמו עתה בשערים, עתה שיש לישראל שערי מבצר והוצרכו ללחום על שעריהם, הוצרך אלהים לבחר לוחמים חדשים, ושיעור הכתוב אלהים הוצרך לבחר לוחמים חדשים אז בהצטרכו ללחום שערים, כי מן הלוחמים הישנים לא באו למלחמה זו. ומארבעים אלף של החלוץ מגן אם יראה ורומח כאילו לא נבחרו ללחום על ערי ישראל ומבצריהם רק בשדה, (ומלת לחם נדחקו בו המפרשים שהפעל ראוי לבא בציר"י ולפירושי הוא שם, למלחמה של שערים).
 
 
-**He chose.** At Israel’s initial entry into the land, the advance guard — the forty thousand armed men from Reuben and Gad — crossed before the nation (Joshua 4). Yet in the present crisis, none of that former vanguard appeared; instead, the fighters were from Zebulun and Naphtali. The poet therefore speaks loftily: the forty thousand once chosen by God to wage war in the open field did not fight now at the city gates. With fortified cities now under threat, God needed to appoint new warriors.
-
-The meaning is that God selected fresh combatants for a different kind of warfare — defense of gates and strongholds — because none of the earlier champions came forward. Among those original forty thousand not even shield or spear was seen, as if their prior selection had been for open battle, not for urban defense. (The term “lacham” has troubled commentators, since grammatically the verb would require a different vocalization; in my interpretation it is a noun, meaning “warfare at the gates.”)
+**He chose.** At Israel’s initial entry into the land, the advance guard — the forty thousand armed men from Reuben and Gad — crossed before the nation (Joshua 4). Yet in the present crisis, none of that former vanguard appeared; instead, the fighters were from Zebulun and Naphtali. The poet therefore speaks loftily: the forty thousand once chosen by God to wage war in the open field did not fight now at the city gates. With fortified cities now under threat, God needed to appoint new warriors. The meaning is that God selected fresh combatants for a different kind of warfare — defense of gates and strongholds — because none of the earlier champions came forward. Among those original forty thousand not even shield or spear was seen, as if their prior selection had been for open battle, not for urban defense. (The term “lacham” has troubled commentators, since grammatically the verb would require a different vocalization; in my interpretation it is a noun, meaning “warfare at the gates.”)
 
 
 
@@ -1958,9 +1865,7 @@ The meaning is that God selected fresh combatants for a different kind of warfar
 **מקול.** מפני שבין משאבי המים בנחל קישון השמיע ה' קול מחצצים שנדמה לסיסרא קול חצץ (כמו ויצא חוצץ כולו) רצה לומר קול מחנות רבות, על כן יתנו צדקות ה' אשר עשה עם ישראל. צדקות פרזונו, ימליץ כי בעת ירדו לשערים עם ה', פי' שישראל ירדו אל שערי מבצריהם להסתתר מאויב, אז בעת ירדו לשערים בעת ההיא ישב ה' בערי הפרזות בלא חומה דלתים ובריח, רצה לומר אז חשף זרוע קדשו.
 
 
-**From the sound.** At the watering places along the Kishon, Hashem produced a resounding noise that to Sisera seemed like the crash of great forces — as though vast armies were approaching. Because of this, they proclaim the just deeds of Hashem on behalf of Israel.
-
-“His righteous acts toward the open settlements” — in poetic language, when Israel retreated to the fortified gates out of fear, it was then that Hashem manifested Himself in the unfortified villages, without walls or bars — meaning that at that moment He laid bare His mighty arm in open salvation.
+**From the sound.** At the watering places along the Kishon, Hashem produced a resounding noise that to Sisera seemed like the crash of great forces — as though vast armies were approaching. Because of this, they proclaim the just deeds of Hashem on behalf of Israel. “His righteous acts toward the open settlements” — in poetic language, when Israel retreated to the fortified gates out of fear, it was then that Hashem manifested Himself in the unfortified villages, without walls or bars — meaning that at that moment He laid bare His mighty arm in open salvation.
 
 
 
@@ -2010,9 +1915,7 @@ The meaning is that God selected fresh combatants for a different kind of warfar
 **ירד שריד לאדירים עם.** (שריד הוא אהוד שנמלט ממואב אחר שהרג את עגלון, ולמ"ד לאדירים הוא למ"ד בשביל רצה לומר בשביל אדירים) אהוד השריד רד את עם מואב בעזר אדירים שהלכו לעזרתו, כמו שאמר ויתקע בשופר בהר אפרים וירדו עמו ב"י מן ההר, וא"כ היו אתו אדירים ועל ידי עזרתם רדה עם, רצה לומר עם חלש ופליטי מואב, לא כן אנכי ה' ירד לי ולא ידי ויד אדירים שהיו עמי רדו באויב רק ה' ירד לי, ולא על עם חלוש רק בגבורים שהם מחנה סיסרא, (ומלת ירד שרשו רדה מבנין הכבד כמו ירדה).
 
 
-**A remnant went down for the mighty.** The “remnant” refers to Ehud, who survived after slaying Eglon. The phrase “for the mighty” means that he acted with the aid of mighty warriors. Ehud subdued Moab with the support of strong men who joined him, as described when he sounded the shofar and Israel descended with him from the hills. Thus he prevailed over a weakened, scattered Moab through human strength.
-
-In contrast, in my case it was Hashem who descended on my behalf. Neither I nor mighty warriors accomplished the victory; Hashem Himself acted. And this was not against a feeble people, but against true warriors — the army of Sisera. (The verb “descended” comes from the root meaning “to subdue,” in an intensive form.)
+**A remnant went down for the mighty.** The “remnant” refers to Ehud, who survived after slaying Eglon. The phrase “for the mighty” means that he acted with the aid of mighty warriors. Ehud subdued Moab with the support of strong men who joined him, as described when he sounded the shofar and Israel descended with him from the hills. Thus he prevailed over a weakened, scattered Moab through human strength. In contrast, in my case it was Hashem who descended on my behalf. Neither I nor mighty warriors accomplished the victory; Hashem Himself acted. And this was not against a feeble people, but against true warriors — the army of Sisera. (The verb “descended” comes from the root meaning “to subdue,” in an intensive form.)
 
 
 
@@ -2026,9 +1929,7 @@ In contrast, in my case it was Hashem who descended on my behalf. Neither I nor 
 **מני.** מפרש מ"ש אז ירד שריד לאדירים עם, מי היו האדירים? הם מני אפרים שהלכו עם אהוד, שרשם בעמלק והם שרשו את עמלק שהיה עם מואב (כמש"ש ג' יד ויאסוף אליו בני עמון ועמלק) אחריך, אתה אהוד אחריך הלך בנימין בעממיך שהוא היה עמך ושבטך כי אהוד היה משבט בנימין, והם היו אדירים וגבורים, לא כן במלחמה הזאת לא הלכו גבורים, רק מני מכיר ירדו מחוקקים. אלה שירדו עמי מבני מכיר היו מחוקקים חכמים בדת ודין לא אנשי חיל למלחמה. ואלה שהלכו עמי מזבולון היו מושכים בשבט סופר לא אוחזי מגן וחרב.
 
 
-**From Meni.** He clarifies who the “mighty” were in the earlier verse: they were from Ephraim, who joined Ehud; their lineage traced to Amalek, and they struck Amalek, who had allied with Moab (Judges 3:14). “After you” refers to Ehud — Benjamin followed after him among his people, since Ehud was of that tribe. These were powerful, heroic fighters.
-
-But in this war it was not seasoned warriors who came. From Machir descended lawgivers — scholars and judges, not soldiers. And from Zebulun came those who handle the scribe’s staff — writers and teachers, not men bearing shield and sword.
+**From Meni.** He clarifies who the “mighty” were in the earlier verse: they were from Ephraim, who joined Ehud; their lineage traced to Amalek, and they struck Amalek, who had allied with Moab (Judges 3:14). “After you” refers to Ehud — Benjamin followed after him among his people, since Ehud was of that tribe. These were powerful, heroic fighters. But in this war it was not seasoned warriors who came. From Machir descended lawgivers — scholars and judges, not soldiers. And from Zebulun came those who handle the scribe’s staff — writers and teachers, not men bearing shield and sword.
 
 
 
@@ -2053,13 +1954,7 @@ Similarly, **the leaders of Issachar** who accompanied Deborah were men learned 
 **בפלגות.** המשורר ישים לבו ורע בעיניו על שני שבטים ראובן ודן שלא באו למלחמה, כי בימי יהושע היה ראובן הולך בראש המחנות, ודן מאסף לכל המחנות ועתה לא באו, וכשתעיין בגבולי הארץ תמצא שכל השבטים היו קרובים לשדה המערכה, כי הר תבור היה בגבול יששכר. ומדרומו היה חלק יהודה ושמעון ובני יוסף ובנימין, ואחר שסיסרא התפשט על בני יששכר וזבולון ונפתלי שעמם נלחם, היה יכול ליפול על כל שבט מבלי אמצעי, כי חלק גד וחצי מנשה היה מגביל בעבר הירדן נגד יששכר, ובצד דרום היה מגביל עם יוסף בנימין ויהודה, ובמערבית צפונית אשר זבולון ונפתלי שנחלתם פגעו זה בזה כמו שאמר בנחלת אשר (יהושע יט כז) ופגע בזבולון, ובנחלת נפתלי (שם לד) ופגע בזבולון מנגב ובאשר פגע מים וביהודה הירדן מזרח שמש, רק נחלת ראובן ודן היו נפרדים, כי אם היה האויב רוצה ליפול בנחלת ראובן היה צריך לעבור תחלה את הירדן אל גלעד, ולעבור דרך הגלעד גד וחצי מנשה, וכן אם היה רוצה ליפול על דן שהיה נחלתו במקצוע דרומית מערבית היה צריך לעבור דרך אשר, על פי זה אמרה, בפלגות ראובן, מה שנפלג ראובן ולא בא לצבא (הגם שלא היה ירא שיפול עליו האויב), גדולים חקקי לב, זה עושה חקוקות גדולות ורושמים נוראים בלב, רצה לומר שברון לב.
 
 
-**At the divisions.** The poet reflects with sorrow upon the two tribes, Reuben and Dan, who did not come to the war. For in the days of Joshua, Reuben marched at the head of the camps, and Dan served as the rear guard for all the camps; yet now they did not appear.
-
-And if you examine the boundaries of the land, you will find that all the tribes were close to the field of battle, for Mount Tabor lay within the territory of Issachar. To its south were the portions of Judah, Simeon, the sons of Joseph, and Benjamin. And since Sisera had spread his forces against Issachar, Zebulun, and Naphtali—against whom he fought—he could easily have fallen upon any of the other tribes without obstacle. For the territory of Gad and half of Manasseh bordered Issachar across the Jordan; to the south it bordered the territories of Joseph, Benjamin, and Judah; and to the northwest were Zebulun and Naphtali, whose inheritances touched one another, as it says regarding the inheritance of Asher (Joshua 19:27), “it reached Zebulun,” and regarding the inheritance of Naphtali (ibid., v. 34), “it reached Zebulun from the south, and it reached Asher on the west, and Judah by the Jordan toward the sunrise.”
-
-Only the territories of Reuben and Dan were separated. For if the enemy had wished to attack the territory of Reuben, he would first have had to cross the Jordan into Gilead and pass through the regions of Gad and half of Manasseh. Likewise, if he had wished to attack Dan, whose territory lay in the southwestern corner, he would have had to pass through Asher.
-
-Therefore she said, “At the divisions of Reuben”: that Reuben divided himself and did not come to the army—even though he had no fear that the enemy would fall upon him—“great were the searchings of heart.” This phrase means deep engravings and terrible impressions upon the heart, that is, a profound breaking of the heart.
+**At the divisions.** The poet reflects with sorrow upon the two tribes, Reuben and Dan, who did not come to the war. For in the days of Joshua, Reuben marched at the head of the camps, and Dan served as the rear guard for all the camps; yet now they did not appear. And if you examine the boundaries of the land, you will find that all the tribes were close to the field of battle, for Mount Tabor lay within the territory of Issachar. To its south were the portions of Judah, Simeon, the sons of Joseph, and Benjamin. And since Sisera had spread his forces against Issachar, Zebulun, and Naphtali—against whom he fought—he could easily have fallen upon any of the other tribes without obstacle. For the territory of Gad and half of Manasseh bordered Issachar across the Jordan; to the south it bordered the territories of Joseph, Benjamin, and Judah; and to the northwest were Zebulun and Naphtali, whose inheritances touched one another, as it says regarding the inheritance of Asher (Joshua 19:27), “it reached Zebulun,” and regarding the inheritance of Naphtali (ibid., v. 34), “it reached Zebulun from the south, and it reached Asher on the west, and Judah by the Jordan toward the sunrise.” Only the territories of Reuben and Dan were separated. For if the enemy had wished to attack the territory of Reuben, he would first have had to cross the Jordan into Gilead and pass through the regions of Gad and half of Manasseh. Likewise, if he had wished to attack Dan, whose territory lay in the southwestern corner, he would have had to pass through Asher. Therefore she said, “At the divisions of Reuben”: that Reuben divided himself and did not come to the army—even though he had no fear that the enemy would fall upon him—“great were the searchings of heart.” This phrase means deep engravings and terrible impressions upon the heart, that is, a profound breaking of the heart.
 
 
 
@@ -2073,9 +1968,7 @@ Therefore she said, “At the divisions of Reuben”: that Reuben divided himsel
 **למה ישבת.** הלא אתה יושב על הגבול כדרך הגבור שהיושב על הגבול עליו מוטל לכלא רגל אויב מבא בארץ, ולהיות מוכן תמיד ליום קרב, ואתה כי התרפית ביום צרה למה ישבת בין המשפתים, הכי לשמוע שרקות עדרים אשר אספת כמו שאמר: ומקנה רב היה לבני ראובן הבעבור זה ישבת על הגבול, אולם תשיב לאמר, לפלגות ראובן גדולים חקרי לב, רצה לומר אך למותר לחקור ע"ז, והחקרי לב גדולים מן הנידון, כי הטעם מבואר שהוא יען שראובן אומר למה לי להתירא, הלא –
 
 
-**Why did you sit still?** You dwell on the frontier like a warrior, for one who sits on the border is responsible for restraining the enemy from entering the land and for being constantly ready for the day of battle. Yet when distress came and your strength failed, why did you sit among the sheepfolds? Was it in order to listen to the whistling of the flocks you had gathered, as it says, “And the children of Reuben had very great livestock”? Was this why you remained at the border?
-
-But you might reply, “At the divisions of Reuben there were great searchings of heart.” That is to say, it is hardly necessary to inquire further about this, for the investigations of the heart are greater than the matter under discussion — since the reason is evident: Reuben said, “Why should I be afraid? Surely…”
+**Why did you sit still?** You dwell on the frontier like a warrior, for one who sits on the border is responsible for restraining the enemy from entering the land and for being constantly ready for the day of battle. Yet when distress came and your strength failed, why did you sit among the sheepfolds? Was it in order to listen to the whistling of the flocks you had gathered, as it says, “And the children of Reuben had very great livestock”? Was this why you remained at the border? But you might reply, “At the divisions of Reuben there were great searchings of heart.” That is to say, it is hardly necessary to inquire further about this, for the investigations of the heart are greater than the matter under discussion — since the reason is evident: Reuben said, “Why should I be afraid? Surely…”
 
 
 
@@ -2089,9 +1982,7 @@ But you might reply, “At the divisions of Reuben there were great searchings o
 **גלעד בעבר הירדן שכן.** הלא גלעד הוא שכן אצלי ושומר את ארצי ומפסיק ביני לבין האויב, לכן לא בא ולא נשתתף בצרת אחיו, וכן ודן למה יגור אניות, למה עסק דן במסחרו ויקבץ אניות ולא בא לעזר, גם ע"ז יש טעם מבואר, כי הוא אמר בלבו אשר ישב לחוף ימים הלא אשר מפסיק בינו לבין האויב ועל מפרציו ישכון, שאשר שומר פרצות ארצו מרגל אויב ולכן לא בא.
 
 
-**Gilead remained across the Jordan.** for Gilead lives beside me, guarding my land and standing as a barrier between me and the enemy. Therefore he did not come and did not share in the distress of his brothers.
-
-And likewise, “Why did Dan remain by the ships?” Why did Dan occupy himself with trade and gather ships, and not come to help? This too has an evident reason: he said in his heart that since Asher dwells along the seashore and occupies its inlets, Asher stands between him and the enemy and guards the breaches of his land from the enemy’s approach. Therefore he did not come.
+**Gilead remained across the Jordan.** for Gilead lives beside me, guarding my land and standing as a barrier between me and the enemy. Therefore he did not come and did not share in the distress of his brothers. And likewise, “Why did Dan remain by the ships?” Why did Dan occupy himself with trade and gather ships, and not come to help? This too has an evident reason: he said in his heart that since Asher dwells along the seashore and occupies its inlets, Asher stands between him and the enemy and guards the breaches of his land from the enemy’s approach. Therefore he did not come.
 
 
 
@@ -2119,9 +2010,7 @@ And likewise, “Why did Dan remain by the ships?” Why did Dan occupy himself 
 **באו.** בימי יהושע קבץ יבין מלך חצור את כל המלכים מלכי כנען על מי מרום להלחם עם יהושע (כנזכר יהושע יא) ועתה קבץ יבין מלכים שנית, וחנה על מי מגידו, על פי זה מרכיב המשורר את העבר עם ההוה, ויצייר כי מה שקרה עתה כבר היה אז, המלכים באו עם סיסרא ונלחמו, (אז בימי קדם כבר נלחמו מלכי כנען, בעזר מלך חצור), ומפרש עתה באו בתענך על מי מגדו, (תחת מה שבאו אז על מי מרום), בצע כסף לא לקחו, עוזרי יבין לא קבלו משכורת במלחמה זו, כמו שגם אז באו בחנם.
 
 
-**They came.** Just as in Joshua’s era Jabin of Hazor assembled the Canaanite kings at the waters of Merom (Joshua 11), so now he gathered kings once more and encamped by the waters of Megiddo. The poet intentionally fuses past and present: what happened now mirrors what happened then. The kings came and fought alongside Sisera, just as their predecessors once fought with Hazor’s king.
-
-“They took no plunder of silver” — Jabin’s allies were not mercenaries; they did not fight for wages, just as in earlier days they had come without payment.
+**They came.** Just as in Joshua’s era Jabin of Hazor assembled the Canaanite kings at the waters of Merom (Joshua 11), so now he gathered kings once more and encamped by the waters of Megiddo. The poet intentionally fuses past and present: what happened now mirrors what happened then. The kings came and fought alongside Sisera, just as their predecessors once fought with Hazor’s king. “They took no plunder of silver” — Jabin’s allies were not mercenaries; they did not fight for wages, just as in earlier days they had come without payment.
 
 
 
@@ -2190,9 +2079,7 @@ Thus the meaning is: My soul, march powerfully across the river when the horses�
 
 **They came.** Just as in Joshua’s era Jabin of Hazor assembled the Canaanite kings at the waters of Merom (Joshua 11), so now he gathered kings once more and encamped by the waters of Megiddo. The poet intentionally fuses past and present: what happened now mirrors what happened then. The kings came and fought alongside Sisera, just as their predecessors once fought with Hazor’s king.
 
-
-
-“They took no plunder of silver” — Jabin’s allies were not mercenaries; they did not fight for wages, just as in earlier days they had come without payment.
+ “They took no plunder of silver” — Jabin’s allies were not mercenaries; they did not fight for wages, just as in earlier days they had come without payment.
 
 
 
@@ -2206,9 +2093,7 @@ Thus the meaning is: My soul, march powerfully across the river when the horses�
 **ידה.** כבר בארתי (ד' כא) כי לקחה היתד ביד אחת והמקבת ביד השני להלמות, רק שלא יכלה להלום עליו מחולשתה. ועפ"י נס צנח היתד מעצמו ברקתו, וזה שאמר ידה (אשר) ליתד תשלחנה וימינה (שבה אחזה המקבת) להלמות שני ידיה היו עמלים ועיפים, (מצאנו יד בלשון זכר, הנה יד שלוחה אלי ובו מגלת ספר) והלמה סיסרא במה שהלמתו רק מחקה ראשו חקק קטן לבד, ובכ"ז במה שמחצה מחץ קטן כבר חלפה רקתו מעבר אל עבר, (לדעת המפרשים בא עמלים תחת עמל בלשון יחיד על סיסרא שהיה עמל והוא שלא כמשפט הלשון).
 
 
-**Her hand.** As explained earlier (4:21), she grasped the tent peg in one hand and the hammer in the other, intending to strike; however, she lacked the physical strength to drive it in fully. Through divine intervention, the peg sank into his temple on its own. Thus, “her hand reached for the peg, and her right hand for the hammer.” Both her hands were straining and fatigued (note that “hand” can appear in masculine grammatical form, as elsewhere in Scripture).
-
-When it says she struck Sisera, it implies that her blow itself produced only a slight impression; nevertheless, through the crushing effect, even that small impact resulted in the peg piercing through his temple completely. Some commentators understand “weary” to refer to Sisera, but that interpretation does not align with proper grammar.
+**Her hand.** As explained earlier (4:21), she grasped the tent peg in one hand and the hammer in the other, intending to strike; however, she lacked the physical strength to drive it in fully. Through Divine intervention, the peg sank into his temple on its own. Thus, “her hand reached for the peg, and her right hand for the hammer.” Both her hands were straining and fatigued (note that “hand” can appear in masculine grammatical form, as elsewhere in Scripture). When it says she struck Sisera, it implies that her blow itself produced only a slight impression; nevertheless, through the crushing effect, even that small impact resulted in the peg piercing through his temple completely. Some commentators understand “weary” to refer to Sisera, but that interpretation does not align with proper grammar.
 
 
 
@@ -2236,9 +2121,7 @@ When it says she struck Sisera, it implies that her blow itself produced only a 
 **בעד החלון.** יש הבדל בין חלון לאשנב, שהאשנב הוא מין חלון עשוי בחכמה, ובא פה על חלון הקסם שבו השקיפה אם סיסרא לקסום קסמים לדעת מה נעשה בו, רצה לומר תחלה נשקפה בעד החלון, ואח"כ ראתה באשנב ואז ותיבב בקול יבבא ויללה, והוא כמו שפי' העקרים, כי ראתה בחלון הקסם סיסרא שוכב ארצה, ואשה עומדת עליו הולמת ראשו ודם יורד מראשו, וכן ראתה הרוגים צואריהם מאדמים, ומפרש תחלה בעד החלון נשקפה מדוע בושש רכבו לבא, ואח"כ ותיבב בעד האשנב מדוע אחרו פעמי מרכבותיו.
 
 
-**Through the window.** There is a difference between a “window” and a “lattice”: the lattice is an elaborately constructed opening. Here it refers to a magical or divinatory window through which Sisera’s mother sought omens to learn his fate. Initially she peered through the window; later she perceived through the lattice — and then she began to cry out in lamentation.
-
-According to this explanation, she saw in her vision Sisera fallen to the ground, a woman standing over him striking his head, blood flowing, and slain warriors with reddened necks. Hence the verse unfolds in stages: first she looks out the window asking, “Why is his chariot delayed?” and afterward she wails through the lattice, “Why are his chariot wheels slow?”
+**Through the window.** There is a difference between a “window” and a “lattice”: the lattice is an elaborately constructed opening. Here it refers to a magical or divinatory window through which Sisera’s mother sought omens to learn his fate. Initially she peered through the window; later she perceived through the lattice — and then she began to cry out in lamentation. According to this explanation, she saw in her vision Sisera fallen to the ground, a woman standing over him striking his head, blood flowing, and slain warriors with reddened necks. Hence the verse unfolds in stages: first she looks out the window asking, “Why is his chariot delayed?” and afterward she wails through the lattice, “Why are his chariot wheels slow?”
 
 
 ###### Malbim on Judges 5:28:2
@@ -2277,11 +2160,7 @@ There is a difference between “boshesh” (tarrying) and “achar” (being la
 **הלא.** אמרו שמה שנראה בקסם איש שוכב ארצה צבוע בדם האיש הזה הוא איש מליציי, שהקסם יצייר את השלל כאילו הוא איש והשלל מצויר בדמות גבר מליציי, חזיוני, וזה שאמר הלא ימצאו יחלקו שלל, השלל הוא האיש השוכב ארצה, ומה שראית על ראש הגבר שאשה עומדת עליו, פתרונו כי רחם רחמתים לראש גבר הנשים אשר ישללו הוא ראש הגבר הלז שהוא השלל, כי הוא ראש השלל והמובחר שבו, ומה שראית שראשו צבוע בדם, פתרונו על שלל צבעים המיוחד לסיסרא, שגם זה מובחר וראש השלל והוא מצוייר בראש הגבר החזיוני שהוא השלל יען שהוא שלל צבעים רקמה, ומה שראית צוארים מאדמים, הוא צבע רקמתים שהוא צוארי שלל, הוא צואר הגבר החזיוני שהוא השלל, באופן שהקסם הגשים את השלל המליציי ויעשהו כתבנית איש בחזיון הקסם.
 
 
-**Have they not found and divided the spoil?** The wise women reinterpret the grim vision: the bloodied man seen lying on the ground is not Sisera, but a symbolic representation of the spoil itself. The divination clothed the plunder in the form of a man.
-
-The woman standing over his head signifies captive women — the choicest part of the spoils. The blood on his head symbolizes dyed and embroidered garments destined for Sisera. The reddened necks represent richly woven fabrics, metaphorically forming the “neck” of this imagined man of spoil.
-
-In other words, the omen did not depict death but abundance. The divination embodied the plunder as a symbolic human figure in the visionary scene.
+**Have they not found and divided the spoil?** The wise women reinterpret the grim vision: the bloodied man seen lying on the ground is not Sisera, but a symbolic representation of the spoil itself. The divination clothed the plunder in the form of a man. The woman standing over his head signifies captive women — the choicest part of the spoils. The blood on his head symbolizes dyed and embroidered garments destined for Sisera. The reddened necks represent richly woven fabrics, metaphorically forming the “neck” of this imagined man of spoil. In other words, the omen did not depict death but abundance. The divination embodied the plunder as a symbolic human figure in the visionary scene.
 
 
 
@@ -2352,8 +2231,7 @@ In other words, the omen did not depict death but abundance. The divination embo
 **(ג-ה) למה כפל, ועלה מדין, ועלו עליו, ויחנו עליהם, וכן כל הדברים כפולים:**
 
 
-**The Questions**
-**(3–5) Why does the text repeat itself — “Midian went up,” “they came up against him,” “they encamped against them”? And similarly, why are the details described in seemingly redundant phrases?**
+**The Questions** **(3–5) Why does the text repeat itself — “Midian went up,” “they came up against him,” “they encamped against them”? And similarly, why are the details described in seemingly redundant phrases?**
 
 
 ###### Malbim on Judges 6:3:2
@@ -2489,11 +2367,7 @@ In other words, the omen did not depict death but abundance. The divination embo
 **אשר ליואש.** רצה לומר האלה שהיתה ליואש, ויש לומר עפרה אשר ליואש כי היה עוד עפרה בגבול בנימין (יהושע יח כג), וגדעון בנו השפע האלהית לא תחול רק על המזומנים לה, והמזומן לה במקצת תחול עליו ברכת ה' בשיעור רב. והנה היה צריך פה, א) זכות קצת, שע"י יסייעו לו לזכותו הרבה כענין הבא לטהר, ב) גבורה, בענין שתחול עליו רוח ה' כח וגבורה למלחמה, וגדעון נמצא לו זכות כבוד אב, שעל זה אמר וגדעון בנו חבט, גם גבורה בשהיה מכין א"ע להניס מפני מדין שלפ"ז הרגיש בעצמו גבורה למלחמה.
 
 
-**Which belonged to Joash.** Referring to the oak owned by Joash; or possibly to Ophrah of Joash, distinguishing it from another Ophrah in Benjamin’s territory (Joshua 18:23).
-
-Gideon, Joash’s son, was fit for divine inspiration because heavenly influence descends only upon one prepared to receive it. Even partial readiness draws abundant blessing. Two qualifications were necessary: first, some merit — which would attract further assistance (“He who seeks purity is helped”); second, innate courage, enabling the spirit of Hashem — strength and valor — to rest upon him.
-
-Gideon had merit through honoring his father, indicated by the verse identifying him as “his son.” He also demonstrated courage by threshing wheat in hiding from Midian — an act revealing inner boldness and readiness for battle.
+**Which belonged to Joash.** Referring to the oak owned by Joash; or possibly to Ophrah of Joash, distinguishing it from another Ophrah in Benjamin’s territory (Joshua 18:23). Gideon, Joash’s son, was fit for Divine inspiration because heavenly influence descends only upon one prepared to receive it. Even partial readiness draws abundant blessing. Two qualifications were necessary: first, some merit — which would attract further assistance (“He who seeks purity is helped”); second, innate courage, enabling the spirit of Hashem — strength and valor — to rest upon him. Gideon had merit through honoring his father, indicated by the verse identifying him as “his son.” He also demonstrated courage by threshing wheat in hiding from Midian — an act revealing inner boldness and readiness for battle.
 
 
 
@@ -2507,7 +2381,7 @@ Gideon had merit through honoring his father, indicated by the verse identifying
 **וירא אליו.** בכח הזה התראה המלאך אליו והודיעו כי ה' עמו ושהוא גבור החיל כי ישפיע עליו זכות וקדושה וגם גבורה בשפע רב.
 
 
-**And he appeared to him.** On account of this latent strength the angel revealed himself to Gideon, informing him that Hashem was with him and that he was a valiant warrior — meaning that divine grace and sanctity would be poured upon him, together with abundant bravery.
+**And he appeared to him.** On account of this latent strength the angel revealed himself to Gideon, informing him that Hashem was with him and that he was a valiant warrior — meaning that Divine grace and sanctity would be poured upon him, together with abundant bravery.
 
 
 
@@ -2521,7 +2395,7 @@ Gideon had merit through honoring his father, indicated by the verse identifying
 **ויש ה' עמנו.** גדעון חשב שסבת הרעה שבא עליהם היא הסתרת פנים, שעזבם תחת המקרה, כמו שאמר ואמר ביום ההוא הלא על כי אין אלהי בקרבי מצאוני הרעות האלה, וזה שאמר אם יש ה' עמנו ולמה מצאתנו כל זאת שזה מורה כאילו הכל במקרה.
 
 
-**If Hashem is with us.** Gideon thought their suffering resulted from divine concealment — that God had withdrawn and left them to natural forces, as in the verse, “Is it not because my God is not among me that these evils have found me?” Therefore he asks, “If Hashem is with us, why has all this happened to us?” — implying that events seem to have unfolded as though by chance.
+**If Hashem is with us.** Gideon thought their suffering resulted from Divine concealment — that God had withdrawn and left them to natural forces, as in the verse, “Is it not because my God is not among me that these evils have found me?” Therefore he asks, “If Hashem is with us, why has all this happened to us?” — implying that events seem to have unfolded as though by chance.
 
 
 ###### Malbim on Judges 6:13:2
@@ -2532,7 +2406,7 @@ Gideon had merit through honoring his father, indicated by the verse identifying
 **ואיה כל נפלאותיו.** הלא בעת השגיח עלינו עשה נפלאות למעלה מדרך הטבע.
 
 
-**And where are all His miracles?** When He exercised His providence over us, He wrought signs that transcended the natural order.
+**And where are all His miracles?** When He exercised His Providence over us, He wrought signs that transcended the natural order.
 
 
 ###### Malbim on Judges 6:13:3
@@ -2543,7 +2417,7 @@ Gideon had merit through honoring his father, indicated by the verse identifying
 **אשר ספרו לנו אבותינו.** כי עתה אותותינו לא ראינו, ואיה נפלאות אלה זה מורה שעזב אותנו, ואם תאמר שזה מפני רוע מעשינו הלא ממצרים העלנו ה' שאז ג"כ היינו משוקעים בטומאת מצרים, ואם אז העלנו אף שעדיין לא היינו עמו ואיך עתה שכבר בחר אותנו לעם נטשנו ה' ויתננו בכף מדין, וזה מורה שאינו משגיח עלינו.
 
 
-**As our fathers recounted to us.** Today we see no miraculous signs — so where are those wonders? It appears that He has abandoned us. And if you argue that our sins are the cause — did not Hashem bring us out of Egypt when we were steeped in Egyptian impurity? If He redeemed us then, though we were not yet fully loyal to Him, how can it be that now, after He has chosen us as His people, He has cast us off and given us into Midian’s hand? That would imply He no longer exercises providence over us.
+**As our fathers recounted to us.** Today we see no miraculous signs — so where are those wonders? It appears that He has abandoned us. And if you argue that our sins are the cause — did not Hashem bring us out of Egypt when we were steeped in Egyptian impurity? If He redeemed us then, though we were not yet fully loyal to Him, how can it be that now, after He has chosen us as His people, He has cast us off and given us into Midian’s hand? That would imply He no longer exercises Providence over us.
 
 
 
@@ -2558,8 +2432,7 @@ Gideon had merit through honoring his father, indicated by the verse identifying
 **(יד) מדוע אמר ויפן אליו ה', ולא אמר שפנה אליו המלאך שדבר עמו עד הנה:**
 
 
-**The Questions**
-**(14) Why does the verse state, “And Hashem turned to him,” rather than saying that the angel — who had been speaking with him up to this point — turned to him?**
+**The Questions** **(14) Why does the verse state, “And Hashem turned to him,” rather than saying that the angel — who had been speaking with him up to this point — turned to him?**
 
 
 ###### Malbim on Judges 6:14:2
@@ -2570,11 +2443,7 @@ Gideon had merit through honoring his father, indicated by the verse identifying
 **ויפן אליו ה'.** עד עתה דבר עמו המלאך, ועתה פנה ה' אליו בדבור נבואיי (שהמלאך הוא אמצעי אליו ויקדים להתראות טרם יגלה דבר ה' כמו שהיה בהיות יהושע ביריחו), ויאמר לך בכחך זה כיון, אם על הכח הנמצא בו לגבורה, כמו שאמר במ"ש להניס מפני מדין, שהוריק על כח זה שפע רב עד יספיק להושיע את ישראל. ואם על כח הטענה כי אחרי ראה שטוען בעד סור ההשגחה מישראל זה אות שדבר זה סוער בלבבו, והוא מוכן לתשועתם.
 
 
-**And Hashem turned to him.** Until now the angel had been speaking with him, but now Hashem turned to him in prophetic speech (for the angel serves as an intermediary to Him, and precedes the revelation before the word of Hashem is disclosed — as happened when Joshua was in Jericho).
-
-And He said, “Go in this your strength,” meaning: either the strength already found in him — the strength of valor — as shown by what was said about him preparing to flee from Midian, upon which this existing strength was now infused with abundant divine influence sufficient to save Israel.
-
-Or, it refers to the strength of his argument — for after it was seen that he contends over the withdrawal of divine providence from Israel, this is a sign that the matter burns within his heart, and that he is therefore prepared for their salvation.
+**And Hashem turned to him.** Until now the angel had been speaking with him, but now Hashem turned to him in prophetic speech (for the angel serves as an intermediary to Him, and precedes the revelation before the word of Hashem is disclosed — as happened when Joshua was in Jericho). And He said, “Go in this your strength,” meaning: either the strength already found in him — the strength of valor — as shown by what was said about him preparing to flee from Midian, upon which this existing strength was now infused with abundant Divine influence sufficient to save Israel. Or, it refers to the strength of his argument — for after it was seen that he contends over the withdrawal of Divine Providence from Israel, this is a sign that the matter burns within his heart, and that he is therefore prepared for their salvation.
 
 
 
@@ -2588,13 +2457,7 @@ Or, it refers to the strength of his argument — for after it was seen that he 
 **במה אושיע את ישראל.** הנה חשב תחלה כי תהיה התשועה ע"י אמצעיים טבעיים אחר שהיה הצווי ע"י המלאך שזה מורה על מלחמה באמצעות הטבע, כמו שאמר הנה אנכי שולח מלאך לפניך וכמש"ש, ואמר מה יהיו האמצעיים לזה, אם רוב עם הנה אלפי הדל במנשה. ואם שישמעו ישראל לקולי, אנכי הצעיר בבית אבי?!
 
 
-**With what shall I save Israel?** At first he thought that the deliverance would come through natural means, since the command had come by way of an angel — and this indicates warfare conducted through natural agency, as it says, “Behold, I send an angel before you,” and as explained there.
-
-Therefore he asked: What will be the means for this?
-
-If it is through a large army — behold, my thousand (clan) is the poorest in Manasseh.
-
-And if it is that Israel will listen to my voice — I am the youngest in my father’s house?!
+**With what shall I save Israel?** At first he thought that the deliverance would come through natural means, since the command had come by way of an angel — and this indicates warfare conducted through natural agency, as it says, “Behold, I send an angel before you,” and as explained there. Therefore he asked: What will be the means for this? If it is through a large army — behold, my thousand (clan) is the poorest in Manasseh. And if it is that Israel will listen to my voice — I am the youngest in my father’s house?!
 
 
 
@@ -2609,8 +2472,7 @@ And if it is that Israel will listen to my voice — I am the youngest in my fat
 
 
 **And Hashem said to him: For I will be with you.**
-
-Therefore the deliverance will be miraculous — not by the strength of an army,
+ Therefore the deliverance will be miraculous — not by the strength of an army,
 but you shall strike Midian as though he were a single man.
 
 
@@ -2626,8 +2488,7 @@ but you shall strike Midian as though he were a single man.
 **(יז) האות היה צריך על שיקיים הבטחתו להושיעם לא על שהוא מדבר עמו, שע"ז אין צריך אות, ואיך היה לו אות ע"י שהביא מנחה:**
 
 
-**The Questions**
-**(17) The sign was needed in order to confirm that He would fulfill His promise to save them — not to prove that He was speaking with him, for that requires no sign. And how could bringing a gift serve as a sign?**
+**The Questions** **(17) The sign was needed in order to confirm that He would fulfill His promise to save them — not to prove that He was speaking with him, for that requires no sign. And how could bringing a gift serve as a sign?**
 
 
 ###### Malbim on Judges 6:17:2
@@ -2638,19 +2499,7 @@ but you shall strike Midian as though he were a single man.
 **ויאמר אליו אם נא מצאתי חן בעיניך ועשית לי אות שאתה מדבר עמי.** יש לומר בזה שני ענינים: א) אחר שנסתפק אם היה הדבור מה' בעצמו בלא אמצעי שזה מורה על תשועה נסיית שאין צריך עמה עם רב וחיל, כי אין מעצור לה' להושיע ברב או במעט. או אם היה הדבר באמצעות המלאך, שאז גם התשועה תהיה באמצעותו, שזה מורה על תשועה ע"י אמצעים טבעיים ע"י רב עם ומלחמה, וזה שאמר אם נא מצאתי חן בעיניך, שזה שילך ה' בעצמו בקרבם בלא אמצעי מורה על מציאות חן, כמו שאמר אם מצאתי חן בעיניך ילך נא ה' בקרבנו, ובמה יודע איפוא כי מצאתי חן בעיניך הלא בלכתך עמנו. א"כ אבקש אות ע"ז שאדע שאתה מדבר עמי בלא אמצעי, (כי יש מלאך שהוא רק אמצעי שליח מאת ה', ויש שבו תתלבש ההופעה העליונה בעצמה) והאות הזה יהיה ע"י המנחה, שאם הוא רק שליח במלאכות ה' ואין אדוניו אתו, לא יקח עולה ומנחה, כי זובח לאלהים יחרם בלתי לה' לבדו, וכמו שאמר מלאך ה' אל מנוח ואם תעשה עולה לה' תעלנה, ואז או ימנע לקחתה, או יאכלנה כמו שעשו מלאכי אברהם, אבל לא יניח אותו להקריב לו קרבן, ואם יקח מידו קרבן זה האות והמופת שה' שוכן בקרבו. ומענין השני שאף שידע גדעון שה' בעצמו מדבר עמו, בקש אות מצד אחר, כי יש הבדל בין דבור הבא מאת ה' אל הנביא בתורת שליחות, ובין דבור הבא מאת ה' אל היחידים, שהיעודים שבאו ע"י נביא לטובה לא יחזור בהם ה' בשום אופן, אף אם ישתנה ענין העם וירעו מעשיהם, כמו שאמר הנביא אשר ידבר בשם ה' ולא יהיה הדבר ולא יבא הוא הדבר אשר לא דברו ה', אולם היעודים הטובים שבאו אל היחידים שלא בתורת שליחות יצוייר שישתנו לרעה אם ירע המקבל הטוב מעשהו.
 
 
-**And he said to him: “If now I have found favor in Your eyes, then perform for me a sign that You are speaking with me.”**
-
-This may be understood in two ways:
-
-First, he was uncertain whether the speech came from God Himself without intermediary — which would indicate a miraculous salvation requiring no multitude or army, for there is no restraint to Hashem to save by many or by few — or whether it came through an angel, in which case the salvation too would come through intermediary means, suggesting deliverance through natural instruments: a large force and war.
-
-Thus he said: “If now I have found favor in Your eyes.” For that Hashem Himself should go in their midst without intermediary indicates the finding of favor, as it says, “If I have found favor in Your eyes, let Hashem go in our midst,” and “By what then shall it be known that I have found favor in Your eyes? Is it not by Your going with us?”
-
-Therefore he requested a sign — that he might know that You are speaking with me without intermediary. For there is an angel who is merely a messenger sent by God, and there is one within whom the Divine manifestation itself is clothed.
-
-And this sign would be through the offering. For if he is merely a messenger performing Hashem’s mission and his Master is not with him, he would not accept a burnt offering or meal offering, since “he who sacrifices to gods shall be utterly destroyed — except to Hashem alone.” As the angel of Hashem said to Manoah: “If you offer a burnt offering, you must offer it to Hashem.” In that case, he would either refuse it, or eat it, as did the angels with Abraham. But he would not permit a sacrifice to be offered to him. If he accepts a sacrifice from his hand, this would be the sign and proof that Hashem dwells within him.
-
-The second matter is this: Even if Gideon knew that God Himself was speaking with him, he requested a sign from another perspective. There is a difference between speech that comes from God to a prophet in the capacity of mission, and speech that comes from God to individuals. Good promises delivered through a prophet in the form of mission are never retracted, even if the people later worsen their deeds, as it says: “The prophet who speaks in the name of Hashem — if the word does not come to pass — that is the word Hashem did not speak.” But good promises given to individuals not in the capacity of mission may indeed change for the worse if the recipient later corrupts his conduct.
+**And he said to him: “If now I have found favor in Your eyes, then perform for me a sign that You are speaking with me.”** This may be understood in two ways: First, he was uncertain whether the speech came from God Himself without intermediary — which would indicate a miraculous salvation requiring no multitude or army, for there is no restraint to Hashem to save by many or by few — or whether it came through an angel, in which case the salvation too would come through intermediary means, suggesting deliverance through natural instruments: a large force and war. Thus he said: “If now I have found favor in Your eyes.” For that Hashem Himself should go in their midst without intermediary indicates the finding of favor, as it says, “If I have found favor in Your eyes, let Hashem go in our midst,” and “By what then shall it be known that I have found favor in Your eyes? Is it not by Your going with us?” Therefore he requested a sign — that he might know that You are speaking with me without intermediary. For there is an angel who is merely a messenger sent by God, and there is one within whom the Divine manifestation itself is clothed. And this sign would be through the offering. For if he is merely a messenger performing Hashem’s mission and his Master is not with him, he would not accept a burnt offering or meal offering, since “he who sacrifices to gods shall be utterly destroyed — except to Hashem alone.” As the angel of Hashem said to Manoah: “If you offer a burnt offering, you must offer it to Hashem.” In that case, he would either refuse it, or eat it, as did the angels with Abraham. But he would not permit a sacrifice to be offered to him. If he accepts a sacrifice from his hand, this would be the sign and proof that Hashem dwells within him. The second matter is this: Even if Gideon knew that God Himself was speaking with him, he requested a sign from another perspective. There is a difference between speech that comes from God to a prophet in the capacity of mission, and speech that comes from God to individuals. Good promises delivered through a prophet in the form of mission are never retracted, even if the people later worsen their deeds, as it says: “The prophet who speaks in the name of Hashem — if the word does not come to pass — that is the word Hashem did not speak.” But good promises given to individuals not in the capacity of mission may indeed change for the worse if the recipient later corrupts his conduct.
 
 
 ###### Malbim on Judges 6:17:3
@@ -2661,9 +2510,7 @@ The second matter is this: Even if Gideon knew that God Himself was speaking wit
 וכמו שאמר הרמב"ם אולם גם בדבר ה' אל היחידים אם בא עם הדבור איזה אות או מופת לא ישתנה בשום אופן, וזה היה ענין האות שבא בברית בין הבתרים וכדומה שלא ישונה הדבר עוד.
 
 
-**And as the Rambam said: However, even a word of Hashem spoken to individuals — if it is accompanied by some sign or wonder — will not change under any circumstance.**
-
-This was the matter of the sign given at the Covenant Between the Pieces and similar events — that once the divine word was sealed with a sign, the matter would no longer be altered.
+**And as the Rambam said: However, even a word of Hashem spoken to individuals — if it is accompanied by some sign or wonder — will not change under any circumstance.** This was the matter of the sign given at the Covenant Between the Pieces and similar events — that once the Divine word was sealed with a sign, the matter would no longer be altered.
 
 
 ###### Malbim on Judges 6:17:4
@@ -2674,15 +2521,7 @@ This was the matter of the sign given at the Covenant Between the Pieces and sim
 וכמו שאמר הרמב"ן בכ"מ וזה שאמר ועשית לי אות שאתה מדבר עמי. רצה לומר אחר שאתה מדבר עמי לבדי, ואינני שליח אל העם, ובזה יצוייר שישתנה הדבר מפני רוע המעשים, וכמו שאמר שירא יעקב שמא יגרום החטא (ברכות דף ד). ולכן אני מבקש אות שבזה יוכרח הדבר לבא בכל אופן, והאות היה ע"י שקבל מאתו המנחה בדרך פלא ובאש, וזה שאמר אל נא תמוש מזה וכו'.
 
 
-**And as the Ramban explains in many places, this is what he meant when he said: “And perform for me a sign that You are speaking with me.”**
-
-That is, since You are speaking with me alone, and I am not a messenger to the people, it is therefore possible that the matter might change because of sin — as Jacob feared, “perhaps sin will cause [the promise not to be fulfilled]” (Berakhot 4a).
-
-Therefore I request a sign, so that the matter will necessarily come to pass in every circumstance.
-
-And the sign was that He accepted the offering from him in a miraculous manner, by fire.
-
-Thus he said: “Do not depart from here…”
+**And as the Ramban explains in many places, this is what he meant when he said: “And perform for me a sign that You are speaking with me.”** That is, since You are speaking with me alone, and I am not a messenger to the people, it is therefore possible that the matter might change because of sin — as Jacob feared, “perhaps sin will cause [the promise not to be fulfilled]” (Berakhot 4a). Therefore I request a sign, so that the matter will necessarily come to pass in every circumstance. And the sign was that He accepted the offering from him in a miraculous manner, by fire. Thus he said: “Do not depart from here…”
 
 
 
@@ -2696,12 +2535,7 @@ Thus he said: “Do not depart from here…”
 **וגדעון בא ויעש גדי עזים וכו'.** אחר שבארנו לפי' הראשון שגדעון הסתפק אם יקבלנה בדרך עולה לה', או יאכלנה כמו שעשו מלאכי אברהם. לכן הכין גדי עזים שראוי בין להעלאה בין לאכילה וכן הכין מרק בפרור ובשר בסל שראוי להעלאה ולאכילה, ויוצא אליו אל תחת האלה לראות מה יעשה בו.
 
 
-**And Gideon came and prepared a kid of the goats, etc.** 
-According to the first explanation that we gave — that Gideon was uncertain whether the offering would be accepted as a burnt-offering to Hashem, or whether it would be eaten, as the angels did with Abraham — therefore he prepared a young goat, which was suitable either for offering up or for eating. 
-
-He also prepared broth in a pot and meat in a basket, which were likewise fit either for being offered up or for being eaten. 
-
-And he brought it out to him beneath the terebinth tree, to see what he would do with it.
+**And Gideon came and prepared a kid of the goats, etc.** According to the first explanation that we gave — that Gideon was uncertain whether the offering would be accepted as a burnt-offering to Hashem, or whether it would be eaten, as the angels did with Abraham — therefore he prepared a young goat, which was suitable either for offering up or for eating. He also prepared broth in a pot and meat in a basket, which were likewise fit either for being offered up or for being eaten. And he brought it out to him beneath the terebinth tree, to see what he would do with it.
 
 
 
@@ -2728,9 +2562,7 @@ And he brought it out to him beneath the terebinth tree, to see what he would do
 
 
 **And the angel of God said to him… and the angel of Hashem stretched out the tip of the staff.**
-
-
-We have already explained that an angel cannot receive a sacrifice, for “he who sacrifices to any god shall be destroyed,” unless Hashem Himself dwells within him and the offering is to Hashem alone. Therefore, in the speaking and commanding it was through an intermediary angel, and thus he is called “the angel of God.” But at the moment he stretched out the tip of the staff to receive the offering, it was necessarily that Hashem Himself was dwelling within him and accepting the sacrifice. Therefore in this act he is not called “the angel of God,” for one who sacrifices to a being called god would be liable, but rather “the angel of Hashem.”
+ We have already explained that an angel cannot receive a sacrifice, for “he who sacrifices to any god shall be destroyed,” unless Hashem Himself dwells within him and the offering is to Hashem alone. Therefore, in the speaking and commanding it was through an intermediary angel, and thus he is called “the angel of God.” But at the moment he stretched out the tip of the staff to receive the offering, it was necessarily that Hashem Himself was dwelling within him and accepting the sacrifice. Therefore in this act he is not called “the angel of God,” for one who sacrifices to a being called god would be liable, but rather “the angel of Hashem.”
 
 
 
@@ -2744,8 +2576,7 @@ We have already explained that an angel cannot receive a sacrifice, for “he wh
 **וירא גדעון כי מלאך ה' הוא.** אז ידע שאינו מלאך אלהים שזה מורה על מלאך שליח שאין ה' אתו, כי שם אלהים יבא גם על המלאך, רק שהוא מלאך ה' שזה מורה שה' שוכן בו.
 
 
-**And Gideon saw that he was the angel of Hashem.**
-Then he knew that he was not merely an “angel of God,” which would indicate a messenger-angel without Hashem dwelling within him — for the term “God” can also be used of an angel — but rather that he was the “angel of Hashem,” which signifies that Hashem was dwelling within him.
+**And Gideon saw that he was the angel of Hashem.** Then he knew that he was not merely an “angel of God,” which would indicate a messenger-angel without Hashem dwelling within him — for the term “God” can also be used of an angel — but rather that he was the “angel of Hashem,” which signifies that Hashem was dwelling within him.
 
 
 ###### Malbim on Judges 6:22:2
@@ -2757,9 +2588,7 @@ Then he knew that he was not merely an “angel of God,” which would indicate 
 
 
 **And Gideon said, “Alas, Hashem God! for therefore I have seen…”**
-
-
-That is to say: “For no man can see Hashem and live.” It is impossible for a human being to behold Hashem while still enclosed within the body; such vision can occur only at the moment of death.
+ That is to say: “For no man can see Hashem and live.” It is impossible for a human being to behold Hashem while still enclosed within the body; such vision can occur only at the moment of death.
 
 
 ###### Malbim on Judges 6:22:3
@@ -2770,9 +2599,7 @@ That is to say: “For no man can see Hashem and live.” It is impossible for a
 וכמו שאמר (בספרא ויקרא פרק ב) בחייהם אינם רואים אבל במיתתם רואים את השכינה, שנאמר כי לי תכרע כל ברך, ובזה חשב שימות. וגם לפי פירוש המפרשים שהיה מסופק אם הוא נביא או מלאך, עלה במחשבתו שא"א שהאדם יראה מלאך שעצמותו הוא רוחני מובדל מחמר ואיך יראהו האדם מוגשם בחומר, רק לפני מותו, שאז יש לו דמיון אל המלאך שהנפש הרוחנית מוכנת אז להתפשט מן הגולם כמו שהמלאך המתראה בגולם מוכן להפשיטו תיכף ואז הדומה יראה את הדומה.
 
 
-And as it is said (Sifra, Vayikra, ch. 2): “In their lifetime they do not see, but at their death they see the Shechinah,” as it is written, “For to Me every knee shall bow.” Therefore he thought that he would die.
-
-And according to the commentators who explain that he was uncertain whether it was a prophet or an angel — the thought arose in his mind that it is impossible for a human being to see an angel, whose essence is purely spiritual and separate from matter. How then could a man, clothed in physical substance, behold such a being? Only at the moment of death — when the soul, which is spiritual, becomes prepared to separate from its bodily shell — does it resemble the angel, who appears clothed in form yet is ready at once to divest himself of it. And then, the like can behold the like.
+And as it is said (Sifra, Vayikra, ch. 2): “In their lifetime they do not see, but at their death they see the Shechinah,” as it is written, “For to Me every knee shall bow.” Therefore he thought that he would die. And according to the commentators who explain that he was uncertain whether it was a prophet or an angel — the thought arose in his mind that it is impossible for a human being to see an angel, whose essence is purely spiritual and separate from matter. How then could a man, clothed in physical substance, behold such a being? Only at the moment of death — when the soul, which is spiritual, becomes prepared to separate from its bodily shell — does it resemble the angel, who appears clothed in form yet is ready at once to divest himself of it. And then, the like can behold the like.
 
 
 ###### Malbim on Judges 6:22:4
@@ -2808,8 +2635,7 @@ And this is what he meant when he said, “Alas! for therefore I have seen” �
 **ויאמר לו ה' שלום לך.** השלום הוא הפך המות שסבתו הוא פירוד והתנגדות היסודות, וכשיש שלום במוסדי הגויה ובין הגוף והנפש אין אסון, כמו שאמר הנני נותן לו את בריתי שלום, והשלום הזה היה ג"כ סבת ראייתו המלאך שלא עצר החומר בעד הנפש להשיג, ולכן אל תירא, לא תמות לא מיתת הגוף ולא מיתת הנפש כי נמחלו עונותיך, כמו שאמר שלום שלום לרחוק ולקרוב אמר ה' ורפאתיו.
 
 
-**And Hashem said to him, “Peace be to you.”**
-Peace is the opposite of death, whose cause is the separation and conflict of the elements. When there is peace among the foundations of the body and between body and soul, there is no destruction — as it is said, “Behold, I give him My covenant of peace.” This peace was also the cause that he was able to see the angel, for the material substance did not hinder the soul from perception. Therefore, “Do not fear; you shall not die” — neither the death of the body nor the death of the soul — for your sins have been forgiven, as it is said, “Peace, peace to him who is far and to him who is near, says Hashem, and I will heal him.”
+**And Hashem said to him, “Peace be to you.”** Peace is the opposite of death, whose cause is the separation and conflict of the elements. When there is peace among the foundations of the body and between body and soul, there is no destruction — as it is said, “Behold, I give him My covenant of peace.” This peace was also the cause that he was able to see the angel, for the material substance did not hinder the soul from perception. Therefore, “Do not fear; you shall not die” — neither the death of the body nor the death of the soul — for your sins have been forgiven, as it is said, “Peace, peace to him who is far and to him who is near, says Hashem, and I will heal him.”
 
 
 
@@ -2823,8 +2649,7 @@ Peace is the opposite of death, whose cause is the separation and conflict of th
 **ויבן שם מזבח.** אחרי ראה שנעשה מופת במקום הזה. ויקרא לו ה' שלום, לפי הפשט פי' שה' קרא לו שלום, (וכן דעת בעל הטעמים בשם הטפחא על השם) ורצה לומר שאחר שבני עירו היו עובדי ע"ז, והיה מתירא שיפריעו מעשיו כמו שהרסו את המזבח השני שנבנה אח"ז על המזבח הזה כמו שאמר אח"ז, מזבח הזה קרא ה' לו שלום שלא הרסוהו בני העיר והוא עוד עד היום בעפרת קיים לזכר הנס.
 
 
-**And he built there an altar.**
-After he saw that a miracle had been performed in that place, he built an altar. And he called it “Hashem is Peace.” According to the plain meaning, it means that he called Hashem “Peace” (and so is the opinion of the master of the cantillation marks, placing the disjunctive accent on the Name). That is to say, since the people of his town were idol worshipers and he feared they might interfere with his actions — as indeed they later destroyed the second altar that was built afterward — this altar he called “Hashem is Peace,” for Hashem granted it peace, that the townsmen did not destroy it. And it remains to this day in Ophrah as a memorial of the miracle.
+**And he built there an altar.** After he saw that a miracle had been performed in that place, he built an altar. And he called it “Hashem is Peace.” According to the plain meaning, it means that he called Hashem “Peace” (and so is the opinion of the master of the cantillation marks, placing the disjunctive accent on the Name). That is to say, since the people of his town were idol worshipers and he feared they might interfere with his actions — as indeed they later destroyed the second altar that was built afterward — this altar he called “Hashem is Peace,” for Hashem granted it peace, that the townsmen did not destroy it. And it remains to this day in Ophrah as a memorial of the miracle.
 
 
 ###### Malbim on Judges 6:24:2
@@ -2872,14 +2697,7 @@ And our Sages said concerning this (Shabbat 12b): “Here the Name itself is cal
 **ויהי בלילה ההוא.** הנה ביום בנה את המזבח, ולא נזכר שהקריב עליו קרבן כי היה ירא להקריב ביום מפני אנשי העיר ובלילה רצה להקריב כמו שאמר (פסוק כז) ויהי כאשר ירא וכו' ויעש לילה וכאשר פנה במחשבתו, מה יקריב איל או כבש או גדי, א"ל ה' קח את פר השור אשר לאביך, רצה לומר אותו תקריב ולכך לא באר לו שיקריבנו, כי הוא מענה על ספיקו מה יקריב, השיב את השור אשר לאביך תקריב, עוד הוסיף וצוהו דבר חדש, שיקח פר השני שבע שנים, הפר השני היה של בני העיר לא של אביו והיה מתפטם שבע שנים, שבעת החלו מדין למשול על ישראל נדרו להקריב פר הזה לע"ז עת יושעו ממדין, ופטמוהו משך זמן ממשלת מדין שהיה שבע שנים, ובאר לו מה יעשה בפר השני, צוהו שאחר שיקריב הפר הראשון על המזבח, יהרס את מזבח הבעל ויכרות את האשרה שעליו.
 
 
-**And it came to pass that night.**
-By day he had built the altar, but it is not stated that he offered a sacrifice upon it, for he feared to offer one by day because of the townsmen. Therefore he intended to offer it at night, as it is said (v. 27), “And it was when he feared…” and so he did it by night.
-
-When he turned in his thoughts to consider what he should offer — whether a ram, a lamb, or a goat — Hashem said to him: “Take the bull of your father.” That is, you shall offer that one. Therefore it did not explicitly state that he was to sacrifice it, for this was an answer to his doubt about what he should bring — Hashem replied: “The bull that belongs to your father you shall offer.”
-
-Then He added and commanded him something new: that he should take the second bull, seven years old. This second bull belonged not to his father but to the townsmen, and it had been fattened for seven years. When Midian began to rule over Israel, they had vowed to offer this bull to idolatry when they would be delivered from Midian, and they had fattened it throughout the seven years of Midian’s rule.
-
-He then explained what he was to do with the second bull: after he would offer the first bull upon the altar, he was to demolish the altar of Baal and cut down the Asherah that was upon it.
+**And it came to pass that night.** By day he had built the altar, but it is not stated that he offered a sacrifice upon it, for he feared to offer one by day because of the townsmen. Therefore he intended to offer it at night, as it is said (v. 27), “And it was when he feared…” and so he did it by night. When he turned in his thoughts to consider what he should offer — whether a ram, a lamb, or a goat — Hashem said to him: “Take the bull of your father.” That is, you shall offer that one. Therefore it did not explicitly state that he was to sacrifice it, for this was an answer to his doubt about what he should bring — Hashem replied: “The bull that belongs to your father you shall offer.” Then He added and commanded him something new: that he should take the second bull, seven years old. This second bull belonged not to his father but to the townsmen, and it had been fattened for seven years. When Midian began to rule over Israel, they had vowed to offer this bull to idolatry when they would be delivered from Midian, and they had fattened it throughout the seven years of Midian’s rule. He then explained what he was to do with the second bull: after he would offer the first bull upon the altar, he was to demolish the altar of Baal and cut down the Asherah that was upon it.
 
 
 
@@ -2893,16 +2711,7 @@ He then explained what he was to do with the second bull: after he would offer t
 **ובנית מזבח.** שמן האבנים של מזבח הבעל שנהרס יבנה מזבח לה', על ראש המעוז הזה במערכה, צוהו שיבנה המזבח השני על המזבח הראשון שבנה על הצור, בענין שיבנה מזבח על גבי מזבח, ועל זה אמר על ראש המעוז, שרצה לומר שמזבח הראשון עז וחזק לבנות עליו, ושיהיה המזבח השני על המערכה ששם העלה הפר הראשון, ולקחת את הפר השני והעלית עולה בעצי האשרה, בענין שאבני מזבח של ע"ז היו לה' ועצי האשרה לעצים והפר לעולה, להורות כי ה' הוא יפדם ממדין וגם שימסור נפשו לקדש ש"ש ולהראות שאין ממש בע"ז.
 
 
-**And you shall build an altar.**
-From the stones of the altar of Baal that was demolished he was to build an altar to Hashem.
-
-“On the top of this stronghold, in proper arrangement” — he commanded him to build the second altar upon the first altar that he had built upon the rock, so that one altar would be constructed upon another. This is the meaning of “on the top of this stronghold,” that is, that the first altar was firm and strong enough to build upon it.
-
-And that the second altar should be upon the arrangement — that is, upon the place where he had offered the first bull.
-
-“And you shall take the second bull and offer it as a burnt offering with the wood of the Asherah” — so that the stones of the altar of idolatry would become for Hashem, and the wood of the Asherah would serve as fuel, and the bull would be for a burnt offering.
-
-All this was to demonstrate that Hashem would redeem them from Midian, and also that he was prepared to risk his life to sanctify the Name and to show that there is no substance in idolatry.
+**And you shall build an altar.** From the stones of the altar of Baal that was demolished he was to build an altar to Hashem. “On the top of this stronghold, in proper arrangement” — he commanded him to build the second altar upon the first altar that he had built upon the rock, so that one altar would be constructed upon another. This is the meaning of “on the top of this stronghold,” that is, that the first altar was firm and strong enough to build upon it. And that the second altar should be upon the arrangement — that is, upon the place where he had offered the first bull. “And you shall take the second bull and offer it as a burnt offering with the wood of the Asherah” — so that the stones of the altar of idolatry would become for Hashem, and the wood of the Asherah would serve as fuel, and the bull would be for a burnt offering. All this was to demonstrate that Hashem would redeem them from Midian, and also that he was prepared to risk his life to sanctify the Name and to show that there is no substance in idolatry.
 
 
 ###### Malbim on Judges 6:26:2
@@ -2927,8 +2736,7 @@ And our Sages said: Seven things were permitted on that night.
 **ויקח גדעון עשרה אנשים.** כי היה צריך להקריב הפר הא' ואח"כ לבנות מזבח על המערכה ואם היה עושה לבדו היה מתארך עד היום לקח אנשים לעזרו, ומפרש כי היה מתירא מעשות יומם.
 
 
-**And Gideon took ten men.**
-For he needed first to offer the first bull, and afterward to build an altar upon the arrangement; and had he done it alone, it would have taken until daylight. Therefore he took men to assist him. And it explains that he was afraid to do it by day.
+**And Gideon took ten men.** For he needed first to offer the first bull, and afterward to build an altar upon the arrangement; and had he done it alone, it would have taken until daylight. Therefore he took men to assist him. And it explains that he was afraid to do it by day.
 
 
 
@@ -2942,8 +2750,7 @@ For he needed first to offer the first bull, and afterward to build an altar upo
 **והנה נתץ.** יש הבדל בין הריסה לנתיצה, ההורס יפרק הבנין, והנותץ שובר כל אבן לשברים, ובאמת לא נתץ רק ההרס, כמו שאמר: והרסת את מזבח הבעל כי לקח האבנים בשלמות ובנאם לה', רק הם שלא ידעו שבנה מזבח מן האבנים האלה חשבו שנתץ ושבר.
 
 
-**And behold, the altar was torn down.**
-There is a difference between demolition and tearing down: one who demolishes dismantles the structure, but one who tears down shatters each stone into fragments. In truth, he did not tear it down but only demolished it, as it is said, “and you shall demolish the altar of Baal,” for he took the stones intact and built with them for Hashem. But they, not knowing that he had rebuilt an altar from those stones, assumed that he had smashed and shattered it.
+**And behold, the altar was torn down.** There is a difference between demolition and tearing down: one who demolishes dismantles the structure, but one who tears down shatters each stone into fragments. In truth, he did not tear it down but only demolished it, as it is said, “and you shall demolish the altar of Baal,” for he took the stones intact and built with them for Hashem. But they, not knowing that he had rebuilt an altar from those stones, assumed that he had smashed and shattered it.
 
 
 ###### Malbim on Judges 6:28:2
@@ -2954,10 +2761,7 @@ There is a difference between demolition and tearing down: one who demolishes di
 **ואת הפר הועלה.** מלת את כמו עם, רצה לומר האשרה עם הפר הועלה על המזבח הבנוי, (ובלי ספק הרסו אנשי העיר את מזבח הבנוי רק שהמזבח התחתון לא יכלו להרסו ולכן קראו מעוז. והיה בהשגחת ה' שקרא לו שלום כנ"ל).
 
 
-**And the bull was offered.**
-The word “et” here means “with,” that is, the Asherah together with the bull was offered upon the altar that had been built.
-
-(And without doubt the townsmen destroyed the altar that had been built above, but the lower altar they were unable to demolish; therefore it was called a stronghold. And it was by the providence of Hashem that it was called “Peace,” as explained above.)
+**And the bull was offered.** The word “et” here means “with,” that is, the Asherah together with the bull was offered upon the altar that had been built. (And without doubt the townsmen destroyed the altar that had been built above, but the lower altar they were unable to demolish; therefore it was called a stronghold. And it was by the Providence of Hashem that it was called “Peace,” as explained above.)
 
 
 
@@ -2983,14 +2787,7 @@ The word “et” here means “with,” that is, the Asherah together with the 
 **ויאמר יואש.** אמר להם ממה נפשך, אם תחשבו שיש יכולת ביד הבעל לנקום על כבודו רק שאינו רוצה לריב, א"כ האתם תריבון לבעל כיון שאינו רב ריבו בעצמו, ואם תחשבו כי רוצה לריב רק שאין לו יכולת, ע"ז א"כ האתם תושיעון אותו אחר שאין לו תשועה בעצמו, כי אז הלא איש אשר יריב לו יומת עד הבקר.
 
 
-**And Joash said.**
-He said to them: Either way, your claim collapses.
-
-If you think that Baal has the power to avenge his own honor, but simply chooses not to contend — then why should you contend for Baal, if he does not plead his own cause?
-
-And if you think that he wishes to contend but lacks the power — then why should you save him, if he cannot save himself?
-
-Therefore, whoever contends for him shall be put to death by morning.
+**And Joash said.** He said to them: Either way, your claim collapses. If you think that Baal has the power to avenge his own honor, but simply chooses not to contend — then why should you contend for Baal, if he does not plead his own cause? And if you think that he wishes to contend but lacks the power — then why should you save him, if he cannot save himself? Therefore, whoever contends for him shall be put to death by morning.
 
 
 ###### Malbim on Judges 6:31:3
@@ -3001,11 +2798,7 @@ Therefore, whoever contends for him shall be put to death by morning.
 למה המתין כל הלילה והחריש לו ואם היה יכולת בידו היה ראוי שימית את גדעון עד הבקר והרי גדעון חי, הרי אין לו יכולת. ואם תשיבו שאינו רוצה לריב, גם זה שקר, כי אם אלהים הוא ירב לו כי נתץ את מזבחו, בודאי היה רב ריבו ולא היה מחריש ע"ז, רק שאינו אלהים ואין לו כח, ואין בו ממש.
 
 
-Why did he wait all night and remain silent? If he truly had power, he should have killed Gideon by morning — yet Gideon lives. This proves that he has no power.
-
-And if you reply that he does not wish to contend, that too is false — for if he were truly a god, he would surely plead his own cause because his altar was torn down; he would not remain silent over such a matter.
-
-Rather, he is no god, he has no power, and there is nothing in him.
+Why did he wait all night and remain silent? If he truly had power, he should have killed Gideon by morning — yet Gideon lives. This proves that he has no power. And if you reply that he does not wish to contend, that too is false — for if he were truly a god, he would surely plead his own cause because his altar was torn down; he would not remain silent over such a matter. Rather, he is no god, he has no power, and there is nothing in him.
 
 
 
@@ -3019,10 +2812,7 @@ Rather, he is no god, he has no power, and there is nothing in him.
 **ויקרא לו.** למען ידעו מזה שהבעל הבל קרא לו בשם זה שיש לומר מריבה עם הבעל והוא כופר בו ועובד את ה', ובזה נתקיים הכוונה העליונה להרחיקם ע"י מעשה הזאת מע"ז וזה היה הכנה אל התשועה אשר הבטיח, שא"א שיושעו בעודם מאמינים בבעל.
 
 
-**And he called him.**
-So that they would understand from this that Baal is vanity, he called him by this name — meaning “let Baal contend,” thereby openly denying Baal and serving Hashem.
-
-In this way the higher purpose was fulfilled: through this act they were distanced from idolatry. And this was a preparation for the deliverance that had been promised, for it is impossible for them to be saved while they still believe in Baal.
+**And he called him.** So that they would understand from this that Baal is vanity, he called him by this name — meaning “let Baal contend,” thereby openly denying Baal and serving Hashem. In this way the higher purpose was fulfilled: through this act they were distanced from idolatry. And this was a preparation for the deliverance that had been promised, for it is impossible for them to be saved while they still believe in Baal.
 
 
 
@@ -3036,11 +2826,7 @@ In this way the higher purpose was fulfilled: through this act they were distanc
 **ורוח ה'.** הוא רוח גבורה, כמו שאמר המורה, המדרגה הראשונה מהנבואה שיחול רוח האלהים על איש אחד להציל גוי כולו, **ויתקע בשופר.** לסימן שיתקבצו למלחמה, ויזעק אביעזר משפחתו ועירו:
 
 
-**And the spirit of Hashem.**
-This was a spirit of might, as the Guide explains — the first level of prophecy, when the spirit of God rests upon a man to deliver an entire nation.
-
-**And he sounded the shofar.**
-As a signal for them to assemble for war; and Abiezer — his clan and his town — were summoned.
+**And the spirit of Hashem.** This was a spirit of might, as the Guide explains — the first level of prophecy, when the spirit of God rests upon a man to deliver an entire nation. **And he sounded the shofar.** As a signal for them to assemble for war; and Abiezer — his clan and his town — were summoned.
 
 
 
@@ -3066,14 +2852,7 @@ As a signal for them to assemble for war; and Abiezer — his clan and his town 
 **ויאמר גדעון.** לא בקש את האות למען דעת אם יש ביכולת אלהים להושיע, שנסיון כזה אסור שמורה מיעוט אמונה. וכמו שאמר רבינו סעדיה רק באשר ראה כי הדור ההוא בלתי ראוי לתשועה. שהגם שבני עירו עזבו את הבעל, עדן היו יתר השבטים משתחוים אליו כמו שהיו בהכורעים על ברכיהם, ומצד זה בקש אות אם יספיק זכותו הקטן לתשועה זו, והנה בקש שתי אותות, כי המופת לא יושלם רק בשיבחן בשני צדדים, שתחלה חשב שיתקיים הטל יותר על הארץ שלפי טבע קרירותה תתקיים בה הליחות זמן יותר ארוך, ואח"כ חשב להפך שיש לומר שהגזה מצד רפיונה וספגיותה תמשך אליה את הטל יותר, כמו שאמר בעל העקדה, ולזה במופת הראשון אמר: ויזר את הגזה כי עקר המופת שהתקיים בה הטל אח"כ, כי המשכת הטל בתחלתו הוא בטבע הגזה, ובמופת השני אמר: ויהי חורב אל הגזה, שהיה עקר המופת מה שהיה חורב בתחלתו ולא משכה אליה את הטל כלל עם ספגיותה, וכן היה צריך שני המופתים האלה לפי הנמשל, כי תחלה נסתפק אם יספיק זכותו הקטן שיושעו ישראל אף שהם עובדי ע"ז, וע"כ אמר אם ישך מושיע בידי, רצה לומר בזכותי את ישראל, והנה זכותו התחיל בגורן ששם התראה אליו המלאך.
 
 
-**And Gideon said.**
-He did not request the sign in order to know whether God was able to save — for such a test is forbidden, as it indicates a lack of faith, as Rabbeinu Saadia explained. Rather, he saw that that generation was unworthy of deliverance. Although the people of his town had abandoned Baal, the other tribes were still bowing to him, like those who knelt upon their knees. Therefore he sought a sign whether his small merit would suffice for this salvation.
-
-He asked for two signs, because a wonder is not complete unless it is tested from two sides. At first he reasoned that dew would naturally remain longer upon the ground, since by its nature and coolness it retains moisture more steadily. Afterwards he reasoned the opposite — that the fleece, by its softness and absorbent quality, might draw the dew more strongly to itself, as the author of the Akedah explains.
-
-Therefore in the first sign it says, “And he wrung the fleece,” for the main wonder there was that the dew remained upon it afterward; since the initial attraction of dew to fleece could be natural. In the second sign it says, “And there was dryness upon the fleece,” for the primary wonder was that it was dry from the outset and did not draw the dew at all despite its absorbent nature.
-
-And these two signs were also necessary according to the allegorical meaning. For at first he doubted whether his small merit would suffice that Israel be saved even though they were idol worshipers; therefore he said, “If You will save Israel by my hand,” meaning by my merit. And his merit began at the threshing floor, where the angel had appeared to him.
+**And Gideon said.** He did not request the sign in order to know whether God was able to save — for such a test is forbidden, as it indicates a lack of faith, as Rabbeinu Saadia explained. Rather, he saw that that generation was unworthy of deliverance. Although the people of his town had abandoned Baal, the other tribes were still bowing to him, like those who knelt upon their knees. Therefore he sought a sign whether his small merit would suffice for this salvation. He asked for two signs, because a wonder is not complete unless it is tested from two sides. At first he reasoned that dew would naturally remain longer upon the ground, since by its nature and coolness it retains moisture more steadily. Afterwards he reasoned the opposite — that the fleece, by its softness and absorbent quality, might draw the dew more strongly to itself, as the author of the Akedah explains. Therefore in the first sign it says, “And he wrung the fleece,” for the main wonder there was that the dew remained upon it afterward; since the initial attraction of dew to fleece could be natural. In the second sign it says, “And there was dryness upon the fleece,” for the primary wonder was that it was dry from the outset and did not draw the dew at all despite its absorbent nature. And these two signs were also necessary according to the allegorical meaning. For at first he doubted whether his small merit would suffice that Israel be saved even though they were idol worshipers; therefore he said, “If You will save Israel by my hand,” meaning by my merit. And his merit began at the threshing floor, where the angel had appeared to him.
 
 
 
@@ -3087,10 +2866,7 @@ And these two signs were also necessary according to the allegorical meaning. Fo
 **ואמר.** שיציג גזת הצמר בגורן וינסה בטל שהטל היא מליצה על שפע האלהית היורדת מלמעלה (כמו שאמר אהיה כטל לישראל, שראשי נמלא טל) ואם טל יהיה על הגזה לבדה הגם שעל כל הארץ יהיה חרב, רצה לומר הגם שכל הארץ שהוא כל ישראל בלתי ראוים אל הטל העליון ויהיה שם חורב, בכ"ז אמשיך הטל בזכותי, אז וידעתי כי תושיע בידי ובזכותי את ישראל.
 
 
-**And he said.**
-He placed a fleece of wool on the threshing floor and tested it with dew — for dew is a metaphor for the divine influx descending from above, as it is said, “I will be as the dew to Israel,” and “My head is filled with dew.”
-
-“If there shall be dew upon the fleece alone, while upon all the earth there is dryness” — that is, even if all the land, meaning all Israel, is unworthy of the heavenly dew and remains dry — nevertheless, if by my merit I draw down the dew, then I shall know that You will save Israel by my hand and through my merit.
+**And he said.** He placed a fleece of wool on the threshing floor and tested it with dew — for dew is a metaphor for the Divine influx descending from above, as it is said, “I will be as the dew to Israel,” and “My head is filled with dew.” “If there shall be dew upon the fleece alone, while upon all the earth there is dryness” — that is, even if all the land, meaning all Israel, is unworthy of the heavenly dew and remains dry — nevertheless, if by my merit I draw down the dew, then I shall know that You will save Israel by my hand and through my merit.
 
 
 
@@ -3104,14 +2880,7 @@ He placed a fleece of wool on the threshing floor and tested it with dew — for
 **ויהי כן וישכם כו' את הגזה.** פי' חז"ל שלא הזכיר שהיה על כל הארץ חורב, כי ברית כרותה לטל בל יעצר, והיה המופת רק רבוי הטל בגזה, והנה מופת זה היה קרוב אל הטבע, שהיה רבוי הטל ותוספתו, והנה ה' הבטיח לו שני דברים: א) שיושיע את העם בידו, ב) שיושיעם בידו לבדו בלא עם רב בדרך נס, ועל פרט זה רצה מופת אחר נסיי, שיבטח שזכותו הקטן יספיק לנס, ולכן אמר: אנסה נא עוד הפעם, שכבר בארתי במקום אחר שיש הבדל בין נסיון לבחינה שגדר הנסיון הוא בשרוצה לדעת אם יוכל המנוסה לעמוד על מדרגה יותר גדולה ממה שהוא, וכן רצה לנסות אם יעלה ממדרגה הקרובה אל הטבע אל מדרגת הנס, והוא שיהיה חורב אל הגזה לבדה, שזה לגמרי נגד הטבע, ומבואר בכללי הלשון, שבעל הלשון יקדים תמיד את מה שהוא עיקר במאמר, ולפי זה היה לו לומר בהפך, אם על כל הארץ יהיה חורב ואל הגזה יהיה טל, אך למ"ש שני הבחינות היו בגזה, כי גם בפעם הראשון ידע שא"א שיעצר הטל, רק בחן אם יהיה כ"כ טל בשפע על הגזה עד שלפי ערכו יהיה על הארץ חורב, ועל זה אמר.
 
 
-**And it was so; and he rose early… and wrung the fleece.**
-Our Sages explained that it does not state that there was dryness upon all the earth, because there is a covenant with the dew that it is never withheld. Thus, the wonder consisted only in the abundance of dew upon the fleece.
-
-This sign was still close to nature — it was an increase and excess of dew. Yet Hashem had promised him two things: (1) that He would save the people by his hand, and (2) that He would save them by his hand alone, without a great army, in a miraculous manner. Concerning this second point he sought another sign — one fully miraculous — to assure him that his small merit would suffice for a miracle.
-
-Therefore he said, “Let me test, I pray, once more.” As I have explained elsewhere, there is a difference between a test (nisayon) and an examination (bechinah): a test seeks to determine whether one can rise to a higher level than his current state. So too here — he wished to see whether he would ascend from a sign near nature to a sign wholly miraculous, namely, that the fleece alone would be dry. That is entirely against nature.
-
-According to the principles of language, one ordinarily places first what is primary in the statement. Thus he should have said, “If upon all the earth there is dryness and upon the fleece there is dew.” But according to what we have explained, both signs centered on the fleece. For even in the first instance he knew that dew could not be entirely withheld; rather, he tested whether there would be such abundance upon the fleece that, relative to it, the earth would appear dry. Therefore the wording is as stated.
+**And it was so; and he rose early… and wrung the fleece.** Our Sages explained that it does not state that there was dryness upon all the earth, because there is a covenant with the dew that it is never withheld. Thus, the wonder consisted only in the abundance of dew upon the fleece. This sign was still close to nature — it was an increase and excess of dew. Yet Hashem had promised him two things: (1) that He would save the people by his hand, and (2) that He would save them by his hand alone, without a great army, in a miraculous manner. Concerning this second point he sought another sign — one fully miraculous — to assure him that his small merit would suffice for a miracle. Therefore he said, “Let me test, I pray, once more.” As I have explained elsewhere, there is a difference between a test (nisayon) and an examination (bechinah): a test seeks to determine whether one can rise to a higher level than his current state. So too here — he wished to see whether he would ascend from a sign near nature to a sign wholly miraculous, namely, that the fleece alone would be dry. That is entirely against nature. According to the principles of language, one ordinarily places first what is primary in the statement. Thus he should have said, “If upon all the earth there is dryness and upon the fleece there is dew.” But according to what we have explained, both signs centered on the fleece. For even in the first instance he knew that dew could not be entirely withheld; rather, he tested whether there would be such abundance upon the fleece that, relative to it, the earth would appear dry. Therefore the wording is as stated.
 
 
 
@@ -3125,12 +2894,7 @@ According to the principles of language, one ordinarily places first what is pri
 **ויעש אלהים כן בלילה ההוא.** כי במופת השני לא היה לטבע מבוא כלל והיה אצבע אלהים לבדו, אולם היה צריך לשני מופתים גם לפי הנמשל, כי תחלה נצח את מחנה מדין לבדו, וע"ז היה המשל הראשון, ואח"כ ויצעק כל איש ישראל וירדפו, והם נצחו לבסוף בלעדו, כמו שאמר (ח' ב') ומה יכלתי עשות ככם, וע"ז הורה המשל השני שהגם שהיה חורב על הגזה רצה לומר שכח גדעון לא הספיק לגמור הנצחון, היה טל על הארץ.
 
 
-**And God did so that night.**
-For in the second sign there was no room at all for nature; it was purely the finger of God.
-
-And the two signs were necessary also according to the allegory. At first he defeated the camp of Midian by himself, and to this the first sign corresponded. Afterwards, “all the men of Israel cried out and pursued,” and they achieved the final victory without him, as it is said (8:2), “What was I able to do compared to you?”
-
-This was symbolized by the second sign: although there was dryness upon the fleece — that is, Gideon’s strength alone did not suffice to complete the victory — yet there was dew upon the ground, meaning that the divine blessing rested upon the rest of Israel, and through them the deliverance was completed.
+**And God did so that night.** For in the second sign there was no room at all for nature; it was purely the finger of God. And the two signs were necessary also according to the allegory. At first he defeated the camp of Midian by himself, and to this the first sign corresponded. Afterwards, “all the men of Israel cried out and pursued,” and they achieved the final victory without him, as it is said (8:2), “What was I able to do compared to you?” This was symbolized by the second sign: although there was dryness upon the fleece — that is, Gideon’s strength alone did not suffice to complete the victory — yet there was dew upon the ground, meaning that the Divine blessing rested upon the rest of Israel, and through them the deliverance was completed.
 
 
 
@@ -3147,8 +2911,7 @@ This was symbolized by the second sign: although there was dryness upon the flee
 **מצפון מגבעת המורה.** עין חרוד היה בדרום של גבעת המורה והמחנה היה בצפון בעמק:
 
 
-**North of the Hill of Moreh.**
-En-Harod was to the south of the Hill of Moreh, while the camp was to the north in the valley.
+**North of the Hill of Moreh.** En-Harod was to the south of the Hill of Moreh, while the camp was to the north in the valley.
 
 
 
@@ -3162,8 +2925,7 @@ En-Harod was to the south of the Hill of Moreh, while the camp was to the north 
 **רב העם אשר אתך.** ה' רצה שיראו כי ה' עשה חיל בנס, ואם יהיו רב עם יאמרו שהם נצחו.
 
 
-**The people who are with you are too many.**
-Hashem desired that it be evident that He had wrought the victory by miracle. For if there were many people, they would say that they themselves had prevailed.
+**The people who are with you are too many.** Hashem desired that it be evident that He had wrought the victory by miracle. For if there were many people, they would say that they themselves had prevailed.
 
 
 
@@ -3189,10 +2951,7 @@ Hashem desired that it be evident that He had wrought the victory by miracle. Fo
 **מי ירא וחרד.** הנה השפע האלהית לא תחול רק אל המוכנים והראוים לה, ופה היה צריך ב' דברים: א) הכנת הגבורה, ב) הכנת הקדושה לקבל הענין האלהי, כי היה נצחון נאזר בגבורה ובאו בנס נאדרי בכח אלהי, לכן צוה תחלה שישובו היראים ורכי לבב הבלתי מוכנים אל הגבורה, ואח"כ הפריד הכורעים על ברכיהם הבלתי ראויים לנס.
 
 
-**Whoever is fearful and trembling.**
-The divine influx rests only upon those who are prepared and worthy of it. Here two qualifications were required: (1) preparation of courage, and (2) preparation of holiness to receive the divine matter — for this victory would be girded with valor and accomplished by a miracle, adorned with divine strength.
-
-Therefore he first commanded that the fearful and fainthearted return, for they were not prepared for courage. And afterward he separated those who knelt upon their knees, who were unworthy of the miracle.
+**Whoever is fearful and trembling.** The Divine influx rests only upon those who are prepared and worthy of it. Here two qualifications were required: (1) preparation of courage, and (2) preparation of holiness to receive the Divine matter — for this victory would be girded with valor and accomplished by a miracle, adorned with Divine strength. Therefore he first commanded that the fearful and fainthearted return, for they were not prepared for courage. And afterward he separated those who knelt upon their knees, who were unworthy of the miracle.
 
 
 ###### Malbim on Judges 7:3:3
@@ -3203,12 +2962,7 @@ Therefore he first commanded that the fearful and fainthearted return, for they 
 **ישב ויצפר.** רצה לומר ישוב תיכף וילין בהר הגלעד ובבקר ילך לביתו ולא צוה שילכו תיכף לביתם, כי ידע שבלילה תהיה התשועה ואלה רדפו מהר הגלעד אחרי הבורחים ועל זה אמר לשון יצפור, שמורה ג"כ שיעופו מהר כצפרים עפות אחר האויב לא כן הכורעים על ברכיהם צוה שילכו תיכף לביתם, כי אלה היו עובדי ע"ז ולא רצה שישתתפו במלחמה כלל אף לרדוף.
 
 
-**Let him return and depart early.**
-That is, let him return at once and lodge at Mount Gilead, and in the morning go to his home. He did not command them to go home immediately, because he knew that the deliverance would occur at night, and these men would pursue from Mount Gilead after the fleeing enemy.
-
-For this reason he used the expression “depart early” (yitzpor), which also implies flying swiftly like birds after the enemy.
-
-But regarding those who knelt upon their knees, he commanded that they go immediately to their homes, for these were idol worshipers, and he did not wish them to participate in the war at all — not even in the pursuit.
+**Let him return and depart early.** That is, let him return at once and lodge at Mount Gilead, and in the morning go to his home. He did not command them to go home immediately, because he knew that the deliverance would occur at night, and these men would pursue from Mount Gilead after the fleeing enemy. For this reason he used the expression “depart early” (yitzpor), which also implies flying swiftly like birds after the enemy. But regarding those who knelt upon their knees, he commanded that they go immediately to their homes, for these were idol worshipers, and he did not wish them to participate in the war at all — not even in the pursuit.
 
 
 
@@ -3234,8 +2988,7 @@ But regarding those who knelt upon their knees, he commanded that they go immedi
 **עוד העם רב.** תחלה אמר רב העם אשר אתך, כי הקודמים לא היו עובדי ע"ז והיו אתו בדומים לו, ואלה שהיו עובדי ע"ז לא היו אתו.
 
 
-**The people are still too many.**
-At first it said, “The people who are with you are too many,” for the earlier ones were not idol worshipers and were aligned with him — they were with him in spirit. But these, who were idol worshipers, were not truly with him.
+**The people are still too many.** At first it said, “The people who are with you are too many,” for the earlier ones were not idol worshipers and were aligned with him — they were with him in spirit. But these, who were idol worshipers, were not truly with him.
 
 
 ###### Malbim on Judges 7:4:3
@@ -3246,8 +2999,7 @@ At first it said, “The people who are with you are too many,” for the earlie
 **ואצרפנו לך.** רצה לומר מי הראוי ללכת עמך, הוא ילך אתך, רצה לומר כפי כוונתך לפני ה' למלחמה, וכל אשר אמר וכו' הוא לא ילך כלל, לא זו שלא ילך אתך כפי הכוונה הראויה כי גם לא ילך כי עת יראה מלחמה ישוב אחור בהיותו בלתי מאמין.
 
 
-**And I will refine them for you.**
-That is, I will determine who is fit to go with you. Whoever is worthy shall go with you — meaning, according to your intention before Hashem in this war. But of whoever I say, “This one shall not go,” he shall not go at all — not only that he will not go with you in the proper spirit and intention, but he will not go at all, for when he sees the battle he will turn back, being without faith.
+**And I will refine them for you.** That is, I will determine who is fit to go with you. Whoever is worthy shall go with you — meaning, according to your intention before Hashem in this war. But of whoever I say, “This one shall not go,” he shall not go at all — not only that he will not go with you in the proper spirit and intention, but he will not go at all, for when he sees the battle he will turn back, being without faith.
 
 
 
@@ -3261,8 +3013,7 @@ That is, I will determine who is fit to go with you. Whoever is worthy shall go 
 **כל אשר ילק.** רצה לומר הלוקח בידו אל פיו הוא לוקק בלשון משא"כ הכורע ממלא פיו מן המים.
 
 
-**Everyone who laps.**
-That is, one who brings the water with his hand to his mouth is called “lapping,” whereas one who kneels fills his mouth directly from the water.
+**Everyone who laps.** That is, one who brings the water with his hand to his mouth is called “lapping,” whereas one who kneels fills his mouth directly from the water.
 
 
 ###### Malbim on Judges 7:5:2
@@ -3273,11 +3024,7 @@ That is, one who brings the water with his hand to his mouth is called “lappin
 וכפי דעת חז"ל הכורעים רגילים לכרוע לבבואה שלהם. גם הכריעה מורה על בולמוס התאוה לשתות בפעם א' ועל חלישת פרקי האיברים כמו שאמר בעקדה, צוה שיציגם לבד שהם לא ילכו, ואשר ילוק בלשון הוא עצמו מ"ש המלקקים בידם אל פיהם הם הלכו. ולרש"י ז"ל דרך אחר בזה:
 
 
-And according to our Sages, those who knelt were accustomed to kneel before their reflection (as an act connected to idolatry). Moreover, kneeling indicates a gluttonous impulse to drink all at once and a weakening of the limbs, as explained in the Akedah.
-
-Therefore he commanded that those who knelt be set aside, for they would not go. And those who lapped with the tongue — that is, those who brought the water with their hands to their mouths — they were the ones who went.
-
-Rashi, however, explains this matter in a different way.
+And according to our Sages, those who knelt were accustomed to kneel before their reflection (as an act connected to idolatry). Moreover, kneeling indicates a gluttonous impulse to drink all at once and a weakening of the limbs, as explained in the Akedah. Therefore he commanded that those who knelt be set aside, for they would not go. And those who lapped with the tongue — that is, those who brought the water with their hands to their mouths — they were the ones who went. Rashi, however, explains this matter in a different way.
 
 
 
@@ -3291,8 +3038,7 @@ Rashi, however, explains this matter in a different way.
 **וכל היתר.** ותחלה אמר ועשרת אלפים נשארו, וזה כמבואר אצלי שהנשאר הוא בכוונה, והיתר הוא הבלתי צריך והוא למותר.
 
 
-**And all the rest.**
-At first it said, “and ten thousand remained,” and as I have explained elsewhere, what “remains” is something intentional and purposeful. But “the rest” refers to what is unnecessary and superfluous.
+**And all the rest.** At first it said, “and ten thousand remained,” and as I have explained elsewhere, what “remains” is something intentional and purposeful. But “the rest” refers to what is unnecessary and superfluous.
 
 
 
@@ -3318,10 +3064,7 @@ At first it said, “and ten thousand remained,” and as I have explained elsew
 **ויקחו.** הג' מאות איש לקחו הצדה של ההולכים ולכן נמצא בידם ג' מאות כדים ושופרת, ומחנה מדין היה לו מתחת כבר הזכיר זה בפ' א' רק עתה עלה הוא אל ההר והיה המחנה תחתיו.
 
 
-**And they took.**
-The three hundred men took the provisions of those who were departing; therefore there were found in their hands three hundred jars and shofars.
-
-“And the camp of Midian was below him” — this had already been mentioned in verse 1, but now he had ascended the mountain, and the camp was beneath him.
+**And they took.** The three hundred men took the provisions of those who were departing; therefore there were found in their hands three hundred jars and shofars. “And the camp of Midian was below him” — this had already been mentioned in verse 1, but now he had ascended the mountain, and the camp was beneath him.
 
 
 
@@ -3335,13 +3078,7 @@ The three hundred men took the provisions of those who were departing; therefore
 **רד כו' במחנה וכו' ואם ירא וכו' ירד כו' אל המחנה.** במחנה, הוא שיפול במחנה לכבשה, ואל המחנה, הוא שיעמוד מרחוק לשמוע מה ידברו. וזה שאמר ואם ירא אתה רצה לומר לא אפשר להשפיע עליך רוח גבורה שלא תחול על רכי הלבב) רד אתה בעצמך אל המחנה וכו' ואח"כ **תחזקנה ידיך וירדת במחנה** להלחם. **קצה החמשים** פי' המזוינים, כי לא כולם היו מזוינים רק העומדים בקצה על המשמר.
 
 
-**Go down… into the camp… and if you are afraid… go down… to the camp.**
-“In the camp” means to descend upon the camp to conquer it; but “to the camp” means to stand at a distance and hear what they are saying.
-
-Therefore it says, “And if you are afraid” — that is, since it is impossible to bestow upon you a spirit of might if fear remains in your heart — “go down, you yourself, to the camp.” And afterward, “your hands shall be strengthened, and you shall go down into the camp” — to fight.
-
-**To the edge of the armed men.**
-That is, the armed ones, for not all were armed; only those stationed at the edge stood on guard.
+**Go down… into the camp… and if you are afraid… go down… to the camp.** “In the camp” means to descend upon the camp to conquer it; but “to the camp” means to stand at a distance and hear what they are saying. Therefore it says, “And if you are afraid” — that is, since it is impossible to bestow upon you a spirit of might if fear remains in your heart — “go down, you yourself, to the camp.” And afterward, “your hands shall be strengthened, and you shall go down into the camp” — to fight. **To the edge of the armed men.** That is, the armed ones, for not all were armed; only those stationed at the edge stood on guard.
 
 
 
@@ -3367,8 +3104,7 @@ That is, the armed ones, for not all were armed; only those stationed at the edg
 **והנה צליל לחם שעורים.** היה אז ט"ז ניסן שאז קציר שעורים והם באו לבוז קציר שדה, שהוא לחם שעורים, ראה צליל וקול רעש צלילת לחם השעורים שרצו לשללו, שהוא מתהפך במחנה מדין שתחת שתחלה התחבאו מפניהם, נהפך הוא לשלוט בשונאיהם ויבא עד האהל שהוא עד המחנה ששם האהלים.
 
 
-**And behold, a cake of barley bread.**
-It was then the sixteenth of Nisan, the time of the barley harvest, and they had come to plunder the harvest of the fields, which was barley bread. He saw a cake — and heard the sound, the clatter of the barley bread they had come to seize — rolling and overturning in the camp of Midian. Instead of Israel hiding from them as before, it was now reversed: the barley cake came to rule over their enemies. And it came as far as the tent — that is, into the very camp where the tents stood.
+**And behold, a cake of barley bread.** It was then the sixteenth of Nisan, the time of the barley harvest, and they had come to plunder the harvest of the fields, which was barley bread. He saw a cake — and heard the sound, the clatter of the barley bread they had come to seize — rolling and overturning in the camp of Midian. Instead of Israel hiding from them as before, it was now reversed: the barley cake came to rule over their enemies. And it came as far as the tent — that is, into the very camp where the tents stood.
 
 
 ###### Malbim on Judges 7:13:3
@@ -3379,12 +3115,7 @@ It was then the sixteenth of Nisan, the time of the barley harvest, and they had
 **ויכהו ויפל.** הוא ההגדה שיפלו חללים, ויהפכהו למעלה הוא חזיון שני שאח"כ ברחו מן העמק אל ההרים שסביב ושם נפל האהל לגמרי. וזה שאמר: ויען ויאמר וכו'.
 
 
-**And it struck it and it fell.**
-This represents that the slain would fall in battle.
-
-“And it overturned it upward” — this was a second vision: afterward they would flee from the valley to the surrounding hills, and there the tent would collapse completely.
-
-And therefore it says, “And his fellow answered and said…”
+**And it struck it and it fell.** This represents that the slain would fall in battle. “And it overturned it upward” — this was a second vision: afterward they would flee from the valley to the surrounding hills, and there the tent would collapse completely. And therefore it says, “And his fellow answered and said…”
 
 
 
@@ -3398,13 +3129,7 @@ And therefore it says, “And his fellow answered and said…”
 **ויחץ.** ספר מתחבולותיו שמונה דברים: א) שחצה אותם לג' ראשים לבא מג' רוחות, ב) שנתן שופרות ביד כלם להבהילם בתרועת מלחמה, ג) לפידים להבהילם בעמוד אש וענן, ד) כדים ריקים, שיתראו הלפידים פתאום ושישמעו קול בהתפוצץ הכדים:
 
 
-**And he divided.**
-He describes eight of his stratagems:
-
-(1) He divided them into three companies, to attack from three directions. 
-(2) He placed shofars in all their hands, to terrify them with the blast of war. 
-(3) Torches — to frighten them with pillars of fire and smoke. 
-(4) Empty jars — so that the torches would suddenly appear, and that a loud crashing sound would be heard when the jars were shattered.
+**And he divided.** He describes eight of his stratagems: (1) He divided them into three companies, to attack from three directions. (2) He placed shofars in all their hands, to terrify them with the blast of war. (3) Torches — to frighten them with pillars of fire and smoke. (4) Empty jars — so that the torches would suddenly appear, and that a loud crashing sound would be heard when the jars were shattered.
 
 
 
@@ -3418,8 +3143,7 @@ He describes eight of his stratagems:
 **ויאמר ממני תראו וכן תעשו.** ה) שלא יעשו עד יעשה הוא, אחר שאנכי בא בקצה המחנה לכן יהיה הוא המתחיל,
 
 
-**And he said, “From me you shall see, and so shall you do.”**
-(5) They were not to act until he acted — for since he was coming to the edge of the camp, he would be the one to begin.
+**And he said, “From me you shall see, and so shall you do.”** (5) They were not to act until he acted — for since he was coming to the edge of the camp, he would be the one to begin.
 
 
 ###### Malbim on Judges 7:17:2
@@ -3444,8 +3168,7 @@ He describes eight of his stratagems:
 **ותקעתי וכו' ותקעתם כו' גם אתם.** ז) שיהיו התקיעות סביבות כל המחנה שבזה יחשבו שיש גדודים רבים כי בכל גדוד א' תוקע, וכן יחשבו שהם מסובבים סביב אחר שהקול הולך מסביב,
 
 
-**And I will blow the shofar… and you shall also blow the shofars.**
-(7) The blasts were to surround the entire camp, so that they would think there were many battalions — for in every battalion one blows the shofar. And they would imagine themselves encircled, since the sound would travel all around them.
+**And I will blow the shofar… and you shall also blow the shofars.** (7) The blasts were to surround the entire camp, so that they would think there were many battalions — for in every battalion one blows the shofar. And they would imagine themselves encircled, since the sound would travel all around them.
 
 
 ###### Malbim on Judges 7:18:2
@@ -3482,11 +3205,7 @@ He describes eight of his stratagems:
 **ויבא וכו' ראש האשמרת התיכונה.** שאז רובם ישנים אך הקם הקימו את השמרים המתחלפים בכל משמר ובזה ההולכים שכבו לישן והבאים תנומה על עפעפם, **ויתקעו**, גדעון ואנשיו תקעו תחלה. ואז,
 
 
-**And they came… at the beginning of the middle watch.**
-At that time most were asleep; only those who had just risen to relieve the guards were awake. Thus those going off duty were lying down to sleep, and those coming on duty still had drowsiness upon their eyelids.
-
-**And they blew.**
-Gideon and his men blew first. And then—
+**And they came… at the beginning of the middle watch.** At that time most were asleep; only those who had just risen to relieve the guards were awake. Thus those going off duty were lying down to sleep, and those coming on duty still had drowsiness upon their eyelids. **And they blew.** Gideon and his men blew first. And then—
 
 
 
@@ -3500,8 +3219,7 @@ Gideon and his men blew first. And then—
 **ויתקעו שלשת הראשים.** כמו שאמר ממני תראו וכן תעשו.
 
 
-**And the three companies blew.**
-As he had said, “From me you shall see, and so shall you do.”
+**And the three companies blew.** As he had said, “From me you shall see, and so shall you do.”
 
 
 ###### Malbim on Judges 7:20:4
@@ -3512,8 +3230,7 @@ As he had said, “From me you shall see, and so shall you do.”
 **ויחזיקו.** בזה מתחיל לספר המבוכה שנעשה במחנה האויב, אמר בעת שהחזיקו בשמאלם הלפידים ובימינם השופרות לתקוע בעוד שעדן לא תקעו כולם רק הכינו עצמם לתקוע, שאז קראו חרב לה' ולגדעון.
 
 
-**And they held.**
-Here he begins to describe the confusion that arose in the enemy camp. At the moment when they held the torches in their left hands and the shofars in their right hands to blow — while not all had yet blown, but were preparing themselves to do so — at that moment they cried out, “A sword for Hashem and for Gideon.”
+**And they held.** Here he begins to describe the confusion that arose in the enemy camp. At the moment when they held the torches in their left hands and the shofars in their right hands to blow — while not all had yet blown, but were preparing themselves to do so — at that moment they cried out, “A sword for Hashem and for Gideon.”
 
 
 
@@ -3527,16 +3244,7 @@ Here he begins to describe the confusion that arose in the enemy camp. At the mo
 **ויעמדו.** רצה לומר ואז עמדו עדיין איש במקומו סביב למחנה מזה נתהוה כבר רעש במחנה, וירץ כל המחנה התחילו לרוץ זה לפה וזה לפה מתוך בהלה, ויריעו וינוסו אז מקצתם הריעו תרועת מלחמה ומקצתם התחילו לנוס, כי נעשה מבוכה ביניהם.
 
 
-**And they stood.**
-That is, each man still stood in his place around the camp, and from this alone a commotion already arose within the enemy camp.
-
-And all the camp ran.
-
-They began to run — some in one direction and some in another — out of confusion and panic.
-
-And they shouted and fled.
-
-Some of them raised a battle cry, while others began to flee, for great confusion had arisen among them.
+**And they stood.** That is, each man still stood in his place around the camp, and from this alone a commotion already arose within the enemy camp. And all the camp ran. They began to run — some in one direction and some in another — out of confusion and panic. And they shouted and fled. Some of them raised a battle cry, while others began to flee, for great confusion had arisen among them.
 
 
 
@@ -3550,8 +3258,7 @@ Some of them raised a battle cry, while others began to flee, for great confusio
 **ויתקעו.** אבל אחר שכל שלש מאות השופרות התחילו לתקוע בפועל, אז וישם ה' את חרב איש ברעהו כי ע"י שקצתם הריעו תרועת מלחמה וקצתם נסו, חשבו המריעים שהנסים הם אויביהם, וזה נתפשט בכל המחנה, ועי"כ וינס המחנה כולם נתפזרו לכל עבר.
 
 
-**And they blew.**
-But when all three hundred shofars began actually to sound, then Hashem set every man’s sword against his fellow. For since some were shouting a battle cry and others were fleeing, those who shouted assumed that those who fled were enemies. This confusion spread throughout the entire camp, and thus the whole camp fled, scattering in every direction.
+**And they blew.** But when all three hundred shofars began actually to sound, then Hashem set every man’s sword against his fellow. For since some were shouting a battle cry and others were fleeing, those who shouted assumed that those who fled were enemies. This confusion spread throughout the entire camp, and thus the whole camp fled, scattering in every direction.
 
 
 
@@ -3565,8 +3272,7 @@ But when all three hundred shofars began actually to sound, then Hashem set ever
 **ויצעק.** כבר הזכרתי (פ' ג') שלכן אמר לאלה ששלח בראשונה שילינו בהר הגלעד, כדי שיהיו נכונים לרדוף והם באו וזעקו ורדפו.
 
 
-**And he cried out.**
-As I mentioned earlier (v. 3), he instructed those whom he had first sent away to lodge at Mount Gilead so that they would be ready to pursue. And they came, were summoned, and pursued.
+**And he cried out.** As I mentioned earlier (v. 3), he instructed those whom he had first sent away to lodge at Mount Gilead so that they would be ready to pursue. And they came, were summoned, and pursued.
 
 
 
@@ -3580,9 +3286,7 @@ As I mentioned earlier (v. 3), he instructed those whom he had first sent away t
 וכן שלח מלאכים בהר אפרים שילכדו המים והם לכדו המים ותפשו שני מלכי מדין, ומ"ש וירדפו אל מדין (והיה לו לומר אחרי מדין או את מדין) כי רדפום נגד פניהם שעל ידי שלכדו המים באו לפניהם.
 
 
-And likewise he sent messengers to the hill country of Ephraim to seize the waters; and they captured the waters and seized the two kings of Midian.
-
-And the phrase “and they pursued to Midian” — whereas it should have said “after Midian” or “Midian” — means that they pursued them face to face, for by capturing the waters they came before them and cut them off.
+And likewise he sent messengers to the hill country of Ephraim to seize the waters; and they captured the waters and seized the two kings of Midian. And the phrase “and they pursued to Midian” — whereas it should have said “after Midian” or “Midian” — means that they pursued them face to face, for by capturing the waters they came before them and cut them off.
 
 
 
@@ -3611,12 +3315,7 @@ And the phrase “and they pursued to Midian” — whereas it should have said 
 **מה הדבר אשר עשית לנו.** כי תחלה שלח מלאכים במנשה אשר זבולון נפתלי ולא באפרים (ו' לה) רק עתה שלח מלאכים בהר אפרים וזה חרפה גדולה להם, וזה שאמר לבלתי קראות לנו כי הלכת, רק אחר כך בעת גמר המלחמה (ומלת קראות מקור מורכב ממשקל פעלי ל"א ופעלי ל"ה, גלות ירושלים, קרוא מקרא).
 
 
-**What is this thing that you have done to us?**
-For at first he sent messengers to Manasseh, Asher, Zebulun, and Naphtali (6:35), but not to Ephraim. Only now did he send messengers to the hill country of Ephraim — and this was a great disgrace to them.
-
-This is what they meant by saying, “by not calling us when you went to fight,” but only afterward, at the conclusion of the battle.
-
-(The word “kerot” is an infinitive form compounded from patterns of verbs with weak letters, like “galut Yerushalayim,” “kero mikra.”)
+**What is this thing that you have done to us?** For at first he sent messengers to Manasseh, Asher, Zebulun, and Naphtali (6:35), but not to Ephraim. Only now did he send messengers to the hill country of Ephraim — and this was a great disgrace to them. This is what they meant by saying, “by not calling us when you went to fight,” but only afterward, at the conclusion of the battle. (The word “kerot” is an infinitive form compounded from patterns of verbs with weak letters, like “galut Yerushalayim,” “kero mikra.”)
 
 
 
@@ -3642,10 +3341,7 @@ This is what they meant by saying, “by not calling us when you went to fight,�
 **ויאמר.** השיב למה תריבו אלי, אם באשר לקחתי הכבוד לעצמי להיות אני המתחיל, הלא אתם הגומרים ומה עשיתי עתה ככם, הלא עתה בגמר לא עשיתי נגדכם מאומה (ואמר עתה כי עוד קוה ללכד זבח וצלמונע רק עתה עדיין לא עשיתי) והגם שאני הייתי הבוצר שהוא המתחיל, הלא העוללות שעוללתם לבסוף טוב מן הבציר, וא"כ מצד הפעולה מעשיכם גדולים הגם שהיו לבסוף.
 
 
-**And he said.**
-He answered: Why do you contend with me? If it is because I took the honor for myself in being the one to begin — you are the ones who completed it. “What have I done now compared to you?” At this point, at the conclusion, I have done nothing in comparison to you. (He said “now,” for he still hoped to capture Zebah and Zalmunna; as yet he had not accomplished that.)
-
-And though I was the one who gathered the vintage — who began — yet the gleanings which you gathered at the end are better than the first harvest. Thus, in terms of the deed itself, your actions are greater, even though they came afterward.
+**And he said.** He answered: Why do you contend with me? If it is because I took the honor for myself in being the one to begin — you are the ones who completed it. “What have I done now compared to you?” At this point, at the conclusion, I have done nothing in comparison to you. (He said “now,” for he still hoped to capture Zebah and Zalmunna; as yet he had not accomplished that.) And though I was the one who gathered the vintage — who began — yet the gleanings which you gathered at the end are better than the first harvest. Thus, in terms of the deed itself, your actions are greater, even though they came afterward.
 
 
 
@@ -3809,8 +3505,7 @@ Questions: (5–17) What did he say to the men of Sukkot, and why did the office
 **ויאמר ליתר.** כי הוא גואל הדם על הריגת אחי אביו.
 
 
-**And he said to Jether.**
-Because he was the blood-avenger for the killing of his father’s brothers.
+**And he said to Jether.** Because he was the blood-avenger for the killing of his father’s brothers.
 
 
 
@@ -3891,8 +3586,7 @@ Because he was the blood-avenger for the killing of his father’s brothers.
 **לבד מן השהרונים.** שזה שלל בעצמו ויהי לו.
 
 
-**Aside from the crescent ornaments.**
-These constituted spoil in their own right, and thus they remained in his possession.
+**Aside from the crescent ornaments.** These constituted spoil in their own right, and thus they remained in his possession.
 
 
 
@@ -3934,10 +3628,7 @@ These constituted spoil in their own right, and thus they remained in his posses
 **ויכתב אליו את שרי סכות וכו' ויבא אל אנשי סכות.** הנה ראה כי שרי סכות אינם ראוים לעונש כי טענו כדין שעדיין לא היו מחויבים לתת לו מס, וגם כי היו יראים לעשות זאת. אבל אנשי סכות שמהם שאל בתורת יעפים הם ראוים לעונש, לכן בא אל אנשי סוכות לא אל השרים. ובאר טעם העונש מצד שחרפו אותו הכף זבח וצלמונע עתה בידך כי נתן לאנשיך היעפים לחם, לא תפס לשון השרים כי נתן לצבאך לחם, שזה לא היה חירוף שעדיין לא הוחזקו בצבא מלחמה לכלכלם בתורת מס, אבל אנשי סכות שאמרו כי נתן לאנשיך היעפים לחם שמהם שאל צדקה לאנשים עיפים לא מס לצבא מלחמה זה היה חירוף.
 
 
-**And he recorded for himself the officers of Sukkot… and he came to the men of Sukkot.**
-He saw that the officers of Sukkot were not deserving of punishment, for they argued correctly that they were not yet obligated to provide him with provisions as a levy, and they were also afraid to do so. However, the men of Sukkot — from whom he had requested bread on account of their weariness — were deserving of punishment. Therefore, he came to the men of Sukkot, not to the officers.
-
-He explained the reason for the punishment on the grounds that they had taunted him: “Are the hands of Zebah and Zalmunna now in your hand, that we should give bread to your weary men?” He did not cite the wording of the officers — “that we should give bread to your army” — for that was not a taunt, since they were not yet established as an army to be supported by a levy. But the men of Sukkot, who said “your weary men,” to whom he had asked charity for exhausted individuals and not provisions for an army — this was a taunt.
+**And he recorded for himself the officers of Sukkot… and he came to the men of Sukkot.** He saw that the officers of Sukkot were not deserving of punishment, for they argued correctly that they were not yet obligated to provide him with provisions as a levy, and they were also afraid to do so. However, the men of Sukkot — from whom he had requested bread on account of their weariness — were deserving of punishment. Therefore, he came to the men of Sukkot, not to the officers. He explained the reason for the punishment on the grounds that they had taunted him: “Are the hands of Zebah and Zalmunna now in your hand, that we should give bread to your weary men?” He did not cite the wording of the officers — “that we should give bread to your army” — for that was not a taunt, since they were not yet established as an army to be supported by a levy. But the men of Sukkot, who said “your weary men,” to whom he had asked charity for exhausted individuals and not provisions for an army — this was a taunt.
 
 
 ###### Malbim on Judges 8:29:2
@@ -3976,7 +3667,7 @@ He explained the reason for the punishment on the grounds that they had taunted 
 **ולא זכרו כו' את ה' ולא עשו חסד עם בית ירובעל וכו'.** רצה לומר כי בתשועה זו היה ענין נסיי אלהי והיה ראוי לזכור את ה', והם לא זכרו את ה' כי יחסוהו לענין טבעי ולגבורת גדעון וא"כ היה להם לזכור את גדעון ככל הטובה וכו' והם שלמו רעה תחת טובה כמו שיבא בסמוך, וכפל בית ירובעל גדעון, שלא עשו חסד עם גדעון מצד שהוא בית ירובעל שיש לומר מריבה עם הבעל והם החלו לזבוח אל הבעל אחרי מותו.
 
 
-**And they did not remember… Hashem, nor did they show kindness to the house of Jerubbaal…** That is to say, this deliverance had a miraculous, divine element, and it was fitting that they remember Hashem; yet they did not remember Hashem, for they attributed it to a natural cause and to Gideon’s valor. And if so, they should at least have remembered Gideon for all the good he had done — but instead they repaid evil for good, as will be related shortly. The text repeats “the house of Jerubbaal, Gideon,” to indicate that they did not show kindness to Gideon as the house of Jerubbaal — that is, one who contended with Baal — even though after his death they themselves began to sacrifice to Baal.
+**And they did not remember… Hashem, nor did they show kindness to the house of Jerubbaal…** That is to say, this deliverance had a miraculous, Divine element, and it was fitting that they remember Hashem; yet they did not remember Hashem, for they attributed it to a natural cause and to Gideon’s valor. And if so, they should at least have remembered Gideon for all the good he had done — but instead they repaid evil for good, as will be related shortly. The text repeats “the house of Jerubbaal, Gideon,” to indicate that they did not show kindness to Gideon as the house of Jerubbaal — that is, one who contended with Baal — even though after his death they themselves began to sacrifice to Baal.
 
 
 
@@ -4097,7 +3788,7 @@ The pursuit of what is pleasant is an activity of the animal faculty of sense, w
 **ויאמר להם הזית.** אבל האיש המאושר הזה לא יאבה בשררות כי היא השביתנו משלמותו הנפשיי להיות עבד לעם לפקח על ענינם. כמו שאמר כלום שררות אני נותן לכם וכו' לכן השיב וכי אחדיל את דשני שהוא השגת החכמה ושפע הנבואה אשר בו יכבדו אלהים ואנשים כי הופעת הרוח האלהי נקרא בשם כבוד בכתבי הקדש, והלכתי לנוע על העצים לעסוק בצרכיהם?!
 
 
-**And the olive said to them.** But such a fortunate and elevated man does not desire authority, for it would interrupt his spiritual perfection, making him a servant to the people, overseeing their affairs. As it is said, “Do I grant you authority?” Therefore he replied, “Shall I cease my richness?” — meaning the attainment of wisdom and the abundance of prophecy, through which God and men are honored, for the manifestation of the divine spirit is called “honor” in Scripture — and go to sway over the trees, to occupy myself with their needs?!
+**And the olive said to them.** But such a fortunate and elevated man does not desire authority, for it would interrupt his spiritual perfection, making him a servant to the people, overseeing their affairs. As it is said, “Do I grant you authority?” Therefore he replied, “Shall I cease my richness?” — meaning the attainment of wisdom and the abundance of prophecy, through which God and men are honored, for the manifestation of the Divine spirit is called “honor” in Scripture — and go to sway over the trees, to occupy myself with their needs?!
 
 
 
@@ -4288,8 +3979,7 @@ And they said, “At the head of all remedies is wine,” meaning that they woul
 **וישר.** לא כתיב וישפט, כי לא שפט רק שר בחזקה (ומלת וישר מבנין הקל מנע"ו כמו ויסר אליה):
 
 
-**And he ruled.**
-It does not say “and he judged,” for he did not judge but ruled by force. (The word vayasar is in the simple (qal) form of a weak verb, like vayasar eleha.)
+**And he ruled.** It does not say “and he judged,” for he did not judge but ruled by force. (The word vayasar is in the simple (qal) form of a weak verb, like vayasar eleha.)
 
 
 
@@ -4366,11 +4056,7 @@ It does not say “and he judged,” for he did not judge but ruled by force. (T
 גם יש לפרש שקרא לאבימלך לגנאי בשם שכם, רצה לומר שהוא רוצה לזכות במשרה על שהוא בן נשיא הארץ כשכם שהיה בן חמור החוי נשיא הארץ בימים קדומים, ואמר מי אבימלך ומי שכם נשיא הארץ כי נעבדנו. הלא בן ירובעל וזבול פקידו רצה לומר אינו בן ירובעל בבירור אחר שהוא בן פילגשו שדרך הפילגש לזנות ואמו זנתה עם זבול פקידו באופן שהוא בן ירובעל ובן זבול, רצה לומר ספק מי משניהם הוא אביו האמתי, ומתיחס לירובעל ולזבול בשוה, הוסיף אם תרצו לעבדו מצד שאביו היה נשיא הארץ עבדו את אנשי חמור אבי שכם שהם קודמים בנשיאות ומדוע נעבדנו אנחנו הלא מצד זה בני חמור קודמים בנחלה.
 
 
-It may also be explained that he referred to Abimelech disparagingly as “Shechem,” meaning that he seeks authority on the grounds that he is the son of the ruler of the land — just as Shechem was the son of Hamor the Hivite, prince of the land in earlier times. Thus he said: “Who is Abimelech, and who is Shechem, the prince of the land, that we should serve him?”
-
-“Is he not the son of Jerubbaal — and Zebul his officer?” That is, he is not certainly the son of Jerubbaal, since he is the son of his concubine, and it is the way of a concubine to be unfaithful; his mother also consorted with Zebul his officer, so that he may be the son of Jerubbaal or the son of Zebul — it is uncertain which of them is his true father, and he is attributed to both.
-
-He further said: if you wish to serve him because his father was ruler of the land, then serve the men of Hamor, the father of Shechem, who preceded him in rulership — and why should we serve him? According to this reasoning, the descendants of Hamor have the prior claim to authority.
+It may also be explained that he referred to Abimelech disparagingly as “Shechem,” meaning that he seeks authority on the grounds that he is the son of the ruler of the land — just as Shechem was the son of Hamor the Hivite, prince of the land in earlier times. Thus he said: “Who is Abimelech, and who is Shechem, the prince of the land, that we should serve him?” “Is he not the son of Jerubbaal — and Zebul his officer?” That is, he is not certainly the son of Jerubbaal, since he is the son of his concubine, and it is the way of a concubine to be unfaithful; his mother also consorted with Zebul his officer, so that he may be the son of Jerubbaal or the son of Zebul — it is uncertain which of them is his true father, and he is attributed to both. He further said: if you wish to serve him because his father was ruler of the land, then serve the men of Hamor, the father of Shechem, who preceded him in rulership — and why should we serve him? According to this reasoning, the descendants of Hamor have the prior claim to authority.
 
 
 
@@ -4410,8 +4096,7 @@ He further said: if you wish to serve him because his father was ruler of the la
 **בתרמה.** היא עיר ארומה ששם אבימלך.
 
 
-**In Tormah.**
-That is, the city of Arumah, where Abimelech was.
+**In Tormah.** That is, the city of Arumah, where Abimelech was.
 
 
 ###### Malbim on Judges 9:31:3
@@ -4597,8 +4282,7 @@ But Gaal insisted that he saw it was indeed a people, and that they were divided
 **וישמעו.** אחרי נעשתה עצת ה' בשכם, סבב שאש האטד תאכל גם בית מלוא שכני שכם שאצל שכם היה מגדל עוז שלא היה אפשר לכבשו, סבב ה' שלא הלכו להשגב במגדל רק התקבצו אל צריח בית אל שהיה של עצים להתיעץ שם ולכרות שם ברית אל קשר המרד.
 
 
-**And they heard.**
-After the counsel of Hashem was fulfilled in Shechem, He brought it about that the fire of the bramble would also consume Beth-millo, the inhabitants of Shechem. For near Shechem there was a strong tower that could not have been captured; yet Hashem caused that they did not go there to seek refuge. Instead, they gathered in the chamber of the house of El-berith, which was made of wood, to take counsel there and to make a covenant concerning their rebellion.
+**And they heard.** After the counsel of Hashem was fulfilled in Shechem, He brought it about that the fire of the bramble would also consume Beth-millo, the inhabitants of Shechem. For near Shechem there was a strong tower that could not have been captured; yet Hashem caused that they did not go there to seek refuge. Instead, they gathered in the chamber of the house of El-berith, which was made of wood, to take counsel there and to make a covenant concerning their rebellion.
 
 
 
@@ -4651,8 +4335,7 @@ Now it relates how there was likewise fulfilled what was said, “and fire shall
 **וישב.** זה סיום הספור איך נתקיימה קללת יותם בכל פרטיה.
 
 
-**And he returned.**
-This concludes the account of how Jotham’s curse was fulfilled in all its details.
+**And he returned.** This concludes the account of how Jotham’s curse was fulfilled in all its details.
 
 
 
@@ -4666,8 +4349,7 @@ This concludes the account of how Jotham’s curse was fulfilled in all its deta
 **ויאמר אליו זבל.** אז נסה זבול להעתיקו מן העיר ע"י שיצית בלבו אש הנצוח, א"ל
 
 
-**And Zebul said to him.**
-Then Zebul sought to draw him out of the city by stirring within him the desire for battle; he said to him:
+**And Zebul said to him.** Then Zebul sought to draw him out of the city by stirring within him the desire for battle; he said to him:
 
 
 
@@ -4723,11 +4405,7 @@ Then Zebul sought to draw him out of the city by stirring within him the desire 
 **להם יקראו חות יאיר.** פי' כי יאיר בן מנשה הלך וילכד את חותיהן [חות הגלעד], ויקרא אתהן חות יאיר, ועל דוגמת גבורת יאיר זה אל יאיר הקודם, קראו ג"כ לעריו הכוללים בשם הכינוי חות יאיר, ויש הבדל בין קרא (המורה על קריאת השם) שבא אחריו מלת את ובין אם בא אחריו למ"ד, שקרא שאחריו את, היא קריאת שם העצם, וקרא שאחריו למ"ד הוא הכינוי הנטפל על שמו הקודם, ואצל יאיר הראשון היה שמם העצמי חות יאיר, לכן כתיב ויקרא אתהן, ואצל יאיר זה היה רק כינוי השם, ולכן אמר להם יקראו כי לא היה זה שמם העצמי.
 
 
-**They would be called Havvoth-Jair.** That is, Jair son of Manasseh went and captured their settlements [the villages of Gilead] and called them Havvoth-Jair. Following the model of that earlier Jair’s valor, this later Jair likewise gave his cities—collectively—the appellation “Havvoth-Jair.”
-
-There is a distinction between the verb “to call” when it is followed by the word “et” and when it is followed by a lamed: when “call” is followed by “et,” it denotes the assigning of an intrinsic, proper name; when it is followed by a lamed, it denotes an additional designation attached to an already existing name.
-
-In the case of the first Jair, their essential name was “Havvoth-Jair,” and therefore it says, “and he called them (et).” But in the case of this Jair, it was only a secondary designation, and therefore it says, “they were called for them,” for this was not their essential name.
+**They would be called Havvoth-Jair.** That is, Jair son of Manasseh went and captured their settlements [the villages of Gilead] and called them Havvoth-Jair. Following the model of that earlier Jair’s valor, this later Jair likewise gave his cities—collectively—the appellation “Havvoth-Jair.” There is a distinction between the verb “to call” when it is followed by the word “et” and when it is followed by a lamed: when “call” is followed by “et,” it denotes the assigning of an intrinsic, proper name; when it is followed by a lamed, it denotes an additional designation attached to an already existing name. In the case of the first Jair, their essential name was “Havvoth-Jair,” and therefore it says, “and he called them (et).” But in the case of this Jair, it was only a secondary designation, and therefore it says, “they were called for them,” for this was not their essential name.
 
 
 
@@ -4830,8 +4508,7 @@ In the case of the first Jair, their essential name was “Havvoth-Jair,” and 
 **ויאמר ה'.** הודיעם ע"י נביא שלא יאמרו שלא חטאו, אמר להם הלא ממצרים ומן האמורי רצה לומר כמו שהצלתיכם בימי קדם ממצרים ומן האמורי, הלא כן מן בני עמון ומן פלשתים הלוחצים אתכם עתה יכול אני להושיעכם, (ולכן אמר מן בני עמון בלא וא"ו החיבור, שרצה לומר כמו ממצרים כן מן בני עמון).
 
 
-**And Hashem said.** He made this known to them through a prophet, so that they would not say that they had not sinned. He said to them: “Was it not from Egypt and from the Amorite”—that is, just as I delivered you in earlier times from Egypt and from the Amorite—so too from the children of Ammon and from the Philistines who are now oppressing you, I am able to deliver you.
-(And therefore it says “from the children of Ammon” without a connecting vav, for it means: just as from Egypt, so from the children of Ammon.)
+**And Hashem said.** He made this known to them through a prophet, so that they would not say that they had not sinned. He said to them: “Was it not from Egypt and from the Amorite”—that is, just as I delivered you in earlier times from Egypt and from the Amorite—so too from the children of Ammon and from the Philistines who are now oppressing you, I am able to deliver you. (And therefore it says “from the children of Ammon” without a connecting vav, for it means: just as from Egypt, so from the children of Ammon.)
 
 
 
@@ -5204,7 +4881,7 @@ His intention is clear: he desired that they appoint him head immediately, so th
 (טענה ג) ועתה ה' אלהי ישראל הוריש וכו', רצה לומר הלא מלחמת ישראל בעת ההיא היה ענין אלהי וכל העמים ידעו זאת כי ה' הורישם ואם ה' שכל הארץ שלו הוריש את האמורי איך אתה תירשנו?! **הלא את אשר יורישך כמוש וכו'.** ומה לך לדבר שהוא מפלאי אלהים והשגחתו.
 
 
-(Third argument:) “And now Hashem, the God of Israel, has dispossessed…” That is to say, the war of Israel at that time was a divine matter, and all the nations knew this — that Hashem had driven them out. If Hashem, to whom the whole earth belongs, dispossessed the Amorite, how can you dispossess him? **“Is it not that which Chemosh your god gives you to possess?”** What right have you to speak against that which is the wonder of God and His providence?
+(Third argument:) “And now Hashem, the God of Israel, has dispossessed…” That is to say, the war of Israel at that time was a Divine matter, and all the nations knew this — that Hashem had driven them out. If Hashem, to whom the whole earth belongs, dispossessed the Amorite, how can you dispossess him? **“Is it not that which Chemosh your god gives you to possess?”** What right have you to speak against that which is the wonder of God and His Providence?
 
 
 ###### Malbim on Judges 11:15:4
@@ -5229,7 +4906,7 @@ His intention is clear: he desired that they appoint him head immediately, so th
 **הלא את אשר יורישך כמוש וכו'.** ומה לך לדבר שהוא מפלאי אלהים והשגחתו.
 
 
-**Is it not that which Chemosh your god gives you to possess?** What right have you to speak against that which is among the wonders of God and His providence?
+**Is it not that which Chemosh your god gives you to possess?** What right have you to speak against that which is among the wonders of God and His Providence?
 
 
 
@@ -5460,7 +5137,7 @@ His intention is clear: he desired that they appoint him head immediately, so th
 ג) **ואראה כי אינך מושיע** שאם היית מושיע כבר היה עת לזה מזמן רב, ועי"כ **ואשימה נפשי בכפי**, והייתי בסכנה גדולה וה' נתנם בידי בדרך השגחה, **ולמה עליתם אלי היום הזה להלחם בי**, רצה לומר לעזר לא עליתם כל הזמן העבר, רק להלחם בי עליתם היום הזה?!
 
 
-(c) **And I saw that you were not delivering us,** for had you intended to help, the time for that had long since passed; therefore **I put my life in my hand,** placing myself in great danger, and Hashem delivered them into my hand by providence. **Why then have you come up against me this day to fight against me?** That is to say, to help you did not come all that time — only now you have come up to fight against me?!
+(c) **And I saw that you were not delivering us,** for had you intended to help, the time for that had long since passed; therefore **I put my life in my hand,** placing myself in great danger, and Hashem delivered them into my hand by Providence. **Why then have you come up against me this day to fight against me?** That is to say, to help you did not come all that time — only now you have come up to fight against me?!
 
 
 
@@ -5967,8 +5644,7 @@ And the Sages, in Bamidbar Rabbah (Naso 10:19), explained that his name was “W
 **(יב) אחר שביום השביעי אמרו לאשת שמשון פתי את אישך, הלא אז כלו שבעת ימי המשתה ואיך אמר שבכתה שבעת הימים, החידה בעצמה א"א שיגידה אדם, כי מי ינבא שקננו דבורים בגוית אריה מת, ואין זה ענין שיוכלו להגיד, ולמה כפל אם תגידו ומצאתם:**
 
 
-**Questions (12): Since on the seventh day they said to Samson’s wife, “Entice your husband,” had not the seven days of the feast already ended? How then does it say that she wept throughout the seven days? The riddle itself could not possibly be told by anyone, for who could foresee that bees had made honey in the carcass of a dead lion? This is not something they could discover. And why does it repeat, “If you tell it and find it”?**
-``
+**Questions (12): Since on the seventh day they said to Samson’s wife, “Entice your husband,” had not the seven days of the feast already ended? How then does it say that she wept throughout the seven days? The riddle itself could not possibly be told by anyone, for who could foresee that bees had made honey in the carcass of a dead lion? This is not something they could discover. And why does it repeat, “If you tell it and find it”?** ``
 
 
 ###### Malbim on Judges 14:12:2
@@ -6591,7 +6267,7 @@ In the earlier instances he said, **“and I shall be like one of men,”** but 
 [https://torahapp.org/share/book/Malbim%20on%20Judges/r/16:23:1](https://torahapp.org/share/book/Malbim%20on%20Judges/r/16:23:1)
 
 
-וסרני פלשתים וכו' ויראו אותו העם וכו': רצה לומר הסרנים עשו זבח מצד שהוא אויבם, והעם הללו על ג' דברים:
+**וסרני פלשתים וכו' ויראו אותו העם וכו':** רצה לומר הסרנים עשו זבח מצד שהוא אויבם, והעם הללו על ג' דברים:
 
 
 **And the lords of the Philistines… and the people saw him…** That is to say, the lords offered a sacrifice because he was their enemy, while the people praised (their god) for three reasons:
@@ -6627,11 +6303,7 @@ In the earlier instances he said, **“and I shall be like one of men,”** but 
 ג) **שהרבה בם חללים**, משא"כ אל הסרנים לא עשה הרעות האלה. (**ולשמחה** מקור במשקל ליראה את ה'):
 
 
-**And they struck them at Bezek.** At first the camps went out with their commanders and arrayed themselves around Bezek, and there they struck ten thousand men. And when it says “at Bezek,” it means around Bezek, as in: “And it came to pass, when Joshua was by Jericho” (Joshua 5).
-
-
-
-(“Adoni-Bezek” the first time is accented on the last syllable [milra], and this indicates that the yod is not additional; rather, the yod strengthens the name, as is found in Scripture. But the second and third occurrences of “Adoni-Bezek” are accented on the penultimate syllable [mil‘el], which is a sign that the yod is additional — for by then he was no longer a lord.)
+(c) And that he **had multiplied their slain,** whereas to the lords he had not done these particular harms. (**And “for rejoicing”** is an infinitive form, like “to fear Hashem.”)
 
 
 
@@ -6642,7 +6314,7 @@ In the earlier instances he said, **“and I shall be like one of men,”** but 
 [https://torahapp.org/share/book/Malbim%20on%20Judges/r/16:25:1](https://torahapp.org/share/book/Malbim%20on%20Judges/r/16:25:1)
 
 
-**ויאמר אליה:** השיב שלא דבר כזבים כלל, רק ששכח תנאי בדבריו:
+**וישחק לנו וכו' ויצחק לפניהם:** השחוק הנרדף עם צחוק, נבדל ממנו במה שהשחוק מורה שהשוחק בעצמו י"ל שמחה לא כן המצחק, וכן לפ"ז אמרו וישחק אבל באמת שמשון רק צחק ולא שחק:
 
 
 **And he said to her:** He answered that he had not spoken falsely at all, but had merely omitted a condition in his words.
@@ -6918,9 +6590,7 @@ And afterward, **and the Levite consented.** He agreed **to dwell with the man,*
 בימים ההם אין מלך. גם הסיפור שיבא פה היה סבתו מצד שאין מלך עוצר בעם, שאם היה להם מלך לא היה שבט מישראל עובדים ע"ז: **ובימים ההם שבט הדני מבקש לו נחלה לשבת.** כי נחלת דן היה לו שני חסרונות, א] שהיה חוץ לגבול ישראל מצד שהיה הגורל האחרון, כמ"ש (יהושע יט, מז) ויצא גבול בני דן מהם. ב] שמטעם זה לא יכלו להוריש את הכנעני, והכנעני חזרו ולקחו מהם את נחלתם (כמ"ש למעלה א, לה - לו), ולכן בקשו נחלה לשבת, כי נחלתם הקדומה לא היה לשבת כי הכנעני ישב בה, ומבאר הטעם **כי לא נפלה לו** כו' **בתוך שבטי ישראל**, רק חוץ מגבולם, ועז"א **בנחלה**, ר"ל הנחלה שנפלה לו לא היה **בתוך שבטי ישראל** רק חוצה להם:
 
 
-In those days there was no king. The episode that follows was due to the absence of a king to restrain the people; had there been a king, no tribe of Israel would have engaged in idolatry.
-
-**And in those days the tribe of Dan was seeking for itself an inheritance in which to dwell.** The inheritance of Dan had two deficiencies: (a) it lay outside the main border of Israel, since it was the last lot cast, as it says (Joshua 19:47), “and the border of the children of Dan went out from them”; (b) for this reason they were unable to dispossess the Canaanites, and the Canaanites later reclaimed their territory (as stated above 1:35–36). Therefore they sought an inheritance in which to dwell, for their original inheritance was not fit for dwelling, since the Canaanites inhabited it. This explains the reason: **for it had not fallen to them**… **within the tribes of Israel**, but rather outside their border. Thus it says **as an inheritance** — meaning, the inheritance that had fallen to them was not **within the tribes of Israel**, but outside of them.
+In those days there was no king. The episode that follows was due to the absence of a king to restrain the people; had there been a king, no tribe of Israel would have engaged in idolatry. **And in those days the tribe of Dan was seeking for itself an inheritance in which to dwell.** The inheritance of Dan had two deficiencies: (a) it lay outside the main border of Israel, since it was the last lot cast, as it says (Joshua 19:47), “and the border of the children of Dan went out from them”; (b) for this reason they were unable to dispossess the Canaanites, and the Canaanites later reclaimed their territory (as stated above 1:35–36). Therefore they sought an inheritance in which to dwell, for their original inheritance was not fit for dwelling, since the Canaanites inhabited it. This explains the reason: **for it had not fallen to them**… **within the tribes of Israel**, but rather outside their border. Thus it says **as an inheritance** — meaning, the inheritance that had fallen to them was not **within the tribes of Israel**, but outside of them.
 
 
 
@@ -6946,13 +6616,7 @@ In those days there was no king. The episode that follows was due to the absence
 **וישלחו בני דן ממשפחתם.** מבואר אצלי בפי' התורה (פ' מקץ ופ' שלח) שיש שני מיני מרגלים, א] ההולכים בתחלה לראות אם טובה הארץ או לא, למען דעת אם ראוי שילחמו עליו, והם הנקראים בעצם בשם תרים, **כי התר מחפש את הטוב.** ב] אחר שהסכימו ללחום בארץ שולחים מרגלים לראות את ערות הארץ מאיזה צד קל לכבשה, ואלה נקראים מרגלים, כי המרגל מחפש את הרע והחסרון. ויש הבדל ביניהם, שבתחלה כששולחים תרים, ישלחו א' מכל שבט או מכל משפחה, כי לא יסמכו שבט זה על שלוחים של שבט אחר, כי יש ארץ שטובה לפני שבט זה ורעה לשבט אחר, כמו בני ראובן בקשו ארץ מקנה, ובני זבולון בקשו חוף אניות וכדומה. ב] שאז ישלחו את נשיאיהם וגדוליהם שעליהם יסמך לבם, שיודעים צרכי העם ומגמתם. לא כן כששולחים מרגלים, שולחים איש אחד או שנים ואף הפחותים שבעם, אחר שהם אין ענינם רק לראות מקום שקל לכבש את הארץ משם. ויש עוד הבדל אחר שאם שולחים מרגלים בוחרים אנשי חיל וגבורים, כי הם הולכים לרגל מקום המבצרים והגדודים שבקל יכירו בם שהם מרגלים, וצריך שיהיו גבורים להציל נפשם, וגם שידעו טכסיסי מלחמה שעי"ז יביטו איך ילחמו ומאיזה מקום, לא כן התרים הולכים כסוחרים באמצע המדינה ואינם במקום סכנה א"צ שיהיו אנשי חיל. אולם פה שלחו שלוחיהם לשני הענינים, א] לתור אם טובה הארץ. ב] לרגל מקום הקל לכבוש. ולכן מצד ששלחו לחקור את הארץ הטובה היא אם רעה, שלחו **ממשפחתם חמשה אנשים**, ר"ל א' מכל משפחה, וגם שלחו **מקצותם**, ר"ל הקצינים והנשיאים שבהם. ומצד ששלחו לרגל ג"כ, בחרו שיהיה **אנשים בני חיל.** ומפרש שזה מפני ששלחום לב' ענינים, א] **לרגל את הארץ**, ב] **ולחקרה** שהוא לתור הטובה היא אם רעה. ובכ"ז אחר שהיה זה השליחות הראשון אמרו להם **לכו חקרו את הארץ**, היה עיקר הצווי על החקירה שהוא לראות הטובה היא אם רעה, כי הריגול הוא אחרי החקירה: **ויבאו** כו' **עד בית מיכה.** ר"ל שלנו באכסניא סמוך לבית מיכה:
 
 
-**And the children of Dan sent from their family.** I have explained in my commentary on the Torah (Parashat Miketz and Parashat Shelach) that there are two kinds of scouts: (a) those who first go to see whether the land is good or not, in order to determine whether it is worth fighting for; these are properly called “tourers” (tarim), for the one who tours seeks out what is good; (b) after they decide to wage war, they send spies to see the vulnerabilities of the land — from which side it is easiest to conquer it; these are called “spies” (meraglim), for the spy seeks out the weaknesses and defects.
-
-There is a distinction between them. When they first send tourers, they dispatch one from each tribe or from each family, for one tribe will not rely upon emissaries from another tribe, since a land may be good for one tribe and not for another — as the children of Reuben sought pastureland, and the children of Zebulun sought a seacoast for ships, and so on. They also send their leaders and prominent men, upon whom the people rely, who understand the needs and aims of the nation. But when they send spies, they send one or two men — even from the lesser among the people — since their task is only to see from which place the land may be most easily conquered. Furthermore, when sending spies they choose strong and valiant men, because they go to inspect fortresses and troops where they may easily be recognized as spies, and they must be brave to save themselves and skilled in military matters to observe how and from where to wage war. The tourers, however, go like merchants in the midst of the land and are not in danger; they need not be warriors.
-
-Here they sent their agents for both purposes: (a) to see whether the land was good; (b) to spy out the place easiest to conquer. Therefore, since they were sent to investigate whether the land was good or bad, they sent **from their family five men** — that is, one from each family — and they also sent **from their extremities**, meaning the leaders and chiefs among them. And since they were also sent to spy, they chose **men of valor.** It explains that they were sent for two purposes: (a) **to spy out the land,** and (b) **to explore it** — to see whether it was good or bad. Nevertheless, since this was the initial mission, they told them, **“Go, explore the land,”** for the primary command concerned the exploration — to determine whether it was good or bad — and the spying would follow the exploration.
-
-**And they came… to the house of Micah.** That is, they lodged at an inn near the house of Micah.
+**And the children of Dan sent from their family.** I have explained in my commentary on the Torah (Parashat Miketz and Parashat Shelach) that there are two kinds of scouts: (a) those who first go to see whether the land is good or not, in order to determine whether it is worth fighting for; these are properly called “tourers” (tarim), for the one who tours seeks out what is good; (b) after they decide to wage war, they send spies to see the vulnerabilities of the land — from which side it is easiest to conquer it; these are called “spies” (meraglim), for the spy seeks out the weaknesses and defects. There is a distinction between them. When they first send tourers, they dispatch one from each tribe or from each family, for one tribe will not rely upon emissaries from another tribe, since a land may be good for one tribe and not for another — as the children of Reuben sought pastureland, and the children of Zebulun sought a seacoast for ships, and so on. They also send their leaders and prominent men, upon whom the people rely, who understand the needs and aims of the nation. But when they send spies, they send one or two men — even from the lesser among the people — since their task is only to see from which place the land may be most easily conquered. Furthermore, when sending spies they choose strong and valiant men, because they go to inspect fortresses and troops where they may easily be recognized as spies, and they must be brave to save themselves and skilled in military matters to observe how and from where to wage war. The tourers, however, go like merchants in the midst of the land and are not in danger; they need not be warriors. Here they sent their agents for both purposes: (a) to see whether the land was good; (b) to spy out the place easiest to conquer. Therefore, since they were sent to investigate whether the land was good or bad, they sent **from their family five men** — that is, one from each family — and they also sent **from their extremities**, meaning the leaders and chiefs among them. And since they were also sent to spy, they chose **men of valor.** It explains that they were sent for two purposes: (a) **to spy out the land,** and (b) **to explore it** — to see whether it was good or bad. Nevertheless, since this was the initial mission, they told them, **“Go, explore the land,”** for the primary command concerned the exploration — to determine whether it was good or bad — and the spying would follow the exploration. **And they came… to the house of Micah.** That is, they lodged at an inn near the house of Micah.
 
 
 
@@ -6966,9 +6630,7 @@ Here they sent their agents for both purposes: (a) to see whether the land was g
 **המה עם בית מיכה.** ר"ל יען התארחו סמוך לבית מיכה לכן שמעו קול הלוי והכירוהו, ונראה כי אחר שהלוי הזה היה מבני קהת מבני משה כקבלת חז"ל (ב"ב קט ב), וערי בני קהת הלוים היו ממטה אפרים ודן וחצי מנשה (כמבואר יהושע כא, ה), היה הלוי הזה מילידי עיר הלוים בדן, לכן הכירוהו: **ויאמרו לו.** שאלוהו ג' שאלות, א] **מי הביאך**, מביתך **הלום**, ב] **ומה** וכו', ר"ל מה העסק שיש לך פה, ג] **ומה** לך פה, ר"ל מה שכרך:
 
 
-**They were near the house of Micah.** That is, since they lodged near Micah’s house, they heard the voice of the Levite and recognized him. It appears that this Levite was of the sons of Kohath, from the descendants of Moses, as the Sages received (Bava Batra 109b); and the cities of the Kohathite Levites were in the territory of Ephraim, Dan, and half of Manasseh (as explained in Joshua 21:5). Thus this Levite was born in one of the Levitical cities in Dan, and they recognized him.
-
-**And they said to him.** They asked him three questions: (a) **“Who brought you here”** — from your home — **to this place?** (b) **“And what”** — that is, what occupation do you have here? (c) **“And what”** — that is, what is your compensation here?
+**They were near the house of Micah.** That is, since they lodged near Micah’s house, they heard the voice of the Levite and recognized him. It appears that this Levite was of the sons of Kohath, from the descendants of Moses, as the Sages received (Bava Batra 109b); and the cities of the Kohathite Levites were in the territory of Ephraim, Dan, and half of Manasseh (as explained in Joshua 21:5). Thus this Levite was born in one of the Levitical cities in Dan, and they recognized him. **And they said to him.** They asked him three questions: (a) **“Who brought you here”** — from your home — **to this place?** (b) **“And what”** — that is, what occupation do you have here? (c) **“And what”** — that is, what is your compensation here?
 
 
 
@@ -7010,7 +6672,7 @@ Here they sent their agents for both purposes: (a) to see whether the land was g
 **ויאמר** (אחרי ששאל) **לכו לשלום.** הוא הצלחת הדרך. **נכח ה' דרככם.** ר"ל תכלית ההילוך הוא נכח ה' והשגחתו לטובה כי תגיעו למטרת חפצכם:
 
 
-**And he said** (after he had inquired), **“Go in peace.”** This means success on the journey. **“Before Hashem is your way.”** That is to say, the purpose of your journey stands before Hashem and under His favorable providence, and you will attain the goal of your desire.
+**And he said** (after he had inquired), **“Go in peace.”** This means success on the journey. **“Before Hashem is your way.”** That is to say, the purpose of your journey stands before Hashem and under His favorable Providence, and you will attain the goal of your desire.
 
 
 
@@ -7036,19 +6698,7 @@ Here they sent their agents for both purposes: (a) to see whether the land was g
 **ויראו את העם אשר בקרבה.** רצה לומר שלא היה להם להתירא מפני העם עצמם שלא היו בעלי מלחמה, וכן לא מפני שכניהם ועוזריהם. ומפרש לא מפני העם, כי העם ילמדו מלחמה מפני ארבעה דברים, א] אם דרכם לכבוש ארצות ופרנסתם מן המלחמה לשלול שלל ולבוז בז, ועז"א **יושבת לבטח כמשפט צידונים**, ר"ל הממלכה כולה יושבת לבטח כמשפט צידונים שהם סוחרים או בעלי מקנה, ואין פרנסתם מבז ושלל. ב] אם מתיראים מאויב חיצוני, עז"א עם **שקט ובוטח**, כי רגל אויב לא תבא בגבולם. ג] אם יש תגרא בין אנשי המדינה עיר בעיר משפחה במשפחה, עז"א **ואין מכלים דבר בארץ**, כי כולם בשלום יחדיו. ד] אם יש שם מלך ובניו יורשים מלכותו, שאז יכינו חיל וצבא מלחמה להחזיק מלכותם, עז"א **יורש עצר** (מלת אין נמשך לשתים אין מכלים דבר ואין יורש עצר), ר"ל ואין יורש המלוכה העוצרת בעם. ועתה באר שאין להתירא מפני בעלי בריתם שיבואו לעזרה, כי **הצידונים** שהם מעמק **רחוקים הם** מהם, ואין להם ברית עם שכניהם, כי **דבר אין להם עם אדם**, אין להם כריתות ברית עם שום אדם:
 
 
-**And they saw the people who were within it.** That is to say, they had no reason to fear the people themselves, for they were not men of war; nor did they need to fear their neighbors or potential allies. It explains this in detail:
-
-Not from the people themselves — for a nation takes up arms for four possible reasons:
-
-(a) If it is their custom to conquer lands and their livelihood depends on war, to seize spoil and plunder. Therefore it says, **“dwelling securely, after the manner of the Sidonians,”** meaning that the entire kingdom dwelt securely like the Sidonians, who were merchants or herdsmen, and did not live by plunder and war.
-
-(b) If they fear an external enemy — therefore it says, **“a people quiet and secure,”** for no enemy’s foot came within their borders.
-
-(c) If there is internal strife, city against city or clan against clan — therefore it says, **“and there was none who would shame them for anything in the land,”** meaning they all lived together in peace.
-
-(d) If there is a king and sons who inherit his throne, for then they would maintain an army to preserve their monarchy. Therefore it says **“and no possessor of restraint”** (the word “none” applies to both: none who would shame them, and none who was heir to sovereign rule), meaning there was no heir to royal authority who imposed control over the people.
-
-Furthermore, there was no need to fear their allies coming to their aid, for **the Sidonians**, who were in the valley, **were far from them,** and they had no alliance with their neighbors, since **they had no dealings with any man** — they had no covenantal ties with anyone.
+**And they saw the people who were within it.** That is to say, they had no reason to fear the people themselves, for they were not men of war; nor did they need to fear their neighbors or potential allies. It explains this in detail: Not from the people themselves — for a nation takes up arms for four possible reasons: (a) If it is their custom to conquer lands and their livelihood depends on war, to seize spoil and plunder. Therefore it says, **“dwelling securely, after the manner of the Sidonians,”** meaning that the entire kingdom dwelt securely like the Sidonians, who were merchants or herdsmen, and did not live by plunder and war. (b) If they fear an external enemy — therefore it says, **“a people quiet and secure,”** for no enemy’s foot came within their borders. (c) If there is internal strife, city against city or clan against clan — therefore it says, **“and there was none who would shame them for anything in the land,”** meaning they all lived together in peace. (d) If there is a king and sons who inherit his throne, for then they would maintain an army to preserve their monarchy. Therefore it says **“and no possessor of restraint”** (the word “none” applies to both: none who would shame them, and none who was heir to sovereign rule), meaning there was no heir to royal authority who imposed control over the people. Furthermore, there was no need to fear their allies coming to their aid, for **the Sidonians**, who were in the valley, **were far from them,** and they had no alliance with their neighbors, since **they had no dealings with any man** — they had no covenantal ties with anyone.
 
 
 
@@ -7090,9 +6740,7 @@ Furthermore, there was no need to fear their allies coming to their aid, for **t
 **"כבואכם" תבואו אל עם בטח.** שלא ילחמו אתכם כנ"ל. ואמרו **כבואכם**, ר"ל תיכף, כי אם תתאחרו פן יודע להם הדבר ויכינו עצמם לקראת נשק. גם אל תחשבו שיש לה חסרונות אחרים, אם מצד כמותה שאינה גדולה כ"כ, עז"א **והארץ רחבת ידים.** ואם מצד איכותה שיחסרו שם דברים, עז"א **מקום אשר אין שם מחסור כל דבר אשר בארץ**, ר"ל שתמצאו שם כל הדברים הנמצאים בא"י:
 
 
-**“When you come” — you will come to a people secure,** meaning they will not fight against you, as explained above. And they said **“when you come”** to mean immediately—without delay—for if you linger, the matter may become known to them and they will prepare themselves for battle.
-
-Do not think that it has other disadvantages. If you suspect it may be small in size, it says: **“and the land is broad of hands”**—that is, spacious. And if you think it may lack in quality or resources, it says: **“a place where there is no lack of anything that is in the land”**—meaning you will find there all the things found in the Land of Israel.
+**“When you come” — you will come to a people secure,** meaning they will not fight against you, as explained above. And they said **“when you come”** to mean immediately—without delay—for if you linger, the matter may become known to them and they will prepare themselves for battle. Do not think that it has other disadvantages. If you suspect it may be small in size, it says: **“and the land is broad of hands”**—that is, spacious. And if you think it may lack in quality or resources, it says: **“a place where there is no lack of anything that is in the land”**—meaning you will find there all the things found in the Land of Israel.
 
 
 
@@ -7106,8 +6754,7 @@ Do not think that it has other disadvantages. If you suspect it may be small in 
 **ויסעו משם.** ר"ל תיכף עקרו דירתם לשם כי בטחו על דברי השלוחים:
 
 
-**“And they set out from there.”** 
-This means that immediately they uprooted their dwelling and moved there, because they trusted in the words of the messengers.
+**“And they set out from there.”** This means that immediately they uprooted their dwelling and moved there, because they trusted in the words of the messengers.
 
 
 
@@ -7121,8 +6768,7 @@ This means that immediately they uprooted their dwelling and moved there, becaus
 **ויחנו בקרית יערים.** שם הכינו צידה לדרך הרב הזה, והמחנה לא נכנסה לעיר, רק **הנה אחרי קרית יערים**:
 
 
-**“And they encamped at Kiriath-jearim.”** 
-There they prepared provisions for the long journey ahead. The camp itself did not enter the city, but remained **behind Kiriath-jearim**.
+**“And they encamped at Kiriath-jearim.”** There they prepared provisions for the long journey ahead. The camp itself did not enter the city, but remained **behind Kiriath-jearim**.
 
 
 
@@ -7136,8 +6782,7 @@ There they prepared provisions for the long journey ahead. The camp itself did n
 **ההולכים לרגל.** שמצד שהלכו לרגל נודע להם זאת כי עי"כ שאלו בתרפים:
 
 
-**“Those who went to spy.”** 
-Since they went in order to spy, they came to know this through that mission — for through it they inquired by means of the teraphim.
+**“Those who went to spy.”** Since they went in order to spy, they came to know this through that mission — for through it they inquired by means of the teraphim.
 
 
 
@@ -7152,8 +6797,7 @@ Since they went in order to spy, they came to know this through that mission —
 **(טו - כ) למה כפל ויבואו בית הנער ויעלו חמשת האנשים וכו' ואלה באו בית מיכה? וכפל לקחו את הפסל, ויקחו את הפסל, ובפסוק כ' ויקח את האפוד וכ"ז דברים מיותרים, וגם הדברים בלתי מסודרים כנראה לכל מעיין?**
 
 
-**Questions**
-**(15–20) Why does it repeat: “They came to the house of the young man” and again “the five men went up” and “these came into the house of Micah”? Why does it repeat: “they took the carved image” and again “they took the carved image,” and in verse 20 “he took the ephod”? All these phrases seem redundant, and the sequence of events appears disordered to any careful reader?**
+**Questions** **(15–20) Why does it repeat: “They came to the house of the young man” and again “the five men went up” and “these came into the house of Micah”? Why does it repeat: “they took the carved image” and again “they took the carved image,” and in verse 20 “he took the ephod”? All these phrases seem redundant, and the sequence of events appears disordered to any careful reader?**
 
 
 ###### Malbim on Judges 18:15:2
@@ -7164,13 +6808,7 @@ Since they went in order to spy, they came to know this through that mission —
 **וישאלו לו לשלום ושש מאות איש** וכו'. שיעורו, שחמשה האנשים ושש מאות האיש שאלו לו לשלום. וענינו, שבבואם לביתו אמרו לו כי הם שואלים בשלומו בשמם ובשם השש מאות איש שהם כולם מבני דן ומכירים אותו, ועי"כ יצא אליהם אל פתח השער, ובעוד שדבר הכהן עם השש מאות איש:
 
 
-**“And they asked him of his welfare — and the six hundred men”** etc.
-
-The meaning is that the five men and the six hundred men asked him about his welfare.
-
-That is to say: when they came to his house, they told him that they were inquiring after his peace — both in their own name and in the name of the six hundred men, who were all from the tribe of Dan and who knew him.
-
-Through this, they caused him to come out to them to the entrance of the gate. And while the priest was speaking with the six hundred men…
+**“And they asked him of his welfare — and the six hundred men”** etc. The meaning is that the five men and the six hundred men asked him about his welfare. That is to say: when they came to his house, they told him that they were inquiring after his peace — both in their own name and in the name of the six hundred men, who were all from the tribe of Dan and who knew him. Through this, they caused him to come out to them to the entrance of the gate. And while the priest was speaking with the six hundred men…
 
 
 
@@ -7184,11 +6822,7 @@ Through this, they caused him to come out to them to the entrance of the gate. A
 **ויעלו חמשת האנשים.** חזרו לביתו ועלו לבית הע"ז ולקחו את הפסל ואת האפוד וכו', והכהן היה נצב בעת ההיא פתח השער עם השש מאות, ובתוך כך הרגיש הכהן ושב לביתו, ובשעה ששב הכהן כבר יצאו הם מבית הלוי ששם היה הפסל דרך בית מיכה, כי דרך בית מיכה היו נכנסים לבית הלוי, וז"ש:
 
 
-**“And the five men went up.”** The five men went back up into his house and entered the shrine of idolatry, and they took the carved image, the ephod, and the teraphim. Meanwhile, the priest was standing at the entrance of the gate with the six hundred men.
-
-**“And in the meantime the priest noticed and returned to his house.”** In the meantime, the priest became aware of what was happening and returned to his house.
-
-**“But by the time the priest returned, they had already come out from the Levite’s house—where the idol was—through Micah’s house.”** For the entrance to the Levite’s house was through Micah’s house.
+**“And the five men went up.”** The five men went back up into his house and entered the shrine of idolatry, and they took the carved image, the ephod, and the teraphim. Meanwhile, the priest was standing at the entrance of the gate with the six hundred men. **“And in the meantime the priest noticed and returned to his house.”** In the meantime, the priest became aware of what was happening and returned to his house. **“But by the time the priest returned, they had already come out from the Levite’s house—where the idol was—through Micah’s house.”** For the entrance to the Levite’s house was through Micah’s house.
 
 
 
@@ -7202,11 +6836,7 @@ Through this, they caused him to come out to them to the entrance of the gate. A
 **ואלה באו בית מיכה.** ברגע ששב הכהן לא היו בבית הכהן, רק בבית מיכה שהיה לפני בית הכהן: **ויקחו את פסל האפוד.** ר"ל הכהן ראה שהם לוקחים להוציאם מן הבית: **ויאמר להם מה אתם עושים.** ואם היה הכהן צועק אז היו אנשי מיכה מוחים בידם, כי שם לא היו רק חמשה האנשים:
 
 
-**“And these came to the house of Micah.”** At the moment the priest returned, they were not in the priest’s house, but in Micah’s house, which was in front of the priest’s house.
-
-**“And they took the carved image, the ephod…”** That is, the priest saw that they were taking them out of the house.
-
-**“And he said to them, ‘What are you doing?’”** For if the priest had cried out at that moment, the men of Micah would have protested and stopped them, since only the five men were there.
+**“And these came to the house of Micah.”** At the moment the priest returned, they were not in the priest’s house, but in Micah’s house, which was in front of the priest’s house. **“And they took the carved image, the ephod…”** That is, the priest saw that they were taking them out of the house. **“And he said to them, ‘What are you doing?’”** For if the priest had cried out at that moment, the men of Micah would have protested and stopped them, since only the five men were there.
 
 
 
@@ -7220,9 +6850,7 @@ Through this, they caused him to come out to them to the entrance of the gate. A
 **ויאמרו לו החרש.** אל תצעק במה שנוגע למיכה. וגם בענין מה שנוגע לך, **שים ידך אל פיך ולך עמנו**, כי תרויח בזה, כי **הטוב היותך כהן לבית איש אחד** וכו':
 
 
-**“And they said to him, ‘Be silent.’”** Do not cry out concerning what relates to Micah.
-
-And regarding what concerns you, **“Put your hand over your mouth and come with us,”** for you will benefit from this; for **“Is it better for you to be a priest to the house of one man…”** etc.
+**“And they said to him, ‘Be silent.’”** Do not cry out concerning what relates to Micah. And regarding what concerns you, **“Put your hand over your mouth and come with us,”** for you will benefit from this; for **“Is it better for you to be a priest to the house of one man…”** etc.
 
 
 
@@ -7278,12 +6906,9 @@ They answered him **that he should keep silent, lest he gather his own life and 
 **והמה לקחו.** בזה נדמה להם שלא עשקו וגנבו, רק לקחו בדרך מלחמה אחר שרדף אחריהם ולא יכול להם: **ויבואו על ליש.** ובמדרש (תנחומא תשא, יד) זש"ה (דניאל ט, ז) לך ה' הצדקה ולנו בושת הפנים, הגם שלקחו הפסל הצליחו במלחמתם:
 
 
-**And they took.** In this way it seemed to them that they had not oppressed or stolen, but had merely taken it as in war, since he pursued them and was unable to prevail against them. 
-
-
-**And they came upon Laish.** 
-
-And in the Midrash (Tanchuma, Ki Tisa 14) this is what is meant by the verse (Daniel 9:7), “To You, O Hashem, is righteousness, but to us shame of face”: even though they took the idol, they nevertheless succeeded in their war.
+**And they took.** In this way it seemed to them that they had not oppressed or stolen, but had merely taken it as in war, since he pursued them and was unable to prevail against them.
+ **And they came upon Laish.**
+ And in the Midrash (Tanchuma, Ki Tisa 14) this is what is meant by the verse (Daniel 9:7), “To You, O Hashem, is righteousness, but to us shame of face”: even though they took the idol, they nevertheless succeeded in their war.
 
 
 
@@ -7311,8 +6936,7 @@ And in the Midrash (Tanchuma, Ki Tisa 14) this is what is meant by the verse (Da
 **ויקימו להם את הפסל.** תחלה הקימו רק את הפסל להורדת הרוחניות, ואח"כ **וישימו להם את פסל מיכה** כפי שעשאו מיכה, עם האפוד והתרפים. ועמד **כל ימי היות בית האלהים בשלה**, זה לעומת זה. ומ"ש שיהונתן ובניו היו כהנים עד גלות הארץ, פירש"י על גלות סנחריב, וכן דעת חכמינו ז"ל בירושלמי פרק ט' דברכות (ה"ג) שמקשה לרשב"נ דאמר שבואל ששב לאל בכל לבו, והכתיב עד גלות הארץ, ומתרץ שאחרי מות דוד העבירו שלמה וחזר לסורו והוא היה הנביא הזקן בבית אל. ומה שמקשה הרד"ק איך אפשר ששמואל ודוד ושלמה לא בערו פסל זה, י"ל דבאמת בימי שמואל בטל, ועז"א כל ימי היות בית אלהים בשילה, ואז חזר בתשובה ודוד מינה אותו על האוצרות, ובימי ירבעם שהעמידו העגל בדן היו בניו כהנים עד גלות סנחריב:
 
 
-**And they set up for themselves the idol.** At first they established only the idol itself, to draw down the spiritual influence; afterward, **they set up for themselves Micah’s graven image** as Micah had made it, together with the ephod and the teraphim.
-And it stood **all the days that the House of God was in Shiloh**—this corresponding to that. As for what is said that Jonathan and his sons were priests until the exile of the land, Rashi explains this as referring to the exile of Sennacherib. So too is the view of our Sages in the Jerusalem Talmud (Berakhot, ch. 9, hal. 3), which challenges Rabbi Shimon ben Nachmani, who said that Shebuel returned to God with all his heart—yet the verse states “until the exile of the land.” It answers that after the death of David, Solomon removed him, and he reverted to his former ways; and he was the old prophet in Bethel. And regarding what Radak asks—how could it be that Samuel, David, and Solomon did not destroy this idol?—it may be said that indeed in the days of Samuel it was annulled. Therefore it says, “all the days that the House of God was in Shiloh.” At that time he repented, and David appointed him over the treasuries. But in the days of Jeroboam, who set up the calf in Dan, his sons were priests there until the exile of Sennacherib.
+**And they set up for themselves the idol.** At first they established only the idol itself, to draw down the spiritual influence; afterward, **they set up for themselves Micah’s graven image** as Micah had made it, together with the ephod and the teraphim. And it stood **all the days that the House of God was in Shiloh**—this corresponding to that. As for what is said that Jonathan and his sons were priests until the exile of the land, Rashi explains this as referring to the exile of Sennacherib. So too is the view of our Sages in the Jerusalem Talmud (Berakhot, ch. 9, hal. 3), which challenges Rabbi Shimon ben Nachmani, who said that Shebuel returned to God with all his heart—yet the verse states “until the exile of the land.” It answers that after the death of David, Solomon removed him, and he reverted to his former ways; and he was the old prophet in Bethel. And regarding what Radak asks—how could it be that Samuel, David, and Solomon did not destroy this idol?—it may be said that indeed in the days of Samuel it was annulled. Therefore it says, “all the days that the House of God was in Shiloh.” At that time he repented, and David appointed him over the treasuries. But in the days of Jeroboam, who set up the calf in Dan, his sons were priests there until the exile of Sennacherib.
 
 
 
@@ -7357,9 +6981,7 @@ And it stood **all the days that the House of God was in Shiloh**—this corresp
 **ויקם אישה.** גם זה מעיד שלא זנתה, כי קוראהו אישה, שאם זנתה היתה אסורה עליו לדעת האומר דפילגש היא בקדושין: **ויראהו אבי הנערה** כו' **ויחזק בו חותנו.** השמות באו לפי הענין, שמח בו מצד שהוא אביה ורוצה שלא תהיה צרורה עגונה, והחזיק בו מצד שהוא חותנו:
 
 
-"**And her husband arose.** This too indicates that she had not committed adultery, for Scripture calls him her husband; had she committed adultery, she would have been forbidden to him—according to the opinion that a concubine has kiddushin.
-
-**And the young woman’s father saw him** … **and his father-in-law prevailed upon him.** The terms are used according to the context: he rejoiced in him insofar as he was her father and wished that she not remain bound and deserted; and he pressed him to stay insofar as he was his father-in-law."
+"**And her husband arose.** This too indicates that she had not committed adultery, for Scripture calls him her husband; had she committed adultery, she would have been forbidden to him—according to the opinion that a concubine has kiddushin. **And the young woman’s father saw him** … **and his father-in-law prevailed upon him.** The terms are used according to the context: he rejoiced in him insofar as he was her father and wished that she not remain bound and deserted; and he pressed him to stay insofar as he was his father-in-law."
 
 
 
@@ -7387,9 +7009,7 @@ And it stood **all the days that the House of God was in Shiloh**—this corresp
 **הנה נא רפה היום.** פי' מהרי"א שא"ל, א] **הנה רפה היום**, ועת ללון. ב] אחר שבלא זה לא תגיע עד ביתך ותצטרך לחנות בדרך, **חנות היום לין פה**, עשה החניה פה ומחר תשכימו ותגיע ביום אחד עד אהלך ולא תצטרך ללון בדרך:
 
 
-"**Behold now, the day is waning.** The Maharai”a explains that he said to him:
-(1) **Behold, the day is slackening** — it is already time to lodge.
-(2) Even aside from that, you will not reach your home today and will have to camp along the way; therefore, **camp today and lodge here**. Make your stop here, and tomorrow you may rise early and in a single day reach your tent, without needing to lodge on the road."
+"**Behold now, the day is waning.** The Maharai”a explains that he said to him: (1) **Behold, the day is slackening** — it is already time to lodge. (2) Even aside from that, you will not reach your home today and will have to camp along the way; therefore, **camp today and lodge here**. Make your stop here, and tomorrow you may rise early and in a single day reach your tent, without needing to lodge on the road."
 
 
 
@@ -7404,8 +7024,7 @@ And it stood **all the days that the House of God was in Shiloh**—this corresp
 **(י) מ"ש שעמו צמד חמורים ופילגשו הוא למותר שכבר אמר בפסוק ג' ונערו עמו וצמד חמורים, ולמה לא הזכיר פה את נערו?:**
 
 
-"**Questions**
-**(10) What is meant by stating that with him were a pair of donkeys and his concubine?** This appears unnecessary, for it was already said in verse 3, “and his servant was with him, and a pair of donkeys.” And why is his servant not mentioned here?"
+"**Questions** **(10) What is meant by stating that with him were a pair of donkeys and his concubine?** This appears unnecessary, for it was already said in verse 3, “and his servant was with him, and a pair of donkeys.” And why is his servant not mentioned here?"
 
 
 ###### Malbim on Judges 19:10:2
@@ -7416,8 +7035,7 @@ And it stood **all the days that the House of God was in Shiloh**—this corresp
 **ועמו.** היא הוצעה למה שלא לן בשדה, כי היה עמו **צמד חמורים חבושים** כל טוב, וירא מלסטים. ב] **מפני פילגשו**, שהאשה היא רפת המזג ללון בשדה. וכן מפני שני טעמים אלה לא סר אל עיר נכרי, מפני הלסטים, ומפני אונס פילגשו:
 
 
-"**And with him.** This serves as an explanation for why he did not lodge in the field: for with him were **a pair of saddled donkeys**, carrying all his goods, and he feared bandits.
-Secondly, **because of his concubine**, for a woman is of delicate constitution and not suited to lodge in the field. For these same two reasons he did not turn aside into a foreign city—because of bandits, and because of possible violation of his concubine."
+"**And with him.** This serves as an explanation for why he did not lodge in the field: for with him were **a pair of saddled donkeys**, carrying all his goods, and he feared bandits. Secondly, **because of his concubine**, for a woman is of delicate constitution and not suited to lodge in the field. For these same two reasons he did not turn aside into a foreign city—because of bandits, and because of possible violation of his concubine."
 
 
 
@@ -7432,8 +7050,7 @@ Secondly, **because of his concubine**, for a woman is of delicate constitution 
 **(יב) כפל עיר נכרי אשר לא מב"י:**
 
 
-"**Questions**
-**(12) Why the repetition: “a foreign city” — “which is not of the children of Israel”?**"
+"**Questions** **(12) Why the repetition: “a foreign city” — “which is not of the children of Israel”?**"
 
 
 ###### Malbim on Judges 19:12:2
@@ -7472,12 +7089,7 @@ Secondly, **because of his concubine**, for a woman is of delicate constitution 
 **והנה איש זקן.** כמו שספר גנות בני הגבעה שסגרו דלתם לאורח הגם שהיו מתושבי העיר ולא צר להם המקום, ספר שבח הזקן הזה, א] עם היותו זקן, ב] **שבא** עתה ברגע זו, ג] שבא **מן מעשהו** הקשה **בשדה**, ד] שהיה **גר בגבעה**, ולא הוטלה עליו המצוה יותר מתושבי העיר, בכ"ז:
 
 
-**And behold, an old man.** Just as the text recounts the disgrace of the men of Gibeah, who shut their doors to a traveler even though they were residents of the city and were not pressed for space, so it relates the praise of this old man:
-
-(1) though he was elderly; 
-(2) **that he had just come** at that very moment; 
-(3) that he came **from his work**, the hard labor **in the field**; 
-(4) and that he was **a sojourner in Gibeah**, so the obligation of hospitality did not rest upon him more than upon the townspeople—yet nevertheless he acted as he did.
+**And behold, an old man.** Just as the text recounts the disgrace of the men of Gibeah, who shut their doors to a traveler even though they were residents of the city and were not pressed for space, so it relates the praise of this old man: (1) though he was elderly; (2) **that he had just come** at that very moment; (3) that he came **from his work**, the hard labor **in the field**; (4) and that he was **a sojourner in Gibeah**, so the obligation of hospitality did not rest upon him more than upon the townspeople—yet nevertheless he acted as he did.
 
 
 
@@ -7506,8 +7118,7 @@ Secondly, **because of his concubine**, for a woman is of delicate constitution 
 **(יח) למה שנה שנית ואלך עד בית לחם? ולמה אמר ואת בית ה' אני הולך?:**
 
 
-**Questions** 
-**(18) Why does he repeat a second time, “and I am going to Bethlehem”? And why does he say, “and I am going to the House of Hashem”?**
+**Questions** **(18) Why does he repeat a second time, “and I am going to Bethlehem”? And why does he say, “and I am going to the House of Hashem”?**
 
 
 ###### Malbim on Judges 19:18:2
@@ -7518,13 +7129,7 @@ Secondly, **because of his concubine**, for a woman is of delicate constitution 
 **ויאמר אליו עברים אנחנו.** ר"ל הנה מעברינו הוא **מבית לחם יהודה עד ירכתי הר אפרים**, אשר א"א להגיע לשם בעוד יומם, כי **משם אנכי**, ושם מחוז חפצי. ולבל ידמה שהוא רוכל המחזר בעיירות, אמר **ואלך** רק **עד בית לחם.** ולבל יחשוב שהוא מאנשי מיכה עובדי הפסל (שמיכה היה בהר אפרים), אמר **ואת בית ה' אני הולך**, ובכ"ז **ואין איש מאסף אותי הביתה**, ולכן ישבתי בחוץ:
 
 
-**And he said to him, “We are passing through.”** That is, our journey is **from Bethlehem of Judah to the far reaches of the hill country of Ephraim**, and it is impossible to reach there while it is still day, for **I am from there**, and that is my home district.
-
-And lest he think that he was a peddler going about from town to town, he said that he went only **as far as Bethlehem**.
-
-And lest he suppose that he was one of Micah’s men who worshiped the idol (for Micah was in the hill country of Ephraim), he said, **“and I am going to the House of Hashem.”**
-
-Yet despite all this, **there is no one who gathers me into his house**, and therefore I have remained outside.
+**And he said to him, “We are passing through.”** That is, our journey is **from Bethlehem of Judah to the far reaches of the hill country of Ephraim**, and it is impossible to reach there while it is still day, for **I am from there**, and that is my home district. And lest he think that he was a peddler going about from town to town, he said that he went only **as far as Bethlehem**. And lest he suppose that he was one of Micah’s men who worshiped the idol (for Micah was in the hill country of Ephraim), he said, **“and I am going to the House of Hashem.”** Yet despite all this, **there is no one who gathers me into his house**, and therefore I have remained outside.
 
 
 
@@ -7538,9 +7143,7 @@ Yet despite all this, **there is no one who gathers me into his house**, and the
 ובל תחשוב שתצטרך לתת יבול לחמורים, לז"א **גם תבן גם מספוא יש לחמורינו.** וכן לא תצטרך ליתן לי לאכול ולא לנער, כי **גם לחם ויין יש**, וגם יש יותר מן הצורך עד שהנער יאכל עם עבדיך מן הלחם ויין שאתן לחלקו, וכן גם שאר דברים תבלין וכדומה, כי **אין מחסור כל דבר**:
 
 
-And lest you think that you will need to provide fodder for the donkeys, therefore he said, **“There is both straw and feed for our donkeys.”**
-
-And likewise, you will not need to give food to me or to the servant, for **“there is also bread and wine.”** Indeed, there is more than enough—so that the servant may eat with your servants from the bread and wine that I will give as his portion. And so too with other provisions, spices and the like—**there is no lack of anything.**
+And lest you think that you will need to provide fodder for the donkeys, therefore he said, **“There is both straw and feed for our donkeys.”** And likewise, you will not need to give food to me or to the servant, for **“there is also bread and wine.”** Indeed, there is more than enough—so that the servant may eat with your servants from the bread and wine that I will give as his portion. And so too with other provisions, spices and the like—**there is no lack of anything.**
 
 
 
@@ -7569,8 +7172,7 @@ And likewise, you will not need to give food to me or to the servant, for **“t
 **(כב) מה ההבדלים בין מעשה הגבעה ובין מעשה סדום? שכפי הנראה שני המעשים דומים מכל צד:**
 
 
-**The questions —
- (22) What are the differences between the story of Giveah and the story of Sodom? As from what it appears, the stories are similar in every way:**
+**Questions** **(22) What are the differences between the incident of Gibeah and the incident of Sodom? For at first glance, the two events appear similar in every respect.**
 
 
 ###### Malbim on Judges 19:22:2
@@ -7581,7 +7183,7 @@ And likewise, you will not need to give food to me or to the servant, for **“t
 **המה מיטיבים את לבם והנה אנשי העיר** וכו'. כבר דברו בזה חקרי לב מה נשתנה ענין הגבעה מחטאת סדום אשר המטיר עליהם גפרית ואש ויהפך משורש ערים, ואלה עשו כמעשה סדום ולא חלו בם ידי שמים להענישם. ויאמרו כי יש הבדל בין הרשע ובין החוטא, ר"ל כי אנשי סדום היה חטאם מצד השכל, כי חקקו להם חוקים לא טובים ומשפטים בל יחיו בהם חיי המדיניות, וקבלו עליהם החוקים האלה למשפטים צדיקים, בל יעבר אורח דרך ארצם, והעובר ענוש יענש כפי נימוסיהם, ולא עשו מה שעשו מפני תאותם רק מפני נימוסיהם הנשחתות, לא כן אנשי הגבעה לא שכלם היה במעל הזה, ולא מפני חק ונימוס עשו זאת, רק מפני תאוותם, שמה שלא האריחו את האיש היה מפני כי היו כילים וצרי עין, ומה שרצו לבעול אותו היה מפני תאותם לבד. והבחינה לזה, א] לוט הכניס המלאכים בסתר (כמ"ש בפי' התורה במ"ש (בראשית יט, ב) סורו אל בית עבדכם), והמלאכים רצו ללון ברחוב כי יראו מפני הנימוס, והזקן בגבע הכניס אותו לביתו בפרהסיא. ב] שם כתוב (שם, ד) ואנשי העיר אנשי סדום נסבו על הבית מנער ועד זקן, שהיה זה כולל לכל אנשי העיר מצד שהיו אנשי סדום והיה הכנסת האורחים נגד חוקיהם, ופה כתיב **ואנשי העיר אנשי בליעל**, ר"ל בני בליעל אשר בעיר והאספסוף אשר בקרבה התאוו תאוה, לא כולם, ולא מצד הנימוס רק מצד שהם אנשי בליעל ועושים נגד החק והמשפט. ג] שם כתיב נסבו על הבית, שרצו ללחום על בעל הבית שעבר על חוקיהם, ופה כתיב **נסבו את הבית**, לשמור בל יברח האורח, לא שנסבו על הבית ללחום, ולכן לא רצו בבתו כי לא רצו לעשות רע להזקן. ולכן כתיב מתדפקים על הדלת בבנין התפעל, שמורה על הפעולה המדומה, כמו מתעשר מתרושש, שהיו נראים כדופקים, לא דופקים ממש כי לא באו דרך מלחמה, משא"כ בסדום כתיב (שם, ט) ויגשו לשבור הדלת. וכן שם סגר לוט את הדלת אחריו כי ירא מפניהם, לא כן פה, אמר **ויצא אליהם**, כי ידע שלא יעיזו ליכנס בביתו. ד] שא"ל שהיא נבלה, הרי היה שכלם שלם להכיר שהיא נבלה, לא כן לוט לא הזכיר רק הטענה הראשונה בל ירעו על שבאו לביתו, ולא אמר להם שהיא נבלה, כי היה אצלם דבר טוב וראוי לפי משפטיהם:
 
 
-**While they were enjoying themselves, behold the men of the town, etc.:** Wise scholars have already spoken about this, how the matter of Giveah is different from the sin of Sodom, upon which He rained down brimstone and fire and overturned cities from the root, whereas the hands of heaven were stayed about punishing these [men of Giveah] who acted like [in] the story of Sodom. And they said there is a difference between an evildoer and a sinner. That means to say that the sin of the people of Sodom was very great from [their] intellect. For they legislated laws that were not good, and judgments through which they could not live [a proper] civil life. Yet they accepted these laws as righteous justice — that a wayfarer not pass through their land and that one who passed through be punished according to their corrupted mores. So they did not do what they did because of their desires, but rather because of their corrupted mores. Not so with the people of Giveah, it was not their intellect that was [the basis for] this treachery and they did not do it because of laws and mores, but rather out of their desire. As that which they did not host the man was because they were stingy and miserly, and that which they wanted to have intercourse with her was only because of their desire. And the test of this is: A) Lot brought the angels in secretly (as it is explicitly written in the Torah in that which he said, *turn aside to your servant’s house* [Genesis 19:2]). And the angels wanted to sleep in the square because they were afraid of the mores, whereas the old man in Giveah brought them openly into his house. B) There it is written: *when the men of the city, the men of Sodom, encircled over the house, young and old alike* (Genesis 19:4), which included all the people of the city, from the angle that they were people of Sodom and hospitality was against their laws. Whereas here it is written, *the men of the city, base men*, meaning the base men in the city and the rabble that were in it had a desire, not all of [the city's] men. And it was not from the angle of their mores, but rather from the angle that they were base men and doing something against the law and justice. C) There it is written, *they encircled over (nasavu al) the house*, since they wanted to fight with the homeowner who transgressed their laws. But here it is written: *they encircled (nasavu et) the house*, to guard that the guest not escape. It was not that they surrounded over the house to fight. And that is why they did not want his daughter. Since they did not want to do harm to the old man. And that is why it is written, "*mitdafkim* [were pounding]" in the *hitpael* [reflexive] form, which indicates a feigned action — as in *mitasher* [acting like a rich person] or *mitroshesh* [acting like a poor man] (Proverbs 13:7) — as they [only] appeared to be pounding, but were not actually pounding, since they did not come in the way of a fight. This was not the case in Sodom, [there] it is written: *and they came near to break the door* (Genesis 19:9). And also there, Lot closed the door behind them because he was afraid of them, which is not the case here — it states, *And he went out to them* — since he knew they would not have the gumption to enter his house. D) Since he said to them that it was a disgrace, behold, their intellect was in place to know that it was a disgrace, which was not the case with Lot. He only mentioned the first argument, that they should not do [the strangers] evil since they had come to his house. But he did not say to them that it was a disgrace, since it was a good thing to them and something fitting according to their statutes.
+**They were making their hearts merry, and behold, the men of the city…** Scholars have already discussed this at length: What distinguishes the incident of Gibeah from the sin of Sodom, upon which brimstone and fire were rained and whose cities were overturned from their foundations? These acted as Sodom did, yet Heaven did not immediately punish them. They explain that there is a difference between the wicked and the sinful. The men of Sodom sinned out of ideology: they enacted corrupt laws and unjust civil ordinances, and accepted these as righteous statutes—that no traveler might pass through their land. Whoever transgressed was punished according to their established norms. They did not act out of mere desire, but out of perverted principles. The men of Gibeah, however, did not act from philosophical corruption nor from civic law, but from lust alone. Their refusal to host the traveler was due to stinginess and narrow-heartedness, and their desire to abuse him stemmed purely from base appetite. The distinctions are evident: (1) Lot brought the angels into his house secretly (as explained on Genesis 19:2), and the angels preferred to lodge in the street, fearing the civic law. But the old man in Gibeah brought the traveler openly into his home. (2) There it says, “the men of the city, the men of Sodom, surrounded the house, from young to old”—meaning the entire city, because hospitality violated their official law. Here it says **“the men of the city, men of worthlessness”**—that is, base individuals within the city, rabble who lusted after evil. Not all, and not by law, but because they were lawless men acting against justice. (3) There it says they “surrounded the house,” intending to wage battle against the homeowner for violating their law. Here it says **“they surrounded the house”** to prevent the guest from escaping—not to attack the old man. Therefore they did not seek his daughter, for they did not intend harm to him. Accordingly, it says they were “knocking” in a reflexive form, implying a show of force rather than actual violence; whereas in Sodom it says, “they drew near to break the door.” There, Lot shut the door behind him out of fear. Here it says, **“and he went out to them,”** for he knew they would not dare enter his home. (4) Here he told them that the act was “a disgrace,” showing that their moral sense remained intact—they recognized it as wickedness. But Lot did not argue that point, only that they should not do evil to guests who entered his home. For in Sodom, such conduct was considered proper under their corrupted laws.
 
 
 
@@ -7609,13 +7211,7 @@ And likewise, you will not need to give food to me or to the servant, for **“t
 **ולא אבו.** פי' המפ' שלא רצו בקלון בת הזקן: **ויחזק האיש בפילגשו.** וגם זה ראיה שהיה זה רק למלאת תאותם, וע"כ כשמצאו את פילגשו נאותה לתאותם, הסתפקו בזה: **וידעו אותה.** כדרכה: **ויתעללו בה.** שלא כדרכה:
 
 
-**But they would not listen.** The commentators explain that they did not desire the disgrace of the old man’s daughter.
-
-**And the man seized his concubine.** This too is proof that their intent was merely to satisfy their lust; therefore, when they found his concubine suitable for their desire, they were satisfied with her.
-
-**And they knew her** — in the usual manner.
-
-**And they abused her** — in an unnatural manner.
+**But they would not listen.** The commentators explain that they did not desire the disgrace of the old man’s daughter. **And the man seized his concubine.** This too is proof that their intent was merely to satisfy their lust; therefore, when they found his concubine suitable for their desire, they were satisfied with her. **And they knew her** — in the usual manner. **And they abused her** — in an unnatural manner.
 
 
 
@@ -7630,8 +7226,7 @@ And likewise, you will not need to give food to me or to the servant, for **“t
 **(כט) למה נתחה לעצמיה ושלח הנתחים בכל גבול ישראל, הכי לא היה די אם היה שולח סיפור המעשה לבד?**
 
 
-**Questions** 
-**(29) Why did he cut her into pieces and send the parts throughout all the borders of Israel? Would it not have been sufficient to send only a report of what had occurred?**
+**Questions** **(29) Why did he cut her into pieces and send the parts throughout all the borders of Israel? Would it not have been sufficient to send only a report of what had occurred?**
 
 
 ###### Malbim on Judges 19:29:2
@@ -7644,13 +7239,9 @@ And likewise, you will not need to give food to me or to the servant, for **“t
 
 **And he cut her into twelve pieces.** By this he demonstrated that the tribes of God are united like one body. Just as it is impossible for the spirit of life and intellect to dwell in a body once it has been dismembered—its limbs becoming lifeless corpses—so too the spirit of life and the Divine Presence cannot rest upon the nation as a whole if its parts are divided and its tribes fail to unite as the limbs of a living body must unite to sustain life.
 
+ And just as when one limb becomes infected and decay sets in, it is a grievous illness for the entire body, and efforts are made either to heal it or to amputate it lest it corrupt the whole—so too in this matter: if certain individuals within the nation become corrupted, the people must necessarily strive to bring them back to repentance or remove them from their midst.
 
-
-And just as when one limb becomes infected and decay sets in, it is a grievous illness for the entire body, and efforts are made either to heal it or to amputate it lest it corrupt the whole—so too in this matter: if certain individuals within the nation become corrupted, the people must necessarily strive to bring them back to repentance or remove them from their midst.
-
-
-
-And when he sent the pieces, he certainly also sent an account of the incident, to make known that an outrage had occurred in the land.
+ And when he sent the pieces, he certainly also sent an account of the incident, to make known that an outrage had occurred in the land.
 
 
 
@@ -7665,8 +7256,7 @@ And when he sent the pieces, he certainly also sent an account of the incident, 
 **(ל) למה כפל לא נהיתה, ולא נראתה? וכפל שימו, עוצו, דברו:**
 
 
-**Questions** 
-**(30) Why does it repeat “it has not happened” and “it has not been seen”? And why the repetition: “consider,” “take counsel,” “speak”?**
+**Questions** **(30) Why does it repeat “it has not happened” and “it has not been seen”? And why the repetition: “consider,” “take counsel,” “speak”?**
 
 
 ###### Malbim on Judges 19:30:2
@@ -7677,13 +7267,7 @@ And when he sent the pieces, he certainly also sent an account of the incident, 
 **והיה כל הראה ואמר לא נהיתה.** ועכ"פ אם נהיתה **לא נראתה**, כי היה בסתר. לכן **שימו לכם עליה**, לחקור ולדרוש אם אמת נכון הדבר, ואח"כ **עוצו** איך לתקן המעוות, כי המיעץ יחשב על כל חלקי הסותר והאפשריות, ואח"כ **ודברו**, דבר מוחלט, שהיא ההסכמה שאחרי העצה:
 
 
-**And it was that everyone who saw it said, “It has not happened.”** And even if something like it had happened, **it had not been seen**, for it was done in secret.
-
-Therefore, **“consider it”** — investigate and inquire whether the matter is true and established.
-
-After that, **“take counsel”** — how to rectify the wrong, for one who gives counsel weighs all opposing factors and possibilities.
-
-And afterward, **“and speak”** — a decisive word, meaning the firm resolution that follows deliberation.
+**And it was that everyone who saw it said, “It has not happened.”** And even if something like it had happened, **it had not been seen**, for it was done in secret. Therefore, **“consider it”** — investigate and inquire whether the matter is true and established. After that, **“take counsel”** — how to rectify the wrong, for one who gives counsel weighs all opposing factors and possibilities. And afterward, **“and speak”** — a decisive word, meaning the firm resolution that follows deliberation.
 
 
 
@@ -7701,8 +7285,7 @@ And afterward, **“and speak”** — a decisive word, meaning the firm resolut
 (א) למה התקבצו ישראל למלחמה טרם ידעו היטב גוף המעשה? מה להם לכלל ישראל בזה והלא כל שבט היה לו ב"ד מיוחד לדון את אנשי שבטו? ולמה לא שלחו שבני בנימין יבערו החוטאים, שעליהם מוטל זאת, והם יאמרו תנו את האנשים ונמיתם?**
 
 
-**Questions** 
-**(1) Why did Israel assemble for war before they fully knew the details of the incident? What concern was this to all of Israel, since each tribe had its own court to judge the members of its tribe? And why did they not first send a demand that the tribe of Benjamin remove the offenders—saying, “Deliver the men, and we will put them to death”?**
+**Questions** **(1) Why did Israel assemble for war before they fully knew the details of the incident? What concern was this to all of Israel, since each tribe had its own court to judge the members of its tribe? And why did they not first send a demand that the tribe of Benjamin remove the offenders—saying, “Deliver the men, and we will put them to death”?**
 
 
 ###### Malbim on Judges 20:1:2
@@ -7713,15 +7296,7 @@ And afterward, **“and speak”** — a decisive word, meaning the firm resolut
 **ויצאו כל בני ישראל ותקהל העדה.** הנה אם היו הולכים בזה אחר משפט התורה בנידון פרטי, לא היו בעלי הגבעה חייבים מיתה, כמ"ש הרמב"ן, שעל מה שרצו לאנוס אותו היה רק מחשבה ולא עשו בפועל, ועל מה שבאו על פילגשו לדעת הרמב"ן פילגש היא בלא קדושין, ואף לדעת האומר שהיא בקדושין לא היו שם עדים והתראה, ועל מה שמתה, זה היה מחולשתה כי לא (כוונה) [כוונו] להרגה, וי"ל שמתה מפני הקור או מסבה אחרת. רק שישראל התקנאו על כי נעשה בקהל ובפרסום, שבזה נדונים כדין כופרים, כי רבים המתאספים לנבלה גדולה כזאת בשאט נפש, ועם כל הפרטים שנצטרפו במעשה זאת הם קרובים לעיר הנדחת, ויכולים להרגם למגדר מלתא לפי צורך שעה, וזה לא יוכל לעשות רק או מלך ישראל שיכול להרגם מדין המלכות, או כללות ישראל עם הסנהדרין בראשיהם, שעומדים במקום מלך ויכולים להרוג חברת הזדונים כמו המלך, בפרט בשהיה בזה חילול השם גדול. וז"ש ויצאו כל בני ישראל ותקהל העדה, כי מבואר אצלנו (בחבורי התורה והמצוה ויקרא סי' רמא) שגדר שם עדה הוא אם התאספו ישראל וזקניהם בראשיהם:
 
 
-**And all the children of Israel went out, and the congregation assembled.** 
-
-If they had proceeded strictly according to the judicial law of the Torah in an individual case, the men of Gibeah would not have been liable to death, as the Ramban explains. For regarding their intent to violate the man, it was only a thought and not carried out in action. Concerning their abuse of the concubine: according to Ramban, a concubine is without kiddushin; and even according to the opinion that she has kiddushin, there were no witnesses and no prior warning. As for her death, it may be said that she died from weakness, since they did not intend to kill her; perhaps she died from the cold or some other cause.
-
-Rather, Israel was aroused with zeal because the act was committed publicly and openly. In such a case, they are judged like heretics—for when many gather brazenly to commit so grave an outrage, and with all the compounded elements of this deed, they approach the status of an “ir hanidachat” (a condemned city). Therefore they could be executed as an extraordinary measure (“le-migder milta”) according to the need of the hour.
-
-Such authority could only be exercised either by the king of Israel, who may execute under the law of the monarchy, or by the entirety of Israel with the Sanhedrin at their head—who stand in place of the king and may destroy a band of evildoers as a king would, especially in a case involving great desecration of the Divine Name.
-
-Thus it says, **“And all the children of Israel went out, and the congregation assembled,”** for as we have explained elsewhere (in my work Torah ve-haMitzvah, Vayikra §241), the term “congregation” refers to Israel assembled with their elders at their head.
+**And all the children of Israel went out, and the congregation assembled.** If they had proceeded strictly according to the judicial law of the Torah in an individual case, the men of Gibeah would not have been liable to death, as the Ramban explains. For regarding their intent to violate the man, it was only a thought and not carried out in action. Concerning their abuse of the concubine: according to Ramban, a concubine is without kiddushin; and even according to the opinion that she has kiddushin, there were no witnesses and no prior warning. As for her death, it may be said that she died from weakness, since they did not intend to kill her; perhaps she died from the cold or some other cause. Rather, Israel was aroused with zeal because the act was committed publicly and openly. In such a case, they are judged like heretics—for when many gather brazenly to commit so grave an outrage, and with all the compounded elements of this deed, they approach the status of an “ir hanidachat” (a condemned city). Therefore they could be executed as an extraordinary measure (“le-migder milta”) according to the need of the hour. Such authority could only be exercised either by the king of Israel, who may execute under the law of the monarchy, or by the entirety of Israel with the Sanhedrin at their head—who stand in place of the king and may destroy a band of evildoers as a king would, especially in a case involving great desecration of the Divine Name. Thus it says, **“And all the children of Israel went out, and the congregation assembled,”** for as we have explained elsewhere (in my work Torah ve-haMitzvah, Vayikra §241), the term “congregation” refers to Israel assembled with their elders at their head.
 
 
 
@@ -7736,8 +7311,7 @@ Thus it says, **“And all the children of Israel went out, and the congregation
 **(ב - ג) למה רצו להמיתם ולא היו שם עדים והתראה? בפרט להאומר (סנהדרין כא א) דפילגש היא בלא קידושין. ומה שמתה היה מפני חולשתה לא שכוונו להמיתה. ולמה שפכו חמתם על כל שבט בנימין? מ"ש בפסוק ג' וישמעו בני בנימין, אין מקומו שם כלל:**
 
 
-**Questions** 
-**(2–3) Why did they seek to put them to death when there were no witnesses and no prior warning? Especially according to the opinion (Sanhedrin 21a) that a concubine is without kiddushin. And her death was due to her weakness, not because they intended to kill her. Why then did they pour out their wrath upon the entire tribe of Benjamin? And the statement in verse 3, “And the children of Benjamin heard,” does not seem to belong there at all—why is it placed in that context?**
+**Questions** **(2–3) Why did they seek to put them to death when there were no witnesses and no prior warning? Especially according to the opinion (Sanhedrin 21a) that a concubine is without kiddushin. And her death was due to her weakness, not because they intended to kill her. Why then did they pour out their wrath upon the entire tribe of Benjamin? And the statement in verse 3, “And the children of Benjamin heard,” does not seem to belong there at all—why is it placed in that context?**
 
 
 ###### Malbim on Judges 20:2:2
@@ -7748,11 +7322,7 @@ Thus it says, **“And all the children of Israel went out, and the congregation
 **ויתיצבו פנות כל העם.** ר"ל שהתיצבו כסדר הדגלים, יהודה ודגלו למזרח וכו', ובכללם נמצאו **כל שבטי ישראל בקהל עם האלהים**, כי נקהלו מאותו צד שהם עם האלהים הבאים לקנאות על כבוד שמו, והיה **ארבע מאות אלף איש** וכולם **רגלי**, לא רוכבי סוסים, אשר באו ויתאספו על קנאת כבוד השם:
 
 
-**And the chiefs of all the people stood.** That is, they took their positions according to the order of the banners—Judah and his division to the east, and so on.
-
-And among them were found **all the tribes of Israel in the assembly of the people of God**, for they gathered as the people of God, coming to be zealous for His honor.
-
-And there were **four hundred thousand men**, all of them **foot soldiers**, not riders on horses—who came and assembled out of zeal for the honor of the Divine Name.
+**And the chiefs of all the people stood.** That is, they took their positions according to the order of the banners—Judah and his division to the east, and so on. And among them were found **all the tribes of Israel in the assembly of the people of God**, for they gathered as the people of God, coming to be zealous for His honor. And there were **four hundred thousand men**, all of them **foot soldiers**, not riders on horses—who came and assembled out of zeal for the honor of the Divine Name.
 
 
 
@@ -7766,11 +7336,7 @@ And there were **four hundred thousand men**, all of them **foot soldiers**, not
 **וישמעו בני בנימין.** ספר שדבר זה לא נעלם מבנימן כי שמעו שעלו ב"י המצפה, גם שמעו שבני ישראל אמרו איכה נהיתה הרעה הזאת, וכך שמעו כל הדברים שיספר עד פסוק י"ב, ובכ"ז לא שתו לב לבער החוטאים בעצמם, או לבא ג"כ אל האסיפה לנקות א"ע: **ויאמרו בני ישראל דברו איכה נהיתה הרעה הזאת.** כי הגם ששמעו המעשה מפי השלוחים מוליכי הנתחים, העקר תלוי בזה לפי פרטי הענין, שאם היה זה יוצא מאנשים יחידים שאנסו פילגשו והיא מתה מחמת בעילה אין זה דבר שכל ישראל ילחמו עליו, ועקר תלוי ביתר הפרטים שהתקבצו בנבלה הזאת, כי אולי זנתה כבר או היתה פנויה כפי שהמליץ הרמב"ן בעד אנשי הגבעה, או אולי מתה מחמת הקור וכדומה:
 
 
-**And the children of Benjamin heard.** This teaches that the matter was not hidden from Benjamin. They heard that the children of Israel had gone up to Mizpah, and they also heard that the children of Israel were saying, “How did this evil happen?” Indeed, they heard all the details that are related up to verse 12. Yet despite this, they did not take it to heart to remove the offenders themselves, nor did they come to the assembly to clear themselves.
-
-**And the children of Israel said, “Speak—how did this evil happen?”** For although they had already heard the account from the messengers who carried the pieces, the essential matter depended on the specific details. If this had been the act of isolated individuals who violated his concubine and she died merely as a result of the assault, that alone would not justify all Israel going to war.
-
-Rather, everything depended upon the additional elements that converged in this outrage. Perhaps she had already acted immorally, or perhaps she was not legally bound in marriage, as the Ramban argued in defense of the men of Gibeah. Or perhaps she died from the cold or some other cause. Therefore they sought clarification of the precise circumstances.
+**And the children of Benjamin heard.** This teaches that the matter was not hidden from Benjamin. They heard that the children of Israel had gone up to Mizpah, and they also heard that the children of Israel were saying, “How did this evil happen?” Indeed, they heard all the details that are related up to verse 12. Yet despite this, they did not take it to heart to remove the offenders themselves, nor did they come to the assembly to clear themselves. **And the children of Israel said, “Speak—how did this evil happen?”** For although they had already heard the account from the messengers who carried the pieces, the essential matter depended on the specific details. If this had been the act of isolated individuals who violated his concubine and she died merely as a result of the assault, that alone would not justify all Israel going to war. Rather, everything depended upon the additional elements that converged in this outrage. Perhaps she had already acted immorally, or perhaps she was not legally bound in marriage, as the Ramban argued in defense of the men of Gibeah. Or perhaps she died from the cold or some other cause. Therefore they sought clarification of the precise circumstances.
 
 
 
@@ -7784,9 +7350,7 @@ Rather, everything depended upon the additional elements that converged in this 
 **ויען האיש הלוי איש האשה הנרצחה.** בא להוציא שלא היתה פנויה ולא זנתה תחתיו, כי הוא איש האשה בדרך קדושין, ושהיתה מותרת לו כי לא זנתה תחתיו, ושלא מתה מחמת הקור כי נרצחה: **ויאמר הגבעתה אשר לבנימין באתי.** א] הנה חטא זה מתדמה בחיצוניותו לענין סדום, גם שם באו האורחים ללון וקראו אל לוט הוצא האנשים ונדעה אותם, וזה חרפה גדולה לכלל ישראל, וז"ש באתי **ללון**:
 
 
-**And the Levite, the husband of the murdered woman, answered.** This is stated to clarify that she was not unmarried and had not been unfaithful to him, for he was her husband through kiddushin; she was permitted to him, since she had not committed adultery. And she did not die from the cold, but was murdered.
-
-**And he said, “To Gibeah, which belongs to Benjamin, I came.”** First, this sin outwardly resembles the matter of Sodom. There too, guests came to lodge, and they called to Lot, “Bring out the men that we may know them.” This was a great disgrace to all Israel. Therefore he emphasized that he came **to lodge**.
+**And the Levite, the husband of the murdered woman, answered.** This is stated to clarify that she was not unmarried and had not been unfaithful to him, for he was her husband through kiddushin; she was permitted to him, since she had not committed adultery. And she did not die from the cold, but was murdered. **And he said, “To Gibeah, which belongs to Benjamin, I came.”** First, this sin outwardly resembles the matter of Sodom. There too, guests came to lodge, and they called to Lot, “Bring out the men that we may know them.” This was a great disgrace to all Israel. Therefore he emphasized that he came **to lodge**.
 
 
 
@@ -7802,25 +7366,15 @@ Rather, everything depended upon the additional elements that converged in this 
 
 (2) **“And they rose up against me.”** He and she had had no prior dealings with them whatsoever.
 
+ (3) It was not merely individuals who rose up, but **“the lords of Gibeah”**—the prominent men and leaders of the city—and this openly.
 
+ (4) **“And they surrounded the house against me by night,”** which closely parallels the incident of Sodom.
 
-(3) It was not merely individuals who rose up, but **“the lords of Gibeah”**—the prominent men and leaders of the city—and this openly.
+ (5) **“Me they intended to kill,”** for he would certainly have died from the abuse; all the more so in the case of his concubine, whom they afflicted and she died—even though a woman’s body is more accustomed to relations. And though they only intended it and did not carry it out, he was forced to save himself through his concubine.
 
+ (6) **“And they afflicted my concubine,”** who was a married woman.
 
-
-(4) **“And they surrounded the house against me by night,”** which closely parallels the incident of Sodom.
-
-
-
-(5) **“Me they intended to kill,”** for he would certainly have died from the abuse; all the more so in the case of his concubine, whom they afflicted and she died—even though a woman’s body is more accustomed to relations. And though they only intended it and did not carry it out, he was forced to save himself through his concubine.
-
-
-
-(6) **“And they afflicted my concubine,”** who was a married woman.
-
-
-
-(7) Because they intended to kill him, they therefore abused his concubine—meaning they took her against her will. This was a great public act of violence, as the Maharai”a explains.
+ (7) Because they intended to kill him, they therefore abused his concubine—meaning they took her against her will. This was a great public act of violence, as the Maharai”a explains.
 
 
 
@@ -7848,11 +7402,7 @@ Rather, everything depended upon the additional elements that converged in this 
 **הנה כולכם** כו'. ויש לכם דין מלך לעשות משפט לפי צורך השעה למגדר מלתא: **הבו לכם דבר.** הוא הפסק דין מה לעשות בם. ואח"כ **ועצה**, איך להוציא משפט למעשהו לבער החוטאים (ועיין מ"ש בפי' ישעיה ח, י):
 
 
-**Behold, all of you…** You possess the authority of a king to administer justice according to the need of the hour, in order to make a protective measure.
-
-**“Give your word.”** This refers to issuing the legal ruling—what is to be done with them.
-
-And afterward, **“and counsel”**—how to carry the ruling into effect, to remove the offenders (see what is explained on Isaiah 8:10).
+**Behold, all of you…** You possess the authority of a king to administer justice according to the need of the hour, in order to make a protective measure. **“Give your word.”** This refers to issuing the legal ruling—what is to be done with them. And afterward, **“and counsel”**—how to carry the ruling into effect, to remove the offenders (see what is explained on Isaiah 8:10).
 
 
 
@@ -7866,11 +7416,7 @@ And afterward, **“and counsel”**—how to carry the ruling into effect, to r
 **לא נלך איש לאהלו.** להשאר שם. ואף **לא נסור איש לביתו**, לפי שעה או להכין צדה. וא"ת מי יכין צדה לעם, **זה הדבר אשר נעשה לגבעה**, ר"ל לצורך הגבעה: **עליה.** ר"ל בעבורה, בעבור לבער החוטאים מקרבה, כי לא רצו להמית כל אנשי הגבעה רק החוטאים:
 
 
-**We will not go, each man to his tent** — to remain there. Nor even **will we turn, each man to his house**, whether temporarily or to prepare provisions.
-
-And if you should ask: Who will prepare provisions for the people? **This is the thing that we shall do to Gibeah** — that is, for the matter of Gibeah.
-
-**Against it** — meaning, for its sake, in order to remove the offenders from its midst; for they did not intend to kill all the inhabitants of Gibeah, but only the guilty ones.
+**We will not go, each man to his tent** — to remain there. Nor even **will we turn, each man to his house**, whether temporarily or to prepare provisions. And if you should ask: Who will prepare provisions for the people? **This is the thing that we shall do to Gibeah** — that is, for the matter of Gibeah. **Against it** — meaning, for its sake, in order to remove the offenders from its midst; for they did not intend to kill all the inhabitants of Gibeah, but only the guilty ones.
 
 
 
@@ -7912,11 +7458,7 @@ And if you should ask: Who will prepare provisions for the people? **This is the
 **ועתה תנו את האנשים.** ואז יסולק הרעה מכם אל הכלל: **ונבערה רעה.** כולנו יחד, מכלל ישראל. ועם כל השליחות הזה **לא אבו בני בנימין לשמוע**, להוציא החוטאים, ויותר מזה כי התקבצו למלחמה והתחילו לפטור מים ראשית מדון:
 
 
-**And now, deliver the men.** Then the evil will be removed from you and transferred to the collective responsibility.
-
-**And we will remove the evil** — all of us together, from the midst of Israel.
-
-Yet despite this entire mission, **the children of Benjamin were unwilling to listen**, to surrender the offenders. Even more than that, they gathered for war and were the first to open the strife.
+**And now, deliver the men.** Then the evil will be removed from you and transferred to the collective responsibility. **And we will remove the evil** — all of us together, from the midst of Israel. Yet despite this entire mission, **the children of Benjamin were unwilling to listen**, to surrender the offenders. Even more than that, they gathered for war and were the first to open the strife.
 
 
 
@@ -7945,25 +7487,16 @@ Yet despite this entire mission, **the children of Benjamin were unwilling to li
 **(יח - כט) למה נגפו ישראל שתי פעמים לפני בנימין והם הלכו לריב ריב ה' ולקנא את קנאתו? ואם שאלו שני פעמים במשפט האורים איך לא נתקיים ונפלו חללים? אחר שאמר בפסוק כ"ב שהתחזק איש ישראל ויוסיפו לערך מלחמה, איך אמר בפסוק שאחריו שעלו בית אל וישבו שם, והלא כבר היו לפני הגבעה וערכו שם מלחמה? למה בפעם השנית שאלו בלשון האוסיף לגשת, ובפעם הג' שאלו האוסיף לצאת? ולמה בפעם הב' אמר ויעלו בני ישראל ויבכו, ובפעם הג' אמר ויעלו כל בני ישראל וכל העם? וכן הוסיף שצמו והעלו עולות. מ"ש פכ"ז וכ"ח ושם ארון ברית וכו' ופנחס וכו' מקומו בפסוק י"ח כששאלו בפעם הא', ולמה כפל בימים ההם?**
 
 
-**Questions** 
+**Questions**
+ **(18–29) Why were Israel defeated twice before Benjamin, even though they went to contend Hashem’s cause and to be zealous for His honor? And if they inquired twice through the judgment of the Urim, how was it that the inquiry was not fulfilled and they fell slain?
 
-**(18–29) Why were Israel defeated twice before Benjamin, even though they went to contend Hashem’s cause and to be zealous for His honor? And if they inquired twice through the judgment of the Urim, how was it that the inquiry was not fulfilled and they fell slain?
+ After it says in verse 22 that the men of Israel strengthened themselves and again set the battle in array, how does the following verse say that they went up to Bethel and sat there—had they not already been before Gibeah and arranged the battle there?
 
+ Why in the second instance did they ask in the wording “Shall I again draw near?” and in the third instance did they ask, “Shall I again go out?”
 
+ Why in the second instance does it say, “And the children of Israel went up and wept,” whereas in the third instance it says, “And all the children of Israel and all the people went up”? And why does it add that they fasted and offered burnt offerings?
 
-After it says in verse 22 that the men of Israel strengthened themselves and again set the battle in array, how does the following verse say that they went up to Bethel and sat there—had they not already been before Gibeah and arranged the battle there?
-
-
-
-Why in the second instance did they ask in the wording “Shall I again draw near?” and in the third instance did they ask, “Shall I again go out?”
-
-
-
-Why in the second instance does it say, “And the children of Israel went up and wept,” whereas in the third instance it says, “And all the children of Israel and all the people went up”? And why does it add that they fasted and offered burnt offerings?
-
-
-
-The statement in verses 27–28—“And there was the Ark of the Covenant… and Phinehas…”—would seem to belong earlier, in verse 18, when they inquired the first time. And why is the phrase “in those days” repeated?**
+ The statement in verses 27–28—“And there was the Ark of the Covenant… and Phinehas…”—would seem to belong earlier, in verse 18, when they inquired the first time. And why is the phrase “in those days” repeated?**
 
 
 ###### Malbim on Judges 20:18:2
@@ -7974,15 +7507,11 @@ The statement in verses 27–28—“And there was the Ark of the Covenant… an
 **ויקומו ויעלו בית אל וישאלו באלהים.** חז"ל (פדר"א לח) אמרו הטעם שנגפו בשני פעמים הראשונים, מפני שגם הם היה בקרבם עון פסל מיכה, שהיה ג"כ חטא של רבים, וקצף ה' עליהם על שלא מיחו לכבודו בבני דן על עון ע"ז שהוא חמור יותר, ורק לכבודם מיחו בדבר זימה וחמס שנוגע לתקנת החברה וישוב הארץ. אולם בכתובים עצמם הדברים מבוארים שהיו שלשה הבדלים בין שני הפעמים הראשונים שלא הצליחו במלחמה ובין הפעם האחרון.
 
 
-**And they arose and went up to Bethel, and inquired of God.** 
+**And they arose and went up to Bethel, and inquired of God.**
 
+ Our Sages (Pirkei deRabbi Eliezer 38) said that the reason they were defeated the first two times was because they too had within their midst the sin of Micah’s idol, which was also a sin of the many. Hashem was angered with them for not protesting, for the sake of His honor, against the tribe of Dan concerning the sin of idolatry—which is more severe. Yet here they protested only in a matter of immorality and violence, which concerns social order and the settlement of the land.
 
-
-Our Sages (Pirkei deRabbi Eliezer 38) said that the reason they were defeated the first two times was because they too had within their midst the sin of Micah’s idol, which was also a sin of the many. Hashem was angered with them for not protesting, for the sake of His honor, against the tribe of Dan concerning the sin of idolatry—which is more severe. Yet here they protested only in a matter of immorality and violence, which concerns social order and the settlement of the land.
-
-
-
-However, in the verses themselves it is explained that there were three distinctions between the first two occasions, when they did not succeed in war, and the final time.
+ However, in the verses themselves it is explained that there were three distinctions between the first two occasions, when they did not succeed in war, and the final time.
 
 
 ###### Malbim on Judges 20:18:3
@@ -7993,49 +7522,7 @@ However, in the verses themselves it is explained that there were three distinct
 הבדל א', בראשונה שאלו **מי יעלה לנו בתחלה למלחמה עם בני בנימין**, ולא שאלו אם יעלו למלחמה, ולא אם יצליחו במלחמתם, כי בטחו על גבורתם ועל זרועם זרוע בשר. והשיב להם כפי דרכם **יהודה בתחלה**, ר"ל יהודה הוא בתחלה לכל דבר, ולא אמר יהודה יעלה, וכ"ש שלא הודיע אם יצליחו. בפעם השני אמר **ויתחזק העם איש ישראל ויוסיפו לערך מלחמה במקום אשר ערכו שם ביום הראשון ויעלו ב"י ויבכו לפני ה'**, מבואר שתחלה עלו למלחמה מעצמם ולא שאלו בה' והיו במקום שערכו ביום הראשון, ולפ"ז מ"ש ויעלו ב"י ויבכו לפני ה' א"א שכולם עלו דהא היו במקום המלחמה לפני הגבעה, רק ששלחו זקניהם ושופטיהם והם בכו, ושאלו **האוסיף לגשת למלחמה**, ולא שאלו כמו בפעם השלישי **האוסיף לצאת**, כי כבר יצאו והיו לפני גבעה, ולא היה חסר רק לגשת ולהתקרב אל העיר, וכמ"ש **ויקרבו ב"י אל בני בנימין**, והיה השאלה אם רשאים לעשות המלחמה הזאת עפ"י הדין, וכן לא שאלו אם יצליחו כי בטחו גם עתה על גבורתם ורב חילם, ולכן השיב להם **עלו אליו**, ר"ל אתם רשאים לעלות, ולא הודיעם אם יצליחו כי זה תלוי באם יעשו תשובה על חטאתיהם. לא כן בפעם השלישי לא ערבו לבם לצאת כלל, רק **ויעלו כל בני ישראל וכל העם ויבואו בית אל**, ר"ל איש לא נעדר, ושאלו **האוסיף לצאת**, והשיב **כי מחר אתננו בידך.** ...
 
 
-The first distinction: in the beginning they asked, **“Who shall go up for us first to wage war against the children of Benjamin?”**
-They did not ask whether they should go up to war at all, nor whether they would succeed in their battle, for they relied on their own strength and on the arm of flesh.
-He answered them according to their manner:
-
-**“Judah first.”**
-
-That is, Judah precedes in all matters. It does not say “Judah shall go up,” and certainly it does not state whether they would succeed.
-In the second instance it says:
-
-**“And the people, the men of Israel, strengthened themselves and again set the battle in array in the place where they had set it in array on the first day; and the children of Israel went up and wept before Hashem.”**
-
-It is clear from this that at first they went up to battle on their own initiative and did not inquire of Hashem, and they were already positioned in the place where they had arranged themselves on the first day.
-
-Accordingly, when it says, “the children of Israel went up and wept before Hashem,” it cannot mean that all of them went up, for they were already at the battlefield before Gibeah; rather, they sent their elders and judges, and they wept.
-And they asked:
-
-**“Shall I again draw near for battle?”**
-
-They did not ask, as in the third instance, **“Shall I again go out?”** — because they had already gone out and were standing before Gibeah; all that remained was to approach and engage the city, as it says:
-
-**“And the children of Israel drew near to the children of Benjamin.”**
-
-Thus the question was only whether they were permitted to wage this war according to the law.
-
-They also did not ask whether they would succeed, for even now they relied on their strength and their great numbers.
-
-Therefore He answered them:
-
-**“Go up against him.”**
-
-That is, you are permitted to go up — but He did not inform them whether they would succeed, for that depends on whether they repent of their sins.
-
-Not so in the third instance: they did not even dare to go out at all. Rather:
-
-**“And all the children of Israel and all the people went up and came to Bethel”** — meaning, not a single man was missing.
-
-And they asked:
-
-**“Shall I again go out?”**
-
-And He answered:
-
-**“For tomorrow I will deliver him into your hand.”**
+The first distinction: in the beginning they asked, **“Who shall go up for us first to wage war against the children of Benjamin?”** They did not ask whether they should go up to war at all, nor whether they would succeed in their battle, for they relied on their own strength and on the arm of flesh. He answered them according to their manner: **“Judah first.”** That is, Judah precedes in all matters. It does not say “Judah shall go up,” and certainly it does not state whether they would succeed. In the second instance it says: **“And the people, the men of Israel, strengthened themselves and again set the battle in array in the place where they had set it in array on the first day; and the children of Israel went up and wept before Hashem.”** It is clear from this that at first they went up to battle on their own initiative and did not inquire of Hashem, and they were already positioned in the place where they had arranged themselves on the first day. Accordingly, when it says, “the children of Israel went up and wept before Hashem,” it cannot mean that all of them went up, for they were already at the battlefield before Gibeah; rather, they sent their elders and judges, and they wept. And they asked: **“Shall I again draw near for battle?”** They did not ask, as in the third instance, **“Shall I again go out?”** — because they had already gone out and were standing before Gibeah; all that remained was to approach and engage the city, as it says: **“And the children of Israel drew near to the children of Benjamin.”** Thus the question was only whether they were permitted to wage this war according to the law. They also did not ask whether they would succeed, for even now they relied on their strength and their great numbers. Therefore He answered them: **“Go up against him.”** That is, you are permitted to go up — but He did not inform them whether they would succeed, for that depends on whether they repent of their sins. Not so in the third instance: they did not even dare to go out at all. Rather: **“And all the children of Israel and all the people went up and came to Bethel”** — meaning, not a single man was missing. And they asked: **“Shall I again go out?”** And He answered: **“For tomorrow I will deliver him into your hand.”**
 
 
 ###### Malbim on Judges 20:18:4
@@ -8048,25 +7535,15 @@ And He answered:
 
 The second distinction: in the first instance they did not repent at all. In the second instance, where it says, “And the children of Israel went up and wept,” I have already explained that not all of them went up, but only their elders; and they did not weep over their sins, but over the fallen. Therefore they were again defeated in battle.
 
+ But in the third instance, when all of them went up and all of them wept—and not only that, but they preceded their request with three actions:
 
+ (1) **And they sat before Hashem** — to examine their deeds.
 
-But in the third instance, when all of them went up and all of them wept—and not only that, but they preceded their request with three actions:
+ (2) **And they fasted on that day** — to restrain transgression and bring sin to an end.
 
+ (3) **And they offered burnt offerings and peace offerings** — offerings of thanksgiving for the remnant that had been spared, for they understood that all of them deserved destruction because of their sin.
 
-
-(1) **And they sat before Hashem** — to examine their deeds.
-
-
-
-(2) **And they fasted on that day** — to restrain transgression and bring sin to an end.
-
-
-
-(3) **And they offered burnt offerings and peace offerings** — offerings of thanksgiving for the remnant that had been spared, for they understood that all of them deserved destruction because of their sin.
-
-
-
-Therefore they succeeded on that occasion.
+ Therefore they succeeded on that occasion.
 
 
 ###### Malbim on Judges 20:18:5
@@ -8077,11 +7554,7 @@ Therefore they succeeded on that occasion.
 הבדל ג', בארו חז"ל (יומא עג ב) והמפרשים שבפעם הראשון והשני לא שאלו לא במקום הראוי ולא ע"י הראוי, כי רק בפעם הג' באר ששאלו במקום הראוי כמ"ש **ושם ארון ברית ה' בימים ההם**, ר"ל עתה, וע"י הראוי כמ"ש ופינחס בן אלעזר עומד לפניו בימים **ההם**, ר"ל עתה בפעם הג', ולכן נענו. והנה בני בנימין הוסיפו ברשעם, שתחת שב"י לא היה מטרת מלחמתם רק על הגבעה כמ"ש בפעם הא' ויערכו אתם מלחמה על הגבעה ובפעם הב' ויערכו אל הגבעה כפעם בפעם, נגד זה היה כוונת בני בנימין להשחית את ישראל. וכן הוסיפו להעיז בכל פעם, בפעם הא' ויצאו בני בנימין מן הגבעה, ובפעם הב' ויצא בנימין לקראתם מן הגבעה, מלת לקראתם מורה פנים אל פנים, ובפעם הג' הוסיף הנתקו מן העיר:
 
 
-The third distinction: our Sages (Yoma 73b) and the commentators explain that in the first and second instances they did not inquire in the proper place nor through the proper person. Only in the third instance does it explicitly state that they inquired in the proper place, as it says, **“And the Ark of the Covenant of Hashem was there in those days”**—that is, now, at this time. And through the proper person, as it says, “And Phinehas the son of Eleazar stood before it in those **days**”—meaning now, in the third instance. Therefore they were answered.
-
-Meanwhile, the children of Benjamin increased in their wickedness. For whereas Israel’s objective was only against Gibeah—as it says in the first instance, “and they set the battle against them at Gibeah,” and in the second instance, “and they set the battle against Gibeah as at the first”—Benjamin, by contrast, intended to destroy Israel.
-
-They also grew more brazen each time: in the first instance it says, “And the children of Benjamin went out from Gibeah”; in the second, “And Benjamin went out to meet them from Gibeah”—the phrase “to meet them” implying a face-to-face confrontation; and in the third instance it adds that they were drawn away from the city.
+The third distinction: our Sages (Yoma 73b) and the commentators explain that in the first and second instances they did not inquire in the proper place nor through the proper person. Only in the third instance does it explicitly state that they inquired in the proper place, as it says, **“And the Ark of the Covenant of Hashem was there in those days”**—that is, now, at this time. And through the proper person, as it says, “And Phinehas the son of Eleazar stood before it in those **days**”—meaning now, in the third instance. Therefore they were answered. Meanwhile, the children of Benjamin increased in their wickedness. For whereas Israel’s objective was only against Gibeah—as it says in the first instance, “and they set the battle against them at Gibeah,” and in the second instance, “and they set the battle against Gibeah as at the first”—Benjamin, by contrast, intended to destroy Israel. They also grew more brazen each time: in the first instance it says, “And the children of Benjamin went out from Gibeah”; in the second, “And Benjamin went out to meet them from Gibeah”—the phrase “to meet them” implying a face-to-face confrontation; and in the third instance it adds that they were drawn away from the city.
 
 
 
@@ -8110,10 +7583,7 @@ They also grew more brazen each time: in the first instance it says, “And the 
 **(ל - מו) הנה זכר שתי פעמים שנפלו מבנימין כ"ה אלף, וזכר שתי פעמים שהפך איש ישראל ושתי פעמים שהכו בני בנימין בהם כשלשים איש ושתי פעמים שעלה משאת עשן מן העיר ושתי פעמים מן האורב, וכל הסדר מבולבל ומעורב, והיתורים אין מספר למו, והנה בני בנימין היו כ"ו אלף וז' מאות ולא נפלו רק כ"ה אלף ומאה, ושש מאות נשארו וחסרו אלף איש:**
 
 
-**Questions** 
-**(30–46) It is stated twice that twenty-five thousand of Benjamin fell. It is stated twice that the men of Israel turned back. Twice it says that the children of Benjamin struck about thirty men among them. Twice it mentions that a column of smoke rose from the city, and twice that it rose from the ambush. The entire sequence appears confused and intermingled, and the repetitions are numerous beyond count.
-
-Furthermore, the children of Benjamin numbered twenty-six thousand seven hundred, yet only twenty-five thousand one hundred fell, and six hundred remained—leaving one thousand unaccounted for.**
+**Questions** **(30–46) It is stated twice that twenty-five thousand of Benjamin fell. It is stated twice that the men of Israel turned back. Twice it says that the children of Benjamin struck about thirty men among them. Twice it mentions that a column of smoke rose from the city, and twice that it rose from the ambush. The entire sequence appears confused and intermingled, and the repetitions are numerous beyond count. Furthermore, the children of Benjamin numbered twenty-six thousand seven hundred, yet only twenty-five thousand one hundred fell, and six hundred remained—leaving one thousand unaccounted for.**
 
 
 ###### Malbim on Judges 20:30:2
@@ -8124,9 +7594,7 @@ Furthermore, the children of Benjamin numbered twenty-six thousand seven hundred
 ספר שתחלה הנתקו בני בנימין מן העיר, וע"י שישראל עשו את עצמם נגפים לפניהם נתקו אותם אל המסילות, ובאר שבני בנימין נתקו אל המסילות יען חשבו שב"י נגפים, וישראל הראו את עצמם נסים כדי להעתיקו מן העיר:
 
 
-It relates that at first the children of Benjamin were drawn away from the city. Because Israel made themselves appear as though they were being struck down before them, they drew Benjamin out toward the highways.
-
-It explains that the children of Benjamin were drawn to the highways because they thought that Israel was defeated; and Israel displayed themselves as fleeing in order to pull them away from the city.
+It relates that at first the children of Benjamin were drawn away from the city. Because Israel made themselves appear as though they were being struck down before them, they drew Benjamin out toward the highways. It explains that the children of Benjamin were drawn to the highways because they thought that Israel was defeated; and Israel displayed themselves as fleeing in order to pull them away from the city.
 
 
 
@@ -8140,9 +7608,7 @@ It explains that the children of Benjamin were drawn to the highways because the
 **וכל איש ישראל.** תחלה ערכו קצת מן המחנה כדרך המלחמה ועשו א"ע נגפים, ובתוך כך קמו כל איש שהוא המחנה בכללה ויערכו בבעל תמר. והנה ישראל באו מבית אל שהוא מצפון לארץ בנימין וא"כ היה המחנה מצפון, ובתוך כך שערכו ישראל הגיח האורב האחד שהיה במערב גבע ממקומו ממערה גבע שהיה עומד בהחבא במערה:
 
 
-**And every man of Israel.** At first, a portion of the camp arrayed itself in the normal manner of battle and made themselves appear to be defeated. Meanwhile, all the men—the entire camp—rose and took their position at Baal-Tamar.
-
-Israel had come from Bethel, which lies to the north of the land of Benjamin; thus their camp was to the north. And while Israel was arranging its lines, the first ambush—positioned to the west of Gibeah—emerged from its place, from the cave of Gibeah where it had been concealed in hiding.
+**And every man of Israel.** At first, a portion of the camp arrayed itself in the normal manner of battle and made themselves appear to be defeated. Meanwhile, all the men—the entire camp—rose and took their position at Baal-Tamar. Israel had come from Bethel, which lies to the north of the land of Benjamin; thus their camp was to the north. And while Israel was arranging its lines, the first ambush—positioned to the west of Gibeah—emerged from its place, from the cave of Gibeah where it had been concealed in hiding.
 
 
 
@@ -8156,11 +7622,7 @@ Israel had come from Bethel, which lies to the north of the land of Benjamin; th
 **ויבואו מנגד לגבעה.** מצד העיר במערב, לפ"ז היו בני בנימין מוקפים מצפון וממערב ואז כבדה עליהם המלחמה, והם לא ידעו שהרעה נוגעת עליהם, והיה סוף המלחמה שעי"ז נפל מהם ביום ההוא כ"ה אלף איש. כ"ז ספר דרך כלל, ומעתה יתחיל לפרש בפרטות איך היה. ומתחיל לבאר פרטי המלחמה:
 
 
-**And they came opposite Gibeah.** From the side of the city in the west. Thus the children of Benjamin were surrounded from the north and from the west, and the battle became heavy upon them.
-
-They did not realize that disaster was overtaking them, and the outcome of the battle was that on that day twenty-five thousand men fell from among them.
-
-All this was related in general terms; from this point onward, the text begins to explain in detail how it unfolded, and proceeds to describe the particulars of the battle.
+**And they came opposite Gibeah.** From the side of the city in the west. Thus the children of Benjamin were surrounded from the north and from the west, and the battle became heavy upon them. They did not realize that disaster was overtaking them, and the outcome of the battle was that on that day twenty-five thousand men fell from among them. All this was related in general terms; from this point onward, the text begins to explain in detail how it unfolded, and proceeds to describe the particulars of the battle.
 
 
 
@@ -8174,13 +7636,7 @@ All this was related in general terms; from this point onward, the text begins t
 **ויראו בני בנימין כי נגפו.** ר"ל תיכף תחלה בעת יצא האורב ראו בני בנימין כי נגפו והיה דעתם לחזור אל העיר, ואז נתנו **בני ישראל מקום לבנימן**, ר"ל שהמחנה שעמדה נגדו בצפון התחילו לנוס שנית. וספר מדוע עשו זאת, **כי בטחו אל האורב אשר שמו אל הגבעה**, הוא אורב אחר שהיה בצד דרום שהיה מוכן להרוג את יושבי העיר, והיה המדובר ביניהם שעת יכו כל אנשי העיר יציתו את העיר באש, ובעת שיראו ישראל משאת העשן יהפכו אל בנימין ויסגירו אותם מכל צד כמו שיבואר, וז"ש כי בטחו אל האורב וכו':
 
 
-**And the children of Benjamin saw that they were defeated.** That is, immediately at the outset, when the ambush emerged, the children of Benjamin realized that they were being struck, and their intent was to return to the city.
-
-At that moment, **the men of Israel gave place to Benjamin**—meaning that the camp which stood opposite them to the north began once again to flee.
-
-And it explains why they did this: **for they trusted in the ambush which they had set against Gibeah.** This refers to another ambush positioned on the southern side, prepared to strike down the inhabitants of the city. The arrangement between them was that when the ambush had struck all the men of the city, they would set the city on fire; and when Israel would see the column of smoke, they would turn back against Benjamin and surround them from every side, as will be described.
-
-Therefore it says, “for they trusted in the ambush.”
+**And the children of Benjamin saw that they were defeated.** That is, immediately at the outset, when the ambush emerged, the children of Benjamin realized that they were being struck, and their intent was to return to the city. At that moment, **the men of Israel gave place to Benjamin**—meaning that the camp which stood opposite them to the north began once again to flee. And it explains why they did this: **for they trusted in the ambush which they had set against Gibeah.** This refers to another ambush positioned on the southern side, prepared to strike down the inhabitants of the city. The arrangement between them was that when the ambush had struck all the men of the city, they would set the city on fire; and when Israel would see the column of smoke, they would turn back against Benjamin and surround them from every side, as will be described. Therefore it says, “for they trusted in the ambush.”
 
 
 
@@ -8194,11 +7650,7 @@ Therefore it says, “for they trusted in the ambush.”
 **והאורב.** בעת ההיא שעשו ישראל א"ע נסים פעם שנית, בעת ההיא **החישו האורב ופשטו על העיר ויכו את אנשי העיר.** אבל יען **שהמועד היה לאיש ישראל עם האורב**, רצה לומר שכן שמו מועד וגבלו הזמן ביניהם שזמן תחלת המלחמה יהיה בעת שירבו להעלות משאת העשן מן העיר, שאז יצא האורב מן העיר לסגרם מרוח השלישית, וזה נמשך במעט זמן עד שגמרו להכות את אנשי העיר, ולכן מסבה זאת:
 
 
-**And the ambush.** At that moment, when Israel made themselves appear to flee a second time, at that very time **the ambush hastened and spread out against the city and struck down the inhabitants of the city.**
-
-But since **there was an appointed signal between the men of Israel and the ambush**—that is, they had set a fixed time and sign between them, that the beginning of the main engagement would be when they caused a great column of smoke to rise from the city—then the ambush would move out from the city to close in on them from the third direction.
-
-This took a short time, until they finished striking the inhabitants of the city; and because of this arrangement…
+**And the ambush.** At that moment, when Israel made themselves appear to flee a second time, at that very time **the ambush hastened and spread out against the city and struck down the inhabitants of the city.** But since **there was an appointed signal between the men of Israel and the ambush**—that is, they had set a fixed time and sign between them, that the beginning of the main engagement would be when they caused a great column of smoke to rise from the city—then the ambush would move out from the city to close in on them from the third direction. This took a short time, until they finished striking the inhabitants of the city; and because of this arrangement…
 
 
 
@@ -8212,11 +7664,7 @@ This took a short time, until they finished striking the inhabitants of the city
 **ויהפך איש ישראל במלחמה.** ר"ל זה היה הענין מה שספר קודם שנתנו מקום לבנימין שעשו א"ע כבורחים, שזה היה מפני המועד שהיה להם עם האורב, ובעת ההיא **בנימין החל להכות חללים כו' כשלשים איש**, וחשבו בני בנימין **אך נגוף נגף הוא**, ר"ל שהגם שבאמצע היו גם הם נגפים לא שתו לב לזה כי חשבו שהגם שהתחזקו ישראל רגע הלא נשתה גבורתם, ועי"כ נתנו מקום לבנימין. לפ"ז שלשה פסוקים אלה הם באור ופירוש למ"ש בפסוק ל"ו ויתנו ב"י מקום לבנימין כי בטחו אל האורב אשר שמו על הגבעה:
 
 
-**And the men of Israel turned in the battle.** This explains what was previously stated—that they gave place to Benjamin and made themselves appear to flee. They did so because of the appointed signal they had with the ambush.
-
-At that time **Benjamin began to strike down slain… about thirty men.** And the children of Benjamin thought, **“Surely they are utterly defeated before us.”** That is, although in the midst of the fighting they themselves had also been struck, they paid no attention to this, for they assumed that even if Israel had momentarily strengthened themselves, their power had already been broken. Therefore Israel gave place to Benjamin.
-
-Thus, these three verses serve as an explanation and elaboration of what was stated earlier (in verse 36): “And the children of Israel gave place to Benjamin, for they trusted in the ambush which they had set against Gibeah.”
+**And the men of Israel turned in the battle.** This explains what was previously stated—that they gave place to Benjamin and made themselves appear to flee. They did so because of the appointed signal they had with the ambush. At that time **Benjamin began to strike down slain… about thirty men.** And the children of Benjamin thought, **“Surely they are utterly defeated before us.”** That is, although in the midst of the fighting they themselves had also been struck, they paid no attention to this, for they assumed that even if Israel had momentarily strengthened themselves, their power had already been broken. Therefore Israel gave place to Benjamin. Thus, these three verses serve as an explanation and elaboration of what was stated earlier (in verse 36): “And the children of Israel gave place to Benjamin, for they trusted in the ambush which they had set against Gibeah.”
 
 
 
@@ -8230,12 +7678,7 @@ Thus, these three verses serve as an explanation and elaboration of what was sta
 **והמשאת.** אולם בעת שגמרו האורב להכות את העיר שאז הציתו העיר ועלה משאת עמוד עשן, אז ראה בנימין שני דברים למפלתו, א] **שעלה כליל העיר**, ב] **שאיש ישראל הפך**, ועי"כ **ויבהל איש בנימין כי ראה כי נגעה אליו הרעה**:
 
 
-**And the column of smoke.** But at the moment when the ambush finished striking the city, they set it on fire and a column of smoke rose. Then Benjamin perceived two signs of his downfall:
-
-(1) **that the whole city had gone up in flames**; 
-(2) **that the men of Israel had turned back**.
-
-And therefore **the men of Benjamin were terrified, for they saw that disaster had reached them.**
+**And the column of smoke.** But at the moment when the ambush finished striking the city, they set it on fire and a column of smoke rose. Then Benjamin perceived two signs of his downfall: (1) **that the whole city had gone up in flames**; (2) **that the men of Israel had turned back**. And therefore **the men of Benjamin were terrified, for they saw that disaster had reached them.**
 
 
 
@@ -8249,9 +7692,7 @@ And therefore **the men of Benjamin were terrified, for they saw that disaster h
 **ויפנו.** שאז היה מוקף משלש רוחות, המחנה היתה בצפון, והאורב הראשון שיצא מן המערה היה במערב, והאורב השני שהצית העיר היה בדרום, והוכרח לחזור **אל דרך המדבר** לצד מזרח שהיה פתוח, והיה דרכם דרך המסילות ומשם לפני העיר בצד מזרחה ומשם אל המדבר. אבל במהלכו זה **המלחמה הדביקתהו**, כי היה מוקף ונרדף משלש רוחות, ויותר מזה כי **אשר מהערים משחיתים אותו בתוכו**, שהמחנות של ישראל שיצאו מן הערים נכנסו אל תוך מחנה בנימין באמצעיתו והשחיתו אותו:
 
 
-**And they turned.** For at that point they were surrounded from three directions: the main camp was to the north; the first ambush, which had emerged from the cave, was to the west; and the second ambush, which had set the city on fire, was to the south. They were therefore forced to retreat **toward the way of the wilderness**, to the east, which remained open. Their route led along the highways, from there before the city on its eastern side, and from there toward the wilderness.
-
-But in this movement **the battle overtook them**, for they were encircled and pursued from three sides. Moreover, **those from the cities destroyed them in their midst**—that is, the divisions of Israel that had come out from the cities penetrated into the center of Benjamin’s camp and destroyed them from within.
+**And they turned.** For at that point they were surrounded from three directions: the main camp was to the north; the first ambush, which had emerged from the cave, was to the west; and the second ambush, which had set the city on fire, was to the south. They were therefore forced to retreat **toward the way of the wilderness**, to the east, which remained open. Their route led along the highways, from there before the city on its eastern side, and from there toward the wilderness. But in this movement **the battle overtook them**, for they were encircled and pursued from three sides. Moreover, **those from the cities destroyed them in their midst**—that is, the divisions of Israel that had come out from the cities penetrated into the center of Benjamin’s camp and destroyed them from within.
 
 
 
@@ -8265,15 +7706,7 @@ But in this movement **the battle overtook them**, for they were encircled and p
 **כתרו.** עתה מפרש אחד אחד, תחלה **כתרו** את בנימין, ככתר, זה היה עת יצא האורב הראשון שהיה מוקף משני רוחות, ואח"כ **הרדיפהו**, הוא פעל יוצא לשלישי, פי' ששמו אותו לרודף ע"י שעשו א"ע נגפים והוא רודף כמ"ש (לו, מ). ואח"כ **מנוחה הדריכהו**, שהציתו עריו: **ואשר מהערים משחיתים אותו בתוכו.** והיה מוכה עד **נכח הגבעה ממזרח שמש**, שדרך שם ברח אל המדבר:
 
 
-**They encircled.** Now he explains each stage one by one. First, **they encircled** Benjamin like a crown—this occurred when the first ambush emerged, and he was surrounded from two directions.
-
-Afterward, **they pursued him**—this is a causative action toward a third stage, meaning that they caused him to become the pursuer by making themselves appear defeated, so that he pursued them (as stated in verse 36 and following).
-
-Then, **they drove him relentlessly**, when they set his cities on fire.
-
-And **those from the cities destroyed him in his midst**.
-
-Thus he was struck down until he reached **opposite Gibeah, toward the east of the sun**, for by that route he fled toward the wilderness.
+**They encircled.** Now he explains each stage one by one. First, **they encircled** Benjamin like a crown—this occurred when the first ambush emerged, and he was surrounded from two directions. Afterward, **they pursued him**—this is a causative action toward a third stage, meaning that they caused him to become the pursuer by making themselves appear defeated, so that he pursued them (as stated in verse 36 and following). Then, **they drove him relentlessly**, when they set his cities on fire. And **those from the cities destroyed him in his midst**. Thus he was struck down until he reached **opposite Gibeah, toward the east of the sun**, for by that route he fled toward the wilderness.
 
 
 
@@ -8287,11 +7720,7 @@ Thus he was struck down until he reached **opposite Gibeah, toward the east of t
 **ויפלו.** עתה מונה בפרטות כמה נפלו בכל מקום, תחלה במקום המערכה נפלו י"ח אלף: (מה) ואח"כ בעת שנסו המדברה כשהגיע אל המסילות כנ"ל שם נפלו חמשה אלף, ומשם רדפו אחריו עד גדעם ויהרגו עוד שני אלפים:
 
 
-**And they fell.** Now he counts in detail how many fell in each place. First, at the place of the battle line, eighteen thousand fell.
-
-Afterward, when they fled toward the wilderness and reached the highways, as mentioned above, five thousand fell there.
-
-From there they pursued them as far as Gidom and killed another two thousand.
+**And they fell.** Now he counts in detail how many fell in each place. First, at the place of the battle line, eighteen thousand fell. Afterward, when they fled toward the wilderness and reached the highways, as mentioned above, five thousand fell there. From there they pursued them as far as Gidom and killed another two thousand.
 
 
 
@@ -8305,9 +7734,7 @@ From there they pursued them as far as Gidom and killed another two thousand.
 **ויהי כל הנפלים.** סך הכל עשרים וחמשה אלף. ומ"ש **ביום ההוא**, כי אלף ומאה החסרים (מן החשבון שהיה כ"ו אלף ז' מאות, כנ"ל ט"ו), נפלו במלחמות הקודמים, או שנהרגו במערות בימים שאחריהם:
 
 
-**And all who fell.** The total was twenty-five thousand.
-
-And when it says **on that day**, this indicates that the missing eleven hundred (from the original count of twenty-six thousand seven hundred, mentioned above in verse 15) had fallen in the earlier battles, or were killed in the caves in the days that followed.
+**And all who fell.** The total was twenty-five thousand. And when it says **on that day**, this indicates that the missing eleven hundred (from the original count of twenty-six thousand seven hundred, mentioned above in verse 15) had fallen in the earlier battles, or were killed in the caves in the days that followed.
 
 
 
@@ -8325,18 +7752,7 @@ And when it says **on that day**, this indicates that the missing eleven hundred
 (א) למה נשבעו (אחר כל ההרג והאבדון הגדול הזה) שלא יתנו להם נשים? ואם נשבעו איך התחרטו תיכף? סדר הכתובים מבולבל מאד, התחיל מענין השבועה על נשותיהם ואח"כ ידבר איך נתחרטו ע"מ שעשו לבנימין, ואח"כ ידבר בדרישת מי שלא באו למלחמה, וחזר לדבר מה שנתחרטו על בנימין, וחזר לדבר על אנשי יבש שלא באו למלחמה, וחזר לומר והעם נחם לבנימין, שהם דברים כפולים ובלתי מסודרים, שהיה ראוי להזכיר מה שהתחרטו לבנימין בפ"ע ומה שהתרעמו ושעשו לאנשי יבש גלעד בפ"ע, ולמה כפל כל דבר שלא לצורך? מ"ש ירושת פלטה לבנימין ולא ימחה שבט מישראל אין לו ביאור, ובפרט שאין חשש עוד שימחה, שהלא כבר לקחו ד' מאות נשים, ומדוע אמר שלשה פעמים ויאמרו, ויאמרו זקני העדה וכו', ויאמרו ירושת פלטה וכו', ויאמרו הנה חג ה'? ודברי פסוק כ"ב סתומים וחתומים:**
 
 
-**Questions** 
-**(1) Why did they swear—after all the killing and the great destruction—that they would not give them wives? And if they swore, how did they immediately regret it?
-
-The order of the verses is very confused: it begins with the matter of the oath regarding their daughters, then speaks of how they regretted what they had done to Benjamin; afterward it discusses the inquiry concerning those who did not come to the war; then it returns to their regret for Benjamin; then again to the men of Jabesh-Gilead who did not come to the war; and again it states that the people relented concerning Benjamin. These matters appear repetitive and disordered.
-
-It would have been appropriate to address separately their regret for Benjamin and separately their grievance and actions against the men of Jabesh-Gilead. Why is each matter repeated unnecessarily?
-
-The phrase <b>“an inheritance of survivors for Benjamin, that a tribe not be blotted out from Israel”** is unclear—especially since there no longer seemed to be a danger of extinction, for they had already taken four hundred women. 
-
-Why does it say three times “and they said”—“and the elders of the congregation said,” “and they said, a surviving inheritance…,” and “and they said, behold, there is a feast…”?
-
-And the words of verse 22 are obscure and difficult to understand.</b>
+**Questions** **(1) Why did they swear—after all the killing and the great destruction—that they would not give them wives? And if they swore, how did they immediately regret it? The order of the verses is very confused: it begins with the matter of the oath regarding their daughters, then speaks of how they regretted what they had done to Benjamin; afterward it discusses the inquiry concerning those who did not come to the war; then it returns to their regret for Benjamin; then again to the men of Jabesh-Gilead who did not come to the war; and again it states that the people relented concerning Benjamin. These matters appear repetitive and disordered. It would have been appropriate to address separately their regret for Benjamin and separately their grievance and actions against the men of Jabesh-Gilead. Why is each matter repeated unnecessarily? The phrase <b>“an inheritance of survivors for Benjamin, that a tribe not be blotted out from Israel”** is unclear—especially since there no longer seemed to be a danger of extinction, for they had already taken four hundred women. Why does it say three times “and they said”—“and the elders of the congregation said,” “and they said, a surviving inheritance…,” and “and they said, behold, there is a feast…”? And the words of verse 22 are obscure and difficult to understand.</b>
 
 
 ###### Malbim on Judges 21:1:2
@@ -8347,9 +7763,7 @@ And the words of verse 22 are obscure and difficult to understand.</b>
 **ואיש ישראל נשבע במצפה.** מבואר אצלנו שבמקום שמקדים השם אל הפעל לא בא הדבר כסדר הזמני, רק היה הדבר קודם לכן, עמ"ש (יהושע א, יב בפסוק ולראובני ולגדי), וכן **ואיש ישראל נשבע** קודם לכן בעוד שהיה במצפה טרם יצאו למלחמה, לבל יתחתנו עם בנימין:
 
 
-**And the men of Israel had sworn at Mizpah.** It is explained by us that when the subject precedes the verb, the matter is not being related in chronological order, but refers to something that occurred earlier (see what is explained on Joshua 1:12, on the verse “And to the Reubenites and to the Gadites…”).
-
-Thus, **“and the men of Israel had sworn”** refers to an oath taken previously, while they were still at Mizpah—before they went out to war—not to intermarry with Benjamin.
+**And the men of Israel had sworn at Mizpah.** It is explained by us that when the subject precedes the verb, the matter is not being related in chronological order, but refers to something that occurred earlier (see what is explained on Joshua 1:12, on the verse “And to the Reubenites and to the Gadites…”). Thus, **“and the men of Israel had sworn”** refers to an oath taken previously, while they were still at Mizpah—before they went out to war—not to intermarry with Benjamin.
 
 
 
@@ -8363,11 +7777,7 @@ Thus, **“and the men of Israel had sworn”** refers to an oath taken previous
 **ויבא העם בית אל** וכו' **ויאמרו למה ה' אלהי** וכו'. אחר שאם לא היו ישראל נופלים בשתי פעמים הראשונים, לא היו מחרימים את בנימין עד לכלה, והיו מענישים את החוטאים לבד, ולא להרג טף ונשים ולהשמיד הכל. רק ע"י שבנימין הפיל מישראל ארבעים אלף, לכן עשו בו נקמה. ועתה באו לפני ה' יושבים ובוכים ומחפשים וחוקרים מה היה הסבה לזה, למה חרה אף ה' בם עד שנפלו במלחמה בשתי פעמים הראשונים, וזה היה סבה לרעה יותר עצומה **להפקד היום מישראל שבט אחד**, כי אף שנשארו שש מאות איש עכ"פ היום נפקד השבט, כי מתי מספר לא יקרא בשם שבט, והם רק שריד מן השבט לא שבט בפ"ע:
 
 
-**And the people came to Bethel** … **and they said, “Why, O Hashem God…”** 
-
-For had Israel not fallen in the first two battles, they would not have placed Benjamin under the ban of total destruction. They would have punished only the offenders, not killed women and children and destroyed everything. But because Benjamin caused forty thousand of Israel to fall, they exacted vengeance against him.
-
-Now they came before Hashem, sitting and weeping, searching and investigating what had caused this—why Hashem’s anger had burned against them so that they fell in the first two battles. For this became the cause of an even greater calamity: **that one tribe should be lacking today from Israel.** For although six hundred men remained, still the tribe was considered missing, since a mere handful cannot properly be called a tribe; they were but a remnant, not a tribe in its own standing.
+**And the people came to Bethel** … **and they said, “Why, O Hashem God…”** For had Israel not fallen in the first two battles, they would not have placed Benjamin under the ban of total destruction. They would have punished only the offenders, not killed women and children and destroyed everything. But because Benjamin caused forty thousand of Israel to fall, they exacted vengeance against him. Now they came before Hashem, sitting and weeping, searching and investigating what had caused this—why Hashem’s anger had burned against them so that they fell in the first two battles. For this became the cause of an even greater calamity: **that one tribe should be lacking today from Israel.** For although six hundred men remained, still the tribe was considered missing, since a mere handful cannot properly be called a tribe; they were but a remnant, not a tribe in its own standing.
 
 
 
@@ -8381,9 +7791,7 @@ Now they came before Hashem, sitting and weeping, searching and investigating wh
 **ויהי ממחרת.** ישבו שנית לחקור על סבת הדבר ולחפש במעשיהם למה חרה אף ה' בעמו: **ויעלו עולות ושלמים.** למצוא רצון מה':
 
 
-**And it was on the following day.** They again sat to investigate the cause of the matter and to examine their deeds, seeking why Hashem’s anger had burned against His people.
-
-**And they offered burnt offerings and peace offerings.** In order to obtain favor from Hashem.
+**And it was on the following day.** They again sat to investigate the cause of the matter and to examine their deeds, seeking why Hashem’s anger had burned against His people. **And they offered burnt offerings and peace offerings.** In order to obtain favor from Hashem.
 
 
 
@@ -8397,11 +7805,7 @@ Now they came before Hashem, sitting and weeping, searching and investigating wh
 **ויאמרו ב"י.** ובהיותם חוקרים על הדבר נזכרו מענין ישראל במלחמת עי, שהיה ג"כ כענין הזה שהלכו למלחמת מצוה ונפלו לפני אויב, ושם נודע שהיה הסבה יען שעכן מעל בחרם ושבועת יהושע, ולכן חקרו פן נמצא גם ביניהם עון זה, כי **באשר היתה השבועה גדולה שמי שלא יעלה אל המצפה להשתתף במלחמה זו מות יומת**, והסכימו שבודאי נמצאו מי שעברו על השבועה הלזו ולכן נפלו ישראל חללים, ועל פי זה אמרו **מי אשר לא עלה בקהל**, כי לא ידעו מי:
 
 
-**And the children of Israel said.** As they were investigating the matter, they recalled the episode of Israel in the war against Ai, which had likewise involved a commanded battle in which they fell before the enemy. There it became known that the cause was that Achan had trespassed against the ban and Joshua’s oath.
-
-Therefore they examined whether a similar sin might be found among them. For **since there had been a great oath—that whoever did not go up to Mizpah to participate in this war would surely be put to death**—they concluded that there must have been some who violated this oath, and that because of this Israel had fallen in battle.
-
-Accordingly they said, **“Who is there that did not go up in the assembly?”** for they did not yet know who it was.
+**And the children of Israel said.** As they were investigating the matter, they recalled the episode of Israel in the war against Ai, which had likewise involved a commanded battle in which they fell before the enemy. There it became known that the cause was that Achan had trespassed against the ban and Joshua’s oath. Therefore they examined whether a similar sin might be found among them. For **since there had been a great oath—that whoever did not go up to Mizpah to participate in this war would surely be put to death**—they concluded that there must have been some who violated this oath, and that because of this Israel had fallen in battle. Accordingly they said, **“Who is there that did not go up in the assembly?”** for they did not yet know who it was.
 
 
 
@@ -8415,13 +7819,7 @@ Accordingly they said, **“Who is there that did not go up in the assembly?”*
 **וינחמו.** עד עתה דבר מן העבר, כי חקרו על העבר למה נענשו ושחשבו שיש אפשריות שמקצת מהם עברו על השבועה ולכן נענשו, ולא היה זה מוטל עליהם לדרוש על זה כי למה יחקרו על זה הלא העבר אין. רק עתה נתחדש אצלם ענין חדש, והוא כי נזכרו שבעת חמתם נשבעו שאיש מהם לא יתן את בתו לבנימין, ולפי זה הגם שנשארו משבט בנימין שש מאות איש, הלא לא ימצאו נשים כי נשי בנימין נהרגו כולם, ובזה ימחה השבט כולו וזה יהיה מום וחסרון גדול לכלל האומה שא"א שתשרה עליהם שכינה רק אם הם שנים עשר שבטים, ואם יחסר שבט אחד הוא פגם גדול לכלל האומה כנזכר בדברי חז"ל בכ"מ (ראה ב"ק פג א), והרי זה נזק לדור דורים מעות לא יוכל לתקון ומחלל הוד יעקב וקדושת ישראל לעולמים, וז"ש **נגדע היום שבט אחד מישראל**, ובארו הטעם כי **מה נעשה להם לנותרים לנשים**:
 
 
-**And they relented.** Until this point he had spoken about the past—how they investigated why they had been punished and supposed that perhaps some among them had violated the oath, and that because of this they were struck. Yet it was not really incumbent upon them to pursue that matter further, for the past could not be undone.
-
-But now a new issue arose before them: they remembered that in their anger they had sworn that none of them would give his daughter to Benjamin. Accordingly, even though six hundred men of the tribe of Benjamin remained, they would find no wives—for the women of Benjamin had all been killed. In this way the entire tribe would be erased.
-
-This would be a grave blemish and deficiency for the whole nation, for the Divine Presence rests upon Israel only when they are twelve tribes; if one tribe is missing, it is a great defect for the nation as a whole, as mentioned in the words of our Sages in many places (see, for example, Bava Kamma 83a). This would be damage for generations—an irreparable loss, profaning the glory of Jacob and the sanctity of Israel forever.
-
-Thus it says, **“Today one tribe has been cut off from Israel,”** and they explained the reason: **“What shall we do for the survivors regarding wives?”**
+**And they relented.** Until this point he had spoken about the past—how they investigated why they had been punished and supposed that perhaps some among them had violated the oath, and that because of this they were struck. Yet it was not really incumbent upon them to pursue that matter further, for the past could not be undone. But now a new issue arose before them: they remembered that in their anger they had sworn that none of them would give his daughter to Benjamin. Accordingly, even though six hundred men of the tribe of Benjamin remained, they would find no wives—for the women of Benjamin had all been killed. In this way the entire tribe would be erased. This would be a grave blemish and deficiency for the whole nation, for the Divine Presence rests upon Israel only when they are twelve tribes; if one tribe is missing, it is a great defect for the nation as a whole, as mentioned in the words of our Sages in many places (see, for example, Bava Kamma 83a). This would be damage for generations—an irreparable loss, profaning the glory of Jacob and the sanctity of Israel forever. Thus it says, **“Today one tribe has been cut off from Israel,”** and they explained the reason: **“What shall we do for the survivors regarding wives?”**
 
 
 
@@ -8435,11 +7833,7 @@ Thus it says, **“Today one tribe has been cut off from Israel,”** and they e
 **ויאמרו.** ואחרי שראו שבאם המצא ימצא עיר או משפחה שלא הלכו למלחמה זו ויתחייבו מיתה ע"י שעברו על השבועה יהיה בזה תקנה לבנימין, כי נשי גלעד מותרות להם אחר שלא באו המצפה ולא נשבעו, לכן החלו עתה לתור ולדרוש **מי אחד משבטי ישראל אשר לא עלה אל ה' המצפה**, כי הוצרכו עתה לזה לטובת בנימין: **והנה.** מצאו כי **אין שם איש מיושבי יבש גלעד**, ובזה דנו היטב אחר שלפי דעתם ע"י שיבש גלעד עברו על השבועה נסתבב שחרה אף ה' ונסתבב שהשמידו את בנימין, נמצא היו יבש גלעד הגורמים לזה, מהראוי שעתה ע"י שיהרגו אותם יצמח משרשיהם מהבתולות אשר יחיו מבני יבש גלעד צמח לבנימין להיות להם לנשים:
 
 
-**And they said.** When they realized that if a city or family were found that had not gone to this war and would therefore be liable to death for violating the oath, this could provide a solution for Benjamin—for the women of such a place would be permitted to them, since they had not come to Mizpah and had not sworn—they now began to search and inquire **which one of the tribes of Israel had not gone up to Hashem at Mizpah**, for they now needed this for the sake of Benjamin.
-
-**And behold,** they discovered that **there was no one there from the inhabitants of Jabesh-Gilead.** Accordingly, they judged that since, in their view, Jabesh-Gilead had transgressed the oath and thereby caused Hashem’s anger to burn—resulting in the destruction of Benjamin—it followed that the men of Jabesh-Gilead were the cause of this outcome.
-
-Therefore it was fitting, they reasoned, that by executing them, there would arise from among them—from the virgins of Jabesh-Gilead whom they would keep alive—a remnant for Benjamin, to become wives for them.
+**And they said.** When they realized that if a city or family were found that had not gone to this war and would therefore be liable to death for violating the oath, this could provide a solution for Benjamin—for the women of such a place would be permitted to them, since they had not come to Mizpah and had not sworn—they now began to search and inquire **which one of the tribes of Israel had not gone up to Hashem at Mizpah**, for they now needed this for the sake of Benjamin. **And behold,** they discovered that **there was no one there from the inhabitants of Jabesh-Gilead.** Accordingly, they judged that since, in their view, Jabesh-Gilead had transgressed the oath and thereby caused Hashem’s anger to burn—resulting in the destruction of Benjamin—it followed that the men of Jabesh-Gilead were the cause of this outcome. Therefore it was fitting, they reasoned, that by executing them, there would arise from among them—from the virgins of Jabesh-Gilead whom they would keep alive—a remnant for Benjamin, to become wives for them.
 
 
 
@@ -8453,9 +7847,7 @@ Therefore it was fitting, they reasoned, that by executing them, there would ari
 **וישלחו.** ואחר שמצאו להם תקנה: **שלחו וקראו להם שלום.** ונתנו להם הנשים, והיה זה לטובת הכלל לבל יהיה פגם בכלל האומה ע"י חסרון השבט כי היה קבלה בידם שלא תשרה עליהם השכינה אם יחסר שבט אחד ממנין השבטים:
 
 
-**And they sent.** After they found a remedy for them, **they sent and proclaimed peace to them**, and gave them the women. 
-
-This was for the benefit of the entire nation, so that there would not be a defect in the community through the loss of a tribe; for it was accepted among them that the Divine Presence would not rest upon them if one tribe were missing from the number of the tribes.
+**And they sent.** After they found a remedy for them, **they sent and proclaimed peace to them**, and gave them the women. This was for the benefit of the entire nation, so that there would not be a defect in the community through the loss of a tribe; for it was accepted among them that the Divine Presence would not rest upon them if one tribe were missing from the number of the tribes.
 
 
 
@@ -8483,9 +7875,7 @@ This was for the benefit of the entire nation, so that there would not be a defe
 **והעם.** ר"ל והגם שכבר סר פחדם שימחה שבט מישראל אחר שמצאו נשים לארבע מאות איש, בכ"ז אחר שבתוך כך נתפייסו עמהם ודברו להם שלום, נחם העם על כלל הדבר, והתחרטו על הנעשה שעי"כ **עשה ה' פרץ בין השבטים** ושנאה ומלחמה. וז"ש **והעם נחם**, כי תחלה כתוב וינחמו בני ישראל, שהם ראשי העם וזקניהם וגדוליהם הדורשים טובת הכלל, אבל עתה נחם העם כולו והתחרטו ושבו אליהם לאהבה, ולא רצו ששני מאות האיש הנותרים ימותו ערירים:
 
 
-**And the people.** That is, although their fear that a tribe would be erased from Israel had already subsided—since they had found wives for four hundred men—nevertheless, after they had reconciled with them and spoken peaceably to them, the people regretted the entire affair. They repented of what had been done, by which **Hashem had made a breach among the tribes**—bringing division, hatred, and war.
-
-Therefore it says, **“And the people relented,”** for earlier it had said, “And the children of Israel relented,” referring to the leaders, elders, and prominent figures concerned for the welfare of the nation. But now the entire people relented—they repented and returned to them in love, and did not wish that the remaining two hundred men should die without children.
+**And the people.** That is, although their fear that a tribe would be erased from Israel had already subsided—since they had found wives for four hundred men—nevertheless, after they had reconciled with them and spoken peaceably to them, the people regretted the entire affair. They repented of what had been done, by which **Hashem had made a breach among the tribes**—bringing division, hatred, and war. Therefore it says, **“And the people relented,”** for earlier it had said, “And the children of Israel relented,” referring to the leaders, elders, and prominent figures concerned for the welfare of the nation. But now the entire people relented—they repented and returned to them in love, and did not wish that the remaining two hundred men should die without children.
 
 
 
@@ -8499,11 +7889,7 @@ Therefore it says, **“And the people relented,”** for earlier it had said, �
 **ויאמרו זקני העדה מה נעשה לנותרים לנשים.** אז חקרו הסנהדרין אם יוכלו להתיר את השבועה כדי לתת נשים להנותרים, ונתנו טעם **כי נשמדה מבנימין אשה**, ר"ל כי בעת השבועה לא היה דעתם להרוג הנשים והטף, ורצו רק שהם לא יתחתנו עמהם לא שילכו ערירים כי אז היו נושאים נשים משבטם, לא כן עתה שנשמדו נשי בנימין וימחה השבט על תנאי זה לא נשבענו, והרי יש פתח וחרטה:
 
 
-**And the elders of the congregation said, “What shall we do for the survivors regarding wives?”** 
-
-At that point the Sanhedrin examined whether they could annul the oath in order to provide wives for those who remained. They offered a reason: **“For the women have been destroyed from Benjamin.”** That is, at the time of the oath they had not intended that the women and children be killed. Their intent had only been that they themselves would not intermarry with Benjamin—not that Benjamin would be left childless, for in that case they would have taken wives from their own tribe.
-
-But now that the women of Benjamin had been destroyed and the tribe would be erased under these conditions, they had not sworn with such a circumstance in mind. Therefore there was an opening and grounds for regret (to reconsider the oath).
+**And the elders of the congregation said, “What shall we do for the survivors regarding wives?”** At that point the Sanhedrin examined whether they could annul the oath in order to provide wives for those who remained. They offered a reason: **“For the women have been destroyed from Benjamin.”** That is, at the time of the oath they had not intended that the women and children be killed. Their intent had only been that they themselves would not intermarry with Benjamin—not that Benjamin would be left childless, for in that case they would have taken wives from their own tribe. But now that the women of Benjamin had been destroyed and the tribe would be erased under these conditions, they had not sworn with such a circumstance in mind. Therefore there was an opening and grounds for regret (to reconsider the oath).
 
 
 
@@ -8517,11 +7903,7 @@ But now that the women of Benjamin had been destroyed and the tribe would be era
 **ויאמרו.** אבל חזרו ואמרו שאין זה טענה, כי זה היה צודק אם לא היו מוצאים שום תקנה והיה כל השבט נמחה, שזה היה פגם וחסרון לכלל האומה, ואז היה להם פתח לשבועתם שבודאי לא נשבעו ע"ד למחות השבט כולו. לא כן עתה, הלא **ירשת פליטה לבנימין**, כבר יש לבנימין ירושת פליטה ע"י שלקחו ד' מאות נערות מיושבי יבש גלעד, שמהם יצא פליטה ויורש נחלה, וממילא **לא ימחה שבט מישראל**, וא"כ אין להשבועה פתח וחרטה. ובזה הוציאו הפסק **ואנחנו לא נוכל לתת להם נשים מבנותינו כי נשבעו בני ישראל**, ואין היתר לשבועתם:
 
 
-**And they said.** But they reconsidered and said that this was not a valid argument. It would have been correct had they found no remedy at all and the entire tribe were about to be erased—such a loss would have been a defect and deficiency for the whole nation, and then they would have had grounds to release themselves from the oath, for surely they had not sworn with the intention of obliterating an entire tribe.
-
-But now, **a surviving inheritance remains for Benjamin**; Benjamin already has a remnant through the four hundred young women taken from the inhabitants of Jabesh-Gilead, from whom offspring and heirs would arise. Consequently, **a tribe will not be blotted out from Israel**. Therefore the oath has no opening and no basis for regret.
-
-Accordingly they rendered their decision: **“We cannot give them wives from our daughters, for the children of Israel have sworn.”** There is no permission to release them from their oath.
+**And they said.** But they reconsidered and said that this was not a valid argument. It would have been correct had they found no remedy at all and the entire tribe were about to be erased—such a loss would have been a defect and deficiency for the whole nation, and then they would have had grounds to release themselves from the oath, for surely they had not sworn with the intention of obliterating an entire tribe. But now, **a surviving inheritance remains for Benjamin**; Benjamin already has a remnant through the four hundred young women taken from the inhabitants of Jabesh-Gilead, from whom offspring and heirs would arise. Consequently, **a tribe will not be blotted out from Israel**. Therefore the oath has no opening and no basis for regret. Accordingly they rendered their decision: **“We cannot give them wives from our daughters, for the children of Israel have sworn.”** There is no permission to release them from their oath.
 
 
 
@@ -8549,10 +7931,7 @@ Accordingly they rendered their decision: **“We cannot give them wives from ou
 **וחטפתם.** התנו עמם, א] שכ"א לא יחטוף רק אשה אחת, ב] שיוליכום לארץ בנימין, שלא ישיגו אותם אבותם לריב עמהם:
 
 
-**And you shall seize.** They stipulated with them: 
-
-(1) that each man should seize only one woman; 
-(2) that they should bring them to the land of Benjamin, so that their fathers would not overtake them to contend with them.
+**And you shall seize.** They stipulated with them: (1) that each man should seize only one woman; (2) that they should bring them to the land of Benjamin, so that their fathers would not overtake them to contend with them.
 
 
 
@@ -8568,13 +7947,9 @@ Accordingly they rendered their decision: **“We cannot give them wives from ou
 
 **And it shall be, when they come … to us.** If they come **to contend with us**—claiming that we have allowed the women to be taken by force—then we shall present two arguments:
 
+ (1) As for your concern about the oath—that you might say that although they seized them, we are granting them favor by remaining silent—we will say to them, **“Be gracious to them?”**—in astonishment. Is it an act of grace **that we did not take each man’s wife from him in battle?** That is, they seized them and married them with the consent of the women; they are now their wives. Are we obligated or permitted to wage war against them and take their wives from them? We are neither obligated nor permitted to do so. Therefore we are not granting them favor by refraining from taking the women back.
 
-
-(1) As for your concern about the oath—that you might say that although they seized them, we are granting them favor by remaining silent—we will say to them, **“Be gracious to them?”**—in astonishment. Is it an act of grace **that we did not take each man’s wife from him in battle?** That is, they seized them and married them with the consent of the women; they are now their wives. Are we obligated or permitted to wage war against them and take their wives from them? We are neither obligated nor permitted to do so. Therefore we are not granting them favor by refraining from taking the women back.
-
-
-
-(2) **For you did not give them**, and therefore **you are not now guilty.** They took them on their own initiative, and you did not violate your oath.
+ (2) **For you did not give them**, and therefore **you are not now guilty.** They took them on their own initiative, and you did not violate your oath.
 
 
 
@@ -8588,13 +7963,5 @@ Accordingly they rendered their decision: **“We cannot give them wives from ou
 **ויתהלכו.** הגם שהיה להם אז לשום לב על המכשלה שיצאה מידם, ובעוד שהיו יחד היה להם לגדור פרץ וגם להקים מלך או שופט ישגיח על העם בכ"ז הנה תיכף אחר זה התהלך איש למקומו ונשאר הדבר כמקדם **שאין מלך בישראל ושכל איש יעשה הישר בעיניו: והנה**, הזמן מתי היו שני המעשים האחרונים מן פסל מיכה ומן פילגש בגבעה לא התבאר בכתוב, ודעת רז"ל בסדר עולם (פרק יב) שהיה בימי כושן רשעתים, ועז"א בימים ההם אין מלך בישראל, ר"ל שאחרי מות יהושע והזקנים ולא הוקם עדיין שופט לישראל עד עתניאל בן קנז, ולפי זה הדעת יצדק מ"ש שבני דן בקשו נחלה לשבת וכבשו ליש, שזה היה אחרי מות יהושע שהלך כל שבט לכבוש נחלתו ולכדו בני דן את ליש כמו שנזכר בספר יהושע (יט), ובזה יצדק מ"ש על ירושלים לא נסור אל עיר נכרי אשר לא מבני ישראל הנה שזה היה קודם שכבשו יהודה את חלקם בירושלים, כמ"ש למעלה סימן א' (פסוק ח), וגם יצדק לפי זה מ"ש שהקימו פסל מיכה כל ימי היות בית אלהים בשילה, שמשמע שהתמיד שם בשוה עם התמדת הארון בשילה. אולם ממ"ש חז"ל (רש"י ש"א כ, ל) על בן נעות המרדות שאשת שאול רדפה אחריו כי שאול בוש לחטפה מן המחולות, משמע שהיה מעשה זאת אחרי מות שמשון קודם שהוקם שופט אחר, שעז"א בימים ההם אין מלך בישראל, ובזה יצדק מה שנכתבו פרשיות אלה אחר מעשה דשמשון שכן היה לפי סדר הזמן, ומ"ש שהיה שם הפסל כל ימי היות בית אלהים בשילה היינו שעמד מן הזמן ההוא עד חורבן שילה, וכן מורה מ"ש חז"ל (ירושלמי ברכות פ"ט ה"ג) שיהונתן נעשה גזבר לאוצרות בימי שלמה, ושהוא היה הנביא הזקן בבית אל, ולפי הסדר עולם היה חי יותר מארבע מאות שנה:
 
 
-**And they went their ways.** Although at that moment they ought to have taken heed of the stumbling block that had arisen from their own hands—while they were still gathered together, they could have repaired the breach and established a king or judge to oversee the people—nevertheless, immediately afterward each man went to his place, and the matter remained as before: **there was no king in Israel, and every man did what was right in his own eyes.**
-
-As for the time when these last two events—the matter of Micah’s idol and the concubine at Gibeah—took place, Scripture does not state it explicitly. According to our Sages in Seder Olam (ch. 12), it was in the days of Cushan-Rishathaim. Therefore it says, “In those days there was no king in Israel,” meaning after the death of Joshua and the elders, before a judge had yet arisen for Israel—until Othniel son of Kenaz.
-
-According to this view, it fits what is said that the tribe of Dan sought an inheritance to dwell in and captured Laish; this would have been after Joshua’s death, when each tribe went to conquer its territory, and the children of Dan captured Laish as mentioned in the book of Joshua (ch. 19). It also fits what is said regarding Jerusalem, “We will not turn aside to a foreign city which is not of the children of Israel,” for this would have been before Judah conquered its portion of Jerusalem (as stated earlier in chapter 1, verse 8). And it accords with the statement that Micah’s idol stood all the days that the House of God was in Shiloh, implying that it endured alongside the Ark’s presence in Shiloh.
-
-However, from what our Sages say (Rashi on I Samuel 20:30) regarding “son of a wayward woman,” that Saul’s wife pursued him because Saul was ashamed to seize her from among the dancers, it appears that this episode occurred after the death of Samson, before another judge arose—hence, “In those days there was no king in Israel.” According to this, it is fitting that these sections are written after the account of Samson, for that would match the chronological order.
-
-And when it says that Micah’s idol stood all the days that the House of God was in Shiloh, this would mean that it stood from that time until the destruction of Shiloh. So too it is implied by the words of the Sages (Jerusalem Talmud, Berakhot 9:3), that Jonathan later became treasurer of the storehouses in the days of Solomon and that he was the old prophet in Bethel; and according to Seder Olam, he lived more than four hundred years.
+**And they went their ways.** Although at that moment they ought to have taken heed of the stumbling block that had arisen from their own hands—while they were still gathered together, they could have repaired the breach and established a king or judge to oversee the people—nevertheless, immediately afterward each man went to his place, and the matter remained as before: **there was no king in Israel, and every man did what was right in his own eyes.** As for the time when these last two events—the matter of Micah’s idol and the concubine at Gibeah—took place, Scripture does not state it explicitly. According to our Sages in Seder Olam (ch. 12), it was in the days of Cushan-Rishathaim. Therefore it says, “In those days there was no king in Israel,” meaning after the death of Joshua and the elders, before a judge had yet arisen for Israel—until Othniel son of Kenaz. According to this view, it fits what is said that the tribe of Dan sought an inheritance to dwell in and captured Laish; this would have been after Joshua’s death, when each tribe went to conquer its territory, and the children of Dan captured Laish as mentioned in the book of Joshua (ch. 19). It also fits what is said regarding Jerusalem, “We will not turn aside to a foreign city which is not of the children of Israel,” for this would have been before Judah conquered its portion of Jerusalem (as stated earlier in chapter 1, verse 8). And it accords with the statement that Micah’s idol stood all the days that the House of God was in Shiloh, implying that it endured alongside the Ark’s presence in Shiloh. However, from what our Sages say (Rashi on I Samuel 20:30) regarding “son of a wayward woman,” that Saul’s wife pursued him because Saul was ashamed to seize her from among the dancers, it appears that this episode occurred after the death of Samson, before another judge arose—hence, “In those days there was no king in Israel.” According to this, it is fitting that these sections are written after the account of Samson, for that would match the chronological order. And when it says that Micah’s idol stood all the days that the House of God was in Shiloh, this would mean that it stood from that time until the destruction of Shiloh. So too it is implied by the words of the Sages (Jerusalem Talmud, Berakhot 9:3), that Jonathan later became treasurer of the storehouses in the days of Solomon and that he was the old prophet in Bethel; and according to Seder Olam, he lived more than four hundred years.
 

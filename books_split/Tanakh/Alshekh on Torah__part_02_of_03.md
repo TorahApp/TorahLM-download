@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Torat Moshe, Warsaw, 1875 (Segments: 4038, License: Public Domain)
 
-Version (En): Yalkut, Sifsei Chachomim Chumash, Metsudah Publications, 2009 (Segments: 120)
+Version (En): Sefaria Community Translation (Segments: 120)
 
 # Alshekh on Torah — part 2 of 3
 

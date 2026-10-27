@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): The Tosefta according to to codex Vienna. Third Augmented Edition, JTS 2001 (Segments: 74, License: CC-BY)
 
-Version (En): Sefaria Community Translation (Segments: 74)
+Version (En): Sefaria Community Translation (Segments: 54)
 
 
 ## Chapter 1
@@ -500,18 +500,12 @@ A door that get dragged on the ground, a mat that get dragged on the ground, or 
 ביברין של חיה ושל עופות ושל דגים אין צדין מהן ביום טוב, ואין נותנין לפניהן מזונות, אבל צדין מהן מערב יום טוב, ונותנין לפניהן מזונות, רבן שמעו' בן גמליאל או' לא כל הביברים שוין. זה הכלל, מחוסר צידה אסור, שאין מחוסר צידה מותר. שוחטין מן הנגרים, אבל לא מן המשוטות, ולא מן המכמרות, ר' שמעון בן לעזר אומ' כל שפרסוהו מערב יום טוב ובא מערב יום טוב ומצאו מקולקל, מותר, הדבר ידוע שניצדו מערב יום טוב, מצאו כמות שהו, אסור, הדבר ידוע שניצדו ביום טוב.
 
 
-Vivariums for game or poultry - one is not allowed to take care of them on a holiday and give them food; but one may catch game or fowl and imprison and give them food. R. Shimon b. Gamliel says: Not all vivariums are created equal. This is the rule: Anything requiring additional capture is forbidden; anything that does not require additional capture is permitted. One may slaughter animals from cages, but not from nets and not from fishnets. R. Shimon b. Elazar says: Set his net if he comes up on the eve of the holiday and comes on the holiday and finds it damaged, behold, it is permissible for him; it is clear that the animal was caught the day before the holiday. If he comes and finds it as it was, it is forbidden to him; it is obvious that the animal was caught on the holiday.
-
-
 ###### Tosefta Beitzah (Lieberman) 3:2
 
 [https://torahapp.org/share/book/Tosefta%20Beitzah%20%28Lieberman%29/r/3:2](https://torahapp.org/share/book/Tosefta%20Beitzah%20%28Lieberman%29/r/3:2)
 
 
 אותו ואת בנו שנפלו לבור, ר' ליעזר או' מעלה את הראשון על מנת לשוחטו ושחטו, והשיני עושה לו פרנסה במקומו, בשביל שלא ימות, ר' יהושע או' מעלה את הראשון על מנת לשוחטו ואינו שוחטו, ומערים ומעלה את השני. רצה שלא לשחוט אחד מהן, הרשות בידו.
-
-
-If “it and its young” fall into a cistern, R. Eliezer says: The first is brought up to be slaughtered and slaughtered, for the second he prepares a feeding place on the spot lest it perish. R. Yehoshua says: He brings up the first to slaughter, but do not slaughter it, but uses cunning and brings up the second to slaughter. If he does not want to slaughter any of them, he is free to do so.
 
 
 ###### Tosefta Beitzah (Lieberman) 3:3
@@ -522,18 +516,12 @@ If “it and its young” fall into a cistern, R. Eliezer says: The first is bro
 בכור שנפל לבור, אע"פ שמומו ניכר מערב יום טוב, ולא התירו מומחה, אין שוחטין אותו ביום טוב, לפי שאינו מן המוכן.
 
 
-If a firstborn falls into a cistern, R. Shimon says: Even if her physical defect was recognized on the day before the holiday, one may use it if the expert has not released her, one may not slaughter on the holiday because it doesn't count as prepared from before the holiday.
-
-
 ###### Tosefta Beitzah (Lieberman) 3:4
 
 [https://torahapp.org/share/book/Tosefta%20Beitzah%20%28Lieberman%29/r/3:4](https://torahapp.org/share/book/Tosefta%20Beitzah%20%28Lieberman%29/r/3:4)
 
 
 עושין פרנסה לנחיל של דבורים בשביל שלא יברח, אבל אין צדין אותו בתחלה.
-
-
-One may set up a feeding place for a swarm of bees, so that they will not fly away; but one must not catch him in advance.
 
 
 ###### Tosefta Beitzah (Lieberman) 3:5
@@ -544,18 +532,12 @@ One may set up a feeding place for a swarm of bees, so that they will not fly aw
 כיצד אין נמנין על הבהמה ביום טוב, לא יאמר לו הריני עמך בסלע, הריני עמך בשתים, אלא אומ' לו הריני עמך למחצה, לשליש, ולרביע. וחכמים או' אין משגיחין בכף מאזנים כל עיקר, אבל שוקל בידו ומניח, ואם היה טבח אומן, אל ישקול בידו, מפני שידו כמשקל, אבל חותך בכלי ונותן לזה ולזה.
 
 
-What is "One shouldn't reserve one's cattle for a part of a piece of cattle only on a holiday"? He shall not say to anyone: I am your partner for one sela, or: I am your partner for two sela, or: I am your partner for three sela. Rather he says unto him: I am your partner for a half, a third or a quarter of the beast. but the otherwise say: The scale must not be considered at all; rather he weighs it in his hand and lays it down. If the butcher is skillful, let him not weigh, because his hand is like a weight; but he may cut it off with an instrument and give the flesh to one or another.
-
-
 ###### Tosefta Beitzah (Lieberman) 3:6
 
 [https://torahapp.org/share/book/Tosefta%20Beitzah%20%28Lieberman%29/r/3:6](https://torahapp.org/share/book/Tosefta%20Beitzah%20%28Lieberman%29/r/3:6)
 
 
 הולך אדם אצל טבח הרגיל אצלו, ואו' לו תן לי יד אחת, או ירך אחת.
-
-
-One may go to a butcher you know and say to him: Give me a front leg! or: Give me a hind leg!
 
 
 ###### Tosefta Beitzah (Lieberman) 3:7
@@ -566,18 +548,12 @@ One may go to a butcher you know and say to him: Give me a front leg! or: Give m
 אצל נחתום הרגיל אצלו, ואו' לו תן לי ככר אחד, או גלוסקה אחת, אצל פטם הרגיל אצלו, ואו' לו תן לי גוזל אחד, או תרנגולת אחת, אצל חנוני הרגיל אצלו, ואמ' לו תן לי חמשים אגוזים, עשרה ביצים, עשרה רמונים, ובלבד שלא יאמר לו סכום מניין, ר' שמעון בן לעזר או' ובלבד שלא יאמר לו סכום ממכר.
 
 
-One may go to a baker on a holiday. go to someone known and say to him, Give me a loaf of bread, or: Give me a round-bread! One may go to a fowl farmer that one knows and say to him: Give me a pigeon! or: Give me a rooster! One may go on the holiday to a merchant who is known to one and say to him: Give me nuts! or: pomegranates! But he should not give him a total number. R. Shimon ben Elazar says: Only he shall not give him a total amount.
-
-
 ###### Tosefta Beitzah (Lieberman) 3:8
 
 [https://torahapp.org/share/book/Tosefta%20Beitzah%20%28Lieberman%29/r/3:8](https://torahapp.org/share/book/Tosefta%20Beitzah%20%28Lieberman%29/r/3:8)
 
 
 לא יתן אדן לפני בניו ולפני בהמתו, לא במדה ולא במשקל ולא במניין, אבל קודח בסאה, או בתרקב, ונותן לפני בהמתו, קודח במיניקית ונותן לפני בניו, ובלבד שלא יתכוין לכך. אמרו עליו על ר' לעזר בר' צדוק ועל אבא שאול בן בטנית שהיו חנונין בירושלם כל ימי חייהן, והיו ממלין מדותיהן מערב יום טוב ונותנין ללקוחות ביום טוב, ר' חנינה בן אנטיגנס אומ' אף בחולו של מועד עושין כן, מפני בטול בית המדרש, וחכמים אומ' אף בחול עושין כן, מפני מצוי המדות. אף הוא כינס שלש מאות כדי שמן וחבירו שלש מאות גרבי יין ממיצוי המדות, והעלום לגזברין. אמרו להם אין אתם זקוקין לכך, אמרו להם אין רצוננו בהן, אמרו להן הואיל והחמרתם על עצמכם, של צבור הן, ייעשו מהן צרכי צבור.
-
-
-No one shall put anything before his sons or his cattle by measure or weight. But if he fetches something with a sea or with a terkab, he may serve it to his cattle; he fetches it with one ladle, he may put it before his sons; only he should not pay attention to it For this they have from R. Elazar b. R. Zadok and Abba Shaul b. Botnit said that they had been traders in Jerusalem all their lives and that on the eve of a holiday they filled their measurements and gave them to the buyers on the holiday because of disruption of the house of study; but the other sages say: Even on a working day they did so because of the complete emptying of the Dimensions. He also collected jars of oil and his colleague pitchers wine because of the complete emptying of the measure, and they brought it up to the treasurers. They said to them: You are not obliged to do this. They said to them: We don't want them. They said to them: Since you have made the law stricter for yourselves, they belong to the public; the needs of the public should be satisfied with it!
 
 
 ###### Tosefta Beitzah (Lieberman) 3:9
@@ -588,18 +564,12 @@ No one shall put anything before his sons or his cattle by measure or weight. Bu
 אין נוטלין עצים מן הסכה, אפי' ביום טוב האחרון של חג. אם אמ' לכשארצה אטול, הרי זה מותר.
 
 
-One must not take pieces of wood from the sukkah even on the last holiday of the festival. When he said, if he wants, he shall take, it is permitted for him.
-
-
 ###### Tosefta Beitzah (Lieberman) 3:10
 
 [https://torahapp.org/share/book/Tosefta%20Beitzah%20%28Lieberman%29/r/3:10](https://torahapp.org/share/book/Tosefta%20Beitzah%20%28Lieberman%29/r/3:10)
 
 
 אין מביאין עצים לא בחבל ולא בקופה ולא במחצלת, אלא מביא הוא במטפחת ובחיקו. אמ' ר' שמעון בן לעזר לא נחלקו בית שמיי על המכונסין שבקרפיף, שיביאו, ועל המפוזרין שבשדה, שלא יביאו, על מה נחלקו, על מפוזרין שבקרפיף ועל מכונסין שבשדה, שבית שמיי או' לא יביאו, ובית הלל אומ' יביאו. אמ' ר' נתן לא נחלקו בית שמיי ובית הלל על מפוזרין שבקרפיף ועל מכונסין שבשדה, שיביאו, על מה נחלקו על המפוזרין שבשדה, שבית שמיי אומ' לא יביאו, ובית הלל או' יביאו.
-
-
-One may not bring pieces of wood with a rope, a basket, or a mat; but he may bring them with a covering or in a sackcloth. R. Shimon b. Elazar said: The house of Shammai and the house of Hillel are not in a disagreement about the collected pieces of wood that are in an area that are allowed to be brought and about the scattered pieces of wood that to be in the fields that one was not allowed to bring them. What do they disagree about? About the collected pieces of wood that are in the fields; The house of Shammai says: One should not bring; but the house of Hillel says: One should bring it.
 
 
 ###### Tosefta Beitzah (Lieberman) 3:11
@@ -610,18 +580,12 @@ One may not bring pieces of wood with a rope, a basket, or a mat; but he may bri
 המטה והכסא והספסל וקתדרא ועריסה שנתפרקה, וכן קורה שנשברה, וכן סואר של קורות שנשבר, אין מסיקין בהן ביום טוב, לפי שאינן מן המוכן. איגוזין ושקדים שאכלן מערב יום טוב, מסיקין בקליפיהן ביום טוב, אכלן ביום טוב, אין מסיקין בקליפיהן ביום טוב. איגוזין ושקדין עצמן אין מסיקין מהן ביום טוב, לפי שאינן מן המוכן.
 
 
-If a bed, a chair, a bench, an armchair, or a cot breaks to pieces, likewise if a beam breaks, likewise if a stack of beams breaks, one is not allowed to take care of oneself with them on the holiday, because they are not "what is already available". But if one did eat her on the holiday, one is not allowed to heat with them on public holidays. Nuts or almonds themselves, one can heat with them, because they are not "what is already available".
-
-
 ###### Tosefta Beitzah (Lieberman) 3:12
 
 [https://torahapp.org/share/book/Tosefta%20Beitzah%20%28Lieberman%29/r/3:12](https://torahapp.org/share/book/Tosefta%20Beitzah%20%28Lieberman%29/r/3:12)
 
 
 מודים חכמים לר' מאיר בחותמות שבקרקעות שמפקפקין ומתירין ומפקיעין, אבל לא חותכין, ובשבת מפקפקין ומתירין, אבל לא מפקיעין ולא חותכין, ושבכלים, בשבת מותר, ואין צריך לומ' ביום טוב.
-
-
-Regarding closures on the ground, the Sages agree with R. Meir that one may loosen, dissolve or fray, but one must not cut. But on the Sabbath, one may loosen and dissolve, but neither unravel nor cut. If the closures are on vessels, it is lawful on the Sabbath; and you don't even have to say: on a holiday.
 
 
 ###### Tosefta Beitzah (Lieberman) 3:13
@@ -632,18 +596,12 @@ Regarding closures on the ground, the Sages agree with R. Meir that one may loos
 קורע אדן את העור שעל פי חבית של יין ושל מורייס, ובלבד שלא יתכוין לעשות זינוק. אין פותחין לפסין סתומין, ורבן שמעון בן גמליאל מתיר. אין מכבין את הבקעת, בשביל לחוס עליה, ואם בשביל שלא יעשן הבית, או בשביל שלא תקדיח את התבשיל, מותר.
 
 
-One may break the cap on the mouth of a cask of wine or of fish broth; only he shall not intend to make a gutter. You may not open locked jars; Rabban Shimon b. Gamliel declares it permissible. One must not extinguish a log because of the dampness, lest it smoke the house; but if one does it, lest it burn the dish, behold, it is permitted for him.
-
-
 ###### Tosefta Beitzah (Lieberman) 3:14
 
 [https://torahapp.org/share/book/Tosefta%20Beitzah%20%28Lieberman%29/r/3:14](https://torahapp.org/share/book/Tosefta%20Beitzah%20%28Lieberman%29/r/3:14)
 
 
 לא יתן אדן אבן על גבי בקעת כדי לשוברה, אבל מכניסה בחור ושוברה. אין עושין פחמין ביום טוב, אפי' לאותו היום.
-
-
-Nobody should put a stone on a log to break it; but he may stick it in the sand to break it. One may not make charcoals on the holiday, not even for the same day itself.
 
 
 ###### Tosefta Beitzah (Lieberman) 3:15
@@ -654,18 +612,12 @@ Nobody should put a stone on a log to break it; but he may stick it in the sand 
 אבל ממתיקין את החרדל בגחלת. אין נופחין במפוח, אבל נופחין בשפופרת, אין עושין את השפוד ואין מחדדין אותו.
 
 
-One must not sweeten mustard with a glowing coal. One must not fire with bellows fanning but with a pipe it is allowed. One must neither make a skewer nor sharpen an old one.
-
-
 ###### Tosefta Beitzah (Lieberman) 3:16
 
 [https://torahapp.org/share/book/Tosefta%20Beitzah%20%28Lieberman%29/r/3:16](https://torahapp.org/share/book/Tosefta%20Beitzah%20%28Lieberman%29/r/3:16)
 
 
 אין פוצעין את הקנה לצלות בו מליח, אבל פוצעין את האגוז במטפחת, ואינו חושש משם מקרע. התנור והכירים חדשים הרי הן ככל הכלים, ומטלטלין אותן, אבל אין סכין אותן שמן, ואין סוחטין אותן במטלית, ואין מפיגין אותן בצונן, כדי לחסמן, אם בשביל לאפות בהן, מותר.
-
-
-One must not split a reed to fry a salted fish with it. But one may crack nuts in a cloth, and one does not have to worry about tearing. A new oven and a new hearth, they are like all utensils: they may be moved, but they may not be rubbed with oil, and they may not be wiped with a rag, nor may they be wiped with cold water to glaze. But if one does it to bake with it, it is permitted for him.
 
 
 ###### Tosefta Beitzah (Lieberman) 3:17
@@ -676,18 +628,12 @@ One must not split a reed to fry a salted fish with it. But one may crack nuts i
 אין יוצאין בכסא, אחד האנשים ואחד הנשים, ולא סומה במקלו, ולא רועה בתרמילו. ר' לעזר בי ר' שמעון או' אף אין מנהיגין את הבהמה במקל ביום טוב.
 
 
-One must not use a stretcher chair wear, no matter whether men or women. Neither a blind man with his staff nor a shepherd with his bag go out. R. Shimon says: It is permissible to drive cattle with a stick on a holiday.
-
-
 ###### Tosefta Beitzah (Lieberman) 3:18
 
 [https://torahapp.org/share/book/Tosefta%20Beitzah%20%28Lieberman%29/r/3:18](https://torahapp.org/share/book/Tosefta%20Beitzah%20%28Lieberman%29/r/3:18)
 
 
 ר' ליעזר או' נוטל אדם קיסם לחצות בו שניו, וחכמים או' לא יטול אלא מן האבוס שלפני בהמה, ובלבד שלא יקטמנו לחצות בו שיניו. אם קיטמו בשבת, חייב חטאת, ביום טוב, לוקה ארבעים. ר' ליעזר אומ' מגביב את החצר ומדליק, ובלבד שלא יעשה צבורין, ור' שמעון מתיר. שכל שבחצר מוכן.
-
-
-R. Eliezer says: One may take a sliver of wood to pick his teeth with; but the Sages declare it forbidden, But he may take something from the manger located in front of the cattle - only he should not tear it off - in order to poke his teeth with it If he tore it off on the Sabbath, he is obligated to make a sin offering; if he has torn it down on the holiday, he gets the lashes. R. Eliezer says: A scion from the yard, one may gather it up and set it on fire, only he should not intend to pile them up in heaps; R. Shimon declares it permissible, for everything that is in the courtyard is already there.
 
 
 ###### Tosefta Beitzah (Lieberman) 3:19
@@ -698,18 +644,12 @@ R. Eliezer says: One may take a sliver of wood to pick his teeth with; but the S
 מולגין את הראש ואת הכרעים, ואין טופלין אותן לא בחרסית ולא באדמה, אבל מספספין אותן באור. ואין מספרין את הראש ואת הכרעים, ואין מספרין את הירק בתספורת, אבל מספר הוא את הקרנס ואת העכביות.
 
 
-One may scald the head and legs of an animal. One may not dust them with clay dust or earth, but one may singe them down with fire. And one may not shave his head or legs. One must not cut vegetables with a shearing knife; but one can cut off artichokes and thistle plants.
-
-
 ###### Tosefta Beitzah (Lieberman) 3:20
 
 [https://torahapp.org/share/book/Tosefta%20Beitzah%20%28Lieberman%29/r/3:20](https://torahapp.org/share/book/Tosefta%20Beitzah%20%28Lieberman%29/r/3:20)
 
 
 מסיקין ואופין בפורני, ומחמין חמין באנטיכי, ואין מסיקין את הפורנה לאפות בה כתחלה.
-
-
-One can heat and bake with an oven. One may prepare hot water with an Antiochene stove. But one must not heat and bake with an oven to bake with it from the outset.
 
 
 ###### Tosefta Beitzah (Lieberman) 3:21
@@ -720,7 +660,7 @@ One can heat and bake with an oven. One may prepare hot water with an Antiochene
 שלשה דברים נאמרו בפתילה, שלשה להחמיר ושלשה להקל, אין עושין אותה כתחלה, ואין מהבהבין אותה באור, ואין חותכין אותה לשנים. אילו שלשה להקל, שורין אותה בשמן, ומעכבין אותה ביד, וחותכה באור לשני נירות.
 
 
-Three things were said about the wick, three about the aggravation and three about the lenient. These are the three that were said about the aggravation: one must not first make it; one must not singe it by the fire, and it must not be cut in two. And these are the three that were said about the lenient: it may be soaked in oil, it may be flattened with the hand, and one may divide it by fire into two lamps.
+...Three things were stated regarding a wick—three stringencies and three leniencies. One may not make it initially, one may not singe it in the fire, and one may not cut it in two. These are the three leniencies: one may soak it in oil, roll it between by hand, and cut it with fire into two wicks.
 
 
 

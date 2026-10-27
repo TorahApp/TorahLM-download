@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat David/Writings
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 1245, License: Public Domain)
+Version (He): On Your Way (Segments: 1246, License: Public Domain)
 
 
 ## Chapter 1
@@ -316,44 +316,44 @@ Version (He): On Your Way (Segments: 1245, License: Public Domain)
 **כאשר עשית וכו׳.** כאומר כן עשה עמדי וכאשר יאמר בסוף דבריו:
 
 
-###### Metzudat David on II Chronicles 2:2:2
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/2:2:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/2:2:2)
-
-
-**להקדיש לו.** נדרי קרבנות:
-
-
-###### Metzudat David on II Chronicles 2:2:3
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/2:2:3](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/2:2:3)
-
-
-**ומערכת תמיד.** הם לחם הפנים:
-
-
-###### Metzudat David on II Chronicles 2:2:4
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/2:2:4](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/2:2:4)
-
-
-**ועולות.** להעלות לו עולות תמיד בבקר ובערב:
-
-
-###### Metzudat David on II Chronicles 2:2:5
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/2:2:5](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/2:2:5)
-
-
-**לשבתות וכו׳.** הם המוספין:
-
-
 
 ### Verse 3
 
 ###### Metzudat David on II Chronicles 2:3:1
 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/2:3:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/2:3:1)
+
+
+**להקדיש לו.** נדרי קרבנות:
+
+
+###### Metzudat David on II Chronicles 2:3:2
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/2:3:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/2:3:2)
+
+
+**ומערכת תמיד.** הם לחם הפנים:
+
+
+###### Metzudat David on II Chronicles 2:3:3
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/2:3:3](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/2:3:3)
+
+
+**ועולות.** להעלות לו עולות תמיד בבקר ובערב:
+
+
+###### Metzudat David on II Chronicles 2:3:4
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/2:3:4](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/2:3:4)
+
+
+**לשבתות וכו׳.** הם המוספין:
+
+
+###### Metzudat David on II Chronicles 2:3:5
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/2:3:5](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/2:3:5)
 
 
 **לעולם זאת.** הדבר הזה קבוע הוא לעולם על ישראל וכאומר בעבור זה מהצורך לבנות בית חזק ומתקיים:
@@ -1436,17 +1436,20 @@ Version (He): On Your Way (Segments: 1245, License: Public Domain)
 **לפני הארון.** ללכת לפני הארון:
 
 
-###### Metzudat David on II Chronicles 5:6:2
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/5:6:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/5:6:2)
+### Verse 7
+
+###### Metzudat David on II Chronicles 5:7:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/5:7:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/5:7:1)
 
 
 **אל מקומו.** אל המקום העשוי לו:
 
 
-###### Metzudat David on II Chronicles 5:6:3
+###### Metzudat David on II Chronicles 5:7:2
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/5:6:3](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/5:6:3)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/5:7:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/5:7:2)
 
 
 **אל תחת כנפי הכרובים.** הם שעשה שלמה ועמדו בארץ:
@@ -1661,9 +1664,12 @@ Version (He): On Your Way (Segments: 1245, License: Public Domain)
 **עומד.** כי אין ישיבה בעזרה אלא למלכי בית דוד בלבד:
 
 
-###### Metzudat David on II Chronicles 6:3:4
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/6:3:4](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/6:3:4)
+### Verse 4
+
+###### Metzudat David on II Chronicles 6:4:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/6:4:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/6:4:1)
 
 
 **ובידו מלא.** בכח ידיו השלים דברו אשר דבר לאמר:
@@ -2453,17 +2459,20 @@ Version (He): On Your Way (Segments: 1245, License: Public Domain)
 **אתם.** על ישראל בכללם יאמר:
 
 
-###### Metzudat David on II Chronicles 7:19:2
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/7:19:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/7:19:2)
+### Verse 20
+
+###### Metzudat David on II Chronicles 7:20:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/7:20:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/7:20:1)
 
 
 **אשליך.** ר״ל אמאס בם:
 
 
-###### Metzudat David on II Chronicles 7:19:3
+###### Metzudat David on II Chronicles 7:20:2
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/7:19:3](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/7:19:3)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/7:20:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/7:20:2)
 
 
 **למשל.** מחורבן הבית יביאו למשל על חרבנות אחרות:
@@ -10821,7 +10830,7 @@ Version (He): On Your Way (Segments: 1245, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/34:15:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/34:15:1)
 
 
-**ספר התורה מצאתי.** יתכן שעל כי אחז שרף את התורה כמ״ש רז״ל לזה פחדו הכהנים פן ישלח ידו גם בספר התורה המונח מצד הארון אשר כתב משה מפי ה׳ ולקחו הס ״ת ההיא והטמינו מפניו ולאחר מותו חפשו אחריה ולא מצאוה וכאשר היה הכ״ג מחפש אחר הכסף המובא ואחר בדקי הבית מצאה וארז״ל שמצאה כשהיתה מגוללת בפרש׳ תוכחות והיה התחלת הדף יולך ה׳ אותך ואת מלכך וכו׳ ועל כי מאז חפשו אחריה ולא מצאוה אמר כמבשר ספר התורה ההיא מצאתיה בבית ה׳:
+**ספר התורה מצאתי.** יתכן שעל כי אחז שרף את התורה כמ״ש רז״ל לזה פחדו הכהנים פן ישלח ידו גם בספר התורה המונח מצד הארון אשר כתב משה מפי ה׳ ולקחו הס״ת ההיא והטמינו מפניו ולאחר מותו חפשו אחריה ולא מצאוה וכאשר היה הכ״ג מחפש אחר הכסף המובא ואחר בדקי הבית מצאה וארז״ל שמצאה כשהיתה מגוללת בפרש׳ תוכחות והיה התחלת הדף יולך ה׳ אותך ואת מלכך וכו׳ ועל כי מאז חפשו אחריה ולא מצאוה אמר כמבשר ספר התורה ההיא מצאתיה בבית ה׳:
 
 
 ###### Metzudat David on II Chronicles 34:15:2
@@ -11112,7 +11121,7 @@ Version (He): On Your Way (Segments: 1245, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:2:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:2:1)
 
 
-**על משמרותם.** כ ״א במשמר שלו:
+**על משמרותם.** כ״א במשמר שלו:
 
 
 ###### Metzudat David on II Chronicles 35:2:2
@@ -11347,28 +11356,31 @@ Version (He): On Your Way (Segments: 1245, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:12:4](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:12:4)
 
 
-**וכן לבקר.** ובן עשו לבקר של שלמי חגיגה שהסירו מתחלה האימורים ואח ״ז נתנו הבקר לבעליהם:
+**וכן לבקר.** ובן עשו לבקר של שלמי חגיגה שהסירו מתחלה האימורים ואח״ז נתנו הבקר לבעליהם:
 
 
-###### Metzudat David on II Chronicles 35:12:5
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:12:5](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:12:5)
+### Verse 13
+
+###### Metzudat David on II Chronicles 35:13:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:13:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:13:1)
 
 
-**ויבשלו הפסה באש.** ר״ל צלו אותו באש וזהו כמשפט:
+**ויבשלו הפסח באש.** ר״ל צלו אותו באש וזהו כמשפט:
 
 
-###### Metzudat David on II Chronicles 35:12:6
+###### Metzudat David on II Chronicles 35:13:2
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:12:6](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:12:6)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:13:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:13:2)
 
 
 **והקדשים.** בשר השלמים:
 
 
-###### Metzudat David on II Chronicles 35:12:7
+###### Metzudat David on II Chronicles 35:13:3
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:12:7](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:12:7)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:13:3](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:13:3)
 
 
 **ויריצו.** הוליכו במרוצה את הבשר לבני העם:
@@ -11382,7 +11394,7 @@ Version (He): On Your Way (Segments: 1245, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:14:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:14:1)
 
 
-**ואחר.** אח ״ז הכינו גם לעצמם ולהכהנים כי הכהנים היו עסוקים בהעלאת העולות והאימורים ולזה היו הלוים מכינים לעצמם ולכהנים:
+**ואחר.** אח״ז הכינו גם לעצמם ולהכהנים כי הכהנים היו עסוקים בהעלאת העולות והאימורים ולזה היו הלוים מכינים לעצמם ולכהנים:
 
 
 
@@ -11544,12 +11556,23 @@ Version (He): On Your Way (Segments: 1245, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:21:5](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:21:5)
 
 
-**חדל לך מאלהים.** ר״ל חדל לך מהלחם עם אלהים אשר עמי וכאומר הלא מפי ר׳ אני הולך וא ״כ הוא עמי ואם תעכב על ידי מללכת יחשב כאלו תלחם עמו לזה חדל לך ולא ישחיתך האלהים (כב) ולא הסב. לא החזיר פניו ממנו ובכדי להלחם בו שינה בגדי המלוכה ללבוש בגדי מלחמה:
+**חדל לך מאלהים.** ר״ל חדל לך מהלחם עם אלהים אשר עמי וכאומר הלא מפי ר׳ אני הולך וא״כ הוא עמי ואם תעכב על ידי מללכת יחשב כאלו תלחם עמו לזה חדל לך ולא ישחיתך האלהים:
 
 
-###### Metzudat David on II Chronicles 35:21:6
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:21:6](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:21:6)
+### Verse 22
+
+###### Metzudat David on II Chronicles 35:22:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:22:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:22:1)
+
+
+**ולא הסב.** לא החזיר פניו ממנו ובכדי להלחם בו שינה בגדי המלוכה ללבוש בגדי מלחמה:
+
+
+###### Metzudat David on II Chronicles 35:22:2
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:22:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/35:22:2)
 
 
 **מפי אלהים.** מה שאמר לו דברי ירמיה מפי אלהים:
@@ -11959,7 +11982,7 @@ Version (He): On Your Way (Segments: 1245, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/36:23:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Chronicles/r/36:23:2)
 
 
-**פקד עלי.** צוה עלי לבנות ובו׳ כמ ״ש האומר לכורש וכו׳ והיכל תוסד (ישעיה מ ״ד):
+**פקד עלי.** צוה עלי לבנות ובו׳ כמ״ש האומר לכורש וכו׳ והיכל תוסד (ישעיה מ״ד):
 
 
 ###### Metzudat David on II Chronicles 36:23:3

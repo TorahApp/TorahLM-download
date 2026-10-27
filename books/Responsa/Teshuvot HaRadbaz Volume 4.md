@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Teshuvot HaRadbaz, Warsaw 1882 (Segments: 680, License: Public Domain)
 
-Version (En): YU Torah miTzion Beit Midrash (Segments: 10)
+Version (En): Sefaria Community Translation (Segments: 10)
 
 
 ## Teshuva 1074

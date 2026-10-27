@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat David/Prophets
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 2775, License: Public Domain)
+Version (He): On Your Way (Segments: 2776, License: Public Domain)
 
 Version (En): Sefaria Community Translation (Segments: 2)
 
@@ -7542,7 +7542,7 @@ Version (En): Sefaria Community Translation (Segments: 2)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Ezekiel/r/16:57:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Ezekiel/r/16:57:2)
 
 
-**סמו עת.** ר״ל עד לא נתגלה כמו שנתגלה בעת שחרפוך ארם ופלשתים בקחת אותך בגולה בימי אחז כמ״ש ויתנהו ה׳ אלהיו ביד מלך ארם ויכו בו וישבו ממנו וגו׳ (דה״ב כ״ח) ונאמר ופלשתים פשטו בערי השפלה וכו׳ (שם) כי אז הרעו לעשות בגלוי יותר מבראשונה כמ״ש (במ״ב ובד״ה ב):
+**כמו עת.** ר״ל עד לא נתגלה כמו שנתגלה בעת שחרפוך ארם ופלשתים בקחת אותך בגולה בימי אחז כמ״ש ויתנהו ה׳ אלהיו ביד מלך ארם ויכו בו וישבו ממנו וגו׳ (דה״ב כ״ח) ונאמר ופלשתים פשטו בערי השפלה וכו׳ (שם) כי אז הרעו לעשות בגלוי יותר מבראשונה כמ״ש (במ״ב ובד״ה ב):
 
 
 ###### Metzudat David on Ezekiel 16:57:3
@@ -11708,7 +11708,18 @@ Version (En): Sefaria Community Translation (Segments: 2)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Ezekiel/r/23:29:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Ezekiel/r/23:29:3)
 
 
-**וזמתך ותזנותיך.** כפל הדבר במ״ש לפי מרבית הזנות ויאמר על העכו״ם המחולפים (ל) עשה אלה לך אלה הדברים נעשו לך בגמול שזנית אחרי עבודת כוכבים ויפרש אמריו לומר על אשר נטמאת בגלוליהם לקבלם לאלוה:
+**וזמתך ותזנותיך.** כפל הדבר במ״ש לפי מרבית הזנות ויאמר על העכו״ם המחולפים
+
+
+
+### Verse 30
+
+###### Metzudat David on Ezekiel 23:30:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Ezekiel/r/23:30:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Ezekiel/r/23:30:1)
+
+
+**עשה אלה לך.** אלה הדברים נעשו לך בגמול שזנית אחרי עבודת כוכבים ויפרש אמריו לומר על אשר נטמאת בגלוליהם לקבלם לאלוה:
 
 
 
@@ -12741,7 +12752,7 @@ Version (En): Sefaria Community Translation (Segments: 2)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Ezekiel/r/25:6:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Ezekiel/r/25:6:2)
 
 
-**ורקעך בתל.** בעטת ברגל בארץ כי אז נראה כאלו מרקע ומרדד הארץ וגם הוא ענין שמחה ועם כי אמר למעלה הכה בכפך ורקע ברגלך (לעיל ו) על ענין צער ואבל הנה יש דברים שעושים לאבלות ולשמחה ואין עניינם שוה וכמו שמביאים חלילים למת ולכלם:
+**ורקעך ברגל.** בעטת ברגל בארץ כי אז נראה כאלו מרקע ומרדד הארץ וגם הוא ענין שמחה ועם כי אמר למעלה הכה בכפך ורקע ברגלך (לעיל ו) על ענין צער ואבל הנה יש דברים שעושים לאבלות ולשמחה ואין עניינם שוה וכמו שמביאים חלילים למת ולכלם:
 
 
 ###### Metzudat David on Ezekiel 25:6:3
@@ -24027,7 +24038,7 @@ Version (En): Sefaria Community Translation (Segments: 2)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Ezekiel/r/45:14:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Ezekiel/r/45:14:2)
 
 
-**הכת השמן.** ר״ל הבת הוא מדת השמן ויתנו את הבת מעשר מן הכור והוא החמר וזהו לפי שעשרת בתים היא חמר א״כ הבת הוא חלק מעשר בחמר:
+**הבת השמן.** ר״ל הבת הוא מדת השמן ויתנו את הבת מעשר מן הכור והוא החמר וזהו לפי שעשרת בתים היא חמר א״כ הבת הוא חלק מעשר בחמר:
 
 
 ###### Metzudat David on Ezekiel 45:14:3

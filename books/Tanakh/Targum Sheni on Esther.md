@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Berlin, 1898 (Segments: 301, License: unknown)
 
-Version (En): Cassel, Paulus, 'An explanatory commentary on Esther: with four appendices consisting of the second Targum translated from the Aramaic with notes, Mithra, the winged bulls of Persepolis, and Zoroaster,' 1888 (Segments: 138)
+Version (En): Sefaria Community Translation (Segments: 138)
 
 
 ## Chapter 1

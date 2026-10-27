@@ -14,7 +14,7 @@ Location: Tanakh/Rishonim on Tanakh/Minchat Shai/Writings
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Minchat Shai (Segments: 441, License: Public Domain)
+Version (He): Minchat Shai (Segments: 443, License: Public Domain)
 
 Version (En): Sefaria Community Translation (Segments: 1)
 
@@ -3287,7 +3287,26 @@ Version (En): Sefaria Community Translation (Segments: 1)
 [https://torahapp.org/share/book/Minchat%20Shai%20on%20Proverbs/r/23:5:3](https://torahapp.org/share/book/Minchat%20Shai%20on%20Proverbs/r/23:5:3)
 
 
-**ועיף.** יעוף בספרים מדוייקים מלא וא"ו וכן מסו' יחזקאל ב' נמסר ה"א אכול מלא וזה אחד מהם:
+**ועיף.** יעוף קרי:
+
+
+
+### Verse 7
+
+###### Minchat Shai on Proverbs 23:7:1
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Proverbs/r/23:7:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Proverbs/r/23:7:1)
+
+
+**שער.** חציו קמוץ וחציו פתח וטעמו למטה. רש"י. וכן נמסר עליו לית מלרע:
+
+
+###### Minchat Shai on Proverbs 23:7:2
+
+[https://torahapp.org/share/book/Minchat%20Shai%20on%20Proverbs/r/23:7:2](https://torahapp.org/share/book/Minchat%20Shai%20on%20Proverbs/r/23:7:2)
+
+
+**אכול ושתה.** בספרים מדוייקים מלא וא"ו וכן מסו' יחזקאל ב' נמסר ה"א אכול מלא וזה אחד מהם:
 
 
 

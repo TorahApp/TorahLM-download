@@ -104,7 +104,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Malachi/r/1:4:1](https://torahapp.org/share/book/Rashi%20on%20Malachi/r/1:4:1)
 
 
-**כִּי תֹאמַר אֱדוֹם רֻשַּׁשְׁנוּ.** וְאִם יֹאמְרוּ מַחֲרִיבֵי הַמִּקְדָּשׁ: מִתְּחִלָּתֵנוּ רָשִׁים הָיִינוּ, אֲבָל מֵעַתָּה שֶׁהֶעֱשַׁרְנוּ מִבִּזַּת יְרוּשָׁלַיִם **נָשׁוּב וְנִבְנֶה חֳרָבוֹת** שֶׁלָּנוּ – **כֹּה אָמַר ה׳ וְגוֹ׳**.
+**כִּי תֹאמַר אֱדוֹם רֻשַּׁשְׁנוּ.** וְאִם יֹאמְרוּ מַחֲרִיבֵי הַמִּקְדָּשׁ: מִתְּחִלָּתֵנוּ רָשִׁים הָיִינוּ, אֲבָל מֵעַתָּה שֶׁהֶעֱשַׁרְנוּ מִבִּזַּת יְרוּשָׁלַיִם **נָשׁוּב וְנִבְנֶה חֳרָבוֹת** שֶׁלָּנוּ – **כֹּה אָמַר ה׳ וְגוֹ׳.**
 
 
 **Should Edom say, “We were poor”** And if Edom says, “At first we were poor, but from now on we will be rich from the spoils of Jerusalem.” **but we will return and build the ruins** Our ruins, so said the Lord, etc.
@@ -410,7 +410,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Malachi/r/2:3:1](https://torahapp.org/share/book/Rashi%20on%20Malachi/r/2:3:1)
 
 
-**וְזָרִיתִי פֶרֶשׁ.** שֶׁל בְּהֵמוֹת חַגֵּיכֶם עַל פְּנֵיכֶם. כְּלוֹמַר, לֹא תְקַבְּלוּ שָׂכָר מֵאִתִּי כִּי אִם לְרָעָה, לְבֹשֶׁת, וְאֶגְעַר לָכֶם אֶת זֶרַע הַשָּׂדֶה.
+**וְזֵרִיתִי פֶרֶשׁ.** שֶׁל בְּהֵמוֹת חַגֵּיכֶם עַל פְּנֵיכֶם. כְּלוֹמַר, לֹא תְקַבְּלוּ שָׂכָר מֵאִתִּי כִּי אִם לְרָעָה, לְבֹשֶׁת, וְאֶגְעַר לָכֶם אֶת זֶרַע הַשָּׂדֶה.
 
 
 **and I will scatter dung** of the animals of your festive sacrifices; that is to say, you will not receive reward from Me, but [you will receive a curse] for harm and shame. And I will rebuke the seed of the field because of you.
@@ -707,7 +707,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Malachi/r/2:17:1](https://torahapp.org/share/book/Rashi%20on%20Malachi/r/2:17:1)
 
 
-**בְּאָמְרְכֶם כָּל עֹשֵׂה רָע וְגוֹ׳: אוֹ אַיֵּה אֱלֹהֵי הַמִּשְׁפָּט.** לְפִי שֶׁאַתֶּם רוֹאִים דֶּרֶךְ רְשָׁעִים צָלֵחָה, וְצַדִּיקִים מְעֻנִּים וְנִכְשָׁלִים, אוֹמְרִים אַתֶּם בִּלְבַבְכֶם אַחַת מִשְּׁתֵּי דְרָכִים הַלָּלוּ: ״כָּל עֹשֵׂה רָע טוֹב בְּעֵינָיו״, אוֹ אֵין דִּין וְאֵין דַּיָּן לִפָּרַע. וְכֵן פִּתְרוֹן לְשׁוֹן הַמִּקְרָא: ״כָּל עֹשֵׂה רָע טוֹב בְּעֵינָיו״ – לְכָךְ הוּא מַצְלִיחַ אוֹתָם. ״אוֹ״ אִם אֵין זֹאת, ״אַיֵּה אֱלֹהֵי הַמִּשְׁפָּט״ שֶׁאֵינוֹ נִפְרָע מֵהֶם.
+**בֶּאֱמׇרְכֶם כָּל עֹשֵׂה רָע וְגוֹ׳. אוֹ אַיֵּה אֱלֹהֵי הַמִּשְׁפָּט.** לְפִי שֶׁאַתֶּם רוֹאִים דֶּרֶךְ רְשָׁעִים צָלֵחָה, וְצַדִּיקִים מְעֻנִּים וְנִכְשָׁלִים, אוֹמְרִים אַתֶּם בִּלְבַבְכֶם אַחַת מִשְּׁתֵּי דְרָכִים הַלָּלוּ: ״כָּל עֹשֵׂה רָע טוֹב בְּעֵינָיו״, אוֹ אֵין דִּין וְאֵין דַּיָּן לִפָּרַע. וְכֵן פִּתְרוֹן לְשׁוֹן הַמִּקְרָא: ״כָּל עֹשֵׂה רָע טוֹב בְּעֵינָיו״ – לְכָךְ הוּא מַצְלִיחַ אוֹתָם. ״אוֹ״ אִם אֵין זֹאת, ״אַיֵּה אֱלֹהֵי הַמִּשְׁפָּט״ שֶׁאֵינוֹ נִפְרָע מֵהֶם.
 
 
 **By your saying, “Every evildoer, etc., or Where is the God of judgment?”** Since you see that the way of the wicked prospers, and the righteous are afflicted and stumble, you say to yourselves, “One of these two ways is true: Either every evildoer is good in His sight, or [else] there is no judgment or judge to requite him. And so is the interpretation of the language of the verse: Every evildoer is good in His sight; therefore, He causes them to prosper. Or, if this is not so, where is the God of judgment, for He does not requite them.

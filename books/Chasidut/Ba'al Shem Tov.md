@@ -1,6 +1,6 @@
 # Ba'al Shem Tov
 
-בעל שם טוב
+בעל שם טוב על התורה
 
 Link: [https://torahapp.org/share/book/Ba%27al%20Shem%20Tov](https://torahapp.org/share/book/Ba%27al%20Shem%20Tov)
 
@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Sefer Baal Shem Tov. Lodz, 1938 (Segments: 1715, License: Public Domain)
 
-Version (En): Ami Silver, 2020 (Segments: 769)
+Version (En): Baal Shem Tov; mystical teachings on the weekly Torah portion; by Rabbi Eliezer Shore. 2012 (Segments: 769)
 
 
 ## Introduction

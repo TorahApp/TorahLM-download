@@ -699,7 +699,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/1:24:2](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/1:24:2)
 
 
-**וְנֵבֶל יָיִן.** לְנַסֵּךְ:
+**וְנֵבֶל יַיִן.** לַנֶּסֶךְ:
 
 
 **And a flask of wine.** For a libation.
@@ -846,7 +846,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/2:3:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/2:3:1)
 
 
-**אַל תַּרְבּוּ תְדַבְּרוּ.** כָּל גַּסֵּי הָרוּחַ אֲשֶׁר שָׁעְתָם מַצְלַחַת, וּבִשְׁבִיל פְּנִינָה שֶׁהָיְתָה מִתְגָּאָה עָלֶיהָ הִיא מְדַבֶּרֶת, לְפִי פְּשׁוּטוֹ וּלְפִי דְרָשׁוֹ, כְּתַרְגּוּמוֹ שֶׁתִּרְגֵּם יוֹנָתָן:
+**אַל תַּרְבּוּ תְדַבְּרוּ.** כָּל גַּסֵּי הָרוּחַ אֲשֶׁר שָׁעְתָם מַצְלַחַת, וּבִשְׁבִיל פְּנִינָה שֶׁהָיְתָה מִתְגָּאָה עָלֶיהָ הִיא מְדַבֶּרֶת, לְפִי פְּשׁוּטוֹ. וּלְפִי דְרָשׁוֹ, כְּתַרְגּוּמוֹ שֶׁתִּרְגֵּם יוֹנָתָן:
 
 
 **Do not abound in speaking so very proudly.** All those who are haughty when they experience good fortune. About Penina who behaved haughtily toward her, was she speaking, according to the simple explanation. However, according to the *drash,* we follow Targum Yonoson's rendition [that she is referring to Nevuchadnetzar].
@@ -990,7 +990,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/2:10:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/2:10:1)
 
 
-**עָלָיו בַשָּׁמַיִם יַרְעֵם.** עָלוּ כְּתִיב, אֲפִלּוּ עָלוּ בַשָּׁמַיִם, מַרְעִים עֲלֵיהֶם וּמוֹרִידָם:
+**עָלָו בַשָּׁמַיִם יַרְעֵם.** עָלוּ כְּתִיב, אֲפִלּוּ עָלוּ בַשָּׁמַיִם, מַרְעִים עֲלֵיהֶם וּמוֹרִידָם:
 
 
 **Let Him thunder against them from heaven.** The spelling is עָלוּ "they have ascended" meaning that even if they have ascended to the heavens, He thunders upon them and casts them down.
@@ -1113,7 +1113,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/2:19:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/2:19:1)
 
 
-**וּמְעִיל קָטָן תַּעֲשֶׂה לוֹ אִמּוֹ.** מִשָּׁנָה לְשָׁנָה:
+**וּמְעִיל קָטֹן תַּעֲשֶׂה לוֹ אִמּוֹ.** מִשָּׁנָה לְשָׁנָה:
 
 
 **His mother would make for him a small robe.** From year to year.
@@ -1313,7 +1313,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/2:29:4](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/2:29:4)
 
 
-**לְעַמִּי.** מוּסָב עַל </b>וַתְּכַבֵּד אֶת בָּנֶיךָ מִמֶּנִּי</b>, הֶרְאֵיתֶם לְעַמִּי שֶׁאַתֶּם נִכְבָּדִים מִמֶּנִּי, וּבַמֶּה הֶרְאֵיתֶם,</b>לְהַבְרִיאֲכֶם מֵרֵאשִׁית מִנְחָתִי׳</b>:
+**לְעַמִּי.** מוּסָב עַל **וַתְּכַבֵּד אֶת בָּנֶיךָ מִמֶּנִּי**, הֶרְאֵיתֶם לְעַמִּי שֶׁאַתֶּם נִכְבָּדִים מִמֶּנִּי, וּבַמֶּה הֶרְאֵיתֶם, ״לְהַבְרִיאֲכֶם מֵרֵאשִׁית מִנְחָתִי״:
 
 
 **My people.** This reverts to, "you honor your sons more than Me." You showed My people that you are more honored than I. And how have you shown this? By feeding yourselves from the choice parts of My offerings.²²
@@ -1330,7 +1330,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/2:30:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/2:30:1)
 
 
-**אָמוֹר אָמַרְתִּי.** שְׁנֵי פְעָמִים פָּסַקְתִּי גְדֻלָּה לִבְנֵי אִיתָמָר, בִּבְנֵי גֵרְשׁוֹן וּבִבְנֵי מְרָרִי נֶאֱמַר (במדבר ד:כח), ״בְּיַד אִיתָמָר בֶּן אַהֲרֹן הַכֹּהֵן״, וְעֵלִי מִבְּנֵי אִיתָמָר הָיָה, זוֹ רָאִיתִי בְּמִדְרַשׁ שְׁמוּאֵל. וְלָשׁוֹן הָגוּן מִזֶּה שָׁמַעְתִּי: </b>אָמוֹר אָמַרְתִּי בֵּיתְךָ וּבֵית אָבִיךָ וְגוֹ׳</b>; מִתְּחִלָּה נָתַתִּי כְהוּנָה גְדוֹלָה לְאֶלְעָזָר הַכֹּהֵן, שֶׁנֶּאֱמַר (במדבר כ:כו): ״וְהַפְשֵׁט אֶת אַהֲרֹן אֶת בְּגָדָיו וְגוֹ׳״, וּבִימֵי פִּלֶגֶשׁ שֶׁפָּקְרוּ יִשְׂרָאֵל בְּרֹב הַמִּצְוֹת, וּמִי גָרַם לָהֶם, פִּנְחָס וְכַיּוֹצֵא בוֹ, שֶׁהָיָה לָהֶם לְסַבֵּב מֵעִיר אֶל עִיר וּלְהוֹכִיחָם, נָטַלְתִּי הַכְּהוּנָה גְדוֹלָה מֵהֶם וּנְתַתִּיהָ לְךָ, שֶׁמִּבְּנֵי אִיתָמָר אַתָּה, וְאָמַרְתִּי יִתְהַלְּכוּ לְפָנַי עַד עוֹלָם, שֶׁכְּשֶׁפּוֹסְקִין לוֹ גְדֻלָּה לְאָדָם, פּוֹסְקִין לוֹ וּלְדוֹרוֹתָיו עַד עוֹלָם:
+**אָמוֹר אָמַרְתִּי.** שְׁנֵי פְעָמִים פָּסַקְתִּי גְדֻלָּה לִבְנֵי אִיתָמָר, בִּבְנֵי גֵרְשׁוֹן וּבִבְנֵי מְרָרִי נֶאֱמַר (במדבר ד:כח), ״בְּיַד אִיתָמָר בֶּן אַהֲרֹן הַכֹּהֵן״, וְעֵלִי מִבְּנֵי אִיתָמָר הָיָה, זוֹ רָאִיתִי בְּמִדְרַשׁ שְׁמוּאֵל. וְלָשׁוֹן הָגוּן מִזֶּה שָׁמַעְתִּי: **אָמוֹר אָמַרְתִּי בֵּיתְךָ וּבֵית אָבִיךָ וְגוֹ׳**; מִתְּחִלָּה נָתַתִּי כְהוּנָה גְדוֹלָה לְאֶלְעָזָר הַכֹּהֵן, שֶׁנֶּאֱמַר (במדבר כ:כו): ״וְהַפְשֵׁט אֶת אַהֲרֹן אֶת בְּגָדָיו וְגוֹ׳״, וּבִימֵי פִּלֶגֶשׁ שֶׁפָּקְרוּ יִשְׂרָאֵל בְּרֹב הַמִּצְוֹת, וּמִי גָרַם לָהֶם, פִּנְחָס וְכַיּוֹצֵא בוֹ, שֶׁהָיָה לָהֶם לְסַבֵּב מֵעִיר אֶל עִיר וּלְהוֹכִיחָם, נָטַלְתִּי הַכְּהוּנָה גְדוֹלָה מֵהֶם וּנְתַתִּיהָ לְךָ, שֶׁמִּבְּנֵי אִיתָמָר אַתָּה, וְאָמַרְתִּי יִתְהַלְּכוּ לְפָנַי עַד עוֹלָם, שֶׁכְּשֶׁפּוֹסְקִין לוֹ גְדֻלָּה לְאָדָם, פּוֹסְקִין לוֹ וּלְדוֹרוֹתָיו עַד עוֹלָם:
 
 
 **I had indeed decreed.** Twice I assigned greatness to the sons of Isomor: Concerning the sons of Gershon and the sons of Merori, it is stated, "Under the direction of Isomor, the son of Aharon the kohein."²³ And Eili was one of the descendants of Isomor. This [explanation] I saw in Midrash Shmuel. I have, however, heard a more fitting explanation: "I had indeed decreed that your family and your father's family…" Originally I made Elozor the kohein to serve as kohein gadol, as it is stated, "remove Aharon's vestments, [and dress Elozor his son in them]."²⁴ However, at the time of the concubine,²⁵ Yisroel divested themselves of most mitzvos. And who was to blame [for this]? Pinchas and his associate kohanim, who should have gone around from city to city to reprove them. I therefore took the *kehunah gedolah* away from them, and gave it to you, for you are of Isomor's descendants, and I said, that they shall walk before Me forever; for when greatness is assigned to a person, it is assigned to him and to his generations forever.
@@ -1420,7 +1420,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/2:32:3](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/2:32:3)
 
 
-**וְלֹא יִהְיֶה זָקֵן בְּבֵיתֶךָ.** מִדָּה כְּנֶגֶד מִדָּה, אַתֶּם אֲכַלְתֶּם קָדָשִׁים לִפְנֵי זְמַנָּן, בְּטֶרֶם יַקְטִירוּן אֶת הַחֵלֶב, אַף אַתֶּם תְּמוּתוּן בְּלֹא זְמַן:
+**וְלֹא יִהְיֶה זָקֵן בְּבֵיתְךָ.** מִדָּה כְּנֶגֶד מִדָּה, אַתֶּם אֲכַלְתֶּם קָדָשִׁים לִפְנֵי זְמַנָּן, בְּטֶרֶם יַקְטִירוּן אֶת הַחֵלֶב, אַף אַתֶּם תְּמוּתוּן בְּלֹא זְמַן:
 
 
 **But there will be no elder in your family.** This is an appropriate punishment. You ate sacrifices before the [permitted] time, before they burnt the fat, so too, you will die before your time.
@@ -2178,7 +2178,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/6:8:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/6:8:1)
 
 
-**בָאַרְגָּז.** שקריניי״ו בלע״ז:
+**בָאַרְגַּז.** שקריניי״ו בלע״ז:
 
 
 **In the box.** *Escrin* in O. F.
@@ -2267,7 +2267,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/6:18:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/6:18:1)
 
 
-**כְּפַר הַפְּרָזִי.** כְּפָר שֶׁאֵין לוֹ חוֹמָה:
+**כֹּפֶר הַפְּרָזִי.** כְּפָר שֶׁאֵין לוֹ חוֹמָה:
 
 
 **Open village.** A village without a wall.
@@ -2405,7 +2405,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/7:9:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/7:9:1)
 
 
-**וַיַּעֲלֶה עוֹלָה.** וַיַּעֲלֶהָ כְּתִיב, נְקֵבָה הָיְתָה, מִכָּאן לָמְדוּ רַבּוֹתֵינוּ: עוֹלָה נְקֵבָה כְּשֵׁרָה בְּבָמַת יָחִיד, בְּמַסֶּכֶת עֲבוֹדָה זָרָה (כד ב):
+**וַיַּעֲלֵהוּ עוֹלָה.** וַיַּעֲלֶהָ כְּתִיב, נְקֵבָה הָיְתָה, מִכָּאן לָמְדוּ רַבּוֹתֵינוּ: עוֹלָה נְקֵבָה כְּשֵׁרָה בְּבָמַת יָחִיד, בְּמַסֶּכֶת עֲבוֹדָה זָרָה (כד ב):
 
 
 **And offered it all as a burnt offering.** The כְּתִיב is 'וַיַעֲלֶהָ' because it was a female.⁸ From here our Rabbis deduced that a female animal is acceptable as a burnt offering on a private altar.⁹
@@ -3209,7 +3209,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/11:2:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/11:2:1)
 
 
-**כָּל עַיִן יָמִין.** כְּמַשְׁמָעוֹ, וּמִדְרַשׁ אַגָּדָה (ילקוט שמעוני רמז קיא): הָבִיאוּ לִי סֵפֶר תּוֹרַתְכֶם שֶׁנִּתְּנָה מִיָּמִין, וְאֶשְׂרְפָהּ, עַל שֶׁכָּתוּב בּוֹ (דברים כג:ד): ״לֹא יָבֹא עַמּוֹנִי וּמוֹאָבִי וְגוֹ׳״:
+**כָּל עֵין יָמִין.** כְּמַשְׁמָעוֹ, וּמִדְרַשׁ אַגָּדָה (ילקוט שמעוני רמז קיא): הָבִיאוּ לִי סֵפֶר תּוֹרַתְכֶם שֶׁנִּתְּנָה מִיָּמִין, וְאֶשְׂרְפָהּ, עַל שֶׁכָּתוּב בּוֹ (דברים כג:ד): ״לֹא יָבֹא עַמּוֹנִי וּמוֹאָבִי וְגוֹ׳״:
 
 
 **Each right eye.** Explain it literally.¹ But the Midrash Aggadah [explains it figuratively, that he said,] "Bring me your Torah scroll which was given by the right hand [of God],² and I will burn it, because He wrote in it, "Neither an Ammonite nor a Moavite may enter [into Adonoy's community]."³
@@ -3648,7 +3648,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/13:3:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/13:3:1)
 
 
-**אֶת נְצִיב פְּלִשְׁתִּים.** סַרְדְּיוֹט שֶׁהָיָה לָהֶם עַל יִשְׂרָאֵל, וְהוֹשִׁיבוּהוּ בְּגִבְעַת בִּנְיָמִן:
+**אֵת נְצִיב פְּלִשְׁתִּים.** סַרְדְּיוֹט שֶׁהָיָה לָהֶם עַל יִשְׂרָאֵל, וְהוֹשִׁיבוּהוּ בְּגִבְעַת בִּנְיָמִן:
 
 
 **The Philistine governor.** They had a government official [who ruled] over Yisroel and they stationed him in Givas Binyomin.²
@@ -3718,7 +3718,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/13:6:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/13:6:1)
 
 
-**וּבַחוֹחִים.** מְקוֹם קְבוּצַת חוֹחִים, שפנ״י בלע״ז:
+**וּבַחֲוָחִים.** מְקוֹם קְבוּצַת חוֹחִים, שפנ״י בלע״ז:
 
 
 **In thorn bushes.** A place where thorns are concentrated; *espineid* in O.F.
@@ -3916,7 +3916,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/13:15:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/13:15:1)
 
 
-**הַנִּמְצָאִים עִמּוֹ.** כִּי הָעָם נָפוֹצוּ מֵעָלָיו, וְאֵלּוּ נִשְׁתַּיְּרוּ:
+**הַנִּמְצְאִים עִמּוֹ.** כִּי הָעָם נָפוֹצוּ מֵעָלָיו, וְאֵלּוּ נִשְׁתַּיְּרוּ:
 
 
 **Who were [still] with him.** For the people had scattered from him, and these remained.
@@ -4032,7 +4032,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/13:21:2](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/13:21:2)
 
 
-**וּלְשָׁלֹשׁ קִלְּשׁוֹן.** מַזְלֵג עָשׂוּי כְּמִין עָתֵר, שֶׁקּוֹרִין פורקד״א, וְלוֹ שָׁלוֹשׁ שִׁנִּים:
+**וְלִשְׁלֹשׁ קִלְּשׁוֹן.** מַזְלֵג עָשׂוּי כְּמִין עָתֵר, שֶׁקּוֹרִין פורקד״א, וְלוֹ שָׁלוֹשׁ שִׁנִּים:
 
 
 **Three pronged pitchforks.** A fork similar to a pitchfork, which is called *'forche'* [in O.F.], having three prongs.
@@ -4085,7 +4085,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/13:23:2](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/13:23:2)
 
 
-**מַצָּב.** הֵם נְצִיבִים לִשְׁמֹר שֶׁלֹּא יֵצְאוּ מִן הָעִיר מַשְׁחִיתִים בָּהֶם:
+**מַצַּב.** הֵם נְצִיבִים לִשְׁמֹר שֶׁלֹּא יֵצְאוּ מִן הָעִיר מַשְׁחִיתִים בָּהֶם:
 
 
 **Garrison.** They are the ones who stand guard that no raiders come out of the city against them.
@@ -4285,7 +4285,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/14:14:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/14:14:1)
 
 
-**כַּבֲחצִי מַעֲנָה צֶמֶד שָׂדֶה.** בְּתוֹךְ שִׁיעוּר מִדַּת קַרְקַע, מְלֹא חֲצִי מַעֲנָה שֶׁל מַחֲרֵשַׁת צֶמֶד בָּקָר הַחוֹרֶשֶׁת בַּשָּׂדֶה:
+**כְּבַחֲצִי מַעֲנָה צֶמֶד שָׂדֶה.** בְּתוֹךְ שִׁיעוּר מִדַּת קַרְקַע, מְלֹא חֲצִי מַעֲנָה שֶׁל מַחֲרֵשַׁת צֶמֶד בָּקָר הַחוֹרֶשֶׁת בַּשָּׂדֶה:
 
 
 **Half a furrow, of a pair [of oxen plowing] in the field.** Within the area of a land measure [equal to] half the amount of a furrow of the plowing of a pair of oxen plowing a field.
@@ -4470,7 +4470,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/14:26:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/14:26:1)
 
 
-**וְהִנֵּה הָלַךְ דְּבַשׁ.** שֶׁהָיָה נוֹטֵף מִן הַקָּנִים:
+**וְהִנֵּה הֵלֶךְ דְּבָשׁ.** שֶׁהָיָה נוֹטֵף מִן הַקָּנִים:
 
 
 **And behold there was a flow of honey.** Which was flowing from the canes.
@@ -4484,7 +4484,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/14:27:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/14:27:1)
 
 
-**בְּיַעְרַת הַדְּבַשׁ.** בִּקְנֵה הַדְּבַשׁ, כְּמוֹ ״וַתָּשֶׂם בַּסּוּף״ (שמות ב:ג), דִּמְתַרְגְּמִינָן: ״וְשַׁוִּיתֵיהּ בְּיַעְרָא״. וְ״סוּף״ הֵם קָנִים שֶׁל אֲגַם, וְכֵן ״אָכַלְתִּי יַעְרִי עִם דִּבְשִׁי״ (שיר השירים ה:א). וּבְלָשׁוֹן יִשְׁמְעֵאל קוֹרִין לְאוֹתוֹ דְּבַשׁ סוקר״א בְּלַעַ״ז, מִפִּי רַבִּי נָתָן הַיִּשְׁמְעֵאלִי:
+**בְּיַעְרַת הַדְּבָשׁ.** בִּקְנֵה הַדְּבַשׁ, כְּמוֹ ״וַתָּשֶׂם בַּסּוּף״ (שמות ב:ג), דִּמְתַרְגְּמִינָן: ״וְשַׁוִּיתֵיהּ בְּיַעְרָא״. וְ״סוּף״ הֵם קָנִים שֶׁל אֲגַם, וְכֵן ״אָכַלְתִּי יַעְרִי עִם דִּבְשִׁי״ (שיר השירים ה:א). וּבְלָשׁוֹן יִשְׁמְעֵאל קוֹרִין לְאוֹתוֹ דְּבַשׁ סוקר״א בְּלַעַ״ז, מִפִּי רַבִּי נָתָן הַיִּשְׁמְעֵאלִי:
 
 
 **Into the honeycomb.** Into the sugar cane, as in, "and she placed it in the reeds,"¹³ which Onkelos renders, "and she placed it in the יַעֲרָא," and סוּף are reeds which grow in the swamp. And similarly, "I ate my sugar cane [יַעְרִי] with my sugar,¹⁴ and in Arabic, that honey is called *'sukra'* in their language; from R. Nosson Ha'yishme'eili.
@@ -4738,7 +4738,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/14:48:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/14:48:1)
 
 
-**וַיַּעַשׂ חָיִל.** וַיֶּאֱסֹף חַיִל:
+**וַיַּעַשׂ חַיִל.** וַיֶּאֱסֹף חַיִל:
 
 
 **He raised an army.** And he gathered an army.
@@ -4922,7 +4922,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/15:9:2](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/15:9:2)
 
 
-**נִמְבְזָה וְנָמֵס.** כְּמוֹ נִבְזֶה, וְהַמֵּ״ם טְפֵלָה בּוֹ:
+**נְמִבְזָה וְנָמֵס.** כְּמוֹ נִבְזֶה, וְהַמֵּ״ם טְפֵלָה בּוֹ:
 
 
 **Undesirable and inferior.** Meaning the same as נִבְזֶה; and the 'מ' is superfluous.
@@ -5128,7 +5128,7 @@ footnotes:
 **וַיַּחֲזֵק בִּכְנַף מְעִילוֹ.** לְפִי פְּשׁוּטוֹ מַשְׁמָעוֹ, שֶׁכְּשֶׁפָּנָה שְׁמוּאֵל לָלֶכֶת מֵאַחֲרֵי שָׁאוּל, אָחַז שָׁאוּל בְּכָנָף שֶׁל שְׁמוּאֵל, לְפִי שֶׁהָיָה שָׁאוּל מְבַקֵּשׁ מִמֶּנּוּ שֶׁיָּשׁוּב עַד שֶׁיִּשְׁתַּחֲוֶה בַּגִּלְגָּל שֶׁהָיָה שָׁם אֹהֶל מוֹעֵד. וּמִדְרַשׁ אַגָּדָה (שוחר טוב) חוֹלְקִים אֲמוֹרָאִים, יֵשׁ אוֹמְרִים: מְעִילוֹ שֶׁל שְׁמוּאֵל קָרַע שָׁאוּל. וְיֵשׁ אוֹמְרִים: מְעִילוֹ שֶׁל שָׁאוּל קָרַע שְׁמוּאֵל, וּמָסַר לוֹ סִימָן זֶה, מִי שֶׁיִּכְרוֹת כְּנַף מְעִילוֹ, הוּא יִמְלוֹךְ תַּחְתָּיו, וְהוּא שֶׁאָמַר לוֹ שָׁאוּל לְדָוִד בַּיּוֹם שֶׁכָּרַת אֶת הַמְּעִיל (שמואל א כד:כ): ״יָדַעְתִּי כִּי מָלוֹךְ תִּמְלוֹךְ״:
 
 
-**And he grabbed the corner of his robe.** According to the simple meaning, it seems that when Shmuel turned to leave Shaul, Shaul grabbed the corner of Shmuel's [robe], since Shaul was asking him to return until he would prostate himself in Gilgol, where the Tent of Meeting was. In Midrash Aggadah, however, Amora'im differ; some say that Shaul tore Shmuel's robe, and some say that Shmuel tore Shaul's robe,²⁸ giving over to him this sign, that whoever will tear a corner of his robe, would reign in his place. And that is what Shaul said to Dovid on the day he tore [Shaul's] robe, 'I know that you will surely reign.'²⁹
+**And he grabbed the corner of his robe.** According to the simple meaning, it seems that when Shmuel turned to leave Shaul, Shaul grabbed the corner of Shmuel's [robe], since Shaul was asking him to return until he would prostrate himself in Gilgol, where the Tent of Meeting was. In Midrash Aggadah, however, Amora'im differ; some say that Shaul tore Shmuel's robe, and some say that Shmuel tore Shaul's robe,²⁸ giving over to him this sign, that whoever will tear a corner of his robe, would reign in his place. And that is what Shaul said to Dovid on the day he tore [Shaul's] robe, 'I know that you will surely reign.'²⁹
 
 footnotes:
 ²⁸ As a symbol of his loss of kingship. Another version is that Shmuel tore his own robe as a gesture of dismay.
@@ -5157,7 +5157,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/15:32:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/15:32:1)
 
 
-**אָגַג מַעֲדַנּוֹת.** יוֹנָתָן תִּרְגֵּם: ״אֲגַג מְפַנְּקָא״:
+**אֲגַג מַעֲדַנּוֹת.** יוֹנָתָן תִּרְגֵּם: ״אֲגַג מְפַנְּקָא״:
 
 
 **Agag went to him bound.** Targum Yonoson renders, mincingly.³⁰
@@ -5199,7 +5199,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/15:33:2](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/15:33:2)
 
 
-**וַיְשַׁסֵּף.** חִתְּכוֹ לְאַרְבַּע, וְאֵין לַתֵּיבָה זוֹ דִּמְיוֹן וְתַרְגּוּם וַיְשַׁסֵּף, ״וּפָשַׁח״. וּבַגְּמָרָא שֶׁלָּנוּ יֵשׁ הֲוָה מְפַשַּׁח וְיָהִיב לָן אֲלוּתָא, כְּלוֹמַר בּוֹקֵעַ:
+**וַיְשַׁסֵּף.** חִתְּכוֹ לְאַרְבַּע, וְאֵין לַתֵּיבָה זוֹ דִּמְיוֹן. וְתַרְגּוּם וַיְשַׁסֵּף, ״וּפָשַׁח״. וּבַגְּמָרָא שֶׁלָּנוּ יֵשׁ הֲוָה מְפַשַּׁח וְיָהִיב לָן אֲלוּתָא, כְּלוֹמַר בּוֹקֵעַ:
 
 
 **[Shmuel] cut.** He cut him into four pieces. This word has no likeness [in Scripture]. The Targum renders וַיְשַׁסֵּף as וּפָשַׁח. And in our Gemara we find, 'he broke off [מפשח] a branch, and gave us several twigs,'³² meaning that he split.³³
@@ -5469,7 +5469,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/17:6:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/17:6:1)
 
 
-**וּמִצְחַת נְחֹשֶׁת.** כְּמִין יַד בַּרְזֶל הַיּוֹצֵא מִן הַכּוֹבַע כְּנֶגֶד הַחוֹטִים, שֶׁקּוֹרִין נש״ל בלע״ז, וְהָיְתָה מַגַּעַת לוֹ עַד רַגְלָיו:
+**וּמִצְחַת נְחֹשֶׁת.** כְּמִין יַד בַּרְזֶל הַיּוֹצֵא מִן הַכּוֹבַע כְּנֶגֶד הַחוֹטֶם, שֶׁקּוֹרִין נש״ל בלע״ז, וְהָיְתָה מַגַּעַת לוֹ עַד רַגְלָיו:
 
 
 **Copper shields.** A sort of iron handle, extending from the helmet, opposite the nose, called *nasal* in O.F., and it reached his feet.
@@ -5863,7 +5863,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/17:39:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/17:39:1)
 
 
-**וַיֹּאֶל לָלֶכֶת.** תִּרְגֵּם יוֹנָתָן: ״וְלָא אָבָה לְמֵיזַל״. יֵשׁ תֵּיבוֹת מְשַׁמְּשׁוֹת לָשׁוֹן וְחִלּוּפוֹ, כְּמוֹ ״מְסָעֵף פֹּארָה״ (ישעיהו י:לג); ״וְשֵׁרֶשְׁךָ מֵאֶרֶץ חַיִּים״ (תהלים נב:ז):
+**וַיֹּאֶל לָלֶכֶת.** תִּרְגֵּם יוֹנָתָן: ״וְלָא אָבָה לְמֵיזַל״. יֵשׁ תֵּיבוֹת מְשַׁמְּשׁוֹת לָשׁוֹן וְחִלּוּפוֹ, כְּמוֹ ״מְסָעֵף פֻּארָה״ (ישעיהו י:לג); ״וְשֵׁרֶשְׁךָ מֵאֶרֶץ חַיִּים״ (תהלים נב:ז):
 
 
 **But he did not want to go out.** Targum Yonoson renders "and he did not want to go."²² There are words which have two opposite definitions, as in "will cut off [מְסָעֵף] a branch,"²³ [derived from סָעִיף, a branch]. [Also,] "and he will uproot you [וְשֵׁרֶשְׁךְ] from the land of the living," [derived from שׁוֹרֶש, a root].²⁴
@@ -5932,7 +5932,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/17:44:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/17:44:1)
 
 
-**וְלִבְהֶמַת הַשָּׂדֶה.** אֵין דֶּרֶךְ לִבְהֵמוֹת לֶאֱכֹל אָדָם, אָמַר דָּוִד: כְּבָר נִטְרְפָה דַּעְתּוֹ שֶׁל זֶה, שֶׁלִּי הוּא, בָּא דָוִד וְאָמַר לוֹ: **וְנָתַתִּי פֶּגֶר מַחֲנֵה פְלִשְׁתִּים וְגוֹ׳ וּלְחַיַּת הָאָרֶץ**:
+**וּלְבֶהֱמַת הַשָּׂדֶה.** אֵין דֶּרֶךְ לִבְהֵמוֹת לֶאֱכֹל אָדָם, אָמַר דָּוִד: כְּבָר נִטְרְפָה דַּעְתּוֹ שֶׁל זֶה, שֶׁלִּי הוּא, בָּא דָוִד וְאָמַר לוֹ: **וְנָתַתִּי פֶּגֶר מַחֲנֵה פְלִשְׁתִּים וְגוֹ׳ וּלְחַיַּת הָאָרֶץ**:
 
 
 **And to the cattle of the field.** It is not customary for cattle to eat human flesh. Dovid said [to himself], 'This one's mind is already deranged; He is mine.' Dovid [seeing this] said, 'and I will offer the carcasses of the Philistine camp …and to the beasts of the earth.'
@@ -5946,7 +5946,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/17:49:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/17:49:1)
 
 
-**וַיִּפֹּל עַל פָּנָיו.** לֹא הָיָה לוֹ לִפּוֹל אֶלָּא לַאֲחוֹרָיו, שֶׁהֲרֵי עַל מִצְחוֹ הֻכָּה, אֶלָּא כְּדֵי שֶׁלֹּא יִצְטָעֵר דָּוִד לֵילֵךְ וְלַחְתֹּךְ אֶת רֹאשׁוֹ, שֶׁנִּשְׁתַּכֵּר דָּוִד עַכְשָׁיו שְׁתֵּים עֶשְׂרֵה אַמּוֹת וְזִרְתַּיִם, שֶׁקּוֹמָתוֹ שֵׁשׁ אַמּוֹת וָזֶרֶת, נִשְׁתַּכֵּר מְלֹא קוֹמָה לַאֲחוֹרָיו, וּמְלֹא קוֹמָה לְפָנָיו (במדרש תהלים):
+**וַיִּפֹּל עַל פָּנָיו.** לֹא הָיָה לוֹ לִפּוֹל אֶלָּא לַאֲחוֹרָיו, שֶׁהֲרֵי עַל מִצְחוֹ הֻכָּה, אֶלָּא כְּדֵי שֶׁלֹּא יִצְטָעֵר דָּוִד לֵילֵךְ וְלַחְתֹּךְ אֶת רֹאשׁוֹ, שֶׁנִּשְׂתַּכֵּר דָּוִד עַכְשָׁיו שְׁתֵּים עֶשְׂרֵה אַמּוֹת וְזִרְתַּיִם, שֶׁקּוֹמָתוֹ שֵׁשׁ אַמּוֹת וָזֶרֶת, נִשְׂתַּכֵּר מְלֹא קוֹמָה לַאֲחוֹרָיו, וּמְלֹא קוֹמָה לְפָנָיו (במדרש תהלים):
 
 
 **And he fell face downward.** He should have fallen backwards since he had been struck on his forehead.²⁶ But, in order that Dovid should not be troubled to walk [the extra distance] and cut off his head, for Dovid now saved twelve *amos* and two *zeres;* for his height was six *amos* and a *zeres,* Dovid saved [walking] his entire height back and hs entire height forward.²⁷
@@ -6211,7 +6211,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/18:29:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/18:29:1)
 
 
-**לְרֹא.** לִירְאָה:
+**לֵרֹא.** לִירְאָה:
 
 
 **To fear.** To fear.
@@ -6382,7 +6382,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/20:3:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/20:3:1)
 
 
-**כְּפֶשַׁע.** כִּפְסִיעָה אַחַת נִפְטַרְתִּי מִפָּנָיו, וְהִכָּה בַּחֲנִית בַּקִּיר, בְּאוֹתָהּ פְּסִיעָה נִצַּלְתִּי מִן הַמָּוֶת:
+**כְפֶשַׂע.** כִּפְסִיעָה אַחַת נִפְטַרְתִּי מִפָּנָיו, וְהִכָּה בַּחֲנִית בַּקִּיר, בְּאוֹתָהּ פְּסִיעָה נִצַּלְתִּי מִן הַמָּוֶת:
 
 
 **There is but a step.** With one step I left from being before him,¹ and he drove the spear into the wall. With that step, I was saved from death.
@@ -6425,7 +6425,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/20:5:3](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/20:5:3)
 
 
-**וְשִׁלַּחְתָּנִי.** מֵעַתָּה, וְנִסְתַּרְתִּי עַד הָעֶרֶב שֶׁל יוֹם שְׁלִישִׁי, וְלֹא אֶהְיֶה עִם הָאוֹכְלִים, וְיִפָּקֵד מוֹשָׁבִי, וְיִתְמַהּ הַמֶּלֶךְ עָלַי, אוֹ מָחָר אוֹ לְמָחָרָתוֹ:
+**וְשִׁלַּחְתַּנִי.** מֵעַתָּה, וְנִסְתַּרְתִּי עַד הָעֶרֶב שֶׁל יוֹם שְׁלִישִׁי, וְלֹא אֶהְיֶה עִם הָאוֹכְלִים, וְיִפָּקֵד מוֹשָׁבִי, וְיִתְמַהּ הַמֶּלֶךְ עָלַי, אוֹ מָחָר אוֹ לְמָחָרָתוֹ:
 
 
 **Let me leave.** From now, and I will hide until the evening of the third day, and I will not be with the people eating, and my seat will be empty; the king will wonder about me either tomorrow or the following day.
@@ -6838,7 +6838,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/20:23:2](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/20:23:2)
 
 
-**הִנֵּה ה׳ בֵּינִי וּבֵינֶךָ.** עֵד עַל אוֹתוֹ דָבָר:
+**הִנֵּה ה׳ בֵּינִי וּבֵינְךָ.** עֵד עַל אוֹתוֹ דָבָר:
 
 
 **Behold, Adonoy is [witness] between me and you.** A witness concerning that matter.
@@ -7288,7 +7288,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/21:8:2](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/21:8:2)
 
 
-**אֲבִיר הָרֹעִים.** אַב בֵּית דִּין:
+**אַבִּיר הָרֹעִים.** אַב בֵּית דִּין:
 
 
 **Chief of Shaul's shepherds.** The head of the tribunal.
@@ -7302,7 +7302,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/21:9:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/21:9:1)
 
 
-**וְאֵין יֵשׁ פֹּה.** וְאִם יֵשׁ פֹּה:
+**וְאִין יֶשׁ פֹּה.** וְאִם יֵשׁ פֹּה:
 
 
 **Perhaps you have in your possession.** And if there is here.
@@ -7568,7 +7568,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/22:17:2](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/22:17:2)
 
 
-**וְלֹא אָבוּ.** דָּרְשׁוּ אַכִּין וְרַקִּין (יהושע א:יח): כָּל אִישׁ אֲשֶׁר יַמְרֶה אֶת פִּיךָ וְגוֹ׳, יָכוֹל אֲפִלּוּ לִדְבַר עֲבֵרָה תַּלְמוּד לוֹמַר ׳רַק׳:
+**וְלֹא אָבוּ.** דָּרְשׁוּ אַכִין וְרַקִין (יהושע א:יח): כָּל אִישׁ אֲשֶׁר יַמְרֶה אֶת פִּיךָ וְגוֹ׳, יָכוֹל אֲפִלּוּ לִדְבַר עֲבֵרָה תַּלְמוּד לוֹמַר ׳רַק׳:
 
 
 **Did not want.** They expounded [Scripture's] "but's and only's." Scripture states: "Every man who rebels against your command [shall be put to death]."⁸ One may think that this means even [if "your command" was] to commit a sin; Scripture, therefore states: "Only" [to exclude this condition].
@@ -7940,7 +7940,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/24:11:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/24:11:1)
 
 
-**וְאָמַר לַהָרְגָךְ וַתָּחָס עָלֶיךָ.** הֲרֵי כָּאן חֲסֵרִים שְׁתֵּי תֵבוֹת, וְאָמַר הָאוֹמֵר שֶׁאֶהֶרְגָךְ, וַתָּחָס נַפְשִׁי עָלֶיךָ, כְּמוֹ (שמואל ב יג:לט): ״וַתְּכַל דָּוִד לָצֵאת אֶל אַבְשָׁלוֹם״, וַתְּכַל נֶפֶשׁ דָּוִד:
+**וְאָמַר לַהֲרָגְךָ וַתָּחָס עָלֶיךָ.** הֲרֵי כָּאן חֲסֵרִים שְׁתֵּי תֵבוֹת, וְאָמַר הָאוֹמֵר שֶׁאֶהֶרְגָךְ, וַתָּחָס נַפְשִׁי עָלֶיךָ, כְּמוֹ (שמואל ב יג:לט): ״וַתְּכַל דָּוִד לָצֵאת אֶל אַבְשָׁלוֹם״, וַתְּכַל נֶפֶשׁ דָּוִד:
 
 
 **Someone said to kill you, but I had mercy on you.** There are two words missing here, "and one who spoke [הָאוֹמֵר] said that I should kill you, but my soul [נַפְשִׁי] had pity on you, similar to "and King Dovid longed to go forth to Avshalom,"⁵ [meaning,] and Dovid's soul [נֶפֶשׁ] longed.
@@ -8284,7 +8284,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/25:15:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/25:15:1)
 
 
-**וְלֹא הִכְלַמְנוּ.** לֹא נִכְלַמְנוּ:
+**וְלֹא הׇכְלַמְנוּ.** לֹא נִכְלַמְנוּ:
 
 
 **We were not shamed.** We were not disgraced.
@@ -8413,7 +8413,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/25:24:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/25:24:1)
 
 
-**בִּי אֲנִי אֲדֹנִי הֶעָוֹן.** מִתְּחִלָּה אָמְרָה כָּךְ, כְּדֵי שֶׁיַּטֶּה אֹזֶן לִדְבָרֶיהָ, וּלְסוֹף אָמְרָה לוֹ הָאֱמֶת, אֲנִי אֲמָתְךָ לֹא רָאִיתִי אֶת נַעֲרֵי אֲדֹנִי:
+**בִּי אֲנִי אֲדֹנִי הֶעָוֺן.** מִתְּחִלָּה אָמְרָה כָּךְ, כְּדֵי שֶׁיַּטֶּה אֹזֶן לִדְבָרֶיהָ, וּלְסוֹף אָמְרָה לוֹ הָאֱמֶת, אֲנִי אֲמָתְךָ לֹא רָאִיתִי אֶת נַעֲרֵי אֲדֹנִי:
 
 
 **My master, with me lies the sin.** First she said this so that he would pay attention to her words.¹⁸ At the end, however, she told him the truth, that "I, your handmaid, did not see my master's youths."¹⁹
@@ -8431,7 +8431,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/25:26:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/25:26:1)
 
 
-**אֲשֶׁר מְנָעָךְ.** שֶׁשְּׁלָחַנִי לִקְרָאתְךָ לְמָנְעֲךָ מִשְּׁפִיכוּת דָּמִים:
+**אֲשֶׁר מְנָעֲךָ.** שֶׁשְּׁלָחַנִי לִקְרָאתְךָ לְמָנְעֲךָ מִשְּׁפִיכוּת דָּמִים:
 
 
 **[Adonoy] has prevented you.** Who sent me toward you to refrain you from committing bloodshed.
@@ -8470,7 +8470,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/25:27:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/25:27:1)
 
 
-**וְנִתְּנָה לַנְּעָרִים.** וְתִנָּתֵן </b>לַנְּעָרִים הַמִּתְהַלְּכִים וְגוֹ׳<b>, ׳נִתְּנָה׳ לְשׁוֹן עָבַר, וְ׳נִתְּנָה׳ לְשׁוֹן לְהַבָּא:
+**וְנִתְּנָה לַנְּעָרִים.** וְתִנָּתֵן **לַנְּעָרִים הַמִּתְהַלְּכִים וְגוֹ׳**, ׳נִתְּנָה׳ לְשׁוֹן עָבַר, וְ׳נִתְּנָה׳ לְשׁוֹן לְהַבָּא:
 
 
 **Let it be given to the youths.** And it will be given to the youths who are going, etc. נִתְּנָה [=it was given] is past tense, וְנִתְּנָה [=it will be given] is future tense.
@@ -8498,7 +8498,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/25:29:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/25:29:1)
 
 
-**כַּף הַקֶּלַע.** חֲתִיכַת עוֹר רְחָבָה עֲשׂוּיָה כְּמִין כַּף בְּאֶמְצַע הַקֶּלַע, שֶׁנּוֹתֵן בָּהּ הָאֶבֶן:
+**כַּף הַקָּלַע.** חֲתִיכַת עוֹר רְחָבָה עֲשׂוּיָה כְּמִין כַּף בְּאֶמְצַע הַקֶּלַע, שֶׁנּוֹתֵן בָּהּ הָאֶבֶן:
 
 
 **Slingshot.** A wide piece of leather, with an indentation in the middle of the sling, into which one places the stone.
@@ -8687,7 +8687,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/26:10:2](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/26:10:2)
 
 
-**כִּי אִם ה׳ יִגָּפֶנּוּ.** יְקָרֵב מִיתָתוֹ:
+**כִּי אִם ה׳ יִגֳּפֶנּוּ.** יְקָרֵב מִיתָתוֹ:
 
 
 **Adonoy will strike him.** Will bring his death prematurely.²
@@ -9081,7 +9081,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/28:15:1](https://torahapp.org/share/book/Rashi%20on%20I%20Samuel/r/28:15:1)
 
 
-**הִרְגַּזְתָּנִי.** הֶחֱרַדְתָּנִי:
+**הִרְגַּזְתַּנִי.** הֶחֱרַדְתָּנִי:
 
 
 **Have you disturbed me.** You have frightened me.¹⁴

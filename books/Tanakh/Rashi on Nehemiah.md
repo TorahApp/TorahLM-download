@@ -54,7 +54,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/1:2:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/1:2:1)
 
 
-**אֶחָד מֵאַחַי**. אֶחָד מֵחֲבֵרַי:
+**אֶחָד מֵאַחַי.** אֶחָד מֵחֲבֵרַי:
 
 
 **one of my brethren** one of my companions.
@@ -148,7 +148,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/1:4:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/1:4:1)
 
 
-**יָמִים**. כַּמָּה יָמִים:
+**יָמִים.** כַּמָּה יָמִים:
 
 
 **for days** Heb. יָמִים, many days.
@@ -162,7 +162,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/1:5:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/1:5:1)
 
 
-**אָנָּא**. לְשׁוֹן בַּקָּשָׁה וּתְחִנָּה:
+**אָנָּא.** לְשׁוֹן בַּקָּשָׁה וּתְחִנָּה:
 
 
 **I beseech You** Heb. אָנָא, an expression of request and supplication.
@@ -190,7 +190,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/1:7:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/1:7:1)
 
 
-**חֲבוֹל**. שֵׁם דָּבָר, לְשׁוֹן הַשְׁחָתָה. וְחֵי״ת נִנְקְדָה בַּחֲטַף פַּתָּח. וְאֵינִי יָכוֹל לְפוֹתְרוֹ בִּלְשׁוֹן פָּעוּל, שֶׁאִם כֵּן הָיָה לוֹ לִנְקֹד חֵי״ת בְּקָמַץ גָּדוֹל:
+**חֲבוֹל.** שֵׁם דָּבָר, לְשׁוֹן הַשְׁחָתָה. וְחֵי״ת נִנְקְדָה בַּחֲטַף פַּתָּח. וְאֵינִי יָכוֹל לְפוֹתְרוֹ בִּלְשׁוֹן פָּעוּל, שֶׁאִם כֵּן הָיָה לוֹ לִנְקֹד חֵי״ת בְּקָמַץ גָּדוֹל:
 
 
 **We have dealt corruptly** Heb. חֲבֹל, a noun, an expression of corruption, since the “heth” is vowelized with a “hataf pattah,” and I cannot interpret it as a verb form, because in that case, it would have to be vowelized with a large “kamatz.”
@@ -201,7 +201,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/1:7:2](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/1:7:2)
 
 
-**חֲבַלְנוּ.** לְשׁוֹן הַשְׁחָתָה, כְּמוֹ (דניאל ו:כג) ״חֲבוּלָא לָא עֲבַדְתְּ״, וְכֵן חִבְּרוֹ מְנַחֵם:
+**חָבַלְנוּ.** לְשׁוֹן הַשְׁחָתָה, כְּמוֹ (דניאל ו:כג) ״חֲבוּלָא לָא עֲבַדְתְּ״, וְכֵן חִבְּרוֹ מְנַחֵם:
 
 
 **we have dealt corruptly** Heb. חָבַלְנוּ, an expression of corruption, as in Daniel (6:23): “I have done no harm.”
@@ -215,7 +215,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/1:9:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/1:9:1)
 
 
-**אִם יִהְיֶה נִדַּחֲכֶם**. כְּעִנְיָן שֶׁנֶּאֱמַר: ״אִם יִהְיֶה נִדַּחֲךָ וְגוֹ׳״ (דְּבָרִים ל:ד):
+**אִם יִהְיֶה נִדַּחֲכֶם.** כְּעִנְיָן שֶׁנֶּאֱמַר: ״אִם יִהְיֶה נִדַּחֲךָ וְגוֹ׳״ (דְּבָרִים ל:ד):
 
 
 **if your exile is** like the matter that is stated (Deut. 30:4): “If your exile is at the end of the heavens, etc.”
@@ -279,7 +279,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/2:1:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/2:1:1)
 
 
-**לְאַרְתַּחְשַׁסְתְּא**. הוּא דָּרְיָוֶשׁ (עזרא ד:ה), וְעַל שֵׁם הַמַּלְכוּת נִקְרָא כָּךְ:
+**לְאַרְתַּחְשַׁסְתְּא.** הוּא דָּרְיָוֶשׁ (עזרא ד:ה), וְעַל שֵׁם הַמַּלְכוּת נִקְרָא כָּךְ:
 
 
 **of...Artaxerxes** That was Darius, and because of his kingship he was called this.
@@ -362,7 +362,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/2:3:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/2:3:1)
 
 
-**מַדּוּעַ לֹא יֵרְעוּ פָנָי.** מַדּוּעַ לֹא יִהְיוּ פָנַי רָעִים:
+**מַדּוּעַ לֹא יֵרְעוּ פָנַי.** מַדּוּעַ לֹא יִהְיוּ פָנַי רָעִים:
 
 
 **Why should my countenance not be sad** [as translated,] why should my countenance not be sad.
@@ -398,7 +398,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/2:4:2](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/2:4:2)
 
 
-**וָאֶתְפַּלֵּל.** וְאָמַרְתִּי לִפְנֵי הַמֶּלֶךְ בִּתְפִלָּתִי: כֵּן יְהִי רָצוֹן מִלְּפָנֵי **אֱלֹהֵי הַשָּׁמַיִם**, שֶׁתְּמַלֵּא שְׁאֵלָתִי וּבַקָּשָׁתִי:
+**וָאֶתְפַּלֵּל.** וְאָמַרְתִּי לִפְנֵי הַמֶּלֶךְ בִּתְפִלָּתִי: כֵּן יְהִי רָצוֹן מִלְּפָנֵי **אֱלֹהֵי הַשָּׁמָיִם**, שֶׁתְּמַלֵּא שְׁאֵלָתִי וּבַקָּשָׁתִי:
 
 
 **And I prayed** And I said before the king in my prayer, “May it be Your will, O God of the heavens, that You fulfill my petition and my request.”
@@ -597,7 +597,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/2:8:7](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/2:8:7)
 
 
-**כְּיַד.** כְּפִי יָדוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא שֶׁהָיְתָה **טוֹבָה עָלַי** לְהַצְלִיחֵנִי:
+**כְּיַד.** כְּפִי יָדוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא שֶׁהָיְתָה **טוֹבָה עָלָי** לְהַצְלִיחֵנִי:
 
 
 **according to the good hand** according to the hand of the Holy One, blessed be He, which was good upon me, to cause me to succeed.
@@ -611,7 +611,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/2:9:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/2:9:1)
 
 
-**וָאֶתְּנָה לָהֶם אֶת אִגְּרוֹת הַמֶּלֶךְ.** לְמַעַן יְתַיְּרוּנִי לְשָׁלוֹם:
+**וָאֶתְּנָה לָהֶם אֵת אִגְּרוֹת הַמֶּלֶךְ.** לְמַעַן יְתַיְּרוּנִי לְשָׁלוֹם:
 
 
 **and I gave them the king’s letters** in order that they escort me in peace.
@@ -703,7 +703,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/2:14:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/2:14:1)
 
 
-**וָאֶעֱבֹר אֶל שַׁעַר הָעָיִן.** וְרָצִיתִי לַעֲבֹר אֶל אוֹתָן מְקוֹמוֹת שֶׁבְּחוֹמַת הָעִיר וּבְאוֹתָן פְּרָצוֹת, וְאֵין מָקוֹם בְּאוֹתָן פְּרָצוֹת לַעֲבֹר בֵּינֵיהֶם רוֹכֵב עַל הַבְּהֵמוֹת, שֶׁהָיוּ פְּרָצוֹת קְטַנּוֹת:
+**וָאֶעֱבֹר אֶל שַׁעַר הָעַיִן.** וְרָצִיתִי לַעֲבֹר אֶל אוֹתָן מְקוֹמוֹת שֶׁבְּחוֹמַת הָעִיר וּבְאוֹתָן פְּרָצוֹת, וְאֵין מָקוֹם בְּאוֹתָן פְּרָצוֹת לַעֲבֹר בֵּינֵיהֶם רוֹכֵב עַל הַבְּהֵמוֹת, שֶׁהָיוּ פְּרָצוֹת קְטַנּוֹת:
 
 
 **And I passed to the Fountain Gate** And I wished to pass to those places in the wall of the city and in those breaches, and there was no place in those breaches for riders on animals to pass through because they were so small.
@@ -942,7 +942,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/3:3:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/3:3:1)
 
 
-**וְאֶת שַׁעַר הַדָּגִים.** כָּךְ שֵׁם הַשַּׁעַר:
+**וְאֵת שַׁעַר הַדָּגִים.** כָּךְ שֵׁם הַשַּׁעַר:
 
 
 **the Fish Gate** Such was the name of the gate.
@@ -1014,7 +1014,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/3:5:2](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/3:5:2)
 
 
-**אַדִּירֵיהֶם**. עֲשִׁירִים שֶׁל תְּקוֹעַ:
+**אַדִּירֵיהֶם.** עֲשִׁירִים שֶׁל תְּקוֹעַ:
 
 
 **but their mighty men** the wealthy men of Tekoa.
@@ -1039,7 +1039,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/3:6:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/3:6:1)
 
 
-**וְאֶת שַׁעַר הַיְשָׁנָה.** כָּךְ שְׁמָהּ:
+**וְאֵת שַׁעַר הַיְשָׁנָה.** כָּךְ שְׁמָהּ:
 
 
 **And...the gate of the old [city]** Heb. הַיְשָּׁנָה, the Gate Yeshana, such was its name.
@@ -1131,7 +1131,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/3:11:2](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/3:11:2)
 
 
-**וְאֶת מִגְדַּל הַתַּנּוּרִים.** גַּם הוּא בָּנָה אוֹתוֹ מִגְדָּל שֶׁשְּׁמוֹ כָּךְ. כָּל הַמִּגְדָּלִים הַלָּלוּ שֶׁבַּפָּרָשָׁה הָיוּ בְנוּיִים בְּחוֹמַת הָעִיר סָבִיב:
+**וְאֵת מִגְדַּל הַתַּנּוּרִים.** גַּם הוּא בָּנָה אוֹתוֹ מִגְדָּל שֶׁשְּׁמוֹ כָּךְ. כָּל הַמִּגְדָּלִים הַלָּלוּ שֶׁבַּפָּרָשָׁה הָיוּ בְנוּיִים בְּחוֹמַת הָעִיר סָבִיב:
 
 
 **the Tower of the Furnaces** He also built a tower by that name. All these towers in the chapter were built in the wall around the city.
@@ -1195,7 +1195,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/3:15:3](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/3:15:3)
 
 
-**וַיְטַלְלֶנּוּ.** וְהוּא הָיָה מְסַכֵּךְ אוֹתוֹ, לְשׁוֹן מְטַלַלְתָּא:
+**וִיטַלְלֶנּוּ.** וְהוּא הָיָה מְסַכֵּךְ אוֹתוֹ, לְשׁוֹן מְטַלַלְתָּא:
 
 
 **and roofed it** And he laid the roof on it, an expression of a ceiling (מְטַלַלְתָּא).
@@ -1206,7 +1206,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/3:15:4](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/3:15:4)
 
 
-**וְאֶת חוֹמַת בְּרֵכַת הַשֶּׁלַח.** שֶׁהוּא נוֹטֶה לְצַד גַּן הַמֶּלֶךְ:
+**וְאֵת חוֹמַת בְּרֵכַת הַשֶּׁלַח.** שֶׁהוּא נוֹטֶה לְצַד גַּן הַמֶּלֶךְ:
 
 
 **and the wall of the pool of Shelah** which inclines towards the king’s garden.
@@ -1231,7 +1231,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/3:16:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/3:16:1)
 
 
-**בֵּית צוּר**. שֵׁם מָקוֹם:
+**בֵּית צוּר.** שֵׁם מָקוֹם:
 
 
 **Beth Zur** the name of a place.
@@ -1259,7 +1259,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/3:18:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/3:18:1)
 
 
-**אֲחֵיהֶם**. הַלְוִיִּם:
+**אֲחֵיהֶם.** הַלְוִיִּם:
 
 
 **their brothers** the Levites.
@@ -1273,7 +1273,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/3:19:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/3:19:1)
 
 
-**מִנֶּגֶד עֲלוֹת הַנֶּשֶׁק.** כְּנֶגֶד אוֹתוֹ מָקוֹם שֶׁהָיוּ עוֹלִים הַגִּבּוֹרִים אֶל **הַנֶּשֶׁק**. לְפִי פְּשׁוּטוֹ שֶׁל מִקְרָא נִרְאֶה שֶׁהָיָה שָׁם מָקוֹם אֶחָד בְּסָמוּךְ לַחוֹמָה וּכְלֵי זַיִן שֶׁל נֶשֶׁק הַגִּבּוֹרִים הָיוּ נוֹתְנִין (ספרים אחרים: נְתוּנִים) שָׁם כְּעִנְיָן שֶׁנֶּאֱמַר ״עָרֵי מִבְצָר וְהַנֶּשֶׁק״ (מלכים ב י:ב):
+**מִנֶּגֶד עֲלוֹת הַנֶּשֶׁק.** כְּנֶגֶד אוֹתוֹ מָקוֹם שֶׁהָיוּ עוֹלִים הַגִּבּוֹרִים אֶל **הַנֶּשֶׁק.** לְפִי פְּשׁוּטוֹ שֶׁל מִקְרָא נִרְאֶה שֶׁהָיָה שָׁם מָקוֹם אֶחָד בְּסָמוּךְ לַחוֹמָה וּכְלֵי זַיִן שֶׁל נֶשֶׁק הַגִּבּוֹרִים הָיוּ נוֹתְנִין (ספרים אחרים: נְתוּנִים) שָׁם כְּעִנְיָן שֶׁנֶּאֱמַר ״עָרֵי מִבְצָר וְהַנֶּשֶׁק״ (מלכים ב י:ב):
 
 
 **opposite the ascent to the armory** opposite the place where the mighty men would ascend to the weapons. According to the simple interpretation of the verse, it appears that there was a place near the wall where the mighty men kept their weapons, as it is stated: (II Kings 10:2) “...and cities (sic) of fortification and arms.”
@@ -1823,7 +1823,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/4:7:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/4:7:1)
 
 
-**וָאַעֲמִיד מִתַּחְתִּיּוֹת.** לַחוֹמָה, כַּאֲשֶׁר שָׁמַעְתִּי דִּבְרֵיהֶם הֶעֱמַדְתִּי מִתַּחְתִּיּוֹת לְאוֹתוֹ מָקוֹם סָבִיב לִירוּשָׁלַיִם מֵאֲחוֹרֵי לְחוֹמַת הָעִיר בַּצְּחִיחִים:
+**וָאַעֲמִיד מִתַּחְתְּיוֹת.** לַחוֹמָה, כַּאֲשֶׁר שָׁמַעְתִּי דִּבְרֵיהֶם הֶעֱמַדְתִּי מִתַּחְתְּיוֹת לְאוֹתוֹ מָקוֹם סָבִיב לִירוּשָׁלַיִם מֵאֲחוֹרֵי לְחוֹמַת הָעִיר בַּצְּחִיחִים:
 
 
 **So I stationed from below...the wall** When I heard their words, I stationed [mighty men] from below that place around Jerusalem, from behind the wall of the city and on the bare rocks.
@@ -1845,7 +1845,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/4:7:3](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/4:7:3)
 
 
-**וָאַעֲמִיד מִתַּחְתִּיּוֹת וְגוֹ׳ וָאַעֲמִיד אֶת הָעָם וְגוֹ׳.** מִקְרָא זֶה דּוּגְמַת ״וְהָיוּ הַמַּיִם אֲשֶׁר תִּקַּח מִן הַיְאֹר וְגוֹ׳ וְהָיוּ לְדָם בַּיַּבָּשֶׁת״ (שמות ד:ט), ״כִּי הִנֵּה אוֹיְבֶיךָ ה׳ כִּי הִנֵּה אוֹיְבֶיךָ יֹאבֵדוּ״ (תהלים צב:י), ״עוּרִי עוּרִי דְּבוֹרָה עוּרִי עוּרִי דַּבְּרִי שִׁיר״ (שופטים ה:יב), ״לֹא לָנוּ ה׳ לֹא לָנוּ״ (תהלים קטו:א):
+**וָאַעֲמִיד מִתַּחְתְּיוֹת וְגוֹ׳ וָאַעֲמִיד אֶת הָעָם וְגוֹ׳.** מִקְרָא זֶה דּוּגְמַת ״וְהָיוּ הַמַּיִם אֲשֶׁר תִּקַּח מִן הַיְאֹר וְגוֹ׳ וְהָיוּ לְדָם בַּיַּבָּשֶׁת״ (שמות ד:ט), ״כִּי הִנֵּה אוֹיְבֶיךָ ה׳ כִּי הִנֵּה אוֹיְבֶיךָ יֹאבֵדוּ״ (תהלים צב:י), ״עוּרִי עוּרִי דְּבוֹרָה עוּרִי עוּרִי דַּבְּרִי שִׁיר״ (שופטים ה:יב), ״לֹא לָנוּ ה׳ לֹא לָנוּ״ (תהלים קטו:א):
 
 
 **And I stationed from below, etc. and I stationed the people, etc.** This verse follows the pattern of (Exod. 4:9): “...and the water that you will take from the river will be...will become blood on the dry land;” (Ps. 92:10): “For behold, Your enemies, O Lord, for behold, Your enemies shall perish;” (Jud. 5:12): “Praise! Praise! Deborah. Praise! Praise! Utter a song;” (Ps. 115:1): “Not to us, O Lord, not to us.”
@@ -2009,7 +2009,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/4:14:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/4:14:1)
 
 
-**יִלָּחֵם לָנוּ.** יִלָּחֵם בַּעֲדֵינוּ:
+**יִלָּחֶם לָנוּ.** יִלָּחֵם בַּעֲדֵינוּ:
 
 
 **will fight for us** [as translated,] will fight for us.
@@ -2112,7 +2112,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/5:2:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/5:2:1)
 
 
-**וְיֵשׁ אֲשֶׁר אוֹמְרִים.** נוֹתֵן טַעַם לִדְבָרָיו לָמָּה הָיוּ צוֹעֲקִים: יֵשׁ מֵהֶם מִדַּלַּת הָעָם שֶׁהָיוּ אוֹמְרִים **אֲנַחְנוּ רַבִּים עִם בָּנֵינוּ וּבְנוֹתֵינוּ וְנִקְחָה דָגָן** וְעַתָּה יֵשׁ לָנוּ לִמְכֹּר **בָּנֵינוּ וּבְנוֹתֵינוּ** לִיקַּח מֵהֶם **דָגָן** לְמַעַן **נִחְיֶה**. כָּךְ הָיוּ צוֹעֲקִים עַל הַיְּהוּדִים הָעֲשִׁירִים שֶׁלֹּא הָיוּ רוֹצִים לְפַרְנְסָם:
+**וְיֵשׁ אֲשֶׁר אוֹמְרִים.** נוֹתֵן טַעַם לִדְבָרָיו לָמָּה הָיוּ צוֹעֲקִים: יֵשׁ מֵהֶם מִדַּלַּת הָעָם שֶׁהָיוּ אוֹמְרִים **אֲנַחְנוּ רַבִּים עִם בָּנֵינוּ וּבְנוֹתֵינוּ וְנִקְחָה דָגָן** וְעַתָּה יֵשׁ לָנוּ לִמְכֹּר **בָּנֵינוּ וּבְנוֹתֵינוּ** לִיקַּח מֵהֶם **דָגָן** לְמַעַן **נִחְיֶה.** כָּךְ הָיוּ צוֹעֲקִים עַל הַיְּהוּדִים הָעֲשִׁירִים שֶׁלֹּא הָיוּ רוֹצִים לְפַרְנְסָם:
 
 
 **There were some who were saying** He gives a reason for his words: Why were they crying? Some of the poor people were saying, “We are many with our sons and daughters and have to buy corn. Now we will have to sell our sons and daughters in order to buy corn in order to live.” So were they crying about the rich Jews who did not wish to support them.
@@ -2267,7 +2267,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/5:7:3](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/5:7:3)
 
 
-**מַשָּׂא אִישׁ בְּאָחִיו אַתֶּם.** נוֹשִׁים מַדּוּעַ אַתֶּם כָּךְ עוֹשִׂים? הָיָה לָכֶם לְפַרְנֵס הָעֲנִיִּים הַלָּלוּ, וְאַתֶּם מַלְוִים לָהֶם מָמוֹן לִכְבּוֹשׁ בְּנֵיהֶם וּבְנוֹתֵיהֶם וּשְׂדוֹתֵיהֶם וְכַרְמֵיהֶם וּבָתֵּיהֶם:
+**מַשָּׁא אִישׁ בְּאָחִיו אַתֶּם.** נוֹשִׁים מַדּוּעַ אַתֶּם כָּךְ עוֹשִׂים? הָיָה לָכֶם לְפַרְנֵס הָעֲנִיִּים הַלָּלוּ, וְאַתֶּם מַלְוִים לָהֶם מָמוֹן לִכְבּוֹשׁ בְּנֵיהֶם וּבְנוֹתֵיהֶם וּשְׂדוֹתֵיהֶם וְכַרְמֵיהֶם וּבָתֵּיהֶם:
 
 
 **“Are you demanding each other’s loans?”** Why are you doing this? You should have supported these poor people, but you are lending them money in order to appropriate their sons and daughters, their fields, vineyards and houses.
@@ -2292,7 +2292,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/5:8:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/5:8:1)
 
 
-**וְאָמְרָה לָהֶם.** וְכֵן אָמַרְתִּי לָהֶם: אֲנַחְנוּ קָנִינוּ כְּבָר אֶת אַחֵינוּ הַיְּהוּדִים אֲשֶׁר בַּשִּׁבְיָה מִיַּד הָעוֹבְדֵי כּוֹכָבִים וּמַזָּלוֹת שֶׁהָיוּ נִמְכָּרִים לָהֶם:
+**וָאֹמְרָה לָהֶם.** וְכֵן אָמַרְתִּי לָהֶם: אֲנַחְנוּ קָנִינוּ כְּבָר אֶת אַחֵינוּ הַיְּהוּדִים אֲשֶׁר בַּשִּׁבְיָה מִיַּד הָעוֹבְדֵי כּוֹכָבִים וּמַזָּלוֹת שֶׁהָיוּ נִמְכָּרִים לָהֶם:
 
 
 **And I said to them** And so I said to them: We already bought our Jewish brethren who were in captivity from the heathens to whom they were sold.
@@ -2718,7 +2718,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/5:18:6](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/5:18:6)
 
 
-**לֶחֶם**. שֶׁל מַס הָרָאוּי לַפֶּחָה לֹא בִקַּשְׁתִּי וְלֹא שָׁאַלְתִּי מִן הָעָם, שֶׁהֲרֵי כָּבְדָה וְחָזָקָה עֲבוֹדַת בִּנְיַן הַחוֹמָה עֲלֵיהֶם:
+**לֶחֶם.** שֶׁל מַס הָרָאוּי לַפֶּחָה לֹא בִקַּשְׁתִּי וְלֹא שָׁאַלְתִּי מִן הָעָם, שֶׁהֲרֵי כָּבְדָה וְחָזָקָה עֲבוֹדַת בִּנְיַן הַחוֹמָה עֲלֵיהֶם:
 
 
 **food** of the tax, which is fit for the governor, I did not seek, and I did not request it of the people, for the work of the building of the wall was heavy and strong upon them.
@@ -2901,7 +2901,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/6:6:4](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/6:6:4)
 
 
-**כַּדְּבָרִים הָאֵלֶּה.** מוּסָב עַל **כָּתוּב בָּהּ;** וּמִקְרָא מְסֹרָס הוּא, וַהֲרֵי הוּא כְּאִלּוּ נֶאֱמַר: **כָּתוּב בָּהּ כַּדְּבָרִים הָאֵלֶּה בַּגּוֹיִם נִשְׁמַע וְגוֹ׳**:
+**כַּדְּבָרִים הָאֵלֶּה.** מוּסָב עַל **כָּתוּב בָּהּ;** וּמִקְרָא מְסֹרָס הוּא, וַהֲרֵי הוּא כְּאִלּוּ נֶאֱמַר: **כָּתוּב בָּהּ כַּדְּבָרִים הָאֵלֶּה בַּגּוֹיִם נִשְׁמָע וְגוֹ׳**:
 
 
 **according to these words** This refers back to the text, and it is a transposed verse. It is as though it was written, “According to these words was heard among the nations, etc.”
@@ -3009,7 +3009,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/6:9:3](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/6:9:3)
 
 
-**וְעַתָּה חַזֵּק אֶת יָדִי.** לְסַיְּעֵנִי בְּבִנְיַן הַחוֹמָה:
+**וְעַתָּה חַזֵּק אֶת יָדָי.** לְסַיְּעֵנִי בְּבִנְיַן הַחוֹמָה:
 
 
 **and now, strengthen my hands** to help me with the building of the wall.
@@ -3034,7 +3034,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/6:10:2](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/6:10:2)
 
 
-**וַיֹּאמֶר נוֹעֵד.** אוֹתוֹ שְׁמַעְיָה הָיָה נְבִיא שֶׁקֶר, וְקִבֵּל שֹׁחַד מִן סַנְבַלַּט וַחֲבֵרָיו לְהַפְחִיד אֶת נְחֶמְיָה, כְּדֵי לְבַטֵּל אֶת הַמְּלָאכָה:
+**וַיֹּאמֶר נִוָּעֵד.** אוֹתוֹ שְׁמַעְיָה הָיָה נְבִיא שֶׁקֶר, וְקִבֵּל שֹׁחַד מִן סַנְבַלַּט וַחֲבֵרָיו לְהַפְחִיד אֶת נְחֶמְיָה, כְּדֵי לְבַטֵּל אֶת הַמְּלָאכָה:
 
 
 **and he said, “Let us meet** Shemaiah was a false prophet who had received a bribe from Sanballat and his colleagues to frighten Nehemiah in order to stop the work.
@@ -3070,7 +3070,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/6:11:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/6:11:1)
 
 
-**הַאִישׁ כָּמוֹנִי יִבְרַח.** בִּתְמִיהָּ אִם **אִישׁ כָּמוֹנִי יִבְרַח** לִיכָּנֵס בַּהֵיכָל:
+**הַאִישׁ כָּמוֹנִי יִבְרָח.** בִּתְמִיהָּ אִם **אִישׁ כָּמוֹנִי יִבְרָח** לִיכָּנֵס בַּהֵיכָל:
 
 
 **Will a man like me flee** This is a question: Will a man like me flee to enter the Temple?
@@ -3131,7 +3131,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/6:13:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/6:13:1)
 
 
-**לְמַעַן שָׁכוּר הוּא.** אָמַר לִי הַדְּבָרִים הַלָּלוּ:
+**לְמַעַן שָׂכוּר הוּא.** אָמַר לִי הַדְּבָרִים הַלָּלוּ:
 
 
 **Because he was hired** he told me these things.
@@ -3300,7 +3300,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/6:18:3](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/6:18:3)
 
 
-**וִיהוֹחָנָן בְּנוֹ**. שֶׁל טוֹבִיָּה:
+**וִיהוֹחָנָן בְּנוֹ.** שֶׁל טוֹבִיָּה:
 
 
 **and Jehohanan his son** [the son] of Tobiah.
@@ -3436,7 +3436,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/7:3:3](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/7:3:3)
 
 
-**וְאֶחֱזוּ.** יֹאחֲזוּ הַדְּלָתוֹת לְסָגְרָם:
+**וֶאֱחֹזוּ.** יֹאחֲזוּ הַדְּלָתוֹת לְסָגְרָם:
 
 
 **and hold them** They should hold the doors to lock them.
@@ -3447,7 +3447,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/7:3:4](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/7:3:4)
 
 
-**מִשְׁמְרוֹת יוֹשְׁבֵי יְרוּשָׁלִָם.** מִיּוֹשְׁבֵי יְרוּשָׁלִַם הֶעֱמִידוּ מִשְׁמָרוֹת, גִּיטְ״שׁ בְּלַעַ״ז:
+**מִשְׁמְרוֹת יוֹשְׁבֵי יְרוּשָׁלַ͏ִם.** מִיּוֹשְׁבֵי יְרוּשָׁלִַם הֶעֱמִידוּ מִשְׁמָרוֹת, גִּיטְ״שׁ בְּלַעַ״ז:
 
 
 **watches among the inhabitants of Jerusalem** of the inhabitants of Jerusalem station watches, jetes in Old French, (groups of) watchmen.
@@ -3461,7 +3461,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/7:4:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/7:4:1)
 
 
-**רְחַבַת יָדַיִם.** רְחַבַת מָקוֹם וּגְדוֹלָה:
+**רַחֲבַת יָדַיִם.** רְחַבַת מָקוֹם וּגְדוֹלָה:
 
 
 **a wide place** Heb. רַחֲבַת יָדַיִם, a wide and large place.
@@ -3756,7 +3756,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/8:11:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/8:11:1)
 
 
-**מְחַשִּׁים.** הָיוּ מַזְהִירִין לְכָל הָעָם לַחֲשׁוֹת, שֶׁלֹּא יִבְכּוּ עוֹד:
+**מַחְשִׁים.** הָיוּ מַזְהִירִין לְכָל הָעָם לַחֲשׁוֹת, שֶׁלֹּא יִבְכּוּ עוֹד:
 
 
 **quieted** They admonished all the people to be quiet, that they should weep no longer.
@@ -3912,7 +3912,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/9:5:2](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/9:5:2)
 
 
-**וִיבָרְכוּ שֵׁם כְּבוֹדֶךָ.** עַכְשָׁיו דִּבְּרוּ הַלְוִיִּם כְּלַפֵּי שְׁכִינָה בִּתְפִלָּה: **וִיבָרְכוּ שֵׁם כְּבוֹדֶךָ** כִּי הוּא גָּדוֹל וּמְרוֹמָם עַל כָּל בְּרָכָה וּתְהִלָּה, כִּי כָל הַבְּרָכוֹת וּתְהִלּוֹת שֶׁלּוֹ הֵם. דָּבָר אַחֵר: **וּמְרוֹמָם עַל כָּל בְּרָכָה וּתְהִלָּה** שֶׁאֵין בְּרִיָּה יְכוֹלָה לְבָרְכוֹ וּלְהַלְּלוֹ כְּפִי גָדְלוֹ וְרוֹמְמוּתוֹ, שֶׁהוּא מְרוֹמָם וְנִשָּׂא יוֹתֵר מַה שֶּׁאֵין הַפֶּה יְכוֹלָה לְדַבֵּר:
+**וִיבָרְכוּ שֵׁם כְּבוֹדֶךָ.** עַכְשָׁיו דִּבְּרוּ הַלְוִיִּם כְּלַפֵּי שְׁכִינָה בִּתְפִלָּה: **וִיבָרְכוּ שֵׁם כְּבוֹדֶךָ** כִּי הוּא גָּדוֹל וּמְרוֹמָם עַל כָּל בְּרָכָה וּתְהִלָּה, כִּי כָל הַבְּרָכוֹת וּתְהִלּוֹת שֶׁלּוֹ הֵם. דָּבָר אַחֵר: **וּמְרוֹמַם עַל כָּל בְּרָכָה וּתְהִלָּה** שֶׁאֵין בְּרִיָּה יְכוֹלָה לְבָרְכוֹ וּלְהַלְּלוֹ כְּפִי גָדְלוֹ וְרוֹמְמוּתוֹ, שֶׁהוּא מְרוֹמָם וְנִשָּׂא יוֹתֵר מַה שֶּׁאֵין הַפֶּה יְכוֹלָה לְדַבֵּר:
 
 
 **and they shall bless Your glorious Name** Now the Levites spoke toward the Shechinah in prayer, for He is great and exalted over every blessing and praise, for all the blessings and praises are His. Another explanation is that He is exalted above every blessing and praise; that no creature can bless Him or praise Him according to His greatness and His exaltedness, for He is exalted and raised higher than the mouth can express.
@@ -4007,7 +4007,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/9:15:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/9:15:1)
 
 
-**לְרַעֲבָם.** מִן רָעָב יֹאמַר **לְרַעֲבָם**, כְּמוֹ מִן צָמָא **לִצְמָאָם**:
+**לִרְעָבָם.** מִן רָעָב יֹאמַר **לִרְעָבָם**, כְּמוֹ מִן צָמָא **לִצְמָאָם**:
 
 
 **for their hunger** Heb. לִרְעָבָם. From רָעָב one says לִרְעָבָם, as from צָמָא [one says] לִצְמָאָם.
@@ -4074,7 +4074,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/9:24:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/9:24:1)
 
 
-**וַתִּכָּנַע.** וְהִכְנַעְתָּ:
+**וַתַּכְנַע.** וְהִכְנַעְתָּ:
 
 
 **and You vanquished** [as translated,] and You vanquished.
@@ -4088,7 +4088,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/9:27:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/9:27:1)
 
 
-**וְאַתָּה מִשָּׁמַיִם תִּשְׁמַע.** הָיִיתָ שׁוֹמֵעַ:
+**וְאַתָּה מִשָּׁמַיִם תִּשְׁמָע.** הָיִיתָ שׁוֹמֵעַ:
 
 
 **And You from the heavens You heard** you listened.
@@ -4155,7 +4155,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/9:37:2](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/9:37:2)
 
 
-**מַרְבֶּה.** מַעֲדַנֵּי מַאֲכָלִים לְמַלְכֵי הָעוֹבְדֵי כּוֹכָבִים וּמַזָּלוֹת:
+**מַרְבָּה.** מַעֲדַנֵּי מַאֲכָלִים לְמַלְכֵי הָעוֹבְדֵי כּוֹכָבִים וּמַזָּלוֹת:
 
 
 **it lavishes** delicacies to the kings of the nations...
@@ -4230,7 +4230,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/10:2:2](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/10:2:2)
 
 
-**נְחֶמְיָה הַתִּרְשָׁתָא.** שֵׁם אֶחָד הוּא, וְזֶהוּ שֶׁפֵּרַשְׁתִּי (עזרא ב:סג) דְּ**הַתִּרְשָׁתָא** הוּא **נְחֶמְיָה**. וְלָמָּה נִקְרָא שְׁמוֹ **הַתִּרְשָׁתָא**? שֶׁהִתִּירוּ לוֹ חֲכָמִים לִשְׁתּוֹת יֵין נֶסֶךְ, לְפִי שֶׁהָיָה מַשְׁקֶה לַמֶּלֶךְ:
+**נְחֶמְיָה הַתִּרְשָׁתָא.** שֵׁם אֶחָד הוּא, וְזֶהוּ שֶׁפֵּרַשְׁתִּי (עזרא ב:סג) דְּ**הַתִּרְשָׁתָא** הוּא **נְחֶמְיָה.** וְלָמָּה נִקְרָא שְׁמוֹ **הַתִּרְשָׁתָא**? שֶׁהִתִּירוּ לוֹ חֲכָמִים לִשְׁתּוֹת יֵין נֶסֶךְ, לְפִי שֶׁהָיָה מַשְׁקֶה לַמֶּלֶךְ:
 
 
 **Nehemiah Hattirshatha** It is one name, and this is what I explained (Ezra 2:63) that [the name] Hattirshatha refers to Nehemiah. And why was he called Hattirshatha? Because the Sages permitted him to drink wine of gentiles, because he was the butler of the king.
@@ -4324,7 +4324,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/10:32:5](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/10:32:5)
 
 
-**וּמַשָּׂא כָל יָד.** הַשְׁמָטַת מִלְוֶה בַּשְּׁבִיעִית (דברים טו:ב):
+**וּמַשָּׁא כָל יָד.** הַשְׁמָטַת מִלְוֶה בַּשְּׁבִיעִית (דברים טו:ב):
 
 
 **and the loan given by every hand** This refers to the release of loans during the seventh year.
@@ -4363,7 +4363,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/10:35:2](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/10:35:2)
 
 
-**קָרְבַּן הָעֵצִים.** תִּקְרֹבֶת שֶׁל עֲצֵי הַמַּעֲרָכָה לַמִּזְבֵּחַ:
+**קֻרְבַּן הָעֵצִים.** תִּקְרֹבֶת שֶׁל עֲצֵי הַמַּעֲרָכָה לַמִּזְבֵּחַ:
 
 
 **the wood offering** an offering of wood for the arrangement on the altar.
@@ -4547,7 +4547,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/11:11:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/11:11:1)
 
 
-**נָגִיד.** מְמֻנֶּה:
+**נְגִד.** מְמֻנֶּה:
 
 
 **the official** [as translated,] the official.
@@ -4742,7 +4742,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/11:23:3](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/11:23:3)
 
 
-**דָּבָר יוֹם בְּיוֹמוֹ.** כְּדֵי לַעֲשׂוֹת צָרְכֵי הַבַּיִת:
+**דְּבַר יוֹם בְּיוֹמוֹ.** כְּדֵי לַעֲשׂוֹת צָרְכֵי הַבַּיִת:
 
 
 **for the daily requirements** in order to perform the requirements of the Temple.
@@ -5113,7 +5113,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/12:37:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/12:37:1)
 
 
-**וְעַל שַׁעַר הָעָיִן.** לִפְנֵי שַׁעַר הָעַיִן הָלְכוּ סְבִיבוֹת הָעִיר:
+**וְעַל שַׁעַר הָעַיִן.** לִפְנֵי שַׁעַר הָעַיִן הָלְכוּ סְבִיבוֹת הָעִיר:
 
 
 **And by the Fountain Gate** Before the Fountain Gate, they marched around the city.
@@ -5639,7 +5639,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/13:28:1](https://torahapp.org/share/book/Rashi%20on%20Nehemiah/r/13:28:1)
 
 
-**וּמִבְּנֵי יוֹיָדָע... חָתָן לְסַנְבַּלַּט.** אֶחָד **מִבְּנֵי יוֹיָדָע חָתָן לְסַנְבַּלַּט** צוֹרֵר הַיְּהוּדִים, וְהִבְרַחְתִּיהוּ **מֵעָלָי**, לְמַעַן לֹא יִהְיֶה רָגִיל בִּירוּשָׁלַיִם בִּשְׁבִיל חֲתָנוֹ, לִרְאוֹת אֶת הָעִיר וְאֶת מוֹצָאֶיהָ וְאֶת מוֹבָאֶיהָ:
+**וּמִבְּנֵי יוֹיָדָע… חָתָן לְסַנְבַּלַּט.** אֶחָד **מִבְּנֵי יוֹיָדָע חָתָן לְסַנְבַּלַּט** צוֹרֵר הַיְּהוּדִים, וְהִבְרַחְתִּיהוּ **מֵעָלָי**, לְמַעַן לֹא יִהְיֶה רָגִיל בִּירוּשָׁלַיִם בִּשְׁבִיל חֲתָנוֹ, לִרְאוֹת אֶת הָעִיר וְאֶת מוֹצָאֶיהָ וְאֶת מוֹבָאֶיהָ:
 
 
 **And [one] of the sons of Joiada...was the son in law of Sanballat** One of the sons of Joiada was the son-in-law of Sanballat, the adversary of the Jews; thus, I drove him away from me so that he should not frequent Jerusalem because of his son-in-law, to see the city and the ways to enter and leave it.

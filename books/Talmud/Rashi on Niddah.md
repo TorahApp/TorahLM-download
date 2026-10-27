@@ -23182,14 +23182,6 @@ Likeness of Lilith: A demoness that has the face of a human and wings
 צריכות מחשבה - לאכילה ושוב תטמא טומאת אוכלין שיחשב עליהן לאחר תלישתן לאוכלן ואע"ג דכבר חשב בחבורן שהרי נמלך עליהן לאדם:
 
 
-###### Rashi on Niddah 50b:1:2
-
-[https://torahapp.org/share/book/Rashi%20on%20Niddah/r/50b:1:2](https://torahapp.org/share/book/Rashi%20on%20Niddah/r/50b:1:2)
-
-
-צריכות מחשבה - לאכילה ושוב תטמא מאיליה ותחזור ותטמא אוכלין במגע דהא מאיליה קודם מחשבה אין לה טומאה אלא בבית הבליעה:
-
-
 
 ### Line 2
 
@@ -23198,7 +23190,7 @@ Likeness of Lilith: A demoness that has the face of a human and wings
 [https://torahapp.org/share/book/Rashi%20on%20Niddah/r/50b:2:1](https://torahapp.org/share/book/Rashi%20on%20Niddah/r/50b:2:1)
 
 
-ואינה צריכה הכשר - כדיליף לקמן בשמעתין כל שסופו לטמא טומאה חמורה אין צריך הכשר לא שום הכשר ירידת טומאה לא הכשר מים ולא הכשר שרץ אלא מאיליה בלא שום נגיעה:
+צריכות מחשבה - לאכילה ושוב תטמא מאיליה ותחזור ותטמא אוכלין במגע דהא מאיליה קודם מחשבה אין לה טומאה אלא בבית הבליעה:
 
 
 ###### Rashi on Niddah 50b:2:2
@@ -23206,12 +23198,20 @@ Likeness of Lilith: A demoness that has the face of a human and wings
 [https://torahapp.org/share/book/Rashi%20on%20Niddah/r/50b:2:2](https://torahapp.org/share/book/Rashi%20on%20Niddah/r/50b:2:2)
 
 
-אלמא מחשבת חיים - דהא מחיים סתמא לאכילה ואפ"ה לא מהניא ההיא מחשבה לטומאה דבעינן מחשבה בשעה שראוי לקבל טומאה ומחיים לאו בר קבולי טומאה הוא:
+ואינה צריכה הכשר - כדיליף לקמן בשמעתין כל שסופו לטמא טומאה חמורה אין צריך הכשר לא שום הכשר ירידת טומאה לא הכשר מים ולא הכשר שרץ אלא מאיליה בלא שום נגיעה:
 
 
 ###### Rashi on Niddah 50b:2:3
 
 [https://torahapp.org/share/book/Rashi%20on%20Niddah/r/50b:2:3](https://torahapp.org/share/book/Rashi%20on%20Niddah/r/50b:2:3)
+
+
+אלמא מחשבת חיים - דהא מחיים סתמא לאכילה ואפ"ה לא מהניא ההיא מחשבה לטומאה דבעינן מחשבה בשעה שראוי לקבל טומאה ומחיים לאו בר קבולי טומאה הוא:
+
+
+###### Rashi on Niddah 50b:2:4
+
+[https://torahapp.org/share/book/Rashi%20on%20Niddah/r/50b:2:4](https://torahapp.org/share/book/Rashi%20on%20Niddah/r/50b:2:4)
 
 
 הכא נמי מחשבת חבור - הואיל ומחובר לאו בר קבולי טומאה לא שמה מחשבה:

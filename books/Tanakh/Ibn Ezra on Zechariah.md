@@ -14,7 +14,7 @@ Location: Tanakh/Rishonim on Tanakh/Ibn Ezra/Prophets
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): 1 (Segments: 345, License: Public Domain)
+Version (He): Ibn Ezra on Zecharia -- Daat (Segments: 345, License: Public Domain)
 
 Version (En): Sefaria Community Translation (Segments: 4)
 

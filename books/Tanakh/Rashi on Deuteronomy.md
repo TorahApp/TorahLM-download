@@ -14,7 +14,7 @@ Location: Tanakh/Rishonim on Tanakh/Rashi/Torah
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934 (Segments: 1369, License: Public Domain)
+Version (He): On Your Way (Segments: 1369, License: Public Domain)
 
 Version (En): Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934 (Segments: 1368)
 
@@ -541,7 +541,7 @@ Version (En): Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silber
 [https://torahapp.org/share/book/Rashi%20on%20Deuteronomy/r/1:14:1](https://torahapp.org/share/book/Rashi%20on%20Deuteronomy/r/1:14:1)
 
 
-**ותענו אתי וגו'.** חֲלַטְתֶּם אֶת הַדָּבָר לַהֲנָאַתְכֶם; הָיָה לָכֶם לְהָשִׁיב, מֹשֶׁה רַבֵּנוּ, מִמִּי נָאֶה לִלְמֹד, מִמְּךָ אוֹ מִתַּלְמִידְךָ? לֹא מִמְּךָ שֶׁנִּצְטַעַרְתָּ עָלֶיהָ? אֶלָּא יָדַעְתִּי מַחְשְׁבוֹתֵיכֶם, הֱיִיתֶם אוֹמְרִים עַכְשָׁו יִתְמַנּוּ עָלֵינוּ דַּיָּנִין הַרְבֵּה, אִם אֵין מַכִּירֵנוּ, אָנוּ מְבִיאִין לוֹ דוֹרוֹן וְהוּא נוֹשֵׂא לָנוּ פָנִים (שם):
+**ותענו אתי וגו'.** חֲלַטְתֶּם אֶת הַדָּבָר לַהֲנָאַתְכֶם; הָיָה לָכֶם לְהָשִׁיב, רַבֵּנוּ מֹשֶׁה, מִמִּי נָאֶה לִלְמֹד, מִמְּךָ אוֹ מִתַּלְמִידְךָ? לֹא מִמְּךָ שֶׁנִּצְטַעַרְתָּ עָלֶיהָ? אֶלָּא יָדַעְתִּי מַחְשְׁבוֹתֵיכֶם, הֱיִיתֶם אוֹמְרִים עַכְשָׁו יִתְמַנּוּ עָלֵינוּ דַּיָּנִין הַרְבֵּה, אִם אֵין מַכִּירֵנוּ, אָנוּ מְבִיאִין לוֹ דוֹרוֹן וְהוּא נוֹשֵׂא לָנוּ פָנִים (שם):
 
 
 ותענו אתי וגו׳ AND YE ANSWERED ME, etc. — You at once decided the matter to your benefit. You should really have replied: Our teacher, Moses! From whom is it more fitting to learn, from you or from your disciple? Is it not from you who have taken such pains about it? But I knew your thoughts: you said, “Many judges will now be appointed over us; if one of them does not happen to be an acquaintance of ours, we shall bring him a gift and he will show us favour (Sifrei Devarim 14).
@@ -7673,7 +7673,7 @@ THOU SHALT TRULY TITHE [ALL THE INCREASE OF THY SEED] — What has this matter t
 **וכסף וזהב לא ירבה לו מאד.** אֶלָּא כְּדֵי לִתֵּן לְאַכְסַנְיָא (ספרי; סנהדרין כ"א):
 
 
-וכסף וזהב לא ירבה לו מאד NEITHER SHALL HE GREATLY MULTIPLY TO HIMSELF SILVER AND GOLD — but only as much as he needs for his soldiers’ pay (Sanhedrin 21a).
+וכסף וזהב לא ירבה לו מאד NEITHER SHALL HE GREATLY MULTIPLY TO HIMSELF SILVER AND GOLD — but only as much as he needs for his soldiers’ pay (Sanhedrin 21b).
 
 
 

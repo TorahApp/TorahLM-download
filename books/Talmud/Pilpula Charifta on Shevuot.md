@@ -1,6 +1,6 @@
 # Pilpula Charifta on Shevuot
 
- פלפולא חריפתא על שבועות
+פלפולא חריפתא על שבועות
 
 Link: [https://torahapp.org/share/book/Pilpula%20Charifta%20on%20Shevuot](https://torahapp.org/share/book/Pilpula%20Charifta%20on%20Shevuot)
 

@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): eu5 text (Segments: 17418, License: unknown)
 
-Version (En): [fr] (Segments: 1021)
+Version (En): Mishnah Berurah temp (Segments: 1025)
 
 # Mishnah Berurah — part 2 of 2
 
@@ -6149,7 +6149,7 @@ There are places where seawater is directed into pools, and the sun evaporates i
 [https://torahapp.org/share/book/Mishnah%20Berurah/r/345:16](https://torahapp.org/share/book/Mishnah%20Berurah/r/345:16)
 
 
-(טז) הוי רה"י - בין תוך חללה ובין גב הכלי מלמעלה וכנ"ל בס"ג וכלי שאין גבוה עשרה העומד בר"ה אין לו דין כרמלית דאין כרמלית בכלים אלא הוי כמו ר"ה דבטל לגבי רשות שהוא עומד בו [מ"א] ולפ"ז אם עומד הכלי בכרמלית דין כרמלית עליו מצד רשות שהוא עומד בו וכן מוכח לקמן בסימן שנ"ה (תו"ש וכ"כ בבית מאיר לדעת המ"א) וכלי המחובר לקרקע מקרי כרמלית אפיל ו הוא בר"ה:
+(טז) הוי רה"י - בין תוך חללה ובין גב הכלי מלמעלה וכנ"ל בס"ג וכלי שאין גבוה עשרה העומד בר"ה אין לו דין כרמלית דאין כרמלית בכלים אלא הוי כמו ר"ה דבטל לגבי רשות שהוא עומד בו [מ"א] ולפ"ז אם עומד הכלי בכרמלית דין כרמלית עליו מצד רשות שהוא עומד בו וכן מוכח לקמן בסימן שנ"ה (תו"ש וכ"כ בבית מאיר לדעת המ"א) וכלי המחובר לקרקע מקרי כרמלית אפילו הוא בר"ה:
 
 
 ###### Mishnah Berurah 345:17
@@ -18330,7 +18330,7 @@ There are places where seawater is directed into pools, and the sun evaporates i
 [https://torahapp.org/share/book/Mishnah%20Berurah/r/392:8](https://torahapp.org/share/book/Mishnah%20Berurah/r/392:8)
 
 
-(ח) בשיתוף שעושים לעצמם ואם היו הנשארים רבים - כצ"ל. ואח"כ גרסינן ואסורים לטלטל בוי"ו [ט"ז]:
+(ח) בשיתוף שעושים לעצמם אם היו הנשארים רבים - כצ"ל. ואח"כ גרסינן ואסורים לטלטל בוי"ו [ט"ז]:
 
 
 ###### Mishnah Berurah 392:9
@@ -48622,7 +48622,7 @@ If the gentile is a sharecropper he may even work on a field. Moreover, even the
 [https://torahapp.org/share/book/Mishnah%20Berurah/r/547:6](https://torahapp.org/share/book/Mishnah%20Berurah/r/547:6)
 
 
-(ו) אסור להספיד עמו וכו' - דעכ"פ דעכ"פ ע"י זה מיתוסף לו עוד צער במועד:
+(ו) אסור להספיד עמו וכו' - דעכ"פ ע"י זה מיתוסף לו עוד צער במועד:
 
 
 ###### Mishnah Berurah 547:7
@@ -48873,7 +48873,7 @@ If the gentile is a sharecropper he may even work on a field. Moreover, even the
 [https://torahapp.org/share/book/Mishnah%20Berurah/r/548:11](https://torahapp.org/share/book/Mishnah%20Berurah/r/548:11)
 
 
-(יא) האחרון - משא"כ משא"כ יו"ט שני של גליות בתחלת פסח או החג לא גרע מחוה"מ:
+(יא) האחרון - משא"כ יו"ט שני של גליות בתחלת פסח או החג לא גרע מחוה"מ:
 
 
 ###### Mishnah Berurah 548:12
@@ -50499,6 +50499,9 @@ And it is not required ... while it is still day... [That is,] as is required on
 
 
 (ח) ונהגו וכו' - דתורה משמחת הלב ומ"מ כ"ז אינו מדינא דהא מותר בעט"ב מדינא כל החמשה עינויים ועיקר הטעם משום דהוא יכול ללמוד דברים המותרים בט"ב. והנה מהרבה אחרונים משמע שתפסו המנהג הזה ולא ערערו עליו דאפילו אם חל בשבת הסכימו כמה אחרונים להתנהג כמ"ש הרמ"א וכמו שאכתוב לקמיה אמנם יש איזה אחרונים שפקפקו מאד על המנהג הזה ראשון לכל הרש"ל כתבו עליו שלמד בעצמו אחר חצות והתיר גם לאחרים בזה גם הגר"א בביאורו כתב דחומרא יתירא היא וכן המאמר מרדכי בספרו מאריך בזה וכתב דהוא מביא הרבה לידי ביטול תורה להלומדים שמתרשלים ללמוד דברים המותרים בט"ב דאין אדם לומד אלא מה שלבו חפץ וע"כ דעתו להקל בזה וכתב דכן היה הוא נוהג ע"ש וכן הח"א כתב דהוא חומרא בעלמא וע"כ נראה דמי שרוצה להקל בזה אין מוחין בידו:
+
+
+**And the custom is, etc.** - For Torah gladdens the heart; nevertheless, all of this is not required by strict law, since by law one is permitted to study all the matters that are permitted to be studied on Tisha B'Av itself even on its eve, and the main reason [for the restriction beforehand] is that one is [otherwise] able to study the things permitted [to be studied] on Tisha B'Av [and so should save them for then]. Now, it appears that many later authorities (Acharonim) accepted this custom and did not challenge it. Indeed, even if it falls on Shabbos, several Acharonim agreed to conduct themselves as the Rema wrote, as I will write further on. However, there are some Acharonim who raised serious objections to this custom. First among them is the Rashal, who wrote of himself that he studied [these forbidden topics] after midday and permitted this for others as well; also the Gra in his commentary wrote that this is an excessive stringency; and likewise the Ma'amar Mordechai elaborates at length on this in his work, writing that it leads many people to neglect of Torah study, since those who study come to be lax about studying the things that are permitted on Tisha B'Av, for a person only studies what his heart desires and therefore his opinion is to be lenient in this, and he writes that this is how he himself conducted himself, see there. And likewise the Chayei Adam wrote that this is merely a stringency. Therefore it appears that one who wishes to be lenient in this matter is not to be protested against.
 
 
 ###### Mishnah Berurah 553:9
@@ -55121,7 +55124,7 @@ The Holy Temple - One who enters a holy place suffers karet because we are all t
 [https://torahapp.org/share/book/Mishnah%20Berurah/r/585:4](https://torahapp.org/share/book/Mishnah%20Berurah/r/585:4)
 
 
-(ד) יברך לשמוע וכו' - ר"ל שלא יאמר לתקוע בך בשופר דלאו בתקיעה תליא מילתא אלא בשמיעה שהרי התוקע ולא שמע קול שופר לא יצא כמו שנתבאר בסימן תקפ"ז ע"ש ולא יאמר בקול דמשמע לעשות רצונו ובדיעבד אם בירך לתקוע בשופר או על תקיעת שופר או לשמוע בקול שופר יצא. אם נטלו השופר באמצע התקיעות והביאו לו שופר אחר א"צ לברך אבל בין בין ברכה לתחילת התקיעות צריך לברך:
+(ד) יברך לשמוע וכו' - ר"ל שלא יאמר לתקוע בשופר דלאו בתקיעה תליא מילתא אלא בשמיעה שהרי התוקע ולא שמע קול שופר לא יצא כמו שנתבאר בסימן תקפ"ז ע"ש ולא יאמר בקול דמשמע לעשות רצונו ובדיעבד אם בירך לתקוע בשופר או על תקיעת שופר או לשמוע בקול שופר יצא. אם נטלו השופר באמצע התקיעות והביאו לו שופר אחר א"צ לברך אבל בין בין ברכה לתחילת התקיעות צריך לברך:
 
 
 ###### Mishnah Berurah 585:5
@@ -60223,6 +60226,9 @@ For I have caused them to dwell in Sukkot: These are the clouds of glory. And as
 (ב) בכל ענין - ר"ל אפילו אם השפיל הענפים למטה ועירבן עם סכך הסוכה וסכך הסוכה רבה עליהם ואינו ניכר אפ"ה פסול דאף שהסוכה צילתה מרובה מחמתה כיון שהאילן ג"כ צילתו מרובה מחמתו א"כ אין סכך הסוכה מועיל כלום [ב"ח]:
 
 
+Meaning, even if he lowered the branches and mixed them the sechach of the sukkah and the sechach of the sukkah was greater than them [i.e., the lowered branches] and it is not noticeable, even so the sukkah is invalid because even though the sukkah's shade is greater than its sunny area, because the shade of the tree is also greater than its sunny area the sechach of the sukkah is of no use.
+
+
 ###### Mishnah Berurah 626:3
 
 [https://torahapp.org/share/book/Mishnah%20Berurah/r/626:3](https://torahapp.org/share/book/Mishnah%20Berurah/r/626:3)
@@ -60386,12 +60392,18 @@ For I have caused them to dwell in Sukkot: These are the clouds of glory. And as
 (א) צריך לישב וכו' - הקדים בזה כדי לידע הטעם בישן תחת המטה דלא יצא שאינו ישן בצל הסוכה אלא בצל אוהל:
 
 
+He began with this in order to make known the reason regarding one who sleeps under a bed that he did not fulfill the mitzvah since he did not sleep in the shade of the sukkah but in the shade of a tent [made by the bed].
+
+
 ###### Mishnah Berurah 627:2
 
 [https://torahapp.org/share/book/Mishnah%20Berurah/r/627:2](https://torahapp.org/share/book/Mishnah%20Berurah/r/627:2)
 
 
 (ב) הישן וכו' - דעיקר ישיבת הסוכה הוא אכילה שתיה ושינה:
+
+
+Since the essence of "dwelling" in the sukkah is eating, drinking and sleeping.
 
 
 ###### Mishnah Berurah 627:3

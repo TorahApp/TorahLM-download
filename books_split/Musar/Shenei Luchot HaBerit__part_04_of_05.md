@@ -14,9 +14,9 @@ Location: Musar/Acharonim
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Shenei Luchot HaBrit, based on Amsterdam, 1698 ed. Part II (Segments: 10927, License: Public Domain)
+Version (He): Shenei Luchot HaBrit, based on Amsterdam, 1698 ed. Part I (Segments: 10927, License: Public Domain)
 
-Version (En): Shney Luchot Habrit by Rabbi Eliyahu Munk (Segments: 3712)
+Version (En): Sefaria Community Translation (Segments: 3712)
 
 # Shenei Luchot HaBerit — part 4 of 5
 

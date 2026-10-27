@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Halakhot Gedolot, Warsaw 1874 (Segments: 853, License: Public Domain)
 
-Version (En): Sefaria Community Translation (Segments: 5)
+Version (En): Sefaria Community Translation (Segments: 13)
 
 
 ## Introduction
@@ -51,7 +51,7 @@ Blessed are you, O Lord our God, King of the world, who sanctified us with his c
 **סקילה.** שריפה. הרג. וחנק. מיתה. וכרת. ומלקות:
 
 
-These are the Hansekins. Bring on the mother and the father's wife and the bride and bring on the male and the animal and the woman who is sacrificed to the animal and the blasphemer and the idolater and the one who gives his seed to your father and the one who is observant and knowledgeable and who desecrates the Sabbath and curses his father and his mother and the bringer on a girl from Orsha and the instigator and the slanderer and a sorcerer and a disobedient son and a teacher. These are eighteen in stoning:
+(These are the punishments given either by a beis din shel matah, the Jewish court of law, or the beis din shel ma'alah, the Heavenly Court) Stoning, burning, beheading, strangling, death, "cutting off", (a spiritual punishment, either one will not live past the age of 60, have no children, or lose his portion in the World to Come) lashes.
 
 
 ###### Halakhot Gedolot, Introduction 4
@@ -62,12 +62,18 @@ These are the Hansekins. Bring on the mother and the father's wife and the bride
 **אלו** הן הנסקלין. הבא על האם ועל אשת אב ועל הכלה והבא על הזכר ועל הבהמה והאשה הנרבעת לבהמה והמגדף והעובד עבודה זרה והנותן מזרעו למולך ובעל אוב וידעוני והמחלל את השבת והמקלל אביו ואמו והבא על נערה מאורשה והמסית והמדיח ומכשף ובן סורר ומורה. אלו שמונה עשר בסקילה:
 
 
+These are ones who are stoned. The mother (who commits adultery, as with most of these examples - that is self explanatory and not mentioned in the text) and the father's wife, and the bride, and the one who comes to a male, and the animal, and the woman who is sacrificed to the animal, and the blasphemer, and the idolater, and the one who sacrifices his child to the idol Molech, and a sorcerer, and upon one who desecrates the Sabbath, and upon one who curses his father and his mother and one who comes to a girl, and the instigator and the slanderer and a sorcerer and a disobedient son and a teacher. These are the eighteen who are stoned.
+
+
 ###### Halakhot Gedolot, Introduction 5
 
 [https://torahapp.org/share/book/Halakhot%20Gedolot/s/Introduction/r/5](https://torahapp.org/share/book/Halakhot%20Gedolot/s/Introduction/r/5)
 
 
 **אלו** הן הנשרפין. הבא על אשה ובתה ובת כהן כי תזנה ויש בכלל אשה ובתה הבא על בתו ועל בת בתו ועל בת בנו ועל בת אשתו ועל בת בנה ועל בת בתה ועל חמותו ואם חמותו ואם חמיו. אלו תשעה בשרפה:
+
+
+These are the ones who are executed by burning: Someone who abuses a woman and her daughter, the daughter of a priest who commits adultery, and someone who abuses his close relatives. These are the nine who are burned.
 
 
 ###### Halakhot Gedolot, Introduction 6
@@ -78,12 +84,18 @@ These are the Hansekins. Bring on the mother and the father's wife and the bride
 **אלו** הן הנהרגין. רוצח ואנשי עיר הנדחת. שתים:
 
 
+These are the ones who are beheaded. A murderer and the residents of an evil city.
+
+
 ###### Halakhot Gedolot, Introduction 7
 
 [https://torahapp.org/share/book/Halakhot%20Gedolot/s/Introduction/r/7](https://torahapp.org/share/book/Halakhot%20Gedolot/s/Introduction/r/7)
 
 
 **אלו** הן הנחנקין. מכה אביו ואמו וגונב נפש מישראל וזקן ממרא על פי בית דין ונביא השקר והמתנבא בשם עבודה זרה והבא על אשת איש והיא עמו וזוממי בת כהן ובועלה. אלו תשעה בחנק:
+
+
+These are the ones who are strangled. One who hits his parents, a kidnapper, a zakein mamreh, a false prophet, a prophet of idol worship, someone who abuses someone else's wife or a daughter of a priest. These are the nine who are strangled.
 
 
 ###### Halakhot Gedolot, Introduction 8
@@ -94,12 +106,18 @@ These are the Hansekins. Bring on the mother and the father's wife and the bride
 **אלו** שבכרת. הבא על אחותו ועל אחות אביו ועל אחות אמו ועל אחות אשתו ועל אשת אחי אביו ועל הנדה וטמא שאכל קדש והבא למקדש טמא והאוכל חלב ודם ונותר ופיגול והמפטם את השמן והמפטם את הקטרת והסך שמן המשחה והשוחט והמעלה עולה בחוץ והאוכל והעושה מלאכה ביום הכפורים והאוכל חמץ בפסח ושלא עשה פסח ושלא מל. אלו עשרים ושתים בכרת:
 
 
+These are the ones who are given the penalty of "kareis", heavenly excommunication. Someone who abuses his sister, his father's sister, his mother's sister, his wife's sister, his uncle's wife, a menstruant woman, an impure one who eats from the kodesh, someone who comes to the Temple in a state of impurity, someone who eats forbidden fats and blood, (I do not understand the next couple of examples) someone who works on Yom Kippur, someone who eats chametz on Passover, someone who does not bring a korban Pesach, someone uncircumcised. These are the 22 who are cut off.
+
+
 ###### Halakhot Gedolot, Introduction 9
 
 [https://torahapp.org/share/book/Halakhot%20Gedolot/s/Introduction/r/9](https://torahapp.org/share/book/Halakhot%20Gedolot/s/Introduction/r/9)
 
 
 **אלו** שבמיתה. האוכל את הטבל וכהן טמא שאכל תרומה טהורה וזר שאכל תרומה וזר ששימש במקדש וטמא ששימש ומחוסר ששימש ומחוסר כפורים וטבול יום ששמש ולא רחוץ ידים ורגלים ושתויי יין ופרועי ראש ששמשו במקדש. אלו אחת עשרה במיתה. הרי אלו שבעים ואחת מצות שבמיתות ששה עונשין:
+
+
+These are the ones who are given death by the hands of Heaven. One who eats untithed produce, an impure priest who eats terumah, a non-priest who eats of the terumah, a non-priest that enters the Temple in a state of impurity.
 
 
 ###### Halakhot Gedolot, Introduction 10
@@ -3671,12 +3689,18 @@ These are the Hansekins. Bring on the mother and the father's wife and the bride
 (מנחות מג:) תנו רבנן וראיתם אותו וזכרתם ראה מצוה זו וזכור מצוה אחרת התלויה בה ואיזו זו קריאת שמע דתנן מאימתי קורין את שמע בשחרית משיכיר בין תכלת ללבן. תנו רבנן וראיתם אותו וזכרתם ראה מצוה זו וזכור מצוה אחרת הסמוכה לה ואיזו היא זו כלאים דכתיב לא תלבש שעטנז וסמיך ליה גדילים תעשה לך. תניא אידך וראיתם אותו וזכרתם כיון שנתחייב במצוה זו נתחייב בכל מצות. תניא אידך וראיתם אותו וזכרתם שקולה מצוה זו כנגד כל המצות. תניא אידך וראיתם אותו וזכרתם ראיה מביאה לידי זכירה זכירה מביאה לידי עשיה רבי שמעון בן יוחאי אומר כל הזהיר במצוה זו זוכה ומקבל פני שכינה כתיב הכא וראיתם אותו וכתיב התם ויראו את אלהי ישראל וגו'. תנו רבנן חביבין ישראל שסיבבן הקב"ה במצות תפלין בראשיהן תפילין בזרועותיהם ציצית בבגדיהם מזוזה בפתחיהם ועליהם אמר דוד שבע ביום הללתיך ובשעה שנכנס דוד לבית המרחץ וראה שהוא ערום אמר אוי לי שאני עומד ערום בלא מצות כיון שנזכר מילה שבבשרו נתיישבה דעתו לאחר שיצא אמר עליו שירה למנצח על השמינית על המילה שניתנה בשמיני. רבי אליעזר בן יעקב אומר כל שיש לו תפילין בראשו תפילין בזרועו מזוזה בפתחו וציצית בבגדו הכל בחוזק שלא יחטא שנאמר והחוט המשולש לא במהרה ינתק ואומר חונה מלאך ה' סביב ליראיו ויחלצם. תניא היה רבי מאיר אומר מה נשתנה תכלת מכל מיני צבעונין מפני שהתכלת דומה לים וים דומה לרקיע ורקיע דומה לכסא הכבוד שנאמר ויראו את אלהי ישראל ותחת רגליו כמעשה לבנת הספיר וכתיב כמראה אבן ספיר דמות כסא. תניא היה רבי מאיר אומר קשה עונשו של לבן יותר מעונשו של תכלת משל למלך בשר ודם שאמר לשני עבדיו לאחד אמר לו הבא לי חותם של טיט ולאחד אמר לו הבא לי חותם של זהב פשעו שניהם ולא הביאו איזהו עונשו מרובה הוי אומר זה שאמר לו הבא לי חותם של טיט ולא הביא.
 
 
+(Menachos 43) So said our Sages, "and you will see them and remember" - you will see this mitzva (tzitzis) and remember another mitzva that is dependent on it, this being the mitzva of krias shema.
+
+
 ###### Halakhot Gedolot 27:2
 
 [https://torahapp.org/share/book/Halakhot%20Gedolot/r/27:2](https://torahapp.org/share/book/Halakhot%20Gedolot/r/27:2)
 
 
 (שם מא:) תנו רבנן כמה חוטין הוא נותן בית שמאי אומרים ארבעה ובית הלל אומרים שלשה וכמה תהא משלשלת בית שמאי אומרים ארבע ובית הלל אומרים שלש. אמר רב פפא הלכתא ארבעה חוטין כפולין בתוך שלש אצבעות ומשלשלת ארבע אצבעות. (שם לט.) אמר רבה בר רב אדא אמר רב אדא חוט של כרך עולה מן המנין.
+
+
+I
 
 
 ###### Halakhot Gedolot 27:3
@@ -4581,7 +4605,7 @@ These are the Hansekins. Bring on the mother and the father's wife and the bride
 [https://torahapp.org/share/book/Halakhot%20Gedolot/r/38:6](https://torahapp.org/share/book/Halakhot%20Gedolot/r/38:6)
 
 
-(נדרים כ.) תניא ובעבור תהיה יראתו על פניכם זו בושה לבלתי תחטאו מלמד שהבושה מביאה לידי יראת חטא מיכן אמרו סימן יפה לאדם שהוא ביישן אחרים אומרים כל המתבייש לא במהרה הוא חוטא וכל שאין בושת פנים בידוע שלא עמדו אבותיו על הר סיני. תניא אמר ר' יוחנן בן דהבאי ארבעה דברים סחו לי מלאכי השרת חגרין מפני מה הווין מפני שהופכין את שולחנן אלמים מפני מה הווין מפני שמנשקין באותו מקום חרשין מפני מה הווין מפני שמספרין בשעת תשמיש סומין מ"מ הווין מפני שמסתכלין באותו מקום. ורמינהו שאלו את אימא שלום אשתו של ר' אליעזר (שם ע"ב) מ"מ בניך יפין ביותר אמרה להם אינו מספר עמי לא בתחלת הלילה ולא בסוף הלילה אלא בחצי הלילה וכשהוא מספר עמי מגלה טפח ומכסה טפח ודומה כמי שכפאו שד אמרתי לו מה טעם אמר לי כדי שלא אתן עיני באשה אחרת ונמצאו בני באין לידי ממזרות לא קשיא הא במילי דתשמיש הא במילי אחרנייתא. אמר רבי יוחנן זו דברי רבי יוחנן בן דהבאי אבל חכמים אומרים אין הלכה כיוחנן בן דהבאי אלא כל מה שרוצה אדם לעשות באשתו עושה משל לבשר הבא מבית הטבח רצה לאוכלו במלח אוכלו צלי אוכלו שלוק אוכלו מבושל אוכלו על גחלים אוכלו וכן דג הבא מבית הצייד. אמר אמימר מאן מלאכי השרת רבנן דאי אמרת מלאכי השרת ממש אמר רבי יוחנן דאין הלכה ביוחנן בן דהבאי הא אינהו בקיאי בצורת הוולד טפי ומאי קרו מלאכי השרת דמצייני כמלאכי השרת ההיא דאתא לקמיה דרבי אמרה לו רבי ערכתי לו שולחן והפכו אמר לה בתי התורה התירתך לו אני מה אעשה לו. ההיא דאתאי לקמיה דרב אמרה לו רבי ערכתי לו שולחן והפכו אמר לה מאי שנא מביניתא. ולא תתורו אחרי לבבכם מכאן אמר רבי נתן אל ישתה אדם בכוס זה ויתן עינו בכוס אחר אמר רבינא לא נצרכא דאפילו שתי נשיו. וברותי מכם המורדים והפושעים אמר רבי לוי אלו בני תשע מדות אסנ"ת משגע"ח סימן. בני אמה בני שנואה בני נידוי בני תמורה בני מריבה בני שיכרות בני גרושת הלב בני ערבוביה בני חצופה אבל בני נדה בני טהרת ספק בני מפותה בני ישנה בני יראה בני הבא על ארוסתו בבית חמיו הללו חשובין כמזידין ואינן כממזירין שנאה שנאת הלב תמורת הלב גרושת הלב איני והאמר רבי שמואל בר נחמני אמר רבי יוחנן כל אדם שאשתו תובעתו הווין לו בנים שאפילו בדורו של משה לא היו כמותן שנאמר הבו לכם אנשים חכמים ונבונים וידועים לשבטיכם וכתיב ואקח את ראשי שבטיכם אנשים חכמים וידועים ואלו נבונים לא אשכח וכתיב ומבני יששכר יודעי בינה לעתים וגומר דגרמא להו תביעה דכתיב אלי תבא כי שכר שכרתיך ההיא דמרציא ארצויי:
+(נדרים כ.) תניא ובעבור תהיה יראתו על פניכם זו בושה לבלתי תחטאו מלמד שהבושה מביאה לידי יראת חטא מיכן אמרו סימן יפה לאדם שהוא ביישן אחרים אומרים כל המתבייש לא במהרה הוא חוטא וכל שאין בושת פנים בידוע שלא עמדו אבותיו על הר סיני. תניא אמר ר' יוחנן בן דהבאי ארבעה דברים סחו לי מלאכי השרת חגרין מפני מה הווין מפני שהופכין את שולחנן אלמים מפני מה הווין מפני שמנשקין באותו מקום חרשין מפני מה הווין מפני שמספרין בשעת תשמיש סומין מ"מ הווין מפני שמסתכלין באותו מקום. ורמינהו שאלו את אימא שלום אשתו של ר' אליעזר (שם ע"ב) מ"מ בניך יפין ביותר אמרה להם אינו מספר עמי לא בתחלת הלילה ולא בסוף הלילה אלא בחצי הלילה וכשהוא מספר עמי מגלה טפח ומכסה טפח ודומה כמי שכפאו שד אמרתי לו מה טעם אמר לי כדי שלא אתן עיני באשה אחרת ונמצאו בני באין לידי ממזרות לא קשיא הא במילי דתשמיש הא במילי אחרנייתא. אמר רבי יוחנן זו דברי רבי יוחנן בן דהבאי אבל חכמים אומרים אין הלכה כיוחנן בן דהבאי אלא כל מה שרוצה אדם לעשות באשתו עושה משל לבשר הבא מבית הטבח רצה לאוכלו במלח אוכלו צלי אוכלו שלוק אוכלו מבושל אוכלו על גחלים אוכלו וכן דג הבא מבית הצייד. אמר אמימר מאן מלאכי השרת רבנן דאי אמרת מלאכי השרת ממש אמר רבי יוחנן דאין הלכה כיוחנן בן דהבאי הא אינהו בקיאי בצורת הוולד טפי ואמאי קרו מלאכי השרת דמצייני כמלאכי השרת ההיא דאתא לקמיה דרבי אמרה לו רבי ערכתי לו שולחן והפכו אמר לה בתי התורה התירתך לו אני מה אעשה לו. ההיא דאתאי לקמיה דרב אמרה לו רבי ערכתי לו שולחן והפכו אמר לה מאי שנא מביניתא. ולא תתורו אחרי לבבכם מכאן אמר רבי נתן אל ישתה אדם בכוס זה ויתן עינו בכוס אחר אמר רבינא לא נצרכא דאפילו שתי נשיו. וברותי מכם המורדים והפושעים אמר רבי לוי אלו בני תשע מדות אסנ"ת משגע"ח סימן. בני אמה בני שנואה בני נידוי בני תמורה בני מריבה בני שיכרות בני גרושת הלב בני ערבוביה בני חצופה אבל בני נדה בני טהרת ספק בני מפותה בני ישנה בני יראה בני הבא על ארוסתו בבית חמיו הללו חשובין כמזידין ואינן כממזירין שנאה שנאת הלב תמורת הלב גרושת הלב איני והאמר רבי שמואל בר נחמני אמר רבי יוחנן כל אדם שאשתו תובעתו הווין לו בנים שאפילו בדורו של משה לא היו כמותן שנאמר הבו לכם אנשים חכמים ונבונים וידועים לשבטיכם וכתיב ואקח את ראשי שבטיכם אנשים חכמים וידועים ואלו נבונים לא אשכח וכתיב ומבני יששכר יודעי בינה לעתים וגומר דגרמא להו תביעה דכתיב אלי תבא כי שכר שכרתיך ההיא דמרציא ארצויי:
 
 
 ###### Halakhot Gedolot 38:7

@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat David/Prophets
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 1184, License: Public Domain)
+Version (He): On Your Way (Segments: 1173, License: Public Domain)
 
 Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 2)
 
@@ -59,7 +59,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 2)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/1:3:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/1:3:1)
 
 
-**נערה יפה.** כי היופי יורה על רבוי הדם, המוליד דב החום:
+**נערה יפה.** כי היופי יורה על רבוי הדם, המוליד רב החום:
 
 
 
@@ -805,15 +805,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 2)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/2:7:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/2:7:1)
 
 
-**כי כן.** רצה לומר:
-
-
-###### Metzudat David on I Kings 2:7:2
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/2:7:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/2:7:2)
-
-
-**בזה הדבר עצמו קרבו אותי לאכול על שולחן אביהם.** וכאומר עוד תעשה עמהם חסד זולת מה שיהיו באוכלי שולחנך, כי זהו תשלום גמול, ולא לחסד יקרא:
+**כי כן.** רצה לומר: בזה הדבר עצמו קרבו אותי לאכול על שולחן אביהם. וכאומר עוד תעשה עמהם חסד זולת מה שיהיו באוכלי שולחנך, כי זהו תשלום גמול, ולא לחסד יקרא:
 
 
 
@@ -1198,7 +1190,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 2)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/2:31:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/2:31:2)
 
 
-**ופגע בו.** כפל דבריו לזרזו [ ואף כי אביו צוה להמציא לו עילה להרגו, הנה זה העילה שמצא, כי גם זה תחשב לקצת מרד, בנוסו מפני המלך ]:
+**ופגע בו.** כפל דבריו לזרזו [ואף כי אביו צוה להמציא לו עילה להרגו, הנה זה העילה שמצא, כי גם זה תחשב לקצת מרד, בנוסו מפני המלך]:
 
 
 ###### Metzudat David on I Kings 2:31:3
@@ -2844,7 +2836,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 2)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/6:20:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/6:20:2)
 
 
-**ועשרים אמה קומתו.** ולמעלה (פסוק) אמר:
+**ועשרים אמה קומתו.** ולמעלה (פסוק) אמר: שלשים אמה קומתו, כי ההיכל לבד היתה שלשים אמה, אבל עליית בית קודש הקדשים היתה נמוכה משל היכל י׳ אמות. ורבותינו ז״ל אמרו (בבבא בתרא צח ב): שחושב כאן משפת כרובים ולמעלה, שהיו קומתן י׳ אמות כמו שנאמר למטה (פסוק כג):
 
 
 ###### Metzudat David on I Kings 6:20:3
@@ -2852,7 +2844,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 2)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/6:20:3](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/6:20:3)
 
 
-**שלשים אמה קומתו, כי ההיכל לבד היתה שלשים אמה, אבל עליית בית קודש הקדשים היתה נמוכה משל היכל י׳ אמות.** ורבותינו ז״ל אמרו (בבבא בתרא צח ב): שחושב כאן משפת כרובים ולמעלה, שהיו קומתן י׳ אמות כמו שנאמר למטה (פסוק כג):
+**ויצפהו זהב סגור.** חזר וכתבו, לומר שזהב הצפוי היה זהב סגור:
 
 
 ###### Metzudat David on I Kings 6:20:4
@@ -2860,15 +2852,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 2)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/6:20:4](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/6:20:4)
 
 
-**ויצפהו זהב סגור.** חזר וכתבו, לומר שזהב הצפוי היה זהב סגור:
-
-
-###### Metzudat David on I Kings 6:20:5
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/6:20:5](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/6:20:5)
-
-
-**ויצף מזבח ארי.** זהו מזבח הקטורת, ועשאו מאבנים, וארז ממעל, ועל הארז צפהו זהב, והיה אם כן מעשה המזבח דומה למעשה קירות הבית, ולזה סמכו כאן:
+**ויצף מזבח ארז.** זהו מזבח הקטורת, ועשאו מאבנים, וארז ממעל, ועל הארז צפהו זהב, והיה אם כן מעשה המזבח דומה למעשה קירות הבית, ולזה סמכו כאן:
 
 
 
@@ -3155,15 +3139,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 2)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/6:34:3](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/6:34:3)
 
 
-**ושני קלעים.** רצה לומר:
-
-
-###### Metzudat David on I Kings 6:34:4
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/6:34:4](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/6:34:4)
-
-
-**וכן שני עברי הדלת השנית, היה מצויר מעשה גלילים.** או רצה לומר: ושני ציורים היו להדלת השנית מזה ומזה, והיו מעשה גלילים, והכוונה יהיה לאחדים עם הפירוש הראשון:
+**ושני קלעים.** רצה לומר: וכן שני עברי הדלת השנית, היה מצויר מעשה גלילים. או רצה לומר: ושני ציורים היו להדלת השנית מזה ומזה, והיו מעשה גלילים, והכוונה יהיה לאחדים עם הפירוש הראשון:
 
 
 
@@ -3239,15 +3215,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 2)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/6:38:3](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/6:38:3)
 
 
-**ויבנהו שבע שנים.** רצה לומר:
-
-
-###### Metzudat David on I Kings 6:38:4
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/6:38:4](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/6:38:4)
-
-
-**שבנה כל שבעת השנים, ולא הפסיק זמן מה ולא חש למנות החדשים היתרים על שבעת השנים.** או רצה לומר: שבנה רק שבע שנים שלמות, כי במשך זמן הבנין, חדל לבנותו בשעור החדשים העודפים על שבעת השנים:
+**ויבנהו שבע שנים.** רצה לומר: שבנה כל שבעת השנים, ולא הפסיק זמן מה ולא חש למנות החדשים היתרים על שבעת השנים. או רצה לומר: שבנה רק שבע שנים שלמות, כי במשך זמן הבנין, חדל לבנותו בשעור החדשים העודפים על שבעת השנים:
 
 
 
@@ -3307,7 +3275,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 2)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:3:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:3:1)
 
 
-**וספן בארז ממעל על הצלעות.** כי על העמודים ועל קירות הארזים המחברם יחד, השכיבו צלעות ונסרים, להיות מחיצות הבית ממעל, ועל הצלעות ההם הניחו לוחות ארז, להיות לתקרה [ ואמר על העמודים, ולא זכר כרותות הארזים, על כי העמודים היו העיקר לסבול משא הצלעות ]:
+**וספן בארז ממעל על הצלעות.** כי על העמודים ועל קירות הארזים המחברם יחד, השכיבו צלעות ונסרים, להיות מחיצות הבית ממעל, ועל הצלעות ההם הניחו לוחות ארז, להיות לתקרה [ואמר על העמודים, ולא זכר כרותות הארזים, על כי העמודים היו העיקר לסבול משא הצלעות]:
 
 
 ###### Metzudat David on I Kings 7:3:2
@@ -3412,7 +3380,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 2)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:6:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:6:2)
 
 
-**ואולם על פניהם.** יבאר מקום עמוד האולם, ואמר שעמוד נסמך לבית היער לפני פתחים, וכדרך בית שער, ועמד ארכו לאורך הבית, להיות מול כל שלשת הפתחים שבשלשת חלקי הבית, [ ולזה אמר על פניהם, כי היו לפני שלשתן ועיין בתחילת קונטרס בנין הבית ובצורה ]:
+**ואולם על פניהם.** יבאר מקום עמוד האולם, ואמר שעמוד נסמך לבית היער לפני פתחים, וכדרך בית שער, ועמד ארכו לאורך הבית, להיות מול כל שלשת הפתחים שבשלשת חלקי הבית, [ולזה אמר על פניהם, כי היו לפני שלשתן ועיין בתחילת קונטרס בנין הבית ובצורה]:
 
 
 ###### Metzudat David on I Kings 7:6:3
@@ -3720,20 +3688,12 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 2)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:18:3](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:18:3)
 
 
-**לכסות את הכותרת.** רצה לומר:
+**לכסות את הכותרת.** רצה לומר: לשבכה העשויה לכסות אחת את אחת מהכותרת, חלק התחתון שבה. כי תמונת הכותרת היתה כעין שני אגנות, כפויה זו על גב זו, התחתונה בית קבולה למעלה ושוה לתמונת העמוד, כי היתה מבלי ציור, וקרויה למטה בענין ׳גולת הכותרת׳, והעליונה בית קבולה למטה, כפויה על התחתונה, ועשויה מעשה שבכה וכמו שנאמר בענין, והשבכות שתים, לכסות שתי גולות הכותרת, והרמונים היו תלוים בתחתית השבכה אם כן סמוכים המה לעליונית הגולה וכסו אותה, ולזה אמר הטורים היו על השבכה, העשויה לכסות גולת הכותרת, את החלק העליון ממנה, הסמוכה לראש הרמונים כשהם תלוים בתחתית השבכה, כי אז סמוכה להם עליונית הגולה, ונכסת מהם כאמור:
 
 
 ###### Metzudat David on I Kings 7:18:4
 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:18:4](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:18:4)
-
-
-**לשבכה העשויה לכסות אחת את אחת מהכותרת, חלק התחתון שבה.** כי תמונת הכותרת היתה כעין שני אגנות, כפויה זו על גב זו, התחתונה בית קבולה למעלה ושוה לתמונת העמוד, כי היתה מבלי ציור, וקרויה למטה בענין ׳גולת הכותרת׳, והעליונה בית קבולה למטה, כפויה על התחתונה, ועשויה מעשה שבכה וכמו שנאמר בענין, והשבכות שתים, לכסות שתי גולות הכותרת, והרמונים היו תלוים בתחתית השבכה אם כן סמוכים המה לעליונית הגולה וכסו אותה, ולזה אמר הטורים היו על השבכה, העשויה לכסות גולת הכותרת, את החלק העליון ממנה, הסמוכה לראש הרמונים כשהם תלוים בתחתית השבכה, כי אז סמוכה להם עליונית הגולה, ונכסת מהם כאמור:
-
-
-###### Metzudat David on I Kings 7:18:5
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:18:5](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:18:5)
 
 
 **וכן עשה.** כדרך שתלה הרמונים באחת, כן תלה בשנית:
@@ -3747,15 +3707,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 2)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:19:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:19:1)
 
 
-**מעשה שושן באולם.** כי ציורי שבעת הענפים היו מקיפים סביב את חלק העליון מן הכותרת, אולם ממעל, רצה לומר:
-
-
-###### Metzudat David on I Kings 7:19:2
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:19:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:19:2)
-
-
-**השטח הרואה את הכיפה הקרוי אולם, מעשה השטח ההוא היה מעשה שושן.** או רצה לומר: לאחר שהעמידו את העמודים באולם, עשו מנחושת מעשה שושן, וחברו על הכותרת כשהם באולם:
+**מעשה שושן באולם.** כי ציורי שבעת הענפים היו מקיפים סביב את חלק העליון מן הכותרת, אולם ממעל, רצה לומר: השטח הרואה את הכיפה הקרוי אולם, מעשה השטח ההוא היה מעשה שושן. או רצה לומר: לאחר שהעמידו את העמודים באולם, עשו מנחושת מעשה שושן, וחברו על הכותרת כשהם באולם:
 
 
 ###### Metzudat David on I Kings 7:19:3
@@ -3906,20 +3858,12 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 2)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:24:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:24:1)
 
 
-**מתחת לשפתו.** רוצה לומר:
+**מתחת לשפתו.** רוצה לומר: בשלש אמות התחתונות, כי שתי האמות עליונות היו עגולות, ושלש התחתונות היו מרובעות, כן אמרו רבותינו ז״ל בעירובין (יד ב). והפקעים ההם היו במקום רבועו, וזה שנאמר עשר באמה מקיפים וכו׳, ורצה לומר: ארבע הפאות שבכל אחת עשר אמות, היו הפקעים מקיפים וכו׳:
 
 
 ###### Metzudat David on I Kings 7:24:2
 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:24:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:24:2)
-
-
-**בשלש אמות התחתונות, כי שתי האמות עליונות היו עגולות, ושלש התחתונות היו מרובעות, כן אמרו רבותינו ז״ל בעירובין (יד ב).** והפקעים ההם היו במקום רבועו, וזה שנאמר עשר באמה מקיפים וכו׳, ורצה לומר: ארבע הפאות שבכל אחת עשר אמות, היו הפקעים מקיפים וכו׳:
-
-
-###### Metzudat David on I Kings 7:24:3
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:24:3](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:24:3)
 
 
 **שני טורים הפקעים וגו׳.** הפקעים היו שני טורים, והיו נצוקים עם יציקת הים ביחד, לא בפני עצמם וחברם אחר זה אל הים:
@@ -4200,7 +4144,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 2)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:34:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:34:1)
 
 
-**וארבע כתפות.** רצה לומר: ארבעת הכתפות האמור למעלה, אשר היו בארבע פנות הכן שעל המכונה, הנה הכתפות ההם יצאו ממנו, כי ביציקה אחת יצקם, ולא יצקם בפני עצמם וחברם אחד זה אל הכן:
+**וארבע כתפות.** רצה לומר: ארבעת הכתפות האמור למעלה, אשר היו בארבע פנות הכן שעל המכונה, הנה הכתפות ההם יצאו ממנו, כי ביציקה אחת יצקם, ולא יצקם בפני עצמם וחברם אחר זה אל הכן:
 
 
 
@@ -4238,7 +4182,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 2)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:36:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:36:1)
 
 
-**ויפתח על הלוחות.** עשה פתוחים וציורים על הנסרים המונחים בשולי המכונה, גם עשה פתוחים על הידות, במקום המונח ודבק במכונה, ואף על מסגרותיה היא המחיצה הנמוכה, על כולם עשה פתוחי כרובים, אריות, ואילני תמד, וכחבורי איש ולויה שלו, רצה לומר: בת זוגו (יומא נד א), כן צייר כל אחד מסביב:
+**ויפתח על הלוחות.** עשה פתוחים וציורים על הנסרים המונחים בשולי המכונה, גם עשה פתוחים על הידות, במקום המונח ודבק במכונה, ואף על מסגרותיה היא המחיצה הנמוכה, על כולם עשה פתוחי כרובים, אריות, ואילני תמר, וכחבורי איש ולויה שלו, רצה לומר: בת זוגו (יומא נד א), כן צייר כל אחד מסביב:
 
 
 
@@ -4420,7 +4364,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 2)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:49:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:49:1)
 
 
-**חמש מימין.** רוצה לומר: מימין מנורת משה, אבל כולם העמיד בדרום, שהתורה אמרה בה (שמות כו לה): על צלע המשכון תימנה:
+**חמש מימין.** רוצה לומר: מימין מנורת משה, אבל כולם העמיד בדרום, שהתורה אמרה בה (שמות כו לה): על צלע המשכן תימנה:
 
 
 ###### Metzudat David on I Kings 7:49:2
@@ -4458,7 +4402,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 2)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:51:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/7:51:1)
 
 
-**את קדשי.** מה שהקדיש דוד אביו וכו׳, כי כל הבנין וכליו עשה שלמה משלו, ממה שקבץ הוא [ לבד כלי נחושת, עשה ממה שלקח אביו מערי הדדעזר, כמו שנאמר בדברי הימים א יח ]:
+**את קדשי.** מה שהקדיש דוד אביו וכו׳, כי כל הבנין וכליו עשה שלמה משלו, ממה שקבץ הוא [לבד כלי נחושת, עשה ממה שלקח אביו מערי הדדעזר, כמו שנאמר בדברי הימים א יח]:
 
 
 ###### Metzudat David on I Kings 7:51:2
@@ -4723,9 +4667,12 @@ but I chose David – Because at his hands came the preparation for the choice o
 **הטיבות וכו׳.** טוב עשית בזה, ולזכות תחשב, כי על ידו באה ההכנה לצוות עליה ולהכין הכל:
 
 
-###### Metzudat David on I Kings 8:18:2
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/8:18:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/8:18:2)
+### Verse 19
+
+###### Metzudat David on I Kings 8:19:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/8:19:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/8:19:1)
 
 
 **רק אתה וגו׳.** עם שתכין הכל:
@@ -5506,7 +5453,7 @@ but I chose David – Because at his hands came the preparation for the choice o
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/9:8:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/9:8:1)
 
 
-**יהיה עליון ; כמו היה עליון, עתיד במקום עבר, ורצה לומר: הבית שהיה עליון וחשוב יהיה חרב, וכל עובר יתמה על חורבנו: ואמרו.** אלו לאלו:
+**יהיה עליון.** כמו היה עליון, עתיד במקום עבר, ורצה לומר: הבית שהיה עליון וחשוב יהיה חרב, וכל עובר יתמה על חורבנו: ואמרו. אלו לאלו:
 
 
 
@@ -5629,7 +5576,7 @@ but I chose David – Because at his hands came the preparation for the choice o
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/9:23:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/9:23:2)
 
 
-**חמשים וחמש מאות.** שלש מאות היו מן הגבעונים, ור״ן היו מבני ישראל [ והם היו ממונים על ממוני שאר מלאכת המלך, זולת ממוני נושאי הסבל וחוצבים בהר שאמר למעלה ] ובדברי הימים חשב של ישראל לבדן:
+**חמשים וחמש מאות.** שלש מאות היו מן הגבעונים, ור״ן היו מבני ישראל [והם היו ממונים על ממוני שאר מלאכת המלך, זולת ממוני נושאי הסבל וחוצבים בהר שאמר למעלה] ובדברי הימים חשב של ישראל לבדן:
 
 
 
@@ -5879,15 +5826,18 @@ but I chose David – Because at his hands came the preparation for the choice o
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/10:13:3](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/10:13:3)
 
 
-**כיד המלך שלמה.** רצה לומר:
+**כיד המלך שלמה.** רצה לומר: בנדיבת רב, כראוי למלך שלמה:
 
 
-###### Metzudat David on I Kings 10:13:4
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/10:13:4](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/10:13:4)
+### Verse 14
+
+###### Metzudat David on I Kings 10:14:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/10:14:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/10:14:1)
 
 
-**בנדיבת רב, כראוי למלך שלמה.** (יד) אשר בא מאופיר:
+**אשר בא.** מאופיר:
 
 
 
@@ -6004,7 +5954,7 @@ but I chose David – Because at his hands came the preparation for the choice o
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/10:22:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/10:22:1)
 
 
-**למלך בים.** המלך היה לו בים אניה הולכת תרשיש, כאחת ויחד עם אני חירם מלך צור, ואחת לשלש שנים תבוא האניה מן תרשיש [ ויתכן שאין זה אופיר האמור למעלה, ולשני המקומות שלח אניות ]:
+**למלך בים.** המלך היה לו בים אניה הולכת תרשיש, כאחת ויחד עם אני חירם מלך צור, ואחת לשלש שנים תבוא האניה מן תרשיש [ויתכן שאין זה אופיר האמור למעלה, ולשני המקומות שלח אניות]:
 
 
 
@@ -6552,20 +6502,12 @@ and closed up – that is to say, from the beginning the wall of the city of Dav
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/11:36:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/11:36:1)
 
 
-**ניר.** רצה לומר: מלך מושל, וכן הוא אומר (תהלים קלב יז):
+**ניר.** רצה לומר: מלך מושל, וכן הוא אומר (תהלים קלב יז): ערכתי נר למשיחי. ויקרא המלך כן, על שם שמשפיע ומאיר, ובאורו נראה אור:
 
 
 ###### Metzudat David on I Kings 11:36:2
 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/11:36:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/11:36:2)
-
-
-**ערכתי נר למשיחי.** ויקרא המלך כן, על שם שמשפיע ומאיר, ובאורו נראה אור:
-
-
-###### Metzudat David on I Kings 11:36:3
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/11:36:3](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/11:36:3)
 
 
 **לדוד עבדי.** להיות מזרעו מלך מושל:
@@ -7851,7 +7793,18 @@ and closed up – that is to say, from the beginning the wall of the city of Dav
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/15:5:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/15:5:2)
 
 
-**רק בדבר אוריה.** כי בבת שבע לא חטא, כי כל היוצא למלחמת בית דוד, גט כריתות כותב לאשתו (ו) ומלחמה היתה. רוצה לומר, המלחמה שהיתה בין רחבעם לירבעם, היתה כל ימי חייו של אבים, רוצה לומר: מעת היותו לאיש, כי הוא היה היוצא והבא במלחמה:
+**רק בדבר אוריה.** כי בבת שבע לא חטא, כי כל היוצא למלחמת בית דוד, גט כריתות כותב לאשתו
+
+
+
+### Verse 6
+
+###### Metzudat David on I Kings 15:6:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/15:6:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/15:6:1)
+
+
+**ומלחמה היתה.** רוצה לומר, המלחמה שהיתה בין רחבעם לירבעם, היתה כל ימי חייו של אבים, רוצה לומר: מעת היותו לאיש, כי הוא היה היוצא והבא במלחמה:
 
 
 
@@ -8109,11 +8062,11 @@ and closed up – that is to say, from the beginning the wall of the city of Dav
 
 
 
-### Verse 31
+### Verse 32
 
-###### Metzudat David on I Kings 15:31:1
+###### Metzudat David on I Kings 15:32:1
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/15:31:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/15:31:1)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/15:32:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/15:32:1)
 
 
 **ומלחמה היתה.** עם שכבר נאמר למעלה, בא עתה לומר אף שאסא היה צדיק גמור, ובעשא הלא הטיב לעשות להשמיד בית ירבעם, עם כל זאת לא נמנע אסא מלהלחם עמו, על כן גם הוא עשה הרע כאשר יאמר למטה, ולא נחשב לו אם כן לזכות מה שהשמיד בית ירבעם:
@@ -8429,7 +8382,7 @@ and closed up – that is to say, from the beginning the wall of the city of Dav
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/16:34:3](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/16:34:3)
 
 
-**כדבר ה׳ וכו׳.** שאמר יהושע לפני ה׳ (יהושע ו כו): ארור האיש וכו׳ בבכורו ייסדנה ובצעירו יציב דלתיה [ ואף כי יריחו היתה בגבול בנימין ממלכות יהודה אמר, ׳בימיו׳ ותלה בו, לומר שכל זה ראה ולא לקח מוסר ]:
+**כדבר ה׳ וכו׳.** שאמר יהושע לפני ה׳ (יהושע ו כו): ארור האיש וכו׳ בבכורו ייסדנה ובצעירו יציב דלתיה [ואף כי יריחו היתה בגבול בנימין ממלכות יהודה אמר, ׳בימיו׳ ותלה בו, לומר שכל זה ראה ולא לקח מוסר]:
 
 
 
@@ -8443,7 +8396,7 @@ and closed up – that is to say, from the beginning the wall of the city of Dav
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/17:1:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/17:1:1)
 
 
-**ויאמר אליהו וכו׳.** אמרו רבותינו ז״ל (ירושלמי סנהדרין י ב): כאשר מתו בני חיאל בית האלי, הלכו אחאב ואליהו לנחמו, ואמר אליהו לחיאל שמתו בניו בדבר קללת יהושע, והשיב אחאב ומדוע לא יקוים קללת משה רבו, שאמר (דברים יא טז):
+**ויאמר אליהו וכו׳.** אמרו רבותינו ז״ל (ירושלמי סנהדרין י ב): כאשר מתו בני חיאל בית האלי, הלכו אחאב ואליהו לנחמו, ואמר אליהו לחיאל שמתו בניו בדבר קללת יהושע, והשיב אחאב ומדוע לא יקוים קללת משה רבו, שאמר (דברים יא טז): ועבדתם אלהים אחרים וכו׳ ועצר את השמים. והלא כולם עובדי כוכבים, ואין הגשמים נעצרים מיד קפץ אליהו ונשבע שיעצר טל ומטר:
 
 
 ###### Metzudat David on I Kings 17:1:2
@@ -8451,7 +8404,7 @@ and closed up – that is to say, from the beginning the wall of the city of Dav
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/17:1:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/17:1:2)
 
 
-**ועבדתם אלהים אחרים וכו׳ ועצר את השמים.** והלא כולם עובדי כוכבים, ואין הגשמים נעצרים מיד קפץ אליהו ונשבע שיעצר טל ומטר:
+**חי ה׳.** הוא ענין שבועה, לומר כשם שה׳ חי וכו׳:
 
 
 ###### Metzudat David on I Kings 17:1:3
@@ -8459,7 +8412,7 @@ and closed up – that is to say, from the beginning the wall of the city of Dav
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/17:1:3](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/17:1:3)
 
 
-**חי ה׳.** הוא ענין שבועה, לומר כשם שה׳ חי וכו׳:
+**אשר עמדתי לפניו.** אשר אני רגיל לעמוד לפניו בתפלה:
 
 
 ###### Metzudat David on I Kings 17:1:4
@@ -8467,15 +8420,7 @@ and closed up – that is to say, from the beginning the wall of the city of Dav
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/17:1:4](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/17:1:4)
 
 
-**אשר עמדתי לפניו.** אשר אני רגיל לעמוד לפניו בתפלה:
-
-
-###### Metzudat David on I Kings 17:1:5
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/17:1:5](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/17:1:5)
-
-
-**כי אם לפי דברי.** כי אם לשעור הזמן שאדבר [ בתחלה ] (בתפלה) שיהיה:
+**כי אם לפי דברי.** כי אם לשעור הזמן שאדבר [בתחלה] (בתפלה) שיהיה:
 
 
 
@@ -8950,19 +8895,19 @@ and closed up – that is to say, from the beginning the wall of the city of Dav
 
 
 
-### Verse 23
+### Verse 22
 
-###### Metzudat David on I Kings 18:23:1
+###### Metzudat David on I Kings 18:22:1
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/18:23:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/18:23:1)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/18:22:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/18:22:1)
 
 
 **אני נותרתי.** כי מאה הנביאים אשר החביאם עובדיה, לא היו ידועים להם:
 
 
-###### Metzudat David on I Kings 18:23:2
+###### Metzudat David on I Kings 18:22:2
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/18:23:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/18:23:2)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/18:22:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/18:22:2)
 
 
 **ונביאי וכו׳.** רצה לומר: עם שאני יחידי והמה מרובים, עם כל זאת נראה עתה תפלת מי תקובל:
@@ -9570,7 +9515,7 @@ and closed up – that is to say, from the beginning the wall of the city of Dav
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/19:11:3](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/19:11:3)
 
 
-**ורוח גדולה.** תרגום יונתן:
+**ורוח גדולה.** תרגום יונתן: משרית מלאכי רוחא. רצה לומר: מחנה מן מלאכי רוח עברו לפני ה׳, עד לא עבר כבוד השכינה:
 
 
 ###### Metzudat David on I Kings 19:11:4
@@ -9578,7 +9523,7 @@ and closed up – that is to say, from the beginning the wall of the city of Dav
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/19:11:4](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/19:11:4)
 
 
-**משרית מלאכי רוחא.** רצה לומר: מחנה מן מלאכי רוח עברו לפני ה׳, עד לא עבר כבוד השכינה:
+**לא ברוח ה׳.** רצה לומר: בא אליו קול הנבואה ואמרה, שאין כבוד השכינה עוברת במחנה מלאכי הרוח:
 
 
 ###### Metzudat David on I Kings 19:11:5
@@ -9586,20 +9531,12 @@ and closed up – that is to say, from the beginning the wall of the city of Dav
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/19:11:5](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/19:11:5)
 
 
-**לא ברוח ה׳.** רצה לומר: בא אליו קול הנבואה ואמרה, שאין כבוד השכינה עוברת במחנה מלאכי הרוח:
+**רעש.** תרגם יונתן: משרית מלאכי זיעא:
 
 
 ###### Metzudat David on I Kings 19:11:6
 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/19:11:6](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/19:11:6)
-
-
-**רעש.** תרגם יונתן: משרית מלאכי זיעא:
-
-
-###### Metzudat David on I Kings 19:11:7
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/19:11:7](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/19:11:7)
 
 
 **לא ברעש ה׳.** קול הנבואה אמרה, לא ברעש ה׳:
@@ -9724,7 +9661,7 @@ and closed up – that is to say, from the beginning the wall of the city of Dav
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/19:17:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/19:17:1)
 
 
-**והיה הנמלט.** לפי שבקש נקמה מישראל, צוה לו המקום למשוח אלו, והם יהיו השלוחים בדבר הנקם, כי חזאל ירבה להשמידם, והנמלט ממנו ימית יהוא, כי יהרוג כל בית אחאב וכל עובדי הבעל [ ואף שיהוא הרגם טרם מלוך חזאל, עם כל זאת אמר לשון נמלט, כי אילו לא המיתם יהוא, היו נמלטים מחרב חזאל, על כי המה אין מדרכם לרדת במלחמה, להיות הם נהרגים ביד חזאל ]:
+**והיה הנמלט.** לפי שבקש נקמה מישראל, צוה לו המקום למשוח אלו, והם יהיו השלוחים בדבר הנקם, כי חזאל ירבה להשמידם, והנמלט ממנו ימית יהוא, כי יהרוג כל בית אחאב וכל עובדי הבעל [ואף שיהוא הרגם טרם מלוך חזאל, עם כל זאת אמר לשון נמלט, כי אילו לא המיתם יהוא, היו נמלטים מחרב חזאל, על כי המה אין מדרכם לרדת במלחמה, להיות הם נהרגים ביד חזאל]:
 
 
 ###### Metzudat David on I Kings 19:17:2
@@ -9841,7 +9778,18 @@ and closed up – that is to say, from the beginning the wall of the city of Dav
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/20:4:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/20:4:1)
 
 
-**כדברך.** כאשר דברת כן הוא, כי חשב שכל שאלת בן הדד היה להיות הכל תחת ממשלתו, ולהטיל עליהם המס ושעבוד, ולעשר כספו וזהבו, ולכן הודה לו (ה) כי שלחתי וכו׳ לי תתן. רצה לומר: לבבי לא כן ידמה, כי מה ששלחתי אליך וכו׳, הכוונה ההיא אשר תתן אותם לי:
+**כדברך.** כאשר דברת כן הוא, כי חשב שכל שאלת בן הדד היה להיות הכל תחת ממשלתו, ולהטיל עליהם המס ושעבוד, ולעשר כספו וזהבו, ולכן הודה לו:
+
+
+
+### Verse 5
+
+###### Metzudat David on I Kings 20:5:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/20:5:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/20:5:1)
+
+
+**כי שלחתי וכו׳ לי תתן.** רצה לומר: לבבי לא כן ידמה, כי מה ששלחתי אליך וכו׳, הכוונה ההיא אשר תתן אותם לי:
 
 
 
@@ -10121,7 +10069,7 @@ and closed up – that is to say, from the beginning the wall of the city of Dav
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/20:23:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/20:23:1)
 
 
-**אלהי הרים אלהיהם.** אלהי ישראל מושל בהרים לבד [ ויתכן שחשבו כזאת, על אשר נתן התורה לישראל על ההר ]:
+**אלהי הרים אלהיהם.** אלהי ישראל מושל בהרים לבד [ויתכן שחשבו כזאת, על אשר נתן התורה לישראל על ההר]:
 
 
 ###### Metzudat David on I Kings 20:23:2
@@ -10295,20 +10243,31 @@ and closed up – that is to say, from the beginning the wall of the city of Dav
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/20:34:3](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/20:34:3)
 
 
-**ואני בברית.** זה מדברי אחאב שהשיב ואמר לו, כאשר תכרות לי ברית על זה, אז אשלחך לנפשך (לה) מבני הנביאים. הוא מיכיהו בן ימלה (סנהדרין פט ב):
+**ואני בברית.** זה מדברי אחאב שהשיב ואמר לו, כאשר תכרות לי ברית על זה, אז אשלחך לנפשך:
 
 
-###### Metzudat David on I Kings 20:34:4
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/20:34:4](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/20:34:4)
+### Verse 35
+
+###### Metzudat David on I Kings 20:35:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/20:35:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/20:35:1)
+
+
+**מבני הנביאים.** הוא מיכיהו בן ימלה (סנהדרין פט ב):
+
+
+###### Metzudat David on I Kings 20:35:2
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/20:35:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/20:35:2)
 
 
 **בדבר ה׳.** בשליחתו של ה׳:
 
 
-###### Metzudat David on I Kings 20:34:5
+###### Metzudat David on I Kings 20:35:3
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/20:34:5](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/20:34:5)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/20:35:3](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/20:35:3)
 
 
 **הכיני נא.** הוא למשל על אחאב, שנצטוה להרוג את בן הדד:
@@ -10496,15 +10455,7 @@ and closed up – that is to say, from the beginning the wall of the city of Dav
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/21:5:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/21:5:1)
 
 
-**רוחך סרה.** סר ממך הרצון והדבור, כמו (במדבר יד כד):
-
-
-###### Metzudat David on I Kings 21:5:2
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/21:5:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/21:5:2)
-
-
-**רוח אחרת.** וכמו (ישעיהו יא ד): ברוח שפתיו:
+**רוחך סרה.** סר ממך הרצון והדבור, כמו (במדבר יד כד): רוח אחרת. וכמו (ישעיהו יא ד): ברוח שפתיו:
 
 
 
@@ -10885,15 +10836,7 @@ and closed up – that is to say, from the beginning the wall of the city of Dav
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/22:11:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/22:11:2)
 
 
-**באלה.** רצה לומר:
-
-
-###### Metzudat David on I Kings 22:11:3
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/22:11:3](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/22:11:3)
-
-
-**התחזק להתגבר עליהם, כאילו תנגח אותם בקרני ברזל.** וכן היה דרך נביאי ה׳, לעשות דמיונות ודוגמא לדברי הנבואה:
+**באלה.** רצה לומר: התחזק להתגבר עליהם, כאילו תנגח אותם בקרני ברזל. וכן היה דרך נביאי ה׳, לעשות דמיונות ודוגמא לדברי הנבואה:
 
 
 
@@ -10994,7 +10937,7 @@ and closed up – that is to say, from the beginning the wall of the city of Dav
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/22:20:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/22:20:1)
 
 
-**מי יפתה.** על כי נגמר הדין לחובה, אמר מי יפתנו לעלות למלחמה, לקבל שם העונש [ וכל הדברים האלה נאמרו במשל, להסביר את האוזן, כדרך מנהגי בני אדם ]:
+**מי יפתה.** על כי נגמר הדין לחובה, אמר מי יפתנו לעלות למלחמה, לקבל שם העונש [וכל הדברים האלה נאמרו במשל, להסביר את האוזן, כדרך מנהגי בני אדם]:
 
 
 ###### Metzudat David on I Kings 22:20:2
@@ -11141,15 +11084,7 @@ and closed up – that is to say, from the beginning the wall of the city of Dav
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/22:30:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/22:30:1)
 
 
-**התחפש ובוא.** רצה לומר:
-
-
-###### Metzudat David on I Kings 22:30:2
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/22:30:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/22:30:2)
-
-
-**לי ראוי להתחפש ולבוא במלחמה, מתנכר בשינוי בגדים, לבל יכירו בי אנשי ארם, אבל אתה תוכל ללבוש בגדיך המיוחדים לך, כי אין לך לפחוד אם יכירוך, כי הנביא לא ניבא הרעה, כי אם עלי ולא על זולתי.** ואף שלא האמין להנביא, מכל מקום חשש לדבריו:
+**התחפש ובוא.** רצה לומר: לי ראוי להתחפש ולבוא במלחמה, מתנכר בשינוי בגדים, לבל יכירו בי אנשי ארם, אבל אתה תוכל ללבוש בגדיך המיוחדים לך, כי אין לך לפחוד אם יכירוך, כי הנביא לא ניבא הרעה, כי אם עלי ולא על זולתי. ואף שלא האמין להנביא, מכל מקום חשש לדבריו:
 
 
 
@@ -11287,15 +11222,7 @@ and closed up – that is to say, from the beginning the wall of the city of Dav
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/22:38:3](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/22:38:3)
 
 
-**כדבר ה׳.** שאמר (לעיל כא יט):
-
-
-###### Metzudat David on I Kings 22:38:4
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/22:38:4](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Kings/r/22:38:4)
-
-
-**במקום אשר לקקו וכו׳ ילוקו וכו׳.** וידמה שהמקום ההוא היה קרוב ליזרעאל, מקום שהומת נבות, ובא שמה הדם עם מרוצת המים:
+**כדבר ה׳.** שאמר (לעיל כא יט): במקום אשר לקקו וכו׳ ילוקו וכו׳. וידמה שהמקום ההוא היה קרוב ליזרעאל, מקום שהומת נבות, ובא שמה הדם עם מרוצת המים:
 
 
 

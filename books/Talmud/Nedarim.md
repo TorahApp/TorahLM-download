@@ -11043,7 +11043,7 @@ For **one who vows** that **produce of the land** is forbidden **to** him, it **
 [https://torahapp.org/share/book/Nedarim/r/55b:5](https://torahapp.org/share/book/Nedarim/r/55b:5)
 
 
-**מַתְנִי׳** הַנּוֹדֵר מִן הַכְּסוּת מוּתָּר בְּשַׂק, וּבִירִיעָה, וּבַחֲמִילָה. אָמַר: ״קֻוֽנָּם צֶמֶר עוֹלֶה עָלַי״ — מוּתָּר לְהִתְכַּסּוֹת בְּגִיזֵּי צֶמֶר. ״הַפִּשְׁתָּן עוֹלֶה עָלַי״ — מוּתָּר לְהִתְכַּסּוֹת בַּאֲנִיצֵי פִּשְׁתָּן.
+**מַתְנִי׳** הַנּוֹדֵר מִן הַכְּסוּת מוּתָּר בְּשַׂק, וּבִירִיעָה, וּבַחֲמִילָה. אָמַר: ״קֻנָּם צֶמֶר עוֹלֶה עָלַי״ — מוּתָּר לְהִתְכַּסּוֹת בְּגִיזֵּי צֶמֶר. ״הַפִּשְׁתָּן עוֹלֶה עָלַי״ — מוּתָּר לְהִתְכַּסּוֹת בַּאֲנִיצֵי פִּשְׁתָּן.
 
 
 **MISHNA:** For **one who vows** that a **garment** is forbidden **to** him, it **is permitted to** wear **sackcloth, and to** wear **a sheet, and to** wear **a coarse curtain [*ḥamila*],** as these are not in the category of garments. For one who **said: Wool is *konam*** for me and I will therefore not **place it upon myself,** it **is permitted** for him **to cover himself with wool fleece,** which is not considered a garment, and it is prohibited for him to wear only a woolen fabric. For one who said: **Flax is *konam*** for me and I will therefore not **place it upon myself,** it **is permitted** for him **to cover himself with** uncombed **flax in bundles,** and it is prohibited for him to wear only a flaxen fabric.
@@ -11054,7 +11054,7 @@ For **one who vows** that **produce of the land** is forbidden **to** him, it **
 [https://torahapp.org/share/book/Nedarim/r/55b:6](https://torahapp.org/share/book/Nedarim/r/55b:6)
 
 
-רַבִּי יְהוּדָה אוֹמֵר, הַכֹּל לְפִי הַנּוֹדֵר: טָעַן וְהִזִּיעַ וְהָיָה רֵיחוֹ קָשֶׁה, אָמַר: ״קֻוֽנָּם צֶמֶר וּפִשְׁתִּים עוֹלֶה עָלַי״ — מוּתָּר לְהִתְכַּסּוֹת, וְאָסוּר לְהַפְשִׁיל לַאֲחוֹרָיו.
+רַבִּי יְהוּדָה אוֹמֵר, הַכֹּל לְפִי הַנּוֹדֵר: טָעַן וְהִזִּיעַ וְהָיָה רֵיחוֹ קָשֶׁה, אָמַר: ״קֻנָּם צֶמֶר וּפִשְׁתִּים עוֹלֶה עָלַי״ — מוּתָּר לְהִתְכַּסּוֹת, וְאָסוּר לְהַפְשִׁיל לַאֲחוֹרָיו.
 
 
 **Rabbi Yehuda says: Everything is** determined **according to the one who vows.** If **one was bearing** a burden of wool and linen, **and was sweating, and its smell was unpleasant** for him, and in reaction, **he said: Wool and linen are *konam*** for me and I will therefore not **place them upon myself,** it **is permitted** for him **to cover himself** with wool and linen garments, **but** it **is prohibited** for him **to sling** them over his shoulder **behind him** as a burden. The circumstances of his vow make it clear that he intends to forswear carrying wool and linen as a burden rather than the wearing of them as a garment.
@@ -11087,7 +11087,7 @@ For **one who vows** that **produce of the land** is forbidden **to** him, it **
 [https://torahapp.org/share/book/Nedarim/r/55b:9](https://torahapp.org/share/book/Nedarim/r/55b:9)
 
 
-רַבִּי יְהוּדָה אוֹמֵר הַכֹּל לְפִי הַנּוֹדֵר כּוּ׳. תַּנְיָא: כֵּיצַד אָמַר רַבִּי יְהוּדָה הַכֹּל לְפִי הַנּוֹדֵר? הָיָה לָבוּשׁ צֶמֶר וְהֵצַר, וְאָמַר ״קֻוֽנָּם צֶמֶר עוֹלֶה עָלַי״ — אָסוּר לִלְבּוֹשׁ וּמוּתָּר לִטְעוֹן. הָיָה טָעוּן פִּשְׁתָּן וְהִזִּיעַ, וְאָמַר: ״קֻוֽנָּם פִּשְׁתָּן עוֹלֶה עָלַי״ — מוּתָּר לִלְבּוֹשׁ וְאָסוּר לִטְעוֹן.
+רַבִּי יְהוּדָה אוֹמֵר הַכֹּל לְפִי הַנּוֹדֵר כּוּ׳. תַּנְיָא: כֵּיצַד אָמַר רַבִּי יְהוּדָה הַכֹּל לְפִי הַנּוֹדֵר? הָיָה לָבוּשׁ צֶמֶר וְהֵצַר, וְאָמַר ״קֻנָּם צֶמֶר עוֹלֶה עָלַי״ — אָסוּר לִלְבּוֹשׁ וּמוּתָּר לִטְעוֹן. הָיָה טָעוּן פִּשְׁתָּן וְהִזִּיעַ, וְאָמַר: ״קֻנָּם פִּשְׁתָּן עוֹלֶה עָלַי״ — מוּתָּר לִלְבּוֹשׁ וְאָסוּר לִטְעוֹן.
 
 
 § We learned in the mishna that **Rabbi Yehuda says: Everything is** determined **according to the one who vows. It is taught** in a *baraita*: **How,** i.e., in what circumstances, did **Rabbi Yehuda say: Everything is according to the one who vows?** If **one was wearing** a **woolen** garment **and it caused him discomfort, and** in reaction **he said: Wool is *konam*** for me, and I will therefore not **place it upon myself,** it **is prohibited** for him **to wear** woolen garments, **but** it **is permitted to place** a burden of woolen garments upon him. If **one was burdened with flax and was sweating, and said: Flax is *konam*** for me, and I will therefore not **place it upon myself,** it **is permitted** for him **to wear** flaxen garments **and** it **is prohibited** for him **to place** a burden of flaxen garments upon him.

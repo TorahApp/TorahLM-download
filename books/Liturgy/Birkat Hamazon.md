@@ -14,7 +14,7 @@ Location: Liturgy/Other Liturgy Works
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Sheva Brachot (Segments: 65, License: unknown)
+Version (He): Brit Mila Additions  (Segments: 65, License: Public Domain)
 
 Version (En): The Holy Scriptures, published by JPS -- Chapter 137 (Segments: 63)
 

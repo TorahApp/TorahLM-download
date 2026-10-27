@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Ibn Ezra on Proverbs -- Daat (Segments: 1349, License: Public Domain)
 
-Version (En): Ibn Ezra on Proverbs -- Daat (Segments: 21)
+Version (En): Ibn Ezra on Proverbs -- Daat (Segments: 20)
 
 
 ## Chapter 1
@@ -11117,6 +11117,14 @@ The rich man's wealth is like a fortress that will save him from moments of trou
 מחיר כסף - חלוף כמו כסף מחיר זה ולפי דעתי ממנו מחיר כלב חלוף ותמורה, ונראה מהיום שעבר וכן הפירוש פני צאנך אשר שמו פניהם ללכת שם.
 
 
+###### Ibn Ezra on Proverbs 27:26:2
+
+[https://torahapp.org/share/book/Ibn%20Ezra%20on%20Proverbs/r/27:26:2](https://torahapp.org/share/book/Ibn%20Ezra%20on%20Proverbs/r/27:26:2)
+
+
+שית לבך - שלא תשכחם ואל תשת לבך אל מעלה גדולה, כי לא לעולם קיימים האוצר והמלוכה, נראה הדשאים והעשבים יאספו עמך ויהיו מאכל לצאנך והכבשים יהיו בעבור מלבושיך ועתודים חלף שדה והחלב כענין מאכלך, ומאכל בני ביתך וחיים שתחיינה בו נערותיך.
+
+
 
 ## Chapter 28
 
@@ -12098,17 +12106,6 @@ The rich man's wealth is like a fortress that will save him from moments of trou
 **Itiel and Uchal** — were sages, fellows or students of Agur.
 
 
-###### Ibn Ezra on Proverbs 30:1:7
-
-[https://torahapp.org/share/book/Ibn%20Ezra%20on%20Proverbs/r/30:1:7](https://torahapp.org/share/book/Ibn%20Ezra%20on%20Proverbs/r/30:1:7)
-
-
-פרוש אחר: בן יקה - בן יקהת עמים, כי בשביל דוד נאמר לבן: שלמה בן יקה וקהלת ואגור - הוא נאם הגבר לאיתיאל בדבר הנשים והסוסים שאמר: ארבה ולא אסור לבבי ואוכל, כי בער, איתיאל מתנחם אח"כ ואמר: עשיתי כמי שלא למד חכמה ולא ידע דעת שחקים ובקש קהלת שידע במשפט להצדיק ולהרשיע בלא עדים ולא אמרה תורה אלא על פי עדים, ועל זה נאמר: בקש קהלת וגו' שיענה מן השמים ולא היה לו כן, או אמר וכתוב: יושר דברי אמת, בשביל התורה כל אמרת אלוה צרופה אל תוסף וגומר, ואני לא שאלתי דבר נכון ששאלתי דבר שלא היה לי לישאל, כיצד היה לו למשה שעלה שמים וירד ואהרן שאסף רוח שנא' ויעמוד בין החיים ובין המתים ואליהו שצרר מים בשמלה ויהושע שהקים כל אפסי ארץ שמש בגבעון דום?!
-
-
-Another interpretation: **son of Yaqeh —** a son of peoples' obedience (*yiqhat 'amim*). For regarding David it was said of his son, Shlomo, son of Yaqeh, and Qohelet, and Agur — that is, **the saying of the man to Itiel** — about the matter of women and horses (Deuteronomy 17:16-17), as he said: "I will increase, but my heart will not stray, and I am capable,"1 which was foolish. Itiel repented after that and said, "I acted as one who had not learned wisdom nor known heavenly knowledge." And Qohelet sought knowledge in judgment to acquit and convict without witnesses, but the Torah says only with witnesses. And about this it is said **Qohelet sought** (Eccl. 12:10) — i.e. that he be answered from heaven, but it was not so. Or the verse says **upright words of truth** (*ibid.*) for the Torah: **every word of God is forged**, **do not add** etc. (Prov. 30:5-6). "But I did not ask the right thing, for I asked what was not mine to ask." What was he compared to Moses who **went up to heaven and went down** (Prov. 30:4), or Aaron who **gathered the winds** (*ibid.*), as it is said, **and he stood between the living and the dead** (Num. 17:13), or Elijah who **bound the water with a cloak**, or Joshua who **established all the earth's ceasings** — **Sun be still in Gibeon** (Joshua 10:12)!?
-
-
 
 ### Verse 4
 
@@ -12161,26 +12158,15 @@ Another interpretation: **son of Yaqeh —** a son of peoples' obedience (*yiqha
 [https://torahapp.org/share/book/Ibn%20Ezra%20on%20Proverbs/r/30:4:5](https://torahapp.org/share/book/Ibn%20Ezra%20on%20Proverbs/r/30:4:5)
 
 
-מה שמו - כי בניהם לא הגיעו לשמם ולדעתם, אף אני שאני מהם, ועתה שתים שאלתי מעמך.
-
-
-**What is his name —** for their sons did not reach their name and their knowledge, even I, as I am one of them! and now I ask two things of you.
-
-
-###### Ibn Ezra on Proverbs 30:4:6
-
-[https://torahapp.org/share/book/Ibn%20Ezra%20on%20Proverbs/r/30:4:6](https://torahapp.org/share/book/Ibn%20Ezra%20on%20Proverbs/r/30:4:6)
-
-
 מה שמו ומה שם בנו - שידעהו בחכמתו.
 
 
 **What is his name and what is his son's name —** that he know it in his wisdom.
 
 
-###### Ibn Ezra on Proverbs 30:4:7
+###### Ibn Ezra on Proverbs 30:4:6
 
-[https://torahapp.org/share/book/Ibn%20Ezra%20on%20Proverbs/r/30:4:7](https://torahapp.org/share/book/Ibn%20Ezra%20on%20Proverbs/r/30:4:7)
+[https://torahapp.org/share/book/Ibn%20Ezra%20on%20Proverbs/r/30:4:6](https://torahapp.org/share/book/Ibn%20Ezra%20on%20Proverbs/r/30:4:6)
 
 
 כי תדע - אתה אתיאל אדם או בנו, הגד לי שם אחד מהם שידעהו. והטעם: אינו יכול לדעתו ואין בנבראים שידעו בחכמתו.
@@ -12250,6 +12236,17 @@ Another interpretation: **son of Yaqeh —** a son of peoples' obedience (*yiqha
 
 
 ונכזבת - תהי נכזב בהתעסקך בחכמה אחרת זולת חכמת מצותיו ונכזבת כענין: בנים כחשים ונקראו כן ממרים פי השם.
+
+
+###### Ibn Ezra on Proverbs 30:6:4
+
+[https://torahapp.org/share/book/Ibn%20Ezra%20on%20Proverbs/r/30:6:4](https://torahapp.org/share/book/Ibn%20Ezra%20on%20Proverbs/r/30:6:4)
+
+
+פרוש אחר: בן יקה - בן יקהת עמים, כי בשביל דוד נאמר לבן: שלמה בן יקה וקהלת ואגור - הוא נאם הגבר לאיתיאל בדבר הנשים והסוסים שאמר: ארבה ולא אסור לבבי ואוכל, כי בער, איתיאל מתנחם אח"כ ואמר: עשיתי כמי שלא למד חכמה ולא ידע דעת שחקים ובקש קהלת שידע במשפט להצדיק ולהרשיע בלא עדים ולא אמרה תורה אלא על פי עדים, ועל זה נאמר: בקש קהלת וגו' שיענה מן השמים ולא היה לו כן, או אמר וכתוב: יושר דברי אמת, בשביל התורה כל אמרת אלוה צרופה אל תוסף וגומר, ואני לא שאלתי דבר נכון ששאלתי דבר שלא היה לי לישאל, כיצד היה לו למשה שעלה שמים וירד ואהרן שאסף רוח שנא' ויעמוד בין החיים ובין המתים ואליהו שצרר מים בשמלה ויהושע שהקים כל אפסי ארץ שמש בגבעון דום?! מה שמו - כי בניהם לא הגיעו לשמם ולדעתם, אף אני שאני מהם, ועתה שתים שאלתי מעמך.
+
+
+Another interpretation: **son of Yaqeh —** a son of peoples' obedience (*yiqhat 'amim*). For regarding David it was said of his son, Shlomo, son of Yaqeh, and Qohelet, and Agur — that is, **the saying of the man to Itiel** — about the matter of women and horses (Deuteronomy 17:16-17), as he said: "I will increase, but my heart will not stray, and I am capable,"1 which was foolish. Itiel repented after that and said, "I acted as one who had not learned wisdom nor known heavenly knowledge." And Qohelet sought knowledge in judgment to acquit and convict without witnesses, but the Torah says only with witnesses. And about this it is said **Qohelet sought** (Eccl. 12:10) — i.e. that he be answered from heaven, but it was not so. Or the verse says **upright words of truth** (*ibid.*) for the Torah: **every word of God is forged**, **do not add** etc. (Prov. 30:5-6). "But I did not ask the right thing, for I asked what was not mine to ask." What was he compared to Moses who **went up to heaven and went down** (Prov. 30:4), or Aaron who **gathered the winds** (*ibid.*), as it is said, **and he stood between the living and the dead** (Num. 17:13), or Elijah who **bound the water with a cloak**, or Joshua who **established all the earth's ceasings** — **Sun be still in Gibeon** (Joshua 10:12)!? **What is his name —** for their sons did not reach their name and their knowledge, even I, as I am one of them! and now I ask two things of you.
 
 
 
@@ -12363,20 +12360,20 @@ Another interpretation: **son of Yaqeh —** a son of peoples' obedience (*yiqha
 חרבות - העשוקים האביונים.
 
 
-###### Ibn Ezra on Proverbs 30:14:2
-
-[https://torahapp.org/share/book/Ibn%20Ezra%20on%20Proverbs/r/30:14:2](https://torahapp.org/share/book/Ibn%20Ezra%20on%20Proverbs/r/30:14:2)
-
-
-לעלוקה - כענין העקולים והעוותים שעושין הד' דורות, יש בנות ותולדות ד' אשר בם ידינם השם.
-
-
 
 ### Verse 15
 
 ###### Ibn Ezra on Proverbs 30:15:1
 
 [https://torahapp.org/share/book/Ibn%20Ezra%20on%20Proverbs/r/30:15:1](https://torahapp.org/share/book/Ibn%20Ezra%20on%20Proverbs/r/30:15:1)
+
+
+לעלוקה - כענין העקולים והעוותים שעושין הד' דורות, יש בנות ותולדות ד' אשר בם ידינם השם.
+
+
+###### Ibn Ezra on Proverbs 30:15:2
+
+[https://torahapp.org/share/book/Ibn%20Ezra%20on%20Proverbs/r/30:15:2](https://torahapp.org/share/book/Ibn%20Ezra%20on%20Proverbs/r/30:15:2)
 
 
 בנות - תולדות, כלומר שהשם הולידם וכן בנותיו והון טעמו ממון. פרוש אחר: כמו רב לך הונך, ליקהת מן יקהת עמים וטעמו לחבור אם ופירוש: יש דור שאביו יקלל וראוי לכבדו.

@@ -1,6 +1,6 @@
 # Tiferet Shmuel on Sukkah
 
- תפארת שמואל על סוכה
+תפארת שמואל על סוכה
 
 Link: [https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Sukkah](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Sukkah)
 

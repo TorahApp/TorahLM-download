@@ -1,6 +1,6 @@
 # Pilpula Charifta on Makkot
 
- פלפולא חריפתא על מכות
+פלפולא חריפתא על מכות
 
 Link: [https://torahapp.org/share/book/Pilpula%20Charifta%20on%20Makkot](https://torahapp.org/share/book/Pilpula%20Charifta%20on%20Makkot)
 

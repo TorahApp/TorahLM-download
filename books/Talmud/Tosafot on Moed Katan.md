@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Vilna Edition (Segments: 298, License: Public Domain)
 
-Version (En): Vilna Edition (Segments: 16)
+Version (En): R' Mordechai Kornfeld  (Segments: 16)
 
 
 ## Daf 2a

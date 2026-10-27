@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat David/Prophets
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 935, License: Public Domain)
+Version (He): On Your Way (Segments: 937, License: Public Domain)
 
 Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 170)
 
@@ -319,7 +319,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 170)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/1:33:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/1:33:1)
 
 
-**ישבי בית שמש כו׳.** רצה לומר, אבל אותן היושבים בבית שמש וכו׳, אשר לא היו מאנשי הכנעני, הם לבד היו למס לנפתלי, ולא הכנעני שבתוכם ; או יאמר, שהם נתנו המס לכנעני ולא לנפתלי:
+**ישבי בית שמש כו׳.** רצה לומר, אבל אותן היושבים בבית שמש וכו׳, אשר לא היו מאנשי הכנעני, הם לבד היו למס לנפתלי, ולא הכנעני שבתוכם; או יאמר, שהם נתנו המס לכנעני ולא לנפתלי:
 
 
 
@@ -360,7 +360,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 170)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/1:36:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/1:36:1)
 
 
-**וגבול האמורי.** מוסב למעלה, לומר ; וגם גבול האמורי וכו׳ היו למס, עד שלא יוכלו להורישם:
+**וגבול האמורי.** מוסב למעלה, לומר; וגם גבול האמורי וכו׳ היו למס, עד שלא יוכלו להורישם:
 
 
 
@@ -485,7 +485,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 170)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/2:7:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/2:7:1)
 
 
-**ויעבדו העם.** וגם הם הכירו בהטובה ׳ויעבדו:
+**ויעבדו העם.** וגם הם הכירו בהטובה:
 
 
 ###### Metzudat David on Judges 2:7:2
@@ -493,7 +493,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 170)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/2:7:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/2:7:2)
 
 
-**.** את ה׳ כל ימי׳ וכו׳, ומכל מקום מהר שכחו מעשה ה׳ ועשו הרע אחרי מות יהושע והזקנים, כמו שמפרש והולך:
+**ויעבדו את ה׳ כל ימי וכו׳.** ומכל מקום מהר שכחו מעשה ה׳ ועשו הרע אחרי מות יהושע והזקנים, כמו שמפרש והולך:
 
 
 ###### Metzudat David on Judges 2:7:3
@@ -1671,7 +1671,7 @@ He oppressed Israel with a lot of strength.
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/4:14:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/4:14:1)
 
 
-**קום.** רצה לומר, אל תתעכב לעמוד פה לו ; תגבר בהר:
+**קום.** רצה לומר, אל תתעכב לעמוד פה להתגבר בהר:
 
 
 **Up:** That is to say, don't delay yourself, standing here to fortify yourself on the mountain
@@ -3034,7 +3034,7 @@ He oppressed Israel with a lot of strength.
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/6:25:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/6:25:2)
 
 
-**ופד השני.** גם קח פר השני שנתפטם לעבודה זרה זה שבע שנים:
+**ופר השני.** גם קח פר השני שנתפטם לעבודה זרה זה שבע שנים:
 
 
 
@@ -4046,7 +4046,7 @@ He oppressed Israel with a lot of strength.
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/9:15:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/9:15:1)
 
 
-**אס באמת.** לא דרך לעג, לצחק בי לאחר זה:
+**אם באמת.** לא דרך לעג, לצחק בי לאחר זה:
 
 
 ###### Metzudat David on Judges 9:15:2
@@ -5689,7 +5689,7 @@ He oppressed Israel with a lot of strength.
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/13:16:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/13:16:1)
 
 
-**אם תעצרני.** אף אם תעצרני לא אוכל, ורצה לומר, אם כוונתך לעצרני לעשות גדי העזים למאכלי, הנה לא אוכל ; ואם כונתך לעצרני עד שתעשה עולה, הלא ׳לה׳ תעלנה׳, ומה לעצור אותי:
+**אם תעצרני.** אף אם תעצרני לא אוכל, ורצה לומר, אם כוונתך לעצרני לעשות גדי העזים למאכלי, הנה לא אוכל; ואם כונתך לעצרני עד שתעשה עולה, הלא ׳לה׳ תעלנה׳, ומה לעצור אותי:
 
 
 ###### Metzudat David on Judges 13:16:2
@@ -7128,7 +7128,7 @@ He oppressed Israel with a lot of strength.
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/17:7:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/17:7:1)
 
 
-**מבית לחם יהודה.** לפי שגם בנחלת זבולון היתה עיר הקרויה גם כן בית לחם, כמו שכתוב ביהושע (יט טו), לזה אמר ׳מבית לחם יהודה׳ ; ולתוספת ביאור אמר ׳ממשפחת יהודה׳, ורצה לומר, העיר בית לחם היתה מנחלת משפחת יהודה:
+**מבית לחם יהודה.** לפי שגם בנחלת זבולון היתה עיר הקרויה גם כן בית לחם, כמו שכתוב ביהושע (יט טו), לזה אמר ׳מבית לחם יהודה׳; ולתוספת ביאור אמר ׳ממשפחת יהודה׳, ורצה לומר, העיר בית לחם היתה מנחלת משפחת יהודה:
 
 
 ###### Metzudat David on Judges 17:7:2
@@ -7467,7 +7467,7 @@ He oppressed Israel with a lot of strength.
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/18:10:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/18:10:3)
 
 
-**אין שם מחסור וגו׳.** רצה לומר, עם שאינה מארץ ישראל, מכל מקום אין נחסר בה ממה שיש בארץ ישראל ; או רצה לומר, לא נחסר בה מכל דבר שיש בעולם:
+**אין שם מחסור וגו׳.** רצה לומר, עם שאינה מארץ ישראל, מכל מקום אין נחסר בה ממה שיש בארץ ישראל; או רצה לומר, לא נחסר בה מכל דבר שיש בעולם:
 
 
 
@@ -8156,7 +8156,7 @@ Jebus, which was Jerusalem – There was a district within Jerusalem which was c
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/19:19:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/19:19:3)
 
 
-**ולנער עם עבדיך.** להנער אשר עם עבדיך, ואת עצמו ופילגשו קרא עבדיו בדרך המוסר, וכמו שאמר ׳ולאמתך׳ על פילגשו ; או אמר שיש בידו להאכיל לנערו עם עבדיו, ועל עבדי האיש הזקן אמר:
+**ולנער עם עבדיך.** להנער אשר עם עבדיך, ואת עצמו ופילגשו קרא עבדיו בדרך המוסר, וכמו שאמר ׳ולאמתך׳ על פילגשו; או אמר שיש בידו להאכיל לנערו עם עבדיו, ועל עבדי האיש הזקן אמר:
 
 
 ###### Metzudat David on Judges 19:19:4
@@ -8457,7 +8457,7 @@ Jebus, which was Jerusalem – There was a district within Jerusalem which was c
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/20:3:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/20:3:1)
 
 
-**וישמעו וגו׳.** רצה לומר, עם כי שמעו שנאספו בני ישראל, לא חששו להם ולא הרגישו בדבר, ולזה דברו בני ישראל ושאלו זה לזה איך היה הדבר, ונתיעצו מה לעשות ; או יאמר מבני בנימין שמעו כי עלו המצפה, וגם שמעו ששאלו ׳איכה נהיתה׳, ותשובת האיש הלוי ועצת העם ואסיפתם את הכל שמעו, ולאחר כל זאת הוסיפו עוד לשלוח להם, ועם כל זה לא אבו לשמוע:
+**וישמעו וגו׳.** רצה לומר, עם כי שמעו שנאספו בני ישראל, לא חששו להם ולא הרגישו בדבר, ולזה דברו בני ישראל ושאלו זה לזה איך היה הדבר, ונתיעצו מה לעשות; או יאמר מבני בנימין שמעו כי עלו המצפה, וגם שמעו ששאלו ׳איכה נהיתה׳, ותשובת האיש הלוי ועצת העם ואסיפתם את הכל שמעו, ולאחר כל זאת הוסיפו עוד לשלוח להם, ועם כל זה לא אבו לשמוע:
 
 
 
@@ -8895,7 +8895,18 @@ Jebus, which was Jerusalem – There was a district within Jerusalem which was c
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/20:34:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/20:34:3)
 
 
-**והם.** רצה לומר כי בני בנימן לא ידעו עדיין אשר הרעה נוגעת אליהם וקרובה לבא, כי לא ראו משאת העשן בעת שראוהו ישראל, ולא נמס עדיין לבבם, ולחמו גם הם בגבורה (לה) ויגף ה׳. רצה לומר, אבל סוף הדבר היה שנגף ה׳ את בנימן לפני ישראל, ובין הכל השחיתו מהם עשרים וחמשה אלף ומאה איש:
+**והם.** רצה לומר כי בני בנימן לא ידעו עדיין אשר הרעה נוגעת אליהם וקרובה לבא, כי לא ראו משאת העשן בעת שראוהו ישראל, ולא נמס עדיין לבבם, ולחמו גם הם בגבורה:
+
+
+
+### Verse 35
+
+###### Metzudat David on Judges 20:35:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/20:35:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/20:35:1)
+
+
+**ויגף ה׳.** רצה לומר, אבל סוף הדבר היה שנגף ה׳ את בנימן לפני ישראל, ובין הכל השחיתו מהם עשרים וחמשה אלף ומאה איש:
 
 
 
@@ -9164,7 +9175,18 @@ Jebus, which was Jerusalem – There was a district within Jerusalem which was c
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/21:2:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/21:2:2)
 
 
-**בית אל.** אל בית האלהים אשר בשילה (ג) למה ה׳ וגו׳. למה באה על ידינו תקלה כזאת להחסיר מישראל שבט אחד, וכאלו שאלו להורותם מה לעשות להעמיד השבט:
+**בית אל.** אל בית האלהים אשר בשילה:
+
+
+
+### Verse 3
+
+###### Metzudat David on Judges 21:3:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/21:3:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Judges/r/21:3:1)
+
+
+**למה ה׳ וגו׳.** למה באה על ידינו תקלה כזאת להחסיר מישראל שבט אחד, וכאלו שאלו להורותם מה לעשות להעמיד השבט:
 
 
 

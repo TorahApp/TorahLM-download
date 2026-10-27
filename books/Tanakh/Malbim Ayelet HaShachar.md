@@ -289,7 +289,7 @@ And the declensions of the nouns change until there is no end. And there are dis
 ומצד זה הסתפקו בשם **שְׁבֻעַיִם**, שיתכן שהוא שם המספר מן 'שבע' ופירושו שבעה כפלים כמו "ארבעתים" – על חד ארבע. וגם דהא שבוע נקבה והיה לו לכתוב **שבועות** (תזריע ס' יט).
 
 
-From this perspective, we can be content that the noun **שְׁבֻעַיִם**(two weeks)¹⁹ is likely from the number שבע (seven) and they interpret it as *שבעה כפלים* (double seven), which equals ארבעתים (fourteen). And there is also שבוע (week) in feminine, which is written **שבועות**.
+From this perspective, we can be content that the noun **שְׁבֻעַיִם** (two weeks)¹⁹ is likely from the number שבע (seven) and they interpret it as *שבעה כפלים* (double seven), which equals ארבעתים (fourteen). And there is also שבוע (week) in feminine, which is written **שבועות**.
 
 footnotes:
 ¹⁹ Leviticus 12:5.

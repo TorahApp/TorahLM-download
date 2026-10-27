@@ -15668,7 +15668,7 @@ footnotes:
 [https://torahapp.org/share/book/Ibn%20Ezra%20on%20Isaiah/r/26:6:2](https://torahapp.org/share/book/Ibn%20Ezra%20on%20Isaiah/r/26:6:2)
 
 
-**פעמי.** כמי רגלי, כי שלש פעמים כמו רגלים (שמות כ"ד י"ד וי"ד):
+**פעמי.** כמי רגלי, כי שלש פעמים כמו רגלים (שמות כ"ג י"ד וי"ז):
 
 
 רגלי ═ פעמי feet. Comp. פעמים (Ex. 23:14) ═ רגלים (ibid. 17) times.
@@ -16650,7 +16650,7 @@ footnotes:
 [https://torahapp.org/share/book/Ibn%20Ezra%20on%20Isaiah/r/27:11:1](https://torahapp.org/share/book/Ibn%20Ezra%20on%20Isaiah/r/27:11:1)
 
 
-**ביבש קצירה.** כמו וטל ילין בקצירי (איוב כ" י"ט):
+**ביבש קצירה.** כמו וטל ילין בקצירי (איוב כ"ט י"ט):
 
 
 קצירה *The bough*³⁰ *thereof.* Comp. בקצירי In my branch (Job. 29:19).

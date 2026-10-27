@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Likutey Tefilos, Maleh Vigadish, 2021 (Segments: 8482, License: unknown)
 
-Version (En): The Fiftieth Gate. Breslov Research Institute, Jerusalem, c1992-c2016 (Segments: 8474)
+Version (En): Sefaria Community Translation (Segments: 8474)
 
 # Likutei Tefilot — part 1 of 2
 

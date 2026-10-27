@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Vilna Edition (Segments: 1407, License: Public Domain)
 
-Version (En): Sefaria Community Translation (Segments: 286)
+Version (En): Sefaria Community Translation (Segments: 289)
 
 
 ## Daf 2a
@@ -8714,12 +8714,18 @@ Rashi on Tractate Megillah: "Break the Arm of the wicked" Psalm 10 (9):9 This re
 חלוגלוגות - מין ירק הוא ושנוי בכמה מקומות במשנה ובבריית':
 
 
+**Chaloglogot** - A type of vegetable referenced in multiple places in the Mishnah and Baraita
+
+
 ###### Rashi on Megillah 18a:26:2
 
 [https://torahapp.org/share/book/Rashi%20on%20Megillah/r/18a:26:2](https://torahapp.org/share/book/Rashi%20on%20Megillah/r/18a:26:2)
 
 
 פרפחיני - פיקקל"י בלעז:
+
+
+**Parpehinei** - *pikkaleh* [purslane] in the vernacular [old French]
 
 
 
@@ -8731,6 +8737,9 @@ Rashi on Tractate Megillah: "Break the Arm of the wicked" Psalm 10 (9):9 This re
 
 
 מסלסל בשערך - למדנו שהסלסול לשון חיפוש והיפוך:
+
+
+***Mesalsel* your hair** - We have learned that *mesalsel* is an expression of searching and turning over
 
 
 

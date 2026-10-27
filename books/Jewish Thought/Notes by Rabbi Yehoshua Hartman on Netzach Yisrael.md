@@ -8236,7 +8236,7 @@ Version (En): Sefaria Community Translation (Segments: 1)
 [https://torahapp.org/share/book/Notes%20by%20Rabbi%20Yehoshua%20Hartman%20on%20Netzach%20Yisrael/r/6:8](https://torahapp.org/share/book/Notes%20by%20Rabbi%20Yehoshua%20Hartman%20on%20Netzach%20Yisrael/r/6:8)
 
 
-[8] פירוש - הקיסר התפללל להשי"ת, שאם נוח לפניו, אל ימסור את האיש הזה עצמו [הקיסר עצמו] ואת מלכותו בידי אדם אחד בלבד.
+[8] פירוש - הקיסר התפלל להשי"ת, שאם נוח לפניו, אל ימסור את האיש הזה עצמו [הקיסר עצמו] ואת מלכותו בידי אדם אחד בלבד.
 
 
 ###### Notes by Rabbi Yehoshua Hartman on Netzach Yisrael 6:9

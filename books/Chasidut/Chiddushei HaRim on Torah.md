@@ -14,7 +14,7 @@ Location: Chasidut/Other Chasidut Works
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Sefer HaZchut, in Chidushei HaRim on Gittin, Warsaw, 1877 (Segments: 299, License: Public Domain)
+Version (He): Chidushei HaRim veGur Aryeh, Bilgoray, 1912 (Segments: 299, License: Public Domain)
 
 Version (En): Sefaria Community Translation (Segments: 1)
 

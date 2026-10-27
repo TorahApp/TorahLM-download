@@ -16,9 +16,147 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Ashlei Ravrevei: Shulchan Aruch Yoreh Deah, Lemberg, 1888 (Segments: 3701)
 
-Version (En): Translation v.1 (Segments: 2770)
+Version (En): Code of Hebrew Law by Chaim N. Denburg, Montreal, 1955 (Segments: 2805)
 
 # Shulchan Arukh, Yoreh De'ah — part 2 of 2
+
+## Siman 371
+
+###### Shulchan Arukh, Yoreh De'ah 371:1
+
+[https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/371:1](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/371:1)
+
+
+**דין אהל היאך מביא הטומאה. ובו ו' סעיפים:**
+אסור לכהן ליכנס תחת אהל שהמת תחתיו אפי' הוא גדול הרבה ואפילו לבית אחר או לעליה אחרת הפתוחים לאותו בית בנקב שיש בו טפח על טפח ובית לאותו בית עד עולם ואם סתם הנקב מותר לו ליכנס לבית אחר שהסתימה חוצצת אפילו לא בטלו להיות שם עולמית והני מילי שסתם כל הנקב אבל אם לא סתם כל הנקב אלא מעטו מטפח אם נתנו להיות שם עולמית ממעט וחוצץ בפני הטומאה שלא תעבור ואם לאו אינו ממעט: הגה וכל דבר המקבל טומאה אינו חוצץ בפני הטומאה (הגהת אלפסי פ' בני העיר ובהל' טומאה להרי"ף ורמב"ן ורא"ש ומרדכי ריש פ' לא יחפור) ולא מיקרי סתימה בחלון אא"כ יכול לעמוד בלא סמיכה (ג"ז שם):
+
+
+A *Kohen*²³ is forbidden to enter beneath an overshadowed space¹ under which there is a corpse, even if it is very large;² and [he is] even [forbidden to enter] into another [adjoining] house or another [adjoining] upper storey, which open into that house by means of an opening a square handbreadth in size, and [the prohibition also applies to entering] a house [which opens] into that [latter] house ad infinitum.³ n. 1a). Hence, we regard the objects and the corpse as if they were already present under the lintels of the door or exits. But if we know through which exit the corpse will be removed, then only that particular exit suffers uncleanness, not the others. This means that that particular exit saves the objects beneath the other exits from uncleanness through overshadowing. The minimum size of such an exit must be one handbreadth square for an olive’s bulk from a corpse in the room, to prevent uncleanness from spreading to the other exits, and a minimum of four handbreadths square opening will prevent the uncleanness from spreading to the other exits in the case where an entire corpse is present in the room. The reason for the different sizes regarding the openings, depends upon the size of the uncleanness, for it is feasible to remove an olive’s bulk from a corpse through an opening one handbreadth square, and an entire corpse through an opening four handbreadths square (v. also Ohol. VII, 3); b) If there are two adjoining houses or rooms and in the intervening wall there is an opening of one handbreadth square, and in one of the houses or rooms there is a corpse or an olive’s bulk from a corpse, the uncleanness passes to the adjoining room or house in which all objects become unclean. In this case the opening need not be more than a square handbreadth in order to give passage to the uncleanness of an entire corpse; c) An object (e.g., a board) which is one handbreadth square and one handbreadth high (i.e., between the board above and the olive’s bulk from a corpse which lies beneath, there is a space of not less than one handbreadth), brings uncleanness to other objects in the same space and forms a partition against uncleanness to objects above it. But if the roof (i.e., the top of the board) is less than one handbreadth high, the uncleanness breaks through the solid matter and rises and goes down. Cf. Ohol. VI, 6; VII, 1-2; IX, 13, 14, 16; X, 6-7; XII, 6-7; XV, 1, 3, 7. *ShaK* states that the wife of a *Kohen*, who is pregnant may enter the ‘tent of a corpse’ and there is no fear that she may give birth to a male child who would then be forbidden to be present there, for a double doubt exists: a) perhaps it will be a non-viable birth to which this apprehension does not apply, or b) if it is a viable birth, perhaps it will be a female child. This point, however, is questioned on the principle that ‘a clean object that has been swallowed (in this case, the child within the mother) cannot be rendered unclean’ (טהרה בלועה) (Hul. 71a). Consequently, the following explanation of the above case is offered: We deal here with a case where the time for giving birth has already approached, and there is fear that the child might push out its head and be regarded as born and hence is not regarded as a ‘swallowed object.’ Consequently, since there is a double doubt, the pregnant wife of the *Kohen* may enter the ‘tent of a corpse’ — *P.Tesh.* Uncleanness is not conveyed through many openings which together make up one square handbreadth, e.g., in the case of trellis-work. The square handbreadth must be open in one spot for the uncleanness to pass through. Otherwise, the opening is considered stopped up (cf. Ohol. XIII, 1) — *Ta*Z, *ShaK.* But if one stopped up the opening, it is permissible for him to enter the other [adjoining] house, for the closure forms a partition [against the uncleanness], even if one has not renounced ownership therein⁴ so that it remain there forever.⁵ s.v. ,הלקטי קטנה. Cf. Meg. 26b. This applies only if one stops up the opening with a vessel that does not contract uncleanness (e.g., a wooden object that is not considered a vessel if it is intended merely for resting things thereon (כלי עץ העשוי לנחת) but if one stops up with foodstuffs even the entire opening, he must renounce his ownership therein — *P.Tesh., R. A. Eger.* This applies only if one stopped up the entire opening, but if one did not stop up the entire opening, but [only] reduced it from [the size of] a [square] handbreadth, — [the law is that] if one placed it⁶ to remain there forever, it reduces [the size of the opening] and forms a partition against⁷ the uncleanness so that it pass not through; and if [one did] not [place it⁶ to remain there forever], it does not reduce [the size of the opening].⁸ s.v. היא גופה תיחוץ. *Gloss*: *Everything that contracts uncleanness forms not a partition against uncleanness*.⁹ Meg. IV; Laws of Uncleanness by *Alfasi; N, Asheri* and *Mord.* B.B. II (derived from Ohol. VIII, 3) — *G.* Cf. Meg. 26b and B.B. 19b-20a. On the rules of uncleanness, v. Danby’s Mishna, Appendix I *A closure in a window space is regarded* [*effective*] *only if it can remain* [*therein*] *without support.*¹⁰ — *G.*, derived from Ohol. VI, 2. Cf. B.B. 19b, *Tosaf.* s.v. רואין according to which, a) anything that requires support is considered a temporary closure, and b) the object which supports the article that stops up the opening must be something which does not contract uncleanness, despite the fact that the object itself that serves as a closure does not contract uncleanness otherwise the closure is considered an object which contracts uncleanness. *R. Samson of Sens* and *Maim*. to Ohol. VI, 2 and cf O.Ḥ § 629, 8. *Ta*Z reports the ruling of a certain authority in the following case which he analyses and rejects: There was an uncleanness in a house adjoining a Synagogue, which passed through the [Synagogue window in the women’s section, and a ruling was given by a certain authority, that in order to form a partition against the uncleanness, the window opening should be stopped up by the curtain which served as a partition between the men’s and women’s section, and was suspended on iron hooks. *Ta*Z opposes this ruling (v. however, *Ḥid. ha-Gershuni* who accepts it) and claims that it is erroneous for the following reasons: a) According to the Mishna Ohol. VIII, 1, a sheet or a mat form a partition against uncleanness only if spread out tentwise, which is not the case here, and hence, the curtain cannot form a partition against the uncleanness of the adjoining house (v. *R. Samson of Sens ibid.* and Yad, *Tumath Meth* XIII); b) The reason that the curtain cannot form a partition against the uncleanness is because the law states that vessels (in this case the curtain hooks) cannot form a partition, since the curtain without the hooks would not remain suspended. Consequently, the main items are the hooks and not the curtain (v. Yad *Tumath Meth* XVIII; B.B. 19b s.v. רואין this note beg.) c) A partition formed by a door or window that cannot stand without the support of metal hinges is not considered valid (although the hinges are considered as attached to the ground and do not contract uncleanness. Kel. XI, 2 and cf. Ohol. VI, 2). Hence, the same applies with respect to the curtain and the hooks. *ShaK*, however, rejects this. Cf. *G.Mah.* A closure of trellis-work in a metal door does not prevent passage of uncleanness (v. *ShaK* who modifies this ruling) — *Ta*Z. It is permissible for a *Kohen* to travel by train, although there is a possibility that a corpse is being transported. Likewise, is it permitted for a *Kohen* to travel by plane, although the plane passes over burial grounds — *Sh.M.B.* (vol IV, p. 278-9).
+
+footnotes:
+²³ Glos.
+¹ Lit. ‘a tent.’ Uncleanness through overshadowing (טומאת אהל) takes place in one of three ways: a) when a person or a vessel or food are present together with a corpse (or an olive’s bulk from a corpse) under the same roof space. In this case another object (the roof) forms a tent over the person etc. and the corpse (דבר אחר מאהיל עליו ועל המת); b) when a corpse or an olive’s bulk from a corpse overshadow from above, a person or vessels beneath. In this case the corpse forms the tent; c) when the person is present above the corpse or the olive’s bulk from a corpse. In this case the person overshadows. Cf. Num. XIX, 14.
+² Meg. 26b a.e.
+³ Ohol. III, 6-7 from which the following principles are derived: a) If a corpse lies in a room, whatever is within the room suffers corpse-uncleanness, and if the room has many doors or exits, even if they are closed, all objects which lie beneath the lintels of these doors or exits become unclean, because we assume that the corpse may be removed through any one of the exits, at which time the corpse and the objects will be together under the lintels, and the objects will suffer uncleanness through overshadowing (v. supra
+⁴ e., in the object which serves as a closure.
+⁵ Mishna and Gemara Shab. 157a and Tosaf.
+⁶ The object which serves as a closure.
+⁷ Lit. ‘in the face of.’
+⁶ The object which serves as a closure.
+⁸ B.B. 20a, Tosaf.
+⁹ Hag. Alfasi
+¹⁰ Ibid.
+
+
+###### Shulchan Arukh, Yoreh De'ah 371:2
+
+[https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/371:2](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/371:2)
+
+
+ארובה שבין בית לעליה ואין בה פותח טפח וכזית מהמת למטה בבית כנגד הארובה הבית טהור והעליה טמאה:
+
+
+A hatchway¹¹ with respect to overshadowing in connection with hatchways, yet the present law is stated because it contains a novel ruling, viz., that it is permissible to enter the ground floor where the uncleanness is found, and not the upper storey — *B.Yos.* that is between a house [a ground floor] and an upper storey, and there is not in it an opening of a [square] handbreadth [in size], and an olive's bulk from a corpse is in the house directly beneath the hatchway, — [the law is that] the house [ground floor] is clean and the upper storey is unclean¹² The uncleanness does not cleave downwards, back into the lower floor, since the opening is less than a square handbreadth (*Asheri*). And again, since there is only an olive’s bulk from a corpse in the ground floor, the law is that although the uncleanness will eventually be removed through the door opening, the ground floor does not become unclean now, because the uncleanness which rose to the upper storey, is already regarded as present in the public domain, for the opening is less than a square handbreadth. Hence, we may infer that if a room in a ground floor has no roof space over it (but there is a roof over the upper storey. Thus *Ḥid. ha-Gershuni* on *Ta*Z), it is forbidden for a *Kohen* to be present in any part of the ground floor, for since the uncleanness will ultimately be removed through the door opening of this uncovered ground-room, the uncleanness cleaves back into it and thence through the door opening, for it must be borne in mind that the entire ground-room is uncovered unlike above where the hatchway is less than a square handbreadth in size (v. *Ḥid. ha-Gershuni*) — *Ta*Z..
+
+footnotes:
+¹¹ Ohol. X, 1ff. Quite a number of laws are enumerated ibid.
+¹² For the uncleanness breaks through and rises (טומאה בוקעת ועולה v. Ohol. VI, 6), since it lies directly under the hatchway, despite the fact that the hatchway is less than a square handbreadth in size. The uncleanness does not spread to the sides of the ground floor, for it has an opening above in order to rise — ShaK.
+
+
+###### Shulchan Arukh, Yoreh De'ah 371:3
+
+[https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/371:3](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/371:3)
+
+
+שני חדרים פתוחים לבית ובכל אחת חצי זית מהמת ודלתותיהם נעולים הבית טמא והם טהורים ואם נפתחו גם הם טמאים:
+
+
+Two rooms that open into a house and in each one there is half an olive's bulk from a corpse, and their doors are locked up,¹³ — [the law is that] the house is unclean¹⁴ and they [the rooms] are clean.¹⁵ If they [the rooms] were opened, they too, are unclean.¹⁶
+
+footnotes:
+¹³ And there are no other openings from the rooms save the one leading to the house.
+¹⁴ For the uncleanness must eventually pass through the house. Hence, the house is regarded as having uncleanness of an olive’s bulk in size.
+¹⁵ The rooms are clean because the uncleanness in one room must not pass through the other room. The closed doors form a partition against that which is in the rooms, but do not prevent the passage of the uncleanness into the house.  Kel. VIII, 6.
+¹⁶ Ohol. VIII, 6. For then the uncleanness passes into them too.
+
+
+###### Shulchan Arukh, Yoreh De'ah 371:4
+
+[https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/371:4](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/371:4)
+
+
+חצר המוקפת זיזין ואכסדראות וטומאה באחד מהבתים אם כל פתחי הבתים והחלונות נעולים טומאה יוצאת לתחת הזיזין והאכסדראות. (והטעם משום דהואיל וסוף הטומאה לצאת דרך שם רואין כאלו יצאה ולכן יש מחמירין לכהנים לילך דרך שער העיר שסוף המת לצאת משם (פסקי מהרא"י סימן כ"ה וכל בו) ויש מתירין (שם הביא בשם י"א) והמקיל לא הפסיד במקום שלא נהגו להחמיר) ואם נפתח חלון או פתח מצד האחר ואותם של צד החצר כולם נעולים אין הטומאה יוצאת לתחת הזיזין ואם נפתח גם כן אחד מהם לצד הזיזין הטומאה יוצאת מהבית לתחת הזיזין וכן אם טומאה תחת הזיזין נכנסת מתחתיהן לבית לכן גגים הבולטים למעלה לחוץ על פתחי הבתים וטומאה באחד מהבתים כל הבתים שפתחיהם פתוחים טמאים: הגה ב' גגין שאינן נוגעין זה בזה אע"פ שאין ביניהם רק פחות מג' לא הוי חבור לטומאה דלא אמרינן לבוד להחמיר (מהרי"ו בפסקיו) ואם היו זה למעלה מזה אע"פ שאינן נוגעין אמרינן חבוט רמי וכאילו נוגעים (נ"י בהלכות טומאה להרי"ף) הכהנים אינן יכולין לכוף לקרובי המת שיוציאו המת ממקומו כדי שהם יהיו רשאים ליכנס לביתם אם לא במקום שדרך להוציא כל המתים (תשובת מהרי"ל סימן ס"ה):
+
+
+A forecourt that is surrounded by wall-projections¹⁷ and porticoes,¹⁸ and there is uncleanness in one of the houses; if all the doors¹⁹ of the houses and the windows are locked up, the uncleanness spreads²⁰ under the wall-projections and the porticoes,²¹) if the latter have an opening of a square handbreadth in size. But if all the openings or doors of the adjoining houses are locked up, the houses are clean. However, it is forbidden for a *Kohen* to stand under the wall-projections — *Later Authorities.* — *the reason being that since ultimately the uncleanness will leave therefrom, we regard* [*the uncleanness*] *as though it had already left*.²² *Therefore, some adopt the stricter view* [*regarding*] *Kohanim*²³ — [*viz., not*] *to go through the city gate through which the corpse will ultimately leave*;²⁴ s. 25 and *Kol Bo* — *G.* *and some permit* [*this*].²⁵ on the authority of *‘some say*’ — *G.* Ohol. XI, 1 and *Ta*Z. *And he who adopts the lenient view loses nothing in a locality where it is not the custom to adopt the stricter view.* And if a window or a door was opened²⁶ from the other side,²⁷ and those of the side [facing] the forecourt were all locked up, the uncleanness does not spread²⁰ under the wall-projections.²⁸ And if one of them²⁹ was also opened toward the side of the wall-projections, the uncleanness spreads²⁰ from the house under the wall-projections.³⁰ par. 1. Likewise, if [there is] uncleanness under the wall-projections, it enters from under them into the house.³¹ So too,³²K. Cur. edd. read, ‘And therefore.’ roofs that project above toward the outside over the doors³³ of the houses, and [there is] uncleanness in one of the houses, — [the law is that] all the houses, the doors of which are open, are unclean.³⁴ is present in one of the houses or rooms to which the uncleanness spreads, the doors and windows of which are shut up, and he is aware that the uncleanness reaches his dwelling, it is forbidden for him to leave before the corpse is removed. Likewise, if there are two rooms, one within the other, i.e., the outer one opens into the courtyard and the inner one has right of way through the outer one, and the corpse lies in the outer one, the *Kohen* may enter the inner room and lock up all the doors and windows leading to the outer room. But if the corpse is in the inner room, the *Kohen* is forbidden to be present in the outer one, even if he locked up the doors of the inner room. However, if each room has a separate door leading to the outside, and it is intended to remove the corpse through the door of the inner room the *Kohen* is permitted to remain in the outer room. Likewise is it permissible to keep the corpse in a cellar which has a separate door leading to the outside. But if the cellar has no door leading to the outside, and the corpse will ultimately be removed through the house, two conditions must be fulfilled in order to permit the *Kohen* to remain in the house above the cellar, viz., a) that there should be an opening in the cellar at least four handbreadths square, and b) that there should be no overshadowing space a handbreadth in width over the cellar opening. So too, if the corpse is in an upper storey that has an opening through which the corpse will be removed, and the opening has no overshadowing space above it, *Kohanim* are then permitted to remain on the ground floor. If there is a cross-beam above an alley-entry (v. ‘Er. I, 1ff) which is one handbreadth in width, and this cross-beam connects houses from one side of the alley-entry to the other, even if one end of the cross-beam is less than one handbreadth in width, the law is that it gives passage to the uncleanness to the other side. And if there is uncleanness in one of the houses on one side of the alley-entry, it is forbidden for *Kohanim* to enter the houses on the other side — *Digest of Later Authorities.* *Gloss*: *Two roofs* [*alongside each other*] *that do not touch one another, although there is between them only* [*a space*] *of less than three* [*handbreadths*], *are not considered as connected with respect to uncleanness, for we do not apply*³⁵ [*the principle of*] *Labud*³⁶ *in order to adopt a stricter view.*³⁷ in his *Decisions* — *G.* Suk. 18a and cf. *supra* par. 2. *And if they*³⁸ [*projected*] *one above the other, although they*³⁸ *do not touch* [*each other*], *we apply* [*the principle of*] *'press* [*and*] *throw* [*it*] *down,'*³⁹ *and* [*they are considered*] *as though they touched* [*each other*].⁴⁰ on the *Laws of Uncleanness of Alfasi* — *G.* Suk. 22a. Cf. *Jastrow* s.v. חבוט. This principle is applied only when the roof projects a distance of at least a handbreadth — *ShaK.* *The Kohanim*²³ *cannot compel the near-of-kin of the corpse that they remove the dead person in order that they be permitted to enter their* [*adjoining*] *house*,⁴¹ asked Raba whether it was permissible for them to pray in the Synagogue. From this question it follows that had they been able to compel the near-of-kin of the deceased person to remove the corpse they would have done so. Hence, we infer that they were unable to compel them. *W.G.* One may be compelled to remove the corpse of a non-viable birth where the question of honour to the dead does not enter — *BaḤ. Ta*Z however, rules that this applies only if the *Kohen* makes arrangements for it to be removed. *ShaK* (in *Nek. Hak*) agrees with *BaḤ.* *unless* [*it is*] *in a locality where it is the accepted custom to take out all the corpses*.⁴² 65 — *G.*
+
+footnotes:
+¹⁷ A kind of moulding around the top part of the house.  ‘Aruk.
+¹⁸ The Greek ἐξέδρα a covered place or collonade in front of the house. The houses open on to the forecourt. Each house has openings, e.g., doors or windows facing the forecourt and likewise openings leading to the space behind the houses. The wall-projections and the porticoes were in the front facing the forecourt.
+¹⁹ Lit. ‘openings.’
+²⁰ Lit. ‘goes forth.’
+²¹ Derived from Ohol. VII, 3. If all the doors of the house in which there is uncleanness are locked up, i.e., both those facing the forecourt and those behind the house, the uncleanness spreads under the wall-projections and the porticoes, and everything beneath them becomes unclean. For since the uncleanness will ultimately be removed through the opening facing the forecourt, it is regarded as if the uncleanness is already present there, and spreads under the overshadowed space to the other houses (ShaK
+²² Ohol. I
+²³ Glos.
+²⁴ Decisions of Isserlein
+²⁵ Ibid
+²⁶ To the extent of four handbreadths square — Asheri.
+²⁷ In the back of the house where there are no wall-projections.
+²⁰ Lit. ‘goes forth.’
+²⁸ Ohol. XI, 1.
+²⁹ Of the doors or windows.
+²⁰ Lit. ‘goes forth.’
+³⁰ And enters the adjoining house or houses. Cf. supra
+³¹ If the door of the house facing the wall-projections is open.  Ohol. XIV, 1ff.
+³² Thus reading of Sha
+³³ Lit. ‘openings.’
+³⁴ Hence if a Kohen
+³⁵ Lit. ‘say.’
+³⁶ Lit. ‘joined.’ לבוד. A legal fiction according to which, if there is a gap of less than three handbreadths, the parts so separated are considered as a solid partition.
+³⁷ MaHaRIW
+³⁸ The roofs.
+³⁸ The roofs.
+³⁹ Heb. חבוט. A legal fiction whereby an inclined projection is assumed to be like a horizontal plane.
+⁴⁰ N.Yos.
+²³ Glos.
+⁴¹ This is not done out of deference to the dead. Derived from Meg. 26b regarding the Synagogue of the Roman Jews which opened into a room where a corpse was lying. The Kohanim
+⁴² MaHaRIL Resp.
+
+
+###### Shulchan Arukh, Yoreh De'ah 371:5
+
+[https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/371:5](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/371:5)
+
+
+אסור לקרב בתוך ארבע אמות של מת או של קבר בד"א שאין הקבר מסויים במחיצות גבוהות י' טפחים אבל אם הוא מסויים במחיצות גבוהות עשרה טפחים או בחריץ עמוק י' טפחים אין צריך להרחיק ממנו אלא ד' טפחים (ומותר לכהן לעמוד אצל בית שיש בו מת ומותר ליגע בכתליו ובלבד שלא יהא שום דבר מאהיל עליו) (תשובת הרשב"א סימן קל"ו):
+
+
+It is forbidden [for a *Kohen*]²³ to draw near within four cubits of a corpse⁴³ must not come within four cubits of a corpse so as not to touch the corpse or overshadow him. or a grave. This applies only if the grave is not marked by partitions at a height of ten handbreadths, but if it is distinctly marked by partitions at a height of ten handbreadths or by a ditch ten handbreadths deep, he must keep away only [at a distance of] four handbreadths.⁴⁴ B.B. 12a, *Rashi* and *Tosaf.* s.v. פרץ. Cf. *W.G.* *It is permissible for a Kohen*²³ *to stand beside a house in which there is a corpse and he is permitted to touch its walls, provided that nothing overshadows upon him*.⁴⁵ s. 136 — *G.* e., there should be no projection from the roof of the house. It is forbidden for a *Kohen* to deliver a funerary oration within the four cubits of a corpse that lies on the bier in an open space — *A.H.*
+
+footnotes:
+²³ Glos.
+⁴³ Sot. 44a; Ohol. XV, 8. For a corpse affects four cubits with respect to communication of uncleanness. Hence, a Kohen
+⁴⁴ Gemara ibid.
+²³ Glos.
+⁴⁵ RaShBA Resp.
+
+
+###### Shulchan Arukh, Yoreh De'ah 371:6
+
+[https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/371:6](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/371:6)
+
+
+מת המונח בספינה אם היא קטנה שמתנדנדת כשדורכין בה אסור לכהן ליכנס בה:
+
+
+A corpse that lies in a boat, if it⁴⁶ is small [so] that it rocks when one treads in it, it is forbidden for a *Kohen*²³ to enter it.⁴⁷ IV, This applies even if the *Kohen* is outside of the four cubits, for it is impossible to avoid uncleanness as a result of the principle of *Hesset* (v. Glos.). In a large boat, however, which does not rock, the *Kohen* must keep away a distance of four cubits.
+
+footnotes:
+⁴⁶ e., the boat.
+²³ Glos.
+⁴⁷ Derived from Zab. III, 1.  Bert. ibid.
+
+
 
 ## Siman 372
 

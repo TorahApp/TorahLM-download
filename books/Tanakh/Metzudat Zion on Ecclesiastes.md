@@ -2416,17 +2416,20 @@ Kohelet. This refers to the concept of gathering and collecting, like the congre
 **בארובות.** מלשון ארובה וחלון כמו וכעשן מארובה (הושע יג ג):
 
 
-###### Metzudat Zion on Ecclesiastes 12:3:7
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ecclesiastes/r/12:3:7](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ecclesiastes/r/12:3:7)
+### Verse 4
+
+###### Metzudat Zion on Ecclesiastes 12:4:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ecclesiastes/r/12:4:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ecclesiastes/r/12:4:1)
 
 
 **דלתים.** על השפתים יאמר וכן נאמר דלתי פניו מי פתח (איוב מא ו):
 
 
-###### Metzudat Zion on Ecclesiastes 12:3:8
+###### Metzudat Zion on Ecclesiastes 12:4:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ecclesiastes/r/12:3:8](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ecclesiastes/r/12:3:8)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ecclesiastes/r/12:4:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ecclesiastes/r/12:4:2)
 
 
 **וישחו.** ענין השפלה ונמיכה כמו ושח גבהות האדם (ישעיה ב יז):

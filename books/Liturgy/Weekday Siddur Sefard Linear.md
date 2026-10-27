@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): The Metsudah siddur: a new linear siddur with English translation by Avrohom Davis, 1981 (Segments: 9730)
 
-Version (En): The Metsudah siddur: a new linear siddur with English translation by Avrohom Davis, 1981 (Segments: 9672)
+Version (En): The Metsudah siddur: a new linear siddur with English translation by Avrohom Davis, 1981 [en] (Segments: 9672)
 
 
 ## The Morning Prayers

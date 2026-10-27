@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Shaarei Orah, grimoar (Segments: 1559, License: Public Domain)
 
-Version (En): Sha'arei Orah; Translated to Turkish by Gökhan (Aryeh) Duran, 2026 [tr] (Segments: 1559)
+Version (En): Gates of Light, trans. by Rabbi Amiram Markel and Rabbi Yehudah S. Markel, 2023 (Segments: 1559)
 
 
 ## Introduction
@@ -518,7 +518,7 @@ footnotes:
 [https://torahapp.org/share/book/Sha%27arei%20Orah/s/First%20Gate,%20Tenth%20Sefirah/r/11](https://torahapp.org/share/book/Sha%27arei%20Orah/s/First%20Gate,%20Tenth%20Sefirah/r/11)
 
 
-ולפי זה הדרך נאמר: ברון יחד כוכבי בוקר וגו' (איוב לח, ו). ועניין רינה הם הזמירות הנאמרים בבוקר, ואזי יתפזרו ויתרועעו כל בעלי הדין הקשה הנקראים בני אלהים. ולשון יריעו מלשון רועה התרועעה הארץ (ישעיה כד, יט).
+ולפי זה הדרך נאמר: ברון יחד כוכבי בוקר וגו' (איוב לח, ז). ועניין רינה הם הזמירות הנאמרים בבוקר, ואזי יתפזרו ויתרועעו כל בעלי הדין הקשה הנקראים בני אלהים. ולשון יריעו מלשון רועה התרועעה הארץ (ישעיה כד, יט).
 
 
 In the same manner it states,¹⁴ “When the morning stars sang-*ron*-רן in unison and all the (angels who are called the) sons of God-*Bnei Elohim*-בני אלהי"ם trembled-*Yari’oo*-יריעו.” The songs that are called *Rinah-*רינה are the songs of the morning. It is then that all the forces of harsh judgment, who are called the sons of God-*Bnei Elohi”m*-בני אלהי"ם are scattered and tremble. The word “trembled-*Yari’oo*-יריעו” here is related to the verse,¹⁵ “Trembling, trembling-*Ro’ah Hithro’a’ah*- רעה התרעעה will be the land.”
@@ -3959,7 +3959,7 @@ Now, there are several facets as to why He is called the Source of Living Waters
 [https://torahapp.org/share/book/Sha%27arei%20Orah/s/Second%20Gate,%20Ninth%20Sefirah/r/25](https://torahapp.org/share/book/Sha%27arei%20Orah/s/Second%20Gate,%20Ninth%20Sefirah/r/25)
 
 
-וסימן: וממתנה נחליאל ומנחליאל במות (במדבר כח, ח) ולפי דרך זה צריך האדם להתבונן מה שאמר יתברך בתורה; ראה נתתי לפניך היום את החיי"ם ואת הטוב ואת המו"ת ואת הרע (דברים ל, טו), לפי שהדיבוק במידת אל ח"י ימצא חיים וטוב, והמתרחק מאל חי ימצא כנגדו מות ורע, שהרי אלו כנגד אלו נערכות כל המערכות, וסימן: גם את זה לעומת זה עשה האלהים:
+וסימן: וממתנה נחליאל ומנחליאל במות (במדבר כא, יט) ולפי דרך זה צריך האדם להתבונן מה שאמר יתברך בתורה; ראה נתתי לפניך היום את החיי"ם ואת הטוב ואת המו"ת ואת הרע (דברים ל, טו), לפי שהדיבוק במידת אל ח"י ימצא חיים וטוב, והמתרחק מאל חי ימצא כנגדו מות ורע, שהרי אלו כנגד אלו נערכות כל המערכות, וסימן: גם את זה לעומת זה עשה האלהים:
 
 
 The sign for this is the verse,²⁰ “From a gift, the stream of God-*Nachli’el*-*נחליאל* and from the stream of God-*Nachli’el*-*נחליאל* to the heights*.*”²¹-נחליאל is usually translated as the, “inheritance of God” but according to this interpretation it means, “the stream of God.” In this way a person should contemplate what *HaShem*-*יהו"ה,* blessed is He, said in His Torah,²² “See, today I set before you, life and good and death and bad,” since whoever adheres to *HaShem’s*-*יהו"ה* quality as the Living God-*E”l Chai*-*א"ל חי* will find life and good and whoever distances himself from the Living God-*E”l Chai*-*א"ל חי* will find its opposite, death and bad, in that they are arranged one opposite the other. The sign for this is the verse,²³ “Also, God made these opposite these.”
@@ -17843,7 +17843,7 @@ footnotes:
 [https://torahapp.org/share/book/Sha%27arei%20Orah/s/Eight%20Gate,%20Third%20Sefirah/r/70](https://torahapp.org/share/book/Sha%27arei%20Orah/s/Eight%20Gate,%20Third%20Sefirah/r/70)
 
 
-וסימן: ראה נתתי לפניך היום את החיים ואת הטוב. ואם חם ושלום היפך זה, 'את המות ואת הרע' (דברים ל, יא). וכבר ביארנו כמה ענינים בסוד זה בשער הראשון:
+וסימן: ראה נתתי לפניך היום את החיים ואת הטוב. ואם חס ושלום היפך זה, 'את המות ואת הרע' (דברים ל, יא). וכבר ביארנו כמה ענינים בסוד זה בשער הראשון:
 
 
 The sign by which to remember this is the verse,²¹⁴ “See – I have placed before you today the life-*Chayim*-חיים and the good-*Tov*-טוב.” However, if a person chooses the opposite, God forbid, the verse continues, “and the death-*Mavet*-מות and the bad-*Ra-*רע.” Several matters about this secret were already explained in the First Gate.

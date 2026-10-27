@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Teshuvot Rashi vol. I, New York, 1943 (Segments: 608, License: unknown)
 
-Version (En): Sefaria Responsa Anthology (Segments: 7)
+Version (En): Sefaria Community Translation (Segments: 7)
 
 
 ## Teshuva 1

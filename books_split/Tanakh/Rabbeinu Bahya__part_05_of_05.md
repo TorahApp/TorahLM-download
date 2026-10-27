@@ -14,9 +14,9 @@ Location: Tanakh/Rishonim on Tanakh/Rabbeinu Bahya
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Al alazar hakohen  (Segments: 5567, License: unknown)
+Version (He): Rabbeinu Behaye, Rimini, 1524 (Segments: 5567, License: unknown)
 
-Version (En): Yalkut, Sifsei Chachomim Chumash, Metsudah Publications, 2009 (Segments: 5453)
+Version (En): Sefaria Community Translation (Segments: 5453)
 
 # Rabbeinu Bahya — part 5 of 5
 

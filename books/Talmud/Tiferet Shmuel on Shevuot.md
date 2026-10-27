@@ -1,6 +1,6 @@
 # Tiferet Shmuel on Shevuot
 
- תפארת שמואל על שבועות
+תפארת שמואל על שבועות
 
 Link: [https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Shevuot](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Shevuot)
 

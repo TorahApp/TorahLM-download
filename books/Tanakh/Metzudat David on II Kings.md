@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat David/Prophets
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 985, License: Public Domain)
+Version (He): On Your Way (Segments: 976, License: Public Domain)
 
 Version (En): Sefaria Community Translation (Segments: 83)
 
@@ -372,15 +372,7 @@ Version (En): Sefaria Community Translation (Segments: 83)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/2:14:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/2:14:2)
 
 
-**אף הוא.** רצה לומר אף הוא בהוייתו בכל עת, ולא נשתנה. ודוגמתו (יחזקאל כג מג):
-
-
-###### Metzudat David on II Kings 2:14:3
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/2:14:3](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/2:14:3)
-
-
-**עתה יזנו תזנותיה והיא.** ורצה לומר, עדיין היא בהוייתה כשהיתה מאז או, מוסב הוא על ויכה וכו׳, ורוצה לומר, אף אלישע עשה כמעשה אליהו, וכשהכה המים נבקעו הנה והנה וכו׳ [ ומעתה הולך ומונה יחד כל הנפלאות שעשה אלישע ]:
+**אף הוא.** רצה לומר אף הוא בהוייתו בכל עת, ולא נשתנה. ודוגמתו (יחזקאל כג מג): עתה יזנו תזנותיה והיא. ורצה לומר, עדיין היא בהוייתה כשהיתה מאז או, מוסב הוא על ויכה וכו׳, ורוצה לומר, אף אלישע עשה כמעשה אליהו, וכשהכה המים נבקעו הנה והנה וכו׳ [ומעתה הולך ומונה יחד כל הנפלאות שעשה אלישע]:
 
 
 
@@ -808,7 +800,7 @@ When (the minstrel) played: When the minstrel began to play, the spirit of proph
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/3:21:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/3:21:1)
 
 
-**שמעו.** כאשד שמעו שעלו למלחמה, נאספו גם המה:
+**שמעו.** כאשר שמעו שעלו למלחמה, נאספו גם המה:
 
 
 ###### Metzudat David on II Kings 3:21:2
@@ -1930,7 +1922,7 @@ as if to say there is very little [food] here
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/5:11:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/5:11:1)
 
 
-**אלי יצא וכו׳.** חשבתי כי לכבודי יצא אלי, ויעמוד לפני על רגליו, כדרך הכבוד שעושים בני אדם לשרים הגדולים ובדבר הרפואה, חשבתי שיקרא בשם ה׳, וינופף ידו אל מקום הצרעת, להשפיע שם הרפואה על פי נס, ובאופן זה יאסף המצורע:
+**אלי יצא וכו׳.** חשבתי כי לכבודי יצא אלי, ויעמוד לפני על רגליו, כדרך הכבוד שעושים בני אדם לשרים הגדולים. ובדבר הרפואה, חשבתי שיקרא בשם ה׳, וינופף ידו אל מקום הצרעת, להשפיע שם הרפואה על פי נס, ובאופן זה יאסף המצורע:
 
 
 
@@ -2193,15 +2185,7 @@ as if to say there is very little [food] here
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/5:27:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/5:27:2)
 
 
-**כשלג.** כי הצרעת לבנה היא, וכמ״ש (ויקרא יג ד):
-
-
-###### Metzudat David on II Kings 5:27:3
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/5:27:3](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/5:27:3)
-
-
-**.** ואם בהרת לבנה:
+**כשלג.** כי הצרעת לבנה היא, וכמ״ש (ויקרא יג ד): ואם בהרת לבנה:
 
 
 
@@ -2253,7 +2237,7 @@ as if to say there is very little [food] here
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/6:5:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/6:5:2)
 
 
-**ואת הברזל.** הקורה נפלה אל המים, ועם הברזל ; הוא הגרזן:
+**ואת הברזל.** הקורה נפלה אל המים, ועם הברזל, הוא הגרזן:
 
 
 ###### Metzudat David on II Kings 6:5:3
@@ -2547,15 +2531,7 @@ as if to say there is very little [food] here
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/6:27:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/6:27:1)
 
 
-**אל יושעך ה׳.** חשב אשר שאלתה על המזון, ואמר לה:
-
-
-###### Metzudat David on II Kings 6:27:2
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/6:27:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/6:27:2)
-
-
-**ה׳ הוא אין מושיעך, ועם שבידו להושיעך, ואני מאין אושיעך, וכי בתבואה מן הגורן, או ביין מן היקב, הלא אין עמדי.** וכאומר, לא יקרא אין מושיע, כי אם מי שבידו להושיע, ולא זולת:
+**אל יושעך ה׳.** חשב אשר שאלתה על המזון, ואמר לה: ה׳ הוא אין מושיעך, ועם שבידו להושיעך, ואני מאין אושיעך, וכי בתבואה מן הגורן, או ביין מן היקב, הלא אין עמדי. וכאומר, לא יקרא אין מושיע, כי אם מי שבידו להושיע, ולא זולת:
 
 
 
@@ -2821,7 +2797,7 @@ as if to say there is very little [food] here
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/7:10:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/7:10:1)
 
 
-**שועך העיך.** שומר שער העיר:
+**שוער העיר.** שומר שער העיר:
 
 
 ###### Metzudat David on II Kings 7:10:2
@@ -3151,23 +3127,18 @@ as if to say there is very little [food] here
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/8:16:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/8:16:1)
 
 
-**ובשנת חמש ליורם בן אחאב.** שנויה בסדר עולם:
+**ובשנת חמש ליורם בן אחאב.** שנויה בסדר עולם שיהושפט המליך את יהורם בנו שתי שנים שלימות בחייו, דהיינו בשנת כ״ג למלכו. כי כ״ה מלך, והיה אם כן בשנת ה׳ ליורם בן אחאב, כי הוא מלך בי״ט ליהושפט, ולזה אמר ובשנת חמש ליורם בן אחאב וכו׳ ויהושפט וכו׳, ורצה לומר: אז יהושפט מלך את יהורם בנו, ויהיה ׳מלך׳ כמו ׳המליך׳. או, מלת חמש עומדת במקום שתים, וכאילו אמר וחמש ליהושפט, וחישב מזמן מלחמות רמות גלעד, שהיה ראוי למות לולא חמלת ה׳ עליו, וכאילו נעשה אז בריה חדשה, ומלך אז, אבל ליורם בן אחאב הם חמש שנים מקוטעות, והם קצת שנת י״ט מיהושפט וכ׳ וכ״א וכ״ב וקצת כ״ג, כי אז המליך את יהורם בנו, והם שתי שנים לפני מותו, כי בכ״ה מת, וליהושפט עצמו הם חמש שנים שלימות מזמן מלחמות רמות גלעד, והם מקצת שנת י״ח מתחילת מלכותו, וי״ט וכ׳ וכ״א וכ״ב, ומקצת שנת כ״ג:
 
 
-###### Metzudat David on II Kings 8:16:2
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/8:16:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/8:16:2)
+### Verse 17
 
+###### Metzudat David on II Kings 8:17:1
 
-**שיהושפט המליך את יהורם בנו שתי שנים שלימות בחייו, דהיינו בשנת כ״ג למלכו.** כי כ״ה מלך, והיה אם כן בשנת ה׳ ליורם בן אחאב, כי הוא מלך בי״ט ליהושפט, ולזה אמר ובשנת חמש ליורם בן אחאב וכו׳ ויהושפט וכו׳, ורצה לומר:
-
-
-###### Metzudat David on II Kings 8:16:3
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/8:16:3](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/8:16:3)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/8:17:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/8:17:1)
 
 
-**אז יהושפט מלך את יהורם בנו, ויהיה ׳מלך׳ כמו ׳המליך׳.** או, מלת חמש עומדת במקום שתים, וכאילו אמר וחמש ליהושפט, וחישב מזמן מלחמות רמות גלעד, שהיה ראוי למות לולא חמלת ה׳ עליו, וכאילו נעשה אז בריה חדשה, ומלך אז, אבל ליורם בן אחאב הם חמש שנים מקוטעות, והם קצת שנת י״ט מיהושפט וכ׳ וכי אם וכ״ב וקצת כ״ג, כי אז המליך את יהורם בנו, והם שתי שנים לפני מותו, כי בכ״ה מת, וליהושפט עצמו הם חמש שנים שלימות מזמן מלחמות רמות גלעד, והם מקצת שנת י״ח מתחילת מלכותו, וי״ט וכ׳ וכי אם וכ״ב, ומקצת שנת כ״ג (יז) שמנה שנים. ומקוטעות היו, ובהם כלולים שתי השנים אשר מלך בחיי אביו:
+**שמנה שנים.** ומקוטעות היו, ובהם כלולים שתי השנים אשר מלך בחיי אביו:
 
 
 
@@ -3273,28 +3244,12 @@ as if to say there is very little [food] here
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/8:26:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/8:26:1)
 
 
-**בן עשרים ושתים שנה.** ובדברי הימים (ב כב ב) נאמר:
+**בן עשרים ושתים שנה.** ובדברי הימים (ב כב ב) נאמר: בן ארבעים ושתים שנה. ושנויה בסדר עולם: שמנין הזה אינה ללידת אחזיה, כי אם לצמיחת מלכות עמרי על כל ישראל, שהיתה על ידי שנשא יהושפט את בתו לאשה, כמו שנאמר שם. [ויתכן שנשאה שנה אחת לפני מלוך עמרי על כל ישראל, והיה אם כן מ״ב שנה מקוטעות] ובעבור היות אחזיה מזרעו, קרה לו שנהרג עם מלך ישראל על ידי יהוא ולזה תלה מלכותו בצמיחת מלכות עמרי:
 
 
 ###### Metzudat David on II Kings 8:26:2
 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/8:26:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/8:26:2)
-
-
-**בן ארבעים ושתים שנה.** ושנויה בסדר עולם:
-
-
-###### Metzudat David on II Kings 8:26:3
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/8:26:3](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/8:26:3)
-
-
-**שמנין הזה אינה ללידת אחזיה, כי אם לצמיחת מלכות עמרי על כל ישראל, שהיתה על ידי שנשא יהושפט את בתו לאשה, כמו שנאמר שם.** [ ויתכן שנשאה שנה אחת לפני מלוך עמרי על כל ישראל, והיה אם כן מ״ב שנה מקוטעות ] ובעבור היות אחזיה מזרעו, קרה לו שנהרג עם מלך ישראל על ידי יהוא ולזה תלה מלכותו בצמיחת מלכות עמרי:
-
-
-###### Metzudat David on II Kings 8:26:4
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/8:26:4](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/8:26:4)
 
 
 **בת עמרי.** ולמעלה (פסוק יח) נאמר שיהורם אביו נשא בת אחאב וידמה שעמרי גדלה ונקראת בתו אף, כי בני בנים הם כבנים:
@@ -3930,11 +3885,22 @@ as if to say there is very little [food] here
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/9:37:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/9:37:2)
 
 
-**זאת איזבל.** כי רוב הגוף אכלו הכלבים, והנשאר לא היה שמה עליה (א) האמנים אחאב. האמנים של אחאב:
+**זאת איזבל.** כי רוב הגוף אכלו הכלבים, והנשאר לא היה שמה עליה
 
 
 
 ## Chapter 10
+
+
+### Verse 1
+
+###### Metzudat David on II Kings 10:1:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/10:1:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/10:1:1)
+
+
+**האמנים אחאב.** האמנים של אחאב:
+
 
 
 ### Verse 2
@@ -4080,20 +4046,12 @@ as if to say there is very little [food] here
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/10:13:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/10:13:1)
 
 
-**ויהוא מצא.** שם מצא יהוא את אחי אחזיהו, רוצה לומר:
+**ויהוא מצא.** שם מצא יהוא את אחי אחזיהו, רוצה לומר: בני אחזיהו. וכן נאמר בדברי הימים (ב כח ח) כי לא היו לו אחים, כי כולם נהרגו מאז כמו שנאמר שם:
 
 
 ###### Metzudat David on II Kings 10:13:2
 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/10:13:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/10:13:2)
-
-
-**בני אחזיהו.** וכן נאמר בדברי הימים (ב כח ח) כי לא היו לו אחים, כי כולם נהרגו מאז כמו שנאמר שם:
-
-
-###### Metzudat David on II Kings 10:13:3
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/10:13:3](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/10:13:3)
 
 
 **לשלום.** לשאול בשלום בני אחאב ואיזבל, ולא ידעו כי נהרגו:
@@ -4930,7 +4888,7 @@ as if to say there is very little [food] here
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/12:11:3](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/12:11:3)
 
 
-**ויצורי.** עשו בהם צורת מטבע, להוציאם, בהוצאה וימנו מטבעות:
+**ויצורו.** עשו בהם צורת מטבע, להוציאם, בהוצאה וימנו מטבעות:
 
 
 
@@ -5630,7 +5588,7 @@ as if to say there is very little [food] here
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/15:1:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/15:1:1)
 
 
-**בשנת עשרים ושבע.** שנויה בסדר עולם: שבשנת כ״ז לירבעם נתנגע עזריה, ומלך מלכות מנוגעת, אבל התחלת מלכות עזריה היתה כאחת עם מלכות ירבעם, [ רצה לומר: מה שמלך אחרי מות אביו יואש, ולא התחלת חשבון ימי מלכותו, כי ירבעם מלך שלשה שנים בחיי אביו, מאז היתה חשבון ימי מלכותו ], כי עזריה מלך ט״ו שנים בחיי אביו, והוא בעת מת יואש [ ולכך לא תלה מלכותו המנוגעת במלכות עצמו, כי לא היינו יודעין אם חושב מהזמן שמלך בחיי אביו, או משמת אביו, אבל עתה כאילו יאמר בשנת כ״ז למלכותו, והוא כ״ז לירבעם, אם כן חושב מזמן שמלך הוא בחיי אביו, והוא הזמן אשר מלך ירבעם משמת אביו ]:
+**בשנת עשרים ושבע.** שנויה בסדר עולם: שבשנת כ״ז לירבעם נתנגע עזריה, ומלך מלכות מנוגעת, אבל התחלת מלכות עזריה היתה כאחת עם מלכות ירבעם, [רצה לומר: מה שמלך אחרי מות אביו יואש, ולא התחלת חשבון ימי מלכותו, כי ירבעם מלך שלשה שנים בחיי אביו, מאז היתה חשבון ימי מלכותו], כי עזריה מלך ט״ו שנים בחיי אביו, והוא בעת מת יואש [ולכך לא תלה מלכותו המנוגעת במלכות עצמו, כי לא היינו יודעין אם חושב מהזמן שמלך בחיי אביו, או משמת אביו, אבל עתה כאילו יאמר בשנת כ״ז למלכותו, והוא כ״ז לירבעם, אם כן חושב מזמן שמלך הוא בחיי אביו, והוא הזמן אשר מלך ירבעם משמת אביו]:
 
 
 It is taught in Seder Olam that in the 27th year of Jeraboam, Azariah was afflicted with Leprosy and he reigned an afflicted kingdom. However, the beginning of Azariah's reign began in the same year Jeraboam began to rule. (NOT DONE)
@@ -5694,7 +5652,7 @@ he was appointed over the palace as a judge who judged the nation in place of th
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/15:8:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/15:8:1)
 
 
-**בשנת שלשים ושמנה.** כי ירבעם מלך שלש שנים בחיי אביו, ולא אחרי מות אביו, ובין כולם מ״א, וכלו אם כן בל״ח לעזריה, כי התחלת מלכות עזריה, משמלך בחיי אביו, והתחלת מלכות ירבעם, משמת אביו היו בזמן אחד, אם כן קדמה מלכות ירבעם למלכות עזריה שלש שנים מה שמלך בחיי אביו, וכלתה שנת מ״א שלו בל״ח לעזריה, ואז מלך זכריה:
+**בשנת שלשים ושמנה.** כי ירבעם מלך שלש שנים בחיי אביו, ול״ח אחרי מות אביו, ובין כולם מ״א, וכלו אם כן בל״ח לעזריה, כי התחלת מלכות עזריה, משמלך בחיי אביו, והתחלת מלכות ירבעם, משמת אביו היו בזמן אחד, אם כן קדמה מלכות ירבעם למלכות עזריה שלש שנים מה שמלך בחיי אביו, וכלתה שנת מ״א שלו בל״ח לעזריה, ואז מלך זכריה:
 
 
 Jeroboam was king 3 years in the life of his father and 38 years after the death of his father, in total 41 years. His term ended in the 38th year of Azariah, because the beginning of Azariah's reign during his father's reign and the beginning of Jeraboam's reign from the death of his father happened at the same time. If so, Jeraboam reigned for three years prior to the reign of Azariah in his father's life, and he ruled in his 41st year during the 38th year of Azariah's reign, and then Zechariah took over.
@@ -5862,7 +5820,7 @@ It wanted to say, after 39 years passed at Azariah, Shallum reigned at the end o
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/15:27:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/15:27:1)
 
 
-**בשנת המשים ושתים.** כי פקחיה מלך בנ׳ לעזריה, ומלך שנתים מקוטעות וכלו, בנ״א לעזריה, ובשנה הבאה מלך פקח, והיא נ״ב לעזריה:
+**בשנת חמשים ושתים.** כי פקחיה מלך בנ׳ לעזריה, ומלך שנתים מקוטעות, וכלו בנ״א לעזריה, ובשנה הבאה מלך פקח, והיא נ״ב לעזריה:
 
 
 ###### Metzudat David on II Kings 15:27:2
@@ -6236,7 +6194,7 @@ It wanted to say, after 39 years passed at Azariah, Shallum reigned at the end o
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/17:6:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/17:6:1)
 
 
-**בשנת התשעית.** מעת שמלך מעצמו [ ולא מלך אם כן כל תשעת השנים, כי הלא אסרו בבית הכלא עד לא עלה על שמרון, ועליה צר ג׳ שנים, ומה שנאמר למעלה מלך הושע וכו׳ תשע שנים, רצה לומר: מהתחלת מלכותו עד הגלות, היה תשע שנים ]:
+**בשנת התשעית.** מעת שמלך מעצמו [ולא מלך אם כן כל תשעת השנים, כי הלא אסרו בבית הכלא עד לא עלה על שמרון, ועליה צר ג׳ שנים, ומה שנאמר למעלה מלך הושע וכו׳ תשע שנים, רצה לומר: מהתחלת מלכותו עד הגלות, היה תשע שנים]:
 
 
 ###### Metzudat David on II Kings 17:6:2
@@ -6277,7 +6235,7 @@ It wanted to say, after 39 years passed at Azariah, Shallum reigned at the end o
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/17:9:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/17:9:1)
 
 
-**ויחפאו.** אמרו בסתר על ה׳ דברים שאינם ראוים לאומרן, כי כחשו בידיעתו והשגחתו, וכמו שנאמר (יחזקאל ח יב):
+**ויחפאו.** אמרו בסתר על ה׳ דברים שאינם ראוים לאומרן, כי כחשו בידיעתו והשגחתו, וכמו שנאמר (יחזקאל ח יב): כי אומרים אין ה׳ רואה אותנו עזב ה׳ את הארץ. ונאמר (ישעיהו כט טו): הוי המעמיקים מה׳ לסתיר עצה וכו׳:
 
 
 ###### Metzudat David on II Kings 17:9:2
@@ -6285,20 +6243,12 @@ It wanted to say, after 39 years passed at Azariah, Shallum reigned at the end o
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/17:9:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/17:9:2)
 
 
-**כי אומרים אין ה׳ רואה אותנו עזב ה׳ את הארץ.** ונאמר (ישעיהו כט טו): הוי המעמיקים מה׳ לסתיר עצה וכו׳:
+**ממגדל נוצרים.** אף במגדל שעומדים בו הצופים וקוראם נוצרים, כי על ידם נשמרים בני העיר:
 
 
 ###### Metzudat David on II Kings 17:9:3
 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/17:9:3](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/17:9:3)
-
-
-**ממגדל נוצרים.** אף במגדל שעומדים בו הצופים וקוראם נוצרים, כי על ידם נשמרים בני העיר:
-
-
-###### Metzudat David on II Kings 17:9:4
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/17:9:4](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/17:9:4)
 
 
 **עד עיר מבצר.** רצה לומר: בכל מקום, כקטן כגדול:
@@ -6537,15 +6487,7 @@ It wanted to say, after 39 years passed at Azariah, Shallum reigned at the end o
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/17:23:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/17:23:2)
 
 
-**עד היום הזה.** רצה לומר:
-
-
-###### Metzudat David on II Kings 17:23:3
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/17:23:3](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/17:23:3)
-
-
-**והנם שם עד היום הזה, ולא חזרו בבית השני כמו יהודה, וכל זה חוזר למעלה, ליתן טעם מדוע חרה אף ה׳ בישראל, ועדיין האריך אף ליהודה, והלא דרך אחד להם, ואמר לפי שעל ידי כל ישראל באה מתחילה התקלה, ולבסוף אחזו מעצמם מבלי מכריח, ולזה חרה בם והגלה אותם, ומבלי חזרה בבית השני.** אבל אנשי יהודה לא בא התקלה על ידם, כי אם על ידי המלכים המכריחו, ובסור המכריח, אחזו עדיין בדרך ה׳, ולזה עדיין לא נתמלא סאתם [ ואף אחר שגלו חזרו בבית השני, כי לא ידמו בחטאם לחטא ישראל, כי תחילת התקלה לא באה על ידם, כדרך שבאה על ידי ישראל ]:
+**עד היום הזה.** רצה לומר: והנם שם עד היום הזה, ולא חזרו בבית השני כמו יהודה, וכל זה חוזר למעלה, ליתן טעם מדוע חרה אף ה׳ בישראל, ועדיין האריך אף ליהודה, והלא דרך אחד להם, ואמר לפי שעל ידי כל ישראל באה מתחילה התקלה, ולבסוף אחזו מעצמם מבלי מכריח, ולזה חרה בם והגלה אותם, ומבלי חזרה בבית השני. אבל אנשי יהודה לא בא התקלה על ידם, כי אם על ידי המלכים המכריחו, ובסור המכריח, אחזו עדיין בדרך ה׳, ולזה עדיין לא נתמלא סאתם [ואף אחר שגלו חזרו בבית השני, כי לא ידמו בחטאם לחטא ישראל, כי תחילת התקלה לא באה על ידם, כדרך שבאה על ידי ישראל]:
 
 
 
@@ -6591,7 +6533,7 @@ It wanted to say, after 39 years passed at Azariah, Shallum reigned at the end o
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/17:26:4](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/17:26:4)
 
 
-**וישלח.** ולזה שלח בהם את האריות בעוד כאשר אינם יודעים משפט וגו׳, אבל כאשר ידעו, לא שלח בהם עוד [ ואף כי מאז היו בארצם לא ידעו משפט ה׳ מכל מקום לא הקפיד על העבודת גלולים כי אם בהיותם בארצו המקודש, ולא בארץ העובדי גלולים ]:
+**וישלח.** ולזה שלח בהם את האריות בעוד כאשר אינם יודעים משפט וגו׳, אבל כאשר ידעו, לא שלח בהם עוד [ואף כי מאז היו בארצם לא ידעו משפט ה׳ מכל מקום לא הקפיד על העבודת גלולים כי אם בהיותם בארצו המקודש, ולא בארץ העובדי גלולים]:
 
 
 
@@ -6602,7 +6544,7 @@ It wanted to say, after 39 years passed at Azariah, Shallum reigned at the end o
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/17:27:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/17:27:1)
 
 
-**וילכו וישבו שם.** חוזר על העובדי גילולים מבבל ומכותה וגו׳, ורצה לומד: כאשר הלכו לשם, כן נשארו יושבים בה, והכהן ילמדם משפט ה׳:
+**וילכו וישבו שם.** חוזר על העובדי גילולים מבבל ומכותה וגו׳, ורצה לומר: כאשר הלכו לשם, כן נשארו יושבים בה, והכהן ילמדם משפט ה׳:
 
 
 
@@ -7113,7 +7055,7 @@ It wanted to say, after 39 years passed at Azariah, Shallum reigned at the end o
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/18:25:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/18:25:2)
 
 
-**ה׳ אמר.** בבר ניבא ישעיהו (ישעיהו ח ד): ישא וכו׳ ואת שלל שומרון, וטעה לומר שכן יעשה לירושלים:
+**ה׳ אמר.** כבר ניבא ישעיהו (ישעיהו ח ד): ישא וכו׳ ואת שלל שומרון, וטעה לומר שכן יעשה לירושלים:
 
 
 
@@ -7529,7 +7471,7 @@ That were sent: The messages that were brought by the messenger.
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/19:21:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/19:21:2)
 
 
-**בזה לך.** בת ציון תבזה אותך, תלעג עליך, [ וקראה בתולה, על כי לא נכבשה עדיין מעולם, למשול בה עם אחר, כבתולה זו שלא באה ברשות הבעל, וכן (ישעיהו כג יב): בתולת בת צידון ]:
+**בזה לך.** בת ציון תבזה אותך, תלעג עליך, [וקראה בתולה, על כי לא נכבשה עדיין מעולם, למשול בה עם אחר, כבתולה זו שלא באה ברשות הבעל, וכן (ישעיהו כג יב): בתולת בת צידון]:
 
 
 ###### Metzudat David on II Kings 19:21:3
@@ -7911,7 +7853,7 @@ That were sent: The messages that were brought by the messenger.
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/20:9:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/20:9:2)
 
 
-**הלך הצל עשר מעלות.** מעלות היו עשויות מול החמה, לבחון בהם שעות היום, כי כל שעה ירד הצל מעלה אחת, ושאל לו באיזה אות יבחר יותר, אם שילך הצל במהלכו לפנים עשר מעלות, פתאום וברגע אחד [ ויהיה ׳הלך׳ כמו ׳ילך׳, עבר במקום עתיד, וכמוהו רבים במקרא ] או אם תרצה שישוב הצל אחורנית עשר מעלות:
+**הלך הצל עשר מעלות.** מעלות היו עשויות מול החמה, לבחון בהם שעות היום, כי כל שעה ירד הצל מעלה אחת, ושאל לו באיזה אות יבחר יותר, אם שילך הצל במהלכו לפנים עשר מעלות, פתאום וברגע אחד [ויהיה ׳הלך׳ כמו ׳ילך׳, עבר במקום עתיד, וכמוהו רבים במקרא] או אם תרצה שישוב הצל אחורנית עשר מעלות:
 
 
 
@@ -7941,15 +7883,7 @@ That were sent: The messages that were brought by the messenger.
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/20:11:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/20:11:2)
 
 
-**במעלות אחז.** רצה לומר:
-
-
-###### Metzudat David on II Kings 20:11:3
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/20:11:3](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/20:11:3)
-
-
-**זה האות נעשה בהמעלות אשר עשה אחז, ובהם שב הצל אחורנית עשר מעלות.** ורבותינו ז״ל אמרו (סנהדרין צו א) ששב לאחור כחשבון שמיהרה לרדת בהמעלות ביום שמת אחז, לקצר את היום, להמעיט בהספדו:
+**במעלות אחז.** רצה לומר: זה האות נעשה בהמעלות אשר עשה אחז, ובהם שב הצל אחורנית עשר מעלות. ורבותינו ז״ל אמרו (סנהדרין צו א) ששב לאחור כחשבון שמיהרה לרדת בהמעלות ביום שמת אחז, לקצר את היום, להמעיט בהספדו:
 
 
 
@@ -8099,7 +8033,18 @@ That were sent: The messages that were brought by the messenger.
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/21:6:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/21:6:2)
 
 
-**ועונן וגו׳.** המה מעשה כשפים (ז) בבית. פסל האשרה שעשה, שם אותם בבית ה׳:
+**ועונן וגו׳.** המה מעשה כשפים:
+
+
+
+### Verse 7
+
+###### Metzudat David on II Kings 21:7:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/21:7:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/21:7:1)
+
+
+**בבית.** פסל האשרה שעשה, שם אותם בבית ה׳:
 
 
 
@@ -8418,7 +8363,7 @@ That were sent: The messages that were brought by the messenger.
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/22:14:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/22:14:1)
 
 
-**אל חולדה.** אמרו רבותינו ז״ל (מגילה יד ב): מפני שהנשים רחמניות הן הלכו אליה שהיא תתפלל בעדם ; או יתכן אשר שאר הנביאים לא היו אז בירושלים:
+**אל חולדה.** אמרו רבותינו ז״ל (מגילה יד ב): מפני שהנשים רחמניות הן הלכו אליה שהיא תתפלל בעדם; או יתכן אשר שאר הנביאים לא היו אז בירושלים:
 
 
 ###### Metzudat David on II Kings 22:14:2
@@ -8480,7 +8425,7 @@ That were sent: The messages that were brought by the messenger.
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/22:18:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/22:18:2)
 
 
-**הדברים אשר שמעת.** רצה לומר: אף שהגזירה גזורה כאשר שמעת אל תהיה, כלול עמהם:
+**הדברים אשר שמעת.** רצה לומר: אף שהגזירה גזורה כאשר שמעת, אל תהיה כלול עמהם:
 
 
 
@@ -8499,7 +8444,7 @@ That were sent: The messages that were brought by the messenger.
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/22:19:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/22:19:2)
 
 
-**ולקללה.** מי שיקלל את זולתו יתלה, הקללה בהם, לומר שיקולל כהם:
+**ולקללה.** מי שיקלל את זולתו יתלה הקללה בהם, לומר שיקולל כהם:
 
 
 
@@ -8924,7 +8869,7 @@ That were sent: The messages that were brought by the messenger.
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/23:18:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/23:18:2)
 
 
-**אשך בא משומרון.** להשיב עמו את איש האלהים, כאשר נאמר שם:
+**אשר בא משומרון.** להשיב עמו את איש האלהים, כאשר נאמר שם:
 
 
 
@@ -8935,7 +8880,7 @@ That were sent: The messages that were brought by the messenger.
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/23:20:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/23:20:1)
 
 
-**אשך שם.** אף שכבר גלו משומרון, עם כל זאת המעט אשר נשארו עבדו עבודת כוכבים ומזלות כמאז:
+**אשר שם.** אף שכבר גלו משומרון, עם כל זאת המעט אשר נשארו עבדו עבודת כוכבים ומזלות כמאז:
 
 
 ###### Metzudat David on II Kings 23:20:2
@@ -8954,7 +8899,7 @@ That were sent: The messages that were brought by the messenger.
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/23:22:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/23:22:1)
 
 
-**כי לא נעשה.** רצה לומר: עם שגם לפניו עשו פסח, מכל מקום הוכרח לצות לעשות ככתוב בטהרה גדולה, כי לא נעשה כפסח הזה העשוי בטהרה מימי השופטים, ובדברי הימים (ב לה יח) נאמד מימי שמואל, כי שמואל היה סוף שופטים:
+**כי לא נעשה.** רצה לומר: עם שגם לפניו עשו פסח, מכל מקום הוכרח לצות לעשות ככתוב בטהרה גדולה, כי לא נעשה כפסח הזה העשוי בטהרה מימי השופטים, ובדברי הימים (ב לה יח) נאמר מימי שמואל, כי שמואל היה סוף שופטים:
 
 
 ###### Metzudat David on II Kings 23:22:2
@@ -9129,7 +9074,7 @@ after 3 years.
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/24:2:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/24:2:1)
 
 
-**וישלח ה׳.** העיד את לב גדודי כשדים וכו׳, לבוא עליו למלחמה:
+**וישלח ה׳.** העיר את לב גדודי כשדים וכו׳, לבוא עליו למלחמה:
 
 
 He awoken the hearts of the armies of the Chaldeans etc..., so that they will bring war to Judah.
@@ -9200,15 +9145,7 @@ According to the [extended] timespan of the events, therefore it went back and s
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/24:6:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/24:6:1)
 
 
-**עם אבותיו.** רצה לומר:
-
-
-###### Metzudat David on II Kings 24:6:2
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/24:6:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/24:6:2)
-
-
-**שמת עם אבותיו, אבל לא נקבר עמהם, כי אסר אותו להוליכו בבלה, ומת בדרך, ולא נקבר כלל כמו שנאמר בדברי הימים (ב לו ו) ובירמיהו (כב יט.** עיין סנהדרין פב א):
+**עם אבותיו.** רצה לומר: שמת עם אבותיו, אבל לא נקבר עמהם, כי אסר אותו להוליכו בבלה, ומת בדרך, ולא נקבר כלל כמו שנאמר בדברי הימים (ב לו ו) ובירמיהו (כב יט. עיין סנהדרין פב א):
 
 
 
@@ -9305,7 +9242,7 @@ cut off and peeled the gold from the vessels
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/24:14:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/24:14:1)
 
 
-**עשרת אלפים.** ובירמיהו (שם) נאמר: יהודים שלשת אלפים ועשרים ושחושה, ורצה לומר: מבני יהודה היה החשבון האמור, והמותר היו מבני בנימין ושאר השבטים אשר התגוררו בירושלים, וזהו שאמר למטה שבעת אלפים, וכולם יחד המה עשרת אלפים, ולא חש לחשוב עוד אותן הכ״ג האמור בירמיהו:
+**עשרת אלפים.** ובירמיהו (שם) נאמר: יהודים שלשת אלפים ועשרים ושלושה, ורצה לומר: מבני יהודה היה החשבון האמור, והמותר היו מבני בנימין ושאר השבטים אשר התגוררו בירושלים, וזהו שאמר למטה שבעת אלפים, וכולם יחד המה עשרת אלפים, ולא חש לחשוב עוד אותן הכ״ג האמור בירמיהו:
 
 
 And in Jeremiah it says that the [exiled] Jews were 3,023 persons?! And [Yet] it meant to say: 'This calculation was regarding the population of Judah ', And the remainder were from the children of Benjamin and the rest of the tribes which lived in Jerusalem, and that's why it says somewhere else '7000', so that altogether they were 10,000, and they did not care to include the other 23 that were mentioned in Jeremiah.
@@ -9366,7 +9303,7 @@ Since the wrath of Hashem in Jerusalem and in Yehuda became great, until the poi
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/25:1:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/25:1:2)
 
 
-**ייק.** הוא מגדל הנבנה מול העיר ללכדה:
+**דיק.** הוא מגדל הנבנה מול העיר ללכדה:
 
 
 
@@ -9491,7 +9428,7 @@ Since the wrath of Hashem in Jerusalem and in Yehuda became great, until the poi
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/25:9:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/25:9:1)
 
 
-**בית גדול.** הוא פירש על מה שאמר כל בתי ירושלים, לומר שהם כל בית אדם גדול אשר בירושלים, ואותם לבד שרף ולא זולתם:
+**בית גדול.** הוא פירוש על מה שאמר כל בתי ירושלים, לומר שהם כל בית אדם גדול אשר בירושלים, ואותם לבד שרף ולא זולתם:
 
 
 
@@ -9643,7 +9580,7 @@ Since the wrath of Hashem in Jerusalem and in Yehuda became great, until the poi
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/25:24:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/25:24:1)
 
 
-**וישבע להם.** גדליהו נשבע להשדים ההם, שאין להם לפחוד מן הכשדים, כי לא יקחם בשבי:
+**וישבע להם.** גדליהו נשבע להשרים ההם, שאין להם לפחוד מן הכשדים, כי לא יקחם בשבי:
 
 
 ###### Metzudat David on II Kings 25:24:2
@@ -9670,7 +9607,7 @@ Since the wrath of Hashem in Jerusalem and in Yehuda became great, until the poi
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/25:25:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Kings/r/25:25:2)
 
 
-**ואת היהודים.** גם היהודים והכשדים שהיו עם גדליה, הדג ישמעאל ואנשיו:
+**ואת היהודים.** גם היהודים והכשדים שהיו עם גדליה, הרג ישמעאל ואנשיו:
 
 
 

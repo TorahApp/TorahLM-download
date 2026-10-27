@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Haggadah Shaliehsaboo Edition (Segments: 240, License: unknown)
 
-Version (En): Publicado em 5784, Saymon Pires da Silva [pt] (Segments: 240)
+Version (En): Sefaria Community Translation (Segments: 240)
 
 
 ## Kadesh

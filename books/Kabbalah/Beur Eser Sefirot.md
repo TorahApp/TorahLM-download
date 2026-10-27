@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Be'ur Eser S'firot - grimoar (Segments: 46, License: Public Domain)
 
-Version (En): Sefaria Community Translation (Segments: 11)
+Version (En): Sefaria Community Translation (Segments: 22)
 
 
 ## Section 1
@@ -79,7 +79,7 @@ Answer. Know that all that you see an all that is perceived in the thoughts of t
 ג) ואם יוסיף השואל לשאול באיזה הכרח תכריח כי יש שם ספירות כי רצוני לומר כי אין שם רק אין סוף לבד:
 
 
-And if one goes on to ask: Why should I be compelled to think that the S'firot are there? As I would prefer to say that there's nothing there except the Infinite One alone?
+3) And if one goes on to ask: Why should I be compelled to think that the S'firot are there? As I would prefer to say that there's nothing there except the Infinite One alone?
 
 
 ###### Beur Eser Sefirot 3:2
@@ -115,7 +115,7 @@ And if you say that the limit is found at the moment of creation of this world -
 ד) ואם יוסיף השואל לשאול הנה הכרחת שיש שם ספירות אבל במה תכריח שהם עשרה (ו)שהוא כח אחד:
 
 
-And if one should ask: Now I am convinced that the S'firot exist, but what should compel me [to think] that there are ten of them but they act as a single force?
+4) And if one should ask: Now I am convinced that the S'firot exist, but what should compel me [to think] that there are ten of them but they act as a single force?
 
 
 ###### Beur Eser Sefirot 4:2
@@ -140,7 +140,7 @@ Answer. Already I have shown you that the S'firot are the head and beginning of 
 ה) ואם יוסיף השואל לשאול היאך תאמר שהספירות נאצלות אני אומר שהיו נבראות כשאר הנבראים:
 
 
-And if one should ask, 'How can you say that the S'firot are emanated [from God] - I say that they were created when [everything else] was created?!
+5) And if one should ask, 'How can you say that the S'firot are emanated [from God] - I say that they were created when [everything else] was created?!
 
 
 ###### Beur Eser Sefirot 5:2
@@ -165,12 +165,18 @@ Answer. Already I have demonstrated that the Infinite One is perfect, without de
 ו) ועל זה יוסיף השואל לשאול היאך נוכל לומר כי הוא אחד והמספר עשר המתאחדים בו כי בזה נשמור אמיתת לבבינו ולא נשמור מאמר פינו:
 
 
+6) Concerning this, the questioner will further ask: “How can we say that He is one, while the number ten are united in Him? For in this way we preserve the truth of our hearts, but fail to preserve the declaration of our mouths.
+
+
 ###### Beur Eser Sefirot 6:2
 
 [https://torahapp.org/share/book/Beur%20Eser%20Sefirot/r/6:2](https://torahapp.org/share/book/Beur%20Eser%20Sefirot/r/6:2)
 
 
 תשובה. כבר הודעתיך כי האחד יסוד הרבים ואין כח מתחדש בהם אלא ממנו והוא יתר מהם וכל אחד מהם יתר על חבירו שלמטה ממנו וכח זה בזה א"כ הראשון הוא כח כולם וכח כולם אינם [אלא] כח ראשון, אע"פ שהראשון כח כולם שאין בפרט אלא מה שבכלל והמשל על זה האש והשלהבת והזיקים והגונין שהם עקר אחד (ו)אע"פ שהם משתנים זה מזה בהתחלק חלקיהם:
+
+
+Answer. I have already made known to you that the One is the foundation of the many, and that no power comes into being within them except from Him. He surpasses them, and each of them surpasses the one beneath it, while the power of each is present in the other. If so, the first [sefirah] is the power of them all, and the power of them all is nothing but the power of the first. Although the first is the power of them all, for nothing exists in the particular except what is contained in the whole, the analogy for this is fire, flame, sparks, and colors: they are one root, even though they differ from one another through the differentiation of their parts.
 
 
 
@@ -184,12 +190,18 @@ Answer. Already I have demonstrated that the Infinite One is perfect, without de
 ז) ואם יוסיף השואל לשאול אחרי אשר בררת כי יש ספירות והם עשרה והן לא נבראות אלא נאצלות והמספר כח אחד עתה השיבני למה אתן להם שיעור וגבול וגשמות:
 
 
+7) And if the questioner should further ask: “Now that you have established that the sefirot exist, that they are ten, that they were not created but emanated, and that their number constitutes a single power, tell me: why should I attribute measure, limit, and corporeality to them?”
+
+
 ###### Beur Eser Sefirot 7:2
 
 [https://torahapp.org/share/book/Beur%20Eser%20Sefirot/r/7:2](https://torahapp.org/share/book/Beur%20Eser%20Sefirot/r/7:2)
 
 
 תשובה. כבר הודעתיך כי אין סוף הוא שלימות בלי חסרון ויש לו כח בגבול מבלי גבול והגבול הנאצל ממנו המגביל לכל מצוי הם הספירות שיש להם כח לפעול בהשלמה ובחסרון. ואילו לא המציא להם גבול לא היינו מכירים שהיה לו כח להמציא הגבול. וכדי להעיד שאין חוץ ממנו המציא הגבול שהמוגבלים נכרים בהגבלתם. ואע"פ שאין גבול למעלה רמז ההירהור הבא מא"ס שהוא מתעלה ומתעלם מהתפשט בגבול. יש בגבול לכל הנתפש בהרהור הלב וברמז המחשבה המתפשט למטה להמצא בדבור ולהראות למעשה. וכל הבא בגבול יש לו שעור ויש לו גשמות כי כל יש שנתפש בהרהור הלב קרוי גוף ואפילו הרוח ולפיכך הספירות שהם כלל לכל מוגבל הם שרש הגבול. והגבול ההוא מבלי גבול נאצל ולכך נאמר מדתן עשרה שאין להם סוף. וחכמי המחקר אמרו כי שכל האדם יש לו גבול ומדרך המנהג אנו רואים כי כל דבר יש לו גבול ושעור ומדה:
+
+
+Answer. I have already made known to you that Ein Sof is perfection without deficiency, and that He possesses the power of limitation without being limited. The limit emanated from Him, which sets bounds to every existent thing, consists of the sefirot and they possess the power to act both toward perfection and toward deficiency. Had He not brought forth a limit for them, we would not have known that He possessed the power to bring forth limitation. In order to bear witness that nothing exists outside Him, He brought forth the limit, for limited things are recognized through their limitation. Although there is no limit above, the intimation apprehended by reflection comes from Ein Sof, who is exalted and concealed beyond extension within limitation. Within the limit lies everything that can be apprehended by the reflection of the heart and intimated by thought, which extends downward until it finds expression in speech and becomes manifest in action. Everything that enters within limitation possesses measure and corporeality, for every existent thing apprehended by the reflection of the heart is called a “body,” even spirit. Therefore, the sefirot, which comprise the totality of everything limited, are the root of limitation. That limit was emanated from the Limitless, therefore, it is said: “Their measure is ten, yet they have no end.” The masters of philosophical inquiry have said that the human intellect possesses a limit, and from ordinary experience we observe that every thing possesses a limit, a proportion, and a measure.
 
 
 
@@ -203,12 +215,18 @@ Answer. Already I have demonstrated that the Infinite One is perfect, without de
 ח) ואם יוסיף השואל לשאול עתה יש להשיבני הספירות האלו אימתי היו. אם תשיבני עתה מקרוב לבריאת עולם היו א"כ יש להקשות מדוע כיון אצילותם עתה ולא מאז וכי יש חדוש הדעת אצל השלם. ואם תשיבני שהם קדמותן א"כ היו בהשואתו ואם היו בהשואה אחת מה הפרש [יש] ביניהם:
 
 
+8) And if the questioner should further ask: “Now you must answer me: when did these sefirot come into existence? If you answer that they came into being shortly before the creation of the world, then one must ask: why did He ordain their emanation at that time and not before? Can there be a change of intention in the Perfect One? And if you answer that they are primordial, then they would have been equal with Him. And if they all existed in a state of equality, what distinction could there be among them?”
+
+
 ###### Beur Eser Sefirot 8:2
 
 [https://torahapp.org/share/book/Beur%20Eser%20Sefirot/r/8:2](https://torahapp.org/share/book/Beur%20Eser%20Sefirot/r/8:2)
 
 
 תשובה. יש מהם מהספירות שהיו בכח בא"ס קודם צאתם אל הפועל כמו הספירה הראשונה שהיא שוה לכולם ויש מהם במושכל שנאצלו מאז כמו הספירה השנית שממנה תורה שקדמה לבריאתו של עולם ויש מהם במורגש ויש מהם במוטבע כמו הספירות שהם לצורך העולם הזה שנאצלו עתה קרוב לבריאת העולם. ולפי שכח זה בזה בהמצא שתי הספירות הראשונות שהם כח (נאצל) נעלם ומושכל, מציאותם מספיק אל האחרונות כמו שאמרו רז"ל והלא במאמר אחד יכול להבראות. ועל מה ששאלת א"כ היו בהשוואתו. תשובה אע"פ שאין להמשיל משל לא"ס, לקרב הדבר לדעתך המשל הדבר לנר שמדליקין ממנו אלפי רבבות וזה מאיר יותר מזה וכולם שוים בהשואת האור הראשון וכולם מעקר אחד ואין לדמות זה לזה. ואין לדמות קדימתן לקדימתו כי הוא יותר מהם וכחם [אצול] ממנו מפני יתרון קדימתו ואין חדוש מתחדש בו אלא שנתגלה כח אצילות בחלוק הויתם ולכך אין לומר שהיה חדוש הדעת אצלו אע"פ שאין חוץ ממנו:
+
+
+Answer. Some of the sefirot existed potentially within Ein Sof before emerging into actuality, as in the case of the first sefirah, which is equivalent to them all. Some existed in an intelligible mode, having been emanated from of old, as in the case of the second sefirah, from which derives the Torah that preceded the creation of the world. Some exist in a perceptible mode, and some in a mode imprinted within nature, as in the case of those sefirot required for this world, which were emanated shortly before the creation of the world. Since the power of each is contained within the other, once the first two sefirot existed—as a hidden and intelligible emanated power—their existence was sufficient for the existence of the latter sefirot. This is as our Rabbis, of blessed memory, said: “Could the world not have been created by a single utterance?” Regarding your question, “Would they not then have been equal with Him?”, the answer is as follows. Although no analogy can properly be applied to Ein Sof, in order to bring the matter closer to your understanding, it may be compared to a lamp from which thousands upon thousands of lights are kindled. One shines more brightly than another, yet they are all equal in their relation to the first light; they all proceed from a single root. Nevertheless, the one must not be identified with the other. Nor may their precedence be compared with His precedence, for He surpasses them and their power is emanated from Him by virtue of the superiority of His precedence. No change comes into being within Him; rather, the power of emanation becomes manifest through the differentiation of their modes of existence. Therefore, one cannot say that a change of intention occurred within Him, even though nothing exists outside Him.
 
 
 
@@ -222,12 +240,18 @@ Answer. Already I have demonstrated that the Infinite One is perfect, without de
 ט) ואם יוסיף השואל לשאול מהו מהותם:
 
 
+9) And if the questioner should further ask: “What is their essence?”
+
+
 ###### Beur Eser Sefirot 9:2
 
 [https://torahapp.org/share/book/Beur%20Eser%20Sefirot/r/9:2](https://torahapp.org/share/book/Beur%20Eser%20Sefirot/r/9:2)
 
 
 תשובה. מהות הספירה שוה לכל דבר ולכל תמורה שאם לא היה בהם כח שוה לא היה כח לכל דבר כי מה שהוא אור אינו חשך ומה שהוא חשך אינו אור ולכן יש לדמות מהותם לרצון הנפש שהיא שוה לכל החפצים ולכל המחשבות המתפשטות ממנה אע"פ שהם רבים אין עקרם אלא אחד בדבר ובתמורתן, וכן חיי הנפש והשכל והחן והחסד והרחמים אע"פ שהן יש מאין אין ישותם גמורה. אך בהתלבש העצם בדמיון יש לנו לדמות הכח הראשון אל האור המתעלם. והכח השני אל האור (המתעלם) הכולל כל גוון וזה האור הוא כעין התכלת שהיא תכלית כל הצבעים ואין בו עין גוון ידוע. הכח השלישי אל האור הירוק, הכח הרביעי אל האור הלבן, הכח החמישי אל האור האודם, הכח הששי כלול מלובן ואודם, הכח השביעי כח האודם הנוטה ללובן, הכח השמיני כח הלובן הנוטה לאודם, הכח התשיעי כלול מלובן ואודם ומן האודם הנוטה ללובן ומן הלובן הנוטה לאודם, הכח העשירי כלול מכל גוון:
+
+
+Answer. The essence of the sefirot is equally receptive to every thing and to its opposite. For if they did not possess a power equally receptive to both, there could be no power for every thing: that which is light is not darkness, and that which is darkness is not light. Their essence should therefore be compared to the will of the soul, which is equally receptive to all the desires and all the thoughts that extend from it. Although these are many, their root is one, both in a thing and in its opposite. The same applies to the life of the soul, intellect, grace, lovingkindness, and mercy: although they are something brought forth from nothing, their existence is not complete in itself. Yet, when the essence is clothed in an image, we may compare the first power to hidden light; the second power to light that contains every hue. This light resembles tekhelet, which is the culmination of all colors, although no particular hue can be discerned within it. The third power may be compared to green light; the fourth power to white light; the fifth power to red light; the sixth power comprises white and red; the seventh power is red tending toward white; the eighth power is white tending toward red; the ninth power comprises white and red, red tending toward white, and white tending toward red; and the tenth power comprises every hue.
 
 
 
@@ -241,6 +265,9 @@ Answer. Already I have demonstrated that the Infinite One is perfect, without de
 י) ואם יוסיף השואל לשאול מה שמם סדרם ומקומם:
 
 
+10) And if the questioner should further ask: “What are their names, their order, and their positions?”
+
+
 ###### Beur Eser Sefirot 10:2
 
 [https://torahapp.org/share/book/Beur%20Eser%20Sefirot/r/10:2](https://torahapp.org/share/book/Beur%20Eser%20Sefirot/r/10:2)
@@ -249,12 +276,18 @@ Answer. Already I have demonstrated that the Infinite One is perfect, without de
 תשובה. שם הכח הראשון קרוי רום מעלה שהוא מרומם מחקר חוקר. השני קרוי חכמה שהוא תחילת ההשתכלות. השלישי קרוי בינה, ועד כאן עולם השכל. הרביעי קרוי חסד, החמישי קרוי פחד, הששי קרוי תפארת, עד כאן עולם הנפש. השביעי קרוי נצח, השמיני קרוי הוד, התשיעי קרוי צדיק יסוד עולם, העשירי קרוי צדק, עד כאן עולם הגוף. וזהו סדר פעולתן:
 
 
+Answer. The first power is called Supreme Height, for it is exalted beyond the investigation of the inquirer. The second is called Wisdom, for it is the beginning of intellectual contemplation. The third is called Understanding. Up to this point extends the world of intellect.
+
+
 ###### Beur Eser Sefirot 10:3
 
 [https://torahapp.org/share/book/Beur%20Eser%20Sefirot/r/10:3](https://torahapp.org/share/book/Beur%20Eser%20Sefirot/r/10:3)
 
 
 הראשון לכח אלהיי, השני לכח מלאכותיי, השלישי לכח נבואה, הרביעי להגדיל חסד אל העליונים, החמישי לדון, בפחד גבורתו, הששי לרחם על התחתונים בפחד, השביעי לגדל ולחזק נפש הצומחת, השמיני להחלישה ולהחליאה התשיעי להמשיך כח כולן פעם לדבר אחד פעם לתמורה, העשירי מדת הדין שלמטה שהיא כלולה מכח כולם לדון התחתונים. וכח נפש האדם נמשך מהם ומכחם על דרך זה רום מעלה בכח הנפש הנקראת יחידה. והחכמה בכח הנפש נפש חיה, והבינה בכח הרוח, והחסד בכח הנפש, והפחד בכח הנקרא נשמה, והתפארת בכח הדם, והנצח בכח העצם, וההוד בכח הבשר, יסוד עולם בכח הגיד, צדק בכח עור הבשר. ומקום עמידתם למעלה כך הוא, רום מעלה מקיף וסובב החכמה והבינה שהם סובבות מה שלמטה מהם, והחסד נמשך אל הנצח שהוא מצד ימין, והפחד נמשך אל ההוד שהוא מצד השמאל, והתפארת ויסוד עולם באמצע, וצדק כנגדן:
+
+
+The fourth is called Lovingkindness, the fifth is called Fear, and the sixth is called Beauty. Up to this point extends the world of the soul. The seventh is called Eternity, the eighth is called Splendor, the ninth is called “The Righteous One, Foundation of the World”, and the tenth is called Righteousness. Up to this point extends the world of the body. This is the order of their operations: the first corresponds to the divine power, the second to the angelic power, the third to the power of prophecy, the fourth magnifies lovingkindness toward the upper beings, the fifth judges through the fear inspired by its might, the sixth shows mercy toward the lower beings while tempering it with fear, the seventh causes the vegetative soul to grow and become strong, the eighth weakens it and causes it to become ill, the ninth channels the power of all of them, sometimes toward one thing and sometimes toward its opposite, and the tenth is the lower Attribute of Judgment, which comprises the power of them all and judges the lower beings. The power of the human soul is drawn from them and from their powers in the following manner: Supreme Height corresponds to the power of the soul called Yeḥidah, Wisdom to the power of the soul called the Living Soul, Understanding to the power of the spirit, Lovingkindness to the power of the soul, Fear to the power called Neshamah, Beauty to the power of the blood, Eternity to the power of the bones, Splendor to the power of the flesh, Foundation of the World to the power of the sinews, and Righteousness to the power of the skin of the flesh. Their arrangement above is as follows: Supreme Height encompasses and surrounds Wisdom and Understanding, which in turn surround those below them. Lovingkindness extends toward Eternity, which is on the right side; Fear extends toward Splendor, which is on the left side; Beauty and Foundation of the World are in the middle; and Righteousness stands opposite them.
 
 
 

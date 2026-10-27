@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Minchat Shai on Torah (Segments: 3358, License: Public Domain)
 
-Version (En): Publicado em 5784, Saymon Pires da Silva [pt] (Segments: 7)
+Version (En): Sefaria Community Translation (Segments: 7)
 
 
 ## Genesis

@@ -364,7 +364,7 @@ Version (He): Piotrków, 1898-1900 (Segments: 34, License: Public Domain)
 [https://torahapp.org/share/book/Kikar%20LaAden%20on%20Jerusalem%20Talmud%20Horayot/r/3:5:4:1](https://torahapp.org/share/book/Kikar%20LaAden%20on%20Jerusalem%20Talmud%20Horayot/r/3:5:4:1)
 
 
-**להחזיר את הטפשים.** פי' שיטרח הרב להחזיר כעה פעמים לתלמיד טפש:
+**להחזיר את הטפשים.** פי' שיטרח הרב להחזיר כמה פעמים לתלמיד טפש:
 
 
 

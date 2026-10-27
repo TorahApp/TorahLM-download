@@ -1117,7 +1117,7 @@ Version (En): Bartenura on Mishnah, trans. by Rabbi Robert Alpert, 2020 (Segment
 [https://torahapp.org/share/book/Bartenura%20on%20Mishnah%20Shekalim/r/4:1:4](https://torahapp.org/share/book/Bartenura%20on%20Mishnah%20Shekalim/r/4:1:4)
 
 
-**שׁוֹמֵר חִנָּם.** וְאַף עַל גַּב דְּקָנָה אוֹתָם מִן הַהֶפְקֵר כְּשׁ?ֶשּׁוֹמְרָם חִנָּם וֶהֱבִיאָם וַהֲרֵי הֵן שֶׁלּוֹ, רַבִּי יוֹסֵי סָבַר דְּקָרְבַּן יָחִיד מִשְׁתַּנֶּה לְקָרְבַּן צִבּוּר:
+**שׁוֹמֵר חִנָּם.** וְאַף עַל גַּב דְּקָנָה אוֹתָם מִן הַהֶפְקֵר כְּשֶׁשָּׁמְרָם חִנָּם וֶהֱבִיאָם וַהֲרֵי הֵן שֶׁלּוֹ, רַבִּי יוֹסֵי סָבַר דְּקָרְבַּן יָחִיד מִשְׁתַּנֶּה לְקָרְבַּן צִבּוּר:
 
 
 שומר חנם – and even though he acquired them for that which was ownerless, for when he guarded them for free and brought them, they are his. Rabbi Yosi holds that an individual sacrifice is different from the community sacrifice.

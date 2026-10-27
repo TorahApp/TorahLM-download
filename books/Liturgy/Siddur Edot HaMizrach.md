@@ -14,9 +14,9 @@ Location: Liturgy/Siddur
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Torat Emet 357 (Segments: 3380, License: Public Domain)
+Version (He):  Shaliehsaboo Edition (Segments: 3380, License: CC0)
 
-Version (En): Publicado em 5784, Saymon Pires da Silva [pt] (Segments: 1095)
+Version (En): Wikipedia, by Musashiaharon (Segments: 1095)
 
 
 ## Preparatory Prayers
@@ -365,7 +365,7 @@ Blessed are You, Hashem, King of the Universe, Who removes the bonds of sleep fr
 **יְהִי** רָצוֹן מִלְּפָנֶיךָ יְהֹוָה, אֱלֹהַי וֵאלֹהֵי אֲבוֹתַי, שֶׁתַּצִּילֵנִי הַיּוֹם וּבְכָל יוֹם וָיוֹם, מֵעַזֵּי פָנִים, וּמֵעַזּוּת פָּנִים, מֵאָדָם רָע, מִיֵּצֶר רָע, מֵחָבֵר רָע, מִשָּׁכֵן רָע, מִפֶּגַע רָע, מֵעַיִן הָרָע, וּמִלָּשׁוֹן הָרָע, מִדִּין קָשֶׁה, וּמִבַּעַל דִּין קָשֶׁה, בֵּין שֶׁהוּא בֶן־בְּרִית, וּבֵין שֶׁאֵינוֹ בֶן־בְּרִית:
 
 
-May it be the will, before You, Hashem, my God and the God of my fathers, that You spare me today and every single day, from the arrogant, and from arrogance, from an evil man, from the evil inclination, from an evil friend, from an evil companion, from a bad mishap, from the evil eye, from slander, from a a difficult judgment, and from a difficult accuser, whether he is a Jew or whether he is not a Jew.
+May it be the will, before You, Hashem, my God and the God of my fathers, that You spare me today and every single day, from the arrogant, and from arrogance, from an evil man, from the evil inclination, from an evil friend, from an evil companion, from a bad mishap, from the evil eye, from slander, from a difficult judgment, and from a difficult accuser, whether he is a Jew or whether he is not a Jew.
 
 
 
@@ -2097,7 +2097,7 @@ Recital of Shema and Blessings
 [https://torahapp.org/share/book/Siddur%20Edot%20HaMizrach/s/Weekday%20Shacharit,_The%20Shema/r/2](https://torahapp.org/share/book/Siddur%20Edot%20HaMizrach/s/Weekday%20Shacharit,_The%20Shema/r/2)
 
 
-**בָּרוּךְ** אַתָּה יְהֹוָה, אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם, כשיתחיל יוצר אור ימשמש בתפלין של יד (בא"ח שמות ה"א) יוֹצֵר אוֹר וּבוֹרֵא חֹשֶׁךְ עֹשֵׂה שָׁלוֹם וּבוֹרֵא אֶת הַכֹּל. הַמֵּאִיר לָאָרֶץ וְלַדָּרִים עָלֶיהָ בְּרַחֲמִים, וּבְטוּבוֹ מְחַדֵּשׁ בְּכָל יוֹם תָּמִיד מַעֲשֵׂה בְּרֵאשִׁית. מָה רַבּוּ מַעֲשֶׂיךָ יְהֹוָה כֻּלָּם בְּחָכְמָה עָשִׂיתָ, מָלְאָה הָאָרֶץ קִנְיָנֶךָ. הַמֶּלֶךְ הַמְּרוֹמָם לְבַדּוֹ מֵאָז, הַמְּשֻׁבָּח וְהַמְּפוֹאָר וְהַמִּתְנַשֵּׂא מִימוֹת עוֹלָם. אֱלֹהַי עוֹלָם, בְּרַחֲמֶיךָ הָרַבִּים רַחֵם עָלֵינוּ, אֲדוֹן עוּזֵּנוּ, צוּר מִשְׂגַּבֵּנוּ, מָגֵן יִשְׁעֵנוּ, מִשְׂגָּב בַּעֲדֵנוּ. אֵל בָּרוּךְ גְּדוֹל דֵּעָה, הֵכִין וּפָעַל זָהֳרֵי חַמָּה. טוֹב יָצַר כָּבוֹד לִשְׁמוֹ, מְאוֹרוֹת נָתַן סְבִיבוֹת עֻזּוֹ. פִּינוֹת צִבְאוֹת קְדוֹשִׁים, רוֹמְמֵי שַׁדַּי, תָּמִיד מְסַפְּרִים כְּבוֹד אֵל וּקְדוּשָׁתוֹ. תִּתְבָּרַךְ יְהֹוָה אֱלֹהֵינוּ בַּשָּׁמַיִם מִמַּעַל וְעַל־הָאָרֶץ מִתַּחַת עַל־כָּל־שֶׁבַח מַעֲשֵׂה יָדֶיךָ וְעַל מְאוֹרֵי אוֹר שֶׁיָּצַרְתָּ הֵמָּה יְפָאֲרוּךָ סֶּלָה:
+**בָּרוּךְ** אַתָּה יְהֹוָה, אֱלֹהֵֽינוּ מֶֽלֶךְ הָעוֹלָם, כשיתחיל יוצר אור ימשמש בתפלין של יד (בא"ח שמות ה"א) יוֹצֵר אוֹר וּבוֹרֵא חֹשֶׁךְ עֹשֵׂה שָׁלוֹם וּבוֹרֵא אֶת הַכֹּל. הַמֵּאִיר לָאָרֶץ וְלַדָּרִים עָלֶיהָ בְּרַחֲמִים, וּבְטוּבוֹ מְחַדֵּשׁ בְּכָל יוֹם תָּמִיד מַעֲשֵׂה בְּרֵאשִׁית. מָה רַבּוּ מַעֲשֶׂיךָ יְהֹוָה כֻּלָּם בְּחָכְמָה עָשִׂיתָ, מָלְאָה הָאָרֶץ קִנְיָנֶךָ. הַמֶּלֶךְ הַמְּרוֹמָם לְבַדּוֹ מֵאָז, הַמְּשֻׁבָּח וְהַמְּפוֹאָר וְהַמִּתְנַשֵּׂא מִימוֹת עוֹלָם. אֱלֹהֵי עוֹלָם, בְּרַחֲמֶיךָ הָרַבִּים רַחֵם עָלֵינוּ, אֲדוֹן עוּזֵּנוּ, צוּר מִשְׂגַּבֵּנוּ, מָגֵן יִשְׁעֵנוּ, מִשְׂגָּב בַּעֲדֵנוּ. אֵל בָּרוּךְ גְּדוֹל דֵּעָה, הֵכִין וּפָעַל זָהֳרֵי חַמָּה. טוֹב יָצַר כָּבוֹד לִשְׁמוֹ, מְאוֹרוֹת נָתַן סְבִיבוֹת עֻזּוֹ. פִּינוֹת צִבְאוֹת קְדוֹשִׁים, רוֹמְמֵי שַׁדַּי, תָּמִיד מְסַפְּרִים כְּבוֹד אֵל וּקְדוּשָׁתוֹ. תִּתְבָּרַךְ יְהֹוָה אֱלֹהֵינוּ בַּשָּׁמַיִם מִמַּעַל וְעַל־הָאָרֶץ מִתַּחַת עַל־כָּל־שֶׁבַח מַעֲשֵׂה יָדֶיךָ וְעַל מְאוֹרֵי אוֹר שֶׁיָּצַרְתָּ הֵמָּה יְפָאֲרוּךָ סֶּלָה:
 
 
 Blessed are You, G·d, Our L·rd, King of the Universe who forms light and creates darkness. Who makes peace and creates everything. He Who illuminates the earth and those who dwell upon it – with compassion, and with His goodness He renews daily the work of creation. How great are your deeds Oh, G·d – all of them You have done with wisdom – the world is full of Your possessions. The lofty King, alone from before [time]. The Praiseworthy One, and the Glorified and the Exalted – from the days of the [beginning of] world. G·d of the world with Your abundant mercy have mercy upon us. Master of our power, the Rock of our Refuge, the Shield of our salvation, Refuge for us, Blessed G·d, Great in knowledge, Who prepared and Made the Lights of Sun. Good One, You created it for the honor of Your Name. Luminaries were placed around His Might. In the corners are the Holy hosts, that glorify the Almighty. At all times they tell of the Honor of G·d and His Holiness. You are Blessed, L·rd, our G·d in the Heavens above and upon the land below it. Upon all the praise of Your handiwork and the luminaries of light – that You formed – they will glorify You forever.
@@ -15292,7 +15292,7 @@ Blessed are You, L·rd, our G·d, King of the universe, Who creates Many Souls, 
 [https://torahapp.org/share/book/Siddur%20Edot%20HaMizrach/s/Shabbat%20Shacharit,_Pesukei%20D%27Zimra/r/20](https://torahapp.org/share/book/Siddur%20Edot%20HaMizrach/s/Shabbat%20Shacharit,_Pesukei%20D%27Zimra/r/20)
 
 
-**נִשְׁמַת** נִשְׁמַת כָּל־חַי תְּבָרֵךְ אֶת שִׁמְךָ יְהֹוָה אֱלֹהֵֽינוּ, וְרֽוּחַ כָּל־בָּשָׂר תְּפָאֵר וּתְרוֹמֵם זִכְרְךָ מַלְכֵּֽנוּ תָּמִיד, מִן־הָעוֹלָם וְעַד־הָעוֹלָם אַתָּה אֵל. וּמִבַּלְעָדֶֽיךָ אֵין לָֽנוּ מֶֽלֶךְ גּוֹאֵל וּמוֹשִֽׁיעַ, פּוֹדֶה וּמַצִּיל, וְעוֹנֶה וּמְרַחֵם, בְּכָל־עֵת צָרָה וְצוּקָה, אֵין לָֽנוּ מֶֽלֶךְ עוֹזֵר וְסוֹמֵךְ אֶלָּא אָֽתָּה:
+**נִשְׁמַת** כָּל־חַי תְּבָרֵךְ אֶת שִׁמְךָ יְהֹוָה אֱלֹהֵֽינוּ, וְרֽוּחַ כָּל־בָּשָׂר תְּפָאֵר וּתְרוֹמֵם זִכְרְךָ מַלְכֵּֽנוּ תָּמִיד, מִן־הָעוֹלָם וְעַד־הָעוֹלָם אַתָּה אֵל. וּמִבַּלְעָדֶֽיךָ אֵין לָֽנוּ מֶֽלֶךְ גּוֹאֵל וּמוֹשִֽׁיעַ, פּוֹדֶה וּמַצִּיל, וְעוֹנֶה וּמְרַחֵם, בְּכָל־עֵת צָרָה וְצוּקָה, אֵין לָֽנוּ מֶֽלֶךְ עוֹזֵר וְסוֹמֵךְ אֶלָּא אָֽתָּה:
 
 
 ###### Siddur Edot HaMizrach, Shabbat Shacharit, Pesukei D'Zimra 21
@@ -15308,7 +15308,7 @@ Blessed are You, L·rd, our G·d, King of the universe, Who creates Many Souls, 
 [https://torahapp.org/share/book/Siddur%20Edot%20HaMizrach/s/Shabbat%20Shacharit,_Pesukei%20D%27Zimra/r/22](https://torahapp.org/share/book/Siddur%20Edot%20HaMizrach/s/Shabbat%20Shacharit,_Pesukei%20D%27Zimra/r/22)
 
 
-**וְאִלּוּ** פִֽינוּ מָלֵא שִׁירָה כַיָּם, וּלְשׁוֹנֵֽנוּ רִנָּה כַּהֲמוֹן גַּלָּיו, וְשִׂפְתוֹתֵֽינוּ שֶֽׁבַח כְּמֶרְחֲבֵי רָקִֽיעַ, וְעֵינֵֽינוּ מְאִירוֹת כַּשֶּֽׁמֶשׁ וְכַיָּרֵֽחַ, וְיָדֵֽינוּ פְרוּשׂוֹת כְּנִשְׁרֵי שָׁמָֽיִם, וְרַגְלֵֽינוּ קַלּוֹת כָּאַיָּלוֹת, אֵין אֲנַֽחְנוּ מַסְפִּיקִין לְהוֹדוֹת לְךָ יְהֹוָה אֱלֹהֵֽינוּ, וּלְבָרֵךְ אֶת־שִׁמְךָ מַלְכֵּֽנוּ, עַל־אַחַת מֵאֶֽלֶף אַלְפֵי אֲלָפִים, וְרוֹב רִבֵּי רִבָבוֹת פְּעָמִים, הַטּוֹבוֹת נִסִּים וְנִפְלָאוֹת שֶׁעָשִֽׂיתָ עִמָּֽנוּ וְעִם אֲבוֹתֵֽינוּ. מִלְּפָנִים מִמִּצְרַֽיִם גְּאַלְתָּֽנוּ יְהֹוָה אֱלֹהֵֽינוּ, מִבֵּית עֲבָדִים פְּדִיתָֽנוּ, בְּרָעָב זַנְתָּֽנוּ וּבְשָׂבָע כִּלְכַּלְתָּֽנוּ, מֵחֶֽרֶב הִצַּלְתָּֽנוּ, מִדֶּֽבֶר מִלַּטְתָּֽנוּ, וּמֵחֳלָאִים רָעִים וְרַבִּים דִּלִּיתָֽנוּ. עַד הֵֽנָּה עֲזָרֽוּנוּ רַחֲמֶֽיךָ, וְלֹא עֲזָבֽוּנוּ חֲסָדֶֽיךָ. עַל כֵּן אֵבָרִים שֶׁפִּלַּֽגְתָּ בָּֽנוּ, וְרֽוּחַ וּנְשָׁמָה שֶׁנָּפַֽחְתָּ בְּאַפֵּֽינוּ, וְלָשׁוֹן אֲשֶׁר שַֽׂמְתָּ בְּפִֽינוּ, הֵן הֵם יוֹדוּ וִיבָֽרְכֽוּ וִישַׁבְּחוּ וִיפָאֲרוּ וִישׁוֹרְרוּ אֶת־שִׁמְךָ מַלְכֵּֽנוּ תָּמִיד. כִּי כָל־פֶּה לְךָ יוֹדֶה, וְכָל־לָשׁוֹן לְךָ תְשַׁבֵּֽחַ, וְכָל־עַֽיִן לְךָ תְצַפֶּה, וְכָל־בֶּֽרֶךְ לְךָ תִכְרַע, וְכָל־קוֹמָה לְפָנֶֽיךָ תִשְׁתַּחֲוֶה, וְהַלְּבָבוֹת יִירָאֽוּךָ, וְהַקֶּֽרֶב וְהַכְּלָיוֹת יְזַמְּרוּ לִשְׁמֶֽךָ, כַּדָּבָר שֶׁנֶּאֱמַר כָּ֥ל עַצְמוֹתַ֨י ׀ תֹּאמַרְנָה֮ יְהֹוָ֗ה מִ֥י כָ֫מ֥וֹךָ מַצִּ֣יל עָ֭נִי מֵחָזָ֣ק מִמֶּ֑נּוּ וְעָנִ֥י וְ֝אֶבְי֗וֹן מִגֹּזְלֽוֹ:
+**וְאִלּוּ** פִֽינוּ מָלֵא שִׁירָה כַיָּם, וּלְשׁוֹנֵֽנוּ רִנָּה כַּהֲמוֹן גַּלָּיו, וְשִׂפְתוֹתֵֽינוּ שֶֽׁבַח כְּמֶרְחֲבֵי רָקִֽיעַ, וְעֵינֵֽינוּ מְאִירוֹת כַּשֶּֽׁמֶשׁ וְכַיָּרֵֽחַ, וְיָדֵֽינוּ פְרוּשׂוֹת כְּנִשְׁרֵי שָׁמָֽיִם, וְרַגְלֵֽינוּ קַלּוֹת כָּאַיָּלוֹת, אֵין אֲנַֽחְנוּ מַסְפִּיקִין לְהוֹדוֹת לְךָ יְהֹוָה אֱלֹהֵֽינוּ, וּלְבָרֵךְ אֶת־שִׁמְךָ מַלְכֵּֽנוּ, עַל־אַחַת מֵאֶֽלֶף אַלְפֵי אֲלָפִים, וְרוֹב רִבֵּי רְבָבוֹת פְּעָמִים, הַטּוֹבוֹת נִסִּים וְנִפְלָאוֹת שֶׁעָשִֽׂיתָ עִמָּֽנוּ וְעִם אֲבוֹתֵֽינוּ. מִלְּפָנִים מִמִּצְרַֽיִם גְּאַלְתָּֽנוּ יְהֹוָה אֱלֹהֵֽינוּ, מִבֵּית עֲבָדִים פְּדִיתָֽנוּ, בְּרָעָב זַנְתָּֽנוּ וּבְשָׂבָע כִּלְכַּלְתָּֽנוּ, מֵחֶֽרֶב הִצַּלְתָּֽנוּ, מִדֶּֽבֶר מִלַּטְתָּֽנוּ, וּמֵחֳלָאִים רָעִים וְרַבִּים דִּלִּיתָֽנוּ. עַד הֵֽנָּה עֲזָרֽוּנוּ רַחֲמֶֽיךָ, וְלֹא עֲזָבֽוּנוּ חֲסָדֶֽיךָ. עַל כֵּן אֵבָרִים שֶׁפִּלַּֽגְתָּ בָּֽנוּ, וְרֽוּחַ וּנְשָׁמָה שֶׁנָּפַֽחְתָּ בְּאַפֵּֽינוּ, וְלָשׁוֹן אֲשֶׁר שַֽׂמְתָּ בְּפִֽינוּ, הֵן הֵם יוֹדוּ וִיבָֽרְכֽוּ וִישַׁבְּחוּ וִיפָאֲרוּ וִישׁוֹרְרוּ אֶת־שִׁמְךָ מַלְכֵּֽנוּ תָּמִיד. כִּי כָל־פֶּה לְךָ יוֹדֶה, וְכָל־לָשׁוֹן לְךָ תְשַׁבֵּֽחַ, וְכָל־עַֽיִן לְךָ תְצַפֶּה, וְכָל־בֶּֽרֶךְ לְךָ תִכְרַע, וְכָל־קוֹמָה לְפָנֶֽיךָ תִשְׁתַּחֲוֶה, וְהַלְּבָבוֹת יִירָאֽוּךָ, וְהַקֶּֽרֶב וְהַכְּלָיוֹת יְזַמְּרוּ לִשְׁמֶֽךָ, כַּדָּבָר שֶׁנֶּאֱמַר כָּ֥ל עַצְמוֹתַ֨י ׀ תֹּאמַרְנָה֮ יְהֹוָ֗ה מִ֥י כָ֫מ֥וֹךָ מַצִּ֣יל עָ֭נִי מֵחָזָ֣ק מִמֶּ֑נּוּ וְעָנִ֥י וְ֝אֶבְי֗וֹן מִגֹּזְלֽוֹ:
 
 
 ###### Siddur Edot HaMizrach, Shabbat Shacharit, Pesukei D'Zimra 23

@@ -16,6 +16,8 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Midrash Rabbah, Vilna, 1878 (Segments: 844, License: Public Domain)
 
+Version (En): Sefaria Community Translation (Segments: 5)
+
 
 ## Chapter 1
 
@@ -4283,12 +4285,18 @@ Version (He): Midrash Rabbah, Vilna, 1878 (Segments: 844, License: Public Domain
 **אורי זה ר"ה שמוציא לאור משפטנו.** ובירושלמי איתא שהישראל שמחים בר"ה שיודעים שהקב"ה עושה להם נס. וישעי זה יוהכ"פ כי אז ימחול לנו על עונותינו והסליחה הוא תשועת הנפש:
 
 
+"Ori" (My light) — this is Rosh Hashanah, for on that day God brings our verdict out into the light. And in the Yerushalmi it is stated that Israel rejoice on Rosh Hashanah, because they know that the Holy One works a miracle for them. "Ve-yish'i" (and My salvation) — this is Yom Kippur, for then He pardons us our iniquities, and forgiveness is the deliverance of the soul.
+
+
 ###### Yefeh To'ar on Vayikra Rabbah 21:4:2
 
 [https://torahapp.org/share/book/Yefeh%20To%27ar%20on%20Vayikra%20Rabbah/r/21:4:2](https://torahapp.org/share/book/Yefeh%20To%27ar%20on%20Vayikra%20Rabbah/r/21:4:2)
 
 
 **ממי אירא עזי וזמרת יה.** צ"ל ה' מעוז חיי עזי וזמרת יה ומפרש מעוז חיי על התורה וכן דרשו במכילתא עזי וזמרת יה אין עזי אלא תורה. [א"ה אחרי הדחוקים והשבושים אשר במפרשי המדרש עוד לא נרפא מפלא ומזרות. ואולי קרוב לגרוס ממי אירא בסוכות עזי וזמרת יה. כי בסוכות בשעה שישראל נוטלין לולביהן אשר הוא כזמורת הנצחון בידם אז סר כל פחד מהם כדאיתא לקמן פ' ל' כי אז יראו הכל שישראל נצחו. ומביא לראיה מן עזי וזמרת יה כי ה' הוא עוזי וזמורת נצחוני וע"ז בא דבר על אפניו לאכול את בשרי לפי ששרי או"ה כו' כמו דאיחא שם במדרש לפי שישראל ושרי א"ה כו' ועיין]:
+
+
+"Of whom shall I be afraid" — "the Lord is my strength and song." The text should read: "the Lord is the stronghold of my life, my strength and song," and he interprets "stronghold of my life" as the Torah; and so they expounded in the Mekhilta — "ozi ve-zimrat Yah": "ozi" (my strength) means nothing but Torah. [Says the glossator: After wading through the difficulties and corruptions in the commentators on the Midrash, the passage is still not healed of its obscurity and strangeness. Perhaps one might plausibly read: "of whom shall I fear — on Sukkot — the Lord is my strength and song." For on Sukkot, when Israel take up their lulavim — which is like the palm-branch of victory in their hand — all fear departs from them, as is stated below in parashah 30; for then all will see that Israel have won their case. And he adduces as proof "ozi ve-zimrat Yah," reading it "for the Lord is my strength and the branch of my victory" — and on this basis the whole thing falls into place aptly: "to devour my flesh" — "because the princes of the nations of the world, etc.," as is stated there in the Midrash, "because Israel and the princes of the nations, etc." And see there.]
 
 
 ###### Yefeh To'ar on Vayikra Rabbah 21:4:3
@@ -4299,6 +4307,9 @@ Version (He): Midrash Rabbah, Vilna, 1878 (Segments: 844, License: Public Domain
 **ואלו אינן יורדין לגיהנם.** כי הצדיקים הנכתבים והנחתמים לאלתר לחיים הכוונה גם לחיי עוה"ב והרשעים הכתובים לאלתר למיתה הכוונה ג"כ לגיהנם וכמו"ש המפרשים:
 
 
+"And these do not descend to Gehinnom" — for the righteous, who are inscribed and sealed immediately for life, the intent includes the life of the World to Come as well; and the wicked, who are inscribed immediately for death, the intent is likewise Gehinnom, as the commentators have written.
+
+
 ###### Yefeh To'ar on Vayikra Rabbah 21:4:4
 
 [https://torahapp.org/share/book/Yefeh%20To%27ar%20on%20Vayikra%20Rabbah/r/21:4:4](https://torahapp.org/share/book/Yefeh%20To%27ar%20on%20Vayikra%20Rabbah/r/21:4:4)
@@ -4307,12 +4318,18 @@ Version (He): Midrash Rabbah, Vilna, 1878 (Segments: 844, License: Public Domain
 **שס"ה יום** והשטן בגי' שס"ד שכל ימות השנה הוא מקטרג מלבד יוהכ"פ. כי אז יתענו ב"י וישובו בתשובה לכן נקיים הם מעון ולא ישמע ה' לקטרוגו. ואם יקטרג בחטאתיהם של כל השנה לא ישמע קטרוגו כי ה' ידין את בני אדם ויחתום את גזר דינם רק לפי מצבם ביום הזה:
 
 
+"365 days, and 'ha-Satan' equals 364 in gematria" — meaning that on every day of the year he prosecutes, except Yom Kippur. For then the Children of Israel fast and return in repentance, so they are clean of iniquity, and the Lord will not heed his accusation. And even were he to prosecute with their sins of the whole year, God will not heed the accusation — for the Lord judges a person and seals the verdict solely according to his condition on this day.
+
+
 ###### Yefeh To'ar on Vayikra Rabbah 21:4:5
 
 [https://torahapp.org/share/book/Yefeh%20To%27ar%20on%20Vayikra%20Rabbah/r/21:4:5](https://torahapp.org/share/book/Yefeh%20To%27ar%20on%20Vayikra%20Rabbah/r/21:4:5)
 
 
 **מחנה של שרי** א"ה גרסינן:
+
+
+"A camp of the princes of the nations of the world" — that is the correct reading.
 
 
 

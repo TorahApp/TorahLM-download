@@ -7853,7 +7853,7 @@ It is related that **the son of Mar Ukva’s father-in-law,** i.e., Mar Ukva’s
 [https://torahapp.org/share/book/Moed%20Katan/r/20b:14](https://torahapp.org/share/book/Moed%20Katan/r/20b:14)
 
 
-וְתַנְיָא אִידַּךְ: אַף עַל פִּי שֶׁאָמְרוּ אֵינוֹ רַשַּׁאי לָכוֹף אֶת אִשְׁתּוֹ לִהְיוֹת כּוֹחֶלֶת וְלִהְיוֹת פּוֹקֶסֶת, בֶּאֱמֶת אָמְרוּ מוֹזֶגֶת לוֹ אֶת הַכּוֹס, וּמַצַּעַת לוֹ מִטָּה, ומַרְחֶצֶת לוֹ פָּנָיו יָדָיו וְרַגְלָיו. קַשְׁיָין אַהֲדָדֵי!
+וְתַנְיָא אִידַּךְ: אַף עַל פִּי שֶׁאָמְרוּ אֵינוֹ רַשַּׁאי לָכוֹף אֶת אִשְׁתּוֹ לִהְיוֹת כּוֹחֶלֶת וְלִהְיוֹת פּוֹקֶסֶת, בֶּאֱמֶת אָמְרוּ מוֹזֶגֶת לוֹ אֶת הַכּוֹס, וּמַצַּעַת לוֹ מִטָּה, וּמַרְחֶצֶת לוֹ פָּנָיו יָדָיו וְרַגְלָיו. קַשְׁיָין אַהֲדָדֵי!
 
 
 **And it was taught in another** *baraita*: **Even though** the Sages **said that** a husband **may not force his wife to paint** her eyelids **or put rouge** on her face when she is in mourning, i.e., that she may not treat her mourning lightly, **actually, they said** that **she may pour his cup** of wine, **make his bed, and wash his face, hands, and feet,** as these activities are expressions of affection between husband and wife rather than unnecessary adornment or a belittlement of the mourning. These two *baraitot* **contradict each other:** The first *baraita* indicates that the husband must practice the rites of mourning together with his wife, whereas the second one bars him only from forcing her to treat her own mourning lightly.

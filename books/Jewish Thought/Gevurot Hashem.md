@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Gevurot Hashem, with footnotes and annotations by Rabbi Yehoshua D. Hartman, Machon Yerushalyim, 2015-2020 (Segments: 1863, License: Public Domain)
 
-Version (En): Rabbi Mark Greenspan (Segments: 66)
+Version (En): Sefaria Community Translation (Segments: 66)
 
 
 ## Introduction to Gevurot Hashem

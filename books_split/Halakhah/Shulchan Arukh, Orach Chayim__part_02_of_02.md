@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Maginei Eretz: Shulchan Aruch Orach Chaim, Lemberg, 1893 (Segments: 4171)
 
-Version (En): Mishna Berura Yomi (Segments: 3936)
+Version (En): Hilkhot Yom ha-Kippurim, trans. by Jan M. Brahms. HUC, 1976 (Segments: 3931)
 
 # Shulchan Arukh, Orach Chayim — part 2 of 2
 
@@ -1787,7 +1787,7 @@ When we deemed kosher a sukkah with two walls shaped like a gamma kosher by addi
 נעץ ד' קונדסין בין באמצע הגג בין על שפת הגג וסיכך על גבן פסולה ויש מכשירין בנעץ על שפת הגג משום דאמרי' גוד אסיק מחיצתא:
 
 
-If one inserts four pools, whether in the middle of the roof or at the edge of the roof, and puts schach on top of them, it is invalid. There are those who declare it valid if they are inserted at the edge of the roof because we say "extend and raise the walls."
+If one inserts four poles, whether in the middle of the roof or at the edge of the roof, and puts schach on top of them, it is invalid. There are those who declare it valid if they are inserted at the edge of the roof because we say "extend and raise the walls."
 
 
 ###### Shulchan Arukh, Orach Chayim 630:7
@@ -2630,7 +2630,7 @@ If its leaves burst — that is, they became loose from the spine of the lulav l
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/645:3](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/645:3)
 
 
-בריית עלין של לולב כך היא כשהם גדלים גדלים שנים שנים ודבוקים מגבן וגב של שני עלין היא הנקרא תיומת נחלקה התיומת [ברוב העלין] [טור וב"י] פסולה היו עליו אחת אחת מתחלת ברייתו ולא היה תיומת או שכל עליו כפולים מצדו הא' וצד השני ערום בלא עלין פסול: הגה וי"מ לומר דאם נחלק העלה העליון האמצעי שעל השדרה עד השדרה מיקרי נחלק התיומת ופסול והכי נוהגין (ת"ה סי' צ"ז) מיהו לכתחלה מצוה מן המובחר נוהגין ליטול לולב שלא נחלק העלה העליון כלל כי יש מחמירין אפילו בנחלק קצת ואם אותו העלה אינה כפול מתחלת ברייתו פסול [כל בו]:
+בריית עלין של לולב כך היא כשהם גדלים גדלים שנים שנים ודבוקים מגבן וגב של שני עלין היא הנקרא תיומת נחלקה התיומת [ברוב העלין] [טור וב"י] פסולה היו עליו אחת אחת מתחלת ברייתו ולא היה תיומת או שכל עליו כפולים מצדו הא' וצד השני ערום בלא עלין פסול: הגה וי"מ לומר דאם נחלק העלה העליון האמצעי שעל השדרה עד השדרה מיקרי נחלק התיומת ופסול והכי נוהגין (ת"ה סי' צ"ו) מיהו לכתחלה מצוה מן המובחר נוהגין ליטול לולב שלא נחלק העלה העליון כלל כי יש מחמירין אפילו בנחלק קצת ואם אותו העלה אינה כפול מתחלת ברייתו פסול [כל בו]:
 
 
 3. Lulav leaves grows like this: when they grow, they grow in pairs attached together from the back. The back of these sets is called the tyomet. If the tyomet is split [in most of the leaves] [Tur, Beit Yosef] it is invalid. If the leaves grew individually from the beginning, such that there is no tyomet, or if all double leaves are on one side and the other side has no leaves, it is invalid. Rema: Some interpret this as meaning that if the central top leaf on top of the spine is split across the spine, it is considered a split tyomet and is invalid, and this is our practice (Trumat Hadeshen 97). However, initially it is the preferred way to do the mitzvah to get a lulav whose top leaf is not split at all, because there are those who are stringent when even some of it is split. If that leaf is not double from the beginning of its growth, it is invalid (Kol Bo).
@@ -2737,7 +2737,7 @@ If its berries outnumbered its leaves and they are green, it is valid. If they a
 ענף עץ עבות האמור בתורה היא ההדס שעליו חופין את עציו כגון שלשה עלין או יותר בגבעול אחד אבל אם היו שני העלין בשוה זה כנגד זה והעלה השלישי למעלה מהן אין זה עבות אבל נקרא הדס שוטה: הגה ופסול אפי' בשעת הדחק ואיכא מאן דאמר בגמר' דכשר וע"כ נוהגין באלו המדינות לכתחלה לצאת באלו ההדסים המובאים ואין ג' עלין בגבעול אחד ויש מי שכתב דהדסים שלנו אין נקראים הדס שוטה הואיל והם שנים על גב שנים ואינן כהדס שוטה המוזכר בגמרא ולכן נהגו להקל כמ"ש מהר"י קולן ומהר"י איסרלן ז"ל בתשובותיהם:
 
 
-"Boughs of a dense-leaved tree" [Leviticus 23:40] talked about in the Torah are myrtle whose leaves cover its tree, with three or more leaves from one node. However, if there are two leaves at the same level, one opposite the other, and a third one above them, this is not considered dense; rather, it is considered wild myrtle. Rema: And it is valid, even in an emergency. There is an opinion in the Gemara that it is valid. That is why in these countries, we initially use these myrtles that are imported and do not have three leaves from one node. There is one who says that our myrtles are not considered wild myrtle because they are two by two and are not like the wild myrtle in the Gemara. Therefore, our practice is to be lenient, following what was written by Mahari"i Kolon and Mahar"i Iserlin z"l in their responsa.
+"Boughs of a dense-leaved tree" [Leviticus 23:40] talked about in the Torah are myrtle whose leaves cover its tree, with three or more leaves from one node. However, if there are two leaves at the same level, one opposite the other, and a third one above them, this is not considered dense; rather, it is considered wild myrtle. Rema: And it is invalid, even in an emergency. There is an opinion in the Gemara that it is valid. That is why in these countries, we initially use these myrtles that are imported and do not have three leaves from one node. There is one who says that our myrtles are not considered wild myrtle because they are two by two and are not like the wild myrtle in the Gemara. Therefore, our practice is to be lenient, following what was written by Mahari"i Kolon and Mahar"i Iserlin z"l in their responsa.
 
 
 ###### Shulchan Arukh, Orach Chayim 646:4

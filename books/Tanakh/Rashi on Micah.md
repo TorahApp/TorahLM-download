@@ -29,7 +29,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Micah/r/1:1:1](https://torahapp.org/share/book/Rashi%20on%20Micah/r/1:1:1)
 
 
-**דִּבֶּר.** הַמּוֹרַשְׁתִּי מֵעִיר מוֹרָשָׁה:
+**דְּבַר.** הַמּוֹרַשְׁתִּי מֵעִיר מוֹרָשָׁה:
 
 
 **Micah the Morashtite**—From the city Mareshah.
@@ -265,7 +265,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Micah/r/1:11:5](https://torahapp.org/share/book/Rashi%20on%20Micah/r/1:11:5)
 
 
-**מִסְפַּד בֵּית הָאֵצֶל יִקַּח מִכֶּם עֲמָדְתוֹ.** הַמִּסְפֵּד שֶׁגְּרַמְתֶּם לַנִּגְזָלִים שֶׁאַתֶּם גּוֹזְלִים נַחֲלָתוֹ כְּדֵי לְהַגִּישׁ בַּיִת בְּבַיִת שָׂדֶה בְּשָׂדֶה זֶה אֵצֶל זֶה, הוּא יִקַּח מִכֶּם עֲמָדְתוֹ מַעֲמַד הַבִּנְיָנִים שֶׁבְּנִיתֶם וְהֶעֱמַדְתֶּם עַל נַחֲלָתָם, בֵּית הָאֵצֶל איוטמנ״ט בְּלַעַ״ז:
+**מִסְפַּד בֵּית הָאֵצֶל יִקַּח מִכֶּם עֶמְדָּתוֹ.** הַמִּסְפֵּד שֶׁגְּרַמְתֶּם לַנִּגְזָלִים שֶׁאַתֶּם גּוֹזְלִים נַחֲלָתוֹ כְּדֵי לְהַגִּישׁ בַּיִת בְּבַיִת שָׂדֶה בְּשָׂדֶה זֶה אֵצֶל זֶה, הוּא יִקַּח מִכֶּם עֲמָדְתוֹ מַעֲמַד הַבִּנְיָנִים שֶׁבְּנִיתֶם וְהֶעֱמַדְתֶּם עַל נַחֲלָתָם, בֵּית הָאֵצֶל איוטמנ״ט בְּלַעַ״ז:
 
 
 **the lamentation caused by drawing the houses one to the other shall take its stand from you**—The lamentation you caused those who were robbed, whom you robbed of their inheritance in order to draw one house to the other, one field to the other, will take its stand from you - the stand of the houses that you built and erected on their inheritance. **by drawing the houses from one the other** ajoustement in Old French [which means, adding or joining].
@@ -823,7 +823,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Micah/r/3:3:4](https://torahapp.org/share/book/Rashi%20on%20Micah/r/3:3:4)
 
 
-**קַלַּחַת.** קלדיי״רא בְּלַעַ״ז:
+**קַלָּחַת.** קלדיי״רא בְּלַעַ״ז:
 
 
 **a cauldron** Heb. קַלַחַת, *kaldere* in O.F.
@@ -1107,7 +1107,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Micah/r/4:11:1](https://torahapp.org/share/book/Rashi%20on%20Micah/r/4:11:1)
 
 
-**הָאוֹמְרִים תֶּחֱנַף.** עַתָּה תִּתְחַיֵּב צִיּוֹן בְּחַטֹּאתֶיהָ וְיִפָּקֵד עָלֶיהָ עֲוֹנָהּ:
+**הָאוֹמְרִים תֶּחֱנָף.** עַתָּה תִּתְחַיֵּב צִיּוֹן בְּחַטֹּאתֶיהָ וְיִפָּקֵד עָלֶיהָ עֲוֹנָהּ:
 
 
 **who say, “Let her be guilty”**—Let Zion be guilty of her sins, and let her iniquity be visited upon her.
@@ -1718,7 +1718,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Micah/r/6:10:1](https://torahapp.org/share/book/Rashi%20on%20Micah/r/6:10:1)
 
 
-**עוֹד הָאֵשׁ בֵּית רָשָׁע אוֹצְרוֹת רֶשַׁע.** הֵ״א הָאֵשׁ נְקוּדָה פַּתָּח לְפִי שֶׁהִיא תֵּמַהּ, וְכֵן פֵּרוּשׁוֹ עוֹד לְשׁוֹן אֹרֶךְ יָמִים הוּא, הָאֵשׁ כְּמוֹ הֲיֵשׁ (וּבְדִבְרֵי הַיָּמִים א׳ ב׳) מָצִינוּ אִישַׁי אֲבִי דָוִד בִּמְקוֹם יִשַׁי אַף כָּאן אֵשׁ בִּמְקוֹם יֵשׁ וְכֵן (בִּשְׁמוּאֵל ב׳ י״ד:י״ט) ״אִם אֵשׁ לְהֵמִין וּלְהַשְׂמִאיל״ אִם יֵשׁ לְהַאֲמִין וּלְהַשְׂמִאיל, וְיוֹנָתָן תִּרְגֵּם כֵּן ״הַאִית״ שֶׁיַּעֲלֶה בִּלְבַבְכֶם שֶׁיִּתְקַיֵּם בֵּית רָשָׁע לְאֹרֶךְ יָמִים וְאוֹצְרוֹת רֶשַׁע.
+**עוֹד הַאִשׁ בֵּית רָשָׁע אוֹצְרוֹת רֶשַׁע.** הֵ״א הָאֵשׁ נְקוּדָה פַּתָּח לְפִי שֶׁהִיא תֵּמַהּ, וְכֵן פֵּרוּשׁוֹ עוֹד לְשׁוֹן אֹרֶךְ יָמִים הוּא, הָאֵשׁ כְּמוֹ הֲיֵשׁ (וּבְדִבְרֵי הַיָּמִים א׳ ב׳) מָצִינוּ אִישַׁי אֲבִי דָוִד בִּמְקוֹם יִשַׁי אַף כָּאן אֵשׁ בִּמְקוֹם יֵשׁ וְכֵן (בִּשְׁמוּאֵל ב׳ י״ד:י״ט) ״אִם אֵשׁ לְהֵמִין וּלְהַשְׂמִאיל״ אִם יֵשׁ לְהַאֲמִין וּלְהַשְׂמִאיל, וְיוֹנָתָן תִּרְגֵּם כֵּן ״הַאִית״ שֶׁיַּעֲלֶה בִּלְבַבְכֶם שֶׁיִּתְקַיֵּם בֵּית רָשָׁע לְאֹרֶךְ יָמִים וְאוֹצְרוֹת רֶשַׁע.
 
 
 **Does the house of the wicked last long, [or do] the treasures of wickedness?**—The “hey” of הַאִשׁ is vowelized with a “pattach” [not a kamatz] because it denotes a question. And this is its meaning: עוֹד is an expression of longevity. הַאִשׁ is like הֲיֵשׁ, is there. In I Chronicles (2:13) we find: “Ishai the father of David,” instead of “Yishai.” Here, too, is אִשׁ instead of יֵשׁ. And so in II Samuel (14:19): “If anyone can (אִשׁ) turn to the right or to the left.” [This is identical to] “If anyone can (יֵשׁ) turn to the right or to the left.” So did *Jonathan* render it: Is there. Will it enter your mind that the house of the wicked will last long, and the treasures of wickedness?
@@ -2206,7 +2206,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Micah/r/7:17:1](https://torahapp.org/share/book/Rashi%20on%20Micah/r/7:17:1)
 
 
-**כְּזוֹחֲלֵי אָרֶץ.** הֵם נְחָשִׁים הַזּוֹחֲלִים עַל גְּחוֹנָם בַּעֲפַר הָאָרֶץ.
+**כְּזוֹחֲלֵי אֶרֶץ.** הֵם נְחָשִׁים הַזּוֹחֲלִים עַל גְּחוֹנָם בַּעֲפַר הָאָרֶץ.
 
 
 **as those who crawl on the earth**—They are snakes, which crawl on their bellies on the dust of the earth.

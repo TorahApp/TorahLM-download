@@ -14,9 +14,9 @@ Location: Responsa/Rishonim/Rashba
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Teshuvot haRashba I, Bnei Brak, 1958 (Segments: 11, License: unknown)
+Version (He): Teshuvot haRashba I, Wien 1812 (Segments: 12, License: Public Domain)
 
-Version (En): YU Torah miTzion Beit Midrash (Segments: 6)
+Version (En): Sefaria Community Translation (Segments: 6)
 
 
 ## Teshuva 150
@@ -35,6 +35,14 @@ Version (En): YU Torah miTzion Beit Midrash (Segments: 6)
 
 
 תשובה דברים פשוטים אני רואה כאן וכי מפני שיש ברכות בדף ראשון שלה מיפסלא ולא מינכרי שהיא מגלה לא אמרו אלא כשהיא בין הכתובים שבתוך הכרך כלו אינה נכרת המגלה עד דמיחסרא או מיתרא אבל זו בודאי נכר לכל שהיא המגלה שאנו חייבין לקרות בה ואדרבה אין הברכה והפיוט נכרין בה. ומיהו בין ניכרין בין אין ניכרין כשרה היא.
+
+
+###### Teshuvot haRashba part I 150:3
+
+[https://torahapp.org/share/book/Teshuvot%20haRashba%20part%20I/r/150:3](https://torahapp.org/share/book/Teshuvot%20haRashba%20part%20I/r/150:3)
+
+
+שו"ת הרשב"א חלק א סימן אלף רלז : ואני אומר דודאי באומר אשת פלוני זינתה עמי הוא ואחר מצטרפים להרגה. ומן הטעם שאמרת דתופסין מאי דקאמר זינתה ואין מקבלין מה שהסיק דבריו ואמר עמי. אבל באומר אני באתי על אשת פלוני מיד נתבטלה עדותו לגמרי משום דאי אפשר לומר בזה אלא לרצונו לא לאנסו. לפי שאין קושי אלא מרצון ואם שכב מדעת היה
 
 
 

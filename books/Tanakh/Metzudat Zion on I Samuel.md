@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat Zion/Prophets
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 784, License: Public Domain)
+Version (He): On Your Way (Segments: 783, License: Public Domain)
 
 
 ## Chapter 1
@@ -506,7 +506,7 @@ Version (He): On Your Way (Segments: 784, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/2:8:5](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/2:8:5)
 
 
-**מצוקי ארץ.** מצבי ארץ, ודוגמתו (שמואל ב טו כד): **ויציקו את ארון.** ורצה לומר, היסודות והעמודים שהם מצבי הארץ ומעמידים אותה:
+**מצוקי ארץ.** מצבי ארץ, ודוגמתו (שמואל ב טו כד): ויציקו את ארון. ורצה לומר, היסודות והעמודים שהם מצבי הארץ ומעמידים אותה:
 
 
 ###### Metzudat Zion on I Samuel 2:8:6
@@ -606,7 +606,7 @@ Version (He): On Your Way (Segments: 784, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/2:13:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/2:13:3)
 
 
-**והמזלג.** שם כלי בעלת שינים, עשוי לתחוב בו בשר ולהוציא מהקדרה, וכן (שמות לח ג): **את המזלגות.**
+**והמזלג.** שם כלי בעלת שינים, עשוי לתחוב בו בשר ולהוציא מהקדרה, וכן (שמות לח ג): את המזלגות:
 
 
 
@@ -617,7 +617,7 @@ Version (He): On Your Way (Segments: 784, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/2:14:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/2:14:1)
 
 
-כיור דוד קלחת פרור הם כלי בשול, כיורה וקדרה וכדומה:
+**כיור, דוד, קלחת, פרור.** הם כלי בשול, כיורה וקדרה וכדומה:
 
 
 
@@ -718,7 +718,7 @@ Version (He): On Your Way (Segments: 784, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/2:22:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/2:22:1)
 
 
-**ישכבן.** רצה לומר משכיבין:
+**ישכבון.** רצה לומר משכיבין:
 
 
 ###### Metzudat Zion on I Samuel 2:22:2
@@ -737,7 +737,7 @@ Version (He): On Your Way (Segments: 784, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/2:24:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/2:24:1)
 
 
-**מעבירים.** ענין הוצאות קול, כמו (שמות לו ו): ויעבירו קול במחנה.
+**מעבירים.** ענין הוצאות קול, כמו (שמות לו ו): ויעבירו קול במחנה:
 
 
 
@@ -748,7 +748,7 @@ Version (He): On Your Way (Segments: 784, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/2:25:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/2:25:1)
 
 
-ופללו, יתפלל ענין משפט, כמו (שם כא כב): ונתן בפלילים:
+**ופללו.** יתפלל ענין משפט, כמו (שם כא כב): ונתן בפלילים:
 
 
 
@@ -1382,7 +1382,7 @@ Version (He): On Your Way (Segments: 784, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/4:20:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/4:20:2)
 
 
-**שתה.** שמה, כמו (שמות י א): **למען שיתי**
+**שתה.** שמה, כמו (שמות י א): למען שיתי:
 
 
 
@@ -2414,15 +2414,18 @@ Version (He): On Your Way (Segments: 784, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/10:22:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/10:22:3)
 
 
-**אל הכלים.** כמו בכלים, וכן (שמות כה כא): ואל הארון תתן, ומשפטו:
+**אל הכלים.** כמו בכלים, וכן (שמות כה כא): ואל הארון תתן, ומשפטו: ובארון:
 
 
-###### Metzudat Zion on I Samuel 10:22:4
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/10:22:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/10:22:4)
+### Verse 24
+
+###### Metzudat Zion on I Samuel 10:24:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/10:24:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/10:24:1)
 
 
-**ובארון.** (כד) הראיתם בה״א השאלה:
+**הראיתם** בה״א השאלה:
 
 
 
@@ -5348,7 +5351,7 @@ Version (He): On Your Way (Segments: 784, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/20:30:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/20:30:3)
 
 
-**לבן ישי.** כמו בבן ישי, ובא הלמ״ד במקום הבי״ת, וכן (תהלים ט ה): ישבת לכסא, ומשפטו: בכסא.
+**לבן ישי.** כמו בבן ישי, ובא הלמ״ד במקום הבי״ת, וכן (תהלים ט ה): ישבת לכסא, ומשפטו: בכסא:
 
 
 ###### Metzudat Zion on I Samuel 20:30:4
@@ -5998,15 +6001,18 @@ Version (He): On Your Way (Segments: 784, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/23:15:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/23:15:1)
 
 
-**בחורשה.** ביער, כמו (יחזקאל לא ג):
+**בחורשה.** ביער, כמו (יחזקאל לא ג): חורש מצל, ורוצה לומר סעיף:
 
 
-###### Metzudat Zion on I Samuel 23:15:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/23:15:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/23:15:2)
+### Verse 17
+
+###### Metzudat Zion on I Samuel 23:17:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/23:17:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/23:17:1)
 
 
-**חורש מצל, ורוצה לומר סעיף.** (יז) למשנה שני למלכות:
+**למשנה.** שני למלכות:
 
 
 
@@ -6055,7 +6061,7 @@ Version (He): On Your Way (Segments: 784, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/23:23:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/23:23:2)
 
 
-**אל נכון.** כמו בנכון, וכן (שמות כה כא): ואל הארון, ומשפטו:
+**אל נכון.** כמו בנכון, וכן (שמות כה כא): ואל הארון, ומשפטו: ובהארון. ונכון, רוצה לומר דבר ברור ומכוון:
 
 
 ###### Metzudat Zion on I Samuel 23:23:3
@@ -6063,20 +6069,12 @@ Version (He): On Your Way (Segments: 784, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/23:23:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/23:23:3)
 
 
-**ובהארון.** ונכון, רוצה לומר דבר ברור ומכוון:
+**ישנו.** מלשון יש:
 
 
 ###### Metzudat Zion on I Samuel 23:23:4
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/23:23:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/23:23:4)
-
-
-**ישנו.** מלשון יש:
-
-
-###### Metzudat Zion on I Samuel 23:23:5
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/23:23:5](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/23:23:5)
 
 
 **וחפשתי.** ענין חקירה:
@@ -6117,7 +6115,7 @@ Version (He): On Your Way (Segments: 784, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/23:26:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/23:26:3)
 
 
-**לתפשם.** ענין האחוזה בחזקה:
+**לתפשם.** ענין האחיזה בחזקה:
 
 
 
@@ -7715,7 +7713,7 @@ Version (He): On Your Way (Segments: 784, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/31:10:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Samuel/r/31:10:3)
 
 
-**תקעו.** תלאו, ] תלו [ כמו (במדבר כה ד): והוקע אותם לה׳:
+**תקעו.** תלאו, [תלו] כמו (במדבר כה ד): והוקע אותם לה׳:
 
 
 

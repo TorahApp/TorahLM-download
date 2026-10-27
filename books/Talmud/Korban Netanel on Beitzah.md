@@ -1,6 +1,6 @@
 # Korban Netanel on Beitzah
 
- קרבן נתנאל על ביצה
+קרבן נתנאל על ביצה
 
 Link: [https://torahapp.org/share/book/Korban%20Netanel%20on%20Beitzah](https://torahapp.org/share/book/Korban%20Netanel%20on%20Beitzah)
 

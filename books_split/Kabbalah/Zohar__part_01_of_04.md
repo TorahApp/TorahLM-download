@@ -21333,7 +21333,7 @@ Both upper and lower (angels) are afraid of this sign, and no torture is inflict
 [https://torahapp.org/share/book/Zohar/s/Lech%20Lecha/r/35:23](https://torahapp.org/share/book/Zohar/s/Lech%20Lecha/r/35:23)
 
 
-כֵּיוָן דְּדָוִד מַלְכָּא לָא נָטַר אָת קְיָימָא דָא כְּדְקָא חָזֵי, אִתְעַדֵּי מִנֵּיהּ מַלְכוּתָא וְאִתְטְרִיד מִיְרוּשָׁלַם. מִיָּד דָּחִיל דְסָבַר דְּיֵיחֲתוּן לֵיהּ מִיָּד וְיִמְסְרוּן לֵיהּ בִּידוֹי דְדוּמָה וְיָמוּת בְּהַהוּא עָלְמָא, עַד דְּאִתְבַּשַּׂר בֵּיהּ דִּכְתִיב, (שמואל ב ב) גַּם יְיָ הֶעֱבִיר חַטָּאתְךָ לֹא תָמוּת. בֵּיהּ שַׁעֲתָא פָּתַח וְאָמַר לוּלֵי יְיָ עֶזְרָתָה לִי כִּמְעַט שָׁכְנָה דוּמָ"ה נַפְשִׁי.
+כֵּיוָן דְּדָוִד מַלְכָּא לָא נָטַר אָת קְיָימָא דָא כְּדְקָא חָזֵי, אִתְעַדֵּי מִנֵּיהּ מַלְכוּתָא וְאִתְטְרִיד מִיְרוּשָׁלַם. מִיָּד דָּחִיל דְסָבַר דְּיֵיחֲתוּן לֵיהּ מִיָּד וְיִמְסְרוּן לֵיהּ בִּידוֹי דְדוּמָה וְיָמוּת בְּהַהוּא עָלְמָא, עַד דְּאִתְבַּשַּׂר בֵּיהּ דִּכְתִיב, (שמואל ב י״ב:י״ג) גַּם יְיָ הֶעֱבִיר חַטָּאתְךָ לֹא תָמוּת. בֵּיהּ שַׁעֲתָא פָּתַח וְאָמַר לוּלֵי יְיָ עֶזְרָתָה לִי כִּמְעַט שָׁכְנָה דוּמָ"ה נַפְשִׁי.
 
 
 So with David, when he was dethroned and driven from Jerusalem, hewas afraid that he would be delivered into the hands of Duma and die in the future world, until the message came to him, “The Lord also hath put away thy sin, thou shalt not die” (II Sam. 12, 13). Then it was that he exclaimed “Unless the Lord had been my help, etc.”’
@@ -28985,7 +28985,7 @@ Rabbi Yitzchak said, It is written, "Elohim of the heaven, and Elohim of the ear
 [https://torahapp.org/share/book/Zohar/s/Chayei%20Sara/r/19:15](https://torahapp.org/share/book/Zohar/s/Chayei%20Sara/r/19:15)
 
 
-אָמַר רַבִּי יִצְּחָק מֵהָכָא מַשְׁמַע שֶׁהוֹאִיל וְאַתָּה הוֹלֵךְ בִּשְׁלִיחוּת זֶה לֹא תִקַּח אִשָּׁה לִבְנִי, כְּלוֹמַר שֶׁלֹּא תִקַּח גּוּף לִבְנִי (ד"אלבנייני) לִיכָּנֵס בְּגוּף אַחֵר בְּגוּף זָר בְּגוּף שֶׁאֵינוֹ רָאוּי לוֹ, אֶלָּא בְּהַהוּא מַמָּשׁ שֶׁהוּא שֶׁלִּי, בְּהַהוּא מַמָּשׁ שֶׁיָּצָּאתִי מִמֶּנּוּ, הֲדָא הוּא דִכְתִיב כִּי אִם אֶל אַרְצִּי וְאֶל מוֹלַדְתִּי תֵּלֵךְ.
+אָמַר רַבִּי יִצְּחָק מֵהָכָא מַשְׁמַע שֶׁהוֹאִיל וְאַתָּה הוֹלֵךְ בִּשְׁלִיחוּת זֶה לֹא תִקַּח אִשָּׁה לִבְנִי, כְּלוֹמַר שֶׁלֹּא תִקַּח גּוּף לִבְנִי (ד"א לבנייני) לִיכָּנֵס בְּגוּף אַחֵר בְּגוּף זָר בְּגוּף שֶׁאֵינוֹ רָאוּי לוֹ, אֶלָּא בְּהַהוּא מַמָּשׁ שֶׁהוּא שֶׁלִּי, בְּהַהוּא מַמָּשׁ שֶׁיָּצָּאתִי מִמֶּנּוּ, הֲדָא הוּא דִכְתִיב כִּי אִם אֶל אַרְצִּי וְאֶל מוֹלַדְתִּי תֵּלֵךְ.
 
 
 Rabbi Yitzchak said, from here, it is understood that the soul said to Metatron, Because you are going on this mission to resurrect the dead, "you shall not take a wife for my son." This means you shall not take a body for my son. He cannot enter another body, an idolatrous body, a body not worthy of him, but only the body which is actually my own, the very one I came from. And this is what is meant by the verse, "But you shall go to my country, and to my kindred" (Ibid. 4).

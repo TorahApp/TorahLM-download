@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Sefer Torat Elohim, Vilna 1879 (Segments: 1671, License: Public Domain)
 
-Version (En): Yalkut, Sifsei Chachomim Chumash, Metsudah Publications, 2009 (Segments: 90)
+Version (En): Introductions to Ha'amek Davar. Trans. by Elchanan Greenman, 2019 (Segments: 90)
 
 
 ## Introduction to Deuteronomy
@@ -9385,7 +9385,7 @@ The word "within" teaches us a second understanding of bringing her into his hom
 [https://torahapp.org/share/book/Haamek%20Davar%20on%20Deuteronomy/r/22:6:1](https://torahapp.org/share/book/Haamek%20Davar%20on%20Deuteronomy/r/22:6:1)
 
 
-**לא תקח וגו׳.** ראיתי בטעם המצוה כי הוא שילום גמול הרחמים. דהתם היה ביכלתה לפרוח מן האדם. אך בקשה להגין על האפרוחים או על הביצים. ע״כ תמלט. וזהו מסעיפי הרחמים. ומ״מ אינו אלא גזירה:
+**לא תקח וגו׳.** ראיתי בטעם המצוה כי הוא שילום גמול הרחמים. דהאם היה ביכלתה לפרוח מן האדם. אך בקשה להגין על האפרוחים או על הביצים. ע״כ תמלט. וזהו מסעיפי הרחמים. ומ״מ אינו אלא גזירה:
 
 
 

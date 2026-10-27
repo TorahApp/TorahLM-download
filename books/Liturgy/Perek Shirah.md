@@ -14,7 +14,7 @@ Location: Liturgy/Other Liturgy Works
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Torat Emet 357 (Segments: 103, License: Public Domain)
+Version (He):  Perek Shirah (Segments: 103, License: unknown)
 
 Version (En):  Perek Shirah, translation and adaptation by Aharon N. Varady and Rabbi Natan Slifkin (Segments: 103)
 

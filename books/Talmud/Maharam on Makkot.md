@@ -14,7 +14,7 @@ Location: Talmud/Bavli/Acharonim on Talmud/Maharam/Seder Nezikin
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Vilna Edition (Segments: 104, License: Public Domain)
+Version (He): Vilna Edition (Segments: 107, License: Public Domain)
 
 
 ## Daf 2a
@@ -490,6 +490,30 @@ Version (He): Vilna Edition (Segments: 104, License: Public Domain)
 
 
 **ד"ה** גמר שיבה שיבה וכו' אבל לרבי יהודה הא איכא קרא. ר"ל אבל א"ל דלר"י נמי אצטריך ג"ש למילף מינה רוצח מעבד עבדי דרוצח מיהא למשפחתו שב כמו עבד עברי דהא איכא קרא בהדיא גבי רוצח דשב אל משפחתו דכתיב ישוב הרוצח אל ארץ אחוזתו דהוה פירושו לכל הפחות אל משפחתו:
+
+
+###### Maharam on Makkot 13a:2
+
+[https://torahapp.org/share/book/Maharam%20on%20Makkot/r/13a:2](https://torahapp.org/share/book/Maharam%20on%20Makkot/r/13a:2)
+
+
+**תוס'** ד"ה ואלו כו' ובקונטרס דחק למצוא בהן חדוש לא נמצא בפי' רש"י שלפנינו בפי' שדחק למצוא שום חדוש בהנך דכריתות אלא כתב ג"כ דתנא חייבי כריתות לאשמועינן דיש מלקות בחייבי כריתות כלשון התוס' וצ"ל דס"ל לתוס' דמדטרח רש"י לפרש בטמא שאכל את הקודש ודומיהם אזהרותיהם מהיכן משמע להו דרש"י ר"ל דמשום כך תנא להו במתני' משום דאזהרותיהם אינן מפורשים והיינו חידושייהו:
+
+
+###### Maharam on Makkot 13a:3
+
+[https://torahapp.org/share/book/Maharam%20on%20Makkot/r/13a:3](https://torahapp.org/share/book/Maharam%20on%20Makkot/r/13a:3)
+
+
+**ד"ה** גרושה וחלוצה וכו' פירש הקונטרס משום גרושה דחלוצה מייתי לה מואשה כצ"ל:
+
+
+###### Maharam on Makkot 13a:4
+
+[https://torahapp.org/share/book/Maharam%20on%20Makkot/r/13a:4](https://torahapp.org/share/book/Maharam%20on%20Makkot/r/13a:4)
+
+
+**בא"ד** אי נמי מכות מרדות דרבנן כצ"ל:
 
 
 

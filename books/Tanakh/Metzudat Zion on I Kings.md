@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat Zion/Prophets
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 455, License: Public Domain)
+Version (He): On Your Way (Segments: 459, License: Public Domain)
 
 Version (En): Sefaria Community Translation (Segments: 1)
 
@@ -288,11 +288,11 @@ in my place
 
 
 
-### Verse 15
+### Verse 16
 
-###### Metzudat Zion on I Kings 2:15:1
+###### Metzudat Zion on I Kings 2:16:1
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/2:15:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/2:15:1)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/2:16:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/2:16:1)
 
 
 **שאלה.** ענין בקשה:
@@ -1290,7 +1290,7 @@ in my place
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/6:38:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/6:38:1)
 
 
-**בול.** הוא חשוון, שבו נובלין וכומשץ עלי האילנות:
+**בול.** הוא חשוון, שבו נובלין וכומשין עלי האילנות:
 
 
 ###### Metzudat Zion on I Kings 6:38:2
@@ -1364,7 +1364,7 @@ in my place
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/7:9:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/7:9:1)
 
 
-**יקרות.** כבדות ומקשיות או מכובדוח וחשובות:
+**יקרות.** כבדות ומקשיות או מכובדות וחשובות:
 
 
 ###### Metzudat Zion on I Kings 7:9:2
@@ -1440,9 +1440,12 @@ in my place
 **שרשרות.** שלשלאות:
 
 
-###### Metzudat Zion on I Kings 7:17:5
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/7:17:5](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/7:17:5)
+### Verse 18
+
+###### Metzudat Zion on I Kings 7:18:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/7:18:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/7:18:1)
 
 
 **על ראש הרמונים.** סמוך לראש הרמונים:
@@ -1464,7 +1467,18 @@ in my place
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/7:19:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/7:19:2)
 
 
-**באולם.** עיקר שם אולם הונח על כיפת התקרה, כן אמרו רבותינו ז״ל (עירובין קב א, רש״י ד״ה כיפי דארבא) (כ) הבטן אמר דרך שאלה על חלל העמוד, וכן (יונה ב ג) מבטן שאול, ורוצה לומר: חלל עומק השאול:
+**באולם.** עיקר שם אולם הונח על כיפת התקרה, כן אמרו רבותינו ז״ל (עירובין קב א, רש״י ד״ה כיפי דארבא):
+
+
+
+### Verse 20
+
+###### Metzudat Zion on I Kings 7:20:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/7:20:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/7:20:1)
+
+
+**הבטן.** אמר דרך שאלה על חלל העמוד, וכן (יונה ב ג) מבטן שאול, ורוצה לומר: חלל עומק השאול:
 
 
 
@@ -1668,20 +1682,31 @@ in my place
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/7:37:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/7:37:1)
 
 
-**לכלהנה.** כמו לכלהן (לכולן) (מ) הכירות הסירות, כמו (שמואל א ב יד) והכה בכיור:
+**לכלהנה.** כמו לכלהן (לכולן):
 
 
-###### Metzudat Zion on I Kings 7:37:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/7:37:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/7:37:2)
+### Verse 40
+
+###### Metzudat Zion on I Kings 7:40:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/7:40:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/7:40:1)
+
+
+**הכירות.** הסירות, כמו (שמואל א ב יד) והכה בכיור:
+
+
+###### Metzudat Zion on I Kings 7:40:2
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/7:40:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/7:40:2)
 
 
 **היעים.** המכבדות, לגרף בהם הדשן, וכן (ישעיהו כח יז) ויעה ברד:
 
 
-###### Metzudat Zion on I Kings 7:37:3
+###### Metzudat Zion on I Kings 7:40:3
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/7:37:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/7:37:3)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/7:40:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/7:40:3)
 
 
 **המזרקות.** הספלים המקבלים בו הדם לזריקה:
@@ -1842,17 +1867,20 @@ in my place
 **עליו.** כמו אליו:
 
 
-###### Metzudat Zion on I Kings 8:5:3
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/8:5:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/8:5:3)
+### Verse 7
+
+###### Metzudat Zion on I Kings 8:7:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/8:7:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/8:7:1)
 
 
 **ויסכו.** מלשון סכך:
 
 
-###### Metzudat Zion on I Kings 8:5:4
+###### Metzudat Zion on I Kings 8:7:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/8:5:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/8:5:4)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/8:7:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/8:7:2)
 
 
 **בדיו.** מוטות, לשאת בהם הארון:
@@ -2213,9 +2241,12 @@ in my place
 **כבול.** מלשון (תהלים קמט ח) בכבלי ברזל:
 
 
-###### Metzudat Zion on I Kings 9:13:3
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/9:13:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/9:13:3)
+### Verse 15
+
+###### Metzudat Zion on I Kings 9:15:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/9:15:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/9:15:1)
 
 
 **דבר המס.** צורך המס:
@@ -2409,12 +2440,23 @@ in my place
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/10:17:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/10:17:1)
 
 
-**מגנים.** הוא שם כלי, עשוי לאחוז ביד בעת המלחמה להגן בו, וגם יש מגן עשוי מעור שלוק, האמור בתחילת שמואל ב (א כא) (יח) שן שן הפיל:
+**מגנים.** הוא שם כלי, עשוי לאחוז ביד בעת המלחמה להגן בו, וגם יש מגן עשוי מעור שלוק, האמור בתחילת שמואל ב (א כא):
 
 
-###### Metzudat Zion on I Kings 10:17:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/10:17:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/10:17:2)
+### Verse 18
+
+###### Metzudat Zion on I Kings 10:18:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/10:18:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/10:18:1)
+
+
+**שן.** שן הפיל:
+
+
+###### Metzudat Zion on I Kings 10:18:2
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/10:18:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/10:18:2)
 
 
 **מופז.** טוב ומזוקק ומבהיק, וכן (שיר השירים ה יא) כתם פז:
@@ -3237,17 +3279,20 @@ in my place
 **הוריש.** גירש, כמו (שופטים יא כג) הוריש את האמורי:
 
 
-###### Metzudat Zion on I Kings 14:24:3
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/14:24:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/14:24:3)
+### Verse 27
+
+###### Metzudat Zion on I Kings 14:27:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/14:27:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/14:27:1)
 
 
 **והפקיד.** מלשון פקדון והנחה:
 
 
-###### Metzudat Zion on I Kings 14:24:4
+###### Metzudat Zion on I Kings 14:27:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/14:24:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/14:24:4)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/14:27:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/14:27:2)
 
 
 **על יד.** כמו ביד:
@@ -4571,7 +4616,18 @@ in my place
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/22:38:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/22:38:2)
 
 
-**וילוקו.** ענין לחיכה, כמו (שופטים ז ה) כל אשר ילק בלשונו (לט) השן. שן של פיל:
+**וילוקו.** ענין לחיכה, כמו (שופטים ז ה) כל אשר ילק בלשונו:
+
+
+
+### Verse 39
+
+###### Metzudat Zion on I Kings 22:39:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/22:39:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Kings/r/22:39:1)
+
+
+**השן.** שן של פיל:
 
 
 

@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Shulchan Shel Arba, Warsaw 1878 (Segments: 187, License: Public Domain)
 
-Version (En): Shulhan Shel Arba, translated by Jonathan Brumberg-Kraus, 2010 (Segments: 134)
+Version (En): Sefaria Community Translation (Segments: 134)
 
 
 ## Introduction

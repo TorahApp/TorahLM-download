@@ -936,9 +936,12 @@ Version (He): On Your Way (Segments: 871, License: Public Domain)
 **כלענה.** שם עשב מר:
 
 
-###### Metzudat Zion on Proverbs 5:4:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Proverbs/r/5:4:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Proverbs/r/5:4:2)
+### Verse 5
+
+###### Metzudat Zion on Proverbs 5:5:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Proverbs/r/5:5:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Proverbs/r/5:5:1)
 
 
 **צעדיה.** ענין פסיעות והלוך:
@@ -2205,9 +2208,12 @@ Version (He): On Your Way (Segments: 871, License: Public Domain)
 **קורץ.** ענין נדנוד ורמיזה כמו קורץ בעיניו (לעיל ז):
 
 
-###### Metzudat Zion on Proverbs 10:10:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Proverbs/r/10:10:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Proverbs/r/10:10:2)
+### Verse 11
+
+###### Metzudat Zion on Proverbs 10:11:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Proverbs/r/10:11:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Proverbs/r/10:11:1)
 
 
 **מקור.** מעין:
@@ -6144,17 +6150,20 @@ Version (He): On Your Way (Segments: 871, License: Public Domain)
 **תנומות.** היא השינה הקלה:
 
 
-###### Metzudat Zion on Proverbs 24:33:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Proverbs/r/24:33:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Proverbs/r/24:33:2)
+### Verse 34
+
+###### Metzudat Zion on Proverbs 24:34:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Proverbs/r/24:34:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Proverbs/r/24:34:1)
 
 
 **מתהלך.** הראוי כמתהלך ותחסר הכ״ף:
 
 
-###### Metzudat Zion on Proverbs 24:33:3
+###### Metzudat Zion on Proverbs 24:34:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Proverbs/r/24:33:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Proverbs/r/24:33:3)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Proverbs/r/24:34:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Proverbs/r/24:34:2)
 
 
 **רישך.** מל׳ רש ועוני:

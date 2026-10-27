@@ -14,7 +14,7 @@ Location: Talmud/Bavli/Rishonim on Talmud/Rashi/Seder Nashim
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Vilna Edition (Segments: 4014, License: Public Domain)
+Version (He): Vilna Edition (Segments: 4013, License: Public Domain)
 
 Version (En): Sefaria Community Translation (Segments: 307)
 
@@ -13038,14 +13038,6 @@ Rav Yehuda said: this is what it is saying: With regard to all items that can be
 ###### Rashi on Kiddushin 29a:10:3
 
 [https://torahapp.org/share/book/Rashi%20on%20Kiddushin/r/29a:10:3](https://torahapp.org/share/book/Rashi%20on%20Kiddushin/r/29a:10:3)
-
-
-אינו אלא לשון זירוז - שיהא מהיר וזריז בדבר ונוהג מיד ונוהג לדורות:
-
-
-###### Rashi on Kiddushin 29a:10:4
-
-[https://torahapp.org/share/book/Rashi%20on%20Kiddushin/r/29a:10:4](https://torahapp.org/share/book/Rashi%20on%20Kiddushin/r/29a:10:4)
 
 
 כאילו מלמדו ליסטות - דכיון דאין לו אומנות ויחסר לחמו ילך בפרשת דרכים וילסטם את הבריות:

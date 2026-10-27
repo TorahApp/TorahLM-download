@@ -14,7 +14,7 @@ Location: Talmud/Bavli/Rishonim on Talmud/Rashi/Seder Nezikin
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Vilna Edition (Segments: 5865, License: Public Domain)
+Version (He): Vilna Edition (Segments: 5868, License: Public Domain)
 
 Version (En): Sefaria Community Translation (Segments: 236)
 
@@ -16735,7 +16735,15 @@ Since from the time of the disciples of Shammai and Hillel, three generations be
 [https://torahapp.org/share/book/Rashi%20on%20Bava%20Metzia/r/37b:4:6](https://torahapp.org/share/book/Rashi%20on%20Bava%20Metzia/r/37b:4:6)
 
 
-אמר ר"ע מודה אני בזה - אע"פ שאני משל ב"ש ואומר בשאר הנפילות יחלוקו בזו אני מודה לב"ה שהנכסים בחזקתן ופליגי אמוראי בחזקת מי והתם מפרש טעמא. שמא ושמא שניהם מכח שמא באים הלכך נכסים בחזקתן:
+אמר ר"ע מודה אני בזה - אע"פ שאני משל ב"ש ואומר בשאר הנפילות יחלוקו בזו אני מודה לב"ה שהנכסים בחזקתן ופליגי אמוראי בחזקת מי והתם מפרש טעמא:
+
+
+###### Rashi on Bava Metzia 37b:4:7
+
+[https://torahapp.org/share/book/Rashi%20on%20Bava%20Metzia/r/37b:4:7](https://torahapp.org/share/book/Rashi%20on%20Bava%20Metzia/r/37b:4:7)
+
+
+שמא ושמא - שניהם מכח שמא באים הלכך נכסים בחזקתן:
 
 
 
@@ -31325,6 +31333,25 @@ Even though she was being taken to be burnt, she did not say to them, “I had r
 
 
 
+### Line 14
+
+###### Rashi on Bava Metzia 67a:14:1
+
+[https://torahapp.org/share/book/Rashi%20on%20Bava%20Metzia/r/67a:14:1](https://torahapp.org/share/book/Rashi%20on%20Bava%20Metzia/r/67a:14:1)
+
+
+וביתומים - אם שדה זו של יתומים היא:
+
+
+###### Rashi on Bava Metzia 67a:14:2
+
+[https://torahapp.org/share/book/Rashi%20on%20Bava%20Metzia/r/67a:14:2](https://torahapp.org/share/book/Rashi%20on%20Bava%20Metzia/r/67a:14:2)
+
+
+אכל טפי מפקינן מיניה - שב"ד שבעיר אביהן של יתומים והרי הם שליטים לעשות משפט והם לא מחלו על העודף שאכל והוה ליה כמאן דסלקוה משעתא דאכל שיעור זוזי:
+
+
+
 ### Line 15
 
 ###### Rashi on Bava Metzia 67a:15:1
@@ -45038,14 +45065,25 @@ What about him singeing it in fire - [that is, singeing] the ears, where the fir
 
 
 
-### Line 10
+### Line 8
 
-###### Rashi on Bava Metzia 94a:10:1
+###### Rashi on Bava Metzia 94a:8:1
 
-[https://torahapp.org/share/book/Rashi%20on%20Bava%20Metzia/r/94a:10:1](https://torahapp.org/share/book/Rashi%20on%20Bava%20Metzia/r/94a:10:1)
+[https://torahapp.org/share/book/Rashi%20on%20Bava%20Metzia/r/94a:8:1](https://torahapp.org/share/book/Rashi%20on%20Bava%20Metzia/r/94a:8:1)
 
 
 אפילו תימא - רישא דקתני מתנה שומר חנם להיפטר משבועה ר"מ והאי לאו מתנה על מה שכתוב בתורה הוא אלא שאמר לו אי אפשי להיות שומר שלך אלא בכך ושומר לא נחית לשמירה עד דמשיך לבהמה והאי כי משיך כבר פירש על מנת שאין לו עליו שבועה ולא שיעבד נפשיה לירד בתורת שומרין אלא למקצת ולמה שירד ירד אבל המקדש את האשה מכי אמר לה הרי את מקודשת לי איתקדשה לה וכי אמר לה על מנת שאין ליך עלי מתנה על מה שכתוב בתורה דאין אישות לחצאין וכי תפיס קדושין לגמרי תפיס והוה מתנה על מה שכתוב בתורה:
+
+
+
+### Line 9
+
+###### Rashi on Bava Metzia 94a:9:1
+
+[https://torahapp.org/share/book/Rashi%20on%20Bava%20Metzia/r/94a:9:1](https://torahapp.org/share/book/Rashi%20on%20Bava%20Metzia/r/94a:9:1)
+
+
+בדברים - בתמיה:
 
 
 
@@ -45054,14 +45092,6 @@ What about him singeing it in fire - [that is, singeing] the ears, where the fir
 ###### Rashi on Bava Metzia 94a:11:1
 
 [https://torahapp.org/share/book/Rashi%20on%20Bava%20Metzia/r/94a:11:1](https://torahapp.org/share/book/Rashi%20on%20Bava%20Metzia/r/94a:11:1)
-
-
-בדברים - בתמיה:
-
-
-###### Rashi on Bava Metzia 94a:11:2
-
-[https://torahapp.org/share/book/Rashi%20on%20Bava%20Metzia/r/94a:11:2](https://torahapp.org/share/book/Rashi%20on%20Bava%20Metzia/r/94a:11:2)
 
 
 זו דברי רבי יהודה בן תימא - דקתני דאפשר לקיומי הא אי אפשר לקיומי תנאו בטל:
@@ -46631,7 +46661,7 @@ What about him singeing it in fire - [that is, singeing] the ears, where the fir
 [https://torahapp.org/share/book/Rashi%20on%20Bava%20Metzia/r/98b:3:1](https://torahapp.org/share/book/Rashi%20on%20Bava%20Metzia/r/98b:3:1)
 
 
-ואמאי מה שטוענו לא הודה לו - אע"ג דאוקימנא בכופר ומודה ה"מ לר"נ מיהו מתני' לרב הונא ורב יהודה. כדקתני ואמאי ישבע הרי אין כאן הודאה במקצת:
+ואמאי מה שטוענו לא הודה לו - אע"ג דאוקימנא בכופר ומודה ה"מ לר"נ מיהו מתני' לרב הונא ורב יהודה כדקתני ואמאי ישבע הרי אין כאן הודאה במקצת:
 
 
 

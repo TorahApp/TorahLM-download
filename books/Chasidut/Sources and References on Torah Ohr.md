@@ -14,7 +14,7 @@ Location: Chasidut/Chabad
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Kehot Publication Society (Segments: 7643, License: CC-BY-NC)
+Version (He): Kehot Publication Society (Segments: 7639, License: CC-BY-NC)
 
 
 ## Bereshit
@@ -5164,14 +5164,6 @@ Version (He): Kehot Publication Society (Segments: 7643, License: CC-BY-NC)
 **והענין כנודע שלהיות התפשטות וירידת המדריגו':** בהבא לקמן ראה בהמשך מצה זו תר"מ ע' קסה בשינויים והופות. וראה תו"ח לך לך פא, ב ואילך. אוה"ת לך לך (כרך ד ע' תרצ, ב ואילך. כרך ו ע' תתרעג, א ואילך). וראה המשך תרס"ו ע' עח ואילך. ד"ה מעין גנים תרצ"א (סה"מ קונטרסים ח"א ע' 404 ואילך) ובכ"מ. לקו"ש ח"א ע' 42 הערה 32.
 
 
-###### Sources and References on Torah Ohr, Lech Lecha 6a:27
-
-[https://torahapp.org/share/book/Sources%20and%20References%20on%20Torah%20Ohr/s/Lech%20Lecha/r/6a:27](https://torahapp.org/share/book/Sources%20and%20References%20on%20Torah%20Ohr/s/Lech%20Lecha/r/6a:27)
-
-
-**כאלו אוחז בחכמה העליונה:** בסה"מ תר"מ שם נוסף: ועד"מ אותיות החקוקי' על האבן טוב מחמת רוב בהירות האבן טוב א"א לקרוא אותם כ"א דוקא כשחותמים על השעוה אז יכולים לקראות אותם, ע"כ.
-
-
 ###### Sources and References on Torah Ohr, Lech Lecha 6a:28
 
 [https://torahapp.org/share/book/Sources%20and%20References%20on%20Torah%20Ohr/s/Lech%20Lecha/r/6a:28](https://torahapp.org/share/book/Sources%20and%20References%20on%20Torah%20Ohr/s/Lech%20Lecha/r/6a:28)
@@ -5245,7 +5237,7 @@ Version (He): Kehot Publication Society (Segments: 7643, License: CC-BY-NC)
 [https://torahapp.org/share/book/Sources%20and%20References%20on%20Torah%20Ohr/s/Lech%20Lecha/r/6a:36](https://torahapp.org/share/book/Sources%20and%20References%20on%20Torah%20Ohr/s/Lech%20Lecha/r/6a:36)
 
 
-**כאלו אוחז בחכמה העליונה:** בהמשך מצה זו תר"מ ע' קסה נוסף: ועד"מ אותיות החקוקי' על האבן טוב מחמת רוב בהירות האבן טוב א"א לקרוא אותם, כ"א דוקא כשחותמים על השעוה אז יכולים לקרות אותם: והנה המשכת.
+**כאלו אוחז בחכמה העליונה:** בהמשך מצה זו תר"מ ע' קסה נוסף: ועד"מ אותיות החקוקי' על האבן טוב מחמת רוב בהירות האבן טוב א"א לקרוא אותם, כ"א דוקא כשחותמים על השעוה אז יכולים לקרות אותם:
 
 
 ###### Sources and References on Torah Ohr, Lech Lecha 6a:37
@@ -5253,7 +5245,7 @@ Version (He): Kehot Publication Society (Segments: 7643, License: CC-BY-NC)
 [https://torahapp.org/share/book/Sources%20and%20References%20on%20Torah%20Ohr/s/Lech%20Lecha/r/6a:37](https://torahapp.org/share/book/Sources%20and%20References%20on%20Torah%20Ohr/s/Lech%20Lecha/r/6a:37)
 
 
-**אורייתא מחכמה נפקת:** זח"ב קכא, א. וראה שם פה, א.
+**והנה המשכת . . אורייתא מחכמה נפקת:** זח"ב קכא, א. וראה שם פה, א.
 
 
 ###### Sources and References on Torah Ohr, Lech Lecha 6a:38
@@ -6137,7 +6129,7 @@ Version (He): Kehot Publication Society (Segments: 7643, License: CC-BY-NC)
 [https://torahapp.org/share/book/Sources%20and%20References%20on%20Torah%20Ohr/s/Lech%20Lecha/r/6b:83](https://torahapp.org/share/book/Sources%20and%20References%20on%20Torah%20Ohr/s/Lech%20Lecha/r/6b:83)
 
 
-**בשם א"י:** #ERROR!
+**בשם א"י:** =ספר "אדם ישר". אחד מספרי מהרח"ו בזמן אדה"ז והצ"צ היה בכתב יד. נדפס בשנת תרמ"ה בקראקא.
 
 
 ###### Sources and References on Torah Ohr, Lech Lecha 6b:84
@@ -11112,14 +11104,7 @@ Version (He): Kehot Publication Society (Segments: 7643, License: CC-BY-NC)
 
 
 **לשון עתיד שיתגלה בחי' התענוג העליון:** ע' אוה"ת ויחי שצט, ב. וראה באוה"ת פ' כי תשא ע' א'תתפז שצ"ע שהרי גאולה שלישית בזכות יעקב, וכאן כ' שבזכות יצחק ע"ש.
-
-
-###### Sources and References on Torah Ohr, Vayetzei 11a:34
-
-[https://torahapp.org/share/book/Sources%20and%20References%20on%20Torah%20Ohr/s/Vayetzei/r/11a:34](https://torahapp.org/share/book/Sources%20and%20References%20on%20Torah%20Ohr/s/Vayetzei/r/11a:34)
-
-
-**בד"ה כל שמעשיו מרובין תרנ"ג ע' ריז:** ”מבואר בת"א פ' ויצא דהוא בחי' צחוק ותענוג עליון שיתגלו לע"ל, וכמארז"ל במד"ר ר"פ אחרי, שמח אינו אומר אלא ישמח ה' במעשיו עתיד הקב"ה לשמוח במעשיהן של צדיקים. שלע"ל דוקא יהי' גילוי השמחה מבחי' הבירורים דעכשיו בבחי' אתכפיא ואתהפכא". ע"ש.
+בד"ה כל שמעשיו מרובין תרנ"ג ע' ריז: ”מבואר בת"א פ' ויצא דהוא בחי' צחוק ותענוג עליון שיתגלו לע"ל, וכמארז"ל במד"ר ר"פ אחרי, שמח אינו אומר אלא ישמח ה' במעשיו עתיד הקב"ה לשמוח במעשיהן של צדיקים. שלע"ל דוקא יהי' גילוי השמחה מבחי' הבירורים דעכשיו בבחי' אתכפיא ואתהפכא". ע"ש.
 
 
 ###### Sources and References on Torah Ohr, Vayetzei 11a:35
@@ -28383,14 +28368,6 @@ Version (He): Kehot Publication Society (Segments: 7643, License: CC-BY-NC)
 
 
 **בפרך . . מלאכת נשים לאנשים . . פה רך:** סוטה יא, ב.
-
-
-###### Sources and References on Torah Ohr, Shemot 26a:44
-
-[https://torahapp.org/share/book/Sources%20and%20References%20on%20Torah%20Ohr/s/Shemot/r/26a:44](https://torahapp.org/share/book/Sources%20and%20References%20on%20Torah%20Ohr/s/Shemot/r/26a:44)
-
-
-**ע"פ על כן יאמרו המושלים:** לקו'ת חקת סה, ד ואילך.
 
 
 ###### Sources and References on Torah Ohr, Shemot 26a:45
@@ -52271,14 +52248,7 @@ Version (He): Kehot Publication Society (Segments: 7643, License: CC-BY-NC)
 
 
 **וחד חרוב:** בבוך תניא-ברוק ובבוך 2065 נוסף אח"כ: פי' חד חרוב.
-
-
-###### Sources and References on Torah Ohr, Megilat Esther 48b:6
-
-[https://torahapp.org/share/book/Sources%20and%20References%20on%20Torah%20Ohr/s/Megilat%20Esther/r/48b:6](https://torahapp.org/share/book/Sources%20and%20References%20on%20Torah%20Ohr/s/Megilat%20Esther/r/48b:6)
-
-
-**בד"ה אלו דברים תרנ"א ע' קצד הקשה:** ”הלא אלף השביעי הוא יום שכולו שבת ואיך אומרים עליו וחד חרוב, והענין שהכוונה שיהי' חרוב מהלבושים דק"נ". ע"ש.
+בד"ה אלו דברים תרנ"א ע' קצד הקשה: ”הלא אלף השביעי הוא יום שכולו שבת ואיך אומרים עליו וחד חרוב, והענין שהכוונה שיהי' חרוב מהלבושים דק"נ". ע"ש.
 בלקו"ת במדבר ד, ג מציין לכאן.
 
 

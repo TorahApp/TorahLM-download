@@ -14,9 +14,9 @@ Location: Tanakh/Acharonim on Tanakh/Torah Temimah/Torah
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Torah Temimah, APP VERSION with embedded footnotes, Vilna, 1904 (Segments: 9586, License: unknown)
+Version (He): Torah Temimah, APP VERSION with embedded footnotes, Vilna, 1904 (Segments: 9585, License: unknown)
 
-Version (En): Yalkut, Sifsei Chachomim Chumash, Metsudah Publications, 2009 (Segments: 21)
+Version (En): Sefaria Community Translation (Segments: 21)
 
 # Torah Temimah on Torah — part 2 of 3
 

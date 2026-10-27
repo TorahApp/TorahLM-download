@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat David/Writings
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 1451, License: Public Domain)
+Version (He): On Your Way (Segments: 1452, License: Public Domain)
 
 
 ## Chapter 1
@@ -521,7 +521,7 @@ Version (He): On Your Way (Segments: 1451, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Job/r/2:4:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Job/r/2:4:1)
 
 
-**עור בעד עור.** ר״ל ק״ו הדברים אם דרך אנשים לתת עור בעד עור שאם יבוא מי להכותו בעור פניו הלא ישים ידו על פניו לקבל ההכאה בעור היד ואם כן הוא במקצת גופו אל קצתו ב״ש הוא שיתן האיש את כל אשר לו בעד נפשו וכאומר הנה איוב יחשוב פן נגזר עליו המיתה ונאבד כל אשר לו תמורת נפשו ויעמד חי ולזה מקבל בסבר פנים יפות:
+**עור בעד עור.** ר״ל ק״ו הדברים אם דרך אנשים לתת עור בעד עור שאם יבוא מי להכותו בעור פניו הלא ישים ידו על פניו לקבל ההכאה בעור היד ואם כן הוא במקצת גופו אל קצתו כ״ש הוא שיתן האיש את כל אשר לו בעד נפשו וכאומר הנה איוב יחשוב פן נגזר עליו המיתה ונאבד כל אשר לו תמורת נפשו ויעמד חי ולזה מקבל בסבר פנים יפות:
 
 
 
@@ -744,7 +744,15 @@ Version (He): On Your Way (Segments: 1451, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Job/r/3:4:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Job/r/3:4:1)
 
 
-**אל ידרשהו.** (ז) יהי גלמוד כ״כ יגדל בו החשך עד שיהיה יחידי ר״ל אורה:
+**אל ידרשהו.** להשפיע בו טובה ממעל:
+
+
+###### Metzudat David on Job 3:4:2
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Job/r/3:4:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Job/r/3:4:2)
+
+
+**ואל תופע.** לא תזריח בו אורה:
 
 
 
@@ -932,7 +940,7 @@ Version (He): On Your Way (Segments: 1451, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Job/r/3:16:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Job/r/3:16:1)
 
 
-**או כנפל טמון.** מוסב על למה האמור בתחילת הענין לומר או למה כנפל ממון לא אהיה ר״ל למה לא הייתי נפל והוא הנופל מרחם קודם זמנו עד לא כלו חדשיו בעוד לא נתפשטו איבריו ועדיין הוא מקופל וטמון קצתו בקצתו:
+**או כנפל טמון.** מוסב על למה האמור בתחילת הענין לומר או למה כנפל טמון לא אהיה ר״ל למה לא הייתי נפל והוא הנופל מרחם קודם זמנו עד לא כלו חדשיו בעוד לא נתפשטו איבריו ועדיין הוא מקופל וטמון קצתו בקצתו:
 
 
 ###### Metzudat David on Job 3:16:2
@@ -2655,7 +2663,7 @@ Version (He): On Your Way (Segments: 1451, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Job/r/8:10:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Job/r/8:10:1)
 
 
-**יורוך.** ילמדנו אותך ויאמרו לך מה שקבלו מאבותם אשר חקרו מהדברים אשר נתפרסם להם מן החוש:
+**יורוך.** ילמדו אותך ויאמרו לך מה שקבלו מאבותם אשר חקרו מהדברים אשר נתפרסם להם מן החוש:
 
 
 ###### Metzudat David on Job 8:10:2
@@ -3288,7 +3296,7 @@ Version (He): On Your Way (Segments: 1451, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Job/r/10:3:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Job/r/10:3:3)
 
 
-**ועל עצת רשעים.** ובי טוב לך שתופיע על עצת רשעים ר״ל שתגיע אליהם זהרך בעצתם עד שישלימוה וכאומר מדוע תעשוק הצדיק ותעשה חסד לרשע אשר שניהם לא יצדקו:
+**ועל עצת רשעים.** וכי טוב לך שתופיע על עצת רשעים ר״ל שתגיע אליהם זהרך בעצתם עד שישלימוה וכאומר מדוע תעשוק הצדיק ותעשה חסד לרשע אשר שניהם לא יצדקו:
 
 
 
@@ -14320,7 +14328,7 @@ Version (He): On Your Way (Segments: 1451, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Job/r/41:8:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Job/r/41:8:1)
 
 
-**אהד.** קשקשת אחד נגש ודבוק בחבירו עד לא יבוא האויר ביניהם:
+**אחד.** קשקשת אחד נגש ודבוק בחבירו עד לא יבוא האויר ביניהם:
 
 
 

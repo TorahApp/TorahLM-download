@@ -14,7 +14,7 @@ Location: Talmud/Bavli/Acharonim on Talmud/Chidushei Agadot/Seder Nezikin
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): 1 (Segments: 158, License: unknown)
+Version (He): Vilna Edition (Segments: 158, License: Public Domain)
 
 Version (En): Sefaria Community Translation (Segments: 6)
 

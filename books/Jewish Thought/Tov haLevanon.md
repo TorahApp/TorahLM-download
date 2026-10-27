@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Chovat Halevavot, Warsaw 1875 (Segments: 4029, License: Public Domain)
 
-Version (En): Duties of the Heart, trans. Rabbi Yosef Sebag (Segments: 440)
+Version (En): Sefaria Community Translation (Segments: 440)
 
 
 ## Introduction of the Author

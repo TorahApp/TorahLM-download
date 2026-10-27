@@ -14,9 +14,9 @@ Location: Liturgy/Other Liturgy Works
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Seder Tisha B'Av - Kollel Ohr Haemet (Segments: 655, License: unknown)
+Version (He): Seder Tisha B'Av - Kollel Ohr Haemet (Segments: 657, License: unknown)
 
-Version (En): Seder Tisha B'Av - English instructions (Segments: 115)
+Version (En): Sefaria Community Translation (Segments: 115)
 
 
 ## Tisha B'Av Night
@@ -3002,7 +3002,7 @@ Some add the following
 [https://torahapp.org/share/book/Seder%20Tisha%20B%27Av%20%28Edot%20HaMizrach%29/s/Tisha%20B%27Av%20Day/r/3:1](https://torahapp.org/share/book/Seder%20Tisha%20B%27Av%20%28Edot%20HaMizrach%29/s/Tisha%20B%27Av%20Day/r/3:1)
 
 
-**בַּת צִיּוֹן** שָׁמַֽעְתִּי מְמָרֶֽרֶת אֲמָרֶֽיהָ. אֲהָהּ כִּי כוֹס שָׁתִֽיתִי וּמָצִֽיתִי שְׁמָרֶֽיהָ. אֵלִי עֲדִינָה לַשְׁכִינָה אֲשֶׁר חָֽשְׁכוּ מְאוֹרֶֽיהָ. כִּבְתוּלָה חֲגֽוּרַת שַׂק עַל בַּֽעַל נְעוּרֶֽיהָ: יְיֵלִיל יַֽעַר לְבָנוֹן, אֲרָזֶֽיךָ אֵשׁ אָֽכְלָה. וְשַֽׁעַר צִיּוֹן יִסְפּוֹד, כִּי אֵל עָשָׂה כָלָה. וְתִתְפַּלֵּשׁ הָעֲזָרָה, כִּי שָֽׁבְתָה הָֽעוֹלָה. וְהַלִּשְׁכָּה תְּקוֹנֵן, כִּי אָֽפְסוּ סַנְהֶדְרֶֽיהָ:
+**בַּת צִיּוֹן** שָׁמַֽעְתִּי מְמָרֶֽרֶת אֲמָרֶֽיהָ. אֲהָהּ כִּי כוֹס שָׁתִֽיתִי וּמָצִֽיתִי שְׁמָרֶֽיהָ. אֵלִי עֲדִינָה לַשְׁכִינָה אֲשֶׁר חָֽשְׁכוּ מְאוֹרֶֽיהָ. כִּבְתוּלָה חֲגֽוּרַת שַׂק עַל בַּֽעַל נְעוּרֶֽיהָ:
 
 
 I have heard the daughter of Zion, her embittered words I wail because I drank from the cup and found its dregs. I gnaw over the grace of the Shechinah, that its light has been darkened like a young woman who girds herself with sackcloth over her husband of her youth. You wail, oh forest of Lebanon, your cedars have been consumed by fire. The gate of Zion mourns, because God brought this end. The courtyard wallows [in despair], because the elevation offering has ceased. The chamber [of hewn stone] sings dirges because there is no Sanhedrin.
@@ -3024,7 +3024,7 @@ I gnaw over the grace of the Shechinah, that its light has been darkened like a 
 [https://torahapp.org/share/book/Seder%20Tisha%20B%27Av%20%28Edot%20HaMizrach%29/s/Tisha%20B%27Av%20Day/r/3:3](https://torahapp.org/share/book/Seder%20Tisha%20B%27Av%20%28Edot%20HaMizrach%29/s/Tisha%20B%27Av%20Day/r/3:3)
 
 
-לִשְׁכַּת בִּירָה תִבְכֶּה אוֹי עַל זֶֽרַע אַֽהֲרֹן. וּבֵית קֹֽדֶשׁ הַקֳּדָשִׁים אוֹי עַל גְּנִיזַת אָרוֹן. וְהַפָּרֹֽכֶת תִּזְעַק אֵין לִמְקוֹמִי יִתְרוֹן. כִּי רָֽאֲתָה אַכְזָרִים גִּלּוּ אֶת סְתָרֶֽיהָ:
+יְיֵלִיל יַֽעַר לְבָנוֹן, אֲרָזֶֽיךָ אֵשׁ אָֽכְלָה. וְשַֽׁעַר צִיּוֹן יִסְפּוֹד, כִּי אֵל עָשָׂה כָלָה. וְתִתְפַּלֵּשׁ הָעֲזָרָה, כִּי שָֽׁבְתָה הָֽעוֹלָה. וְהַלִּשְׁכָּה תְּקוֹנֵן, כִּי אָֽפְסוּ סַנְהֶדְרֶֽיהָ:
 
 
 The chamber called "Birah" weeps, "Oy!" over the children of Aharon. The house of the holy of holies: "Oy!" over the hiding of the ark. The parochet screams out "there is no advantage to my [being here]" because savages have seen it and revealed its secrets.
@@ -3046,7 +3046,7 @@ I gnaw over the grace of the Shechinah, that its light has been darkened like a 
 [https://torahapp.org/share/book/Seder%20Tisha%20B%27Av%20%28Edot%20HaMizrach%29/s/Tisha%20B%27Av%20Day/r/3:5](https://torahapp.org/share/book/Seder%20Tisha%20B%27Av%20%28Edot%20HaMizrach%29/s/Tisha%20B%27Av%20Day/r/3:5)
 
 
-וְהַמַּחְתָּה מְקוֹנֶֽנֶת אַיֵּה קְטֹֽרֶת סַמִּים? וְלֵב אַהֲרֹן יִקָּרַע עַל אוּרִים וְתֻּמִּים. וּמִזְבֵּֽחַ יִתְרַגֵּז עַל עוֹלוֹת וּשְׁלָמִים. מַדּוּעַ לֹא בְעִתָּהּ יָכִינוּ סוֹדְרֶֽיהָ?
+לִשְׁכַּת בִּירָה תִבְכֶּה אוֹי עַל זֶֽרַע אַֽהֲרֹן. וּבֵית קֹֽדֶשׁ הַקֳּדָשִׁים אוֹי עַל גְּנִיזַת אָרוֹן. וְהַפָּרֹֽכֶת תִּזְעַק אֵין לִמְקוֹמִי יִתְרוֹן. כִּי רָֽאֲתָה אַכְזָרִים גִּלּוּ אֶת סְתָרֶֽיהָ:
 
 
 And the incense pan sings dirges "Where are the fragrant incense?" Aharon's heart is torn over the Urim and Tumim. The altar is angry about the Elevation offerings and Peace offerings, "Why don't you prepare the order [of these offerings] in their time?"
@@ -3068,7 +3068,7 @@ I gnaw over the grace of the Shechinah, that its light has been darkened like a 
 [https://torahapp.org/share/book/Seder%20Tisha%20B%27Av%20%28Edot%20HaMizrach%29/s/Tisha%20B%27Av%20Day/r/3:7](https://torahapp.org/share/book/Seder%20Tisha%20B%27Av%20%28Edot%20HaMizrach%29/s/Tisha%20B%27Av%20Day/r/3:7)
 
 
-יְיֵלִיל כִּנּוֹר לְוִיִּם מִי יָעִיר נְגִינוֹתַי? וְתַֽעֲנֶה מְנוֹרָה טְהוֹרָה מִי יַֽעֲלֶה נֵֽרוֹתַי? וְהָאֹֽהֶל מִתְאוֹנֵן אֵין מֵקִים יְרִֽיעוֹתַי. וְהַתּוֹרָה תִּתְרַעֵם, כִּי חָֽדְלוּ שׁוֹחֲרֶֽיהָ:
+וְהַמַּחְתָּה מְקוֹנֶֽנֶת אַיֵּה קְטֹֽרֶת סַמִּים? וְלֵב אַהֲרֹן יִקָּרַע עַל אוּרִים וְתֻּמִּים. וּמִזְבֵּֽחַ יִתְרַגֵּז עַל עוֹלוֹת וּשְׁלָמִים. מַדּוּעַ לֹא בְעִתָּהּ יָכִינוּ סוֹדְרֶֽיהָ?
 
 
 The lyre of the levi'im wails "who will rouse my melodies?" The pure menorah asks "who will kindle my lamps?" The tent complains "nobody establishes my walls." The Torah thunders because they have ceased to support it.
@@ -3090,7 +3090,7 @@ I gnaw over the grace of the Shechinah, that its light has been darkened like a 
 [https://torahapp.org/share/book/Seder%20Tisha%20B%27Av%20%28Edot%20HaMizrach%29/s/Tisha%20B%27Av%20Day/r/3:9](https://torahapp.org/share/book/Seder%20Tisha%20B%27Av%20%28Edot%20HaMizrach%29/s/Tisha%20B%27Av%20Day/r/3:9)
 
 
-חוֹל יָחוּל הַשֻּׁלְחָן אֵי עוֹרְכֵי מַֽעֲרָכָה? וּכְהוּנָּה כֵּן תֶּהְגֶּה אֵיכָה שָֽׁבְתָה מְלָאכָה? וּבַת עַמִּי עַל כָּל זֹאת דִּמְעָתָהּ נִתָּכָה. כִּי לִפְנֵי צָרֶֽיהָ הָֽלְכוּ שְׁבִי שָׂרֶֽיהָ:
+יְיֵלִיל כִּנּוֹר לְוִיִּם מִי יָעִיר נְגִינוֹתַי? וְתַֽעֲנֶה מְנוֹרָה טְהוֹרָה מִי יַֽעֲלֶה נֵֽרוֹתַי? וְהָאֹֽהֶל מִתְאוֹנֵן אֵין מֵקִים יְרִֽיעוֹתַי. וְהַתּוֹרָה תִּתְרַעֵם, כִּי חָֽדְלוּ שׁוֹחֲרֶֽיהָ:
 
 
 The shulchan's anticipation is desecrated "Nobody is setting out [my showbreads]." The kohanim pronounce "Alas! The service has ceased." On this the daughter of my people cries -- because of her oppressors, her leaders have been captured.
@@ -3109,7 +3109,7 @@ The shulchan's anticipation is desecrated "Nobody is setting out [my showbreads]
 [https://torahapp.org/share/book/Seder%20Tisha%20B%27Av%20%28Edot%20HaMizrach%29/s/Tisha%20B%27Av%20Day/r/3:11](https://torahapp.org/share/book/Seder%20Tisha%20B%27Av%20%28Edot%20HaMizrach%29/s/Tisha%20B%27Av%20Day/r/3:11)
 
 
-(זֶה כַמֶּה מְיַחֶֽלֶת יוֹם רָצוֹן מִמְּךָ צוּר. קְשׁוּרָה כְּצִפּוֹר בְּיַד זָר, וְאֶֽפֶס עָזוּב וְעָצוּר. קוּם בְּטֶֽרֶם יִתַּֽמּוּ עוֹלְלוֹת כֶּֽרֶם בַּצוּר. וּפְקוֹד כַּנָּה נְטַשְׁתָּהּ, וּפָרַֽצְתָּ גְדֵרֶֽיהָ:
+חוֹל יָחוּל הַשֻּׁלְחָן אֵי עוֹרְכֵי מַֽעֲרָכָה? וּכְהוּנָּה כֵּן תֶּהְגֶּה אֵיכָה שָֽׁבְתָה מְלָאכָה? וּבַת עַמִּי עַל כָּל זֹאת דִּמְעָתָהּ נִתָּכָה. כִּי לִפְנֵי צָרֶֽיהָ הָֽלְכוּ שְׁבִי שָׂרֶֽיהָ:
 
 
 ###### Seder Tisha B'Av (Edot HaMizrach), Tisha B'Av Day 3:12
@@ -3117,7 +3117,23 @@ The shulchan's anticipation is desecrated "Nobody is setting out [my showbreads]
 [https://torahapp.org/share/book/Seder%20Tisha%20B%27Av%20%28Edot%20HaMizrach%29/s/Tisha%20B%27Av%20Day/r/3:12](https://torahapp.org/share/book/Seder%20Tisha%20B%27Av%20%28Edot%20HaMizrach%29/s/Tisha%20B%27Av%20Day/r/3:12)
 
 
-וּפְקוֹד כַּנָּה נְטַשְׁתָּהּ, וּפָרַֽצְתָּ גְדֵרֶֽיהָ:)
+אֵלִי עֲדִינָה לַשְּׁכִינָה אֲשֶׁר חָֽשְׁכוּ מְאוֹרֶֽיהָ. כִּבְתוּלָה חֲגֽוּרַת שַׂק עַל בַּֽעַל נְעוּרֶֽיהָ:
+
+
+###### Seder Tisha B'Av (Edot HaMizrach), Tisha B'Av Day 3:13
+
+[https://torahapp.org/share/book/Seder%20Tisha%20B%27Av%20%28Edot%20HaMizrach%29/s/Tisha%20B%27Av%20Day/r/3:13](https://torahapp.org/share/book/Seder%20Tisha%20B%27Av%20%28Edot%20HaMizrach%29/s/Tisha%20B%27Av%20Day/r/3:13)
+
+
+זֶה כַמֶּה מְיַחֶֽלֶת יוֹם רָצוֹן מִמְּךָ צוּר. קְשׁוּרָה כְּצִפּוֹר בְּיַד זָר, וְאֶֽפֶס עָזוּב וְעָצוּר. קוּם בְּטֶֽרֶם יִתַּֽמּוּ עוֹלְלוֹת כֶּֽרֶם בַּצוּר. וּפְקוֹד כַּנָּה נְטַשְׁתָּהּ, וּפָרַֽצְתָּ גְדֵרֶֽיהָ:
+
+
+###### Seder Tisha B'Av (Edot HaMizrach), Tisha B'Av Day 3:14
+
+[https://torahapp.org/share/book/Seder%20Tisha%20B%27Av%20%28Edot%20HaMizrach%29/s/Tisha%20B%27Av%20Day/r/3:14](https://torahapp.org/share/book/Seder%20Tisha%20B%27Av%20%28Edot%20HaMizrach%29/s/Tisha%20B%27Av%20Day/r/3:14)
+
+
+אֵלִי עֲדִינָה לַשְּׁכִינָה אֲשֶׁר חָֽשְׁכוּ מְאוֹרֶֽיהָ. כִּבְתוּלָה חֲגֽוּרַת שַׂק עַל בַּֽעַל נְעוּרֶֽיהָ:
 
 
 ###### Seder Tisha B'Av (Edot HaMizrach), Tisha B'Av Day 4:1

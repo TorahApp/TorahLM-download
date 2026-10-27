@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Radak on Nach (Segments: 451, License: unknown)
 
-Version (En): Sefaria Community Translation (Segments: 49)
+Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 49)
 
 
 ## Chapter 1

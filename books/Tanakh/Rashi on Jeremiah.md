@@ -115,7 +115,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/1:5:5](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/1:5:5)
 
 
-**נָבִיא לַגּוֹיִם.** לְיִשְׂרָאֵל שֶׁהָיוּ נוֹהֲגִים עַצְמָם כְּעוֹבְדֵי כּוֹכָבִים וּמַזָּלוֹת, כָּךְ נִדְרַשׁ בְּסִפְרֵי: ״נָבִיא מִקִּרְבְּךָ וְגוֹ׳ יָקִים לְךָ״ (דברים יח:טו) וְלֹא לִמְכַחִישֵׁי תּוֹרָה. הָא מָה אֲנִי מְקַיֵּם **נָבִיא לַגּוֹיִם נְתַתִּיךָ**? בִּבְנֵי יִשְׂרָאֵל שֶׁהָיוּ נוֹהֲגִים כְּעוֹבְדֵי כּוֹכָבִים וּמַזָּלוֹת. דָּבָר אַחֵר: **בְּטֶרֶם תֵּצֵא מֵרֶחֶם הִקְדַּשְׁתִּיךָ**, עָלֶיךָ אָמַרְתִּי לְמֹשֶׁה: ״נָבִיא אָקִים לָהֶם כָּמוֹךָ״ (דברים יח:יח). זֶה הוֹכִיחָם וְזֶה הוֹכִיחָם, זֶה נִתְנַבֵּא אַרְבָּעִים שָׁנָה וְזֶה נִתְנַבֵּא אַרְבָּעִים שָׁנָה:
+**נָבִיא לַגּוֹיִם.** לְיִשְׂרָאֵל שֶׁהָיוּ נוֹהֲגִים עַצְמָם כַּ**גּוֹיִם**, כָּךְ נִדְרַשׁ בְּסִפְרֵי: ״נָבִיא מִקִּרְבְּךָ וְגוֹ׳ יָקִים לְךָ״ (דברים יח:טו) וְלֹא לְמַכְחִישֵׁי תּוֹרָה. הָא מָה אֲנִי מְקַיֵּם **נָבִיא לַגּוֹיִם נְתַתִּיךָ**? בְּנוֹהֲגֵי מִנְהַג גּוֹיִם. וְעוֹד יֵשׁ לִפְתּוֹר: **נָבִיא לַגּוֹיִם** כְּמוֹ ״עַל הַגּוֹיִם״ (ירמיהו י:כה); לְהַשְׁקוֹתָם כּוֹס תַּרְעֵלָה, לְהִנָּבֵא עֲלֵיהֶם פּוּרְעָנוּת, כְּמָה שֶׁנֶּאֱמַר ״קַח אֶת כּוֹס הַיַּיִן הַחֵמָה הַזֹּאת … וְהִשְׁקִיתָה אֹתוֹ אֶת כׇּל הַגּוֹיִם״ (ירמיהו כה:טו). דָּבָר אַחֵר: **בְּטֶרֶם תֵּצֵא מֵרֶחֶם הִקְדַּשְׁתִּיךָ**, עָלֶיךָ אָמַרְתִּי לְמֹשֶׁה: ״נָבִיא אָקִים לָהֶם כָּמוֹךָ״ (דברים יח:יח). זֶה הוֹכִיחָם וְזֶה הוֹכִיחָם, זֶה נִתְנַבֵּא אַרְבָּעִים שָׁנָה וְזֶה נִתְנַבֵּא אַרְבָּעִים שָׁנָה:
 
 
 **a prophet to the nations** To Israel, who behave like the nations. In this manner it is expounded in Sifrei on the verse: “A prophet from your midst, etc.” (Deut. 18:15), will set up for you and not for those who deny the Torah. How then do I fulfill “A prophet to the nations I made you”? To the children of Israel who deport themselves with the customs of the nations. It can further be interpreted: “A prophet for the nations,” like “About the nations,” to give them to drink the cup of poison, to prophesy retribution upon them, as it is said: “Take this cup of the wine of wrath from My hand, you shall give all the nations to drink of it” (infra 25:15). Another explanation of “When you had not yet emerged from the womb I appointed you” is: Concerning you I said to Moses: “I will set up a prophet...like you” (Deut. 18:18). This one reproved them, and this one reproved them. This one prophesied for forty years and this one prophesied for forty years.
@@ -232,7 +232,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/1:12:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/1:12:1)
 
 
-**הֵיטַבְתָּ לִרְאוֹת.** הַשָּׁקֵד הַזֶּה הוּא מְמַהֵר לְהוֹצִיא פֶרַח קֹדֶם לְכָל הָאִילָנוֹת, אַף אֲנִי מְמַהֵר לַעֲשׂוֹת **דְּבָרִי**. וּמִדְרַשׁ אַגָּדָה (ירושלמי תענית ד, ה): הַשָּׁקֵד הַזֶּה הוּא מִשְּׁעַת חֲנִיטָתוֹ עַד גְּמַר בִּשּׁוּלוֹ עֶשְׂרִים וְאֶחָד יוֹם, כְּמִנְיַן יָמִים שֶׁבֵּין שִׁבְעָה עָשָׂר בְּתַמּוּז שֶׁבּוֹ הָבְקְעָה הָעִיר, לְתִשְׁעָה בְּאָב שֶׁבּוֹ נִשְׂרַף הַבַּיִת:
+**הֵיטַבְתָּ לִרְאוֹת.** הַשָּׁקֵד הַזֶּה הוּא מְמַהֵר לְהוֹצִיא פֶרַח קֹדֶם לְכָל הָאִילָנוֹת, אַף אֲנִי מְמַהֵר לַעֲשׂוֹת **דְּבָרִי.** וּמִדְרַשׁ אַגָּדָה (ירושלמי תענית ד, ה): הַשָּׁקֵד הַזֶּה הוּא מִשְּׁעַת חֲנִיטָתוֹ עַד גְּמַר בִּשּׁוּלוֹ עֶשְׂרִים וְאֶחָד יוֹם, כְּמִנְיַן יָמִים שֶׁבֵּין שִׁבְעָה עָשָׂר בְּתַמּוּז שֶׁבּוֹ הָבְקְעָה הָעִיר, לְתִשְׁעָה בְּאָב שֶׁבּוֹ נִשְׂרַף הַבַּיִת:
 
 
 **You have seen well** This almond tree hastens to blossom before all other trees. I, too, hasten to perform My word. And the Midrash Aggadah (Ecc. Rabbah 12:8) explains: An almond tree takes twenty-one days from its blossoming until it is completely ripe, as the number of days between the seventeenth of Tammuz, when the city was broken into, until the ninth of Ab, when the Temple was burnt.
@@ -299,7 +299,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/1:17:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/1:17:1)
 
 
-**תְּאַזֹּר מָתְנֶיךָ.** לְשׁוֹן זֵרוּז, כְּאִישׁ חַיִל:
+**תֶּאְזֹר מָתְנֶיךָ.** לְשׁוֹן זֵרוּז, כְּאִישׁ חַיִל:
 
 
 **And you shall gird your loins** This is an expression of quickening like a man of valor.
@@ -369,7 +369,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/2:3:2](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/2:3:2)
 
 
-**רֵאשִׁית תְּבוּאָתֹה.** כְּרֵאשִׁית קָצִיר לִפְנֵי הָעֹמֶר, שֶׁאָסוּר בַּאֲכִילָה וְהָאוֹכְלוֹ מִתְחַיֵּב, כֵּן **כָּל אֹכְלָיו יֶאְשָׁמוּ**. כֵּן תַּרְגֵּם יוֹנָתָן:
+**רֵאשִׁית תְּבוּאָתֹה.** כְּרֵאשִׁית קָצִיר לִפְנֵי הָעֹמֶר, שֶׁאָסוּר בַּאֲכִילָה וְהָאוֹכְלוֹ מִתְחַיֵּב, כֵּן **כָּל אֹכְלָיו יֶאְשָׁמוּ.** כֵּן תַּרְגֵּם יוֹנָתָן:
 
 
 **the first of His grain** Like the first of the harvest before the Omer, which it is forbidden to eat, and whoever eats it is liable, so will all those who eat him be guilty. So did Jonathan render it.
@@ -760,7 +760,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/2:18:2](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/2:18:2)
 
 
-**לִשְׁתּוֹת מֵי שִׁיחוֹר.** שֶׁטִּבְּעוּ זְכוֹרֵיכֶם בַּנִּילוּס; **שִׁיחוֹר** הוּא נִילוּס, כְּמָה שֶׁנֶּאֱמַר ״מִן הַשִּׁיחוֹר אֲשֶׁר עַל פְּנֵי מִצְרָיִם״ בְּסֵפֶר יְהוֹשֻׁעַ (יהושע יג:ג):
+**לִשְׁתּוֹת מֵי שִׁחוֹר.** שֶׁטִּבְּעוּ זְכוֹרֵיכֶם בַּנִּילוּס; **שִׁחוֹר** הוּא נִילוּס, כְּמָה שֶׁנֶּאֱמַר ״מִן הַשִּׁיחוֹר אֲשֶׁר עַל פְּנֵי מִצְרָיִם״ בְּסֵפֶר יְהוֹשֻׁעַ (יהושע יג:ג):
 
 
 **to drink the water of the Shihor** For they drowned your male children in the Nile. Shihor is the Nile, as it is said: “From the Shihor which is before Egypt,” in the Book of Joshua (13:3).
@@ -937,7 +937,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/2:22:3](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/2:22:3)
 
 
-**נִכְתָּם עֲוֹנֵךְ.** ״הָא כְּרוֹשֶׁם כִּתְמָא דְּלָא דָכֵי, כֵּן סַגִּיאוּ חוֹבֵיךְ קֳדָמַי״ (תרגום יונתן):
+**נִכְתָּם עֲוֺנֵךְ.** ״הָא כְּרוֹשֶׁם כִּתְמָא דְּלָא דָכֵי, כֵּן סַגִּיאוּ חוֹבֵיךְ קֳדָמַי״ (תרגום יונתן):
 
 
 **your iniquity is stained** Jon. renders: Like the mark of a stain that is unclean, so have your sins increased before Me.
@@ -959,7 +959,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/2:22:5](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/2:22:5)
 
 
-**עֲוֹנֵךְ.** עַל עֲוֹן הָעֵגֶל נֶאֱמַר, שֶׁהוּא קַיָּם לְעוֹלָם, כְּמוֹ שֶׁנֶּאֱמַר ״וּבְיוֹם פָּקְדִי וּפָקַדְתִּי עֲלֵיהֶם״ (שמות לב:לד) – כָּל פְּקִידוֹת הַבָּאוֹת עַל יִשְׂרָאֵל, יִהְיֶה מִקְצָת עֲוֹן הָעֵגֶל בָּהֶם (סנהדרין קב.):
+**עֲוֺנֵךְ.** עַל עֲוֹן הָעֵגֶל נֶאֱמַר, שֶׁהוּא קַיָּם לְעוֹלָם, כְּמוֹ שֶׁנֶּאֱמַר ״וּבְיוֹם פָּקְדִי וּפָקַדְתִּי עֲלֵיהֶם״ (שמות לב:לד) – כָּל פְּקִידוֹת הַבָּאוֹת עַל יִשְׂרָאֵל, יִהְיֶה מִקְצָת עֲוֹן הָעֵגֶל בָּהֶם (סנהדרין קב.):
 
 
 **your iniquity** This is said concerning the iniquity of the ‘Golden Calf,’ which remains in existence forever, as it is stated: “And on the day of My visitation, I will visit upon them their sin” (Exodus 32:34). All visitations that come upon Israel have part of the iniquity of the Golden Calf in them.
@@ -1067,7 +1067,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/2:25:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/2:25:1)
 
 
-**מִנְעִי רַגְלֵךְ מִיָּחֵף.** זוֹ הִיא מִדָּתֵךְ, כְּפֶרֶא הָאוֹהֶבֶת לָנוּעַ. נְבִיאַי אוֹמְרִים לִיךְ: מִנְעִי עַצְמֵךְ מֵעֲבוֹדָה זָרָה שֶׁלֹּא תֵּלְכִי **יָחֵף** בַּגּוֹלָה, וּמִנְעִי **גְּרוֹנֵךְ** מִלָּמוּת בַּצָּמָא; **וַתֹּאמְרִי** עַל דִּבְרֵי הַנְּבִיאִים **נוֹאָשׁ**. אֵין מִיחוּשׁ, נוֹאַשְׁתִּי בְּדִבְרֵיכֶם. **נוֹאָשׁ** נוֹקְלִיי״ר בְּלַעַ״ז:
+**מִנְעִי רַגְלֵךְ מִיָּחֵף.** זוֹ הִיא מִדָּתֵךְ, כְּפֶרֶא הָאוֹהֶבֶת לָנוּעַ. נְבִיאַי אוֹמְרִים לִיךְ: מִנְעִי עַצְמֵךְ מֵעֲבוֹדָה זָרָה שֶׁלֹּא תֵּלְכִי **יָחֵף** בַּגּוֹלָה, וּמִנְעִי **גְּרוֹנֵךְ** מִלָּמוּת בַּצָּמָא; **וַתֹּאמְרִי** עַל דִּבְרֵי הַנְּבִיאִים **נוֹאָשׁ.** אֵין מִיחוּשׁ, נוֹאַשְׁתִּי בְּדִבְרֵיכֶם. **נוֹאָשׁ** נוֹקְלִיי״ר בְּלַעַ״ז:
 
 
 **Withhold your foot from going barefoot** This your habit, like the wild donkey that loves to wander. My prophets say to you, “Withhold your foot from idolatry lest you go barefoot into exile and withhold your throat from dying of thirst.” **but you said** concerning the words of the prophets. **I despair** It is of no concern. I despair of your words. נואש is (nonkalajjr in O.F.) nonchalair in modern French.
@@ -1095,7 +1095,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/2:27:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/2:27:1)
 
 
-**וּבְעֵת רָעָתָם יֹאמְרוּ.** אֵלַי **קוּמָה וְהוֹשִׁיעֵנוּ**. וְכֵן תַּרְגּוּם יוֹנָתָן: ״וּבְעִידָּן דְּבִישְׁתָּא אַתְיָא עֲלֵיהוֹן כַּפְרִין בְּטָעוּתְהוֹן וּמוֹדָן קֳדָמַי וְאָמְרִין רַחֵם עֲלָנָא וּפְרוּקְנָא״:
+**וּבְעֵת רָעָתָם יֹאמְרוּ.** אֵלַי **קוּמָה וְהוֹשִׁיעֵנוּ.** וְכֵן תַּרְגּוּם יוֹנָתָן: ״וּבְעִידָּן דְּבִישְׁתָּא אַתְיָא עֲלֵיהוֹן כַּפְרִין בְּטָעוּתְהוֹן וּמוֹדָן קֳדָמַי וְאָמְרִין רַחֵם עֲלָנָא וּפְרוּקְנָא״:
 
 
 **and at the time of their misfortune they say** i.e., they say to Me, “Arise and save us.” Jonathan, too, translates in this manner: And at the time that misfortune befalls them, they deny their idols and confess before Me, and say. “Have mercy upon us and save us.”
@@ -1400,7 +1400,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/3:1:3](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/3:1:3)
 
 
-**וְשׁוּב אֵלַי.** כְּמוֹ ״עֲשׂוֹת״, וְלָשׁוּב אֵלַי אֲנִי עוֹסֵק בָּךְ:
+**וְשׁוֹב אֵלַי.** כְּמוֹ ״עֲשׂוֹת״, וְלָשׁוּב אֵלַי אֲנִי עוֹסֵק בָּךְ:
 
 
 **yet return to me** Heb. ושוב, lit. and to return to me, like עשות, to do, and to return to Me, I long for you.
@@ -1700,7 +1700,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/3:13:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/3:13:1)
 
 
-**פָּשָׁעְתְּ.** מָרַדְתְּ:
+**פָּשָׁעַתְּ.** מָרַדְתְּ:
 
 
 **you have rebelled** Heb. פשעת.
@@ -1889,7 +1889,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/3:22:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/3:22:1)
 
 
-**הִנְנוּ אָתָנוּ לָךְ.** הַנָּבִיא מְלַמְּדָם לְהִתְוַדּוֹת וְלוֹמַר כֵּן: **הִנְנוּ אָתָנוּ לָךְ**, **אָכֵן לַשֶּׁקֶר וְגוֹ**, **וְהַבֹּשֶׁת אָכְלָה וְגוֹ׳ נִשְׁכְּבָה בְבָשְׁתֵּנוּ**. כָּל זֶה לְשׁוֹן תְּפִלָּה שֶׁהַנָּבִיא מְלַמְּדָם לוֹמַר:
+**הִנְנוּ אָתָנוּ לָךְ.** הַנָּבִיא מְלַמְּדָם לְהִתְוַדּוֹת וְלוֹמַר כֵּן: **הִנְנוּ אָתָנוּ לָךְ**, **אָכֵן לַשֶּׁקֶר וְגוֹ**, **וְהַבֹּשֶׁת אָכְלָה וְגוֹ׳ נִשְׁכְּבָה בְבָשְׁתֵּנוּ.** כָּל זֶה לְשׁוֹן תְּפִלָּה שֶׁהַנָּבִיא מְלַמְּדָם לוֹמַר:
 
 
 **Here we are, we have come to You** The prophet teaches them to confess and to say as follows, “Here we are, we have come to You... Truly, in vain... But the shameful thing has consumed, etc., Let us lie in our shame.” All this is the language of the prayer that the prophet teaches them to say.
@@ -2153,7 +2153,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/4:8:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/4:8:1)
 
 
-**עַל זֹאת.** מַה הוּא זֹאת? **כִּי לֹא שָׁב וְגוֹ׳**. וְאַף עַל פִּי שֶׁדִּבֵּר לְמַעְלָה בִּנְבוּכַדְנֶצַּר עַל הַחֻרְבָּן, כָּאן חָזַר לְדַבֵּר בְּמִיתַת יֹאשִׁיָּהוּ:
+**עַל זֹאת.** מַה הוּא זֹאת? **כִּי לֹא שָׁב וְגוֹ׳.** וְאַף עַל פִּי שֶׁדִּבֵּר לְמַעְלָה בִּנְבוּכַדְנֶצַּר עַל הַחֻרְבָּן, כָּאן חָזַר לְדַבֵּר בְּמִיתַת יֹאשִׁיָּהוּ:
 
 
 **Because of this** What is “this?” “For the fierce anger etc.” Although he spoke above concerning Nebuchadnezzar in regards to the destruction, here he returns to speak of the death of Josiah.
@@ -2370,7 +2370,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/4:18:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/4:18:1)
 
 
-**עָשׂוּ אֵלֶּה.** לַעֲשׂוֹת אֵלֶּה לָךְ:
+**עָשׂוֹ אֵלֶּה.** לַעֲשׂוֹת אֵלֶּה לָךְ:
 
 
 **have done these to you** To do these to you.
@@ -2406,7 +2406,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/4:19:3](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/4:19:3)
 
 
-**שָׁמְעַת נַפְשִׁי.** מֵאֲחוֹרֵי הַפַּרְגּוֹד (חגיגה טו.) בָּאַתְנִי בְּשׂוֹרַת קוֹל מִ**תְּרוּעַת מִלְחָמָה**:
+**שָׁמַעַתְּ נַפְשִׁי.** מֵאֲחוֹרֵי הַפַּרְגּוֹד (חגיגה טו.) בָּאַתְנִי בְּשׂוֹרַת קוֹל מִ**תְּרוּעַת מִלְחָמָה**:
 
 
 **you, my soul, have heard** From behind the curtain of heaven the ridings of the sound of the alarm of war reached me.
@@ -2473,7 +2473,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/4:26:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/4:26:1)
 
 
-**וְהִנֵּה הַכַּרְמֶל.** אֶרֶץ הַנְּטוּעַ כָּל טוֹב כַּכַּרְמֶל נִהְיָה **מִדְבָּר**. מִדְרַשׁ אַגָּדָה: רָאִיתִי הֶהָרִים אֵלּוּ הָאָבוֹת, וְכָל הַגְּבָעוֹת אֵלּוּ אִמָּהוֹת (ראש השנה יא.), כְּלוֹמַר זְכוּתָן תַּמָּה, אֵין הָאָדָם, זְכוּת מֹשֶׁה שֶׁנֶּאֱמַר בּוֹ עָנִיו מִכָּל הָאָדָם (במדבר יב,ג), **וְהִנֵּה הַכַּרְמֶל** אֵלִיָּהוּ:
+**וְהִנֵּה הַכַּרְמֶל.** אֶרֶץ הַנְּטוּעַ כָּל טוֹב כַּכַּרְמֶל נִהְיָה **מִדְבָּר.** מִדְרַשׁ אַגָּדָה: רָאִיתִי הֶהָרִים אֵלּוּ הָאָבוֹת, וְכָל הַגְּבָעוֹת אֵלּוּ אִמָּהוֹת (ראש השנה יא.), כְּלוֹמַר זְכוּתָן תַּמָּה, אֵין הָאָדָם, זְכוּת מֹשֶׁה שֶׁנֶּאֱמַר בּוֹ עָנִיו מִכָּל הָאָדָם (במדבר יב,ג), **וְהִנֵּה הַכַּרְמֶל** אֵלִיָּהוּ:
 
 
 **and behold, the fruitful field** The land, planted with all good like a forest, has become like a desert. The Midrash Aggadah states: “I saw the mountains”These are the Patriarchs. “And all the hills”These are the Matriarchs. That is to say that their merit was depleted. “There were no people”This refers to Moses, about whom it is said: “humbler than all the people” (Num. 12:3). “And behold the Karmel”This is Elijah.
@@ -3286,7 +3286,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/6:2:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/6:2:1)
 
 
-**הַנָּוֶה וְהַמְּעֻנָּגָה דָּמִיתִי.** הֶחֱרַבְתִּי תִּרְגְּמוֹ יוֹנָתָן; לְשׁוֹן ״וְנָדַמּוּ נְאוֹת הַשָּׁלוֹם״ (ירמיה כה:לז); ״נִדְמְתָה אַשְׁקְלוֹן״ (ירמיה מז:ה):
+**הַנָּוָה וְהַמְּעֻנָּגָה דָּמִיתִי.** הֶחֱרַבְתִּי תִּרְגְּמוֹ יוֹנָתָן; לְשׁוֹן ״וְנָדַמּוּ נְאוֹת הַשָּׁלוֹם״ (ירמיה כה:לז); ״נִדְמְתָה אַשְׁקְלוֹן״ (ירמיה מז:ה):
 
 
 **The comely and the delicate one have I destroyed** Heb. דמיתי. Jonathan renders it as an expression related to (25:37) “And the dwellings of peace shall be destroyed (ונדמוּ).” Also (47:5), “Ashkelon has been destroyed (נדמתה).”
@@ -4011,7 +4011,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/7:14:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/7:14:1)
 
 
-**כַּאֲשֶׁר עָשִׂיתִי לְשִׁילוֹ.** בִּימֵי עֵלִי (שמואל א ד:יא-יח):
+**כַּאֲשֶׁר עָשִׂיתִי לְשִׁלוֹ.** בִּימֵי עֵלִי (שמואל א ד:יא-יח):
 
 
 **as I did to Shiloh** in the days of Eli.
@@ -4323,7 +4323,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/8:6:2](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/8:6:2)
 
 
-**כֻּלֹּה שָׁב בִּמְרֻצוֹתָם.** בַּדֶּרֶךְ הָרִאשׁוֹן חוֹטְאִים, וְחוֹזְרִים וְחוֹטְאִים. **מְרוּצָתָם** – קוֹרְשִׁ״י בְּלַעַ״ז:
+**כֻּלֹּה שָׁב בִּמְרוּצָתָם.** בַּדֶּרֶךְ הָרִאשׁוֹן חוֹטְאִים, וְחוֹזְרִים וְחוֹטְאִים. **מְרוּצָתָם** – קוֹרְשִׁ״י בְּלַעַ״ז:
 
 
 **Each one turns away in his course** [lit. in their course.] In the first way. They sin and repeatedly sin. מרוצתם is korse in O.F.
@@ -4420,7 +4420,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/8:9:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/8:9:1)
 
 
-**הוֹבִישׁוּ חֲכָמִים.** כְּמוֹתְכֶם. וּמַהוּ הַבֹּשֶׁת? – **הִנֵּה בִדְבַר ה׳ מָאֲסוּ וְחָכְמַת מֶה לָהֶם**:
+**הוֹבִישׁוּ חֲכָמִים.** כְּמוֹתְכֶם. וּמַהוּ הַבֹּשֶׁת? – **הִנֵּה בִדְבַר ה׳ מָאָסוּ וְחָכְמַת מֶה לָהֶם**:
 
 
 **Wise men were ashamed** i.e., wise men like you. And what is the shame? Behold, they rejected the word of the Lord, now what wisdom have they?
@@ -4581,7 +4581,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/8:17:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/8:17:1)
 
 
-**נְחָשִׁים צִפְעֹנִים.** לְסוֹף שִׁבְעִים שָׁנָה נַעֲשֶׂה צֶפַע, וְאוֹטֵם אָזְנוֹ שֶׁלֹּא יִשְׁמַע לְקוֹל חֶבֶר הַמְלַחֲשׁוֹ, שֶׁנֶּאֱמַר ״כְּמוֹ פֶתֶן חֵרֵשׁ יַאְטֵם אָזְנוֹ...״ (תהלים נח:ה-ו); הוּא שֶׁנֶּאֱמַר: **אֲשֶׁר אֵין לָהֶם לָחַשׁ** (ראה שוחר טוב נח:ב):
+**נְחָשִׁים צִפְעֹנִים.** לְסוֹף שִׁבְעִים שָׁנָה נַעֲשֶׂה צֶפַע, וְאוֹטֵם אָזְנוֹ שֶׁלֹּא יִשְׁמַע לְקוֹל חֶבֶר הַמְלַחֲשׁוֹ, שֶׁנֶּאֱמַר ״כְּמוֹ פֶתֶן חֵרֵשׁ יַאְטֵם אָזְנוֹ…״ (תהלים נח:ה-ו); הוּא שֶׁנֶּאֱמַר: **אֲשֶׁר אֵין לָהֶם לָחַשׁ** (ראה שוחר טוב נח:ב):
 
 
 **serpents, adders** After seventy years, the snake becomes a צפע, which shuts its ear so that it will not hear the voice of the charmer who charms him, as it is stated (Psalms 58:5), “Like a deaf asp that shuts up its ear.” That is the meaning of “that cannot be charmed.”
@@ -4620,7 +4620,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/8:19:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/8:19:1)
 
 
-**הִנֵּה קוֹל שַׁוְעַת בַּת עַמִּי.** אֲנִי שׁוֹמֵעַ שֶׁסּוֹפָן לִצְעֹק בְּ**אֶרֶץ מַרְחַקִּים**. וְלָמָּה כָּל זֹאת? הֲלֹא **ה׳ בְּצִיּוֹן**, וְאִם יָשׁוּבוּ אֵלָיו יִמָּצֵא לָהֶם!
+**הִנֵּה קוֹל שַׁוְעַת בַּת עַמִּי.** אֲנִי שׁוֹמֵעַ שֶׁסּוֹפָן לִצְעֹק בְּ**אֶרֶץ מַרְחַקִּים.** וְלָמָּה כָּל זֹאת? הֲלֹא **ה׳ בְּצִיּוֹן**, וְאִם יָשׁוּבוּ אֵלָיו יִמָּצֵא לָהֶם!
 
 
 **Hark the voice...the cry of the daughter of My people** I hear that eventually they will cry from a distant land, but why is all this necessary? Is not the Lord in Zion? If they return to Him, He will allow Himself to be found by them.
@@ -4670,7 +4670,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/8:21:3](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/8:21:3)
 
 
-**הֶחֱזִיקַתְנִי.** אֲחָזַתְנִי:
+**הֶחֱזִקָתְנִי.** אֲחָזַתְנִי:
 
 
 **has taken hold of me** Has held me.
@@ -4898,7 +4898,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/9:9:4](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/9:9:4)
 
 
-**נָדְדוּ הָלָכוּ.** סוֹפָן לֵילֵךְ. חֲמִשִּׁים וּשְׁתַּיִם שָׁנָה לֹא עָבַר אִישׁ בִּיהוּדָה; מִגָּלוּת צִדְקִיָּהוּ עַד פְּקִידַת כּוֹרֶשׁ מֶלֶךְ פָּרַס חֲמִשִּׁים וּשְׁתַּיִם שָׁנָה הָיוּ, וְרֶמֶז לַדָּבָר: **עַד בְּהֵמָה**. חֶשְׁבּוֹנָהּ בְּגִימַטְרִיָּא חֲמִשִּׁים וּשְׁתַּיִם; וְהַחֶשְׁבּוֹן מְכֻוָּן בְּמַסֶּכֶת מְגִלָּה (ראה יומא נד.):
+**נָדְדוּ הָלָכוּ.** סוֹפָן לֵילֵךְ. חֲמִשִּׁים וּשְׁתַּיִם שָׁנָה לֹא עָבַר אִישׁ בִּיהוּדָה; מִגָּלוּת צִדְקִיָּהוּ עַד פְּקִידַת כּוֹרֶשׁ מֶלֶךְ פָּרַס חֲמִשִּׁים וּשְׁתַּיִם שָׁנָה הָיוּ, וְרֶמֶז לַדָּבָר: **עַד בְּהֵמָה.** חֶשְׁבּוֹנָהּ בְּגִימַטְרִיָּא חֲמִשִּׁים וּשְׁתַּיִם; וְהַחֶשְׁבּוֹן מְכֻוָּן בְּמַסֶּכֶת מְגִלָּה (ראה יומא נד.):
 
 
 **have fled and are gone** i.e., they are destined to go. For fifty-two years no one passed through Judah; from the exile of Zedekiah until the order of Cyrus, king of Persia, were fifty-two years. An allusion to the matter [is that the numerical value for] “and the beast” (בּהמה) amounts to fifty-two, and the computation is exact, in Tractate Megillah [should read: Yoma 54a].
@@ -5171,7 +5171,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/10:5:3](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/10:5:3)
 
 
-**וְגַם הֵיטִיב אֵין אוֹתָם.** אִם תַּעַבְדוּם. **הֵיטִיב** כְּמוֹ ״לְהֵיטִיב״ (ירמיה לב:מא):
+**וְגַם הֵיטֵיב אֵין אוֹתָם.** אִם תַּעַבְדוּם. **הֵיטֵיב** כְּמוֹ ״לְהֵיטִיב״ (ירמיה לב:מא):
 
 
 **neither is it in them to do good** If you worship them. היטיב is like להיטיב to do good.
@@ -5280,7 +5280,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/10:13:2](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/10:13:2)
 
 
-**נְשִׂיאִים.** עֲנָנִים:
+**נְשִׂאִים.** עֲנָנִים:
 
 
 **clouds** Heb. נשאים, clouds.
@@ -5639,7 +5639,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/11:15:4](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/11:15:4)
 
 
-**וּבְשַׂר קֹדֶשׁ יַעַבְרוּ מֵעָלֶיךָ.** אַף הַמִּילָה בִּטְּלוּ מִבְּשָׂרָם, שֶׁעַל יָדָהּ הָיוּ מְקֻדָּשִׁים לִי (מנחות נג:):
+**וּבְשַׂר קֹדֶשׁ יַעַבְרוּ מֵעָלָיִךְ.** אַף הַמִּילָה בִּטְּלוּ מִבְּשָׂרָם, שֶׁעַל יָדָהּ הָיוּ מְקֻדָּשִׁים לִי (מנחות נג:):
 
 
 **and the holy flesh they remove from you** Even the circumcision through which they were hallowed to Me, they have abolished from their flesh.
@@ -5725,7 +5725,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/11:19:3](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/11:19:3)
 
 
-**כְּכֶבֶשׂ אַלּוּף.** דּוּנָשׁ וִיהוּדָה בֶּן קוּרִישׁ פֵּתְרוּהוּ: **כְּכֶבֶשׂ** וּפָר אֲשֶׁר **יוּבַל לִטְבוֹחַ**. וְ**אַלּוּף** כְּמוֹ ״שְׁגַר אֲלָפֶיךָ״ (דברים כח:ד). וְאַף עַל פִּי שֶׁלֹּא נֶאֱמַר וְאַלּוּף, יֵשׁ לָנוּ כַּיּוֹצֵא בוֹ: ״שֶׁמֶשׁ יָרֵחַ עָמַד זְבֻלָה״ (חבקוק ג:יא); ״כְּסוּס עָגוּר כֵּן אֲצַפְצֵף״ (ישעיהו לח:יד). וּמְנַחֵם פֵּתֵר **כֶּבֶשׂ אַלּוּף** – כֶּבֶשׂ גָּדוֹל (עיין בתהלים נח בפירוש רש״י); וְיוֹנָתָן מְסַיְּעוֹ, שֶׁתִּרְגֵּם: ״כְּאִימַר בְּחִיר״:
+**כְּכֶבֶשׂ אַלּוּף.** דּוּנָשׁ וִיהוּדָה בֶּן קוּרִישׁ פֵּתְרוּהוּ: **כְּכֶבֶשׂ** וּפָר אֲשֶׁר **יוּבַל לִטְבוֹחַ.** וְ**אַלּוּף** כְּמוֹ ״שְׁגַר אֲלָפֶיךָ״ (דברים כח:ד). וְאַף עַל פִּי שֶׁלֹּא נֶאֱמַר וְאַלּוּף, יֵשׁ לָנוּ כַּיּוֹצֵא בוֹ: ״שֶׁמֶשׁ יָרֵחַ עָמַד זְבֻלָה״ (חבקוק ג:יא); ״כְּסוּס עָגוּר כֵּן אֲצַפְצֵף״ (ישעיהו לח:יד). וּמְנַחֵם פֵּתֵר **כֶּבֶשׂ אַלּוּף** – כֶּבֶשׂ גָּדוֹל (עיין בתהלים נח בפירוש רש״י); וְיוֹנָתָן מְסַיְּעוֹ, שֶׁתִּרְגֵּם: ״כְּאִימַר בְּחִיר״:
 
 
 **like a lamb [and] a bull** Heb. ככבש אלוף. Dunash and Judah son of Kudish (Karish) interpreted it as a lamb and a bull, brought to the slaughter. And אלוף is like (Deut. 28:4) “the offspring of your cattle (אלפיך).” Although it was not stated ואלוף, we find similar cases, e.g., (Habukkuk 3:11) “The sun [and] the moon (ירח) stood on high”; (Isaiah 38:14) “Like a crane [and] a swallow (עגור) so I chirp.” And Menahem interpreted ככבש אלוף, a large lamb (see Psalms 58:9, Rashi ad loc.), and Jonathan supports him, since he renders like a choice lamb.
@@ -5922,7 +5922,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/12:5:2](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/12:5:2)
 
 
-**וְאֵיךְ תִּתְחָרֶה אֶת הַסּוּסִים.** לָרוּץ אֶת הַסּוּסִים; כְּלוֹמַר: וּמָה קְרוֹבֶיךָ הַכֹּהֲנִים בָּאִים לְהָרְגְךָ, כָּל שֶׁכֵּן שֶׁיָּקוּמוּ לְהוֹרְגְךָ שָׂרֵי יְהוּדָה; וְזֶהוּ קִצְפִּי עֲלֵיהֶם, וְזוֹ הִיא הַצְלָחַת הָאוֹיֵב. וְכֵן תִּרְגֵּם יוֹנָתָן: ״דְּנָא תְּיוּבְתָּא וְגוֹ׳״. וּמִדְרַשׁ רַבּוֹתֵינוּ (סנהדרין צו.): אִם עַל שְׂכַר שָׁלֹשׁ פְּסִיעוֹת שֶׁרָץ נְבוּכַדְנֶצַּר לִכְבוֹדִי בִּימֵי מְרֹדַךְ בַּלְאֲדָן אַתָּה תָּמֵהַּ, שֶׁהִרְבֵּיתִי גְדֻלָּתוֹ כָּל כָּךְ, מָה תִּתְמַהּ עוֹד כְּשֶׁתִּרְאֶה שִׁלּוּם שָׂכָר שֶׁאֲשַׁלֵּם לַצַּדִּיקִים שֶׁרָצוּ לְפָנַי כַּסּוּסִים!
+**וְאֵיךְ תְּתַחֲרֶה אֶת הַסּוּסִים.** לָרוּץ אֶת הַסּוּסִים; כְּלוֹמַר: וּמָה קְרוֹבֶיךָ הַכֹּהֲנִים בָּאִים לְהָרְגְךָ, כָּל שֶׁכֵּן שֶׁיָּקוּמוּ לְהוֹרְגְךָ שָׂרֵי יְהוּדָה; וְזֶהוּ קִצְפִּי עֲלֵיהֶם, וְזוֹ הִיא הַצְלָחַת הָאוֹיֵב. וְכֵן תִּרְגֵּם יוֹנָתָן: ״דְּנָא תְּיוּבְתָּא וְגוֹ׳״. וּמִדְרַשׁ רַבּוֹתֵינוּ (סנהדרין צו.): אִם עַל שְׂכַר שָׁלֹשׁ פְּסִיעוֹת שֶׁרָץ נְבוּכַדְנֶצַּר לִכְבוֹדִי בִּימֵי מְרֹדַךְ בַּלְאֲדָן אַתָּה תָּמֵהַּ, שֶׁהִרְבֵּיתִי גְדֻלָּתוֹ כָּל כָּךְ, מָה תִּתְמַהּ עוֹד כְּשֶׁתִּרְאֶה שִׁלּוּם שָׂכָר שֶׁאֲשַׁלֵּם לַצַּדִּיקִים שֶׁרָצוּ לְפָנַי כַּסּוּסִים!
 
 
 **how will you compete with horses** To run with the horses. That is to say, If even your brethren the priests come to kill you, surely the princes of Judah will rise up against you to kill you. This is the reason for My anger against them, and this is the reason for the success of the enemy. And so did Jonathan render: This is the reply, etc. And, according to the Midrash of our Rabbis (Sanhedrin 96a): If you are amazed about the reward for the three steps that Nebuchadnezzar ran in My honor in the days of Merodach-baladan, why I gave him so much greatness, how much more will you be amazed when you see the payment of reward that I will pay the righteous who ran before Me like horses!
@@ -5933,7 +5933,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/12:5:3](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/12:5:3)
 
 
-**תִּתְחָרֶה.** אַאֲטִיר״שׁ בְּלַעַ״ז:
+**תְּתַחֲרֶה.** אַאֲטִיר״שׁ בְּלַעַ״ז:
 
 
 **will you compete** (aastir in O.F.).
@@ -6342,7 +6342,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/13:18:2](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/13:18:2)
 
 
-**יָרַד מְרַאֲשׁוֹתֵיכֶם.** וּושְׁטְרִי קָאיִ״ץ בְּלַעַ״ז, עֲלִיַּתְכֶם; כְּמוֹ שֶׁנֶּאֱמַר ״וַיֵּצֵא אֵלָיו יְהוֹיָכִין הוּא וְאִמּוֹ וַעֲבָדָיו״ (מלכים ב כד:יב), וְכֻלָּם הוֹלִיכָם בַּגּוֹלָה:
+**יָרַד מַרְאֲשׁוֹתֵיכֶם.** וּושְׁטְרִי קָאיִ״ץ בְּלַעַ״ז, עֲלִיַּתְכֶם; כְּמוֹ שֶׁנֶּאֱמַר ״וַיֵּצֵא אֵלָיו יְהוֹיָכִין הוּא וְאִמּוֹ וַעֲבָדָיו״ (מלכים ב כד:יב), וְכֻלָּם הוֹלִיכָם בַּגּוֹלָה:
 
 
 **your greatness has come down** Heb. מראשתיכם (vostremijevec in O.F.), your ascent, as it is stated: (II Kings 24:12) “And Jehoiachin... came out to him (sic), he and his mother and his servants,” and he led all of them in exile.
@@ -6367,7 +6367,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/13:19:2](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/13:19:2)
 
 
-**הָגְלַת שְׁלוֹמִים.** לֹא יִלָּחֵם יְהוֹיָכִין, כִּי לְשָׁלוֹם יֵצֵא וְיַגְלֵהוּ (מלכים ב כד:יב). לָשׁוֹן אַחֵר: **שְׁלוֹמִים** גרדונאמינ״ץ בְּלַעַז, כְּלוֹמַר: תַּשְׁלוּם עֲוֹנָם; וְכֵן תִּרְגֵּם יוֹנָתָן: ״אִיתְקַבְּלוּ תּוֹשְׁלַמַת חוֹבֵיהוֹן״:
+**הׇגְלָת שְׁלוֹמִים.** לֹא יִלָּחֵם יְהוֹיָכִין, כִּי לְשָׁלוֹם יֵצֵא וְיַגְלֵהוּ (מלכים ב כד:יב). לָשׁוֹן אַחֵר: **שְׁלוֹמִים** גרדונאמינ״ץ בְּלַעַז, כְּלוֹמַר: תַּשְׁלוּם עֲוֹנָם; וְכֵן תִּרְגֵּם יוֹנָתָן: ״אִיתְקַבְּלוּ תּוֹשְׁלַמַת חוֹבֵיהוֹן״:
 
 
 **she was exiled peacefully** Jehoiachin will not wage war, but he will come out peacefully, and he will exile them. Another interpretation. שלומים (gueredon in O.F.), reprisal. That is to say: she was exiled as the recompense for their iniquity. And Jonathan rendered in this manner: the recompense of their sins was received.
@@ -6431,7 +6431,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/13:22:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/13:22:1)
 
 
-**שׁוּלָיִךְ.** שִׁפּוּלֵי הַבְּגָדִים, טִי״שׁ אוֹרְלָ״שׁ בְּלַעַ״ז; כְּשֶׁמַּפְשִׁיטִין אֶת הָאִשָּׁה דֶּרֶךְ בִּזָּיוֹן, מְהַפְּכִין חֲלוּקָהּ מִלְּמַטָּה לְמַעְלָה:
+**שׁוּלַיִךְ.** שִׁפּוּלֵי הַבְּגָדִים, טִי״שׁ אוֹרְלָ״שׁ בְּלַעַ״ז; כְּשֶׁמַּפְשִׁיטִין אֶת הָאִשָּׁה דֶּרֶךְ בִּזָּיוֹן, מְהַפְּכִין חֲלוּקָהּ מִלְּמַטָּה לְמַעְלָה:
 
 
 **your skirts** The skirts of the garments (tes ourlets in French), your hems. When a woman is stripped in a humiliating way, they turn her chemise upside down.
@@ -6514,7 +6514,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/13:25:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/13:25:1)
 
 
-**מְנַת מִדַּיִךְ.** חֵלֶק מִדּוֹתַיִךְ, מִדָּה כְּנֶגֶד מִדָּה:
+**מְנָת מִדַּיִךְ.** חֵלֶק מִדּוֹתַיִךְ, מִדָּה כְּנֶגֶד מִדָּה:
 
 
 **the portion of your measures** The portion of your measures, a measure for a measure.
@@ -6843,7 +6843,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/14:21:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/14:21:1)
 
 
-**לְמַעַן שְׁמֶךָ.** שֶׁנִּקְרֵאתָ ״רַחוּם״ (שמות לד:ו):
+**לְמַעַן שִׁמְךָ.** שֶׁנִּקְרֵאתָ ״רַחוּם״ (שמות לד:ו):
 
 
 **for Your name’s sake** that you are called merciful.
@@ -6868,7 +6868,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/14:22:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/14:22:1)
 
 
-**וְאִם הַשָּׁמַיִם יִתְּנוּ רְבִיבִים.** מֵאֲלֵיהֶם, אִם לֹא עַל פִּיךָ? בִּתְמִיהָּ. כָּל תְּמִיהָה הַכְּפוּלָה, הָרִאשׁוֹנָה בְּה״א וְהַשְּׁנִיָּה בְּאִם, כְּגוֹן: ״הַבְּמַחֲנִים אִם בְּמִבְצָרִים״ (במדבר יג:יט); ״הֲטוֹבָה הִיא אִם רָעָה״ (במדבר יג:יט); ״הֲמָאוֹס מָאַסְתָּ אִם בְּצִיּוֹן גָּעֲלָה נַפְשֶׁךָ״ (ירמיהו יד:יט). אַף כָּאן: **הֲיֵשׁ בְּהַבְלֵי הַגּוֹיִם... וְאִם הַשָּׁמַיִם**:
+**וְאִם הַשָּׁמַיִם יִתְּנוּ רְבִיבִים.** מֵאֲלֵיהֶם, אִם לֹא עַל פִּיךָ? בִּתְמִיהָּ. כָּל תְּמִיהָה הַכְּפוּלָה, הָרִאשׁוֹנָה בְּה״א וְהַשְּׁנִיָּה בְּאִם, כְּגוֹן: ״הַבְּמַחֲנִים אִם בְּמִבְצָרִים״ (במדבר יג:יט); ״הֲטוֹבָה הִיא אִם רָעָה״ (במדבר יג:יט); ״הֲמָאוֹס מָאַסְתָּ אִם בְּצִיּוֹן גָּעֲלָה נַפְשֶׁךָ״ (ירמיהו יד:יט). אַף כָּאן: **הֲיֵשׁ בְּהַבְלֵי הַגּוֹיִם… וְאִם הַשָּׁמַיִם**:
 
 
 **Does the heaven give raindrops?** by itself, except by Your command? This is the interrogative form. In every double question, the first question is preceded by a ‘heh’ and the second one with אִם, like (Num. 13:19) “Are they in open cities (הַבְּמַחֲנִים) or in fortresses (אִם בְּמִבְצָרִים)?”(Ibid. 13:19) “It is good (הֲטוֹבָה) or bad (אִם רָעָה)?” (verse 19) “Have You indeed rejected (הֲמָאֹס) Judah, or has Your soul despised (אִם...גָּעֲלָה) Zion?” Here, too, “are there among the vanities of the nations those who give rain? Does the heaven...?”
@@ -7049,7 +7049,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/15:8:3](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/15:8:3)
 
 
-**וּבַצָּהֳרָיִם.** הַכֹּל יְהֵא גָּלוּי לְפָנָיו, כָּל גִּנְזֵי מַטְמוֹנָם:
+**בַּצׇּהֳרָיִם.** הַכֹּל יְהֵא גָּלוּי לְפָנָיו, כָּל גִּנְזֵי מַטְמוֹנָם:
 
 
 **at midday** Everything will be exposed before him, all their hidden treasures.
@@ -7085,7 +7085,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/15:9:2](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/15:9:2)
 
 
-**וּשְׁאֵרִיתָם.** אֵלּוּ יְהוּדָה וּקְצָת בִּנְיָמִין שֶׁנִּשְׁתַּיְּרוּ בְּיִשְׂרָאֵל, **לַחֶרֶב אֶתֵּן**. אֵלּוּ הֵן שֶׁבַע מִשְׁפָּחוֹת: יָרָבְעָם בֶּן נְבָט וּבֵיתוֹ, בַּעְשָׁא וּבֵיתוֹ, עָמְרִי וּבֵיתוֹ, יֵהוּא וּבֵיתוֹ, מְנַחֵם וּבֵיתוֹ, פֶּקַח וּבֵיתוֹ, הוֹשֵׁעַ וּבֵיתוֹ:
+**וּשְׁאֵרִיתָם.** אֵלּוּ יְהוּדָה וּקְצָת בִּנְיָמִין שֶׁנִּשְׁתַּיְּרוּ בְּיִשְׂרָאֵל, **לַחֶרֶב אֶתֵּן.** אֵלּוּ הֵן שֶׁבַע מִשְׁפָּחוֹת: יָרָבְעָם בֶּן נְבָט וּבֵיתוֹ, בַּעְשָׁא וּבֵיתוֹ, עָמְרִי וּבֵיתוֹ, יֵהוּא וּבֵיתוֹ, מְנַחֵם וּבֵיתוֹ, פֶּקַח וּבֵיתוֹ, הוֹשֵׁעַ וּבֵיתוֹ:
 
 
 **and their remnant** These are Judah and part of Benjamin, who remained in Israel. I shall deliver them to the sword. These are the seven dynasties: Jeroboam son of Nebat and his dynasty, Baasha and his dynasty, Omri and his dynasty, Jehu and his dynasty, Menahem and his dynasty, Pekah and his dynasty, Hoshea and his dynasty.
@@ -7165,7 +7165,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/15:10:4](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/15:10:4)
 
 
-**כֻּלֹּה מְקַלְלוֹנִי.** אֵינִי רָב עִמָּהֶם עַל עִסְקֵי מָמוֹן שֶׁיֵּשׁ לִי עֲלֵיהֶם וְלֹא לָהֶם עָלַי, וַהֲרֵי כָּל הָעָם מְקַלְלַנִי:
+**כֻּלֹּה מְקַלְלַוְנִי.** אֵינִי רָב עִמָּהֶם עַל עִסְקֵי מָמוֹן שֶׁיֵּשׁ לִי עֲלֵיהֶם וְלֹא לָהֶם עָלַי, וַהֲרֵי כָּל הָעָם מְקַלְלַנִי:
 
 
 **they curse me** I do not quarrel with them concerning matters of money that I claim from them, neither have they made any claim on me, yet all the people curse me.
@@ -7179,7 +7179,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/15:11:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/15:11:1)
 
 
-**שֵׁרִיתִיךָ.** הִשְׁאַרְתִּיךָ, לְשׁוֹן ״שְׁאֵרִית״ (בראשית מה:ז). וְכֵן פִּתְרוֹ מְנַחֵם. אֲבָל דּוֹנָשׁ פָּתַר אוֹתוֹ לְשׁוֹן הַתָּרָה, וְשֵׁרִיתִיךָ כְּמוֹ ״מְשָׁרֵי קִטְרִין״ (דניאל ה:יב). וּפִתְרוֹן **שֵׁרִיתִיךָ** כֵּן הוּא, שֶׁנֶּאֱמַר ״הִנֵּה פְתַחְתִּיךָ הַיּוֹם מִן הָאֲזִקִּים״ (ירמיה מ:ד); כְּלוֹמַר: בַּיּוֹם אֲשֶׁר הֵקִים ה׳ אֶת דְּבָרוֹ נֶאֱמַר לוֹ: ״וְעַתָּה הִנֵּה פְתַחְתִּיךָ הַיּוֹם מִן הָאֲזִקִּים אֲשֶׁר עַל יָדֶיךָ, אִם טוֹב בְּעֵינֶיךָ לָבוֹא אִתִּי בָבֶלָה״ (ירמיה מ:ד). וְגַם יִשְׂרָאֵל בִּקְּשׁוּ מִמֶּנּוּ שֶׁיִּתְפַּלֵּל בִּשְׁבִילָם, כַּאֲשֶׁר נֶאֱמַר לוֹ: ״הִתְפַּלֵּל בַּעֲדֵנוּ אֶל ה׳ אֱלֹהֵינוּ... כִּי נִשְׁאַרְנוּ מְעַט מֵהַרְבֵּה״ (ירמיה מב:ב):
+**שֵׁרִיתִיךָ.** הִשְׁאַרְתִּיךָ, לְשׁוֹן ״שְׁאֵרִית״ (בראשית מה:ז). וְכֵן פִּתְרוֹ מְנַחֵם. אֲבָל דּוֹנָשׁ פָּתַר אוֹתוֹ לְשׁוֹן הַתָּרָה, וְשֵׁרִיתִיךָ כְּמוֹ ״מְשָׁרֵי קִטְרִין״ (דניאל ה:יב). וּפִתְרוֹן **שֵׁרִיתִיךָ** כֵּן הוּא, שֶׁנֶּאֱמַר ״הִנֵּה פְתַחְתִּיךָ הַיּוֹם מִן הָאֲזִקִּים״ (ירמיה מ:ד); כְּלוֹמַר: בַּיּוֹם אֲשֶׁר הֵקִים ה׳ אֶת דְּבָרוֹ נֶאֱמַר לוֹ: ״וְעַתָּה הִנֵּה פְתַחְתִּיךָ הַיּוֹם מִן הָאֲזִקִּים אֲשֶׁר עַל יָדֶיךָ, אִם טוֹב בְּעֵינֶיךָ לָבוֹא אִתִּי בָבֶלָה״ (ירמיה מ:ד). וְגַם יִשְׂרָאֵל בִּקְּשׁוּ מִמֶּנּוּ שֶׁיִּתְפַּלֵּל בִּשְׁבִילָם, כַּאֲשֶׁר נֶאֱמַר לוֹ: ״הִתְפַּלֵּל בַּעֲדֵנוּ אֶל ה׳ אֱלֹהֵינוּ… כִּי נִשְׁאַרְנוּ מְעַט מֵהַרְבֵּה״ (ירמיה מב:ב):
 
 
 **1 leave you over** I leave you over, an expression of a remnant. In this manner, Menahem (Machbereth p. 181) interpreted it, but Dunash (Teshuvoth Dunash p. 36) interpreted it as an expression of release. And שֵרִיתִיךָ is like (Dan. 5:12) “And untying (וּמְֹשָרֵא) knots,” and the interpretation of שֵרִיתִיךָ is so, as it is stated (below 40:4): “Behold I have released you from the chains that are on your hand.” That is to say, on that day that the Lord fulfilled His word, it was said to him, “And now, behold I have released you today from the chains that are on your hand, if it pleases you to come with me to Babylon.” And also, Israel begged him to pray for them, as it was said to him (below 42:4): “Pray on our behalf to the Lord our Cod, for we remain few from many.”
@@ -7481,7 +7481,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/16:5:2](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/16:5:2)
 
 
-**תָּנוּד.** תְּקוֹנֵן:
+**תָּנֹד.** תְּקוֹנֵן:
 
 
 **you bemoan** you shall lament.
@@ -7528,7 +7528,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/16:6:2](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/16:6:2)
 
 
-**וְלֹא יִתְגּוֹדֵד וְלֹא יִקָּרֵחַ לָהֶם.** דֶּרֶךְ הָאֲבֵלִים לְהִתְגּוֹדֵד וְלִשְׂרֹט בְּשָׂרָם וְלִקְרוֹחַ קָרְחָה בְּרֹאשָׁם; וּמִכָּל מָקוֹם, לְיִשְׂרָאֵל אָסוּר (ויקרא יט:כח; דברים יד:א), וְלֹא הִזְכִּירוֹ כָּאן אֶלָּא לְדוּגְמַת אֵבֶל:
+**וְלֹא יִתְגֹּדַד וְלֹא יִקָּרֵחַ לָהֶם.** דֶּרֶךְ הָאֲבֵלִים לְהִתְגּוֹדֵד וְלִשְׂרֹט בְּשָׂרָם וְלִקְרוֹחַ קָרְחָה בְּרֹאשָׁם; וּמִכָּל מָקוֹם, לְיִשְׂרָאֵל אָסוּר (ויקרא יט:כח; דברים יד:א), וְלֹא הִזְכִּירוֹ כָּאן אֶלָּא לְדוּגְמַת אֵבֶל:
 
 
 **and they shall not cut their flesh nor shall they tear their hair for them** It is the custom of mourners to cut and tear their flesh and to tear their hair our of their head. In any case, it is forbidden for Jews, but he mentions it here only as an example of mourning.
@@ -7581,7 +7581,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/16:13:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/16:13:1)
 
 
-**וְעָבַדְתֶּם שָׁם אֶת אֱלֹהִים אֲחֵרִים.** תִּרְגֵּם יוֹנָתָן: ״וְתִפְלְחוּן תַּמָּן לְעַמְמַיָּא פָּלְחֵי טָעֲוָותָא״:
+**וַעֲבַדְתֶּם שָׁם אֶת אֱלֹהִים אֲחֵרִים.** תִּרְגֵּם יוֹנָתָן: ״וְתִפְלְחוּן תַּמָּן לְעַמְמַיָּא פָּלְחֵי טָעֲוָותָא״:
 
 
 **and you will serve there other gods** Jonathan paraphrases: And you will serve there nations that worship idols day and night.
@@ -7634,7 +7634,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/16:18:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/16:18:1)
 
 
-**מִשְׁנֵה עֲוֹנָם.** אֶת שֶׁשָּׁנוּ עַל עֲוֹנָם לַעֲשׂוֹת עֲוֹנוֹת אֲבוֹתֵיהֶם; וְיוֹנָתָן תִּרְגֵּם כֵּן: ״וַאֲשִׁלֵּים לְתִנְיָינִין כְּקַדְמָאִין עַל חַד תְּרֵין״:
+**מִשְׁנֵה עֲוֺנָם.** אֶת שֶׁשָּׁנוּ עַל עֲוֹנָם לַעֲשׂוֹת עֲוֹנוֹת אֲבוֹתֵיהֶם; וְיוֹנָתָן תִּרְגֵּם כֵּן: ״וַאֲשִׁלֵּים לְתִנְיָינִין כְּקַדְמָאִין עַל חַד תְּרֵין״:
 
 
 **the doubling of their iniquity** Because they repeated their iniquity to do the iniquities of their fathers. And Jonathan renders in this manner: And I will recompense the second ones like the first ones double.
@@ -7770,7 +7770,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/17:2:2](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/17:2:2)
 
 
-**וַאֲשֵׁרֵיהֶם.** אֲשֶׁר **עַל עֵץ רַעֲנָן**. **עַל עֵץ** – כְּמוֹ אֵצֶל, וְכֵן תִּרְגֵּם יוֹנָתָן: ״תְּחוֹת כָּל אִילָן עֲבוּף״:
+**וַאֲשֵׁרֵיהֶם.** אֲשֶׁר **עַל עֵץ רַעֲנָן.** **עַל עֵץ** – כְּמוֹ אֵצֶל, וְכֵן תִּרְגֵּם יוֹנָתָן: ״תְּחוֹת כָּל אִילָן עֲבוּף״:
 
 
 **and their asherim** which are by the green trees. **by...trees** like אֵצֶּל, by. And Jonathan renders in this manner. under every green tree.
@@ -8136,7 +8136,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/17:16:2](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/17:16:2)
 
 
-**וְיוֹם אָנוּשׁ.** חֹלִי שֶׁל פֻּרְעָנוּת **לֹא הִתְאַוֵּיתִי**. וְיוֹנָתָן תִּרְגֵּם: ״וַאֲנָא לָא עַנְבִּית עַל מֵימְרָךְ מִלְּהִתְנַבָּאָה עֲלֵיהוֹן לַאֲתָבוּתְהוֹן לְדַחַלְתָּךְ״. וּלְפִי הַתַּרְגּוּם יִהְיֶה **אַצְתִּי** – לְשׁוֹן עִכּוּב, כְּלוֹמַר: לֹא עִכַּבְתִּי מִלּוֹמַר לָהֶם שְׁלִיחוּתֶיךָ וּלְהָשִׁיבָם אֵלֶיךָ, אִם הָיוּ שׁוֹמְעִים אֵלַי:
+**וְיוֹם אָנוּשׁ.** חֹלִי שֶׁל פֻּרְעָנוּת **לֹא הִתְאַוֵּיתִי.** וְיוֹנָתָן תִּרְגֵּם: ״וַאֲנָא לָא עַנְבִּית עַל מֵימְרָךְ מִלְּהִתְנַבָּאָה עֲלֵיהוֹן לַאֲתָבוּתְהוֹן לְדַחַלְתָּךְ״. וּלְפִי הַתַּרְגּוּם יִהְיֶה **אַצְתִּי** – לְשׁוֹן עִכּוּב, כְּלוֹמַר: לֹא עִכַּבְתִּי מִלּוֹמַר לָהֶם שְׁלִיחוּתֶיךָ וּלְהָשִׁיבָם אֵלֶיךָ, אִם הָיוּ שׁוֹמְעִים אֵלַי:
 
 
 **and...the woeful day** The illness of their retribution I did not desire. Jonathan renders: And I did not hamper Your word from prophesying concerning them to return them to fear You. According to the Targum, אַצְתִּי is an expression of hampering. That is to say, I did not hesitate from telling them Your message and to return them to you if they would hearken to me.
@@ -8220,7 +8220,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/18:3:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/18:3:1)
 
 
-**עַל הָאָבְנִים.** ״עַל סַדְנָא״ (תרגום יונתן). פורמ״ש בְּלַעַ״ז:
+**עַל הָאׇבְנָיִם.** ״עַל סַדְנָא״ (תרגום יונתן). פורמ״ש בְּלַעַ״ז:
 
 
 **on the wheels** Jonathan renders: on the wheel. (Formes in French.)
@@ -8542,7 +8542,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/18:23:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/18:23:1)
 
 
-**אַל תִּמְחִי.** אַל תְּהִי מְחוּיָה. וּלְפִי שֶׁהוּא לְשׁוֹן נְקֵבָה נָתַן בּוֹ יוֹ״ד, וְאַף הִיא יְתֵרָה, כְּיוֹ״ד שֶׁל ״וַתִּזְנִי בָם״ (יחזקאל טז:יז):
+**אַל תֶּמְחִי.** אַל תְּהִי מְחוּיָה. וּלְפִי שֶׁהוּא לְשׁוֹן נְקֵבָה נָתַן בּוֹ יוֹ״ד, וְאַף הִיא יְתֵרָה, כְּיוֹ״ד שֶׁל ״וַתִּזְנִי בָם״ (יחזקאל טז:יז):
 
 
 **let not be erased** let it not be erased. And because it is a feminine gender, he placed a ‘yud’ therein. This too is superfluous, as the ‘yud’ of (Ezekiel 16:17) “And you played the harlot (וַתִּזְנִי) with them.”
@@ -8818,7 +8818,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/20:8:3](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/20:8:3)
 
 
-**וְלִקְלֶס.** וּלְדִבּוּר, כְּמוֹ ״וְקַלָּסָה״ (יחזקאל כב:ד):
+**וּלְקֶלֶס.** וּלְדִבּוּר, כְּמוֹ ״וְקַלָּסָה״ (יחזקאל כב:ד):
 
 
 **and mockery** for speech. Comp. (Ezekiel 22:4) “and mockery (וְקַלָּסָה).”
@@ -9015,7 +9015,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/20:17:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/20:17:1)
 
 
-**אֲשֶׁר לֹא מוֹתְתַנִי** מַלְאַךְ הַמָּוֶת **מֵרָחֶם**. וַהֲרֵי זֶה מִן הַמִּקְרָאוֹת קִצְרֵי דִּבּוּר:
+**אֲשֶׁר לֹא מוֹתְתַנִי** מַלְאַךְ הַמָּוֶת **מֵרָחֶם.** וַהֲרֵי זֶה מִן הַמִּקְרָאוֹת קִצְרֵי דִּבּוּר:
 
 
 **That he did not put me to death** I.e., that the angel of death did not put me to death from the womb, and this is one of the verses with brief language.
@@ -9335,7 +9335,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/22:14:4](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/22:14:4)
 
 
-**וּמָשׁוּחַ בַּשָּׁשַׁר.** ״וּמְצֻיָּר בְּסַמְמָנִים״, תִּרְגֵּם יוֹנָתָן. **בַּשָּׁשַׁר** צֶבַע הוּא מִמִּין הַצִּיּוּרִים. לָשׁוֹן אַחֵר: **וּמָשׁוּחַ בַּשָּׁשַׁר** כְּמוֹ חוּט הַמִּשְׁחָה (כלים יז,יג) אֵיינַאנְ״ט אַנְשִׁינוֹפְלָ״א בְּלַעַז:
+**וּמָשׁוֹחַ בַּשָּׁשַׁר.** ״וּמְצֻיָּר בְּסַמְמָנִים״, תִּרְגֵּם יוֹנָתָן. **בַּשָּׁשַׁר** צֶבַע הוּא מִמִּין הַצִּיּוּרִים. לָשׁוֹן אַחֵר: **וּמָשׁוֹחַ בַּשָּׁשַׁר** כְּמוֹ חוּט הַמִּשְׁחָה (כלים יז,יג) אֵיינַאנְ״ט אַנְשִׁינוֹפְלָ״א בְּלַעַז:
 
 
 **and painted with vermilion** painted with dyes, so does Jonathan render. בּשָּׁשַּׁר is a color of a type used for painting. Another explanation: וּמָשּׁוֹחַ בִּשָּׁשַּׁר is like a cord used for measuring (חוּט הַמִּשְּׁחָה) ([a] lignant en sinople in O.F.), drawing green lines, delineate with a green color.
@@ -9513,7 +9513,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/22:23:2](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/22:23:2)
 
 
-**מַה נֶּחַנְתְּ.** מַה מָּצָאת חֵן בִּשְׁבִיל גֹּבַהּ מִגְדָּלַיִךְ בְּעֵינֵי שׁוֹדְדַיִךְ, **בְּבֹא לָךְ חֲבָלִים** שֶׁל לֵידָה. וּמְנַחֵם פָּתַר **נֶּחַנְתְּ** לְשׁוֹן חֲנִיָּה; אֲבָל דּוּנַשׁ פָּתַר אוֹתוֹ לְשׁוֹן חֵן:
+**מַה נֵּחַנְתְּ.** מַה מָּצָאת חֵן בִּשְׁבִיל גֹּבַהּ מִגְדָּלַיִךְ בְּעֵינֵי שׁוֹדְדַיִךְ, **בְּבֹא לָךְ חֲבָלִים** שֶׁל לֵידָה. וּמְנַחֵם פָּתַר **נֵּחַנְתְּ** לְשׁוֹן חֲנִיָּה; אֲבָל דּוּנַשׁ פָּתַר אוֹתוֹ לְשׁוֹן חֵן:
 
 
 **how gracious shall you be** What grace have you found because of the height of your towers, in the eyes of your plunderers, when birth pangs come upon you. And Menahem interpreted נֵחַנְתְּ as an expression of camping, but Dunash interpreted it as an expression of grace.
@@ -9616,7 +9616,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/22:29:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/22:29:1)
 
 
-**אֶרֶץ אֶרֶץ אָרֶץ.** מֵאַרְצוֹ גָּלָה אֶל אֶרֶץ אַחֶרֶת, וְאַתְּ, אֶרֶץ יִשְׂרָאֵל, **שִׁמְעִי דְּבַר ה׳**. דָּבָר אַחֵר: **אֶרֶץ אֶרֶץ, אֶרֶץ** שֶׁהוּא **אֶרֶץ** שֶׁבָּאֲרָצוֹת, שֶׁהָיְתָה חֲשׁוּבָה שֶׁבְּכֻלָּן. דָּבָר אַחֵר (בבא בתרא לח.): **אֶרֶץ** יִשְׂרָאֵל שָׁלֹשׁ אֲרָצוֹת הָיוּ בָּהּ: יְהוּדָה וְעֵבֶר הַיַּרְדֵּן וְהַגָּלִיל:
+**אֶרֶץ אֶרֶץ אָרֶץ.** מֵאַרְצוֹ גָּלָה אֶל אֶרֶץ אַחֶרֶת, וְאַתְּ, אֶרֶץ יִשְׂרָאֵל, **שִׁמְעִי דְּבַר ה׳.** דָּבָר אַחֵר: **אֶרֶץ אֶרֶץ, אֶרֶץ** שֶׁהוּא **אֶרֶץ** שֶׁבָּאֲרָצוֹת, שֶׁהָיְתָה חֲשׁוּבָה שֶׁבְּכֻלָּן. דָּבָר אַחֵר (בבא בתרא לח.): **אֶרֶץ** יִשְׂרָאֵל שָׁלֹשׁ אֲרָצוֹת הָיוּ בָּהּ: יְהוּדָה וְעֵבֶר הַיַּרְדֵּן וְהַגָּלִיל:
 
 
 **O land, land, land** A land that is a land among lands, the most esteemed of all of them. Another explanation: Eretz Israel had three lands in it. Judea, Transjordania, and Galilee.
@@ -9717,7 +9717,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/23:9:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/23:9:1)
 
 
-**לַנְּבִיאִים נִשְׁבַּר לִבִּי בְקִרְבִּי.** לְדִבְרֵי הַנְּבִיאִים, הָאוֹמְרִים **שָׁלוֹם יִהְיֶה לָכֶם**, **נִשְׁבַּר לִבִּי**. **רָחֲפוּ** – הוֹלְכִים וְנָעִים, כְּכַנְפֵי צִפּוֹר הַמְרַחֵף עַל קִנּוֹ; טְרַנְבְּלִיר״ט בְּלַעַז:
+**לַנְּבִיאִים נִשְׁבַּר לִבִּי בְקִרְבִּי.** לְדִבְרֵי הַנְּבִיאִים, הָאוֹמְרִים **שָׁלוֹם יִהְיֶה לָכֶם**, **נִשְׁבַּר לִבִּי.** **רָחֲפוּ** – הוֹלְכִים וְנָעִים, כְּכַנְפֵי צִפּוֹר הַמְרַחֵף עַל קִנּוֹ; טְרַנְבְּלִיר״ט בְּלַעַז:
 
 
 **Because of the prophets my heart is broken within me** Because of the words of the prophets who say, “You shall have peace,” my heart is broken. **shake** sway like the wings of a bird who hovers over his nest, (trenblent in O.F.) tremble.
@@ -10151,7 +10151,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/23:36:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/23:36:1)
 
 
-**כִּי הַמַּשָּׂא יִהְיֶה לְאִישׁ דְּבָרוֹ.** אַף עַל פִּי שֶׁאַתֶּם מְהַפְּכִין אֶת הַמַּשָּׂא לִגְנַאי, מַשָּׂא דְּבַר ה׳ לְאִישׁ דְּבָרוֹ וּלְאִישׁ עֲצָתוֹ הוּא מְגַלֵּהוּ (ישעיהו מ:יג), וְאַתֶּם מְהַפְּכִין אוֹתוֹ לִלְשׁוֹן מַשָּׂאוֹי. זוֹ לֹא שָׁמַעְתִּי כֵּן, וְהִיא עִקָּר; אֲבָל כָּךְ שָׁמַעְתִּי: כִּי הַמַּשָּׂאוֹי יִהְיֶה מַשָּׂאוֹי שֶׁל פֻּרְעָנוּת לְמִי שֶׁאוֹמְרוֹ, הַשּׁוֹאֵל **מַה מַּשָּׂא**. עִנְיָן אַחֵר: **מַשָּׂא ה׳**. לְשׁוֹן נְבוּאָה הוּא; וְהָיָה הַנָּבִיא הַשֶּׁקֶר שׁוֹאֵל לַנָּבִיא הָאֱמֶת לֵאמֹר לוֹ אֶת דְּבַר הַקָּדוֹשׁ בָּרוּךְ הוּא בְּלָשׁוֹן שֶׁבָּא הַסִּיגְנוֹן אֵלָיו, וְהַסִּיגְנוֹן לֹא הָיָה מְפָרֵשׁ הַדִּבּוּר כָּל כָּךְ, וְהָיָה נְבִיא הַשֶּׁקֶר מְהַפֵּךְ אֶת הַפֵּרוּשׁ לְצַד אַחֵר, וְהָיָה מְדַבֵּר בְּדוּגְמַת נְבִיא הָאֱמֶת כְּדֵי שֶׁיַּאֲמִינוּ בּוֹ; וְכֵן עָשָׂה חֲנַנְיָה בֶּן עַזּוּר. לָכֵן הוּא אוֹמֵר: אַל תִּשְׁאֲלוּ **מַשָּׂא ה׳** – אֶת לְשׁוֹן הַסִּיגְנוֹן, אֶלָּא **מַה דִּבֵּר** וּמַה עָנָה – אֶת פֵּרוּשׁ הַדָּבָר; שַׁאֲלוּ לַנָּבִיא הָאֱמֶת לֵאמֹר לָהֶם מַה הַקָּדוֹשׁ בָּרוּךְ הוּא אוֹמֵר וּלְהֵיכָן נוֹטִין אֶת דְּבָרָיו:
+**כִּי הַמַּשָּׂא יִהְיֶה לְאִישׁ דְּבָרוֹ.** אַף עַל פִּי שֶׁאַתֶּם מְהַפְּכִין אֶת הַמַּשָּׂא לִגְנַאי, מַשָּׂא דְּבַר ה׳ לְאִישׁ דְּבָרוֹ וּלְאִישׁ עֲצָתוֹ הוּא מְגַלֵּהוּ (ישעיהו מ:יג), וְאַתֶּם מְהַפְּכִין אוֹתוֹ לִלְשׁוֹן מַשָּׂאוֹי. זוֹ לֹא שָׁמַעְתִּי כֵּן, וְהִיא עִקָּר; אֲבָל כָּךְ שָׁמַעְתִּי: כִּי הַמַּשָּׂאוֹי יִהְיֶה מַשָּׂאוֹי שֶׁל פֻּרְעָנוּת לְמִי שֶׁאוֹמְרוֹ, הַשּׁוֹאֵל **מַה מַּשָּׂא.** עִנְיָן אַחֵר: **מַשָּׂא ה׳.** לְשׁוֹן נְבוּאָה הוּא; וְהָיָה הַנָּבִיא הַשֶּׁקֶר שׁוֹאֵל לַנָּבִיא הָאֱמֶת לֵאמֹר לוֹ אֶת דְּבַר הַקָּדוֹשׁ בָּרוּךְ הוּא בְּלָשׁוֹן שֶׁבָּא הַסִּיגְנוֹן אֵלָיו, וְהַסִּיגְנוֹן לֹא הָיָה מְפָרֵשׁ הַדִּבּוּר כָּל כָּךְ, וְהָיָה נְבִיא הַשֶּׁקֶר מְהַפֵּךְ אֶת הַפֵּרוּשׁ לְצַד אַחֵר, וְהָיָה מְדַבֵּר בְּדוּגְמַת נְבִיא הָאֱמֶת כְּדֵי שֶׁיַּאֲמִינוּ בּוֹ; וְכֵן עָשָׂה חֲנַנְיָה בֶּן עַזּוּר. לָכֵן הוּא אוֹמֵר: אַל תִּשְׁאֲלוּ **מַשָּׂא ה׳** – אֶת לְשׁוֹן הַסִּיגְנוֹן, אֶלָּא **מַה דִּבֵּר** וּמַה עָנָה – אֶת פֵּרוּשׁ הַדָּבָר; שַׁאֲלוּ לַנָּבִיא הָאֱמֶת לֵאמֹר לָהֶם מַה הַקָּדוֹשׁ בָּרוּךְ הוּא אוֹמֵר וּלְהֵיכָן נוֹטִין אֶת דְּבָרָיו:
 
 
 **For the burden shall be to the man of His word** Although you pervert the massa into a pejorative, the prophecy (משא) of the word of the Lord shall be to the man of His word, and to the man of His counsel He reveals it, but you pervert it to an expression of a burden. This interpretation I did not hear, but it is the main interpretation. But this is how I heard it, namely that the burden shall be a burden of retribution for the one who says it, who asks, “What is the burden?” Another interpretation: משא is an expression of prophecy, and the false prophet would ask the true prophet to tell him the word of the Holy One, blessed be He, in the language in which the expression came to him, and the expression did not explain the speech adequately. Therefore, the false prophet would pervert it to another meaning and would speak after the fashion of the true prophet in order that they should believe him. And so did Hananiah son of Azzur do. Therefore, he says, “Do not ask the prophecy of the Lord,” the language of the expression, but “What did He speak?” or “What did He reply?” The explanation of the words you shall ask the true prophet to tell you what the Holy One, blessed be He, says, and to what His words are inclined.
@@ -10313,7 +10313,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/25:1:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/25:1:1)
 
 
-**בַּשָּׁנָה הָרְבִיעִית.** שָׁנָה שֶׁנִּתְחַתֵּם גְּזַר דִּינָם שֶׁיִּגְלוּ וְשֶׁיִּשְׁתּוּ כּוֹס הַחֵמָה, כְּמוֹ שֶׁאָמוּר בָּעִנְיָן: **קַח אֶת כּוֹס וְגוֹ׳**. וְקוֹדֶם גְּזַר דִּין אָמַר לַנָּבִיא לְהוֹכִיחָם, אוּלַי יָשׁוּבוּ וְלֹא יִתְחַתֵּם גְּזַר דִּינָם:
+**בַּשָּׁנָה הָרְבִיעִית.** שָׁנָה שֶׁנִּתְחַתֵּם גְּזַר דִּינָם שֶׁיִּגְלוּ וְשֶׁיִּשְׁתּוּ כּוֹס הַחֵמָה, כְּמוֹ שֶׁאָמוּר בָּעִנְיָן: **קַח אֶת כּוֹס וְגוֹ׳.** וְקוֹדֶם גְּזַר דִּין אָמַר לַנָּבִיא לְהוֹכִיחָם, אוּלַי יָשׁוּבוּ וְלֹא יִתְחַתֵּם גְּזַר דִּינָם:
 
 
 **in the fourth year** The year that their decree was sealed that they be exiled and that they drink the cup of wrath, as he says in this section (v. 15): “Take the cup, etc.,” and before the decree He commanded the prophet to reprove them, perhaps they would repent, and their decree would not be sealed.
@@ -10338,7 +10338,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/25:3:2](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/25:3:2)
 
 
-**אַשְׁכִּים וְדַבֵּר.** לְשׁוֹן הוֹוֶה: הָיִיתִי מַשְׁכִּים וּמְדַבֵּר תָּמִיד:
+**אַשְׁכֵּים וְדַבֵּר.** לְשׁוֹן הוֹוֶה: הָיִיתִי מַשְׁכִּים וּמְדַבֵּר תָּמִיד:
 
 
 **arising early** This is a present tense. I would arise early and speak constantly.
@@ -10597,7 +10597,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/25:29:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/25:29:1)
 
 
-**מֵחֵל**. מַתְחִיל:
+**מֵחֵל.** מַתְחִיל:
 
 
 **commence** מֵחֵל.
@@ -10708,7 +10708,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/25:34:3](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/25:34:3)
 
 
-**וּתְפוּצוֹתֵיכֶם.** הֲרֵי זֶה מִקְרָא קָצָר, כְּלוֹמַר: וּתְפוּצוֹתֵיכֶם תִּקְרַבְנָה לָבֹא:
+**וּתְפוֹצוֹתִיכֶם.** הֲרֵי זֶה מִקְרָא קָצָר, כְּלוֹמַר: וּתְפוּצוֹתֵיכֶם תִּקְרַבְנָה לָבֹא:
 
 
 **and your scatterings** This is a short verse; i.e., to say: and your scatterings shall come near.
@@ -10984,7 +10984,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/27:12:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/27:12:1)
 
 
-**וְאֶל צִדְקִיָּהוּ מֶלֶךְ יְהוּדָה דִּבַּרְתִּי וְגוֹ׳.** כָּל זֶה אָמַר יִרְמְיָהוּ אֶל שְׁלוּחֵי הַמְּלָכִים:
+**וְאֶל צִדְקִיָּה מֶלֶךְ יְהוּדָה דִּבַּרְתִּי וְגוֹ׳.** כָּל זֶה אָמַר יִרְמְיָהוּ אֶל שְׁלוּחֵי הַמְּלָכִים:
 
 
 **And to Zedekiah the king of Judah have I spoken, etc.** All this Jeremiah said to the ambassadors of the kings.
@@ -11079,7 +11079,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/28:1:2](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/28:1:2)
 
 
-**בְּרֵאשִׁית מַמְלֶכֶת צִדְקִיָּה.** בִּתְחִלָּה שֶׁהִשְׁלִיטוֹ עַל חֲמֵשֶׁת הַמְּלָכִים, וְאִי אֶפְשָׁר לוֹמַר בִּתְחִלַּת מַלְכוּתוֹ, שֶׁהֲרֵי נֶאֱמַר **בַּשָּׁנָה הָרְבִיעִית**. אוֹתָהּ שָׁנָה יָרַד לְהַקְבִּיל אֶת פְּנֵי נְבוּכַדְנֶצַּר בְּבָבֶל, וְשָׂרָיָה שַׂר הַמְּנוּחָה עִמּוֹ, וּכְמוֹ שֶׁנֶּאֱמַר בְּסוֹף הַסֵּפֶר (ירמיה נא:נט), וְהִשְׁלִיטוֹ עַל הַמְּלָכִים:
+**בְּרֵאשִׁית מַמְלֶכֶת צִדְקִיָּה.** בִּתְחִלָּה שֶׁהִשְׁלִיטוֹ עַל חֲמֵשֶׁת הַמְּלָכִים, וְאִי אֶפְשָׁר לוֹמַר בִּתְחִלַּת מַלְכוּתוֹ, שֶׁהֲרֵי נֶאֱמַר **בַּשָּׁנָה הָרְבִיעִית.** אוֹתָהּ שָׁנָה יָרַד לְהַקְבִּיל אֶת פְּנֵי נְבוּכַדְנֶצַּר בְּבָבֶל, וְשָׂרָיָה שַׂר הַמְּנוּחָה עִמּוֹ, וּכְמוֹ שֶׁנֶּאֱמַר בְּסוֹף הַסֵּפֶר (ירמיה נא:נט), וְהִשְׁלִיטוֹ עַל הַמְּלָכִים:
 
 
 **in the beginning of the reign of Zedekiah** In the beginning of his dominion over the five kings. But it is impossible to say that it means at the beginning of his reign, since it says, “in the fourth year.” In that year, he went down to greet Nebuchadnezzar in Babylon, and Seraiah the receptionist was with him, as is stated at the end of the Book (51:59), and he gave him dominion over the kings.
@@ -11090,7 +11090,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/28:1:3](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/28:1:3)
 
 
-**אָמַר אֵלַי וגו׳.** אָמְרוּ רַבּוֹתֵינוּ (סדר עולם רבה כה): מִי הִטְעָה אֶת חֲנַנְיָה? שָׁמַע שֶׁהָיָה יִרְמְיָה מִתְנַבֵּא בַּשּׁוּק הָעֶלְיוֹן: ״הִנְנִי שֹׁבֵר אֶת קֶשֶׁת עֵילָם״ (ירמיה מט:לה), וּנְבוּאָה זוֹ בְּסוֹף הַסֵּפֶר נֶאֶמְרָה, **בְּרֵאשִׁית מַמְלֶכֶת צִדְקִיָּהוּ**, כְּמוֹ שֶׁמְּפֹרָשׁ שָׁם (ירמיה מט:לד); וּלְפִי שֶׁעֵילָם סְמוּכָה לְבָבֶל, עָמַד הוּא בַּשּׁוּק הַתַּחְתּוֹן וְדָרַשׁ וְדָן קַל וָחֹמֶר: וּמָה עֵילָם, שֶׁלֹּא בָּאָה אֶלָּא לַעֲזֹר אֶת הַכַּשְׂדִּים וְכוּ׳; כְּמָה שֶׁהִיא בְּסַנְהֶדְרִין (פט.):
+**אָמַר אֵלַי וגו׳.** אָמְרוּ רַבּוֹתֵינוּ (סדר עולם רבה כה): מִי הִטְעָה אֶת חֲנַנְיָה? שָׁמַע שֶׁהָיָה יִרְמְיָה מִתְנַבֵּא בַּשּׁוּק הָעֶלְיוֹן: ״הִנְנִי שֹׁבֵר אֶת קֶשֶׁת עֵילָם״ (ירמיה מט:לה), וּנְבוּאָה זוֹ בְּסוֹף הַסֵּפֶר נֶאֶמְרָה, **בְּרֵאשִׁית מַמְלֶכֶת צִדְקִיָּה**, כְּמוֹ שֶׁמְּפֹרָשׁ שָׁם (ירמיה מט:לד); וּלְפִי שֶׁעֵילָם סְמוּכָה לְבָבֶל, עָמַד הוּא בַּשּׁוּק הַתַּחְתּוֹן וְדָרַשׁ וְדָן קַל וָחֹמֶר: וּמָה עֵילָם, שֶׁלֹּא בָּאָה אֶלָּא לַעֲזֹר אֶת הַכַּשְׂדִּים וְכוּ׳; כְּמָה שֶׁהִיא בְּסַנְהֶדְרִין (פט.):
 
 
 **said to me** Our Sages state: Who misled Hananiah? He heard Jeremiah prophesying in the upper street, “Behold I am breaking the bow of Elam” (49:35). And this prophecy was said in the beginning of the reign of Zedekiah, as is explained there, and since Elam is adjacent to Babylon, he stood in the lower street, and expounded. And he derived a major case from a minor one. If Elam, who came only to aid the Chaldeans, the Holy One, blessed be He, said, “Behold I am breaking the bow of Elam,” how much more is this so with the Chaldeans themselves? He came into the lower street and said: So said the Lord: I have broken the yoke of the king of Babylon, as it is in Sanhedrin (89a).
@@ -11258,7 +11258,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/29:18:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/29:18:1)
 
 
-**וְלִחֶרְפָּה.** שֶׁיְּחָרְפוּ אוֹתָם, דִּישְׁטְרוּוִי״ר בְּלַעַ״ז; וְכֵן כָּל חֶרְפָּה שֶׁבַּמִּקְרָא:
+**וּלְחֶרְפָּה.** שֶׁיְּחָרְפוּ אוֹתָם, דִּישְׁטְרוּוִי״ר בְּלַעַ״ז; וְכֵן כָּל חֶרְפָּה שֶׁבַּמִּקְרָא:
 
 
 **and for a reproach** That they will reproach them, and so is every expression of ירפה in Scripture.
@@ -11815,7 +11815,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/31:6:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/31:6:1)
 
 
-**נוֹצְרִים.** צוֹפִים בְּרָאשֵׁי מִגְדָּלִים גְּבוֹהִים לְהַכְרִיז קוֹל נִשְׁמָע לְמֵרָחוֹק. לָשׁוֹן אַחֵר: **נוֹצְרִים** כְּמוֹ ״נֹצֵר חֶסֶד לָאֲלָפִים״ (שמות לד:ז), לְשׁוֹן שְׁמִירָה. כְּלוֹמַר, **יֶשׁ יוֹם** שֶׁיִּקְרְאוּ אוֹתָם שֶׁשָּׁמְרוּ הַתּוֹרָה וְיֹאמְרוּ **קוּמוּ**. וְכֵן תִּרְגֵּם יוֹנָתָן: ״אֲרֵי אִית אֲרִיכוּת יוֹמַיָּא וְסַגִּי טוּבָא דְּעָתִיד לְמֵיתֵי לְצַדִּיקַיָּא דְּנַטְרוּ אוֹרַיְתִי מִלְּקַדְמִין״:
+**נוֹצְרִים.** צוֹפִים בְּרָאשֵׁי מִגְדָּלִים גְּבוֹהִים לְהַכְרִיז קוֹל נִשְׁמָע לְמֵרָחוֹק. לָשׁוֹן אַחֵר: **נוֹצְרִים** כְּמוֹ ״נֹצֵר חֶסֶד לָאֲלָפִים״ (שמות לד:ז), לְשׁוֹן שְׁמִירָה. כְּלוֹמַר, **יֶשׁ יוֹם** שֶׁיִּקְרְאוּ אוֹתָם שֶׁשָּׁמְרוּ הַתּוֹרָה וְיֹאמְרוּ **קוּמוּ.** וְכֵן תִּרְגֵּם יוֹנָתָן: ״אֲרֵי אִית אֲרִיכוּת יוֹמַיָּא וְסַגִּי טוּבָא דְּעָתִיד לְמֵיתֵי לְצַדִּיקַיָּא דְּנַטְרוּ אוֹרַיְתִי מִלְּקַדְמִין״:
 
 
 **the watchers shall call** The lookouts at the tops of the lofty towers to announce with a voice heard a distance away. Another explanation: נֹצְרִים is like “He keeps (נֹצֵר) lovingkindness” (Exod. 34:7), an expression of keeping. That is to say: There is a day when they will call those who kept the Torah and say, “Rise...” And so did Jonathan render: There are many days and much goodness that is destined to come to the righteous who kept My Torah from days of old.
@@ -11871,7 +11871,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/31:10:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/31:10:1)
 
 
-**מְזָרֶה.** אֶסְפְּרֵיינְ״שׁ בְּלַעַ״ז:
+**מְזָרֵה.** אֶסְפְּרֵיינְ״שׁ בְּלַעַ״ז:
 
 
 **“He Who scattered”** (separant in French, separating.
@@ -12046,7 +12046,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/31:21:2](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/31:21:2)
 
 
-**תַּמְרוּרִים.** תְּמָרִים קְטַנִּים נְטוּעִים לְסִימָן בַּ**דֶּרֶךְ**. וּפְשׁוּטוֹ שֶׁל מִקְרָא, עֲשִׂי סִימָנִים לָדַעַת הַ**דֶּרֶךְ** שֶׁ**הָלַכְתְּ** בָּהּ מֵאֶרֶץ יִשְׂרָאֵל לְבָבֶל, שֶׁתַּחְזִירִי בְּאוֹתוֹ **דֶּרֶךְ**. כְּלוֹמַר, כִּי וַדַּאי תָּשׁוּבִי מִשָּׁם:
+**תַּמְרוּרִים.** תְּמָרִים קְטַנִּים נְטוּעִים לְסִימָן בַּ**דֶּרֶךְ.** וּפְשׁוּטוֹ שֶׁל מִקְרָא, עֲשִׂי סִימָנִים לָדַעַת הַ**דֶּרֶךְ** שֶׁ**הָלַכְתְּ** בָּהּ מֵאֶרֶץ יִשְׂרָאֵל לְבָבֶל, שֶׁתַּחְזִירִי בְּאוֹתוֹ **דֶּרֶךְ.** כְּלוֹמַר, כִּי וַדַּאי תָּשׁוּבִי מִשָּׁם:
 
 
 **small palms** small palms (תְּמָרִים) planted for a sign on the way. And the simple interpretation of the verse is. Make signs to know the way you traversed from Eretz Israel to Babylon, so that you will return by that road; that is to say that you will surely return from there.
@@ -12096,7 +12096,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/31:26:2](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/31:26:2)
 
 
-**עֲרֵבָה.** נְעֵמָה:
+**עָרְבָה.** נְעֵמָה:
 
 
 **was pleasant** Heb. עָרְבָה .
@@ -12411,7 +12411,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/32:18:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/32:18:1)
 
 
-**וּמְשַׁלֵּם עֲוֹן אָבוֹת אֶל חֵיק.** הַדּוֹר הַזֶּה, הַהוֹלְכִים אַחֲרֵי אֲבוֹתֵיהֶם בְּדֶרֶךְ הָרָעָה:
+**וּמְשַׁלֵּם עֲוֺן אָבוֹת אֶל חֵיק.** הַדּוֹר הַזֶּה, הַהוֹלְכִים אַחֲרֵי אֲבוֹתֵיהֶם בְּדֶרֶךְ הָרָעָה:
 
 
 **and requites the iniquity of the fathers in the bosom** Of this generation who follow their ancestors in their evil way.
@@ -12816,7 +12816,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/34:8:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/34:8:1)
 
 
-**אַחֲרֵי כְּרוֹת הַמֶּלֶךְ.** בַּשָּׁנָה הַשְּׁבִיעִית לְמָלְכוֹ. כָּךְ שָׁנִינוּ בְּסֵדֶר עוֹלָם (סדר עולם רבה כו): ״וַיְהִי בַּשָּׁנָה הַשְּׁבִיעִית... בָּאוּ אֲנָשִׁים מִזִּקְנֵי יְהוּדָה לִדְרֹשׁ אֶת ה׳״ (יחזקאל כ:א). אָמְרוּ לִיחֶזְקֵאל: עֶבֶד כֹּהֵן שֶׁמְּכָרוֹ רַבּוֹ, מַהוּ שֶׁיֹּאכַל בִּתְרוּמָה? כְּלוֹמַר, לְפִי שֶׁהָיוּ רוֹצִין לוֹמַר: לֹא נֶעֱנַשׁ עַל הַמִּצְוֹת, עַל שֶׁהֶחֱזִירוּ אֶת הָעֲבָדִים:
+**אַחֲרֵי כְּרוֹת הַמֶּלֶךְ.** בַּשָּׁנָה הַשְּׁבִיעִית לְמָלְכוֹ. כָּךְ שָׁנִינוּ בְּסֵדֶר עוֹלָם (סדר עולם רבה כו): ״וַיְהִי בַּשָּׁנָה הַשְּׁבִיעִית… בָּאוּ אֲנָשִׁים מִזִּקְנֵי יְהוּדָה לִדְרֹשׁ אֶת ה׳״ (יחזקאל כ:א). אָמְרוּ לִיחֶזְקֵאל: עֶבֶד כֹּהֵן שֶׁמְּכָרוֹ רַבּוֹ, מַהוּ שֶׁיֹּאכַל בִּתְרוּמָה? כְּלוֹמַר, לְפִי שֶׁהָיוּ רוֹצִין לוֹמַר: לֹא נֶעֱנַשׁ עַל הַמִּצְוֹת, עַל שֶׁהֶחֱזִירוּ אֶת הָעֲבָדִים:
 
 
 **after King Zedekiah had made a covenant** In the seventh year of his reign. So we learned it in Seder Olam (ch. 26): “And it came to pass in the seventh year...men came of the elders of Judah (sic) to inquire of the Lord” (Ezekiel 20:1). They said to Ezekiel, ‘The slave of a priest whom his owner sold what is the ruling regarding whether he may eat of the priest’s due?’ That is to say, because they wanted to say that they should not be punished for infracting the commandment by returning the slaves.
@@ -13155,7 +13155,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/37:13:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/37:13:1)
 
 
-**וְשָׁם בַּעַל פְּקִדֻּוֹת.** מְמֻנֶּה לִשְׁמֹר שֶׁלֹּא יֵצֵא אִישׁ מִן הָעִיר לְהַשְׁלִים **אֶל הַכַּשְׂדִּים**:
+**וְשָׁם בַּעַל פְּקִדֻת.** מְמֻנֶּה לִשְׁמֹר שֶׁלֹּא יֵצֵא אִישׁ מִן הָעִיר לְהַשְׁלִים **אֶל הַכַּשְׂדִּים**:
 
 
 **and there was the captain of the guard** Appointed to guard so that no man should leave the city to make peace with the Chaldeans.
@@ -13356,7 +13356,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/38:12:2](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/38:12:2)
 
 
-**תַּחַת אֲצִילוֹת יָדֶיךָ.** שֶׁלֹּא יַזִּיקוּךָ הַחֲבָלִים:
+**תַּחַת אַצִּלוֹת יָדֶיךָ.** שֶׁלֹּא יַזִּיקוּךָ הַחֲבָלִים:
 
 
 **under your armpits** So that the ropes should not harm you.
@@ -13627,7 +13627,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/40:1:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/40:1:1)
 
 
-**הַדָּבָר אֲשֶׁר הָיָה.** מַה שֶׁנֶּאֱמַר בְּסוֹף הָעִנְיָן: ״וַיְהִי מִקֵּץ עֲשֶׂרֶת יָמִים וַיְהִי דְבַר ה׳ וְגוֹ׳״ (ירמיה מב:ז), אֶלָּא שֶׁכָּתַב תְּחִלָּה עַל מָה נֶאֱמַר לוֹ. וּמִדְרַשׁ אַגָּדָה בְּאֵיכָה רַבָּתִי (איכה רבה פתיחתא לד): מַה הָיָה הַדָּבָר? – **וְשׁוּבָה אֶל גְּדַלְיָהוּ**. אָמַר לוֹ: אוֹ אַתְּ נָחִית עִמְּהוֹן וַאֲנָא מְסוֹבֵר הָכָא, אוֹ אַתְּ סוֹבֵר הָכָא וַאֲנָא נָחִית עִמְּהוֹן; אָמַר: אִין אֲנָא נָחִית עִמְּהוֹן, מָה אֲנָא מְהַנֵּי לְהוֹן? אֶלָּא יֵיחוֹת בָּרְיֵיהוֹן עִמְּהוֹן, דְּסַגִּין הוּא מְהַנֵּי לְהוֹן:
+**הַדָּבָר אֲשֶׁר הָיָה.** מַה שֶׁנֶּאֱמַר בְּסוֹף הָעִנְיָן: ״וַיְהִי מִקֵּץ עֲשֶׂרֶת יָמִים וַיְהִי דְבַר ה׳ וְגוֹ׳״ (ירמיה מב:ז), אֶלָּא שֶׁכָּתַב תְּחִלָּה עַל מָה נֶאֱמַר לוֹ. וּמִדְרַשׁ אַגָּדָה בְּאֵיכָה רַבָּתִי (איכה רבה פתיחתא לד): מַה הָיָה הַדָּבָר? – **וְשׁוּבָה אֶל גְּדַלְיָהוּ.** אָמַר לוֹ: אוֹ אַתְּ נָחִית עִמְּהוֹן וַאֲנָא מְסוֹבֵר הָכָא, אוֹ אַתְּ סוֹבֵר הָכָא וַאֲנָא נָחִית עִמְּהוֹן; אָמַר: אִין אֲנָא נָחִית עִמְּהוֹן, מָה אֲנָא מְהַנֵּי לְהוֹן? אֶלָּא יֵיחוֹת בָּרְיֵיהוֹן עִמְּהוֹן, דְּסַגִּין הוּא מְהַנֵּי לְהוֹן:
 
 
 **The word that came** What is stated at the end of the section (42:7): “And it was at the end of ten days that the word of the Lord came etc.,” but he first wrote on account of what it was said to him. And the Midrash Aggadah in Lamentations Rabbah (Proem 34): What was the word? “And return to Gedaliah.” He said to him: Either you go down with them and I will remain (?) here, or you remain here and I will go down with them. He replied: If I go down with them, what will I help them? Rather, let their Creator go down with them, for He will help them exceedingly.
@@ -13649,7 +13649,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/40:1:3](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/40:1:3)
 
 
-**בָּאֲזִיקִים.** בְּזִיאוֹ״שׁ בְּלַעַ״ז:
+**בָּאזִקִּים.** בְּזִיאוֹ״שׁ בְּלַעַ״ז:
 
 
 **in fetters** Heb. באזקים, ceps in French, fetters.
@@ -13834,7 +13834,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/43:9:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/43:9:1)
 
 
-**וְטָמַנְתָּם בַּמֶּלֶט.** מ״ם זוֹ יְסוֹד נוֹפֵל הִיא בַּתֵּיבָה, כְּמוֹ מָקוֹם, מַעֲמָד, מַעֲשֶׂה; וִיסוֹדוֹ לָט, כְּמוֹ ״וַיָּלֶט פָּנָיו״ (מלכים א יט:יג): לְאַט אוֹתָהּ בְּתוֹךְ הַטִּיט **בַּמַּלְבֵּן**. **בַּמֶּלֶט** אַנְוְלוֹפְמַנְטוֹ בְּלַעַ״ז:
+**וּטְמַנְתָּם בַּמֶּלֶט.** מ״ם זוֹ יְסוֹד נוֹפֵל הִיא בַּתֵּיבָה, כְּמוֹ מָקוֹם, מַעֲמָד, מַעֲשֶׂה; וִיסוֹדוֹ לָט, כְּמוֹ ״וַיָּלֶט פָּנָיו״ (מלכים א יט:יג): לְאַט אוֹתָהּ בְּתוֹךְ הַטִּיט **בַּמַּלְבֵּן.** **בַּמֶּלֶט** אַנְוְלוֹפְמַנְטוֹ בְּלַעַ״ז:
 
 
 **and hide them in the mortar** Heb. במלט. This ‘mem’ is a defective radical in the word, like מקום, a place, מעמד, a stand, מעשה, a deed, and its root is לט, cf. “he wrapped (וילט) his face” (I Kings 19:13). Envelop them in the mortar in the framework. **in the mortar** (Envolopemant in O.F)
@@ -13862,7 +13862,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/43:12:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/43:12:1)
 
 
-**וְעָטָה אֶת אֶרֶץ מִצְרַיִם.** יִכְרוֹךְ כָּל שְׁלָלָהּ וְיֵצֵא, **כַּאֲשֶׁר** יִכְרוֹךְ וְיִגְלוֹל **הָרעֶה אֶת בִּגְדּוֹ** וְיַשְׁלִיכוֹ מֵעַל כְּתֵפָיו כְּשֶׁהוּא מוֹלִיךְ צֹאנוֹ לְפָנָיו:
+**וְעָטָה אֶת אֶרֶץ מִצְרַיִם.** יִכְרוֹךְ כָּל שְׁלָלָהּ וְיֵצֵא, **כַּאֲשֶׁר** יִכְרוֹךְ וְיִגְלוֹל **הָרֹעֶה אֶת בִּגְדּוֹ** וְיַשְׁלִיכוֹ מֵעַל כְּתֵפָיו כְּשֶׁהוּא מוֹלִיךְ צֹאנוֹ לְפָנָיו:
 
 
 **and he shall wrap up the land of Egypt** He shall wrap up all its plunder and leave, as a shepherd wraps up and rolls his garment and casts it over his shoulder when he leads his flock before him.
@@ -13907,7 +13907,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/44:14:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/44:14:1)
 
 
-**כִּי אִם פְּלִיטִים.** יִרְמְיָה וּבָרוּךְ חָזְרוּ לְשָׁם, שֶׁהִגְלָה נְבוּכַדְנֶאצַּר כְּשֶׁנִּתְּנָה אֶרֶץ מִצְרַיִם בְּיָדוֹ בְּעֶשְׂרִים וְשֶׁבַע לְמָלְכוֹ (יחזקאל כט:יז-כ). כָּךְ שְׁנוּיָה בְּסֵדֶר עוֹלָם (סדר עולם רבה כו):
+**כִּי אִם פְּלֵטִים.** יִרְמְיָה וּבָרוּךְ חָזְרוּ לְשָׁם, שֶׁהִגְלָה נְבוּכַדְנֶאצַּר כְּשֶׁנִּתְּנָה אֶרֶץ מִצְרַיִם בְּיָדוֹ בְּעֶשְׂרִים וְשֶׁבַע לְמָלְכוֹ (יחזקאל כט:יז-כ). כָּךְ שְׁנוּיָה בְּסֵדֶר עוֹלָם (סדר עולם רבה כו):
 
 
 **only fugitives** Jeremiah and Baruch returned from there, for Nebuchadnezzar exiled them when the land of Egypt was delivered into his hand in the twenty-seventh year of his reign (Ezek. 29:17). So we learned in Seder Olam (ch. 26).
@@ -14447,7 +14447,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/46:23:2](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/46:23:2)
 
 
-**כִּי לֹא יֵחָקֵר. מִסְפַּר** צְבָאָם:
+**כִּי לֹא יֵחָקֵר.** מִסְפַּר צְבָאָם:
 
 
 **for they are innumerable** [lit. it shall not be fathomed, i.e.,] the number of their host.
@@ -14614,7 +14614,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/47:4:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/47:4:1)
 
 
-**לְהַכְרִית לְצוֹר וְלְצִידוֹן.** פְּלִשְׁתִּים הָיוּ עוֹזְרִים אוֹתָם מֵאוֹיְבֵיהֶם:
+**לְהַכְרִית לְצוֹר וּלְצִידוֹן.** פְּלִשְׁתִּים הָיוּ עוֹזְרִים אוֹתָם מֵאוֹיְבֵיהֶם:
 
 
 **to cut off from Tyre and Zidon** The Philistines were aiding them against their enemies.
@@ -14784,7 +14784,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/48:9:2](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/48:9:2)
 
 
-**כִּי נֵצֵא תֵּצֵא.** כִּי בִּמְעוֹפָהּ וְחִפָּזוֹן תֵּצְאוּ בַּגּוֹלָה. וְיִהְיֶה נֵצֵא מִגְּזֵרַת נִצָּהּ, כֵּן חָבְרוּ מְנַחֵם, וְכֵן ״כִּי נָצוּ גַּם נָעוּ״ (איכה ד:טו), וְיוֹנָתָן תִּרְגֵּם ״אַעֲדוֹ כִּתְרָא מִמּוֹאָב״, **תְּנוּ** לַאֲחֵרִים **צִיץ** הַנֵּזֶר אֲשֶׁר **לְמוֹאָב**:
+**כִּי נָצֹא תֵּצֵא.** כִּי בִּמְעוֹפָהּ וְחִפָּזוֹן תֵּצְאוּ בַּגּוֹלָה. וְיִהְיֶה נֵצֵא מִגְּזֵרַת נִצָּהּ, כֵּן חָבְרוּ מְנַחֵם, וְכֵן ״כִּי נָצוּ גַּם נָעוּ״ (איכה ד:טו), וְיוֹנָתָן תִּרְגֵּם ״אַעֲדוֹ כִּתְרָא מִמּוֹאָב״, **תְּנוּ** לַאֲחֵרִים **צִיץ** הַנֵּזֶר אֲשֶׁר **לְמוֹאָב**:
 
 
 **for she shall fly away** Heb. נצא תצא. For with flight and haste you shall go forth into exile, and נָצֹא will be of the conjugation of נוֹצָה, a feather. So did Menahem (Machbereth Menahem p. 151) classify it, and so “Yea, they fled away (נָצוּ) and wandered” (Lam. 4:15). Jonathan renders: Remove the crown from Moab. Give others the crown of Moab.
@@ -14848,7 +14848,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/48:12:3](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/48:12:3)
 
 
-**וְנַפֵּצוּ.** יְשַׁבְּרוּ, כְּמוֹ ״אֵיכָה נֶחְשְׁבוּ לְנִבְלֵי חֶרֶשׂ״ (איכה ד:ב); ״כָּל נֵבֶל יִמָּלֵא יָיִן״ (ירמיה יג:יב):
+**יְנַפֵּצוּ.** יְשַׁבְּרוּ, כְּמוֹ ״אֵיכָה נֶחְשְׁבוּ לְנִבְלֵי חֶרֶשׂ״ (איכה ד:ב); ״כָּל נֵבֶל יִמָּלֵא יָיִן״ (ירמיה יג:יב):
 
 
 **smash** Heb. ינפצו, they shall break. Cf. “How were they regarded as earthen jars (לְנִבְלֵי) (Lam. 4:2). Also, “Every bottle (נֵבֶל) will be filled with wine” (supra 13.12).
@@ -15709,7 +15709,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/49:19:5](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/49:19:5)
 
 
-**וּמִי יוֹעִידֵנִי.** לַמִּלְחָמָה, לְהִלָּחֵם אִתִּי:
+**וּמִי יֹעִידֶנִּי.** לַמִּלְחָמָה, לְהִלָּחֵם אִתִּי:
 
 
 **and who will appoint Me a time** For bartle, to wage war with Me?
@@ -15792,7 +15792,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/49:23:2](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/49:23:2)
 
 
-**בְּיָם דְּאָגָה.** דַּאֲגָתָהּ דּוֹמָה לְדַאֲגַת הַיָּם **הַשְׁקֵט לֹא יוּכָל**. כָּל דְּאָגָה לְשׁוֹן יִרְאָה הוּא:
+**בְּיָם דְּאָגָה.** דַּאֲגָתָהּ דּוֹמָה לְדַאֲגַת הַיָּם **הַשְׁקֵט לֹא יוּכָל.** כָּל דְּאָגָה לְשׁוֹן יִרְאָה הוּא:
 
 
 **there is worry in the sea** He compares her worry to the worry of the sea, which cannot be quiet. Every instance of דאגה, worry, is an expression of fear.
@@ -16522,7 +16522,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/50:44:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/50:44:1)
 
 
-**הִנֵּה כְּאַרְיֵה.** אֲשֶׁר **יַעֲלֶה מִגְּאוֹן הַיַּרְדֵּן** כֵּן יָבֹא הַשּׁוֹדֵד **אֶל נְוֵה אֵיתָן**. כָּךְ תִּרְגֵּם יוֹנָתָן: ״הָא מֶלֶךְ בְּמַשְׁרִיָּתֵיהּ יִיסַק עֲלֵיהוֹן כְּאַרְיָא דְּסָלִיק מֵרוּם יַרְדְּנָא״; לָמַדְנוּ, שֶׁגְּאוֹן הַיַּרְדֵּן מְקוֹם אֲרָיוֹת הוּא. וְאַף כָּךְ תִּרְגְּמוֹ יוֹנָתָן ״וְאֵיךְ תַּעֲשֶׂה בִּגְאוֹן הַיַּרְדֵּן״ (ירמיה יב:ה): ״לְקָבֵיל חֵיוָא בָּרָא בְּרוּם יַרְדְּנָא״:
+**הִנֵּה כְּאַרְיֵה.** אֲשֶׁר **יַעֲלֶה מִגְּאוֹן הַיַּרְדֵּן** כֵּן יָבֹא הַשּׁוֹדֵד **אֶל נְוֵה אֵיתָן.** כָּךְ תִּרְגֵּם יוֹנָתָן: ״הָא מֶלֶךְ בְּמַשְׁרִיָּתֵיהּ יִיסַק עֲלֵיהוֹן כְּאַרְיָא דְּסָלִיק מֵרוּם יַרְדְּנָא״; לָמַדְנוּ, שֶׁגְּאוֹן הַיַּרְדֵּן מְקוֹם אֲרָיוֹת הוּא. וְאַף כָּךְ תִּרְגְּמוֹ יוֹנָתָן ״וְאֵיךְ תַּעֲשֶׂה בִּגְאוֹן הַיַּרְדֵּן״ (ירמיה יב:ה): ״לְקָבֵיל חֵיוָא בָּרָא בְּרוּם יַרְדְּנָא״:
 
 
 **Behold, as a lion** that ascends from the heights of the Jordan, so will the spoiler come to the strong dwelling. So did Jonathan paraphrase: Behold a king with his camp shall ascend upon them like a lion that ascends from the height of the Jordan. We learn that the height of the Jordan is a place of lions. Also, in this manner Jonathan renders: “How will you do in the heights of the Jordan” (12:5): Against the wild beasts of the heights of the Jordan.
@@ -16555,7 +16555,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/50:44:4](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/50:44:4)
 
 
-**וּמִי יוֹעִידֵנִי.** לַמִּלְחָמָה:
+**וּמִי יֹעִידֶנִּי.** לַמִּלְחָמָה:
 
 
 **and who will appoint Me a time** for war?
@@ -17259,7 +17259,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/51:50:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/51:50:1)
 
 
-**פְּלִיטִים מֵחֶרֶב.** יִשְׂרָאֵל שֶׁגָּלוּ לְתוֹכָהּ, שֶׁפָּלְטוּ מֵחֶרֶב נְבוּזַרְאֲדָן (מלכים ב כה:ח-יב):
+**פְּלֵטִים מֵחֶרֶב.** יִשְׂרָאֵל שֶׁגָּלוּ לְתוֹכָהּ, שֶׁפָּלְטוּ מֵחֶרֶב נְבוּזַרְאֲדָן (מלכים ב כה:ח-יב):
 
 
 **Fugitives from the sword** Israel, who was exiled into her midst, who escaped the sword of Nebuzaradan.
@@ -17409,7 +17409,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/52:7:2](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/52:7:2)
 
 
-**דֶּרֶךְ שַׁעַר בֵּין הַחוֹמָתַיִם.** מְעָרָה הָיְתָה לוֹ מִבֵּיתוֹ עַד עַרְבוֹת יְרִיחוֹ (פסיקתא רבתי כו); וּכְבָר פֵּרַשְׁתִּיהָ בַּסֵּפֶר הַזֶּה (לט:ד):
+**דֶּרֶךְ שַׁעַר בֵּין הַחֹמֹתַיִם.** מְעָרָה הָיְתָה לוֹ מִבֵּיתוֹ עַד עַרְבוֹת יְרִיחוֹ (פסיקתא רבתי כו); וּכְבָר פֵּרַשְׁתִּיהָ בַּסֵּפֶר הַזֶּה (לט:ד):
 
 
 
@@ -17483,7 +17483,7 @@ We have come אתנו.
 [https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/52:16:1](https://torahapp.org/share/book/Rashi%20on%20Jeremiah/r/52:16:1)
 
 
-**וְלִיֹגְבִים.** חוֹפְרִין בָּאָרֶץ. רַבּוֹתֵינוּ אָמְרוּ (שבת כו.): צָדֵי חִלָּזוֹן:
+**וּלְיֹגְבִים.** חוֹפְרִין בָּאָרֶץ. רַבּוֹתֵינוּ אָמְרוּ (שבת כו.): צָדֵי חִלָּזוֹן:
 
 
 

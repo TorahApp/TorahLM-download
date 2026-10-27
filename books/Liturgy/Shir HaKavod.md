@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Davkawriter (Segments: 32, License: unknown)
 
-Version (En): Wikipedia (Segments: 32)
+Version (En): Sefaria Community Translation (Segments: 32)
 
 
 ## Line 1

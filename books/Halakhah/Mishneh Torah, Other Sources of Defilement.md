@@ -323,7 +323,7 @@ When an animal that is *tereifah* was slaughtered, even though its meat is pure 
 [https://torahapp.org/share/book/Mishneh%20Torah%2C%20Other%20Sources%20of%20Defilement/r/2:9](https://torahapp.org/share/book/Mishneh%20Torah%2C%20Other%20Sources%20of%20Defilement/r/2:9)
 
 
-בְּהֵמָה הַמַּקְשָׁה לֵילֵד וְהוֹצִיא הָעֻבָּר אֶת יָדוֹ וַחֲתָכָהּ וְאַחַר כָּךְ שָׁחַט אֶת אִמּוֹ הָאֵיבָר שֶׁנֶּחְתַּךְ נְבֵלָה וּשְׁאָר בְּשַׂר הָעֵבָּר טָהוֹר. שָׁחַט אֶת אִמּוֹ וְאַחַר כָּךְ חֲתָכָהּ הָאֵיבָר כִּטְרֵפָה שֶׁנִּשְׁחֲטָה וּשְׁאָר בְּשַׂר הָעֵבָּר מַגַּע טְרֵפָה שְׁחוּטָה שֶׁהִיא מְטַמְּאָה אֶת הַקֹּדֶשׁ אֲבָל לֹא אֶת הַתְּרוּמָה. הוֹצִיא הָעֻבָּר אֶת יָדוֹ בֵּין שְׁחִיטַת סִימָן לִשְׁחִיטַת סִימָן וַחֲתָכוֹ מִצְטָרֵף שְׁחִיטַת סִימָן לְסִימָן לְטַהֵר הָאֵיבָר מִידֵי נְבֵלָה:
+בְּהֵמָה הַמַּקְשָׁה לֵילֵד וְהוֹצִיא הָעֻבָּר אֶת יָדוֹ וַחֲתָכָהּ וְאַחַר כָּךְ שָׁחַט אֶת אִמּוֹ הָאֵיבָר שֶׁנֶּחְתַּךְ נְבֵלָה וּשְׁאָר בְּשַׂר הָעֻבָּר טָהוֹר. שָׁחַט אֶת אִמּוֹ וְאַחַר כָּךְ חֲתָכָהּ הָאֵיבָר כִּטְרֵפָה שֶׁנִּשְׁחֲטָה וּשְׁאָר בְּשַׂר הָעֻבָּר מַגַּע טְרֵפָה שְׁחוּטָה שֶׁהִיא מְטַמְּאָה אֶת הַקֹּדֶשׁ אֲבָל לֹא אֶת הַתְּרוּמָה. הוֹצִיא הָעֻבָּר אֶת יָדוֹ בֵּין שְׁחִיטַת סִימָן לִשְׁחִיטַת סִימָן וַחֲתָכוֹ מִצְטָרֵף שְׁחִיטַת סִימָן לְסִימָן לְטַהֵר הָאֵיבָר מִידֵי נְבֵלָה:
 
 
 The following laws apply when an animal had difficulty birthing its offspring. If, after the fetus stuck out its foot and it was cut off, the mother was then slaughtered, the limb that was cut off is considered as if it was from a carcass, but the remainder of the meat of the fetus is pure.

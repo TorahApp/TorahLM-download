@@ -16,6 +16,8 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Arba'ah Ve'Esrim im Minhat Shai. Mantua, 1742-1744 (Segments: 97, License: Public Domain)
 
+Version (En): Sefaria Community Translation (Segments: 1)
+
 
 ## Chapter 1
 
@@ -279,7 +281,10 @@ Version (He): Arba'ah Ve'Esrim im Minhat Shai. Mantua, 1742-1744 (Segments: 97, 
 [https://torahapp.org/share/book/Minchat%20Shai%20on%20Lamentations/r/2:9:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Lamentations/r/2:9:1)
 
 
-**טבעו.** ט"ית זעירא שבט' באב נחרה הבית ובמסורת הברית הגדול כתוב לרמוז שלא טבעו עמוק עמוק רק טביעה קטנה ועכ"ז לא מצאום החופרים כי נעלמו מעיניהם דרך נס:
+**טבעו.** ט"ית זעירא שבט' באב נחרב הבית ובמסורת הברית הגדול כתוב לרמוז שלא טבעו עמוק עמוק רק טביעה קטנה ועכ"ז לא מצאום החופרים כי נעלמו מעיניהם דרך נס:
+
+
+The Tet (ט) is small since on the ninth (ט) of Av the House (i.e. the Holy Temple) was destroyed. And in the book Mesoret Habrit Hagadol it is written that it (the small Tet) is to hint that the sinking (of the Temple?) was not very deep, rather a shallow sinking. Nonetheless, the diggers were not able to find it for it was miraculously hidden from their eyes.
 
 
 ###### Minchat Shai on Lamentations 2:9:2

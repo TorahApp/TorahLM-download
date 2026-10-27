@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Jerusalem, 1951 (Segments: 1284, License: unknown)
 
-Version (En): Translated by Yeho'hanan (Notzar haNesher) (Segments: 11)
+Version (En): Sefaria Community Translation (Segments: 11)
 
 
 ## Introduction

@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Vilna Edition (Segments: 1306, License: Public Domain)
 
-Version (En): daf yomi Tosfos point by point (Segments: 4)
+Version (En): Sefaria Community Translation (Segments: 4)
 
 
 ## Daf 2a

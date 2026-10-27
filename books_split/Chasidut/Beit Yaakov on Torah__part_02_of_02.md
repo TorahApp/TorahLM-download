@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Beit Yaakov al HaTorah, Sifrei Izhbitza Radzin, Bnei Brak, 2006 (Segments: 1290, License: unknown)
 
-Version (En): Sefaria Community Translation (Segments: 3)
+Version (En): Sefaria Community Translation (Segments: 4)
 
 # Beit Yaakov on Torah — part 2 of 2
 

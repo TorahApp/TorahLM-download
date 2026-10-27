@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Maginei Eretz: Shulchan Aruch Orach Chaim, Lemberg, 1893 (Segments: 4171)
 
-Version (En): Mishna Berura Yomi (Segments: 3936)
+Version (En): Hilkhot Yom ha-Kippurim, trans. by Jan M. Brahms. HUC, 1976 (Segments: 3931)
 
 
 ## Siman 1
@@ -677,7 +677,7 @@ When one leaves the bathroom he should recite the blessing of "Who formed man wi
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/6:2](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/6:2)
 
 
-יש נוהגין להמתין לברך על נטילת ידים עד בואם לבית הכנסת ומסדרים אותם עם שאר הברכות ובני ספרד לא נהגו כן: (ועכ"פ לא יברך ב' פעמים ומי שמברכם בביתו לא יברך בבה"כ וכן מי שמברכה בבה"כ לא יברך בביתו (כל בו סי' ב') ומי שלומד קודם שיכנס לבה"כ או מתפלל קודם יברכה בביתו ולא יברך בבה"כ ואפי' בכהאי גונא יש נוהגין לסדרה עם שאר ברכות בב"ה ואין מברכין בביתם): (מהרי"ל הלכות תפלה):
+יש נוהגין להמתין לברך על נטילת ידים עד בואם לבית הכנסת ומסדרים אותם עם שאר הברכות ובני ספרד לא נהגו כן: (ועכ"פ לא יברך ב' פעמים ומי שמברכה בביתו לא יברך בבה"כ וכן מי שמברכה בבה"כ לא יברך בביתו (כל בו סי' ב') ומי שלומד קודם שיכנס לבה"כ או מתפלל קודם יברכה בביתו ולא יברך בבה"כ ואפי' בכהאי גונא יש נוהגין לסדרה עם שאר ברכות בב"ה ואין מברכין בביתם): (מהרי"ל הלכות תפלה):
 
 
 Some have the custom to wait to make the blessing "on the washing of hands" until they arrive at the synagogue, and they say it along with the rest of the [morning] blessings. The descendants of the Sephardim do not have this practice. (Nevertheless, one should not make the blessing twice; and one who recited it at home should not recite it at synagogue, and one who recited it in the synagogue should not recite it at home (Kol Bo - Siman 2). And one who learns before he enters the synagogue or prays before, should recite the blessing at home and not recite it in the synagogue. Even in these scenarios, there are those whose practice is to recite it along with the other blessings in the synagogue and they do not recite it in their homes) (Maharil - Laws of Prayer).
@@ -1274,7 +1274,7 @@ If it was further from the corner [the measurement of the] full knuckle of the t
 אם הגדיל שקורין אוריליי"ו הוא רחב לא יטיל בו הציציות ואם הטיל בו פסול דעל כנפי בגדיהם כתיב וזה אינו נחשב מהבגד אבל עולה הוא לשיעור מלא קשר גודל ולהרחקת ג' אצבעות כיון שהנקב בתוך הבגד: הגה וטוב שימדוד שיעור קשר גודל בלא הגדיל ויהיה תוך ג' אצבעות עם הגדיל (ב"י בשם רש"י ורשב"א):
 
 
-If the corner is what we call an אורילייזא and is wide, Tzitzit shouldn’t be put on it. If one put Tzitzit on the garment, it is invalid since it is written “on the corner of your garments” and this is not considered from the garment. Rather, there must remain at least the measuremt of joint of the thumb and not farther than 3 fingers since the hole must be in the garment. [It is good to measure the joint of the thumb without including the fringes while measuring the 3 fingers including the fringe.]
+If the corner is what we call an אורילייזא and is wide, Tzitzit shouldn’t be put on it. If one put Tzitzit on the garment, it is invalid since it is written “on the corner of your garments” and this is not considered from the garment. Rather, there must remain at least the measurement of joint of the thumb and not farther than 3 fingers since the hole must be in the garment. [It is good to measure the joint of the thumb without including the fringes while measuring the 3 fingers including the fringe.]
 
 
 ###### Shulchan Arukh, Orach Chayim 11:12
@@ -4130,7 +4130,7 @@ If there is no one there who knows how to be the leader except a boy of 13 years
 מי שאינו בעל זקן כל שניכר בו שהגיע לכלל שנים שראוי להתמלאות זקנו נתמלא זקנו קרינן ביה הילכך בן כ' שנה אע"פ שאין לו זקן ממנין אותו: הגה וכן אם היה לו זקן אפי' מעט קרינן ביה נתמלא זקנו אם הוא מבן י"ח ולמעלה: [ב"י בשם מ"ס פי"ד ונ"י פ' הקורא עומד]:
 
 
-Someone who is not bearded: anyone for whom it is recognized that he has arrived at the general age where it is proper to have filled in his beard, we call him one who has filled his beard. If he is 20 years old, even though he doesn't have a beard we appoint him. Gloss: And even if he had a beard even a small one, we call him one who has filled his beard if he is 18 years old older. [Beit Yosef in the name of Tractate Soferim chapter 14 and Nimukei Yosef on "HaKorei Omeid"]
+Someone who is not bearded: anyone for whom it is recognized that he has arrived at the general age where it is proper to have filled in his beard, we call him one who has filled his beard. If he is 20 years old, even though he doesn't have a beard we appoint him. Gloss: And even if he had a beard even a small one, we call him one who has filled his beard if he is 18 years old or older. [Beit Yosef in the name of Tractate Soferim chapter 14 and Nimukei Yosef on "HaKorei Omeid"]
 
 
 ###### Shulchan Arukh, Orach Chayim 53:9
@@ -4365,7 +4365,7 @@ One does not say amen to "melekh mehulal batishbahot" (in the middle of Yishtaba
 המספר בין ישתבח ליוצר עבירה היא בידו וחוזר עליה מעורכי המלחמה ויש מי שאומר שלצרכי ציבור או לפסוק צדקה למי שבא להתפרנס מן הצדקה מותר להפסיק: הגה ומזה נתפשט מה שנהגו בהרבה מקומות לברך חולה או לקבול בב"ה שיעשו לו דין בין ישתבח ליוצר דכל זה מקרי לצורך מצוה ולאחר כך כשחוזרין להתפלל יאמר השליח צבור מקצת פסוקי דזמרה ויאמר קדיש עליהם כי לעולם אין אומרים קדיש בלא תהלה שלפניו ולכן מתחילין ערבית בלא קדיש [כל בו] וכן מי שלא היה לו ציצית או תפילין והביאו לו בין ישתבח לקדיש יכול להניחם ולברך עליהם אבל בין קדיש לברכו לא יפסיק בשום דבר [א"ז פרק תפלת והשחר] וכ"ש שלא יפסיק לאחר שאמר הש"צ ברכו קודם שמתחילין ברכת יוצר: [ב"י סוף סי' נ"ז בשם המנהיג וע"ל סוף סי' נ"ו]:
 
 
-One who speaks between Yishtabah and Yotzer - it is a sin in his hand, and would be required to return from the battlefield [due to fear of sin leading to death] (see Deut. 24, Sotah 44b). But there are those who say that it is permitted to interrupt at that point for communal needs or to bestow charity to those who come to be provided for from charity. Gloss: From this stems the custom in many places to say a blessing for the sick or for a claimant to ask for judgement between Yishtabah and Yotzer, because these are instances of (interruptions for) the purpose of a mitzvah. And after that, when they resume praying, the leader says a bit of pesukei dezimra and then kaddish on those verses, since we do not say kaddish without a psalm before it. This is why the evening service begins without a kaddish (Kol Bo), and why one who did not have a tallit or tefillin at the start of the (morning) service and one was brought to them between Yishtabah and kaddish, can put them on and say the blessings. But between kaddish and Barkhu, one must not stop for any purpose (Or Zarua), and all the more so not stop after the leader has said Barkhu and before they begin saying the Yotzer blessing (Beit Yosef).
+One who speaks between Yishtabah and Yotzer - it is a sin in his hand, and would be required to return from the battlefield [due to fear of sin leading to death] (see Deut. 24, Sotah 44b). But there are those who say that it is permitted to interrupt at that point for communal needs or to bestow charity to those who come to be provided for from charity. Rema: From this stems the custom in many places to say a blessing for the sick or for a claimant to ask for judgement between Yishtabah and Yotzer, because these are instances of (interruptions for) the purpose of a mitzvah. And after that, when they resume praying, the leader says a bit of pesukei dezimra and then kaddish on those verses, since we do not say kaddish without a psalm before it. This is why the evening service begins without a kaddish (Kol Bo), and why one who did not have a tallit or tefillin at the start of the (morning) service and one was brought to them between Yishtabah and kaddish, can put them on and say the blessings. But between kaddish and Barkhu, one must not stop for any purpose (Or Zarua), and all the more so not stop after the leader has said Barkhu and before they begin saying the Yotzer blessing (Beit Yosef).
 
 
 
@@ -5979,7 +5979,7 @@ One should be careful from hearing a woman's singing voice at the time of the Re
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/75:4](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/75:4)
 
 
-אסור לקרות כנגד ערוה אפי' של עכו"ם וכן כנגד ערות קטן אסור: [ויש מתירין נגד ערות קטן כל זמן שאינו ראוי לביאה רבינו ירוחם הרא"ש פרק מי שמתו ומהר"א מפראג] וכן עיקר [עיין בי"ד סימן רס"ה]:
+אסור לקרות כנגד ערוה אפי' של עכו"ם וכן כנגד ערות קטן אסור: ויש מתירין נגד ערות קטן כל זמן שאינו ראוי לביאה [רבינו ירוחם והרא"ש פרק מי שמתו ומהר"א מפראג] וכן עיקר [עיין בי"ד סימן רס"ה]:
 
 
 It is forbidden to recite [the Recitation of the Sh'ma] in front of "nakedness", even that of a non-Jew and so too in front of the "nakedness" of a minor it is forbidden. And there are those that permit [it] in front of the "nakedness" of a minor so long as [the child] is not considered capable of sexual intercourse (Rabeinu Yerucham - the Rosh on Chapter "Mi Shemeito" and Mahara of Prague). And that is the main opinion. (see Yoreh Deah, Siman 265)
@@ -7129,7 +7129,7 @@ One who is engaged in communal needs is like someone who is engaged in Torah, me
 
 
 **צריך לכוין נגד ארץ ישראל ודין הרוכב או יושב בספינה. ובו ט סעיפים:**
-בקומו להתפלל אם היה עומד בח"ל יחזור פניו כנגד ארץ ישראל ויכוין גם לירושלים ולמקדש ולבית קדשי הקדשים היה עומד בא"י יחזיר פניו כנגד ירושלים ויכוין גם למקדש ולבית קדשי הקדשים. היה עומד בירושלים יחזיר פניו למקדש ויכוין גם לבית קדשי הקדשים היה עומד אחורי הכפורת מחזיר פניו לכפורת:
+בקומו להתפלל אם היה עומד בח"ל יחזיר פניו כנגד ארץ ישראל ויכוין גם לירושלים ולמקדש ולבית קדשי הקדשים היה עומד בא"י יחזיר פניו כנגד ירושלים ויכוין גם למקדש ולבית קדשי הקדשים. היה עומד בירושלים יחזיר פניו למקדש ויכוין גם לבית קדשי הקדשים היה עומד אחורי הכפורת מחזיר פניו לכפורת:
 
 
 When he gets up to pray if he was standing outside the Land of Israel, he should return his face toward the Land of Israel and focus also on Jerusalem and to the Temple and to the Holy of Holies. If he was standing in Jerusalem he should return his face to the Temple and focus also to the Holy of Holies. If he was standing behind the (Ark) he should return his face to the (Ark)....
@@ -10329,7 +10329,7 @@ Nowadays, our custom is to not translate [aloud from the Aramaic Targum during t
 
 
 **To Not Speak at the Time of the Torah Reading. Containing 4 S'ifim:**
-It is forbidden to exit [the synagogue] and leave the Torah while it is open. But between one person's [aliyah] andanother, it is permitted.
+It is forbidden to exit [the synagogue] and leave the Torah while it is open. But between one person's [aliyah] and another, it is permitted.
 
 
 ###### Shulchan Arukh, Orach Chayim 146:2
@@ -10486,8 +10486,8 @@ The prayer leader does not have permission to uncover the Ark in [front of] the 
 אין הצבור רשאים לצאת מב"ה עד שיצניעו ס"ת [מיהו אם אינם יוצאים רק יחיד לית לן בה] (ב"י בשם הר"י בחידושי מגילה) ואם מצניעים הס"ת בבית אחר אם אין לב"ה אלא פתח א' צריכין להתעכב עד שיצא הס"ת וילכו אחריו למקום שמצניעין אותו שם ואם יש לב"ה שני פתחי' יכולים לצאת בפתח אחד קודם שיצא הס"ת בפתח האח' ובלבד שילכו אחר הס"ת וילוהו למקום שמצניעין אותו שם: הגה ובמקומות שמצניעין אותו בהיכל שהוא הארון בב"ה מצוה לכל מי שעוברת לפניו ללותה עד לפני הארון שמכניסין אותו שם [ד"ע ומהרי"ל] וכן הגולל ילך אחר הס"ת עד לפני הארון ועומד שם עד שיחזירו הס"ת למקומה [הג"מ פי"ב מה"ת וכן נוהגין במגביה הס"ת כי הוא עיקר הגולל וכמו שנתבאר סי' קמ"ז ס"ד ויש שכתבו שבאים התינוקות לנשק התורה כדי לחנכם ולזרזם במצות וכן נוהגין [אור זרוע]:
 
 
-**The Congregation May Not Leave The Synagogue Until the Torah Has Been Put Away. Containing 1 Se'if:**
-The congregation may not leave the synagogue until after they put away the Torah. [However, if they are all not leaving, but it's just an individual that is, then that is not an issue] (Beit Yosef in the name of the R'i in Chidushei Megillah). And if they store the Torah in another house: if the synagogue has only one doorway, then they must wait inside until the Torah exits and then they should follow after it to the place where they store it; but if it has 2 doorways, they may exit from one doorway before the Torah exits from the other doorway, as long as they will follow the Torah afterwards and escort it to the place where they store it. Rem"a: And in places where they store it in the heichal, which is the ark within the synagogue, it is a mitzvah, for anyone who the Torah passes by, to escort it up until the ark that they will place it into [His own opinion, and Mahari"l]. And so too, the one who rolls the Torah should follow after the Torah until the ark and stand there until they return the Torah to its place. [Hagahot Maimoni - chapter 12 of Hilchot Torah]. And similarly, the custom is that the one who lifts the Torah [follows as well] since he is [considered] the main "roller" as we explained in siman 147: se'if 4. Some say that we should bring children to kiss the Torah in order to educate them and train them to do mitzvot, and that is the [prevalent] custom. [Ohr Zaruah]
+**The Congregation May Not Leave The Synagogue Until they Conceal the Torah Scroll. Containing 1 S'if:**
+The congregation does not have permission to leave the synagogue until after they conceal the Torah scroll. (However, if they are all not leaving, but it's just an individual that is, then that is not an issue) (Beit Yosef in the name of the R'i in Chidushei Megillah). And if they conceal the Torah in another house: if the synagogue has only one entrance, then they must delay until the Torah scroll has left and then they should go after it to the place in which they conceal it. If the synagogue has 2 entrances, they may leave using one entrance before the Torah scroll leaves using the other entrance, as long as they will go after the sefer Torah and escort it to the place where they conceal it. Gloss: And in places where they conceal it in the "heikhal", which is the cabinet [i.e. Ark] within the synagogue, it is a obligation for anyone in front of whom it [i.e. the Torah] passes to escort it up until [it is] in front of the Ark into which they are inserting it (His own opinion, and Mahari"l). And so too, the one who rolls the sefer Torah should go after the Torah until in front of the Ark and stand there until they return the Torah to its place. (Hagahot Maimoni - chapter 12 of Hilkhot Torah). And similarly, we practice that the one who lifts the sefer Torah [follows as well] since this is [considered] the main "roller" as we explained in Siman 147: S'if 4. And there are those who have written that the children come to kiss the Torah in order to educate them and train them to be zealous in [doing] mitzvot, and that is how we practice. (Ohr Zaruah)
 
 
 
@@ -10502,8 +10502,8 @@ The congregation may not leave the synagogue until after they put away the Torah
 כופין בני העיר זה את זה לבנות ב"ה ולקנות להם תורה נביאים וכתובים (וע"ל סי' נ"ה סכ"ב אם כופין זה את זה לשכור להם מנין):
 
 
-**The Building of a Synagogue and that it Should be Tall. Containing 5 Se'ifim:**
- The residents of a city may force one another in order to build a synagogue and to buy a Torah, Nevi'im, and Ketuvim. (And see above, siman 55, se'if 22 [regarding] if they may force one another to hire a quorum for themselves.)
+**The Building of a Synagogue and that it Should be Tall. Containing 5 S'ifim:**
+ The residents of a city may compel one another in order to build a synagogue and to buy a Torah, Prophets, and Writings. (And see above, siman 55, s'if 22 [regarding] if they may compel one another to hire a quorum for themselves.)
 
 
 ###### Shulchan Arukh, Orach Chayim 150:2
@@ -10514,7 +10514,7 @@ The congregation may not leave the synagogue until after they put away the Torah
 אין בונין ב"ה אלא בגבהה של עיר ומגביהין אותו עד שיהיה גבוה מכל בתי העיר שמשתמשים בהם לאפוקי בירניות [פי' בנינים העשוים לנוי תרגום שכיות החמדה בירניות שפירן ומגדלים שאין משתמשין בהם וגג שהוא משופע ואינו ראוי לתשמיש משערין עד המקום שהוא ראוי לתשמיש דהיינו שאם יש עלייה תחת הגג לא תהא גבוה יות' מב"ה: הגה ובשעת הדחק או שיש אימת מלכות שאינן רשאים לבנות ב"ה כדינו מותר להתפלל בבית אע"פ שדרין בעליה על גביו ובלבד שינהגו בעליה שעליו בנקיות כמו שיתבאר סוף סימן קנ"א [ב"י סי' קנ"ד בשם מהר"י בן חביב]:
 
 
-The synagogue must be built at the height of the city, and it should be raised until it is taller than the usable parts of all other buildings, as opposed to "biraniyot" (ie. structures used for decoration; spires) or other purposes or unused towers) and towers that are unused. A slanted roof that is not fit to use, we measure it from the part that is fit to use, that is, if there is an attic under that roof, it should not be higher than the synagogue. Rem"a: In an extenuating circumstance, or if there is a decree from the king/government that they are not allowed to build a synagogue according to Jewish law, then it is permitted to pray in a house, even though someone lives in the attic above it, as long as those living in the attic above it keep it clean, as will be explained at the end of section 151 (Beit Yosef - siman 154 in the name of Mahari b. Chaviv).
+When we build a synagogue, it should only be at the height of the [rest of the] city, and we heighten it until it is taller than the buildings of all [other] buildings that are in use up to [but not including] the ends of the spires(i.e., structures used for ornamental purposes; Targum [Yonatan] for delightful imagery (Isaiah 2:16): decorative spires) and towers that are not used. A slanted roof that is not usable: we measure it from the part that is fit to usable, that is, if there is an attic under the roof, it should not be higher than the synagogue. Gloss: In an extenuating circumstance, or if there is fear of the [secular] regime that doesn't give permission to build a synagogue according to its [i.e. Jewish] law, then it is permitted to pray in a house, even though someone lives in the attic above it, as long as those living in the attic above it keep it clean, as will be explained at the end of siman 151 (Beit Yosef - siman 154 in the name of Mahari b. Chaviv).
 
 
 ###### Shulchan Arukh, Orach Chayim 150:3
@@ -10525,7 +10525,7 @@ The synagogue must be built at the height of the city, and it should be raised u
 מי שהגביה ביתו יותר מבית הכנסת יש אומרים שכופין אותו להשפילו (ואם עשה בנין גבוה יותר בקרן אחד מב"ה סגי בכך). (הגהות מיימון פי"א מה"ת שכן היה מעשה):
 
 
-If someone built/raised his house higher than the synagogue, some say that we force him to lower it. Rema: And if they made the structure taller in just one corner of the synagogue (ie. taller than the other buildings in the city), that is sufficient (Hagahot Maimon - chapter 11 of the Laws of Prayer; for there was an actual case like this).
+If one built up one's house higher than the synagogue, there are those who say that that we compel [that person] to lower it. (And if one made the structure in [just] one corner of the synagogue taller [than other buildings], that is sufficient) (Hagahot Maimon - chapter 11 of the Laws of Prayer; for there was such a case).
 
 
 ###### Shulchan Arukh, Orach Chayim 150:4
@@ -10536,7 +10536,7 @@ If someone built/raised his house higher than the synagogue, some say that we fo
 הבונה כנגד חלון ב"ה אין מספיק לו בהרחקת ד' אמות לפי שהוא צריך אור גדול:
 
 
-One who builds facing a window of a synagogue, it is not sufficient to leave 4 cubits space, because it (ie. the synagogue) needs a lot of light.
+One who builds facing a window of a synagogue, it is not sufficient for it to be at a distance of 4 cubits, because it (i.e. the synagogue) needs abundant light.
 
 
 ###### Shulchan Arukh, Orach Chayim 150:5
@@ -10547,7 +10547,7 @@ One who builds facing a window of a synagogue, it is not sufficient to leave 4 c
 אין פותחין פתח ב"ה אלא כנגד הצד שמתפללין בו באותה העיר שאם מתפללים למערב יפתחוהו למזרח כדי שישתחוו מן הפתח נגד הארון שהוא ברוח שמתפללין נגדו: הגה ועושין בימה באמצע ב"ה שיעמוד עליה הקורא בתורה וישמעו כלם וכשמתפלל הש"ץ פניו כלפי הקודש וסדר הישיבה כך הוא הזקנים יושבים פניהם כלפי העם ושאר העם כלם יושבים שורות שורות פניהם כלפי הקודש ופני הזקנים (טור):
 
 
-The entrance to the synagogue should be opposite the direction that people pray in that city. [For example], if they pray Westward, the entrance should be in the East, in order that they should bow from the entryway towards the ark that is in the direction they pray towards. Rem"a: And we place the bimah (ie. table) in the middle of the synagogue so that when the reader stands to read from the Torah, everyone can hear. And when the prayer leader prays, he faces the holy. The seating arrangement is that the elders sit in front facing the congregation and everyone else sits in rows facing the holy and facing the elders (Tur).
+We do not open up a synagogue entrance unless it is opposite the direction in which they pray in that city. [For example], if they pray Westward, the entrance should be in the East, in order that they should bow from the entryway towards the ark that is in the direction they pray towards. Gloss: And we place the bimah [platform with reading table] in the middle of the synagogue so that when the Torah reader stands on it, everyone can hear [the Torah reading], and when the prayer leader prays, the prayer leader faces the "kodesh" [ark/site of holiness]. And this is the order of seating: the elders sit facing the people, and all the remaining people sit in rows facing the "kodesh" and facing the elders (Tur).
 
 
 
@@ -10562,8 +10562,8 @@ The entrance to the synagogue should be opposite the direction that people pray 
 בתי כנסיות ובתי מדרשות אין נוהגין בהם קלות ראש כגון שחוק והתול ושיחה בטילה ואין אוכלין ושותים בהם ולא מתקשטין בהם ולא מטיילין בהם ולא נכנסים בהם בחמה מפני החמה ובגשמים מפני הגשמים ות"ח ותלמידיהם מותרים לאכול ולשתות בהם מדוחק: (וי"א דבבית המדרש אפי' שלא מדוחק שרי): (ר"ן פרק בני העיר) ואין מחשבין בהם חשבונות אלא אם כן הם של מצוה כגון קופה של צדקה ופדיון שבויים ואין מספידין בהם אלא אם כן יהיה ההספד לאחד מגדולי העיר שכל בני העיר מתקבצים ובאים להספידו ואם צריך ליכנס בהם לצרכו כגון לקרא לאדם יכנס ויקרא מעט או יאמר דבר שמועה ואח"כ יקראנו כדי שלא יהא נראה כאלו נכנס לצרכו ואם אינו יודע לא לקרות ולא לשנות יאמר לא' מהתינוקות קרא לי פסוק שאתה קורא בו או ישהה מעט ואח"כ יצא שהישיבה בהם מצוה שנאמר אשרי יושבי ביתך (ושיעור הישיבה כדי הלוך שני פתחים) (לדעת הי"מ בסי' צ' ס"ס כ') (מרדכי ר"פ השותפין):
 
 
-**The Laws of the Holiness of a Synagogue (12 Paragraphs):** 
- One may not behave in a lightheaded manner in a synagogue or house of study; for example, laughter, humor, or pointless chatter. One should not eat or drink there nor should one adorn oneself there or walk about there. One should not enter there in summer due to the sun, nor in winter to seek shelter from the rain. Torah scholars and their disciples are permitted to eat and drink there if it is really necessary. (And some say that in a house of study, it is permissible even when it is not a real necessity) (Ran, chapter "B'nai Ha'ir"). No monetary calculations should be made there unless they are for the purpose of a mitzvah; for example, collecting money for charity, or for the redemption of captives. No eulogies should be delivered there unless it is for one of the leaders of the city, for all the people assemble there to eulogize him. If one must enter there for his own needs; for example, to call someone - he should enter and read a little or study something and then call him so that it should not appear as if he has entered for his own needs. And if he doesn't know how to read Torah or study, he should say to one of the children: "read me a verse that you are learning", or he should just delay there for a bit and then leave because sitting there is a mitzvah, as it says "praiseworthy are those who dwell in Your house". (And the amount of time required to sit is the time is takes to walk the width of two doorways.) (According to the opinion of "those that explain" in siman 90 at the end of se'if 20) (Mordechi at the beginning of chapter "HaShut'fin").
+**The Laws of the Holiness of a Synagogue (containing 12 S'ifim):** 
+ In a synagogue or house of study, one may not behave frivolously; for example: laughter, sarcasm, or idle conversation. One should not eat or drink in them, nor should one groom oneself in them or strolling around in them. One should not enter them in summer due to [seeking shelter from] the sun, nor in the rainy season due to [seeking shelter from] the rain. Torah scholars and their students are permitted to eat and drink in them out of necessity. (And there are those who say that in a house of study, it is permissible even when it is not out of necessity) (Ran, [on] chapter "B'nai Ha-ir" [i.e. Talmud Megillah, Chapter 4]). No monetary calculations should be made there unless they are for the purpose of a mitzvah; for example, collecting money for tz'dakah, or for the redemption of captives. And we do not deliver eulogies in them unless would be for a eulogy for one of the prominent members of the city, for all the people assemble and come to eulogize [such a person]. If one must enter there for one's own needs; for example, to call someone - one should enter and read a little or say a word of [Torah], and after that, call [the person] so that it should not appear as if one has entered for one's own needs. And if one doesn't know how to read or repeat [e.g., a mishnah], one should say to one of the children: "recite a verse that you are learning for me", or one should delay there for a bit, and [only] after that, leave, because sitting among them is a mitzvah, as it says "praiseworthy are those who dwell in Your house". (And the amount of sitting time corresponds to [the time is takes for] walking [the width of] two doorways.) (According to the opinion of "those that explain" in siman 90 at the end of s'if 20) (Mordechai at the beginning of chapter "HaShut'fin" [Bava Batra, Chapter 1]).
 
 
 ###### Shulchan Arukh, Orach Chayim 151:2
@@ -10574,7 +10574,7 @@ The entrance to the synagogue should be opposite the direction that people pray 
 י"א שמה ששנינו בקדושת בתי מדרשות ר"ל של רבים דומיא דב"ה אבל יחיד הקובע מדרש בביתו לצרכו אין לו קדושה כ"כ:
 
 
-Some say that that which we taught about the sanctity of a house of study is speaking about a public one which is similar to a synagogue, but an individual who establishes a room for Torah study in his home for his needs, that room doesn't have that much sanctity.
+There are some who say that what we taught about the sanctity of houses of study is intended to speak about public ones which are similar to a synagogue, but an individual who establishes [a room for] Torah study in one's home for one's [own] needs, it doesn't have so much sanctity.
 
 
 ###### Shulchan Arukh, Orach Chayim 151:3
@@ -10585,7 +10585,7 @@ Some say that that which we taught about the sanctity of a house of study is spe
 אין ישנים בב"ה אפילו שינת עראי אבל בבית המדרש מותר:
 
 
-It is forbidden to sleep in a synagogue, even for a short nap, but this is permitted in a house of study.
+We don't sleep in a synagogue, even for impromptu sleep, but in a house of study, it is permitted.
 
 
 ###### Shulchan Arukh, Orach Chayim 151:4
@@ -10596,7 +10596,7 @@ It is forbidden to sleep in a synagogue, even for a short nap, but this is permi
 לצורך ב"ה מותר לאכול ולישן בתוכו ומטעם זה ישנים בליל יום הכפורים בב"ה ואפילו לצורך מצוה אחרת כגון כשנקבצים לעבר השנה בב"ה מותר לאכול שם:
 
 
-For the needs of the synagogue, one may eat and sleep in it. For this reason, one may sleep in a synagogue the night of Yom Kippur. And even for the needs of another mitzvah; for example, when people gather to make a leap year in the synagogue, it would be permissible to eat there.
+For the needs of the synagogue, it is permitted to eat and sleep inside it. For this reason, they sleep in a synagogue the night of Yom Kippur. And even for the needs of another mitzvah; for example, when they gather to intercalate the year in the synagogue, it is permitted to eat there.
 
 
 ###### Shulchan Arukh, Orach Chayim 151:5
@@ -10607,7 +10607,7 @@ For the needs of the synagogue, one may eat and sleep in it. For this reason, on
 היו לב"ה שני פתחים לא יכנס בפתח זה לעשותו דרך לצאת בפתח השני לקצר דרכו ואם היה הדרך עובר קודם שנבנה ב"ה מותר וכן אם לא נכנס בו תחלה כדי לקצר דרכו מותר לעשותו דרך וכשנכנס בו להתפלל מותר למי שנכנס בפתח זה לצאת בפתח אחר:
 
 
-If the synagogue has two entrances, one should not enter through one to make a path to the second one to shorten your route. If there was a path there before they built the synagogue, it is permitted. Similarly, if one didn't enter initially to take a short cut, it is permitted to make a path. When you enter to pray, you can leave from a different way than you came.
+If the synagogue has two entrances, one should not enter through this [i.e., the first] entrance to make a path to leave via the second entrance to shorten one's route. If there was a path passing there before they built the synagogue, it is permitted. Similarly, if one didn't enter it initially in order to shorten one's route, it is permitted to make it a path. And when one enters it to pray, it is permitted for the one who entered by this [i.e., the first] entrance to leave via another entrance.
 
 
 ###### Shulchan Arukh, Orach Chayim 151:6
@@ -10618,7 +10618,7 @@ If the synagogue has two entrances, one should not enter through one to make a p
 מותר ליכנס בב"ה במקלו ובתרמילו ובאפונדתו (פי' מיני כיסים תרגום ובילקוט ובתרמילו) ויש אוסרים ליכנס בו בסכין ארוך או בראש מגולה:
 
 
-It's permitted to enter the synagogue with one's staff or satchel or backpack (meaning, purses - the Targum has backpack to be briefcase). Some forbid entering with a long knife or with it's blade uncovered.
+It is permitted to enter the synagogue with one's staff, traveling bag, or *afunda* (meaning, kinds of money-pouches/bags that are translated as *yalkut* and *tarmil* (specific types of bag)). There are some who forbid entering it with a long knife or with an uncovered head.
 
 
 ###### Shulchan Arukh, Orach Chayim 151:7
@@ -10629,7 +10629,7 @@ It's permitted to enter the synagogue with one's staff or satchel or backpack (m
 יכול לרוק בו ובלבד שישפשפנו ברגליו או יהיה שם גמי שאם ירוק לתוכו לא יהא נראה:
 
 
-One may spit in [the synagogue] as long as you rub it out with your feet or if there are reeds there that if you spit into them, it will not be visible.
+One may spit in it [i.e., the synagogue] as long as one rubs it out with one’s feet or if there are reeds/straw there [on the floor] that if one spits into them, it will not be visible.
 
 
 ###### Shulchan Arukh, Orach Chayim 151:8
@@ -10640,7 +10640,7 @@ One may spit in [the synagogue] as long as you rub it out with your feet or if t
 טיט שעל רגליו ראוי לקנחו קודם שיכנס להתפלל וראוי שלא יהא עליו ולא על בגדיו שום לכלוך:
 
 
-Mud that is on one's feet, it is fitting to clean it off before entering to pray. It is fitting that there not be on one's body or clothing any dirt.
+Mud that is on one's feet, it is appropriate to wipe it off when one enters to pray. And it is appropriate that there not be any dirt on one or on one’s clothing.
 
 
 ###### Shulchan Arukh, Orach Chayim 151:9
@@ -14095,7 +14095,7 @@ If there were three groups, each consisting of four people, and one person from 
 שלשה שאכלו כאחד ושכחו ובירך כל אחד לעצמו בטל מהם הזימון ואין יכולים לחזור ולזמן למפרע וכן אם ברכו שני' מהם אבל אם שכח אחד מהם ובירך השנים יכולים לזמן עם השלישי אע"פ שכבר בירך יכול לומר ברוך שאכלנו משלו והם יוצאי' ידי חובת זימון והוא אינו יוצא ידי זימון שאין זימון למפרע: הגה ואם האחד זימן עם אחרים אף שנים הנשארים אינן יכולים לזמן (ב"י בשם רשב"א):
 
 
-Three people that ate together, but forgot and benched by themselves, missed the mitzvah and they are not allowed to return and say the Zimun out of order. And also if two of them benched together but one forgot, the other two can have a Zimun with the third, even though he already benched, he is able to say "Baruch She'achalnu Mishelo," and they [the other two] fulfill their mitzvah of Zimun through this, but he [the third one] doesn't fulfill his Mitzvah, because he did it out of order. Gloss: and if the third one did the Zimun with others, the first two cannot do the Zimun with him (Beit Yosef in the name of Rashba).
+Three people that ate together, but forgot and benched by themselves, missed the mitzvah and they are not allowed to return and say the Zimun out of order. And also if two of them benched together but one forgot, the other two can have a Zimun with the third, even though he already benched, he is able to say "Baruch She'achalnu Mishelo," and they [the other two] fulfill their mitzvah of Zimun through this, but he [the third one] doesn't fulfill his Mitzvah, because he did it out of order. Rema: and if the third one did the Zimun with others, the first two cannot do the Zimun with him (Beit Yosef in the name of Rashba).
 
 
 ###### Shulchan Arukh, Orach Chayim 194:2
@@ -14106,12 +14106,18 @@ Three people that ate together, but forgot and benched by themselves, missed the
 שלשה שאכלו ויצא אחד מהם לשוק קוראי' אותו ומודיעים לו שרוצים לזמן כדי שיכוין ויצטרף עמהם ויענה עמהם ברכת זמון ויוצאי' ידי חובתן אף על פי שאינו בא ויושב עמהם והני מילי בשלשה אבל בעשרה כיון שצריכין להזכיר את השם אינם מצטרפים עד שיבא וישב עמהם [ועיין לקמן סי' ר' עד היכן ברכת הזימון]:
 
 
+If three people ate together and one of them went out to the market [outside], they call out to him and inform him that they want to make the Zimun [the quorum for Grace After Meals], so that he will focus his intention, join them, and answer the Zimun blessing with them. They fulfill their obligation even though he does not come and sit with them. This applies specifically to three [people]. However, with ten, since they need to mention the Divine Name, they do not join together [to form the quorum] unless he comes and sits with them. [See later in Siman 200 regarding how far the blessing of the Zimun extends.]
+
+
 ###### Shulchan Arukh, Orach Chayim 194:3
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/194:3](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/194:3)
 
 
 שלשה שאכלו כאחד ואין א' מהם יודע כל ברכת המזון אלא אחד יודע ברכה ראשונה ואחד השנייה ואחד השלישית חייבים בזימון וכל אחד יברך הברכה שיודע ואף על פי שאין בהם מי שיודע ברכה רביעית אין בכך כלום אבל לחצאין אין לברך אם האחד אינו יודע כי אם חצי הברכ' שאין ברכ' אחת מתחלק' לשתי':
+
+
+If three people ate together as one, and not a single one of them knows the entirety of the Grace After Meals (Birkat HaMazon), but rather one knows the first blessing, one knows the second, and one knows the third—they are still obligated in the Zimun [the formal invitation]. Each one shall recite the blessing that he knows, and even if there is no one among them who knows the fourth blessing, it is of no consequence. However, they may not recite it by halves if one only knows half of a blessing, for a single blessing cannot be divided between two people.
 
 
 
@@ -14219,7 +14225,7 @@ Lois de l’association pour le zimoun de trois ou de dix – comportant 4 parag
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/197:2](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/197:2)
 
 
-תשעה שאכלו דגן וא' אכל כזית ירק מצטרפין להזכיר השם ואפי' לא טיבל עמהם אלא בציר או לא שתה עמהם אלא כוס אחד שישבו רביעית מכל משקה חוץ מן המים מצטרף עמהם והוא שיהיה המברך אחד מאוכלי הפת ואפילו שבעה אכלו דגן ושלשה ירק מצטרפין אבל ו' לא דרובא דמינכר בעינן:
+תשעה שאכלו דגן וא' אכל כזית ירק מצטרפין להזכיר השם ואפי' לא טיבל עמהם אלא בציר או לא שתה עמהם אלא כוס אחד שיש בו רביעית מכל משקה חוץ מן המים מצטרף עמהם והוא שיהיה המברך אחד מאוכלי הפת ואפילו שבעה אכלו דגן ושלשה ירק מצטרפין אבל ו' לא דרובא דמינכר בעינן:
 
 
 Neuf personnes ont mangé du pain, et une a mangé un kazaït de légume : ils peuvent s’associer pour mentionner le Nom (de Dieu dans le zimoun avec « Eloqénou »). Et même s’il n’a trempé (son aliment) avec eux que dans de la saumure, ou qu’il n’a bu avec eux qu’un seul verre contenant un quart de log (reviiʿt) de toute boisson sauf de l’eau, il s’associe avec eux, à condition que celui qui fait la bénédiction soit un de ceux qui ont mangé du pain. Et même si sept ont mangé du pain et trois ont mangé des légumes, ils s’associent. Mais si six (seulement) ont mangé du pain, cela ne suffit pas, car il faut que la majorité soit reconnaissable.
@@ -14621,7 +14627,7 @@ One blesses "Upon Whose word everything has come into existence" on water in whi
 על פירות הארץ מברך בפה"א:
 
 
-On fruit from the ground one recites *Borei peri ho'adomoh*
+1. On fruit from the ground one recites *Borei peri ho'adomoh*
 
 
 ###### Shulchan Arukh, Orach Chayim 203:2
@@ -14632,6 +14638,9 @@ On fruit from the ground one recites *Borei peri ho'adomoh*
 על תותים הגדלים בסנה בורא פרי האדמה: הגה דלא מקרי עץ אלא שמוציא עליו מעצו אבל מה שמוציא עליו משרשיו לא מקרי עץ והני כיון דכלה עציו לגמרי בחורף והדר פרח משרשיו מברכים עליו בורא פרי האדמה: [טור ומרדכי בשם תשובת הגאונים]:
 
 
+2. For strawberries that grow on a bush, the blessing is Borei Pri Ha'adamah. *Rema: Something is only called a tree if its leaves grow from the wood of the plant. If the leaves grow from its roots, it is not called a tree. These plants, since their stems completely wither away in the winter and then regrow from their roots, are blessed with Borei Pri Ha'adamah. (Tur and Mordechai in the name of a responsum of the Geonim)*
+
+
 ###### Shulchan Arukh, Orach Chayim 203:3
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/203:3](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/203:3)
@@ -14640,7 +14649,7 @@ On fruit from the ground one recites *Borei peri ho'adomoh*
 על המאוזי"ש בורא פרי האדמה:
 
 
-On bananas on recites *Borei peri ho'adomoh*
+3. On bananas on recites *Borei peri ho'adomoh*
 
 
 ###### Shulchan Arukh, Orach Chayim 203:4
@@ -14651,12 +14660,18 @@ On bananas on recites *Borei peri ho'adomoh*
 על פירות שמוציאין אילני סרק שהכל:
 
 
+4.For fruits produced by non-fruit-bearing (wild or uncultivated) trees, the blessing is Shehakol.
+
+
 ###### Shulchan Arukh, Orach Chayim 203:5
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/203:5](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/203:5)
 
 
 בני אסא אע"ג דבשלן והויין כפירות אינו מברך אלא שהכל:
+
+
+5. Even though the fruits of the asa plant, when cooked, become like fruit, one recites only Shehakol over them.
 
 
 ###### Shulchan Arukh, Orach Chayim 203:6
@@ -14667,12 +14682,18 @@ On bananas on recites *Borei peri ho'adomoh*
 על זנגביל שמרקחים אותו כשהוא רטוב בפה"א ונראה דה"ה אם מרקחים אותו יבש כיון שע"י כך הוא ראוי לאכילה הזנגביל עיקר ומברך עליו בורא פרי האדמה:
 
 
+6. For ginger that is preserved while still fresh, the blessing is Borei Pri Ha’adamah. It appears that the same applies if it is preserved when dry, since through this process it becomes fit for eating; the ginger remains the primary substance, and one recites Borei Pri Ha’adamah over it.
+
+
 ###### Shulchan Arukh, Orach Chayim 203:7
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/203:7](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/203:7)
 
 
 בשמים שחוקים ומעורבים עם סוקר הבשמים עיקר ומברך עליהם כדין ברכת אותן בשמים:
+
+
+7. For spices that have been ground and mixed with sugar, the spices are the primary ingredient, and one recites over them the blessing appropriate for those spices.
 
 
 ###### Shulchan Arukh, Orach Chayim 203:8
@@ -14683,7 +14704,7 @@ On bananas on recites *Borei peri ho'adomoh*
 צנון מברך עליו בפה"א:
 
 
-The beracha on raddish is *Borei peri ho'adomoh*
+8. For a radish, one recites Borei Pri Ha’adamah.
 
 
 
@@ -15215,7 +15236,7 @@ One who tastes a cooked dish does not need to recite a blessing unless the amoun
 היו לפניו מיני פירות הרבה אם ברכותיהם שוות ויש ביניהם ממין שבעה מקדים מין שבעה אע"פ שאינו חביב כמו המין האחר ואם אין ביניהם ממין שבעה מקדים החביב ואם אין ברכותיהן שוות אפי' יש בהן ממין שבעה כגון צנון וזית איזה מהם שירצ' יקדים ואפי' אינו חביב וי"א שגם בזה צריך להקדי' החביב ונקרא חביב המין שרגיל להיו' חביב עליו אפי' אם עתה חפץ במין השני:
 
 
-Lois de priorité dans les bénédictions sur les fruits (6 paragraphes) : S’il a devant lui plusieurs sortes de fruits, si leurs bénédictions sont identiques et qu’il y a parmi eux une des espèces des « sept espèces » (Chivat haMinim), on donnera la priorité à cette espèce-là, même si elle n’est pas aussi chère à ses yeux qu’une autre. Si aucune d’elles n’appartient aux sept espèces, on donnera la priorité à celle qu’il préfère. Mais si leurs bénédictions ne sont pas les mêmes, même s’il y a parmi eux une des sept espèces — par exemple un radis (tsnon) et une olive — il pourra commencer par celui qu’il veut, même s’il n’est pas son préféré. Certains disent toutefois que même dans ce cas, il faut donner la priorité à ce qu’on préfère. Et ce qu’on appelle « préféré », c’est l’espèce qu’on a l’habitude d’aimer, même si actuellement on désire l’autre.
+1. **The laws of precedence in blessings over fruit, comprising six sections:** If several types of fruit are before him and their blessings are equal, and among them is one of the seven species, he gives precedence to the seven species even if it is not as beloved to him as the other type; and if none of them are from the seven species, he gives precedence to whichever he finds most beloved; but if their blessings are not equal, even if one of them is from the seven species, such as a radish and an olive, he may give precedence to whichever one he wishes, even if it is not the beloved one; and there are those who say that even in this case he must give precedence to the beloved one; and "beloved" means the type that is generally beloved to him, even if at this moment he actually desires the other type.
 
 
 ###### Shulchan Arukh, Orach Chayim 211:2
@@ -15226,7 +15247,7 @@ Lois de priorité dans les bénédictions sur les fruits (6 paragraphes) : S’i
 ולהרמב"ם אם היה מין אחד חביב לו יות' בין שברכותם שוות בין שאינם שוות בין שיש בהן ממין שבעה בין שאין בהם ממין שבעה מקדים החביב לו אז באותה שעה ואם אינו רוצ' בזה יותר מבזה אם יש ביניה' משבעת המינים עליו מברך תחלה:
 
 
-Et selon le Rambam, s’il y a une espèce qu’il préfère davantage — que les bénédictions soient les mêmes ou différentes, qu’il y ait parmi elles une des sept espèces ou non — il donnera toujours la priorité à celle qu’il préfère à ce moment-là. Mais s’il ne préfère pas l’une plus que l’autre, alors, s’il y a parmi elles une des sept espèces, c’est sur celle-là qu’il fera la bénédiction en premier.
+2. And according to the Rambam, if one type is more beloved to him, whether their blessings are equal or not equal, whether among them is one of the seven species or not, he gives precedence to whichever is beloved to him at that moment; and if he does not desire one more than the other, then if among them is one of the seven species, he recites the blessing over it first.
 
 
 ###### Shulchan Arukh, Orach Chayim 211:3
@@ -15237,7 +15258,7 @@ Et selon le Rambam, s’il y a une espèce qu’il préfère davantage — que l
 הביאו לפניו דבר שברכתו בפה"ע ודבר שברכתו שהכל בפה"ע קודמת שהיא חשובה שאינה פוטרת אלא דבר אחד וכן בפה"א ושהכל בפה"א קודמת ואם הביאו לפניו בפה"ע ובורא פרי האדמה איזה מהם שירצה יקדים וי"א שבורא פרי העץ קודם:
 
 
-S’il a devant lui un aliment dont la bénédiction est « Boré Péri Ha‘ets » (béni sois-Tu... qui crées le fruit de l’arbre) et un autre dont la bénédiction est « Chéhakol Nihyá Bidvaro » (tout est créé par Sa parole), la bénédiction de « Ha‘ets » a priorité, car elle est plus spécifique et ne dispense qu’un seul type d’aliment. Il en est de même pour « Ha’adama » (le fruit de la terre) et « Chéhakol » : on donne la priorité à « Ha’adama ». Mais si on lui présente un aliment relevant de « Ha‘ets » et un autre de « Ha’adama », il peut commencer par celui qu’il souhaite. Cependant, certains disent que « Boré Péri Ha‘ets » a priorité.
+3. If they brought before him something whose blessing is Borei Pri HaEtz and something whose blessing is Shehakol, Borei Pri HaEtz takes precedence because it is the more distinguished blessing, since Shehakol does not exempt anything except for that one item; and likewise if they brought Borei Pri HaAdama and Shehakol, Borei Pri HaAdama takes precedence; and if they brought before him Borei Pri HaEtz and Borei Pri HaAdama, he may give precedence to whichever he wishes; and there are those who say that Borei Pri HaEtz takes precedence.
 
 
 ###### Shulchan Arukh, Orach Chayim 211:4
@@ -15248,7 +15269,7 @@ S’il a devant lui un aliment dont la bénédiction est « Boré Péri Ha‘ets
 כל הקודם בפסוק ארץ חטה ושעור' קודם לברכה וארץ בתרא הפסיק הענין וכל הסמוך לו חשוב מהמאוחר ממנו לארץ קמא הלכך תמרי' קודמים לענבים שזה שני לארץ בתרא וזה ג' לארץ קמא: הגה ודוקא שאוכל ענבים כמות שהן אבל אם עשה מהן יין שקובע ברכה לעצמו בפה"ג חשובה והיא קודמת לברך עליו תחלה אבל מעשה קדיר' מחמשת מיני דגן היא חשובה יות' מברכת היין כל הנאמר סמוך לארץ קמא קודם למה שנאמר סמוך לארץ בתרא לאחר ששוה לו בסמיכה לארץ [טור]:
 
 
-GLOSS: ...If one made wine from grapes, upon which one blesses Creator of the fruits of the vine, one proceeds to bless upon it first. But a cooked/baked good made from the five grains is more important than the blessing over wine....
+4. Whatever comes first in the verse "a land of wheat and barley" takes precedence in the blessing, and the second "land" interrupts the matter, so that whatever is adjacent to it is more distinguished than what comes later relative to the first "land"; therefore dates take precedence over grapes, since grapes are second relative to the second "land" while dates are third relative to the first "land." *Rama: This applies specifically when one eats the grapes as they are, but if he made wine from them, which establishes its own blessing of Borei Pri HaGafen, that blessing is more distinguished and it takes precedence to bless over it first; but a cooked dish made from the five grain species is more distinguished than the blessing over wine. Whatever is mentioned adjacent to the first "land" takes precedence over what is mentioned adjacent to the second "land," once it is equal to it in proximity to that "land" [Tur].*
 
 
 ###### Shulchan Arukh, Orach Chayim 211:5
@@ -15259,7 +15280,7 @@ GLOSS: ...If one made wine from grapes, upon which one blesses Creator of the fr
 הא דחטה ושעורה קודמין דוקא כשעשה מהם תבשיל או פת אבל הכוסס חטה שברכתו ב"פ האדמה אינה קודמת לברכת בפה"ע: הגה ברכת המוציא קודם לברכת במ"מ וכ"ש לשאר ברכות (אגור) ואע"ג שהדבר השני חשוב או חביב עליו (וכן יש לדקדק מדברי הגה"מ פ"ט ומסמ"ק שהבי' הטור וכל בו וב"י בשם רמב"ם) וכל הא דאמרינן דאחד קודם לחבירו היינו שרוצה לאכול משניהם לכן יש להקדים החביב או החשוב אבל אם אינו רוצה לאכול משניהם אינו מברך רק על זה שרוצה לאכול אע"פ שגם השני מונח לפניו (תרומת הדשן סי' ל"ג) וכל זה דצריך להקדים היינו דוקא לכתחלה אבל אם עבר ובירך על השני אם הברכות שוות יוצא וא"צ לחזור ולברך על זה שהיה לו להקדים ובלבד שיהא דעתו גם כן עליו בברכתו (ב"י סי' ר"ו ובזה הסי' בשם רשב"א):
 
 
-Le fait que le blé et l’orge aient priorité ne s’applique que lorsqu’on en a fait un plat cuit ou du pain ; mais si l’on mâche des grains de blé crus (dont la bénédiction est Boré Péri Ha’adama), cette bénédiction n’a pas priorité sur Boré Péri Ha‘ets. Rema : La bénédiction Hamotsi (sur le pain) a priorité sur Mezonot (produits à base de céréales hors pain), et à plus forte raison sur toutes les autres bénédictions (Agur). Et cela reste vrai même si l’autre aliment est plus important ou plus apprécié. (C’est également ce qu’on peut déduire des propos du Hagahot Maimoniot au chapitre 9, ainsi que du Sefer Mitsvot Katan, cités par le Tour, le Kolbo, et le Beit Yossef au nom du Rambam.) Tout ce que nous avons dit sur la priorité d’une bénédiction sur une autre concerne un cas où l’on souhaite manger les deux aliments ; dans ce cas, il faut donner la priorité à ce qui est plus apprécié ou plus important. Mais si l’on ne veut manger qu’un seul des deux, on ne fait la bénédiction que sur celui qu’on souhaite consommer, même si l’autre se trouve aussi devant lui (Téroumat HaDeshen, §33). Et tout cela ne concerne que ce qu’il convient de faire a priori ; mais si l’on a déjà fait la bénédiction sur l’autre aliment (et que les bénédictions sont les mêmes), on est quitte, et il n’est pas nécessaire de recommencer la bénédiction sur celui qu’on aurait dû faire en premier — à condition que l’on ait aussi eu l’intention de l’inclure dans sa bénédiction (Beit Yossef, §206, et ici-même au nom du Rashba).
+5. The rule that wheat and barley take precedence applies only when one made from them a cooked dish or bread, but one who chews raw wheat, whose blessing is Borei Pri HaAdama, that blessing does not take precedence over Borei Pri HaEtz. *Rama: The blessing of HaMotzi takes precedence over Mezonot, and certainly over other blessings (Agur), even if the second item is more distinguished or more beloved to him (and this can likewise be inferred precisely from the words of the Hagahot Maimoniyot chapter nine, and from the Smak which the Tur, Kol Bo, and Beit Yosef cite in the name of the Rambam); and all that we have said that one takes precedence over another applies specifically when he intends to eat from both of them, and therefore he should give precedence to the beloved or the more distinguished one, but if he does not intend to eat from both of them he recites a blessing only over that which he wishes to eat, even though the second item is also sitting before him (Terumat HaDeshen, siman 33); and all of this requirement to give precedence applies only at the outset, but if one already went ahead and recited the blessing over the second item, then if the blessings are equal he has fulfilled his obligation and need not go back and bless over the one he should have given precedence to, provided that his intention at the time of the blessing also included that item (Beit Yosef, siman 206, and in this siman in the name of the Rashba).*
 
 
 ###### Shulchan Arukh, Orach Chayim 211:6
@@ -15270,7 +15291,7 @@ Le fait que le blé et l’orge aient priorité ne s’applique que lorsqu’on 
 היה לפניו תבשיל מקמח כוסמין ושבולת שועל ושיפון וגפן ותאנה ורימון כיון דמברך על התבשיל בורא מיני מזונות ברכתו קודמת אע"ג דהנך ממין ז' ואיהו לאו ממין שבעה מ"מ כיון דחשיבי דעבדי מנייהו פת ומברך עלייהו המוציא וברכת המזון קודמת אע"ג דלא עבדינהו פת:
 
 
-S’il a devant lui un plat cuisiné à base de farine d’épeautre, d’avoine ou de seigle, ainsi que de la vigne (raisins), une figue et une grenade — bien que ces trois derniers soient des espèces des sept espèces (Chivat haMinim) — la bénédiction sur le plat (Boré Miné Mezonot) a priorité. En effet, bien que ce plat ne fasse pas partie des sept espèces, il est tout de même considéré comme important, car on en fait du pain, et on récite sur ces céréales la bénédiction Hamotsi et le Birkat Hamazon lorsqu’elles sont transformées en pain. Cela leur confère une priorité, même si ici on ne les a pas utilisées sous forme de pain.
+6. If before him there is a cooked dish made from spelt flour, oat flour, or rye, along with grapes, figs, and pomegranates, since he recites Borei Minei Mezonot over the cooked dish, its blessing takes precedence, even though those others are from the seven species and spelt, oats, and rye are not among the seven species; nevertheless, since they are distinguished in that bread can be made from them and one recites HaMotzi over such bread and Birkat HaMazon afterward, that blessing takes precedence even though he did not make bread from them in this instance.
 
 
 
@@ -15578,7 +15599,7 @@ Bénédiction sur les parfums. (6 paragraphes) .Celui qui entre dans une boutiqu
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/217:2](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/217:2)
 
 
-אין מברכין על הריח אא"כ נעשה להריח הילכך אין מברכין על בשמים של מתים הנתונים למעלה מהמטה שאינם אלא להעביר סרחונו של מתאבל נתונים למטה מברכין שאני אומר לכבוד החיים הם עשויים וכן אין מברכין על בשמים של ב"ה ולא על שמן העשוי להעביר את הזוהמא:
+אין מברכין על הריח אא"כ נעשה להריח הילכך אין מברכין על בשמים של מתים הנתונים למעלה מהמטה שאינם אלא להעביר סרחונו של מת אבל נתונים למטה מברכין שאני אומר לכבוד החיים הם עשויים וכן אין מברכין על בשמים של ב"ה ולא על שמן העשוי להעביר את הזוהמא:
 
 
 On ne récite pas de bénédiction sur une odeur, sauf si elle est destinée à être sentie. C’est pourquoi on ne bénit pas les parfums des morts qui sont placés au-dessus du lit de deuil, car ils servent seulement à éloigner la mauvaise odeur du deuilleur. Mais si les parfums sont placés en bas, on bénit, car on les utilise pour honorer les vivants. De même, on ne bénit pas les parfums d’encens, ni sur une huile destinée à éliminer les impuretés.
@@ -17474,7 +17495,7 @@ It is a mitzvah for a person to touch his vessels on Erev Shabbat close to dark 
 
 
 **דיני כירה ותנור ליתן עליה קדירה בערב שבת. ובו ה סעיפים:**
-כירה שהיא עשויה כקדירה ושופתין על פיה קדירה למעלה ויש בה מקום שפיתת שתי קדירות אם הוסקה בגפת שהיא פסולת של זתים או בעצים אסור ליתן עליה תבשיל מבע"י להשהותו עליה אלא א"כ נתבשל כל צרכו והוא מצטמק (פי' הולך וחסר) ורע לו דליכא למיחש שמא יחתה או שהוא חי שלא נתבשל כלל דכיון שהוא חי מסיח דעתו ממנו עד למחר ובכל הלילה יכול להתבשל בלא חיתוי אבל אם נתבשל קצת ולא נתבשל כל צרכו ואפי' נתבשל כל צרכו והוא מצטמק ויפה לו חיישינן שמא יחתה ואסור להשהותו עליה אא"כ גרף דהיינו שהוציא ממנה כל הגחלים או קטם דהיינו שכסה הגחלים באפר למעט חומם ואם נתן בה חתיכה חיה מותר כאלו היתה כולה חיה דע"י כך מסיח דעתו ממנה ואפי' אינה גרופ' (פי' שמשך הגחלים מהתנור) וקטומה [פי' שכסה הגחלים באפר] מותר לסמוך לה קדירה בסמוך חוצה לה ואם הוסקה בקש או בגבבא מותר לשהות עליה אפי' אינה לא גרופה ולא קטומה: הגה שני כירות המתאימות זו אצל זו ודופן של חרס ביניהם האחת גרופה וקטומה והשני' אינה גרופה וקטומה מותר לשהות על הגרופה וקטומ' אע"פ שמוסיף הבל משאינה גרופה וקטומה (גמ' פ' כירה) ותנור אפי' אם הוסק בקש או גבבא אסור אפילו לסמוך לו אפילו אם גרוף וקטום: הגה כ"ז שהיד סולדת בו [הגהות מרדכי] וכ"ש שאסו' לשהות בתוכו או על גבו וכופח שהו' מקו' שפיתת קדיר' אחת אם הוסק בקש או גבבא דינו ככירה בגפת או בעצים דינו כתנור [והתנורים שלנו דינם ככירה] [ר"ן ר"פ כירה וכל בו וכן משמע מפירש"י] ואם שכח ושהה אם הוא תבשיל שבשל כל צרכו מותר אפי' הוא מצטמק ויפה לו ואם הוא תבשיל שהתחיל להתבשל ולא בישל כל צרכו אסור עד מוצאי שבת ואם עבר ושיהה אסור בשניהם: הגה עד בכדי שיעשו (הגהות אשירי ורמב"ם פ"ג) ואם החזירם עכו"ם בשבת דינו כשכח ושיהה [הגהות אשירי] ואם החזירם ישראל דינו כעבר ושיהה [הגהות מרדכי] ואם מצטמק ורע לו מותר שהרי לא נהנה מן האיסור [ב"י וע"ל ריש סי' רכ"ז] וי"א שכל שנתבשל כמאכל בן דרוסאי (פי' שם אדם שהי' אוכל מאכלו שלא נתבשל כל צרכו) או שנתבשל כל צרכו ומצטמק ויפה לו מות' להשהותו על גבי כירה: הגה או אפי' על גבי תנור (המגיד פ"ג והגהות מרדכי ומיי' פ"ג וריש פ' כירה ב"י) אפי' הוסק בגפת ועצים ואפי' אינה גרופה וקטומה ולא הוזכרה גרופה וקטומה והיסק בקש ובגבבא אלא כשהתחיל להתבשל ולא הגיע למאכל בן דרוסאי וכן לענין אם נטל הקדירה מעליה ובא להחזירה עליה בשבת ואם שכח ושיהה תבשיל שהתחיל להתבשל ולא הגיע למאכל בן דרוסאי אסור ואין צריך לומר אם עבר ושיהה: הגה ונהגו להקל כסברא האחרונה. וכל זה בענין שהיה שהקדירה יושבת על כסא של ברזל או על גבי אבנים ואינה נוגעת בגחלים אבל הטמנה על גבי גחלים לדברי הכל אסור: הגה וי"א דאפילו אם הקדירה עומדת על גבי האש ממש כל זמן שהיא מגולה למעלה לא מקרי הטמנה ושרי וכן המנהג רק שנזהרים לנתקו קצת קודם השבת מן האש כדי שיוכל ישראל להסירו משם ואם לא נתקו מן האש ומצאו על גבי האש בשבת יש להסירו משם ע"י עכו"ם ואם ליכא עכו"ם מותר לישראל להסירו משם ויזהר שיקחהו משם בנחת ולא ינענע הגחלים ואז אף אם ינענען קצת דבר שאין מתכוין שרי. (מרדכי ריש פרק כירה והגהות מיי' פרק ז'):
+כירה שהיא עשויה כקדירה ושופתין על פיה קדירה למעלה ויש בה מקום שפיתת שתי קדירות אם הוסקה בגפת שהיא פסולת של זתים או בעצים אסור ליתן עליה תבשיל מבע"י להשהותו עליה אלא א"כ נתבשל כל צרכו והוא מצטמק (פי' הולך וחסר) ורע לו דליכא למיחש שמא יחתה או שהוא חי שלא נתבשל כלל דכיון שהוא חי מסיח דעתו ממנו עד למחר ובכל הלילה יכול להתבשל בלא חיתוי אבל אם נתבשל קצת ולא נתבשל כל צרכו ואפי' נתבשל כל צרכו והוא מצטמק ויפה לו חיישינן שמא יחתה ואסור להשהותו עליה אא"כ גרף דהיינו שהוציא ממנה כל הגחלים או קטם דהיינו שכסה הגחלים באפר למעט חומם ואם נתן בה חתיכה חיה מותר כאלו היתה כולה חיה דע"י כך מסיח דעתו ממנה ואפי' אינה גרופ' (פי' שמשך הגחלים מהתנור) וקטומה (פי' שכסה הגחלים באפר) מותר לסמוך לה קדירה בסמוך חוצה לה ואם הוסקה בקש או בגבבא מותר לשהות עליה אפי' אינה לא גרופה ולא קטומה: הגה שני כירות המתאימות זו אצל זו ודופן של חרס ביניהם האחת גרופה וקטומה והשני' אינה גרופה וקטומה מותר לשהות על הגרופה וקטומ' אע"פ שמוסיף הבל משאינה גרופה וקטומה (גמ' פ' כירה) ותנור אפי' אם הוסק בקש או גבבא אסור אפילו לסמוך לו אפילו אם גרוף וקטום: הגה כ"ז שהיד סולדת בו [הגהות מרדכי] וכ"ש שאסו' לשהות בתוכו או על גבו וכופח שהו' מקו' שפיתת קדיר' אחת אם הוסק בקש או גבבא דינו ככירה בגפת או בעצים דינו כתנור [והתנורים שלנו דינם ככירה] [ר"ן ר"פ כירה וכל בו וכן משמע מפירש"י] ואם שכח ושהה אם הוא תבשיל שבשל כל צרכו מותר אפי' הוא מצטמק ויפה לו ואם הוא תבשיל שהתחיל להתבשל ולא בישל כל צרכו אסור עד מוצאי שבת ואם עבר ושיהה אסור בשניהם: הגה עד בכדי שיעשו (הגהות אשירי ורמב"ם פ"ג) ואם החזירם עכו"ם בשבת דינו כשכח ושיהה [הגהות אשירי] ואם החזירם ישראל דינו כעבר ושיהה [הגהות מרדכי] ואם מצטמק ורע לו מותר שהרי לא נהנה מן האיסור [ב"י וע"ל ריש סי' רכ"ז] וי"א שכל שנתבשל כמאכל בן דרוסאי (פי' שם אדם שהי' אוכל מאכלו שלא נתבשל כל צרכו) או שנתבשל כל צרכו ומצטמק ויפה לו מות' להשהותו על גבי כירה: הגה או אפי' על גבי תנור (המגיד פ"ג והגהות מרדכי ומיי' פ"ג וריש פ' כירה ב"י) אפי' הוסק בגפת ועצים ואפי' אינה גרופה וקטומה ולא הוזכרה גרופה וקטומה והיסק בקש ובגבבא אלא כשהתחיל להתבשל ולא הגיע למאכל בן דרוסאי וכן לענין אם נטל הקדירה מעליה ובא להחזירה עליה בשבת ואם שכח ושיהה תבשיל שהתחיל להתבשל ולא הגיע למאכל בן דרוסאי אסור ואין צריך לומר אם עבר ושיהה: הגה ונהגו להקל כסברא האחרונה. וכל זה בענין שהיה שהקדירה יושבת על כסא של ברזל או על גבי אבנים ואינה נוגעת בגחלים אבל הטמנה על גבי גחלים לדברי הכל אסור: הגה וי"א דאפילו אם הקדירה עומדת על גבי האש ממש כל זמן שהיא מגולה למעלה לא מקרי הטמנה ושרי וכן המנהג רק שנזהרים לנתקו קצת קודם השבת מן האש כדי שיוכל ישראל להסירו משם ואם לא נתקו מן האש ומצאו על גבי האש בשבת יש להסירו משם ע"י עכו"ם ואם ליכא עכו"ם מותר לישראל להסירו משם ויזהר שיקחהו משם בנחת ולא ינענע הגחלים ואז אף אם ינענען קצת דבר שאין מתכוין שרי. (מרדכי ריש פרק כירה והגהות מיי' פרק ז'):
 
 
 **The Laws of Kirah and a Tanur, placing pots on them on Erev Shabbos. Containing 5 paragraphs:**
@@ -18729,18 +18750,12 @@ There are those who do not say it on Yom Tov that falls on Erev Shabbat and ther
 כשיבא לביתו ימהר לאכול מיד:
 
 
-1. When he arrives at his home, he should hurry to eat the meal immediately.
-
-
 ###### Shulchan Arukh, Orach Chayim 271:2
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/271:2](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/271:2)
 
 
 נשים חייבות בקידוש אע"פ שהוא מצות עשה שהזמן גרמא (פי' מצות עשה התלויה בזמן) משום דאתקש זכור לשמור והני נשי הואיל ואיתנהו בשמירה איתנהו בזכירה ומוציאות את האנשים הואיל וחייבות מן התורה כמותם:
-
-
-2. Women are obligated in Kiddush, even though it is a positive commandment that time causes (meaning, a positive commandment dependent on time), because Remember is compared to Guard. And these women, since they are included in watching, they are include in remembering. And they can discharge men (from their obligation) since they are obligated biblically, like them.
 
 
 ###### Shulchan Arukh, Orach Chayim 271:3
@@ -18751,18 +18766,12 @@ There are those who do not say it on Yom Tov that falls on Erev Shabbat and ther
 אם אין ידו משגת לקנות יין לקידוש ולהכין צרכי סעודה לכבוד הלילה ולכבוד היום ולקידוש היום מוטב שיקנה יין לקידוש הלילה ממה שיכין צרכי הסעודה או ממה שיקנה יין לקידוש היום והא דתניא כבוד יום קודם לכבוד לילה היינו דוקא בשאר צרכי סעודה אבל אם אין לו אלא כוס אחד לקידוש כבוד לילה קודם לכבוד יום:
 
 
-3. If he has not the means (finances) at hand to purchase wine for Kiddush and to prepare the needs of the meal for both the meal at night, the meal on Shabbat day and Kiddush for Shabbat day, it is better to purchase wine for the night Kiddush rather than to purchase needs for meals or wine for Kiddush on Shabbat day. For as it is taught: "The honor of the day precedes the honor of the night, this is only with regards to other needs of the meal. However if he does not have more than one cup for Kiddush, then the honor of the night is prioritized over the honor of the day.
-
-
 ###### Shulchan Arukh, Orach Chayim 271:4
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/271:4](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/271:4)
 
 
 אסור לטעום כלום קודם שיקדש ואפילו מים ואפילו אם התחיל מבעוד יום צריך להפסיק שפורס מפה ומקדש ואם היו שותים יין תחלה אינו אומר אלא קידוש בלבד בלא ברכת היין ואח"כ מברך ברכת המוציא ואם אין לו יין ומקדש על הפת אינו מברך המוציא וי"א שאף כשמקדש על היין אינו מברך המוציא:
-
-
-4. It is forbidden to taste anything before one makes Kiddush [at night], even water. And even if one began eating while it was still day, he needs to stop eating, spread out a tablecloth [to set up the meal] and make Kiddush. And if they were drinking wine first, they only need to say the Bracha of Kiddush and not a Bracha on the wine. Afterward they will make a Bracha on the bread. And if he does not have wine, he can make Kiddush on bread, he need not make a Bracha on bread [because he has already been part of a meal where bread was eaten]. There are those who say that even if he makes a Bracha on wine, he also need not make a Bracha on the bread.
 
 
 ###### Shulchan Arukh, Orach Chayim 271:5
@@ -18773,18 +18782,12 @@ There are those who do not say it on Yom Tov that falls on Erev Shabbat and ther
 שנים שהיו שותים ואמרו בואו ונקדש קידוש היום נאסר עליהם לשתות עד שיקדשו ואם רצו לחזור ולשתות קודם שיקדשו אע"פ שאינם רשאים צריכים לחזור ולברך תחלה בפה"ג ואח"כ ישתו: הגה אדם ששכח לקדש עד לאחר שבירך ברכת המוציא ונזכר קודם שאכל יקדש על הפת ואח"כ יאכל אבל בהבדלה יאכל תחלה דהרי אין מבדילין על הפת (הגהות אלפסי מרדכי פ' ב"מ):
 
 
-5. Two people who were drinking and then said "Come, let us make Kiddush", they are forbidden from drinking more until they make Kiddush. If they want to return and drink before they make Kiddush, even if they are required, need to again make the Bracha on the wine and then they can drink. *RAMA: A person who forgot to make Kiddush and realized only after he make the Bracha on the bread, and yet remembered before he ate; should make Kiddush on the bread and then eat it. But, if it was Havdalah, he should first eat the bread - for we do not make Havdalah on bread. (Hagahos Alfasi; Mordechai).*
-
-
 ###### Shulchan Arukh, Orach Chayim 271:6
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/271:6](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/271:6)
 
 
 אם גמר סעודתו וקדש היום קודם שבירך ברכת המזון מברך ברכת המזון על כוס ראשון ואחר כך אומר קידוש היום על כוס שני וצריך להזכיר של שבת בברכת המזון אע"פ שמברך קודם קידוש: הגה וי"א דאינו מזכיר של שבת דאזלינן בתר תחלת הסעודה וכן עיקר כמו שנתבאר לעיל סוף סי' קפ"ח ויש מחלוקת אם יטעום מכוס של ברכת המזון קודם שיקדש גם אם צריך לאכול מעט אחר הקידוש כדי שיהא הקידוש במקום סעודה: ויש אומרים דאף בגמר סעודתו אינו מברך ברכת המזון תחלה אלא פורס מפה ומקדש ומברך המוציא ואוכל מעט ואח"כ מברך בהמ"ז: הגה והכי נהוג להוציא את נפשיה מפלוגתת סברא ראשונה:
-
-
-6. If one is finished his meal and Shabbat begins before he says Birkat Hamazon, he should say Birkat Hamazon on a first cup and afterwards say the Shabbat Kiddush on a second cup. One must mention Shabbat during Birkat Hamazon even though he says it prior to Kiddush. *RAMA: There are those who say that we do not mention Shabbat because we go after the beginning of the meal, and this is the primary opinion as is brought at the end of Siman 188. And there is a disagreement if we taste from the cup of Birkat Hamazon before we say Kiddush and if we need to eat a little bit after the Kiddush so that the Kiddush will be at the place of the meal.* There are those who say that even after one finishes the meal, he does not initially say Birkat Hamazon. Rather, he spreads out a tablecloth, makes Kiddush, says Hamotzi and eats a little, and then afterwards he says Birkat Hamazon. *RAMA: And such is our custom, in order to remove ourselves from the disagreements arising from the first opinion.*
 
 
 ###### Shulchan Arukh, Orach Chayim 271:7
@@ -18795,18 +18798,12 @@ There are those who do not say it on Yom Tov that falls on Erev Shabbat and ther
 אף על פי שאסור לו לטעום קודם קידוש אם טעם מקדש:
 
 
-7. Even though it is forbidden to taste before kiddush, if he does taste he still makes kiddush.
-
-
 ###### Shulchan Arukh, Orach Chayim 271:8
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/271:8](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/271:8)
 
 
 אם לא קידש בלילה בין בשוגג בין במזיד יש לו תשלומין למחר כל היום: הגה ואומר כל הקידוש של לילה (ב"י) מלבד ויכלו (אורח חיים בשם תוס'):
-
-
-8. If one did not make Kiddush at night - whether it was unintentional or intentional, he must make up for it the next day. *RAMA: And he should say all of the text of Kiddush of the night (Beis Yosef) except for "Vayechulu" (Orach Chayim in the name of Tosefos)*
 
 
 ###### Shulchan Arukh, Orach Chayim 271:9
@@ -18817,18 +18814,12 @@ There are those who do not say it on Yom Tov that falls on Erev Shabbat and ther
 צריך שתהיה מפה על השלחן תחת הפת ומפה אחרת פרוסה על גביו:
 
 
-9. There needs to be a tablecloth on the table underneath the bread and another cloth spread out on top of the bread.
-
-
 ###### Shulchan Arukh, Orach Chayim 271:10
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/271:10](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/271:10)
 
 
 מקדש על כוס מלא יין שלא יהיה פגום וטעון כל מה שטעון כוס של בהמ"ז ואומר ויכלו מעומד ואח"כ אומר בפה"ג ואח"כ קידוש: הגה ויוכל לעמוד בשעת הקידוש ויותר טוב לישב (כל בו) ונוהגים לישב אף בשעה שאומר ויכלו רק כשמתחילין עומדין קצת לכבוד השם כי מתחילין יום הששי ויכלו השמים ונרמז השם בר"ת וכשמתחילין יתן עיניו בנרות (מהרי"ל ושכל טוב) בשעת קידוש בכוס של ברכה וכן נראה לי עיין לעיל סי' קפ"ג סעיף ד':
-
-
-10. One should make Kiddush on a full cup of wine that is not blemished, and to require all that us required for a cup for Birkat Hamazon, and to say 'Vayechulu' while standing and afterwards one says 'boreh pri hagafen' and afterwards one says kiddush. *RAMA: One may stand during the time of Kiddush but it is better to sit (Kol Bo). Our custom is to sit even while saying 'Vayechulu', except when we begin we stand a bit to honor Hashem, because we begin 'Yom Hashishi, Vayechulu Hashamayim' and it hints to Hashem in the first letters of this phrase. When one begins he should look at the candles (Mahar"il; Sechel Tov) during kiddush with the cup of blessing. And so it seems to me, see above Siman 183 Seif 4.*
 
 
 ###### Shulchan Arukh, Orach Chayim 271:11
@@ -18839,18 +18830,12 @@ There are those who do not say it on Yom Tov that falls on Erev Shabbat and ther
 אם אין לו אלא כוס א' מקדש בו בלילה ואינו טועם ממנו שלא יפגימנו אלא שופך ממנו לכוס אחר וטועם יין של קידוש מהכוס השני ולמחר מקדש במה שנשאר בכוס ראשון ואם לא היה בו אלא רביעית בצמצום ונחסר ממנו בלילה מוזגו למחר להשלימו לרביעית והיינו דוקא כשיש לו כוס אחר להבדלה שאם לא כן מוטב שיניחנה להבדלה שא"א בפת משיקדש עליו ולא יהא לו יין להבדלה ואם יש לו שני כוסות מצומצמים אחר מזיגה יקדש בלילה באחד ויבדיל על השני ולא יקדש ביום דקידוש דלילה עדיף:
 
 
-11. If he only has one cup, he uses it at night for kiddush and does not taste from it so he will not blemish it. Rather he pours it into another cup and tastes the kiddush wine from the second cup. The next day, he blesses over what remains in the first cup. If one has but an exact reviis of undiluted wine and he decreased from it at night, he blends it with water to make the reviis. This is specifically if he has another cup for Havdalah. For if he has this, it is best that he uses it for Havdalah, for he cannot say it over the bread that he said kiddush over, and he does not have wine for Havdalah. If he has two cups after diluting with water he makes kiddush with one at night and makes havdalah over the second and he does not make kiddush during the day, because the kiddush at night is preferable.
-
-
 ###### Shulchan Arukh, Orach Chayim 271:12
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/271:12](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/271:12)
 
 
 אחר שקידש על הכוס נוטל ידיו ומברך על נטילת ידים ואם נטל ידיו קודם קידוש גלי דעתיה דריפתא חביבא ליה ולא יקדש על היין אלא על הפת: הגה וי"א דלכתחל' יש ליטול ידיו קודם הקידוש ולקדש על היין (הרא"ש והמרדכי פ' ע"פ ורשב"א והגהות מיי' פכ"ט וטור) וכן המנהג פשוט במדינות אלו ואין לשנות רק בליל פסח כמו שיתבאר סי' תע"ג:
-
-
-12. After he blesses over the cup, one washes his hands and says 'Al Netilat Yadayim'. If he washed his hands prior to Kiddush, he has revealed that bread is beloved to him, and he does not make kiddush over the wine, rather over the bread. *RAMA: There are those who say that initially, one should wash his hands before kiddush and then make kiddush over wine (the Rosh; Mordechai; Rashba; Hagahos Maimoni; Tur) and such is the simple custom in our lands and it is not to be changed except on Pesach night, as explained in Siman 473*
 
 
 ###### Shulchan Arukh, Orach Chayim 271:13
@@ -18861,18 +18846,12 @@ There are those who do not say it on Yom Tov that falls on Erev Shabbat and ther
 צריך לשתות מכוס של קידוש כמלא לוגמיו דהיינו כל שיסלקנו לצד אחד בפיו ויראה מלא לוגמיו והוא רובו של רביעית:
 
 
-13. One must drink a cheekful from the Kiddush cup, i.e. if one moves all the wine to one side of their mouth and their cheek appears full, and this is the majority of a Revi'it.
-
-
 ###### Shulchan Arukh, Orach Chayim 271:14
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/271:14](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/271:14)
 
 
 אם לא טעם המקדש וטעם אחד מהמסובין כמלא לוגמיו (פי' מלא פיו) יצא ואין שתיית שנים מצטרפת למלא לוגמיו ומ"מ מצוה מן המובחר שיטעמו כולם יש אומרים דכיון שבין כולם טעמו כמלא לוגמיו יצאו דשתיית כולם מצטרפות לכשיעור והגאונים סוברים שאם לא טעם המקדש לא יצא וראוי לחוש לדבריהם ודוקא בקידוש אבל בשאר דברים הטעונים כוס מודים הגאונים דסגי בטעימת אחר.
-
-
-14. If the one who makes kiddush does not taste the wine, and another person who is dining there tastes the wine with a mouthful, he has fulfilled his obligation. Two people cannot combine to equal a mouthful. In all cases it is preferable for the mitzvah if everyone tastes the wine. There are those who say that if everyone tastes a mouthful they have fulfilled their obligation, because everyone's drinking combines to equal the measurement. The Gaonim hold that if the person making kiddush does not taste the wine he has not fulfilled his obligation and it is appropriate to concern ourselves over their words. Specifically regarding kiddush; but regarding other things that require a cup the Gaonim acknowledge that it is sufficient for another to taste it.
 
 
 ###### Shulchan Arukh, Orach Chayim 271:15
@@ -18883,9 +18862,6 @@ There are those who do not say it on Yom Tov that falls on Erev Shabbat and ther
 קידש וקודם שיטעום הפסיק בדיבור חוזר ומברך בורא פרי הגפן ואינו צריך לחזור ולקדש וה"ה אם נשפך הכוס קודם שיטעום ממנו יביא כוס אחר ומברך עליו בפה"ג ואינו צריך לחזור ולקדש:
 
 
-15. If one makes kiddush and before he tastes it he pauses to talk, he must go back and say 'boreh pri hagafen' but is not required to go back and say kiddush. This is the law if the cup spills prior to tasting from it. One brings another cup and says 'boreh pri hagafen' over it and he does not have to go back and say kiddush.
-
-
 ###### Shulchan Arukh, Orach Chayim 271:16
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/271:16](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/271:16)
@@ -18894,18 +18870,12 @@ There are those who do not say it on Yom Tov that falls on Erev Shabbat and ther
 לא יטעמו המסובין קודם שיטעום המקדש אם הם זקוקים לכוסו שופך ממנו לכוסות שבידם ריקנים או פגומים אבל אם היו להם כוסות יין שאינם פגומים רשאים לשתות קודם שישתה המקדש:
 
 
-16. The others dining should not taste [their wine] before the one who recites Kiddush tastes [his wine] if they need [the wine] in his cup to be poured into their empty or blemished cups. If, however, they have unblemished cups of wine, they may partake of the wine before the one who recited Kiddush drinks.
-
-
 ###### Shulchan Arukh, Orach Chayim 271:17
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/271:17](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/271:17)
 
 
 אין צריך לשפוך מכוס המקדש לכוסות יין שלפני המסובין אא"כ היו פגומים שאז צריך לשפוך לכל כוס וכוס כדי שישתו כולם מכוס שאינו פגום:
-
-
-17. One does not need to pour from the cup of the one who makes kiddush into the cups in front of the other diners unless they are blemished. For then one must pour into each and every cup so everyone can drink from a cup that is unblemished.
 
 
 
@@ -20195,7 +20165,7 @@ Women are obligated in the third meal.
 אומרים הבדלה בחונן הדעת ואם טעה ולא הבדיל משלים תפלתו ואינו חוזר מפני שצריך להבדיל על הכוס ואם טעם קודם שהבדיל על הכוס צריך לחזור ולהבדיל בתפלה:
 
 
-1. **The Laws Governing the Recitation of Havdalah in the Shemoneh Esreh, 5 Seifim:** We say Havdalah in "He who grants wisdom", and if one erred and did not say Havdalah [in that blessing], he continues his prayers and does not return, since he needs to say havdalah on a cup [of wine]. And if he ate prior to saying havdalah on the cup [of wine], he must pray again and recite havdalah in the prayer.
+**The Laws Governing the Recitation of Havdalah in the Shemoneh Esreh, 5 Seifim:** We say Havdalah in "He who grants wisdom", and if one erred and did not say Havdalah, he continues his prayers and does not return, since he needs to say havdalah on a cup [of wine]. And if he ate prior to saying havdalah on the cup, he must pray again and recite havdalah in the prayer.
 
 
 ###### Shulchan Arukh, Orach Chayim 294:2
@@ -20206,7 +20176,7 @@ Women are obligated in the third meal.
 טעה ולא הבדיל בתפלה ואין לו כוס בלילה וסבור שאף למחר לא יהיה לו צריך לחזור ולהתפלל:
 
 
-2. If one erred and did not say Havdalah in the S"E (Shmone Esrei), and he does not have a cup at night and he believes that even tomorrow he will not have one, must return and pray S"E again.
+If one erred and did not say Havdalah in Shmoneh Esrei, and he does not have a cup at night and he believes that even tomorrow he will not have one, must return and pray again.
 
 
 ###### Shulchan Arukh, Orach Chayim 294:3
@@ -20217,7 +20187,7 @@ Women are obligated in the third meal.
 תשעה באב שחל להיות באחד בשבת טעה ולא הבדיל בתפלה א"צ לחזור ולהתפלל כיון שמבדיל על הכוס במוצאי תשעה באב:
 
 
-3. If one erred and did not mention Havdalah in the Evening Shemoneh Esreh when Tishah BeAv falls on the day after Shabbos, it is not necessary for him to repeat S"E, because he will say Havdalah over a cup at the conclusion of Tisha B'Av.
+If one erred and did not mention Havdalah in the Evening Shemoneh Esreh when Tishah BeAv falls on the day after Shabbos, it is not necessary for him to repeat Shmoneh Esrei, because he will say Havdalah over a cup at the conclusion of Tisha B'Av.
 
 
 ###### Shulchan Arukh, Orach Chayim 294:4
@@ -20228,7 +20198,7 @@ Women are obligated in the third meal.
 במקום שאמרו שאינו חוזר להתפלל מיד כשסיי' הברכ' אין לו לחזור אע"פ שלא פתח בברכה שלאחריה:
 
 
-4. In a situation where we say one does not go back and repeat S"E immediately when one finishes the blessing, one does not go back even though he did not begin the following blessing.
+In a situation where we say one does not go back and repeat Shmoneh Esrei immediately when one finishes the blessing, one does not go back even though he did not begin the following blessing.
 
 
 ###### Shulchan Arukh, Orach Chayim 294:5
@@ -20239,7 +20209,7 @@ Women are obligated in the third meal.
 במקום שאמרו שאינו חוזר אם רצה להחמיר על עצמו לחזור אם סיים תפלתו רשאי אבל אם עדיין לא סיים תפלתו אינו רשאי לחזור:
 
 
-5. In a situation where we say one does not go back, if one wants to be strict on himself to go back, if he finished his S"E it is allowed. However, if he had not yet finished the S"E he is not allowed to go back and repeat.
+In a situation where we say one does not go back, if one wants to be strict on himself to go back, if he finished his Shmoneh Esrei it is allowed. However, if he had not yet finished the Shmoneh Esrei he is not allowed to go back and repeat.
 
 
 
@@ -20255,7 +20225,7 @@ Women are obligated in the third meal.
 מבדיל שליח צבור כדי להוציא מי שאין לו יין: הגה ונהגו לומר ולהזכיר אליהו הנביא במ"ש להתפלל שיבא ויבשרנו הגאולה (טור):
 
 
-1. **The Havdalah Recited by the Sheliach Tzibbur.***RAMA: And we say ויהי נועם and afterwards it is customary to recite the Order of Kedushah in order that the Jewish people will delay the completion of their prayers, in order to delay the return of the wicked to Gehinnom [after their Shabbos respite] (Tur). At a time when we do not say ויהי נועם, like when a Yom Tov falls during the week, we do not say the order of Kedushah, but we do say ויתן לך (Kol Bo).* The prayer leader says Havdalah in order that those who do not have wine may fulfill their obligation.*RAMA: And it is our custom to say and to remember Elijah the Prophet on Motzei Shabbos, to pray that he will come and announce the redemption. (Tur)*
+**The Havdalah Recited by the Sheliach Tzibbur.**Rema: And we say ויהי נועם and afterwards it is customary to recite the Order of Kedushah in order that the Jewish people will delay the completion of their prayers, in order to delay the return of the wicked to Gehinnom [after their Shabbos respite] (Tur). At a time when we do not say ויהי נועם, like when a Yom Tov falls during the week, we do not say the order of Kedushah, but we do say ויתן לך (Kol Bo). The prayer leader says Havdalah in order that those who do not have wine may fulfill their obligation.Rema: And it is our custom to say and to remember Elijah the Prophet on Motzei Shabbos, to pray that he will come and announce the redemption. (Tur)
 
 
 
@@ -20270,7 +20240,7 @@ Women are obligated in the third meal.
 סדר הבדלה יין בשמים נר הבדלה וסימנך יבנ"ה וצריך ליזהר שלא יהא הכוס פגום: הגה ונהגו לומר קודם הבדלה שעושים בבית הנה אל ישועתי וגו' כוס ישועות אשא וגו' ליהודים היתה אורה וגו' לסי' טוב ובשעת הבדלה יתנו עיניהם בכוס ובנר ונוהגין לשפוך מכוס של יין על הארץ קודם שיסיים בורא פרי הגפן כדי שלא יהיה הכוס פגום וטעם השפיכה דאמרי' כל בית שלא נשפך בו יין כמים אין בו סי' ברכה ועושין כן לסי' טוב בתחלת השבוע גם שופכים מן הכוס לאחר הבדלה ומכבין בו הנר ורוחצים בו עיניו משום חבוב מצוה:
 
 
-1. **The Laws Governing the Recitation of Havdalah over Wine, 8 Seifim:** The order of Havdalah is: wine, spices and havdalah candle and its mnemonic is Yavneh, יבנ"ה. And one must take care that the wine is not blemished. *RAMA: It is our custom to say, before Havdalah that is done at home, הנה אל ישועתי, etc.; כוס ישועות אשא, etc.; ליהודים היתה אורה, etc.; they are all recited as a good omen. During Havdalah we focus our eyes on the cup and the candle. And we are accustomed to spill from the cup if wine onto the ground before completing בורא פרי הגפן so that the cup will not be blemished, and to taste that which was spilled; and we do this as a good sign at the beginning of the week. We also spill from the cup after Havdalah and extinguish the candle in it, and we moisten our eyes with it, as an expression of the dearness of the mitzvah.*
+**The Laws Governing the Recitation of Havdalah over Wine, 8 Seifim:** The order of Havdalah is: wine, spices and havdalah candle and its mnemonic is Yavneh, יבנ"ה. And one must take care that the wine is not blemished. Rema: It is our custom to say, before Havdalah that is done at home, הנה אל ישועתי, etc.; כוס ישועות אשא, etc.; ליהודים היתה אורה, etc.; they are all recited as a good omen. During Havdalah we focus our eyes on the cup and the candle. And we are accustomed to spill from the cup if wine onto the ground before completing בורא פרי הגפן so that the cup will not be blemished, and to taste that which was spilled; and we do this as a good sign at the beginning of the week. We also spill from the cup after Havdalah and extinguish the candle in it, and we moisten our eyes with it, as an expression of the dearness of the mitzvah.
 
 
 ###### Shulchan Arukh, Orach Chayim 296:2
@@ -20281,7 +20251,7 @@ Women are obligated in the third meal.
 אין מבדילין על הפת אבל על השכר מבדילין אם הוא חמר מדינה וה"ה לשאר משקין חוץ מן המים: הגה וטוב יותר להבדיל על כוס פגום של יין מעל שכר (אבודרהם) ונהגו להבדיל במוצאי פסח על שכר ולא על יין משום דחביב עליו ובי"ט שחל להיות במוצאי שבת שיש בו קידוש שהוא נאמר על הפת יש אומרים שאגב הקידוש מבדילין גם כן עליו וי"א שיותר טוב לומר הקידוש והבדלה שניהם על השכר הגה [והסברא ראשונה עיקר]:
 
 
-2. Havdalah may not be recited over bread. However, he may recite Havdalah over any beverage that is the “wine of the region,”with the exception of water. *RAMA: It is better to say Havdalah over a blemished cup of wine rather than liquor (Avudraham). We have a custom to say Havdalah on Motzei Pesach over liquor and not over wine because it is precious to us.*And on Yom Tov that falls on Motzei Shabbat and has kiddush which can be said over bread, there are those who say that along with the kiddush one can say Havdalah over it. And there are those who say that it is better to say both kiddush and Havdalah together over liquor.*RAMA: And the first opinion is the essence.*
+Havdalah may not be recited over bread. However, he may recite Havdalah over any beverage that is the “wine of the region,”with the exception of water. Rema: It is better to say Havdalah over a blemished cup of wine rather than liquor (Avudraham). We have a custom to say Havdalah on Motzei Pesach over liquor and not over wine because it is precious to us.And on Yom Tov that falls on Motzei Shabbat and has kiddush which can be said over bread, there are those who say that along with the kiddush one can say Havdalah over it. And there are those who say that it is better to say both kiddush and Havdalah together over liquor. Rema: And the first opinion is the essence.
 
 
 ###### Shulchan Arukh, Orach Chayim 296:3
@@ -20292,7 +20262,7 @@ Women are obligated in the third meal.
 אם אין לו יין ולא שכר ושאר משקין י"א שמותר לו לאכול וי"א שאם מצפה שיהיה לו למחר לא יאכל עד למחר שיבדיל ואם אין לו אלא כוס אחד ואינו מצפה שיהיה לו למחר מוטב שיאכל קודם שיבדיל ויברך עליו ברכת המזון ואח"כ יבדיל עליו ממה שיברך ברכת המזון בלא כוס לדברי האומרים דבהמ"ז טעונה כוס ולדברי האומרים דאינו טעונה כוס לא יאכל עד שיבדיל ומיירי שכוס זה לא היה בו אלא רביעית בצמצום וכבר היה מזוג כדינו שאם היה משים בו מים יותר לא היה ראוי לשתייה שאל"כ לדברי הכל מבדיל תחלה ושותה ממנו מעט ומוסיף עליו להשלימו לרביעית ומברך עליו ברכת המזון:
 
 
-3. If one does not have wine, nor liquor or other similar drinks, there are those who say that it is permitted for him to eat. And there are those who say that if he expects to have a cup [of wine] over which to recite Havdalah on the following day, he should not eat until the following day after he says Havdalah. If one only has one cup, and he does not expect that he will have it tomorrow, it is better that he eats before Havdalah and says Birkat Hamazon over it and afterwards makes Havdalah over it from what he used to bless Birkat Hamazon without a cup, according to the words of those who say that regarding birkat hamazon one needs a cup. According to the words of those who say that one does not need a cup for birkat hamazon, one must not eat until havdalah is done. Regarding this cup, if he only has a 1/4 reduced amount, and he already poured according to the law that if it had more water in it, it is not fit to be drunk; therefore, according to all, one should first say havdalah and drink a little bit from it and then add to it to fill it to a revi'is, then bless birkat hamazon over it.
+If one does not have wine, nor liquor or other similar drinks, there are those who say that it is permitted for him to eat. And there are those who say that if he expects to have a cup [of wine] over which to recite Havdalah on the following day, he should not eat until the following day after he says Havdalah. If one only has one cup, and he does not expect that he will have it tomorrow, it is better that he eats before Havdalah and says Birkat Hamazon over it and afterwards makes Havdalah over it from what he used to bless Birkat Hamazon without a cup, according to the words of those who say that regarding birkat hamazon one needs a cup. According to the words of those who say that one does not need a cup for birkat hamazon, one must not eat until havdalah is done. Regarding this cup, if he only has a 1/4 reduced amount, and he already poured according to the law that if it had more water in it, it is not fit to be drunk; therefore, according to all, one should first say havdalah and drink a little bit from it and then add to it to fill it to a revi'is, then bless birkat hamazon over it.
 
 
 ###### Shulchan Arukh, Orach Chayim 296:4
@@ -20303,7 +20273,7 @@ Women are obligated in the third meal.
 מי שאין ידו משגת לקנות יין לקידוש ולהבדלה יקנה להבדלה דקידוש אפשר בפת:
 
 
-4. [The laws describing] the order of priority [when a person] does not have the means to buy wine for both Kiddush and Havdalah - he should buy it for havdalah, for kiddush can be made over bread.
+[The laws describing] the order of priority [when a person] does not have the means to buy wine for both Kiddush and Havdalah - he should buy it for havdalah, for kiddush can be made over bread.
 
 
 ###### Shulchan Arukh, Orach Chayim 296:5
@@ -20314,7 +20284,7 @@ Women are obligated in the third meal.
 אם אין ידו משגת לקנות שמן לנר חנוכה ויין להבדיל נר חנוכה קודם:
 
 
-5. If one cannot buy both oil for the Chanukah lights and wine for havdalah, the Chanukah lights take precedence.
+If one cannot buy both oil for the Chanukah lights and wine for havdalah, the Chanukah lights take precedence.
 
 
 ###### Shulchan Arukh, Orach Chayim 296:6
@@ -20325,7 +20295,7 @@ Women are obligated in the third meal.
 אומר הבדלה מיושב: הגה וי"א מעומד [אגודה וכל בו ואגור] וכן נוהגים במדינות אלו. ואוחז היין בימין וההדס בשמאל ומברך על היין ושוב נוטל ההדס בימין והיין בשמאל ומברך על ההדס ומחזיר היין לימינו:
 
 
-6. One should say Havdalah while sitting. *RAMA: And there are those who say, while standing [Agudah; Kol Bo; Igur] and such is he custom in our countries.* One grasps the wine in the right hand and the spices (lit. 'myrtle') in the left and makes the blessing over the wine. Then he places the spice in the right hand and the wine in the left and says the blessing over the spice and returns the wine to his right hand.
+One should say Havdalah while sitting. Rema: And there are those who say, while standing [Agudah; Kol Bo; Igur] and such is he custom in our countries. One grasps the wine in the right hand and the spices (lit. 'myrtle') in the left and makes the blessing over the wine. Then he places the spice in the right hand and the wine in the left and says the blessing over the spice and returns the wine to his right hand.
 
 
 ###### Shulchan Arukh, Orach Chayim 296:7
@@ -20336,7 +20306,7 @@ Women are obligated in the third meal.
 אפילו שמעו כל בני הבית הבדלה בבית הכנסת אם נתכוונו שלא לצאת מבדילין בבית:
 
 
-7. Even if the entire household heard Havdalah in the synagogue, if they had the intention not to fulfill their obligation thereby, they should say Havdalah at home.
+Even if the entire household heard Havdalah in the synagogue, if they had the intention not to fulfill their obligation thereby, they should say Havdalah at home.
 
 
 ###### Shulchan Arukh, Orach Chayim 296:8
@@ -20347,7 +20317,7 @@ Women are obligated in the third meal.
 נשים חייבות בהבדלה כשם שחייבות בקידוש ויש מי שחולק: הגה ע"כ לא יבדילו לעצמן רק ישמעו הבדלה מן האנשים:
 
 
-8. Women are obligated in Havdalah, just as they are obligated in Kiddush. And there are those who argue. *RAMA: Therefore, they should not recite Havdalah for themselves, rather they should hear Havdalah from men.*
+Women are obligated in Havdalah, just as they are obligated in Kiddush. And there are those who argue. RAMA: Therefore, they should not recite Havdalah for themselves, rather they should hear Havdalah from men.
 
 
 
@@ -21712,7 +21682,7 @@ A person who has a wound on his head or on his arm is permitted to tie a cloth t
 
 
 **במה בהמה יוצאה בשבת. ובו כג סעיפים:**
-בהמה יוצאת במה שמשתמרת בו אבל אם אינה משתמרת בו אז הוי נטירותא יתירתא ביותר והוי משאוי וכן כל דבר שהוא לנוי ולא לשמור לא תצא בו הילכך נאקה יוצאת בזממא דפרזלא שהוא טבעת של ברזל ונוקב חוטמו ומכניסו בו וחמרא לובא בפגא דפרזלא דהיינו בריג"א והגמל באפסר שהוא קבישטרו ופרד וחמור וסוס יוצאים באפסר או ברסן שהוא פרינ"ו אבל לא בשניהם ומותר לכרוך חבל האפסר סביב צוארה ותצא בו ומותר לטלטל האפסר וליתנו עליה ובלבד שלא ישען עליה:
+בהמה יוצאת במה שמשתמרת בו אבל אם אינה משתמרת בו אז הוי נטירותא יתירתא ביותר והוי משאוי וכן כל דבר שהוא לנוי ולא לשמור לא תצא בו הילכך נאקה יוצאת בזממא דפרזלא שהוא טבעת של ברזל ונוקב חוטמו ומכניסו בו וחמרא לובא בפגא דפרזלא דהיינו בריג"א והגמל באפסר שהוא קבישטר"ו ופרד וחמור וסוס יוצאים באפסר או ברסן שהוא פרינ"ו אבל לא בשניהם ומותר לכרוך חבל האפסר סביב צוארה ותצא בו ומותר לטלטל האפסר וליתנו עליה ובלבד שלא ישען עליה:
 
 
 ###### Shulchan Arukh, Orach Chayim 305:2
@@ -22305,7 +22275,7 @@ Anything other than Torah may not be learned on Shabbos and Yom Tov, and even bo
 
 
 **דברים המותרים והאסורים לטלטל בשבת. ובו נב סעיפים:**
-כל הכלים נטלים בשבת חוץ ממוקצה מחמת חסרון כיס כגון סכין של שחיטה או של מילה ואזמל של ספרים וסכין של סופרים שמתקנים בה הקולמסים כיון שמקפידים שלא לעשות בהם תשמיש אחר אסור לטלטלו בשבת ואפי' לצורך מקומו או לצורך גופו: הגה ואפילו תחובים בנדן עם שאר סכינים אסור לטלטלו (מהרי"ל) וה"ה לקורנס של בשמים שמקפידים עליו שלא ילכלך: הגה וה"ה כלים המיוחדים לסחורה ומקפיד עליהם. [ב"י בשם מיי' פ' ה' והמגיד פכ"ז]:
+כל הכלים נטלים בשבת חוץ ממוקצה מחמת חסרון כיס כגון סכין של שחיטה או של מילה ואזמל של ספרים וסכין של סופרים שמתקנים בה הקולמסים כיון שמקפידים שלא לעשות בהם תשמיש אחר אסור לטלטלו בשבת ואפי' לצורך מקומו או לצורך גופו: הגה ואפילו תחובים בנדן עם שאר סכינים אסור לטלטלו (מהרי"ל) וה"ה לקורנס של בשמים שמקפידים עליו שלא יתלכלך: הגה וה"ה כלים המיוחדים לסחורה ומקפיד עליהם. [ב"י בשם מיי' פ' ה' והמגיד פכ"ז]:
 
 
 **Objects that may or may not be carried on Shabbat**
@@ -30318,12 +30288,18 @@ Jews dwelling alone in a courtyard in a non-Jewish walled city, when other Jews 
 עיר של רבים שיש לו פתח א' וסולם במקום אחר מערבין את כולה ואינה צריכ' שיור שאין הסולם שבחומה חשוב כפתח ואפילו העמיד הרבה סולמות זה בצד זה עד רוחב עשרה לא חשיב כפתח ואם יש לה שני פתחים ויש אשפה לפני אחד מהם כאילו אין שם אלא פתח א':
 
 
+A city of many people that has a first entrance and a ladder in another place, they are all mixed up and it is not necessary to remember that the ladder in the wall is not considered as a door, and even if many ladders are placed side by side up to a width of ten, it is not considered as a door. And if it has two doors and there is a garbage pile in front of one of them, it is as if there is only a first door there:
+
+
 ###### Shulchan Arukh, Orach Chayim 392:3
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/392:3](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/392:3)
 
 
 הבתים שמניחים אותם שיור אע"פ שאינם פתוחים לעיר אלא אחוריהם לעיר ופניהם לחוץ ואפילו הוא (רק בית אחד אפי') בית הבקר או בית התבן שאינם צריכים לערב עושים אותם שיור ומערבין את השאר:
+
+
+The houses that are placed separately, even though they are not open to the city, but have their backs to the city and their faces are outside, and even if it is (just one house, even) a cattle house or a hay house that does not need to be fenced, they are considered separate, and the rest of the houses are fenced:
 
 
 ###### Shulchan Arukh, Orach Chayim 392:4
@@ -30334,12 +30310,18 @@ Jews dwelling alone in a courtyard in a non-Jewish walled city, when other Jews 
 עיר שנשתתפו כל יושביה חוץ במבוי א' הרי זה אוסר על כולם ואם בנו מצבה על פתח המבוי אינו אוסר עליהם לפיכך עיר שהיתה קנין יחיד אפילו נעשי' של רבים אין מערבין אותה לחצאין אלא או כולה או מבוי ומבוי ובונה כל מבוי ומבוי מצבה על פתחו אם רצה לחלוק רשותו מהם כדי שלא יאסור על שאר המבואו':
 
 
+A city in which all its inhabitants participated except one alleyway, then carrying is forbidden to all of them. And if they built a monument at the entrance of the alleyway then carrying is not forbidden to them. Therefore, a city that was the property of a single person, even if it became the property of many, is not divided into halves, but either the whole or both entrances and exits. And each entrance and exit builds a monument at its entrance if he wants to share his permission with them so that he does not prohibit the rest of his entrances.
+
+
 ###### Shulchan Arukh, Orach Chayim 392:5
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/392:5](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/392:5)
 
 
 במה דברים אמורי' שאין מערבין אותה לחצאין בעיר מוקפת חומה גבוה י"ט ויש לה דלתו' אבל אם לא היתה העיר כולה מוכשרת במחיצו' ובאו להכשיר חציה ולערבה הרשו' בידם:
+
+
+What is the meaning of the words, "It is not to be built for the half of a city"? That is it is surrounded by a high wall, and it has a gate. But if the whole city were not prepared on the outside, and they came to prepare the half and to build the half, they allowed it in their hands:
 
 
 ###### Shulchan Arukh, Orach Chayim 392:6
@@ -30364,6 +30346,9 @@ Jews dwelling alone in a courtyard in a non-Jewish walled city, when other Jews 
 
 
 המזכה בשיתוף לכל בני העיר אם עירבו כולם עירוב א' א"צ להודיעם שזכו' הוא להם ודין מי ששכח ולא נשתתף עם בני העיר או מי שהלך לשבו' בעיר אחרת או עכו"ם שהיה עמהם בעיר דין הכל כדינה בחצר ומבוי:
+
+
+The one who qualifies all the inhabitants of the city for participation, if they all participated he does not need to inform them that the right is theirs. And the law for anyone who forgot and did not participate with the inhabitants of the city, or for anyone who went to exile in another city, or for a foreigner who was with them in the city, is the same as the law for the courtyard and in the alleyway:
 
 
 
@@ -30415,7 +30400,7 @@ If one made an eruv for two people—for one person while it was still day and t
 ספק עירוב כגון ספק אם היה קיים בין השמשו' אם לאו מותר והוא שיהיה לו חזקת כשרו' כגון שהניחו שם ואירע בו ספק אבל אם לא היה לו חזקת כשרו' כגון ספק אם הונח שם אם לאו לא:
 
 
-A case of doubt regarding an eruv, for example, if there is doubt whether it existed during twilight or not, is permitted, provided it had a presumption of validity. This means it was placed there and then doubt arose about it. However, if there was no presumption of validity, for example, if there is doubt whether it was placed there at all, it is not permitted.
+*Law regarding a doubtful erev. Containing 3 paragraphs.* A case of doubt regarding an eruv, for example, if there is doubt whether it existed during twilight or not, is permitted, provided it had a presumption of validity. This means it was placed there and then doubt arose about it. However, if there was no presumption of validity, for example, if there is doubt whether it was placed there at all, it is not permitted.
 
 
 ###### Shulchan Arukh, Orach Chayim 394:2
@@ -30468,7 +30453,7 @@ It is a mitzva to take care to arrange partnership of alleyways, and one recites
 שבו איש תחתיו מכאן שכל אדם יש לו ד' אמות בכל מקום אפי' יצא חוץ לתחום ומודדי' לכל אדם באמה שלו ואם היה ננס באיבריו נותנים לו ארבע אמות בינוני' של כל אדם שכל אחת מהן ששה טפחי': הגה ואלו ד' אמות מודדין לו מרווחת והוא באמצען (טור) ויש אומרים דמותר להלך ארבע אמות לכל צד אבל לטלטל אין לו רק ארבע אמות עם אלכסונן כמו שנתבאר לעיל סי' שמ"ט: (טור בשם הרז"ה פי"ב בשם רשב"א):
 
 
-Each man has under him, and further, each person has four amot (cubits) in every place, even if he went outside of the barrier and we measure for each person his "amah", and if he has short limbs, we give him four average-length amot, each of which is six handbreaths. Rema: And these four amot are measured wide with him in the center (Tur). And there are those who say that he is permitted to walk four amot on each side but carrying, he only has four amot at the diagonal, as was explained before in Siman 349 (Tur in the name of the Raza''h and the Maggid Ch. 12 in the name of the Rashbah.)
+"Each man has under him" (_Exodus 16:29_), from this phrase we learn that each person has four amot (cubits) in every place, even if he went outside of the barrier and we measure for each person his "amah", and if he has short limbs, we give him four average-length amot, each of which is six handbreaths. Rema: And these four amot are measured wide with him in the center (Tur). And there are those who say that he is permitted to walk four amot on each side but carrying, he only has four amot at the diagonal, as was explained before in Siman 349 (Tur in the name of the Raza''h and the Maggid Ch. 12 in the name of the Rashbah.)
 
 
 ###### Shulchan Arukh, Orach Chayim 396:2
@@ -30741,7 +30726,7 @@ If a city was wide on one end and narrow on another end, we view it as if it was
 כל בית דירה שהוא יוצא מהעיר אם היה בינו ובין העיר שבעי' אמה ושני שלישים שהוא צלע בית סאתים המרובעות או פחות מזה הרי זה מצטרף לעיר ונחשב ממנה וכשמודדין לה אלפים אמה לכל רוח מודדין חוץ מבית דירה זה: הגה ויש אומרים שאין מתחילין למדוד מיד מן הבית אלא מותחין חוט על פני רוחב העיר נגד הבית ומרחיקין משם שבעים אמה ושיריים ומתחילין וכן בכל מקום שמודדין (טור) וכן נראה לי להקל:
 
 
-Every apartment that is located outside the city, if there is a distance of seven and two-thirds cubits between it and the city, which is equivalent to the side of two square cubits or less, then it is considered part of the city, and when measuring the city's boundaries, it is included, except for this apartment. Rema: Some say that one should not start measuring immediately from the apartment, but rather stretch a string across the width of the city opposite the apartment and move it seventy cubits and two-thirds away from there, and start measuring from that point. This is done in every place where measuring is done (Tur). This is my opinion to be lenient.
+Every apartment that is located outside the city, if there is a distance of 70 and two-thirds cubits between it and the city, which is equivalent to the diagonal of a side of 50 square cubits (Beit sasaim) or less, then it is considered part of the city, and when measuring the city's boundaries, it is included, except for this apartment. Rema: Some say that one should not start measuring immediately from the apartment, but rather stretch a string across the width of the city opposite the apartment and move it seventy cubits and two-thirds away from there, and start measuring from that point. This is done in every place where measuring is done (Tur). This is my opinion to be lenient.
 
 
 ###### Shulchan Arukh, Orach Chayim 398:6
@@ -32086,7 +32071,7 @@ We do not say Tachanun through the entire month of Nissan, and we do not say "Yo
 
 
 **Shabbos Hagadol**
-The Shabbat before Passover is called "Shabbat HaGadol" because of the miracle that was performed. Rema: It's a custom at Mincha to recite the Haggadah from the section of Avadim Hayinu to L’chapeir al kol avonoseinu. (Minhagim)
+The Shabbat before Passover is called "Shabbat HaGadol" because of the miracle that was performed. Rema: It's a custom at Mincha to recite the Haggadah from the section of Avadim Hayinu to L’chapeir al kol avonoseinu. And we stop saying "barcei nafshei".(Minhagim)
 
 
 
@@ -32140,7 +32125,7 @@ Before one begins to search for chametz, the blessing "אשר קדשנו במצ�
 בברכה אחת יכול לבדוק כמה בתים ואם בעל הבית רוצה יעמיד מבני ביתו אצלו בשעה שהוא מברך ויתפזרו לבדוק איש במקומו על סמך ברכה שבירך ב"ה: הגה ונוהגים להניח פתיתי חמץ במקום שימצאם הבודק כדי שלא יהא ברכתו לבטלה (מהר"י ברי"ן) ומיהו אם לא נתן לא עכב דדעת כל אדם עם הברכה לבער אם נמצא (כל בו):
 
 
-With one blessing, one can check several houses. And if the head of the household wishes, a member of his household should arise at the time he makes the blessing, and he should then spread out to check, each person searching his designated place, upon the conclusion of the blessing said by the head of the household. Rema: It is our custom to leave small pieces of chametz in a place where the searcher will find them in order that his blessing not be in vain (Mahar"i; Ber"in). However, if one did not so [place bread] it does not hold back the need for the blessing because everyone has in mind to burn if he finds [bread]. (Kol Bo).
+With one blessing, one can check several houses. And if the head of the household wishes, one or more members of his household should arise at the time he makes the blessing, and they should then spread out to check, each person searching his designated place, relying upon the blessing said by the head of the household. Rema: It is our custom to leave small pieces of chametz in a place where the searcher will find them in order that his blessing not be in vain (Mahar"i; Ber"in). However, if one did not so [place bread] it does not hold back the need for the blessing because everyone has in mind to burn if he finds [bread]. (Kol Bo).
 
 
 
@@ -39247,7 +39232,7 @@ It is permitted to hire a gentile as a contractor or even as a day worker to wor
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/545:2](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/545:2)
 
 
-נראה לי שאם אין להם ס"ת כשר לקרו' בו בצבור מותר להגיהו בחה"מ כדי לקרות בו בציבור וכן בספרי מקרא וגמרא שצריך לקרו' במועד מותר להגיה' במועד משום דהוי דבר האבד ואם אין להם ס"ת כלל אם אפשר לכתבו כולו בח"המ ע"י סופרי' הרבה יכתבוהו דצורך המועד הוא לקרות בתורה בציבור במועד: הגה והוא הדין שאר ספרים ללמוד בהם (תה"ד סימן פ"ה ורוקח):
+נראה לי שאם אין להם ס"ת כשר לקרו' בו בצבור מותר להגיהו בחה"מ כדי לקרות בו בציבור וכן בספרי מקרא וגמרא שצריך לקרו' במועד מותר להגיה' במועד משום דהוי דבר האבד ואם אין להם ס"ת כלל אם אפשר לכתבו כולו בחה"מ ע"י סופרי' הרבה יכתבוהו דצורך המועד הוא לקרות בתורה בציבור במועד: הגה והוא הדין שאר ספרים ללמוד בהם (תה"ד סימן פ"ה ורוקח):
 
 
 2. It appears to me that is not to them a Kosher Sefer Torah to read with it with the Community, it is permitted to edit (i.e. fix errors) on Chol HaMoed in order to read with it with the Community. And the same with Books of Scripture and Talmud that are to read on the Festival, it is permitted to edit on the Festival because it is a matter of loss (Davar Haavid). And if there isn't a Sefer Torah at all, if it is possible to write completely on Chol HaMoed by many Scribes, it should be written because it a need of the Festival to read the Torah with the Community. *Note (Rema): the same rule applies for other Holy Books to learn from them (Terumas HaDeshen Chapter 85 and Rokeach.*
@@ -40485,7 +40470,7 @@ All that do work on Tisha B'av, one will not see a sign of blessing from that wo
 כל האוכל ושות' בתשעה באב אינו רואה בשמחת ירושלים וכל המתאבל על ירושלים זוכה ורואה בשמחתה וכל האוכל בשר או שותה יין בסעודה המפסקת עליו הכתוב אומר ותהי עונותם על עצמותם:
 
 
-All that eat and drink on Tisha B'av, will not see the joy of Jerusalem. And all that mourn on Jerusalem, will merit and see it in her joy. And that eat meat and drink at the Parting Meal, on him the verse says their iniquities are on their bones (Ezekiel 32:27).
+All that eat and drink on Tisha B'av, will not see the joy of Jerusalem. And all that mourn on Jerusalem, will merit and see it in her joy. And that eat meat and drink wine at the Parting Meal, on him the verse says their iniquities are on their bones (Ezekiel 32:27).
 
 
 
@@ -40617,7 +40602,7 @@ People don't say Tachanun (or slichot) (notes of Ashiri) on Tisha b'Av, and they
 בשעת הקינות אסור לספר דבר ולצאת חוץ כדי שלא יפסיק לבו מן האבלות וכל שכן שלא ישיח עם העכו"ם (ונוהגין לומר קצת נחמה אחר הקינות לפסוק בנחמה) (הגהות מיימוני):
 
 
-At the time of kinot, it is forbidden to tell a thing or to go outside, since one should not separate one's heart/mind from mourning. And all of this is so that one should not be distracted with the idol-worshippers. (And we are accustomed to say a short comfort after the kinnot, to a verse of comfort) (Hagahaot Maimoni).
+At the time of kinot, it is forbidden to tell a thing or to go outside, since one should not separate one's heart/mind from mourning. And all the more so that one should not be distracted with the idol-worshippers. (And we are accustomed to say a short comfort after the kinnot, to a verse of comfort) (Hagahaot Maimoni).
 
 
 ###### Shulchan Arukh, Orach Chayim 559:6
@@ -45558,7 +45543,7 @@ When we deemed kosher a sukkah with two walls shaped like a gamma kosher by addi
 נעץ ד' קונדסין בין באמצע הגג בין על שפת הגג וסיכך על גבן פסולה ויש מכשירין בנעץ על שפת הגג משום דאמרי' גוד אסיק מחיצתא:
 
 
-If one inserts four pools, whether in the middle of the roof or at the edge of the roof, and puts schach on top of them, it is invalid. There are those who declare it valid if they are inserted at the edge of the roof because we say "extend and raise the walls."
+If one inserts four poles, whether in the middle of the roof or at the edge of the roof, and puts schach on top of them, it is invalid. There are those who declare it valid if they are inserted at the edge of the roof because we say "extend and raise the walls."
 
 
 ###### Shulchan Arukh, Orach Chayim 630:7
@@ -46401,7 +46386,7 @@ If its leaves burst — that is, they became loose from the spine of the lulav l
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/645:3](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Orach%20Chayim/r/645:3)
 
 
-בריית עלין של לולב כך היא כשהם גדלים גדלים שנים שנים ודבוקים מגבן וגב של שני עלין היא הנקרא תיומת נחלקה התיומת [ברוב העלין] [טור וב"י] פסולה היו עליו אחת אחת מתחלת ברייתו ולא היה תיומת או שכל עליו כפולים מצדו הא' וצד השני ערום בלא עלין פסול: הגה וי"מ לומר דאם נחלק העלה העליון האמצעי שעל השדרה עד השדרה מיקרי נחלק התיומת ופסול והכי נוהגין (ת"ה סי' צ"ז) מיהו לכתחלה מצוה מן המובחר נוהגין ליטול לולב שלא נחלק העלה העליון כלל כי יש מחמירין אפילו בנחלק קצת ואם אותו העלה אינה כפול מתחלת ברייתו פסול [כל בו]:
+בריית עלין של לולב כך היא כשהם גדלים גדלים שנים שנים ודבוקים מגבן וגב של שני עלין היא הנקרא תיומת נחלקה התיומת [ברוב העלין] [טור וב"י] פסולה היו עליו אחת אחת מתחלת ברייתו ולא היה תיומת או שכל עליו כפולים מצדו הא' וצד השני ערום בלא עלין פסול: הגה וי"מ לומר דאם נחלק העלה העליון האמצעי שעל השדרה עד השדרה מיקרי נחלק התיומת ופסול והכי נוהגין (ת"ה סי' צ"ו) מיהו לכתחלה מצוה מן המובחר נוהגין ליטול לולב שלא נחלק העלה העליון כלל כי יש מחמירין אפילו בנחלק קצת ואם אותו העלה אינה כפול מתחלת ברייתו פסול [כל בו]:
 
 
 3. Lulav leaves grows like this: when they grow, they grow in pairs attached together from the back. The back of these sets is called the tyomet. If the tyomet is split [in most of the leaves] [Tur, Beit Yosef] it is invalid. If the leaves grew individually from the beginning, such that there is no tyomet, or if all double leaves are on one side and the other side has no leaves, it is invalid. Rema: Some interpret this as meaning that if the central top leaf on top of the spine is split across the spine, it is considered a split tyomet and is invalid, and this is our practice (Trumat Hadeshen 97). However, initially it is the preferred way to do the mitzvah to get a lulav whose top leaf is not split at all, because there are those who are stringent when even some of it is split. If that leaf is not double from the beginning of its growth, it is invalid (Kol Bo).
@@ -46508,7 +46493,7 @@ If its berries outnumbered its leaves and they are green, it is valid. If they a
 ענף עץ עבות האמור בתורה היא ההדס שעליו חופין את עציו כגון שלשה עלין או יותר בגבעול אחד אבל אם היו שני העלין בשוה זה כנגד זה והעלה השלישי למעלה מהן אין זה עבות אבל נקרא הדס שוטה: הגה ופסול אפי' בשעת הדחק ואיכא מאן דאמר בגמר' דכשר וע"כ נוהגין באלו המדינות לכתחלה לצאת באלו ההדסים המובאים ואין ג' עלין בגבעול אחד ויש מי שכתב דהדסים שלנו אין נקראים הדס שוטה הואיל והם שנים על גב שנים ואינן כהדס שוטה המוזכר בגמרא ולכן נהגו להקל כמ"ש מהר"י קולן ומהר"י איסרלן ז"ל בתשובותיהם:
 
 
-"Boughs of a dense-leaved tree" [Leviticus 23:40] talked about in the Torah are myrtle whose leaves cover its tree, with three or more leaves from one node. However, if there are two leaves at the same level, one opposite the other, and a third one above them, this is not considered dense; rather, it is considered wild myrtle. Rema: And it is valid, even in an emergency. There is an opinion in the Gemara that it is valid. That is why in these countries, we initially use these myrtles that are imported and do not have three leaves from one node. There is one who says that our myrtles are not considered wild myrtle because they are two by two and are not like the wild myrtle in the Gemara. Therefore, our practice is to be lenient, following what was written by Mahari"i Kolon and Mahar"i Iserlin z"l in their responsa.
+"Boughs of a dense-leaved tree" [Leviticus 23:40] talked about in the Torah are myrtle whose leaves cover its tree, with three or more leaves from one node. However, if there are two leaves at the same level, one opposite the other, and a third one above them, this is not considered dense; rather, it is considered wild myrtle. Rema: And it is invalid, even in an emergency. There is an opinion in the Gemara that it is valid. That is why in these countries, we initially use these myrtles that are imported and do not have three leaves from one node. There is one who says that our myrtles are not considered wild myrtle because they are two by two and are not like the wild myrtle in the Gemara. Therefore, our practice is to be lenient, following what was written by Mahari"i Kolon and Mahar"i Iserlin z"l in their responsa.
 
 
 ###### Shulchan Arukh, Orach Chayim 646:4

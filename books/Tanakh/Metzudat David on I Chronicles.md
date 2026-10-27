@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat David/Writings
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 1094, License: Public Domain)
+Version (He): On Your Way (Segments: 1096, License: Public Domain)
 
 Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 1)
 
@@ -266,19 +266,19 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 1)
 
 
 
-### Verse 6
+### Verse 7
 
-###### Metzudat David on I Chronicles 2:6:1
+###### Metzudat David on I Chronicles 2:7:1
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/2:6:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/2:6:1)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/2:7:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/2:7:1)
 
 
 **ובני כרמי.** כרמי היה בן זבדי והוא זמרי בן זרח ואף שאחד היה אמר ובני כי כן דרך ל׳ המקרא כמו ובני דן חושים (בראשית מ״ו:כ״ג) ורבים כמוהו:
 
 
-###### Metzudat David on I Chronicles 2:6:2
+###### Metzudat David on I Chronicles 2:7:2
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/2:6:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/2:6:2)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/2:7:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/2:7:2)
 
 
 **עכר.** הוא עכן וקראו לגנאי כאמור כי היה עוכר ישראל בדבר אשר מעל בחרם בימי יהושע ועי״ז נס ישראל לפני האויב ונפלו בחרב:
@@ -417,7 +417,18 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 1)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/2:26:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/2:26:2)
 
 
-**היא אם אונם.** על כי אונם היה חשוב וידוע לזה ייחס אמו אחריו (לב) לא בנים. בלא בנים:
+**היא אם אונם.** על כי אונם היה חשוב וידוע לזה ייחס אמו אחריו
+
+
+
+### Verse 32
+
+###### Metzudat David on I Chronicles 2:32:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/2:32:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/2:32:1)
+
+
+**לא בנים.** בלא בנים:
 
 
 
@@ -720,7 +731,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 1)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/3:17:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/3:17:1)
 
 
-**ובני יסניה.** מלבד צדקיהו הנזכר:
+**ובני יכניה.** מלבד צדקיהו הנזכר:
 
 
 ###### Metzudat David on I Chronicles 3:17:2
@@ -1223,11 +1234,11 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 1)
 
 
 
-### Verse 35
+### Verse 38
 
-###### Metzudat David on I Chronicles 4:35:1
+###### Metzudat David on I Chronicles 4:38:1
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/4:35:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/4:35:1)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/4:38:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/4:38:1)
 
 
 **אלה הבאים בשמות.** רצה לומר אלה הנזכרים בשמותם היו נשיאי׳ במשפחות׳ ובית אבותיהם התחזקו להיות עם רב ולא יכלו לשבת בהמחוז הנשאר:
@@ -1409,9 +1420,12 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 1)
 **והבכורה.** בדבר נחלת השבטים היא לבדה נתנה ליוסף וכאומר הנה על כי לא נשאר מה מן המעלה לראובן לזה אמרו עד כה והקדים ליהודה מפני כבוד המלוכה:
 
 
-###### Metzudat David on I Chronicles 5:2:4
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/5:2:4](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/5:2:4)
+### Verse 4
+
+###### Metzudat David on I Chronicles 5:4:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/5:4:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/5:4:1)
 
 
 **שמעיה בנו וכו׳.** כל מה שחשב היה אחד בן אחד:
@@ -2120,17 +2134,20 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 1)
 **את חברון.** על שהזכיר השאר הזכיר שוב את חברון:
 
 
-###### Metzudat David on I Chronicles 6:42:4
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/6:42:4](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/6:42:4)
+### Verse 45
+
+###### Metzudat David on I Chronicles 6:45:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/6:45:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/6:45:1)
 
 
 **וממטה בנימין.** ואלו הנזכרים למעלה היו מבני יהודה ומבני שמעון:
 
 
-###### Metzudat David on I Chronicles 6:42:5
+###### Metzudat David on I Chronicles 6:45:2
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/6:42:5](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/6:42:5)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/6:45:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/6:45:2)
 
 
 **שלש עשרה.** אינם מנויין כאן כ״א י״א והשנים כלולים בהמגרשים וביהושע הזכיר כולם בשמם וקצתם בשינויי השמות ובשתיהן נקראו במשפחותיהם. הנחלקים בין משפחות הכהנים וכל משפחה ישבה לבדה ולא מעורבבים:
@@ -3284,7 +3301,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 1)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/9:18:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/9:18:1)
 
 
-**ועי הנה.** ר״ל כמו שיסד דוד ושמואל את השוערים כן היה כל ימי עמידת הבית ועד הנה בבית השני:
+**ועד הנה.** ר״ל כמו שיסד דוד ושמואל את השוערים כן היה כל ימי עמידת הבית ועד הנה בבית השני:
 
 
 ###### Metzudat David on I Chronicles 9:18:2
@@ -4398,11 +4415,11 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 1)
 
 
 
-### Verse 6
+### Verse 7
 
-###### Metzudat David on I Chronicles 12:6:1
+###### Metzudat David on I Chronicles 12:7:1
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/12:6:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/12:6:1)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/12:7:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/12:7:1)
 
 
 **הקרחי.** אלקנה וכו׳ היו מבני קרח:
@@ -4950,17 +4967,20 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 1)
 **ימי שאול.** כי בעבור שהרג נוב עיר הכהנים משרתי הארון בזה כאלו מיעט כבוד הארון:
 
 
-###### Metzudat David on I Chronicles 13:3:4
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/13:3:4](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/13:3:4)
+### Verse 5
+
+###### Metzudat David on I Chronicles 13:5:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/13:5:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/13:5:1)
 
 
 **עד לבוא חמת.** עד המקום שבאים בה לחמת מקצה גבול א״י עד קצהו:
 
 
-###### Metzudat David on I Chronicles 13:3:5
+###### Metzudat David on I Chronicles 13:5:2
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/13:3:5](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/13:3:5)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/13:5:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/13:5:2)
 
 
 **מקרית יערים.** כי שם היה מעת שהחזירוהו הפלשתים כמ״ש בש״א:
@@ -6344,9 +6364,12 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 1)
 **וממשכן.** כאלו אמר וממשכן אל משכן והוא מקר׳ קצר ומעצמו יובן החסרון:
 
 
-###### Metzudat David on I Chronicles 17:5:4
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/17:5:4](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/17:5:4)
+### Verse 6
+
+###### Metzudat David on I Chronicles 17:6:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/17:6:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/17:6:1)
 
 
 **בכל אשר וכו׳.** בכל המקומות אשר התהלכתי וכו׳ וכי דברתי אל אח׳ מהשופטים אשר צויתיו לרעות את עמי וכו׳ וכאומר הנה מזה תדע שבנין הבית שמורה היא למי שיבנהו ואין כולם ראויים לה ולזה לא צויתי עליה מאז:
@@ -8397,11 +8420,11 @@ For the place – for all the field around the threshing-floor
 
 
 
-### Verse 24
+### Verse 25
 
-###### Metzudat David on I Chronicles 24:24:1
+###### Metzudat David on I Chronicles 24:25:1
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/24:24:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/24:24:1)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/24:25:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/24:25:1)
 
 
 **אחי מיכה ישיה.** ר״ל בית האב שהיתה נקראה ע״ש ישיה שהיה אחי מיכה הוחזרה להיות נקרא ע״ש זכריהו שהיה מבני ישיה:
@@ -10204,20 +10227,31 @@ For the place – for all the field around the threshing-floor
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/29:4:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/29:4:2)
 
 
-**לטוח וכו׳.** חוזר הוא על הזהב כי לא טחום בכסף, ורז״ל אמרו שהכסף האמור כאן ר״ל זהב טוב המכסיף כל הזהבים (ה) לזהב לזהב. את הזהב לכלי הזהב וכו׳:
+**לטוח וכו׳.** חוזר הוא על הזהב כי לא טחום בכסף, ורז״ל אמרו שהכסף האמור כאן ר״ל זהב טוב המכסיף כל הזהבים
 
 
-###### Metzudat David on I Chronicles 29:4:3
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/29:4:3](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/29:4:3)
+### Verse 5
+
+###### Metzudat David on I Chronicles 29:5:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/29:5:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/29:5:1)
+
+
+**לזהב לזהב.** את הזהב לכלי הזהב וכו׳:
+
+
+###### Metzudat David on I Chronicles 29:5:2
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/29:5:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/29:5:2)
 
 
 **ולכל מלאכה וכו׳.** ואת כל דבר הנצרך למלאכה הלא המה מסורים ביד החרשים:
 
 
-###### Metzudat David on I Chronicles 29:4:4
+###### Metzudat David on I Chronicles 29:5:3
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/29:4:4](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/29:4:4)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/29:5:3](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Chronicles/r/29:5:3)
 
 
 **ומי מתנדב.** אמר אל העומדים לפניו מי בכם מתנדב מה לחנך את ידו היום בתת נדבה לה׳ וכאומר מעתה התחילו להתנדב על בנין הבית:

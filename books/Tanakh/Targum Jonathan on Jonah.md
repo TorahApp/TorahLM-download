@@ -514,7 +514,7 @@ And the LORD God invited a gourd, and it grew up over Jonah to be shade over his
 וְזַמֵין יְיָ יַת תּוֹלַעְתָּא בְּמֵיסַק צַפְרָא בְּיוֹמָא דְבַתְרוֹהִי וּמְחָא יַת קִיקָיוֹן וִיבָשׁ:
 
 
-And the LORD invited a worm as the sun rose on the net day, and it struck the gourd and it wilted.
+And the LORD invited a worm as the sun rose on the next day, and it struck the gourd and it wilted.
 
 
 ###### Targum Jonathan on Jonah 4:8

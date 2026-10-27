@@ -14,9 +14,9 @@ Location: Halakhah/Rishonim
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Abudarham. Lisbon, 1489. (Segments: 1772, License: Public Domain)
+Version (He): Turin National University Library, Turin, Italy Ms. A II 29 (Segments: 1772, License: Public Domain)
 
-Version (En): Rabbi Mark Greenspan, 2023 (Segments: 495)
+Version (En): Sefaria Community Translation (Segments: 505)
 
 
 ## Introduction
@@ -709,7 +709,7 @@ footnotes:
 [https://torahapp.org/share/book/Abudarham/s/Third%20Gate%3B%20Blessings%20on%20Commandments/r/4](https://torahapp.org/share/book/Abudarham/s/Third%20Gate%3B%20Blessings%20on%20Commandments/r/4)
 
 
-וגרסינן בתוספתא דברכות עשרה שהיו עושין עשר מצות כל אחד ואחד מברך לעצמו. היו כלן עושין מצוה אחת אחד מברך לכולן. ויחיד שהיה עושה עשר מצות מברך על כל אחת ואחת, פירוש ברכה הראויה לו ולא יברך על כלם אקב"ו על המצות. היה עושה מצוה אחת כל היום אינו מברך אלא אחת. היה מפסיק ועושה מפסיק ועושה מברך על כל אחת ואחת. יראה מזאת התוספתא שאם היו עשרה בני אדם רוצין להניח תפלין או להתעטף בצצית או לעסוק בתורה אחד מברך לכולם. וכן נוהגין בישיבת סוכה או לקידוש או מוציא שאחד מברך לכלם. וכן כתב הרא"ש בבדיקת חמץ שאם בעל הבית אינו יכול לטרוח ולבדוק בכל המקומות שבבית שיעמיד מבנו ביתו אצלו בשעת שהוא מברך ויתפזרו לבדוק איש איש במקומו על סמך הברכה שברך בעל הבית.
+וגרסינן בתוספתא דברכות עשרה שהיו עושין עשר מצות כל אחד ואחד מברך לעצמו. היו כלן עושין מצוה אחת אחד מברך לכולן. ויחיד שהיה עושה עשר מצות מברך על כל אחת ואחת, פירוש ברכה הראויה לו ולא יברך על כלם אקב"ו על המצות. היה עושה מצוה אחת כל היום אינו מברך אלא אחת. היה מפסיק ועושה מפסיק ועושה מברך על כל אחת ואחת. יראה מזאת התוספתא שאם היו עשרה בני אדם רוצין להניח תפלין או להתעטף בצצית או לעסוק בתורה אחד מברך לכולם. וכן נוהגין בישיבת סוכה או לקידוש או מוציא שאחד מברך לכלם. וכן כתב הרא"ש בבדיקת חמץ שאם בעל הבית אינו יכול לטרוח ולבדוק בכל המקומות שבבית שיעמיד מבני ביתו אצלו בשעת שהוא מברך ויתפזרו לבדוק איש איש במקומו על סמך הברכה שברך בעל הבית.
 
 
 ...We find the following in Tosefta Brachos: "In a group of ten fulfilling ten commandments, each member must recite a blessing individually. In a group of ten fulfilling one commandment, one member must recite a blessing on behalf of the group. An individual fulfilling ten commandments must recite a blessing for each commandment..." The individual must recite a distinct blessings for each of the ten commandments rather than one general blessing for all ten commandments. "...An individual fulfilling one commandment over the course of the day must only recite one blessing, but if the fulfillment of the commandment is intermittent, then the blessing must be recited multiple times." It appears from this teaching from Tosefta that, in a group of ten who wish to put on tefillin, put on talleisim, or study Torah, one member must recite a blessing on behalf of the group. This is in fact the custom when it comes to sitting in the sukkah, making kiddush, or starting a meal — one member of a group must recite the blessing on behalf of the group. The Rosh ruled similarly in connection with bedikas chametz, as follows: "If the homeowner is incapable of inspecting the entire house, he must assemble other members of the household to properly carry out the inspection after he recites the blessing."
@@ -10466,12 +10466,18 @@ The reason God commanded us to count the Omer is because each person was busy wi
 **ליל תשעה באב** חולצין מנעליה' כאבלים והולכים לבית הכנסית. ואין מדליקין נרות רק נר א' לומר לאורו איכה. וכשיגיע לנפלה עטרת ראשנו מכבה אותו. ומתפללין ערבית כשאר הימים ואומ' עננו. ואומ' ש"צ קדיש תתקבל ואחר כך קורין איכה ואומ' קינות ואחר כך ובא לציון וכל סדר קדושה. ולא יאמ' ואני זאת בריתי אותם שנרא' כמקיים ברית על הקינות ועוד מפני שכתוב בו לא ימושו מפיך ובט' באב אסור לקרות בתורה משום שנאמ' פקודי ה' ישרים משמחי לב. וכן בבית האבל נהגו שלא לאמרו מפני שגם כן האבל אסור לקרות בתורה. ואו' קדיש דהוא עתיד לחדתא עלמא והולכין לבתיהם. ואן נותנין שלום זה לזה אלא כאבלים ונזופי'. והטעם שאין מדליקין נרות בבית הכנסת כדאית' באיכה רבתי שאמ' הב"ה למלאכי השרת בשעת חרבן הבית מלך בשר ודם כשהוא אבל מה דרכו לעשות אמרו לו מכבה את הפנסין אמ' להם אף אני אעשה כן שנאמ' שמש וירח קדרו. ופי' פנסין כלים שנותנין בהם הנרות מפני הרוח שלא יכבו שקורי' להם עששיות וכן תרגו' באורים כבדו ה' בפנסיא.
 
 
+The night of the Ninth of Av, they remove their shoes like mourners and go to the synagogue. They do not kindle more than one lamp to recite Lamentations by its light. And when one arrives at "Fallen is the crown of our heads!"1 it is extinguished. And pray the evening servie like on any other days, and say "Answer us"2 And the prayer leader says the complete *qaddish* and after that recites Lamentations and says *qinot*, and after that "and to Zion comes" and all the *qedusha d-sidra*. But one does not say "and as for Me, this is My covenant with them"3, as it would seem to be renewing the covenant on the *qinot*, and since it is written within, "it will not depart from your mouth," and on the Ninth of Av it is forbidden to read Torah, since it is written, "the precepts of the LORD are upright, rejoicing the heart"4. And so too in a house of mourning it is customary not to say it, since there too the mourner is forbidden from reading Torah. And say the *qaddish d-hu 'atid l-ḥadta*5 and return home. And one does not greet another except as mourners and the rebuked. And the reason for not lighting lights in the synagogue is as is said in Eikha Rabbati6, that the Holy Blessed One said to the ministering angels at the time of the destruction of the Temple, "What is a king of flesh and blood supposed to do when he is mourning?" They said to him, "He extinguishes the *phanas*es." He said to them, "So too I will do such," as it is said, "Sun and moon are dimmed."7. And the meaning of *phanas*es8 is vessels that carry lamps, that the wind not extinguish them, also called lanterns. And thus the targum of "With lights honor the LORD"9 as "with *phanas*es."
+
+
 ###### Abudarham, Fasts, Tishah B'Av 2
 
 [https://torahapp.org/share/book/Abudarham/s/Fasts,_Tishah%20B%27Av/r/2](https://torahapp.org/share/book/Abudarham/s/Fasts,_Tishah%20B%27Av/r/2)
 
 
 ואם חל במוצאי שבת אין אומ' ויהי נועם. ויש מן הגאונים שכתבו כיון שאין אומ' ויהי נועם גם סדר קדושה אין לומ'. ורב צמח כת' אין אומ' ויהי נועם אבל אומ' ובא לציון וכוליה סדרא אבל ואני זאת בריתי אין אומ'. ואין מבדילין על הכוס עד מוצאי ט' באב ואין מריחין עצי בשמים מפני שבליל ט' באב אין לעשות נחת רוח אבל מברכין על האור קודם שקורין איכה. וכן כת' בה"ג.
+
+
+And if it fell on Saturday night, one does not say "And may it be pleasant." And some of the gaonim wrote that when one does not say "And may it be pleasant" one also does not say the *qedusha d-sidra*. And Rav Tsemaḥ1 wrote that one does not say "And may it be pleasant" but does say "and to Zion comes" and the entirety of the *qedusha d-sidra* other than "and as for Me, this is My covenant." And one does not do *havdala* on a cup until after the Ninth of Av, and one does not smell fragrant plants, since on the night of the Ninth of Av one does not act for peace of mind, but one does bless on the light before reading Lamentations And thus is written in the Halakhot Gedolot2.
 
 
 ###### Abudarham, Fasts, Tishah B'Av 3
@@ -10482,12 +10488,18 @@ The reason God commanded us to count the Omer is because each person was busy wi
 **שחרית** נכנסין לבית הכנסת ומסדרי' הברכות וקורין הזמירות כשאר הימים. וכתב הרמב"ן נהגו קצת העם שלא לקרות פרש' הקרבנות ומשנת איזהו מקומן ומדרש ר' ישמעאל בבית הכנסת לפי שאסור לקרות בתורה ואינו נראה לי לפי שאין לנו איסור בסדר היום שהרי קורין ק"ש ומברכין לפניה ולאחריה וכן קורין בתורה ומפטירי' בנביא ופרשת הקרבנות ואיזהו מקומן כנגד התמידין תקנום ואומרן כדרכו ואינו חושש.
 
 
+For the morning-service, enter the synagogue and arrange the blessings and say *zemirot* as on every day. And the Ramban wrote1 that some of the people customarily did not recite the portions of the sacrifices and the fifth chapter of Mishnah Zevachim and the *midrash* of R. Yishmael in the synagogue, since it is forbidden to read Torah. But this seems incorrect to me, for we have no prohibition on the daily order, for indeed we read the Recitation of the *Shema'* and bless before and after it, and we read in the Torah and recite a prophetic *haftara*, and the portions of the sacrifices and M. Zevachim 5 are established permanently, and say them in their way without hesitation.
+
+
 ###### Abudarham, Fasts, Tishah B'Av 4
 
 [https://torahapp.org/share/book/Abudarham/s/Fasts,_Tishah%20B%27Av/r/4](https://torahapp.org/share/book/Abudarham/s/Fasts,_Tishah%20B%27Av/r/4)
 
 
 וחוזר ש"צ התפלה ובמקום נקדישך ונעריצך אומ' נקדש את שמך הגדול כשם שמקדישין אותו בשמי מרום וכן כתו' על יד נביאך וקרא זה אל וכו'. ואומ' קינות באמצע התפלה. ואינו אומ' ברכת כהנים וכשיגיע עד ולך נאה להודו' אומ' עושה השלו' ברך את עמך ישראל ברב עוז ושלום בא"י עושה השלום.
+
+
+And the prayer-leader repeats the standing-prayer but instead of saying "We will sanctify You and praise You" he says "Let us sanctify Your great name as they sanctify it in the highest heavens, and thus it is written by Your prophet's hand, 'and one called to' etc."1 and say *qinot* within the prayer.2 And do not say the priestly blessing, but when you arrive at "to you it is good to thank"3 say "Maker of peace, bless Your people Israel with great strength and peace. Blessed are You, LORD, maker of peace."4
 
 
 ###### Abudarham, Fasts, Tishah B'Av 5
@@ -10498,12 +10510,18 @@ The reason God commanded us to count the Omer is because each person was busy wi
 ואין אומרים תחנונים ולא נפילת אפים. ואומ' קינות בישיבה וכשמסיים אומ' עד אנה בכיה בציון והספד בירושלם תקום תרחם ציון תבנה חומות ירושלם ואומ' קדיש דהוא עתיד לחדתא.
 
 
+And do not say petitionary prayers, nor supplication. And say *qinot* sitting down, and conclude with "How long will there be weeping in Zion and mourning in Jerusalem? Rise, have compassion on Zion, build the walls of Jerusalem!" 1 and say the *qaddish d-hu 'atid l-ḥadta*2.
+
+
 ###### Abudarham, Fasts, Tishah B'Av 6
 
 [https://torahapp.org/share/book/Abudarham/s/Fasts,_Tishah%20B%27Av/r/6](https://torahapp.org/share/book/Abudarham/s/Fasts,_Tishah%20B%27Av/r/6)
 
 
 והולך ש"צ להוציא ס"ת ואינו אומ' אל ארך אפים ומוציא ס"ת ומניחו על מגדל קטן אצל התיבה ואינו אומ' הכל יתגדל אלא מתחיל מן תגלה ותראה מלכותו וכו'. והטעם שמשנים מקום ס"ת משום דאמרינן בתעני' צבור ונותנין אפר מקלה על גבי התיבה משום דכתיב עמו אנכי בצרה. וקורין כהן ולוי ומפטיר בפרש' ואתחנן מן כי תוליד בנים ובני בנים עד ולמען תאריך ימים על האדמה אשר ה' אלקיך נותן לך כל הימים. ואומר קדיש עד לעילא. ופטיר בירמיה אסוף אסיפם עד כי באלה חפצתי נאום ה'. ומברך הברכות האחרונות עד מגן דוד. וכן במנחה. ואמרי' במס' סופרים יש שמניחין את תיק הספר על הקרקע ואומ' נפלה עטרת ראשנו וקוראין ומספידין כמי שמתו מוטל לפניו ויש שמשנין מקומן ויש שיורדין מספסליהם למטה וכולן מתפלשין באפר ואין אומרין שלום זה לזה כל הלילה וכל היום עד שישלימו העם קינותיהם.
+
+
+And the prayer-leader goes to bring out the Torah scroll, without saying "Deity long-suffering!," and brings out the scroll and rests it on a small tower near the ark, and does not say "All sanctify" but starts with "Revealed and shown be His sovereignty" etc. And the reason for changing the location of the Torah scroll is as we said for public fast days: "And they put burnt ashes upon the ark"1, as it is written "I will be with them in stress"2. And the priest, levite, and concluder recite from Parashat Vaetḥanan, Deuteronomy 4:25–40. And say the half-*qaddish*, and conclude with Jeremiah 8:13-9:23, And bless the concluding blessings up until "shield of David" — in the afternoon as well. And it says in Tractate Soferim that some place the case of the scroll on the ground and say "Fallen is the crown of our heads!"3 and recite eulogies like one whose dead are before him, and some change their place, and some descend down from their benches, and everyone wallows in ashes, and none greets another all night and all day until the people have finished their *qinot*.4
 
 
 ###### Abudarham, Fasts, Tishah B'Av 7
@@ -10514,12 +10532,18 @@ The reason God commanded us to count the Omer is because each person was busy wi
 ואומר אשרי ומדלגין יענך ה' ביום צרה. וכן בבית האבל אין אומרי' אותו לפי שאין בדין לומ' שירה. ואו' סדר קדושה ולא יאמ' ואני זאת בריתי אותם. ומחזיר ס"ת למקומו ואומר יהללו את שם ה' וגו' ואומ' קדיש תתקבל וקורין איכה. ואחר כך קורין מזמור על נהרות בבל ואומר קדיש יהא שלמא רבה. וקורין אחר כך ספר איוב. ואומר מזמור לאסף אלקים באו גוים, ואומ' קדיש יהא שלמא רבה.
 
 
+And say *Ashrei* but skip Psalm 20. And so too in a house of mourning one does not say it, because those in judgement do not sing songs. And say the *qedusha d-sidra* but not "and as for Me, this is My covenant with them." And return the Torah scroll to its place, and say "May they praise the name of the LORD"1 etc, and say the complete *qaddish* and read Lamentations, and after that read Psalm 137 and say *qaddish yehei shlama raba*2, and after that read the book of Job, and say Psalm 79, and say *qaddish yehei shlama raba*.
+
+
 ###### Abudarham, Fasts, Tishah B'Av 8
 
 [https://torahapp.org/share/book/Abudarham/s/Fasts,_Tishah%20B%27Av/r/8](https://torahapp.org/share/book/Abudarham/s/Fasts,_Tishah%20B%27Av/r/8)
 
 
 ולענין הנחת תפלין בט' באב כתב מר רב ששנה שמותר להניח תפלין דהא כבר אמרי' אבל מותר להניח תפלין. אבל הראב"ד כת' שמעולם לא הניחו בט' באב ואמ' שיותר טוב הוא לשים אפר מקלה על ראשו. וכתב הרא"ש ומסתבר' דחייב בתפלין כיון דאבל גופיה לא מתסר אלא ביום ראשון דלא חמיר תשעה באב מששת ימי אבלות ובריתא דמצות הנוהגות באבל נוהגות בט' באב כל שבעת ימים קאמ' ופרושי קא מפרש להו כגון רחיצה וסיכה ונעילת הסנדל ותשמיש המטה ולקרות בתורה. והר' מאיר כת' ונראה דבט' באב אין להניח תפלין כמו ביום ראשון של אבל שאין יום מר יותר ממנו יום קביעות בכיה לדורות. וכתב הרא"ש ואיפשר שדחק למצוא סמך למנהג אשכנז אבל לכאורה נראה כמו שכתבתי. ועוד כתב הר' מאיר דרוטנבורק וציצית נהגו קדמוננו בכל אשכנז שלא להתעטף בו בט' באב ואסמכוה אקרא דכתיב בצע אמרתו ואמרי' במדרש איכה רבתי בצע פורפורי' דיליה ויש שאינן רוצים לשנות המנהג. וגם אינן רוצים להיו' בלא צצית ומתעטפים בטלית קטן תחת בגדיהם ע"כ.
+
+
+And regarding the laying of *tefillin* on the Ninth of Av, Mar Rav Sheshna1 wrote that it is permitted to lay *tefillin*, as it is already said that a mourner is permitted to lay *tefillin*. But the Raavad wrote that nobody ever lay them on the ninth of Av, and said it is better to set burnt ash on one's head. And the Rosh wrote:2 on the contrary, one is required with *tefillin* when personally mourning on all days but the first, and the Ninth of Av is not more stringent than the six days of personal mourning. And the *baraita* that all commandments practiced by a mourner are practiced on the Ninth of Av3 is interpreted as referring to those that apply for all seven days — washing and anointing and putting on shoes and sexual intercourse and reading Torah. And the R. Meir4 wrote that it seems that on the Ninth of Av one does not lay *tefillin*, like on the first day of mourning, for there is no day more bitter than it, the day appointed for generational weeping. And — the Rosh wrote — he enabled it as he was pressed to find support for the Ashkenazi custom5, but what I wrote seems right to me. And the R. Meir of Rothenburg also wrote that our ancestors in all of Ashkenaz were accustomed not to wrap *tsitsit* on the ninth of Av, and supported this from a verse, as written, "He implemented his statement"6 and in Midrash Eicha Rabbati it says "He tore His raiment"6. And soe do not wish to change the custom. And so too they do not wish to go without *tsitsit*, and wrap themselves in a small *tallit* under their clothes.7
 
 
 ###### Abudarham, Fasts, Tishah B'Av 9
@@ -10530,12 +10554,18 @@ The reason God commanded us to count the Omer is because each person was busy wi
 מה שאומ' בקנות דם הנביא זכריה אינו זכריה בן עדוא שנתנבא בזמן חגי זכרי' מלאכי אלא הוא זכריה בן יהוידע ובדברי הימים תמצאנו שהרגו יואש המלך.
 
 
+When it says in the *qinot* "the blood of the prophet Zechariah"1 it is not Zechariah son of Iddo, who prophesied in the time of Haggai and Zechariah and Malachi. Rather, it is Zechariah son of Jehoiada, who you can find in Chronicles was killed by King Joash.2
+
+
 ###### Abudarham, Fasts, Tishah B'Av 10
 
 [https://torahapp.org/share/book/Abudarham/s/Fasts,_Tishah%20B%27Av/r/10](https://torahapp.org/share/book/Abudarham/s/Fasts,_Tishah%20B%27Av/r/10)
 
 
 תנן בפסחים מקום שנהגו לעשות מלאכה בט' באב עושין מקום שנהגו של לעשות אין עושין ובכל מקום תלמידי חכמי' בטלים. ואמרינן בפ' בתרא דתעניות כל העושה מלאכה בט' באב אינו רואה סימן ברכה לעולם.
+
+
+It was taught in Pesachim1, a place where they are accustomed to doing work on the Ninth of Av they do so, and a place where they are accustomed not to do so they do not do so, but everywhere students of the sages are idle. And we said in the final chapter of Taaniyot, all who do work on the Ninth of Av will never see any sign of blessing.
 
 
 ###### Abudarham, Fasts, Tishah B'Av 11
@@ -16058,7 +16088,7 @@ Blessings are divided into four categories: Blessings of prayer, blessings over 
 [https://torahapp.org/share/book/Abudarham/s/Laws%20of%20Blessings,_Eighth%20Gate%3B%20Blessings%20of%20Praise%20and%20Thanksgiving/r/24](https://torahapp.org/share/book/Abudarham/s/Laws%20of%20Blessings,_Eighth%20Gate%3B%20Blessings%20of%20Praise%20and%20Thanksgiving/r/24)
 
 
-הרואה הקשת מברך בא"י אמ"ה **זוכר הברית** נאמן בבריתו וקיים במאמרו. זוכר הברית שנא' והיה לאות ברית וזוכר שנשבע שלא יביא עוד מבול וכשרואה את הרשעים רוצה להחריב את עולמו ורואה הקשת וזוכר הברי' ונמנע. ואין לומ' שצריך הב"ה זכירה שהרי אין שכחה לפניו אלא מרא' לעולם כשהם רואים את הקשת שרבו רשעי ישראל ואלמלא השבועה היה מחריבו. נאמן בבריתו שלא יעברנו אע"ף שרבו הרשעים. וקיים במאמרו אפי' לא היה הברית כיון שאמר בדבור בעלמ' ולא יהיה עוד מבול לשחת הארץ ברור הוא שיקיים מאמרו. שאל הרא"ש איך מסתכלין בקשת כשמברכין והא אמרי' בחגיגה בפ' אין דורשין המסתכל בקשת עיניו כהות. והשיב דאין מסתכל כרואה כי המסתכל מוסיף ומדקדק בהבטתו יותר מהרואה.
+הרואה הקשת מברך בא"י אמ"ה **זוכר הברית** נאמן בבריתו וקיים במאמרו. זוכר הברית שנא' והיה לאות ברית וזוכר שנשבע שלא יביא עוד מבול וכשרואה את הרשעים רוצה להחריב את עולמו ורואה הקשת וזוכר הברי' ונמנע. ואין לומ' שצריך הב"ה זכירה שהרי אין שכחה לפניו אלא מרא' לעולם כשהם רואים את הקשת שרבו רשעי ישראל ואלמלא השבועה היה מחריבו. נאמן בבריתו שלא יעברנו אע"ף שרבו הרשעים. וקיים במאמרו אפי' לא היה הברית כיון שאמר בדבור בעלמ' ולא יהיה עוד מבול לשחת הארץ ברור הוא שיקיים מאמרו. נשאל הרא"ש איך מסתכלין בקשת כשמברכין והא אמרי' בחגיגה בפ' אין דורשין המסתכל בקשת עיניו כהות. והשיב דאין מסתכל כרואה כי המסתכל מוסיף ומדקדק בהבטתו יותר מהרואה.
 
 
 ###### Abudarham, Laws of Blessings, Eighth Gate; Blessings of Praise and Thanksgiving 25

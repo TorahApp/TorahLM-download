@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): The Midrash of Philo, by Samuel Belkin, 1989 (Segments: 1258, License: CC-BY)
 
-Version (En): The Works of Philo Judaeus. trans. C.D.Yonge, London, H. G. Bohn, 1854-1890. (Segments: 404)
+Version (En): Sefaria Community Translation (Segments: 404)
 
 
 ## Chapter 2

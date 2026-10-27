@@ -14,9 +14,9 @@ Location: Liturgy/Siddur
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Siddur Veshinantam  (Segments: 3721, License: unknown)
+Version (He): Torat Emet 357 (Segments: 3721, License: unknown)
 
-Version (En): Sefaria Community Translation (Segments: 1965)
+Version (En): Mishnah Yomit by Dr. Joshua Kulp (Segments: 1974)
 
 
 ## Weekday
@@ -3960,7 +3960,7 @@ Bless for us, Adonoy our God, this year and all the varieties of its produce for
 בימות החמה:
 
 
-*From the first say of Pesach until the evening service [*Maariv*] on December 4, or, on a civil leap year, December 5, we say the following line.*
+*From the first day of Pesach until the evening service [*Maariv*] on December 4, or, on a civil leap year, December 5, we say the following line.*
 
 
 ####### Siddur Ashkenaz, Weekday, Shacharit, Amidah, Prosperity 3
@@ -7353,7 +7353,7 @@ Hope to Adonoy; be strong and He will give you courage and hope to Adonoy. There
 **אֵין כֵּאלֹהֵינוּ.** אֵין כַּאדוֹנֵנוּ. אֵין כְּמַלְכֵּנוּ. אֵין כְּמוֹשִׁיעֵנוּ: מִי כֵאלֹהֵינוּ. מִי כַאדוֹנֵנוּ. מִי כְמַלְכֵּנוּ. מִי כְמוֹשִׁיעֵנוּ: נוֹדֶה לֵאלֹהֵינוּ. נוֹדֶה לַאדוֹנֵנוּ. נוֹדֶה לְמַלְכֵּנוּ. נוֹדֶה לְמוֹשִׁיעֵנוּ: בָּרוּךְ אֱלֹהֵינוּ. בָּרוּךְ אֲדוֹנֵנוּ. בָּרוּךְ מַלְכֵּנוּ. בָּרוּךְ מוֹשִׁיעֵנוּ: אַתָּה הוּא אֱלֹהֵינוּ. אַתָּה הוּא אֲדוֹנֵנוּ. אַתָּה הוּא מַלְכֵּנוּ. אַתָּה הוּא מוֹשִׁיעֵנוּ.
 
 
-There is none like our God. There is none like our Master. There is none like our King. There is none like our Deliverer. Who is like our God? Who is like our Master? Who is like our King? Who is like our Deliverer? Let us thank our God. Let us thank our Master. Let us thank our King. Let us thank our deliverer. Blessed is our God. Blesed is our Master. Blessed is our King. Blessed is our Deliverer. You are our God. You are our Master. You are our King. You are our Deliverer.
+There is none like our God. There is none like our Master. There is none like our King. There is none like our Deliverer. Who is like our God? Who is like our Master? Who is like our King? Who is like our Deliverer? Let us thank our God. Let us thank our Master. Let us thank our King. Let us thank our deliverer. Blessed is our God. Blessed is our Master. Blessed is our King. Blessed is our Deliverer. You are our God. You are our Master. You are our King. You are our Deliverer.
 
 
 ######## Siddur Ashkenaz, Weekday, Shacharit, Concluding Prayers, Korbanot (Israel), Ein Kelohenu 3
@@ -7364,7 +7364,7 @@ There is none like our God. There is none like our Master. There is none like ou
 אַתָּה הוּא (בחלק מהמהדורות: יְהֹוָה אֱלֹהֵינוּ) שֶׁהִקְטִרוּ אֲבוֹתֵינוּ לְפָנֶיךָ אֶת קְטֹרֶת הַסַּמִּים:
 
 
-you are He, Adonoy, our God, and God of our fathers before whom our fathers burned the incenese offering.
+you are He, Adonoy, our God, and God of our fathers before whom our fathers burned the incense offering.
 
 
 
@@ -26465,12 +26465,18 @@ Author: R. Israel the 12th-century convert.
 הִנֵּה אֵל יְשׁוּעָתִי אֶבְטַח וְלֹא אֶפְחָד כִּי עָזִּי וְזִמְרָת יָהּ יי וַיְהִי לִי לִישׁוּעָה:
 
 
+...Behold, my salvation is He. I will trust and not fear. My strength and melody towards Ya"h HaShem, He has become my salvation.
+
+
 ###### Siddur Ashkenaz, Shabbat, Havdalah 2
 
 [https://torahapp.org/share/book/Siddur%20Ashkenaz/s/Shabbat,_Havdalah/r/2](https://torahapp.org/share/book/Siddur%20Ashkenaz/s/Shabbat,_Havdalah/r/2)
 
 
 וּשְׁאַבְתֶּם מַיִם בְּשָׂשׂוֹן מִמַּעַיְנֵי הַיְשׁוּעָה:
+
+
+...And you'll withdraw waters in joy from the wellsprings of the salvation.
 
 
 ###### Siddur Ashkenaz, Shabbat, Havdalah 3
@@ -26481,12 +26487,18 @@ Author: R. Israel the 12th-century convert.
 לַיי הַיְשׁוּעָה עַל עַמְּךָ בִרְכָתֶךָ סֶּלָה:
 
 
+...HaShem's salvation upon Your People Your blessing, Selah:
+
+
 ###### Siddur Ashkenaz, Shabbat, Havdalah 4
 
 [https://torahapp.org/share/book/Siddur%20Ashkenaz/s/Shabbat,_Havdalah/r/4](https://torahapp.org/share/book/Siddur%20Ashkenaz/s/Shabbat,_Havdalah/r/4)
 
 
 יי צְבָאוֹת עִמָּנוּ מִשְׂגָּב לָנוּ אֱלֹהֵי יַעֲקֹב סֶלָה:
+
+
+...HaShem of Hosts is with us, secure refuge of ours, the God of Yaakov, Selah.
 
 
 ###### Siddur Ashkenaz, Shabbat, Havdalah 5
@@ -26497,12 +26509,18 @@ Author: R. Israel the 12th-century convert.
 יי צְבָאוֹת, אַשְׁרֵי אָדָם בֹּוטֵחַ בָּךְ:
 
 
+...HaShem of Hosts, happy is the man who trusts in You.
+
+
 ###### Siddur Ashkenaz, Shabbat, Havdalah 6
 
 [https://torahapp.org/share/book/Siddur%20Ashkenaz/s/Shabbat,_Havdalah/r/6](https://torahapp.org/share/book/Siddur%20Ashkenaz/s/Shabbat,_Havdalah/r/6)
 
 
 יי הוֹשִׁיעָה, הַמֶּלֶךְ יַעֲנֵנוּ בְיוֹם קָרְאֵנו:
+
+
+...HaShem save! The King answer on the day we call.
 
 
 ###### Siddur Ashkenaz, Shabbat, Havdalah 7
@@ -26513,6 +26531,9 @@ Author: R. Israel the 12th-century convert.
 לַיְּהוּדִים הָיְתָה אוֹרָה וְשִׂמְחָה וְשָׂשֹׂן וִיקָר:
 
 
+...For the Jews was light, happiness, gladness, and notoriousness.
+
+
 ###### Siddur Ashkenaz, Shabbat, Havdalah 8
 
 [https://torahapp.org/share/book/Siddur%20Ashkenaz/s/Shabbat,_Havdalah/r/8](https://torahapp.org/share/book/Siddur%20Ashkenaz/s/Shabbat,_Havdalah/r/8)
@@ -26521,12 +26542,18 @@ Author: R. Israel the 12th-century convert.
 כן תהיה לנו:
 
 
+...Yes, we will have:
+
+
 ###### Siddur Ashkenaz, Shabbat, Havdalah 9
 
 [https://torahapp.org/share/book/Siddur%20Ashkenaz/s/Shabbat,_Havdalah/r/9](https://torahapp.org/share/book/Siddur%20Ashkenaz/s/Shabbat,_Havdalah/r/9)
 
 
 כּוֹס יְשׁוּעוֹת אֶשָּׂא וּבְשֵׁם יי אֶקְרָא:
+
+
+...Cup of salvations I will lift and I will call in the name of HaShem
 
 
 ###### Siddur Ashkenaz, Shabbat, Havdalah 11
@@ -29819,10 +29846,11 @@ You blessed him like a tree planted beside streams of water.
 גְּנַנְתּו הִצַּלְתּו מֵאֵשׁ וּמִמַּיִם.
 
 
-You protected him,¹⁰ You rescued him from fire11 and from water;¹²
+You protected him,¹⁰ You rescued him from fire¹¹ 38:13. and from water;¹²
 
 footnotes:
 ¹⁰ See Genesis 15:1, “Fear not Abram, I am your shield.”
+¹¹ This refers to the fiery pit into which Abraham was thrown by Nimrod. See Midrash, Bereishis Rabba
 ¹² This refers to the water that threatened Abraham on his way to Mt. Moriah to sacrifice Isaac. See Midrash Tanchuma to Genesis 32.
 
 
@@ -39369,7 +39397,7 @@ And after he affixes it, he should kiss it and say, "This is the gate of the Lor
 [https://torahapp.org/share/book/Siddur%20Ashkenaz/s/Berachot,_Tefillat%20HaDerech/r/1](https://torahapp.org/share/book/Siddur%20Ashkenaz/s/Berachot,_Tefillat%20HaDerech/r/1)
 
 
-יְהִי רָצוֹן מִלְפָנֶיךָ יי אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ, שֶׁתּוֹלִיכֵנוּ לְשָׁלוֹם וְתַצְעִידֵנוּ לְשָׁלוֹם וְתַדְרִיכֵנוּ לְשָׁלוֹם, וְתִסְמְכֵנוּ לְשָׁלוֹם, וְתַגִּיעֵנוּ לִמְחוֹז חֶפְצֵנוּ לְחַיִּים וּלְשִׂמְחָה וּלְשָׁלוֹם. (אם דעתו לחזור מיד אומר וְתַחְזִירֵנוּ לְשָׁלוֹם) וְתַצִּילֵנוּ מִכַּף כָּל אוֹיֵב וְאוֹרֵב וְלִסְטִים וְחַיּוֹת רָעוֹת בַּדֶּרֶךְ, וּמִכָּל מִינֵי פֻּרְעָנֻיּוֹת הַמִּתְרַגְּשׁוֹת לָבוֹא לָעוֹלָם, וְתִתְּנֵנוּ לְחֵן וּלְחֶסֶד וּלְרַחֲמִים בְּעֵינֶיךָ וּבְעֵינֵי כָל רֹאֵינוּ, כִּי אל שׁוֹמֵעַ תְּפִלָּה וְתַחֲנוּן אַתָּה. בָּרוּךְ אַתָּה *לפי נוסח ספרד יי* שׁוֹמֵעַ תְּפִלָּה:
+יְהִי רָצוֹן מִלְפָנֶיךָ יי אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ, שֶׁתּוֹלִיכֵנוּ לְשָׁלוֹם וְתַצְעִידֵנוּ לְשָׁלוֹם וְתַדְרִיכֵנוּ לְשָׁלוֹם, וְתִסְמְכֵנוּ לְשָׁלוֹם, וְתַגִּיעֵנוּ לִמְחוֹז חֶפְצֵנוּ לְחַיִּים וּלְשִׂמְחָה וּלְשָׁלוֹם. (אם דעתו לחזור מיד אומר וְתַחְזִירֵנוּ לְשָׁלוֹם) וְתַצִּילֵנוּ מִכַּף כָּל אוֹיֵב וְאוֹרֵב וְלִסְטִים וְחַיּוֹת רָעוֹת בַּדֶּרֶךְ, וּמִכָּל מִינֵי פֻּרְעָנֻיּוֹת הַמִּתְרַגְּשׁוֹת לָבוֹא לָעוֹלָם, וְתִתְּנֵנוּ לְחֵן וּלְחֶסֶד וּלְרַחֲמִים בְּעֵינֶיךָ וּבְעֵינֵי כָל רֹאֵינוּ, כִּי אל שׁוֹמֵעַ תְּפִלָּה וְתַחֲנוּן אַתָּה. בָּרוּךְ אַתָּה יי שׁוֹמֵעַ תְּפִלָּה:
 
 
 May it be Your will, Eternal One, our God and the God of our ancestors, that You lead us toward peace, support our footsteps towards peace, guide us toward peace, and make us reach our desired destination, for life, joy, and peace. May You rescue us from the hand of every foe, ambush, bandits and wild animals along the way, and from all manner of punishments that assemble to come to Earth. May You send blessing in our every handiwork, and grant us peace, kindness, and mercy in your eyes and in the eyes of all who see us. May You hear the sound of our supplication, because You are the God who hears prayer and supplications. Blessed are You, Eternal One, who hears prayer.

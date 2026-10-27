@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Tosefta Pei'ah - Machon Mamre (Segments: 80, License: Public Domain)
 
-Version (En): The Tosefta Blog (Segments: 80)
+Version (En): Sefaria Community Translation (Segments: 80)
 
 
 ## Chapter 1

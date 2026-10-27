@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): On Your Way (Segments: 452, License: Public Domain)
 
-Version (En): Yalkut, Sifsei Chachomim Chumash, Metsudah Publications, 2009 (Segments: 18)
+Version (En): Natan Waingortin, Spanish [es] (Segments: 18)
 
 
 ## Chapter 1

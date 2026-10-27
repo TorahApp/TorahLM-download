@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat Zion/Writings
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 243, License: Public Domain)
+Version (He): On Your Way (Segments: 244, License: Public Domain)
 
 
 ## Chapter 1
@@ -1249,7 +1249,18 @@ Version (He): On Your Way (Segments: 243, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Daniel/r/7:12:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Daniel/r/7:12:2)
 
 
-**זמן ועידן.** הם שמות (יד) וליה ונתן לו הממשלה והכבוד והמלוכה וכל העכו״ם יעבדו לו: נרדפים וכן אדמת עפר (לקמן יב):
+**זמן ועידן.** הם שמות:
+
+
+
+### Verse 14
+
+###### Metzudat Zion on Daniel 7:14:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Daniel/r/7:14:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Daniel/r/7:14:1)
+
+
+**וליה.** ונתן לו הממשלה והכבוד והמלוכה וכל העכו״ם יעבדו לו: נרדפים וכן אדמת עפר (לקמן יב):
 
 
 
@@ -1437,12 +1448,15 @@ Version (He): On Your Way (Segments: 243, License: Public Domain)
 **וקדש.** וי״ו יתירה:
 
 
-###### Metzudat Zion on Daniel 8:13:4
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Daniel/r/8:13:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Daniel/r/8:13:4)
+### Verse 16
+
+###### Metzudat Zion on Daniel 8:16:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Daniel/r/8:16:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Daniel/r/8:16:1)
 
 
-**.** (טז) להלז להזה כמו השונמית הלז (מ״ב ד׳):
+**להלז.** להזה כמו השונמית הלז (מ״ב ד׳):
 
 
 
@@ -1950,7 +1964,7 @@ Version (He): On Your Way (Segments: 243, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Daniel/r/11:4:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Daniel/r/11:4:1)
 
 
-**ותהץ.** ענין חלוקה כמו ויחץ את הילדים (בראשית ל״ג:א׳):
+**ותחץ.** ענין חלוקה כמו ויחץ את הילדים (בראשית ל״ג:א׳):
 
 
 ###### Metzudat Zion on Daniel 11:4:2

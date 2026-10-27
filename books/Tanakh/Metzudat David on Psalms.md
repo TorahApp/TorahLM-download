@@ -2836,7 +2836,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 21)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Psalms/r/18:7:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Psalms/r/18:7:1)
 
 
-**בצר לי.** בעת שהיה צר לי באחת מהדברים האלה אז קראתי לה׳‎ ושמע קולי ושועתי לפניו. ומה שצעקתי לפניו באה באזני וכפל הדבר במ״‎ש כדרך מליצת השיר:
+**בצר לי.** בעת שהיה צר לי באחת מהדברים האלה אז קראתי לה׳‎ ושמע קולי ושועתי לפניו. ומה שצעקתי לפניו באה באזניו וכפל הדבר במ״‎ש כדרך מליצת השיר:
 
 
 
@@ -6943,7 +6943,7 @@ And to his seed. And so shall be done for his seed for eternity.
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Psalms/r/34:13:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Psalms/r/34:13:1)
 
 
-**החפץ חיים.** חיי עוה ״‎ב:
+**החפץ חיים.** חיי עוה״‎ב:
 
 
 ###### Metzudat David on Psalms 34:13:2
@@ -11028,7 +11028,7 @@ In the city of our God – that is to say that when He causes His Presence to re
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Psalms/r/50:10:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Psalms/r/50:10:2)
 
 
-**בהמות בהררי אלף.** הבהמות המצויות ברבוי ההרים ולא ידעתם, ורז״‎ל אמרו שעל שור הבר יאמר כמ״‎ש: ; נה בהמות אשר עשיתי עמך (איוב מ׳:ט״ו‎) והוא ניזון בכל יום במרעה אלף הרים:
+**בהמות בהררי אלף.** הבהמות המצויות ברבוי ההרים ולא ידעתם, ורז״‎ל אמרו שעל שור הבר יאמר כמ״‎ש: הנה בהמות אשר עשיתי עמך (איוב מ׳:ט״ו‎) והוא ניזון בכל יום במרעה אלף הרים:
 
 
 
@@ -17007,7 +17007,7 @@ Let them not stand before you to categorize me.
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Psalms/r/74:4:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Psalms/r/74:4:1)
 
 
-**בקרב מועדך.** בתוך בה ״‎מ מקום שהיו נועדים שם כל ישראל והשכינה עמהם:
+**בקרב מועדך.** בתוך בה״‎מ מקום שהיו נועדים שם כל ישראל והשכינה עמהם:
 
 
 ###### Metzudat David on Psalms 74:4:2
@@ -20210,7 +20210,7 @@ Let them not stand before you to categorize me.
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Psalms/r/84:7:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Psalms/r/84:7:1)
 
 
-**עובדי.** להיות עולה ברגל עם העוברים דרך עמק הבכא שגדלים שם החוחים וכן ממול בכאים (ש״‎ב ה) (כי דרך שם היה המהלך):
+**עוברי.** להיות עולה ברגל עם העוברים דרך עמק הבכא שגדלים שם החוחים וכן ממול בכאים (ש״‎ב ה) (כי דרך שם היה המהלך):
 
 
 ###### Metzudat David on Psalms 84:7:2
@@ -23435,7 +23435,7 @@ v'Nichr'ah- this is the bending of the head and part of the body. Nivrechah- thi
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Psalms/r/97:7:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Psalms/r/97:7:2)
 
 
-**כל אלהים צבא.** השמים הנעבדים לאלהים הם ישתחוו לה׳‎ על כי עשה משפט בעובדיהם:
+**כל אלהים.** צבא השמים הנעבדים לאלהים הם ישתחוו לה׳‎ על כי עשה משפט בעובדיהם:
 
 
 

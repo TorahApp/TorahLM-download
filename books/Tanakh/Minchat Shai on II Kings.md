@@ -395,7 +395,7 @@ Version (He): Minchat Shai (Segments: 287, License: Public Domain)
 [https://torahapp.org/share/book/Minchat%20Shai%20on%20II%20Kings/r/4:39:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20II%20Kings/r/4:39:1)
 
 
-**ללקט ארח.** אין באל"ף מאריך:
+**ללקט ארת.** אין באל"ף מאריך:
 
 
 ###### Minchat Shai on II Kings 4:39:2

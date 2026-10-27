@@ -14,7 +14,7 @@ Location: Talmud/Bavli/Rishonim on Talmud/Rashi/Seder Moed
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Vilna Edition (Segments: 1357, License: Public Domain)
+Version (He): Vilna Edition (Segments: 1358, License: Public Domain)
 
 
 ## Daf 2a
@@ -10323,7 +10323,7 @@ Version (He): Vilna Edition (Segments: 1357, License: Public Domain)
 [https://torahapp.org/share/book/Rashi%20on%20Moed%20Katan/r/21b:1:1](https://torahapp.org/share/book/Rashi%20on%20Moed%20Katan/r/21b:1:1)
 
 
-מצוה אני - כלומר הואיל ומצוה להניח תפילין מצי להניח לאלתר בשני:
+מצוה שאני - כלומר הואיל ומצוה להניח תפילין מצי להניח לאלתר בשני:
 
 
 
@@ -12446,7 +12446,18 @@ Version (He): Vilna Edition (Segments: 1357, License: Public Domain)
 [https://torahapp.org/share/book/Rashi%20on%20Moed%20Katan/r/26b:23:1](https://torahapp.org/share/book/Rashi%20on%20Moed%20Katan/r/26b:23:1)
 
 
-יברוהו - לאותו שבא על מטות כפויות: אבל ההולך ממקום למקום:
+יברוהו - לאותו שבא על מטות כפויות:
+
+
+
+### Line 25
+
+###### Rashi on Moed Katan 26b:25:1
+
+[https://torahapp.org/share/book/Rashi%20on%20Moed%20Katan/r/26b:25:1](https://torahapp.org/share/book/Rashi%20on%20Moed%20Katan/r/26b:25:1)
+
+
+אבל ההולך ממקום למקום:
 
 
 

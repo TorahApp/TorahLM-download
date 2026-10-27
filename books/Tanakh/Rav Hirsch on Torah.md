@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): try hebrew (Segments: 7, License: unknown)
 
-Version (En): Der Pentateuch. Übersetzt und erläutert von Samson Raphael Hirsch, 1903 [de] (Segments: 6)
+Version (En): The Pentateuch, rendered into English by Isaac Levy. Gateshead; Judaica Press, 1989 (Segments: 6)
 
 
 ## Genesis

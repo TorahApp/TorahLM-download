@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat Zion/Prophets
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 2149, License: Public Domain)
+Version (He): On Your Way (Segments: 2152, License: Public Domain)
 
 
 ## Chapter 1
@@ -491,7 +491,7 @@ Version (He): On Your Way (Segments: 2149, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/2:18:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/2:18:1)
 
 
-**שיחור.** זהו הנילס:
+**שיחור.** זהו הנילוס:
 
 
 ###### Metzudat Zion on Jeremiah 2:18:2
@@ -658,7 +658,7 @@ Version (He): On Your Way (Segments: 2149, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/2:23:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/2:23:2)
 
 
-**בכרה.** גמלה בחירה כמו בכרי מדין (ישעיה ס):
+**בכרה.** גמלה בחורה כמו בכרי מדין (ישעיה ס):
 
 
 ###### Metzudat Zion on Jeremiah 2:23:3
@@ -1926,7 +1926,7 @@ Version (He): On Your Way (Segments: 2149, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/4:26:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/4:26:2)
 
 
-**נצתו.** מלשון נתיצה והריסה:
+**נתצו.** מלשון נתיצה והריסה:
 
 
 
@@ -2098,7 +2098,7 @@ Version (He): On Your Way (Segments: 2149, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/4:31:5](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/4:31:5)
 
 
-**להרגים.** בא הלמ״ד ובמקום בעבור וכן פתח פיך לאלם (משלי ל״א:ח׳) ור״ל בעבור האלה:
+**להרגים.** בא הלמ״ד ובמקום בעבור וכן פתח פיך לאלם (משלי ל״א:ח׳) ור״ל בעבור האלם:
 
 
 
@@ -2349,7 +2349,7 @@ Version (He): On Your Way (Segments: 2149, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/5:9:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/5:9:1)
 
 
-**אפקוד.** ענין השגחה וכן ופקיד גפן זאת (תהילים פ׳:ט״ו):
+**אפקוד.** ענין השגחה וכן ופקוד גפן זאת (תהילים פ׳:ט״ו):
 
 
 ###### Metzudat Zion on Jeremiah 5:9:2
@@ -4478,7 +4478,18 @@ Version (He): On Your Way (Segments: 2149, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/9:7:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/9:7:1)
 
 
-**שחוט.** משוך כמו זהב שחוט (מ״א י) ארבו. מל מארב. (ח) אפקד. ענין השגחה כמו פקדו נא וראו (ש״א יד):
+**שחוט.** משוך כמו זהב שחוט (מ״א י) ארבו. מל' מארב:
+
+
+
+### Verse 8
+
+###### Metzudat Zion on Jeremiah 9:8:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/9:8:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/9:8:1)
+
+
+**אפקד.** ענין השגחה כמו פקדו נא וראו (ש״א יד):
 
 
 
@@ -6885,7 +6896,7 @@ Version (He): On Your Way (Segments: 2149, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/14:17:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/14:17:2)
 
 
-**בת עמי.** עדת עמי נחלה. מלשון חול:
+**בת עמי.** עדת עמי נחלה. מלשון חולי:
 
 
 
@@ -7439,22 +7450,6 @@ Version (He): On Your Way (Segments: 2149, License: Public Domain)
 **זעם.** כעס וחרון:
 
 
-###### Metzudat Zion on Jeremiah 15:17:6
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/15:17:6](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/15:17:6)
-
-
-**נצח.** לעולם ר״ל זמן רב:
-
-
-###### Metzudat Zion on Jeremiah 15:17:7
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/15:17:7](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/15:17:7)
-
-
-**אנושה.** כאובה ביותר כמו אנוש חציו (איוב לד):
-
-
 
 ### Verse 18
 
@@ -7463,7 +7458,7 @@ Version (He): On Your Way (Segments: 2149, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/15:18:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/15:18:1)
 
 
-**מאנה.** מלשון מיאון:
+**נצח.** לעולם ר״ל זמן רב:
 
 
 ###### Metzudat Zion on Jeremiah 15:18:2
@@ -7471,12 +7466,28 @@ Version (He): On Your Way (Segments: 2149, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/15:18:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/15:18:2)
 
 
-**אכזב.** ענין הפסק ועזיבה כמו אשר לא יכזבו מימיו (ישעיהו נ״ח:י״א):
+**אנושה.** כאובה ביותר כמו אנוש חציו (איוב לד):
 
 
 ###### Metzudat Zion on Jeremiah 15:18:3
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/15:18:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/15:18:3)
+
+
+**מאנה.** מלשון מיאון:
+
+
+###### Metzudat Zion on Jeremiah 15:18:4
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/15:18:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/15:18:4)
+
+
+**אכזב.** ענין הפסק ועזיבה כמו אשר לא יכזבו מימיו (ישעיהו נ״ח:י״א):
+
+
+###### Metzudat Zion on Jeremiah 15:18:5
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/15:18:5](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/15:18:5)
 
 
 **נאמנו.** ענין דבר המתקיים כמו יתד במקום נאמן (שם כב):
@@ -12408,27 +12419,27 @@ Version (He): On Your Way (Segments: 2149, License: Public Domain)
 
 
 
-### Verse 27
+### Verse 26
 
-###### Metzudat Zion on Jeremiah 31:27:1
+###### Metzudat Zion on Jeremiah 31:26:1
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/31:27:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/31:27:1)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/31:26:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/31:26:1)
 
 
 **הקיצותי.** מלשון יקיצה והערה מן השינה:
 
 
-###### Metzudat Zion on Jeremiah 31:27:2
+###### Metzudat Zion on Jeremiah 31:26:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/31:27:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/31:27:2)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/31:26:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/31:26:2)
 
 
 **ושנתי.** מל׳ שינה:
 
 
-###### Metzudat Zion on Jeremiah 31:27:3
+###### Metzudat Zion on Jeremiah 31:26:3
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/31:27:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/31:27:3)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/31:26:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/31:26:3)
 
 
 **ערבה.** ענין מתיקות כמו וערבה שנתך (משלי ג):
@@ -14820,28 +14831,39 @@ Version (He): On Your Way (Segments: 2149, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/43:10:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/43:10:1)
 
 
-**שפרירו.** כן יקרא האוהל היפה וכן ברוחו שמים שפרה (איוב כ״ו:י״ג) והוא מל׳ הנותן אמרי שפר (בראשית מ״ט:כ״א) ובא על משקל סגריר (יב) והצתי. ענין הבערה ושריפה כמו ותצת בסבכי היער (ישעיהו ט׳:י״ז):
+**שפרירו.** כן יקרא האוהל היפה וכן ברוחו שמים שפרה (איוב כ״ו:י״ג) והוא מל׳ הנותן אמרי שפר (בראשית מ״ט:כ״א) ובא על משקל סגריר:
 
 
-###### Metzudat Zion on Jeremiah 43:10:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/43:10:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/43:10:2)
+### Verse 12
+
+###### Metzudat Zion on Jeremiah 43:12:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/43:12:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/43:12:1)
+
+
+**והצתי.** ענין הבערה ושריפה כמו ותצת בסבכי היער (ישעיהו ט׳:י״ז):
+
+
+###### Metzudat Zion on Jeremiah 43:12:2
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/43:12:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/43:12:2)
 
 
 **ושבם.** מלשון שבי:
 
 
-###### Metzudat Zion on Jeremiah 43:10:3
+###### Metzudat Zion on Jeremiah 43:12:3
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/43:10:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/43:10:3)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/43:12:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/43:12:3)
 
 
 **ועטה.** יעטה ענין כריכה וכן מעטה לטבת (יחזקאל כא):
 
 
-###### Metzudat Zion on Jeremiah 43:10:4
+###### Metzudat Zion on Jeremiah 43:12:4
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/43:10:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/43:10:4)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/43:12:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/43:12:4)
 
 
 **את בגדו.** עם בגדו:
@@ -16274,20 +16296,31 @@ Version (He): On Your Way (Segments: 2149, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/48:25:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/48:25:2)
 
 
-**קרן.** ענין ממשלה כמו וירם קרן משיחו (ש״א ב) (כו) השכירהו. מלשון שיכור:
+**קרן.** ענין ממשלה כמו וירם קרן משיחו (ש״א ב):
 
 
-###### Metzudat Zion on Jeremiah 48:25:3
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/48:25:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/48:25:3)
+### Verse 26
+
+###### Metzudat Zion on Jeremiah 48:26:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/48:26:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/48:26:1)
+
+
+**השכירהו.** מלשון שיכור:
+
+
+###### Metzudat Zion on Jeremiah 48:26:2
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/48:26:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/48:26:2)
 
 
 **וספק.** ענין הכאה וחבטה כמו ויספוק את כפיו (במדבר כ״ד:י׳):
 
 
-###### Metzudat Zion on Jeremiah 48:25:4
+###### Metzudat Zion on Jeremiah 48:26:3
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/48:25:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/48:25:4)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/48:26:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/48:26:3)
 
 
 **בקיאי.** הוא המאכל החוזר דרך הפה:
@@ -16377,7 +16410,7 @@ Version (He): On Your Way (Segments: 2149, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/48:31:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Jeremiah/r/48:31:1)
 
 
-**קיר הרש.** שם מקום:
+**קיר חרש.** שם מקום:
 
 
 ###### Metzudat Zion on Jeremiah 48:31:2

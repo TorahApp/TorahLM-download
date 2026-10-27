@@ -17,7 +17,7 @@ Location: Tanakh/Modern Commentary on Tanakh/Jonathan Sacks
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Rayonot Meshnei Chaim, trans. by Tsur Ehrlich, Maggid Books, 2021 (Segments: 1152, License: CC-BY-NC)
+Version (He): Sefaria Community Translation [he] (Segments: 1152)
 
 Version (En): The Rabbi Sacks Legacy, OU Press and Maggid Books, 2020 (Segments: 1152)
 

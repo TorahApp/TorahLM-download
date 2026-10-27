@@ -14,7 +14,7 @@ Location: Liturgy/Piyutim
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Mahberet miShire Kodesh, I. Davidson. JPS, Philadelphia, 1923 (Segments: 64, License: Public Domain)
+Version (He): Tikkun Midot HaNefesh, Jerusalem 1996 (Segments: 64)
 
 Version (En): Selected Religious Poems of Solomon Ibn Gabirol, trans. Israel Zangwill. JPS, Philadelphia, 1923 (Segments: 25)
 

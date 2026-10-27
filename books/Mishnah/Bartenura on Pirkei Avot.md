@@ -1857,7 +1857,7 @@ Version (En): Sefaria Community Translation (Segments: 416)
 **הַפּוֹרֵק מִמֶּנּוּ עֹל תּוֹרָה.** הָאוֹמֵר קָשֶׁה עֻלָּהּ שֶׁל תּוֹרָה וְאֵינִי יָכוֹל לְסוֹבְלָהּ:
 
 
-**"And one who casts from himself the yoke of Torah":** One who says, "The yolk of Torah is too hard and I cannot endure it.
+**"And one who casts from himself the yoke of Torah":** One who says, "The yoke of Torah is too hard and I cannot endure it.
 
 
 

@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Jerusalem, 2009 (Segments: 2947, License: unknown)
 
-Version (En):  Essential Texts of Zionism (Segments: 13)
+Version (En): Sefaria Community Translation (Segments: 13)
 
 
 ## Introduction

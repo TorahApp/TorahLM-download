@@ -14,9 +14,9 @@ Location: Talmud/Bavli/Rishonim on Talmud/Rashi/Seder Kodashim
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Vilna Edition (Segments: 7509, License: Public Domain)
+Version (He): Vilna Edition (Segments: 7510, License: Public Domain)
 
-Version (En): Sefaria Community Translation (Segments: 111)
+Version (En): AI version (Segments: 133)
 
 
 ## Daf 2a
@@ -15780,12 +15780,18 @@ They are mentally crafty – like the first human; but they consider themselves 
 מתני' בידים מסואבות - כלומר בלא נטילה דגזרו עליהם להיות שניות. ובגמרא פריך אפילו הוכשרו נמי אין שני עושה שלישי בחולין:
 
 
+"They become susceptible [to ritual impurity] through slaughter — Since the slaughter renders that meat permitted [removing it] from [the prohibition of] eiver min ha-chai, it likewise renders it 'food' with respect to ritual impurity."
+
+
 ###### Rashi on Chullin 33a:9:2
 
 [https://torahapp.org/share/book/Rashi%20on%20Chullin/r/33a:9:2](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/33a:9:2)
 
 
 הוכשרו בשחיטה - מגו דשריא שחיטה להך בשר מידי אבר מן החי משויא ליה נמי אוכלא לגבי טומאה:
+
+
+"They become susceptible [to ritual impurity] through slaughter — Since the slaughter renders that meat permitted [removing it] from [the prohibition of] eiver min ha-chai, it likewise renders it 'food' with respect to ritual impurity."
 
 
 
@@ -17870,7 +17876,7 @@ And if you say his body becomes disqualified from eating Terumah, do we feed som
 [https://torahapp.org/share/book/Rashi%20on%20Chullin/r/38a:10:1](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/38a:10:1)
 
 
-בתחלת שחיטה - כלומר אפי' פירכסה בתחלת שחיטה דייה כשרה אע"ג דהויא מסוכנת כיון דמלאים כותלי בית השחיטה דם בידוע שזינקה:
+בתחלת שחיטה - כלומר אפי' פירכסה בתחלת שחיטה דייה:
 
 
 
@@ -17881,7 +17887,7 @@ And if you say his body becomes disqualified from eating Terumah, do we feed som
 [https://torahapp.org/share/book/Rashi%20on%20Chullin/r/38a:11:1](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/38a:11:1)
 
 
-וכמידת ר"א - דאמר זינוק הוי פירכוס:
+כשרה - אע"ג דהויא מסוכנת כיון דמלאים כותלי בית השחיטה דם בידוע שזינקה:
 
 
 ###### Rashi on Chullin 38a:11:2
@@ -17889,7 +17895,7 @@ And if you say his body becomes disqualified from eating Terumah, do we feed som
 [https://torahapp.org/share/book/Rashi%20on%20Chullin/r/38a:11:2](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/38a:11:2)
 
 
-ואמר שמואל כו' - להכי איצטריך לפרושי דכותלים דהכא לא הוו כותלים ממש אלא כותלי בית השחיטה דאי הוו כותלים ממש למחר היינו יכולים להבין אי האי זינוק הוה בתחלת שחיטה או באמצע שחיטה דאי הוה בתחלת שחיטה ימצא הזינוק למעלה בכותל דמחמת כח וחיות שהיה עדיין בבהמה זינקה למרחוק ואם ימצא הזינוק למטה בכותל בידוע שבאמצע שחיטה זינקה שלא היה בה כח כל כך לזנק הדם למרחוק אבל השתא דאמר שמואל דהני כותלי לא הוו כותלי ממש אלא כותלי בית השחיטה לא מצינו למידע אי תחלת שחיטה זינקה או לאחר שחיטה ולהכי קאמר אי אמרת בשלמא כל כמה דפירכס אפילו בתחלת שחיטה הוי פירכוס:
+וכמידת ר"א - דאמר זינוק הוי פירכוס:
 
 
 ###### Rashi on Chullin 38a:11:3
@@ -17897,12 +17903,20 @@ And if you say his body becomes disqualified from eating Terumah, do we feed som
 [https://torahapp.org/share/book/Rashi%20on%20Chullin/r/38a:11:3](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/38a:11:3)
 
 
-שפיר - דהא חזינן למחר ע"י זינוק דפרכיס באורתא:
+ואמר שמואל כו' - להכי איצטריך לפרושי דכותלים דהכא לא הוו כותלים ממש אלא כותלי בית השחיטה דאי הוו כותלים ממש למחר היינו יכולים להבין אי האי זינוק הוה בתחלת שחיטה או באמצע שחיטה דאי הוה בתחלת שחיטה ימצא הזינוק למעלה בכותל דמחמת כח וחיות שהיה עדיין בבהמה זינקה למרחוק ואם ימצא הזינוק למטה בכותל בידוע שבאמצע שחיטה זינקה שלא היה בה כח כל כך לזנק הדם למרחוק אבל השתא דאמר שמואל דהני כותלי לא הוו כותלי ממש אלא כותלי בית השחיטה לא מצינו למידע אי תחלת שחיטה זינקה או לאחר שחיטה ולהכי קאמר אי אמרת בשלמא כל כמה דפירכס אפילו בתחלת שחיטה הוי פירכוס:
 
 
 ###### Rashi on Chullin 38a:11:4
 
 [https://torahapp.org/share/book/Rashi%20on%20Chullin/r/38a:11:4](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/38a:11:4)
+
+
+שפיר - דהא חזינן למחר ע"י זינוק דפרכיס באורתא:
+
+
+###### Rashi on Chullin 38a:11:5
+
+[https://torahapp.org/share/book/Rashi%20on%20Chullin/r/38a:11:5](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/38a:11:5)
 
 
 אלא אי אמרת - באמצע שחיטה בעינן מאן לימא לן למחר דזינוק דלאורתא באמצע שחיטה הוה דלמא בתחלת שחיטה זניק:
@@ -24772,20 +24786,20 @@ And if you say his body becomes disqualified from eating Terumah, do we feed som
 כל שנקרע בה וכו' - כלומר כל היכא דמשתכחא או טפח או רובא טרפה:
 
 
-###### Rashi on Chullin 50b:8:3
-
-[https://torahapp.org/share/book/Rashi%20on%20Chullin/r/50b:8:3](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/50b:8:3)
-
-
-רובא פשיטא - דרובו ככולו:
-
-
 
 ### Line 9
 
 ###### Rashi on Chullin 50b:9:1
 
 [https://torahapp.org/share/book/Rashi%20on%20Chullin/r/50b:9:1](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/50b:9:1)
+
+
+רובא פשיטא - דרובו ככולו:
+
+
+###### Rashi on Chullin 50b:9:2
+
+[https://torahapp.org/share/book/Rashi%20on%20Chullin/r/50b:9:2](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/50b:9:2)
 
 
 הכי גרסינן לא צריכא דהויא טפח במשהו - אי הויא משהו טפי מרובא הוה מיקרע טפח:
@@ -32246,6 +32260,9 @@ And if you say his body becomes disqualified from eating Terumah, do we feed som
 עוברי דגים - ביצי הדגים כמות שהן מחוברים יחד:
 
 
+Fish embryos - fish eggs, as they are found clumped together.
+
+
 
 ### Line 2
 
@@ -32257,12 +32274,18 @@ And if you say his body becomes disqualified from eating Terumah, do we feed som
 שכודרת - עבה ככדור פלוט"א:
 
 
+That narrows - thick [Rashi takes an interpretation different that that of the Steinsaltz translation] like a ball (PLOTA).
+
+
 ###### Rashi on Chullin 64a:2:2
 
 [https://torahapp.org/share/book/Rashi%20on%20Chullin/r/64a:2:2](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/64a:2:2)
 
 
 כודרת ועגולגולת - חדא היא דאי תנא עגולגולת לחודה הוה משמע עגולה כעדשה וכגבינה להכי תנא כודרת ועגולגולת כעיגולה של כדור שאינה קלושה אלא עגולה בעובי והדר מפרש ראשה אחד כד וראשה אחד חד דלא ככדור ממש אלא משוכה לארכה ועגולה לרחבה:
+
+
+That narrows and is rounded - this is a single factor. Had it only taught "rounded", this could imply round like a lentil or like a [wheel of] cheese; therefore [the Gemara] taught "koderet ve-agulgolet" [meaning] round like a ball, which is not thin but rather round in the third dimension. [The Gemara] goes on to elaborate that one end is rounded and the other end is pointed; hence not exactly like a ball, but drawn out in length and rounded in breadth.
 
 
 ###### Rashi on Chullin 64a:2:3
@@ -32273,12 +32296,18 @@ And if you say his body becomes disqualified from eating Terumah, do we feed som
 כד - פלט"א בלע"ז. שאינו חד אלא ככדור:
 
 
+Rounded - PLTA in a foreign language. That is, it is not pointed but rather like a ball.
+
+
 ###### Rashi on Chullin 64a:2:4
 
 [https://torahapp.org/share/book/Rashi%20on%20Chullin/r/64a:2:4](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/64a:2:4)
 
 
 חלבון - אלבו"ן:
+
+
+Albumen - ALBON.
 
 
 ###### Rashi on Chullin 64a:2:5
@@ -32289,12 +32318,18 @@ And if you say his body becomes disqualified from eating Terumah, do we feed som
 חלמון - מויי"ל:
 
 
+Yolk - MOIIL.
+
+
 ###### Rashi on Chullin 64a:2:6
 
 [https://torahapp.org/share/book/Rashi%20on%20Chullin/r/64a:2:6](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/64a:2:6)
 
 
 ביצת השרץ - צב והלטאה מטילין ביצים. ולקמן מפרש למאי הלכתא אשמעינן שהיא ביצת השרץ ליתני טמאה סתמא:
+
+
+Egg of a creeping animal - [such as] great lizards and lizards which lay eggs. Later on, [the Gemara] will explain what *halakha* it is teaching when stating that it is an egg of a creeping animal; it should have just taught "non-kosher" generally.
 
 
 
@@ -32308,12 +32343,18 @@ And if you say his body becomes disqualified from eating Terumah, do we feed som
 בחתוכות - דליכא למיקם אכודרת ועגולגולת:
 
 
+Regarding cut [eggs] - so that it can't be established whether they were narrow at the top and rounded.
+
+
 ###### Rashi on Chullin 64a:3:2
 
 [https://torahapp.org/share/book/Rashi%20on%20Chullin/r/64a:3:2](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/64a:3:2)
 
 
 בטרופות בקערה - שהכל מעורב:
+
+
+Regarding [eggs] mixed in a bowl - so that everything is mixed.
 
 
 
@@ -32327,6 +32368,9 @@ And if you say his body becomes disqualified from eating Terumah, do we feed som
 אין מוכרין - ביצת של תרנגולת טרפה לעובד כוכבים דילמא הדר ומזבין לה לישראל אלא א"כ טרופה בקערה דתו לא זבין לה ישראל מיניה לפיכך הואיל ומותר למכור להם ביצה טרופה בקערה אין לוקחין ביצים טרופות דלמא דטרפה הואי וזבנה ישראל ניהליה:
 
 
+One may only sell - the egg of a *tereifa* chicken to an idolator -- who may in turn sell it to a Jew -- if it is mixed in a bowl, since a Jew would not then buy it from him. Therefore, since it is permitted to sell them eggs mixed in a bowl, one may not buy mixed-up eggs [from them], lest it be from a *tereifa* that a Jew sold him.
+
+
 
 ### Line 5
 
@@ -32338,6 +32382,9 @@ And if you say his body becomes disqualified from eating Terumah, do we feed som
 הכי גרסינן אלא אמר ר' זירא סימנים לאו דאורייתא - הנך סימני ביצים לאו הלכה למשה מסיני נינהו ולא סמכינן עלייהו:
 
 
+Our text is: Rather, Rabbi Zeira said, the signs are not by Torah law - these signs for eggs are not a law given to Moses at Sinai, and we may not rely upon them.
+
+
 ###### Rashi on Chullin 64a:5:2
 
 [https://torahapp.org/share/book/Rashi%20on%20Chullin/r/64a:5:2](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/64a:5:2)
@@ -32346,12 +32393,18 @@ And if you say his body becomes disqualified from eating Terumah, do we feed som
 ח' ספיקות הן - בעופות כדאמרן לעיל בשמעתא:
 
 
+There are eight uncertainties - regarding birds, as we stated earlier in our discussion.
+
+
 ###### Rashi on Chullin 64a:5:3
 
 [https://torahapp.org/share/book/Rashi%20on%20Chullin/r/64a:5:3](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/64a:5:3)
 
 
 ליבדוק בביצים דידהו - ומהם הוא ניכר אם עוף טהור הוא:
+
+
+Let one inspect their eggs - and thereby ascertain whether it was a kosher bird.
 
 
 
@@ -32365,6 +32418,9 @@ And if you say his body becomes disqualified from eating Terumah, do we feed som
 ודאי טמאה - ואי אמר לך עובד כוכבים של עוף פלוני טהור הוא ודאי משקר:
 
 
+Certainly non-kosher - and if the idolator tells you that it was from a certain bird, which is kosher, he is certainly lying.
+
+
 ###### Rashi on Chullin 64a:6:2
 
 [https://torahapp.org/share/book/Rashi%20on%20Chullin/r/64a:6:2](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/64a:6:2)
@@ -32373,12 +32429,18 @@ And if you say his body becomes disqualified from eating Terumah, do we feed som
 אבל ראש אחד כד כו' - סייעתא הוו הנך סמנים לעובד כוכבים לדבריו אי אמר לך של עוף פלוני טהור סמוך עליה דקא מסייעי ליה סימני ואי לא לא תסמוך עליה:
 
 
+But if one of its ends is pointed, etc. - then these signs are a proof for what the idolator said: if he told you that [the egg] was from a certain kosher bird, you can rely on it, since the signs prove it. If not, you cannot rely on it.
+
+
 ###### Rashi on Chullin 64a:6:3
 
 [https://torahapp.org/share/book/Rashi%20on%20Chullin/r/64a:6:3](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/64a:6:3)
 
 
 ה"ג דאיכא דעורבא דדמי לדיונה:
+
+
+Our text is: since there are crow's [eggs] that resemble those of a pigeon.
 
 
 
@@ -32392,6 +32454,9 @@ And if you say his body becomes disqualified from eating Terumah, do we feed som
 ריקמה - נוצר השרץ בתוכה:
 
 
+Developed - the creeping animal had been formed within it.
+
+
 ###### Rashi on Chullin 64a:7:2
 
 [https://torahapp.org/share/book/Rashi%20on%20Chullin/r/64a:7:2](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/64a:7:2)
@@ -32400,12 +32465,18 @@ And if you say his body becomes disqualified from eating Terumah, do we feed som
 וניקבה - שיוכל ליגע בריקום:
 
 
+And it was perforated - so that one is able to touch the tissue.
+
+
 ###### Rashi on Chullin 64a:7:3
 
 [https://torahapp.org/share/book/Rashi%20on%20Chullin/r/64a:7:3](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/64a:7:3)
 
 
 של נחש דומה לשל שרץ וטומאה אין בה:
+
+
+Snake [eggs] are similar to those of creeping animals, but are not a source of ritual impurity.
 
 
 
@@ -32417,6 +32488,9 @@ And if you say his body becomes disqualified from eating Terumah, do we feed som
 
 
 השורץ על הארץ - ואי לא אשמעינן שהיא ביצת השרץ אלא טמאה סתם ה"א משום עוף טמא הוא דאסירא ובעי לאתרויי ביה משום שרץ העוף ואי אתרו ביה משום שרץ הארץ לא לקי:
+
+
+"That swarms upon the earth" - and if it had not informed us that it is the egg of a creeping animal, but rather a non-kosher [animal] generally, I would have said that it is forbidden on account of being from a non-kosher bird, and intend to warn [the potential transgressor not to eat of] a "winged swarming thing" [Deuteronomy 14:19]. Had they warned him [not to eat of] a thing that swarms upon the earth, he would not incur lashes.
 
 
 
@@ -41358,6 +41432,14 @@ And if you say his body becomes disqualified from eating Terumah, do we feed som
 מתני' ואח"כ שחטה סופג את הארבעים - דאין כאן שחיטת איסור אלא אחת. ובגמרא יליף דבנו ואותו נמי חייב:
 
 
+###### Rashi on Chullin 82a:11:2
+
+[https://torahapp.org/share/book/Rashi%20on%20Chullin/r/82a:11:2](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/82a:11:2)
+
+
+שחטה ואת בתה ואחר כך את בת בתה - יש כאן שני אותו ואת בנו:
+
+
 
 ### Line 12
 
@@ -41366,7 +41448,7 @@ And if you say his body becomes disqualified from eating Terumah, do we feed som
 [https://torahapp.org/share/book/Rashi%20on%20Chullin/r/82a:12:1](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/82a:12:1)
 
 
-שחטה ואת בתה ואחר כך את בת בתה - יש כאן שני אותו ואת בנו:
+שחטה ואת בת בתה - אין כאן עדיין איסור ואח"כ שחט את בתה ויש בשחיטה זו שני איסורין אותו ואת בנו משום אמה ובנו ואותו משום בתה של זו שכבר נשחטה:
 
 
 ###### Rashi on Chullin 82a:12:2
@@ -41374,20 +41456,12 @@ And if you say his body becomes disqualified from eating Terumah, do we feed som
 [https://torahapp.org/share/book/Rashi%20on%20Chullin/r/82a:12:2](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/82a:12:2)
 
 
-שחטה ואת בת בתה - אין כאן עדיין איסור ואח"כ שחט את בתה ויש בשחיטה זו שני איסורין אותו ואת בנו משום אמה ובנו ואותו משום בתה של זו שכבר נשחטה:
+סופג ארבעים - דחד לאו הוא וחדא התראה וחד מעשה:
 
 
 ###### Rashi on Chullin 82a:12:3
 
 [https://torahapp.org/share/book/Rashi%20on%20Chullin/r/82a:12:3](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/82a:12:3)
-
-
-סופג ארבעים - דחד לאו הוא וחדא התראה וחד מעשה:
-
-
-###### Rashi on Chullin 82a:12:4
-
-[https://torahapp.org/share/book/Rashi%20on%20Chullin/r/82a:12:4](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/82a:12:4)
 
 
 שמונים - וטעמא דסומכוס מפרש בגמ':
@@ -42875,11 +42949,11 @@ And if you say his body becomes disqualified from eating Terumah, do we feed som
 
 
 
-### Line 15
+### Line 16
 
-###### Rashi on Chullin 85a:15:1
+###### Rashi on Chullin 85a:16:1
 
-[https://torahapp.org/share/book/Rashi%20on%20Chullin/r/85a:15:1](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/85a:15:1)
+[https://torahapp.org/share/book/Rashi%20on%20Chullin/r/85a:16:1](https://torahapp.org/share/book/Rashi%20on%20Chullin/r/85a:16:1)
 
 
 בשחוטי חוץ כתיב (ויקרא יז) דם שפך:

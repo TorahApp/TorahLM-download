@@ -457,7 +457,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/2:16:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/2:16:1)
 
 
-**וְאַחְיוֹתֵיהֶם צְרוּיָה וַאֲבִיגַיִל.** מִפְּנֵי כְבוֹדוֹ שֶׁל דָּוִד, שֶׁהָיוּ בְּנֵי אֲחוֹתוֹ גִּבּוֹרִים וְאַנְשֵׁי חַיִל וְשָׂרִים; כָּךְ מְפֹרָשׁ:
+**וְאַחְיוֹתֵיהֶם צְרוּיָה וַאֲבִיגָיִל.** מִפְּנֵי כְבוֹדוֹ שֶׁל דָּוִד, שֶׁהָיוּ בְּנֵי אֲחוֹתוֹ גִּבּוֹרִים וְאַנְשֵׁי חַיִל וְשָׂרִים; כָּךְ מְפֹרָשׁ:
 
 
 **And their sisters: Zeruiah and Abigail** [They are mentioned] because of David’s honor, i.e., they [Joab, Abishai, and Asael] were his sister’s sons, mighty men and princes. So it is explained further.
@@ -513,7 +513,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/2:20:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/2:20:1)
 
 
-**וְחוּר הוֹלִיד אֶת אוּרִי וְאוּרִי הוֹלִיד אֶת בְּצַלְאֵל.** צֵא וַחֲשׁוֹב, שֶׁכָּל אֶחָד מֵהֶם הָיָה פָּחוֹת מִן שְׁמוֹנֶה שָׁנִים כְּשֶׁהוֹלִידוּ, שֶׁהֲרֵי כָּלֵב הָיָה בֶּן אַרְבָּעִים שָׁנִים בַּמְרַגְּלִים, דִּכְתִיב ״בֶּן אַרְבָּעִים שָׁנָה אָנֹכִי בִּשְׁלוֹחַ וְגוֹ׳״ (יהושע יד:ז), וְאוֹתָהּ שָׁעָה כְּבָר נוֹלְדוּ כֻּלָּם, שֶׁהֲרֵי הוּקַם הַמִּשְׁכָּן שֶׁעָשָׂה בְּצַלְאֵל. כָּלֵב הָיָה בֶּן שְׁמוֹנֶה כְּשֶׁהוֹלִיד עֲזוּבָה אִשָּׁה, וּבֶן תֵּשַׁע כְּשֶׁהוֹלִיד יְרִיעוֹת, וְאַחַר מִיתַת עֲזוּבָה אִשְׁתּוֹ לָקַח אֶת אֶפְרָת וְהוֹלִידָה אֶת חוּר בְּשָׁנָה אַחֶרֶת, הֲרֵי בֶּן עֶשֶׂר שָׁנִים. וְחוּר בֶּן שְׁמוֹנֶה כְּשֶׁהוֹלִיד אֶת אוּרִי, וְאוּרִי בֶּן שְׁמוֹנֶה כְּשֶׁהוֹלִיד בְּצַלְאֵל, הֲרֵי עֶשְׂרִים וָשֵׁשׁ שָׁנִים; וּכְתִיב ״וְאֶל כָּל אִישׁ חֲכַם לֵב״ (שמות לו:א) – וְאֵין ״אִישׁ״ פָּחוֹת מִשְּׁלוֹשׁ עֶשְׂרֵה שָׁנָה, הֲרֵי בְּצַלְאֵל בְּשָׁעָה שֶׁעָשָׂה הַמִּשְׁכָּן בֶּן שְׁמוֹנֶה עֶשְׂרֵה שָׁנָה; הֲרֵי אַרְבָּעִים שָׁנָה חָסֵר אַחַת. נִמְצָא שֶׁכָּל אֶחָד מֵהֶם הָיָה פָּחוֹת מִן שְׁמֹנֶה כְּשֶׁהוֹלִידוּ; וְכֵן מְפֹרָשׁ בְּפֶרֶק בֶּן סוֹרֵר וּמוֹרֶה (סנהדרין סט:); וּמִדְרָשׁ: בֶּן שֵׁשׁ וָשֵׁשׁ הוֹלִידוּ:
+**וְחוּר הוֹלִיד אֶת אוּרִי וְאוּרִי הוֹלִיד אֶת בְּצַלְאֵל.** צֵא וַחֲשׁוֹב, שֶׁכָּל אֶחָד מֵהֶם הָיָה פָּחוֹת מִן שְׁמוֹנֶה שָׁנִים כְּשֶׁהוֹלִידוּ, שֶׁהֲרֵי כָּלֵב הָיָה בֶּן אַרְבָּעִים שָׁנִים בַּמְרַגְּלִים, דִּכְתִיב ״בֶּן אַרְבָּעִים שָׁנָה אָנֹכִי בִּשְׁלוֹחַ וְגוֹ׳״ (יהושע יד:ז), וְאוֹתָהּ שָׁעָה כְּבָר נוֹלְדוּ כֻּלָּם, שֶׁהֲרֵי הוּקַם הַמִּשְׁכָּן שֶׁעָשָׂה בְּצַלְאֵל. כָּלֵב הָיָה בֶּן שְׁמוֹנֶה כְּשֶׁהוֹלִיד עֲזוּבָה אִשָּׁה, וּבֶן תֵּשַׁע כְּשֶׁהוֹלִיד יְרִיעוֹת, וְאַחַר מִיתַת עֲזוּבָה אִשְׁתּוֹ לָקַח אֶת אֶפְרָת וְהוֹלִידָה אֶת חוּר בְּשָׁנָה אַחֶרֶת, הֲרֵי בֶּן עֶשֶׂר שָׁנִים. וְחוּר בֶּן שְׁמוֹנֶה כְּשֶׁהוֹלִיד אֶת אוּרִי, וְאוּרִי בֶּן שְׁמוֹנֶה כְּשֶׁהוֹלִיד בְּצַלְאֵל, הֲרֵי עֶשְׂרִים וָשֵׁשׁ שָׁנִים; וּכְתִיב ״וְאֶל כָּל אִישׁ חֲכַם לֵב״ (שמות לו:א) – וְאֵין ״אִישׁ״ פָּחוֹת מִשְּׁלוֹשׁ עֶשְׂרֵה שָׁנָה, הֲרֵי בְּצַלְאֵל בְּשָׁעָה שֶׁעָשָׂה הַמִּשְׁכָּן בֶּן שְׁלשׁ עֶשְׂרֵה שָׁנָה; הֲרֵי אַרְבָּעִים שָׁנָה חָסֵר אַחַת. נִמְצָא שֶׁכָּל אֶחָד מֵהֶם הָיָה פָּחוֹת מִן שְׁמֹנֶה כְּשֶׁהוֹלִידוּ; וְכֵן מְפֹרָשׁ בְּפֶרֶק בֶּן סוֹרֵר וּמוֹרֶה (סנהדרין סט:); וּמִדְרָשׁ: בֶּן שֵׁשׁ וָשֵׁשׁ הוֹלִידוּ:
 
 
 **And Hur begot Uri, and Uri begot Bezalel** Figure that each of them was less than eight years old when they begot, for Caleb was forty years old during the episode of the spies, as it is written (Jos. 14: 7): “I was forty years old when [Moses, the servant of the Lord] sent, etc.,” and at that time they all were already born, for the Tabernacle that Bezalel made had been erected. Caleb was eight years old when he begot Azuba Ishah, nine years old when he begot Jerioth, and after the death of Azubah, his wife, he took Ephrath, and she bore him Hur in the following year, making him ten years old, and Hur was eight years old when he begot Uri, and Uri was eight years old when he begot Bezalel, thus making 26 years, and it is written (Exod. 36:1): “and every wise hearted man,” and a man is not less than thirteen years old. So Bezalel was thirteen years old when he made the Tabernacle. Thus, we have forty years less one. We find that each one of them was less than eight years old when they begot children, and so it is explained in Chapter “*Ben sorer umoreh*“ (*Sanh.* 69a). According to the Midrash, they begot at the age of six.
@@ -683,7 +683,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/2:44:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/2:44:1)
 
 
-**אֲבִי יָרְקֳעָם.** כָּל אֲבִי שֶׁנֶּאֱמַר כָּאן – שַׂר עַל אוֹתָהּ הָעִיר הַכְּתוּבָה בְּסָמוּךְ:
+**אֲבִי יׇרְקְעָם.** כָּל אֲבִי שֶׁנֶּאֱמַר כָּאן – שַׂר עַל אוֹתָהּ הָעִיר הַכְּתוּבָה בְּסָמוּךְ:
 
 
 **the father of Jorkeam** Every “father” stated here means the ruler of that written immediately after.
@@ -736,7 +736,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/2:50:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/2:50:1)
 
 
-**אֵלֶּה הָיוּ בְנֵי כָלֵב בֶּן חוּר בְּכוֹר אֶפְרָתָה.** פִּתְרוֹן: אֵלֶּה הָיוּ בְּנֵי כָלֵב בֶּן חוּר, כְּמוֹ בְּנוֹ חוּר; וְהוּא, חוּר, הָיָה בְּנוֹ הַבְּכוֹר לְאֶפְרָת אִשְׁתּוֹ, וְלֹא בְּכוֹר לְכָלֵב, וְכֵן מְפֹרָשׁ לְמַעְלָה: **וַיִּקַּח לוֹ כָלֵב אֶת אֶפְרָת וַתֵּלֶד לוֹ אֶת חוּר**. עִנְיָן אַחֵר: **אֵלֶּה הָיוּ וְגוֹ׳** – חוּר הָיָה בֵּן לְכָלֵב וְהוֹלִיד בֵּן וַיִּקְרָא שְׁמוֹ כָּלֵב, לְכָךְ פֵּרוּשׁוֹ: וְאֵלֶּה הָיוּ בָּנָיו שֶׁל כָּלֵב בְּנוֹ שֶׁל חוּר: **שׁוֹבָל וְגוֹ׳**:
+**אֵלֶּה הָיוּ בְנֵי כָלֵב בֶּן חוּר בְּכוֹר אֶפְרָתָה.** פִּתְרוֹן: אֵלֶּה הָיוּ בְּנֵי כָלֵב בֶּן חוּר, כְּמוֹ בְּנוֹ חוּר; וְהוּא, חוּר, הָיָה בְּנוֹ הַבְּכוֹר לְאֶפְרָת אִשְׁתּוֹ, וְלֹא בְּכוֹר לְכָלֵב, וְכֵן מְפֹרָשׁ לְמַעְלָה: **וַיִּקַּח לוֹ כָלֵב אֶת אֶפְרָת וַתֵּלֶד לוֹ אֶת חוּר.** עִנְיָן אַחֵר: **אֵלֶּה הָיוּ וְגוֹ׳** – חוּר הָיָה בֵּן לְכָלֵב וְהוֹלִיד בֵּן וַיִּקְרָא שְׁמוֹ כָּלֵב, לְכָךְ פֵּרוּשׁוֹ: וְאֵלֶּה הָיוּ בָּנָיו שֶׁל כָּלֵב בְּנוֹ שֶׁל חוּר: **שׁוֹבָל וְגוֹ׳**:
 
 
 **These were the sons of Caleb, the son of Hur, the firstborn of Ephrathah** The interpretation is: These were the sons of Caleb. בֶּן חוּר is like בְּנוֹ חוּר, his son was Hur, and that Hur was the firstborn of Ephrath, his wife, not the firstborn of Caleb, and so it is explained above (verse 19): “And Caleb took to himself Ephrath, and she bore him Hur.” Another explanation [is that] “for these were the sons of, etc.” Hur was Caleb’s son, and he begot a son whom he named Caleb, and this is its explanation: And these were the sons of Caleb the son of Hur: Shobal, etc.
@@ -786,7 +786,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/2:53:2](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/2:53:2)
 
 
-**מֵאֵלֶּה יָצְאוּ הַצָּרְעָתִי וְהָאֶשְׁתָּאֻלִי.** יוֹשְׁבֵי צָרְעָה. וְאַל תִּתְמַהּ שֶׁכָּתַב ״וַתָּחֶל רוּחַ ה׳ לְפַעֲמוֹ... בֵּין צָרְעָה וּבֵין אֶשְׁתָּאֹל״ (שופטים יג:כה), דְּמַשְׁמַע שֶׁהָיוּ שְׁתֵּי עֲיָרוֹת הַלָּלוּ שֶׁל בְּנֵי דָן, כִּי כָּל אֵלֶּה שֶׁנֶּאֱמַר כָּאן שֶׁל בְּנֵי יְהוּדָה הָיוּ, שֶׁאָנוּ יְכוֹלִין לוֹמַר: הָעֲיָרוֹת וְהַגְּבוּל שֶׁהָיָה בֵּין צָרְעָה וְאֶשְׁתָּאוֹל הָיָה שֶׁל דָּן, אֲבָל צָרְעָה וְאֶשְׁתָּאוֹל עַצְמָן שֶׁל בְּנֵי יְהוּדָה הָיוּ:
+**מֵאֵלֶּה יָצְאוּ הַצָּרְעָתִי וְהָאֶשְׁתָּאֻלִי.** יוֹשְׁבֵי צָרְעָה. וְאַל תִּתְמַהּ שֶׁכָּתַב ״וַתָּחֶל רוּחַ ה׳ לְפַעֲמוֹ… בֵּין צָרְעָה וּבֵין אֶשְׁתָּאֹל״ (שופטים יג:כה), דְּמַשְׁמַע שֶׁהָיוּ שְׁתֵּי עֲיָרוֹת הַלָּלוּ שֶׁל בְּנֵי דָן, כִּי כָּל אֵלֶּה שֶׁנֶּאֱמַר כָּאן שֶׁל בְּנֵי יְהוּדָה הָיוּ, שֶׁאָנוּ יְכוֹלִין לוֹמַר: הָעֲיָרוֹת וְהַגְּבוּל שֶׁהָיָה בֵּין צָרְעָה וְאֶשְׁתָּאוֹל הָיָה שֶׁל דָּן, אֲבָל צָרְעָה וְאֶשְׁתָּאוֹל עַצְמָן שֶׁל בְּנֵי יְהוּדָה הָיוּ:
 
 
 **from these came the Zorathites and the Eshtaolites** the inhabitants of Zorah and Eshtaol. Do not wonder that it is written (Judg. 13:25): “And the spirit of the Lord began to come upon him at times [in the camp of Dan] between Zorah and Eshtaol,” which means that these two towns belonged to the Danites, [which presents a difficulty] because all these stated here belonged to the Judahites. We can say [to solve this discrepancy that] the towns and the boundary that were between Zorah and Eshtaol belonged to Dan, but Zorah and Eshtaol themselves belonged to the Judahites.
@@ -1065,7 +1065,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/4:12:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/4:12:1)
 
 
-**אֲבִי עִיר נָחָשׁ.** שֵׁם עִיר, וּ**תְחְנָּה** שַׂר (הָיָה) עָלֶיהָ:
+**אֲבִי עִיר נָחָשׁ.** שֵׁם עִיר, וּ**תְּחִנָּה** שַׂר (הָיָה) עָלֶיהָ:
 
 
 **the leader of Ir Nahash** the name of a city, and Tehinnah (was) its leader.
@@ -1090,7 +1090,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/4:14:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/4:14:1)
 
 
-**וּשְׂרָיָה הוֹלִיד אֶת יוֹאָב אֲבִי גֵּיא חֲרָשִׁים.** יוֹאָב הָיָה שַׂר שֶׁל עֵמֶק שֶׁיֵּשׁ בָּהּ חֲרָשִׁים. וְלָמָּה אֲנִי קוֹרֵא אוֹתָהּ גֵּיא חֲרָשִׁים? **כִּי חֲרָשִׁים הָיוּ**. פִּתְרוֹן: אוֹתָן שֶׁיָּשְׁבוּ בְּגֵיא הַחֲרָשִׁים, חֲרָשִׁים הֵמָּה, וְעַל שְׁמָם נִקְרָא הַגַּיְא:
+**וּשְׂרָיָה הוֹלִיד אֶת יוֹאָב אֲבִי גֵּיא חֲרָשִׁים.** יוֹאָב הָיָה שַׂר שֶׁל עֵמֶק שֶׁיֵּשׁ בָּהּ חֲרָשִׁים. וְלָמָּה אֲנִי קוֹרֵא אוֹתָהּ גֵּיא חֲרָשִׁים? **כִּי חֲרָשִׁים הָיוּ.** פִּתְרוֹן: אוֹתָן שֶׁיָּשְׁבוּ בְּגֵיא הַחֲרָשִׁים, חֲרָשִׁים הֵמָּה, וְעַל שְׁמָם נִקְרָא הַגַּיְא:
 
 
 **And Seraiah begot Joab, the leader of Gei Harashim** Joab was the leader of a valley in which there were craftsmen. Now why do I call it the Valley of Craftsmen? Because they were craftsmen; i. e., those who dwelt in the Valley of the Craftsmen were craftsmen, and the valley was named after them.
@@ -1452,7 +1452,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/5:1:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/5:1:1)
 
 
-**וּבְנֵי רְאוּבֵן בְּכוֹר יִשְׂרָאֵל.** וְאִם תֹּאמַר: אִם כֵּן שֶׁהָיָה בְּכוֹר, לָמָּה לֹא יָצָא מִמֶּנּוּ מַלְכוּת? **כִּי הוּא** בְּוַדַּאי **הַבְּכוֹר וּבְחַלְּלוֹ יְצוּעֵי אָבִיו נִתְּנָה בְּכֹרָתוֹ לִבְנֵי יוֹסֵף**. וְאִם תֹּאמַר: אִם כֵּן, לָמָּה לֹא מָלְכוּ בְּנֵי יוֹסֵף? לְכָךְ אָמַר: **וְלֹא לְהִתְיַחֵשׂ לַבְּכֹרָה** – חֵלֶק בְּכוֹרוֹת וְלֹא בְּכוֹר (בראשית רבה פב:יא). כִּי יְהוּדָה, אֲפִלּוּ לֹא חִלֵּל רְאוּבֵן הַבְּכוֹרָה וְלֹא נִלְקְחָה מִמֶּנּוּ, אֲפִלּוּ הָכִי הָיָה הָגוּן יְהוּדָה לַמֶּלֶךְ:
+**וּבְנֵי רְאוּבֵן בְּכוֹר יִשְׂרָאֵל.** וְאִם תֹּאמַר: אִם כֵּן שֶׁהָיָה בְּכוֹר, לָמָּה לֹא יָצָא מִמֶּנּוּ מַלְכוּת? **כִּי הוּא** בְּוַדַּאי **הַבְּכוֹר וּבְחַלְּלוֹ יְצוּעֵי אָבִיו נִתְּנָה בְּכֹרָתוֹ לִבְנֵי יוֹסֵף.** וְאִם תֹּאמַר: אִם כֵּן, לָמָּה לֹא מָלְכוּ בְּנֵי יוֹסֵף? לְכָךְ אָמַר: **וְלֹא לְהִתְיַחֵשׂ לַבְּכֹרָה** – חֵלֶק בְּכוֹרוֹת וְלֹא בְּכוֹר (בראשית רבה פב:יא). כִּי יְהוּדָה, אֲפִלּוּ לֹא חִלֵּל רְאוּבֵן הַבְּכוֹרָה וְלֹא נִלְקְחָה מִמֶּנּוּ, אֲפִלּוּ הָכִי הָיָה הָגוּן יְהוּדָה לַמֶּלֶךְ:
 
 
 **And the sons of Reuben the firstborn of Israel** Now if you ask: since he was the firstborn, why did the kingship not emanate from him? He was indeed the firstborn, but when he desecrated his father’s bed, his birthright was given to the sons of Joseph. Now if you ask, if so, why did the sons of Joseph not reign? He therefore says, “but not to be reckoned in the genealogy as the first born,” [i.e., the sons of Joseph were not meant] to take the share of the kingship, but only the birthright, because Judah was the most fit to reign even if Reuben had not defiled the birthright and it had not been taken from him.
@@ -1477,7 +1477,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/5:2:2](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/5:2:2)
 
 
-**וְלְנָגִיד מִמֶּנּוּ.** שֶׁיָּצָא מִמֶּנּוּ מַלְכוּת; וְעַל שֵׁם כָּךְ נִקְרָא הַמֶּלֶךְ נָגִיד, שֶׁהוּא הַמּוֹצִיא וְהַמֵּבִיא. וְהַבְּכוֹרָה וְהַמַּלְכוּת נִטְּלָה מֵרְאוּבֵן וְנִתְּנָה הַמַּלְכוּת לִיהוּדָה, כְּדִכְתִיב **כִּי יְהוּדָה גָּבַר בְּאֶחָיו**, אֲבָל חֵלֶק **הַבְּכוֹרָה** נִתְּנָה **לְיוֹסֵף** לִשְׁנֵי בָנָיו:
+**וּלְנָגִיד מִמֶּנּוּ.** שֶׁיָּצָא מִמֶּנּוּ מַלְכוּת; וְעַל שֵׁם כָּךְ נִקְרָא הַמֶּלֶךְ נָגִיד, שֶׁהוּא הַמּוֹצִיא וְהַמֵּבִיא. וְהַבְּכוֹרָה וְהַמַּלְכוּת נִטְּלָה מֵרְאוּבֵן וְנִתְּנָה הַמַּלְכוּת לִיהוּדָה, כְּדִכְתִיב **כִּי יְהוּדָה גָּבַר בְּאֶחָיו**, אֲבָל חֵלֶק **הַבְּכוֹרָה** נִתְּנָה **לְיוֹסֵף** לִשְׁנֵי בָנָיו:
 
 
 **and the one appointed as prince was to be from him** the kingship emanated from him, and for this reason the king was called נָגִיד, since he is the one who leads [the people] out and brings them in [the Aramaic root נגד means to pull or lead.] And the birthright and the throne were taken from Reuben, and the throne was given to Judah, as it is written: “Because Judah prevailed over his brothers”; but the share of the birthright was given to Joseph, to his two sons.
@@ -1530,7 +1530,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/5:6:2](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/5:6:2)
 
 
-**הוּא נָשִׂיא לָרְאוּבֵנִי.** בְּאוֹתוֹ זְמַן שֶׁהִגְלָהוּ **תִּלְּגַת פִּלְנְאֶסֶר**:
+**הוּא נָשִׂיא לָראוּבֵנִי.** בְּאוֹתוֹ זְמַן שֶׁהִגְלָהוּ **תִּלְּגַת פִּלְנְאֶסֶר**:
 
 
 **he was the prince of the Reubenites** at the time that Tiglath Pileser exiled him.
@@ -1636,7 +1636,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/5:18:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/5:18:1)
 
 
-**בְּנֵי רְאוּבֵן וְגָד וַחֲצִי שֵׁבֶט מְנַשֶּׁה מִן בְּנֵי חַיִל וְגוֹ׳.** כְּלוֹמַר: כֻּלָּם נִתְקַבְּצוּ וְ**עָשׂוּ מִלְחָמָה עִם הַהַגְרִיאִים**:
+**בְּנֵי רְאוּבֵן וְגָדִי וַחֲצִי שֵׁבֶט מְנַשֶּׁה מִן בְּנֵי חַיִל וְגוֹ׳.** כְּלוֹמַר: כֻּלָּם נִתְקַבְּצוּ וְ**עָשׂוּ מִלְחָמָה עִם הַהַגְרִיאִים**:
 
 
 **The sons of Reuben, and the Gadites, and half the tribe of Manasseh, of men of valor, etc.** That is to say: they all gathered and made war with the Hagarites.
@@ -1759,7 +1759,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/6:16:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/6:16:1)
 
 
-**וְאֵלֶּה אֲשֶׁר הֶעֱמִיד דָּוִד וְגוֹ׳.** כְּשֶׁהֱשִׁיבוּהוּ מִבֵּית עוֹבֵד אֱדוֹם, כְּדִכְתִיב ״וַיַּעֲזֹב שָׁם לִפְנֵי אֲרוֹן בְּרִית ה׳ לְאָסָף וּלְאֶחָיו לְשָׁרֵת לִפְנֵי הָאָרוֹן וְגוֹ׳״ (דברי הימים א טז:לז), וּכְתִיב ״וְעֹבֵד אֱדֹם... בֶּן יְדוּתוּן וְחֹסָה לְשֹׁעֲרִים וְגוֹ׳״ (דברי הימים א טז:לח). לִפְנֵי מִשְׁכַּן ה׳ – בַּבָּמָה אֲשֶׁר בְּגִבְעוֹן, וּשְׁלֹמֹה הֶעֱמִידָן בְּבֵית הַמִּקְדָּשׁ בִּירוּשָׁלַיִם:
+**וְאֵלֶּה אֲשֶׁר הֶעֱמִיד דָּוִד וְגוֹ׳.** כְּשֶׁהֱשִׁיבוּהוּ מִבֵּית עוֹבֵד אֱדוֹם, כְּדִכְתִיב ״וַיַּעֲזֹב שָׁם לִפְנֵי אֲרוֹן בְּרִית ה׳ לְאָסָף וּלְאֶחָיו לְשָׁרֵת לִפְנֵי הָאָרוֹן וְגוֹ׳״ (דברי הימים א טז:לז), וּכְתִיב ״וְעֹבֵד אֱדֹם… בֶּן יְדוּתוּן וְחֹסָה לְשֹׁעֲרִים וְגוֹ׳״ (דברי הימים א טז:לח). לִפְנֵי מִשְׁכַּן ה׳ – בַּבָּמָה אֲשֶׁר בְּגִבְעוֹן, וּשְׁלֹמֹה הֶעֱמִידָן בְּבֵית הַמִּקְדָּשׁ בִּירוּשָׁלַיִם:
 
 
 **And these are the ones that David stationed, etc.** when they returned it from the house of Obed Edom, as it is written (below 16:37): “And he left there before the Ark of the Covenant of the Lord, Asaph and his brothers to serve before the Ark constantly, etc.” And it is written (verse 38f.): “... and Obed Edom the son of Jeduthun and Hosah as gate sentries before the Tabernacle of the Lord in the high place that was in Gibeon, and Solomon stationed them in the Temple in Jerusalem.”
@@ -1801,7 +1801,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/6:29:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/6:29:1)
 
 
-**וּבְנֵי מְרָרִי אֲחֵיהֶם עַל הַשְּׂמֹאוּל.** (אֲחֵיהֶם) דּוּגְמַת שֶׁאָמַר בִּלְשׁוֹן אַשְׁכְּנַ״ז גִּיבְרוּדִי״ר, **עַל הַשְּׂמֹאל** שֶׁל הֵימָן וּבָנָיו שֶׁהֵימָן וּבָנָיו בָּאֶמְצַע:
+**וּבְנֵי מְרָרִי אֲחֵיהֶם עַל הַשְּׂמֹאול.** (אֲחֵיהֶם) דּוּגְמַת שֶׁאָמַר בִּלְשׁוֹן אַשְׁכְּנַ״ז גִּיבְרוּדִי״ר, **עַל הַשְּׂמֹאל** שֶׁל הֵימָן וּבָנָיו שֶׁהֵימָן וּבָנָיו בָּאֶמְצַע:
 
 
 **And the sons of Merari their brethren were on the left** like what is said (in German, gebreder). On the left of Heman and his sons, for Heman and his sons were in the middle.
@@ -2044,7 +2044,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/7:2:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/7:2:1)
 
 
-**וּבְנֵי תוֹלָע. מִסְפָּרָם בִּימֵי דָוִיד עֶשְׂרִים וּשְׁנַיִם אֶלֶף וְשֵׁשׁ מֵאוֹת**. כָּל אֵלֶּה בְּנֵי תוֹלָע לְבַד מִ**בְּנֵי עֻזִּי**:
+**וּבְנֵי תוֹלָע. מִסְפָּרָם בִּימֵי דָוִיד עֶשְׂרִים וּשְׁנַיִם אֶלֶף וְשֵׁשׁ מֵאוֹת.** כָּל אֵלֶּה בְּנֵי תוֹלָע לְבַד מִבְּנֵי עֻזִּי:
 
 
 **And the sons of Tola, etc.** “Their number in David’s time was twenty-two thousand and six hundred.” All these were the sons of Tola, aside from the sons of Uzzi.
@@ -2326,7 +2326,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/8:14:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/8:14:1)
 
 
-**וְאַחְיוֹ שָׁשָׁק.** כָּל אֵלֶּה **בְּנֵי אֶלְפָּעַל**. עִנְיָן אַחֵר וְעִיקָּר: מִן **אַחְיוֹ שָׁשָׁק** עַד **וְיוֹחָא** – כָּל אֵלֶּה **בְּנֵי בְרִיעָה**, וּמִ**זְבַּדְיָה** עַד **יוֹבָב** – כָּל אֵלֶּה **בְּנֵי אֶלְפָּעַל**, וּמִן **וְיָקִים** עַד **וְשִׁמְרָת** – כָּל אֵלֶּה **בְּנֵי שִׁמְעִי**:
+**וְאַחְיוֹ שָׁשָׁק.** כָּל אֵלֶּה **בְּנֵי אֶלְפָּעַל.** עִנְיָן אַחֵר וְעִיקָּר: מִן **אַחְיוֹ שָׁשָׁק** עַד **וְיוֹחָא** – כָּל אֵלֶּה **בְּנֵי בְרִיעָה**, וּמִ**זְבַּדְיָה** עַד **יוֹבָב** – כָּל אֵלֶּה **בְּנֵי אֶלְפָּעַל**, וּמִן **וְיָקִים** עַד **וְשִׁמְרָת** – כָּל אֵלֶּה **בְּנֵי שִׁמְעִי**:
 
 
 **And Ahio, Shashak** All these were the sons of Elpaal. Another explanation, which is more correct, is that from “Ahio, Shashak” until “and Joha,” all these are the sons of Beriah, and from “Zebadiah” until “Jobab,” all these are the sons of Elpaal, and from “And Jakim,” until “and Shimrath,” all these are the sons of Shimei.
@@ -2357,7 +2357,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/9:1:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/9:1:1)
 
 
-**וְכָל יִשְׂרָאֵל הִתְיַחֲשׂוּ.** אָמַרְתִּי לְךָ קְצָת מִן יִחוּסָן מַה שֶּׁמָּצָאתִי, אֲבָל עִיקַּר יִחוּסָן **עַל סֵפֶר מַלְכֵי יִשְׂרָאֵל וִיהוּדָה(qb) שֶׁ<b>הָגְלוּ לְבָבֶל בְּמַעֲלָם**, וְעִמָּהֶם הָיִיתִי, אֲנִי עֶזְרָא, וְיִחוּסָם מָצָאתִי כָּתוּב וְכָתַבְתִּיו:
+**וְכָל יִשְׂרָאֵל הִתְיַחְשׂוּ.** אָמַרְתִּי לְךָ קְצָת מִן יִחוּסָן מַה שֶּׁמָּצָאתִי, אֲבָל עִיקַּר יִחוּסָן **עַל סֵפֶר מַלְכֵי יִשְׂרָאֵל וִיהוּדָה** שֶׁ**הָגְלוּ לְבָבֶל בְּמַעֲלָם**, וְעִמָּהֶם הָיִיתִי, אֲנִי עֶזְרָא, וְיִחוּסָם מָצָאתִי כָּתוּב וְכָתַבְתִּיו:
 
 
 **And all Israel traced their genealogy** I related to you part of their genealogy, which I found, but the greater part of their genealogy is in the Book of the Kings of Israel, but the Judeans, who were exiled to Babylon because of their treachery, with whom I, Ezra, was - I found their genealogy written, and I recorded it.
@@ -2530,7 +2530,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/9:40:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/9:40:1)
 
 
-**מְרִיב בַּעַל.** זֶה ״מְפִיבֹשֶׁת״ (שמואל ב ד:ד): אָמַר רַבִּי יִצְחָק בַּר שְׁמוּאֵל מִנַּרְבּוֹנָא: מִשָּׁעָה שֶׁעָבְדוּ יִשְׂרָאֵל אֶת הַבַּעַל נִקְרָא הַבַּעַל שֵׁם בּוֹשֶׁת, דִּכְתִיב ״לְקַטֵּר לַבֹּשֶׁת לְקַטֵּר לַבָּעַל״ (ירמיהו יא:יג); כִּי הַבַּעַל הוּא בּוֹשֶׁת, וְגִדְעוֹן נִקְרָא ״יְרֻבַּעַל״ עַל שֶׁסֵּרֵב לוֹ בַּעַל (שופטים ו:לב), וְנִקְרָא ״יְרֻבֶּשֶׁת״, דִּכְתִיב עַל אֲבִימֶלֶךְ ״מִי הִכָּה... אֲבִימֶלֶךְ בֶּן יְרֻבֶּשֶׁת וְגוֹ׳״ בְּסֵפֶר שְׁמוּאֵל (שמואל ב יא:כא); וְנִקְרָא ״יְרֻבֶּשֶׁת״ וִ״יְרֻבַּעַל״, כִּי בַּעַל וּבֹשֶׁת אֶחָד הוּא:
+**מְרִיב בַּעַל.** זֶה ״מְפִיבֹשֶׁת״ (שמואל ב ד:ד): אָמַר רַבִּי יִצְחָק בַּר שְׁמוּאֵל מִנַּרְבּוֹנָא: מִשָּׁעָה שֶׁעָבְדוּ יִשְׂרָאֵל אֶת הַבַּעַל נִקְרָא הַבַּעַל שֵׁם בּוֹשֶׁת, דִּכְתִיב ״לְקַטֵּר לַבֹּשֶׁת לְקַטֵּר לַבָּעַל״ (ירמיהו יא:יג); כִּי הַבַּעַל הוּא בּוֹשֶׁת, וְגִדְעוֹן נִקְרָא ״יְרֻבַּעַל״ עַל שֶׁסֵּרֵב לוֹ בַּעַל (שופטים ו:לב), וְנִקְרָא ״יְרֻבֶּשֶׁת״, דִּכְתִיב עַל אֲבִימֶלֶךְ ״מִי הִכָּה… אֲבִימֶלֶךְ בֶּן יְרֻבֶּשֶׁת וְגוֹ׳״ בְּסֵפֶר שְׁמוּאֵל (שמואל ב יא:כא); וְנִקְרָא ״יְרֻבֶּשֶׁת״ וִ״יְרֻבַּעַל״, כִּי בַּעַל וּבֹשֶׁת אֶחָד הוּא:
 
 
 **Merib-Baal** That is Mephibosheth (II Sam 4:4). Said Rabbi Isaac the son of Samuel of Narbonne: From the time that Israel worshipped the Baal, the Baal was called by the name of Bosheth (shame), as it is written (Jer. 11:13): “altars for the shameful thing, etc.,” for the Baal is a shameful thing. Gideon was called Jerubaal, based on the expression (Jud. 6:32): “Let Baal contend with him.” He was also called Jerubesheth, for it is written concerning Abimelech: “who smote Abimelech the son of Jerubesheth, etc.” in the Book of Samuel (II 11: 21). He is called Jerubesheth and Jerubaal, because Baal and Bosheth are synonymous.
@@ -2759,7 +2759,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/11:13:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/11:13:1)
 
 
-**בְּפַס דָּמִים.** שֵׁם מָקוֹם, וּבִשְׁמוּאֵל: ״בְּאֶפֶס דַּמִּים״ (שמואל א יז:א):
+**בְּפַס דַּמִּים.** שֵׁם מָקוֹם, וּבִשְׁמוּאֵל: ״בְּאֶפֶס דַּמִּים״ (שמואל א יז:א):
 
 
 **in Pas-Dammim** a name of a place, and in Samuel (I 17:1): “in Ephes-Dammim.”
@@ -2770,7 +2770,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/11:13:2](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/11:13:2)
 
 
-**וְהַפְּלִשְׁתִּים נֶאֱסְפוּ שָׁם לַמִּלְחָמָה.** שֶׁנִּזְדָּרְזוּ לְהִנָּקֵם מִיִּשְׂרָאֵל וּמֵאוֹתָם גִּבּוֹרִים שֶׁחֵרְפוּ, כַּמְפֹרָשׁ בִּשְׁמוּאֵל ״בְּחָרְפָם בַּפְּלִשְׁתִּים״ (שמואל ב כג:ט):
+**וְהַפְּלִשְׁתִּים נֶאֶסְפוּ שָׁם לַמִּלְחָמָה.** שֶׁנִּזְדָּרְזוּ לְהִנָּקֵם מִיִּשְׂרָאֵל וּמֵאוֹתָם גִּבּוֹרִים שֶׁחֵרְפוּ, כַּמְפֹרָשׁ בִּשְׁמוּאֵל ״בְּחָרְפָם בַּפְּלִשְׁתִּים״ (שמואל ב כג:ט):
 
 
 **and the Philistines gathered there for war** they were eager to avenge themselves upon Israel and those mighty men who reviled them, as delineated in Samuel (II 23:9): “...when they reviled the Philistines.”
@@ -2887,7 +2887,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/11:20:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/11:20:1)
 
 
-**וַאֲבְשַׁי אֲחִי יוֹאָב הוּא הָיָה רֹאשׁ הַשְּׁלוֹשָׁה.** לְאוֹתָם שְׁלֹשָׁה שֶׁבָּקְעוּ **בְּמַחֲנֵה פְּלִשְׁתִּים** וְשָׁאֲבוּ הַמַּיִם. וּמַה שֶּׁאֵינוֹ מַזְכִּיר אֶת יוֹאָב עִם הַגִּבּוֹרִים, לְפִי שֶׁאֵין כְּבוֹדוֹ לִמְנוֹתוֹ עִם אֵלּוּ, כִּי הוּא הָיָה שַׂר צָבָא, רֹאשׁ לְכֻלָּם:
+**וְאַבְשַׁי אֲחִי יוֹאָב הוּא הָיָה רֹאשׁ הַשְּׁלוֹשָׁה.** לְאוֹתָם שְׁלֹשָׁה שֶׁבָּקְעוּ **בְּמַחֲנֵה פְּלִשְׁתִּים** וְשָׁאֲבוּ הַמַּיִם. וּמַה שֶּׁאֵינוֹ מַזְכִּיר אֶת יוֹאָב עִם הַגִּבּוֹרִים, לְפִי שֶׁאֵין כְּבוֹדוֹ לִמְנוֹתוֹ עִם אֵלּוּ, כִּי הוּא הָיָה שַׂר צָבָא, רֹאשׁ לְכֻלָּם:
 
 
 **And Abshai, the brother of Joab, was the chief of the three** of those three who broke through the Philistine camp and drew the water. The reason he does not mention Joab with the chiefs of the mighty men is that it is beneath his dignity to count him with these men, because he was the general of the army, the chief of them all.
@@ -3326,7 +3326,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/12:23:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/12:23:1)
 
 
-**כִּי לְעֵת יוֹם בְּיוֹם יָבֹאוּ עַל דָּוִד לְעָזְרוֹ.** פִּתְרוֹנוֹ: מַה לְּךָ לְסַפֵּר יוֹתֵר מִי וָמִי בָּאוּ אֵלָיו, אֶלָּא סוֹף דָּבָר: בְּכָל עֵת וָעֵת בָּאִים אֶל דָּוִד:
+**כִּי לְעֶת יוֹם בְּיוֹם יָבֹאוּ עַל דָּוִד לְעָזְרוֹ.** פִּתְרוֹנוֹ: מַה לְּךָ לְסַפֵּר יוֹתֵר מִי וָמִי בָּאוּ אֵלָיו, אֶלָּא סוֹף דָּבָר: בְּכָל עֵת וָעֵת בָּאִים אֶל דָּוִד:
 
 
 **For from day to day [men] came to David to help him** The meaning is: What is the purpose of continuing to recount who came to him? The final analysis is that at all times people were coming to David.
@@ -3571,7 +3571,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/13:1:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/13:1:1)
 
 
-**וַיִּוָּעֵץ דָּוִיד עִם שָׂרֵי הָאֲלָפִים.** שֶׁאָמַר לָהֶם דָּוִיד: כְּבָר עֲסַקְתֶּם בְּתַקָּנַתְכֶם לִהְיוֹת לָכֶם מֶלֶךְ לְהוֹשִׁיעַ לָכֶם, וְעַתָּה תַּעַסְקוּ בִּכְבוֹד אֱלֹהִים:
+**וַיִּוָּעַץ דָּוִיד עִם שָׂרֵי הָאֲלָפִים.** שֶׁאָמַר לָהֶם דָּוִיד: כְּבָר עֲסַקְתֶּם בְּתַקָּנַתְכֶם לִהְיוֹת לָכֶם מֶלֶךְ לְהוֹשִׁיעַ לָכֶם, וְעַתָּה תַּעַסְקוּ בִּכְבוֹד אֱלֹהִים:
 
 
 **And David conferred with the officers of the thousands** He said to them, “You have already engaged in matters that are for your benefit, for you have a king to save you; now you should engage in the honor of God.”
@@ -3769,7 +3769,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/14:1:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/14:1:1)
 
 
-**וַיִּשְׁלַח חִירָם מֶלֶךְ צוֹר.** מְפֹרָשׁ בִּבְרֵאשִׁית רַבָּה (בראשית רבה פה:ד): לָמוּד הָיָה הָאִישׁ הַזֶּה לִהְיוֹת אוֹהֵב לְשֵׁבֶט יְהוּדָה; כֵּן עָשָׂה חִירָה הָעֲדֻלָּמִי לִיהוּדָה (בראשית לח:יב):
+**וַיִּשְׁלַח חוּרָם מֶלֶךְ צוֹר.** מְפֹרָשׁ בִּבְרֵאשִׁית רַבָּה (בראשית רבה פה:ד): לָמוּד הָיָה הָאִישׁ הַזֶּה לִהְיוֹת אוֹהֵב לְשֵׁבֶט יְהוּדָה; כֵּן עָשָׂה חִירָה הָעֲדֻלָּמִי לִיהוּדָה (בראשית לח:יב):
 
 
 **And Hiram the king of Tyre sent** It is explained in *Genesis Rabbah* (85:4): “This man was accustomed to being friendly to the tribe of Judah; so was Hirah the Adullamite to Judah.
@@ -4154,7 +4154,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/16:6:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/16:6:1)
 
 
-**וּבְנָיָהוּ וִיחַזְיִאֵל הַכֹּהֲנִים בַּחֲצֹצְרוֹת תָּמִיד.** חֲצוֹצְרוֹת כְּלִי שִׁיר שֶׁל כֹּהֲנִים הוּא, דֻּגְמָא לְמַעְלָה: ״וּשְׁבַנְיָהוּ״ וְגוֹ׳ וּבְנָיָהוּ וֶאֱלִיעֶזֶר הַכֹּהֲנִים מְחַצְצְרִים בַּחֲצֹצְרוֹת״ (דברי הימים א טו:כד):
+**וּבְנָיָהוּ וְיַחֲזִיאֵל הַכֹּהֲנִים בַּחֲצֹצְרוֹת תָּמִיד.** חֲצוֹצְרוֹת כְּלִי שִׁיר שֶׁל כֹּהֲנִים הוּא, דֻּגְמָא לְמַעְלָה: ״וּשְׁבַנְיָהוּ״ וְגוֹ׳ וּבְנָיָהוּ וֶאֱלִיעֶזֶר הַכֹּהֲנִים מְחַצְצְרִים בַּחֲצֹצְרוֹת״ (דברי הימים א טו:כד):
 
 
 **And Benaiah and Jahaziel the priests with trumpets constantly** Trumpets were the musical instruments of the priests. A similar case is found above (15:24): “And Shebaniah, etc. and Eliezer. the priests, sounding the trumpets.”
@@ -4309,7 +4309,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/16:19:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/16:19:1)
 
 
-**בִּהְיוֹתְכֶם מְתֵי מִסְפָּר.** אָז נִשְׁבַּע לָתֵת לָהֶם אֶת **אֶרֶץ כְּנַעַן חֶבֶל נַחֲלַתְכֶם**. וְזֶהוּ דָּבָר גָּדוֹל, שֶׁאֵין לוֹמַר מֵרוֹב עַם שֶׁהֱיִיתֶם תְּפַשְׂתֶּם אֶרֶץ כְּנַעַן, אֶלָּא בִּהְיוֹתְכֶם מְתֵי מִסְפָּר. וְאִם תֹּאמַר: אֲפִילוּ לְאֶלֶף וְיוֹתֵר יֵשׁ מִסְפָּר, וּמַהוּ שֶׁכָּתוּב בָּהּ בִּהְיוֹתְכֶם מְתֵי מִסְפָּר! לְכָךְ נֶאֱמַר: **כִּמְעַט וְגָרִים בָּהּ**. פִּתְרוֹן: אִם לִמְיֻשָּׁב אֶחָד הָיִיתִי אוֹמֵר, לְאַבְרָהָם לְבַד, לְיִצְחָק בִּלְבַד, לְיַעֲקֹב בִּלְבַד; לְאֶחָד מֵהֶם הָיָה אוֹמֵר **לְךָ אֶתֵּן אֶרֶץ כְּנַעַן**, לֹא הָיָה תֵּימַהּ, שֶׁהֲרֵי מְיֻשָּׁבִים בָּהּ הָיוּ, אֶלָּא הוּא נִשְׁבַּע לָתֵת לָהֶם אֶת הָאָרֶץ בְּשָׁעָה שֶׁהָיוּ אֲבוֹתֵיכֶם **גֵּרִים בָּהּ**, דִּכְתִיב ״הִיא חֶבְרוֹן אֲשֶׁר גָּר שָׁם אַבְרָהָם וְיִצְחָק״ (יהושע טו:יג) וְעוֹד: אִם לְגֵר תּוֹשָׁב הָיָה אוֹמֵר ״לְךָ וּלְזַרְעֲךָ אֶתֵּן אֶת הָאָרֶץ הַזֹּאת״, לֹא הָיָה פֶּלֶא כָּל כָּךְ בָּזֶה, שֶׁאֲפִילוּ גֵּרִים וְתוֹשָׁבִים לֹא הָיוּ, אֶלָּא:
+**בִּהְיוֹתְכֶם מְתֵי מִסְפָּר.** אָז נִשְׁבַּע לָתֵת לָהֶם אֶת **אֶרֶץ כְּנַעַן חֶבֶל נַחֲלַתְכֶם.** וְזֶהוּ דָּבָר גָּדוֹל, שֶׁאֵין לוֹמַר מֵרוֹב עַם שֶׁהֱיִיתֶם תְּפַשְׂתֶּם אֶרֶץ כְּנַעַן, אֶלָּא בִּהְיוֹתְכֶם מְתֵי מִסְפָּר. וְאִם תֹּאמַר: אֲפִילוּ לְאֶלֶף וְיוֹתֵר יֵשׁ מִסְפָּר, וּמַהוּ שֶׁכָּתוּב בָּהּ בִּהְיוֹתְכֶם מְתֵי מִסְפָּר! לְכָךְ נֶאֱמַר: **כִּמְעַט וְגָרִים בָּהּ.** פִּתְרוֹן: אִם לִמְיֻשָּׁב אֶחָד הָיִיתִי אוֹמֵר, לְאַבְרָהָם לְבַד, לְיִצְחָק בִּלְבַד, לְיַעֲקֹב בִּלְבַד; לְאֶחָד מֵהֶם הָיָה אוֹמֵר **לְךָ אֶתֵּן אֶרֶץ כְּנַעַן**, לֹא הָיָה תֵּימַהּ, שֶׁהֲרֵי מְיֻשָּׁבִים בָּהּ הָיוּ, אֶלָּא הוּא נִשְׁבַּע לָתֵת לָהֶם אֶת הָאָרֶץ בְּשָׁעָה שֶׁהָיוּ אֲבוֹתֵיכֶם גֵּרִים בָּהּ, דִּכְתִיב ״הִיא חֶבְרוֹן אֲשֶׁר גָּר שָׁם אַבְרָהָם וְיִצְחָק״ (יהושע טו:יג) וְעוֹד: אִם לְגֵר תּוֹשָׁב הָיָה אוֹמֵר ״לְךָ וּלְזַרְעֲךָ אֶתֵּן אֶת הָאָרֶץ הַזֹּאת״, לֹא הָיָה פֶּלֶא כָּל כָּךְ בָּזֶה, שֶׁאֲפִילוּ גֵּרִים וְתוֹשָׁבִים לֹא הָיוּ, אֶלָּא:
 
 
 **When you were few in number** [It was] then that He swore to give them the land of Canaan, the portion of your heritage. And this is a great thing, so that they cannot say that because of your great numbers, you seized the land of Canaan, but when you were few in number. Now if you say that even a thousand or more have a number, what is this about which it is written: “When you were few in number”? Therefore, it says: “hardly dwelling in it.” The meaning is that if He would say to one settler, e.g., to Abraham alone, to Isaac alone, to Jacob alone, to one of them He would say, “To you I will give the land of Canaan,” it would not be a wonder, because they were settled in it! But He swore to give you the land at a time when your ancestors were strangers sojourning in it, as it is written (Gen. 35:27): “... that is Hebron, where Abraham and Isaac sojourned.” And furthermore, if He would say to a stranger who is settling, “To you and to your seed I will give this land,” it would not be such a wonder. Therefore, he says that they were not even strangers who were settling, but...
@@ -4337,7 +4337,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/16:21:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/16:21:1)
 
 
-**לֹא הִנִּיחַ לְאִישׁ לְעָשְׁקָם.** אַף־עַל־פִּי כֵן שֶׁהָלְכוּ מִמָּקוֹם לְמָקוֹם, וּמִנְהָג לְהַזִּיק עוֹבְרֵי דְרָכִים, כְּשֶׁבָּאִין לַמָּלוֹן מוֹצְאִין עֲלֵיהֶן עֲלִילוֹת, אֲבָל אֵלּוּ לֹא הִנִּיחַ הַקָּדוֹשׁ בָּרוּךְ הוּא לְהַזִּיקָם וּלְעָשְׁקָם; דּוּגְמָא: ״אוֹ עָשַׁק אֶת עֲמִיתוֹ״ (ויקרא ה:כא). וְאִם תֹּאמַר: מַה שֶּׁלֹּא עֲשָׁקוּם חוֹמְסֵי דְרָכִים וּשְׁאָר הָאֲרָצוֹת שֶׁעָבְרוּ אֵלּוּ בְּתוֹכָן, לְפִי שֶׁלֹּא הִרְגִּישׁוּ בָּם, אֲבָל אִם הָיוּ מַרְגִּישִׁים בָּם הָיוּ עוֹשְׁקִים אוֹתָם, לְכָךְ נֶאֱמַר: **וַיּוֹכַח עֲלֵיהֶם מְלָכִים**. כְּלוֹמַר: וַדַּאי עֲשָׁקוּם, כְּגוֹן פַּרְעֹה לְאַבְרָהָם (בראשית יב:יז) וַאֲבִימֶלֶךְ לְיִצְחָק (בראשית כ:יח) וְלָבָן וּשְׁכֶם לְיַעֲקֹב (בראשית ל-לא; לד) וְאָמַר לָהֶם הַקָּדוֹשׁ בָּרוּךְ הוּא (שוחר טוב קה:ד):
+**לֹא הִנִּיחַ לְאִישׁ לְעָשְׁקָם.** אַף־עַל־פִּי כֵן שֶׁהָלְכוּ מִמָּקוֹם לְמָקוֹם, וּמִנְהָג לְהַזִּיק עוֹבְרֵי דְרָכִים, כְּשֶׁבָּאִין לַמָּלוֹן מוֹצְאִין עֲלֵיהֶן עֲלִילוֹת, אֲבָל אֵלּוּ לֹא הִנִּיחַ הַקָּדוֹשׁ בָּרוּךְ הוּא לְהַזִּיקָם וּלְעָשְׁקָם; דּוּגְמָא: ״אוֹ עָשַׁק אֶת עֲמִיתוֹ״ (ויקרא ה:כא). וְאִם תֹּאמַר: מַה שֶּׁלֹּא עֲשָׁקוּם חוֹמְסֵי דְרָכִים וּשְׁאָר הָאֲרָצוֹת שֶׁעָבְרוּ אֵלּוּ בְּתוֹכָן, לְפִי שֶׁלֹּא הִרְגִּישׁוּ בָּם, אֲבָל אִם הָיוּ מַרְגִּישִׁים בָּם הָיוּ עוֹשְׁקִים אוֹתָם, לְכָךְ נֶאֱמַר: **וַיּוֹכַח עֲלֵיהֶם מְלָכִים.** כְּלוֹמַר: וַדַּאי עֲשָׁקוּם, כְּגוֹן פַּרְעֹה לְאַבְרָהָם (בראשית יב:יז) וַאֲבִימֶלֶךְ לְיִצְחָק (בראשית כ:יח) וְלָבָן וּשְׁכֶם לְיַעֲקֹב (בראשית ל-לא; לד) וְאָמַר לָהֶם הַקָּדוֹשׁ בָּרוּךְ הוּא (שוחר טוב קה:ד):
 
 
 **He let no man oppress them** Although they walked from place to place and it is customary to harm wayfarers, and when they arrive to their inn, they are falsely accused, but these the Holy One, blessed be He, did not let [anyone] hurt them or oppress them. An example is (Lev. 5:21): “or oppressed (עָשַּׁק) his neighbor.” Now if you ask if the reason that the highwaymen and [the people of] the other lands in whose midst they passed did not harm them was that they did not notice them, but if they had noticed them, they would have oppressed them, therefore, it says: “... and He reproved kings on their account,” i.e., they did oppress them, as Pharaoh [did] to Abraham and Abimelech to Isaac, and Laban and Shechem to Jacob, and the Holy One, blessed be He, said to them...
@@ -4390,7 +4390,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/16:26:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/16:26:1)
 
 
-**כִּי כָל אֱלֹהֵי הָעַמִּים אֱלִילִים.** תֹּהוּ (שמואל א יב:כא), מַעֲשֵׂה יְדֵי אָדָם (דברים ד:כח). וְדוּגְמָתוֹ בִּנְבוּאַת חֲבַקּוּק: ״מָה הוֹעִיל פֶּסֶל כִּי פְסָלוֹ יֹצְרוֹ וְגוֹ׳״ עַד ״לַעֲשׂוֹת אֱלִילִים אִלְּמִים״ (חבקוק ב:יח). **וַיהוָה שָׁמַיִם עָשָׂה** – בָּאֱלִילִים כְּתִיב ״לַעֲשׂוֹת״, אֲבָל הַקָּדוֹשׁ בָּרוּךְ הוּא עוֹשֶׂה שָׁמַיִם וָאָרֶץ וְכָל צְבָאָם (בראשית ב:א):
+**כִּי כָל אֱלֹהֵי הָעַמִּים אֱלִילִים.** תֹּהוּ (שמואל א יב:כא), מַעֲשֵׂה יְדֵי אָדָם (דברים ד:כח). וְדוּגְמָתוֹ בִּנְבוּאַת חֲבַקּוּק: ״מָה הוֹעִיל פֶּסֶל כִּי פְסָלוֹ יֹצְרוֹ וְגוֹ׳״ עַד ״לַעֲשׂוֹת אֱלִילִים אִלְּמִים״ (חבקוק ב:יח). **וַה׳ שָׁמַיִם עָשָׂה** – בָּאֱלִילִים כְּתִיב ״לַעֲשׂוֹת״, אֲבָל הַקָּדוֹשׁ בָּרוּךְ הוּא עוֹשֶׂה שָׁמַיִם וָאָרֶץ וְכָל צְבָאָם (בראשית ב:א):
 
 
 **For all the gods of the peoples are idols** vanity, the handiwork of man; and a similar example is in the prophecy of Habakkuk (2:18): “What did a graven image avail that its maker has graven it... etc.” until “to make dumb idols?” **but the Lord made the heavens** Regarding the idols it is written: “to make,” but the Holy One, blessed be he, is the Maker of the heavens and the earth and all their host.
@@ -4443,7 +4443,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/16:29:2](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/16:29:2)
 
 
-**הִשְׁתַּחֲווּ לַה׳ בְּהַדְרַת קֹדֶשׁ.** כִּי כֵן אָמַרְנוּ **הוֹד וְהָדָר לְפָנָיו**:
+**הִשְׁתַּחֲווּ לַה׳ בְּהַדְרַת קֹדֶשׁ.** כִּי כֵן אָמַרְנוּ ״הוֹד וְהָדָר לְפָנָיו״:
 
 
 **bow down to the Lord in the beauty of holiness** for so we said, “There is beauty and majesty before Him.”
@@ -4577,7 +4577,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/16:39:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/16:39:1)
 
 
-**וְאֶת צָדוֹק הַכֹּהֵן.** הָיָה רֹאשׁ, וְאֶחָיו הַכֹּהֲנִים עִמּוֹ; נָתַן דָּוִד **לִפְנֵי מִשְׁכַּן ה׳ אֲשֶׁר בְּגִבְעוֹן**, וְלֹא עָזַב שׁוּם כֹּהֵן עִם הָאָרוֹן, כִּי לֹא הֻצְרְכוּ לַעֲבֹד עֲבוֹדַת זֶבַח לְקָרְבָּן:
+**וְאֵת צָדוֹק הַכֹּהֵן.** הָיָה רֹאשׁ, וְאֶחָיו הַכֹּהֲנִים עִמּוֹ; נָתַן דָּוִד **לִפְנֵי מִשְׁכַּן ה׳ אֲשֶׁר בְּגִבְעוֹן**, וְלֹא עָזַב שׁוּם כֹּהֵן עִם הָאָרוֹן, כִּי לֹא הֻצְרְכוּ לַעֲבֹד עֲבוֹדַת זֶבַח לְקָרְבָּן:
 
 
 **And Zadok the priest** was the head, and his brethren, the priests with him, David stationed before the Tabernacle of the Lord, which was in Gibeon, and he did not leave any priest with the Ark, because they did not have to perform the sacrificial service
@@ -4647,7 +4647,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/17:3:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/17:3:1)
 
 
-**וַיְהִי בַּלַּיְלָה הַהוּא וְגוֹ׳.** מְפֹרָשׁ בַּמִּדְרָשׁ (מדרש שמואל כו:א): אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא לְנָתָן הַנָּבִיא, הָאָדָם הַזֶּה שֶׁאֲנִי שׁוֹלֵחַ אֵלָיו נַדְרָן הוּא, צֵא וֶאֱמוֹר לוֹ עַד שֶׁלֹּא יִשָּׁבַע לִבְנוֹתוֹ: **לֹא אַתָּה תִבְנֶה הַבַּיִת לְשִׁבְתִּי**. דָּבָר אַחֵר (מדרש שמואל כו:א): הָאָדָם שֶׁאֲנִי שׁוֹלְחֲךָ אֶצְלוֹ זָרִיז הוּא, לֵךְ אֱמוֹר לוֹ קוֹדֶם שֶׁיִּשְׂכּוֹר פּוֹעֲלִים:
+**וַיְהִי בַּלַּיְלָה הַהוּא וְגוֹ׳.** מְפֹרָשׁ בַּמִּדְרָשׁ (מדרש שמואל כו:א): אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא לְנָתָן הַנָּבִיא, הָאָדָם הַזֶּה שֶׁאֲנִי שׁוֹלֵחַ אֵלָיו נַדְרָן הוּא, צֵא וֶאֱמוֹר לוֹ עַד שֶׁלֹּא יִשָּׁבַע לִבְנוֹתוֹ: **לֹא אַתָּה תִבְנֶה הַבַּיִת לְשִׁבְתִּי.** דָּבָר אַחֵר (מדרש שמואל כו:א): הָאָדָם שֶׁאֲנִי שׁוֹלְחֲךָ אֶצְלוֹ זָרִיז הוּא, לֵךְ אֱמוֹר לוֹ קוֹדֶם שֶׁיִּשְׂכּוֹר פּוֹעֲלִים:
 
 
 **And it came to pass on that same night, etc.** It is explained in the Midrash (*Midrash Sam.* 26: 1): “The Holy One, blessed be He, said to Nathan: This man to whom I am sending you is a vower. Go forth and tell him before he swears to build it: You shall not build Me the house for My dwelling.” Another explanation: The man to whom I am sending you is zealous. Go, tell him before he hires workers.
@@ -5335,7 +5335,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/19:4:2](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/19:4:2)
 
 
-**בַּחֲצִי עַד הַמִּפְשָׂעָה.** עַד עֶרְוָתָן, פָּנִים וְאָחוֹר; וּבִשְׁמוּאֵל (שמואל ב י:ד) כְּתִיב ״שְׁתוֹתֵיהֶם״ עַד עֶרְוָתָן, כְּמוֹ ״חֲשׂוּפֵי שֵׁת עֶרְוַת מִצְרָיִם״ (ישעיהו כ:ד):
+**בַּחֵצִי עַד הַמִּפְשָׂעָה.** עַד עֶרְוָתָן, פָּנִים וְאָחוֹר; וּבִשְׁמוּאֵל (שמואל ב י:ד) כְּתִיב ״שְׁתוֹתֵיהֶם״ עַד עֶרְוָתָן, כְּמוֹ ״חֲשׂוּפֵי שֵׁת עֶרְוַת מִצְרָיִם״ (ישעיהו כ:ד):
 
 
 **in half up to their groin** - Heb. הַמִפְשָׂעָה, up to their private parts, both front and back, and in Samuel (II 10:4): “שְׁתוֹתֵיהֶם, their private parts,” like (Isa. 20:4): “... with their private parts (שֵׁת) bared, the shame of Egypt.”
@@ -5391,7 +5391,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/19:16:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/19:16:1)
 
 
-**וְשׁוֹפַךְ שַׂר צָבָא.** וּבִשְׁמוּאֵל כְּתִיב ״וְשׁוֹבַךְ שַׂר צָבָא״ (שמואל ב י:טז). פֵּרְשׁוּ רַבּוֹתֵינוּ בְּסוֹטָה (מב:): ״שׁוֹבַךְ״ – שֶׁהוּא גָּבוֹהַּ כְּשׁוֹבָךְ, שׁוֹפֵךְ – שֶׁהָיָה שׁוֹפֵךְ דָּמִים כַּמַּיִם:
+**וְשׁוֹפַךְ שַׂר צְבָא.** וּבִשְׁמוּאֵל כְּתִיב ״וְשׁוֹבַךְ שַׂר צָבָא״ (שמואל ב י:טז). פֵּרְשׁוּ רַבּוֹתֵינוּ בְּסוֹטָה (מב:): ״שׁוֹבַךְ״ – שֶׁהוּא גָּבוֹהַּ כְּשׁוֹבָךְ, שׁוֹפֵךְ – שֶׁהָיָה שׁוֹפֵךְ דָּמִים כַּמַּיִם:
 
 
 **and Shophach the general** And in Samuel (ad loc.) it is written: “and Shobach the general.” Our Rabbis explained in Sotah (42b): “Shobach, because he was as tall as a dovecote (שׁוֹבָךְ). Shophach, because he would shed (שׁוֹפֵךְ) blood like water.”
@@ -5483,7 +5483,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/20:5:2](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/20:5:2)
 
 
-**אֶת לַחְמִי אֲחִי גָּלְיַת הַגִּתִּי וְעֵץ חֲנִיתוֹ כִּמְנוֹר אֹרְגִים.** כְּאוֹתוֹ עֵץ עָגוֹל שֶׁכּוֹרְכִין בּוֹ הַבֶּגֶד בִּשְׁעַת הָאֲרִיגָה, וְיוֹנָתָן תִּרְגֵּם אוֹתוֹ פָּסוּק בִּשְׁמוּאֵל: ״וְקָטַל דָּוִד בֶּן יִשַׁי מְחֵי פָּרוֹכֶת בֵּית מַקְדְּשָׁא דְּמִבֵּית לֶחֶם״, וּפִתְרוֹן **יָעִיר** – כְּמוֹ יַעַר הַלְּבָנוֹן, מִדָּה כְּנֶגֶד מִדָּה (נדרים לב.): יָבֹא דָּוִד שֶׁאִמּוֹ אוֹרֶגֶת פָּרוֹכֶת לְבֵית הַמִּקְדָּשׁ בִּמְנוֹר אוֹרְגִים, וְיַהֲרֹג אֶת גָּלְיַת שֶׁעֵץ חֲנִיתוֹ כִּמְנוֹר אוֹרְגִים. וְלָמָּה קְרָאוֹ אֶלְחָנָן? שֶׁחֲנָנוֹ ה׳. וְנִרְאֶה שֶׁגָּלְיַת הַגִּתִּי אֵינוֹ ״גָּלְיַת הַפְּלִשְׁתִּי״ (שמואל א יז:כג), אַחַת – שֶׁשָּׁם קוֹרְאוֹ ״גָּלְיַת הַפְּלִשְׁתִּי״ וְאַחַת – שֶׁהֲרֵי לְמַעְלָה כְּתִיב **אָז הִכָּה סִבְּכַי הַחֻשָׁתִי אֶת סִפִּי מִילִדֵי הָרְפָאִים**, וְגַם לְמַטָּה כָּתוּב כֵּן **וְגַם הוּא נוֹלַד לְהָרָפָא** – מִכְּלָל שֶׁלֹּא מַזְכִּיר אַף בַּאֲחִי גָּלְיַת הַגִּתִּי מִילִידֵי הָרָפָה, שֶׁאֵינוֹ בְּנָהּ:
+**אֶת לַחְמִי אֲחִי גׇּלְיָת הַגִּתִּי וְעֵץ חֲנִיתוֹ כִּמְנוֹר אֹרְגִים.** כְּאוֹתוֹ עֵץ עָגוֹל שֶׁכּוֹרְכִין בּוֹ הַבֶּגֶד בִּשְׁעַת הָאֲרִיגָה, וְיוֹנָתָן תִּרְגֵּם אוֹתוֹ פָּסוּק בִּשְׁמוּאֵל: ״וְקָטַל דָּוִד בֶּן יִשַׁי מְחֵי פָּרוֹכֶת בֵּית מַקְדְּשָׁא דְּמִבֵּית לֶחֶם״, וּפִתְרוֹן **יָעִיר** – כְּמוֹ יַעַר הַלְּבָנוֹן, מִדָּה כְּנֶגֶד מִדָּה (נדרים לב.): יָבֹא דָּוִד שֶׁאִמּוֹ אוֹרֶגֶת פָּרוֹכֶת לְבֵית הַמִּקְדָּשׁ בִּמְנוֹר אוֹרְגִים, וְיַהֲרֹג אֶת גָּלְיַת שֶׁעֵץ חֲנִיתוֹ כִּמְנוֹר אוֹרְגִים. וְלָמָּה קְרָאוֹ אֶלְחָנָן? שֶׁחֲנָנוֹ ה׳. וְנִרְאֶה שֶׁגָּלְיַת הַגִּתִּי אֵינוֹ ״גָּלְיַת הַפְּלִשְׁתִּי״ (שמואל א יז:כג), אַחַת – שֶׁשָּׁם קוֹרְאוֹ ״גָּלְיַת הַפְּלִשְׁתִּי״ וְאַחַת – שֶׁהֲרֵי לְמַעְלָה כְּתִיב **אָז הִכָּה סִבְּכַי הַחֻשָׁתִי אֶת סִפִּי מִילִדֵי הָרְפָאִים**, וְגַם לְמַטָּה כָּתוּב כֵּן **וְגַם הוּא נוֹלַד לְהָרָפָא** – מִכְּלָל שֶׁלֹּא מַזְכִּיר אַף בַּאֲחִי גָּלְיַת הַגִּתִּי מִילִידֵי הָרָפָה, שֶׁאֵינוֹ בְּנָהּ:
 
 
 **Lahmi, the brother of Goliath the Gittite, and the staff of his spear was as [thick as] a weavers’ beam** like the round stick about which they wrap the cloth while weaving. Jonathan translated that verse in Samuel: And David the son of Jesse, the weaver of the dividing curtain of the Temple, slew. He interprets Jair (יָעִיר) as being similar to the Lebanon forest (יַעַר). He was paid in kind: Let David, whose mother wove the dividing curtain for the Temple with a weavers’ beam, slay Goliath, whose spear staff was as thick as a weavers’ beam. Now why does Scripture call him Elhanan? Because God favored him (ה' חֲנָנוֹ). I believe that Goliath the Gittite is not identical with Goliath the Philistine. One reason is that there [I Sam. 17:23] he called him Goliath the Philistine. Another reason is that above it is written: “... then Sibbecai the Hushathite smote Sippai of the sons of Rapha,” and also below it is written: “and he too was born to Raphah.” Since he does not mention that Goliath the Gittite was a son of Rapha, it proves that he [Goliath the Gittite] was not her son
@@ -5550,7 +5550,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/21:5:2](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/21:5:2)
 
 
-**וַיְהִי כָל יִשְׂרָאֵל אֶלֶף אֲלָפִים וּמֵאָה אֶלֶף וִיהוּדָה אַרְבַּע מֵאוֹת וְשִׁבְעִים אֶלֶף.** וּבִשְׁמוּאֵל (שמואל ב כד:ט) כְּתִיב ״שְׁמֹנָה מֵאוֹת אֶלֶף וְאִישׁ יְהוּדָה ה׳ מֵאוֹת אֶלֶף״, דְּמַשְׁמַע דְּלֹא הָיוּ מִיִּשְׂרָאֵל כָּל כָּךְ כַּאֲשֶׁר נֶאֱמַר כָּאן. אֶלָּא לְפִי שֶׁהַקֶּצֶף הָיָה מֵאֵת הַקָּדוֹשׁ בָּרוּךְ הוּא עַל דָּוִד, לֹא כָּתַב שָׁם מִסְפַּר כֻּלָּם שֶׁמָּנָה. וְאַף יוֹאָב לֹא מָנָה כָּל הַשְּׁבָטִים, כְּמוֹ שֶׁכָּתוּב **כִּי נִתְעַב דְּבַר הַמֶּלֶךְ אֶת יוֹאָב**. אֲבָל כָּאן, מִשּׁוּם כְּבוֹדוֹ שֶׁל דָּוִד מַזְכִּיר כָּאן מִסְפָּר וְחֶשְׁבּוֹן שֶׁמָּנָה, כִּי זֶהוּ כְּבוֹדוֹ, שֶׁחַיִל כָּבֵד כָּזֶה הָיָה בְּשִׁבְטוֹ. וְכֵן מוֹכִיחַ כְּמוֹ שֶׁפֵּרַשְׁתִּי, שֶׁאֲפִלּוּ אוֹתוֹ קְצָת מִיִּשְׂרָאֵל שֶׁמָּנָה, לֹא כָּתַב כָּל מִסְפָּרָם בִּשְׁמוּאֵל, אֲבָל כָּאן כָּתַב כָּל אוֹתוֹ מִסְפָּר שֶׁמָּנָה, דְּהָא כְּתִיב כָּאן וַיְהִי כָל יִשְׂרָאֵל, וּבִשְׁמוּאֵל לֹא כְּתִיב כָּל. וּבְפֵרוּשׁ מוֹכִיחַ כָּאן לְפָנֵינוּ, כְּדִכְתִיב ״יוֹאָב בֶּן צְרוּיָה הֵחֵל לִמְנוֹת וְלֹא כִלָּה וַיְהִי בָזֹאת קֶצֶף עַל יִשְׂרָאֵל וְלֹא עָלָה הַמִּסְפָּר בְּמִסְפַּר דִּבְרֵי הַיָּמִים לְמֶלֶךְ דָּוִד״ (דברי הימים א כז:כד):
+**וַיְהִי כָל יִשְׂרָאֵל אֶלֶף אֲלָפִים וּמֵאָה אֶלֶף וִיהוּדָה אַרְבַּע מֵאוֹת וְשִׁבְעִים אֶלֶף.** וּבִשְׁמוּאֵל (שמואל ב כד:ט) כְּתִיב ״שְׁמֹנָה מֵאוֹת אֶלֶף וְאִישׁ יְהוּדָה ה׳ מֵאוֹת אֶלֶף״, דְּמַשְׁמַע דְּלֹא הָיוּ מִיִּשְׂרָאֵל כָּל כָּךְ כַּאֲשֶׁר נֶאֱמַר כָּאן. אֶלָּא לְפִי שֶׁהַקֶּצֶף הָיָה מֵאֵת הַקָּדוֹשׁ בָּרוּךְ הוּא עַל דָּוִד, לֹא כָּתַב שָׁם מִסְפַּר כֻּלָּם שֶׁמָּנָה. וְאַף יוֹאָב לֹא מָנָה כָּל הַשְּׁבָטִים, כְּמוֹ שֶׁכָּתוּב **כִּי נִתְעַב דְּבַר הַמֶּלֶךְ אֶת יוֹאָב.** אֲבָל כָּאן, מִשּׁוּם כְּבוֹדוֹ שֶׁל דָּוִד מַזְכִּיר כָּאן מִסְפָּר וְחֶשְׁבּוֹן שֶׁמָּנָה, כִּי זֶהוּ כְּבוֹדוֹ, שֶׁחַיִל כָּבֵד כָּזֶה הָיָה בְּשִׁבְטוֹ. וְכֵן מוֹכִיחַ כְּמוֹ שֶׁפֵּרַשְׁתִּי, שֶׁאֲפִלּוּ אוֹתוֹ קְצָת מִיִּשְׂרָאֵל שֶׁמָּנָה, לֹא כָּתַב כָּל מִסְפָּרָם בִּשְׁמוּאֵל, אֲבָל כָּאן כָּתַב כָּל אוֹתוֹ מִסְפָּר שֶׁמָּנָה, דְּהָא כְּתִיב כָּאן וַיְהִי כָל יִשְׂרָאֵל, וּבִשְׁמוּאֵל לֹא כְּתִיב כָּל. וּבְפֵרוּשׁ מוֹכִיחַ כָּאן לְפָנֵינוּ, כְּדִכְתִיב ״יוֹאָב בֶּן צְרוּיָה הֵחֵל לִמְנוֹת וְלֹא כִלָּה וַיְהִי בָזֹאת קֶצֶף עַל יִשְׂרָאֵל וְלֹא עָלָה הַמִּסְפָּר בְּמִסְפַּר דִּבְרֵי הַיָּמִים לְמֶלֶךְ דָּוִד״ (דברי הימים א כז:כד):
 
 
 **and all Israel were a thousand thousand and a hundred thousand, etc. and Judah was four hundred seventy thousand** But in Samuel (II 24:9) it is written: “eight hundred thousand, etc., and the men of Judah were five hundred thousand men,” which apparently means that there were not so many of Israel as are stated here. The truth is that because the anger of the Holy One, blessed be He, was upon David, Scripture did not write there the number of all of those whom he had counted. Neither did Joab count all the tribes, as it is written (verse 6): “... because the word of the king was repugnant to Joab.” But here, because of David’s honor, he does mention the number and the reckoning that he counted, because it is his honor that such a massive army was in his tribe. And the following is proof to what I explained: that even that small part of Israel that he counted, he did not write their entire number in Samuel, but here, [the Chronicler] did write the entire number that he counted, because it is written here: “and all Israel were,” whereas in Samuel it is not written: “all.” And it is explicitly proven here before us, as it is written: (below 27:24): “Joab the son of Zeruiah began to count but did not finish, and with this there was anger upon Israel, and the number did not reach the number of the chronicles of King David.”
@@ -5793,7 +5793,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/22:2:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/22:2:1)
 
 
-**לִכְנוֹס אֶת הַגֵּרִים.** גֵּרִים שֶׁנִּתְגַּיְּרוּ, שֶׁלֹּא רָצָה לְהַעֲבִיד בְּיִשְׂרָאֵל עֲבוֹדַת פֶּרֶךְ; וְכֵן מָצִינוּ בִּשְׁלֹמֹה לְמַטָּה ״וַיִּסְפֹּר שְׁלֹמֹה וְגוֹ׳ וַיַּעַשׂ מֵהֶם שִׁבְעִים אֶלֶף״ נוֹשֵׂא ״סַבָּל וְגוֹ׳״ (דה״ב ב:טז-יז), וְעוֹד כְּתִיב ״וְכָל הָעָם הַנּוֹתָר מִן הַחִתִּי וְגוֹ׳״ (דה״ב ח:ז-ח) – שְׁנֵי פְסוּקִים, וְעוֹד כְּתִיב ״וּמִן בְּנֵי יִשְׂרָאֵל... לֹא נָתַן שְׁלֹמֹה לַעֲבָדִים וְגוֹ׳״ (דה״ב ח:ט):
+**לִכְנוֹס אֶת הַגֵּרִים.** גֵּרִים שֶׁנִּתְגַּיְּרוּ, שֶׁלֹּא רָצָה לְהַעֲבִיד בְּיִשְׂרָאֵל עֲבוֹדַת פֶּרֶךְ; וְכֵן מָצִינוּ בִּשְׁלֹמֹה לְמַטָּה ״וַיִּסְפֹּר שְׁלֹמֹה וְגוֹ׳ וַיַּעַשׂ מֵהֶם שִׁבְעִים אֶלֶף״ נוֹשֵׂא ״סַבָּל וְגוֹ׳״ (דה״ב ב:טז-יז), וְעוֹד כְּתִיב ״וְכָל הָעָם הַנּוֹתָר מִן הַחִתִּי וְגוֹ׳״ (דה״ב ח:ז-ח) – שְׁנֵי פְסוּקִים, וְעוֹד כְּתִיב ״וּמִן בְּנֵי יִשְׂרָאֵל… לֹא נָתַן שְׁלֹמֹה לַעֲבָדִים וְגוֹ׳״ (דה״ב ח:ט):
 
 
 **to gather the strangers** who had converted, because he did not wish to make Israelites perform rigorous labor. And so we find with Solomon below (II Chron. 2:1): “And Solomon counted, etc.”; (ibid. verse 17): “And he made of them seventy thousand who bear burdens.” And it is written further (ibid. 8:7): “And all the people remaining from the Hittites, etc., who were not of Israel, etc.”; (ibid. verse 9): “And of the Children of Israel, whom Solomon did not make slaves, etc.”
@@ -5913,7 +5913,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/23:31:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/23:31:1)
 
 
-**וּלְכָל הַעֲלוֹת עֹלוֹת לַה׳ לַשַּׁבָּתוֹת לֶחֳדָשִׁים.** פִּתְרוֹן: הֵם יִהְיוּ מְמֻנִּים עַל הַלְּשָׁכוֹת וְגַם עַל לִשְׁכַּת בֵּית הַטְּלָאִים שֶׁהַקָּרְבָּנוֹת שָׁם (משנה תמיד ג, ג), וְהֵם יָבִיאוּ אֶל הַכֹּהֲנִים תָּמִיד בְּכָל יוֹם בְּמִסְפָּר מַה שֶּׁצְּרִיכִים בְּכָל יוֹם, בֵּין בְּחוֹל בֵּין בַּשַּׁבָּתוֹת וּבֶחֳדָשִׁים וּבַמּוֹעֲדִים שֶׁמּוֹסִיפִים עַל הַתָּמִיד; כָּל אֵלֶּה יָבִיאוּ **בְּמִסְפָּר כְּמִשְׁפָּט**. וְגַם מְסַיְּעִים לַכֹּהֲנִים לְהַפְשִׁיט הַזֶּבַח, וְכֵן מָצִינוּ בְּחִזְקִיָּהוּ ״רַק הַכֹּהֲנִים הָיוּ לִמְעָט וְלֹא יָכְלוּ לְהַפְשִׁיט אֶת כָּל הָעוֹלוֹת וַיְחַזְּקוּם אֲחֵיהֶם הַלְוִיִּם וְגוֹ׳״ (דברי הימים ב כט:לד):
+**וּלְכֹל הַעֲלוֹת עֹלוֹת לַה׳ לַשַּׁבָּתוֹת לֶחֳדָשִׁים.** פִּתְרוֹן: הֵם יִהְיוּ מְמֻנִּים עַל הַלְּשָׁכוֹת וְגַם עַל לִשְׁכַּת בֵּית הַטְּלָאִים שֶׁהַקָּרְבָּנוֹת שָׁם (משנה תמיד ג, ג), וְהֵם יָבִיאוּ אֶל הַכֹּהֲנִים תָּמִיד בְּכָל יוֹם בְּמִסְפָּר מַה שֶּׁצְּרִיכִים בְּכָל יוֹם, בֵּין בְּחוֹל בֵּין בַּשַּׁבָּתוֹת וּבֶחֳדָשִׁים וּבַמּוֹעֲדִים שֶׁמּוֹסִיפִים עַל הַתָּמִיד; כָּל אֵלֶּה יָבִיאוּ **בְּמִסְפָּר כְּמִשְׁפָּט.** וְגַם מְסַיְּעִים לַכֹּהֲנִים לְהַפְשִׁיט הַזֶּבַח, וְכֵן מָצִינוּ בְּחִזְקִיָּהוּ ״רַק הַכֹּהֲנִים הָיוּ לִמְעָט וְלֹא יָכְלוּ לְהַפְשִׁיט אֶת כָּל הָעוֹלוֹת וַיְחַזְּקוּם אֲחֵיהֶם הַלְוִיִּם וְגוֹ׳״ (דברי הימים ב כט:לד):
 
 
 **And for every offering up of burnt offerings to the Lord on Sabbaths, on New Moons** The meaning is: They will be appointed over the chambers and also over the chamber of the house of the lambs, where the sacrificial animals are kept, and they will bring [them] to the priests constantly every day, according to the number that is required for each day, whether on weekdays, whether on Sabbaths, and on New Moons and festivals, when additional sacrifices are offered up with the daily offerings - all these they will bring in number according to the ordinance, and they will also assist the priests in flaying the sacrifice. And so we find with Hezekiah (II Chron. 29:34): “Only the priests were few, and they could not flay all the burnt offerings; so their brethren the Levites strengthened them, etc.”
@@ -5972,7 +5972,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/24:4:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/24:4:1)
 
 
-**וַיְּחַלְּקוּם לִבְנֵי אֶלְעָזָר רָאשִׁים לְבֵית אָבוֹת שִׁשָּׁה עָשָׂר.** מִתְּחִלָּה בְּמִשְׁכַּן שִׁילֹה לֹא הָיוּ כִּי אִם שֵׁשׁ עֶשְׂרֵה מִשְׁמָרוֹת, שְׁמֹנֶה מֵאֶלְעָזָר וּשְׁמֹנֶה מֵאִיתָמָר, כַּמְפֹרָשׁ בְּמַסֶּכֶת תַּעֲנִית (כז.); וּכְשֶׁרָאָה דָוִד שֶׁהָיוּ **רָאשֵׁי** הַגְּבוּרִים לְאֶלְעָזָר רַבִּים, חִלְּקָם לְכָל מִשְׁמָר וּמִשְׁמָר שֶׁל אֶלְעָזָר לִשְׁנַיִם, וְהֶעֱמִידָם עַל שֵׁשׁ עֶשְׂרֵה מִשְׁמָרוֹת, וּמִשְׁמֶרֶת בְּנֵי אִיתָמָר הֶעֱמִיד עַל מַעֲמַד מִשְׁמָר כְּבָרִאשׁוֹנָה עַל שְׁמֹנֶה מִשְׁמָרוֹת. וְכֵן מוֹכִיחַ בְּסָמוּךְ: **בֵּית אָב אֶחָד אָחֻז לְאֶלְעָזָר וְאֶחָד אָחֻז לְאִיתָמָר** – כְּלוֹמַר: כְּאָחוּז לְמַעֲמָד לְמִשְׁמֶרֶת שֶׁבַּמִּשְׁכָּן כְּמוֹ כֵן הֶעֱמִידָן דָּוִד עַתָּה בְּבֵית הַמִּקְדָּשׁ:
+**וַיַּחְלְקוּם לִבְנֵי אֶלְעָזָר רָאשִׁים לְבֵית אָבוֹת שִׁשָּׁה עָשָׂר.** מִתְּחִלָּה בְּמִשְׁכַּן שִׁילֹה לֹא הָיוּ כִּי אִם שֵׁשׁ עֶשְׂרֵה מִשְׁמָרוֹת, שְׁמֹנֶה מֵאֶלְעָזָר וּשְׁמֹנֶה מֵאִיתָמָר, כַּמְפֹרָשׁ בְּמַסֶּכֶת תַּעֲנִית (כז.); וּכְשֶׁרָאָה דָוִד שֶׁהָיוּ **רָאשֵׁי** הַגְּבוּרִים לְאֶלְעָזָר רַבִּים, חִלְּקָם לְכָל מִשְׁמָר וּמִשְׁמָר שֶׁל אֶלְעָזָר לִשְׁנַיִם, וְהֶעֱמִידָם עַל שֵׁשׁ עֶשְׂרֵה מִשְׁמָרוֹת, וּמִשְׁמֶרֶת בְּנֵי אִיתָמָר הֶעֱמִיד עַל מַעֲמַד מִשְׁמָר כְּבָרִאשׁוֹנָה עַל שְׁמֹנֶה מִשְׁמָרוֹת. וְכֵן מוֹכִיחַ בְּסָמוּךְ: **בֵּית אָב אֶחָד אָחֻז לְאֶלְעָזָר וְאֶחָד אָחֻז לְאִיתָמָר** – כְּלוֹמַר: כְּאָחוּז לְמַעֲמָד לְמִשְׁמֶרֶת שֶׁבַּמִּשְׁכָּן כְּמוֹ כֵן הֶעֱמִידָן דָּוִד עַתָּה בְּבֵית הַמִּקְדָּשׁ:
 
 
 **and thus they were divided: of the sons of Eleazar there were sixteen heads of the fathers’ houses** Originally, in the Tabernacle of Shiloh, there were no more than sixteen watches: eight from Eleazar and eight from Ithamar, as is delineated in Tractate *Taanith* (27), but when David saw that the men of Eleazar were many, he divided each watch of Eleazar into two and made them sixteen watches, but the watch of the sons of Ithamar he left as the watches had originally been, viz. of eight watches. This is proven immediately following (verse 6): “... one father’s house established for Eleazar, and what was established for Ithamar remained established,” i.e., as it was established [that they] be stationed as a watch in the Tabernacle, so did David station them now in the Temple.”
@@ -6053,7 +6053,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/25:1:3](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/25:1:3)
 
 
-**וְהֵימָן וִידוּתוּן הַנְּבָאִים.** כְּשֶׁהָיוּ מְנַגְּנִים בִּכְלֵי שִׁירִים הַלָּלוּ הָיוּ מִתְנַבְּאִים, דֻּגְמָא בֶּאֱלִישָׁע ״קְחוּ לִי מְנַגֵּן״ (מלכים ב ג:טו) וְהָיָה כְּנַגֵּן הַמְנַגֵּן וַתְּהִי עָלָיו יַד ה׳:
+**וְהֵימָן וִידוּתוּן הַנִּבְּאִים.** כְּשֶׁהָיוּ מְנַגְּנִים בִּכְלֵי שִׁירִים הַלָּלוּ הָיוּ מִתְנַבְּאִים, דֻּגְמָא בֶּאֱלִישָׁע ״קְחוּ לִי מְנַגֵּן״ (מלכים ב ג:טו) וְהָיָה כְּנַגֵּן הַמְנַגֵּן וַתְּהִי עָלָיו יַד ה׳:
 
 
 **Heman, and Jeduthun, who prophesied** When they would play these musical instruments, they would prophesy. A similar incident [is told] of Elisha: (II Kings 3:15): “’And now fetch me a musician.’ And when the musician played, the hand of the Lord came upon him.”
@@ -6078,7 +6078,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/25:3:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/25:3:1)
 
 
-**וּמַתִּתְיָהוּ שִׁשָּׁה.** וְלֹא תִמְצָא אֶלָּא חָמֵשׁ! אִשְׁתּוֹ הָיְתָה מְעֻבֶּרֶת אֶת שִׁמְעִי, וְרָאָה בְּרוּחַ הַקֹּדֶשׁ שֶׁגַּם הוּא עָתִיד לִהְיוֹת רֹאשׁ מִשְׁמָרָה, לְפִיכָךְ אָמַר: שִׁשָּׁה; וְזֶהוּ שֶׁנֶּאֱמַר לְפָנֵינוּ **הָעֲשִׂירִי שִׁמְעִי**. זֶהוּ שֶׁיִּסֵּד הַפַּיְּטָן (בקדשת של יוצר דפרשת שקלים) ״רָשׁוּם מִבֶּטֶן לְהִפָּקֵד בְּמִשְׁמֶרֶת הַקֹּדֶשׁ״:
+**וּמַתִּתְיָהוּ שִׁשָּׁה.** וְלֹא תִמְצָא אֶלָּא חָמֵשׁ! אִשְׁתּוֹ הָיְתָה מְעֻבֶּרֶת אֶת שִׁמְעִי, וְרָאָה בְּרוּחַ הַקֹּדֶשׁ שֶׁגַּם הוּא עָתִיד לִהְיוֹת רֹאשׁ מִשְׁמָרָה, לְפִיכָךְ אָמַר: שִׁשָּׁה; וְזֶהוּ שֶׁנֶּאֱמַר לְפָנֵינוּ **הָעֲשִׂירִי שִׁמְעִי.** זֶהוּ שֶׁיִּסֵּד הַפַּיְּטָן (בקדשת של יוצר דפרשת שקלים) ״רָשׁוּם מִבֶּטֶן לְהִפָּקֵד בְּמִשְׁמֶרֶת הַקֹּדֶשׁ״:
 
 
 **and Mattithiah - six** But you will find only five. [The answer is that] his wife was pregnant with Shimei, and he saw through the holy spirit that he too was destined to be the chief of a watch; therefore he says “six.” And that is what is stated further: (verse 17): “The tenth: Shimei.” This is what the liturgical poet set down (in the Kedushah of Yozer of Parashath Shekalim): “Inscribed from the womb to be counted in the watch of the Sanctuary.”
@@ -6298,7 +6298,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/26:5:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/26:5:1)
 
 
-**כִּי בֵרֲכוֹ אֱלֹהִים.** כְּדַאֲמַר ״וַיְבָרֶךְ ה׳ אֶת בֵּית עוֹבֵד אֱדוֹם וְגוֹ׳״ (דברי הימים א יג:יד):
+**כִּי בֵרְכוֹ אֱלֹהִים.** כְּדַאֲמַר ״וַיְבָרֶךְ ה׳ אֶת בֵּית עוֹבֵד אֱדוֹם וְגוֹ׳״ (דברי הימים א יג:יד):
 
 
 **for God had blessed him** as is stated above (13:14): “... and the Lord blessed the house of Obed- Edom, etc.”
@@ -6583,7 +6583,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/27:5:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/27:5:1)
 
 
-**שַׂר הַצָּבָא הַשְּׁלִישִׁי.** מִשּׁוּם כְּבוֹד **בְּנָיָהוּ** קוֹרֵהוּ שַׂר הַצָּבָא יוֹתֵר מֵהַשְּׁאָר, לְבַד מִ**יָּשְׁבְעָם** שֶׁהָיָה מִבְּנֵי **פֶּרֶץ**, שֶׁקּוֹרֵהוּ כְּמוֹ כֵן רֹאשׁ, דִּכְתִיב **הָרֹאשׁ לְכָל שָׂרֵי הַצְּבָאוֹת**, מִפְּנֵי כְּבוֹדוֹ שֶׁל דָּוִד שֶׁהָיָה מִבְּנֵי **פֶּרֶץ** כְּמוֹהוּ:
+**שַׂר הַצָּבָא הַשְּׁלִישִׁי.** מִשּׁוּם כְּבוֹד בְּנָיָהוּ קוֹרֵהוּ שַׂר הַצָּבָא יוֹתֵר מֵהַשְּׁאָר, לְבַד מִיָּשְׁבְעָם שֶׁהָיָה מִבְּנֵי פֶּרֶץ, שֶׁקּוֹרֵהוּ כְּמוֹ כֵן רֹאשׁ, דִּכְתִיב **הָרֹאשׁ לְכָל שָׂרֵי הַצְּבָאוֹת**, מִפְּנֵי כְּבוֹדוֹ שֶׁל דָּוִד שֶׁהָיָה מִבְּנֵי פֶּרֶץ כְּמוֹהוּ:
 
 
 **The leader of the third host** Heb. שַׂר הַצָּבָא הַשְּׁלִישִי. Because of the honor of Benaiah, he calls him the leader of the host more than the others, with the exception of Jashabeam, who was of the sons of Perez, who is likewise called (verse 3): “the chief of all the leaders of the hosts,” because of David’s honor, who was, like him, [one] of the sons of Perez.
@@ -6992,7 +6992,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/28:8:3](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/28:8:3)
 
 
-**שִׁמְרוּ וְדִרְשׁוּ כָּל מִצְוֹת ה׳ אֱלֹהֵיכֶם.** זֶה אָמַר לְכָל יִשְׂרָאֵל יַחַד, אֲבָל לִשְׁלֹמֹה אָמַר לִפְנֵי כָל יִשְׂרָאֵל: **וְעָבְדֵהוּ**:
+**שִׁמְרוּ וְדִרְשׁוּ כָּל מִצְוֺת ה׳ אֱלֹהֵיכֶם.** זֶה אָמַר לְכָל יִשְׂרָאֵל יַחַד, אֲבָל לִשְׁלֹמֹה אָמַר לִפְנֵי כָל יִשְׂרָאֵל: **וְעָבְדֵהוּ**:
 
 
 **observe and seek all the commandments of the Lord your God** He said this to all Israel together, but to Solomon he said it before all Israel [as in the following verse].
@@ -7242,7 +7242,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/28:18:2](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/28:18:2)
 
 
-**וְלִתַבְנִית הַמֶּרְכָּבָה.** הֵם הַכְּרוּבִים שֶׁהַשְּׁכִינָה רוֹכֶבֶת עֲלֵיהֶם:
+**וּלְתַבְנִית הַמֶּרְכָּבָה.** הֵם הַכְּרוּבִים שֶׁהַשְּׁכִינָה רוֹכֶבֶת עֲלֵיהֶם:
 
 
 **and for the pattern of the chariot** They are the cherubim upon which the Shechinah “rides.”
@@ -7581,7 +7581,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/29:10:3](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/29:10:3)
 
 
-**יִשְׂרָאֵל אָבִינוּ.** יִשְׂרָאֵל סָבָא; וְגַם בִּבְרֵאשִׁית רַבָּה (בראשית רבה ע:א) מְפֹרָשׁ כָּךְ; נָדַרְתִּי אֲנִי דָוִד וְעַמִּי כְּמוֹ יִשְׂרָאֵל סָבָא; וְכָל הַנּוֹדֵר צָרִיךְ לְהַזְכִּיר בְּנִדְרוֹ יִשְׂרָאֵל; וְכֵן ״אֲשֶׁר... נָדַר לַאֲבִיר יַעֲקֹב״ (תהלים קלב:ב):
+**יִשְׂרָאֵל אָבִינוּ.** יִשְׂרָאֵל סָבָא; וְגַם בִּבְרֵאשִׁית רַבָּה (בראשית רבה ע:א) מְפֹרָשׁ כָּךְ; נָדַרְתִּי אֲנִי דָוִד וְעַמִּי כְּמוֹ יִשְׂרָאֵל סָבָא; וְכָל הַנּוֹדֵר צָרִיךְ לְהַזְכִּיר בְּנִדְרוֹ יִשְׂרָאֵל; וְכֵן ״אֲשֶׁר… נָדַר לַאֲבִיר יַעֲקֹב״ (תהלים קלב:ב):
 
 
 **Israel our Father** Israel the Patriarch, and also in *Genesis Rabbah* is (70:2) it is explained in that manner. I, David, and my people, have vowed like Israel the Patriarch, and whoever makes a vow must mention Israel in his vow. And likewise (Ps. 132:2): “vowed to the mighty God of Jacob.”
@@ -7606,7 +7606,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/29:11:1](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/29:11:1)
 
 
-**לְךָ ה׳ הַגְּדֻלָּה.** נָתַן שֶׁבַח לְהַקָּדוֹשׁ בָּרוּךְ הוּא שֶׁנָּתַן לוֹ כָּל כָּךְ לְקַבֵּץ מָמוֹן כָּזֶה לְבִנְיַן בֵּית הַמִּקְדָּשׁ; וּכְתִיב לְעֵיל ״הוּא יִבְנֶה... בַּיִת״ (דה״א יז:יב) וְסָמִיךְ לֵיהּ ״ה׳ בַּעֲבוּר עַבְדְּךָ (וּכְלִבְּךָ) עָשִׂיתָ אֶת כָּל הַגְּדֻלָּה״ (דברי הימים א יז:יט). וְגַם לְשׁוֹן גְּדֻלָּה נוֹפֵל עַל בִּנְיַן בֵּית הַמִּקְדָּשׁ, כְּדִכְתִיב ״וְהַבַּיִת לִבְנוֹת לַה׳ לְהַגְדִּיל לְמַעְלָה״ (דרי הימים א כב:ה):
+**לְךָ ה׳ הַגְּדֻלָּה.** נָתַן שֶׁבַח לְהַקָּדוֹשׁ בָּרוּךְ הוּא שֶׁנָּתַן לוֹ כָּל כָּךְ לְקַבֵּץ מָמוֹן כָּזֶה לְבִנְיַן בֵּית הַמִּקְדָּשׁ; וּכְתִיב לְעֵיל ״הוּא יִבְנֶה… בַּיִת״ (דה״א יז:יב) וְסָמִיךְ לֵיהּ ״ה׳ בַּעֲבוּר עַבְדְּךָ (וּכְלִבְּךָ) עָשִׂיתָ אֶת כָּל הַגְּדֻלָּה״ (דברי הימים א יז:יט). וְגַם לְשׁוֹן גְּדֻלָּה נוֹפֵל עַל בִּנְיַן בֵּית הַמִּקְדָּשׁ, כְּדִכְתִיב ״וְהַבַּיִת לִבְנוֹת לַה׳ לְהַגְדִּיל לְמַעְלָה״ (דרי הימים א כב:ה):
 
 
 **Yours, O Lord, are the greatness** He gave praise to the Holy One, blessed be He, that He gave him so much strength to amass such a fortune for the building of the Temple, as it is written (above 17: 12): “He will build Me a House,” and near this [is written]: “O Lord, for the sake of Your servant and according to Your own heart, You have brought about all this greatness.” Now the expression of greatness can also refer to the building of the Temple, as it is written (above 22:5): “... and the House to build for the Lord, to magnify it on high.”
@@ -7930,7 +7930,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/29:20:2](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/29:20:2)
 
 
-**בָּרְכוּ נָא אֶת ה׳ אֱלֹהֵיכֶם.** אֱלֹהֵי אֲבוֹתֵיכֶם לֹא נֶאֱמַר אֶלָּא אֱלֹהֵיכֶם, דְּמַשְׁמַע וְלֹא אֱלֹהֵי אֲבוֹתֵיהֶם, לְכָךְ נֶאֱמַר: בָּרְכוּ אֶת ה׳ אֱלֹהֵיכֶם, וְהֵם אָמְרוּ: אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ, וּלְכָךְ: **וַיְבָרֲכוּ כָל הַקָּהָל לַה׳ אֱלֹהֵי אֲבוֹתֵיהֶם**. מִתּוֹךְ רִצּוּי לָשׁוֹן וּמֵחֲמַת קְדֻשָּׁתוֹ:
+**בָּרְכוּ נָא אֶת ה׳ אֱלֹהֵיכֶם.** אֱלֹהֵי אֲבוֹתֵיכֶם לֹא נֶאֱמַר אֶלָּא אֱלֹהֵיכֶם, דְּמַשְׁמַע וְלֹא אֱלֹהֵי אֲבוֹתֵיהֶם, לְכָךְ נֶאֱמַר: בָּרְכוּ אֶת ה׳ אֱלֹהֵיכֶם, וְהֵם אָמְרוּ: אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ, וּלְכָךְ: **וַיְבָרֲכוּ כָל הַקָּהָל לַה׳ אֱלֹהֵי אֲבוֹתֵיהֶם.** מִתּוֹךְ רִצּוּי לָשׁוֹן וּמֵחֲמַת קְדֻשָּׁתוֹ:
 
 
 **Now bless the Lord your God** It does not say, “The God of your fathers,” but “your God,” which implies: but not the God of your fathers. Therefore, it says, “Now bless the Lord your God,” but they said, “Our God and the God of our fathers,” and therefore, [it says:] “... and the assembly blessed the Lord, the God of their fathers,” out of appeasement to God and because of His holiness.
@@ -8013,7 +8013,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/29:22:4](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/29:22:4)
 
 
-**וְלְצָדוֹק לְכֹהֵן.** לְפִי שֶׁמָּשַׁח אֶבְיָתָר אֶת אֲדֹנִיָּהוּ (מלכים א א:ז):
+**וּלְצָדוֹק לְכֹהֵן.** לְפִי שֶׁמָּשַׁח אֶבְיָתָר אֶת אֲדֹנִיָּהוּ (מלכים א א:ז):
 
 
 **and Zadok as priest** because Ebiathar had anointed Adoniah.
@@ -8160,7 +8160,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/29:30:3](https://torahapp.org/share/book/Rashi%20on%20I%20Chronicles/r/29:30:3)
 
 
-**וְעַל כָּל מַמְלְכוֹת הָאֲרָצוֹת.** שֶׁבָּאוּ עַל יִשְׂרָאֵל; דֻּגְמָא בִּשְׁמוּאֵל: ״וַיַּרְעֵם ה׳ בְּקוֹל גָּדוֹל... עַל פְּלִשְׁתִּים וַיְהֻמֵּם וְגוֹ׳״ (שמואל א ז:י), וְכֵן בִּיהוֹשָׁפָט: ״וּבְעֵת הֵחֵלּוּ בְרִנָּה וּתְהִלָּה נָתַן ה׳ וְגוֹ׳״ (דברי הימים ב כ:כב), וְכֵן בְּסַנְחֵרִיב: ״וַיַּשְׁכִּימוּ בַבֹּקֶר וְהִנֵּה כֻלָּם פְּגָרִים מֵתִים״ (ישעיהו לז:לו):
+**וְעַל כָּל מַמְלְכוֹת הָאֲרָצוֹת.** שֶׁבָּאוּ עַל יִשְׂרָאֵל; דֻּגְמָא בִּשְׁמוּאֵל: ״וַיַּרְעֵם ה׳ בְּקוֹל גָּדוֹל… עַל פְּלִשְׁתִּים וַיְהֻמֵּם וְגוֹ׳״ (שמואל א ז:י), וְכֵן בִּיהוֹשָׁפָט: ״וּבְעֵת הֵחֵלּוּ בְרִנָּה וּתְהִלָּה נָתַן ה׳ וְגוֹ׳״ (דברי הימים ב כ:כב), וְכֵן בְּסַנְחֵרִיב: ״וַיַּשְׁכִּימוּ בַבֹּקֶר וְהִנֵּה כֻלָּם פְּגָרִים מֵתִים״ (ישעיהו לז:לו):
 
 
 **and over all the kingdoms of the lands** who came upon Israel. An example of this is in I Samuel (7:10): “And the Lord thundered with a great noise, etc., upon the Philistines and threw them into a panic, etc.” So it is with Jehoshaphat: (II Chron. 20:22): “And at the time they began with song and praise, the Lord stationed, etc.,” and so with Sannecherib, (Isa. 37:36): “And they arose in the morning, and behold they were all dead corpses.” (“And when the wicked perish, there is song.” Prov. 11:10).

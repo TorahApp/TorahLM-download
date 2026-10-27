@@ -6245,7 +6245,7 @@ And this repentance [*teshuvah*] is called life, because from it are the sources
 [https://torahapp.org/share/book/Zohar/s/Nasso/r/4:11](https://torahapp.org/share/book/Zohar/s/Nasso/r/4:11)
 
 
-וּבְגִין דְּאִיהִי עַל רֵישֵׁיהּ דְּבַּר נָשׁ, אָסִיר לֵיהּ לְבַּר נָשׁ לְמֵיזַל ד' אַמּוֹת בְּגִלוּי דְּרֵישָׁא, דְּאֵם הִיא אִסְתָּלָקַת מֵעַל רֵישֵׁיהּ דְּבַּר נָשׁ, מִיַּד אִסְתְּלָקוּ חַיִּים מִנֵּיהּ.
+וּבְגִין דְּאִיהִי עַל רֵישֵׁיהּ דְּבַּר נָשׁ, אָסִיר לֵיהּ לְבַּר נָשׁ לְמֵיזַל ד' אַמּוֹת בְּגִלוּי דְּרֵישָׁא, דְּאִם הִיא אִסְתָּלָקַת מֵעַל רֵישֵׁיהּ דְּבַּר נָשׁ, מִיַּד אִסְתְּלָקוּ חַיִּים מִנֵּיהּ.
 
 
 And since it is over the heads of people, it is forbidden for people to move four cubits with their head uncovered. For if it would withdraw from above the head of a person, life would immediately withdraw from him.

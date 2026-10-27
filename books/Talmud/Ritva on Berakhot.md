@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Berakhah Meshuleshet, Warsaw, 1863. (Segments: 634, License: Public Domain)
 
-Version (En): [fr] (Segments: 5)
+Version (En): Sefaria Community Translation (Segments: 5)
 
 
 ## Daf 2a

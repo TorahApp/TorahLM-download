@@ -14,9 +14,9 @@ Location: Halakhah
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Aruch HaShulchan, Vilna 1923-29 (Segments: 25265, License: Public Domain)
+Version (He): Arukh HaShulchan, Yoreh De'ah -- Wikisource (Segments: 25265, License: CC-BY-SA)
 
-Version (En): Hupah veKiddushin, trans. by Norman T. Roman. HUC, 1975 (Segments: 275)
+Version (En): Hupah veKiddushin, trans. by Norman T. Roman. HUC, 1975 (Segments: 276)
 
 # Arukh HaShulchan — part 3 of 8
 
@@ -595,6 +595,9 @@ In the Talmud there, it is expounded from the verses in Zachariah that in the ti
 ושארי משקים מותר, ואפילו חומץ של יין. והאיסור הוא בין בשר בהמה ובין בשר עוף. רק מי שהוא חלוש – יכול לאכול בשר עוף אם צריך לזה. ויש מי שמתיר ברוטב של בשר, ואין המנהג כן. ואפילו בשר שהיה אצלינו מקודם ראש חודש – אסור לאכול, ואפילו הנשאר משבת. ולא דמי למה שכתב הרא"ש בפרק קמא דחולין, גבי איברי בשר נחירה שהכניסו ישראל לארץ, דבעיא להו אם מותרין או אסורין; וכתב הרא"ש דנפקא מינה לנודר מדבר, ויש לו מהדבר מקודם הנדר, עיין שם, דזהו בנדר חדש ולא בנדר שמדור דור, והוי כאיסור ישן. ולעניין תערובות בשר בשאר דבר, נראה דלא הלכו בזה אחר נתינת טעם, דלא גזרו בכי האי גוונא. ועוד, דהנודר מיין – מותר בתבשיל שיש בו טעם יין, כמו שכתוב ביורה דעה סימן רטז, עיין שם. ואפילו מה שהיה יין באלו הימים, ונהפך לחומץ – גם כן מותר (ט"ז סעיף קטן ט). ומי שנדר שלא לאכול בשר משבעה עשר בתמוז – מותר לאכול בשבתות, דכל הנודר – אדעתא דמנהגא נודר (מגן אברהם סעיף קטן כז). ויש חולקין, ומצריכין התרה (שם בשם ב"ח). מיהו אם לא אמר בלשון נדר, רק בלשון קבלה – וודאי מותר (שם).
 
 
+And other beverages are permitted, even wine vinegar. And the prohibition applies both to animal meat and to poultry. Only one who is weak may eat poultry if he needs it. And there is one who permits gravy made from meat, but that is not the custom. And even meat that was in our possession before Rosh Chodesh – it is forbidden to eat it, even what remains from Shabbos. And this is not comparable to what the Rosh wrote in the first chapter of Chullin, regarding limbs of slaughtered meat that Israel brought into the Land, where they raised the question of whether they are permitted or forbidden; and the Rosh wrote that this makes a difference for one who vows against something and already has some of that thing from before the vow – see there – for that case involves a new vow, and not a vow that is observed generation after generation, which is treated like a long-standing prohibition. And regarding mixtures of meat in other foods, it appears that in this matter they did not follow the rule of "imparting flavor," for they did not decree in such a case. Furthermore, one who vows against wine is permitted to eat a cooked dish that has the taste of wine in it, as is written in Yoreh De'ah siman 216, see there. And even what was wine during these days, and turned into vinegar – this too is permitted (Taz, se'if katan 9). And one who vowed not to eat meat from the Seventeenth of Tammuz – he is permitted to eat it on Shabbosos, for anyone who makes a vow – makes it with the communal custom in mind (Magen Avraham, O.C. 551:27). And there are those who disagree, and require annulment of the vow (ibid., in the name of the Bach). However, if he did not state it in the language of a vow, but only in the language of acceptance – it is certainly permitted (ibid.).
+
+
 ###### Arukh HaShulchan, Orach Chaim 551:25
 
 [https://torahapp.org/share/book/Arukh%20HaShulchan/s/Orach%20Chaim/r/551:25](https://torahapp.org/share/book/Arukh%20HaShulchan/s/Orach%20Chaim/r/551:25)
@@ -625,9 +628,6 @@ In the Talmud there, it is expounded from the verses in Zachariah that in the ti
 
 
 ודע שיש שמניחים הסיום מסכת על ימים אלו, כדי לאכול בשר. ודבר מכוער הוא, דאף על גב דבמועד קטן (ט א) מוכח דמותר לשייר מקצת הגמר לסיום מצוה, כדאיתא שם בבניין בית המקדש עיין שם, מכל מקום להניח לכתחילה בשביל אכילת בשר – לא נאה ולא יאה. ויש שלומדים לכתחלה מסכת כדי לעשות סיום בימים אלו, ודבר זה אפשר, כדאי לעשות שעל ידי זה יעסוק בתורה. מיהו, אין לבקש על הסיום רק תלמידי חכמים השייכים ללימוד התורה. ואנחנו לא נהגנו בסיום, ואפילו כשיארע סיום בימים אלו – אנו מניחין הסיום עד אחר תשעה באב, כדי שנוכל לשמוח בשמחת הסיום לכבוד התורה כראוי.
-
-
-And know that there are those who place a Volume Completion on these days, so as to eat flesh. And it is a hideous thing, because even though in Mo'ed Qatan (9a) it is clear that it is permitted it measure some for a Mitzvah Feast, as it was there by the building of the Temple op. cit., certainly to have one a priori so as to eat flesh - not good at all. And there are those who learn a volume a priori so as to make a Completion in these days, and this thing is possible, in order that because of this occupation with Torah is produced. Who? - do not ask for Completion except from Sages which are close to Torah learning. And we do not practice with Completion, and even if a Completion occurs in these days - we place the Completion after the Ninth of Av, so that it is possible to celebrate in the Completion celebration according to the deserved glory of Torah.
 
 
 ###### Arukh HaShulchan, Orach Chaim 551:29
@@ -892,6 +892,9 @@ And know that there are those who place a Volume Completion on these days, so as
 
 
 ולפי זה אני אומר דהנה מפרשי השולחן ערוך כתבו דאפילו בדברים הרעים – אין מותר רק לקרות, ולא להעמיק ולפלפל בהן (ט"ז סוף סעיף קטן ב, ומגן אברהם סעיף קטן ה). ובאמת הדבר קשה מאוד לתלמיד חכם הלומד, שבעל כרחו השכל יחשוב קושיא ותירוץ, וכיוצא בזה. אך לפי מה שכתבתי אתי שפיר, דוודאי טעם ומתיקות התורה יש בכל דברי תורה, אף בדברים הרעים, אלא שהצער מבטל השמחה. אם כן, אף אם מחדש איזה חידוש, עם כל זה לא נתבטל הצער של הצרות. (ומה שמצויין במגן אברהם שם, דמהרי"ל כתב כן, אדרבא הב"י הביא בשמו דעל ידי עיון עדיף טפי, שמצטער בעיונו, עיין שם. רק בשם הר"פ כתב דבפירוש איוב אין לעיין, דהוא עמוק טפי, וסברא אסור, עיין שם. ומזה אין ראיה, דאיוב הוא חקירה עמוקה. וגם זה, שום אחד מהפוסקים לא הזכיר זה, וגם בשולחן ערוך פסק להיפוך.)
+
+
+And according to this, I would say the following: the commentators on the Shulchan Aruch wrote that even regarding the "bad things," one is only permitted to read them, but not to delve deeply and engage in dialectical analysis (pilpul) with them (Taz, end of se'if katan 2; Magen Avraham, se'if katan 5). But in truth this is very difficult for a Torah scholar who is studying, since against his will his mind will inevitably think up a question and an answer, and the like. However, according to what I have written, this works out well: certainly the flavor and sweetness of Torah exists in all matters of Torah, even in the bad things, it is only that the distress cancels out the joy. If so, even if he innovates some novel insight, nevertheless the distress over the calamities is not thereby nullified. (As for what is noted in the Magen Avraham there, that the Maharil wrote likewise, on the contrary, the Beit Yosef cited in his name that through deep analysis it is actually preferable, since one becomes distressed through his analysis, see there. It is only in the name of Rabbeinu Peretz that he wrote that one should not analyze the commentary on Iyov, since it is deeper, and reasoning about it is forbidden, see there. But from this there is no proof, since Iyov involves profound inquiry. And furthermore, none of the halachic authorities mentioned this, and indeed the Shulchan Aruch rules the opposite.)
 
 
 ###### Arukh HaShulchan, Orach Chaim 554:5
@@ -26910,7 +26913,7 @@ The root of the matter does not make sense to me, for the truth of the matter is
 [https://torahapp.org/share/book/Arukh%20HaShulchan/s/Yoreh%20De%27ah/r/69:33](https://torahapp.org/share/book/Arukh%20HaShulchan/s/Yoreh%20De%27ah/r/69:33)
 
 
-דבר פשוט הוא דבנמלח מצד אחד שאמרנו אין חילוק בין שהצד הנמלח היה מונח פניו למעלה או למטה שיש שרוצים לחלק בזה ואינו עיקר וגם פשוט הוא שהמלח יהיה נקי מתערובת שארי דברים ואם היה בו תערובת מין אחר אפילו פחות ממחצה אין המליחה מועלת וחייב להדיחו ולמולחו שנית במלח נקי אם לא שהתערובת היה מעט מן המעט דאינו נחשב לכלום דאז בדיעבד כשר אבל בתערובת גמור גם בדיעבד אינו מועיל ודע דאם באמצע המליחה חתך הנתח לשנים צריך להדיח מקום החתך ולמולחו שנית אבל לאחר שיעור מליחה א"צ לחזור ולמלחו מקום החתך אף להסוברים דגם אחר שיעור מליחה יש דם בתוך הבשר כמו שיתבאר [עת"ד סקכ"א שכתב דהדחה צריך כשחתך קודם הדחה בתרייתא ולאח"כ גם הדחה א"צ ע"ש ותמיהני דגם קודם הדחה למה צריך להדיח המקום הזה הא בהכרח שידיח כל החתיכה]:
+דבר פשוט הוא דבנמלח מצד אחד שאמרנו אין חילוק בין שהצד הנמלח היה מונח פניו למעלה או למטה שיש שרוצים לחלק בזה ואינו עיקר וגם פשוט הוא שהמלח יהיה נקי מתערובת שארי דברים ואם היה בו תערובת מין אחר אפילו פחות ממחצה אין המליחה מועלת וחייב להדיחו ולמולחו שנית במלח נקי אם לא שהתערובת היה מעט מן המעט דאינו נחשב לכלום דאז בדיעבד כשר אבל בתערובת גמור גם בדיעבד אינו מועיל ודע דאם באמצע המליחה חתך הנתח לשנים צריך להדיח מקום החתך ולמולחו שנית אבל לאחר שיעור מליחה א"צ לחזור ולמלחו מקום החתך אף להסוברים דגם אחר שיעור מליחה יש דם בתוך הבשר כמו שיתבאר [עח"ד סקכ"א שכתב דהדחה צריך כשחתך קודם הדחה בתרייתא ולאח"כ גם הדחה א"צ ע"ש ותמיהני דגם קודם הדחה למה צריך להדיח המקום הזה הא בהכרח שידיח כל החתיכה]:
 
 
 ###### Arukh HaShulchan, Yoreh De'ah 69:34
@@ -30053,29 +30056,5 @@ The root of the matter does not make sense to me, for the truth of the matter is
 
 
 ביאור דבריו דאינו חולק על כל מה שנתבאר ובודאי מעיקר הדין כן הוא שיש לתלות שלא נמלחו ביחד האמנם מי לא יבין את זאת דכשמביאים אותם בכלי אחד יותר קרוב שנמלחו ביחד ג"כ וכ"כ אחד מהקדמונים בזה"ל אמנם תבא מארה באיש אשר רואה בעיניו דגים טהורים וטמאים מונחים יחד בכלי וקונה אותם לכתחלה ועליהם נאמר ופושעים יכשלו בם [ש"ד ס"י] וכוונתו הגם שאין למחות בידם מטעם שנתבאר אבל הלב יודע שנמלחו ביחד וכ"כ המרדכי [ספא"מ] בשם גדולים דדגים מלוחים המונחים יחד עם הטמאים נהגו בהם איסור ע"ש והטעם כמ"ש ולכן אם יש ששים מן הטהורים נגד הטמאים אין בזה חששא כלל ולא חיישינן שמא נמכרו מן הטמאים ומקודם לא היה שם ששים דכולי האי אין לחוש [עש"ך סק"ח]:
-
-
-###### Arukh HaShulchan, Yoreh De'ah 83:29
-
-[https://torahapp.org/share/book/Arukh%20HaShulchan/s/Yoreh%20De%27ah/r/83:29](https://torahapp.org/share/book/Arukh%20HaShulchan/s/Yoreh%20De%27ah/r/83:29)
-
-
-אמנם בהערינ"ג אין לחוש דודאי לא נמלחו עם שארי דגים טמאים משום דבאים מריחוק מקום ולאלפים ומולחין אותן לבדן ובהן אין לחוש אף כשמונחים יחד עם טמאים על השולחן או בכלי ובודאי לאחר זמן רב הניחו אצלן ואף גם בשארי דגים מלוחים אין לנהוג בחומרא זו רק אם רואים שמונחים עם הטמאים ביחד על השולחן או בכלי אבל כשסוחר מביא דגים מלוחים טהורים אין לנו לחטט ולחוש שמא יש עמהם טמאים ג"כ דאין לנו לחוש לזה אפילו כשיש לברר דאין שום מקום לחשש זה ולהיפך אף גם בהערינ"ג שנתבאר דאין בהם חשש כשמונחים יחד בכלי מ"מ אם רואים שהם שרויים יחד בכלי במי השרייה ויש בזה ציר הרבה ממי השרייה ואותן מי שרייה עזין הן יש לאסור [תה"ד סי' קע"ד וש"ד וגם כוונת הרמ"א כן הוא וז"ש שרויים במים כוונתו במי שרייה אלו וכ"מ בד"מ אות ב' דבמים ממש אין לחוש ואצלנו קורין לזה ליא"ק ועניים טובלים בהם פיתם כי הוא מלוח מאד וגם מטעם דג יש בו]:
-
-
-###### Arukh HaShulchan, Yoreh De'ah 83:30
-
-[https://torahapp.org/share/book/Arukh%20HaShulchan/s/Yoreh%20De%27ah/r/83:30](https://torahapp.org/share/book/Arukh%20HaShulchan/s/Yoreh%20De%27ah/r/83:30)
-
-
-וזהו כשראינו שהערינ"ג אלו שרויים בדגים טמאים אבל כשלא ראינו אין לחוש אע"ג שהערינ"ג אחרים ראינו ששרויים עם טמאים אין לנו לחוש אולי גם אלו כן וכיון שאלו לא ראינו אין לנו להחזיק ריעותא ואין להחמיר בזה וכל דברים אלו שהחמרנו הוא לכתחלה משום דהסברא כן הוא כמו שבארנו ולכן אף שמעיקר הדין יש להקל מ"מ יש להחמיר לכתחלה אבל בדיעבד אם כבר לקח מוקמינן אדינא כמ"ש בסעיף כ"ו ואפילו מונחים יחד ושרויים יחד ואפילו שלא בהערינ"ג ויש להתיר בכל ענין ואמרינן שמא מתחלה לא נמלחו יחד אלא אח"כ נתערבו ואין חוששין לבליעתן זה מזה ודווקא דלית בהו שמנונית הולכין להקל משום דהוי ספק דרבנן אבל כשיש בהו שמנונית הולכין בספקן להחמיר דהוי ספק תורה וסתם דגים מלוחים או סתם דגים שאינם מלוחים [ט"ז סק"ז] לית בהו שמנונית ולכן אם יש ספק אי אית בהו שמנונית הולכין בספיקו להקל משום דרובן לית בהו שמנונית ועוד דהוה ס"ס שמא לא נמלחו עמהם ואת"ל נמלחו שמא אין שמנונית בהם ומותר מן התורה וכיון דמן התורה יש ס"ס מותר בדרבנן כחד ספק [עש"ך סקט"ו ופמ"ג שם]:
-
-
-###### Arukh HaShulchan, Yoreh De'ah 83:31
-
-[https://torahapp.org/share/book/Arukh%20HaShulchan/s/Yoreh%20De%27ah/r/83:31](https://torahapp.org/share/book/Arukh%20HaShulchan/s/Yoreh%20De%27ah/r/83:31)
-
-
-וכל דברים אלו הם כשהדגים לחים ומעורבים אלו באלו אבל דגים מלוחים יבשים כמו טאראנע"ס וצובאקע"ס וכדומה המעורבים טמאים בטהורים והטמאים ג"כ יבשים מותר בכל ענין ואין שום חשש להחמיר אפילו לחוש לחומרא משום דאין כאן שום ראיה שנמלחו ביחד ובודאי נמלח כל אחד בפ"ע שכן דרך דגים אלו שכשמוציאים אותן מן המים קורעין אותן כל אחד בפ"ע ומולחין כל אחד לבדו ותולין אותן ומפרידין זה מזה כדי שתשלוט בהם הרוח והחמה ויתייבשו שם [ש"ך סקט"ז] וכתב דנהגו להחמיר גם בזה לכתחלה אם מונחים ביניהם עכ"ל כלומר דהמון ישראל נהגו גם בזה להחמיר אף שמדינא אין שום מקום לחומרא זו אף לדעת המחמירים דישראל קדושים הם ונהגו להחמיר ולכן במקום שלא נהגו בחומרא זו מותרין לאכול בלי פקפוק כלל [שם סקי"ז]:
 
 

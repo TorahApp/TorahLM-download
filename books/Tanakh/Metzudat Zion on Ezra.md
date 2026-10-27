@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat Zion/Writings
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 131, License: Public Domain)
+Version (He): On Your Way (Segments: 132, License: Public Domain)
 
 
 ## Chapter 1
@@ -173,17 +173,6 @@ Version (He): On Your Way (Segments: 131, License: Public Domain)
 
 
 ## Chapter 2
-
-
-### Verse 1
-
-###### Metzudat Zion on Ezra 2:1:1
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/2:1:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/2:1:1)
-
-
-**.**:
-
 
 
 ### Verse 62
@@ -848,7 +837,26 @@ Version (He): On Your Way (Segments: 131, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/7:7:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/7:7:1)
 
 
-**והשוערים.** שומרי השערים והנתינים. הגבעונים. (יב) גמיר. כולה כי כליל תקטר (ויקרא ו׳:ט״ו) ת״א גמיר מתסק:
+**והשוערים.** שומרי השערים:
+
+
+###### Metzudat Zion on Ezra 7:7:2
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/7:7:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/7:7:2)
+
+
+**והנתינים.** הגבעונים:
+
+
+
+### Verse 12
+
+###### Metzudat Zion on Ezra 7:12:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/7:12:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/7:12:1)
+
+
+**גמיר.** כולה כי כליל תקטר (ויקרא ו׳:ט״ו) ת״א גמיר מתסק:
 
 
 
@@ -870,7 +878,7 @@ Version (He): On Your Way (Segments: 131, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/7:20:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/7:20:1)
 
 
-**השהות.** כמו חששות והוא ענין צורך:
+**חשחות.** כמו חששות והוא ענין צורך:
 
 
 ###### Metzudat Zion on Ezra 7:20:2
@@ -878,12 +886,15 @@ Version (He): On Your Way (Segments: 131, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/7:20:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/7:20:2)
 
 
-**יפל.** ענין נטיה ודוגמתו כי יפול לא יוטל (תהילים ל״ז:כ״ד) (כב):
+**יפל.** ענין נטיה ודוגמתו כי יפול לא יוטל (תהילים ל״ז:כ״ד):
 
 
-###### Metzudat Zion on Ezra 7:20:3
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/7:20:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/7:20:3)
+### Verse 22
+
+###### Metzudat Zion on Ezra 7:22:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/7:22:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/7:22:1)
 
 
 **בתין.** שם מדת הלח והיא ג׳ סאין:
@@ -997,6 +1008,25 @@ Version (He): On Your Way (Segments: 131, License: Public Domain)
 
 
 
+### Verse 36
+
+###### Metzudat Zion on Ezra 8:36:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/8:36:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/8:36:1)
+
+
+**לאחשדרפני.** מין שררה ידוע אצלם:
+
+
+###### Metzudat Zion on Ezra 8:36:2
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/8:36:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/8:36:2)
+
+
+**ופחוות.** מל׳ פחה ומושל:
+
+
+
 ## Chapter 9
 
 
@@ -1007,15 +1037,7 @@ Version (He): On Your Way (Segments: 131, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:1:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:1:1)
 
 
-**לאחשדרפני.** מין שררה ידוע אצלם:
-
-
-###### Metzudat Zion on Ezra 9:1:2
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:1:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:1:2)
-
-
-**ופחוות.** מל׳ פחה ומושל:
+**נבדלו.** ענין הפרשה:
 
 
 
@@ -1026,7 +1048,15 @@ Version (He): On Your Way (Segments: 131, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:2:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:2:1)
 
 
-**נבדלו.** ענין הפרשה:
+**והתערבו.** מל׳ תערובות ובלבול:
+
+
+###### Metzudat Zion on Ezra 9:2:2
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:2:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:2:2)
+
+
+**והסגנים.** מין שררה:
 
 
 
@@ -1037,7 +1067,7 @@ Version (He): On Your Way (Segments: 131, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:3:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:3:1)
 
 
-**והתערבו.** מל׳ תערובות ובלבול:
+**במעל.** ענין חטא ופשע:
 
 
 ###### Metzudat Zion on Ezra 9:3:2
@@ -1045,7 +1075,7 @@ Version (He): On Your Way (Segments: 131, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:3:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:3:2)
 
 
-**והסגנים.** מין שררה:
+**ומעילי.** הוא מין מלבוש עליון:
 
 
 ###### Metzudat Zion on Ezra 9:3:3
@@ -1053,7 +1083,7 @@ Version (He): On Your Way (Segments: 131, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:3:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:3:3)
 
 
-**במעל.** ענין חטא ופשע:
+**ואמרטה.** ענין תלישה כמו ואיש כי ימרט ראשו (ויקרא י״ג):
 
 
 
@@ -1064,7 +1094,7 @@ Version (He): On Your Way (Segments: 131, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:4:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:4:1)
 
 
-**ומעילי.** הוא מין מלבוש עליון:
+**חרד.** ענין מהירות כמו ויחרדו זקני העיר (ש״א י״ו):
 
 
 ###### Metzudat Zion on Ezra 9:4:2
@@ -1072,53 +1102,69 @@ Version (He): On Your Way (Segments: 131, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:4:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:4:2)
 
 
-**ואמרטה.** ענין תלישה כמו ואיש כי ימרט ראשו (ויקרא י״ג):
-
-
-###### Metzudat Zion on Ezra 9:4:3
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:4:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:4:3)
-
-
 **משומם.** משותק ונאלם כמו משמים בתוכם (יחזקאל ג׳):
 
 
 
-### Verse 5
+### Verse 6
 
-###### Metzudat Zion on Ezra 9:5:1
+###### Metzudat Zion on Ezra 9:6:1
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:5:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:5:1)
-
-
-**חרד.** ענין מהירות כמו ויחרדו זקני העיר (ש״א י״ו):
-
-
-
-### Verse 7
-
-###### Metzudat Zion on Ezra 9:7:1
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:7:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:7:1)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:6:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:6:1)
 
 
 **ונכלמתי.** מלשון כלימה ובושה:
 
 
-###### Metzudat Zion on Ezra 9:7:2
+###### Metzudat Zion on Ezra 9:6:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:7:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:7:2)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:6:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:6:2)
 
 
 **להרים.** לרומם ולהגביה:
 
 
-###### Metzudat Zion on Ezra 9:7:3
+###### Metzudat Zion on Ezra 9:6:3
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:7:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:7:3)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:6:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:6:3)
 
 
 **ואשמתנו.** מל׳ אשמה ופשע:
+
+
+
+### Verse 8
+
+###### Metzudat Zion on Ezra 9:8:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:8:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:8:1)
+
+
+**תחנה.** חנינה וחן וכן לבלתי היות להם תחנה (יהושע י״א:כ׳):
+
+
+###### Metzudat Zion on Ezra 9:8:2
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:8:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:8:2)
+
+
+**פליטה.** ענין הצלה ושיור:
+
+
+###### Metzudat Zion on Ezra 9:8:3
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:8:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:8:3)
+
+
+**יתד.** מסמר:
+
+
+###### Metzudat Zion on Ezra 9:8:4
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:8:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:8:4)
+
+
+**מחיה.** מל׳ חיות:
 
 
 
@@ -1129,7 +1175,7 @@ Version (He): On Your Way (Segments: 131, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:9:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:9:1)
 
 
-**תחנה.** חנינה וחן וכן לבלתי היות להם תחנה (יהושע י״א:כ׳):
+**חרבותיו.** מלשון חורבה:
 
 
 ###### Metzudat Zion on Ezra 9:9:2
@@ -1137,53 +1183,29 @@ Version (He): On Your Way (Segments: 131, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:9:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:9:2)
 
 
-**פליטה.** ענין הצלה ושיור:
-
-
-###### Metzudat Zion on Ezra 9:9:3
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:9:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:9:3)
-
-
-**יתד.** מסמר:
-
-
-###### Metzudat Zion on Ezra 9:9:4
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:9:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:9:4)
-
-
-**מחיה.** מל׳ חיות:
-
-
-
-### Verse 10
-
-###### Metzudat Zion on Ezra 9:10:1
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:10:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:10:1)
-
-
-**חרבותיו.** מלשון חורבה:
-
-
-###### Metzudat Zion on Ezra 9:10:2
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:10:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:10:2)
-
-
 **גדר.** כותל מקיף:
 
 
 
-### Verse 12
+### Verse 11
 
-###### Metzudat Zion on Ezra 9:12:1
+###### Metzudat Zion on Ezra 9:11:1
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:12:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:12:1)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:11:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:11:1)
 
 
 **נדה.** מל׳ נדידה ורחוק:
+
+
+
+### Verse 13
+
+###### Metzudat Zion on Ezra 9:13:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:13:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:13:1)
+
+
+**חשכת.** מנעת כמו ולא חשכת (בראשית כ״ב):
 
 
 
@@ -1194,31 +1216,20 @@ Version (He): On Your Way (Segments: 131, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:14:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:14:1)
 
 
-**חשכת.** מנעת כמו ולא חשכת (בראשית כ״ב):
-
-
-
-### Verse 15
-
-###### Metzudat Zion on Ezra 9:15:1
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:15:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:15:1)
-
-
 **להפר.** לבטל:
 
 
-###### Metzudat Zion on Ezra 9:15:2
+###### Metzudat Zion on Ezra 9:14:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:15:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:15:2)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:14:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:14:2)
 
 
 **להתחתן.** מלשון חתון:
 
 
-###### Metzudat Zion on Ezra 9:15:3
+###### Metzudat Zion on Ezra 9:14:3
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:15:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:15:3)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:14:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezra/r/9:14:3)
 
 
 **תאנף.** מל׳ אף וחמה:

@@ -14,9 +14,9 @@ Location: Chasidut/Early Works
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Eichen edition. Jerusalem, 2011 (Segments: 6821, License: CC-BY-NC)
+Version (He): Toldot Yaakov Yosef, Korets, 1780 (Segments: 6821, License: Public Domain)
 
-Version (En): Sefaria Community Translation (Segments: 45)
+Version (En): Sefaria Community Translation (Segments: 46)
 
 # Toldot Yaakov Yosef — part 1 of 2
 
@@ -9612,6 +9612,9 @@ footnotes:
 
 
 **וכל** זה כשיש לו שלוה, מה שאין כן כשרואה צרות מתחדשות, אז בע"כ יכנע הדמיון, וזש"ה אשר ראיתם מה שעשה למצרים וכו'. ומה שזכר דתן ואבירם ולא קרח, כי בני קרח לא מתו (במדבר כו, יא), ויקח מוסר מדתן ואבירם, באשר שרוב העולם יחטיאו נפשם כדי להנחיל לבניהם, ובאמת לא ישאר בידו מאומה כי אם העונות, כמו שקרה לדתן ואבירם שנאבדו הם ובניהם וכל אשר להם וכו', ובזה לא ימצא נגדיית כח הדמיון. והוא נקל לישראל ג"כ ליראה את ה' כמו למשה וכו', יעו"ש.
+
+
+And all this is when a person enjoys tranquility (shalvah); but it is otherwise when he sees troubles befalling him anew — then, of necessity, the imagination (dimyon) is subdued. And this is what Scripture says: "which you have seen, what He did to Egypt," etc. And as for why [Scripture] mentioned Datan and Aviram and not Korach — because "the sons of Korach did not die" (Numbers 26:11). And one should take the moral lesson from Datan and Aviram: inasmuch as most of the world let their souls sin in order to leave a bequest to their children, when in truth nothing remains in a person's hand but the iniquities — as happened to Datan and Aviram, who were destroyed, they and their children and all that was theirs, etc. — and by way of this [lesson], the imagination's opposing force is no longer found [i.e., the illusion that drives a person to sin for worldly gain is dispelled]. And then it is an easy thing for Israel too to fear the LORD, just as it was for Moses, etc. — see there.
 
 
 ###### Toldot Yaakov Yosef, Vayigash 53
@@ -53001,121 +53004,6 @@ footnotes:
 
 
 **א"כ** מוכח מעובדא זו שהחיוב לבסומי היינו בקדושה, שיהי' בכלל ברוך מרדכי עם כל היהודים, ולזו נתכוונו התוספות בכוונת רבא, וק"ל.
-
-
-
-## Nitzavim
-
-###### Toldot Yaakov Yosef, Nitzavim 1
-
-[https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/1](https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/1)
-
-
-**אתם** נצבים היום כולכם לפני ה' אלהיכם ראשיכם שבטיכם וגו' כל איש ישראל. במדרש היום זה ראש השנה. והי' בשמעו דברי האלה והתברך בלבבו לאמר שלום יהי' לי כי בשרירות לבי אלך למען ספות הרוה את הצמאה, לא יאבה ה' סלוח לו וגו', והבדילו ה' וגו' (כט, ט-כ).
-
-
-###### Toldot Yaakov Yosef, Nitzavim 2
-
-[https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/2](https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/2)
-
-
-**ובאגדה** (תנחומא נצבים א) דרשו, לפי ששמעו ישראל צ"ח קללות אמרו מי יוכל לעמוד באלו. התחיל משה לפייסן, הלא הרבה הכעסתם לפניו ית' ולא עשה [אתכם] כלי' ואתם נצבים לפניו וכו'. ויש להקשות, הא כל האומר הקדוש ברוך הוא וותרן וכו' (ב"ק נ.), דא"כ הוא כמאמר המוני עם אי אפשר שיהי' כך חמור כמו שהחמירו בספרי המוסר, שהוא רק לאיים על האדם וכו'.
-
-
-###### Toldot Yaakov Yosef, Nitzavim 3
-
-[https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/3](https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/3)
-
-
-**ונ"ל** דהורקת פנים הוא עבור שהצדיקים נתפסי' עבור הרשעים, בזה אמרו מי יוכל לעמוד באלו. לזה פייסן ואמר אתם נצבים כו"לכם, ר"ל דכתב **הרמב"ם** (הל' תשובה פ"ג ה"א) שיש דין כללי, וברוב צדיקים יצאו זכאין בדין, וז"ש הרבה הכעסתם ולא עשה אתכם כלי' שיתפסו צדיקים עבור הרשעים. וה"נ מאחר כי היום בראש השנה הוא דין הכללי, בזה יש לכם תקומה לפניו להתייצב, שאתם כולכם יחד נדונין וכו'.
-
-
-###### Toldot Yaakov Yosef, Nitzavim 4
-
-[https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/4](https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/4)
-
-
-**אך** דלפ"ז יהי' מקום לומר שלום יהי' ל"י כי בשרירות לבי אלך למען ספות הרוה את הצמאה, ר"ל מאחר שיש חיבור דין הרוה שהוא צדיק החוטא בשוגג, את הצמאה עם הרשעים החוטאים במזיד, וכמ"ש **בע[ו]ללות אפרים** בזה (מאמר קעט) יעו"ש, לכך ביאר הפסוק דכל זה בדין הכללי, מה שאין כן בדין פרטי כשאין הרוב הצדיקים שאז יש דין פרטי להציל הצדיק בצדקתו, ואז והבדילו ה' לרעה וגו', לכך יבטח הצדיק, וק"ל.
-
-
-###### Toldot Yaakov Yosef, Nitzavim 5
-
-[https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/5](https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/5)
-
-
-**עוד** י"ל, דכתב **האלשיך** משלי, מאין תבוא, והשיב משוט בארץ ומהתהלך בה וגו' (איוב א, ז). כי במקום המחלוקת שם מדור היצה"ר, כדאיתא בש"ס (גיטין נב.) ווי דאפקי' רבי מאיר מההוא ביתא וכו'. וביום הדין הוא העיקר, כי דורו של אחאב גם שהיו עובדי ע"ז מאחר שהי' שלום ביניהם וכו', מה שאין כן חלק לבם עתה יאשמו וכו' (הושע י, ב).
-
-
-###### Toldot Yaakov Yosef, Nitzavim 6
-
-[https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/6](https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/6)
-
-
-**ובזה** יובן אתם נצבים כולכם היום בראש השנה, שיש לכם תקומה כשאתם כולכם באחדות א', מה שאין כן כשיש פירוד שאומר כל א' שלום יהי' לי, אז והבדילו ה' לרעה וגו'. לכך עצה היעוצה לתווך השלום מראש השנה, וק"ל.
-
-
-###### Toldot Yaakov Yosef, Nitzavim 7
-
-[https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/7](https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/7)
-
-
-**עוד** י"ל פירוש ג', הנמשך מן ב' פ[י]רושים הנ"ל, אף שהם רשעים והם רע לשמים, מ"מ אם טובים הם בהתחברות הצדיקים שיש שלום ביניהם, מזה נמשך שיתחבר משפטם יחד ג"כ עם הצדיקים, וניצולין ברוב הצדיקים, מה שאין כן כשהם שונאין הצדיקים שבהם והם רע לשמים ורע לבריות, אז והבדילו וגו'.
-
-
-###### Toldot Yaakov Yosef, Nitzavim 8
-
-[https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/8](https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/8)
-
-
-**ובזה** מצינו בקרח, גם שהי' מכחיש בנבואת משה רבינו ע"ה ושאין התורה משמים, לא הי' מקום לעונש לחול עליו עד שנפרד ונחלק מתוך העדה, וז"ש (במדבר טז, א) ויקח קרח, ודרשו בש"ס (רש"י עה"פ) שלקח את עצמו לצד א' להיות נחלק מתוך העדה, **וכתרגומו** ואתפליג קרח וכו'. וז"ש (אבות פ"ב מי"ג) אל תהי רשע בפני עצמך, רק שיתחבר עכ"פ עם הצדיקים בשלום.
-
-
-###### Toldot Yaakov Yosef, Nitzavim 9
-
-[https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/9](https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/9)
-
-
-**ובזה** יובן אתם נצבים היום כולכם, ר"ל שתהיו נצבים כשאתם כולכם באחדות, שיהי' כל א' מכיר ערכו, ראשיכם תחלה, ואח"כ שבטיכם, ואח"כ כל איש ישראל מחזיק כ"א מדריגתו. מה שאין כן כשכל א' אומר בשרירות לבי אלך, שאני שקול כמו ראש ושבט, אז והבדילו וגו', וק"ל.
-
-
-###### Toldot Yaakov Yosef, Nitzavim 10
-
-[https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/10](https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/10)
-
-
-**עוד** י"ל, דכתב **הט"ז** באורח חיים (סי' תקפ"ה סק"ז) שראה בחלום פירוש הפסוק (תהלים צח, ו) בחצוצרות וקול שופר הריעו לפני המלך ה' וכו', ויעו"ש. ולי נראה דכתב **הטור** בהלכות ראש השנה (סי' תקפ"א), נהגו הגדולים להתענות לפני ראש השנה וכו', על פי משל ששלחו גדולי המדינה לקראת המלך וכו'. ובזה כתב **האלשיך** ישעי' סימן נ"ה (ו) דרשו ה' בהמצאו קראוהו בהיותו קרוב וגו' וישב אל ה' וירחמהו. דהיינו קודם ראש השנה שהוא דן במדת הרחמים, ואל אלהינו שהוא בימי הדין ואז כי ירבה לסלוח, יעו"ש. ואני כתבתי במקום אחר דהיינו כשיש אחדות ביניהם, שיצאו הת"ח שהם הגדולים לפייס המלך קודם ראש השנה, שיצא ברצון אנשי המדינה וכו', יעו"ש. ובזה יובן בחצוצרות וקול שופר הריעו לפני המלך ה', קודם שנקרא המלך המשפט, כשהוא דן בשם הוי' רחמים, וק"ל.
-
-
-###### Toldot Yaakov Yosef, Nitzavim 11
-
-[https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/11](https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/11)
-
-
-**ובזה** יובן אתם נצבים כולכם היום בראש השנה, כשאתם כולכם באחדות א' אז סגי לפני ה' אלהיכ' ראשיכם וגו', ר"ל מה שמקדימין ראשיכם שהם הגדולים לפני ה' אלהיכם, קודם שיושב בדין הוא ובית דינו שנק' אז ה' אלהיכם, רק הוא דן אז בשם הוי' לחוד רחמים, והם מפייסין המלך עבור כולכם שאתם באחדות, וק"ל.
-
-
-###### Toldot Yaakov Yosef, Nitzavim 12
-
-[https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/12](https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/12)
-
-
-**עוד** י"ל, **דשמעתי ממורי** פירוש הפסוק תפלה לעני כי יעטוף ולפני ה' ישפוך שיחו (תהלים קב, א), על פי משל שצוה המלך שיבקש כל אחד מבוקשו בעת שמחת המלך, והי' חכם אחד שביקש שידבר עם המלך ג' פעמים ביום, והוטב בעיני המלך ונתן לו גם מה שלא ביקש, וז"ש לפני ה' ישפוך שיחו, ודפח"ח.
-
-
-###### Toldot Yaakov Yosef, Nitzavim 13
-
-[https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/13](https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/13)
-
-
-**ובזה** יובן אתם נצבים היום, שיהיה לכם תקומה כשתהיו נצבים לפניו ית' לבדו, שישפוך שיחו לפניו ית', שזהו נציבה וקימה לאדם, והבן.
-
-
-###### Toldot Yaakov Yosef, Nitzavim 14
-
-[https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/14](https://torahapp.org/share/book/Toldot%20Yaakov%20Yosef/s/Nitzavim/r/14)
-
-
-**ובזה** נ"ל (תהלים יז, ב) מלפניך משפטי יצא עיניך תחז[י]נה משרים. דכתב **בחסד לאברהם** (בריכת אברהם) שיהי' מרכבה למדת נשא עון ועובר על פשע (מיכה ז, יח), שיעבור מנגד פניו הפשע, רק הטוב הוא רואה ולא הפשע וכו'. ובזה יובן מלפניך וגו', כי עיניך תחז[י]נה משרים ולא הפשע, מה שאין כן לפני בית דין, וק"ל.
 
 
 

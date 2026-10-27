@@ -14,9 +14,9 @@ Location: Mishnah/Rishonim on Mishnah/Rambam/Seder Nezikin
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Vilna Edition (Segments: 118, License: Public Domain)
+Version (He): Vilna Edition (Segments: 119, License: Public Domain)
 
-Version (En): Sefaria Community Translation (Segments: 118)
+Version (En): Sefaria Community Translation (Segments: 119)
 
 
 ## Chapter 1
@@ -1524,6 +1524,20 @@ The explanation of these words is like this: You know that if the physical cause
 
 
 
+### Mishnah 17
+
+###### Rambam on Pirkei Avot 5:17:1
+
+[https://torahapp.org/share/book/Rambam%20on%20Pirkei%20Avot/r/5:17:1](https://torahapp.org/share/book/Rambam%20on%20Pirkei%20Avot/r/5:17:1)
+
+
+זה כלו מבואר שאלו הענינים על צד הגמול והעונש כי מי שיחלק לא לכונת סתירת דברי חבירו אלא לרצותו לדעת האמת יתקיימו דבריו ולא יפסיקו:
+
+
+This is all clear, as these matters are from the angle of reward and punishment. So that anyone who disagrees not with the intention to contradict the words of his fellow but from his wanting to know the truth, his words will endure and not end.
+
+
+
 ### Mishnah 18
 
 ###### Rambam on Pirkei Avot 5:18:1
@@ -1531,10 +1545,10 @@ The explanation of these words is like this: You know that if the physical cause
 [https://torahapp.org/share/book/Rambam%20on%20Pirkei%20Avot/r/5:18:1](https://torahapp.org/share/book/Rambam%20on%20Pirkei%20Avot/r/5:18:1)
 
 
-זה כלו מבואר שאלו הענינים על צד הגמול והעונש כי מי שיחלק לא לכונת סתירת דברי חבירו אלא לרצותו לדעת האמת יתקיימו דבריו ולא יפסיקו: וכל מי שיישר בני אדם יגמלהו ה' יתברך כשימנעהו מן החטא וכל מי שיטעה בני אדם יענשהו ה' יתברך כשימנעהו מן התשובה וזה מבואר אין קושי בו כשתבין מה שכללנוהו בפר' השמיני:
+וכל מי שיישר בני אדם יגמלהו ה' יתברך כשימנעהו מן החטא וכל מי שיטעה בני אדם יענשהו ה' יתברך כשימנעהו מן התשובה וזה מבואר אין קושי בו כשתבין מה שכללנוהו בפר' השמיני:
 
 
-This is all clear, as these matters are from the angle of reward and punishment. So that anyone who disagrees not with the intention to contradict the words of his fellow but from his wanting to know the truth, his words will endure and not end. And anyone who makes people straight, God, may He be blessed, will reward him by preventing him from transgression. And anyone who deceives people, God, may He be blessed, will punish him by preventing him from repentance. And this is clear and there is no difficulty in it, if you understand what we have outlined in the eighth chapter (Eight Chapters 8:14-16).
+And anyone who makes people straight, God, may He be blessed, will reward him by preventing him from transgression. And anyone who deceives people, God, may He be blessed, will punish him by preventing him from repentance. And this is clear and there is no difficulty in it, if you understand what we have outlined in the eighth chapter (Eight Chapters 8:14-16).
 
 
 

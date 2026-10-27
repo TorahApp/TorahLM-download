@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Pressburg, 1855-1864 (Segments: 11182, License: Public Domain)
 
-Version (En): YU Torah miTzion Beit Midrash (Segments: 24)
+Version (En): Sefaria Community Translation (Segments: 24)
 
 # Responsa Chatam Sofer — part 3 of 4
 

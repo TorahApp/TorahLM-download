@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Torat Emet 370 (Segments: 68, License: unknown)
 
-Version (En): Publicado em 5784, Saymon Pires da Silva [pt] (Segments: 68)
+Version (En): Sefaria Community Translation (Segments: 68)
 
 
 ## Chapter 1

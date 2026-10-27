@@ -4332,7 +4332,7 @@ Version (He): Maginei Eretz: Shulchan Aruch Orach Chaim, Lemberg, 1893 (Segments
 [https://torahapp.org/share/book/Eshel%20Avraham%20on%20Shulchan%20Arukh%2C%20Orach%20Chayim/r/658:2](https://torahapp.org/share/book/Eshel%20Avraham%20on%20Shulchan%20Arukh%2C%20Orach%20Chayim/r/658:2)
 
 
-**ריחא** ע' ת' בי"ד סי' תנ"ד:
+**ריחא** ע' ת' בית דוד סי' תנ"ז:
 
 
 ###### Eshel Avraham on Shulchan Arukh, Orach Chayim 658:3

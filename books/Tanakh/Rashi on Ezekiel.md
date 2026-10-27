@@ -29,7 +29,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/1:1:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/1:1:1)
 
 
-**וַיְהִי בִּשְׁלֹשִׁים שָׁנָה.** סָתַם הַנָּבִיא דְּבָרָיו, וְלֹא פֵּרֵשׁ שְׁמוֹ מִי הוּא, וְלֹא פֵּרֵשׁ לְמִנְיַן מָה מָנָה. לְפִיכָךְ הִפְסִיקָה רוּחַ הַקֹּדֶשׁ אֶת דְּבָרָיו בִּשְׁנֵי מִקְרָאוֹת הַסְּמוּכִין לָזֶה, לְלַמֵּד מִי הוּא הַנָּבִיא וּלְלַמֵּד לְמִנְיַן מָה מָנָה, שֶׁנֶּאֱמַר **בַּחֲמִשָּׁה לַחֹדֶשׁ הִיא הַשָּׁנָה הַחֲמִישִׁית וְגוֹ׳**. אֵין אֵלֶּה דִּבְרֵי הַנָּבִיא, שֶׁהֲרֵי כְּבָר אָמַר שֶׁ**בַּחֲמִשָּׁה לַחֹדֶשׁ** הָיָה עוֹמֵד. וְעוֹד, שֶׁמִּתְּחִלָּה אָמַר נְבוּאָתוֹ בִּלְשׁוֹן עַצְמוֹ: **וַאֲנִי בְתוֹךְ הַגּוֹלָה וָאֶרְאֶה מַרְאוֹת אֱלֹהִים**, וְכֵן בַּסּוֹף: **וָאֵרֶא וְהִנֵּה רוּחַ סְעָרָה וְגוֹ׳**. וְאֵלּוּ שְׁנֵי מִקְרָאוֹת מַפְסִיקִין דְּבָרָיו, כְּאִלּוּ אַחֵר מְדַבֵּר עָלָיו: **הָיֹה הָיָה דְבַר ה׳ אֶל יְחֶזְקֵאל... וַתְּהִי עָלָיו שָׁם יַד ה׳**:
+**וַיְהִי בִּשְׁלֹשִׁים שָׁנָה.** סָתַם הַנָּבִיא דְּבָרָיו, וְלֹא פֵּרֵשׁ שְׁמוֹ מִי הוּא, וְלֹא פֵּרֵשׁ לְמִנְיַן מָה מָנָה. לְפִיכָךְ הִפְסִיקָה רוּחַ הַקֹּדֶשׁ אֶת דְּבָרָיו בִּשְׁנֵי מִקְרָאוֹת הַסְּמוּכִין לָזֶה, לְלַמֵּד מִי הוּא הַנָּבִיא וּלְלַמֵּד לְמִנְיַן מָה מָנָה, שֶׁנֶּאֱמַר **בַּחֲמִשָּׁה לַחֹדֶשׁ הִיא הַשָּׁנָה הַחֲמִישִׁית וְגוֹ׳.** אֵין אֵלֶּה דִּבְרֵי הַנָּבִיא, שֶׁהֲרֵי כְּבָר אָמַר שֶׁ**בַּחֲמִשָּׁה לַחֹדֶשׁ** הָיָה עוֹמֵד. וְעוֹד, שֶׁמִּתְּחִלָּה אָמַר נְבוּאָתוֹ בִּלְשׁוֹן עַצְמוֹ: **וַאֲנִי בְתוֹךְ הַגּוֹלָה וָאֶרְאֶה מַרְאוֹת אֱלֹהִים**, וְכֵן בַּסּוֹף: **וָאֵרֶא וְהִנֵּה רוּחַ סְעָרָה וְגוֹ׳.** וְאֵלּוּ שְׁנֵי מִקְרָאוֹת מַפְסִיקִין דְּבָרָיו, כְּאִלּוּ אַחֵר מְדַבֵּר עָלָיו: **הָיֹה הָיָה דְבַר ה׳ אֶל יְחֶזְקֵאל… וַתְּהִי עָלָיו שָׁם יַד ה׳**:
 
 
 **Now it came to pass in the thirtieth year** The prophet presented his words obscurely and did not tell his name, who he was; nor did he explain from what date he was counting. Therefore, the holy spirit interrupted his words in the following two verses to teach [us] who the prophet was and to teach [us] from what date he was counting. As it is said: “On the fifth day of the month that is the fifth year, etc.” These are not the words of the prophet, for he already stated that he was standing on the fifth of the month, and furthermore, from the beginning he had stated his prophecy in the first person: “and I was in the midst of the exile”; “and I saw visions of God.” And so at the end: “And I saw, and behold, a storm wind, etc.” Now these [next] two verses interrupted his words, as though someone else was speaking about him: “The word of the Lord was [revealed] to Ezekiel...and the hand of the Lord came upon him there.”
@@ -259,7 +259,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/1:8:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/1:8:1)
 
 
-**וְיָדִי אָדָם מִתַּחַת כְּנָפֶיהָ׳.** כְּתַרְגּוּמוֹ ״לְמִחְתֵי בְּהוֹן גּוּמְרִין דְּאִישָׁא וְגוֹ׳״ וְכֵן אָנוּ מוֹצְאִים בְּסֵפֶר זֶה ״וַיִּשְׁלַח הַכְּרוּב אֶת יָדוֹ אֶל הָאֵשׁ אֲשֶׁר בֵּינוֹת הַכְּרוּבִים וַיִּשָּׂא וְיִתֵּן אֶל חָפְנֵי לְבֻשׁ הַבַּדִּים״ (יחזקאל י:ז) וְכֵן אַחֲרָיו ״וְיִרְאוּ לַכְּרֻבִים תַּבְנִית יַד אָדָם וְגֵו׳״ (יחזקאל י:ח) יְדֵי אָדָם חוֹתוֹת אֶת הָאֵשׁ וְנוֹתְנוֹת לַכְּרוּב וְהַכְּרוּב לַשָּׁלִיחַ כְּדֵי שֶׁיִּצְטַנְּנוּ הַגֶּחָלִים מִיָּד אֶל יָד לְהָקֵל הַפֻּרְעָנִיּוֹת מֵעַל יִשְׂרָאֵל:
+**וִידֵי אָדָם מִתַּחַת כַּנְפֵיהֶם.** כְּתַרְגּוּמוֹ ״לְמִחְתֵי בְּהוֹן גּוּמְרִין דְּאִישָׁא וְגוֹ׳״ וְכֵן אָנוּ מוֹצְאִים בְּסֵפֶר זֶה ״וַיִּשְׁלַח הַכְּרוּב אֶת יָדוֹ אֶל הָאֵשׁ אֲשֶׁר בֵּינוֹת הַכְּרוּבִים וַיִּשָּׂא וְיִתֵּן אֶל חָפְנֵי לְבֻשׁ הַבַּדִּים״ (יחזקאל י:ז) וְכֵן אַחֲרָיו ״וְיִרְאוּ לַכְּרֻבִים תַּבְנִית יַד אָדָם וְגֵו׳״ (יחזקאל י:ח) יְדֵי אָדָם חוֹתוֹת אֶת הָאֵשׁ וְנוֹתְנוֹת לַכְּרוּב וְהַכְּרוּב לַשָּׁלִיחַ כְּדֵי שֶׁיִּצְטַנְּנוּ הַגֶּחָלִים מִיָּד אֶל יָד לְהָקֵל הַפֻּרְעָנִיּוֹת מֵעַל יִשְׂרָאֵל:
 
 
 **And human hands were beneath their wings** As the Targum paraphrases: to pick up coals of fire with them, etc. Likewise, we find in this Book (10:7): “And the cherub stretched forth his hand, etc. to the fire that was between the cherubim, and he picked it up and gave it to the hands of the one dressed in linen.” And so, [in the verse] after it, “And there appeared to the cherubim the form of a human hand, etc.” The human hands pick up the fire and give it to the cherub, and the cherub [gives it] to the messenger, in order [to allow] the coals to cool off [as they pass] from hand to hand, to mitigate Israel’s punishment.
@@ -331,7 +331,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/1:11:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/1:11:2)
 
 
-**וּשְׁתַּיִם מְכַסּוֹת.** וּשְׁתֵּי כְנָפַיִם הַנּוֹתָרוֹת מְכַסּוֹת **אֶת גְּוִיּוֹתֵיהֶנָה**:
+**וּשְׁתַּיִם מְכַסּוֹת.** וּשְׁתֵּי כְנָפַיִם הַנּוֹתָרוֹת מְכַסּוֹת **אֵת גְּוִיּוֹתֵיהֶנָה**:
 
 
 **and two covering their bodies** And the two remaining wings would cover their bodies.
@@ -406,7 +406,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/1:14:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/1:14:2)
 
 
-**כְּמַרְאֵה הַבָּזָק.** דְלָאטַנְצִי״לָא בְּלַעַ״ז וְגוֹוֶן אֵשׁ לָהֶם כְּגוֹוֶן אֵשׁ הַיּוֹצֵא מִבֵּין הַחֲרָסִין (חגיגה יג:) שֶׁמְּזַקְּקִין זָהָב בְּכוּר בְּתוֹכָן, וְהָאֵשׁ שֶׁיּוֹצְאָה מִשָּׁם צְבוּעָה בִּגְוָנִים. (תוספות וְיֵשׁ מְפָרְשִׁים הֶבְזֵק לְשׁוֹן פָּזוּר, כְּפִי שֶׁפֵּרְשׁוּהוּ רַבּוֹתֵינוּ (בראשית רבה נ:א): **כְּמַרְאֵה הַבָּזָק** רַבִּי יְהוּדָה אוֹמֵר בְּשֵׁם רַבִּי סִימוֹן בְּשֵׁם רַבִּי לֵוִי בֶּן פַּרְטָא כָּזֶה שֶׁבּוֹזֵק גֶּפֶת בְּכִירָה, כְּלוֹמַר שֶׁמְּפַזֵּר גֶּפֶת שֶׁהוּא פְּסֹלֶת הַזֵּתִים בְּכִירָה, שֶׁהוּא מִתְלַהֵט בִּמְהֵרָה וּמַעֲלֶה לַהַב וְהַלַּהַב עוֹלֶה וְיוֹרֵד, וְזֶהוּ פֵּרוּשׁ **רָצוֹא וָשׁוֹב**. וְעוֹד יֵשׁ בְּדִבְרֵיהֶם בָּזָק לְשׁוֹן פִּזּוּר (סנהדרין קח:): בָּזַק בְּהוּ עַפְרָא וְהָווּ חַרְבֵּי, כְּלוֹמַר פִּזֵּר; וְכֵן בַּמִּשְׁנָה (ערובין י:יד): בּוֹזְקִין מֶלַח עַל גַּב הַכֶּבֶשׁ בִּשְׁבִיל שֶׁלֹּא יַחְלִיקוּ; וְיֵשׁ מַשְׁמַע בָּזָק כְּמוֹ בָּרָק, וְהוּא לְשׁוֹן חִפּוּשׁ עד כאן תוספות, סא״א):
+**כְּמַרְאֵה הַבָּזָק.** דְלָאטַנְצִי״לָא בְּלַעַ״ז וְגוֹוֶן אֵשׁ לָהֶם כְּגוֹוֶן אֵשׁ הַיּוֹצֵא מִבֵּין הַחֲרָסִין (חגיגה יג:) שֶׁמְּזַקְּקִין זָהָב בְּכוּר בְּתוֹכָן, וְהָאֵשׁ שֶׁיּוֹצְאָה מִשָּׁם צְבוּעָה בִּגְוָנִים. (תוספות וְיֵשׁ מְפָרְשִׁים הֶבְזֵק לְשׁוֹן פָּזוּר, כְּפִי שֶׁפֵּרְשׁוּהוּ רַבּוֹתֵינוּ (בראשית רבה נ:א): **כְּמַרְאֵה הַבָּזָק** רַבִּי יְהוּדָה אוֹמֵר בְּשֵׁם רַבִּי סִימוֹן בְּשֵׁם רַבִּי לֵוִי בֶּן פַּרְטָא כָּזֶה שֶׁבּוֹזֵק גֶּפֶת בְּכִירָה, כְּלוֹמַר שֶׁמְּפַזֵּר גֶּפֶת שֶׁהוּא פְּסֹלֶת הַזֵּתִים בְּכִירָה, שֶׁהוּא מִתְלַהֵט בִּמְהֵרָה וּמַעֲלֶה לַהַב וְהַלַּהַב עוֹלֶה וְיוֹרֵד, וְזֶהוּ פֵּרוּשׁ **רָצוֹא וָשׁוֹב.** וְעוֹד יֵשׁ בְּדִבְרֵיהֶם בָּזָק לְשׁוֹן פִּזּוּר (סנהדרין קח:): בָּזַק בְּהוּ עַפְרָא וְהָווּ חַרְבֵּי, כְּלוֹמַר פִּזֵּר; וְכֵן בַּמִּשְׁנָה (ערובין י:יד): בּוֹזְקִין מֶלַח עַל גַּב הַכֶּבֶשׁ בִּשְׁבִיל שֶׁלֹּא יַחְלִיקוּ; וְיֵשׁ מַשְׁמַע בָּזָק כְּמוֹ בָּרָק, וְהוּא לְשׁוֹן חִפּוּשׁ עד כאן תוספות, סא״א):
 
 
 **like the appearance of the sparks** Heb. הֲבָּזָק, de l’etincelle in French, and the color of their fire is like the color of the fire that emanates from between the shards within which gold is refined in a furnace. The fire that emanates from there is colored with these colors (ibid.). [Addendum—Others explain הַבָּזָק as an expression of scattering, as our Sages explained it (Gen. Rabbah 50:1): “like the appearance of the bazak” R. Judah in the name of R. Simon in the name of R. Levi the son of Perata: Like one who scatters (הַבּוֹזֵק) ‘gefeth’ in a stove, i.e., he scatters ‘gefeth’ the residue of olives in a stove: it ignites quickly and raises a flame, and the flame ascends and descends, and this is the meaning of “would run and return.” Furthermore we find in their words (Sanh. 108b, according to Aruch) בזק used as an expression of scattering: “He scattered (בָּזַק) dust on them and it turned into swords,” meaning he scattered, and so in the Mishnah (Eruvin 10:14): “We may scatter (בּוֹזְקִין) salt on the ramp so that they should not slip.” בזק may also be defined as ברק (lightning), which is an expression of searching. End of addendum, not found in (sic) all editions.]
@@ -581,7 +581,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/1:21:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/1:21:2)
 
 
-**יֵלְכוּ.** הָאוֹפַנִּים:
+**יֵלֵכוּ.** הָאוֹפַנִּים:
 
 
 **they would go** Heb. יֵלְכוּ [i.e.,] the wheels.
@@ -737,7 +737,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/2:1:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/2:1:1)
 
 
-**וַיֹּאמֶר אֵלַי בֶּן אָדָם וְגוֹ׳.** בֶּן אָדָם קוֹרֵא לִיחֶזְקֵאל, מִתּוֹךְ שֶׁרָאָה הַמֶּרְכָּבָה הוֹלֵךְ בֵּין עֲלִיָּה וּמִשְׁתַּמֵּשׁ בָּהּ כְּמַלְאָכִים, לוֹמַר: אֵין כָּאן יְלוּד אִשָּׁה אֶלָּא זֶה (וכל זה אי״ש אח״ד הטעים כן לרבינו והנאהו). וְלִי נִרְאֶה, שֶׁלֹּא קְרָאוֹ בֶּן אָדָם אֶלָּא בִּשְׁבִיל שֶׁלֹּא תְּהֵא דַעְתּוֹ רְחָבָה עָלָיו, מִתּוֹךְ שֶׁהָיָה גַּס לִבּוֹ בְּמַרְאֵה הַמֶּרְכָּבָה וּבְמַלְאֲכוֹת עֶלְיוֹנִים סא״א
+**וַיֹּאמֶר אֵלָי בֶּן אָדָם וְגוֹ׳.** בֶּן אָדָם קוֹרֵא לִיחֶזְקֵאל, מִתּוֹךְ שֶׁרָאָה הַמֶּרְכָּבָה הוֹלֵךְ בֵּין עֲלִיָּה וּמִשְׁתַּמֵּשׁ בָּהּ כְּמַלְאָכִים, לוֹמַר: אֵין כָּאן יְלוּד אִשָּׁה אֶלָּא זֶה (וכל זה אי״ש אח״ד הטעים כן לרבינו והנאהו). וְלִי נִרְאֶה, שֶׁלֹּא קְרָאוֹ בֶּן אָדָם אֶלָּא בִּשְׁבִיל שֶׁלֹּא תְּהֵא דַעְתּוֹ רְחָבָה עָלָיו, מִתּוֹךְ שֶׁהָיָה גַּס לִבּוֹ בְּמַרְאֵה הַמֶּרְכָּבָה וּבְמַלְאֲכוֹת עֶלְיוֹנִים סא״א
 
 
 **And He said to me: “Son of man, etc.”** He calls Ezekiel “son of man” because he saw the Celestial Chariot while walking among [the denizens of—Malbim ed.] the heavenly heights and involving himself with it like the angels, as if to say “There is no one here of woman born but this one.” (So did a man explain this to my rabbi, and he [thus] pleased him. I hold, however, that He called him “son of man” only so that he should not become haughty from having become familiar with the Celestial Chariot and with workings of the heavenly beings.This [latter remark] does not appear in other editions.
@@ -793,7 +793,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/2:5:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/2:5:1)
 
 
-**וְהֵמָּה.** שֶׁמָּא **יִשְׁמְעוּ**, שֶׁמָּא **יֶחְדְּלוּ** מִלִּשְׁמֹעַ:
+**וְהֵמָּה.** שֶׁמָּא **יִשְׁמְעוּ**, שֶׁמָּא **יֶחְדָּלוּ** מִלִּשְׁמֹעַ:
 
 
 **And they whether they listen or whether they forbear** from listening.
@@ -804,7 +804,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/2:5:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/2:5:2)
 
 
-**כִּי יָדַעְתִּי כִּי בֵית מְרִי.** הֵם אַנְשֵׁי קִנְתּוּרִין, אֶלָּא שֶׁאֲנִי חָפֵץ שֶׁיֵּדְעוּ לְעֵת פֻּרְעָנוּתָם **כִּי נָבִיא הָיָה בְתוֹכָם** שֶׁהוֹכִיחָם, וְלֹא שָׁמְעוּ:
+כִּי יָדַעְתִּי **כִּי בֵית מְרִי.** הֵם אַנְשֵׁי קִנְתּוּרִין, אֶלָּא שֶׁאֲנִי חָפֵץ שֶׁיֵּדְעוּ לְעֵת פֻּרְעָנוּתָם **כִּי נָבִיא הָיָה בְתוֹכָם** שֶׁהוֹכִיחָם, וְלֹא שָׁמְעוּ:
 
 
 **for they are a rebellious house** They are remonstrative people, but I want them to know at the time of their retribution that a prophet had been in their midst who reproved them, and they did not heed.
@@ -898,7 +898,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/2:8:4](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/2:8:4)
 
 
-**אֶת אֲשֶׁר אֲנִי נוֹתֵן אֵלֶיךָ.** מַה הִיא הַנְּתִינָה? הִיא ״מְגִלַּת הַסֵּפֶר״ (יחזקאל ב:ט):
+**אֵת אֲשֶׁר אֲנִי נוֹתֵן אֵלֶיךָ.** מַה הִיא הַנְּתִינָה? הִיא ״מְגִלַּת הַסֵּפֶר״ (יחזקאל ב:ט):
 
 
 **what I give you** What is the giving? It is the scroll of the book.
@@ -1107,7 +1107,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/3:14:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/3:14:2)
 
 
-**וְיַד ה׳ עָלַי חֲזָקָה.** אָכְפּוֹ וְכֹחוֹ, לְהוֹלִיכֵנִי עַל כָּרְחִי:
+**וְיַד ה׳ עָלַי חָזָקָה.** אָכְפּוֹ וְכֹחוֹ, לְהוֹלִיכֵנִי עַל כָּרְחִי:
 
 
 **and the hand of the Lord became strong upon me** His coercion and His strength to lead me against my will.
@@ -1352,7 +1352,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/4:4:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/4:4:1)
 
 
-**עַל צִדְּךָ הַשְּׂמָאלִי.** לִסְבּוֹל צַעַר וְיִסּוּרִין, מִנְיַן יָמִים כְּמִנְיַן שָׁנִים אֲשֶׁר הֱצִיקַתְנִי רוּחִי כִּבְיָכוֹל עַל שֶׁהִכְעִיסוּ לְפָנַי, וּתְכַפֵּר עַל **עֲוֹנָם**, אַחֲרֵי אֲשֶׁר קָשֶׁה בְּעֵינֶיךָ הַפֻּרְעָנוּת שֶׁאֲנִי אוֹמֵר לְהָבִיא עֲלֵיהֶם:
+**עַל צִדְּךָ הַשְּׂמָאלִי.** לִסְבּוֹל צַעַר וְיִסּוּרִין, מִנְיַן יָמִים כְּמִנְיַן שָׁנִים אֲשֶׁר הֱצִיקַתְנִי רוּחִי כִּבְיָכוֹל עַל שֶׁהִכְעִיסוּ לְפָנַי, וּתְכַפֵּר עַל **עֲוֺנָם**, אַחֲרֵי אֲשֶׁר קָשֶׁה בְּעֵינֶיךָ הַפֻּרְעָנוּת שֶׁאֲנִי אוֹמֵר לְהָבִיא עֲלֵיהֶם:
 
 
 **on your left side** to bear the pain and torture [over] the number of days corresponding to the number of years that My spirit oppressed Me, so to speak, because they provoked Me, and you will atone for their iniquity since the retribution that I say I will bring upon them is painful to you.
@@ -1366,7 +1366,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/4:5:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/4:5:1)
 
 
-**נָתַתִּי לְךָ אֶת שְׁנֵי עֲוֹנָם וגו׳.** הֲקִלּוֹתִי עָלֶיךָ לְקַבֵּל אֶת צַעַר שֶׁסָּבַלְתִּי אֲנִי לְמִנְיַן שָׁנִים שֶׁחָטְאוּ לְפָנַי, הֲפַכְתִּים לְךָ לְמִנְיַן יָמִים. (לישנא אחרינא: **שְׁנֵי** כְּמוֹ שְׁנַיִם, וְכֵן תִּרְגֵּם יוֹנָתָן: ״וַאֲנָא יְהָבִית לָךְ עַל חַד תְּרֵין בְּחוֹבֵיהוֹן״ סא״א):
+**נָתַתִּי לְךָ אֶת שְׁנֵי עֲוֺנָם וגו׳.** הֲקִלּוֹתִי עָלֶיךָ לְקַבֵּל אֶת צַעַר שֶׁסָּבַלְתִּי אֲנִי לְמִנְיַן שָׁנִים שֶׁחָטְאוּ לְפָנַי, הֲפַכְתִּים לְךָ לְמִנְיַן יָמִים. (לישנא אחרינא: **שְׁנֵי** כְּמוֹ שְׁנַיִם, וְכֵן תִּרְגֵּם יוֹנָתָן: ״וַאֲנָא יְהָבִית לָךְ עַל חַד תְּרֵין בְּחוֹבֵיהוֹן״ סא״א):
 
 
 **I have given you the years of their iniquity, etc.** I have made it easier for you to tolerate the pain that I Myself suffered for the number of the years that they sinned before Me: for you I converted it to that number in days. [Another explanation: שְּׁנֵי is like שְׁנַיִם, two, and so did Jonathan render: Now I have given you twice as much as their iniquity. This does not appear in other editions].
@@ -1391,7 +1391,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/4:6:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/4:6:1)
 
 
-**עֲוֹן בֵּית יְהוּדָה אַרְבָּעִים יוֹם.** מְלַמֵּד שֶׁחָטְאוּ בֵּית יְהוּדָה מִשֶּׁגָּלוּ עֲשֶׂרֶת הַשְּׁבָטִים עַד שֶׁחָרְבָה יְרוּשָׁלַיִם אַרְבָּעִים שָׁנָה: עֶשְׂרִים וּשׁתַּיִם שֶׁל מְנַשֶּׁה, שֶׁכָּתוּב בּוֹ ״כְּכֹל אֲשֶׁר עָשָׂה אַחְאָב״ (מלכים ב כא:ג), וְאַחְאָב מָלַךְ עֶשְׂרִים וּשְׁתַּיִם, וּשְׁתַּיִם דְּאָמוֹן, וְאַחַת עֶשְׂרֵה דִּיהוֹיָקִים, וּנְבוּאָה זוֹ נֶאֶמְרָה לִיחֶזְקֵאל בַּשָּׁנָה הַחֲמִישִׁית לְצִדְקִיָּהוּ הֲרֵי אַרְבָּעִים; סַךְ כֻּלָּם אַרְבַּע מֵאוֹת וּשְׁלֹשִׁים, וְאַחַר הַנְּבוּאָה הַזֹּאת שָׁהוּ שֵׁשׁ שָׁנִים, הֲרֵי שְׁמוֹנָה יוֹבְלוֹת וּשְׁלֹשִׁים וְשֵׁשׁ שָׁנָה; בִּשְׁמוֹנָה יוֹבְלוֹת שְׁמוֹנָה שְׁבוּעֵי שְׁמִטּוֹת, הֲרֵי חֲמִשִּׁים וְשֵׁשׁ שְׁנוֹת שְׁמִטָּה, וּשְׁמוֹנָה שְׁנוֹת יוֹבֵל, הֲרֵי שִׁשִּׁים וְאַרְבַּע; וּבִשְׁלֹשִׁים וְשֵׁשׁ שָׁנָה יֵשׁ חָמֵשׁ שְׁנוֹת שְׁמִטָּה, הֲרֵי שִׁשִּׁים וָתֵשַׁע שְׁמִטּוֹת; וּשְׁנַת הַיּוֹבֵל הָאַחֲרוֹן נֶחְשְׁבָה לָהֶם לְעָוֹן, שֶׁהֲרֵי בַּעֲוֹנָם גָּלוּ מִמֶּנָּה; הֲרֵי שִׁבְעִים שָׁנָה מְקֻדָּשִׁים שֶׁל שְׁמִטָּה שֶׁלֹּא שִׁמְּטוּם יִשְׂרָאֵל, לְפִיכָךְ גָּלוּ שִׁבְעִים שָׁנָה, לְקַיֵּם ״אָז תִּרְצֶה אֶת שַׁבְּתוֹתֶיהָ״ (ויקרא כו:לד), וְהוּא שֶׁכָּתוּב בְּסוֹף דִּבְרֵי הַיָּמִים ״לְמַלֹּאות דְּבַר ה׳ בְּפִי יִרְמְיָהוּ עַד רָצְתָה הָאָרֶץ אֶת שַׁבְּתוֹתֶיהָ כָּל יְמֵי הָשַּׁמָּה שָׁבָתָה לְמַלֹּאות שִׁבְעִים שָׁנָה״ (דברי הימים ב לו:כא):
+**עֲוֺן בֵּית יְהוּדָה אַרְבָּעִים יוֹם.** מְלַמֵּד שֶׁחָטְאוּ בֵּית יְהוּדָה מִשֶּׁגָּלוּ עֲשֶׂרֶת הַשְּׁבָטִים עַד שֶׁחָרְבָה יְרוּשָׁלַיִם אַרְבָּעִים שָׁנָה: עֶשְׂרִים וּשׁתַּיִם שֶׁל מְנַשֶּׁה, שֶׁכָּתוּב בּוֹ ״כְּכֹל אֲשֶׁר עָשָׂה אַחְאָב״ (מלכים ב כא:ג), וְאַחְאָב מָלַךְ עֶשְׂרִים וּשְׁתַּיִם, וּשְׁתַּיִם דְּאָמוֹן, וְאַחַת עֶשְׂרֵה דִּיהוֹיָקִים, וּנְבוּאָה זוֹ נֶאֶמְרָה לִיחֶזְקֵאל בַּשָּׁנָה הַחֲמִישִׁית לְצִדְקִיָּהוּ הֲרֵי אַרְבָּעִים; סַךְ כֻּלָּם אַרְבַּע מֵאוֹת וּשְׁלֹשִׁים, וְאַחַר הַנְּבוּאָה הַזֹּאת שָׁהוּ שֵׁשׁ שָׁנִים, הֲרֵי שְׁמוֹנָה יוֹבְלוֹת וּשְׁלֹשִׁים וְשֵׁשׁ שָׁנָה; בִּשְׁמוֹנָה יוֹבְלוֹת שְׁמוֹנָה שְׁבוּעֵי שְׁמִטּוֹת, הֲרֵי חֲמִשִּׁים וְשֵׁשׁ שְׁנוֹת שְׁמִטָּה, וּשְׁמוֹנָה שְׁנוֹת יוֹבֵל, הֲרֵי שִׁשִּׁים וְאַרְבַּע; וּבִשְׁלֹשִׁים וְשֵׁשׁ שָׁנָה יֵשׁ חָמֵשׁ שְׁנוֹת שְׁמִטָּה, הֲרֵי שִׁשִּׁים וָתֵשַׁע שְׁמִטּוֹת; וּשְׁנַת הַיּוֹבֵל הָאַחֲרוֹן נֶחְשְׁבָה לָהֶם לְעָוֹן, שֶׁהֲרֵי בַּעֲוֹנָם גָּלוּ מִמֶּנָּה; הֲרֵי שִׁבְעִים שָׁנָה מְקֻדָּשִׁים שֶׁל שְׁמִטָּה שֶׁלֹּא שִׁמְּטוּם יִשְׂרָאֵל, לְפִיכָךְ גָּלוּ שִׁבְעִים שָׁנָה, לְקַיֵּם ״אָז תִּרְצֶה אֶת שַׁבְּתוֹתֶיהָ״ (ויקרא כו:לד), וְהוּא שֶׁכָּתוּב בְּסוֹף דִּבְרֵי הַיָּמִים ״לְמַלֹּאות דְּבַר ה׳ בְּפִי יִרְמְיָהוּ עַד רָצְתָה הָאָרֶץ אֶת שַׁבְּתוֹתֶיהָ כָּל יְמֵי הָשַּׁמָּה שָׁבָתָה לְמַלֹּאות שִׁבְעִים שָׁנָה״ (דברי הימים ב לו:כא):
 
 
 **the iniquity of the house of Judah forty days** This teaches us that the house of Judah sinned, from the time that the ten tribes were exiled until Jerusalem was destroyed, forty years: 22 of Manasseh, about whom it is written (II Kings 21:3): “as Ahab...had made,” and Ahab had reigned 22 years; two of Ammon and 11 of Jehoiakim, and this prophecy was transmitted to Ezekiel in the fifth year of Zedekiah. This totals 40 years. The grand total is four hundred and thirty [years]. After this prophecy, they remained yet six years, equaling 8 jubilees and 36 years. In 8 jubilees [there] are 8 cycles of Sabbatical years, equaling 56 Sabbatical years, totaling 64 [hallowed years]. In 36 years, there are 5 Sabbatical years, totaling 69 land-release years, and the final jubilee year is accounted to them as an iniquity because they were exiled from it [the land] because of their iniquity, totaling 70 hallowed years of land release, which Israel did not observe. Therefore, they were exiled 70 years to fulfill (Lev. 26:34): “Then the land will appease its Sabbaths.” That is what is written at the end of Chronicles (II 36:21): “To fulfill the word of the Lord [that was] in the mouth of Jeremiah, until the land has appeased its Sabbaths, for as long as it lay desolate, it rested, to complete seventy years.”
@@ -1519,7 +1519,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/4:12:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/4:12:1)
 
 
-**וְעֻגַּת שְׂעוֹרִים תֹּאכֲלֶנָּה.** עֲרִיבָתָהּ מְנֻוֶּלֶת כַּעֲרִיבַת שְׂעוֹרִים, וְלֹא נָאָה כַּעֲרִיבַת עֻגַּת חִטִּים:
+**וְעֻגַּת שְׂעוֹרִים תֹּאכְלֶנָּה.** עֲרִיבָתָהּ מְנֻוֶּלֶת כַּעֲרִיבַת שְׂעוֹרִים, וְלֹא נָאָה כַּעֲרִיבַת עֻגַּת חִטִּים:
 
 
 **And as barley cakes you shall eat it** Rolled out in a repulsive manner like the rolling of barley, not nicely like the rolling out of a wheat cake.
@@ -1758,7 +1758,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/5:4:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/5:4:1)
 
 
-**וּמֵהֶם עוֹד תִּקַּח.** מֵאוֹתָם מְתֵי **מְעָט**:
+**וּמֵהֶם עוֹד תִּקָּח.** מֵאוֹתָם מְתֵי מְעָט:
 
 
 **And you shall take more of them** From those few people.
@@ -1869,7 +1869,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/5:8:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/5:8:1)
 
 
-**גַּם אֲנִי.** אַתְּ בָּגַדְתְּ עָלַי, וְ**גַם אֲנִי הִנְנִי עָלַיִךְ**:
+**גַּם אָנִי.** אַתְּ בָּגַדְתְּ עָלַי, וְגַם אֲנִי הִנְנִי עָלַיִךְ:
 
 
 **I too** You betrayed Me, and I too, behold I am upon you.
@@ -1908,7 +1908,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/5:14:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/5:14:1)
 
 
-**וְלְחֶרְפָּה.** דִישְׁטְרוֹיְ״ר בְּלַעַ״ז:
+**וּלְחֶרְפָּה.** דִישְׁטְרוֹיְ״ר בְּלַעַ״ז:
 
 
 **a ruin** Heb. לְחָרְבָּה, destroyer in Old French, to make desolate, destroy.
@@ -1922,7 +1922,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/5:15:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/5:15:1)
 
 
-**וְגִדּוּפָה.** בִּזָּיוֹן:
+**וּגְדוּפָה.** בִּזָּיוֹן:
 
 
 **and a taunt** A disgrace.
@@ -1958,7 +1958,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/5:16:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/5:16:1)
 
 
-**וְרָעָב אוֹסִיף עֲלֵיכֶם.** הוּא רָעָב הַפְּרוּטָה הַכָּלָה מִן הַכִּיס; כָּךְ שָׁמַעְתִּי:
+**וְרָעָב אֹסֵף עֲלֵיכֶם.** הוּא רָעָב הַפְּרוּטָה הַכָּלָה מִן הַכִּיס; כָּךְ שָׁמַעְתִּי:
 
 
 **and I shall add a famine upon you** This is the famine of the penny depleted from the pocket. So I heard.
@@ -2075,7 +2075,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/6:11:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/6:11:1)
 
 
-**וְרָקַע.** עִנְיָנוֹ יוֹרֶה עָלָיו: מַכֶּה רַגְלוֹ עַל הָאָרֶץ וּמְרַדֵּד אֶת הַטִּיט, וְהוּא דֶּרֶךְ אָבֵל:
+**וּרְקַע.** עִנְיָנוֹ יוֹרֶה עָלָיו: מַכֶּה רַגְלוֹ עַל הָאָרֶץ וּמְרַדֵּד אֶת הַטִּיט, וְהוּא דֶּרֶךְ אָבֵל:
 
 
 **and stamp** Its context implies that it means to stamp one’s foot on the ground to flatten out the mud, and this is a custom of a mourner.
@@ -2325,7 +2325,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/7:11:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/7:11:2)
 
 
-**לֹא מֵהֶם.** כָּךְ אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא לַמַּשְׁחִית: אֵינְךָ זָקוּק לְהַשְׁאִיר נֶפֶשׁ מֵרִשְׁעֵי יִשְׂרָאֵל, כִּי אֵין טוֹבָה יוֹצֵאת **לֹא מֵהֶם<b> וְלֹא מִבְּנֵיהֶם <b>וְלֹא מֵהֲמוֹנָם**:
+**לֹא מֵהֶם.** כָּךְ אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא לַמַּשְׁחִית: אֵינְךָ זָקוּק לְהַשְׁאִיר נֶפֶשׁ מֵרִשְׁעֵי יִשְׂרָאֵל, כִּי אֵין טוֹבָה יוֹצֵאת **לֹא מֵהֶם** וְלֹא מִבְּנֵיהֶם **וְלֹא מֵהֲמוֹנָם**:
 
 
 **neither from them** So said the Holy One, blessed be He, to the Destroyer: You are not required to spare a soul [from the wicked of Israel], for no good will come from them or from their children or from their multitude.
@@ -2397,7 +2397,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/7:13:4](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/7:13:4)
 
 
-**וְאִישׁ בַּעֲוֹנוֹ חַיָּתוֹ.** כָּל אֶחָד מֵהֶם חַיָּתוֹ וְנַפְשׁוֹ דְּבוּקָה בַּעֲוֹנוֹ:
+**וְאִישׁ בַּעֲוֺנוֹ חַיָּתוֹ.** כָּל אֶחָד מֵהֶם חַיָּתוֹ וְנַפְשׁוֹ דְּבוּקָה בַּעֲוֹנוֹ:
 
 
 **and each man’s soul is in his iniquity** The life and soul of every one of them is attached to his iniquity.
@@ -2422,7 +2422,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/7:14:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/7:14:1)
 
 
-**תָּקְעוּ בַתָּקוֹעַ.** כְּשֶׁיָּבֹא עֲלֵיהֶם הַצַּר הֵכִינוּ עַצְמָם לַמִּלְחָמָה, וְאֵין יוֹצֵא **לְהִלָּחֵם**:
+**תָּקְעוּ בַתָּקוֹעַ.** כְּשֶׁיָּבֹא עֲלֵיהֶם הַצַּר הֵכִינוּ עַצְמָם לַמִּלְחָמָה, וְאֵין יוֹצֵא לְהִלָּחֵם:
 
 
 **They sound the shofar** When the enemy comes upon them, they prepare themselves for war, but no one will go out to fight.
@@ -2436,7 +2436,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/7:16:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/7:16:1)
 
 
-**כְּיוֹנֵי הַגֵּאָיוֹת.** דֶּרֶךְ הַיּוֹנִים לְהִקָּבֵץ בַּגֵּאָיוֹת וְהוֹמוֹת שָׁם; וְהָיוּ הוֹמִים אֶל הֶהָרִים אֲשֶׁר יָנוּסוּ שָׁם **אִישׁ בַּעֲוֹנוֹ**, **כְּיוֹנֵי הַגֵּאָיוֹת** אֲשֶׁר **כֻּלָּם הֹמוֹת**:
+**כְּיוֹנֵי הַגֵּאָיוֹת.** דֶּרֶךְ הַיּוֹנִים לְהִקָּבֵץ בַּגֵּאָיוֹת וְהוֹמוֹת שָׁם; וְהָיוּ הוֹמִים אֶל הֶהָרִים אֲשֶׁר יָנוּסוּ שָׁם **אִישׁ בַּעֲוֺנוֹ**, **כְּיוֹנֵי הַגֵּאָיוֹת** אֲשֶׁר **כֻּלָּם הֹמוֹת**:
 
 
 **like the doves of the valleys** It is customary for doves to congregate in the valleys and moan there. They [the survivors] will moan on the mountains, where they will flee, each one for his iniquity, like the doves of the valleys, which all moan.
@@ -2478,7 +2478,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/7:20:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/7:20:1)
 
 
-**וְצְבִי עֶדְיוֹ.** שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא אֲשֶׁר **לְגָאוֹן שָׂמָהוּ** לָהֶם, הוּא בֵּית הַמִּקְדָּשׁ שֶׁנִּקְרָא גְּאוֹן עֻזָּם, כְּמָה שֶׁנֶּאֱמַר ״הִנְנִי מְחַלֵּל אֶת מִקְדָּשִׁי גְּאוֹן עֻזְּכֶם״ (יחזקאל כד:כא), הֵם **גִּלּוּלֵי תוֹעֲבוֹת עָשׂוּ בוֹ עַל כֵּן וְגוֹ׳**:
+**וּצְבִי עֶדְיוֹ.** שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא אֲשֶׁר **לְגָאוֹן שָׂמָהוּ** לָהֶם, הוּא בֵּית הַמִּקְדָּשׁ שֶׁנִּקְרָא גְּאוֹן עֻזָּם, כְּמָה שֶׁנֶּאֱמַר ״הִנְנִי מְחַלֵּל אֶת מִקְדָּשִׁי גְּאוֹן עֻזְּכֶם״ (יחזקאל כד:כא), הֵם גִּלּוּלֵי תוֹעֲבוֹת עָשׂוּ בוֹ עַל כֵּן וְגוֹ׳:
 
 
 **And the beauty of His adornment** of the Holy One, blessed be He, that He made for their pride. This is the Temple, called the pride of their might, as it is said (24:21): “Behold I profane My sanctuary, the pride of Your might.” They made in it the images of their abominations, therefore, etc.
@@ -3081,7 +3081,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/9:5:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/9:5:1)
 
 
-**וְלָאֵלֶּה אָמַר בְּאָזְנַי.** לְשֵׁשֶׁת הַמְּחַבְּלִים:
+**וּלְאֵלֶּה אָמַר בְּאָזְנַי.** לְשֵׁשֶׁת הַמְּחַבְּלִים:
 
 
 **And to these, He said in my ears** To these six destroyers.
@@ -3109,7 +3109,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/9:8:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/9:8:1)
 
 
-**וְנֵאשֲׁאַר אֲנִי.** וְנִשְׁאַרְתִּי אֲנִי:
+**וְנֵאשְׁאַר אֲנִי.** וְנִשְׁאַרְתִּי אֲנִי:
 
 
 **that I remained** Heb. וְנֵאשֲּׁאַר, and I remained.
@@ -3154,7 +3154,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/10:2:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/10:2:1)
 
 
-**בֵּינוֹת לַגַּלְגַּל.** בֵּין הָאוֹפַנִּים. כָּל מָקוֹם שֶׁנֶּאֱמַר וַיֹּאמֶר... וַיֹּאמֶר אֵינוֹ אֶלָּא לִדְרֹשׁ: הַקָּדוֹשׁ בָּרוּךְ הוּא אָמַר לְגַבְרִיאֵל, וְהוּא בִּקֵּשׁ מִן הַכְּרוּב לְתִתָּם לוֹ, כְּדֵי שֶׁיִּצְטַנְּנוּ הַגֶּחָלִים וְתֵקַל הַגְּזֵרָה (איכה רבה א:מא); וְכֵן הוּא מְפֹרָשׁ בָּעִנְיָן **וַיִּשָּׂא וַיִּתֵּן אֶל חָפְנֵי לְבֻשׁ הַבַּדִּים**
+**בֵּינוֹת לַגַּלְגַּל.** בֵּין הָאוֹפַנִּים. כָּל מָקוֹם שֶׁנֶּאֱמַר וַיֹּאמֶר… וַיֹּאמֶר אֵינוֹ אֶלָּא לִדְרֹשׁ: הַקָּדוֹשׁ בָּרוּךְ הוּא אָמַר לְגַבְרִיאֵל, וְהוּא בִּקֵּשׁ מִן הַכְּרוּב לְתִתָּם לוֹ, כְּדֵי שֶׁיִּצְטַנְּנוּ הַגֶּחָלִים וְתֵקַל הַגְּזֵרָה (איכה רבה א:מא); וְכֵן הוּא מְפֹרָשׁ בָּעִנְיָן **וַיִּשָּׂא וַיִּתֵּן אֶל חָפְנֵי לְבֻשׁ הַבַּדִּים**:
 
 
 **between the wheels** Heb. (בֵּינוֹת לַגַלְגַל) [lit. between the wheel.] Wherever it says, “And he said...and he said,” it is meant only to be expounded upon. The Holy One, blessed be He, told Gabriel [to take the coals], but he [Gabriel] asked the cherub to [take them first and then] give them to him so that the coals would cool and the decree would be mitigated. And this is clearly stated in the chapter (verse 7): “and he picked up [the fire] and gave [it] into the hands of the one clothed in linen.”
@@ -3282,7 +3282,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/10:13:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/10:13:2)
 
 
-**קוֹרֵא הַגַּלְגַּל.** לָהֶם נִקְרָא שֵׁם גַּלְגַּל:
+**קוֹרָא הַגַּלְגַּל.** לָהֶם נִקְרָא שֵׁם גַּלְגַּל:
 
 
 **was called hagalgal** to them was called the name “galgal.”
@@ -3661,7 +3661,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/12:3:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/12:3:2)
 
 
-**וְגָלֵה יוֹמָם.** מִיּוֹם אֶל יוֹם, שְׁנַיִם שְׁלֹשָׁה יָמִים, נְהוֹג בְּעַצְמְךָ כְּאָדָם הַמֵּכִין צְעָדָיו לְגָלוּת, שֶׁיִּרְאוּ בְּנֵי הַגּוֹלָה וְיִשְׁאֲלוּ: מַה מַּעֲשֶׂיךָ? וְאַתָּה תַּגִּיד לָהֶם: שֶׁסִּימָן הוּא לְצִדְקִיָּהוּ וְעַמּוֹ; וְיִשְׁלְחוּ אֵלֵיהֶם אֵלּוּ אֶת שְׁלוּחֵיהֶם, וְיוֹדִיעוּ לַאֲחֵיהֶם וּקְרוֹבֵיהֶם אֲשֶׁר שָׁם כְּכָל אֲשֶׁר יִשְׁמְעוּ מִפִּיךָ. וְכֵן כָּל ׳יוֹמָם׳ שֶׁבַּמִּקְרָא לְשׁוֹן ׳יוֹם יוֹם׳ הוּא, דָּבָר הַנּוֹהֵג יָמִים רַבִּים, כָּךְ שָׁמַעְתִּי מִשְּׁמוֹ שֶׁל רַבִּי מְנַחֵם, וֶאֱמֶת דְּבָרָיו:
+**וּגְלֵה יוֹמָם.** מִיּוֹם אֶל יוֹם, שְׁנַיִם שְׁלֹשָׁה יָמִים, נְהוֹג בְּעַצְמְךָ כְּאָדָם הַמֵּכִין צְעָדָיו לְגָלוּת, שֶׁיִּרְאוּ בְּנֵי הַגּוֹלָה וְיִשְׁאֲלוּ: מַה מַּעֲשֶׂיךָ? וְאַתָּה תַּגִּיד לָהֶם: שֶׁסִּימָן הוּא לְצִדְקִיָּהוּ וְעַמּוֹ; וְיִשְׁלְחוּ אֵלֵיהֶם אֵלּוּ אֶת שְׁלוּחֵיהֶם, וְיוֹדִיעוּ לַאֲחֵיהֶם וּקְרוֹבֵיהֶם אֲשֶׁר שָׁם כְּכָל אֲשֶׁר יִשְׁמְעוּ מִפִּיךָ. וְכֵן כָּל ׳יוֹמָם׳ שֶׁבַּמִּקְרָא לְשׁוֹן ׳יוֹם יוֹם׳ הוּא, דָּבָר הַנּוֹהֵג יָמִים רַבִּים, כָּךְ שָׁמַעְתִּי מִשְּׁמוֹ שֶׁל רַבִּי מְנַחֵם, וֶאֱמֶת דְּבָרָיו:
 
 
 **and go into exile day by day** Heb. יוֹמָם, from day to day, two or three days, behave like a man preparing his steps for exile, so that the people of the exile will see and ask what you are doing, and you shall tell them that it symbolizes Zedekiah and his people [in Jerusalem], and these people will send their messengers and inform their brothers and relatives who are there, according to everything they hear from your mouth. Likewise, every [occurrence of] יוֹמָם in Scripture is an expression denoting “day by day,” something that goes on [continually] for many days. This I heard in the name of Rabbi Menachem, and his words are true.
@@ -4093,7 +4093,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/13:11:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/13:11:2)
 
 
-**אַבְנֵי אֶלְגָּבִישׁ.** אַבְנֵי בָּרָד גְּדוֹלוֹת, וְאוֹמֵר אֲנִי, לְפִי שֶׁהֵם מַזְהִירוֹת כְּכָל אַבְנֵי גָבִישׁ (ברד) הוּא מְדַמֶּה אוֹתָם אֶל גָּבִישׁ, שֶׁהִיא אֶבֶן טוֹבָה, כְּעִנְיָן שֶׁנֶּאֱמַר ״רָאמוֹת וְגָבִישׁ״ (איוב כח:יח). וְרַבּוֹתֵינוּ אָמְרוּ (ברכות נד:): **אֶל גָּבִישׁ** – שֶׁעָמְדוּ בָאֲוִיר עַל גַּב אִישׁ, וְזֶהוּ מֹשֶׁה רַבֵּינוּ (במדבר יב:ג), שֶׁנֶּאֱמַר ״וּמָטָר לֹא נִתַּךְ אָרְצָה״ (שמות ט:לג) – אוֹתָם שֶׁהִתְחִילוּ לִירֵד לֹא הִגִּיעוּ לָאָרֶץ:
+**אַבְנֵי אֶלְגָּבִישׁ.** אַבְנֵי בָּרָד גְּדוֹלוֹת, וְאוֹמֵר אֲנִי, לְפִי שֶׁהֵם מַזְהִירוֹת כְּכָל אַבְנֵי גָבִישׁ (ברד) הוּא מְדַמֶּה אוֹתָם אֶל גָּבִישׁ, שֶׁהִיא אֶבֶן טוֹבָה, כְּעִנְיָן שֶׁנֶּאֱמַר ״רָאמוֹת וְגָבִישׁ״ (איוב כח:יח). וְרַבּוֹתֵינוּ אָמְרוּ (ברכות נד:): **אֶלְגָּבִישׁ** – שֶׁעָמְדוּ בָאֲוִיר עַל גַּב אִישׁ, וְזֶהוּ מֹשֶׁה רַבֵּינוּ (במדבר יב:ג), שֶׁנֶּאֱמַר ״וּמָטָר לֹא נִתַּךְ אָרְצָה״ (שמות ט:לג) – אוֹתָם שֶׁהִתְחִילוּ לִירֵד לֹא הִגִּיעוּ לָאָרֶץ:
 
 
 **gigantic hailstones** Heb. אַבְנֵי אֶלְגָּבִישּׁ, huge hailstones, and I say that because they shine as do all [crystal] hailstones, he likens them to crystal (גָבִישּׁ), which is a precious stone, as in the way that it is stated (Job 28:18): “Coral and crystal (וְגָבִישּׁ).” Our Sages (Ber. 54b) said: [They are called] אֶלְגָבִישּׁ because they [once] stood in the air over a man עַל גַב אִישּׁ, and this is Moses, our teacher, as it is said (Exod. 9: 33): “and rain did not reach the earth” those that started to fall did not reach the earth.
@@ -4146,7 +4146,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/13:18:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/13:18:1)
 
 
-**הוֹי לִמְתַפְּרוֹת כְּסָתוֹת.** קוֹטְרָ״שׁ בְּלַעַ״ז. כְּמִין כְּסָתוֹת קְטַנּוֹת הָיוּ תּוֹפְרוֹת וְתוֹלוֹת לַנִּשְׁאָלִים אֲלֵיהֶם עַל **אֲצִילֵי יְדֵיהֶם**, וְקוֹסְמוֹת לָהֶם בְּאוֹתָן כְּסָתוֹת קֶסֶם שְׁקָרִים, וּלְמִי שֶׁהֵם חֲפֵצוֹת אוֹמְרוֹת קֶסֶם טוֹב, וּלְמִי שֶׁרוֹצוֹת אוֹמְרוֹת קֶסֶם רָע:
+**הוֹי לִמְתַפְּרוֹת כְּסָתוֹת.** קוֹטְרָ״שׁ בְּלַעַ״ז. כְּמִין כְּסָתוֹת קְטַנּוֹת הָיוּ תּוֹפְרוֹת וְתוֹלוֹת לַנִּשְׁאָלִים אֲלֵיהֶם עַל **אַצִּילֵי יְדֵיהֶם**, וְקוֹסְמוֹת לָהֶם בְּאוֹתָן כְּסָתוֹת קֶסֶם שְׁקָרִים, וּלְמִי שֶׁהֵם חֲפֵצוֹת אוֹמְרוֹת קֶסֶם טוֹב, וּלְמִי שֶׁרוֹצוֹת אוֹמְרוֹת קֶסֶם רָע:
 
 
 **Woe to those who sew cushions** Heb. לִמְתַפְּרוֹת, coseres(es) in Old French, needle-women; coudre, to sew. They would sew something like small cushions and hang them on the armpits of those consulting them, and they would divine with those cushions with a false divination; and to those whom they wished, they would tell a favorable divination, and to whom they wished, they would tell an unfavorable divination.
@@ -4157,7 +4157,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/13:18:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/13:18:2)
 
 
-**אֲצִילֵי.** אֵיישִׁיל״שׁ בְּלַעַ״ז:
+**אַצִּילֵי.** אֵיישִׁיל״שׁ בְּלַעַ״ז:
 
 
 **armpits** Heb. אַצִילֵי, aisselles in French.
@@ -4179,7 +4179,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/13:18:4](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/13:18:4)
 
 
-**וְעוֹשׂוֹת הַמִּסְפָּחוֹת.** עַל רָאשֵׁי הָאֲנָשִׁים, אַף הֵם לִקְסֹם בָּהֶם; וְלֹא יָדַעְתִּי מַה הֵם, וּמִתּוֹךְ שֶׁנֶּאֱמַר **וְקָרַעְתִּי אֹתָם** אוֹמֵר אֲנִי שֶׁהֵן שֶׁל בֶּגֶד; וְיוֹנָתָן תִּרְגְּמוֹ: ״פַּת כּוּמְרִים״, וְכֵן תִּרְגֵּם ״בָּמוֹת טְלֻאוֹת״ (יחזקאל טז:טז): ״מְחַפְיָין פַּת כּוּמְרִים״:
+**וְעוֹשׂוֹת הַמִּסְפָּחוֹת.** עַל רָאשֵׁי הָאֲנָשִׁים, אַף הֵם לִקְסֹם בָּהֶם; וְלֹא יָדַעְתִּי מַה הֵם, וּמִתּוֹךְ שֶׁנֶּאֱמַר ״וְקָרַעְתִּי אֹתָם״ אוֹמֵר אֲנִי שֶׁהֵן שֶׁל בֶּגֶד; וְיוֹנָתָן תִּרְגְּמוֹ: ״פַּת כּוּמְרִים״, וְכֵן תִּרְגֵּם ״בָּמוֹת טְלֻאוֹת״ (יחזקאל טז:טז): ״מְחַפְיָין פַּת כּוּמְרִים״:
 
 
 **and who make the veils** on the heads of people. They, too, are made to divine with, but I do not know what they are. Since it says (verse 21), “And I shall tear them,” I say that they are of cloth, and Jonathan renders: פַּת כּוּמָרִין, embroidered cloths over the heads of idolatrous statues, and so he renders (16:16): “mounds of striped clothing” בָּמוֹת טְלֻאוֹת covered with פַּת כּוּמָרִין “cloths of idolatrous statues.”
@@ -4376,7 +4376,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/14:4:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/14:4:1)
 
 
-**נַעֲנֵיתִי לוֹ.** שויי״ש רפונדו״ץ בְּלַעַ״ז. אַף עַל פִּי שֶׁהוּא בָּא לְפָנַי **בְּרֹב גִּלּוּלָיו**. כֵּן תִּרְגֵּם יוֹנָתָן:
+**נַעֲנֵיתִי לוֹ.** שויי״ש רפונדו״ץ בְּלַעַ״ז. אַף עַל פִּי שֶׁהוּא בָּא לְפָנַי **בְּרֹב גִּלּוּלָיו.** כֵּן תִּרְגֵּם יוֹנָתָן:
 
 
 **shall respond to him** Heb. נַעֲנֵיתִי, suys reponduz in Old French, I was answered, although he comes before me with his many idols. So did Jonathan render it.
@@ -4498,7 +4498,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/14:8:3](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/14:8:3)
 
 
-**וְהַשִׁמּוֹתִיהוּ.** תַּרְגּוּם יוֹנָתָן ״וַאֲשַׁצְיִנֵיהּ״:
+**וַהֲשִׂמֹתִיהוּ.** תַּרְגּוּם יוֹנָתָן ״וַאֲשַׁצְיִנֵיהּ״:
 
 
 **and I shall make him desolate** Jonathan rendered: and I shall make him [a sign].
@@ -4537,7 +4537,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/14:10:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/14:10:1)
 
 
-**כַּעֲוֹן הַדֹּרֵשׁ כַּעֲוֹן הַנָּבִיא.** ״כְּחוֹב דְּאָתֵי לְמֵילַף וְלָא אֲלִיף כְּחוֹב נְבִיֵּי שִׁקְרָא יְהִי״ (תרגום יונתן):
+**כַּעֲוֺן הַדֹּרֵשׁ כַּעֲוֺן הַנָּבִיא.** ״כְּחוֹב דְּאָתֵי לְמֵילַף וְלָא אֲלִיף כְּחוֹב נְבִיֵּי שִׁקְרָא יְהִי״ (תרגום יונתן):
 
 
 **Like the iniquity of the inquirer, so will be the iniquity of the prophet** Like the iniquity of the one who comes to learn and does not learn, so will be the iniquity of the false prophets.
@@ -4732,7 +4732,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/15:4:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/15:4:1)
 
 
-**הִנֵּה לָאֵשׁ נִתַּן לְאָכְלָה.** אַרְבוֹרִי״ר בְּלַעַ״ז. הִנֵּה שְׁאַלְתִּיךָ עַל הַתָּמִים, וְאֵינוֹ רָאוּי לִכְלוּם, עַתָּה עוֹד אֲנִי מוֹסִיף עַל הַשְּׁאֵלָה: הִנֵּה אִם נִתְּנוּ זְמוֹרָה מִמֶּנּוּ בָּאֵשׁ וְאָכְלָה הָאֵשׁ בִּשְׁנֵי קְצוֹת הֵיקִיפָה עַד כִּי **נָחַר תּוֹכוֹ**:
+**הִנֵּה לָאֵשׁ נִתַּן לְאָכְלָה.** אַרְבוֹרִי״ר בְּלַעַ״ז. הִנֵּה שְׁאַלְתִּיךָ עַל הַתָּמִים, וְאֵינוֹ רָאוּי לִכְלוּם, עַתָּה עוֹד אֲנִי מוֹסִיף עַל הַשְּׁאֵלָה: הִנֵּה אִם נִתְּנוּ זְמוֹרָה מִמֶּנּוּ בָּאֵשׁ וְאָכְלָה הָאֵשׁ בִּשְׁנֵי קְצוֹת הֵיקִיפָה עַד כִּי **נָחָר תּוֹכוֹ**:
 
 
 **Behold, [if] it were given to the fire to be consumed** Adevorer in Old French, to be devoured, consumed. Behold I asked you about a whole one, which is not fit for anything. Now I shall add more to the question: Behold if they put a branch of it into the fire, and the fire consumed it at its two ends of its outer surface until its inside became charred...
@@ -4743,7 +4743,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/15:4:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/15:4:2)
 
 
-**נָחַר.** נִשְׁאַר מִן הָאֵשׁ, בְּרוּאִיר בְּלַעַ״ז; **נָחַר** לְשׁוֹן ״וְעַצְמִי חָרָה מִנִּי חֹרֶב״ (איוב ל:ל). וְיֵשׁ לוֹעֲזִין אֶשָׁארְט בְּלַעַ״ז; וְכֵן ״וַיִּחַר עָלַי אַפּוֹ״ (איוב יט:יא) חִבְּרוֹ מְנַחֵם עִם ״עַצְמִי חָרָה״, **הֲיִצְלַח** עוֹד לִמְלָאכָה?
+**נָחָר.** נִשְׁאַר מִן הָאֵשׁ, בְּרוּאִיר בְּלַעַ״ז; **נָחַר** לְשׁוֹן ״וְעַצְמִי חָרָה מִנִּי חֹרֶב״ (איוב ל:ל). וְיֵשׁ לוֹעֲזִין אֶשָׁארְט בְּלַעַ״ז; וְכֵן ״וַיִּחַר עָלַי אַפּוֹ״ (איוב יט:יא) חִבְּרוֹ מְנַחֵם עִם ״עַצְמִי חָרָה״, **הֲיִצְלַח** עוֹד לִמְלָאכָה?
 
 
 **were charred** Heb. נָחָר, blackened from the fire, brouir in French, to blacken, to scorch. נָחָר derives from the same form found in (Job 30:30): “and my bones dried out (חָרָה) from the heat.” Some translate this as e(s)sart in Old French, calcined, burnt to ashes, as [its sense] in Hosea (8:5) and also in (Job 19:11): “He has kindled (וַיַחַר) His wrath against me.” Menachem (p. 93) [however] related it to “my bones dried out.” **is it fit** [Is it] still fit for work?
@@ -4768,7 +4768,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/15:6:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/15:6:1)
 
 
-**כֵּן נָתַתִּי.** אֶת **יְרוּשָׁלִַם** שְׁתֵּי קְצוֹתֶיהָ אָכְלָה הָאֵשׁ, שְׁתֵּי גָלִיּוֹת: כְּשֶׁגָּלָה יְהוֹיָקִים גָּלוּ עִמּוֹ מִזֶּרַע הַמְּלוּכָה וּמִן הַפַּרְתְּמִים, כְּמוֹ שֶׁנֶּאֱמַר בְּדָנִיֵּאל (דניאל א:ג). אַחֲרָיו גָּלָה יְכָנְיָה בְּנוֹ וְהֶחָרָשׁ וְהַמַּסְגֵּר (מלכים ב כד:יד-טו). **וְתוֹכוֹ נָחָר**: צִדְקִיָּהוּ הַנּוֹתָר בָּהּ, כְּבָר גְּזַרְתִּי עָלָיו ״מְלֹא חָפְנֶיךָ גַּחֲלֵי אֵשׁ וּזְרֹק עַל הָעִיר״ (לעיל י:ב):
+**כֵּן נָתַתִּי.** אֶת **יְרוּשָׁלָ͏ִם** שְׁתֵּי קְצוֹתֶיהָ אָכְלָה הָאֵשׁ, שְׁתֵּי גָלִיּוֹת: כְּשֶׁגָּלָה יְהוֹיָקִים גָּלוּ עִמּוֹ מִזֶּרַע הַמְּלוּכָה וּמִן הַפַּרְתְּמִים, כְּמוֹ שֶׁנֶּאֱמַר בְּדָנִיֵּאל (דניאל א:ג). אַחֲרָיו גָּלָה יְכָנְיָה בְּנוֹ וְהֶחָרָשׁ וְהַמַּסְגֵּר (מלכים ב כד:יד-טו). **וְתוֹכוֹ נָחָר**: צִדְקִיָּהוּ הַנּוֹתָר בָּהּ, כְּבָר גְּזַרְתִּי עָלָיו ״מְלֹא חָפְנֶיךָ גַּחֲלֵי אֵשׁ וּזְרֹק עַל הָעִיר״ (לעיל י:ב):
 
 
 **have I placed** Jerusalem. Its two ends were consumed by the fire, [i.e.,] the two exiles: When Jehoiakim was exiled, some of the royal seed and of the nobles were exile with him, as it is said in Daniel (1:3). After him were exiled his son Jeconiah and the craftsmen and the gate sentries. “And its inside was charred” [based on above, verse 4] Concerning Zedekiah, the one who remained therein, I have already decreed (10:2): “and fill your hands with fiery coals...and cast [them] onto the city.”
@@ -5161,7 +5161,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:10:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:10:2)
 
 
-**וָאַנְעֲלֵךְ תָּחַשׁ.** אִיקַאלְצֵייטוֹיִ״י טִיישׁוֹ״ן בְּלַעַ״ז, ״וִיהִיבִית מְסָן דִּיקָר בְּרַגְלִיכוֹן״ (תרגום יונתן):
+**וָאֶנְעֲלֵךְ תָּחַשׁ.** אִיקַאלְצֵייטוֹיִ״י טִיישׁוֹ״ן בְּלַעַ״ז, ״וִיהִיבִית מְסָן דִּיקָר בְּרַגְלִיכוֹן״ (תרגום יונתן):
 
 
 **and I shod you with badger** [Jonathan renders:] And I put shoes of glory on your feet.
@@ -5280,7 +5280,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:13:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:13:2)
 
 
-**סֹלֶת וּדְבַשׁ וָשֶׁמֶן אָכַלְתְּ.** הַמָּן שֶׁהָיָה מִשְׁתַּנֶּה לְכָל הַטְּעָמִים לְסֹלֶת וּדְבַשׁ וָשֶׁמֶן אָכַלְתְּ (השוה תנחומא שמות כה). וּמִדְרָשׁ אַגָּדָה (תנחומא, תרומה ה): שְׁלוֹשָׁה עָשָׂר דְּבָרִים יֵשׁ כָּאן, וּכְנֶגְדָּן אָמַר לָהֶם הַקָּדוֹשׁ בָּרוּךְ הוּא לְהָבִיא שְׁלוֹשָׁה עָשָׂר דְּבָרִים הַמְּנוּיִין בִּתְרוּמַת הַמִּשְׁכָּן, וְאַף עַל פִּי כֵן הוּא פּוֹרֵעַ לָהֶם כְּנֶגְדָּם לֶעָתִיד לָבֹא שְׁלוֹשָׁה עָשָׂר דְּבָרִים: ״וּבָרָא ה׳ עַל מְכוֹן הַר צִיּוֹן וְגוֹ׳ וְסֻכָּה תִּהְיֶה לְצֵל יוֹמָם מֵחֹרֶב מִזֶּרֶם וּמִמָּטָר וְגוֹ׳״ (ישעיה ד:ה-ו):
+**סֹלֶת וּדְבַשׁ וָשֶׁמֶן אָכָלְתְּ.** הַמָּן שֶׁהָיָה מִשְׁתַּנֶּה לְכָל הַטְּעָמִים לְסֹלֶת וּדְבַשׁ וָשֶׁמֶן אָכַלְתְּ (השוה תנחומא שמות כה). וּמִדְרָשׁ אַגָּדָה (תנחומא, תרומה ה): שְׁלוֹשָׁה עָשָׂר דְּבָרִים יֵשׁ כָּאן, וּכְנֶגְדָּן אָמַר לָהֶם הַקָּדוֹשׁ בָּרוּךְ הוּא לְהָבִיא שְׁלוֹשָׁה עָשָׂר דְּבָרִים הַמְּנוּיִין בִּתְרוּמַת הַמִּשְׁכָּן, וְאַף עַל פִּי כֵן הוּא פּוֹרֵעַ לָהֶם כְּנֶגְדָּם לֶעָתִיד לָבֹא שְׁלוֹשָׁה עָשָׂר דְּבָרִים: ״וּבָרָא ה׳ עַל מְכוֹן הַר צִיּוֹן וְגוֹ׳ וְסֻכָּה תִּהְיֶה לְצֵל יוֹמָם מֵחֹרֶב מִזֶּרֶם וּמִמָּטָר וְגוֹ׳״ (ישעיה ד:ה-ו):
 
 
 **fine flour, honey, and oil you ate** The manna, which would change to any flavorto fine flour, honey, and oilyou ate. The Midrash Aggadah (Mid. Song 4:2) [points out that] thirteen items are enumerated here, and corresponding to them, the Holy One, blessed be He, ordered them to bring the thirteen items enumerated in the donation for the Tabernacle (Exod. 25:1-7). Nevertheless, He is destined to repay them in the future with thirteen items (Isa. 4:5f.): “And the Lord shall create over every dwelling of Mount Zion, etc. And a tabernacle shall be for shade by day from the heat, etc., from stream and from rain, etc.”
@@ -5341,7 +5341,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:15:3](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:15:3)
 
 
-**לוֹ יְהִי.** וּמִשֶּׁנִּתְאַוּוּ לְךָ אַתָּה הִפְקַרְתָּ לָהֶם עַצְמְךָ וּלְכָל אֲשֶׁר שָׁאַל זְנוּתֵךְ לוֹ הָיָה, וְיוֹנָתָן תִּרְגֵּם ״וְלָא כָּשֵׁר לִיךְ לְמֶעְבַּד כֵּן״, כְּאִלּוּ הָיָה כְּתִיב לֹא יְהִי, וְכָל מָשָׁל הַזֶּה עַל עֵגֶל הַמִּדְבָּר וְעַל שְׁאָר עֲבוֹדַת כּוֹכָבִים וּמַזָּלוֹת שֶׁעָבְדוּ שִׁבְטוֹ שֶׁל דָּן בַּמִּדְבָּר, כְּמוֹ שֶׁכָּתוּב ״כָּל הַנֶּחֱשָׁלִים אַחֲרֶיךָ״ (דברים כה:יח), וּמָצִינוּ בַּפְּסִיקְתָּא זֶה שִׁבְטוֹ שֶׁל דָּן שֶׁהֶעָנָן פּוֹלְטוֹ, שֶׁהָיוּ כֻּלָּם עוֹבְדֵי עֲבוֹדַת כּוֹכָבִים וּמַזָּלוֹת:
+**לוֹ יֶהִי.** וּמִשֶּׁנִּתְאַוּוּ לְךָ אַתָּה הִפְקַרְתָּ לָהֶם עַצְמְךָ וּלְכָל אֲשֶׁר שָׁאַל זְנוּתֵךְ לוֹ הָיָה, וְיוֹנָתָן תִּרְגֵּם ״וְלָא כָּשֵׁר לִיךְ לְמֶעְבַּד כֵּן״, כְּאִלּוּ הָיָה כְּתִיב לֹא יְהִי, וְכָל מָשָׁל הַזֶּה עַל עֵגֶל הַמִּדְבָּר וְעַל שְׁאָר עֲבוֹדַת כּוֹכָבִים וּמַזָּלוֹת שֶׁעָבְדוּ שִׁבְטוֹ שֶׁל דָּן בַּמִּדְבָּר, כְּמוֹ שֶׁכָּתוּב ״כָּל הַנֶּחֱשָׁלִים אַחֲרֶיךָ״ (דברים כה:יח), וּמָצִינוּ בַּפְּסִיקְתָּא זֶה שִׁבְטוֹ שֶׁל דָּן שֶׁהֶעָנָן פּוֹלְטוֹ, שֶׁהָיוּ כֻּלָּם עוֹבְדֵי עֲבוֹדַת כּוֹכָבִים וּמַזָּלוֹת:
 
 
 **to him it would be** And once they desired you, you surrendered yourself to them; and to anyone who requested your harlotry, it would be his. Jonathan renders: and it was not fitting for you to do so, as though it were written לֹא יְהִי. This entire allegory represents the Calf of the desert and the other idolatry that the tribe of Dan worshipped in the desert, as it is written (Deut. 25:18): “all those who trailed after you,” and we find in the Pesikta (d’Rav Kahana p. 27b): This is the tribe of Dan, for the cloud would reject them, because the were all idolators.
@@ -5394,7 +5394,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:19:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:19:1)
 
 
-**וְלַחְמִי אֲשֶׁר נָתַתִּי לָךְ וְגוֹ׳.** יוֹם שֶׁעָשׂוּ אֶת הָעֵגֶל, יָרַד לָהֶם הַמָּן, וְנָתְנוּ מִמֶּנּוּ לִפְנֵי הָעֵגֶל, וְאַף עַל פִּי כֵן **וַיֶּהִי** – בְּיוֹם מָחָר, וְלֹא פָּסַק; וְאַף כֵּן מְפֹרָשׁ בְּסֵפֶר עֶזְרָא (נחמיה ט:יח-כ): ״אַף כִּי עָשׂוּ לָהֶם עֵגֶל מַסֵּכָה וְגוֹ׳ וְאַתָּה בְּרַחֲמֶיךָ הָרַבִּים לֹא עֲזַבְתָּם וְגוֹ׳ וּמָנְךָ לֹא מָנַעְתָּ מִפִּיהֶם״ – כְּדַאי הוּא לִמְנוֹעַ מֵהֶם וְלֹא מָנַעְתָּ; אַף כָּאן **וַיֶּהִי נְאֻם אֲדֹנָי יְהוִה** – הָיָה הַלֶּחֶם, וְלֹא פָּסַק מִלֵּירֵד לְיוֹם מָחָר; כָּךְ דָּרַשׁ רַבִּי תַּנְחוּמָא (תנחומא, כי תשא יד):
+**וְלַחְמִי אֲשֶׁר נָתַתִּי לָךְ וְגוֹ׳.** יוֹם שֶׁעָשׂוּ אֶת הָעֵגֶל, יָרַד לָהֶם הַמָּן, וְנָתְנוּ מִמֶּנּוּ לִפְנֵי הָעֵגֶל, וְאַף עַל פִּי כֵן **וַיֶּהִי** – בְּיוֹם מָחָר, וְלֹא פָּסַק; וְאַף כֵּן מְפֹרָשׁ בְּסֵפֶר עֶזְרָא (נחמיה ט:יח-כ): ״אַף כִּי עָשׂוּ לָהֶם עֵגֶל מַסֵּכָה וְגוֹ׳ וְאַתָּה בְּרַחֲמֶיךָ הָרַבִּים לֹא עֲזַבְתָּם וְגוֹ׳ וּמָנְךָ לֹא מָנַעְתָּ מִפִּיהֶם״ – כְּדַאי הוּא לִמְנוֹעַ מֵהֶם וְלֹא מָנַעְתָּ; אַף כָּאן **וַיֶּהִי נְאֻם ה׳ אֱלֹהִים** – הָיָה הַלֶּחֶם, וְלֹא פָּסַק מִלֵּירֵד לְיוֹם מָחָר; כָּךְ דָּרַשׁ רַבִּי תַּנְחוּמָא (תנחומא, כי תשא יד):
 
 
 **And My bread that I gave you** The day they made the Calf, the manna descended for them and they placed some of it before the Calf. Nonetheless, ‘so it was’ on the morrow, and it did not cease. Even this is delineated in the Book of Ezra (Neh. 9:18ff.): “Even when they made for themselves a molten calf, etc. And You, with Your manifold mercies, did not forsake them, etc., and You did not withhold Your manna from their mouth.” It was fitting to withhold it from them, yet You did not withhold it. [Scripture writes] here, too, “so it was, says the Lord God” the bread was, and it did not stop falling on the next day. So did Rabbi Tanchuma expound on it (Buber, Re’eh 13a).
@@ -5450,7 +5450,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:24:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:24:1)
 
 
-**וַתִּבְנִי לָךְ גֶּב.** גּוֹבַהּ; כְּעֵין בִּימוֹס וּמִזְבֵּחַ. **וַתִּבְנִי** – לְשׁוֹן בִּנְיָן:
+**וַתִּבְנִי לָךְ גָּב.** גּוֹבַהּ; כְּעֵין בִּימוֹס וּמִזְבֵּחַ. **וַתִּבְנִי** – לְשׁוֹן בִּנְיָן:
 
 
 **You built yourself an eminent place** Heb. גָב, a height such as pedestal or an altar. **You built** Heb. וַתִּבְנִי, an expression for building.
@@ -5714,7 +5714,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:36:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:36:2)
 
 
-**וְעַל כָּל גִּלּוּלֵי תוֹעֲבוֹתָיִךְ.** וְיַעַן כָּל גִּלּוּלֵי תוֹעֲבוֹתָיִךְ:
+**וְעַל כָּל גִּלּוּלֵי תוֹעֲבוֹתַיִךְ.** וְיַעַן כָּל גִּלּוּלֵי תוֹעֲבוֹתָיִךְ:
 
 
 **and because of all your abominable idols** Heb. וְעַל.
@@ -5725,7 +5725,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:36:3](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:36:3)
 
 
-**וְכִדְמֵי בָנָיִךְ.** וּבַעֲוֹן דְּמֵי בָנַיִךְ אֶעֱשֶׂה לְךָ הָרָעָה הַזֹּאת הַמְפֹרֶשֶׁת בָּעִנְיָן: **הִנְנִי מְקַבֵּץ וְגוֹ׳**:
+**וְכִדְמֵי בָנַיִךְ.** וּבַעֲוֹן דְּמֵי בָנַיִךְ אֶעֱשֶׂה לְךָ הָרָעָה הַזֹּאת הַמְפֹרֶשֶׁת בָּעִנְיָן: **הִנְנִי מְקַבֵּץ וְגוֹ׳**:
 
 
 **and according to the blood of your sons** And for the iniquity of the blood of your sons I will do to you this evil delineated in the chapter: “Behold I gather etc.”
@@ -5820,7 +5820,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:43:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:43:1)
 
 
-**הֵא.** כְּמוֹ **הִנֵּה**:
+**הֵא.** כְּמוֹ הִנֵּה:
 
 
 **behold** Heb. הֵא, like הִנֵה.
@@ -5831,7 +5831,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:43:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:43:2)
 
 
-**וְלֹא עָשִׂית אֶת הַזִּמָּה.** אַף עַל פִּי שֶׁאֲנִי נָתַתִּי דַּרְכֵּךְ בְּרֹאשֵׁךְ **לֹא עָשִׂית** עֵצָה לָתֵת לֵב **עַל תּוֹעֲבוֹתַיִךְ** לָשׁוּב מֵהֶם, כָּל זִמָּה שֶׁבַּמִּקְרָא לְשׁוֹן עֵצָה הוּא, יֵשׁ לְטוֹבָה וְיֵשׁ לְרָעָה:
+**וְלֹא עָשִׂית אֶת הַזִּמָּה.** אַף עַל פִּי שֶׁאֲנִי נָתַתִּי דַּרְכֵּךְ בְּרֹאשֵׁךְ **לֹא עָשִׂית** עֵצָה לָתֵת לֵב **עַל תּוֹעֲבֹתָיִךְ** לָשׁוּב מֵהֶם, כָּל זִמָּה שֶׁבַּמִּקְרָא לְשׁוֹן עֵצָה הוּא, יֵשׁ לְטוֹבָה וְיֵשׁ לְרָעָה:
 
 
 **yet you did not make a plan** Although I have given your way on your head, you have not made a plan to ponder your abominations, to repent of them. Every זִמָה in Scripture is an expression of counsel, sometimes for good and sometimes for bad.
@@ -5981,7 +5981,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:51:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:51:1)
 
 
-**וַתְּצַדְּקִי אֶת אֲחוֹתֵךְ.** קוֹדֶם שֶׁהִתְעַבְתְּ יוֹתֵר מֵהֶן, הָיוּ נִדּוֹנִים לְחוֹבָה; וְכֵיוָן שֶׁהִרְשַׁעְתְּ יוֹתֵר מֵהֶן, עָשִׂית אוֹתָן כְּצַדְקָנִיּוֹת, וְנָתַתְּ לָהֶן פִּתְחוֹן פֶּה לוֹמַר: יֵשׁ שֶׁהִכְעִיסוּךְ יוֹתֵר מִמֶּנִּי:
+**וַתְּצַדְּקִי אֶת אֲחוֹתַיִךְ.** קוֹדֶם שֶׁהִתְעַבְתְּ יוֹתֵר מֵהֶן, הָיוּ נִדּוֹנִים לְחוֹבָה; וְכֵיוָן שֶׁהִרְשַׁעְתְּ יוֹתֵר מֵהֶן, עָשִׂית אוֹתָן כְּצַדְקָנִיּוֹת, וְנָתַתְּ לָהֶן פִּתְחוֹן פֶּה לוֹמַר: יֵשׁ שֶׁהִכְעִיסוּךְ יוֹתֵר מִמֶּנִּי:
 
 
 **and you vindicated your sisters** Before you had committed abominations more than they, they would have been a judged guilty, but since you became more wicked than they, you made them [appear] as righteous women, and you gave them an excuse to say, “There are some who have provoked you more than I.”
@@ -6020,7 +6020,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:53:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:53:2)
 
 
-**בְּתוֹכָהְנָה.** כְּמוֹ **בְּתוֹכָן**:
+**בְּתוֹכָהְנָה.** כְּמוֹ בְּתוֹכָן:
 
 
 **in their midst** Heb. בְּתוֹכָהְנָה, like בְּתוֹכָן.
@@ -6084,7 +6084,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:57:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:57:1)
 
 
-**כְּמוֹ עֵת חֶרְפַּת בְּנוֹת אֲרָם.** כְּמוֹ שֶׁנִּגְלֵית בְּעֵת מָסַרְתִּי אֶתְכֶם בְּיַד מַלְכֵי אֲרָם, שֶׁבָּאוּ עַל אָחָז: ״בָּעֵת הַהִיא הֵחֵל ה׳ לְהַשְׁלִיחַ בִּיהוּדָה אֶת גְּדוּדֵי אֲרָם וְגוֹ׳״ (מלכים ב טו:לז), וּבְדִבְרֵי הַיָּמִים: ״וַיִּתְּנֵהוּ ה׳... בְּיַד מַלְכֵי אֲרָם וְגוֹ׳״ (דברי הימים ב כח:ה), ״וּפְלִשְׁתִּים פָּשְׁטוּ בְּעָרֵי הַנֶּגֶב וְהַשְּׁפֵלָה וְגוֹ׳״ (דברי הימים ב כח:יח):
+**כְּמוֹ עֵת חֶרְפַּת בְּנוֹת אֲרָם.** כְּמוֹ שֶׁנִּגְלֵית בְּעֵת מָסַרְתִּי אֶתְכֶם בְּיַד מַלְכֵי אֲרָם, שֶׁבָּאוּ עַל אָחָז: ״בָּעֵת הַהִיא הֵחֵל ה׳ לְהַשְׁלִיחַ בִּיהוּדָה אֶת גְּדוּדֵי אֲרָם וְגוֹ׳״ (מלכים ב טו:לז), וּבְדִבְרֵי הַיָּמִים: ״וַיִּתְּנֵהוּ ה׳… בְּיַד מַלְכֵי אֲרָם וְגוֹ׳״ (דברי הימים ב כח:ה), ״וּפְלִשְׁתִּים פָּשְׁטוּ בְּעָרֵי הַנֶּגֶב וְהַשְּׁפֵלָה וְגוֹ׳״ (דברי הימים ב כח:יח):
 
 
 **like [at] the time of the taunt by the daughters of Aram** As it was revealed when I delivered you into the hands of the kings of Aram, who attacked Ahaz (II Kings 15:36); “In those days, the Lord began to incite Rezin the king of Aram. etc.”; (II Chron. 28:5), “And the Lord his God delivered him into the hands of the king of Aram, etc.”; (ibid. verse 18), “And the Philistines invaded the cities of the plain and the south, etc.
@@ -6123,7 +6123,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:59:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:59:1)
 
 
-**וְעָשִׂיתִי אוֹתָךְ וְגוֹ׳.** עָשִׂיתִי לְךָ רָעָה כִּגְמוּלְךָ **אֲשֶׁר עָשִׂיתָ**:
+**וְעָשִׂיתִי אוֹתָךְ וְגוֹ׳.** עָשִׂיתִי לְךָ רָעָה כִּגְמוּלְךָ אֲשֶׁר עָשִׂיתָ:
 
 
 **I have done with you, etc.** I have done evil to you commensurate to your [ungrateful] repayment [to Me] which you made.
@@ -6184,7 +6184,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:61:3](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/16:61:3)
 
 
-**לְבָנוֹת.** לִפְרְוָרִים לְךָ מְשֻׁעְבָּדִים לְךָ, כְּמוֹ **סְדוֹם וּבְנוֹתֶיהָ** ״וְכַפְרָנָהָא״:
+**לְבָנוֹת.** לִפְרְוָרִים לְךָ מְשֻׁעְבָּדִים לְךָ, כְּמוֹ סְדוֹם וּבְנוֹתֶיהָ ״וְכַפְרָנָהָא״:
 
 
 **for daughters** For your suburbs, subordinate to you, like (verse 55): “Sodom and her daughters,” [translated by Jonathan as] וְכָפְרָנָהָא, its suburbs.
@@ -6298,7 +6298,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/17:4:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/17:4:1)
 
 
-**אֶת רֹאשׁ יְנִיקוֹתָיו קָטָף.** גְּדֻלָּתוֹ וּמַלְכוּתוֹ הִשְׁפִּיל. **יְנִיקוֹתָיו** כְּמוֹ עֲנָפָיו:
+**אֵת רֹאשׁ יְנִיקוֹתָיו קָטָף.** גְּדֻלָּתוֹ וּמַלְכוּתוֹ הִשְׁפִּיל. **יְנִיקוֹתָיו** כְּמוֹ עֲנָפָיו:
 
 
 **He plucked the top of its branches** Heb. יְנִיקוֹתָיו. He humbled his [Jehoiakim’s] greatness and his monarchy. יְנִיקוֹתָיו is like עַנָפָיו, its branches.
@@ -6345,7 +6345,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/17:5:3](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/17:5:3)
 
 
-**קַח עַל מַיִם רַבִּים.** נִשְׁרַשׁ עַל מַיִם רַבִּים, כְּלוֹמַר: נָתַן לוֹ גְּדֻלָּה וּמֶמְשָׁלָה עַל סְבִיבָיו:
+**קָח עַל מַיִם רַבִּים.** נִשְׁרַשׁ עַל מַיִם רַבִּים, כְּלוֹמַר: נָתַן לוֹ גְּדֻלָּה וּמֶמְשָׁלָה עַל סְבִיבָיו:
 
 
 **it took [root] beside abundant waters** Heb. קַח, it took. It became rooted beside abundant waters, i.e., he gave him greatness and dominion over his surroundings.
@@ -6447,7 +6447,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/17:6:8](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/17:6:8)
 
 
-**פֹּארוֹת.** עֲנָפִים רַבִּים:
+**פֹּרֹאות.** עֲנָפִים רַבִּים:
 
 
 **boughs** many leaves.
@@ -6472,7 +6472,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/17:7:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/17:7:2)
 
 
-**כָּפְנָה שָׁרֳשֶׁיהָ.** לְשׁוֹן רְעָבוֹן, כְּמוֹ ״לְשֹׁד וּלְכָפָן״ (איוב ה:כב); רָעֲבוּ וְנִתְאַוּוּ שָׁרְשֵׁי הַגֶּפֶן הַזֹּאת לְאוֹתוֹ הַנֶּשֶׁר. וְיֵשׁ מַשְׁמָע **כָּפְנָה** כְּמוֹ ׳אָסְפָה׳, וְהוּא הָפוּךְ; וּבְדִבְרֵי רַבּוֹתֵינוּ יֵשׁ מִן הַדּוֹמֶה לוֹ, שֶׁקּוֹרִין לַאֲסִיפַת הָעָם ״כְּנוּפְיָא״ (שבת ס:); וְכָפְנָה הוּא כְּמוֹ כָּנְפָה; אמאש״א בְּלַעַ״ז:
+**כָּפְנָה שׇׁרָשֶׁיהָ.** לְשׁוֹן רְעָבוֹן, כְּמוֹ ״לְשֹׁד וּלְכָפָן״ (איוב ה:כב); רָעֲבוּ וְנִתְאַוּוּ שָׁרְשֵׁי הַגֶּפֶן הַזֹּאת לְאוֹתוֹ הַנֶּשֶׁר. וְיֵשׁ מַשְׁמָע **כָּפְנָה** כְּמוֹ ׳אָסְפָה׳, וְהוּא הָפוּךְ; וּבְדִבְרֵי רַבּוֹתֵינוּ יֵשׁ מִן הַדּוֹמֶה לוֹ, שֶׁקּוֹרִין לַאֲסִיפַת הָעָם ״כְּנוּפְיָא״ (שבת ס:); וְכָפְנָה הוּא כְּמוֹ כָּנְפָה; אמאש״א בְּלַעַ״ז:
 
 
 **gathered its roots** Heb. כָּפְנָה, an expression of hunger, like (Job 5:22): “plunder and famine (וּלְכָפָן).” The roots of this vine hungered and longed for that eagle. (Addendum:) Some explain כָּפְנָה like אָסְפָה, gathered, the letters [of כָּפְנָה] being transposed. In the words of our Sages there is something similar to it, for they call a public gathering כְּנוּפְיָא. כָּפְנָה is like כָּנְפָה, amassa in French, brought in, gathered.
@@ -6508,7 +6508,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/17:8:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/17:8:1)
 
 
-**אֶל שָׂדֶה טוֹב וְגוֹ׳.** כְּלוֹמַר: וְעַל חִנָּם עָשְׂתָה זֹאת, כִּי **אֶל שָׂדֶה טוֹב הָיְתָה שְׁתוּלָה**:
+**אֶל שָׂדֶה טוֹב וְגוֹ׳.** כְּלוֹמַר: וְעַל חִנָּם עָשְׂתָה זֹאת, כִּי אֶל שָׂדֶה טוֹב הָיְתָה שְׁתוּלָה:
 
 
 **In a good field, etc.** i.e., she did this for no purpose, because she had been planted in a good field.
@@ -6638,7 +6638,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/17:12:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/17:12:2)
 
 
-**וַיִּקַּח אֶת מַלְכָּהּ וְאֶת שָׂרֶיהָ.** הֵם **צַמֶּרֶת הָאֶרֶז**, יְהוֹיָקִים וְשָׂרָיו:
+**וַיִּקַּח אֶת מַלְכָּהּ וְאֶת שָׂרֶיהָ.** הֵם צַמֶּרֶת הָאֶרֶז, יְהוֹיָקִים וְשָׂרָיו:
 
 
 **took away its king and its princes** They are the “lofty top of the cedar,” Jehoiakim and his princes.
@@ -6649,7 +6649,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/17:12:3](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/17:12:3)
 
 
-**בָּבֶלָה.** הִיא **עִיר הָרוֹכְלִים**:
+**בָּבֶלָה.** הִיא עִיר הָרוֹכְלִים:
 
 
 **to Babylon** That is the “city of traffickers.”
@@ -6816,7 +6816,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/17:22:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/17:22:1)
 
 
-**וְנָתַתִּי.** כְּתַרְגּוּמוֹ ״וַאֲקַיְּמִינֵיהּ״. **וְלָקַחְתִּי אֲנִי** אֶת מֶלֶךְ הַמָּשִׁיחַ:
+**וְנָתָתִּי.** כְּתַרְגּוּמוֹ ״וַאֲקַיְּמִינֵיהּ״. **וְלָקַחְתִּי אָנִי** אֶת מֶלֶךְ הַמָּשִׁיחַ:
 
 
 **and I will place [it]** As the Targum renders: and I will establish him. **And I Myself will take** And I will take the King Messiah.
@@ -6969,7 +6969,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/18:6:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/18:6:1)
 
 
-**אֶל הֶהָרִים לֹא אָכַל.** ״בְּטוּרַיָּא לֹא פְּלַח לְטָעֲוָותָא״ (תרגום יונתן), לֶאֱכוֹל זִבְחֵי מֵתִים:
+**אֶל הֶהָרִים לֹא אָכָל.** ״בְּטוּרַיָּא לֹא פְּלַח לְטָעֲוָותָא״ (תרגום יונתן), לֶאֱכוֹל זִבְחֵי מֵתִים:
 
 
 **And does not eat on the mountains** “On the mountains, he did not worship pagan deities” [Targum Jonathan] by eating “sacrifices of the dead.”
@@ -8570,7 +8570,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/21:28:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/21:28:2)
 
 
-**כִּקְסַם שָׁוְא.** וְלֹא יַאֲמִינוּ שֶׁיַּצְלִיחַ; אַךְ בֶּאֱמֶת **שְׁבֻעֵי שְׁבֻעוֹת לָהֶם** – אַרְבָּעִים וְתִשְׁעָה פְּעָמִים קָסַם לָהֶם נְבוּכַדְנֶצַּר (איכה רבה פתיחתא כג), וְכָל הַקְּסָמִים כִּוְּנוּ זֶה כָּזֶה:
+**כִּקְסׇם שָׁוְא.** וְלֹא יַאֲמִינוּ שֶׁיַּצְלִיחַ; אַךְ בֶּאֱמֶת **שְׁבֻעֵי שְׁבֻעוֹת לָהֶם** – אַרְבָּעִים וְתִשְׁעָה פְּעָמִים קָסַם לָהֶם נְבוּכַדְנֶצַּר (איכה רבה פתיחתא כג), וְכָל הַקְּסָמִים כִּוְּנוּ זֶה כָּזֶה:
 
 
 **like a false divination** and they will not believe that he would succeed, but indeed, they had seven sevens. Nebuchadnezzar divined forty-nine times, and all the divinations coincided exactly.
@@ -8581,7 +8581,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/21:28:3](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/21:28:3)
 
 
-**וְהוּא מַזְכִּיר עָוֹן לְהִתָּפֵשׂ.** נְבוּכַדְנֶצַּר בְּקָסְמוֹ אֶת קְסָמָיו הָיָה מַזְכִּיר עֲוֹנוֹת שֶׁבְּיַד יִשְׂרָאֵל, שֶׁהָיוּ מוֹדִיעִים לוֹ עַמּוֹן וּמוֹאָב שְׁכֵנֵיהֶם, שֶׁהָיוּ שׁוֹמְעִין אֶת תּוֹכְחוֹת הַנְּבִיאִים:
+**וְהוּא מַזְכִּיר עָוֺן לְהִתָּפֵשׂ.** נְבוּכַדְנֶצַּר בְּקָסְמוֹ אֶת קְסָמָיו הָיָה מַזְכִּיר עֲוֹנוֹת שֶׁבְּיַד יִשְׂרָאֵל, שֶׁהָיוּ מוֹדִיעִים לוֹ עַמּוֹן וּמוֹאָב שְׁכֵנֵיהֶם, שֶׁהָיוּ שׁוֹמְעִין אֶת תּוֹכְחוֹת הַנְּבִיאִים:
 
 
 **and he brings iniquity to be remembered in order that they be seized** And Nebuchadnezzar, in his divinations, would cause the iniquities that Israel committed to be remembered, for Ammon and Moab, their neighbors, would make them known to him because they would hear the reproofs of the prophets.
@@ -8606,7 +8606,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/21:29:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/21:29:1)
 
 
-**יַעַן הַזְכַּרְכֶם עֲוֹנְכֶם.** שֶׁאַתֶּם מְחַדְּשִׁין עֲבֵירוֹת מִיּוֹם אֶל יוֹם, וַעֲוֹנוֹתֵיכֶם הָרִאשׁוֹנִים נִזְכָּרִים עַל יְדֵיהֶם:
+**יַעַן הַזְכַּרְכֶם עֲוֺנְכֶם.** שֶׁאַתֶּם מְחַדְּשִׁין עֲבֵירוֹת מִיּוֹם אֶל יוֹם, וַעֲוֹנוֹתֵיכֶם הָרִאשׁוֹנִים נִזְכָּרִים עַל יְדֵיהֶם:
 
 
 **Because you have made your iniquity to be remembered** For you commit new transgressions daily, and your earlier iniquities are remembered through them.
@@ -8686,7 +8686,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/21:30:3](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/21:30:3)
 
 
-**בְּעֵת עֲוֹן קֵץ.** בְּעֵת נִתְמַלֵּאת הַסְּאָה, וְהִגִּיעַ הָעָוֹן הָאַחֲרוֹן הַמְמַלֵּא אֶת הַסְּאָה:
+**בְּעֵת עֲוֺן קֵץ.** בְּעֵת נִתְמַלֵּאת הַסְּאָה, וְהִגִּיעַ הָעָוֹן הָאַחֲרוֹן הַמְמַלֵּא אֶת הַסְּאָה:
 
 
 **at the time of the final iniquity** At the time the measure has become filled and the final iniquity, which fills the measure, has arrived.
@@ -8808,7 +8808,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/21:34:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/21:34:2)
 
 
-**לָתֵת אוֹתְךָ אֶל צַוְּארֵי חַלְלֵי רְשָׁעִים.** לְהַטְעוֹתְךָ וְלָתֵת אֶת צַוָּארְךָ כְּצַוְּארֵי חַלְלֵי רְשָׁעִים שֶׁל יִשְׂרָאֵל:
+**לָתֵת אוֹתָךְ אֶל צַוְּארֵי חַלְלֵי רְשָׁעִים.** לְהַטְעוֹתְךָ וְלָתֵת אֶת צַוָּארְךָ כְּצַוְּארֵי חַלְלֵי רְשָׁעִים שֶׁל יִשְׂרָאֵל:
 
 
 **to place you with the necks of the slain of the wicked** To mislead you and to place your neck like the necks of the slain of the wicked of Israel.
@@ -8869,7 +8869,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/21:36:3](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/21:36:3)
 
 
-**חָרָשֵׁי מַשְׁחִית.** ״אוּמָנִין לְקַטְלָא״ (זֶה יָמִים רַבִּים שֶׁפֵּרַשְׁתִּי פָּרָשָׁה זוֹ כַּאֲשֶׁר כָּתוּב לְמַעְלָה עַכְשָׁו אֲנִי רוֹאֶה בְּשִׁנּוּי לְשׁוֹנוֹת שֶׁבָּהּ שֶׁאֵין הַנָּבִיא מְדַבֵּר אֶלָּא עַל הַחֶרֶב), **לָתֵת אוֹתְךָ אֶל צַוְּארֵי חַלְלֵי רְשָׁעִים וְגוֹ׳, הָשֵׁב אֶל תַּעְרָהּ וְגוֹ׳, אָפִיחַ עָלֶיךָ וְגוֹ׳** אֵינוֹ נוֹפֵל לָשׁוֹן זֶה אֶלָּא עַל מַתֶּכֶת, וְכֵן **חָרָשֵׁי מַשְׁחִית**. וְנִרְאֶה בְּעֵינַי שֶׁעַל נְבוּכַדְנֶאצַּר נֶאֶמְרָה נְבוּאָה זוֹ, וְכֵן מַשְׁמַע (לג) **הִנָּבֵא וְאָמַרְתָּ כֹּה אָמַר ה׳ אֱלֹהִים עַל בְּנֵי עַמּוֹן וְעַל חֶרְפָּתָם**, כְּלוֹמַר (שֶׁחֶרְפָּתִי, שֶׁמְּחָרְפִים הָיוּ) עַל נְבוּכַדְנְצַר (בִּשְׁבִיל נְבוּכַדְנֶצַּר) שֶׁבְּנֵי עַמּוֹן מְחָרְפִים אֶת יִשְׂרָאֵל עַל שֶׁהֶחֱרִיבָם נְבוּכַדְנֶצַּר:
+**חָרָשֵׁי מַשְׁחִית.** ״אוּמָנִין לְקַטְלָא״ (זֶה יָמִים רַבִּים שֶׁפֵּרַשְׁתִּי פָּרָשָׁה זוֹ כַּאֲשֶׁר כָּתוּב לְמַעְלָה עַכְשָׁו אֲנִי רוֹאֶה בְּשִׁנּוּי לְשׁוֹנוֹת שֶׁבָּהּ שֶׁאֵין הַנָּבִיא מְדַבֵּר אֶלָּא עַל הַחֶרֶב), **לָתֵת אוֹתָךְ אֶל צַוְּארֵי חַלְלֵי רְשָׁעִים וְגוֹ׳, הָשֵׁב אֶל תַּעְרָהּ וְגוֹ׳, אָפִיחַ עָלַיִךְ וְגוֹ׳** אֵינוֹ נוֹפֵל לָשׁוֹן זֶה אֶלָּא עַל מַתֶּכֶת, וְכֵן **חָרָשֵׁי מַשְׁחִית.** וְנִרְאֶה בְּעֵינַי שֶׁעַל נְבוּכַדְנֶאצַּר נֶאֶמְרָה נְבוּאָה זוֹ, וְכֵן מַשְׁמַע (לג) **הִנָּבֵא וְאָמַרְתָּ כֹּה אָמַר ה׳ אֱלֹהִים עַל בְּנֵי עַמּוֹן וְעַל חֶרְפָּתָם**, כְּלוֹמַר (שֶׁחֶרְפָּתִי, שֶׁמְּחָרְפִים הָיוּ) עַל נְבוּכַדְנְצַר (בִּשְׁבִיל נְבוּכַדְנֶצַּר) שֶׁבְּנֵי עַמּוֹן מְחָרְפִים אֶת יִשְׂרָאֵל עַל שֶׁהֶחֱרִיבָם נְבוּכַדְנֶצַּר:
 
 
 **craftsmen of destruction** Artisans of murder. (Already many days [have passed] since I explained this chapter as it is written above. Now I see from the peculiarities of its wording that the prophet is talking only about the sword.) “To place you upon the necks of the slain of the wicked,” “It has been returned to its sheath, etc.” “I shall blow upon you.” This wording is appropriate only for metal, and so “craftsmen of destruction.” It seems to me that this prophecy was stated about Nebuchadnezzar, and so it appears [from]: “prophesy and say: So said the Lord God concerning the children of Ammon and concerning their taunts.” That is to say, [their taunts] over Nebuchadnezzar [because of Nebuchadnezzar], for the children of Ammon were taunting Israel because Nebuchadnezzar destroyed them.
@@ -8880,7 +8880,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/21:36:4](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/21:36:4)
 
 
-״**חֶרֶב חֶרֶב פְּתוּחָה.** חֶרֶב נְבוּכַדְנֶצַּר הַכְּפוּלָה לָצֵאת בִּשְׁנֵי הַדְּרָכִים, עַל יְרוּשָׁלַיִם וְעַל בְּנֵי עַמּוֹן, כְּמוֹ בַּפָּרָשָׁה הָעֶלְיוֹנָה (לעיל כג). הֲרֵי פֻּרְעָנוּת לִבְנֵי עַמּוֹן:
+**חֶרֶב חֶרֶב פְּתוּחָה.** חֶרֶב נְבוּכַדְנֶצַּר הַכְּפוּלָה לָצֵאת בִּשְׁנֵי הַדְּרָכִים, עַל יְרוּשָׁלַיִם וְעַל בְּנֵי עַמּוֹן, כְּמוֹ בַּפָּרָשָׁה הָעֶלְיוֹנָה (לעיל כג). הֲרֵי פֻּרְעָנוּת לִבְנֵי עַמּוֹן:
 
 
 **Sword, drawn sword** The sword of Nebuchadnezzar, which is double, to go out on the two waysagainst Jerusalem and against the children of Ammon, as is delineated in the above chapterthus the retribution on the children of Ammon. [34]
@@ -8902,7 +8902,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/21:36:6](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/21:36:6)
 
 
-(לה) **הָשֵׁב אֶל תַּעְרָהּ.** כְּלוֹמַר, הָעֵת יָבֹא שֶׁתָּשׁוּב אֶל תַּעְרָהּ וְתְקַבֵּל הַחֶרֶב פּוּרְעָנוּתָהּ מִיַּד מַלְכֵי מָדַי, וְאָז **אָפִיחַ עָלֶיךָ בְּאֵשׁ עֶבְרָתִי וְתִהְיֶה נְתוּנָה בְּיַד** נַפָּחִים שׁוֹטִים שֶׁהֵם **חָרָשֵׁי מַשְׁחִית** שֶׁיָּבוֹאוּ לְחַדֶּדְךָ וּלְמוֹרְטֶךָ כַּאֲשֶׁר מֵאָז וְיַשְׁחִיתוּךָ:
+(לה) **הָשֵׁב אֶל תַּעְרָהּ.** כְּלוֹמַר, הָעֵת יָבֹא שֶׁתָּשׁוּב אֶל תַּעְרָהּ וְתְקַבֵּל הַחֶרֶב פּוּרְעָנוּתָהּ מִיַּד מַלְכֵי מָדַי, וְאָז **אָפִיחַ עָלַיִךְ בְּאֵשׁ עֶבְרָתִי וְתִהְיֶה נְתוּנָה בְּיַד** נַפָּחִים שׁוֹטִים שֶׁהֵם **חָרָשֵׁי מַשְׁחִית** שֶׁיָּבוֹאוּ לְחַדֶּדְךָ וּלְמוֹרְטֶךָ כַּאֲשֶׁר מֵאָז וְיַשְׁחִיתוּךָ:
 
 
 **It has been returned to its sheath** That is to say, the time will come that the sword will return to its sheath, and the sword will receive its own retribution, at the hands of the kings of Media, and then I shall blow upon you with the fire of My wrath, and you shall be delivered into the hands of mad blacksmiths, who are craftsmen of destruction, who will come to sharpen and to furbish it as of yore, and they will destroy you.
@@ -8994,7 +8994,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/22:5:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/22:5:1)
 
 
-**יִתְקַלְּסוּ בָךְ.** וּמָה הִיא הַקַּלָּסוּת? **טְמֵאַת הַשֵּׁם**. זוֹ הִיא שֶׁטִּמֵּאת אֶת שְׁמָהּ; שֶׁהָיוּ נִקְרָאִים ״עַם קָדוֹשׁ״, ״בָּנִים״ לְיוֹצְרָם (דברים יד:א-ב), וְגָרְמוּ עַצְמָם לְהִקָּרְאוֹת ״עַם טְמֵא שְׂפָתַיִם״ (ישעיהו ו:ה):
+**יִתְקַלְּסוּ בָךְ.** וּמָה הִיא הַקַּלָּסוּת? **טְמֵאַת הַשֵּׁם.** זוֹ הִיא שֶׁטִּמֵּאת אֶת שְׁמָהּ; שֶׁהָיוּ נִקְרָאִים ״עַם קָדוֹשׁ״, ״בָּנִים״ לְיוֹצְרָם (דברים יד:א-ב), וְגָרְמוּ עַצְמָם לְהִקָּרְאוֹת ״עַם טְמֵא שְׂפָתַיִם״ (ישעיהו ו:ה):
 
 
 **will gossip about you** And what is the gossip?...**whose name is so befouled** This is she who befouled her name, for they were called a holy people, sons of their Creator, and they caused themselves to be called (Isa. 6:5) “a people of unclean lips.”
@@ -9334,7 +9334,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/23:2:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/23:2:2)
 
 
-**בְּנוֹת אֵם אֶחָת.** שְׁתֵּיהֶן מִכְּנֶסִיָּה אַחַת, נֶחְלְקוּ לִשְׁתַּיִם בִּימֵי רְחַבְעָם (מלכים א יב:א-יט):
+**בְּנוֹת אֵם אַחַת.** שְׁתֵּיהֶן מִכְּנֶסִיָּה אַחַת, נֶחְלְקוּ לִשְׁתַּיִם בִּימֵי רְחַבְעָם (מלכים א יב:א-יט):
 
 
 **the daughters of one mother** The two of them were from one nation, separated into two in the days of Rehoboam.
@@ -9359,7 +9359,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/23:3:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/23:3:2)
 
 
-**וְשָׁם עָשׂוּ.** הַמִּצְרִיִּים אֶת **דַּדֵּי בְּתוּלֵיהֶן**; כְּלוֹמַר: לִמְּדוּם אֶת דַּרְכֵי תּוֹעֲבוֹתָם. **עָשׂוּ** – אִיטִיינִירִי״שׁ בְּלַעַ״ז:
+**וְשָׁם עִשּׂוּ.** הַמִּצְרִיִּים אֶת **דַּדֵּי בְּתוּלֵיהֶן**; כְּלוֹמַר: לִמְּדוּם אֶת דַּרְכֵי תּוֹעֲבוֹתָם. **עִשּׂוּ** – אִיטִיינִירִי״שׁ בְּלַעַ״ז:
 
 
 **and there they squeezed** The Egyptians [squeezed] their virgin breasts; i.e., they taught them the ways of their abominations. [Heb. עִשׂוּ,] eteyn[d]irent in Old French, they squeezed
@@ -9409,7 +9409,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/23:5:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/23:5:1)
 
 
-**וַתַּעְגַּב.** וַתִּתְאַוֶּה; אִישְׁוִויי״ר בְּלַעַ״ז; לָשׁוֹן אַחֵר: דִּישְׁשִׁירִי״ר:
+**וַתֶּעְגַּב.** וַתִּתְאַוֶּה; אִישְׁוִויי״ר בְּלַעַ״ז; לָשׁוֹן אַחֵר: דִּישְׁשִׁירִי״ר:
 
 
 **and she lusted** [Heb. וַתַּעְגַּב,] and she lusted, esvayer or eswaier in Old French, to covet, to lust after. Some editions read: desirer, to desire.
@@ -9573,7 +9573,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/23:14:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/23:14:2)
 
 
-**מְחֻקָּה עַל הַקִּיר וְגוֹ׳ בַּשָּׁשַׁר.** כָּזֹאת לֹא עָשְׂתָה אֲחוֹתָהּ:
+**מְחֻקֶּה עַל הַקִּיר וְגוֹ׳ בַּשָּׁשַׁר.** כָּזֹאת לֹא עָשְׂתָה אֲחוֹתָהּ:
 
 
 **engraved on the wall with types of drawings**, whereas her sister did not do anything like this.
@@ -9756,7 +9756,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/23:21:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/23:21:2)
 
 
-**בַּעֲשׂוֹת.** לְשׁוֹן כְּבִישָׁה:
+**בַּעְשׂוֹת.** לְשׁוֹן כְּבִישָׁה:
 
 
 **were squeezed** [Heb. בַּעֲשׂוֹת,] an expression of pressing.
@@ -9892,7 +9892,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/23:26:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/23:26:1)
 
 
-**אֶת בְּגָדַיִךְ.** בִּגְדֵי כְהֻנָּה:
+**אֶת בְּגָדָיִךְ.** בִּגְדֵי כְהֻנָּה:
 
 
 **of your garments** The priestly raiment.
@@ -11317,7 +11317,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/26:18:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/26:18:1)
 
 
-**הָאִין.** כְּמוֹ הָאִיִּים:
+**הָאִיִּן.** כְּמוֹ הָאִיִּים:
 
 
 **the isles** [Heb. הָאִיִן,] like הָאִייִם.
@@ -11500,7 +11500,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/27:5:3](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/27:5:3)
 
 
-**אֶת כָּל לֻחֹתָיִם.** הַלְּוָחִים שֶׁנַּעֲשֵׂית הָאֳנִיָּה מֵהֶם:
+**אֵת כָּל לֻחֹתָיִם.** הַלְּוָחִים שֶׁנַּעֲשֵׂית הָאֳנִיָּה מֵהֶם:
 
 
 **all the planks** the planks from which the ship was made.
@@ -11901,7 +11901,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/27:17:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/27:17:2)
 
 
-**וּפַנַּג.** רָאִיתִי בְּסֵפֶר יוֹסֵף הַכֹּהֵן (ראה יוסיפון עמוד 155 – 156): עֵץ אֲפַרְסְמוֹן הוּא **פַנַּג**, וְהָיוּ מְצוּיִין בִּירִיחוֹ; וְעַל שֵׁם רֵיחוֹ הַטּוֹב נִקְרֵאת ׳יְרִיחוֹ׳; ׳בַּאלְצְמָא׳ בְּלַעַ״ז:
+**וּפַנַּג.** רָאִיתִי בְּסֵפֶר יוֹסֵף הַכֹּהֵן (ראה יוסיפון עמוד 155 – 156): עֵץ אֲפַרְסְמוֹן הוּא **פַנַּג**, וְהָיוּ מְצוּיִין בִּירִיחוֹ; וְעַל שֵׁם רֵיחוֹ הַטּוֹב נִקְרֵאת ׳יְרִיחוֹ׳; ׳בַּאלְצְמָא׳ בְּלַעַ״ז:
 
 
 **balsam trees** [Heb. פַנַג.] I saw in the book of Joseph the priest (Josiphon vol. 1 p.155 ch. 36 Flusser): The balsam tree is “pannag,” and they were found in Jericho, and because of the fragrant scent, it [the city] is called Jericho [יְרִיחוֹ from רֵיחַ, scent], balsme in Old French.
@@ -12101,7 +12101,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/27:26:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/27:26:1)
 
 
-**בְּמַיִם רַבִּים הֱבִיאוּךְ הַשָּׁטִים אוֹתָךְ.** כְּדֶרֶךְ הָאֳנִיּוֹת הַגְּדוֹלוֹת, שֶׁמַּפְלִיגִין אוֹתָן לְתוֹךְ פִּלְגֵי הַיָּם; וּמִתּוֹךְ שֶׁנִּתְמַלֵּאת וְכָבַדְתְּ, בָּא **רוּחַ הַקָּדִים וּשְׁבָרֵךְ בְּלֵב יַמִּים**. וּלְעִנְיַן דּוּגְמַת הָעִיר: מִתּוֹךְ שֶׁנִּתְמַלֵּאת עֹשֶׁר – גָּבַהּ לִבֵּךְ, וּבָא עָלֶיךָ פֻּרְעָנוּת:
+**בְּמַיִם רַבִּים הֱבִיאוּךְ הַשָּׁטִים אוֹתָךְ.** כְּדֶרֶךְ הָאֳנִיּוֹת הַגְּדוֹלוֹת, שֶׁמַּפְלִיגִין אוֹתָן לְתוֹךְ פִּלְגֵי הַיָּם; וּמִתּוֹךְ שֶׁנִּתְמַלֵּאת וְכָבַדְתְּ, בָּא **רוּחַ הַקָּדִים וּשְׁבָרֵךְ בְּלֵב יַמִּים.** וּלְעִנְיַן דּוּגְמַת הָעִיר: מִתּוֹךְ שֶׁנִּתְמַלֵּאת עֹשֶׁר – גָּבַהּ לִבֵּךְ, וּבָא עָלֶיךָ פֻּרְעָנוּת:
 
 
 **In the abundant waters, your oarsmen brought you** After the manner of the large ships, which they send into the midst of the sea. And since you are filled and are too heavy, the east wind will come and shatter you in the heart of the seas. As regards the comparison of the city: since you were filled with wealth, your heart became haughty, and retribution will befall you.
@@ -12115,7 +12115,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/27:28:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/27:28:1)
 
 
-**מִגְרָשׁוֹת.** כְּמוֹ ״מִגְרְשֵׁי הֶעָרִים״ (במדבר לה:ב):
+**מִגְרֹשׁוֹת.** כְּמוֹ ״מִגְרְשֵׁי הֶעָרִים״ (במדבר לה:ב):
 
 
 **the neighboring districts** [Heb. מִגְרשּׁוֹת,] like (Num. 35:2): “and open land (וּמִגְרָשּׁ) for the cities.”
@@ -12496,7 +12496,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/28:17:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/28:17:1)
 
 
-**שִׁחַת חָכְמָתְךָ עַל יִפְעָתֶךָ.** שֶׁנִּתְגָּאֵיתָ בְּיִפְעָתֶךָ:
+**שִׁחַתָּ חָכְמָתְךָ עַל יִפְעָתֶךָ.** שֶׁנִּתְגָּאֵיתָ בְּיִפְעָתֶךָ:
 
 
 **you destroyed your wisdom with your brightness** for you were proud of your brightness.
@@ -12749,7 +12749,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/29:7:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/29:7:2)
 
 
-**תָּרוֹץ.** תִּרְצֵץ:
+**תֵּרוֹץ.** תִּרְצֵץ:
 
 
 **you splintered** [Heb. תֵּרוֹף] [like] תֵּרָצֵף.
@@ -12838,7 +12838,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/29:16:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/29:16:1)
 
 
-**וְלֹא יִהְיֶה.** מִצְרַיִם **לְבֵית יִשְׂרָאֵל עוֹד לְמִבְטָח הַמַּזְכִּיר** לָהֶם **עָוֹן**, שֶׁאָמַר לָהֶם הַקָּדוֹשׁ בָּרוּךְ הוּא: ״לֹא תֹסִיפוּ לִרְאוֹתָם עוֹד״ (שמות יד:יג):
+**וְלֹא יִהְיֶה.** מִצְרַיִם **לְבֵית יִשְׂרָאֵל עוֹד לְמִבְטָח הַמַּזְכִּיר** לָהֶם **עָוֺן**, שֶׁאָמַר לָהֶם הַקָּדוֹשׁ בָּרוּךְ הוּא: ״לֹא תֹסִיפוּ לִרְאוֹתָם עוֹד״ (שמות יד:יג):
 
 
 **And it will no longer be** [i.e.,] Egypt [will no longer be] a source of confidence for the House of Israel, bringing iniquity into remembrance for them, since the Holy One, blessed be he, said to them (Exod. 14:13): “You shall no longer continue to see them.”
@@ -13161,7 +13161,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/30:18:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/30:18:1)
 
 
-**חָשַׁךְ הַיּוֹם.** יִמָּנַע הָאוֹר:
+**חָשַׂךְ הַיּוֹם.** יִמָּנַע הָאוֹר:
 
 
 **the day will withdraw itself** [Heb. חָשָּׁך הַיוֹם,] the light will be withheld
@@ -13416,7 +13416,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/31:5:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/31:5:2)
 
 
-**פֹארֹתָיו.** זְמוֹרוֹתָיו:
+**פֹארֹתָו.** זְמוֹרוֹתָיו:
 
 
 **its branches** [Heb. פֹארֹתָיו.]
@@ -13427,7 +13427,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/31:5:3](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/31:5:3)
 
 
-**מִמַּיִם רַבִּים בְּשַׁלְּחוֹ פֹּארוֹתָיו.** עַל יְדֵי מַיִם רַבִּים. **בְּשַׁלְּחוֹ פֹּארוֹתָיו.** כְּלוֹמַר: בְּגַדְּלוֹ פֹּארוֹתָיו. וְלָשׁוֹן שִׁלּוּחַ נוֹפֵל בָּהֶן, כְּמוֹ ״וַתְּשַׁלַּח פֹּארוֹת״ (יחזקאל יז:ו):
+**מִמַּיִם רַבִּים בְּשַׁלְּחוֹ פֹארֹתָו.** עַל יְדֵי מַיִם רַבִּים. **בְּשַׁלְּחוֹ פֹארֹתָו.** כְּלוֹמַר: בְּגַדְּלוֹ פֹּארוֹתָיו. וְלָשׁוֹן שִׁלּוּחַ נוֹפֵל בָּהֶן, כְּמוֹ ״וַתְּשַׁלַּח פֹּארוֹת״ (יחזקאל יז:ו):
 
 
 **because of abundant waters when it sent forth** its branches through the abundant waters. When it sent forth its branches, i.e., when it grew its branches, and the expression “sending” applies to them, as “and sent forth branches.”
@@ -13466,7 +13466,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/31:7:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/31:7:1)
 
 
-**וַיִּיף.** לְשׁוֹן יֹפִי:
+**וַיְּיִף.** לְשׁוֹן יֹפִי:
 
 
 **And it became beautiful** [Heb. וַיִיף,] an expression of beauty (יֹפִי).
@@ -14108,7 +14108,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/32:21:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/32:21:2)
 
 
-**אֵילֵי גִבּוֹרִים מִתּוֹךְ שְׁאוֹל.** סָרֵס הַמִּקְרָא וְדָרְשֵׁהוּ **יְדַבְּרוּ לוֹ אֶת עֹזְרָיו**, עִם עוֹזְרָיו, כְּלוֹמַר: גַּם עַל עוֹזְרָיו אִתּוֹ יְדַבְּרוּ אֵילֵי גִבּוֹרִים שֶׁבִּשְׁאוֹל, וְכָכָה יֹאמְרוּ עֲלֵיהֶם: **יָרְדוּ שָׁכְבוּ הָעֲרֵלִים וְגוֹ׳**. כָּל לוֹ וְלִי וְלָהֶם וְלְךָ הַסְּמוּכִין לְדִבּוּר, אֵינָם אֶלָּא לְשׁוֹן עַל:
+**אֵילֵי גִבּוֹרִים מִתּוֹךְ שְׁאוֹל.** סָרֵס הַמִּקְרָא וְדָרְשֵׁהוּ **יְדַבְּרוּ לוֹ אֶת עֹזְרָיו**, עִם עוֹזְרָיו, כְּלוֹמַר: גַּם עַל עוֹזְרָיו אִתּוֹ יְדַבְּרוּ אֵילֵי גִבּוֹרִים שֶׁבִּשְׁאוֹל, וְכָכָה יֹאמְרוּ עֲלֵיהֶם: **יָרְדוּ שָׁכְבוּ הָעֲרֵלִים וְגוֹ׳.** כָּל לוֹ וְלִי וְלָהֶם וְלְךָ הַסְּמוּכִין לְדִבּוּר, אֵינָם אֶלָּא לְשׁוֹן עַל:
 
 
 **the strongest of the mighty men...from the midst of the Grave** Transpose the verse and interpret it: They shall speak of him אֶתעֹזרָיו, with his helpers; i.e., concerning all his helpers with him, too, shall the strongest of the mighty men, who are in the Grave, speak, and they will say about them thus: **the uncircumcised... descended, etc.** Every לָהֶם, לִי, לוֹ, and לְךָ written next to דִבּוּר, speech, means nothing but “about.”
@@ -14211,7 +14211,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/32:27:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/32:27:1)
 
 
-**וְלֹא יִשְׁכְּבוּ.** אֵלֶּה הַנִּזְכָּרִים, עִם **גִּבּוֹרִים** שֶׁמֵּתוּ מִיתַת עַצְמָם, כִּי **נוֹפְלִין/b> וּגְרוּעִים יִהְיוּ <b>מֵעֲרֵלִים אֲשֶׁר** מֵתוּ מִיתַת עַצְמָם וְ**יָרְדוּ בִּכְלֵי מִלְחַמְתָּם שְׁאוֹל**:
+**וְלֹא יִשְׁכְּבוּ.** אֵלֶּה הַנִּזְכָּרִים, עִם **גִּבּוֹרִים** שֶׁמֵּתוּ מִיתַת עַצְמָם, כִּי **נוֹפְלִין** וּגְרוּעִים יִהְיוּ **מֵעֲרֵלִים אֲשֶׁר** מֵתוּ מִיתַת עַצְמָם וְ**יָרְדוּ בִּכְלֵי מִלְחַמְתָּם שְׁאוֹל**:
 
 
 **But they will not lie** These who were mentioned [will not lie] with the mighty who died a natural death, for they will be inferior to and worse than the uncircumcised who died a natural death and descended with their weapons into the Grave.
@@ -14359,7 +14359,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/33:7:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/33:7:1)
 
 
-**צוֹפֶה נְתַתִּיךָ.** כְּאוֹתוֹ הַצּוֹפֶה הַנִּיתָּן לְהַזְהִיר שֶׁלֹּא תֹּאבַד נֶפֶשׁ, כֵּן נְתַתִּיךָ **לְהַזְהִיר** אֶת יִשְׂרָאֵל:
+**צוֹפֶה נְתַתִּיךָ.** כְּאוֹתוֹ הַצּוֹפֶה הַנִּיתָּן לְהַזְהִיר שֶׁלֹּא תֹּאבַד נֶפֶשׁ, כֵּן נְתַתִּיךָ לְהַזְהִיר אֶת יִשְׂרָאֵל:
 
 
 **I have made you a lookout** Like that lookout, who is appointed to give warning so that no soul be lost, so have I appointed you to warn Israel.
@@ -14443,7 +14443,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/33:22:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/33:22:1)
 
 
-**וַיִּפְתַּח אֶת פִּי.** כְּמוֹ שֶׁאָמַר בְּרֹאשׁ הַסֵּפֶר: ״וְנֶאֱלַמְתָּ וְלֹא תִהְיֶה לָהֶם לְאִישׁ מוֹכִיחַ״ (יחזקאל ג:כו), וְאַחַר כָּךְ אָמַר לוֹ: ״בְּיוֹם קַחְתִּי מֵהֶם אֶת מְעוּזָם״, ״יָבוֹא הַפָּלִיט אֵלֶיךָ״, ״בַּיּוֹם הַהוּא יִפָּתַח פִּיךָ אֶת הַפָּלִיט... וְלֹא תֵאָלֵם עוֹד״ (יחזקאל כד:כה-כז):
+**וַיִּפְתַּח אֶת פִּי.** כְּמוֹ שֶׁאָמַר בְּרֹאשׁ הַסֵּפֶר: ״וְנֶאֱלַמְתָּ וְלֹא תִהְיֶה לָהֶם לְאִישׁ מוֹכִיחַ״ (יחזקאל ג:כו), וְאַחַר כָּךְ אָמַר לוֹ: ״בְּיוֹם קַחְתִּי מֵהֶם אֶת מְעוּזָם״, ״יָבוֹא הַפָּלִיט אֵלֶיךָ״, ״בַּיּוֹם הַהוּא יִפָּתַח פִּיךָ אֶת הַפָּלִיט… וְלֹא תֵאָלֵם עוֹד״ (יחזקאל כד:כה-כז):
 
 
 **and He opened my mouth** as He says in the beginning of the Book (3:26): “and you shall become mute, and you shall not be a reprover to them.” Afterward, He said to him (24:25ff.): “on the day I take from them their strength, etc., the fugitive will come to you, etc., on that day, your mouth will be opened with the fugitive, and you will speak and no longer be mute.”
@@ -14482,7 +14482,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/33:25:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/33:25:1)
 
 
-**עַל הַדָּם תֹּאכֵלוּ וְגוֹ׳ וְהָאָרֶץ תִּירָשׁוּ.** בִּתְמִיהָּ? אִם נִצְטַוִּיתֶם, אֵין אַתֶּם שׁוֹמְרִים! **עַל הַדָּם תֹּאכֵלוּ**. אֶת מַאֲכָלֵי תַּפְנוּקִים אַתֶּם אוֹכְלִים עַל יְדֵי רְצִיחָה, שֶׁהוֹרְגִין אֶת בַּעֲלֵי מָמוֹן וְנוֹטְלִין אֶת מָמוֹנָם:
+**עַל הַדָּם תֹּאכֵלוּ וְגוֹ׳ וְהָאָרֶץ תִּירָשׁוּ.** בִּתְמִיהָּ? אִם נִצְטַוִּיתֶם, אֵין אַתֶּם שׁוֹמְרִים! **עַל הַדָּם תֹּאכֵלוּ.** אֶת מַאֲכָלֵי תַּפְנוּקִים אַתֶּם אוֹכְלִים עַל יְדֵי רְצִיחָה, שֶׁהוֹרְגִין אֶת בַּעֲלֵי מָמוֹן וְנוֹטְלִין אֶת מָמוֹנָם:
 
 
 **You eat on the blood, etc., and you should inherit the land** This is a rhetorical question. If you were commanded [many commandments], you do not keep [them]. You eat on the blood: you eat delicacies through murder, for you slay those who have money and take away their money.
@@ -14830,7 +14830,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/34:18:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/34:18:1)
 
 
-**הַמְעַט מִכֶּם.** אֶת אֲשֶׁר הַחֲזָקוֹת שֶׁבָּכֶם רוֹעוֹת **הַמִּרְעֶה הַטּוֹב**? וְהַלְוַאי לֹא **תִּרְמְסוּ** הַמּוֹתָר **בְּרַגְלֵיכֶם**, וְתֹאכַלְנָה אוֹתוֹ שְׁאָר צֹאנִי; אֶלָּא שֶׁאַף מוֹתַר **מִרְעֵיכֶם תִּרְמְסוּ בְּרַגְלֵיכֶם**. וְלֹא דַּי לָכֶם אֲשֶׁר מַשְׁקֵה **מַיִם תִּשְׁתּוּ**, אֶלָּא שֶׁ**הַנּוֹתָרִים בְּרַגְלֵיכֶם תִּרְפֹּשׂוּן**:
+**הַמְעַט מִכֶּם.** אֶת אֲשֶׁר הַחֲזָקוֹת שֶׁבָּכֶם רוֹעוֹת **הַמִּרְעֶה הַטּוֹב**? וְהַלְוַאי לֹא **תִּרְמְסוּ** הַמּוֹתָר **בְּרַגְלֵיכֶם**, וְתֹאכַלְנָה אוֹתוֹ שְׁאָר צֹאנִי; אֶלָּא שֶׁאַף מוֹתַר **מִרְעֵיכֶם תִּרְמְסוּ בְּרַגְלֵיכֶם.** וְלֹא דַּי לָכֶם אֲשֶׁר מַשְׁקֵה **מַיִם תִּשְׁתּוּ**, אֶלָּא שֶׁ**הַנּוֹתָרִים בְּרַגְלֵיכֶם תִּרְפֹּשׂוּן**:
 
 
 **Is it little for you** that the strongest among you graze on the good pasture? If only you would not [also] tread the residues with your feet, and would let the rest of My flock eat them! But even the residue of your pasture you tread with your feet! And is it not enough for you that you drink the clear water, that you must tread the remainder with your feet?
@@ -14869,7 +14869,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/34:20:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/34:20:1)
 
 
-**שֶׂה בְרִיָה.** חֲזָקָה:
+**שֶׂה בִרְיָה.** חֲזָקָה:
 
 
 **a strong lamb** [Heb. בְרִיָה,] strong.
@@ -14908,7 +14908,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/34:25:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/34:25:1)
 
 
-**וַיִּשְׁנוּ בַּיְּעָרִים.** תִּרְגֵּם יוֹנָתָן: ״וְיִתְעַתְּקוּן בְּחוּרְשָׁא״, וְיֵשׁ לְפוֹתְרוֹ בִּלְשׁוֹן שִׁינָה:
+**וְיָשְׁנוּ בַּיְּעָרִים.** תִּרְגֵּם יוֹנָתָן: ״וְיִתְעַתְּקוּן בְּחוּרְשָׁא״, וְיֵשׁ לְפוֹתְרוֹ בִּלְשׁוֹן שִׁינָה:
 
 
 **and grow old in the forests** [Heb. וְיָשְּׁנוּ.] Jonathan renders: and they will age [from יָשָׁן] in the forest. It may also be interpreted as an expression of sleep (שִּׁינָה).
@@ -15000,7 +15000,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/35:5:3](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/35:5:3)
 
 
-**בְּעֵת עֲוֹן קֵץ.** כְּשֶׁנִּגְמַר קֵץ עֲוֹנָם וְנִתְמַלְּאָה סְאָתָם (על פי שוחר טוב י):
+**בְּעֵת עֲוֺן קֵץ.** כְּשֶׁנִּגְמַר קֵץ עֲוֹנָם וְנִתְמַלְּאָה סְאָתָם (על פי שוחר טוב י):
 
 
 **at the time of the end of their iniquity** when the end of their iniquity culminated, and their measure was full.
@@ -15014,7 +15014,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/35:6:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/35:6:1)
 
 
-**לְדָם אֶעֱשְׂךָ.** נוֹפֵל בַּחֶרֶב (שמואל ב ג:כט):
+**לְדָם אֶעֶשְׂךָ.** נוֹפֵל בַּחֶרֶב (שמואל ב ג:כט):
 
 
 **I shall make you into blood** falling by the sword.
@@ -15170,7 +15170,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/36:3:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/36:3:2)
 
 
-**וַתֵּעֲלוּ עַל שְׂפַת לָשׁוֹן.** וְעַכְשָׁיו בְּחוּרְבַּנְכֶם הַכֹּל מְדַבְּרִים וּמְדוּבְּבִים בָּכֶם, לֵאמֹר: **הֶאָח**, הֲרֵי שָׁמֵמוּ:
+**וַתֵּעֲלוּ עַל שְׂפַת לָשׁוֹן.** וְעַכְשָׁיו בְּחוּרְבַּנְכֶם הַכֹּל מְדַבְּרִים וּמְדוּבְּבִים בָּכֶם, לֵאמֹר: הֶאָח, הֲרֵי שָׁמֵמוּ:
 
 
 **and you were brought up on the lips of every language** And now in your destruction, all talk and gossip (other editions: and hawk) about you, saying, “Aha! they have become desolate.”
@@ -15371,7 +15371,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/36:35:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/36:35:2)
 
 
-**וְהֶעָרִים הַחֲרֵבוֹת.** זֶה יָמִים רַבִּים, עַכְשָׁיו **בְּצוּרוֹת יָשָׁבוּ**:
+**וְהֶעָרִים הֶחֳרֵבוֹת.** זֶה יָמִים רַבִּים, עַכְשָׁיו **בְּצוּרוֹת יָשָׁבוּ**:
 
 
 **and the cities that were destroyed** these many days, have now become settled as fortified cities.
@@ -15583,7 +15583,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/37:16:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/37:16:1)
 
 
-**וְאַתָּה בֶן אָדָם קַח לְךָ עֵץ אֶחָד וגו׳. וּכְתוֹב עָלָיו לִיהוּדָה וְלִבְנֵי יִשְׂרָאֵל חֲבֵרָיו.** אַרְבַּע תֵּיבוֹת הַלָּלוּ כְּתוֹב עָלָיו, לֵאמֹר: עֵץ זֶה לִיהוּדָה וְלִשֵׁבֶט בִּנְיָמִין שֶׁנִּלְוָה עָלָיו:
+**וְאַתָּה בֶן אָדָם קַח לְךָ עֵץ אֶחָד וגו׳. וּכְתוֹב עָלָיו לִיהוּדָה וְלִבְנֵי יִשְׂרָאֵל חֲבֵרָו.** אַרְבַּע תֵּיבוֹת הַלָּלוּ כְּתוֹב עָלָיו, לֵאמֹר: עֵץ זֶה לִיהוּדָה וְלִשֵׁבֶט בִּנְיָמִין שֶׁנִּלְוָה עָלָיו:
 
 
 **And you, son of man, take for yourself one stick and write upon it, ‘For Judah and for the children of Israel his companions’** These four words write upon it, to say that this stick is Judah’s and the tribe of Benjamin’s, who joined him.
@@ -16195,7 +16195,7 @@ Heb. חִתִּיתָם, lur defre[n]emant in Old French, their terror.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/39:15:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/39:15:2)
 
 
-**וּבָנָה אֶצְלוֹ צִיּוּן.** סִימָן שֶׁיֵּשׁ כָּאן עֶצֶם שֶׁל מֵת, כְּדֵי שֶׁיִּפְרְשׁוּ מִמֶּנּוּ הוֹלְכֵי דְרָכִים וְעוֹשֵׂי טָהֳרוֹת, **עַד** בֹּא אַנְשֵׁי הַתָּמִיד הַמֻּבְדָּלִים לַחְקֹר **וְקָבְרוּ אוֹתָן**:
+**וּבָנָה אֶצְלוֹ צִיּוּן.** סִימָן שֶׁיֵּשׁ כָּאן עֶצֶם שֶׁל מֵת, כְּדֵי שֶׁיִּפְרְשׁוּ מִמֶּנּוּ הוֹלְכֵי דְרָכִים וְעוֹשֵׂי טָהֳרוֹת, עַד בֹּא אַנְשֵׁי הַתָּמִיד הַמֻּבְדָּלִים לַחְקֹר וְקָבְרוּ אוֹתָן:
 
 
 will construct a marker next to it as a sign that there is a bone of a dead body there, in order that wayfarers and those who prepare ritually pure food should stay away from it. **until** the men of continuous employment, designated to search, will come and bury it.
@@ -16473,7 +16473,7 @@ will construct a marker next to it as a sign that there is a bone of a dead body
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:4:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:4:1)
 
 
-**לְכֹל אֲשֶׁר אֲנִי מַרְאֶה אוֹתְךָ.** עִנְיַן הַבִּנְיָן:
+**לְכֹל אֲשֶׁר אֲנִי מַרְאֶה אוֹתָךְ.** עִנְיַן הַבִּנְיָן:
 
 
 **to all that I am showing you** the matter of the building.
@@ -16708,7 +16708,7 @@ will construct a marker next to it as a sign that there is a bone of a dead body
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:9:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:9:2)
 
 
-**וְאֵילָיו.** אֲשִׁישְׁלַטִינְ״ץ (בְּלַעַ״ז); כָּל אֵילִים הָאֲמוּרִים בָּעִנְיָן הֵם כְּמִין אִילָנוֹת עֲגוּלִין עֲשׂוּיִין מֵאַבְנֵי גָזִית, וְעוֹמְדִין בַּפֶּתַח, אֶחָד מִיָּמִין וְאֶחָד מִשְּׂמֹאל, בִּמְקוֹם סִפִּים בִּמְקוֹם מְזוּזוֹת; וְכֵן תִּרְגֵּם יוֹנָתָן (ישעיהו ו:ד) ״וַיָּנֻעוּ אַמּוֹת הַסִּפִּים״ ״אֵילָנוֹת סְפִיָּא״; וּקְרוּיִין אֵילִים עַל שֵׁם עֲגוּלִין כָּאֵלָה וְכָאַלּוֹן:
+**וְאֵילָו.** אֲשִׁישְׁלַטִינְ״ץ (בְּלַעַ״ז); כָּל אֵילִים הָאֲמוּרִים בָּעִנְיָן הֵם כְּמִין אִילָנוֹת עֲגוּלִין עֲשׂוּיִין מֵאַבְנֵי גָזִית, וְעוֹמְדִין בַּפֶּתַח, אֶחָד מִיָּמִין וְאֶחָד מִשְּׂמֹאל, בִּמְקוֹם סִפִּים בִּמְקוֹם מְזוּזוֹת; וְכֵן תִּרְגֵּם יוֹנָתָן (ישעיהו ו:ד) ״וַיָּנֻעוּ אַמּוֹת הַסִּפִּים״ ״אֵילָנוֹת סְפִיָּא״; וּקְרוּיִין אֵילִים עַל שֵׁם עֲגוּלִין כָּאֵלָה וְכָאַלּוֹן:
 
 
 **and its pillars** Meselins in Old French, posts, pillars. All the pillars mentioned in this account were sort of round trees made of hewn stone, standing in the entrance, one to the right and one to the left, in place of posts, in place of doorposts, and so did Jonathan render (Isa. 1:4): “And the doorposts (אַמוֹת הַסִפִּים) quaked”: אֵילְמַת סִפּיָא. And they are called אֵילִים because they were round like the terebinth and like the oak (וְכָאַלוֹן כָאֵלָה).
@@ -16719,7 +16719,7 @@ will construct a marker next to it as a sign that there is a bone of a dead body
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:9:3](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:9:3)
 
 
-**וְאֵילָיו שְׁתַּיִם אַמּוֹת.** עֹבִי עִגּוּלָן; וְעוֹמְדִין בְּסוֹף חֲלַל הָאוּלָם דְּבוּקִים, זֶה לְכוֹתֶל יָמִין וְזֶה לְכוֹתֶל שְׂמֹאל; נִמְצָא בְּלִיטַת הָאוּלָם וְאֵילִים שֶׁלּוֹ עֶשֶׂר אַמּוֹת לְתוֹךְ הָעֲזָרָה לִפְנִים מִן הַשַּׁעַר:
+**וְאֵילָו שְׁתַּיִם אַמּוֹת.** עֹבִי עִגּוּלָן; וְעוֹמְדִין בְּסוֹף חֲלַל הָאוּלָם דְּבוּקִים, זֶה לְכוֹתֶל יָמִין וְזֶה לְכוֹתֶל שְׂמֹאל; נִמְצָא בְּלִיטַת הָאוּלָם וְאֵילִים שֶׁלּוֹ עֶשֶׂר אַמּוֹת לְתוֹךְ הָעֲזָרָה לִפְנִים מִן הַשַּׁעַר:
 
 
 **and its pillars two cubits** in diameter. They were standing at the end of the hall space, this one attached to the right wall and this one to the left wall. The result is that the [total] protrusion of the hall and its pillars was ten cubits beyond the gate, into the Court interior.
@@ -16816,7 +16816,7 @@ will construct a marker next to it as a sign that there is a bone of a dead body
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:12:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:12:1)
 
 
-**וּגְבוּל לִפְנֵי הַתָּאוֹת אַמָּה אֶחַת וְגוֹ׳. הַתָּאוֹת**, שֶׁמִּכָּאן וּמִכָּאן לַשַּׁעַר הָיוּ מְשׁוּכִין מִן כְּנֶגֶד חֲלַל הָאוּלָם שֶׁלִּפְנִים אַמָּה לַצָּפוֹן וְאַמָּה לַדָּרוֹם, שֶׁכְּבָר פֵּרֵשׁ שֶׁהוּא מִבַּיִת מָשׁוּךְ מִכְּנֶגֶד חֲלַל הַשַּׁעַר אַמָּה וּמֶחֱצָה לַצָּפוֹן וְכֵן לַדָּרוֹם. וְעַכְשָׁיו מְפָרֵשׁ שֶׁהַתָּאִים שֶׁבַּחוּץ מְשׁוּכִים לַצָּפוֹן אַמָּה אַחַת יוֹתֵר מִן הָאוּלָם, וְכֵן לַדָּרוֹם אַמָּה אַחַת. נִמְצְאוּ מְשׁוּכִין מֵחֲלַל רֹחַב הַפֶּתַח שְׁתֵּי אַמּוֹת וּמֶחֱצָה לְכָאן וּשְׁתֵּי אַמּוֹת וּמֶחֱצָה לְכָאן. וְזֶהוּ לְשׁוֹן **וּגְבוּל**, אשומיי״ל בְּלַעַ״ז, מָקוֹם פָּנוּי. וְכוֹתֶל הַתָּא עוֹבִי חָמֵשׁ, נִמְצָא עוֹבִי כּוֹתֶל הַצְּפוֹנִי (צ״ל הדרומי צ״ה) שֶׁל הַתָּא הַצְּפוֹנִי וְעוֹבִי כּוֹתֶל הַצְּפוֹנִי שֶׁל אוּלָם כָּלִים זֶה כְּנֶגֶד זֶה, שֶׁכּוֹתֶל אוּלָם עוֹבְיוֹ שֵׁשׁ וְכוֹתֶל הַתָּא חָמֵשׁ, וְהוּא נִמְשָׁךְ אַמָּה אַחַת לְתוֹךְ כְּנֶגֶד עוֹבִי כּוֹתֶל הָאוּלָם, וְכֵן לַדָּרוֹם:
+**וּגְבוּל לִפְנֵי הַתָּאוֹת אַמָּה אֶחָת וְגוֹ׳. הַתָּאוֹת**, שֶׁמִּכָּאן וּמִכָּאן לַשַּׁעַר הָיוּ מְשׁוּכִין מִן כְּנֶגֶד חֲלַל הָאוּלָם שֶׁלִּפְנִים אַמָּה לַצָּפוֹן וְאַמָּה לַדָּרוֹם, שֶׁכְּבָר פֵּרֵשׁ שֶׁהוּא מִבַּיִת מָשׁוּךְ מִכְּנֶגֶד חֲלַל הַשַּׁעַר אַמָּה וּמֶחֱצָה לַצָּפוֹן וְכֵן לַדָּרוֹם. וְעַכְשָׁיו מְפָרֵשׁ שֶׁהַתָּאִים שֶׁבַּחוּץ מְשׁוּכִים לַצָּפוֹן אַמָּה אַחַת יוֹתֵר מִן הָאוּלָם, וְכֵן לַדָּרוֹם אַמָּה אַחַת. נִמְצְאוּ מְשׁוּכִין מֵחֲלַל רֹחַב הַפֶּתַח שְׁתֵּי אַמּוֹת וּמֶחֱצָה לְכָאן וּשְׁתֵּי אַמּוֹת וּמֶחֱצָה לְכָאן. וְזֶהוּ לְשׁוֹן **וּגְבוּל**, אשומיי״ל בְּלַעַ״ז, מָקוֹם פָּנוּי. וְכוֹתֶל הַתָּא עוֹבִי חָמֵשׁ, נִמְצָא עוֹבִי כּוֹתֶל הַצְּפוֹנִי (צ״ל הדרומי צ״ה) שֶׁל הַתָּא הַצְּפוֹנִי וְעוֹבִי כּוֹתֶל הַצְּפוֹנִי שֶׁל אוּלָם כָּלִים זֶה כְּנֶגֶד זֶה, שֶׁכּוֹתֶל אוּלָם עוֹבְיוֹ שֵׁשׁ וְכוֹתֶל הַתָּא חָמֵשׁ, וְהוּא נִמְשָׁךְ אַמָּה אַחַת לְתוֹךְ כְּנֶגֶד עוֹבִי כּוֹתֶל הָאוּלָם, וְכֵן לַדָּרוֹם:
 
 
 **And a border [area] was before the cells of one cubit, etc.** The cells on either side of the gate were inset [away] from being in line with the area of the inward-going hall, a cubit to the north and a cubit to the south. For he already made it clear that on the inside, it [the space] was extended beyond from the [the area] facing the space of the gate, a cubit and a half to the north and likewise to the south. Now he explains that the cells which were on the outside were recessed to the north, one cubit more than the hall, and likewise one cubit to the south. As a result, they were recessed from the area of the [gate’s] entrance’s width, two and a half cubits to this side and two and a half cubits to this side. This is [the meaning of] the word וּגְבוּל, somayl in Old French, border, limit, an empty place. The wall of the cell was five cubits thick, resulting in the thickness of the northern wall of the northern cell, and the thickness of the northern wall of the hall, ending opposite each other. For the wall of the hall was six cubits thick and the wall of the cell was five, and it was extended one cubit inward opposite the thickness of the wall of the hall, and likewise, to the south.
@@ -16852,7 +16852,7 @@ will construct a marker next to it as a sign that there is a bone of a dead body
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:13:3](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:13:3)
 
 
-**פֶּתַח נֶגֶד פֶּתַח.** פֶּתַח הַתָּא שֶׁאֵצֶל הַשַּׁעַר בַּדָּרוֹם מְכֻוָּן כְּנֶגֶד פֶּתַח הַתָּא שֶׁאֵצֶל הַשַּׁעַר בַּצָּפוֹן, שֶׁלֹּא הָיָה לְכָל שֵׁשֶׁת הַתָּאִים הָאֵלֶּה פֶּתַח בַּכּוֹתֶל שֶׁבְּצַד הַחוּץ, אֶלָּא שֶׁלִּשְׁנֵי הַתָּאִים הַסְּמוּכִין לַשַּׁעַר הָיוּ לָהֶם פְּתָחִים פּוֹנִים אֶל שַׁעַר אֲוִיר שֶׁבֵּין שְׁנֵיהֶם, וְכֵן הוּא אוֹמֵר לְמַטָּה <b>וְאֶל אֵלִיהֶמָה לִפְנִימָה לַשַּׁעַר<b> – לָמַדְנוּ שֶׁפִּתְחֵיהֶם פּוֹנִים לַשַּׁעַר:
+**פֶּתַח נֶגֶד פֶּתַח.** פֶּתַח הַתָּא שֶׁאֵצֶל הַשַּׁעַר בַּדָּרוֹם מְכֻוָּן כְּנֶגֶד פֶּתַח הַתָּא שֶׁאֵצֶל הַשַּׁעַר בַּצָּפוֹן, שֶׁלֹּא הָיָה לְכָל שֵׁשֶׁת הַתָּאִים הָאֵלֶּה פֶּתַח בַּכּוֹתֶל שֶׁבְּצַד הַחוּץ, אֶלָּא שֶׁלִּשְׁנֵי הַתָּאִים הַסְּמוּכִין לַשַּׁעַר הָיוּ לָהֶם פְּתָחִים פּוֹנִים אֶל שַׁעַר אֲוִיר שֶׁבֵּין שְׁנֵיהֶם, וְכֵן הוּא אוֹמֵר לְמַטָּה **וְאֶל אֵלִיהֶמָה לִפְנִימָה לַשַּׁעַר** – לָמַדְנוּ שֶׁפִּתְחֵיהֶם פּוֹנִים לַשַּׁעַר:
 
 
 **an entrance opposite an entrance** The entrance of the cell that was next to the gate in the south was directed exactly opposite the entrance of the cell that was next to the gate in the north, for the six cells did not have an entrance in the outside wall, but the two cells nearest the gate had entrances facing the space between the two of them, and so he says below (verse 16): “and for their doorposts [facing] toward the ‘inward of the gate.’” This teaches us that their entrances faced the gate.
@@ -16927,7 +16927,7 @@ will construct a marker next to it as a sign that there is a bone of a dead body
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:16:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:16:1)
 
 
-**וְחַלּוֹנוֹת אֲטֻמוֹת אֶל הַתָּאִים.** הַתָּאִים הָאֵלֶּה לֹא הָיוּ לָהֶם פְּתָחִים אֶל הַחוּץ, אֶלָּא זֶה פָּתוּחַ לָזֶה; וְכֵן מָצִינוּ בְּמַסֶּכֶת מִדּוֹת (מדות ד,ג) בַּתָּאִים שֶׁסְּבִיבוֹת הַהֵיכָל: שְׁלוֹשָׁה פְּתָחִים לְכָל אֶחָד וְאֶחָד, אֶחָד לַתָּא מִן הַיָּמִין, וְאֶחָד לַתָּא מִן הַשְּׂמֹאל, וְאֶחָד לַתָּא שֶׁעַל גַּבָּיו. וְלַתָּאִים שֶׁבֶּחָצֵר, שֶׁלֹּא הָיוּ אֶלָּא שְׁלוֹשָׁה תָּאִים זֶה אֵצֶל זֶה, וְלֹא הָיוּ לָהֶם תָּאִים עַל גַּבֵּיהֶם, הָיוּ לָאֶמְצָעִי שְׁנֵי פְּתָחִים, אֶחָד לַתָּא מִן הַיָּמִין וְאֶחָד לַתָּא מִן הַשְּׂמֹאל; וְלַחִיצוֹן שֶׁל צַד הַשַּׁעַר הָיוּ שְׁנֵי פְּתָחִים, אֶחָד פָּתוּחַ לָאֶמְצָעִי וְאֶחָד לְצַד הַשַּׁעַר; וְכֵן לַתָּא הַחִיצוֹן שֶׁל כָּתֵף הַשֵּׁנִי מִזֶּה וּמִזֶּה לַשַּׁעַר כְּמוֹ שֶׁכָּתוּב לְמַעְלָה **פֶּתַח נֶגֶד פֶּתַח**. וְהָיוּ לָהֶם חַלּוֹנוֹת שְׁקוּפִים אֲטוּמִים (מלכים א ו:ד): פְּתוּחִים לְצַד הַחִיצוֹן, וּסְתוּמִים לְצַד פְּנִים; כְּלוֹמַר: קְצָרִים לְצַד פְּנִים וּרְחָבִים לְצַד הַחוּץ אֶל הַמִּזְרָח. וּמְנַחֵם פֵּתֵר שְׁקוּפִים – לְשׁוֹן הַשְׁקָפָה, כְּמוֹ ״מִי זֹאת הַנִּשְׁקָפָה״ (שיר השירים ו:י); ״כִּי הִשְׁקִיף מִמְּרוֹם קָדְשׁוֹ״ (תהלים קב:כ); וְכֵן ״אֶל הַמַּשְׁקוֹף״ (שמות יב:כב) גַּם כֵּן פֵּתֵר לְשׁוֹן שְׁקָפָה:
+**וְחַלּוֹנוֹת אֲטֻמוֹת אֶל הַתָּאִים.** הַתָּאִים הָאֵלֶּה לֹא הָיוּ לָהֶם פְּתָחִים אֶל הַחוּץ, אֶלָּא זֶה פָּתוּחַ לָזֶה; וְכֵן מָצִינוּ בְּמַסֶּכֶת מִדּוֹת (מדות ד,ג) בַּתָּאִים שֶׁסְּבִיבוֹת הַהֵיכָל: שְׁלוֹשָׁה פְּתָחִים לְכָל אֶחָד וְאֶחָד, אֶחָד לַתָּא מִן הַיָּמִין, וְאֶחָד לַתָּא מִן הַשְּׂמֹאל, וְאֶחָד לַתָּא שֶׁעַל גַּבָּיו. וְלַתָּאִים שֶׁבֶּחָצֵר, שֶׁלֹּא הָיוּ אֶלָּא שְׁלוֹשָׁה תָּאִים זֶה אֵצֶל זֶה, וְלֹא הָיוּ לָהֶם תָּאִים עַל גַּבֵּיהֶם, הָיוּ לָאֶמְצָעִי שְׁנֵי פְּתָחִים, אֶחָד לַתָּא מִן הַיָּמִין וְאֶחָד לַתָּא מִן הַשְּׂמֹאל; וְלַחִיצוֹן שֶׁל צַד הַשַּׁעַר הָיוּ שְׁנֵי פְּתָחִים, אֶחָד פָּתוּחַ לָאֶמְצָעִי וְאֶחָד לְצַד הַשַּׁעַר; וְכֵן לַתָּא הַחִיצוֹן שֶׁל כָּתֵף הַשֵּׁנִי מִזֶּה וּמִזֶּה לַשַּׁעַר כְּמוֹ שֶׁכָּתוּב לְמַעְלָה **פֶּתַח נֶגֶד פֶּתַח.** וְהָיוּ לָהֶם חַלּוֹנוֹת שְׁקוּפִים אֲטוּמִים (מלכים א ו:ד): פְּתוּחִים לְצַד הַחִיצוֹן, וּסְתוּמִים לְצַד פְּנִים; כְּלוֹמַר: קְצָרִים לְצַד פְּנִים וּרְחָבִים לְצַד הַחוּץ אֶל הַמִּזְרָח. וּמְנַחֵם פֵּתֵר שְׁקוּפִים – לְשׁוֹן הַשְׁקָפָה, כְּמוֹ ״מִי זֹאת הַנִּשְׁקָפָה״ (שיר השירים ו:י); ״כִּי הִשְׁקִיף מִמְּרוֹם קָדְשׁוֹ״ (תהלים קב:כ); וְכֵן ״אֶל הַמַּשְׁקוֹף״ (שמות יב:כב) גַּם כֵּן פֵּתֵר לְשׁוֹן שְׁקָפָה:
 
 
 **And narrowing windows [were made] for the cells** These cells did not have doors facing the outside, but one open to the other; and so we find in Tractate Middoth (4:3) regarding the cells around the Temple: “Each one had three entrances, one to the cell on the right, one to the cell on the left, and one to the cell above.” But as for the cells in the Court which were only three cells, one beside the other, having no cells above them the middle ones had two entrances: one to the cell on the right and one to the cell on the left; and the outer one, [standing] at the side of the gate, had two entrances: one open to the middle one and one to the side of the gate, and it was likewise with the outer cell of the other second side, on both sides of the gate, as is written above (verse 13): “an entrance opposite an entrance.” Now these [cells] had windows “שְּׁקֻפִים אֲטֻמִים both open and shut” - [I Kings 6:4] - open to the outside and “shut” to the inside, meaning narrow on the inside and wide on the outside to the east. Menahem (p. 180) interpreted שְּׁקֻפִים as being related to the word for looking (הַשְּׁקָפָה), as in (Song 6: 10) “Who is this who looks forth (הַנִשְּׁקָפָה)”; (Ps. 102:20) “For He has looked down (הִשְּׁקִיף) from His holy height.” He interprets [the word “lintel” in] (Exod. 12:22) “to the lintel (אֶל הַמַשְּׁקוֹף)” also, as being related to the word for [over]looking.
@@ -16938,7 +16938,7 @@ will construct a marker next to it as a sign that there is a bone of a dead body
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:16:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:16:2)
 
 
-**וְאֶל אֵילֵיהֶמָה לִפְנִימָה לַשַּׁעַר.** וְאֶל כִּתְפוֹת פִּתְחֵיהֶם שֶׁל שְׁנֵי תָאִים הַסְּמוּכִים לַשַּׁעַר מִזֶּה וּמִזֶּה, שֶׁהָיָה פִּתְחָן אֶל תּוֹךְ אֲוִיר הַשַּׁעַר, פֶּתַח הַתָּא הַצְּפוֹנִי מִצָּפוֹן לַשַּׁעַר וּפֶתַח הַתָּא הַדְּרוֹמִי מִדָּרוֹם לַשַּׁעַר. וְכִתְפוֹת הַפְּתָחִים שֶׁמִּזֶּה וּמִזֶּה לְפֶתַח הַתָּא הֵם הָאֵילִים, וְהָיוּ בָהֶם חַלּוֹנוֹת פְּתוּחִים לַאֲוִיר הֶפְסֵק רֹחַב הַשַּׁעַר, שֶׁהָיָה מַפְסִיק בֵּין הַתָּאִים. וְאוֹתוֹ אֲוִיר קוֹרֵא **לִפְנִימָה לַשַּׁעַר**, שֶׁמִּי שֶׁנִּכְנָס לְבֵין אֲוִיר בְּלִיטַת הַתָּאִים שֶׁמִּכָּאן וּמִכָּאן נִרְאֶה שֶׁהוּא נִכְנָס לַשַּׁעַר:
+**וְאֶל אֵלֵיהֵמָה לִפְנִימָה לַשַּׁעַר.** וְאֶל כִּתְפוֹת פִּתְחֵיהֶם שֶׁל שְׁנֵי תָאִים הַסְּמוּכִים לַשַּׁעַר מִזֶּה וּמִזֶּה, שֶׁהָיָה פִּתְחָן אֶל תּוֹךְ אֲוִיר הַשַּׁעַר, פֶּתַח הַתָּא הַצְּפוֹנִי מִצָּפוֹן לַשַּׁעַר וּפֶתַח הַתָּא הַדְּרוֹמִי מִדָּרוֹם לַשַּׁעַר. וְכִתְפוֹת הַפְּתָחִים שֶׁמִּזֶּה וּמִזֶּה לְפֶתַח הַתָּא הֵם הָאֵילִים, וְהָיוּ בָהֶם חַלּוֹנוֹת פְּתוּחִים לַאֲוִיר הֶפְסֵק רֹחַב הַשַּׁעַר, שֶׁהָיָה מַפְסִיק בֵּין הַתָּאִים. וְאוֹתוֹ אֲוִיר קוֹרֵא **לִפְנִימָה לַשַּׁעַר**, שֶׁמִּי שֶׁנִּכְנָס לְבֵין אֲוִיר בְּלִיטַת הַתָּאִים שֶׁמִּכָּאן וּמִכָּאן נִרְאֶה שֶׁהוּא נִכְנָס לַשַּׁעַר:
 
 
 **and for their doorposts [facing] toward the “inward of the gate”** [i.e.], and to the edges of the entrances of the two cells nearest the gate on this side and that side. For their entrances were [facing] towards the inner area of the gate: the entrance of the northern cell on the north of the gate, and the entrance of the southern cell on the south of the gate. The edges of the entrances on each side of the entrance of the cell are the “posts.” And they had windows open to the intervening space - having the width of the gate - which intervened between the cells. Now, he calls that space “inward of the gate,” for when someone enters the area between the protrusions of the cells of here and there, it appears as though he has entered the gate.
@@ -16985,7 +16985,7 @@ will construct a marker next to it as a sign that there is a bone of a dead body
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:17:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:17:1)
 
 
-**וְרִצְפָה.** פְּלַנְקִי״ץ בְּלַעַ״ז. **רִצְפָּה** אוֹמֵר אֲנִי שֶׁהוּא עֲלִיָּה סָבִיב, כְּאוֹתָהּ שֶׁשָּׁנִינוּ חֲלָקָה הָיְתָה בָרִאשׁוֹנָה וְהִקִּיפוּהָ גְּזוּזְטְרָא (סוכה נא:), וְעַל אוֹתָהּ הָעֲלִיָּה הָיוּ הַלְּשָׁכוֹת, קַנְבְּרָא״שׁ בְּלַעַ״ז. וּמִמַּה שֶׁאָמוּר בָּעִנְיָן **וְהָרִצְפָה אֶל כְּתֵף הַשְּׁעָרִים** וְתַחְתֵּיהֶם כְּנֶגֶד גּוֹבַהּ הַשְּׁעָרִים, אָנוּ לְמֵדִין שֶׁהָרִצְפָּה הַזֹּאת עֲלִיָּה הִיא:
+**וְרִצְפָה.** פְּלַנְקִי״ץ בְּלַעַ״ז. **רִצְפָּה** אוֹמֵר אֲנִי שֶׁהוּא עֲלִיָּה סָבִיב, כְּאוֹתָהּ שֶׁשָּׁנִינוּ חֲלָקָה הָיְתָה בָרִאשׁוֹנָה וְהִקִּיפוּהָ גְּזוּזְטְרָא (סוכה נא:), וְעַל אוֹתָהּ הָעֲלִיָּה הָיוּ הַלְּשָׁכוֹת, קַנְבְּרָא״שׁ בְּלַעַ״ז. וּמִמַּה שֶׁאָמוּר בָּעִנְיָן **וְהָרִצְפָה אֶל כֶּתֶף הַשְּׁעָרִים** וְתַחְתֵּיהֶם כְּנֶגֶד גּוֹבַהּ הַשְּׁעָרִים, אָנוּ לְמֵדִין שֶׁהָרִצְפָּה הַזֹּאת עֲלִיָּה הִיא:
 
 
 **and a balcony** [Heb. וְרִצְפָּה,] planchez in Old French, flooring, paving: and I say that it was a surrounding balcony, like the one of which we learned (Middoth 2:5): “Originally it had been quite bare, but they surrounded it with a balcony” and on that balcony were the chambers, chanbres in Old French. And from that which is stated in this account “And the balcony was to the side of the gates,” and its base was on line with the height of the gates - we learn that this flooring was a balcony.
@@ -17110,7 +17110,7 @@ will construct a marker next to it as a sign that there is a bone of a dead body
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:22:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:22:1)
 
 
-**וְאֵילַמָּיו לִפְנֵיהֶם.** וְאוּלָם הַשַּׁעַר לִפְנֵי הַמַּעֲלוֹת; קֹדֶם שֶׁיִּכָּנֵס לָאוּלָם הָיָה עוֹלֶה בַּמַּעֲלוֹת:
+**וְאֵילַמָּו לִפְנֵיהֶם.** וְאוּלָם הַשַּׁעַר לִפְנֵי הַמַּעֲלוֹת; קֹדֶם שֶׁיִּכָּנֵס לָאוּלָם הָיָה עוֹלֶה בַּמַּעֲלוֹת:
 
 
 **and its hall was beyond them** The hall of the gate was beyond the steps; before he would enter the hall, he would ascend the steps.
@@ -17174,7 +17174,7 @@ will construct a marker next to it as a sign that there is a bone of a dead body
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:25:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:25:1)
 
 
-**כְּהַחֲלּוֹנוֹת הָאֵלֶּה.** דָּרַשׁ רַבִּי תַּנְחוּמָא (תנחומא, בהעלותך ה): ה״א זוֹ יְתֵרָה לְשׁוֹן כֵּהָה חַלּוֹנוֹת, כֵּהוֹת – רְחָבוֹת מִבַּחוּץ וּקְצָרוֹת מִבִּפְנִים; לוֹמַר: לֹא לְאוֹרָה אֲנִי צָרִיךְ; שֶׁכָּל חַלּוֹנוֹת הָעֲשׂוּיוֹת לְהַכְנִיס אוֹרָה, קְצָרוֹת מִבַּחוּץ וּמַרְחִיבוֹת מִבִּפְנִים:
+**כְּהַחַלֹּנוֹת הָאֵלֶּה.** דָּרַשׁ רַבִּי תַּנְחוּמָא (תנחומא, בהעלותך ה): ה״א זוֹ יְתֵרָה לְשׁוֹן כֵּהָה חַלּוֹנוֹת, כֵּהוֹת – רְחָבוֹת מִבַּחוּץ וּקְצָרוֹת מִבִּפְנִים; לוֹמַר: לֹא לְאוֹרָה אֲנִי צָרִיךְ; שֶׁכָּל חַלּוֹנוֹת הָעֲשׂוּיוֹת לְהַכְנִיס אוֹרָה, קְצָרוֹת מִבַּחוּץ וּמַרְחִיבוֹת מִבִּפְנִים:
 
 
 **were like these windows** [Heb. כְּהַחַלנוֹת.] Rabbi Tanhuma expounded (Buber, Behaalothecha p. 48): This “hey” is superfluous, to indicate the term כֵּהָה, dark. Dark windows, wide on the outside and narrow on the inside, as if to say, “I do not need the light,” for all windows made to bring in light are narrow on the outside and wide on the inside.
@@ -17199,7 +17199,7 @@ will construct a marker next to it as a sign that there is a bone of a dead body
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:26:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:26:2)
 
 
-**אֶל אֵילָיו.** עַל רֹאשׁ הָאַיִל הָיָה דֶּקֶל מְצֻיָּר:
+**אֶל אֵילָו.** עַל רֹאשׁ הָאַיִל הָיָה דֶּקֶל מְצֻיָּר:
 
 
 **on its posts** Atop the post was pictured a palm tree.
@@ -17252,7 +17252,7 @@ will construct a marker next to it as a sign that there is a bone of a dead body
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:31:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:31:1)
 
 
-**וְאֵילַמָּיו אֶל חָצֵר הַחִיצוֹנָה.** אוּלַמּוֹ שֶׁל שַׁעַר הַפְּנִימִי לֹא הָיָה לְצַד פְּנִים, כְּמוֹ שֶׁהָיוּ אוּלַמּוֹת שֶׁל שַׁעַר הַחִיצוֹנָה, אֶלָּא מִבַּחוּץ הָיָה בּוֹלֵט:
+**וְאֵלַמָּו אֶל חָצֵר הַחִיצוֹנָה.** אוּלַמּוֹ שֶׁל שַׁעַר הַפְּנִימִי לֹא הָיָה לְצַד פְּנִים, כְּמוֹ שֶׁהָיוּ אוּלַמּוֹת שֶׁל שַׁעַר הַחִיצוֹנָה, אֶלָּא מִבַּחוּץ הָיָה בּוֹלֵט:
 
 
 **And its halls to the Outer Court** The halls of the Inner Gate were not toward the inner side as were the halls of the Outer Gate, but were protruding outward.
@@ -17280,7 +17280,7 @@ will construct a marker next to it as a sign that there is a bone of a dead body
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:37:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/40:37:1)
 
 
-**וְאֵילָיו לֶחָצֵר הַחִיצוֹנָה.** אֶשִׁישְׁפְּיַאַרְ״קָאשׁ בְּלַעַ״ז, וְאוּלָם הַשַּׁעַר קָרוּי אֵילִים כָּאן:
+**וְאֵילָו לֶחָצֵר הַחִיצוֹנָה.** אֶשִׁישְׁפְּיַאַרְ״קָאשׁ בְּלַעַ״ז, וְאוּלָם הַשַּׁעַר קָרוּי אֵילִים כָּאן:
 
 
 **And its pillars were toward the Outer Court** Et ses portiques in French, and its porticoes, and the hall of the gate is called אֵילִים here.
@@ -17671,7 +17671,7 @@ will construct a marker next to it as a sign that there is a bone of a dead body
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/41:2:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/41:2:1)
 
 
-**וְכִתְפוֹת הַפֶּתַח חָמֵשׁ אַמּוֹת.** שֶׁהַהֵיכָל רָחְבּוֹ עֶשְׂרִים אַמָּה וְרֹחַב הַפֶּתַח עֶשֶׂר, נִמְצָא כִּתְפוֹתָיו **מִפֹּה וּמִפֹּה** שֶׁל חָמֵשׁ חָמֵשׁ:
+**וְכִתְפוֹת הַפֶּתַח חָמֵשׁ אַמּוֹת.** שֶׁהַהֵיכָל רָחְבּוֹ עֶשְׂרִים אַמָּה וְרֹחַב הַפֶּתַח עֶשֶׂר, נִמְצָא כִּתְפוֹתָיו מִפֹּה וּמִפֹּה שֶׁל חָמֵשׁ חָמֵשׁ:
 
 
 **and the sides of the entrance were five cubits** for the Heichal was twenty cubits wide and the width of the entrance was ten. Its sides from here and there are found to be five cubits each.
@@ -17815,7 +17815,7 @@ will construct a marker next to it as a sign that there is a bone of a dead body
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/41:7:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/41:7:2)
 
 
-**וְנָסְבָה לְמַעְלָה לְמַעְלָה.** וּמוּסַבָּה מְסִיבָּה, שֶׁקּוֹרִין וִי״ץ בְּלַעַ״ז, שֶׁל בִּנְיַן אֲבָנִים הוּא כְּמִין עַמּוּד וּמַעֲלוֹת עוֹלוֹת בּוֹ, וְהָעוֹלֶה בָּהֶם דּוֹמֶה לוֹ כְּהוֹלֵךְ וּמַקִּיף סְבִיבוֹת עַמּוּד אֲבָנִים; וּבִלְשׁוֹן אַשְׁכְּנַז קָרוּי שְׁוִוינְדְ״ל שְׁטִיי״ן. הוּא שֶׁאָמוּר בְּבִנְיַן שְׁלֹמֹה ״וּבְלוּלִּים יַעֲלוּ אֶל הַתִּיכֹנָה״ (מלכים א ו:ח), אַף הוּא מְתֻרְגָּם ״וּבִמְסִיבָתָא״, כְּמוֹ **וְנָסְבָה לְמַעְלָה לְמַעְלָה**. וְכֵן מְסִיבָּה עוֹלָה לְמַעְלָה עַד גַּג הַתָּא הָעֶלְיוֹן, כְּמוֹ שֶׁהוּא מְפָרֵשׁ וְהוֹלֵךְ, שֶׁהַמְּסִיבָּה עוֹלָה מִן הַתַּחְתּוֹן לָאֶמְצָעִי וּמִן הָאֶמְצָעִי לָעֶלְיוֹן:
+**וְנָסְבָה לְמַעְלָה לְמַעְלָה.** וּמוּסַבָּה מְסִיבָּה, שֶׁקּוֹרִין וִי״ץ בְּלַעַ״ז, שֶׁל בִּנְיַן אֲבָנִים הוּא כְּמִין עַמּוּד וּמַעֲלוֹת עוֹלוֹת בּוֹ, וְהָעוֹלֶה בָּהֶם דּוֹמֶה לוֹ כְּהוֹלֵךְ וּמַקִּיף סְבִיבוֹת עַמּוּד אֲבָנִים; וּבִלְשׁוֹן אַשְׁכְּנַז קָרוּי שְׁוִוינְדְ״ל שְׁטִיי״ן. הוּא שֶׁאָמוּר בְּבִנְיַן שְׁלֹמֹה ״וּבְלוּלִּים יַעֲלוּ אֶל הַתִּיכֹנָה״ (מלכים א ו:ח), אַף הוּא מְתֻרְגָּם ״וּבִמְסִיבָתָא״, כְּמוֹ **וְנָסְבָה לְמַעְלָה לְמַעְלָה.** וְכֵן מְסִיבָּה עוֹלָה לְמַעְלָה עַד גַּג הַתָּא הָעֶלְיוֹן, כְּמוֹ שֶׁהוּא מְפָרֵשׁ וְהוֹלֵךְ, שֶׁהַמְּסִיבָּה עוֹלָה מִן הַתַּחְתּוֹן לָאֶמְצָעִי וּמִן הָאֶמְצָעִי לָעֶלְיוֹן:
 
 
 **and it wound higher and higher** [Heb. וְנָסְבָה,] and it was surrounded by a spiral staircase, fiz in Old French. This is a stone structure similar to a pillar, with steps winding around it. It seems to the person who is ascending upon it that he is encircling a stone pillar. In German it is called a wendelstein. This is what is [meant when it is] stated regarding Solomon’s Temple (I Kings 6:8): “and upon winding stairs (לוּלִים) they went up into the middle [chamber].” That too is translated [into Aramaic] as וּבִמְסִיבָתָא, like וְנָסְבָה לְמַעְלָה לְמַעְלָה and it wound higher and higher. The spiral staircase continued to wind higher and higher up to the roof of the uppermost cell, as he proceeds to explain, [so] that the spiral staircase ascended from the nethermost cell to the middle one and from the middle one to the uppermost one.
@@ -17984,7 +17984,7 @@ will construct a marker next to it as a sign that there is a bone of a dead body
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/41:12:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/41:12:2)
 
 
-**הַגִּזְרָה.** תִּרְגֵּם יוֹנָתָן ״בִּצוּרְתָא״, וְאוֹמֵר אֲנִי שֶׁהַבַּיִת הַגָּבוֹהַּ קָרוּי כֵּן, וְהַתָּאִים הַנְּמוּכִין אֲשֶׁר סָבִיב – אוֹתָם הוּא קוֹרֵא **בִּנְיָן**. וּמְנַחֵם פָּתַר (מחברת ׳גזר׳) **גִּזְרָה** – לְשׁוֹן ״לִשְׁכָּה״ (נחמיה יג:ה):
+**הַגִּזְרָה.** תִּרְגֵּם יוֹנָתָן ״בִּצוּרְתָא״, וְאוֹמֵר אֲנִי שֶׁהַבַּיִת הַגָּבוֹהַּ קָרוּי כֵּן, וְהַתָּאִים הַנְּמוּכִין אֲשֶׁר סָבִיב – אוֹתָם הוּא קוֹרֵא **בִּנְיָן.** וּמְנַחֵם פָּתַר (מחברת ׳גזר׳) **גִּזְרָה** – לְשׁוֹן ״לִשְׁכָּה״ (נחמיה יג:ה):
 
 
 **the fortress** [Heb. הַגִּזְרָה.] Jonathan renders: the fortress. And I say that the tall House was called [the fortress] and that the low cells that were around it were called “the structure.” Menahem, however, (page. 54) interpreted גִּזְרָה as a chamber.
@@ -18053,7 +18053,7 @@ will construct a marker next to it as a sign that there is a bone of a dead body
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/41:13:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/41:13:2)
 
 
-**וְהַגִּזְרָה וְהַבְּנִיָּה וְקִירוֹתֶיהָ.** סוֹף הַמִּקְרָא מְפָרֵשׁ אֶת רֹאשׁוֹ, לוֹמַר: סַךְ הַכֹּל **מֵאָה אַמָּה**:
+**וְהַגִּזְרָה וְהַבִּנְיָה וְקִירוֹתֶיהָ.** סוֹף הַמִּקְרָא מְפָרֵשׁ אֶת רֹאשׁוֹ, לוֹמַר: סַךְ הַכֹּל **מֵאָה אַמָּה**:
 
 
 **and the fortress and the structure and its walls** The end of the verse explains its beginning, saying that [it is] the sum total [that] was one hundred cubits.
@@ -18322,7 +18322,7 @@ will construct a marker next to it as a sign that there is a bone of a dead body
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/41:22:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/41:22:2)
 
 
-**וּמִקְצְעוֹתָיו.** (רַגְלָיו, גַּגּוֹ וְאָרְכּוֹ כָּתוּב בַּמִּקְרָא גַּגּוֹ וְהוּא וְרַגְלָיו, וְאָרְכּוֹ הַכָּתוּב בַּמִּקְרָא הוּא גַּגּוֹ כך צ״ל צו״ה), גּוּף הַשֻּׁלְחָן:
+**וּמִקְצֹעוֹתָיו.** (רַגְלָיו, גַּגּוֹ וְאָרְכּוֹ כָּתוּב בַּמִּקְרָא גַּגּוֹ וְהוּא וְרַגְלָיו, וְאָרְכּוֹ הַכָּתוּב בַּמִּקְרָא הוּא גַּגּוֹ כך צ״ל צו״ה), גּוּף הַשֻּׁלְחָן:
 
 
 **and its corners** its legs; and the words “its length,” mentioned in the verse refer to its roof, the main part of the Table.
@@ -18555,7 +18555,7 @@ will construct a marker next to it as a sign that there is a bone of a dead body
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/42:3:8](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/42:3:8)
 
 
-**בִּשְׁלִישִׁים.** תִּרְגֵּם יוֹנָתָן: ״מִתְלָתִין״, מַשְׁמַע שֶׁהָיוּ אוֹתָן לְשָׁכוֹת מְשֻׁלָּשׁוֹת שָׁלֹשׁ זוֹ לְמַעְלָה מִזּוֹ, וְגַם הַמִּקְרָאוֹת מוֹכִיחִין כֵּן, שֶׁהוּא אוֹמֵר: **וְהַלְּשָׁכוֹת הָעֶלְיוֹנוֹת קְצָרוֹת מֵהַתַּחְתּוֹנוֹת וּמֵהַתִּיכוֹנוֹת**. וַאֲנִי לֹא יָכֹלְתִּי לְהָבִין בִּשְׁלֹשֶׁת הַמִּקְרָאוֹת הַלָּלוּ כְּלָל מַהוּ <b>כִּי יוֹכְלוּ אֲתִיקִים<b>, מַה הֵם אוֹתָם אֲתִיקִים, וְהֵיאַךְ אוֹכְלוֹת מִן הָעֶלְיוֹנוֹת וְאֵינָם אוֹכְלוֹת מִן הַתַּחְתּוֹנוֹת וּמִן הַתִּיכוֹנוֹת, וְטַעַם שֶׁהוּא נוֹתֵן לַדָּבָר כִּי מְשֻׁלָּשׁוֹת הֵנָּה וְאֵין לָהֶם עַמּוּדִים לֹא יָדַעְתִּי לְהָבִין בּוֹ (וַאֲנִ״י לֹ״א הָיָה לִ״י לֹ״א רַ״ב וְלֹ״א עוֹזֵ״ר בְּכָ״ל הַבִּנְיָ״ן הַזֶּ״ה אֶלָּ״א כְּמ״וֹ שֶׁהֶרְאוּנִי מִ״ן הַשָּׁמַיִ״ם):
+**בִּשְׁלִישִׁים.** תִּרְגֵּם יוֹנָתָן: ״מִתְלָתִין״, מַשְׁמַע שֶׁהָיוּ אוֹתָן לְשָׁכוֹת מְשֻׁלָּשׁוֹת שָׁלֹשׁ זוֹ לְמַעְלָה מִזּוֹ, וְגַם הַמִּקְרָאוֹת מוֹכִיחִין כֵּן, שֶׁהוּא אוֹמֵר: **וְהַלְּשָׁכוֹת הָעֶלְיוֹנוֹת קְצָרוֹת מֵהַתַּחְתּוֹנוֹת וּמֵהַתִּיכוֹנוֹת.** וַאֲנִי לֹא יָכֹלְתִּי לְהָבִין בִּשְׁלֹשֶׁת הַמִּקְרָאוֹת הַלָּלוּ כְּלָל מַהוּ **כִּי יוֹכְלוּ אֲתִיקִים**, מַה הֵם אוֹתָם אֲתִיקִים, וְהֵיאַךְ אוֹכְלוֹת מִן הָעֶלְיוֹנוֹת וְאֵינָם אוֹכְלוֹת מִן הַתַּחְתּוֹנוֹת וּמִן הַתִּיכוֹנוֹת, וְטַעַם שֶׁהוּא נוֹתֵן לַדָּבָר כִּי מְשֻׁלָּשׁוֹת הֵנָּה וְאֵין לָהֶם עַמּוּדִים לֹא יָדַעְתִּי לְהָבִין בּוֹ (וַאֲנִ״י לֹ״א הָיָה לִ״י לֹ״א רַ״ב וְלֹ״א עוֹזֵ״ר בְּכָ״ל הַבִּנְיָ״ן הַזֶּ״ה אֶלָּ״א כְּמ״וֹ שֶׁהֶרְאוּנִי מִ״ן הַשָּׁמַיִ״ם):
 
 
 **three-storied** [Heb. בַּשְּׁלִשִּׁים,] threefold, implying that those chambers were threefold - three, one over another; and the verses indicate this too, for [Scripture] states (verse 5): “And the uppermost chambers were narrow... more than the lowest stories and the middle stories.” But I could not understand, regarding these three verses, what the meaning of “for the ‘attikim’ consumed” is. What were those “attikim” and how did they consume parts of the upper stories and not any of the lowest and middle stories? And the explanation he gives for the matter, viz. that “they had no pillars” - I do not know how to understand it. (And I had no teacher or aid concerning this entire edifice; only as they showed me from heaven.)
@@ -18841,7 +18841,7 @@ will construct a marker next to it as a sign that there is a bone of a dead body
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/42:20:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/42:20:1)
 
 
-**לְאַרְבַּע רוּחוֹת מָדְדוּ.** שְׁלֹשֶׁת אֲלָפִים עַל שְׁלֹשֶׁת אֲלָפִים אַמָּה, שֶׁהַקָּנֶה שֵׁשׁ אַמּוֹת (יחזקאל מ:ה); וְזֶהוּ שֶׁיִּסֵּד הַקְּלִירִי (בקדשתא דיום שני של סכות): ״דָּוִד יִנְטֶה קַו שְׁלֹשֶׁת אַלְפֵי אַמּוֹת קְצוּבָה עַל שְׁלֹשֶׁת אַלְפֵי אַמּוֹת״, וְהִיא שְׁלֹשִׁים וְשִׁשָּׁה כַּמִּדָּה הָרִאשׁוֹנָה – שֶׁהָיָה הַר הַבַּיִת חֲמֵשׁ מֵאוֹת אַמָּה עַל חֲמֵשׁ מֵאוֹת אַמָּה (מידות ב:א) – חֲלוֹק שְׁלֹשֶׁת אֲלָפִים עַל שְׁלֹשֶׁת אֲלָפִים לִרְצוּעוֹת שֶׁל חֲמֵשׁ מֵאוֹת אַמּוֹת שְׁתִי וָעֵרֶב, וְתִמְצָא שָׁם שְׁלֹשִׁים וְשִׁשָּׁה רְבָעִים שֶׁל חֲמֵשׁ מֵאוֹת עַל חֲמֵשׁ מֵאוֹת; וְעַל כֵּן אָמַר הַפַּיְּטָן (שם בקדשתא): ״שְׁלֹשִׁים וְשִׁשָּׁה כְּמוֹ שֶׁהָיְתָה מִתְכַּפֶּלֶת״, מָצָאתִי:
+**לְאַרְבַּע רוּחוֹת מְדָדוֹ.** שְׁלֹשֶׁת אֲלָפִים עַל שְׁלֹשֶׁת אֲלָפִים אַמָּה, שֶׁהַקָּנֶה שֵׁשׁ אַמּוֹת (יחזקאל מ:ה); וְזֶהוּ שֶׁיִּסֵּד הַקְּלִירִי (בקדשתא דיום שני של סכות): ״דָּוִד יִנְטֶה קַו שְׁלֹשֶׁת אַלְפֵי אַמּוֹת קְצוּבָה עַל שְׁלֹשֶׁת אַלְפֵי אַמּוֹת״, וְהִיא שְׁלֹשִׁים וְשִׁשָּׁה כַּמִּדָּה הָרִאשׁוֹנָה – שֶׁהָיָה הַר הַבַּיִת חֲמֵשׁ מֵאוֹת אַמָּה עַל חֲמֵשׁ מֵאוֹת אַמָּה (מידות ב:א) – חֲלוֹק שְׁלֹשֶׁת אֲלָפִים עַל שְׁלֹשֶׁת אֲלָפִים לִרְצוּעוֹת שֶׁל חֲמֵשׁ מֵאוֹת אַמּוֹת שְׁתִי וָעֵרֶב, וְתִמְצָא שָׁם שְׁלֹשִׁים וְשִׁשָּׁה רְבָעִים שֶׁל חֲמֵשׁ מֵאוֹת עַל חֲמֵשׁ מֵאוֹת; וְעַל כֵּן אָמַר הַפַּיְּטָן (שם בקדשתא): ״שְׁלֹשִׁים וְשִׁשָּׁה כְּמוֹ שֶׁהָיְתָה מִתְכַּפֶּלֶת״, מָצָאתִי:
 
 
 **On four sides he measured it** Three thousand cubits by three thousand [cubits], for the rod was six cubits long. This is what the Kalir asserted, “The Beloved will stretch out a line of three thousand cubits limited by three thousand cubits.” This is thirty-six times the original dimensions - for the Temple Mount was [originally] five hundred cubits by five hundred cubits; arrange 3,000 times 3,000 as strips of 500 cubits laid vertically and horizontally [forming a solid square], and you will have thirty-six squares of 500 cubits by 500 cubits. [3,000 x 3,000 = 9,000,000. 500 x 500 = 250,000. 9, 000,000 divided by 250,000 = 36.] Therefore, the poet states: “And thirty-six as it was multiplied.”
@@ -18944,7 +18944,7 @@ will construct a marker next to it as a sign that there is a bone of a dead body
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/43:7:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/43:7:1)
 
 
-**וּבְפִגְרֵי מַלְכֵיהֶם.** שֶׁהָיוּ בָתֵּיהֶם סְמוּכִין (לְבֵית הַקְּבָרוֹת), כְּמוֹ שֶׁמָּצִינוּ בַּמְּלָכִים בִּשְׁלֹמֹה (מלכים א י:ה) וּבַעֲתַלְיָהוּ (מלכים ב יא:טו-טז), וּפְעָמִים שֶׁהָיוּ קוֹבְרִין אוֹתָם בְּגַן בֵּיתָם, כְּמוֹ שֶׁהוּא מְפָרֵשׁ וְאָמַר **בְּתִתָּם סִפָּם אֶת סִפִּי**. מָצָאתִי:
+**וּבְפִגְרֵי מַלְכֵיהֶם.** שֶׁהָיוּ בָתֵּיהֶם סְמוּכִין (לְבֵית הַקְּבָרוֹת), כְּמוֹ שֶׁמָּצִינוּ בַּמְּלָכִים בִּשְׁלֹמֹה (מלכים א י:ה) וּבַעֲתַלְיָהוּ (מלכים ב יא:טו-טז), וּפְעָמִים שֶׁהָיוּ קוֹבְרִין אוֹתָם בְּגַן בֵּיתָם, כְּמוֹ שֶׁהוּא מְפָרֵשׁ וְאָמַר **בְּתִתָּם סִפָּם אֶת סִפִּי.** מָצָאתִי:
 
 
 **and with the corpses of their kings** whose houses were near the Temple, as we find with Solomon and with Athaliah. Sometimes they would bury them in the gardens of their houses, as He explains and says, “... by placing their threshold with My threshold.”
@@ -19033,7 +19033,7 @@ will construct a marker next to it as a sign that there is a bone of a dead body
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/43:11:3](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/43:11:3)
 
 
-**וְתְכוּנָתוֹ.** חֶשְׁבּוֹן תָּאָיו וְלִשְׁכּוֹתָיו:
+**וּתְכוּנָתוֹ.** חֶשְׁבּוֹן תָּאָיו וְלִשְׁכּוֹתָיו:
 
 
 **and its scheme** the number of its cells and its chambers.
@@ -19044,7 +19044,7 @@ will construct a marker next to it as a sign that there is a bone of a dead body
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/43:11:4](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/43:11:4)
 
 
-**וְכָל צוּרוֹתָיו.** כְּרוּבִים וְתִימוֹרִים וְאֵילִים וְאֵילַמִּים, מָצָאתִי:
+**וְכׇל צוּרֹתָו.** כְּרוּבִים וְתִימוֹרִים וְאֵילִים וְאֵילַמִּים, מָצָאתִי:
 
 
 **and all its forms** the cherubim, palm trees, posts, and halls.
@@ -19055,7 +19055,7 @@ will construct a marker next to it as a sign that there is a bone of a dead body
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/43:11:5](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/43:11:5)
 
 
-**וְכָל צוּרוֹתָיו.** בַּתְרָא. לֹא פֹּרַשׁ:
+**כׇּל צוּרָתוֹ.** בַּתְרָא. לֹא פֹּרַשׁ:
 
 
 I found: “and all its forms” is unclear.
@@ -19507,7 +19507,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/44:3:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/44:3:2)
 
 
-**הוּא יֵשֶׁב בּוֹ לֶאֱכֹל לֶחֶם.** בְּתוֹךְ חֲלָלוֹ:
+**הוּא יֵשֶׁב בּוֹ לֶאֱכׇל לֶחֶם.** בְּתוֹךְ חֲלָלוֹ:
 
 
 **he shall sit therein** in its space.
@@ -19529,7 +19529,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/44:3:4](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/44:3:4)
 
 
-מָצָאתִי. **אֶת הַנָּשִׂיא.** כֹּהֵן גָּדוֹל **נָשִׂיא הוּא**, וּמֵחֲשִׁיבוּתוֹ יְהֵא רַשַּׁאי **לֶאֱכוֹל** בָּשָׂר וְ**לֶחֶם** קָדָשִׁים **בּוֹ** אוֹתוֹ שַׁעַר שֶׁפּוֹתְחִין לוֹ בִּשְׁעַת אֲכִילָתוֹ:
+מָצָאתִי. **אֶת הַנָּשִׂיא.** כֹּהֵן גָּדוֹל **נָשִׂיא הוּא**, וּמֵחֲשִׁיבוּתוֹ יְהֵא רַשַּׁאי **לֶאֱכׇל** בָּשָׂר וְ**לֶחֶם** קָדָשִׁים **בּוֹ** אוֹתוֹ שַׁעַר שֶׁפּוֹתְחִין לוֹ בִּשְׁעַת אֲכִילָתוֹ:
 
 
 **The prince** The High Priest is a prince, and because of his importance he will be permitted to eat the meat and bread of hallowed status in that gate, which is opened for him at the time of his eating.
@@ -19540,7 +19540,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/44:3:5](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/44:3:5)
 
 
-**מִדֶּרֶךְ אוּלָם הַשַּׁעַר יָבוֹא.** דֶּרֶךְ אוּלָם שַׁעַר מִזְרָחִי יִכָּנֵס לָעֲזָרָה, וְיָבוֹא עַד אוֹתוֹ פִּשְׁפָּשׁ **לֶאֱכוֹל** בּוֹ לַחְמוֹ:
+**מִדֶּרֶךְ אוּלָם הַשַּׁעַר יָבוֹא.** דֶּרֶךְ אוּלָם שַׁעַר מִזְרָחִי יִכָּנֵס לָעֲזָרָה, וְיָבוֹא עַד אוֹתוֹ פִּשְׁפָּשׁ **לֶאֱכׇל** בּוֹ לַחְמוֹ:
 
 
 **by way of the hall of the gate he shall come** By way of the hall of the Eastern Gate he shall enter the Court and come up to that wicket to eat his bread therein.
@@ -19615,7 +19615,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/44:10:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/44:10:2)
 
 
-**וְנָשְׂאוּ עֲוֹנָם.** מִגֶּשֶׁת עוֹד אֶל מִזְבְּחִי, אֶל פְּקֻדּוֹת שֶׁל שַׁעֲרֵי הַבַּיִת, פְּקֻדּוֹת קוֹמַנְדִישָׁ״שׁ בְּלַעַ״ז, שׁוֹמְרִים וְשׁוֹטְרִים יִהְיוּ:
+**וְנָשְׂאוּ עֲוֺנָם.** מִגֶּשֶׁת עוֹד אֶל מִזְבְּחִי, אֶל פְּקֻדּוֹת שֶׁל שַׁעֲרֵי הַבַּיִת, פְּקֻדּוֹת קוֹמַנְדִישָׁ״שׁ בְּלַעַ״ז, שׁוֹמְרִים וְשׁוֹטְרִים יִהְיוּ:
 
 
 **and they shall bear their iniquity** from ever approaching My altar again, but they may be appointed to the gates of the House (comandises in Old French, orders). They shall be watchmen and gatekeepers.
@@ -19643,7 +19643,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/44:12:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/44:12:1)
 
 
-**לְמִכְשׁוֹל עָוֹן.** כּוֹמְרִים לַעֲבוֹדָה זָרָה, לְהַמְשִׁיכָם לְכָךְ:
+**לְמִכְשׁוֹל עָוֺן.** כּוֹמְרִים לַעֲבוֹדָה זָרָה, לְהַמְשִׁיכָם לְכָךְ:
 
 
 **as a stumbling block of iniquity** priests of idolatry, attracting them to it.
@@ -20154,7 +20154,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/45:7:4](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/45:7:4)
 
 
-**וּמִפְּאַת קֵדְמָה קָדִימָה.** וּמִמִּזְרָח הַתְּרוּמָה לְמֶצֶר מִמִּזְרָח, **לְעֻמַּת אַחַד הַחֲלָקִים** שֶׁל שְׁבָטִים הַמְפֹרָשִׁין בְּסוֹף הַסֵּפֶר (יחזקאל מח:כא), שֶׁהֵם **מִגְּבוּל יָם** שֶׁל אֶרֶץ יִשְׂרָאֵל, עַד **גְּבוּל** קָדִים:
+**וּמִפְּאַת קֵדְמָה קָדִימָה.** וּמִמִּזְרָח הַתְּרוּמָה לְמֶצֶר מִמִּזְרָח, **לְעֻמּוֹת אַחַד הַחֲלָקִים** שֶׁל שְׁבָטִים הַמְפֹרָשִׁין בְּסוֹף הַסֵּפֶר (יחזקאל מח:כא), שֶׁהֵם **מִגְּבוּל יָם** שֶׁל אֶרֶץ יִשְׂרָאֵל, עַד **גְּבוּל** קָדִים:
 
 
 **and from the eastern side, east ward** And from the east of the offering to the eastern boundary, opposite one of the portions of the tribes delineated at the end of the Book, which are from the western boundary of the land of Israel, until the eastern boundary.
@@ -20351,7 +20351,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/45:14:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/45:14:2)
 
 
-**הַבַּת הַשֶּׁמֶן וְגוֹ׳.** הַבַּת שֶׁהִיא מִדַּת הַשֶּׁמֶן, זוֹ הִיא **מַעְשַׂר הַבַּת** יְהִי **מִן הַכֹּר**. מָצָאתִי הָעִשּׂוּר שֶׁהַבַּת מֵעֲשֶׂרֶת מִן הַכּוּר יִהְיֶה. כֵּיצַד (**מַעְשַׂר הַבַּת מִן הַכֹּר** עֲשִׂירִית שֶׁל בַּת עַל הַכּוּר הוּא, די״ץ מזור״ש בְּלַעַ״ז; תֵּבָה זוֹ מְשַׁמֶּשֶׁת עַל עַצְמָהּ וְעַל אֲחֵרִים, כְּמוֹ ״עֲבוֹדַת הַקֹּדֶשׁ״ (במדבר ז:ט) וַ״עֲבוֹדַת בְּנֵי מְרָרִי״ (במדבר ד:לג) סא״א):
+**הַבַּת הַשֶּׁמֶן וְגוֹ׳.** הַבַּת שֶׁהִיא מִדַּת הַשֶּׁמֶן, זוֹ הִיא **מַעְשַׂר הַבַּת** יְהִי **מִן הַכֹּר.** מָצָאתִי הָעִשּׂוּר שֶׁהַבַּת מֵעֲשֶׂרֶת מִן הַכּוּר יִהְיֶה. כֵּיצַד (**מַעְשַׂר הַבַּת מִן הַכֹּר** עֲשִׂירִית שֶׁל בַּת עַל הַכּוּר הוּא, די״ץ מזור״ש בְּלַעַ״ז; תֵּבָה זוֹ מְשַׁמֶּשֶׁת עַל עַצְמָהּ וְעַל אֲחֵרִים, כְּמוֹ ״עֲבוֹדַת הַקֹּדֶשׁ״ (במדבר ז:ט) וַ״עֲבוֹדַת בְּנֵי מְרָרִי״ (במדבר ד:לג) סא״א):
 
 
 **the bath, [which is a measure of] oil, etc.** The “bath,” which is a measure of oil this is its tithe: the “bath” will be from a “kor.” I found [the following]: The tenth that the “bath” represents as a tithe shall be from a “kor.” How so? The tithe of a “bath” is from a “kor.” Dix measures in French, ten measures. This word is used for itself and for others, like (Num. 7:9): “the service of the Sanctuary,” (ibid. 4:33): “the service of [the families of] the sons of Merari.”
@@ -20487,7 +20487,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/45:20:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/45:20:2)
 
 
-**מֵאִישׁ שׁוֹגֶה וּמִפֶּתִי וגו׳.** הֲרֵי זֶה מִקְרָא מְסֹרָס: **וְכִפַּרְתֶּם אֶת הַבַּיִת מֵאִישׁ שׁוֹגֶה וּמִפֶּתִי**. אַחַר שִׁבְעַת יְמֵי הַמִּלּוּאִים, שֶׁיְּהֵא הַמִּזְבֵּחַ מְחֻנָּךְ, יָבִיאוּ חַטָּאוֹתָם וַאֲשָׁמוֹתָם וְיִתְכַּפְּרוּ; שֶׁבִּזְמַן שֶׁיִּשְׂרָאֵל מְכֻפָּרִים, הַבַּיִת מְכֻפָּר:
+**מֵאִישׁ שׁוֹגֶה וּמִפֶּתִי וגו׳.** הֲרֵי זֶה מִקְרָא מְסֹרָס: **וְכִפַּרְתֶּם אֶת הַבַּיִת מֵאִישׁ שׁוֹגֶה וּמִפֶּתִי.** אַחַר שִׁבְעַת יְמֵי הַמִּלּוּאִים, שֶׁיְּהֵא הַמִּזְבֵּחַ מְחֻנָּךְ, יָבִיאוּ חַטָּאוֹתָם וַאֲשָׁמוֹתָם וְיִתְכַּפְּרוּ; שֶׁבִּזְמַן שֶׁיִּשְׂרָאֵל מְכֻפָּרִים, הַבַּיִת מְכֻפָּר:
 
 
 **because of mistaken and simple-minded men** This is a transposed verse: And you shall expiate the House from mistaken and simple-minded men. After the seven days of investiture, whenceforth the altar will be dedicated, they shall bring their sin-offerings and their guilt-offerings, and they will attain atonement, for at the time that Israel attains atonement, the House attains atonement.
@@ -20540,7 +20540,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/45:23:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/45:23:1)
 
 
-**שִׁבְעַת פָּרִים וְשִׁבְעַת אֵילִים תְּמִימִים לַיּוֹם.** וְהַתּוֹרָה אָמְרָה ״פָּרִים בְּנֵי בָקָר שְׁנַיִם וְאַיִל אֶחָד״ (במדבר כח:יא)! אֵין לִי לְהַעֲמִיד מִקְרָא זֶה אֶלָּא שִׁבְעָה פָּרִים וְשִׁבְעָה אֵילִים לְשִׁבְעַת הַיָּמִים, פַּר לַיּוֹם וְאַיִל לַיּוֹם, וּבָא לְלַמֵּד שֶׁאֵין הַפָּרִים מְעַכְּבִין זֶה אֶת זֶה, וְלֹא הָאֵילִים מְעַכְּבִין זֶה אֶת זֶה. וְכֵן שָׁנִינוּ בִּמְנָחוֹת (מה.), אַךְ לֹא הֵבִיאוּ מִן הַמִּקְרָא הַזֶּה רְאָיָה, אֶלָּא מִמִּקְרָא שֶׁנֶּאֱמַר לְמַטָּה ״וּבְיוֹם הַחֹדֶשׁ פַּר בֶּן בָּקָר תְּמִימִים וְשֵׁשֶׁת כְּבָשִׂים וְאַיִל״ (יחזקאל מו:ו); וְשֶׁמָּא אַף זֶה בָּא לְלַמֵּד כֵּן; וְכֵן פֵּרוּשׁוֹ: **שִׁבְעָה פָּרִים וְשִׁבְעָה אֵילִים לַיּוֹם**. צֵרוּף דְּבַר יוֹם בְּיוֹמוֹ עוֹלִים שִׁבְעָה פָּרִים לְשִׁבְעַת הַיָּמִים:
+**שִׁבְעַת פָּרִים וְשִׁבְעַת אֵילִים תְּמִימִים לַיּוֹם.** וְהַתּוֹרָה אָמְרָה ״פָּרִים בְּנֵי בָקָר שְׁנַיִם וְאַיִל אֶחָד״ (במדבר כח:יא)! אֵין לִי לְהַעֲמִיד מִקְרָא זֶה אֶלָּא שִׁבְעָה פָּרִים וְשִׁבְעָה אֵילִים לְשִׁבְעַת הַיָּמִים, פַּר לַיּוֹם וְאַיִל לַיּוֹם, וּבָא לְלַמֵּד שֶׁאֵין הַפָּרִים מְעַכְּבִין זֶה אֶת זֶה, וְלֹא הָאֵילִים מְעַכְּבִין זֶה אֶת זֶה. וְכֵן שָׁנִינוּ בִּמְנָחוֹת (מה.), אַךְ לֹא הֵבִיאוּ מִן הַמִּקְרָא הַזֶּה רְאָיָה, אֶלָּא מִמִּקְרָא שֶׁנֶּאֱמַר לְמַטָּה ״וּבְיוֹם הַחֹדֶשׁ פַּר בֶּן בָּקָר תְּמִימִים וְשֵׁשֶׁת כְּבָשִׂים וְאַיִל״ (יחזקאל מו:ו); וְשֶׁמָּא אַף זֶה בָּא לְלַמֵּד כֵּן; וְכֵן פֵּרוּשׁוֹ: **שִׁבְעָה פָּרִים וְשִׁבְעָה אֵילִים לַיּוֹם.** צֵרוּף דְּבַר יוֹם בְּיוֹמוֹ עוֹלִים שִׁבְעָה פָּרִים לְשִׁבְעַת הַיָּמִים:
 
 
 **seven bulls and seven rams without blemish daily** But the Torah states (Num. 28:19): “two young bulls, one ram.” We can explain this verse only as meaning seven bulls and seven rams for the seven days, a bull daily and a ram daily, and it comes to teach us that the bulls do not render each other invalid and the rams do not render each other invalid. [I.e., if one bull is missing, the other one may be brought.] So we learned in Menahoth (45a); however, they did not bring proof from this verse but from the verse below (46:6): “But on the New Moon: a young bull from those without blemish, and six lambs and a ram.” But perhaps this too comes to teach the same thing, and this is its meaning: seven bulls and seven rams daily. By adding the sacrifices of each day on its day, they add up to seven bulls for the seven days.
@@ -20718,7 +20718,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/46:6:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/46:6:1)
 
 
-**וּבְיוֹם הַחֹדֶשׁ פַּר בֶּן בָּקָר תְּמִימִים.** מִקְרָא זֶה דָּרְשׁוּ רַבּוֹתֵינוּ בִּמְנָחוֹת (מה.): **פַּר** מַה לָמַדְנוּ? לְפִי שֶׁנֶּאֱמַר בַּתּוֹרָה ״וּבְרָאשֵׁי חָדְשֵׁיכֶם... פָּרִים בְּנֵי בָקָר שְׁנַיִם״ (במדבר כח:יא), מִנַּיִן שֶׁאִם לֹא מָצָא שְׁנַיִם יָבִיא אֶחָד? לְכָךְ נֶאֱמַר: **פַּר**;
+**וּבְיוֹם הַחֹדֶשׁ פַּר בֶּן בָּקָר תְּמִימִים.** מִקְרָא זֶה דָּרְשׁוּ רַבּוֹתֵינוּ בִּמְנָחוֹת (מה.): **פַּר** מַה לָמַדְנוּ? לְפִי שֶׁנֶּאֱמַר בַּתּוֹרָה ״וּבְרָאשֵׁי חָדְשֵׁיכֶם… פָּרִים בְּנֵי בָקָר שְׁנַיִם״ (במדבר כח:יא), מִנַּיִן שֶׁאִם לֹא מָצָא שְׁנַיִם יָבִיא אֶחָד? לְכָךְ נֶאֱמַר: **פַּר**;
 
 
 **But on the New Moon: a young bull without blemish** Our Rabbis expounded upon this verse in Menahoth (45a): Why does it say, “a young bull”? Since it is stated in the Torah (Num. 28:11): “And at the beginnings of your months, etc., two young bulls,” how do you know that if he did not find two, he should bring one? Because it is stated: “a bull.”
@@ -20729,7 +20729,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/46:6:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/46:6:2)
 
 
-**וְשֵׁשֶׁת כְּבָשִׂים.** מַה לָּמַדְנוּ? לְפִי שֶׁנֶּאֱמַר בַּתּוֹרָה ״שִׁבְעָה״ (במדבר כח:יא), מִנַּיִן שֶׁאִם לֹא מָצָא שִׁבְעָה יָבִיא שִׁשָּׁה? לְכָךְ נֶאֱמַר: **וְשֵׁשֶׁת כְּבָשִׂים**. וּמִנַּיִן אֲפִילוּ אֶחָד? תַּלְמוּד לוֹמַר **וְלַכְּבָשִׂים כַּאֲשֶׁר תַּשִּׂיג יָדוֹ**. מָצָאתִי:
+**וְשֵׁשֶׁת כְּבָשִׂים.** מַה לָּמַדְנוּ? לְפִי שֶׁנֶּאֱמַר בַּתּוֹרָה ״שִׁבְעָה״ (במדבר כח:יא), מִנַּיִן שֶׁאִם לֹא מָצָא שִׁבְעָה יָבִיא שִׁשָּׁה? לְכָךְ נֶאֱמַר: **וְשֵׁשֶׁת כְּבָשִׂים.** וּמִנַּיִן אֲפִילוּ אֶחָד? תַּלְמוּד לוֹמַר **וְלַכְּבָשִׂים כַּאֲשֶׁר תַּשִּׂיג יָדוֹ.** מָצָאתִי:
 
 
 **and six lambs** Why is it necessary to state this? Since it is said in the Torah, “seven,” how do you know that if he did not find seven, he should bring six? Because it is stated: “and six lambs.” And how do you know [that he should bring] even one? Because the Torah says, “but for the lambs as much as he can afford.”
@@ -20807,7 +20807,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/46:12:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/46:12:2)
 
 
-**וּפָתַח לוֹ אֶת הַשַּׁעַר וְגוֹ׳.** לֹא נכְנַס בּוֹ לַהֵיכָל, אֶלָּא עוֹמֵד שָׁם וְהַכֹּהֲנִים יַעֲשׂוּ אֶת עוֹלָתוֹ וְאֶת שְׁלָמָיו, וְהִשְׁתַּחֲוָה וְיָצָא, שֶׁנֶּאֱמַר: **כַּאֲשֶׁר יַעֲשֶׂה בְּיוֹם הַשַּׁבָּת**. וּמַה אוֹמֵר בְּיוֹם הַשַּׁבָּת? **וְעָמַד עַל מְזוּזַת הַשַּׁעַר וְעָשׂוּ הַכֹּהֲנִים אֶת עוֹלָתוֹ וְגוֹ׳**:
+**וּפָתַח לוֹ אֶת הַשַּׁעַר וְגוֹ׳.** לֹא נכְנַס בּוֹ לַהֵיכָל, אֶלָּא עוֹמֵד שָׁם וְהַכֹּהֲנִים יַעֲשׂוּ אֶת עוֹלָתוֹ וְאֶת שְׁלָמָיו, וְהִשְׁתַּחֲוָה וְיָצָא, שֶׁנֶּאֱמַר: **כַּאֲשֶׁר יַעֲשֶׂה בְּיוֹם הַשַּׁבָּת.** וּמַה אוֹמֵר בְּיוֹם הַשַּׁבָּת? **וְעָמַד עַל מְזוּזַת הַשַּׁעַר וְעָשׂוּ הַכֹּהֲנִים אֶת עוֹלָתוֹ וְגוֹ׳**:
 
 
 **one shall then open for him the gate, etc.** Not to enter the Heichal through it, but he shall stand there, and the priests shall make his burnt offering and his peace-offering, and he shall prostrate himself and leave, as it is said: “as he would do on the Sabbath day.” Now what is stated regarding the Sabbath day (here)? (Verse 2) “And he shall stand at the doorpost of the gate, and the priests shall offer his burnt offering, etc.”
@@ -21060,7 +21060,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/47:1:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/47:1:1)
 
 
-**וַיְשִׁיבֵנִי.** לְתוֹךְ הֶחָצֵר הַפְּנִימִית:
+**וַיְשִׁבֵנִי.** לְתוֹךְ הֶחָצֵר הַפְּנִימִית:
 
 
 **Then he brought me back** into the Inner Court.
@@ -21146,7 +21146,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/47:4:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/47:4:1)
 
 
-**וַיָּמָד אֶלֶף.** אֲחֵרוֹת, וְהֶעֱמִיקוּ עַד בִּרְכַּיִם, וְעוֹד אֶלֶף – וְהֶעֱמִיקוּ עַד **מָתְנַיִם**, מִכָּאן וָאֵילָךְ: **נַחַל אֲשֶׁר לֹא אוּכַל לַעֲבֹר**; מִכָּאן שֶׁאָסוּר לִיכָּנֵס בַּמַּיִם מִן הַמָּתְנַיִם וּלְמַעְלָה, שֶׁלֹּא יִשְׁטְפוּהוּ הַמַּיִם (יומא עז:). מִשֶּׁבָּא לְ**מֵי מָתְנָיִם** יָצָא עַל שְׂפַת הַנָּהָר וּמָדַד עוֹד אֶלֶף לְפָנָיו, **נַחַל אֲשֶׁר לֹא** יַעֲבֹר, וְרַגְלָיו בַּיַּבָּשָׁה עוֹמְדִין; הַיְינוּ דִּכְתִיב **וַיְשִׁיבֵנִי עַל שְׂפַת הַנָּחַל** – כְּלוֹמַר: אֵצֶל שְׂפַת הַנַּחַל שֶׁשָּׁם הָיָה עוֹמֵד:
+**וַיָּמָד אֶלֶף.** אֲחֵרוֹת, וְהֶעֱמִיקוּ עַד בִּרְכַּיִם, וְעוֹד אֶלֶף – וְהֶעֱמִיקוּ עַד **מׇתְנָיִם**, מִכָּאן וָאֵילָךְ: **נַחַל אֲשֶׁר לֹא אוּכַל לַעֲבֹר**; מִכָּאן שֶׁאָסוּר לִיכָּנֵס בַּמַּיִם מִן הַמָּתְנַיִם וּלְמַעְלָה, שֶׁלֹּא יִשְׁטְפוּהוּ הַמַּיִם (יומא עז:). מִשֶּׁבָּא לְ**מֵי מָתְנָיִם** יָצָא עַל שְׂפַת הַנָּהָר וּמָדַד עוֹד אֶלֶף לְפָנָיו, **נַחַל אֲשֶׁר לֹא** יַעֲבֹר, וְרַגְלָיו בַּיַּבָּשָׁה עוֹמְדִין; הַיְינוּ דִּכְתִיב **וַיְשִׁיבֵנִי עַל שְׂפַת הַנָּחַל** – כְּלוֹמַר: אֵצֶל שְׂפַת הַנַּחַל שֶׁשָּׁם הָיָה עוֹמֵד:
 
 
 **And he measured one thousand** another [one thousand cubits], and they deepened up to the knees, and another thousand, and they deepened up to the loins. From here on, it was a stream that I could not cross. From here we learn that one should not enter water from the loins and higher, lest the water over power him. As soon as he came to the water reaching the loins, he went out upon the bank of the river and measured another thousand before him, a stream that cannot be crossed, and his feet were standing on dry land. This is what is written (v. 6): “and he brought me back [upon] the bank of the stream,” i.e., near the bank of the stream that is where he had been standing.
@@ -21199,7 +21199,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/47:7:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/47:7:1)
 
 
-**בְּשׁוּבֵנִי וְהִנֵּה אֶל שְׂפַת הַנַּחַל וגו׳.** בְּתוֹךְ שֶׁהוֹלִיכֵנִי וְהֵשִׁיבַנִי, צָמְחוּ עַל שְׂפַת הַנַּחַל **עֵץ רַב מְאֹד מִזֶּה וּמִזֶּה** .**עֵץ** אאביר״ץ בְּלַעַ״ז:
+**בְּשׁוּבֵנִי וְהִנֵּה אֶל שְׂפַת הַנַּחַל וגו׳.** בְּתוֹךְ שֶׁהוֹלִיכֵנִי וְהֵשִׁיבַנִי, צָמְחוּ עַל שְׂפַת הַנַּחַל **עֵץ רַב מְאֹד מִזֶּה וּמִזֶּה**. **עֵץ** אאביר״ץ בְּלַעַ״ז:
 
 
 **and behold, upon the bank of the stream, etc.** While he led me and brought me back, a very great profusion of trees had grown on the banks of the stream on each side. **profusion of trees** [Heb. עֵץ,] abres; erbeiz in Old French, trees, vegetation.
@@ -21268,7 +21268,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/47:8:6](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/47:8:6)
 
 
-**וְנִרְפְּאוּ.** הַמַּיִם מִמְּלִיחָתָן. וּמִדְרַשׁ אַגָּדָה (ירושלמי שקלים ו, ב): לָמָּה קוֹרֵא אוֹתָם מוּצָאִים? עַל שֵׁם שְׁנֵי פְּעָמִים שֶׁיָּצְאוּ:
+**וְנִרְפּאוּ.** הַמַּיִם מִמְּלִיחָתָן. וּמִדְרַשׁ אַגָּדָה (ירושלמי שקלים ו, ב): לָמָּה קוֹרֵא אוֹתָם מוּצָאִים? עַל שֵׁם שְׁנֵי פְּעָמִים שֶׁיָּצְאוּ:
 
 
 **And [it will come] to heal** the waters of their saltiness. The Midrash Aggadah [says] Yerushalmi Shekalim (6:2): Why does he call them הַמוּצָאִים (in the plural)? Because of the two times that they went out.
@@ -21332,7 +21332,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/47:11:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/47:11:1)
 
 
-**בִּצֹּאתָיו.** שֶׁל יָם, כְּמוֹ ״הֲיִגְאֶה גֹמֶא בְּלֹא בִצָּה וְגוֹ׳״ (איוב ח:יא); מָרֵישְׁ״ק בְּלַעַ״ז:
+**בִּצֹּאתָו.** שֶׁל יָם, כְּמוֹ ״הֲיִגְאֶה גֹמֶא בְּלֹא בִצָּה וְגוֹ׳״ (איוב ח:יא); מָרֵישְׁ״ק בְּלַעַ״ז:
 
 
 **Its marshes** [The marshes] of the sea, as in (Job 8:11): “Can papyrus shoot up without a marsh (בִצָה)?” This is maresc in Old French, a marsh.
@@ -21490,7 +21490,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/47:16:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/47:16:1)
 
 
-**חֲצַר הַתִּיכוֹן.** תִּרְגֵּם יוֹנָתָן: ״בְּרִיכַת עַגְבָאֵי״:
+**חָצֵר הַתִּיכוֹן.** תִּרְגֵּם יוֹנָתָן: ״בְּרִיכַת עַגְבָאֵי״:
 
 
 **Hazer-hatticon** Jonathan renders: the pond of the Agebeans.
@@ -21501,7 +21501,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/47:16:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/47:16:2)
 
 
-**אֲשֶׁר אֶל גְּבוּל חוֹרָן. גְּבוּל דַּמֶּשֶׂק** בַּמִּזְרָח סָמוּךְ לַמִּקְצוֹעַ:
+**אֲשֶׁר אֶל גְּבוּל חַוְרָן.** גְּבוּל דַּמֶּשֶׂק בַּמִּזְרָח סָמוּךְ לַמִּקְצוֹעַ:
 
 
 **which is by the border of Hauran** The border of Damascus is in the east, near the corner.
@@ -21562,7 +21562,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/47:18:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/47:18:1)
 
 
-**וּמִבֵּין הַגִּלְעָד וּמִבֵּין אֶרֶץ יִשְׂראֵל.** מְצַר מִזְרָחִי שֶׁל אֶרֶץ כְּנַעַן, וְאֵין עֵבֶר הַיַּרְדֵּן בְּתוֹךְ מְצָרִים הַלָּלוּ, כִּי אִם אֶרֶץ כְּנַעַן לְבַדָּהּ. וְכֵן בַּגְּבוּלִין הַמְמוּצָרִים בַּתּוֹרָה (במדבר לד) אֵין עֵבֶר הַיַּרְדֵּן בְּתוֹכָם. וְכֵן פֵּרוּשׁ הַמִּקְרָא הַזֶּה: וּמְצַר מִזְרָחִי לְאֶרֶץ כְּנַעַן אֲשֶׁר בֵּין חַוְרָן וְדַמֶּשֶׂק, הָעוֹמְדִין לָהּ בְּמִקְצוֹעַ צְפוֹנִית מִזְרָחִית, כְּמוֹ שֶׁאָמוּר לְמַעְלָה בָּעִנְיָן, וּבֵין הַגִּלְעָד וְאֶרֶץ יִשְׂרָאֵל אֲשֶׁר בְּעֵבֶר הַיַּרְדֵּן מִזְרָחָה:
+**וּמִבֵּין הַגִּלְעָד וּמִבֵּין אֶרֶץ יִשְׂרָאֵל.** מְצַר מִזְרָחִי שֶׁל אֶרֶץ כְּנַעַן, וְאֵין עֵבֶר הַיַּרְדֵּן בְּתוֹךְ מְצָרִים הַלָּלוּ, כִּי אִם אֶרֶץ כְּנַעַן לְבַדָּהּ. וְכֵן בַּגְּבוּלִין הַמְמוּצָרִים בַּתּוֹרָה (במדבר לד) אֵין עֵבֶר הַיַּרְדֵּן בְּתוֹכָם. וְכֵן פֵּרוּשׁ הַמִּקְרָא הַזֶּה: וּמְצַר מִזְרָחִי לְאֶרֶץ כְּנַעַן אֲשֶׁר בֵּין חַוְרָן וְדַמֶּשֶׂק, הָעוֹמְדִין לָהּ בְּמִקְצוֹעַ צְפוֹנִית מִזְרָחִית, כְּמוֹ שֶׁאָמוּר לְמַעְלָה בָּעִנְיָן, וּבֵין הַגִּלְעָד וְאֶרֶץ יִשְׂרָאֵל אֲשֶׁר בְּעֵבֶר הַיַּרְדֵּן מִזְרָחָה:
 
 
 **between Gilead and the land of Israel** The eastern border of the land of Canaan. Trans-Jordan is not included within these borders; only the land of Canaan. Similarly, the borders demarcated in the Torah do not include Trans Jordan. And this is the meaning of this verse: And from the eastern border of the land of Canaan, which is between Hauran and Damascus which are situated on its northeastern corner, as is stated above in this section, and between Gilead and the land of Israel that is on the eastern side of the Jordan.
@@ -21609,7 +21609,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/47:19:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/47:19:2)
 
 
-**עַד מֵי מְרִיבַת קָדֵשׁ.** הוּא מִדְבַּר צִין (במדבר כז:יד):
+**עַד מֵי מְרִיבוֹת קָדֵשׁ.** הוּא מִדְבַּר צִין (במדבר כז:יד):
 
 
 **until the water of Meriboth Kadesh** that is the desert of Zin. (Num 27:14)
@@ -21620,7 +21620,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/47:19:3](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/47:19:3)
 
 
-**נַחְלָה אֶל הַיָּם הַגָּדוֹל.** וּמִשָּׁם הוֹלֵךְ הַגְּבוּל עַד נַחַל מִצְרַיִם הַנּוֹפֵל בַּיָּם הַגָּדוֹל בְּמִקְצוֹעַ דְּרוֹמִית מַעֲרָבִית, וְאַף מֹשֶׁה כָּךְ נָתַן גְּבוּל נֶגֶב: ״מִמִּדְבַּר צִין עַל יְדֵי אֱדוֹם״ (במדבר לד:ג), וּמוֹנֶה וְהוֹלֵךְ עַד ״מֵעַצְמוֹן נַחְלָה מִצְרַיִם וְהָיוּ תוֹצְאוֹתָיו הַיָּמָּה״ (במדבבר לד:ה). וְ**נַחְלָה** הָאָמוּר כָּאן כְּמוֹ לְנַחְלָה, וּמָצָאתִי מְתֻרְגָּם ״אַחְסָנָא״, וְאִם לֹא שֶׁהַטַּעַם לְמַטָּה וְרָאִיתִי ״נַחְלָה מִצְרַיִם״ (במדבר לד:) שֶׁהַטַּעַם לְמַעְלָה, וּמָסֹרֶת עָלָיו לֵית בְּטַעְמָא, הָיִיתִי אוֹמֵר שִׁבּוּשׁ הוּא וְלֹא תִּרְגֵּם יוֹנָתָן כֵּן, כִּי אִם קוֹרְאִים טוֹעִים:
+**נַחֲלָה אֶל הַיָּם הַגָּדוֹל.** וּמִשָּׁם הוֹלֵךְ הַגְּבוּל עַד נַחַל מִצְרַיִם הַנּוֹפֵל בַּיָּם הַגָּדוֹל בְּמִקְצוֹעַ דְּרוֹמִית מַעֲרָבִית, וְאַף מֹשֶׁה כָּךְ נָתַן גְּבוּל נֶגֶב: ״מִמִּדְבַּר צִין עַל יְדֵי אֱדוֹם״ (במדבר לד:ג), וּמוֹנֶה וְהוֹלֵךְ עַד ״מֵעַצְמוֹן נַחְלָה מִצְרַיִם וְהָיוּ תוֹצְאוֹתָיו הַיָּמָּה״ (במדבבר לד:ה). וְ**נַחֲלָה** הָאָמוּר כָּאן כְּמוֹ לְנַחְלָה, וּמָצָאתִי מְתֻרְגָּם ״אַחְסָנָא״, וְאִם לֹא שֶׁהַטַּעַם לְמַטָּה וְרָאִיתִי ״נַחְלָה מִצְרַיִם״ (במדבר לד:) שֶׁהַטַּעַם לְמַעְלָה, וּמָסֹרֶת עָלָיו לֵית בְּטַעְמָא, הָיִיתִי אוֹמֵר שִׁבּוּשׁ הוּא וְלֹא תִּרְגֵּם יוֹנָתָן כֵּן, כִּי אִם קוֹרְאִים טוֹעִים:
 
 
 **to the stream [that falls] into the Great Sea** And from there the border proceeds until the stream of Egypt, which falls into the Great Sea in the southwestern corner. Moses, too, delineated the southern boundary in this way, from the desert of Zin alongside Edom, and he proceeds and counts until (ibid. 34:5): “from Atzmon to the stream of Egypt, and its ends shall be at the sea.” [Accordingly,] נַחֲלָה stated here is like לַנַחַל, to the stream. I found it, however, translated [by Jonathan] as אַחֲסָנָא, an inheritance, and were it not for the fact that the accent is on the last syllable, and [that] the Masorah states that there is no other instance in which the accent is on the first syllable, I would have said that it is an error, and that Jonathan did not translate it that way, only erring readers.
@@ -21776,7 +21776,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/48:10:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/48:10:1)
 
 
-**וְלְאֵלֶּה תִּהְיֶה תְרוּמַת הַקֹּדֶשׁ לַכֹּהֲנִים.** וְאֵלֶּה הָעֲשֶׂרֶת אֲלָפִים רֹחַב וְעֶשְׂרִים וַחֲמִשָּׁה אֶלֶף אֹרֶךְ יִהְיֶה לַכֹּהֲנִים בַּצָּפוֹן בְּתוֹךְ רְצוּעוֹת הַתְּרוּמָה הַגְּדוֹלָה אֵצֶל דְּרוֹמוֹ שֶׁל יְהוּדָה:
+**וּלְאֵלֶּה תִּהְיֶה תְרוּמַת הַקֹּדֶשׁ לַכֹּהֲנִים.** וְאֵלֶּה הָעֲשֶׂרֶת אֲלָפִים רֹחַב וְעֶשְׂרִים וַחֲמִשָּׁה אֶלֶף אֹרֶךְ יִהְיֶה לַכֹּהֲנִים בַּצָּפוֹן בְּתוֹךְ רְצוּעוֹת הַתְּרוּמָה הַגְּדוֹלָה אֵצֶל דְּרוֹמוֹ שֶׁל יְהוּדָה:
 
 
 **And these shall be the offering of the Sanctuary for the priests** [Heb. וּלְאַלָה.] And these 10,000 in width and 25,000 in length shall be for the priests in the north in the midst of the strips of the great offering alongside the south of Judah.
@@ -21956,7 +21956,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/48:15:3](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/48:15:3)
 
 
-**בְּתוֹכָהּ.** בְּאֶמְצַע אוֹתָהּ רְצוּעָה:
+**בְּתוֹכֹה.** בְּאֶמְצַע אוֹתָהּ רְצוּעָה:
 
 
 **it its midst** in the middle of that strip.
@@ -22009,7 +22009,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/48:18:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/48:18:1)
 
 
-**וְהָיְתָה תְבוּאָתָהּ לְלֶחֶם לְעוֹבְדֵי הָעִיר.** הֵם הַגִּבְעוֹנִים הַנְּתוּנִים ״חוֹטְבֵי עֵצִים וְשׁוֹאֲבֵי מַיִם״ (יהושע ט:כז). כֵּן שָׁמַעְתִּי מִשְּׁמוֹ שֶׁל רַבִּי מְנַחֵם זַצַ״ל:
+**וְהָיְתָה תְבוּאָתֹה לְלֶחֶם לְעוֹבְדֵי הָעִיר.** הֵם הַגִּבְעוֹנִים הַנְּתוּנִים ״חוֹטְבֵי עֵצִים וְשׁוֹאֲבֵי מַיִם״ (יהושע ט:כז). כֵּן שָׁמַעְתִּי מִשְּׁמוֹ שֶׁל רַבִּי מְנַחֵם זַצַ״ל:
 
 
 **and its grain shall be for food for those who serve the city** These are the Gibeonites, who were made wood-cutters and water-drawers (Josh. 9:27). So I heard in the name of Rabbi Menahem of blessed memory.
@@ -22172,7 +22172,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/48:21:9](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/48:21:9)
 
 
-**וּמִקְדַּשׁ הַבַּיִת בְּתוֹכָהּ.** הַכֹּל בְּאֶמְצַע נַחֲלַת הַנָּשִׂיא:
+**וּמִקְדַּשׁ הַבַּיִת בְּתוֹכֹה.** הַכֹּל בְּאֶמְצַע נַחֲלַת הַנָּשִׂיא:
 
 
 **and the Sanctuary of the House shall be in its midst** Everything is in the middle of the inheritance of the prince.
@@ -22197,7 +22197,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/48:22:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/48:22:2)
 
 
-**בֵּין גְּבוּל יְהוּדָה וּבֵין גְּבוּל בִּנְיָמִין.** כָּל רֹחַב הָרְצוּעָה אֲשֶׁר בֵּין שְׁנֵי הַשְּׁבָטִים הָאֵלֶּה, יְהוּדָה מִצָּפוֹן וּבִנְיָמִין מִן הַדָּרוֹם, **יִהְיֶה לַנָּשִׂיא**. וְהִיא הָרְצוּעָה שֶׁהוּתְרְמָה רִאשׁוֹן, רֹחַב עֶשְׂרִים וַחֲמִשָּׁה אֲלָפִים בְּאֹרֶךְ אַחַר חֶלְקֵי הַשְּׁבָטִים (יחזקאל מה:א-ח):
+**בֵּין גְּבוּל יְהוּדָה וּבֵין גְּבוּל בִּנְיָמִין.** כָּל רֹחַב הָרְצוּעָה אֲשֶׁר בֵּין שְׁנֵי הַשְּׁבָטִים הָאֵלֶּה, יְהוּדָה מִצָּפוֹן וּבִנְיָמִין מִן הַדָּרוֹם, **יִהְיֶה לַנָּשִׂיא.** וְהִיא הָרְצוּעָה שֶׁהוּתְרְמָה רִאשׁוֹן, רֹחַב עֶשְׂרִים וַחֲמִשָּׁה אֲלָפִים בְּאֹרֶךְ אַחַר חֶלְקֵי הַשְּׁבָטִים (יחזקאל מה:א-ח):
 
 
 **between the border of Judah and the border of Benjamin** The entire width of the strip that is between these two tribes, Judah on the north and Benjamin on the south, shall belong to the prince, and that is the strip that was separated first, a width of 25,000, with a length [that follows] the portions of the tribes.
@@ -22211,7 +22211,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/48:23:1](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/48:23:1)
 
 
-**וְיֶתֶר הַשְּׁבָטִים.** יִטְּלוּ בִּדְרוֹמָהּ שֶׁל אוֹתָהּ רְצוּעָה, **בִּנְיָמִין** אֶצְלָהּ, וְאֶצְלוֹ **שִׁמְעוֹן**, וְאֶצְלוֹ **יִשָּׂשכָר**, וְאֶצְלוֹ **זְבוּלֻן**, וְאֶצְלוֹ **גָּד**. נִמְצָא גָּד בַּמֵּצַר דְּרוֹמִי שֶׁל אֶרֶץ יִשְׂרָאֵל:
+**וְיֶתֶר הַשְּׁבָטִים.** יִטְּלוּ בִּדְרוֹמָהּ שֶׁל אוֹתָהּ רְצוּעָה, **בִּנְיָמִין** אֶצְלָהּ, וְאֶצְלוֹ **שִׁמְעוֹן**, וְאֶצְלוֹ **יִשָּׂשכָר**, וְאֶצְלוֹ **זְבוּלֻן**, וְאֶצְלוֹ **גָּד.** נִמְצָא גָּד בַּמֵּצַר דְּרוֹמִי שֶׁל אֶרֶץ יִשְׂרָאֵל:
 
 
 **And the rest of the tribes** shall receive [portions] south of that strip, Benjamin alongside it, and beside him Simeon, beside him Issachar, beside him Zebulun, and beside him Gad. Gad is therefore at the southern boundary of the land of Israel.
@@ -22286,7 +22286,7 @@ I found: “and all its forms” is unclear.
 [https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/48:35:2](https://torahapp.org/share/book/Rashi%20on%20Ezekiel/r/48:35:2)
 
 
-**וְשֵׁם הָעִיר מִיּוֹם ה׳ שָׁמָּה.** תִּרְגֵּם יוֹנָתָן: ״וְשְׁמָא דְקַרְתָּא דְמִתְפָּרַשׁ מִיּוֹמָא דִּי יַשְׁרֵי ה׳ שְׁכִינְתֵּיהּ תַּמָּן״, כְּלוֹמַר: לֹא יִקָּרֵא לָהּ שֵׁם אַחֵר, אֶלָּא שֵׁם הָרִאשׁוֹן שֶׁהָיָה לָהּ מִיּוֹם שֶׁעָקַד אַבְרָהָם אֶת יִצְחָק בְּנוֹ שָׁם (בראשית כב:ב), שֶׁקָּרָא לוֹ ״יִרְאֶה״ (בראשית כב:יד), וְהִיא הָיָה שְׁמָהּ שָׁלֵם (בראשית יד:יח) – הֲרֵי יְרוּשָׁלַיִם (בראשית רבה נו:טז). וְיֵשׁ עוֹד לִפְתֹּר: **וְשֵׁם הָעִיר** יִהְיֶה לֶעָתִיד; **מִיּוֹם** בִּנְיָנָהּ וּלְהַלָּן יִקְרְאוּ לָהּ **ה׳ שָׁמָּה**. סְלִיק סֵפֶר יְחֶזְקֵאל:
+**וְשֵׁם הָעִיר מִיּוֹם ה׳ שָׁמָּה.** תִּרְגֵּם יוֹנָתָן: ״וְשְׁמָא דְקַרְתָּא דְמִתְפָּרַשׁ מִיּוֹמָא דִּי יַשְׁרֵי ה׳ שְׁכִינְתֵּיהּ תַּמָּן״, כְּלוֹמַר: לֹא יִקָּרֵא לָהּ שֵׁם אַחֵר, אֶלָּא שֵׁם הָרִאשׁוֹן שֶׁהָיָה לָהּ מִיּוֹם שֶׁעָקַד אַבְרָהָם אֶת יִצְחָק בְּנוֹ שָׁם (בראשית כב:ב), שֶׁקָּרָא לוֹ ״יִרְאֶה״ (בראשית כב:יד), וְהִיא הָיָה שְׁמָהּ שָׁלֵם (בראשית יד:יח) – הֲרֵי יְרוּשָׁלַיִם (בראשית רבה נו:טז). וְיֵשׁ עוֹד לִפְתֹּר: **וְשֵׁם הָעִיר** יִהְיֶה לֶעָתִיד; **מִיּוֹם** בִּנְיָנָהּ וּלְהַלָּן יִקְרְאוּ לָהּ **ה׳ שָׁמָּה.** סְלִיק סֵפֶר יְחֶזְקֵאל:
 
 
 **and the name of the city from that day will be “The Lord is There.”** Jonathan renders: “And the name of the city had been declared as of that day that the Lord caused His Shechinah to rest there.” It shall not be called by a name other than the original name that it had since the day that Abraham bound Isaac his son there, for he called it Yireh, and its name had been Shalem, thus forming “Jerusalem” (Gen. Rabbah 56:16). It may also be interpreted: and the name of the city in the future, from when it is built and thenceforth, shall be “The Lord is There.”

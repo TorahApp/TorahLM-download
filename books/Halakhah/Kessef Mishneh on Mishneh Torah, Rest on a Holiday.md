@@ -185,29 +185,26 @@ Version (He): Torat Emet 363 (Segments: 35, License: Public Domain)
 
 
 
-## Chapter 6
+## Chapter 7
 
 
 ### Halakhah 2
 
-###### Kessef Mishneh on Mishneh Torah, Rest on a Holiday 6:2:1
+###### Kessef Mishneh on Mishneh Torah, Rest on a Holiday 7:2:1
 
-[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Rest%20on%20a%20Holiday/r/6:2:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Rest%20on%20a%20Holiday/r/6:2:1)
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Rest%20on%20a%20Holiday/r/7:2:1](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Rest%20on%20a%20Holiday/r/7:2:1)
 
 
 **וכשהוא משקה אותה לא ידלה וישקה מן הבריכה וכו'.** נראה מדברי רבינו לכאורה שכל שהוא צריך לדלות ולהשקות מיקרי טירחא יתירא ואסור אבל אם אינו צריך אלא להמשיך ולהשקות ולא לדלות כלל משמע דשרי אפילו במי בריכה או מי גשמים ויש לתמוה שכפי מה שאמרו בגמרא (מ"ק דף ד'.) במי גשמים אפילו ממשיך אסור או גזירה אטו מי קילון או משום דמי גשמים נמי לידי מי קילון אתו ולפיכך צריך לפרש דה"ק לא ידלה וישקה מן הבריכה וכן לא ישקה ממי הגשמים אע"פ שאינו דולה אלא ממשיך ברגלו.
 
 
-###### Kessef Mishneh on Mishneh Torah, Rest on a Holiday 6:2:2
+###### Kessef Mishneh on Mishneh Torah, Rest on a Holiday 7:2:2
 
-[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Rest%20on%20a%20Holiday/r/6:2:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Rest%20on%20a%20Holiday/r/6:2:2)
+[https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Rest%20on%20a%20Holiday/r/7:2:2](https://torahapp.org/share/book/Kessef%20Mishneh%20on%20Mishneh%20Torah%2C%20Rest%20on%20a%20Holiday/r/7:2:2)
 
 
 **ומ"ש מפני שהוא טורח גדול.** אדולה ומשקה מן הבריכה כפשטיה קאי שטורח גדול הוא ואמשקה ממי גשמים ה"ק לפי שאפשר לבא לידי טורח גדול כלומר כשיתחיל להמשיך ולהשקות יחסרו המים ויצטרך לדלות ולהשקות דהוי טורח גדול, וסוף דבריו דייקי הכי גבי מעין ממשיכו ומשקה בו משמע דלא שרי אפילו ממשיך אלא במעין דוקא אבל לא בבריכה ולא במי גשמים וכן נראה מדבריו בפירוש המשנה:
 
-
-
-## Chapter 7
 
 
 ### Halakhah 6

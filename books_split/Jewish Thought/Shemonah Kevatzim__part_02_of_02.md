@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Rav Kook public files (Segments: 5630, License: unknown)
 
-Version (En): Sefaria Community Translation (Segments: 3789)
+Version (En): Shmonah Kvatzim, trans. Yaacov David Shulman. 2025 (Segments: 3789)
 
 # Shemonah Kevatzim — part 2 of 2
 

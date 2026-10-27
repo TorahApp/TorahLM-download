@@ -14,7 +14,7 @@ Location: Talmud/Bavli/Rishonim on Talmud/Rabbeinu Gershom/Seder Moed
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Vilna Edition (Segments: 369, License: Public Domain)
+Version (He): Vilna Edition (Segments: 370, License: Public Domain)
 
 
 ## Daf 2a
@@ -1045,10 +1045,18 @@ footnotes:
 [https://torahapp.org/share/book/Rabbeinu%20Gershom%20on%20Taanit/r/8b:5](https://torahapp.org/share/book/Rabbeinu%20Gershom%20on%20Taanit/r/8b:5)
 
 
-בערבי שבתות סימן קללה הוא שאין יכולין לטרוח לכבוד שבת.¹ כדעבד לאבוך. שנעשה גל של עצמות:
+בערבי שבתות סימן קללה הוא שאין יכולין לטרוח לכבוד שבת.
 
-footnotes:
-¹ שייך לדף ט.
+
+
+## Daf 9a
+
+###### Rabbeinu Gershom on Taanit 9a:1
+
+[https://torahapp.org/share/book/Rabbeinu%20Gershom%20on%20Taanit/r/9a:1](https://torahapp.org/share/book/Rabbeinu%20Gershom%20on%20Taanit/r/9a:1)
+
+
+כדעבד לאבוך. שנעשה גל של עצמות:
 
 
 

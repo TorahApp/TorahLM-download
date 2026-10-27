@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Derashot El Ami, Jerusalem 1936 (Segments: 6583, License: Public Domain)
 
-Version (En): Sefaria Community Translation (Segments: 16)
+Version (En): Sefaria Community Translation (Segments: 17)
 
 
 ## Introduction
@@ -1285,6 +1285,9 @@ Version (En): Sefaria Community Translation (Segments: 16)
 
 
 עוד ימים מעטים ונאמר כולנו "תכלה שנה וקללותיה, תחל שנה וברכותיה", אכן גם אשתקד אמרנו זאת, וגם לפני עשרות שנים אמרנו ככה, גם אבותינו וזקנינו אמרו כזאת לפני כל שנה ושנה, מיום לידתם עד יום מיתתם, ובכל זאת שנה הולכת ושנה באה, והקללות אינן הולכות מאתנו, אך מתגברות הן מיום ליום "ואין לך יום שאין קללתה מרובה מחברתה" ו"ברבות הימים אנו נמעטים ובסגות הזמנים אנו נצערים", והאם לא באה העת עתה, אחרי קריאת התוכחה הארוכה הזו, לעשות חשבון עולמנו, ולשאול מה זה ועל מה זה הננו העם האחד בין כל השבעים אומות המצוין בהתוכחות הארוכות שלו?
+
+
+In a few more days we shall all say, "May the year and its curses end; may the year and its blessings begin." And yet last year, too, we said this; and decades ago we said the very same; our fathers and our elders also said thus before each and every year, from the day of their birth to the day of their death. And still — a year departs and a year arrives, and the curses do not depart from us; rather they grow stronger from day to day, for "there is no day whose curse is not greater than that of the one before it," and "as the days grow many we are diminished, and as the times advance we are afflicted." Has the hour not now come — after the reading of this long reproof — to make an accounting of our world, and to ask what this means and on what account we are the one people among all the seventy nations, marked out by its long reproofs?
 
 
 ###### Sermons Unto My People, The High Holidays 4:7

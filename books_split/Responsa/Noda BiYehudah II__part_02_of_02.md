@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Noda Bi-Yehudah Part II; Warsaw, 1880 (Segments: 4372, License: Public Domain)
 
-Version (En): Sefaria Responsa Anthology (Segments: 45)
+Version (En): Sefaria Community Translation (Segments: 45)
 
 # Noda BiYehudah II — part 2 of 2
 

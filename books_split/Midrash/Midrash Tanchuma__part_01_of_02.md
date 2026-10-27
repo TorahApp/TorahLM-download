@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Midrash Tanchuma -- Torat Emet (Segments: 2122, License: Public Domain)
 
-Version (En): Midrash Tanhuma-Yelammedenu, trans. Samuel A. Berman (Segments: 2122)
+Version (En): Townsend 1989 translation of Midrash Tanhuma, S. Buber Recension, edited and supplemented by R. Francis Nataf (Segments: 2122)
 
 # Midrash Tanchuma — part 1 of 2
 
@@ -9221,7 +9221,7 @@ The Holy One, blessed be He, declared: Previously I blessed My creatures, as it 
 מִנַּיִן זָכוּ הַכֹּהֲנִים לִבְרָכוֹת שֶׁיְּהוּ מְבָרְכִין אֶת יִשְׂרָאֵל. אָמַר רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה: מִיִּצְחָק, שֶׁכָּתוּב בּוֹ נֵלְכָה עַד כֹּה (בראשית כב, ה), וְאֵין כֹּה אֶלָּא בִּרְכַּת כֹּהֲנִים, שֶׁנֶּאֱמַר: כֹּה תְבָרְכוּ (במדבר ו, כג). וְרַבָּנָן אָמְרֵי: מִמַּתַּן תּוֹרָה, שֶׁנֶּאֱמַר: כֹּה תֹאמַר לְבֵית יַעֲקֹב וְתַגִּיד לִבְנֵי יִשְׂרָאֵל (שמות יט, ג).
 
 
-From whom did the priests receive the privilege of pronouncing the blessing over Israel? R. Eleazer the son of Azariah said: They received this privilege from Jacob, concerning whom it is written: *And the lad will go yonder*(*koh*) (Gen. 22:5). The word *koh* is also contained in the words spoken by Moses to the priests, as it is said: *Thus* (*koh*) *shall ye bless* (Num. 6:22). The rabbis maintained: They obtained this right at the time of the giving of the Torah, since it is said there: *Thus* (*koh*) *shalt thou say to the house of Jacob* (Exod. 19:3).
+From whom did the priests receive the privilege of pronouncing the blessing over Israel? R. Eleazer the son of Azariah said: They received this privilege from Isaac, concerning whom it is written: *And the lad will go yonder*(*koh*) (Gen. 22:5). The word *koh* is also contained in the words spoken by Moses to the priests, as it is said: *Thus* (*koh*) *shall ye bless* (Num. 6:22). The rabbis maintained: They obtained this right at the time of the giving of the Torah, since it is said there: *Thus* (*koh*) *shalt thou say to the house of Jacob* (Exod. 19:3).
 
 
 ###### Midrash Tanchuma, Vayechi 8:1
@@ -17752,7 +17752,7 @@ And when He said: *When shall they give every man a ransom for his soul* (Exod. 
 [https://torahapp.org/share/book/Midrash%20Tanchuma/s/Ki%20Tisa/r/11:1](https://torahapp.org/share/book/Midrash%20Tanchuma/s/Ki%20Tisa/r/11:1)
 
 
-‎**כִּי** תִשָּׂא אֶת רֹאשׁ, וְנָתְנוּ אִישׁ כֹּפֶר נַפְשׁוֹ. כֵּיוָן שֶׁשָּׁמַע מֹשֶׁה, אָמַר עוֹד בְּעַד עוֹר וְכֹל אֲשֶׁר לָאִישׁ יִתֵּן בְּעַד נַפְשׁוֹ (איוב ב, ד). אָמַר רַבִּי יְהוּדָה בַּר אִלְעַאי: כְּשֶׁשָּׁמַע מֹשֶׁה, יָרַד לְהוֹרוֹת וְאָמַר בְּלִבּוֹ: מָצָאנוּ שֶׁפִּדְיוֹן נֶפֶשׁ אָדָם כִּכַּר כֶּסֶף, שֶׁנֶּאֱמַר: וְהָיָה נַפְשְׁךָ תַּחַת נַפְשׁוֹ אוֹ כִכַּר כֶּסֶף תִּשְׁקוֹל (מלכים א כ, לט), כָּל אֶחָד וְאֶחָד מִיִּשְׂרָאֵל יְהֵא נוֹתֵן כִּכַּר כֶּסֶף. אָמַר רַבִּי יוֹחָנָן: מִמִּי לָמַד? מִמּוֹצִיא שֵׁם רָע. אָמַר הַכָּתוּב: וְעָנְשׁוּ אֹתוֹ מֵאָה כֶסֶף וְנָתְנוּ לַאֲבִי הַנַּעֲרָה (דברים כב, יט). וְאָנוּ הוֹצֵאנוּ שֵׁם רַע וְאָמַרְנוּ לָעֵגֶל, אֵלֶּה אֱלֹהֶיךָ, יִהְיֶה נוֹתֵן כָּל אֶחָד וְאֶחָד מֵאָה כֶּסֶף.
+‎**כִּי** תִשָּׂא אֶת רֹאשׁ, וְנָתְנוּ אִישׁ כֹּפֶר נַפְשׁוֹ. כֵּיוָן שֶׁשָּׁמַע מֹשֶׁה, אָמַר עוֹר בְּעַד עוֹר וְכֹל אֲשֶׁר לָאִישׁ יִתֵּן בְּעַד נַפְשׁוֹ (איוב ב, ד). אָמַר רַבִּי יְהוּדָה בַּר אִלְעַאי: כְּשֶׁשָּׁמַע מֹשֶׁה, יָרַד לְהוֹרוֹת וְאָמַר בְּלִבּוֹ: מָצָאנוּ שֶׁפִּדְיוֹן נֶפֶשׁ אָדָם כִּכַּר כֶּסֶף, שֶׁנֶּאֱמַר: וְהָיָה נַפְשְׁךָ תַּחַת נַפְשׁוֹ אוֹ כִכַּר כֶּסֶף תִּשְׁקוֹל (מלכים א כ, לט), כָּל אֶחָד וְאֶחָד מִיִּשְׂרָאֵל יְהֵא נוֹתֵן כִּכַּר כֶּסֶף. אָמַר רַבִּי יוֹחָנָן: מִמִּי לָמַד? מִמּוֹצִיא שֵׁם רָע. אָמַר הַכָּתוּב: וְעָנְשׁוּ אֹתוֹ מֵאָה כֶסֶף וְנָתְנוּ לַאֲבִי הַנַּעֲרָה (דברים כב, יט). וְאָנוּ הוֹצֵאנוּ שֵׁם רַע וְאָמַרְנוּ לָעֵגֶל, אֵלֶּה אֱלֹהֶיךָ, יִהְיֶה נוֹתֵן כָּל אֶחָד וְאֶחָד מֵאָה כֶּסֶף.
 
 
 **When thou takest the sum of the children of Israel … then shall they give every man a ransom (Exod. 30:12).** When Moses heard this, he said: *Skin for skin, yea, all that a man hath he will give for his life* (Job 2:4). R. Judah the son of Ilai stated: When Moses heard this he began to reflect upon it, and said to himself: Since we find that the soul of a man may be redeemed with a talent of silver, as is said: *Then shall thy life be for his life, or else thou shall pay a talent of silver* (I Kings 20:39), let each Israelite give a talent of silver. R. Johanan posed the query: From what source do we learn the penalty for debasing the reputation of a person? He explained: From the fact that Scripture states: *And they shall fine him a hundred shekels of silver, and give them unto the father of the damsel, because he has brought an evil name upon a virgin of Israel* (Deut. 22:19). Similarly, we brought an evil name (upon God) when we said of the golden calf: *This is thy God, O Israel*; therefore let each Israelite give a silver piece.

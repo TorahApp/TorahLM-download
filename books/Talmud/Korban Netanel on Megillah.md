@@ -1,6 +1,6 @@
 # Korban Netanel on Megillah
 
- קרבן נתנאל על מגילה
+קרבן נתנאל על מגילה
 
 Link: [https://torahapp.org/share/book/Korban%20Netanel%20on%20Megillah](https://torahapp.org/share/book/Korban%20Netanel%20on%20Megillah)
 

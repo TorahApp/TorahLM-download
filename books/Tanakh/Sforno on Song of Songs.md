@@ -352,7 +352,7 @@ Version (He): Chamesh Megillot, Warsaw 1875 (Segments: 332, License: Public Doma
 [https://torahapp.org/share/book/Sforno%20on%20Song%20of%20Songs/r/1:15:1](https://torahapp.org/share/book/Sforno%20on%20Song%20of%20Songs/r/1:15:1)
 
 
-**הנך יפה רעיתי.** משיב האל ית' הנה עתה אינך צריכה לאותו אופן גלוי שכינה באותו' ומופתים כמאז כי כבר עשיתיך יפה בנתינת התירה והמצו' אשר כתבתי להורות במופתים שכליים וזה בהיותך רעיתי כנזכר:
+**הנך יפה רעיתי.** משיב האל ית' הנה עתה אינך צריכה לאותו אופן גלוי שכינה באותו' ומופתים כמאז כי כבר עשיתיך יפה בנתינת התורה והמצו' אשר כתבתי להורות במופתים שכליים וזה בהיותך רעיתי כנזכר:
 
 
 ###### Sforno on Song of Songs 1:15:2
@@ -430,7 +430,7 @@ Version (He): Chamesh Megillot, Warsaw 1875 (Segments: 332, License: Public Doma
 [https://torahapp.org/share/book/Sforno%20on%20Song%20of%20Songs/r/1:17:2](https://torahapp.org/share/book/Sforno%20on%20Song%20of%20Songs/r/1:17:2)
 
 
-**חרזים.** גבוהים בחכמה ובתורה ומצות:
+**ארזים.** גבוהים בחכמה ובתורה ומצות:
 
 
 ###### Sforno on Song of Songs 1:17:3

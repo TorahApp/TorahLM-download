@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897 (Segments: 687, License: CC0)
 
-Version (En): [fr] (Segments: 22)
+Version (En): Sefaria Community Translation (Segments: 22)
 
 
 ## Introduction

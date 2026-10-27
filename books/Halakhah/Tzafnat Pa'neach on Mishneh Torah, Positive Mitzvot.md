@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Tzafnat Pa'neach on Mishneh Torah, Warsaw-Piotrków, 1903-1908 (Segments: 6, License: Public Domain)
 
-Version (En): Tzafnat Pa'neach na Mishneh Torá, Mitsvot Positivas: Mitzvá 7 - Publicado em 5784, por Saymon Pires da Silva [pt] (Segments: 3)
+Version (En): Tzafnat Pa'neach na Mishneh Torá, Mitsvot Positivas: Mitzvá 20 - Publicado em 5784, por Saymon Pires da Silva [pt] (Segments: 3)
 
 
 ## Mitzvah 7

@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015 (Segments: 104, License: CC-BY)
 
-Version (En): Le Talmud de Jérusalem, traduit par Moise Schwab, 1878-1890 [fr] (Segments: 104)
+Version (En): The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015 (Segments: 104)
 
 
 ## Chapter 1
@@ -105,7 +105,7 @@ footnotes:
 [https://torahapp.org/share/book/Jerusalem%20Talmud%20Niddah/r/1:1:5](https://torahapp.org/share/book/Jerusalem%20Talmud%20Niddah/r/1:1:5)
 
 
-בָּדְקָה וּמָצְתָה סָפֵק. פְּשִׁיטָא אֵינָהּ כִּפְקִידָה לְמָעֵט מֵעֵת לְעֵת. הוּא עַצְמוֹ מָהוּ שֶׁיִּטָּמֵא בְּסָפֵק. נִישְׁמְעִינָהּ מִן הָדָא. טוּמְטוּם וְאַנְדְּרוֹגֵינָס שֶׁרָאוּ דַּיָין שָׁעָתָן. מָה אַתְּ שְׁמַע מִינָּהּ. אָמַר רִבִּי יוֹסֵי. טוּמְטוּם וְאנְדְּרוֹגֵינָס סָפֵק וּמֵעֵת לְעֵת סָפֵק וְאֵין סָפֵק לְסָפֵק. וָכָא. רְאִיָיתָהּ סָפֵק וּמֵעֵת לְעֵת סָפֵק וְאֵין סָפֵק לְסָפֵק.
+בָּדְקָה וּמָצְתָה סָפֵק. פְּשִׁיטָא אֵינָהּ כִּפְקִידָה לְמָעֵט מֵעֵת לְעֵת. הוּא עַצְמוֹ מָהוּ שֶׁיִּטָּמֵא בְּסָפֵק. נִישְׁמְעִינָהּ מִן הָדָא. טוּמְטוּם וְאַנְדְּרוֹגֵינָס שֶׁרָאוּ דַּיָין שָׁעָתָן. מָה אַתְּ שְׁמַע מִינָּהּ. אָמַר רִבִּי יוֹסֵי. טוּמְטוּם וְאַנְדְּרוֹגֵינָס סָפֵק וּמֵעֵת לְעֵת סָפֵק וְאֵין סָפֵק לְסָפֵק. וָכָא. רְאִיָיתָהּ סָפֵק וּמֵעֵת לְעֵת סָפֵק וְאֵין סָפֵק לְסָפֵק.
 
 
 If she checked herself and found it a doubtful case²⁴ 1:2 Note 88. Therefore, it seems more likely that it cannot be determined whether there was any discharge.). It is obvious that it is not counted as a check to diminish from 24 hours²⁵. Itself²⁶, would it be impure because of doubt? Let us hear from the following: “A sexless²⁷8:6, Note 226. He could be a male with an ingrown penis. It is difficult to see how he could have a female genital discharge. or a hermaphrodite²⁸ 8:6, Notes 224,225,236,237,242. who had a discharge follow their exact timing.” What do you infer from this? Rebbi Yose said, a sexless or a hermaphrodite represent a doubt, 24 hours represent a doubt, and a doubt is not superimposed on a doubt²⁹ 75a); a prohibition in such a case would be disregarded. Cf. *Ketubot* 1:1 Note 23, *Yebamot* 16:1, last line.. So here, whether she had a discharge³⁰ represents a doubt, 24 hours represent a doubt, and a doubt is not superimposed on a doubt.
@@ -1503,7 +1503,7 @@ footnotes:
 [https://torahapp.org/share/book/Jerusalem%20Talmud%20Niddah/r/3:3:2](https://torahapp.org/share/book/Jerusalem%20Talmud%20Niddah/r/3:3:2)
 
 
-**הלכה:** הַמַּפֶּלֶת שְׁפִיר מָלֵא מַיִם כול׳. תַּנֵּי. מָלֵא מַיִם טְמֵיאָה לֵידָה. מָלֵא דָם טְמֵיאָה נִידָּה. מָלֵא בָשָׂר טְמֵיאָה נִידָּה. וְהָא תַנִּינָן. הַמַּפֶּלֶת שְׁפִיר מָלֵא מַיִם מָלֵא דָם מָלֵא גְנִינִים אֵינָהּ חוֹשֶׁשֶׁת לַוְולָד. רִבִּי בֵּיבַי בְשֵׁם רִבִּי שִׁמְעוֹן בֶּן לָקִישׁ. מַתְנִיתָא בִצְלוּלִין. בָּרְיָיתָא בָּעֲכוּרִין. רִבִּי סִימוֹן בְּשֵׁם רִבִּי יְהוֹשֻׁעַ בֶּן לֵוִי. וַאֲפִילוּ צְלוּלִין. שֶׁאֵין שְׁפִיר אֶלָּא בָאָדָם בִלְבַד. הָדָא הִיא דִכְתִיב בְּשׂוּמִי עָנָן לְבוּשׁוֹ וַעֲרָפֶל חֲתוּלָתוֹ. לְבוּשׁוֹ זֶה הַשְּׂפִיר. וַעֲרָפֶל חֲתוּלָתוֹ זוֹ הַשִּׁילְיָא.
+**הלכה:** הַמַּפֶּלֶת שְׁפִיר מָלֵא מַיִם כול׳. תַּנֵּי. מָלֵא מַיִם טְמֵיאָה לֵידָה. מָלֵא דָם טְמֵיאָה נִידָּה. מָלֵא בָשָׂר טְמֵיאָה נִידָּה. וְהָא תַנִּינָן. הַמַּפֶּלֶת שְׁפִיר מָלֵא מַיִם מָלֵא דָם מָלֵא גְנִינִים אֵינָהּ חוֹשֶׁשֶׁת לַוְולָד. רִבִּי בֵּיבַי בְשֵׁם רִבִּי שִׁמְעוֹן בֶּן לָקִישׁ. מַתְנִיתָא בִצְלוּלִין. בָּרְיָיתָא בָּעֲכוּרִין. רִבִּי סִימוֹן בְּשֵׁם רִבִּי יְהוֹשֻׁעַ בֶּן לֵוִי. וַאֲפִילוּ צְלוּלִין. שֶׁאֵין שְׁפִיר אֶלָּא בָאָדָם בִלְבַד. הָדָא הִיא דִכְתִיב בְּשׂוּמִי עָנָן לְבוּשׁוֹ וַעֲרָפֶל חֲתוּלָתוֹ. לְבוּשׁוֹ זֶה הַשְּׁפִיר. וַעֲרָפֶל חֲתוּלָתוֹ זוֹ הַשִּׁילְיָא.
 
 
 **HALAKHAH:** “If a woman miscarried an amnion full of water,” etc. It was stated⁶⁵ is quoted in the Babli, 25a.: Full of water⁶⁶ holds that there is no amniotic fluid without a fetus., she is impure for a birth; full of blood, she is impure as menstruating; full of flesh⁶⁷, she is impure as menstruating. But did we not state: “If a woman miscarried an amnion full of water, or blood, or flakes, she does not have to consider this as a child”? Rebbi Bevai in the name of Rebbi Simeon ben Laqish: The Mishnah if [the contents are] clear; the *baraita* if [the contents are] turbid. Rebbi Simon in the name of R. Joshua ben Levi: Even if all was clear, since only humans have an amnion⁶⁸, (close to Tosephta 4:12): “If a woman gives birth to an amnion which does not contain tissue, R. Joshua says it is a birth but the Sages say it is no birth”. R. Simeon ben Laqish said in the name of R. Oshaia (= Hoshaia): They quarrel if it is turbid, but if the contents are clear everybody says that it is no birth, but R. Joshua ben Levi said, their quarrel is if the contents are clear.

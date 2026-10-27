@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Shulhan Arukh, Hoshen ha-Mishpat; Lemberg, 1898 (Segments: 8594, License: Public Domain)
 
-Version (En): Sefaria Community Translation (Segments: 23)
+Version (En): Sefaria Community Translation (Segments: 74)
 
 # Me'irat Einayim on Shulchan Arukh, Choshen Mishpat — part 1 of 2
 
@@ -286,12 +286,18 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **כל ב"ד** אפי' ב"ד של ח"ל:
 
 
+1. "Every court", even a court outside of Israel
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 2:2
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/2:2](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/2:2)
 
 
 **אפילו אינם סמוכים בא"י** עמ"ש בסימן שלפני זה סס"ח פירושו:
+
+
+2. "Even though they are not semuchin in Eretz Yisrael". See what I wrote in the siman before this, at the end of se'if katan 8. Its explanation is:
 
 
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 2:3
@@ -302,12 +308,18 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **שהעם פרוצים כו'** עיין בפרישה שם כתבתי דאף דאין כל העם פרוצים אלא יחיד מהם יכולים לענוש אותו היחיד ולקנסו שלא מן הדין כפי ראות עיניהם אלא כשהעם פרוצים יכולים לתקן ולגדור כל העם ולענוש את כל אחד שיעבור תקנתם אף שלא ראו אותו האיש שהיה פרוץ במעשיו אלא כדי לגדור העם ע"ש וק"ל:
 
 
+3. "that the people are unrestrained, etc.": See in the Prishah there. I wrote that even though not all the people are unrestrained, but rather an individual among them, they can punish that individual and fine him outside the letter of the law according to what their eyes see. But when the people are unrestrained, they can enact and fence in all the people and punish each one who transgresses their enactment, even though they did not see that man as one who was unrestrained in his deeds, but rather in order to fence in the people. See there, and it is easy to understand.
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 2:4
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/2:4](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/2:4)
 
 
 **דנין בין מיתה כו'** פי' ואפי' אינו חייב מיתה וכ"כ הרמב"ם והטור הביאו ועפ"ר ודריש' מ"ש בשם נ"י:
+
+
+4. They judge both death [and money], etc.: meaning, even one who is not liable to death. And so wrote the Rambam, and the Tur cited it. And see the Prishah and Drishah, what I wrote there in the name of the Nimukei Yosef.
 
 
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 2:5
@@ -318,12 +330,18 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **ואפי' אין בדבר עדות גמורה** גם אפילו בלא התראה שא"צ עדים והתראה אלא לדון בדין תורה אבל מי שעובר על תיקוני המדינה יכולים לעשות כפי צורך שעה כ"כ בתשובת רמב"ן סימן רע"ט:
 
 
+5. And even where there is no complete testimony in the matter, and even without warning, for one does not require witnesses and warning except to judge by Torah law. But one who transgresses the ordinances of the state, they can act according to the need of the hour. So wrote the Ramban in a responsum, siman 279.
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 2:6
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/2:6](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/2:6)
 
 
 **ואפילו אין עדות גמורה** וכ' ב"י בשם רשב"א ז"ל ולדיני נפשות צריך שיהיו מוזהרים לעשות בהסכמת זקני העיר כדי שיעשו אחר צורך הגדול ובמתון עכ"ל:
+
+
+6. And even where there is no complete testimony, etc.: The Beis Yosef wrote in the name of the Rashba, of blessed memory, that for capital cases they must be cautioned to act with the agreement of the elders of the city, so that they act after great need and with deliberation. End quote.
 
 
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 2:7
@@ -334,12 +352,18 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **חובטין אותו ע"י עכו"ם** מדלא סיים לכתוב ואמרי' לו עשה מה שישראל אומרים לך כמ"ש הטור משמע דס"ל דאפי' גמר דין יוכלו לעשות ע"י עכו"ם כיון שהוא אלם ובפרט כשבאים לקונסו דלאו דין הוא ועפ"ר מ"ש מזה:
 
 
+7. They strike him by means of a non-Jew: from the fact that he did not conclude by writing "and we say to him, do what the Jew tells you," as the Tur wrote, it implies that he holds that even the final judgment they may carry out by means of a non-Jew, since he is a violent man, and especially when they are coming to fine him, for that is not [strict] law. And see the Prishah, what I wrote about this.
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 2:8
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/2:8](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/2:8)
 
 
 **ויש להם כח להפקיר כו'** וסיים שם ז"ל ולקנוס אלם ולנדותו ולהחרימו ולקללו ולהכותו ולתלוש שערו ולאסרו בבית האסורים ולהשביעו בשם ע"כ שלא עשה ושלא יעשה הדברים ובכל יהיה דעתו (פי' של דיין) לש"ש ואל יהיה כבוד הבריות קל בעיניו כו' וכתב עוד שם וכן מלקין ומבזין למי ששמעותו רעה כו' ובב"י ובד"מ הביאו מ"ש הר"ן ע"ז וה"מ באינש דעלמא אבל ת"ח כסהו כליל' עכ"ל והוא מגמרא מנחות פ' שתי הלחם וז"ל אמר ריש לקיש תלמיד חכם שסרח אין מנדין אותו בפרהסיא שנאמר (בהושע ב') וכשלת היום וכשל גם נביא עמך לילה כסהו כלילה עכ"ל:
+
+
+8. And they have the power to declare ownerless, etc.: and he concluded there, in these words: and to fine a violent man, and to place him under niduy, and to place him under cherem, and to curse him, and to strike him, and to pull out his hair, and to bind him in the prison house, and to make him swear by the Name that he did not do and that he will not do these things; and in all this his intent (meaning, the intent of the judge) shall be for the sake of Heaven, and let the dignity of others not be light in his eyes, etc. And he wrote further there: and likewise they flog and disgrace one whose reputation is bad, etc. And in the Beis Yosef and the Darchei Moshe they cited what the Ran wrote on this: and this applies to an ordinary person, but a Torah scholar — "cover him completely like the night." End quote. And it is from the Gemara in Menachos, chapter Shtei HaLechem, in these words: Reish Lakish said, a Torah scholar who has sinned, one does not place him under niduy in public, as it says (in Hosea 2): "and you shall stumble by day, and the prophet also shall stumble with you by night" — cover him like the night. End quote.
 
 
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 2:9
@@ -350,12 +374,18 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **שהמחום בית דין עליהם** לשון הטור שהמחום רבים עליהם ולפמ"ש המחבר ב"ד נראה דר"ל שהמחום הצבור לב"ד עליהם וק"ל:
 
 
+9. That the beis din has appointed them over them: the language of the Tur is "that the public has appointed them over them." And according to what the Mechaber wrote, "beis din," it appears that he means that the public appointed the beis din over them. And it is easy to understand.
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 2:10
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/2:10](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/2:10)
 
 
 **וכן** נוהגין כו' ז"ל המרדכי רפ"ב דב"מ בשם תשובת רבינו גרשון כל מי שנתמנה על הצבור הוא כאביר באבירים ויפתח בדורו כשמואל בדורו וכל מה שעשה עשוי וכ"כ הרשב"א סי' תשכ"ט דכל צבור במקומו כגאוני' לכל ישראל שתקנו כמה תקנות לכל ישראל:
+
+
+10. And so they practice, etc.: the language of the Mordechai, beginning of the second chapter of Bava Metzia, in the name of a responsum of Rabbeinu Gershom: anyone who has been appointed over the public, he is like the mightiest of the mighty, and Yiftach in his generation is like Shmuel in his generation, and whatever he did is done. And so the Rashba wrote, siman 729, that every community in its place is like the Geonim to all Israel, who enacted many enactments for all Israel.
 
 
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 2:11
@@ -366,12 +396,18 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **אע"פ שיש כו'** וכ"כ מהרי"ק בשורש ח' ובשורש י"ד דכתב דתפי' למ"ד טובי העיר יכולי' לתקן מה שירצו היינו דווקא מה שהוא צרכי הקהל אבל להפקיע ממון מא' לחבירו שאינו צורך הקהל פשיט' דלא וכן משמע בפיסקי מהרא"י סי' רע"ג ודלא אמרי' הפקר ב"ד הפקר אלא בגדול שאין בדורו כמוהו:
 
 
+11. Even though there is, etc.: and so wrote the Maharik in shoresh 8 and in shoresh 14, who wrote that even according to the one who holds that the town's leaders can enact whatever they wish, that is specifically regarding what is for the needs of the community; but to expropriate money from one person to another, which is not a communal need, it is obvious that they cannot. And so it implies in the Piskei Maharai, siman 273, and that we do not say hefker beis din hefker except with a great one who has none like him in his generation.
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 2:12
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/2:12](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/2:12)
 
 
 **או שקבל עליהם כו'** פי' דאז בדיבור בעלמא נתקיים אף בדבר שלא היה מנהג מקדם שם:
+
+
+12. Or that he accepted upon himself, etc.: meaning, that then, through speech alone, it is established, even in a matter that was not the prior practice there.
 
 
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 2:13
@@ -382,12 +418,18 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **ופסידא להאי כו'** בד"מ כתב המרדכי סיים וכתב בזה ולאו למגדר מילתא הוא אין שומעין להן עכ"ל ומשמע מזה דלמיגדר מלתח כ"ע מודים דיש כח לטובי העיר ולפ"ז צ"ל דמור"ם לא כתב דיש חולקין אלא אמ"ש שכן נוהגי' ור"ל דנוהגין כן אפי' בלי צורך שעה דמגדר מלתא וא"כ קיצר במקום שהיה לו להאריך ולפרש ודע שראיתי שכתב במרדכי לאו מגדר מלתא ולא ולאו בוי"ו ולא למגדר בלמ"ד ולפ"ז נראה דר"ל כל כה"ג אינו בכלל היתר מגדר מלתא ואין שומעים להן ואפשר דלזה נתכוין מור"ם ז"ל ומ"ה לא הזכירו כאן כאן כלל אבל הוא דוחק לפרש כן וצ"ע:
 
 
+13. And there is loss to this one, etc.: in the Darchei Moshe he wrote that the Mordechai concluded and wrote on this: "and if it is not for the sake of fencing the matter [l'migdar milsa], we do not listen to them." End quote. And it implies from this that for the sake of fencing the matter, all agree that the town's leaders have power. And according to this, one must say that Rema did not write "there are those who disagree" except on what was said, "that so they practice," meaning that they practice this even without a need of the hour, [namely] for fencing the matter; and if so, he was brief in a place where he should have been expansive and explained. And know that I have seen that it is written in the Mordechai "lav migdar milsa," with "lo" [spelled] without a vav and "lo" before "migdar" with a lamed; and according to this it appears that he means: any case like this is not included in the permission of fencing the matter, and we do not listen to them. And it is possible that this is what Rema intended, and for this reason he did not mention it here at all. But it is forced to explain so, and it requires further study.
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 2:14
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/2:14](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/2:14)
 
 
 **וכ"ש אם קבלום כו'** וכתב המרדכי בב"ב דף רמ"ט ע"ג דאין רשאין בני העיר לקיים שום דבר היכא שיש דיין מומחה או אדם חשוב בעיר כ"כ רבינו והמחבר לקמן בס"ס רל"א וי"א דוקא בדבר שהוא קנס וכ"ז הביא ד"מ ע"ש:
+
+
+14. And all the more so if they accepted them, etc.: and the Mordechai wrote in Bava Basra, folio 249, column 3, that the people of the city are not permitted to establish any matter where there is an expert judge or an important person in the city. So wrote Rabbeinu and the Mechaber further on, at the end of siman 231. And there are those who say this is specifically in a matter that is a fine. And all this the Darchei Moshe cited; see there.
 
 
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 2:15
@@ -398,12 +440,18 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **יתן מ' זהובים** ומהר"ם מירזבורג כתב מאן דאתקנס מנה בדינא סופג ארבעים. במאתים שמונים. על כל מנה ארבעים עכ"ל. והביאו בד"מ על דברי מהרי"ו הנ"ל (דאמר דמ' זהובים הוא במקום מלקות) בל' פלוגתא וגם בש"ע לא כתב אלא דברי מהרי"ו ועמ"ש בהגד"מ וע"ל סי' ת"ך סמ"א מ"ש שם:
 
 
+15. He gives forty gold pieces: and Maharam Mirzburg wrote: one who is fined a maneh by law absorbs forty; for two hundred, eighty; for each maneh, forty. End quote. And the Darchei Moshe cited it on the words of the Mahari"v mentioned above (who said that forty gold pieces is in place of lashes) in the language of a dispute; and also in the Shulchan Aruch he wrote only the words of the Mahari"v. And see what I wrote in the glosses to the Darchei Moshe, and see further siman 420, se'if katan 41, what I wrote there.
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 2:16
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/2:16](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/2:16)
 
 
 **אבל ביד הב"ד** כתב בהגהות מיימוני פ"ז דסנהדרין מעשה בא' שישב לארץ להלקותו ולא בא הממונה להלקותו ופטרו והביא ראיה לדבר ע"ש מ"ש עוד מדיני מלקות:
+
+
+16. But in the hand of the beis din: it is written in the Hagahos Maimoni, chapter 7 of Sanhedrin, [there was] an incident with one who sat on the ground to be flogged and the appointed officer did not come to flog him, and they exempted him, and he brought a proof for the matter; see there what he wrote further from the laws of flogging.
 
 
 
@@ -417,12 +465,18 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **אין ב"ד פחות משלשה** היינו מד"ס אבל מדין התורה בדיני ממונות בחד סגי וכ"כ הרמב"ם בהדיא בפ"ב דסנהדרין דפסק כרב אחא וכן משמע באשר"י בסוף פ"ק דסנהדרין ודלא כמ"ש בע"ש ע"ש:
 
 
+1. A beis din is never fewer than three — this is rabbinic, but by Torah law, in monetary cases, one judge suffices. And so the Rambam writes explicitly in perek 2 of Sanhedrin, that he paskens like Rav Acha; and so it is implied in the Rosh at the end of the first perek of Sanhedrin, and not like what is written in the Ir Shushan — see there.
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 3:2
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/3:2](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/3:2)
 
 
 **דאי אפשר דלית בהו חד דיודע סברות כו'** ל' הטור א"א דלית בהו חד דגמיר ששמע או שקרא בספרים ויודע סברות בדינים עכ"ל ואין זה גמיר וסביר הנזכר בגמרא ופוסקים דההוא מומחה מיקרי ויכול לדון יחידי ועפ"ר:
+
+
+2. For it is impossible that there should not be among them one who knows sevaros, etc. — the language of the Tur: it is impossible that there should not be among them one who is gamir, who has heard or has read in the seforim and knows the reasonings in the dinim, end quote. And this is not the "gamir and savir" mentioned in the Gemara and poskim, for that one is called a mumcheh and may judge alone — and see the Perishah.
 
 
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 3:3
@@ -433,12 +487,18 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **שאינו רוצה לדון עם התובע** בסי' י"ג יתבאר דדוקא הנתבע אינו יכול לדחותו מלדון עמו בעירו אבל התובע יכול לכופו לילך עמו לבית הוועד. ולב"ד הגדול גם הנתבע יכול לדחותו ע"ש:
 
 
+3. That he does not wish to litigate with the plaintiff — in siman 13 it will be explained that only the defendant cannot push him off from litigating with him in his city, but the plaintiff can compel him to go with him to the beis havaad. And to the great beis din the defendant too can push him off — see there.
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 3:4
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/3:4](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/3:4)
 
 
 **פחות משלשה אין וכו'** וכ"כ הרמב"ם פ"ב דסנהדרין ולאפוקי המרדכי פ"ב דסנהדרין והג"מ שם וברמב"ם שם ובטור כתב עוד דאי נקט רשות מריש גלות' או מנשיא שבא"י מותר לדון יחידי אפי' אי גמיר ולא סביר אלא משום דאין לנו עתה לא נשיא ולא ר"ג ליטול רשות מהם וכמ"ש הטור מש"ה לא רצה המחבר להאריך בפרטי דין זה וסמך אמ"ש בס"ס זה דמי שאינו מומחה כו' אע"פ שנטל כו' דנלמוד מיניה הא למומחה מהני נט"ר וק"ל:
+
+
+4. Fewer than three, no, etc. — and so the Rambam writes in perek 2 of Sanhedrin, to the exclusion of the Mordechai in perek 2 of Sanhedrin, and the Hagahos Maimoniyos there, and in the Rambam there. And in the Tur he writes further that if one took authority from the Reish Galusa or from the Nasi who is in Eretz Yisrael, he may judge alone even if he is gamir but not savir — only because we now have neither a Nasi nor a Reish Galusa to take authority from, and as the Tur writes, therefore the Mechaber did not want to go at length into the details of this din, and relied on what he writes at the end of this siman, that one who is not a mumcheh, etc., even though he took, etc. — that we should derive from it that for a mumcheh, taking authority does help. And this is easy to understand.
 
 
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 3:5
@@ -449,12 +509,18 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **או שהוא מומחה לרבים** ז"ל הטור כל שהוא חשוב כרב נחמן בדורו ובקיאי במשנה ותלמוד ובקיאי נמי בשיקול הדעת ומעיין בדיני כמה שנין ומנסין ליה זימנין סגיאין ולא חזי ביה טעותא כגון האי הוה מומחה לרבים עכ"ל ופי' מומחה הוא מנוסה כדאמרינן לענין יציאת שבת דיוצאין בקמיע שהוא מומחה ועפ"ר:
 
 
+5. Or one who is an expert to the public — this is the language of the Tur: anyone who is esteemed like Rav Nachman in his generation, expert in Mishnah and Talmud, expert also in judgment, and has reviewed cases for many years and they have tested him many times and found no error in him — such a one was an expert to the public, end quote. And the meaning of "mumcheh" is "tested," as we say regarding going out on Shabbos, that one may go out with an amulet that is mumcheh — and see the Perishah.
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 3:6
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/3:6](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/3:6)
 
 
 **ובזמן הזה אין דנין כו'** וכ"כ הטור בי"ד סי' רכ"ח לענין היתר נדרים ביחיד מומחה ובסי' של"ד לענין נתינ' ליטרא דדהבא למי שמבייש הת"ח:
+
+
+6. And nowadays we do not judge, etc. — and so the Tur writes in Yoreh Dei'ah siman 228 regarding the annulment of vows by a single expert, and in siman 334 regarding the giving of a litra of gold to one who shames a talmid chacham.
 
 
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 3:7
@@ -465,12 +531,18 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **ואינם מומחים לרבים** משמע הא אם הם מומחים אפילו אם הם פחות מג' הודאה שהיתה לפניהם הוה הודאה וכ"כ הטור בשם הרא"ש אבל הרמב"ם ס"ל דלא הוה הודאתו הודאה אפי' הם מומחין וסמוכין אם לא שהם ג' ואז אפילו בהדיוטים סגי וזהו שמסיק המחבר וכתב אפי' הן סמוכין וכל שהן סמוכי' מסתמא הן מומחין וכ"כ הרמב"ם בהדי' אפילו הוא מומחה. ואע"פ שהרמב"ם כ"כ איחיד שהוא מומחה מסתמא צ"ל כן גם כשיש שני מומחין כל זמן שאינן ג' ומהתימה על מור"ם שעירב שני הדיעות יחד ולא כתבן בל' פלוגתא כמו שכתבן הטור דפליגי אהדדי וא"ל דס"ל דבמומחה לרבים מודה הרמב"ם דהא במימוני כתב שם בהדיא דאפי' במומחה לרבים וסמוך הדין כן (ובפרישה כתבתי הטעם למה השמיט הטור בשם הרמב"ם תיבת מומחה לרבים) וי"ל בדוחק דמ"ש מור"ם מומח' לרבים ר"ל שהמחום רבים עליהם דכה"ג מהני:
 
 
+7. And they are not experts to the public — this implies that if they are experts, even if they are fewer than three, an admission made before them is a valid admission; and so the Tur writes in the name of the Rosh. But the Rambam holds that his admission is not a valid admission even if they are experts and ordained, unless they are three — and then even with laymen it suffices. And this is what the Mechaber concludes when he writes "even if they are ordained," for whoever is ordained is presumably an expert; and so the Rambam writes explicitly, "even if he is an expert." And even though the Rambam wrote this about an individual who is an expert, presumably one must say the same even when there are two experts, as long as they are not three. And it is astonishing regarding the Rama that he mixed the two opinions together and did not write them in the language of a dispute, as the Tur wrote them, that they argue with one another. And one cannot say that he holds the Rambam concedes in the case of an expert to the public, for in the Maimoni it is written there explicitly that even with an expert to the public and ordained the din is so. (And in the Perishah I wrote the reason why the Tur omitted, in the name of the Rambam, the words "expert to the public.") And one can answer, with difficulty, that what the Rama wrote "expert to the public" means that the public appointed them over themselves, for in such a case it does help.
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 3:8
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/3:8](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/3:8)
 
 
 **לא הוחזק כפרן** והיינו כל זמן שלא אמר לפניהם אתם עדי דזה מהני לכ"ע בכל עדים כמ"ש הטור והמחבר בסי' ל"ב ופ"א לענין הודאה ובסי' ע"ט לענין הוחזק כפרן וגם בלא אתם עדי כל שאמר בפניהם בלשון הודאה גמורה ס"ל להרמב"ם בעל סברא זו דמהני והכא איירי בדלא אמר בפניהן בל' הודאה גמורה ע"ש:
+
+
+8. He is not established as a denier — that is, as long as he did not say before them "you are my witnesses," for this is effective according to all opinions, for all witnesses, as the Tur and the Mechaber write in siman 32, and in chapter 1 regarding admission, and in siman 79 regarding being established as a denier. And even without "you are my witnesses," whenever he spoke before them in the language of a complete admission, the Rambam who holds this view holds that it is effective; and here it deals with where he did not speak before them in the language of a complete admission — see there.
 
 
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 3:9
@@ -481,12 +553,18 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **אע"פ שיחיד מומחה לרבים מותר כו'** הטור כ"כ אמי שנטל רשות ועפ"ר ודרישה:
 
 
+9. Even though a single expert to the public is permitted, etc. — the Tur wrote this regarding one who took authority; and see the Perishah and Derishah.
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 3:10
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/3:10](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/3:10)
 
 
 **שיושיב אחרים עמו** כן הוא ל' הרמב"ם אחרים ול' הטור שיושיב אחר עמו ועפ"ר:
+
+
+10. That he should seat others with him — so is the language of the Rambam, "others," and the language of the Tur is "that he should seat another with him" — and see the Perishah.
 
 
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 3:11
@@ -497,12 +575,18 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **ומוטב שיחתוך הדין בי"א וכו'** דכשהן מרובין מדקדקין כולם ויצא הדין לאמיתו יותר ומ"ש בעשרה ל"ד דהוא ב"ד שקול ועפ"ר שם כתבתי למה נקט שיעור עשרה וי"א:
 
 
+11. And it is better that he should decide the din with eleven, etc. — for when they are many they all examine carefully, and the din comes out truer. And what he says "with ten" is not precise, for that would be an evenly balanced beis din; and see the Perishah, where I wrote there why he took the measure of ten and eleven.
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 3:12
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/3:12](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/3:12)
 
 
 **וצריך שיהיו כל היושבי' בב"ד ת"ח וראוים** ר"ל כל העשרה הנ"ל שיושבים בב"ד אבל לא קאי אתלמיד היושב לפני רבו וכמשמעות ב"י דשם א"צ שיהא ת"ח אלא שלא יהא בור:
+
+
+12. And it is necessary that all who sit in the beis din be talmidei chachamim and fit — that is to say, all ten mentioned above who sit in the beis din; but it does not refer to a student who sits before his teacher, for as is the implication of the Beis Yosef there, he need not be a talmid chacham, only that he not be an ignoramus.
 
 
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 3:13
@@ -513,12 +597,18 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **עד שידע עם מי יושב** בתשו' מהרי"ו סי' קמ"ז כתב למהר"ש ז"ל ואם תשמע לעצתי לא תשב אצל הקהל בשום דין דידעת שפסקי הבעלי בתים ופסקי הלומדים הם שני הפכים ואמרו בפרק זה בורר כך היו נקיי הדעת שבירושלים עושים לא היו יושבים בדין אלא אם כן היו יודעין מי ישב עמהם כו' ע"ש:
 
 
+13. Until he knows with whom he sits — in the responsa of the Mahari Weil siman 147 he wrote to the Maharash, of blessed memory: "And if you will heed my advice, do not sit with the community in any din, for you know that the rulings of the laymen and the rulings of the learned are two opposites; and they said in perek Zeh Borer that this is what the refined ones of Yerushalayim used to do — they would not sit in judgment unless they knew who would sit with them, etc." — see there.
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 3:14
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/3:14](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/3:14)
 
 
 **מי שאינו מומחה כו'** פי' שאינו לא גמיר ולא סביר כי הגמיר ולא סביר נקרא מומחה סתם בלשון הרמב"ם ומהני לי' נט"ר והגמיר וסביר נקרא מומח' לרבים בל' הרמב"ם כל זה הוכחתי בפרישה ע"ש:
+
+
+14. One who is not an expert, etc. — meaning that he is neither gamir nor savir; for one who is gamir but not savir is called a stam "mumcheh" in the Rambam's terminology, and taking authority is effective for him, while one who is gamir and savir is called "mumcheh to the public" in the Rambam's terminology. All this I have proven in the Perishah — see there.
 
 
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 3:15
@@ -529,6 +619,9 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **אינו דינו דין.** והרמב"ם והטור סיימו בזה ז"ל ואם טעה ונשא ונתן ביד חייב לשלם כו' עפר"וד:
 
 
+15. His ruling is not a [valid] ruling. And the Rambam and the Tur concluded on this, in their language: "And if he erred and engaged in the matter by hand, he is liable to pay, etc." — see the Perishah and Derishah.
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 3:16
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/3:16](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/3:16)
@@ -537,12 +630,18 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **ודן בפני ב"ד** בטור כתב בפני ב"ד אחר אבל ברמב"ם לא כתב תיבת אחר וגם א"צ לו דהני שדנו לאו ב"ד מיקרי ומשום הכי כתב שיכולין לחזור ולדון לפני ב"ד וק"ל וכך כ' המחבר לקמן סוף סי' כ"ה ע"ש:
 
 
+16. And he was judged before a beis din — in the Tur it is written "before another beis din," but in the Rambam the word "another" is not written; and indeed it is not needed, for these who judged are not called a beis din, and therefore he wrote that they may go back and be judged before a beis din. And this is easy to understand. And so the Mechaber writes later at the end of siman 25 — see there.
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 3:17
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/3:17](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/3:17)
 
 
 **להושיב דיינים מי שירצה** מיהו צריך שיהא גמיר וסביר וכמ"ש לפני זה:
+
+
+17. To appoint judges, whomever he wishes — however, he must be gamir and savir, as written before this.
 
 
 
@@ -1211,12 +1310,18 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **מאד מאד כו'** כן הוא ל' הטור ובפרישה כתבתי דמשום דחמדת ומשיכ' האדם אחר הממון הזהיר באזהרה כפולה וכתב מאוד מאוד ומה"ט גם הטור בי"ד סי' ק"ס בדין ריבית הזהיר בלשון זה וכתב מאוד מאוד צריך ליזהר באיסור ריבית גם בר"ס של"ו בי"ד כתב לענין רפואה ז"ל והוא שיזהר מאוד מאוד כמו שראוי ליזהר בדיני נפשות כו' והיינו מפני חומר פקוח נפש וכן הזהיר באיסור ערוה בא"ע ר"ס כ"א ואב לכולם מה שהזהירו חכמי המשנה בל"ז ואמר מאוד מאוד הוי שפל רוח מפני שטבע האדם למשוך אחר הגאות:
 
 
+This is the language of the Tur, and in the Prishah I wrote that because of a person's craving and being drawn after money he warned with a doubled warning and wrote very very, and for this same reason the Tur also in Yoreh Deah siman 160 in the law of ribbis warned with this expression and wrote one must be very very careful in the prohibition of ribbis, and also at the beginning of siman 336 in Yoreh Deah he wrote regarding medicine, and these are his words, and he should be very very careful just as it is fitting to be careful in capital cases etc., and that is because of the severity of pikuach nefesh, and likewise he warned regarding the prohibition of arayos in Even HaEzer at the beginning of siman 21, and the father of them all is what the Sages of the Mishnah warned with this same expression when they said very very be lowly of spirit, because it is a person's nature to be drawn after arrogance.
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 9:2
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/9:2](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/9:2)
 
 
 **אפילו לזכות את הזכאי** כן הוכיחו בגמרא דכתובות דמדכתיב לא תקח שוחד דאילו להטות משפט כבר הוזהר ע"ז כמ"ש לא תטה משפט לא תעשו עול במשפט והטעם מפורש בקרא שנאמר כי השוחד יעור ודרז"ל שוחד נוטריקון "שהוא "חד ר"ל שהנותן והמקבל נעשים גוף אח' וא"א להשמר שלא יטה אחריו וכיון דאסור לקבלו מחד אסור ג"כ לקבל מתרוייהו בשוה ואפילו משניהן יחד אע"ג דלא שייך שם ה"ט וכמ"ש בדרישה ע"ש:
+
+
+So they proved in the Gemara in Kesubos, that from what is written do not take a bribe, for as to perverting judgment he has already been warned about that, as it is written do not pervert judgment, do not commit injustice in judgment, and the reason is explicit in the verse, as it says for the bribe blinds, and the Sages expounded that shochad is a notarikon of she'hu chad, meaning that the giver and the receiver become one body and it is impossible for him to guard himself from inclining after him, and since it is forbidden to accept it from one it is likewise forbidden to accept from both of them equally, and even from the two of them together, even though that reason does not apply there, and as I wrote in the Drishah, see there.
 
 
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 9:3
@@ -1227,12 +1332,18 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **צריך להחזירו כשיתבענו** אבל בלא תביעה א"צ להחזירו כיון דלא קבלו אלא מרצון הנותן וכדי לזכות את הזכאי ול"ד לריבית דכתיב ביה וחי אחיך עמך עליך להחזיר לו כדי לחיות בו ועפ"ר:
 
 
+But without a demand he need not return it, since he accepted it only with the willingness of the giver and in order to vindicate the just, and it is not comparable to ribbis, regarding which it is written and your brother shall live with you, upon you to return it to him so that he may live by it, and see further in the Prishah.
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 9:4
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/9:4](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/9:4)
 
 
 **שוחד דברים** בפרישה כתבתי דר"ל שוחד עניני' כמו ההוא דנטל גדפא מהדיין או כסה רוק שלפניו וכן משמע בגמרא מיהו אפילו שוחד דברים ממש ג"כ אסור כמו להקדים לו שלום ולא היה דרכו להקדים לו שלום וכל כיוצא בזה וכמו שאסרו דברים כאלו באיסור ריבית כמ"ש הטור והמחבר בי"ד סימן ק"ס ע"ש:
+
+
+In the Prishah I wrote that it means bribery of matters, like the one who removed a feather from the dayan or covered spittle that was before him, and so it is implied in the Gemara, however even actual bribery of words is likewise forbidden, such as to greet him first when it was not his way to greet him first, and everything of that kind, just as they forbade such things in the prohibition of ribbis as the Tur and the Mechaber wrote in Yoreh Deah siman 160, see there.
 
 
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 9:5
@@ -1243,12 +1354,18 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **אבל היה לו להשאיל כו'** פי' אפילו לא השאילו עדיין כיון דיש לו להשאיל אז שאלתו ששאל ממנו אין עליו תורת שוחד שהרי גם הוא יכול לשאול ממנו כשירצה ועפ"ר שכן מוכח מלשון הגמרא וכן מוכרחים אנו לפרש דברי הטור וכמ"ש בפרישה ע"ש:
 
 
+That is to say, even if he has not yet lent to him, since he has items to lend, then the borrowing that he borrowed from him does not carry upon it the status of a bribe, for he too is able to borrow from him whenever he wishes, and see further in the Prishah, that so it is proven from the language of the Gemara, and so we are compelled to explain the words of the Tur, and as I wrote in the Prishah, see there.
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 9:6
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/9:6](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/9:6)
 
 
 **אין הנתבע יכול לפסלו** אפילו אם בשעה ששלח לו היתה תביעתו מפורסמת שיתבענו באותו תביעה טור:
+
+
+Even if at the time that he sent it to him his claim was already well known, that he would sue him with that claim. Tur.
 
 
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 9:7
@@ -1259,12 +1376,18 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **ממדת חסידותו** וכתב מהרד"ך בית כ"ו הא דאינו אלא מדת חסידות היינו כשעשה כן להדיין שלא בפני בע"ד חבירו אבל בפניו ודאי אסור דודאי יסתתמו טענותיו וק"ל ועד"מ שהביאו:
 
 
+And the Mahardach wrote, bayis 26, that this that it is only a matter of piety is where he did so to the dayan not in the presence of his fellow litigant, but in his presence it is certainly forbidden, for his claims will certainly be shut up, and this is easily understood, and see the Darchei Moshe who cited him.
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 9:8
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/9:8](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/9:8)
 
 
 **כי חובה על ישראל לפרנס כו'** ילפינן לה מדכתיב והכהן הגדול מאחיו גדלהו משל אחיו:
+
+
+We derive it from what is written, and the kohen who is greater than his brothers, make him great from that which belongs to his brothers.
 
 
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 9:9
@@ -1275,12 +1398,18 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **או הקדשות סתם** פי' לאפוקי אם הקדישו לשום דבר מיוחד אז אסור לשנותו לדבר אחר וכמ"ש בא"ח סי' קנ"ג ובי"ד סי' רנ"ו ועפ"ר:
 
 
+That is to say, to exclude a case where they dedicated it for some specific purpose, in which case it is forbidden to divert it to another purpose, and as is written in Orach Chaim siman 153 and in Yoreh Deah siman 256, and see further in the Prishah.
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 9:10
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/9:10](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/9:10)
 
 
 **ויותר טוב לגבות כו'** אמ"ש המחבר ומגבין אותה מתחלת השנה או בסופה קאי:
+
+
+This refers to what the Mechaber wrote, and they collect it from the beginning of the year or at its end.
 
 
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 9:11
@@ -1291,12 +1420,18 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **הנוטים אחרי הבצע** בבני שמואל כתיב דלא הלכו בדרכי אביהן ויטו אחרי הבצע ועד"ר מ"ש בזה:
 
 
+Regarding the sons of Shmuel it is written that they did not walk in the ways of their father and they turned aside after profit, and see the Drishah for what I wrote on this.
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 9:12
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/9:12](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/9:12)
 
 
 **הנוטל שכר לדון כו'** גם הנוטל שכר להעיד אין עדותו עדות וכן הוא במשנה בהדיא וכתבו מור"ם לקמן סי' ל"ד סעיף י"ח ע"ש:
+
+
+Also one who takes payment to testify, his testimony is not testimony, and so it is explicitly in the Mishnah, and the Rama wrote it below in siman 34 se'if 18, see there.
 
 
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 9:13
@@ -1307,12 +1442,18 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **אא"כ ידוע שלא נטל כו'** פי' ואז אותו דין הוה דין אע"פ שנטל שכר על דינים אחרים שדן לפני זה ולאחריו ול"ד לעובר עבירה אחת שכל דיניו ועדותיו בטלים עד שעושה תשובה דשאני הכא דלא עבר על לאו אלא משום קנס הוח וכמ"ש הרא"ש וע' בד"מ ובהגהותיו עוד מזה:
 
 
+That is to say, and then that judgment is a valid judgment, even though he took payment for other cases that he judged before this one and after it, and it is not comparable to one who transgresses a single sin, all of whose judgments and testimonies are void until he does teshuvah, for it is different here, since he did not transgress a negative commandment, but rather it is on account of a fine, and as the Rosh wrote, and see the Darchei Moshe and his glosses for more on this.
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 9:14
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/9:14](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/9:14)
 
 
 **ואומר לבעלי דין תנו כו'** כצ"ל ואומר בוי"ו ודוקא כשהתנה עמהם מתחלה דינא הכי שנוטל מהן כל שכר פעולתו שבטל ממנה ומשום שנאמר אפס כי לא יהי' בך אביון אבל אם לא התנה ודן ואח"כ בא ליטול מהן שכר בטילה (דמוכח) א"צ ליתן להם אלא כשיעור שרוצה אדם ליקח ולישב בטל מאותה מלאכה שנתבטל ממנו כדין משיב אבידה שיתבאר לקמן בסי' רס"ד ורס"ה בענין המקבל עסק מחבירו לענין ריבית כתבו הטור והמחבר בי"ד סי' קע"ז ובדין ראיית מומי בכור בי"ד סי' שי"ב ועמ"ש שם עוד מזה:
+
+
+This is the correct reading, v'omer with a vav, and specifically when he stipulated with them at the outset is the law so, that he takes from them the entire wage of the work from which he is idled, and because it is stated only that there shall be no destitute among you, but if he did not stipulate and he judged and afterwards comes to take from them evident schar batalah, they need only give him the measure that a person would be willing to take in order to sit idle from that work from which he was idled, like the law of one who returns a lost object, which will be explained below in simanim 264 and 265, and regarding one who receives a business venture from his fellow with respect to ribbis the Tur and the Mechaber wrote in Yoreh Deah siman 177, and in the law of examining the blemishes of a firstborn animal in Yoreh Deah siman 312, and see what I wrote there further on this.
 
 
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 9:15
@@ -1323,12 +1464,18 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **ה"ג אבל אם אינו ניכר** כגון שאין לו מלאכה ידוע אלא שאומר כו' וכן הוא בטור:
 
 
+This is the correct reading, but if it is not evident, for example that he has no known work but rather he says etc., and so it is in the Tur.
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 9:16
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/9:16](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/9:16)
 
 
 **כגון שאין לו מלאכה ידוע כו'** עד אסור עיין דרישה שכתבתי שמתשובת הרא"ש משמע (אבל אינו מוכח כ"כ) שגם בכה"ג דיניו בטלין ודוקא בכה"ג שאמר שמא יזדמן לי שכר בקנין סחורה שהוא דבר שאינו תלוי בו ואינו מצוי כ"כ אבל אם בעל מלאכה הוא אף שאינו מתעסק במלאכתו בשעה שבא לדון לפניו מ"מ כיון שהדבר תלוי בו אף שמכוער הדבר ליטול איזה שכר לכתחלה מ"מ דינו דין בדיעבד ועד"ר מ"ש עוד מזה:
+
+
+Up to the word forbidden. See the Drishah where I wrote that from the teshuvah of the Rosh it is implied, though it is not so well proven, that even in such a case his judgments are void, and specifically in such a case where he said perhaps profit will chance upon me through the purchase of merchandise, which is a matter that does not depend on him and is not so readily available, but if he is a craftsman, even though he is not engaged in his craft at the time that the case comes before him, nevertheless, since the matter depends on him, even though it is an unseemly thing to take any payment lechatchilah, nevertheless his judgment is a valid judgment b'di'eved, and see the Drishah for what I wrote further on this.
 
 
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 9:17
@@ -1339,12 +1486,18 @@ Version (En): Sefaria Community Translation (Segments: 23)
 **להניח לתלמיד בור שישב לפניו** עמ"ש בסי"ג בסעיף ד' אמ"ש שצריך שיהיו כל היושבים בב"ד ת"ח וראוים:
 
 
+See what I wrote in siman 3 on se'if 4, on what he wrote there that all those who sit on the beis din must be talmidei chachamim and fit.
+
+
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 9:18
 
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/9:18](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/9:18)
 
 
 **ורואה זכות לעני כו'** ה"ה כששניהם עניים או עשירים וכתב מור"ש ז"ל דלרבותא נקט זכות לעני כו' דאע"ג דאיכא עליו כבוד רבו וכבוד העשיר אפ"ה לא ישתוק:
+
+
+The same applies where both of them are poor or both of them are wealthy, and the Maharshal wrote that it takes the case of a point in favor of a poor person as the stronger case, for even though the honor of his teacher and the honor of the wealthy person rest upon him, even so he should not stay silent.
 
 
 
@@ -4308,7 +4461,7 @@ Version (En): Sefaria Community Translation (Segments: 23)
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/29:4](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/29:4)
 
 
-**אין שומעין לו דכתיב אם לא יגיד ונשא עונו** דמשמע דכל שלא הגיד ראשונה נושא עון ולא מהני מה שיבא לחזור בו (הג"ה וכתב בהג"מר דעדים שהעידו בב"ד וחזרו והעידו בחילוף (אף) מלקין אותן ועדות הראשונה קיימת):
+**אין שומעין לו** דכתיב אם לא יגיד ונשא עונו דמשמע דכל שלא הגיד ראשונה נושא עון ולא מהני מה שיבא לחזור בו (הג"ה וכתב בהג"מר דעדים שהעידו בב"ד וחזרו והעידו בחילוף (אף) מלקין אותן ועדות הראשונה קיימת):
 
 
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 29:5
@@ -40126,7 +40279,7 @@ Version (En): Sefaria Community Translation (Segments: 23)
 [https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/203:7](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/203:7)
 
 
-**והנותן א' מהן בדמי מטלטלין לא קנה ואין אחדנקנה בקנין ולא נעשה קנין** הרי לך ג' עניינים מתחלה אמר שאם בא ראובן לקנות משמעון דבר מטלטלין ונותן לו שווי מטבעות הללו לא קנה המטלטל כדין מעות שאינו קונה מטלטלין בהן מטעם שמא יאמר נשרפו חיטך בעלייה וכמ"ש הטור והמחבר בסי' קצ"ח ואח"כ אמר שאינו נקנה בקנין ר"ל קנין חליפים אלא אפי' אם ייחד ראובן מעות ממטבעות הללו כדי שווין של טלטול שקונה משמעון ומושך ראובן הטלטול של שמעון לא נקנו לשמעון המטבעות שייחד לו דגם בזה שם קנין חליפים יש עליו שהרי אם נאבדו המעות שייחד לו פטור ראובן מליתן לו אחרים ואע"ג דהמחליף פרה בחמור וייחדו זה כנגד זה קנה זא"ז אע"פ דאם נאבד זה שלא משך א"צ לשלם לו אחר שאני התם דאביד' ומיתה לא שכיחי כולי האי משא"כ בצורה דעביד' דבטל' וזה בכלל אמרו שאם נאבד הוא פטור משא"כ כשלא ייחד לו מטבע אלא ראובן משך (דמי) טלטל שקנה ממנו ע"מ ליתן לו בעדו דרך משל י' זהובים דאז הן בחוב על ראובן דאף אם נגנבו המעות שביד ראובן עכ"פ חייב ליתן לשמעון דמי טלטל שקנה ממנו שהן בחוב עליו וזהו שכ' מור"ם ז"ל בהג"ה ודוקא בתורת חליפים שייחד לו המעות אבל בתורת דמים כו' והוא מטעם שכתבתי וקאי מור"ם אמ"ש המחבר ואין א' מהן "נקנין "בקנין דגם זה בכלל שם קניה הוא הואיל ויחד לו המעות וכמ"ש ואח"כ כתב המחבר לא נעשה קנין ור"ל שאין קונים בהן בתורת חליפים והוא אשר כבר כתב דאף אם אמר קח מידי דינר זה בחליפי חפץ שבידך כדין חליפים דק"ס אף ע"פ שג"כ שם כלי עליו ששוקלין כנגדו ותולין לבתו בצווארה אפ"ה ל"מ מטעם דכבר נתבאר דצורה עבידי דבטלה והמקנה מטלטלים לקנות מטבע דעתו אצורת' וק"ל:
+**והנותן א' מהן בדמי מטלטלין לא קנה ואין אחד נקנה בקנין ולא נעשה קנין** הרי לך ג' עניינים מתחלה אמר שאם בא ראובן לקנות משמעון דבר מטלטלין ונותן לו שווי מטבעות הללו לא קנה המטלטל כדין מעות שאינו קונה מטלטלין בהן מטעם שמא יאמר נשרפו חיטך בעלייה וכמ"ש הטור והמחבר בסי' קצ"ח ואח"כ אמר שאינו נקנה בקנין ר"ל קנין חליפים אלא אפי' אם ייחד ראובן מעות ממטבעות הללו כדי שווין של טלטול שקונה משמעון ומושך ראובן הטלטול של שמעון לא נקנו לשמעון המטבעות שייחד לו דגם בזה שם קנין חליפים יש עליו שהרי אם נאבדו המעות שייחד לו פטור ראובן מליתן לו אחרים ואע"ג דהמחליף פרה בחמור וייחדו זה כנגד זה קנה זא"ז אע"פ דאם נאבד זה שלא משך א"צ לשלם לו אחר שאני התם דאביד' ומיתה לא שכיחי כולי האי משא"כ בצורה דעביד' דבטל' וזה בכלל אמרו שאם נאבד הוא פטור משא"כ כשלא ייחד לו מטבע אלא ראובן משך (דמי) טלטל שקנה ממנו ע"מ ליתן לו בעדו דרך משל י' זהובים דאז הן בחוב על ראובן דאף אם נגנבו המעות שביד ראובן עכ"פ חייב ליתן לשמעון דמי טלטל שקנה ממנו שהן בחוב עליו וזהו שכ' מור"ם ז"ל בהג"ה ודוקא בתורת חליפים שייחד לו המעות אבל בתורת דמים כו' והוא מטעם שכתבתי וקאי מור"ם אמ"ש המחבר ואין א' מהן "נקנין "בקנין דגם זה בכלל שם קניה הוא הואיל ויחד לו המעות וכמ"ש ואח"כ כתב המחבר לא נעשה קנין ור"ל שאין קונים בהן בתורת חליפים והוא אשר כבר כתב דאף אם אמר קח מידי דינר זה בחליפי חפץ שבידך כדין חליפים דק"ס אף ע"פ שג"כ שם כלי עליו ששוקלין כנגדו ותולין לבתו בצווארה אפ"ה ל"מ מטעם דכבר נתבאר דצורה עבידי דבטלה והמקנה מטלטלים לקנות מטבע דעתו אצורת' וק"ל:
 
 
 ###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 203:8
@@ -57082,437 +57235,6 @@ Version (En): Sefaria Community Translation (Segments: 23)
 
 
 **בד"א בפקדון שהלכו בעליו למדינת הים אבל אם היה עמו באותו הארץ כו'** כן הוא ג"כ ברמב"ם אבל בטור כתב כאן ז"ל בד"א שאין המפקיד עמו במדינ' אבל אם הוא עמו כו' וסתם מדינה בל' הגמ' ופוסקי' הוא עיר וכ"כ הטור בהדיא בסי' רס"ז וסי"ט ז"ל וכדרך שאמרו באבידה אמרו בפקדון שהלכו בעליו למדינת הים אבל אם הם בעיר א"צ לטפל בהן עכ"ל מיהו יש לדקדק מדהתחיל שם במדינת הים וכל' הגמרא דמוקי לה הכי וסיים אבל אם הם בעיר דהן שתי קצוות רחוקות צ"ל דמ"ש אבל אם הם בעיר אינו ר"ל דוקא עמו דנפקד בעיר א' אלא ה"ק דוקא כשהוא במדינת הים שהוא נעלם מהעין ולא ידענו עת בואו אבל אם הוא בעיר ר"ל שהוא עם הנפקד במקום ישוב במדינה אחת א"צ לטפל בו ולפ"ז יהיו דברי הרמב"ם והמחבר והטור בענין א' ודוק ועמ"ש בפרישה בסי' רס"ז:
-
-
-
-## Siman 293
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 293:1
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/293:1](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/293:1)
-
-
-**אין המפקיד יכול לתבוע כו'. בהלואה אין הדין כן כמ"ש הטור מחבר לעיל ר"ס ע"ד דאפי' הלוהו ביישוב יכול לתובעו במדבר כשטוען ברי שיש להלוה מעות לפרוע לו כולו או חציו יתר מכדי סיפוקו שצריך לכדי חיותו בהיותו במדבר מיהו בלוה שרוצה להחזיר למלו' הלואתו דינו כמו כאן בנפקד דבכל מקום ביישוב יכול להחזירו לו ולא במדבר כשההלואה הית' בישוב וע"ש שכתבתי טעם הדברי':**
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 293:2
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/293:2](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/293:2)
-
-
-**אפי' נתנו לו בעל כרחו כו'** ע"ל סי' ק"כ בטור ובדברי המחב' בענין פרעון המלוה בע"כ דיש בו חילוקי דינים:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 293:3
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/293:3](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/293:3)
-
-
-**אבל אם אמר להביא לו כו'.** פירוש הנפקד אומר למפקיד המתן כאן ואביא לך פקדון שלך והמפקיד לא המתין ונאנס מיד הנפקד אחר הבאתי אפ"ה נשאר האחריות על הנפקד כן כתב במרדכי ובד"מ ולא "כעיר שושן שכתב האי דינא בל' זה אבל אם א"ל המפקיד להביא לו והלך לו חייב הנפקד עכ"ל ולא דק לעיין במקום מקור הדין ופירש דברי מור"ם ז"ל במ"ש א"ל להביא לו דהמפקיד אמר לו כן להנפקד וזה אינו נכון דהרי סיים מור"ם וכ' והמפקיד הלך לו ש"מ דמנפקד איירי לפני זה גם מצד הדין אינו נרא' כיון דבלא הפקידו לזמן איירי כאן וכדמוכח ממ"ש אחר זה א"כ מיד שגילה המפקיד שניחא ליה בהחזרת פקדון לידו וא"ל הביא לי פקדוני לא גרע הנפקד משליח ששלח המפקיד שלוחו לקבל פקדונו ונאנס ביד שלוחו דהאחריו' על המפקיד:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 293:4
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/293:4](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/293:4)
-
-
-**אינו יכול להכריחו כו'** דיכול לומר לו כבר קבלת עליך שמירתו עד זמן פלוני אבל לענין הלואה אין הדין כן שקביעות זמן הלוא' הוא לטובת הלוה וכמ"ש המחבר בסי' ע"ד סס"ב ע"ש:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 293:5
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/293:5](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/293:5)
-
-
-**אלא יאמר לו הרי הוא באחריותך כו'.** כן הוא ל' הרמב"ם ובטור כתב דאם מקבל עליו הנפקד אחריות צריך המפקיד לקבל במדבר ובודאי גם הרמב"ם מודה בזה דאז הוה מדבר לו כישוב וכן מוכח בב"י ע"ש:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 293:6
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/293:6](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/293:6)
-
-
-**א"ל אני רוצה לצאת כו' יכול להחזיר כו'** עפ"ר שם כתבתי טעם למה שינה הטור והמחבר כאן ממ"ש הטור ומור"ם בהלואה סי' ע"ד ס"א כי שם כתב אם התחיל הלוה לומר אני רוצה לצאת למדבר כו' וגם סיים שם וצריך לקבל במדבר וכתבתי דאורחא דמלתא נקט הכא והתם בפקדון מסתמא כשרוצה המפקיד לצאת ולילך בדרך רחוקה כדרך מדבר מפקיד את אשר לו ביד הנשארי' בעיר מ"ה התחיל כאן במפקיד שאמר רוצה אני לצאת כו' כדי להפקיד בידם ובהלואה כשאדם רוצה לצאת בדרך רחוקה כדרך מדבר מלוה מעות מאחרים לצורך הדרך ומ"ה התחיל שם בלוה שאמר תלויהו לי לצורך הליכתי למדבר וכשהמלוה משיב לו גם רצוני לצאת שם ה"ל כאלו הבטיחו על קבלתו שם ומ"ה כתבו שם דצריך לקבל שם דאל"כ למה אמר כן דא"ל דאמר כן כדי לתבעו שם ההלואה כשירצה דהא בל"ה יש כח ביד המלוה לתבוע הלואתו מהלוה אפי' במדבר כנ"ל וא"כ גם פירוש דיכול לחזור לו הכ' כאן ר"ל והמפקיד צריך לקבלו דאל"כ למנ"מ קאמר דיכול להחזירו לו וק"ל:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 293:7
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/293:7](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/293:7)
-
-
-**ה"ג ואי אפשר לו להוליכו כו'.** ל"ג ואין אומרין לו כו' משום דהאומרי' לו מסתמא הן הב"ד שהן הן האומרי' לאדם במה ואיך יתנהג ואם ב"ד אומרי' לו לקחנו עמו במדבר אז לא יהיה האחריות על הנפקד כיון שברשות הוליכו עמו. וברמב"ם ספ"ז דשאלה ובטור שהביאו לא כתב כן אלא ז"ל ואי אפשר להוליכם עמו שמא יארע כו' ור"ל א"א לו לעשות מעצמו וגם הב"ד ודאי לא ירשהו לעשות כן על אחריות המפקיד דמוטב לב"ד לעשות טובה למפקיד לאמר לנפקד שיניח הפקדון בב"ד וכמ"ש הרמב"ם ע"כ נראה פשוט דט"ס הוא מ"ש בס"י ואין אומרי' וצ"ל ואי אפשר וכמ"ש ברמב"ם שהעתיק ממנו "ובע"ש כת' ואין אומרים כו' ולא דק:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 293:8
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/293:8](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/293:8)
-
-
-**בין שא"ל הולך כו'.** פי' אע"ג דבמתנה ובשאר ענינים הולך לא הוי כזכי וכמ"ש הטור והמחבר בסי' קכ"ה ובסי' רמ"ג ע"ש מ"מ בהלואה ופקדון ה"ל הולך כל' זכי וה"ט דכיון דהממון כבר הוא של המלוה או המפקיד בל' כל דהו שאומר הליה או הנפקד לשליח שמסרו הממון לידו יצא מרשותו לגמרי וזכה הלה להמפקיד או להמלוה לענין שאם הנפקד הוחזק כפרן דאינו יכול לחזור בו ובהלואה אפי' אינו הוחזק כפרן כמ"ש בר"ס קכ"ה ע"ש:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 293:9
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/293:9](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/293:9)
-
-
-**אלא שהי' רגיל כו'** דכיון שהיה רגיל להפקיד אצלו ודאי ניחא ליה למפקיד שגם עתה ישאר בידו ולכאורה נראה דהיינו דוקא כשאצל זה הנפקד שהי' הפקדון בידו לא היה המפקיד רגיל להפקיד דאל"כ מאי אולמא האי מהאי:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 293:10
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/293:10](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/293:10)
-
-
-**וכן נמי אי שדר לי' כו'.** דמשדר ליה ש"מ דניחא ליה שישלח לו פקדונו לידו וזכות הוא לו הנתינה לידו מ"ה אינו רשאי לחזור מידו ומ"מ כיון דלא עשאו שליח נשארה האחריות על הנפקד:
-
-
-
-## Siman 294
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 294:1
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/294:1](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/294:1)
-
-
-**תבעו הפקדון וכפר כו'** נראה דאפילו לא הפקידו בעדים מ"מ כשתבעו זה פקדונו והוא כופר ואומר להד"ם ובאו עדים שראוהו בידו בשע' שאמר להד"ם נעשה עליו גזלן וחייב באונסים ואף אם יטעון ויאמר כוונתי במה שאמרתי להד"ם שלהד"ם הוא שבא לידי בתור' פקדון אלא בתורת מכר דא"כ ה"ל לפרש דבריו ולא לומר סתם להד"ם וע"ל ר"ס רצ"ו בדברי המחבר שגם שבועות שומרין הוא חייב אפילו הפקידו בלא עדים ושם טעם אחרינא הוא וכמ"ש שם:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 294:2
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/294:2](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/294:2)
-
-
-**מיד נעשה עליו גזלן כו'.** כ' מיד פי' אפילו קודם שנשבע על כפירתו וכמ"ש הטור והמחבר בס"ס זה ובר"ס ע"ה בכופר בהלואה מבואר דאינו נעשה עליו גזלן (ואין נ"מ בזה דהרי עכ"פ חייב באונסים) ושם כתבתי והבאתי ל' רש"י דמיירי אפילו באו עדים שהיה מעות ההלואה בידו בשעה שכפר אפילו הכי כיון שהלואה להוצאה נתנו אמרי' שמ"ה כפר שהיה צריך למעות באותה שעה ודעתו לשלם לו לאחר זמן משא"כ בפקדון דלא ניתן להוצאה ולא להשתמש בעינה:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 294:3
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/294:3](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/294:3)
-
-
-**יביא ראיה בעדים כו' ויפטר.** דכתיב אין רואה שבועת ה' תהיה בין שניהם הא יש רואה צריך דוקא ראיה ומ"ש ויפטר אפילו משבועה נלמד ג"כ מהא דכתיב אין רואה שבועת ה' תהיה בין שניהם הא יש רואה פטור אפילו משבועה ואע"פ שי"ל ששלח בה יד אחזוקי אינשי ברשיעי לא מחזקינן לאשבועי ע"ז בלחוד אם לא ע"י גלגול שבועה שנאנסה או נגנבה מידך ואותה שבועה דנאנסה או נגנבה דמשבעי' עליה משום דיש רגלים לדבר לחשדו אם אין עדים ע"ז מאחר שברור לו שהפקיד פקדון בידו והוא מודה לו בזה והשתא אין עמו מסתבר לו' שהוא ברשותו דגניבה ואונס אין שכיחין והא דכתיב שבועת ה' כו' אם לא שלח ידו כו' פי' ר"ת דמיירי כשאינו מת לפנינו דאיכא למיחש שאכלו הנפקד והמ"מ כתב דפי' הפסוק הכי הוא שהשבועה אם נגנבה ויפטר תהיה דוקא אם לא שלח יד הא אם ידוע ששלח בה יד אזי אינו נפטר בשבועה שנגנבה ועפ"ר ועיין בע"ש שנדחק מאוד בזה בדברים שאין להם טעם וכולי האי ועדיין לא כ' שם ישוב למ"ש התורה שבועת ה' תהיה כו' אם לא שלח ידו כו':
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 294:4
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/294:4](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/294:4)
-
-
-**שאם שלח בה יד.** כבר נתבאר זה בר"ס רצ"ב ע"ש.
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 294:5
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/294:5](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/294:5)
-
-
-**צריך לישבע שלא פשע כו'.** טעמם כיון דלא מוחזק בזה ברשע כולי האי מ"ה חיישינן לה משא"כ בשלח בה יד לשמש בו דעבר על דעת המפקיד בידים וכ"ש אם היה דעתו לחסרה ע"י ששלח יד דגזל בידים:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 294:6
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/294:6](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/294:6)
-
-
-**נגנב הפקדון באונס כו'.**כן הוא ג"כ ל' הגמ' והרמב"ם וגם הטור כ"כ וביותר ביאור ז"ל נגנבה באונס כגון בלסטים מזויין ועפ"ר שישבתי למה נקט בש"ח דנגנב באונס דלסטין מזויין הא ש"ח פטור בכל גניבה כשלא פשע בה ושבעינן דוקא שיהא ניכר הגנב ודוחק לומר דמשום ש"ש נקט כיון דכאן מיירי בהלכות שומר חנם וה"ל למכתב סתם נגנבה והוכר הגנב ויפורש ענין הגנבה בכל חד כענינו וכתבתי דמ"ה נקט באונס גם בש"ח משום דבאונס ליכא כפל להוציא מיד הלסטים מזויין ואז שייך לומר דהשומר צריך לטרוח להעמיד הגנב בדין בשביל המפקיד משא"כ בגניבה בלא אונס דניחא ליה לנפקד לטרוח להעמיד הגנב בדין כדי שיוציא לנפשו ממנו הכפל כי אינו מן הסברא לומר דהנפקד יטרח עם הגנב ליתן גם הכפל להמפקיד ע"ש ודוק. והיותר נראה דמ"ה נקט באונס דלסטים מזויין משום דביה צריכין טירחא דהעמדה בדין דאף דימצא האנס הא גם בתחלה באלמות ובגזילה לקחו משא"כ גנב דעלמא דכל ענינו בהסתר ומיד שימצא בעדים שהוא גנבו א"צ לדין דמעצמו ישלמנו הקרן והכפל:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 294:7
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/294:7](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/294:7)
-
-
-**עושה דין עם הגנב כו'.** כן הוא לשון הרמב"ם ומפרש המ"מ דשומרים חייבים לטרוח ולהוציא מיד הגנב אבל אם אין יכולין להוציא מיד הגנב השומרים פטורים מלשלם אבל רש"י פי' כיון שנמצא הגנב הרי השומרים מחוייבים לשלם להמפקיד עכ"פ והן יחזירו להוציא הגניבה מיד הגנב וכן כ' הטור בהדיא ע"ש והב"י כתב בפנים דגם דעת הרמב"ם נוכל לפרש שיהיה כדעת רש"י והטור כיון דדברי הרמב"ם סתומים הם כלשון הגמרא ובדרישה כתבתי דז"א כי המעיין בל' פירש"י ובל' הרמב"ם ירא' לעיני' ההבדל שביניהם ושאין ל' הרמב"ם סתומים כלשון הגמרא כי זה ל' הגמרא דלשם אתמר נגנב באונס והוכר הגנב כו' עד אמר רבא אחד ש"ח ואחד ש"ש עושה עמו דין ואינו נשבע ופירש"י עושה עמו דין השומר משלם לבעלים וחוזר הוא ונפרע מן הגנב עכ"ל הרי דפי' עוש' דין דר"ל המפקיד עם הנפקד וצריך לשלם לו מיד אחר שהוכר הגנב משא"כ להרמב"ם דפי' עושה עמו דין דר"ל הנפקד עם הגנב שכ"כ שם בהדיא סוף הל' שאלה וז"ל אחד ש"ח ואחד ש"ש עושה דין עם הגנב ואינו נשבע ולשון זה ודאי משמע כדפירשו המ"מ דאין על השומר כ"א הטירחא להעמיד הגנב בדין וכנ"ל וק"ל ועמ"ש עוד מזה בסי' ש"ה:
-
-
-
-## Siman 295
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 295:1
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/295:1](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/295:1)
-
-
-**אם היה הפקדון דבר שכל מינו כו'.** נקט תרתי עניינים האחד שצריך שיהיה דבר שמינו ידוע מצוי לקנות בשוק והשני שיהיה בדבר שמצוי לקנות שבמינו שוה לו דאם חסר א' מהשנים חוששין שמא עיניו נתן בה דאף שכל שבמינו שוה לו מ"מ אינו מצוי לקנותו ואם מצוי לקנות ואינו שוה לו בצייור ג"כ יש לחוש שמא עיניו נתן במצוייר כזה וק"ל:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 295:2
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/295:2](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/295:2)
-
-
-**ומשביעים אותו בנקיטת חפץ שאינו ברשותו ואח"כ משלם.** וא"ת כיון שצריך לישבע עכ"פ שבועה חמורה למה לי' לשלם וי"ל דאם אינו משלם צריך לכלול בשבועתו עוד שני ענינים דהיינו ששמר כראוי ושלא נהנה ממנו בשליחות יד כדמסיק המחבר וירא השומר לנפשו שמא פעם אחת נהנה ממנו קצת או שלא שמרו כראוי בעת מן העתים ועפ"ר:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 295:3
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/295:3](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/295:3)
-
-
-**וה"ה לשאר שומרים כגון השואל שאמר מת כו'.** עד אע"פ שהן חייבין לשלם משמע מדבריו שגם בש"ח שהתחיל בו וכתב שאמר הריני משלם ואיני נשבע שטוען ואומר הריני משלם כי פשעתי בה ואיני נשבע לומר שנגנבה מיהו ל"ד הוא דה"ה אם אמרו דבר שיפטרו בו מהתשלומין כגון שואל שאמר שמתה מחמת מלאכ' וש"ש טוען שמתה באונס וש"ח טוען שנגנבה אלא שאינם רוצים לישבע ע"ז אלא לשלם דג"כ משביעי' אותן תחלה שאינו ברשותו וכן התחיל הטור וכתב בר"ס זה ז"ל טען הנפקד (ר"ל ש"ח) שנגנב או נאבד ואינו רוצה לישבע כו' והמחבר נרא' דלרבות' כ"כ דל"מ כשטוען הש"ח שנגנבה וש"ש שמתה ואפי' הכי רוצים לשלם דודאי יש לחוש לרמאות כיון דלפי דבריו הוא נפטר מהתשלומין למה רוצה לשלם אלא ודאי משקר ועיניו נתן בה אלא אפי' טוען השומר חנם פשעתי בה או שומר שכר נגנבה שי"ל שהאמת טוען כאשר היה ואין כאן צד לומר שעיניו נתן בה אפ"ה חיישינן לה ומשביעינן אותו שאינו ברשותו וק"ל:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 295:4
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/295:4](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/295:4)
-
-
-**ששמר כדרך השומרים ושאירעו כך וכך.** זהו הכל ענין א' והיינו דאירעו כך וכך לש"ח הגניבה ולש"ש המיתה באותה שעה ששמרו כראוי לאפוקי אם פשע בשמירתה ונגנבה דחייב הש"ח על הגניבה וה"ה אם הוא שומר שכר והניחה לילך בהר ונפלה ומתה דהיה חייב וק"ל:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 295:5
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/295:5](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/295:5)
-
-
-**ושאינו ברשותו.** אע"ג דכבר נשבע שאירע כך וכך והיינו שנגנבה בש"ח וממילא אינה ברשותו וא"ל כדי שלא יעשה רמאות דחיישינן דאף שכבר נגנבה שמא חזרה לבא לרשותו ובש"ש אף שנשבע שנאנס מידו שמא יכול להשתדלה וכמשמעות הגמ' דפרק המפקיד (בבא מציעא דף ל"ה) דקאמר התם ז"ל דלמ' הדר טרח ומייתי לה כו' דא"כ בש"ש שטוען שמתה צריך לישבע הני ג' שבועות ובש"ש א"א לחזור לרשותו אחר שכבר מתה וצ"ל דה"ק שאירע כך וכך ולא היתה אז ברשותו דהיינו שלא נהנה ממנ' קודם לכן שע"י היתה עומדת ברשותו לענין אחריות שיבא עליה ולפי זה צ"ל דשלא שלח בה יד הוא עוד ענין אחר זולת הנאה שנהנה ממנה והוא דוחק וצ"ע:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 295:6
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/295:6](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/295:6)
-
-
-**שילם ולא רצה לישבע.** ל' המשנ' נקט מור"ם ז"ל דבריש פרק המפקיד תנן המפקיד אצל חבירו בהמה וכלים ונגנבה או נאבדה שילם ולא רצה לישבע (שנגנבה ולהיות פטור) ואח"כ נמצא הגגב למי משלם הכפל למי שהפקדון אצלו ובגמרא שם יהיב טעמא לזה דאמרי' דאע"ג דאין אדם מקנה לחבירו דבר שלא בא לעולם כאן זכה השומר בכפל משום דה"ל כאלו א"ל בשעה שמסר לו המפקיד הפקדון ומשכה ש"ח לרשותו משך אותו ושומרו ע"ת זה שבאם תגנב ותרצה לשלמני כפי שיווי הפקדון הרי פקדוני קנוי לך מעכשיו מטעם משיכה ופריך א"ה שבח גיזותיה ולדותיה נמי לקני השומר ולמה תנן חוץ מגיזותי' וולדותי' ומשני סתמא דמילתא שבח דאתי מעלמא (דהיינו כפל וה"ה אם הוקר' הבהמה אחר שהופקד' בידו דאין צריך הנפקד ליתן אלא דמי שוויה בשעת הפקדון עביד אינש דמקני (דקים להו לרבנן דניחא להו להבעלים שיהי' בטוח בקרן ע"מ שיהא ספק כפל והיוקר העתיד לבא של השומר רש"י) שבח דמגופא (דהיינו גיזותיה וולדותיה) לא עביד אינש דמקני עכ"ל הגמרא עם פירש"י ובזה דברי מור"ם ז"ל מבוארים אלא שבגמ' אמרו שם ע"ז אמר ר' יוחנן לא שילם שילם ממש אלא כיון שאמר השומר הריני משלם אע"פ שלא שילם ונמצא הגנב זכה השומר בכפל וכ"כ הפוסקי' זולת הרא"ש והטור שכתבו דאינו זוכה בהכפל כשאומר הריני משלם ולא שילם עדיין אלא כשגם נשבע שאינו ברשותו והב"י השיג קצת עליהן בזה ומנ"ל זה ומ"ה נראה דהשמיטו המחבר לגמרי כדי שלא להכניס ראשו בפלוגתא ומור"ם כתב הדין המוזכר בהמשנה והמוסכם ע"פ דעת כ"ע דהיינו כשכבר שילם ונמצא הגנב דזכה השומר בהכפל ועד"ר שם הארכתי ליתן טעם להרא"ש והטור ושאין בהשגת דברי הב"י עליהן כלום: (הג"ה וכתב בנ"י שם בשם הרשב"א דאם היה לש"ח עדים שנאנס' או נגנבה מידו ואפ"ה רוצה לשלם לו לא מקני ליה כפילא דמתחלה לא אסיק המפקיד אדעתיה שישלם לו השומר כשיהיה לו עדים בכה"ג דפטור בו ולא מקני הכפיל' מתחלה אדעתי' דהכי וה"ל כמוכר לו הכפל השתא דלא מהני עכ"ל עכ"ה):
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 295:7
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/295:7](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/295:7)
-
-
-**שאפי' היה דבר המופקד ש"פ נשבע כו'.** פי' אפי' אינו שוה אלא ש"פ נשבע עליו שבוע' השומרים אע"ג דילפינן מדכתיב בפ' שומרים כסף או כלים דהיינו שיהיה הפקדון לפחות שני מעין וכמ"ש בר"ס פ"ח ס"ל דלא לכל מילי דשומרין קאי וגם עירוב פרשיות יש כאן כמ"ש שם גם בטור שם נזכר פלוגתא זו אי בעינן שתי כסף או לא ותימ' דהמחבר סתם שם דלא בעינן שתי כסף וכאן כתב דעת החולקין ומצרכינן שתי כסף באחרונה וגם בב"י כאן כתב דכדבריהן ראוי להורות שהמה הרבי' והאחרוני' עכ"ל ובד"מ הביאו וצ"ל דסתם שם וסמך אמ"ש כאן שהוא גוף הדין:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 295:8
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/295:8](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/295:8)
-
-
-**כפירת שתי כסף.** היינו שני מעין שהוא כסף החשוב הפחות שבתורה ויליף לה מדכתיב כסף או כלים ונרא' דהאי כפיר' ל"ד קאמר אלא ר"ל תביע' שתי כסף שתבעו המפקיד להחזיר לו פקדונו ששוה שתי כסף ואף אם השומר מודה לו שהפקיד בידו שוה שתי כסף אלא שנגנב ונאנסה מידו חייבו התורה שבועה וא"צ שיכפרו דברי המפקיד וק"ל:
-
-
-
-## Siman 296
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 296:1
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:1](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:1)
-
-
-**שאין אומרי' מיגו לפטרו משביעה.** פירוש כשהפקידו בלא עדים אף דאם רצה היה יכול לכופרו ולו' שלא הפקדתני מעולם והי' פטור משבועת השומרים לא אמרי' מיגו לפטרו משבועה כי דוקא בהוצאת ממון הקילו לומר מיגו כי קשה להוציא הממון מיד בעליו אבל היכא שנפטר בשבועה מהוצאות ממון לא רצו חז"ל לפטרו משבועה מכח המיגו והי"א שכ' מור"ם החולקין (והן הרא"ש וסייעתו) ס"ל דאמרינן מיגו להפטר משבועה וכ"כ הטור בשם הרא"ש בסי' צ"ג ס"ז ז"ל אין חילוק בין ממון לשבועה דשבוע' אתיא לכלל ממון דשמא לא ישבע ונמצא מתחייב ממון עכ"ל אלא שכאן מודה הרא"ש דאינו נפטר משבועה במיגו דלא הפקדתני מטעם שכ' הטור כאן בשמו והוא דאין זה מיגו טוב דאין יכול להעיז בפני המפקיד לומר לא הפקדתני מעול' או החזרתיו לך כיון דהלה עומד נגדו ויודע האמת שהפקידו ולא החזירו לו משא"כ טענת נגנבה ומתה דאין המפקיד יודע האמת ויכול להיות שכן הוא כדברי הנפקד ומהתימ' על "ע"ש שנדחק ליתן טעם לפגם למה ס"ל להרמב"ם דלא אמרינן מיגו להפטר משבועה וטעמו מבואר ונגל' דלא הקילו לפטרו מכח מיגו כ"א כדי להשאיר הממון ביד בעליו דקשה על חז"ל להוציא הממון מיד בעליו ובמ"ש בסי' צ"ג הנ"ל:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 296:2
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:2](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:2)
-
-
-**לכן לא אמרינן ליה.** ודוקא בשבועה כזו שחייב בה השומר מן התורה לא אמרינן ליה אבל בטור סי' צ"ג ס"ז הנ"ל דקאי אשותפין ואריסין והאפטרופסים שתקנו חכמים לישבע בהן אטענת ספק של השותף שחששו שמא מורה היתר לנפשו להחזיק בידו ממון השותפין בשביל שכר טרחו שם כתב הרא"ש דאמרי' מיגו לאפטורי' משבוע' אף דגם שם המיגו דאי בעי היה אומר לא נשתתפו מעולם הוא מיגו דהעז' מ"מ כיון דעיקר השבועה אינה אלא תקנת חז"ל הקילו בה ומהתימ' על מור"ם ז"ל שלא כתב שם בהגהותיו בש"ע ס"ב דעת הרא"ש דאמרינן שם מיגו לאפטורי' משבוע' כמ"ש כאן ושם ה"ל לכותבו כיון שהם המה מחולקים בדין דהמחבר פסק כרמב"ם דלא פטרינן ליה משבועה במיגו והרא"ש ס"ל דפטור מהשבועה בהמיגו ולא כאן דאין נ"מ כאן בדין אלא בטעם וצ"ע.
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 296:3
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:3](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:3)
-
-
-**אבל אם טען כו'** כלומר אף שאין פטרינן משבועה דאוריית' במיגו דאי בעי היה טען הכי מ"מ אם טען כן שלא הפקידו בידו מעולם כלום או החזרתיהו לך פטור בטענה זו משבועת השומרים דאורייתא ואינו נשבע אלא היסת והיינו דוקא כשאין ביד המפקיד שטר שהפקיד בידו אבל אם יש בידו שטר ע"ז אינו נפטר בטענת החזרתיהו לך אלא בש"ד במיגו דאי בעי הוי טוען נאנסו והיה נשבע שבועה דאורייתא ונפטר אף שהיה שטר ביד המפקיד גם כשטוען החזרתיו לך נפטר בש"ד במיגו זה ואין אומרי' בפקדון אם אמת שהחזירו שטר ביד המפקיד מאי בעי ה"ל ליטלנו מידו כשהחזירו י"ל דסמך אטענת מיגו שבידו לטעון נאנסה מידו משא"כ בשטר שביד המלוה על הלוה דאינו נפטר בטענ' אונסין דהא הלוה חייב באחריות הלוואתו אף באונסין:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 296:4
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:4](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:4)
-
-
-**במקום שעדי' מצויים** כבר נתבאר זה בסי' רצ"ד ובכמה דוכתי דילפינן לה מדכתיב אין רואה שבועת ה' תהיה בין שניה' הא יש רואה אינו נאמן בשבועה ולשון הרמב"ם והביאו הטור הוא קצת בענין אחר ז"ל כגון במקום שעדי' מצוים שהוא בענין שא"א שאירעו אונס אם לא שידע הדבר כו' דמשמע הא סתמא א"צ להביא ראייה והמחבר לא העתיקו משום דס"ל דמסתמא צריך להביא ראייה וכמשמעות לשון הרמ"ה כתבו הטור שם בסי' רצ"ד ס"ב (והמחבר שם ס"ג) ושם כתבתי דלא פליג הרמ"ה דלשם עם הרמב"ם המוזכר כאן ע"ש ומהתימ' על "ע"ש שהניח לשון המחבר המתוקן והעתיק לשון הרמב"ם שיש מקום לטעות בו:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 296:5
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:5](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:5)
-
-
-**אבל אנן לכתחלה אמרינן ליה כו'.** הטעם דלא טענינן בעד הנתבע כלום עד שיטענו הוא בעצמו לאחר שאמרינן ליה זיל שלים ליה ודומה לזה כתב הטור והמחבר לעיל סי' פ"ב במוציא מלוה על הלוה שטר שאינו מקוים ע"ש:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 296:6
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:6](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:6)
-
-
-**הרי השומר נשבע היסת כו'** גם אטוענו מאה הפקדתי בידך ואין אלו אלא חמשים קאי דא"צ השומר לישבע אלא היסת דכיון שהשומר משיבו אלו הפקדת בידי ולא יותר ומה שנתת אתה נוטל ה"ל הילך במה שמודה שהרי א"ל "אתה "נוטל משמע שהן בעין בידו להחזירו לו ובאידך כופר הכל ומ"ש אח"כ כיצד מאה סאה הפקדתי אצלך והשומר אומר לא הפקדת אצלי אלא נ' דנשבע שבוע דאורי' כו' התם מיירי כשאין הנ' שהודה בעין להחזירו או שאינו מבקש להחזירו וזהו הנ"מ במ"ש שם נשבע ש"ד מפני שהוד' במקצת ולא משום שבועת השומרי' דאלו משום שבוע' השומרי' היה צריך לישבע לעולם משא"כ במשום מודה מקצת דנפטר באומר הילך ועיין במ"ש עוד בדרישה מזה והוא די"א ס"ל דכל פקדון שהוא בעין א"צ השומר לומר מה שהנחת אתה נוטל שהוא כמו הילך דבלה"נ כיון שהפקדון עומד ברשות המפקיד ה"ל כמו הילך והא דאיתא בגמ' וכתבו הטור בסי' פ"ח סכ"ח בזה אומר עד הזיז וזה אומר עד החלון דחייב לא מחשב כהילך מוקי לה כשהרקיבו הפירות דאז אינו עומד ברשות המפקיד וכמ"ש הטור שם ועד"ר:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 296:7
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:7](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:7)
-
-
-**מאה של שעורים נשבע היסת כו'.** נראה דנשבע היסת דלא הפקידו חיטין ואז נפטר אפי' משעורין שהודה לו דהא כבר נתבאר לעיל בטור ובדברי המחבר בסי' פ"ח ולקמן בסי' ת' והוא מהגמרא בטוענו חיטין והודה בשעורין דפטור אף מן השעורין ולפמ"ש מור"ם ל' סי' פ"ח סי"ב דאפי' יודע הנתבע שחייב לו שעורין פטור משום דמחיל ליה יש לפרש השבועה אשעורים דאפי' אם נשבע ששעורין הפקיד בידו אפ"ה פטור להחזיר לו השעורין שהודה לו בשבועה דאמרי' שמחל לו על השעורין מדלא תבעו אלא חיטין:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 296:8
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:8](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:8)
-
-
-**ולא עדים.** דלא איברי סהדי אלא לשקרא:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 296:9
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:9](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:9)
-
-
-**אלא הנח לפניך.** נתבאר בר"ס רצ"א דאינו נעש' שומר בלשון זה ואינו חייב עליה אלא כשאר בני אדם והיינו כששלח בה יד דאז עומד ברשותו אף לענין אונסין או שאבדו בידים וזהו שמסיק המחבר שצריך שישבע היסת ע"ז דמאחר שמודה שבא לביתו ועתה אינו בביתו הוא קרוב להכנס בגלגול שבועה אבל אם הבעלים מודים שא"ל הנח לפניך אין משביעין אותו מספק מכח חששות אלו בפני עצמו:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 296:10
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:10](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:10)
-
-
-**ולא בגרם שגרם כו'.** אבל אינו נשבע שלא פשע בה דאף אם לא סגר הדלת אחריו בכל פעם ומכח זה נאבד או נגנב לא היה חייב בזה לשלם כיון דלא קיבל עליו שום שמירה ואינו חייב אלא דוקא בגרם גדול שנראה כאלו אבדו בידים:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 296:11
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:11](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:11)
-
-
-**אבל לא ידענו אם היה בתנאי.** עפ"ר שם כתבתי שכן פי' המ"מ לדברי הרמב"ם דאל"כ איך יהא נאמן במיגו דנאנסתי הא ס"ל מיגו במקו' עדים כיון דהפקידו בעדי' אלא מיירי שהיו עדים באותה שעה עם הנפקד כשבא זה ובקש להפקיד בידו ויצאו משם ולא שמעו אם היה בתנאי או לא:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 296:12
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:12](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:12)
-
-
-**לפיכך ישבע כו'.** פירוש ישבע שבועה חמורה כאלו היה טוען נאנסתי שהיה עליו ש"ד:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 296:13
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:13](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/296:13)
-
-
-**ואם הביא המפקיד עדים שפשע כו'.** פי' אף שהעדים שהפקיד בפניהם ראו שבת להפקידו ואין יודעין אם בתנאי או לא מ"מ אינו נאמן בשבועה במיגו דנאנסתי כנ"ל דהרי עדים מעידים שפשע ולא היה באונס וכיון דאין מיגו דנאנסתי אינו נאמן לומר תנאי היה בינינו שלא נצטרך לשומרו וק"ל:
-
-
-
-## Siman 297
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 297:1
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:1](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:1)
-
-
-**נאמן לומר להד"ם.** פירוש אפי' ראו עדים עתה בידו והכירוהו בטביעות עין יכול לומר להד"מ שהפקדתו בידי אלא לקחתיהו מידך או מיד אחר שקנהו ממך:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 297:2
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:2](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:2)
-
-
-**אע"פ שאין הנפקד אמוד כו'.** דיש מתרושש והון רב או מציאה מצא ר"ן:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 297:3
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:3](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:3)
-
-
-**והמפקיד נתן בו סימן** פי' אפי' אינו רגיל אצלו וכן הוכחתי בפרישה וכתבתי שדוקא גבי יורשים ואין טוענין ברי אבינו לקחממך מוציאין מידן בהצטרפות הני ג' ענינים דהמפקיד נתן סי' ואינו רגיל בבית הנפקד והנפקד אינו אמוד אבל כשהן טוענין ברי של אבינו היה או שהנפקד חי וטוען שלי הוא וקניתיהו ממך או נתתיהו לי במתנ' אין מוציאין מידו אפי' בהצטרפות הני ג' ענינים הנ"ל ולא כע"ש שכתב ז"ל והמפקיד נתן בו סי' אפשר דראוהו כבר אצלו עכ"ל דמשמע דלא מוקי ליה באינו רגיל וטעמו מדלא הזכיר הטור והמחבר וש"ע כאן אינו רגיל ולא דק שזה תלוי בזה דכל שהוא רגיל נתינת סימן אינו כלום ועמ"ש מזה עוד בסמוך:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 297:4
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:4](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:4)
-
-
-**ואפי' הפקידו אצלו בעדים.** דהמפקיד בעדים א"צ להחזיר בעדים:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 297:5
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:5](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:5)
-
-
-**או נתתו לי במתנה** פי' כל זמן שלא ראוהו בידו קודם ירידתן לדין נמצא דבשעת ירידתן לדין אי בעי לא היה מראיהו לב"ד אלא היה אומר החזרתיו לך והיה פטור לכן גם כשאמר לפני ב"ד הרי הוא בידי והוא זה אבל נתתו לי במתנה נאמן במיגו וה"ה דיכול לטעון לקוח הוא בידי במיגו דהחזרתי לך וכן הגהתיהו בבא זו בטור ע"ש:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 297:6
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:6](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:6)
-
-
-**ואלו אחרים הן כו' וה"ה דנאמן לומר אלו היו שלך ולקחתיהן מידך או נתתיהן לי במתנה במיגו דהיה אומר אלו אחרים הן:**
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 297:7
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:7](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:7)
-
-
-**ורואים אותו עתה בידו. בפרישה ודרישה כתבתי דמיירי אפי' אם עידי הראייה הללו אינם העדים שהפקיד בפניהם מצטרפין העדיות יחד ומוציאין מידו ע"ש:**
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 297:8
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:8](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:8)
-
-
-**חזרתי ולקחתי ממך כו'** כצ"ל ובפרישה כתבתי דלשון הרא"ש הוא באן חזרתי ולקחתי ממך או נתתיהו לי במתנה וכן הוא ל' הרמב"ם פ"ו דהלכות שאלה וגירסא זו נכונה טפי דאלו בס"י כתוב החזרתי לך קשה פשיטא דאינו נאמן דהרי ראו בידו והכירו בטביעת עין אם לא שתאמר שחדא מלתא קאמר כיון דאינו נאמן לומ' החזרתיו לך ג"כ אינו נאמן לומר נתתיהו לי במתנה:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 297:9
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:9](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:9)
-
-
-**מוציאין אותו מהיורשין** פי' ולא טענינן בעד היורשין אלו היה אביהן חי שמא היה מברר בעדים שקנאוהו מידך והטעם דלא טענינן בעד היורשי'. טענה דאינה שכיח וכיון שכן לא מבעיא כשראו העדים החפץ ביד היורשין קודם שבאו לדין דה"ל עדים וראה דגם אביהן לא היה נאמן בכה"ג לטעון לקוח הוא בידי דמוציאין מידי היורשי' אלא אפי' לא ראו העדים החפץ ביד היורשי' אלא שהמפקיד טוען חפץ פלוני הפקדתיו כו' עד צריכין להראותו לעדים כו' ואף שאביהן בכה"ג לא היה צריך להראותו לעדים שאני אביהן דהיה טוען טענת ברי אבל אנן לא טענינן בעד היורשי' טענה שאינה שכיחא ומ"ה צריכין להראותו לעדים ואם כעדים וראה לפני הדין ומוציאין אותו מיד היורשין ומחזירין אותו ליד המפקיד אם לא שגם הן טוענים ברי כ"כ הטור וכן הוא המשך הדברי ' דהגהות מור"ם ז"ל בהג"ה זו עם דברי המחבר דלפניו:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 297:10
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:10](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:10)
-
-
-**ומ"ש ואנו רואים כו'.** פי' הכל רואים בסימני' הללו בידן אבל אין מכירים אותו בטביעת עין שהוא שלו מזקיקי' אותו להראותו לעדים והן יכירוהו בט"ע:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 297:11
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:11](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:11)
-
-
-**מחזירין אותו.** מיירי שאפי' אם אבי היורשי' היה אמוד להיות לו חפץ כזה מ"מ כיון דיש לזה עדים שהפקידו בידו מוציאין מידם בסימנים שהוא נותן ומ"ש המחבר אחר זה דבעינן שלא יהא אמוד ולא יהא רגיל מיירי דוקא כשאין להמפקיד עדים שהפקיד בידו וכ"כ הר"ן בהדיא וכן הוא מוכח באשר"י וטור ומ"ה לא הזכיר הטור ולא מור"ם בהגהתו כאן במ"ש אמר המפקיד כו' עד מחזירין אותו דמיירי באינו אמוד ואינו רגיל ולא כע"ש שכתב דמיירי באינו אמוד וערבב דיני שני הבבות יחד כאלו הן מענין אחד ולא דק כלל אלא רישא דמיירי כשיש לו עדי הפקדון שם אפי' אמוד מחזירין וסיפא מיירי באין לו עדים שהפקיד בידו וכמ"ש ודוק:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 297:12
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:12](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:12)
-
-
-**ואם אמרו היתומים אבינו אמר לנו שלו הוא נאמנים בשבועה. אבל בלא שבועה אינם נאמנים אף דקי"ל (וכתבו הטור והמחבר לעיל בס"ס ס"ט וס"ס ע"א) דאין היורשי' נשבעים אלא ליטול ולא ליפטר שאני הכא דהבע"ה נותן סימנים ואמר שיש לו עדים שיכירוהו בטביעת עין שהוא שלו משום הכי ה"ל כאלו הן באין ליטול מיד הבע"ה:**
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 297:13
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:13](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:13)
-
-
-**שאין מוציאין מיד היתומי' כו'.** נראה פשוט דהיינו דוקא בהאי דינא בתרא קאמר דאין מוציאין אבל במ"ש לפני זה בעדים וראה דאין תלוי באומדן דעת מוציאין גם בזמנינו מיד היתומים:
-
-
-###### Me'irat Einayim on Shulchan Arukh, Choshen Mishpat 297:14
-
-[https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:14](https://torahapp.org/share/book/Me%27irat%20Einayim%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/297:14)
-
-
-**ואח"כ נודע שטעו** פירוש שהחזירהו למי שאינו שלו:
 
 
 

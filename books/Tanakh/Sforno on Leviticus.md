@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Vocalized Edition (Segments: 333)
 
-Version (En): Eliyahu Munk, HaChut Hameshulash (Segments: 319)
+Version (En): Sefaria Community Translation (Segments: 319)
 
 
 ## Chapter 1

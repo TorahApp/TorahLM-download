@@ -306,7 +306,7 @@ Version (En): Sefaria Community Translation (Segments: 31)
 [https://torahapp.org/share/book/Targum%20Jonathan%20on%20Judges/r/1:36](https://torahapp.org/share/book/Targum%20Jonathan%20on%20Judges/r/1:36)
 
 
-וּתְחוּם אֱמוֹרָאָה מִמַסְקְנֵי עַקְרַ בִּים מִן כֵּיפָא וּלְעֵילָא:
+וּתְחוּם אֱמוֹרָאָה מִמַסְקְנֵי עַקְרַבִּים מִן כֵּיפָא וּלְעֵילָא:
 
 
 
@@ -349,7 +349,7 @@ Version (En): Sefaria Community Translation (Segments: 31)
 [https://torahapp.org/share/book/Targum%20Jonathan%20on%20Judges/r/2:5](https://torahapp.org/share/book/Targum%20Jonathan%20on%20Judges/r/2:5)
 
 
-וּקְרוֹ שְׁמָא דְאַתְרָא הַהוּא בּוֹכִים וּנְכִיסוּ תַמָן נִכְסַת קוּדְשַׁיָא קֳדָם דַיָי:
+וּקְרוֹ שְׁמָא דְאַתְרָא הַהוּא בּוֹכִים וּנְכִיסוּ תַמָן נִכְסַת קוּדְשַׁיָא קֳדָם יָי:
 
 
 ###### Targum Jonathan on Judges 2:6

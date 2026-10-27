@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Torat-Emet (Segments: 324, License: CC-BY-NC)
 
-Version (En): Bartenura on Mishnah, trans. by Rabbi Robert Alpert, 2020 (Segments: 317)
+Version (En): Sefaria Community Translation (Segments: 317)
 
 
 ## Chapter 1
@@ -197,7 +197,7 @@ Version (En): Bartenura on Mishnah, trans. by Rabbi Robert Alpert, 2020 (Segment
 [https://torahapp.org/share/book/Bartenura%20on%20Mishnah%20Bava%20Kamma/r/1:2:8](https://torahapp.org/share/book/Bartenura%20on%20Mishnah%20Bava%20Kamma/r/1:2:8)
 
 
-**וּרְשׁוּת הַנִּזָּק וְהַמַּזִּיק.** וּרְשׁוּת הַמְיֻחֶדֶת לַנִּזָּק וְלַמַּזִּיק, כְּגוֹן חָצֵר שֶׁל שְׁנֵיהֶם, וְהִזִּיק שׁוֹרוֹ שֶׁל אֶחָד מֵהֶם בְּאוֹתָהּ חָצֵר בְּשֵׁן וָרֶגֶל, פָּטוּר. וְהוּא שֶׁתִּהְיֶה אוֹתָהּ חָצֵר מְיֻחֶדֶת לִשְׁוָרִים גַּם כֵּן. אֲבָל אִם הָיְתָה מְיֻחֶדֶת לְפָרוֹת וְלֹא לִשְׁוָרִים, וְהִזִּיק בְּשֵׁן וָרֶגֶל, חַיָּב. וְאִם הִזִּיק בְּקֶרֶן, בְּכָל עִנְיָן חַיָּב:
+**וּרְשׁוּת הַנִּזָּק וְהַמַּזִּיק.** וּרְשׁוּת הַמְיֻחֶדֶת לַנִּזָּק וְלַמַּזִּיק, כְּגוֹן חָצֵר שֶׁל שְׁנֵיהֶם, וְהִזִּיק שׁוֹרוֹ שֶׁל אֶחָד מֵהֶם בְּאוֹתָהּ חָצֵר בְּשֵׁן וָרֶגֶל, פָּטוּר. וְהוּא שֶׁתִּהְיֶה אוֹתָהּ חָצֵר מְיֻחֶדֶת לִשְׁוָרִים גַּם כֵּן. אֲבָל אִם הָיְתָה מְיֻחֶדֶת לְפֵרוֹת וְלֹא לִשְׁוָרִים, וְהִזִּיק בְּשֵׁן וָרֶגֶל, חַיָּב. וְאִם הִזִּיק בְּקֶרֶן, בְּכָל עִנְיָן חַיָּב:
 
 
 ורשות הניזק והמזיק – and it is a special domain to the one who suffered damage and the one who causes damage such as the courtyard of both of them. For the bull of one of them does damage in the same courtyard with a tooth and foot and is exempt, and this will be in the same courtyard that is set aside for bulls also, but if it was specially for fruit/produce but not for bulls and it damaged with is tooth and/or foot, he liable, and if it damaged with its horn in any matter, he is liable.

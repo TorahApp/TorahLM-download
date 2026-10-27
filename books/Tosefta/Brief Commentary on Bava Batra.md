@@ -584,7 +584,7 @@ Version (He): The Tosefta according to to codex Vienna. Third Augmented Edition,
 [https://torahapp.org/share/book/Brief%20Commentary%20on%20Bava%20Batra/r/4:1:3](https://torahapp.org/share/book/Brief%20Commentary%20on%20Bava%20Batra/r/4:1:3)
 
 
-**את האיזקפה.** עריבה (σχάφη), ספינה קטנה.
+**את האיזקפה.** עריבה (σκάφη), ספינה קטנה.
 
 
 ###### Brief Commentary on Bava Batra 4:1:4

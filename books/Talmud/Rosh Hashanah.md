@@ -3830,7 +3830,7 @@ The Gemara questions Rabbi Akiva’s conduct: **But do we adopt the** respective
 [https://torahapp.org/share/book/Rosh%20Hashanah/r/14b:6](https://torahapp.org/share/book/Rosh%20Hashanah/r/14b:6)
 
 
-רַבִּי עֲקִיבָא גְּמָרֵיהּ אִסְתַּפַּק לֵיהּ, וְלָא יְדַע אִי בֵּית הִלֵּל בְּאֶחָד בִּשְׁבָט אוֹמֵר, אִי בַּחֲמִשָּׁה עָשָׂר בִּשְׁבָט אוֹמֵר.
+רַבִּי עֲקִיבָא גְּמָרֵיהּ אִסְתַּפַּק לֵיהּ, וְלָא יְדַע אִי בֵּית הִלֵּל בְּאֶחָד בִּשְׁבָט אֲמוּר, אִי בַּחֲמִשָּׁה עָשָׂר בִּשְׁבָט אֲמוּר.
 
 
 The Gemara answers: **Rabbi Akiva** wished to act in accordance with the opinion of Beit Hillel, but he **was in doubt about his tradition and did not know whether Beit Hillel said** that the new year for trees is **on the first of Shevat or** whether they **said** that it is **on the fifteenth of Shevat,** and so he set aside two tithes in order to conform with both possibilities.
@@ -6997,7 +6997,7 @@ The Gemara analyzes this *baraita*: **Now,** if when one sees **the entire** moo
 [https://torahapp.org/share/book/Rosh%20Hashanah/r/24a:12](https://torahapp.org/share/book/Rosh%20Hashanah/r/24a:12)
 
 
-וְכׇל הָעָם עוֹנִין אַחֲרָיו ״מְקוּדָּשׁ מְקוּדָּשׁ״. מְנָלַן? אָמַר רַב פָּפָּא: אָמַר קְרָא ״אֲשֶׁר תִּקְרְאוּ אוֹתָם״, קְרִי בֵּיהּ אַתֶּם. רַב נַחְמָן בַּר יִצְחָק אָמַר: ״אֵלֶּה הֵם מוֹעֲדֵי״, הֵם יֹאמְרוּ מוֹעֲדֵי.
+וְכׇל הָעָם עוֹנִין אַחֲרָיו ״מְקוּדָּשׁ מְקוּדָּשׁ״. מְנָלַן? אָמַר רַב פָּפָּא: אָמַר קְרָא ״אֲשֶׁר תִּקְרְאוּ אוֹתָם״, קְרִי בֵּיהּ אַתֶּם. רַב נַחְמָן בַּר יִצְחָק אָמַר: ״אֵלֶּה הֵם מוֹעֲדָי״, הֵם יֹאמְרוּ מוֹעֲדָי.
 
 
 § The mishna further teaches that after the head of the court says: It is sanctified, **all the people respond after him:** It is **sanctified;** it is **sanctified.** The Gemara asks: **From where do we** derive this? **Rav Pappa said** that **the verse states: “Which you shall proclaim them [*otam*]** to be sacred convocations” (Leviticus 23:2). Instead of *otam*, **read into** the verse: **You [*atem*],** as though the verse stated: Which you shall proclaim, you. This superfluous word you teaches that the month must be proclaimed not only by the head of the court, but also by you, the people. **Rav Naḥman bar Yitzḥak said** that it is derived from the phrase: **“These are [*hem*] My appointed seasons”** (Leviticus 23:2). The term *hem* can also mean: They, which indicates that **they,** the people, **should** likewise **say** and announce **My appointed seasons.**

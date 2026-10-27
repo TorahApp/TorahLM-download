@@ -14,9 +14,9 @@ Location: Musar/Rishonim
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Wikitext (Segments: 909, License: CC-BY-SA)
+Version (He): Orchot Tzadikim -- Vocalized (Segments: 909, License: CC-BY-SA)
 
-Version (En): Orchot Tzaddikim, trans. Seymour J. Cohen, Ktav Pub House, 1982 (Segments: 883)
+Version (En): Sefaria Community Translation (Segments: 883)
 
 
 ## Introduction
@@ -436,7 +436,7 @@ And they said in Baba Batra 98a, "He who is arrogant — even the people of his 
 [https://torahapp.org/share/book/Orchot%20Tzadikim/r/1:13](https://torahapp.org/share/book/Orchot%20Tzadikim/r/1:13)
 
 
-הַגַּאֲוָה מְבִיאָה לִידֵי רְדִיפוּת כָּבוֹד, לְהִשְׂתָּרֵר עַל בְּנֵי אָדָם. וּכְבָר יָדַעְתָּ מָה אֵרַע לְקֹרַח וַעֲדָתוֹ מֵחֲמַת גַּאֲוָתוֹ, שֶׁבִּקֵּשׁ לְהִתְגַּדֵּל, וְלָקַח גְּדֻלָּה שֶׁלֹּא נִתְּנָה לוֹ מִן הַשָּׁמַיִם. וּמִתּוֹךְ כָּךְ נִכְנַס לְמַחֲלֹקֶת, וּמִן הַמַּחֲלֹקֶת יָצְאָה קִנְאָה וְשִׂנְאָה. וְכָל אֵלּוּ מִדּוֹת פְּחוּתוֹת מְאוֹד, כַּאֲשֶׁר יִתְבָּאֵר בְּעֶזְרַת הַשֵּׁם.
+הַגַּאֲוָה מְבִיאָה לִידֵי רְדִיפוּת מָמוֹן, לְהִשְׂתָּרֵר עַל בְּנֵי אָדָם. וּכְבָר יָדַעְתָּ מָה אֵרַע לְקֹרַח וַעֲדָתוֹ מֵחֲמַת גַּאֲוָתוֹ, שֶׁבִּקֵּשׁ לְהִתְגַּדֵּל, וְלָקַח גְּדֻלָּה שֶׁלֹּא נִתְּנָה לוֹ מִן הַשָּׁמַיִם. וּמִתּוֹךְ כָּךְ נִכְנַס לְמַחֲלֹקֶת, וּמִן הַמַּחֲלֹקֶת יָצְאָה קִנְאָה וְשִׂנְאָה. וְכָל אֵלּוּ מִדּוֹת פְּחוּתוֹת מְאוֹד, כַּאֲשֶׁר יִתְבָּאֵר בְּעֶזְרַת הַשֵּׁם.
 
 
 Arrogance leads to the pursuit of wealth in order to lord over people. You already know what happened to Korah and his band because of his arrogance, for he sought to make himself great and to assume greatness that had not been given to him by Heaven, and from this he entered into controversy and from the controversy came jealousy and hatred. All of these qualities are very demeaning qualities, as shall, with God's help, be explained.

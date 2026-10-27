@@ -16,6 +16,8 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Sefer Maarechet ha-Elohut (Segments: 541, License: unknown)
 
+Version (En): Sefaria Community Translation (Segments: 4)
+
 
 ## Chapter 1
 
@@ -27,12 +29,18 @@ Version (He): Sefer Maarechet ha-Elohut (Segments: 541, License: unknown)
 **מערכת האלקות:**
 
 
+Arrangement of Divinity:
+
+
 ###### Ma'arekhet HaElokut 1:2
 
 [https://torahapp.org/share/book/Ma%27arekhet%20HaElokut/r/1:2](https://torahapp.org/share/book/Ma%27arekhet%20HaElokut/r/1:2)
 
 
 הוא קיום אמונת האלקות כאשר נאות לשלמותו יתברך וכאשר נאות להאמין בשלמות האמונה, והוא שצריך לכל בעל דתנו להאמין אמונה שלמה אמונה מוחלטת קבוע בלב שיש קדמון, מחדש ויודע, ומשגיח, ויכול, וקיום אמונה זו הוא הוא באמונת התורה כולה, רוצה לומר תורה שבכתב ותורה שבעל פה, וכאשר יתבאר עקר זה בעבודת ההריסה, כי התורה מבטלת כל הדעות הזרות ומבטלת האמונות הרעות שנזכיר:
+
+
+It is the establishment of the divine belief as it is fitting to His perfection, He is blessed, and as it is fitting to believe with complete belief. And that which is necessary in our entire religion to believe completely and totally deep in the mind that there is a First One, Creator, Knower, Providencer, and Able. And the establishment of of this belief is with the belief of the entire Torah, that is the written torah and the oral torah, and as this principle will be clarified by the work of disproof, as the Torah abolishes all foreign opinions and bad beliefs that we will mention.
 
 
 ###### Ma'arekhet HaElokut 1:3
@@ -43,12 +51,18 @@ Version (He): Sefer Maarechet ha-Elohut (Segments: 541, License: unknown)
 כי יש כתות באמונה מהם כופרים בעקר ואומרים שהעולם קדמון כחשו ביי' ויאמרו לא הוא (ירמיה ה') ויש מאמינים בחדושו אך מכחישים ידיעת מחדשו בשפלים, אמרו איכה ידע אל ויש דעה בעליון (תהלים עג) ויש מודים בידיעה ומסירים ההשגחה לרוממות האל נגד פחיתות הנבראים ויגזרו בזה כי אין מעשה וחשבון במעללי האיש ויעשו אדם כדגי הים, והכלל לדעתם עזב השם את הארץ (יחזקאל ט') למקרים, ויש מאמינים בחדוש ובידיעה ובהשגחה אך גוזרים היות נמנע דבר שלא יורה עליו שכל או טבע כי עולם כמנהגו נוהג ויכחשו הנפלאות שהם בשינוי הטבע הנקראים נסים נגלים ומבקשים לנפלאות למצוא להם סבה וטבע, ולכתות אלו שזכרנו יש עוד דעות שונות זו מזו זו אומרת בכה וזו אומרת בכה א"צ להזכירם, אך הכלל היוצא מהם הוא הריסת התורה כולה או מקצתה או להוציא דברים נעלמים למשלים ולהבלים:
 
 
+Because there are schools of thought that deny axiom and say the the universe is first, they deny G-d and say He is not (Jer. 5). And there are those who believe in the creation of the universe but they deny G-d's knowledge of His creation of lowly things. They say "how does God know, and there be awareness by The Most High?" (Psalms 73). and there are those who admit awareness and remove providence on account of God's loftiness compared to the lowliness of the creations. And they attempt to prove by that that there is no action or calculation in the doings of man and they make man like the fish of the sea. And the rule in their opinion is that "G-d hath Forsaken the land" (Ezek. 9) to happenstance. And there are those who believe in creation and awareness and providence , however they opine that it is impossible for there to be a thing that is not by mind or nature and the world goes as its way. And they deny wonders that are by change in nature that are called 'open miracles'. And they search for natural causes for wonders. and there are other other groups that say many things that there isn't need to mention. However, the general rule that arises from them is the abolition of the entire Torah or part of it or to produce hidden matters to parables and nonsense.
+
+
 ###### Ma'arekhet HaElokut 1:4
 
 [https://torahapp.org/share/book/Ma%27arekhet%20HaElokut/r/1:4](https://torahapp.org/share/book/Ma%27arekhet%20HaElokut/r/1:4)
 
 
 אבל אמונתינו כי התורה בכל עניניה וספוריה מתחלתה ועד סופה הם ענינים לא יורה עליהם לא שכל ולא טבע כלל כי כן הגיע עדינו בקבלה איש מפי איש עד משה רבינו ע"ה בסיני, והמצוות המתנהגות בעדת ישראל הם עדים נאמנים על כל האמונה ומתנהגות איש מפי איש והוא עדות גדול על כל האמונות שזכרנו:
+
+
+But our belief is that the Torah in all it's matters and stories from it's beginning to it's end are subjects that intellect or nature can not grasp at all because that is what has reached us with tradition man from the mouth of man until Moses our teacher (peace be upon him) at Sinai. and the commandments that are practiced in the congregation of Israel are trustworthy witnesses on the entire belief and are practiced man from the mouth of man and is a great testimony upon all of the beliefs that we mentioned.
 
 
 ###### Ma'arekhet HaElokut 1:5

@@ -11409,7 +11409,7 @@ Rav Anan continues: With regard to **one** of these *halakhot*, Shmuel said that
 [https://torahapp.org/share/book/Arakhin/r/29b:13](https://torahapp.org/share/book/Arakhin/r/29b:13)
 
 
-אָמַר רַב יוֹסֵף: נִיחְזֵי אֲנַן, מִדְּתַנְיָא בְּבָרַיְיתָא: הַמּוֹכֵר עַבְדּוֹ בְּחוּצָה לָאָרֶץ יָצָא לְחֵירוּת, וְצָרִיךְ גֵּט שִׁיחְרוּר מֵרַבּוֹ שֵׁנִי. שְׁמַע מִינַּהּ, מִדְּקָרֵי לֵיהּ לִשְׁנֵי ״רַבּוֹ״, אַלְמָא לָא הָדְרִי זְבִינֵי, וְכִי קָאָמַר שְׁמוּאֵל הָכָא: אֵינָהּ מְכוּרָה וּמָעוֹת חוֹזְרִין.
+אָמַר רַב יוֹסֵף: נִיחְזֵי אֲנַן, מִדְּתַנְיָא בְּבָרַיְיתָא: הַמּוֹכֵר עַבְדּוֹ בְּחוּצָה לָאָרֶץ יָצָא לְחֵירוּת, וְצָרִיךְ גֵּט שִׁיחְרוּר מֵרַבּוֹ שֵׁנִי. שְׁמַע מִינַּהּ, מִדְּקָרֵי לֵיהּ לְשֵׁנִי ״רַבּוֹ״, אַלְמָא לָא הָדְרִי זְבִינֵי, וְכִי קָאָמַר שְׁמוּאֵל הָכָא: אֵינָהּ מְכוּרָה וּמָעוֹת חוֹזְרִין.
 
 
 **Rav Yosef said: Let us see** if it is possible to resolve Rav Anan’s dilemma. It may be resolved **from that which is taught in a *baraita*:** In the case of **one who sells his slave to** a Jew **outside of Eretz** Yisrael, the slave **is emancipated but** nevertheless **requires a bill of manumission from his second master. Conclude from** the *baraita* as follows: **Since** the *baraita* **calls the second** owner the slave’s **master,** and requires him to emancipate the slave, **evidently the sale is not retracted,** and the buyer loses his money. **And** therefore, **when Shmuel says here** that the field **is not sold** during the Jubilee Year, he means that the sale does not take effect **and the money is returned** to the buyer.
@@ -12282,7 +12282,7 @@ The Gemara elaborates: **From** the fact **that** it **was necessary for Hillel 
 [https://torahapp.org/share/book/Arakhin/r/32a:3](https://torahapp.org/share/book/Arakhin/r/32a:3)
 
 
-אִיכָּא דְּאָמְרִי, אָמַר רָבָא: מִתַּקָּנָתוֹ שֶׁל הִלֵּל — הֲרֵי זֶה ״גִּיטִּיךְ עַל מְנָת שֶׁתִּתְּנִי לִי מָאתַיִם זוּז״, וּנְתָנָהּ לוֹ, בֵּין מִדַּעְתּוֹ בֵּין בְּעַל כׇּרְחוֹ — הָוְיָא נְתִינָה. וְכִי אִיצְטְרִיךְ לֵיהּ לְהִלֵּל לְתַקּוֹנֵי — שֶׁלֹּא בְּפָנָיו, אֲבָל בְּפָנָיו — בֵּין מִדַּעְתּוֹ בֵּין בְּעַל כׇּרְחוֹ הָוְיָא נְתִינָה.
+אִיכָּא דְּאָמְרִי, אָמַר רָבָא: מִתַּקָּנָתוֹ שֶׁל הִלֵּל — ״הֲרֵי זֶה גִּיטִּיךְ עַל מְנָת שֶׁתִּתְּנִי לִי מָאתַיִם זוּז״, וּנְתָנָהּ לוֹ, בֵּין מִדַּעְתּוֹ בֵּין בְּעַל כׇּרְחוֹ — הָוְיָא נְתִינָה. וְכִי אִיצְטְרִיךְ לֵיהּ לְהִלֵּל לְתַקּוֹנֵי — שֶׁלֹּא בְּפָנָיו, אֲבָל בְּפָנָיו — בֵּין מִדַּעְתּוֹ בֵּין בְּעַל כׇּרְחוֹ הָוְיָא נְתִינָה.
 
 
 **There are** those **who say** an opposite version of this discussion, i.e., that **Rava says:** One may infer **from the ordinance of Hillel** that if one says to his wife: **This is your bill of divorce on the condition that you will give me two hundred dinars, and she gave** it **to him, whether** it was **with his consent or whether** it was **against his will, it is** a valid act of **giving. And** this is because **when it was necessary for Hillel to institute** this ordinance, it was specifically for a case **where** the seller gives the money **not in** the **presence** of the buyer. **But** if the seller repays him **in his presence, whether** the buyer was repaid **with his consent or whether** it was **against his will, it is** considered a valid act of **giving.**
@@ -12315,7 +12315,7 @@ The Gemara elaborates: **From** the fact **that** it **was necessary for Hillel 
 [https://torahapp.org/share/book/Arakhin/r/32a:6](https://torahapp.org/share/book/Arakhin/r/32a:6)
 
 
-**גְּמָ׳** תָּנוּ רַבָּנַן: בֵּית — אֵין לִי אֶלָּא בַּיִת, מִנַּיִן לְרַבּוֹת בָּתֵּי בַדִּים וּבָתֵּי מֶרְחֲצָאוֹת וּמִגְדָּלוֹת וְשׁוֹבָכִין וּבוֹרוֹת וְשִׁיחִין וּמְעָרוֹת? תַּלְמוּד לוֹמַר: ״אֲשֶׁר בָּעִיר״. יָכוֹל שֶׁאֲנִי מְרַבֶּה אַף הַשָּׂדוֹת? תַּלְמוּד לוֹמַר: ״בַּיִת״, דִּבְרֵי רַבִּי יְהוּדָה.
+**גְּמָ׳** תָּנוּ רַבָּנַן: בַּיִת — אֵין לִי אֶלָּא בַּיִת, מִנַּיִן לְרַבּוֹת בָּתֵּי בַדִּים וּבָתֵּי מֶרְחֲצָאוֹת וּמִגְדָּלוֹת וְשׁוֹבָכִין וּבוֹרוֹת וְשִׁיחִין וּמְעָרוֹת? תַּלְמוּד לוֹמַר: ״אֲשֶׁר בָּעִיר״. יָכוֹל שֶׁאֲנִי מְרַבֶּה אַף הַשָּׂדוֹת? תַּלְמוּד לוֹמַר: ״בַּיִת״, דִּבְרֵי רַבִּי יְהוּדָה.
 
 
 **GEMARA** **The Sages taught:** The verse states: “Then the **house** that is in the walled city shall stand in possession of the one who bought it in perpetuity” (Leviticus 25:30). **I have** derived **only** that this is the *halakha* with regard to **a house; from where** is it derived **to include olive presses, bathhouses, towers, dovecotes, pits, ditches, and caves? The verse states: “That is in the** walled **city,”** indicating that anything situated within the city is included. If so, one **might** have thought **that I** should **include even the fields** that are inside the city. Therefore, **the verse states: “House,”** which excludes a field; it does not resemble a house in any way, since it does not contain any items. This is **the statement of Rabbi Yehuda.**
@@ -12326,7 +12326,7 @@ The Gemara elaborates: **From** the fact **that** it **was necessary for Hillel 
 [https://torahapp.org/share/book/Arakhin/r/32a:7](https://torahapp.org/share/book/Arakhin/r/32a:7)
 
 
-רַבִּי מֵאִיר אוֹמֵר: נאמר ״בַּיִת״ — אֵין לִי אֶלָּא בַּיִת, מִנַּיִן לְרַבּוֹת בָּתֵּי בַדִּים וּבָתֵּי מֶרְחֲצָאוֹת, וּמִגְדָּלוֹת וְשׁוֹבָכִין, וּבוֹרוֹת שִׁיחִין וּמְעָרוֹת, וַאֲפִילּוּ שָׂדוֹת? תַּלְמוּד לוֹמַר: ״אֲשֶׁר בָּעִיר״.
+רַבִּי מֵאִיר אוֹמֵר: נֶאֱמַר ״בַּיִת״ — אֵין לִי אֶלָּא בַּיִת, מִנַּיִן לְרַבּוֹת בָּתֵּי בַדִּים וּבָתֵּי מֶרְחֲצָאוֹת, וּמִגְדָּלוֹת וְשׁוֹבָכִין, וּבוֹרוֹת שִׁיחִין וּמְעָרוֹת, וַאֲפִילּוּ שָׂדוֹת? תַּלְמוּד לוֹמַר: ״אֲשֶׁר בָּעִיר״.
 
 
 **Rabbi Meir says:** The verse states: **“House.” I have** derived **only a house; from where** is it derived **to include olive presses, bathhouses, towers, dovecotes, pits, ditches, and caves, and even fields? The verse states: “That is in the** walled **city,”** to include anything inside the city.
@@ -12370,7 +12370,7 @@ The Gemara questions the statement of Rabbi Meir: **But isn’t it written: “H
 [https://torahapp.org/share/book/Arakhin/r/32a:11](https://torahapp.org/share/book/Arakhin/r/32a:11)
 
 
-**גְּמָ׳** תָּנוּ רַבָּנַן: ״חוֹמָה״ — וְלֹא שׁוּר אִיגָּר, ״סָבִיב״ — פְּרָט לִטְבֶרְיָה שִׂימָה חוֹמָתָהּ.
+**גְּמָ׳** תָּנוּ רַבָּנַן: ״חוֹמָה״ — וְלֹא שׁוּר אִיגָּר, ״סָבִיב״ — פְּרָט לִטְבֶרְיָה שֶׁיַּמָּהּ חוֹמָתָהּ.
 
 
 **GEMARA** With regard to the statement of the mishna that the halakhic status of a house in a city whose rooftops constitute the top of its wall is not like that of the houses of walled cities, **the Sages taught:** When the verse states: “The house that is in the city that has **a wall”** (Leviticus 25:30), this is referring specifically to a city that has an actual wall **and not** merely **a wall of roofs.** When the next verse states: “But the houses of the villages that have no wall **round** about them shall be reckoned with the fields of the country,” this serves to **exclude Tiberias** from being considered a walled city, **as the sea is its wall** on one side and it is not fully encircled by a physical wall.
@@ -12728,7 +12728,7 @@ The Gemara asks: **What is** the *tanna* of the *baraita* **saying** in the last
 [https://torahapp.org/share/book/Arakhin/r/33a:12](https://torahapp.org/share/book/Arakhin/r/33a:12)
 
 
-לְמַאי מְדַמֵּית לֵיהּ? אִי לְבָתֵּי עָרֵי חוֹמָה מְדַמֵּית לֵיהּ — אִיחֲלֵיט לֵיהּ לְלוֹקֵחַ, אִי לִשְׂדֵה אֲחוּזָּה מְדַמֵּית — לְכֹהֲנִים נָפְקָא, לְהָכִי אִצְטְרִיךְ ״וּבְיֹבֵל יָצָא״.
+לְמַאי מְדַמֵּית לֵיהּ? אִי לְבָתֵּי עָרֵי חוֹמָה מְדַמֵּית לֵיהּ — אִיחֲלֵיט לֵיהּ לְלוֹקֵחַ, אִי לִשְׂדֵה אֲחוּזָּה מְדַמֵּית — לְכֹהֲנִים נָפְקָא, לְהָכִי אִצְטְרִיךְ ״וּבְיֹבֵל יֵצֵא״.
 
 
 Rav Huna elaborates: **To what will you compare** this case? **If you compare** this house **to houses of walled cities** that were consecrated and redeemed by another, then the house belongs **to the buyer in perpetuity** by the end of the first year (see 31b). **If you compare** it **to an ancestral field** that was consecrated and redeemed by another, **it leaves to** the possession of **the priests** in the Jubilee Year (see 25a). **For this** reason it **was necessary** for the verse to state: **“And they shall go out in the Jubilee,”** to teach that houses in unwalled courtyards which were consecrated and redeemed by another are returned to their owners in the Jubilee Year.
@@ -13119,7 +13119,7 @@ both **they and their** empty **lots.** The Gemara objects: But **they and their
 [https://torahapp.org/share/book/Arakhin/r/34a:2](https://torahapp.org/share/book/Arakhin/r/34a:2)
 
 
-תָּנוּ רַבָּנַן: כִּשְׂדֵה הַחֵרֶם לַכֹּהֵן תִּהְיֶה אֲחֻזָּתוֹ, מָה תַּלְמוּד לוֹמַר? מִנַּיִן לְכֹהֵן שֶׁהִקְדִּישׁ שְׂדֵה חֶרְמוֹ, שֶׁלֹּא יֹאמַר: הוֹאִיל וְיוֹצָא לַכֹּהֲנִים, וַהֲרֵי הִיא תַּחַת יָדִי — תְּהֵא שֶׁלִּי.
+תָּנוּ רַבָּנַן: ״כִּשְׂדֵה הַחֵרֶם לַכֹּהֵן תִּהְיֶה אֲחֻזָּתוֹ״, מָה תַּלְמוּד לוֹמַר? מִנַּיִן לְכֹהֵן שֶׁהִקְדִּישׁ שְׂדֵה חֶרְמוֹ, שֶׁלֹּא יֹאמַר: הוֹאִיל וְיוֹצָא לַכֹּהֲנִים, וַהֲרֵי הִיא תַּחַת יָדִי — תְּהֵא שֶׁלִּי.
 
 
 § **The Sages taught:** The verse states, with regard to one who consecrated his ancestral field but failed to redeem it before the Jubilee Year: “But the field, when it goes out in the Jubilee, shall be holy unto the Lord, **as a field dedicated; his ancestral field shall be for the priest”** (Leviticus 27:21). **What** is the meaning when **the verse states:** “As a field dedicated”? The *baraita* explains: **From where** is it derived with regard **to a priest who consecrated his dedicated field,** i.e., a field that was dedicated to the priests by an Israelite, and the Jubilee Year arrived, **that he may not say: Since** a field that was consecrated by its owners and was not redeemed **leaves to** the possession of **the priests** in the Jubilee Year, **and this** field that I consecrated **is** already **in my possession, it is** therefore **mine.**

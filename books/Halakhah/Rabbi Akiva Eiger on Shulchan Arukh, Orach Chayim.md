@@ -7578,7 +7578,7 @@ Magen Avraham, se'if katan 1 – "And here, since he makes [tzitzit] on it..." T
 [https://torahapp.org/share/book/Rabbi%20Akiva%20Eiger%20on%20Shulchan%20Arukh%2C%20Orach%20Chayim/r/318:13](https://torahapp.org/share/book/Rabbi%20Akiva%20Eiger%20on%20Shulchan%20Arukh%2C%20Orach%20Chayim/r/318:13)
 
 
-סעיף י ולערות עליהם מכלי ראשון באו"ה כלל ל"א סק"א כ' דאין איסור אלא לערות על התבלין עצמן אבל לשפוך בצדן לא עכ"ל ועיין בפמ"ג יו"ד סי' צה בש"ך סקי"ח:
+סעיף י ולערות עליהם מכלי ראשון באו"ה כלל ל"א סקכ"א כ' דאין איסור אלא לערות על התבלין עצמן אבל לשפוך בצדן לא עכ"ל ועיין בפמ"ג יו"ד סי' צה בש"ך סקי"ח:
 
 
 ###### Rabbi Akiva Eiger on Shulchan Arukh, Orach Chayim 318:14

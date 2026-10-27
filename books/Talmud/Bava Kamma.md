@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): William Davidson Edition - Vocalized Aramaic (Segments: 4314, License: CC-BY-NC)
 
-Version (En): William Davidson Edition - English (Segments: 4305)
+Version (En): Sefaria Community Translation (Segments: 4305)
 
 
 ## Daf 2a

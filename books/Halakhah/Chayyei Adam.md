@@ -14,9 +14,9 @@ Location: Halakhah
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Chayei Adam, Warsaw, 1888 (Segments: 3109, License: Public Domain)
+Version (He): Chayei Adam, Vilna, 1844 (Segments: 3109, License: Public Domain)
 
-Version (En): Sefaria Community Translation (Segments: 70)
+Version (En): Sefaria Community Translation (Segments: 93)
 
 
 ## Author's Introduction
@@ -3049,7 +3049,7 @@ Israel is beloved in that God surrounded the with mitzvot, tfillin on their head
 [https://torahapp.org/share/book/Chayyei%20Adam/r/21:16](https://torahapp.org/share/book/Chayyei%20Adam/r/21:16)
 
 
-צריך לכוין שישמע מן הש"ץ כשחוזר ה' אלהיכם אמת כי בק"ש יש רמ"ח תיבות וג' תיבות אלו משלימין לרמ"ח ואם מתפלל ביחיד יכוין לט"ו ווי"ן מן ויציב ונכון כו' שעולים עם הכולל צ"א כמו השם בכתיבתו וקריאתו (שם):
+צריך לכוין שישמע מן הש"ץ כשחוזר ה' אלהיכם אמת כי בק"ש יש רמ"ה תיבות וג' תיבות אלו משלימין לרמ"ח ואם מתפלל ביחיד יכוין לט"ו ווי"ן מן ויציב ונכון כו' שעולים עם הכולל צ"א כמו השם בכתיבתו וקריאתו (שם):
 
 
 ###### Chayyei Adam 21:17
@@ -3065,7 +3065,7 @@ Israel is beloved in that God surrounded the with mitzvot, tfillin on their head
 [https://torahapp.org/share/book/Chayyei%20Adam/r/21:18](https://torahapp.org/share/book/Chayyei%20Adam/r/21:18)
 
 
-צריך להסמיך גאולה לתפלה ואשור להפסיק ביניהן כלל אפילו בעניית קדיש וקדושה ונכון שיסיים עם הש"ץ דאז פטור מעניית אמן וסמיכת גאולה לתפלה עדיף מתפילה בצבור (שם):
+צריך להסמיך גאולה לתפלה ואסור להפסיק ביניהן כלל אפילו בעניית קדיש וקדושה ונכון שיסיים עם הש"ץ דאז פטור מעניית אמן וסמיכת גאולה לתפלה עדיף מתפילה בצבור (שם):
 
 
 ###### Chayyei Adam 21:19
@@ -9411,7 +9411,7 @@ In Tanna D'bei Eliyahu it states: "Honor your father" is juxtaposed to "You shal
 [https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/5:9](https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/5:9)
 
 
-האשה קודמת למצות הדלקה מפני שהיא כבתה נרו של עולם ואפילו היא סומא תדליק ותברך וטוב שיברך הבעל ואם אוכלת במקום שיש בלא"ה נרות לא תברך ונוהגות ללבוש מקודם בגדי שבת ואשרי להם וגם צריכות להתפלל מנחה תחלה דאם לא כן כיון שכבר קיבלה שבת צריכה להתפלל ערבית ב' אמנם בימים הקצרים שמתאחרים לישב בחנות ואחר כך רוחצות ולובשות ובין כך יבואו ח"ו לספק חילול שבת לכן טוב להם שיקדימו לבוא לרחוץ וללבוש וכשמתאחרת מצוה יותר שתדליק כך במלבושי חול מלבוא ח"ו לספק חילול שבת ואם הבעל רואה שמתאחרת מצוה גדולה שהוא ידליק הנרות ולא ישגית בקטטת אשתו ומצוה גדולה יותר לישב בחושך מלחלל שבת ח"ו. ואם רואה שהוא קרוב לבין השמשות ופשיטא ספק בין השמשות מצוה גדולה שלא ידליק אלא יצוה לנכרי להדליק ואשרי השם דרכיו הכל לשם שמים ועל כל פנים סמוך לחשיכה יזרז האיש לאשתו ויאמר לה להדליק נרות (צ"ע דהרמב"ם בפרק ה' לא כתב רק שיזהיר הדליקו את הנר ולא כתב כמתני' שלשה דברים צריך לומר עשרתם כו' וצ"ע):
+האשה קודמת למצות הדלקה מפני שהיא כבתה נרו של עולם ואפילו היא סומא תדליק ותברך וטוב שיברך הבעל ואם אוכלת במקום שיש בלא"ה נרות לא תברך ונוהגות ללבוש מקודם בגדי שבת ואשרי להם וגם צריכות להתפלל מנחה תחלה דאם לא כן כיון שכבר קיבלה שבת צריכה להתפלל ערבית ב' אמנם בימים הקצרים שמתאחרים לישב בחנות ואחר כך רוחצות ולובשות ובין כך יבואו ח"ו לספק חילול שבת לכן טוב להם שיקדימו לבוא לרחוץ וללבוש וכשמתאחרת מצוה יותר שתדליק כך במלבושי חול מלבוא ח"ו לספק חילול שבת ואם הבעל רואה שמתאחרת מצוה גדולה שהוא ידליק הנרות ולא ישגיח בקטטת אשתו ומצוה גדולה יותר לישב בחושך מלחלל שבת ח"ו. ואם רואה שהוא קרוב לבין השמשות ופשיטא ספק בין השמשות מצוה גדולה שלא ידליק אלא יצוה לנכרי להדליק ואשרי השם דרכיו הכל לשם שמים ועל כל פנים סמוך לחשיכה יזרז האיש לאשתו ויאמר לה להדליק נרות (צ"ע דהרמב"ם בפרק ה' לא כתב רק שיזהיר הדליקו את הנר ולא כתב כמתני' שלשה דברים צריך לומר עשרתם כו' וצ"ע):
 
 
 ###### Chayyei Adam, Shabbat and Festivals 5:10
@@ -10630,7 +10630,7 @@ In Tanna D'bei Eliyahu it states: "Honor your father" is juxtaposed to "You shal
 [https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/16:11](https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/16:11)
 
 
-אסור להעמיד החלב במקום חם כדי שתעשה גבינה דזה הוי בורר וכן אם נתן החלב הקפוי בשק וכדומה ומי החלב נוטפין כמו שעושין גבינות חייב משום בורר והעושה גבינה חייב משום בונה (עיין לקמן במלאכת בונה) וכן אסור ליתן חומץ וכ"ד בחלב כדי שתעשה סיראוייטקי דזה בורר ממש:
+אסור להעמיד החלב במקום חם כדי שתעשה גבינה דזה הוי בורר וכן אם נתן החלב הקפוי בשק וכדומה ומי החלב נוטפין כמו שעושין גבינות חייב משום בורר והעושה גבינה חייב משום בונה (עיין לקמן במלאכת בונה) וכן אסור ליתן חומץ וכ"ד בחלב כדי שתעשה סיראוויטקי דזה בורר ממש:
 
 
 ###### Chayyei Adam, Shabbat and Festivals 16:12
@@ -12742,7 +12742,11 @@ Roosters and cats and any animal that is commonly found in a home that will like
 [https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/49:3](https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/49:3)
 
 
-מבואות הרחבין ט"ז אמה אע"פ שמקצתן מתקצרין ואין בו ט"ז אמה ה"ז רה"ר שא"א לר"ה להלקט במלקט לפיכך המבואות המפולשין לר"ה ארכן לאורך רה"ר אע"פ שאין ברחבן ט"ז אמה הרי זה ר"ה גמורה היה ארכן מפולש לרחב רה"ר אינן רה"ר. ואלו הן מבואות המפולשין לר"ה שאמרו חכמים בכל מקום (כ"ז הוא לשון רשב"א בעה"ק): נ"ל כוונתו שאם הוא כזה % שהמבוי הוא נגד פלושו ואם כן בני רשות הרבים הולכין דרך המבוי אעפ"י שהמבוי אינו רחב אלא איזו אמות אעפ"כ נחשב כרה"ר אבל לרוחב ר"ה דהיינו כזה % דאין בני רשות הרבים בוקעין דרך המבוי:
+מבואות הרחבין ט"ז אמה אע"פ שמקצתן מתקצרין ואין בו ט"ז אמה ה"ז רה"ר שא"א לר"ה להלקט במלקט לפיכך המבואות המפולשין לר"ה ארכן לאורך רה"ר אע"פ שאין ברחבן ט"ז אמה הרי זה ר"ה גמורה היה ארכן מפולש לרחב רה"ר אינן רה"ר. ואלו הן מבואות המפולשין לר"ה שאמרו חכמים בכל מקום (כ"ז הוא לשון רשב"א בעה"ק): נ"ל כוונתו שאם הוא כזה
+
+שהמבוי הוא נגד פלושו ואם כן בני רשות הרבים הולכין דרך המבוי אעפ"י שהמבוי אינו רחב אלא איזו אמות אעפ"כ נחשב כרה"ר אבל לרוחב ר"ה דהיינו כזה
+
+דאין בני רשות הרבים בוקעין דרך המבוי:
 
 
 ###### Chayyei Adam, Shabbat and Festivals 49:4
@@ -12750,7 +12754,7 @@ Roosters and cats and any animal that is commonly found in a home that will like
 [https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/49:4](https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/49:4)
 
 
-מבואות הרחבים י"ג אמה ושליש וב' ראשי המפולשין לרה"ר הוי רשות הרבים ודוקא כשבני רשות הרבים עוברין דרך המבוי
+מבואות הרחבים י"ג אמה ושליש וב' ראשי המפולשין לרה"ר הוי רשות הרבים ודוקא כשבני רשות הרבים עוברין דרך המבוי כזה:
 
 
 ###### Chayyei Adam, Shabbat and Festivals 49:5
@@ -16601,6 +16605,9 @@ Roosters and cats and any animal that is commonly found in a home that will like
 דין עי"ט כע"ש לכל דבר וראוי לכל אדם לטבול עצמו בעי"ט זכר למקדש שהיו כל ישראל מחוייבים לטהר עצמם ברגל ליראות בבהמ"ק ומגלחין ונוטלין צפרנים וכל דבר שאסור לומר לנכרי בע"ש לעשות בשבת אסור ג"כ בעי"ט במלאכות האסורות בי"ט:
 
 
+The laws of Erev Yom Tov apply like those of Erev Shabbat in all respects. It is proper for every person to immerse in a mikveh on Erev Yom Tov, in memory of the Temple, when all Israel were obligated to purify themselves on festivals before appearing there. One cuts hair and trims nails. Anything forbidden to instruct a non-Jew to perform on Erev Shabbat for Shabbat is likewise forbidden on Erev Yom Tov for labors prohibited on Yom Tov.
+
+
 ###### Chayyei Adam, Shabbat and Festivals 79:2
 
 [https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/79:2](https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/79:2)
@@ -16609,12 +16616,18 @@ Roosters and cats and any animal that is commonly found in a home that will like
 נהגו שלא להקיז דם בשום עי"ט דבערב שבועות יצא שד דשמיה טבוח ואילו לא קבלו ישראל את התורה הוי טבח להו לבשרייהו ולדמייהו וגזרו רבנן על כלל עי"ט משום ערב שבועות. ושרעפין שקורין באנקעס או קעפ זעאצין יש מתירין מלבד הושענא רבה שהוא יום הדין ועכ"פ בערב שבועות יש להחמיר ובלילה שלפני עי"ט מותר להקיז חוץ מליל הושענא רבה ועי"ט אחרון של פסח הכל מותר דאינו רגל בפני עצמו (מגן אברהם סי' תס"ח) וכל זה כשרוצה להקיז לבריאות אבל משום סכנה כבר דשו בו רבים ושומר פתאים ה' ואפילו בערב שבועות התיר בא"ר כשציוו הרופאים בחולי שיש בו סכנה די"ל דוקא הקזה שלהם אסרו משא"כ בהקזה שלנו ולכן במקום סכנה יש להתיר אבל לא בלאו הכי:
 
 
+The custom is not to perform bloodletting on the eve of any festival, for on Erev Shavuot, a demon named Tavuach goes forth, and had Israel not accepted the Torah, he would have slaughtered them for their flesh and their blood. The Rabbis therefore decreed [the prohibition] for all festival eves on account of Erev Shavuot. As for cupping glasses, called bankes or Köpfsetzen, some authorities permit them, except on Hoshana Rabbah, which is a Day of Judgment. In any case, on Erev Shavuot one should be stringent. On the night before a festival, bloodletting is permitted, except for the night of Hoshana Rabbah. The last day of Passover is entirely permitted, as it is not a festival unto itself. (Magen Avraham, Siman 468) All of the above applies when one wishes to let blood for purposes of health. However, where there is danger to life, the matter has already been widely trodden upon, and "God protects the simple" (Psalms 116:6). Even on Erev Shavuot, the Be'er Heitev permitted it when physicians ordered bloodletting in an illness involving mortal danger — for one can say it is specifically their [ancient] form of bloodletting that was prohibited, but not our [modern] form. Therefore, in a case of danger, one should permit it but not otherwise.
+
+
 ###### Chayyei Adam, Shabbat and Festivals 79:3
 
 [https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/79:3](https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/79:3)
 
 
 קידוש של יו"ט אינו אלא מדרבנן ומ"מ דין קידוש בי"ט כדין קידוש בשבת לכל דבר (סי' רע"א) אלא שבי"ט מוסיף לברך שהחיינו בין בליל ראשון ובין ליל שני עבור יו"ט דכיון דליל ב' הוא משום ספיקא דיומא ושמא היה חול ולכן חייב לברך גם בליל ב' ואם לא בירך בליל א' ונזכר ביום א' מברך בכל שעה שנזכר וכן אם לא בירך בליל ב' אימת שנזכר אפילו ביום טוב האחרון מברך (תפ"ג במגן אברהם) וא"צ להניח בליל ב' פרי חדש לברך שהחיינו כיון שהוא משום ספק (א"ר במגן אברהם) אבל בליל ב' של ר"ה נוהגין להניח לפניו פרי חדש דכיון דב' ימים של ר"ה הוי כיומא אריכא ולכן ס"ל למקצת פוסקים דאין מברכין שהחיינו בליל ב' ולכן מניחין פרי חדש משא"כ בב' י"ט ש"ג. ומ"מ אפי' בר"ה אם אין לו פרי חדש מברכין שהחיינו ובסוכות חייב לברך שהחיינו משום י"ט וגם משום סוכה ולכן אם היה אנוס וכה"ג שלא אכל בסוכה בלילה ראשונה אע"ג שבירך בביתו למחר או באיזה יום מז' ימי סוכה כשנכנס בסוכה מברך שהחיינו משום סוכה ומ"מ מי שלא אכל בסוכ' בליל ב' וכבר בירך שהחיינו בביתו למחר כשנכנס בסוכה אין צריך לברך שהחיינו דשהחיינו שבירך פעם א' משום סוכה סגי (וע' בא"ר סימן ג' תרמגן אברהם) ולכן בליל א' דסוכות מברך לישב בסוכה תיכף אחר קידוש ואח"כ שהחיינו דשהחיינו קאי גם על סוכה אבל בליל ב' דשהחיינו לא קאי על סוכה רק על י"ט ולכן מברכין שהחיינו תיכף אחר קידוש ואח"כ לישב בסוכה (כהכרעת הש"ע ורמגן אברהם בסימן תרס"א וכ"כ א"ר שם בשם הרבה גדולי' דלא כרש"ל וט"ז ומגן אברהם שם) ומה שכתב המגן אברהם ר"ס תרמ"ג דאם היתה הסוכה עשייה מברך זמן ואחר כך סוכה היינו דוקא כשבירך בשעת עשיה וכ"ה בב"ח) ובשביעי של פסח אין מברכין שהחיינו שהכל רגל א' אבל בשמיני עצרת וש"ת מברכין שהחיינו דש"ע רגל בפ"ע:
+
+
+The Kiddush of Yom Tov is only rabbinic in origin, yet the laws of Yom Tov Kiddush are in all respects like those of Shabbat Kiddush (Siman 271) — except that on Yom Tov one adds the recitation of Shehecheyanu, both on the first night and on the second night, for the sake of the Yom Tov. Since the second night is observed on account of safeka d'yoma one is therefore obligated to recite Shehecheyanu on the second night as well. If one did not recite it on the first night and remembered on the first day, one recites it at whatever moment one remembers. Similarly, if one did not recite it on the second night, one recites it whenever one remembers, even on the last day of Yom Tov (Magen Avraham, Siman 483). There is no need to place a new fruit before oneself on the second night in order to recite Shehecheyanu, since the obligation stems from doubt (Eliyah Rabbah, cited in Magen Avraham). However, on the second night of Rosh Hashanah, the custom is to place a new fruit before oneself — for since the two days of Rosh Hashanah are considered like a single extended day (yoma arichta), some authorities hold that Shehecheyanu is not recited on the second night at all; therefore a new fruit is placed to serve as the basis for the blessing. This differs from the two days of other Diaspora Yom Tovim. Nevertheless, even on Rosh Hashanah, if one has no new fruit available, Shehecheyanu is recited regardless. On Sukkot, one is obligated to recite Shehecheyanu both on account of the Yom Tov and on account of the Sukkah. Therefore, if one was compelled by circumstances or the like and did not eat in the Sukkah on the first night even though one had already recited Shehecheyanu at home the following day, or on any of the seven days of Sukkot, when one enters the Sukkah, one recites Shehecheyanu on account of the Sukkah. However, one who did not eat in the Sukkah on the second night, having already previously recited Shehecheyanu at home, need not recite Shehecheyanu again upon entering the Sukkah — for the single Shehecheyanu recited once on account of the Sukkah is sufficient (see Eliyah Rabbah, Siman 643 and Magen Avraham). Therefore, on the first night of Sukkot, one recites Leishev BaSukkah immediately after Kiddush, and afterwards recites Shehecheyanu — for that Shehecheyanu applies to the Sukkah as well. But on the second night, the Shehecheyanu does not apply to the Sukkah, only to the Yom Tov; therefore one recites Shehecheyanu immediately after Kiddush and afterwards recites Leishev BaSukkah (in accordance with the ruling of the Shulchan Aruch and the Magen Avraham in Siman 661; so too wrote the Eliyah Rabbah there in the name of many great authorities unlike the Rashal, the Taz, and the Magen Avraham there). As for what the Magen Avraham writes at the beginning of Siman 643 that if the Sukkah was newly built, one recites Zeman first and then Sukkah this applies specifically to one who recited the blessing at the time of building (and so too rules the Bach). On the seventh day of Passover, Shehecheyanu is not recited, since the entire festival constitutes a single pilgrimage. But on Shemini Atzeret and Simchat Torah, Shehecheyanu is recited, since Shemini Atzeret is a festival unto itself.
 
 
 ###### Chayyei Adam, Shabbat and Festivals 80:1
@@ -24846,12 +24859,19 @@ Roosters and cats and any animal that is commonly found in a home that will like
 בבית שני כשמלך אנטיוכוס גזרו גזירות על ישראל ובטלו דתם ולא הניחו אותם לעסוק בתורה ומצות ופשטו ידם בממונם ובבנותיהם ונכנסו להיכל ופרצו בו פרצות וטמאו הטהרות וצר להם לישראל מאוד מפניהם ולחצום לחץ גדול עד שריחם עליהם אלהי אבותינו והושיעם מידם והצילם וגברו בני חשמונאי הכהנים הגדולים והרגום והושיעו ישראל מידם והעמידו מלך מן הכהנים וחזרה מלכות ישראל יתר על מאתים שנה עד חורבן הבית:
 
 
+**Laws of Hanukkah**
+During the Second Temple period, when Antiochus ruled, he issued decrees against Israel, nullified their religion, and did not permit them to engage in Torah and mitzvot. They seized their property and daughters, entered the Temple, broke through it, and defiled what was pure. Israel was greatly distressed and oppressed, until the God of our ancestors had mercy and saved them. The Hasmonean priests overcame and killed them, saved Israel, and established a royal line from the priests. The kingdom of Israel was restored for more than two hundred years until the destruction of the Temple.
+
+
 ###### Chayyei Adam, Shabbat and Festivals 154:2
 
 [https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/154:2](https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/154:2)
 
 
 וכשגברו ישראל על אויביהם ואבדום בכ"ה בחדש כסליו היה ונכנסו להיכל ולא מצאו שמן טהור במקדש אלא פך אחד ולא היה בו להדליק אלא יום אחד בלבד והדליקו ממנו נרות המערכת ח' ימים עד שכתשו זיתים והוציאו שמן טהור ומפני זה התקינו חכמים שבאותו הדור שיהיו שמנת ימים אלו שמתחילין כ"ה כסליו ימי שמחה והלל ומדליקין בהן נרות בערב על פתחי הבתים בכל לילה ולילה משמונת הלילות להראות ולגלות הנס וימים אלו נקראין חנוכה ר"ל חנו כ"ה שביום כ"ה חנו מאויביהם ואע"ג שהנס של השמן לא היה אלא ז' ימים שהרי היה בו להדליק יום א' מ"מ כיון שאפילו בלא נס השמן היה ראוי לקבוע יום כ"ה שנחו בו מאויביהם להלל ולהודות כמו שקבעו פורים ביום שנחו בו ולפי שבאותו יום מצאו גם השמן התקינו שיהיו מדליקין גם בלילה שלפניו לפרסם נס של השמן גם באותו יום:
+
+
+When Israel overcame their enemies and destroyed them — it was on the 25th of Kislev — they entered the Temple and found no pure oil except for one flask, sufficient for only one day. They lit the Temple menorah for eight days until they could press olives and obtain pure oil. Because of this, the Sages of that generation established that these eight days, beginning on the 25th of Kislev, should be days of joy and praise, and that candles be lit each evening at the entrance of homes on all eight nights to display and reveal the miracle. These days are called Hanukkah — meaning "they rested on the 25th," for on the 25th they rested from their enemies. Even though the oil miracle lasted only seven days — since there was oil for one day — it was still fitting to establish the 25th (like Purim was established on the day of rest). Since the oil was also found on that day, they established that lighting should also occur on the night preceding it, to publicize the oil miracle as well.
 
 
 ###### Chayyei Adam, Shabbat and Festivals 154:3
@@ -24862,12 +24882,18 @@ Roosters and cats and any animal that is commonly found in a home that will like
 אע"ג דקיי"ל דבטלה מגילת תענית ר"ל דשם כתבו כל ימים טובים שהיה להם בבית שני שהתקינו חכמי אותו דור על הניסים שאירע להם לאחר החורבן ביטלו אותם לפי שערבה כל שמחה מ"מ חנוכה ופורים לא ביטלו. ואסורים בהפסד ותענית ומ"מ מותרים בעשיית מלאכה והנשים נוהגות שלא לעשות מלאכה בעוד שהנרות דולקות ויש שנוהגין איסור מלאכה ביום א' וביום א' דומיא דפסח וסוכות ומנהג טוב הוא ואין להקל להם דהוי כדברים המותרי' ואחרים נהגו בו איסור ומה שהנשים נוהגין יותר מאנשים מפני שבאותן הימים נעשה הנס ע"י אשה שבת יוחנן כ"ג היתה יפת תואר מאד ואמרה למלך הצורר שתשכב עמו והאכילתו תבשילי גבינה כדי שיצמא וישתכר מן היין וישן וירדם וכן היה וחתכה ראשו והביאתו לירושלים וראו שר צבאם כי מת מלכם ויניסו. ולפי שהנס נעשה ע"י תבשיל חלב ולכן נוהגין קצת לאכול תבשיל חלב בחנוכה זכר לנס שנעשה ע"י חלב:
 
 
+Although we rule that Megillat Taanit was nullified — the text recording all holidays from the Second Temple era that were later annulled after the destruction, when all joy ceased — Hanukkah and Purim were not nullified. Eulogies and fasting are forbidden; work, however, is permitted. Women have the custom not to do work while the candles burn. Some have the custom to prohibit work on the first and last days, similar to Passover and Sukkot — a good custom, not to be treated lightly, as it is something others adopted as forbidden. Women are more stringent than men because the miracle was wrought through a woman — the daughter of Yochanan the High Priest, who was very beautiful. She told the wicked king she would sleep with him, fed him cheese dishes so he would grow thirsty, drink wine, become drunk, and fall asleep — and so it was. She cut off his head and brought it to Jerusalem. When his generals saw their king was dead, they fled. Because the miracle involved a dairy dish, some have the custom to eat dairy foods on Hanukkah in remembrance.
+
+
 ###### Chayyei Adam, Shabbat and Festivals 154:4
 
 [https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/154:4](https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/154:4)
 
 
 אע"ג דאסור בהספד ותענית מ"מ מותר להספיד חכם בפניו (עיין בהלכות ר"ח) ומותר להתענות בו תענית חלום ומ"מ צריך למיתב תענית לתעניתו כדין מתענה בשבת אבל שאר תעניתים אסור אפי' יום שמת בו אביו ואמו ומ"מ יום שלפני חנוכה דהיינו כ"ד כסליו מותר בתענית ולא גזרינן שמא יבא להתענות בחנוכה דלא חמיר כולי האי ולכן יש מתענים בו תמורת ערב ר"ח אבל בהספד אסור ומ"מ לכתחלה לא ינהוג כן להתענות כ"ד כסליו וכ"ש דאסור לגזור תענית צבור (סי' תרפ"ו):
+
+
+Although fasting is forbidden, one may eulogize a Torah scholar before the bier (see the laws of Rosh Chodesh). One may observe a ta'anit chalom (fast for a troubling dream), but must then observe a compensatory fast, as one who fasts on Shabbat must do. All other fasts are forbidden — even the anniversary of a parent's death. The day before Hanukkah, the 24th of Kislev, is permitted for fasting; we do not decree against it lest one come to fast on Hanukkah itself, since it is not so stringent. Therefore some fast on it in lieu of erev Rosh Chodesh. Eulogies, however, are forbidden even then. Nonetheless, ideally one should not fast on the 24th of Kislev — and certainly, declaring a public fast is forbidden (Siman 686).
 
 
 ###### Chayyei Adam, Shabbat and Festivals 154:5
@@ -24878,12 +24904,18 @@ Roosters and cats and any animal that is commonly found in a home that will like
 י"א שמצוה קצת להרבות בסעודה בחנוכה שבימים האלו נגמר מלאכת המשכן ועוד לפי שהצוררים טמאו ההיכל ועשו חנוכת הבית בח' ימים אלו בבית המקדש ומ"מ לא הוי סעודת מצוה וכשאומרים זמירות ושבחות הוי סעודת מצוה:
 
 
+Some say there is a degree of mitzvah to expand festive meals on Hanukkah, since during these days the Tabernacle was completed, and because the oppressors defiled the Temple and performed the eight-day dedication (chanukat habayit). Nevertheless, it is not obligatory as a seudat mitzvah. However, when songs of praise are recited at the meal, it becomes a seudat mitzvah.
+
+
 ###### Chayyei Adam, Shabbat and Festivals 154:6
 
 [https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/154:6](https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/154:6)
 
 
 צריך ליזהר מאד בהדלקת הנרות ואפי' עני המתפרנס מן הצדקה שואל או מוכר כסותו כדי להדליק להודיע הנס ולהוסיף בשבח ה' והודיה לו על הנסים שעשה לנו ומ"מ א"צ לשאול ולמכור אלא לנר א' בכל לילה שהיא עיקר המצוה (א"ר) ואם יש לו נר א' אע"פ שאין לו נר על השולחן ידליק הנר לשם חנוכה ואע"פ שע"כ ישתמש לאורה (סי' תרע"ח במגן אברהם):
+
+
+One must be very careful about lighting Hanukkah candles. Even a poor person supported by charity should borrow or sell a garment in order to light — to publicize the miracle and add praise and thanksgiving to God. Nevertheless, one need only borrow or sell for one candle per night, which is the essential mitzvah (A"R). If one has one candle but no table candle, one should light it for Hanukkah even though one will inevitably benefit from its light (Siman 678, Magen Avraham).
 
 
 ###### Chayyei Adam, Shabbat and Festivals 154:7
@@ -24894,12 +24926,18 @@ Roosters and cats and any animal that is commonly found in a home that will like
 הכל חייבין בנר חנוכה אנשים ונשים וקטן שהגיע לחינוך חייב אביו לחנכו שהכל היו באותו נס וסומא אם יש לו אשה היא תדליק או ישתתף בפריטי ואם יש לו בית מיוחד ואין לו אשה ידליק בסיוע אחרים ואשה יכולה להדליק להוציא אפילו איש:
 
 
+All are obligated in Hanukkah candles — men, women, and minors who have reached the age of education; a father must educate his child, as all were included in the miracle. A blind person — if he has a wife, she lights; or he may contribute a share in someone else's candles. If he has his own home and no wife, he lights with assistance. A woman may light and fulfill the obligation on behalf of even a man.
+
+
 ###### Chayyei Adam, Shabbat and Festivals 154:8
 
 [https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/154:8](https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/154:8)
 
 
 כל השמנים כשרים אע"פ שאינו נמשך אחר הפתילה ואפי' בלי שבת שבתוך חנוכה דאע"ג דלנר שבת אסור להדליק בהם התם דמשתמשין לאורה חיישינן שמא יטה משא"כ בנר חנוכה שאסור להשתמש לאורן ולכן לא גזרינן. ומ"מ מצוה מן המובחר ליתן שמן זית דומיא דנס שבמקדש שהיה בשמן זית ואם אין מצוי יקח שמנים שאורם זך ונקי או נר של שעוה שג"כ אורו זך ואם אין לו יקח של חלב או שומן וה"ה הפתילות שאין מדליקין בהם בשבת מותר להדליק בהם נ"ח ומ"מ מצוה מן המובחר ליקח צמר גפן או חוטי פשתן וא"צ להחליף הפתילות בכל לילה אלא מדליק בהם עד שיכלו ולא יעשו הנרות משעוה של בתי עבודת פעור אע"פ שבטלו הנכרי משום דמאים:
+
+
+All oils are valid, even if the oil does not flow well through the wick — even on the Shabbat that falls within Hanukkah. Though such oils are forbidden for Shabbat candles (lest one tilt the lamp), Hanukkah candles — whose light one may not use — are not subject to this decree. The preferred mitzvah is olive oil, as in the Temple miracle. If unavailable, use oils that burn clearly and cleanly, or wax candles. If these are unavailable, use tallow or fat. Wicks invalid for Shabbat are permitted for Hanukkah. The preferred mitzvah is cotton wool or linen threads. Wicks need not be replaced each night — light with them until consumed. Do not use candles made from the wax of idolatrous temples, even if a non-Jew has nullified them, as they are repulsive.
 
 
 ###### Chayyei Adam, Shabbat and Festivals 154:9
@@ -24910,12 +24948,18 @@ Roosters and cats and any animal that is commonly found in a home that will like
 מצוה להדליק בנר של מתכות משום הידור מצוה או של זכוכית ואם מדלי' בנר של חרס כיון שהדליק בו לילה אחת נעשה ישן ואין מדליקין בו בלילה אחרת דמאיס ולכן צריך כלי חדש בכל לילה או שיסיק אותו באור:
 
 
+It is a mitzvah to use a metal lamp for hidur mitzvah (beautifying the mitzvah), or glass. If using an earthenware lamp, once lit for one night it becomes "old" and repulsive — one needs a new vessel each night, or must heat the old one over fire.
+
+
 ###### Chayyei Adam, Shabbat and Festivals 154:10
 
 [https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/154:10](https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/154:10)
 
 
 מילא קערה שמן והקיפה פתילות אם כפה עליה כלי כל פתילה עולה בשביל נר א' לא כפה עליה כלי אפי' לנר אחד אינו עולה לפי שהיא כמדורה ומותר להדליק בפמוטות שקורין לאמפא שכל א' מובדל מחבירו אע"ג דאין כופה עליה כלי ונ"ל דה"ה אם יש הפסק מחיצה בין נר לנר ובלבד שיהי' בין נר לנר עכ"פ רחב אצבע אפי' לא כפה עליה כלי וכן נוהגין דדוקא בקערה שאין שום הפסק בין נר לנר ומ"מ אין הידור מצוה להדליק בלאמפ מפני שהנרות הם בעגול וכן אם מדליק בנרות שעוה יעמידם בשוה ולא א' גבוה וא' נמוך וכן לא יעשה קליעות ב' נרות ביחד אע"ג שאורו רב מ"מ הוי כמדורה אלא שיהיה נר יחידי ולא יעמיד' סמוך כ"כ שיתחממו זו מזו דאז נכפלות ונופלות ולא קיים המצוה:
+
+
+If one filled a bowl with oil and surrounded it with wicks — if a vessel is placed over it, each wick counts as a separate candle. Without a vessel placed over it, it does not even count for one candle, as it resembles a bonfire. One may light with lamp-holders (lampes) where each is separate, even without a covering vessel. It seems to me the same applies with a partition between candles, provided there is at least a finger's width between them. This is the custom — only a bowl with no separation between the flames is problematic. However, a circular lamp does not constitute hidur mitzvah. When using wax candles, stand them upright — not one high and one low. Do not twist two candles together; even though the light is greater, it resembles a bonfire. Each must be a single candle. Do not place them so close they warm each other, causing them to bend and fall — that would be a failure to fulfill the mitzvah.
 
 
 ###### Chayyei Adam, Shabbat and Festivals 154:11
@@ -24926,12 +24970,18 @@ Roosters and cats and any animal that is commonly found in a home that will like
 נר שיש לו ב' פיות לא ידליקו בו ב' בני אדם אפי' בלילה ראשונה לפי שאנו נוהגין שכ"א מוסיף בכל לילה כדלקמן יטעו הרואים וליכא היכר כמה נרות מדליקין ואפשר דוקא נר שיש לו רק ב' פיות אבל במנורת חנוכה שלנו שיש בו ח' פיות מותר להדליק ב' בני אדם זה בקצה זה וזה בקצה זה שהרי הכל רואין שהדליקו ב' דאל"כ היה מדליק כסדר א' אצל חבירו:
 
 
+A candle with two wicks — two people may not light from it, even on the first night. Since our custom is for each person to add one candle per night, observers would be confused about the count. However, this may apply only to a two-wick candle. With our Hanukkah menorah of eight openings, two people may light — one at each end — since it is obvious two people are lighting; otherwise they would have lit sequentially.
+
+
 ###### Chayyei Adam, Shabbat and Festivals 154:12
 
 [https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/154:12](https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/154:12)
 
 
 מקום הדלקתה בזמן הגמ' היה מצותה להדליק בפתח הסמוך לרה"ר אם הבית פתוח לרה"ר ואם יש חצר לפני הבית מניחו על פתח החצר אך בזמן הזה שאנו דרים בין האומות מנהגינו להדליק כל אחד בביתו ואפי' יש לו חדרים הרבה ופתחים הרבה לחצר ולרה"ר אינו מדליק אלא בביתו שמשתמש בו כל תשמישו עם ב"ב (תרע"א):
+
+
+The place of lighting — in Talmudic times, the mitzvah was at the entrance nearest the public domain. If there is a courtyard, at the courtyard entrance. In our time, since we live among other nations, each person lights inside their home. Even with many rooms and many entrances, one lights only in the main living space where one's household activities occur (Siman 671).
 
 
 ###### Chayyei Adam, Shabbat and Festivals 154:13
@@ -24942,12 +24992,18 @@ Roosters and cats and any animal that is commonly found in a home that will like
 מצוה מן המובחר שיניחנה בטפח הסמוך לפתח משמאל כדי שתהא מזוז' מימין ונ"ח משמאל ונמצא שהוא מסובב במצות ואם אין שם מזוזה מניחו מימין דבכ"מ ימין עדיף והיותר עדיף להניח בחלל הפתח כמו שנכתוב לקמן סי' כ"ד (שם):
 
 
+The preferred mitzvah is to place it within a handbreadth of the doorway on the left — so the mezuzah is on the right and the Hanukkah candle on the left, surrounding one with mitzvot. If there is no mezuzah, place it on the right, since the right is always preferred. The most preferred placement is in the doorway opening itself, as will be explained in Siman 24 (ibid.).
+
+
 ###### Chayyei Adam, Shabbat and Festivals 154:14
 
 [https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/154:14](https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/154:14)
 
 
 מצותו להניח למעלה מג' טפחים מן הקרקע ולמטה מעשרה טפחים דאז ניכר שהניח שם לשם מצוה דנר העשוי להאיר אינם מניחים נמוך כ"כ אם הניח למעלה מי' יצא אבל אם מניחו למעלה מעשרים אמה לא יצא דלמעלה מכ' אמות לא שלטה ביה עין ואינו ניכר (שם):
+
+
+The mitzvah is to place it more than three handbreadths above the ground and less than ten — at this height it is apparent the candle was placed there for a mitzvah, not for ordinary use. If placed above ten handbreadths, the mitzvah is fulfilled. But if placed above twenty cubits, it is not fulfilled, since above twenty cubits the eye does not perceive it well (ibid.).
 
 
 ###### Chayyei Adam, Shabbat and Festivals 154:15
@@ -24958,12 +25014,18 @@ Roosters and cats and any animal that is commonly found in a home that will like
 אם יש הרבה שמדליקין וצריכין להדליק בשאר מקומות מ"מ יזהרו שלא להדלי' במקום שמדליקין כל השנה דאז לא יהיה היכר כלל (שם):
 
 
+If many people must light in various locations, they should be careful not to light where lights burn year-round — there would be no indication of the mitzvah at all (ibid.).
+
+
 ###### Chayyei Adam, Shabbat and Festivals 154:16
 
 [https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/154:16](https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/154:16)
 
 
 הדר בעליה יכול להניח בחלון אע"פ שהוא גבוה למעלה מי"ט. ונ"ל דלדידן מצוה יותר בחלון מלהניח אצל הפתח דבחלון יש היכר לבני רה"ר ואם החלון גבוה מקרקע רה"ר למעלה מכ' אמה וא"כ אין היכר לבני רה"ר אזי יותר טוב להניח בפתח (שם):
+
+
+One who lives in an upper story may place the menorah in the window, even above ten handbreadths. It seems to me that for us, a window is preferable to a doorway, since it is visible to those in the public domain. If the window is more than twenty cubits above the floor of the public domain — and thus not visible to passersby — it is better to place it by the entrance (ibid.).
 
 
 ###### Chayyei Adam, Shabbat and Festivals 154:17
@@ -24974,12 +25036,18 @@ Roosters and cats and any animal that is commonly found in a home that will like
 מדליקין ומברכין בבית הכנסת משום פרסומי ניסא ומניחן בכותל דרום ומסדר הנרות ממזרח למערב ויש נוהגין לסדרן צפון ודרום ונהרא נהרא ופשטיה. ואין אדם יוצא בנרות של בהכ"נ וצריך לחזור ולהדליק בביתו ומדליקין בבהכ"נ בין מנחה למעריב ובע"ש אם הוא סמוך לחשיכה ואין מנין בבהכ"נ יברך וידליק מיד דמ"מ איכא פרסומי ניסא כשבאים אח"כ לבהכ"נ. בבהכ"נ לא ידליק מי שהוא אבל בליל ראשון שאז הקהל בשמחה שמברכין שהחיינו אבל בשאר לילות מותר אבל בבית כשמדליק אבל בליל ראשון מברך שהחיינו (תרע"א ט"ז סק"ח):
 
 
+One lights and recites blessings in the synagogue for pirsumei nisa (publicizing the miracle). The menorah is placed on the southern wall; candles are arranged east to west (some arrange them north to south — each community follows its own custom). No one fulfills their obligation through the synagogue candles; one must return home and light again. One lights in the synagogue between Mincha and Ma'ariv. On Erev Shabbat, if close to nightfall with no minyan present, one blesses and lights immediately — there is still pirsumei nisa when people come later. In the synagogue, a mourner should not light on the first night, when the congregation is joyful and recites Shehecheyanu; on other nights a mourner may. But at home, a mourner on the first night does recite Shehecheyanu (Siman 671, Taz).
+
+
 ###### Chayyei Adam, Shabbat and Festivals 154:18
 
 [https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/154:18](https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/154:18)
 
 
 זמן הדלקתה הוא עם סוף שקיעת החמה דהיינו צה"כ ולא מאחרים ואם הוא טרוד ולא יהיה לו פנאי אח"כ יכול להדליק מפלג המנחה ולמעלה דהיינו שעה ורביע קודם צה"כ וחשבינן השעה לפי קוצר היום דהיינו שעה זמניות ובלבד שיתן בה שמן כ"כ שתהא דולקת עד חצי שעה לאחר צה"כ ואם אינה דולקת בלילה לא קיים המצוה וצריך לחזור ולהדליק ולברך ונ"ל דאם הוא מסופק אם כבר הוא צה"כ ידליק ומותר למהר קצת מלאחר (עי' פ"ח ר"ס תרע"ב וביאורי הגר"א):
+
+
+The time for lighting is at the end of sunset — tzet hakochavim (nightfall) — without delay. If occupied, one may light from plag hamincha onward — an hour and a quarter before nightfall, calculated in seasonal hours — provided enough oil is placed to burn until half an hour after nightfall. If the candle does not remain lit into the night, the mitzvah has not been fulfilled and one must relight with a blessing. It seems to me that if uncertain whether nightfall has arrived, one may light, and one may hasten slightly (see Pri Chadash, Siman 672 and the Vilna Gaon's commentary).
 
 
 ###### Chayyei Adam, Shabbat and Festivals 154:19
@@ -24990,12 +25058,18 @@ Roosters and cats and any animal that is commonly found in a home that will like
 שכח או הזיד ולא הדליק עם שקיעת החמה מדליק והולך עד שתכלה רגל מן השוק שהוא כמו חצי שעה לאחר צה"כ ואיכא פרסומי ניסא וכ"ז בזמניהם שהיו מדליקין בחוץ וכיון שכבר כלה רגל מן השוק אין כאן היכר אבל לדידן שמדליקין בפנים לכתחלה יזהר להדליק בזמנו. ומיהו בדיעבד כל זמן שבני ביתו נעורים יכול להדליק ולברך ואם כבר ישנים אין לברך אלא ידליק בלא ברכה דכמו דלדידהו לא היה מברך אלא בזמן פרסום הנס ה"נ לדידן:
 
 
+If one forgot or intentionally did not light at sunset, one may continue to light until people have ceased from the marketplace — approximately half an hour after nightfall — as pirsumei nisa still applies. This applied in Talmudic times, when lighting was done outside. Once the marketplace is empty, there is no longer recognition. For us, who light inside, one should ideally light on time. After the fact (be-di'avad), as long as household members are awake, one may light with a blessing. If they have gone to sleep, one lights without a blessing — for just as in their time a blessing was recited only when pirsumei nisa applied, so too for us.
+
+
 ###### Chayyei Adam, Shabbat and Festivals 154:20
 
 [https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/154:20](https://torahapp.org/share/book/Chayyei%20Adam/s/Shabbat%20and%20Festivals/r/154:20)
 
 
 קודם שידליק יקבץ כל בני ביתו לפרסם הנס ומשהגיע זמנה אסור אפי' ללמוד וכ"ש אכילה וש"ד ואפילו התחיל פוסק ויתפלל תחלה מעריב ובלבד שלא יאחר עיקר זמן הדלקה שהוא עד שתכלה רגל וא"ל מוטב שידליק תחילה וי"א שידליק קודם מעריב וכן נהג הגר"א:
+
+
+Before lighting, one should gather all household members to publicize the miracle. Once the time arrives, it is forbidden even to study Torah — certainly to eat or converse. Even if one has begun [learning], one stops and prays Ma'ariv first — provided one does not delay past the primary lighting time (until the marketplace is empty). Otherwise, it is better to light first. Some rule one should light before Ma'ariv — and this was the practice of the Vilna Gaon.
 
 
 ###### Chayyei Adam, Shabbat and Festivals 154:21

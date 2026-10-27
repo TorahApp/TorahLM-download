@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Vilna Edition (Segments: 3138, License: Public Domain)
 
-Version (En): Nelly Altenburger (Segments: 139)
+Version (En): [fr] (Segments: 148)
 
 
 ## Daf 2a
@@ -4226,6 +4226,9 @@ HE HID THE BOOK OF REMEDIES. So that people would ask for compassion.
 גמ' בשבתך בביתך פרט לעוסק במצוה – לקמיה מפרש מאי משמע:
 
 
+**When you sit in your house excludes one who is occupied with a mitzvah** - Further below the reason for this is explained
+
+
 ###### Rashi on Berakhot 11a:4:2
 
 [https://torahapp.org/share/book/Rashi%20on%20Berakhot/r/11a:4:2](https://torahapp.org/share/book/Rashi%20on%20Berakhot/r/11a:4:2)
@@ -4234,12 +4237,18 @@ HE HID THE BOOK OF REMEDIES. So that people would ask for compassion.
 ובלכתך בדרך פרט לחתן – ואע"ג דחתן נמי עוסק במצוה הוא אי לאו קרא יתירה לא נפקא לן מקרא קמא דכיון דעוסק במצוה לא כתיב בקרא בהדיא אלא מיעוטא בעלמא הוא דקא דרשינן מביתך וממעטינן מינה עוסק במלאכת מצוה דאיכא טרדא אבל חתן דטרדא דמחשבה בעלמא הוא שמחשב על עסק בתולים אי לאו קרא יתירה לא אתמעוט:
 
 
+**And when you walk on the road excludes the bridegroom** - Even though the bridegroom is also engaged in a Mitzvah, were it not for an extra verse we would not derive it from the first verse, since "one who is engaged in a Mitzvah" is not written in the verse explicitly. Rather, we only derive an exclusion from "in your house", and from it we exclude one who is engaged in doing a Mitzvah where there is preoccupation. But a bridegroom , whose distraction is merely a preoccupation of thought, for he is thinking about the consummation of the marriage, if not for the additional verse we would not exclude.
+
+
 ###### Rashi on Berakhot 11a:4:3
 
 [https://torahapp.org/share/book/Rashi%20on%20Berakhot/r/11a:4:3](https://torahapp.org/share/book/Rashi%20on%20Berakhot/r/11a:4:3)
 
 
 הכונס את הבתולה פטור – שטרוד במחשבת בעילת מצוה:
+
+
+**One who marries a virgin is exempt** - For his thoughts are occupied due to the mitzvah
 
 
 
@@ -4253,6 +4262,9 @@ HE HID THE BOOK OF REMEDIES. So that people would ask for compassion.
 מאי משמע – פרט לעוסק במצוה:
 
 
+**How is this implied** - That one who is engaged in a mitzvah is excluded
+
+
 
 ### Line 6
 
@@ -4262,6 +4274,9 @@ HE HID THE BOOK OF REMEDIES. So that people would ask for compassion.
 
 
 כי דרך – בשבתך ובלכתך הוקשו לדרך:
+
+
+**Like the way** - "During your sitting" and "during your going" are juxtaposed with "the way".
 
 
 
@@ -4275,6 +4290,9 @@ HE HID THE BOOK OF REMEDIES. So that people would ask for compassion.
 מי לא עסקינן כו' – כלומר מנלן דבדרך רשות לחודא איירי קרא הא קרא דרך סתמא כתיב וממילא משתמע נמי מיניה דרך מצוה ואפילו הכי אמר רחמנא ליקרי:
 
 
+**Are we not dealing with etc.** - That is to say, from where do we know that the verse is dealing with an optional journey exclusively? After all, the verse simply says "[when you walk on the] way", and consequently a journey for a mitzvah is also implied by it. Nevertheless the Merciful One says he should recite [the Shema].
+
+
 
 ### Line 10
 
@@ -4286,12 +4304,18 @@ HE HID THE BOOK OF REMEDIES. So that people would ask for compassion.
 אי משום טרדא – דמחשבה פטרת ליה אפילו טבעה ספינתו נמי:
 
 
+**If it is because of preoccupation** - of the mind that exempts him, one whose ship sunk also [should be exempt]
+
+
 ###### Rashi on Berakhot 11a:10:2
 
 [https://torahapp.org/share/book/Rashi%20on%20Berakhot/r/11a:10:2](https://torahapp.org/share/book/Rashi%20on%20Berakhot/r/11a:10:2)
 
 
 אלמה אמר רבי אבא – כמו למה אמר אע"פ שטרוד בצערו חייב בכל המצות חוץ מן התפילין שנאמר בהם פאר ליחזקאל פארך חבוש עליך וגו' וכיון דבעו פאר ואבל מתגולל בצערו בעפר אין זה פאר:
+
+
+**Why did Rabbi Abba say** - That is, why did he say even though he is preoccupied with this distress he is obligated in all of the mitzvot except from Tefillin, for "glory" is said regarding them to Ezekiel [in the verse] "bind your glory upon yourself etc.", thus they require glory. And the mourner rolls in his sorrow in dirt; there is no glory there.
 
 
 
@@ -4303,6 +4327,9 @@ HE HID THE BOOK OF REMEDIES. So that people would ask for compassion.
 
 
 טריד טרדא דמצוה – וכיון דאנן מיעוט בעלמא דרשינן פרט לחתן מסתייך אם ממעטת מיניה טרדא דמצוה:
+
+
+**He is preoccupied with a mitzvah** - And since we are merely deriving a [specific] exclusion, namely, that a bridegroom is excluded, it is sufficient to exclude [the bridegroom] due to a mitzvah-related preoccupation.
 
 
 

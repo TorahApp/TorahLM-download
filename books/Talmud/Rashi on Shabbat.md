@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Vilna Edition (Segments: 8729, License: Public Domain)
 
-Version (En): Sefaria Community Translation (Segments: 324)
+Version (En): Sefaria Community Translation (Segments: 323)
 
 
 ## Daf 2a
@@ -2083,14 +2083,6 @@ Interposing (went in the middle) through the LITTLE WALLS in perek B in eruvin t
 כגון דאית לה מחיצות - ואשמעינן דאע"ג דהיקפה יתר מבית סאתים ולא הוקף לדירה שאין ביתו סמוך לה קודם היקף ולענין לטלטל לתוכה הויא ככרמלית כדאמרינן בעירובין שאין מטלטלין בו אלא בד' אפ"ה דאורייתא רה"י היא והזורק מרה"ר לתוכה חייב:
 
 
-###### Rashi on Shabbat 7a:1:2
-
-[https://torahapp.org/share/book/Rashi%20on%20Shabbat/r/7a:1:2](https://torahapp.org/share/book/Rashi%20on%20Shabbat/r/7a:1:2)
-
-
-כדעולא - דאמר מחיצה היא לקרות רה"י אלא שמחוסרת דירה לכך אסורה לטלטל מדרבנן והא דקתני רה"ר לטומאה כגון שיש פתחים במחיצותיה ונכנסין בזו ויוצאין בזו:
-
-
 
 ### Line 2
 
@@ -2099,7 +2091,7 @@ Interposing (went in the middle) through the LITTLE WALLS in perek B in eruvin t
 [https://torahapp.org/share/book/Rashi%20on%20Shabbat/r/7a:2:1](https://torahapp.org/share/book/Rashi%20on%20Shabbat/r/7a:2:1)
 
 
-עולא - דאמר אמאי קרי לה רה"י כו' מ"ט לא אמר כגון דאית לה מחיצות ורה"י גמורה קאמר וניזיל בתר שמעתיה דאמר הזורק לתוכו חייב:
+כדעולא - דאמר מחיצה היא לקרות רה"י אלא שמחוסרת דירה לכך אסורה לטלטל מדרבנן והא דקתני רה"ר לטומאה כגון שיש פתחים במחיצותיה ונכנסין בזו ויוצאין בזו:
 
 
 ulla (עולא) because it says why is it called a private domain etc.? what's the reason he doesn't say that for example it has walls and it's a full fledged private domain what the BERAITA is saying. AND he GOES after his OWN SAYING that he says that if you throw into it you are liable
@@ -2110,10 +2102,18 @@ ulla (עולא) because it says why is it called a private domain etc.? what's t
 [https://torahapp.org/share/book/Rashi%20on%20Shabbat/r/7a:2:2](https://torahapp.org/share/book/Rashi%20on%20Shabbat/r/7a:2:2)
 
 
-ורב אשי - אמר לך רה"י קתני וכרמלית לא קרי לה תנא רה"י:
+עולא - דאמר אמאי קרי לה רה"י כו' מ"ט לא אמר כגון דאית לה מחיצות ורה"י גמורה קאמר וניזיל בתר שמעתיה דאמר הזורק לתוכו חייב:
 
 
 (ורב אשי) rav ashi to tell you that it teaches private domain. AND if it would have been A CARMELIT (ie. with no walls) the tana would not call it a private domain,
+
+
+###### Rashi on Shabbat 7a:2:3
+
+[https://torahapp.org/share/book/Rashi%20on%20Shabbat/r/7a:2:3](https://torahapp.org/share/book/Rashi%20on%20Shabbat/r/7a:2:3)
+
+
+ורב אשי - אמר לך רה"י קתני וכרמלית לא קרי לה תנא רה"י:
 
 
 
@@ -2347,7 +2347,15 @@ ulla (עולא) because it says why is it called a private domain etc.? what's t
 [https://torahapp.org/share/book/Rashi%20on%20Shabbat/r/7a:9:5](https://torahapp.org/share/book/Rashi%20on%20Shabbat/r/7a:9:5)
 
 
-חייב - כמונח ע"ג קרקע דלא בעי הנחה על גבי מקום ד' ברה"י כדמפרש לקמיה בשמעתין. עד לרקיע. כל אויר שכנגד רה"י בין אויר חצר בין אויר עמוד בר"ה גבוה י' ורחב ד' כנגדו עד לרקיע שם רה"י עליו:
+חייב - כמונח ע"ג קרקע דלא בעי הנחה על גבי מקום ד' ברה"י כדמפרש לקמיה בשמעתין:
+
+
+###### Rashi on Shabbat 7a:9:6
+
+[https://torahapp.org/share/book/Rashi%20on%20Shabbat/r/7a:9:6](https://torahapp.org/share/book/Rashi%20on%20Shabbat/r/7a:9:6)
+
+
+עד לרקיע - כל אויר שכנגד רה"י בין אויר חצר בין אויר עמוד בר"ה גבוה י' ורחב ד' כנגדו עד לרקיע שם רה"י עליו:
 
 
 
@@ -3069,7 +3077,7 @@ ulla (עולא) because it says why is it called a private domain etc.? what's t
 [https://torahapp.org/share/book/Rashi%20on%20Shabbat/r/9a:6:1](https://torahapp.org/share/book/Rashi%20on%20Shabbat/r/9a:6:1)
 
 
-באסקופת בית - שכולו פתח מקורה והיינו טעמא דפתח נעול כלחוץ כגון שקירה עובי הפתח בשתי קורות דאילו תקרה שיש בה ד' אמרינן בה יורד וסותם ותו לא אתי נעילת דלת ומבטל למחיצה ואפילו הוא שוקף באמצעיתו דלא דמי למבוי דקורת מבוי קצרה היא ולא הוכשרה אלא למבוי הלכך פתח נעול בטלה מתורת קורה דהא אזל ליה מבוי אבל תקרת ד' לא בטלה ירידת סתימתה בנעילת דלת דהלמ"מ מסיני הוא גוד ולבוד ודופן עקומה במקום ד' והכא טעמא משום דשתי קורות הוו שאין בזו ארבע ולא בזו ארבע ולא ביניהן ג' והדלת מתוקן להיות נועל באמצע הלכך פתח פתוח כלפנים דכיון דאין ביניהם ג' אמרינן לבוד והוי כחדא ופיה החיצון יורד וסותם דהא השתא אית בה ד':
+באסקופת בית - שכולו פתח מקורה והיינו טעמא דפתח נעול כלחוץ כגון שקירה עובי הפתח בשתי קורות דאילו תקרה שיש בה ד' אמרינן בה יורד וסותם ותו לא אתי נעילת דלת ומבטל למחיצה ואפילו הוא שוקף באמצעיתו דלא דמי למבוי דקורת מבוי קצרה היא ולא הוכשרה אלא למבוי הלכך פתח נעול בטלה מתורת קורה דהא אזל ליה מבוי אבל תקרת ד' לא בטלה ירידת סתימתה בנעילת דלת דהלמ"מ הוא גוד ולבוד ודופן עקומה במקום ד' והכא טעמא משום דשתי קורות הוו שאין בזו ארבע ולא בזו ארבע ולא ביניהן ג' והדלת מתוקן להיות נועל באמצע הלכך פתח פתוח כלפנים דכיון דאין ביניהם ג' אמרינן לבוד והוי כחדא ופיה החיצון יורד וסותם דהא השתא אית בה ד':
 
 
 ###### Rashi on Shabbat 9a:6:2
@@ -11077,7 +11085,7 @@ Out of respect for Shabbat - since it smells bad
 [https://torahapp.org/share/book/Rashi%20on%20Shabbat/r/25b:3:1](https://torahapp.org/share/book/Rashi%20on%20Shabbat/r/25b:3:1)
 
 
-הדלקת נר בשבת. שלא היה לו ממה להדליק ובמקום שאין נר אין שלום שהולך ונכשל והולך באפילה:
+ויצא - מאי איכפת לן:
 
 
 ###### Rashi on Shabbat 25b:3:2
@@ -11085,7 +11093,7 @@ Out of respect for Shabbat - since it smells bad
 [https://torahapp.org/share/book/Rashi%20on%20Shabbat/r/25b:3:2](https://torahapp.org/share/book/Rashi%20on%20Shabbat/r/25b:3:2)
 
 
-ויצא - מאי איכפת לן:
+חובה - כבוד שבת הוא שאין סעודה חשובה אלא במקום אור כעין יממא בפרק בתרא דיומא (דף עה:):
 
 
 ###### Rashi on Shabbat 25b:3:3
@@ -11093,21 +11101,10 @@ Out of respect for Shabbat - since it smells bad
 [https://torahapp.org/share/book/Rashi%20on%20Shabbat/r/25b:3:3](https://torahapp.org/share/book/Rashi%20on%20Shabbat/r/25b:3:3)
 
 
-חובה - כבוד שבת הוא שאין סעודה חשובה אלא במקום אור כעין יממא בפרק בתרא דיומא (דף עה:):
-
-
-Obligation - This is included in "honoring Shabbat" (Kevod Shabbat), for a feast is not important unless it is in a place where it is as bright as day, as mentioned in the last chapter of Yoma (75b)
-
-
-###### Rashi on Shabbat 25b:3:4
-
-[https://torahapp.org/share/book/Rashi%20on%20Shabbat/r/25b:3:4](https://torahapp.org/share/book/Rashi%20on%20Shabbat/r/25b:3:4)
-
-
 רחיצת ידים ורגלים - ערבית ליל שבת:
 
 
-Washing hands and feet - in the evening, Shabbat night
+Obligation - This is included in "honoring Shabbat" (Kevod Shabbat), for a feast is not important unless it is in a place where it is as bright as day, as mentioned in the last chapter of Yoma (75b)
 
 
 

@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat Zion/Prophets
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 2816, License: Public Domain)
+Version (He): On Your Way (Segments: 2850, License: Public Domain)
 
 
 ## Chapter 1
@@ -560,7 +560,15 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/1:25:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/1:25:2)
 
 
-**כבור.** כבורית שמנקין בו הבגדים מכתמיהם בדיליך. היא מין מתכת כמו ואת הבדיל (במדבר לא):
+**כבור.** כבורית שמנקין בו הבגדים מכתמיהם:
+
+
+###### Metzudat Zion on Isaiah 1:25:3
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/1:25:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/1:25:3)
+
+
+**בדיליך.** היא מין מתכת כמו ואת הבדיל (במדבר לא):
 
 
 
@@ -785,7 +793,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/2:10:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/2:10:1)
 
 
-**גאונו.** על׳ גאוה וממשלה:
+**גאונו.** מל׳ גאוה וממשלה:
 
 
 
@@ -1019,7 +1027,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/3:7:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/3:7:2)
 
 
-**הובש.** ענין מאסר כלא כמו חבוש בטמון (איוב מ):
+**חובש.** ענין מאסר כלא כמו חבוש בטמון (איוב מ):
 
 
 
@@ -1219,7 +1227,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/3:18:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/3:18:2)
 
 
-**והשביסים.** מין שבכה לתכשיט הראש ובדרו״ל ושביס של סבכה (נגעים פי״א):
+**והשביסים.** מין שבכה לתכשיט הראש ובדרז״ל ושביס של סבכה (נגעים פי״א):
 
 
 ###### Metzudat Zion on Isaiah 3:18:3
@@ -1246,7 +1254,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/3:19:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/3:19:2)
 
 
-**והשרות.** צמידי הזרוע כי תרגום של צמידים הוא שיריא:
+**והשירות.** צמידי הזרוע כי תרגום של צמידים הוא שיריא:
 
 
 ###### Metzudat Zion on Isaiah 3:19:3
@@ -1600,7 +1608,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/5:1:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/5:1:1)
 
 
-**לידידי.** אהובי ובן דודי:
+**לידידי.** אהובי וכן דודי:
 
 
 ###### Metzudat Zion on Isaiah 5:1:2
@@ -1878,7 +1886,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/5:14:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/5:14:2)
 
 
-**לבלי חוק.** בלא קצבה והמונה. המון עמה:
+**לבלי חוק.** בלא קצבה:
 
 
 ###### Metzudat Zion on Isaiah 5:14:3
@@ -1886,12 +1894,20 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/5:14:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/5:14:3)
 
 
-**ושאונה.** הוא כמו המונה וכפל הדבר במ״ש:
+**והמונה.** המון עמה:
 
 
 ###### Metzudat Zion on Isaiah 5:14:4
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/5:14:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/5:14:4)
+
+
+**ושאונה.** הוא כמו המונה וכפל הדבר במ״ש:
+
+
+###### Metzudat Zion on Isaiah 5:14:5
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/5:14:5](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/5:14:5)
 
 
 **ועלז.** ענין שמחה:
@@ -2065,7 +2081,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/5:26:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/5:26:1)
 
 
-**נס.** הוא כלונס ארוך ובראשי בגד ועשוי לרמוז בו ולהתאסף ולבא:
+**נס.** הוא כלונס ארוך ובראשו בגד ועשוי לרמוז בו ולהתאסף ולבא:
 
 
 ###### Metzudat Zion on Isaiah 5:26:2
@@ -2135,7 +2151,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/5:28:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/5:28:2)
 
 
-**דרוכות.** הדרך לדרך ברגליו על הקשת למתחו היטב:
+**דרוכות.** הדרך לדרוך ברגליו על הקשת למתחו היטב:
 
 
 ###### Metzudat Zion on Isaiah 5:28:3
@@ -2474,7 +2490,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/7:9:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/7:9:1)
 
 
-**תאמנו.** ענין קיום כמו אמונת עתיר (לקמן לג):
+**תאמנו.** ענין קיום כמו אמונת עתיך (לקמן לג):
 
 
 
@@ -2963,6 +2979,14 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 **מעוף.** ענין חשך כמו תעופה כבקר תהיה (איוב יא):
 
 
+###### Metzudat Zion on Isaiah 8:22:2
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/8:22:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/8:22:2)
+
+
+**מנודח.** מל׳ דחיה:
+
+
 
 ### Verse 23
 
@@ -2979,20 +3003,12 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/8:23:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/8:23:2)
 
 
-**מנודח.** מל׳ דחיה:
+**מוצק.** מל׳ צוקה וצרה:
 
 
 ###### Metzudat Zion on Isaiah 8:23:3
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/8:23:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/8:23:3)
-
-
-**מוצק.** מל׳ צוקה וצרה:
-
-
-###### Metzudat Zion on Isaiah 8:23:4
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/8:23:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/8:23:4)
 
 
 **גליל.** ענין סבוב:
@@ -4628,7 +4644,15 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/13:16:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/13:16:2)
 
 
-**ישסו.** ענין בזה ושלל תשגלנה. מלשון משגל ומשכב:
+**ישסו.** ענין בזה ושלל:
+
+
+###### Metzudat Zion on Isaiah 13:16:3
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/13:16:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/13:16:3)
+
+
+**תשגלנה.** מלשון משגל ומשכב:
 
 
 
@@ -4929,7 +4953,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/14:10:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/14:10:3)
 
 
-**נמשלת.** עניון דמיון והשיאה:
+**נמשלת.** עניין דמיון והשואה:
 
 
 
@@ -4983,7 +5007,15 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/14:12:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/14:12:2)
 
 
-**נגדעת.** ענין כריתה כמו שקמים גודעו (לעיל ט) חולש. ענין גורל ובדרז״ל ומטילין חלשים על הקדשים בי״ט (שבת קמח):
+**נגדעת.** ענין כריתה כמו שקמים גודעו (לעיל ט):
+
+
+###### Metzudat Zion on Isaiah 14:12:3
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/14:12:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/14:12:3)
+
+
+**חולש.** ענין גורל ובדרז״ל ומטילין חלשים על הקדשים בי״ט (שבת קמח):
 
 
 
@@ -5335,7 +5367,15 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/14:31:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/14:31:3)
 
 
-**בודד.** מלשון בדד ויחידי במועדיו. מל׳ מועד וזמן:
+**בודד.** מלשון בדד ויחידי:
+
+
+###### Metzudat Zion on Isaiah 14:31:4
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/14:31:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/14:31:4)
+
+
+**במועדיו.** מל׳ מועד וזמן:
 
 
 
@@ -5685,12 +5725,20 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/16:7:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/16:7:2)
 
 
-**קיר חרשת.** שם מקום תהגו. ענין המים כמו המצפצפים והמהגים (לעיל ח):
+**קיר חרשת.** שם מקום:
 
 
 ###### Metzudat Zion on Isaiah 16:7:3
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/16:7:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/16:7:3)
+
+
+**תהגו.** ענין המיה כמו המצפצפים והמהגים (לעיל ח):
+
+
+###### Metzudat Zion on Isaiah 16:7:4
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/16:7:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/16:7:4)
 
 
 **נכאים.** ענין שבירה כמו נאספו עלי נכים (תהילים ל״ה:ט״ו):
@@ -5720,7 +5768,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/16:8:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/16:8:3)
 
 
-**בעלי.** ענין אדון ושר כמו אם בעליו עמו (שמות כ״ב:י״ד) הלמו. ענין שבירה כמו והלמה סיסרא (שופטים ה):
+**בעלי.** ענין אדון ושר כמו אם בעליו עמו (שמות כ״ב:י״ד):
 
 
 ###### Metzudat Zion on Isaiah 16:8:4
@@ -5728,7 +5776,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/16:8:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/16:8:4)
 
 
-**שרוקיה.** זמורות נבחרים כמו ויטעהו שורק (לעיל ה):
+**הלמו.** ענין שבירה כמו והלמה סיסרא (שופטים ה):
 
 
 ###### Metzudat Zion on Isaiah 16:8:5
@@ -5736,7 +5784,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/16:8:5](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/16:8:5)
 
 
-**נגעו.** מלי נגע ור״ל נגפו וכן וינגעו יהושע וכל ישראל (יהושע ח׳:ט״ו):
+**שרוקיה.** זמורות נבחרים כמו ויטעהו שורק (לעיל ה):
 
 
 ###### Metzudat Zion on Isaiah 16:8:6
@@ -5744,12 +5792,20 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/16:8:6](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/16:8:6)
 
 
-**שלהותיה.** ענין התפשטות הענפים וכן שלחיך פרדס רמונים (ש״ה ד):
+**נגעו.** מל' נגע ור״ל נגפו וכן וינגעו יהושע וכל ישראל (יהושע ח׳:ט״ו):
 
 
 ###### Metzudat Zion on Isaiah 16:8:7
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/16:8:7](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/16:8:7)
+
+
+**שלחותיה.** ענין התפשטות הענפים וכן שלחיך פרדס רמונים (ש״ה ד):
+
+
+###### Metzudat Zion on Isaiah 16:8:8
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/16:8:8](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/16:8:8)
 
 
 **נטשו.** ענין פזור והתפשטות כמו וינטשו בלחי (שופטים טו):
@@ -5771,7 +5827,15 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/16:9:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/16:9:2)
 
 
-**קיצך.** פירות הקיץ נופל. ענין חניה כמו על פני כל אחיו נפל (ברא׳ כה):
+**קיצך.** פירות הקיץ:
+
+
+###### Metzudat Zion on Isaiah 16:9:3
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/16:9:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/16:9:3)
+
+
+**נפל.** ענין חניה כמו על פני כל אחיו נפל (ברא׳ כה):
 
 
 
@@ -5955,7 +6019,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/17:6:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/17:6:2)
 
 
-**כנוקף.** ענין כריתה כמו ונקף סבכי היער (לעיל י) גרגרים. כן יקראו פירות דקים יחידים:
+**כנוקף.** ענין כריתה כמו ונקף סבכי היער (לעיל י):
 
 
 ###### Metzudat Zion on Isaiah 17:6:3
@@ -5963,12 +6027,20 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/17:6:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/17:6:3)
 
 
-**אמיר.** הוא נוף העליון וכן כעזובת החורש והאמיר האמור למטה:
+**גרגרים.** כן יקראו פירות דקים יחידים:
 
 
 ###### Metzudat Zion on Isaiah 17:6:4
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/17:6:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/17:6:4)
+
+
+**אמיר.** הוא נוף העליון וכן כעזובת החורש והאמיר האמור למטה:
+
+
+###### Metzudat Zion on Isaiah 17:6:5
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/17:6:5](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/17:6:5)
 
 
 **בסעיפיה.** בענפיה כמו בסעפותיו קננו (יחזקאל לא):
@@ -6090,12 +6162,20 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/17:11:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/17:11:3)
 
 
-**קציר.** ענינו ענף כמו תשלח קציריה (תהילים פ׳:י״ב) נחלה. מל׳ חולי:
+**קציר.** ענינו ענף כמו תשלח קציריה (תהילים פ׳:י״ב):
 
 
 ###### Metzudat Zion on Isaiah 17:11:4
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/17:11:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/17:11:4)
+
+
+**נחלה.** מל׳ חולי:
+
+
+###### Metzudat Zion on Isaiah 17:11:5
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/17:11:5](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/17:11:5)
 
 
 **אנוש.** כאוב ביותר וכן אנוש חצי בלי פשע (איוב ל״ד):
@@ -6349,7 +6429,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/18:5:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/18:5:4)
 
 
-**נצה.** הוא כענין פרח וגדול ממני וכן נאמר והיא כפורחת עלתה נצה (בראשית מ׳:י׳):
+**נצה.** הוא כענין פרח וגדול ממנו וכן נאמר והיא כפורחת עלתה נצה (בראשית מ׳:י׳):
 
 
 ###### Metzudat Zion on Isaiah 18:5:5
@@ -6365,7 +6445,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/18:5:6](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/18:5:6)
 
 
-**במזמרות.** שם הכלי שכורתים בו הומורות וכן ומזמרותיכם לרמחים (יואל ד׳):
+**במזמרות.** שם הכלי שכורתים בו הזמורות וכן ומזמרותיכם לרמחים (יואל ד׳):
 
 
 ###### Metzudat Zion on Isaiah 18:5:7
@@ -6533,7 +6613,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/19:6:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/19:6:1)
 
 
-**והאזניחו.** האל״ף נוספת כי הוא ענין עזיבה כמו כי לא וזנח (איכה ג) דללו. ענין הרמה כמו דלו מאנוש נעו (איוב כ״ח:ד׳):
+**והאזניחו.** האל״ף נוספת כי הוא ענין עזיבה כמו כי לא וזנח (איכה ג):
 
 
 ###### Metzudat Zion on Isaiah 19:6:2
@@ -6541,7 +6621,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/19:6:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/19:6:2)
 
 
-**מצור.** מל׳ צור וחוזק כי חריצי המים הסביב לעיר הם לה לחוזק וכן ואחריב בכף פעמי כל יאורי מצור (לקמן ל״ז):
+**דללו.** ענין הרמה כמו דלו מאנוש נעו (איוב כ״ח:ד׳):
 
 
 ###### Metzudat Zion on Isaiah 19:6:3
@@ -6549,12 +6629,20 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/19:6:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/19:6:3)
 
 
-**קנה וסוף.** מיני דשאים הגדלים על שפת הנהר כמו כאשר ינוד הקנה במים (מ״א יד) וכמו ותשם בסוף (שמות ב):
+**מצור.** מל׳ צור וחוזק כי חריצי המים הסביב לעיר הם לה לחוזק וכן ואחריב בכף פעמי כל יאורי מצור (לקמן ל״ז):
 
 
 ###### Metzudat Zion on Isaiah 19:6:4
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/19:6:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/19:6:4)
+
+
+**קנה וסוף.** מיני דשאים הגדלים על שפת הנהר כמו כאשר ינוד הקנה במים (מ״א יד) וכמו ותשם בסוף (שמות ב):
+
+
+###### Metzudat Zion on Isaiah 19:6:5
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/19:6:5](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/19:6:5)
 
 
 **קמלו.** ענין כריתה כמו החפיר לבנון קמל (לקמן ל״ג):
@@ -6568,12 +6656,20 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/19:7:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/19:7:1)
 
 
-**ערות.** ענינו דבר המעורה ונשרש יפה כמו ומתערה כאזרח רענן (תהלים ל״ו) נדף. ענין כתישה כמו אל ידפנו (איוב ל״ג):
+**ערות.** ענינו דבר המעורה ונשרש יפה כמו ומתערה כאזרח רענן (תהלים ל״ו):
 
 
 ###### Metzudat Zion on Isaiah 19:7:2
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/19:7:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/19:7:2)
+
+
+**נדף.** ענין כתישה כמו אל ידפנו (איוב ל״ג):
+
+
+###### Metzudat Zion on Isaiah 19:7:3
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/19:7:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/19:7:3)
 
 
 **ואיננו.** ואין לו:
@@ -6770,12 +6866,20 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/19:14:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/19:14:1)
 
 
-**מסך.** ענין ערבוב ובלבול כמו מסכה יינה (משלי ט׳:ב׳) שהוא ערבוב המים ביין עועים. מל׳ עוות ועקימות:
+**מסך.** ענין ערבוב ובלבול כמו מסכה יינה (משלי ט׳:ב׳) שהוא ערבוב המים ביין:
 
 
 ###### Metzudat Zion on Isaiah 19:14:2
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/19:14:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/19:14:2)
+
+
+**עועים.** מל׳ עוות ועקימות:
+
+
+###### Metzudat Zion on Isaiah 19:14:3
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/19:14:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/19:14:3)
 
 
 **בקיאו.** ענינו החזרת המאכל אל החוץ כמו וספק מואב בקיאו (ירמיהו מ״ח:כ״ו):
@@ -6824,7 +6928,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/19:16:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/19:16:2)
 
 
-**תנופת.** ענין הרמ׳:
+**תנופת.** ענין הרמה:
 
 
 
@@ -7050,7 +7154,15 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/21:1:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/21:1:2)
 
 
-**בנגב.** ענין יובש כמו כאפיקים בנגב (תהילים קכ״ו:ד׳) לחלוף. לעבור כמו וחלף ביהודה (לעיל ח):
+**בנגב.** ענין יובש כמו כאפיקים בנגב (תהילים קכ״ו:ד׳):
+
+
+###### Metzudat Zion on Isaiah 21:1:3
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/21:1:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/21:1:3)
+
+
+**לחלוף.** לעבור כמו וחלף ביהודה (לעיל ח):
 
 
 
@@ -7163,7 +7275,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/21:4:5](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/21:4:5)
 
 
-**השקי.** ענין תאוה כמו חשק שלמה (מ״א ט):
+**חשקי.** ענין תאוה כמו חשק שלמה (מ״א ט):
 
 
 
@@ -7182,12 +7294,20 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/21:5:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/21:5:2)
 
 
-**צפה.** ענין ראיה כמו יצף ה׳ (בראשית לא) הצפית. העומד ורואה אם גייסות באים נקרא צופה:
+**צפה.** ענין ראיה כמו יצף ה׳ (בראשית לא):
 
 
 ###### Metzudat Zion on Isaiah 21:5:3
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/21:5:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/21:5:3)
+
+
+**הצפית.** העומד ורואה אם גייסות באים נקרא צופה:
+
+
+###### Metzudat Zion on Isaiah 21:5:4
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/21:5:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/21:5:4)
 
 
 **משחו מגן.** יש מגן עשוי מעור שלוק ומושחין אותו בשמן להחליק מעליו מכת חרב וחנית וכן מגן שאול בלי משוח בשמן (ש״ב א):
@@ -7299,12 +7419,20 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/21:13:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/21:13:1)
 
 
-**בערב.** הבי״ת היא במקום על כמו כן ינתן בו (ויקרא כד) ומשפטו עליו תלינו. מל׳ לינה:
+**בערב.** הבי״ת היא במקום על כמו כן ינתן בו (ויקרא כד) ומשפטו עליו:
 
 
 ###### Metzudat Zion on Isaiah 21:13:2
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/21:13:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/21:13:2)
+
+
+**תלינו.** מל׳ לינה:
+
+
+###### Metzudat Zion on Isaiah 21:13:3
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/21:13:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/21:13:3)
 
 
 **ארחות.** שיירות הולכי אורח:
@@ -7386,7 +7514,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/22:1:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/22:1:3)
 
 
-**אפוא.** כמו עתה וכן עשה זאת בני (משלי ו׳:ג׳):
+**אפוא.** כמו עתה וכן עשה זאת אפוא בני (משלי ו׳:ג׳):
 
 
 ###### Metzudat Zion on Isaiah 22:1:4
@@ -7954,7 +8082,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/23:1:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/23:1:3)
 
 
-**מבית.** מהיות ביוז וכן מבוא ודוגמתו וימאסך ממלך (שמואל א ט״ו:כ״ג) ופי׳ מהיות מלך:
+**מבית.** מהיות בית וכן מבוא ודוגמתו וימאסך ממלך (שמואל א ט״ו:כ״ג) ופי׳ מהיות מלך:
 
 
 ###### Metzudat Zion on Isaiah 23:1:4
@@ -9118,7 +9246,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/25:4:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/25:4:4)
 
 
-**רוה.** ענין כעס כמו אל תבהל ברוחך (קהלת ז׳:ט׳):
+**רוח.** ענין כעס כמו אל תבהל ברוחך (קהלת ז׳:ט׳):
 
 
 ###### Metzudat Zion on Isaiah 25:4:5
@@ -9204,12 +9332,20 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/25:6:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/25:6:3)
 
 
-**שמרים.** פסולת המשקה השוקעת בתחתית הכלי וכן אך שמריה ימצו (תהלים עה) ממחים. מל׳ מוח העצמות:
+**שמרים.** פסולת המשקה השוקעת בתחתית הכלי וכן אך שמריה ימצו (תהלים עה):
 
 
 ###### Metzudat Zion on Isaiah 25:6:4
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/25:6:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/25:6:4)
+
+
+**ממחים.** מל׳ מוח העצמות:
+
+
+###### Metzudat Zion on Isaiah 25:6:5
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/25:6:5](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/25:6:5)
 
 
 **מזקקים.** ענין צרוף להסיר הסיג ואמר בלשון שאלה על הסרת המשקה:
@@ -9328,7 +9464,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/25:11:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/25:11:2)
 
 
-**השוהה לשחות.** ענין השטיה במים כמו מי שחו (יחזקאל מז):
+**השוחה לשחות.** ענין השטיה במים כמו מי שחו (יחזקאל מז):
 
 
 ###### Metzudat Zion on Isaiah 25:11:3
@@ -9461,7 +9597,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/26:5:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/26:5:1)
 
 
-**השה.** ענין השפלה:
+**השח.** ענין השפלה:
 
 
 ###### Metzudat Zion on Isaiah 26:5:2
@@ -9758,7 +9894,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/26:17:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/26:17:2)
 
 
-**בהבליה.** הם מכאובי הלידה כמו שמה חבלתך אמך (ש״ה ח):
+**בחבליה.** הם מכאובי הלידה כמו שמה חבלתך אמך (ש״ה ח):
 
 
 ###### Metzudat Zion on Isaiah 26:17:3
@@ -9804,12 +9940,20 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/26:19:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/26:19:2)
 
 
-**הקיצו.** ענין הערה כמו לא הקיץ הנער (מ״ב ד) אורת. הוא שם צמח מה כמו ללקט אורות (שם):
+**הקיצו.** ענין הערה כמו לא הקיץ הנער (מ״ב ד):
 
 
 ###### Metzudat Zion on Isaiah 26:19:3
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/26:19:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/26:19:3)
+
+
+**אורת.** הוא שם צמח מה כמו ללקט אורות (שם):
+
+
+###### Metzudat Zion on Isaiah 26:19:4
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/26:19:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/26:19:4)
 
 
 **רפאים.** כן יקראו המתים על כי נרפו ונחלשו ע״י המיתה:
@@ -10028,7 +10172,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/27:5:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/27:5:2)
 
 
-**במעזו.** מלשון עוז וחוזק וכן נקראה התורה כמו שכתוב ה׳ עוז לעמו יתן (תהילים כ״ט:י״א):
+**במעזי.** מלשון עוז וחוזק וכן נקראה התורה כמו שכתוב ה׳ עוז לעמו יתן (תהילים כ״ט:י״א):
 
 
 
@@ -10093,7 +10237,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/27:9:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/27:9:1)
 
 
-**גיר.** הוא הס״ד וכן על גירא די כתל היכלא (דניאל ה׳:ה׳):
+**גיר.** הוא הסיד וכן על גירא די כתל היכלא (דניאל ה׳:ה׳):
 
 
 ###### Metzudat Zion on Isaiah 27:9:2
@@ -10614,22 +10758,6 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 **מושלי.** מל׳ ממשלה:
 
 
-###### Metzudat Zion on Isaiah 28:14:3
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/28:14:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/28:14:3)
-
-
-**שאול.** הוא בור הקבר:
-
-
-###### Metzudat Zion on Isaiah 28:14:4
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/28:14:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/28:14:4)
-
-
-**חוזה.** ענין גבול כמו מחוז חפצם (תהלים קז):
-
-
 
 ### Verse 15
 
@@ -10638,12 +10766,28 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/28:15:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/28:15:1)
 
 
-**שוט.** שבט המכה כמו שוט לסוס (משלי כז):
+**שאול.** הוא בור הקבר:
 
 
 ###### Metzudat Zion on Isaiah 28:15:2
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/28:15:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/28:15:2)
+
+
+**חוזה.** ענין גבול כמו מחוז חפצם (תהלים קז):
+
+
+###### Metzudat Zion on Isaiah 28:15:3
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/28:15:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/28:15:3)
+
+
+**שוט.** שבט המכה כמו שוט לסוס (משלי כז):
+
+
+###### Metzudat Zion on Isaiah 28:15:4
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/28:15:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/28:15:4)
 
 
 **שוטף.** ענינו מהירות ההליכה והושאל מל׳ נחל השוטף:
@@ -11066,7 +11210,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/28:28:5](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/28:28:5)
 
 
-**והמם.** ענין כתיחה ושבירה כמו יום מהומה ומבוסה (לעיל כב):
+**והמם.** ענין כתיתה ושבירה כמו יום מהומה ומבוסה (לעיל כב):
 
 
 ###### Metzudat Zion on Isaiah 28:28:6
@@ -11233,7 +11377,15 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/29:3:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/29:3:4)
 
 
-**מוצב.** מגדל עץ גבוה נצב הקומה מצורות. מלשון מצור:
+**מוצב.** מגדל עץ גבוה נצב הקומה:
+
+
+###### Metzudat Zion on Isaiah 29:3:5
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/29:3:5](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/29:3:5)
+
+
+**מצורות.** מלשון מצור:
 
 
 
@@ -11745,12 +11897,20 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/29:20:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/29:20:2)
 
 
-**עריץ.** חזק ר״ל חזק ברשע שוקדי. ענין המהירות וההשתדלות כמו שקדו ושמרו (עזרא ח):
+**עריץ.** חזק ר״ל חזק ברשע:
 
 
 ###### Metzudat Zion on Isaiah 29:20:3
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/29:20:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/29:20:3)
+
+
+**שוקדי.** ענין המהירות וההשתדלות כמו שקדו ושמרו (עזרא ח):
+
+
+###### Metzudat Zion on Isaiah 29:20:4
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/29:20:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/29:20:4)
 
 
 **און.** ענין דבר שאינו הגון:
@@ -12013,7 +12173,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:8:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:8:1)
 
 
-**לוה.** כעין טבלא עשוי לכתיבה והוא מלשון לוחות העדות (שמות ל״ב):
+**לוח.** כעין טבלא עשוי לכתיבה והוא מלשון לוחות העדות (שמות ל״ב):
 
 
 ###### Metzudat Zion on Isaiah 30:8:2
@@ -12183,7 +12343,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:14:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:14:3)
 
 
-**יחמול.** ענין רחמנות במכתתו. בשבריו:
+**יחמול.** ענין רחמנות:
 
 
 ###### Metzudat Zion on Isaiah 30:14:4
@@ -12191,7 +12351,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:14:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:14:4)
 
 
-**חרש.** כמו חרס בסמ״ך:
+**במכתתו.** בשבריו:
 
 
 ###### Metzudat Zion on Isaiah 30:14:5
@@ -12199,7 +12359,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:14:5](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:14:5)
 
 
-**לחתות.** ענין לקיחת האש כמו גחלים אתה חותה על ראשו (משלי כ״ה:כ״ב) ועש״ז יקרא הכלי שחותין בו האש בשם מחתה:
+**חרש.** כמו חרס בסמ״ך:
 
 
 ###### Metzudat Zion on Isaiah 30:14:6
@@ -12207,7 +12367,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:14:6](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:14:6)
 
 
-**מיקוד.** כן נקרא מקום הבערת אש כמו על מוקדה (ויקרא ו):
+**לחתות.** ענין לקיחת האש כמו גחלים אתה חותה על ראשו (משלי כ״ה:כ״ב) ועש״ז יקרא הכלי שחותין בו האש בשם מחתה:
 
 
 ###### Metzudat Zion on Isaiah 30:14:7
@@ -12215,7 +12375,23 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:14:7](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:14:7)
 
 
-**ולחשוף.** ענין שאיבה כמו לחשוף חמשים פורה (חגי ב׳:ט״ז) מגבא. מקום כניסת מעט מים וכן בצאתו וגבאיו (יחזקאל מ״ז):
+**מיקוד.** כן נקרא מקום הבערת אש כמו על מוקדה (ויקרא ו):
+
+
+###### Metzudat Zion on Isaiah 30:14:8
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:14:8](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:14:8)
+
+
+**ולחשוף.** ענין שאיבה כמו לחשוף חמשים פורה (חגי ב׳:ט״ז):
+
+
+###### Metzudat Zion on Isaiah 30:14:9
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:14:9](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:14:9)
+
+
+**מגבא.** מקום כניסת מעט מים וכן בצאתו וגבאיו (יחזקאל מ״ז):
 
 
 
@@ -12334,7 +12510,15 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:20:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:20:2)
 
 
-**יכנף.** מלשון כנף בגד והוא קצות הבגד מוריך. מלמדך וכן יורה דעה (לעיל כח):
+**יכנף.** מלשון כנף בגד והוא קצות הבגד:
+
+
+###### Metzudat Zion on Isaiah 30:20:3
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:20:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:20:3)
+
+
+**מוריך.** מלמדך וכן יורה דעה (לעיל כח):
 
 
 
@@ -12442,12 +12626,20 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:24:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:24:4)
 
 
-**זורה.** ענין פזור התבואה מול הרוח להפריח הפסולת וכן זורה את גורן (רות ג׳:ב׳) ברחת. שם כלי שזורין בו התבואה ונקרא כן לפי שמניפין אותו אל הרוח:
+**זורה.** ענין פזור התבואה מול הרוח להפריח הפסולת וכן זורה את גורן (רות ג׳:ב׳):
 
 
 ###### Metzudat Zion on Isaiah 30:24:5
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:24:5](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:24:5)
+
+
+**ברחת.** שם כלי שזורין בו התבואה ונקרא כן לפי שמניפין אותו אל הרוח:
+
+
+###### Metzudat Zion on Isaiah 30:24:6
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:24:6](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:24:6)
 
 
 **ובמזרה.** גם הוא שם כלי עשוי לזרות בו התבואה:
@@ -12480,7 +12672,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:26:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:26:1)
 
 
-**הבוש.** ענין כריכת מטלית על מקום השבר כמו ולא חובשו (לעיל א):
+**חבוש.** ענין כריכת מטלית על מקום השבר כמו ולא חובשו (לעיל א):
 
 
 ###### Metzudat Zion on Isaiah 30:26:2
@@ -12518,7 +12710,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:28:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:28:1)
 
 
-**ורוהו.** ענין דבור הבאה בהפחת הרוח:
+**ורוחו.** ענין דבור הבאה בהפחת הרוח:
 
 
 ###### Metzudat Zion on Isaiah 30:28:2
@@ -12749,7 +12941,15 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:33:6](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:33:6)
 
 
-**נשמת.** ענין נשיבת רוח הפה כמו מנשמת אל יתן קרח (איוב ל״ז:י׳) בוערה. דולקת:
+**נשמת.** ענין נשיבת רוח הפה כמו מנשמת אל יתן קרח (איוב ל״ז:י׳):
+
+
+###### Metzudat Zion on Isaiah 30:33:7
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:33:7](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/30:33:7)
+
+
+**בוערה.** דולקת:
 
 
 
@@ -12844,7 +13044,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/31:4:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/31:4:4)
 
 
-**עליו.** בעבורו מלא. ענין אסיפה כמו יחד עלי יתמלאון (איוב ט״ז:י׳):
+**עליו.** בעבורו:
 
 
 ###### Metzudat Zion on Isaiah 31:4:5
@@ -12852,7 +13052,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/31:4:5](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/31:4:5)
 
 
-**לא יחת.** לא יפחד כמו ואל תחת (יהושע א):
+**מלא.** ענין אסיפה כמו יחד עלי יתמלאון (איוב ט״ז:י׳):
 
 
 ###### Metzudat Zion on Isaiah 31:4:6
@@ -12860,7 +13060,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/31:4:6](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/31:4:6)
 
 
-**ומהמונם.** ענין רבוי אנשים כמו על ההמון הזה (דה״ב לד):
+**לא יחת.** לא יפחד כמו ואל תחת (יהושע א):
 
 
 ###### Metzudat Zion on Isaiah 31:4:7
@@ -12868,7 +13068,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/31:4:7](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/31:4:7)
 
 
-**יענה.** ענין הכנעה כמו מאנת לענות מפני (שמות י׳:ג׳):
+**ומהמונם.** ענין רבוי אנשים כמו על ההמון הזה (דה״ב לד):
 
 
 ###### Metzudat Zion on Isaiah 31:4:8
@@ -12876,12 +13076,20 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/31:4:8](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/31:4:8)
 
 
-**לצבוא.** ענין חיל אנשי מלחמה:
+**יענה.** ענין הכנעה כמו מאנת לענות מפני (שמות י׳:ג׳):
 
 
 ###### Metzudat Zion on Isaiah 31:4:9
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/31:4:9](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/31:4:9)
+
+
+**לצבוא.** ענין חיל אנשי מלחמה:
+
+
+###### Metzudat Zion on Isaiah 31:4:10
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/31:4:10](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/31:4:10)
 
 
 **גבעתה.** מל׳ גבעה והר:
@@ -13162,12 +13370,20 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/32:6:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/32:6:4)
 
 
-**אל ה׳.** על ה׳ תועה. ענינו הפך האמת והוא שאול מהתועה בדרך שהולך בהפך:
+**אל ה׳.** על ה׳:
 
 
 ###### Metzudat Zion on Isaiah 32:6:5
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/32:6:5](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/32:6:5)
+
+
+**תועה.** ענינו הפך האמת והוא שאול מהתועה בדרך שהולך בהפך:
+
+
+###### Metzudat Zion on Isaiah 32:6:6
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/32:6:6](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/32:6:6)
 
 
 **להריק.** מל׳ רקות:
@@ -13375,7 +13591,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/32:14:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/32:14:2)
 
 
-**המון.** רבוי עם עופל. מגדל ומבצר כמו וסביב לעופל (דה״ב ל״ג):
+**המון.** רבוי עם:
 
 
 ###### Metzudat Zion on Isaiah 32:14:3
@@ -13383,7 +13599,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/32:14:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/32:14:3)
 
 
-**ובחן.** גם הוא כעין מגדל וכן הקימו בחוניו (לעיל ל״ג):
+**עופל.** מגדל ומבצר כמו וסביב לעופל (דה״ב ל״ג):
 
 
 ###### Metzudat Zion on Isaiah 32:14:4
@@ -13391,7 +13607,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/32:14:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/32:14:4)
 
 
-**בעד.** הוא במקום למ״ד השמוש וכן באה במקום מ״ם השמוש כמו בעד החלון (בראשית כ״ז) ומשפטו מהחלון:
+**ובחן.** גם הוא כעין מגדל וכן הקימו בחוניו (לעיל ל״ג):
 
 
 ###### Metzudat Zion on Isaiah 32:14:5
@@ -13399,12 +13615,20 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/32:14:5](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/32:14:5)
 
 
-**מערות.** מלשון מערה:
+**בעד.** הוא במקום למ״ד השמוש וכן באה במקום מ״ם השמוש כמו בעד החלון (בראשית כ״ז) ומשפטו מהחלון:
 
 
 ###### Metzudat Zion on Isaiah 32:14:6
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/32:14:6](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/32:14:6)
+
+
+**מערות.** מלשון מערה:
+
+
+###### Metzudat Zion on Isaiah 32:14:7
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/32:14:7](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/32:14:7)
 
 
 **פראים.** חמור הבר:
@@ -14135,12 +14359,20 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/33:20:8](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/33:20:8)
 
 
-**לנצח.** ר״ל לזמן רב חבליו. מל׳ חבל וקו:
+**לנצח.** ר״ל לזמן רב:
 
 
 ###### Metzudat Zion on Isaiah 33:20:9
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/33:20:9](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/33:20:9)
+
+
+**חבליו.** מל׳ חבל וקו:
+
+
+###### Metzudat Zion on Isaiah 33:20:10
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/33:20:10](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/33:20:10)
 
 
 **ינתקו.** ענין העתק והסרה ממקומו:
@@ -14484,7 +14716,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/34:11:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/34:11:2)
 
 
-**וינשף ועורב.** שמות מיני עופות קו. חבל הבנאי:
+**וינשף ועורב.** שמות מיני עופות:
 
 
 ###### Metzudat Zion on Isaiah 34:11:3
@@ -14492,7 +14724,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/34:11:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/34:11:3)
 
 
-**תהו.** ענין שממה:
+**קו.** חבל הבנאי:
 
 
 ###### Metzudat Zion on Isaiah 34:11:4
@@ -14500,12 +14732,20 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/34:11:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/34:11:4)
 
 
-**ואבני.** אבן העופרת של הבנאי:
+**תהו.** ענין שממה:
 
 
 ###### Metzudat Zion on Isaiah 34:11:5
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/34:11:5](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/34:11:5)
+
+
+**ואבני.** אבן העופרת של הבנאי:
+
+
+###### Metzudat Zion on Isaiah 34:11:6
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/34:11:6](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/34:11:6)
 
 
 **בהו.** ענין ריקות:
@@ -14554,12 +14794,20 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/34:13:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/34:13:3)
 
 
-**תנים.** מין נחשים חציר. כמו חצר, וכן ישיש וישש (דה״ב נו):
+**תנים.** מין נחשים:
 
 
 ###### Metzudat Zion on Isaiah 34:13:4
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/34:13:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/34:13:4)
+
+
+**חציר.** כמו חצר, וכן ישיש וישש (דה״ב נו):
+
+
+###### Metzudat Zion on Isaiah 34:13:5
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/34:13:5](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/34:13:5)
 
 
 **לבנות יענה.** שם עוף מדברי בת היענה:
@@ -15141,7 +15389,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/36:16:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/36:16:1)
 
 
-**ברכה.** ענין מנחה ותשורה שלום כמו קח נא את ברכתי (שם לג):
+**ברכה.** ענין מנחה ותשורת שלום כמו קח נא את ברכתי (שם לג):
 
 
 
@@ -15419,7 +15667,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/37:30:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/37:30:2)
 
 
-**שהיס.** ענינו ספיחי ספיחים, או ספיחי האילנות ואין לו דומה:
+**שחיס.** ענינו ספיחי ספיחים, או ספיחי האילנות ואין לו דומה:
 
 
 
@@ -15486,11 +15734,11 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 
 
 
-### Verse 5
+### Verse 8
 
-###### Metzudat Zion on Isaiah 38:5:1
+###### Metzudat Zion on Isaiah 38:8:1
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/38:5:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/38:5:1)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/38:8:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/38:8:1)
 
 
 **המעלות.** המדרגות:
@@ -15504,7 +15752,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/38:9:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/38:9:1)
 
 
-**ויחי.** ענין רפואה כמו עד היותם (יהושע ה׳):
+**ויחי.** ענין רפואה כמו עד חיותם (יהושע ה׳):
 
 
 
@@ -15545,7 +15793,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/38:12:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/38:12:1)
 
 
-**דורי.** מל׳ מדורה:
+**דורי.** מל׳ מדור:
 
 
 ###### Metzudat Zion on Isaiah 38:12:2
@@ -15639,7 +15887,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/38:14:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/38:14:3)
 
 
-**.** אהגה כן נקרא המיית היונה כמו וכיונה הגה נהגה (לקמן נט):
+**אהגה.** כן נקרא המיית היונה כמו וכיונה הגה נהגה (לקמן נט):
 
 
 ###### Metzudat Zion on Isaiah 38:14:4
@@ -16542,7 +16790,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/41:13:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/41:13:1)
 
 
-**מחזיק.** אותו:
+**מחזיק.** אוחז:
 
 
 
@@ -17043,7 +17291,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/42:14:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/42:14:3)
 
 
-**אפעה.** ענין צעקה ובדח״ל פעיתא היא דא (סוכה לא):
+**אפעה.** ענין צעקה ובדרז״ל פעיתא היא דא (סוכה לא):
 
 
 ###### Metzudat Zion on Isaiah 42:14:4
@@ -17889,7 +18137,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/44:15:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/44:15:4)
 
 
-**ויסגד.** ענין השתחואה כמו ולדניאל הגיד (דניאל ב):
+**ויסגד.** ענין השתחואה כמו ולדניאל סגיד (דניאל ב):
 
 
 
@@ -17908,12 +18156,20 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/44:16:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/44:16:2)
 
 
-**האח.** הוא ענין ל׳ שמחה כמו האח האח ראתה עינינו (תהלים לה) חמותי. מל׳ חתימה:
+**האח.** הוא ענין ל׳ שמחה כמו האח האח ראתה עינינו (תהלים לה):
 
 
 ###### Metzudat Zion on Isaiah 44:16:3
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/44:16:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/44:16:3)
+
+
+**חמותי.** מל׳ חמימה:
+
+
+###### Metzudat Zion on Isaiah 44:16:4
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/44:16:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/44:16:4)
 
 
 **אור.** שלהבת המאיר וכן אור לשבת נגדו (לקמן מז):
@@ -18181,12 +18437,20 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/44:27:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/44:27:1)
 
 
-**לצולה.** למצולה וענינו מקום רבוי המיה וכן ותשליכני מצולה (יונה ב) חרבי. ענין יובש כמו חרבו המים (בראשית ח):
+**לצולה.** למצולה וענינו מקום רבוי המים וכן ותשליכני מצולה (יונה ב):
 
 
 ###### Metzudat Zion on Isaiah 44:27:2
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/44:27:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/44:27:2)
+
+
+**חרבי.** ענין יובש כמו חרבו המים (בראשית ח):
+
+
+###### Metzudat Zion on Isaiah 44:27:3
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/44:27:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/44:27:3)
 
 
 **אוביש.** מל׳ יבש:
@@ -18501,7 +18765,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/45:16:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/45:16:1)
 
 
-**ציריה.** ציורי הצורות:
+**צירים.** ציורי הצורות:
 
 
 
@@ -18520,7 +18784,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/45:18:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/45:18:2)
 
 
-**כוננה.** מל׳ הכנה
+**כוננה.** מל׳ הכנה:
 
 
 ###### Metzudat Zion on Isaiah 45:18:3
@@ -18807,7 +19071,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/46:6:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/46:6:1)
 
 
-**הזלים.** מל׳ הזלה ושפיכה וכן וזלו מים (תהלים קמ״ז):
+**הזלים.** מל׳ הזלה ושפיכה וכן יזלו מים (תהלים קמ״ז):
 
 
 ###### Metzudat Zion on Isaiah 46:6:2
@@ -19002,7 +19266,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/47:5:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/47:5:1)
 
 
-**דומם.** ענין שתיקה כמו וידום אה ; רן (ויקרא י׳):
+**דומם.** ענין שתיקה כמו וידום אהרן (ויקרא י׳):
 
 
 ###### Metzudat Zion on Isaiah 47:5:2
@@ -19067,7 +19331,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/47:9:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/47:9:2)
 
 
-**בעצמת.** ענין חוזק כמו ועצם כחו (דניאל ח׳)
+**בעצמת.** ענין חוזק כמו ועצם כחו (דניאל ח׳):
 
 
 ###### Metzudat Zion on Isaiah 47:9:3
@@ -19202,7 +19466,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/47:14:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/47:14:2)
 
 
-**נפשם.** ר״ל גופם וכן ורקה נפשו (לעיל כ״ט)
+**נפשם.** ר״ל גופם וכן ורקה נפשו (לעיל כ״ט):
 
 
 ###### Metzudat Zion on Isaiah 47:14:3
@@ -19218,7 +19482,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/47:14:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/47:14:4)
 
 
-**אור.** שלהבת כמו אשר אור לו בציון (לעיל ל״א)
+**אור.** שלהבת כמו אשר אור לו בציון (לעיל ל״א):
 
 
 ###### Metzudat Zion on Isaiah 47:14:5
@@ -19259,7 +19523,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/48:4:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/48:4:1)
 
 
-**וגיד ברזל.** רצה לומר שבט ברזל ולפי שיש בעורה גיד בשר לזה אמר לשון גיד
+**וגיד ברזל.** רצה לומר שבט ברזל ולפי שיש בעורה גיד בשר לזה אמר לשון גיד:
 
 
 ###### Metzudat Zion on Isaiah 48:4:2
@@ -19294,7 +19558,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/48:5:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/48:5:1)
 
 
-**עצבי.** כן יקרא העכו״ם ע״ש שמעציב לב עובדיו קורא אליו ואינו נענה
+**עצבי.** כן יקרא העכו״ם ע״ש שמעציב לב עובדיו קורא אליו ואינו נענה:
 
 
 ###### Metzudat Zion on Isaiah 48:5:2
@@ -19498,7 +19762,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/48:21:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/48:21:3)
 
 
-**ויזובו.** מלשון זובה ונטיפה כמו זב עמקך (ירמיה מ״ט):
+**ויזובו.** מלשון זיבה ונטיפה כמו זב עמקך (ירמיה מ״ט):
 
 
 
@@ -19520,7 +19784,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/49:2:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/49:2:2)
 
 
-**החבאני.** מלשון מחבואה ומסתור:
+**החביאני.** מלשון מחבואה ומסתור:
 
 
 ###### Metzudat Zion on Isaiah 49:2:3
@@ -19528,7 +19792,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/49:2:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/49:2:3)
 
 
-**ברור.** נקי מן החלודה
+**ברור.** נקי מן החלודה:
 
 
 ###### Metzudat Zion on Isaiah 49:2:4
@@ -19832,7 +20096,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/49:23:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/49:23:1)
 
 
-**אומניך.** כן נקרא מגדל תינוקת כמו כאשר ישא האומן את היונק (במדבר יא)
+**אומניך.** כן נקרא מגדל תינוקת כמו כאשר ישא האומן את היונק (במדבר יא):
 
 
 ###### Metzudat Zion on Isaiah 49:23:2
@@ -20008,7 +20272,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/50:4:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/50:4:3)
 
 
-**יעיר.** מל׳ התעוררות
+**יעיר.** מל׳ התעוררות:
 
 
 ###### Metzudat Zion on Isaiah 50:4:4
@@ -20062,7 +20326,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/50:6:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/50:6:3)
 
 
-**למורטים.** ענין תלישת השער כמו ואמרטה משער ראשי (עזרא ט׳:ג׳)
+**למורטים.** ענין תלישת השער כמו ואמרטה משער ראשי (עזרא ט׳:ג׳):
 
 
 ###### Metzudat Zion on Isaiah 50:6:4
@@ -20459,7 +20723,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/51:10:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/51:10:3)
 
 
-**רבה.** גדולה
+**רבה.** גדולה:
 
 
 ###### Metzudat Zion on Isaiah 51:10:4
@@ -20651,7 +20915,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/51:20:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/51:20:4)
 
 
-**חמת.** מלשון תמה וכעס:
+**חמת.** מלשון חמה וכעס:
 
 
 ###### Metzudat Zion on Isaiah 51:20:5
@@ -20895,7 +21159,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/52:12:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/52:12:3)
 
 
-**ובמנוסה.** מלשון ניסה ורדיפה
+**ובמנוסה.** מלשון ניסה ורדיפה:
 
 
 ###### Metzudat Zion on Isaiah 52:12:4
@@ -20941,7 +21205,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/52:14:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/52:14:3)
 
 
-**מראהו.** הוא זיו קלסתר פנים בלובן ובהירות
+**מראהו.** הוא זיו קלסתר פנים בלובן ובהירות:
 
 
 ###### Metzudat Zion on Isaiah 52:14:4
@@ -21033,7 +21297,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/53:2:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/53:2:4)
 
 
-**ונהמדהו.** הוי״ו היא במקום שי״ן וכן ויקחו לי תרומה (שמות כ״ה:ב׳) ור״ל שיקחו לי תרומה:
+**ונחמדהו.** הוי״ו היא במקום שי״ן וכן ויקחו לי תרומה (שמות כ״ה:ב׳) ור״ל שיקחו לי תרומה:
 
 
 
@@ -21475,7 +21739,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/54:3:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/54:3:3)
 
 
-**לשמות.** מלשון שממון:
+**נשמות.** מלשון שממון:
 
 
 
@@ -22144,7 +22408,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/56:12:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/56:12:3)
 
 
-**יותר.** מלשון יתרון:
+**יתר.** מלשון יתרון:
 
 
 
@@ -22169,7 +22433,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/57:2:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/57:2:1)
 
 
-**נכוהו.** ענין יושר כמו בארץ נכוחות יעול (לעיל כו):
+**נכוחו.** ענין יושר כמו בארץ נכוחות יעול (לעיל כו):
 
 
 
@@ -23127,7 +23391,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/59:5:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/59:5:3)
 
 
-**והזורה.** ענין מעור להוציא הבלוע וכן כי רגל תזורה (איוב ל״ט:ט״ו) והוא מלשון ויזר את הגיזה (שופטים ו׳:ל״ח):
+**והזורה.** ענין מעוך להוציא הבלוע וכן כי רגל תזורה (איוב ל״ט:ט״ו) והוא מלשון ויזר את הגיזה (שופטים ו׳:ל״ח):
 
 
 ###### Metzudat Zion on Isaiah 59:5:4
@@ -23254,7 +23518,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/59:10:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/59:10:1)
 
 
-**נגששה.** ענין משוש והנגיעה בדבר ואין לו דמיון במקרא ובדוז״ל בזמן שהספינה גוששת (גיטין ז):
+**נגששה.** ענין משוש והנגיעה בדבר ואין לו דמיון במקרא ובדרז״ל בזמן שהספינה גוששת (גיטין ז):
 
 
 ###### Metzudat Zion on Isaiah 59:10:2
@@ -23467,7 +23731,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/59:17:5](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/59:17:5)
 
 
-**ויעטו.** ענין עטיפה כמו כבגד יעטה (תהלים קט):
+**ויעט.** ענין עטיפה כמו כבגד יעטה (תהלים קט):
 
 
 ###### Metzudat Zion on Isaiah 59:17:6
@@ -24404,7 +24668,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/62:8:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/62:8:1)
 
 
-**עוזי.** ענין חוזק:
+**עוזו.** ענין חוזק:
 
 
 ###### Metzudat Zion on Isaiah 62:8:2
@@ -24431,7 +24695,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/62:9:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/62:9:2)
 
 
-**והללי.** ישבחו:
+**והללו.** ישבחו:
 
 
 
@@ -24612,7 +24876,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/63:6:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/63:6:3)
 
 
-**נצחם.** דמה:
+**נצחם.** דמם:
 
 
 
@@ -24675,7 +24939,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/63:14:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/63:14:1)
 
 
-**תניהנו.** ענין הנהגה כמו נחית כצאן (תהלים עו):
+**תניחנו.** ענין הנהגה כמו נחית כצאן (תהלים עו):
 
 
 
@@ -25230,7 +25494,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/65:12:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/65:12:4)
 
 
-**עיניתם.** מלשון עניה ותשובה:
+**עניתם.** מלשון עניה ותשובה:
 
 
 
@@ -25518,7 +25782,18 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/66:7:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/66:7:3)
 
 
-**והמליטה.** כן נקרא לידת הולד כמו ותמלט ובקעה (לעיל לד) (ח) היוחל. חלה. הם מלשון חיל:
+**והמליטה.** כן נקרא לידת הולד כמו ותמלט ובקעה (לעיל לד):
+
+
+
+### Verse 8
+
+###### Metzudat Zion on Isaiah 66:8:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/66:8:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/66:8:1)
+
+
+**היוחל. חלה.** הם מלשון חיל:
 
 
 
@@ -25810,7 +26085,7 @@ Version (He): On Your Way (Segments: 2816, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/66:23:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Isaiah/r/66:23:2)
 
 
-**הדש.** כן יקרא ראש החדש וכן מחר חדש (ש״א כ׳):
+**חדש.** כן יקרא ראש החדש וכן מחר חדש (ש״א כ׳):
 
 
 

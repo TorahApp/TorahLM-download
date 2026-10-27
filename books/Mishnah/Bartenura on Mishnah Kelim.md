@@ -13912,7 +13912,7 @@ Baddan is the name of a place.
 **כְּמִין כִי.** יְוָנִית. שֶׁהִיא כְּמִין כ'‏ הֲפוּכָה שֶׁלָּנוּ. כְּלוֹמַר, לְעוֹלָם הִיא טְמֵאָה עַד שֶׁיִּמְשֹׁךְ הַקָּנִים מִשְּׁלֹשָׁה צְדָדִים. וַהֲלָכָה כַּחֲכָמִים:
 
 
-כמין כי – the Greek [letter]. That is akin to the reverse of our [letter] "כ". Meaning to say, it is always impure util he pulss the reeds from three sides. And the Halakha is according to the Sages.
+כמין כי – the Greek [letter]. That is akin to the reverse of our [letter] "כ". Meaning to say, it is always impure until he surrounds the reeds from three sides. And the Halakha is according to the Sages.
 
 
 ###### Bartenura on Mishnah Kelim 20:7:3

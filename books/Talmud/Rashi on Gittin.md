@@ -24043,17 +24043,6 @@ And there are those who say you can read it - It is a double doubt. Maybe a Jew 
 
 
 
-### Line 5
-
-###### Rashi on Gittin 53b:5:1
-
-[https://torahapp.org/share/book/Rashi%20on%20Gittin/r/53b:5:1](https://torahapp.org/share/book/Rashi%20on%20Gittin/r/53b:5:1)
-
-
-מטמא ומדמע - איסורא דרבנן הוא כיון דלא שמיה היזק אין כאן איסורא דאורייתא ודברי סופרים צריכין חיזוק הלכך קניס אף השוגג אבל בישול בשבת איסורא דאורייתא הוא ולא שכיח דעברי עלה הלכך לא קניס:
-
-
-
 ### Line 6
 
 ###### Rashi on Gittin 53b:6:1
@@ -24119,6 +24108,17 @@ And there are those who say you can read it - It is a double doubt. Maybe a Jew 
 
 
 בדרבי יוחנן הסנדלר גרס יאכל - דר' יוחנן סבר מעשה שבת אסורין באכילה ויליף לה מקראי בב"ק (דף עא.) ובכתובות (דף לד.):
+
+
+
+### Line 10
+
+###### Rashi on Gittin 53b:10:1
+
+[https://torahapp.org/share/book/Rashi%20on%20Gittin/r/53b:10:1](https://torahapp.org/share/book/Rashi%20on%20Gittin/r/53b:10:1)
+
+
+מטמא ומדמע - איסורא דרבנן הוא כיון דלא שמיה היזק אין כאן איסורא דאורייתא ודברי סופרים צריכין חיזוק הלכך קניס אף השוגג אבל בישול בשבת איסורא דאורייתא הוא ולא שכיח דעברי עלה הלכך לא קניס:
 
 
 

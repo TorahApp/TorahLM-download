@@ -14,9 +14,9 @@ Location: Halakhah/Shulchan Arukh HaRav
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Vocalized Edition - Kehot Publication Society (Segments: 7147, License: CC-BY-NC)
+Version (He): Kehot Publication Society (Segments: 7147, License: CC-BY-NC)
 
-Version (En): SECTION 123.1 (Segments: 75)
+Version (En): Sefaria Community Translation (Segments: 75)
 
 # Shulchan Arukh HaRav — part 2 of 2
 

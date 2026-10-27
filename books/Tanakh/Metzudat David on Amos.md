@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat David/Prophets
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 315, License: Public Domain)
+Version (He): On Your Way (Segments: 314, License: Public Domain)
 
 
 ## Chapter 1
@@ -97,7 +97,7 @@ Version (He): On Your Way (Segments: 315, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Amos/r/1:3:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Amos/r/1:3:1)
 
 
-**על שלשה פשעי דמשק.** יתכן שהם הפשעים הראשיים בדמשק והחמורים מכולם והם עכו״ם וג ״ע וש״ד הנמצאים בכל אלה הנזכרים פה ור״ל האם מהראוי שעל שלשת הפשעי׳ הראשיים ועל הוספת פשע הרביעי שלא אשיב לו גמולו בראשו בתמיה:
+**על שלשה פשעי דמשק.** יתכן שהם הפשעים הראשיים בדמשק והחמורים מכולם והם עכו״ם וג״ע וש״ד הנמצאים בכל אלה הנזכרים פה ור״ל האם מהראוי שעל שלשת הפשעי׳ הראשיים ועל הוספת פשע הרביעי שלא אשיב לו גמולו בראשו בתמיה:
 
 
 ###### Metzudat David on Amos 1:3:2
@@ -116,7 +116,7 @@ Version (He): On Your Way (Segments: 315, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Amos/r/1:4:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Amos/r/1:4:1)
 
 
-**ושלהתי.** לכן אשלח אש:
+**ושלחתי.** לכן אשלח אש:
 
 
 ###### Metzudat David on Amos 1:4:2
@@ -1056,20 +1056,12 @@ Version (He): On Your Way (Segments: 315, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Amos/r/4:10:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Amos/r/4:10:1)
 
 
-**בדרך מצרים.** כשהלכו בחוריכם רוכבי סוסים לרדת מצרימה לשבור בר כי שם יש הרבה תבואה הנה בדרך אלה בתחילת מלכותו כמ״ש (בס״ע):
+**בדרך מצרים.** כשהלכו בחוריכם רוכבי סוסים לרדת מצרימה לשבור בר כי שם יש הרבה תבואה הנה בדרך אלה בתחילת מלכותו כמ״ש (בס״ע): ותהיו אתם בני שומרון לבד תשארו כאוד המוצל מן השרפה:
 
 
 ###### Metzudat David on Amos 4:10:2
 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Amos/r/4:10:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Amos/r/4:10:2)
-
-
-**ותהיו.** אתם בני שומרון לבד תשארו כאוד המוצל מן השרפה:
-
-
-###### Metzudat David on Amos 4:10:3
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Amos/r/4:10:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Amos/r/4:10:3)
 
 
 **ולא שבתם.** ר״ל ידעתי שלא תקחו מוסר ולא תשובו אלי ואמר בלשון עבר כדרך הנבואה בהרבה מן המקומות כי הנבואה ברורה כאלו כבר נעשתה:
@@ -1501,7 +1493,7 @@ Version (He): On Your Way (Segments: 315, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Amos/r/5:20:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Amos/r/5:20:1)
 
 
-**הלא חושך.** ר״ל א ״כ היום ההוא יהיה חושך ועל מה תתאוו לו:
+**הלא חושך.** ר״ל א״כ היום ההוא יהיה חושך ועל מה תתאוו לו:
 
 
 
@@ -1935,7 +1927,7 @@ Version (He): On Your Way (Segments: 315, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Amos/r/6:14:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Amos/r/6:14:1)
 
 
-**כי הגני.** כי עתה שחטאתם לי הנני מעמיד עליכם אתם בית ישראל:
+**כי הנני.** כי עתה שחטאתם לי הנני מעמיד עליכם אתם בית ישראל:
 
 
 ###### Metzudat David on Amos 6:14:2
@@ -2810,7 +2802,7 @@ Version (He): On Your Way (Segments: 315, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Amos/r/9:8:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Amos/r/9:8:1)
 
 
-**(הנה עיני אד׳.** ר״ל הואיל וכן הוא ואתם פשעתם בי לכן הנה עיני ה׳ והשגחתו בממלכה החטאה היא מלכות אפרים להשמיד אותה:
+**הנה עיני אד׳.** ר״ל הואיל וכן הוא ואתם פשעתם בי לכן הנה עיני ה׳ והשגחתו בממלכה החטאה היא מלכות אפרים להשמיד אותה:
 
 
 ###### Metzudat David on Amos 9:8:2

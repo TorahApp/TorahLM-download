@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Wikisource Sefer HaBahir (Segments: 200, License: CC-BY-SA)
 
-Version (En): Sefaria Community Translation (Segments: 62)
+Version (En): Sefaria Community Translation (Segments: 93)
 
 
 ## Siman 1
@@ -85,7 +85,7 @@ Rabbi Berechiah said, "It is written, *'Now the earth was tohu* and *bohu*' (Gen
 ישב ר' רחומאי ודרש מאי דכתיב (דברים ל"ג כג) ומלא ברכת ה' ים ודרשה ירשה, אלא בכל מקום בי"ת מבורך הוא, כי הוא המלא שנאמר ומלא ברכת ה' ומשם משקה הצריכים, ומן המלא נטלה עצה תחלה, משל למה"ד למלך שרצה לבנות פלטרין שלו בסלעים חזקים קצץ צורים וחצב סלעים ויצא לו מעין מים גדול מים חיים, אמר המלך הואיל ויש לי מים נובעים אטע גן ואשתעשע בו אני וכל העולם, הה"ד (משלי ח' ל) ואהיה אצלו אמון ואהיה שעשועים יום יום משחקת לפניו בכל עת, אמרה תורה אלפים שנה הייתי בחיקו של הקב"ה שעשועים שנאמר יום יום, ויומו של הקב"ה אלף שנה שנאמר (תהלים צ' ד') כי אלף שנים בעיניך כיום אתמול כי יעבור, מכאן ואילך לעתים שנאמר בכל עת, והשאר לעולם שנאמר (ישעי' מ"ח ט) ותהלתי אחטם לך, מאי ותהלתי דכתיב (תהלים קמ"ה א) תהלה לדוד ארוממך, מאי תהלה, משום דארוממך, ומאי רוממות' משום דאברכה שמך לעולם ועד:
 
 
-... A parable, to what does the thing compare? To a king that wanted to build a palace . . . He cut [through] rock . . . and a great spring of water emerged for him, living water. The king said: Since I have flowing water, I will plant a garden, and I will delight in it, I and all the world.
+Rabbi Rachumai sat and expounded, "Why is it written *'And filled with the blessing of YHVH, inherit the sea and the south'* (Deuteronomy 33:23)? In every place [where there is the letter] *Bet*, it is blessed. 'It' is the filling, as it is said, *'And the filling is the blessing of YHVH.'* From there, the needy drink, and from the filling [God] took counsel in the beginning. To what parable is this similar? To a king who wants to build his palace in strong cliffs. He cut stones and chiseled boulders, and a spring of great waters — living waters — went out from it. The king said, 'Since I have waters bursting forth, I will plant a garden and I will delight in it — I and the whole world.' This is as it is written, *'And I was with Him as a confidant, and I was a source of delight every day [יום יום], to rejoice before Him at all times'* (Proverbs 8:30). The Torah said, 'For two thousand years I was in the bosom of the Blessed Holy One,' as it is said *'A day, a day [יום יום]'*. A day of the Blessed Holy One is a thousand years, as it is said, *'For a thousand years in Your eyes is like a yesterday that has passed'* (Psalms 90:4). From then on, it is for times — as it is said, 'At every time' — but the remainder is for the world — as it is said, *'And I will breathe my praise to you'*(Isaiah 48:9). What does it mean *'my praise'*? As it is written, *'A song of praise of David, I will raise You high'*(Psalms 145:1) Why is it 'praise'? Because *'I will raise You high.' And what is this elevation? Because 'I will bless Your name forever'*(Psalms 145:2)."
 
 
 
@@ -169,7 +169,7 @@ Rabbi Bun said, "Why is it written *'I was set up from eternity [מעולם], fr
 ומאי גם את זה לעומת זה עשה האלהים (קהלת ז' יד), ברא בהו ושם מקומו בשלום וברא תהו ושם מקומו ברע, בהו בשלום שנאמר (איוב כ"ה ב) עושה שלום במרומיו מלמד שמיכאל שר הימיני של הקב"ה מים וברד וגבריאל שר שמאלו של הקב"ה אש, ושר שלום ביניהם מכריע והיינו דכתיב עושה שלום במרומיו:
 
 
-[Rabbi Bun continued,] And what is [*'Elohim also created one opposite the other'* (Ecclesiastes 7:14)? [God] created *bohu* and put its place in peace and created *tohu* and put its place in evil. *Bohu* is in peace as it is said *'The One Who creates peace in His heights'* (Job 25:2). This teaches that Michael, the right-hand prince of the Blessed Holy One, is water and hail, and Gavriel, the left-hand prince of the Blessed Holy One, is fire. And the Prince of Peace decides between them. Thus it was written, *'The One Who creates peace in His heights.'*"
+[Rabbi Bun continued,] And what is [*'Elohim also created one opposite the other'* (Ecclesiastes 7:14)? [God] created *bohu* and put its place in peace and created *tohu* and put its place in evil. *Bohu* is in peace as it is said *'The One Who creates peace in His heights'* (Job 25:2). This teaches that Michael, the right-hand prince of the Blessed Holy One, is water and hail, and Gavriel, the left-hand prince of the Blessed Holy One, is fire. And the Prince of Peace decides between them. Thus it was written, *'The One Who creates peace in His heights.'* (Job 25:2)"
 
 
 
@@ -333,7 +333,7 @@ Rabbi Lulyani ben Tavrai said, "All agree that they [the angels] were not create
 ומודים הכל שלא נבראו ביום ראשון שלא יאמרו מיכאל היה מותח בדרומו של רקיע וגבריאל בצפונו והקב"ה סודר באמצעיתו, אלא אני ה' עושה כל נוטה שמים לבדי רוקע הארץ מאתי (ישעי' מ"ד כד) מי אתי כתיב אני הוא שנטעתי אילן זה להשתעשע בו כל העולם ורקעתי בו כל וקראתי שמו כל שהכל תלוי בו והכל יוצא ממנו, והכל צריכים לו, ובו צופים ולו מחכין, ומשם פורחים הנשמות בשמחה, לבדי הייתי כשעשיתי אותו, ולא יגדל עליו מלאך לאמר אני קדמתי לך, כי גם בעת שרקעתי ארצי שבה נטעתי ושרשתי אילן זה ושמחתי ביחד ושמחתי בהם, מי אתי שגליתי לו סודי זה:
 
 
-... I am the one that planted this tree/ilan, [for] all the world to delight in, and I hammered out all/kol with him (the tree), and I called his name “the Whole/All /hakol”, for all depends on him, and all comes out from him. And all are needing him, and through/to him they gaze and for him they wait. And from there bloom/grow the souls in joy. Alone was I when I made him . . . for in the time when I hammered out my earth, I planted and rooted this tree in her, and I rejoiced together [with him] and I rejoiced in them.
+[Rabbi Levitas ben Tavrus continued,] "And all agree that [the angels] were not created on the first day, lest people might say, 'Michael drew out the south of Heaven, Gabriel [drew out] the north, and the Blessed Holy One is the one who made order in the middle. Rather, *I am YHVH, who makes everything, Who stretches out the heavens by myself, who spreads out the land, unaided [מאתי]'* (Isaiah 44:24). It is written [as] *‘who is with me’*[מי אתי]. [To say,] 'I am He that planted this tree so that all of the world would delight in it. I laid everything in it, and I called its name 'all,' because everything depends upon it, everything comes out from it, everything needs it, to it everything looks, for it they wait, and, from there, souls fly in joy. I was by myself when I did this. An angel will not be aggrandized on it to say, 'I was before you,' because at the time that I laid out the earth, and planted and rooted this tree in her, I rejoiced together, and I rejoiced in them. Who was with Me [מי אתי] that I revealed to him my secret?'"
 
 
 
@@ -347,7 +347,8 @@ Rabbi Lulyani ben Tavrai said, "All agree that they [the angels] were not create
 אמר ר' רחומאי מדברך נלמד שצורך העולם הזה ברא הקב"ה קודם השמים, א"ל הן, משל למה"ד למלך שביקש ליטע אילן בגנו, השגיח בכל הגן לדעת אם יש שם מעיין נובע מים להעמיד אותו, ולא מצא, אמר אחפור מים ואוציא מעין כדי שיוכל להתקיים האילן, חפר והוציא מעין נובע מים חיים ואח"כ נטע האילן ועמד ועשה פרי והצליח בשרשיו שהשקוהו תמיד מן המעיין:
 
 
-R’ R’chumai said: From your word we learn that the Holy One created the need of this world before the heavens. He said to him: Thus so.
+Rabbi Rachumi said, “From your words, it could be learned that the Blessed Holy One created the needs of this world before the heavens.” 
+He [Rabbi Levitas ben Tavrus] replied, “Yes. ָA parable, to what it is similar: to a king who seeks to plant a tree in his garden. He searches throughout the whole garden to know if there is a spring of flowing water to place the tree upon, and he does not find one. He says, ‘I will dig for water, and I will bring forth a spring so that the tree can be sustained.’ He dug, and out came a spring flowing with living waters. Afterward, he planted the tree, and it stood and produced fruit. It was successful in its roots because it always drinks from the spring."
 
 
 
@@ -361,7 +362,9 @@ R’ R’chumai said: From your word we learn that the Holy One created the need
 אמר ר' ינאי הארץ נבראה קודם לשמים שנאמר (בראשית ב' ד) ארץ ושמים, אמרו לו והכתיב (בראשית א' א) את השמים ואת הארץ, אמר להם למה"ד למלך שקנה חפץ נאה ולא היה שלם ולא קרא עליו שם, אמר אשלימנו ואתקן כנו וחבורו, ואז אקרא לו שם הה"ד (תהלים ק"ב כו) לפנים הארץ יסדת ואח"כ ומעשה ידיך שמים, ואומר (שם ק"ד ב) עטה אור כשלמה נוטה שמים כיריעה המקרה במים עליותיו וגו', ואומר (שם ד) עושה מלאכיו רוחות משרתיו אש לוהט, ואח"כ (שם ה) יסד ארץ על מכוניה בל תמוט עולם ועד, כשתיקן לה מכון אז האמיץ בה שנאמר בל תמוט, ומה שמה ועד שמה ומכונה עולם והיינו עולם ועד:
 
 
-R’ Yanai said: The earth was created before the heavens, as it says, “[in the day of YHVH Elohim’s making] earth and heavens” [Gn 2:4]. They said to him: But isn’t it written, “[Elohim created] the heavens (first) and the earth”? He said to them: To what does the thing compare? To a king who took possession of a beautiful, precious thing, and it wasn’t complete . . . He said, “I will complete it and prepare its mounting and its setting, and then I will call out its name over it . . . ”
+Rabbi Yanai said, “The Earth was created before the Heavens, as it is said, *‘[In the day of YHVH God’s making of the] Earth and the Heavens'* (Genesis 2:4).’”
+They said to him, “Isn’t it written *‘[In the beginning, God created] the Heavens and the Earth’* (Genesis 1:1)?” 
+He said to them, "To what does this compare? To a king who acquires a beautiful object, but it was not complete, so he did not give it a name. He said, ‘I will complete it and prepare its pedestal and accessories, and then I will give it a name.’ Thus it is written, *‘From eternity You established the Earth’* (Psalms 102:6), and afterward *‘And Heaven is the work of Your hands’* (Psalms 102:26). And it says, *‘He covered Himself with a garment of light, spread out the Heavens like a curtain, and set the waters as the rafters of His chambers’* (Psalms 104:2-3). Futher, it says, *‘He makes the winds His messengers and fiery flames His servants’* (Psalms 104:4), and afterward *‘He established the Earth on its foundation so that it will never [עולם ועד] be moved’* (Psalms 104:5). When He completed the pedestal, [the Earth] was strengthened by it, as is said, *'It will never be moved.’* What is its name? ‘Va’ed' [ועד] and the pedestal is ‘Earth' [עולם], thus it is ‘Olam Va’ed' [עולם ועד].”
 
 
 
@@ -462,7 +465,7 @@ He said to them, "Is it not written, *'He spreads light like a garment'*(Psalms 
 אמר ר' אמוראי גן עדן היכן הוא, א"ל בארץ:
 
 
-R’ Amorai said: Gan Eden, where is it? He said to them: In the earth.
+Rabbi Amorai said, "Where is the Garden of Eden?" He [Mar Rachumai] said to him, "On the Earth."
 
 
 
@@ -659,7 +662,7 @@ He said to them, "Enter and hear the details of the vowel points of the Torah of
 
 
 Mar [Rachumai] said, "As it is written, *'And all the nation saw the voices [hakolot* — often translated as 'thunder'] and the lightning' (Exodus 20:15). Can voices be seen?!? Rather, all the nation saw the voices — those [seven] voices about which David spoke. 
-[1] *'A voice [kol*] of YHVH is upon the waters; the God of Glory thunders, etc.' (Psalms 29:3). 
+[1] *'A voice [kol*] of YHVH is upon the waters; the God of Glory thunders, YHVH' (Psalms 29:3). 
 [2] *'A voice of YHVH in strength'* (Psalms 29:4), and it says, *With the strength of My hand, I have done [it]'* (Isaiah 10:13), and it says, *'My own hand founded the earth'* (Isaiah 48:13). 
 [3] *'A voice of YHVH in majesty [hadar*] ' (Psalms 29:4), and the text said, *'Glorious [hod*] and majestic [*hadar*] are His deeds, and His righteousness [*tzedek*] stands forever.' (Psalms 101:3). 
 [4] *'A voice of YHVH shatters cedars'* (Psalms 29:5). This is the bow that shatters cypress trees and cedar trees. 
@@ -680,7 +683,7 @@ Mar [Rachumai] said, "As it is written, *'And all the nation saw the voices [hak
 כתוב אחד אומר (שמואל ב כ"ב י) ויט שמים וירד וערפל תחת רגליו, וכתוב אחד אומר (שמות י"ט כ) וירד ה' על הר סיני אל ראש ההר, וכתוב אחד אומר (שם כ' י"ט) כי מן השמים דברתי עמכם, הא כיצד. אשו הגדולה היתה בארץ שהוא קול אחד ושאר הקולות היו בשמים דכתיב (דברים ד' לו) מן השמים השמיעך את קולו ליסרך ועל הארץ הראך את אשו הגדולה ודבריו שמעת מתוך האש, ומאי היא הגדולה, ומאין היה יוצא הדיבור מתוך האש שנאמר (שם) ודבריו שמעת מתוך האש:
 
 
-[Mar Rachumai continued,] "One text says, *'He bent the heavens and descended, a thick cloud below His feet'*(2 Samuel 22:10), another text says, *'He came down upon Mount Sinai to the top of the mountain'* (Exodus 19:20), and another text says, *'For from the heavens I spoke with you'*(Exodus 20:19). How is this to be understood? A great fire was on the land, which was one voice, and the remainder of the voices were in the heavens, as is written *'From the heavens, you could hear His voice to instruct you; on the earth, you could see the great fire, and you heard His words from within the fire'*(Deuteronomy 4:36). What is this great [fire]? And from where was the speech coming out? From within the fire, as it is said *'and you heard His words from within the fire'*?"
+[Mar Rachumai continued,] "One text says, *'He bent the heavens and descended, a thick cloud below His feet'*(2 Samuel 22:10), another text says, *'He came down upon Mount Sinai to the top of the mountain'* (Exodus 19:20), and another text says, *'For from the heavens I spoke with you'*(Exodus 20:19). How is this to be understood? His great fire was on the land, which was one voice, and the remainder of the voices were in the heavens, as is written *'From the heavens, you could hear His voice to instruct you; on the earth, you could see the great fire, and you heard His words from within the fire'*(Deuteronomy 4:36). What is this great [fire]? And from where was the speech coming out? From within the fire, as it is said *'and you heard His words from within the fire'*?"
 
 
 
@@ -694,7 +697,7 @@ Mar [Rachumai] said, "As it is written, *'And all the nation saw the voices [hak
 ומאי ותמונה אינכם רואים זולתי קול (דברים ד' יב) ההוא כדאמר להם משה לישראל (שם ט"ו) כי לא ראיתם כל תמונה, תמונה ולא כל תמונה. משל למה"ד למלך שעומד על עבדיו מעוטף כסות לבנה לא די לאימת מלכות שיסתכלו במלבושיו, ועוד רחוק היה המלך ושמעו את קולו, יכולים לראות גרונו, אמרת לא, הא למדת שראו תמונה ולא כל תמונה. והיינו דכתיב (שם) ותמונה אינכם רואים זולתי קול, וכתיב (שם) קול דברים אתם שומעים:
 
 
-[Mar Rachumai continued,] "And what is, *'And an image you did not see, only a voice'* (Deuteronomy 4:12)? This is as Moses said to Israel, *'For you did not see all the image'* (Deuteronomy 4:15) — [you saw] *an* image but not *the whole* image. A parable, to what it is may be compared: To a king that stands above his servants, draped in a white robe. It's not enough for the awe of the kingdom that they look at his garments. Further, the king was too far away, but they heard his voice. Can they see his throat? You would say, 'No.' Thus, you learned that they saw *an* image but not *the whole* image. Thus, it is written, *'And an image you did not see, only a voice'* and it is written, *'The voice [sound] of words you heard'* (Deuteronomy 4:12)."
+[Mar Rachumai continued,] "And what is, *'And an image you did not see, only a voice'* (Deuteronomy 4:12)? This is as Moses said to Israel, *'For you did not see all the image'* (Deuteronomy 4:15) — [you saw] *an* image but not *the whole* image. A parable, to what it is may be compared: To a king that stands above his servants, draped in a white robe. It's not enough for the awe of the kingdom that they look at his garments. Further, the king was too far away, but they heard his voice. Can they see his throat? You would say, 'No.' Thus, you learned that they saw *an* image but not *the whole* image. Thus, it is written, *'And an image you did not see, only a voice'* and it is written, *'The voice [i.e., sound] of words you heard'* (Deuteronomy 4:12)."
 
 
 
@@ -708,7 +711,7 @@ Mar [Rachumai] said, "As it is written, *'And all the nation saw the voices [hak
 כתוב אחד אומר (שמות כ' טו) וכל העם רואים את הקולות, וכתוב אחד אומר (דברים ד' יב) קול דברים אתם שומעים, הא כיצד, בתחילה רואים את הקולות. ומה ראו שבע קולות שאמר דוד. ולבסוף שמעו הדיבור היוצא מבין כולם. והא אנן עשרה תנן, דרבנן אמרו כולהו אמירן בחדא מילתא, כן כולה אמירן בחדא מילתא, והוי שבע אמירן דשבעה קולות, ועל תלתא מנייהו נאמר קול דברים אתם שומעים ותמונה אינכם רואים זולתי קול, הא למדת דכולהו בחדא מילתא אמירן, ובעבור שלא יטעו ישראל לומר אחרים עזרוהו או אחד מן המלאכים אך קולו לבד לא יוכל להיות חזק כל כך, בעבור כן חזר וכללן:
 
 
-[Mar Rachumai continued,] "One text says, *'And all the people saw the voices'* (Exodus 20:15), and another text says, *'You heard the voice of words'* (Deuteronomy 4:12). How can this be? At first, *'they saw the voices.'* What did they see? Seven voices about which David spoke. And at the end, they heard the speech that comes out from between them all. But have we not learned that [that they are] ten? The rabbis said that all of them [the commandments] were spoken in one utterance (BT Shevuot 20b). So too, all of them were spoken in one utterance. But there were seven utterances! There were seven voices, and regarding three of them, it is said, *'You heard the voice of words, but you did not see an image — only a voice'* (Deuteronomy 4:12). Thus, you learned that all of them were spoken as one utterance, so that Israel would not err by saying that another had helped him or the angels [helped] as His voice alone could not be this strong. Because of this, he returned and included all of them."
+[Mar Rachumai continued,] "One text says, *'And all the people saw the voices'* (Exodus 20:15), and another text says, *'You heard the voice of words'* (Deuteronomy 4:12). How can this be? At first, *'they saw the voices.'* What did they see? Seven voices about which David spoke. And at the end, they heard the speech that comes out from between them all. But have we not learned that [that they are] ten? The rabbis said that all of them [the commandments] were spoken in one utterance (BT Shevuot 20b). So too, all of them were spoken in one utterance. But there were seven utterances! There were seven voices, and regarding three of them, it is said, *'You heard the voice of words, but you did not see an image — only a voice'* (Deuteronomy 4:12). Thus, you learned that all of them were spoken as one utterance, so that Israel would not err by saying that another had helped him or the angels [helped] as His voice alone could not be this strong. Because of this, He returned and included all of them."
 
 
 
@@ -751,11 +754,12 @@ Mar [Rachumai] said, "As it is written, *'And all the nation saw the voices [hak
 
 
 His students asked Rabbi Berachiah, "Accept our words before you!" He did not give them permission. One time, he did give them permission, but he* did this to check whether now they could direct their souls. "The first day," he examined them and said, "Let me hear your wisdom." 
-They opened and said, "*'In the beginning'* (Genesis 1:1) is one. [Two is:] *'Spirit that will wrap itself is from before me; souls I made'* (Isaiah 57:16). [Three is:] *'The division [פלג] of Elohim is filled with water'* (Psalms 65:10)." 
-[Rabbi Berachiah asked them,] "What is 'division'?"
-[They answered,] "Thus you taught us, our rabbi,** that [God] took waters of creation and divided them, gave half in the heavens and half in the ocean sea, as is written, *'The division of Elohim is filled with water'* — and through it, a person learns Torah. As rabbi Chama said, 'Through the merit of *gemilut chasadim* a person learns Torah. Similarly, it is written, *All who are thirsty, go to water, and if he has no money [כסף], obtain food and eat'* (Isaiah 55:1) — go to him and he will bestow kindness to you: obtain [or, 'understand'] and eat!'"
+They opened and said, "*'In the beginning'* (Genesis 1:1) is one. [Two is:] *'Spirit that will wrap itself is from before me; souls I made'* (Isaiah 57:16). [Three is:] *'The brook [פלג] of Elohim is filled with water'* (Psalms 65:10)." 
+[Rabbi Berachiah asked them,] "What is *'brook'*?"
+[They answered,] "You taught us, our rabbi,** that [God] took waters of creation and divided them, gave half in the heavens and half in the ocean sea, as is written, *'The brook of Elohim is filled with water'* — and through it, a person learns Torah. As rabbi Chama said, 'Through the merit of *gemilut chasadim* a person learns Torah. Similarly, it is written, *All who are thirsty, go to water, and if he has no money [כסף], go, obtain food and eat'* (Isaiah 55:1) — go to Him and He will bestow kindness to you: obtain*** and eat!'"
 *[Ed. - Sefaria text reads "she," but other versions say, "he."]
 **[Ed. - Sefaria text reads "we saw"; other versions of the text say "our rabbi."]
+***[alternatively, 'hope.' For example, see Nehemiah 2:13, 15; Psalms 119:166, 145:15; Esther 9:1]
 
 
 
@@ -802,7 +806,7 @@ He said to them, “This is the gold, as is written, *’Mine is the silver and 
 ומאי עבידתיה הכא, משל למה"ד למלך שהיתה לו בת טובה ונעימה ונאה ושלימה, והשיאה לבן מלך, והלבישה ועטרה וקשטה ונתנה לו בממון רב, אפשר לו למלך לישב חוץ מביתו, אמרת לא, אפשר לו לשבת כל היום תמיד עמה, אמרת לא, הא כיצד, שם חלון בינו לבינה וכל שעה שצריכה הבת לאביה או האב לבתו מתחברים יחד דרך החלון הה"ד (תהלים מ"ה יח) כל כבודה בת מלך פנימה ממשבצות זהב לבושה:
 
 
-[Rabbi Berachiah continued,] "And why was she created thusly? A parable, to which this is similar: to a king who had a beautiful and nice daughter, pleasant and complete, and he married her to the son of a king. He dressed, crowned, and adorned her, and gave her to him with a great dowry. Is it possible for the king to dwell outside his house [i.e., with her in her new house]? You would say, 'No.' Is it possible for him to sit all the day with her always? You would say, 'No.' How is [he to deal with] this? He placed a window between him and her, and every time that the daughter needed her father or the father needed his daughter, they would meet together by the window. As is written, *'All the glory of the daughter or a king is inside her, her dress is embroidered with gold'* (Psalms 45:14)."
+[Rabbi Berachiah continued,] "And why was she created thusly? A parable, to which this is similar: to a king who had a beautiful and nice daughter, pleasant and complete, and he married her to the son of a king. He dressed, crowned, and adorned her, and gave her to him with a great dowry. Is it possible for the king to dwell outside his house [i.e., with her in her new house]? You would say, 'No.' Is it possible for him to sit all the day with her always? You would say, 'No.' How is [he to deal with] this? He placed a window between him and her, and every time that the daughter needed her father or the father needed his daughter, they would meet together by the window. As is written, *'All the glory of the daughter of a king is inside her, her dress is embroidered with gold'* (Psalms 45:14)."
 
 
 
@@ -816,11 +820,11 @@ He said to them, “This is the gold, as is written, *’Mine is the silver and 
 ומה היא בי"ת דכתיב בסופה (משלי כ"ד ג) בחכמה יבנה בית, נבנה לא נאמר אלא יבנה, עתיד הקב"ה לבנותה ולקשטה אלפים באחד על אשר היתה, כדאמרינן מה הוה דתחילת התורה בבי"ת דכתיב (משלי ח' ל') ואהיה אצלו אמון ואהיה שעשועים יום יום תרי אלפין שנין, שהיא ראשית, תרי והכתוב אומר שבע דכתיב (ישעי' ל' כו) והיה אור הלבנה כאור החמה ואור החמה יהיה שבעתים, דאמרינן מה חמה לשבעה אף לבנה לשבעה, אנא אלפים אמרו:
 
 
-[Rabbi Berachiah continued,] "And what is *Bet*? As is written at the end, *'With wisdom, a house is built [יבנה]'* (Provers 24:3) — *'was built'* [נבנה] is not said, rather, *'he will build'* [יבנה]. In the future, the Blessed Holy One will build her and adorn her, beyond what she was, two–thousandfold, as we have said, 'What was it, that the Torah begins with a *Bet*?' As is written, *'I was with Him as an artisan, and I was a source of delight every day [יום יום]'* (Proverbs 8:30) — two thousand years, that she was first [ראשית]." 
-[They asked him,] "Two? But doesn't the text say seven?"
- [He replied,] "As is written, *'The light of the moon will be like the light of the sun, and the light of the sun will be sevenfold'* (Isaiah 30:26).* As we say, 'Just as the sun is to seven, so to, the moon is to seven.' Rather**, they said two thousand."
+[Rabbi Berachiah continued,] "And what is *Bet*? As is written at the end, *'With wisdom, a house is built [יבנה]'* (Provers 24:3) — *'was built'* [נבנה] is not said, rather, *'he will build'* [יבנה]. In the future, the Blessed Holy One will build her and adorn her two–thousandfold, beyond what she was. As we have said concerning what it was when the Torah began with *Bet*, it is written, *'I was with Him as an artisan, and I was a source of delight every day [יום יום]'* (Proverbs 8:30) — two thousand years, that she was first [ראשית]." 
+[They asked him,] "Two? But doesn't the text say seven? As is written, *'The light of the moon will be like the light of the sun, and the light of the sun will be sevenfold'* (Isaiah 30:26).*
+ [He replied,] "As we say, 'Just as the sun is to seven, so to, the moon is to seven.' Rather, we say, 'two thousand'."**
 *[Ed. - some manuscripts include: *'Like the light of the seven days'* of creation [בראשית]]
-**[Ed. - some manuscripts show "rather" ’[אלא] as a possibility instead of "I" [אנא]. While this alternative is not universal, it makes more sense.]
+**[Ed. - some manuscripts show "rather" ’[אלא] as a possibility instead of "I" [אנא] and "we say" [אמרינן] instead of "they said" [אמרו]. While this alternative is not universal, it makes more sense.]
 
 
 
@@ -834,7 +838,7 @@ He said to them, “This is the gold, as is written, *’Mine is the silver and 
 א"ל עד כאן חמשה מכאן ואילך מאי, א"ל אני אפרש תחלה זהב, מאי זהב, מלמד שממנו יוצא הדין, ואם תטה דבריך ימין ושמאל נזהר ממך:
 
 
-They said to him, "Until here, five. From here and onwards, what?" 
+They [the students] said to him [Rabbi Berachiah], "Until here, five. From here and onwards, what?" 
 He said to them, "I will explain gold first. Why gold? It teaches that judgment comes out from it. And if you incline your words the right or the left, you will be admonished by it."
 
 
@@ -849,11 +853,11 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 מאי דכתיב (ישעי' שם) והיה אור הלבנה כאור החמה ואור החמה יהיה שבעתים כאור שבעת הימים, הימים ימים מיבעי ליה, אלא אותן ימים שכתוב בהן (שמות ל"א יז) כי ששת ימים עשה ה' וגו', אמר לו חברו וכן קבלתי מדכתיב כי ששת ימים עשה ה', כמה דאת אמר ששה כלים נאים עשה הקב"ה, ומאי הם את השמים ואת הארץ, והא ז' הן וכן כתוב (שם) וביום השביעי שבת וינפש, מאי וינפש, מלמד שיום השבת מקיים כל הנפשות שנאמר וינפש:
 
 
-[Rabbi Berachiah continued,] "Why is it written, *'The light of the moon will be like the light of the sun, and the light of the sun will be sevenfold, like the light of the seven days [שבעת הימים]'* (Isaiah 30:26). 'The days [הימים]'? It should have said 'days [ימים]'! But these are the days about whom it is written, *'Because six days YHVH made'* (Exodus 31:17)." 
- His friend said to him, "This, I have received from what is written, *'Because six days YHVH made'*, like that which you said, 'The Blessed Holy One made six beautiful vessels.' What are they?"
-[He continued,] *'The Heavens and the Earth'* (Genesis 1:1)."
+[Rabbi Berachiah continued,] "Why is it written, *'The light of the moon will be like the light of the sun, and the light of the sun will be sevenfold, like the light of the seven days [שבעת הימים]'* (Isaiah 30:26). 'The days [הימים]'? It should have said 'days [ימים]'! But these are the days about whom it is written, *'Because YHVH made six days'* (Exodus 31:17)." 
+ His friend said to him, "This, I have received from what is written, *'Because YHVH made six days'*, like that which you said, 'The Blessed Holy One made six beautiful vessels.' What are they?"
+[He continued,] *'The Heavens and the Earth'* (Exodus 31:17, Genesis 1:1)."
 [His friend objected,] "But they are seven!"
-[He continued,] "And therefore, it is written, *'On the seventh day, [God] stopped and rested [וינפש]'* (Exodus 31:17). What is 'rested [וינפש]'? It teaches that the day of Shabbat establishes all souls [הנפשות], as is said, *'and [He] souled [וינפש].'*"
+[He continued,] "And therefore, it is written, *'On the seventh day, [God] stopped and rested [וינפש]'* (Exodus 31:17). What is 'rested [וינפש]'? It teaches that the day of Shabbat establishes all souls [הנפשות], as is said, *'and [He] ensouled [וינפש].'*"
 
 
 
@@ -881,6 +885,10 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 ומאי שמים, מלמד שגיבל הקב"ה אש ומים וטפחן זה בזה ועשה מהן ראש לדבריו דכתיב (תהלים קי"ט קס) ראש דברך אמת, והיינו דכתיב שמים, שם מים, אש ומים, א"ל עד כאן עושה שלום במרומיו נתן ביניהם שלום ואהבה יתן בינינו שלום ואהבה:
 
 
+[Rabbi Berachiah continued,] "And what is 'heavens'? It teaches that the Blessed Holy One mixed together fire and water, measured them this with this, and made from them a beginning of His words. As is written, *'The head of Your words is truth'* (Psalms 119:160). Thus, it is written, 'heavens [שמים]' — 'placed water' [שם מים] — fire and water." 
+They said to him, "Until now, *'He makes peace in His heights'* (Job 25:2). He gave peace and love between them, and He will give peace and love between us."
+
+
 
 ## Siman 60
 
@@ -890,6 +898,11 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 
 
 ועוד אמרינן (תהלים קי"ט קמ"ד) שבע ביום הללתיך על משפטי צדקיך, אמרו לו מה הם, אמר להם לא דקדקתם בדברי, צאו ודקדקו בהם ותמצאם:
+
+
+[Rabbi Berachiah continued,] "Further, we have said, *'Seven in a day, I praise you for the justice of your righteousness'* (Psalms 119:164)." 
+They said to him, "What are they?"
+He said, "You did not examine my words. Go out and examine them, and you will find them."
 
 
 
@@ -903,6 +916,10 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 שאלו אותו מאי צד"י, אמר להם זה נו"ן יו"ד צד"י אף זוגו נו"ן יו" ד הה"ד (משלי י' כה) וצדיק יסוד עולם:
 
 
+They asked him, "What is *Tzaddi*?"
+He said to them, "A *Nun* [and] a *Yud* is *Tzaddi*. His partner [final *Tzaddi*]is also a *Nun* [and] a *Yud*. This is as it is written, *'The righteous one [צדיק] is the foundation of the earth'* (Proverbs 10:25)."
+
+
 
 ## Siman 62
 
@@ -912,6 +929,13 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 
 
 שאלו אותו מאי דכתיב (במדבר כ"ג יד) ויקחהו שדה צופים, מאי שדה צופים, דכתיב (שה"ש ז' יב) לכה דודי נצא השדה, מאי השדה, אל תקרי השדה אלא השירה, ומאי השירה, א"ל לבו להקב"ה לכה דודי נצא השדה לטייל ואל אשב תמיד במקום אחד:
+
+
+They asked him, "Why is it written, *'He took him [Bilaam] to Sedeh-Tzofim [שדה צופים]'* (Numbers 23:14)? What is Sedeh-Tzofim [שדה צופים]? [And] it is written, *'Come my beloved, let us go out to the field [השדה]'* (Song of Songs 7:12). What is 'the field'? 
+[He answered,] "Do not say 'the field,' rather 'the chest [השידה].'"* 
+[They asked,] "And what is the chest?" 
+[He replied,] "The Blessed Holy One's heart said to Him. *'Come my beloved, let us go out to the chest [השידה],' to journey and not remain in one place."
+[Ed. - manuscripts and commentators read השידה not השירה. The word השידה ordinarily denotes a chest, box, or cabinet, not the anatomical chest.]*
 
 
 
@@ -925,6 +949,12 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 ומאי לבו, א"ל א"כ בן זומא מבחוץ ואתה עמו, לב הוא שלשים ושתים והיו סתומים ובהם נברא העולם, מאי ל"ב, א"ל ל"ב נתיבות, משל למלך שהיה בחדרי חדרים ומנין החדרים ל"ב, ולכל חדר יש לו נתיב, נאה למלך זה להכנס הכל בחדרו על דרך נתיבתיו, אמרת לא, נאה לו לגלות פניניו ומשבצותיו ומצפוניו וגנזיו וחמודותיו, אמרת לא, מה עשה נגע בבת וכלל בה כל הנתיבות ובמלבושה, והרוצה להכנס בפנים יסתכל הנה, ונשאה למלך גם נתנה לו במתנה, לפעמים קורא אותה באהבתו בה אחותי כי ממקום אחד היו, ולפעמים קורא אותה בתו כי בתו היא, ולפעמים קורא אותה אמי:
 
 
+[The students asked,] "And what is His heart?"
+He said to them, "If so, Ben Zoma is from outside, and you are with him. A heart [לב] is 32, and they were hidden, and with them, the world was created." 
+[They asked,] "What is 32?"
+He said to them, "Thirty-two paths. A parable of a king who was in a room of rooms, and the count of the rooms was 32. To every room, there was a path. Is it fitting for the king to bring everyone into his room through the way of his paths? You would said, 'No.' Is it fitting for him to reveal his innerness, compartments, hiddenness, concealedness, and desires? You would say, 'No.' What did he do? He touched the daughter and included in her all the paths and garments. Those who want to enter into his presence will examine there. He married her to a king and also gave him a gift. Sometimes he calls her 'my sister,' in his love for her, since they were from one place. Sometimes he calls her his daughter, because she is his daughter. Sometimes, he calls her 'my mother.'"
+
+
 
 ## Siman 64
 
@@ -934,6 +964,10 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 
 
 ועוד כי אין דין אם אין חכמה, שהרי נאמר (מ"א ה' כו) וה' נתן חכמה לשלמה, ואחרי כך דן את הדין על מתכונתו שנאמר (שם ג' כח) וישמעו כל ישראל את המשפט אשר שפט המלך ויראו מפני המלך כי ראו כי חכמת אלהים בקרבו לעשות משפט. לא:
+
+
+[He continued,] "And further, since there is no judgment if there is no wisdom, as indeed, it is said, *'YHVH gave wisdom to Solomon'* (1 Kings 5:26), and afterwards he judged his judgment by his measure. As it is said, *'When all Israel heard the decision that the king had rendered, they stood in awe of the king; for they saw that he possessed divine wisdom to execute justice'* (1 Kings 3:28)."*
+*[Ed. - Sefer Bahir has two different section-numbering systems. Here, Sefaria includes לא as a word in the text, which looks like the word "no." However, this is actually the number 31, from the alternate numeration.]
 
 
 
@@ -947,6 +981,10 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 ומה חכמה נתן הקב"ה לשלמה, שלמה נושא שמו של הקב"ה כדאמרינן כל שלמה האמור בשה"ש קודש לבד מאחד, אמר הקב"ה הואיל ושמך כשם כבודי אשיא לך בתי, והא נשואה היא, אימא במתנה נתונה לו, דכתיב (מ"א ה' כו) וה' נתן חכמה לשלמה, ולא פירש, והיכן פירש, להלן שנאמר (שם ג' כח) כי ראו חכמת אלהים בקרבו. לעשות משפט, הוי אומר אותה חכמה שנתנה לו אלהים ושהיא עמו בחדרו היא בקרבו לעשות משפט, מאי לעשות משפט, אלא כל זמן שאדם עושה משפט חכמת אלהים בקרבו, זאת עוזרתו ומקרבתו, ואם לאו מרחקתו, ולא עוד אלא מייסרתו דכתיב (ויקרא כ"ו כח) ויסרתי אתכם אף אני:
 
 
+[He continued,] "And what wisdom did the Blessed Holy One give to Solomon? Solomon carried the name of the Blessed Holy One, as we have said that every 'Solomon' that is said in Song of Songs it he Holy One except one (BT Shevuot 35b). The Blessed Holy One said, 'Since your name is like the name of My glory, I will marry my daughter to you. But she is married! Say that as a gift, He gave her to him, as is written, *'YHVH gave wisdom to Solomon* (1 Kings 5:26) — but it was not given. When was it given? Further on, as is said, *'For they saw the wisdom of Elohim within him to execute justice'* (1 Kings 3:28). Therefore, say that the wisdom that Elohim gave to him — and that was with him in his rooms — was in him to execute justice. What is 'to execute justice'? [It teaches us] that the wisdom of Elohim is within a person, every time he executes justice. This is the one that helps him and brings him close. And if not, it sends him away. And further, it disciplines him, as is written *'I will discipline you; I am anger'* (Leviticus 26:28).*
+*[Ed. - A more standard translation would be *'I will discipline you, I too'*.]
+
+
 
 ## Siman 66
 
@@ -956,6 +994,12 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 
 
 ואמר ר' רחומאי מאי דכתיב (שם) אף אני, אלא הקב"ה אמר ויסרתי אתכם, וכנסת ישראל אומרת אל תדמו שאני מבקשת רחמים עליכם אלא אף אני איסר אתכם, לא די שאני אדון הדין אלא אף אני איסר אתכם:
+
+
+And Rabbi Rachumai* said, "Why is it written, *'I too,'* (Leviticus 26:28)? The Blessed Holy One said, 'I will discipline you,' and *Knesset Yisrael* said, 'Do not silently-imagine that I seek compassion for you. Rather, I also will reprimand you. It is not enough that I will adjudicate the case,** rather, I will also punish*** you.'"
+*[Some manuscripts say Rabbi Nechuniah]
+**["Adun hadin" — could also read "Adon Hadin," "Master of judgment."]
+***["Reprimand"]
 
 
 
@@ -969,6 +1013,10 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 מאי שבע על חטאתיכם, אלא אמרה כנסת ישראל ויסרתי אתכם אף אני ואותם שנאמר בהם (תהלים קי"ט קסד) שבע ביום הללתיך, נתלוו אליה וענו ואמרו אף אנו שבע, אע"פ שבנו מי שמתהפך, מי שממונה על הזכות ועל הטובה, אף אנו נתהפך ונייסר, למה, מפני חטאתיכם, ואם תשובו אלי ואשובה אליכם דכתיב (מלאכי ג' ז) שובו אלי ואשובה אליכם. ואשיב לא נאמר אלא ואשיבה אליכם, עמכם ונבקש כלנו רחמים מן המלך, ומה אומר המלך (ירמי' ג' כב) שובו בנים שובבים ארפא משובותיכם, (יחזקאל י"ח ל) שובו והשיבו, מאי שובו והשיבו, אלא שובו ובקשו לאותן שבע שישובו עמכם הה"ד והשיבו, אותם שאמרו שבע על חטאתיכם:
 
 
+[He continued,] "What is *'Seven upon your sins'* (Leviticus 26:28)? *Knesset Yisrael* said, 'I will reprimand you, I and also them,' as is said about them, *'I praise You seven in a day'* (Psalms 119:164). They joined her, answered, and said, 'Also the seven of us. Even though among us is the one who turns about, the one who oversees the merit and goodness, we too are turned and will reprimand.'Why? Because of *'your sins'*. 'But if you return to Me, I will return to you, as is written, *'Return to me and I will return to you'* (Malachi 3:7). *'I will return'* is not written, rather *'I will return Myself to you'** — with you — and all of us will seek compassion from the King.' And what does the King say? *'Return, rebellious children, I will heal your afflictions'* (Jeremiah 3:22) [and] *'Return and cause returning' [שובו והשיבו]* (Ezekiel 18:30). What is *'cause returning'*? Return and seek the seven that will return with you, as is written *'cause returning'* them that say, *'Seven upon your sins'/. (Leviticus 26:28).
+*[Ed. - Some versions read ואשוב/ואשובה, matching Malachi 3:7, “I will return to you.” Sefaria brings another version, apparently the version possessed by the author of Or HaGanuz, which appears to read ואשיב/ואשיבה as Hifil, “I will restore/return [them] to you,” and explains the unstated object as the seven lower middot, which return with Israel through repentance. This reading shifts the passage from divine accompaniment to sefirotic restoration.]*
+
+
 
 ## Siman 68
 
@@ -978,6 +1026,10 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 
 
 שאלו תלמידיו את ר' רחומאי מאי דכתיב (חבקוק ג, א) תפלה לחבקוק הנביא על שגיונות, תפלה, תהלה מיבעי ליה, אלא כל המפנה לבו מעסקי עולם ומסתכל במעשה מרכבה מקובל לפני הקב"ה כאלו מתפלל כל היום שנאמר תפלה, מאי שגיונות, כדכתיב (משלי ה' יט) באהבתה תשגה תמיד ' ומאי ניהו. מעשה מרכבה דכתיב (חבקוק ג' ב) ה' שמעתי שמעך יראתי:
+
+
+His students asked Rabbi Rachumai, "Why is it written, *'A prayer of Habakkuk the prophet, on Shigyonot'* (Habakkuk 3:1)?" 
+[He answered,] "Prayer [תפלה] — it should have said 'praise' [תהלה]! But everyone who turns his heart from the toils of the world and gazes into the workings of the chariot is received before the Blessed Holy One as if he had prayed the entire day, as it is said, *'prayer'*. What is *shigyanot*’ [שגיונות]? As it is written, *'Stray [תשגה] in your love of her always'*(Proverbs 5:19). And what is this? The workings of the chariot, as is written, *'YHVH, I have heard of Your renown; I am awed'* (Habakkuk 3:2)."
 
 
 
@@ -991,6 +1043,9 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 ד"א מאי דכתיב (שם) ה' שמעתי שמעך יראתי וגו' מ"ט כשאמר שמעך אמר יראתי וכשאמר בקרב שנים לא אמר יראתי אלא משמעך יראתי, ומאי משמעך, מקום ששומעים בו, ומ"ט אמר שמעתי הבנתי מבעי ליה, כד"א (דברים כ"ח מט) גוי אשר לא תשמע לשונו
 
 
+[Rabbi Rachumai continued,] "Another matter: Why is it written, *'YHVH, I have heard of Your renown; I am awed'* (Habakkuk 3:2)? Why is it that when he said, *'Your renown'*, he said, *'I am awed'*, but when he said, *'Within years'* (Habakkuk 3:2), he did not say, *'I am awed'*? It was from *'Your renown'* that *'I am awed'*. What is *'Your renown'*? A place that hears him. And why did he say, *'I have heard [שמעתי]'*? It should have said, 'I understood'. As was written, *'A nation whose language you do not understand [תשמע]'* (Deuteronomy 28:49)."
+
+
 
 ## Siman 70
 
@@ -1000,6 +1055,11 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 
 
 ומ"ט אמר י ר א ת י, משום דאוזן דמות א ל " ף ואלף ר א ש ל כ ל האותיות, ולא עוד אלא אל"ף גורמת לכל האותיות קיומם, ואל"ף דמות המוח, מה אל"ף כשאתה זוכרה אתה פותח פיך כך המחשבה כשאתה חושב לאין סוף ותכלית, ומהאל"ף יצאו כל האותיות, הלא תראה שהיא בתחילתן ואומר (מיכה ב' יג) וה' בראשם, דקיימא לן דכל שם הכתוב ביו"ד ה"א וי"ו ה"א מיוחד הקב"ה ומקודש בקודש, ומאי בקדש, בהיכל הקדש, ואנה היכל הקדש, הוי אומר במחשבה והיינו אל"ף הה"ד (חבקוק שם) ה' שמעתי שמעך יראתי:
+
+
+[Rabbi Rachumai continued,] "And why does it say, *'I am awed'* (Habakkuk 3:2)? Because an ear is in the image of *Aleph, and Aleph is the head of all letters. Further, Aleph causes all of the other letters to stand, and Aleph is the image of the brain. Just as Aleph, when you pronounce her, you open your mouth, so too, thought, when you think toward endlessness and boundlessness.* From the Aleph, all the letters come out. Do you not see that she is the first of them? And it says, 'YHVH is at their head'* (Micah 2:13). It establishes for us that every name that is written with *Yud* *Hei* *Vav* *Hei* is set apart [מיוחד] for the Blessed Holy One and sanctified in holiness. What is in holiness? The holy palace. And where is the holy palace? You must say: in thought. And this is *Aleph, as is written, 'YHVH, I have understood** Your renown; I am awed'* (Habakkuk 3:2).
+*[More literally, "toward no end or limit."]
+**[See previous, #69.]
 
 
 
@@ -1013,6 +1073,10 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 וכן אמר חבקוק תפלתי ידעתי שנתקבלה בתענוג, גם אני התענגתי וכשהגעתי למקום פלוני והבנתי שמעך יראתי, על כן (חבקוק שם) הן פעלך בקרב שנים חייהו, ביחודך, משל למה"ד למלך אמון מופלא ומכוסה שנכנס לביתו וצוה בל יבקשו עליו, על כן המבקש יפחד פן ידע המלך שהוא עובר על מצותו, ולכך אמר יראתי, ה' פעלך בקרב שנים חייהו כך אמר חבקוק הואיל ושמך כך ובך שמך פעלך בקרב שנים חייהו, כן יהיה לעד:
 
 
+[Rabbi Rachumai continued,] "This Habakkuk said, 'I prayed; I know that it was received with delight. I was also delighted, and when I arrived at such-and-such a place, and understood, I heard of Your renown, and I was afraid.'* Therefore, *'Renew Your deeds in the midst of years'* (Habakkuk 3:2) — in Your uniqueness. A parable to which it can it be compared: to a king — faithful, wonderous, and concealed — who enters his house and commands that none will seek him. Because of this, the one who seeks (him) will be afraid, lest the king will know that he trespassed his [the king's] command. Thus, he says, *'I feared [יראתי]*.' *'YHVH, revive Your work in the midst of years’* — thus Habakkuk said, 'Since Your Name is thus, and in You is Your Name,* *‘Renew Your deeds in the midst of years.’ So may it be forever.”
+*[Ed. - This is not a direct quotation from the book of Habakkuk.]*
+
+
 
 ## Siman 72
 
@@ -1022,6 +1086,9 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 
 
 ד"א פעלך בקרב שנים חייהו משל למה"ד למלך שהיה לו מרגלית טובה והיא חמדת מלכותו ובעת שמחתו מחבקה ומנשקה ושמה על ראשו ואוהב אותה, אמר חבקוק אע"פ שהמלאכים. עמך, אותה המרגלית חמדה היא בעולמך, על כן בקרב שנים חייהו, מאי משמע לישנא דשנים, שנאמר (בראשית א' ג) ויאמר אלהים יהי אור, ואין אור אלא יום דכתיב (שם טו) את המאור הגדול לממשלת היום ואת המאור הקטן לממשלת הלילה, והשנים הם מימים הה"ד (חבקוק שם) בקרב שנים חייהו, בקרב אותה המרגלית המולידה את השנים:
+
+
+[Rabbi Rachumai continued,] "Another interpretation: *'Renew Your deeds in the midst of years*' (Habakkuk 3:2) — a parable to which it can be compared: to a king that had a good jewel, and she was the desire of his kingdom. At the time when he is happy, he embraces her, kisses her, places her on his head, and loves her. Habakkuk said, 'Even though the angels are with You, this desired gem — she is in the world!' Thus, *'Renew in the midst of years'.* What is the meaning of the 'years'? As it is said, *'And Elohim said, 'Let there be light''* (Genesis 1:3). There is no light except day, as is written, *'The great light to rule the day and the small light to rule the night'* (Genesis 1:15). Years are [made] from days, as it is written, *'Renew in the midst of years'* — within this gem, who births the years."
 
 
 
@@ -1035,6 +1102,10 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 והכתיב (ישעי' מ"נ ה) ממזרח אביא זרעך, והשמש זורחת במזרח, ואמרת שהמרגלית היא יום, אני לא אמרתי אלא (בראשית א' ה) ויהי ערב ויהי בקר יום, הה"ד (שם ב' ד) ביום עשות ה' אלהים ארץ ושמים:
 
 
+[The students objected,] "But is it not written, *'From the east, I will bring your seed'* (Isaiah 43:5)? The sun rises in the east, and you say that the gem is the day!"
+[Rabbi Rachumai replied,] "I did not say this, rather, *'It was evening, and it was morning, day'* (Genesis 1:5). As it is written, *'In the day, YHVH Elohim made earth and heaven'* (Genesis 2:4)."
+
+
 
 ## Siman 74
 
@@ -1044,6 +1115,10 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 
 
 והכתיב (תהלים י"ח יב) ישת חשך סתרו סביבותיו סוכתו חשכת מים עבי שחקים, א"ל כתיב ביה (ישעי' מ"ה ח) ושחקים יזלו צדק, וצדק זה מדת הדין של עולם שנאמר (דברים טז כ) צדק צדק תרדוף וכתיב בתריה (שם) למען תחיה וירשת את הארץ, אם תדין עצמך תחיה, ואם לאו הוא ידין עליך ותתקיים בעל כרחך:
+
+
+[The students objected,] "But is it not written, *'[God] set darkness as His hiding place, His pavilion around Him, darkness of waters, thick clouds of the skies'* (Psalms 18:12)?"
+He [Rabbi Rachumai] said to them, "It is written about Him, *'The Heavens will rain down righteousness [צדק]'* (Isaiah 45:8). This righteousness is the trait of judgment [דין] of the world, as is said, *'Justice, justice, you will pursue'* (Deuteronomy 16:20), and it is written after it, *'In order that you will live and inherit the earth'* (Ibid.). If you will judge yourself, you will live. If not, He will judge you and enact [the judgment] against your will."
 
 
 
@@ -1057,6 +1132,16 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 ומאי צדק צדק (דברים שם) תרי זימני, א"ל דכתיב (תהלים י"ח יג) מנגה נגדו, צדק ראשין צדק ממש והיא שכינה כדכתיב (ישעי' א' כא) צדק ילין בה, ומאי צדק שני, זה צדק שמפחיד את הצדיקים, והאי צדק הוי צדקה או לא, לאו, ומאי טעם, כדכתיב (שם נ"ט יז) וילבש צדקה כשריון, וצדק הוי כובע ישועה בראשו (שם) ואין ראשו אלא אמת שנאמר (תהלימ קי"ט קס) ראש דברך אמת, ואין אמת אלא שלום שנאמר (ישעי' ל"ט ח) כי יהיה שלום ואמת בימי, אפשר לאדם לומר כך, אלא כך אמר חזקיה אותה המדה שנתת לדוד אבי הוא חצי ימי, ושלום ואמת חצי ימי, על כן הזכיר ימי והזכיר שלום ואמת ובימי שהכל אחד הדא היא דכתיב שלום, (בראשית א' ה) ויהי ערב ויהי בקר יום אחד, מה היום שלום אף הוא בקש שלום שנאמר (מ"ב כ' יט) שלום ואמת יהיה בימי, באותה מדה שנתת לדוד אבי דכתיב (תהלים פ"ט לז) וכסאו כשמש נגדו:
 
 
+[The students asked,] "And why is *'Tzedek, tzedek [צדק]'* (Deuteronomy 16:20) — two times?"
+ [Rabbi Rachumai] said to them, "As is written, *'From the brilliance before Him'* (Psalms 18:13). The first 'tzedek' is actual [ממש] Tzedek, and She is Shechinah, as is written, *'Righteousness [צדק] dwells in Her' (Isaiah 1:21)."
+[They asked,] "And what is the second 'tzedek'?"
+[He answered,] "This is tzedek that frightens the righteous [צדיקים]." 
+[They asked,] "And is this Tzedek Tzedakah or not?"
+[He answered,] "No."
+"Why?"
+"As is written, 'He dons Tzedakah like armor'* (Isaiah 59:17) and Tzedek is *'A helm of redemption on His head'* (Ibid.). There is no 'His head' other than Truth [אמת], as it is said, *'The head of Your words is Truth' (Psalms 119:160), and there is no Truth other than Peace [שלום], as is said, 'For He will be Peace and Truth in my days'* (Isaiah 39:8). Is it possible for a person to say this? Thus, Hezekiah said [that] this trait that You gave to David, my father, is a half day, and peace and truth are half days. Therefore, he mentioned 'my days,' and he mentioned 'peace and truth' and 'in my days', as everything is one, as is written, completeness [שלום] — *'There was evening and there was morning — one day'* Genesis 1:5). Just as the day is Peace, so too He seeks peace as is said *'Peace and truth he will be in my days'* (Genesis 42:19). With this trait that you gave to David, my father, as is written, *'His throne, as the sun, before him'* (Psalms 89:37)."
+
+
 
 ## Siman 76
 
@@ -1066,6 +1151,12 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 
 
 ומאי (חבקוק ג' ב) בקרב שנים תודיע, כך אמר ידעתי שאתה האל הקדוש דכתיב (שמות ט"ו יא) מי כמוכה נאדר בקדש, וקדש בך ואתה בקדש, ואעפ"כ בקרב שנים תודיע, ומאי תודיע, תרחם, כד"א (שם ב' כה) וירא אלהים את בני ישראל וידע אלהים, מאי וידע, משל למה"ד למלך שהיתה לו אשה נאה והעמיד ממנה בנים, וחיבבם וגדלם. ויצאו לתרבות רעה שנאם ושנא אמם. חזרה אמם אליהם ואמרה בני למה אתם עושים כך שאביכם שונא אותי ואתכם, עד שנחמו וחזרו לעשות רצון אביהם, ראה אביהם כך, אהבם כבתחילה וזכר אמם הה"ד (שם) וירא אלהים וגו' וידע וגו', וכתיב (חבקוק שם) ובקרב שנים תודיע:
+
+
+[The students asked,] "And what is, *'Make it known within these years'* (Habakkuk 3:2)?"
+[Rabbi Rachumai responded,] "Thus he said, 'I know that you are the Holy God [אל], as is written, *'Who is like You, majestic in holiness'* (Exodus 15:11) — holiness in You and You in holiness — and despite this (???), *'make it known within these years'*."
+[They asked,] "What is *'make it known'*?"
+[He replied,] "You will have compassion, as it is said, *'Elohim looked at the children of Israel, and Elohim knew [them]'* (Exodus 2:25). What is *'He knew'*? A paraple, to which it is simliar: to a king that can a beautiful wife and he established children up from her, loved them, and raised them. They went out into evil ways, and he hated them and hated their mother. Their mother returned to them and said, 'My children, why are you doing thusly, that your father hates me and you?' Until they were comforted and returned to do the will of their father. Their father saw this, loved them as at first, and remembered their mother, as is written *'And God saw...'* and *'he knew'*, and it is written, *'Make it known within these years'*"
 
 
 
@@ -1079,6 +1170,12 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 ומאי (שם) ברוגז רחם תזכור, אמר בעת שיחטאו לך בני, ותכעוס עליהם, רחם תזכור, ומאי רחם תזכור, אותו שאמר (תהלים י"ח ב) ארחמך ה' חזקי, ונתת לו המדה הזאת שהיא שכינתו של ישראל, וזכר בנו שירשה ונתת לו דכתיב (מ"א ה' כו) וה' נתן חכמה לשלמה, וזכור אביהם אברהם, דכתיב (ישעי' מ"א ח), זרע אברהם אוהבי בקרב שנים תודיע:
 
 
+[The students asked,] "And what is *'Though angry, may You remember love'* (Habakkuk 3:2)?"
+[Rabby Rachumai] said, "At the time that they sin against you, my child, and you are angry with them, remember love."
+[They asked,] "But what is *'May You remember compassion'*?"
+[He responded,] "This is as is said, *'I love You, YHVH, my strength [חזקי]'* (Psalms 18:2). And You gave to him this trait, which is the Shechinah of Israel and remembered his son, who inherited Her. And You gave to him, as is written, *'YHVH gave wisdom to Solomon'* (1 Kings 5:26). He rememberes their father, Abraham, as is written, *'The seed of Abraham, my beloved'* (Isaiah 41:8) — *'Within the years, make it known'* (Habakkuk 3:2)."
+
+
 
 ## Siman 78
 
@@ -1088,6 +1185,12 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 
 
 מהיכן היתה לאברהם בת, דכתיב (בראשית כ"ד א) וה' בירך את אברהם בכל וכתיב, (ישעי' מ"ג ז) כל הנקרא בשמי ולכבודי בראתיו יצרתיו אף עשיתיו, האי ברכה היתה בתו או לא היתה, הן בתו היתה, משל למה"ד למלך שהיה לו עבד תמים ושלם לפניו נסהו בכמה נסיונות ועמד בכלן, אמר המלך מה אתן לעבד זה או מה אעשה לו, אמר אין לי אלא אצונו לאחי הגדול ליעצו ולשמרו ולכבדו, חזר העבד עם אחיו הגדול ולמד מדותיו אהבו האח מאד וקראו אוהבו דכתיב (שם מ"א ח) זרע אברהם אוהבי, אמר מה אתן לו או מה אעשה לו הנה כלי נאה עשיתי ובו מרגליות נאות אין כמותם סגולות מלכים אתננה לו ויזכה במקומו הה"ד וה' בירך את אברהם בכל:
+
+
+[The students asked,] "From where is it that Abraham had a daughter?" 
+[Rabbi Rachumai responded,] "As it is written, *'YHVH blessed Abraham with everything [בכל]'* (Genesis 24:1), and it is written, *'All who are called by My name and who, for My Glory, I created, I formed him, indeed, I made him'* (Isaiah 43:7)." 
+[They asked,] "Was this blessing his daughter or not?"
+[He replied,] "Yes, she was his daughter. A parable to which it can be compared: to a king that had a servant, perfect and complete, before him. He tested him with many tests, and he withstood all of them. The king said, 'What will I give to this servant, and what will I do for him?' He said, 'I do not have anything, but I will command my older brother to advise, protect, and honor him.' The servant returned with his his older brother and learned his traits. The brother loved him greatly and called him his love, as is written, *'The seed of Abraham, my beloved'*(Isaiah 41:8). He said, 'What will I give to him, and what will I do for him?' Behold, I have made a beautiful vessel, and in it are beautiful pearls. There is nothing like them amongst kings' treasures. I will give it to him and he will merit his place, as is written, *'YHVH blessed Abraham with everything [בכל]'* (Genesis 24:1)."
 
 
 
@@ -1101,6 +1204,9 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 ד"א שמעתי שמעך יראתי (חבקוק ג' ב) הבנתי שמעך יראתי, מה הבין שנתירא, הבין מחשבתו של הקב"ה, מה מחשבה אין לה קץ דהא חשיב אינש ושפיל לסופיה דעלמא אף האזן אין לה קץ ולא תשבע דכתיב (קהלת א' ח) דלא תמלא אזן משמוע, ומאי זיי"ן באוזן, מאי טעמא, מפני שהאזן דמות אל"ף, ואל"ף עיקריהן דעשרת הדברות הלכך לא תמלא האזן משמוע:
 
 
+[Rabbi Rachumai continued,] "Another interpretation: *'I have heard of Your renown; I am awed'* (Habakkuk 3:2). [Meaning,] 'I understood Your renown; I am awed.' What did he understand, such that he was awed? He understood the thought of the Blessed Holy One. Just as there is no end to the thought of a person, which can carry to the end of the world, so too, the ear does not have an end and is not sated, as is written, *'The ear is not filled from hearing'* (Ecclesiastes 1:8). Why is [the letter] *Zayin* in ear [אוזן]? Why? Because the ear is in the image of [the letter] *Aleph*, and *Aleph is essence of the ten utterances. Thus, 'the ear is not filled from hearing.'*"
+
+
 
 ## Siman 80
 
@@ -1110,6 +1216,11 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 
 
 ומאי זיי"ן דכתיב באזן, דהא אמרינן כל מה שהביא הקדוש ברוך הוא בעולמו שם מעניינו דכתיב (בראשית כ' י"ט) וכל אשר יקרא לו האדם נפש חיה הוא שמו, כלומר הוא גופו הוי כך, ומנלן דשמו גופו הוי דכתיב (משלי י' ז) זכר צדיק לברכה ושם רשעים ירקב, אטו שמו ירקב אלא גופו, הכי נמי גופו:
+
+
+[The students asked,] "But why is *Zayin* written in 'ear'
+[Rabbi Rachumai responded,] "This is as we have said: all that the Blessed Holy One brings into His world, its name is from its essence, as is written, *'Whatever the Adam called each living creature [נפש חיה], that was its name'* (Genesis 2:19) — that is to say, its body was thus. Where do we learn that one's name becomes its body? As is written, *'The name of a righteous person is invoked in blessing, but the name of the wicked rots'* (Proverbs 10:7). Does a name rot?* Rather, it means the body. Here too, [it means] his body."
+*Manuscripts read מרקב as opposed to ירקב.
 
 
 
@@ -1123,6 +1234,13 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 כגון מאי, כגון שרש דשי"ן, דומיא דשרש האילן, ושורש כל האילן הוא מעוקם, ושי"ן בתרא מאי עבידתיה, ללמדך שאם תקח ענף ותטעהו ישוב שרש, זיי"ן מאי עבידתיה, כמנין ימי השבוע, ללמדך שכל יום יש לו ומאי עבידתיה הכא, ללמדך שיש חכמה גדולה באוזן לאין תכלית כך יש הכח בכל האיברים:
 
 
+"[Rabbi Rachumai continued,] ""What is this like? It is like the root of the *Shin*, [which has] resemblance to the root of the tree, and the root of all the tree is from its essence.* The *Shin* afterwards, what does it do? To teach you that if you take a branch and plant it, a root is made.""**
+[Again, his students asked,] ""A *Zayin*, what does it do?""
+[He replied,] ""Like the number of days of the week. To teach you that every day has its power.***
+[They asked,] ""And what does it do here?""
+[He replied, ""It is] to teach you that there is great wisdom in the ear, to no end. Thus, there is strength in all the organs.""
+
+
 
 ## Siman 82
 
@@ -1132,6 +1250,11 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 
 
 ומאי איברים שבע שיש באדם, דכתיב (בראשית ט' ו) כי בצלם אלהים עשה את האדם, וכתיב (שם א כ"ז) בצלם אלהים ברא אותו, בכל איבריו ובכל חלקיו, והא אמרינן ו' למה הוא דומה לעוטה אור כשלמה (תהלים ק"ד ה), דהא ו' אינו אלא שש קצות, א"ל ברית מילה וזוגו של אדם חשבינן חד ושתי ידיו שלשה, ראשו וגופו חמשה שתי שוקיו שבעה, וכנגדן כוחותם בשמים דכתיב (קהלת ז' יד) גם את זה לעומת זה עשה האלהים, והיינו ימים (שמות ל"א יז) כי ששת ימים עשה ה' את השמים ואת הארץ, ולא אמר בששת ימים מלמד כי כל יום ויום יש לו כחו:
+
+
+*Manuscripts read ""מעיקרו"", which can read ""from its essence"" or ""from its root"". Sefaria's ""מעוקם"" could mean ""from its rung"". 
+**Other versions say, ""שנעשה"".
+***Other versions say, ""יש לו כח""."
 
 
 
@@ -1145,6 +1268,13 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 ומאי נו"ן, ללמדך שהמוח הוא עיקר חוט השדרה, ומשם הוא שואף תמיד, אלמלא חוט השדרה לא יתקיים המוח, ובלי מוח לא יתקיים הגוף, כי כל הגוף הוא לצורך המוח, ואם לא יתקיים כל הגוף לא יתקיים המוח, על כן חוט השדרה מריק לכל הגוף מן המוח, והיא נו"ן כפופה, והא נו"ן זאת ארוכה היא, נו"ן ארוכה לעולם בהשלמת המלה, ללמדך שנו"ן ארוכה כוללת הכפופה וארוכה, אבל כפופה יסוד, ללמדך שנו"ן ארוכה כלולה מזכר ונקבה:
 
 
+"[The students asked,] ""And why are there seven limbs in a person?""
+[Rabbi Rachumai answered,] ""As is written, *'In the image of Elohim, He created the person'* (Genesis 9:6), and it is written, *'In the image of Elohim, He created them'* (Genesis 1:27). In all of h/His limbs and in all of h/His portions.""
+ [They objected,] ""Thus we have said: why six?""*
+[He responded,] ""to *'wrap light like a robe'* (Psalms 104:2). These six are six borders.""
+They said to him, ""Circumcision and the partner of a person, we think of as one, and the two hands are three. His head and body are five, two thighs are seven. Corresponding to them, their forces in heaven, as is written, *'Also, Elohim created this opposite that'* (Kohelet 7:14). And these are days, *'That six days, God created the heavens and the earth'* (Exodus 31:17). It does not say 'in six days,' teaching that every single day has its strength.""
+
+
 
 ## Siman 84
 
@@ -1154,6 +1284,9 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 
 
 מ"ם פתוחה, מאי מ"ם פתוחה, כלולה מזכר ונקבה, מ"ם סתומה מאי, עשויה היא כמין בטן מלמעלה, והא אמר רבי רחומאי, הבטן כמין ט, ההוא דאמר כמין ט בפנים, אנא דאמרו כמין ט בחוץ:
+
+
+**See above, number 57.*"
 
 
 
@@ -1167,6 +1300,10 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 ומאי מ"ם, אל תקרי מ"ם אלא מים מה המים הללו לחים אף הבטן לח לעולם, ולמה מ"ם פחותה כלולה מזכר ונקבה וסתומה זכר, ללמדך שעיקר המ"ם הוא זכר, והוסיפה פתוחה לשם נקבה, ומה הזכר הזה אינו מוליד בפתיחה אף מ"ם סתומה אינה מולדת אלא בפתוחה, ומה הנקבה מולידה בפתוחה אף מ"ם סתומה ופתוחה. לט:
 
 
+"[The students asked,] ""And what is *Nun* [in the word *ozen*]?""
+[Rabbi Rachumai responded,] ""To teach you that the brain is the essence of spinal cord, and from there, he always draws [שואב].* If it were not for the spinal cord, the brain would not exist, and without the brain the body could not exist. All of the body is for the sake of the brain, and if the whole body does not exist, the brain cannot exist. Therefore, the spinal cord pours out to the whole body from the brain. And this is the bent *Nun*. But this *Nun*[, the one in *ozen*,] is straight [i.e., the final *Nun*]. The straight *Nun* is always in the completion of a word, to teach you that a straight *Nun* contains the bent and the straight. But the bent Yesod, to teach you that the straight *Nun* includes from masculine and feminine.""
+
+
 
 ## Siman 86
 
@@ -1176,6 +1313,9 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 
 
 ומה ראית לרבות מ"ם בפתיחה וסתימה, משום דאמרינן אל תקרי מ"ם אלא מים, והאשה קרה על כן צריכה להתחמם בזכר, ומה ראית לרבות נו"ן כפופה וארוכה דכתיב (תהלים ע"ב יז) לפני שמש ינון שמו, משני נוני"ן, נו"ן כפופה וארוכה, וצריך להיות ע"י זכר ונקבה:
+
+
+**Other manuscripts say שואב, which mirrors the later מריק.*"
 
 
 
@@ -1189,6 +1329,14 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 כתיב (קהלת א' ח) ולא תמלא אזן משמוע, וכתיב (שם) ולא תשבע עין לראות, מלמד ששניהם שואבים מן המחשבה, ומאי מחשבה, מלך שצריכים לו כל מה שנברא העולם בעליונים ובתחתונים:
 
 
+[The students asked,] "Open *Mem* — what is an open *Mem*?"
+[Rabbi Rachumai responded,] "She includes from masculine and feminine."
+[The students followed up,] "What is a closed *Mem*?
+[He responded,] "She is fashioned like a womb above."
+[The students objected,] "But Rabbi Rachumai said that the belly is like a *Tet*
+[He replied,] "That one said it is like a *Tet* inside; I say it is like a *Tet* outside."
+
+
 
 ## Siman 88
 
@@ -1198,6 +1346,12 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 
 
 ומאי הוה הא דאמרינן עלה במחשבה, ולא אמרינן ירד, דהא אמרינן המסתכל בצפיית המרכבה ירד ואח"כ יעלה, התם משום דאמרינן המסתכל בצפיית המרכבה, וצפיית מתרגמינן סכותא ואמרינן (ישעי' כ"א ח) ויקרא אריה על מצפה אדני, הכא במחשבה לית ליה צפייה כלל ולית ליה תכלית כלל, וכל דלית ליה תכלית וסוף לית ליה ירידה, כדאמרי אינשי ירד פלוני לסוף דעתו של חבירו לא לסוף מחשבתו:
+
+
+"[The students asked,] ""And what is a *Mem*?""
+[Rabbi ___ responded,] ""Do not say *Mem*, rather water [מים]. Just as these waters are wet, so too the belly is always wet.""
+[They asked,] ""And why does the open *Mem* include from masculine and feminine, but the closed *Mem* [only] masculine?""
+[He replied,] ""To teach you that the essence of *Mem* is masculine and its end is open for the sake of the feminine. Just as this masculine does not beget in her opening, so too, the closed *Mem* is not open.* And just as the feminine gives birth and is open, so too, the *Mem* is closed and open.**""
 
 
 
@@ -1211,6 +1365,9 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 ישב רבי אמוראי ודרש מאי דכתיב סגול, אלא סגולה שמה כדאיתא לעיל, בתר זרקא, מ"ט זרקא, כשמו כן הוא דהוא נזרק כגון דבר הנזרק ובתריה אתיא סגולת מלכים והמדינות:
 
 
+*[This is a variant manuscript. Sefaria says, ""Just as this masculine does not beget in/through an opening, so too, the closed *Mem* only births through the open one [i.e., the *Mem*]].""
+
+
 
 ## Siman 90
 
@@ -1220,6 +1377,9 @@ He said to them, "I will explain gold first. Why gold? It teaches that judgment 
 
 
 ומ"ט זרקא, דכתיב (יחזקאל ג' מב) ברוך כבוד ה' ממקומו, מכלל דליכא דידע את מקומו, ואמרינן שם אתגא ואתיא לראש קונה, דכתיב (בראשית י"ד יט) קונה שמים וארץ, וכד אזלא הוי כזרקא וסגולה אבתריה והוי בראש כל אותיות:
+
+
+**[This is a variant manuscript. Sefaria says, ""Just as the feminine gives birth through the open [*Mem*], so too, the *Mem* is closed and open.""]"
 
 
 
@@ -2384,9 +2544,6 @@ And what would the tree be that you spoke of? He said to him: [It is] the powers
 
 
 מפני מה צדיק וטוב לו צדיק ורע לו, מפני שהצדיק הזה כבר היה רשע לשעבר ועתה נענש, וכי מענשין על ימי הנערות, והאמר ר' סימון שאין מענשין בבית דין של מעלה אלא מבן עשרים שנה ומעלה, אמר ליה אנא לא בחיי אמרי, אנא דאמרי שכבר היה לשעבר אמרו לו חביריו עד מתי תסתום דבריך, אמר להם צאו וראו משל למה"ד לאדם שנטע בגנו כרם ויקו לעשות ענבים ויעש באושים, ראה שלא הצליח נטעו גדרו ופרצו ונקה הגפנים מן הבאושים ונטעו עוד שנית ראה שלא הצליח גדרו נטעו אחר שנקה וראה שלא הצליח ועקרו ונטעו עד כמה, א"ל לאלף דור דכתיב (תהלים ק"ה ח) דבר צוה לאלף דור, והיינו דאמרו, תתקע"ד דורות חסרו ועמד הקב"ה ושתלן בכל דור ודור:
-
-
-Why do [we encounter the paradox of] the righteous with a life of difficulties [and wicked who enjoy a life of ease]? The reason is that the person whom we respect as a righteous individual was wicked in the past, and is now being punished. This raises the question of whether we punish a person for what they did in their youth years. And didn't Rabbi Simon say that the heavenly tribunal does not punish anyone under the age of 20? To this someone replied it is not the immaturity in his present life, but sins committed on a past occasion. Upon hearing this his colleagues wanted to know: ”how long will you speak in riddles?” He replied: go and see an allegory: a person who had planted a vineyard in his backyard hoping that it would produce grapes. When he found out that some of the vines produced some berries instead of the grapes, what did he do? He separated them, took out the vines from the berry bushes, and planted the vines a second time. When he found that it was not completely successful, he repeated the procedure a third time. When it was not completely successful again he did not give up but continued the treatment of the vine. And how many times [would this happen?], he was asked. He answered to them: up to 1000 times as it is written “God commanded a matter even if would take 1000 generations” (Psalms 108:5). This is why our sages say that God did not give the Torah until after 974 generations but God acted by planting a few of them in every generation (Chagigah 13b, Shabbat 88b).
 
 
 

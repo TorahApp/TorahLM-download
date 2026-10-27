@@ -2461,7 +2461,7 @@ He replied to the people of Penueil as well, saying, "Upon my peaceful return, I
 וְזֶ֨בַח וְצַלְמֻנָּ֜ע בַּקַּרְקֹ֗ר וּמַחֲנֵיהֶ֤ם עִמָּם֙ כַּחֲמֵ֤שֶׁת עָשָׂר֙ אֶ֔לֶף כֹּ֚ל הַנּ֣וֹתָרִ֔ים מִכֹּ֖ל מַחֲנֵ֣ה בְנֵי־קֶ֑דֶם וְהַנֹּ֣פְלִ֔ים מֵאָ֨ה וְעֶשְׂרִ֥ים אֶ֛לֶף אִ֖ישׁ שֹׁ֥לֵֽף־חָֽרֶב׃
 
 
-Zevach and Tzalmuna were at Karkor, accompanied by their camps, approximately fifteen thousand men—all the survivors of the entire camp of the Eastern peoples. Those that fell numbered one hundred thousand swordsmen.
+Zevach and Tzalmuna were at Karkor, accompanied by their camps, approximately fifteen thousand men—all the survivors of the entire camp of the Eastern peoples. Those that fell numbered one hundred and twenty thousand swordsmen.
 
 
 ###### Judges 8:11

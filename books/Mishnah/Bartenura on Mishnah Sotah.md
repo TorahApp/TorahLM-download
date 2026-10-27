@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Torat-Emet (Segments: 322, License: CC-BY-NC)
 
-Version (En): Bartenura on Mishnah, trans. by Rabbi Robert Alpert, 2020 (Segments: 310)
+Version (En): Bartenura on Mishnah, trans. by Rabbi Robert Alpert, 2020 (Segments: 311)
 
 
 ## Chapter 1
@@ -2034,7 +2034,7 @@ And it comes from grits–unsifted flour, and this does not require oil or frank
 **עֵדוּת הָרִאשׁוֹנָה.** סְתִירָה:
 
 
-עדות הראשונה – her retirement under suspicious circumstances which does not make her forbidden [to her husband] eternally other than until she drinks [the bitter waters].
+עדות הראשונה – her retirement under suspicious circumstances
 
 
 ###### Bartenura on Mishnah Sotah 6:3:3
@@ -2045,7 +2045,7 @@ And it comes from grits–unsifted flour, and this does not require oil or frank
 **שֶׁאֵין אוֹסַרְתָּהּ אִסּוּר עוֹלָם.** אֶלָּא עַד שֶׁתִּשְׁתֶּה:
 
 
-אינה מתקיימת בפחות משנים – since we require to state from an analogy–Gezerah Shavah, and this is Rabbi Yehoshua’s view.
+which does not make her forbidden [to her husband] eternally other than until she drinks [the bitter waters].
 
 
 ###### Bartenura on Mishnah Sotah 6:3:4
@@ -2056,7 +2056,7 @@ And it comes from grits–unsifted flour, and this does not require oil or frank
 **אֵינָהּ מִתְקַיֶּמֶת בְּפָחוֹת מִשְּׁנַיִם.** כִּדְבָעִינַן לְמֵימַר מִגְּזֵרָה שָׁוָה, וְרַבִּי יְהוֹשֻׁעַ הִיא:
 
 
-עדות האחרונה – ritual impurity.
+אינה מתקיימת בפחות משנים – since we require to state from an analogy–Gezerah Shavah, and this is Rabbi Yehoshua’s view.
 
 
 ###### Bartenura on Mishnah Sotah 6:3:5
@@ -2067,7 +2067,7 @@ And it comes from grits–unsifted flour, and this does not require oil or frank
 **עֵדוּת הָאַחֲרוֹנָה.** טֻמְאָה:
 
 
-כל [עדות] שיש בה – it is believed concerning her, as it is written (Numbers 5:13): “and there is no witness against her,” and all mentions of the word "עד"–witness that is mentioned in the Torah, undefined, is not other than two, as it necessitated the Bible to state (Deuteronomy 19:15): “A single witness may not validate against a person [any guilt or blame for any offense that may be committed: a case can be valid only on the testimony of two witnesses or more].” We learn from this that "עד"–witness implies two [witnesses], until the Biblical verse explicitly specifies one [witness]. And as it states, that she was not caught to be forbidden, so we see that one witness is believed.
+עדות האחרונה – ritual impurity.
 
 
 ###### Bartenura on Mishnah Sotah 6:3:6
@@ -2076,6 +2076,9 @@ And it comes from grits–unsifted flour, and this does not require oil or frank
 
 
 **כָּל עֵדוּת שֶׁיֵּשׁ בָּהּ.** נֶאֱמָן בָּהּ, דִּכְתִיב וְעֵד אֵין בָּהּ, וְכָל עֵד הָאָמוּר בַּתּוֹרָה סְתָם אֵינוֹ אֶלָּא שְׁנַיִם, מִדְּאִצְטְרִיךְ קְרָא לוֹמַר (דברים יט) לֹא יָקוּם עֵד אֶחָד בְּאִישׁ, שְׁמַע מִנָּהּ דְּעֵד שְׁנַיִם בַּמַּשְׁמָע, עַד שֶׁיִּפְרֹט לְךָ הַכָּתוּב אֶחָד. וְהָכִי קָאָמַר קְרָא, תְּרֵי לֵית בָּהּ אֶלָּא חַד, וְקָאָמַר וְהִיא לֹא נִתְפָּסָה, לְאוֹסְרָהּ, אַלְמָא עֵד אֶחָד מְהֵימָן:
+
+
+כל [עדות] שיש בה – it is believed concerning her, as it is written (Numbers 5:13): “and there is no witness against her,” and all mentions of the word "עד"–witness that is mentioned in the Torah, undefined, is not other than two, as it necessitated the Bible to state (Deuteronomy 19:15): “A single witness may not validate against a person [any guilt or blame for any offense that may be committed: a case can be valid only on the testimony of two witnesses or more].” We learn from this that "עד"–witness implies two [witnesses], until the Biblical verse explicitly specifies one [witness]. And as it states, that she was not caught to be forbidden, so we see that one witness is believed.
 
 
 

@@ -1,6 +1,6 @@
 # Korban Netanel on Taanit
 
- קרבן נתנאל על תענית
+קרבן נתנאל על תענית
 
 Link: [https://torahapp.org/share/book/Korban%20Netanel%20on%20Taanit](https://torahapp.org/share/book/Korban%20Netanel%20on%20Taanit)
 

@@ -14,9 +14,9 @@ Location: Halakhah/Mishneh Torah/Sefer Madda
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Torat Emet 363 (Segments: 70, License: Public Domain)
+Version (He): Wikisource Mishneh Torah (Segments: 70, License: CC-BY-SA)
 
-Version (En): Mishneh Torah, trans. by Eliyahu Touger. Jerusalem, Moznaim Pub. c1986-c2007 (Segments: 70)
+Version (En): Sefaria Community Translation (Segments: 70)
 
 
 ## Chapter 1
@@ -156,7 +156,7 @@ When does the above apply? In regard to sins between man and man. However, in re
 [https://torahapp.org/share/book/Mishneh%20Torah%2C%20Repentance/r/2:6](https://torahapp.org/share/book/Mishneh%20Torah%2C%20Repentance/r/2:6)
 
 
-אַף עַל פִּי שֶׁהַתְּשׁוּבָה וְהַצְּעָקָה יָפָה לָעוֹלָם. בַּעֲשָׂרָה הַיָּמִים שֶׁבֵּין רֹאשׁ הַשָּׁנָה וְיוֹם הַכִּפּוּרִים הִיא יָפָה בְּיוֹתֵר וּמִתְקַבֶּלֶת הִיא מִיָּד שֶׁנֶּאֱמַר (ישעיה נה ו) "דִּרְשׁוּ ה' בְּהִמָּצְאוֹ". בַּמֶּה דְּבָרִים אֲמוּרִים בְּיָחִיד אֲבָל צִבּוּר כָּל זְמַן שֶׁעוֹשִׂים תְּשׁוּבָה וְצוֹעֲקִין בְּלֵב שָׁלֵם הֵם נַעֲנִין שֶׁנֶּאֱמַר (דברים ד ז) "כַּה' אֱלֹהֵינוּ בְּכָל קָרְאֵנוּ אֵלָיו":
+אַף עַל פִּי שֶׁהַתְּשׁוּבָה וְהַצְּעָקָה יָפָה לְעוֹלָם. בַּעֲשָׂרָה הַיָּמִים שֶׁבֵּין רֹאשׁ הַשָּׁנָה וְיוֹם הַכִּפּוּרִים הִיא יָפָה בְּיוֹתֵר וּמִתְקַבֶּלֶת הִיא מִיָּד שֶׁנֶּאֱמַר (ישעיה נה ו) "דִּרְשׁוּ ה' בְּהִמָּצְאוֹ". בַּמֶּה דְּבָרִים אֲמוּרִים בְּיָחִיד אֲבָל צִבּוּר כָּל זְמַן שֶׁעוֹשִׂים תְּשׁוּבָה וְצוֹעֲקִין בְּלֵב שָׁלֵם הֵם נַעֲנִין שֶׁנֶּאֱמַר (דברים ד ז) "כַּה' אֱלֹהֵינוּ בְּכָל קָרְאֵנוּ אֵלָיו":
 
 
 Even though repentance and calling out [to God] are desirable at all times, during the ten days between Rosh HaShanah and Yom Kippur, they are even more desirable and will be accepted immediately as [Isaiah 55:6] states: "Seek God when He is to be found."

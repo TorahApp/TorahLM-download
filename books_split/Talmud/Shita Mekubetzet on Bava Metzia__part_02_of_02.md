@@ -14,9 +14,9 @@ Location: Talmud/Bavli/Acharonim on Talmud/Shita Mekubetzet/Seder Nezikin
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Warsaw, 1901 (Segments: 3793, License: Public Domain)
+Version (He): Warsaw, 1901 (Segments: 3794, License: Public Domain)
 
-Version (En): Vilna Ed (Segments: 5)
+Version (En): Sefaria Community Translation (Segments: 5)
 
 # Shita Mekubetzet on Bava Metzia — part 2 of 2
 

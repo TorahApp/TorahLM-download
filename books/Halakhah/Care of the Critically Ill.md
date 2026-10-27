@@ -14,133 +14,9 @@ Location: Halakhah/Modern
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Iggerot Moshe, New York, 1985 (Segments: 283, License: CC-BY)
+Version (He): Responsa of Rav Moshe Feinstein, trans. by Moshe David Tendler; Vol. 1: Care of the Critically Ill, Hoboken, NJ: Ktav, 1996. (Segments: 272)
 
-Version (En): Responsa of Rav Moshe Feinstein, trans. by Moshe David Tendler; Vol. 1: Care of the Critically Ill, Hoboken, NJ: Ktav, 1996. (Segments: 283)
-
-
-## Preface
-
-###### Care of the Critically Ill, Preface 1
-
-[https://torahapp.org/share/book/Care%20of%20the%20Critically%20Ill/s/Preface/r/1](https://torahapp.org/share/book/Care%20of%20the%20Critically%20Ill/s/Preface/r/1)
-
-
-וזאת הברכה אשר ברך משה איש אלקים … מה איש אלקים? חציו למטה—איש. חציו ולמעלה—אלקים. (דברים רבה יא:ד) E esta é a bênção que Moshé, o homem de Deus, abençoou… O que significa "homem de Deus"? Metade para baixo—homem (ish). Metade para cima—Deus (Elokim). (Devarim Rabá 11:4)
-
-
-וזאת הברכה אשר ברך משה איש אלקים … מה איש אלקים? חציו למטה—איש. חציו ולמעלה—אלקים. (דברים רבה יא:ד)
-
-
-###### Care of the Critically Ill, Preface 2
-
-[https://torahapp.org/share/book/Care%20of%20the%20Critically%20Ill/s/Preface/r/2](https://torahapp.org/share/book/Care%20of%20the%20Critically%20Ill/s/Preface/r/2)
-
-
-Por trinta e oito anos, minha família e eu fomos abençoados com a presença de meu santo sogro, que foi, de fato, um exemplo de um ish Elokim, metade ish e metade Elokim, alguém que fundiu ambas as metades em uma harmonia perfeita, agradando tanto a Deus quanto ao homem.
-
-
-For thirty-eight years my family and I were blessed by the presence of my sainted father-in-law, who was indeed an exemplar of an איש אלקים, half איש and half אלקים, one who melded both halves into a harmonious whole, pleasing both to God and man.
-
-
-###### Care of the Critically Ill, Preface 3
-
-[https://torahapp.org/share/book/Care%20of%20the%20Critically%20Ill/s/Preface/r/3](https://torahapp.org/share/book/Care%20of%20the%20Critically%20Ill/s/Preface/r/3)
-
-
-Por quase meio século, "Reb" Moshe Feinstein זצוק"ל foi a consciência moral e haláchica da comunidade da Torá. Em nenhum lugar sua liderança foi mais sentida do que na área da medicina de cuidados intensivos, onde sua empatia, sensibilidade e integridade intelectual foram amplamente reconhecidas.
-
-
-For almost half a century "Reb" Moshe Feinstein זצוק"ל was the moral and halakhic conscience of the Torah community. Nowhere was his leadership more keenly felt than in the area of critical care medicine, where his empathy, sensitivity, and intellectual integrity were so widely recognized.
-
-
-###### Care of the Critically Ill, Preface 4
-
-[https://torahapp.org/share/book/Care%20of%20the%20Critically%20Ill/s/Preface/r/4](https://torahapp.org/share/book/Care%20of%20the%20Critically%20Ill/s/Preface/r/4)
-
-
-O principal meio pelo qual expressava suas conclusões haláchicas era a teshuvá (resposta rabínica), que frequentemente é um mero resumo de uma longa e complexa análise à qual cada questão era submetida. Em resposta às suas instruções a mim, forneci uma interpretação dessas responsa, cujo significado interpretativo completo tive o privilégio de ouvir do próprio Reb Moshe זצוק"ל durante os longos anos em que estudei com ele.
-
-
-The major vehicle for his expression of his halakhic conclusions was the *teshuvah*, which is often a mere abstract of a long chain of complex analysis to which each question was subjected. In response to his instructions to me, I have provided an interpretive rendering of these responsa, whose full interpretive breadth I was privileged to hear from Reb Moshe זצוק"ל himself during the long years I studied with him.
-
-
-###### Care of the Critically Ill, Preface 5
-
-[https://torahapp.org/share/book/Care%20of%20the%20Critically%20Ill/s/Preface/r/5](https://torahapp.org/share/book/Care%20of%20the%20Critically%20Ill/s/Preface/r/5)
-
-
-Os volumes subsequentes se concentrarão nos seguintes temas: "O Início da Vida", "As Leis do Shabat e das Festas" e "Leis de Casamento, Divórcio e Conversão".
-
-
-Subsequent volumes will focus on the following topics: "The Beginning of Life," "Sabbath and Holiday Laws," and "Laws of Marriage, Divorce and Conversion."
-
-
-###### Care of the Critically Ill, Preface 6
-
-[https://torahapp.org/share/book/Care%20of%20the%20Critically%20Ill/s/Preface/r/6](https://torahapp.org/share/book/Care%20of%20the%20Critically%20Ill/s/Preface/r/6)
-
-
-כל מי שנאמר הלכה בשמו העולם הזה. שפתותיו דובבות בקבר. שנאמר "דובב שפת ישנים" (שיר שירים ז:י). (סנהדרין צי ע"א) "Todo aquele cujo ensinamento é mencionado em seu nome, seus lábios murmuram no túmulo, como está dito: ‘Os lábios dos adormecidos murmuram’" (Cântico dos Cânticos 7:10, Sanhedrin 90a).
-
-
-כל מי שנאמר הלכה בשמו העולם הזה. שפתותיו דובבות בקבר. שנאמר "דובב שפת ישנים" (שיר שירים ז:י). (סנהדרין צי ע"א)
-
-
-###### Care of the Critically Ill, Preface 7
-
-[https://torahapp.org/share/book/Care%20of%20the%20Critically%20Ill/s/Preface/r/7](https://torahapp.org/share/book/Care%20of%20the%20Critically%20Ill/s/Preface/r/7)
-
-
-Agora, após seu falecimento, precisamos ainda mais da orientação que ele oferecia tão modestamente durante sua vida, e o estudo de sua obra não apenas nos guiará no caminho da Torá, mas também servirá para imortalizar seus ensinamentos e sua pessoa dentro da comunidade eterna de Israel.
-
-
-Now, after his passing, we need the guidance he dispensed so modestly during his lifetime all the more, and our study of his work will not only serve to guide us in seeking the way of Torah, but will also serve to memorialize and eternalize his teachings and his person within the timeless community of Israel.
-
-
-###### Care of the Critically Ill, Preface 8
-
-[https://torahapp.org/share/book/Care%20of%20the%20Critically%20Ill/s/Preface/r/8](https://torahapp.org/share/book/Care%20of%20the%20Critically%20Ill/s/Preface/r/8)
-
-
-Que sua memória sirva como um padrão pelo qual avaliamos nossos próprios esforços para a melhoria pessoal na observância da Torá e de seus costumes.
-
-
-May his memory serve as a measure by which we judge our own strivings for self-improvement in observance of Torah law and custom.
-
-
-###### Care of the Critically Ill, Preface 9
-
-[https://torahapp.org/share/book/Care%20of%20the%20Critically%20Ill/s/Preface/r/9](https://torahapp.org/share/book/Care%20of%20the%20Critically%20Ill/s/Preface/r/9)
-
-
-Moshe Dovid Tendler
-
-
-Moshe Dovid Tendler
-
-
-###### Care of the Critically Ill, Preface 10
-
-[https://torahapp.org/share/book/Care%20of%20the%20Critically%20Ill/s/Preface/r/10](https://torahapp.org/share/book/Care%20of%20the%20Critically%20Ill/s/Preface/r/10)
-
-
-חתנא דבי נשיאה
-
-
-חתנא דבי נשיאה
-
-
-###### Care of the Critically Ill, Preface 11
-
-[https://torahapp.org/share/book/Care%20of%20the%20Critically%20Ill/s/Preface/r/11](https://torahapp.org/share/book/Care%20of%20the%20Critically%20Ill/s/Preface/r/11)
-
-
-חתנא דבי נשי
-
-
-חתנא דבי נשי
-
+Version (En): Preface - français  (Segments: 272)
 
 
 ## Responsa of Rav Moshe Feinstein
@@ -1825,7 +1701,7 @@ I will now clarify the view of Rav Shlomo Zalman Auerbach .זצ"ל
 [https://torahapp.org/share/book/Care%20of%20the%20Critically%20Ill/s/Responsa%20of%20Rav%20Moshe%20Feinstein,_Clarification%20of%20the%20Halakhic%20Rulings%20of%20Rav%20Moshe%20Feinstein%20and%20of%20Rav%20Shlomo%20Zalman%20Auerbach%20in%20Regard%20to%20Brain%20Death/r/14](https://torahapp.org/share/book/Care%20of%20the%20Critically%20Ill/s/Responsa%20of%20Rav%20Moshe%20Feinstein,_Clarification%20of%20the%20Halakhic%20Rulings%20of%20Rav%20Moshe%20Feinstein%20and%20of%20Rav%20Shlomo%20Zalman%20Auerbach%20in%20Regard%20to%20Brain%20Death/r/14)
 
 
-אחר שכתבתי אליו חשובה ארוכה להסביר את עמדת מו״ח ולברר את המצב הרפואי של החולה, בעיקר את העובדה שמוחו נהרס מכיון שהחמצן אינו מגיע למוחו משום הפסקת זרם הדם, שזהו מה שגורם למיתת המוח, כתב הגאון לשואל בכ״ב טבת תשנ״ב, ונדפס בנשמת אברהם: ״לענ״ד נראה דחולה שזקוק להשתלה בארה׳׳ב יתכן שאינו כשופך דמים כי לפי תיאורו של הרב טנדלר הוא התורם מקבל זריקה רדיואקטיבי...לראות אם זרם הדם מגיע למוח...ואם באמת יעשו כן הרופאים דעתי העניה שזה יהיה תלוי במה שעתיד להתברר שאם בלי מוח כלל...עדיין יכולה כשבה מעוברת הצמודה למכשיר הנשמה להמשיך לגדל בבטנה את העובר שבמעיה...ודבר זה יתברר בעוד מספר ימים...לכן הנני חושב שאם הרופאים יקיימו ויעשו הזריקות דלעיל נראה לענ״ד דלכאורה ה״ז חשוב כהותז ראשו או נשבר מפרקתו של זקן דחשיב כמת גם בלי רוב בשר״.
+אחר שכתבתי אליו תשובה ארוכה להסביר את עמדת מו״ח ולברר את המצב הרפואי של החולה, בעיקר את העובדה שמוחו נהרס מכיון שהחמצן אינו מגיע למוחו משום הפסקת זרם הדם, שזהו מה שגורם למיתת המוח, כתב הגאון לשואל בכ״ב טבת תשנ״ב, ונדפס בנשמת אברהם: ״לענ״ד נראה דחולה שזקוק להשתלה בארה׳׳ב יתכן שאינו כשופך דמים כי לפי תיאורו של הרב טנדלר הוא התורם מקבל זריקה רדיואקטיבי...לראות אם זרם הדם מגיע למוח...ואם באמת יעשו כן הרופאים דעתי העניה שזה יהיה תלוי במה שעתיד להתברר שאם בלי מוח כלל...עדיין יכולה כשבה מעוברת הצמודה למכשיר הנשמה להמשיך לגדל בבטנה את העובר שבמעיה...ודבר זה יתברר בעוד מספר ימים...לכן הנני חושב שאם הרופאים יקיימו ויעשו הזריקות דלעיל נראה לענ״ד דלכאורה ה״ז חשוב כהותז ראשו או נשבר מפרקתו של זקן דחשיב כמת גם בלי רוב בשר״.
 
 
 (2) After I wrote a lengthy analysis of Rav Moshe's opinion to Rav S. Z. Auerbach on 23 Elul 5751, Rav Shlomo Zalman wrote [in an opinion now printed in *Nishmas Avraham*]: "In my opinion, someone needing an organ transplant in America may receive one, and it is *not* an act of murder. According to the description of Rav Tendler, since it is determined by radioactive injection that the brain is not being perfused with blood. If this test (nuclide scan) is performed, and if the experiment now being planned to prove that a pregnant sheep can continue to gestate a lamb even after decapitation will so confirm, a brain stem dead patient is tantamount to one who has been decapitated or as an elderly man whose neck was broken even if there is no external wound [cf. Chulin 231a]."

@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Vocalized Edition (Segments: 870, License: Public Domain)
 
-Version (En): Yalkut, Sifsei Chachomim Chumash, Metsudah Publications, 2009 (Segments: 829)
+Version (En): Sefaria Community Translation (Segments: 829)
 
 
 ## Chapter 1

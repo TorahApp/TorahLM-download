@@ -14,9 +14,9 @@ Location: Tanakh/Acharonim on Tanakh/Malbim/Prophets
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way - new (Segments: 1438, License: unknown)
+Version (He): On Your Way - new (Segments: 1440, License: unknown)
 
-Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 21)
+Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 22)
 
 
 ## Introduction
@@ -8561,6 +8561,14 @@ Strength. To God, there are things such as strength and might. (Amitz refers to 
 **ויעמד בתעלת הברכה העליונה,** אחר שנזכר בד"ה (שם) שחזקיהו סתם את המעינות ובתוכם היו מי הברכה הזאת, כמ"ש ואשר עשה את הברכה ואת התעלה ויבא המים העירה (מלכים ב כ' כ') וזה היה למלך אשור כסות עינים לבא עליו שנית למלחמה כנ"ל א. לכן עמדו שלוחיו אצל הברכה הזאת שסתם, כי משם יוכיחו את דבריהם, שחזקיהו הפר ברית, ושם ימצאו אותו כגנב במחתרת:
 
 
+###### Malbim on Isaiah 36:2:2
+
+[https://torahapp.org/share/book/Malbim%20on%20Isaiah/r/36:2:2](https://torahapp.org/share/book/Malbim%20on%20Isaiah/r/36:2:2)
+
+
+[הערה: במלכים (ב', י"ח י"ד) נזכר פה שחזקיה נתן מס ומנחה, ואז שלח את רבשקה, ויפלא מאד, הזה חק מושל ארץ, שאחר שהעלה עליו מס וקבל ממנו, ישוב לשלוח עליו מחנה כבד, ולקרותו מורד? וכל המושלים מרגיזי הארץ אשר שמענו, לא עברו חקי הארצות הכוללים? ובד"ה (ב', ל"ב ב') נזכר תחת זה, כי חזקיהו הכין את עצמו אז למלחמה, וזה סותר להנאמר במלכים? למה עמד רבשקה בתעלת הברכה ולמה מספר זאת:]
+
+
 
 ### Verse 3
 
@@ -8569,7 +8577,7 @@ Strength. To God, there are things such as strength and might. (Amitz refers to 
 [https://torahapp.org/share/book/Malbim%20on%20Isaiah/r/36:3:1](https://torahapp.org/share/book/Malbim%20on%20Isaiah/r/36:3:1)
 
 
-**על הבית,** בית המלך **המזכיר** מי הבא ראשון במשפט או בקשה לפני המלך:[הערה:במלכים (ב', י"ח י"ד) נזכר פה שחזקיה נתן מס ומנחה, ואז שלח את רבשקה, ויפלא מאד, הזה חק מושל ארץ, שאחר שהעלה עליו מס וקבל ממנו, ישוב לשלוח עליו מחנה כבד, ולקרותו מורד? וכל המושלים מרגיזי הארץ אשר שמענו, לא עברו חקי הארצות הכוללים? ובד"ה (ב', ל"ב ב') נזכר תחת זה, כי חזקיהו הכין את עצמו אז למלחמה, וזה סותר להנאמר במלכים? למה עמד רבשקה בתעלת הברכה ולמה מספר זאת:(ד' י"א) מה הבטחון אשר בטח חזקיהו לפי דברי רבשקה והוא לא בטח, אך שלח מס כעבד לאדוניו? ומה רצה באריכות הזה הכפול ומשולש? מ"ש אמרתי אך דבר שפתים נלאו המפרשים למצוא חדתו, ובמלכים כתוב אמרת? איפוא עבר רוח ה' עליו ויאמר לו עלה על הארץ להשחיתה?:ע"כ]:
+**על הבית,** בית המלך **המזכיר** מי הבא ראשון במשפט או בקשה לפני המלך:
 
 
 
@@ -8581,6 +8589,14 @@ Strength. To God, there are things such as strength and might. (Amitz refers to 
 
 
 **מה הבטחון,** אשר אתה חושב למרוד שנית:
+
+
+###### Malbim on Isaiah 36:4:2
+
+[https://torahapp.org/share/book/Malbim%20on%20Isaiah/r/36:4:2](https://torahapp.org/share/book/Malbim%20on%20Isaiah/r/36:4:2)
+
+
+[הערה: (ד'-י"א) מה הבטחון אשר בטח חזקיהו לפי דברי רבשקה והוא לא בטח, אך שלח מס כעבד לאדוניו? ומה רצה באריכות הזה הכפול ומשולש? מ"ש אמרתי אך דבר שפתים נלאו המפרשים למצוא חדתו, ובמלכים כתוב אמרת? איפוא עבר רוח ה' עליו ויאמר לו עלה על הארץ להשחיתה?]
 
 
 
@@ -9776,6 +9792,9 @@ The description here is of Zion herself as the herald, and so too Jerusalem. It 
 
 
 **הישב,** מפני שהמון בני אדם יש מציירים לעצמם את האל יושב בשמים והארץ הדום רגליו, ויש מציירים אותו כמלך היושב וחונה ביניהם והשמים כאהל פרוש עליו למעלה, אומר אם תציירו אותו בדמיונכם, כי הוא יושב על **חוג הארץ,** ר"ל על השמים שהוא המחוגה של הארץ, שהארץ מרכז המחוגה ועגולת השמים, והשמים הם המחוגה הסובבת את מרכז הארץ, הלא א"כ בהכרח כי **ישביה כחגבים** בעיניו, כמי שמביט ממרחק רב שהמוחש יקטן בעיניו, וכן יוקטנו בעיניו יושבי הארץ ובלתי נחשבים כלום לערך רום מקומו, ואם תציירוהו בדמיונכם כי הוא **נוטה כדק שמים,** שהם מתוחים כיריעה דקה לפרוש לאהל ומסך על הארץ **וימתחם** סביב הארץ **כאהל** הנמתח **לשבת** תחתיו, וכן הוא יושב תחת אהל הרקיע על מרכז הארץ, כמלך היושב בין בני המדינה, הלא לפ"ז תציירו בהכרח כי מלך גדול כזה, בודאי הוא
+
+
+“He who sits” because among the multitude of people, some picture God to themselves as sitting in heaven, with the earth as His footstool; and some picture Him as a king who sits and encamps among them, with the heavens spread above Him like a tent. He says: If you picture Him in your imagination as sitting upon the circle of the earth, meaning upon the heavens, which form the circumference of the earth, with the earth being the center of the circumference and of the sphere of the heavens, and the heavens being the circumference that surrounds the center of the earth, then necessarily its inhabitants are like grasshoppers in His eyes, like one who looks from a great distance, so that the object perceived appears small in his eyes. Likewise, the inhabitants of the earth appear diminished in His eyes and are considered as nothing in comparison with the height of His dwelling place.
 
 
 

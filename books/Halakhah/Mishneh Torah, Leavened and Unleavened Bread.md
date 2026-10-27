@@ -1828,7 +1828,7 @@ footnotes:
 [https://torahapp.org/share/book/Mishneh%20Torah%2C%20Leavened%20and%20Unleavened%20Bread/r/5:26](https://torahapp.org/share/book/Mishneh%20Torah%2C%20Leavened%20and%20Unleavened%20Bread/r/5:26)
 
 
-כְּלִי רִאשׁוֹן שֶׁרָצָה לְהַרְתִּיחוֹ וְלֹא מָצָא כְּלִי גָּדוֹל מִמֶּנּוּ כְּדֵי לְהַרְתִּיחוֹ בְּתוֹכוֹ הֲרֵי זֶה מַקִּיף לוֹ שָׂפָה שֶׁל טִיט עַל שְׂפָתוֹ מִבַּחוּץ וּמְמַלְּאֵהוּ מַיִם עַד שֶׁיִּגְבְּרוּ הַמַּיִם עַל שְׂפָתוֹ וּמַרְתִּיחַ הַמַּיִם בְּתוֹכוֹ וְדַיּוֹ וְאַחַר כָּךְ שׁוֹטֵף אוֹתוֹ וּמִשְׁתַּמֵּשׁ בּוֹ בְּמַצָּה:
+כְּלִי רִאשׁוֹן שֶׁרָצָה לְהַרְתִּיחוֹ וְלֹא מָצָא כְּלִי אַחֵר גָּדוֹל מִמֶּנּוּ כְּדֵי לְהַרְתִּיחוֹ בְּתוֹכוֹ הֲרֵי זֶה מַקִּיף לוֹ שָׂפָה שֶׁל טִיט עַל שְׂפָתוֹ מִבַּחוּץ וּמְמַלְּאֵהוּ מַיִם עַד שֶׁיִּגְבְּרוּ הַמַּיִם עַל שְׂפָתוֹ וּמַרְתִּיחַ הַמַּיִם בְּתוֹכוֹ וְדַיּוֹ וְאַחַר כָּךְ שׁוֹטֵף אוֹתוֹ וּמִשְׁתַּמֵּשׁ בּוֹ בְּמַצָּה:
 
 
 [A person possesses a utensil which is] a כלי ראשון and desires to boil it [in order to prepare it for Passover use],¹ however, he cannot find a larger utensil into which [to place it] to boil it:² Behold, he may place a border of clay around its [top] edge from the outside and fill it³ with water until the water overflows its edge.⁴ [Then,] he may boil the water in it, and this is sufficient.⁵ (*Orach Chayim* 452:6) offers an alternative suggestion. After boiling the water thoroughly, placing a very hot stone into the water will cause the water to flow over the edges of the utensil on all sides. Thus, the entire utensil will be exposed to the boiling water. Afterwards, he washes it off⁶ and may use it for matzah.

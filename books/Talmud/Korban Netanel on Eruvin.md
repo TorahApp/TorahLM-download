@@ -1,6 +1,6 @@
 # Korban Netanel on Eruvin
 
- קרבן נתנאל על עירובין
+קרבן נתנאל על עירובין
 
 Link: [https://torahapp.org/share/book/Korban%20Netanel%20on%20Eruvin](https://torahapp.org/share/book/Korban%20Netanel%20on%20Eruvin)
 

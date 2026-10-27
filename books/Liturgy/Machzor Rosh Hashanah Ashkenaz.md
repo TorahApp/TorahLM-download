@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): The Metsudah Machzor. Metsudah Publications, New York -- he (paragraph ed.) (Segments: 1488)
 
-Version (En): The Metsudah Machzor. Metsudah Publications, New York -- en (paragraph ed.) (Segments: 1427)
+Version (En): Majzor para Rosh Hashaná y Iom Kipur, Marcos Edery, Marshall T. Meyer, Seminario Rabínico Latinoamericano. 2020 [es] (Segments: 1427)
 
 
 ## Annullment of Vows

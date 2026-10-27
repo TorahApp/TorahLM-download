@@ -16,6 +16,8 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Zholkva, 1864 (Segments: 9639, License: Public Domain)
 
+Version (En): Sefaria Community Translation (Segments: 33)
+
 # Mikdash Melekh on Zohar — part 2 of 2
 
 ## Volume 3

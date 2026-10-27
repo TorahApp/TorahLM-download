@@ -1,6 +1,6 @@
 # Pilpula Charifta on Bava Metzia
 
- פלפולא חריפתא על בבא מציעא
+פלפולא חריפתא על בבא מציעא
 
 Link: [https://torahapp.org/share/book/Pilpula%20Charifta%20on%20Bava%20Metzia](https://torahapp.org/share/book/Pilpula%20Charifta%20on%20Bava%20Metzia)
 
@@ -1299,7 +1299,7 @@ Version (He): Vilna. Romm, 1880 (Segments: 736, License: unknown)
 [https://torahapp.org/share/book/Pilpula%20Charifta%20on%20Bava%20Metzia/r/2:1](https://torahapp.org/share/book/Pilpula%20Charifta%20on%20Bava%20Metzia/r/2:1)
 
 
-**3 וכ"ע. כלומר וגם כ"ע.** לא ידעי כמו לאו כ"ע ידעי וכיוצא בזה בפ"ק דב"ק שכל המעוררים אין זכאים וכו' ובגמרא דהגוזל קמא נמי כמ"ש שם:
+**וכ"ע. כלומר וגם כ"ע.** לא ידעי כמו לאו כ"ע ידעי וכיוצא בזה בפ"ק דב"ק שכל המעוררים אין זכאים וכו' ובגמרא דהגוזל קמא נמי כמ"ש שם:
 
 
 ###### Pilpula Charifta on Bava Metzia 2:2
@@ -1739,7 +1739,7 @@ Version (He): Vilna. Romm, 1880 (Segments: 736, License: unknown)
 [https://torahapp.org/share/book/Pilpula%20Charifta%20on%20Bava%20Metzia/r/2:56](https://torahapp.org/share/book/Pilpula%20Charifta%20on%20Bava%20Metzia/r/2:56)
 
 
-**דדדך להניח חפצים בכלים.** כלומר בלאו האי דאמרינן דהיא יודעת שבעלה מניח כל חפציו בחפיסה מסתמא דרך כל אדם להניח חפצים בכלים ולא בתיבה בלחוד הלכך לא הוי סימן מובהק ואפ"ה הוה מהדרינן דדלמא זה לא הניח בכלים אי לאו טעמא דאמרינן שהיא יודעת בבעלה דכל דאית ליה כו':
+**דדרך להניח חפצים בכלים.** כלומר בלאו האי דאמרינן דהיא יודעת שבעלה מניח כל חפציו בחפיסה מסתמא דרך כל אדם להניח חפצים בכלים ולא בתיבה בלחוד הלכך לא הוי סימן מובהק ואפ"ה הוה מהדרינן דדלמא זה לא הניח בכלים אי לאו טעמא דאמרינן שהיא יודעת בבעלה דכל דאית ליה כו':
 
 
 ###### Pilpula Charifta on Bava Metzia 2:57

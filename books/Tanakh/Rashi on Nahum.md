@@ -65,7 +65,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nahum/r/1:2:2](https://torahapp.org/share/book/Rashi%20on%20Nahum/r/1:2:2)
 
 
-**אֵל קַנָּא וְנוֹקֵם ה׳.** מֵאָז שֶׁנִּפְרַע לְיִשְׂרָאֵל מֵאוֹיְבֵיהֶם וְגַם עֲדַיִן עַתָּה נוֹקֵם הוּא וּבַעַל חֵמָה וְעָתִיד הוּא לִהְיוֹת נוֹקֵם לְצָרָיו שֶׁהֶחֱרִיבוּ אֶת אַרְצוֹ וְהִגְלוּ אֶת עַמּוֹ וְנוֹטֵר הוּא אֶת אֵיבָתוֹ לַבַּבְלִיִּים. וְר״שׁ אוֹמֵר שָׁלוֹשׁ נְקִימוֹת הַלָּלוּ כְּנֶגֶד שָׁלוֹשׁ גְלִיּוֹת שֶׁהִגְלָה סַנְחֵרִיב אֶת יִשְׂרָאֵל, כְּמוֹ שֶׁמָּצִינוּ בְּסֵדֶר עוֹלָם.
+**אֵל קַנּוֹא וְנוֹקֵם ה׳.** מֵאָז שֶׁנִּפְרַע לְיִשְׂרָאֵל מֵאוֹיְבֵיהֶם וְגַם עֲדַיִן עַתָּה נוֹקֵם הוּא וּבַעַל חֵמָה וְעָתִיד הוּא לִהְיוֹת נוֹקֵם לְצָרָיו שֶׁהֶחֱרִיבוּ אֶת אַרְצוֹ וְהִגְלוּ אֶת עַמּוֹ וְנוֹטֵר הוּא אֶת אֵיבָתוֹ לַבַּבְלִיִּים. וְר״שׁ אוֹמֵר שָׁלוֹשׁ נְקִימוֹת הַלָּלוּ כְּנֶגֶד שָׁלוֹשׁ גְלִיּוֹת שֶׁהִגְלָה סַנְחֵרִיב אֶת יִשְׂרָאֵל, כְּמוֹ שֶׁמָּצִינוּ בְּסֵדֶר עוֹלָם.
 
 
 **The Lord is a jealous and vengeful God**—from the time He avenged Israel upon their enemies, and now too, He is still vengeful and full of wrath. **He is destined to wreak vengeance upon His adversaries** who destroyed their land and exiled His people. **and he bears a grudge** Heb. וְנוֹטֵר, lit. watches. He lays up His hatred for His enemies. Rabbi Simon says: These three expressions of vengeance correspond to the three exiles to which Sennacherib exiled Israel, as we find in *Seder Olam* (ch. 23).
@@ -79,7 +79,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nahum/r/1:3:1](https://torahapp.org/share/book/Rashi%20on%20Nahum/r/1:3:1)
 
 
-**ה׳ אֶרֶךְ אַפַּיִם וּגְדָל כֹּחַ.** גְּדָל כֹּחַ הוּא וְהַיְכֹלֶת בְּיָדוֹ לְהִנָּקֵם וַאֲשֶׁר לֹא מִהֵר נִקְמָתוֹ לְפִי שֶׁאֶרֶךְ אַפַּיִם הוּא וּמִכָּל מָקוֹם **נַקֵּה לֹא יְנַקֶּה**.
+**ה׳ אֶרֶךְ אַפַּיִם וּגְדָל כֹּחַ.** גְּדָל כֹּחַ הוּא וְהַיְכֹלֶת בְּיָדוֹ לְהִנָּקֵם וַאֲשֶׁר לֹא מִהֵר נִקְמָתוֹ לְפִי שֶׁאֶרֶךְ אַפַּיִם הוּא וּמִכָּל מָקוֹם **נַקֵּה לֹא יְנַקֶּה.**
 
 
 **The Lord is slow to anger and great in power**—He is great in power, and He has the ability to wreak vengeance. The reason He did not hasten His revenge is that He is slow to anger, but, in any case, He will not acquit.
@@ -373,7 +373,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nahum/r/1:13:1](https://torahapp.org/share/book/Rashi%20on%20Nahum/r/1:13:1)
 
 
-**וְעַתָּה אֶשְׁבֹּר מֹטֵהוּ מֵעָלֶיךָ.** שְׁכִינָה אוֹמֶרֶת כֵּן לַנָּבִיא שֶׁהוּא יִשְׂרְאֵלִי: אֶשְׁבֹּר מֹטֵהוּ שֶׁל אַשּׁוּר מֵעָלֶיךָ וּמֵעַמִּי.
+**וְעַתָּה אֶשְׁבֹּר מֹטֵהוּ מֵעָלָיִךְ.** שְׁכִינָה אוֹמֶרֶת כֵּן לַנָּבִיא שֶׁהוּא יִשְׂרְאֵלִי: אֶשְׁבֹּר מֹטֵהוּ שֶׁל אַשּׁוּר מֵעָלֶיךָ וּמֵעַמִּי.
 
 
 **And now I will break off his yoke from you**—The Shechinah says this to the prophet, who is of Israel: I will break off the yoke of Assyria from you and from My people.
@@ -484,7 +484,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nahum/r/2:2:2](https://torahapp.org/share/book/Rashi%20on%20Nahum/r/2:2:2)
 
 
-**צְפֵה דֶרֶךְ.** הַבֵּט אַתָּה אִישׁ יְהוּדָה עַל אֵם הַדְּרָכִים וְתִרְאֶה אֶת הַהוֹלְכִים לָצוּר עָלָיו, וְיִתְחַזְּקוּ מָתְנֶיךָ וְאַמֵּץ כֹּחַ מְאֹד.
+**צַפֵּה דֶרֶךְ.** הַבֵּט אַתָּה אִישׁ יְהוּדָה עַל אֵם הַדְּרָכִים וְתִרְאֶה אֶת הַהוֹלְכִים לָצוּר עָלָיו, וְיִתְחַזְּקוּ מָתְנֶיךָ וְאַמֵּץ כֹּחַ מְאֹד.
 
 
 **Watch the way**—You men of Judah, watch the crossroads and see those going to besiege him [Sennacherib] and strengthen your loins and fortify your power mightily.
@@ -581,7 +581,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nahum/r/2:5:1](https://torahapp.org/share/book/Rashi%20on%20Nahum/r/2:5:1)
 
 
-**יִתְהוֹלָלוּ.** יִנְהֲגוּ עַצְמָן בְּשִׁגָּעוֹן.
+**יִתְהוֹלְלוּ.** יִנְהֲגוּ עַצְמָן בְּשִׁגָּעוֹן.
 
 
 **shall dash about madly**—They shall behave madly.
@@ -711,7 +711,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nahum/r/2:8:4](https://torahapp.org/share/book/Rashi%20on%20Nahum/r/2:8:4)
 
 
-**מְתֹפְפֹת עַל לְבָבְהֶן.** תִּרְגֵּם יוֹנָתָן: מַקִּישׁוֹת יְדֵיהֶן עַל לִבָּן כְּהַקִּישׁ בַּתּוּפִים.
+**מְתֹפְפֹת עַל לִבְבֵהֶן.** תִּרְגֵּם יוֹנָתָן: מַקִּישׁוֹת יְדֵיהֶן עַל לִבָּן כְּהַקִּישׁ בַּתּוּפִים.
 
 
 **beating their breasts** Striking their hand on their heart like the beating of a drum.
@@ -966,7 +966,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nahum/r/3:1:2](https://torahapp.org/share/book/Rashi%20on%20Nahum/r/3:1:2)
 
 
-**לֹא יָמִישׁ טֶרֶף.** מִתּוֹכָהּ תָּמִיד.
+**לֹא יָמִישׁ טָרֶף.** מִתּוֹכָהּ תָּמִיד.
 
 
 **the prey departs not**—from its [i.e., the city’s] midst, it will never depart.
@@ -1077,7 +1077,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nahum/r/3:5:2](https://torahapp.org/share/book/Rashi%20on%20Nahum/r/3:5:2)
 
 
-**מַעֲרֵךְ.** גִּלּוּיֵךְ, כְּמוֹ (מיכה א:יא) ״עֶרְיָה בֹשֶׁת״.
+**מַעְרֵךְ.** גִּלּוּיֵךְ, כְּמוֹ (מיכה א:יא) ״עֶרְיָה בֹשֶׁת״.
 
 
 **your nakedness** Heb. מַעֲרֵךְ, your exposure, as in (Micah 1:11) “With your private parts exposed (עֶרְיָה).”
@@ -1230,7 +1230,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Nahum/r/3:12:1](https://torahapp.org/share/book/Rashi%20on%20Nahum/r/3:12:1)
 
 
-**כָּל מִבְצָרֶיךָ תְּאֵנִים עִם בִּכּוּרִים.** כָּל עָרֵי מִבְצָרֶיךָ יִהְיוּ נוֹחִים לִכָּבֵשׁ וְלָבֹז מַה שֶּׁבְּתוֹכָהּ, כְּאִילָנֵי תְאֵנִים, וּכְשֶׁהֵן עִם בִּכּוּרוֹת מְבֻשֶּׁלֶת שֶׁבָּהֶם, שֶׁכְּשֶׁמְּנִיעִים הָאִילָן נוֹפְלִים הַבִּכּוּרִים לְתוֹךְ פִּי הָאוֹכְלִים.
+**כָּל מִבְצָרַיִךְ תְּאֵנִים עִם בִּכּוּרִים.** כָּל עָרֵי מִבְצָרֶיךָ יִהְיוּ נוֹחִים לִכָּבֵשׁ וְלָבֹז מַה שֶּׁבְּתוֹכָהּ, כְּאִילָנֵי תְאֵנִים, וּכְשֶׁהֵן עִם בִּכּוּרוֹת מְבֻשֶּׁלֶת שֶׁבָּהֶם, שֶׁכְּשֶׁמְּנִיעִים הָאִילָן נוֹפְלִים הַבִּכּוּרִים לְתוֹךְ פִּי הָאוֹכְלִים.
 
 
 **All your fortresses**—It shall be easy to conquer all your fortified cities and to ravage all that is in their midst, like the fig trees when they are with their first ripe fruits; when the tree is shaken, the first ripe fruits fall into the mouth of the eaters.

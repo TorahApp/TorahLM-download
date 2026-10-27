@@ -14,9 +14,9 @@ Location: Chasidut/Other Chasidut Works
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Sefat emet, Piotrków, 1905-1908 (Segments: 7082, License: Public Domain)
+Version (He): Sefat emet, Piotrków, 1905-1908 (Segments: 7081, License: Public Domain)
 
-Version (En): Translation by Dan Levy, 2024 (Segments: 1404)
+Version (En): Sefaria Community Translation (Segments: 1405)
 
 # Sefat Emet — part 3 of 3
 
@@ -1207,7 +1207,7 @@ The prayer of Moshe our teacher peace be upon him to enter the land and was not 
 בפסוק א"ה האלה דבר ה' אל כל קהלכם. כל מיותר לכאורה. וי"ל על כל הקהילות שמתאספין בנ"י תמיד כמ"ש חז"ל עשרה שיושבים ויש ביניהם ד"ת שכינה שרויה ביניהם. וכ"ז בא בשעת מתן תורה כמ"ש הקהל כו' ואשמיעם את דברי הי' הכנה והארה שכל התאספות של בנ"י לדורי דורות יכולין לעורר אותן הדברים. כמ"ש קול גדול ולא יסף ולא פסק. וכמו שעשרה מאמרות הוא יסד ובנין על כל הבריאה. כן עשרת הדברות הם יסוד ובנין על כל הנהגת בנ"י. רק ההפרש שמאמרות היו ברצון הבורא ית' בלבד אבל הדיברות היו ע"י הכנת בנ"י שהקדימו נעשה ומס"נ על כבוד שמו ית'. לכן גם עתה מעוררין זה הכח ע"י הכנה למטה. וכמו כן בנפש אדם עצמו כשמאסף כל הכחות להשתעבד אליו ית' הוא בכלל כל קהלכם. וכן איתא מנין שאפי' א' יושב ושונה כו':
 
 
-(Deuteronomy.5.19) "The Lord spoke those words to all of your congregation." The word 'all of' seems superfluous. The implication:
+In the verse (Deut. 5:19), "And these words Adonai spoke to all of your congregation," "all" seems to be superfluous. One must say that [this refers] to all congregations, where Jews gather any time, as the Sages said (Avot 3:6), "When ten gather and there are words of Torah, the Shechinah rests among them." And all this comes at the time of the Giving of the Torah, as it says (Deut. 4:10), "Gather [the people to Me} that I may let them hear My words" -- a foundation and illumination that all gatherings of Jews throughout the generations can awaken those words, as it says, "a loud voice, that did not yasaf" -- that did not cease. And just as the ten speeches are the foundation and structure for all of Creation, so the Ten Sayings are the foundation and structure for all of Jews' conduct. The only difference is that the speeches were solely from the will of the Creator, but the Sayings were from the preparation of the Israelites, who preceded "We will do" [before "we will hear."] and self-sacrifice for the glory of His name. And therefore, even now this power is aroused through preparation down below. And similarly, through an individual soul, when the person gathers all force to be subservient to Him, that person is in the category of "all of your congregation," and so it says (Avot 3:2), "Even if one person sits and studies, [there is a reward]."
 
 
 ###### Sefat Emet, Deuteronomy, Vaetchanan 9:1
@@ -3140,6 +3140,9 @@ The command "see" means to nullify oneself to this point. Similarly, on Shabbos,
 
 
 **תרנ"ו**
+
+
+The blessing which you shall hear. Hearing is a vessel that holds blessing as it says "if he made him deaf, he pays his entire value." If so, hearing is the wholeness/completeness of humanity. And the essence is that this world does not have wholeness/completeness. And the human, who is the end-point of creation, was created only for the sake of hearing the word of Gd. And this is his wholeness, that he is a vessel prepared to honor the One of Blessed Name. And according to his preparation to hear the Creator's mitzvot, so is the wholeness. And through this one merits to receive blessing.
 
 
 ###### Sefat Emet, Deuteronomy, Re'eh 21:2

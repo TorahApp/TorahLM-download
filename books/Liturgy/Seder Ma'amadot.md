@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): סדר מעמדות (Segments: 369, License: Public Domain)
 
-Version (En): Metsudah Publications Tanakh, 2009 (Segments: 184)
+Version (En): JPS translation of Bereshit 2:1-3 (Segments: 184)
 
 
 ## Day of Week 1

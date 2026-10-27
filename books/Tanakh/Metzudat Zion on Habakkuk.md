@@ -492,7 +492,7 @@ Version (He): On Your Way (Segments: 171, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Habakkuk/r/2:3:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Habakkuk/r/2:3:2)
 
 
-**ויפה.** ענין דבור כמו יפיח אמונה (משלי יב):
+**ויפח.** ענין דבור כמו יפיח אמונה (משלי יב):
 
 
 ###### Metzudat Zion on Habakkuk 2:3:3

@@ -14,9 +14,9 @@ Location: Halakhah/Shulchan Arukh/Commentary/Kaf HaChayim
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Kaf Hachayim, Orach Chayim vol. I-IV, Jerusalem 1910-1933 (Segments: 29972, License: Public Domain)
+Version (He): Kol Yaakov References (Segments: 29972, License: unknown)
 
-Version (En): [fr] (Segments: 33)
+Version (En): Sefaria Community Translation (Segments: 33)
 
 # Kaf HaChayim on Shulchan Arukh, Orach Chayim — part 3 of 5
 
@@ -23619,7 +23619,7 @@ Version (En): [fr] (Segments: 33)
 [https://torahapp.org/share/book/Kaf%20HaChayim%20on%20Shulchan%20Arukh%2C%20Orach%20Chayim/r/321:91:1](https://torahapp.org/share/book/Kaf%20HaChayim%20on%20Shulchan%20Arukh%2C%20Orach%20Chayim/r/321:91:1)
 
 
-**צא) שם. ומותר לגבל את הקלי מעט מעט.**ומשמע דאי חילוק בין רכה לעבה. וכ"כ א"ר או' י"ט. ר"ז או' ט"ז. ומיהו לדעת י"א שמביא הש"ע בסעי' ט"ז צריך לעשות בלילה רכה וע"י שינוי כאשר יבואר שם:
+**צא) שם. ומותר לגבל את הקלי מעט מעט.**ומשמע דאין חילוק בין רכה לעבה. וכ"כ א"ר או' י"ט. ר"ז או' ט"ז. ומיהו לדעת י"א שמביא הש"ע בסעי' ט"ז צריך לעשות בלילה רכה וע"י שינוי כאשר יבואר שם:
 
 
 
@@ -77517,7 +77517,7 @@ Version (En): [fr] (Segments: 33)
 [https://torahapp.org/share/book/Kaf%20HaChayim%20on%20Shulchan%20Arukh%2C%20Orach%20Chayim/r/428:52:1](https://torahapp.org/share/book/Kaf%20HaChayim%20on%20Shulchan%20Arukh%2C%20Orach%20Chayim/r/428:52:1)
 
 
-**בנ) שם בהגה. הלא כבני כושיים וכו'**וכ"כ הב"ח ומט"מ והאגודה דלא כלבוש שכתב להפטיר התשפוט אף כשהן כפולות שכבר העיד הב"ח שבכל הקהילות נוהגין כמ"ש בהגהת ש"ע. מ"א סק"י. וה"ה אם שבת פ' אחרי היה ער"ח ומפטירין מחר חדש דמפטירין בשבת פ' קדושים הלא כבני קושיים. חי' רע"א וכ"ז למנהג בני אשכנז אבל מנהג שאר קהלות כתב הכשנה"ג בהגה"ט סוף הסי' דנוהגין כדברי תיקון יששכר דבאחרי מות קורין התשפוט ובקדושים קורין הלדרוש וכשהן מחוברות קורין הלדרוש יעו"ש:
+**בנ) שם בהגה. הלא כבני כושיים וכו'**וכ"כ הב"ח ומט"מ והאגודה דלא כלבוש שכתב להפטיר התשפוט אף כשהן כפולות שכבר העיד הב"ח שבכל הקהילות נוהגין כמ"ש בהגהת ש"ע. מ"א סק"י. וה"ה אם שבת פ' אחרי היה ער"ח ומפטירין מחר חדש דמפטירין בשבת פ' קדושים הלא כבני כושיים. חי' רע"א וכ"ז למנהג בני אשכנז אבל מנהג שאר קהלות כתב הכשנה"ג בהגה"ט סוף הסי' דנוהגין כדברי תיקון יששכר דבאחרי מות קורין התשפוט ובקדושים קורין הלדרוש וכשהן מחוברות קורין הלדרוש יעו"ש:
 
 
 
@@ -81121,7 +81121,7 @@ Version (En): [fr] (Segments: 33)
 [https://torahapp.org/share/book/Kaf%20HaChayim%20on%20Shulchan%20Arukh%2C%20Orach%20Chayim/r/436:43:1](https://torahapp.org/share/book/Kaf%20HaChayim%20on%20Shulchan%20Arukh%2C%20Orach%20Chayim/r/436:43:1)
 
 
-**מג) שם הגה. גה אשתו תבדוק וכו'**עיין לעיל או' ד' וססי' תל"ד ולקמן סי' תל"ז סעי' ד'.
+**מג) שם הגה. גם אשתו תבדוק וכו'**עיין לעיל או' ד' וססי' תל"ד ולקמן סי' תל"ז סעי' ד'.
 
 
 ###### Kaf HaChayim on Shulchan Arukh, Orach Chayim 436:43:2

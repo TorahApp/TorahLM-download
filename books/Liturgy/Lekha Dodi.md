@@ -8,7 +8,7 @@ Link: [https://torahapp.org/share/book/Lekha%20Dodi](https://torahapp.org/share/
 
 Hymn sung on Friday evenings as part of Kabbalat Shabbat to welcome in Shabbat, composed by 16th-century kabbalist Shlomo Alkabetz.
 
-Sections: Verse-Verset
+Sections: Section-Paragraph
 
 Location: Liturgy/Piyutim
 
@@ -19,7 +19,7 @@ Version (He): Wikisource (Segments: 38, License: CC-BY-SA)
 Version (En): Sefaria Community Translation (Segments: 38)
 
 
-## Verse 1
+## Section 1
 
 ###### Lekha Dodi 1:1
 
@@ -44,7 +44,7 @@ The face of Shabbat we will receive
 
 
 
-## Verse 2
+## Section 2
 
 ###### Lekha Dodi 2:1
 
@@ -91,7 +91,7 @@ To His name, and to glory and to praise!
 
 
 
-## Verse 3
+## Section 3
 
 ###### Lekha Dodi 3:1
 
@@ -138,7 +138,7 @@ Made at the end, and planned from the start
 
 
 
-## Verse 4
+## Section 4
 
 ###### Lekha Dodi 4:1
 
@@ -185,7 +185,7 @@ And He will grant mercy, mercy upon you
 
 
 
-## Verse 5
+## Section 5
 
 ###### Lekha Dodi 5:1
 
@@ -232,7 +232,7 @@ Nearer to my soul is its redemption!
 
 
 
-## Verse 6
+## Section 6
 
 ###### Lekha Dodi 6:1
 
@@ -279,7 +279,7 @@ The glory of Adonai upon you is revealed!
 
 
 
-## Verse 7
+## Section 7
 
 ###### Lekha Dodi 7:1
 
@@ -326,7 +326,7 @@ And she shall be rebuilt - the city on her hill!
 
 
 
-## Verse 8
+## Section 8
 
 ###### Lekha Dodi 8:1
 
@@ -373,7 +373,7 @@ As a groom rejoices for his bride
 
 
 
-## Verse 9
+## Section 9
 
 ###### Lekha Dodi 9:1
 
@@ -420,7 +420,7 @@ We will rejoice and we will sing
 
 
 
-## Verse 10
+## Section 10
 
 ###### Lekha Dodi 10:1
 

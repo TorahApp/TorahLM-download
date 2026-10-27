@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat Zion/Writings
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 1338, License: Public Domain)
+Version (He): On Your Way (Segments: 1339, License: Public Domain)
 
 
 ## Chapter 1
@@ -846,17 +846,20 @@ Version (He): On Your Way (Segments: 1338, License: Public Domain)
 **עדיך.** אליך כמו ועדיכם אתבונן (לקמן לב):
 
 
-###### Metzudat Zion on Job 4:5:3
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/4:5:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/4:5:3)
+### Verse 6
+
+###### Metzudat Zion on Job 4:6:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/4:6:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/4:6:1)
 
 
 **כסלתך.** ענין בטחון ותקוה כמו אשר יקוט כסלו (לקמן ח):
 
 
-###### Metzudat Zion on Job 4:5:4
+###### Metzudat Zion on Job 4:6:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/4:5:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/4:5:4)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/4:6:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/4:6:2)
 
 
 **ותום.** הוי״ו באה במקום עם וכן ויוסף היה במצרים (שמות א׳:ה׳) ור״ל עם יוסף שהיה במצרים:
@@ -927,7 +930,7 @@ Version (He): On Your Way (Segments: 1338, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/4:10:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/4:10:1)
 
 
-**שחל.** וכפירים ליש ולכיא המה שמות הארי זכר ונקבה אלא שזה גדול מזה:
+**שחל.** וכפירים ליש ולביא המה שמות הארי זכר ונקבה אלא שזה גדול מזה:
 
 
 ###### Metzudat Zion on Job 4:10:2
@@ -1489,7 +1492,7 @@ Version (He): On Your Way (Segments: 1338, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/6:6:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/6:6:3)
 
 
-**חלמות.** ענין בריאות וחתק כמו ותחלימני והחייני (ישעיה לח):
+**חלמות.** ענין בריאות וחוזק כמו ותחלימני והחייני (ישעיה לח):
 
 
 
@@ -3408,7 +3411,7 @@ Version (He): On Your Way (Segments: 1338, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/12:23:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/12:23:2)
 
 
-**שוטה.** פורש כמו וישטחו להם שטוח (במדבר י״א:ל״ב):
+**שוטח.** פורש כמו וישטחו להם שטוח (במדבר י״א:ל״ב):
 
 
 ###### Metzudat Zion on Job 12:23:3
@@ -6089,12 +6092,23 @@ Version (He): On Your Way (Segments: 1338, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/21:12:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/21:12:1)
 
 
-**עוגב.** שם כלי זמר (יג) יבלו. ענין זקנה כמו אחרי בלותי (בראשית יח):
+**עוגב.** שם כלי זמר:
 
 
-###### Metzudat Zion on Job 21:12:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/21:12:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/21:12:2)
+### Verse 13
+
+###### Metzudat Zion on Job 21:13:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/21:13:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/21:13:1)
+
+
+**יבלו.** ענין זקנה כמו אחרי בלותי (בראשית יח):
+
+
+###### Metzudat Zion on Job 21:13:2
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/21:13:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/21:13:2)
 
 
 **יחתו.** ירדו וכן שמה הנחת (יואל ד):
@@ -6198,7 +6212,7 @@ Version (He): On Your Way (Segments: 1338, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/21:23:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/21:23:2)
 
 
-**חומו.** מל׳ חמימות:
+**תומו.** מל׳ תמימות:
 
 
 ###### Metzudat Zion on Job 21:23:3
@@ -12133,7 +12147,7 @@ Version (He): On Your Way (Segments: 1338, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/40:16:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Job/r/40:16:2)
 
 
-**בשרירי.** בעבורו כמו שררך אגן הסהר (ש״ה ז):
+**בשרירי.** בטבורו כמו שררך אגן הסהר (ש״ה ז):
 
 
 

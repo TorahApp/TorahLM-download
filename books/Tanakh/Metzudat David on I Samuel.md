@@ -14,9 +14,9 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat David/Prophets
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 1213, License: Public Domain)
+Version (He): On Your Way (Segments: 1205, License: Public Domain)
 
-Version (En): Sefaria Community Translation (Segments: 97)
+Version (En): Sefaria Community Translation (Segments: 98)
 
 
 ## Chapter 1
@@ -79,7 +79,7 @@ Version (En): Sefaria Community Translation (Segments: 97)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/1:4:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/1:4:1)
 
 
-**ויהי היום.** רוצה לומר ; וכאשר בא היום של הבאת קרבנותיו, היה אלקנה זובח שלמים, והיה נותן לפנינה וכו׳ מנות מזבח השלמים:
+**ויהי היום.** רוצה לומר: וכאשר בא היום של הבאת קרבנותיו, היה אלקנה זובח שלמים, והיה נותן לפנינה וכו׳ מנות מזבח השלמים:
 
 
 **And it was on that day:** Meaning to say, when the day came that he would bring his sacrifices, Elkanah would sacrifice peace-offerings and he would give portions to Peninah, etc. from the sacrifice of the peace-offerings.
@@ -93,10 +93,21 @@ Version (En): Sefaria Community Translation (Segments: 97)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/1:5:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/1:5:1)
 
 
-**מנה אחת.** רוצה לומר: מיוחדת ביופי, ולתוספת ביאור אמר ׳אפים׳, רוצה לומר: הראויה לקבל אותה בסבר פנים יפות: וה׳ סגר רחמה, ולא ילדה, והיתה מצירה ולזה הראה לה חיבה יתירה להפיג צערה:
+**מנה אחת.** רוצה לומר: מיוחדת ביופי, ולתוספת ביאור אמר ׳אפים׳, רוצה לומר: הראויה לקבל אותה בסבר פנים יפות:
 
 
 **One portion:** Meaning to say, unique in its fineness. And to explain further, it said, "*apayim* (face)" - one fitting to be received with a joyful face.
+
+
+###### Metzudat David on I Samuel 1:5:2
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/1:5:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/1:5:2)
+
+
+**וה׳ סגר רחמה.** ולא ילדה, והיתה מצירה ולזה הראה לה חיבה יתירה להפיג צערה:
+
+
+**But the Lord had closed her womb:** So she did not give birth and she was distressed. And that is why he showed her extra love, to mitigate her pain.
 
 
 
@@ -201,7 +212,7 @@ Version (En): Sefaria Community Translation (Segments: 97)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/1:8:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/1:8:2)
 
 
-**הלא אנכי.** תרגם יונתן: **הלא רעותי.** רצה לומר: הלא רצוני אליך ואהבתי לך, טובה היא לך מאלו ילדת עשרה בנים:
+**הלא אנכי.** תרגם יונתן: הלא רעותי. רצה לומר: הלא רצוני אליך ואהבתי לך, טובה היא לך מאלו ילדת עשרה בנים:
 
 
 **Am I not:** Yonatan [ben Uzziel] translated [it as], "Is not my wish" - meaning to say, "Is not my wish towards you and my love for you better to you than if you had given birth to ten sons?"
@@ -423,7 +434,7 @@ Version (En): Sefaria Community Translation (Segments: 97)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/1:16:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/1:16:2)
 
 
-**כי מרוב שיכי וכעסי.** כי בעבור רוב ספור התלאות והכעס אשר פנינה מכעסת אותי, דברתי לפני ה׳ עד הנה, היות רבים הם:
+**כי מרוב שיחי וכעסי.** כי בעבור רוב ספור התלאות והכעס אשר פנינה מכעסת אותי, דברתי לפני ה׳ עד הנה, היות רבים הם:
 
 
 **For it is out of the greatness of my grievance and my anger:** For it is due to the greatness of the telling of the troubles and the anger with which Peninah angered me that I spoke in front of the Lord until now, as they are great.
@@ -1086,7 +1097,7 @@ Version (En): Sefaria Community Translation (Segments: 97)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/2:10:3](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/2:10:3)
 
 
-**ה׳ ידין אפסי ארץ.** רוצה לומר: **אתה ה׳, נא ידין בני אפסי ארץ, להיות שופט בישראל, ויסבב במקומות עריהם לשפטם.** וכן נתקיים כמו שכתוב (שם שם טז): והלך וגו׳ וסבב וגו׳ ושפט את ישראל:
+**ה׳ ידין אפסי ארץ.** רוצה לומר: אתה ה׳, נא ידין בני אפסי ארץ, להיות שופט בישראל, ויסבב במקומות עריהם לשפטם. וכן נתקיים כמו שכתוב (שם שם טז): והלך וגו׳ וסבב וגו׳ ושפט את ישראל:
 
 
 **The Lord shall judge the ends of the earth:** Meaning to say, You O Lord, please let my son judge the ends of the land, to be a judge in Israel and to go around in the places of their cities, to judge them. And this was likewise fulfilled, as it is written (I Samuel 7:16), "And he went, etc. and made the rounds, etc. and judged Israel."
@@ -1526,7 +1537,7 @@ Every year she brought him a new coat, according to his body (size) that grew ev
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/2:29:5](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/2:29:5)
 
 
-**לעמי.** אשר הובא לצורך עמי לרצות להם, ולא להשמין אתכם [ ועל שלא הוכיח את בניו כראוי כללו עמהם ]:
+**לעמי.** אשר הובא לצורך עמי לרצות להם, ולא להשמין אתכם [ועל שלא הוכיח את בניו כראוי כללו עמהם]:
 
 
 
@@ -1990,7 +2001,7 @@ Every year she brought him a new coat, according to his body (size) that grew ev
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/3:19:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/3:19:2)
 
 
-**ולא הפיל וכו׳.** רוצה לומר: אפילו דבריו שאמר בעצמו לא בנבואה, לא בטל אותם המקום להיות נופלים בארץ לבל יתקיימו [ ואמר במשל, מהזורק דבר מה, ולא יחטיא לנפול בארץ ]:
+**ולא הפיל וכו׳.** רוצה לומר: אפילו דבריו שאמר בעצמו לא בנבואה, לא בטל אותם המקום להיות נופלים בארץ לבל יתקיימו [ואמר במשל, מהזורק דבר מה, ולא יחטיא לנפול בארץ]:
 
 
 
@@ -2660,15 +2671,7 @@ if you are strong, you will be able to fight them and win
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/6:7:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/6:7:2)
 
 
-**ושתי פרות עלות.** רצה לומר:
-
-
-###### Metzudat David on I Samuel 6:7:3
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/6:7:3](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/6:7:3)
-
-
-**בחנו הדבר לדעת שהאמת אתנו, וזאת עשו.** קחו פרות מניקות אשר לא משכו מעולם בעול, ואסרו אתהן בעגלה, וקחו את בניהן מהן, והנה מדרך הנהוג לא יזוזו ממקומן ללכת מבניהן, ומכל שכן שגם לא הורגלו במשיכת העול:
+**ושתי פרות עלות.** רצה לומר: בחנו הדבר לדעת שהאמת אתנו, וזאת עשו. קחו פרות מניקות אשר לא משכו מעולם בעול, ואסרו אתהן בעגלה, וקחו את בניהן מהן, והנה מדרך הנהוג לא יזוזו ממקומן ללכת מבניהן, ומכל שכן שגם לא הורגלו במשיכת העול:
 
 
 
@@ -3189,7 +3192,7 @@ if you are strong, you will be able to fight them and win
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/8:8:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/8:8:1)
 
 
-**ככל המעשים.** רצה לומר: אין זה דבר חדש אצלם, כי כמו כל המעשים וכו׳ ומאסו בי ובחרו בעבודה, כן המה עושים גם עתה במה שאמרו לך שימה לנו מלך לשפטנו, למאס במשפט התורה ולבחור במשפט המלך:
+**ככל המעשים.** רצה לומר: אין זה דבר חדש אצלם, כי כמו כל המעשים וכו׳ ומאסו בי ובחרו בעובדי כוכבים ומזלות, כן המה עושים גם עתה במה שאמרו לך שימה לנו מלך לשפטנו, למאס במשפט התורה ולבחור במשפט המלך:
 
 
 
@@ -3567,7 +3570,7 @@ if you are strong, you will be able to fight them and win
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/9:16:3](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/9:16:3)
 
 
-**צעקתו.** על מה שפלשתים עושים להם [ אחר שנזדקן שמואל ]:
+**צעקתו.** על מה שפלשתים עושים להם [אחר שנזדקן שמואל]:
 
 
 
@@ -3700,7 +3703,7 @@ if you are strong, you will be able to fight them and win
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/9:24:5](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/9:24:5)
 
 
-**לאמר.** כי אמר המזמן את הקרואים ; והוא שמואל:
+**לאמר.** כי אמר המזמן את הקרואים, והוא שמואל:
 
 
 ###### Metzudat David on I Samuel 9:24:6
@@ -3858,7 +3861,7 @@ if you are strong, you will be able to fight them and win
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/10:8:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/10:8:1)
 
 
-**וירדת לפני הגלגל.** הזהירו ואמר לו, לאחר שתמלוך כאשר תרד הגלגל בעת המלחמה עם פלשתים, והנה תרד שם קודם שארד אני, ותמתין אז שבעת ימים עד בואי, כי אני אעלה העולות לה׳, ושם אודיע לך את אשר תעשה בדבר המלוכה [ ולפי שלא המתין, כעס עליו ולא אמר לו גם אז ]:
+**וירדת לפני הגלגל.** הזהירו ואמר לו, לאחר שתמלוך כאשר תרד הגלגל בעת המלחמה עם פלשתים, והנה תרד שם קודם שארד אני, ותמתין אז שבעת ימים עד בואי, כי אני אעלה העולות לה׳, ושם אודיע לך את אשר תעשה בדבר המלוכה [ולפי שלא המתין, כעס עליו ולא אמר לו גם אז]:
 
 
 
@@ -4378,15 +4381,7 @@ if you are strong, you will be able to fight them and win
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/12:5:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/12:5:2)
 
 
-**ויאמר עד.** רצה לומר: כל אחד אמר:
-
-
-###### Metzudat David on I Samuel 12:5:3
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/12:5:3](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/12:5:3)
-
-
-**בן הדבר, ה׳ יהיה עד, וכן משיחו יהיה עד.** או שאול לבד אמר: אני אהיה עד:
+**ויאמר עד.** רצה לומר: כל אחד אמר: כן הדבר, ה׳ יהיה עד, וכן משיחו יהיה עד. או שאול לבד אמר: אני אהיה עד:
 
 
 
@@ -5385,7 +5380,7 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/14:15:3](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/14:15:3)
 
 
-**ותהי לחרדת אלהים.** המחנה היתה לחרדה גדולה כי כאשר ירצה להגדיל דבר מה, סומכו למלת ׳אל׳ כמו [ תהלים פ י ]: וענפיה ארזי אל:
+**ותהי לחרדת אלהים.** המחנה היתה לחרדה גדולה כי כאשר ירצה להגדיל דבר מה, סומכו למלת ׳אל׳ כמו [תהלים פ י]: וענפיה ארזי אל:
 
 
 
@@ -6320,7 +6315,7 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/15:33:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/15:33:2)
 
 
-**מנשים.** מעין הנשים ההן, ודומה להן תהיה אמך, שכולה ממך:
+**מנשים.** מעין הנשים ההן ודומה להן תהיה אמך, שכולה ממך:
 
 
 
@@ -6331,7 +6326,7 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/15:35:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/15:35:1)
 
 
-**כי התאבל.** רצה לומר: לפי שעם שהיה מתאבל על שאול, עם כל זאת נחם ה׳ וכו׳ ולא חש על אבלותו, לזה נעצב מאוד ולא בא עוד לפני שאול [ אבל שאול בא לפני שמואל, כמו שנאמר לקמן יט ]:
+**כי התאבל.** רצה לומר: לפי שעם שהיה מתאבל על שאול, עם כל זאת נחם ה׳ וכו׳ ולא חש על אבלותו, לזה נעצב מאוד ולא בא עוד לפני שאול [אבל שאול בא לפני שמואל, כמו שנאמר לקמן יט]:
 
 
 
@@ -6435,31 +6430,7 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/16:10:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/16:10:1)
 
 
-**שבעת בניו.** בדברי הימים (א ב טו) לא חשב כי אם שבעה עם דוד, שנאמר:
-
-
-###### Metzudat David on I Samuel 16:10:2
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/16:10:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/16:10:2)
-
-
-**דוד השביעי.** ובמדרש יש שהיה לישי עוד בן, ושמו אליהו המוזכר בין הנגידים, שנאמר (שם א כז יח): ליהודה אליהו מאחי דוד, וכן נאמר (לקמן יז יב):
-
-
-###### Metzudat David on I Samuel 16:10:3
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/16:10:3](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/16:10:3)
-
-
-**ולו שמנה בנים [ ומה שלא חשבו בדברי הימים, יראה שהיה מאשה אחרת.** וצרויה ואביגיל היו אחיות לשבעת האחים רק מן האם ולא מן האב, וכמו שנאמר (שמואל ב יז כה):
-
-
-###### Metzudat David on I Samuel 16:10:4
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/16:10:4](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/16:10:4)
-
-
-**אשר בא אל אביגיל בת נחש.** ומזה יראה שהיתה בת נחש, ולא בת ישי, ובהיות כן לא היו אחיות לאליהו, לא מן האב ולא מן האם והנה בדברי הימים (א ב טז) נאמר: ואחיותיהם צרויה ואביגיל, ולזה לא חשב אליהו עמהם, כי לאליהו לא היו אחיות כאמור, אולם חז״ל לא קבלו כן, כי אמרו (בבא בתרא יז א): שנחש הוא ישי ]:
+**שבעת בניו.** בדברי הימים (א ב טו) לא חשב כי אם שבעה עם דוד, שנאמר: דוד השביעי. ובמדרש יש שהיה לישי עוד בן, ושמו אליהו המוזכר בין הנגידים, שנאמר (שם א כז יח): ליהודה אליהו מאחי דוד, וכן נאמר (לקמן יז יב): ולו שמנה בנים [ומה שלא חשבו בדברי הימים, יראה שהיה מאשה אחרת. וצרויה ואביגיל היו אחיות לשבעת האחים רק מן האם ולא מן האב, וכמו שנאמר (שמואל ב יז כה): אשר בא אל אביגיל בת נחש. ומזה יראה שהיתה בת נחש, ולא בת ישי, ובהיות כן לא היו אחיות לאליהו, לא מן האב ולא מן האם והנה בדברי הימים (א ב טז) נאמר: ואחיותיהם צרויה ואביגיל, ולזה לא חשב אליהו עמהם, כי לאליהו לא היו אחיות כאמור, אולם חז״ל לא קבלו כן, כי אמרו (בבא בתרא יז א): שנחש הוא ישי]:
 
 
 
@@ -6519,15 +6490,7 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/16:15:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/16:15:1)
 
 
-**רוח אלהים.** רצה לומר:
-
-
-###### Metzudat David on I Samuel 16:15:2
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/16:15:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/16:15:2)
-
-
-**רוח גדול וחזק, כי כשרוצה להגדיל דבר מה, סומכו למלת אלהים.** וכן (לעיל יד טו) ותהי לחרדת אלהים או רצה לומר: רוח רעה הבאה מאלהים:
+**רוח אלהים.** רצה לומר: רוח גדול וחזק, כי כשרוצה להגדיל דבר מה, סומכו למלת אלהים. וכן (לעיל יד טו) ותהי לחרדת אלהים או רצה לומר: רוח רעה הבאה מאלהים:
 
 
 
@@ -7235,7 +7198,7 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/17:46:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/17:46:1)
 
 
-**ונתתי פגד.** כי כשאמיתך ינוסו כולם ויפלו חללים:
+**ונתתי פגר.** כי כשאמיתך ינוסו כולם ויפלו חללים:
 
 
 
@@ -7684,15 +7647,7 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/18:22:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/18:22:2)
 
 
-**הנה המלך חפץ בך.** רצה לומר:
-
-
-###### Metzudat David on I Samuel 18:22:3
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/18:22:3](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/18:22:3)
-
-
-**במה שמרב נשאת לאחר, לא תחשוב שהיה מדעת המלך, לא כן הוא, כי הוא חפץ בך.** אף לא תחשוב שעבדי המלך מתקנאים בך, והם אשר מאסו אותך בעיני מרב, ותחוש פן ימאסוך גם בעיני מיכל, גם זה לא הוא, כי כל עבדי המלך אהבוך, ומירב מאסה בך מעצמה, אבל הואיל ומיכל אוהבת אותך, התחתן במלך:
+**הנה המלך חפץ בך.** רצה לומר: במה שמרב נשאת לאחר, לא תחשוב שהיה מדעת המלך, לא כן הוא, כי הוא חפץ בך. אף לא תחשוב שעבדי המלך מתקנאים בך, והם אשר מאסו אותך בעיני מרב, ותחוש פן ימאסוך גם בעיני מיכל, גם זה לא הוא, כי כל עבדי המלך אהבוך, ומירב מאסה בך מעצמה, אבל הואיל ומיכל אוהבת אותך, התחתן במלך:
 
 
 
@@ -8068,7 +8023,7 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/19:24:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/19:24:2)
 
 
-**ויפול.** נפל על פניו ארצה, וכמו שנאמר בדניאל [ י ט ]: ואני הייתי נרדם על פני ופני ארצה:
+**ויפול.** נפל על פניו ארצה, וכמו שנאמר בדניאל [י ט]: ואני הייתי נרדם על פני ופני ארצה:
 
 
 ###### Metzudat David on I Samuel 19:24:3
@@ -8177,7 +8132,7 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/20:6:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/20:6:1)
 
 
-**אם פקוד.** אם יזכור בי לשאול עלי, אז תשיב לומר שנשאל ממני ללכת לעירו על הזבח הקבוע לבני משפחתו בכל שנה [ וחשב כי בזולת ראש חדש לא ישאל עליו, כי אין הדבר קבע לבוא בכל יום, ואף בראש חדש לבד, לא ישאל, בחשבו שמקרה הוא, וכאשר היה באמת שחדל לשאול בראש חדש, אולם כשלא יבוא בראש חודש וגם ביום שלאחריו, אז קרוב הדבר שישאל עליו ]:
+**אם פקוד.** אם יזכור בי לשאול עלי, אז תשיב לומר שנשאל ממני ללכת לעירו על הזבח הקבוע לבני משפחתו בכל שנה [וחשב כי בזולת ראש חדש לא ישאל עליו, כי אין הדבר קבע לבוא בכל יום, ואף בראש חדש לבד, לא ישאל, בחשבו שמקרה הוא, וכאשר היה באמת שחדל לשאול בראש חדש, אולם כשלא יבוא בראש חודש וגם ביום שלאחריו, אז קרוב הדבר שישאל עליו]:
 
 
 
@@ -8258,7 +8213,7 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/20:9:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/20:9:2)
 
 
-**עד אשר אם אדע וכו׳.** רצה לומר לא נמצא בך עון שבעבורה אעלים ממך דברי אבי:
+**כי  אם ידע אדע וכו׳.** רצה לומר לא נמצא בך עון שבעבורה אעלים ממך דברי אבי:
 
 
 
@@ -8269,7 +8224,7 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/20:10:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/20:10:1)
 
 
-**מי יגיד לך.** רצה לומר: על ידי מי תגיד לי:
+**מי יגיד לי.** רצה לומר: על ידי מי תגיד לי:
 
 
 ###### Metzudat David on I Samuel 20:10:2
@@ -8402,7 +8357,7 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/20:17:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/20:17:1)
 
 
-**באהבתו אותו.** רצה לומר: לא הוסיף להשביעו, בעבור כי חשש פן לא יקיים דוד את הברית שמאז, אולם מה שהוסיף להשביעו, הוא על כי אהב אותו כנפשו, והיה מתענג בהזכיר כי מלוך ימלוך ויהיה לאל ידו לעשות חסד:
+**באהבתו אותו.** רצה לומר: לא הוסיף להשביעו בעבור כי חשש פן לא יקיים דוד את הברית שמאז, אולם מה שהוסיף להשביעו, הוא על כי אהב אותו כנפשו, והיה מתענג בהזכיר כי מלוך ימלוך ויהיה לאל ידו לעשות חסד:
 
 
 
@@ -9018,7 +8973,7 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/21:7:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/21:7:2)
 
 
-**המוסרים.** אשר נסתלקו מן השלחן, לשום במקומם לחם חם, בעת הלקח את אלו שהיו מונחים על השלחן כל השבוע [ ואף שהלחם המסודר בשבת היה נאפה מערב שבת, מכל מקום היה מונח במקום שישמור חומו ]:
+**המוסרים.** אשר נסתלקו מן השלחן, לשום במקומם לחם חם, בעת הלקח את אלו שהיו מונחים על השלחן כל השבוע [ואף שהלחם המסודר בשבת היה נאפה מערב שבת, מכל מקום היה מונח במקום שישמור חומו]:
 
 
 
@@ -9067,7 +9022,7 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/21:10:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/21:10:1)
 
 
-**אחרי האפוד.** מונחת אחרי האפוד ויונתן תרגם:
+**אחרי האפוד.** מונחת אחרי האפוד ויונתן תרגם: בתר דשאיל ליה באפודא. רצה לומר: מתחלה שאל לו באורים ותומים, ואחרי זה אמר לו הדברים האלה:
 
 
 ###### Metzudat David on I Samuel 21:10:2
@@ -9075,20 +9030,12 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/21:10:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/21:10:2)
 
 
-**בתר דשאיל ליה באפודא.** רצה לומר: מתחלה שאל לו באורים ותומים, ואחרי זה אמר לו הדברים האלה:
+**אם אותה.** אם תרצה לקחתה, קח אותה:
 
 
 ###### Metzudat David on I Samuel 21:10:3
 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/21:10:3](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/21:10:3)
-
-
-**אם אותה.** אם תרצה לקחתה, קח אותה:
-
-
-###### Metzudat David on I Samuel 21:10:4
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/21:10:4](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/21:10:4)
 
 
 **אין כמוה.** רצה לומר: טובה היא לי מכל החרבות:
@@ -9527,7 +9474,7 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/23:7:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/23:7:1)
 
 
-**נכר.** מסר אותו אלהים בידי אחרי שסגר בעדו לשבת בעיר דלתים ובריה, ובוטח הוא בחוזק העיר ולא יתחבא עוד, ואני אצור על העיר עד רדתה:
+**נכר.** מסר אותו אלהים בידי אחרי שסגר בעדו לשבת בעיר דלתים ובריח, ובוטח הוא בחוזק העיר ולא יתחבא עוד, ואני אצור על העיר עד רדתה:
 
 
 
@@ -9631,7 +9578,7 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/23:16:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/23:16:1)
 
 
-**ויחזק.** חזק, כמו ואמץ לבבו במשענת אלהים, באמרו ; אלהים עמך, מה יעשה בשר לך:
+**ויחזק.** חזק, כמו ואמץ לבבו במשענת אלהים, כאמרו: אלהים עמך, מה יעשה בשר לך:
 
 
 
@@ -9790,7 +9737,7 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/24:3:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/24:3:1)
 
 
-**צורי היעלים.** סלעים גבוהים אשר היעלים מקננים בהן וכן נאמר [ איוב לט א ]: הידעת עת לדת יעלי סלע:
+**צורי היעלים.** סלעים גבוהים אשר היעלים מקננים בהן וכן נאמר [איוב לט א]: הידעת עת לדת יעלי סלע:
 
 
 
@@ -9831,7 +9778,7 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/24:7:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/24:7:2)
 
 
-**חלילה לי מה׳.** הדבר הזה הוא חולין לי מחמת מצות ה׳, וחוזר ומפרש הדבר ואמר ; אם אעשה וכו׳ לשלוח ידי בו:
+**חלילה לי מה׳.** הדבר הזה הוא חולין לי מחמת מצות ה׳, וחוזר ומפרש הדבר ואמר: אם אעשה וכו׳ לשלוח ידי בו:
 
 
 ###### Metzudat David on I Samuel 24:7:3
@@ -10125,7 +10072,7 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/25:8:3](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/25:8:3)
 
 
-**כי על יום טוב.** דרכם היה לעשות יום טוב ומשתה ושמחה בעת גזיזת הצאן, וכן נאמר באבשלום (שמואל ב יג כג):
+**כי על יום טוב.** דרכם היה לעשות יום טוב ומשתה ושמחה בעת גזיזת הצאן, וכן נאמר באבשלום (שמואל ב יג כג): ויהי גוזזים וכו׳ ויקרא וכו׳. וצוה דוד לאמר לו: הלא על יום טוב באנו, ומהראוי לקבל אז את כל הבא בסבר פנים יפות:
 
 
 ###### Metzudat David on I Samuel 25:8:4
@@ -10133,20 +10080,12 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/25:8:4](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/25:8:4)
 
 
-**ויהי גוזזים וכו׳ ויקרא וכו׳.** וצוה דוד לאמר לו: הלא על יום טוב באנו, ומהראוי לקבל אז את כל הבא בסבר פנים יפות:
+**תנה נא.** עתה תנה את אשר תמצא ידך, אם מעט ואם הרבה:
 
 
 ###### Metzudat David on I Samuel 25:8:5
 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/25:8:5](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/25:8:5)
-
-
-**תנה נא.** עתה תנה את אשר תמצא ידך, אם מעט ואם הרבה:
-
-
-###### Metzudat David on I Samuel 25:8:6
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/25:8:6](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/25:8:6)
 
 
 **לעבדיך.** על עצמם אמרו:
@@ -11121,7 +11060,7 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/27:11:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/27:11:2)
 
 
-**לאמר.** כי אמר ; פן יגידו לאמר שעליהם פושטים, לא על בני עמו:
+**לאמר.** כי אמר: פן יגידו לאמר שעליהם פושטים, לא על בני עמו:
 
 
 
@@ -11211,7 +11150,7 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/28:6:2](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/28:6:2)
 
 
-**ולא ענהו.** בכל מה ששאל, גם בחלומות גם באורים וכו׳ [ ואף שהאורים היו עם אביתר שהלך עם דוד, אפשר לומר ששלח אליו אנשים לשאול בו ]:
+**ולא ענהו.** בכל מה ששאל, גם בחלומות גם באורים וכו׳ [ואף שהאורים היו עם אביתר שהלך עם דוד, אפשר לומר ששלח אליו אנשים לשאול בו]:
 
 
 
@@ -11407,7 +11346,7 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/28:19:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/28:19:1)
 
 
-**עמי.** בקבר כמוני ורבותינו ז״ל (שם) אמרו ; עמי במחיצתי:
+**עמי.** בקבר כמוני ורבותינו ז״ל (שם) אמרו: עמי במחיצתי:
 
 
 ###### Metzudat David on I Samuel 28:19:2
@@ -11633,7 +11572,7 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/29:10:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/29:10:1)
 
 
-**ועבדי אדוניך.** רצה לומר: אנשיך שהיו מאז עבדי שאול אדוניך, והבאישו בו כמוך, וכאומר ; בעבור זה נחשדים גם המה בעיני הסרנים כמוך, ולזה ישובו עמך:
+**ועבדי אדוניך.** רצה לומר: אנשיך שהיו מאז עבדי שאול אדוניך, והבאישו בו כמוך, וכאומר: בעבור זה נחשדים גם המה בעיני הסרנים כמוך, ולזה ישובו עמך:
 
 
 ###### Metzudat David on I Samuel 29:10:2
@@ -11958,11 +11897,11 @@ some in michmas some in bet kel
 
 
 
-### Verse 26
+### Verse 27
 
-###### Metzudat David on I Samuel 30:26:1
+###### Metzudat David on I Samuel 30:27:1
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/30:26:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/30:26:1)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/30:27:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/30:27:1)
 
 
 **לאשר וכו׳.** לזקני יהודה רעיו, אשר הם בבית אל וכו׳:
@@ -12001,7 +11940,7 @@ some in michmas some in bet kel
 [https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/31:3:1](https://torahapp.org/share/book/Metzudat%20David%20on%20I%20Samuel/r/31:3:1)
 
 
-**את שאול.** כי בניו כבר הרגו, והיתה כל פני המלחמה אליו לבד:
+**אל שאול.** כי בניו כבר הרגו, והיתה כל פני המלחמה אליו לבד:
 
 
 ###### Metzudat David on I Samuel 31:3:2

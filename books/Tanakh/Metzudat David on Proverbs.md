@@ -5437,7 +5437,7 @@ Version (En): Sefaria Community Translation (Segments: 4)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/14:1:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/14:1:1)
 
 
-**חכמות נשים.** כל אחת מהחכמות שבנשים בנתה ביתה ר״ל מעמדת ביתה:
+**חכמות נשים.** כל אחת מהחכמות שבנשים בנתה ביתה ר״ל מעמדת ביתה על בסיסה:
 
 
 ###### Metzudat David on Proverbs 14:1:2
@@ -5445,7 +5445,7 @@ Version (En): Sefaria Community Translation (Segments: 4)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/14:1:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/14:1:2)
 
 
-**על בסיסה תהרסנו.** מהרסת ביתה בידיה:
+**תהרסנו.** מהרסת ביתה בידיה:
 
 
 
@@ -8006,20 +8006,23 @@ Version (En): Sefaria Community Translation (Segments: 4)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/19:28:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/19:28:2)
 
 
-**יבלע און.** דברי האון יאמר בבליעה לבל ירגישו שעצם הכוונה על דבר האון ההוא כי יחשבו שלפי תומו ידבר: (:
+**יבלע און.** דברי האון יאמר בבליעה לבל ירגישו שעצם הכוונה על דבר האון ההוא כי יחשבו שלפי תומו ידבר:
 
 
-###### Metzudat David on Proverbs 19:28:3
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/19:28:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/19:28:3)
+### Verse 29
+
+###### Metzudat David on Proverbs 19:29:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/19:29:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/19:29:1)
 
 
-**ט) שפטים.** משפטי יסורים:
+**שפטים.** משפטי יסורים:
 
 
-###### Metzudat David on Proverbs 19:28:4
+###### Metzudat David on Proverbs 19:29:2
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/19:28:4](https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/19:28:4)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/19:29:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/19:29:2)
 
 
 **ומהלומות.** מכות המשברות נכונו לגוף הכסילים:
@@ -11561,7 +11564,7 @@ For even if the righteous have fallen seven times, they will return and rise. Ho
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/28:12:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/28:12:1)
 
 
-**בעלוץ.** בעת ישמחו הצדיקים על כי גדלה הצלחתם וכל דבר נעשה על פיהם אז רבה תפארת המקום כי לא ישמע בה קול נוגש ומעקשות אבל בעת יקומו רשעים למשול בה אז יחופש האדם כי הרשעים ההם יחפשום לעשוק הונם:
+**בעלוץ.** בעת ישמחו הצדיקים על כי גדלה הצלחתם וכל דבר נעשה על פיהם אז רבה תפארת המקום כי לא ישמע בה קול נוגש ומעשקות אבל בעת יקומו רשעים למשול בה אז יחופש האדם כי הרשעים ההם יחפשום לעשוק הונם:
 
 
 
@@ -12900,7 +12903,7 @@ For even if the righteous have fallen seven times, they will return and rise. Ho
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/31:10:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/31:10:3)
 
 
-**ורחוק.**אם היו רוצים למכרה אז שוויה רחוק משל שווי הפנינים כי היא שוותה יותר והוא עניין מליצה:
+**ורחוק.** אם היו רוצים למכרה אז שוויה רחוק משל שווי הפנינים כי היא שוותה יותר והוא עניין מליצה:
 
 
 
@@ -12979,7 +12982,7 @@ For even if the righteous have fallen seven times, they will return and rise. Ho
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/31:15:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/31:15:3)
 
 
-**וחוק.**מזון הקצוב תחלק לנערותיה:
+**וחוק.** מזון הקצוב תחלק לנערותיה:
 
 
 
@@ -13050,7 +13053,7 @@ For even if the righteous have fallen seven times, they will return and rise. Ho
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/31:20:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/31:20:1)
 
 
-**פרשה.**לקחת מידה מתנתה ולא קפצה יד:
+**פרשה.** לקחת מידה מתנתה ולא קפצה יד:
 
 
 ###### Metzudat David on Proverbs 31:20:2
@@ -13091,7 +13094,7 @@ For even if the righteous have fallen seven times, they will return and rise. Ho
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/31:23:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/31:23:1)
 
 
-**נודע.**בעבור מלבושי הפאר שעשתה לבעלה הוא נודע וניכר בין חביריו בעת יושב עמהם בשערים מקום ישיבת הזקנים והחשובים כמ"ש ועלתה יבמתו השערה (דברים כה):
+**נודע.** בעבור מלבושי הפאר שעשתה לבעלה הוא נודע וניכר בין חביריו בעת יושב עמהם בשערים מקום ישיבת הזקנים והחשובים כמ"ש ועלתה יבמתו השערה (דברים כה):
 
 
 
@@ -13132,7 +13135,7 @@ For even if the righteous have fallen seven times, they will return and rise. Ho
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/31:26:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/31:26:1)
 
 
-**פיה פתחה.**כל מאמריה המה בחכמה:
+**פיה פתחה.** כל מאמריה המה בחכמה:
 
 
 ###### Metzudat David on Proverbs 31:26:2
@@ -13211,7 +13214,7 @@ For even if the righteous have fallen seven times, they will return and rise. Ho
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/31:31:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/31:31:2)
 
 
-**ויהללוה וגו'.** ר"ל כשרון מעשיה יהללו אותה בשערים מקום מושב החשובים ואין א"כ מהצורך לפרסם שבחה כי מעשיה הם המעידים עליה והם המהללים אותה וכל הענין אמורה גם למשל על הנפש המשכלת שהיא עוזרת לבעליה כאשה לבעלה:
+**ויהללוה וגו'.** ר"ל כשרון מעשיה יהללו אותה בשערים מקום מושב החשובים ואין א"כ מהצורך לפרסם שבחה כי מעשיה הם המעידים עליה והם המהללים אותה:
 
 
 ###### Metzudat David on Proverbs 31:31:3
@@ -13219,6 +13222,7 @@ For even if the righteous have fallen seven times, they will return and rise. Ho
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/31:31:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/31:31:3)
 
 
+וכל הענין אמורה גם למשל על הנפש המשכלת שהיא עוזרת לבעליה כאשה לבעלה:
 [י] **אשת חיל מי ימצא.** מי הוא המוצא נפש משכלת על שלימותה לדעת ולהבין מעצמו כל דבר חכמה והשכל וכאומר הלא זה קשה במציאות אבל נמצא און ותחבולה לדעת הכל והיא על כי מכירה פעולתה רחוקה היא משכר הפנינים ואין לה ערך ודמיון עמה כי מוכר הפנינים יקח המחיר והמה יוצאים מתחת ידו אבל המלמד חכמה לזולת במחיר למוד חכמה אחרת נשארו שתיהן ביד כל אחד ואחד א"כ בעל נפש יוכל להשכיל בזה חכמות מרובות:
 
 
@@ -13243,7 +13247,7 @@ For even if the righteous have fallen seven times, they will return and rise. Ho
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/31:31:6](https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/31:31:6)
 
 
-[יג] **דרשה.** הן תשכיל לחקור מצפוני טעמי המצות שהשטן משיב עליהם כלבישת שעטנז צמר ופשתים יחדיו והדומים ועם כי לא השכילה עכ"ז תעשם בחפצה מבלי התרשלות:
+[יג] **דרשה.** הן תשכיל לחקור מצפוני טעמי המצות שהשטן משיב עליהם כלבישת שעטנז צמר ופשתים יחדיו והדומים ועם כי לא השכילה עד התכלית עכ"ז תעשם בחפצה מבלי התרשלות:
 
 
 ###### Metzudat David on Proverbs 31:31:7
@@ -13251,7 +13255,7 @@ For even if the righteous have fallen seven times, they will return and rise. Ho
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/31:31:7](https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/31:31:7)
 
 
-[יד] **היתה.** תשכיל דברים עיונים קשה ההבנה ע"פ הצעות מרובות וראיות מחולפות כספינה הזאת המביאה סחורה מארץ מרחק:
+[יד] **היתה.** תשכיל דברים עיונים קשי ההבנה ע"פ הצעות מרובות וראיות מחולפות כספינה הזאת המביאה סחורה מארץ מרחק:
 
 
 ###### Metzudat David on Proverbs 31:31:8
@@ -13299,7 +13303,7 @@ For even if the righteous have fallen seven times, they will return and rise. Ho
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/31:31:13](https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/31:31:13)
 
 
-[כ] **כפה.**תמתיק אמריה במליצה נאותה להכניס חכמה והשכל בלבות חלושי הדעת ודלי התבונה :
+[כ] **כפה.** תמתיק אמריה במליצה נאותה להכניס חכמה והשכל בלבות חלושי הדעת ודלי התבונה:
 
 
 ###### Metzudat David on Proverbs 31:31:14
@@ -13331,7 +13335,7 @@ For even if the righteous have fallen seven times, they will return and rise. Ho
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/31:31:17](https://torahapp.org/share/book/Metzudat%20David%20on%20Proverbs/r/31:31:17)
 
 
-[כד] **סדין.** חקרה והשכילה מדעתה דברים נפלאים ומאורה תשפיע להניק לזולת במחיר מושכלות אחרות :
+[כד] **סדין.** חקרה והשכילה מדעתה דברים נפלאים ומאורה תשפיע להניק לזולת במחיר מושכלות אחרות:
 
 
 ###### Metzudat David on Proverbs 31:31:18

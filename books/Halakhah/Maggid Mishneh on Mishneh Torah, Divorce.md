@@ -3343,7 +3343,7 @@ Version (He): ToratEmet (Segments: 450, License: unknown)
 [https://torahapp.org/share/book/Maggid%20Mishneh%20on%20Mishneh%20Torah%2C%20Divorce/r/10:22:1](https://torahapp.org/share/book/Maggid%20Mishneh%20on%20Mishneh%20Torah%2C%20Divorce/r/10:22:1)
 
 
-**אשה רעה בדעותיה ושאינה צנועה כבנות ישראל.** פרק הבא על יבמתו (יבמות דף ס"ג) :
+**אשה רעה בדעותיה ושאינה צנועה כבנות ישראל.** שם בברייתא:
 
 
 

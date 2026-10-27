@@ -1023,7 +1023,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20Judges/r/3:26:1](https://torahapp.org/share/book/Rashi%20on%20Judges/r/3:26:1)
 
 
-**נִמְלָט.** בָּרַח, אישקימוציי״ר בְּלַעַ״ז:
+**נִמְלַט.** בָּרַח, אישקימוציי״ר בְּלַעַ״ז:
 
 
 **Escaped.** Fled, "eschamocier" in old French.
@@ -1745,7 +1745,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20Judges/r/5:14:1](https://torahapp.org/share/book/Rashi%20on%20Judges/r/5:14:1)
 
 
-**מִנִּי אֶפְרַיִם.** מִן אֶפְרַיִם יָצָא שׁוֹרֶשׁ יְהוֹשֻׁעַ בֶּן נוּן, לִרְדּוֹת בַּעֲמָלֵק לְחַלָּשׁ אוֹתוֹ לְפִי חֶרֶב, וּמְחֻבָּר מִקְרָא זֶה לְעֶלְיוֹן, לְפָרֵשׁ: ה׳ יְרַד לִי בַּגִּבּוֹרִים, אֶת יְהוֹשֻׁעַ הֵקִים לְרַד בַּעֲמָלֵק:
+**מִנִּי אֶפְרַיִם.** מִן אֶפְרַיִם יָצָא שׁוֹרֶשׁ יְהוֹשֻׁעַ בֶּן נוּן, לִרְדּוֹת בַּעֲמָלֵק לַחֲלֹשׁ אוֹתוֹ לְפִי חֶרֶב, וּמְחֻבָּר מִקְרָא זֶה לְעֶלְיוֹן, לְפָרֵשׁ: ה׳ יְרַד לִי בַּגִּבּוֹרִים, אֶת יְהוֹשֻׁעַ הֵקִים לְרַד בַּעֲמָלֵק:
 
 
 **In Ephraim.** From Ephraim emerged the root of Yehoshua bin Nun's dominance over Amaleik²³ when he debilitated them with the sword.²⁴ This passage is related to the preceding one, as it explains "Adonoy empowered me over the mighty" by establishing Yehoshua's dominance over Amaleik.
@@ -1915,7 +1915,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20Judges/r/5:19:1](https://torahapp.org/share/book/Rashi%20on%20Judges/r/5:19:1)
 
 
-**בְּתַעֲנַךְ עַל מֵי מְגִדּוֹ.** תִּרְגֵּם יוֹנָתָן: בְּתַעֲנַךְ הֲווֹ שָׁרָן וּמָטָן עַל מֵי מְגִדּוֹ, רֹאשׁ הַמַּחֲנֶה בְּתַעֲנַךְ וּמַגִּיעַ עַד מֵי מְגִדּוֹ:
+**בְּתַעְנַךְ עַל מֵי מְגִדּוֹ.** תִּרְגֵּם יוֹנָתָן: בְּתַעֲנַךְ הֲווֹ שָׁרָן וּמָטָן עַל מֵי מְגִדּוֹ, רֹאשׁ הַמַּחֲנֶה בְּתַעֲנַךְ וּמַגִּיעַ עַד מֵי מְגִדּוֹ:
 
 
 **At Ta'anach to the waters of Megiddo.** Targum Yonasan renders, "They were encamped at Ta'anach, and reached the waters of Megiddo." The upper section of the camp was at Ta'anach, and it extended to the waters of Megiddo.
@@ -2597,7 +2597,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20Judges/r/6:19:2](https://torahapp.org/share/book/Rashi%20on%20Judges/r/6:19:2)
 
 
-**וְהַמָּרָק.** וְהָרוֹטֶב:
+**וְהַמָּרַק.** וְהָרוֹטֶב:
 
 
 **Soup.** Broth.
@@ -2786,7 +2786,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20Judges/r/6:32:1](https://torahapp.org/share/book/Rashi%20on%20Judges/r/6:32:1)
 
 
-**יָרֶב בּוֹ.** בְּגִדְעוֹן אֵצֶל רִיב נוֹפֵל עִם, אוֹ אֶת, אוֹ בּוֹ, כְּמוֹ (בראשית לא:לו): וַיָּרֶב בְּלָבָן, אֲבָל ׳לוֹ׳ אֵינוֹ נוֹפֵל עַל הַלָּשׁוֹן, וְכָל ׳לוֹ׳ הַכְּתוּבִים כָּאן ׳בִּשְׁבִיל׳ הֵם:
+**יָרֶב בּוֹ.** בְּגִדְעוֹן. אֵצֶל רִיב נוֹפֵל עִם, אוֹ אֶת, אוֹ בּוֹ, כְּמוֹ (בראשית לא:לו): וַיָּרֶב בְּלָבָן, אֲבָל ׳לוֹ׳ אֵינוֹ נוֹפֵל עַל הַלָּשׁוֹן, וְכָל ׳לוֹ׳ הַכְּתוּבִים כָּאן ׳בִּשְׁבִיל׳ הֵם:
 
 
 **Fight against him.** Against Gidon. In relation to רַיב, "fight", the proper term is עִם, or אֶת, or בּוֹ, "with" [him], as in "he fought with Lavan".²² However, לוֹ, lit. "to", is not the proper term. Every לוֹ mentioned here is interpreted as "for his sake."
@@ -3269,7 +3269,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20Judges/r/8:7:1](https://torahapp.org/share/book/Rashi%20on%20Judges/r/8:7:1)
 
 
-**הַבַּרְקָנִים.** רונצי״ש בְּלַעַ״ז:
+**הַבַּרְקֳנִים.** רונצי״ש בְּלַעַ״ז:
 
 
 **Thorns.** "Ronzes" in old French.
@@ -3283,7 +3283,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20Judges/r/8:10:1](https://torahapp.org/share/book/Rashi%20on%20Judges/r/8:10:1)
 
 
-**בְּקַרְקֹר.** שֵׁם מָקוֹם:
+**בַּקַּרְקֹר.** שֵׁם מָקוֹם:
 
 
 **At Karkor.** The name of a place.
@@ -3297,7 +3297,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20Judges/r/8:11:1](https://torahapp.org/share/book/Rashi%20on%20Judges/r/8:11:1)
 
 
-**דֶּרֶךְ הַשֹּׁכְנִי בָאֳהָלִים.** דֶּרֶךְ אֶרֶץ קֵדָר וַעֲרָב הַשּׁוֹכְנִים בַּמִּדְבָּר בְּאָהֳלֵיהֶם, שֶׁרוֹעִים מִקְנֶה תָּמִיד וְאֵין דָּרִים בְּבָתִּים:
+**דֶּרֶךְ הַשְּׁכוּנֵי בָאֳהָלִים.** דֶּרֶךְ אֶרֶץ קֵדָר וַעֲרָב הַשּׁוֹכְנִים בַּמִּדְבָּר בְּאָהֳלֵיהֶם, שֶׁרוֹעִים מִקְנֶה תָּמִיד וְאֵין דָּרִים בְּבָתִּים:
 
 
 **By way of the tent dwellers.** By way of the lands of Kedar and Arabia, whose inhabitants were wilderness tent dwellers. Since they were occupied exclusively as shepherds, they could not dwell in houses.
@@ -3308,7 +3308,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20Judges/r/8:11:2](https://torahapp.org/share/book/Rashi%20on%20Judges/r/8:11:2)
 
 
-**מִקֶּדֶם לְנֹבַח וְיָגְבֳּהָה.** שֶׁהֵם עָרֵי יִשְׂרָאֵל, וְלֹא רָצָה לֵילֵךְ שָׁם אֶלָּא דֶּרֶךְ עֲקַלָּתוֹן, כְּדֵי שֶׁלֹּא יַרְגִּישׁוּ בָהֶם, וִיהוּמַּם פִּתְאוֹם:
+**מִקֶּדֶם לְנֹבַח וְיׇגְבְּהָה.** שֶׁהֵם עָרֵי יִשְׂרָאֵל, וְלֹא רָצָה לֵילֵךְ שָׁם אֶלָּא דֶּרֶךְ עֲקַלָּתוֹן, כְּדֵי שֶׁלֹּא יַרְגִּישׁוּ בָהֶם, וִיהוּמַּם פִּתְאוֹם:
 
 
 **East of Novach and Yagbeha.** These were Yisroelite cities. He chose not to pass through them, but rather travelled roundabout, so that they would remain undetected, and could overwhelm them by surprise.
@@ -3322,7 +3322,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20Judges/r/8:13:1](https://torahapp.org/share/book/Rashi%20on%20Judges/r/8:13:1)
 
 
-**מִלְמַעְלָה הֶחָרֶס.** עַד שֶׁלֹּא שָׁקְעָה הַשֶּׁמֶשׁ, בְּעוֹד הַחַמָּה נִרְאֵית גָּבוֹהַּ:
+**מִלְמַעֲלֵה הֶחָרֶס.** עַד שֶׁלֹּא שָׁקְעָה הַשֶּׁמֶשׁ, בְּעוֹד הַחַמָּה נִרְאֵית גָּבוֹהַּ:
 
 
 **With the sun high.** Before sunset, with the sun still visible high above the horizon.
@@ -3585,7 +3585,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20Judges/r/9:12:1](https://torahapp.org/share/book/Rashi%20on%20Judges/r/9:12:1)
 
 
-**לַגֶּפֶן.** גִּדְעוֹן, שֶׁהוּא מִזֶּרַע יוֹסֵף (שופטים ו:יא), שֶׁנֶּאֱמַר בּוֹ (בראשית מט:כב) בֵּן פֹּרָת, (ותרגם שם אונקלוס:) כְּגוּפָן דִּנְצִיב וְכוּ׳:
+**לַגָּפֶן.** גִּדְעוֹן, שֶׁהוּא מִזֶּרַע יוֹסֵף (שופטים ו:יא), שֶׁנֶּאֱמַר בּוֹ (בראשית מט:כב) בֵּן פֹּרָת, (ותרגם שם אונקלוס:) כְּגוּפָן דִּנְצִיב וְכוּ׳:
 
 
 **To the grapevine.** This refers to Gidon,⁶ a descendant of Yoseif, of whom it is said, "A flourishing son"—"like a grapevine positioned, etc."⁷
@@ -4384,7 +4384,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20Judges/r/11:35:2](https://torahapp.org/share/book/Rashi%20on%20Judges/r/11:35:2)
 
 
-**הָיִית בְּעוֹכְרִי.** כָּל דָּמִי נֶעְכָּר, קִפַּחְתְּ אֶת רַגְלִי:
+**הָיִית בְּעֹכְרָי.** כָּל דָּמִי נֶעְכָּר, קִפַּחְתְּ אֶת רַגְלִי:
 
 
 **You have surely brought me to my knees** All my blood is in turmoil, You have taken away my feet.
@@ -5154,7 +5154,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20Judges/r/15:14:2](https://torahapp.org/share/book/Rashi%20on%20Judges/r/15:14:2)
 
 
-**אֲסוּרָיו.** קִשּׁוּרָיו:
+**אֱסוּרָיו.** קִשּׁוּרָיו:
 
 
 **His bonds** which tied him down.
@@ -5322,7 +5322,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20Judges/r/16:13:2](https://torahapp.org/share/book/Rashi%20on%20Judges/r/16:13:2)
 
 
-**עִם הַמַּסֶּכֶת.** עֵץ שֶׁהַגַּרְדִּי מֵיסֵךְ בּוֹ אֶת הַשְּׁתִי, וְשֵׁם הָעֵץ אנשובל״א מַסֶּכֶת, אורטר״א בְּלַעַ״ז:
+**עִם הַמַּסָּכֶת.** עֵץ שֶׁהַגַּרְדִּי מֵיסֵךְ בּוֹ אֶת הַשְּׁתִי, וְשֵׁם הָעֵץ אנשובל״א מַסֶּכֶת, אורטר״א בְּלַעַ״ז:
 
 
 **With the mounting pin.** A wooden rod which the weaver uses to mount the threads of the warp. The name of the wood is "ensouple", of the pin, "ourdissuire".
@@ -5502,7 +5502,9 @@ footnotes:
 
 footnotes:
 ¹ Asniel was the first of the judges.
+² 18:31.
 ³ Thus encompassing the period of Asniel, as his tenure began after the death of Yehoshua, when the Mishkon had already been established at Shiloh.
+⁴ 19:12.
 ⁵ It was later conquered by the tribe of Judah (1:8), during the time of Asniel (there, v.13).
 ⁶ Seder Olam, 12.
 
@@ -6322,7 +6324,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20Judges/r/20:33:3](https://torahapp.org/share/book/Rashi%20on%20Judges/r/20:33:3)
 
 
-**מִמַּעֲרֵה גֶבַע.** מִמָּקוֹם צַר, עֶרְוָתָהּ וְגִלּוּיָהּ שֶׁל גִּבְעַת בִּנְיָמִין, מְקוֹם תּוֹרְפָה שֶׁלָּהּ שֶׁהִיא נוֹחָה לִיכָּבֵשׁ מִשָּׁם, כְּמוֹ (בראשית מב:ט): ״לִרְאוֹת אֶת עֶרְוַת הָאָרֶץ בָּאתֶם״:
+**מִמַּעֲרֵה גָבַע.** מִמָּקוֹם צַר, עֶרְוָתָהּ וְגִלּוּיָהּ שֶׁל גִּבְעַת בִּנְיָמִין, מְקוֹם תּוֹרְפָה שֶׁלָּהּ שֶׁהִיא נוֹחָה לִיכָּבֵשׁ מִשָּׁם, כְּמוֹ (בראשית מב:ט): ״לִרְאוֹת אֶת עֶרְוַת הָאָרֶץ בָּאתֶם״:
 
 
 **Maareh Gev'ah.** From a narrow pass, the "nakedness,"¹⁰ nakedness. or exposed overlook of Givas Binyomin; its uncovered part from which it was defenseless against conquest, as in, "You have come to gaze at the nakedness of the land."¹¹

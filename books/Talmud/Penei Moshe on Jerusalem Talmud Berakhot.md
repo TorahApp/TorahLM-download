@@ -2031,7 +2031,7 @@ There are voices in them. Meaning that sometimes you can find more voices in the
 [https://torahapp.org/share/book/Penei%20Moshe%20on%20Jerusalem%20Talmud%20Berakhot/r/1:5:2:3](https://torahapp.org/share/book/Penei%20Moshe%20on%20Jerusalem%20Talmud%20Berakhot/r/1:5:2:3)
 
 
-**כל המקיים שבע ביום הללתיך.** וקורא ק"ש עם ברכותיה שלפניה ושלאחריהבשחרית ובערבית:
+**כל המקיים שבע ביום הללתיך.** וקורא ק"ש עם ברכותיה שלפניה ושלאחריה בשחרית ובערבית:
 
 
 

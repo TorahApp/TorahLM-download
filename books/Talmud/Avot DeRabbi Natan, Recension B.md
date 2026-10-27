@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Vienna, 1887 (Segments: 626, License: Public Domain)
 
-Version (En): Sefaria Community Translation (Segments: 3)
+Version (En): Sefaria Community Translation (Segments: 11)
 
 
 ## Chapter 1
@@ -3692,12 +3692,18 @@ He used to say: Do not cover over their high places—so that you do not end up 
 חביבין ישראל שנבראו בצלם. אילו לא נבראו ולא נאמר להן חביבין היו. חיבה יתירה נודעת להם שנקראו בנים למקום שנאמר בנים אתם לה' אלהיכם (דברים י"ד א'):
 
 
+9. Beloved are Israel, for they were created in the [divine] image. Had they not been created [in the image] and had it not been made known to them, they would still be beloved. [But] an added measure of love was made known to them—that they are called children of the Omnipresent, as it is said: "You are children to the LORD your God" (Deuteronomy 14:1).
+
+
 ###### Avot DeRabbi Natan, Recension B 44:10
 
 [https://torahapp.org/share/book/Avot%20DeRabbi%20Natan%2C%20Recension%20B/r/44:10](https://torahapp.org/share/book/Avot%20DeRabbi%20Natan%2C%20Recension%20B/r/44:10)
 
 
 חביבין ישראל שניתן להם כלי שבו נוצר (האדם) [העולם]. אילו לא נבראו (לא) [ולא] נאמר להם חביבין היו. חבה יתירה נודעת להם שנתן להם כלי שבו נוצר העולם זו התורה שנאמר ואשים דברי פיך ובצל ידי כסיתיך (ישעיה נ"א ט"ז):
+
+
+10. Beloved are Israel, for there was given to them the instrument by which the world was formed. Had they not been created and had it not been said to them, they would still be beloved. [But] an added measure of love was made known to them—that He gave them the instrument by which the world was formed, namely the Torah, as it is said: "And I have put My words in your mouth, and covered you in the shadow of My hand" (Isaiah 51:16).
 
 
 ###### Avot DeRabbi Natan, Recension B 44:11
@@ -3708,12 +3714,18 @@ He used to say: Do not cover over their high places—so that you do not end up 
 ישראל נקראו עבדים [שנאמר כי לי בני ישראל עבדים] (ויקרא כ"ה נ"ה) ומלאכי השרת נקראו עבדים (ואומר) [שנאמר] הן בעבדיו לא יאמין (איוב ד' י"ח) ואין את יודע איזה חביב [זה] מזה. כשהוא אומר כי עבדי הם אשר הוצאתי אותם מארץ מצרים (ויקרא כ"ה נ"ה) ישראל אתם חביבין לפני יותר ממלאכי השרת:
 
 
+11. Israel are called servants, [as it is said: "For to Me the children of Israel are servants"] (Leviticus 25:55), and the ministering angels are called servants, [as it is said]: "Behold, He puts no trust in His servants" (Job 4:18)—and you do not know which of the two is the more beloved. When Scripture says: "For they are My servants, whom I brought out of the land of Egypt" (Leviticus 25:55)—you, Israel, are more beloved before Me than the ministering angels.
+
+
 ###### Avot DeRabbi Natan, Recension B 44:12
 
 [https://torahapp.org/share/book/Avot%20DeRabbi%20Natan%2C%20Recension%20B/r/44:12](https://torahapp.org/share/book/Avot%20DeRabbi%20Natan%2C%20Recension%20B/r/44:12)
 
 
 ישראל נקראו בנים שנאמר בנים אתם לה' אלהיכם (דברים י"ד א') ומלאכי השרת נקראו בנים שנאמר ויבואו בני האלהים (איוב א' ו') ואי אתה יודע איזה אהוב מהם. כשהוא אומר בני בכורי ישראל (שמות ד' כ"ב) [ישראל] אתם חביבין לפני יותר ממלאכי השרת:
+
+
+12. Israel are called children, as it is said: "You are children to the LORD your God" (Deuteronomy 14:1), and the ministering angels are called children, as it is said: "And the sons of God came [to present themselves]" (Job 1:6)—and you do not know which of them is the more beloved. When Scripture says: "Israel is My firstborn son" (Exodus 4:22)—you, Israel, are more beloved before Me than the ministering angels.
 
 
 ###### Avot DeRabbi Natan, Recension B 44:13
@@ -3724,12 +3736,18 @@ He used to say: Do not cover over their high places—so that you do not end up 
 ישראל נקראו מלכים ומלאכי השרת מלכים. ישראל נקראו מלכים שנאמר בי מלכים ימלוכו (משלי ח' ט"ו) ומלאכי השרת נקראו מלכים שנאמר מלכי צבאות ידודון ידודון (תהלים ס"ח י"ג) אי אתה יודע איזה מכובד זה מזה. כשהוא אומר ואתם תהיו לי ממלכת כהנים (שמות י"ט ו') [ישראל] אתם מכובדים לפני יותר ממלאכי השרת:
 
 
+13. Israel are called kings, and the ministering angels are kings. Israel—as it is said: "By Me kings reign" (Proverbs 8:15); and the ministering angels are called kings, as it is said: "The kings of hosts flee, they flee" (Psalms 68:13)—and you do not know which of the two is the more honored. When Scripture says: "And you shall be to Me a kingdom of priests" (Exodus 19:6)—you, Israel, are more honored before Me than the ministering angels.
+
+
 ###### Avot DeRabbi Natan, Recension B 44:14
 
 [https://torahapp.org/share/book/Avot%20DeRabbi%20Natan%2C%20Recension%20B/r/44:14](https://torahapp.org/share/book/Avot%20DeRabbi%20Natan%2C%20Recension%20B/r/44:14)
 
 
 ישראל נקראו צבאות ומלאכי השרת נקראו צבאות. ישראל מנין שנאמר כי בעצם היום הזה הוצאתי את צבאותיכם (שם י"ב י"ז) ומלאכי השרת מנין שנאמר מלכי צבאות ידודון (תהלים ס"ח י"ג) אי אתה יודע איזה גדול זה מזה. כשהוא אומר והוצאתי את צבאותי את עמי בני ישראל (שמות ז' ד') [ישראל] אתם גדולים לפני יותר ממלאכי השרת:
+
+
+14. Israel are called hosts, and the ministering angels are called hosts. Israel—whence? As it is said: "For on this very day I brought out your hosts" (Exodus 12:17); and the ministering angels—whence? As it is said: "The kings of hosts flee" (Psalms 68:13)—and you do not know which of the two is the greater. When Scripture says: "And I will bring out My hosts, My people the children of Israel" (Exodus 7:4)—you, Israel, are greater before Me than the ministering angels.
 
 
 ###### Avot DeRabbi Natan, Recension B 44:15
@@ -3740,12 +3758,18 @@ He used to say: Do not cover over their high places—so that you do not end up 
 ישראל נקראו קדושים ומלאכי השרת נקראו קדושים. ישראל מנין שנאמר קדש ישראל לה' (ירמיה ב' ג') ומלאכי השרת מנין שנאמר בגזרת עירין פתגמא ומאמר קדישין שאלתא (דניאל ד' י"ד) ולא ידעת איזה מקודש זה מזה. [כשהוא אומר קדש ישראל לה' ישראל] אתם מקודשים לפני יותר ממלאכי השרת:
 
 
+15. Israel are called holy, and the ministering angels are called holy. Israel—whence? As it is said: "Israel is holy to the LORD" (Jeremiah 2:3); and the ministering angels—whence? As it is said: "The matter is by decree of the watchers, and the sentence by the word of the holy ones" (Daniel 4:14)—and you do not know which of the two is the more sanctified. [When Scripture says: "Israel is holy to the LORD"]—you, Israel, are more sanctified before Me than the ministering angels.
+
+
 ###### Avot DeRabbi Natan, Recension B 44:16
 
 [https://torahapp.org/share/book/Avot%20DeRabbi%20Natan%2C%20Recension%20B/r/44:16](https://torahapp.org/share/book/Avot%20DeRabbi%20Natan%2C%20Recension%20B/r/44:16)
 
 
 ישראל נותנים זמרה ומלאכי השרת נותנים זמרה. ישראל מנין שנאמר שמע ישראל ה' אלהינו ה' אחד (דברים ו' ד') ומלאכי השרת מנין שנאמר ברן יחד כוכבי בקר ויריעו כל בני אלהים (איוב ל"ח ז') ואי אתה יודע איזה שבח משובח [יותר]. כשהוא אומר משיח אלהי יעקב ונעים זמירות ישראל (שמואל ב' כ"ג א') השבח שאתם משבחים לפני משובח יותר ממלאכי השרת וכה"א ואתה קדוש יושב תהלות ישראל (תהלים כ"ב ד'):
+
+
+16. Israel give forth song, and the ministering angels give forth song. Israel—whence? As it is said: "Hear, O Israel: the LORD our God, the LORD is One" (Deuteronomy 6:4); and the ministering angels—whence? As it is said: "When the morning stars sang together, and all the sons of God shouted for joy" (Job 38:7)—and you do not know whose praise is the more praiseworthy. When Scripture says: "The anointed of the God of Jacob, and the sweet singer of Israel" (2 Samuel 23:1)—the praise with which you praise before Me is more praiseworthy than that of the ministering angels. And thus it says: "But You are holy, enthroned upon the praises of Israel" (Psalms 22:4).
 
 
 

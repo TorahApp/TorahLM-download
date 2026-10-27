@@ -8776,7 +8776,7 @@ footnotes:
 [https://torahapp.org/share/book/Ibn%20Ezra%20on%20Deuteronomy/r/20:1:1](https://torahapp.org/share/book/Ibn%20Ezra%20on%20Deuteronomy/r/20:1:1)
 
 
-**כי תצא למלחמה.** דבקה עם לא תחום עינך עם מי שהוא חייב רק צאת למלחמה יש לך לחום על מארם ובונה ונוטע ורך הלבב:
+**כי תצא למלחמה.** דבקה עם לא תחוס עינך עם מי שהוא חייב רק צאת למלחמה יש לך לחוס על מארס ובונה ונוטע ורך הלבב:
 
 
 WHEN THOU GOEST FORTH TO BATTLE. This is connected to *And thine eye shall not pity* (Deut. 19:21), for one is not to have pity.¹ However, when going forth to war you should pity² the man who has betrothed a woman, or built a house, or planted a vineyard, or one whose heart is faint.³
@@ -8823,7 +8823,7 @@ FEAR NOT. In your heart.
 [https://torahapp.org/share/book/Ibn%20Ezra%20on%20Deuteronomy/r/20:3:2](https://torahapp.org/share/book/Ibn%20Ezra%20on%20Deuteronomy/r/20:3:2)
 
 
-**ואל תחפזו.** לנום:
+**ואל תחפזו.** לנוס:
 
 
 NOR BE ALARMED. And flee.

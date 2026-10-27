@@ -2052,7 +2052,7 @@ Version (En): Bartenura on Mishnah, trans. by Rabbi Robert Alpert, 2020 (Segment
 **דַּם בֵּיצִים.** אִית דִּמְפָרְשֵׁי דָּם שֶׁבְּבֵיצֵי הַזָּכָר בְּשׁוֹר אַיִל וְתַיִשׁ. וְלִי נִרְאֶה, דָּם הַנִּמְצָא בְּבֵיצַת תַּרְנְגֹּלֶת:
 
 
-דם ביצים – there are those who interpret that the blood of the male testicles of a bull, a ram and a he-goat. But to me it appears that it is the blood that is found in the testicles of the chicken.
+דם ביצים – there are those who interpret that the blood of the male testicles of a bull, a ram and a he-goat. But to me it appears that it is the blood that is found in the egg of the chicken.
 
 
 ###### Bartenura on Mishnah Keritot 5:1:5

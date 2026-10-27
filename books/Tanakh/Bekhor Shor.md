@@ -22581,33 +22581,33 @@ They were hoping for a little compassion from Edom, their brother.
 **נפל וגלוי עינים.** [כלו' בשעה שהוא נופל ושוכב, גם בשעה שהוא גלוי עינים כלו' גם ביום גם בלילה אני רואה המראות]:
 
 
-###### Bekhor Shor, Numbers 24:5:1
+###### Bekhor Shor, Numbers 24:6:1
 
-[https://torahapp.org/share/book/Bekhor%20Shor/s/Numbers/r/24:5:1](https://torahapp.org/share/book/Bekhor%20Shor/s/Numbers/r/24:5:1)
+[https://torahapp.org/share/book/Bekhor%20Shor/s/Numbers/r/24:6:1](https://torahapp.org/share/book/Bekhor%20Shor/s/Numbers/r/24:6:1)
 
 
 **כנחלים נטיו** זה הלשון של נטה שייך באהלים ובנחלים כדכתי' "אשר נטה אהלו" וכתי' "הנני נוטה אליה כנהר שלום וגו'" כנחלים נטיו [כמו שהנחלים נטין ומתפשטין לכאן ולכאן כשהם גדולים, כן יתפשטו האהלים לכאן ולכאן שיפרו וירבו ויהיו צריכים לפשט האהלים ולהרחיבן לכאן ולכאן כמו שכת' "הרחיבי מקום אהלך ויריעות משכנותיך יטו":
 
 
-###### Bekhor Shor, Numbers 24:5:2
+###### Bekhor Shor, Numbers 24:6:2
 
-[https://torahapp.org/share/book/Bekhor%20Shor/s/Numbers/r/24:5:2](https://torahapp.org/share/book/Bekhor%20Shor/s/Numbers/r/24:5:2)
+[https://torahapp.org/share/book/Bekhor%20Shor/s/Numbers/r/24:6:2](https://torahapp.org/share/book/Bekhor%20Shor/s/Numbers/r/24:6:2)
 
 
 [**כגנת עלי נהר.** שגדילים הגנות ומתרחבין:
 
 
-###### Bekhor Shor, Numbers 24:5:3
+###### Bekhor Shor, Numbers 24:6:3
 
-[https://torahapp.org/share/book/Bekhor%20Shor/s/Numbers/r/24:5:3](https://torahapp.org/share/book/Bekhor%20Shor/s/Numbers/r/24:5:3)
+[https://torahapp.org/share/book/Bekhor%20Shor/s/Numbers/r/24:6:3](https://torahapp.org/share/book/Bekhor%20Shor/s/Numbers/r/24:6:3)
 
 
 **כאהלים נטע ה'.** [אהלים ושנטע הק' בגן עדן כדכתי' "ויטע ה' גן בעדן מקדם" שגדילין ומתברכין] ובאהלים נמי שייך לשון נטיעה כדכתי' "ויטע אהלי אפדנו":
 
 
-###### Bekhor Shor, Numbers 24:5:4
+###### Bekhor Shor, Numbers 24:6:4
 
-[https://torahapp.org/share/book/Bekhor%20Shor/s/Numbers/r/24:5:4](https://torahapp.org/share/book/Bekhor%20Shor/s/Numbers/r/24:5:4)
+[https://torahapp.org/share/book/Bekhor%20Shor/s/Numbers/r/24:6:4](https://torahapp.org/share/book/Bekhor%20Shor/s/Numbers/r/24:6:4)
 
 
 **כארזים עלי מים** שגדילין והולכין כן ישראל יפרו וירבו ויגדלו אהליהם:

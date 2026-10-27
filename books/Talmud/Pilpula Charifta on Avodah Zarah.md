@@ -1,6 +1,6 @@
 # Pilpula Charifta on Avodah Zarah
 
- פלפולא חריפתא על עבודה זרה
+פלפולא חריפתא על עבודה זרה
 
 Link: [https://torahapp.org/share/book/Pilpula%20Charifta%20on%20Avodah%20Zarah](https://torahapp.org/share/book/Pilpula%20Charifta%20on%20Avodah%20Zarah)
 

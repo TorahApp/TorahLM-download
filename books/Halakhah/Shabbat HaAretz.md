@@ -14,7 +14,7 @@ Location: Halakhah/Acharonim
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Jerusalem, 1937 (Segments: 567, License: unknown)
+Version (He): Rav Kook’s Introduction to Shabbat Ha’aretz, Hazon, NY 2014 (Segments: 567, License: CC-BY-NC)
 
 Version (En): Rav Kook's Introduction to Shabbat Ha'aretz, trans. by Julian Sinclair Hazon, NY 2014 (Segments: 46)
 

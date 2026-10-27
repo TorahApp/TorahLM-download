@@ -4,9 +4,9 @@
 
 Link: [https://torahapp.org/share/book/Torat%20HaAdam](https://torahapp.org/share/book/Torat%20HaAdam)
 
-חיבור מהמאה ה-12 מאת הרמב"ן על הלכות סוף החיים, כמו טיפול בגוסס בשבת, וידוי, קבורה ואבל.
+חיבור מהמאה ה-13 מאת הרמב"ן על הלכות סוף החיים, כמו טיפול בגוסס בשבת, וידוי, קבורה ואבל.
 
-12th-century work by Ramban on laws of end of life, such as treatment of a dying person on Shabbat, confession, burial, and mourning
+13th-century work by Ramban on laws of end of life, such as treatment of a dying person on Shabbat, confession, burial, and mourning
 
 Sections: Paragraph
 

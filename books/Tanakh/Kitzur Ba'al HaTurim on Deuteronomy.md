@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): On Your Way (Segments: 621, License: Public Domain)
 
-Version (En): Yalkut, Sifsei Chachomim Chumash, Metsudah Publications, 2009 (Segments: 16)
+Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 16)
 
 
 ## Chapter 1
@@ -59,7 +59,7 @@ These are the words (1:1) - This is a hint for three times [eleh = 1; devarim, p
 [https://torahapp.org/share/book/Kitzur%20Ba%27al%20HaTurim%20on%20Deuteronomy/r/1:3:1](https://torahapp.org/share/book/Kitzur%20Ba%27al%20HaTurim%20on%20Deuteronomy/r/1:3:1)
 
 
-**בארבעים** ב' במס' ויהי בארבעים שנה. באדבעים אלף בישראל לומר אם יהיה ת"ח אחד בין מ' אלף אין צריכין לא רומח ולא מגן כי ת"ח מגין עליהם מאויביהם דאיירי התם בת"ח שנא' לבי לחוקקי ישראל והכא נמי כתיב בתריה ענין התורה שנאמר הואיל משה באר את התורה:
+**בארבעים** ב' במס' ויהי בארבעים שנה. בארבעים אלף בישראל לומר אם יהיה ת"ח אחד בין מ' אלף אין צריכין לא רומח ולא מגן כי ת"ח מגין עליהם מאויביהם דאיירי התם בת"ח שנא' לבי לחוקקי ישראל והכא נמי כתיב בתריה ענין התורה שנאמר הואיל משה באר את התורה:
 
 
 
@@ -1969,7 +1969,7 @@ These are the words (1:1) - This is a hint for three times [eleh = 1; devarim, p
 [https://torahapp.org/share/book/Kitzur%20Ba%27al%20HaTurim%20on%20Deuteronomy/r/11:27:1](https://torahapp.org/share/book/Kitzur%20Ba%27al%20HaTurim%20on%20Deuteronomy/r/11:27:1)
 
 
-**את הברכה** בברכה אמר את לשון רבוי כי לא נפל דבר אחד מכל דברו הטוב ובקללה לא אמר את אלא והקללה. ד"א את הברכה מאל"ף ועד תי"ו מאם בחקותי עד קוממיות ובקללה מוי"ו ועד ה"א מואם לא תשמעו עד ואין קונה ובקללה אמר אם לא תשמעו ובברכה אמר אשר תשמעון ולא אמד אם בלשון ספק ואמר אשר סלשון אשרי שנאמר אשרי אדם שומע לי:
+**את הברכה** בברכה אמר את לשון רבוי כי לא נפל דבר אחד מכל דברו הטוב ובקללה לא אמר את אלא והקללה. ד"א את הברכה מאל"ף ועד תי"ו מאם בחקותי עד קוממיות ובקללה מוי"ו ועד ה"א מואם לא תשמעו עד ואין קונה ובקללה אמר אם לא תשמעו ובברכה אמר אשר תשמעון ולא אמר אם בלשון ספק ואמר אשר מלשון אשרי שנאמר אשרי אדם שומע לי:
 
 
 ###### Kitzur Ba'al HaTurim on Deuteronomy 11:27:2

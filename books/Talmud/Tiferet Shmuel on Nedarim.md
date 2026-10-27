@@ -1,6 +1,6 @@
 # Tiferet Shmuel on Nedarim
 
- תפארת שמואל על נדרים
+תפארת שמואל על נדרים
 
 Link: [https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Nedarim)
 

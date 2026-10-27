@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): eu5 text (Segments: 17418, License: unknown)
 
-Version (En): [fr] (Segments: 1021)
+Version (En): Mishnah Berurah temp (Segments: 1025)
 
 # Mishnah Berurah — part 1 of 2
 
@@ -13054,7 +13054,7 @@ The chazzan...: in order that he should be able to say Kaddish immediately and s
 [https://torahapp.org/share/book/Mishnah%20Berurah/r/54:9](https://torahapp.org/share/book/Mishnah%20Berurah/r/54:9)
 
 
-(ט) בלא תהלה - או אחר תפלה וכמו שכתבנו בס"ק הקודם וכן אחר שלמד איזה ענין מתורה שבע"פ יוכל לומר קדיש דרבנן ועיין במ"א שמסיק דדוקא אם אמר אח"ז עכ"פ מקצת דבר אגדה ואז יוכל לומר הקדיש דרבנן כי עיקר הקדיש זה נתקן על דבר אגדה וע"כ מנהג כל ישראל לומר אחר פרקי אבות ואחר במה מדליקין המאמר דר' חנניא בן עקשיא או אר"א א"ר =אמר רבי= חנינא ת"ח מרבים שלום וכו'. ולפ"ז יש ליזהר כשלומדים משניות יאמרו בסוף הלימוד המאמר דר' חנניא בן עקשיא וכדומה כדי שיהיו יוכלו לומר עי"ז אח"כ הקדיש דרבנן. ואחר תנ"ך אומרים קדיש שלם אפילו רק אחר ג' פסוקים. ואין לומר קדיש אא"כ היו עשרה אנשים בבהכ"נ בשעת אמירת הפסוקים והלימוד וכמו שיתבאר בסימן נ"ה במ"ב סק"ב ואפילו אם רק ב' וג' לומדים אומרים קדיש כשיש שם עשרה ואפילו מי שלא למד יכול ג"כ לומר הקדיש כמו בפריסת שמע לקמן בסימן ס"ט:
+(ט) בלא תהלה - או אחר תפלה וכמו שכתבנו בס"ק הקודם וכן אחר שלמד איזה ענין מתורה שבע"פ יוכל לומר קדיש דרבנן ועיין במ"א שמסיק דדוקא אם אמר אח"ז עכ"פ מקצת דבר אגדה ואז יוכל לומר הקדיש דרבנן כי עיקר הקדיש זה נתקן על דבר אגדה וע"כ מנהג כל ישראל לומר אחר פרקי אבות ואחר במה מדליקין המאמר דר' חנניא בן עקשיא או אר"א א"ר חנינא ת"ח מרבים שלום וכו'. ולפ"ז יש ליזהר כשלומדים משניות יאמרו בסוף הלימוד המאמר דר' חנניא בן עקשיא וכדומה כדי שיהיו יוכלו לומר עי"ז אח"כ הקדיש דרבנן. ואחר תנ"ך אומרים קדיש שלם אפילו רק אחר ג' פסוקים. ואין לומר קדיש אא"כ היו עשרה אנשים בבהכ"נ בשעת אמירת הפסוקים והלימוד וכמו שיתבאר בסימן נ"ה במ"ב סק"ב ואפילו אם רק ב' וג' לומדים אומרים קדיש כשיש שם עשרה ואפילו מי שלא למד יכול ג"כ לומר הקדיש כמו בפריסת שמע לקמן בסימן ס"ט:
 
 
 ###### Mishnah Berurah 54:10
@@ -31014,7 +31014,7 @@ That were dipped- fruits and vegetables that were dunked in water to clean them 
 (כ) בלא ברכה - כי יש מקצת הראשונים דסברי שלא הצריכו חכמים נט"י לדבר שטיבולו במשקה אלא בימיהם שהיו אוכלים בטהרה משא"כ עכשיו שכולנו טמאי מתים ולכך לא יברך ענט"י שספק ברכות להקל והנה במ"א הביא בשם הל"ח דהעולם נוהגים שלא ליטול ויש להם על מה שיסמוכו היינו על מקצת הראשונים הנ"ל אבל הרבה אחרונים החמירו מאד בדבר וכתבו דהעיקר כרוב הפוסקים דצריך נטילה מדינא אף בזה"ז ועיין בביאור הגר"א שגם דעתו כן והחמיר מאד בזה שאף צריך לברך ע"ז ולכן אף דהעולם אין נוהגין לברך עכ"פ אין להקל לאכול בלי נטילה. וצריך לזה כל דיני נטילה כמו לפת. ומ"מ בפחות מכזית נ"ל פשוט שאין להחמיר בזה כלל דאפי' בפת הרבה אחרונים מקילין וכנ"ל במ"ב:
 
 
-(2) Without a Blessing- Because there are some rishonim who hold that the sages only decreed washing your hands for foods that touch the 7 liquids in the times when we kept the laws of spiritual purity. Now-a-days, since we are all contaminated from the dead, we don't make a blessing because we don't make questionable blessings. The Magein Avrahahm brings in the name of the Lechem Hamudos that people are accustomed to not wash. They have what to rely on (e.g. the rishonim we just mentioned), but many achronim are very strict and say that the law is like the majority of rishonim who require washing even now-a-days. See the Bior HaGra who is very strict to even require a blessing on this. Therefore, even though we don't say a blessing, you shouldn't be so lenient as to eat without washing. This washing requires all the laws of washing like bread. However, less than an olive's volume, it is clear that you needn't wash at all on since even with bread many achronim are lenient on this.
+(20) Without a Blessing- Because there are some rishonim who hold that the sages only decreed washing your hands for foods that touch the 7 liquids in the times when we kept the laws of spiritual purity. Now-a-days, since we are all contaminated from the dead, we don't make a blessing because we don't make questionable blessings. The Magein Avrahahm brings in the name of the Lechem Hamudos that people are accustomed to not wash. They have what to rely on (e.g. the rishonim we just mentioned), but many achronim are very strict and say that the law is like the majority of rishonim who require washing even now-a-days. See the Bior HaGra who is very strict to even require a blessing on this. Therefore, even though we don't say a blessing, you shouldn't be so lenient as to eat without washing. This washing requires all the laws of washing like bread. However, less than an olive's volume, it is clear that you needn't wash at all on since even with bread many achronim are lenient on this.
 
 
 ###### Mishnah Berurah 158:21
@@ -39073,7 +39073,7 @@ Introduction to Siman 178 What Things Are considered an Interruption to the Meal
 [https://torahapp.org/share/book/Mishnah%20Berurah/r/188:9](https://torahapp.org/share/book/Mishnah%20Berurah/r/188:9)
 
 
-(ט) ואין לשנות וכו' - ר"ל דאם אומר בחול רחם יאמר בשבת ג"כ רחם ואע"ג דאסור לתבוע צרכיו בשבת הכא שאני דתופס ברכה כך היא תמיד וגם כל הרחמן יכול לומר בשבת אע"פ שאינן מתופס הברכה שתקנו חכמים שכיון שנהגו הכל לאומרם בכל פעם שמברכין בהמ"ז נעשה להם כטופס ברכה ואין בזה משום שאלת צרכיו בשבת:
+(ט) ואין לשנות וכו' - ר"ל דאם אומר בחול רחם יאמר בשבת ג"כ רחם ואע"ג דאסור לתבוע צרכיו בשבת הכא שאני דטופס ברכה כך היא תמיד וגם כל הרחמן יכול לומר בשבת אע"פ שאינן מטופס הברכה שתקנו חכמים שכיון שנהגו הכל לאומרם בכל פעם שמברכין בהמ"ז נעשה להם כטופס ברכה ואין בזה משום שאלת צרכיו בשבת:
 
 
 ###### Mishnah Berurah 188:10
@@ -52153,7 +52153,7 @@ And even if the perfume etc. - And all the more so when the perfume rests on the
 [https://torahapp.org/share/book/Mishnah%20Berurah/r/257:13](https://torahapp.org/share/book/Mishnah%20Berurah/r/257:13)
 
 
-(יג) אסור להטמין בשבת וכו' - ומ"מ בדיעבד שרי וכנ"ל בסק"ז:
+(יג) אסור להטמין בשבת וכו' - ומ"מ בדיעבד שרי וכנ"ל בסק"ז [סק"ח]:
 
 
 ###### Mishnah Berurah 257:14

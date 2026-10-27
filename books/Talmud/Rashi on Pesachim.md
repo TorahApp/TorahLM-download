@@ -14,7 +14,7 @@ Location: Talmud/Bavli/Rishonim on Talmud/Rashi/Seder Moed
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Vilna Edition (Segments: 5057, License: Public Domain)
+Version (He): Vilna Edition (Segments: 5058, License: Public Domain)
 
 Version (En): halachaed (Segments: 11)
 
@@ -42309,6 +42309,14 @@ The fatty kosher meat is roasted on an oven with two spits which are distant fro
 ###### Rashi on Pesachim 94b:3:1
 
 [https://torahapp.org/share/book/Rashi%20on%20Pesachim/r/94b:3:1](https://torahapp.org/share/book/Rashi%20on%20Pesachim/r/94b:3:1)
+
+
+גלגל - כמין אופן ברקיע שהמזלות נתונים בו גלגל קבוע ואינו מגלגל אלא כעין אופן עגלה המונח בקרקע אבל המזלות מהלכים סביב הילוך מועט ואין מקיפין את הגלגל אלא כל מזל משמש את החמה נד ממקומו ומוליכו עד חבירו וחוזר למקומו לפיכך אין עגלה נראית בדרום ולא עקרב בצפון שהרי אין מקיפין אלא מהלכין הילוך מועט וחוזרין:
+
+
+###### Rashi on Pesachim 94b:3:2
+
+[https://torahapp.org/share/book/Rashi%20on%20Pesachim/r/94b:3:2](https://torahapp.org/share/book/Rashi%20on%20Pesachim/r/94b:3:2)
 
 
 לא מצינו עגלה בדרום ועקרב בצפון - ואי ס"ד גלגל חוזר ומזלות קבועין נמצא גלגל מוליך ומגלגל המזלות לכל ד' הרוחות כשם שהוא מגלגל והיינו כמין אופן ונתון ברקיע חציו למטה מן הרקיע וחציו למעלה מן הרקיע וכשעולה צדו זה שוקע צדו אחר לפי דברי חכמי אומות העולם שאומרים גלגל חוזר ולפי דברי חכמי ישראל שאומרים גלגל קבוע אין לפרש שוקע ועולה אלא במזלות:

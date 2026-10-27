@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Tosefta Shabbat (Segments: 233, License: Public Domain)
 
-Version (En): Sefaria Community Translation (Segments: 22)
+Version (En): Sefaria Community Translation (Segments: 24)
 
 
 ## Chapter 1
@@ -344,6 +344,9 @@ They may conduct water [via a canal] into a garden on Erev Shabbat at dusk, and 
 
 
 [מטלטלין] נר חדש אבל לא ישן דברי רבי יהודה ר"מ אומר כל הנרות מטלטלין חוץ מן הנר שהדליקו בו באותה שבת ר"ש אומר כל הנרות מטלטלין חוץ מן הנר הדולק בשבת כבה מותר לטלטלו אבל כוס וקערה ועששית שכבו לא יזיזם ממקומן ר"א בר"ש אומר מסתפקין מנר [הכבה] ומנר המנטף [נר] שעל גבי טבלא מטה את הטבלא והנר נופל ומחזיר את הטבלא למקומה.
+
+
+They may handle a new lamp but not an old lamp (i.e., due to it being repulsive), the words of Rabbi Yehuda. Rabbi Meir says, they may handle any lamp except for the lamp that they lit on that Shabbat. Rabbi Shimon says, they may handle any lamp except for one that is [currently] burning on Shabbat. [If] it has extinguished, it is permitted to handle, but a cup, a bowl, or a lantern (i.e., whose reservoirs were filled with oil) that were extinguished may not be moved from their place. Rabbi Elazar b'Rabbi Shimon says, they may supply themselves with [the oil] from an extinguished lamp and from a dripping lamp. A lamp that is on top of a board: One may shake the board and [let] the lamp fall, and [then] return the board to its place.
 
 
 ###### Tosefta Shabbat 4:10
@@ -716,6 +719,9 @@ They may conduct water [via a canal] into a garden on Erev Shabbat at dusk, and 
 
 
 ר' נהוראי אומר אין לך אדם בכל הכרכים מתון [יתר מסדומיים] וכן מצינו שחזר לוט על כל המקומות ולא מצא מתונה כסדום שנא' (בראשית י״ג:י״ב) אברם ישב בארץ [כנען] וגו' [ר"ש בן גמליאל] אומר אין לך בכל עממין מתון יותר מאמוריים וכן מצינו שהאמינו במקום [דגלו] לאפריקי ונתן להם המקום ארץ שיפה כארצם והיתה א"י [נקרית] על שמן.
+
+
+Rabbi Nehorai says, you cannot find a person in any city more deliberate [in judgment] than the Sodomites, and thus we find that Lot went everywhere and did not find any place that was as deliberate as Sodom, as it is said (Gen. 13:12), "Avram settled in the land of Canaan, [and Lot settled in the cities of the plain and pitched his tent near Sodom."* Rabbi Shimon ben Gamaliel says, you cannot find any people more deliberate among the nations than the Amorites, and thus we find that He supported them in the place that He removed them (גלו), to Africa, and the Place gave them a land that was as beautiful as their land, and the Land of Israel was called by their name*
 
 
 

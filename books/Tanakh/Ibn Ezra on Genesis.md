@@ -4572,7 +4572,7 @@ footnotes:
 **עוד כל ימי הארץ.** לאות כי יש לה קץ קצוב ומה נכבד דרש "סביב שמונה עשר אלף" רק לא ידענו אחד מיני אלף:
 
 
-WHILE THE EARTH REMAINETH. This indicates that an end has been fixed for the earth. The Rabbinic interpretation of *It shall be eighteen thousand reeds round about* (Ezek. 48:38) is very precious. However, even one in a thousand does not know what it means.⁴⁹ indicates that the world will come to an end after 18,000 generations. Cf. *Sanhedrin* 97b; *Sukkah* 45b.
+WHILE THE EARTH REMAINETH. This indicates that an end has been fixed for the earth. The Rabbinic interpretation of *It shall be eighteen thousand reeds round about* (Ezek. 48:35) is very precious. However, even one in a thousand does not know what it means.⁴⁹ indicates that the world will come to an end after 18,000 generations. Cf. *Sanhedrin* 97b; *Sukkah* 45b.
 
 footnotes:
 ⁴⁹ According to the sage Rava, it shall be eighteen thousand reeds round about
@@ -8726,7 +8726,7 @@ footnotes:
 [https://torahapp.org/share/book/Ibn%20Ezra%20on%20Genesis/r/19:18:1](https://torahapp.org/share/book/Ibn%20Ezra%20on%20Genesis/r/19:18:1)
 
 
-**אל נא אדני.** חול ונקמץ בעבור שהוא סוף פסוק ויאמר ר' שמואל הספרדי הנגיד ז"ל כי אל נא מגזרת הואל ועל דעתי שהוא כמו לא כי כשאמרו לו ההרה המלט השיב לא כן רבותי
+**אל נא אדני.** חול ונקמץ בעבור שהוא סוף פסוק ויאמר ר' שמואל הספרדי הנגיד ז"ל כי אל נא מגזרת הואל ועל דעתי שהוא כמו לא כי כשאמרו לו ההרה המלט השיב לא כן רבותי:
 
 
 OH, NOT SO MY LORD. *Adonai* (my lord) does not refer to God. It is vocalized with a *kamatz* only because it comes at the end of the verse.³³ with a *kamatz* usually refers to God. Here it does not. It means my lords. It is vocalized with a *kamatz* because the *pattach* changes to a *kamatz* at the end of a verse. Rabbi Samuel Ha-Nagid the Spaniard, of blessed memory, said that *al* (not so) in *al na* (Oh, not so) is derived from the same root as *ho’il* (wanted, was willing).³⁴ is an imperative from the root *yod, alef, lamed*, meaning to want or to be willing (Krinsky). Lot’s reply to the angels was: My lords, please accept (want, show willingness to) my request. However, I believe that *al* means no. The meaning of our verse is as follows: When the angels told Lot, *escape to the mountain*, Lot replied, “Oh, not so my lords.”
@@ -8744,7 +8744,7 @@ footnotes:
 [https://torahapp.org/share/book/Ibn%20Ezra%20on%20Genesis/r/19:19:1](https://torahapp.org/share/book/Ibn%20Ezra%20on%20Genesis/r/19:19:1)
 
 
-ואמר לאחד מהם עבדך שהשב בעיניו שהוא גדול, גם יש במלאכים שרים ותי"ו מות מובלע בתי"ו וָמַתִּי כי התי"ו והיו"ד סימן היjיד בפעלים, והיה כן בעבור דתחברות שני תוי"ן וכן אותו תשחית וְכִרָתָ (דברים כ, כ):
+ואמר לאחד מהם עבדך שהשב בעיניו שהוא גדול, גם יש במלאכים שרים ותי"ו מות מובלע בתי"ו וָמַתִּי כי התי"ו והיו"ד סימן היחיד בפעלים, והיה כן בעבור התחברות שני תוי"ן וכן אותו תשחית וְכָרָתָ (דברים כ, כ):
 
 
 He then turned to one of the angels and said, *behold now, thy servant*³⁵ (thy servant) is in the singular. Hence I.E. says that this was addressed to the angel whom Lot considered to be the most important of the two. *hath found grace in thy sight*, etc. (v. 19). He did so because he considered this angel to be the more important of the two. The truth is that even among angels there are superiors who lord it over other angels. The *tav* of the root of *mavet* (death) is dropped in the word *va-matti* (and I die). The reason for this is that in the first person perfect a *tav* and a *yod* are added to the root. When the *tav* of the stem and the *tav* of the suffix come together, the *tav* of the root is lost in the pronunciation.³⁶ would be written with two *tavs*, rather than with one. The *tav* of the root is dropped (swallowed is the term used by I.E.) because it is difficult to pronounce two *tavs* in succession. The word *ve-kharatta* (and cut down) in *them thou mayest destroy and cut down* (ve-kharatta) (Deut. 20:20)³⁷ were not lost, *ve-kharatta* (and cut) would have two *tavs*, rather than one, for in the second person singular perfect a *tav* is added to the root. is similar.
@@ -9592,7 +9592,7 @@ footnotes:
 [https://torahapp.org/share/book/Ibn%20Ezra%20on%20Genesis/r/22:11:1](https://torahapp.org/share/book/Ibn%20Ezra%20on%20Genesis/r/22:11:1)
 
 
-**אברהם אברהם.** טעמים כמו בחפזון:
+**אברהם אברהם.** פעמים כמו בחפזון:
 
 
 ABRAHAM, ABRAHAM. The repetition of the name expresses urgency.

@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Tosefta Maaser Sheini (Segments: 89, License: Public Domain)
 
-Version (En): Sefaria Community Translation (Segments: 38)
+Version (En): Sefaria Community Translation (Segments: 56)
 
 
 ## Chapter 1
@@ -363,12 +363,18 @@ A tree that is standing inside (i.e., within the boundaries of Jerusalem), and i
 בתים שפתחיהן לפנים וחללן לחוץ פתחיהן לחוץ וחללן לפנים ב"ש אומרים אין פודין בהן מעשר שני כאילו הן מבפנים ואין אוכלין בהם קדשים קלים כאילו הן בחוץ וב"ה אומרים מכנגד החומה ולפנים כלפנים ומכנגד החומה ולחוץ כלחוץ א"ר יוסי זו משנת ר' עקיבה משנה ראשונה בית שמאי אומרים אין פודין בהן מעשר שני כאילו הן מבפנים ואין אוכלין בהן קדשים קלין כאילו הן מבחוץ וב"ה אומרים הרי הן כלשכות את שפתחה לפנים כלפנים ואת שפתחה לחוץ כלחוץ.
 
 
+Houses whose entrances are within [the walls of Jerusalem] and their inner space is outside, [or] their entrances are outside and their inner space is within: Beit Shammai say, they may not redeem second tithe in them as though they are [fully] within, and they may not eat offerings of lesser sanctity in them as though they are [fully] outside. And Beit Hillel say, that which corresponds to (i.e., is on the same plane as) the wall [of Jerusalem] and within [is treated] like it is inside, and that which corresponds to the wall and outside [is treated] like it is outside. Said Rabbi Yosei, this is [the language of the] Mishnah of Rabbi Akiva. [However, according to the language of] the first Mishnah, Beit Shammai say, they may not redeem second tithe in them as though they are [fully] within, and they may not eat offerings of lesser sanctity in them as though they are [fully] outside, and Beit Hillel say, behold, they are [considered to be] like the Temple chambers: Those facing (lit., "whose lips are") inside are [considered to be] inside, and those facing outside are considered to be outside.
+
+
 ###### Tosefta Maaser Sheni 2:14
 
 [https://torahapp.org/share/book/Tosefta%20Maaser%20Sheni/r/2:14](https://torahapp.org/share/book/Tosefta%20Maaser%20Sheni/r/2:14)
 
 
 לשכה בנויה בקדש ופתחה לחול תוכה חול וגגה קודש אוכלין בה קדשי קדשים ואין שוחטין בה קדשים קלים ואין חייבין עליה משום טומאה בנויה בחול ופתחה לקודש אע"פ שאין מקיימין כן תוכה קודש וגגה חול אוכלין בה קדשי קדשים ושוחטין בה קדשים קלים וחייבין עליה משום טומאה בנויה בקודש ופתוחה לחול ולקודש כולה קודש בנויה בחול ופתוחה לקודש ולחול כולה חול בנויה בקודש ובחול ופתוחה לקודש ולחול כגון בית המוקד תוכן וגגותיהן מכנגד הקודש ולקודש קודש ומכנגד החול ולחול חול [אם לאכילת קדשים הכל הולך אחר פתחה אם לענין טומאה מכנגד חומה ולפנים הכל הולך אחר פתחה].
+
+
+A chamber that was built in a holy area and opened into a profane area, [or] within a profane area and its roof [is within] a holy area, they may not eat* most holy foods in it, and they may not slaughter sacrifices of lesser sanctity in it, and they are not liable for impurity on account of it. [If it was] built in a profane area and opened into a holy area: Even though they may not keep it that way, its interior space is holy and its roof is profane. They may eat most holy sacrifices in it, and they may slaughter sacrifices of lesser holiness in it, and they are liable for impurity on account of it. [If] it was built in a holy area and opened into [both] a profane area and a holy area, all of it is holy. [If] it was built in a profane area and opened into [both] a holy and a profane area, all of it is profane. [If] it was built in [both] a holy and a profane area, and opened into [both] a holy and a profane area, such as the Chamber of the Hearth, their interior space and their roofs that face the holy, and [that extend] into the holy, are holy, and that which faces the profane and [extends] into the profane is profane. If [the question involves] the consumption of sacrifices, everything follows after the [location of] the entrance. If [the question involves] a matter of impurity [in an area] that faces the wall and within*, everything follows after the entrance.
 
 
 ###### Tosefta Maaser Sheni 2:15
@@ -379,6 +385,9 @@ A tree that is standing inside (i.e., within the boundaries of Jerusalem), and i
 היתה בנויה בחומת [ירושלים] אוכלין בה קדשי קדשים [ואין שוחטין] בה קדשים קלים היתה בנויה בחומת [עזרה שוחטין] בה קדשים קלים ואין פודין בה מעשר שני.
 
 
+[If] it was built into the wall of Jerusalem, they may eat most holy offerings in it, but they may not slaughter offerings of lesser sanctity in it. [If] it was built into the wall of the woman's courtyard, they may slaughter offerings of lesser sanctity in it, but they may not redeem second tithe in it.
+
+
 ###### Tosefta Maaser Sheni 2:16
 
 [https://torahapp.org/share/book/Tosefta%20Maaser%20Sheni/r/2:16](https://torahapp.org/share/book/Tosefta%20Maaser%20Sheni/r/2:16)
@@ -387,12 +396,18 @@ A tree that is standing inside (i.e., within the boundaries of Jerusalem), and i
 בית הבנוי בחומה רבי יהודה אומר כאילו הוא מבחוץ רש"א כאילו הוא מבפנים.
 
 
+A house that is built into a wall: Rabbi Yehuda says, it is [treated] as though it is outside [the wall]. Rabbi Shimon says, it is [treated] as though it is within [the wall].
+
+
 ###### Tosefta Maaser Sheni 2:17
 
 [https://torahapp.org/share/book/Tosefta%20Maaser%20Sheni/r/2:17](https://torahapp.org/share/book/Tosefta%20Maaser%20Sheni/r/2:17)
 
 
 כל הלשכות כולן בנויות בקודש ר' יוסי אומר תחומי ארץ ישראל שבכתובים נידונין כחוצה לארץ ר' אלעזר ב"ר יוסי אומר נידונין כארץ ישראל.
+
+
+[In regards to] all the chambers, all of them are [considered to be] built in the Temple. Rabbi Yosei says, the boundaries of the Land of Israel that are [referenced] in Scripture are adjudged like outside the Land. Rabbi Elazar b'Rabbi Yosei says, they are adjudged like the Land of Israel.
 
 
 ###### Tosefta Maaser Sheni 2:18
@@ -460,12 +475,18 @@ They redeem second tithe according to the cheap market price, like [the market p
 מעשר שני שאין דמיו ידועים נפדה ע"פ שלשה לקוחות ולא ע"פ שלשה שאין לקוחות אפילו אחד מהן נכרי ואפילו אחד מהן בעלים כופין את הבעלים לפתוח ראשון [אם] אמר הרי הוא שלי [באיסר] יכול לחזור בו זה חומר בהקדש מבמעשר שני.
 
 
+Second tithe whose value is not known may be redeemed by the testimony of three [expert] purchasers, but not on the testimony of three who are not [expert] purchasers, even if one is of them is a non-Jew and even if one of them is the owner. They may force the owner to make the first bid. [But] if he said, "I will acquire it for an issar," he may retract [his acceptance if it is deemed unreasonable]. This is a stringency of dedicated items [wherein one may not retract] over second tithe.
+
+
 ###### Tosefta Maaser Sheni 3:4
 
 [https://torahapp.org/share/book/Tosefta%20Maaser%20Sheni/r/3:4](https://torahapp.org/share/book/Tosefta%20Maaser%20Sheni/r/3:4)
 
 
 אין פודין מע"ש אכסרה [אלא מעות] כיצד היו לו פירות מרקיבין ומעות מחלידין לא יאמר כמה אדם רוצה ליתן בצבור זה וכמה אדם רוצה ליתן בכרי זה אלא אומר כמה אדם רוצה ליקח לו מעות בסלע וכמה אדם רוצה ליקח לו מעות בדינר.
+
+
+Second tithe may not be redeemed by estimation; rather, by [a precise estimate of the] value. How so? [If] he had rotten produce or corroded coins, one should not say, "How much is a person willing to pay for this collection?" or "How much is one willing to pay for this pile?" Rather, he says, "How much of this produce (**פירות**), see Lieberman) is one willing to purchase with a sela?" or "How many of these coins is one willing to purchase with a dinar?"
 
 
 ###### Tosefta Maaser Sheni 3:5
@@ -476,12 +497,18 @@ They redeem second tithe according to the cheap market price, like [the market p
 [סלע] כמה תהא חסרה ולא יהיו מחללין עליה מע"ש לסלע ארבע איסרות ולדינר איסר דברי ר"מ ר' יהודה אומר לסלע ארבע פונדיאות ולדינר פונדיון רש"א סלע שמונה פונדיאות ודינר שני פונדיאות יתר על כן מחללה בשוויה [סלע] עד שקל ובדינר עד רובע פחות מכן אפי' איסר אין רשאין להחל עליה היתה יוצא לסימון בסלע ולמטבע בשקל לסימון בשקל ולמטבע בסלע אין למע"ש אלא כשער המטבע.
 
 
+How much of a sela may be missing through [erosion] for them not to be able to deconsecrate second tithe [produce] on account of it? For a sela, four issars, and for a dinar, one issar, the words of Rabbi Meir. Rabbi Yehuda says, for a sela, four pundions, and for a dinar, one pundion. Rabbi Shimon says, [for] a sela, eight pundions, and for a dinar, two pundions More than that, it may be deconsecrated by weight. [As to] a sela, up until a shekel, and as to a dinar, up until a quarter [of a shekel]. Less than that, they are not permitted to even deconsecrate an issar on its account. [If] the sign comes off a sela or the stamp off a shekel, or if the stamp comes off a sela or the sign off a shekel, only what remains of the stamp may be used for second tithe.
+
+
 ###### Tosefta Maaser Sheni 3:6
 
 [https://torahapp.org/share/book/Tosefta%20Maaser%20Sheni/r/3:6](https://torahapp.org/share/book/Tosefta%20Maaser%20Sheni/r/3:6)
 
 
 המוכר פירות לחבירו ונמצאו טבלים רץ אחריו לתקנן לא מצאו בידוע שהן קיימין צריך לעשר על ידו אם בידוע שאין קיימין אין צריך לעשר על ידו ספק שהן קיימין ספק שאינן קיימין מעשר עליהן וקורא שם למעשרותיהם.
+
+
+One who sells fruits to his fellow and they are found to be untithed should run after him to tithe them. If he did not find them, with certainty that they still exist (i.e., had not been consumed), he needs to to tithe on his behalf. If [he found out] with certainty that they were no longer in existence, he does not need to tithe on his behalf. [If] there is a doubt whether or not they are in existence, he tithes on account of them, and he designates [his actions] to their tithing.
 
 
 ###### Tosefta Maaser Sheni 3:7
@@ -492,12 +519,18 @@ They redeem second tithe according to the cheap market price, like [the market p
 המוכר פירות לחבירו המוכר אומר טבלים מכרתי לך והלוקח אומר מתוקנין מכרת לי כופין את המוכר לתקן [את שלו] הרי שלקחו של בית המלך את גרנו אם מחמת החוב צריך לעשר על ידו אם מחמת אונס אין צריך לעשר על ידו.
 
 
+One who sells fruits to his fellow: [If] the seller says, "I sold untithed produce to you," and the buyer says, "You sold me tithed produce," they force the seller to tithe his own produce [on account of that which he sold]. Behold, if they sold [the produce from] the threshing floor of the king's house: If it was due to an obligation, he needs to tithe on his behalf. If it was due to coercion, he does not need to tithe on his behalf.
+
+
 ###### Tosefta Maaser Sheni 3:8
 
 [https://torahapp.org/share/book/Tosefta%20Maaser%20Sheni/r/3:8](https://torahapp.org/share/book/Tosefta%20Maaser%20Sheni/r/3:8)
 
 
 האוכל פירות מעשר בין בשוגג בין במזיד יזעק לשמים דברי [רבי ר"ש בן גמליאל] אומר בשוגג יזעק לשמים במזיד יחזרו דמים למקומן.
+
+
+One who eats tithed produce, whether inadvertently or intentionally, should appeal to Heaven, the words of Rebbi. Rabban Shimon ben Gamaliel says, inadvertently he should appeal to Heaven; intentionally he should return the value [of what was eaten] to their place.
 
 
 ###### Tosefta Maaser Sheni 3:9
@@ -508,12 +541,18 @@ They redeem second tithe according to the cheap market price, like [the market p
 [האוכל טבל] של חבירו משלם לו דמי [מעשר] טבלו דברי רבי ר' יוסי ב"ר יהודה אומר דמי חולין שבו.
 
 
+One who eats the untithed produce of his fellow must repay him the price of the tithes [within] the untithed produce, the words of Rebbi. Rabbi Yosei b'Rabbi Yehuda says, the price of the unconsecrated produce within it.
+
+
 ###### Tosefta Maaser Sheni 3:10
 
 [https://torahapp.org/share/book/Tosefta%20Maaser%20Sheni/r/3:10](https://torahapp.org/share/book/Tosefta%20Maaser%20Sheni/r/3:10)
 
 
 ישראל שאכל פירותיו בטבלו אף ע"פ שמתחייב בהן לשמים אין לכהן בהן כלום שנאמר [בהן תרומה] אין לכהן בהן אלא עד שירימו וכן בן לוי שאכל מעשרותיו בטבלו אע"פ שמתחייב בהן לשמים אין לכהן בהן כלום שנאמר בהן (במדבר י״ח:כ״ד) וזה אשר ירימו לה' אין לך בהן אלא עד שירימו.
+
+
+An Israelite who ate his produce in its untithed state: Even though he is liable to Heaven on its account, the priest has no portion in them, as it is said about them (Num. 5:9), "any terumah ... [that is offered up is for the priest]," [meaning that] the priest has no portion in them until their terumah is separated. And so to a Levite who ate his tithes in its untithed state: Even though he is liable to Heaven on their account, the priest has no portion in them, as it is said (Num. 18:24), "and this that is offered up as terumah to God"--you have no potion in them until they are offered up (i.e., set aside) as terumah.
 
 
 ###### Tosefta Maaser Sheni 3:11
@@ -524,12 +563,18 @@ They redeem second tithe according to the cheap market price, like [the market p
 המביא פירות מן הגורן לעיר הפריש תרומה ונתנה לכהן מעשר ראשון ונתנו ללוי מעשר עני [ונתנו לעני] אין מחשב עמהן דמי הבאה אבל אם קרא להן שם בגורן הרי זה מחשב עמהן דמי הבאה.
 
 
+One who brings produced from the threshing floor to the city, one who separated terumah and gave it to a priest, first tithe and gave it to a Levite, and poor-tithe and gave it to a poor person may not deduct from them the price of transporting [the produce], but if he designated it [specifically] for them in the threshing floor, he may deduct from them the price of transporting it.
+
+
 ###### Tosefta Maaser Sheni 3:12
 
 [https://torahapp.org/share/book/Tosefta%20Maaser%20Sheni/r/3:12](https://torahapp.org/share/book/Tosefta%20Maaser%20Sheni/r/3:12)
 
 
 המוכר פירות לחבירו ואמר לו פירות שמכרתי לך טבלין הם בשר בכור הוא יין נסך הוא מה שאכלו אכלו ויחזיר להן את הדמים ר"ש בן אלעזר אומר דבר שהנפש קצה בו מה שאכלו אכלו ויחזיר להן את [השאר] דבר שאין הנפש קצה בו מה שאכלו אכלו וינכה להן מן הדמים.
+
+
+One who sells produce to his fellow and says to him, "The produce that I sold to you is untithed," [or] "This is the meat of a first-born animal," [or] "This is wine of libation," then what they ate, they ate, and [the seller] should return the purchase price to them. Rabbi Shimon ben Elazar says, [if the item sold is] something from which one is repulsed, then what they ate, they ate, and he must return the remainder to them. But something that one is not repulsed from, what they ate, they ate, and he ate, and he deducts the value for them (i.e., he deducts the value of the benefit and reimburses them the balance).
 
 
 ###### Tosefta Maaser Sheni 3:13
@@ -540,7 +585,7 @@ They redeem second tithe according to the cheap market price, like [the market p
 אין פודין מע"ש בירושלים בזמן הזה ואין [מפרישין] מע"ש בירושלים בזמן הזה [ואין מחללין מע"ש בירושלים בזמן הזה ואין מוכרין מע"ש בירושלים בזמן הזה] ואין מוציאין מע"ש בירושלים בזמן הזה ואם הוציא הרי אלו ירקבו [מחללין] מעות על פירות בירושלים בזמן הזה ב"ש אומרים זה וזה מעשר שני וב"ה אומרים המעות כמות שהיו והפירות כמות שהיו.
 
 
-Beit Hillel say, a person may separate first tithe of demai, and separate its terumah, and eat it, and there is no need to separate second [tithe]. Beit Shammai say, one needs to separate second [tithe]. One who separates the terumah of second [tithe must also] separate the terumah of first [tithe]. One who separates the terumah of first [tithe] need not separate the terumah of second [tithe]. And the halacha is according to the words of Beit Shammai.
+They may not redeem second tithe in Jerusalem at this time (i.e., after the destruction), and they may not separate second tithe in Jerusalem at this time, and they may not deconsecrate second tithe in Jerusalem at this time, and they may not sell second tithe in Jerusalem at this time, and they may not take second tithe out of Jerusalem in this time, and if they took it out, it should be left to rot. [But] they may deconsecrate coins on behalf of produce in Jerusalem in this time. Beit Shammai say, both of them (i.e., the coins and the produce) are considered second tithe, and Beit Hilel say, the coins return to their former status, and the produce returns to its former status.
 
 
 ###### Tosefta Maaser Sheni 3:14
@@ -549,6 +594,9 @@ Beit Hillel say, a person may separate first tithe of demai, and separate its te
 
 
 ב"ה אומרים מפריש אדם מעשר ראשון של דמאי ותורמו ואוכלו ואין צריך להפריש שני בש"א צריך להפריש שני [הורם השני הורם הראשון] הורם הראשון לא הורם השני והלכה כדברי [ב"ש].
+
+
+Beit Hillel say, a person may separate first tithe of demai, and separate its terumah, and eat it, and there is no need to separate second [tithe]. Beit Shammai say, one needs to separate second [tithe]. One who separates the terumah of second [tithe must also] separate the terumah of first [tithe]. One who separates the terumah of first [tithe] need not separate the terumah of second [tithe]. And the halacha is according to the words of Beit Shammai.
 
 
 ###### Tosefta Maaser Sheni 3:15
@@ -568,6 +616,9 @@ Beit Hillel say, a person may separate first tithe of demai, and separate its te
 
 
 הפריש תרומה ומעשר ראשון ומעשר שני ואכלן על אותו המין נאמן על מין אחר אינו נאמן דברי ר"א וחכ"א אף על אותו המין אינו נאמן לא כל הימנו שיתקין את עצמו ויבא ויקלקלנו.
+
+
+[If] he separated terumah, and first tithe, and second tithe, and ate them: On behalf of the same species, he is believed; on behalf of a different species, he is not believed, the words of Rabbi Eliezer. And the Sages say, even on behalf of the same species, he is not believed. For he does not have the right to fix his own [tithes] and come and ruin ours.
 
 
 ###### Tosefta Maaser Sheni 3:17
@@ -595,6 +646,9 @@ Beit Hillel say, a person may separate first tithe of demai, and separate its te
 
 
 הפודה מעשר שני שלו הרי זה חייב בחומש אחד הכונס מתוך שלו ואחד הלוקח מן הכותי ומן הנכרי פירות טבלים אחד שירש ואחד שניתן לו במתנה ה"ז חייב בחומש כיצד חייב בחומש הפודה [בסלע] נותן חמשה דנרין ר"א ב"ר שמעון אומר הפודה בשקל נותן חומשה של סלע הפודה במעשר אם רצה לדקדק ידקדק כיצד חלל על הסלע ונמצאת רעה על הטריסית ונמצאת רעה יחליף.
+
+
+One who redeems his own second tithe, behold, he is liable for the one-fifth penalty. It is the same if one enters within his own, or purchases from a Samaritan or from a non-Jew.
 
 
 ###### Tosefta Maaser Sheni 4:2

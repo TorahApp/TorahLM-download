@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Gur Aryeh, Machon Yerushalyim, 1989-1995 (Segments: 968, License: Public Domain)
 
-Version (En): Yalkut, Sifsei Chachomim Chumash, Metsudah Publications, 2009 (Segments: 9)
+Version (En): Sefaria Community Translation (Segments: 9)
 
 
 ## Chapter 1

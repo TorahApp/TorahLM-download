@@ -1536,7 +1536,7 @@ Version (En): Sefaria Community Translation (Segments: 1)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Hosea/r/5:13:4](https://torahapp.org/share/book/Metzudat%20David%20on%20Hosea/r/5:13:4)
 
 
-**לא יוסל לרפוא.** ר״ל לא יהיה לך לעזר:
+**לא יוכל לרפוא.** ר״ל לא יהיה לך לעזר:
 
 
 ###### Metzudat David on Hosea 5:13:5
@@ -2345,15 +2345,18 @@ Version (En): Sefaria Community Translation (Segments: 1)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Hosea/r/8:11:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Hosea/r/8:11:1)
 
 
-**כי הרבה וגו׳.** ר״ל עשה הרבה מזבחות לחטוא בהן להקריב עליהן לעבודת כוכבים וכן היו לו המזבחות לחטוא בהן כי כן הקריב עליהם לעבודת כוכבים ולא ניחם על מחשבתו: (י::
+**כי הרבה וגו׳.** ר״ל עשה הרבה מזבחות לחטוא בהן להקריב עליהן לעבודת כוכבים וכן היו לו המזבחות לחטוא בהן כי כן הקריב עליהם לעבודת כוכבים ולא ניחם על מחשבתו:
 
 
-###### Metzudat David on Hosea 8:11:2
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Hosea/r/8:11:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Hosea/r/8:11:2)
+### Verse 12
+
+###### Metzudat David on Hosea 8:12:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Hosea/r/8:12:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Hosea/r/8:12:1)
 
 
-**) אכתוב וגו׳.** ר״ל על ידי הנביאים שאני שולח עליהם בכל יום להזהירם על הדברים הגדולים והנכבדים שבתורתי כאלו אני כותב אותם להם לבל ישכחו מה אבל בעיניהם יחשבו כאלו הם דברי זר אשר לא ידעוהו מעולם כי מהרו שכחו:
+**אכתוב וגו׳.** ר״ל על ידי הנביאים שאני שולח עליהם בכל יום להזהירם על הדברים הגדולים והנכבדים שבתורתי כאלו אני כותב אותם להם לבל ישכחו מה אבל בעיניהם יחשבו כאלו הם דברי זר אשר לא ידעוהו מעולם כי מהרו שכחו:
 
 
 

@@ -14,9 +14,9 @@ Location: Tanakh/Rishonim on Tanakh/Radak/Torah
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Presburg : A. Schmid, 1842 (Segments: 2372)
+Version (He): Vocalized Edition (Segments: 2372)
 
-Version (En): Yalkut, Sifsei Chachomim Chumash, Metsudah Publications, 2009 (Segments: 2346)
+Version (En): Sefaria Community Translation (Segments: 2346)
 
 
 ## Introduction

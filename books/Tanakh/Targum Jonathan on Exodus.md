@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Targum Jonathan on Exodus (Segments: 1210, License: Public Domain)
 
-Version (En): The Targum of Jonathan ben Uzziel, trans. J. W. Etheridge, London, 1862 (Segments: 1205)
+Version (En): The Targum of Jonathan ben Uzziel, trans. J. W. Etheridge, London, 1862 (Segments: 1200)
 
 
 ## Chapter 1
@@ -3133,7 +3133,7 @@ And there will be a great cry in all the land of Mizraim, because like the plagu
 וּלְכָל בְּנֵי יִשְרָאֵל לָא יְהַנְזַק כַּלְבָּא בְּלִשְׁנֵיהּ לְמִנְבַּח לְמֵאֱנָשָׁא וְעַד בְּעִירָא מִן בִּגְלַל דְּתִנְדְּעוּן דְּיַפְרֵישׁ יְיָ בֵּין מִצְרָאֵי וּבֵינֵי יִשְרָאֵל
 
 
-But any of the children of Israel a dog shall not harm by lifting up his tongue against either man or beast ; that they may know that the Lord maketh distinction between the Mizraites and the sons of Israel.
+But any of the children of Israel a dog shall not harm by lifting up his tongue against either man or beast; that they may know that the Lord maketh distinction between the Mizraites and the sons of Israel.
 
 
 ###### Targum Jonathan on Exodus 11:8
@@ -3155,7 +3155,7 @@ And thou shalt send down all thy servants to me, coming and beseeching me, sayin
 וַאֲמַר יְיָ לְמשֶׁה לָא יְקַבֵּיל מִנְכוֹן פַּרְעה מִן בִּגְלַל לְאַסְגָאָה תִּמְהַיַי בְּאַרְעָא דְמִצְרָיִם
 
 
-But the Lord said to Mosheh, Pharoh will not hearken to you ; that I may multiply My wonders in the land of Mizraim.
+But the Lord said to Mosheh, Pharoh will not hearken to you; that I may multiply My wonders in the land of Mizraim.
 
 
 ###### Targum Jonathan on Exodus 11:10
@@ -3958,7 +3958,7 @@ And they journeyed from Succoth, the place where they had been covered with the 
 וְאֵיקַר שְׁכִינְתָּא דַיְיָ מִידְבַּר קֳדָמֵיהוֹן בִּימָמָא בְּעַמּוּדָא דַעֲנָנָא לְדַבָּרוּתְהוֹן בְּאָרְחָא וּבְלֵילְיָא הָדַר עַמּוּדָא דַעֲנָנָא מִבַּתְרֵיהוֹן לְמַחְשַׁךְ לִדְרַדְפִין מִן בַּתְרֵיהוֹן וְעַמּוּדָא דְאֵישָׁתָא לְאַנְהָרָא קֳדָמֵיהוֹן לְמֵיזַל בִּימָמָא וּבְלֵילְיָא
 
 
-And the glory of the Shekinah of the Lord went before them by day in the column of the Cloud to lead them in the way, and at night the column of the Cloud removed behind them to darken on their pursuers behind them ; but to be a column of fire to enlighten them before, that they might go forward by day and by night.
+And the glory of the Shekinah of the Lord went before them by day in the column of the Cloud to lead them in the way, and at night the column of the Cloud removed behind them to darken on their pursuers behind them; but to be a column of fire to enlighten them before, that they might go forward by day and by night.
 
 
 ###### Targum Jonathan on Exodus 13:22
@@ -4148,7 +4148,7 @@ And the Lord said to Mosheh, Why standest thou praying before Me? Behold, the pr
 וְאַנְתְּ אֲרוּם יַת חוּטְרָךְ וְאַרְכִין יַת יְדָךְ בֵּיהּ עַל יַמָא וּבַזְעֵיהּ וְעָלוּן בְּנֵי יִשְרָאֵל בְּגוֹ יַמָּא בְּיַבֶּשְׁתָּא
 
 
-and thou, lift up thy rod, and stretch forth thy hand with it over the sea, and divide it: and the sons of Israel shall go through the midst of ,the sea upon the ground.
+and thou, lift up thy rod, and stretch forth thy hand with it over the sea, and divide it: and the sons of Israel shall go through the midst of the sea upon the ground.
 
 
 ###### Targum Jonathan on Exodus 14:17
@@ -9679,7 +9679,7 @@ and sweet calamus in weight two hundred and fifty minas and cassia in weight fiv
 וְתַעֲבֵיד יָתֵיהּ מְשַׁח רְבוּת קוּדְשָׁא בּוֹשֶם מִתְבַּשַם עוֹבַד מִתְבַּשֵם בִּישְמָא מַמְזִיג מְשַׁח רְבוּת קוּדְשָׁא יְהֵי
 
 
-And thou shalt make of it a holy anointing oil, perfumed with perfume, the work of the perfumer, of compounded perfumes : a holy anointing oil shall it be.
+And thou shalt make of it a holy anointing oil, perfumed with perfume, the work of the perfumer, of compounded perfumes: a holy anointing oil shall it be.
 
 
 ###### Targum Jonathan on Exodus 30:26
@@ -11545,7 +11545,7 @@ And all the wise in heart made the TABERNACLE; ten curtains of fine linen, and h
 אוּרְכָּא דִירִיעֲתָא חֲדָא עַשְרִין וְתַמְנֵי אַמִּין וּפוּתְיָא אַרְבַּע אַמִּין סְכוּם דִּירִיעֲתָא חֲדָא מְשַׁחְתָּא חֲדָא לְכָל יְרִיעָתָא
 
 
-The length of one curtain twenty and eight cubits, the sum of one curtain ; the measure was one for all the curtains.
+The length of one curtain twenty and eight cubits, the sum of one curtain; the measure was one for all the curtains.
 
 
 ###### Targum Jonathan on Exodus 36:10

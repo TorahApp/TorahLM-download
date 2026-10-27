@@ -1,6 +1,6 @@
 # Rosh on Niddah
 
-פסקי הראש על נידה
+פסקי הרא"ש על נדה
 
 Link: [https://torahapp.org/share/book/Rosh%20on%20Niddah](https://torahapp.org/share/book/Rosh%20on%20Niddah)
 

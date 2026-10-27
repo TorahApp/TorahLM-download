@@ -1,6 +1,6 @@
 # Korban Netanel on Ketubot
 
- קרבן נתנאל על כתובות
+קרבן נתנאל על כתובות
 
 Link: [https://torahapp.org/share/book/Korban%20Netanel%20on%20Ketubot](https://torahapp.org/share/book/Korban%20Netanel%20on%20Ketubot)
 
@@ -14,7 +14,7 @@ Location: Talmud/Bavli/Rishonim on Talmud/Rosh/Commentary/Korban Netanel/Seder N
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Vilna Edition (Segments: 687, License: Public Domain)
+Version (He): Vilna Edition (Segments: 688, License: Public Domain)
 
 
 ## Seif 2
@@ -6062,7 +6062,7 @@ Version (He): Vilna Edition (Segments: 687, License: Public Domain)
 [https://torahapp.org/share/book/Korban%20Netanel%20on%20Ketubot/r/305:9](https://torahapp.org/share/book/Korban%20Netanel%20on%20Ketubot/r/305:9)
 
 
-**אבל** אם היה מיהודה ואירס אשה בגליל וכו' אפילו הלך לגליל וקדשה בסתם כופין אותה לצאת ליהודה. ואיירי שהיא ג"כ מיהודה. אבל כשהיא מגליל והלך שם ונשאה כיון דהנישואין היו בגליל אין כופין אותה לילך אחריו ליהודה כמו שמפרש בסמוך הך דירושלמי ועד"ז התוספתא והירושלמי אינם סותרים זה את זה וב"ש סי' ע"ה ס"ק ב' כתב דהתוספתא והירושלמי לא פליגי דהתוספתא איירי באירס והירושלמי איירי בנשא ע"ש. ואין להם שחר כי היה לר"מ לפרש דברי הירושלמי באיזה מקומות שהיה קידושין א"ו שאין חילוק בין קידושין או נשא. אך בתוספתא נקט לרבותא אירס אפילו שנשאה במקום אחר מ"מ אמרי' ע"ד קידושין ראשונים: @11ה"ג
+**אבל** אם היה מיהודה ואירס אשה בגליל וכו' אפילו הלך לגליל וקדשה בסתם כופין אותה לצאת ליהודה. ואיירי שהיא ג"כ מיהודה. אבל כשהיא מגליל והלך שם ונשאה כיון דהנישואין היו בגליל אין כופין אותה לילך אחריו ליהודה כמו שמפרש בסמוך הך דירושלמי ועד"ז התוספתא והירושלמי אינם סותרים זה את זה וב"ש סי' ע"ה ס"ק ב' כתב דהתוספתא והירושלמי לא פליגי דהתוספתא איירי באירס והירושלמי איירי בנשא ע"ש. ואין להם שחר כי היה לר"מ לפרש דברי הירושלמי באיזה מקומות שהיה קידושין א"ו שאין חילוק בין קידושין או נשא. אך בתוספתא נקט לרבותא אירס אפילו שנשאה במקום אחר מ"מ אמרי' ע"ד קידושין ראשונים:
 
 
 ###### Korban Netanel on Ketubot 305:10
@@ -6070,7 +6070,7 @@ Version (He): Vilna Edition (Segments: 687, License: Public Domain)
 [https://torahapp.org/share/book/Korban%20Netanel%20on%20Ketubot/r/305:10](https://torahapp.org/share/book/Korban%20Netanel%20on%20Ketubot/r/305:10)
 
 
-**וכך** היו רגילין לכתוב ולחתום כו'. ולפי' ר"ת נמי צריכין לפרש הכי דברי הירושלמי:
+ה"ג **וכך** היו רגילין לכתוב ולחתום כו'. ולפי' ר"ת נמי צריכין לפרש הכי דברי הירושלמי:
 
 
 ###### Korban Netanel on Ketubot 305:11
@@ -6127,5 +6127,13 @@ Version (He): Vilna Edition (Segments: 687, License: Public Domain)
 [https://torahapp.org/share/book/Korban%20Netanel%20on%20Ketubot/r/308:1](https://torahapp.org/share/book/Korban%20Netanel%20on%20Ketubot/r/308:1)
 
 
-**בפרק** קמא כתבתי. ועיין סימן י"ט. ובא"ה סימן ס"ו: 0סליק מסכת כתובות
+**בפרק** קמא כתבתי. ועיין סימן י"ט. ובא"ה סימן ס"ו:
+
+
+###### Korban Netanel on Ketubot 308:2
+
+[https://torahapp.org/share/book/Korban%20Netanel%20on%20Ketubot/r/308:2](https://torahapp.org/share/book/Korban%20Netanel%20on%20Ketubot/r/308:2)
+
+
+סליק מסכת כתובות
 

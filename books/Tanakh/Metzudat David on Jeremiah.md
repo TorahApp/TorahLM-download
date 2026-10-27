@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat David/Prophets
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 2938, License: Public Domain)
+Version (He): On Your Way (Segments: 2944, License: Public Domain)
 
 Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 6)
 
@@ -100,7 +100,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 6)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/1:6:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/1:6:1)
 
 
-**ואומר וסו׳.** אמרתי אהה ה׳ אוי לי על המניעה והמבטל הנמצא בי אשר לא ידעתי לסדר דברי הנבואה בצחות הלשון כי עדיין אני רך בשנים ולא הורגלתי בזה:
+**ואומר וכו׳.** אמרתי אהה ה׳ אוי לי על המניעה והמבטל הנמצא בי אשר לא ידעתי לסדר דברי הנבואה בצחות הלשון כי עדיין אני רך בשנים ולא הורגלתי בזה:
 
 
 
@@ -655,7 +655,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 6)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/2:13:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/2:13:2)
 
 
-**מקור מים היים.** שאני כמעיין הנובע מים חיים ר״ל משפיע להם טובות בכל עת:
+**מקור מים חיים.** שאני כמעיין הנובע מים חיים ר״ל משפיע להם טובות בכל עת:
 
 
 ###### Metzudat David on Jeremiah 2:13:3
@@ -872,7 +872,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 6)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/2:24:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/2:24:3)
 
 
-**כל מבקשיה.** כל המבקשים אותה לתפשה ביד אינם צריכים להתייגעות לרדוף אחריה כי בחדשה שנתמלאה הכיונה ימצאו אותה בקלות כי אז היא כבדה ואינה יכולה לרוץ וכן ישראל המה כפרא הזה כי ע״י מעשיהם אשר לא טובים בא עליהם האויב והמה משוטטים למצוא עזר ממצרים למען יוכלו עמוד בארצם אם כן כל הטרוד הזה בא באות נפשם וכן סופם יהיה כסוף הפרא כי האויב הבא עליהם לכבשם לא יהיה לו יגיעה רבה כי בקל יכבשם בחדש המוכן לפורעניות והוא אב שהוקבע בכיה לדורות בזמן המרגלים כמ״ש רז״ל:
+**כל מבקשיה.** כל המבקשים אותה לתפשה ביד אינם צריכים להתייגעות לרדוף אחריה כי בחדשה שנתמלאה הריונה ימצאו אותה בקלות כי אז היא כבדה ואינה יכולה לרוץ וכן ישראל המה כפרא הזה כי ע״י מעשיהם אשר לא טובים בא עליהם האויב והמה משוטטים למצוא עזר ממצרים למען יוכלו עמוד בארצם אם כן כל הטרוד הזה בא באות נפשם וכן סופם יהיה כסוף הפרא כי האויב הבא עליהם לכבשם לא יהיה לו יגיעה רבה כי בקל יכבשם בחדש המוכן לפורעניות והוא אב שהוקבע בכיה לדורות בזמן המרגלים כמ״ש רז״ל:
 
 
 
@@ -1763,7 +1763,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 6)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/4:1:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/4:1:1)
 
 
-**אם תשוב.** מוסב למעלה לומר אם אתה ישראל תשוב בוידוי ופיוסים כאלה אז החזור ותשוב אלי להיות לפני כמאז סגולה מכל:
+**אם תשוב.** מוסב למעלה לומר אם אתה ישראל תשוב בוידוי ופיוסים כאלה אז תחזור ותשוב אלי להיות לפני כמאז סגולה מכל:
 
 
 ###### Metzudat David on Jeremiah 4:1:2
@@ -2650,7 +2650,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 6)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/5:6:6](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/5:6:6)
 
 
-**יטרוף.** ע״י אחד מהחיות ההם:
+**יטרף.** ע״י אחד מהחיות ההם:
 
 
 ###### Metzudat David on Jeremiah 5:6:7
@@ -2669,7 +2669,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 6)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/5:7:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/5:7:1)
 
 
-**אי לזאת אנה הזכות אשר לזאת אסלח לך הלא בניך עזבוני: בלא אלהים.** העכו״ם שאין בו ממש בו האמינו ונשבעו בו:
+**אי לזאת.** אנה הזכות אשר לזאת אסלח לך הלא בניך עזבוני:
 
 
 ###### Metzudat David on Jeremiah 5:7:2
@@ -2677,12 +2677,20 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 6)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/5:7:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/5:7:2)
 
 
-**ואשביע.** אני השבעתי אותם בכל טוב ומרוב טובה ותאות הלב פנו אל הזנות:
+**בלא אלהים.** העכו״ם שאין בו ממש בו האמינו ונשבעו בו:
 
 
 ###### Metzudat David on Jeremiah 5:7:3
 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/5:7:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/5:7:3)
+
+
+**ואשביע.** אני השבעתי אותם בכל טוב ומרוב טובה ותאות הלב פנו אל הזנות:
+
+
+###### Metzudat David on Jeremiah 5:7:4
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/5:7:4](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/5:7:4)
 
 
 **ובית זונה.** לבית זונה הלכו גדודים יחד ולא יתבוששו אלה מאלה:
@@ -3751,12 +3759,31 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 6)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/6:23:4](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/6:23:4)
 
 
-**ועל סוסים ירכבו.** וימהרו לרדוף אחרי הנסים במלחמה ערוך כאיש. כל אחד מהם ערוך ומוכן והתפלשי באפר. התגלגלי באפר ועשי לך אבל כעל בן יחיד ומספד מר:
+**ועל סוסים ירכבו.** וימהרו לרדוף אחרי הנסים במלחמה:
 
 
 ###### Metzudat David on Jeremiah 6:23:5
 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/6:23:5](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/6:23:5)
+
+
+**ערוך כאיש.** כל אחד מהם ערוך ומוכן:
+
+
+
+### Verse 26
+
+###### Metzudat David on Jeremiah 6:26:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/6:26:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/6:26:1)
+
+
+**והתפלשי באפר.** התגלגלי באפר ועשי לך אבל כעל בן יחיד ומספד מר:
+
+
+###### Metzudat David on Jeremiah 6:26:2
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/6:26:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/6:26:2)
 
 
 **השודד.** זה בבל:
@@ -6534,14 +6561,6 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 6)
 **לאמר.** אשר אומרים לך לא תנבא בשם ה׳ ואז לא תמות בידינו:
 
 
-###### Metzudat David on Jeremiah 11:21:3
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/11:21:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/11:21:3)
-
-
-**פוקד.** אזכור עליהם עוונם להשיב גמול:
-
-
 
 ### Verse 22
 
@@ -6550,12 +6569,20 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 6)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/11:22:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/11:22:1)
 
 
-**הבחורים.** ההולכים במלחמה:
+**פוקד.** אזכור עליהם עוונם להשיב גמול:
 
 
 ###### Metzudat David on Jeremiah 11:22:2
 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/11:22:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/11:22:2)
+
+
+**הבחורים.** ההולכים במלחמה:
+
+
+###### Metzudat David on Jeremiah 11:22:3
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/11:22:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/11:22:3)
 
 
 **בניהם.** הקטנים:
@@ -10663,12 +10690,23 @@ Really, like the clay is in the potters hands to do with it as he wants, you are
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/21:2:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/21:2:3)
 
 
-**ויעלה.** ויסתלק מעלינו (ד) הנני מסב. אסבב מכם את כלי המלחמה לתתם אל מלך בבל וכו׳ ר״ל לא תצליחו עם כלי המלחמה כאלו הם לקוחים ממכם ונתונים בידם להלחם עמהם:
+**ויעלה.** ויסתלק מעלינו:
 
 
-###### Metzudat David on Jeremiah 21:2:4
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/21:2:4](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/21:2:4)
+### Verse 4
+
+###### Metzudat David on Jeremiah 21:4:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/21:4:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/21:4:1)
+
+
+**הנני מסב.** אסבב מכם את כלי המלחמה לתתם אל מלך בבל וכו׳ ר״ל לא תצליחו עם כלי המלחמה כאלו הם לקוחים ממכם ונתונים בידם להלחם עמהם:
+
+
+###### Metzudat David on Jeremiah 21:4:2
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/21:4:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/21:4:2)
 
 
 **ואספתי.** אני אכניס את הכשדים אל העיר ולא תוכלו למנעם:
@@ -10747,7 +10785,7 @@ Really, like the clay is in the potters hands to do with it as he wants, you are
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/21:9:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/21:9:3)
 
 
-**והיה.** ישאר חי וירויח נפשו כאלו שללה לעצמו מיד ההורגים:
+**וחיה.** ישאר חי וירויח נפשו כאלו שללה לעצמו מיד ההורגים:
 
 
 
@@ -14942,20 +14980,31 @@ Really, like the clay is in the potters hands to do with it as he wants, you are
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/30:8:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/30:8:1)
 
 
-**אשבור עולו.** עול הכשדים אשבור מעל צואריך וקשורי רצועות העול אעתיק ואסיר ממך ר״ל האומות לא ישעבדו עוד עמך ולתוספת ביאור אמר ולא יעבדו בו עוד אומות אחרות (ט) ועבדו וכו׳ רק את ה׳ יעבדו:
+**אשבור עולו.** עול הכשדים אשבור מעל צואריך וקשורי רצועות העול אעתיק ואסיר ממך ר״ל האומות לא ישעבדו עוד עמך ולתוספת ביאור אמר ולא יעבדו בו עוד אומות אחרות:
 
 
-###### Metzudat David on Jeremiah 30:8:2
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/30:8:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/30:8:2)
+### Verse 9
+
+###### Metzudat David on Jeremiah 30:9:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/30:9:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/30:9:1)
+
+
+**ועבדו וכו׳.** רק את ה׳ יעבדו:
+
+
+###### Metzudat David on Jeremiah 30:9:2
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/30:9:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/30:9:2)
 
 
 **ואת דוד מלכם.** זהו מלך המשיח הבא מזרע דוד:
 
 
-###### Metzudat David on Jeremiah 30:8:3
+###### Metzudat David on Jeremiah 30:9:3
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/30:8:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/30:8:3)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/30:9:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/30:9:3)
 
 
 **אשר אקים להם.** אשר אעמיד עליהם:
@@ -15427,14 +15476,6 @@ Really, like the clay is in the potters hands to do with it as he wants, you are
 For there is a day – There is a day prepared on which the scouts who stand on the mountains will call aloud ‘Rise! Let us go up to Zion, to the Lord’ because the redemption has come and the Divine Presence returned to her place in Zion:
 
 
-###### Metzudat David on Jeremiah 31:6:2
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/31:6:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/31:6:2)
-
-
-**רנו ליעקב שמחה.** הוא הפוך ה׳ אמר ליעקב רנו בקול שמחה:
-
-
 
 ### Verse 7
 
@@ -15443,7 +15484,7 @@ For there is a day – There is a day prepared on which the scouts who stand on 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/31:7:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/31:7:1)
 
 
-**וצהלו.** השמיעו קול גדול:
+**רנו ליעקב שמחה.** הוא הפוך ה׳ אמר ליעקב רנו בקול שמחה:
 
 
 ###### Metzudat David on Jeremiah 31:7:2
@@ -15451,12 +15492,20 @@ For there is a day – There is a day prepared on which the scouts who stand on 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/31:7:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/31:7:2)
 
 
-**בראש הגוים.** רצה לומר במקומות הגבוהות שבארצות הגוים להיות הקול נשמע למרחוק:
+**וצהלו.** השמיעו קול גדול:
 
 
 ###### Metzudat David on Jeremiah 31:7:3
 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/31:7:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/31:7:3)
+
+
+**בראש הגוים.** רצה לומר במקומות הגבוהות שבארצות הגוים להיות הקול נשמע למרחוק:
+
+
+###### Metzudat David on Jeremiah 31:7:4
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/31:7:4](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/31:7:4)
 
 
 **השמיעו הללו וכו׳.** השמיעו קול והללו את ה׳ ואמרו אתה ה׳ הנה הושעת את עמך וכו׳:
@@ -15575,7 +15624,7 @@ For there is a day – There is a day prepared on which the scouts who stand on 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/31:11:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/31:11:2)
 
 
-**ממנו.** מישראל המסור בידו (יא) במרום ציון. בהר ציון שהוא רם ונשא:
+**ממנו.** מישראל המסור בידו:
 
 
 
@@ -15586,7 +15635,7 @@ For there is a day – There is a day prepared on which the scouts who stand on 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/31:12:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/31:12:1)
 
 
-**ונהרו.** ימשכו לבוא אל טוב ה׳ ר״ל לקבל טובה מרובה וחוזר ומפרש על דגן וכו׳:
+**במרום ציון.** בהר ציון שהוא רם ונשא:
 
 
 ###### Metzudat David on Jeremiah 31:12:2
@@ -15594,12 +15643,20 @@ For there is a day – There is a day prepared on which the scouts who stand on 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/31:12:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/31:12:2)
 
 
-**כגן רוה.** יהיו שביעים בטובה כגן הירק השביעה בכל עת כי הדרך להשקותה ברגל:
+**ונהרו.** ימשכו לבוא אל טוב ה׳ ר״ל לקבל טובה מרובה וחוזר ומפרש על דגן וכו׳:
 
 
 ###### Metzudat David on Jeremiah 31:12:3
 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/31:12:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/31:12:3)
+
+
+**כגן רוה.** יהיו שביעים בטובה כגן הירק השביעה בכל עת כי הדרך להשקותה ברגל:
+
+
+###### Metzudat David on Jeremiah 31:12:4
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/31:12:4](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/31:12:4)
 
 
 **ולא יוסיפו לדאבה עוד.** לא יוסיפו להיות בעצבון ודאגה כמאז:
@@ -16036,7 +16093,7 @@ when I return – At the time when I bring back the children of captivity to the
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/31:33:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/31:33:1)
 
 
-**אהרי הימים ההם.** אחר שישובו מן הגולה:
+**אחרי הימים ההם.** אחר שישובו מן הגולה:
 
 
 ###### Metzudat David on Jeremiah 31:33:2
@@ -17798,7 +17855,7 @@ the Lord is our righteousness – God will make us righteous when she (Jerusalem
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/34:10:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Jeremiah/r/34:10:2)
 
 
-**וישמעו וישלהו.** קבלו על עצמן לשלוח וכן שלחום ולפי שארכו הדברים במה שאמר לשלח וכו׳ לכן חזר ואמר וישמעו וכן דרך המקרא:
+**וישמעו וישלחו.** קבלו על עצמן לשלוח וכן שלחום ולפי שארכו הדברים במה שאמר לשלח וכו׳ לכן חזר ואמר וישמעו וכן דרך המקרא:
 
 
 

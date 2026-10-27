@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Torat Emet 363 (Segments: 81, License: Public Domain)
 
-Version (En): Mishneh Torah, trans. by Eliyahu Touger. Jerusalem, Moznaim Pub. c1986-c2007 (Segments: 81)
+Version (En): Publicado em 5784, Saymon Pires da Silva [pt] (Segments: 81)
 
 
 ## Chapter 1

@@ -14,9 +14,9 @@ Location: Halakhah
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Aruch HaShulchan, Vilna 1923-29 (Segments: 25265, License: Public Domain)
+Version (He): Arukh HaShulchan, Yoreh De'ah -- Wikisource (Segments: 25265, License: CC-BY-SA)
 
-Version (En): Hupah veKiddushin, trans. by Norman T. Roman. HUC, 1975 (Segments: 275)
+Version (En): Hupah veKiddushin, trans. by Norman T. Roman. HUC, 1975 (Segments: 276)
 
 # Arukh HaShulchan — part 1 of 8
 

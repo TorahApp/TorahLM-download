@@ -348,7 +348,7 @@ For the Levites to serve in the sanctuary, as [Numbers 18:23] states: "And the L
 [https://torahapp.org/share/book/Mishneh%20Torah%2C%20Positive%20Mitzvot/r/24](https://torahapp.org/share/book/Mishneh%20Torah%2C%20Positive%20Mitzvot/r/24)
 
 
-לְקַדַּשׁ הַכּוֹהֵן יָדָיו וְרַגְלָיו בְּשָׁעַת הָעֲבוֹדָה, שֶׁנֶּאֱמָר: "וְרָחֲצוּ אַהֲרֹן וּבָנָיו..." (שמות ל, יט).
+לְקַדֵּשׁ הַכּוֹהֵן יָדָיו וְרַגְלָיו בִּשְׁעַת הָעֲבוֹדָה, שֶׁנֶּאֱמָר: "וְרָחֲצוּ אַהֲרֹן וּבָנָיו..." (שמות ל, יט).
 
 
 For a priest to sanctify his hands and feet at the time of service [in the Temple], as [Exodus 30:19] states: "And Aaron and his sons will wash...."
@@ -1089,7 +1089,7 @@ For a *zavah* to offer a sacrifice when she be-comes purified [after her afflict
 [https://torahapp.org/share/book/Mishneh%20Torah%2C%20Positive%20Mitzvot/r/76](https://torahapp.org/share/book/Mishneh%20Torah%2C%20Positive%20Mitzvot/r/76)
 
 
-להקריב היולדת קרבן אחר שתטהר, שנאמר: "ובמלאות ימי טוהרה" (ויקרא יב,ו).
+להקריב היולדת קרבן אחר שתטהר, שנאמר: "ובמלאות ימי טהרה" (ויקרא יב,ו).
 
 
 For a woman who gave birth to offer a sacrifice after she becomes purified, as [Leviticus 12:6] states: "And after the conclusion of her pure days...."
@@ -1330,7 +1330,7 @@ For a Nazirite to grow his hair long, as [Numbers 6:5] states: "He shall let the
 [https://torahapp.org/share/book/Mishneh%20Torah%2C%20Positive%20Mitzvot/r/93](https://torahapp.org/share/book/Mishneh%20Torah%2C%20Positive%20Mitzvot/r/93)
 
 
-לגלח הנזיר שיערו על קרבנותיו במלאות ימי נזרו, או בתוך ימי נזרו אם נטמא, שנאמר: "וכי ימות מת עליו" (במדבר ו,ט).
+לגלח הנזיר שערו על קרבנותיו במלאות ימי נזרו, או בתוך ימי נזרו אם נטמא, שנאמר: "וכי ימות מת עליו" (במדבר ו,ט).
 
 
 For a Nazarite to shave his hair when bringing his sacrifices at the conclusion of his term as a Nazirite, or during his Nazirite term if he becomes impure, as [Numbers 6:9] states: "Should a person die in his presence,... [he must shave....]"
@@ -2288,7 +2288,7 @@ To rest on the seventh day [of the festival], as [Exodus 12:16] states: "On the 
 [https://torahapp.org/share/book/Mishneh%20Torah%2C%20Positive%20Mitzvot/r/161](https://torahapp.org/share/book/Mishneh%20Torah%2C%20Positive%20Mitzvot/r/161)
 
 
-לספור מקצירת העומר תשעה וארבעים יום, שנאמר: "וספרתם לכם, ממוחרת השבת" (ויקרא כג,טו).
+לספור מקצירת העומר תשעה וארבעים יום, שנאמר: "וספרתם לכם, ממחרת השבת" (ויקרא כג,טו).
 
 
 To count 49 days from the harvesting of the *omer,* as [Leviticus 23:15] states: "And you shall count from the day following the day of rest...."
@@ -2554,7 +2554,7 @@ To cross-examine the witnesses thoroughly, as [Deuteronomy 13:15] states: "You m
 [https://torahapp.org/share/book/Mishneh%20Torah%2C%20Positive%20Mitzvot/r/180](https://torahapp.org/share/book/Mishneh%20Torah%2C%20Positive%20Mitzvot/r/180)
 
 
-לעשות לעדים זוממין כמו שזמו לעשות, שנאמר: "ועשיתם לו, כאשר זמם" (דברים יט,יט).
+לעשות לעדים זוממין כמו שזממו לעשות, שנאמר: "ועשיתם לו, כאשר זמם" (דברים יט,יט).
 
 
 To [punish] false witnesses [by] giving them the same penalty that they wish to have imposed [on the defendant], as [Deuteronomy 19:19] states: "And you shall do to him what he plotted to do to his brother."
@@ -2708,7 +2708,7 @@ To wage a voluntary war according to the laws prescribed by the Torah, as [Deute
 [https://torahapp.org/share/book/Mishneh%20Torah%2C%20Positive%20Mitzvot/r/191](https://torahapp.org/share/book/Mishneh%20Torah%2C%20Positive%20Mitzvot/r/191)
 
 
-למשוח כוהן למלחמה, שנאמר: "והיה, כקורבכם אל המלחמה; וניגש הכוהן" (דברים כ,ב).
+למשוח כוהן למלחמה, שנאמר: "והיה, כקרבכם אל המלחמה; וניגש הכוהן" (דברים כ,ב).
 
 
 To anoint a priest [who will address the people before] battle, as [Deuteronomy 20:2] states: "And it shall come to pass, when you approach the battle, the priest will come forward and speak to the people...."

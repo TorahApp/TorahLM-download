@@ -7131,7 +7131,7 @@ The Gemara responds: This verse is already used to indicate another *halakha* re
 [https://torahapp.org/share/book/Zevachim/r/17a:7](https://torahapp.org/share/book/Zevachim/r/17a:7)
 
 
-צְרִיכִי; דְּאִי כְּתַב רַחֲמָנָא טָמֵא – שֶׁכֵּן מְטַמֵּא בִּטְבוּל יוֹם; מְחוּסַּר כִּפּוּרִים לָא אָתֵי מִינֵּיהּ – שֶׁכֵּן פָּסוּל בִּתְרוּמָה. בִּמְחוּסַּר כִּפּוּרִים; טְבוּל יוֹם לָא אָתֵי מִינֵּיהּ – שֶׁכֵּן מְחוּסָּר מַעֲשֶׂה.
+צְרִיכִי; דְּאִי כְּתַב רַחֲמָנָא טָמֵא – שֶׁכֵּן מְטַמֵּא. בִּטְבוּל יוֹם; מְחוּסַּר כִּפּוּרִים לָא אָתֵי מִינֵּיהּ – שֶׁכֵּן פָּסוּל בִּתְרוּמָה. בִּמְחוּסַּר כִּפּוּרִים; טְבוּל יוֹם לָא אָתֵי מִינֵּיהּ – שֶׁכֵּן מְחוּסָּר מַעֲשֶׂה.
 
 
 Rabba explains: All three **are necessary, as** in each case there is a stringency not present in the others. Therefore, **had the Merciful One written** only that **an impure** priest desecrates the service, one might say that this is **because he imparts impurity** to others, and since the other two cases do not, one cannot derive them from the case of an impure priest. And had the Merciful One written the *halakha* only **with regard to one who immersed that day,** then the case of **one who has not yet** brought **an atonement** offering **could not be derived from it, since** the former **is unfit to** partake of ***teruma*** while the latter is not. And had the Merciful One written the *halakha* only **with regard to one who has not yet** brought **an atonement** offering, then the case of **one who immersed that day could not be derived from it, since** only the former **has not yet** performed a necessary **action,** while one who immersed that day must simply wait for nightfall in order to become fully pure.
@@ -40417,7 +40417,7 @@ The Gemara asks: **If so,** one who slaughtered the guilt offering **for its own
 [https://torahapp.org/share/book/Zevachim/r/114b:13](https://torahapp.org/share/book/Zevachim/r/114b:13)
 
 
-מַתְקֵיף לַהּ רַב הוּנָא: וְכִי יֵשׁ לְךָ דָּבָר שֶׁאֵינוֹ כָּשֵׁר לִשְׁמוֹ, וְכָשֵׁר שֶׁלֹּא לִשְׁמוֹ?!
+מַתְקֵיף לַהּ רַב הוּנָא: וְכִי יֵשׁ לְךָ דָּבָר שֶׁאֵינוֹ כָּשֵׁר לִשְׁמוֹ, וְכָשֵׁר שֶׁלֹּא לִשְׁמוֹ?! וְלֹא?! וַהֲרֵי
 
 
 **Rav Huna objects to** Rabbi Ḥilkiya’s statement that a guilt offering whose time has not yet arrived is fit to be sacrificed inside if it is slaughtered not for its own sake: **And is there anything that is not fit** if its action is performed **for its own sake, but is fit** if its action is performed **not for its sake?** The Gemara replies: **And** is there **not? But** there is
@@ -40431,7 +40431,7 @@ The Gemara asks: **If so,** one who slaughtered the guilt offering **for its own
 [https://torahapp.org/share/book/Zevachim/r/115a:1](https://torahapp.org/share/book/Zevachim/r/115a:1)
 
 
-וְלֹא?! וַהֲרֵי פֶּסַח בִּשְׁאָר יְמוֹת הַשָּׁנָה – דְּאֵינוֹ כָּשֵׁר לִשְׁמוֹ, וְכָשֵׁר שֶׁלֹּא לִשְׁמוֹ! פֶּסַח בִּשְׁאָר יְמוֹת הַשָּׁנָה – שְׁלָמִים נִינְהוּ.
+פֶּסַח בִּשְׁאָר יְמוֹת הַשָּׁנָה – דְּאֵינוֹ כָּשֵׁר לִשְׁמוֹ, וְכָשֵׁר שֶׁלֹּא לִשְׁמוֹ! פֶּסַח בִּשְׁאָר יְמוֹת הַשָּׁנָה – שְׁלָמִים נִינְהוּ.
 
 
 the **Paschal offering during the rest of the days of the year,** i.e., not on the fourteenth of Nisan after midday, when it is fit to be sacrificed, **which is not fit** if it was sacrificed **for its sake, but is fit** if it was sacrificed **not for its sake.** The Gemara responds: The **Paschal offering during the rest of the days of the year is** considered to be **a peace offering,** not a Paschal offering that was slaughtered not for its sake.
@@ -40965,7 +40965,7 @@ The Gemara asks: **From where did** Noah and his sons **know** which animals had
 [https://torahapp.org/share/book/Zevachim/r/116a:12](https://torahapp.org/share/book/Zevachim/r/116a:12)
 
 
-אָמַר מָר: וְהַכֹּל קָרְבוּ עוֹלוֹת. עוֹלוֹת אִין, שְׁלָמִים לָא. וְהָא כְּתִיב: ״וַיִּזְבְּחוּ זְבָחִים שְׁלָמִים לַה׳ פָּרִים״! אֶלָּא אֵימָא: הַכֹּל קָרְבוּ עוֹלוֹת [וּשְׁלָמִים].
+אָמַר מָר: וְהַכֹּל קָרְבוּ עוֹלוֹת. עוֹלוֹת אִין, שְׁלָמִים לָא. וְהָא כְּתִיב: ״וַיִּזְבְּחוּ זְבָחִים שְׁלָמִים לַה׳ פָּרִים״! אֶלָּא אֵימָא: הַכֹּל קָרְבוּ עוֹלוֹת [וּשְׁלָמִים.
 
 
 § In describing the sacrificial service before the Tabernacle was constructed, **the Master said: And all** offerings brought before the construction of the Tabernacle were **sacrificed** as **burnt offerings.** The Gemara infers: **Burnt offerings, yes,** were sacrificed, but **peace offerings** were **not** sacrificed. The Gemara challenges: **But** with regard to the offerings that were sacrificed at Mount Sinai at the time of the giving of the Torah, **it is written:** “And they offered burnt offerings, **and sacrificed peace offerings of oxen to the Lord”** (Exodus 24:5). This event occurred prior to the construction of the Tabernacle. **Rather, say** that the *baraita* means: **All** offerings **sacrificed** were either **burnt offerings or peace offerings.**
@@ -40976,7 +40976,7 @@ The Gemara asks: **From where did** Noah and his sons **know** which animals had
 [https://torahapp.org/share/book/Zevachim/r/116a:13](https://torahapp.org/share/book/Zevachim/r/116a:13)
 
 
-וְהָתַנְיָא: אֲבָל שְׁלָמִים לָא, כִּי אִם עוֹלוֹת. עוֹלוֹת אִין, שְׁלָמִים לָא! כְּמַאן דְּאָמַר לֹא קֵרְבוּ שְׁלָמִים בְּנֵי נֹחַ – דְּאִיתְּמַר: רַבִּי אֶלְעָזָר וְרַבִּי יוֹסֵי בַּר חֲנִינָא, חַד אָמַר: קֵרְבוּ שְׁלָמִים בְּנֵי נֹחַ, וְחַד אָמַר: לֹא קֵרְבוּ.
+וְהָתַנְיָא: אֲבָל שְׁלָמִים לָא, כִּי אִם עוֹלוֹת.] עוֹלוֹת אִין, שְׁלָמִים לָא! כְּמַאן דְּאָמַר לֹא קֵרְבוּ שְׁלָמִים בְּנֵי נֹחַ – דְּאִיתְּמַר: רַבִּי אֶלְעָזָר וְרַבִּי יוֹסֵי בַּר חֲנִינָא, חַד אָמַר: קֵרְבוּ שְׁלָמִים בְּנֵי נֹחַ, וְחַד אָמַר: לֹא קֵרְבוּ.
 
 
 The Gemara challenges: **And isn’t it taught** in another *baraita*: **But peace offerings** were **not** sacrificed before the construction of the Tabernacle; **rather, only burnt offerings** were sacrificed? Clearly, **burnt offerings, yes,** were sacrificed, but **peace offerings** were **not** sacrificed. The Gemara answers that this *baraita* is **in accordance with** the opinion of **the one who says** that **peace offerings were not sacrificed** by the **descendants of Noah. As it was stated** that there is a dispute between **Rabbi Elazar and Rabbi Yosei bar Ḥanina** with regard to this: **One says** that **the descendants of Noah sacrificed peace offerings, and one says** that **they did not sacrifice** peace offerings.
@@ -42218,7 +42218,7 @@ The Gemara comments: **Granted, according to the one,** i.e., Rabbi Shimon ben Y
 [https://torahapp.org/share/book/Zevachim/r/119b:5](https://torahapp.org/share/book/Zevachim/r/119b:5)
 
 
-אֶלָּא לְמַאן דְּאָמַר זוֹ וָזוֹ שִׁילֹה, וּבָמוֹת הֲוֹה אֲסִירָן – מַאי ״וַיִּקַּח מָנוֹחַ״? הוֹרָאַת שָׁעָה הָיְתָה.
+אֶלָּא לְמַאן דְּאָמַר זוֹ וָזוֹ שִׁילֹה, וּבָמוֹת הֲווֹ אֲסִירָן – מַאי ״וַיִּקַּח מָנוֹחַ״? הוֹרָאַת שָׁעָה הָיְתָה.
 
 
 **But according to the one,** i.e., the school of Rabbi Yishmael, **who says** that **this and that** are references to **Shiloh, and** private **altars were forbidden** during this period, **what** is the meaning of: **“So Manoah took,”** as it was forbidden to sacrifice offerings outside the Temple? The Gemara answers: Permitting this sacrifice **was a provisional edict** issued in exigent circumstances.

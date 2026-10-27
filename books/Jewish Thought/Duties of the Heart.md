@@ -14,7 +14,7 @@ Location: Jewish Thought/Rishonim/Duties of the Heart
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Chovat Halevavot, Amsterdam 1768. (Segments: 2367, License: Public Domain)
+Version (He): Vocalized Edition (Segments: 2367, License: Public Domain)
 
 Version (En): Duties of the Heart, trans. Rabbi Yosef Sebag (Segments: 2316)
 
@@ -7483,7 +7483,7 @@ Of the ninth degree are those who believe in the Torah and in reward and punishm
 [https://torahapp.org/share/book/Duties%20of%20the%20Heart/s/Third%20Treatise%20on%20Service%20of%20God/r/4:52](https://torahapp.org/share/book/Duties%20of%20the%20Heart/s/Third%20Treatise%20on%20Service%20of%20God/r/4:52)
 
 
-וְאָמַר קְצָת הַחֲסִידִים לְתַלְמִידָיו אִלּוּ לֹא הָיָה לָכֶם עוֹנוֹת הָיִיתִי מְפַחֵד עֲלֵיכֶם מִמָּה שֶׁהוּא גָּדוֹל מִן הָעֲוֹנוֹת אָמְרוּ לוֹ מָה הוּא גָּדוֹל מִן הָעֲוֹנוֹת אָמַר הַגַּבְהוּת (ס״א החונף) וְהַגַּאֲוָה כמ״ש הַכָּתוּב (משלי טז) תּוֹעֲבַת ה׳ כָּל גְּבַהּ לֵב:
+וְאָמַר קְצָת הַחֲסִידִים לְתַלְמִידָיו אִלּוּ לֹא הָיָה לָכֶם עֲוֹנוֹת הָיִיתִי מְפַחֵד עֲלֵיכֶם מִמָּה שֶׁהוּא גָּדוֹל מִן הָעֲוֹנוֹת אָמְרוּ לוֹ מָה הוּא גָּדוֹל מִן הָעֲוֹנוֹת אָמַר הַגַּבְהוּת (ס״א החונף) וְהַגַּאֲוָה כמ״ש הַכָּתוּב (משלי טז) תּוֹעֲבַת ה׳ כָּל גְּבַהּ לֵב:
 
 
 One of the pious once said to his disciples, "If you would be absolutely free of sins, I would be anxious about you and fear something worse than sins." They said to him: "What is worse than sins?" He replied: "Haughtiness and pride," as Scripture says, "An abomination unto the L-ord is everyone that is proud in heart" (Mishlei 16:5).
@@ -18116,7 +18116,7 @@ It is proper for us to clarify six matters on the subject of the spiritual accou
 [https://torahapp.org/share/book/Duties%20of%20the%20Heart/s/Eighth%20Treatise%20on%20Examining%20the%20Soul,_Introduction/r/7](https://torahapp.org/share/book/Duties%20of%20the%20Heart/s/Eighth%20Treatise%20on%20Examining%20the%20Soul,_Introduction/r/7)
 
 
-וְהַחֲמִישִׁי אִם הָאָדָם חַיָּב לַחְשֹׁב עִם נַפְשׁוֹ תָּמִיד אִם לֹא.
+וְהַחֲמִישִׁי אִם הָאָדָם חַיָּב לְחַשֵּׁב עִם נַפְשׁוֹ תָּמִיד אִם לֹא.
 
 
 5. Whether the spiritual accounting is a constant duty
@@ -18185,7 +18185,7 @@ Whether or not the spiritual accounting of each person is equal, I will answer t
 [https://torahapp.org/share/book/Duties%20of%20the%20Heart/s/Eighth%20Treatise%20on%20Examining%20the%20Soul/r/2:2](https://torahapp.org/share/book/Duties%20of%20the%20Heart/s/Eighth%20Treatise%20on%20Examining%20the%20Soul/r/2:2)
 
 
-שֶׁהִשְׁתַּדְּלוּת בְּנֵי אָדָם בְּעִנְיְנֵי תּוֹרָתָם וְעוֹלָמָם יִתְחַלֵּף כְּפִי הִתְחַלְּפוּת הַכָּרָתָם וְשִׂכְלָם וּזְכוּת הֲבָנָתָם וְכָל אֶחָד וְאֶחָד מֵהֶם מְצֻוֶּה לַחְשֹׁב עִם נַפְשׁוֹ בְּמָה שֶׁהוּא חַיָּב בּוֹ מֵעֲבוֹדַת הַבּוֹרֵא יִתְעַלֶּה כְּפִי הַכָּרָתוֹ בְּטוֹבוֹת הַבּוֹרֵא הַכּוֹלְלוֹת וְהַמְּיֻחָדוֹת כְּמוֹ שֶׁאָמַר הַכָּתוּב (דברים י״א:ב׳) וִידַעְתֶּם הַיּוֹם כִּי לֹא אֶת בְּנֵיכֶם אֲשֶׁר לֹא יָדְעוּ וַאֲשֶׁר לֹא רָאוּ וְגוֹ׳ כִּי עֵינֵיכֶם הָרֹאֹת וְגוֹ׳ רוֹצֶה לוֹמַר כִּי טַעֲנַת הַבּוֹרֵא עֲלֵיכֶם יוֹתֵר חֲזָקָה וְנִרְאֵית מִמָּה שֶׁהִיא עַל בְּנֵיכֶם אֲשֶׁר לֹא רָאוּ אֶת מוֹפְתֵי הַבּוֹרֵא כִּרְאוֹתְכֶם מִפְּנֵי שֶׁאַתֶּם רְאִיתֶם אוֹתָם בְּעֵינֵיכֶם וְאַתֶּם הַמְיֻחָדִים בַּטּוֹבוֹת הַגְּדוֹלוֹת מִבִּלְעֲדֵיהֶם וְהַנִּצָּלִים מִמַּכּוֹת מִצְרַיִם וְקֹרַח וְלֹא הֵם וְעַל כֵּן חַיָּבִים אַתֶּם בָּעֲבוֹדָה עֲלֵיהֶם.
+שֶׁהִשְׁתַּדְּלוּת בְּנֵי אָדָם בְּעִנְיְנֵי תּוֹרָתָם וְעוֹלָמָם יִתְחַלֵּף כְּפִי הִתְחַלְּפוּת הַכָּרָתָם וְשִׂכְלָם וּזְכוּת הֲבָנָתָם וְכָל אֶחָד וְאֶחָד מֵהֶם מְצֻוֶּה לְחַשֵּׁב עִם נַפְשׁוֹ בְּמָה שֶׁהוּא חַיָּב בּוֹ מֵעֲבוֹדַת הַבּוֹרֵא יִתְעַלֶּה כְּפִי הַכָּרָתוֹ בְּטוֹבוֹת הַבּוֹרֵא הַכּוֹלְלוֹת וְהַמְּיֻחָדוֹת כְּמוֹ שֶׁאָמַר הַכָּתוּב (דברים י״א:ב׳) וִידַעְתֶּם הַיּוֹם כִּי לֹא אֶת בְּנֵיכֶם אֲשֶׁר לֹא יָדְעוּ וַאֲשֶׁר לֹא רָאוּ וְגוֹ׳ כִּי עֵינֵיכֶם הָרֹאֹת וְגוֹ׳ רוֹצֶה לוֹמַר כִּי טַעֲנַת הַבּוֹרֵא עֲלֵיכֶם יוֹתֵר חֲזָקָה וְנִרְאֵית מִמָּה שֶׁהִיא עַל בְּנֵיכֶם אֲשֶׁר לֹא רָאוּ אֶת מוֹפְתֵי הַבּוֹרֵא כִּרְאוֹתְכֶם מִפְּנֵי שֶׁאַתֶּם רְאִיתֶם אוֹתָם בְּעֵינֵיכֶם וְאַתֶּם הַמְיֻחָדִים בַּטּוֹבוֹת הַגְּדוֹלוֹת מִבִּלְעֲדֵיהֶם וְהַנִּצָּלִים מִמַּכּוֹת מִצְרַיִם וְקֹרַח וְלֹא הֵם וְעַל כֵּן חַיָּבִים אַתֶּם בָּעֲבוֹדָה עֲלֵיהֶם.
 
 
 The self accounting for people in their religious and secular matters varies according to their level of perception and intelligence, and clarity of understanding and every person is commanded to deliberate with his soul (i.e. bodily soul/instinct/will) as to what are his duties in the service of G-d, in accordance with his recognition of the favors of the Creator, whether collective or individual as the verse says: "And know this day; for I speak not with your children that have not known, and that have not seen... but your eyes have seen all the great work of the L-ord which He did" (Devarim 11:2-7). The verse means to say, that the claim from the Creator on you is stronger and more evident than the claim on your descendants who did not witness the miracles of the Creator, since you witnessed them with your own eyes, and only you were bestowed these great favors and were spared from the plagues of Egypt, and of Korach. But your descendants were not present, therefore you are more obligated to serve G-d on account of them.
@@ -18207,7 +18207,7 @@ Similarly, we can say for other individuals - that their obligation varies in ac
 [https://torahapp.org/share/book/Duties%20of%20the%20Heart/s/Eighth%20Treatise%20on%20Examining%20the%20Soul/r/2:4](https://torahapp.org/share/book/Duties%20of%20the%20Heart/s/Eighth%20Treatise%20on%20Examining%20the%20Soul/r/2:4)
 
 
-וְעַל הַמַּאֲמִין לַחְשֹׁב עִם נַפְשׁוֹ בְּמָה שֶׁהוּא חַיָּב לֵאלֹהִים ית׳ וִידַקְדֵּק בַּדָּבָר בְּתַכְלִית יְכָלְתּוֹ וּכְפִי הַשָּׂגָתוֹ מִמֶּנּוּ וּמָה שֶׁיַּגִּיעַ אֵלָיו בְּמַעֲשֶׂה יִשְׁתַּדֵּל בּוֹ וְיִטְרַח וּמָה שֶׁלֹּא יוּכַל לְהַשִּׂיגוֹ בְּמַעֲשֵׂה יַשִּׂיגֵהוּ בִּידִיעָה וְיִתְאָוֵהוּ כמ״ש דָּוִד ע״ה (תהלים קיט) אַחֲלַי יִכֹּנוּ דְרָכָי לִשְׁמֹר חֻקֶּיךָ וְאָמַר (שם יט) הַנֶּחֱמָדִים מִזָּהָב וּמִפַּז רָב וְגוֹ׳ וְהַבּוֹרֵא יְדִינֵהוּ לִזְכוּת וְהוּא חַיָּב לְצַפּוֹת לְעִתּוֹת אֲשֶׁר תַּשִּׂיג יָדוֹ וְיוּכַל בָּהֶן לְשַׁלֵּם מַה שֶׁיִּתָּכֵן לוֹ מֵחוֹבוֹת הַבּוֹרֵא יִתְבָּרַךְ.
+וְעַל הַמַּאֲמִין לְחַשֵּׁב עִם נַפְשׁוֹ בְּמָה שֶׁהוּא חַיָּב לֵאלֹהִים ית׳ וִידַקְדֵּק בַּדָּבָר בְּתַכְלִית יְכָלְתּוֹ וּכְפִי הַשָּׂגָתוֹ מִמֶּנּוּ וּמָה שֶׁיַּגִּיעַ אֵלָיו בְּמַעֲשֶׂה יִשְׁתַּדֵּל בּוֹ וְיִטְרַח וּמָה שֶׁלֹּא יוּכַל לְהַשִּׂיגוֹ בְּמַעֲשֵׂה יַשִּׂיגֵהוּ בִּידִיעָה וְיִתְאָוֵהוּ בִּלְשׁוֹנוֹ, וְיִכְסוֺף אֵלָיו בְּלִבּוֹ כמ״ש דָּוִד ע״ה (תהלים קיט) אַחֲלַי יִכֹּנוּ דְרָכָי לִשְׁמֹר חֻקֶּיךָ וְאָמַר (שם יט) הַנֶּחֱמָדִים מִזָּהָב וּמִפַּז רָב וְגוֹ׳ וְהַבּוֹרֵא יְדִינֵהוּ לִזְכוּת וְהוּא חַיָּב לְצַפּוֹת לְעִתּוֹת אֲשֶׁר תַּשִּׂיג יָדוֹ וְיוּכַל בָּהֶן לְשַׁלֵּם מַה שֶׁיִּתָּכֵן לוֹ מֵחוֹבוֹת הַבּוֹרֵא יִתְבָּרַךְ.
 
 
 It is incumbent on the believer to take account with his soul what are his duties to G-d, and to think through this in meticulous details to the utmost extent of his ability, and according to what he is able to grasp of it. Then, whatever one is capable of attaining in practice, he should make diligent efforts in it and exert himself, and that which is beyond one's ability to attain in practice - he should attain an understanding of it, and desire for it, as David, peace be unto him, said "O that my ways were directed to keep your statutes!" (Tehilim 119:5), and "more to be desired are they than gold, than fine gold" (Tehilim 19:11). and the Creator will judge him favorably, and he should be on watch, for the time when he will be able to fulfill what is possible for him of his debts to the Creator.

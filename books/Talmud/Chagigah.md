@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): William Davidson Edition - Vocalized Aramaic (Segments: 735, License: CC-BY-NC)
 
-Version (En): William Davidson Edition - English (Segments: 733)
+Version (En): Sefaria Community Translation (Segments: 733)
 
 
 ## Daf 2a
@@ -329,7 +329,7 @@ The Gemara answers: **That** *halakha*, that the people must hear, **is derived 
 [https://torahapp.org/share/book/Chagigah/r/3a:12](https://torahapp.org/share/book/Chagigah/r/3a:12)
 
 
-וְהָא ״רְגָלִים״ מִבְּעֵי לֵיהּ, פְּרָט לְבַעֲלֵי קַבִּין! הָהוּא מִ״פְּעָמִים״ נָפְקָא, דְּתַנְיָא: ״פְּעָמִים״, אֵין ״פְּעָמִים״ אֶלָּא רְגָלִים, וְכֵן הוּא אוֹמֵר: ״תִּרְמְסֶנָּה רָגֶל רַגְלֵי עָנִי פַּעֲמֵי דַלִּים״. וְאוֹמֵר: ״מַה יָּפוּ פְעָמַיִךְ בַּנְּעָלִים בַּת נָדִיב״.
+וְהָא ״רְגָלִים״ מִבְּעֵי לֵיהּ, פְּרָט לְבַעֲלֵי קַבִּין! הָהוּא מִ״פְּעָמִים״ נָפְקָא, דְּתַנְיָא: ״פְּעָמִים״, אֵין ״פְּעָמִים״ אֶלָּא רַגְלַיִם, וְכֵן הוּא אוֹמֵר: ״תִּרְמְסֶנָּה רָגֶל רַגְלֵי עָנִי פַּעֲמֵי דַלִּים״. וְאוֹמֵר: ״מַה יָּפוּ פְעָמַיִךְ בַּנְּעָלִים בַּת נָדִיב״.
 
 
 The Gemara asks: **But** the term **“*regalim*” is necessary** to **exclude people with artificial legs.** Although these people are capable of walking, as they do not have two natural legs they are exempt from ascending to the Temple. The Gemara responds: **That** *halakha* is **derived from:** “Three **occasions [*pe’amim*]** in the year all your males will appear before the Lord God” (Exodus 23:17). The term *pe’amim* can also mean legs, **as it is taught** in a *baraita*, with regard to the term **“*pe’amim*”: *Pe’amim* means nothing other** than **legs. And so it says: “The foot shall tread it down, even the feet of the poor and the steps [*pa’amei*] of the needy”** (Isaiah 26:6), **and it says: “How beautiful are your feet [*fe’amayikh*] in sandals, daughter of the prince”** (Song of Songs 7:2).
@@ -434,7 +434,7 @@ Rabbi Elazar explained: **The Holy One, Blessed be He, said to the Jewish people
 וְאַף הוּא פָּתַח וְדָרַשׁ: ״דִּבְרֵי חֲכָמִים כַּדָּרְבֹנוֹת וּכְמַשְׂמְרוֹת נְטוּעִים בַּעֲלֵי אֲסֻפּוֹת נִתְּנוּ מֵרוֹעֶה אֶחָד״, לָמָּה נִמְשְׁלוּ דִּבְרֵי תוֹרָה לְדָרְבָן? לוֹמַר לָךְ: מָה דָּרְבָן זֶה מְכַוֵּין אֶת הַפָּרָה לִתְלָמֶיהָ לְהוֹצִיא חַיִּים לְעוֹלָם — אַף דִּבְרֵי תוֹרָה מְכַוְּונִין אֶת לוֹמְדֵיהֶן מִדַּרְכֵי מִיתָה לְדַרְכֵי חַיִּים. אִי מָה דָּרְבָן זֶה מִטַּלְטֵל — אַף דִּבְרֵי תוֹרָה מִטַּלְטְלִין, תַּלְמוּד לוֹמַר: ״מַשְׂמְרוֹת״.
 
 
-The Gemara adds: **And** Rabbi Elazar ben Azarya **also commenced** his lecture **and taught:** It is written: **“The words of the wise are as goads, and as nails well fastened are those that are composed in collections; they are given from one shepherd”** (Ecclesiastes 12:11). **Why are matters of Torah compared to a goad? To tell you** that **just as this goad directs the cow to her furrow to bring forth** sustenance for **life to the world, so too the words of Torah direct those who study them from the paths of death to the paths of life.** The Gemara asks: **If so,** derive the following from that same analogy: **Just as this goad is movable** and not rigid, **so too matters of Torah are movable** in accordance with circumstance and are not permanent. Therefore, **the verse states: “Nails,”** which are permanent.
+The Gemara adds: **And** Rabbi Elazar ben Azarya **also commenced** his lecture **and taught:** It is written: **“The words of the wise are as goads, and as nails well fastened are those that are composed in collections; they are given by one shepherd”** (Ecclesiastes 12:11). **Why are matters of Torah compared to a goad? To tell you** that **just as this goad directs the cow to her furrow to bring forth** sustenance for **life to the world, so too the words of Torah direct those who study them from the paths of death to the paths of life.** The Gemara asks: **If so,** derive the following from that same analogy: **Just as this goad is movable** and not rigid, **so too matters of Torah are movable** in accordance with circumstance and are not permanent. Therefore, **the verse states: “Nails,”** which are permanent.
 
 
 ###### Chagigah 3b:3
@@ -445,7 +445,7 @@ The Gemara adds: **And** Rabbi Elazar ben Azarya **also commenced** his lecture 
 אִי מָה מַסְמֵר זֶה חָסֵר וְלֹא יָתֵר — אַף דִּבְרֵי תוֹרָה חֲסֵירִין וְלֹא יְתֵירִין, תַּלְמוּד לוֹמַר: ״נְטוּעִים״, מָה נְטִיעָה זוֹ פָּרָה וְרָבָה — אַף דִּבְרֵי תוֹרָה פָּרִין וְרָבִין. ״בַּעֲלֵי אֲסֻפּוֹת״ — אֵלּוּ תַּלְמִידֵי חֲכָמִים, שֶׁיּוֹשְׁבִין אֲסוּפּוֹת אֲסוּפּוֹת וְעוֹסְקִין בַּתּוֹרָה. הַלָּלוּ מְטַמְּאִין וְהַלָּלוּ מְטַהֲרִין, הַלָּלוּ אוֹסְרִין וְהַלָּלוּ מַתִּירִין, הַלָּלוּ פּוֹסְלִין וְהַלָּלוּ מַכְשִׁירִין,
 
 
-The Gemara further asks: **If so,** one can explain as follows: **Just as this nail is diminished** in size **and does not expand,** as it wastes away over time, **so too matters of Torah are** gradually **diminished and do not expand.** Therefore, **the verse states: “Well fastened [*netuim*].” Just as this plant [*neti’a*] flourishes and multiplies, so too matters of Torah flourish and multiply. “Those that are composed in collections [*ba’alei asufot*]”: These are Torah scholars who sit in many groups [*asupot*] and engage in Torah** study. There are often debates among these groups, as some of **these** Sages **render** an object or person **ritually impure and these render it pure; these prohibit** an action **and these permit** it; **these deem** an item **invalid and these deem it valid.**
+The Gemara further asks: **If so,** one can explain as follows: **Just as this nail is diminished** in size **and does not expand,** as it wastes away over time, **so too matters of Torah are** gradually **diminished and do not expand.** Therefore, **the verse states: “Well fastened [*netuim*].” Just as this plant [*neti’a*] flourishes and multiplies, so too matters of Torah flourish and multiply. “Those that are composed in collections [*ba’alei asupot*]”: These are Torah scholars who sit in many groups [*asupot*] and engage in Torah** study. There are often debates among these groups, as some of **these** Sages **render** an object or person **ritually impure and these render it pure; these prohibit** an action **and these permit** it; **these deem** an item **invalid and these deem it valid.**
 
 
 ###### Chagigah 3b:4

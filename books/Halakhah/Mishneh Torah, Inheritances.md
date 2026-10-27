@@ -14,7 +14,7 @@ Location: Halakhah/Mishneh Torah/Sefer Mishpatim
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Torat Emet 363 (Segments: 117, License: Public Domain)
+Version (He): Wikisource Mishneh Torah (Segments: 117, License: CC-BY-SA)
 
 Version (En): Mishneh Torah, trans. by Eliyahu Touger. Jerusalem, Moznaim Pub. c1986-c2007 (Segments: 116)
 
@@ -784,7 +784,7 @@ This applies provided that the person making the bequest did not make a signific
 [https://torahapp.org/share/book/Mishneh%20Torah%2C%20Inheritances/r/6:7](https://torahapp.org/share/book/Mishneh%20Torah%2C%20Inheritances/r/6:7)
 
 
-כֵּיצַד. אִם הָיָה לְשׁוֹן הַמַּתָּנָה בָּאֶמְצַע יֹאמַר פְּלוֹנִי וּפְלוֹנִי יִירְשׁוּ שָׂדֶה פְּלוֹנִי וּפְלוֹנִי שֶׁנְּתַתִּים לָהֶן בְּמַתָּנָה וְיִירָשׁוּם. וְאִם הָיָה לְשׁוֹן הַמַּתָּנָה בַּתְּחִלָּה יֹאמַר תִּנָּתֵן שָׂדֶה פְּלוֹנִי וּפְלוֹנִי לִפְלוֹנִי וּפְלוֹנִי וְיִירָשׁוּם. וְאִם הָיָה לְשׁוֹן הַמַּתָּנָה בַּסּוֹף יֹאמַר יִירַשׁ פְּלוֹנִי וּפְלוֹנִי (וּפְלוֹנִי) שָׂדֶה פְּלוֹנִי וּפְלוֹנִי (וּפְלוֹנִי) שֶּׁנְּתַתִּים לָהֶן בְּמַתָּנָה:
+כֵּיצַד. אִם הָיָה לְשׁוֹן הַמַּתָּנָה בָּאֶמְצַע יֹאמַר פְּלוֹנִי וּפְלוֹנִי וּפְלוֹנִי יִירְשׁוּ שָׂדֶה פְּלוֹנִי וּפְלוֹנִי וּפְלוֹנִי שֶׁנְּתַתִּים לָהֶן בְּמַתָּנָה וְיִירָשׁוּם. וְאִם הָיָה לְשׁוֹן הַמַּתָּנָה בַּתְּחִלָּה יֹאמַר תִּנָּתֵן שָׂדֶה פְּלוֹנִי וּפְלוֹנִי וּפְלוֹנִי לִפְלוֹנִי וּפְלוֹנִי וּפְלוֹנִי וְיִירָשׁוּם. וְאִם הָיָה לְשׁוֹן הַמַּתָּנָה בַּסּוֹף יֹאמַר יִירַשׁ פְּלוֹנִי וּפְלוֹנִי וּפְלוֹנִי שָׂדֶה פְּלוֹנִי וּפְלוֹנִי וּפְלוֹנִי שֶּׁנְּתַתִּים לָהֶן בְּמַתָּנָה:
 
 
 What is implied? If the wording mentioning a present was in the middle, he should say: "So-and-so, so-and-so, and so-and-so, should inherit this-and-this field, this-and-this field, and this-and-this field that I gave them as a present, and they should inherit it."
@@ -931,7 +931,7 @@ Why does the court not appoint a guardian at all times, both for movable propert
 [https://torahapp.org/share/book/Mishneh%20Torah%2C%20Inheritances/r/7:6](https://torahapp.org/share/book/Mishneh%20Torah%2C%20Inheritances/r/7:6)
 
 
-נִשְׁבָּה הַשָּׁבוּי וּבָרַח הַמְסֻכָּן וְהִנִּיחַ קָמָה לִקְצֹר וַעֲנָבִים לִבְצֹר תְּמָרִים לִגְדֹּר וְזֵיתִים לִמְסֹק. בֵּית דִּין יוֹרְדִים לִנְכָסָיו וּמַעֲמִידִין לָהֶן אַפּוֹטְרוֹפּוֹס וְקוֹצֵר וּבוֹצֵר וְגוֹדֵר וּמוֹסֵק וּמוֹכֵר הַפֵּרוֹת. וּמַנִּיחִין דְּמֵיהֶן עִם שְׁאָר הַמִּטַּלְטְלִין בְּבֵית דִּין וְאַחַר כָּךְ מוֹרִידִין הַקָּרוֹב לִנְכָסָיו. שֶׁאִם יֵרֵד תְּחִלָּה שֶׁמָּא יִתְלֹשׁ אֵלּוּ הַפֵּרוֹת שֶׁהֵן כִּתְלוּשִׁין וְיֹאכַל אוֹתָן. וְהוּא הַדִּין בַּחֲצֵרוֹת וּפֻנְדָּקִיּוֹת וַחֲנֻיּוֹת הָעֲשׂוּיוֹת לְשָׂכָר וְאֵינָן צְרִיכִין עֲבוֹדָה וְלֹא טוֹרֵחַ וְאֵין אָדָם נוֹתֵן אוֹתָן בַּאֲרִיסוּת. אֵין מוֹרִידִין לָהֶם יוֹרֵשׁ שֶׁהֲרֵי גּוֹבֶה הַשָּׂכָר וְאוֹכֵל. אֶלָּא כֵּיצַד עוֹשִׂין. בֵּית דִּין מַעֲמִידִין לָהֶן גַּבַּאי וְיִהְיֶה הַשָּׂכָר מֻנָּח בְּבֵית דִּין עַד שֶׁיָּבִיא רְאָיָה שֶׁמֵּת אוֹ עַד שֶׁיָּבוֹא וְיִטּל שֶׁלּוֹ:
+נִשְׁבָּה הַשָּׁבוּי וּבָרַח הַמְסֻכָּן וְהִנִּיחַ קָמָה לִקְצֹר וַעֲנָבִים לִבְצֹר תְּמָרִים לִגְדֹּר וְזֵיתִים לִמְסֹק. בֵּית דִּין יוֹרְדִים לִנְכָסָיו וּמַעֲמִידִין לָהֶן אַפּוֹטְרוֹפּוֹס וְקוֹצֵר וּבוֹצֵר וְגוֹדֵר וּמוֹסֵק וּמוֹכֵר הַפֵּרוֹת. וּמַנִּיחִין דְּמֵיהֶן עִם שְׁאָר הַמִּטַּלְטְלִין בְּבֵית דִּין וְאַחַר כָּךְ מוֹרִידִין הַקָּרוֹב לִנְכָסָיו. שֶׁאִם יֵרֵד תְּחִלָּה שֶׁמָּא יִתְלֹשׁ אֵלּוּ הַפֵּרוֹת שֶׁהֵן כִּתְלוּשִׁין וְיֹאכַל אוֹתָן. וְהוּא הַדִּין בַּחֲצֵרוֹת וּפֻנְדָּקִיּוֹת וַחֲנֻיּוֹת הָעֲשׂוּיוֹת לְשָׂכָר וְאֵינָן צְרִיכִין עֲבוֹדָה וְלֹא טוֹרַח וְאֵין אָדָם נוֹתֵן אוֹתָן בַּאֲרִיסוּת. אֵין מוֹרִידִין לָהֶם יוֹרֵשׁ שֶׁהֲרֵי גּוֹבֶה הַשָּׂכָר וְאוֹכֵל. אֶלָּא כֵּיצַד עוֹשִׂין. בֵּית דִּין מַעֲמִידִין לָהֶן גַּבַּאי וְיִהְיֶה הַשָּׂכָר מֻנָּח בְּבֵית דִּין עַד שֶׁיָּבִיא רְאָיָה שֶׁמֵּת אוֹ עַד שֶׁיָּבוֹא וְיִטּל שֶׁלּוֹ:
 
 
 When a person was taken captive or fled because of danger and left standing grain to reap, or grapes, dates or olives to harvest, the court takes possession of their property and appoints a guardian who will reap or harvest this produce and sell it. The money is then entrusted to the court for safekeeping together with the remainder of the movable property. Afterwards, the relative is given possession of the property as stated in the previous halachah. This procedure is followed because if the relative were given the land at the outset, he might harvest this produce - for it is already as if it had been reaped - and consume it.

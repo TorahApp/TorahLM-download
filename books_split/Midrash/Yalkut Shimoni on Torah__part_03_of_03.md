@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Torat Emet (Segments: 4786, License: CC-BY-NC)
 
-Version (En): [es] (Segments: 91)
+Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 91)
 
 # Yalkut Shimoni on Torah — part 3 of 3
 

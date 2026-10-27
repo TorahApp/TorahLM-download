@@ -90,7 +90,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/1:3:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/1:3:1)
 
 
-**קֹנֵהוּ.** מְתַקְּנוֹ בַּחֲרִישָׁה בַּיּוֹם, וּמֵאַחַר שֶׁהִרְגִּילוֹ בְּכָךְ יוֹדֵעַ בּוֹ. אֲבָל חֲמוֹר אָטוּם אֵינוֹ מֵבִין בְּעָלָיו עַד שֶׁיַּאֲכִילֶנּוּ. וְיִשְׂרָאֵל לֹא נִתְפַּקַּח לֵידַע כְּשׁוֹר, כְּשֶׁקְּרָאתִיו ״יִשְׂרָאֵל יִהְיֶה שְׁמֶךָ״ (בראשית לה:י), וְהוֹדַעְתִּיו קְצָת חֻקּוֹתַי וְהֵם עֲזָבוּנִי, כִּדְמְפוֹרָשׁ (יחזקאל כ:לט) וְאוֹמֵר ״אִישׁ אֶת גִּלּוּלֵי וְגוֹ׳״. וְאַף לְאַחַר שֶׁהוֹצֵאתִים מִמִּצְרַיִם וְהֶאֱכַלְתִּים אֶת הַמָּן וְקָרָאתִי אוֹתָם ״עַמִּי בְּנֵי יִשְׂרָאֵל״, לֹא הִתְבּוֹנְנוּ כַּחֲמוֹר (סא"א). דָּבָר אַחֵר: **יָדַע שׁוֹר קֹנֵהוּ.** מַכִּיר הַשּׁוֹר קוֹנֵהוּ לִהְיוֹת מוֹרָאוֹ עָלָיו, לֹא שִׁנָּה מַה שֶׁגָּזַרְתִּי עָלָיו לוֹמַר אֵינִי חוֹרֵשׁ הַיּוֹם, וַחֲמוֹר לֹא אָמַר לִבְעָלָיו אֵינִי טוֹעֵן הַיּוֹם. וּמָה אֵלּוּ שֶׁנִּבְרְאוּ לְשַׁמֶּשְׁכֶם, וְאֵינָם לֹא לְקִבּוּל שָׂכָר אִם יִזְכּוּ וְלֹא לְשִׁלּוּם פֻּרְעָנוּת אִם חוֹטְאִים, לֹא שִׁנּוּ אֶת מִדָּתָם שֶׁגָּזַרְתִּי עֲלֵיהֶם, וְיִשְׂרָאֵל שֶׁאִם זוֹכִים מְקַבְּלִים שָׂכָר וְאִם חוֹטְאִים מְקַבְּלִים פֻּרְעָנוּת:
+**קֹנֵהוּ.** מְתַקְּנוֹ בַּחֲרִישָׁה בַּיּוֹם, וּמֵאַחַר שֶׁהִרְגִּילוֹ בְּכָךְ יוֹדֵעַ בּוֹ. אֲבָל חֲמוֹר אָטוּם אֵינוֹ מֵבִין בְּעָלָיו עַד שֶׁיַּאֲכִילֶנּוּ. וְיִשְׂרָאֵל לֹא נִתְפַּקַּח לֵידַע כְּשׁוֹר, כְּשֶׁקְּרָאתִיו ״יִשְׂרָאֵל יִהְיֶה שְׁמֶךָ״ (בראשית לה:י), וְהוֹדַעְתִּיו קְצָת חֻקּוֹתַי וְהֵם עֲזָבוּנִי, כִּדְמְפוֹרָשׁ (יחזקאל כ:לט) וְאוֹמֵר ״אִישׁ אֶת גִּלּוּלֵי וְגוֹ׳״. וְאַף לְאַחַר שֶׁהוֹצֵאתִים מִמִּצְרַיִם וְהֶאֱכַלְתִּים אֶת הַמָּן וְקָרָאתִי אוֹתָם ״עַמִּי בְּנֵי יִשְׂרָאֵל״, לֹא הִתְבּוֹנְנוּ כַּחֲמוֹר (סא״א). דָּבָר אַחֵר: **יָדַע שׁוֹר קֹנֵהוּ.** מַכִּיר הַשּׁוֹר קוֹנֵהוּ לִהְיוֹת מוֹרָאוֹ עָלָיו, לֹא שִׁנָּה מַה שֶׁגָּזַרְתִּי עָלָיו לוֹמַר אֵינִי חוֹרֵשׁ הַיּוֹם, וַחֲמוֹר לֹא אָמַר לִבְעָלָיו אֵינִי טוֹעֵן הַיּוֹם. וּמָה אֵלּוּ שֶׁנִּבְרְאוּ לְשַׁמֶּשְׁכֶם, וְאֵינָם לֹא לְקִבּוּל שָׂכָר אִם יִזְכּוּ וְלֹא לְשִׁלּוּם פֻּרְעָנוּת אִם חוֹטְאִים, לֹא שִׁנּוּ אֶת מִדָּתָם שֶׁגָּזַרְתִּי עֲלֵיהֶם, וְיִשְׂרָאֵל שֶׁאִם זוֹכִים מְקַבְּלִים שָׂכָר וְאִם חוֹטְאִים מְקַבְּלִים פֻּרְעָנוּת:
 
 
 **his owner** Heb. קֹנֵהוּ [is] like מְתַקְּנוֹ, the one who affixes him to the plowshare for plowing by day, and since he has accustomed him to this, he knows him. The dull donkey, however, does not recognize his master until he feeds him. Israel was not intelligent like the ox, to know, when I called him and said, “Israel will be your name” (Gen. 35:10), and I informed them of several of My statutes, yet they deserted Me, as is related in Ezekiel (20:39): “Let each one go and worship his idols.” Even after I took them out of Egypt and fed them the manna and called them, “My people, the children of Israel,” they did not consider even as a donkey. Another explanation is: **An ox knows its owner** An ox recognizes his owner so that his fear is upon him. He did not deviate from what I decreed upon him, by saying, I will not plow today. Neither did a donkey say to his owner, I will not bear burdens today. Now, these [creatures,] who were created to serve you, and are not destined to receive reward if they merit, or to be punished if they sin, did not change their manner, which I decreed upon them. Israel, however, who, if they merit receive reward, and if they sin are punished.
@@ -126,7 +126,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/1:4:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/1:4:2)
 
 
-**עַם כֶּבֶד עָוֹן.** כְּבֵדוּת עָוֹן. כָּבֵד אָדָם שֶׁהוּא כָּבֵד, פישנ״ט בְּלַעַ״ז. כֶּבֶד שֵׁם דָּבָר שֶׁל כְּבֵדוּת, פישנטומ״א בְּלַעַ״ז, וְדָבוּק עִם תֵּיבַת עָוֹן:
+**עַם כֶּבֶד עָוֺן.** כְּבֵדוּת עָוֹן. כָּבֵד אָדָם שֶׁהוּא כָּבֵד, פישנ״ט בְּלַעַ״ז. כֶּבֶד שֵׁם דָּבָר שֶׁל כְּבֵדוּת, פישנטומ״א בְּלַעַ״ז, וְדָבוּק עִם תֵּיבַת עָוֹן:
 
 
 **a people heavy with iniquity** The heaviness of iniquity. The word denotes a person who is heavy, pesant in French, ponderous. The word כֶבֶד is a substantive of heaviness, pesantoma in French, and is in the construct state, and is connected with the word עָוֹן, iniquity.
@@ -547,7 +547,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/1:17:4](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/1:17:4)
 
 
-**רִיבוּ אַלְמָנָה.** הִשְׁתַּדְּלוּ בְּרִיבָהּ לְהִתְוַכֵּחַ בַּעֲדָהּ, שֶׁאֵינָהּ יוֹצֵאת לַחֲזוֹר אַחֲרֵי בַּעֲלֵי דִינָהּ (סא"א):
+**רִיבוּ אַלְמָנָה.** הִשְׁתַּדְּלוּ בְּרִיבָהּ לְהִתְוַכֵּחַ בַּעֲדָהּ, שֶׁאֵינָהּ יוֹצֵאת לַחֲזוֹר אַחֲרֵי בַּעֲלֵי דִינָהּ (סא״א):
 
 
 **plead the case of the widow** Endeavor in their quarrel to plead for her, for she cannot go out to pursue her opponents.)
@@ -968,7 +968,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/1:30:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/1:30:1)
 
 
-**נֹבֶלֶת עָלֶה.** הֶעָלֶה שֶׁלָּהּ נוֹבֶלֶת, כָּמוּשׁ, פלישטיישנ״ט בְּלַעַ״ז. בְּבֹא עָלָיו שָׁרָב אוֹ קֶרַח הוּא כָּמֵשׁ, וְלִחְלוּחוֹ אָבַד וְכָלֶה. וְאֵין ׳נוֹבֵל׳ לְשׁוֹן רִקָּבוֹן כְּמוֹ ׳בָּלֶה׳ (איכה ג:), שֶׁאֵין נוּ״ן נוֹפֶלֶת בְּאוֹתוֹ לָשׁוֹן, אֶלָּא ׳נוֹבֵל׳ לְשׁוֹן דָּבָר הַנִּלְאֶה וְכָלֶה, כְּמוֹ מִגִּזְרַת ״נָבֹל תִּבֹּל״ (שמות יח:ח), כְּמוֹ ׳תִּנְבּוֹל׳, וּמְתַרְגְּמִינָן: מֵילָאָה תֵּילָאָה:
+**נֹבֶלֶת עָלֶהָ.** הֶעָלֶה שֶׁלָּהּ נוֹבֶלֶת, כָּמוּשׁ, פלישטיישנ״ט בְּלַעַ״ז. בְּבֹא עָלָיו שָׁרָב אוֹ קֶרַח הוּא כָּמֵשׁ, וְלִחְלוּחוֹ אָבַד וְכָלֶה. וְאֵין ׳נוֹבֵל׳ לְשׁוֹן רִקָּבוֹן כְּמוֹ ׳בָּלֶה׳ (איכה ג:), שֶׁאֵין נוּ״ן נוֹפֶלֶת בְּאוֹתוֹ לָשׁוֹן, אֶלָּא ׳נוֹבֵל׳ לְשׁוֹן דָּבָר הַנִּלְאֶה וְכָלֶה, כְּמוֹ מִגִּזְרַת ״נָבֹל תִּבֹּל״ (שמות יח:ח), כְּמוֹ ׳תִּנְבּוֹל׳, וּמְתַרְגְּמִינָן: מֵילָאָה תֵּילָאָה:
 
 
 **whose leaves wilt** Its leaf ([Other editions read:] whose leaf) wilts, becomes wilted [flatisant in O. F.]. When heat or cold comes upon it, it wilts and its moisture is lost and destroyed. [The word] נבל is not an expression of decay like בלה, for no ‘nun’ is found in that expression, but נבל [is an expression of something that becomes fatigued and its strength is curtailed, from the root of] נָבֹל תִּבֹּל (Exod. 18: 18), which Onkelos renders: You will surely be exhausted.
@@ -1443,7 +1443,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/2:20:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/2:20:1)
 
 
-**לְהִשְׁתַּחֲוֹת לַחְפֹּר פֵּרוֹת.** גִּלּוּלִים בִּדְמוּת חֲפַרְפָּרוֹת, מִינֵי שְׁרָצִים שֶׁחוֹפְרִין הָאָרֶץ, שֶׁקּוֹרִין טלפ״ש בלע״ז:
+**לְהִשְׁתַּחֲוֺת לַחְפֹּר פֵּרוֹת.** גִּלּוּלִים בִּדְמוּת חֲפַרְפָּרוֹת, מִינֵי שְׁרָצִים שֶׁחוֹפְרִין הָאָרֶץ, שֶׁקּוֹרִין טלפ״ש בלע״ז:
 
 
 **to prostrate himself to moles** Heb. לַחְפֹּר פֵּרוֹת, idols in the likeness of moles, a species of rodents who dig in the earth, called talpes in O.F. [taupes in modern French].
@@ -1704,7 +1704,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/3:8:3](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/3:8:3)
 
 
-**לַמְרוֹת עֵינֵי כְבוֹדוֹ.** לְהַקְנִיט לִפְנֵי כְּבוֹדוֹ. דָּבָר אַחֵר: עִנְיְנֵי כְּבוֹדוֹ:
+**לַמְרוֹת עֵנֵי כְבוֹדוֹ.** לְהַקְנִיט לִפְנֵי כְּבוֹדוֹ. דָּבָר אַחֵר: עִנְיְנֵי כְּבוֹדוֹ:
 
 
 **to provoke the eyes of His glory** to provoke before His glory. Another explanation is: to provoke the matters of His glory.
@@ -2045,7 +2045,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/3:19:3](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/3:19:3)
 
 
-**וְהָרְעָלוֹת.** צָנִיף שֶׁמַּצְנִיפוֹת כָּל פַּרְצוּפֵיהֶם חוּץ מִגַּלְגַּל הָעַיִן, כְּדֵי שֶׁיִּתְאַוֶּה אָדָם לִזּוֹן בְּמַרְאוֹת הַלְּסָתוֹת. (סא"א) לָשׁוֹן אַחֵר: וְהָרְעָלוֹת – מִינֵי סַרְבָּלִים נָאִים לְהִתְעַטֵּף בָּהֶן, וּבִלְשׁוֹן מִשְׁנָה יֵשׁ ״מָדִיּוֹת רְעוּלוֹת״ בְּמַסֶּכֶת שַׁבָּת (סה א):
+**וְהָרְעָלוֹת.** צָנִיף שֶׁמַּצְנִיפוֹת כָּל פַּרְצוּפֵיהֶם חוּץ מִגַּלְגַּל הָעַיִן, כְּדֵי שֶׁיִּתְאַוֶּה אָדָם לִזּוֹן בְּמַרְאוֹת הַלְּסָתוֹת. (סא״א) לָשׁוֹן אַחֵר: וְהָרְעָלוֹת – מִינֵי סַרְבָּלִים נָאִים לְהִתְעַטֵּף בָּהֶן, וּבִלְשׁוֹן מִשְׁנָה יֵשׁ ״מָדִיּוֹת רְעוּלוֹת״ בְּמַסֶּכֶת שַׁבָּת (סה א):
 
 
 **and the veils** Heb. וְהָרְעָלוֹת. A veil with which they envelop their entire countenance except the eyeball, so that a man will desire to satisfy himself by gazing at the cheeks. Another explanation is that they are types of pretty shawls, with which to enwrap themselves, and in the language of the Mishnah, there is an instance: “Shawled (רְעוּלוֹת) Arabian women,” in Tractate Shabbath (65a).
@@ -2186,7 +2186,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/3:23:4](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/3:23:4)
 
 
-**וְהָרְדִידִים.** ״כְּבִינְתָא״ (פרמל״ץ בלע״ז), וְהֵם שֶׁל זָהָב שֶׁמְּכַבְּנִין בָּהּ הַסִּרְבָּל שֶׁהָאִשָּׁה מִתְעַטֶּפֶת בּוֹ:
+**וְהָרְדִידִים.** ״כְּבִינְתָא״ (פרמל״ץ בלע״ז), וְהֵם שֶׁל זָהָב שֶׁמְּכַבְּנִין בָּהּ הַסַרְבָּל שֶׁהָאִשָּׁה מִתְעַטֶּפֶת בּוֹ:
 
 
 **and the clasps** Heb. וְהַרְדִידִים, Fermalc in O.F., and they are of gold with which the shawl is closed when the woman enwraps herself therein.
@@ -2687,7 +2687,7 @@ And they shall take hold of.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/5:2:5](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/5:2:5)
 
 
-**וְגַם יֶקֶב חָצַב בּוֹ.** הַבּוֹר שֶׁלִּפְנֵי הַגַּת לְקַבֵּל הַיַּיִן, וְכֵן כָּל ״יֶקֶב״ שֶׁבַּמִּקְרָא לְשׁוֹן בּוֹר הוּא, וְכֵן ״עַד יִקְבֵי הַמֶּלֶךְ״ (זכריה יד:י) תַּרְגּוּם יוֹנָתָן ״עַד שִׁיחַיָּא דְמַלְכָּא״, הוּא עֹמֶק אוֹקְיָנוֹס, וְלָכֵן נוֹפֵל בּוֹ כָּאן לְשׁוֹן חֲצִיבָה, כְּמוֹ ״וּבֹרֹת חֲצוּבִים״ (דברים ו:יא):
+**וְגַם יֶקֶב חָצֵב בּוֹ.** הַבּוֹר שֶׁלִּפְנֵי הַגַּת לְקַבֵּל הַיַּיִן, וְכֵן כָּל ״יֶקֶב״ שֶׁבַּמִּקְרָא לְשׁוֹן בּוֹר הוּא, וְכֵן ״עַד יִקְבֵי הַמֶּלֶךְ״ (זכריה יד:י) תַּרְגּוּם יוֹנָתָן ״עַד שִׁיחַיָּא דְמַלְכָּא״, הוּא עֹמֶק אוֹקְיָנוֹס, וְלָכֵן נוֹפֵל בּוֹ כָּאן לְשׁוֹן חֲצִיבָה, כְּמוֹ ״וּבֹרֹת חֲצוּבִים״ (דברים ו:יא):
 
 
 **and also a vat he hewed therein** Heb. יֶקֶב, the pit that is before the press, to receive the wine. Likewise, every יֶקֶב in Scripture is an expression denoting a pit. Likewise (Zechariah 14:4), עַד יִקְבֵי הַמֶלֶךְ, which Jonathan renders, “Until the King’s pits.” This is the depth of the ocean. Therefore, the expression of hewing applies, just like (Deut. 6:11): “and hewn pits.”
@@ -4224,7 +4224,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/6:6:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/6:6:2)
 
 
-**בְּמֶלְקָחַיִם.** בִּצְבָת:
+**בְּמֶלְקַחַיִם.** בִּצְבָת:
 
 
 **with tongs** Heb. (בְּמֶלְקֳחַיִם) with tongs.
@@ -4349,7 +4349,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/6:11:3](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/6:11:3)
 
 
-**שָׁאוּ... תִּשָּׁאֶה** לְשׁוֹן גַּלְמוּד **מֵאֵין יוֹשֵׁב.**
+**שָׁאוּ… תִּשָּׁאֶה** לְשׁוֹן גַּלְמוּד **מֵאֵין יוֹשֵׁב.**
 
 
 **lies waste and desolate** an expression of solitude, without an inhabitant.
@@ -4571,7 +4571,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/7:6:3](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/7:6:3)
 
 
-**אֶת בֶּן טָבְאַל.** בֶּן הַטּוֹב אֵלֵינוּ, כֵּן תִּרְגֵּם יוֹנָתָן. וְיֵשׁ לְפָרֵשׁ ״טוֹב אֵל״ אֲשֶׁר לֹא טוֹב בְּעֵינֵי הַמָּקוֹם, וּבְגִימַטְרִיָּא שֶׁל אוֹתִיּוֹת אלב״ם: **טָבְאַל** הוּא רַמְלָא, ט״ר ב״ם א״ל, **בֶּן טָבְאַל** בֶּן רַמְלָא:
+**אֵת בֶּן טָבְאַל.** בֶּן הַטּוֹב אֵלֵינוּ, כֵּן תִּרְגֵּם יוֹנָתָן. וְיֵשׁ לְפָרֵשׁ ״טוֹב אֵל״ אֲשֶׁר לֹא טוֹב בְּעֵינֵי הַמָּקוֹם, וּבְגִימַטְרִיָּא שֶׁל אוֹתִיּוֹת אלב״ם: **טָבְאַל** הוּא רַמְלָא, ט״ר ב״ם א״ל, **בֶּן טָבְאַל** בֶּן רַמְלָא:
 
 
 **one who is good for us** Heb. בֶּן טָבְאַל [a combination of the words: טוֹב אֶל,] good for us; so did Jonathan render it. It is also possible to interpret it as: טוֹב אַל, not good in the eyes of the Omnipresent, and according to the calculation of the letters of ‘al-bam,’ Tov’al is Ramla. ‘Teth’ equals ‘resh’; ‘beth’ equals ‘mem’; ‘aleph’ equals ‘lammed.’ Hence, “ben tov’al” equals ‘ben Ramla.’
@@ -4871,7 +4871,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/7:18:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/7:18:1)
 
 
-**וְיִשְׁרֹק ה׳.** יִרְמוֹז לָהֶם שֶׁיִּתְקַבְּצוּ:
+**יִשְׁרֹק ה׳.** יִרְמוֹז לָהֶם שֶׁיִּתְקַבְּצוּ:
 
 
 **the Lord shall whistle** Shall signal them that they assemble.
@@ -4940,7 +4940,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/7:19:3](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/7:19:3)
 
 
-**וּבְכׇל הַנַּעֲצוּצִים.** מְקוֹם הַסִּירִים (שקורין ברוצ״ש בלע״ז), וְכֵן ״תַּחַת הַנַּעֲצוּץ יַעֲלֶה בְרוֹשׁ״ (ישעיהו נה:יג):
+**וּבְכֹל הַנַּעֲצוּצִים.** מְקוֹם הַסִּירִים (שקורין ברוצ״ש בלע״ז), וְכֵן ״תַּחַת הַנַּעֲצוּץ יַעֲלֶה בְרוֹשׁ״ (ישעיהו נה:יג):
 
 
 **and in the thornbushes** the places of the thorns called broces [briars]. And similarly (infra 55:13): “Instead of the thornbush (הנַּעֲצוּץ) the fir tree shall come up.”
@@ -5572,7 +5572,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/8:14:5](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/8:14:5)
 
 
-**לִשְׁנֵי בָתֵּי יִשְׂרָאֵל.** שֶׁבָּאוּ לִהְיוֹת **לְפַח וּלְמוֹקֵשׁ לְיוֹשְׁבֵי יְרוּשָׁלִָם,** וּמִי הֵם שְׁנֵי הַבָּתִּים? פֶּקַח בֶּן רְמַלְיָהוּ וְסִיעָתוֹ, וְשֶׁבְנָא וְסִיעָתוֹ:
+**לִשְׁנֵי בָתֵּי יִשְׂרָאֵל.** שֶׁבָּאוּ לִהְיוֹת לְפַח וּלְמוֹקֵשׁ לְיוֹשְׁבֵי יְרוּשָׁלִָם, וּמִי הֵם שְׁנֵי הַבָּתִּים? פֶּקַח בֶּן רְמַלְיָהוּ וְסִיעָתוֹ, וְשֶׁבְנָא וְסִיעָתוֹ:
 
 
 **for the two houses of Israel** who came to be for a snare and a trap for the inhabitants of Jerusalem. Now who are the two houses? Pekah son of Remaliah and his company and Shebna and his company.
@@ -5816,7 +5816,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/8:22:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/8:22:1)
 
 
-**וְאֶל אֶרֶץ יַבִּיט.** אוּלַי יִמְצָא עֵזֶר, ״אֲשֶׁר שָׁלַח מַלְאָכִים״ הוֹשֵׁעַ בֶּן אֵלָה ״אֶל סוּא מֶלֶךְ מִצְרַיִם״ (מלכים ב יז:ד):
+**וְאֶל אֶרֶץ יַבִּיט.** אוּלַי יִמְצָא עֵזֶר, ״אֲשֶׁר שָׁלַח מַלְאָכִים״ הוֹשֵׁעַ בֶּן אֵלָה ״אֶל סוֹא מֶלֶךְ מִצְרַיִם״ (מלכים ב יז:ד):
 
 
 **And he shall look to the land** perhaps he will find aid. [This refers to the incident] that Hoshea son of Elah sent messengers to So the king of Egypt (II Kings 17:4).
@@ -6315,7 +6315,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/9:15:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/9:15:1)
 
 
-**מְאַשְּׁרֵי.** מַדְרִיכֵי, כְּמוֹ ״בַּאֲשֻׁרוֹ אָחֲזָה רַגְלִי״ (איוב כג:יא), וּמְאֻשָּׁרָיו שֶׁלָּמְדוּ דַּרְכֵי מַדְרִיכֵי הַתּוֹעֶה (סא"א):
+**מְאַשְּׁרֵי.** מַדְרִיכֵי, כְּמוֹ ״בַּאֲשֻׁרוֹ אָחֲזָה רַגְלִי״ (איוב כג:יא), וּמְאֻשָּׁרָיו שֶׁלָּמְדוּ דַּרְכֵי מַדְרִיכֵי הַתּוֹעֶה (סא״א):
 
 
 **the leaders** Heb. מְאַשְׁרֵי, leaders. Comp. (Job 23:11) “On His steps (בַּאֲשֻׁרוֹ), my foot has held fast.”
@@ -6390,7 +6390,7 @@ Heb. צחה Aramaic for thirst.
 **וַיִּתְאַבְּכוּ גֵּאוּת עָשָׁן.** יִהְיוּ נְבוּכִים וּמְסֻגָּרִים בְּחֹזֶק עֲשַׁן הַתְּבֵעָרָה. **וַיִּתְאַבְּכוּ** – כָּל לְשׁוֹן ׳נָבַךְ׳ אֵין יְסוֹד תֵּיבָה אֶלָּא ׳בַּךְ׳, כְּמוֹ ״מִבְּכִי נְהָרוֹת״ (איוב כח:יא), ״עֵמֶק הַבָּכָא״ (תהלים פד:ז), וְהַנוּ״ן בָּאָה לוֹ לִפְרָקִים, וְכָאן בָּא בּוֹ אָלֶ״ף בִּמְקוֹם נוּ״ן, כְּמוֹ אָלֶ״ף שֶׁל ״אִבְחַת חֶרֶב״ (יחזקאל כא:כ), וְאָלֶ״ף שֶׁל ״וְאַחֲוָתִי בְאָזְנֵיכֶם״ (איוב יג:יז):
 
 
-**and they have become entangled by the thickening smoke.** They shall become entangled and hemmed in by the strength of the conflagration. Every expression of entanglement has only בך as its radical. Comp. (Job 28:11) “From the recesses (מִבְּכִי) of the rivers”; (Psalms 94:7) “The valley of entanglement (הַבָּכָא).” And the ‘nun’ appears in it sometimes, and here an ‘aleph’ appears in place of the ‘nun,’ like the ‘aleph’ of אִבְחַת, “the howling of the sword” (Ezekiel 21:20), and the ‘aleph’ of וְאַחְוָתִי, “And my speech in your ears” (Job 13:17).
+**and they have become entangled by the thickening smoke.** They shall become entangled and hemmed in by the strength of the conflagration. Every expression of entanglement has only בך as its radical. Comp. (Job 28:11) “From the recesses (מִבְּכִי) of the rivers”; (Psalms 84:7) “The valley of entanglement (הַבָּכָא).” And the ‘nun’ appears in it sometimes, and here an ‘aleph’ appears in place of the ‘nun,’ like the ‘aleph’ of אִבְחַת, “the howling of the sword” (Ezekiel 21:20), and the ‘aleph’ of וְאַחְוָתִי, “And my speech in your ears” (Job 13:17).
 
 
 
@@ -6826,7 +6826,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/10:14:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/10:14:1)
 
 
-**כַּקֵּן.** כְּקִינֵי עוֹפוֹת הֶפְקֵר:
+**כַקֵּן.** כְּקִינֵי עוֹפוֹת הֶפְקֵר:
 
 
 **like a nest** like nests of ownerless birds.
@@ -7494,7 +7494,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/11:1:4](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/11:1:4)
 
 
-**וְנֵצֶר מִשָּׁרָשָׁיו יִפְרֶה.** וּבְכָל הָעִנְיָן, וּבְסוֹפוֹ ״וְהָיָה בַּיּוֹם הַהוּא יוֹסִיף ה׳ שֵׁנִית יָדוֹ״ (ישעיהו יא:יא) – הֲרֵי שֶׁנֶּאֶמְרָה נְבוּאָה זוֹ לְנֶחָמַת הַגּוֹלִים מֵאַשּׁוּר. (אָמַר הַמַּעְתִּיק: בִּימֵי חָרְפִּי הִקְשֵׁיתִי לִשְׁאוֹל לְכַמָּה גְּאוֹנִים עַל מַה שֶׁכָּתַב אֲדוֹנִי מוֹרִי זְקֵנִי הָרַמָּ״א בְּהַגָּהָה בְּהִלְכוֹת רֹאשׁ הַשָּׁנָה שֶׁאֱגוֹז בְּגִימַטְרִיָּא חֵ״ט וַהֲלֹא הוּא גַּם גִּימַטְרִיָּא טוֹ״ב, וְתֵרַצְתִּי עַל פִּי הַזֹּהַר מַה שֶׁהִקְשָׁה רַבִּי אֶלְעָזָר אֶת אָבִיו רַבִּי שִׁמְעוֹן בַּר יוֹחַאי):
+**וְנֵצֶר מִשָּׁרָשָׁיו יִפְרֶה.** וּבְכָל הָעִנְיָן, וּבְסוֹפוֹ ״וְהָיָה בַּיּוֹם הַהוּא יוֹסִיף ה׳ שֵׁנִית יָדוֹ״ (ישעיהו יא:יא) – הֲרֵי שֶׁנֶּאֶמְרָה נְבוּאָה זוֹ לְנֶחָמַת הַגּוֹלִים מֵאַשּׁוּר:
 
 
 **and a twig shall sprout from its roots** and the entire section, and at the end (v. 11), “And it shall come to pass, that on that day, the Lord shall apply His hand again...[from Assyria]...Hence, [it is obvious] that this prophecy was said to console those exiled to Assyria.
@@ -7508,7 +7508,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/11:3:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/11:3:1)
 
 
-**וַהֲרִיחוֹ בְּיִרְאַת ה׳.** יְמַלֵּא רוּחַ יִרְאַת ה׳, ובלע״ז איראונמירלו״י:
+**וַהֲרִיחוֹ בְּיִרְאַת ה׳.** יִמָּלֵא רוּחַ יִרְאַת ה׳, ובלע״ז איראונמירלו״י:
 
 
 **And he shall be animated by the fear of the Lord** He shall be filled with the fear of the Lord. [ed enos mera il luy in O.F., and He shall be enlivened.]
@@ -7608,7 +7608,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/11:8:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/11:8:2)
 
 
-**עַל חוּר פָּתֶן.** עַל חוֹר עָפָר שֶׁהַנָּחָשׁ מְקַנֵּן בְּתוֹכוֹ, קרו״ט בלע״ז. **פֶּתֶן** – נָחָשׁ מִשֶּׁהִזְקִין נַעֲשָׂה חֵרֵשׁ, וְנִקְרָא פֶּתֶן, שׁוּב אֵין לוֹ לַחַשׁ, שֶׁנֶּאֱמַר (תהלים נח:ו) ״אֲשֶׁר לֹא יִשְׁמַע לְקוֹל מְלַחֲשִׁים״:
+**עַל חוּר פָּתֶן.** עַל חוֹר עָפָר שֶׁהַנָּחָשׁ מְקַנֵּן בְּתוֹכוֹ, קרו״ט בלע״ז. **פֶּתֶן** – נָחָשׁ מִשֶּׁהִזְקִין נַעֲשָׂה חֵרֵשׁ, וְנִקְרָא פֶּתֶן, שׁוּב אֵין לוֹ לַחַשׁ, שֶׁנֶּאֱמַר (תהלים נח:ו) ״אֲשֶׁר לֹא יִשְׁמַע לְקוֹל מְלַחֲשִׁים״:
 
 
 **over the hole of an old snake** over a hole in the ground in which the snake makes its nest [krot in O.F.], a cave. an old snake פֶּתֶן. A snake, when it ages, becomes deaf and is called פֶּתֶן. From then on, it cannot be charmed; as it is said (Psalms 58:6): “Who will not hearken to the voice of charmers.”
@@ -7805,7 +7805,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/11:15:5](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/11:15:5)
 
 
-**וְהִדְרִיךְ.** בְּתוֹכוֹ אֶת הַגָּלִיּוֹת:
+**וְהִדְרִיךְ.** בְּתוֹכוֹ אֶת הַגָּלֻיּוֹת:
 
 
 **and He shall lead** the exiles within it.
@@ -7858,7 +7858,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/12:1:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/12:1:2)
 
 
-**אוֹדְךָ. כִּי אָנַפְתָּ בִּי** וְהִגְלִיתַנִי, וְכִפֵּר גָּלוּתִי עָלַי; וְעַתָּה נִרְצָה עֲוֹנִי, וְ**יָשֹׁב אַפְּךָ וּתְנַחֲמֵנִי**. וְיוֹנָתָן תִּרְגֵּם: **אוֹדְךָ ה׳ כִּי** חָטָאתִי לָךְ, וְעַל כֵּן **אָנַפְתָּ בִּי,** וְלוּלֵי רַחֲמֶיךָ לֹא הָיִיתִי כְּדַאי לָשׁוּב **אַפְּךָ וּלְנַחֲמֵנִי;** וְהִנֵּה שָׁב אַפְּךָ מִמֶּנִּי:
+**אוֹדְךָ. כִּי אָנַפְתָּ בִּי** וְהִגְלִיתַנִי, וְכִפֵּר גָּלוּתִי עָלַי; וְעַתָּה נִרְצָה עֲוֹנִי, וְ**יָשֹׁב אַפְּךָ וּתְנַחֲמֵנִי.** וְיוֹנָתָן תִּרְגֵּם: **אוֹדְךָ ה׳ כִּי** חָטָאתִי לָךְ, וְעַל כֵּן **אָנַפְתָּ בִּי,** וְלוּלֵי רַחֲמֶיךָ לֹא הָיִיתִי כְּדַאי לָשׁוּב **אַפְּךָ וּלְנַחֲמֵנִי;** וְהִנֵּה שָׁב אַפְּךָ מִמֶּנִּי:
 
 
 **I will thank You, O Lord, for you were wroth with me** and You exiled me, and my exile atoned for me, and now, amends have been made for my iniquity. May Your wrath turn away and may You comfort me. Jonathan renders: I will confess before You, O Lord, that I sinned before You, and, therefore, You were wroth with me, and were it not for Your mercy, I would not be worthy to have Your wrath turn away and comfort me, and behold, Your wrath has turned away from me.
@@ -8122,7 +8122,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/13:8:4](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/13:8:4)
 
 
-**וּפְנֵי לְהָבִים פְּנֵיהֶם.** אוֹמֵר אֲנִי שֶׁפְּנֵיהֶם צְהוּבִים וּמְאוּיָּמִין מְאֹד, אוֹ יֵשׁ לוֹמַר שֶׁהֵם עַם חוֹשְׁבֵי מַחֲשָׁבוֹת, וְאֶת בְּנֵי בָּבֶל (דִּמָּה לָהֶם עַל שֵׁם הַתִּמָּהוֹן):
+**פְּנֵי לְהָבִים פְּנֵיהֶם.** אוֹמֵר אֲנִי שֶׁפְּנֵיהֶם צְהוּבִים וּמְאוּיָּמִין מְאֹד, אוֹ יֵשׁ לוֹמַר שֶׁהֵם עַם חוֹשְׁבֵי מַחֲשָׁבוֹת, וְאֶת בְּנֵי בָּבֶל (דִּמָּה לָהֶם עַל שֵׁם הַתִּמָּהוֹן):
 
 
 **their faces are faces of flames** A nation whose faces are red and very frightful, [or alternatively, because they are a pensive people, and he compares the Babylonians to them because of the amazement.]
@@ -8472,7 +8472,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/13:22:4](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/13:22:4)
 
 
-**וְיָמֶיהָ.** יְמֵי טוֹבָתָהּ **לֹא יִמָּשְׁכוּ,** כִּי כְּבָר הֻבְטְחוּ יִשְׂרָאֵל (ירמיה כט:י) ״לְפִי מְלֹאת לְבָבֶל שִׁבְעִים שָׁנָה אֶפְקֹד אֶתְכֶם״, וְאוֹתָהּ פְּקִידָה עַל יְדֵי כּוֹרֶשׁ מֶלֶךְ פָּרַס, שֶׁיִּטּוֹל הַמְּלוּכָה מִבָּבֶל אַחַר דָּרְיָוֶשׁ הַמָּדִי, כִּי שְׁנֵיהֶם, מָדַי וּפָרַס, נִתְחַבְּרוּ עֲלֵיהֶם וְהִתְנוּ בֵּינֵיהֶם: אִי מִינַּן מַלְכֵי מִנַּיְיכוּ אֲפַרְכֵי (מגילה יב א):
+**וְיָמֶיהָ.** יְמֵי טוֹבָתָהּ **לֹא יִמָּשֵׁכוּ,** כִּי כְּבָר הֻבְטְחוּ יִשְׂרָאֵל (ירמיה כט:י) ״לְפִי מְלֹאת לְבָבֶל שִׁבְעִים שָׁנָה אֶפְקֹד אֶתְכֶם״, וְאוֹתָהּ פְּקִידָה עַל יְדֵי כּוֹרֶשׁ מֶלֶךְ פָּרַס, שֶׁיִּטּוֹל הַמְּלוּכָה מִבָּבֶל אַחַר דָּרְיָוֶשׁ הַמָּדִי, כִּי שְׁנֵיהֶם, מָדַי וּפָרַס, נִתְחַבְּרוּ עֲלֵיהֶם וְהִתְנוּ בֵּינֵיהֶם: אִי מִינַּן מַלְכֵי מִנַּיְיכוּ אֲפַרְכֵי (מגילה יב א):
 
 
 **and her days** The days of her flourishing shall not be extended, for Israel was promised (Jer. 29:10): “When seventy years of Babylon are over, I will remember you.” And that remembering will be through Cyrus king of Persia, who will take the kingdom from Babylon after Darius the Mede, for they both, Media and Persia, joined over it, [i.e., over Babylon,] and stipulated between themselves, if the kings are from us, the governors are from you.
@@ -8561,7 +8561,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/14:3:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/14:3:2)
 
 
-**מֵעָצְבְּךָ וּמֵרָגְזֶךָ** שֶׁעִצְּבְךָ וְהִרְגִּיזְךָ מֶלֶךְ בָּבֶל, וּבִרְאוֹתְךָ מַפַּלְתּוֹ יָנִיחַ לְךָ, כִּי תֵצֵא חָפְשִׁי:
+**מֵעָצְבְּךָ וּמִרׇגְזֶךָ** שֶׁעִצְּבְךָ וְהִרְגִּיזְךָ מֶלֶךְ בָּבֶל, וּבִרְאוֹתְךָ מַפַּלְתּוֹ יָנִיחַ לְךָ, כִּי תֵצֵא חָפְשִׁי:
 
 
 **from your sorrow and from your shuddering** which the king of Babylon saddened you and caused you to shudder, and when you see his downfall, you will be eased, since you will go out free.
@@ -8589,7 +8589,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/14:5:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/14:5:1)
 
 
-**שָׁבַר יְהוָה מַטֵּה רְשָׁעִים.** שֶׁהָיָה מַכֶּה עַמִּים בְּעֶבְרָה:
+**שָׁבַר ה׳ מַטֵּה רְשָׁעִים.** שֶׁהָיָה מַכֶּה עַמִּים בְּעֶבְרָה:
 
 
 **The Lord has broken the staff of the wicked** For he would smite peoples with wrath.
@@ -8603,7 +8603,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/14:6:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/14:6:1)
 
 
-**מֻרְדָּף בְּלִי חָשָׂךְ.** מֻרְדָּף כָּל גּוֹי וְגוֹי עַל יָדוֹ **בְּלִי חָשָׁךְ** עַצְמוֹ מֵרְדּוֹף וּמִדְּלוֹק אַחַר כָּל אֻמָּה וְאֻמָּה:
+**מֻרְדָּף בְּלִי חָשָׂךְ.** מֻרְדָּף כָּל גּוֹי וְגוֹי עַל יָדוֹ בְּלִי חָשָׂךְ עַצְמוֹ מֵרְדּוֹף וּמִדְּלוֹק אַחַר כָּל אֻמָּה וְאֻמָּה:
 
 
 **pursued without relenting** Every nation was pursued by him without his relenting from pursuing and chasing each nation.
@@ -9042,7 +9042,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/14:25:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/14:25:1)
 
 
-**לִשְׁבֹּר אַשּׁוּר בְּאַרְצִי.** וּבְזֹאת תֵּדַע, כִּי אֶת **אֲשֶׁר יָעַצְתִּי** אֵלֶיךָ גַּם **הִיא תָּקוּם**:
+**לִשְׁבֹּר אַשּׁוּר בְּאַרְצִי.** וּבְזֹאת תֵּדַע, כִּי אֶת אֲשֶׁר יָעַצְתִּי אֵלֶיךָ גַּם הִיא תָּקוּם:
 
 
 **To break Assyria in My land** And with this you shall know that what I planned about you will remain as well.
@@ -9167,7 +9167,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/14:31:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/14:31:1)
 
 
-**כִּי מִצָּפוֹן עָשָׁן בָּא.** פֻּרְעָנוּת קָשָׁה כְּעָשָׁן תָּבֹא עֲלֵיהֶם **מִצָּפוֹן**. עַזָּה וּגְבוּלֶיהָ, שֶׁהִכָּה חִזְקִיָּה, הָיוּ בִּדְרוֹמָהּ שֶׁל אֶרֶץ יִשְׂרָאֵל בְּמִקְצוֹעַ דְּרוֹמִית מַעֲרָבִית, נִמְצֵאת אֶרֶץ יִשְׂרָאֵל לָהּ מִצָּפוֹן. וְכֵן מָצִינוּ בְּסִפְרֵי בְּהַאֲזִינוּ (ספרי דברים שכב): בִּקְשׁוּ לִבְרוֹחַ כְּלַפֵּי דָּרוֹם, הָיוּ מַסְגִּירִין אוֹתָן, שֶׁנֶּאֱמַר (עמוס א:ו) ״עַל שְׁלֹשָׁה פִּשְׁעֵי עַזָּה״; לָמַדְנוּ שֶׁעַזָּה בַּדָּרוֹם:
+**כִּי מִצָּפוֹן עָשָׁן בָּא.** פֻּרְעָנוּת קָשָׁה כְּעָשָׁן תָּבֹא עֲלֵיהֶם **מִצָּפוֹן.** עַזָּה וּגְבוּלֶיהָ, שֶׁהִכָּה חִזְקִיָּה, הָיוּ בִּדְרוֹמָהּ שֶׁל אֶרֶץ יִשְׂרָאֵל בְּמִקְצוֹעַ דְּרוֹמִית מַעֲרָבִית, נִמְצֵאת אֶרֶץ יִשְׂרָאֵל לָהּ מִצָּפוֹן. וְכֵן מָצִינוּ בְּסִפְרֵי בְּהַאֲזִינוּ (ספרי דברים שכב): בִּקְשׁוּ לִבְרוֹחַ כְּלַפֵּי דָּרוֹם, הָיוּ מַסְגִּירִין אוֹתָן, שֶׁנֶּאֱמַר (עמוס א:ו) ״עַל שְׁלֹשָׁה פִּשְׁעֵי עַזָּה״; לָמַדְנוּ שֶׁעַזָּה בַּדָּרוֹם:
 
 
 **for from the North smoke has come** Retribution harsh as smoke shall come upon them from the north. Gaza and its boundaries, which Hezekiah smote, were in the south of Eretz Israel in the southwestern corner. Eretz Israel is found to be north of it. And so we find in Sifrei in Ha’azinu 322: They attempted to flee through the south, and they turned them over, as it is stated (Amos 1:6): “For three transgressions of Gaza... [because of their exiling a complete exile to deliver to Edom.]” Hence, we learn that Gaza is on the south.
@@ -9231,7 +9231,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/15:1:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/15:1:2)
 
 
-**כִּי בְּלֵיל שֻׁדַּד עָר מוֹאָב נִדְמָה.** נִדְמָה מוֹאָב כְּאִלּוּ יָשֵׁן דּוֹמֶה וְאֵין יָכוֹל לְהִלָּחֵם, וּבְלֵיל אַחֵר אֲשֶׁר שׁוּדַּד בּוֹ **קִיר מוֹאָב נִדְמָה**. תִּרְגֵּם יוֹנָתָן: ״וְאִינּוּן רְדִימִין״. עָר וְקִיר שְׁתֵּי מְדִינוֹת מוֹאָב הֵם:
+**כִּי בְּלֵיל שֻׁדַּד עָר מוֹאָב נִדְמָה.** נִדְמָה מוֹאָב כְּאִלּוּ יָשֵׁן דּוֹמֶה וְאֵין יָכוֹל לְהִלָּחֵם, וּבְלֵיל אַחֵר אֲשֶׁר שׁוּדַּד בּוֹ **קִיר מוֹאָב נִדְמָה.** תִּרְגֵּם יוֹנָתָן: ״וְאִינּוּן רְדִימִין״. עָר וְקִיר שְׁתֵּי מְדִינוֹת מוֹאָב הֵם:
 
 
 **for on the night that Ar of Moab was pillaged, it was as though they were sleeping silently** Moab was silent as though they were sleeping silently and were unable to wage war, and on another night when Kir of Moab was pillaged, it was as though they were sleeping silently. Jonathan renders: And they were sleeping. Ar and Kir were two provinces of Moab.
@@ -9367,7 +9367,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/15:6:3](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/15:6:3)
 
 
-**כִּי יָבֵשׁ חָצִיר וגו׳.** כְּלוֹמַר, גִּבּוֹרֵיהֶם וּמַלְכֵיהֶם וְשַׁלִּיטֵיהֶם. וּלְפִי שֶׁשִּׁבְחָהּ שֶׁל אֶרֶץ מוֹאָב הוּא מִרְעֶה הַטּוֹב שֶׁבָּהּ, כְּמוֹ שֶׁשָּׁנִינוּ (מנחות פז א): אֵילִים מִמּוֹאָב, לְפִיכָךְ מָשַׁל אֶת פֻּרְעָנוּת בְּחֻרְבַּן מִרְעֶה שֶׁלָּהּ:
+**כִּי יָבֵשׁ חָצִיר וגו׳.** כְּלוֹמַר, גִּבּוֹרֵיהֶם וּמַלְכֵיהֶם וְשַׁלִּיטֵיהֶם. וּלְפִי שֶׁשִּׁבְחָהּ שֶׁל אֶרֶץ מוֹאָב הוּא מִרְעֶה הַטּוֹב שֶׁבָּהּ, כְּמוֹ שֶׁשָּׁנִינוּ (מנחות פז א): אֵילִים מִמּוֹאָב, לְפִיכָךְ מָשַׁל אֶת פֻּרְעָנוּתָה בְּחֻרְבַּן מִרְעֶה שֶׁלָּהּ:
 
 
 **for the grass has dried up** meaning their heroes and their kings and their rulers, and since the land of Moab is noted for its good pastureland, as we learned (Menachoth 87a): “Rams from Moab,” he therefore compared its retribution to the destruction of its pastureland.
@@ -9564,7 +9564,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/16:3:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/16:3:1)
 
 
-**עֲשִׂי פְלִילָה.** הוּא לְשׁוֹן וִכּוּחַ מִשְׁפָּט, לִבְחוֹר לְךָ אֶת הַטּוֹב, כְּמוֹ (איוב לד:ד) ״מִשְׁפָּט נִבְחֲרָה לָּנוּ״:
+**עֲשׂוּ פְלִילָה.** הוּא לְשׁוֹן וִכּוּחַ מִשְׁפָּט, לִבְחוֹר לְךָ אֶת הַטּוֹב, כְּמוֹ (איוב לד:ד) ״מִשְׁפָּט נִבְחֲרָה לָּנוּ״:
 
 
 **deliberate judgment** This is an expression of a debate of judgment, to choose for yourself what is good. Comp. (Job 34:4) “Let us choose for ourselves what is just.” [derajjsnement in O.F., discernment.]
@@ -9644,7 +9644,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/16:4:5](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/16:4:5)
 
 
-**תָּמּוּ רֹמֵס.** הַבְּהֵמוֹת שֶׁלְּךָ הָרוֹמְסוֹת בָּאָרֶץ:
+**תַּמּוּ רֹמֵס.** הַבְּהֵמוֹת שֶׁלְּךָ הָרוֹמְסוֹת בָּאָרֶץ:
 
 
 **the tramplers have ceased** Your animals that trample [the earth] in your land.
@@ -10037,7 +10037,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/16:14:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/16:14:2)
 
 
-**בְּשָׁלֹשׁ שָׁנִים כִּשְׁנֵי שָׂכִיר.** בִּשְׁבִיל שָׁלֹשׁ שָׁנִים שֶׁסִּיְּעוּ אֶת סַנְחֵרִיב, כְּשֶׁצָּר עַל שׁוֹמְרוֹן, וַעֲזָרוּהוּ בְּלִי בֶּצַע כְּאִלּוּ הָיוּ לוֹ שְׂכִירִים, לְפִיכָךְ **וְנִקְלָה כְּבוֹד מוֹאָב** בֵּין כָּל שְׁאָר הֲמוֹנוֹ שֶׁל סַנְחֵרִיב שֶׁשִּׁטְּפָם בַּשְּׁבִי מִתּוֹךְ אוֹתוֹ הַחַיִל וַיֵּלֶךְ לוֹ. וְכֵן מְפֹרָשׁ בְּסֵדֶר עוֹלָם (סדר עולם רבה כג): שָׁטַף עַמּוֹנִים וּמוֹאָבִים שֶׁהָיוּ מְסַיְּעִין אוֹתָם כְּשֶׁצָּר עַל שׁוֹמְרוֹן שָׁלֹשׁ שָׁנִים, לְקַיֵּם מַה שֶׁנֶּאֱמַר **שָׁלֹשׁ שָׁנִים כִּשְׁנֵי שָׂכִיר וְגוֹ׳**. וְעוֹד יֵשׁ לְפָרֵשׁ **שָׁלֹשׁ שָׁנִים כִּשְׁנֵי שָׂכִיר**: שָׁלֹשׁ שָׁנִים נִגְזְרוּ עֲלֵיכֶם לְאֹרֶךְ זְמַן, אֲבָל מְצֻמְצָמִין יִהְיוּ וְלֹא תְאַחֵר עוֹד הַפֻּרְעָנוּת, כַּאֲשֶׁר יְדַקְדֵּק הַשָּׂכִיר בִּשְׁנֵי שְׂכִירוּתוֹ לְצַמְצֵם:
+**בְּשָׁלֹשׁ שָׁנִים כִּשְׁנֵי שָׂכִיר.** בִּשְׁבִיל שָׁלֹשׁ שָׁנִים שֶׁסִּיְּעוּ אֶת סַנְחֵרִיב, כְּשֶׁצָּר עַל שׁוֹמְרוֹן, וַעֲזָרוּהוּ בְּלִי בֶּצַע כְּאִלּוּ הָיוּ לוֹ שְׂכִירִים, לְפִיכָךְ **וְנִקְלָה כְּבוֹד מוֹאָב** בֵּין כָּל שְׁאָר הֲמוֹנוֹ שֶׁל סַנְחֵרִיב שֶׁשְּׁטָפָם בַּשְּׁבִי מִתּוֹךְ אוֹתוֹ הַחַיִל וַיֵּלֶךְ לוֹ. וְכֵן מְפֹרָשׁ בְּסֵדֶר עוֹלָם (סדר עולם רבה כג): שָׁטַף עַמּוֹנִים וּמוֹאָבִים שֶׁהָיוּ מְסַיְּעִין אוֹתָם כְּשֶׁצָּר עַל שׁוֹמְרוֹן שָׁלֹשׁ שָׁנִים, לְקַיֵּם מַה שֶׁנֶּאֱמַר **שָׁלֹשׁ שָׁנִים כִּשְׁנֵי שָׂכִיר וְגוֹ׳.** וְעוֹד יֵשׁ לְפָרֵשׁ **שָׁלֹשׁ שָׁנִים כִּשְׁנֵי שָׂכִיר**: שָׁלֹשׁ שָׁנִים נִגְזְרוּ עֲלֵיכֶם לְאֹרֶךְ זְמַן, אֲבָל מְצֻמְצָמִין יִהְיוּ וְלֹא תְאַחֵר עוֹד הַפֻּרְעָנוּת, כַּאֲשֶׁר יְדַקְדֵּק הַשָּׂכִיר בִּשְׁנֵי שְׂכִירוּתוֹ לְצַמְצֵם:
 
 
 **In three years like the years of a hireling** Because of three years that they aided Sennacherib when he besieged Samaria, and they aided him without compensation, as though they were his hirelings, the glory of Moab shall, therefore, be debased among the rest of Sennacherib’s multitudes, for he swept them away into captivity from the midst of that army and went away. And so it is related in Seder Olam (ch. 23): He swept away the Ammonites and the Moabites who aided him when he besieged Samaria three years, to fulfill what is said: “Three years like the years of a hireling, etc.” It can further be explained as follows: “Three years like the years of a hireling.” Three years were decreed upon you as a reprieve, but they will be exact, and the retribution will not be delayed further, as a hireling is exact with the years of his hire, to limit them.
@@ -10131,7 +10131,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/17:2:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/17:2:1)
 
 
-**עֲזֻבוֹת עָרֵי עֲרֹעֵר.** יוֹנָתָן תִּרְגֵּם לְשׁוֹן חוּרְבָּן, כְּמוֹ ״עַרְעֵר תִּתְעַרְעַר״ (ירמיהו נא:נח), וּפֵרְשׁוֹ עַל עָרֵי אֲרָם. וּמִדְרַשׁ אַגָּדָה מַתְמִיהַּ: לְפִי שֶׁעֲרוֹעֵר מֵאֶרֶץ יִשְׂרָאֵל הָיְתָה, שֶׁנֶּאֱמַר ״וְאֶת עֲרֹעֵר״ (במדבר לב:לד), עוֹמֵד בְּדַמֶּשֶׂק וּמַכְרִיז בַּעֲרוֹעֵר? אֶלָּא שֶׁהָיוּ בְּדַמֶּשֶׂק שְׁוָקִים כְּמִנְיַן יְמוֹת הַחַמָּה, וְכָל אַחַת יֵשׁ בָּהּ עֲבוֹדָה זָרָה וְעוֹבְדִים לָהּ יוֹם אֶחָד בַּשָּׁנָה, וְיִשְׂרָאֵל עָשׂוּ אֶת כֻּלָּן קִבּוּץ אֶחָד וְהָיוּ עוֹבְדִין אֶת כֻּלָּם בְּכָל יוֹם, לְכָךְ הִזְכִּיר מַפֶּלֶת עֲרוֹעֵר אֵצֶל דַּמֶּשֶׂק. וַאֲנִי מְפָרְשׁוֹ לְפִי פְּשַׁט הַמִּקְרָא: עַל שֶׁנִּתְחַבְּרוּ רְצִין וּפֶקַח בֶּן רְמַלְיָהוּ יַחַד, וְהַנָּבִיא הָיָה מִתְנַבֵּא עַל מַפֶּלֶת דַּמֶּשֶׂק וְאָמַר **הִנֵּה דַמֶּשֶׂק מוּסָר מֵעִיר**, עָרֵי עֲרוֹעֵר שֶׁהָיוּ שֶׁל פֶּקַח כְּבָר הָיוּ עֲזוּבוֹת, שֶׁגָּלוּ הָראוּבֵנִי וְהַגָּדִי כְּבָר, וַהֲרֵי תָּמִיד לְעֶדְרֵי צֹאן הֵם נְתוּנוֹת וְרוֹבְצִים שָׁם צֹאן מוֹאָב **וְאֵין מַחֲרִיד**. עוֹד תְּהִי מַלְכוּת פֶּקַח הוֹלֶכֶת וְכָלָה, וְתִלָּכֵד גַּם שׁוֹמְרוֹן בִּימֵי הוֹשֵׁעַ, וְאָז **וְנִשְׁבַּת מִבְצָר מֵאֶפְרַיִם וּמַמְלָכָה מִדַּמֶּשֶׂק** שֶׁיֵּהָרֵג רְצִין:
+**עֲזֻבוֹת עָרֵי עֲרֹעֵר.** יוֹנָתָן תִּרְגֵּם לְשׁוֹן חוּרְבָּן, כְּמוֹ ״עַרְעֵר תִּתְעַרְעַר״ (ירמיהו נא:נח), וּפֵרְשׁוֹ עַל עָרֵי אֲרָם. וּמִדְרַשׁ אַגָּדָה מַתְמִיהַּ: לְפִי שֶׁעֲרוֹעֵר מֵאֶרֶץ יִשְׂרָאֵל הָיְתָה, שֶׁנֶּאֱמַר ״וְאֶת עֲרֹעֵר״ (במדבר לב:לד), עוֹמֵד בְּדַמֶּשֶׂק וּמַכְרִיז בַּעֲרוֹעֵר? אֶלָּא שֶׁהָיוּ בְּדַמֶּשֶׂק שְׁוָקִים כְּמִנְיַן יְמוֹת הַחַמָּה, וְכָל אַחַת יֵשׁ בָּהּ עֲבוֹדָה זָרָה וְעוֹבְדִים לָהּ יוֹם אֶחָד בַּשָּׁנָה, וְיִשְׂרָאֵל עָשׂוּ אֶת כֻּלָּן קִבּוּץ אֶחָד וְהָיוּ עוֹבְדִין אֶת כֻּלָּם בְּכָל יוֹם, לְכָךְ הִזְכִּיר מַפֶּלֶת עֲרוֹעֵר אֵצֶל דַּמֶּשֶׂק. וַאֲנִי מְפָרְשׁוֹ לְפִי פְּשַׁט הַמִּקְרָא: עַל שֶׁנִּתְחַבְּרוּ רְצִין וּפֶקַח בֶּן רְמַלְיָהוּ יַחַד, וְהַנָּבִיא הָיָה מִתְנַבֵּא עַל מַפֶּלֶת דַּמֶּשֶׂק וְאָמַר **הִנֵּה דַמֶּשֶׂק מוּסָר מֵעִיר**, עָרֵי עֲרוֹעֵר שֶׁהָיוּ שֶׁל פֶּקַח כְּבָר הָיוּ עֲזוּבוֹת, שֶׁגָּלוּ הָראוּבֵנִי וְהַגָּדִי כְּבָר, וַהֲרֵי תָּמִיד לְעֶדְרֵי צֹאן הֵם נְתוּנוֹת וְרוֹבְצִים שָׁם צֹאן מוֹאָב **וְאֵין מַחֲרִיד.** עוֹד תְּהִי מַלְכוּת פֶּקַח הוֹלֶכֶת וְכָלָה, וְתִלָּכֵד גַּם שׁוֹמְרוֹן בִּימֵי הוֹשֵׁעַ, וְאָז **וְנִשְׁבַּת מִבְצָר מֵאֶפְרַיִם וּמַמְלָכָה מִדַּמֶּשֶׂק** שֶׁיֵּהָרֵג רְצִין:
 
 
 **The cities of Aroer are abandoned** Jonathan renders this as an expression of destruction. Comp. (Jer. 51:58) “shall be destroyed (עַרְעֵר תִּתְעַרְעַר), and he explained it in reference to the cities of Aram, i. e., Jonathan renders it: Their cities are abandoned, they are destroyed. The Midrash Aggadah (introduction to Lam. Rabbah 10 [with variations], Yalkut Machin) asks in amazement, since Aroer was [part] of Eretz Israel, as it is said (Num. 32:34): “and Aroer.” He is dealing with Damascus and he announces matters concerning Aroer? But, since in Damascus there were streets as numerous as the days of the solar year, and in each one was a pagan deity, which they would worship one day in the year, and the Israelites made them all into one group and worshipped all of them every day, he, therefore, mentioned the downfall of Aroer juxtaposed to Damascus. I explain it, however, according to the simple meaning of the verse, as follows: Since Rezin and Pekah son of Remaliah joined together, and the prophet prophesying about the downfall of Damascus, and saying, “Behold, Damascus shall be removed from [being] a city,” and the cities of Aroer which belonged to Pekah were already abandoned, for the Reubenites and the Gadites had already been exiled, and they were always given to the flocks of sheep, and the sheep of Moab would lie there undisturbed, he continues to say that the kingdom of Pekah shall continue to be gradually terminated, and that Samaria, too, shall be captured in the days of Hoshea, and then (v. 3) And a fortress shall cease from Ephraim and a kingdom from Damascusfor Rezin shall be killed.
@@ -10173,7 +10173,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/17:5:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/17:5:1)
 
 
-**וְהָיָה כֶּאֱסֹף קָצִיר קָמָה.** כְּמוֹ שֶׁבְּעֵת קְצִירַת קָמָה אוֹסֵף הַקּוֹצֵר צְבַת הַקָּמָה בְּיָד אַחַת, וּזְרוֹעוֹ הַשֵּׁנִית שִׁבֳּלִים יִקְצוֹר בְּמַגָּל, כֵּן יַעֲקוֹר סַנְחֵרִיב וְיַגְלֶה הַכֹּל, וְאַף לֶקֶט הַנּוֹשֵׁר בִּשְׁעַת קְצִירָה יְלַקֵּט וְיִשָּׂאֶנּוּ, כְּלוֹמַר: אַף הַבּוֹרְחִים לֹא יִמָּלְטוּ מִיָּדוֹ וִילַקְּטוּם (כְּמוֹ שֶׁמְּלַקֵּט שִׁבֳּלִים סא"א):
+**וְהָיָה כֶּאֱסֹף קָצִיר קָמָה.** כְּמוֹ שֶׁבְּעֵת קְצִירַת קָמָה אוֹסֵף הַקּוֹצֵר צְבַת הַקָּמָה בְּיָד אַחַת, וּזְרוֹעוֹ הַשֵּׁנִית שִׁבֳּלִים יִקְצוֹר בְּמַגָּל, כֵּן יַעֲקוֹר סַנְחֵרִיב וְיַגְלֶה הַכֹּל, וְאַף לֶקֶט הַנּוֹשֵׁר בִּשְׁעַת קְצִירָה יְלַקֵּט וְיִשָּׂאֶנּוּ, כְּלוֹמַר: אַף הַבּוֹרְחִים לֹא יִמָּלְטוּ מִיָּדוֹ וִילַקְּטוּם (כְּמוֹ שֶׁמְּלַקֵּט שִׁבֳּלִים סא״א):
 
 
 **And it shall be like gathering the harvest of the standing grain** Just as at the time of the harvest, the reaper gathers the bundle of the standing grain in his one hand and with his other arm he reaps the ears, so will Sennacherib uproot and exile everyone, and even the gleanings that fall at the time of harvest he will gather and carry it off. That is to say that even those who flee will not escape his hand, and they will gather them [var. and he will gather them] [like one who gathers ears].
@@ -10209,7 +10209,7 @@ Heb. צחה Aramaic for thirst.
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/17:6:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/17:6:2)
 
 
-**כְּנֹקֶף זַיִת.** קוֹצֵץ זֵיתִים לְלוֹקְטָן מִן הָאִילָן, וְכֵן ״וְנִקַּף בְּסִבְכֵי הַיַּעַר״ (ישעיהו י:לד). וְרַבּוֹתֵינוּ דָּרְשׁוּ: **וְנִשְׁאַר בּוֹ** בַּהֲמוֹן סַנְחֵרִיב אֲנָשִׁים מְעַט **כְּנקֵף זַיִת**, כִּדְאִיתָא בְּאַגָּדַת חֵלֶק (סנהדרין צה ב):
+**כְּנֹקֶף זַיִת.** קוֹצֵץ זֵיתִים לְלוֹקְטָן מִן הָאִילָן, וְכֵן ״וְנִקַּף בְּסִבְכֵי הַיַּעַר״ (ישעיהו י:לד). וְרַבּוֹתֵינוּ דָּרְשׁוּ: **וְנִשְׁאַר בּוֹ** בַּהֲמוֹן סַנְחֵרִיב אֲנָשִׁים מְעַט **כְּנקֵף זַיִת**, כִּדְאִיתָא בְּאַגָּדַת חֵלֶק (סנהדרין צה ב):
 
 
 **like the cutter of an olive tree** Heb. כְּנֹקֶף, like the one who cuts olives to pick them from the tree. Comp. (infra 10:34) “And the thickets of the forest shall be cut off (וְנִקַּף).” Our Rabbis expounded: “And...shall be left in it,” as referring to Sennacherib’s army; i.e., there shall be left in the multitude of Sennacherib a few people like the cutter of an olive tree, as it is stated in the Aggadah of ‘Chelek’ (95b).
@@ -10924,7 +10924,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/19:6:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/19:6:2)
 
 
-**דָּלֲלוּ.** בְּמַחְבֶּרֶת ״אִם דַּל הוּא״ (ויקרא יד:כא):
+**דָּלְלוּ.** בְּמַחְבֶּרֶת ״אִם דַּל הוּא״ (ויקרא יד:כא):
 
 
 ###### Rashi on Isaiah 19:6:3
@@ -10968,7 +10968,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/19:7:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/19:7:1)
 
 
-**עָרוֹת עַל יְאוֹר עַל פִּי יְאוֹר, וְכָל מִזְרַע יְאוֹר וגו׳. עָרוֹת** – לְשׁוֹן דָּבָר הַמְעוֹרֶה וְנִשְׁרָשׁ יָפֶה יָפֶה, וְדוֹמֶה לוֹ (תהלים לז:לה) ״רָשָׁע עָרִיץ וּמִתְעָרֶה כְּאֶזְרָח רַעֲנָן״, וְכֵן חִבְּרוֹ מְנַחֵם בְּמַחְבַּרְתּוֹ. זְרָעִים הַנִּשְׁרָשִׁים עַל נִילוּס, וַאֲפִלּוּ עַל פִּי שְׂפָתוֹ, וְכָל הַנִּזְרָעִים עָלָיו הַכֹּל **יָבֵשׁ וְנִדָּף**:
+**עָרוֹת עַל יְאוֹר עַל פִּי יְאוֹר, וְכָל מִזְרַע יְאוֹר וגו׳.** עָרוֹת – לְשׁוֹן דָּבָר הַמְעוֹרֶה וְנִשְׁרָשׁ יָפֶה יָפֶה, וְדוֹמֶה לוֹ (תהלים לז:לה) ״רָשָׁע עָרִיץ וּמִתְעָרֶה כְּאֶזְרָח רַעֲנָן״, וְכֵן חִבְּרוֹ מְנַחֵם בְּמַחְבַּרְתּוֹ. זְרָעִים הַנִּשְׁרָשִׁים עַל נִילוּס, וַאֲפִלּוּ עַל פִּי שְׂפָתוֹ, וְכָל הַנִּזְרָעִים עָלָיו הַכֹּל יָבֵשׁ וְנִדָּף:
 
 
 **The well-rooted plants by the stream, by the brink of the stream** Heb. עָרוֹת, an expression denoting something rooted very well. Comp. (Psalms 37:35) “The wicked, terrible in power, striking roots (מִתְעָרֶה) like a green tree in its native soil.” Menachem, too, equated it in this manner in his lexicon. [Menachem, however, explains both terms as an expression of growing and of freshness.] Seeds, well-rooted by the Nile, and even on its brink, and all those planted thereby, everything shall dry up and be driven away.
@@ -11193,7 +11193,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/19:18:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/19:18:1)
 
 
-**בַּיּוֹם הַהוּא יִהְיוּ חָמֵשׁ עָרִים וְגוֹ׳.** שָׁנִינוּ בְּסֵדֶר עוֹלָם (סדר עולם רבה כג): אַחַר מַפַּלְתּוֹ שֶׁל סַנְחֵרִיב עָמַד חִזְקִיָּהוּ וּפָטַר אֶת הָאֻכְלוֹסִין שֶׁהֵבִיא עִמּוֹ מִמִּצְרַיִם וּמִכּוּשׁ בְּקוֹלָרִין לִפְנֵי יְרוּשָׁלַיִם, וְקִבְּלוּ עֲלֵיהֶם מַלְכוּת שָׁמַיִם, וְחָזְרוּ לִמְקוֹמָן, שֶׁנֶּאֱמַר: **בַּיּוֹם הַהוּא יִהְיוּ חָמֵשׁ עָרִים וְגוֹ׳**. וְהָלְכוּ וּבָנוּ מִזְבֵּחַ לַה׳ בְּאֶרֶץ מִצְרַיִם, וּמַקְרִיבִין עָלָיו קָרְבָּן לַשָּׁמַיִם, לְקַיֵּם מַה שֶּׁנֶּאֱמַר: **בַּיּוֹם הַהוּא יִהְיֶה מִזְבֵּחַ לַה׳ בְּאֶרֶץ מִצְרָיִם**. וְיֵשׁ מֵרַבּוֹתֵינוּ שֶׁדְּרָשׁוּהוּ בְּמַסֶּכֶת מְנָחוֹת (מנחות קט ב) עַל מִזְבַּח בֵּית חוֹנְיוֹ, בְּנוֹ שֶׁל שִׁמְעוֹן הַצַּדִּיק, שֶׁבָּרַח לוֹ לְמִצְרַיִם וְעָשָׂה שָׁם מִזְבֵּחַ:
+**בַּיּוֹם הַהוּא יִהְיוּ חָמֵשׁ עָרִים וְגוֹ׳.** שָׁנִינוּ בְּסֵדֶר עוֹלָם (סדר עולם רבה כג): אַחַר מַפַּלְתּוֹ שֶׁל סַנְחֵרִיב עָמַד חִזְקִיָּהוּ וּפָטַר אֶת הָאֻכְלוֹסִין שֶׁהֵבִיא עִמּוֹ מִמִּצְרַיִם וּמִכּוּשׁ בְּקוֹלָרִין לִפְנֵי יְרוּשָׁלַיִם, וְקִבְּלוּ עֲלֵיהֶם מַלְכוּת שָׁמַיִם, וְחָזְרוּ לִמְקוֹמָן, שֶׁנֶּאֱמַר: **בַּיּוֹם הַהוּא יִהְיוּ חָמֵשׁ עָרִים וְגוֹ׳.** וְהָלְכוּ וּבָנוּ מִזְבֵּחַ לַה׳ בְּאֶרֶץ מִצְרַיִם, וּמַקְרִיבִין עָלָיו קָרְבָּן לַשָּׁמַיִם, לְקַיֵּם מַה שֶּׁנֶּאֱמַר: **בַּיּוֹם הַהוּא יִהְיֶה מִזְבֵּחַ לַה׳ בְּאֶרֶץ מִצְרָיִם.** וְיֵשׁ מֵרַבּוֹתֵינוּ שֶׁדְּרָשׁוּהוּ בְּמַסֶּכֶת מְנָחוֹת (מנחות קט ב) עַל מִזְבַּח בֵּית חוֹנְיוֹ, בְּנוֹ שֶׁל שִׁמְעוֹן הַצַּדִּיק, שֶׁבָּרַח לוֹ לְמִצְרַיִם וְעָשָׂה שָׁם מִזְבֵּחַ:
 
 
 **On that day there shall be five cities, etc.** We learned in Seder Olam (ch. 23): Following Sennacherib’s defeat, Hezekiah stood up and released the armies he had brought with him from Egypt and from Cush in chains before Jerusalem, and they imposed upon themselves the kingdom of heaven, and returned to their place, and it is said: “On that day there shall be five cities, etc.” They went and built an altar to the Lord in the land of Egypt and they would sacrifice on it to heaven, to fulfill what was said: On that day there shall be an altar to the Lord in the land of Egypt. Some of our Sages expounded it in the tractate Menahoth (109b) as referring to the altar of the temple of Onias the son of Simon the Just, who fled to Egypt and built an altar there.
@@ -11343,7 +11343,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/19:25:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/19:25:1)
 
 
-**אֲשֶׁר בֵּרֲכוֹ.** לְיִשְׂרָאֵל:
+**אֲשֶׁר בֵּרְכוֹ.** לְיִשְׂרָאֵל:
 
 
 **Which...blessed them** [lit. him,] i.e., Israel.
@@ -12042,7 +12042,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/21:17:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/21:17:2)
 
 
-**קֶשֶׁת גִּבּוֹרֵי בְנֵי קֵדָר.** בַּעֲלֵי רוֹבֵי קֶשֶׁת, שֶׁהֵם כַּאֲבִיהֶם שֶׁנֶּאֱמַר בּוֹ (בראשית כא:כ) ״וַיְהִי רֹבֶה קָשֶׁת״:
+**קֶשֶׁת גִּבּוֹרֵי בְנֵי קֵדָר.** בַּעֲלֵי רוֹבֵי קֶשֶׁת, שֶׁהֵם כַּאֲבִיהֶם שֶׁנֶּאֱמַר בּוֹ (בראשית כא:כ) ״וַיְהִי רֹבֶה קַשָּׁת״:
 
 
 **the bows of the heroes of the children of Kedar** Archers, for they are like their forefather, (Ishmael,) about whom it is stated (Gen. 21:2): “And he was an archer.”
@@ -12547,7 +12547,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/22:18:4](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/22:18:4)
 
 
-**שָׁמָּה תָמוּת.** וְלֹא תִּקָּבֵר בְּקִבְרֵי בֵּית דָּוִד, וְ**שָׁמָּה** יִהְיוּ **מַרְכְּבוֹת כְּבוֹדֶךָ** נֶהְפָּכִים לְ**קָלוֹן בֵּית אֲדוֹנֶיךָ** שֶׁבִּקַּשְׁתָּ:
+**שָׁמָּה תָמוּת.** וְלֹא תִּקָּבֵר בְּקִבְרֵי בֵּית דָּוִד, **וְשָׁמָּה** יִהְיוּ **מַרְכְּבוֹת כְּבוֹדֶךָ** נֶהְפָּכִים לְ**קְלוֹן בֵּית אֲדוֹנֶיךָ** שֶׁבִּקַּשְׁתָּ:
 
 
 **there you shall die** And you shall not be buried in the sepulchre of the House of David, and there the chariots of your glory shall be converted into the shame of the house of your master which you sought.
@@ -12775,7 +12775,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/23:3:3](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/23:3:3)
 
 
-**שִׁיחוֹר.** הוּא נִילוּס, שֶׁנֶּאֱמַר (יהושע יג:ג): ״מִן הַשִּׁיחוֹר אֲשֶׁר עַל פְּנֵי מִצְרָיִם״, וְהָיוּ מְבִיאִים הַתְּבוּאָה לְצוֹר בָּאֳנִיּוֹת מִצְרָיִם:
+**שִׁחֹר.** הוּא נִילוּס, שֶׁנֶּאֱמַר (יהושע יג:ג): ״מִן הַשִּׁיחוֹר אֲשֶׁר עַל פְּנֵי מִצְרָיִם״, וְהָיוּ מְבִיאִים הַתְּבוּאָה לְצוֹר בָּאֳנִיּוֹת מִצְרָיִם:
 
 
 **Shihor** This is the Nile, as it is said (Jos. 13: 3): “From the Shihor, which is before Egypt.” And they would bring the produce to Tyre in Egyptian ships.
@@ -12822,7 +12822,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/23:4:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/23:4:2)
 
 
-**כִּי אָמַר יָם.** כִּי אָמְרָה צוֹר, הַיּוֹשֶׁבֶת בְּמָעוֹז הַיָּם שֶׁהוּא עִקַּר רֹאשׁ הַמַּלְכוּת, הֲרֵינִי כְּמוֹ שֶׁ**לֹּא חַלְתִּי וְלֹא יָלַדְתִּי** בַּחוּרִים, כִּי כֻּלָּם נֶהֶרְגוּ, וַהֲרֵי כְּמוֹ שֶׁלֹּא **רוֹמַמְתִּי בְתוּלוֹת**. וְכֵן תִּרְגֵּם יוֹנָתָן. וְרַבּוֹתֵינוּ אָמְרוּ בָּאַגָּדָה (ספרי במדבר מב): **בּוֹשִׁי צִידוֹן כִּי אָמַר יָם** – מָה אֲנִי שֶׁאֵין לִי בָּנִים וּבָנוֹת לִדְאוֹג עֲלֵיהֶם, שֶׁלֹּא יִתָּפְשׂוּ בַּעֲוֹנִי, אֵינִי מְשַׁנֶּה מִצְווֹת קוֹנִי לַעֲבוֹר גְּבוּל חוֹל אֲשֶׁר שָׂם לִי, עַל אַחַת כַּמָּה וְכַמָּה **בּוֹשִׁי צִידוֹן** שֶׁיֵּשׁ לָךְ לִדְאוֹג בְּכָל אֵלֶּה:
+**כִּי אָמַר יָם.** כִּי אָמְרָה צוֹר, הַיּוֹשֶׁבֶת בְּמָעוֹז הַיָּם שֶׁהוּא עִקַּר רֹאשׁ הַמַּלְכוּת, הֲרֵינִי כְּמוֹ שֶׁ**לֹּא חַלְתִּי וְלֹא יָלַדְתִּי** בַּחוּרִים, כִּי כֻּלָּם נֶהֶרְגוּ, וַהֲרֵי כְּמוֹ שֶׁלֹּא **רוֹמַמְתִּי בְתוּלוֹת.** וְכֵן תִּרְגֵּם יוֹנָתָן. וְרַבּוֹתֵינוּ אָמְרוּ בָּאַגָּדָה (ספרי במדבר מב): **בּוֹשִׁי צִידוֹן כִּי אָמַר יָם** – מָה אֲנִי שֶׁאֵין לִי בָּנִים וּבָנוֹת לִדְאוֹג עֲלֵיהֶם, שֶׁלֹּא יִתָּפְשׂוּ בַּעֲוֹנִי, אֵינִי מְשַׁנֶּה מִצְווֹת קוֹנִי לַעֲבוֹר גְּבוּל חוֹל אֲשֶׁר שָׂם לִי, עַל אַחַת כַּמָּה וְכַמָּה **בּוֹשִׁי צִידוֹן** שֶׁיֵּשׁ לָךְ לִדְאוֹג בְּכָל אֵלֶּה:
 
 
 **for the sea said** For Tyre, that was situated in the stronghold of the sea, who was the main head of the kingdom, said, “I am as though I have not travailed, nor have I borne young men, for they all were slain, and I am as though I have not raised virgins.” And so did Jonathan render it. And our Sages said in the Aggadah: Be ashamed, Zidon, for the sea has spoken, “If I, who have no sons and daughters about whom to worry that they not be seized for my iniquity, do not deviate from the commandment of my Maker, by crossing the boundary of sand which He placed for me, how much more should you be ashamed, Zidon, since you have to worry about all these!”
@@ -13022,7 +13022,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/23:12:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/23:12:1)
 
 
-**כִּתִּים.** אֶל אֶרֶץ **כִּתִּים קוּמִי עֲבוֹרִי, גַּם שָׁם לֹא יָנוּחַ לָךְ**. לָמָּה אֲנִי אוֹמֵר **קוּמִי עֲבוֹרִי**?
+**כִּתִּים.** אֶל אֶרֶץ **כִּתִּים קוּמִי עֲבוֹרִי, גַּם שָׁם לֹא יָנוּחַ לָךְ.** לָמָּה אֲנִי אוֹמֵר **קוּמִי עֲבוֹרִי**?
 
 
 **to Kittim** to the land of Kittim, arise and cross; even there you shall have no rest. Why do I say, “Arise and cross over?” ([According to our reading, that of the printed editions, we find no answer to this question. According to some manuscripts, however, the reading is as follows:] **to Kittim** to the land of Kittim, arise and cross, even there you shall have no rest. Why? **Behold the land of the Chaldees** They shall exile you from there.
@@ -13266,7 +13266,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/24:2:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/24:2:1)
 
 
-**תוספת: וְהָיָה כָעָם כַּכֹּהֵן.** לֹא כִּשְׁאָר הוֹלְכֵי דְרָכִים, שֶׁהָאָדוֹן מוֹלִיכוֹ עַבְדּוֹ וְהַגְּבִירָה מוֹלִיכָה שִׁפְחָתָהּ, הָאָדוֹן נִכְבָּד וְהָעֶבֶד נִקְלֶה, הַגְּבִירָה נִכְבֶּדֶת וְהַשִּׁפְחָה נִקְלֵית, אֲבָל כְּשֶׁהַשַּׁבַּאי מוֹלִיךְ הַשְּׁבוּיִים, הַכֹּל שָׁוִין לְפָנָיו:
+תוספת: **וְהָיָה כָעָם כַּכֹּהֵן.** לֹא כִּשְׁאָר הוֹלְכֵי דְרָכִים, שֶׁהָאָדוֹן מוֹלִיכוֹ עַבְדּוֹ וְהַגְּבִירָה מוֹלִיכָה שִׁפְחָתָהּ, הָאָדוֹן נִכְבָּד וְהָעֶבֶד נִקְלֶה, הַגְּבִירָה נִכְבֶּדֶת וְהַשִּׁפְחָה נִקְלֵית, אֲבָל כְּשֶׁהַשַּׁבַּאי מוֹלִיךְ הַשְּׁבוּיִים, הַכֹּל שָׁוִין לְפָנָיו:
 
 
 **(Addendum) And it shall be, as with the people, so with the priest** Not like other travelers, that the master is led by his slave, and the mistress is led by her maidservant; the master is esteemed and the slave is held in low esteem, the mistress is esteemed and the maidservant is held in low esteem, but when the captor leads the captives, all are equal before him. [Addendum to Rashi]
@@ -13277,7 +13277,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/24:2:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/24:2:2)
 
 
-**כַּקּוֹנֶה כַּמּוֹכֵר.** בִּזְמַן שֶׁהָעָם יוֹשֵׁב עַל נַחֲלָתוֹ לָבֶטַח, הַקּוֹנֶה שָׂמֵחַ וְהַמּוֹכֵר עָצֵב שֶׁלֹּא יָשׁוּב מִמְכָּרוֹ, אֲבָל כְּשֶׁהַשַּׁבַּאי מוֹלִיכָם, הַקּוֹנֶה אַל יִשְׂמַח וְהַמּוֹכֵר אַל יִתְאַבֵּל. וְכֵן כַּמַּלְוֶה כַּלֹּוֶה שְׁנֵיהֶם שָׁוִים, שֶׁהַלֹּוֶה אֵין לוֹ לִפְרוֹעַ, וְהַמַּלְוֶה אִם לֹא הִלְוָה לָזֶה הָיָה הַשַּׁבַּאי נוֹטְלוֹ כְּמוֹ כֵן. **כַּנֹּשֶׁה כַּאֲשֶׁר נוֹשֶׁה בּוֹ** – לוֹה נוֹפֵל בְּכֶסֶף, וְנוֹשֶׁה נוֹפֵל בְּכָל שְׁאָר דְּבָרִים, כְּגוֹן: יַיִן וְשֶׁמֶן וּתְבוּאָה וּדְבַשׁ, כְּדִכְתִיב (דברים כד:י): ״כִּי תַשֶּׁה בְרֵעֲךָ מַשַּׁאת מְאוּמָה״. עד כאן:
+**כַּקּוֹנֶה כַּמּוֹכֵר.** בִּזְמַן שֶׁהָעָם יוֹשֵׁב עַל נַחֲלָתוֹ לָבֶטַח, הַקּוֹנֶה שָׂמֵחַ וְהַמּוֹכֵר עָצֵב שֶׁלֹּא יָשׁוּב מִמְכָּרוֹ, אֲבָל כְּשֶׁהַשַּׁבַּאי מוֹלִיכָם, הַקּוֹנֶה אַל יִשְׂמַח וְהַמּוֹכֵר אַל יִתְאַבֵּל. וְכֵן כַּמַּלְוֶה כַּלֹּוֶה שְׁנֵיהֶם שָׁוִים, שֶׁהַלֹּוֶה אֵין לוֹ לִפְרוֹעַ, וְהַמַּלְוֶה אִם לֹא הִלְוָה לָזֶה הָיָה הַשַּׁבַּאי נוֹטְלוֹ כְּמוֹ כֵן. **כַּנֹּשֶׁה כַּאֲשֶׁר נוֹשֶׁה בּוֹ** – לוֶֹה נוֹפֵל בְּכֶסֶף, וְנוֹשֶׁה נוֹפֵל בְּכָל שְׁאָר דְּבָרִים, כְּגוֹן: יַיִן וְשֶׁמֶן וּתְבוּאָה וּדְבַשׁ, כְּדִכְתִיב (דברים כד:י): ״כִּי תַשֶּׁה בְרֵעֲךָ מַשַּׁאת מְאוּמָה״. עד כאן:
 
 
 **as with the buyer, so with the seller** When the people lives in its land securely, the buyer is happy and the seller is unhappy, since he will not return to the land he sold, but when the captor leads them, the buyer will not rejoice and the seller will not mourn, and so, as with the lender, so with the borrower, both are equal, for the borrower has nothing to pay, and the lender, had he not lent to this one, the captor would have taken it. Likewise, as with the creditor, so with the one who owes him. The word לֹֹוֶה applies to money and נֹשֶה applies to other commodities, such as wine, oil, grain, and honey, as it is written (Deut. 24:10): “When you lend your brother anything as a loan.” [Addendum to Rashi]
@@ -13552,7 +13552,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/24:15:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/24:15:1)
 
 
-**עַל כֵּן בָּאֻרִים.** תִּרְגֵּם יוֹנָתָן: ״בְּמֵיתֵי נְהוֹרָא לְצַדִּיקַיָּא״, עַל שְׁתֵּי (ספרים אחרים: מְאוֹרוֹת) שֶׁל גָּאוּלַת בָּבֶל וְשֶׁל אֱדוֹם. וּמְנַחֵם אָמַר (מחברת: אר) ׳אוּרִים׳ לְשׁוֹן ׳נְקִיעִים וּסְעִיפִים׳ שֶׁהָיוּ בּוֹרְחִים שָׁם, וְכֵן ״אוּר כַּשְׂדִּים״ (בראשית יא:כח) בִּקְעַת כַּשְׂדִּים, וְכֵן ״מְאוּרַת צִפְעוֹנִי״ (ישעיהו יא:ח) נֶקַע חוֹר מְעוֹנָתוֹ:
+**עַל כֵּן בָּאֻרִים.** תִּרְגֵּם יוֹנָתָן: ״בְּמֵיתֵי נְהוֹרָא לְצַדִּיקַיָּא״, עַל שְׁתֵּי בְּשׂוֹרוֹת (ספרים אחרים: מְאוֹרוֹת) שֶׁל גָּאוּלַת בָּבֶל וְשֶׁל אֱדוֹם. וּמְנַחֵם אָמַר (מחברת: אר) ׳אוּרִים׳ לְשׁוֹן ׳נְקִיעִים וּסְעִיפִים׳ שֶׁהָיוּ בּוֹרְחִים שָׁם, וְכֵן ״אוּר כַּשְׂדִּים״ (בראשית יא:כח) בִּקְעַת כַּשְׂדִּים, וְכֵן ״מְאוּרַת צִפְעוֹנִי״ (ישעיהו יא:ח) נֶקַע חוֹר מְעוֹנָתוֹ:
 
 
 **Therefore, for the lights** (בָּאֻרִים). Jonathan paraphrases: When lights come to the righteous, concerning the two good tidings, both that of the redemption from Babylon and that of Edom. ([Most manuscripts read:] Jonathan paraphrases: When lights come to the righteous, concerning the two lights, etc.) And Menachem stated (Machbereth, p. 32) that אֻרִים is an expression of holes and crevices where they were fleeing, and so (Gen. 11:28): “אוּר, the valley of the Chaldees,” and so (supra 11: 8): “And on the hole (מְאוּרַת) of an adder,” the hole of its dwelling.
@@ -13616,7 +13616,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/24:18:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/24:18:1)
 
 
-**הַנָּס (מפני) [מִקּוֹל] הַפַּחַד יִפֹּל אֶל הַפַּחַת וְגוֹ׳** – הַנִּמְלָט מֵחֶרֶב מָשִׁיחַ בֶּן יוֹסֵף יִפּוֹל אֶל חֶרֶב מָשִׁיחַ בֶּן דָּוִד, וְהַנִּמְלָט מִשָּׁם **יִלָּכֵד בַּפַּח** בְּמִלְחֶמֶת גּוֹג:
+**הַנָּס (מפני) [מִקּוֹל] הַפַּחַד יִפֹּל אֶל הַפַּחַת וְגוֹ׳** – הַנִּמְלָט מֵחֶרֶב מָשִׁיחַ בֶּן יוֹסֵף יִפּוֹל אֶל חֶרֶב מָשִׁיחַ בֶּן דָּוִד, וְהַנִּמְלָט מִשָּׁם **יִלָּכֵד בַּפָּח** בְּמִלְחֶמֶת גּוֹג:
 
 
 **he who flees from the sound of the fright shall fall into the pit. etc.** Whoever escapes the sword of the Messiah the son of Joseph shall fall into the sword of the Messiah the son of David, and whoever escapes from there shall be snared in the trap of the wars of Gog.
@@ -13786,7 +13786,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/25:4:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/25:4:1)
 
 
-**מַחְסֶה מִזֶּרֶם.** כִּסּוּי אֹהֶל לְהַצִּיל מִזֶּרֶם, וְ**צֵל** לְהָגֵן **מֵחֹרֶב**. וּמַהוּ אוֹתוֹ זֶרֶם? הוּא **רוּחַ עָרִיצִים**, כִּי רוּחָם דִּמָּה לְזֶרֶם הַשּׁוֹטֵף בְּקִיר וּמַפִּילוֹ:
+**מַחְסֶה מִזֶּרֶם.** כִּסּוּי אֹהֶל לְהַצִּיל מִזֶּרֶם, וְ**צֵל** לְהָגֵן **מֵחֹרֶב.** וּמַהוּ אוֹתוֹ זֶרֶם? הוּא **רוּחַ עָרִיצִים**, כִּי רוּחָם דִּמָּה לְזֶרֶם הַשּׁוֹטֵף בְּקִיר וּמַפִּילוֹ:
 
 
 **a shelter from pouring rain** a covering of a tent to save from pouring rain and a shade to protect from heat. Now, what is that pouring rain? A spirit of tyrants, for their spirit is like a stream that floods the wall and causes it to fall.
@@ -13994,7 +13994,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/25:11:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/25:11:1)
 
 
-**וּפֵרַשׂ יָדָיו.** וְשָׁבַר יָדוֹן וּזְרוֹעוֹתָיו בְּסִפּוּק כַּפַּיִם בִּבְכִי:
+**וּפֵרַשׂ יָדָיו.** וְשָׁבַר יָדָיו וּזְרוֹעוֹתָיו בְּסִפּוּק כַּפַּיִם בִּבְכִי:
 
 
 **And he shall spread out his hands** (וּפֵרַשׂ) He shall break his hands and his arms by clapping his hands in weeping.
@@ -14502,7 +14502,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/26:17:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/26:17:1)
 
 
-**כְּמוֹ הָרָה תַּקְרִיב לָלֶדֶת וְגוֹ׳ כֵּן הָיִינוּ מִפָּנֶיךָ**. רוֹאִים אָנוּ צָרוֹת מִתְחַדְּשׁוֹת וּסְבוּרִים אָנוּ שֶׁהֵם מִינֵי סִימָנֵי יְשׁוּעָה וּגְאֻלָּה, לְפִי שֶׁאָנוּ מֻבְטָחִים לִגָּאֵל מִתּוֹךְ צוּקָה וְצָרָה כְּיוֹלֵדָה זוֹ שֶׁהֵם מִינֵי סִימָנֵי יְשׁוּעָה וּגְאֻלָּה:
+**כְּמוֹ הָרָה תַּקְרִיב לָלֶדֶת וְגוֹ׳ כֵּן הָיִינוּ מִפָּנֶיךָ.** רוֹאִים אָנוּ צָרוֹת מִתְחַדְּשׁוֹת וּסְבוּרִים אָנוּ שֶׁהֵם מִינֵי סִימָנֵי יְשׁוּעָה וּגְאֻלָּה, לְפִי שֶׁאָנוּ מֻבְטָחִים לִגָּאֵל מִתּוֹךְ צוּקָה וְצָרָה כְּיוֹלֵדָה זוֹ שֶׁהֵם מִינֵי סִימָנֵי יְשׁוּעָה וּגְאֻלָּה:
 
 
 **As a pregnant woman comes near to give birth, etc.** So were we because of You; we see troubles being renewed, and we think that they are sorts of indications of salvation and redemption, for we are promised to be redeemed out of straits, as a woman giving birth.
@@ -14632,7 +14632,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/26:20:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/26:20:2)
 
 
-**וּסְגֹר דַּלְתָּךְ בַּעֲדֶךָ** תִּרְגֵּם יוֹנָתָן: ״עֲבִיד לָךְ עוֹבְדִין טָבִין דְּיָגִנּוּן עֲלָךְ״, וְרַבִּי תַּנְחוּמָא דָּרַשׁ: סְגוֹר דַּלְתֵי פִּיךָ, שֶׁלֹּא תְהַרְהֵר אַחַר מִדַּת הַדִּין:
+**וּסְגֹר דְּלָתְךָ בַּעֲדֶךָ** תִּרְגֵּם יוֹנָתָן: ״עֲבִיד לָךְ עוֹבְדִין טָבִין דְּיָגִנּוּן עֲלָךְ״, וְרַבִּי תַּנְחוּמָא דָּרַשׁ: סְגוֹר דַּלְתֵי פִּיךָ, שֶׁלֹּא תְהַרְהֵר אַחַר מִדַּת הַדִּין:
 
 
 **close your door about you** Jonathan renders: Do good deeds that will protect you. Rabbi Tanhuma, however, expounded: Close the doors of your mouth so as not to question the divine standard of justice.
@@ -14768,7 +14768,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/27:3:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/27:3:1)
 
 
-**אֲנִי יְהוָה נֹצְרָהּ.** בְּעֵת הַגָּלוּת:
+**אֲנִי ה׳ נֹצְרָהּ.** בְּעֵת הַגָּלוּת:
 
 
 **I, the Lord, guard it** in the time of exile.
@@ -14804,7 +14804,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/27:4:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/27:4:2)
 
 
-**מִי יִתְּנֵנִי שָׁמִיר שַׁיִת בַּמִּלְחָמָה.** בִּבְנֵי מִלְחַמְתִּי וְהוּא יִשְׁמָעֵאל, מִי יִתְּנֵנִי וְאוּכַל לִפְקוֹד עֲלֵיהֶם, וְלֹא תוּכַל מִדַּת הַדִּין לִמְחוֹת שֶׁיָּשׁוּבוּ יִשְׂרָאֵל בִּתְשׁוּבָה, וְהִיא נוֹתֶנֶת אוֹתִי שָׁמִיר וָשַׁיִת בִּבְנֵי מִלְחָמָה. אֶפְסַע פְּסִיעָה עַל מִדַּת הַדִּין וְאֶפְקוֹד עֲלֵיהֶם אַף יִתְרוֹן וְנוֹסָפוֹת עַל עֲוֹנָם, וַאֲצִיתֵם **יָחַד**. כֵּן תִּרְגֵּם יוֹנָתָן עַל הָאֻמּוֹת, וְרַבּוֹתֵינוּ זִכְרוֹנָם לִבְרָכָה פֵּרְשׁוּ (עבודה זרה ד א) עַל יִשְׂרָאֵל, וְהוּא מוּסָב עַל הַכֶּרֶם. **חֵמָה אֵין לִי.** בְּכָל הַכְּעָסִים שֶׁהִכְעִיסָנִי הַכֶּרֶם הַזֹּאת, לֹא אוּכַל לִשְׁפּוֹךְ חֲמָתִי לְבַעֲרָהּ מִפְּנֵי הַשְּׁבוּעָה שֶׁנִּשְׁבַּעְתִּי לַאֲבוֹתֵיהֶם. מִי יִתְּנֵנִי כְּיָמִים שֶׁעָבְרוּ, לוּלֵי הַשְּׁבוּעָה הָיִיתִי שָׁמִיר וָשַׁיִת וּפוֹשֵׁעַ בַּכֶּרֶם וַאֲצִיתֶנָּה יָחַד:
+**מִי יִתְּנֵנִי שָׁמִיר שַׁיִת בַּמִּלְחָמָה.** בִּבְנֵי מִלְחַמְתִּי וְהוּא יִשְׁמָעֵאל, מִי יִתְּנֵנִי וְאוּכַל לִפְקוֹד עֲלֵיהֶם, וְלֹא תוּכַל מִדַּת הַדִּין לִמְחוֹת שֶׁיָּשׁוּבוּ יִשְׂרָאֵל בִּתְשׁוּבָה, וְהִיא נוֹתֶנֶת אוֹתִי שָׁמִיר וָשַׁיִת בִּבְנֵי מִלְחָמָה. אֶפְסַע פְּסִיעָה עַל מִדַּת הַדִּין וְאֶפְקוֹד עֲלֵיהֶם אַף יִתְרוֹן וְנוֹסָפוֹת עַל עֲוֹנָם, וַאֲצִיתֵם **יָחַד.** כֵּן תִּרְגֵּם יוֹנָתָן עַל הָאֻמּוֹת, וְרַבּוֹתֵינוּ זִכְרוֹנָם לִבְרָכָה פֵּרְשׁוּ (עבודה זרה ד א) עַל יִשְׂרָאֵל, וְהוּא מוּסָב עַל הַכֶּרֶם. **חֵמָה אֵין לִי.** בְּכָל הַכְּעָסִים שֶׁהִכְעִיסָנִי הַכֶּרֶם הַזֹּאת, לֹא אוּכַל לִשְׁפּוֹךְ חֲמָתִי לְבַעֲרָהּ מִפְּנֵי הַשְּׁבוּעָה שֶׁנִּשְׁבַּעְתִּי לַאֲבוֹתֵיהֶם. מִי יִתְּנֵנִי כְּיָמִים שֶׁעָבְרוּ, לוּלֵי הַשְּׁבוּעָה הָיִיתִי שָׁמִיר וָשַׁיִת וּפוֹשֵׁעַ בַּכֶּרֶם וַאֲצִיתֶנָּה יָחַד:
 
 
 **would that I were thorns and briers against [the objects of My] war** Against those with whom I wage war, namely Ishmael (ms. Esau). Would that I could visit upon them and the standard of justice would not be able to protest, i.e., that Israel would repent, and that would give Me thorns and briers against the enemies! I would tread upon the standard of justice and I would visit upon them even more and additional punishment over their iniquity, and I would ignite them together. Jonathan rendered it in this manner, as referring to the nations. Our Sages of blessed memory explained it concerning Israel, and it refers back to the vineyard, as follows: **I have no wrath** Despite all the angers with which this vineyard has provoked Me, I cannot pour out My wrath to destroy it because of the oath I swore to their forefathers. If only it were like days long past! Were it not for the oath, I would be thorns and briers and I would tread upon the vineyard, and I would ignite it together.
@@ -14929,7 +14929,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/27:9:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/27:9:1)
 
 
-**לָכֵן.** גַּם עַתָּה **בְּזֹאת** הָיָה מִתְכַּפֵּר **עֲוֹן יַעֲקֹב** לִזְכּוֹת לְהִגָּאֵל כְּמֵאָז:
+**לָכֵן.** גַּם עַתָּה **בְּזֹאת** הָיָה מִתְכַּפֵּר **עֲוֺן יַעֲקֹב** לִזְכּוֹת לְהִגָּאֵל כְּמֵאָז:
 
 
 **Therefore** Now, too, with this, Jacob’s iniquity would be atoned for, to merit to be redeemed as then.
@@ -15170,7 +15170,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/28:2:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/28:2:1)
 
 
-**הִנֵּה** יֵשׁ רוּחַ **חָזָק וְאַמִּץ לַה׳**, שֶׁהוּא **כְּזֶרֶם בָּרָד** וְ**שַׂעַר קֶטֶב** מְרִירִי:
+**הִנֵּה** יֵשׁ רוּחַ **חָזָק וְאַמִּץ לַה׳**, שֶׁהוּא **כְּזֶרֶם בָּרָד** וְ**שַׂעַר קָטֶב** מְרִירִי:
 
 
 **Behold** The Lord has a strong and powerful wind, which is like a downpour of hail and a storm of קֶטֶב מְרִירִי, bitter destruction.
@@ -15514,7 +15514,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/28:15:3](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/28:15:3)
 
 
-**שִׁיט שׁוֹטֵף.** מַכָּה הַמִּתְהַלֶּכֶת בָּאָרֶץ:
+**שׁוֹט שׁוֹטֵף.** מַכָּה הַמִּתְהַלֶּכֶת בָּאָרֶץ:
 
 
 **an overflowing scourge** a scourge that travels throughout the land.
@@ -15572,7 +15572,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/28:16:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/28:16:1)
 
 
-**הִנְנִי יִסַּד** לְשׁוֹן עָבָר הוּא, כְּמוֹ (אסתר א:ח) ״יִסַּד הַמֶּלֶךְ״, וְכֵן צָרִיךְ לְפוֹתְרוֹ: הִנְנִי הוּא אֲשֶׁר יִסַּד כְּבָר. (**בְּצִיּוֹן אֶבֶן** כְּבָר) נִגְזְרָה הַגְּזֵרָה לְפָנַי, וְהֶעֱמַדְתִּי מֶלֶךְ מָשִׁיחַ, שֶׁיְּהֵא בְּצִיּוֹן לְ**אֶבֶן בֹּחַן**, לְשׁוֹן מִבְצָר וְחֹזֶק, כְּמוֹ (ישעיהו לב:יד) ״עֹפֶל וָבַחַן״, וּכְמוֹ ״הֵקִימוּ בְחוּנָיו״ (ישעיהו כג:יג):
+**הִנְנִי יִסַּד** לְשׁוֹן עָבָר הוּא, כְּמוֹ (אסתר א:ח) ״יִסַּד הַמֶּלֶךְ״, וְכֵן צָרִיךְ לְפוֹתְרוֹ: הִנְנִי הוּא אֲשֶׁר יִסַּד כְּבָר בְּצִיּוֹן אֶבֶן, כְּבָר נִגְזְרָה הַגְּזֵרָה לְפָנַי, וְהֶעֱמַדְתִּי מֶלֶךְ מָשִׁיחַ, שֶׁיְּהֵא בְּצִיּוֹן לְ**אֶבֶן בֹּחַן**, לְשׁוֹן מִבְצָר וְחֹזֶק, כְּמוֹ (ישעיהו לב:יד) ״עֹפֶל וָבַחַן״, וּכְמוֹ ״הֵקִימוּ בְחוּנָיו״ (ישעיהו כג:יג):
 
 
 **Behold, I have laid a foundation** This is the past tense. Comp. (Esther 1:8) “For so had the king established (יִסַּד).” And so must it be interpreted: Behold, I am He Who has already laid [a stone in Zion. Already] a decree has been decreed before Me, and I have set up the King Messiah, who shall be in Zion as an אֶבֶן בּוֹחֵן, a fortress stone, an expression of a fortress and strength. Comp. (infra 32:14) “A tower and a fortress (וּבֹחֵן).” Comp. also (supra 23:13) “They erected its towers (בַּחוּנָיו).”
@@ -15644,7 +15644,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/28:18:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/28:18:1)
 
 
-**וְכֻפַּר בְּרִיתְכֶם אֶת מָוֶת.** וְיִתְבַּטֵּל הַבְּרִית אֲשֶׁר אֲמַרְתֶּם **כָּרַתְנוּ בְרִית אֶת מָוֶת**. כָּל ׳כַּפָּרָה׳ לְשׁוֹן ׳קִנּוּחַ׳ וְ׳סִלּוּק דָּבָר׳, וְכֵן ״אֲכַפְּרָה פָנָיו״ (בראשית לב:כא):
+**וְכֻפַּר בְּרִיתְכֶם אֶת מָוֶת.** וְיִתְבַּטֵּל הַבְּרִית אֲשֶׁר אֲמַרְתֶּם **כָּרַתְנוּ בְרִית אֶת מָוֶת.** כָּל ׳כַּפָּרָה׳ לְשׁוֹן ׳קִנּוּחַ׳ וְ׳סִלּוּק דָּבָר׳, וְכֵן ״אֲכַפְּרָה פָנָיו״ (בראשית לב:כא):
 
 
 **And your treaty with death shall be nullified** The treaty about which you said, “We have made a treaty with death,” shall be nullified. Every expression of כַּפָּרָה, atonement, is really an expression of wiping or removing something. Compare (Gen. 32:21): “I shall appease (אֲכַפְּרָה) his anger,” (lit., I will wipe away his anger.)
@@ -15824,7 +15824,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/28:24:3](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/28:24:3)
 
 
-**יִפְתַּח וִישַׂדֵּד אַדְמָתוֹ.** וְכִי לְעוֹלָם לֹא יִזְרַע, אֶלָּא תָּמִיד יִפְתַּח אֶת הָאֲדָמָה בְּאִתִּים וּבִכְלֵי מַחֲרֵשָׁה? **וִישַׂדֵּד** לְשׁוֹן עֲבוֹדַת שָׂדֶה. **יִפְתַּח וִישַׂדֵּד** – בִּתְחִלָּה הוּא עוֹשֶׂה תְּלָמִים רְחָבִים וְסוֹף הוּא עוֹשֶׂה תְּלָמִים קְטַנִּים בְּמִדְרַשׁ רַבִּי תַּנְחוּמָא:
+**יְפַתַּח וִישַׂדֵּד אַדְמָתוֹ.** וְכִי לְעוֹלָם לֹא יִזְרַע, אֶלָּא תָּמִיד יִפְתַּח אֶת הָאֲדָמָה בְּאִתִּים וּבִכְלֵי מַחֲרֵשָׁה? **וִישַׂדֵּד** לְשׁוֹן עֲבוֹדַת שָׂדֶה. **יְפַתַּח וִישַׂדֵּד** – בִּתְחִלָּה הוּא עוֹשֶׂה תְּלָמִים רְחָבִים וְסוֹף הוּא עוֹשֶׂה תְּלָמִים קְטַנִּים בְּמִדְרַשׁ רַבִּי תַּנְחוּמָא:
 
 
 **Shall he open and harrow his soil?** Shall he never sow but always open the soil with plowshares and plowing implements? יְשַׂדֵּד is an expression of work of the field. Shall he open and harrow? First he makes wide furrows and later he makes small furrows. This we learned in the Midrash of Rabbi Tanhuma.
@@ -16260,7 +16260,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/29:11:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/29:11:1)
 
 
-**חֲזוּת הַכֹּל.** כָּל מַה שֶׁהֱיִיתֶם חוֹזִים בַּמַּזָּלוֹת, יִהְיֶה מְכֻסֶּה מִכֶּם כְּדִבְרֵי אִגֶּרֶת הַחֲתוּמָה בְּשַׁעֲוָה, אֲשֶׁר יִתְּנוּהָ לִקְרוֹתָהּ לְיוֹדֵעַ לִקְרוֹת אִגֶּרֶת, **וְאָמַר: ״לֹא אוּכַל״**, שֶׁהֲרֵי אֵין אֲנִי רוֹאֶה בְּתוֹכָהּ לְפִי שֶׁהִיא חֲתוּמָה:
+**חָזוּת הַכֹּל.** כָּל מַה שֶׁהֱיִיתֶם חוֹזִים בַּמַּזָּלוֹת, יִהְיֶה מְכֻסֶּה מִכֶּם כְּדִבְרֵי אִגֶּרֶת הַחֲתוּמָה בְּשַׁעֲוָה, אֲשֶׁר יִתְּנוּהָ לִקְרוֹתָהּ לְיוֹדֵעַ לִקְרוֹת אִגֶּרֶת, **וְאָמַר: ״לֹא אוּכַל״**, שֶׁהֲרֵי אֵין אֲנִי רוֹאֶה בְּתוֹכָהּ לְפִי שֶׁהִיא חֲתוּמָה:
 
 
 **the vision of everything** All that you used to see in the constellations shall be concealed from you like the words of a letter sealed with wax, which, if they give to read one able to read a letter, he will say, “I cannot, for I see not what is inside, for it is sealed.”
@@ -16274,7 +16274,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/29:12:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/29:12:1)
 
 
-**וְנִתַּן הַסֵּפֶר עַל אֲשֶׁר לֹא יָדַע סֵפֶר.** וּכְשֶׁנּוֹטְלִין מִמֶּנּוּ וּפוֹתְחִין חוֹתָמָהּ וְנוֹתְנִין אוֹתָהּ לְמִי שֶׁאֵינוֹ מַכִּיר לְשׁוֹן אִגֶּרֶת, וְאוֹמְרִין לוֹ **״קְרָא נָא זֶה״, וְאָמַר ״לֹא יָדַעְתִּי סֵפֶר״**. כָּךְ כְּשֶׁתַּשְׁבִּיעַ שַׂר הָאֵשׁ יֹאמַר **״לֹא אוּכַל כִּי חָתוּם** הַדָּבָר מִמֶּנִּי״, וּכְשֶׁתַּשְׁבִּיעַ אֶת חֲבֵירוֹ יֹאמַר ״אֵינִי מַכִּיר אֶת הַשֵּׁם הַזֶּה שֶׁאַתָּה מַשְׁבִּיעֵנִי בּוֹ, שֶׁאֵין זֶה שְׁמִי״. וְזֶהוּ שֶׁאָמַר יִרְמְיָה ״הִנְנִי מֵסֵב אֶת כְּלֵי הַמִּלְחָמָה אֲשֶׁר בְּיֶדְכֶם״ (ירמיהו כא:ד), זֶה הַשֵּׁם הַמְפֹרָשׁ. בְּמִדְרַשׁ תְּהִלִּים (מדרש תהלים לו ה):
+**וְנִתַּן הַסֵּפֶר עַל אֲשֶׁר לֹא יָדַע סֵפֶר.** וּכְשֶׁנּוֹטְלִין מִמֶּנּוּ וּפוֹתְחִין חוֹתָמָהּ וְנוֹתְנִין אוֹתָהּ לְמִי שֶׁאֵינוֹ מַכִּיר לְשׁוֹן אִגֶּרֶת, וְאוֹמְרִין לוֹ **״קְרָא נָא זֶה״, וְאָמַר ״לֹא יָדַעְתִּי סֵפֶר״.** כָּךְ כְּשֶׁתַּשְׁבִּיעַ שַׂר הָאֵשׁ יֹאמַר **״לֹא אוּכַל כִּי חָתוּם** הַדָּבָר מִמֶּנִּי״, וּכְשֶׁתַּשְׁבִּיעַ אֶת חֲבֵירוֹ יֹאמַר ״אֵינִי מַכִּיר אֶת הַשֵּׁם הַזֶּה שֶׁאַתָּה מַשְׁבִּיעֵנִי בּוֹ, שֶׁאֵין זֶה שְׁמִי״. וְזֶהוּ שֶׁאָמַר יִרְמְיָה ״הִנְנִי מֵסֵב אֶת כְּלֵי הַמִּלְחָמָה אֲשֶׁר בְּיֶדְכֶם״ (ירמיהו כא:ד), זֶה הַשֵּׁם הַמְפֹרָשׁ. בְּמִדְרַשׁ תְּהִלִּים (מדרש תהלים לו ה):
 
 
 **And if the book is given** And when they take it from him and open its seal and give it to one who does not understand the language of the letter, and they say to him, “now read this,” he will say, “I cannot read.” Similarly, when you adjure the prince of fire, he will say, “I cannot, for the matter is sealed from me,” and when you adjure his colleague, he will say, “I do not recognize this name, by which you adjure me, for this is not my name.” This is what Jeremiah said (Jer. 21:4): “Behold I will turn around my implements of war that are in your hands.” This refers to the Explicit Name. In Midrash Tehillim (36:5).
@@ -16341,7 +16341,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/29:16:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/29:16:1)
 
 
-**הַפְכְּכֶם אִם כְּחֹמֶר הַיֹּצֵר יֵחָשֵׁב.** תַּהְפּוּכוֹת שֶׁלָּכֶם, הֲזֹאת אַתֶּם יוֹדְעִים שֶׁהוּא **כְּחֹמֶר הַיֹּצֵר**? שֶׁאֵין הַחֹמֶר יָכוֹל לוֹמַר **לְעֹשֵׂהוּ לֹא עֲשָׂנִי**, כָּךְ אֵינְכֶם יְכוֹלִין לוֹמַר שֶׁאֵינִי מֵבִין מַעֲשֵׂיכֶם:
+**הַפְכְּכֶם אִם כְּחֹמֶר הַיֹּצֵר יֵחָשֵׁב.** תַּהְפּוּכוֹת שֶׁלָּכֶם, הֲזֹאת אַתֶּם יוֹדְעִים שֶׁהוּא **כְּחֹמֶר הַיֹּצֵר**? שֶׁאֵין הַחֹמֶר יָכוֹל לוֹמַר **לְעֹשֵׂהוּ לֹא עָשָׂנִי**, כָּךְ אֵינְכֶם יְכוֹלִין לוֹמַר שֶׁאֵינִי מֵבִין מַעֲשֵׂיכֶם:
 
 
 **Shall your perversion be regarded like the potter’s clay** (Heb. הָפְכְּכֶם) Your perversions. Do you know this, that it is like the potter’s clay? Just as the clay cannot say of its maker, “He did not make me,” so you cannot say that I do not understand your deeds.
@@ -17104,7 +17104,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/30:19:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/30:19:1)
 
 
-**כִּי.** עוֹד יָמִים בָּאִים אֲשֶׁר יִשָּׁאֵר לִהְיוֹת יוֹשֵׁב **בְּצִיּוֹן** וּ**בִירוּשָׁלִַם**, צַדִּיק יִהְיֶה:
+**כִּי.** עוֹד יָמִים בָּאִים אֲשֶׁר יִשָּׁאֵר לִהְיוֹת יוֹשֵׁב **בְּצִיּוֹן** וּ**בִירוּשָׁלָ͏ִם**, צַדִּיק יִהְיֶה:
 
 
 **For** days will yet come that he who remains to be dwelling in Zion and in Jerusalem, will be righteous. ([Manuscripts read:] For days will yet come and a righteous nation will dwell in Zion and in Jerusalem.) ([Other manuscripts read:] For the nation that He shall leave to be dwelling in Zion and in Jerusalem, shall be righteous people.)
@@ -17334,7 +17334,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/30:26:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/30:26:1)
 
 
-**שִׁבְעָתַיִם כְּאוֹר שִׁבְעַת הַיָּמִים. שִׁבְעָתַיִם** – שֶׁבַע שְׁבִיעִיּוֹת כְּאוֹר שֶׁל שִׁבְעַת הַיָּמִים, הֲרֵי אַרְבָּעִים וְתֵשַׁע שְׁבִיעִיּוֹת, הָעוֹלִים לִשְׁלֹשׁ מֵאוֹת וְאַרְבָּעִים וּשְׁלֹשָׁה (רש"י פסחים סח א):
+**שִׁבְעָתַיִם כְּאוֹר שִׁבְעַת הַיָּמִים. שִׁבְעָתַיִם** – שֶׁבַע שְׁבִיעִיּוֹת כְּאוֹר שֶׁל שִׁבְעַת הַיָּמִים, הֲרֵי אַרְבָּעִים וְתֵשַׁע שְׁבִיעִיּוֹת, הָעוֹלִים לִשְׁלֹשׁ מֵאוֹת וְאַרְבָּעִים וּשְׁלֹשָׁה (רש״י פסחים סח א):
 
 
 **sevenfold** (שִׁבְעָתַיִּם.) This means seven sevens as the light of the seven days, i.e., forty nine sevens, equaling three hundred forty-three.
@@ -17467,7 +17467,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/30:30:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/30:30:1)
 
 
-**וְנַחַת זְרוֹעוֹ.** אֵין זֶה לְשׁוֹן ׳נוֹחַ׳, אֶלָּא לְשׁוֹן ׳נוֹחַת׳, פושלמנ״ט בלע״ז, כְּמוֹ: ״וַיָּנַח בְּכָל גְּבוּל מִצְרָיִם״ (שמות י:יד). הַנָּחַת גְּבוּרָתוֹ **ירְאֶה** בְּ**לַהַב אֵשׁ**, שֶׁנִּשְׂרְפוּ אֻכְלוּסֵי סַנְחֵרִיב:
+**וְנַחַת זְרוֹעוֹ.** אֵין זֶה לְשׁוֹן ׳נוֹחַ׳, אֶלָּא לְשׁוֹן ׳נוֹחַת׳, פושלמנ״ט בלע״ז, כְּמוֹ: ״וַיָּנַח בְּכָל גְּבוּל מִצְרָיִם״ (שמות י:יד). הַנָּחַת גְּבוּרָתוֹ **יַרְאֶה** בְּ**לַהַב אֵשׁ**, שֶׁנִּשְׂרְפוּ אֻכְלוּסֵי סַנְחֵרִיב:
 
 
 **and the laying down of His arm** This is not an expression of resting but an expression of placing, posement in O.F. Comp. (Exod. 10:14) “And placed it (וַיָּנַח) throughout the entire boundary of Egypt.” The placing of His might He will show in a flame by which the armies of Sennacherib were burnt.
@@ -17633,7 +17633,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/31:1:3](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/31:1:3)
 
 
-**יִשָּׁעֵנוּ.** (כְּמוֹ **״וְלֹא שָׁעוּ** אֶל **קְדוֹשׁ יִשְׂרָאֵל״**), כְּמוֹ שֶׁעָשָׂה חִזְקִיָּה, שֶׁנֶּאֱמַר (מלכים ב יח:ה-ז): ״בַּה׳ אֱלֹהֵי יִשְׂרָאֵל בָּטָח... וַיִּמְרֹד בְּמֶלֶךְ אַשּׁוּר״:
+**יִשָּׁעֵנוּ.** (כְּמוֹ **״וְלֹא שָׁעוּ** אֶל **קְדוֹשׁ יִשְׂרָאֵל״**), כְּמוֹ שֶׁעָשָׂה חִזְקִיָּה, שֶׁנֶּאֱמַר (מלכים ב יח:ה-ז): ״בַּה׳ אֱלֹהֵי יִשְׂרָאֵל בָּטָח… וַיִּמְרֹד בְּמֶלֶךְ אַשּׁוּר״:
 
 
 **rely** (יִשָּׁעֵנוּ) and they did not rely on the Holy One of Israel as Hezekiah did, concerning whom it is written: (II Kings 18:5,7): “He trusted in the Lord God of Israel...and he rebelled against the king of Assyria.”
@@ -18002,7 +18002,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/32:6:4](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/32:6:4)
 
 
-**וּמַשְׁקֵה צָמֵא יַחְסִיר.** לְפִי פְּשׁוּטוֹ, שֶׁגּוֹזְלִין הָעֲנִיִּים. וְתַרְגּוּמוֹ: ״פִּתְגָמֵי אוֹרַיְיתָא דְּאִינּוּן כְּמַיָּא לְצָחְיָא מְדַמָּן לְבַטָּלָא״:
+**וּמַשְׁקֶה צָמֵא יַחְסִיר.** לְפִי פְּשׁוּטוֹ, שֶׁגּוֹזְלִין הָעֲנִיִּים. וְתַרְגּוּמוֹ: ״פִּתְגָמֵי אוֹרַיְיתָא דְּאִינּוּן כְּמַיָּא לְצָחְיָא מְדַמָּן לְבַטָּלָא״:
 
 
 **and the drink of the thirsty he causes to fail** According to the simple meaning, they rob the poor. The Targum, (however, paraphrases:) The words of the Torah, which are like water to the thirsty, they plan to nullify.
@@ -18180,7 +18180,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/32:14:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/32:14:1)
 
 
-**כִּי אַרְמוֹן.** הֵיכַל הַמֶּלֶךְ מֶלֶךְ יְהוּדָה **נֻטַּשׁ**:
+**כִּי אַרְמוֹן.** הֵיכַל הַמֶּלֶךְ מֶלֶךְ יְהוּדָה **נֻטָּשׁ**:
 
 
 **For the palace** The king’s palace has been forsaken.
@@ -18385,7 +18385,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/33:1:4](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/33:1:4)
 
 
-**כַּנְּלֹתְךָ.** לְשׁוֹן ׳כַּכְּלוֹתְךָ׳, ״וְלֹא יִטֶּה לָאָרֶץ מִנְּלָם״ (שמואל ב יד:יד) – כִּלָּיוֹן הַנִּגְזָר עֲלֵיהֶם לֹא יִטֶּה לָאָרֶץ לִהְיוֹת בָּטֵל וְהוֹלֵךְ, אֶלָּא הוֹלֵךְ וְחָזָק:
+**כַּנְּלֹתְךָ.** לְשׁוֹן ׳כַּכְּלוֹתְךָ׳, ״וְלֹא יִטֶּה לָאָרֶץ מִנְּלָם״ (איוב טו:כט) – כִּלָּיוֹן הַנִּגְזָר עֲלֵיהֶם לֹא יִטֶּה לָאָרֶץ לִהְיוֹת בָּטֵל וְהוֹלֵךְ, אֶלָּא הוֹלֵךְ וְחָזָק:
 
 
 כַּנְּלֹתְךָ is an expression of ‘when you finish.’ “And מִנְלָם shall not fall to the earth,” the destruction decreed upon them shall not fall to the earth to become progressively void, but will become progressively stronger.
@@ -18488,7 +18488,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/33:6:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/33:6:1)
 
 
-**וְהָיָה אֱמוּנַת עִתֶּיךָ וגו׳.** וְהָיָה לְ**חֹסֶן יְשׁוּעוֹת** וּלְחָכְמָה **וָדַעַת** אֶת אֲשֶׁר תַּאֲמִין לְבוֹרְאָךְ עִתִּים שֶׁקָּבַע לָךְ לִתְרוּמוֹת וּלְמַעַשְׂרוֹת בְּעֵת הַפְרָשָׁתָן, לְלֶקֶט שִׁכְחָה וּפֵאָה בְּעִתָּם, לְקַיֵּם שְׁמִטִּין וְיוֹבְלוֹת בְּעִתָּם. דָּבָר אַחֵר **אֱמוּנַת עִתֶּךָ,** אֶת שֶׁהֶאֱמַנְתָּ בְּהַקָּדוֹשׁ בָּרוּךְ הוּא בְּעִתִּים שֶׁעָבְרוּ עָלֶיךָ וְצִפִּיתָ לִישׁוּעָה תִּהְיֶה לְךָ לְ**חֹסֶן**:
+**וְהָיָה אֱמוּנַת עִתֶּיךָ וגו׳.** וְהָיָה לְ**חֹסֶן יְשׁוּעוֹת** וּלְחָכְמָה **וָדָעַת** אֶת אֲשֶׁר תַּאֲמִין לְבוֹרְאָךְ עִתִּים שֶׁקָּבַע לָךְ לִתְרוּמוֹת וּלְמַעַשְׂרוֹת בְּעֵת הַפְרָשָׁתָן, לְלֶקֶט שִׁכְחָה וּפֵאָה בְּעִתָּם, לְקַיֵּם שְׁמִטִּין וְיוֹבְלוֹת בְּעִתָּם. דָּבָר אַחֵר **אֱמוּנַת עִתֶּךָ,** אֶת שֶׁהֶאֱמַנְתָּ בְּהַקָּדוֹשׁ בָּרוּךְ הוּא בְּעִתִּים שֶׁעָבְרוּ עָלֶיךָ וְצִפִּיתָ לִישׁוּעָה תִּהְיֶה לְךָ לְ**חֹסֶן**:
 
 
 **And the faith of your times, etc.** And it shall be for you for strength of salvations and for wisdom and knowledge, that you will be faithful to your Creator concerning the times that He set for you for terumoth and tithes at the time of their separation, for gleanings, forgotten sheaves, and the corner of the field in their time, to leave them over for the poor, to keep release years and jubilee years in their time. Another explanation is: **faith of your times** What you believed in the Holy One, blessed be He, in times that passed over you, and you hoped for salvation, shall become your strength.
@@ -18807,7 +18807,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/33:17:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/33:17:1)
 
 
-**מֶלֶךְ בְּיָפְיוֹ תֶּחֱזֶינָה עֵינֶיךָ.** פֵּרוּשׁ: תִּזְכֶּה לִרְאוֹת מֵ**אֶרֶץ מֶרְחַקִּים** מַלְכְּךָ בַּהֲדַר גְּאוֹנוֹ, אוֹ פֵּרוּשׁ: (הַקָּדוֹשׁ בָּרוּךְ הוּא שֶׁהוּא מֶלֶךְ, אוֹתוֹ תֶּחֱזֶה מֵ**אֶרֶץ מֶרְחַקִּים** שֶׁאַתָּה עוֹמֵד, תִּרְאֶה הַנִּסִּים וְהַגְּדֻלָּה שֶׁאֶעֱשֶׂה לְךָ, וְ**עַם נוֹעָז עִמְקֵי שָׂפָה** לֹא יִרְאֶה שְׁכִינַת הַמֶּלֶךְ בְּיָפְיוֹ עד כאן, כל זה בסא"א):
+**מֶלֶךְ בְּיָפְיוֹ תֶּחֱזֶינָה עֵינֶיךָ.** פֵּרוּשׁ: תִּזְכֶּה לִרְאוֹת מֵ**אֶרֶץ מֶרְחַקִּים** מַלְכְּךָ בַּהֲדַר גְּאוֹנוֹ, אוֹ פֵּרוּשׁ: (הַקָּדוֹשׁ בָּרוּךְ הוּא שֶׁהוּא מֶלֶךְ, אוֹתוֹ תֶּחֱזֶה מֵ**אֶרֶץ מֶרְחַקִּים** שֶׁאַתָּה עוֹמֵד, תִּרְאֶה הַנִּסִּים וְהַגְּדֻלָּה שֶׁאֶעֱשֶׂה לְךָ, וְ**עַם נוֹעָז עִמְקֵי שָׂפָה** לֹא יִרְאֶה שְׁכִינַת הַמֶּלֶךְ בְּיָפְיוֹ עד כאן, כל זה בסא״א):
 
 
 **The King in His beauty shall your eyes behold** (The Holy One, blessed be He, Who is a King, Him you shall see from a distant land where you are standing. You shall see the miracles and the greatness that I will perform for you, and a people of a strange tongue, of obscure speech, shall not see the Shechinah of the King in His beauty. [This does not appear in many editions.])
@@ -19092,7 +19092,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/33:24:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/33:24:2)
 
 
-**חָלִיתִי.** בִּשְׁבִיל הָאֻמָּה הַזֹּאת בָּאַתְנִי הָרָעָה, כִּי **הָעָם.** יִשְׂרָאֵל שֶׁנִּקְרְאוּ עָם, **הַיּוֹשֵׁב** בִּירוּשָׁלַיִם יִהְיֶה סְלוּחַ **עָוֹן**:
+**חָלִיתִי.** בִּשְׁבִיל הָאֻמָּה הַזֹּאת בָּאַתְנִי הָרָעָה, כִּי **הָעָם.** יִשְׂרָאֵל שֶׁנִּקְרְאוּ עָם, **הַיּוֹשֵׁב** בִּירוּשָׁלַיִם יִהְיֶה סְלוּחַ **עָוֺן**:
 
 
 **“I am sick”** Because of this nation, this misfortune has befallen me, for **The people** Israel, who is called a people, that dwells in Jerusalem, shall be forgiven of sin.
@@ -19142,7 +19142,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/34:4:4](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/34:4:4)
 
 
-**וְכְנֹבֶלֶת מִתְּאֵנָה.** ׳כְּמֵשָׁה׳ בָּאִילָן קְרוּיָה ׳נוֹבֶלֶת׳, וְזֶהוּ שֶׁפֵּרְשׁוּ רַבּוֹתֵינוּ (ברכות מ ב): מַאי נוֹבְלוֹת? בּוֹשְׁלֵי כּוֹמְרָא, שֶׁנִּתְבַּשְּׁלוּ בַּכֹּמֶר; לְאַחַר לְקִיטָתָן צוֹבְרָן, וּמִתְחַמְּמוֹת וּמִתְבַּשְּׁלוֹת:
+**וּכְנֹבֶלֶת מִתְּאֵנָה.** ׳כְּמֵשָׁה׳ בָּאִילָן קְרוּיָה ׳נוֹבֶלֶת׳, וְזֶהוּ שֶׁפֵּרְשׁוּ רַבּוֹתֵינוּ (ברכות מ ב): מַאי נוֹבְלוֹת? בּוֹשְׁלֵי כּוֹמְרָא, שֶׁנִּתְבַּשְּׁלוּ בַּכֹּמֶר; לְאַחַר לְקִיטָתָן צוֹבְרָן, וּמִתְחַמְּמוֹת וּמִתְבַּשְּׁלוֹת:
 
 
 **and as a withered [fig] from a fig tree** The withered fruit of a tree is called נוֹבְלוֹת. This is what our Rabbis (Ber. 40b) explained: What are ‘noveloth’? Fruit ripened in the heater, that become ripe in the heater. After they are picked, he gathers them and they become heated and ripen.
@@ -19622,7 +19622,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/35:3:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/35:3:1)
 
 
-**חַזְּקוּ יָדַיִם רָפוֹת.** כָּל הַנְּבִיאִים, מְבַשְּׂרֵי יְשׁוּעָה, נִחֲמוּ אֶת יִשְׂרָאֵל וְחִזְּקוּ אֶת יְדֵיהֶם הָרָפוֹת. **חַזְּקוּ** לְשׁוֹן מִשְׁקָל כָּבֵד, וּפִתְרוֹנוֹ: חַזְּקוּ אֶת אֲחֵרִים. וְאִם הָיָה בָּא לוֹמַר חִזְקוּ אַתֶּם שֶׁיֶּדְכֶם רָפוֹת, הָיָה לִנָּקֵד ״חִזְקוּ וְאִמְצוּ״ (דברי הימים ב לב:ז). עַכְשָׁיו שֶׁאוֹמֵר לָהֶם לְחַזֵּק וּלְאַמֵּץ אֲחֵרִים, נָקוּד ׳חַזְּקוּ׳ ׳**אַמְּצוּ**׳. **חִזְקוּ אַל תִּירָאוּ** זֶה נָקוּד ׳חִזְקוּ׳ לְשׁוֹן ׳קַל׳: חִזְקוּ אַתֶּם מֵאֲלֵיכֶם, כְּמוֹ שֶׁיֹּאמַר לְיָחִיד ״חֲזַק וֶאֱמָץ״ (יהושע א:ו), וְלֹא יֹאמַר ׳חַזֵּק׳:
+**חַזְּקוּ יָדַיִם רָפוֹת.** כָּל הַנְּבִיאִים, מְבַשְּׂרֵי יְשׁוּעָה, נִחֲמוּ אֶת יִשְׂרָאֵל וְחִזְּקוּ אֶת יְדֵיהֶם הָרָפוֹת. **חַזְּקוּ** לְשׁוֹן מִשְׁקָל כָּבֵד, וּפִתְרוֹנוֹ: חַזְּקוּ אֶת אֲחֵרִים. וְאִם הָיָה בָּא לוֹמַר חִזְקוּ אַתֶּם שֶׁיֶּדְכֶם רָפוֹת, הָיָה לִנָּקֵד ״חִזְקוּ וְאִמְצוּ״ (דברי הימים ב לב:ז). עַכְשָׁיו שֶׁאוֹמֵר לָהֶם לְחַזֵּק וּלְאַמֵּץ אֲחֵרִים, נָקוּד ׳**חַזְּקוּ** **אַמֵּצוּ**. **חִזְקוּ אַל תִּירָאוּ** זֶה נָקוּד ׳חִזְקוּ׳ לְשׁוֹן ׳קַל׳: חִזְקוּ אַתֶּם מֵאֲלֵיכֶם, כְּמוֹ שֶׁיֹּאמַר לְיָחִיד ״חֲזַק וֶאֱמָץ״ (יהושע א:ו), וְלֹא יֹאמַר ׳חַזֵּק׳:
 
 
 **Strengthen weak hands** (חַזְּקוּ) All the prophets who brought tidings of salvation consoled Israel and strengthened their weak hands. (The word) is in the intensive conjugation, and its meaning is (the causative, i.e.,) strengthen others. If he intended to say, “Be strong, you whose hands are weak,” it would be vowelized like (2 Chron. 32:7) “Be strong (חִזְקוּ) and be firm (וְאִמְצוּ).” Now that he says to them to strengthen others and to make others firm, it is vowelized, חַזְּקוּ, אַמְּצוּ. “Be strong (חִזְקוּ), do not fear” is vowelized חִזְקוּ, a form of the ‘kal’ conjugation, meaning ‘you be strong by yourselves,’ as one says to singular (Jos. 1:6), “Be strong and be firm (חֲזַק ֶמָץ),” and he does not say, חַזֵּק.
@@ -19744,7 +19744,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/35:7:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/35:7:1)
 
 
-**וְהָיָה הַשָּׁרָב.** לָהֶם **לַאֲגַם**. הַתָּאֵב לִתְשׁוּעָה יְהֵא נוֹשַׁע, וְהַנָּבִיא דִּבֵּר בִּלְשׁוֹן מָשָׁל:
+**וְהָיָה הַשָּׁרָב.** לָהֶם **לַאֲגַם.** הַתָּאֵב לִתְשׁוּעָה יְהֵא נוֹשַׁע, וְהַנָּבִיא דִּבֵּר בִּלְשׁוֹן מָשָׁל:
 
 
 **And the dry place shall become a pool** He who longs for salvation shall be saved. The prophet spoke figuratively.
@@ -19941,7 +19941,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/36:5:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/36:5:1)
 
 
-**אָמַרְתִּי.** עַד הֵנָּה **אַךְ דִּבְרֵי שְׂפָתַיִם** הוּא בְּפִיו לֵאמֹר: ״לֹא אֶעֱבֹד לְמֶלֶךְ אַשּׁוּר״, וּמִשֶּׁיִּרְאֶה שֶׁאֶעֱלֶה עָלָיו לְצָבָא יַחֲזֹר בּוֹ; עַכְשָׁיו הֲרֵי עָלִיתִי, מֵעַתָּה אוֹ יַעַבְדֵנִי, אוֹ צָרִיךְ הוּא לְבַקֵּשׁ **עֵצָה וּגְבוּרָה לַמִּלְחָמָה**:
+**אָמַרְתִּי.** עַד הֵנָּה אַךְ דִּבְרֵי שְׂפָתַיִם הוּא בְּפִיו לֵאמֹר: ״לֹא אֶעֱבֹד לְמֶלֶךְ אַשּׁוּר״, וּמִשֶּׁיִּרְאֶה שֶׁאֶעֱלֶה עָלָיו לְצָבָא יַחֲזֹר בּוֹ; עַכְשָׁיו הֲרֵי עָלִיתִי, מֵעַתָּה אוֹ יַעַבְדֵנִי, אוֹ צָרִיךְ הוּא לְבַקֵּשׁ **עֵצָה וּגְבוּרָה לַמִּלְחָמָה**:
 
 
 **I said** (until now), “It is but words of the lips, that he speaks (lit., in his mouth), saying, ‘I will not serve the king of Assyria.’ And when he sees that I will march against him with an army, he will recant. Now I have marched. From now on, either he will serve me, or he will need to seek counsel and might for war.”
@@ -19980,7 +19980,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/36:7:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/36:7:1)
 
 
-**אֲשֶׁר הֵסִיר חִזְקִיָּה אֶת בָּמֹתָיו.** בִּעֵר אֶת כָּל בָּתֵּי עֲבוֹדָה זָרָה וּמִזְבְּחוֹת וּבָמוֹת, וְהִזְקִיק אֶת כָּל יְהוּדָה לְהִשְׁתַּחֲווֹת לִפְנֵי מִזְבֵּחַ אֶחָד:
+**אֲשֶׁר הֵסִיר חִזְקִיָּהוּ אֶת בָּמֹתָיו.** בִּעֵר אֶת כָּל בָּתֵּי עֲבוֹדָה זָרָה וּמִזְבְּחוֹת וּבָמוֹת, וְהִזְקִיק אֶת כָּל יְהוּדָה לְהִשְׁתַּחֲווֹת לִפְנֵי מִזְבֵּחַ אֶחָד:
 
 
 **Whose high places...has removed** He abolished all the pagan temples and the altars and the high places, and has coerced all Judah to prostrate themselves before one altar.
@@ -20130,7 +20130,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/36:14:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/36:14:1)
 
 
-**יַשִּׁיא.** יַתְעֶה:
+**יַשִּׁא.** יַתְעֶה:
 
 
 **deceive** (יַשִּׁיא) mislead.
@@ -20144,7 +20144,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/36:16:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/36:16:1)
 
 
-**עֲשׂוּ אִתִּי בְרָכָה. צְאוּ אֵלַי** לְשָׁלוֹם וּבָרְכוּנִי, וְהָבִיאוּ אֵלַי תְּשׁוּרַת שָׁלוֹם:
+**עֲשׂוּ אִתִּי בְרָכָה.** צְאוּ אֵלַי לְשָׁלוֹם וּבָרְכוּנִי, וְהָבִיאוּ אֵלַי תְּשׁוּרַת שָׁלוֹם:
 
 
 **Make peace with me** (בְרָכָה, lit., a blessing.) Come out to me for peace and greet me and bring me a gift of peace.
@@ -21533,7 +21533,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/40:4:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/40:4:1)
 
 
-**כָּל גֶּיא יִנָּשֵׂא** וְהָ**הָר יִשְׁפָּל**, הֲרֵי דֶּרֶךְ חֲלָקָה וְשָׁוָה וְנוֹחָה:
+**כָּל גֶּיא יִנָּשֵׂא** וְהָהָר יִשְׁפָּל, הֲרֵי דֶּרֶךְ חֲלָקָה וְשָׁוָה וְנוֹחָה:
 
 
 **Every valley shall be raised** and the mountain shall be lowered, thus resulting in a smooth, even, and easily traversed road.
@@ -21785,7 +21785,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/40:13:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/40:13:2)
 
 
-**וְאִישׁ עֲצָתוֹ יוֹדִיעֶנּוּ.** רוּחוֹ, כֵּן תִּרְגֵּם יוֹנָתָן. וּלְפִי מַשְׁמָעוֹ: **וְאִישׁ עֲצָתוֹ** מוּסָב לְרֹאשׁ הַמִּקְרָא **מִי תִכֵּן אֶת רוּחוֹ**, וּמִי אִישׁ עֲצָתוֹ אֲשֶׁר יוֹדִיעֶנּוּ לְהַקָּדוֹשׁ בָּרוּךְ הוּא עֵצָה?
+**וְאִישׁ עֲצָתוֹ יוֹדִיעֶנּוּ.** רוּחוֹ, כֵּן תִּרְגֵּם יוֹנָתָן. וּלְפִי מַשְׁמָעוֹ: **וְאִישׁ עֲצָתוֹ** מוּסָב לְרֹאשׁ הַמִּקְרָא מִי תִכֵּן אֶת רוּחוֹ, וּמִי אִישׁ עֲצָתוֹ אֲשֶׁר יוֹדִיעֶנּוּ לְהַקָּדוֹשׁ בָּרוּךְ הוּא עֵצָה?
 
 
 **and His adviser who informs Him** [and the one with whom He takes counsel He informs] of His spirit. So did Jonathan render it. [Who meted out the spirit? The Lord, and the one with whom He takes counsel He informs him, i.e., the righteous in whom God confides, He informs of His plans for the future.] But, according to its context, וְאִישׁ עֲצָתוֹ refers back to the beginning of the verse. Who meted out His spirit and who is His adviser who informs the Holy One, blessed be He, of counsel?
@@ -21893,7 +21893,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/40:16:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/40:16:2)
 
 
-**וְחַיָּתוֹ.** שֶׁל לְבָנוֹן, **אֵין דֵּי עוֹלָה**. דָּבָר אַחֵר: **וּלְבָנוֹן אֵין דֵּי בָּעֵר וגו׳.** לְכַפֵּר עַל עֲוֹן הָאֻמּוֹת:
+**וְחַיָּתוֹ.** שֶׁל לְבָנוֹן, **אֵין דֵּי עוֹלָה.** דָּבָר אַחֵר: **וּלְבָנוֹן אֵין דֵּי בָּעֵר וגו׳.** לְכַפֵּר עַל עֲוֹן הָאֻמּוֹת:
 
 
 **and its beasts** (the beasts] of the Lebanonthere is not enough for burnt offerings. Another explanation is: **And the Lebanon etc.** to expiate the iniquity of the heathens.
@@ -22401,7 +22401,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/41:6:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/41:6:1)
 
 
-**אִישׁ אֶת רֵעֵהוּ וְגוֹ׳. יֹאמַר חֲזַק** לַמִּלְחָמָה, אוּלַי יַעַמְדוּ לָהֶם אֱלֹהֵיהֶם:
+**אִישׁ אֶת רֵעֵהוּ וְגוֹ׳ יֹאמַר חֲזָק** לַמִּלְחָמָה, אוּלַי יַעַמְדוּ לָהֶם אֱלֹהֵיהֶם:
 
 
 **Each one...his fellow etc.** He shall say, “Strengthen yourself” for war, perhaps their gods will protect them [lit. stand up for them].
@@ -22506,7 +22506,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/41:8:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/41:8:1)
 
 
-**וְאַתָּה יִשְׂרָאֵל עַבְדִּי**, וְעָלַי יֵשׁ לַעֲזוֹר לְךָ. סוֹף הַמִּקְרָא **אַל תִּירָא כִּי אִתְּךָ אֲנִי**. כָּךְ נִרְאֶה לִי חִבּוּר הָעִנְיָן לְפִי פְּשׁוּטוֹ. וּמִדְרַשׁ אַגָּדָה בִּבְרֵאשִׁית רַבָּה (בראשית רבה מד ז) דּוֹרֵשׁ כָּל הָעִנְיָן בְּמַלְכִּי צֶדֶק וְאַבְרָהָם:
+**וְאַתָּה יִשְׂרָאֵל עַבְדִּי**, וְעָלַי יֵשׁ לַעֲזוֹר לְךָ. סוֹף הַמִּקְרָא **אַל תִּירָא כִּי אִתְּךָ אֲנִי.** כָּךְ נִרְאֶה לִי חִבּוּר הָעִנְיָן לְפִי פְּשׁוּטוֹ. וּמִדְרַשׁ אַגָּדָה בִּבְרֵאשִׁית רַבָּה (בראשית רבה מד ז) דּוֹרֵשׁ כָּל הָעִנְיָן בְּמַלְכִּי צֶדֶק וְאַבְרָהָם:
 
 
 **But you, Israel My servant** and I am obliged to help you. The end of this sentence is (infra 10): “Do not fear.” This appears to me to be the sequence of the section according to its simple meaning. But the Midrash Aggadah in Gen. Rabbah 44:7 expounds the entire section as alluding to Malchizedek and Abraham.
@@ -22517,7 +22517,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/41:8:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/41:8:2)
 
 
-**רָאוּ אִיִּים.** אוֹתָהּ מִלְחָמָה **וְיִירָאוּ**. שֵׁם נִתְיָרֵא מֵאַבְרָהָם, פֶּן יֹאמַר לוֹ: הֶעֱמַדְתָּ רְשָׁעִים אֵלּוּ בָּעוֹלָם, וְאַבְרָהָם נִתְיָרֵא מִשֵּׁם, לְפִי שֶׁהָרַג אֶת בְּנֵי עֵילָם שֶׁהֵם מִשֵּׁם:
+**רָאוּ אִיִּים.** אוֹתָהּ מִלְחָמָה **וְיִירָאוּ.** שֵׁם נִתְיָרֵא מֵאַבְרָהָם, פֶּן יֹאמַר לוֹ: הֶעֱמַדְתָּ רְשָׁעִים אֵלּוּ בָּעוֹלָם, וְאַבְרָהָם נִתְיָרֵא מִשֵּׁם, לְפִי שֶׁהָרַג אֶת בְּנֵי עֵילָם שֶׁהֵם מִשֵּׁם:
 
 
 **[5] Islands saw** the war and feared. Shem [Malchizedek] feared Abraham, lest he say to him, You begot these wicked men in the world. And Abraham feared Shem, since he slew his sons, the people of Elam, who was descended from Shem.
@@ -23018,7 +23018,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/41:25:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/41:25:2)
 
 
-**מִמִּזְרַח שֶׁמֶשׁ יִקְרָא בִשְׁמִי:** ״כָּל מַמְלְכוֹת הָאָרֶץ נָתַן לִי ה׳ אֱלֹהֵי הַשָּׁמַיִם״ (עזרא א:ב), וְנִרְאֶה שֶׁאֶרֶץ פָּרַס בְּמִזְרָחִית צְפוֹנִית הִיא לְאֶרֶץ יִשְׂרָאֵל. דָּבָר אַחֵר: **הַעִירוֹתִי מִצָּפוֹן** אֶת נְבוּכַדְנֶצַּר לְהַחֲרִיב אֶת עִירִי **וַיַּאת, וְכוֹרֶשׁ** הַעִירוֹתִי **מִמִּזְרָח** שֶׁ**יִּקְרָא בִשְׁמִי** לִבְנוֹת אֶת עִירִי, שֶׁמַּלְכוּת פָּרַס מִמִּזְרָח אֶרֶץ יִשְׂרָאֵל הִיא, שֶׁנֶּאֱמַר ״רָאִיתִי אֶת הָאַיִל וְגוֹ׳״ (דניאל ח:ד). וְיוֹנָתָן תִּרְגֵּם: ״אַיְיתִיתִי בְּגַלָּאִי מֶלֶךְ דְּתַקִּיף מֵרוּחַ צְפוֹנָא וְיֵיתֵי כְּמֵפַּק שִׁמְשָׁא בִּגְבוּרְתֵּיהּ מִמְּדִינְתָא, אַגְבְּרִינֵיהּ בִּשְׁמִי״:
+**מִמִּזְרַח שֶׁמֶשׁ יִקְרָא בִשְׁמִי:** ״כָּל מַמְלְכוֹת הָאָרֶץ נָתַן לִי ה׳ אֱלֹהֵי הַשָּׁמַיִם״ (עזרא א:ב), וְנִרְאֶה שֶׁאֶרֶץ פָּרַס בְּמִזְרָחִית צְפוֹנִית הִיא לְאֶרֶץ יִשְׂרָאֵל. דָּבָר אַחֵר: **הַעִירוֹתִי מִצָּפוֹן** אֶת נְבוּכַדְנֶצַּר לְהַחֲרִיב אֶת עִירִי **וַיַּאת**, וְכוֹרֶשׁ הַעִירוֹתִי **מִמִּזְרַח** שֶׁ**יִּקְרָא בִשְׁמִי** לִבְנוֹת אֶת עִירִי, שֶׁמַּלְכוּת פָּרַס מִמִּזְרָח אֶרֶץ יִשְׂרָאֵל הִיא, שֶׁנֶּאֱמַר ״רָאִיתִי אֶת הָאַיִל וְגוֹ׳״ (דניאל ח:ד). וְיוֹנָתָן תִּרְגֵּם: ״אַיְיתִיתִי בְּגַלָּאִי מֶלֶךְ דְּתַקִּיף מֵרוּחַ צְפוֹנָא וְיֵיתֵי כְּמֵפַּק שִׁמְשָׁא בִּגְבוּרְתֵּיהּ מִמְּדִינְתָא, אַגְבְּרִינֵיהּ בִּשְׁמִי״:
 
 
 **from the rising of the sun he shall call in My name** (Ezra 1:2) “All the kingdoms of the earth has the Lord God of the heavens given me.” And it appears that Persia is northeast of Eretz Israel. Another explanation is: I aroused Nebuchadnezzar from the north to destroy My city, and he came, and I aroused Cyrus from the east, that he call in My name to build My city, for the kingdom of Persia is east of Eretz Israel, as it is stated (Dan. 8:4): “I saw the ram butting etc.” [This verse in Daniel proves it. “I saw the ram butting to the west and to the north and to the south.” We deduce that he came from the east.] Jonathan paraphrases: I brought speedily a king, strong as the north wind, and he will come as the sun comes out with its might from the east; I will strengthen him with My name.
@@ -23151,7 +23151,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/41:29:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/41:29:1)
 
 
-**הֵן כֻּלָּם אָוֶן.** יֵשׁ לָכֶם לָדַעַת שֶׁכָּל נְבִיאֵי מַכְחִישֵׁי תּוֹרָה אָוֶן, וְ**אֶפֶס** כָּל **מַעֲשֵׂיהֶם נִסְכֵּיהֶם**:
+**הֵן כֻּלָּם אָוֶן.** יֵשׁ לָכֶם לָדַעַת שֶׁכָּל נְבִיאֵי מַכְחִישֵׁי תּוֹרָה אָוֶן, וְ**אֶפֶס** כָּל **מַעֲשֵׂיהֶם**:
 
 
 **Behold them all,...naught** You should know that, as for the prophets of those who deny the Torah ([mss.:] pagan prophets;) ([other mss.:] prophets of Baal), all their deeds are naught and of no substance.
@@ -23162,7 +23162,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/41:29:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/41:29:2)
 
 
-דְּמוּת מַסֵּכוֹתָם, כְּמוֹ ״הַפֶּסֶל נָסַךְ חָרָשׁ״ (ישעיהו מ:יט). וְיוֹנָתָן תִּרְגֵּם בְּעִנְיָן אַחֵר. **רִאשׁוֹן לְצִיּוֹן וְגוֹ׳** – ״פִּתְגָמֵי נֶחָמָתָא דְּאִתְנַבִּיאוּ נְבִיָּיא מִלְּקַדְמִין עַל צִיּוֹן הָא אָתוֹ״. וּלְפִי הַתַּרְגּוּם כָּל הָעִנְיָן מְדַבֵּר מִמֶּלֶךְ הַמָּשִׁיחַ וּבַגְּאֻלָּה אַחֲרוֹנָה, אֲבָל אֲנִי רוֹאֶה נְבוּאָה שֶׁנִּתְנַבֵּא יְשַׁעְיָה עַל כּוֹרֶשׁ, כֻּלָּם בִּלְשׁוֹן הַסִּגְנוֹן שֶׁל פָּרָשָׁה זוֹ: ״אֲנִי ה׳ הֲעִירוֹתִיהוּ בְצֶדֶק״ (ישעיהו מה:יג), ״קוֹרֵא מִמִּזְרָח עַיִט״ (ישעיהו מו:יא), ״הָאוֹתִיּוֹת שְׁאָלוּנִי״ (ישעיהו מה:יא), ״מַגִּיד מֵרֵאשִׁית אַחֲרִית״ (ישעיהו מו:י), כֻּלָּהּ נוֹטָה אַחַר עִנְיַן פָּרָשָׁה זוֹ:
+**נִסְכֵּיהֶם.** דְּמוּת מַסֵּכוֹתָם, כְּמוֹ ״הַפֶּסֶל נָסַךְ חָרָשׁ״ (ישעיהו מ:יט). וְיוֹנָתָן תִּרְגֵּם בְּעִנְיָן אַחֵר. **רִאשׁוֹן לְצִיּוֹן וְגוֹ׳** – ״פִּתְגָמֵי נֶחָמָתָא דְּאִתְנַבִּיאוּ נְבִיָּיא מִלְּקַדְמִין עַל צִיּוֹן הָא אָתוֹ״. וּלְפִי הַתַּרְגּוּם כָּל הָעִנְיָן מְדַבֵּר מִמֶּלֶךְ הַמָּשִׁיחַ וּבַגְּאֻלָּה אַחֲרוֹנָה, אֲבָל אֲנִי רוֹאֶה נְבוּאָה שֶׁנִּתְנַבֵּא יְשַׁעְיָה עַל כּוֹרֶשׁ, כֻּלָּם בִּלְשׁוֹן הַסִּגְנוֹן שֶׁל פָּרָשָׁה זוֹ: ״אֲנִי ה׳ הֲעִירוֹתִיהוּ בְצֶדֶק״ (ישעיהו מה:יג), ״קוֹרֵא מִמִּזְרָח עַיִט״ (ישעיהו מו:יא), ״הָאוֹתִיּוֹת שְׁאָלוּנִי״ (ישעיהו מה:יא), ״מַגִּיד מֵרֵאשִׁית אַחֲרִית״ (ישעיהו מו:י), כֻּלָּהּ נוֹטָה אַחַר עִנְיַן פָּרָשָׁה זוֹ:
 
 
 **their molten images** Heb. נִסְכֵּיהֶם. Comp. (supra 40:19) “The graven image the craftsman melted (נָסַךְ).” Jonathan renders this section differently: [27] **The first one to Zion etc.** The words of consolation that the prophets prophesied concerning Zion, from before, behold they have come. And according to the Targum, the entire section speaks of the King Messiah and of the last redemption, but I see that the prophecy that Isaiah prophesied concerning Cyrus is all in the same language as this section. Comp. (infra 45:13) “I aroused him with righteousness”; (Infra 46:11) “Calling from the east a bird of prey”; (infra 45:11) “The signs ask Me;” (infra 46:10) “Who tells from the beginning the end.” All of this resembles the topic of this section.
@@ -23564,7 +23564,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/42:14:4](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/42:14:4)
 
 
-**וְאֶשְׁאַף.** וְאֶתְאַוֶּה לְהַשְׁמִיד הַכֹּל **יַחַד**, כָּל אוֹיְבַי:
+**וְאֶשְׁאַף.** וְאֶתְאַוֶּה לְהַשְׁמִיד הַכֹּל **יָחַד**, כָּל אוֹיְבַי:
 
 
 **and destroy [them] together** And I will long to destroy everyone together, all My adversaries.
@@ -23689,7 +23689,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/42:20:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/42:20:2)
 
 
-**פָּקוֹחַ אָזְנַיִם.** אֲנִי עָסוּק לִפְקוֹחַ אָזְנֵיכֶם עַל יְדֵי נְבִיאַי, **וְלֹא יִשְׁמַע** אִישׁ מִכֶּם אֶת דְּבָרַי, וּלְשׁוֹן הוֹוֶה הוּא:
+**פָּקוֹחַ אָזְנַיִם.** אֲנִי עָסוּק לִפְקוֹחַ אָזְנֵיכֶם עַל יְדֵי נְבִיאַי, **וְלֹא יִשְׁמָע** אִישׁ מִכֶּם אֶת דְּבָרַי, וּלְשׁוֹן הוֹוֶה הוּא:
 
 
 **to open the ears** I am busy opening your ears through My prophets, but none of you listens to My words. This is a present tense.
@@ -23764,7 +23764,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/42:23:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/42:23:2)
 
 
-**לְאָחוֹר. יַקְשִׁיב וְיִשְׁמַע** דָּבָר שֶׁיַּעֲמוֹד לוֹ בָּאַחֲרוֹנָה, וְכֵן תִּרְגֵּם יוֹנָתָן לְאָחוֹר: ״לְסוֹפָא״, וְכֵן כָּל ׳לְאָחוֹר׳ שֶׁבַּמִּקְרָא: עָתִיד לִהְיוֹת הוּא:
+**לְאָחוֹר. יַקְשִׁב וְיִשְׁמַע** דָּבָר שֶׁיַּעֲמוֹד לוֹ בָּאַחֲרוֹנָה, וְכֵן תִּרְגֵּם יוֹנָתָן לְאָחוֹר: ״לְסוֹפָא״, וְכֵן כָּל ׳לְאָחוֹר׳ שֶׁבַּמִּקְרָא: עָתִיד לִהְיוֹת הוּא:
 
 
 **for the future** Who will hearken and hear something that will stand him in good stead at the end? Jonathan, too, renders: לְסוֹפָא, at the end, and likewise, every לְאָחוֹר in Scripture refers to something that is destined to be.
@@ -23842,7 +23842,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/43:1:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/43:1:1)
 
 
-**וְעַתָּה.** אַף כָּל זֹאת **כֹּה אָמַר ה׳... אַל תִּירָא**:
+**וְעַתָּה.** אַף כָּל זֹאת **כֹּה אָמַר ה׳… אַל תִּירָא**:
 
 
 **And now** despite all this, so said the Lord, “...do not fear.”
@@ -23942,7 +23942,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/43:6:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/43:6:2)
 
 
-**וְלַתֵּימָן**, שֶׁהִיא רוּחַ חֲזָקָה – **אַל תִּכְלָאִי** מִלְּנַשֵּׁב בְּחָזְקָה לְהָבִיא גָּלֻיּוֹתַי. וְכֵן (שיר השירים ד:טז) ״עוּרִי צָפוֹן וּבֹאִי תֵימָן״, מִתּוֹךְ שֶׁהָרוּחַ צְפוֹנִית חַלָּשָׁה צְרִיכָה חִזּוּק, לְכָךְ כָּתוּב ׳עוּרִי׳, ׳תֵּנִי׳. אֲבָל דְּרוֹמִית שֶׁאֵינָהּ צְרִיכָה חִזּוּק (גיטין לא ב), כָּתוּב ׳בּוֹאִי׳ כְּמוֹת שֶׁהִיא, וְכֵן ׳אַל תִּכְלָאִי׳:
+**וּלְתֵימָן**, שֶׁהִיא רוּחַ חֲזָקָה – **אַל תִּכְלָאִי** מִלְּנַשֵּׁב בְּחָזְקָה לְהָבִיא גָּלֻיּוֹתַי. וְכֵן (שיר השירים ד:טז) ״עוּרִי צָפוֹן וּבֹאִי תֵימָן״, מִתּוֹךְ שֶׁהָרוּחַ צְפוֹנִית חַלָּשָׁה צְרִיכָה חִזּוּק, לְכָךְ כָּתוּב ׳עוּרִי׳, ׳תֵּנִי׳. אֲבָל דְּרוֹמִית שֶׁאֵינָהּ צְרִיכָה חִזּוּק (גיטין לא ב), כָּתוּב ׳בּוֹאִי׳ כְּמוֹת שֶׁהִיא, וְכֵן ׳אַל תִּכְלָאִי׳:
 
 
 **and to the south** which is a strong wind, “Do not refrain from blowing strongly to bring My exiles.” Similarly (Song 4: 16), “Awaken, O north wind, and come, O south wind.” Since the north wind is weak, it needs strengthening. Therefore, it is written, “Awaken,” “Give.” But concerning the south wind which does not need straightening, it is written, “Come,” as it is, and so, “Do not refrain.”
@@ -24056,7 +24056,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/43:12:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/43:12:2)
 
 
-**וְהוֹשַׁעְתִּי.** לְקַיֵּם דְּבָרִי בְּעֵת רָץ:
+**וְהוֹשַׁעְתִּי.** לְקַיֵּם דְּבָרִי בְּעֵת קֵץ:
 
 
 **and I saved** to fulfill the word at the time [designated for its] end.
@@ -25308,7 +25308,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/45:11:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/45:11:1)
 
 
-**הָאֹתִיּוֹת שְׁאָלוּנִי וגו׳.** ה״א נְקוּדָה קָמַץ, לָמַדְתָּ שֶׁאֵינָהּ תְּמִיהָה. וְכֵן פֵּרְשׁוּ: אִם בָּאתֶם לִשְׁאוֹל לִי, אַתֶּם הַנְּבִיאִים, שְׁאָלוּנִי עַל אוֹתוֹת שָׁמַיִם וּמוֹפְתִים אֲשֶׁר אַתֶּם רוֹאִים נוֹלָדִים בָּאָרֶץ, עֲלֵיהֶם הֱיוּ שׁוֹאֲלִים אוֹתִי מַה הֵם, אֲבָל **עַל בָּנַי וְעַל פֹּעַל יָדַי** יְשָׁרִים, שֶׁבִּשְׁבִילָם יָצַרְתִּי אֶת הַכֹּל, אַתֶּם בָּאִים לְצַוּוֹתִי וְלִקְרֹא לְפָנַי תִּגָּר?
+**הָאֹתִיּוֹת שְׁאָלוּנִי וגו׳.** ה״א נְקוּדָה קָמַץ, לָמַדְתָּ שֶׁאֵינָהּ תְּמִיהָה. וְכֵן פֵּירוּשׁוֹ: אִם בָּאתֶם לִשְׁאוֹל לִי, אַתֶּם הַנְּבִיאִים, שְׁאָלוּנִי עַל אוֹתוֹת שָׁמַיִם וּמוֹפְתִים אֲשֶׁר אַתֶּם רוֹאִים נוֹלָדִים בָּאָרֶץ, עֲלֵיהֶם הֱיוּ שׁוֹאֲלִים אוֹתִי מַה הֵם, אֲבָל **עַל בָּנַי וְעַל פֹּעַל יָדַי** יְשָׁרִים, שֶׁבִּשְׁבִילָם יָצַרְתִּי אֶת הַכֹּל, אַתֶּם בָּאִים לְצַוּוֹתִי וְלִקְרֹא לְפָנַי תִּגָּר?
 
 
 **Ask Me about the signs etc.** Heb. הָאוֹתִיוֹת. The ‘heh’ is voweled with a ‘kamatz.’ This indicates that it is not the interrogative, but this is its explanation: If you have come to ask Me, you and the prophets, ask Me about the signs of the heavens and the wonders that you see coming about on the earth; about them you may ask Me, what they are, but about My children and about the work of My hands, Israel, for whose sake I formed everything, shall you come to command Me and to complain before Me?
@@ -25405,7 +25405,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/45:15:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/45:15:1)
 
 
-**אָכֵן אַתָּה אֵל מִסְתַּתֵּר** וְכֵן יֹאמְרוּ לְהַקָּדוֹשׁ בָּרוּךְ הוּא: אָכֵן הֲבִינוֹתָנוּ, כִּי לִגְבּוֹת חוֹבוֹתֵיהֶן שֶׁל עַמְּךָ אַתָּה מִסְתַּתֵּר מִלְּהַרְאוֹת נִצְחוֹנְךָ, כִּבְיָכוֹל אֵין בְּךָ יְכֹלֶת, וּבְהִתְעוֹרֵר רַחֲמֶיךָ אַתָּה **אֱלֹהֵי יִשְׂרָאֵל מוֹשִׁיעַ**. כָּךְ מְפוֹרָשׁ בַּמְּכִילְתָּא (מכילתא בשלח ויהי א):
+**אָכֵן אַתָּה אֵל מִסְתַּתֵּר** וְכֵן יֹאמְרוּ לְהַקָּדוֹשׁ בָּרוּךְ הוּא: אָכֵן הֲבִינוֹתָנוּ, כִּי לִגְבּוֹת חוֹבוֹתֵיהֶן שֶׁל עַמְּךָ אַתָּה מִסְתַּתֵּר מִלְּהַרְאוֹת נִצְחוֹנְךָ, כִּבְיָכוֹל אֵין בְּךָ יְכֹלֶת, וּבְהִתְעוֹרֵר רַחֲמֶיךָ אַתָּה **אֱלֹהֵי יִשְׂרָאֵל מוֹשִׁיעַ.** כָּךְ מְפוֹרָשׁ בַּמְּכִילְתָּא (מכילתא בשלח ויהי א):
 
 
 **Indeed, You are a God Who conceals Himself** And so they shall say to the Holy One, blessed be He, “Indeed, You have given us to understand (we understand [Mss. and K’li Paz]) that to collect the debts of Your people, You conceal yourself from showing Your victory. So to speak, You have not the ability, and when Your mercy is aroused, You are the God of Israel, the Savior.” So it is explained in Mechilta (Ex. 14:4).
@@ -25561,7 +25561,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/45:24:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/45:24:1)
 
 
-**אַךְ בַּה׳ לִי אָמַר.** הַמִּקְרָא זֶה מְסֹרָס, וְכֵן פִּתְרוֹנוֹ: **אַךְ לִי בַּה׳ אָמַר צְדָקוֹת וָעֹז**. אַף עַל פִּי שֶׁכָּל הַגּוֹיִם יִשְׁתַּחֲווּ לְפָנָיו, אַךְ לִי לְבַדִּי, כְּנֶסֶת יִשְׂרָאֵל, בַּה׳ הֻבְטַח לִי צְדָקוֹת וָעֹז, וְלֹא יָבוֹאוּ מַכְחִישֵׁי תּוֹרָה לְחַלֵּל כְּבוֹדִי:
+**אַךְ בַּה׳ לִי אָמַר.** הַמִּקְרָא זֶה מְסֹרָס, וְכֵן פִּתְרוֹנוֹ: **אַךְ לִי בַּה׳ אָמַר צְדָקוֹת וָעֹז.** אַף עַל פִּי שֶׁכָּל הַגּוֹיִם יִשְׁתַּחֲווּ לְפָנָיו, אַךְ לִי לְבַדִּי, כְּנֶסֶת יִשְׂרָאֵל, בַּה׳ הֻבְטַח לִי צְדָקוֹת וָעֹז, וְלֹא יָבוֹאוּ מַכְחִישֵׁי תּוֹרָה לְחַלֵּל כְּבוֹדִי:
 
 
 **But to me did He say by the Lord** Heb. אַךְ בַה' לִי אָמַר [lit. but by the Lord to me He said]. This verse is inverted, and thus is its interpretation: But to me did He say by the Lord righteousness and strength. Although all the nations shall prostrate themselves before Him [correct reading according to Warsaw edition, K’li Paz, and mss.], but to me alone, the congregation of Israel, has been promised by the Lord righteousness and strength, and other nations shall not be included in my glory.
@@ -26103,7 +26103,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/47:9:5](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/47:9:5)
 
 
-**חֲבָרָיִךְ.** לְשׁוֹן כְּשָׁפִים, כְּמוֹ ״וְחֹבֵר חָבֶר״ (דברים יח:יא):
+**חֲבָרַיִךְ.** לְשׁוֹן כְּשָׁפִים, כְּמוֹ ״וְחֹבֵר חָבֶר״ (דברים יח:יא):
 
 
 **your charms** Heb. חֲבָרַיִךְ. An expression of sorcery. Comp. (Deut. 18:11) “And a charmer (וְחֹבֵר חָבֶר).”
@@ -26345,7 +26345,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/48:4:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/48:4:1)
 
 
-**מִדַּעְתִּי כִּי קָשֶׁה אָתָּה.** מֵאֲשֶׁר יָדַעְתִּי אוֹתְךָ כִּי קָשֶׁה אַתָּה, וְאִם יָבֹא הַנֵּס וְלֹא הִגַּדְתִּיו תְּחִלָּה, **תֹּאמַר: ״עָצְבִּי** עֲשָׂאָם״, וְלֹא מֵאֵת הַקָּדוֹשׁ בָּרוּךְ הוּא הֵם. לְפִיכָךְ **אַגִּיד לְךָ מֵאָז בְּטֶרֶם תָּבֹא וְגוֹ׳**. **מִדַּעְתִּי** – מֵ״ם זוֹ מְשַׁמֶּשֶׁת נְתִינַת טַעַם, כְּמוֹ ׳לְפִי שֶׁיָּדַעְתִּי׳. וְדֻגְמָתוֹ: ״כִּי מֵאַהֲבַת ה׳ אֶתְכֶם וּמִשָּׁמְרוֹ אֶת הַשְּׁבוּעָה״ (דברים ז:ח):
+**מִדַּעְתִּי כִּי קָשֶׁה אָתָּה.** מֵאֲשֶׁר יָדַעְתִּי אוֹתְךָ כִּי קָשֶׁה אַתָּה, וְאִם יָבֹא הַנֵּס וְלֹא הִגַּדְתִּיו תְּחִלָּה, **תֹּאמַר: ״עָצְבִּי** עֲשָׂאָם״, וְלֹא מֵאֵת הַקָּדוֹשׁ בָּרוּךְ הוּא הֵם. לְפִיכָךְ **אַגִּיד לְךָ מֵאָז בְּטֶרֶם תָּבֹא וְגוֹ׳.** **מִדַּעְתִּי** – מֵ״ם זוֹ מְשַׁמֶּשֶׁת נְתִינַת טַעַם, כְּמוֹ ׳לְפִי שֶׁיָּדַעְתִּי׳. וְדֻגְמָתוֹ: ״כִּי מֵאַהֲבַת ה׳ אֶתְכֶם וּמִשָּׁמְרוֹ אֶת הַשְּׁבוּעָה״ (דברים ז:ח):
 
 
 **Because of My knowledge that you are obstinate.** Heb. מִדַּעְתִּי. Because I knew you, that you are obstinate, and if the miracle would come and I had not told of it before, you would say, “My idol performed them, and they were not from the Holy One, blessed be He.” Therefore, I told you from then; when it had not yet come to pass etc. מִדַּעְתִּי [although usually translated ‘from My knowledge,’ in this case,] ; the ‘mem’ denotes the giving of a reason, like ‘Because I knew.’ A similar form [is found in Deut. 7:8:], “For, because of the Lord’s love (מֵאַהֲבַת) for you, and because of His observing (וּמִשָּׁמְרוֹ) the oath.”
@@ -26514,7 +26514,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/48:10:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/48:10:2)
 
 
-**בְּחַרְתִּיךָ.** בָּחַרְתִּי לְךָ **כּוּר עֹנִי**, כְּנֶגֶד אוֹר. ׳כּוּר׳ הוּא כְּלִי שֶׁמַּתִּיכִין בּוֹ כֶּסֶף וְזָהָב:
+**בְּחַרְתִּיךָ.** בָּחַרְתִּי לְךָ **כּוּר עֹנִי**, כְּנֶגֶד אוּר. ׳כּוּר׳ הוּא כְּלִי שֶׁמַּתִּיכִין בּוֹ כֶּסֶף וְזָהָב:
 
 
 **I have chosen for you** Heb. בְּחַרְתִּיךָ. I have chosen for you the crucible of poverty as opposed to the crucible of fire. A crucible (כּוּר) is a vessel in which they melt silver and gold.
@@ -26589,7 +26589,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/48:14:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/48:14:1)
 
 
-**ה׳ אֲהֵבוֹ.** לָזֶה שֶׁ**יַּעֲשֶׂה חֶפְצוֹ** שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא (.b)בְּבָבֶל</b>:
+**ה׳ אֲהֵבוֹ.** לָזֶה שֶׁ**יַּעֲשֶׂה חֶפְצוֹ** שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא **בְּבָבֶל**:
 
 
 **The Lord loves him** He who will perform the will of the Holy One, blessed be He, upon Babylon.
@@ -26650,7 +26650,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/48:16:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/48:16:2)
 
 
-**וְעַתָּה ה׳ אֱלֹהִים שְׁלָחַנִי וְרוּחוֹ.** ״אָמַר נָבִיא: וּכְעַן ה׳ אֱלֹהִים שְׁלָחַנִי וּמֵימְרֵיהּ״. עֵרוּבֵי דְבָרִים – מִי שֶׁאָמַר זֶה לֹא אָמַר זֶה. וּמִדְרַשׁ אַגָּדָה רַבִּי תַּנְחוּמָא (תנחומא יתרו כא) פֵּרֵשׁ: **שִׁמְעוּ זֹאת** – תּוֹרַת מֹשֶׁה שֶׁנֶּאֱמַר בָּהּ ״זֹאת הַתּוֹרָה״. **לֹא מֵרֹאשׁ בַּסֵּתֶר דִּבַּרְתִּי** – בְּסִינַי, וְהַנָּבִיא אוֹמֵר: **מֵעֵת הֱיוֹתָהּ** לְאוֹתוֹ דָבָר שֶׁהוּא אוֹמֵר **שָׁם אָנִי**. וְלָמַדְנוּ מִכָּאן שֶׁכָּל הַנְּבִיאִים עָמְדוּ בְּסִינַי, וְעַתָּה שְׁלָחַנִי לְהִנָּבֵא אֲלֵיהֶם. וְאַף לָשׁוֹן זֶה יֶשְׁנוֹ עֵרוּבֵי דְבָרִים: **לֹא מֵרֹאשׁ בַּסֵּתֶר דִּבַּרְתִּי** אָמְרָה שְׁכִינָה, **מֵעֵת הֱיוֹתָהּ שָׁם אָנִי** אוֹמֵר הַנָּבִיא. וְיֵשׁ לִפְתּוֹר שֶׁלֹּא יְהוּ עֵרוּבֵי דְבָרִים: **קִרְבוּ אֵלַי שִׁמְעוּ זֹאת** שֶׁאֲנִי מִתְנַבֵּא לָכֶם עַל מַפֶּלֶת בָּבֶל וּגְאֻלַּתְכֶם, **לֹא מֵרֹאשׁ בַּסֵּתֶר דִּבַּרְתִּי** אוֹתָהּ, **מֵעֵת הֱיוֹתָהּ** שֶׁגָּזַר הַקָּדוֹשׁ בָּרוּךְ הוּא לַהֲבִיאָהּ **שָׁם** הָיִיתִי. לוֹמֵד שֶׁמִּשְּׁעַת הַגְּזֵרָה הַקָּדוֹשׁ בָּרוּךְ הוּא מַעֲמִיד הַנָּבִיא שֶׁעָתִיד לְהִנָּבֵא עַל הַדָּבָר בְּסוֹף פַּמַלְיָא שֶׁל מַעְלָה, וְאַף עַל פִּי שֶׁעֲדַיִן אֵינוֹ נוֹצָר:
+**וְעַתָּה ה׳ אֱלֹהִים שְׁלָחַנִי וְרוּחוֹ.** ״אָמַר נָבִיא: וּכְעַן ה׳ אֱלֹהִים שְׁלָחַנִי וּמֵימְרֵיהּ״. עֵרוּבֵי דְבָרִים – מִי שֶׁאָמַר זֶה לֹא אָמַר זֶה. וּמִדְרַשׁ אַגָּדָה רַבִּי תַּנְחוּמָא (תנחומא יתרו כא) פֵּרֵשׁ: **שִׁמְעוּ זֹאת** – תּוֹרַת מֹשֶׁה שֶׁנֶּאֱמַר בָּהּ ״זֹאת הַתּוֹרָה״. **לֹא מֵרֹאשׁ בַּסֵּתֶר דִּבַּרְתִּי** – בְּסִינַי, וְהַנָּבִיא אוֹמֵר: **מֵעֵת הֱיוֹתָהּ** לְאוֹתוֹ דָבָר שֶׁהוּא אוֹמֵר **שָׁם אָנִי.** וְלָמַדְנוּ מִכָּאן שֶׁכָּל הַנְּבִיאִים עָמְדוּ בְּסִינַי, וְעַתָּה שְׁלָחַנִי לְהִנָּבֵא אֲלֵיהֶם. וְאַף לָשׁוֹן זֶה יֶשְׁנוֹ עֵרוּבֵי דְבָרִים: **לֹא מֵרֹאשׁ בַּסֵּתֶר דִּבַּרְתִּי** אָמְרָה שְׁכִינָה, **מֵעֵת הֱיוֹתָהּ שָׁם אָנִי** אוֹמֵר הַנָּבִיא. וְיֵשׁ לִפְתּוֹר שֶׁלֹּא יְהוּ עֵרוּבֵי דְבָרִים: **קִרְבוּ אֵלַי שִׁמְעוּ זֹאת** שֶׁאֲנִי מִתְנַבֵּא לָכֶם עַל מַפֶּלֶת בָּבֶל וּגְאֻלַּתְכֶם, **לֹא מֵרֹאשׁ בַּסֵּתֶר דִּבַּרְתִּי** אוֹתָהּ, **מֵעֵת הֱיוֹתָהּ** שֶׁגָּזַר הַקָּדוֹשׁ בָּרוּךְ הוּא לַהֲבִיאָהּ **שָׁם** הָיִיתִי. לוֹמֵד שֶׁמִּשְּׁעַת הַגְּזֵרָה הַקָּדוֹשׁ בָּרוּךְ הוּא מַעֲמִיד הַנָּבִיא שֶׁעָתִיד לְהִנָּבֵא עַל הַדָּבָר בְּסוֹף פַּמַלְיָא שֶׁל מַעְלָה, וְאַף עַל פִּי שֶׁעֲדַיִן אֵינוֹ נוֹצָר:
 
 
 **and now, the Lord God has sent me, and His spirit** [Jonathan paraphrases:] Said the prophet, “And now, the Lord God has sent me, and His word.” This is an intermingling of words. The one who said this did not say that [i.e., the first part of the verse was said by God, and the second part by the prophet]. And the Aggadic Midrash of Rabbi Tanhuma (Yithro 21) explains: Hearken to this—This alludes to Moses’ Torah, referred to as “This is the Torah.” In the beginning, I did not speak in secretat Sinai. And the prophet says, “From the time that thing was that, He says, I was there.” And we learned from here that all the prophets stood at Sinai. And now He sent me to prophesy to them. Even in this version there is an intermingling of words. “In the beginning I did not speak in secret,” was said by the Shechinah. “From the time it was, there was I,” was said by the prophet. It is possible to interpret it so that there should not be intermingling of words [as follows:] Draw near to me, hearken to this what I prophesy to you regarding the downfall of Babylon and your redemption. In the beginning I did not speak that in secret. From the time it was, that the Holy One, blessed be He, decreed to bring it, there I was. This teaches that from the time of the decree, the Holy One, blessed be He, appoints the prophet who is destined to prophesy regarding the matter in the council of the heavenly household, although it has not yet been created.
@@ -27170,7 +27170,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/49:22:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/49:22:1)
 
 
-**יָדִי... נִסִּי.** סִימָן לְהָבִיא גָּלִיּוֹת:
+**יָדִי… נִסִּי.** סִימָן לְהָבִיא גָּלִיּוֹת:
 
 
 **My hand...My standard** A signal to bring the exiles.
@@ -27234,7 +27234,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/49:26:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/49:26:1)
 
 
-**וְהַאֲכַלְתִּי אֶת מוֹנַיִךְ.** הַבַּבְלִיִּים לְחַיַּת הַשָּׂדֶה **אֶת בְּשָׂרָם**. **מוֹנַיִךְ** – לְשׁוֹן ״אַל תּוֹנוּ״ (ויקרא כה:יד), אוֹנָאַת דְּבָרִים, הַמְקַנְתְּרִים אוֹתָךְ בְּגִדּוּפֵיהֶם:
+**וְהַאֲכַלְתִּי אֶת מוֹנַיִךְ.** הַבַּבְלִיִּים לְחַיַּת הַשָּׂדֶה **אֶת בְּשָׂרָם.** **מוֹנַיִךְ** – לְשׁוֹן ״אַל תּוֹנוּ״ (ויקרא כה:יד), אוֹנָאַת דְּבָרִים, הַמְקַנְתְּרִים אוֹתָךְ בְּגִדּוּפֵיהֶם:
 
 
 **And those who taunt you I will feed** their flesh to the beasts of the field. The word מוֹנַיִךְ is an expression akin to (Lev. 25:14) “You shall not taunt (אַל תּוֹנוּ).” This denotes taunting with words, those who anger you with their revilings.
@@ -27684,7 +27684,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/51:6:5](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/51:6:5)
 
 
-**וִישׁוּעָתִי.** לְעַמִּי לְעוֹלָם תִּהְיֶה. דָּבָר אַחֵר: שָׁמַיִם וָאָרֶץ מַמָּשׁ, וְכֵן פִּתְרוֹנוֹ: **שְׂאוּ עֵינֵיכֶם וְהַבִּיטוּ** אֶל הַשָּׁמַיִם וְאֶל הָאָרֶץ וּרְאוּ כַּמָּה הֵם חֲזָקִים וּבְרִיאִים, וְאַף עַל פִּי כֵן יִבְלוּ, **וְצִדְקָתִי וִישׁוּעָתִי** יִהְיוּ **לְעוֹלָם**. הֲרֵי שֶׁצִּדְקָתִי בְּרִיאָה וַחֲזָקָה יוֹתֵר מֵהֶם:
+**וִישׁוּעָתִי.** לְעַמִּי לְעוֹלָם תִּהְיֶה. דָּבָר אַחֵר: שָׁמַיִם וָאָרֶץ מַמָּשׁ, וְכֵן פִּתְרוֹנוֹ: **שְׂאוּ עֵינֵיכֶם וְהַבִּיטוּ** אֶל הַשָּׁמַיִם וְאֶל הָאָרֶץ וּרְאוּ כַּמָּה הֵם חֲזָקִים וּבְרִיאִים, וְאַף עַל פִּי כֵן יִבְלוּ, **וְצִדְקָתִי וִישׁוּעָתִי** יִהְיוּ **לְעוֹלָם.** הֲרֵי שֶׁצִּדְקָתִי בְּרִיאָה וַחֲזָקָה יוֹתֵר מֵהֶם:
 
 
 **and My salvation** for My people shall be forever. Another explanation is: [It refers] actually [to] the heavens and the earth, and this is its explanation: Raise your eyes and look at the heaven and at the earth, and see how strong and sturdy they are, yet they shall rot away, but My righteousness and My salvation shall be forever. Hence, My righteousness is sturdier and stronger than they.
@@ -28017,7 +28017,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/51:21:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/51:21:1)
 
 
-**וּשְׁכֻרַת וְלֹא מִיָּיִן. שִׁכֻרֶת** מִדָּבָר אַחֵר שֶׁ**לֹּא מִיָּיִן**:
+**וּשְׁכֻרַת וְלֹא מִיָּיִן.** שְׁכֻרַת מִדָּבָר אַחֵר שֶׁ**לֹּא מִיָּיִן**:
 
 
 **and who is drunk but not from wine** Drunk from something else other than wine.
@@ -28270,7 +28270,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/52:11:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/52:11:1)
 
 
-**צְאוּ מִתּוֹכָהּ.** מִתּוֹךְ הַגָּלוּת, כָּל נֶחָמוֹת הָאֵלּוּ הָאַחֲרוֹנוֹת אֵינָן אֶלָּא עַל גָּלוּת הָאַחֲרוֹן:
+**טָמֵא אַל תִּגָּעוּ.** שֶׁקֶץ יִהְיוּ לָכֶם מִלִּגַּע בָּהֶם:
 
 
 **touch no unclean one** They shall be abominable to you to touch them.
@@ -28281,7 +28281,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/52:11:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/52:11:2)
 
 
-**טָמֵא אַל תִּגָּעוּ.** שֶׁקֶץ יִהְיוּ לָכֶם מִלִּגַּע בָּהֶם:
+**צְאוּ מִתּוֹכָהּ.** מִתּוֹךְ הַגָּלוּת, כָּל נֶחָמוֹת הָאֵלּוּ הָאַחֲרוֹנוֹת אֵינָן אֶלָּא עַל גָּלוּת הָאַחֲרוֹן:
 
 
 **get out of its midst** Out of the midst of the exile, for all these last consolations refer only to the last exile.
@@ -28689,7 +28689,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/53:10:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/53:10:1)
 
 
-**וַה' חָפֵץ דַּכְּאוֹ הֶחֱלִי.** הַקָּדוֹשׁ בָּרוּךְ הוּא חָפֵץ לְדַכְּאוֹ וּלְהַחֲזִירוֹ לְמוּטָב, לְפִיכָךְ הֶחֱלִי אוֹתוֹ:
+**וַה׳ חָפֵץ דַּכְּאוֹ הֶחֱלִי.** הַקָּדוֹשׁ בָּרוּךְ הוּא חָפֵץ לְדַכְּאוֹ וּלְהַחֲזִירוֹ לְמוּטָב, לְפִיכָךְ הֶחֱלִי אוֹתוֹ:
 
 
 **And the Lord wished to crush him, He made him ill** The Holy One, blessed be He, wished to crush him and to cause him to repent; therefore, he made him ill.
@@ -28956,7 +28956,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/54:11:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/54:11:1)
 
 
-**סֹעֲרָה.** שֶׁלִּבָּהּ סוֹעֵר בְּרוֹבֵי צָרוֹת:
+**סֹעֲרָה.** שֶׁלִּבָּהּ סוֹעֵר בְּרוּבֵּי צָרוֹת:
 
 
 **tempestuous one** whose heart storms with many troubles.
@@ -28992,7 +28992,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/54:12:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/54:12:2)
 
 
-**שִׁמְשֹׁתָיִךְ.** יוֹנָתָן תִּרְגֵּם ״אַעָךְ״, וּמְנַחֵם חִבְּרוֹ עִם ״יְשַׁמְּשׁוּנֵהּ״ (דניאל ז:י), וְיֵשׁ פּוֹתְרִין לְשׁוֹן ׳שֶׁמֶשׁ׳ – חַלּוֹנוֹת שֶׁחַמָּה זוֹרַחַת בָּהֶן, וְעוֹשִׂין כְּנֶגְדּוֹ מְחִיצָה בְּמִינֵי זְכוּכִית צְבָעִים לְנוֹי, וּמִדְרַשׁ תְּהִלִּים פּוֹתֵר ״שִׁמְשׁוֹתַיִךְ״ וְ״שֶׁמֶשׁ וּמָגֵן״ (תהלים פד:יב) שִׁנֵּי הַחוֹמָה:
+**שִׁמְשֹׁתַיִךְ.** יוֹנָתָן תִּרְגֵּם ״אַעָךְ״, וּמְנַחֵם חִבְּרוֹ עִם ״יְשַׁמְּשׁוּנֵהּ״ (דניאל ז:י), וְיֵשׁ פּוֹתְרִין לְשׁוֹן ׳שֶׁמֶשׁ׳ – חַלּוֹנוֹת שֶׁחַמָּה זוֹרַחַת בָּהֶן, וְעוֹשִׂין כְּנֶגְדּוֹ מְחִיצָה בְּמִינֵי זְכוּכִית צְבָעִים לְנוֹי, וּמִדְרַשׁ תְּהִלִּים פּוֹתֵר ״שִׁמְשׁוֹתַיִךְ״ וְ״שֶׁמֶשׁ וּמָגֵן״ (תהלים פד:יב) שִׁנֵּי הַחוֹמָה:
 
 
 **your windows** Jonathan renders: your woodwork, and Menahem associated it with (Dan. 7:10): “ministered to Him (יְשַׁמְּשׁוּנֵהּ).” (Menahem, apparently renders: your utensils, i.e., the vessels that serve you.) And some interpret it as an expression of a sun (שֶׁמֶשׁ), windows through which the sun shines, and they make opposite it a barrier of kinds of colored glass for beauty, and Midrash Psalms interprets שִׁמְשׁוֹתַיִךְ as well as שֶׁמֶשׁ וּמָגֵן (Ps. 84:12) as “the pinnacles of the wall.”
@@ -29039,7 +29039,7 @@ Heb. וְנִשְּׁתוּ, an expression like (Lam. 3:47): “The desolation (
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/54:14:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/54:14:2)
 
 
-(**רַחֲקִי מֵעֹשֶׁק.** תִּרְחֲקִי מִלַּעֲשׁוֹק בְּנֵי אָדָם כְּדֶרֶךְ שֶׁעוֹשִׂים רְשָׁעִים, שֶׁאוֹסְפִים מָמוֹן מִגָּזֵל, אֲבָל אַתֶּם לֹא תִצְטָרְכוּ לִגְזוֹל, כִּי לֹא תִירְאוּ מִדַּלּוּת וַעֲנִיּוּת, **וּמִמְּחִתָּה כִּי לֹא** תָבֹא וְ**לֹא תִקְרַב אֵלָיִךְ**. אברבנאל.)
+(**רַחֲקִי מֵעֹשֶׁק.** תִּרְחֲקִי מִלַּעֲשׁוֹק בְּנֵי אָדָם כְּדֶרֶךְ שֶׁעוֹשִׂים רְשָׁעִים, שֶׁאוֹסְפִים מָמוֹן מִגָּזֵל, אֲבָל אַתֶּם לֹא תִצְטָרְכוּ לִגְזוֹל, כִּי לֹא תִירְאוּ מִדַּלּוּת וַעֲנִיּוּת, **וּמִמְּחִתָּה כִּי לֹא** תָבֹא וְ**לֹא תִקְרַב אֵלָיִךְ.** אברבנאל.)
 
 
 Printed editions of Rashi contain the following addendum: (**go far away from oppression** You will stay far from oppressing other peoples in the manner the wicked do, that they accumulate money through robbery, but you will not need to rob, for you will not fear poverty or straits, or ruin, for it shall neither come nor shall it approach you. [Abarbanel])
@@ -29050,7 +29050,7 @@ Printed editions of Rashi contain the following addendum: (**go far away from op
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/54:14:3](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/54:14:3)
 
 
-(**בִּצְדָקָה.** שֶׁתַּעֲשֶׂה תִּהְיֶה נְכוֹנָה בִּגְאֻלַּת עוֹלָם, וְתִהְיֶה רְחוֹקָה מֵעֹשֶׁק בְּנֵי אָדָם כִּי לֹא תִירָאִי, אֲפִילּוּ פַּחַד וְיִרְאָה לֹא יִהְיֶה לָךְ מֵהֶם, וְתִהְיֶה רְחוֹקָה מִמְּחִתָּה שֶׁ**לֹּא תִקְרַב אֵלָיִךְ**. איל״ה שלוח״ה.)
+(**בִּצְדָקָה.** שֶׁתַּעֲשֶׂה תִּהְיֶה נְכוֹנָה בִּגְאֻלַּת עוֹלָם, וְתִהְיֶה רְחוֹקָה מֵעֹשֶׁק בְּנֵי אָדָם כִּי לֹא תִירָאִי, אֲפִילּוּ פַּחַד וְיִרְאָה לֹא יִהְיֶה לָךְ מֵהֶם, וְתִהְיֶה רְחוֹקָה מִמְּחִתָּה שֶׁ**לֹּא תִקְרַב אֵלָיִךְ.** איל״ה שלוח״ה.)
 
 
 (**With righteousness** that you will perform, you will be established with an everlasting redemption, and you will be far from people’s oppression for you will not fear; you will not even have terror or fear of them, and you will be far from ruin, for it will not come near you. [Ayalah Sheluchah])
@@ -29471,7 +29471,7 @@ Printed editions of Rashi contain the following addendum: (**go far away from op
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/56:9:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/56:9:1)
 
 
-**כֹּל חַיְתוֹ שָׂדָי.** כָּל גֵּרֵי הָאֻמּוֹת, **אֵתָיוּ** וְהִתְקָרְבוּ אֵלַי, וְתֹאכְלוּ אֶת **כָּל חַיְתוֹ בַּיַּעַר**, אֶת גִּבּוֹרֵי הָאֻמּוֹת שֶׁאִמְּצוּ אֶת לִבָּם מִלְּהִתְגַּיֵּר:
+**כֹּל חַיְתוֹ שָׂדָי.** כָּל גֵּרֵי הָאֻמּוֹת, **אֵתָיוּ** וְהִתְקָרְבוּ אֵלַי, וְתֹאכְלוּ אֶת **כָּל חַיְתוֹ בַּיָּעַר**, אֶת גִּבּוֹרֵי הָאֻמּוֹת שֶׁאִמְּצוּ אֶת לִבָּם מִלְּהִתְגַּיֵּר:
 
 
 **All the beasts of the field** All the proselytes of the heathens ([Mss. and K’li Paz:] All the nations) come and draw near to Me, and you shall devour all the beasts in the forest, the mighty of the heathens ([Mss. and K’li Paz:] the mighty of the nations) who hardened their heart and refrained from converting.
@@ -29917,7 +29917,7 @@ Printed editions of Rashi contain the following addendum: (**go far away from op
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/57:9:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/57:9:2)
 
 
-**וַתְּשַׁלְּחִי צִירָיִךְ.** שְׁלוּחַיִךְ לְ**מֵרָחוֹק**, לִגְבּוֹת מַס מִמַּלְכֵי הָאֻמּוֹת:
+**וַתְּשַׁלְּחִי צִרַיִךְ.** שְׁלוּחַיִךְ לְ**מֵרָחוֹק**, לִגְבּוֹת מַס מִמַּלְכֵי הָאֻמּוֹת:
 
 
 **and you sent your ambassadors** Your messenger afar to collect tribute from the heathen kings. ([Manuscripts and K’li Paz read:] the kings of the nations.)
@@ -30161,7 +30161,7 @@ Printed editions of Rashi contain the following addendum: (**go far away from op
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/57:17:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/57:17:2)
 
 
-**קָצַפְתִּי.** תְּחִלָּה **וְאַכֵּהוּ, הַסְתֵּר** פָּנַי תָּמִיד מִצָּרָתוֹ, **וְאֶקְצֹף**, וְעַל כִּי הוֹלֵךְ **שׁוֹבָב בְּדֶרֶךְ לִבּוֹ**. וְסָרֵס אֶת הַמִּקְרָא וְכֵן פֵּרוּשׁוֹ: **בַּעֲוֺן בִּצְעוֹ וַיֵּלֶךְ שׁוֹבָב בְּדַרְכֵי לִבּוֹ קָצַפְתִּי וְאַכֵּהוּ**:
+**קָצַפְתִּי.** תְּחִלָּה **וְאַכֵּהוּ, הַסְתֵּר** פָּנַי תָּמִיד מִצָּרָתוֹ, **וְאֶקְצֹף**, וְעַל כִּי הוֹלֵךְ **שׁוֹבָב בְּדֶרֶךְ לִבּוֹ.** וְסָרֵס אֶת הַמִּקְרָא וְכֵן פֵּרוּשׁוֹ: **בַּעֲוֺן בִּצְעוֹ וַיֵּלֶךְ שׁוֹבָב בְּדַרְכֵי לִבּוֹ קָצַפְתִּי וְאַכֵּהוּ**:
 
 
 **I became wroth** at the beginning and I smote him, always hiding My face from his distress and I was wroth for he went rebelliously in the way of his heart. Transpose the verse and explain it thus: For the iniquity of his thievery and the fact that he went rebelliously in the way of his heart, I became wroth and smote him.
@@ -30742,7 +30742,7 @@ Printed editions of Rashi contain the following addendum: (**go far away from op
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/59:10:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/59:10:1)
 
 
-**בָּאַשְׁמַנִּים.** מְנַחֵם פָּתַר לְשׁוֹן ׳מַחֲשַׁכִּים׳, וְרֹב הַפּוֹתְרִים מוֹדִים לוֹ. אֲבָל דּוּנַשׁ פָּתַר בּוֹ לְשׁוֹן ׳שׁוּמָן׳, וְהָאָלֶ״ף נוֹסָף בּוֹ, כְּמוֹ אָלֶ״ף שֶׁבְּ״אַחֲוָתִי״ (איוב יג:יז), וְשֶׁבְּ״אַכְזָב״ (ירמיה טו:יח), וְ״דֶרֶךְ הָאֲתָרִים״ (במדבר כא:א). אַף כָּאן בֵּין הָאַשְׁמַנִּים בֵּין הַחַיִּים הַשְּׁמֵנִים אֲנַחְנוּ **כַּמֵּתִים**. וְיוֹנָתָן תִּרְגֵּם לְשׁוֹן ׳מַסְגֵּר׳: ״אִיתַאֲחַד בְּאַפְנָא כְּמָה דַאֲחִידִין קִבְרַיָּא בְּאַפֵּי מֵיתַיָּא״:
+**בָּאַשְׁמַנִּים.** מְנַחֵם פָּתַר לְשׁוֹן ׳מַחֲשַׁכִּים׳, וְרֹב הַפּוֹתְרִים מוֹדִים לוֹ. אֲבָל דּוּנַשׁ פָּתַר בּוֹ לְשׁוֹן ׳שׁוּמָן׳, וְהָאָלֶ״ף נוֹסָף בּוֹ, כְּמוֹ אָלֶ״ף שֶׁבְּ״אַחֲוָתִי״ (איוב יג:יז), וְשֶׁבְּ״אַכְזָב״ (ירמיה טו:יח), וְ״דֶרֶךְ הָאֲתָרִים״ (במדבר כא:א). אַף כָּאן בֵּין הָאַשְׁמַנִּים בֵּין הַחַיִּים הַשְּׁמֵנִים אֲנַחְנוּ **כַּמֵּתִים.** וְיוֹנָתָן תִּרְגֵּם לְשׁוֹן ׳מַסְגֵּר׳: ״אִיתַאֲחַד בְּאַפְנָא כְּמָה דַאֲחִידִין קִבְרַיָּא בְּאַפֵּי מֵיתַיָּא״:
 
 
 **in dark places** Heb. בָּאַשְׁמַנִּים. Menahem (Machbereth, p. 35) interpreted it as an expression of dark places, and most exegetes concur with him. Dunash, however, (Tesuhvoth Dunash, p. 93) interprets it as an expression of fat (שׁוּמָן), with the ‘alef’ prefixed to it like the ‘alef’ that is in (Job 13:17) אַחְוָתִי, “my narrative,” [derived from חוה]; and that is in (Jer. 15:18) אַכְזָב, “a failure,” (derived from כזב ; and (Num. 21:1) “the way of the spies (הָאֲתָרִים),” [derived from תור]. Here, too, among the שְׁמֵנִים, among the lusty living, we are like dead. And Jonathan rendered it as an expression of locking: It is locked before us as the graves are locked before the dead.
@@ -30781,7 +30781,7 @@ Printed editions of Rashi contain the following addendum: (**go far away from op
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/59:13:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/59:13:2)
 
 
-**הֹרוֹ וְהֹגוֹ.** לִירוֹת וּלְהוֹצִיא. **הֹרוֹ** לְשׁוֹן ״יָרָה בַיָּם״ (שמות טו:ד). דָּבָר אַחֵר: **הֹרוֹ וְהֹגוֹ** – הָרַב וְהַתַּלְמִיד שֵׁם הַמָּקוֹר (סא"א), **וְהֹגוֹ** כְּמוֹ ״כַּאֲשֶׁר הֹגָה מִן הַמְּסִלָּה״ (שמואל ב כ:יג), ״הָגוֹ סִיגִים מִכָּסֶף״ (משלי כה:ד):
+**הֹרוֹ וְהֹגוֹ.** לִירוֹת וּלְהוֹצִיא. **הֹרוֹ** לְשׁוֹן ״יָרָה בַיָּם״ (שמות טו:ד). דָּבָר אַחֵר: **הֹרוֹ וְהֹגוֹ** – הָרַב וְהַתַּלְמִיד שֵׁם הַמָּקוֹר (סא״א), **וְהֹגוֹ** כְּמוֹ ״כַּאֲשֶׁר הֹגָה מִן הַמְּסִלָּה״ (שמואל ב כ:יג), ״הָגוֹ סִיגִים מִכָּסֶף״ (משלי כה:ד):
 
 
 **sprouting and giving forth** Heb. הֹרוֹ וְהֹגוֹ to shoot and to give forth. הֹרוֹ is an expression of (Ex. 15:4) “He shot (יָרָה) into the sea.” (Another explanation: הֹרוֹ means: the teacher and the disciple, a gerund.) הֹגוֹ is an expression of (II Sam. 20:13) “When he was removed (הֹגָה) from the highway”; (Prov. 25:4) “Take away (הָגוֹ) the dross from the silver.”
@@ -30795,7 +30795,7 @@ Printed editions of Rashi contain the following addendum: (**go far away from op
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/59:14:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/59:14:1)
 
 
-**וְהֻסַּג אָחוֹר מִשְׁפָּט.** נִקְמָתֵנוּ מֵאוֹיְבֵינוּ, שֶׁהִיא תְּלוּיָה בְּהַקָּדוֹשׁ בָּרוּךְ הוּא, וְצִדְקָתוֹ עוֹמֶדֶת **מֵרָחוֹק**. לָמָּה? **כִּי כָשְׁלָה אֱמֶת** בִּרְחוֹבוֹתֵינוּ, וְכֵיוָן שֶׁהָ**אֱמֶת כָּשְׁלָה** מֵאֶרֶץ, אַף מִשָּׁמַיִם אֵין הַצֶּדֶק וְהַמִּשְׁפָּט בָּאִין:
+**וְהֻסַּג אָחוֹר מִשְׁפָּט.** נִקְמָתֵנוּ מֵאוֹיְבֵינוּ, שֶׁהִיא תְּלוּיָה בְּהַקָּדוֹשׁ בָּרוּךְ הוּא, וְצִדְקָתוֹ עוֹמֶדֶת **מֵרָחוֹק.** לָמָּה? **כִּי כָשְׁלָה אֱמֶת** בִּרְחוֹבוֹתֵינוּ, וְכֵיוָן שֶׁהָ**אֱמֶת כָּשְׁלָה** מֵאֶרֶץ, אַף מִשָּׁמַיִם אֵין הַצֶּדֶק וְהַמִּשְׁפָּט בָּאִין:
 
 
 **And justice has turned away backwards** Our revenge from our enemies, which depends upon the Holy One, blessed be He, and His righteousness stands from afar. Why? For truth has stumbled in our streets, [and since truth has stumbled from the earth, even from heaven righteousness and justice do not come.]
@@ -30867,7 +30867,7 @@ Printed editions of Rashi contain the following addendum: (**go far away from op
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/59:16:4](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/59:16:4)
 
 
-**וְצִדְקָתוֹ... סְמָכָתְהוּ.** הִיא לְהַשִּׂיאוֹ וּלְאַמֵּץ יָדָיו בְּנִקְמָתוֹ, וְאַף עַל פִּי שֶׁאֵין אֲנַחְנוּ הֲגוּנִים לְהוֹשִׁיעַ:
+**וְצִדְקָתוֹ… סְמָכָתְהוּ.** הִיא לְהַשִּׂיאוֹ וּלְאַמֵּץ יָדָיו בְּנִקְמָתוֹ, וְאַף עַל פִּי שֶׁאֵין אֲנַחְנוּ הֲגוּנִים לְהוֹשִׁיעַ:
 
 
 **and His righteousness, that supported Him** to entice Him and to strengthen His hands in His revenge, although we are not worthy of being saved.
@@ -31402,7 +31402,7 @@ Printed editions of Rashi contain the following addendum: (**go far away from op
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/61:7:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/61:7:1)
 
 
-**תַּחַת בָּשְׁתְּכֶם.** שֶׁהָיָה **מִשְׁנֶה**, אַף הֵם **כְלִמָּה יָרֹנּוּ** תָּמִיד **חֶלְקָם**. כְּלוֹמַר: **תַּחַת** אֲשֶׁר עַד הֵנָּה תָּמִיד עַמִּי הָיוּ רוֹנְנִים **כְלִמָּה חֶלְקָם**. יֵשׁ רִנָּה שֶׁהוּא אֵבֶל, כְּמוֹ (איכה ב:יט) ״קוּמִי רֹנִּי בַלַּיְלָה״, וּכְמוֹ (מלכים א כב:לו) ״וַתַּעֲבֹר הָרִנָּה״ דְּאַחְאָב:
+**תַּחַת בָּשְׁתְּכֶם.** שֶׁהָיָה **מִשְׁנֶה**, אַף הֵם **כְלִמָּה יָרֹנּוּ** תָּמִיד **חֶלְקָם.** כְּלוֹמַר: **תַּחַת** אֲשֶׁר עַד הֵנָּה תָּמִיד עַמִּי הָיוּ רוֹנְנִים **כְלִמָּה חֶלְקָם.** יֵשׁ רִנָּה שֶׁהוּא אֵבֶל, כְּמוֹ (איכה ב:יט) ״קוּמִי רֹנִּי בַלַּיְלָה״, וּכְמוֹ (מלכים א כב:לו) ״וַתַּעֲבֹר הָרִנָּה״ דְּאַחְאָב:
 
 
 **Instead of your shame** which was twofold, even they would constantly bemoan their disgrace as their lot. That is to say that instead of until now My people were constantly bemoaning disgrace, their lot... There are instances of רִנָּה that is an expression of mourning. Comp. (Lam. 2:19) “Rise, cry (רֹנִּי) at night,” and comp. (I Kings 22:36) “A cry (הָרִנָּה) passed through the camp,” concerning Ahab’s death.
@@ -31427,7 +31427,7 @@ Printed editions of Rashi contain the following addendum: (**go far away from op
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/61:8:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/61:8:2)
 
 
-**וְנָתַתִּי פְעֻלָּתָם.** שֶׁל יִשְׂרָאֵל שֶׁתְּהֵא **בֶּאֱמֶת**. אוֹ **וְנָתַתִּי פְעֻלָּתָם** שֶׁפָּעֲלוּ, שָׂכָר שֶׁסָּבְלוּ גִּדּוּפֵי הָעוֹבְדֵי כּוֹכָבִים וּמָזָלוֹת, הַשָּׂרִים וְהַשָּׂרוֹת עַל כְּבוֹדִי **בֶּאֱמֶת**:
+**וְנָתַתִּי פְעֻלָּתָם.** שֶׁל יִשְׂרָאֵל שֶׁתְּהֵא **בֶּאֱמֶת.** אוֹ **וְנָתַתִּי פְעֻלָּתָם** שֶׁפָּעֲלוּ, שָׂכָר שֶׁסָּבְלוּ גִּדּוּפֵי הָעוֹבְדֵי כּוֹכָבִים וּמָזָלוֹת, הַשָּׂרִים וְהַשָּׂרוֹת עַל כְּבוֹדִי **בֶּאֱמֶת**:
 
 
 **and I will give their wage** The wage of Israel, which shall be in truth. Alternatively, I will give the reward for the deeds they performed, for they suffered the derisions of the heathens (the nations [Mss. and K’li Paz]) for My honor in truth.
@@ -32224,7 +32224,7 @@ Printed editions of Rashi contain the following addendum: (**go far away from op
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/64:2:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/64:2:2)
 
 
-**יָרַדְתָּ.** לְהַר סִינַי, אָז **מִפָּנֶיךָ הָרִים נָזֹלּוּ**. כָּךְ פֵּרֵשׁ דּוֹנַשׁ בֶּן לַבְרַט:
+**יָרַדְתָּ.** לְהַר סִינַי, אָז **מִפָּנֶיךָ הָרִים נָזֹלּוּ.** כָּךְ פֵּרֵשׁ דּוֹנַשׁ בֶּן לַבְרַט:
 
 
 **You descended** to Mount Sinai, then mountains dripped from before You. In this manner, Dunash son of Labrat explained it.
@@ -32241,7 +32241,7 @@ Printed editions of Rashi contain the following addendum: (**go far away from op
 **וּמֵעוֹלָם לֹא שָׁמְעוּ.** כְּאוֹתָן נוֹרָאוֹת שֶׁנַּעֲשׂוֹת לְאַחַת מִכָּל הָעוֹבְדֵי כּוֹכָבִים וּמַזָּלוֹת לְפָנֵי כֵּן, וְגַם **עַיִן לֹא רָאָתָה אֱלֹהִים** אַחֵר **זוּלָתְךָ** אֲשֶׁר **יַעֲשֶׂה** הָאֱלֹהִים **לִמְחַכֵּה לוֹ.** מַה שֶּׁעָשִׂיתָ אַתָּה לִמְחַכֵּה לְךָ. כָּךְ שָׁמַעְתִּי מֵרַבִּי יוֹסֵי וְהַנָּאַנִי. אֲבָל רַבּוֹתֵינוּ שֶׁאָמְרוּ (ברכות לד א): ״כָּל הַנְּבִיאִים כֻּלָּם לֹא נִתְנַבְּאוּ אֶלָּא לִימוֹת הַמָּשִׁיחַ, אֲבָל לָעוֹלָם הַבָּא עַיִן לֹא רָאָתָה וְגוֹ׳״ – מַשְׁמָעוֹ: **עַיִן** שׁוּם נָבִיא **לֹא רָאָתָה** אֶת אֲשֶׁר יַעֲשֶׂה הַקָּדוֹשׁ בָּרוּךְ הוּא לִמְחַכֵּה לוֹ זוּלָתִי עֵינֶיךָ, אַתָּה אֱלֹהִים:
 
 
-**And whereof no one had ever heard** like those awesome deeds performed for one of all the nations before that, and no eye had ever seen another god besides You, that the god would do for him who hoped for him what You did for him who hoped for You. I heard this from Rabbi Jose, and it pleased me. ([Manuscripts yield:] **And whereof no one had ever heard** like those awesome deeds performed for one of all the nations before that, neither had an eye seen God, besides your eyes, what He would do for one who hoped for Him. Another explanation is: **No eye had seen** that a god besides You should perform miracles for him who hoped for him, as You do for those who hope for You. From Rabbi Joseph I heard this. Our Rabbis, however, who stated (Ber. 34a): “None of the prophets prophesied except regarding the Messianic era, but the World to Come, ‘no eye saw etc.,’” expounded its meaning in the following manner: No prophet’s eye saw what the Holy One, blessed be He, will do for him who hopes for Him except Your eyes, You, O God.
+**And whereof no one had ever heard** like those awesome deeds performed for one of all the nations before that, and no eye had ever seen another god besides You, that the god would do for him who hoped for him what You did for him who hoped for You. I heard this from Rabbi Jose, and it pleased me. ([Manuscripts yield:] **And whereof no one had ever heard** like those awesome deeds performed for one of all the nations before that, neither had an eye seen God, besides your eyes, what He would do for one who hoped for Him. Another explanation is: **No eye had seen** that a god besides You should perform miracles for him who hoped for him, as You do for those who hope for You. From Rabbi Joseph I heard this. Our Rabbis, however, who stated (Ber. 34b): “None of the prophets prophesied except regarding the Messianic era, but the World to Come, ‘no eye saw etc.,’” expounded its meaning in the following manner: No prophet’s eye saw what the Holy One, blessed be He, will do for him who hopes for Him except Your eyes, You, O God.
 
 
 
@@ -32874,7 +32874,7 @@ Printed editions of Rashi contain the following addendum: (**go far away from op
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/66:2:1](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/66:2:1)
 
 
-**וְאֶת כָּל אֵלֶּה.** הַשָּׁמַיִם וְהָאָרֶץ **יָדִי עָשָׂתָה**, זֹאת אֲשֶׁר צִמְצַמְתִּי שְׁכִינָתִי בְּתוֹכְכֶם בִּהְיוֹתְכֶם נִשְׁמָעִים לִי, לְפִי שֶׁכֵּן דַּרְכִּי לְהַבִּיט **אֶל עָנִי וּנְכֵה רוּחַ וְחָרֵד עַל דְּבָרִי**. אֲבָל עַתָּה אֵין לִי חֵפֶץ בָּכֶם, שֶׁהֲרֵי **שׁוֹחֵט הַשּׁוֹר** הִכָּה אֶת בְּעָלָיו וּגְזָלוֹ מִמֶּנּוּ, לְפִיכָךְ **זוֹבֵחַ הַשֶּׂה** דּוֹמֶה לְפָנַי כְּ**עוֹרֵף** אֶת הַ**כֶּלֶב**, וְהַ**מַּעֲלֶה** אֶת הַ**מִּנְחָה** הֲרֵי הוּא לְפָנַי כְּ**דַם חֲזִיר**, וְהַ**מַּזְכִּיר לְבוֹנָה** מַקְטִיר לְבוֹנָה, כְּמוֹ ״אַזְכָּרָתָהּ״ (ויקרא ה:יב), ״וְהָיְתָה לַלֶּחֶם לְאַזְכָּרָה״ (ויקרא כד:ז):
+**וְאֶת כָּל אֵלֶּה.** הַשָּׁמַיִם וְהָאָרֶץ **יָדִי עָשָׂתָה**, זֹאת אֲשֶׁר צִמְצַמְתִּי שְׁכִינָתִי בְּתוֹכְכֶם בִּהְיוֹתְכֶם נִשְׁמָעִים לִי, לְפִי שֶׁכֵּן דַּרְכִּי לְהַבִּיט **אֶל עָנִי וּנְכֵה רוּחַ וְחָרֵד עַל דְּבָרִי.** אֲבָל עַתָּה אֵין לִי חֵפֶץ בָּכֶם, שֶׁהֲרֵי **שׁוֹחֵט הַשּׁוֹר** הִכָּה אֶת בְּעָלָיו וּגְזָלוֹ מִמֶּנּוּ, לְפִיכָךְ **זוֹבֵחַ הַשֶּׂה** דּוֹמֶה לְפָנַי כְּ**עוֹרֵף** אֶת הַ**כֶּלֶב**, וְהַ**מַּעֲלֶה** אֶת הַ**מִּנְחָה** הֲרֵי הוּא לְפָנַי כְּ**דַם חֲזִיר**, וְהַ**מַּזְכִּיר לְבוֹנָה** מַקְטִיר לְבוֹנָה, כְּמוֹ ״אַזְכָּרָתָהּ״ (ויקרא ה:יב), ״וְהָיְתָה לַלֶּחֶם לְאַזְכָּרָה״ (ויקרא כד:ז):
 
 
 **And all these** The heavens and the earth, and for this reason I confined My Shechinah among you when you obeyed Me, for so is My wont, to look at one poor and of crushed spirit, who hastens to do My bidding. But now, I have no desire for you, for whoever slaughters an ox, has smitten its owner and robbed him of it. Therefore, whoever slaughters a lamb seems to Me as one who beheads a dog, and whoever offers up a meal offering is before Me like swine blood, and מַזְכִּיר, he who burns incense. Comp. (Lev. 5:12) “its memorial part (אַזְכָּרָתָהּ).” Also (ibid. 24:7), “and it shall be for the bread as a memorial (לְאַזְכָּרָה).”
@@ -32899,7 +32899,7 @@ Printed editions of Rashi contain the following addendum: (**go far away from op
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/66:3:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/66:3:2)
 
 
-**גַּם הֵמָּה בָּחֲרוּ בְדַרְכֵיהֶם.** הֵם חֲפֵצִים בַּדְּרָכִים הַלָּלוּ הָרָעִים, וְ**גַם אֲנִי אֶבְחַר** וְאֶחְפּוֹץ **בְּתַעֲלֻלֵיהֶם**. וְאִם תֹּאמַר מַהוּ **גַּם**? כֵּן דֶּרֶךְ לְשׁוֹן עִבְרִי לוֹמַר שְׁנֵי גַמִּין זֶה אֵצֶל זֶה, כְּמוֹ ״גַּם בָּחוּר גַּם בְּתוּלָה״ (דברים לב:כה), ״גַּם לִי גַּם לָךְ״ (מלכים א ג:כו), ״גַּם אַהֲבָה גַּם שִׂנְאָה״ (קהלת ט:א), ״וְלֹא יָמוּתוּ גַּם הֵם גַּם אַתֶּם״ (במדבר יח:ג). אַף כָּאן – גַּם הֵם בָּחֲרוּ וְ**גַם אֲנִי אֶבְחַר**:
+**גַּם הֵמָּה בָּחֲרוּ בְדַרְכֵיהֶם.** הֵם חֲפֵצִים בַּדְּרָכִים הַלָּלוּ הָרָעִים, וְ**גַם אֲנִי אֶבְחַר** וְאֶחְפּוֹץ **בְּתַעֲלֻלֵיהֶם.** וְאִם תֹּאמַר מַהוּ **גַּם**? כֵּן דֶּרֶךְ לְשׁוֹן עִבְרִי לוֹמַר שְׁנֵי גַמִּין זֶה אֵצֶל זֶה, כְּמוֹ ״גַּם בָּחוּר גַּם בְּתוּלָה״ (דברים לב:כה), ״גַּם לִי גַּם לָךְ״ (מלכים א ג:כו), ״גַּם אַהֲבָה גַּם שִׂנְאָה״ (קהלת ט:א), ״וְלֹא יָמוּתוּ גַּם הֵם גַּם אַתֶּם״ (במדבר יח:ג). אַף כָּאן – גַּם הֵם בָּחֲרוּ וְ**גַם אֲנִי אֶבְחַר**:
 
 
 **they, too, chose their ways** They desire these evil ways, and I, too, will choose and desire their mockeries. Now if you ask the meaning of גַּם, too, so is the style of the Hebrew language to say twice גַּם one next to the other. Comp. (Deut. 32:25) “Both a young man and a virgin (גַּם בָּחוּר גַּם בְּתוּלָה)”; (I Kings 3:26) “neither mine nor yours (גַּם לִי גַּם לָךְ)”; (Ecc. 9:1) “neither love nor hate (גַּם אַהֲבָה גַּם שִׂנְאָה)”; (Num. 18:3) “and neither they nor you shall die (גַּם הֵם גַּם אַתֶּם).” Here, too, both they chose and I will choose.
@@ -33018,7 +33018,7 @@ Printed editions of Rashi contain the following addendum: (**go far away from op
 [https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/66:7:2](https://torahapp.org/share/book/Rashi%20on%20Isaiah/r/66:7:2)
 
 
-**וְהִמְלִיטָה זָכָר.** כָּל יְצִיאַת דָּבָר בָּלוּעַ קָרוּי דהַמְלָטָהד, **וְהִמְלִיטָה** אישקמוציי״ר בלע״ז:
+**וְהִמְלִיטָה זָכָר.** כָּל יְצִיאַת דָּבָר בָּלוּעַ קָרוּי הַמְלָטָה, **וְהִמְלִיטָה** אישקמוציי״ר בלע״ז:
 
 
 **she has been delivered of a male child** Heb. וְהִמְלִיטָה. Any emerging of an embedded thing is called הַמְלָטָה. And הַמְלָטָה is esmoucer, or eschamocier in O.F., to allow to escape.

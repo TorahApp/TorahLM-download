@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Vienna, 1821 (Segments: 10260, License: Public Domain)
 
-Version (En): Publicado em 5784, Saymon Pires da Silva [pt] (Segments: 11)
+Version (En): Sefaria Community Translation (Segments: 11)
 
 
 ## Genesis
@@ -76085,7 +76085,7 @@ $אש, וטעם שלא אמר קטורת זרה, כמו לא תעלו עליו �
 [https://torahapp.org/share/book/Reggio%20on%20Torah/s/Deuteronomy/r/22:15:1](https://torahapp.org/share/book/Reggio%20on%20Torah/s/Deuteronomy/r/22:15:1)
 
 
-**ולקח אבי הנערה ואמה,** כי זנות הבת תחל כבוד אבותיה בעבור שלא השגיחו עלילה ולא למדוה מוסר נשים, ויתכן שהשעור אביה או אמה, ואם היא יתומה יוציאה ממונה ב"ד:
+**ולקח אבי הנערה ואמה,** כי זנות הבת תחל כבוד אבותיה בעבור שלא השגיחו עליה ולא למדוה מוסר נשים, ויתכן שהשעור אביה או אמה, ואם היא יתומה יוציאה ממונה ב"ד:
 
 
 ###### Reggio on Torah, Deuteronomy 22:15:2
@@ -76261,7 +76261,7 @@ $אש, וטעם שלא אמר קטורת זרה, כמו לא תעלו עליו �
 [https://torahapp.org/share/book/Reggio%20on%20Torah/s/Deuteronomy/r/22:25:2](https://torahapp.org/share/book/Reggio%20on%20Torah/s/Deuteronomy/r/22:25:2)
 
 
-**כי כאשר יקום,** כאדם העומד על חבירו להרגו, שאין ספק שלא היה ברצוץ הנהרג:
+**כי כאשר יקום,** כאדם העומד על חבירו להרגו, שאין ספק שלא היה ברצון הנהרג:
 
 
 ###### Reggio on Torah, Deuteronomy 22:27:1

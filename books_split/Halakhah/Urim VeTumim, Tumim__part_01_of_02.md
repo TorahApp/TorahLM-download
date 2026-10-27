@@ -14,7 +14,7 @@ Location: Halakhah/Shulchan Arukh/Commentary/Urim VeTumim
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Urim veTumim, Warsaw 1881, Vol 2 (Segments: 1625, License: Public Domain)
+Version (He): Urim veTumim, Warsaw 1881, Vol 1 (Segments: 1625, License: Public Domain)
 
 # Urim VeTumim, Tumim — part 1 of 2
 

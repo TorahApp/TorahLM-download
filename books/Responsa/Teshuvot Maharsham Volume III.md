@@ -4,13 +4,13 @@
 
 Link: [https://torahapp.org/share/book/Teshuvot%20Maharsham%20Volume%20III](https://torahapp.org/share/book/Teshuvot%20Maharsham%20Volume%20III)
 
-תשובות ופסיקות הלכה שנתנו רבנים בתגובה לשאלות שקיבלו, אשר מעידות על יישום ההלכה בחיי היום־יום.
+רבנים ופוסקי הלכה שחיו בתקופה שהחלה במאה ה-16 ונמשכה עד המאה ה-20. תשובותיהם מתמקדות בעיקר בסוגיות הלכתיות.
 
-Answers and decisions written by rabbinic leaders in response to questions, demonstrating the application of Jewish law to actual cases.
+“The later ones” - leading rabbis and legal authorities who lived  in the 16th through 20th centuries, whose responsa overwhelmingly focus on legal issues.
 
 Sections: Siman-Paragraph
 
-Location: Responsa
+Location: Responsa/Acharonim
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 

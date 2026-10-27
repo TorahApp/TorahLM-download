@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Apei Ravrevei: Shulchan Aruch Even HaEzer, Lemberg, 1886 (Segments: 1988)
 
-Version (En): Wikisource Shulchan Aruch (Segments: 1961)
+Version (En): Hupah veKiddushin, trans. by Norman T. Roman. HUC, 1975 (Segments: 1961)
 
 
 ## Siman 1
@@ -2968,7 +2968,7 @@ If they told her, your husband died and she remarried, and then they told her, h
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Even%20HaEzer/r/17:58](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Even%20HaEzer/r/17:58)
 
 
-אם לא נשאת לשני אלא נתקדשה לבד ובא בעלה אינה צריכה גט מהשני ומותרת לחזור לראשון וכן מותרת לשני אם מת הראשון או גירשה: הגה אשה שנתקדשה וטעתה וסברה שלא נתקדשה ונשאת לאחר תצא מזה ומזה וכל הדרכים הנ"ל בה אבל אנסוה להנשא או שהורו לה ב"ד בטעות ונשאת על פיהם הוי כאנוסה ומותרת לבעלה הראשון (תשובת רשב"א אלף קפ"ח הובא בב"י):
+אם לא נשאת לשני אלא נתקדשה לבד ובא בעלה אינה צריכה גט מהשני ומותרת לחזור לראשון וכן מותרת לשני אם מת הראשון או גירשה: הגה אשה שנתקדשה וטעתה וסברה שלא נתקדשה ונשאת לאחר תצא מזה ומזה וכל הדרכים הנ"ל בה אבל אנסוה להנשא או שהורו לה ב"ד בטעות ונשאת על פיהם הוי כאנוסה ומותרת לבעלה הראשון (תשובת רשב"א אלף קפ"ט הובא בב"י):
 
 
 If she did not marry a second man but was merely engaged and then her husband returns, she does not need a Get from the second man and she can return to her husband. She would be permitted to the second man in the event her husband dies or divorces her [Rema: A woman who was engaged and mistakenly thought she was not engaged and married another man, she must leave both men and all laws stated above apply to her. But if they forced her to get married or if the courts ruled in error and she married on their word, it is as if she was raped and she is still permitted to her first husband (The Rashbah's commentary brought by the Beit Yosef)].
@@ -3094,7 +3094,7 @@ It is permitted for a man to look at his wife, even if she is menstrually impure
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Even%20HaEzer/r/21:5](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Even%20HaEzer/r/21:5)
 
 
-אסור להשתמש באשה כלל בין גדולה בין קטנה בין שפחה בין משוחררת שמא יבא לידי הרהור עבירה באיזה שמוש אמרו ברחיצת פניו ידיו ורגליו אפי' ליצוק לו מים לרחוץ פניו ידיו ורגליו אפילו אינה נוגעת בו והצעת המטה בפניו ומזיגת הכוס: הגה וי"א דה"ה באכילה עמה בקערה נמי אסור בכל ערוה כמו באשתו נדה (בנימין זאב סימן קמ"ג) ויש מקילין בכל אלו דלא אסרו דברים של חבה אלא באשתו נדה (רשב"א אלף קמ"ח) וי"א דכל זה אינו אסור רק במקום ייחוד אבל במקום שרוב בני אדם מצויים כגון במרחץ מותר לרחוץ מכותית שפחות וכן נוהגים (מרדכי פ' אע"פ בשם הר"ש בר ברוך וי"א דכל שאינו עושה דרך חבה רק כוונתו לשם שמים מותר לכן נהגו להקל בדברים אלו (תוספות סוף קדושין) י"א דאין לנהוג אפילו עם אשתו בדברים של חבה כגון לעיין ברישיה אם יש לו כנים בפני אחרים (נ"י פרק חזקת הבתים):
+אסור להשתמש באשה כלל בין גדולה בין קטנה בין שפחה בין משוחררת שמא יבא לידי הרהור עבירה באיזה שמוש אמרו ברחיצת פניו ידיו ורגליו אפי' ליצוק לו מים לרחוץ פניו ידיו ורגליו אפילו אינה נוגעת בו והצעת המטה בפניו ומזיגת הכוס: הגה וי"א דה"ה באכילה עמה בקערה נמי אסור בכל ערוה כמו באשתו נדה (בנימין זאב סימן קמ"ג) ויש מקילין בכל אלו דלא אסרו דברים של חבה אלא באשתו נדה (רשב"א אלף קמ"ח) וי"א דכל זה אינו אסור רק במקום ייחוד אבל במקום שרוב בני אדם מצויים כגון במרחץ מותר לרחוץ מכותית שפחות וכן נוהגים (מרדכי פ' אע"פ בשם הר"ש בר ברוך) וי"א דכל שאינו עושה דרך חבה רק כוונתו לשם שמים מותר לכן נהגו להקל בדברים אלו (תוספות סוף קדושין) י"א דאין לנהוג אפילו עם אשתו בדברים של חבה כגון לעיין ברישיה אם יש לו כנים בפני אחרים (נ"י פרק חזקת הבתים):
 
 
 It is forbidden to be served by a woman at all, whether she is an adult or a minor, whether a slave or free, lest he come to have forbidden thoughts. What service were they speaking of? Washing his face, hands, and feet, even to pour water so he can wash his face, hands, and feet, even if she does not touch him; or making his bed in front of him; or pouring a drink. Rem"a: Some say that eating with her with a bowl is also forbidden with every erva, as with his menstrually impure wife. There are those who are lenient in all of this, that they only prohibited affectionate things with one's menstrually impure wife. Some say that all this is forbidden only when they are alone, but in a place like a bathhouse where many people are found, one may be washed by an idolatrous slave woman, and this is the custom. And some say that anything not done in a affectionate manner (בדרך חבה), where his intent is only for Heaven's sake, is permitted. Thus the custom is to be lenient in these things. Some say that one should not do affectionate things even with his wife, such as to inspect her head for lice, in front of others.)
@@ -7070,7 +7070,7 @@ When a man marries a woman, it is the custom that his friends and acquaintances 
 
 
 **חופה לענין מה קונה. ובו ב סעיפים:**
-כיון שהכניס האיש ארוסתו לחופה אע"ג שלא נבעלה הרי היא כאשתו לכל דבר וגובה עיקר כתובה ותוספת אם תתאלמן או תתגרש במד"א כשראויה לביאה אבל אם היתה נדה ואח"כ כנסה לחופה ונתייחד עמה אינה כאשתו אלא לכל הדברים היא עדיין כארוסה מאחר שהיתה נדה וי"א דדוקא לענין שלא תגבה התוספת היא עדיין כארוסה אבל לכל שאר דברים הרי היא כנשואה: הגה וע"ל ר"ס נ"ד מהו נקרא חופה וצריכין לכתוב הכתובה קודם החופה כדי שתהא חופה הראויה לביאה (הרמב"ם פ"י דאישות) ולמ"ד דחופת נדה הוי חופה אע"פ שאינה ראויה לביאה ה"ה אם לא כתב כתובה ומ"מ נוהגין לכתחילה לכתבה קודם לכן אשה חולנית חולת מות אע"פ שכונסה עם המטה תחת החופה כדי שיירשנה בעלה אינו חופה כלל מאחר שאינה ראויה כלל לביאה ואין בעלה יורשה (תשו' הרא"ש כלל י"ד) כנסה לחופה ולא בירך ברכת חתנים הוי חופה גמורה דאין הברכות מעכבות ומברך אחר כמה ימים (טור סי' ס"ב) ולכתחילה יברך אותה קודם שיתייחד עמה (כך משמע בתשו' הרא"ש) וע"ל סי' נ"ה ונהגו עכשיו לברך תחת החופה קודם שנתייחד עמו ונהגו שהחתן והכלה מתענין ביום חופתן (וע' בא"ח סי' תקע"ג) אם קידש בטעות והיו לו נישואין עמה ואח"כ נודע שהקידושין היו בטעות אע"פ שחוזר ומקדשה א"צ לברך שנית ז' ברכות וסגי לה בברכות הראשונות י"א לעשות החופה תחת השמים לסי' טוב שיהא זרעם ככוכבי השמים:
+כיון שהכניס האיש ארוסתו לחופה אע"ג שלא נבעלה הרי היא כאשתו לכל דבר וגובה עיקר כתובה ותוספת אם תתאלמן או תתגרש במד"א כשראויה לביאה אבל אם היתה נדה ואח"כ כנסה לחופה ונתייחד עמה אינה כאשתו אלא לכל הדברים היא עדיין כארוסה מאחר שהיתה נדה וי"א דדוקא לענין שלא תגבה התוספת היא עדיין כארוסה אבל לכל שאר דברים הרי היא כנשואה: הגה וע"ל ר"ס נ"ה מהו נקרא חופה וצריכין לכתוב הכתובה קודם החופה כדי שתהא חופה הראויה לביאה (הרמב"ם פ"י דאישות) ולמ"ד דחופת נדה הוי חופה אע"פ שאינה ראויה לביאה ה"ה אם לא כתב כתובה ומ"מ נוהגין לכתחילה לכתבה קודם לכן אשה חולנית חולת מות אע"פ שכונסה עם המטה תחת החופה כדי שיירשנה בעלה אינו חופה כלל מאחר שאינה ראויה כלל לביאה ואין בעלה יורשה (תשו' הרא"ש כלל י"ד) כנסה לחופה ולא בירך ברכת חתנים הוי חופה גמורה דאין הברכות מעכבות ומברך אחר כמה ימים (טור סי' ס"ב) ולכתחילה יברך אותה קודם שיתייחד עמה (כך משמע בתשו' הרא"ש) וע"ל סי' נ"ה ונהגו עכשיו לברך תחת החופה קודם שנתייחד עמו ונהגו שהחתן והכלה מתענין ביום חופתן (וע' בא"ח סי' תקע"ג) אם קידש בטעות והיו לו נישואין עמה ואח"כ נודע שהקידושין היו בטעות אע"פ שחוזר ומקדשה א"צ לברך שנית ז' ברכות וסגי לה בברכות הראשונות י"א לעשות החופה תחת השמים לסי' טוב שיהא זרעם ככוכבי השמים:
 
 
 Once a man enters the *chuppah* with his fiancee, even though he has not been with her, she is his wife in all regards. And he evaluates the main value of the *ketubah* [the marriage contract] and the extra [value] in case she is widowed or divorced. What case are we talking about? When she is able to have relations. But if while was in *niddah*, [ritually impure], she entered the *chuppah*, and he secluded himself with her, she is not his wife, rather in all matters she is like a fiancee, since she was in *niddah*. 
@@ -13244,7 +13244,7 @@ Anyone is kosher as a scribe for a divorce document, except for five people: A n
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Even%20HaEzer/r/123:2](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Even%20HaEzer/r/123:2)
 
 
-ישראל שהמיר או שהוא מחלל שבת בפרהסיא הרי הוא ככותי לכל דבר:
+ישראל שהמיר או שהוא מחלל שבת בפרהסיא הרי הוא כגוי לכל דבר:
 
 
 A Jew that apostatizes, or violates Sabbaths in public, he is considered a gentile in all aspects.

@@ -7468,10 +7468,10 @@ When they chanced upon [**overtook**] you en route struck down [**killed**] your
 [https://torahapp.org/share/book/Onkelos%20Deuteronomy/r/25:19](https://torahapp.org/share/book/Onkelos%20Deuteronomy/r/25:19)
 
 
-וִיהֵי כַּד יְנִיחַ יְיָ אֱלָהָךְ לָךְ מִכָּל בַּעֲלֵי דְבָבָךְ מִסְּחוֹר סְחוֹר בְּאַרְעָא דִּי יְיָ אֱלָהָךְ יָהֵב לָךְ אַחֲסָנָא לְמֵירְתַהּ תִּמְחֵי יָת **דּוּכְרָנָא** דַעֲמָלֵק מִתְּחוֹת שְׁמַיָּא לָא תִּתִּנְשֵׁי:
+וִיהֵי כַּד יְנִיחַ יְיָ אֱלָהָךְ לָךְ מִכָּל בַּעֲלֵי דְבָבָךְ מִסְּחוֹר סְחוֹר בְּאַרְעָא דִּי יְיָ אֱלָהָךְ יָהֵב לָךְ אַחֲסָנָא לְמֵירְתַהּ תִּמְחֵי יָת דּוּכְרָנָא דַעֲמָלֵק מִתְּחוֹת שְׁמַיָּא לָא תִּתִּנְשֵׁי:
 
 
-When Adonoy, your God, has given you repose from all your enemies around, in the land that Adonoy, your God, is giving you as territory to inherit, you shall obliterate the memory [**males**] of Amalek from beneath the sky; do not forget.
+When Adonoy, your God, has given you repose from all your enemies around, in the land that Adonoy, your God, is giving you as territory to inherit, you shall obliterate the memory of Amalek from beneath the sky; do not forget.
 
 
 

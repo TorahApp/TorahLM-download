@@ -4780,7 +4780,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20Joshua/r/19:51:1](https://torahapp.org/share/book/Rashi%20on%20Joshua/r/19:51:1)
 
 
-**אֲשֶׁר נָחֲלוּ** הִנְחִילוּ.
+**אֲשֶׁר נִחֲלוּ** הִנְחִילוּ.
 
 
 **That were divided for inheritance.** They caused them to inherit.

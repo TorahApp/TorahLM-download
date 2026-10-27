@@ -26625,7 +26625,7 @@ Version (En): Sefaria Community Translation (Segments: 26)
 [https://torahapp.org/share/book/Seder%20HaDorot/s/Tanaim%20and%20Amoraim/r/2917:3](https://torahapp.org/share/book/Seder%20HaDorot/s/Tanaim%20and%20Amoraim/r/2917:3)
 
 
-ב) בן יוסף (ויוסף היה) נר צדק מבני בניו של סיסרא. וביוחסין בסה"ד ר' טרפון אמר עליו אשריך אברהם אבינו שיצא ר"ע מחלציך וקשה הא בן גרים היה כיצד יצא מאברהם ואולי אביו יוסף נשא בת ישראל. והכרח לזה כיון שהיה ראש ישיבה ועיבר שנים אם לא היה אמו מישראל לא הוה קרינן ביה מקרב אחיך (עיי' שמעיה). בע"מ ר"ע בא מסיסרא שבא על יעל אשת חבר הקיני. אך לדעת ר"ע עכו"ם הבא עלב"י הולד ממזר. אכן אי' בילקוט יהושע סי' ט' דיעל היתה גיורת א"כ י"ל דנתגיירה אחר שבא עלי' סיסרא (ז"ר):
+ב) בן יוסף (ויוסף היה) גר צדק מבני בניו של סיסרא. וביוחסין בסה"ד ר' טרפון אמר עליו אשריך אברהם אבינו שיצא ר"ע מחלציך וקשה הא בן גרים היה כיצד יצא מאברהם ואולי אביו יוסף נשא בת ישראל. והכרח לזה כיון שהיה ראש ישיבה ועיבר שנים אם לא היה אמו מישראל לא הוה קרינן ביה מקרב אחיך (עיי' שמעיה). בע"מ ר"ע בא מסיסרא שבא על יעל אשת חבר הקיני. אך לדעת ר"ע עכו"ם הבא עלב"י הולד ממזר. אכן אי' בילקוט יהושע סי' ט' דיעל היתה גיורת א"כ י"ל דנתגיירה אחר שבא עלי' סיסרא (ז"ר):
 
 
 ###### Seder HaDorot, Tanaim and Amoraim 2917:4
@@ -37690,7 +37690,7 @@ Version (En): Sefaria Community Translation (Segments: 26)
 [https://torahapp.org/share/book/Seder%20HaDorot/s/Authors/r/595:1](https://torahapp.org/share/book/Seder%20HaDorot/s/Authors/r/595:1)
 
 
-**(החכם מ' יעקב בולי** עם לועז):
+**(החכם מ' יעקב כולי** עם לועז):
 
 
 ###### Seder HaDorot, Authors 596:1
@@ -55360,7 +55360,7 @@ Version (En): Sefaria Community Translation (Segments: 26)
 [https://torahapp.org/share/book/Seder%20HaDorot/s/Compositions/r/1649:1](https://torahapp.org/share/book/Seder%20HaDorot/s/Compositions/r/1649:1)
 
 
-**עולת תמיד ועולת שבה** מ' שמואל במו"ה יוסף באור על ש"ע אורח חיים, תל"ד:
+**עולת תמיד ועולת שבת** מ' שמואל במו"ה יוסף באור על ש"ע אורח חיים, תל"ד:
 
 
 ###### Seder HaDorot, Compositions 1650:1

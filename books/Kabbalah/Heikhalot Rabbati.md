@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Wertheimer edition (Segments: 192, License: unknown)
 
-Version (En): Google translate  (Segments: 159)
+Version (En): Sefaria Community Translation (Segments: 159)
 
 
 ## Chapter 1

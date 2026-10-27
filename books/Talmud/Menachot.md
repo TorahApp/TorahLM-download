@@ -505,7 +505,7 @@ The Gemara asks: This **works out well** in a case **where one brought a female 
 [https://torahapp.org/share/book/Menachot/r/3a:16](https://torahapp.org/share/book/Menachot/r/3a:16)
 
 
-פֶּסַח שֶׁשְּׁחָטוֹ לְשֵׁם אָשָׁם לִירַצֵּי, דְּהַאי בֶּן שָׁנָה, וְהַאי בֶּן שְׁתֵּים, כֵּיוָן דְּאִיכָּא אֲשַׁם נָזִיר וַאֲשַׁם מְצוֹרָע, לָא פְּסִיקָא לֵיהּ.
+פֶּסַח שֶׁשְּׁחָטוֹ לְשֵׁם אָשָׁם לִירַצֵּי, דְּהַאי בֶּן שָׁנָה, וְהַאי בֶּן שְׁתַּיִם, כֵּיוָן דְּאִיכָּא אֲשַׁם נָזִיר וַאֲשַׁם מְצוֹרָע, לָא פְּסִיקָא לֵיהּ.
 
 
 The Gemara continues to challenge the opinion of Rabba: **A Paschal offering that one slaughtered for the sake of a guilt offering should effect acceptance, as this,** the Paschal offering, is **in its** first **year, and that,** a guilt offering, is **in its second** year. The Gemara answers: **Since there are** two guilt offerings that are brought from lambs in their first year, i.e., **the guilt offering of a nazirite** (see Numbers 6:12) **and the guilt offering of a leper** (see Leviticus 14:10), **it is not definitively** clear **to** an onlooker what type of offering this lamb is.
@@ -5527,7 +5527,7 @@ In a similar vein, **the Sages taught:** With regard to the ***log* of oil of th
 [https://torahapp.org/share/book/Menachot/r/15b:16](https://torahapp.org/share/book/Menachot/r/15b:16)
 
 
-אָמַר לָהֶן: אַף אֲנִי לֹא אָמַרְתִּי אֶלָּא בְּבָא עִם הָאָשָׁם, אֶפְשָׁר לְשַׁנּוֹתוֹ לְאָשָׁם אַחֵר. אָמַר רָבָא: קָסָבַר רַבִּי מֵאִיר הוּקְבְּעוּ בִּשְׁחִיטָה, כְּלַחְמֵי תוֹדָה.
+אָמַר לָהֶן: אַף אֲנִי לֹא אָמַרְתִּי אֶלָּא בְּבָא עִם הָאָשָׁם. אֶפְשָׁר לְשַׁנּוֹתוֹ לְאָשָׁם אַחֵר. אָמַר רָבָא: קָסָבַר רַבִּי מֵאִיר הוּקְבְּעוּ בִּשְׁחִיטָה, כְּלַחְמֵי תוֹדָה.
 
 
 Rabbi Meir **said to them: I, too, spoke only about** a *log* of oil that **comes with the guilt** offering. The Rabbis said to him: But even in this case, the oil should not be considered part of the offering, as **it is possible to switch** the oil **for** use with **another guilt offering. Rava said: Rabbi Meir holds** that the *log* of oil **is fixed** to this particular guilt offering **at** the time of its **slaughter** and is therefore rendered *piggul* on account of it, just **like the loaves of a thanks offering,** as the slaughter of the thanks offering fixes the accompanying loaves to that particular offering.
@@ -10698,7 +10698,7 @@ The Gemara asks: **Granted,** there were **twenty-two goblets** on the Candelabr
 [https://torahapp.org/share/book/Menachot/r/29a:4](https://torahapp.org/share/book/Menachot/r/29a:4)
 
 
-אֲמַר לֵיהּ שִׁימִי: אַתְּ? כִּי קָאָמֵינָא מִשְּׂפַת קָנִים וּלְמַעְלָה.
+אֲמַר לֵיהּ: שִׁימִי אַתְּ? כִּי קָאָמֵינָא מִשְּׂפַת קָנִים וּלְמַעְלָה.
 
 
 Rav **said to him: Shimi,** is it **you** who is asking me such a question? **When I said** that the height of the Candelabrum is nine handbreadths, I was referring not to the total height, which is eighteen handbreadths; rather, I meant that the Candelabrum is nine handbreadths **from the point** at which the **branches** extend from the main shaft **and above.**
@@ -12367,7 +12367,7 @@ The *baraita* continues: **Let us see to which it is similar,** i.e., which comp
 [https://torahapp.org/share/book/Menachot/r/34a:14](https://torahapp.org/share/book/Menachot/r/34a:14)
 
 
-אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרָבָא לְרַב אָשֵׁי: רַחֲמָנָא אָמַר ״עַל מְזוּזֹת״, וְאַתְּ אָמְרַתְּ נֵילַף כְּתִיבָה כְּתִיבָה? אָמַר קְרָא ״וּכְתַבְתָּם״ – כְּתִיבָה תַּמָּה, וַהֲדַר ״עַל הַמְּזוּזוֹת״.
+אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרָבָא לְרַב אָשֵׁי: רַחֲמָנָא אָמַר ״עַל מְזוּזוֹת״, וְאַתְּ אָמְרַתְּ נֵילַף כְּתִיבָה כְּתִיבָה? אָמַר קְרָא ״וּכְתַבְתָּם״ – כְּתִיבָה תַּמָּה, וַהֲדַר ״עַל הַמְּזוּזוֹת״.
 
 
 **Rav Aḥa, son of Rava, said to Rav Ashi: The Merciful One states: “Upon the doorposts,”** which indicates that a *mezuza* should be written on the doorposts themselves, **and** yet **you say: Let us derive** a verbal analogy between **“writing”** and **“writing,”** to teach that one writes it on parchment. Why isn’t the verse interpreted in accordance with its straightforward meaning? Rav Ashi said to him: **The verse states: “And you shall write them [*ukhtavtam*],”** which means that it should first be **complete writing [*ketiva tamma*],** i.e., the full passages written down, **and** only **then** should one place them **“upon the doorposts”** of the house.
@@ -18648,7 +18648,7 @@ With regard to these two possibilities, **let us see to which** case **it is** m
 [https://torahapp.org/share/book/Menachot/r/51a:14](https://torahapp.org/share/book/Menachot/r/51a:14)
 
 
-הָא גוּפַאּ קַשְׁיָא, אָמְרַתְּ ״בְּשֶׁמֶן״ לְהוֹסִיף לָהּ שֶׁמֶן, וַהֲדַר תָּנֵי: נֶאֱמַר כָּאן ״שֶׁמֶן״, וְנֶאֱמַר בְּמִנְחַת נְדָבָה ״שֶׁמֶן״.
+הָא גוּפַאּ קַשְׁיָא, אָמְרַתְּ ״בַּשֶּׁמֶן״ לְהוֹסִיף לָהּ שֶׁמֶן, וַהֲדַר תָּנֵי: נֶאֱמַר כָּאן ״שֶׁמֶן״, וְנֶאֱמַר בְּמִנְחַת נְדָבָה ״שֶׁמֶן״.
 
 
 The Gemara asks a question with regard to the beginning of the *baraita*: **This** *baraita* **itself** is **difficult,** as it contains an internal contradiction. First **you said** that the expression **“with the oil”** stated in the verse concerning the griddle-cake offering of the High Priest serves **to add** extra **oil,** which indicates that more than the basic amount of one *log* of oil is required. **And then it teaches: It is stated here,** concerning the griddle-cake offering of the High Priest: **“Oil,” and it is stated with regard to** the **voluntary meal offering** that it must be brought with **“oil.”** The *baraita* suggests that just as one *log* of oil is brought with the voluntary meal offering, so too one *log* is brought with the griddle-cake offering of the High Priest.
@@ -18659,7 +18659,7 @@ The Gemara asks a question with regard to the beginning of the *baraita*: **This
 [https://torahapp.org/share/book/Menachot/r/51a:15](https://torahapp.org/share/book/Menachot/r/51a:15)
 
 
-אָמַר אַבָּיֵי: מַאן תְּנָא בַּשֶּׁמֶן לְהוֹסִיף? רַבִּי שִׁמְעוֹן הִיא, וְאִילּוּ לֹא נֶאֱמַר קָאָמַר. וּבְדִינָא מַאן קָא מַהְדַּר? רַבִּי יִשְׁמָעֵאל.
+אָמַר אַבָּיֵי: מַאן תְּנָא ״בַּשֶּׁמֶן״ לְהוֹסִיף? רַבִּי שִׁמְעוֹן הִיא, וְאִילּוּ לֹא נֶאֱמַר קָאָמַר. וּבְדִינָא מַאן קָא מַהְדַּר? רַבִּי יִשְׁמָעֵאל.
 
 
 In answer to this question, **Abaye said: Who** is the *tanna* who **taught** that the term **“with the oil”** with regard to the griddle-cake offering of the High Priest serves **to add** extra oil? **It is Rabbi Shimon,** who holds that three *log* of oil are required, as derived from the meal offering that accompanies the sacrifice of sheep. **And** Rabbi Shimon **is speaking** utilizing the style of: **If it were not stated.** If the verse had not indicated by the term “with the oil” that extra oil is required, it would have been possible to derive from the voluntary meal offering that only one *log* is required. **And who** is the *tanna* who **responds** to Rabbi Shimon’s **derivation** and suggests that in fact the amount of oil can be derived from the case of the voluntary meal offering? It is **Rabbi Yishmael.**
@@ -18681,7 +18681,7 @@ In answer to this question, **Abaye said: Who** is the *tanna* who **taught** th
 [https://torahapp.org/share/book/Menachot/r/51a:17](https://torahapp.org/share/book/Menachot/r/51a:17)
 
 
-וְהָכִי קָאָמַר: ״בְּשֶׁמֶן״ – לְהוֹסִיף לָהּ שֶׁמֶן, דְּאִי לִקְבּוֹעַ שֶׁמֶן – לָא צְרִיךְ, כֵּיוָן דִּכְתִיב בָּהּ ״עַל מַחֲבַת״ – כְּמִנְחַת מַחֲבַת דָּמְיָא.
+וְהָכִי קָאָמַר: ״בַּשֶּׁמֶן״ – לְהוֹסִיף לָהּ שֶׁמֶן, דְּאִי לִקְבּוֹעַ שֶׁמֶן – לָא צְרִיךְ, כֵּיוָן דִּכְתִיב בָּהּ ״עַל מַחֲבַת״ – כְּמִנְחַת מַחֲבַת דָּמְיָא.
 
 
 **And** with regard to the possibility of deriving that only one *log* is required, as in the voluntary meal offering, **this** is what **he is saying:** The term **“with the oil”** stated with regard to the griddle-cake offering of the High Priest comes **to add** more **oil to it** than the single *log* required for the voluntary meal offering. **As, if** the purpose of that term were merely **to establish** the basic fact that the offering must include **oil,** a verse is **not needed** to teach that. **Since it is written with** respect to the griddle-cake offering of the High Priest: **“On a griddle [*maḥavat*]”** (Leviticus 6:14), it is **comparable to a pan [*maḥavat*] meal offering,** which requires oil.
@@ -18725,7 +18725,7 @@ Rabbi Yishmael, son of Rabbi Yoḥanan ben Beroka, **then said: Let it even be**
 [https://torahapp.org/share/book/Menachot/r/51a:21](https://torahapp.org/share/book/Menachot/r/51a:21)
 
 
-וְהָכִי קָאָמַר: ״בְּשֶׁמֶן״ לְהוֹסִיף לָהּ שֶׁמֶן, דְּאִי לִקְבּוֹעַ לָהּ שֶׁמֶן לָא צְרִיךְ, כֵּיוָן דִּכְתִיב בַּהּ ״עַל מַחֲבַת״ כְּמַחֲבַת דָּמְיָא, וְעַד שֶׁלֹּא יֵאָמֵר ״בְּשֶׁמֶן״ יֵשׁ לִי בַּדִּין.
+וְהָכִי קָאָמַר: ״בַּשֶּׁמֶן״ לְהוֹסִיף לָהּ שֶׁמֶן, דְּאִי לִקְבּוֹעַ לָהּ שֶׁמֶן לָא צְרִיךְ, כֵּיוָן דִּכְתִיב בַּהּ ״עַל מַחֲבַת״ כְּמַחֲבַת דָּמְיָא, וְעַד שֶׁלֹּא יֵאָמֵר ״בַּשֶּׁמֶן״ יֵשׁ לִי בַּדִּין.
 
 
 **And this** is what Rabbi Shimon **is saying:** The term **“with the oil”** serves **to add** extra **oil to it. As, if** the purpose of that term were merely **to establish** that the offering must include **oil,** a verse is **not needed** to teach that. **Since it is written with** respect to the griddle-cake offering of the High Priest: **“On a griddle [*maḥavat*]”** (Leviticus 6:14), it is **comparable to a pan [*maḥavat*]** meal offering, which requires oil. **And** even **if** the verse **had not stated: “With the oil,” I have** a manner of **derivation** for the fact that more than one *log* of oil is required, based upon a verbal analogy.
@@ -18736,7 +18736,7 @@ Rabbi Yishmael, son of Rabbi Yoḥanan ben Beroka, **then said: Let it even be**
 [https://torahapp.org/share/book/Menachot/r/51a:22](https://torahapp.org/share/book/Menachot/r/51a:22)
 
 
-וְדָן דִּינָא, לָא אָתְיָא לֵיהּ, וְאַצְרְכַהּ ״בְּשֶׁמֶן״, הֲדַר אָמַר: תֶּיהְוֵי כְּמִנְחַת פָּרִים וְאֵילִים.
+וְדָן דִּינָא, לָא אָתְיָא לֵיהּ, וְאַצְרְכַהּ ״בַּשֶּׁמֶן״, הֲדַר אָמַר: תֶּיהְוֵי כְּמִנְחַת פָּרִים וְאֵילִים.
 
 
 **But** although Rabbi Shimon attempts to **employ** this **derivation he is unsuccessful,** as there is a counter-indication from another verbal analogy, **and** therefore the term **“with the oil” is needed** to teach that more than one *log* of oil is required. Nevertheless, this teaches only that more oil than usual is required, but the specific amount still must be clarified. Rabbi Shimon **then said: Let** the griddle-cake offering of the High Priest **be like the meal offering** that accompanies the sacrifice of **bulls and rams,** which require two *log* of oil per ephah of flour.
@@ -21228,7 +21228,7 @@ The Gemara asks: **And what does Rabbi Yoḥanan,** who maintains that the prohi
 [https://torahapp.org/share/book/Menachot/r/58a:2](https://torahapp.org/share/book/Menachot/r/58a:2)
 
 
-מִיבְּעֵי לֵיהּ לְכִדְתַנְיָא: יָכוֹל יְהֵא יָחִיד מִתְנַדֵּב וּמֵבִיא כַּיּוֹצֵא בָּהּ נְדָבָה, וְקוֹרֵא אֲנִי בָּהּ ״מוֹצֵא שְׂפָתֶיךָ תִּשְׁמֹר וְעָשִׂיתָ״?
+מִיבְּעֵי לֵיהּ לְכִדְתַנְיָא: יָכוֹל יְהֵא יָחִיד מִתְנַדֵּב וּמֵבִיא כַּיּוֹצֵא בָּהּ נְדָבָה, וְקוֹרֵא אֲנִי בָּהּ ״מוֹצָא שְׂפָתֶיךָ תִּשְׁמֹר וְעָשִׂיתָ״?
 
 
 The Gemara answers: **He requires it for that which is taught** in a *baraita*: One **might** have thought that **an individual may donate and bring** to the Temple **a gift** offering **similar to those** two loaves brought by the community, **and** in support **I** will **read with regard to** this offering the verse that deals with other gift offerings: **“That which has gone out of your lips you shall observe and do;** according to what you have vowed freely to the Lord your God, even that which you have promised with your mouth” (Deuteronomy 23:24), which would mean that the offering is consecrated and he must bring it as he declared.
@@ -22792,7 +22792,7 @@ The Gemara asks: **How does** one **perform** the ritual of waving? First he **p
 [https://torahapp.org/share/book/Menachot/r/62a:2](https://torahapp.org/share/book/Menachot/r/62a:2)
 
 
-הֵיכָא אָמַר רַב פָּפָּא: בְּמִלּוּאִים.
+הֵיכָא? אָמַר רַב פָּפָּא: בְּמִלּוּאִים.
 
 
 The Gemara asks: **Where** is it stated that the loaves must be placed on the top? **Rav Pappa says:** This is stated explicitly **with regard to** the ram offered at the **inauguration** of the priests, as the verse states: “And he took the fat, and the tail, and all the fat that was upon the inward, and the lobe of the liver, and the two kidneys, and their fat, and the right thigh. And out of the basket of *matzot* that was before the Lord he took one *matza*, and one cake of oiled bread, and one wafer, and placed them on the fat, and upon the right thigh. And he put it all upon the hands of Aaron, and upon the hands of his sons, and waved them for a wave offering before the Lord” (Leviticus 8:25–27).
@@ -23070,7 +23070,7 @@ The Gemara challenges: **And let peace offerings** brought by **an individual re
 [https://torahapp.org/share/book/Menachot/r/62b:6](https://torahapp.org/share/book/Menachot/r/62b:6)
 
 
-מִיעֵט רַחֲמָנָא גַּבֵּי זִבְחֵי שַׁלְמֵי צִבּוּר, ״אַתֶּם״, ״אוֹתָם״ – לְמַעוֹטֵי זִבְחֵי שַׁלְמֵי יָחִיד.
+מִיעֵט רַחֲמָנָא גַּבֵּי זִבְחֵי שַׁלְמֵי צִבּוּר, ״אֹתָם״, ״אוֹתָם״ – לְמַעוֹטֵי זִבְחֵי שַׁלְמֵי יָחִיד.
 
 
 The Gemara answers: This *a fortiori* inference is not accepted, because **the Merciful One excluded** peace offerings brought by an individual, as the verse states **with regard to communal peace offerings:** “And the priest shall wave **them** with the bread of the first fruits for a wave offering before the Lord, with the two lambs” (Leviticus 23:20). The word **“them”** serves **to exclude peace offerings** brought by **an individual** from the requirement of waving while the animal is alive.
@@ -30887,7 +30887,7 @@ The Gemara asks: But **isn’t it written** with regard to the two loaves: **“
 [https://torahapp.org/share/book/Menachot/r/84a:3](https://torahapp.org/share/book/Menachot/r/84a:3)
 
 
-וְקָסָבַר חָדָשׁ בְּחוּצָה לָאָרֶץ דְּאוֹרָיְיתָא הִיא, דִּכְתִיב ״מִמּוֹשְׁבֹתֵיכֶם״, כׇּל מָקוֹם שֶׁאַתֶּם יוֹשְׁבִין מַשְׁמַע, וְכִי ״תָבֹאוּ״ זְמַן בִּיאָה הִיא, וְכֵיוָן דְּאוֹרָיְיתָא הִיא – אַקְרוֹבֵי נָמֵי מַקְרִיבִין.
+וְקָסָבַר חָדָשׁ בְּחוּצָה לָאָרֶץ דְּאוֹרָיְיתָא הִיא, דִּכְתִיב ״מִמּוֹשְׁבֹתֵיכֶם״, כׇּל מָקוֹם שֶׁאַתֶּם יוֹשְׁבִין מַשְׁמַע, וְ״כִּי תָבֹאוּ״ זְמַן בִּיאָה הִיא, וְכֵיוָן דְּאוֹרָיְיתָא הִיא – אַקְרוֹבֵי נָמֵי מַקְרִיבִין.
 
 
 The Gemara explains the basis of Rabbi Yosei’s opinion: **And he holds** that even **outside of Eretz** Yisrael, consuming the **new** crop **is** prohibited **by Torah law, as it is written: “From all your dwellings”** (Leviticus 23:17), which **indicates** that the prohibition applies **anywhere that you dwell,** even outside of Eretz Yisrael. Accordingly, the earlier verse, which introduces the prohibition with: **“When you come** into the land which I give to you” (Leviticus 23:10), **is** a reference to **the time** of the Jewish people **entering** Eretz Yisrael, and it indicates that the prohibition takes effect only from that time. **And since** Rabbi Yosei holds that the new crop outside of Eretz Yisrael **is** prohibited for consumption **by Torah law,** he consequently holds that **one may also offer** the *omer* from crops grown there.
@@ -31187,7 +31187,7 @@ The Gemara asks: **And the other** one, Rabbi Yoḥanan, since he has already ex
 [https://torahapp.org/share/book/Menachot/r/84b:16](https://torahapp.org/share/book/Menachot/r/84b:16)
 
 
-וְאִידַּךְ, ״אֶרֶץ״ ״מֵאָרֶץ״ לָא מַשְׁמַע לֵיהּ.
+וְאִידַּךְ, ״אֶרֶץ״ ״מֵאֶרֶץ״ לָא מַשְׁמַע לֵיהּ.
 
 
 **And the other one,** Reish Lakish, what does he derive from the fact that the Torah adds the word “from”? **He does not learn** anything from the fact the Torah could have just written “your **land”** but instead writes **“from** your **land.”** In Hebrew, the term: From your land, is expressed by a single word: *Me’artzekha*. Reish Lakish holds that the verbal analogy uses the entire word.
@@ -31834,7 +31834,7 @@ How is the **third** olive harvest processed? This harvest consists of all the o
 [https://torahapp.org/share/book/Menachot/r/86a:21](https://torahapp.org/share/book/Menachot/r/86a:21)
 
 
-תָּא שְׁמַע, דְּתַנְיָא: ״שֶׁמֶן זַיִת מִזֵּיתוֹ״ – מִכָּאן אָמְרוּ: זַיִת רִאשׁוֹן מְגַלְגְּלוֹ בְּרֹאשׁ הַזַּיִת, וְכוֹנְסוֹ לְבֵית הַבַּד, וְטוֹחֲנוֹ בְּרֵיחַיִם, וְנוֹתְנוֹ בְּסַלִּין. שֶׁמֶן הַיּוֹצֵא מִמֶּנּוּ, זֶה הָיָה רִאשׁוֹן.
+תָּא שְׁמַע, דְּתַנְיָא: ״שֶׁמֶן זַיִת״ – מִזֵּיתוֹ, מִכָּאן אָמְרוּ: זַיִת רִאשׁוֹן מְגַלְגְּלוֹ בְּרֹאשׁ הַזַּיִת, וְכוֹנְסוֹ לְבֵית הַבַּד, וְטוֹחֲנוֹ בְּרֵיחַיִם, וְנוֹתְנוֹ בְּסַלִּין. שֶׁמֶן הַיּוֹצֵא מִמֶּנּוּ, זֶה הָיָה רִאשׁוֹן.
 
 
 The Gemara answers: **Come** and **hear** the resolution to this dilemma from that **which is taught** in a *baraita*. The verse states that the olive oil used for the kindling of the Candelabrum is to be: “Refined **oil of an olive”** (Exodus 27:20), which is interpreted to mean that the olives should be so ripe that the oil drips **from** them while they are still hanging on **their olive tree,** without them needing to be pressed. **From here** the Sages **said** that for the **first olive** harvest, **one allows** all the olives **to ripen [*megalgelo*],** picks the entire crop **and brings it into the olive press, and** he **grinds it with a millstone and places it in** wicker **baskets, and this oil that would flow from it would be** the **first** grade of oil.

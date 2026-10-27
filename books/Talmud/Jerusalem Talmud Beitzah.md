@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015 (Segments: 195, License: CC-BY)
 
-Version (En): Le Talmud de Jérusalem, Moïse Schwab, 1871. converted via DeepL (Segments: 195)
+Version (En): The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015 (Segments: 195)
 
 
 ## Chapter 1

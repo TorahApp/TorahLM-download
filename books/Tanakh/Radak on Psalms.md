@@ -4592,7 +4592,7 @@ footnotes:
 **אמרת ליהוה אדני אתה** כנגד נפשו מדבר ואומר: **אמרת** והודית **ליי'**, כי הוא אלהיך **ואדניך** וכן הדין עליך; ותאמרי לו גם כן:
 
 
-**Thou (fern.) hast said to the Lord, Thou art my Sovereign Lord:** – He addresses his soul and says: Thou hast said and confessed to the Lord that He is thy God and Sovereign Lord; and such (address) is proper for thee; and thou shalt say unto Him likewise:
+**Thou (fem.) hast said to the Lord, Thou art my Sovereign Lord:** – He addresses his soul and says: Thou hast said and confessed to the Lord that He is thy God and Sovereign Lord; and such (address) is proper for thee; and thou shalt say unto Him likewise:
 
 
 ###### Radak on Psalms 16:2:2
@@ -13053,7 +13053,7 @@ footnotes:
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/37:11:2](https://torahapp.org/share/book/Radak%20on%20Psalms/r/37:11:2)
 
 
-**והתענגו על רב שלום:**כי באבוד ה**רשע**ים **שלום** ושמחה בעולם, כמו שנאמר (משלי יא י): ובאבד רשעים רה.
+**והתענגו על רב שלום:**כי באבוד ה**רשע**ים **שלום** ושמחה בעולם, כמו שנאמר (משלי יא י): ובאבד רשעים רנה.
 
 
 
@@ -13308,7 +13308,7 @@ footnotes:
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/37:24:3](https://torahapp.org/share/book/Radak%20on%20Psalms/r/37:24:3)
 
 
-**כי יהוה סומך ידו:** ומה שהביא עליו מהצרה הוא על דרך מוסר ואהבה, כמו שאמר (משלי ג יב): כי את אשר יאהב יי' יוכיח. וזה הענין ין צדיק לרשע, כי הרשע כשיפל יכרת ואין תקומה לנפילתו, אבל הצדיק נאמר עליו (שם כד טז): כי שבע **יפ**ו**ל** צדיק וקם.
+**כי יהוה סומך ידו:** ומה שהביא עליו מהצרה הוא על דרך מוסר ואהבה, כמו שאמר (משלי ג יב): כי את אשר יאהב יי' יוכיח. וזה הענין בין צדיק לרשע, כי הרשע כשיפל יכרת ואין תקומה לנפילתו, אבל הצדיק נאמר עליו (שם כד טז): כי שבע **יפול** צדיק וקם.
 
 
 
@@ -13386,7 +13386,7 @@ footnotes:
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/37:26:4](https://torahapp.org/share/book/Radak%20on%20Psalms/r/37:26:4)
 
 
-**לברכה:** לעולם שיתנו משלהם ויחוננו הצריכים. וכן: והיה ברכה בראשית יב ב): שתתן לאחרים מברכותיך ומטובך. או פרושו: שיברכום בני אדם כשיראום ויאמרו: אלה זרע צדיק; האל, יתברך, יברכם בזכות אביהם!
+**לברכה:** לעולם שיתנו משלהם ויחוננו הצריכים. וכן: והיה ברכה (בראשית יב ב): שתתן לאחרים מברכותיך ומטובך. או פרושו: שיברכום בני אדם כשיראום ויאמרו: אלה זרע צדיק; האל, יתברך, יברכם בזכות אביהם!
 
 
 
@@ -13432,7 +13432,7 @@ footnotes:
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/37:28:3](https://torahapp.org/share/book/Radak%20on%20Psalms/r/37:28:3)
 
 
-**לעולם נשמרו**כלומר לא יסלר **שמ**י**ר**תו מהם, אלא דבקה בהם **שמ**י**ר**תו תמיד;
+**לעולם נשמרו**כלומר לא יסלק שמירתו מהם, אלא דבקה בהם שמירתו תמיד;
 
 
 ###### Radak on Psalms 37:28:4
@@ -15008,7 +15008,7 @@ footnotes:
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/41:3:3](https://torahapp.org/share/book/Radak%20on%20Psalms/r/41:3:3)
 
 
-**יאשר ¹ בארץ** כן כתיב ביו"ד וקרי בוא"ו והענין אחד. עדין **יאשר בארץ**, כלומר: שיעשה מעשים טובים ויצליח בדרכיו עד שיאמר עליו בני אדם: אשריו!
+**יאשר ¹ בארץ** כן כתיב ביו"ד וקרי בוא"ו והענין אחד. עדין **יאשר בארץ**, כלומר: שיעשה מעשים טובים ויצליח בדרכיו עד שיאמרו עליו בני אדם: אשריו!
 
 footnotes:
 ¹ ואשר קרי.
@@ -15411,7 +15411,7 @@ footnotes:
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/42:8:2](https://torahapp.org/share/book/Radak%20on%20Psalms/r/42:8:2)
 
 
-**לקול צנוריך.** כלומר נפשי השתוחח לקול צנוריך, כלומר כך נמשכות עלינו הצרות כמו מים נשפכים מן הגג מן הצנור ומשמיעים קול, ויש לפרש כי העננים יקראו צינורים לפי שהם שופרים המטר והכל משל על הצרות:
+**לקול צנוריך.** כלומר נפשי השתוחח לקול צנוריך, כלומר כך נמשכות עלינו הצרות כמו מים נשפכים מן הגג מן הצנור ומשמיעים קול, ויש לפרש כי העננים יקראו צינורים לפי שהם שופכים המטר והכל משל על הצרות:
 
 
 ###### Radak on Psalms 42:8:3
@@ -15901,7 +15901,7 @@ footnotes:
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/44:13:2](https://torahapp.org/share/book/Radak%20on%20Psalms/r/44:13:2)
 
 
-**ולא רבית במחיריהם.** כי אינך נצרך לול שתצטרך להם כי לך הכסף והזהב:
+**ולא רבית במחיריהם.** כי אינך בצורך שתצטרך להון כי לך הכסף והזהב:
 
 
 ###### Radak on Psalms 44:13:3
@@ -21522,7 +21522,7 @@ Girded with might: He does not acquire His might from someone else when He needs
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/65:9:1](https://torahapp.org/share/book/Radak%20on%20Psalms/r/65:9:1)
 
 
-**וייראו** וי"ו וייראו פתוחה אמר מנפלאות הגבורא אותותיו שמראה בכל יום עד שיש לבני אדם לירא ממנו כי אינם מבלתי מנהיג ינהיגם ויסדירם ביום ובלילה והאותות הם מוציאי בוקר וערב. ירח וככבים בלילה ושמש ביום ובהם תרנן ותשמח לב בני האדם או פי' תרנן במוצאי בוקר וערב כי הם מרננים ביציאותם ואתה תרנן אותם כי אתה המוציאים ואמר יושבי קצוות. כי בכל מקום יראו האותות בהם בכל קצוות הארץ אין נסתר ולפי דעתי כי השני הפסוקים האלה על ישראל ידבר אמר משביח שאון ימים אמר מי שמשביח שאון ימים לפני ישראל שבקע להם את הים והעבירם בתוכם הוא ישביח המון לאומים ושאונם ויעלה ישראל מתוכם. ואמר כמו שייראו יושבי קצוות מאותותיך שעשית להם בקריעת ים סוף כמו שאמר שמעו עמים ירגזון כן יראו עוד ממך בקיבוץ גליות ומאותותיך עוד כמו שעשית להם שהיית מרנן לבם במוצאי בקר וערב והוא שהיית מוצא להם עמוד ענן יומם ועמוד האש לילה כן תעשה עמהם בקיבוץ גליות:
+**וייראו** וי"ו וייראו פתוחה אמר מנפלאות הבורא אותותיו שמראה בכל יום עד שיש לבני אדם לירא ממנו כי אינם מבלתי מנהיג ינהיגם ויסדירם ביום ובלילה והאותות הם מוציאי בוקר וערב. ירח וככבים בלילה ושמש ביום ובהם תרנן ותשמח לב בני האדם או פי' תרנן במוצאי בוקר וערב כי הם מרננים ביציאותם ואתה תרנן אותם כי אתה המוציאים ואמר יושבי קצוות. כי בכל מקום יראו האותות בהם בכל קצוות הארץ אין נסתר ולפי דעתי כי השני הפסוקים האלה על ישראל ידבר אמר משביח שאון ימים אמר מי שמשביח שאון ימים לפני ישראל שבקע להם את הים והעבירם בתוכם הוא ישביח המון לאומים ושאונם ויעלה ישראל מתוכם. ואמר כמו שייראו יושבי קצוות מאותותיך שעשית להם בקריעת ים סוף כמו שאמר שמעו עמים ירגזון כן יראו עוד ממך בקיבוץ גליות ומאותותיך עוד כמו שעשית להם שהיית מרנן לבם במוצאי בקר וערב והוא שהיית מוצא להם עמוד ענן יומם ועמוד האש לילה כן תעשה עמהם בקיבוץ גליות:
 
 
 
@@ -21541,7 +21541,7 @@ Girded with might: He does not acquire His might from someone else when He needs
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/65:10:2](https://torahapp.org/share/book/Radak%20on%20Psalms/r/65:10:2)
 
 
-**רבת תעשרני.** כמו תעשירנה. ופי' לרוב תעשרי אותה במטר:
+**רבת תעשרנה.** כמו תעשירנה. ופי' לרוב תעשיר אותה במטר:
 
 
 ###### Radak on Psalms 65:10:3
@@ -21557,7 +21557,7 @@ Girded with might: He does not acquire His might from someone else when He needs
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/65:10:4](https://torahapp.org/share/book/Radak%20on%20Psalms/r/65:10:4)
 
 
-**תכין דגנם.** אחר שתשביע הארץ ותצמח תכין הארץ ברוחות טובות להצמיח הצמחים כלומר שציל התבואה משדפון ומירקון:
+**תכין דגנם.** אחר שתשביע הארץ ותצמח תכין הארץ ברוחות טובות להצמיח הצמחים כלומר שתציל התבואה משדפון ומירקון:
 
 
 ###### Radak on Psalms 65:10:5
@@ -21869,7 +21869,7 @@ Girded with might: He does not acquire His might from someone else when He needs
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/66:13:1](https://torahapp.org/share/book/Radak%20on%20Psalms/r/66:13:1)
 
 
-**אבא.** דבר בלשון יחיד על לשון אנשי הגלות בדרך כלל אמר אז יאמרו לבא בבית המקדש בעולות. בשלם הנדרים שנדרו בגלות כאשר יוציאם האל יתעלה מכרת הגלות:
+**אבא.** דבר בלשון יחיד על לשון אנשי הגלות בדרך כלל אמר אז יאמרו לבא בבית המקדש בעולות. בשלם הנדרים שנדרו בגלות כאשר יוציאם האל יתעלה מצרת הגלות:
 
 
 
@@ -21948,7 +21948,7 @@ Girded with might: He does not acquire His might from someone else when He needs
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/66:18:1](https://torahapp.org/share/book/Radak%20on%20Psalms/r/66:18:1)
 
 
-**אין.** כלומר אפילו אם ראיתי און בלבי לעשותו אע"פ שהמחשבה אף היא נגד האל כאלו הרצאתיו בשפתי לא שמעו אותו כלומר לא חשבו לי עון שהמחשבה רעה אין הקב"ה מצרפה למעשה באמונת האל:
+**און.** כלומר אפילו אם ראיתי און בלבי לעשותו אע"פ שהמחשבה אף היא נגד האל כאלו הרצאתיו בשפתי לא שמעו אותו כלומר לא חשבו לי עון שהמחשבה רעה אין הקב"ה מצרפה למעשה באמונת האל:
 
 
 
@@ -22014,7 +22014,7 @@ Girded with might: He does not acquire His might from someone else when He needs
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/67:3:1](https://torahapp.org/share/book/Radak%20on%20Psalms/r/67:3:1)
 
 
-**לדעת.** אז ידעו בארץ דרכי האל יתב' כמו שכתוב כי מלאה הארץ דעה את ה'. כשיודע בכל גוים ישועתיך.
+**לדעת.** אז ידעו בארץ דרכי האל יתב' כמו שכתוב כי מלאה הארץ דעה את ה'. כשיודע בכל גוים ישועתך.
 
 
 
@@ -22224,7 +22224,7 @@ Girded with might: He does not acquire His might from someone else when He needs
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/68:8:1](https://torahapp.org/share/book/Radak%20on%20Psalms/r/68:8:1)
 
 
-**אלהים בצאתך.** כי כשהיו מנצחים האויבים כאילו ה' יוצא לפניהם לנצח המלחמה גם ארון ברית ה' נוסע לפניה' והזכיר נצוח המלחמות בלכתם במדבר סיחון מלך האמורי ועוג מלך הבשן, ורעש הארץ וההרים, הוא משל כל פחד המלכים שרגזו מפניהם כלומר כמו שהל לפניהם אז ולחם מלחמותיהם כן תעשה עתה:
+**אלהים בצאתך.** כי כשהיו מנצחים האויבים כאילו ה' יוצא לפניהם לנצח המלחמה גם ארון ברית ה' נוסע לפניה' והזכיר נצוח המלחמות בלכתם במדבר סיחון מלך האמורי ועוג מלך הבשן, ורעש הארץ וההרים, הוא משל כל פחד המלכים שרגזו מפניהם כלומר כמו שהלך לפניהם אז ולחם מלחמותיהם כן תעשה עתה:
 
 
 ###### Radak on Psalms 68:8:2
@@ -22335,7 +22335,7 @@ Girded with might: He does not acquire His might from someone else when He needs
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/68:13:2](https://torahapp.org/share/book/Radak%20on%20Psalms/r/68:13:2)
 
 
-**ונות בית.** היא עדת ישראל ונויהם תחלק שלל הויבים. ה' יתן, ויקיים דבריהם, וזכר הנשים כי אינן יוצאות למלחמה ומנחמות האנשים בדברים טובים ונחומים:
+**ונות בית.** היא עדת ישראל ונויהם תחלק שלל האויבים. ה' יתן, ויקיים דבריהם, וזכר הנשים כי אינן יוצאות למלחמה ומנחמות האנשים בדברים טובים ונחומים:
 
 
 
@@ -22601,7 +22601,7 @@ Why do you lurk (tratzdun) – There are those who explain tratzdun as dance, me
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/68:26:3](https://torahapp.org/share/book/Radak%20on%20Psalms/r/68:26:3)
 
 
-**תופוות.** תואר במשקל שוממות:
+**תופפות.** תואר במשקל שוממות:
 
 
 
@@ -23070,7 +23070,7 @@ Why do you lurk (tratzdun) – There are those who explain tratzdun as dance, me
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/69:11:1](https://torahapp.org/share/book/Radak%20on%20Psalms/r/69:11:1)
 
 
-**ואבכה בצום נפשי.** חסר וי"ו כאילו אמר ואבכה ובצום נפי כלומר אני בוכה ומתענה תמיד:
+**ואבכה בצום נפשי.** חסר וי"ו כאילו אמר ואבכה ובצום נפשי כלומר אני בוכה ומתענה תמיד:
 
 
 ###### Radak on Psalms 69:11:2
@@ -23748,7 +23748,7 @@ Why do you lurk (tratzdun) – There are those who explain tratzdun as dance, me
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/71:9:1](https://torahapp.org/share/book/Radak%20on%20Psalms/r/71:9:1)
 
 
-**אל תשליכני.** עתה כשאני זקן וכלה כחי רק היה עתה כחו ומעוזי:
+**אל תשליכני.** עתה כשאני זקן וכלה כחי רק היה עתה כחי ומעוזי:
 
 
 
@@ -24738,7 +24738,7 @@ And they will be satisfied with water. Without the specified detail, it means th
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/73:18:1](https://torahapp.org/share/book/Radak%20on%20Psalms/r/73:18:1)
 
 
-**אך.** מה ששמת להם כן הארכה בעולם הזה להפילם לעולם הבא כמו שילך בדרך חלק שיראה לו דרך טוב ובמעט קט יעמדו רגליו ויפול למטה, כן בעולם הזה אין טובתם לאורך זמן וגם במותם לא ישאר טובתם לבניהם אחריהם וזהו שאמר בפסוק הבא אחריו:
+**אך.** מה ששמת להם כן הארכה בעולם הזה להפילם לעולם הבא כמו שילך בדרך חלק שיראה לו דרך טוב ובמעט קט ימעדו רגליו ויפול למטה, כן בעולם הזה אין טובתם לאורך זמן וגם במותם לא ישאר טובתם לבניהם אחריהם וזהו שאמר בפסוק הבא אחריו:
 
 
 **Surely**. What you have assigned to them is only a temporary extension in this world, to bring them down to the world to come, just as one walks on a smooth path that appears to him as a good way, but with a slight stumble, his feet will falter and he will fall down. Likewise, in this world, their goodness does not endure over time, and even in their death, their goodness does not remain for their children after them. This is what is said in the following verse that follows it.
@@ -24960,7 +24960,7 @@ And they will be satisfied with water. Without the specified detail, it means th
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/73:26:1](https://torahapp.org/share/book/Radak%20on%20Psalms/r/73:26:1)
 
 
-**כלה.** כשיכלה שארי שהוא נבשר ויכלה לבבי והוא הנפש החיה אשר בלב כל חי:
+**כלה.** כשיכלה שארי שהוא הבשר ויכלה לבבי והוא הנפש החיה אשר בלב כל חי:
 
 
 **Fail.** When my remaining portion, which is announced, will come to an end, and my heart will cease, it is the living soul that is in the heart of every living creature.
@@ -25035,7 +25035,7 @@ And they will be satisfied with water. Without the specified detail, it means th
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/74:2:1](https://torahapp.org/share/book/Radak%20on%20Psalms/r/74:2:1)
 
 
-**זכור.** כמו שקניתם אז ממצרים כן תקנה אותם מבבל עוד וטעם קניצת שהיו עובדים למצרים כאלו מכורים היו בידם:**שבט נחלתך.** זכר כל השבטים כאחד לפי שהיו מיוחדים במצרים בין עם אחד והם היו שם נחלת ה' קרואים בשמו, או אמר נחלתך באשר קנה אותם מבית עבדים נקראו נחלתו:
+**זכור.** כמו שקניתם אז ממצרים כן תקנה אותם מבבל עוד וטעם קנית שהיו עובדים למצרים כאלו מכורים היו בידם:**שבט נחלתך.** זכר כל השבטים כאחד לפי שהיו מיוחדים במצרים בין עם אחד והם היו שם נחלת ה' קרואים בשמו, או אמר נחלתך באשר קנה אותם מבית עבדים נקראו נחלתו:
 
 
 ###### Radak on Psalms 74:2:2
@@ -25043,7 +25043,7 @@ And they will be satisfied with water. Without the specified detail, it means th
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/74:2:2](https://torahapp.org/share/book/Radak%20on%20Psalms/r/74:2:2)
 
 
-**הר ציון זה שכנת בו.** אמר קנית אותם וגאלתם ממצרים עד שהבאת ם אל הר ציון ששכנת בו. ובאומרו הר ציון זה בעבור כי הוא ידוע או בעבור כי בציון נאמר זה המזמור:
+**הר ציון זה שכנת בו.** אמר קנית אותם וגאלתם ממצרים עד שהבאתם אל הר ציון ששכנת בו. ובאומרו הר ציון זה בעבור כי הוא ידוע או בעבור כי בציון נאמר זה המזמור:
 
 
 
@@ -25054,7 +25054,7 @@ And they will be satisfied with water. Without the specified detail, it means th
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/74:3:1](https://torahapp.org/share/book/Radak%20on%20Psalms/r/74:3:1)
 
 
-**הרימה פעמיך.** כמשמעו רגליך והוא על רך קומה ה' ויפוצו אויביך:
+**הרימה פעמיך.** כמשמעו רגליך והוא על דרך קומה ה' ויפוצו אויביך:
 
 
 ###### Radak on Psalms 74:3:2
@@ -25404,7 +25404,7 @@ And they will be satisfied with water. Without the specified detail, it means th
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/74:23:1](https://torahapp.org/share/book/Radak%20on%20Psalms/r/74:23:1)
 
 
-**אל תשכח.** קולם ושאונם שנותנים עליך תמ יד הוא עולה לפניך אל תשכחנו:
+**אל תשכח.** קולם ושאונם שנותנים עליך תמיד הוא עולה לפניך אל תשכחנו:
 
 
 
@@ -26484,7 +26484,7 @@ His Tabernacle was in Shalem – Then His Tabernacle will be in Shalem, meaning 
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/78:17:3](https://torahapp.org/share/book/Radak%20on%20Psalms/r/78:17:3)
 
 
-**ציה.** ענינו ענין מדבר: ואמר **לעיון.** לפי שהוא עליון על הכל ובידו הכל וכמו שהיה בידו להוציא מים מן הסלע היבש ולהוריד המן מן האויר כן בידו להביא להם בשר במדבר, וזה היה בקברות התאוה:
+**ציה.** ענינו ענין מדבר: ואמר **עליון.** לפי שהוא עליון על הכל ובידו הכל וכמו שהיה בידו להוציא מים מן הסלע היבש ולהוריד המן מן האויר כן בידו להביא להם בשר במדבר, וזה היה בקברות התאוה:
 
 
 
@@ -28851,7 +28851,7 @@ His Tabernacle was in Shalem – Then His Tabernacle will be in Shalem, meaning 
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/83:19:1](https://torahapp.org/share/book/Radak%20on%20Psalms/r/83:19:1)
 
 
-**וידעו כי אתה ה'.** ושמך לבדך אין עוד זולתך ופירושו אתה ושמך שידעו כי אין אל זולתך אלא אתה הוא האל ולא אלהים אחרים וזהו שאמר עליון על כל האץ כי הכל תחת ידו וברשותו:
+**וידעו כי אתה ה'.** ושמך לבדך אין עוד זולתך ופירושו אתה ושמך שידעו כי אין אל זולתך אלא אתה הוא האל ולא אלהים אחרים וזהו שאמר עליון על כל הארץ כי הכל תחת ידו וברשותו:
 
 
 
@@ -28987,7 +28987,7 @@ His Tabernacle was in Shalem – Then His Tabernacle will be in Shalem, meaning 
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/84:7:2](https://torahapp.org/share/book/Radak%20on%20Psalms/r/84:7:2)
 
 
-**גם ברכות יעטה מורה.** ברכות ילבש המורה אותם בדרך החכמה וכן הפסוק הבא אחריו ילכו מחיל אל חיל אמר כי התלמידים הולכים מבית מדרש זה לבית מדרש זדה עד שיראה הדורש החכמה אל האלהים בציון, כי שם היו החכמים הגדולים בבית אלהים בציון ואם נפרשהו על עולי הרגל יהיה פירוש עמק הבכא שהיו בו נכאים והם אילנות גדולים במקום שאין שם מים ואמר כי כאשר היו עולי רגל עולים שם היו חופרים הנה והנה להוציא המים:
+**גם ברכות יעטה מורה.** ברכות ילבש המורה אותם בדרך החכמה וכן הפסוק הבא אחריו ילכו מחיל אל חיל אמר כי התלמידים הולכים מבית מדרש זה לבית מדרש זה עד שיראה הדורש החכמה אל האלהים בציון, כי שם היו החכמים הגדולים בבית אלהים בציון ואם נפרשהו על עולי הרגל יהיה פירוש עמק הבכא שהיו בו נכאים והם אילנות גדולים במקום שאין שם מים ואמר כי כאשר היו עולי רגל עולים שם היו חופרים הנה והנה להוציא המים:
 
 
 ###### Radak on Psalms 84:7:3
@@ -29014,7 +29014,7 @@ His Tabernacle was in Shalem – Then His Tabernacle will be in Shalem, meaning 
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/84:8:1](https://torahapp.org/share/book/Radak%20on%20Psalms/r/84:8:1)
 
 
-**ילכו מחיל אל חיל.** העולים לרגל היו הולכים מצבא אל צבא כי היו מוצאים הרה שיירות עולים:
+**ילכו מחיל אל חיל.** העולים לרגל היו הולכים מצבא אל צבא כי היו מוצאים הרבה שיירות עולים:
 
 
 
@@ -30289,7 +30289,7 @@ The city of God, forever – Because God chose it to make His glory dwell there:
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/89:11:1](https://torahapp.org/share/book/Radak%20on%20Psalms/r/89:11:1)
 
 
-**דכאת.** כתלוב באל"ף במקום יו"ד. בכל זה הפסוק מוכיח כי על קריעת ים סוף אמר הפסוק אשר לפניו כי רהב הוא מצרים, אמר קרעת הים לישראל ואע"פ כן דכאת המצרים בתוכו כאילו היו חללים כי לא היה להם כח לנוס ולצאת מהים בעוד שיה לחרבה:
+**דכאת.** כתוב באל"ף במקום יו"ד. בכל זה הפסוק מוכיח כי על קריעת ים סוף אמר הפסוק אשר לפניו כי רהב הוא מצרים, אמר קרעת הים לישראל ואע"פ כן דכאת המצרים בתוכו כאילו היו חללים כי לא היה להם כח לנוס ולצאת מהים בעוד שיהיה לחרבה:
 
 
 ###### Radak on Psalms 89:11:2
@@ -30324,7 +30324,7 @@ The city of God, forever – Because God chose it to make His glory dwell there:
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/89:12:3](https://torahapp.org/share/book/Radak%20on%20Psalms/r/89:12:3)
 
 
-**אתה יסדתם.** כמו היסוד שהוא קיום הבנין כן עשה האל יתברך במקומות הישוב דבר שהם קיום היושבים כגון האילנות והעשבים והירקות למאכל אדם ולמאכל בהמה שהם נמצאים במקומות היישוב וכן לשונות הים והנהרות שעוברים במקו היישוב לתועלת בני אדם לעבור בם ממקום למקום ולצוד בם הדגים למאכלו:
+**אתה יסדתם.** כמו היסוד שהוא קיום הבנין כן עשה האל יתברך במקומות הישוב דבר שהם קיום היושבים כגון האילנות והעשבים והירקות למאכל אדם ולמאכל בהמה שהם נמצאים במקומות היישוב וכן לשונות הים והנהרות שעוברים במקום היישוב לתועלת בני אדם לעבור בם ממקום למקום ולצוד בם הדגים למאכלו:
 
 
 
@@ -32919,7 +32919,7 @@ They did not recognize all the miracles that I made for them, and they feared en
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/98:3:1](https://torahapp.org/share/book/Radak%20on%20Psalms/r/98:3:1)
 
 
-**זכר.** האמונה שהיה לו עם בית ישראל להוציאם מן הגלולת זכר להם והוציאם לעיני כל זהו וראו כל אפסי ארץ:
+**זכר.** האמונה שהיה לו עם בית ישראל להוציאם מן הגלות זכר להם והוציאם לעיני כל זהו וראו כל אפסי ארץ:
 
 
 
@@ -33457,7 +33457,7 @@ The Lord is great in Zion – Then He will be great in Zion because there He wil
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/102:6:1](https://torahapp.org/share/book/Radak%20on%20Psalms/r/102:6:1)
 
 
-**מקול.** ידוע כי האנחה וצרת הלב מכחשת הבשר וכאשר תהיה עמה הצעקה כל שכן שיכחש לגמרי עד שידבק העצם לעור, וקורא העור בשר לפי שעור הדם הוא הבשר שאינו נפשט מהבשר כעור הבהמה לפיכך זכר הבשר במקום העור וכן יזכור העור במקום הבשר יאכל בדי עורו:
+**מקול.** ידוע כי האנחה וצרת הלב מכחשת הבשר וכאשר תהיה עמה הצעקה כל שכן שיכחש לגמרי עד שידבק העצם לעור, וקורא העור בשר לפי שעור האדם הוא הבשר שאינו נפשט מהבשר כעור הבהמה לפיכך זכר הבשר במקום העור וכן יזכור העור במקום הבשר יאכל בדי עורו:
 
 
 
@@ -40122,7 +40122,7 @@ There are manuscripts [of the book of Psalms] in which this verse [115:1] is not
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/119:87:2](https://torahapp.org/share/book/Radak%20on%20Psalms/r/119:87:2)
 
 
-**ואני לא עזבתי פקודיך.** כשהיה בידי להמיתם נמנעתי מפני מצותיך שהזהרת על הרציחה ואע"פ שהיו חייבים על רודפם אוי בחינם לא עזבתי משפטי עליך שכתבת כי לא אצדיק רשע:
+**ואני לא עזבתי פקודיך.** כשהיה בידי להמיתם נמנעתי מפני מצותיך שהזהרת על הרציחה ואע"פ שהיו חייבים על רודפם אותי בחינם לא עזבתי משפטי עליך שכתבת כי לא אצדיק רשע:
 
 
 
@@ -41344,7 +41344,7 @@ There are manuscripts [of the book of Psalms] in which this verse [115:1] is not
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/120:1:1](https://torahapp.org/share/book/Radak%20on%20Psalms/r/120:1:1)
 
 
-**שיר.** אלה שיר המעלות הם חמשה עשר ואמרו כי היו אומרים אותם הלוים בחמש עשרה מדרגות שהיו בהר הבית בין עזרת ישראל לעזרת נשים שהיו עולין בהם מעזרת נשים לעזרת ישראל, ואומרים שיר אחד במעלה אחת ורז"ל אמרו בשעה שכרה דוד יסודות לבית המקדש על התהום ופחדו שיציף העולם. כתב אחיתופל שם המפורש ונתנו בתהום וירד התהום שש עשרה אלפי אמה אמרו טוב היה לעולם שלא ירד כ"כ התהום כי המים הם צורך העולם, וארץ מתלחלח מן התהום אמר חמש עשרה שיר המעלות והעלהו חמש עשרה אלפי אמה והעמידו על אלף אמה. וי"ל עוד כי פי' מעלות הגלות שעתידים ישראל לעלות א"י ואלו השירים נאמרים על לשון בני הגלות כולם וזכר בהם צרת הגלות וזכר בהם צרת הגלות וזכר בהם תוחלת הישועה והבטחתה שתהיה:
+**שיר.** אלה שיר המעלות הם חמשה עשר ואמרו כי היו אומרים אותם הלוים בחמש עשרה מדרגות שהיו בהר הבית בין עזרת ישראל לעזרת נשים שהיו עולין בהם מעזרת נשים לעזרת ישראל, ואומרים שיר אחד במעלה אחת ורז"ל אמרו בשעה שכרה דוד יסודות לבית המקדש על התהום ופחדו שיציף העולם. כתב אחיתופל שם המפורש ונתנו בתהום וירד התהום שש עשרה אלפי אמה אמרו טוב היה לעולם שלא ירד כ"כ התהום כי המים הם צורך העולם, וארץ מתלחלח מן התהום אמר חמש עשרה שיר המעלות והעלהו חמש עשרה אלפי אמה והעמידו על אלף אמה. וי"ל עוד כי פי' מעלות הגלות שעתידים ישראל לעלות א"י ואלו השירים נאמרים על לשון בני הגלות כולם וזכר בהם צרת הגלות וזכר בהם תוחלת הישועה והבטחתה שתהיה:
 
 
 ###### Radak on Psalms 120:1:2
@@ -43329,7 +43329,7 @@ Blessed is the Lord from Zion- Because there in Jerusalem the glory dwells and f
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/136:5:1](https://torahapp.org/share/book/Radak%20on%20Psalms/r/136:5:1)
 
 
-**לעושה השמים.** אחרי כן הזכיר השמים והוא כלל לכל הגלגלים והככבים, ואמר שהוא עושה אותם והוא חדשם בתבונתו ועשה בחידושיהם חסד לעום ואין להם הפסק זהו כי לעולם חסדו:
+**לעושה השמים.** אחרי כן הזכיר השמים והוא כלל לכל הגלגלים והככבים, ואמר שהוא עושה אותם והוא חדשם בתבונתו ועשה בחידושיהם חסד לעולם ואין להם הפסק זהו כי לעולם חסדו:
 
 
 
@@ -43362,7 +43362,7 @@ Blessed is the Lord from Zion- Because there in Jerusalem the glory dwells and f
 [https://torahapp.org/share/book/Radak%20on%20Psalms/r/136:8:1](https://torahapp.org/share/book/Radak%20on%20Psalms/r/136:8:1)
 
 
-**את השמש.** ונתן אותו שיהיה מושל בים לתועלת העולם להאיר ולחמם את האויר והוא תועלת החיים והצמחים, וזה הוא חסד מאתו, והוא לעולם אין לו הפסק:
+**את השמש.** ונתן אותו שיהיה מושל ביום לתועלת העולם להאיר ולחמם את האויר והוא תועלת החיים והצמחים, וזה הוא חסד מאתו, והוא לעולם אין לו הפסק:
 
 
 
@@ -44571,17 +44571,20 @@ Blessed is the Lord from Zion- Because there in Jerusalem the glory dwells and f
 **אל תער.** כמו ותער כדה, ענין שפיכה ויציקה, וכצאת הנפש מן הגוף כאילו נשפכת ממנו על דרך ואשפוך את נפשי:
 
 
-###### Radak on Psalms 141:8:2
 
-[https://torahapp.org/share/book/Radak%20on%20Psalms/r/141:8:2](https://torahapp.org/share/book/Radak%20on%20Psalms/r/141:8:2)
+### Verse 9
+
+###### Radak on Psalms 141:9:1
+
+[https://torahapp.org/share/book/Radak%20on%20Psalms/r/141:9:1](https://torahapp.org/share/book/Radak%20on%20Psalms/r/141:9:1)
 
 
 **יקשו לי.** הפח ששמו לי למוקש:
 
 
-###### Radak on Psalms 141:8:3
+###### Radak on Psalms 141:9:2
 
-[https://torahapp.org/share/book/Radak%20on%20Psalms/r/141:8:3](https://torahapp.org/share/book/Radak%20on%20Psalms/r/141:8:3)
+[https://torahapp.org/share/book/Radak%20on%20Psalms/r/141:9:2](https://torahapp.org/share/book/Radak%20on%20Psalms/r/141:9:2)
 
 
 **ומוקשות.** ושמרני גם כן מידי מוקשות פועלי און אחרים שאינם בני עמי או ענין הפסוק כפול:

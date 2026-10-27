@@ -3616,7 +3616,7 @@ The Gemara asks: **And the first *tanna*,** why did he not include the ruling th
 [https://torahapp.org/share/book/Chullin/r/13b:4](https://torahapp.org/share/book/Chullin/r/13b:4)
 
 
-וְהָא קָאחָזֵינַן דְּאִיכָּא? אֵימָא: אֵין רוֹב אוּמּוֹת מִינִין, סָבַר לַהּ כִּי הָא דְּאָמַר רַבִּי חִיָּיא בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן: גּוֹיִם שֶׁבְּחוּצָה לְאָרֶץ לָאו עוֹבְדֵי עֲבוֹדָה זָרָה הֵן, אֶלָּא מִנְהַג אֲבוֹתֵיהֶן בִּידֵיהֶן.
+וְהָא קָחָזֵינַן דְּאִיכָּא? אֵימָא: אֵין רוֹב אוּמּוֹת מִינִין, סָבַר לַהּ כִּי הָא דְּאָמַר רַבִּי חִיָּיא בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן: גּוֹיִם שֶׁבְּחוּצָה לְאָרֶץ לָאו עוֹבְדֵי עֲבוֹדָה זָרָה הֵן, אֶלָּא מִנְהַג אֲבוֹתֵיהֶן בִּידֵיהֶן.
 
 
 The Gemara asks: **But don’t we see that there are?** The Gemara answers: **Say the majority of** the people of **the nations** of the world **are not heretics,** and with regard to slaughter one follows the majority. The Gemara notes: Rabba bar Avuh **holds in accordance with that which Rabbi Ḥiyya bar Abba says** that **Rabbi Yoḥanan says:** The status of **gentiles outside of Eretz** Yisrael is **not** that of **idol worshippers,** as their worship is not motivated by faith and devotion. **Rather, it is** a traditional **custom of their ancestors** that was transmitted **to them.**
@@ -7833,7 +7833,7 @@ The Gemara questions the formulation of the *baraita*. **And the *tanna*** of th
 וְ״רֹאשׁוֹ וּפִדְרוֹ״ לְמָה לִי? מִיבְּעֵי לֵיהּ לְכִדְתַנְיָא: מִנַּיִן לְרֹאשׁ וּפֶדֶר שֶׁקּוֹדְמִין לְכׇל הַנְּתָחִים? תַּלְמוּד לוֹמַר: ״אֶת רֹאשׁוֹ וְאֶת פִּדְרוֹ וְעָרַךְ״.
 
 
-The Gemara asks: **And** if so, **why do I** need the verse cited at the end of the *baraita*: **“Its head and its fat”?** The Gemara answers: The verse **is necessary for that which is taught** in a *baraita*: **From where** is it derived **that the head and the fat precede all the** other **pieces**when the sacrificial portions are sacrificed on the altar? **The verse states: “With its head and its fat, and** the priest **shall arrange** them” (Leviticus 1:12).
+The Gemara asks: **And** if so, **why do I** need the verse cited at the end of the *baraita*: **“Its head and its fat”?** The Gemara answers: The verse **is necessary for that which is taught** in a *baraita*: **From where** is it derived **that the head and the fat precede all the** other **pieces** when the sacrificial portions are sacrificed on the altar? **The verse states: “With its head and its fat, and** the priest **shall arrange** them” (Leviticus 1:12).
 
 
 
@@ -7998,7 +7998,7 @@ On the matter of slaughtering birds, **Rav Yehuda says in the name of Rabbi Yitz
 [https://torahapp.org/share/book/Chullin/r/27b:15](https://torahapp.org/share/book/Chullin/r/27b:15)
 
 
-אִי הָכִי, חַיָּה נָמֵי! אִיתַּקַּשׁ לִפְסוּלֵי הַמּוּקְדָּשִׁין. עוֹף נָמֵי! אִיתַּקַּשׁ לִבְהֵמָה, דִּכְתִיב: ״זֹאת תּוֹרַת הַבְּהֵמָה וְהָעוֹף״. הָא כְּתִיב: ״וְשָׁפַךְ אֶת דָּמוֹ״.
+אִי הָכִי, חַיָּה נָמֵי! אִיתַּקַּשׁ לִפְסוּלֵי הַמּוּקְדָּשִׁין. עוֹף נָמֵי אִיתַּקַּשׁ לִבְהֵמָה, דִּכְתִיב: ״זֹאת תּוֹרַת הַבְּהֵמָה וְהָעוֹף״! הָא כְּתִיב: ״וְשָׁפַךְ אֶת דָּמוֹ״.
 
 
 The Gemara objects: **If so,** with regard to **an undomesticated animal,** which is mentioned in the same verse, spilling should be sufficient **also.** The Gemara explains: An undomesticated animal **is juxtaposed to disqualified consecrated** animals, for which slaughter is required, as explained later in the Gemara (28a). The Gemara asks: **Birds too are juxtaposed to animals,** and therefore slaughter should be required, **as it is written: “This is the law of the animal, and of the bird”** (Leviticus 11:46). The Gemara answers: **But isn’t it written: “He shall spill its blood,”** indicating that slaughter is not required?
@@ -8202,7 +8202,7 @@ The Gemara suggests: **Come** and **hear** proof in support of the opinion of Ra
 מַאי הָוֵי עֲלַהּ? מַאי הָוֵי עֲלַהּ?! כִּדְקָאָמְרַתְּ, דִּלְמָא שָׁאנֵי הָתָם, דְּאִיכָּא שִׁדְרָה וּמַפְרֶקֶת.
 
 
-The Gemara asks: **What** halakhic conclusion **was** reached **about the matter?** The Gemara asks in response: **What** halakhic conclusion **was** reached **about the matter?** It is **as you said,** that the opinion of Rav Adda bar Ahava was conclusively refuted. The Gemara says that there is not absolute proof from the *baraita*, as **perhaps it is different there** with regard to pinching, **as** in that case **there is** the **spine and** the **neck bone** that are cut initially, and therefore cutting the windpipe is sufficient. But in the case of slaughter of a non-sacred bird, perhaps only if one cuts the gullet the slaughter is valid.
+The Gemara asks in response: **What** halakhic conclusion **was** reached **about the matter?** It is **as you said,** that the opinion of Rav Adda bar Ahava was conclusively refuted. The Gemara says that there is not absolute proof from the *baraita*, as **perhaps it is different there** with regard to pinching, **as** in that case **there is** the **spine and** the **neck bone** that are cut initially, and therefore cutting the windpipe is sufficient. But in the case of slaughter of a non-sacred bird, perhaps only if one cuts the gullet the slaughter is valid.
 
 
 ###### Chullin 28a:15
@@ -8527,7 +8527,7 @@ The Gemara asks: **And there,** with regard to the Paschal offering, **what is t
 רוֹב אֶחָד בָּעוֹף, תְּנֵינָא חֲדָא זִימְנָא: רוּבּוֹ שֶׁל אֶחָד כָּמוֹהוּ!
 
 
-§ The mishna teaches: If one cut **the majority of one** *siman* **in a bird** or the majority of two *simanim* in an animal,his slaughter is valid. The Gemara asks: **We** already **learn** this on **another occasion,** in the first clause of the mishna: The halakhic status of **the majority of one** *siman* **is like** that of the entire *siman*. Why is the redundancy necessary?
+§ The mishna teaches: If one cut **the majority of one** *siman* **in a bird** or the majority of two *simanim* in an animal, his slaughter is valid. The Gemara asks: **We** already **learn** this on **another occasion,** in the first clause of the mishna: The halakhic status of **the majority of one** *siman* **is like** that of the entire *siman*. Why is the redundancy necessary?
 
 
 ###### Chullin 29a:10
@@ -8769,7 +8769,7 @@ Rabbi Shimon ben Lakish and Rabbi Yoḥanan **disagree only** in a case **where*
 [https://torahapp.org/share/book/Chullin/r/29b:7](https://torahapp.org/share/book/Chullin/r/29b:7)
 
 
-אֲמַר לֵיהּ רַבָּה בַּר שִׁימִי: מָר לָא אָמַר הָכִי, וּמַנּוּ רַב יוֹסֵף? הֵיכָא דְּשָׁחַט סִימָן אֶחָד בַּחוּץ וְסִימָן אֶחָד בִּפְנִים – נָמֵי פָּסוּל, שֶׁהֲרֵי עָשָׂה בָּהּ מַעֲשֵׂה חַטַּאת הָעוֹף בַּחוּץ.
+אֲמַר לֵיהּ רַבָּה בַּר שִׁימִי: מָר לָא אָמַר הָכִי, וּמַנּוּ? רַב יוֹסֵף, הֵיכָא דְּשָׁחַט סִימָן אֶחָד בַּחוּץ וְסִימָן אֶחָד בִּפְנִים – נָמֵי פָּסוּל, שֶׁהֲרֵי עָשָׂה בָּהּ מַעֲשֵׂה חַטַּאת הָעוֹף בַּחוּץ.
 
 
 **Rabba bar Shimi said to** Rava: **The Master did not say** that **this** was the crux of the dispute between Rabbi Yoḥanan and Rabbi Shimon ben Lakish. **And who is** the Master? It is **Rav Yosef,** who says that in a case **where one cut one *siman* outside** the Temple courtyard **and one *siman* inside** the Temple courtyard, all agree that the slaughter is **not valid** and the priest is liable to receive punishment, **because** he **performed an action** appropriate for **a bird sin offering outside** the Temple courtyard.
@@ -10471,7 +10471,7 @@ The Gemara objects: **Let us interpret** the mishna
 בְּחוּלִּין שֶׁנַּעֲשׂוּ עַל טׇהֳרַת תְּרוּמָה, וְרַבִּי יְהוֹשֻׁעַ? לָא סָלְקָא דַּעְתָּךְ, דְּקָתָנֵי ״בָּשָׂר״, דְּאִי בִּתְרוּמָה – בָּשָׂר מִי אִיכָּא?
 
 
-**with regard to** the case of **non-sacred** food items **that were prepared on the** level of **purity of *teruma* and** in accordance with the opinion of **Rabbi Yehoshua.** The Gemara responds: **It** should **not enter your mind** that the mishna is referring to a case of the level of purity of *teruma*, **as** the mishna **teaches** a case of the slaughter of animals and birds and consumption of their **meat.** And **if** the mishna is taught **with regard to** non-sacred food items that were prepared on the level of purity of ***teruma*, is there meat** eaten with the level of purity of *teruma*? The practice of preparing non-sacred food items on the level of purity of *teruma* is done only so that one will not treat actual *teruma* in the correct manner, and *teruma* is separated only from produce that grows in the ground.
+**with regard to** the case of **non-sacred** food items **that were prepared on the** level of **purity of *teruma* and** in accordance with the opinion of **Rabbi Yehoshua.** The Gemara responds: **It** should **not enter your mind** that the mishna is referring to a case of the level of purity of *teruma*, **as** the mishna **teaches** a case of the slaughter of animals and birds and consumption of their **meat.** And **if** the mishna is taught **with regard to** non-sacred food items that were prepared on the level of purity of ***teruma*, is there meat** eaten with the level of purity of *teruma*? The practice of preparing non-sacred food items on the level of purity of *teruma* is done only so that one will treat actual *teruma* in the correct manner, and *teruma* is separated only from produce that grows in the ground.
 
 
 ###### Chullin 34a:2
@@ -10898,7 +10898,7 @@ The Gemara suggests: **Let us say** that the mishna **supports** the opinion of 
 תָּא שְׁמַע: אָמַר לָהֶן רַבִּי שִׁמְעוֹן: וְכִי הַדָּם מַכְשִׁיר? וַהֲלֹא שְׁחִיטָה מַכְשֶׁרֶת! הָכִי קָאָמַר לָהֶן: וְכִי דָם בִּלְבַד מַכְשִׁיר? אַף שְׁחִיטָה נָמֵי מַכְשֶׁרֶת.
 
 
-The Gemara suggests: **Come** and **hear** a *baraita* is support of Rav Asi’s statement. **Rabbi Shimon said to** the Rabbis: **Is it blood that renders** the animal **susceptible** to ritual impurity? **But isn’t it slaughter** that **renders** it **susceptible?** This indicates that Rabbi Shimon holds that it is specifically the slaughter and not the blood that renders the flesh susceptible to impurity. The Gemara rejects this proof. **This** is what Rabbi Shimon **is saying to** the Rabbis: **Is it blood alone that renders** the animal **susceptible** to ritual impurity? **Slaughter too renders** it **susceptible.**
+The Gemara suggests: **Come** and **hear** a *baraita* in support of Rav Asi’s statement. **Rabbi Shimon said to** the Rabbis: **Is it blood that renders** the animal **susceptible** to ritual impurity? **But isn’t it slaughter** that **renders** it **susceptible?** This indicates that Rabbi Shimon holds that it is specifically the slaughter and not the blood that renders the flesh susceptible to impurity. The Gemara rejects this proof. **This** is what Rabbi Shimon **is saying to** the Rabbis: **Is it blood alone that renders** the animal **susceptible** to ritual impurity? **Slaughter too renders** it **susceptible.**
 
 
 ###### Chullin 35b:10
@@ -11369,7 +11369,7 @@ The Gemara questions that understanding. **And perhaps, actually I will say to y
 אֶלָּא, מִדְּאָמַר רַחֲמָנָא טְרֵפָה לֹא תֹּאכַל – מִכְּלָל דִּמְסוּכֶּנֶת שַׁרְיָא, דְּאִי סָלְקָא דַעְתָּךְ מְסוּכֶּנֶת אֲסִירָא, הַשְׁתָּא מְסוּכֶּנֶת דְּלָא מְחַסְּרָא אֲסִירָא, טְרֵפָה מִיבַּעְיָא?
 
 
-**Rather,** the fact that its meat is permitted is derived **from the fact that the Merciful One states you shall not eat that an animal with a wound that will cause it to die within twelve months [*tereifa*],** as it is written: “And you shall not eat any animal that was mauled in the field [*tereifa*]” (Exodus 22:30). From here, one learns **by inference** that eating the meat of an animal **in danger** of imminent death **is permitted. As, if it enters your mind** that eating the meat of an animal **in danger** of imminent death **is prohibited, now** that an animal **in danger** of imminent death **that is not lacking** any limb **is prohibited,** is it **necessary** to state that **a *tereifa*,** an animal that was mauled and lacking body parts, is prohibited?
+**Rather,** the fact that its meat is permitted is derived **from the fact that the Merciful One states you shall not eat an animal with a wound that will cause it to die within twelve months [*tereifa*],** as it is written: “And you shall not eat any animal that was mauled in the field [*tereifa*]” (Exodus 22:30). From here, one learns **by inference** that eating the meat of an animal **in danger** of imminent death **is permitted. As, if it enters your mind** that eating the meat of an animal **in danger** of imminent death **is prohibited, now** that an animal **in danger** of imminent death **that is not lacking** any limb **is prohibited,** is it **necessary** to state that **a *tereifa*,** an animal that was mauled and lacking body parts, is prohibited?
 
 
 ###### Chullin 37a:9
@@ -11639,7 +11639,7 @@ The Gemara answers: The apparent contradiction between the opinion that when an 
 אָמַר רַב נַחְמָן בַּר יִצְחָק: מְנָא אָמֵינָא לַהּ? דִּתְנַן, אָמַר רַבִּי שִׁמְעוֹן: הַשּׁוֹחֵט בַּלַּיְלָה, וּלְמָחָר מָצָא כְּתָלִים מְלֵאִים דָּם – כְּשֵׁרָה, שֶׁזִּינְּקָה, וּכְמִדַּת רַבִּי אֱלִיעֶזֶר. וְאָמַר שְׁמוּאֵל: כּוֹתְלֵי בֵּית שְׁחִיטָה שָׁנִינוּ. אִי אָמְרַתְּ בִּשְׁלָמָא בִּתְחִלַּת שְׁחִיטָה – שַׁפִּיר, אֶלָּא אִי אָמְרַתְּ בְּסוֹף שְׁחִיטָה, לֵיחוּשׁ דִּלְמָא בִּתְחִלַּת שְׁחִיטָה זִינְּקָה.
 
 
-**Rav Naḥman bar Yitzḥak** explained further and **said: From where do I say** that this is so? It is from the mishna, **as we learned** that **Rabbi Shimon says:** In the case of **one who slaughters at night and the next day** he awoke **and found walls full of blood,** the slaughter is **valid,** as it is clear **that** the blood **spurted, and** this is **in accordance with the rule of Rabbi Eliezer. And Shmuel said** with regard to the walls mentioned in the statement of Rabbi Shimon: It is **the walls of the place of the slaughter,** i.e., the walls of the neck, not the walls of the house, that **we learned. Granted, if you say** that a convulsion even **at the beginning of** the act of **slaughter** is an indication of life, this works out **well. But if you say** that a convulsion is an indication of life only **at the conclusion of** the act of **slaughter, let us be concerned** that **perhaps** the blood **spurted** onto the walls of the neck **at the beginning of** the act of **slaughter,** and there was no indication of life.
+**Rav Naḥman bar Yitzḥak** explained further and **said: From where do I say** that this is so? It is from the mishna, **as we learned** that **Rabbi Shimon says:** In the case of **one who slaughters at night and the next day** he awoke **and found walls full of blood,** the slaughter is **valid,** as it is clear **that** the blood **spurted, and** this is **in accordance with the ruling of Rabbi Eliezer. And Shmuel said** with regard to the walls mentioned in the statement of Rabbi Shimon: It is **the walls of the place of the slaughter,** i.e., the walls of the neck, not the walls of the house, that **we learned. Granted, if you say** that a convulsion even **at the beginning of** the act of **slaughter** is an indication of life, this works out **well. But if you say** that a convulsion is an indication of life only **at the conclusion of** the act of **slaughter, let us be concerned** that **perhaps** the blood **spurted** onto the walls of the neck **at the beginning of** the act of **slaughter,** and there was no indication of life.
 
 
 ###### Chullin 38a:12
@@ -13479,7 +13479,7 @@ The Gemara asks: **And once a halakhic authority has ruled with regard to** the 
 ״הִנֵּה נַפְשִׁי לֹא מְטֻמָּאָה״ – שֶׁלֹּא הִרְהַרְתִּי בַּיּוֹם לָבֹא לִידֵי טוּמְאָה בַּלַּיְלָה, ״וּנְבֵלָה וּטְרֵפָה לֹא אָכַלְתִּי״ – שֶׁלֹּא אָכַלְתִּי בְּשַׂר ״כּוֹס כּוֹס״ מֵעוֹלָם, ״וְלֹא בָא בְּפִי בְּשַׂר פִּגּוּל״ – שֶׁלֹּא אָכַלְתִּי מִבְּהֵמָה שֶׁהוֹרָה בָּהּ חָכָם. מִשּׁוּם רַבִּי נָתָן אָמְרוּ: שֶׁלֹּא אָכַלְתִּי מִבְּהֵמָה שֶׁלֹּא הוּרְמוּ מַתְּנוֹתֶיהָ.
 
 
-The Sages interpreted the verse as follows: **“My soul has not been become impure”** means **that I did not think** of sexual thoughts **during the day** so as **to come to** the **impurity** of a seminal emission **at night. “I have not eaten an unslaughtered carcass, or a *tereifa*”** means **that I never ate** the **flesh of** an animal that was in danger of imminent death, leading one to say: **Slaughter** it, **slaughter** it quickly, before it dies. **“And no *piggul* flesh came into my mouth,”** means **that I never ate from an animal** with regard to **which** there was uncertainty whether it is prohibited and **a Sage issued a ruling** to permit it. The Sages **said in the name of Rabbi Natan:** The phrase means **that I never ate from an animal** from **which the gifts** of the priesthood, the foreleg, jaw, and abomasum, **were not separated.** The above acts are technically permitted but unseemly. How, then, could Rabba bar bar Ḥana consume the meat of this animal?
+The Sages interpreted the verse as follows: **“My soul has not become impure”** means **that I did not think** of sexual thoughts **during the day** so as **to come to** the **impurity** of a seminal emission **at night. “I have not eaten an unslaughtered carcass, or a *tereifa*”** means **that I never ate** the **flesh of** an animal that was in danger of imminent death, leading one to say: **Slaughter** it, **slaughter** it quickly, before it dies. **“And no *piggul* flesh came into my mouth,”** means **that I never ate from an animal** with regard to **which** there was uncertainty whether it is prohibited and **a Sage issued a ruling** to permit it. The Sages **said in the name of Rabbi Natan:** The phrase means **that I never ate from an animal** from **which the gifts** of the priesthood, the foreleg, jaw, and abomasum, **were not separated.** The above acts are technically permitted but unseemly. How, then, could Rabba bar bar Ḥana consume the meat of this animal?
 
 
 ###### Chullin 44b:6
@@ -16599,7 +16599,7 @@ The Gemara relates that there was **a certain duck that was in the house of Rav 
 [https://torahapp.org/share/book/Chullin/r/53b:10](https://torahapp.org/share/book/Chullin/r/53b:10)
 
 
-אָמַר רַב יוֹסֵף: הָא דִּבְנֵי רַבִּי חִיָּיא – כְּבָר פָּירְשַׁהּ שְׁמוּאֵל, דְּאָמַר שְׁמוּאֵל מִשּׁוּם רַבִּי חֲנִינָא בֶּן אַנְטִיגְנוֹס: דְּרוּסָה שֶׁאָמְרוּ – צְרִיכָה בְּדִיקָה כְּנֶגֶד בְּנֵי מֵעַיִים.
+אָמַר רַב יוֹסֵף: הָא דִּבְנֵי רַבִּי חִיָּיא – כְּבָר פֵּירְשַׁהּ שְׁמוּאֵל, דְּאָמַר שְׁמוּאֵל מִשּׁוּם רַבִּי חֲנִינָא בֶּן אַנְטִיגְנוֹס: דְּרוּסָה שֶׁאָמְרוּ – צְרִיכָה בְּדִיקָה כְּנֶגֶד בְּנֵי מֵעַיִים.
 
 
 **Rav Yosef said: This** statement **of the sons of Rabbi Ḥiyya** was **already explained** by **Shmuel, as Shmuel says in the name of Rabbi Ḥanina ben Antigonus: A clawed animal,** about **which they said** one must be concerned, **requires inspection adjacent to the intestines.**
@@ -17029,7 +17029,7 @@ The Gemara suggests: **Come** and **hear** proof from the continuation of the sa
 תָּא שְׁמַע: מִסְּאָה וְעַד סָאתַיִם – בַּחֲצִי לוֹג, מַאי לָאו סָאתַיִם כִּלְמַטָּה? לָא, סָאתַיִם כִּלְמַעְלָה.
 
 
-The Gemara suggests: **Come** and **hear** proof from the continuation of the same mishna: If the vessel had originally held **from a *se’a*up to two *se’a*,** its broken-off base or sides must hold **half a *log*** to be susceptible to impurity. **What, is it not** teaching that if it had originally held exactly **two *se’a*** it is treated **as** if though it had held **below** that amount? The Gemara responds: **No,** if it had held exactly **two *se’a*** it is treated **as** though it had held **above** that amount.
+The Gemara suggests: **Come** and **hear** proof from the continuation of the same mishna: If the vessel had originally held **from a *se’a* up to two *se’a*,** its broken-off base or sides must hold **half a *log*** to be susceptible to impurity. **What, is it not** teaching that if it had originally held exactly **two *se’a*** it is treated **as** if though it had held **below** that amount? The Gemara responds: **No,** if it had held exactly **two *se’a*** it is treated **as** though it had held **above** that amount.
 
 
 ###### Chullin 55a:4
@@ -17632,7 +17632,7 @@ The Gemara recounts: **Rabbi Yitzḥak bar Yosef had a certain hen** that fell i
 אָמַר רַבָּה, וְאִיתֵּימָא רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: גַּגּוֹ שֶׁל זֶפֶק נִידּוֹן כְּוֶושֶׁט. הֵיכָא? אָמַר רַב בִּיבִי בַּר אַבָּיֵי: כֹּל שֶׁנִּמְתָּח עִמּוֹ.
 
 
-**Rabba says, and some say** it was **Rabbi Yehoshua ben Levi** who says: **The roof the crop is treated like the gullet,** i.e., it renders the bird a *tereifa* if perforated in any amount. The Gemara asks: **Where** is the roof of the crop? **Rav Beivai bar Abaye said:** It is **any** part of the crop **that stretches with** the gullet.
+**Rabba says, and some say** it was **Rabbi Yehoshua ben Levi** who says: **The roof of the crop is treated like the gullet,** i.e., it renders the bird a *tereifa* if perforated in any amount. The Gemara asks: **Where** is the roof of the crop? **Rav Beivai bar Abaye said:** It is **any** part of the crop **that stretches with** the gullet.
 
 
 ###### Chullin 56b:13
@@ -18918,7 +18918,7 @@ The verse teaches the following: **Since Abimelech,** king of the Philistines, *
 [https://torahapp.org/share/book/Chullin/r/60b:14](https://torahapp.org/share/book/Chullin/r/60b:14)
 
 
-״צִידֹנִים יִקְרְאוּ לְחֶרְמוֹן שִׂרְיֹן״, תָּנָא: שְׂנִיר וְשִׂרְיוֹן מֵהָרֵי אֶרֶץ יִשְׂרָאֵל, מְלַמֵּד שֶׁכׇּל אֶחָד וְאֶחָד מֵאוּמּוֹת הָעוֹלָם הָלַךְ וּבָנָה לוֹ כְּרַךְ גָּדוֹל לְעַצְמוֹ, וְהֶעֱלָה לוֹ עַל שֵׁם הָרֵי אֶרֶץ יִשְׂרָאֵל, לְלַמֶּדְךָ שֶׁאֲפִילּוּ הָרֵי אֶרֶץ יִשְׂרָאֵל חֲבִיבִין עַל אֻומּוֹת הָעוֹלָם.
+״צִידֹנִים יִקְרְאוּ לְחֶרְמוֹן שִׂרְיֹן״, תָּנָא: שְׂנִיר וְשִׂרְיוֹן מֵהָרֵי אֶרֶץ יִשְׂרָאֵל, מְלַמֵּד שֶׁכׇּל אֶחָד וְאֶחָד מֵאוּמוֹת הָעוֹלָם הָלַךְ וּבָנָה לוֹ כְּרַךְ גָּדוֹל לְעַצְמוֹ, וְהֶעֱלָה לוֹ עַל שֵׁם הָרֵי אֶרֶץ יִשְׂרָאֵל, לְלַמֶּדְךָ שֶׁאֲפִילּוּ הָרֵי אֶרֶץ יִשְׂרָאֵל חֲבִיבִין עַל אוּמוֹת הָעוֹלָם.
 
 
 The Gemara cites another seemingly superfluous verse, describing Mount Hermon: **“Which Hermon the Sidonians call Sirion,** and the Amorites call it Senir” (Deuteronomy 3:9). A Sage **taught: Senir and Sirion are mountains of Eretz Yisrael.** The verse **teaches that every one of the nations of the world went and built itself a great city** on Mount Hermon, **and named it after** one of **the mountains of Eretz Yisrael, teaching you that even the mountains of Eretz Yisrael are beloved by the nations of the world.**
@@ -19271,7 +19271,7 @@ The Gemara asks: **But** why should these not be kosher? Wasn’t there **a cert
 [https://torahapp.org/share/book/Chullin/r/62b:7](https://torahapp.org/share/book/Chullin/r/62b:7)
 
 
-אָמַר אַבָּיֵי: תַּרְנְגוֹלָא דְּאַגְמָא חַד מִשְּׁמוֹנָה סְפֵיקוֹת הוּא, וְהַיְינוּ מַרְדּוּ. אָמַר רַב פָּפָּא: תַּרְנְגוֹלָא דְּאַגְמָא אֲסִירא, תַּרְנְגוֹלְתָּא דְּאַגְמָא שַׁרְיָא, וְסִימָנָיךְ – ״עַמּוֹנִי וְלֹא עַמּוֹנִית״. דְּרַשׁ מָרִימָר: תַּרְנְגוֹלְתָּא דְּאַגְמָא אֲסִירָא, חַזְיוּהָ דְּדָרְסָה וְאָכְלָה, וְהַיְינוּ גֵּירוּתָא.
+אָמַר אַבָּיֵי: תַּרְנְגוֹלָא דְּאַגְמָא חַד מִשְּׁמוֹנָה סְפֵיקוֹת הוּא, וְהַיְינוּ מַרְדּוּ. אָמַר רַב פָּפָּא: תַּרְנְגוֹלָא דְּאַגְמָא אֲסִירָא, תַּרְנְגוֹלְתָּא דְּאַגְמָא שַׁרְיָא, וְסִימָנָיךְ – ״עַמּוֹנִי וְלֹא עַמּוֹנִית״. דְּרַשׁ מָרִימָר: תַּרְנְגוֹלְתָּא דְּאַגְמָא אֲסִירָא, חַזְיוּהָ דְּדָרְסָה וְאָכְלָה, וְהַיְינוּ גֵּירוּתָא.
 
 
 **Abaye says: The swamp rooster is one of the eight uncertain** cases, **and this is** the ***mardu*,** i.e., the *marda* mentioned earlier. **Rav Pappa says: The swamp rooster is forbidden, but the swamphen is permitted. And your mnemonic** to remember this is the statement of the Sages with regard to the verse: “An Ammonite or a Moabite shall not enter into the assembly of the Lord” (Deuteronomy 23:4), that **an Ammonite man** is unfit to enter the assembly, **but not an Ammonite woman. Mareimar taught: The swamphen is forbidden,** because the Sages **saw that it claws** its prey **and eats** it. **And this is** the ***giruta*,** a non-kosher bird (see 109b).
@@ -19993,7 +19993,7 @@ the **vineyard bird,** which is similar to the *arbeh* in that its forehead is n
 [https://torahapp.org/share/book/Chullin/r/65b:3](https://torahapp.org/share/book/Chullin/r/65b:3)
 
 
-וְאֵין לִי אֶלָּא הַבָּא וְאֵין לוֹ גַּבַּחַת. הַבָּא וְיֵשׁ לוֹ גַּבַּחַת, הַבָּא וְאֵין לוֹ זָנָב, הַבָּא וְיֵשׁ לוֹ זָנָב מִנַּיִן? תַּלְמוּד לוֹמַר ״חַרְגֹּל״ – זֶה רָשׁוֹן, ״לְמִינֵהוּ״ – לְהָבִיא אֶת הַכַּרְסֶפֶת וְאֶת הַשַּׁחֲלָנִית.
+וְאֵין לִי אֶלָּא הַבָּא וְאֵין לוֹ גַּבַּחַת, הַבָּא וְיֵשׁ לוֹ גַּבַּחַת. הַבָּא וְאֵין לוֹ זָנָב, הַבָּא וְיֵשׁ לוֹ זָנָב מִנַּיִן? תַּלְמוּד לוֹמַר ״חַרְגֹּל״ – זֶה רָשׁוֹן, ״לְמִינֵהוּ״ – לְהָבִיא אֶת הַכַּרְסֶפֶת וְאֶת הַשַּׁחֲלָנִית.
 
 
 **And I have** derived **only** that a species **that comes** before a person **and does not have a smooth forehead,** like the *arbeh*, or one **that comes** before a person **and has a smooth forehead,** like the *solam*, or one that **comes** before a person **and has no tail,** is kosher, since none of the previously mentioned grasshoppers have a tail. **From where** is it derived that even one **that comes** before a person **and has a tail** is kosher? **The verse states: “*Ḥargol*,”** and **this is** the ***rashon*,** which has a tail. The phrase **“after its kinds”** that follows *ḥargol* is another generalization, and it serves **to include the *karsefet* and the *shaḥlanit*,** which also have tails.
@@ -20004,7 +20004,7 @@ the **vineyard bird,** which is similar to the *arbeh* in that its forehead is n
 [https://torahapp.org/share/book/Chullin/r/65b:4](https://torahapp.org/share/book/Chullin/r/65b:4)
 
 
-וְאֵין לִי אֶלָּא הַבָּא וְאֵין לוֹ גַּבַּחַת. הַבָּא וְיֵשׁ לוֹ גַּבַּחַת, הַבָּא וְאֵין לוֹ זָנָב, הַבָּא וְיֵשׁ לוֹ זָנָב, הַבָּא וְאֵין רֹאשׁוֹ אָרוֹךְ, הַבָּא וְרֹאשׁוֹ אָרוֹךְ מִנַּיִן?
+וְאֵין לִי אֶלָּא הַבָּא וְאֵין לוֹ גַּבַּחַת, הַבָּא וְיֵשׁ לוֹ גַּבַּחַת; הַבָּא וְאֵין לוֹ זָנָב, הַבָּא וְיֵשׁ לוֹ זָנָב. הַבָּא וְאֵין רֹאשׁוֹ אָרוֹךְ, הַבָּא וְרֹאשׁוֹ אָרוֹךְ מִנַּיִן?
 
 
 **And I have** derived **only** that a species **that comes** before a person **and does not have a smooth forehead,** or **that comes** before a person **and has a smooth forehead,** or **that comes and has no tail,** or **that comes and has a tail,** or **that comes and its head is not long,** is kosher, since every grasshopper mentioned until this point does not have a long head. **From where** is it derived that even one **that comes and its head is long** is kosher?
@@ -20332,7 +20332,7 @@ The Gemara asks: How can this verse be an instance of a generalization, a detail
 [https://torahapp.org/share/book/Chullin/r/67a:2](https://torahapp.org/share/book/Chullin/r/67a:2)
 
 
-כְּלָל וּפְרָט וּכְלָל – אִי אַתָּה דָן אֶלָּא כְּעֵין הַפְּרָט, מָה הַפְּרָט מְפוֹרָשׁ מַיִם נוֹבְעִים, אַף כֹּל מַיִם נוֹבְעִים. מַאי רַבִּי? חֲרִיצִין וּנְעִיצִין לְאִיסּוּרָא, וּמַאי מַיעֵט? בּוֹרוֹת שִׁיחִין וּמְעָרוֹת לְהֶתֵּירָא.
+כְּלָל וּפְרָט וּכְלָל – אִי אַתָּה דָן אֶלָּא כְּעֵין הַפְּרָט, מָה הַפְּרָט מְפוֹרָשׁ מַיִם נוֹבְעִים, אַף כֹּל מַיִם נוֹבְעִים. מַאי רַבִּי? חֲרִיצִין וּנְעִיצִין לְאִיסּוּרָא, וּמַאי מַעֵט? בּוֹרוֹת שִׁיחִין וּמְעָרוֹת לְהֶתֵּירָא.
 
 
 Therefore, as in any instance of **a generalization, and a detail, and a generalization, you may deduce** that the verse is referring **only** to items **similar to the detail. Just as the detail,** seas and rivers, is referring **explicitly** to **flowing water, so too,** fish without fins and scales found in **all flowing water** are forbidden. **What** does this **include?** It includes **trenches and water channels, to prohibit** fish without fins and scales found in them. **And what** does it **exclude?** It excludes **pits, ditches, and caves,** which are collections of still water, **to permit** all fish found in them.
@@ -20343,7 +20343,7 @@ Therefore, as in any instance of **a generalization, and a detail, and a general
 [https://torahapp.org/share/book/Chullin/r/67a:3](https://torahapp.org/share/book/Chullin/r/67a:3)
 
 
-וְאֵימָא: מָה הַפְּרָט מְפוֹרָשׁ – מַיִם גְּדֵלִין עַל גַּבֵּי קַרְקַע, אַף כֹּל מַיִם גְּדֵלִין עַל גַּבֵּי קַרְקַע. וּמַאי רַבִּי? אֲפִילּוּ בּוֹרוֹת שִׁיחִין וּמְעָרוֹת לְאִיסּוּרָא, וּמַאי מַיעֵט? מַיעֵט כֵּלִים!
+וְאֵימָא: מָה הַפְּרָט מְפוֹרָשׁ – מַיִם גְּדֵלִין עַל גַּבֵּי קַרְקַע, אַף כֹּל מַיִם גְּדֵלִין עַל גַּבֵּי קַרְקַע. וּמַאי רַבִּי? אֲפִילּוּ בּוֹרוֹת שִׁיחִין וּמְעָרוֹת לְאִיסּוּרָא, וּמַאי מַעֵט? מַעֵט כֵּלִים!
 
 
 The Gemara asks: **But** why not **say: Just as the detail** refers **explicitly** to **water that grows,** i.e., is found, **on the ground, so too,** it includes **all water that grows on the ground? And what** would this **include?** It would include **even pits, ditches, and caves, to prohibit** fish found in them that do not have fins and scales. **And what** would it **exclude?** It would **exclude** only those found in **vessels.**
@@ -20365,7 +20365,7 @@ The Gemara responds: **If so, what use is** the phrase “These **may you eat** 
 [https://torahapp.org/share/book/Chullin/r/67a:5](https://torahapp.org/share/book/Chullin/r/67a:5)
 
 
-דְּבֵי רַבִּי יִשְׁמָעֵאל תָּנָא: ״בַּמָּיִם״ ״בַּמַּיִם״ שְׁתֵּי פְעָמִים, אֵין זֶה כְּלָל וּפְרָט, אֶלָּא רִיבָּה וּמִיעֵט. ״בַּמָּיִם״ – רִיבָּה, ״בַּיַּמִּים וּבַנְּחָלִים״ – מִיעֵט, ״בַּמַּיִם״ – חָזַר וְרִיבָּה. רִיבָּה וּמִיעֵט וְרִיבָּה – רִיבָּה הַכֹּל. מַאי רַבִּי? חֲרִיצִין וּנְעִיצִין לְאִיסּוּרָא, וּמַאי מַיעֵט? בּוֹרוֹת שִׁיחִין וּמְעָרוֹת לְהֶתֵּירָא.
+דְּבֵי רַבִּי יִשְׁמָעֵאל תָּנָא: ״בַּמָּיִם״ ״בַּמַּיִם״ שְׁתֵּי פְעָמִים, אֵין זֶה כְּלָל וּפְרָט, אֶלָּא רִיבָּה וּמִיעֵט. ״בַּמָּיִם״ – רִיבָּה, ״בַּיַּמִּים וּבַנְּחָלִים״ – מִיעֵט, ״בַּמַּיִם״ – חָזַר וְרִיבָּה. רִיבָּה וּמִיעֵט וְרִיבָּה – רִיבָּה הַכֹּל. מַאי רַבִּי? חֲרִיצִין וּנְעִיצִין לְאִיסּוּרָא, וּמַאי מַעֵט? בּוֹרוֹת שִׁיחִין וּמְעָרוֹת לְהֶתֵּירָא.
 
 
 § The *tanna* of the school of **Rabbi Yishmael taught:** The verse’s use of the phrase **“in the waters,” “in the waters” twice is not** to be interpreted as **a generalization and a detail,** but **rather** as an instance of **amplification and restriction.** By the first phrase **“in the waters,”** the verse **amplifies,** by the phrase **“in the seas and in the rivers” it restricts,** and by the second instance of **“in the waters” it then amplifies again.** According to a hermeneutical principle, when a verse **amplified, and** then **restricted, and** then **amplified, it amplified** the relevant category to include **everything** except for the specific matter excluded by the restriction, i.e., in the seas and in the rivers. **What,** then, **does it include?** It includes **trenches and water channels, to prohibit** fish without fins and scales found in them. **And what does it exclude?** It excludes fish found in **pits, ditches, and caves, to permit** them.
@@ -20376,7 +20376,7 @@ The Gemara responds: **If so, what use is** the phrase “These **may you eat** 
 [https://torahapp.org/share/book/Chullin/r/67a:6](https://torahapp.org/share/book/Chullin/r/67a:6)
 
 
-אֵימָא: מַאי רַבִּי? בּוֹרוֹת שִׁיחִין וּמְעָרוֹת לְאִיסּוּרָא, וּמַאי מַיעֵט? מַיעֵט כֵּלִים. אִם כֵּן, ״תֹּאכְלוּ״ מַאי אַהֲנִי לֵיהּ?
+אֵימָא: מַאי רַבִּי? בּוֹרוֹת שִׁיחִין וּמְעָרוֹת לְאִיסּוּרָא, וּמַאי מַעֵט? מַעֵט כֵּלִים. אִם כֵּן, ״תֹּאכְלוּ״ מַאי אַהֲנִי לֵיהּ?
 
 
 The Gemara objects: Why not **say: What does it include?** It includes fish found in **pits, ditches, and caves, to prohibit** them if they do not have fins and scales. **And what does it exclude?** It excludes only fish found in **vessels.** The Gemara responds: **If so, what use is** the phrase “These **may you eat** of all that are in the waters”? Even without it, vessels would be excluded. Rather, it indicates that pits, ditches and caves are excluded by the restriction, and all fish found in them are permitted.
@@ -21265,7 +21265,7 @@ The Gemara cites the source of the opinions of Rabbi Meir and Rabbi Yehuda: **As
 [https://torahapp.org/share/book/Chullin/r/69a:17](https://torahapp.org/share/book/Chullin/r/69a:17)
 
 
-וְהָכִי קָמִיבַּעְיָא לַן: מַהוּ לִגְמוֹעַ אֶת חֶלְבּוֹ? חֵלֶב דְּעָלְמָא לָא כְּאֵבֶר מִן הַחַי דָּמֵי, וּשְׁרֵי, הַאי נָמֵי לָא שְׁנָא.
+וְהָכִי קָמִיבַּעְיָא לַן: מַהוּ לִגְמוֹעַ אֶת חֲלָבוֹ? חָלָב דְּעָלְמָא לָא כְּאֵבֶר מִן הַחַי דָּמֵי, וּשְׁרֵי, הַאי נָמֵי לָא שְׁנָא.
 
 
 **And this is** the **dilemma** that **we are raising: What is** the *halakha* **with regard to drinking** the **milk** of a fetus whose limb is forbidden? **Isn’t regular milk** of a normal animal **comparable to a limb from a living** animal, given that it is taken from a live animal, **and** yet it **is permitted?** If so, **this** milk **too** should be **no different,** and although the milk comes from an animal whose limb is forbidden as a limb from a living animal, as it was not permitted through the slaughter of its mother, nevertheless, the milk should be permitted.
@@ -21758,7 +21758,7 @@ Another dilemma: If **one pressed together** the openings of **two wombs** of tw
 עַד כָּאן לָא אִיבַּעְיָא לֵיהּ אֶלָּא פָּרוּץ מְרוּבֶּה עַל הָעוֹמֵד, דְּאִיכָּא עוֹמֵד בְּעוֹלָם, אֲבָל נִגְמְמוּ – לָא קָא מִיבַּעְיָא לֵיהּ.
 
 
-Rabbi Zeira explains how this dilemma can resolve Rabbi Yirmeya’s dilemma: That **dilemma was raised only with regard to** a case where the **breached** section **is greater than the standing** section, **as there is** at least some part of the womb still **standing** and therefore one can consider the possibility that it could consecrate the fetus. **But a dilemma was not raised with regard to** case where the walls **were thinned,** because in that case it is obvious that the fetus is not consecrated, as there is nothing left to consecrate it.
+Rabbi Zeira explains how this dilemma can resolve Rabbi Yirmeya’s dilemma: That **dilemma was raised only with regard to** a case where the **breached** section **is greater than the standing** section, **as there is** at least some part of the womb still **standing** and therefore one can consider the possibility that it could consecrate the fetus. **But a dilemma was not raised with regard to** a case where the walls **were thinned,** because in that case it is obvious that the fetus is not consecrated, as there is nothing left to consecrate it.
 
 
 
@@ -22339,7 +22339,7 @@ This is **as we learned** in a mishna (*Nega’im* 13:9): With regard to **one w
 טוּמְאָה בְּלוּעָה – דִּתְנַן: בָּלַע טַבַּעַת טְמֵאָה, טוֹבֵל וְאוֹכֵל בִּתְרוּמָתוֹ; הֱקִיאָהּ – טְמֵאָה, וְטִמְּאַתּוּ.
 
 
-Rava elaborates: With regard to **an encapsulated impure** item, the *halakha* is **as we learned** (*Mikvaot* 10:8): If someone **swallowed a ring** that was **impure** due to having been in contact with a corpse, he is thereby rendered impure. To render himself pure **he immerses and** then **he may partake of his *teruma*,** despite the fact that the impure ring is still inside him. The reason this is permitted is that since the ring in encapsulated inside the person’s body it cannot impart impurity. If **he vomited** out this ring it remains **impure,** as it was not purified by his immersion, **and** therefore **it renders him impure** upon its exit from his body.
+Rava elaborates: With regard to **an encapsulated impure** item, the *halakha* is **as we learned** (*Mikvaot* 10:8): If someone **swallowed a ring** that was **impure** due to having been in contact with a corpse, he is thereby rendered impure. To render himself pure **he immerses and** then **he may partake of his *teruma*,** despite the fact that the impure ring is still inside him. The reason this is permitted is that since the ring is encapsulated inside the person’s body it cannot impart impurity. If **he vomited** out this ring it remains **impure,** as it was not purified by his immersion, **and** therefore **it renders him impure** upon its exit from his body.
 
 
 ###### Chullin 71b:13
@@ -22744,7 +22744,7 @@ The Gemara asks: **Granted, according to** the explanation of **Ulla** that the 
 תַּנְיָא, אָמַר לָהֶן רַבִּי מֵאִיר: וְכִי מִי טִיהֲרוֹ לְאֵבֶר זֶה מִידֵי נְבֵלָה? שְׁחִיטַת אִמּוֹ! אִם כֵּן, תַּתִּירֶנּוּ בַּאֲכִילָה!
 
 
-The mishna itself proceeds to cite Rabbi’s Meir’s response to this claim. The Gemara here cites a different version of his response based on that which **is taught** in a *baraita*: **Rabbi Meir said to** the Rabbis: **But what renders this limb pure from** the impurity of **a carcass?** You might say it is **the slaughter of its mother,** but **if so,** the act of slaughter **should** also **permit** it even **for consumption.**
+The mishna itself proceeds to cite Rabbi Meir’s response to this claim. The Gemara here cites a different version of his response based on that which **is taught** in a *baraita*: **Rabbi Meir said to** the Rabbis: **But what renders this limb pure from** the impurity of **a carcass?** You might say it is **the slaughter of its mother,** but **if so,** the act of slaughter **should** also **permit** it even **for consumption.**
 
 
 ###### Chullin 73a:9
@@ -24129,7 +24129,7 @@ Rav Naḥman **said to him: This is** what I meant to **say:** People will say: 
 שְׁלַחוּ מִתָּם: הִלְכְתָא כְּוָותֵיהּ דְּרַב, הֲדוּר שְׁלַחוּ: כְּוָותֵיהּ דִּשְׁמוּאֵל, הֲדוּר שְׁלַחוּ: כְּוָותֵיהּ דְּרַב, וְאֵבֶר עַצְמוֹ מְטַמֵּא בְּמַשָּׂא.
 
 
-§ With regard to this dispute, **they sent** a ruling **from there,** Eretz Yisrael: **The *halakha*** is **in accordance with** the opinion **of Rav** that if the bone was broken above the leg joint, if a majority of the flesh around the break is not intact, both the animal and the limb are prohibited. **They then sent** a ruling: The *halakha* is **in accordance with** the opinion **of Shmuel** that only the limb is prohibited. **They then** a ruling: The *halakha* is **in accordance with** the opinion **of Rav** that the animal is a *tereifa*, **and** they added that the **limb itself** is not rendered pure by the slaughter; rather, it **imparts** the **impurity** of a limb from a living animal **by carrying.** The animal itself, though, is rendered pure from the impurity of a carcass and is prohibited only as a *tereifa*.
+§ With regard to this dispute, **they sent** a ruling **from there,** Eretz Yisrael: **The *halakha*** is **in accordance with** the opinion **of Rav** that if the bone was broken above the leg joint, if a majority of the flesh around the break is not intact, both the animal and the limb are prohibited. **They then sent** a ruling: The *halakha* is **in accordance with** the opinion **of Shmuel** that only the limb is prohibited. **They then sent** a ruling: The *halakha* is **in accordance with** the opinion **of Rav** that the animal is a *tereifa*, **and** they added that the **limb itself** is not rendered pure by the slaughter; rather, it **imparts** the **impurity** of a limb from a living animal **by carrying.** The animal itself, though, is rendered pure from the impurity of a carcass and is prohibited only as a *tereifa*.
 
 
 ###### Chullin 76b:13
@@ -25770,7 +25770,7 @@ If an animal and its offspring that are sacrificial animals are slaughtered, the
 וְאִי סָלְקָא דַעְתָּךְ אֵין ״אוֹתוֹ וְאֶת בְּנוֹ״ נוֹהֵג בְּקָדָשִׁים, שֵׁנִי אַמַּאי בְּלֹא תַעֲשֶׂה וְתוּ לָא? כָּרֵת נָמֵי לִיחַיַּיב!
 
 
-Rava now explains his objection: **And if it enters your mind** that the prohibition of: **Itself and its offspring,** does **not apply to sacrificial** animals, then with regard to slaughtering the **second** animal outside the Temple, **why** does one transgress only **a prohibition and nothing more? Let him be liable** to receive ***karet* as well,** as since its slaughter does not violate the prohibition of: Itself and its offspring, it would fit to be sacrificed inside the Temple. Therefore, it is clear that the prohibition of: Itself and its offspring, does apply to sacrificial animals.
+Rava now explains his objection: **And if it enters your mind** that the prohibition of: **Itself and its offspring,** does **not apply to sacrificial** animals, then with regard to slaughtering the **second** animal outside the Temple, **why** does one transgress only **a prohibition and nothing more? Let him be liable** to receive ***karet* as well,** as since its slaughter does not violate the prohibition of: Itself and its offspring, it would be fit to be sacrificed inside the Temple. Therefore, it is clear that the prohibition of: Itself and its offspring, does apply to sacrificial animals.
 
 
 ###### Chullin 81a:12
@@ -27100,7 +27100,7 @@ The Gemara asks: **What** is **its uncertain** obligation that overrides a Festi
 וְרַבִּי יוֹסֵי לְטַעְמֵיהּ, דְּאָמַר: אִשָּׁה וַדָּאִית נָמֵי תָּקְעָה. דְּתַנְיָא: בְּנֵי יִשְׂרָאֵל סוֹמְכִין, וְלֹא בְּנוֹת יִשְׂרָאֵל סוֹמְכוֹת.
 
 
-The Gemara notes: **And Rabbi Yosei,** who does not accept this refutation, conforms **to his** standard line of **reasoning, as he says:** One who is **definitely a woman may also sound** the shofar on Rosh HaShana. **As it is taught** in a *baraita* concerning the verse that discusses a burnt offering: “Speak to the sons of Israel…and he shall place his hands upon the head of the burnt offering” (Leviticus 1:2–4). The verse indicates that **the sons of Israel place** their hands upon the head of an offering, **but the daughters of Israel do notplace** their hands.
+The Gemara notes: **And Rabbi Yosei,** who does not accept this refutation, conforms **to his** standard line of **reasoning, as he says:** One who is **definitely a woman may also sound** the shofar on Rosh HaShana. **As it is taught** in a *baraita* concerning the verse that discusses a burnt offering: “Speak to the sons of Israel…and he shall place his hands upon the head of the burnt offering” (Leviticus 1:2–4). The verse indicates that **the sons of Israel place** their hands upon the head of an offering, **but the daughters of Israel do not place** their hands.
 
 
 ###### Chullin 85a:3
@@ -28287,7 +28287,7 @@ The Gemara asks: Why must the verse be interpreted in this manner? **Say** that 
 אֲמַר לֵיהּ רַב נַחְמָן בַּר יִצְחָק לְרָבָא: מַאי בּוּרְכָתֵיהּ? אֲנָא אַמְרִיתַהּ נִיהֲלֵיהּ, וּמֵהָא מַתְנִיתָא אַמְרִיתַהּ נִיהֲלֵיהּ: הָיָה מְהַלֵּךְ בַּמִּדְבָּר, וְאֵין לוֹ אֵפֶר לְכַסּוֹת – שׁוֹחֵק דִּינַר זָהָב וּמְכַסֶּה. הָיָה מְהַלֵּךְ בִּסְפִינָה, וְאֵין לוֹ עָפָר לְכַסּוֹת – שׂוֹרֵף טַלִּיתוֹ וּמְכַסֶּה.
 
 
-**Rav Naḥman bar Yitzḥak said to Rava: What is the absurdity** of **his** statement? **I said this** statement to Rav Naḥman bar Rav Ḥisda **and I said it to him from this *baraita*:** If one **is traveling in the desert,** where the earth is not arable, and wishes to slaughter an undomesticated animal or a bird, **but he does not have dirt** with which **to cover** the blood, **he may grind a gold dinar** into powder **and cover** the blood with it. If one **is traveling on a ship** and wants to slaughter an undomesticated animal or a bird **but he does not have earth** with which **to cover** the blood, **he may burn his garment and cover** the blood with the ashes. It is evident from the first clause of the *baraita* that desert sand, which does not allow for the sprouting of seeds, may not be used to cover the blood of an undomesticated animal or a bird.
+**Rav Naḥman bar Yitzḥak said to Rava: What is the absurdity** of **his** statement? **I said this** statement to Rav Naḥman bar Rav Ḥisda **and I said it to him from this *baraita*:** If one **is traveling in the desert,** where the earth is not arable, and wishes to slaughter an undomesticated animal or a bird, **but he does not have ashes** with which **to cover** the blood, **he may grind a gold dinar** into powder **and cover** the blood with it. If one **is traveling on a ship** and wants to slaughter an undomesticated animal or a bird **but he does not have earth** with which **to cover** the blood, **he may burn his garment and cover** the blood with the ashes. It is evident from the first clause of the *baraita* that desert sand, which does not allow for the sprouting of seeds, may not be used to cover the blood of an undomesticated animal or a bird.
 
 
 ###### Chullin 88b:7
@@ -28777,7 +28777,7 @@ The Gemara offers an alternative answer: **Rather, here** in the mishna **we are
 אִיכָּא דְּאָמְרִי, אָמַר רַב פָּפָּא: וְלָא פְּלִיגִי – כָּאן לְחׇלְצוֹ, וְכָאן לְהַעֲלוֹתוֹ.
 
 
-**There are** those **who say** that **Rav Pappa said** as follows: Rabbi Ḥiyya bar Yosef and Rabbi Yoḥanan **do not disagree;** they are merely referring to different cases. **Here,** Rabbi Ḥiyya bar Yosef says that the prohibition of the sciatic nerve does not apply to burnt offerings, in that one is not required **to remove it** before burning the offering on the altar. **There,** Rabbi Yoḥanan says that he prohibition does apply, in that if one did remove the sciatic nerve, it is prohibited **to bring it up** onto the altar independently.
+**There are** those **who say** that **Rav Pappa said** as follows: Rabbi Ḥiyya bar Yosef and Rabbi Yoḥanan **do not disagree;** they are merely referring to different cases. **Here,** Rabbi Ḥiyya bar Yosef says that the prohibition of the sciatic nerve does not apply to burnt offerings, in that one is not required **to remove it** before burning the offering on the altar. **There,** Rabbi Yoḥanan says that the prohibition does apply, in that if one did remove the sciatic nerve, it is prohibited **to bring it up** onto the altar independently.
 
 
 ###### Chullin 90a:11
@@ -29468,7 +29468,7 @@ The Gemara expounds other verses pertaining to the same incident. The verse stat
 וּכְתִיב בֵּיהּ בְּמַלְאָךְ ״וּגְוִיָּתוֹ כְתַרְשִׁישׁ״, וּגְמִירִי דְּתַרְשִׁישׁ תְּרֵי אַלְפֵי פַּרְסֵי הָוֵי.
 
 
-**And it is written** in a verse **with regard to an angel: “His body was like Tarshish”** (Daniel 10:6). **And** it **is learned** as a tradition **that** the city of **Tarshish was two thousand parasangs.** Consequently, in order to accommodate four angels, the ladder must have been eight thousands parasangs wide.
+**And it is written** in a verse **with regard to an angel: “His body was like Tarshish”** (Daniel 10:6). **And** it **is learned** as a tradition **that** the city of **Tarshish was two thousand parasangs.** Consequently, in order to accommodate four angels, the ladder must have been eight thousand parasangs wide.
 
 
 ###### Chullin 91b:11
@@ -30272,7 +30272,7 @@ The Gemara challenges: **But isn’t it taught** in a *baraita*: **The outer** n
 אָמַר רַב פָּפָּא: וְלָא פְּלִיגִי, כָּאן – לְהַלְקוֹתוֹ, כָּאן – לְעַבְּרוֹ.
 
 
-**Rav Pappa said:** Rav Yehuda and Rabbi Yoḥanan are referring to two different levels of liability, **and they do not disagree. Here,** when Rabbi Yoḥanan said he is liable only if there is an olive-bulk of forbidden fat remaining, he was referring **to flogging him. There,** when Rav Yehuda said he is liable even he leaves forbidden fat the size of a barley grain, he was referring **to removing him** from his position as a butcher.
+**Rav Pappa said:** Rav Yehuda and Rabbi Yoḥanan are referring to two different levels of liability, **and they do not disagree. Here,** when Rabbi Yoḥanan said he is liable only if there is an olive-bulk of forbidden fat remaining, he was referring **to flogging him. There,** when Rav Yehuda said he is liable even if he leaves forbidden fat the size of a barley grain, he was referring **to removing him** from his position as a butcher.
 
 
 ###### Chullin 93b:14
@@ -31156,7 +31156,7 @@ The Gemara relates that **Rav Naḥman of Neharde’a arrived at** the home of *
 דְּאִי לָא תֵּימָא הָכִי, הֵיאַךְ סוֹמֵא מוּתָּר בְּאִשְׁתּוֹ, וּבְנֵי אָדָם אֵיךְ מוּתָּרִין בִּנְשׁוֹתֵיהֶן בַּלַּיְלָה? אֶלָּא בִּטְבִיעוּת עֵינָא דְּקָלָא, הָכָא נָמֵי בִּטְבִיעוּת עֵינָא.
 
 
-Furthermore, one must hold that sensory recognition is reliable even without identifying marks, **for if you do not say so, how is** it that **a blind** man **permitted to** engage in sexual intercourse with **his wife** despite the fact that he cannot identify her by means of her identifying marks? **And** similarly, **how are** any **men permitted to** engage in intercourse with **their wives at night,** when it is dark and they cannot see their wives’ identifying marks? **Rather,** one must say that they identify their wives **based on voice recognition. Here too,** in these cases of lost meat and sky-blue wool, they remain permitted **based on visual recognition.**
+Furthermore, one must hold that sensory recognition is reliable even without identifying marks, **for if you do not say so, how is** it that **a blind** man is **permitted to** engage in sexual intercourse with **his wife** despite the fact that he cannot identify her by means of her identifying marks? **And** similarly, **how are** any **men permitted to** engage in intercourse with **their wives at night,** when it is dark and they cannot see their wives’ identifying marks? **Rather,** one must say that they identify their wives **based on voice recognition. Here too,** in these cases of lost meat and sky-blue wool, they remain permitted **based on visual recognition.**
 
 
 ###### Chullin 96a:3
@@ -32200,7 +32200,7 @@ Rabbi Yehuda bar Zevina **said to him: Bring** the animal **before him again;** 
 כִּי אֲתוֹ לְקַמֵּיהּ דְּרַבִּי אַמֵּי, מְשַׁדַּר לְהוּ לְקַמֵּיהּ דְּרַבִּי יִצְחָק בֶּן חֲלוּב, דְּמוֹרֵי בַּהּ לְהֶיתֵּירָא מִשּׁוּם דְּרַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי, וְלֵיהּ לָא סְבִירָא לֵיהּ. וְהִלְכְתָא: אֵין בְּגִידִין בְּנוֹתֵן טַעַם.
 
 
-**When** people **would come before Rabbi Ami** to ask about the *halakha* of a thigh that was cooked with the sciatic nerve inside, he would **send them before Rabbi Yitzḥak ben Ḥalov, who** would **rule** leniently **about** this issue and say that is was **permitted, in the name of Rabbi Yehoshua ben Levi.** Rabbi Ami **himself did not hold accordingly,** but he did not wish to rule stringently for others. **And the *halakha*** is that sciatic **nerves do not impart flavor** at all.
+**When** people **would come before Rabbi Ami** to ask about the *halakha* of a thigh that was cooked with the sciatic nerve inside, he would **send them before Rabbi Yitzḥak ben Ḥalov, who** would **rule** leniently **about** this issue and say that it was **permitted, in the name of Rabbi Yehoshua ben Levi.** Rabbi Ami **himself did not hold accordingly,** but he did not wish to rule stringently for others. **And the *halakha*** is that sciatic **nerves do not impart flavor** at all.
 
 
 ###### Chullin 99b:12
@@ -33621,7 +33621,7 @@ Rabbi Akiva **said to them: The matter is so,** and that proves that my opinion 
 רַב אָשֵׁי אָמַר: כּוּלַּהּ רַבִּי עֲקִיבָא הִיא, וְהָכִי קָאָמַר: כׇּל הַבָּשָׂר אָסוּר לְבַשֵּׁל בְּחָלָב, מֵהֶן מִדִּבְרֵי תוֹרָה וּמֵהֶן מִדִּבְרֵי סוֹפְרִים, חוּץ מִבְּשַׂר דָּגִים וַחֲגָבִים, שֶׁאֵינָם לֹא מִדִּבְרֵי תוֹרָה וְלֹא מִדִּבְרֵי סוֹפְרִים.
 
 
-**Rav Ashi said** a different explanation: **The entire** mishna **is** in accordance with the opinion of **Rabbi Akiva,** as indicated by the latter clause, concerning vows. **And** as for the first part of the mishna, **this** is what it **is saying:** It is **prohibited to cook any meat** cooked **in milk, some** types **of** meat **by Torah law,** i.e., that of domesticated animals, **and some** types **of** meat **by rabbinic law,** i.e., that of undomesticated animals and birds. This prohibition applies to all types of meat **except for the meat of fish and grasshoppers, which are** not prohibited, **neither by Torah law nor by rabbinic law.**
+**Rav Ashi said** a different explanation: **The entire** mishna **is** in accordance with the opinion of **Rabbi Akiva,** as indicated by the latter clause, concerning vows. **And** as for the first part of the mishna, **this** is what it **is saying:** It is **prohibited to cook any meat in milk, some** types **of** meat **by Torah law,** i.e., that of domesticated animals, **and some** types **of** meat **by rabbinic law,** i.e., that of undomesticated animals and birds. This prohibition applies to all types of meat **except for the meat of fish and grasshoppers, which are** not prohibited, **neither by Torah law nor by rabbinic law.**
 
 
 ###### Chullin 104a:8
@@ -34158,7 +34158,7 @@ The Gemara relates: **Rav Ḥisda and Rabba bar Rav Huna were traveling on a boa
 וְאָמַר אַבָּיֵי: מֵרֵישׁ הֲוָה אָמֵינָא, הַאי דְּלָא אָכְלִי יַרְקָא דִּנְפַל (אַתַּכָּא) [מִתַּכָּא], מִשּׁוּם מְאִיסוּתָא. אֲמַר לִי מָר: מִשּׁוּם דְּקָשֶׁה לְרֵיחַ הַפֶּה. וְאָמַר אַבָּיֵי: מֵרֵישׁ הֲוָה אָמֵינָא, הַאי דְּלָא יָתְבִי תּוּתֵי מַרְזֵיבָא, מִשּׁוּם שׁוֹפְכִים. אֲמַר לִי מָר: מִשּׁוּם דִּשְׁכִיחִי מַזִּיקִין.
 
 
-**And Abaye said: At first I would say** as follows: The reason for **this** practice **that** people **do not eat vegetables that fell on the table** is **because** it is **replusive.** But **the Master said to me** that it is **because it is bad for halitosis. And Abaye said: At first I would say** that the reason for **this** practice **that** people **do not sit under a gutter** is **because** of the **waste water** that pours out of it. But **the Master said to me** that it is **because demons are** commonly **found** there.
+**And Abaye said: At first I would say** as follows: The reason for **this** practice **that** people **do not eat vegetables that fell on the table** is **because** it is **repulsive.** But **the Master said to me** that it is **because it is bad for halitosis. And Abaye said: At first I would say** that the reason for **this** practice **that** people **do not sit under a gutter** is **because** of the **waste water** that pours out of it. But **the Master said to me** that it is **because demons are** commonly **found** there.
 
 
 ###### Chullin 105b:16
@@ -35728,7 +35728,7 @@ The Gemara comments: **And this statement** applies only to **liver,** due to th
 [https://torahapp.org/share/book/Chullin/r/111a:11](https://torahapp.org/share/book/Chullin/r/111a:11)
 
 
-רַב דִּימִי מִנְּהַרְדְּעָא מַתְנֵי אִפְכָּא: כַּחְלָא עִילָּוֵי בִּשְׂרָא – שְׁרֵי, מַאי טַעְמָא? חֵלֶב שְׁחוּטָה דְּרַבָּנַן, כַּבְדָּא עִילָּוֵי בִּשְׂרָא – אֲסִיר, דָּם דְּאוֹרָיְיתָא.
+רַב דִּימִי מִנְּהַרְדְּעָא מַתְנֵי אִפְכָּא: כַּחְלָא עִילָּוֵי בִּשְׂרָא – שְׁרֵי, מַאי טַעְמָא? חֲלֵב שְׁחוּטָה דְּרַבָּנַן, כַּבְדָּא עִילָּוֵי בִּשְׂרָא – אֲסִיר, דָּם דְּאוֹרָיְיתָא.
 
 
 **Rav Dimi from Neharde’a** would **teach the opposite:** Whenever **an udder** is positioned **on top of the meat,** the meat is **permitted. What is the reason?** The prohibition of meat cooked in **milk of a slaughtered** animal applies **by rabbinic law,** and is treated less stringently. But if **liver** is positioned **on top of the meat,** the meat is **prohibited,** as the prohibition of **blood** applies **by Torah law,** and one must be concerned that perhaps the meat will absorb blood from the liver.
@@ -37477,7 +37477,7 @@ Levi **said to him: It was** in **the locale** of **Rabbi Yehuda ben Beteira, an
 [https://torahapp.org/share/book/Chullin/r/116b:1](https://torahapp.org/share/book/Chullin/r/116b:1)
 
 
-אִם יֵשׁ בְּנוֹתֵן טַעַם – הֲרֵי זוֹ אֲסוּרָה. כְּשֵׁרָה שֶׁיָּנְקָה מִן הַטְּרֵפָה – קֵבָתָהּ אֲסוּרָה. טְרֵפָה שֶׁיָּנְקָה מִן הֶכְשֵׁרָהּ – קֵבָתָהּ מוּתֶּרֶת, מִפְּנֵי שֶׁכָּנוּס בְּמֵעֶיהָ.
+אִם יֵשׁ בְּנוֹתֵן טַעַם – הֲרֵי זוֹ אֲסוּרָה. כְּשֵׁרָה שֶׁיָּנְקָה מִן הַטְּרֵפָה – קֵבָתָהּ אֲסוּרָה. טְרֵפָה שֶׁיָּנְקָה מִן הַכְּשֵׁרָה – קֵבָתָהּ מוּתֶּרֶת, מִפְּנֵי שֶׁכָּנוּס בְּמֵעֶיהָ.
 
 
 **if** the measure of the skin is enough **to impart flavor** to the milk, **that** cheese **is prohibited.** In the case of **a kosher** animal **that suckled** milk **from a *tereifa*,** the milk in **its stomach is prohibited,** as the milk is from the *tereifa*. If it was **a *tereifa* that suckled** milk **from a kosher** animal, the milk in **its stomach is permitted,** as the milk is from the kosher animal. In both cases, the milk that an animal suckles has the status of the animal from which it was suckled, and not that of the animal which suckled, **because** the milk **is collected in its innards** and is not an integral part of its body.
@@ -38435,7 +38435,7 @@ Rav Yehuda bar Yishmael asks: **And why** does the protrusion join together with
 אָמַר רַב חִיָּיא בַּר אָשֵׁי, אָמַר רַב: יֵשׁ יָד לְטוּמְאָה, וְאֵין יָד לְהֶכְשֵׁר.
 
 
-§It is written: “And if anything falls from their carcass upon any sowing seed that is sown, it is pure. But if water is put upon the seed, and any of the carcass falls on it, it is impure for you” (Leviticus 11:37–38). Previously, the Gemara derived from this verse that an appendage that serves as a handle both imports impurity to and exports impurity from the food. In addition, the simple understanding teaches that food can become impure only after first being rendered susceptible to impurity by coming into contact with liquid. With regard to these two *halakhot*, **Rav Ḥiyya bar Ashi says** that **Rav says: There is** significance to **a handle with regard to** importing and exporting **impurity,** i.e., a handle imports impurity to and exports impurity from to the attached food, **but there is no** significance to **a handle with regard to rendering** the attached food **susceptible** to impurity. Rather, the food itself must come into contact with liquid directly.
+§It is written: “And if anything falls from their carcass upon any sowing seed that is sown, it is pure. But if water is put upon the seed, and any of the carcass falls on it, it is impure for you” (Leviticus 11:37–38). Previously, the Gemara derived from this verse that an appendage that serves as a handle both imports impurity to and exports impurity from the food. In addition, the simple understanding teaches that food can become impure only after first being rendered susceptible to impurity by coming into contact with liquid. With regard to these two *halakhot*, **Rav Ḥiyya bar Ashi says** that **Rav says: There is** significance to **a handle with regard to** importing and exporting **impurity,** i.e., a handle imports impurity to and exports impurity from the attached food, **but there is no** significance to **a handle with regard to rendering** the attached food **susceptible** to impurity. Rather, the food itself must come into contact with liquid directly.
 
 
 ###### Chullin 118b:13
@@ -38592,7 +38592,7 @@ The Gemara answers: **If you wish, say** that Rav interprets the *baraita* as di
 אִיבָּעֵית אֵימָא בְּיָד, וְהוּא דְּאָמַר כְּרַבִּי יְהוּדָה בֶּן נָקוֹסָא, וְאִיבָּעֵית אֵימָא בְּשׁוֹמֵר, וְהוּא דְּאָמַר כְּתַנָּא קַמָּא.
 
 
-The Gemara explains its answers: **If you wish, say** that the *baraita* is discussing the case of a bone that constitutes **a handle, and** Rav **stated** his opinion **in accordance with** the opinion of **Rabbi Yehuda ben Nekosa,** who maintains that the house does not become impure because he holds that a handle that is attached to less than an olive-bulk of flesh does not impart impurity. **And If you wish, say** that the *baraita* is discussing the case of a bone that constitutes **protection, and** Rav **stated** his opinion **in accordance with** the opinion of **the first *tanna*,** who maintains that the house is impure because he holds that protection attached to less than an olive-bulk of flesh imparts impurity if the flesh measures at least a bean-bulk.
+The Gemara explains its answers: **If you wish, say** that the *baraita* is discussing the case of a bone that constitutes **a handle, and** Rav **stated** his opinion **in accordance with** the opinion of **Rabbi Yehuda ben Nekosa,** who maintains that the house does not become impure because he holds that a handle that is attached to less than an olive-bulk of flesh does not impart impurity. **And if you wish, say** that the *baraita* is discussing the case of a bone that constitutes **protection, and** Rav **stated** his opinion **in accordance with** the opinion of **the first *tanna*,** who maintains that the house is impure because he holds that protection attached to less than an olive-bulk of flesh imparts impurity if the flesh measures at least a bean-bulk.
 
 
 ###### Chullin 119a:5
@@ -38647,7 +38647,7 @@ The Gemara answers: **If you wish, say** that the *baraita* is discussing the ca
 וְרַבִּי יוֹחָנָן אָמַר: כּוּלַּהּ בְּשׁוֹמֵר, וְהוּא דְּאָמַר כַּאֲחֵרִים.
 
 
-**And Rabbi Yoḥanan** could have **said** that **the entire** *baraita* is referring to case of a femur that constitutes **protection, and** Rabbi Yoḥanan **stated** his opinion **in accordance with** the opinion referred to as: **Aḥerim** says, according to which even protection that is attached to a bean-bulk of flesh imparts impurity.
+**And Rabbi Yoḥanan** could have **said** that **the entire** *baraita* is referring to the case of a femur that constitutes **protection, and** Rabbi Yoḥanan **stated** his opinion **in accordance with** the opinion referred to as: **Aḥerim** says, according to which even protection that is attached to a bean-bulk of flesh imparts impurity.
 
 
 ###### Chullin 119a:10
@@ -38911,7 +38911,7 @@ The Gemara asks: **Granted,** the grains located **higher** on the stem **need**
 [https://torahapp.org/share/book/Chullin/r/119b:13](https://torahapp.org/share/book/Chullin/r/119b:13)
 
 
-מִי אִיכָּא כְּבֵיצָה אֳכָלִין בְּחַד דָּרָא בְּחִטֵּי דְּשִׁמְעוֹן בֶּן שָׁטַח?
+וּמִי אִיכָּא כְּבֵיצָה אֳכָלִין בְּחַד דָּרָא? בְּחִטֵּי דְּשִׁמְעוֹן בֶּן שָׁטַח.
 
 
 The Gemara asks: **Is there** a volume of **an egg-bulk of food in one row** of grain? The Gemara answers: Yes, this *baraita* is stated **with regard to** large grains of **wheat,** such as those grown in the time **of Shimon ben Shataḥ.**
@@ -39159,7 +39159,7 @@ The Gemara answers: **That** *halakha* **which they say in the West,** Eretz Yis
 אֵיתִיבֵיהּ רַבִּי יוֹחָנָן לְרֵישׁ לָקִישׁ: עוֹר שֶׁיֵּשׁ עָלָיו כְּזַיִת בָּשָׂר, הַנּוֹגֵעַ בְּצִיב הַיּוֹצֵא מִמֶּנּוּ, וּבְשַׂעֲרָה שֶׁכְּנֶגְדּוֹ – טָמֵא. מַאי לָאו מִשּׁוּם שׁוֹמֵר? לָא, מִשּׁוּם יָד.
 
 
-**Rabbi Yoḥanan raised an objection to** the opinion of **Reish Lakish** opinion from the mishna taught later (124a): In the case of the **hide** of an animal carcass **upon which there is an olive-bulk of flesh, one who touches a strand** of flesh **emerging from** the flesh **or** touches **a hair that is** on the side of the hide **opposite** the flesh **is ritually impure,** even though he did not touch an olive-bulk of the flesh. **What** is the reason that one who touches the strand of flesh or the hair becomes impure? **Is it not because** they constitute **protection** for the flesh? The Gemara answers: **No,** it is **because** the hair constitutes **a handle** for the flesh.
+**Rabbi Yoḥanan raised an objection to** the opinion of **Reish Lakish** from the mishna taught later (124a): In the case of the **hide** of an animal carcass **upon which there is an olive-bulk of flesh, one who touches a strand** of flesh **emerging from** the flesh **or** touches **a hair that is** on the side of the hide **opposite** the flesh **is ritually impure,** even though he did not touch an olive-bulk of the flesh. **What** is the reason that one who touches the strand of flesh or the hair becomes impure? **Is it not because** they constitute **protection** for the flesh? The Gemara answers: **No,** it is **because** the hair constitutes **a handle** for the flesh.
 
 
 ###### Chullin 120a:7
@@ -40634,7 +40634,7 @@ The mishna states that the skin must be trodden upon for the period required for
 [https://torahapp.org/share/book/Chullin/r/122b:20](https://torahapp.org/share/book/Chullin/r/122b:20)
 
 
-רַבִּי אֲבָהוּ מִשּׁוּם דְּרֵישׁ לָקִישׁ אָמַר: לְגַבָּל.
+רַבִּי אֲבָהוּ מִשּׁוּם דְּרֵישׁ לָקִישׁ אָמַר: לְגַבָּל,
 
 
 §Since the period of time it takes to walk four *mil* was mentioned, the Gemara lists *halakhot* that employ this period of time. **Rabbi Abbahu says in the name of Reish Lakish: With regard to** a professional **kneader** who is careful to maintain the ritual purity of the dough that he kneads for others, he must walk up to four *mil* in order to purify the vessel he is using by immersing it in a ritual bath. He is not required to walk farther than this unless the person hiring him pays for him to do so.
@@ -41108,7 +41108,7 @@ Reish Lakish responded to Rabbi Yoḥanan: **When I said that** a torn hide is *
 עַד שֶׁיְּהֵא בָּאָרֶץ. רַבִּי מֵאִיר אוֹמֵר: אֵינוֹ צָרִיךְ לֹא לִגְרוֹר אֶת הַטְּפֵילָה וְלֹא עַד שֶׁיְּהֵא בָּאָרֶץ, אֶלָּא מְמַעֲטוֹ מִבִּפְנִים (מארבע) [מֵאַרְבָּעָה] טְפָחִים.
 
 
-**until** the oven itself merely rests **on the ground** and is not held in place by plaster.Breaking the oven in such a manner renders the oven pure because it is no longer considered a vessel. **Rabbi Meir says: It is unnecessary to scrape off the** layer of **plaster, and** it is certainly **not** necessary to remove it **until** the oven rests **on the ground. Rather, one** makes cuts in the oven itself, **reducing** its size **from within** the layer of plaster, i.e., without removing the layer of plaster, until the unbroken part is less **than four handbreadths.**
+**until** the oven itself merely rests **on the ground** and is not held in place by plaster. Breaking the oven in such a manner renders the oven pure because it is no longer considered a vessel. **Rabbi Meir says: It is unnecessary to scrape off the** layer of **plaster, and** it is certainly **not** necessary to remove it **until** the oven rests **on the ground. Rather, one** makes cuts in the oven itself, **reducing** its size **from within** the layer of plaster, i.e., without removing the layer of plaster, until the unbroken part is less **than four handbreadths.**
 
 
 ###### Chullin 124a:2
@@ -41441,7 +41441,7 @@ The reference is **to a thin** layer of flesh attached to the hide. **Here, too,
 רַבִּי יִשְׁמָעֵאל – הָא דַּאֲמַרַן; רַבִּי דּוֹסָא בֶּן הַרְכִּינָס – דִּתְנַן: כָּל הַמְטַמְּאִין בְּאֹהֶל, שֶׁנֶּחְלְקוּ וְהִכְנִיסָן לְתוֹךְ הַבַּיִת – רַבִּי דּוֹסָא בֶּן הַרְכִּינָס מְטַהֵר, וַחֲכָמִים מְטַמְּאִים.
 
 
-The statement of **Rabbi Yishmael is that which we said:** Two instances of contact do not join together to constitute contact with the requisite measure of impurity. The statement of **Rabbi Dosa ben Harkinas is** that **which we learned** in a mishna (*Oholot* 3:1): With regard to **any** part of a corpse that **imparts impurity in a tent,** i.e., that imparts impurity to any other item that is under the same roof, if that body part was **divided** into two pieces, each measuring less than an olive-bulk, but together they constitute an olive-bulk, **and one placed** both pieces **inside the house,Rabbi Dosa ben Harkinas** rules that the two pieces do not join together to constitute the requisite measure of an olive-bulk. Therefore, he **deems** everything inside the house **pure. And the Rabbis** rule that the two pieces of the corpse join together to constitute an olive-bulk, and therefore they **deem** everything inside the house **impure.**
+The statement of **Rabbi Yishmael is that which we said:** Two instances of contact do not join together to constitute contact with the requisite measure of impurity. The statement of **Rabbi Dosa ben Harkinas is** that **which we learned** in a mishna (*Oholot* 3:1): With regard to **any** part of a corpse that **imparts impurity in a tent,** i.e., that imparts impurity to any other item that is under the same roof, if that body part was **divided** into two pieces, each measuring less than an olive-bulk, but together they constitute an olive-bulk, **and one placed** both pieces **inside the house, Rabbi Dosa ben Harkinas** rules that the two pieces do not join together to constitute the requisite measure of an olive-bulk. Therefore, he **deems** everything inside the house **pure. And the Rabbis** rule that the two pieces of the corpse join together to constitute an olive-bulk, and therefore they **deem** everything inside the house **impure.**
 
 
 ###### Chullin 124b:6
@@ -41873,7 +41873,7 @@ According to Rabbi Yoḥanan, overlying is referred to as touching in the mishna
 אֶלָּא אִי אָמְרַתְּ תְּרֵי שְׁמֵי נִינְהוּ – מִי מִצְטָרֵף? וְהָתְנַן: זֶה הַכְּלָל, כֹּל שֶׁהוּא מִשֵּׁם אֶחָד – מִצְטָרֵף וְטָמֵא, מִשְּׁנֵי שֵׁמוֹת – טָהוֹר!
 
 
-**But if you say** that **they are two concepts,** how **can they join together? But didn’t we learn** in that mishna (*Oholot* 3:1): **This is the principle: Any** impure items lacking the requisite volume to have impure status on their own **that are of one concept join together and are impure;** if they are **of two concepts,** they do not join together and remain **pure?**Apparently, touching and overlying a corpse create the same type of impurity, and therefore overlying is referred to as touching in the mishna here.
+**But if you say** that **they are two concepts,** how **can they join together? But didn’t we learn** in that mishna (*Oholot* 3:1): **This is the principle: Any** impure items lacking the requisite volume to have impure status on their own **that are of one concept join together and are impure;** if they are **of two concepts,** they do not join together and remain **pure?** Apparently, touching and overlying a corpse create the same type of impurity, and therefore overlying is referred to as touching in the mishna here.
 
 
 ###### Chullin 125a:20
@@ -44238,7 +44238,7 @@ The Gemara relates that **Rav Pappa was sitting and saying this *halakha*** in t
 כּוּלָּן אֵין בָּהֶם טוֹבַת הֲנָאָה לַבְּעָלִים, וַאֲפִילּוּ עָנִי שֶׁבְּיִשְׂרָאֵל מוֹצִיאִין מִיָּדוֹ.
 
 
-The *baraita* elaborates: With regard to **all of** these gifts, **the owner** of the produce **does not have the benefit of discretion.** This is the benefit accrued from giving a gift to an individual of one’s choice, e.g., giving *teruma* or tithes to whichever priest or Levite that one chooses. Instead, poor person who takes possession of these gifts becomes their rightful owner. **And even a poor person of Israel** who owns a vineyard, field, or tree must leave these gifts for all other poor people; and if he does not do so, **the court removes** them **from his possession.**
+The *baraita* elaborates: With regard to **all of** these gifts, **the owner** of the produce **does not have the benefit of discretion.** This is the benefit accrued from giving a gift to an individual of one’s choice, e.g., giving *teruma* or tithes to whichever priest or Levite that one chooses. Instead, a poor person who takes possession of these gifts becomes their rightful owner. **And even a poor person of Israel** who owns a vineyard, field, or tree must leave these gifts for all other poor people; and if he does not do so, **the court removes** them **from his possession.**
 
 
 ###### Chullin 131a:13
@@ -45810,7 +45810,7 @@ The Gemara above cited a source for the *halakha* that the right foreleg is give
 אֵיזֶהוּ לֶחִי – מִן הַפֶּרֶק שֶׁל לְחִי וְעַד פִּיקָּה שֶׁל גַּרְגֶּרֶת, וְהָתַנְיָא: נוֹטְלָהּ וּבֵית שְׁחִיטָה עִמָּהּ?
 
 
-§ The mishna taught: **What is** definition of **the jaw?** It is **from the joint of the jaw** beneath the temples and below **until the upper ring of the windpipe.** The Gemara objects: **But isn’t it taught** in a *baraita* that when one removes the jaw from the animal to give to the priest, **he removes it and the area of slaughter** on the throat **with it?** The area of slaughter is beyond the upper ring of the windpipe.
+§ The mishna taught: **What is** the definition of **the jaw?** It is **from the joint of the jaw** beneath the temples and below **until the upper ring of the windpipe.** The Gemara objects: **But isn’t it taught** in a *baraita* that when one removes the jaw from the animal to give to the priest, **he removes it and the area of slaughter** on the throat **with it?** The area of slaughter is beyond the upper ring of the windpipe.
 
 
 ###### Chullin 134b:22

@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Sefaria vocalized edition (Segments: 764, License: unknown)
 
-Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg (Segments: 760)
+Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg (Segments: 762)
 
 
 ## Chapter 1
@@ -224,7 +224,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/1:12:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/1:12:1)
 
 
-**נֵס.** לְשׁוֹן נִסָּיוֹן:
+**נַס.** לְשׁוֹן נִסָּיוֹן:
 
 
 **test** Heb. נַס an expression of (נִסָיוֹן) testing.
@@ -249,7 +249,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/1:13:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/1:13:1)
 
 
-**וְכַאֲשֶׁר תִּרְאֶה.** לְפִי מַה שֶּׁתִּרְאֶה עֲשֵׂה:
+**וְכַאֲשֶׁר תִּרְאֵה.** לְפִי מַה שֶּׁתִּרְאֶה עֲשֵׂה:
 
 
 **and as you will see** According to what you see, do.
@@ -316,7 +316,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/1:21:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/1:21:1)
 
 
-**וַיְהִי דָנִיֵּאל.** בִּגְדֻלָּה בְּבָבֶל **עַד שְׁנַת אַחַת לְכוֹרֶשׁ הַמֶּלֶךְ**. לְדִבְרֵי הָאוֹמֵר הֲתָךְ זֶה דָנִיֵּאל (מגילה טו.), וְלָמָּה נִקְרָא שְׁמוֹ הֲתָךְ שֶׁחֲתָכוּהוּ מִגְּדֻלָּתוֹ, צְרִיכִין אָנוּ לוֹמַר שֶׁזֶּהוּ כּוֹרֶשׁ הָרִאשׁוֹן שֶׁלִּפְנֵי אֲחַשְׁוֵרוֹשׁ. וּלְדִבְרֵי הָאוֹמֵר שֶׁכָּל דִּבְרֵי מַלְכוּת נֶחְתָּכִין עַל פִּיו, נֹאמַר כּוֹרֶשׁ זֶה הוּא דָּרְיָוֶשׁ הַשֵּׁנִי אַחַר אֲחַשְׁוֵרוֹשׁ, וּבִימֵי דָּרְיָוֶשׁ הַמָּדִי שֶׁהִשְׁלִיכוּ לְגוֹב אֲרָיוֹת לֹא יָרַד מִגְּדֻלָּתוֹ, שֶׁנֶּאֱמַר (דניאל ו:כט) ״וְדָנִיֵּאל דְּנָה הַצְלַח בְּמַלְכוּת דָּרְיָוֶשׁ וּבְמַלְכוּת כּוֹרֶשׁ פַּרְסָאָה״, לָמַדְנוּ שֶׁבִּימֵי כּוֹרֶשׁ הָרִאשׁוֹן הָיָה בִּגְדֻלָּה:
+**וַיְהִי דָנִיֵּאל.** בִּגְדֻלָּה בְּבָבֶל **עַד שְׁנַת אַחַת לְכוֹרֶשׁ הַמֶּלֶךְ.** לְדִבְרֵי הָאוֹמֵר הֲתָךְ זֶה דָנִיֵּאל (מגילה טו.), וְלָמָּה נִקְרָא שְׁמוֹ הֲתָךְ שֶׁחֲתָכוּהוּ מִגְּדֻלָּתוֹ, צְרִיכִין אָנוּ לוֹמַר שֶׁזֶּהוּ כּוֹרֶשׁ הָרִאשׁוֹן שֶׁלִּפְנֵי אֲחַשְׁוֵרוֹשׁ. וּלְדִבְרֵי הָאוֹמֵר שֶׁכָּל דִּבְרֵי מַלְכוּת נֶחְתָּכִין עַל פִּיו, נֹאמַר כּוֹרֶשׁ זֶה הוּא דָּרְיָוֶשׁ הַשֵּׁנִי אַחַר אֲחַשְׁוֵרוֹשׁ, וּבִימֵי דָּרְיָוֶשׁ הַמָּדִי שֶׁהִשְׁלִיכוּ לְגוֹב אֲרָיוֹת לֹא יָרַד מִגְּדֻלָּתוֹ, שֶׁנֶּאֱמַר (דניאל ו:כט) ״וְדָנִיֵּאל דְּנָה הַצְלַח בְּמַלְכוּת דָּרְיָוֶשׁ וּבְמַלְכוּת כּוֹרֶשׁ פַּרְסָאָה״, לָמַדְנוּ שֶׁבִּימֵי כּוֹרֶשׁ הָרִאשׁוֹן הָיָה בִּגְדֻלָּה:
 
 
 **And Daniel was there** in greatness in Babylon until the first year of King Cyrus. According to the one who says that Hathach (Esther; 4:5, 6, 9, 10) is Daniel; and why was he called Hathach? Because he was cut off (חֲתָכוּהוּ) from his greatness; [according to his explanation] we must say that this is Cyrus I, who preceded Ahasuerus. But according to the one who says that all royal affairs were decided (נֶחְתָּכִים) by his orders, we must say that this Cyrus was Darius II, [who came] after Ahasuerus, and in the days of Darius the Mede, when they cast [Daniel] into the lions’ den, he was not demoted from his greatness, as it is said (6:29): “And this Daniel prospered during the reign of Darius and during the reign of Cyrus the Persian.” We learn that during the days of Cyrus I he was [still] in his greatness.
@@ -344,7 +344,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:1:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:1:2)
 
 
-**וַתִּתְפָּעֶם רוּחוֹ.** בְּפַרְעֹה נֶאֱמַר ״וַתִּפָּעֶם רוּחוֹ״ (בראשית מא:ח) שֶׁלֹּא נֶעְלַם מִמֶּנּוּ אֶלָּא פִּתְרוֹן הַחֲלוֹם, וְכָאן שֶׁנֶּעְלַם מִמֶּנּוּ גַּם הַחֲלוֹם נִכְפְּלָה הַלָּשׁוֹן **וַתִּתְפָּעֶם**. לְשׁוֹן פְּעִימָה וַהֲלִימָה, (וּבַחוּמָּשׁ פֵּרֵשׁ רַשִׁ״י זַ״ל לְשׁוֹן נְקִיפָה):
+**וַתִּתְפָּעֶם רוּחוֹ.** בְּפַרְעֹה נֶאֱמַר ״וַתִּפָּעֶם רוּחוֹ״ (בראשית מא:ח) שֶׁלֹּא נֶעְלַם מִמֶּנּוּ אֶלָּא פִּתְרוֹן הַחֲלוֹם, וְכָאן שֶׁנֶּעְלַם מִמֶּנּוּ גַּם הַחֲלוֹם נִכְפְּלָה הַלָּשׁוֹן **וַתִּתְפָּעֶם.** לְשׁוֹן פְּעִימָה וַהֲלִימָה, (וּבַחוּמָּשׁ פֵּרֵשׁ רַשִׁ״י זַ״ל לְשׁוֹן נְקִיפָה):
 
 
 **and his spirit was troubled** Heb. וַתִּתְפָּעֶם רוּחוֹ. Concerning Pharaoh it says (Gen. 41:8): וַתִּפָּעֶם רוּחוֹ, for only the interpretation of the dream was hidden from him, but here, since the dream too was hidden from him, the expression is doubled: וַתִּתְפָּעֶם, an expression of pulsating and beating.
@@ -369,7 +369,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:4:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:4:1)
 
 
-**לְעָלְמִין חַיֵּי.** לְעוֹלָם יִחְיֶה:
+**לְעָלְמִין חֱיִי.** לְעוֹלָם יִחְיֶה:
 
 
 **May the king live forever** Aram. מַלְכָּא לְעָלְמִין חֱיִי.
@@ -427,7 +427,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:5:4](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:5:4)
 
 
-**נוֹלִי.** אַשְׁפָּה:
+**נְוָלִי.** אַשְׁפָּה:
 
 
 **a dungheap** Aram. נְוָלִי, a dungheap.
@@ -571,7 +571,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:9:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:9:1)
 
 
-**דִּי הֵן חֶלְמָא לָא תְהוֹדְעִינַּנִּי.** שֶׁאִם הַחֲלוֹם וּפִתְרוֹנוֹ לֹא תוֹדִיעוּנִי, אַחַת הִיא דָתְכֶם לָמוּת:
+**דִּי הֵן חֶלְמָא לָא תְהוֹדְעֻנַּנִי.** שֶׁאִם הַחֲלוֹם וּפִתְרוֹנוֹ לֹא תוֹדִיעוּנִי, אַחַת הִיא דָתְכֶם לָמוּת:
 
 
 ###### Rashi on Daniel 2:9:2
@@ -579,7 +579,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:9:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:9:2)
 
 
-**וּמִלָּה כְּדִבָה וּשְׁחִיתָה הִזְדַּמִּנְתּוּן.** אוֹ אִם דָּבָר כָּזָב וְנִשְׁחָת תָּכִינוּ עַצְמְכֶם לוֹמַר לְפָנַי:
+**וּמִלָּה כִדְבָה וּשְׁחִיתָה הִזְדַּמִּנְתּוּן.** אוֹ אִם דָּבָר כָּזָב וְנִשְׁחָת תָּכִינוּ עַצְמְכֶם לוֹמַר לְפָנַי:
 
 
 **or if you have prepared yourselves...a false and corrupt word** Or if you have prepared yourselves to say before me a false and corrupt word.
@@ -659,7 +659,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:10:4](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:10:4)
 
 
-**וְאַשָּׁף.** הַדּוֹחֵק בַּמַּזָּל:
+**וְאָשַׁף.** הַדּוֹחֵק בַּמַּזָּל:
 
 
 **astrologer** who presses the constellation.
@@ -673,7 +673,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:11:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:11:1)
 
 
-**יְקִירָה.** כְּבֵדָה, וּמַשָּׂאָהּ כָּבֵד:
+**יַקִּירָה.** כְּבֵדָה, וּמַשָּׂאָהּ כָּבֵד:
 
 
 **difficult** Aram. יַקִירָה, heavy, and its burden is heavy.
@@ -767,7 +767,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:13:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:13:1)
 
 
-**וְדָתָא נָפְקַת.** דַּת הַמֶּלֶךְ וּגְזֵרָתוֹ יָצָא בַּמְּדִינָה:
+**וְדָתָא נֶפְקַת.** דַּת הַמֶּלֶךְ וּגְזֵרָתוֹ יָצָא בַּמְּדִינָה:
 
 
 **And a decree was issued** The law of the king and his decree were issued in the province.
@@ -792,7 +792,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:14:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:14:1)
 
 
-**בְּאֵדַיִן.** תַּרְגּוּם שֶׁל אָז:
+**בֵּאדַיִן.** תַּרְגּוּם שֶׁל אָז:
 
 
 **Then** Aram. בֵּאדַיִן, the Targum for אָז.
@@ -803,7 +803,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:14:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:14:2)
 
 
-**הֲתִיב עֲטָא וּטְעֵם לְאַרְיוֹךְ.** הֵשִׁיב עֵצָה וְטַעַם לְאַרְיוֹךְ שֵׁם הָאִישׁ:
+**הֲתִיב עֵטָא וּטְעֵם לְאַרְיוֹךְ.** הֵשִׁיב עֵצָה וְטַעַם לְאַרְיוֹךְ שֵׁם הָאִישׁ:
 
 
 **answered with counsel and good sense** He answered [with] counsel and good sense to Arioch, the name of the man.
@@ -864,7 +864,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:16:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:16:2)
 
 
-**יִנְתֵּן לֵיהּ.** יִתֵּן לוֹ:
+**יִנְתִּן לֵיהּ.** יִתֵּן לוֹ:
 
 
 **be given him** [as translated,] be given him.
@@ -878,7 +878,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:19:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:19:1)
 
 
-**רָזָא גֲלִי.** בְּסֵתֶר נִגְלָה:
+**רָזָא גְלִי.** בְּסֵתֶר נִגְלָה:
 
 
 **the secret was revealed** [as translated,] the secret was revealed.
@@ -892,7 +892,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:21:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:21:1)
 
 
-**מְהַשְׁנָא.** מְחַלִּיף:
+**מְהַשְׁנֵא.** מְחַלִּיף:
 
 
 **changes** [as translated,] changes.
@@ -942,7 +942,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:23:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:23:1)
 
 
-**הוֹדַעְתָּנָא.** הוֹדַעְתַּנִי:
+**הוֹדַעְתֶּנָא.** הוֹדַעְתַּנִי:
 
 
 **You have let me know** [as translated,] You have let me know.
@@ -1000,7 +1000,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:24:5](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:24:5)
 
 
-**הַעֲלֵנִי.** הַכְנִיסֵנִי:
+**הַעֵלְנִי.** הַכְנִיסֵנִי:
 
 
 **bring me in** [as translated,] bring me in.
@@ -1025,7 +1025,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:25:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:25:2)
 
 
-**בְּהִתְבַּהֲלָה.** בְּבֶהָלָה, כְּלוֹמַר: בִּמְהִירוּת:
+**בְּהִתְבְּהָלָה.** בְּבֶהָלָה, כְּלוֹמַר: בִּמְהִירוּת:
 
 
 **in haste** Aram. בְּהִתְבְּהָלָה, in haste, i.e., quickly.
@@ -1072,7 +1072,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:26:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:26:1)
 
 
-**הַאִיתְךָ כֹּהֵל.** הֲיֶשְׁךָ יָכוֹל?
+**הַאִיתָךְ כֹּהֵל.** הֲיֶשְׁךָ יָכוֹל?
 
 
 **Do you have the ability** Are you able?
@@ -1147,7 +1147,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:29:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:29:2)
 
 
-**עַל מִשְׁכְּבָךְ סְלִיקוּ.** מָה שֶׁהָיִיתָ מְהַרְהֵר בַּיּוֹם מָה יִהְיֶה אַחֲרֶיךָ, **עַל מִשְׁכָּבְךָ עָלוּ**:
+**עַל מִשְׁכְּבָךְ סְלִיקוּ.** מָה שֶׁהָיִיתָ מְהַרְהֵר בַּיּוֹם מָה יִהְיֶה אַחֲרֶיךָ, עַל מִשְׁכָּבְךָ עָלוּ:
 
 
 **came while on your bed** What you were thinking of during the day, what would be after you, came [to you] on your bed.
@@ -1219,7 +1219,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:31:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:31:1)
 
 
-**חֲזֵה הֲוַיְתָ.** רוֹאֶה הָיִיתָ:
+**חָזֵה הֲוַיְתָ.** רוֹאֶה הָיִיתָ:
 
 
 **you were watching** [as translated,] you were watching.
@@ -1230,7 +1230,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:31:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:31:2)
 
 
-**וְאֵלּוּ.** לְשׁוֹן וְהִנֵּה:
+**וַאֲלוּ.** לְשׁוֹן וְהִנֵּה:
 
 
 **and behold** Aram. וַאֲלוּ, an expression of “behold.”
@@ -1335,7 +1335,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:33:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:33:2)
 
 
-**מַנְהוֹן דִּי פַרְזֶל וּמִנְּהֵן דִּי חֲסַף.** מֵהֶם שֶׁל בַּרְזֶל וּמֵהֶם שֶׁל חֶרֶס:
+**מִנְּהֵין דִּי פַרְזֶל וּמִנְּהֵן דִּי חֲסַף.** מֵהֶם שֶׁל בַּרְזֶל וּמֵהֶם שֶׁל חֶרֶס:
 
 
 **were partly of iron and partly of clay** [as translated,] were partly of iron and partly of clay [i.e., part of each foot was of iron and part of clay].
@@ -1360,7 +1360,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:34:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:34:2)
 
 
-**דִּי לָא בִידָיִן.** אֲשֶׁר לֹא בְיָדַיִם, כִּי אִם מֵאֵילֶיהָ:
+**דִּי לָא בִידַיִן.** אֲשֶׁר לֹא בְיָדַיִם, כִּי אִם מֵאֵילֶיהָ:
 
 
 **without hands** not with hands, but by itself.
@@ -1396,7 +1396,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:35:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:35:1)
 
 
-**בְּאֵדַיִן דָּקוּ כַחֲדָה.** אָז הוּדְקוּ יַחַד כָּל מִינֵי מַתָּכוֹת וְחֶרֶס שֶׁהָיָה בּוֹ:
+**בֵּאדַיִן דָּקוּ כַחֲדָה.** אָז הוּדְקוּ יַחַד כָּל מִינֵי מַתָּכוֹת וְחֶרֶס שֶׁהָיָה בּוֹ:
 
 
 **Then...crumbled together** Then all the types of metals and the clay that were in it crumbled together.
@@ -1529,7 +1529,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:39:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:39:1)
 
 
-**וּבָתְרָךְ תְּקוּם מַלְכוּ אָחֳרִי אֲרַע מִנָּךְ**. וְאַחֲרֶיךָ, אַחַר מַלְכוּת בֵּלְשַׁצַּר בִּנְךָ, תָּקוּם מַלְכוּת שֶׁתִּטֹּל הַשְּׂרָרָה מִזַּרְעֲךָ, נְמוּכָה וּשְׁפֵלָה מִמַּלְכוּת שֶׁלְּךָ:
+**וּבָתְרָךְ תְּקוּם מַלְכוּ אָחֳרִי אֲרַע מִנָּךְ.** וְאַחֲרֶיךָ, אַחַר מַלְכוּת בֵּלְשַׁצַּר בִּנְךָ, תָּקוּם מַלְכוּת שֶׁתִּטֹּל הַשְּׂרָרָה מִזַּרְעֲךָ, נְמוּכָה וּשְׁפֵלָה מִמַּלְכוּת שֶׁלְּךָ:
 
 
 **And after you will arise another kingdom lower than you** And after you, after the reign of your son, Belshazzar, will arise a kingdom that will take the ruling power from your seed, lower and humbler than your kingdom.
@@ -1598,7 +1598,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:40:3](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:40:3)
 
 
-**וְחָשֵׁל**. וּמְרַדֵּד, וְהַרְבֵּה יֵשׁ בַּגְּמָרָא: חַשְּׁלֵי דּוּדֵי (כתובות עז.), בֵּיעֵי חֲשִׁילְתָא (חולין צב.):
+**וְחָשֵׁל.** וּמְרַדֵּד, וְהַרְבֵּה יֵשׁ בַּגְּמָרָא: חַשְּׁלֵי דּוּדֵי (כתובות עז.), בֵּיעֵי חֲשִׁילְתָא (חולין צב.):
 
 
 **and flattens** Aram. וְחָשֵּׁל, and flattens. There are many such [words] in the Talmud. Keth. 77a, “who thins copper for kettles (חַשְּׁלָא דוּדֵי)”; Hul. 93a: “crushed testicles (בֵּיעֵי חֳשִּׁלָתָא).”
@@ -1681,7 +1681,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:43:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:43:1)
 
 
-**מִתְעָרְבִין לֶהֱוֹן בִּזְרַע אֲנָשָׁא וְגוֹ׳.** מִתְחַתְּנִים יִהְיוּ עִם שְׁאָר הָאֻמּוֹת, וְלֹא יִהְיוּ שְׁלֵמִים וְנִדְבָּקִים עִמָּם בֶּאֱמֶת וְלֵב שָׁלֵם, וְדָתֵיהֶם שׁוֹנוֹת מִדָּתֵי שְׁאָר הָאֻמּוֹת:
+**מִתְעָרְבִין לֶהֱוֺן בִּזְרַע אֲנָשָׁא וְגוֹ׳.** מִתְחַתְּנִים יִהְיוּ עִם שְׁאָר הָאֻמּוֹת, וְלֹא יִהְיוּ שְׁלֵמִים וְנִדְבָּקִים עִמָּם בֶּאֱמֶת וְלֵב שָׁלֵם, וְדָתֵיהֶם שׁוֹנוֹת מִדָּתֵי שְׁאָר הָאֻמּוֹת:
 
 
 **that they will mingle with the seed of men** They will intermarry with the other nations but they will not be at peace and truly cleave to them wholeheartedly, and their laws will differ from the laws of the other nations.
@@ -1742,7 +1742,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:45:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:45:1)
 
 
-**כָּל קֳבֵל דִּי חֲזֵית.** כָּל עוּמַּת שֶׁרָאִיתָ שֶׁנִּתְפָּרְקָה אֶבֶן מִן הָהָר שֶׁהִדִּיקָה כָּל הַצֶּלֶם, זֶה פִּתְרוֹן שֶׁהַמַּלְכוּת הַחֲמִישִׁית תְּכַלֶּה וּתְרוֹצֵץ אֶת כֻּלָּם:
+**כָּל קֳבֵל דִּי חֲזַיְתָ.** כָּל עוּמַּת שֶׁרָאִיתָ שֶׁנִּתְפָּרְקָה אֶבֶן מִן הָהָר שֶׁהִדִּיקָה כָּל הַצֶּלֶם, זֶה פִּתְרוֹן שֶׁהַמַּלְכוּת הַחֲמִישִׁית תְּכַלֶּה וּתְרוֹצֵץ אֶת כֻּלָּם:
 
 
 **Just as you saw** just as you saw that a stone was broken off the mountain, which crumbled the entire image. This is the interpretation that the fifth kingdom will destroy and shatter them all.
@@ -1778,7 +1778,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:46:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/2:46:1)
 
 
-**אָמַר לְנַסְּכָה.** רָצָה לַעֲשׂוֹתוֹ אֱלוֹהַּ:
+**אֲמַר לְנַסָּכָה.** רָצָה לַעֲשׂוֹתוֹ אֱלוֹהַּ:
 
 
 **ordered to offer up... libations** He wished to deify him.
@@ -1870,7 +1870,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:1:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:1:2)
 
 
-**פְּתָיֵהּ אַמִּין שִׁית אֲקִימֵהּ וְגוֹ׳.** אִם אֵין עָבְיוֹ אֶלָּא שֵׁשׁ, הֵיאַךְ יָכוֹל לַעֲמֹד בְּגֹבַהּ **אַמִּין שִׁתִּין**? אָמַר רַב בִּיבִי: מַעֲמִידִין אוֹתוֹ וְנוֹפֵל, עַד שֶׁהֵבִיאוּ כָּל זָהָב שֶׁל יְרוּשָׁלַיִם וְשָׁפְכוּ דִּימוֹס עַל רַגְלָיו, לְקַיֵּם מַה שֶּׁנֶּאֱמַר (יחזקאל ז:יט) ״וְזָהָבָם לְנִדָּה יִהְיֶה״:
+**פְּתָיֵהּ אַמִּין שִׁת אֲקִימֵהּ וְגוֹ׳.** אִם אֵין עָבְיוֹ אֶלָּא שֵׁשׁ, הֵיאַךְ יָכוֹל לַעֲמֹד בְּגֹבַהּ **אַמִּין שִׁתִּין**? אָמַר רַב בִּיבִי: מַעֲמִידִין אוֹתוֹ וְנוֹפֵל, עַד שֶׁהֵבִיאוּ כָּל זָהָב שֶׁל יְרוּשָׁלַיִם וְשָׁפְכוּ דִּימוֹס עַל רַגְלָיו, לְקַיֵּם מַה שֶּׁנֶּאֱמַר (יחזקאל ז:יט) ״וְזָהָבָם לְנִדָּה יִהְיֶה״:
 
 
 **its width six cubits; he set it up etc.** If its thickness was only six [cubits], how could it stand at a height of sixty cubits? Said Rav Bibi: They would set it up and it would fall, until they brought all the gold of Jerusalem and poured a base around its feet, to fulfill what was said (Ezek. 7:19): “and their gold will be for a repugnant thing.”
@@ -1978,7 +1978,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:5:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:5:2)
 
 
-**קִתְרוֹס סַבְּכָא וְגוֹ׳.** כֻּלָּם כְּלֵי זֶמֶר הֵם:
+**קַתְרוֹס סַבְּכָא וְגוֹ׳.** כֻּלָּם כְּלֵי זֶמֶר הֵם:
 
 
 **the clavichord, the harp, etc.** They are all musical instruments.
@@ -2067,7 +2067,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:9:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:9:1)
 
 
-**עָנוֹ וְאָמְרִין.** צָוְחוּ. כָּל עֲנִיָּה שֶׁבַּמִּקְרָא לְשׁוֹן קוֹל רָם הוּא:
+**עֲנוֹ וְאָמְרִין.** צָוְחוּ. כָּל עֲנִיָּה שֶׁבַּמִּקְרָא לְשׁוֹן קוֹל רָם הוּא:
 
 
 **They spoke up and said** Aram. עֲנוֹ, they shouted. Every [expression of] עֲנִיָה in Scriptures is an expression of raising the voice.
@@ -2106,7 +2106,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:12:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:12:2)
 
 
-**יְהוּדָאִין.** מִשֵּׁבֶט יְהוּדָה:
+**יְהוּדָאיִן.** מִשֵּׁבֶט יְהוּדָה:
 
 
 **Judahite men** of the tribe of Judah.
@@ -2117,7 +2117,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:12:3](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:12:3)
 
 
-**אֵלֶּךְ.** אֵלֶּה:
+**אִלֵּךְ.** אֵלֶּה:
 
 
 **these** Aram. אִלֵּךְ
@@ -2303,7 +2303,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:19:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:19:1)
 
 
-**הִתְמְלִי חֲמָא.** נִתְמַלֵּא חֵמָה:
+**הִתְמְלִי חֱמָא.** נִתְמַלֵּא חֵמָה:
 
 
 **was filled with wrath** [as translated,] was filled with wrath.
@@ -2361,7 +2361,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:20:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:20:1)
 
 
-**וּלְגֻבְרִין גִּבָּרֵי חַיִל דִּי בְחֵילֵהּ.** וְלַאֲנָשִׁים גִּבּוֹרֵי כֹחַ אֲשֶׁר בְּחֵילוֹ:
+**וּלְגֻבְרִין גִּבָּרֵי חַיִל דִּי בְחַיְלֵהּ.** וְלַאֲנָשִׁים גִּבּוֹרֵי כֹחַ אֲשֶׁר בְּחֵילוֹ:
 
 
 **certain mighty men in his army** [as translated,] certain mighty men in his army.
@@ -2372,7 +2372,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:20:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:20:2)
 
 
-**אָמַר לְכַפָּתָה.** צִוָּה לֶאֱסוֹר אוֹתָם, שֶׁרָאָה מִתְחַזְּקִים לַעֲנוֹתוֹ קָשׁוֹת, וְאָמַר: גִּבּוֹרִים הֵם אֵלּוּ, וְצִוָּה לַגִּבּוֹרִים אֲשֶׁר בְּחֵילוֹ לֶאֱסוֹר אוֹתָם:
+**אֲמַר לְכַפָּתָה.** צִוָּה לֶאֱסוֹר אוֹתָם, שֶׁרָאָה מִתְחַזְּקִים לַעֲנוֹתוֹ קָשׁוֹת, וְאָמַר: גִּבּוֹרִים הֵם אֵלּוּ, וְצִוָּה לַגִּבּוֹרִים אֲשֶׁר בְּחֵילוֹ לֶאֱסוֹר אוֹתָם:
 
 
 **And he commanded...to bind** He commanded to bind them because he saw that they were strengthening themselves to answer him harshly, and he said, “These are mighty”; so he commanded the mighty men in his army to bind them.
@@ -2477,7 +2477,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:22:4](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:22:4)
 
 
-**קְטִיל הִמּוֹן שְׁבִיבָא דִּי נוּרָא.** שָׂרַף אוֹתָם כֹּחַ שְׁבִיב הָאֵשׁ:
+**קַטִּל הִמּוֹן שְׁבִיבָא דִּי נוּרָא.** שָׂרַף אוֹתָם כֹּחַ שְׁבִיב הָאֵשׁ:
 
 
 **were killed by a spark of fire** The power of a spark of fire burned them.
@@ -2516,7 +2516,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:24:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:24:2)
 
 
-**וְקָם בְּהִתְבַּהֲלָה.** וְעָמַד בְּבֶהָלָה:
+**וְקָם בְּהִתְבְּהָלָה.** וְעָמַד בְּבֶהָלָה:
 
 
 **and stood up in haste** Aram. וְקָם בְּהִתְבְּהָלָה.
@@ -2599,7 +2599,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:26:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:26:1)
 
 
-**קָרֵב לִתְרַע אַתּוּן נוּרָא** נִגַּשׁ לְשַׁעַר הֶחָצֵר שֶׁהַכִּבְשָׁן בְּתוֹכָהּ, לְדַבֵּר עִמָּהֶם; וּמִתְּחִלָּה הָיָה רוֹאֶה אוֹתָם מֵרָחוֹק:
+**קְרֵב לִתְרַע אַתּוּן נוּרָא** נִגַּשׁ לְשַׁעַר הֶחָצֵר שֶׁהַכִּבְשָׁן בְּתוֹכָהּ, לְדַבֵּר עִמָּהֶם; וּמִתְּחִלָּה הָיָה רוֹאֶה אוֹתָם מֵרָחוֹק:
 
 
 **approached the gate of the... fiery furnace** He approached the gate of the court, in which the furnace was situated, to speak with them, and at first, he saw them from afar.
@@ -2621,7 +2621,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:26:3](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:26:3)
 
 
-**בְּאֵדַיִן נָפְקוּן.** אַף עַל פִּי שֶׁבְּטוּחִין בַּנֵּס הֶעָשׂוּי לָהֶם, לֹא מָלְאָה לִבָּם לְזַלְזֵל בַּמַּלְכוּת לָצֵאת שֶׁלֹּא בִּרְשׁוּת:
+**בֵּאדַיִן נָפְקוּן.** אַף עַל פִּי שֶׁבְּטוּחִין בַּנֵּס הֶעָשׂוּי לָהֶם, לֹא מָלְאָה לִבָּם לְזַלְזֵל בַּמַּלְכוּת לָצֵאת שֶׁלֹּא בִּרְשׁוּת:
 
 
 **Then...came out** Although they were confident of the miracle that had been performed for them, they did not dare to treat the king lightly, to go out without permission.
@@ -2679,7 +2679,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:27:5](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:27:5)
 
 
-**וּשְׂעַר רֵאשֵׁיהוֹן לָא הִתְחָרַךְ.** שְׂעַר רֵאשֵׁיהוֹן לָא נֶחֱרַךְ:
+**וּשְׂעַר רֵאשְׁהוֹן לָא הִתְחָרַךְ.** שְׂעַר רֵאשֵׁיהוֹן לָא נֶחֱרַךְ:
 
 
 **the hair of their heads was not singed** [as translated,] the hair of their heads was not singed.
@@ -2784,7 +2784,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:29:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:29:2)
 
 
-**דִּי יֵאָמַר שָׁלוּ.** אֲשֶׁר יֹאמַר מִשְׁגֶּה, כְּלוֹמַר: שׁוּם דָּבָר שֶׁל גְּנַאי:
+**דִּי יֵאמַר שָׁלוּ.** אֲשֶׁר יֹאמַר מִשְׁגֶּה, כְּלוֹמַר: שׁוּם דָּבָר שֶׁל גְּנַאי:
 
 
 **that will speak amiss** that will speak in error, i.e., any disrespectful word.
@@ -2806,7 +2806,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:29:4](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:29:4)
 
 
-**נְוָלִי יִשְׁתַּוֶּה.** אַשְׁפָּה יוּשַׂם:
+**נְוָלִי יִשְׁתַּוֵּה.** אַשְׁפָּה יוּשַׂם:
 
 
 **shall be made a dungheap** [as translated,] shall be made a dungheap.
@@ -2817,7 +2817,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:29:5](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:29:5)
 
 
-**דִּי יְכוּל לְהַצָּלָה כִּדְנָה.** אֲשֶׁר יָכוֹל לְהַצִּיל כָּזֹאת:
+**דִּי יִכֻּל לְהַצָּלָה כִּדְנָה.** אֲשֶׁר יָכוֹל לְהַצִּיל כָּזֹאת:
 
 
 **that can save in this manner** [as translated,] that can save in this manner.
@@ -2859,7 +2859,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:32:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/3:32:1)
 
 
-**שְׁפַר קֳדָמַי לְהַחֲוָיָה.** טוֹב לִי לְהַגִּיד:
+**שְׁפַר קׇדָמַי לְהַחֲוָיָה.** טוֹב לִי לְהַגִּיד:
 
 
 **it behooves me to recite** It is good for me to tell.
@@ -2890,7 +2890,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:2:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:2:1)
 
 
-**וַיְדַחֲלִנַּנִּי.** וְאִיֵּם עָלַי וְהִפְחִידַנִי:
+**וִידַחֲלִנַּנִי.** וְאִיֵּם עָלַי וְהִפְחִידַנִי:
 
 
 **and it frightened me** It brought upon me fear and fright.
@@ -2904,7 +2904,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:5:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:5:1)
 
 
-**וְעַד אָחֳרָן.** וְעַד אֲשֶׁר בָּאַחֲרוֹנָה הוּבָא לִפְנֵי דָּנִיֵּאל:
+**וְעַד אׇחֳרֵין.** וְעַד אֲשֶׁר בָּאַחֲרוֹנָה הוּבָא לִפְנֵי דָּנִיֵּאל:
 
 
 **Until, at last,** until, at last, Daniel was brought in before me.
@@ -2990,7 +2990,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:9:3](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:9:3)
 
 
-**מָזוֹן לְכֹלָּא בֵהּ.** וּכְדֵי מָזוֹן לְכָל בְּרִיָּה הָיָה בּוֹ:
+**וּמָזוֹן לְכֹלָּא בֵהּ.** וּכְדֵי מָזוֹן לְכָל בְּרִיָּה הָיָה בּוֹ:
 
 
 **and on it was sustenance for all** On it was enough sustenance for all
@@ -3012,7 +3012,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:9:5](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:9:5)
 
 
-**יְדוּרוּן.** לְשׁוֹן מָדוֹר וְלִינָה:
+**יְדוּרָן.** לְשׁוֹן מָדוֹר וְלִינָה:
 
 
 **dwelt** Aram. יְדֻרָן, an expression of dwelling and lodging.
@@ -3023,7 +3023,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:9:6](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:9:6)
 
 
-**יִתְזוֹן.** לְשׁוֹן מָזוֹן:
+**יִתְּזִין.** לְשׁוֹן מָזוֹן:
 
 
 **was nourished** Aram. יִתְּזִין, an expression of food.
@@ -3048,7 +3048,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:10:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:10:2)
 
 
-**וְאָלוּ עִיר וְקַדִּישׁ.** וְהִנֵּה מַלְאָךְ שֶׁהוּא עֵר לְעוֹלָם וְקָדוֹשׁ:
+**וַאֲלוּ עִיר וְקַדִּישׁ.** וְהִנֵּה מַלְאָךְ שֶׁהוּא עֵר לְעוֹלָם וְקָדוֹשׁ:
 
 
 **and behold a wakeful holy one** i.e., an angel who is forever awake and holy.
@@ -3062,7 +3062,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:11:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:11:1)
 
 
-**קָרָא בְחַיִל.** צוֹעֵק בְּכֹחַ:
+**קָרֵא בְחַיִל.** צוֹעֵק בְּכֹחַ:
 
 
 **Crying out loudly** crying with might.
@@ -3164,7 +3164,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:12:5](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:12:5)
 
 
-**חֲלָקָה.** חֶלְקוֹ:
+**חֲלָקֵהּ.** חֶלְקוֹ:
 
 
 **its lot** [as translated,] its lot.
@@ -3308,7 +3308,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:16:4](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:16:4)
 
 
-**מָרִי.** אֲדוֹנִי, אָמְרוּ רַבּוֹתֵינוּ (שבועות לה:): **מָרִי חֶלְמָא לְשָׂנְאָךְ** קֹדֶשׁ הוּא. תָּלָה עֵינָיו לְהַקָּדוֹשׁ בָּרוּךְ הוּא וְאָמַר: חֲלוֹם זֶה יִתְקַיֵּם עַל שׂוֹנַאֲךָ זֶה. וְאִם תֹּאמַר לִנְבוּכַדְנֶצַּר אָמַר, וַהֲלֹא יִשְׂרָאֵל שׂוֹנְאוֹ, אֶפְשָׁר שֶׁיְּקַלְלֵם?
+**מָרִאי.** אֲדוֹנִי, אָמְרוּ רַבּוֹתֵינוּ (שבועות לה:): **מָרִי חֶלְמָא לְשָׂנְאָךְ** קֹדֶשׁ הוּא. תָּלָה עֵינָיו לְהַקָּדוֹשׁ בָּרוּךְ הוּא וְאָמַר: חֲלוֹם זֶה יִתְקַיֵּם עַל שׂוֹנַאֲךָ זֶה. וְאִם תֹּאמַר לִנְבוּכַדְנֶצַּר אָמַר, וַהֲלֹא יִשְׂרָאֵל שׂוֹנְאוֹ, אֶפְשָׁר שֶׁיְּקַלְלֵם?
 
 
 **My lord** Aram. מָרִאי. Our Rabbis said (Shevu. 35b): “My Lord, may the dream be for Your enemies,” refers to God. He raised his eyes to the Holy One, blessed be He, and said, “May this dream be fulfilled upon this enemy of Yours.” But if you say that he said it to Nebuchadnezzar, was not Israel his enemy? Is it possible that he would curse them?
@@ -3333,7 +3333,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:21:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:21:1)
 
 
-**דִּי מְטָת עַל מָרִי מַלְכָּא.** אֲשֶׁר הִגִּיעַ עַל אֲדוֹנִי הַמֶּלֶךְ:
+**דִּי מְטָת עַל מָרִאי מַלְכָּא.** אֲשֶׁר הִגִּיעַ עַל אֲדוֹנִי הַמֶּלֶךְ:
 
 
 **which befalls my lord, the king** [as translated,] which befalls my lord, the king.
@@ -3569,7 +3569,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:30:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:30:2)
 
 
-**גִּשְׁמָהּ.** גּוּפֵיהּ:
+**גִּשְׁמֵהּ.** גּוּפֵיהּ:
 
 
 ###### Rashi on Daniel 4:30:3
@@ -3613,7 +3613,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:31:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:31:2)
 
 
-**נָטְלַת.** נָשָׂאתִי:
+**נִטְלֵת.** נָשָׂאתִי:
 
 
 **raised** [as translated,] raised.
@@ -3624,7 +3624,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:31:3](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:31:3)
 
 
-**וּמַנְדְּעִי עֲלַי יְתִיב.** וְדַעְתִּי עָלַי חָזְרָה:
+**וּמַנְדְּעִי עֲלַי יְתוּב.** וְדַעְתִּי עָלַי חָזְרָה:
 
 
 **and my understanding was restored to me** [as translated,] and my understanding was restored to me.
@@ -3718,7 +3718,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:33:4](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:33:4)
 
 
-**וְלִי הַדָּבְרַי וְרַבְרְבָנַי יִבְעוֹן.** וְאוֹתִי יוֹעֲצַי וְשָׂרַי הָיוּ מְבַקְּשִׁים וַחֲפֵצִים שֶׁאָשׁוּב:
+**וְלִי הַדָּבְרַי וְרַבְרְבָנַי יְבַעוֹן.** וְאוֹתִי יוֹעֲצַי וְשָׂרַי הָיוּ מְבַקְּשִׁים וַחֲפֵצִים שֶׁאָשׁוּב:
 
 
 **my leaders and my dignitaries were seeking me** and My advisers and my princes were seeking me and hoping for my return.
@@ -3729,7 +3729,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:33:5](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:33:5)
 
 
-**הִתְקַנְתָּ.** הוּכַנְתִּי:
+**הׇתְקְנַת.** הוּכַנְתִּי:
 
 
 **and I was established** [as translated,] and I was established.
@@ -3740,7 +3740,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:33:6](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:33:6)
 
 
-**וּרְבוּ יְתֵרָה הוֹסַפְתָּ לִי.** וּגְדֻלָּה יְתֵרָה מִן הָרִאשׁוֹנָה נִתּוֹסְפַת לִי, אָמְרוּ רַבּוֹתֵינוּ (שבת קנ.) שֶׁרָכַב עַל אֲרִי וְקָשַׁר תַּנִּין בְּרֹאשׁוֹ:
+**וּרְבוּ יַתִּירָה הוּסְפַת לִי.** וּגְדֻלָּה יְתֵרָה מִן הָרִאשׁוֹנָה נִתּוֹסְפַת לִי, אָמְרוּ רַבּוֹתֵינוּ (שבת קנ.) שֶׁרָכַב עַל אֲרִי וְקָשַׁר תַּנִּין בְּרֹאשׁוֹ:
 
 
 **and excessive greatness was added to me** and more greatness than the earlier [kings] was added to me. Our Rabbis said (Shab. 150a) that he rode astride a lion and tied a serpent to its head.
@@ -3754,7 +3754,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:34:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/4:34:1)
 
 
-**וְאָרְחָתֵהּ דִּין.** וּדְרָכָיו מִשְׁפָּט:
+**וְאֹרְחָתֵהּ דִּין.** וּדְרָכָיו מִשְׁפָּט:
 
 
 **and Whose ways are just** His ways are just.
@@ -3804,7 +3804,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:1:3](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:1:3)
 
 
-**וּלְקָבֵל אַלְפָּא חַמְרָא.** כְּנֶגֶד אֶלֶף אִישׁ הָיָה שׁוֹתֶה יַיִן:
+**וְלׇקֳבֵל אַלְפָּא חַמְרָא.** כְּנֶגֶד אֶלֶף אִישׁ הָיָה שׁוֹתֶה יַיִן:
 
 
 **as much wine as the thousand** The equivalent of one thousand men [was the amount] he was drinking [in] wine.
@@ -3818,7 +3818,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:2:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:2:1)
 
 
-**אָמַר בְּטַעַם חַמְרָא.** אָמַר בַּעֲצַת הַיַּיִן שֶׁנִּשְׁתַּכֵּר:
+**אֲמַר בִּטְעֵם חַמְרָא.** אָמַר בַּעֲצַת הַיַּיִן שֶׁנִּשְׁתַּכֵּר:
 
 
 **said, with the counsel of the wine** He said with the counsel of the wine that he had imbibed.
@@ -3851,7 +3851,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:2:4](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:2:4)
 
 
-**שֵׁגְלָתָהּ.** לְשׁוֹן מַלְכָּא בִּלְשׁוֹן אֲרָמִי, כְּמוֹ ״וְהַשֵּׁגַל יוֹשֶׁבֶת אֶצְלוֹ״ (נחמיה ב:ו):
+**שֵׁגְלָתֵהּ.** לְשׁוֹן מַלְכָּא בִּלְשׁוֹן אֲרָמִי, כְּמוֹ ״וְהַשֵּׁגַל יוֹשֶׁבֶת אֶצְלוֹ״ (נחמיה ב:ו):
 
 
 **his queen** Aram. שֵּׁגְלָתֵה, an expression of a queen in Aramaic, like: (Neh. 2:6): “and the queen (וְהַשֵׁגָל) was sitting beside him.”
@@ -3926,7 +3926,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:6:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:6:1)
 
 
-**זִיוֹהִי שְׁנוֹהִי.** תָּאֳרָיו נִשְׁתַּנּוּ עָלָיו:
+**זִיוֺהִי שְׁנוֹהִי.** תָּאֳרָיו נִשְׁתַּנּוּ עָלָיו:
 
 
 **his color changed** His features changed upon him.
@@ -4006,7 +4006,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:7:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:7:2)
 
 
-**לְהַעֲלֹה.** לְהַכְנִיס:
+**לְהֶעָלָה.** לְהַכְנִיס:
 
 
 **to bring in** [as translated,] to bring in.
@@ -4139,7 +4139,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:11:3](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:11:3)
 
 
-**הֲקִימֵהוּ.** מִנָּהוּ שַׂר עַל כֻּלָּם:
+**הֲקִימֵהּ.** מִנָּהוּ שַׂר עַל כֻּלָּם:
 
 
 **appointed him** He appointed him prince over them all.
@@ -4178,7 +4178,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:16:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:16:1)
 
 
-**תָּכוֹל.** אִם תּוּכַל:
+**תִכּוּל.** אִם תּוּכַל:
 
 
 **Now if you can** [as translated,] Now if you can.
@@ -4192,7 +4192,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:17:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:17:1)
 
 
-**וּנְבִזְבְּיָתָךְ.** דּוֹרְנוֹתָךְ׃
+**וּנְבָזְבְּיָתָךְ.** דּוֹרְנוֹתָךְ׃
 
 
 **and give your lavish gifts** [as translated,] and give your lavish gifts.
@@ -4220,12 +4220,18 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 **דִּי הֲוָה צָבֵא.** לְמִי שֶׁהָיָה חָפֵץ:
 
 
+**whomever he would desire** [as translated,] whomever he desired
+
+
 ###### Rashi on Daniel 5:19:2
 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:19:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:19:2)
 
 
 **הֲוָה מַחֵא.** מְחַיֵּיהּ:
+
+
+**he would keep alive** [as translated,] he keeps him alive
 
 
 
@@ -4236,7 +4242,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:20:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:20:1)
 
 
-**וּכְדִי רָם לִבְבֵיהּ.** וְכַאֲשֶׁר רָם לְבָבוֹ:
+**וּכְדִי רִם לִבְבֵיהּ.** וְכַאֲשֶׁר רָם לְבָבוֹ:
 
 
 **and when his heart became haughty** [as translated,] and when his heart became haughty.
@@ -4258,7 +4264,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:20:3](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:20:3)
 
 
-**הִנַּחְתָּ.** הוֹרִיד:
+**הׇנְחַת.** הוֹרִיד:
 
 
 **he was deposed** Aram. הָנְחַת, lit. he took him down.
@@ -4269,7 +4275,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:20:4](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:20:4)
 
 
-**הֶעְדִּיוּ מִינָּהּ.** הֵסִירוּ מִמֶּנּוּ:
+**הֶעְדִּיו מִנֵּהּ.** הֵסִירוּ מִמֶּנּוּ:
 
 
 **was removed from him.** Aram. הֶעְדִּיו, He removed from him.
@@ -4283,7 +4289,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:21:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:21:1)
 
 
-**טָרִיד.** נִגְרָשׁ:
+**טְרִיד.** נִגְרָשׁ:
 
 
 **was banished** Aram. טְרִיד was driven away.
@@ -4347,7 +4353,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:26:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/5:26:2)
 
 
-**וְהַשְׁלְמָה.** חָשַׁב קֵץ שֶׁנִּפְסַק מַלְכוּת שֶׁל אָבִיךָ וְזַרְעוֹ וּמָצָא שֶׁכְּבָר הֻשְׁלְמָה:
+**וְהַשְׁלְמַהּ.** חָשַׁב קֵץ שֶׁנִּפְסַק מַלְכוּת שֶׁל אָבִיךָ וְזַרְעוֹ וּמָצָא שֶׁכְּבָר הֻשְׁלְמָה:
 
 
 **and has brought it to an end** He calculated the end of the allotted time for the kingdom of your father and his seed, and found that it has already been completed.
@@ -4453,7 +4459,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/6:4:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/6:4:2)
 
 
-**מִתְנַצֵּחַ.** מִתְגַּבֵּר:
+**מִתְנַצַּח.** מִתְגַּבֵּר:
 
 
 **surpassed** [as translated,] surpassed.
@@ -4553,7 +4559,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/6:8:3](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/6:8:3)
 
 
-**דִּי יִבְעֶה בָעוּ.** אֲשֶׁר יְבַקֵּשׁ שׁוּם בַּקָּשָׁה:
+**דִּי יִבְעֵא בָעוּ.** אֲשֶׁר יְבַקֵּשׁ שׁוּם בַּקָּשָׁה:
 
 
 **make any request** [as translated,] make any request.
@@ -4589,7 +4595,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/6:9:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/6:9:1)
 
 
-**תָּקִים אֱסָרָא.** תַּעֲמִיד חֹק זֶה:
+**תְּקִים אֱסָרָא.** תַּעֲמִיד חֹק זֶה:
 
 
 **you shall issue a decree** lit. you shall put up this decree.
@@ -4647,7 +4653,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/6:11:3](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/6:11:3)
 
 
-**נֶגֶד יְרוּשָׁלַיִם.** לְצַד בֵּית הַמִּקְדָּשׁ, וְאַף עַל פִּי שֶׁחָרַב, עָשָׂה כְּמוֹ שֶׁאָמַר שְׁלֹמֹה ״וְהִתְפַּלְלוּ אֵלֶיךָ דֶּרֶךְ אַרְצָם״ (מלכים א ח:מח):
+**נֶגֶד יְרוּשְׁלֶם.** לְצַד בֵּית הַמִּקְדָּשׁ, וְאַף עַל פִּי שֶׁחָרַב, עָשָׂה כְּמוֹ שֶׁאָמַר שְׁלֹמֹה ״וְהִתְפַּלְלוּ אֵלֶיךָ דֶּרֶךְ אַרְצָם״ (מלכים א ח:מח):
 
 
 **opposite Jerusalem** toward the side of the Temple, and although it was in ruins, he did as Solomon said (I Kings 8:48): “and pray to You toward their land.”
@@ -4877,7 +4883,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/6:19:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/6:19:1)
 
 
-**וּבַת טְוַת.** לָן בְּתַעֲנִית:
+**וּבָת טְוָת.** לָן בְּתַעֲנִית:
 
 
 **and retired while fasting** [as translated,] and retired while fasting.
@@ -4913,7 +4919,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/6:20:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/6:20:1)
 
 
-**בְּשַׁפְרְפָּרָא.** בַּעֲלוֹת שַׁחַר, וְהַרְבֵּה יֵשׁ בְּתַרְגּוּם יוֹנָתָן:
+**בִּשְׁפַּרְפָּרָא.** בַּעֲלוֹת שַׁחַר, וְהַרְבֵּה יֵשׁ בְּתַרְגּוּם יוֹנָתָן:
 
 
 **at dawn** Aram. בִּשְׁפַרְפָרָה, at the rise of dawn, and there are many [examples of this] in Targum Jonathan.
@@ -4924,7 +4930,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/6:20:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/6:20:2)
 
 
-**יָקוּם בְּנָגְהָא.** עָמַד לְאוֹר הַבֹּקֶר, וְלֹא בְּשָׁלֹשׁ שָׁעוֹת כִּשְׁאָר מְלָכִים:
+**יְקוּם בְּנָגְהָא.** עָמַד לְאוֹר הַבֹּקֶר, וְלֹא בְּשָׁלֹשׁ שָׁעוֹת כִּשְׁאָר מְלָכִים:
 
 
 **arose to the light of morning** He arose at the light of morning, not after three hours, like other kings.
@@ -4963,7 +4969,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/6:24:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/6:24:1)
 
 
-**שַׂגִּיא טָאב עֲלוֹהִי.** הַרְבֵּה הוּטַב בְּעֵינָיו:
+**שַׂגִּיא טְאֵב עֲלוֹהִי.** הַרְבֵּה הוּטַב בְּעֵינָיו:
 
 
 **it pleased...exceedingly** It was very good in his eyes.
@@ -5024,7 +5030,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/6:26:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/6:26:1)
 
 
-**בְּאֵדַיִן דָּרְיָוֶשׁ מַלְכָּא וְכוּ׳ דִּי דָאֲרִין בְּכָל אַרְעָא** שַׁדְּרִין בְּכָל הָאָרֶץ, **שְׁלָמְכוֹן יִסְגֵּא**:
+**בֵּאדַיִן דָּרְיָוֶשׁ מַלְכָּא וְכוּ׳ דִּי דָאֲרִין בְּכָל אַרְעָא** שַׁדְּרִין בְּכָל הָאָרֶץ, **שְׁלָמְכוֹן יִסְגֵּא**:
 
 
 **Then King Darius...that lived in all the land, May your peace increase!** [as translated,] that lived in all the land, May your peace increase!
@@ -5055,7 +5061,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:1:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:1:1)
 
 
-**בְּאֵדַיִן חֶלְמָא כְּתַב.** אָז (הַחֲלוֹם כָּתַב) וְרָאשֵׁי הַדְּבָרִים אָמַר:
+**בֵּאדַיִן חֶלְמָא כְּתַב.** אָז (הַחֲלוֹם כָּתַב) וְרָאשֵׁי הַדְּבָרִים אָמַר:
 
 
 **then he wrote the dream** Then [he wrote the dream] and told the beginnings of the matters.
@@ -5080,7 +5086,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:2:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:2:2)
 
 
-**אַרְבַּע רוּחֵי שְׁמַיָּא מְגִיחִין וְגוֹ׳.** אַרְבַּע רוּחוֹת נוֹשְׁבוֹת בָּאוֹת מֵאַרְבַּע רוּחוֹת הָעוֹלָם וְנִלְחָמוֹת עִם הַיָּם הַגָּדוֹל וְסוֹעֲרוֹת אוֹתוֹ:
+**אַרְבַּע רוּחֵי שְׁמַיָּא מְגִיחָן וְגוֹ׳.** אַרְבַּע רוּחוֹת נוֹשְׁבוֹת בָּאוֹת מֵאַרְבַּע רוּחוֹת הָעוֹלָם וְנִלְחָמוֹת עִם הַיָּם הַגָּדוֹל וְסוֹעֲרוֹת אוֹתוֹ:
 
 
 **the four winds of the heavens were stirring up, etc.** four blowing winds coming from the four directions of the world and waging war with the Great Sea and stirring it up.
@@ -5166,7 +5172,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:5:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:5:1)
 
 
-**אַחֲרֵי.** אַחֶרֶת:
+**אׇחֳרִי.** אַחֶרֶת:
 
 
 **another** [as translated,] another.
@@ -5210,7 +5216,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:5:5](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:5:5)
 
 
-**וּלְשְׂטַר חַד הֳקִימַת.** וּלְצַד אֶחָד עָמְדָה, רֶמֶז לְשֶׁיִּפְסֹק מַלְכוּת בָּבֶל, תַּמְתִּין פָּרַס שָׁנָה אַחַת שֶׁתִּמְלֹךְ מָדַי:
+**וְלִשְׂטַר חַד הֳקִימַת.** וּלְצַד אֶחָד עָמְדָה, רֶמֶז לְשֶׁיִּפְסֹק מַלְכוּת בָּבֶל, תַּמְתִּין פָּרַס שָׁנָה אַחַת שֶׁתִּמְלֹךְ מָדַי:
 
 
 **and it stood to one side** and it stood to one side, indicating that when the kingdom of Babylon terminates, Persia will wait one year, when Media will reign.
@@ -5246,7 +5252,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:6:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:6:1)
 
 
-**גַּפִּין אַרְבַּע וְגוֹ׳ וְאַרְבָּעָה רֵאשִׁין.** הֵם אַרְבָּעָה מוֹשְׁלִים שֶׁחִלֵּק לָהֶם אֲלֶכְּסַנְדְּרוֹס מוּקְדּוֹן בְּמוֹתוֹ אֶת מַלְכוּתוֹ, כְּמוֹ שֶׁכָּתוּב בְּסֵפֶר יוֹסֵף בֶּן גּוּרְיוֹן; שֶׁהַחַיָּה הַזֹּאת הַשְּׁלִישִׁית הִיא מַלְכוּת אַנְטִיוֹכוֹס, וְנִקְרָא **נְמַר** עַל שֵׁם שֶׁהָיְתָה גּוֹזֶרֶת גְּזֵרוֹת עַל יִשְׂרָאֵל מְנֻמָּרוֹת וּמְשֻׁנּוֹת זוֹ מִזּוֹ:
+**גַּפִּין אַרְבַּע וְגוֹ׳ וְאַרְבְּעָה רֵאשִׁין.** הֵם אַרְבָּעָה מוֹשְׁלִים שֶׁחִלֵּק לָהֶם אֲלֶכְּסַנְדְּרוֹס מוּקְדּוֹן בְּמוֹתוֹ אֶת מַלְכוּתוֹ, כְּמוֹ שֶׁכָּתוּב בְּסֵפֶר יוֹסֵף בֶּן גּוּרְיוֹן; שֶׁהַחַיָּה הַזֹּאת הַשְּׁלִישִׁית הִיא מַלְכוּת אַנְטִיוֹכוֹס, וְנִקְרָא **נְמַר** עַל שֵׁם שֶׁהָיְתָה גּוֹזֶרֶת גְּזֵרוֹת עַל יִשְׂרָאֵל מְנֻמָּרוֹת וּמְשֻׁנּוֹת זוֹ מִזּוֹ:
 
 
 **four wings...four heads** They are the four rulers to whom Alexander of Macedon allotted his kingdom at his death, as is written in the book of Joseph ben Gurion (Book 3, ch. 14), for this third beast is the kingdom of Antiochus, and it is called נָמֵר because it issued decrees upon Israel [which were] spotted (מְנֻמָּרוֹת) and varied one from the other.
@@ -5315,7 +5321,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:7:5](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:7:5)
 
 
-**וְקַרְנַיִן עֲשַׂר**. עֶשֶׂר קַרְנוֹת. זוֹ פֵּרֵשׁ לוֹ הַמַּלְאָךְ (דניאל ז:כד), שֶׁהֵם עֲשָׂרָה מְלָכִים שֶׁיַּעַמְדוּ לְרוֹמִי קֹדֶם לְאַסְפַּסְיָנוּס שֶׁחָרַב אֶת הַבַּיִת:
+**וְקַרְנַיִן עֲשַׂר.** עֶשֶׂר קַרְנוֹת. זוֹ פֵּרֵשׁ לוֹ הַמַּלְאָךְ (דניאל ז:כד), שֶׁהֵם עֲשָׂרָה מְלָכִים שֶׁיַּעַמְדוּ לְרוֹמִי קֹדֶם לְאַסְפַּסְיָנוּס שֶׁחָרַב אֶת הַבַּיִת:
 
 
 **and...ten horns** Aram. וְקַרְנַיִן עֲשַׂר. The angel explained to him that these are the ten kings who would ascend [the throne] of Rome before Vespasian, who would destroy the Temple.
@@ -5329,7 +5335,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:8:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:8:1)
 
 
-**וְאֵלּוּ.** כְּמוֹ ״וַאֲרוּ״ (דניאל ב:לא), לְשׁוֹן הִנֵּה:
+**וַאֲלוּ.** כְּמוֹ ״וַאֲרוּ״ (דניאל ב:לא), לְשׁוֹן הִנֵּה:
 
 
 **and behold** Aram. וַאֲלוּ, like וַאֲרוּ, an expression of “behold.”
@@ -5340,7 +5346,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:8:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:8:2)
 
 
-**מְמַלֵּל רַבְרְבָן.** דִּבְרֵי גַּאֲוָה, הוּא טִיטוּס שֶׁאָמְרוּ חֲכָמֵינוּ זִכְרוֹנָם לִבְרָכָה (גיטין נו:) שֶׁחֵרֵף וְגִדֵּף וְנִכְנַס לַהֵיכָל בְּעַזּוּת פָּנִים:
+**מְמַלִּל רַבְרְבָן.** דִּבְרֵי גַּאֲוָה, הוּא טִיטוּס שֶׁאָמְרוּ חֲכָמֵינוּ זִכְרוֹנָם לִבְרָכָה (גיטין נו:) שֶׁחֵרֵף וְגִדֵּף וְנִכְנַס לַהֵיכָל בְּעַזּוּת פָּנִים:
 
 
 **speaking arrogantly** words of arrogance. That is Titus, about whom the Rabbis, of blessed memory, said (Gittin 56b) that he blasphemed and berated and entered the Heichal with brazenness.
@@ -5376,7 +5382,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:9:3](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:9:3)
 
 
-**כְּתַלַג חִוָּר.** לְלַבֵּן עֲוֹנוֹת עַמּוֹ:
+**כִּתְלַג חִוָּר.** לְלַבֵּן עֲוֹנוֹת עַמּוֹ:
 
 
 **as white as snow** to whiten the iniquities of His people.
@@ -5589,7 +5595,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:14:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:14:2)
 
 
-**דִּי לָא יְעָדָהּ.** לָא יָסוּר:
+**דִּי לָא יֶעְדֵּה.** לָא יָסוּר:
 
 
 **which will not be removed** [as translated,] will not be removed.
@@ -5628,7 +5634,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:16:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:16:1)
 
 
-**קָרְבֵת עַל חַד מִן קָאֲמַיָּא.** קָרַבְתִּי אֵצֶל אֶחָד מִן הָעוֹמְדִים שָׁם לִפְנֵי עַתִּיק הַיָּמִים. הַמַּלְאָכִים נִקְרְאוּ עוֹמְדִים, שֶׁנֶּאֱמַר (זכריה ג:ז) ״בֵּין הָעֹמְדִים הָאֵלֶּה״, מִפְּנֵי שֶׁאֵין לָהֶם קְפָצִים:
+**קִרְבֵת עַל חַד מִן קָאֲמַיָּא.** קָרַבְתִּי אֵצֶל אֶחָד מִן הָעוֹמְדִים שָׁם לִפְנֵי עַתִּיק הַיָּמִים. הַמַּלְאָכִים נִקְרְאוּ עוֹמְדִים, שֶׁנֶּאֱמַר (זכריה ג:ז) ״בֵּין הָעֹמְדִים הָאֵלֶּה״, מִפְּנֵי שֶׁאֵין לָהֶם קְפָצִים:
 
 
 **I drew near to one of those standing** I drew near to one of those standing there beside the Ancient of Days. The angels are called standing ones, as it is said: (Zech. 3:7): “among these who stand by (הָעמְדִים),” because they have no joints.
@@ -5653,7 +5659,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:17:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:17:1)
 
 
-**אַרְבָּעָה מַלְכִין.** אַרְבַּע מַלְכִיּוֹת:
+**אַרְבְּעָה מַלְכִין.** אַרְבַּע מַלְכִיּוֹת:
 
 
 **four kingdoms** Aram. אַרְבְּעָא מַלְכִין, lit. four kings.
@@ -5770,7 +5776,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:23:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:23:1)
 
 
-**כֵּן אָמַר.** כֹּה עָנַנִי הַמַּלְאָךְ הַפּוֹתֵר לִי אֶת הַחֲלוֹם:
+**כֵּן אֲמַר.** כֹּה עָנַנִי הַמַּלְאָךְ הַפּוֹתֵר לִי אֶת הַחֲלוֹם:
 
 
 **So he said** So did the angel who interpreted the dream for me reply to me.
@@ -5795,7 +5801,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:24:2](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:24:2)
 
 
-**מְנָהּ מַלְכוּתָא.** מֵאוֹתָהּ הַמַּלְכוּת:
+**מִנַּהּ מַלְכוּתָא.** מֵאוֹתָהּ הַמַּלְכוּת:
 
 
 **from that kingdom** [as translated,] from that kingdom.
@@ -5867,7 +5873,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:26:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:26:1)
 
 
-**וְדִינָא יְתִב.** וְהַדִּין נִתְיַשֵּׁב לִפְנֵי הַמָּקוֹם׃
+**וְדִינָא יִתִּב.** וְהַדִּין נִתְיַשֵּׁב לִפְנֵי הַמָּקוֹם׃
 
 
 **And the judgment was established** And the judgment was established before Him.
@@ -5939,7 +5945,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:28:4](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/7:28:4)
 
 
-**בְּלִבִּי נְטָרֵת.** בְּלִבִּי צָפַנְתִּי:
+**בְּלִבִּי נִטְרֵת.** בְּלִבִּי צָפַנְתִּי:
 
 
 **I kept...in my heart** I hid in my heart.
@@ -6081,7 +6087,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/8:8:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/8:8:1)
 
 
-**חֲזוּת אַרְבַּע.** מַרְאֵה אַרְבַּע קְרָנַיִם:
+**חָזוּת אַרְבַּע.** מַרְאֵה אַרְבַּע קְרָנַיִם:
 
 
 **an appearance of four** an appearance of four horns.
@@ -6150,7 +6156,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/8:9:6](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/8:9:6)
 
 
-**וְאֶל הַצְּבִי.** אֶרֶץ יִשְׂרָאֵל שֶׁנִּקְרֵאת אֶרֶץ צְבִי, כְּעִנְיָן שֶׁנֶּאֱמַר ״נַחֲלַת צְבִי צִבְאוֹת גּוֹיִם״ (ירמיהו ג:יט):
+**וְאֶל הַצֶּבִי.** אֶרֶץ יִשְׂרָאֵל שֶׁנִּקְרֵאת אֶרֶץ צְבִי, כְּעִנְיָן שֶׁנֶּאֱמַר ״נַחֲלַת צְבִי צִבְאוֹת גּוֹיִם״ (ירמיהו ג:יט):
 
 
 **and to the coveted land** Heb. הַצְבִי The land of Israel, called אֶרֶץ הַצְבִי, the coveted land [or the land of beauty] after the manner of (Jer. 3:19): “an inheritance of the beauty of hosts of nations.”
@@ -6164,7 +6170,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/8:10:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/8:10:1)
 
 
-**עַד צְבָא הַשָּׁמַיִם.** הֵם יִשְׂרָאֵל שֶׁנִּמְשְׁלוּ לַכּוֹכָבִים (בראשית כב:יז):
+**עַד צְבָא הַשָּׁמָיִם.** הֵם יִשְׂרָאֵל שֶׁנִּמְשְׁלוּ לַכּוֹכָבִים (בראשית כב:יז):
 
 
 **until the host of heaven** They are Israel, who were compared to the stars.
@@ -6272,7 +6278,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/8:13:4](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/8:13:4)
 
 
-**לַפַּלְמוֹנִי הַמְדַבֵּר.** לַמַּלְאָךְ שֶׁהָיָה מְדַבֵּר וְגוֹזֵר גְּזֵרוֹת, **וְצָבָא** הַמּוֹעֵד **תִּנָּתֵן עַל הַתָּמִיד בְּפֶשַׁע**:
+**לַפַּלְמוֹנִי הַמְדַבֵּר.** לַמַּלְאָךְ שֶׁהָיָה מְדַבֵּר וְגוֹזֵר גְּזֵרוֹת, **וְצָבָא** הַמּוֹעֵד תִּנָּתֵן עַל הַתָּמִיד בְּפֶשַׁע:
 
 
 **to the anonymous one who was speaking** to the angel who was speaking and issuing decrees, viz. “And a set time will be given for the daily sacrifice because of transgression.”
@@ -6316,7 +6322,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/8:13:8](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/8:13:8)
 
 
-**וְקֹדֶשׁ וְצָבָא**. וָ״ו יְתֵרָה, וְהַרְבֵּה כָּאֵלֶּה בַּמִּקְרָא: ״נִרְדָּם וְרֶכֶב וָסוּס״ (תהילים עו:ז), וְאַף בִּלְשׁוֹן בְּנֵי אָדָם יֵשׁ מְדַבְּרִים כֵּן:
+**וְקֹדֶשׁ וְצָבָא.** וָ״ו יְתֵרָה, וְהַרְבֵּה כָּאֵלֶּה בַּמִּקְרָא: ״נִרְדָּם וְרֶכֶב וָסוּס״ (תהילים עו:ז), וְאַף בִּלְשׁוֹן בְּנֵי אָדָם יֵשׁ מְדַבְּרִים כֵּן:
 
 
 **the Sanctuary and the host** Heb. וְקֹדֶשּׁ וְצָבָא. The “vav” [of וְקֹדֶשּׁ] is superfluous, and there are many such instances in Scripture, e.g. (Ps. 76:7): “chariot (וָרֶכֶב) and horse were stunned,” and also, in the language of people, some speak that way.
@@ -6391,7 +6397,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/8:16:3](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/8:16:3)
 
 
-**וַיֹּאמֶר.** לַמַּלְאָךְ אַתָּה גַבְרִיאֵל:
+**וַיֹּאמַר.** לַמַּלְאָךְ אַתָּה גַבְרִיאֵל:
 
 
 **and said** to the angel, “You, Gabriel.”
@@ -6427,7 +6433,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/8:17:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/8:17:1)
 
 
-**לְעֵת קֵץ.** לְיָמִים רַבִּים יִהְיֶה הַחָזוֹן הַזֶּה:
+**לְעֶת קֵץ.** לְיָמִים רַבִּים יִהְיֶה הַחָזוֹן הַזֶּה:
 
 
 **to the time of the end.** For many days this vision will come about.
@@ -6613,7 +6619,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/8:24:5](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/8:24:5)
 
 
-**וְעִם קְדוֹשִׁים.** יִשְׂרָאֵל הַמַּאֲמִינִים בַּתּוֹרָה:
+**וְעַם קְדוֹשִׁים.** יִשְׂרָאֵל הַמַּאֲמִינִים בַּתּוֹרָה:
 
 
 **and the people of the holy ones** Israel, who believe in the Torah.
@@ -6824,7 +6830,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/9:5:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/9:5:1)
 
 
-**וְסוּר.** וְהָלַכְנוּ הָלוֹךְ וָסוֹר מִמִּצְוֹתֶיךָ, טִילְנ״שׁ בְּלַעַ״ז:
+**וְסוֹר.** וְהָלַכְנוּ הָלוֹךְ וָסוֹר מִמִּצְוֹתֶיךָ, טִילְנ״שׁ בְּלַעַ״ז:
 
 
 **turning away** We were constantly turning away from Your commandments, tolant in Old French, turning away.
@@ -7238,7 +7244,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/9:25:5](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/9:25:5)
 
 
-**וְחָרוּץ**. הֵם חֲרִיצִים שֶׁעוֹשִׂין סְבִיב הַחוֹמָה לְחִזּוּק הָעִיר, שֶׁקּוֹרִין קאבה בְּלַעַ״ז:
+**וְחָרוּץ.** הֵם חֲרִיצִים שֶׁעוֹשִׂין סְבִיב הַחוֹמָה לְחִזּוּק הָעִיר, שֶׁקּוֹרִין קאבה בְּלַעַ״ז:
 
 
 **and moat** Heb. וְחָרוּץ. They are the moats that they make around the wall to strengthen the city, which are called fosse in French, ditch or moat.
@@ -7249,7 +7255,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/9:25:6](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/9:25:6)
 
 
-**וּבְצוֹק הָעִתִּים.** וְאוֹתָן **הָעִתִּים** יִהְיוּ **בְצוֹק** וּבְצָרָה, כִּי בְּשִׁעְבּוּד מַלְכֵי פָרַס וְעוֹבְדֵי כוֹכָבִים יִהְיוּ מַטְרִיחִים עֲלֵיהֶם בְּשִׁעְבּוּד קָשֶׁה, וְאַף עַל פִּי שֶׁהֵם שִׁשִּׁים וּשְׁתַּיִם שָׁבֻעִים וְעוֹד אַרְבַּע שָׁנִים שֶׁנּוֹתְרוּ מִן הַשָּׁבוּעַ הַשְּׁמִינִי, שֶׁהָיְתָה תְּחִלָּתוֹ נִבְלַעַת שָׁלֹשׁ שָׁנִים בְּתוֹךְ חֲמִשִּׁים וּשְׁתַּיִם שֶׁל הֶמְשֵׁךְ הַגּוֹלָה, לֹא נִמְנוּ כָאן אוֹתָן אַרְבַּע שָׁנִים, לְפִי שֶׁלֹּא מָנָה כָאן אֶלָּא שָׁבֻעִים. וַהֲרֵי אַתָּה מוֹצֵא שֶׁמִּתְּחִלָּה הִתְחִיל לִמְנוֹת שָׁבֻעִים שִׁבְעִים, וּבַסּוֹף כְּשֶׁפֵּרַשׁ עִתֵּיהֶם וּמִשְׁפָּטֵיהֶם, לֹא מָנָה אֶלָּא שִׁשִּׁים וָתֵשַׁע, אֶלָּא שָׁבוּעַ אֶחָד נֶחְלַק מִקְצָתוֹ לְכָאן וּמִקְצָתוֹ לְכָאן, וְהוּא לֹא הִזְכִּיר אֶלָּא הַשָּׁבוּעִים הַשְּׁלֵמִים:
+**וּבְצוֹק הָעִתִּים.** וְאוֹתָן **הָעִתִּים** יִהְיוּ בְצוֹק וּבְצָרָה, כִּי בְּשִׁעְבּוּד מַלְכֵי פָרַס וְעוֹבְדֵי כוֹכָבִים יִהְיוּ מַטְרִיחִים עֲלֵיהֶם בְּשִׁעְבּוּד קָשֶׁה, וְאַף עַל פִּי שֶׁהֵם שִׁשִּׁים וּשְׁתַּיִם שָׁבֻעִים וְעוֹד אַרְבַּע שָׁנִים שֶׁנּוֹתְרוּ מִן הַשָּׁבוּעַ הַשְּׁמִינִי, שֶׁהָיְתָה תְּחִלָּתוֹ נִבְלַעַת שָׁלֹשׁ שָׁנִים בְּתוֹךְ חֲמִשִּׁים וּשְׁתַּיִם שֶׁל הֶמְשֵׁךְ הַגּוֹלָה, לֹא נִמְנוּ כָאן אוֹתָן אַרְבַּע שָׁנִים, לְפִי שֶׁלֹּא מָנָה כָאן אֶלָּא שָׁבֻעִים. וַהֲרֵי אַתָּה מוֹצֵא שֶׁמִּתְּחִלָּה הִתְחִיל לִמְנוֹת שָׁבֻעִים שִׁבְעִים, וּבַסּוֹף כְּשֶׁפֵּרַשׁ עִתֵּיהֶם וּמִשְׁפָּטֵיהֶם, לֹא מָנָה אֶלָּא שִׁשִּׁים וָתֵשַׁע, אֶלָּא שָׁבוּעַ אֶחָד נֶחְלַק מִקְצָתוֹ לְכָאן וּמִקְצָתוֹ לְכָאן, וְהוּא לֹא הִזְכִּיר אֶלָּא הַשָּׁבוּעִים הַשְּׁלֵמִים:
 
 
 **but in troubled times** But in those times they will be troubled and distressed, for in the subjugation of the kings of Persia and the heathens, they will burden them with harsh bondage. Now although there are sixty-two weeks and four years more that remain from the eighth week, whose beginning, viz. the three years, was included in the fifty-two years of the duration of the exile, those four years were not counted here because here he counted only weeks, and you find that from the beginning he started to count seventy weeks, and at the end, when he delineated their times and their judgments, he counted only sixty-nine, proving that one week was divided, part of it here and part of it there; and he mentioned only whole weeks.
@@ -7431,7 +7437,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/9:27:6](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/9:27:6)
 
 
-**כָּנָף.** לְשׁוֹן גּוֹבַהּ, כִּכְנַף עוֹף הַפּוֹרֵחַ:
+**כְּנַף.** לְשׁוֹן גּוֹבַהּ, כִּכְנַף עוֹף הַפּוֹרֵחַ:
 
 
 **high** Heb. כְּנַף, lit. wing, an expression of height, like the wing of a flying bird.
@@ -7868,7 +7874,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/11:2:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/11:2:1)
 
 
-**הִנֵּה עוֹד שְׁלֹשָׁה מְלָכִים וְגוֹ׳**. רַבּוֹתֵינוּ זִכְרוֹנָם לִבְרָכָה אָמְרוּ בְּסֵדֶר עוֹלָם (פרק כח): זֶה כּוֹרֶשׁ וַאֲחַשְׁוֵרוֹשׁ וְדָרְיָוֶשׁ שֶׁבָּנָה הַבַּיִת, וּמַה תַּלְמוּד לוֹמַר **רְבִיעִי**? רְבִיעִי לְמָדַי. אֲבָל בְּסֵפֶר יוֹסֵף בֶּן גּוּרְיוֹן כָּתוּב שֶׁהָיָה לוֹ בֵּן לְכוֹרֶשׁ שֶׁמָּלַךְ תַּחְתָּיו לִפְנֵי מְלוֹךְ אֲחַשְׁוֵרוֹשׁ וּשְׁמוֹ בַּמְבִּישָׁה:
+**הִנֵּה עוֹד שְׁלֹשָׁה מְלָכִים וְגוֹ׳.** רַבּוֹתֵינוּ זִכְרוֹנָם לִבְרָכָה אָמְרוּ בְּסֵדֶר עוֹלָם (פרק כח): זֶה כּוֹרֶשׁ וַאֲחַשְׁוֵרוֹשׁ וְדָרְיָוֶשׁ שֶׁבָּנָה הַבַּיִת, וּמַה תַּלְמוּד לוֹמַר **רְבִיעִי**? רְבִיעִי לְמָדַי. אֲבָל בְּסֵפֶר יוֹסֵף בֶּן גּוּרְיוֹן כָּתוּב שֶׁהָיָה לוֹ בֵּן לְכוֹרֶשׁ שֶׁמָּלַךְ תַּחְתָּיו לִפְנֵי מְלוֹךְ אֲחַשְׁוֵרוֹשׁ וּשְׁמוֹ בַּמְבִּישָׁה:
 
 
 **Behold three more kings** Our Sages of blessed memory in Seder Olam (ch. 28) said: “This refers to Cyrus, Ahasuerus, and Darius who rebuilt the Temple. Now what is the meaning of fourth’? The fourth, counting from Media.” In the book of Joseph Ben Gorion, however, it is written that Cyrus had a son who succeeded him before the reign of Ahasuerus, named Cambyses.
@@ -8181,7 +8187,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/11:11:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/11:11:1)
 
 
-**וַיִּתְמַרְמָר.** וַיִּלָּחֵם בָּעָם:
+**וְיִתְמַרְמַר.** וַיִּלָּחֵם בָּעָם:
 
 
 **will wage war** will fight against the people.
@@ -8242,7 +8248,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/11:14:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/11:14:1)
 
 
-**וּבְנֵי פָרִיצֵי עַמְּךָ יִנָּשְׂאוּ לְהַעֲמִיד חָזוֹן.** רָאִיתִי בְּשֵׁם רַב סְעַדְיָה שֶׁזּוֹ פְּרִיצֵי יִשְׂרָאֵל וְסִיעָתָם:
+**וּבְנֵי פָרִיצֵי עַמְּךָ יִנַּשְּׂאוּ לְהַעֲמִיד חָזוֹן.** רָאִיתִי בְּשֵׁם רַב סְעַדְיָה שֶׁזּוֹ פְּרִיצֵי יִשְׂרָאֵל וְסִיעָתָם:
 
 
 **and the sons of the renegades of your people will exalt themselves to bring about the vision** I saw in the name of Rav Saadia Gaon that they were the renegades of Israel and their company.
@@ -8256,7 +8262,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/11:15:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/11:15:1)
 
 
-**וְעִם מִבְחָרָיו.** יִהְיוּ בַּמִּלְחָמָה:
+**וְעַם מִבְחָרָיו.** יִהְיוּ בַּמִּלְחָמָה:
 
 
 **and the people of his chosen ones** will be in the war.
@@ -8350,7 +8356,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/11:17:4](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/11:17:4)
 
 
-**וּבַת הַנָּשִׁים יִתֵּן לוֹ לְהַשְׁחִיתָהּ.** זוֹ כְּנֶסֶת יִשְׂרָאֵל ״הַיָּפָה בַּנָּשִׁים״ (שיר השירים א:ח), יְצַוֶּה מֶלֶךְ הַצָּפוֹן לְשַׂר צְבָאוֹ לְהַשְׁחִיתָהּ. וְאוֹמֵר אֲנִי, שֶׁהוּא אַנְטִיוֹכוּס הָרָשָׁע מֶלֶךְ יָוָן, שֶׁגָּזַר גְּזֵרוֹת עַל יִשְׂרָאֵל וְצִוָּה לְפוֹלִיפוֹס שַׂר צְבָאוֹ לַהֲרֹג אֶת כָּל הַקּוֹרֵא שְׁמוֹ יְהוּדִי, כְּמוֹ שֶׁכָּתוּב בְּסֵפֶר יוֹסִיפוֹן:
+**וּבַת הַנָּשִׁים יִתֶּן לוֹ לְהַשְׁחִיתָהּ.** זוֹ כְּנֶסֶת יִשְׂרָאֵל ״הַיָּפָה בַּנָּשִׁים״ (שיר השירים א:ח), יְצַוֶּה מֶלֶךְ הַצָּפוֹן לְשַׂר צְבָאוֹ לְהַשְׁחִיתָהּ. וְאוֹמֵר אֲנִי, שֶׁהוּא אַנְטִיוֹכוּס הָרָשָׁע מֶלֶךְ יָוָן, שֶׁגָּזַר גְּזֵרוֹת עַל יִשְׂרָאֵל וְצִוָּה לְפוֹלִיפוֹס שַׂר צְבָאוֹ לַהֲרֹג אֶת כָּל הַקּוֹרֵא שְׁמוֹ יְהוּדִי, כְּמוֹ שֶׁכָּתוּב בְּסֵפֶר יוֹסִיפוֹן:
 
 
 **Now the daughter of the women he will give him to destroy her** This is the nation of Israel, [referred to in Song of Songs 1:8 as] “the fairest of women.” The king of the north will command the general of his army to destroy her. I say that he is Antiochus, the king of Greece, who issued decrees against Israel, and he commanded his general, Phillip, to kill whoever identified himself as a Jew, as is written in the book of Josiphon (ch. 18).
@@ -8414,7 +8420,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/11:20:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/11:20:1)
 
 
-**וְעָמַד עַל כַּנּוֹ מַעֲבִיר נוֹגֵשׂ.** וְיִתְחַזֵּק עַל בְּסִיסוֹ בְּהַר הַמּוֹדְעִית מַתִּתְיָהוּ בֶּן יוֹחָנָן הַמַּעֲבִיר נוֹגֵשׂ יָוָן מֵעַל יִשְׂרָאֵל וְגוֹ׳, וְהוּא **הֲדַר מַלְכוּת** בְּיִשְׂרָאֵל, כִּי שַׂר וְגִבּוֹר יִהְיֶה הוּא וְכָל זַרְעוֹ אַחֲרָיו, בְּנֵי הַחַשְׁמוֹנִים:
+**וְעָמַד עַל כַּנּוֹ מַעֲבִיר נוֹגֵשׂ.** וְיִתְחַזֵּק עַל בְּסִיסוֹ בְּהַר הַמּוֹדְעִית מַתִּתְיָהוּ בֶּן יוֹחָנָן הַמַּעֲבִיר נוֹגֵשׂ יָוָן מֵעַל יִשְׂרָאֵל וְגוֹ׳, וְהוּא **הֶדֶר מַלְכוּת** בְּיִשְׂרָאֵל, כִּי שַׂר וְגִבּוֹר יִהְיֶה הוּא וְכָל זַרְעוֹ אַחֲרָיו, בְּנֵי הַחַשְׁמוֹנִים:
 
 
 **And one who removes the oppressor will stand on his base** and Mattathias the son of Johanan, who removed the oppressor from Israel, and who is the glory of the kingdom of Israel, will strengthen himself on his base on Mt. Modin, for he will be a prince and a mighty man, he and all his descendants after him, viz. the Hasmoneans.
@@ -8547,7 +8553,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/11:24:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/11:24:1)
 
 
-**בִּזָּה וְשָׁלָל וּרְכוּשׁ לָהֶם יְבַזֵּר.** יְחַלֵּק לְכָל הַמְקַבְּלִים עֻלּוֹ עֲלֵיהֶם, עַד שֶׁיִּכְבְּשׁוּ אֶת הַכֹּל בַּחֲנֻפָּה וּבַחֲלַקְלַקּוֹת:
+**בִּזָּה וְשָׁלָל וּרְכוּשׁ לָהֶם יִבְזוֹר.** יְחַלֵּק לְכָל הַמְקַבְּלִים עֻלּוֹ עֲלֵיהֶם, עַד שֶׁיִּכְבְּשׁוּ אֶת הַכֹּל בַּחֲנֻפָּה וּבַחֲלַקְלַקּוֹת:
 
 
 **plunder and spoils and belongings he will distribute to them** He will distribute to those who accept their yoke upon themselves until they conquer all with flattery and smooth speech.
@@ -8774,7 +8780,7 @@ but this coming **will not be** as successful as the first one mentioned above (
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/11:30:4](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/11:30:4)
 
 
-**וְנִכְאֶה.** וְנִשְׁבָּר קְצָת:
+**וְנִכְאָה.** וְנִשְׁבָּר קְצָת:
 
 
 **and he will be crushed** He will be slightly broken.
@@ -9235,7 +9241,7 @@ but this coming **will not be** as successful as the first one mentioned above (
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/12:10:1](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/12:10:1)
 
 
-**יִתְבָּרֲרוּ וְיִתְלַבְּנוּ.** הַחֶשְׁבּוֹנוֹת הָאֵלֶּה:
+**יִתְבָּרְרוּ וְיִתְלַבְּנוּ.** הַחֶשְׁבּוֹנוֹת הָאֵלֶּה:
 
 
 **They will be clarified and whitened** [i.e.,] these calculations.
@@ -9279,7 +9285,7 @@ but this coming **will not be** as successful as the first one mentioned above (
 [https://torahapp.org/share/book/Rashi%20on%20Daniel/r/12:10:5](https://torahapp.org/share/book/Rashi%20on%20Daniel/r/12:10:5)
 
 
-**וְהַמַּשְׂכִּילִים יָבִינוּ.** אוֹתָהּ בְּ**בֹא עֵת קֵץ**:
+**וְהַמַּשְׂכִּילִים יָבִינוּ.** אוֹתָהּ בְּבֹא עֵת קֵץ:
 
 
 **but the wise will understand** them when the time of the end arrives.

@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Targum Jerusalem on Torah (Segments: 868, License: Public Domain)
 
-Version (En): Targum Jerusalem, trans. J. W. Etheridge, London, 1862 (Segments: 843)
+Version (En): Sefaria Community Translation (Segments: 843)
 
 
 ## Genesis

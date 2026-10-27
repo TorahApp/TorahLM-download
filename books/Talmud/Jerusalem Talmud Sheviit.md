@@ -3368,7 +3368,7 @@ footnotes:
 [https://torahapp.org/share/book/Jerusalem%20Talmud%20Sheviit/r/6:1:14](https://torahapp.org/share/book/Jerusalem%20Talmud%20Sheviit/r/6:1:14)
 
 
-מִפְּנֵי מַה לֹא גָזְרוּ עָל אוֹתָהּ הָרוּּחַ שֶׁבְגְּרָרִיקוֹ. רִבִּי סִימוֹן בְּשֵׁם רִבִּי יְהוֹשֻׁעַ בֶּן לֵוִי מִפְּנֵי שֶׁנִּיוֶיהָ רַע. עַד הֵיכָן. רִבִּי חָנִין בְּשֵׁם רִבִּי שְׁמוּאֵל בַּר רַב יִצְחָק עַד נַחַל מִצְרַיִם. וַהֲרֵי עַזָּה נִיוֶיהָ יָפֶה. פִּישְׁפְּשָׁה אָמַר קוֹמֵי רִבִּי יוֹסֵי שְׁאֵלִית לְרִבִּי אָחָא וְשָׁרָא.
+מִפְּנֵי מַה לֹא גָזְרוּ עָל אוֹתָהּ הָרוּחַ שֶׁבְגְּרָרִיקוֹ. רִבִּי סִימוֹן בְּשֵׁם רִבִּי יְהוֹשֻׁעַ בֶּן לֵוִי מִפְּנֵי שֶׁנִּיוֶיהָ רַע. עַד הֵיכָן. רִבִּי חָנִין בְּשֵׁם רִבִּי שְׁמוּאֵל בַּר רַב יִצְחָק עַד נַחַל מִצְרַיִם. וַהֲרֵי עַזָּה נִיוֶיהָ יָפֶה. פִּישְׁפְּשָׁה אָמַר קוֹמֵי רִבִּי יוֹסֵי שְׁאֵלִית לְרִבִּי אָחָא וְשָׁרָא.
 
 
 Why did they make no decree about the direction of Gerar⁶⁷? Rebbi Simon in the name of Rebbi Joshua ben Levi: Because its oases are poor. How far? Rebbi Ḥanin in the name of Rebbi Samuel ben Rabbi Isaac: Up to the brook of Egypt⁶². 15:4. *Num*. 34.9, identified by R. Saadia Gaon as Wadi el-‘Arish.. But is not the oasis of Gaza a good one? Pishpesha⁶⁸ said before Rebbi Yose: I asked Rebbi Aḥa and he permitted.

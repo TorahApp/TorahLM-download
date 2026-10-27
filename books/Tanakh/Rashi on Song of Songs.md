@@ -14,9 +14,9 @@ Location: Tanakh/Rishonim on Tanakh/Rashi/Writings
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): The Metsudah Five Megillot, Lakewood, N.J., 2001 (Segments: 386, License: CC-BY)
+Version (He): Rashi on Shir HaShirim -- Wikisource (Segments: 386, License: CC-BY-SA)
 
-Version (En): The Metsudah Five Megillot, Lakewood, N.J., 2001 (Segments: 386)
+Version (En): Sefaria Community Translation (Segments: 386)
 
 
 ## Chapter 1

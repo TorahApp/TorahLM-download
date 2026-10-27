@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Vilna Edition (Segments: 501, License: Public Domain)
 
-Version (En): Sefaria Community Translation (Segments: 189)
+Version (En): Tosafot, Translated by Jan Buckler. (Segments: 189)
 
 
 ## Daf 2a

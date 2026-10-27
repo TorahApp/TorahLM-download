@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Moreh BeEtzba, Livorno, 1842 (Segments: 368, License: Public Domain)
 
-Version (En): Sefaria Community Translation (Segments: 2)
+Version (En): Sefaria Community Translation (Segments: 3)
 
 
 ## Seif 1
@@ -2797,6 +2797,9 @@ One should add to the joy of the day of the thirty third of the Omer in honor of
 
 
 כל מה שאסרו רז״ל בט״ב הוא עד הלילה ואין להקל אחר חצות בשום דבר רק שמקלין לנשים לסדר הבית קצת וזה לקבוע בלבם אמונת הגאולה:
+
+
+Everything that the Sages of blessed memory prohibited on Tisha B'Av remains prohibited until nightfall. One should not be lenient after midday regarding anything, except that women are permitted to arrange the house somewhat, in order to establish in their hearts the faith in the redemption.
 
 
 

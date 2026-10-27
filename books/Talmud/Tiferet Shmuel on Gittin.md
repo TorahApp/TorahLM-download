@@ -1,6 +1,6 @@
 # Tiferet Shmuel on Gittin
 
- תפארת שמואל על גיטין
+תפארת שמואל על גיטין
 
 Link: [https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Gittin](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Gittin)
 

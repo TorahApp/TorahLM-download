@@ -14,7 +14,7 @@ Location: Halakhah/Tur/Commentary
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Tur Yoreh Deah, Vilna, 1923 (Segments: 4129, License: Public Domain)
+Version (He): Tur Orach Chaim, Vilna, 1923 (Segments: 4129, License: Public Domain)
 
 # Drisha — part 3 of 3
 

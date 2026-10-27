@@ -743,7 +743,7 @@ Version (He): On Your Way (Segments: 405, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Ezra/r/3:4:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Ezra/r/3:4:1)
 
 
-**את הג הסוכות.** ר״ל קרבנות החג:
+**את חג הסוכות.** ר״ל קרבנות החג:
 
 
 ###### Metzudat David on Ezra 3:4:2

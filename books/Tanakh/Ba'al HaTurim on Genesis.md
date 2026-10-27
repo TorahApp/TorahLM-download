@@ -14,7 +14,7 @@ Location: Tanakh/Rishonim on Tanakh/Ba'al HaTurim/Torah
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): בעל הטורים (Segments: 12, License: unknown)
+Version (He): Baal Haturim Gen 16:8 (Segments: 12)
 
 Version (En): Sefaria Community Translation (Segments: 8)
 
