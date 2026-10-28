@@ -2374,7 +2374,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20Lamentations/r/3:53:4](https://torahapp.org/share/book/Rashi%20on%20Lamentations/r/3:53:4)
 
 
-**צָמְתוּ בַבּוֹר חַיָּי.** וְאַף עַל פִּי שֶׁתָּמְתוּ בַבּוֹר חַיָּי, שֶׁאֵינִי יָכוֹל לַעֲלוֹת מִתּוֹכוֹ, לֹא שָׁתוּ לִבָּם גַּם לָזֹאת עַד שֶׁיַּדוּ אֶבֶן בִּי:
+**צָמְתוּ בַבּוֹר חַיָּי.** וְאַף עַל פִּי שֶׁצָּמְתוּ בַבּוֹר חַיָּי, שֶׁאֵינִי יָכוֹל לַעֲלוֹת מִתּוֹכוֹ, לֹא שָׁתוּ לִבָּם גַּם לָזֹאת עַד שֶׁיַּדוּ אֶבֶן בִּי:
 
 
 **They bound my life to the dungeon.** And although they confined my life in the dungeon from which I cannot ascend, they did not take this to heart [i.e., they were not satisfied]

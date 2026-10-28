@@ -1,6 +1,6 @@
 # Tiferet Shmuel on Pesachim
 
- תפארת שמואל על פסחים
+תפארת שמואל על פסחים
 
 Link: [https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Pesachim](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Pesachim)
 

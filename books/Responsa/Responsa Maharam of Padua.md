@@ -15,10 +15,18 @@ Location: Responsa/Acharonim
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Krakow, 1882 (Segments: 139, License: Public Domain)
+Version (He): Krakow, 1882 (Segments: 140, License: Public Domain)
 
 
 ## Siman 1
+
+###### Responsa Maharam of Padua 1:1
+
+[https://torahapp.org/share/book/Responsa%20Maharam%20of%20Padua/r/1:1](https://torahapp.org/share/book/Responsa%20Maharam%20of%20Padua/r/1:1)
+
+
+**ארוסה שספק הוא אם קטנה היא איך לנהוג עם הגט והגט היה על יד שליח:**
+
 
 ###### Responsa Maharam of Padua 1:2
 

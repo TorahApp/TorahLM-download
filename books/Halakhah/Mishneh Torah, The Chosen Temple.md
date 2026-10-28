@@ -1708,10 +1708,19 @@ footnotes:
 
 The Women's Courtyard⁴¹ was surrounded by balconies so that women could look on from above and the men from below without intermingling.⁴² 2:5) relates that these balconies were a later addition to the Temple structure.
 On the festival of Sukkot, the entire Jewish nation would gather in this courtyard to watch the *Simchat Beit HaShoevah* celebrations (the festivities associated with the water libation). Though the men and the women were seated in separate sections, the closeness between them aroused a certain dimension of frivolity which was not appropriate to the holiness of the occasion. To avoid such circumstances, these balconies were constructed. See also *Sukkot* 51b.
+Outside the Temple Courtyard,⁴³ and other commentaries explain that half of the Chamber of the Hearth was positioned within the Temple Courtyard, and half on the outside, the diagrams drawn by the Rambam depict it as being positioned entirely outside the Courtyard's walls. on its northern side,⁴⁴ was a large structure between the Courtyard and the *chayl*. It was built with a dome⁴⁵ and [its inner walls] were surrounded with stone protrusions.⁴⁶ 1:1). It was called the Chamber of the Hearth.⁴⁷
+It contained two entrances: one to the Temple Courtyard⁴⁸ and one to the *chayl*.⁴⁹
 
 footnotes:
 ⁴¹ Women were not allowed to enter the Temple Courtyard except to perform certain rituals in connection with sacrifices which they had brought. However, they were permitted to enter this outer courtyard and therefore, it was named accordingly.
 ⁴² The Mishnah (Middot
+⁴³ Although the Kessef Mishneh
+⁴⁴ To the right upon entering the Temple Courtyard.
+⁴⁵ As a roof.
+⁴⁶ On which the priests slept at night (Tamid
+⁴⁷ Because the priests kindled a fire there to keep warm.
+⁴⁸ Each morning, the priests entered the Courtyard through this entrance to prepare it for the morning sacrifices.
+⁴⁹ A priest who became impure at night and therefore, could not participate in the Temple services would leave through this exit.
 
 
 ###### Mishneh Torah, The Chosen Temple 5:10
@@ -1722,8 +1731,6 @@ footnotes:
 וְאַרְבַּע לְשָׁכוֹת הָיוּ בּוֹ. שְׁתַּיִם קֹדֶשׁ וּשְׁתַּיִם חֹל. וְרָאשֵׁי פִּסְפְּסִין מַבְדִּילִין בֵּין הַקֹּדֶשׁ וְהַחל. וּמַה הָיוּ מְשַׁמְּשׁוֹת מַעֲרָבִית דְּרוֹמִית לִשְׁכַּת הַטְּלָאִים. וּדְרוֹמִית מִזְרָחִית לִשְׁכַּת עוֹשֵׂי לֶחֶם הַפָּנִים. מִזְרָחִית צְפוֹנִית בָּהּ גָּנְזוּ בֵּית חַשְׁמוֹנַי אַבְנֵי מִזְבֵּחַ שֶׁשִּׁקְּצוּם מַלְכֵי יָוָן. צְפוֹנִית מַעֲרָבִית בָּהּ יוֹרְדִין לְבֵית הַטְּבִילָה:
 
 
-Outside the Temple Courtyard,⁴³ and other commentaries explain that half of the Chamber of the Hearth was positioned within the Temple Courtyard, and half on the outside, the diagrams drawn by the Rambam depict it as being positioned entirely outside the Courtyard's walls. on its northern side,⁴⁴ was a large structure between the Courtyard and the *chayl*. It was built with a dome⁴⁵ and [its inner walls] were surrounded with stone protrusions.⁴⁶ 1:1). It was called the Chamber of the Hearth.⁴⁷
-It contained two entrances: one to the Temple Courtyard⁴⁸ and one to the *chayl*.⁴⁹
 There were four chambers inside it.⁵⁰ 1:5 describes the chambers as resembling "bedrooms opening out to a large hallway."
 Note the accompanying diagram which was copied from the Rambam's drawings in his Commentary to the Mishnah. Two were consecrated⁵¹ and two were not.⁵² mentioned above, this statement is quite clear. Two chambers were situated inside the Temple Courtyard, and two were on the outside. However, according to the Rambam, the entire structure was situated outside the Temple Courtyard. If so, how could two structures be consecrated?
 This difficulty can be resolved as follows: The Jerusalem Talmud (*Ma'aser Sheni* 3:4) states that chambers which are built on ground that was not consecrated, but which open up to the Temple Courtyard, are considered as consecrated. Should they open up to the outside, they are not sacred. According to the Rambam's diagram, the two southern chambers of the Chamber of the Hearth faced the Temple Courtyard, while the two northern chambers faced the *chayl*. Hence, the southern chambers alone were consecrated. See also Chapter 6, Halachah 8. Marking posts⁵³ separated the consecrated [chambers] from those which were not consecrated.⁵⁴), the Rambam writes that the priests only slept in the part of the chamber which was not consecrated. Hence, these marking posts were useful in clarifying this matter to them.
@@ -1734,13 +1741,6 @@ The southeastern [chamber]⁵⁷ was the Chamber of the Bakers of the Showbread.
 [In] the northwestern chamber, [a stairwell] descended to the *mikveh*.⁶¹
 
 footnotes:
-⁴³ Although the Kessef Mishneh
-⁴⁴ To the right upon entering the Temple Courtyard.
-⁴⁵ As a roof.
-⁴⁶ On which the priests slept at night (Tamid
-⁴⁷ Because the priests kindled a fire there to keep warm.
-⁴⁸ Each morning, the priests entered the Courtyard through this entrance to prepare it for the morning sacrifices.
-⁴⁹ A priest who became impure at night and therefore, could not participate in the Temple services would leave through this exit.
 ⁵⁰ Middot
 ⁵¹ Thus they were considered extensions of the Temple Courtyard. This distinction is significant in regard to the prohibition against eating the sacrifices of the highest degree of sanctity outside the Temple Courtyard.
 ⁵² According to the interpretation of the Kessef Mishneh

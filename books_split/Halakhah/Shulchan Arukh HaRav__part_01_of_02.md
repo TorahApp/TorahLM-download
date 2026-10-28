@@ -14,9 +14,9 @@ Location: Halakhah/Shulchan Arukh HaRav
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Vocalized Edition - Kehot Publication Society (Segments: 7147, License: CC-BY-NC)
+Version (He): Kehot Publication Society (Segments: 7147, License: CC-BY-NC)
 
-Version (En): SECTION 123.1 (Segments: 75)
+Version (En): Sefaria Community Translation (Segments: 75)
 
 # Shulchan Arukh HaRav — part 1 of 2
 
@@ -743,7 +743,9 @@ Aunque sea por un momento, no por una razón necesaria, debe descubrirse un poco
 אַךְ אִם מֵשִׂים יָדוֹ עַל רֹאשׁוֹ לְכַסּוֹתוֹ — דַּי בְּכָךְ לְהֶכֵּר. רַק שֶׁלֹּא יַזְכִּיר שֵׁם שָׁמַיִם, כְּמוֹ שֶׁיִּתְבָּאֵר בְּסִימָן צא:
 
 
-*"Y es una medida de piedad no caminar cuatro codos con la cabeza descubierta, incluso en sus tiempos, cuando la mayoría de la gente estaba acostumbrada a caminar a menudo con la cabeza descubierta debido al calor. Y ahora, en este tiempo en que es costumbre que todos cubran sus cabezas en todo momento, está prohibido caminar o incluso sentarse con la cabeza descubierta, debido al pudor, ya que es similar a revelar la carne cubierta. Incluso los niños pequeños deben cubrirse la cabeza.
+It is a measure of piety not to walk four amot (cubits) bareheaded even in their days, when most people were accustomed to often walk bareheaded because of the heat in those days. And now in this time, when it is everyone's custom to cover their head always — it is forbidden to walk or even to sit bareheaded, because of modesty, for this is like uncovering one's covered flesh. And for minors, too, it is proper to cover their heads. 
+And all the more so in these countries, where the non-Jews are accustomed to uncover their heads, and holy Jews are careful regarding this because of modesty. If so, one who walks or even sits bareheaded like the non-Jew — behold, he transgresses the negative commandment of 'and you shall not walk in their statutes' (Leviticus 18:3).
+However, if he places his hand upon his head to cover it — this is sufficient for a reminder. Only that he should not mention the Name of Heaven [while doing so], as will be explained in Siman 91.
 
 
 ###### Shulchan Arukh HaRav, Orach Chayim, Second Edition 3:1
@@ -11421,7 +11423,7 @@ And they only forbade gazing; but just looking is permissible. However, we follo
 [https://torahapp.org/share/book/Shulchan%20Arukh%20HaRav/s/Orach%20Chayim/r/156:10](https://torahapp.org/share/book/Shulchan%20Arukh%20HaRav/s/Orach%20Chayim/r/156:10)
 
 
-הַמְרַגֵּל בַּחֲבֵרוֹ — עוֹבֵר בְּלֹא תַּעֲשֶׂה, שֶׁנֶּאֱמַר: "לֹא תֵלֵךְ רָכִיל בְּעַמֶּךָ" (קְדֹשִׁים י"ט, ט"ז). אֵיזֶהוּ רָכִיל? זֶה שֶׁטּוֹעֵן דְּבָרִים וְהוֹלֵךְ מִזֶּה לָזֶה וְאוֹמֵר: כָּךְ וְכָךְ אָמַר פְּלוֹנִי, כָּךְ וְכָךְ שָׁמַעְתִּי עַל פְּלוֹנִי, אַף עַל פִּי שֶׁהוּא אֱמֶת וְאֵינָן דְּבָרִים שֶׁל גְּנַאי כְּלָל, וְגַם אוֹתוֹ פְּלוֹנִי לֹא מַכְחִישָׁם כְּלָל — הֲרֵי זֶה מַחֲרִיב אֶת הָעוֹלָם, שֶׁמִּזֶּה יוּכַל לָבוֹא לִפְעָמִים לִידֵי שְׁפִיכַת דָּמִים, כְּמוֹ שֶׁאָמְרוּ בְּמַעֲשֵׂה דּוֹאֵג עִם אֲחִימֶלֶךְ (וּלְשׁוֹן הַכֶּסֶף מִשְׁנֶה כָּךְ הוּא, שֶׁרָכִיל הַיְנוּ: הָאוֹמֵר פְּלוֹנִי וּפְלוֹנִי אָמַר עָלֶיךָ כָּךְ וְכָךְ אוֹ עָשָׂה לְךָ כָּךְ וְכָךְ כו'. וְזֶה לְשׁוֹן הַסמ"ג שָׁם: אֵיזֶהוּ רָכִיל? הַמְגַלֶּה לַחֲבֵרוֹ דְּבָרִים שֶׁדִּבֵּר מִמֶּנּוּ אָדָם בַּסֵּתֶר, וְהֵבִיא רְאָיָה מֵהַמִּשְׁנָה פֶּרֶק ג' דְסַנְהֶדְרִין וְהַגְּמָרָא שָׁם דַּף ל"א, א'. וְכֵן מַשְׁמַע בְּעָרוּךְ סוֹף עֶרֶךְ לָשׁוֹן, וְזֶה לְשׁוֹנוֹ: "לֹא תֵלֵךְ רָכִיל" — תַּרְגּוּם יְרוּשַׁלְמִי "לִישְׁנָא תְּלִיתָאִי". וְעַיֵּן פֶּרֶק ג' [דַּעֲרָכִין] דַּף ט"ו ע"ב בַּגְּמָרָא וּפֵרֵשׁ רַשִׁ"י ד"ה לִישְׁנָא תְּלִיתָאִי, וְהַתּוֹסָפוֹת שָׁם פֵּרְשׁוּ בְּעִנְיָן אַחֵר, וּבְהָרַאֲבַ"ד בְּהִלְכוֹת דֵּעוֹת רֵישׁ פֶּרֶק ז' מַשְׁמָע כְּפֵרוּשׁ רַשִׁ"י. וְכֵן מַשְׁמָע בְּמִדְרָשׁ רַבָּה רֵישׁ פָּרָשַׁת אֱמֹר). 
+הַמְרַגֵּל בַּחֲבֵרוֹ — עוֹבֵר בְּלֹא תַּעֲשֶׂה, שֶׁנֶּאֱמַר: "לֹא תֵלֵךְ רָכִיל בְּעַמֶּךָ" (קְדֹשִׁים י"ט, ט"ז). אֵיזֶהוּ רָכִיל? זֶה שֶׁטּוֹעֵן דְּבָרִים וְהוֹלֵךְ מִזֶּה לָזֶה וְאוֹמֵר: כָּךְ וְכָךְ אָמַר פְּלוֹנִי, כָּךְ וְכָךְ שָׁמַעְתִּי עַל פְּלוֹנִי, אַף עַל פִּי שֶׁהוּא אֱמֶת וְאֵינָן דְּבָרִים שֶׁל גְּנַאי כְּלָל, וְגַם אוֹתוֹ פְּלוֹנִי לֹא מַכְחִישָׁם כְּלָל — הֲרֵי זֶה מַחֲרִיב אֶת הָעוֹלָם, שֶׁמִּזֶּה יוּכַל לָבוֹא לִפְעָמִים לִידֵי שְׁפִיכַת דָּמִים, כְּמוֹ שֶׁאָמְרוּ בְּמַעֲשֵׂה דּוֹאֵג עִם אֲחִימֶלֶךְ (וּלְשׁוֹן הַכֶּסֶף מִשְׁנֶה כָּךְ הוּא, שֶׁרָכִיל הַיְנוּ: הָאוֹמֵר פְּלוֹנִי וּפְלוֹנִי אָמַר עָלֶיךָ כָּךְ וְכָךְ אוֹ עָשָׂה לְךָ כָּךְ וְכָךְ כו'. וְזֶה לְשׁוֹן הַסמ"ג שָׁם: אֵיזֶהוּ רָכִיל? הַמְגַלֶּה לַחֲבֵרוֹ דְּבָרִים שֶׁדִּבֵּר מִמֶּנּוּ אָדָם בַּסֵּתֶר, וְהֵבִיא רְאָיָה מֵהַמִּשְׁנָה פֶּרֶק ג' דְסַנְהֶדְרִין וְהַגְּמָרָא שָׁם דַּף ל"א, א'. וְכֵן מַשְׁמַע בְּעָרוּךְ סוֹף עֶרֶךְ לָשׁוֹן, וְזֶה לְשׁוֹנוֹ: "לֹא תֵלֵךְ רָכִיל" — תַּרְגּוּם יְרוּשַׁלְמִי "לִישְׁנָא תְּלִיתָאִי". וְעַיֵּן פֶּרֶק ג' [דַּעֲרָכִין] דַּף ט"ו ע"ב בַּגְּמָרָא וּפֵרוּשׁ רַשִׁ"י ד"ה לִישְׁנָא תְּלִיתָאִי, וְהַתּוֹסָפוֹת שָׁם פֵּרְשׁוּ בְּעִנְיָן אַחֵר, וּבְהָרַאֲבַ"ד בְּהִלְכוֹת דֵּעוֹת רֵישׁ פֶּרֶק ז' מַשְׁמָע כְּפֵרוּשׁ רַשִׁ"י. וְכֵן מַשְׁמָע בְּמִדְרָשׁ רַבָּה רֵישׁ פָּרָשַׁת אֱמֹר). 
 וְהַמְקַבְּלוֹ נֶעֱנָשׁ יוֹתֵר מִן הָאוֹמְרוֹ, אֶלָּא אִם כֵּן הוּא רוֹאֶה דְּבָרִים הַנִּכָּרִים. 
 וּבִכְלַל לָאו זֶה הוּא לָשׁוֹן הָרָע, וְהוּא הַמְסַפֵּר בִּגְנוּת חֲבֵרוֹ אַף עַל פִּי שֶׁאָמַר אֱמֶת. וַאֲפִלּוּ אָמַר: הֵיכָן מָצוּי אוּר תָּדִיר אִם לֹא בְּבֵית פְּלוֹנִי שֶׁמָּצוּי אֶצְלוֹ בָּשָׂר וְדָגִים — הֲרֵי זֶה לָשׁוֹן הָרָע אִם הוֹצִיאוֹ בְּדֶרֶךְ לָשׁוֹן הָרָע, שֶׁנִּתְכַּוֵּן לְגְנוּת שֶׁהוּא בְּזוֹלְלֵי בָּשָׂר לָמוֹ. 
 אֲבָל הָאוֹמֵר שֶׁקֶר עַל חֲבֵרוֹ — נִקְרָא מוֹצִיא שֵׁם רַע. וְעַיֵּן פֶּרֶק ד' דִּכְתֻבּוֹת דַּף מ"ו ע"א:
@@ -21541,7 +21543,7 @@ And they only forbade gazing; but just looking is permissible. However, we follo
 [https://torahapp.org/share/book/Shulchan%20Arukh%20HaRav/s/Orach%20Chayim/r/298:2](https://torahapp.org/share/book/Shulchan%20Arukh%20HaRav/s/Orach%20Chayim/r/298:2)
 
 
-בַּמֶּה דְּבָרִים אֲמוּרִים? שֶׁאֵינוֹ צָרִיךְ לְחַזֵּר אַחֲרָיו בְּמוֹצָאֵי שַׁבָּתוֹת, אֲבָל בְּמוֹצָאֵי יוֹם הַכִּפּוּרִים אֲפִלּוּ כְּשֶׁחָל בְּחֹל — יֵשׁ אוֹמְרִים שֶׁצָּרִיךְ לְחַזֵּר אַחַר בִּרְכַּת הָאוּר, לְפִי שֶׁהִיא כְּבִרְכַּת הַבְדָּלָה, שֶׁמְּבָרֵךְ לְהַקָּדוֹשׁ בָּרוּךְ הוּא שֶׁהִבְדִּיל לָנוּ זֶה הַיּוֹם מִשְּׁאָר יוֹם טוֹב שֶׁנֶּאֱסַר בּוֹ לְהַבְעִיר אוּר עַד עַתָּה בַּלַּיְלָה:
+בַּמֶּה דְּבָרִים אֲמוּרִים שֶׁאֵינוֹ צָרִיךְ לְחַזֵּר אַחֲרָיו? בְּמוֹצָאֵי שַׁבָּתוֹת, אֲבָל בְּמוֹצָאֵי יוֹם הַכִּפּוּרִים אֲפִלּוּ כְּשֶׁחָל בְּחֹל — יֵשׁ אוֹמְרִים שֶׁצָּרִיךְ לְחַזֵּר אַחַר בִּרְכַּת הָאוּר, לְפִי שֶׁהִיא כְּבִרְכַּת הַבְדָּלָה, שֶׁמְּבָרֵךְ לְהַקָּדוֹשׁ בָּרוּךְ הוּא שֶׁהִבְדִּיל לָנוּ זֶה הַיּוֹם מִשְּׁאָר יוֹם טוֹב שֶׁנֶּאֱסַר בּוֹ לְהַבְעִיר אוּר עַד עַתָּה בַּלַּיְלָה:
 
 
 ###### Shulchan Arukh HaRav, Orach Chayim 298:3

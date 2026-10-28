@@ -1247,7 +1247,7 @@ footnotes:
 [https://torahapp.org/share/book/Mishneh%20Torah%2C%20Sacrifices%20Rendered%20Unfit/r/3:15](https://torahapp.org/share/book/Mishneh%20Torah%2C%20Sacrifices%20Rendered%20Unfit/r/3:15)
 
 
-עוֹף שֶׁמְּלָקוֹ זָר וְעָלָה לֹא יֵרֵד. וְקֹמֶץ הַמִּנְחָה שֶׁקְּמָצוֹ וְעָלָה יֵרֵד. אַף עַל פִּי שֶׁזֶּה פָּסוּל וְזֶה פָּסוּל זֶה כְּאִלּוּ לֹא נִתְקַדֵּשׁ כְּלָל. וְאֶחָד הַזָּר וְאֶחָד שְׁאָר הַפְּסוּלִים:
+עוֹף שֶׁמְּלָקוֹ זָר וְעָלָה לֹא יֵרֵד. וְקֹמֶץ הַמִּנְחָה שֶׁקְּמָצוֹ זָר וְעָלָה יֵרֵד. אַף עַל פִּי שֶׁזֶּה פָּסוּל וְזֶה פָּסוּל זֶה כְּאִלּוּ לֹא נִתְקַדֵּשׁ כְּלָל. וְאֶחָד הַזָּר וְאֶחָד שְׁאָר הַפְּסוּלִים:
 
 
 When *melikah* was performed on a fowl by a non-priest and then it was brought to the top of the altar, it should not be taken down.³⁴ 1:1), it was possible for a non-priest to perform *melikah* on a fowl that was offered as a sacrifice. Hence, even after the Temple was built, when a non-priest performs *melikah* on a fowl, that act is significant enough to endow with holiness to the extent that if the fowl is brought to the top of the altar, it should be offered on the pyre (*Zevachim* 69a). If, [by contrast,] a handful of meal was taken by a non-priest and brought to the top of the altar, it should be brought down. Even though both of these acts disqualify [the offerings], [the handful from the meal-offering] is considered as if it was never consecrated at all.³⁵ 13:12) and then offered on the altar and such service was not performed by a non-priest on an individual altar (*Zevachim, loc. cit.*). [These laws apply to] a non-priest as well as to anyone else who is disqualified [from performing sacrificial service].³⁶ mourning (see *Hilchot Issurei Bi'ah*).

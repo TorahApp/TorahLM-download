@@ -16,6 +16,8 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Ohr Hachama, Peremyshl, 1896-1898 (Segments: 19757, License: Public Domain)
 
+Version (En): Sefaria Community Translation (Segments: 38)
+
 
 ## Author's Introduction
 
@@ -151995,12 +151997,18 @@ footnotes:
 **חפצי בה אתתא דנתן וכו'** ענין זה איני מבין כי הן אמת נתן בן (הוד) [בכ"י דוד] הוי אמנם המלכות הוא לשלמה לא לנתן וחפצי (בה דחזקיה) [בכ"י בה אתתא דחזקי'] הוה ומנחם בן עמיאל הוי ולא בן נתן ודוחק גדול שנאמר כי המשיח הוא מדוד ולא משלמה ולפי' הוי מנתן אחיו של שלמה ואמו היתה נק' חפצי בה ומזרע נתן וחפצי בה הוי עמיאל ובנו מנחם הוא המשיח ונולד בחורבן בית המקדש בית שני כדאיתא בירושלמי ובאיכה רבתי [בכ"י ובמדרש]. הר גבוה הוא היסוד ונק' הר העברים שדרך בו מעבר כל שפע הספי' ושם הוא העלם וקבורת משה שהוא סוד הת"ת בסוד הדעת ושם עליית המלכות ובגשמי ממש הר העברים קדוש יותר מקדושת ארץ ישראל שהרי אין שם שר שולט עליו אלא משרע"ה שמעלתו מן היובל העליון ולא היה יכול ליקבר בארץ מפני שהוא מיובלא ולא משמטה כדפי' בזוהר פ' בראשית ונקבר בהר העברים שהוא מזרחה של א"י ודאי מקום שממנו זורח אור למלכות ושם הוא שליטת משרע"ה לא שום שר ולזה בני ראובן ובני גד שהם לדרום נתעלו ורצו ליקח חלקם בארץ ההוא. ואמרו עטרות ודיבון וכו' ומתרגמינן וקבורתא דמשה. ועוד אמרו הארץ אשר הכה ה' מפני שא"י הכה יהושע פני לבנה וארץ מזרח הכה משרע"ה פני חמה ומלחמות מרע"ה היה ממדתו העליונה למעלה ושם היה עיקר כבישת א"י לכך נאמר למכה מלכים גדולים וכו' ויהרוג מלכים אדירים וכו' לסיחון וכו' ולעוג וכו' ונתן ארצם לנחלה וכו' ואלו ע"י משרע"ה כיבוש וחלקום אמנם נחלה לישראל עבדו שאר א"י ע"י יהושע והיא בה' אחרונה בה' פסוקים אחרונים שבזמר שהלויים באות ה' שבמלכות ולכך שכינתא תסתלק לתמן ששם סוד א"י ואחר שא"י מקום שכינתו מסור בידי גוים תסתלק לפתח שער הכניסה לכבישת הארץ. והנה בערך בשורת העולם השכינה משם היא מבשרת גאולה לעולם אמנם מפני שהמציאות יעשה בגשמיים יצטרך נשמה א' מהנשמות תהיה מבשרת והיינו חפצי בה וז"ש ואיהי בכללא דמבשרת והנה מנין חפצי בה הוא סוד אומרו לא יאמר לך עוד עזובה וגו' כי לך יקרא חפצי בה ולארצך בעולה. הנה הבינה היא מבשרת והחכמ' אומרת עליה חפצי בה דהיינו החפץ העליון והיא מבשרת אימא דמשיחא כי סוד המשיח הוא סוד וא"ו כדפי' וגם הוא"ו ה' עליונה ודאי דהיינו אתתא דחזקיה ודאי חז"ק י"ה והכל במלכות לכך הם סוד המלכים. והנה אחר ששלמה היה ראוי להיות משיח ונדחה מפני המציאות שקלקל בזהב בנשים בסוסים דהיינו ג' בחי' הזהב בינ' הנשים גבור' תתא' בסוסים גבורות המתפשטות ובשלשתם צוה שלא ירב' שלא יטה אחר החיצונים ששם משך הגבורות והדינים והוא הרב' וטעה אבל אחיו הקרוב אליו שהוא נתן שני לשלמה יתקן זה ולכך (ראו) [נ' שצ"ל אנו וכ"ה בכ"י] אומרים משיח בן דוד שאין אנו יכולים לייחסו לשלמה אלא לדוד ונתן נסתם ונעלם שאין הבשורה אלא מחפצי בה ונתן הוא סוד וה' נתן חכמה שהיא נעלמה ולא הולידוהו באותו העת מפני שאינו זמנו אלא באו בסוד עמ"י א"ל דהיינו החכמ' שעמה אל עליון דהיינו הכתר והוליד בחפצי בה בינ' מנחם ת"ת והכל בסוד נשמ' פועלת בתחתונים והיא הנותנת קול מבשר דהיינו ת"ת ולכך הבשורה הראשונ' ה' אלהים ברזק יבא דהיינו סוד שתי גבורות עליונ' ותחתונ' שני ההי"ן בחזק גבור' יבא וזרועו חסד משלה לו שכרו אתו וכו' הם ב' מיני שכר הא' נק' שכרו שהוא שכר הנשמה בג"ע העליון הב' פעולתו שהוא שכר הרוח והנפש בג"ע של מטה וממדור הנפשות ובעולם התחתון ולזה אמר שכרו אתו ממש שהוא בג"ע העליון אתו תחת כסא הכבוד אבל פעולתו שהוא שכר הנפש והרוח לפניו דהיינו בתחתונים למטה דהיינו משתי ההי"ן ה' עילא' ג"ע עילא' ה' תתא' ג"ע תתא':
 
 
+"Hefzibah, the wife of Nathan, etc." I do not understand this matter. For although it is true that Nathan, son of [Hod] [the manuscript reads "David"], existed, nevertheless the kingship belongs to Solomon, not to Nathan. And Hefzibah was [the wife of Hezekiah] [the manuscript reads "the wife of Hezekiah"], while Menahem son of Amiel existed, and was not the son of Nathan. It is a great difficulty to say that the Messiah is from David and not from Solomon, and therefore [it is said that he is] from Nathan, Solomon's brother. His mother was called Hefzibah, and she was descended from Nathan; and Hefzibah was [the mother of] Amiel, and her son Menahem is the Messiah. He was born at the destruction of the Second Temple, as stated in the Jerusalem Talmud and in Eikhah Rabbati [the manuscript reads "and in the Midrash"]. The high mountain is the Foundation [Yesod], and it is called the Mountain of the Abarim, through which passes the flow of all the abundance of the sefirot. There is the concealment and burial of Moses, which is the secret of Tiferet, in the secret of Da'at; and there is the ascent of Malkhut. In the physical sense, literally, the Mountain of the Abarim is holier than the holiness of the Land of Israel, for no [celestial] prince rules over it except Moses our Teacher, whose level derives from the supernal Jubilee [Yovel]. He could not be buried in the Land [of Israel], because he belongs to the Jubilee and not to the Sabbatical year [Shemittah], as explained in the Zohar, Parashat Bereshit. He was buried on the Mountain of the Abarim, which is certainly east of the Land of Israel, a place from which light shines upon Malkhut. There lies the dominion of Moses our Teacher, and not that of any other prince. For this reason, the sons of Reuben and the sons of Gad, who were to the south, were elevated and wished to take their portion in that land. And they said, "Ataroth and Dibon, etc.," and we translate [this into Aramaic]: "and the burial place of Moses." They also said, "The land which the Lord struck," because in the Land of Israel Joshua struck the face of the Moon, whereas in the eastern land Moses our Teacher struck the face of the Sun. The wars of Moses our Teacher proceeded from his higher level above, and there was the principal conquest of the Land of Israel. Therefore it says, "To Him who struck great kings," etc.; "and slew mighty kings," etc.; "Sihon," etc.; "and Og," etc.; "and gave their land as an inheritance," etc. These were conquered and apportioned through Moses our Teacher. However, the inheritance given to Israel - the rest of the Land of Israel - was accomplished through Joshua. This corresponds to the final He, in the five final verses of the song, which the Levites [recite], corresponding to the letter He of Malkhut. Therefore the Shekhinah withdraws there, for there is the secret of the Land of Israel. And after the place of His dwelling in the Land of Israel is delivered into the hands of the nations, [the Shekhinah] withdraws to the opening of the gateway of entry for the conquest of the land. Now, with regard to the proclamation of the redemption of the world, the Shekhinah from there announces redemption to the world. However, because the actual manifestation will take place in the physical world, one soul among the souls will be needed to announce it; and this is Hefzibah. This is what is meant by: "And she is included in the announcer." The numerical value of Hefzibah contains the secret of the verse: "You shall no longer be called Forsaken, etc., but you shall be called Hefzibah [My Delight Is in Her], and your land Beulah [Married]." Behold, Binah is the announcer, and Hokhmah calls her "Hefzibah," that is, the supernal desire/delight. And she announces the mother of the Messiah, for the secret of the Messiah is the secret of Vav, as has been explained. And the Vav is certainly also the supernal He, namely, the "woman of Hezekiah," certainly - Hizki-Yah [Hezekiah], "the strength of Yah." And everything is in Malkhut; therefore they are the secret of the kings. Now, after Solomon was destined to be the Messiah but was rejected because of the reality that he corrupted through gold, women, and horses - that is, three aspects: the gold corresponds to Binah; the women to the lower Gevurot; and the horses to the Gevurot that spread outward - in all three cases he was commanded not to multiply them, so that he would not turn after the external forces, where the Gevurot and judgments are drawn out. But he multiplied them and erred. His brother, who was close to him, namely Nathan, the second after Solomon, would rectify this. Therefore we say "Messiah, son of David," since we cannot attribute him to Solomon. Nathan remains closed and concealed, for the proclamation comes only from Hefzibah. Nathan is the secret of the verse, "And the Lord gave wisdom," which is hidden. And he did not produce him at that time because it was not yet his proper time. Rather, they came through the secret of Ammi-El, that is, the Wisdom [Hokhmah] that is with El, the Most High, namely Keter, and [Ammi-El] begot, through Hefzibah, who is Binah, Menahem, who is Tiferet. All of this is in the secret of a soul acting in the lower worlds; and she is the one who gives the voice of the herald, namely Tiferet. Therefore the first proclamation is: "Behold, the Lord God will come with strength," which is the secret of the two Gevurot, the upper and the lower - the two He's in beḥazak ("with strength"). "He will come," and "His arm shall rule for Him" - the arm is Hesed. "His reward is with Him," etc. There are two kinds of reward. The first is called His reward, which is the reward of the soul in the upper Garden of Eden. The second is His work, which is the reward of the spirit and the soul in the lower Garden of Eden, in the dwelling-place of souls and in the lower world. Therefore it says, "His reward is with Him" literally, for it is with Him in the upper Garden of Eden, beneath the Throne of Glory. But "His work is before Him" refers to the reward of the soul and spirit before Him, that is, in the lower realms, below. This corresponds to the two He's: the upper He, which is the upper Garden of Eden; and the lower He, which is the lower Garden of Eden.
+
+
 ###### Ohr HaChammah on Zohar 3:173b:2
 
 [https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:2](https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:2)
 
 
 **במה דאיהו מחי ביה יהיב אסוותא.** הענין כי סוד ג"ע וגיהנם הכל הוא מסוד הגבור' העליונ' שהוא כסא הכבוד עיקרא הוא אש השורף מצד הגבור' החזק' ומשם מתפשט סוד נהר דינור הנמשך עד גיהנם ומלהיבו ושם סוד התפשטו' החיצונים ושם סוד מנוחתם של צדיקים מצד בחי' הגבורות הם הדינים ומצד נועם ה' מהבינ' בה מנוחת הצדיקים ונועם ענוגם ולזה מז' ולמט' מחי ובשלש ראשונות מסי והכל בסוד הצפון והגבורות בסוד הכסא שנאמר בו והוכן בחסד כסא (הכוחו) [אולי צ"ל הכנתו וכ"ה בכ"י] הוא בחסד אמנם מציאותו הוא בגבור' ואימא עילא' מקננא בי' ופועלת בה גבורות וצופים שכר הצדיקים כנודע לכך אמר בך יהבית כל טיבו וכל יקר וכו' ודקדק שאמר בך יהבית דהיינו שעיקרם מחסד ולמעל' אמנם נמסרו בגבורות ונתלבש שכר טוב הצפון והימין תוך הגבורות האלו כי לעולם הצדיקים אינם (מתערבים) [בכ"י מתעדנים] אלא מהימין אלא מפקד פקיד בשמאל והיינו מה רב טובך אשר צפנת הלבשת (אות ובצפון) [בכ"י אותו בצפון] דאברהם הוה בזבינו דילהון כדפי' בזוהר פ' האזינו כי מכר אברהם בניו לגלות ושעבוד מלכיות במקום גיהנם וצורם כמו הביטו אל צור חוצבתם:
+
+
+With what He strikes, He gives healing." The matter is that the secret of the Garden of Eden and of Gehinnom is entirely derived from the secret of the supernal Gevurot, which is the Throne of Glory. Its essential nature is a consuming fire, from the side of the powerful Gevurah, and from there extends the secret of the River of Fire [Nehar Dinur], which flows as far as Gehinnom and sets it ablaze. There is also the secret of the extension of the external forces, and there is the secret of the resting place of the righteous. On the side of the Gevurot, these are the judgments; and from the side of the pleasantness of the Lord, which comes from Binah, there is the rest of the righteous and the sweetness of their delight. Therefore, from the seventh [sefirah] downward He strikes, while in the first three He heals. And everything is in the secret of that which is hidden, while the Gevurot are in the secret of the Throne, concerning which it is said, "And the throne shall be established through loving-kindness." Its preparation [perhaps "its establishment," as in the manuscript] is through Hesed, but its actual existence is in Gevurah. And the Supernal Mother [Binah] dwells within it and operates through the Gevurot, and contemplates the reward of the righteous, as is known. Therefore He said, "In You I have placed all goodness and all preciousness," etc. And he was precise in saying "In You I have placed," meaning that their principal source is from Hesed and above, but they were entrusted to the Gevurot, and the good reward that is hidden, as well as the right side, were clothed within these Gevurot. For the righteous are never sustained except from the right side; it is only deposited on the left. This is the meaning of, "How abundant is Your goodness, which You have hidden" [or, according to the manuscript, "which You have clothed and hidden"] in the north. For Abraham was the one who sold them [their reward], as explained in the Zohar, Parashat Ha'azinu, because Abraham sold his sons into exile and the servitude of the kingdoms in place of Gehinnom, and their Rock, as in the verse, "Look to the Rock from which you were hewn.
 
 
 ###### Ohr HaChammah on Zohar 3:173b:3
@@ -152014,12 +152022,18 @@ footnotes:
 ¹ וכבר נדפס זה עד פ' בלק בס' אור החמה דפוס ירושלים שמות ושמה נחסר הרבה מכאן ע"כ הדפסנו שנית]
 
 
+"All of it is what you said to the face." This is so that the accuser may have no opening to prosecute against them and prevent them from receiving their full reward. In other words: "They still have another sin; strike them further, but do not withhold the Garden of Eden and the time of redemption from them because of it." The explanation of the matter is as follows. Binah is the secret of the one who rides upon the Chariot, with the right and left before Him. The souls are essentially from the right, which is why they are called "the daughter of a priest," as explained in the Saba. The body, however, is essentially from the left, namely matter, the evil inclination, and desire. Now Abraham, who is the side of Hesed, wished to have mercy upon both the soul and the body, but the two were impossible [to preserve together]. Therefore he sold them to Israel for exile. The matter is that Gehinnom is a spiritual judgment upon the soul, and this same thing is physical exile for the body and soul together. Therefore, when Abraham saw, from the perspective of his own attribute, the attribute of Hesed, that the evil inclination rules in the world, and that it was impossible to have mercy upon the soul and body without any judgment at all, because [otherwise] Israel and the souls would become immersed in the body and in the pollution of its deeds, and the souls would be lost in defilement, he chose that Israel should be delivered into exile, which is physical Gehinnom, so that the soul might remain at rest in the Garden of Eden, drawing nourishment from the right side. In this way he at least saved the portion belonging to the soul. Therefore he sold Israel into exile, which is a physical judgment, and saved them from the spiritual judgment, which [according to the manuscript] "does not cease." And when Israel prolonged their exile and suffered according to the measure of their wickedness, in due number, Binah remained in judgment over them, while Hesed, in the extension of its attribute, sought to deliver Israel into exile so that the attribute of Judgment would have no opening through which to prevent any goodness at the time of redemption. Therefore it says, "Let them be struck for their sins even more, until the attribute of Judgment is appeased." But this is only outwardly so, for Hesed wishes to have mercy upon the body and the soul. It merely seeks to appease the attribute of Judgment until it is satisfied with them. Thus it says that they should be delivered further into the exile of physical Gehinnom. Then Binah, the mistress of redemption, who determines between the two attributes, says, "To the north: Give!" They have given enough for Israel, for they have suffered the burden of exile and have stood in the depths of the kelippot. "Give from the goodness hidden within you." And to the south, "Do not withhold!" The impurity of the bodies has already been consumed, and they are worthy of all the hidden goodness; there is no longer any fear from the side of Judgment. And furthermore, "Announce," etc. Now, this announcer is from the side of Binah, and she reveals what Binah [judges] [the manuscript suggests that the correct reading should be "judges"]. She judges between the supernal attributes. After the first weighing, she announces this matter; then, with the second voice, she announces from Binah downward, that is, in the physical realm, to the patriarchs, and after the patriarchs to Malkhut, which is Jerusalem in the physical realm, as explained. When she comes to Jerusalem, the announcer comes, and the Shekhinah comes with her: one is physical [the manuscript suggests "this one is physical"] and the other spiritual, as explained. And with the third voice she announces concerning Tiferet, which extends to Malkhut, namely: "Cry out and sing, O inhabitant of Zion." The Shekhinah, lamenting in Zion, says, "For great..." and indicates that He has come to unite with her. He is sent from Binah to Malkhut. This is "Great in your midst," in the sense of "Great is the Lord and greatly praised in the city of our God, the Holy One of Israel," which proceeds from Binah through the power of Hokhmah, from which He is called "Holy." This concludes what I wrote in Parashat Shelach Lecha, which ends on folio 174a. Following this, connect to it what is written in Parashat Ki Tisa, folio 188, concerning what Rabbi Yose and Rabbi Hiyya said: "They were walking, etc." Here this passage skips that section and begins only with "While they were sitting, the day became bright, etc." [This passage had already been printed through Parashat Balak in the book Or Ha-Hamah, Jerusalem edition, Shemot, where much is missing from this point; therefore we have printed it again.]
+
+
 ###### Ohr HaChammah on Zohar 3:173b:4
 
 [https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:4](https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:4)
 
 
 **אתוון קדישין וכו'** היינו שם מ"ב והכי מפרש לקמן. והטעם ששם זה הוא פועל בגבורה לפתוח חלונות הרקיע והענין ששם מ"ב הוא שם ל"ב נתיבות וי' מאמרות שבו כל מעשה בראשית כנודע לכך בו נקבעות חלוני רקיע כמתחלת מעשהו. והטעם שבשביל מהלך השמש שהוא סוד הדעת היוצא מחכמה נסתם אחר פעולתיו להיות הבינה נעלמת ורקיע מגין וסותם בעד השמש שבתוכה ולכך פותח בכל יום שערי מזרח דהיינו חכמה מוחא דמתמן אור נפיק לעלמא וביקע חלוני רקיע דהיינו קרומא דחפי על מוחא וסתים מוחא ולהיות סתים צריך שיסתמו אותם החלונות מיד ופתיחתם בבקיעה בכח שם זה שהוא ל"ב נתיבות כדפי' וכן ברקיע תחתון שביל מהלכו נסתם עד שהוא חוזר ונבקע והיינו ובוקע חלוני מה שהוא חלוני נבקע וטעם זה להעלים מה שהוא מן הרקיע ולמעל'. כדפי' בנסתר ושם זה בגבורה לכך איהו פקיד על (דהכא) [אולי דהבא וכ"ה בכ"י] מצפון זהב וכו':
+
+
+"The holy letters, etc." This refers to the Name of Forty-Two [Shem Mem-Bet], as will be explained below. The reason this Name operates through Gevurah to open the windows of the firmament is as follows: the Name of Forty-Two is the Name of the Thirty-Two Paths, and the Ten Utterances through which the entire work of Creation came into being, as is known. Therefore, the windows of the firmament are established through it, corresponding to the beginning of the work of Creation. The reason is that, because of the course of the sun, which is the secret of Da'at emerging from Hokhmah, it becomes closed after its operations, because Binah is concealed, and the firmament protects and seals off the sun within it. Therefore, every day it opens the gates of the east, namely Hokhmah, the brain, from which light emerges into the world, and it pierces through the windows of the firmament, namely the membrane that covers the brain and seals it. Because it is sealed, those windows must immediately be closed again. Their opening occurs through piercing, by the power of this Name, which is the Thirty-Two Paths, as explained. Likewise, in the lower firmament, the path of its course becomes closed until it returns and is pierced open. This is the meaning of "and pierces the windows": that which is called "windows" is pierced open. The purpose of this is to conceal what belongs to the firmament and above, as explained in the hidden [aspect]. And this Name is associated with Gevurah; therefore, it is entrusted with [the matter of] "from the north, gold," etc.
 
 
 ###### Ohr HaChammah on Zohar 3:173b:5
@@ -152030,12 +152044,18 @@ footnotes:
 **א"ר יוסי עד כמה יהון פלחנין סגיאין וכו'** אלו בני עלמא הוו פלחין לשקרא עץ ואבן הא הכי שהי' מבטלה. אמנם פלחין לנהרא וכיוצא שהם שמשי מקום וכו' יאבד עולמו מפני השוטים.
 
 
+"Rabbi Yose said: How long will they continue to worship so excessively, etc." These are the people of the world who used to worship falsehood, wood, and stone. This is certainly enough; He should abolish it. But they worship the river and similar things, which are servants of the place, etc. Would He destroy His world because of fools?
+
+
 ###### Ohr HaChammah on Zohar 3:173b:6
 
 [https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:6](https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:6)
 
 
 **ארגיעא** לשון מרגוע ונחת דהיינו בגאול' למען שמי בלשון יחיד על כללות האומה דהיינו עשו בנה הגדול ובאותו השם יכבד ה' דכתיב גדול ה' נמצא שהוא שם המורה על הכבוד כיון שהקב"ה מתכבד בו והם יבושו רוח הקדש וכו' כוונתם לישראל כיון שאתם קיימים כמעט הכבוד נראה לכם הרבה ומי יתן ונרא בשמחתכם ובטובתכם שאתם מחכים שתראו שהוא דבר מועט ותבושו שהייתם אומרים שיהי' כך וכך ורוח הקדש תלה (הקלקלה) [בכ"י הקללה] באומרים ואמר כי ב"ה הם יבושו השונאים:
+
+
+"Argi'a" is an expression of rest and tranquility, meaning that, at the time of the redemption, "for the sake of My Name" is expressed in the singular, referring to the nation as a whole, namely Esau, His elder son. And by that Name the Lord will be honored, as it is written, "Great is the Lord." Thus, it is a Name that signifies honor, since the Holy One, blessed be He, is honored through it. "And they shall be ashamed" - the Holy Spirit, etc. Their intention is toward Israel: since you continue to exist, almost the entire honor appears to you, and would that we might see your joy and your prosperity, for you are waiting to see that it is only a small thing. And you will be ashamed that you had said that it would be such and such. And the Holy Spirit placed the [calamity] [the manuscript reads "curse"] upon those who say this, and said that, blessed be He, the enemies will be ashamed.
 
 
 ###### Ohr HaChammah on Zohar 3:173b:7
@@ -152046,12 +152066,18 @@ footnotes:
 **דהא גלותא אתמשך** עתיד להמשך הרב' וכך הי' להם הקבל' וז"ש והכי (רומז) [בכ"י חמו] תקיפי עלמא כדדרשו רז"ל ראה יעקב שרו של עשו עולה ואינו יורד. מה נעבד דיסבלון וכו' כלומר מה תקנה נעשה כדי שיוכלו ישראל לסבול אורך הגלות ולא יתיאשו מן הרחמים ולא יתערבו בין האומות **דעאלן לבתי כנסיות** וכו' ומכאן ואילך נדרוש להם כל אותם הנחמות כדי שבזה יתחזק לבם. נגלין השתא וכו' כלומר נתקן שיעשו תשוב' ונקרב הגאול' בגין דכתיב וכו' ולדעת ר' יוסי אין תשוב' מועלת לענין זה עד שיקבלו עונשם וירצו עונם דהיינו בבא כל העונשים הכתובים. באחרית הימים אין הכוונה כדקס"ד ממש באחרית הזמן אלא בחברת המלכות שהיא נקראת אחרית הימים שהיא אחרית וסוף לימים העליונים ומפני שהיא אחרית הכל וממנה ולמט' עולם הנפרדים ובה אחוזות כל הנשמות לכך הקב"ה שולח אותה עמנו בגלות שע"י יש לנו (תקוה) [בכ"י תקומה] אל הגאולה כדמפרש ואזיל והיא אם הנשמות ודאי:
 
 
+.."For the exile has indeed been prolonged." It is destined to continue for a long time, and this was their received tradition. This is what is meant by, "And thus [the manuscript reads 'see'] the mighty ones of the world," as our Sages expounded: Jacob saw the guardian angel of Esau ascending and not descending. What shall we do so that they may endure, etc.? In other words, what remedy can we establish so that Israel will be able to endure the length of the exile, will not despair of mercy, and will not become assimilated among the nations? "Who enter the synagogues," etc. From this point onward, we shall expound for them all those consolations, so that through them their hearts will be strengthened. "They are revealed now," etc. That is, let us arrange that they repent, and thereby bring the redemption closer, because it is written, etc. According to Rabbi Yose, however, repentance is not effective in this matter until they receive their punishment and atone for their sin, that is, until all the punishments that are written [in Scripture] have come upon them. "At the end of days" does not mean, as one might initially suppose, literally at the end of time. Rather, it refers to the attribute of Malkhut, which is called "the end of days," because it is the end and conclusion of the higher days. Since it is the end of everything, and from it downward is the world of the separated beings, and since all souls are attached to it, the Holy One, blessed be He, sends her with us into exile, for through her we have [the manuscript reads "resurrection"] hope of redemption, as will be explained. And she is certainly the Mother of the souls.
+
+
 ###### Ohr HaChammah on Zohar 3:173b:8
 
 [https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:8](https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:8)
 
 
 **יהיב ליה לאמיה** שהנהגתן של ישראל ע"י השכינ' כדכתיב וזאת התור' וזאת אשר דבר אביהם זאת עשו והיא ירושתן של ישראל כדכתיב מורשה קהלת יעקב וכל מצותינו תיקונה כדפי' בזוהר ובתיקונים בכמה דוכתי:
+
+
+..."He gives it to his mother." For the guidance and governance of Israel is through the Shekhinah, as it is written, "And this is the Torah," and "This is what their father spoke to them: This is what you shall do." And she is the inheritance of Israel, as it is written, "An inheritance of the congregation of Jacob." And all our commandments are her rectification, as explained in the Zohar and in the Tikkunim in many places.
 
 
 ###### Ohr HaChammah on Zohar 3:173b:9
@@ -152062,12 +152088,18 @@ footnotes:
 **חב לגבי אבוה** כגון בעגל ומרגלים וכיוצא.
 
 
+"He sinned against his father." For example, in the matter of the Golden Calf and the spies, and similar instances.
+
+
 ###### Ohr HaChammah on Zohar 3:173b:10
 
 [https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:10](https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:10)
 
 
 **אפקיה אבוה מביתיה.** גלות בבל. אתחבר בזונות. הושיבו נשים נכריות.
+
+
+..."His father cast him out of his house." This refers to the Babylonian exile. "He associated with prostitutes" means that he took foreign women as wives.
 
 
 ###### Ohr HaChammah on Zohar 3:173b:11
@@ -152078,12 +152110,18 @@ footnotes:
 **יומא חד עאל מלכא לגביה.** במלאת שבעים שנה. דהא בר נש וכו' והיא לא גלתה עמהם גלות ממש כי עם היות שירדה שכינה לבבל כדדרשו רז"ל. וכדכתיב ואני על נהר כבר וכו' עכ"ז לא הית' ממש גולה אלא הית' עמהם לשמרם אבל הית' היא בת חורין ויחוד קצת נמצא והיינו דקאמר לעיל עאל מלכא לגבה שהוא היחוד וירדה לשמרם אמנם בגלות זה המר שכינה ממש מגורשת מהיכלא והיא גולה עמנו בגלות ואין לה יחוד כלל כדפי' בתיקונים ובזוהר.
 
 
+"One day the king came to her." This refers to the completion of the seventy years. "For a man, etc." And she did not go into actual exile with them, although the Sages taught that the Shekhinah descended to Babylon, as it is written, "And I came to the river Chebar," etc. Nevertheless, she was not actually in exile, but was with them to watch over them; she herself remained free, and there was some degree of union. This is the meaning of what was said above, "The king came to her," which refers to the union, and she descended to watch over them. But in this bitter exile, the Shekhinah is truly banished from the palace, and she goes into exile with us, with no union at all, as explained in the Tikkunim and in the Zohar.
+
+
 ###### Ohr HaChammah on Zohar 3:173b:12
 
 [https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:12](https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:12)
 
 
 **ואנת ערבא לייסרו** שלא יחטא ואם יחטא (חלקו) [נ' שצ"ל תלקו וכ"ה בכ"י] שניכם ותלכו בגלות. לא אצטריך לאהדרא וכו' להיות גאולתו בפרהסיא בגאולת מצרים בעמוד ענן יומם ועמוד אש לילה מפני הפגם והעון שגרמו כשהושיבו נשים נכריות מה שלא עשו בגלות מצרים דכתיב שבטי י"ה עדות לישראל כדפירשו רז"ל לכך לא הי' בגאולתם נסים ונפלאות ושכינ' בפרהסיא:
+
+
+"And you are responsible for disciplining him." This means that you must ensure that he does not sin; and if he sins, [the manuscript suggests the reading "you shall both be punished"], both of you will be punished and will go into exile. "I do not need to return, etc." This is because his redemption would be openly manifested, as in the redemption from Egypt, with a pillar of cloud by day and a pillar of fire by night. But because of the blemish and sin they caused by taking foreign women as wives - something they did not do during the Egyptian exile, as it is written, "The tribes of Yah are a testimony to Israel," as our Sages explained - therefore their redemption was not accompanied by open miracles and wonders, nor was the Shekhinah openly manifest.
 
 
 ###### Ohr HaChammah on Zohar 3:173b:13
@@ -152094,12 +152132,18 @@ footnotes:
 **ברי תיב כדקא חזי.** שתהי' שכינ' בגלות עמנו ומייסרת אותנו ומתוך צרה תשובב ודאי. ואי תימא דההוא זמנא וכו' וא"כ מה טעם לגלות ההוא וא"ת מכירת יוסף לא היא כי אדרבה כתיב וישלחני ה' לפניכם וגו' ועוד הגזרה קדמה כמה דכתיב כי גר יהי' זרעך וכו' גזרה גזר הקב"ה על עון במה אדע שלא האמין והיה ראוי שיתקיים ואימתי אם לא עכשיו (משנולד עד) [בכ"י משנולד יצחק עד] שנגאלו וקב"ה בענין זה אשגח לתרין מלין חד בגין ההוא מלה כדפי' והשנית דעד דנפקו ממצרים לא הוו גוי ולא הי' אפשר להיותם גוי אלא במצרים כדכתיב כי לגוי גדול אשימך שם. חוחים מצרים והקליפות יבושו חוחין ואזדריקו במכת מצרים כדכתיב הטרם תדע כי אבדה מצרים:
 
 
+"My son, sit as befits you." This means that the Shekhinah should remain in exile with us, disciplining us, and that, through affliction, she will surely bring us back. And if you say that at that time, etc., then what was the purpose of that exile? And if you say that it was because of the sale of Joseph, that is not so, for on the contrary it is written, "And God sent me before you," etc. Moreover, the decree had already preceded it, as it is written, "For your seed shall be a stranger," etc. The Holy One, blessed be He, decreed this because of the sin involved in "Whereby shall I know?" [Abraham's words, understood as a failure to trust], because he did not believe, and it was fitting that the decree should be fulfilled. And when, if not then? [The manuscript reads: "from the birth of Isaac until"] they were redeemed. The Holy One, blessed be He, took two matters into account in this: one, because of that matter, as explained; and the second, that until they came out of Egypt they were not yet a nation, and it was not possible for them to become a nation except in Egypt, as it is written, "For there I will make you into a great nation." Egypt was the realm of thorns and the kelippot, and the thorns were put to shame and scattered through the plagues of Egypt, as it is written, "Do you still not know that Egypt is destroyed?"
+
+
 ###### Ohr HaChammah on Zohar 3:173b:14
 
 [https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:14](https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:14)
 
 
 **א"ר חייא ודאי הכי הוא. וע"ד גלותא וכו'** אברהם סבא הן אמת מלה זו זרה כי בשלמא ישראל סבא ניחא משום דאיכא ישראל סתם דהיינו ת"ת ואיכא ישראל סבא דהיינו ת"ת בסוד הדעת ומפני שנאחז שם בסוד עתיק יומין קרינן לי' ישראל סבא (אמנם לא) [בכ"י אמנם אברהם לא] אשתכח דאתקריא הכי אמנם צריך שנאמר דודאי הכוונה על החסד העולה אל החכמה ונאחזת שם ולכך אתקריאת סבא מן הטעם שפי' ולהכי דייק כהנא רבא דאי חסד סתם כהנא סתם איהו אבל כהנא רבא היינו בחכמה ובבחי' זו החסד ראש לכל האצילות כי אין לאצילות מבוא אל החכמה אלא ע"י החסד מפני שהיא ימנית וע"י קו הדין וקו הרחמים נכנסין לקו החסד אשר שם ונודע שהמלכות נק' כו"ס מצד הבינ' דהכי סליק כו"ס כחושבן הכס"א וסליק בשם אלהי"ם ונקראת הברכה מצד החכמה ולפיכך בגין דאיהו ראש כדפי' שע"י נכנסו הספי' לחכמ' כי כוס דברכה דהיינו מלכות מן הבחי' הנזכרת, יהי' נכון בראש ההרים כי ההרים הם ז' ספי' דאינון שבע טורין רברבין כדפי' בתיקונים והנה להיות החסד נאחז בחכמ' הוא קדמא' לשאר ההרים כי בבחי' האבות מהבינ' מוצא שלשתם יחד בסוד קול השומר דהיינו קול ת"ת כלול אשא מיא ורוחא שהם שלשה אבות אמנם בבחינת החכמ' החסד יונק ממנה ראשונה דהיינו אל נהירו דחכמתא ואגבה שאר הספירות א"כ אברהם סבא קדמאה לשאר ההרים ומפני שהכרח הדבר הוא ממלת כוס דברכה ואין הכרח בפ' אלא הר בית ה' ואפשר היותו המלכות בבחי' אחרת ולזה אמר כוס דברכ' אצטריך למיהוי וכו' כלומר שאר בחי' המלכות אפשר להיות תיקונם ע"י איזו משאר הספי' אמנם כוס של ברכ' אצטריך למיהוי מתקנא בימינא וכיון שכן כיון שאמר הכתוב נכון יהי' הר בית ה' בראש הרים דהיינו ימינא ודאי דבית ה' על המלכות בבחי' כוס של ברכה קאמר:
+
+
+"Rabbi Hiyya said: Certainly this is so. And concerning the exile, etc." Abraham the Elder. This expression is indeed unusual. For "Israel the Elder" is understandable, since there is "Israel" in the ordinary sense, namely Tiferet, and there is "Israel the Elder," namely Tiferet in the secret of Da'at. Because he is attached there to the secret of Atik Yomin, we call him "Israel the Elder." But [the manuscript reads: "Abraham is not"] ordinarily found being called by this name. Rather, we must say that the intention is certainly toward Hesed, which rises to Hokhmah and becomes attached there, and therefore it is called "Elder" for the reason explained above. This is why he emphasizes "the Great Priest," for if it were ordinary Hesed, he would simply be called "Priest"; but "Great Priest" refers to Hesed in relation to Hokhmah. In this aspect, Hesed is the beginning of all the Atzilut, because there is no access to Hokhmah within Atzilut except through Hesed, since it is the right line; and through the line of judgment and the line of mercy, they enter into the line of Hesed that is there. It is known that Malkhut is called the Cup, from the side of Binah, because "Cup" [Kos] has the same numerical value as "Throne" [Kiseh], and it corresponds numerically to the Name Elohim. It is called "the blessing" from the side of Hokhmah. Therefore, because Hesed is the beginning, as explained, since through it the sefirot enter into Hokhmah, the Cup of Blessing, namely Malkhut from the aforementioned aspect, "shall be established at the head of the mountains." The mountains are the seven sefirot, which are "the seven great mountains," as explained in the Tikkunim. Since Hesed is attached to Hokhmah, it precedes the other mountains. For, with regard to the patriarchs, they emerge together from Binah, in the secret of the voice that guards, namely the voice of Tiferet, which contains fire, water, and air, corresponding to the three patriarchs. But with regard to Hokhmah, Hesed draws nourishment from it first, namely from the light of Hokhmah, and through it the other sefirot [receive nourishment]. Thus Abraham the Elder is the first among the other mountains. And because the necessity of this interpretation comes specifically from the expression "Cup of Blessing," while the verse itself only requires "the mountain of the House of the Lord," it would be possible to understand it as referring to Malkhut in another aspect. Therefore he says that "the Cup of Blessing must be established, etc." In other words, other aspects of Malkhut may have their rectification accomplished through one of the other sefirot, but the Cup of Blessing must be rectified through the right side. Since this is so, when the verse says, "The mountain of the House of the Lord shall be established at the head of the mountains," meaning on the right side, it certainly refers to the House of the Lord, namely Malkhut, in the aspect of the Cup of Blessing.
 
 
 ###### Ohr HaChammah on Zohar 3:173b:15
@@ -152110,12 +152154,18 @@ footnotes:
 **אצטריך למיהוי זקיף וכו'.** תימא דהא זרת ג' טפחים אינון ובגמרא דילן קאמר ומגביהו מן הקרקע טפח. והכי מייתי לה הרשב"י ברעיא מהימנא ובכמה דוכתי ואפשר לומר שהכוס עצמו טפח והשלחן עביו (טפח) [בכ"י טפח ובין כוס לשלחן טפח] נמצא הכל ג' טפחים דהיינו זרת. בינה ובין בתולות הענין כי הגבעות הם בתולות והם נקבות להרים כי הרים הם ז' ספי' עליונות וגבעות נקבות להרים והם מרכבות שתחת המלכות והם ז' היכלות ובהיות המלכות מסתלקת עד החסד נמצאת היא נשא מגבעות גבורה ת"ת נצח הוד יסוד שהם ה' ספי' שהם ה' אצבעות כנודע ולמטה הם בתולות אחריה רעותיה שהם השלחן הערוך בפני כל בריה שמשם לחם המלך הכל אוכלין והכוס בעצמו הוא טפח שהוא מלכות טפח ודאי:
 
 
+"It must be raised, etc." There is a difficulty here, for a span consists of three handbreadths, whereas in our Talmud it says that it should be raised one handbreadth from the ground. This is how Rabbi Shimon bar Yochai brings it in the Ra'aya Meheimna and in several other places. It is possible to say that the cup itself is one handbreadth, and the table is one handbreadth thick [the manuscript reads: "one handbreadth, and between the cup and the table one handbreadth"], so that altogether they amount to three handbreadths, namely one span. "Between her and the maidens." The meaning is that the hills are the maidens, and they are female in relation to the mountains, for the mountains are the seven higher sefirot, while the hills are female in relation to the mountains. They are the chariots beneath Malkhut, and they are the seven palaces. When Malkhut ascends as far as Hesed, she is found raised above the hills: Gevurah, Tiferet, Netzach, Hod, and Yesod, which are five sefirot, corresponding to the five fingers, as is known. And below them are the maidens, "her companions who follow her," which are the set table prepared before every creature, from which the King's bread is distributed and everyone eats. And the cup itself is one handbreadth, for it is certainly Malkhut, one handbreadth.
+
+
 ###### Ohr HaChammah on Zohar 3:173b:16
 
 [https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:16](https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:16)
 
 
 **והשתא** דקאמר קרא נשא מגבעות ודאי דאיהו כוס של ברכה דלא שייך הכי אלא בכוס של ברכה. ולהכי קאמר לי' שפיר קאמר וכו' מרישיה ועד סיפיה כל המדריגות טהורות וטמאות דהיינו עץ הדעת טוב דא מטטרו"ן ורע דא סמא"ל וכבר הארכתי בזה בההוא עובדא דסבא. הר בית ה'. היא החלק המסתלק שאין בו אחיזה לח צונים כלל דהיינו נקודה אמצעית המסתלקת מן ההיכלות:
+
+
+"And now," since the verse says "raised above the hills," it is certainly referring to the Cup of Blessing, for this expression applies only to the Cup of Blessing. Therefore he says to him, "You have spoken well," etc. From beginning to end, all the levels are pure and impure, namely the Tree of Knowledge of Good: "good" is Metatron, and "evil" is Samael. I have already discussed this at length in that account of the Elder. "The mountain of the House of the Lord." This is the portion that withdraws, in which the external forces have no hold whatsoever, namely the central point that withdraws from the palaces.
 
 
 ###### Ohr HaChammah on Zohar 3:173b:17
@@ -152126,12 +152176,18 @@ footnotes:
 **מההיא דירית בהר האלהים ברית דא** תימא א"כ לא הי' לו ללכת אלא לקבורתו של משה ודוחק לומר דהכי קאמר וילך בכח האכילה ההיא עד קבורתו של משה שהוא ירש הברית בהר האלהים לכך נרא' לומר שממש להר סיני הלך והטעם כי משה כבר לא היה הברית שלו שכבר נתן אותו לפנחס ופנחס אבד אותו אמר אם אלך למשה אינו בידו כדי שיחזור ויתננו לי האיך אעשה אלך אל מקום שהוא הרויחו שם דהיינו בהר האלהים וקיימא לן בפ' פנחס שכל מקום שהצדיק מחדש שם תור' מציאותו מזדמן שם. ומה גם כשהצדיקים יושבים באותו מקום ממש ומחדשים שם תורתו שהוא אמר באותו מקום שקדושת המקום מתחדשת ותורתו מתחדשת והצדיק שפתותיו שושנים אפי' בקבר ומציאת דיוקן שלו בא שם ומתחדש ע"י אותו התור' ומציאות קדושתה המתצמצמת ומתחדשת שם א"כ מה עשה פנחס הלך לסיני הר האלהים מקום שהרויח משה ברית זה בנתינת התור' ושם נתעסק בענין הברית ההוא ונתחדש הברית ונתנוצץ שם דיוקן נשמתו של משה ונמצא הברית ומשרע"ה ופנחס יחד כדי שיחזור ויקחהו שם ועכ"ז לא הועיל לו וא"ת והאיך הרויח שם משרע"ה הברית י"ל במה שפירשו בזוהר בפסוק כי כבד פה וכבד לשון אנכי דהיינו הברית שהוא הפה שהיתה בגלות והקב"ה השיבו מי שם פה לאדם. וכשעמד על הר סיני (נתרפה) [נ' שצ"ל נתרפא] משרע"ה ודבר והיינו שיצאה השכינה מגלות והרויח משרע"ה הפה ועם היות שהברית הוא היסוד ופה היא המלכות לא פליגי כי בברית שני בחי' מילה ופריעה כדפי' המפורשים וכן האמה יסוד ויו"ד עטרה בראש הצדיק ודאי כנודע וכן פי' התיקונים:
 
 
+"From that which he inherited on the mountain of God, this is the covenant." It is difficult, for if so, he should have gone only to the burial place of Moses. It would be forced to say that the meaning is that he went through the power of that food as far as the burial place of Moses, who inherited the covenant on the mountain of God. Therefore, it seems better to say that he actually went to Mount Sinai. The reason is that Moses no longer possessed his covenant, for he had already given it to Phinehas, and Phinehas had lost it. He said: If I go to Moses, it is not in his possession so that he can return it and give it to me. What shall I do? I will go to the place where he acquired it, namely the mountain of God. And it is established in Parashat Pinhas that wherever a righteous man renews Torah, his presence is found there. All the more so when righteous men sit in that very place and renew his Torah there, for he said in that place that the holiness of the place is renewed and his Torah is renewed, and that the lips of the righteous are like roses even in the grave. The image of his likeness comes there and is renewed through that Torah and through the presence of its holiness, which becomes concentrated and renewed there. What, then, did Phinehas do? He went to Sinai, the mountain of God, the place where Moses acquired this covenant through the giving of the Torah. There he occupied himself with the matter of that covenant, and the covenant was renewed, and the image of the soul of Moses shone there. Thus the covenant, Moses our Teacher, and Phinehas were together, so that he might return and take it there. Nevertheless, this did not help him. And if you ask how Moses our Teacher acquired the covenant there, it may be answered according to what is explained in the Zohar concerning the verse, "For I am of uncircumcised lips and of uncircumcised tongue." This refers to the covenant, which is the mouth, and which was in exile, and the Holy One, blessed be He, answered him, "Who has made man's mouth?" When he stood at Mount Sinai, Moses our Teacher was healed, and he spoke. This means that the Shekhinah came out of exile, and Moses our Teacher acquired the mouth. Although the covenant is Yesod and the mouth is Malkhut, there is no contradiction, because the covenant contains two aspects, circumcision and uncovering, as the commentators have explained. Likewise, the organ is Yesod, and the Yod is certainly the crown at the head of the righteous, as is known. This is also explained in the Tikkunim.
+
+
 ###### Ohr HaChammah on Zohar 3:173b:18
 
 [https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:18](https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:18)
 
 
 **לית אנת יכיל.** כדפי' לעיל לינוקא בשעה שנימולין שנתחדש שם הברית וע"י היותו עומד שם מתנוצץ בו ומאיר בו אותה הספירה והסוד ינוקים דישראל נצח והוד ובניהם מתעלים ליסוד.
+
+
+"You are not able." As explained above concerning the child at the time of circumcision, when the covenant is renewed there, and through his being present there, that sefirah shines and illuminates within him. The secret is that the children of Israel correspond to Netzach and Hod, and their children ascend to Yesod.
 
 
 ###### Ohr HaChammah on Zohar 3:173b:19
@@ -152142,12 +152198,18 @@ footnotes:
 **איהו דאגזים ואיהי דאחידת וכו'** דבר זה קשה מאוד להולמו שהרי הנהגת המדות הפך זה הת"ת הנקרא אב לנשמותי' היא רחמים והמלכות (הנק' לנו) [בכ"י הנק' אם לנו] היא מדת הדין עם היות שהוא רפה. א"כ איך אפשר לומר שהוא מגזים (ברצוניה) [בכ"י ברצועה] והוא אחידת וכו'. האמנם הנראה בזה הוא כי ענין זה אינו בהיות העולם מתנהג בדין כי אז היא דין והוא (רחמים) [בכ"י פעמים] מסתלק כדי שיהיה הדין נפעל בחזקה כמו שהיה בדור (המדבר) [בכ"י המבול] כדפי' בזוהר בפ' נח בפסוק ה' למבול ישב ופעמים משותף עמה היינו בסדום כדפי' שם בפ' וה' המטיר בפ' וירא האמנם עתה היא בהיות הגזמה לבר וז"ש ותרוייהו בעיטא חדא והענין כי הדין הוא מתעורר בגבורה מצד הבינה ובהיות הדין מתעורר ע"י הפגם כוונת הת"ת והמלכות בתיקונו וכיצד בהיות הת"ת מתעורר בשמאל דהיינו שהוא מחבק הנקבה כדין צפונית מערבית מקדמת המלכות ואוחזת בימין דהיינו מערבית דרומית והדין מתבטל ע"י רחמי החסד שמימיה מכבים אש הגבורה וענין זה עושה המלכות מאליה כשאין הפגם בה אלא בספירות העליונות והיא מתוקנת היא עולה ותובעת שפע לכל העולם ואי אפשר לדחותה שהרי היא אינה נפגמת וע"י מביאה שפע ואור לכל הספירות ואותו הפגם שומרת אותו והיא מייסרת אח"כ בניה מעט מעט עד שמטהרת אותם מכל וכל כענין ויסרתיך למשפט ונקה וגו':
 
 
+"He threatens, and she takes hold, etc." This matter is very difficult to understand, for the governance of the attributes is the opposite of this: Tiferet, which is called the father of the souls, is mercy, while Malkhut, which is called "mother to us," is the attribute of judgment, although it is mitigated. How, then, can it be said that he threatens and she takes hold, etc.? It seems, however, that this does not refer to a time when the world is governed by judgment. At such a time she is judgment, and he sometimes withdraws so that judgment may be carried out with full force, as was the case in the generation of the Flood, as explained in the Zohar, Parashat Noah, concerning the verse, "The Lord sat enthroned at the Flood." Sometimes he joins with her, as in Sodom, as explained there concerning the verse, "And the Lord rained upon Sodom," in Parashat Vayera. Here, however, it refers to a situation in which there is a threat outwardly. This is what is meant by, "And both of them are with one counsel." The matter is that judgment is aroused in Gevurah from the side of Binah. When judgment is aroused through a blemish, the intention of Tiferet and Malkhut is toward its rectification. How? When Tiferet is aroused on the left, namely when he embraces the female according to the order of the northwest, Malkhut advances from the northwest and takes hold of the right, namely the southwest. Judgment is then annulled by the mercy of Hesed, whose waters extinguish the fire of Gevurah. This is something Malkhut does of herself when the blemish is not in her but in the higher sefirot. Since she herself is rectified, she ascends and requests abundance for the entire world, and it is impossible to reject her, since she is not blemished. Through her she brings abundance and light to all the sefirot, while she preserves that blemish and afterward disciplines her children little by little until she purifies them completely, as in the verse, "I will chasten you according to justice, and will not utterly cleanse you," etc.
+
+
 ###### Ohr HaChammah on Zohar 3:173b:20
 
 [https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:20](https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:20)
 
 
 **דלא ליהך באורח מישור.** המלכות ומפני כי להיות האהבה בין עוסק התורה דהיינו אלו מטהרים מצד הימין ואלו מטמאין מצד השמאל דהיינו את והב בסופה אהבה בסופה דהיינו סוד האהבה המתעוררת מן השמאל ומן הימין כדפי' בזוהר. והוא סוד ויאהב יצחק את רבקה אשתו וכן אהבת עולם רחמתיך על כן משכתיך חסד הנה בהיות האהבה בסוף כל המדרגות שהיא המלכות לחבקה למעלה כיצד שהם חפצים (בהכרעה) [בכ"י בהכרעה דהיינו קו האמצעי אז היא אזלא באורח מישור דהיינו סוד קו האמצעי אמנם כאשר אין אהבה בסופה ואין חפץ בהם בהכרעה] ח"ו איהי לא אזלא באורח מישור ואינה עולה בקו האמצעי ושמא תאמר א"כ תעלה בא הצדדים. לז"א ועוד דעבדו בה פגימו דהיא נפגמת ע"י ואינה מיוחדת ע"י למעלה והיינו מחלוקת שאינה לשם שמים שהוא מחלוקת קרח ועדתו שלא רצו בהכרעה ושלום. אמנם מחלוקת הלל ושמאי היה לשם שמים דהיינו אש ומים אברהם ויצחק והם חפצים בהכרעה דהיינו יעקב מטה כלפי חסד הלכה כב"ה ואיהו ברוחא דיוקנא דאדם כלומר בהיות בדקות קרוב אל הקדושה קודם התלבשו:
+
+
+"That she should not proceed on a straight path." This refers to Malkhut. Since love exists among those who study Torah, namely, some purifying from the right and others defiling from the left, this is the secret of "And they embraced at the end," meaning the secret of love that is aroused from both the left and the right, as explained in the Zohar. This is the secret of "And Isaac loved Rebekah his wife," and likewise "With everlasting love I have loved you; therefore I have drawn you with loving-kindness." Now, when love is at the end of all the levels, namely Malkhut, to embrace her above, and when they desire her in the place of equilibrium, namely the middle line, then she proceeds on a straight path, which is the secret of the middle line. But when there is no love at the end and there is no desire for them in the place of equilibrium, Heaven forbid, she does not proceed on a straight path and does not ascend along the middle line. And perhaps you might say that she should then ascend along one of the sides. Therefore he says, "Furthermore, they caused a blemish in her," for she is blemished through them and is not thereby united above. This is the meaning of a dispute that is not for the sake of Heaven, namely the dispute of Korah and his assembly, who did not desire equilibrium and peace. The dispute of Hillel and Shammai, however, was for the sake of Heaven, namely fire and water, Abraham and Isaac, and they desired equilibrium, namely Jacob, who inclines toward Hesed; the law follows the House of Hillel. And he is in the spirit of the image of man, meaning that when one is in a subtle state, close to holiness, before becoming clothed in matter.
 
 
 ###### Ohr HaChammah on Zohar 3:173b:21
@@ -152158,12 +152220,18 @@ footnotes:
 **לבושא קדמאה.** מפני שיש לו כמה לבושים אחרים אמנם זה שהוא דמות בהמה טהורה יורד מצורת אדם זו הראשון ואחריו כמה לבושים טמאים נחשים ושאר מזיקים. קדמאה לניזקין מאינון ד' כתין ארבע אבות נזיקין הן השור והבור והמבעה וכו' והראשון שור והם ד' אבות ד' קליפות קשות כדפי' בתיקונים וז"ש ואינון ד' לנזקא עלמא ולא שיהיו ד' והשור א' בפני עצמו והשאר בפני עצמן שאינו כן אלא וכלהו תלתא אבות דניזקין בר שור דהיינו הבור המבעה ההבער אינם חוץ משור (אלא שהם) [בכ"י אלא כולהו דיליה אלא שהם] לבושים אחרים שהוא (יחד) [בכ"י יורד] ומתלבש והראשון שור.
 
 
+"The first garment." Since he has several other garments, this one, which is the form of a pure animal, descends from the first human form, and afterward come several impure garments, snakes and other harmful creatures. "The first among the harmful ones" refers to the four classes, the four principal categories of damages: the ox, the pit, the tooth, etc. The first is the ox, and these are the four principal categories, the four harsh kelippot, as explained in the Tikkunim. This is what is meant by, "And these four cause damage to the world." It does not mean that there are four, with the ox standing separately and the others separately, for that is not the case. Rather, all three are the principal categories of damages except the ox, namely the pit, the tooth, and the fire are not outside the ox, but are other garments in which it descends and clothes itself, while the first is the ox.
+
+
 ###### Ohr HaChammah on Zohar 3:173b:22
 
 [https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:22](https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:22)
 
 
 **וקבל לון משה.** שמל אותם וזה טעם כי שחת עמך ומפני שהיו נימולים פגמו למעלה כדפי' בתיקונים.
+
+
+"And Moses received them." He circumcised them, and this is the reason for "For they have corrupted themselves, your people." Because they were circumcised, they caused a blemish above, as explained in the Tikkunim.
 
 
 ###### Ohr HaChammah on Zohar 3:173b:23
@@ -152174,12 +152242,18 @@ footnotes:
 **ערב רברבא** שולטת הגבורה בדיניה ושאר הכחות היונקים ממנה ערב זוטא נראה ההוד והיא משתתפת (שם) [בכ"י עם] חצי המלכות דהיינו פלג לילה ואי אפשר לפרש ערב זוטא המלכות כולו שאינו כך שאין תחלת המלכות אלא מדת לילה דוקא:
 
 
+"The Great Mixed Multitude." Gevurah rules with its judgments, together with the other forces that draw nourishment from it. The Lesser Mixed Multitude appears as Hod, and it joins with half of Malkhut, namely half the night. It is impossible to explain the Lesser Mixed Multitude as all of Malkhut, for this is not so; the beginning of Malkhut is specifically the attribute of night.
+
+
 ###### Ohr HaChammah on Zohar 3:173b:24
 
 [https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:24](https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:24)
 
 
 **בכל סטרין בשש משה.** כלומר בכל בחינותיו בין בחי' נפש עשיה בין בחינת רוח יצירה ונשמה בריאה ונשמה אצילות בכל צדדיו הוא מרכבה לשש קצוות המיוחדים בימין. או ירצה כי בבחינת נבואתו שהוא אספקלריא המאירה ומרכבתו בסוד הדעת ובחי' ז' ספירות ז' צדיקים אברהם יצחק יעקב משה וכו' הוא בסוד הנצח בין בבחי' היותו (לא) [בכ"י לוי] שהוא בהוד בכל סטרין בשש דהיינו היותו כולל שש קצוות בהיותם בימין נוטים לצד החסד שהם ו' שעות ראשונות מהיום שאין בהם אחיזה לקליפות. כללא דכל ישראל. כבר הארכתי בזה בכמה דוכתי. והיינו שהוא בסוד נשמתו כלל ס' רבוא וממנו מאירים כולם והיינו סוד משה שת הבל שהוא קן נשמות קדושות הבל ומשת הושתת העולם:
+
+
+"In all aspects, Moses is six." That is, in all his aspects, whether the aspect of the soul of Asiyah, the spirit of Yetzirah, the soul of Beriah, or the soul of Atzilut, in every aspect he is a chariot for the six directions united in the right. Alternatively, it may mean that, in the aspect of his prophecy, which is the clear mirror, and in his being a chariot in the secret of Da'at, and in the aspect of the seven sefirot, the seven righteous ones - Abraham, Isaac, Jacob, Moses, etc. - he is in the secret of Netzach, whereas in the aspect of his being Levi, which is in Hod, in every aspect he is "six," meaning that he includes the six directions when they are on the right, inclining toward Hesed. These are the first six hours of the day, in which the kelippot have no hold. "The totality of all Israel." I have already discussed this at length in several places. This means that in the secret of his soul he is the totality of the six hundred thousand, and from him they all receive light. This is the secret of Moses, Seth, and Abel, which is the nest of holy souls; Abel and Seth are the foundation upon which the world was established.
 
 
 ###### Ohr HaChammah on Zohar 3:173b:25
@@ -152190,12 +152264,18 @@ footnotes:
 **שמאלא בעו מיניה.** עשה לנו אלהים שית דרגא אינון וכו' הענין כי הספירות כולם בהיות מתלבשות בדין נקראות כלם אלהים וכדפי' בתיקונים. אתכללין כולהו במלכות. ונקראות גבירות וגבורות היינו אלהים א"כ במלכות ו' קצוות בהיותם מתלבשים בסוד הדין נק' אלהים. אמנם יש אלהים בבינה כגון ל"ב אלהים דעובדא דבראשית ואינו בסוד הדין אלא דרך אחרת לו ולזה הקשה כי הגם בבינה שבע אינון. ותירץ דההוא עילאה לא עאל בכללא מפני שאינו נק' כן בסוד הדין וא"ת שבע הם עם המלכות. י"ל שבמלכות נק' אלהים הששה כדפרי'.
 
 
+"The left asked him." "Make for us a god with six levels," etc. The matter is that all the sefirot, when clothed in judgment, are called Elohim, as explained in the Tikkunim. They are all included in Malkhut and are called "ladies" and "Gevurot," that is, Elohim. Thus, in Malkhut, the six directions, when clothed in the secret of judgment, are called Elohim. There is, however, an Elohim in Binah, such as the thirty-two Elohim of the Work of Creation, and it is not in the secret of judgment, but has another character. Therefore he raised the difficulty: although in Binah there are seven, how is this to be understood? He answered that the upper one does not enter into the count because it is not called so in the context of judgment. And if you say that there are seven together with Malkhut, it may be answered that in Malkhut the six are called Elohim, as explained.
+
+
 ###### Ohr HaChammah on Zohar 3:173b:26
 
 [https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:26](https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:26)
 
 
 **לתקפא סטרא דילן** ע"י יניקתה מן הדין ששם תוקף ואומץ הקליפות אי נזמין ליה כלומר אם נעשה לקליפות דבר מעשה גשמי שיתאחזו בו כגון העגל ששרה עליו כח הטומאה **א"ר** אלעזר אבא אי הכי ערב רב וכו' לא הוו אכלי וקשה תרתי הא' שלא היו יודעים מהותו וענינו ולא ידעו בו שבחן של ישראל הב' ממה היו ניזונים ותירץ לב' הא' שידעו שבחו ממה דיהבו לון ישראל הב' שהיו ניזונים מהתמצית אוזן שמעה וכו' לראיה ששבירת האוזן ונקיבתה מורה פריקת עול מלכות שמים א"כ כאן שאמר ויתפרקו נזמי הזהב פריקה לשון שבירה וענין האוזן היינו פריקת עול מלכות שמים:
+
+
+"To strengthen our side." Through its drawing nourishment from the judgment, where there is strength and power for the kelippot. "If we invite him," that is, if we perform a physical act for the kelippot so that they may take hold of it, such as the Golden Calf, upon which the power of impurity rested.
 
 
 ###### Ohr HaChammah on Zohar 3:173b:27
@@ -152206,12 +152286,18 @@ footnotes:
 **ומנלן דתרוייהו הוו ולא יתיר וכו'.** תרתי בעי חד שהיו שנים ועוד שלא היו יותר ומדקאמר קרא מידם ולא מיד העם או ויקח סתם מורה שלא היו כולם. וממה שאמר מידם מורה לשון רבים מיעוט רבים שנים. אי יהא כסטר וכו' כי יניקת החיצונים מהשמאל מהגבורה ואם יסכים בזה החסד הרי חוזק גדול.
 
 
+"Rabbi Elazar said: Father, if so, the Mixed Multitude, etc." They did not eat, and there is a difficulty in two respects. First, they did not know its nature and significance, and did not know through it the praise of Israel. Second, from what were they nourished? He answered the first by saying that they knew its praise from what Israel gave them. The second was that they were nourished from the residue, "the ear that heard," etc. This is evidence that the breaking and piercing of the ear indicates the casting off of the yoke of the Kingdom of Heaven. Thus here, when it says, "And they broke off their golden earrings," "breaking off" is the language of breaking, and the matter of the ear signifies the casting off of the yoke of the Kingdom of Heaven.
+
+
 ###### Ohr HaChammah on Zohar 3:173b:28
 
 [https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:28](https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:28)
 
 
 **דאלו נטיל מארעא וכו'** כי בהיות דבר כישוף ביד המכשף הוא פועל פעולתו וכשופו ובהניח הדבר ההוא בקרקע באמצע הפעולה דהיינו בין ההשבעה (וההיפוך) [בכ"י וההיתוך] מתבטל כל מה שעשה וצריך להשביע כמתחלה:
+
+
+"And from where do we know that there were two of them and no more, etc.?" Two things are required: first, that there were two, and second, that there were no more. Since the verse says "from their hand" and not "from the hand of the people," or simply "and he took," this indicates that they were not all. And since it says "from their hand," which is plural, the minimum plural is two. "If it should be according to the side, etc." For the nourishment of the external forces comes from the left, from Gevurah, and if Hesed agrees with it, there is very great strength.
 
 
 ###### Ohr HaChammah on Zohar 3:173b:29
@@ -152222,12 +152308,18 @@ footnotes:
 **ברא יחידא.** אהרן. רישא חוורא. חסד
 
 
+"For if he takes it from the ground, etc." When something belonging to magic is in the hand of the magician, it performs its operation and magic; but when that object is placed upon the ground in the middle of the operation, namely between the adjuration and the melting, everything he has done is nullified, and he must perform the adjuration again from the beginning.
+
+
 ###### Ohr HaChammah on Zohar 3:173b:30
 
 [https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:30](https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:30)
 
 
 **מבשרא דחמרא.** יונוס ויומברוס אשר בשר חמורים בשרם וטעין ליה כדמפרש ואזיל.
+
+
+"The only son." Aaron. "A white head." Hesed.
 
 
 ###### Ohr HaChammah on Zohar 3:173b:31
@@ -152238,12 +152330,18 @@ footnotes:
 **וההוא דנטל מרגלאן.** אהרן נושא אבני החושן (וזווגין) [וזוגין] דדהבא במעיל פעמון זהב ורמון וכו' קולמסא דאנוש וכו' היינו הכישוף שלא מדעתו. בריאה יצירה עשיה פרשתי עניינם במקום אחר ועם היות שאין לקליפה אחיזה באצילות כלל ולא בבריאה וביצירה אחיזתם בזרות ועיקרם עשיה כבר פירשתי שעניינם היות הדברים דקות ואח"כ גילוי יותר וכן יורדים ממדרגה למדרגה והוא ענין זה מרכבה לכל דבר דק ולזה עשו אלו ג"כ מרכבה לקליפה בי"ע להמשיכ' למט' בצירת העגל.
 
 
+"From the flesh of a donkey." These are Jannes and Jambres, "whose flesh is the flesh of donkeys," and he carries it, as he goes on to explain.
+
+
 ###### Ohr HaChammah on Zohar 3:173b:32
 
 [https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:32](https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:32)
 
 
 **דכר ונוקבא.** סמא"ל ולילית. שור וחמור וכו' נמצאו לפי זה ראשונ' הוא אדם והוא סוד דבקותה למעל' ואז נק' אדם בליעל איש און וברדתה למטה נקראו עשר כחות שהם נגדיות לעשר ספי' שור וז' היכלות שהם נקב' לעשר ספי' שור וז' היכלות שהם נקב' לעשר כחות הנז' נקראי' חמורי' והיינו עשרה חמורים ועשר אתונות דיוסף שלמד במצרים והאריכו בהם בזוהר פ' פקודי **אליך ישראל** כנגד אותם שנדבקו עמהם בהרהור הלב. מלי ידייהו שליש הראשון וב' שלישים הב' שכן הי' צורך המעשה כדפי' לעיל.
+
+
+"And the one who took the precious stones." Aaron carried the stones of the breastplate, and the pairs of gold bells on the robe, "a golden bell and a pomegranate," etc. "The stylus of Enosh," etc. This was the magic performed without his knowledge. I have explained the meaning of Beriah, Yetzirah, and Asiyah elsewhere. Although the kelippah has no hold whatsoever in Atzilut, and its hold in Beriah and Yetzirah is through foreignness, its principal domain is Asiyah. I have already explained that their nature is that things first exist in a subtle form and afterward become more manifest; likewise, they descend from level to level. This is the matter of a chariot for every subtle thing. Therefore these also became a chariot for the kelippah of BYA, drawing it downward through the formation of the calf.
 
 
 ###### Ohr HaChammah on Zohar 3:173b:33
@@ -152254,12 +152352,18 @@ footnotes:
 **דיוקנא דשור בתרין משיכין** הזהב הגשמי הי' דיוקכא דשור אמנם הרוח הפנימי היו תרין משיכין שור וחמור כדפי'. אחיד בסטר דקדוש'. שכן דרך הקליפ' להתמעט לפני הקדוש' ולהתבטל מלפניה והיינו עת אשר שלט האדם בליעל איש און באדם הקדוש לרע לו דאדם בליעל שזה סיבת איבודו וביטולו ולכך הקדמת התרופה לגלות הקדוש' לפני הקליפ' ובזה לא נתחזק ונתבטל. וכן היה בימי נבוכדנאצר בענין הצלם שהי' מתחזק בבקעת דורא אם לא שהקדימה הקדוש' ע"י חנניה מישאל ועזריה וקידוש השם שעשו גרם ביטול הצלם וגילוי הקדוש'. עבד וקרא. כי ענין הקדוש' צריך במעשה הזמנה בפה כענין כסא אליהו כדפירשו בזוהר ולהכי עבד ויבן מזבח וקרא ויקרא אהרן ועל חובא דא וכו' וא"ת והרי גדולים היו ובחטאם מתו כדכתיב בההוא קרא וכדפי' רז"ל וי"ל שאם לא הי' מעשה העגל ראוי הי' אהרן (שינצלו בזכותו) [בכ"י שינצלו בניו בזכותו]. עוד י"ל שנעש' העגל גרם שמעש' בא לידם וחטאו. ועוד אפשר שלזה כוון באמרו ת"ח אהרן וכו' כי אהרן תיקון ענין העגל ומה שנתפשט הקליפ' ע"י שבנה המזבח וחזור לאחור הקליפ' ובאו בניו והסירו הגדר מלפניו דהיינו שהקריבו אש זרה לפני השכינ' והשכינ' נסתלק' והעגל דהיינו הקליפ' נתפשט' וחזר הדבר אל כמו שהי' קודם תיקון אהרן ואם לא הי' חטא אהרן לא הי' מספיק ענין זה להגביר הקליפ' אם לא שנתפשט' במעשה העגל והי' הגדר לפניו דהיינו המזבח והם הסירו הגדר הזה נמצא שמתו בחטא אביהם באותה הקליפ' שיצא' במעשה ההוא ונתפשט' וקודם לא הית' שם מציאותה והיינו כענין אומרו אוחזים מעשה אבותיהם וכו' וז"ש אתפסו בחובא דא:
 
 
+"Male and female." Samael and Lilith. "Ox and donkey," etc. According to this, the first is Adam, and this is the secret of its attachment above; then it is called "the man of Belial, the man of iniquity." When it descends below, the ten forces are called the counterparts of the ten sefirot. "Ox" and the seven palaces, which are female, correspond to the ten aforementioned forces. They are called "donkeys," and this is the secret of the ten donkeys and ten she-donkeys of Joseph, which he learned in Egypt, and which are discussed at length in the Zohar, Parashat Pekudei. "To you, Israel" refers to those who became attached to them through the thoughts of the heart. They filled their hands with one-third at first and two-thirds afterward, for this was what the act required, as explained above.
+
+
 ###### Ohr HaChammah on Zohar 3:173b:34
 
 [https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:34](https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:34)
 
 
 **א"ל ר' אלעזר אבא ודאי הכי הוא וישראל לא וכו'.** ועגל עבדו ולפי דבריך לא שייך עגל אלא בחיצונים ולא ישראל קדושים לא שריא אלא כלבא וכו' ולפי' עם היות שישראל אחוזים בקדוש' לא יכול להמשיך כח הקדוש' שאי אפשר אלא בירושלם. וכיון שכך נדבק בחוץ בקליפ' והמשיך הקליפ' כדמפרש ואזיל.
+
+
+"The image of the ox in two extensions." The physical gold was the image of the ox, but the inner spiritual force consisted of two extensions, ox and donkey, as explained. "Attached to the side of holiness." For it is the way of the kelippah to diminish itself before holiness and become nullified before it. This is the meaning of "when man ruled over Belial, the man of iniquity, over holy man, for his harm." This means that the man of Belial's domination is the cause of his own destruction and nullification. Therefore the remedy was prepared in advance: holiness was revealed before the kelippah, and through this the latter was not strengthened and was nullified. The same occurred in the days of Nebuchadnezzar concerning the image that was being strengthened in the plain of Dura, had holiness not preceded it through Hananiah, Mishael, and Azariah; the sanctification of God's Name that they performed caused the image to be nullified and holiness to be revealed.
 
 
 ###### Ohr HaChammah on Zohar 3:173b:35
@@ -152270,12 +152374,18 @@ footnotes:
 **דאתמשכא מיד לכל אתר.** מפני שהיא חושקת לעשות לה משכן בבני אדם ומה גם להחטיאם ובלי הכנות מרובות היא נמצאת כ"ש ע"י הכנה והאריכו בזה בפ' פקודי. תרין אמאי דלא שייך בישראל טעמא דאמרן לעיל אשר בשר וכו':
 
 
+"He made and proclaimed." The matter of holiness requires a physical act of preparation accompanied by speech, like the chair of Elijah, as explained in the Zohar. Therefore it says, "He made [it], and he built an altar, and he proclaimed," and "Aaron called out," etc. "And because of this sin," etc. And if you ask, were they not great men, and did they not die because of their sin, as it is written in that verse and as our Sages explained? It may be answered that if the sin of the Golden Calf had not occurred, Aaron would have been worthy [the manuscript reads "his sons would have been saved through his merit"]. Another possibility is that the making of the calf caused the act that brought them to sin. It is also possible that this is what is intended by the statement, "Come and see Aaron," etc. For Aaron rectified the matter of the calf, and when the kelippah spread through his building of the altar, the altar served as a barrier that pushed the kelippah backward. Then his sons came and removed the barrier from before it, namely, they offered strange fire before the Shekhinah, and the Shekhinah withdrew, and the calf, namely the kelippah, spread, returning the situation to what it had been before Aaron's rectification. If Aaron's sin had not occurred, this would not have been sufficient to strengthen the kelippah, unless it had spread through the act of the Golden Calf, with the barrier before it, namely the altar, and they removed that barrier. Thus they died through the sin of their father, through that same kelippah that emerged through that act and spread, whereas previously it had no actual existence there. This is like the saying, "They seize the deeds of their fathers," etc. And this is what is meant by, "They were seized through this sin."
+
+
 ###### Ohr HaChammah on Zohar 3:173b:36
 
 [https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:36](https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:36)
 
 
 **נופת תטופנה וכו'** שמצליח האדם כדי להמשיכו והיינו נופת בעוה"ז ואחריתה מרה בעוה"ב וגם בזה לסוף. אמאי לאו שור דאיהו עגל. כלומר למה הוא עגל ואינו שור. שירותא דלבושא זוטא איהו. כלומר תחלת היותו מתלבש אינו אלא כמו תחלת הולד שור דהיינו עגל ואחר שנתלבש זמן הרבה נעשה שור ולהתחלת ההמשכה עשה להורות שבכל פעם מתלבש מחדש ומושך המשכה:
+
+
+"Rabbi Elazar said to him: Father, certainly this is so, but Israel did not, etc." And they made the calf. According to your words, however, the calf belongs only to the external forces, whereas holy Israel does not [belong to them]; only a dog, etc. Therefore, although Israel is attached to holiness, they could not draw down the power of holiness, for this is possible only in Jerusalem. Consequently, it became attached outside, to the kelippah, and drew down the kelippah, as he proceeds to explain.
 
 
 ###### Ohr HaChammah on Zohar 3:173b:37
@@ -152286,12 +152396,18 @@ footnotes:
 **לא הות תמן** מפני שהפגם הי' בה והיא עצמה התובעת הדין וכבר הארכתי לעיל. ועתה הניחה לי מצד הגדולה שכבר הדין בה ויחר אפי בהם מצד הגבורה שכאשר הת"ת יונק הדין אז האף שהוא החוטם יחר ודאי וידלק באש והיינו ויחר אפי ע"י דין הגבורה ואעשה אותך מצד הת"ת לחזור ולבנות העולם ע"י חסד שבו אמרתי עולם יבנה וכשתקן תקן כאומרו זכור לאברהם ליצחק וליעקב שאחז בג' אבות וראשונה אחז לתקן המדות אלו באלו ולמזוג אותם ואמר למה ה' יחרה וגו' בכח גדול מצד החסד וביד חזקה מצד הגבורה למה יאמרו וכו' מצד הת"ת ואח"כ שלשתם יחד זכור לאברהם וגו' מלת דא (בתשובה) [בכ"י בחשוכא] כלו' סוד נעלם למעלה למעלה ישת חושך סתרו וגו':
 
 
+"For it is immediately drawn to every place." Because it desires to make a dwelling for itself among human beings, and especially to lead them into sin, it is found without extensive preparation, all the more so when preparation is made for it. This is discussed at length in Parashat Pekudei. "Why two?" Because the reason stated above does not apply to Israel: "whose flesh," etc.
+
+
 ###### Ohr HaChammah on Zohar 3:173b:38
 
 [https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:38](https://torahapp.org/share/book/Ohr%20HaChammah%20on%20Zohar/r/3:173b:38)
 
 
 תם ונשלם
+
+
+"Her lips drip honey, etc." This means that a person prospers in order to draw him toward it; this is the honeycomb in this world, while its end is bitter in the World to Come, and also in this world eventually. "Why is it not an ox, since it is a calf?" That is, why is it called a calf and not an ox? "It is the beginning of a small garment." In other words, the beginning of its becoming clothed is like the beginning of an animal's life: an ox begins as a calf. After it has been clothed for a long time, it becomes an ox. The purpose of making it initially as a calf was to indicate that each time it becomes clothed anew and draws down an extension.
 
 
 

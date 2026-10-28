@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Tiferet Yosef, Publication of Izhbitza Radzin, Bnei Brak 1997 (Segments: 295, License: unknown)
 
-Version (En): Publicado em 5784, Saymon Pires da Silva [pt] (Segments: 24)
+Version (En): Sefaria Community Translation (Segments: 24)
 
 
 ## Rosh Hashanah

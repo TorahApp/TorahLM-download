@@ -10,7 +10,7 @@ Early 20th-century collection of more than 2,300 responsa of R. Shalom Mordechai
 
 Sections: Siman-Paragraph
 
-Location: Responsa
+Location: Responsa/Acharonim
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
@@ -8546,7 +8546,7 @@ Version (He): Warsaw, 1902 (Segments: 1667, License: unknown)
 [https://torahapp.org/share/book/Teshuvot%20Maharsham%20Volume%20I/r/127:2](https://torahapp.org/share/book/Teshuvot%20Maharsham%20Volume%20I/r/127:2)
 
 
-מכתבו הגיעני וע"ד שאלתו אם אסור ליטע אילנות לפני ביהכ"נ ועכ"פ אם כבר נטעו קודם שנבנה הביהכ"' ואחר כך בנוהו אם צריך לעקור ולקצוץ האילנות ורו"מ הביא מהמג"א סימן קנ"ד והגהות רע"א שם ור"מ שיק או"ח סי' ע"ח וסימן ע"ט ותשו' בנין ציון סימן ט' ופת"ש רסי' קנ"א וגם הביא ראיה לזה מיהושע כ"ד כ"ו ויקימה שם תחת האלה אשר במקדש ד' ופירש"י שהיתה האלה שטמן שם יעקב שלל שכם וביאר דקשיא לרש"י איך היה רשאי להיות אלה במקום המקדש ולכן פירש שהיתה שם מכבר מימי יעקב ומוכח להקל. עכת"ד:
+מכתבו הגיעני וע"ד שאלתו אם אסור ליטע אילנות לפני ביהכ"נ ועכ"פ אם כבר נטעו קודם שנבנה הביהכ"נ ואחר כך בנוהו אם צריך לעקור ולקצוץ האילנות ורו"מ הביא מהמג"א סימן קנ"ד והגהות רע"א שם ור"מ שיק או"ח סי' ע"ח וסימן ע"ט ותשו' בנין ציון סימן ט' ופת"ש רסי' קנ"א וגם הביא ראיה לזה מיהושע כ"ד כ"ו ויקימה שם תחת האלה אשר במקדש ד' ופירש"י שהיתה האלה שטמן שם יעקב שלל שכם וביאר דקשיא לרש"י איך היה רשאי להיות אלה במקום המקדש ולכן פירש שהיתה שם מכבר מימי יעקב ומוכח להקל. עכת"ד:
 
 
 ###### Teshuvot Maharsham Volume I 127:3

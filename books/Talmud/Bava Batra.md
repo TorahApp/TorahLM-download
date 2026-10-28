@@ -3434,7 +3434,7 @@ In connection with this discussion, the Gemara clarifies the conditions under wh
 [https://torahapp.org/share/book/Bava%20Batra/r/12b:3](https://torahapp.org/share/book/Bava%20Batra/r/12b:3)
 
 
-אָמַר רַבִּי יוֹחָנָן: מִיּוֹם שֶׁחָרַב בֵּית הַמִּקְדָּשׁ, נִיטְּלָה נְבוּאָה מִן הַנְּבִיאִים וְנִיתְּנָה לַשּׁוֹטִים וְלַתִּינוֹקוֹת. לַשּׁוֹטִים – מַאי הִיא? כִּי הָא דְּמָר בַּר רַב אָשֵׁי – דַּהֲוָה קָאֵי בְּרִסְתְּקָא דְמָחוֹזָא, שַׁמְעֵיהּ לְהָהוּא שׁוֹטֶה דְּקָאָמַר: רֵישׁ מְתִיבְתָּא דְּמָלֵיךְ בְּמָתָא ״מַחְסֵיָא״ – ״טַבְיוֹמֵי״ חָתֵים. אֲמַר: מַאן חָתֵים ״טַבְיוֹמֵי״ בְּרַבָּנַן – אֲנָא; שְׁמַע מִינַּהּ לְדִידִי קָיְימָא לִי שַׁעְתָּא. קָם אֲתָא. אַדַּאֲתָא אִימְּנוֹ רַבָּנַן לְאוֹתֹבֵיהּ לְרַב אַחָא מִדִּפְתִּי בְּרֵישָׁא.
+אָמַר רַבִּי יוֹחָנָן: מִיּוֹם שֶׁחָרַב בֵּית הַמִּקְדָּשׁ, נִיטְּלָה נְבוּאָה מִן הַנְּבִיאִים וְנִיתְּנָה לַשּׁוֹטִים וְלַתִּינוֹקוֹת. לַשּׁוֹטִים – מַאי הִיא? כִּי הָא דְּמָר בַּר רַב אָשֵׁי – דַּהֲוָה קָאֵי בְּרִסְתְּקָא דְמָחוֹזָא, שַׁמְעֵיהּ לְהָהוּא שׁוֹטֶה דְּקָאָמַר: רֵישׁ מְתִיבְתָּא דְּמָלֵיךְ בְּמָתָא מַחְסֵיָא – ״טַבְיוֹמֵי״ חָתֵים. אֲמַר: מַאן חָתֵים ״טַבְיוֹמֵי״ בְּרַבָּנַן – אֲנָא; שְׁמַע מִינַּהּ לְדִידִי קָיְימָא לִי שַׁעְתָּא. קָם אֲתָא. אַדַּאֲתָא אִימְּנוֹ רַבָּנַן לְאוֹתֹבֵיהּ לְרַב אַחָא מִדִּפְתִּי בְּרֵישָׁא.
 
 
 **Rabbi Yoḥanan said: From the day that the Temple was destroyed, prophecy was taken from the prophets and given to imbeciles and children.** The Gemara explains: In **what** way was prophecy given **to imbeciles?** It was **like this** incident involving **Mar bar Rav Ashi, who was standing in the street [*beristeka*] of Meḥoza** when **he heard a certain imbecile say: The head of the yeshiva who will be appointed in Mata Meḥasya signs** his name **Tavyumei.** Mar bar Rav Ashi **said** to himself: **Who among the Sages signs** his name **Tavyumei?** Nobody but **me. Conclude from** the statement by the imbecile **that my hour has arrived,** and I will reap success in this matter. **He arose and went** to Mata Meḥasya. **By the time he arrived, the Sages** had already **decided to appoint Rav Aḥa of Difti as the head** of the yeshiva.
@@ -4164,7 +4164,7 @@ It is stated in the *baraita* that **Joshua wrote his own book.** The Gemara ask
 [https://torahapp.org/share/book/Bava%20Batra/r/15a:8](https://torahapp.org/share/book/Bava%20Batra/r/15a:8)
 
 
-שְׁמוּאֵל כָּתַב סִפְרוֹ. וְהָכְתִיב: ״וּשְׁמוּאֵל מֵת״! דְּאַסְּקֵיהּ גָּד הַחוֹזָה וְנָתָן הַנָּבִיא.
+שְׁמוּאֵל כָּתַב סִפְרוֹ. וְהָכְתִיב: ״וּשְׁמוּאֵל מֵת״! דְּאַסְּקֵיהּ גָּד הַחוֹזֶה וְנָתָן הַנָּבִיא.
 
 
 It is also stated in the *baraita* that **Samuel wrote his own book.** The Gemara asks: **But isn’t it written: “And Samuel died”** (I Samuel 28:3)? The Gemara answers: **Gad the seer and Nathan the prophet finished it.**

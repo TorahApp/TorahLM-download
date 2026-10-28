@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Torat Emet 370 (Segments: 178, License: unknown)
 
-Version (En): Mishneh Torah, trans. by Eliyahu Touger. Jerusalem, Moznaim Pub. c1986-c2007 (Segments: 178)
+Version (En): Publicado em 5784, Saymon Pires da Silva [pt] (Segments: 178)
 
 
 ## Chapter 1

@@ -14,7 +14,7 @@ Location: Halakhah/Tur/Commentary
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Tur Yoreh Deah, Vilna, 1923 (Segments: 17412, License: Public Domain)
+Version (He): Tur Orach Chaim, Vilna, 1923 (Segments: 17412, License: Public Domain)
 
 # Prisha — part 1 of 4
 
@@ -383,7 +383,7 @@ Version (He): Tur Yoreh Deah, Vilna, 1923 (Segments: 17412, License: Public Doma
 [https://torahapp.org/share/book/Prisha/s/Orach%20Chayim/r/5:1:1](https://torahapp.org/share/book/Prisha/s/Orach%20Chayim/r/5:1:1)
 
 
-ויכוין בברכותיו כירוש המלות. כתיב שויתי ה' לנגדי תמיד. עיין מ"ש הטור ע"ז בסימן צ"ח ורמ"א מ"ש ע"ז בריש סימן א' שייך בדרישה גם שייך לכאן מ"ש הטור בסוף סימן ס"א שידקדק בכל אות כו' שיפסיק ביניהן כמו ספרו בגוים כו' שלא בק"ש בלבד אמרו שצריך לדקדק אלא בכל מילי (כמ"ש הטור שם):
+ויכוין בברכותיו פירוש המלות. כתיב שויתי ה' לנגדי תמיד. עיין מ"ש הטור ע"ז בסימן צ"ח ורמ"א מ"ש ע"ז בריש סימן א' שייך בדרישה גם שייך לכאן מ"ש הטור בסוף סימן ס"א שידקדק בכל אות כו' שיפסיק ביניהן כמו ספרו בגוים כו' שלא בק"ש בלבד אמרו שצריך לדקדק אלא בכל מילי (כמ"ש הטור שם):
 
 
 ###### Prisha, Orach Chayim 6:1:1

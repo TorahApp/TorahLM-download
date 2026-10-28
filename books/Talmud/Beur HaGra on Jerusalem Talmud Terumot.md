@@ -1093,7 +1093,7 @@ Version (He): Piotrków, 1898-1900 (Segments: 653, License: Public Domain)
 [https://torahapp.org/share/book/Beur%20HaGra%20on%20Jerusalem%20Talmud%20Terumot/r/1:4:3:2](https://torahapp.org/share/book/Beur%20HaGra%20on%20Jerusalem%20Talmud%20Terumot/r/1:4:3:2)
 
 
-**ותני חזקיה בין לקרות בין לברך** פירוש דתנא קמא סבירא ליה דשייכות אסור לקרות שמע אבל בברכות שרי וחזקיה סבירא ליה דאסור הן בקריאת שמע הן בשאר ברכות:
+**ותני חזקיה בין לקרות בין לברך** פירוש דתנא קמא סבירא ליה דשייכור אסור לקרות שמע אבל בברכות שרי וחזקיה סבירא ליה דאסור הן בקריאת שמע הן בשאר ברכות:
 
 
 ###### Beur HaGra on Jerusalem Talmud Terumot 1:4:3:3

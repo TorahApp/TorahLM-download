@@ -22713,7 +22713,7 @@ Version (He): Shulhan Arukh, Hoshen ha-Mishpat; Lemberg, 1898 (Segments: 9034, L
 [https://torahapp.org/share/book/Beur%20HaGra%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/88:34](https://torahapp.org/share/book/Beur%20HaGra%20on%20Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/88:34)
 
 
-**אלא בבא לצאת י"ש ישלם חטים כמו במנה לי והלה אומר איני יודע כמ"ש בסוף ב"ק אבל השעורים ודאי א"א כיון שאינו תובעו ואפי' היה ברי לו שחייב א"צ לשלם כנ"ל סי"ב בהג"ה ואע"פ שפשט דברי הג"ה כאן אינו משמע כן וכן מקור הדין מ"מ כן עיקר ועש"ך:**
+**אלא בבא לצאת י"ש** ישלם חטים כמו במנה לי והלה אומר איני יודע כמ"ש בסוף ב"ק אבל השעורים ודאי א"א כיון שאינו תובעו ואפי' היה ברי לו שחייב א"צ לשלם כנ"ל סי"ב בהג"ה ואע"פ שפשט דברי הג"ה כאן אינו משמע כן וכן מקור הדין מ"מ כן עיקר ועש"ך:
 
 
 ###### Beur HaGra on Shulchan Arukh, Choshen Mishpat 88:35

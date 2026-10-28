@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Kol Sason, Krotoschin, 1840 (Segments: 179, License: Public Domain)
 
-Version (En): YU Torah miTzion Beit Midrash (Segments: 3)
+Version (En): Sefaria Community Translation (Segments: 3)
 
 
 ## Chapter 1

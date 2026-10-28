@@ -68,7 +68,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Obadiah/r/1:3:1](https://torahapp.org/share/book/Rashi%20on%20Obadiah/r/1:3:1)
 
 
-**שֹׁכְנִי בְחַגְוֵי סֶלַע.** סוֹמֵךְ עַל מִשְׁעֶנֶת אֲבוֹתָיו אַבְרָהָם וְיִצְחָק, וְהֵם לֹא יוֹעִילוּ לוֹ. חַגְוֵי כְּמוֹ "וְהָיְתָה אַדְמַת יְהוּדָה לְמִצְרַיִם לְחָגָּא" (ישעיהו יט:יז), ברייטיינ"א בְּלַעַ"ז. וְאַל תִּתְמַהּ עַל וָי"ו שֶׁל חַגְוֵי שֶׁהִיא כְּוָי"ו שֶׁל קְצָוֵי (תהלים סה:ו) וּכְוָי"ו שֶׁל כִּמְטַחֲוֵי (בראשית כא:טז), שֶׁאֵין יְסוֹד בַּתֵּיבָה אֶלָּא טֵי"ת וְחֵי"ת:
+**שֹׁכְנִי בְחַגְוֵי סֶלַע.** סוֹמֵךְ עַל מִשְׁעֶנֶת אֲבוֹתָיו אַבְרָהָם וְיִצְחָק, וְהֵם לֹא יוֹעִילוּ לוֹ. חַגְוֵי כְּמוֹ ״וְהָיְתָה אַדְמַת יְהוּדָה לְמִצְרַיִם לְחָגָּא״ (ישעיהו יט:יז), ברייטיינ״א בְּלַעַ״ז. וְאַל תִּתְמַהּ עַל וָי״ו שֶׁל חַגְוֵי שֶׁהִיא כְּוָי״ו שֶׁל קְצָוֵי (תהלים סה:ו) וּכְוָי״ו שֶׁל כִּמְטַחֲוֵי (בראשית כא:טז), שֶׁאֵין יְסוֹד בַּתֵּיבָה אֶלָּא טֵי״ת וְחֵי״ת:
 
 
 **who dwell in the clefts of the rock**—Who relies on the support of his ancestors, Abraham and Isaac, but they shall not avail him. **the clefts** Heb. חַגְוֵי. Cf. (Isa. 19:17) “And the land of Judah shall be to Egypt for a dread (לְחָגָּא),” *frayteyne* [or *fraite*] in O.F., a cleft of a rock. And do not wonder about the “vav” of (Gen. 21:16) “like a shot (כִּמְטַחֲוֵי) ;” in which there is no radical in the word but the “teth” and the “heth.”
@@ -118,7 +118,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Obadiah/r/1:6:1](https://torahapp.org/share/book/Rashi%20on%20Obadiah/r/1:6:1)
 
 
-**נִבְעוּ.** תַּרְגּוּם יוֹנָתָן: אִיתְגַּלְיָין, וּלְשׁוֹן אֲרָמִית נִבְעוּ נִתְבַּקְּשׁוּ, וְכֵן "אִם תִּבְעָיוּן בְּעָיוּ" (ישעיהו כא:יב):
+**נִבְעוּ.** תַּרְגּוּם יוֹנָתָן: אִיתְגַּלְיָין, וּלְשׁוֹן אֲרָמִית נִבְעוּ נִתְבַּקְּשׁוּ, וְכֵן ״אִם תִּבְעָיוּן בְּעָיוּ״ (ישעיהו כא:יב):
 
 
 **were revealed** Heb. נִבְעוּ. *Jonathan* rendered: were revealed, and it is an Aramaic expression: נִבְעוּ means “sought out.” Cf. (Isa. 21: 12) “If you will request, request (אִם תִּבְעָיוּן בְּעָיוּ).”
@@ -190,7 +190,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Obadiah/r/1:9:2](https://torahapp.org/share/book/Rashi%20on%20Obadiah/r/1:9:2)
 
 
-**לְמַעַן יִכָּרֵת.** כָּל אִישׁ גִּבּוֹר:
+**לְמַעַן יִכָּרֶת.** כָּל אִישׁ גִּבּוֹר:
 
 
 **in order that every man be cut off**—I.e, every mighty man. [from *Targum Jonathan*]
@@ -265,7 +265,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Obadiah/r/1:12:2](https://torahapp.org/share/book/Rashi%20on%20Obadiah/r/1:12:2)
 
 
-**בְּיוֹם נָכְרוֹ.** בְּיוֹם הִסְגִּירוֹ בְּיַד אוֹיֵב, הוּא הַבַּבְלִיִּים. וְכֵן הוּא אוֹמֵר בְּשָׁאוּל "נִכַּר אֹתוֹ אֱלֹהִים בְּיָדִי" (שמואל א כג:ז), הִסְגִּיר אוֹתוֹ בְּיָדִי:
+**בְּיוֹם נָכְרוֹ.** בְּיוֹם הִסְגִּירוֹ בְּיַד אוֹיֵב, הוּא הַבַּבְלִיִּים. וְכֵן הוּא אוֹמֵר בְּשָׁאוּל ״נִכַּר אֹתוֹ אֱלֹהִים בְּיָדִי״ (שמואל א כג:ז), הִסְגִּיר אוֹתוֹ בְּיָדִי:
 
 
 **on the day of his being delivered** Heb. נָכְרוֹ. On the day of his being delivered into the hands of the heathens. And so does Scripture state concerning Saul: (I Sam. 23:7) “נִכַּר אֹתוֹ אֱלֹהִים בְּיָדְי,” “He has delivered him into my hand.”
@@ -293,7 +293,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Obadiah/r/1:14:1](https://torahapp.org/share/book/Rashi%20on%20Obadiah/r/1:14:1)
 
 
-**וְאַל תַּעֲמֹד עַל הַפֶּרֶק.** מָקוֹם שֶׁהַבּוֹרְחִים יוֹצְאִים דֶּרֶךְ שָׁם לִימָּלֵט, וּבִלְשׁוֹן לַעַ"ז קוֹרְאִים אוֹתוֹ טרו"ג:
+**וְאַל תַּעֲמֹד עַל הַפֶּרֶק.** מָקוֹם שֶׁהַבּוֹרְחִים יוֹצְאִים דֶּרֶךְ שָׁם לִימָּלֵט, וּבִלְשׁוֹן לַעַ״ז קוֹרְאִים אוֹתוֹ טרו״ג:
 
 
 **And you should not have stood by the gap** Heb. הַפֶּרֶק. The place through which the escapees emerge to escape, and in French they call it “trou.” **And you should not have stood by me gap**—From here [we learn] that one may not interrupt between one paragraph and another in reading the “Shma.” [*Haggadah of Rabbi Akiva*]
@@ -318,7 +318,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Obadiah/r/1:16:2](https://torahapp.org/share/book/Rashi%20on%20Obadiah/r/1:16:2)
 
 
-**וְלָעוּ.** כְּתַרְגּוּמוֹ: וְיִסְתַּלְעֲמוּן, לְשׁוֹן מְהוּמָה וְשִׁמָּמוֹן וְטֵרוּף דַּעַת, אישטורדישו"ן בְּלַעַ"ז:
+**וְלָעוּ.** כְּתַרְגּוּמוֹ: וְיִסְתַּלְעֲמוּן, לְשׁוֹן מְהוּמָה וְשִׁמָּמוֹן וְטֵרוּף דַּעַת, אישטורדישו״ן בְּלַעַ״ז:
 
 
 **and be stunned** Heb. יְלָעוּ. As the *Targum* renders: וְיִסְתַּלְעֲמוּן, an expression of confusion, amazement, and benumbing the mind; etourdissant in French -stunning.
@@ -346,7 +346,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Obadiah/r/1:18:1](https://torahapp.org/share/book/Rashi%20on%20Obadiah/r/1:18:1)
 
 
-**כִּי ה' דִּבֵּר.** וְהֵיכָן דִּבֵּר? "וְיֵרְדְּ מִיַּעֲקֹב וְהֶאֱבִיד שָׂרִיד וְגוֹ'" (במדבר כד:יט):
+**כִּי ה׳ דִּבֵּר.** וְהֵיכָן דִּבֵּר? ״וְיֵרְדְּ מִיַּעֲקֹב וְהֶאֱבִיד שָׂרִיד וְגוֹ׳״ (במדבר כד:יט):
 
 
 **for the Lord has spoken**—Now where did He speak? (Num. 24:19) “Out of Jacob shall come a ruler, and he shall destroy him that remains in the city.” [from *Mechilta Bo* 12:16, *Pirké d’Rabbi Eliezer* ch. 37]
@@ -385,7 +385,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Obadiah/r/1:20:1](https://torahapp.org/share/book/Rashi%20on%20Obadiah/r/1:20:1)
 
 
-**וְגָלוּת הַחֵל הַזֶּה.** תִּרְגֵּם יוֹנָתָן: עַמָּא הָדֵין. הַחֵל לְשׁוֹן חַיִל, כְּמוֹ "וַיָּבֹא יְרוּשָׁלַיִם בְּחֵיל כָּבֵד" (ישעיהו לו:ב) דְּרַבְשָׁקֵה, אֶלָּא שֶׁזֶּה חָסֵר יוֹ"ד. וְיֵשׁ עוֹד לְפָרֵשׁ הַחֵל הַזֶּה - גָּלוּת הַגַּיְא הַזֶּה:
+**וְגָלוּת הַחֵל הַזֶּה.** תִּרְגֵּם יוֹנָתָן: עַמָּא הָדֵין. הַחֵל לְשׁוֹן חַיִל, כְּמוֹ ״וַיָּבֹא יְרוּשָׁלַיִם בְּחֵיל כָּבֵד״ (ישעיהו לו:ב) דְּרַבְשָׁקֵה, אֶלָּא שֶׁזֶּה חָסֵר יוֹ״ד. וְיֵשׁ עוֹד לְפָרֵשׁ הַחֵל הַזֶּה - גָּלוּת הַגַּיְא הַזֶּה:
 
 
 **And this exiled host** Heb. הַחֵל. *Jonathan* renders: This people. הַחֵל, An expression of a host. Cf. (Isa. 36:2) “And he came (sic) to Jerusalem with an army (חֵיל) of a great multitude,” which deals with Rabshakeh, only that this one is missing a “yud.” It is also possible to explain גָלֻת הַחֵל as “the exile of this valley.”
@@ -407,7 +407,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Obadiah/r/1:20:3](https://torahapp.org/share/book/Rashi%20on%20Obadiah/r/1:20:3)
 
 
-**וְגָלוּת יְרוּשָׁלַיִם אֲשֶׁר בִּסְפָרַד.** שֶׁהֵם מִבְּנֵי יְהוּדָה אֲשֶׁר גָּלוּ לִסְפָרַד, הֵם יִירְשׁוּ אֶת עָרֵי הַנֶּגֶב שֶׁבִּדְרוֹמָהּ שֶׁל אֶרֶץ יִשְׂרָאֵל. וְאוֹמְרִים הַפּוֹתְרִים: **צָרְפַת** הוּא הַמַּלְכוּת שֶׁקּוֹרִין פרנצ"א בְּלַעַ"ז. **סְפָרַד** תִּרְגֵּם יוֹנָתָן: אספמיא:
+**וְגָלוּת יְרוּשָׁלַ͏ִם אֲשֶׁר בִּסְפָרַד.** שֶׁהֵם מִבְּנֵי יְהוּדָה אֲשֶׁר גָּלוּ לִסְפָרַד, הֵם יִירְשׁוּ אֶת עָרֵי הַנֶּגֶב שֶׁבִּדְרוֹמָהּ שֶׁל אֶרֶץ יִשְׂרָאֵל. וְאוֹמְרִים הַפּוֹתְרִים: **צָרְפַת** הוּא הַמַּלְכוּת שֶׁקּוֹרִין פרנצ״א בְּלַעַ״ז. **סְפָרַד** תִּרְגֵּם יוֹנָתָן: אספמיא:
 
 
 **and the exile of Jerusalem which is in Sepharad**—who are of the people of Judah who were exiled to Sepharad - they shall inherit the cities of the southland, which are in the southern part of Eretz Israel. The exegetes claim that Zarephath is the kingdom called France in French. **Sepharad**—*Jonathan*renders: Spain.
@@ -432,7 +432,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Obadiah/r/1:21:2](https://torahapp.org/share/book/Rashi%20on%20Obadiah/r/1:21:2)
 
 
-**לִשְׁפֹּט אֶת הַר עֵשָׂו.** לִיפָּרַע מֵהַר עֵשָׂו אֲשֶׁר עָשׂוּ לְיִשְׂרָאֵל. לִשְׁפֹּט יושטיציי"ר בְּלַעַ"ז:
+**לִשְׁפֹּט אֶת הַר עֵשָׂו.** לִיפָּרַע מֵהַר עֵשָׂו אֲשֶׁר עָשׂוּ לְיִשְׂרָאֵל. לִשְׁפֹּט יושטיציי״ר בְּלַעַ״ז:
 
 
 **to judge the mountain of Esau**—to exact retribution from the mountain of Esau for what they did to Israel. **to judge** Heb. לִשְׁפֹּט. *joustiser* in O.F.
@@ -454,7 +454,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Obadiah/r/1:21:4](https://torahapp.org/share/book/Rashi%20on%20Obadiah/r/1:21:4)
 
 
-**וְהָיְתָה לַה' הַמְּלוּכָה.** לִמֶּדְךָ שֶׁאֵין מַלְכוּתוֹ שְׁלֵימָה עַד שֶׁיִּפָּרַע מֵעֲמָלֵק:
+**וְהָיְתָה לַה׳ הַמְּלוּכָה.** לִמֶּדְךָ שֶׁאֵין מַלְכוּתוֹ שְׁלֵימָה עַד שֶׁיִּפָּרַע מֵעֲמָלֵק:
 
 
 **and the Lord shall have the kingdom**—This teaches you that His kingdom will not be complete until He exacts retribution from Amalek.

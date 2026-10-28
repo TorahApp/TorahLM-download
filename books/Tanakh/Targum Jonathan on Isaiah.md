@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Mikraot Gedolot (Segments: 1291, License: Public Domain)
 
-Version (En): London "Chaldee Paraphrase," 1871 (Segments: 1291)
+Version (En): The Chaldee Paraphrase on the Prophet Isaiah, 1871 - revised (Segments: 1291)
 
 
 ## Chapter 1
@@ -29,7 +29,7 @@ Version (En): London "Chaldee Paraphrase," 1871 (Segments: 1291)
 נְבוּאַת יְשַׁעְיָה בַר אָמוֹץ דְאִתְנַבֵּי עַל אֱנַשׁ יְהוּדָה וְיָתְבֵי יְרוּשְׁלֵם בִּימֵי עֻזִיָה יוֹתָם אָחָז יְחִזְקִיָהוּ מַלְכַיָא דְבֵית יְהוּדָה:
 
 
-The Prophecy Of Isaiah, The Son Of Amoz, Which Is Prophesied Concerning The Men Of Judah And The Inhabitants Of JeruSalem, In The Days Of Uzziah, Jotham, Ahaz, And Hezekiah, The Kings Of The House Of JUDAH
+The Prophecy Of Isaiah, The Son Of Amoz, Which Is Prophesied Concerning The Men Of Judah And The Inhabitants Of JeruSalem, In The Days Of Uzziah, Jotham, Ahaz, And Hezekiah, The Kings Of The House Of JUDAH.
 
 
 ###### Targum Jonathan on Isaiah 1:2
@@ -73,7 +73,7 @@ Woe to those who are called a holy people, because they have sinned; a chosen co
 לָא מִסְתַּכְּלִין לְמֵימָר עַל מָה לָקַנָא עוֹד מוֹסְפִין לְמֶחְטֵי וְלָא אָמְרִין מָה דֵין כָּל רֵישׁ מְרַע וְכָל לֵב דַוָי:
 
 
-They do not consider so as to say, Wherefore has He smitten us? They continue in sin;' they do not say, Why is all the head sick, and the whole heart faint?
+They do not consider so as to say, Wherefore has He smitten us? They continue in sin; they do not say, Why is all the head sick, and the whole heart faint?
 
 
 ###### Targum Jonathan on Isaiah 1:6
@@ -395,7 +395,7 @@ And it shall come to pass in the end of days, that the mountain of the house of 
 יִיהָבוּן עַמְמִין סַגִיאִין וְיֵמְרוּן אֱתוֹ וְנִסַק לְטוּר בֵּית מַקְדְשָׁא דַייָ לְבֵית שִׁכְנַת אֱלָהֵיהּ דְיַעֲקֹב וְיַלְפִינָנָא מֵאוֹרְחָן דְתַקְנָן קֳדָמוֹהִי וּנְהַךְ בְּאוּלְפַן אוֹרַיְתֵיהּ אֲרֵי מִצִיוֹן תִּפּוֹק אוֹרַיְתָא וְאוּלְפָן פִּתְגָמָא דַייָ מִירוּשְׁלֶם:
 
 
-And many people shall go and say, Come ye, and let us go up to the mountain of the house of the sanctuary of the Lord, to the house of the Shekinah of the God of Jacob ; and He will teach us of His ways, which are right before Him, and we will walk in the instruction of His law; for out of Zion shall go forth the law, and the instruction of the word of the Lord from Jerusalem.
+And many people shall go and say, Come ye, and let us go up to the mountain of the house of the sanctuary of the Lord, to the house of the Shekinah of the God of Jacob; and He will teach us of His ways, which are right before Him, and we will walk in the instruction of His law; for out of Zion shall go forth the law, and the instruction of the word of the Lord from Jerusalem.
 
 
 ###### Targum Jonathan on Isaiah 2:4
@@ -739,7 +739,7 @@ Woe to the wicked, whose works are evil; because the reward of their hands shall
 עַמִי דְסִרְכוֹהִי בַזְזְהוֹי כִמְעַלְלֵי לְכַרְמָא וּכְמָרֵי חוֹבָא שַׁלִיטוּ בֵּיהּ עַמִי מְשַׁבְּחָךְ אַטְעֲיוּךְ וְאוֹרַח שְׁבִילָךְ קִלְקִילוּ:
 
 
-As for my people, their oppressors plunder them, as those who glean the vineyard; and as usurers they rule over them. 0 my people, those that call thee blessed cause thee to err; and the way of thy path they have perverted.
+As for my people, their oppressors plunder them, as those who glean the vineyard; and as usurers they rule over them. O my people, those that call thee blessed cause thee to err; and the way of thy path they have perverted.
 
 
 ###### Targum Jonathan on Isaiah 3:13
@@ -998,7 +998,7 @@ I sanctified them, and I made them glorious, I propped them up as a precious vin
 נְבִיָא אֲמַר לְהוֹן הָא בֵית יִשְׂרָאֵל מְרָדוּ מִן אוֹרַיְתָא וְלָא צָבָן לְמֵיתַב כְּעַן יַתְבֵי יְרוּשְׁלֵם וֶאֱנַשׁ יְהוּדָה דִינוּ כְעַן דִינָא קֳדָמַי מִן עַמִי:
 
 
-The prophet said unto them: They have revolted from the law, and are not willing to return. Now, 0 inhabitants of Jerusalem, and men of Judah, judge now a judgment between me and my people.
+The prophet said unto them: They have revolted from the law, and are not willing to return. Now, O inhabitants of Jerusalem, and men of Judah, judge now a judgment between me and my people.
 
 
 ###### Targum Jonathan on Isaiah 5:4
@@ -3390,7 +3390,7 @@ In the year that king Ahaz died was the burden of this prophecy.
 לָא תֵיחְדוּן פְּלִשְׁתָּאֵי כּוּלְכוֹן אֲרֵי אִתְּבַּר שׁוּלְטַן דַהֲוָה מַפְלַח בְּכוֹן אֲרֵי מִבְּנֵי בְנוֹהִי דְיִשָׁי יִפּוֹק מְשִׁיחָא וִיהוֹן עוֹבָדוֹהִי בְּכוֹן כְּחֵיוֵי מַפְרִיחַ:
 
 
-Rejoice not, 0 Philistia, all of ye, because the government that hath made you servile is broken; because from the children of Jesse shall come forth the Messiah, and his works among you shall be as a flying serpent.
+Rejoice not, O Philistia, all of ye, because the government that hath made you servile is broken; because from the children of Jesse shall come forth the Messiah, and his works among you shall be as a flying serpent.
 
 
 ###### Targum Jonathan on Isaiah 14:30
@@ -5439,7 +5439,7 @@ My soul desireth to pray before thee in the night; yea, my spirit within me is b
 יְהַבְתָּא לְהוֹן אַרְכָּא לְרַשִׁיעַיָא אִם יְתוּבוּן לְאוֹרַיְתָךְ וְלָא תָבוּ כָּל יוֹמִין דַהֲווֹ קַיָמִין יַעְבְּדוּן קְשׁוֹט עַל אַרְעָא חֲווֹ שַׁקָרִין אַף אִינוּן לָא יֶחֱזוּן בְּתוּשְׁבְּחַת יְקָרָךְ יְיָ:
 
 
-Thou hast granted unto the wicked continuance, that verily they should return to the law; but they did not return, all the days that they lived ;—that they should practise truth in the earth, but they dealt falsely: yea, they will not regard the praise of thy glory, O Lord!
+Thou hast granted unto the wicked continuance, that verily they should return to the law; but they did not return, all the days that they lived;—that they should practise truth in the earth, but they dealt falsely: yea, they will not regard the praise of thy glory, O Lord!
 
 
 ###### Targum Jonathan on Isaiah 26:11
@@ -7165,7 +7165,7 @@ The prophet said, The just shall live in it, every one who walketh in righteousn
 הוּא בַּאֲתַר רָם וּמְנַטֵל יְהֵי בֵית מַשְׁרוֹהִי בֵּית מַקְדְשָׁא תִּסְבַּע נַפְשֵׁיהּ מְזוֹנֵהּ מַסְפַּק מוֹהִי קַיָמִין כְּמַבּוּעַ דְמַיִין דְלָא פָּסְקִין מוֹהִי:
 
 
-The house of his inhabitation shall be in a high and exalted place; in the house of the sanctuary shall his soul be satisfied ; his food shall be sufficient; his waters shall continue; like a fountain of water, whose waters fail not.
+The house of his inhabitation shall be in a high and exalted place; in the house of the sanctuary shall his soul be satisfied; his food shall be sufficient; his waters shall continue; like a fountain of water, whose waters fail not.
 
 
 ###### Targum Jonathan on Isaiah 33:17
@@ -7743,7 +7743,7 @@ Hearken not to Hezekiah: for thus saith the king of Assyria, Make peace with me,
 [https://torahapp.org/share/book/Targum%20Jonathan%20on%20Isaiah/r/36:17](https://torahapp.org/share/book/Targum%20Jonathan%20on%20Isaiah/r/36:17)
 
 
-עַד מֵיתָא וְאֶדְבַּר יַתְכוֹן לְאַרְעָא טָבָא כְּאַרְעָכוֹן לְאַרְעָא טָבָא כְּאַרְעָכוֹן אֲרַע עִבּוּר וַחֲמַר אֲרַע חֶקְלִין וְכַרְמִין:
+עַד מֵיתָא וְאֶדְבַּר יַתְכוֹן לְאַרְעָא טָבָא כְּאַרְעָכוֹן אֲרַע עִבּוּר וַחֲמַר אֲרַע חֶקְלִין וְכַרְמִין:
 
 
 Until I come and take you away to a good land like your own land, a land of corn and wine, a land of fields and vineyards.
@@ -8899,7 +8899,7 @@ And the wicked youths shall be fatigued and shall be weary; and the impious youn
 [https://torahapp.org/share/book/Targum%20Jonathan%20on%20Isaiah/r/40:31](https://torahapp.org/share/book/Targum%20Jonathan%20on%20Isaiah/r/40:31)
 
 
-וּדְסַבָּרוּ לְפוּרְקָנָא דַייָ יִתְכַּנְשׁוּן מִבֵּינֵי גָלוּתְהוֹן וְיוֹסְפוּן חֵיל וְיִתְחַדְתּוּן לְעוּלֵימַתְהוֹן כְּצִימוּחַ דְסָלֵיק עַל גַדְפֵי נִשְׁרִין יְרַהֲטוּן וְלָא יִלְאוּן יַהֲכוּן וְלָא וְלָא יִשְׁתַּלְהוּן:
+וּדְסַבָּרוּ לְפוּרְקָנָא דַייָ יִתְכַּנְשׁוּן מִבֵּינֵי גָלוּתְהוֹן וְיוֹסְפוּן חֵיל וְיִתְחַדְתּוּן לְעוּלֵימַתְהוֹן כְּצִימוּחַ דְסָלֵיק עַל גַדְפֵי נִשְׁרִין יְרַהֲטוּן וְלָא יִלְאוּן יַהֲכוּן וְלָא יִשְׁתַּלְהוּן:
 
 
 But they that hope for the salvation of the Lord shall be gathered together from the midst of their captivity, and shall increase their strength, and their youth shall be renewed like the sprout that springeth up: they shall hasten upon the wings of eagles, and not be weary; they shall walk, and not faint.
@@ -9260,7 +9260,7 @@ He shall not cry aloud, nor raise a clamour, and he shall not lift up his voice 
 עִנְוְתָנַיָא דְאִינוּן דָמָן לְקַנְיָא רְעִיעַ לָא יִתַּבְּרוּן וַחֲשִׁיכַיָא דִכְבוּצִין עַמִי לָא יִטְפוּן לְקוּשְׁטָא יַפֵיק דִינָא:
 
 
-The meek who are like a bruised reed He shall not break,; and the poor who are as a glimmering wick with him, he will not quench: he shall bring forth judgment unto truth.
+The meek who are like a bruised reed He shall not break; and the poor who are as a glimmering wick with him, he will not quench: he shall bring forth judgment unto truth.
 
 
 ###### Targum Jonathan on Isaiah 42:4
@@ -9458,7 +9458,7 @@ Ye see many things, but ye observe not; having your ears opened, but ye receive 
 יְיָ רָעֵי בְּדִיל לְזַכָּאוּתֵהּ יִשְׂרָאֵל וְרַבֵּי לְעָבְדֵי אוֹרַיְתֵהּ וְיַתְקֵיף יַתְהוֹן:
 
 
-The Lord delights in justifying Israel ; He will magnify those that obey His law, yea, He will strengthen them.
+The Lord delights in justifying Israel; He will magnify those that obey His law, yea, He will strengthen them.
 
 
 ###### Targum Jonathan on Isaiah 42:22
@@ -9725,7 +9725,7 @@ Behold, I make a new thing, and now it shall be revealed: and will ye not know i
 יְיַקְרוּן קֳדָמַי כַּד אַיְתֵב מְדִינָן דְצַדְיָן אֲתַר דַהֲוָאָה שָׁרְיָן יְרוּדִין וּבְנָת נַעֲמִין אֲרֵי יְהָבִית בְּמַדְבְּרָא מַיָא נַהֲרִין בְּצַדְיוּתָא לְאַשְׁקָאָה גַלְוַת עַמִי דְאִתְרְעֵיתִי בָהּ:
 
 
-They shall honour me, when I make habitable provinces at the desert, and the places where the dragons and the daughters of the ostrich dwell ; because I will give water in the wilderness, rivers in the desert, to give drink to the captives of my people, in whom I delight.
+They shall honour me, when I make habitable provinces at the desert, and the places where the dragons and the daughters of the ostrich dwell; because I will give water in the wilderness, rivers in the desert, to give drink to the captives of my people, in whom I delight.
 
 
 ###### Targum Jonathan on Isaiah 43:21
@@ -10058,7 +10058,7 @@ Remember these things, O Jacob and Israel; for thou art my servant: I have forme
 מְחֵיתִי כְעֵיבָא חוֹבָךְ וְכַעֲנָן עֲדֵי כָּל חֶטְאָךְ תּוּב לְפוּלְחָנִי אֲרֵי פְרַקְתָּךְ:
 
 
-I have blotted out, as a thick cloud, thy transgressions, and as a cloud vanisheth away, all thy sins : return to my worship, for I have redeemed thee.
+I have blotted out, as a thick cloud, thy transgressions, and as a cloud vanisheth away, all thy sins: return to my worship, for I have redeemed thee.
 
 
 ###### Targum Jonathan on Isaiah 44:23
@@ -10069,7 +10069,7 @@ I have blotted out, as a thick cloud, thy transgressions, and as a cloud vanishe
 שַׁבַּחוּ שְׁמַיָא אֲרֵי עֲבַד יְיָ פוּרְקַן לְעַמֵהּ יַבִּיבוּ יְסוֹדֵי אַרְעָא בּוּעוּ טוּרַיָא תּוּשְׁבַּחְתָּא חוּרְשָׁא וְכָל אִילָנַיָא דְבֵהּ אֲרֵי פְרַק יְיָ יַעֲקֹב וּבְיִשְׂרָאֵל יִשְׁתַּבַּח:
 
 
-Sing, O ye heavens; for the Lord hath wrought redemption for His people: Let the foundations of the earth rejoice; rejoice, 0 mountains, in praise, O forest, and all the trees therein! for the Lord hath redeemed Jacob, and will glorify Himself in Israel.
+Sing, O ye heavens; for the Lord hath wrought redemption for His people: Let the foundations of the earth rejoice; rejoice, O mountains, in praise, O forest, and all the trees therein! for the Lord hath redeemed Jacob, and will glorify Himself in Israel.
 
 
 ###### Targum Jonathan on Isaiah 44:24
@@ -10149,7 +10149,7 @@ Thus saith the Lord to His anointed, to Cyrus, whom I hold firm by his right han
 מֵימְרִי קֳדָמָךְ יְהָךְ וְשׁוּרַיָא אֲכַבֵּשׁ דָשִׁין דִנְחָשׁ אֱתַּבֵר וְעַבְרִין דְבַרְזֶל אֲקַצֵץ:
 
 
-My WORD shall go before thee, I will have a way in the plains ;I will break in pieces the doors of brass, and cut in sunder the bars of iron.
+My WORD shall go before thee, I will have a way in the plains;I will break in pieces the doors of brass, and cut in sunder the bars of iron.
 
 
 ###### Targum Jonathan on Isaiah 45:3
@@ -10413,7 +10413,7 @@ In the WORD of the Lord all the seed of Israel shall be justified and glorified.
 [https://torahapp.org/share/book/Targum%20Jonathan%20on%20Isaiah/r/46:1](https://torahapp.org/share/book/Targum%20Jonathan%20on%20Isaiah/r/46:1)
 
 
-חֲמִיט בַּל אִתְקְטֵף נְבוֹ הֲווֹ צַלְמָנֵיהוֹן דְמוּת חֵיוָא וּבְעִירָא מַטוּלֵי טַעֲוָתְהוֹן יַקִירִין עַל נָטְלֵיהוֹן וְאִנוּן מְשַׁלְהַיָן:
+חֲמִיט בֵּל אִתְקְטֵף נְבוֹ הֲווֹ צַלְמָנֵיהוֹן דְמוּת חֵיוָא וּבְעִירָא מַטוּלֵי טַעֲוָתְהוֹן יַקִירִין עַל נָטְלֵיהוֹן וְאִנוּן מְשַׁלְהַיָן:
 
 
 Bel is bowed down, Nebo is cut down. Their images are in the likeness of serpents and beasts. The burdens of your idols shall be heavy upon those who carry them; because they be exhausted
@@ -10716,7 +10716,7 @@ Behold, they shall be weak as stubble. The nations which are as strong as fire s
 כֵּן הֲווֹ בִיךְ עוֹבָדֵי שְׁקָרַיִךְ דַהֲוֵית מִתְעַסְקָא בְּהוֹן מִיַנְקוּתִיךְ שִׁלְטוֹנַי תּוּקְפִיךְ גְבַר לָקֳבֵיל אַפּוֹהִי גְלוּ לֵית דְפָרִיק לִיךְ:
 
 
-Thus shall the workers of thy lies be in thee, with whom thou wast occupied from thy youth; the princes of thy power, shall go into captivity; each one straight before his face,: none shall save thee.
+Thus shall the workers of thy lies be in thee, with whom thou wast occupied from thy youth; the princes of thy power, shall go into captivity; each one straight before his face; none shall save thee.
 
 
 
@@ -10983,7 +10983,7 @@ Listen, O isles, unto my WORD, and hearken, O kingdoms, from afar; the Lord call
 [https://torahapp.org/share/book/Targum%20Jonathan%20on%20Isaiah/r/49:2](https://torahapp.org/share/book/Targum%20Jonathan%20on%20Isaiah/r/49:2)
 
 
-וְשַׁוִי פִּתְגָמוֹהִי בְּפוּמִי כַּחֲרַב חֲרִיפָא בִּטְלַל גְבוּרְתֵּהּ אָגִין עָלַי וְשַׁוְיַנִי כְּגִיר בְּחיר דִי בְּבֵית אֲזֵינִין מִסַתָּר:
+וְשַׁוִי פִּתְגָמוֹהִי בְּפוּמִי כַּחֲרַב חֲרִיפָא בִּטְלַל גְבוּרְתֵּהּ אָגִין עָלַי וְשַׁוְיַנִי כְּגִיר בְּחִיר דִי בְּבֵית אֲזֵינִין מִסַתָּר:
 
 
 And he hath put His words in my mouth like a sharp sword; in the shadow of His power hath He protected me, and He hath made me like a choice arrow, which is hidden in the quiver.
@@ -11041,7 +11041,7 @@ And He said, Is it too little for you that ye should be called my servants, to r
 כִּדְנַן אֲמַר יְיָ פַּרְקֵהּ דְיִשְׂרָאֵל קַדִישֵׁהּ לְדִבְּסִירִין בֵּינֵי עַמְמַיָא לְדִמְטַלְטְלִין בֵּינֵי מַלְכְּוָתָא לִדְהֲווֹ עָבְדִין לְשִׁלְטוֹנִין לְהוֹן מַלְכִין יֶחְזוּן וִיקוּמוּן רַבְרְבִין וְיִסְגְדוּן בְּדִיל יְיָ דִמְהֵימָן קַדִישָׁא דְיִשְׂרָאֵל וְאִתְרְעֵי בָךְ:
 
 
-Thus saith the Lord, the Redeemer of Israel, and His Holy One, to them that are despised among the nations, to them that are scattered among the kingdoms, to them that are the servants to rulers : Kings shall look at them; and princes shall rise and fall prostrate, because of the Lord that is faithful, and the Holy One of Israel, and He shall delight in thee.
+Thus saith the Lord, the Redeemer of Israel, and His Holy One, to them that are despised among the nations, to them that are scattered among the kingdoms, to them that are the servants to rulers: Kings shall look at them; and princes shall rise and fall prostrate, because of the Lord that is faithful, and the Holy One of Israel, and He shall delight in thee.
 
 
 ###### Targum Jonathan on Isaiah 49:8
@@ -11319,7 +11319,7 @@ The Lord God hath sent me to prophesy, and I did not refuse, neither turned away
 גַבֵּי יְהָבֵית לְמָחָן וְלִיסְתֵּי לְמָרְטָן אַפִּי לָא טַמְרֵית מֵאִתְכְּנָעוּ וָרוֹק:
 
 
-I gave my back to the smiters, and I my cheeks to them that plucked off the hair : I hid not my face from shame and spitting.
+I gave my back to the smiters, and I my cheeks to them that plucked off the hair: I hid not my face from shame and spitting.
 
 
 ###### Targum Jonathan on Isaiah 50:7
@@ -11330,7 +11330,7 @@ I gave my back to the smiters, and I my cheeks to them that plucked off the hair
 וַיָי אֱלֹהִים סָעִיד לִי עַל כֵּן לָא אִתְכְּנָעִית עַל כֵּן שַׁוֵיתִי אַפִּי תַקִיפִין כְּטִינָרָא וְיָדַעֲנָא אֲרֵי לָא אִתְבְּהֵית:
 
 
-The Lord God is my helper, therefore shall I not be confounded : therefore have I set my face strong as a rock, and I know that I shall not be confounded.
+The Lord God is my helper, therefore shall I not be confounded: therefore have I set my face strong as a rock, and I know that I shall not be confounded.
 
 
 ###### Targum Jonathan on Isaiah 50:8
@@ -11823,7 +11823,7 @@ Who hath believed this our report? and to whom is now the power of the arm of th
 וְיִתְרְבָא צַדִיקָא קֳדָמוֹהִי הָא כְלַבְלְבִין דְפָרְחִין וּכְאִילָן דִמְשַׁלַח שׁוֹרְשׁוֹהִי עַל נַגְדִין דְמַיִין כֵּן יִסְגוֹן תּוּלְדַת קוּדְשָׁא בְּאַרְעָא דַהֲוַת צְרִיכָא לֵיהּ לָא חִיזוּ חוּלָא חֶזְוֵיהּ וְלָא אֵימְתֵהּ אֵימַת הֶדְיוֹט וִיהֵי זִיו קוּדְשָׁא זִיוֵיהּ דְכָל דְיַחְזִינֵיהּ יִסְתַּכֵּל בֵּיהּ:
 
 
-The righteous shall be great before him, behold, like branches that bud; and like a tree which sends forth its roots by the streams of water, thus shall the generation of the just multiply in the land, which hath need of him.
+The righteous shall be great before him, behold, like branches that bud; and like a tree which sends forth its roots by the streams of water, thus shall the generation of the just multiply in the land, which hath need of him. His visage shall not be the visage of a common person, neither his fear the fear of a plebeian; but a holy brightness shall be his brightness, that every one who seeth him shall contemplate him.
 
 
 ###### Targum Jonathan on Isaiah 53:3
@@ -11834,7 +11834,7 @@ The righteous shall be great before him, behold, like branches that bud; and lik
 בְּכֵן יְהֵי לְבוּסְרָן וְיִפְסִיק יְקָר כָּל מַלְכְּוָתָא יְהוֹן חֲלָשִׁין וְדָוָן הָא כֶּאֱנַשׁ כֵּיבִין וּמְזוּמַן לְמַרְעִין וּכְמָא דַהֲוַת מְסַלְקָא אַפֵּי שְׁכִנְתָּא מִנָנָא בְסִירִין וְלָא חֲשִׁיבִין:
 
 
-His visage shall not be the visage of a common person, neither his fear the fear of a plebeian; but a holy brightness shall be his brightness, that every one who seeth him shall contemplate him. Although he shall be in contempt; yet he shall cut off the glory of all the wicked, they shall be weak and wretched. Lo, we are in contempt and not esteemed, as a man of pain and appointed to sickness, and as if He had removed the face of His Shekinah from us.
+Although he shall be in contempt; yet he shall cut off the glory of all the wicked, they shall be weak and wretched. Lo, we are in contempt and not esteemed, as a man of pain and appointed to sickness, and as if He had removed the face of His Shekinah from us.
 
 
 ###### Targum Jonathan on Isaiah 53:4
@@ -12908,7 +12908,7 @@ Therefore is judgment removed far from us, and the least righteousness does not 
 נְמַשְׁמֵשׁ כְּסָמָן כּוּתְלִין וְכִדְלֵית לְהוֹן עַיְנִין נְמַשְׁמֵשׁ אִתְקֵילָנָא בְטִיהֲרָא כְּמָא דְמִתַּקְלִין בְּקִבְלָא אִתְאֲחַד בְּאַפָּנָא כְּמָא דַאֲחִידִין קִבְרַיָא בְּאַפֵּי מֵתַיָא:
 
 
-We grope for the wall like the blind, and we grope as if we had no eyes : we stumble at noonday as those that stumble in the dark; it is shut up before graves are shut up before the dead.
+We grope for the wall like the blind, and we grope as if we had no eyes: we stumble at noonday as those that stumble in the dark; it is shut up before graves are shut up before the dead.
 
 
 ###### Targum Jonathan on Isaiah 59:11
@@ -13164,7 +13164,7 @@ Thy gates shall be open continually; they shall not be shut day nor night; that 
 אֲרֵי עַם וּמַלְכוּ דְלָא יִפְלְחוּנִיךְ יְרוּשְׁלֵם יֵיבְדוּן וְעַמְמַיָא אִשְׁתֵּיצָאָה יִשְׁתֵּיצוּן:
 
 
-For the nation and kingdom that will not serve thee, 0 Jerusalem, shall perish; yea, those nations shall be utterly destroyed.
+For the nation and kingdom that will not serve thee, O Jerusalem, shall perish; yea, those nations shall be utterly destroyed.
 
 
 ###### Targum Jonathan on Isaiah 60:13
@@ -13511,7 +13511,7 @@ But they that gather the corn, they shall eat it, and offer praise before the Lo
 אֲמַר נְבִיָא עֲבָרוּ וְתוּבוּ בְּתַרְעַיָא אַפְנוֹ לֵב עַמָא לְאוֹרַח תַּקְנָא בַּסְרוּ בְּשׂוּרָן טָבָן וְנֶחָמָן לְצַדִיקַיָא דִסְלִיקוּ הִירְהוּר יִצְרָא דְהוּא כְּאֶבֶן תַּקְלָא אֲרִימוּ אָתָא עַל עַמְמַיָא:
 
 
-O prophets, pass through and return through the gates; turn the heart of the people into the right way; bring good tidings of good things, and consolations to the righteous, who remove the thoughts of an evil imagination, which are like a stone of stumbling; lift up a standard “ for the people.
+O prophets, pass through and return through the gates; turn the heart of the people into the right way; bring good tidings of good things, and consolations to the righteous, who remove the thoughts of an evil imagination, which are like a stone of stumbling; lift up a standard for the people.
 
 
 ###### Targum Jonathan on Isaiah 62:11
@@ -13533,7 +13533,7 @@ Behold, the Lord hath proclaimed unto the ends of the world, Say ye to the congr
 וְיִקְרוֹן לְהוֹן עַמָא דְקוּדְשָׁא פְּרִיקַיָא דַייָ וְלִיךְ יִתְקְרֵי תְבִיעֲתָא קַרְתָּא דְלָא אִתְרְחָקַת:
 
 
-And they shall call them, The holy people, The redeemed of the Lord: and thou shalt be called Teviātha, (i. e. "Sought out"), A city not forsaken.”
+And they shall call them, The holy people, The redeemed of the Lord: and thou shalt be called Teviātha, (i.e. "Sought out"), A city not forsaken.”
 
 
 
@@ -14037,7 +14037,7 @@ Behold, my righteous servants shall sing for joy of heart, but ye shall cry for 
 וְתִשְׁבְּקוּן שׁוּמְכוֹן לְקַיָמָא לִבְחִירִי וִימִיתְכוֹן יְיָ אֱלֹהִים מוֹתָא תִנְיָנָא וּלְעַבְדוֹהִי צַדִיקַיָא יִקְרֵי שְׁמָא אוֹחֲרָנָא:
 
 
-And ye shall leave your name for a curse to my chosen: for the Lord God shall slay you with the second death, 10 and call His righteous servants by another name:
+And ye shall leave your name for a curse to my chosen: for the Lord God shall slay you with the second death, and call His righteous servants by another name:
 
 
 ###### Targum Jonathan on Isaiah 65:16
@@ -14183,7 +14183,7 @@ For all these things my power hath made, and have not all these things been? sai
 נָכֵיס תּוֹרָא כְּקָטִיל גְבַר דָבַח אִימַר כְּנָקֵיף כְּלֵב מַסְקֵי קוּרְבַּן דַם חֲזִירָא קוּרְבַּן מַתְּנַתְהוֹן מַתְּנַת אוֹנָס אַף אִינוּן אִתְרְעִיאוּ בְּאוֹרְחַתְהוֹן וּבְשִׁיקוּצֵיהוֹן נַפְשֵׁהוֹן אִתְרְעִיאַת:
 
 
-He that killeth an ox is as if he slew a man; he that sacrificeth a lamb, as if he cut off a dog's neck; he that offereth an oblation,”as if he offered swine's blood ; the offering of their gifts is the gift of violence. Yea, they delight in their paths, and their soul findeth pleasure in their abominations.
+He that killeth an ox is as if he slew a man; he that sacrificeth a lamb, as if he cut off a dog's neck; he that offereth an oblation, as if he offered swine's blood; the offering of their gifts is the gift of violence. Yea, they delight in their paths, and their soul findeth pleasure in their abominations.
 
 
 ###### Targum Jonathan on Isaiah 66:4

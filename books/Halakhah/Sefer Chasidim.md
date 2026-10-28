@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Sefer Chassidim, Zhitomir, 1857 (Segments: 1175, License: Public Domain)
 
-Version (En): Medieval Jewish mysticism, translated by Sholom Alchanan Singer. Northbrook, Ill. Whitehall Co., 1971 (Segments: 226)
+Version (En): Sefaria Community Translation (Segments: 226)
 
 
 ## Siman 1

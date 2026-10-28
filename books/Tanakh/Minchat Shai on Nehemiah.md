@@ -1347,7 +1347,7 @@ Version (He): Minchat Shai (Segments: 195, License: Public Domain)
 [https://torahapp.org/share/book/Minchat%20Shai%20on%20Nehemiah/r/10:32:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Nehemiah/r/10:32:1)
 
 
-**המביאים.** במדוייקים קלה המ"ם וההה"א במאריך:
+**המביאים.** במדוייקים קלה המ"ם והה"א במאריך:
 
 
 ###### Minchat Shai on Nehemiah 10:32:2

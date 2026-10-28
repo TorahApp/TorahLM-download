@@ -14,9 +14,9 @@ Location: Tanakh/Rishonim on Tanakh/Rashi/Torah
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934 (Segments: 1332, License: Public Domain)
+Version (He): Rashi Chumash, Metsudah Publications, 2009 (Segments: 1332, License: CC-BY)
 
-Version (En): Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934 (Segments: 1331)
+Version (En): Sefaria Community Translation (Segments: 1331)
 
 
 ## Chapter 1
@@ -12441,7 +12441,7 @@ AND THOU SHALT HONOR THE FACE OF THE OLD — What does the term "honoring” an 
 [https://torahapp.org/share/book/Rashi%20on%20Leviticus/r/23:16:4](https://torahapp.org/share/book/Rashi%20on%20Leviticus/r/23:16:4)
 
 
-**מנחה חדשה.** הִיא הַמִּנְחָה הָרִאשׁוֹנָה שֶׁהוּבְאָה מִן הֶחָדָשׁ, וְאִ"תֹּ הֲרֵי קָרְבָה מִנְחַת הָעֹמֶר אֵינָהּ כִּשְׁאָר כָּל הַמְּנָחוֹת, שֶׁהִיא בָאָה מִן הַשְּׂעוֹרִים (מנחות י"ד):
+**מנחה חדשה.** הִיא הַמִּנְחָה הָרִאשׁוֹנָה שֶׁהוּבְאָה מִן הֶחָדָשׁ, וְאִ"תֹּ הֲרֵי קָרְבָה מִנְחַת הָעֹמֶר אֵינָהּ כִּשְׁאָר כָּל הַמְּנָחוֹת, שֶׁהִיא בָאָה מִן הַשְּׂעוֹרִים (מנחות פ"ד):
 
 
 מנחה חדשה A NEW MEAL OFFERING — It was the first meal-offering that was offered from the new crop. And if you ask, “But surely the meal-offering of the Omer has already been offered on the 16th of Nisan”?! Then I reply: It (the Omer) was not like all the other meal-offerings — which, with one exception (cf. Numbers 5:15), were all brought of wheat — since it was brought of barley and therefore it is not taken into account (cf. Menachot 84b).
@@ -13291,7 +13291,7 @@ AND THOU SHALT HONOR THE FACE OF THE OLD — What does the term "honoring” an 
 **ומכה אדם יומת.** אֲפִלּוּ לֹא הֲרָגוֹ אֶלָּא עָשָׂה בוֹ חַבּוּרָה, שֶׁלֹּא נֶאֱמַר כָּאן נֶפֶשׁ; וּבְמַכֵּה אָבִיו וְאִמּוֹ דִּבֵּר הַכָּתוּב, וּבָא לְהַקִּישׁוֹ לְמַכֵּה בְהֵמָה, מַה מַּכֵּה בְהֵמָה מֵחַיִּים, אַף מַכֵּה אָבִיו מֵחַיִּים, פְּרָט לְמַכֶּה לְאַחַר מִיתָה; לְפִי שֶׁמָּצִינוּ שֶׁהַמְקַלְּלוֹ לְאַחַר מִיתָה חַיָּב, הֻצְרַךְ לוֹמַר בַּמַּכֶּה שֶׁפָּטוּר, וּמַה בִּבְהֵמָה בְּחַבָּלָה, שֶׁאִם אֵין חַבָּלָה אֵין תַּשְׁלוּמִין, אַף מַכֵּה אָבִיו אֵינוֹ חַיָּב עַד שֶׁיַּעֲשֶֹה בוֹ חַבּוּרָה (ספרא; סנהדרין פ"ד):
 
 
-ומכה אדם יומת AND HE THAT SMITETH A MAN SHALL BE PUT TO DEATH — although he has not killed him but only inflicted a wound upon him, because Scripture does not state מכה] נפש] (as it does in v. 17 which implies “smiting of the soul” — killing). Scripture is speaking here of one who smites his father or his mother when he is punishable with death for mere smiting without fatal result (cf. Rashi on Exodus 21:15). It is true that the punishment for this offence has already been stated (Exodus 24:17) but Scripture intends by putting this case in juxtaposition with מכה בהמה to put it in some respect on a level with the case of one who smites a beast. How is it in the case of one who smites a beast? He is subject to the law only if he smote it while it was alive! So, too, is one who smites his father (or his mother) punishable only if he smites them whilst they are alive, thus excluding from the death penalty one who smites them after their death. Because we find that he who curses him (the father; — the same applies to the mother) after death is liable to the death penalty (cf. Rashi Leviticus 20:9), Scripture was compelled to state with reference to one who smites his parents that he is exempt from the death penalty if he does this after their death (as stated above). And there is another point of comparison: How is it in the case of a beast? The law speaks only of smiting resulting in a wound! — for if there is no wound resulting no compensation can be claimed — so, too, he who smites his father is not liable to the death penalty unless he inflicts a wound upon him (Sifra, Emor, Chapter 19 8; Sanhedrin 84a, 85b).
+ומכה אדם יומת AND HE THAT SMITETH A MAN SHALL BE PUT TO DEATH — although he has not killed him but only inflicted a wound upon him, because Scripture does not state מכה] נפש] (as it does in v. 17 which implies “smiting of the soul” — killing). Scripture is speaking here of one who smites his father or his mother when he is punishable with death for mere smiting without fatal result (cf. Rashi on Exodus 21:15). It is true that the punishment for this offence has already been stated (Exodus 21:17) but Scripture intends by putting this case in juxtaposition with מכה בהמה to put it in some respect on a level with the case of one who smites a beast. How is it in the case of one who smites a beast? He is subject to the law only if he smote it while it was alive! So, too, is one who smites his father (or his mother) punishable only if he smites them whilst they are alive, thus excluding from the death penalty one who smites them after their death. Because we find that he who curses him (the father; — the same applies to the mother) after death is liable to the death penalty (cf. Rashi Leviticus 20:9), Scripture was compelled to state with reference to one who smites his parents that he is exempt from the death penalty if he does this after their death (as stated above). And there is another point of comparison: How is it in the case of a beast? The law speaks only of smiting resulting in a wound! — for if there is no wound resulting no compensation can be claimed — so, too, he who smites his father is not liable to the death penalty unless he inflicts a wound upon him (Sifra, Emor, Chapter 19 8; Sanhedrin 84a, 85b).
 
 
 

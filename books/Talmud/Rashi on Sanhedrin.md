@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Vilna Edition (Segments: 6189, License: CC-BY-SA)
 
-Version (En): Artscroll Talmud Bavli Sanhedrin 24b (Segments: 96)
+Version (En): Artscroll Talmud Bavli Sanhedrin 24b (Segments: 97)
 
 
 ## Daf 2a
@@ -15863,11 +15863,11 @@ Neither one of them [became] a nazirite - Two men were sitting and a man passed 
 
 
 
-### Line 10
+### Line 11
 
-###### Rashi on Sanhedrin 34b:10:1
+###### Rashi on Sanhedrin 34b:11:1
 
-[https://torahapp.org/share/book/Rashi%20on%20Sanhedrin/r/34b:10:1](https://torahapp.org/share/book/Rashi%20on%20Sanhedrin/r/34b:10:1)
+[https://torahapp.org/share/book/Rashi%20on%20Sanhedrin/r/34b:11:1](https://torahapp.org/share/book/Rashi%20on%20Sanhedrin/r/34b:11:1)
 
 
 ריבים - אפי' גמר דין משמע:
@@ -22773,14 +22773,6 @@ Rav Ashi says - decomposition of the flesh is not needed, rather a little of the
 [https://torahapp.org/share/book/Rashi%20on%20Sanhedrin/r/47b:17:1](https://torahapp.org/share/book/Rashi%20on%20Sanhedrin/r/47b:17:1)
 
 
-שם שם - במרים כתיב (במדבר כ׳:א׳) ותמת שם מרים ותקבר שם ובע"ז כתיב (דברים י״ב:ב׳) אשר עבדו שם הגוים:
-
-
-###### Rashi on Sanhedrin 47b:17:2
-
-[https://torahapp.org/share/book/Rashi%20on%20Sanhedrin/r/47b:17:2](https://torahapp.org/share/book/Rashi%20on%20Sanhedrin/r/47b:17:2)
-
-
 עגלה ערופה בהזמנה מיתסרא - דקי"ל ירידתה לנחל איתן היא אוסרתה בקידושין (דף נז.) ובכריתות (כה.):
 
 
@@ -22790,6 +22782,14 @@ Rav Ashi says - decomposition of the flesh is not needed, rather a little of the
 ###### Rashi on Sanhedrin 47b:18:1
 
 [https://torahapp.org/share/book/Rashi%20on%20Sanhedrin/r/47b:18:1](https://torahapp.org/share/book/Rashi%20on%20Sanhedrin/r/47b:18:1)
+
+
+שם שם - במרים כתיב (במדבר כ׳:א׳) ותמת שם מרים ותקבר שם ובע"ז כתיב (דברים י״ב:ב׳) אשר עבדו שם הגוים:
+
+
+###### Rashi on Sanhedrin 47b:18:2
+
+[https://torahapp.org/share/book/Rashi%20on%20Sanhedrin/r/47b:18:2](https://torahapp.org/share/book/Rashi%20on%20Sanhedrin/r/47b:18:2)
 
 
 ע"ז בהזמנה לא מיתסרא - להדיוט דתניא במס' ע"ג (דף מד:) האומר בית זה לע"ז שור זה לע"ז מותר שאין הקדש לע"ז:
@@ -43567,7 +43567,7 @@ Do you [really] think that a wayward and rebellious son, on account of his sin, 
 [https://torahapp.org/share/book/Rashi%20on%20Sanhedrin/r/86b:1:1](https://torahapp.org/share/book/Rashi%20on%20Sanhedrin/r/86b:1:1)
 
 
-להלקותו באנו - ולא הועדנו להמיתו שלא ידענו שסופו לחזור ולקלקל:
+להלקותו באנו - ולא העדנו להמיתו שלא ידענו שסופו לחזור ולקלקל:
 
 
 
@@ -50922,6 +50922,9 @@ Do you [really] think that a wayward and rebellious son, on account of his sin, 
 
 
 אין להם משיח לישראל - אלא הקב"ה ימלוך בעצמו ויגאלם לבדו:
+
+
+There is no Moshiach for Israel - The Holy One, Blessed be He, will reign Himself and redeem them Himself.
 
 
 

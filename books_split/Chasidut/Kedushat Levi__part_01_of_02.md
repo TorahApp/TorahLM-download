@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Kedushat Levi - Munkatch 1939 (Segments: 1482, License: Public Domain)
 
-Version (En): Kedushat Levi translated by Rb. Eliyahu Munk (Segments: 845)
+Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 847)
 
 # Kedushat Levi — part 1 of 2
 
@@ -10781,7 +10781,7 @@ When someone goes out into battle fully ‎trusting in the Lord to help him (bel
 [https://torahapp.org/share/book/Kedushat%20Levi/s/Numbers,_Matot/r/7](https://torahapp.org/share/book/Kedushat%20Levi/s/Numbers,_Matot/r/7)
 
 
-ויצבאו על מדין כאשר צוה ה' את משה (במדבר לא, ז). הכלל, בזה המלחמות היה יכול להיות מחשבה זרה בכדי שעל ידי זה יוכלו וישיגו רכוש גדול וביזה גדולה כאשר היה באמת בסוף שהיה להם רכוש גדול ושללו ביזה גדולה ממדין מזה המלחמה. אבל באמת כאשר לחמו לא היה להם זה הכוונה כלל, רק כל כוונתם היה מחמת צווי ה'. וזהו ויצבאו על מדין כאשר צוה ה' את משה:
+ויצבאו על מדין כאשר צוה ה' את משה (במדבר לא, ז). הכלל, בזה המלחמה היה יכול להיות מחשבה זרה בכדי שעל ידי זה יוכלו וישיגו רכוש גדול וביזה גדולה כאשר היה באמת בסוף שהיה להם רכוש גדול ושללו ביזה גדולה ממדין מזה המלחמה. אבל באמת כאשר לחמו לא היה להם זה הכוונה כלל, רק כל כוונתם היה מחמת צווי ה'. וזהו ויצבאו על מדין כאשר צוה ה' את משה:
 
 
 Numbers 31,7. **“they took the field against Midian as ‎G’d had commanded Moses”** 

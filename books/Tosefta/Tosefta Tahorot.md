@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Tosefta Tohorot - Machon Mamre (Segments: 84, License: Public Domain)
 
-Version (En): Sefaria Community Translation (Segments: 2)
+Version (En): Sefaria Community Translation (Segments: 7)
 
 
 ## Chapter 1
@@ -29,12 +29,18 @@ Version (En): Sefaria Community Translation (Segments: 2)
 אמר ר"ש מפני מה אמרו אוכל שנטמא באב הטומאה ושנטמא בולד הטומאה מצטרפין זה עם זה מפני שאפשר לשלישי לעשות שני ואפשר לשני לעשות ראשון ומפני מה אמרו אין השרץ והנבלה והמת מצטרפים זה עם זה לפי שא"א לשרץ לעשות נבלה ולא נבלה יכולה לעשות מת.
 
 
+Said Rabbi Shimon: For what reason did they say, "food that is defiled by a father of impurity, and that is defiled by a secondary source of impurity join together" (Mishnah Tahorot 1:5). Because it it is possible for third-degree impurity to be made into second-degree impurity, and it is possible for second-degree impurity to be made into first-degree impurity. And for what reason did they say, "a *sheretz* and an animal carcass and a corpse do not join together"*? Because a *sheretz* cannot be made into an animal carcass, and an animal carcass cannot be made into corpse.
+
+
 ###### Tosefta Tahorot 1:2
 
 [https://torahapp.org/share/book/Tosefta%20Tahorot/r/1:2](https://torahapp.org/share/book/Tosefta%20Tahorot/r/1:2)
 
 
 מקרצת שהיתה שלישית והשיך לה כולן שלישית בקדש פרשו של שלישית כולן טהורות ואיזו הוא הנשוך התולש ממנו כל שהוא אבל אם היו ממעכין זה את זה כגון הדבלה והתמרים והגרוגרות והצימוקין הרי אלו אינן חיבור ומפני מה אמרו בזיתים חיבור שמתחלה לא נתנן אלא על מנת שינקו זה מזה.
+
+
+A piece of dough that possessed third-degree impurity and [other pieces] stuck to all of them possess third-degree impurity as to holy objects.
 
 
 ###### Tosefta Tahorot 1:3
@@ -298,6 +304,9 @@ An infant that is found standing next to a block of hardened dough*, or next to 
 הנבילות ושחוטות בעיר הולכין אחר הרוב רשב"ג אומר אפי' נבלה אחת נמכרת בעיר כל הנמצא בעיר הרי הוא של נבלה מפני שהנבלות מצויות. דמים טהורים וטמאים בתוך הבית הולכין אחר הרוב. מעשה שנמצאו דמים על גבי ככרות של תרומה ובא מעשה לפני חכמים וטיהרם שאינם אלא דם השרצים החיים.
 
 
+Regarding animal carcasses [animals not properly slaughtered] and properly slaughtered animals in a city, we follow the majority. Rabban Shimon ben Gamliel says: Even if [only] one carcass is sold in the city, any [meat] found in the city is [presumed to be] from a carcass, because carcasses are commonly found. Regarding pure and impure blood in a house, we follow the majority. An incident occurred where blood was found on loaves of terumah [priestly offering], and the incident came before the Sages, and they declared them pure, for it was nothing other than the blood of live creeping creatures."
+
+
 ###### Tosefta Tahorot 6:2
 
 [https://torahapp.org/share/book/Tosefta%20Tahorot/r/6:2](https://torahapp.org/share/book/Tosefta%20Tahorot/r/6:2)
@@ -306,12 +315,18 @@ An infant that is found standing next to a block of hardened dough*, or next to 
 תשעה שרצים וצפרדע אחד ברה"ר ונגע באחד מהן ואינו יודע באיזה מהן נגע ספיקו טהור פירש אחד מהן לרה"י ספיקו טמא לרה"ר ספיקו טהור ובנמצא הולכין אחר הרוב. תשעה צפרדעים ושרץ אחד ברה"י ונגע באחד מהן ואין יודע באיזה מהן נגע ספיקו טמא פירש אחד מהן לרה"י ספיקו טמא לרה"ר ספיקו טהור ובנמצא הלך אחר הרוב. ככר טמא שנתערב בט' ככרות טהורין ואכלו חמשה חמשה ראשונים ואח"כ אכלו חמשה חמשה אחרונים ונטמא אחד מהן ואינו יודע איזה מהם הראשונים טמאין שאין להן במה יתלו והאחרונים טהורין זה הכלל אדם באדם טהרות בטהרות אדם בטהרות וטהרות באדם הרי אלו מוכיחות נאכלו ראשונות נטמאו או שאבדו עד שלא נעשו שניות טהורות משנעשו שניות שניות תלויות.
 
 
+Nine creeping creatures [which are impure] and one frog [which is pure] are in the public domain, and a person touched one of them and does not know which of them he touched – his [status in this case of] doubt is pure. If one of them separated into the private domain, his doubt is impure. [If it separated] into the public domain, his doubt is pure. And regarding what is found [there], we follow the majority. Nine frogs and one creeping creature are in the private domain, and he touched one of them and does not know which of them he touched – his doubt is impure. If one of them separated into the private domain, his doubt is impure. [If it separated] into the public domain, his doubt is pure. And regarding what is found [there], follow the majority. An impure loaf that became mixed with nine pure loaves, and five people ate the first five, and afterwards five people ate the last five, and one of them became impure and does not know which of them it was – the first ones are impure, as they have nothing to attribute it to [to assume purity], and the last ones are pure. This is the general rule: a person against a person, pure items against pure items, a person against pure items, and pure items against a person – these serve as proofs. If the first ones were eaten, became impure, or were lost before the second ones were handled, they are pure. Once the second ones are handled, the second ones are suspended.
+
+
 ###### Tosefta Tahorot 6:3
 
 [https://torahapp.org/share/book/Tosefta%20Tahorot/r/6:3](https://torahapp.org/share/book/Tosefta%20Tahorot/r/6:3)
 
 
 ב' שבילים אחד טמא ואחד טהור והלך באחד מהן ועשה טהרות בשני ועשה ישרפו בראשון ולא עשה בשני ועשה ישרפו בראשון ובשני ועשה אלו ואלו מונחות ראשונות טהורות ושניות ישרפו.
+
+
+[Regarding] two paths, one impure and one pure, and he walked on one of them and prepared pure items, [and then walked] on the second and prepared [pure items] – they must be burned. [If he walked] on the first and did not prepare [pure items], and [then walked] on the second and prepared [pure items] – they must be burned. [If he walked] on the first and on the second, and prepared [pure items], both these and those remain resting [suspended in doubt]; the first ones are pure, and the second ones must be burned."
 
 
 ###### Tosefta Tahorot 6:4

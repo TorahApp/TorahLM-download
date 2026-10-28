@@ -207,7 +207,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zephaniah/r/1:11:5](https://torahapp.org/share/book/Rashi%20on%20Zephaniah/r/1:11:5)
 
 
-**כִּי נִדְמָה כָּל עַם כְּנָעַן.** תִּרְגֵּם יוֹנָתָן: ״אֲרֵי אֲתַר כָּל עַמָּא דְּדָמֵי עוֹבָדֵיהוֹן לְעוֹבְדֵי עַמָּא דְאַרְעָא דִכְנָעַן״.
+**כִּי נִדְמָה כָּל עַם כְּנַעַן.** תִּרְגֵּם יוֹנָתָן: ״אֲרֵי אֲתַר כָּל עַמָּא דְּדָמֵי עוֹבָדֵיהוֹן לְעוֹבְדֵי עַמָּא דְאַרְעָא דִכְנָעַן״.
 
 
 **for the entire people of Canaan is cut off** *Jonathan* renders: For the entire nation, whose deeds resemble the deeds of the people of the land of Canaan, has been broken.
@@ -232,7 +232,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zephaniah/r/1:12:1](https://torahapp.org/share/book/Rashi%20on%20Zephaniah/r/1:12:1)
 
 
-**אֲחַפֵּשׂ אֶת יְרוּשָׁלַיִם בַּנֵּרוֹת.** אֲדַקְדֵּק בַּעֲוֹנוֹתֵיהֶם.
+**אֲחַפֵּשׂ אֶת יְרוּשָׁלַ͏ִם בַּנֵּרוֹת.** אֲדַקְדֵּק בַּעֲוֹנוֹתֵיהֶם.
 
 
 **I will search Jerusalem with candles** I will judge their iniquities strictly.
@@ -468,7 +468,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zephaniah/r/2:6:1](https://torahapp.org/share/book/Rashi%20on%20Zephaniah/r/2:6:1)
 
 
-**נְוֹת כְּרֹת רוֹעִים.** נְוֵה עֲרַאי שֶׁיִּכְרוּ בָּהּ הָרוֹעִים לֶחֶם בַּבֹּקֶר. כְּרֹת לְשׁוֹן ״וַיִּכְרֶה לָהֶם כֵּרָה גְדוֹלָה״ (מלכים ב ו:כג).
+**נְוֺת כְּרֹת רוֹעִים.** נְוֵה עֲרַאי שֶׁיִּכְרוּ בָּהּ הָרוֹעִים לֶחֶם בַּבֹּקֶר. כְּרֹת לְשׁוֹן ״וַיִּכְרֶה לָהֶם כֵּרָה גְדוֹלָה״ (מלכים ב ו:כג).
 
 
 **breakfast nooks for shepherds** a temporary dwelling where the shepherds eat bread in the morning. כְּרֹת is an expression related to (II Kings 6:23) “He prepared for them a lavish feast.”

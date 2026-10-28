@@ -14,9 +14,9 @@ Location: Tanakh/Rishonim on Tanakh/Chizkuni
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Chizkuni (Segments: 5836, License: Public Domain)
+Version (He): Chizkuni (Segments: 5837, License: Public Domain)
 
-Version (En): Chizkuni, translated and annotated by Eliyahu Munk (Segments: 5528)
+Version (En): Sefaria Community Translation (Segments: 5529)
 
 # Chizkuni — part 2 of 2
 
@@ -8140,7 +8140,7 @@ The word ניר, means: ”heir;” in the meantime no heir is left of the origi
 **ומחץ פאתי מואב** וגו׳‎ דוגמא הכוכבים ממסילותם נלחמו עם סיסרא. **ומחץ פאתי מואב** הולך ומתנבא שלעתיד יירשו עוד ישראל אדום מואב ועמון כמו שהתנה הקב״‎ה לאברם בברית בין הבתרים את הקיני את הקניזי ואת הקדמוני שהם עמון ומואב ואדום.
 
 
-ומחץ פאתי מואב, “and shall smite even the corners of Moav.” Bileam prophesies that in the future Israel will also capture the territories of Edom, Moav and Ammon. A practical example of this is found in Judges 5,20 during the war between the armies of Barak and Sisera, the Field Marshal of Ammon. During that period even the stars were perceived by the Canaanites and Ammonites as engaging in war against them on behalf of Israel (song of victory by the prophetess Deborah) G-d, in His initial promise to Avraham had included these lands in the ones promised to Avraham’’s descendants. (Genesis chapter 15,1921).
+ומחץ פאתי מואב, “and shall smite even the corners of Moav.” Bileam prophesies that in the future Israel will also capture the territories of Edom, Moav and Ammon. A practical example of this is found in Judges 5,20 during the war between the armies of Barak and Sisera, the Field Marshal of Ammon. During that period even the stars were perceived by the Canaanites and Ammonites as engaging in war against them on behalf of Israel (song of victory by the prophetess Deborah) G-d, in His initial promise to Avraham had included these lands in the ones promised to Avraham’’s descendants. (Genesis chapter 15,19-21).
 
 
 ###### Chizkuni, Numbers 24:17:6
@@ -8151,7 +8151,7 @@ The word ניר, means: ”heir;” in the meantime no heir is left of the origi
 **וקרקר כל בני שת** י״‎מ הם בני מואב שהם בני ערוה וזנות מגזרת חשופי שת.
 
 
-וקרקר כל בני שת, “and break down all the sons of Sheth.” Some commentators understand this prophecy as referring to the Moabites as the latter were the descendants of an incestuous relationship between the daughters of Lot with their father. (Genesis Compare Isaiah 20,5, for use of the word שת in this sense.)
+וקרקר כל בני שת, “and break down all the sons of Sheth.” Some commentators understand this prophecy as referring to the Moabites as the latter were the descendants of an incestuous relationship between the daughters of Lot with their father. (Genesis Compare Isaiah 20:4, for use of the word שת in this sense.)
 
 
 ###### Chizkuni, Numbers 24:18:1
@@ -13925,7 +13925,7 @@ According to the Sifri on the word אחרים, that word could be translated as 
 [https://torahapp.org/share/book/Chizkuni/s/Deuteronomy/r/12:26:1](https://torahapp.org/share/book/Chizkuni/s/Deuteronomy/r/12:26:1)
 
 
-**תשא ובאת אל המקום**הוא שאנו אומרים בתפלה במודעות והשיאנו ה׳‎ אלקינו את ברכת מועדיך וכו'.
+**תשא ובאת אל המקום**הוא שאנו אומרים בתפלה במועדות והשיאנו ה׳‎ אלקינו את ברכת מועדיך וכו'.
 
 
 תשא ובאת אל המקום, “you shall take and go to the place;” when we pray on the festivals we say in our mussaph prayer: והשיאנו ה' אלוקינו את ברכת מועדיך, “cause us O Lord our G-d to take with us the blessing of Your festivals, etc.”

@@ -192,7 +192,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 4)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Zechariah/r/1:11:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Zechariah/r/1:11:1)
 
 
-**ויענו וגו׳.**כי המלאך העומד בין ההדסים שאלם מה עשו בארץ כ״א בזמנו ועם כי לא נזכר כי מהתשובה יובן ששאלם על זה:
+**ויענו וגו׳.** כי המלאך העומד בין ההדסים שאלם מה עשו בארץ כ״א בזמנו ועם כי לא נזכר כי מהתשובה יובן ששאלם על זה:
 
 
 ###### Metzudat David on Zechariah 1:11:2
@@ -3367,7 +3367,7 @@ I will return to Zion – Behold, I have already brought the exiles back to Zion
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Zechariah/r/11:10:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Zechariah/r/11:10:1)
 
 
-**ואקח.** אח ״ז לקחתי מקלי הנועם וכרתי אותו כי מאסתי בהן ולא רציתי עוד להנהיגם בנעימות כ״א ביד חזקה במקל חובלים והרמז הוא לומר אחר שמתו ג׳ בני מתתיהו בן יוחנן כ״ג נתבטל הנהגת הנעימות:
+**ואקח.** אח״ז לקחתי מקלי הנועם וכרתי אותו כי מאסתי בהן ולא רציתי עוד להנהיגם בנעימות כ״א ביד חזקה במקל חובלים והרמז הוא לומר אחר שמתו ג׳ בני מתתיהו בן יוחנן כ״ג נתבטל הנהגת הנעימות:
 
 
 ###### Metzudat David on Zechariah 11:10:2

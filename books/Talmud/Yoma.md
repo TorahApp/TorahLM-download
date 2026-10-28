@@ -5916,7 +5916,7 @@ The Gemara asks: **But didn’t Rav Asi say** that **Rabbi Yoḥanan said: A non
 [https://torahapp.org/share/book/Yoma/r/24b:12](https://torahapp.org/share/book/Yoma/r/24b:12)
 
 
-תַּנְיָא כְּווֹתֵיהּ דְּרַב, תַּנְיָא כְּווֹתֵיהּ דְּלֵוִי. תַּנְיָא כְּווֹתֵיהּ דְּרַב: עֲבוֹדוֹת שֶׁזָּר חַיָּיב עֲלֵיהֶם מִיתָה: זְרִיקַת דָּם בֵּין לְפָנִים בֵּין לִפְנַי וְלִפְנִים, וְהַמַּזֶּה בְּחַטַּאת הָעוֹף, וְהַמְמַצֶּה, וְהַמַּקְטִיר בְּעוֹלַת הָעוֹף, וְהַמְנַסֵּךְ שְׁלֹשָׁה לוּגִּין מַיִם, וּשְׁלֹשָׁה לוּגִּין יַיִן.
+תַּנְיָא כְּווֹתֵיהּ דְּרַב, תַּנְיָא כְּווֹתֵיהּ דְּלֵוִי. תַּנְיָא כְּווֹתֵיהּ דְּרַב: עֲבוֹדוֹת שֶׁזָּר חַיָּיב עֲלֵיהֶם מִיתָה: זְרִיקַת דָּם בֵּין לְפָנִים בֵּין לִפְנַי וְלִפְנִים, וְהַמַּזֶּה בְּחַטַּאת הָעוֹף, וְהַמְמַצֶּה וְהַמַּקְטִיר בְּעוֹלַת הָעוֹף, וְהַמְנַסֵּךְ שְׁלֹשָׁה לוּגִּין מַיִם, וּשְׁלֹשָׁה לוּגִּין יַיִן.
 
 
 The Gemara returns to the disagreement between Rav and Levi and notes: **It was taught** in a *baraita* **in accordance with** the opinion of **Rav,** and **it was taught** in a second *baraita* **in accordance with** the opinion of **Levi. It was taught** in a *baraita* **in accordance with** the opinion of **Rav:** These are the **services for which a non-priest** who performs them **is liable to** receive the penalty of **death** by God’s hand: One who performs **the sprinkling of blood, whether inside** the Sanctuary; on the golden altar or at the veil; **or inside the innermost** chamber, the Holy of Holies, on Yom Kippur; or outside on the main altar; **and one who sprinkles** blood in the case of a **bird sin-offering; and one who squeezes** the blood of **a bird burnt-offering** on the wall of the altar **or burns** the bird on the altar; **and one who pours out three *log* of water** on the altar for the *Sukkot* water libation **or three *log* of wine** on the altar for an ordinary libation. The removal of ashes from the altar is not listed here.
@@ -14792,7 +14792,7 @@ It means **like a man** joined and **clinging to his *livaya*,** his partner, i.
 וַחֲכָמִים אוֹמְרִים: מִצִּיּוֹן נִבְרָא, שֶׁנֶּאֱמַר: ״מִזְמוֹר לְאָסָף אֵל אֱלֹהִים ה׳״. וְאוֹמֵר: ״מִצִּיּוֹן מִכְלַל יוֹפִי״ — מִמֶּנּוּ מוּכְלָל יׇפְיוֹ שֶׁל עוֹלָם.
 
 
-**And the Rabbis say:** The world **was created from Zion, as it is stated: “A Psalm of Asaph. God, the Lord God** has spoken and called the earth, from the rising of the sun to its place of setting” (Psalms 50:1), **and it states: “Out of Zion, the perfection of beauty,** God has shined forth” (Psalms 50:2). The mishna is taught in accordance with this last opinion.
+**And the Rabbis say:** The world **was created from Zion, as it is stated: “A Psalm of Asaph. God, the Lord God** has spoken and called the earth, from the rising of the sun to its place of setting” (Psalms 50:1), **and it states: “Out of Zion, the perfection of beauty,** God has shined forth” (Psalms 50:2), i.e., **from** Zion **the beauty of the world was perfected**. The mishna is taught in accordance with this last opinion.
 
 
 ###### Yoma 54b:5

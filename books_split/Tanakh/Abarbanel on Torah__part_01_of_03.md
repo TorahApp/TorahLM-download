@@ -14,9 +14,9 @@ Location: Tanakh/Rishonim on Tanakh/Abarbanel
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Venice, 1579 (Segments: 3514, License: unknown)
+Version (He): Torah Commentary of Yitzchak Abarbanel, Warsaw 1862 (Segments: 3514, License: Public Domain)
 
-Version (En): Abrabanel on 15:22 (Segments: 237)
+Version (En): Etzion VBM (Segments: 237)
 
 # Abarbanel on Torah — part 1 of 3
 

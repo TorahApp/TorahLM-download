@@ -1067,7 +1067,7 @@ Version (En): Daat Zekenim translated by Rb. Eliyahu Munk (Segments: 259)
 [https://torahapp.org/share/book/Da%27at%20Zekenim%20on%20Exodus/r/12:15:1](https://torahapp.org/share/book/Da%27at%20Zekenim%20on%20Exodus/r/12:15:1)
 
 
-**אך ביום הראשון.**פי' הזהרו שיהא השאור מושבת מבתיכם כבר. ביום הראשון כלומר שתשביתו מכבר ביום י"ד ודומה לו ויכל אלהים ביום השביעי כדפרי' בפרש' בראשית:
+**אך ביום הראשון.**פי' הזהרו שיהא השאור מושבת מבתיכם כבר ביום הראשון כלומר שתשביתו מכבר ביום י"ד ודומה לו ויכל אלהים ביום השביעי כדפרי' בפרש' בראשית:
 
 
 אך ביום הראשון, but on the first day, etc.: [the Torah now speaks of observances of the Passover in the future, as stated in verse 14 Ed.] The Torah warns that all leavened products must have been removed already on the “first” day, i.e. on the 14th of the month when the Paschal lamb has been slaughtered. Compare what our author has explained on Genesis 2,2: ויכל אלוקים ביום השביעי, “the Lord had completed on the seventh day.” He had completed on the sixth day, as the Torah described G–d as having “rested” on the seventh day.

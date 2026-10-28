@@ -11429,7 +11429,7 @@ Version (En): Sefaria Community Translation (Segments: 27)
 [https://torahapp.org/share/book/Rashi%20on%20Yoma/r/33b:4:1](https://torahapp.org/share/book/Rashi%20on%20Yoma/r/33b:4:1)
 
 
-דהכא תלתא והכא תרי - הכא תלתא בהטבת נרות כתיב בבקר בבקר והא דשדינן עליה חד הא תלתא ובתמיד כתיב (שמות כ״ט:ל״ט) את הכבש האחד תעשה בבקר והאי דשדינן עלייה כדאמר חד שדי לדם התמיד:
+דהכא תלתא והכא תרי - הכא תלתא בהטבת נרות כתיב בבקר בבקר והא דשדינן עליה חד הא תלתא ובתמיד כתיב (שמות כ״ט:ל״ט) את הכבש האחד תעשה בבקר והאי דשדינן עליה כדאמר חד שדי לדם התמיד:
 
 
 
@@ -21414,19 +21414,22 @@ Version (En): Sefaria Community Translation (Segments: 27)
 
 
 
-### Line 4
+### Line 3
 
-###### Rashi on Yoma 62b:4:1
+###### Rashi on Yoma 62b:3:1
 
-[https://torahapp.org/share/book/Rashi%20on%20Yoma/r/62b:4:1](https://torahapp.org/share/book/Rashi%20on%20Yoma/r/62b:4:1)
+[https://torahapp.org/share/book/Rashi%20on%20Yoma/r/62b:3:1](https://torahapp.org/share/book/Rashi%20on%20Yoma/r/62b:3:1)
 
 
 סד"א שני שני שני - תלתא כתיבי ושנה עליהן הכתוב לעכב:
 
 
-###### Rashi on Yoma 62b:4:2
 
-[https://torahapp.org/share/book/Rashi%20on%20Yoma/r/62b:4:2](https://torahapp.org/share/book/Rashi%20on%20Yoma/r/62b:4:2)
+### Line 4
+
+###### Rashi on Yoma 62b:4:1
+
+[https://torahapp.org/share/book/Rashi%20on%20Yoma/r/62b:4:1](https://torahapp.org/share/book/Rashi%20on%20Yoma/r/62b:4:1)
 
 
 חד למראה וכו' - ולמצוה ולא לעכב:
@@ -26695,7 +26698,7 @@ On account of the congregation’s honor - For they would have to wait in passiv
 [https://torahapp.org/share/book/Rashi%20on%20Yoma/r/75a:7:2](https://torahapp.org/share/book/Rashi%20on%20Yoma/r/75a:7:2)
 
 
-דאמר מר - במסכת סוטה בפרק קמא (דף א:):
+דאמר מר - במסכת סוטה בפרק קמא (דף יא:):
 
 
 

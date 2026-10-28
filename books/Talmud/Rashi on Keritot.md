@@ -10433,14 +10433,6 @@ And His consortium - We learn from this that everyone was created together on ea
 באשם תלוי כתיב מצות ובחטאת כתיב מצות:
 
 
-###### Rashi on Keritot 22b:4:2
-
-[https://torahapp.org/share/book/Rashi%20on%20Keritot/r/22b:4:2](https://torahapp.org/share/book/Rashi%20on%20Keritot/r/22b:4:2)
-
-
-חטאת חלב - היינו סתם חטאת ולהכי נקט חלב משום דסמוכה לחלב דכתיב בויקרא כל חלב וכל דם לא תאכלו וסמיך ליה נפש כי תחטא וגו':
-
-
 
 ### Line 6
 
@@ -10450,6 +10442,17 @@ And His consortium - We learn from this that everyone was created together on ea
 
 
 במיתה - בידי שמים:
+
+
+
+### Line 7
+
+###### Rashi on Keritot 22b:7:1
+
+[https://torahapp.org/share/book/Rashi%20on%20Keritot/r/22b:7:1](https://torahapp.org/share/book/Rashi%20on%20Keritot/r/22b:7:1)
+
+
+חטאת חלב - היינו סתם חטאת ולהכי נקט חלב משום דסמוכה לחלב דכתיב בויקרא כל חלב וכל דם לא תאכלו וסמיך ליה נפש כי תחטא וגו':
 
 
 

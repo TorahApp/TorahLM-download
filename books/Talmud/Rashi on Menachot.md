@@ -48970,7 +48970,7 @@ For the withdrawal of Torah - for example one who withdraws from learning Torah 
 [https://torahapp.org/share/book/Rashi%20on%20Menachot/r/109b:5:1](https://torahapp.org/share/book/Rashi%20on%20Menachot/r/109b:5:1)
 
 
-הודה לעבודת ככובים - אמר לה אלי אתה:
+הודה לעבודת כוכבים - אמר לה אלי אתה:
 
 
 

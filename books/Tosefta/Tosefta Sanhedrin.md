@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Tosefta Sanhedrin - Machon Mamre (Segments: 67, License: Public Domain)
 
-Version (En): Google Translate (Segments: 11)
+Version (En): Sifra by Rabbi Shraga Silverstein (Segments: 11)
 
 
 ## Chapter 1

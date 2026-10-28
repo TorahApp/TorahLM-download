@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): AI-assisted translation (Segments: 24, License: unknown)
+Version (He): Vilna, 1895 (Segments: 24, License: unknown)
 
 Version (En): A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 (Segments: 24)
 

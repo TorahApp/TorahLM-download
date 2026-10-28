@@ -14,9 +14,9 @@ Location: Tanakh/Rishonim on Tanakh/Rashi/Torah
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934 (Segments: 1818, License: Public Domain)
+Version (He): On Your Way (Segments: 1818, License: Public Domain)
 
-Version (En): Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934 (Segments: 1817)
+Version (En): Sefaria Community Translation (Segments: 1817)
 
 
 ## Chapter 1
@@ -10592,7 +10592,7 @@ and He keeps (stores up) the mercy which a person does to give a reward for it t
 **לא תגנב.** בְּגוֹנֵב נְפָשׁוֹת הַכָּתוּב מְדַבֵּר, לֹא תִּגְנֹבוּ (ויקרא י"ט), בְּגוֹנֵב מָמוֹן; אוֹ אֵינוֹ אֶלָּא זֶה בְגוֹנֵב מָמוֹן וּלְהַלָּן בְּגוֹנֵב נְפָשׁוֹת? אָמַרְתָּ דָּבָר לָמֵד מֵעִנְיָנוֹ – מַה לֹא תִרְצָח, לֹא תִנְאָף, מְדַבֵּר בְּדָבָר שֶׁחַיָּבִין עָלָיו מִיתַת בֵּית דִּין, אַף לֹא תִגְנֹב דָּבָר שֶׁחַיָּב עָלָיו מִיתַת בֵּית דִּין (סנהדרין פ"ו):
 
 
-לא תגנוב THOU SHALT NOT STEAL — Scripture here is speaking about a case of one who steals human beings, whilst the command (Leviticus 19:11) “Ye shall not steal” speaks about a case of one who steals money (another person’s property in general). Or perhaps this is not so, but this speaks about the case of one who money and the other about the case of one who steals human beings! You must, however, admit that the rule applies: a statement must be explained from its context. How is it in regard to, “Thou shalt not murder” and “Thou shalt not commit adultery”? Each, speaks of a matter for which one becomes liable to death by sentence of the court; similarly, “Thou shalt not steal”, must speak of a matter for which one becomes liable to death by sentence of the court, and this is not so in the case of theft of money but only in that of kidnapping (Sanhedrin 86a; cf.Mekhilta).
+לא תגנוב THOU SHALT NOT STEAL — Scripture here is speaking about a case of one who steals human beings, whilst the command (Leviticus 19:11) “Ye shall not steal” speaks about a case of one who steals money (another person’s property in general). Or perhaps this is not so, but this speaks about the case of one who steals money and the other about the case of one who steals human beings! You must, however, admit that the rule applies: a statement must be explained from its context. How is it in regard to, “Thou shalt not murder” and “Thou shalt not commit adultery”? Each, speaks of a matter for which one becomes liable to death by sentence of the court; similarly, “Thou shalt not steal”, must speak of a matter for which one becomes liable to death by sentence of the court, and this is not so in the case of theft of money but only in that of kidnapping (Sanhedrin 86a; cf.Mekhilta).
 
 
 

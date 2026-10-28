@@ -1,6 +1,6 @@
 # Tiferet Shmuel on Yevamot
 
- תפארת שמואל על יבמות
+תפארת שמואל על יבמות
 
 Link: [https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Yevamot](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Yevamot)
 

@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Eichen edition. Jerusalem, 2011 (Segments: 3215, License: CC-BY-NC)
 
-Version (En): Sefaria Community Translation (Segments: 7)
+Version (En): Sefaria Community Translation (Segments: 8)
 
 
 ## Foreword
@@ -2010,6 +2010,9 @@ Rather the Torah presented us with a didactic hint about the service of God in g
 
 
 **משנה** באבות (פ"ה מ"א) בעשרה מאמרות נברא העולם, ומה תלמוד לומר, והלא במאמר אחד יכול להבראות, אלא להפרע מן הרשעים שמאבדין את העולם שנברא בעשרה מאמרות, וליתן שכר טוב לצדיקים שמקיימין את העולם שנברא בעשרה מאמרות, ע"כ. וי"ל, **חדא**, דהל"ל בי' מאמרות ברא העולם, מאי לשון נברא דקאמר, וכן הקשה **בתוספות יום טוב**, יעו"ש. **ב'** קשה, דמקשה בפשיטות והלא במאמר אחד יכול וכו', וכי מי הוא הנביא אשר יגיד זה דיכול להבראות במאמר אחד, דלמא טבע יצירה אנושית ובריאת עולם לא הי' אפשר לקבל הבריאה כי אם בי' מאמרות דוקא.
+
+
+The Mishnah in Avot (Chapter 5, Mishnah 1) [teaches]: "By [means of] ten utterances the world was created. And what instruction is [to be learned] in saying [this]? And was it not possible [for it] to be created with one utterance? Rather, [it was] in order to exact [punishment] from the wicked, who destroy the world that was created through ten utterances, and to grant abundant reward to the righteous, who sustain the world that was created by [means of] ten utterances." And one may [ask]. Firstly, it should have said: "By [means of] ten utterances He created the world." What is [the meaning of] the expression "was created" that it employs? And so this is questioned in Tosafot Yom Tov; see there. Secondly, it is difficult: it asks straightforwardly, "And was it not possible [for it] to be created with one utterance, etc." But who is the prophet who would declare this—that it could have been created with one utterance? Perhaps the nature of human formation and the creation of the world was such that it was not possible for creation to be received except specifically through ten utterances.
 
 
 ###### Ben Porat Yosef, Bereshit 2

@@ -14,7 +14,7 @@ Location: Halakhah/Commentary/Be'er Mayim Chaim
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Wikisource (Segments: 479, License: CC-BY-SA)
+Version (He): Be'er Mayim Chaim on Chofetz Chaim (Segments: 479, License: CC-BY-SA)
 
 Version (En): Sefaria Community Translation (Segments: 1)
 

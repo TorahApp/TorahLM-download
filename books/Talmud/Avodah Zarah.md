@@ -921,7 +921,7 @@ The Gemara returns to its previous question: **Rather, what** is the meaning of:
 [https://torahapp.org/share/book/Avodah%20Zarah/r/4b:5](https://torahapp.org/share/book/Avodah%20Zarah/r/4b:5)
 
 
-אָמַר רַבִּי אֶלְעָזָר, אָמַר לָהֶן הַקָּדוֹשׁ בָּרוּךְ הוּא לְיִשְׂרָאֵל: עַמִּי, רְאוּ כַּמָּה צְדָקוֹת עָשִׂיתִי עִמָּכֶם שֶׁלֹּא כָּעַסְתִּי עֲלֵיכֶם כָּל אוֹתָן הַיָּמִים, שֶׁאִם כָּעַסְתִּי עֲלֵיכֶם לֹא נִשְׁתַּיֵּיר מִשּׂוֹנְאֵיהֶם שֶׁל יִשְׂרָאֵל שָׂרִיד וּפָלִיט, וְהַיְינוּ דְּקָאָמַר לֵיהּ בִּלְעָם לְבָלָק: ״מָה אֶקֹּב לֹא קַבֹּה אֵל וּמָה אֶזְעֹם לֹא זֹעֵם ה׳״.
+אָמַר רַבִּי אֶלְעָזָר, אָמַר לָהֶן הַקָּדוֹשׁ בָּרוּךְ הוּא לְיִשְׂרָאֵל: עַמִּי, רְאוּ כַּמָּה צְדָקוֹת עָשִׂיתִי עִמָּכֶם שֶׁלֹּא כָּעַסְתִּי עֲלֵיכֶם כָּל אוֹתָן הַיָּמִים, שֶׁאִם כָּעַסְתִּי עֲלֵיכֶם לֹא נִשְׁתַּיֵּיר מִשּׂוֹנְאֵיהֶם שֶׁל יִשְׂרָאֵל שָׂרִיד וּפָלִיט, וְהַיְינוּ דְּקָאָמַר לֵיהּ בִּלְעָם לְבָלָק: ״מָה אֶקֹּב לֹא קַבֹּה אֵל וּמָה אֶזְעֹם לֹא זָעַם ה׳״.
 
 
 **Rabbi Elazar says,** in explanation of that verse: **The Holy One, Blessed be He, said to the Jewish people: My nation, see how many acts of kindness I performed for you, that I did not become angry at you during all of those days** when Balaam attempted to curse the Jewish people, and he was not able to find a moment of divine anger. **As, had I become angry at you, there would not have remained a remnant or a refugee among the enemies of the Jewish people,** a euphemism for the Jewish people themselves. Instead, God restrained His anger and Balaam’s curse went unfulfilled. **And this is what Balaam said to Balak:** Since God is not becoming angry, I can do nothing, as: **“How shall I curse whom God has not cursed? And how shall I execrate whom the Lord has not execrated”?** (Numbers 23:8).

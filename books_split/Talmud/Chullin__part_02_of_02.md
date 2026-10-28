@@ -853,7 +853,7 @@ The two sides of the dilemma are explained: **Do we say: Since if those** fledgl
 בָּעֵי רַבִּי יִרְמְיָה: מַטְלֵית מַהוּ שֶׁתָּחוֹץ? כְּנָפַיִם מַהוּ שֶׁיָּחוֹצּוּ?
 
 
-§ **Rabbi Yirmeya raises a dilemma:** In a case where **a rag** is lying in the nest between the mother bird and the eggs, **what is** the *halakha*? Does **it interpose**between them,such that the mother is not considered to be resting upon the eggs? If so, one would be exempt from sending away the mother. Similarly, if feathers are detached from a bird’s **wings** and are lying between the mother bird and the eggs, **what is** the *halakha*? Do **they interpose** between the eggs and the mother?
+§ **Rabbi Yirmeya raises a dilemma:** In a case where **a rag** is lying in the nest between the mother bird and the eggs, **what is** the *halakha*? Does **it interpose** between them, such that the mother is not considered to be resting upon the eggs? If so, one would be exempt from sending away the mother. Similarly, if feathers are detached from a bird’s **wings** and are lying between the mother bird and the eggs, **what is** the *halakha*? Do **they interpose** between the eggs and the mother?
 
 
 ###### Chullin 140b:6
@@ -1453,7 +1453,7 @@ The man **sent** away the bird, **and Rava** then **surrounded her with nets [*p
 תָּנוּ רַבָּנַן: יוֹנֵי שׁוֹבָךְ וְיוֹנֵי עֲלִיָּיה – חַיָּיבוֹת בְּשִׁלּוּחַ, וַאֲסוּרוֹת מִשּׁוּם גָּזֵל מִפְּנֵי דַּרְכֵי שָׁלוֹם.
 
 
-§ **The Sages taught** in a *baraita*: **Pigeons of a dovecote and pigeons of an attic are subject to the obligation of sending** away the motherbird,because they are ownerless and therefore not considered readily available. **But** nevertheless, **they are subject to the prohibition of robbery due** to a rabbinic ordinance to maintain **the ways of peace.**
+§ **The Sages taught** in a *baraita*: **Pigeons of a dovecote and pigeons of an attic are subject to the obligation of sending** away the motherbird, because they are ownerless and therefore not considered readily available. **But** nevertheless, **they are subject to the prohibition of robbery due** to a rabbinic ordinance to maintain **the ways of peace.**
 
 
 ###### Chullin 141b:15
@@ -1555,7 +1555,7 @@ The Gemara asks: **For what** purpose did Shmuel tell Rav Yehuda to do this? **I
 בְּעוֹמֵד וְאוֹמֵר ״זֶה וְזֶה אֲנִי נוֹטֵל״ סַגִּיא! הָנְהוּ פֵּירֵי חַדְתֵי הֲווֹ, דְּלֵוִי בַּר סִימוֹן גּוּפֵיהּ לָא הֲוָה קָנֵי לְהוּ, וְהָכִי קָאָמַר לֵיהּ: זִיל וּטְרוֹף אַקַּן, דְּלִיתְגַּבְהוּ וְנִיקְנִינְהוּ לֵוִי בַּר סִימוֹן, וַהֲדַר לַיקְנִינְהוּ נִיהֲלָךְ בְּסוּדָר.
 
 
-because **by standing** on the eve of the Festival **and saying: This** bird **and that** bird **I will take** on the Festival, he would have effected **sufficient** preparation for their use on the Festival. The Gemara responds: **These,** the offspring and the eggs, **were new produce, which Levi bar Simon himself had not** yet **acquired. And this** is what Shmuel was **saying to him: Go and bang on the nest** so **that** the mothers **will rise up, and Levi bar Simon will** have then **acquired** the young in the nest,**and** consequently, **he** may **then transfer ownership to you through** acquisition by means of **a cloth.**
+because **by standing** on the eve of the Festival **and saying: This** bird **and that** bird **I will take** on the Festival, he would have effected **sufficient** preparation for their use on the Festival. The Gemara responds: **These,** the offspring and the eggs, **were new produce, which Levi bar Simon himself had not** yet **acquired. And this** is what Shmuel was **saying to him: Go and bang on the nest** so **that** the mothers **will rise up, and Levi bar Simon will** have then **acquired** the young in the nest, **and** consequently, **he** may **then transfer ownership to you through** acquisition by means of **a cloth.**
 
 
 ###### Chullin 142a:2

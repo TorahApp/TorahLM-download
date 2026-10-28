@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Rashbam on Deuteronomy -- Daat (Segments: 331, License: Public Domain)
 
-Version (En): Eliyahu Munk, HaChut Hameshulash (Segments: 319)
+Version (En): Sefaria Community Translation (Segments: 319)
 
 
 ## Chapter 1

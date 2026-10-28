@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat David/Prophets
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 3300, License: Public Domain)
+Version (He): On Your Way (Segments: 3322, License: Public Domain)
 
 Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 7)
 
@@ -161,7 +161,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 7)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/1:5:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/1:5:2)
 
 
-**סל ראש לחלי.** הלא ע״י ההכאה נחלה כל הראש וכל הלב ומדוע לא תקחו מוסר:
+**כל ראש לחלי.** הלא ע״י ההכאה נחלה כל הראש וכל הלב ומדוע לא תקחו מוסר:
 
 
 
@@ -231,7 +231,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 7)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/1:7:4](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/1:7:4)
 
 
-**ושממה.** ותהיה שוממה כארץ אשר יבואו עליה אויבים זרים ורחוקים כי המה מהפכים ומחריבים הכל ועושים שממה על כי המה לא יעמדו בה משא ״כ כשהאויב הוא מבני הארץ ההיא וסמוך אליה:
+**ושממה.** ותהיה שוממה כארץ אשר יבואו עליה אויבים זרים ורחוקים כי המה מהפכים ומחריבים הכל ועושים שממה על כי המה לא יעמדו בה משא״כ כשהאויב הוא מבני הארץ ההיא וסמוך אליה:
 
 
 
@@ -440,7 +440,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 7)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/1:18:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/1:18:2)
 
 
-**אם יהיו וכו׳.** ר״ל וכאשר תודו שהדין עמדי ותשובו לי אז אם יהיו חטאיכם אדומים כשני תולעת יולבנו כשלג ר״ל אכפר על חטאתכם (דימה העון לכתם אדום שהוא צבע חזק ונראה למרחוק ולא יוסר מהר בכבום):
+**אם יהיו וכו׳.** ר״ל וכאשר תודו שהדין עמדי ותשובו לי אז אם יהיו חטאיכם אדומים כשני תולעת יולבנו כשלג ר״ל אכפר על חטאתכם (דימה העון לכתם אדום שהוא צבע חזק ונראה למרחוק ולא יוסר מהר בכבוס):
 
 
 
@@ -953,7 +953,7 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/2:13:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/2:13:1)
 
 
-**ארזי הלבנון וכו׳**:
+**ארזי הלבנון וכו׳.** הוא משל על המלכים והשלטונים:
 
 
 
@@ -1851,25 +1851,28 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 **ועלה שמיר ושית.** יגדל קוצים כדרך השדה שאינו נעבד: מפרש המשל ואמר שבית ישראל הם הכרם:
 
 
-###### Metzudat David on Isaiah 5:6:5
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/5:6:5](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/5:6:5)
+### Verse 7
+
+###### Metzudat David on Isaiah 5:7:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/5:7:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/5:7:1)
 
 
 **נטע שעשועיו.** הנטיעה שהוא משעשע ומשמח בו:
 
 
-###### Metzudat David on Isaiah 5:6:6
+###### Metzudat David on Isaiah 5:7:2
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/5:6:6](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/5:6:6)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/5:7:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/5:7:2)
 
 
 **ויקו.** לפי מרבית הטובה שעשה להם היה מקום שיעשו משפט והנה לא כן הוא כי אספו חטאים רבים או עשו מעשים מגונים כנגע צרעת:
 
 
-###### Metzudat David on Isaiah 5:6:7
+###### Metzudat David on Isaiah 5:7:3
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/5:6:7](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/5:6:7)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/5:7:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/5:7:3)
 
 
 **לצדקה.** היה מקוה שיעשו צדקה והנה נשמע צעקת עשוקים:
@@ -2124,7 +2127,7 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/5:19:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/5:19:2)
 
 
-**ותקרב ותבואה.** כפל הדבד במ״ש:
+**ותקרב ותבואה.** כפל הדבר במ״ש:
 
 
 ###### Metzudat David on Isaiah 5:19:3
@@ -2676,7 +2679,7 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/6:12:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/6:12:1)
 
 
-**ורחק וכו׳.** האדם ישראל הקרואים אדם יהיה גולה למקום רחוק:
+**ורחק וגו׳ האדם.** ישראל הקרואים אדם יהיה גולה למקום רחוק:
 
 
 ###### Metzudat David on Isaiah 6:12:2
@@ -2787,12 +2790,20 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/7:3:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/7:3:2)
 
 
-**אל קצה וכו׳.** כי שם תמצאנו העליונה. כי שתים היו אחת ממעל ואחת מתחת:
+**אל קצה וכו׳.** כי שם תמצאנו:
 
 
 ###### Metzudat David on Isaiah 7:3:3
 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/7:3:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/7:3:3)
+
+
+**העליונה.** כי שתים היו אחת ממעל ואחת מתחת:
+
+
+###### Metzudat David on Isaiah 7:3:4
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/7:3:4](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/7:3:4)
 
 
 **שדה כובס.** השדה שהיו שוטחים שמה אל מול השמש את הבגדים המכובסים:
@@ -2841,7 +2852,7 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/7:5:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/7:5:1)
 
 
-**ויען.** בעבור שיעץ מחשבות כאלו נצחון המלחמה תלויה בכח חכמתו:
+**יען.** בעבור שיעץ מחשבות כאלו נצחון המלחמה תלויה בכח חכמתו:
 
 
 
@@ -3310,12 +3321,20 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/8:2:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/8:2:1)
 
 
-**ואעידה.** אלה דברי ישעיה שאמר אחר שכתבתי הדברים האלה העדתי לי עדים נאמנים ר״ל החתים עליו אלה העדים שתהיה כתובה וחתומה בעדים שכן תהיה בקרוב אוריה הכהן. יתכן שהוא אוריה כ״ג שהיה בימי אחז:
+**ואעידה.** אלה דברי ישעיה שאמר אחר שכתבתי הדברים האלה העדתי לי עדים נאמנים ר״ל החתים עליו אלה העדים שתהיה כתובה וחתומה בעדים שכן תהיה בקרוב:
 
 
 ###### Metzudat David on Isaiah 8:2:2
 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/8:2:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/8:2:2)
+
+
+**אוריה הכהן.** יתכן שהוא אוריה כ״ג שהיה בימי אחז:
+
+
+###### Metzudat David on Isaiah 8:2:3
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/8:2:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/8:2:3)
 
 
 **זכריהו.** יתכן שכן היה שם אחד מחשובי ירושלים בזמן ההוא, וחז״ל אמרו שאוריה הוא שניבא בימי יהויקים וזכריהו הוא שהיה בתחילת בית השני ופירשו שאמר המקום כאשר תתקיים נבואת פורעניות אוריה תהיה לעדות שתתקיים נבואת נחמות זכריה:
@@ -3678,7 +3697,7 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/8:18:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/8:18:1)
 
 
-**הנה אנכי.** רצה לומר הנה המעשה שעשיתי אנכי והוא כתיבת הגליון ושמות הילדים אשר נתן לי ה׳ והם שאר ישוב ומהר שלל חש בז שהמה לאותות ולמופתים בישראל רצה לומר לרמז על הקירות אותם דעו שהכל נאמר מעם ה׳ וכו׳ ולא מלבי נעשו הדברים:
+**הנה אנכי.** רצה לומר הנה המעשה שעשיתי אנכי והוא כתיבת הגליון ושמות הילדים אשר נתן לי ה׳ והם שאר ישוב ומהר שלל חש בז שהמה לאותות ולמופתים בישראל רצה לומר לרמז על הקורות אותם דעו שהכל נאמר מעם ה׳ וכו׳ ולא מלבי נעשו הדברים:
 
 
 
@@ -4043,7 +4062,15 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/9:9:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/9:9:1)
 
 
-**לבנים נפלו.** מה בכך שנפלו בנין הלבנים הלא נבנה תמורתן באבני גזית ר״ל אם האויב גלה המקצת הנה עתה נתחזק ביותר כי חושבים שבא במקרה והיא לא תתמיד שקמים גדעו. אם נכרתו השקמים נחליף ארזים המעולים מהם וכפל הדבור במ״ש:
+**לבנים נפלו.** מה בכך שנפלו בנין הלבנים הלא נבנה תמורתן באבני גזית ר״ל אם האויב גלה המקצת הנה עתה נתחזק ביותר כי חושבים שבא במקרה והיא לא תתמיד:
+
+
+###### Metzudat David on Isaiah 9:9:2
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/9:9:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/9:9:2)
+
+
+**שקמים גדעו.** אם נכרתו השקמים נחליף ארזים המעולים מהם וכפל הדבור במ״ש:
 
 
 
@@ -4801,7 +4828,7 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/10:22:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/10:22:1)
 
 
-**כי אם וסו׳.** רצה לומר אף על פי שיהיו מרובים לא ישאר בהם כי אם שארית אשר ישובו לה׳ כי כליון חרוץ יבוא כנחל שוטף במשפט צדק ואמת כי יהיו ראוים לכליון:
+**כי אם וכו׳.** רצה לומר אף על פי שיהיו מרובים לא ישאר בהם כי אם שארית אשר ישובו לה׳ כי כליון חרוץ יבוא כנחל שוטף במשפט צדק ואמת כי יהיו ראוים לכליון:
 
 
 
@@ -4869,12 +4896,20 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/10:26:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/10:26:1)
 
 
-**ועורר.** ה׳ יעורר עליו שוט המכה דוגמת מכת מדין בימי גדעון שנפלו בלילה אחד והמלכים שברחו נהרגו עורב בצור עורב וכן כולם כמ״ש בשופטים ולקצר לא זכר אלא אחד מהם ורצה לומר כמוהם יהיה סנחריב אחר שישוב לארצו ימות שם בחרב ומטהו. חוזר על מלת ועורר לומר שיעורר עליו מטהו אשר היה על הים בפרעו ובחילו:
+**ועורר.** ה׳ יעורר עליו שוט המכה דוגמת מכת מדין בימי גדעון שנפלו בלילה אחד והמלכים שברחו נהרגו עורב בצור עורב וכן כולם כמ״ש בשופטים ולקצר לא זכר אלא אחד מהם ורצה לומר כמוהם יהיה סנחריב אחר שישוב לארצו ימות שם בחרב:
 
 
 ###### Metzudat David on Isaiah 10:26:2
 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/10:26:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/10:26:2)
+
+
+**ומטהו.** חוזר על מלת ועורר לומר שיעורר עליו מטהו אשר היה על הים בפרעו ובחילו:
+
+
+###### Metzudat David on Isaiah 10:26:3
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/10:26:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/10:26:3)
 
 
 **ונשאו.** יטלטלנו מן העולם כדרך שנשא את מצרים:
@@ -4999,7 +5034,7 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/10:32:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/10:32:2)
 
 
-**ינופף.** כשראה את ירושלים היה מניף ידו עליה בדרך בזיון ולעג כאומר הלא בנקל אכבשנה: הר וכו׳:
+**ינופף.** כשראה את ירושלים היה מניף ידו עליה בדרך בזיון ולעג כאומר הלא בנקל אכבשנה:
 
 
 ###### Metzudat David on Isaiah 10:32:3
@@ -5007,7 +5042,7 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/10:32:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/10:32:3)
 
 
-**גבעת וכו׳.** כפל הדבר במ״ש:
+**הר וכו׳ גבעת וכו׳.** כפל הדבר במ״ש:
 
 
 
@@ -5165,12 +5200,20 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/11:6:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/11:6:1)
 
 
-**וגר זאב.** אף החיות לא יטרפו טרף והזאב ידור יחד עם הכבש ולא יטרפנו יחדו. ירבצו יחדו ולא ירעדו זה מזה:
+**וגר זאב.** אף החיות לא יטרפו טרף והזאב ידור יחד עם הכבש ולא יטרפנו:
 
 
 ###### Metzudat David on Isaiah 11:6:2
 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/11:6:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/11:6:2)
+
+
+**יחדו.** ירבצו יחדו ולא ירעדו זה מזה:
+
+
+###### Metzudat David on Isaiah 11:6:3
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/11:6:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/11:6:3)
 
 
 **נוהג בם.** ולא יזיקו את הנער:
@@ -5254,7 +5297,7 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/11:9:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/11:9:3)
 
 
-**כמים לים מכסים.** מקום המים קרוי ים והמים ממלאים אותו המקום עד שלא יראה הקרקע ואמר כמו שכל היה מכוסה במים כן יהיו כולם מכוסים וממולאים בדעה:
+**כמים לים מכסים.** מקום המים קרוי ים והמים ממלאים אותו המקום עד שלא יראה הקרקע ואמר כמו שכל הים מכוסה במים כן יהיו כולם מכוסים וממולאים בדעה:
 
 
 
@@ -5265,7 +5308,7 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/11:10:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/11:10:1)
 
 
-**שורש ישי.** משיח היוצא משורש ישי אשר יהיה עומד ביום ההוא י ום קבוץ גליות. לנס עמים. הוא לכל העמים כמו נושא הנס אשר הדרך הוא שכל אנשי החיל הולכים אחריו כן ידרשו כל העובדי כוכבים אל המשיח ואחריו ילכו לעשות מה שיצוום:
+**שורש ישי.** משיח היוצא משורש ישי אשר יהיה עומד ביום ההוא יום קבוץ גליות:
 
 
 ###### Metzudat David on Isaiah 11:10:2
@@ -5273,7 +5316,15 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/11:10:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/11:10:2)
 
 
-**והיתה מנוחתו כבוד.** בוחר במנוחה ולא יתגרה במי אבל מנוחת המשיח תהיה לו לכבוד כי כולם יהיו נשמעין אליו:
+**לנס עמים.** הוא לכל העמים כמו נושא הנס אשר הדרך הוא שכל אנשי החיל הולכים אחריו כן ידרשו כל העובדי כוכבים אל המשיח ואחריו ילכו לעשות מה שיצוום:
+
+
+###### Metzudat David on Isaiah 11:10:3
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/11:10:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/11:10:3)
+
+
+**והיתה מנוחתו כבוד.** לפי שהמנוחה למלכים היא לו לבושת ולכלימה כי מקוצר יד בוחר במנוחה ולא יתגרה במי אבל מנוחת המשיח תהיה לו לכבוד כי כולם יהיו נשמעין אליו:
 
 
 
@@ -5338,7 +5389,7 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/11:13:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/11:13:3)
 
 
-**יכרתו.** ר״ל לא יהיו עוד צוררים כי השנאה תכרת ואיכה:
+**יכרתו.** ר״ל לא יהיו עוד צוררים כי השנאה תכרת ואינה:
 
 
 ###### Metzudat David on Isaiah 11:13:4
@@ -6027,7 +6078,7 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/14:1:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/14:1:1)
 
 
-**כי ירחם ה׳.** חוזר למעלה לומר וזה יקרב עת רץ בבל כי ירחם וכו׳ ובחורבן בבל תהיה תשועה לישראל:
+**כי ירחם ה׳.** חוזר למעלה לומר וזה יקרב עת קץ בבל כי ירחם וכו׳ ובחורבן בבל תהיה תשועה לישראל:
 
 
 ###### Metzudat David on Isaiah 14:1:2
@@ -6097,7 +6148,15 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/14:3:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/14:3:2)
 
 
-**הניח ה׳.** שיתן לך מנוחה ממה שהיית עד הנה בעצב וברוגז ומן העבודה ויהיה לך מנוחה מן העבודה הקשה אשר מלך בבל עבד בך:
+**הניח ה׳.** שיתן לך מנוחה ממה שהיית עד הנה בעצב וברוגז:
+
+
+###### Metzudat David on Isaiah 14:3:3
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/14:3:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/14:3:3)
+
+
+**ומן העבודה.** ויהיה לך מנוחה מן העבודה הקשה אשר מלך בבל עבד בך:
 
 
 
@@ -6219,7 +6278,15 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/14:9:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/14:9:2)
 
 
-**עורר לך.** השאול הקיץ בעבורך את המתים מן העתודים הם השרים המנהיגים את העם כעתודים ההולכים בראש העדר הקים השאול הקים. כל המלכים מכסאותם לצאת לקראתך וענין מליצה הוא:
+**עורר לך.** השאול הקיץ בעבורך את המתים מן העתודים הם השרים המנהיגים את העם כעתודים ההולכים בראש העדר:
+
+
+###### Metzudat David on Isaiah 14:9:3
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/14:9:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/14:9:3)
+
+
+**הקים.** השאול הקים כל המלכים מכסאותם לצאת לקראתך וענין מליצה הוא:
 
 
 
@@ -6379,7 +6446,15 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/14:17:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/14:17:2)
 
 
-**ועריו.** אף ערי עצמו הרס בעברתו לא פתח ביתה. לא התיר אסיריו ללכת לביתם:
+**ועריו.** אף ערי עצמו הרס בעברתו:
+
+
+###### Metzudat David on Isaiah 14:17:3
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/14:17:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/14:17:3)
+
+
+**לא פתח ביתה.** לא התיר אסיריו ללכת לביתם:
 
 
 
@@ -6409,7 +6484,15 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/14:19:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/14:19:2)
 
 
-**לבוש הרוגים.** בלבוש מלוכלך כמו לבוש הרוגים מדוקרי חרב מרוב הלכלוך יורדי אל אבני בור. ר״ל אשר מרוב הלכלוך יורדים במלבושים כאלה בעמקי הבור כגוף הפגר הנרמס כי לגודל המאוס לא יפשטו המלבושים מעליהם ואמר שבמלבוש כזה יגררו פגר נ״נ ללעג ולקלס:
+**לבוש הרוגים.** בלבוש מלוכלך כמו לבוש הרוגים מדוקרי חרב מרוב הלכלוך:
+
+
+###### Metzudat David on Isaiah 14:19:3
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/14:19:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/14:19:3)
+
+
+**יורדי אל אבני בור.** ר״ל אשר מרוב הלכלוך יורדים במלבושים כאלה בעמקי הבור כגוף הפגר הנרמס כי לגודל המאוס לא יפשטו המלבושים מעליהם ואמר שבמלבוש כזה יגררו פגר נ״נ ללעג ולקלס:
 
 
 
@@ -6774,7 +6857,7 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/15:2:4](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/15:2:4)
 
 
-**גדועה.** תלש השערות ונחסר מהם:
+**גרועה.** תלש השערות ונחסר מהם:
 
 
 
@@ -6785,7 +6868,15 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/15:3:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/15:3:1)
 
 
-**בחוצותיו.** בפרסום חגרו שקים לאבל וצער כלה ייליל בכל מקום מהמקומות האלה ישמע קול יללה ונהימה בבכי:
+**בחוצותיו.** בפרסום חגרו שקים לאבל וצער:
+
+
+###### Metzudat David on Isaiah 15:3:2
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/15:3:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/15:3:2)
+
+
+**כלה ייליל.** בכל מקום מהמקומות האלה ישמע קול יללה ונהימה בבכי:
 
 
 
@@ -6796,7 +6887,7 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/15:4:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/15:4:1)
 
 
-**ותזעק השבון.** עדת חשבון:
+**ותזעק חשבון.** עדת חשבון:
 
 
 ###### Metzudat David on Isaiah 15:4:2
@@ -6812,7 +6903,15 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/15:4:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/15:4:3)
 
 
-**על כן.** בעבור זעקת העם גם חלוצי הצבא שבמואב יריעו גם המה תרועת הבכי והיללה ולא שתו לבם להלחם עוד נפשו ירעה לו. נפשו של מואב ירעה תרועת שבר על עצמו:
+**על כן.** בעבור זעקת העם גם חלוצי הצבא שבמואב יריעו גם המה תרועת הבכי והיללה ולא שתו לבם להלחם עוד:
+
+
+###### Metzudat David on Isaiah 15:4:4
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/15:4:4](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/15:4:4)
+
+
+**נפשו ירעה לו.** נפשו של מואב ירעה תרועת שבר על עצמו:
 
 
 
@@ -6939,12 +7038,20 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/15:9:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/15:9:3)
 
 
-**כי אשית על דימון נוספות.** שמו דימון מלשון דם ואוסיף עליו דם חללים והוא ענין מליצה לשון נופל על לשון לפליטת מואב ארים. על הפליטים ממואב יבוא האריה וחיות הטורפות ולא ישאירו שארית:
+**כי אשית על דימון נוספות.** שמו דימון מלשון דם ואוסיף עליו דם חללים והוא ענין מליצה לשון נופל על לשון:
 
 
 ###### Metzudat David on Isaiah 15:9:4
 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/15:9:4](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/15:9:4)
+
+
+**לפליטת מואב אריה.** על הפליטים ממואב יבוא האריה וחיות הטורפות ולא ישאירו שארית:
+
+
+###### Metzudat David on Isaiah 15:9:5
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/15:9:5](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/15:9:5)
 
 
 **ולשארית אדמה.** על הנשארי׳ באדמת מואב יבוא האריה וחיתו יער וכפל הדבר במ״ש לחוזק הענין:
@@ -7061,7 +7168,7 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/16:5:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/16:5:1)
 
 
-**והוכן בהסד.** המקום הכין כסא המלוכה בירושלים:
+**והוכן בחסד.** המקום הכין כסא המלוכה בירושלים:
 
 
 ###### Metzudat David on Isaiah 16:5:2
@@ -7077,12 +7184,28 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/16:5:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/16:5:3)
 
 
-**באהל דוד.** בבית המלכות שופט. לכל הבא למשפט ודורש יחקור מעצמו לעשות משפט העשוקים ואף אם לא יצעקו לפניו:
+**באהל דוד.** בבית המלכות:
 
 
 ###### Metzudat David on Isaiah 16:5:4
 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/16:5:4](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/16:5:4)
+
+
+**שופט.** לכל הבא למשפט:
+
+
+###### Metzudat David on Isaiah 16:5:5
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/16:5:5](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/16:5:5)
+
+
+**ודורש.** יחקור מעצמו לעשות משפט העשוקים ואף אם לא יצעקו לפניו:
+
+
+###### Metzudat David on Isaiah 16:5:6
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/16:5:6](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/16:5:6)
 
 
 **ומהיר צדק.** יהיה מהיר וזריז לעשות צדק ומוסב למעלה לומר הואיל ונפל סנחריב והוכן כסא חזקיה אם כן יכולים היו לחזור למקומם אם היית מסתירם:
@@ -7869,7 +7992,7 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/18:7:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/18:7:1)
 
 
-**יובל שי.** יובא דורון את עם ישראל שהיה עם ממשך ומורט ומעם נורא יובא דורון מהעם אשר נראה בהם מעשים נוראים מן היום אשר היה לעם והלאה וכפל הדבר במ״ש:
+**יובל שי.** יובא דורון את עם ישראל שהיה עם ממשך ומורט:
 
 
 ###### Metzudat David on Isaiah 18:7:2
@@ -7877,12 +8000,20 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/18:7:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/18:7:2)
 
 
-**גוי קו קו.** אשר בכל ימי גלותם היה מקוה לה׳ וחוזר ומקוה ועם כי בזזו את ארצו ורמסוהו ברגליהם:
+**ומעם נורא.** יובא דורון מהעם אשר נראה בהם מעשים נוראים מן היום אשר היה לעם והלאה וכפל הדבר במ״ש:
 
 
 ###### Metzudat David on Isaiah 18:7:3
 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/18:7:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/18:7:3)
+
+
+**גוי קו קו.** אשר בכל ימי גלותם היה מקוה לה׳ וחוזר ומקוה ועם כי בזזו את ארצו ורמסוהו ברגליהם:
+
+
+###### Metzudat David on Isaiah 18:7:4
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/18:7:4](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/18:7:4)
 
 
 **אל מקום.** ההבאה תהיה אל המקום אשר נקרא שמה שם ה׳ צבאות והוא הר ציון וכן נאמר והביאו וכו׳ מנחה לה׳ וכו׳ על הר קדשי (לקמן סו):
@@ -8384,7 +8515,15 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/19:24:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/19:24:1)
 
 
-**שלישיה.** שלישית תהיה לה באמונת האל, או שתהיה מושלת על מצרים ועל אשור ברכה. כל השלשה יהיו ברכה בקרב הארץ שתהיה להם ברכה יותר מכל האומות:
+**שלישיה.** שלישית תהיה לה באמונת האל, או שתהיה מושלת על מצרים ועל אשור:
+
+
+###### Metzudat David on Isaiah 19:24:2
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/19:24:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/19:24:2)
+
+
+**ברכה.** כל השלשה יהיו ברכה בקרב הארץ שתהיה להם ברכה יותר מכל האומות:
 
 
 
@@ -8436,7 +8575,15 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/20:2:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/20:2:1)
 
 
-**ופתחת השק.** כי ישעיה היה מתאבל על גלות עשרת השבטים ולבש השק על מתניו לצער ולאבל ואמר לו המקום שיתיר השק מעל מתניו וישאר ערום כי אותו לבד לבש הלוך. היה מהלך ערום ויחף:
+**ופתחת השק.** כי ישעיה היה מתאבל על גלות עשרת השבטים ולבש השק על מתניו לצער ולאבל ואמר לו המקום שיתיר השק מעל מתניו וישאר ערום כי אותו לבד לבש:
+
+
+###### Metzudat David on Isaiah 20:2:2
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/20:2:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/20:2:2)
+
+
+**הלוך.** היה מהלך ערום ויחף:
 
 
 
@@ -9072,7 +9219,7 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/22:5:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/22:5:1)
 
 
-**כי יום וכו׳.** לה׳ וכו׳ מוכן לה׳ להביא על ירושלים יום מהומה וכו׳:
+**כי יום וכו׳ לה׳ וכו׳.** מוכן לה׳ להביא על ירושלים יום מהומה וכו׳:
 
 
 ###### Metzudat David on Isaiah 22:5:2
@@ -9632,7 +9779,7 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/23:3:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/23:3:3)
 
 
-**ותהי סחר גוים.** צור היתה סחר גוים כולה היו סוחרים עמה:
+**ותהי סחר גוים.** צור היתה סחר גוים כולם היו סוחרים עמה:
 
 
 
@@ -9795,7 +9942,7 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/23:12:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/23:12:1)
 
 
-**ויאמר וכו׳.** המעשקה וכו׳ ; ה׳ אמר את עדת צידון הנעשקה משודדי צור בהיות סחורתו שמה מעתה לא תוסיפו עוד לשמוח על כי מקום סחרך היה קרוב לך:
+**ויאמר וכו׳ המעשקה וכו׳.** ה׳ אמר את עדת צידון הנעשקה משודדי צור בהיות סחורתו שמה מעתה לא תוסיפו עוד לשמוח על כי מקום סחרך היה קרוב לך:
 
 
 ###### Metzudat David on Isaiah 23:12:2
@@ -9957,7 +10104,7 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/23:18:5](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/23:18:5)
 
 
-**כי ליושבים וכו׳.** סחרה ריוח סחרה הקדיש לכהנים היושבים לפני ה׳ בבית המקדש:
+**כי ליושבים וכו׳ סחרה.** ריוח סחרה הקדיש לכהנים היושבים לפני ה׳ בבית המקדש:
 
 
 ###### Metzudat David on Isaiah 23:18:6
@@ -11054,7 +11201,7 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/26:14:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/26:14:1)
 
 
-**מתים.** כי אמרנו ואין בהם חיות:
+**מתים.** כי אמרנו הלא העכו"ם המה כמתים ואין בהם חיות:
 
 
 ###### Metzudat David on Isaiah 26:14:2
@@ -11114,7 +11261,7 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/26:18:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/26:18:1)
 
 
-**הרינו חלנו.** לפי שאנו מובטחים להגאל אחז במשל מאשת לידה שיש לה צער הריון וחיל הלידה ויולדת רוח בעלמא שאין לה במה להתנחם על הצער שסבלה ור״ל יאמרו בתפלתם הלא דמינו לאשת לידה כזאת כי סבלנו קושי השעבוד ואין במה להתנחם כי עדיין לא נעשה ישועה בארץ ועדיין לא נפלו הכשדים שכבשו ומלאו פני תבל:
+**הרינו חלנו.** לפי שאנו מובטחים להגאל מתוך קושי השעבוד אחז במשל מאשת לידה שיש לה צער הריון וחיל הלידה ויולדת רוח בעלמא שאין לה במה להתנחם על הצער שסבלה ור״ל יאמרו בתפלתם הלא דמינו לאשת לידה כזאת כי סבלנו קושי השעבוד ואין במה להתנחם כי עדיין לא נעשה ישועה בארץ ועדיין לא נפלו הכשדים שכבשו ומלאו פני תבל:
 
 
 
@@ -11312,7 +11459,7 @@ For out of Zion – Because the true Torah is that which comes out of Zion. Ther
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/27:6:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/27:6:1)
 
 
-**הבאים.** תחסר מלת בימים ור״ל בימים הבאים ומעצמו יובן החסרון וכאומר אם מאז לא הערתי כל חמתי כ״ש בימי הגאולה ארחם עליהם ויתן יעקב את שרשו להיות מתפשט למרחוק וישראל יציף ויפרח ר״ל ימשלו עד למרחוק ויגדלו עד מאד:
+**הבאים.** תחסר מלת בימים ור״ל בימים הבאים ומעצמו יובן החסרון וכאומר אם מאז לא הערתי כל חמתי כ״ש בימי הגאולה ארחם עליהם ויתן יעקב את שרשו להיות מתפשט למרחוק וישראל יציץ ויפרח ר״ל ימשלו עד למרחוק ויגדלו עד מאד:
 
 
 ###### Metzudat David on Isaiah 27:6:2
@@ -11893,7 +12040,7 @@ Line for a line. Based on the plumb lines that are used to keep a building strai
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/28:13:5](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/28:13:5)
 
 
-**למען ילכו.** בעבור זאת כשילכו וכפלו לפול אחור וישברו ויפלו בהמוקש וילכדו בה ר״ל יפלו בצרה ולא יוכלו להמלט:
+**למען ילכו.** בעבור זאת כשילכו יכשלו לפול אחור וישברו ויפלו בהמוקש וילכדו בה ר״ל יפלו בצרה ולא יוכלו להמלט:
 
 
 
@@ -13107,7 +13254,7 @@ Line for a line. Based on the plumb lines that are used to keep a building strai
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/30:8:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/30:8:1)
 
 
-**עתה בוא כתבה.** אמר להנביא עתה כתוב זאת לזכרון על הלוח אשד חתום וחקוק הדבר על הספר למען תהיה לזכרון לימים אחרונים עד עולם לדעת שלא על חנם הבאתי הפורעניות עליהם כ״א בעבור עונם:
+**עתה בוא כתבה.** אמר להנביא עתה כתוב זאת לזכרון על הלוח אשר חתום וחקוק הדבר על הספר למען תהיה לזכרון לימים אחרונים עד עולם לדעת שלא על חנם הבאתי הפורעניות עליהם כ״א בעבור עונם:
 
 
 
@@ -14073,12 +14220,20 @@ Line for a line. Based on the plumb lines that are used to keep a building strai
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/32:6:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/32:6:1)
 
 
-**נבלה ידבר.** בכל עת מדבר דברים מגונים וכעורים ומחשבות לבו לקבץ און לחשוב מחשבות לעשות חנופה ולדבר על ה׳ דבר תועה הפך האמת כי יאמר שאינו משגיח להריק. ר״ל יחשב כזאת למען לעשוק מאכל הרעב וכאלו יריק נפשו ממנו ולא ירא מה׳ בחושבו שאינו משגיח:
+**נבלה ידבר.** בכל עת מדבר דברים מגונים וכעורים ומחשבות לבו לקבץ און לחשוב מחשבות לעשות חנופה ולדבר על ה׳ דבר תועה הפך האמת כי יאמר שאינו משגיח:
 
 
 ###### Metzudat David on Isaiah 32:6:2
 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/32:6:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/32:6:2)
+
+
+**להריק.** ר״ל יחשב כזאת למען לעשוק מאכל הרעב וכאלו יריק נפשו ממנו ולא ירא מה׳ בחושבו שאינו משגיח:
+
+
+###### Metzudat David on Isaiah 32:6:3
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/32:6:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/32:6:3)
 
 
 **ומשקה צמא יחסיר.** ר״ל ולמען יחסיר המשקה מן הצמא כי חפצו לקחת ממונו בעושק וזה חוזר למעלה לומר אם כל אלה המדות הרעות נמצאו בנבל איך א״כ ראוי לקראו נדיב שהוא ההפך:
@@ -14284,7 +14439,15 @@ Line for a line. Based on the plumb lines that are used to keep a building strai
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/32:15:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/32:15:1)
 
 
-**עד יערה.** ר״ל כן תהיה חרבה עד אשר ישפוך עלינו ממרום רוח הרצון והרחמים והיה מדבר לכרמל. מקום שממה כמדבר חשוב להיות כרמל והוא מקום שדות וכרמים. והכרמל. מקומות שהם עתה ככרמל תשוב להיות כיער מבלי מצוא שדות וכרמים:
+**עד יערה.** ר״ל כן תהיה חרבה עד אשר ישפוך עלינו ממרום רוח הרצון והרחמים:
+
+
+###### Metzudat David on Isaiah 32:15:2
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/32:15:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/32:15:2)
+
+
+**והיה מדבר לכרמל.** מקום שממה כמדבר חשוב להיות כרמל והוא מקום שדות וכרמים. והכרמל. מקומות שהם עתה ככרמל תשוב להיות כיער מבלי מצוא שדות וכרמים:
 
 
 
@@ -17312,7 +17475,7 @@ Comfort, Comfort. Your G-d says to the prophets "Comfort my people", and the dou
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/40:14:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/40:14:1)
 
 
-**את מי.** עם מי נתייעץ ומי השכילו בינה ומי למדו ללכת בדרך משפט ומי למדו דעת ומי הודיעו דרך תבונות וכפל הדבר העמים הרבה לתפארת המליצה:
+**את מי.** עם מי נתייעץ ומי השכילו בינה ומי למדו ללכת בדרך משפט ומי למדו דעת ומי הודיעו דרך תבונות וכפל הדבר פעמים הרבה לתפארת המליצה:
 
 
 
@@ -18225,7 +18388,7 @@ Comfort, Comfort. Your G-d says to the prophets "Comfort my people", and the dou
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/41:25:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/41:25:1)
 
 
-**העירותי.** כאומר הנה אני אגיד עתידות אשר כבר זורה מלפני להעיר את נ״נ מצפון לבוא על ירושלים להשחיתה ואח״ז יבוא כורש ממזרח ויקרא בשמי להאמין בי והוא יבוא על שרי בבל לרמסם כמו חומר וכמו היוצר הרומס בטיט וכפל הדבר במ״ש:
+**העירותי.** כאומר הנה אני אגיד עתידות אשר כבר גזירה מלפני להעיר את נ״נ מצפון לבוא על ירושלים להשחיתה ואח״ז יבוא כורש ממזרח ויקרא בשמי להאמין בי והוא יבוא על שרי בבל לרמסם כמו חומר וכמו היוצר הרומס בטיט וכפל הדבר במ״ש:
 
 
 
@@ -18779,7 +18942,15 @@ Comfort, Comfort. Your G-d says to the prophets "Comfort my people", and the dou
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/42:17:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/42:17:1)
 
 
-**נסוגו וכו׳.** אז הבוטחים בפסל יבושו בבושת ויחזרו לאחור כדרך אדם הנכלם שחוזר לאחוריו לבל יראהו בבשתו: האומרים וכו׳ ; כפל הדבר במ״ש:
+**נסוגו וכו׳.** אז הבוטחים בפסל יבושו בבושת ויחזרו לאחור כדרך אדם הנכלם שחוזר לאחוריו לבל יראהו בבשתו:
+
+
+###### Metzudat David on Isaiah 42:17:2
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/42:17:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/42:17:2)
+
+
+**האומרים וכו׳.** כפל הדבר במ״ש:
 
 
 
@@ -19873,7 +20044,7 @@ Comfort, Comfort. Your G-d says to the prophets "Comfort my people", and the dou
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/44:12:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/44:12:1)
 
 
-**חרש ברזל.** עתה יספר מעשה הפסל ואומר האומן של ברזלי יעשה מעצד ופעל אותו ע״י גחלים בזרוע ובמקבות יעשהו ומחדשו:
+**חרש ברזל.** עתה יספר מעשה הפסל ואומר האומן של ברזל יעשה מעצד ופעל אותו ע״י גחלים בזרוע ובמקבות יעשהו ומחדשו:
 
 
 ###### Metzudat David on Isaiah 44:12:2
@@ -20424,7 +20595,7 @@ Comfort, Comfort. Your G-d says to the prophets "Comfort my people", and the dou
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/45:4:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/45:4:2)
 
 
-**ואקרא וכו׳.** פעם קראתי עליך בשמך כורש ופעם חתם שמו עם כי ידבר עליו והרי הוא כאלו מזכירו בשם הכנוי:
+**ואקרא וכו׳.** פעם קראתי עליך בשמך כורש ופעם סתם שמו עם כי ידבר עליו והרי הוא כאלו מזכירו בשם הכנוי:
 
 
 ###### Metzudat David on Isaiah 45:4:3
@@ -20595,7 +20766,7 @@ Comfort, Comfort. Your G-d says to the prophets "Comfort my people", and the dou
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/45:13:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/45:13:1)
 
 
-**אנכי העירותיהו.** על כורש האמור בתחילת הענין יאמר שהוא העיר לבבי לבוא על בבל ולהחריבה וההערה היה בצדק כי ראויה היא לאבדון:
+**אנכי העירותיהו.** על כורש האמור בתחילת הענין יאמר שהוא העיר לבבו לבוא על בבל ולהחריבה וההערה היה בצדק כי ראויה היא לאבדון:
 
 
 ###### Metzudat David on Isaiah 45:13:2
@@ -20870,7 +21041,7 @@ Comfort, Comfort. Your G-d says to the prophets "Comfort my people", and the dou
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/45:22:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/45:22:1)
 
 
-**פנו אלי.** אתם העכו״ם היושבים בקצות הארץ פנו אלי להאמין בי ואז תהיו נושאים כי אני אל והכל בידי ואין עוד זולתי:
+**פנו אלי.** אתם העכו״ם היושבים בקצות הארץ פנו אלי להאמין בי ואז תהיו נושעים כי אני אל והכל בידי ואין עוד זולתי:
 
 
 
@@ -21771,7 +21942,7 @@ Comfort, Comfort. Your G-d says to the prophets "Comfort my people", and the dou
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/48:5:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/48:5:1)
 
 
-**ואגיד לך.** בעבור כל אלה הגדתי לך מפלת סנחריב מאז והשמעתיך טרם בואה כי פן תאמר בבואה העכו״ם עשה הדברים האלה ולא ה׳ פעל זאת לכן הקדמתי להשמיעך
+**ואגיד לך.** בעבור כל אלה הגדתי לך מפלת סנחריב מאז והשמעתיך טרם בואה כי פן תאמר בבואה העכו״ם עשה הדברים האלה ולא ה׳ פעל זאת לכן הקדמתי להשמיעך:
 
 
 ###### Metzudat David on Isaiah 48:5:2
@@ -21779,7 +21950,7 @@ Comfort, Comfort. Your G-d says to the prophets "Comfort my people", and the dou
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/48:5:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/48:5:2)
 
 
-**צוה** צוה את הדברים ההמה וכפל הדבר במ״ש:
+**צום** צוה את הדברים ההמה וכפל הדבר במ״ש:
 
 
 
@@ -22374,7 +22545,7 @@ Comfort, Comfort. Your G-d says to the prophets "Comfort my people", and the dou
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/49:7:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/49:7:2)
 
 
-**למתעב גוי.** על מי:
+**למתעב גוי.** על מי שהוא מתועב לכל גוי:
 
 
 ###### Metzudat David on Isaiah 49:7:3
@@ -22847,7 +23018,7 @@ Comfort, Comfort. Your G-d says to the prophets "Comfort my people", and the dou
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/49:26:5](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/49:26:5)
 
 
-**וגואלך וכו׳.** כפל הדבר במ ״ש:
+**וגואלך וכו׳.** כפל הדבר במ״ש:
 
 
 
@@ -23282,7 +23453,7 @@ Comfort, Comfort. Your G-d says to the prophets "Comfort my people", and the dou
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/51:4:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/51:4:3)
 
 
-**ומשפטי לאור עמים.** ומשפט משיחי יצא להאיר עיני העמים בדברי רבותם כמ״ש ושפט בין הגוים וגו׳:
+**ומשפטי לאור עמים.** ומשפט משיחי יצא להאיר עיני העמים בדברי ריבותם כמ״ש ושפט בין הגוים וגו׳:
 
 
 ###### Metzudat David on Isaiah 51:4:4
@@ -24282,7 +24453,7 @@ Comfort, Comfort. Your G-d says to the prophets "Comfort my people", and the dou
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/53:4:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/53:4:1)
 
 
-**אכן הליינו הוא נשא.** אבל באמת לא מאס בו ה׳ כי כל חלי וכל מכאוב אשר סבל הכל בא מפאת עצמינו מה שהיינו מחליאים ומכאיבים אותו ברוע בחירתנו:
+**אכן חליינו הוא נשא.** אבל באמת לא מאס בו ה׳ כי כל חלי וכל מכאוב אשר סבל הכל בא מפאת עצמינו מה שהיינו מחליאים ומכאיבים אותו ברוע בחירתנו:
 
 
 ###### Metzudat David on Isaiah 53:4:2
@@ -24812,7 +24983,7 @@ This was said about Jerusalem, that she is like a poor afflicted one shivering a
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/54:12:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/54:12:3)
 
 
-**וכל גבולך.** אבני רצפה כל גבוליך יהפכו להיות אבני חפץ ר״ל אבני יקר שהאדם חפץ ורוצה בהם ולא כשאר אבנים המושלכים בחוצות:
+**וכל גבולך.** אבני רצפת כל גבוליך יהפכו להיות אבני חפץ ר״ל אבני יקר שהאדם חפץ ורוצה בהם ולא כשאר אבנים המושלכים בחוצות:
 
 
 
@@ -25212,7 +25383,7 @@ This was said about Jerusalem, that she is like a poor afflicted one shivering a
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/55:10:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/55:10:1)
 
 
-**כי כאשר וכו׳.** ר״ל כמו הגשם והשלג היורד מן השמים אשר לא ישוב אל השמים על ידי חום השמש השואב הרטיבות כי אם בתחילה מרוה האדמה וכו׳ ואח ״ז תשוב למעלה בחום השמש:
+**כי כאשר וכו׳.** ר״ל כמו הגשם והשלג היורד מן השמים אשר לא ישוב אל השמים על ידי חום השמש השואב הרטיבות כי אם בתחילה מרוה האדמה וכו׳ ואח״ז תשוב למעלה בחום השמש:
 
 
 ###### Metzudat David on Isaiah 55:10:2
@@ -25228,7 +25399,7 @@ This was said about Jerusalem, that she is like a poor afflicted one shivering a
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/55:10:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/55:10:3)
 
 
-**והצמיהה.** הוא הוצאת הצמח ממעל לארץ:
+**והצמיחה.** הוא הוצאת הצמח ממעל לארץ:
 
 
 ###### Metzudat David on Isaiah 55:10:4
@@ -25634,7 +25805,7 @@ This was said about Jerusalem, that she is like a poor afflicted one shivering a
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/57:1:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/57:1:2)
 
 
-**ואנשי חסד.** עי״ז נאספו הרבה אנשי חסד בעבור שאין מי מבין אשר מפני הרעה נאסף הצדיק הראשון למען לא יראה בהרעה המעותדת לבוא כי על כי לא היה מי מדגיש בדבר ולא שב לה׳ לזה הרבו למות עוד למען ירגישו או למען לא יראו גם המה בהרעה:
+**ואנשי חסד.** עי״ז נאספו הרבה אנשי חסד בעבור שאין מי מבין אשר מפני הרעה נאסף הצדיק הראשון למען לא יראה בהרעה המעותדת לבוא כי על כי לא היה מי מרגיש בדבר ולא שב לה׳ לזה הרבו למות עוד למען ירגישו או למען לא יראו גם המה בהרעה:
 
 
 
@@ -25661,7 +25832,7 @@ This was said about Jerusalem, that she is like a poor afflicted one shivering a
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/57:2:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/57:2:3)
 
 
-**הולך נכוהו.** כי כל אחד היה הולך בדרך הנכוחה ואין מהדין שיראה בהרעה:
+**הולך נכוחו.** כי כל אחד היה הולך בדרך הנכוחה ואין מהדין שיראה בהרעה:
 
 
 
@@ -26074,7 +26245,7 @@ This was said about Jerusalem, that she is like a poor afflicted one shivering a
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/57:17:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/57:17:3)
 
 
-**וילך שובב.** כי אף בעוד נסתרתי פני הים הולך לפני בסרוב ומרד ובדרך תאות לבו ולכן הרביתי עוד לקצוף:
+**וילך שובב.** כי אף בעוד נסתרתי פני היה הולך לפני בסרוב ומרד ובדרך תאות לבו ולכן הרביתי עוד לקצוף:
 
 
 
@@ -26128,7 +26299,7 @@ This was said about Jerusalem, that she is like a poor afflicted one shivering a
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/57:19:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/57:19:1)
 
 
-**בורא.** ניב שפתים אחדש אני לו ניב שפתים מחודש לא כמו לשעבר שהכל קנתרו אותו בדבריהם כי מעתה כולם יאמרו לו שלום שלום והכפל לחזק:
+**בורא ניב שפתים.** אחדש אני לו ניב שפתים מחודש לא כמו לשעבר שהכל קנתרו אותו בדבריהם כי מעתה כולם יאמרו לו שלום שלום והכפל לחזק:
 
 
 ###### Metzudat David on Isaiah 57:19:2
@@ -26239,7 +26410,7 @@ This was said about Jerusalem, that she is like a poor afflicted one shivering a
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/58:2:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/58:2:3)
 
 
-**כגוי וכו׳.** כאלו היה גוי העושה צדקה בכל עת ולא עזב משפט אלהיו שדרכו לחקור לדעת את המשפט כן ישאלני הם משפטי צדק וחפצים להתקרב אל אלהים לדעת מצותיו ור״ל כן מראין עצמם כאלו היו חרדים על המצות אבל לא כן הוא:
+**כגוי וכו׳.** כאלו היה גוי העושה צדקה בכל עת ולא עזב משפט אלהיו שדרכו לחקור לדעת את המשפט כן ישאלוני הם משפטי צדק וחפצים להתקרב אל אלהים לדעת מצותיו ור״ל כן מראין עצמם כאלו היו חרדים על המצות אבל לא כן הוא:
 
 
 
@@ -26584,7 +26755,7 @@ This was said about Jerusalem, that she is like a poor afflicted one shivering a
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/58:13:5](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/58:13:5)
 
 
-**לקדוש ה׳ מכובד.** ליום השבת שקדשו המקום תקרא יום מכובד מבלי עשות בו מלאכה של חול: **וכבדתו.** ר״ל לא בקריאת שם לבד אלא תכבדו בו עניניך:
+**לקדוש ה׳ מכובד.** ליום השבת שקדשו המקום תקרא יום מכובד מבלי עשות בו מלאכה של חול:
 
 
 ###### Metzudat David on Isaiah 58:13:6
@@ -26592,12 +26763,20 @@ This was said about Jerusalem, that she is like a poor afflicted one shivering a
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/58:13:6](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/58:13:6)
 
 
-**ממצוא.** מבלי מצוא בו חפצך ר״ל שלא תעשה בו חפצך מדברים האסורים בשבת:
+**וכבדתו.** ר״ל לא בקריאת שם לבד אלא תכבדו מעשות בו עניניך:
 
 
 ###### Metzudat David on Isaiah 58:13:7
 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/58:13:7](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/58:13:7)
+
+
+**ממצוא.** מבלי מצוא בו חפצך ר״ל שלא תעשה בו חפצך מדברים האסורים בשבת:
+
+
+###### Metzudat David on Isaiah 58:13:8
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/58:13:8](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/58:13:8)
 
 
 **ודבר דבר.** ומלדבר בו דבר הנאסר בשבת כחשבונות וכיוצא:
@@ -26714,7 +26893,7 @@ This was said about Jerusalem, that she is like a poor afflicted one shivering a
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/59:4:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/59:4:3)
 
 
-**בטוה על תוהו.** כל אחד בוטח על תוהו כי כאשר יבטח מי לחברו לא יקיים ההבטחה:
+**בטוח על תוהו.** כל אחד בוטח על תוהו כי כאשר יבטח מי לחברו לא יקיים ההבטחה:
 
 
 ###### Metzudat David on Isaiah 59:4:4
@@ -27462,7 +27641,7 @@ This was said about Jerusalem, that she is like a poor afflicted one shivering a
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/60:9:4](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/60:9:4)
 
 
-**ולקדוש ישראל.** כפל הדבר כמ״ש:
+**ולקדוש ישראל.** כפל הדבר במ״ש:
 
 
 ###### Metzudat David on Isaiah 60:9:5
@@ -28005,7 +28184,7 @@ This was said about Jerusalem, that she is like a poor afflicted one shivering a
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/61:8:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/61:8:3)
 
 
-**פעולתס.** שכר פעולתם אתן באמת:
+**פעולתם.** שכר פעולתם אתן באמת:
 
 
 ###### Metzudat David on Isaiah 61:8:4
@@ -28203,7 +28382,7 @@ This was said about Jerusalem, that she is like a poor afflicted one shivering a
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/62:6:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/62:6:2)
 
 
-**הפקדתי שומרים.** אלה השומרים כינוי על אבני ציון שאין להם עסק אחר כי אם יתמידו בבכי ואבל כשומרי החומות שאינם זזים מן השמירה והוסיף לומר כל היום וכל הלילה כי מנהג שומרי החומות לישן ביום ולא כן המה כי יבכו ויתאבלו ביום ובלילה:
+**הפקדתי שומרים.** אלה השומרים כינוי על אבלי ציון שאין להם עסק אחר כי אם יתמידו בבכי ואבל כשומרי החומות שאינם זזים מן השמירה והוסיף לומר כל היום וכל הלילה כי מנהג שומרי החומות לישן ביום ולא כן המה כי יבכו ויתאבלו ביום ובלילה:
 
 
 ###### Metzudat David on Isaiah 62:6:3
@@ -28411,7 +28590,7 @@ This was said about Jerusalem, that she is like a poor afflicted one shivering a
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/63:1:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/63:1:1)
 
 
-**מי זה בא.** מאדום הנביא התנבא שעתיד הקב״ה לעשות נקמה באדום והשר של מעלה מאדום יהרג תחלה והנביא מדבר בלשון הנוהג בבני אדם לבושי בגדים אשר בהרגם את מי נתז הדם על בגדיהם ולזה אמר כאלו ישאלו מי הוא זה הבא מאדום מוצבע בגדים בדם מעיר הבצורה היא כרך גדול וכו׳:
+**מי זה בא מאדום.** הנביא התנבא שעתיד הקב״ה לעשות נקמה באדום והשר של מעלה מאדום יהרג תחלה והנביא מדבר בלשון הנוהג בבני אדם לבושי בגדים אשר בהרגם את מי נתז הדם על בגדיהם ולזה אמר כאלו ישאלו מי הוא זה הבא מאדום מוצבע בגדים בדם מעיר הבצורה היא כרך גדול וכו׳:
 
 
 ###### Metzudat David on Isaiah 63:1:2
@@ -28687,7 +28866,7 @@ This was said about Jerusalem, that she is like a poor afflicted one shivering a
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/63:13:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/63:13:1)
 
 
-**מוליכם.** איה המוליכם בעומק הים כסוס הר׳ן במדבר במקום ישר ושוה שאינו נכשל במרוצתו כן לא נכשל כאשר הלכו בעומק הים כי היה המקום שוה וישר:
+**מוליכם.** איה המוליכם בעומק הים כסוס הרץ במדבר במקום ישר ושוה שאינו נכשל במרוצתו כן לא נכשל כאשר הלכו בעומק הים כי היה המקום שוה וישר:
 
 
 
@@ -28752,7 +28931,7 @@ This was said about Jerusalem, that she is like a poor afflicted one shivering a
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/63:16:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/63:16:2)
 
 
-**כי אברהם לא ידענו.** עשה עצמו כאלו לא ידענו עם כי נגלה לו בברית לא התפלל עלינו:
+**כי אברהם לא ידענו.** עשה עצמו כאלו לא ידענו עם כי נגלה לו בברית בין הבתרים שעבוד ארבעה מלכיות לא התפלל עלינו:
 
 
 ###### Metzudat David on Isaiah 63:16:3
@@ -28795,7 +28974,7 @@ This was said about Jerusalem, that she is like a poor afflicted one shivering a
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/63:17:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/63:17:2)
 
 
-**תקשיח לבנו.** בעבור זה הקשה לבנו וסתם מן היראה וכאילו מידך בא והוא כפל ענין במ״ש:
+**תקשיח לבנו.** בעבור זה הקשה לבנו וסחה מן היראה וכאילו מידך בא והוא כפל ענין במ״ש:
 
 
 ###### Metzudat David on Isaiah 63:17:3
@@ -28863,7 +29042,7 @@ This was said about Jerusalem, that she is like a poor afflicted one shivering a
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/64:1:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/64:1:3)
 
 
-**מפניך.** או חרדו הגוים מפניך:
+**מפניך.** אז חרדו הגוים מפניך:
 
 
 
@@ -29520,7 +29699,7 @@ This was said about Jerusalem, that she is like a poor afflicted one shivering a
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/65:16:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/65:16:2)
 
 
-**ישבע באלהי אמן.** כי כולם יאמינו בו על שהאמין הבטחתו ולכן ישבעו בו ובמ״ש ונשבעות לה׳ צבאות (לעיל יט):
+**ישבע באלהי אמן.** כי כולם יאמינו בו על שהאמין הבטחתו ולכן ישבעו בו וכמ״ש ונשבעות לה׳ צבאות (לעיל יט):
 
 
 ###### Metzudat David on Isaiah 65:16:3
@@ -29582,7 +29761,7 @@ This was said about Jerusalem, that she is like a poor afflicted one shivering a
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/65:18:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/65:18:2)
 
 
-**בורא את ירושלים גולה.** אחדש שם ירושלים להקרא גולה ואחדש שם עמה להקרא משוש:
+**בורא את ירושלים גילה.** אחדש שם ירושלים להקרא גילה ואחדש שם עמה להקרא משוש:
 
 
 
@@ -29874,7 +30053,7 @@ This was said about Jerusalem, that she is like a poor afflicted one shivering a
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/66:4:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/66:4:1)
 
 
-**לכן גם אני אבחר.** לכן גם אני אבחר להתעולל בהם בהבאת הרעות ולא אעזבם אל המקרה כ״א אבחר בהבאת הרעות:
+**גם אני אבחר.** לכן גם אני אבחר להתעולל בהם בהבאת הרעות ולא אעזבם אל המקרה כ״א אבחר בהבאת הרעות:
 
 
 ###### Metzudat David on Isaiah 66:4:2
@@ -29971,7 +30150,7 @@ This was said about Jerusalem, that she is like a poor afflicted one shivering a
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/66:7:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/66:7:1)
 
 
-**בטרם תחיל.** על ציון יאמר בטרים תחיל חיל היולדה תלד ר״ל יתקבצו בניה לתוכה כאלו ילדה אותם עכשיו מבלי חיל וחבלי לידה:
+**בטרם תחיל.** על ציון יאמר בטרם תחיל חיל היולדה תלד ר״ל יתקבצו בניה לתוכה כאלו ילדה אותם עכשיו מבלי חיל וחבלי לידה:
 
 
 ###### Metzudat David on Isaiah 66:7:2
@@ -30036,7 +30215,7 @@ This was said about Jerusalem, that she is like a poor afflicted one shivering a
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/66:10:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Isaiah/r/66:10:2)
 
 
-**כל אוהכיה.** כל מי שאהב אותה ותאב לראותה בבניינה:
+**כל אוהביה.** כל מי שאהב אותה ותאב לראותה בבניינה:
 
 
 ###### Metzudat David on Isaiah 66:10:3

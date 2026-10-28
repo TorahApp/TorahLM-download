@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): ספר דעת תבונות (Segments: 419, License: unknown)
 
-Version (En): Sefaria Community Translation (Segments: 220)
+Version (En): Sefaria Community Translation (Segments: 419)
 
 
 ## Chapter 1
@@ -476,7 +476,7 @@ Said the Soul - Now let us hear this introduction that you mentioned:
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/30:1](https://torahapp.org/share/book/Da%27at%20Tevunot/r/30:1)
 
 
-אמר השכל – אנו צריכים להבין עתה מהיכן נמצא כח באדם להשלים חסרונותיו, כיון שנברא חסר. אמנם, הנה אנחנו נכנסים עתה בים גדיל ורחב ידים מאד, כי הצעות רבות וגדולות יצטרכו לנו קודם שנבא להשלמת עניננו. והנה לך צריך מתון מתון, להבין הדברים בסדר נכון, כי זה דרך החכמה - לקנות ידיעות זו אחר זו, עד שבסוף הכל יצא לאור ענין אחד שלם, שהוצרכו בעבורו כל ההקדמות ההם:
+אמר השכל – אנו צריכים להבין עתה מהיכן נמצא כח באדם להשלים חסרונותיו, כיון שנברא חסר. אמנם, הנה אנחנו נכנסים עתה בים גדול ורחב ידים מאד, כי הצעות רבות וגדולות יצטרכו לנו קודם שנבא להשלמת עניננו. והנה לך צריך מתון מתון, להבין הדברים בסדר נכון, כי זה דרך החכמה - לקנות ידיעות זו אחר זו, עד שבסוף הכל יצא לאור ענין אחד שלם, שהוצרכו בעבורו כל ההקדמות ההם:
 
 
 Said the Intellect - We now need to understand from where man finds the power to complete his deficiencies, because he was created deficient. Indeed, we are now entering into a great and wide sea, for many great suggestions will we need before we arrive at the completion of our matter. And we need to go in measured steps, to understand these things is the proper order, because this is the path of wisdom - to acquire knowledge one point after another, until in the end everything emerges as one complete matter into the light, for which we need all these introductions:
@@ -991,7 +991,7 @@ Until now we have spoken in generalities, and from now need to come to the detai
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/44:3](https://torahapp.org/share/book/Da%27at%20Tevunot/r/44:3)
 
 
-נתחיל עתה כסדר, וזה יצא ראשונה - להבין פרטי העלם היחוד, כי הוא הזמן הראשון, ומשפטי הנהגתו ית' בזמן הזה.. וכאן יהיה לנו לבאר כל עניני העבודה בכל תולדותיה, וההכנה אשר באדם לעשותה, וכל שאר הבחינות שיש לנו להבחין בדבר הזה:
+נתחיל עתה כסדר, וזה יצא ראשונה - להבין פרטי העלם היחוד, כי הוא הזמן הראשון, ומשפטי הנהגתו ית' בזמן הזה. וכאן יהיה לנו לבאר כל עניני העבודה בכל תולדותיה, וההכנה אשר באדם לעשותה, וכל שאר הבחינות שיש לנו להבחין בדבר הזה:
 
 
 We will begin now in order, and this comes first - to understand the details of the concealment of the singularity, because it is the first period, and the laws of His behavior may He be blessed in this period...and here it will be for us to explain all the matters of the service in all its derivitives, and the preparation for man to do it, and all the other aspects that we need to understand in this matter:
@@ -1063,7 +1063,7 @@ In the end, the rule of His will is complete rule, which has nothing withholding
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/46:4](https://torahapp.org/share/book/Da%27at%20Tevunot/r/46:4)
 
 
-ואמנם עוד צריך שתדעי., שאפילו פעולותיו אלה שהם מושגות לנו, אין מושגות לנו אלא תולדותיהם; פירוש, הנפעל ממנו ית', אמנם לא דרך הפעולה - איך הוא ית' פועל אותה. כי כל מה שהוא בו ית' - אין השגה שתשיגהו, ואי אפשר להשיג אלא מה שהוא בנו, אנחנו נבראיו. ועל כן, אף על פי שניחס לו ית' המדות אשר ניחס, דרך משל, הידיעה, הזכירה, המחשבה, החמלה, הכעס, הרצון - לא נאמר מפני זה שדרך ידיעתו הוא כדרך ידיעתנו, ודרך זכירתו כדרך זכירתנו, ומחשבתו כמחשבתנו, וחמלתו כחמלתנו, וכעסו ככעסנו, ורצונו כרצוננו, וכן כולם; אלא אלו הפעולות הוא פועל בדרך הבלתי מושג ונודע לנו כלל, אבל אלינו מגיעים באותו הענין ואותו חוק שהוא רוצה. ולא עוד, אלא שאפילו הפעולות של החסרונות אינו צריך לפעול אותם בחסרון ההוא, כמו שהיה צריך לעשותם האדם שהיה רוצה לעשותם, אלא הוא אמר ויהי, באופן אשר דרכו נסתרה ולא מושגת לנו כלל, ולנו מגיעות הפעולות בשיעור ההוא שמגיעות. צא ולמד מקולו ית' באהל מועד, שאמרו חז"ל (תו"כ פרשת ויקרא, דיבורא דנדבה, פרשתא ב, י), "קול ה' בכח", ואף על פי כן משה שומע וכל ישראל לא שומעים". וכל זה נמשך מהיותו ית"ש כל יכול, והוא יכול לעשות כל מה שהוא רוצה, שאין שום חוק שיעכבהו, ושום משפט וגבול שימנעהו. על כן לא נקיש לפעולותיו מפעולת הנבראים כלל, אחר שהם מוגבלים ומותחמים, והוא ית"ש כל יכול לגמרי. ו:
+ואמנם עוד צריך שתדע, שאפילו פעולותיו אלה שהם מושגות לנו, אין מושגות לנו אלא תולדותיהם; פירוש, הנפעל ממנו ית', אמנם לא דרך הפעולה - איך הוא ית' פועל אותה. כי כל מה שהוא בו ית' - אין השגה שתשיגהו, ואי אפשר להשיג אלא מה שהוא בנו, אנחנו נבראיו. ועל כן, אף על פי שניחס לו ית' המדות אשר ניחס, דרך משל, הידיעה, הזכירה, המחשבה, החמלה, הכעס, הרצון - לא נאמר מפני זה שדרך ידיעתו הוא כדרך ידיעתנו, ודרך זכירתו כדרך זכירתנו, ומחשבתו כמחשבתנו, וחמלתו כחמלתנו, וכעסו ככעסנו, ורצונו כרצוננו, וכן כולם; אלא אלו הפעולות הוא פועל בדרך הבלתי מושג ונודע לנו כלל, אבל אלינו מגיעים באותו הענין ואותו חוק שהוא רוצה. ולא עוד, אלא שאפילו הפעולות של החסרונות אינו צריך לפעול אותם בחסרון ההוא, כמו שהיה צריך לעשותם האדם שהיה רוצה לעשותם, אלא הוא אמר ויהי, באופן אשר דרכו נסתרה ולא מושגת לנו כלל, ולנו מגיעות הפעולות בשיעור ההוא שמגיעות. צא ולמד מקולו ית' באהל מועד, שאמרו חז"ל (תו"כ פרשת ויקרא, דיבורא דנדבה, פרשתא ב, י), "קול ה' בכח", ואף על פי כן משה שומע וכל ישראל לא שומעים". וכל זה נמשך מהיותו ית"ש כל יכול, והוא יכול לעשות כל מה שהוא רוצה, שאין שום חוק שיעכבהו, ושום משפט וגבול שימנעהו. על כן לא נקיש לפעולותיו מפעולת הנבראים כלל, אחר שהם מוגבלים ומותחמים, והוא ית"ש כל יכול לגמרי. ו:
 
 
 And indeed you also need to know, that even those of His actions which are grasped by us, are only grasped through their consequences; meaning, That which is acted upon by Him may he be blessed, indeed not through the manner of action - how He may he be blessed causes it to act. For all that which is intrinsic to Him may he be blessed - there is no comprehension that could be grasped, and it is impossible to grasp other than that which is in us, his creations. And therefore, even though the characteristics that are ascribed to Him may he be blessed, as for example, knowledge, memory, thought, compassion, anger, will - are not mentioned because these ways of His knowledge are like our knowledge, and the ways of his memory are like our memories, and His thought like our thought and His compassion like our compassion, and his anger like our anger, and His will like our will, and so for all of them; rather these actions he does in a manner that is incomprehensible or known to us at all, but what reaches us in a matter and construct is that which He wants [to perceive]. And not only this, but even the actions achieved through deficiency do not need to be done through this deficiency, in the way that may would need to do them if he wanted to do them, rather He says "let it be", in the manner that his way is hidden and not grasped by us at all, And to us the actions reach us in the measure that they reach. Go and learn from His voice may he be blessed in the Tent of Meeting, that the sages said, may their memory be for a blessing (Torat Cohanim, parshat vaYikra, Dibura d'Nedavah, chapter 2:10) "The voice of haShem in power...", and even so Moshe heard and all of Israel did not hear [in the tent of meeting]. And all of the comes about from Him may his name be blessed being omnipotent, and he can do anything that he wishes, for the is no rule that would stop Him, or any law or boundary that would prevent Him. Therefore we cannot compare his actions to the actions of his creations at all, as they are limited and stretched while He may he be blessed is entirely omnipotent:
@@ -1135,7 +1135,7 @@ And indeed when the ultimate purpose is only revelation of the Singularity, and 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/48:4](https://torahapp.org/share/book/Da%27at%20Tevunot/r/48:4)
 
 
-ונמצא שבאמת בשתי מדות אלה אוחז האדון ב"ה תמיד, ושתים אלה קבע בחוקו מוסדי ארץ, א' - מדת השכר ועונש, היא הנהגת הטוב והרע בשיקול אחד לזכות ולחובה, ונקראת הנהגה זאת, הנהגת המשפט, שהקב"ה יושב ודן כל העולם כולו לפי מעשיהם הטובים והרעים. ואתיא תוך משפטו זה - מדת טובו אשר לפי חק שלמותו, לפי ענין ממשלתו, שבכחו הוא רוצה לתקן את כל נבראיו. והנה, לפי מדת השכר ועונש - הקב"ה, כביכול, משעבד מעשיו למעשי בני אדם, שאם הם טובים גם הוא יטיב להם, ואם הם רעים יוכרח, כביכול, להענישם; וכענין הכתוב (תהלים סח, לה), "תנו עוז לאלהים"; והפכו (דברים לב, יח), "צור ילדך תשי"; וכמאמרם ז"ל (איכה רבה א, לג), "בזמן שישראל עושים רצונו של מקום - מוסיפים כח בגבורה של מעלה, וכשאינן עושים רצונו של מקום - מתישין כח של מעלה", ח"ו, ולפי מדת ממשלתו ושליטתו אמר (זכריה ג, ט), "ומשתי את עון הארץ ההיא ביום אחד"; (ירמיהו נ, כ), "יבוקש את עון ישראל ואיננו ואת חטאת יהודה ולא תמצאנה". והנה לפי מדת הטוב ורע - משפטי ה' אמת לתת לאיש כדרכיו מדה כנגד מדה, והרבה דרכים למקום לשלם לאדם כפעלו, וכאורח איש ימציאנו, אכו לחסד אם לשבטו. אך לפי עצת טובו בחק שלמותו ית' - הצד השוה שבהן, להחזיר את הכל - לטוב שלם, לתיקון הגמור שיהיה באחרונה. ועל דבר זה נאמר (מלאכי ג, ו), "אני ה' לא שניתי". ובמדרשו של רשב"י אמרו (זוהר כי תצא רפא. וע"ש), "לא אשתני בכל אתר". ואמנם הנהגת השכר ועונש היא המגולית ונראית תמיד לעיני הכל, אך הגלגול שהוא מגלגל הכל לטובה עמוק עמוק הוא, ולא עבידא לאיגלויי כי אם לבסוף, אבל מתגלגל הוא והולך בכל עת ובכל שעה ודאי, ואינו פוסק:
+ונמצא שבאמת בשתי מדות אלה אוחז האדון ב"ה תמיד, ושתים אלה קבע בחוקו מוסדי ארץ, א' - מדת השכר ועונש, היא הנהגת הטוב והרע בשיקול אחד לזכות ולחובה, ונקראת הנהגה זאת, הנהגת המשפט, שהקב"ה יושב ודן כל העולם כולו לפי מעשיהם הטובים והרעים. ואתיא תוך משפטו זה - מדת טובו אשר לפי חק שלמותו, לפי ענין ממשלתו, שבכחו הוא רוצה לתקן את כל נבראיו. והנה, לפי מדת השכר ועונש - הקב"ה, כביכול, משעבד מעשיו למעשי בני אדם, שאם הם טובים גם הוא יטיב להם, ואם הם רעים יוכרח, כביכול, להענישם; וכענין הכתוב (תהלים סח, לה), "תנו עוז לאלהים"; והפכו (דברים לב, יח), "צור ילדך תשי"; וכמאמרם ז"ל (איכה רבה א, לג), "בזמן שישראל עושים רצונו של מקום - מוסיפים כח בגבורה של מעלה, וכשאינן עושים רצונו של מקום - מתישין כח של מעלה", ח"ו, ולפי מדת ממשלתו ושליטתו אמר (זכריה ג, ט), "ומשתי את עון הארץ ההיא ביום אחד"; (ירמיהו נ, כ), "יבוקש את עון ישראל ואיננו ואת חטאת יהודה ולא תמצאנה". והנה לפי מדת הטוב ורע - משפטי ה' אמת לתת לאיש כדרכיו מדה כנגד מדה, והרבה דרכים למקום לשלם לאדם כפעלו, וכאורח איש ימציאנו, אם לחסד אם לשבטו. אך לפי עצת טובו בחק שלמותו ית' - הצד השוה שבהן, להחזיר את הכל - לטוב שלם, לתיקון הגמור שיהיה באחרונה. ועל דבר זה נאמר (מלאכי ג, ו), "אני ה' לא שניתי". ובמדרשו של רשב"י אמרו (זוהר כי תצא רפא. וע"ש), "לא אשתני בכל אתר". ואמנם הנהגת השכר ועונש היא המגולית ונראית תמיד לעיני הכל, אך הגלגול שהוא מגלגל הכל לטובה עמוק עמוק הוא, ולא עבידא לאיגלויי כי אם לבסוף, אבל מתגלגל הוא והולך בכל עת ובכל שעה ודאי, ואינו פוסק:
 
 
 And we find that in truth with these two characteristics the Master may He be blessed always affects, and He set these two in his rules the foundations of the world, 1 - the character of reward and punishment, it is the manner of the Good and negativity in one balance of merit and liability, and called this behavior the manner of justice, that the Holy One blessed is he sits and judges all the world according to their actions - the good and the bad. And it comes with His justice - the character of his goodness which is according to the rule of His perfection, according to the manner of His rulership, for with his power he wishes to rectify all of his creations. And behold, according to the character of reward and punishment - the Holy One blessed is he, (as if it were possible), makes his actions subject to the actions of man, that if they are good He also does good for them, and if they are bad he is compelled, (as if that were possible), to punish them; and like the topic of the text (Psalms 68:35) "Give strength to G-d..."; and its opposite (Deuteronomy 32:18) "You neglect the Rock that bore you..."; and as they said may they be blessed (Eichah Rabbah 1:33), "At the time that Israel does the will of heaven - they add power to the strength above, and when they do not do the will of heaven - they weaken the strength above", G-d forbid, and according to his character of governance and rulership it says (Zechariah 3:9), "...and I will remove the transgression of that land in one day"; (Jeremiah 50:20), "The transgression of Israel shall be sought and not be and the sin of Judah and not be found". And behold according to the character of Good and negativity - The justice of G-d is true to give to man according to his ways quid pro quo, and there are many ways for haShem to pay man according to his actions, and by his manner will he be made, whether to kindness or to His rod. But according to the wisdom of His goodness in the rule of his perfection may He be blessed - the common aspect to them, is to return everything - to complete goodness, to a complete rectification which will be in the end. And regarding this it says (Malachi 3:6) I am G-d I have not changed". And in the madras of Rabbi Shimon Bar Yochai they said (Zohar ki Tetzei 281. and see there), "I shall not change in any place". And indeed the manner of reward and punishment is that which is revealed and always seen by the eyes of all, but the revolving that he revolves all towards the good is very very deep, and does not serve to be revealed except at the end, but it revolves and progresses in all periods and in every hour with certainty, and does not stop:
@@ -2807,12 +2807,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 והנה מן הדברים הנכללים בכונניות האלה הוא הרע בכל פרטיו, כמו שביארנו, וכל אלה דברים המצטרכים למצב הראשון הזה של האדם שהוא בעוה"ז. ותלויים כל אלה בענין גילוי יחודו ית', שכבר פירשתי ענינו למעלה, שהוא לגלות האור מתוך החשך, ומן הסתר הפנים הנעשה בראשונה עם כל תולדותיו יתגלה היחוד באחרונה. ותביני, כי הנה רצה הרצון העליון שיתברר אמתת יחודו בפועל, כמו שביארנו כבר, וזה על ידי כל הסבובים שהוא ית' מסבב בעולמו, כדברי הכתובים שזכרנו למעלה - (ישעיהו מג, י), "למען תדעו ותאמינו לי ותבינו כי אני הוא אל" וגו'; (דברים לב, לט), "ראו עתה כי אני אני הוא" וגו'. כי בתחלה הוא רוצה לברר דבר זה בפועל, ומסבב כל סיבוב חגלגל אל הנקודה הזאת. ואמנם כשיהיה נשלם הענין הזה, פירוש, שכבר נתברר דבר זה בפועל, משם והלאה יהיה הדבקות וההשגה שישיגו הנמצאים להתקשר בו ית' ולהתענג בשלמות יחודו שכבר נתגלה, ליהנות מזיו שכינתו, ולהשיג בשלמותו זה תמיד דברים עמוקים מהראשונים, עד אין סוף ועד אין תכלית:
 
 
+Bu düzeneklerin içine dahil olan şeylerden biri de bütün ayrıntılarıyla kötülüktür; bunu açıkladık. Bunların hepsi, insanın bu dünyadaki ilk durumu için gerekli şeylerdir. Bunların hepsi O’nun, mübarek olsun, Birliği’nin açığa çıkması konusuna bağlıdır; yukarıda bunun anlamını açıkladım: karanlığın içinden ışığın açığa çıkmasıdır. Başta gerçekleşen yüzün gizlenmesinden ve onun bütün sonuçlarından, sonunda Birlik açığa çıkacaktır. Şunu anlayacaksın: Üst İrade, O’nun Birliği’nin hakikatinin fiilen açıklığa kavuşmasını istedi; bunu daha önce açıkladık. Bu da O’nun, mübarek olsun, dünyasında döndürdüğü bütün döngüler aracılığıyla olur; yukarıda andığımız ayetlerin söylediği gibi: “Bilesiniz, Bana inanasınız ve anlayasınız ki Ben O’yum” (Yeşayahu 43:10) ve “Şimdi görün ki Ben, Ben O’yum” (Devarim 32:39). Çünkü başlangıçta O bu konuyu fiilen açıklığa kavuşturmak ister ve dönen her döngüyü bu noktaya yöneltir. Bu konu tamamlandığında, yani bu gerçek fiilen açıklığa kavuştuğunda, bundan sonra varlıkların O’na, mübarek olsun, bağlanmak ve artık açığa çıkmış olan Birliği’nin yetkinliğiyle haz almak için elde edecekleri devekut ve kavrayış başlayacaktır. Şekina’nın parıltısından yararlanacaklar ve O’nun bu yetkinliğinde, öncekilerden daha derin şeyleri sürekli kavrayacaklardır; bunun sonu ve sınırı yoktur.
+
+
 ###### Da'at Tevunot 124:4
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/124:4](https://torahapp.org/share/book/Da%27at%20Tevunot/r/124:4)
 
 
 נמצא בכאן שני סוגים בפעולותיו ית', א' - מה שיעשה אחר שכבר נתברר יחודו והאמינוהו בני האדם בפועל, והוא כלל השכר והגמול אשר מהותו ופרטיו לא מושגים הם עתה מן הגוף, רק זה נדע ודאי שהמין בכלל הוא, להיות נהנים מזיו קדושתו ית', כמאמרם ז"ל (ברכות יז ע"א), "צדיקים יושבים ועטרותיהם בראשיהם ונהנים מזיו השכינה". ואין ספק לנו שיהיו שם פרטים רבים של מיני הנאות, ק"ו מן העולם הזה שהוא כצל עובר, וקבע בו האדון ב"ה כמה מיני הנאות טובות ליהנות מהם בני אדם, אך כללם אינם אלא הנאות החושים, כל שכן עולם שכולו טוב, שאף על פי שהמין הוא אחד, שהרי אין שם טובה אלא טובה רוחנית של השכלה ודבקות, אך הפרטים יהיו רבים. והוא מה שאמרתי לך מענין השפעתו ית', שלא חודשה אלא להוליד ענינים רוחנים של קדושה. והסוג הב' - הוא מה שהאדון ב"ה עושה כל זמן שעדיין הולך האמת הזה ומתגלה, שלא נשלם עדיין גילויו, הלא זה מתחלת הבריאה עד הגאולה העתידה שתהיה במהרה בימינו, שאז נאמר (זכריה יד, ט), "והיה ה' למלך על כל הארץ ביום ההוא יהיה ה' אחד ושמו אחד":
+
+
+Burada O’nun, mübarek olsun, fiillerinde iki tür vardır. Birincisi, Birliği artık açıklığa kavuşup insanlar tarafından fiilen kabul edildikten sonra yapacağı şeydir. Bu, ödül ve karşılık düzeninin genelidir. Bunun mahiyeti ve ayrıntıları şimdi beden tarafından kavranamaz. Yalnızca şunu kesin olarak biliriz: Tür olarak bu, O’nun kutsallığının parıltısından yararlanmak olacaktır. Hahamlarımız z”l şöyle demiştir: “Tsadikler oturur, taçları başlarındadır ve Şekina’nın parıltısından yararlanırlar” (Berahot 17a). Orada birçok haz türünün birçok ayrıntısı bulunacağından kuşkumuz yoktur. Bu dünyadan, ki geçip giden bir gölge gibidir, bunu kal vahomer yoluyla anlayabilirsin: Efendi, mübarek olsun, burada insanların yararlanması için birçok iyi haz türü koymuştur; fakat bunların bütünü duyulara ait hazlardan ibarettir. Öyleyse bütünüyle iyi olan alemde, tür tek olsa bile, yani orada ruhsal kavrayış ve devekut iyiliğinden başka iyilik bulunmasa bile, ayrıntılar çok olacaktır. Sana O’nun, mübarek olsun, etkisi konusunda söylediğim şey budur: Bu etki yalnızca kutsallığa ait ruhsal konuları doğurmak için yenilenmiştir. İkinci tür ise, bu hakikat henüz giderek açığa çıkarken, açığa çıkışı henüz tamamlanmamışken Efendi’nin, mübarek olsun, yaptığı şeydir. Bu da yaratılışın başlangıcından, yakında günlerimizde gerçekleşecek olan gelecek kurtuluşa kadar olan dönemdir. O zaman “Haşem bütün yeryüzü üzerinde kral olacak; o gün Haşem bir olacak ve adı bir olacak” (Zeharya 14:9) denilecektir.
 
 
 ###### Da'at Tevunot 124:5
@@ -2823,12 +2829,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 ואמנם כל הכונניות האלה שזכרנו למעלה, כולם תלויים על מדת הסוג השני הזה, שהוא לגלות יחודו ית', וזה על ידי הסתר הפנים שיקדים לגילוים, כחו שביארנו למעלה. ובכלל הכונניות הוא ענין הרע שזכרנו. ואמנם הרע מצד עצמו לבדו אינו אלא קלקולים והפסדים והשחתה, אך עם שאר הכונניות, אדרבא, ממנו נמשך תועלת לאדם עצמו, כי בו תלוי כל הזכות ומציאות העבודה, וזה - בעמדו לא לנצח אלא להנצח, פירוש, שאין המצאו אלא להיותו נסתת מן האדם כאבן העומדת על פרשת דרכים שהביאו במשלם במדרש שזכרנו למעלה:
 
 
+Yukarıda sözünü ettiğimiz bütün düzenekler bu ikinci türün ölçüsüne bağlıdır; yani O’nun Birliği’ni açığa çıkarmaya. Bu da, yukarıda açıkladığımız gücüyle, açığa çıkışlardan önce gelen yüzün gizlenmesi aracılığıyla olur. Sözünü ettiğimiz kötülük konusu da bu düzeneklerin içindedir. Kötülük kendi başına yalnızca bozulmalar, eksilmeler ve yıkımdır. Fakat diğer düzeneklerle birlikte olduğunda, aksine, ondan insanın kendisine fayda doğar; çünkü bütün hak ediş ve çalışma gerçekliği ona bağlıdır. Bu, kötülüğün yenmek için değil, yenilmek için durmasıyla olur. Yani onun varlığı yalnızca insan tarafından yontulması içindir; yukarıda sözünü ettiğimiz midraştaki meselde yol ayrımında duran taş gibi.
+
+
 ###### Da'at Tevunot 124:6
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/124:6](https://torahapp.org/share/book/Da%27at%20Tevunot/r/124:6)
 
 
 ותראי כי הרע נברא להבטל, ויש לדון בו בשני דרכים, מצד המצאו ומצד הבטלו, פירוש, מצד ההתחלה ומצד הסוף. מצד ההתחלה הוא רע ודאי, אך מצד הסוף - גם זו לטובה. כי הנה אפילו בזמן שמתחזק וגובר עדיין - גם מזה נמשך טוב, כי זהו החשך שממנו יהיה ניכר האור של השלמות העליון בזמן שיתגלה לעתיד לבא. ועוד, שהרי זה בירור אמתת היחוד בכל גדרו, כמו שביארנו לעיל, ומצד זה, יותר שמחשיך והולך - יותר יתגלה אמתת היחוד בבטלו את הרע הזה. ועוד, שהוא גורם ריוח לאדם עצמו המתנסה בו, כמשל הזונה עם בן המלך שדרשו חז"ל (ברכות לב ע"א). ועוד, שהרי נמצאת עבודה ומעשה ממש לאדם, שהוא מתקן הבריאה בידיו, ומעביר החסרונות שבה, ונעשה שותף כביכול להקב"ה בעולמו:
+
+
+Göreceksin ki kötülük ortadan kaldırılmak üzere yaratılmıştır. Onu iki yönden ele almak gerekir: varlığı yönünden ve ortadan kaldırılması yönünden; yani başlangıç yönünden ve son yönünden. Başlangıç yönünden kesinlikle kötüdür; fakat son yönünden “bu da iyilik içindir.” Çünkü güçlenip arttığı zamanda bile bundan iyilik çıkar: Gelecekte açığa çıkacak olan Üst Yetkinliğin ışığı, bu karanlık sayesinde tanınacaktır. Ayrıca bu, yukarıda açıkladığımız gibi, Birliğin hakikatinin bütün sınırlarıyla açıklığa kavuşmasıdır; bu yönden bakıldığında, karanlık ne kadar artarsa, bu kötülüğün iptaliyle Birliğin hakikati o kadar çok açığa çıkar. Bir başka yönüyle kötülük, onunla sınanan insanın kendisi için bir kazanç doğurur; hahamlarımız z”lın kralın oğlu ve kadın meseliyle açıkladıkları gibi (Berahot 32a). Ayrıca böylece insana gerçek bir çalışma ve fiil alanı verilmiş olur: İnsan yaratılışı kendi elleriyle düzeltir, ondaki eksiklikleri giderir ve ifade yerindeyse, HaKadoş Baruh Hu’ya dünyasında ortak olur.
 
 
 ###### Da'at Tevunot 124:7
@@ -2839,6 +2851,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 ועוד, הנסיון שהוא גורם לצדיקים, פירוש, לא בבחינת הפיתוי לעבירה שכבר זכרנוהו, אלא עיקר הנסיון הנולד מהסתיר האד?ן את פניו הוא - כי הלא ה' אמר על ידי כל נביאיו כי הוא המשגיח על כל נבראיו, ועיניו על כל דרכי איש לתת לאיש כדרכיו וכפרי מעלליו, אל אמונה ואין עול, והנה אחר אשר השמיענו כזאת, הנה הוא מסבב עולמו במסיבות עמוקות ועצות מרחוק, המראים לכאורה ח"ו הפך זאת, כי פעם יראה כאלו הכל ביד המקרה, הכל כאשר לכל, ופעם כי נבנו עושי רשעה, ולא מצאו כל אנשי חיל עובדי ה' שכר טרחם ועמלם, כמה צועקים ואינם נענים, וכל שאר הענינים אשר הניח ה' לנסות בם את לבות בני אדם; והוא מה שאמר דוד המלך ע"ה (תהלים עג, ב - ג), "ואני כמעט נטיו רגלי וגו' כי קנאתי בהוללים" וגו'. כי זה הוא הנסיון - לראות היעמדו בני אדם באמונתם, ולא תמוש מלבבם היתד התקועה לאמר, ודאי אל אמונה ואין עול, אף על פי שאין אנו מבינים דרכיו. ועל זה נאמר (חבקוק ב, ד), "וצדיק באמונתו יחיה", וכמו שביארנו למעלה כבר. והנה זה ריוח גדול מאד מהתעלם השלמות העליון, ומקום הניח לרע להחשיך פני העולם לנסיון גדול כזה. כי עתה צא וחשוב כמה יהיו חביבים לפניו ית' הצדיקים אשר יעמדו בנסיון כזה, וכמה שכר גדול ינתן להם חלף עבודתם לעתיד לבא. והרי זה מכלל כבודו ית' - שאפילו החושך הגדול של הסתר פני טובו אינו אלא לכבודו, והוא הגורם שכר טוב כפול ומכופל לצדיקים:
 
 
+Bir de kötülüğün tsadikler için doğurduğu sınav vardır. Bunun anlamı, daha önce sözünü ettiğimiz günaha ayartma yönü değildir. Efendi’nin yüzünü gizlemesinden doğan asıl sınav şudur: Haşem bütün peygamberleri aracılığıyla bütün yaratılmışlarını gözettiğini, gözlerinin her insanın bütün yolları üzerinde bulunduğunu, herkese kendi yollarına ve işlerinin meyvesine göre karşılık verdiğini; O’nun güvenilir Tanrı olduğunu ve O’nda eğrilik bulunmadığını bildirmiştir. Fakat bunu bize bildirdikten sonra, dünyasını derin döngülerle ve uzaktan gelen tasarılarla döndürür; bunlar dışarıdan bakıldığında, Tanrı korusun, bunun tersini gösteriyor gibidir. Bazen her şey rastlantının elindeymiş, herkesin başına aynı şey geliyormuş gibi görünür. Bazen kötülük yapanlar kurulup güçlenmiş gibi görünür; Haşem’e hizmet eden bütün güçlü kişiler de emeklerinin ve zahmetlerinin karşılığını bulmamış gibi görünür. Nice insanlar haykırır da cevap alamaz. Haşem’in insanların kalplerini sınamak için bıraktığı diğer bütün durumlar da böyledir. Kral David’in, üzerine esenlik olsun, “Benim ayaklarım neredeyse kayıyordu... çünkü taşkınlara imrendim” (Tehilim 73:2-3) demesi budur. Sınav şudur: İnsanlar imanlarında ayakta kalacaklar mı, kalplerine çakılmış kazık yerinden oynayacak mı? Yani “Kesinlikle O güvenilir Tanrı’dır ve O’nda eğrilik yoktur; yollarını anlamasak bile bu böyledir” diyebilecekler mi? Bunun üzerine “Tsadik imanıyla yaşayacaktır” (Habakuk 2:4) denilmiştir; bunu yukarıda açıkladık. İşte Üst Yetkinliğin gizlenmesinden ve kötülüğe dünyanın yüzünü böylesine büyük bir sınavla karartacak yer verilmesinden doğan çok büyük kazanç budur. Şimdi düşün: Böyle bir sınavda ayakta kalan tsadikler O’nun, mübarek olsun, önünde ne kadar sevgili olacaklar ve gelecek zamanda çalışmalarına karşılık onlara ne kadar büyük bir ödül verilecektir. Bu da O’nun, mübarek olsun, onurunun bir parçasıdır: İyiliğinin yüzünün gizlenmesindeki büyük karanlık bile yalnızca O’nun onuru içindir ve tsadikler için kat kat iyi ödül doğurur.
+
+
 ###### Da'at Tevunot 124:8
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/124:8](https://torahapp.org/share/book/Da%27at%20Tevunot/r/124:8)
@@ -2847,12 +2862,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 ואמנם אין אחרית זה לרע עצמו לגמור הכל רק בטובה, אלא על פי הכונניות הגדולות שזכרנו, שהם הם גלגולי דברים המסבבים את הכל לטובה. ואמנם מציאות הרע בלי הכונניות האלה, כבר זכרנו איך איננו אלא רע ומר, השחתה והפסד. ואמנם בהתיצב עליו אלה הכונניות, הנה מיד יוכל גם הוא לימנות בצרכיו של האדם ותקוני בנינו, כי אף על פי שבחוקו מצד עצמו אין בו כי אם לעשות רע, אך בהשתתפו עם כל הכונניות שהכין האדון ב"ה לתקן הדברים, הנה אינו עומד אלא לינצח, כמו שביארנו. וצריך שיהיה באדם היצר וכל התאוות הרעות, לא לימשך אחריהם אלא לכפות אותם ולהעבירם. ואמנם עם כל זה אינו אובד טבעו הרע, אלא שגם זאת טובה היא שיהיה הרע בכלל בנינו של אדם, כמו שביארנו, ואינו מפסידו ומקלקלו מפני שיתוף ההכנות הטובות שנעשו כבר בחוקו של האדם, וכמו שביארנו. ואמנם סוף כל סוף, כשיולד הפרי האמיתי שצריך להולד מן הכונניות האלה, שלתכליתו נעשו, יהיה הפרי הזה העברת הרע עצמו מן הבריאה, והשלמת החסרונות:
 
 
+Fakat kötülüğün kendi başına sonu, her şeyi yalnızca iyilikle tamamlamak değildir. Bu ancak sözünü ettiğimiz büyük düzenekler sayesinde olur; çünkü her şeyi iyiliğe döndüren olay döngüleri bunlardır. Bu düzenekler olmadan kötülüğün varlığının yalnızca acı bir kötülük, yıkım ve bozulma olduğunu daha önce söyledik. Fakat bu düzenekler onun üzerine yerleştirildiğinde, kötülük de hemen insanın ihtiyaçları ve yapısının tikunları arasında sayılabilir. Kendi yasası bakımından onda kötülük yapmaktan başka bir şey yoktur; fakat Efendi’nin, mübarek olsun, şeyleri düzeltmek için hazırladığı bütün düzeneklerle birlikte ele alındığında, ancak yenilmek için durur. Bunu açıkladık. İnsanda yetser ve bütün kötü arzular bulunmalıdır; fakat onların peşinden gidilsin diye değil, bastırılsın ve giderilsin diye. Bununla birlikte kötülük kendi kötü doğasını yitirmez. Yine de kötülüğün insanın yapısında yer alması da iyiliktir; bunu açıkladık. Çünkü insanın yasasında önceden hazırlanmış iyi hazırlıklarla birleştiği için onu yıkıp bozmaz. Sonunda, bu düzeneklerden doğması gereken gerçek meyve doğduğunda —ki bütün düzenekler bunun için yapılmıştır— bu meyve, kötülüğün kendisinin yaratılıştan kaldırılması ve eksikliklerin tamamlanması olacaktır.
+
+
 ###### Da'at Tevunot 124:9
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/124:9](https://torahapp.org/share/book/Da%27at%20Tevunot/r/124:9)
 
 
 ונמצא, שבהיות האדון ב"ה מכונן את עולמו, כמו שביארנו, הנה היה מכונן והולך כל מה שצריך למצבו של אדם הראשון הזה זמן העבודה, ואז חידש הרע בכל חוקו וכחותיו לפי עצמו, שכבר יש בו כל כך כחות וחלקים כמו שהם חלקי העבודה והתיקון הנוגע לאדם. אחר כך השלים מעשהו לעשות כל הכונניות שזכרנו, המכוונים לכל מה שצריך להעברת הרע הזה, ולהעלות האדם בעילוייו, וכל שאר צרכי שלמותו וטובתו. ואז לא ניתן מקום לרע לעשות ככל חוקו, אלא אדרבא, להתפעל מכל מה שהכין האדון ב"ה להעביר רעתו. ועל פי כל הדברים האלה נברא אחר כך העולם השפל הזה, והאדם אשר בו. ונמצא, שמעתה כל מדת הטוב, שהוא כלל כל הכונניות העליונות שזכרנו, ואף מדת הרע עצמה, שניהם נכנסים לטובה בבנינו של האדם; אך גמר המלאכה הוא כשיצא הפרי מכל הסיבוב הזה, שהוא התיקון הכללי. ואמנם עד שלא נגמרה המלאכה הזאת, אף על פי שהרע עומד גם הוא לטובתו של אדם - להנצח ממנו, יכול להיות גם לרעתו ח"ו, אם לא ינצחנו, כי אז הרע יהיה גובר, והתיקון לא. אך אחר גמר המלאכה שיבוטל הרע, אז שלות כל הבריאה תהיה נצחית, שלא תפסק כלל ועיקר:
+
+
+Böylece Efendi, mübarek olsun, dünyasını düzenlerken, açıkladığımız gibi, ilk insanın çalışma zamanı içindeki durumu için gerekli olan her şeyi düzenliyordu. O sırada kötülüğü kendi yasası ve güçleriyle yeniledi; çünkü kötülüğün içinde, insana ait çalışma ve tikun bölümlerine karşılık gelen sayıda güç ve parça vardır. Sonra işini tamamladı ve sözünü ettiğimiz bütün düzenekleri yaptı; bunlar bu kötülüğün ortadan kaldırılması, insanın yükselişlerine çıkarılması ve onun yetkinliği ile iyiliği için gereken diğer bütün şeyler için yöneliktir. Böylece kötülüğe kendi yasasına göre dilediği gibi davranma alanı verilmedi; tersine, Efendi’nin, mübarek olsun, onun kötülüğünü gidermek için hazırladığı her şeyden etkilenmesi sağlandı. Bütün bu şeylere göre daha sonra bu aşağı dünya ve onun içindeki insan yaratıldı. Bundan dolayı artık iyilik ölçüsünün bütünü, yani sözünü ettiğimiz bütün üst düzenekler, hatta kötülük ölçüsünün kendisi bile, insanın yapısında iyiliğe dahil olur. Fakat işin tamamlanması, bütün bu döngüden meyve çıktığında, yani genel tikun tamamlandığında gerçekleşir. Bu iş tamamlanmadan önce, kötülük insanın iyiliği için, yani onun tarafından yenilmek için dursa bile, Tanrı korusun, insan onu yenmezse onun kötülüğüne de dönüşebilir; çünkü o zaman kötülük güçlenir, tikun değil. Fakat işin tamamlanmasından sonra, kötülük iptal edildiğinde, bütün yaratılışın esenliği sonsuz olacak ve hiçbir şekilde kesilmeyecektir.
 
 
 
@@ -2866,6 +2887,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמרה הנשמה – עד הנה דיברנו מן הרע בכלל. צריך לפרט יותר הענין, לדעת דרכיו בפרט:
 
 
+Nefeş şöyle dedi: Buraya kadar kötülükten genel olarak söz ettik. Şimdi konuyu daha ayrıntılı biçimde açmak, onun yollarını özel olarak bilmek gerekir.
+
+
 
 ## Chapter 126
 
@@ -2877,12 +2901,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמר השכל – מציאות הרע הזה נכלל בשני ענינים, א' - הוא השפלות ופחיתות, והב' - ההפסדים של ההויות. ונדבר על ראשון ראשון. הענין הראשון אמרנו שהוא השפלות והפחיתות, וזה - כי הנה גם המלאכים עצמם הולכים ונשפלים במעלתם זה תחת זה, אך עם כל זה כולם ברורים, כולם נכבדים ויקרים. ואין הפחיתות אלא בגוף הזה אשר לאדם, וממנו ולמטה, שנמשכים הדברים בדרך גופניות וחומריות, סוף דבר - עפר מן האדמה. ואמנם עם כל זה תביני עוד, שאם היה האדם במעלה ההגונה לו, לא היה עדיין זה לגביו שפלות ובזיון, כי מי שהוא במדרגה ההגונה לחוקו הוא במקום שראוי לו, ואינו פחיתות כל כך, אפילו שהמדרגה בעצמה תהיה שפלה. אך עיקר השפלות ופחיתות הוא למי שהיה יכול להיות עליון יותר, וראוי היה לו להיות עליון יותר, והוא שפל ופחות. והנה עדיין אני דובר בכלל, נבא עתה בפרט, ונבחין מציאות האדם בחשיבותו ופחיתותו וכל מדרגותיו. ותראי שיש בענין זה חכמה עמוקה, כי האלהים עשה את האדם מתחלף במצביו הרבה מאד, כדי שיפול בו כל מה שצריך ליפול מן העבודת ומן השכר בכל הזמנים, ונבאר ענין זה היטב:
 
 
+Akıl şöyle dedi: Bu kötülüğün varlığı iki konuya dahildir. Birincisi aşağılık ve değersizliktir; ikincisi ise varlıkların bozulmalarıdır. Önce birinciden konuşalım. İlk konu, dediğimiz gibi, aşağılık ve değersizliktir. Çünkü meleklerin kendileri bile derecelerinde biri diğerinin altında olacak şekilde inerler; fakat bununla birlikte hepsi berraktır, hepsi yüce ve değerlidir. Asıl değersizlik, insanın bu bedeninde ve ondan aşağısında başlar; çünkü şeyler burada bedensellik ve maddilik yoluyla uzanır. Sonuçta beden, toprağın tozundandır. Bununla birlikte şunu da anlamalısın: Eğer insan kendisine uygun derecede olsaydı, bu durum onun bakımından henüz aşağılık ve utanç sayılmazdı. Çünkü kendi yasasına uygun derecede bulunan kişi, kendisine yaraşan yerdedir; derecenin kendisi aşağı olsa bile bu, o kadar büyük bir değersizlik değildir. Asıl aşağılık ve değersizlik, daha yüce olabilecek ve daha yüce olması gereken kişinin aşağı ve değersiz kalmasıdır. Şimdilik genel olarak konuşuyorum; şimdi ayrıntıya gelelim ve insanın varlığını, değeri, düşüklüğü ve bütün dereceleri bakımından ayırt edelim. Göreceksin ki bu konuda derin bir hikmet vardır. Çünkü Tanrı insanı çok sayıda değişen durumda yarattı; böylece bütün zamanlarda çalışma ve ödül bakımından insana düşmesi gereken her şey ona düşebilsin. Bu konuyu iyi açıklayacağız.
+
+
 ###### Da'at Tevunot 126:2
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/126:2](https://torahapp.org/share/book/Da%27at%20Tevunot/r/126:2)
 
 
 הנה האדם עושה מעשיו, ולמעשים האלה יש תולדות, כי מפני הכונניות שזכרנו נמצא שכל תנועה קטנה שבאדם מנועעת דברים רבים וגדולים - כלל כל הנבראים העליונים והתחתונים, הגשמים והרוחנים, וכל הכחות הנבדלים, והשפעותיו ית' בהם, וכמו שביארנו. ועם כל זה, לא כל בני האדם שוים, ולא כל המעשים שוים, כי גבולות גדולים שם האדון ב"ה לכל נבראיו בשיעור מדוקדק עד אין תכלית. וימצאו שני בני אדם, על שלחן אחד ידברו, יאכלו וישתו, ותולדות מעשי האחד יתעלו עד רום שמי השמים, ותולדות מעשי האחר לא יתעלו, ולא קרוב להם. ואביא לך ראיה ברורה, יונתן בן עוזיאל יושב ולומד - כל עוף הפורח עליו נשרף (סוכה כח ע"א), ואחרים לאלפים ולרבבות יושבים ולומדים, ולא יהיה להם כן; וזה מצד הפועל. ומצד הנפעל, קדשים יוכיחו, שאכילתם מצוה רבה, ואכילת חולין - לא כן, וזה וזה אוכלים אותם בדרך אחד; ולא עוד, אלא כהן האוכלם עושה מצוה, וזר האוכלם חייב מיתה. וגדולה מזו - המצוות עצמם, אמרו חז"ל (עבודה זרה, ג ע"א) "גדול המצווה ועושה ממי שאינו מצווה ועושה", והמצווה ועושה נמצא מתקן כל הבריאה כולה, ושאינו מצווה לא תשיג ידו לעשות כן; והרי שניהם עושים מעשה אחד ולכונה אחת:
+
+
+İnsan eylemlerini yapar ve bu eylemlerin sonuçları vardır. Çünkü sözünü ettiğimiz düzenekler gereği, insandaki en küçük hareket bile çok sayıda büyük şeyi hareket ettirir: üst ve alt bütün yaratılmışları, maddi ve ruhsal varlıkları, ayrık güçlerin tamamını ve O’nun, mübarek olsun, onların içindeki etkilerini. Bunu açıkladık. Bununla birlikte bütün insanlar eşit değildir ve bütün eylemler de eşit değildir. Çünkü Efendi, mübarek olsun, bütün yaratılmışları için sonsuz incelikte ölçülmüş büyük sınırlar koymuştur. İki insan aynı sofrada konuşabilir, yiyip içebilir; birinin eylemlerinin sonuçları göklerin göğünün yüksekliğine kadar yükselebilir, diğerinin eylemlerinin sonuçları ise yükselmez, hatta ona yaklaşmaz bile. Sana açık bir kanıt getireyim: Yonatan ben Uziel oturup öğrenirken, üzerinden uçan her kuş yanardı (Sukka 28a); binlerce ve on binlerce başka kişi oturup öğrendiğinde ise onlarda böyle bir şey olmaz. Bu, fiili yapan yönündendir. Fiile konu olan şey yönünden de kutsal şeyler bunu kanıtlar: Onları yemek büyük bir mitsvadır; sıradan yiyecekleri yemek böyle değildir. Oysa her ikisi de aynı yolla yenir. Dahası, onları Kohen yediğinde mitsva yapar; yabancı biri yediğinde ise ölüm cezası gerektiren bir suç işlemiş olur. Bundan daha büyüğü, mitsvaların kendisidir. Hahamlarımız z”l şöyle demiştir: “Emredilmiş olup yapan, emredilmemiş olup yapandan daha büyüktür” (Avoda Zara 3a). Emredilmiş olup yapan kişi bütün yaratılışı düzeltir; emredilmemiş olanın eli bunu yapmaya erişmez. Oysa ikisi de aynı eylemi, aynı niyetle yapmaktadır.
 
 
 ###### Da'at Tevunot 126:3
@@ -2893,12 +2923,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אך הענין הוא, שתנאי הפועל והנפעל בכל המתלוים להם הם הם המשנים ומחליפים תולדות המעשים. יונתן בן עוזיאל לפי שהוא איש קדוש ונורא מאד, ונשמתו מעוטרת בעטרי קדושה והארה רבה, על כן כל מעשה אשר יעשה יעלה ויגיע לרומו של עולם, וינועע כל אופני הקודש; ואדם אחר שאינו כל כך קדוש, ואינו מעוטר באלה העטרות, לא יתעלו מעשיו לעילוי זה. וכאן ההדרגה רבה, לפי הכנת האדם, ולפי הכנת המעשים עצמם, והזמן, וכל שאר המתלוים. הלא זאת ההכנה הכללית שנתן הקב"ה לעמו ישראל בתחלה, להיותם מקיימים ועושים כל התורה והמצוה, כי זולת זה לא היו יכולים לעשות במעשיהם מעשה התיקון הגדול שהם עושים לכלל כל הבריאה, כמו שנבאר. ועם כל זה, בהם עצמם יש ההדרגה שזכרנו, כי לא ידמה מעשה אחד מעמי הארץ למעשה אחד מן בעלי התורה; ולא מעשה בעל התורה עצמו שאינו כל כך מקודש במעשיו למעשה המקודש ממנו; ולא מעשה המקודש למעשה המקודש יותר, מן השרידים אשר ה' קורא; וכן על דרך זה עד משה רבנו ע"ה:
 
 
+Fakat mesele şudur: Fiili yapanın, fiile konu olan şeyin ve bunlara eşlik eden bütün koşulların durumları, eylemlerin sonuçlarını değiştiren ve dönüştüren şeylerdir. Yonatan ben Uziel çok kutsal ve son derece ürpertici bir kişi olduğu, neşaması kutsallık taçları ve büyük aydınlanmayla süslendiği için, yaptığı her eylem yükselir, dünyanın en yüksek noktasına ulaşır ve bütün kutsal düzenekleri hareket ettirirdi. Bu kadar kutsal olmayan ve bu taçlarla süslenmemiş başka bir insanın eylemleri ise bu yükselişe ulaşmaz. Burada insanın hazırlığına, eylemlerin kendi hazırlığına, zamana ve bunlara eşlik eden diğer bütün koşullara göre büyük bir derecelenme vardır. İşte HaKadoş Baruh Hu’nun başlangıçta halkı İsrael’e verdiği genel hazırlık budur: Bütün Tora’yı ve mitsvayı yerine getirebilmeleri ve yapabilmeleri. Çünkü bu olmadan, eylemleriyle bütün yaratılışın geneli için yaptıkları büyük tikun eylemini yapamazlardı; bunu açıklayacağız. Bununla birlikte onların kendi içinde de sözünü ettiğimiz derecelenme vardır. Halktan birinin bir eylemi, Tora ehli bir kişinin eylemine benzemez; Tora ehli olan fakat eylemlerinde bu kadar kutsanmış olmayan kişinin eylemi, ondan daha kutsanmış kişinin eylemine benzemez; kutsanmış kişinin eylemi de Haşem’in çağırdığı seçkin kalıntılardan daha kutsanmış olanın eylemine benzemez. Bu böylece Moşe Rabbenu’ya, üzerine esenlik olsun, kadar yükselir.
+
+
 ###### Da'at Tevunot 126:4
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/126:4](https://torahapp.org/share/book/Da%27at%20Tevunot/r/126:4)
 
 
 והנה בענין זה צריך שתדעי בכללות המין האנושי, שכולו תולדות אדם הראשון - שיש בו חילוקים רבים, וזמנים נשתנו עליו. כי קודם חטא אדם הראשון, הנה אדם היה מעוטר ומוכתר בעטרות קדושה ויקר רב מאד, עד שבקשו מלאכי השרת לומר לפניו קדוש, כמאמרם ז"ל במדרש (ב"ר פח, ו), והיה בו מן הידיעה ומן הקדושה וכל שבח מעלה שיעור גדול, להיותו יציר כפיו של הקב"ה. והנה כי כן - מעשיו היו מרעישים כל העולמות ודאי, כי לפי ערכו היה ערכם רם ונשא ודאי מכל המעשים שנעשו אחר כך תחת השמש. ועם כל זה, עוד היה עתיד להתעלות אל עילוי יותר אם היה עומד במצותו. וזה פשוט, כי מה שעתיד להיות אחר התחיה - היה יכול להיות מתחלה, גם בלא מיתה. ותראי, שאף על פי שהיה מעולה מאד מאד ממה שהוא המין האנושי עכשיו, עם כל זה הרי היה עלול ליפסד - לחטוא ולמות, כמו שהיה מעשה. ואם היה עומד במצותו, כבר היה נשלם בשלמות גמור, והיה נעשה נצחי ובלתי עלול לשום רע. ואמנם כשחטא, לא די שלא הרויח מה שהיה יכול להרויח, אלא שאבד מה שהיה בידו, ואז חזר להיות אדם שפל ונבזה כמו שהוא עתה; הוא מה שהכתוב אומר (תהלים מט, יג), "ואדם ביקר בל ילין נמשל כבהמות נדמו":
+
+
+Bu konuda, bütünü Adam HaRişon’un soyundan gelen insan türü hakkında şunu bilmelisin: Onda birçok ayrım vardır ve onun üzerinde zamanlar değişmiştir. Çünkü Adam HaRişon’un günahından önce Adam, çok büyük kutsallık ve değer taçlarıyla süslenmiş ve taçlandırılmıştı; öyle ki hizmet melekleri onun önünde “Kutsal” demek istemişlerdi, hahamlarımız z”lın midraşta söylediği gibi (Bereşit Rabba 88:6). Onda bilgi, kutsallık ve her tür yüce övgüden büyük bir ölçü vardı; çünkü HaKadoş Baruh Hu’nun ellerinin ürünüydü. Bu yüzden onun eylemleri kesinlikle bütün alemleri sarsardı; çünkü onun değerine göre, eylemlerinin değeri de güneş altında daha sonra yapılan bütün eylemlerden kesinlikle çok daha yüksek ve yüceydi. Bununla birlikte, emrinde ayakta kalsaydı daha da yüksek bir yükselişe çıkması bekleniyordu. Bu açıktır; çünkü dirilişten sonra gerçekleşecek olan şey, başlangıçta ölüm olmadan da gerçekleşebilirdi. Göreceksin ki bugünkü insan türünden çok çok daha üstün olduğu halde yine de bozulmaya, yani günah işlemeye ve ölmeye açıktı; nitekim olay böyle gerçekleşti. Eğer emrinde ayakta kalsaydı, tam bir yetkinlikle tamamlanacak, sonsuz hale gelecek ve hiçbir kötülüğe açık olmayacaktı. Fakat günah işlediğinde, kazanabileceği şeyi kazanamamakla kalmadı; elinde olanı da kaybetti. O zaman bugünkü gibi aşağı ve değersiz bir insan haline döndü. Yazının “İnsan değer içinde geceleyemez; hayvanlara benzetilir, onlara benzer” (Tehilim 49:13) demesi budur.
 
 
 ###### Da'at Tevunot 126:5
@@ -2909,12 +2945,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 והרי לנו בכאן שלשה חילוקים למציאותו של האדם, א' - מציאותו קודם חטאו, ב' - מציאותו אחר חטאו, ג' - מציאותו מה שהיה יכול להיות אם לא היה חוטא, והוא המציאות שיהיה לעתיד לבא. והנה מציאותו קודם חטאו הוא מצב אמצעי בין מה שנהיה אחר כך ובין מה שהיה יכול להיות. ונמצא שעל כל פנים לא נברא בשלמותו, אלא השפלה קדומה היתה לו מעת הבראו, שנולד במצב פחות ממה שראוי להיות אדם, והשפלה מוכנת לו באפשרות אם יחטא ואשם, וכמו שהיה. והנה הן כל אלה ענינים הכינם הבורא ית"ש, שחידשם ובראם לצורך הנהגת העולם הזה:
 
 
+Burada insanın varlığı için üç ayrımımız vardır. Birincisi, günahından önceki varlığıdır. İkincisi, günahından sonraki varlığıdır. Üçüncüsü, günah işlememiş olsaydı sahip olabileceği varlığıdır; bu da gelecek zamanda olacak varlıktır. Günahından önceki varlığı, daha sonra olduğu durum ile olabileceği durum arasında orta bir haldir. Böylece her durumda, insan kendi son yetkinliği içinde yaratılmamıştır; yaratıldığı andan itibaren onda önceden gelen bir alçalma vardı. İnsan, insanın olması gereken düzeyden daha düşük bir durumda doğdu; ayrıca günah işler ve suçlanırsa, onda imkan halinde hazırlanmış daha aşağı bir alçalma da vardı; nitekim böyle oldu. İşte bütün bunlar, Yaratıcı’nın, mübarek adı yüce olsun, dünya yönetimi için hazırladığı, yenilediği ve yarattığı konulardır.
+
+
 ###### Da'at Tevunot 126:6
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/126:6](https://torahapp.org/share/book/Da%27at%20Tevunot/r/126:6)
 
 
-ונבחין פה עוד הבחנות אחרות בענין הזה, לעמוד על בורים של דברים. חז"ל אמרו (תנחומא, אחרי מות, ב), "תפוח עקבו של אדם הראשון היה מכהה גלגל חמה", ומנו ששה דברים שחסר אדם הראשון בחטאו (במדבר רבה, יג, יא), ובהם, הקומה והזיו. וענין זה הוא, כי הבורא ית"ש עושה כל המעשים בדקדוק גדול עד מאד, וכל תנאי הדברים משוערים לפי הדבר הנשלם בהם; ובעניננו - אפילו תבנית האדם וצורתו וצורת ענינו, עשויים הם למידת חשיבותו וערכו. וכבר ראינו מקרא כתוב (בראשית א, כו), "נעשה אדם בצלמנו כדמותנו", שמפני שרצה אותו מעולה מכל הנבראים, רצה שגם דמותו יהיה כן. ולא דמותו לבד ותבנית גופו, אלא כל מקריו ועניניו בדרכיהם יהיו עשויים לערך חשיבותו. הלא תראי כמה מן הנקיון והסידור הנאה הושם במעשה בני האדם, מה שלא היה כלל במעשה הבהמות; וזה מפני עומק החכמה הרבה הנמצא בכל מעשי הבורא ית"ש, לעשות את הכל על הצד היותר טוב ומשובח שיוכל להיות, הכל בהקבלה ובהתקשרות ענינים אל ענינים וביחס נאות. תראי, האדם לא יכול להיות בזמן אחד אלא במקום אחד, וצריך משך זמן להתנועע ממקום למקום; המלאכים לפי שהם נכבדים מן הגוף הזה - אינם כן, אבל התיחסה לפם העפיפה לקלותם. החושים של אדם אינם מרגישים אלא באותו השיעור וגבול המחוקק להם; הרוחנים אינם כן כלל. כללו של דבר, עצם מהות הנושאים ומקריהם בכל עניניהם מתיחסים הם תמיד:
+ונבחין פה עוד הבחנות אחרות בענין הזה, לעמוד על בורים של דברים. חז"ל אמרו (תנחומא, אחרי מות, ב), "תפוח עקבו של אדם הראשון היה מכהה גלגל חמה", ומנו ששה דברים שחסר אדם הראשון בחטאו (במדבר רבה, יג, יא), ובהם, הקומה והזיו. וענין זה הוא, כי הבורא ית"ש עושה כל המעשים בדקדוק גדול עד מאד, וכל תנאי הדברים משוערים לפי הדבר הנשלם בהם; ובעניננו - אפילו תבנית האדם וצורתו וצורת ענינו, עשויים הם למידת חשיבותו וערכו. וכבר ראינו מקרא כתוב (בראשית א, כו), "נעשה אדם בצלמנו כדמותנו", שמפני שרצה אותו מעולה מכל הנבראים, רצה שגם דמותו יהיה כן. ולא דמותו לבד ותבנית גופו, אלא כל מקריו ועניניו בדרכיהם יהיו עשויים לערך חשיבותו. הלא תראי כמה מן הנקיון והסידור הנאה הושם במעשה בני האדם, מה שלא היה כלל במעשה הבהמות; וזה מפני עומק החכמה הרבה הנמצא בכל מעשי הבורא ית"ש, לעשות את הכל על הצד היותר טוב ומשובח שיוכל להיות, הכל בהקבלה ובהתקשרות ענינים אל ענינים וביחס נאות. תראי, האדם לא יכול להיות בזמן אחד אלא במקום אחד, וצריך משך זמן להתנועע ממקום למקום; המלאכים לפי שהם נכבדים מן הגוף הזה - אינם כן, אבל התיחסה להם העפיפה לקלותם. החושים של אדם אינם מרגישים אלא באותו השיעור וגבול המחוקק להם; הרוחנים אינם כן כלל. כללו של דבר, עצם מהות הנושאים ומקריהם בכל עניניהם מתיחסים הם תמיד:
+
+
+Bu konuda, şeylerin kesin anlamını kavramak için başka ayrımlar da yapalım. Hahamlarımız z”l şöyle demiştir: “Adam HaRişon’un topuğunun parlaklığı güneş küresini soldururdu” (Tanhuma, Ahare Mot 2). Yine Adam HaRişon’un günahıyla kaybettiği altı şeyi saymışlardır (Bamidbar Rabba 13:11); bunlar arasında boy ve parlaklık da vardır. Bunun anlamı şudur: Yaratıcı, mübarek adı yüce olsun, bütün fiilleri son derece büyük bir incelikle yapar; şeylerin bütün koşulları, onlarla tamamlanacak şeye göre ölçülmüştür. Bizim konumuzda, insanın kalıbı, biçimi ve varlık biçimi bile onun önem ve değer ölçüsüne göre yapılmıştır. Yazılmış bir ayet gördük: “Suretimizde, benzerliğimizde insan yapalım” (Bereşit 1:26). Çünkü O, insanın bütün yaratılmışlardan üstün olmasını istediği için, biçiminin de böyle olmasını istedi. Yalnızca biçimi ve bedeninin kalıbı değil, onun bütün halleri ve konuları da kendi yollarında onun önem değerine göre yapılmıştır. İnsan eylemlerine ne kadar temizlik ve güzel düzen yerleştirildiğini görüyorsun; hayvanların eylemlerinde böyle bir şey yoktur. Bunun nedeni, Yaratıcı’nın, mübarek adı yüce olsun, bütün fiillerinde bulunan derin ve çok büyük hikmettir: Her şeyi olabilecek en iyi ve en üstün yönden yapmak; her şeyi konuların konulara karşılığı, bağı ve uygun oranı içinde kurmak. Bak, insan aynı anda yalnızca bir yerde bulunabilir ve bir yerden başka bir yere hareket etmek için zamana ihtiyaç duyar. Melekler bu bedenden daha yüce oldukları için böyle değildir; hafifliklerine uygun olarak onlara uçuş niteliği verilmiştir. İnsanın duyuları yalnızca kendileri için belirlenmiş ölçü ve sınır içinde algılar; ruhsal varlıklarda ise durum hiçbir şekilde böyle değildir. Kısacası, taşıyıcı varlıkların öz mahiyeti ve bütün hallerindeki özellikleri her zaman birbirine uygundur.
 
 
 ###### Da'at Tevunot 126:7
@@ -2922,7 +2964,10 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/126:7](https://torahapp.org/share/book/Da%27at%20Tevunot/r/126:7)
 
 
-ונמצא, ששתי הבחנות יש לנו להבחין בענין האדם וכל שאר הבריות, הא' - מציאות הענינים המכוונים במציאותם ובמקריהם, פירוש, התולדות הנולדות מהויתם ומפעולותיהם; והב' - הדרך שלהם, פירוש, צורתם וצורת פעולותיהם, כי מה שיניע הגוף יוכל להניע גם חנשמה והמלאך, אך זה לפי דרכו וזה לפי דרכו. והרי אלה שתים מידות - פעולות גדולות בפעולותיו ית', א' - קביעות מה שיולד מפעולות הנבראים, וזה כלל כל חוקות הנהגתו וסדרי כונניותיו שזכרנו; והב' - הקביעות איך יולידו הנבראים ההם התולדות ההם, וגם לזה יש סדרים גדולים הנאותים וצריכים להשלמת הענין הזה. ונמצא שבתחלה קודם חטאו של אדם היה הוא במעלה גדולה, ראשונה - בעיקר מציאותו, פירוש, בתולדות מעשיו, שהיו מגיעים לרום העולם, כמו שכתבנו; והשנית - בצורתו ובצורת מעשיו בתבנית גופו ממש, כי כבר היה זוך גופו כמציאות המלאכים ממש, עד שהיה מקום הגון לדירתו - הגן עדן, שהוא גם עכשיו מדור למלאכים ולרוחות. ועל זה רמזו רז"ל (ב"ר, כ, יב), באמרם, "בתורתו של רבי מאיר מצאו כתוב, כתנות אור". ודבר זה נתפרש הרבה כבר אצל חכמינו, שהכוונה במאמר הזה להודיע זוך ערך גופו של אדם הראשון לפני חטאו, שאחר החטא נתעבה ונעשה גס וכבד כיום הזה. וכבר ראינו דוגמא לזה בעולם, חנוך ואליהו, שגופם ממש נזדכך ונתעלה להיות כמלאכים העליונים. ופשיטא הוא שגם התנועעו ופעולותיו היו בדרך יותר דק ורוחני ודאי, כפעולות חנוך ואליהו כיום הזה:
+ונמצא, ששתי הבחנות יש לנו להבחין בענין האדם וכל שאר הבריות, הא' - מציאות הענינים המכוונים במציאותם ובמקריהם, פירוש, התולדות הנולדות מהויתם ומפעולותיהם; והב' - הדרך שלהם, פירוש, צורתם וצורת פעולותיהם, כי מה שיניע הגוף יוכל להניע גם הנשמה והמלאך, אך זה לפי דרכו וזה לפי דרכו. והרי אלה שתים מידות - פעולות גדולות בפעולותיו ית', א' - קביעות מה שיולד מפעולות הנבראים, וזה כלל כל חוקות הנהגתו וסדרי כונניותיו שזכרנו; והב' - הקביעות איך יולידו הנבראים ההם התולדות ההם, וגם לזה יש סדרים גדולים הנאותים וצריכים להשלמת הענין הזה. ונמצא שבתחלה קודם חטאו של אדם היה הוא במעלה גדולה, ראשונה - בעיקר מציאותו, פירוש, בתולדות מעשיו, שהיו מגיעים לרום העולם, כמו שכתבנו; והשנית - בצורתו ובצורת מעשיו בתבנית גופו ממש, כי כבר היה זוך גופו כמציאות המלאכים ממש, עד שהיה מקום הגון לדירתו - הגן עדן, שהוא גם עכשיו מדור למלאכים ולרוחות. ועל זה רמזו רז"ל (ב"ר, כ, יב), באמרם, "בתורתו של רבי מאיר מצאו כתוב, כתנות אור". ודבר זה נתפרש הרבה כבר אצל חכמינו, שהכוונה במאמר הזה להודיע זוך ערך גופו של אדם הראשון לפני חטאו, שאחר החטא נתעבה ונעשה גס וכבד כיום הזה. וכבר ראינו דוגמא לזה בעולם, חנוך ואליהו, שגופם ממש נזדכך ונתעלה להיות כמלאכים העליונים. ופשיטא הוא שגם התנועעו ופעולותיו היו בדרך יותר דק ורוחני ודאי, כפעולות חנוך ואליהו כיום הזה:
+
+
+Böylece insan ve diğer bütün yaratılmışlar konusunda iki ayrım yapmamız gerekir. Birincisi, onların varlıklarında ve hallerinde hedeflenen konuların gerçekliğidir; yani var oluşlarından ve fiillerinden doğan sonuçlar. İkincisi ise onların yoludur; yani biçimleri ve fiillerinin biçimi. Çünkü bedeni hareket ettiren şey neşamayı ve meleği de hareket ettirebilir; fakat biri kendi yoluyla, diğeri kendi yoluyla. İşte bunlar iki ölçüdür: O’nun, mübarek olsun, fiillerindeki iki büyük iş. Birincisi, yaratılmışların fiillerinden doğacak şeyin belirlenmesidir; bu, O’nun bütün yönetim yasalarının ve sözünü ettiğimiz düzeneklerinin genelidir. İkincisi ise, bu yaratılmışların o sonuçları nasıl doğuracaklarının belirlenmesidir; bunun için de bu konunun tamamlanmasına uygun ve gerekli büyük düzenler vardır. Bundan dolayı, Adam’ın günahından önce başlangıçta o büyük bir derecedeydi. Birincisi, varlığının özü bakımından, yani eylemlerinin sonuçları bakımından yüceydi; eylemleri, yazdığımız gibi, dünyanın yüksekliğine ulaşırdı. İkincisi, biçimi ve fiillerinin biçimi bakımından, bizzat bedeninin yapısında yüceydi; çünkü bedeninin arılığı gerçekten meleklerin varlığı gibiydi. Bu yüzden onun yerleşimine uygun yer Gan Eden’di; Gan Eden şimdi de meleklerin ve ruhların konutudur. Hahamlarımız z”l, “Rabbi Meir’in Tora’sında ‘ışık giysileri’ yazılı bulundu” (Bereşit Rabba 20:12) derken buna işaret etmişlerdir. Bu konu bilgelerimiz tarafından çokça açıklanmıştır: Bu söz, Adam HaRişon’un günahından önce bedeninin değerindeki arılığı bildirmek içindir. Günahından sonra bedeni kalınlaştı, bugünkü gibi kaba ve ağır hale geldi. Bunun dünyada bir örneğini de gördük: Hanoh ve Eliyahu. Onların bizzat bedenleri arındı ve üst melekler gibi olmak üzere yükseldi. Açıktır ki onların hareketleri ve fiilleri de bugün Hanoh ve Eliyahu’nun fiilleri gibi, kesinlikle daha ince ve ruhsal bir yolla gerçekleşiyordu.
 
 
 ###### Da'at Tevunot 126:8
@@ -2933,12 +2978,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 ותראי, כי גן עדן - מה שהיה הוא שיהיה - ודאי מקום דק ורוחני, ששם חונות הרוחות גם עתה; והתורה העידה על אדם שהיה שם, והיה אוכל ונהנה מן הפירות הצומחים שם. ואמנם כיון שהמקום אנו רואים שהוא עכשיו מדור לנשמות, צריך שהפירות שהיו שם לא היו דברים גשמיים וגסים, כמו שהם הפירות של העולם הזה, אלא יותר דקים מאד מאד, וכערך האויר לגבי העפר לפחות; והאכילה לא יתכן לגוף עב וגס כאשר הוא היום הזה, אלא לגוף דק וכמעט רוחני, וכגופם של אליהו וחנוך, כמו שביארנו. אמנם הוא הדבר אשר דברתי, שלפי ערך התולדות הצריכים להולד מן המעשים, כך הם דרכי המעשים ההם להעשות, וכל דברי הבריאה מתיחסים ומשתוים כל נושא עם כל תנאיו המעשים, התולדות, המקום, והפועל אותם, וזה ברור:
 
 
+Göreceksin ki Gan Eden, ne idiyse yine odur: kesinlikle ince ve ruhsal bir yerdir; ruhlar şimdi de orada konaklar. Tora, Adam’ın orada bulunduğuna, orada yetişen meyvelerden yediğine ve onlardan haz aldığına tanıklık etmiştir. Fakat bu yerin şimdi neşamaların konutu olduğunu gördüğümüze göre, orada bulunan meyvelerin bu dünyanın meyveleri gibi maddi ve kaba şeyler olmaması gerekir; onlar çok çok daha incedir, en azından toprağa göre havanın değeri neyse öyle. Böyle bir yeme, bugünkü gibi kalın ve kaba bir beden için uygun değildir; ancak ince ve neredeyse ruhsal bir beden için, Eliyahu ve Hanoh’un bedeni gibi bir beden için uygundur. Bunu açıkladık. Aslında söylediğim şey tam da budur: Eylemlerden doğması gereken sonuçların değerine göre, o eylemlerin yapılma yolları da öyledir. Yaratılışın bütün unsurları birbirine karşılık gelir ve birbirine uygundur: her taşıyıcı varlık, bütün koşullarıyla, eylemleriyle, sonuçlarıyla, yeriyle ve o eylemleri yapan kişiyle birlikte. Bu açıktır.
+
+
 ###### Da'at Tevunot 126:9
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/126:9](https://torahapp.org/share/book/Da%27at%20Tevunot/r/126:9)
 
 
 ותראי, כי הגופניות של אדם הראשון קודם חטאו היה בערך הרוחניות אשר לו עתה; צא וחשוב הרוחניות שלו איך היה, והתולדות של המעשים ההם עד היכן היה מגיע. ודי לומר מה שאמרו ז"ל במאמר שזכרתי למעלה (ב"ר, ח, י), "בקשו מלאכי השרת לומר לפניו קדוש". ומינה נדון למה שהיה ראוי להיות אלמלא לא חטא, שהיה מתעלה בעילוי הגדול שהיה מזומן לו. כי כמו שאנחנו רואים שהגופניות שלו של אז הוא כרוחניות של עתה, נוכל להקיש מזה שהגופניות שלו אם היה מתעלה, היה יכול להיות כערך הרוחניות של אז, כי כן הדברים מתעלים מעילוי לעילוי:
+
+
+Ve gör: Adam HaRişon’un günahından önceki bedenselliği, onun şimdi sahip olduğu ruhsallık değerindeydi. Buradan onun o zamanki ruhsallığının ne olduğunu ve o fiillerin sonuçlarının nereye kadar ulaşabileceğini düşün. Yukarıda zikrettiğim öğretide hahamlarımız z”l’nin söylediği şu söz bile yeterlidir: “Hizmet melekleri onun önünde ‘Kadoş’ demek istediler.” Bundan, eğer günah işlememiş olsaydı ne olmaya layık olduğunu anlayabiliriz; çünkü kendisi için hazırlanmış büyük yükselişle daha da yücelecekti. Nitekim o zamanki bedenselliğinin şimdiki ruhsallık gibi olduğunu gördüğümüz gibi, buradan şunu da çıkarabiliriz: Eğer yükselmiş olsaydı, onun bedenselliği o zamanki ruhsallık değerinde olabilirdi; çünkü şeyler yükselişten yükselişe doğru böyle yücelir.
 
 
 ###### Da'at Tevunot 126:10
@@ -2949,12 +3000,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 ואמנם זה כלל ענין שני העצים - עץ החיים ועץ הדעת; שודאי אין מקרא יוצא מידי פשוטו, והעצים - עצים היו, והפירות - פירות, והאכילה - אכילה, אך פירות דקים ואכילה דקה, מה שאין מחשבתנו מציירת, שאינה מציירת אלא דברים גופניים. אמנם הלא גם בפירות הגשמיים יש הסגולות שמשתמשים בהם לרפואות ולדברים אחרים, ויש בסגולות הטבעיים דברים נפלאים. גם העצים האלה היה בפרים סגולה שחקק בו הבורא ית"ש, כי עץ החיים היה בפריו סגולה להכניס בלב הידיעה הנכונה והדביקות והאהבה אליו ית', והידיעה בדרכיו הקדושים, והיה שולל מן הנפש התאוות הגופניות; ועץ הדעת להיפך, היה פריו מכניס בלב התאוות הגופניות והחומריות וכל החטאים. ואם היה אדם הראשון אוכל מעץ החיים ולא מעץ הדעת, היה מתדבק והולך בקדושת קונו, ומתענג על הוד קדושתו לנצח נצחים באין מפריד. וכשאכל מעץ הדעת - נשקע בתאוות הגופניות, ואהב החומריות. הנה כי כן, מדה כנגד מדה, אבד יקר רוחניותו, ונשאר גשמי במספר הימים שנגזר עליו, עד שישבע פרי חטאו, ושב ורפא לו. הכלל הגדול (מכות כג ע"א), "כיון שלקה הרי הוא כאחיך", אז ישוב לאיתנו הראשון, וגם ישתלם מציאותו מה שלא נעשה:
 
 
+İki Ağacın, yani Hayat Ağacı ile Bilgi Ağacı’nın genel anlamı budur. Elbette ayet düz anlamından çıkmaz: ağaçlar gerçekten ağaçtı, meyveler gerçekten meyveydi, yemek de gerçekten yemeydi; fakat bunlar ince meyveler ve ince bir yemeydi. Bizim düşüncemiz bunu tasvir edemez; çünkü düşüncemiz yalnızca bedensel şeyleri tasvir eder. Bununla birlikte, maddi meyvelerde bile tedavilerde ve başka şeylerde kullanılan özellikler vardır; doğal özelliklerde de hayret verici şeyler bulunur. Bu iki ağacın meyvesinde de Yaratıcı’nın, adı yüce olsun, yerleştirdiği bir özellik vardı. Hayat Ağacı’nın meyvesi, kalbe doğru bilgiyi, O’na devekut’u, O’na sevgiyi ve O’nun kutsal yollarının bilgisini sokma özelliğine sahipti; nefesten bedensel arzuları uzaklaştırıyordu. Bilgi Ağacı ise bunun tersiydi: meyvesi kalbe bedensel ve maddi arzuları ve bütün günahları sokuyordu. Adam HaRişon, Bilgi Ağacı’ndan değil de Hayat Ağacı’ndan yemiş olsaydı, Yaratıcısının kutsallığına gittikçe daha çok bağlanacak ve O’nun kutsallığının görkeminden, onu ayıracak hiçbir şey olmadan, sonsuzca haz alacaktı. Bilgi Ağacı’ndan yediğinde ise bedensel arzulara battı ve maddiliği sevdi. Böylece, ölçüye karşı ölçü olarak, ruhsallığının değerini kaybetti ve kendisi için takdir edilen gün sayısı boyunca bedensel kaldı; sonunda günahının meyvesine doyacak, sonra ona dönüş ve iyileşme gelecektir. Büyük ilke şudur: “Cezasını çektikten sonra artık kardeşindir.” O zaman eski sağlam haline dönecek, ayrıca varlığı daha önce gerçekleşmemiş olan tamamlanmaya da ulaşacaktır.
+
+
 ###### Da'at Tevunot 126:11
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/126:11](https://torahapp.org/share/book/Da%27at%20Tevunot/r/126:11)
 
 
 והנה כל זה הוא החלק הראשון של הרע; והשני הוא - ההפסדים וההשחתה, כמו שביארנו. ותדעי שאין ההפסדים נופלים אלא בצורה השפלה הזאת החומרית, ובכל צורה מעולה מזאת אינם נופלים. ובאדם הראשון עצמו בהיותו בצורה המתוקנת ומעולה יותר, כמו שביארנו, לא היה שום חולי ושום נזק נופל בו. ואמנם כל זה הוכן מתחילה ודאי, ובבריאת הרע עצמו נעשה כל אלה בחק הטבע הכללי, כמו שביארנו, אף כי כבר שמעת היות באדם השפלה קדומה מעת הבראו, אם כן כבר נעשתה זאת לו ודאי:
+
+
+Bütün bunlar kötülüğün birinci kısmıdır. İkinci kısmı ise, açıkladığımız gibi, kayıplar ve bozulmalardır. Bil ki kayıplar yalnızca bu düşük, maddi biçime düşer; bundan daha üstün hiçbir biçime düşmez. Adam HaRişon’un kendisinde de, açıkladığımız gibi düzeltilmiş ve daha üstün biçimde bulunduğu sırada, ne hastalık ne de zarar ona düşüyordu. Elbette bütün bunlar baştan hazırlanmıştı; kötülüğün yaratılışında bütün bunlar genel doğa yasasının içine yerleştirildi. Gerçi sen, insanın yaratılış anından itibaren onda önceden gelen bir alçaltılma bulunduğunu da duymuştun; bu durumda bu şey onda kesinlikle gerçekleşmişti.
 
 
 ###### Da'at Tevunot 126:12
@@ -2965,12 +3022,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 ונמצא, שחידש מתחלה האדון ב"ה ההשפעה הצריכה להוית האדם במציאותו השלם והמעולה, והרי זה מציאות עליון בכח אל האדם; ואחר כך רצה להשפיל מציאותו, שלא יהיה בעילוי הראוי לו, אבל פחות מזה, כדי שישאר לו מקום להשלים עצמו בהתעלותו אל המדרגה העליונה ההיא הראויה לו. והנה ההשפעה היא הנשפלת תחלה, ותש כחה ונשפל ערכה וחוקה, שלא תהיה עוד מולידה האדם בעילויו זה, אלא בהשפלתו וחסרונו. והעיקר הוא שתהיה ההשפעה הזאת נמנעת מלהוליד תולדתה בעילוי ושלמות, לא מפני שלא יהיה בחוקה אלא כח קטן ומועט, כי זה לא היה נקרא השפלה, אך שתהיה המניעה חוץ ממנה, דהיינו - אף על פי שמחוקה היה ראוי להוולד ממנה התולדה השלמה, יעדר דבר זה ממנה מחמת הרע המחודש, שגורם לה ההשפלה הזאת. והרי זה כענין הכתובים (דברים, לב, יח), "צור ילדך תשי", (במדבר, יד, טז), "מבלתי יכולת ה'", הנדרשים אצל חז"ל (עי' ברכות לב ע"א), כביכול, תשש כחו כנקבה. ובהשפל ההשפעה בתשות כחה, אז נמצא מקום לרע ממש, וכמו שביארנו:
 
 
+Sonuç olarak Efendi, kutsanmış O, başlangıçta insanın tam ve üstün varlığı için gerekli olan etkiyi yeniledi; bu, insan için güç halinde yüksek bir varlıktı. Sonra insanın varlığını alçaltmak istedi: insan kendisine layık olan yücelikte bulunmasın, ondan daha aşağıda bulunsun ki, kendisini o yüksek dereceye yükselterek tamamlamasına yer kalsın. İşte önce alçaltılan şey etkidir: onun gücü zayıflar, değeri ve yasası düşer; artık insanı bu yüceliğinde değil, alçaltılmışlığı ve eksikliği içinde doğurur. Esas nokta şudur: bu etkinin kendi sonucunu yücelik ve tamlık içinde doğurması engellenir; fakat bu, onun yasasında yalnızca küçük ve az bir güç bulunduğu için değildir, çünkü buna alçaltma denmezdi. Engel onun dışındadır: yani kendi yasası gereği ondan tam sonuç doğması gerekmesine rağmen, yenilenen kötülük yüzünden bu şey ondan eksik kalır; kötülük onda bu alçaltılmaya sebep olur. Bu, ayetlerdeki “Seni doğuran Kaya’yı zayıflattın” ve hahamlarımız z”l’nin yorumladığı “Haşem’in gücü yetmediği için” ifadelerinin anlamına benzer: ifade yerindeyse, “gücü kadın gibi zayıfladı.” Etki, gücünün zayıflamasıyla alçaltılınca, o zaman gerçek kötülüğe yer açılır; açıkladığımız gibi.
+
+
 ###### Da'at Tevunot 126:13
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/126:13](https://torahapp.org/share/book/Da%27at%20Tevunot/r/126:13)
 
 
 ואבא עתה אל ענין שהזכרתיו לך בתחלה, והוא, שלא חקק האדון ב"ה ביטול והפסד לבריות שלמות, כי אם לבריות בלתי שלמות, שעל כן כשישתלמו הבריות לעתיד לבא לא יהיה עוד להם ביטול כלל. ומה שאני צריך לבאר לך עתה הוא, מה הוא החסרון הזה של השלמות המוליד הביטול. ותראי פה חכמה עמוקה בענין הנהגתו ית', וגודל יקרם של ישראל:
+
+
+Şimdi başta sana değindiğim konuya geleceğim: Efendi, kutsanmış O, yok oluşu ve bozulmayı tam varlıklar için değil, yalnızca tam olmayan varlıklar için yasa olarak koydu. Bu yüzden yaratılmışlar gelecekte tamamlandığında artık onlar için hiçbir yok oluş olmayacaktır. Şimdi sana açıklamam gereken şey, yok oluşu doğuran bu tamlık eksikliğinin ne olduğudur. Burada O’nun yönetiminde derin bir hikmet ve İsrael’in büyük değeri görülecektir.
 
 
 
@@ -2984,6 +3047,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמרה הנשמה – כבר אין כל תאותי אלא לדעת הדברים בשלמות על בורים, דבר דבר ותולדותיו. על כן אשמח מאד בידיעה זאת שתודיעני:
 
 
+Nefeş şöyle dedi: Artık bütün arzum, şeyleri tam olarak, kendi açıklıkları içinde, her şeyi ve onun sonuçlarını bilmekten ibarettir. Bu yüzden bana bildireceğin bu bilgiden çok sevineceğim.
+
+
 
 ## Chapter 128
 
@@ -2995,6 +3061,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמר השכל – חלקי הבריאה הזאת, מי שמביט עליהם לפי ראות עיניו, בתחלה לא יראם אלא ענינים מפוזרים ומפורדים, פירוש, בלתי מתקשרים כולם אל תכלית אחת, אלא כל אחד ענין בפני עצמו, לתכלית מיוחד, נשלם בעצמו, בלתי שיצטרך לחבירו, כי כל כך מינים בדומם, כל כך בצומחים, כל כך בבעלי חיים, אין ביניהם קשר ויחס שיצטרכו להעזר זה מזה, ושיתקבצו לתכלית אחת, אלא כל אחד נברא למה שנברא, ועניניו משלימים לתכלית המכוון בו, לא יותר. עם כל זה, ההדרגה המסודרת נראית בכל הטבע ודאי, וכל מי שיקח בידו להתבונן מציאות הנמצאים, ימצאם הכל בהדרגה, כשיתחיל משמי השמים וירד עד הארץ מתחת, ויתבונן בכל המינים, ימצאם כולם זה תחת זה בהדרגה מסודרת אל נכון:
 
 
+Akıl şöyle dedi: Bu yaratılışın parçalarına yalnızca gözünün gördüğü kadarıyla bakan kişi, ilk bakışta onları dağınık ve birbirinden ayrı işler olarak görür; yani hepsinin tek bir amaca bağlı olmadığını, her birinin kendi başına bir iş olduğunu, kendine özgü bir amaç için yaratıldığını, kendi içinde tamamlandığını ve başka birine ihtiyaç duymadığını sanır. Cansızlarda bu kadar tür, bitkilerde bu kadar tür, canlılarda bu kadar tür vardır; aralarında birbirlerine yardım etmelerini ve tek bir amaçta birleşmelerini gerektiren bir bağ ve ilişki görünmez. Her biri ne için yaratıldıysa onun için yaratılmıştır; kendi özellikleri de onda amaçlanan hedefi tamamlar, daha fazlasını değil. Bununla birlikte, bütün doğada düzenli bir derecelenme kesinlikle görülür. Var olanların varlığını düşünmeyi eline alan herkes, göklerin en yücesinden başlayıp aşağıdaki yere kadar indiğinde ve bütün türleri gözden geçirdiğinde, hepsinin birbirinin altında, doğru biçimde düzenlenmiş bir derecelenme içinde olduğunu görür.
+
+
 ###### Da'at Tevunot 128:2
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/128:2](https://torahapp.org/share/book/Da%27at%20Tevunot/r/128:2)
@@ -3003,12 +3072,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אך מי שיעמיק בחכמה, ימצא היות כל הנמצאות כולם מתקשרים קשר גמור זה בזה, שכולם צריכים להשלים הענין שאליו כיוונה החכמה העליונה בבריאה, וכולם מתקבצים לתכלית אחת, שתנאיו רבים וסדרם עמוק מאד, והם הם כל חלקי הבריאה הרבים האלה. הנה על כן יתיחסו כולם אלה לאלה בסדר שרצתה המחשבה העליונה, ומכולם יצא הפרי הטוב הראוי לצאת מן הבריאה. ודבר זה כבר אמרתי עמוק הוא, כי כאן. החכמה מתרחבת והולכת עד אין תכלית, לדעת פקודת כל הנמצאות, ומה הגיע אליהם בכונה הכללית הזאת שזכרנו. ורז"ל אמרו (אבות סוף פ"ו), "כל מה שברא הקב"ה בעולמו - לא בראו אלא לכבודו". ואמנם צריך להבין ענין הכבוד הזה, שגם הוא מחודש אצלו ית' ככל שאר התארים, וכמו שביארתי לך למעלה. וכשנבין התואר הזה, נבין פקודת כל הנבראים האלה בהשלמת הכבוד הזה, איך כולם צריכים להשלמתו, ואיך כולם מתקבצים אל התכלית הזה. ועתה די לנו לדעת רק בכלל אחד ההקדמה הזאת - שודאי כל דברי הבריאה מתקשרים הם, ומתקבצים אל תכלית האחד. ונדע על כן, כי אין שלמות ענינם במה שהם נמצאים איש לדרכו מקצהו, אלא במה שהם מתקשרים זה בזה, ומתאחדים לתכלית האחד שזכרנו; כי זה לבדו הוא ודאי שלמות ענינם, כיון שזה הוא המצטרך יותר לתכלית שבעבורו נבראו, שהוא התכלית הכללי שזכרנו:
 
 
+Fakat hikmette derinleşen kişi, bütün var olanların birbirine tam bir bağla bağlı olduğunu görür. Hepsi, Üst Hikmet’in yaratılışta amaçladığı şeyi tamamlamak için gereklidir; hepsi tek bir amaca toplanır. Bu amacın şartları çoktur, düzeni de son derece derindir; yaratılışın bütün bu çok sayıdaki parçaları da işte bu şartlardır. Bu yüzden hepsi, Üst Düşünce’nin istediği düzen içinde birbirleriyle ilişkilidir; hepsinden yaratılıştan çıkması gereken iyi meyve çıkar. Sana zaten söyledim: bu konu derindir; çünkü burada hikmet sonsuza kadar genişler, bütün varlıkların görevinin ne olduğunu ve zikrettiğimiz bu genel amaç içinde onlara ne düştüğünü bilmeye kadar uzanır. Hahamlarımız z”l şöyle demiştir: “HaKadoş Baruh Hu dünyasında yarattığı her şeyi ancak kendi onuru için yarattı.” Fakat bu onurun anlamını anlamak gerekir; çünkü bu da O’nun yanında, diğer sıfatların hepsi gibi, yenilenmiş bir kavramdır; sana yukarıda açıkladığım gibi. Bu sıfatı anladığımızda, bütün bu yaratılmışların bu onuru tamamlamadaki görevini de anlarız: hepsinin onu tamamlamak için nasıl gerekli olduğunu ve hepsinin bu amaca nasıl toplandığını. Şimdilik bu ön bilgiden yalnızca tek bir genel ilkeyi bilmemiz yeterlidir: yaratılışın bütün şeyleri kesinlikle birbirine bağlıdır ve tek bir amaca toplanır. Bu yüzden şunu biliriz: onların tamlığı, her birinin bir uçta kendi yoluna göre var olmasında değil, birbirleriyle bağlanmalarında ve zikrettiğimiz tek amaçta birleşmelerindedir. Çünkü onların gerçek tamlığı yalnızca budur; zira yaratılış amaçları olan genel amaç için asıl gerekli olan da budur.
+
+
 ###### Da'at Tevunot 128:3
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/128:3](https://torahapp.org/share/book/Da%27at%20Tevunot/r/128:3)
 
 
 ובאמת תראי, שגם במעשים אין רע נמצא בעולם אלא בחלקי הדברים טרם התחברם להשלמת הדבר, אך אין דבר מושלם שיהיה רע. וזה, כיון שידענו שכל מה שהקב"ה עושה הוא אך טוב מאד, הנה מה שנראה חסר בצד אחד באחד מתנאי הדברים, נשלם החסרון ההוא בתנאי אחר שמשלים בעדו, ולא היה החסרון ההוא אלא מפני שלא נשלם הדבר ההוא בכל תנאיו, וכיון שישתלם - ודאי הוא טוב. ודבר זה מתאמת מן המעשה עצמו שהוא כך, והמעשה הכללי שהוא סיבוב העולם - יתברר הדבר שגם הוא כך בסוף הכל, בזמן שתתקיים הבטחת (ישעיהו יב, א), "אודך ה' כי אנפת בי", כי אז יהיו נגמרים כל חלקי המעשה, והנה יהיה המעשה אך טוב באמת. והנה על כן נאמר שבתחלה הכין האדון ב"ה את הטבע כמו שביארנו, כל מין ומין שבה לפי מציאות המינים, כל אחד בפני עצמה בהדרגת מציאותם, ובענין זה נהיה הביטול וההפסד, שהוא ההפסד הנמצא בכל מין ומין לפי מציאותו. אך ענין התקשרם והקבצם לתכלית הכללי, אדרבא הוא תיקון לענין זה, כי בזה הוא שיוצאים מתחת ידי הרע וניצולים ממנו. והוא הענין שזכרנו כבר, שכל מה שברא הקב"ה בעולמו - לא בראו אלא לכבודו. והכבוד הוא - שיהיה הוא ית"ש שמח בכל מעשיו, ויהיה לו מקום, כביכול, להנאות את כל מעשיו בטובו. וההנהגה בכל המעשים אינה אלא להביא הכל אל התיקון הגמור, שלא יהיה עוד מציאות לרע כלל. אך אין פרי זה יוצא אלא בקיבוץ כל המעשים כולם. ונמצא כי במיני הטבע מצד עצמם, לא מצד התקשרם, נהיה הביטול וכל ההשפלה וההפסד, אך בהתקשרותם נשרש תיקונם והצלתם מן הרעות:
+
+
+Gerçekte görürsün ki fiillerde de kötülük, ancak şeylerin parçaları o şeyi tamamlamak üzere birleşmeden önce bulunur; fakat tamamlanmış hiçbir şey kötü değildir. Çünkü HaKadoş Baruh Hu’nun yaptığı her şeyin yalnızca “çok iyi” olduğunu bildiğimize göre, şeylerin şartlarından birinde bir yönden eksik görünen şey, onun yerine tamamlayıcı olan başka bir şartla tamamlanır. O eksiklik, yalnızca o şey bütün şartlarıyla tamamlanmadığı için eksiklikti; tamamlandığında ise kesinlikle iyidir. Bunun böyle olduğu, fiilin kendisinden doğrulanır; genel fiil, yani dünyanın döngüsü bakımından da bu şey sonunda açıklığa kavuşacaktır. “Sana şükredeceğim, ey Haşem, çünkü bana öfkelendin” vaadi gerçekleştiğinde, fiilin bütün parçaları tamamlanmış olacak ve fiil gerçekten yalnızca iyi olacaktır. Bu yüzden şöyle deriz: Efendi, kutsanmış O, başlangıçta doğayı açıkladığımız biçimde hazırladı; ondaki her türü, türlerin varlığına göre, her birini kendi varlık derecesi içinde kendi başına düzenledi. Bu bağlamda yok oluş ve bozulma meydana geldi; yani her türde, kendi varlığına göre bulunan bozulma. Fakat onların genel amaca bağlanmaları ve toplanmaları, tam tersine, bu işin tikun’udur; çünkü kötülüğün elinden çıkmaları ve ondan kurtulmaları bununla olur. Bu, daha önce zikrettiğimiz “HaKadoş Baruh Hu dünyasında yarattığı her şeyi ancak kendi onuru için yarattı” ilkesidir. Onur şudur: O’nun, adı yüce olsun, bütün fiilleriyle sevinmesi ve ifade yerindeyse, bütün fiillerini kendi iyiliğiyle güzelleştirecek bir yerinin olması. Bütün fiillerdeki yönetim, her şeyi tam tikun’a götürmekten ibarettir; öyle ki artık kötülüğe hiçbir varlık kalmasın. Fakat bu meyve ancak bütün fiillerin birlikte toplanmasıyla çıkar. Buna göre doğanın türlerinde, kendi başlarına ve birbirlerine bağlanmaları açısından değil, yok oluş, bütün alçalma ve bozulma meydana gelir; fakat birbirlerine bağlanmalarında onların tikun’u ve kötülüklerden kurtuluşu köklenmiştir.
 
 
 
@@ -3022,6 +3097,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמרה הנשמה – אלה הם דברים ברורים ומיושבים על הלב. אבל עדיין צריך אתה לבאר ענין יקרם של ישראל שיעדת לפרש, שאינני רואה עדיין לו ענין בכאן:
 
 
+Nefeş şöyle dedi: Bunlar açık ve kalbe yerleşen sözlerdir. Fakat açıklayacağını söylediğin İsrael’in değerini hâlâ açıklaman gerekiyor; çünkü burada onunla ilgili konuyu henüz görmüyorum.
+
+
 
 ## Chapter 130
 
@@ -3033,6 +3111,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמר השכל – ביארתי הענינים המתחלפים בהשפעה הגורמים התחלף התולדות שהם המקרים המתילדים בעולם; אמנם הסיבה הראשונה לכל זה, והטעם להתחלף הענינים בהשפעה, זה הוא הענין התלוי בישראל שהזכרתי לך, ועתה אפרש. הנה הקב"ה עם ישראל הוא כאב אל בנו, וכאיש אל אשת נעוריו אשר כל תשוקתו ית' אלינו, וכענין שנאמר (שיר השירים ז, יא), "אני לדודי ועלי תשוקתו", וכתיב (תהלים מ, ו), "נפלאותיך ומחשבותיך אלינו", וכן נאמר (ויקרא כו, ט), "ופניתי אליכם וגו' והרביתי אתכם". והיינו, כי הקב"ה תאב, כביכול, להשתעשע בברואיו ושמח בם, כענין שנאמר (תהלים קד, לא), "ישמח ה' במעשיו". ובהיותו באמת פונה אליהם, הנה מאהבתו אותם, ומשמחתו ששמח בם, כביכול, חושב מחשבות, ואינו פוסק להיטיב להם ולהרבות אותם, ומחדש להם טובו תמיד, השפעה אחר השפעה, בכל אופן היותר נאות לתיקונם וטובתם, כאשר יחשב האב הפונה באהבתו אל בנו. והנה העיקר בכל זה הוא ישראל, כי להם תאותו, כדברי הכתוב שזכרנו, "אני לדודי ועלי תשוקתו", וכל שאר הבריאה תלויה רק בהם, כי כאשר יפנה אליהם באהבה, הנה לא יהיה אלא מחדש תמיד טובות אחר טובות לכל העולם, טובות אמיתיות ושלמות:
 
 
+Akıl şöyle dedi: Etkide değişen unsurları açıkladım; bunlar dünyada meydana gelen olaylar olan sonuçların değişmesine sebep olur. Fakat bütün bunların ilk sebebi ve etkideki unsurların değişmesinin gerekçesi, sana zikrettiğim İsrael’e bağlı konudur; şimdi bunu açıklayacağım. HaKadoş Baruh Hu’nun İsrael ile ilişkisi, babanın oğluyla ve bütün arzusunu gençlik eşi üzerine yönelten erkeğin eşiyle ilişkisi gibidir. Nitekim “Ben sevgilime aidim ve onun arzusu benim üzerimedir” denmiştir; ayrıca “Harikaların ve düşüncelerin bize yöneliktir” denmiştir; yine “Size yöneleceğim… ve sizi çoğaltacağım” denmiştir. Bunun anlamı şudur: HaKadoş Baruh Hu, ifade yerindeyse, yaratılmışlarıyla hoş vakit geçirmek ister ve onlarla sevinir; “Haşem fiilleriyle sevinsin” denildiği gibi. Gerçekten onlara yöneldiğinde, onları sevdiği için ve onlarla sevindiği için, ifade yerindeyse, düşünceler düşünür; onlara iyilik etmeyi ve onları çoğaltmayı hiç bırakmaz. Onların tikun’u ve iyiliği için en uygun biçimde, bir etkiden sonra başka bir etkiyle, iyiliğini onlara sürekli yeniler; tıpkı sevgisiyle oğluna yönelen bir babanın düşündüğü gibi. Bütün bunların asıl merkezi İsrael’dir; çünkü O’nun arzusu onlaradır, zikrettiğimiz ayetin dediği gibi: “Ben sevgilime aidim ve onun arzusu benim üzerimedir.” Yaratılışın geri kalanı yalnızca onlara bağlıdır. Çünkü O, onlara sevgiyle yöneldiğinde, bütün dünya için sürekli iyilikler üstüne iyilikler yeniler; gerçek ve tam iyilikler.
+
+
 ###### Da'at Tevunot 130:2
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/130:2](https://torahapp.org/share/book/Da%27at%20Tevunot/r/130:2)
@@ -3041,12 +3122,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמנם קשה העבירה, לעשות שיהיה הקב"ה פונה ח"ו מישראל, וכבעל הכועס על אשתו או האב על בנו. ועל הזמן ההוא לאמר (בראשית ו, ו), "ויתעצב אל לבו", כי אינו שמח על העולם ובריותיו ח"ו, ואז כל השפעה נעדרת, וסרה ההצלחה ח"ו. ונמצא, כי בריאת הרע אינה נולדת אלא מהסתר הפנים, שהאדון ב"ה לא פנה באהבה לגבי התחתונים ולא שמח בם, והרי זו סבה לכל העדר ההשפעה שזכרנו:
 
 
+Fakat günah ağırdır; çünkü HaKadoş Baruh Hu’nun, Tanrı korusun, İsrael’den yüz çevirmesine sebep olur; tıpkı eşine kızan bir koca veya oğluna kızan bir baba gibi. O zaman hakkında “Kalbine üzüntü verdi” denmiştir; çünkü O, Tanrı korusun, dünyaya ve yaratılmışlarına sevinmez. O zaman bütün etki eksilir, başarı ortadan kalkar, Tanrı korusun. Buna göre kötülüğün yaratılışı yalnızca yüzün gizlenmesinden doğar: Efendi, kutsanmış O, aşağıdakilere sevgiyle yönelmemiş ve onlarla sevinmemiştir; bu da zikrettiğimiz bütün etki eksikliğinin sebebidir.
+
+
 ###### Da'at Tevunot 130:3
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/130:3](https://torahapp.org/share/book/Da%27at%20Tevunot/r/130:3)
 
 
-ותראי, כי באמת צפה הקב"ה מעשיהם של צדיקים ומעשיהם של רשעים. וענין זה לימדוהו אותנו רז"ל במדרש, שאמרו (ב"ר ב, ה), "מתחלת בריאתו של עולם צפה הקב"ה מעשיהן של צדיקים ומעשיהן של רשעים"; וכן אמרו (ב"ר, ח, ד), "מה עשה הקב"ה - הפליג דרכם של רשעים מכנגד פניו, ושיתף בו רחמיו ובראו". והיינו כי כל בריאת העולם מתחלה היתה בדרך צפיית עתידות, כי היה צופה מה שהיה עתיד להיות, והיה מתקן סדרים לצורך כל העתיד. והנה בצפיית מעשה הצדיקים היתה השמחה לו ית', ונולד מזה כל סידור ההשפעה הטובה, ובצפיית מעשה הרשעים - כל העדר ההשפעה והקלקול. ומשם והלאה נשאר חק ההנהגה בדרך זה, כי נועשי הצדיקים יולידו השמחה לו ית', וזה מקור לכל הטובות, ומעשי הרשעים, כביכול, יעציבו את הלב, וזה מקור כל הרעות:
+ותראי, כי באמת צפה הקב"ה מעשיהם של צדיקים ומעשיהם של רשעים. וענין זה לימדוהו אותנו רז"ל במדרש, שאמרו (ב"ר ב, ה), "מתחלת בריאתו של עולם צפה הקב"ה מעשיהן של צדיקים ומעשיהן של רשעים"; וכן אמרו (ב"ר, ח, ד), "מה עשה הקב"ה - הפליג דרכם של רשעים מכנגד פניו, ושיתף בו רחמיו ובראו". והיינו כי כל בריאת העולם מתחלה היתה בדרך צפיית עתידות, כי היה צופה מה שהיה עתיד להיות, והיה מתקן סדרים לצורך כל העתיד. והנה בצפיית מעשה הצדיקים היתה השמחה לו ית', ונולד מזה כל סידור ההשפעה הטובה, ובצפיית מעשה הרשעים - כל העדר ההשפעה והקלקול. ומשם והלאה נשאר חק ההנהגה בדרך זה, כי מעשי הצדיקים יולידו השמחה לו ית', וזה מקור לכל הטובות, ומעשי הרשעים, כביכול, יעציבו את הלב, וזה מקור כל הרעות:
+
+
+Gör ki HaKadoş Baruh Hu gerçekten tsadiklerin fiillerini ve kötülerin fiillerini önceden gördü. Hahamlarımız z”l bunu Midraş’ta bize öğrettiler: “Dünyanın yaratılışının başından itibaren HaKadoş Baruh Hu tsadiklerin fiillerini ve kötülerin fiillerini gördü” dediler. Yine şöyle dediler: “HaKadoş Baruh Hu ne yaptı? Kötülerin yolunu yüzünün karşısından uzaklaştırdı, merhametini ona kattı ve onu yarattı.” Bunun anlamı şudur: dünyanın bütün yaratılışı başlangıçta gelecekleri görme yoluyla oldu. Çünkü O, gelecekte olacak şeyi görüyor ve bütün gelecek için gerekli düzenleri kuruyordu. Tsadiklerin fiillerini görmesinde O’nun, adı yüce olsun, sevinci vardı; bundan iyi etkinin bütün düzeni doğdu. Kötülerin fiillerini görmesinden ise bütün etki yokluğu ve bozulma doğdu. Bundan sonra yönetimin yasası bu yolda kaldı: tsadiklerin fiilleri O’nun, adı yüce olsun, sevincini doğurur; bu bütün iyiliklerin kaynağıdır. Kötülerin fiilleri ise, ifade yerindeyse, kalbi üzer; bu da bütün kötülüklerin kaynağıdır.
 
 
 ###### Da'at Tevunot 130:4
@@ -3057,12 +3144,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 ותראי כי לולי היה האדון ב"ה צופה והולך במעשי הרשעים, לא היה לעולם קיום כלל, אלא הניח מעשה הרשעים, שכבר הם אינם לנצח, אלא אדרבא כלים ומתבטלים, ותפס במעשה הצדיקים, כי הם העומדים להתקיים לנצח נצחים, ובכחם ברא עולמו וקיימו; וגם חקק בו להיות הטוב מתגבר והולך, עד שיעבור הרע ובטל מן העולם לגמרי:
 
 
+Gör ki Efendi, kutsanmış O, kötülerin fiillerini sürekli görüp ona göre hareket etseydi, dünya hiçbir şekilde varlığını sürdüremezdi. Bunun yerine kötülerin fiillerini bıraktı; çünkü onlar zaten sonsuz değildir, tam tersine tükenir ve yok olurlar. Tsadiklerin fiillerini esas aldı; çünkü onlar sonsuzlar sonsuzuna var olmak üzere duran şeylerdir. Dünyasını onların gücüyle yarattı ve sürdürdü. Ayrıca onda, iyiliğin giderek güçlenmesini, sonunda kötülüğün geçip dünyadan tamamen yok olmasını yasa olarak koydu.
+
+
 ###### Da'at Tevunot 130:5
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/130:5](https://torahapp.org/share/book/Da%27at%20Tevunot/r/130:5)
 
 
 ונמצא באמת, שכל סדרי ההנהגה העליונה וכל תולדותיה מיוסדים רק על ישראל, בפנות טובו ית' להם באהבה או בפנות מהם ח"ו; ונמצאו הם לבדם העיקר בכל הבריאה כולה, וכל השאר תלויים בם. ולא אאריך עתה בזה. מה שצריך לעניננו הוא מה שזכרתי בתחלה, כי בפנותו ית"ש באהבה אל התחתונים, תלויים כל תיקוני ההשפעה, וההפך - בפנותו מהם:
+
+
+Gerçekte sonuç şudur: Üst yönetimin bütün düzenleri ve onların bütün sonuçları yalnızca İsrael üzerine kuruludur; O’nun, adı yüce olsun, iyiliğinin onlara sevgiyle yönelmesine veya Tanrı korusun, onlardan yüz çevirmesine bağlıdır. Bu yüzden bütün yaratılışın asıl merkezi yalnızca onlardır; geri kalan her şey onlara bağlıdır. Şimdi bunu uzatmayacağım. Bizim konumuz için gerekli olan, başta zikrettiğim şeydir: O’nun, adı yüce olsun, aşağıdakilere sevgiyle yönelmesine etkinin bütün tikun’ları bağlıdır; bunun tersi de, O’nun onlardan yüz çevirmesine bağlıdır.
 
 
 ###### Da'at Tevunot 130:6
@@ -3073,12 +3166,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 ועד הנה השלמנו כל המצטרך לדעת בענין בריאת הרע. עתה נבאר את אשר סידר האדון ית"ש לתיקונו ולהעבירו מן הבריאה, להיות כל הנמצאות מתוקנים עד תכלית התיקון השלם שיהיה לעתיד לבא:
 
 
+Buraya kadar kötülüğün yaratılışı konusunda bilinmesi gereken her şeyi tamamladık. Şimdi Efendi’nin, adı yüce olsun, kötülüğün tikun’u ve onu yaratılıştan geçirmek için ne düzenlediğini açıklayacağız; ta ki bütün var olanlar, gelecekte olacak tam tikun’un son sınırına kadar düzeltilmiş olsun.
+
+
 ###### Da'at Tevunot 130:7
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/130:7](https://torahapp.org/share/book/Da%27at%20Tevunot/r/130:7)
 
 
 ואמנם, מה שצריך לדעת תחלה הוא, שאף על פי שחידש הרצון העליון את הקלקולים, כמו שביארנו כבר, לא היתה הכוונה להשאירם, אלא אדרבא להעבירם ולהביא אחריהם התיקון השלם, ועל כן גזר שלא יהיה הקלקול ביטול גמור שלא ישאיר זכר מן המתבטל, אבל עשה שיהיו קלקולים שיכולים ליתקן, כי תתקיים הוית הנבראים אפילו בתוך הקלקולים, עד שתחשוב לאיתנה, כחולה המתרפא. ותראי אמתת הדבר הזה בכל דברי העולם, כי לא הושמו הקלקולים לאבד הטוב, אלא לעוות, ואחר יסתלקו וישוב הטוב לאיתנו. ראי, אפילו המיתה שהיא הביטול היותר גדול שבעולם - אינה ביטול גמור, כי הרי יש תחית המתים, שאף על פי שהגוף שב לעפר, הנה הלוז שבו מתקיים כידוע (עי' ויק"ר יח, א), לבנות ממנו הגוף ההוא עצמו; כל שכן מה שהוא פחות ממיתה, שאינו ביטול גמור ודאי, אלא מתקלקל ויכול ליתקן:
+
+
+Bilinmesi gereken ilk şey şudur: Üst İrade, daha önce açıkladığımız gibi bozulmaları yenilemiş olsa da amaç onları bırakmak değildi; tam tersine onları geçirmek ve ardından tam tikun’u getirmekti. Bu yüzden bozulmanın, yok olan şeyden hiçbir iz bırakmayan mutlak bir yok oluş olmasını hükmetmedi. Bunun yerine, düzeltilebilir bozulmalar yaptı; yaratılmışların varlığı, bozulmaların içinde bile, hastanın iyileşmesi gibi kendi sağlamlığına dönünceye kadar sürer. Bu şeyin doğruluğunu dünyanın bütün işlerinde gör: bozulmalar iyiyi yok etmek için değil, onu eğip bozmak için konulmuştur; sonra onlar kalkacak ve iyi kendi sağlamlığına dönecektir. Bak, dünyadaki en büyük yok oluş olan ölüm bile mutlak bir yok oluş değildir; çünkü ölülerin dirilişi vardır. Beden toprağa dönse bile, bilindiği gibi onda luz kemiği kalır; aynı bedenin ondan yeniden kurulması için. Ölümden daha aşağı olan şeyler ise elbette mutlak yok oluş değildir; bozulur, fakat düzeltilebilir.
 
 
 ###### Da'at Tevunot 130:8
@@ -3089,12 +3188,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 וישראל בגלות הורידם עד עפר, שנאמר בהם (איכה ג, ו), "במחשכים הושיבני כמתי עולם", ועם כל זה קרא כתיב (ויקרא כו, מד), "ואף גם זאת בהיותם בארץ אויביהם לא מאסתים ולא געלתים לכלותם" וגו'; וכתיב (מלאכי ג, ו), "כי אני ה' לא שניתי, ואתם בני יעקב לא כליתם". והיינו, כי אין הקב"ה נחם על מעשיו הטובים שימאסם, ואף על פי שמניח להם קלקול, אינו שעזבם ודחם בשתי ידים ח"ו, אלא מניח להם לסבול, מה שהוא יודע היותו סוף סוף לטובתם; על כן הוא מקיים מציאותם, אבל מניחם הוא להצטרף בכור הנסיונות של הצרות הרבות והרעות. אחר ישובו ויפרחו כגפן, ויצמחו מחדש כארץ תוציא צמחה וכגנה זרועיה תצמיח והזרעונים עצמם ראיה לדבר, שהם מתקלקלים תחת הארץ, אך לא מתבטלים, אלא על כן מעפר יחזרו ויצמחו. נמצא, שלא המציא האדון ב"ה למעשיו ביטול ממש שאין לו תיקון, אלא קלקול שיכול ליתקן. והנה כמו שביארנו, שלהמצאת הביטול הזה לא ייחד האדון ב"ה שם שלמותו עליו, שאינו מיחד שמו על הרעה, כן אדרבא ממעשי שלמותו הוא לקיים כל דבר טוב, אפילו בתוך ההפסדים בשעת קלקלתו, ולא זז מרחף עליהם כדי לקיים הטוב, שלא יתבטל ביטול גמור:
 
 
+İsrael sürgünde toprağa kadar indirildi; onlar hakkında “Beni karanlıklarda, çoktan ölmüş olanlar gibi oturttu” denmiştir. Buna rağmen ayet şöyle der: “Bütün bunlara rağmen, düşmanlarının ülkesinde oldukları zaman onları iğrenmedim, onlardan tiksinmedim, onları yok etmek için…”; ayrıca “Çünkü Ben Haşem’im, değişmedim; siz de Yaakov’un çocukları, yok olmadınız” denmiştir. Bunun anlamı şudur: HaKadoş Baruh Hu, iğrenip atacak şekilde kendi iyi fiillerinden pişman olmaz. Onlara bozulma bıraksa bile, bu onları terk ettiği ve iki eliyle ittiği anlamına gelmez, Tanrı korusun; ancak sonunda onların iyiliği olacağını bildiği şeyi çekmelerine izin verir. Bu yüzden varlıklarını sürdürür; fakat onları çok ve kötü sıkıntıların sınav potasında arınmaya bırakır. Sonra yeniden dönecek ve asma gibi çiçeklenecekler, toprağın filizini çıkarması ve bahçenin tohumlarını yeşertmesi gibi yeniden büyüyeceklerdir. Tohumların kendisi buna kanıttır: toprağın altında bozulurlar, fakat yok olmazlar; bu yüzden topraktan yeniden döner ve büyürler. Sonuç olarak Efendi, kutsanmış O, fiilleri için hiçbir tikun’u olmayan gerçek bir yok oluş yaratmadı; yalnızca düzeltilebilir bir bozulma yarattı. Açıkladığımız gibi, bu yok oluşu meydana getirirken Efendi, kutsanmış O, tamlığının adını onun üzerine birleştirmedi; çünkü O adını kötülük üzerine birleştirmez. Bunun tersine, tamlığının fiillerinden olan şey, bozulmaların içinde ve bozulma anında bile her iyi şeyi varlıkta tutmaktır. O, iyiliği tam bir yok oluşla ortadan kalkmaktan korumak için onların üzerinde sürekli bulunur ve onlardan ayrılmaz.
+
+
 ###### Da'at Tevunot 130:9
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/130:9](https://torahapp.org/share/book/Da%27at%20Tevunot/r/130:9)
 
 
 וראי ענין זה באדם מבואר באר היטב, וכמו שביארנו לעיל ההקבלה שיש בעניני האדם ועניני ההנהגה העליונה. אדם כי ימות, הנה נשמתו תעזבהו, וישוב העפר אל הארץ כשהיה. והרמז והענין אחד הוא, כי האדם בנוי מחושך הגופניות, הלא הוא גוף החשוך המחודש בהסתר פניו ית"ש, וכמו שביארנו, ומרוחניות המחיה אותו ומזככו, תולדת הארת פניו ית' להשלים חסרון נבראיו, כמו שביארנו גם כן. ובהיות האדון ב"ה מתהלך עם האדם כסדר הזה - גם האדם חי בעולמו. אך כאשר יניח ידו האדון ב"ה מהאיר פניו אליו, ויניח החושך אשר בטבעו לבדו, כן תסתלק הנשמה מן הגוף ההוא, וישאר הגוף מת כאבן דומם; ואולם גם יבטל ויפסד, כי סילק האדון ב"ה פניו ממנו, וכתיב (תהלים קד, סט), "תסתיר פניך יבהלון תוסף רוחם יגועון ואל עפרם ישובון". ואמנם כאשר לא לגמרי יסתיר האדון ב"ה את פני טובו לעולם, כי איזה שביב מאורו יגיה חשכת הסתר הפנים לקיומו של עולם, לכן לא יבטל גם הגוף הזה ביטול גמור ולא תעזבהו הנשמה לגמרי, אלא קיימו מה שקיבלו רבותינו הקדושים - המצא עם העצמות שבקבר איזה חלק חיות הנקרא בלשונם, הבלא דגרמי, המקיים המתים לצורך התחיה, שלא יהיו הקמים בתחיה בריאות חדשות, אלא אותם שכבר מתו עצמם, וקרא כתיב (ישעיהו נח, יא), "והשביע בצחצחות נפשך ועצמותיך יחליץ":
+
+
+Bu konuyu insanda çok açık biçimde gör; insanın halleriyle Üst yönetimin halleri arasındaki karşılığı yukarıda açıkladığımız gibi. İnsan öldüğünde neşaması onu terk eder ve toprak eski halinde olduğu gibi yere döner. İma edilen anlam ile konu aynıdır: insan bedenselliğin karanlığından, yani O’nun, adı yüce olsun, yüzünün gizlenmesiyle yenilenmiş karanlık bedenden ve onu yaşatan, arındıran ruhsallıktan kurulmuştur. Bu ruhsallık, O’nun, adı yüce olsun, yüzünün aydınlanmasının sonucudur; yaratılmışlarının eksikliğini tamamlamak içindir; bunu da açıkladık. Efendi, kutsanmış O, insanla bu düzen içinde yürüdüğünde insan da dünyasında yaşar. Fakat Efendi, kutsanmış O, yüzünü ona aydınlatmaktan elini çektiğinde ve insanı doğasında bulunan karanlıkla baş başa bıraktığında, neşama o bedenden çekilir; beden de taş gibi cansız ve ölü kalır. Ayrıca yok olur ve bozulur; çünkü Efendi, kutsanmış O, yüzünü ondan çekmiştir. Ayette şöyle yazılmıştır: “Yüzünü gizlersin, dehşete düşerler; ruhlarını geri alırsın, ölürler ve topraklarına dönerler.” Ancak Efendi, kutsanmış O, iyiliğinin yüzünü dünyadan bütünüyle gizlemez; çünkü ışığından bir kıvılcım, dünyanın varlığı için yüzün gizlenmesinin karanlığını aydınlatır. Bu yüzden bu beden de mutlak bir yok oluşla yok olmaz; neşama onu tamamen terk etmez. Kutsal hahamlarımızın aldığı gelenek böyledir: mezardaki kemiklerle birlikte, onların dilinde havla de-garme (kemiklerin buharı/hayati kalıntısı) denilen bir canlılık parçası bulunur. Bu, ölüleri diriliş için varlıkta tutar; dirilişte kalkacak olanlar yeni yaratıklar olmasın, bizzat daha önce ölmüş olanlar olsun diye. Ayet de şöyle der: “Nefşini parlaklıklarla doyuracak ve kemiklerini güçlendirecek.”
 
 
 
@@ -3108,6 +3213,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמרה הנשמה – כל אלה דברים המתישבים על הלב הם ודאי, כי לא יהיה האדון ב"ה מואס יגיע כפיו, אבל את הטוב יקיים, ויסיר מעליו הרע בגלגולי מסיבותיו:
 
 
+Nefeş şöyle dedi: Bütün bunlar kesinlikle kalbe yerleşen şeylerdir. Çünkü Efendi, kutsanmış O, ellerinin emeğinden tiksinmeyecek; iyiyi varlıkta tutacak ve üzerinde, sebeplerinin döngüleriyle kötülüğü kaldıracaktır.
+
+
 
 ## Chapter 132
 
@@ -3119,12 +3227,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמר השכל – עתה נתחיל בסדר תיקונו של העולם, ונאמר, כי הנה כבר שמעת שבשעה שחידש הבורא ית"ש את ההשפעה לצורך הטבע הזה מתחילה, שעדיין היה עתיד לחדש הביטול להשפעה ההיא, הנה הכוונה באמת בחידוש ההשפעה לא היתה לשתתקיים, אלא לשתתבטל, וכבר פירשנו דבר זה למעלה. אמנם ברצותו לחדש מציאות השפעה מתוקנת לשתתקיים, ותוליד התולדות המצטרכות בעולם, הנה הכוונה היתה באמת להרחיק ממנה הרע שכבר נתחדש לענינה, והרי כאן הכוונה הפך ממש מן הכוונה הראשונה, כמו שביארנו. וזה הראש וראשון למציאות תיקון הבריאה - להיות הכוונה נהפכת אל עשיית הטוב וקיומו, והצלתו מן הרע:
 
 
+Akıl şöyle dedi: Şimdi dünyanın tikun’unun düzenine başlayacağız ve şöyle diyeceğiz: Daha önce duydun ki Yaratıcı, adı yüce olsun, başlangıçta bu doğa için gerekli etkiyi yenilediğinde, o etki için yok oluşu daha sonra yenileyecekti; bu nedenle etkiyi yenilemedeki gerçek amaç onun varlıkta kalması değil, ortadan kalkmasıydı. Bunu yukarıda açıkladık. Fakat O, varlıkta kalacak ve dünyada gerekli sonuçları doğuracak düzeltilmiş bir etkinin varlığını yenilemek istediğinde, gerçek amaç, onun konusuna ilişkin olarak daha önce yenilenmiş olan kötülüğü ondan uzaklaştırmaktı. Burada amaç, ilk amacın tam tersidir; açıkladığımız gibi. Yaratılışın tikun’unun varlığı için ilk ve en temel şey budur: amacın iyiyi yapmak, onu varlıkta tutmak ve kötülükten kurtarmak yönüne dönmesi.
+
+
 ###### Da'at Tevunot 132:2
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/132:2](https://torahapp.org/share/book/Da%27at%20Tevunot/r/132:2)
 
 
 והנה המציא האדון ב"ה כל מידות השפעתו ומדרגותיה, מדרגה ומדרגה בתיקונה, שהכוונה בה תהיה רק להוליד הטוב, וריחק ממנה הרע, שהוא הביטול, שכבר נתחדש מציאותו ליפול בענין המדרגה ההיא. ובדרך זה הכין כל מדרגות השפעתו בהדרגתם. ובכל אחת מהנה הוצרך לעשות כל זה, פירוש, בראשונה - להפוך הכוונה בה רק אל תיקון הטוב להולדת הנמצאות כמו שביארנו, שנית - להרחיק ממנו הביטול שכבר חודש לה שלא ישוב ויבטלה. אמנם הרע גם כן לא רצה האדון לבטלו, אלא להרחיקו, אך שיהיה קיים ועומד כל זמן הצריך לבריות. וגם קיום הרע עצמו לא יהיה אלא מכחו ית', כי הוא לבדו עושה את הטוב ואת הרע ודאי, אך אין זה אלא הענין היותר שפל המתיחס להשפעתו והשגחתו ית':
+
+
+Efendi, kutsanmış O, etkisinin bütün ölçülerini ve derecelerini var etti; her dereceyi kendi tikun’u içinde düzenledi. Bu derecelerdeki amaç yalnızca iyiyi doğurmak oldu; onlardan, o dereceye düşmek üzere varlığı daha önce yenilenmiş olan yok oluşu uzaklaştırdı. Bu yolla etkisinin bütün derecelerini kendi derecelenişleri içinde hazırladı. Bunların her birinde bütün bunları yapmak gerekti: birincisi, onda amacı yalnızca iyinin tikun’una, varlıkları doğurmaya çevirmek; açıkladığımız gibi. İkincisi, onun için daha önce yenilenmiş olan yok oluşu ondan uzaklaştırmak; bir daha dönüp onu yok etmesin diye. Bununla birlikte Efendi kötülüğü de yok etmek istemedi; yalnızca uzaklaştırmak istedi. Fakat yaratılmışlar için gerekli olduğu süre boyunca var ve ayakta kalacaktı. Kötülüğün kendisinin varlığı da yalnızca O’nun gücüyle olur; çünkü iyiyi de kötüyü de kesinlikle yalnızca O yapar. Fakat bu, O’nun, adı yüce olsun, etkisine ve gözetimine nispet edilen şeylerin en düşük olanıdır.
 
 
 ###### Da'at Tevunot 132:3
@@ -3135,12 +3249,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 ונמצא שודאי סידר האדון ב"ה כל הדרגת השפעותיו למה שצריך לקיום העולם, מדרגה אחר מדרגה, ואחר כל אלה יחס לו גם כן עשיית הרע וכל חלקיו ועניניו. והנה יש ברע הזה מה שמקביל לכל חלקי ההשפעה הטובה, כי לכל חלק השפעה טובה - ככה חודש הביטול, ומכל חלק השפעה טובה רוחק הביטול המיוחד לה, אך לא נתבטל. אמנם כל הביטולים המיוחדים לכל חלקי השפעה טובה אינם אלא מיני סוג אחד, שהוא הרע הכללי, וכל הסוג כולו לא ייוחס להשפעתו ית' אלא בערך היותר שפל שבכל הענינים הנכללים בזה. ועל כן מאז נתקנה דרך משל המדרגה העליונה שבהשפעה, הנה ביטולה כבר נודע, ורוחק ממנה; ולא נתבטל, אך מציאותו תלוי להתקיים ולהתנהג רק במדרגה התחתונה המיוחסת להשפעה. ובמדרגה השנית שנתקנת, גם ביטולה נודע כבר, ומציאותו תלוי עד התחתונה כמו שביארנו, אך מצד הדרגת ההשפעות, הרי כבר נתקרב ענינו להתהוות, יותר ממה שהיה בראשונה, ובשלישית יותר מהשנית, וכן כולם, עד המדרגה האחרונה:
 
 
+Böylece Efendi, kutsanmış O, dünyayı varlıkta tutmak için gerekli olan etkilerinin bütün derecelenişini derece derece düzenledi. Bütün bunlardan sonra, kötülüğün ve onun bütün parçalarının ve hallerinin yapılmasını da O’na nispet etti. Bu kötülükte iyi etkinin bütün parçalarına karşılık gelen yönler vardır; çünkü her iyi etki parçasına karşılık yok oluş da aynı biçimde yenilendi ve her iyi etki parçasından ona özgü yok oluş uzaklaştırıldı, fakat yok edilmedi. Ancak iyi etkinin bütün parçalarına özgü olan bütün yok oluşlar, genel kötülük denen tek bir türün çeşitleridir. Bu türün tamamı, bu konunun içine giren bütün işlerin en düşük değeri dışında O’nun, adı yüce olsun, etkisine nispet edilmez. Bu yüzden örneğin etkinin en üst derecesi düzeltildiği andan itibaren, onun yok oluşu da bilindi ve ondan uzaklaştırıldı; yok edilmedi, fakat varlığı, yalnızca etkiye nispet edilen en alt derecede var olmak ve yönetilmek üzere askıda kaldı. İkinci derece düzeltildiğinde, onun yok oluşu da artık bilindi ve varlığı, açıkladığımız gibi, en alta kadar askıda kaldı; fakat etkilerin derecelenişi açısından onun oluşa yaklaşması, ilk baştakinden daha fazla oldu. Üçüncüde ikinciden daha fazla oldu; hepsi böyle devam etti, son dereceye kadar.
+
+
 ###### Da'at Tevunot 132:4
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/132:4](https://torahapp.org/share/book/Da%27at%20Tevunot/r/132:4)
 
 
 על כן נאמר, שמיד שירצה האדון ב"ה לתקן ההשפעה בשלמות, לקח לסדר סדרי הטוב וסדרי הרע; וסדרי הטוב הולכים ונתקנים במדרגותיהם, אך הרע הנה הוא תלוי ועומד מתחילת הסתדר ההשפעה, עד הגיעה אל מדרגה האחרונה, שבה תלויים כל סידורי עניניו בפרטיהם; כי הכוונה היא להשפיל מציאות הרע, שלא יהיה ענינו אלא הפחות שבכל הענינים שבבריאה. והשפלה זאת מכלל התיקונים הגדולים אשר לעולם, היא, שתהיה מרובה מידה טובה ממידת הפורענות הרבה. ועל כן מתחילת הסתדר הסדרים הבדיל האדון ב"ה סדרי. הטוב לצד אחד להסתדר וליתקן, וסדרי הרע להתגלגל בהשפלתם ממדרגה למדרגה. כי לפי מה שהיה סדר מסדרי הטוב נתקן, כך סדר הרע נשפל לעומת זה, עד שבהשתלם סדרי הטוב ליתקן, נמצא הרע נשפל לגמרי, והעולם מתוקן כראוי. וזה פתח גדול להבין ענין "אמלאה החרבה" (יחזקאל כו, ב), המוזכר אצל רבותינו (מגילה ו ע"א), כי זה כלל ענין עבודת האדם, כי עשה האלקים את הטוב ואת הרע, והשפלת הרע אינה תלויה אלא בהגברת הטוב, וההפך להפך ח"ו. והקב"ה הודיענו המעשים המצטרכים להגביר הטוב בסדריו, שממילא נמשך השפלת הרע וכל סדריו, ונמצא העולם מתתקן בתיקון שלם:
+
+
+Bu yüzden şöyle deriz: Efendi, kutsanmış O, etkiyi tam olarak düzeltmek istediği anda, iyinin düzenlerini ve kötünün düzenlerini düzene koymaya başladı. İyinin düzenleri kendi derecelerinde giderek düzelir; kötülük ise etkinin düzenlenmeye başladığı andan, kendi bütün hallerinin ayrıntılarıyla bağlı olduğu son dereceye ulaşıncaya kadar askıda durur. Çünkü amaç, kötülüğün varlığını alçaltmaktır; onun işi yaratılıştaki bütün işlerin en aşağısı olmaktan ibaret olsun diye. Bu alçaltma, dünyanın büyük tikun’larından biridir: iyi ölçünün ceza ölçüsünden çok daha fazla olması. Bu yüzden düzenlerin düzenlenmeye başlamasından itibaren Efendi, kutsanmış O, iyinin düzenlerini bir yana ayırdı; onlar düzenlenip düzeltilsin diye. Kötünün düzenlerini ise alçalışları içinde derece derece yuvarlanmaya bıraktı. Çünkü iyinin düzenlerinden her biri düzeltildiği ölçüde, onun karşısındaki kötü düzen de alçaltıldı; iyinin düzenleri tam olarak düzelince kötülük bütünüyle alçaltılmış olur ve dünya gereği gibi düzelir. Bu, hahamlarımız z”l’nin zikrettiği “yıkık olan dolacağım” ilkesini anlamak için büyük bir kapıdır. Bunun anlamı şudur: biri dolduğunda öteki yıkılır; iyilik güçlendiğinde kötülük alçalır, kötülük güçlendiğinde ise iyilik gizlenir. Çünkü insanın çalışmasının genel anlamı budur: Tanrı iyiyi de kötüyü de yaptı; kötülüğün alçaltılması yalnızca iyiliğin güçlendirilmesine bağlıdır; bunun tersi de tersine işler, Tanrı korusun. HaKadoş Baruh Hu, iyiyi kendi düzenleri içinde güçlendirmek için gerekli fiilleri bize bildirdi; bundan da kendiliğinden kötülüğün ve bütün düzenlerinin alçaltılması doğar. Böylece dünya tam bir tikun ile düzeltilir.
 
 
 
@@ -3154,6 +3274,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמרה הנשמה – כל אלה דברים מחוורים לי. וזה סדר נאה להבין מידותיו של האדון ב"ה המיוסדים בעומק חכמתו, שלא יהיו דברי העולם ומקריו דברים נופלים על צד ההזדמן. אבל הכל מתוקן בחכמה עמוקה לתכלית שלם:
 
 
+Nefeş şöyle dedi: Bütün bunlar benim için açıklığa kavuştu. Bu, Efendi’nin, kutsanmış O, derin hikmetine dayanan ölçülerini anlamak için güzel bir düzendir. Böylece dünyanın işleri ve olayları rastlantı tarafına düşen şeyler olmaz; aksine hepsi tam bir amaç için derin hikmetle düzenlenmiş olur.
+
+
 
 ## Chapter 134
 
@@ -3165,12 +3288,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמר השכל – נשלים סדר עריכת משפטי הנהגתו ית', ונאמר, כי הנה אחר שכבר קבע הרצון העליון גבולו של הרע, וחקק עניניו מה שיהיו ולא יוסיפו, שב וקבע הנהגה ישרה כמו שהעולם צריך אחר היות מציאות הלע זה בבריאתו. ואמנם כלל מה שרצה הרצון העליון במציאות הרע הזה, הוא שיתקיים זמן מה כאשר הגביל לו, ושאחר כך יתבטל; ומתחילתו של עולם כבר הוא מנהל אותו לקראת סופו הטוב - שיהיה הרע מתבטל ממנו. והרי זו הנהגה אחת שכבר הזכרנוה למעלה בענין גילוי יחודו ית'. ואמנם לכל הזמן שהוא ית' רוצה בקיומו צריכה הנהגה אחרת, כי הרי אין המצאו לבטלה, אלא לצורך עבודת האדם. ועל כן צריך כאן הנהגה הראויה למעשה העבודה הזאת בכל תנאיה:
 
 
+Akıl şöyle dedi: O’nun, adı yüce olsun, yönetiminin hükümlerinin düzenini tamamlayalım ve şöyle diyelim: Üst İrade kötülüğün sınırını belirledikten, onun ne olacağını ve daha fazlası olmayacağını yasa olarak koyduktan sonra, dünyada bu kötülüğün varlığı bulunduğu için dünyanın ihtiyaç duyduğu gibi doğru bir yönetim kurdu. Üst İrade’nin bu kötülüğün varlığında genel olarak istediği şey, onu kendisi için belirlediği süre kadar varlıkta tutmak, sonra da yok etmektir. Dünyanın başlangıcından itibaren onu iyi sonuna doğru yönetmektedir: kötülük ondan yok edilecektir. Bu, O’nun, adı yüce olsun, Birliğinin açığa çıkması konusunda yukarıda zikrettiğimiz bir yönetimdir. Fakat O’nun, adı yüce olsun, kötülüğün varlığını istediği bütün süre boyunca başka bir yönetim gerekir; çünkü onun varlığı boşuna değildir, insanın çalışması içindir. Bu yüzden burada bu çalışmanın bütün şartlarına uygun bir yönetim gerekir.
+
+
 ###### Da'at Tevunot 134:2
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/134:2](https://torahapp.org/share/book/Da%27at%20Tevunot/r/134:2)
 
 
 והנה תדעי ודאי שאין המעשים הטובים תועלת לו ית' כלל, ולא המעשים הרעים חסרון, וכבר נאמר (איוב לה, ו ז), "אם חטאת מה תפעל בו וגו' אם צדקת מה תתן לו" וגו'. אלא שהוא ית' המציא מין הנהגה אחת במשפטים ודרכים מיוחדים, שידע היותם הגונים לתכלית הזה, שמצדם יהיה מציאות זכות וחובה לאדם, שעל פי הדרכים האלה יוכל להקרא תועלת מה שיקיימו בני האדם את המצוות, וחסרון - שיעברו עליהם; לא תועלת וחסרון לעצמו ית', אלא למה שהוא רוצה לפעול בנו. והוא ענין, "כשישראל עושים רצונו של מקום מוסיפים כח בגבורה של מעלה" וכו', שפירשו רז"ל (ילק"ש האזינו סוף סי' תתקמה). ואף גם זאת, לא לפי שאינו יכול לפעול אלא על פי מעשי התחתונים, חלילה, אלא לפי שאינו רוצה לפעול. ועל כן יקראו המעשים הטובים, כבודו ית', והמעשים הרעים ההפך ח"ו. ונמצא שזה הוא מה שחידש בתחילה האדון ב"ה בהנהגה הזאת שלצורך העבודה, היינו מציאות התועלת שיוכלו להביא המעשים הטובים, והחסרון שיוכלו להביא המעשים הרעים, כי כל זה הוא מחודש, ותלוי רק ברצונו ית', וכמו שביארנו. וזה נקרא הנהגת הטוב והרע, כי כלל הטוב הוא כל הסדרים המתוקנים, וכל התועלת שיוצא מן המעשים הטובים; והרע הפך זה - כל החסרון היוצא מן העבירות:
+
+
+Kesinlikle bil ki iyi fiiller O’na, adı yüce olsun, hiçbir yarar sağlamaz; kötü fiiller de O’nda hiçbir eksiklik meydana getirmez. Nitekim “Günah işlersen O’na ne yaparsın?... Doğru olursan O’na ne verirsin?” denmiştir. Fakat O, adı yüce olsun, özel hükümler ve yollar içinde bir yönetim türü var etti; bunların bu amaç için uygun olduğunu bildi. Bu yollar açısından insan için hak ediş ve borç doğar. Bu yollara göre insanların mitsvaları yerine getirmesine “yarar”, onları çiğnemesine ise “eksiklik” denebilir; fakat bu yarar ve eksiklik O’nun kendisine değil, O’nun bizde yapmak istediği şeye göredir. “İsrael Makom’un iradesini yaptığında yukarıdaki güce güç katarlar” vb. öğretinin anlamı budur; hahamlarımız z”l bunu açıklamıştır. Bu da, O’nun ancak aşağıdakilerin fiillerine göre işleyebildiği için değildir, Tanrı korusun; yalnızca O böyle işlemek istemediği içindir. Bu yüzden iyi fiillere O’nun, adı yüce olsun, onuru denir; kötü fiiller ise bunun tersidir, Tanrı korusun. Buna göre bu çalışma için gereken bu yönetimde Efendi, kutsanmış O, başlangıçta şunu yeniledi: iyi fiillerin getirebileceği yarar ve kötü fiillerin getirebileceği eksiklik varlığı. Çünkü bütün bunlar yenilenmiştir ve yalnızca O’nun, adı yüce olsun, iradesine bağlıdır; açıkladığımız gibi. Buna iyi ve kötü yönetimi denir. Çünkü iyinin genel anlamı, düzeltilmiş bütün düzenler ve iyi fiillerden çıkan bütün yarardır. Kötü ise bunun tersidir: günahlardan çıkan bütün eksiklik.
 
 
 ###### Da'at Tevunot 134:3
@@ -3181,6 +3310,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אחר כך קבע עניני שכר ועונש, ומדרגות האדם בהתאם למעשיו, ודרכי התיקון ע"י תשובה ויסוריםB:
 
 
+Sonra ödül ve ceza konularını, insanın fiillerine göre derecelerini ve teşuva ile yisurim yoluyla tikun yollarını belirledi.
+
+
 ###### Da'at Tevunot 134:4
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/134:4](https://torahapp.org/share/book/Da%27at%20Tevunot/r/134:4)
@@ -3189,12 +3321,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 ואחרי זה צריך לסדר עניני השכר ועונש, דהיינו, מה הטוב שינתן לעושי המצוה, והעונש לעוברים עליה וזה השכר ועונש צריך שיהיה משני מינים, דהיינו, משכר ועונש של זה העולם, ומהגמול האמיתי של העולם הבא. וצריך לחדש סידורי מצב בני האדם, מצב הטובים ומצב הרעים, בקרבתם וריחוקם אליו ית' בהדרגה מדוקדקת לפי ענין מעשיהם; ותיקון המקולקלים, שהוא כלל התשובה, או קבלת היסורין בעולם הזה או בעולם הבא. נמצאת כל זאת הנהגה המצטרכת לכל זמן המצא הרע. וכבר את רואה כמה חכמה עמוקה יצטרך להעמיד כל הדברים האלה על בורים:
 
 
+Bundan sonra ödül ve ceza konularının düzenlenmesi gerekir; yani mitsvayı yapanlara verilecek iyilik ve onu çiğneyenlere verilecek ceza. Bu ödül ve ceza iki türden olmalıdır: bu dünyanın ödül ve cezası ile Gelecek Dünya’nın gerçek karşılığı. Ayrıca insanların hallerinin, iyilerin hali ile kötülerin halinin, O’na, adı yüce olsun, yakınlık ve uzaklık bakımından, fiillerinin durumuna göre ince bir derecelenmeyle yenilenmesi gerekir. Bozulmuş olanların tikun’u da buna dahildir: genel olarak teşuva, ya da bu dünyada veya Gelecek Dünya’da yisurim’i kabul etmek. Bütün bunlar, kötülüğün var olduğu bütün süre için gerekli yönetimi oluşturur. Görüyorsun ki bütün bu şeyleri kendi doğruluğu içinde yerli yerine koymak için ne kadar derin bir hikmet gerekir.
+
+
 ###### Da'at Tevunot 134:5
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/134:5](https://torahapp.org/share/book/Da%27at%20Tevunot/r/134:5)
 
 
 וכל זה מלבד ההנהגה העמוקה המסבבת כלל המציאות כולו אל התיקון השלם, המגלגלת הדברים לשיבטל הרע ביטול גמור מן הבריאה, ומה שמצטרך לו מן ההנהגה. וזאת היא הנהגה מיוסדת על התעלם השלמות העליון, ועל שובו להגלות. ושיעור הנהגה הזאת הם שיעורי הסיבוב של הגלגל הזה, פירוש, הילוך כל הענין הסובב והולך מהתעלם השלמות העליון ועד הגלותו, וכמו שביארנו במקומו בס"ד. הנה אלה שתי הנהגות שצריכים אנו לבאר באר היטב, אם לא פרטיהם, כי אין להם תכלית, אך כלליהם לפחות, עד מקום שידינו מגעת:
+
+
+Bütün bunların dışında, bütün varlığı tam tikun’a doğru döndüren derin yönetim vardır. Bu yönetim, kötülüğün yaratılıştan bütünüyle yok edilmesini sağlayacak şekilde işleri döndürür ve bunun için gerekli yönetimi içerir. Bu yönetim, üst tamlığın gizlenmesi ve sonra yeniden açığa çıkması üzerine kuruludur. Bu yönetimin ölçüleri, bu çarkın dönüş ölçüleridir; yani üst tamlığın gizlenmesinden açığa çıkmasına kadar bütün işin dönüp ilerleyişidir. Bunu kendi yerinde, göklerin yardımıyla, açıklamıştık. İşte bunlar çok iyi açıklamamız gereken iki yönetimdir; ayrıntılarını değil, çünkü onların sonu yoktur, fakat en azından genel ilkelerini, elimizin ulaştığı yere kadar.
 
 
 
@@ -3208,6 +3346,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמרה הנשמה – אלה הם שני שרשים גדולים מאד מאד, וחכמה רבה וידיעות עמוקות מוכרח הוא ודאי שיהיה נכלל בהם:
 
 
+Nefeş şöyle dedi: Bunlar çok çok büyük iki köktür; büyük hikmetin ve derin bilgilerin kesinlikle bunların içinde yer alması zorunludur.
+
+
 
 ## Chapter 136
 
@@ -3217,6 +3358,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 
 
 אמר השכל – עתה נבאר בתחלה הנהגת השכר ועונש, שהיא המתגלית יותר לעינינו:
+
+
+Akıl şöyle dedi: Şimdi önce ödül ve ceza yönetimini açıklayacağız; çünkü o gözlerimize daha fazla açığa çıkan yönetimdir.
 
 
 
@@ -3230,6 +3374,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמרה הנשמה – דבר, כי שומעת אנכי:
 
 
+Nefeş şöyle dedi: Konuş; çünkü dinliyorum.
+
+
 
 ## Chapter 138
 
@@ -3241,6 +3388,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמר השכל – אומר לך בתחלה בכלל - שתים שהם שלש יסודות ראשיים אשר להנהגה הזאת, אחר נבוא לפרטיהם אחד אחד, למען תהיה המסילה סלולה לפניך. הנה בהיות הקב"ה פועל בנו הפעולות שהוא פועל בסדרים המיוחדים והדרכים שרצה, צריך שנבחין שני מיני חוקים שחקק בענין זה. המין האחד - כל שתלוי בפעולותיו ית', והוא כלל כל דרכי ומשפטי השפיעו; והשני - - כל מה שתלוי בהתפעלות שלנו בקבלתנו, והוא כלל כל דרכי ומשפטי קבלנו ממנו ית':
 
 
+Akıl şöyle dedi: Önce sana genel olarak şunu söyleyeceğim: bu yönetimin iki, aslında üç, ana temeli vardır. Sonra onların ayrıntılarına tek tek geleceğiz; yol önünde düz olsun diye. HaKadoş Baruh Hu bizde, istediği özel düzenler ve yollar içinde yaptığı fiilleri yaptığına göre, bu konuda koyduğu iki tür yasayı ayırt etmemiz gerekir. Birinci tür, O’nun, adı yüce olsun, fiillerine bağlı olan her şeydir; bu, O’nun etki edişinin bütün yollarını ve hükümlerini kapsar. İkinci tür ise, bizim kabulümüz içinde etkilenmemize bağlı olan her şeydir; bu da O’ndan, adı yüce olsun, alışımızın bütün yollarını ve hükümlerini kapsar.
+
+
 ###### Da'at Tevunot 138:2
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/138:2](https://torahapp.org/share/book/Da%27at%20Tevunot/r/138:2)
@@ -3249,12 +3399,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 ואמנם החק הראשון, שהוא חק השפיעו, יתחלק גם הוא לשנים; וזה, כי הנה קרא כתיב (דברים ח. ה), "כאשר ייסר איש את בנו ה' אלקיך מיסרך", והיינו כי אין המוסר שהקב"ה מייסר את ישראל מוסר נקם ומכת אויב, אלא מאהבה שהוא אוהב אותם כאב את בנו, שכן כתיב (משלי יג, כד), "חושך שבטו שונא בנו ואוהבו שחרו מוסר", הרי שהמוסר נולד מן האהבה ממש, ונמצאת תוכחת מגולה נולדת מאהבה מסותרת. ושתי תולדות טובות יוצאות מן השורש הזה, א - שהמוסר עצמו, אפילו בזמן שהוא נעשה, לא יעשה באכזריות חימה, אלא במיתוק גדול, מפני האהבה המסותרת שאינה מנחת לכעס למשול ולהתאכזר; והשנית - שכיון שאפילו בשעה שהקב"ה מביא במשפט יצוריו, הנה כוונתו המסותרת אינה אלא לרחם ולהטיב, לפעמים אם יראה שאין כח בנשפטים לסבול המשפט - יפנה אליהם ברחמים, ויניח ידו מן המשפט לגמרי, והוא ענין (ע"ז ג ע"ב), "עומד מכסא דין ויושב על כסא רחמים". והרי לנו עתה להבין כל השלוש אלה בביאור פרטיהם, והתנאים המשלימים ענינם:
 
 
+Birinci yasa, yani O’nun etki edişinin yasası, kendisi de ikiye ayrılır. Çünkü ayet şöyle der: “Bir adam oğlunu nasıl terbiye ederse, Tanrın Haşem de seni öyle terbiye eder.” Yani HaKadoş Baruh Hu’nun İsrael’i terbiye etmesi, intikam terbiyesi veya düşman darbesi değildir; onları, babanın oğlunu sevdiği gibi sevdiği için böyledir. Nitekim “Değneğini esirgeyen oğlundan nefret eder; onu seven ise terbiyeyi erken verir” denmiştir. Demek ki terbiye doğrudan sevginin kendisinden doğar; açık azar, gizli sevgiden doğmuş olur. Bu kökten iki iyi sonuç çıkar. Birincisi: terbiyenin kendisi, uygulandığı zamanda bile, öfkenin acımasızlığıyla yapılmaz; büyük bir tatlandırmayla yapılır. Çünkü gizli sevgi, öfkenin hüküm sürmesine ve acımasızlaşmasına izin vermez. İkincisi: HaKadoş Baruh Hu yaratılmışlarını hükme getirdiği anda bile gizli amacı yalnızca merhamet etmek ve iyilik etmek olduğundan, bazen hükmedilenlerin hükmü taşıyacak gücü olmadığını görürse onlara merhametle yönelir ve elini hükümden tamamen çeker. Bu, “din tahtından kalkar ve merhamet tahtına oturur” ilkesidir. Şimdi bu üç şeyi ayrıntılarıyla ve anlamlarını tamamlayan şartlarla açıklamamız gerekir.
+
+
 ###### Da'at Tevunot 138:3
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/138:3](https://torahapp.org/share/book/Da%27at%20Tevunot/r/138:3)
 
 
 ואמנם צריך אני בתחילה להציע לפניך הקדמה אחת מצטרכת לכלל מה שנבאר אחרי זה, והיא הקדמה ברורה מאד לרגילים בחכמות ומופתיהם:
+
+
+Fakat bundan önce sana, bundan sonra açıklayacağımız bütün şeyler için gerekli olan bir ön bilgi sunmam gerekir. Bu, hikmetlere ve onların kanıtlarına alışkın olanlar için çok açık bir ön bilgidir.
 
 
 
@@ -3268,6 +3424,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמרה הנשמה – אמור:
 
 
+Nefeş şöyle dedi: Söyle.
+
+
 
 ## Chapter 140
 
@@ -3279,12 +3438,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמר השכל – הרב הגדול הרמב"ם זללה"ה נתעורר על תואר "ילד" הנמצאים בכתובים, נעתק לדברים אשר אין הלידה בהם מיוחדת. ואמר ז"ל (מורה נבוכים, שער א, פרק ז), "ילד - הושאלה זאת המלה להמצאת הדברים הטבעיים - "בטרם הרים יולדו" (תהלים צ, ב), והושאלה עוד לחידושי המחשבות, ומה שיחייבהו מן הדיעות והסכמות, כמו (תהלים ז, טו), "וילד שקר", וממנו נאמר (ישעיהו ב, ו),ובילדי נכרים ישפיקו'", עכ"ל. והועתק התואר הזה אל המחשבה, הוא וכל המתדמים לו; והיינו כי כמו שלדבר המתחדש נשאל תואר הלידה, כן הדבר העומד בכח לצאת אל הפועל נשאיל ההריון, וכדברי הכתוב עצמו (תהילים ז, טו), "הרה עמל וילד שקר"; כי למי שהועתק הפועל האחד, יועתקו גם כן כל שאר פרטיו. ואמנם ידענו שכל הסכמת עצה הנגזרת בטעם נכון, הנה יהיו לה מולידיה, שהם ההנחות הראשונות. והרי התולדה במולידה בכח קודם שתוולד ממנה, ובהוולדה - יוצאת מן הכח אל הפועל:
 
 
+Akıl şöyle dedi: Büyük öğretmen Rambam z”l, yazılarda “doğurma” niteliğinin, doğumun kendilerine özgü olmadığı şeylere taşınmış olmasına dikkat çekmiştir. O, More Nevuhim’de şöyle der: “‘Doğurdu’ kelimesi doğal şeylerin var edilmesine mecazen kullanılmıştır: ‘Dağlar doğmadan önce’; ayrıca düşüncelerin yenilenmesine ve onların gerektirdiği görüşler ile uzlaşmalara da mecazen kullanılmıştır; ‘Yalan doğurdu’ gibi. Bundan da ‘yabancıların çocuklarıyla yetinirler’ denmiştir.” Onun sözü buraya kadardır. Bu nitelik düşünceye ve ona benzeyen bütün şeylere aktarılmıştır. Çünkü yenilenen bir şey için doğum niteliği ödünç alındığı gibi, fiile çıkmaya güç halinde hazır duran şey için de gebelik niteliğini ödünç alırız. Ayetin kendi ifadesi de böyledir: “Zahmete gebe kaldı ve yalan doğurdu.” Çünkü bir fiil kime aktarılırsa, onun diğer bütün ayrıntıları da ona aktarılır. Şunu biliyoruz: doğru bir gerekçeyle hükme bağlanan her kararın onu doğuranları vardır; bunlar ilk öncüllerdir. Sonuç, doğmadan önce onu doğuranda güç halinde bulunur; doğduğunda ise güç halinden fiil haline çıkar.
+
+
 ###### Da'at Tevunot 140:2
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/140:2](https://torahapp.org/share/book/Da%27at%20Tevunot/r/140:2)
 
 
 ולא עוד, אלא שבהיות שכל דבר שמשתלם הנה שלמותו דבר נוסף על מציאותו, כי יש באפשרותו לימצא זולת השלמות ההיא. אמנם יגיעו אל סיבת הדבר ההוא שני דברים, דהיינו המצאו והשלמתו, כי הסיבה המהווית היא הסיבה המשלמת ומתמדת הקיום, שאין השתלם המסובב אלא שלמות הולדת הסיבה, שכשתוליד כל מה שבחוקה להוליד, ימצא הנולד ההוא שלם בכל שלמותו. וכל זה פשוט למי שדרך דרכי החכמה:
+
+
+Bundan fazlası da vardır: Tamamlanan her şeyde, onun tamlığı kendi varlığına eklenmiş bir şeydir; çünkü o şeyin bu tamlık olmadan da var olması mümkündür. Fakat o şeyin sebebine iki şey ulaşır: onun var edilmesi ve tamamlanması. Çünkü var eden sebep aynı zamanda tamamlayan ve varlığı sürdüren sebeptir. Sonuç olan şeyin tamamlanması, sebebin doğurmasının tamamlanmasından başka bir şey değildir; sebep kendi yasasında doğurması gereken her şeyi doğurduğunda, o doğan şey bütün tamlığıyla var olur. Hikmet yollarını bilen kişi için bütün bunlar açıktır.
 
 
 ###### Da'at Tevunot 140:3
@@ -3295,12 +3460,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 ואמנם כבר שמעת למעלה, היות כל עניני הנמצאות מתקשרים זה בזה, עד שכולם נמשכים זה אחר זה, ונולדים זה מזה. וכולם ביחד קשר אחד, ומציאות כלל אחד, שאינו נשלם אלא בכל הפרטים האלה, ובזה תלוי יופיו ושכלולו של העולם, וכמו שביארנו דבר זה למעלה. והרי זה לנו מקום רחב ידים הרבה מאד להתבונן ולהעמיק בחכמת הבורא ית"ש בבריאתו. כי כל ענין אשר נמצא בהנהגתו ית' - נדע שיש לו בהנהגה עצמה ענין קודם יחייבהו, ויקרא לו סיבה ומוליד, והסיבה הזאת היא שתוליד, והיא שתשלים הענין המתחייב ונולד ממנה. וזה הוא כלל הכונניות שזכרנו למעלה, שמתגלגלים בעולם משמי השמים ועד תחתיות הארץ, בהיות כל הנמצאות העליונות והתחתונות, הגבוהות והשפלות, מתקשרות זו בזו, ונולדות ומתחייבות זו מזו. ובהשפיע האדון ב"ה אחת מהשפעותיו, לא נבחין בה מה שתפעל בעולם לבד, אלא גם מה שיש כלול בחוקה להוליד עוד ענין מתחייב ממנה. ומה שימשך ממנה בנמצאות יהיה תמיד בהשקפה אל הענין ההוא הכלול בחוקה. ואמנם אם עוד ירצה האדון ב"ה ויוציא מן הכח אל הפועל הענין ההוא המתחייב, הנה גם בעולם יפעל ענין היותר רשום ומצויין, שיהיה נמשך ממה שחודש בהשפעה בפועל; שמתחלה לא היה אלא נשקף לבד בכלל מה שהיה נפעל מן השפע הראשון, ועכשיו יחודש מציאותו בפועל. וגם בזאת יבחן מציאותו בבלתי שלמות ובשלמות. וכל אלה ענינים פשוטים ליודעים דרכי החכמות המופתיות:
 
 
+Daha önce duydun ki var olanların bütün işleri birbirine bağlıdır; hepsi birbirinden sonra uzanır ve birbirinden doğar. Hepsi birlikte tek bir bağ ve tek bir genel varlıktır; bu varlık ancak bütün bu ayrıntılarla tamamlanır. Dünyanın güzelliği ve yetkinliği buna bağlıdır; bunu yukarıda açıklamıştık. Bu da bize, O’nun, adı yüce olsun, yaratışındaki hikmetini düşünmek ve derinleştirmek için çok geniş bir alan açar. Çünkü O’nun, adı yüce olsun, yönetiminde bulunan her işin, yönetimin kendisinde onu gerektiren daha önceki bir işi olduğunu biliriz; buna sebep ve doğuran denir. Bu sebep onu doğurur ve ondan zorunlu olarak doğan işi tamamlar. Yukarıda zikrettiğimiz bütün hazırlıkların genel anlamı budur: göklerin göklerinden yeryüzünün en altına kadar dünyada dönen düzenler. Çünkü bütün üst ve alt, yüksek ve aşağı varlıklar birbirine bağlanır, birbirinden doğar ve birbirini gerektirir. Efendi, kutsanmış O, etkilerinden birini akıttığında, onda yalnızca dünyada ne işleyeceğini ayırt etmeyiz; onun yasasında, kendisinden zorunlu olarak doğacak başka bir işi doğurma gücü de vardır. Ondan varlıklarda uzanacak olan şey, her zaman onun yasasına dahil olan o işe göre değerlendirilir. Eğer Efendi, kutsanmış O, ayrıca ister ve o zorunlu işi güç halinden fiil haline çıkarırsa, dünyada da daha belirgin ve seçkin bir iş meydana getirir; bu, etkide fiilen yenilenen şeyden uzanır. Başta, ilk etkiden gerçekleşen şeyin genelinde yalnızca gözetilmiş durumdaydı; şimdi ise onun varlığı fiilen yenilenir. Burada da onun varlığı hem tam olmadan hem tam olarak ayırt edilir. Bütün bunlar, kanıtlayıcı hikmet yollarını bilenler için açık konulardır.
+
+
 ###### Da'at Tevunot 140:4
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/140:4](https://torahapp.org/share/book/Da%27at%20Tevunot/r/140:4)
 
 
 ואמנם כאשר נעמוד להתבונן על בריותיו ית' בדרכים ומשפטים האלה, נמצא חכמה רבה ועמוקה, ויובנו לנו סתרים רבים מן התורה, ויותרו ספיקות וקושיות רבות, הנמצאות בענין ההנהגה והאמונה למי שלא ידע אלה הדרכים:
+
+
+Efendi’nin, adı yüce olsun, yaratılmışlarını bu yollar ve hükümlerle düşünmeye durduğumuzda, büyük ve derin hikmet buluruz. Tora’dan birçok sır bize anlaşılır; yönetim ve iman konusunda bu yolları bilmeyen kişide bulunan birçok kuşku ve zorluk çözülür.
 
 
 
@@ -3314,6 +3485,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמרה הנשמה – אין ספק אצלי שאי אפשר להשיג אפילו אותו המעט מזער שהאדם יכול להשיג בחכמת מעשיו ית' אלא בדרכי הלימוד והחכמה. ומי שירצה ליכנס בחקירות אלה זולת ההכנות והלימודים המצטרכים לו - אינו אלא זדון, ולא יוכל להצליח:
 
 
+Nefeş şöyle dedi: O’nun, adı yüce olsun, fiillerinin hikmetinde insanın erişebileceği o çok az şeyi bile, öğrenme ve hikmet yolları dışında elde etmenin imkansız olduğundan hiç şüphem yok. Bu araştırmalara gerekli hazırlıklar ve öğrenimler olmadan girmek isteyen kişi ise ancak küstahlık eder ve başarılı olamaz.
+
+
 
 ## Chapter 142
 
@@ -3325,12 +3499,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמר השכל – נדבר עתה על מה שאנחנו בו, שהוא מידת משפטו ית' הישר והמתוקן. וזה, כי מציאות העולם הזה בזמן הזה, שהוא כל זמן עבודת האדם בכל עניניו ותולדותיו, תלוי רק במידת משפטו ית', לפי שזה הוא עולם וזמן שהכינו האדון ב"ה להראות בו יושר משפטו. ואין ענינו של העולם הזה מתוקן אלא בהעשות המשפט הזה על יושרו, וכמו שכתוב - (תהלים ט, יז), "נודע ה' משפט עשה", וכתיב (ישעיהו ה, טז), "ויגבה ה' צבאות במשפט", וכתיב (משלי כט, ד), "מלך במשפט יעמיד ארץ". והיינו, שאינו טוב לעולם כלל מה שהקב"ה מניח לרשעים להתהולל ולהרים קרנם, והנה הצדיקים מדוכאים, ושטנא נצח, ודאי אין זה טוב לעולם, אלא רע. אבל הטוב הוא, אדרבא, שהקב"ה יעשה משפט, ושיכניע את הרשעים וישפיל הגאים, וירומם הצדיקים וירים כבודם, וכן נאמר (משלי כא, טו), "שמחה לצדיק עשות משפט", "ובאבוד רשעים רנה" (משלי יא, י):
 
 
+Akıl şöyle dedi: Şimdi içinde bulunduğumuz konu hakkında, yani O’nun, adı yüce olsun, doğru ve düzeltilmiş yargı ölçüsü hakkında konuşacağız. Çünkü bu dünya, insanın bütün halleri ve sonuçlarıyla çalışma zamanı olduğu sürece, yalnızca O’nun, adı yüce olsun, yargı ölçüsüne bağlıdır. Zira bu dünya ve bu zaman, Efendi, kutsanmış O, tarafından kendi yargısının doğruluğunu göstermek için hazırlanmıştır. Bu dünyanın işi, ancak bu yargı doğruluğuyla yapıldığında düzelir. Nitekim “Haşem yaptığı yargıyla bilindi” denmiştir; “Orduların Haşem’i yargıyla yücelir” denmiştir; “Kral yargıyla ülkeyi ayakta tutar” denmiştir. Bunun anlamı şudur: HaKadoş Baruh Hu’nun kötülere serbestlik tanıması, onların dünyada taşkınlık etmesine ve güçlerini yükseltmesine izin vermesi dünya için hiç de iyi değildir. Tsadikler ezilirken ve Satana galip gelmişken bu kesinlikle dünya için iyi değil, kötüdür. İyi olan, tam tersine, HaKadoş Baruh Hu’nun yargı yapması, kötüleri boyun eğdirmesi, gururluları alçaltması, tsadikleri yükseltmesi ve onurlarını yüceltmesidir. Nitekim “Yargının yapılması tsadik için sevinçtir” ve “Kötüler yok olduğunda sevinç vardır” denmiştir.
+
+
 ###### Da'at Tevunot 142:2
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/142:2](https://torahapp.org/share/book/Da%27at%20Tevunot/r/142:2)
 
 
 ונמצא, שהזמן שהקב"ה מניח לרשעים החבל ארוך, שהם גוברים בעולם ומשחיתים את היושר ואת הצדקה, אין נקרא זה לגביו אלא כביכול - שינה. ובשעה שייקץ מן השינה הזאת, נאמר בו (תהלים עח, סה - סו), "ויקץ כישן ה' וגו' ויך צריו אחור". וזה, כי בשלמא אם באמת היה רוצה הקב"ה להנהיג עולמו רק בחסד ובהטבה גמורה, שלא יהיה בעולם רע כי אם טוב - זה היה נקרא תיקון לעולם; אבל היה צריך שלא יהיה מציאות לעוונות כלל, ולא יהיו נעשים מעשים שפוגמים הטוב ומעוותים אותו, וכמו שיהיה לעתיד לבא, דכתיב (תהלים קד, לה), "יתמו חטאים מן הארץ", וכמאמרם ז"ל (ברכות י ע"א), "חטאים כתיב". ואז היה נקרא שהעולם מתנהג רק בחסד, והיינו שלא היה יצר הרע, אלא בני אדם עובדים את ה' בהכרח, כמו שכתוב (יחזקאל לו, כז), "ועשיתי את אשר בחוקי תלכו". אבל שיהיה הקב"ה ממתין לרשעים שתתמלא סאתם, שבין כך ובין כך לא יהיה העולם אלא תוהו ובוהו, ושסוף סוף הרשעים יאבדו - ודאי אין זה חסד, אלא דין קשה מאד. כי אדרבא, כבר זכרנו מאמר הכתוב למעלה למשלי ג, כד), "ואוהבו שחרו מוסר"; וכתיב (עמוס ג, ב), "רק אתכם ידעתי מכל משפחות האדמה על כן אפקוד עליכם את כל עונתיכם", וכמו שאמרו ז"ל (ע"ז ד ע"א) שהקב"ה נפרע מישראל מעט מעט, שלא ירבה עליהם הרע, שיצטרכו להיות מתמעטים ח"ו, אלא אדרבא, רוצה הוא בתיקונם וכמו שביארנו:
+
+
+Buna göre HaKadoş Baruh Hu’nun kötülere uzun ip verdiği, onların dünyada güçlenip doğruluğu ve tsedaka’yı bozduğu zaman, bu O’nun bakımından, ifade yerindeyse, yalnızca uyku diye adlandırılır. Bu uykudan uyandığı saatte O’nun hakkında “Haşem uyuyan biri gibi uyandı… düşmanlarını geriye vurdu” denmiştir. Çünkü eğer HaKadoş Baruh Hu gerçekten dünyasını yalnızca hesed ve tam iyilikle yönetmek isteseydi, dünyada kötülük değil yalnızca iyilik bulunsaydı, buna dünya için tikun denirdi. Fakat bunun için günahlara hiçbir varlık kalmaması, iyiliği bozan ve eğrilten fiillerin yapılmaması gerekirdi; gelecekte olacağı gibi. Nitekim “Günahlar yeryüzünden tükensin” denmiştir; hahamlarımız z”l de “günahlar yazılıdır” demiştir. O zaman dünyanın yalnızca hesed ile yönetildiği söylenirdi; yani kötü eğilim olmayacak, insanlar Haşem’e zorunlu olarak hizmet edecekti. “Sizi yasalarımda yürütürüm” ayetinin anlamı budur. Fakat HaKadoş Baruh Hu’nun kötüleri ölçüleri doluncaya kadar beklemesi, bu arada dünyanın yalnızca tohu vavohu halinde kalması ve sonunda kötülerin yok olması, kesinlikle hesed değildir; bu son derece sert bir dindir. Çünkü yukarıda Meseller’deki ayeti zikrettik: “Onu seven, terbiyeyi erken verir.” Ayrıca “Yalnızca sizi yeryüzünün bütün aileleri arasından bildim; bu yüzden bütün günahlarınızı üzerinizde yoklayacağım” denmiştir. Hahamlarımız z”l’nin dediği gibi HaKadoş Baruh Hu İsrael’den azar azar karşılık alır; kötülük üzerlerine çokça yığılmasın ve Tanrı korusun azalmaları gerekmesin diye. Tam tersine, onların tikun’unu ister; açıkladığımız gibi.
 
 
 ###### Da'at Tevunot 142:3
@@ -3341,12 +3521,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 ונמצא, שבהיות הקב"ה חפץ בעולמו, הנה ישב, כביכול, להנהיגו במשפט תמיד, לנקות ממנו כל רע המתילד בו מעט מעט, ואז נמצאו דברי העולם מתוקנים ומבורכים, ומצליחים כולם הצלחה רבה. אך אם ח"ו אין זכות בעולם, והרשע גובר הרבה, הנה הקב"ה אומר (דברים לב, כ), "אסתירה פני מהם", וכתיב (דברים לא, יח), "הסתר אסתיר פני ביום ההוא", ומיד החושך גובר, הרשע והסכלות, והחכמה נשפלת, והאמת מושלכת, וכל דברי העולם מתקלקלים ונפסדים. וכבר אמרו רז"ל (סוטה מט ע"א), אין לך יום שאין ברכתו וכו', וניטל אפילו טעם הפירות (שם מח ע"א), ואין הצלחה לא בדברים הגופניים ולא בדברים הנפשיים:
 
 
+Sonuç olarak HaKadoş Baruh Hu dünyasını istediğinde, ifade yerindeyse, onu sürekli yargıyla yönetmek için oturur; ondan, içinde doğan her kötülüğü azar azar temizler. O zaman dünyanın işleri düzelmiş ve bereketlenmiş olur; hepsi büyük başarıyla başarılı olur. Fakat Tanrı korusun, dünyada hak ediş yoksa ve kötülük çok güçlenmişse, HaKadoş Baruh Hu “Yüzümü onlardan gizleyeceğim” der; ayrıca “O gün yüzümü mutlaka gizleyeceğim” yazılıdır. Hemen karanlık, kötülük ve akılsızlık güçlenir; hikmet alçalır, hakikat yere atılır; dünyanın bütün işleri bozulur ve zarar görür. Hahamlarımız z”l şöyle demiştir: bereketi eksilmeyen gün yoktur; hatta meyvelerin tadı bile alınmıştır. Ne bedensel işlerde ne de nefsin işlerinde başarı vardır.
+
+
 ###### Da'at Tevunot 142:4
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/142:4](https://torahapp.org/share/book/Da%27at%20Tevunot/r/142:4)
 
 
 והנה אם באמת כוונת הקב"ה היה רק לייסר הרשעים, כבר היה העולם נחרב בעבורם. אך כיון שאין כוונתו אלא להיטיב, ואין מוסרו ותוכחתו אלא מאהבה, כמו שביארנו, על כן רצה לכונן קיום מציאות לעולם אפילו בזמן שאין זכות, שהקיום הזה לא ישתנה ולא יתמוטט. והנה ישתמש לצורך זה מרוממותו ושליטתו, שהוא אינו משועבד לשום חוק, ואין לו שום כפיה, על כן יוכל לקיים את העולם גם שאין בני האדם הגונים. אמנם צריך שתביני היטב הענין הזה, כי הבחנות רבות יש בו, כי לכאורה נמצא חוטא נשכר, שיתקיים העולם בלי שיצטרך לזכות, ויתקיים במדת חסד ואהבה תחה חטאי הרשעים. אבל כשתבחיני כל מה שצריך להבחין בענין זה, תמצאי חכמה עמוקה בסדרי הנהגתו ית'. וזה, כי הנה כבר שמעת שהאדון ב"ה הוא שחידש רק ברצונו אפילו מציאות החסרון שגורמים העוונות, ומציאות התועלת שגורמים המעשים הטובים; וסידר סידרי הנהגות מתוקנות וישרות, סובבות על הקוטב הזה, ובאלה תלויה הצלחת העוה"ז בכל עניניו. ובהחזיקו במשפטו על פי כל הסדרים האלה, יהיה העולם מצליח בכל חלקיו. ואם יגרמו העוונות שהקב"ה יהיה כמו מואס ח"ו בבני העולם, וירחק מהם, הנה סידרי ההנהגות האלה יתבלבלו, כי לא יחזיק בם האדון ב"ה, וימצאו הקלקולים בכל דברי העולם ח"ו. אך אם יחייק בהם להעמידם על בוריים - כל הבריות על מקומם יבואו בשלום:
+
+
+Eğer HaKadoş Baruh Hu’nun amacı gerçekten yalnızca kötüleri cezalandırmak olsaydı, dünya onlar yüzünden çoktan yıkılmış olurdu. Fakat amacı yalnızca iyilik etmek olduğu ve terbiyesi ile azarı da açıkladığımız gibi yalnızca sevgiden geldiği için, hak ediş bulunmadığı zamanda bile dünya varlığının ayakta durmasını istedi; öyle bir varlık ki değişmesin ve sarsılmasın. Bunun için yüceliğini ve egemenliğini kullanır; çünkü O hiçbir yasaya bağlı değildir, hiçbir zorunluluğa tabi değildir. Bu yüzden insanlar uygun olmasa bile dünyayı varlıkta tutabilir. Fakat bu konuyu iyi anlaman gerekir; çünkü onda birçok ayrım vardır. İlk bakışta günahkar kazançlı çıkmış gibi görünür: dünya hak edişe ihtiyaç duymadan varlığını sürdürür, kötülerin günahları altında hesed ve sevgi ölçüsüyle ayakta kalır. Fakat bu konuda ayırt edilmesi gereken her şeyi ayırt ettiğinde, O’nun, adı yüce olsun, yönetiminin düzenlerinde derin hikmet bulacaksın. Şöyle ki: sen zaten duydun, Efendi, kutsanmış O, günahların sebep olduğu eksikliğin varlığını ve iyi fiillerin sebep olduğu yararın varlığını yalnızca kendi iradesiyle yenilemiştir. Bu eksen etrafında dönen, düzeltilmiş ve doğru yönetim düzenleri kurmuştur; bu dünyanın bütün işlerindeki başarısı bunlara bağlıdır. O, bütün bu düzenlere göre yargısını sıkıca tuttuğunda, dünya bütün parçalarıyla başarılı olur. Eğer günahlar, HaKadoş Baruh Hu’nun, Tanrı korusun, dünyadaki insanlardan tiksinmiş gibi olmasına ve onlardan uzaklaşmasına sebep olursa, bu yönetim düzenleri karışır; çünkü Efendi, kutsanmış O, onları tutmaz. O zaman dünyanın bütün işlerinde bozulmalar bulunur, Tanrı korusun. Fakat onları kendi doğrulukları içinde ayakta tutmak için tutarsa, bütün yaratılmışlar kendi yerlerine esenlikle gelir.
 
 
 ###### Da'at Tevunot 142:5
@@ -3357,12 +3543,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 ואמנם יש הנהגה אחרת, וזמן אחר, שהיא ברבות הזכות בישראל, וכמו שביארנו לעיל, בעת התתקן העולם תיקון גמור, והוא שיהיה הקב"ה משנה מצב העולם לטובה, ויבטל ממנו כל רע, והיינו שלא יהיה יצה"ר בנשמות, ולא נזק והפסד בשום בריה, ואז ינהג העולם בתיקון גדול. והנה זה יהיה תיקון לעולם, לפי שיהיה העולם מזומן ומוכן להנהגה הזאת, כי יבטל ממנו הרע, ואז לא יצטרך עוד המשפט, אלא יתנהג ברחמים גמורים ובהטבה שלמה. וכל מה שעכשיו נסתר מיושבי הארץ, מפני שהמקום גורם להם כן, להיותו מקום שהחושך גובר בו לצורך העבודה, דהיינו לנסיון של האדם כמו שביארנו, הנה לעתיד לבא יגלה, שנאמר (ישעיהו מ, ה), "ונגלה כבוד ה'" וגו':
 
 
+Bununla birlikte başka bir yönetim ve başka bir zaman vardır: İsrael’de hak edişin çoğaldığı, yukarıda açıkladığımız gibi dünyanın tam tikun ile düzeldiği zaman. O zaman HaKadoş Baruh Hu dünyanın halini iyiliğe çevirir ve ondaki bütün kötülüğü yok eder; yani neşamalarda kötü eğilim kalmaz, hiçbir yaratılmışta zarar ve bozulma bulunmaz. O zaman dünya büyük bir tikun ile yönetilir. Bu, dünya için tikun olur; çünkü dünya bu yönetim için hazırlanmış ve ona uygun hale gelmiş olur. Kötülük ondan yok edildiği için artık yargıya gerek kalmaz; dünya tam merhamet ve eksiksiz iyilikle yönetilir. Şimdi yeryüzünde oturanlardan gizli olan her şey, mekanın onlara böyle sebep olması yüzündendir; çünkü burası, açıkladığımız gibi, insanın sınanması yani çalışması için karanlığın güçlendiği yerdir. Gelecekte ise bu açığa çıkacaktır; “Haşem’in onuru açığa çıkacak” denmiştir.
+
+
 ###### Da'at Tevunot 142:6
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/142:6](https://torahapp.org/share/book/Da%27at%20Tevunot/r/142:6)
 
 
 אמנם יש זמן שהקב"ה מתרחק, כביכול, מעולמו, ואין משפטו נעשה, ואין ממשלתו מתגלית, והיה ראוי שיחרב העולם; אלא שגם בזמן ההוא הקב"ה רוצה בקיומו של עולם, ואז מקיים אותו רק בכח ממשלתו, כי מצד המשפט אינו ראוי להתקיים, ומשתמש מרוממותו שאינו נפגם ואינו חסר בעוונות בני האדם, לקיים העולם שלא יאבד. אבל אינו מרבה לו טובה והרווחה, אלא אדרבא, אינו נותן לו כי אם קיום מצומצם לבד, מה שאי אפשר בלאו הכי, בכדי שיתקיים. כי אין העולם מתוקן שיתנהג בהטבה זאת, אלא אדרבא, לא די שאין הרע סר ממנו, אלא שגובר בו יותר; אלא שהקב"ה רוצה שלא יאבדו מעשיע ובכח ממשלתו היחידה מקיימו, אפילו שהדין נותן שיחרב, אמנם רק בצמצום גדול, כמו שביארנו:
+
+
+Ancak HaKadoş Baruh Hu’nun, ifade yerindeyse, dünyasından uzaklaştığı bir zaman vardır: yargısı yapılmaz, egemenliği açığa çıkmaz; dünyanın yıkılması gerekirdi. Fakat o zamanda da HaKadoş Baruh Hu dünyanın varlığını ister ve onu yalnızca egemenliğinin gücüyle ayakta tutar. Çünkü yargı açısından dünya var olmaya layık değildir. İnsanların günahlarıyla zarar görmeyen ve eksilmeyen yüceliğini kullanarak dünyanın yok olmamasını sağlar. Fakat ona çok iyilik ve genişlik vermez; tam tersine, ona yalnızca dar bir varlık verir, onsuz olması mümkün olmayan kadarını, varlığını sürdürsün diye. Çünkü dünya bu iyilikle yönetilmeye uygun halde değildir. Tam tersine, kötülük ondan uzaklaşmak şöyle dursun, onda daha da güçlenir. Ancak HaKadoş Baruh Hu kendi fiillerinin yok olmasını istemez ve tekil egemenliğinin gücüyle onu ayakta tutar; hüküm onun yıkılmasını gerektirse bile. Fakat bunu, açıkladığımız gibi, çok büyük bir daraltma içinde yapar.
 
 
 ###### Da'at Tevunot 142:7
@@ -3373,6 +3565,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 והנה אז נודע שהעולם ראוי להתנהג על פי דרך משפטו ית', ותיקונו תלוי בזה, ומורה על זה הצמצום הזה שזכרנו, והרע שגובר, שאין הטבע מתעלה לטובה כמו שיהיה לעתיד לבא, אלא אדרבא עומד בחוקות שחקק בו האדון ב"ה לפי סדר ההנהגה המשפטית. אלא שלפי שהקב"ה נתרחק ונסתר מן העולם - אין המשפט נעשה, והארץ היתה תוהו ובוהו, והרשעים שולטים בעולם בעזות פניהם, כחיה רעה שביער, ואין דורש ואין מבקש, והכל מעוות ומקוקל, ורק הקב"ה מקיים עולמו בכח רצונו הבלתי משועבד לשום חוק, קיום גרידא עד שייצא לאור משפטו, כמו שכתוב (ישעיהו נא, ד), "ומשפטי לאור עמים ארגיע":
 
 
+O zaman dünya hakkında şu bilinir: dünya O’nun, adı yüce olsun, yargısının yoluna göre yönetilmeye layıktır ve tikun’u buna bağlıdır. Zikrettiğimiz bu daralma ve güçlenen kötülük de buna işaret eder. Çünkü doğa, gelecekte olacağı gibi iyiliğe yükselmez; tam tersine Efendi, kutsanmış O’nun yargısal yönetim düzenine göre ona koyduğu yasalarda durur. Fakat HaKadoş Baruh Hu dünyadan uzaklaştığı ve gizlendiği için yargı yapılmaz; yeryüzü tohu vavohu olur. Kötüler dünyada yüzlerinin küstahlığıyla, ormandaki yırtıcı hayvan gibi hüküm sürer; ne arayan vardır ne de isteyen. Her şey eğrilmiş ve bozulmuştur. Yalnızca HaKadoş Baruh Hu, hiçbir yasaya bağlı olmayan iradesinin gücüyle dünyasını salt varlıkta tutar; ta ki yargısı ışığa çıkıncaya kadar. Nitekim “Yargımı halklara ışık olmak üzere dinginlikle ortaya çıkaracağım” denmiştir.
+
+
 ###### Da'at Tevunot 142:8
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/142:8](https://torahapp.org/share/book/Da%27at%20Tevunot/r/142:8)
@@ -3381,12 +3576,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 והנה כשנדקדק על כל המצבים המתחלפים בעולם בענין גילוי משפטו זה ית' או הסתרו, נמצאם בהדרגה מסודרים בסדר גדול, והם חמשה וכמו שנבאר. ותראי אותם אחד אחד בזמניהם, שהיו ושיהיו עד סוף שלמותו של העולם שיהיה לעתיד לבא:
 
 
+O’nun, adı yüce olsun, bu yargısının açığa çıkması veya gizlenmesi bakımından dünyadaki değişen bütün durumları dikkatle incelediğimizde, bunların büyük bir düzen içinde dereceli olarak sıralandığını görürüz. Bunlar beştir; açıklayacağımız gibi. Onları tek tek, kendi zamanlarında, geçmişte olanları ve gelecekte dünyanın tamlığının sonuna kadar olacakları göreceksin.
+
+
 ###### Da'at Tevunot 142:9
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/142:9](https://torahapp.org/share/book/Da%27at%20Tevunot/r/142:9)
 
 
 הנה הזמן הראשון היה כל שני אלפים של תוהו (סנהדרין צז ע"א), ובפרט בגלות מצרים, והיינו שזה הוא, זמן שהאל ב"ה מסתתר לגמרי מעולמו, כאילו ח"ו עזב ה' את הארץ, אינו רואה ואינו שומע מעשי בני האדם. ואז נקרא שאין מידת המשפט פועלת בעולם כלל, אלא היא רק ראויה להיות, ומצטרכת למציאות העולם, ומחוייבת מן הסדר שסידר האדון ב"ה את הנהגתו, שהרי באהבתו את נבראיו הוא משקיף ומתבונן, כביכול, עליהם, לדעת מה לעשות להם להביאם אל תיקון שלם. אמנם אינו אלא מחשב, ולא עושה, כי מסתיר הוא את משפטו המתוקן, ומניח העולם בתוהו ובוהו:
+
+
+İlk zaman, iki bin yıllık tohu döneminin tamamıydı; özellikle de Mısır sürgünüydü. Bunun anlamı şudur: Tanrı, kutsanmış O, dünyasından bütünüyle gizlenir; sanki Tanrı korusun, Haşem yeryüzünü terk etmiş, insanların fiillerini görmüyor ve işitmiyormuş gibidir. O zaman yargı ölçüsünün dünyada hiç işlemediği söylenir; yalnızca var olmaya layıktır, dünyanın varlığı için gereklidir ve Efendi, kutsanmış O’nun yönetimini düzenlediği düzenden zorunlu olarak çıkar. Çünkü O, yaratılmışlarını sevdiği için, ifade yerindeyse, onlara bakar ve onları düşünür; onları tam tikun’a getirmek için ne yapacağını bilir. Fakat burada yalnızca düşünür, yapmaz; çünkü düzeltilmiş yargısını gizler ve dünyayı tohu vavohu içinde bırakır.
 
 
 
@@ -3400,6 +3601,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמרה הנשמה – אני צריכה ליכנס בתוך דבריך כדי שלא יתבלבל הדרוש בדעתי, כי הנה אמרת ושנית דבר אחד שאינני יכולה להבין אותו:
 
 
+Nefeş şöyle dedi: Sözlerinin içine girmem gerekiyor ki konu zihnimde karışmasın. Çünkü bir şeyi söyledin ve tekrarladın; ben onu anlayamıyorum.
+
+
 
 ## Chapter 144
 
@@ -3409,6 +3613,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 
 
 אמר השכל – ומה זה?
+
+
+Akıl şöyle dedi: Nedir o?
 
 
 
@@ -3422,6 +3629,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמרה הנשמה – אמרת שבשעה שהקב"ה מסתיר משפטו, אז העולם הולך בקלקול ותוהו ובוהו. אמור נא לי אחת משתים, לא תימנע, או שההנהגה תהיה בחסד או במשפט. אם ההנהגה היא בחסד, אם כן יהיה טוב לכל, ומאין שורש הויה ומציאות לרע; ואם ההנהגה במשפט, אם כן מה תאמר שהמשפט הוא נסתר, הלא כל הקלקולים הנמצאים בעולם אינם אלא תולדות המשפט ומידת דינו ית'. וזה אקיים לך משני טעמים, א' - כי הרי אין שום רע וחסרון אלא מכח מידת דינו ית' והעלם טובו, וכבר פירשת לי הדבר למעלה בארוכה; והב' - כי הלא אומר אתה שהסתר זה נעשה מפני שהעוונות גורמים כך, שיהיה הקב"ה מסתיר פניו מעולמו, אם כן הרי זה משפט ודאי:
 
 
+Nefeş şöyle dedi: HaKadoş Baruh Hu yargısını gizlediği zaman dünyanın bozulmaya ve tohu vavohu’ya gittiğini söyledin. Bana şimdi iki seçenekten birini söyle; bunlardan kaçış yoktur. Yönetim ya hesed ile olur ya da yargı ile. Eğer yönetim hesed ile ise, o zaman herkes için iyi olması gerekir; kötülüğün oluşunun ve varlığının kökü nereden gelir? Eğer yönetim yargı ile ise, o zaman yargı gizlidir demen ne anlama gelir? Dünyada bulunan bütün bozulmalar, O’nun, adı yüce olsun, yargısının ve din ölçüsünün sonuçlarından başka bir şey değildir. Bunu sana iki gerekçeyle kanıtlarım. Birincisi: hiçbir kötülük ve eksiklik O’nun, adı yüce olsun, din ölçüsünün ve iyiliğinin gizlenmesinin gücü dışında yoktur; bunu bana yukarıda uzun uzun açıklamıştın. İkincisi: sen zaten bu gizlenmenin günahların böyle sebep olması yüzünden meydana geldiğini söylüyorsun; HaKadoş Baruh Hu’nun yüzünü dünyasından gizlemesine sebep olan şey günahlardır. Öyleyse bu kesinlikle yargıdır.
+
+
 
 ## Chapter 146
 
@@ -3433,12 +3643,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמר השכל – ודאי הטבת לשאול, והנה איישב לך כל הדברים האלה על נכון. הנה כבר פירשתי לך למעלה ששורש כל מציאות הטוב והרע שבעולם הזה הוא יען הסתיר האדון ב"ה פני טובו, ולקח מידה זאת הנותנת מקום אל הרעות מצד הסתר פניו, כענין שנאמר (תהלים יח, יב), "ישת חשך סתרו". ויש במידה הזאת שתי דרכים, הא' - הוא בהנתן המקום לרעות להתגבר ולשלוט שליטה רבה, מבלי שיקום עליהם משפטו ית' לנקות העולם מהם, בהעמיס את הרשעים ענשם, שאז "כיון שלקה הרי הוא כאחיך" (מכות כג ע"א); אלא מתולדות הסתר פני האדון ב"ה יהיה זה להיות רעת חעולם רבה עליו ואין מרפא. והדרך הב' - גם הוא תלוי בהסתר פניו ית', אך טוב הוא לעולם ובריותיו, וזה שיהיו סדרי הנהגתו ית' מסודרים במשפט ישר, אשר בכח הסדרים האלה ינקה העולם מן הרעות, אך לא בדרך החסד המוחה לפשעים ומחזירם לאין, אלא בדרך המשפט המזרה כל רע על ידי העונשים; כי עד שלא יגיע הזמן העתיד שהקב"ה בממשלתו ימחה החטאים, הנה אין דרך לניקיון העולם אלא יושר המשפט. ונמצא, שכשאני אומר לך מידת המשפט - רצוני לומר, המשפט הישר המנקה העולם מן הרעות. אך בהתעלם המשפט - היה בדרך קלקול ולא בדרך תיקון, דהיינו, לא שנמחים הפשעים, אלא שאדרבא העולם כמו נמאס, והרעה גוברת עליו. אז ההנהגה היא לפי ההסתר הגדול, שפני האדון ית' נסתרים מן הבריות, ואז משמש בעולם התוהו ובוהו:
 
 
+Akıl şöyle dedi: Gerçekten çok iyi sordun; şimdi bütün bu şeyleri sana doğru biçimde yerleştireceğim. Yukarıda sana açıkladım: bu dünyadaki bütün iyi ve kötü varlığının kökü, Efendi, kutsanmış O’nun, iyiliğinin yüzünü gizlemesi ve yüzünün gizlenmesi bakımından kötülüklere yer veren bu ölçüyü almasıdır. “Karanlığı kendi örtüsü yaptı” ayetinin anlamı budur. Bu ölçüde iki yol vardır. Birinci yol, kötülüklerin güçlenip çok büyük bir egemenlikle hüküm sürmesine yer verilmesidir; O’nun, adı yüce olsun, yargısı onların üzerine kalkıp, kötülerin cezalarını yükleyerek dünyayı onlardan temizlemez. Çünkü o zaman “ceza gördüğünde artık kardeşindir” ilkesi geçerli olurdu. Fakat Efendi, kutsanmış O’nun yüzünün gizlenmesinin sonuçlarından biri, dünyanın kötülüğünün onun üzerinde çok olması ve ona şifa bulunmamasıdır. İkinci yol da O’nun, adı yüce olsun, yüzünün gizlenmesine bağlıdır; fakat dünya ve yaratılmışları için iyidir. Bu da O’nun, adı yüce olsun, yönetim düzenlerinin doğru yargı içinde düzenlenmesidir. Bu düzenlerin gücüyle dünya kötülüklerden temizlenir; fakat günahları silip onları yokluğa döndüren hesed yolu ile değil, cezalar aracılığıyla her kötülüğü savuran yargı yolu ile. Çünkü HaKadoş Baruh Hu’nun kendi egemenliğiyle günahları sileceği gelecek zaman gelinceye kadar dünyanın temizlenmesinin tek yolu yargının doğruluğudur. Buna göre sana “yargı ölçüsü” dediğimde kastım, dünyayı kötülüklerden temizleyen doğru yargıdır. Fakat yargı gizlendiğinde bu tikun yolu değil, bozulma yoludur; yani günahlar silinmez, tam tersine dünya adeta tiksinilmiş olur ve kötülük onun üzerinde güçlenir. O zaman yönetim büyük gizlenmeye göre olur: Efendi’nin, adı yüce olsun, yüzü yaratılmışlardan gizlenmiştir ve o zaman dünyada tohu vavohu işler.
+
+
 ###### Da'at Tevunot 146:2
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/146:2](https://torahapp.org/share/book/Da%27at%20Tevunot/r/146:2)
 
 
 ואמנם, יש לך לדעת הקדמה גדולה, והיא, שבאמת אין הקב"ה מואס יגיע כפיו לעולם ח"ו, ואינו עוזב ומניח את העולם; אלא בשעה שנראה כאילו העולם עזוב ממנו, הענין הוא שאדרבא, הרי הוא מחדש טובה לעולמו, ונפלאותיו ומחשבותיו תמיד כל. היום רק לתיקונו של עולם, לא לקלקולו; אלא שהוא מסתיר עצתו הסתר גדול מאד, ואז נמצא העולם כמו עזוב, ובני האדם סובלים עונשי חטאתיהם. וכך אמרו רז"ל (ב"ר, צא, י) על יעקב אבינו ע"ה, "ויאמר ישראל למה הרעותם לי" (בראשית מג, ו), ר"ל בשם ר' חמא ב"ח, מעולם לא אמר יעקב אבינו דבר של בטלה אלא כאן. אמר הקב"ה, אני עוסק להמליך בנו במצרים, והוא אומר, "למה הרעותם לי'. הדא הוא דאתמר (ישעיהו מ, כז), "נסתרה דרכי מה'" וגו'. והיינו, כי כל זמן שהיה יעקב אבינו בצער על פרישת יוסף ממנו, הקב"ה לא היה אלא מגלגל גלגולים להמליך יוסף ולהחיות את יעקב בשלוה, אלא שמתוך שעצה עמוקה היתה, היה הצער עובר על יעקב. וזה בנה אב, שלכל עילוי שרוצה הקב"ה לתת לאדם או לעולם, הנה כל זמן הזדמן הטוב - אינו מזדמן ובא אלא מתוך עומק עצה נסתרת, ועל כן יקרה קודם לו צער. והרי זה כענין שאמרו ז"ל (ברכות ה ע"א), "שלש מתנות טובות נתן הקב"ה לישראל, וכולן לא נתנן אלא על ידי יסורין":
+
+
+Ancak büyük bir ön bilgi bilmelisin: Gerçekte HaKadoş Baruh Hu ellerinin emeğinden asla tiksinmez, Tanrı korusun; dünyayı bırakıp terk etmez. Dünya O’ndan terk edilmiş gibi göründüğü saatte bile, işin gerçeği tam tersinedir: O dünyası için yeni bir iyilik hazırlar; harikaları ve düşünceleri bütün gün boyunca yalnızca dünyanın tikun’u içindir, bozulması için değil. Fakat öğüdünü çok büyük bir gizlenmeyle gizler; o zaman dünya terk edilmiş gibi bulunur ve insanlar günahlarının cezalarını çeker. Hahamlarımız z”l, Yaakov Avinu, üzerine esenlik olsun, hakkında “İsrael dedi ki: Bana neden kötülük ettiniz?” ayeti üzerine şöyle demiştir: Rabbi Levi, Rabbi Hama bar Hanina adına, “Yaakov Avinu ömründe boş bir söz söylemedi; yalnızca burada söyledi. HaKadoş Baruh Hu dedi ki: Ben oğlunu Mısır’da kral yapmakla meşgulüm; o ise ‘Bana neden kötülük ettiniz?’ diyor. İşte ‘Yolum Haşem’den gizlidir’ denilen budur.” Bunun anlamı şudur: Yaakov Avinu, Yosef’ten ayrılışının acısıyla üzüntü içindeyken, HaKadoş Baruh Hu yalnızca Yosef’i kral yapmak ve Yaakov’u huzur içinde yaşatmak için döngüler çeviriyordu. Fakat öğüt derin olduğu için acı Yaakov’un üzerinden geçiyordu. Bu, genel bir ilkedir: HaKadoş Baruh Hu bir insana veya dünyaya vermek istediği her yükseliş için, iyiliğin hazırlanma zamanı geldiğinde, o iyilik ancak derin ve gizli bir öğüdün içinden hazırlanır ve gelir. Bu yüzden ondan önce çoğu kez acı meydana gelir. Hahamlarımız z”l’nin “HaKadoş Baruh Hu İsrael’e üç iyi armağan verdi ve hepsini ancak yisurim aracılığıyla verdi” sözü de bu anlamdadır.
 
 
 ###### Da'at Tevunot 146:3
@@ -3449,12 +3665,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 נחזור לעניננו, כי הנה המדרגה הראשונה במצבי העולם הזה הוא בהיות משפטו ית' נסתר, ואינו מתגלה לנקות הרעות מן הארץ, ובזמן ההוא אין הקב"ה נודע בעולמו. וכבר אמרנו אימתי היה זמן זה, היינו, בזמן גלות מצרים:
 
 
+Konumuza dönelim. Bu dünyanın hallerindeki ilk derece, O’nun, adı yüce olsun, yargısının gizli olması ve yeryüzünden kötülükleri temizlemek için açığa çıkmamasıdır. O zamanda HaKadoş Baruh Hu dünyasında bilinmez. Bu zamanın ne zaman olduğunu da söyledik: Mısır sürgünü zamanı.
+
+
 ###### Da'at Tevunot 146:4
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/146:4](https://torahapp.org/share/book/Da%27at%20Tevunot/r/146:4)
 
 
 המצב השני הוא הזמן כזמן הזה, אשר אין נביא וחוזה, ואין אתנו אותות ומופתים לחייב כל האדם להכיר גדולתו ית'; אמנם יהיה איזה גילוי יותר, ואיזה ידיעה מגדולתו ית'. ותראי כי גלות מצרים, ודאי לא היה כגלות ההוא לפניו ולאחריו, שהיו ישראל משוקעים בעבודה, ולא היתה תורה, ולא היו ישראל אומה נבדלת בחוקותיה ומצוותיה כיום הזה, ולא היו בני אדם מכירים שמו של האדון ב"ה כלל ועיקר. ואמנם עתה הנה יש תורה, ועל כן אף על פי שאנחנו בגלות, לא יקרא זמן של תוהו, כמו שקראו לשני האלפים הראשונים (עי' סנהדרין צז ע"א), כי יש התורה, כמו שביארנו, שכבר ניתנה מן השמים, והינה בידינו לעולם ולעולמי עולמים, תודה לאל, ושמו של האדון ב"ה נודע בעמים:
+
+
+İkinci hal, bizim zamanımız gibi bir zamandır: peygamber ve gören yoktur; O’nun, adı yüce olsun, büyüklüğünü bütün insanlara zorunlu olarak tanıtan işaretler ve mucizeler bizimle değildir. Bununla birlikte daha fazla bir açığa çıkış ve O’nun, adı yüce olsun, büyüklüğüne dair bir bilgi vardır. Gör ki Mısır sürgünü, kesinlikle ondan önce de sonra da benzeri olmayan bir sürgündü: İsrael köleliğe batmıştı; Tora yoktu; İsrael bugün olduğu gibi yasaları ve mitsvalarıyla ayrılmış bir millet değildi; insanlar Efendi’nin, kutsanmış O, adını hiçbir şekilde tanımıyordu. Fakat şimdi Tora vardır. Bu yüzden sürgünde olsak bile bu zaman, ilk iki bin yıl için söylendiği gibi tohu zamanı diye adlandırılmaz. Çünkü Tora vardır; açıkladığımız gibi, gökten verilmiştir ve sonsuza dek, sonsuzlar sonsuzuna elimizdedir, Tanrı’ya şükür. Efendi’nin, kutsanmış O, adı da milletler arasında bilinmektedir.
 
 
 ###### Da'at Tevunot 146:5
@@ -3465,12 +3687,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 המצב השלישי - זמן שהקב"ה תופס ממשלה על עולמו באותות ובמופתים, גלוי לכל העמים, לדעת שה' אלהים בישראל; והיינו, כל זמן הבית הראשון והשני. ואמנם תביני שאפילו הגילוי הזה הוא גילוי מבחוץ, פירוש, שאין כאן גילוי אלא מצד הפעולות לבד מכח המופתים הנראים, שאם היו אותם המופתים חסרים - הרי לא היתה האמונה מתבררת. אמנם אין זה תכלית הגילוי, מה שהקב"ה רוצה שיהיה כבודו נגלה בעולמו:
 
 
+Üçüncü hal, HaKadoş Baruh Hu’nun dünyası üzerinde işaretler ve mucizelerle egemenliği ele aldığı, bunun bütün milletlere açıkça göründüğü ve Haşem’in İsrael’de Tanrı olduğunu bilmeleri için olan zamandır; bu da Birinci ve İkinci Bet HaMikdaş zamanının tamamıdır. Ancak şunu anlamalısın: bu açığa çıkış bile dıştan bir açığa çıkıştır. Yani burada açığa çıkış yalnızca fiiller tarafındandır, görünen mucizelerin gücüyledir. Eğer o mucizeler eksik olsaydı, iman açıklığa kavuşmazdı. Fakat bu, HaKadoş Baruh Hu’nun onurunun dünyasında açığa çıkmasını istediği nihai açığa çıkış değildir.
+
+
 ###### Da'at Tevunot 146:6
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/146:6](https://torahapp.org/share/book/Da%27at%20Tevunot/r/146:6)
 
 
 המצב הרביעי הוא, שיתגלה הקב"ה לכל בריותיו מצד הידיעה וההשגה, לא מצד המופתים, אלא שיראו כבודו ית' וישיגוהו בריבוי הדעת והחכמה. והוא מה שנאמר (ישעיהו יא, ט), "כי מלאה הארץ דעה את ה' כמים לים מכסים", וכתיב (ישעיהו נב, ח), "כי עין בעין יראו בשוב ה' ציון, ונגלה כבוד ה', וראו כל בשר יחדו", שאז לא יצטרכו אותות ומופתים לאמת האמונה, אלא מצד הידיעה וההשגה, ככל הנביאים וכל המלאכים המכירים האל ית' מצד השגתם; וזאת היא ידיעה ברורה ואמיתית, שלא יפול עליה שום ספק. וכן היתה השגת כל ישראל על הר סיני, דכתיב (דברים ה, ד), "פנים בפנים דבר ה' עמכם בהר מתוך האש"; ואומר (שמות כ, יט), "כי מן השמים דברתי עמכם"; ונאמר (שמות יט, ט), "בעבור ישמע העם בדברי עמך, וגם בך יאמינו לעולם", שלא תהיה האמונה מצד המופתים, שבנפול איזה ספק במופתים עצמם תתבלבל האמונה, אלא ידיעה ברורה מצד הראייה והשגה, שאין שם ספק כלל:
+
+
+Dördüncü hal, HaKadoş Baruh Hu’nun bütün yaratılmışlarına bilgi ve kavrayış yoluyla açığa çıkmasıdır; bu açığa çıkış mucizeler yoluyla değil, O’nun, adı yüce olsun, onurunun görülmesi ve bilginin, hikmetin çokluğuyla kavranması yoluyla olacaktır. “Çünkü yeryüzü, suların denizi kapladığı gibi Haşem’in bilgisiyle dolacak” denilen şey budur. Ayrıca “Haşem Tsiyon’a döndüğünde göz göze görecekler; Haşem’in onuru açığa çıkacak ve bütün et birlikte görecek” denmiştir. O zaman imanı doğrulamak için işaretlere ve mucizelere ihtiyaç duyulmayacak; çünkü inanç bilgi ve kavrayıştan doğacaktır. Tıpkı bütün peygamberlerin ve bütün meleklerin Tanrı’yı, adı yüce olsun, kendi kavrayışları yoluyla tanıması gibi. Bu, üzerine hiçbir kuşku düşmeyen açık ve gerçek bir bilgidir. Bütün İsrael’in Har Sinay’daki kavrayışı da böyleydi; “Haşem sizinle dağda, ateşin içinden yüz yüze konuştu” yazılıdır. Ayrıca “Sizinle göklerden konuştum” denmiştir; yine “Halk seninle konuştuğumu işitsin ve sana da sonsuza dek inansın” denmiştir. Böylece iman mucizelere dayanmayacaktır; çünkü mucizelerin kendisi hakkında bir kuşku doğarsa iman karışabilir. Aksine iman, görme ve kavrayıştan gelen açık bir bilgiye dayanacaktır; orada hiçbir kuşku yoktur.
 
 
 ###### Da'at Tevunot 146:7
@@ -3481,6 +3709,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 ואמנם הנה למציאות האדם יש עילויים, ולפי עילוי מציאותו וזיכוכו - כן תרבה לו ההשגה והידיעה, וזה פשוט. וזה כלל המצב החמישי שהוא זמן העילויים, בהתעלות מציאות האדם, והתעלות השגתו:
 
 
+Gerçekten de insanın varlık düzeyinde yükselişler vardır. Varlığı ve arınmışlığı ne kadar yükselirse, kavrayışı ve bilgisi de o ölçüde artar; bu açıktır. Beşinci durumun genel anlamı budur: insanın varlığının yükselmesi ve kavrayışının yükselmesiyle gelen yükselişler zamanı.
+
+
 ###### Da'at Tevunot 146:8
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/146:8](https://torahapp.org/share/book/Da%27at%20Tevunot/r/146:8)
@@ -3489,12 +3720,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 כי הנה עד שלא נגלית הנהגתו ית' וממשלתו בידיעה הברורה שהיא מצד הידיעה, אפי' פעם א' במדריגה א' נקרא שעדין לא נגלה המשפט הזה ולא עמדה הממשלה על מתכונתה אך כיון שנעשה זה פעם א' הרי המשפט נודע משם והלאה אינו אלא תוספות ועילוי ואלה העילוים יהיו אחר שכבר נעשה הגילוי הראשון כי יהיה הב"ה מזכך מציאות בני אדם ולפי הזכפם כך יגלה להם גילוים יתירים מכבודו וגדולתו ב"ה, והרי זה כלל ההדרגה שעשה האדון ב"ה למידת משפטו מתחילתה עד תשלומה, כי בתחילה אינו אלא ראוי להיות ומזדמן להעשות, אך לא נעשה. ואחרי כן מתגלה מעט, ועם כל זה אינו נקרא מגולה, כי עדיין צריך להוסיף בו ענינים שיעידו עליו, שהם המופתים והנסים. ובהגלותו באותותיו - הרי נשלם מה שצריך לגילוי המשפט, אך מצד מה שהוא [חוץ] ממנו. ועוד יש תשלום גילוי מצד עצמו, פירוש, מצד הידיעה וההשגה, שהוא עצמו יהיה מושג. ועוד יש תוספת גילויים יתירים ממנו כפי התעלות מציאות הצריכים להשיגו:
 
 
+Çünkü O’nun yönetimi ve egemenliği, bilgi bakımından gelen açık bilgiyle henüz bir kez bile, tek bir derecede bile açığa çıkmadan önce, bu yargı henüz açığa çıkmamış ve egemenlik kendi sağlam düzeni üzerine oturmamış sayılır. Fakat bu bir kez gerçekleştiği anda, o andan itibaren yargı bilinir hale gelir; bundan sonrası artık yalnızca eklenme ve yükseliştir. Bu yükselişler, ilk açığa çıkış gerçekleştikten sonra olacaktır: HaKadoş Baruh Hu insanların varlığını arındıracak, onların arınması ölçüsünde de onlara kendi onurundan ve büyüklüğünden daha ileri açığa çıkışlar gösterecektir. İşte Rabbin, kutsanmış olsun, yargı niteliği için başından tamamlanışına kadar kurduğu derece düzeninin genel özeti budur: Başlangıçta yalnızca olmaya elverişlidir ve gerçekleşmeye hazırdır, fakat henüz gerçekleşmiş değildir. Sonra az ölçüde açığa çıkar; buna rağmen henüz tam açığa çıkmış sayılmaz, çünkü onun hakkında tanıklık edecek başka unsurların, yani kanıtlayıcı harikaların ve mucizelerin eklenmesi gerekir. İşaretleriyle açığa çıktığında, yargının dıştan açığa çıkışı için gereken tamamlanmış olur. Fakat bunun bir de kendi tarafından tamamlanan açığa çıkışı vardır; yani bilgi ve kavrayış tarafından, kendisinin kavranır hale gelmesi. Bundan sonra da onu kavraması gereken varlıkların yükselişi ölçüsünde, ondan gelen daha ileri açığa çıkışlar eklenir.
+
+
 ###### Da'at Tevunot 146:9
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/146:9](https://torahapp.org/share/book/Da%27at%20Tevunot/r/146:9)
 
 
 והנה אראך דבר נעים, איך לכל ההדרגה הזאת יש דוגמה בעולם:
+
+
+Şimdi sana hoş bir şeyi göstereceğim: bu bütün derece düzeninin dünyada nasıl bir örneği bulunduğunu.
 
 
 
@@ -3508,6 +3745,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמרה הנשמה – ודאי אחפוץ לשמוע אותו:
 
 
+Nefeş şöyle dedi: Elbette bunu işitmek isterim.
+
+
 
 ## Chapter 148
 
@@ -3519,12 +3759,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמר השכל – תראי יצירת האדם בהדרגותיה. כי הקב"ה היה יכול להוליד האדם משוכלל בכל שלמותו ודאי אם היה רוצה, כי אין לו מונע; והוא לא כן עשה, אלא כמה חסר האדם ביום לידתו, והוא הולך ומשתלם מעט מעט. ותמצאי שהוא מראה ממש על כבודו ית' והנהגתו בגילוי ממשלתו, כמו שהוא מסבב ומנהג את העולם בחמשת המצבים שזכרנו, שהם הם גדולתו של העולם שהולך וגדל כגדלותו של האדם, וכבודו של מקום שהולך ומתגלה בהדרגה הגדולה הזאת:
 
 
+Akıl şöyle dedi: İnsanın yaratılışını kendi dereceleri içinde gör. Çünkü HaKadoş Baruh Hu dileseydi insanı bütün yetkinliğiyle tamamlanmış halde doğurabilirdi; O’nu engelleyecek hiçbir şey yoktur. Fakat böyle yapmadı. İnsan doğduğu gün ne kadar eksiktir; sonra yavaş yavaş tamamlanarak ilerler. Bunun, O’nun onurunu ve egemenliğinin açığa çıkışındaki yönetimini gerçekten gösterdiğini bulacaksın. Çünkü dünyayı, daha önce andığımız beş durum içinde döndürüp yönettiği gibi, insanın büyüyüp gelişmesine benzeyen dünyanın büyüklüğü ve bu büyük derece düzeniyle giderek açığa çıkan Tanrı’nın onuru da aynı çizgide ilerler.
+
+
 ###### Da'at Tevunot 148:2
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/148:2](https://torahapp.org/share/book/Da%27at%20Tevunot/r/148:2)
 
 
 הנה ראשית מציאותו של האדם הוא על ידי החיבור של השותפים בו, הם אביו ואמו, הם הם נגד המולידים אשר לכל תולדה. ואמנם הוא סגור בבטן אמו כל ירחי העיבור. אחר יוולד וייצא לאויר העולם, ושוב יגדל מעט מעט הלוך וגדל. והוא אינו מושלם עדיין, לא בקומתו ולא בדעתו, עד שיעמוד על צביונו. והנה בתחילה ישתלם בדעתו עד שיתחייב במצוות, והוא בן י"ג, ועם כל זה עדיין אינו שלם, ועודנו נער. אחר כך ישתלם ויעמוד על פרקו לגמרי. ומשם והלאה יש לו עילויים על עילויים בבואו בימים, בהידור הזקנה, ועטרת שיבה, וטעם זקנים, אשר רוב שנים יודיעו חכמה. והנה כל זה דוגמה לסדר מעשיו בהדרגה אשר זכרנו למעלה. ונמצא שהאדם עצמו, שהוא הנהוג ממנו ית', מראה בעצמו ההנהגה אשר הוא ית' מנהגו, וכבר זכרנו מזה למעלה:
+
+
+İnsanın varlığının başlangıcı, onda ortak olanların, yani babası ile annesinin birleşmesiyle olur; bunlar her doğuşun doğurucu etkenlerine karşılık gelir. Sonra insan, hamilelik aylarının tamamı boyunca annesinin karnında kapalı bulunur. Ardından doğar ve dünyanın havasına çıkar; sonra da yavaş yavaş büyür, büyüdükçe büyür. Henüz ne boyu posu bakımından ne de bilgisi bakımından tamamlanmıştır; kendi olgun biçimine ulaşıncaya kadar böyledir. Önce bilgisi bakımından tamamlanır ve mitsvalarla yükümlü hale gelir; bu on üç yaşındadır. Buna rağmen henüz tam değildir, hala gençtir. Daha sonra tamamlanır ve kendi olgunluk çağına bütünüyle ulaşır. Bundan sonra, günleri ilerledikçe yükseliş üstüne yükselişler vardır: yaşlılığın saygınlığı, ak saçın tacı ve yaşlıların tadı; çünkü çok yıllar hikmeti bildirir. Bütün bunlar, yukarıda andığımız derece düzenindeki eylemlerinin örneğidir. Böylece bizzat insan, O’nun tarafından yönetilen varlık olarak, O’nun kendisini yönettiği yönetimi kendi üzerinde gösterir; bunu yukarıda da anmıştık.
 
 
 
@@ -3538,6 +3784,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמרה הנשמה – ודאי דבר מתקבל מאוד הוא, שיהיה דמות האדם רומז לסתרים עליונים ממעשיו ית':
 
 
+Nefeş şöyle dedi: İnsanın biçiminin, O’nun eylemlerinden gelen yüce sırları göstermesi gerçekten son derece kabul edilebilir bir şeydir.
+
+
 
 ## Chapter 150
 
@@ -3549,12 +3798,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמר השכל – וגם כל שאר בריאות העולם הם כך, כל אחת ואחת דוגמא לאחד מסתרי הנהגתו ית', וכיוונה המחשבה העליונה לעשות לכל סדרי הנהגותיה דוגמא בעולם הזה. ומכאן נמשך רוב המון הבריות, שכל בריה ובריה מראה על אחד מסדרי הנהגתו ית'; ונידונים כל מקרי הבריה ההיא, בכל צורותיה וסגולותיה, על פי עניני הסדר ההוא העומד ליראות בו, עד שנמצאו כל מידותיו ית' כמו שרשים, והבריות ענפים להם ממש, שמציאות הבריות האלה תלוי במציאות המידות ההמה. וכבר מזה נמשכו מראות הנביאים, שברצות האדון ב"ה להראות להם מידות ממידותיו, הנה בדמות הנבואי הראה להם האריה והשור וכל שאר הענינים שבאו בנבואות, וזה פשוט:
 
 
+Akıl şöyle dedi: Dünyadaki diğer bütün yaratılışlar da böyledir; her biri O’nun yönetim sırlarından birinin örneğidir. Üst düşünce, kendi bütün yönetim düzenlerinin bu dünyada bir örneğini yapmayı amaçlamıştır. Yaratılmış varlıkların çokluğu buradan doğar: Her varlık, O’nun yönetim düzenlerinden birini gösterir. O varlığın bütün halleri, bütün biçimleri ve özellikleri, onda görünmesi amaçlanan o düzenin konularına göre hükme bağlanır. Böylece O’nun bütün nitelikleri kökler gibi, yaratılmış varlıklar ise onların gerçek dalları gibi olur; bu varlıkların varlığı, o niteliklerin varlığına bağlıdır. Peygamberlerin görünümleri de buradan doğmuştur: Rab, kutsanmış olsun, onlara niteliklerinden birini göstermek istediğinde, peygamberlik görüntüsü içinde onlara aslanı, öküzü ve peygamberliklerde gelen diğer bütün imgeleri göstermiştir; bu açıktır.
+
+
 ###### Da'at Tevunot 150:2
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/150:2](https://torahapp.org/share/book/Da%27at%20Tevunot/r/150:2)
 
 
 ונשלים עתה הענין שאנחנו בו, כי הנה לפי מה שביארנו, נמצינו למדים שלכל מידה ומידה יש ענין המידה ההיא, וכח המידה ההיא, פירוש, הכח איך תוכל לגלות הענין שבחוקה. כי המשפט הוא כלל דרכי השכר ועונש, אם לחסד אם לשבטו, נכללים בשלושה ראשים, שהם, מידת החסד, מידת הדין ומידת הרחמים. אך כח היגלות המשפט הזה על פי דרכיו, הוא המשתנה מעת לעת, שהוא מתרבה או מתמעט, ונמצא הגילוי חסר או יתר. הא למה זה דומה? - לבני האדם שדמותם בכל איבריהם שוה, אך הכח מתחלף מאחד לשני הרבה מאוד, על כן יעשה אחד מה שלא יעשה חברו, ובאדם אחד עצמו יהיה שינוי בכחו מזמן אחד לזמן אחר, וזה פשוט. כן הדבר הזה, שהאל ית' מנהג העולם במידת משפטו זאת תמיד, ויקיים כל חוקות הבריאה התלויים בדרכי משפטו, אבל בהיגלות יותר או בהתעלם, וכמו שביארנו. וכאן נמצאו ההבדלים שבין ימים לימיט בכל ימות השנה, שיש ימי הקודש וימי החול, וההבדל ביניהם - גילוי פחות או יותר מהשגחתו בבחינת הקדושה, וכמו שנבאר עוד לפנים בס"ד. ואמנם, בהיות כל דברי ההנהגה חקוקים דבר דבר וסיבותיו, הנה ודאי צריך שהסיבות יספיקו לכל מה שיש להבחין בתולדותם ודאי, ועל כן יצטרך לנו להבין בפרט ענין הסיבות לדברים, ואיך הם מולידים??ת תולדותם, לדעת מה שמתחלף בתולדה. ואמנם כדי שנבין הענין הזה היטב צריך שנעמיק בו יותר, וכמו שתשמעי עתה:
+
+
+Şimdi içinde bulunduğumuz konuyu tamamlayalım. Açıklamış olduğumuz üzere şunu öğrenmiş bulunuyoruz: Her niteliğin, o niteliğe özgü bir konusu ve o niteliğe özgü bir gücü vardır; yani kendi hükmünde bulunan konuyu açığa çıkarabilme gücü. Yargı, ödül ve cezanın bütün yollarıdır; ister iyilik yönünde ister değnek ve ceza yönünde olsun, üç ana başlık altında toplanır: Hesed niteliği, Din niteliği ve Rahamim niteliği. Fakat bu yargının kendi yollarına göre açığa çıkma gücü, zamandan zamana değişir; artar veya azalır. Buna göre açığa çıkış eksik ya da fazla olur. Bu neye benzer? İnsanlara benzer: Beden biçimleri ve organları bakımından birbirlerine benzerler; fakat güçleri birinden diğerine çok büyük ölçüde değişir. Bu yüzden biri, arkadaşının yapamayacağını yapar. Hatta aynı insanın kendi gücü de bir zamandan başka bir zamana değişir; bu açıktır. Bu konuda da durum böyledir: Tanrı, kutsanmış olsun, dünyayı daima bu yargı niteliğiyle yönetir ve yargısının yollarına bağlı olan yaratılış yasalarının hepsini ayakta tutar; fakat bazen daha çok açığa çıkar, bazen de daha çok gizlenir; bunu daha önce açıklamıştık. Yılın günleri arasındaki, yani kutsal günler ile hafta içi günleri arasındaki ayrımlar burada bulunur. Aralarındaki fark, kutsallık bakımından O’nun gözetiminin daha az veya daha çok açığa çıkmasıdır; bunu ileride, Tanrı’nın yardımıyla, daha da açıklayacağız. Yönetimin bütün konuları, her biri kendi sebepleriyle birlikte tek tek yasaya bağlanmış olduğuna göre, sebeplerin kendi sonuçlarında ayırt edilmesi gereken her şeye yeterli olması gerektiği kesindir. Bu yüzden, şeylerin sebeplerini ayrıntılı olarak ve bu sebeplerin kendi sonuçlarını nasıl doğurduğunu anlamamız gerekir; böylece sonuçta değişen şeyi bilebiliriz. Fakat bu konuyu iyi anlamamız için onu daha derinleştirmemiz gerekir; şimdi işiteceğin gibi.
 
 
 
@@ -3568,6 +3823,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמרה הנשמה – וכי לא טוב הדרך שדרכנו עד כה? ואין הידיעות האלה מספיקות להבין דרך התנהג הבריאה?
 
 
+Nefeş şöyle dedi: Şimdiye kadar yürüdüğümüz yol iyi değil mi? Bu bilgiler yaratılışın nasıl yönetildiğini anlamak için yeterli değil mi?
+
+
 
 ## Chapter 152
 
@@ -3579,6 +3837,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמר השכל – טוב וישר מה שאמרנו. אמנם צריך לדעת שעל פי כוונת ההנהגה נעשה מהות הנבראים הנהוגים, וזהו העומק שאני אומר לך שצריכים אנו לדעת עתה, והיינו, מציאות מהות הברואים, וכל מקריו המתחלפים לעומת ההנהגה להשתוות לה:
 
 
+Akıl şöyle dedi: Söylediklerimiz iyi ve doğrudur. Fakat bilmek gerekir ki, yönetimin amacı uyarınca yönetilen yaratılmışların özü meydana getirilmiştir. Şimdi bilmemiz gerektiğini söylediğim derinlik budur: yaratılmışların öz varlığı ve onların yönetim karşısında değişen bütün halleri; yani ona uygun düşecek biçimde değişmeleri.
+
+
 ###### Da'at Tevunot 152:2
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/152:2](https://torahapp.org/share/book/Da%27at%20Tevunot/r/152:2)
@@ -3587,12 +3848,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 הנה כבר שמעת ענין תעולם השפל הזה, שהוא מקום חשוך ופחות, שכל הענינים המתילדים בו הם ענינים חשוכים ופחותים. וכבר שמעת גם כן איך כל מה שיש במציאות הוא דבר מחודש מרצונו, ותלוי רק בגזירתו ובמאמרו. ונמצא שהיות המקום הזה בחשכו - זה ודאי תלוי במאמר פיו ית', שמעמידו בתכונה זאת. והרי אם היה רוצה היה יכול להגיה חשכו הרבה, ולעשות ענינו יותר נישא ונכבד, וזה פשוט. ואמנם בענין ערך מציאות העולם והאדם, אם ביקר ואם בשפלות, יש לנו מקום רחב ידים מאוד לעיין ולהתבונן בו, כי נמצא בזה חכמה עמוקה להבין כמה מעלות של עילוי והשפלה יש לאדם בעולמו. ובאמת הפרטים אין להם סוף כלל, אך הכללים אינם כל כך, והם מפתחות גדולים להבין סתרים גדולים ממעשיו ית':
 
 
+Bu aşağı dünyanın konusunu zaten işittin: Burası karanlık ve düşük bir yerdir; içinde doğan bütün konular da karanlık ve düşüktür. Ayrıca varlıkta bulunan her şeyin O’nun iradesinden yenilenmiş bir şey olduğunu ve yalnızca O’nun hükmüne ve sözüne bağlı bulunduğunu da işittin. Buna göre bu yerin karanlığı içinde bulunması, kesinlikle O’nun mübarek ağzının sözüne bağlıdır; onu bu nitelikte ayakta tutan budur. Eğer dileseydi, onun karanlığını çokça aydınlatabilir ve durumunu daha yüce, daha değerli yapabilirdi; bu açıktır. Fakat dünyanın ve insanın varlık değerini, ister onur ister düşüklük bakımından ele aldığımızda, burada incelemek ve düşünmek için çok geniş bir alan vardır. Çünkü bu konuda, insanın kendi dünyasındaki yükseliş ve alçalış derecelerini anlamak için derin bir hikmet bulunur. Gerçekte ayrıntıların sonu yoktur; fakat genel ilkeler o kadar çok değildir ve bunlar O’nun mübarek eylemlerindeki büyük sırları anlamak için büyük anahtarlardır.
+
+
 ###### Da'at Tevunot 152:3
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/152:3](https://torahapp.org/share/book/Da%27at%20Tevunot/r/152:3)
 
 
-ונאמר עתה, כי הנה כשרצה האדון ב"ה. לנהג את עולמו במידת המשפט, שהוא דרך השכי ועונש, הוצרך שימצא בעולם הטוב והרע, וממילא שיהיה האדם בנוי בתכונה אחת, ונהוג בהנהגה אחת, שיוכלו ליפול בו שניהם, הטוב והרע, בשיקול אחד; מה שאין כן אם היה רוצה האדון ב"ה לנהג את העולם לפי טובו ואור פני חסדו, שאז כל הבריות יש להם להיות נשלמות ומתוקנות מהארת פניו ית', ולא יהיה רע בעולם, ומציאות האדם יהיה מעולה, שלא יפלו בו הרעות, ולא יהיה מקום בו אלא לטוב, ליקר, להארה ולחכמה. על כן נמצא, שמציאות האדם בשפלותו ועילויו תלוי בדרך הנהיגו ית' את האדם עצמו, כי לפי מה שירצה בהנהגתו - ירצה במציאותו. על כן במידת המשפט תלוי השפלת העולם, להיות הוא ועניניו שפלים ופחותים. וזה ענין מה שביארתי לך למעלה כבר מענין השפעתו ית', שלהיותה השפעתו ית"ש - לא היתה ראויה להיות אלא השפעת קדושה רבה ודברים יקרים. ונכבדים, אלא שרצה הקב"ה להלבישה בדברים שפלים שאינם ראויים לה, אלא שכך צריך לעולם השפל הזה לפי התכלית המכוון בו:
+ונאמר עתה, כי הנה כשרצה האדון ב"ה. לנהג את עולמו במידת המשפט, שהוא דרך השכר ועונש, הוצרך שימצא בעולם הטוב והרע, וממילא שיהיה האדם בנוי בתכונה אחת, ונהוג בהנהגה אחת, שיוכלו ליפול בו שניהם, הטוב והרע, בשיקול אחד; מה שאין כן אם היה רוצה האדון ב"ה לנהג את העולם לפי טובו ואור פני חסדו, שאז כל הבריות יש להם להיות נשלמות ומתוקנות מהארת פניו ית', ולא יהיה רע בעולם, ומציאות האדם יהיה מעולה, שלא יפלו בו הרעות, ולא יהיה מקום בו אלא לטוב, ליקר, להארה ולחכמה. על כן נמצא, שמציאות האדם בשפלותו ועילויו תלוי בדרך הנהיגו ית' את האדם עצמו, כי לפי מה שירצה בהנהגתו - ירצה במציאותו. על כן במידת המשפט תלוי השפלת העולם, להיות הוא ועניניו שפלים ופחותים. וזה ענין מה שביארתי לך למעלה כבר מענין השפעתו ית', שלהיותה השפעתו ית"ש - לא היתה ראויה להיות אלא השפעת קדושה רבה ודברים יקרים. ונכבדים, אלא שרצה הקב"ה להלבישה בדברים שפלים שאינם ראויים לה, אלא שכך צריך לעולם השפל הזה לפי התכלית המכוון בו:
+
+
+Şimdi şöyle diyelim: Rab, kutsanmış olsun, dünyasını yargı niteliğiyle, yani ödül ve ceza yolu ile yönetmek istediğinde, dünyada iyinin ve kötünün bulunması zorunlu oldu. Bunun sonucu olarak insanın da, hem iyinin hem kötünün onda eşit bir tartı içinde düşebileceği belirli bir yapıyla kurulması ve belirli bir yönetimle yönetilmesi gerekti. Buna karşılık Rab, kutsanmış olsun, dünyayı kendi iyiliğine ve yüzünün Hesed ışığına göre yönetmek isteseydi, o zaman bütün yaratılmışlar O’nun mübarek yüzünün aydınlığından tamamlanmış ve düzeltilmiş olurlardı; dünyada kötülük bulunmazdı. İnsanın varlığı da yüce olurdu; kötülükler onda yer bulmaz, onda yalnızca iyilik, değer, aydınlık ve hikmet için yer olurdu. Buna göre insanın varlığının düşüklüğü ve yüceliği, O’nun bizzat insanı yönetme yoluna bağlıdır; çünkü yönetiminde neyi isterse, insanın varlığında da onu ister. Bu nedenle dünyanın alçaltılması, dünyanın ve ona ait şeylerin düşük ve değersiz olması, yargı niteliğine bağlıdır. Bu, yukarıda O’nun mübarek etkisi hakkında sana açıkladığım konudur: Etki, O’nun mübarek etkisi olduğuna göre aslında yalnızca büyük kutsallık etkisi ve değerli, yüce şeyler olması gerekirdi. Fakat HaKadoş Baruh Hu onu, kendisine uygun olmayan düşük şeylerin içinde giydirmeyi istedi; çünkü amaçlanan hedef uyarınca bu aşağı dünya için gerekli olan budur.
 
 
 ###### Da'at Tevunot 152:4
@@ -3603,12 +3870,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 ואולם אף שהעולם הזה שפל וחשוך, הנה כשנדקדק בו נמצא שאינו חשוך לגמרי, שלא יהיה בו אור כלל, אלא יש בו דברים של הארה; פירוש, כי החומריות הגופני המתיחס לבהמיות השולט בעולם הזה - זהו החושך שאנחנו מכירים בו; אך אינו משולל לגמרי מאיזה דברים של הארה, דהיינו מה שאינו חומריות אלא רוחניות; כי על כל פנים יש הידיעה והחכמה בבני אדם, ויותר מזה - יש התורה, יש רוח הקודש, כולם דברים שאינם מחוק החומריות. מכל אלה נלמד שיש בעולם הזה הרכבה של חושך ואור, ונבין מדרגות חשכו ומדרגות הארתו בכל העתים והזמנים, ונבחין מדרגות החושך לבד ומדרגות ההארה לבד, ואז נבוא עד תכונת כל המקרים המתחלפים בו. ואמנם החושך וההארה - כבר שמעת מה היא ומה מקורה; פירוש, כי חושך הוא כל החמריות והטבעיות הגופני, והארה הוא כל הרוחניות; שזה מה שנבדלים בו הנבראים התחתונים השפלים שאינם קדושים, מן העליונים שהם קדושים, לפי שכולם הארה ואין שם חומר. ומקור החושך הוא - שאין הקב"ה משפיע שפע רוחני, כמו שהיה ראוי להיות שפע אלקי, אלא משפיע שפע לפי בחינת העולם השפל הזה. ומקור ההארה - שהקב"ה ישפיע שפע אלקי ממש, רוחני וקדוש:
 
 
+Bununla birlikte, bu dünya düşük ve karanlık olsa da, onu dikkatle incelediğimizde bütünüyle karanlık olmadığını, içinde hiçbir ışık bulunmadığını söyleyemeyeceğimizi görürüz. Onda aydınlığa ait şeyler vardır. Açıklaması şudur: Bu dünyada egemen olan hayvani yapıya bağlı bedensel maddilik, onda tanıdığımız karanlıktır. Fakat dünya, aydınlığa ait bazı şeylerden bütünüyle yoksun değildir; yani maddilik olmayan, ruhsallık olan şeylerden. Her halükarda insanlarda bilgi ve hikmet vardır; bundan da öte Tora vardır, Ruah HaKodeş vardır. Bunların hepsi maddiliğin yasasına ait olmayan şeylerdir. Bütün bunlardan, bu dünyada karanlık ve ışığın bileşim halinde bulunduğunu öğreniriz. Böylece bütün zamanlarda ve dönemlerde onun karanlık derecelerini ve aydınlık derecelerini anlayacak, yalnız başına karanlığın derecelerini ve yalnız başına aydınlığın derecelerini ayırt edecek, sonra da onda değişen bütün hallerin yapısına varacağız. Karanlık ve aydınlığın ne olduğunu ve kaynağının ne olduğunu zaten işittin. Karanlık, bütün maddilik ve bedensel doğallıktır; aydınlık ise bütün ruhsallıktır. Aşağı, düşük ve kutsal olmayan yaratılmışları, kutsal olan yüce varlıklardan ayıran şey budur; çünkü yüce varlıkların tamamı aydınlıktır ve orada madde yoktur. Karanlığın kaynağı şudur: HaKadoş Baruh Hu, Tanrısal bir etki olarak olması gereken ruhsal etkiyi akıtmaz; bunun yerine bu aşağı dünyanın niteliğine uygun bir etki akıtır. Aydınlığın kaynağı ise şudur: HaKadoş Baruh Hu gerçek Tanrısal etkiyi, yani ruhsal ve kutsal etkiyi akıtır.
+
+
 ###### Da'at Tevunot 152:5
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/152:5](https://torahapp.org/share/book/Da%27at%20Tevunot/r/152:5)
 
 
 ונאמר עתה, כי בהיות האדון ב"ה רוצה לנהג העולם במשפט, אז ישעבד, כביכול, השגחתו למעשי התחתונים, עד שמעשיהם הטובים יעוררו השגחתו לטוגה, והרעים ימנעו מהשגחתו ההטבה, וכמו שביארנו ענין זה למעלה כבר. וברצותו לנהג העולם באהבתו לבד - ישתמש מממשלתו שאינה משועבדת לשום חוק, ואינה צריכה לבריותיו כלל, כענין שנאמר (ישעיהו מח, יא), "למעני למעני אעשה", ואז אין מקום לרע כלל, אלא לטוב. ועל כן, בנהגו את העולם באהבתו זאת ובממשלתו, כמו שביארנו, אז ישפיע שפע אלקי וקדוש על כל הבריות, שיתקדשו בו, וכמו שכתוב (ישעיהו ד, ג), "והיה הנשאר בציון והנותר בירושלים קדוש יאמר לו". אך ברצותו לנהגו במשפטו - לא ישפיע שפע רוחני אלא מה שראוי לגשמיות לבד:
+
+
+Şimdi şöyle diyelim: Rab, kutsanmış olsun, dünyayı yargı ile yönetmek istediğinde, gözetimini, ifade yerindeyse, aşağıdakilerin eylemlerine bağlar. Böylece onların iyi eylemleri O’nun gözetimini iyilik yönünde uyandırır; kötü eylemleri ise O’nun gözetiminden iyiliği engeller. Bu konuyu yukarıda açıklamıştık. Fakat dünyayı yalnızca sevgisiyle yönetmek istediğinde, hiçbir yasaya bağlı olmayan ve yaratılmışlarına hiç ihtiyaç duymayan egemenliğini kullanır; “Kendi uğrum için, kendi uğrum için yapacağım” ayetinde olduğu gibi. O zaman kötülüğe hiçbir yer kalmaz, yalnızca iyilik kalır. Bu nedenle dünyayı bu sevgisiyle ve egemenliğiyle yönettiğinde, daha önce açıkladığımız gibi, bütün yaratılmışlara Tanrısal ve kutsal etki akıtır; onlar bu etkiyle kutsallaşırlar. Nitekim şöyle yazılmıştır: “Tsiyon’da kalan ve Yeruşalayim’de artakalan herkes kutsal denilecektir.” Fakat dünyayı yargısıyla yönetmek istediğinde, yalnızca maddiliğe uygun olan ruhsal etkiyi akıtır.
 
 
 ###### Da'at Tevunot 152:6
@@ -3619,6 +3892,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 נמצאו בידינו שלוש מדרגות השפעתו ית'. הראשון ה - השפעה של הגשמיות שעושה הדברים השפלים. והשניה - השפעת הרוחניות הגמור; פירוש, שיהיה כל העולם מתהלך בדרך הקדושה לגמרי בכל חלקיו. והשפעה השלישית היא השפעה המרכבת ההארה בתוך החומר; פירוש, שנותנת מציאות דברים רוחנים אפילו בזמן הגשמיות הזה, ואינם משנים הגשמיות כמו השניה שזכרנו, אלא משתפת אליו ההארה באותה המדרגה שמשתפת. ואמנם ההשפעה השלישית הזאת אינה ממין ההשפעה השניה, כי הרי אותה השפעה מעברת החושך של החומריות, וזאת אינה מעברת. אמנם היא פחותה מן השנית, ורק נגזרת ממנה, כי גם תיא ענינה רוחניות והארה. אבל הבורא ית"ש שחידש כל מציאות הנמצאות, חידש כל המינים האלה בהשפעה, דהיינו, מין השפעה מקדשת לגמרי המושפעים ממנה; ומן המין הזה גזר מין השני, שמקדש, אך לא לגמרי את המושפע ממנה. ועוד חידש המין הראשון שזכרנו, שהוא השפעה של גשמיות, לא יותר. ועוד הרכיב שני המינים - השני והראשון - בהרכבות ידועות מה שרצה, ובהרכבות מתחלפות, שבזמן אחד ירבו ובזמן אחר ימעטו, ויעשו תולדות מתחלפות במציאות העולם הזה. ומן ההרכבה הזאת יוולד היות אפילו באדם הגשמי דברי ההארה, ובפרט - התורה בעולם, ורוח הקודש באדם, וכמו שביארנו:
 
 
+Böylece elimizde O’nun mübarek etkisinin üç derecesi vardır. Birincisi, aşağı şeyleri meydana getiren maddilik etkisidir. İkincisi, tam ruhsallık etkisidir; bunun anlamı, dünyanın bütün parçalarıyla bütünüyle kutsallık yolunda yürümesidir. Üçüncü etki ise ışığı maddenin içine bileştiren etkidir; yani bu maddilik zamanı içinde bile ruhsal şeylerin varlığını verir. Bu etki, sözünü ettiğimiz ikinci etki gibi maddiliği değiştirmez; yalnızca aydınlığı, hangi derecede katıyorsa o derecede maddeye katar. Fakat bu üçüncü etki, ikinci etkinin türünden değildir. Çünkü o ikinci etki maddiliğin karanlığını giderir; bu ise onu gidermez. Buna rağmen ikinciden daha aşağıdır ve ondan türemiştir; çünkü bunun konusu da ruhsallık ve aydınlıktır. Fakat bütün var olanların varlığını yenileyen Yaratıcı, kutsanmış adıyla, etkide bütün bu türleri yeniledi: kendisinden etkilenenleri bütünüyle kutsallaştıran bir etki türü; bu türden, kutsallaştıran fakat kendisinden etkilenen şeyi bütünüyle kutsallaştırmayan ikinci bir tür çıkardı. Ayrıca andığımız birinci türü, yani yalnızca maddilik etkisini yeniledi. Sonra ikinci tür ile birinci türü, dilediği bilinen bileşimlerle ve değişen bileşimlerle birleştirdi: bir zamanda çoğalırlar, başka bir zamanda azalırlar ve bu dünyanın varlığında değişik sonuçlar doğururlar. İşte bu bileşimden, maddi insanda bile aydınlıkla ilgili şeylerin bulunması doğar; özellikle de dünyada Tora’nın ve insanda Ruah HaKodeş’in bulunması böyledir; bunu açıkladık.
+
+
 ###### Da'at Tevunot 152:7
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/152:7](https://torahapp.org/share/book/Da%27at%20Tevunot/r/152:7)
@@ -3627,12 +3903,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 והנה כאן הוא ביחוד מקום התחלף הזמנים לחול ולקודש, כי ברבות ההרכבה מן ההשפעה הרוחנית בהשפעה הגשמית - תרבה ההארה על החומר בבני האדם. ויום שבת קודש הוא קדוש מכל שאר הימים, יען בו הירבה האדון ב"ה להשפיע בהשפעות רוחניות ואלקיות שזכרנו; וכל שאר הימים הטובים במדרגותיהם כך הם - ימים שההשפעה הרוחנית רבה בהם בסדר המדרגה הראויה:
 
 
+İşte zamanların hafta içi ve kutsal zamanlar olarak değiştiği yer özellikle burasıdır. Çünkü ruhsal etkinin maddi etkiyle bileşimi arttıkça, insanlarda ışık maddeye üstün gelir. Kutsal Şabat günü, diğer bütün günlerden daha kutsaldır; çünkü Rab, kutsanmış olsun, o günde andığımız ruhsal ve Tanrısal etkileri daha çok akıtır. Diğer bütün bayram günleri de kendi derecelerine göre böyledir: Onlar, ruhsal etkinin kendilerine uygun derece düzeni içinde daha çok bulunduğu günlerdir.
+
+
 ###### Da'at Tevunot 152:8
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/152:8](https://torahapp.org/share/book/Da%27at%20Tevunot/r/152:8)
 
 
 ועוד אודיעך הקדמה עיקרית, והיא, כי הנה כבר ביארתי לך ההשפלה הקדומה בחוק האדם, וההשפלה שנשפל אחרי חטא אדם הראשון, כי היה ערך הגופניות הראשון כרוחניות אחר ההשפלה. ואמנם צריך העולם להתעלות מהשפלותיו, ועל זאת ההנהגה הולכת וסובבת, וכמו שביארנו לעיל כבר. ואמנם צריך בתחילה שישתלם העולם במצבו התחתון, בהתרבות בו כל ריבויי ההארה שיכולים לימצא בו לפי ערכו התחתון, או יהיה לו עילוי ממצבו, ויקבל כל השייך לו לפי העילוי ההוא, ועל דרך זה יתעלה מעילוי לעילוי:
+
+
+Sana bir temel öncül daha bildireceğim. İnsanın yasasında bulunan ilk alçaltılmayı ve Adam HaRişon’un günahından sonra düştüğü alçalmayı zaten açıklamıştım. Çünkü ilk bedenselliğin değeri, alçalıştan sonraki ruhsallık gibiydi. Gerçekten de dünyanın kendi alçalmalarından yükselmesi gerekir; yönetim bunun etrafında döner ve bunun için yürür. Bunu yukarıda da açıkladık. Fakat önce dünyanın kendi aşağı durumunda tamamlanması gerekir: yani onun aşağı değerine göre onda bulunabilecek bütün aydınlık artışlarının çoğalması gerekir. Ya da kendi durumundan bir yükseliş kazanmalı ve o yükselişe ait olan her şeyi almalıdır. Bu yol üzere yükselişten yükselişe çıkar.
 
 
 
@@ -3646,6 +3928,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמרה הנשמה – ודאי כל אלה הקדמות מצטרכות לבאר מצבי האדם בעולמו, ומה נגזר עליו בכל עתותיו:
 
 
+Nefeş şöyle dedi: Bütün bu öncüller, insanın dünyasındaki hallerini ve bütün zamanlarında onun hakkında ne hükmedildiğini açıklamak için kesinlikle gereklidir.
+
+
 
 ## Chapter 154
 
@@ -3657,12 +3942,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמר השכל – עתה נשוב לענין המשפט והאהבה שזכרנו למעלה. כי כבר שמעת ששני ענינים הם מה שיש לנו להבין במעשיו ית', ומתחברים זה בזה, והיינו, ענין מידות ההנהגה וענין מהות הנהוגים ומצביהם, והם מתחברים ונקשרים ענין בענין, וכמו שביארנו למעלה:
 
 
+Akıl şöyle dedi: Şimdi yukarıda andığımız yargı ve sevgi konusuna dönelim. Çünkü O’nun mübarek eylemlerinde anlamamız gereken iki konu olduğunu işittin; bunlar birbirine bağlanır: yönetim nitelikleri konusu ve yönetilenlerin özü ile durumları konusu. Bunlar, yukarıda açıkladığımız gibi, bir konu diğerine bağlı ve ilişkili olacak biçimde birleşir.
+
+
 ###### Da'at Tevunot 154:2
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/154:2](https://torahapp.org/share/book/Da%27at%20Tevunot/r/154:2)
 
 
 ונשלים ענין ההנהגה., שכבר שמעת איך המוסר עצמו נולד מן האהבה, כענין הכתוב שזכרנו למעלה (משלי יג, כד), "ואוהבו שחרו מוסר". כי האב האוהב את בנו לא יחפוץ שיתמלא הבן מידות רעות, אבל מאהבתו אותו יסדר לעצמו סדר הנהגה להתנהג עמו בתבונה רבה, עד שיישיר דרכיו. ומשם והלאה (משלי כג, כד) -. "יולד חכם וישמח בו", והוא כאב את הבן ירצה, להיות הבך בותחטא אל אביו ועושה לו רצונו. ונמצא, שמאהבתו אותו ירצה ודאי לחבבו כשילך בדרך טובים, ולתת לו שכר גדול; ומאהבתו עצמה שרוצה בטובתו ולא ברעתו, ירצה ליסרו אם יקלקל מעשיו; ומאהבתו עצמה ירצה להתהלך עמו בדרך הממוצע - שמאל דוחה וימין מקרבת (עי' סוטה מו ע"א). הרי שממקור האהבה עצמה נובעים שלושת מידות המוסר, דהיינו, החסד, הדין, והרחמים הממוצעים. ומתולדות האהבה להיות המוסר אפילו בזמן שהוא נעשה - ממותק ולא באכזריות חימה ושטף אף, ולהיות קשה לכעוס ונוח לרצות. ומתולדותיה גם כן ומפעולותיה להיות לפעמים עובר על מידותיו לגמרי לעשות צדקה גמורה, שאין משגיחין בכף מאזנים כל עיקר, אלא כחפץ חסד מרבה להטיב:
+
+
+Şimdi yönetim konusunu tamamlayalım. Zaten işittin ki, musar’ın kendisi sevgiden doğar; yukarıda andığımız ayette söylendiği gibi: “Onu seven, erkenden onu terbiye eder.” Çünkü oğlunu seven baba, oğlunun kötü niteliklerle dolmasını istemez; onu sevdiği için, onunla büyük bir anlayışla davranacağı bir yönetim düzeni kurar, ta ki yollarını doğru hale getirsin. Bundan sonra, “Bilge bir çocuk doğuran sevinir” ayetinde olduğu gibi, baba oğlunu ister; oğul da babasına karşı günah işlemeyen ve onun isteğini yapan biri olur. Buna göre baba, oğlunu sevdiği için, oğul iyi yollarda yürüdüğünde onu sevip yüceltmek ve ona büyük ödül vermek ister. Yine aynı sevgi sebebiyle, onun iyiliğini isteyip kötülüğünü istemediği için, oğul eylemlerini bozarsa onu terbiye etmek ister. Yine aynı sevgi sebebiyle onunla orta yoldan yürümek ister: sol el iter, sağ el yaklaştırır. Böylece sevginin kendi kaynağından musar’ın üç niteliği doğar: Hesed, Din ve ortada duran Rahamim. Sevginin sonuçlarından biri de şudur: Musar uygulanırken bile tatlandırılmış olur; acımasızlık, kızgın öfke ve taşkın gazapla gelmez. Ayrıca öfkelenmesi güç, razı olması kolay olur. Sevginin sonuçlarından ve işleyişlerinden biri de bazen niteliklerinin ötesine bütünüyle geçerek tam tsedaka yapmasıdır; o durumda terazinin kefesine hiç bakılmaz, yalnızca Hesed’i isteyen biri gibi iyiliği çoğaltır.
 
 
 ###### Da'at Tevunot 154:3
@@ -3673,6 +3964,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 נמצא, שכאשר נבחין פעולת האהבה הזאת, נמצא ששני דברים יש בחוקה, הא' - אהבת החסד והחפץ בברכה וטובה, שזה עיקר ענינה; והוא פונה לשני ראשים, דהיינו, הראש האחד פונה למתק המשפט והמוסר אפילו בעת העשותו, שלא תבער אש הקנאה ועברת ה' ח"ו, ולא יהיה העולם כלה בו; והראש השני מביט להיות מעביר על הדין לגמרי בשעה שיצטרך העולם לכך. והוא העמן שהבאנו פעמים רבות למעלה (ברכות כ ע"א), "וחנותי את אשר אחון" - אע"פ שאינו הגון". הלא זה ענין י"ג מידות של רחמים שאינם חוזרות ריקם (ר"ה יז ע"ב). ופשוטו של מקרא מוכיח דכתיב (שמות לד, ו), "ויעבור ה' על פניו", דהיינו פנים של זעם, וכענין שאמרו (ברכות ז ע"א), "פני ילכו" - אלו פנים של זעם":
 
 
+Buna göre bu sevginin işleyişini incelediğimizde, onun yasasında iki şey bulunduğunu görürüz. Birincisi, Hesed sevgisi ve bereket ile iyilik arzusudur; bu onun asıl konusudur. Bu da iki başa yönelir. Birinci baş, yargı ve musar yapılırken bile onları tatlandırmaya yöneliktir; böylece kıskançlık ateşi ve Haşem’in öfkesi, Tanrı korusun, yanıp tutuşmaz ve dünya onunla tükenmez. İkinci baş ise, dünyanın buna ihtiyaç duyduğu saatte yargının tamamen üzerinden geçmeye yöneliktir. Yukarıda birçok kez getirdiğimiz sözün anlamı budur: “Merhamet edeceğime merhamet edeceğim” — layık olmasa bile. İşte boş dönmeyen on üç rahmet niteliğinin konusu budur. Ayetin yalın anlamı da bunu kanıtlar; şöyle yazılmıştır: “Haşem onun yüzü önünden geçti.” Bu, gazap yüzü demektir; “Yüzüm gidecek” ifadesi hakkında söyledikleri gibi: Bunlar gazap yüzleridir.
+
+
 ###### Da'at Tevunot 154:4
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/154:4](https://torahapp.org/share/book/Da%27at%20Tevunot/r/154:4)
@@ -3681,12 +3975,18 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 וההבחנה השניה אשר נבחין בחוק האהבה היא - שממנה עצמה נובע המשפט בכל סדריו הכלליים, שהם, החסד דין ורחמים, והפרטיים שהם המשלימים ענין אלה השלוש שזכרנו. והנה הגזירה במידת האהבה היא הנותנת מקום למידה זאת, ובחוקה יש בכוח לעשות המשפט גם כן, וכמו שביארנו. אמנם אם לא היתה באה הגזירה גם כן להוציא לפועל מידת המשפט הזה, הנה לא היה מוכרח שימצא כלל, כי כבר אין הכרח אצלו ית', אלא הכל רצון פשוט. אמנם בבוא הגזירה שיצא המשפט מן הכח אל הפועל - אז יצא. ותדעי שלכל דבר ודבר יש סדרים ותנאים פרטיים ומיוחדים להשלימו; פירוש, יש מידת האהבה וסדריה המשלימים ענינה, יש מידת המשפט וסדריה המשלימים ענינה כמו כן. ואמנם גם דבר זה שיצא המשפט לפועל מן האהבה, גם לו יהיו סדרים המשלימים ענינו, פירוש, המשלימים היציאה הזאת, כי החכמה הולכת לפרט ההבחנות עד כחוט השערה, וכל המרבה להבחין הרי זה משובח. והגם שהפרטים אי אפשר לעמוד עליהם מפני רובם, אך הכללים ראוי לנו להכירם:
 
 
+Sevgi yasasında ayırt edeceğimiz ikinci konu şudur: Yargı, bütün genel düzenleriyle sevginin kendisinden doğar; bu genel düzenler Hesed, Din ve Rahamim’dir. Bunların özel düzenleri de, andığımız bu üç niteliğin konusunu tamamlayan ayrıntılardır. Sevgi niteliğindeki hüküm, bu yargı niteliğine yer verir; onun yasasında yargıyı da fiile çıkarma gücü vardır, açıkladığımız gibi. Fakat bu yargı niteliğini fiile çıkarmak için ayrıca hüküm gelmeseydi, onun hiç bulunması zorunlu olmazdı. Çünkü O’nun katında, kutsanmış olsun, zorunluluk yoktur; her şey yalın iradedir. Ancak yargının güç halinden fiile çıkması hükmü gelince, o zaman fiile çıktı. Bil ki her bir şeyin onu tamamlayan özel ve kendine özgü düzenleri ve şartları vardır. Açıklaması şudur: Sevgi niteliği ve onun konusunu tamamlayan düzenleri vardır; yargı niteliği ve onun konusunu tamamlayan düzenleri de aynı şekilde vardır. Fakat yargının sevgiden fiile çıkması denilen bu şeyin de kendi konusunu tamamlayan düzenleri vardır; yani bu çıkışı tamamlayan düzenleri. Çünkü hikmet ayırt edişleri saç teli inceliğine kadar ayrıntılandırır; ayırt edişi çoğaltan övülmeye layıktır. Ayrıntıların çokluğundan dolayı onlara ulaşmak mümkün olmasa da, genel ilkeleri tanımamız uygundur.
+
+
 ###### Da'at Tevunot 154:5
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/154:5](https://torahapp.org/share/book/Da%27at%20Tevunot/r/154:5)
 
 
 והנה אחר שבאה הגזירה גם על יציאת המשפט לפועל, הנה יצטרך ההשקפה על הבריות כולם כפי מה שהם, לראות מה הוא המצטרך להם לפי דרכם, ומה יהיה המשפט אשר יווסד לצרכם. ואף זה הנה יווסדו בתחילה בכלל - ראשי סדרי המשפט הזה, ואחר כך יבחנו כל הדרכים אחד אחד, להבין דבר מתוך דבר, ולהשקיף על כל הפרטים ליסדם על נכון, וזה פשוט, שאין פרט בלא כלל שיקדם אליו. ואחר כל ההשקפה הזאת יושמו המשפטים על סדריהם, כי ודאי לא יהיו המשפטים בלא טעם מספיק לכל פרטיהם. אמנם המשפטים ענין אחד, וטעמיהם ענין אחר, ואין לנו לערבם זה עם זה. אבל נדע שכל המשפטים אשר שם האל ית' לכל צבא השמים והארץ, וכל ההנהגה שהוא מנהג אותם, הם מסודרים לפי מה שהשקיף בחכמתו ותבונתו על כל הנבראים, לגזור את המצטרך להם, ולשום אותו חוק בהנהגתו. ובהשקפה הזאת יוכללו כל טעמי המשפטים האלה, שמי שידע אל מה השקיף האל ית', ועל מה התבונן בשומו משפטו (זך), ידע טעמי משפטו. ובגלותו סודו לנביאיו, ויודיע משפטיו להם, יודיעם מתחילה על מה פקח עיני השקפתו, ועל מה התבונן לשום כל סדרי המשפטים האלה. ונמצא שהשקפתו זאת בכלל ובפרט היא המולידה את המשפט בכל סדריו וכל התלוי בו, ובה תלוי שנות את המשפט וסדריו לפי הצריך בכל העילויים או ההשפלות המצטרכות לעולם, וכל תיקון חדש המצטרך לו, דבר בעתו. ואמנם ההשקפה הזאת לא תחסר לעולם, ותולדתה להעמיד העולם על קיומו בכל עת ובכל שעה, ובכל רגע, ובעתו ושעתו. עוד תחדש לעולם עילויים ויתר עוז כמו שמצטרך לתיקונו. והנה עוד יש לנו להעמיק בהבנת הענינים, לבוא עד תכונתם:
+
+
+Yargının fiile çıkması hakkında hüküm geldikten sonra, yaratılmışların hepsine oldukları halleriyle bakış gerekir: kendi yollarına göre onlar için neyin gerekli olduğu ve ihtiyaçları için hangi yargının kurulacağı görülmelidir. Bu da önce genel olarak, bu yargının ana düzenleri halinde kurulur; sonra bütün yollar tek tek incelenir, bir şeyden başka bir şey anlaşılır ve bütün ayrıntılar doğru biçimde temellendirilsin diye onlara bakılır. Bu açıktır: kendisinden önce gelen bir genel ilke olmadan hiçbir ayrıntı yoktur. Bütün bu bakıştan sonra yargılar kendi düzenlerine yerleştirilir; çünkü yargıların bütün ayrıntıları için yeterli bir sebep olmadan bulunmayacağı kesindir. Fakat yargılar bir konudur, onların sebepleri başka bir konudur; bunları birbirine karıştırmamamız gerekir. Yalnız şunu bilmeliyiz: Tanrı’nın, kutsanmış olsun, göklerin ve yerin bütün orduları için koyduğu bütün yargılar ve onları yönettiği bütün yönetim, O’nun hikmeti ve anlayışıyla bütün yaratılmışlara bakıp onlar için gerekeni hükmetmesine ve onu kendi yönetiminde yasa haline getirmesine göre düzenlenmiştir. Bu bakışın içinde, bütün bu yargıların sebepleri yer alır; Tanrı’nın, kutsanmış olsun, yargısını koyarken neye baktığını ve neyi düşündüğünü bilen kimse, yargısının sebeplerini bilir. Sırrını peygamberlerine açtığında ve yargılarını onlara bildirdiğinde, önce bakışının gözünü neye açtığını ve bütün bu yargı düzenlerini koymak için neyi düşündüğünü bildirir. Böylece O’nun bu genel ve özel bakışı, bütün düzenleriyle yargıyı ve ona bağlı olan her şeyi doğurur. Dünyanın ihtiyaç duyduğu bütün yükselişlerde veya alçalışlarda ve onun için gerekli her yeni tikun’da, zamanında ve saatinde, yargıyı ve düzenlerini değiştirme de buna bağlıdır. Gerçekten de bu bakış asla eksik olmaz; onun sonucu, dünyayı her vakitte, her saatte, her anda, kendi vaktinde ve saatinde varlığı üzerinde ayakta tutmaktır. Ayrıca dünyanın tikun’u için gerekli olduğu üzere ona sürekli yükselişler ve daha büyük güç yeniler. Şimdi konuları, kendi yapısına varıncaya kadar anlamakta daha da derinleşmemiz gerekir.
 
 
 
@@ -3700,6 +4000,9 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 אמרה הנשמה – ודאי לחכמה אין סוף, ולעמוד על בורים של דברים צריך הרבה:
 
 
+Nefeş şöyle dedi: Hikmetin sonu olmadığı kesindir; şeyleri tam temelleri üzerinde kavramak için çok şey gerekir.
+
+
 
 ## Chapter 156
 
@@ -3708,7 +4011,10 @@ And indeed the Heavenly Will wanted that the hand of man reach to all these many
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/156:1](https://torahapp.org/share/book/Da%27at%20Tevunot/r/156:1)
 
 
-אמר השכל – אבל על כן נאמר (קהלת ז, כג), "אמרתי אחכמה והיא רחוקה ממני". ונבוא אל הענין. הנה מה שיוצא לנו מכל אשר דיברנו עד כה, הוא - כי הנה האדון ב"ה כבר שמעת שהוא נעלם מהשגת כל נבראיו לגמרי, ואין ענינו שום אחד מן הענינים הנתפסים מדעתנו ומצטיירים ממחשבתנו. ואמנם רצה להשפיע ממנו איזה השפעות המתיחסות ונאותות לנו, אשר בעבורן אנחנו מיחסים לו כל תואריו הרבים, ומספרים תהילותיו לפי מיעוט כוחנו לבד. ודבר זה כבר פירשנוהו למעלה, כי הוא ית' חידש לפעולתו והשגחתו איזה מידות וחוקים אשר ניחסם אליו, כמו שיחס המידות והתכונות לנפש. אבל כבר טדע לנו ההפרש גדול שבין אלה לתכונת הנפש, כי הנפש מוטבעת באותם התכונות, והם ענין נוסף בה על עצמותה, ובאדון ב"ה לא נדמה ח"ו כן; כי רק נדע שבאלה המידות הוא פועל, אך לא שיהיו אלה תכונות טבועות בו ומקרים נוספים עליו ח"ו, כי כבר ידענו היותו משולל מכל מקרה ומכל מה שאנו מבחינים בנבראיו. ואין אנו מזכירים מידות אלה לו, אלא מצד מה שנעשה בנו מהשפעתו והשגחתו, אך לא שנבין איך הם המידות האלה בו כלל. ודבר זה כבר בארנו אותו במקומו, וכבר הרחיב לדבר על זה המיוחד שבמחברים הרב הגדול הרמב"ם זלה"ה בספר המורה שלו:
+אמר השכל – אבל על כן נאמר (קהלת ז, כג), "אמרתי אחכמה והיא רחוקה ממני". ונבוא אל הענין. הנה מה שיוצא לנו מכל אשר דיברנו עד כה, הוא - כי הנה האדון ב"ה כבר שמעת שהוא נעלם מהשגת כל נבראיו לגמרי, ואין ענינו שום אחד מן הענינים הנתפסים מדעתנו ומצטיירים ממחשבתנו. ואמנם רצה להשפיע ממנו איזה השפעות המתיחסות ונאותות לנו, אשר בעבורן אנחנו מיחסים לו כל תואריו הרבים, ומספרים תהילותיו לפי מיעוט כוחנו לבד. ודבר זה כבר פירשנוהו למעלה, כי הוא ית' חידש לפעולתו והשגחתו איזה מידות וחוקים אשר ניחסם אליו, כמו שיחס המידות והתכונות לנפש. אבל כבר נודע לנו ההפרש גדול שבין אלה לתכונת הנפש, כי הנפש מוטבעת באותם התכונות, והם ענין נוסף בה על עצמותה, ובאדון ב"ה לא נדמה ח"ו כן; כי רק נדע שבאלה המידות הוא פועל, אך לא שיהיו אלה תכונות טבועות בו ומקרים נוספים עליו ח"ו, כי כבר ידענו היותו משולל מכל מקרה ומכל מה שאנו מבחינים בנבראיו. ואין אנו מזכירים מידות אלה לו, אלא מצד מה שנעשה בנו מהשפעתו והשגחתו, אך לא שנבין איך הם המידות האלה בו כלל. ודבר זה כבר בארנו אותו במקומו, וכבר הרחיב לדבר על זה המיוחד שבמחברים הרב הגדול הרמב"ם זלה"ה בספר המורה שלו:
+
+
+Akıl şöyle dedi: Bunun için şöyle denmiştir: “Hikmetli olayım dedim; o benden uzak kaldı.” Şimdi konuya gelelim. Şimdiye kadar konuştuğumuz her şeyden çıkan sonuç şudur: Rab, kutsanmış olsun, bütün yaratılmışlarının kavrayışından bütünüyle gizlidir; bunu zaten işittin. O’nun konusu, aklımızla kavranan ve düşüncemizde şekillenen konulardan hiçbirine benzemez. Bununla birlikte O, bizlere ilişkin ve bize uygun bazı etkileri kendisinden akıtmayı istedi; bu etkiler sebebiyle biz O’na çok sayıdaki sıfatlarını nispet eder ve yalnızca gücümüzün azlığı ölçüsünde övgülerini anlatırız. Bu konuyu yukarıda açıklamıştık: O, kutsanmış olsun, kendi fiili ve gözetimi için birtakım nitelikler ve yasalar yeniledi; biz bunları O’na nispet ederiz, tıpkı niteliklerin ve özelliklerin nefse nispet edilmesi gibi. Fakat bunlarla nefsin özellikleri arasındaki büyük farkı da biliyoruz. Çünkü nefis o özelliklerle tabiatlanmıştır; bunlar onun özüne eklenmiş bir konudur. Rab hakkında, Tanrı korusun, böyle düşünmeyiz. Yalnızca şunu biliriz: O bu niteliklerle fiil işler; fakat bu niteliklerin O’nda yerleşik özellikler veya O’na eklenen arazlar olduğunu söylemeyiz, Tanrı korusun. Çünkü O’nun her türlü arazdan ve yaratılmışlarında ayırt ettiğimiz her şeyden münezzeh olduğunu zaten biliyoruz. Bu nitelikleri O’na ancak O’nun etkisi ve gözetimiyle bizde meydana gelen şeyler açısından anarız; yoksa bu niteliklerin O’nda nasıl olduklarını hiçbir şekilde anlamış değiliz. Bu konuyu kendi yerinde açıklamıştık; bu mesele üzerinde müelliflerin en seçkini olan büyük Rav Rambam z”l de kendi More’sinde geniş biçimde konuşmuştur.
 
 
 ###### Da'at Tevunot 156:2
@@ -3730,12 +4036,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 והנה אתן לך דוגמא לדבר אדם המתבונן על דבר אחד שיראה, וירצה להשיג ענינו, הנה בתחילה ישמש בו כח הציור, לצייר הדבר ההוא בדעתו. ואמנם אם לא ישתמש מכח האחר, לא יעשה בדעתו אלא הציור. אך אם ירצה להבינו, הנה יתעורר בו כח ההתבוננות, ויקח הדבר בו, ויחלקהו, וינתחהו, ויחזור ויחבר חלקיו, להבדיל מה שצריך להבדיל, ולחבר מה שצריך לחבר, עד שיקח לו ממנו ידיעה שלמה. וכל אלה דברים שצריך שיעשו ודאי בנפש האדם טרם ישיג הענין המבוקש, אף על פי שאין הפעולות האלה גשמיים, כי אם רוחניים, אך צריך שיעשו. והנה פה מצאנו שיצא הנושא המצוייר בכח המצייר ממנו, וינתן אל כח ההתבוננות לעשות בו את שלו, כמו שביארנו. הרי זה חיבור מידות על דרך ההשפעה והקבלה, וזה פשוט. והנה נמצא בסדרי ההנהגה שכל מדרגה תחתונה תסובב מן העליונה ממנה, וגם תצטרך לה, עד שלהשלמת עניני התחתונה עצמה יכנס בדרך נסתר קצת שיעור מה שיכנס מן העליונה עצמה. ונבחין לתחתונה עצמה סיבה קרובה וסיבה רחוקה. וכל זה לרוב דקדוק ההשערה, שהכל משוער בתכלית חכמה עמוקה:
 
 
+Sana bunun için bir örnek vereyim: Bir insan gördüğü bir şey üzerinde düşünür ve onun konusunu kavramak ister. Başlangıçta tasvir gücünü kullanır; o şeyi zihninde tasvir eder. Fakat başka bir güçten yararlanmazsa, zihninde yalnızca tasvir oluşur. Onu anlamak isterse, onda düşünme ve inceleme gücü uyanır; o şeyi alır, böler, çözümler, sonra parçalarını yeniden birleştirir; ayrılması gerekeni ayırır, birleştirilmesi gerekeni birleştirir, ta ki ondan tam bir bilgi elde edinceye kadar. Bunların hepsi, aranan konu kavranmadan önce insan nefsinde kesinlikle yapılması gereken şeylerdir. Bu fiiller maddi değil, ruhsaldır; fakat yine de yapılmaları gerekir. Burada şunu bulduk: Tasvir eden güçte tasvir edilmiş konu ondan çıkar ve onda kendi işini yapması için düşünme gücüne verilir; açıkladığımız gibi. İşte bu, etki etme ve alma yoluyla niteliklerin birleşmesidir; bu açıktır. Yönetim düzenlerinde de şunu buluruz: Her aşağı derece, kendisinden yüksek olandan doğar ve ona ihtiyaç duyar. Hatta aşağı derecenin kendi konularının tamamlanması için, gizli bir yoldan, yüksek derecenin kendisinden gereken belli bir payın içeri girmesi gerekir. Böylece aşağı derece için yakın sebep ve uzak sebep ayırt edilir. Bütün bunlar, ölçünün son derece derin bir hikmetle çok ince biçimde belirlenmesinden kaynaklanır.
+
+
 ###### Da'at Tevunot 156:4
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/156:4](https://torahapp.org/share/book/Da%27at%20Tevunot/r/156:4)
 
 
 כללו של דבר, חידש האדון ב"ה מיני השפעות משוערות בערך וסדר והדרגה, שמכללות כולם, לפי ענין כל אחד ואחד, ולפי התקשרם זו בזו בכל מיני התקשרות שהם נקשרות, ולפי כל מדרגותיהם - תצא הנהגה שלמה, היא ההנהגה שהאדון ב"ה מנהג את עולמו מיום היבראו עד תכלית השלמתו. ויש לנו להבין בכל אלה מה שתלוי בסדר ההדרגה והערך לפי סידורם, ומה שתלוי בהבחנת ענינם; כי יש מידות והשפעות לפי הנהגת השכר ועונש, הנותן המציאות לטוב ורע; ויש לפי ענין יחוד ממשלתו ית', המשלים כל החסרונות. ובמידות השכר ועונש עצמם יש מהם על פי מידת חסדו, ויש על פי מידת דינו, ויש על פי מידה ממוצעת, וגם כל אלה בכמה דרכים ובכמה מזגי ענינים. יש מיני השפעות לפי ענין החושך של החומריות, שיש בחוקם להחשיך ולעבות הענינים הנולדים בעולם. ויש לפי ענין ההארה הרוחנית והאלקית שבחוקה להגיה החושך ולהאיר לנבראים, ובענין הזה כמה הדרגות נמצאות של בחינות גבוהות זו מזו.. ועל כל אלה הענינים צריך להשקיף מי שירצה להבין. עד מקום שהיד האנושית מגעת בהנהגתו ית'. וצריך לדעת השרשים והענפים, פירוש, מיני ההשפעות האלה וסידוריהם והנולד מהם, בין בבריות ובין במקריהם. וכלל כל הענינים האלה יתבאר לך כשתתישבי על כל מה שביארתי לך עד הנה:
+
+
+Sözün özü şudur: Rab, kutsanmış olsun, değer, düzen ve derece bakımından ölçülmüş çeşitli etkiler yenilemiştir. Bunların bütünü, her birinin konusu, birbirleriyle bağlandıkları bütün bağlantı türleri ve bütün dereceleri uyarınca, tam bir yönetim doğurur. Bu yönetim, Rabbin, kutsanmış olsun, dünyasını yaratıldığı günden nihai tamamlanışına kadar yönettiği yönetimdir. Bütün bunlarda, onların düzenlenişine göre derece ve değer düzenine bağlı olanı ve konularının ayırt edilmesine bağlı olanı anlamamız gerekir. Çünkü ödül ve ceza yönetimine göre olan nitelikler ve etkiler vardır; bunlar iyi ve kötüye varlık verir. Bir de O’nun mübarek egemenliğinin Birliği konusuna göre olanlar vardır; bunlar bütün eksiklikleri tamamlar. Ödül ve ceza niteliklerinin kendi içinde de, O’nun Hesed niteliğine göre olanlar, Din niteliğine göre olanlar ve orta niteliklere göre olanlar vardır. Bunların hepsi de birçok yol ve birçok konu bileşimi içinde bulunur. Maddiliğin karanlığı konusuna göre etki türleri vardır; onların yasasında dünyada doğan konuları karartmak ve kalınlaştırmak bulunur. Ruhsal ve Tanrısal aydınlanma konusuna göre olan etkiler de vardır; onların yasasında karanlığı parlatmak ve yaratılmışları aydınlatmak bulunur. Bu konuda da birbiri üzerine yükselen yüksek ayırt edişlerin birçok derecesi vardır. O’nun mübarek yönetiminde insan kavrayışının ulaşabildiği yere kadar anlamak isteyen kimsenin bütün bu konulara bakması gerekir. Kökleri ve dalları bilmek gerekir; yani bu etki türlerini, onların düzenlerini ve bunlardan doğan sonuçları, hem yaratılmışların kendisinde hem de onların başına gelen hallerde bilmek gerekir. Bütün bu konuların genel ilkesi, sana şimdiye kadar açıkladığım her şey üzerinde yerleştiğinde açıklığa kavuşacaktır.
 
 
 ###### Da'at Tevunot 156:5
@@ -3746,12 +4058,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 והעיקר מה שהזכרתי לך, שמלבד ידיעת סדר ההנהגה על צד הפעולות הנפעלות בעולם, הוא ידיעת מציאות ערך מעלת הבריות לדקותם ורוחניותם, או לגסותם וגשמיותם, לגבהם ויקרם, או לפחיתותם ושפלותם, שהכל נמשך מכח מיני ההשפעות האלה שחידש האדון ב"ה. שלפי שלמותו היה כל הנברא שוה בתכלית היקר והדקות הנעלה, ואמנם חידש מיני ההשפעות אלו שענינם כל ההדרגות והשינויים הנמצאים בענין זה בבריאה. ונמצא, שכל זה תלוי בהשפעות המחודשות האלה ובסידוריהם. ועוד לפנים אדבר עוד קצת מזה:
 
 
+Sana andığım asıl nokta şudur: Dünyada fiil olarak meydana gelen işler bakımından yönetimin düzenini bilmenin yanında, yaratılmışların incelikleri ve ruhsallıkları ya da kalınlıkları ve maddilikleri, yükseklikleri ve değerleri ya da düşüklükleri ve alçalmışlıkları bakımından varlık değerlerini bilmek gerekir. Çünkü bütün bunlar, Rabbin, kutsanmış olsun, yenilediği bu etki türlerinin gücünden doğar. O’nun yetkinliği açısından her yaratılmışın en yüce değer ve incelik bakımından eşit olması gerekirdi. Fakat O, yaratılışta bu konudaki bütün derece ve değişimlerin konusu olan bu etki türlerini yeniledi. Böylece bütün bunların bu yenilenmiş etkilere ve onların düzenlerine bağlı olduğu anlaşılır. İleride bundan biraz daha söz edeceğim.
+
+
 ###### Da'at Tevunot 156:6
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/156:6](https://torahapp.org/share/book/Da%27at%20Tevunot/r/156:6)
 
 
 ואמנם די עתה במה שהודעתיך לישב אותך על ענין ההנהגה העמוקה במין האחד שבחוקי הנהגת השכר ועונש, דהיינו חוקי ההשפעה. עתה נבוא אל המין השני, שהוא חוקי הקבלה:
+
+
+Şimdilik sana bildirdiğim bu kadarı, ödül ve ceza yönetiminin yasalarından bir türdeki, yani etki yasalarındaki derin yönetim konusuna seni yerleştirmek için yeterlidir. Şimdi ikinci türe, yani alma yasalarına geçelim.
 
 
 
@@ -3765,6 +4083,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמרה הנשמה – הנה שמעתי עד כה הקדמות גדולות ומבוררות שישבו אותי ודאי, והוציאוני ממבוכת ספקות רבים שהיו מבלבלים אותי. הנני עתה לשמוע שאר דברי פיך שישלימו לי הישוב על כל המצטרך לי:
 
 
+Nefeş şöyle dedi: Şimdiye kadar beni kesinlikle yerleştiren ve beni karıştıran birçok şüphenin içinden çıkaran büyük ve açık öncüller işittim. Şimdi, bana gerekli olan her konuda yerleşmemi tamamlayacak diğer sözlerini işitmeye hazırım.
+
+
 
 ## Chapter 158
 
@@ -3776,12 +4097,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמר השכל – הנה עד עתה דיברנו מענין השפעתו ית', המולדת בעולם כל המעשים המתחדשים בו. אמנם עתה יש לנו לבאר ענין מציאות התחתונים בכל השינויים המשתנים במציאותם, ובכל החוקים החקוקים במציאותם. והנה גם זאת השפעה מהשפעותיו ית' ודאי, אבל עם כל זה היא מין בפני עצמו. כי שאר ההשפעות הוא מה שהקב"ה משפיע אל הנמצאים, וזאת ענינה מה שהוא במציאות הנמצאים, שגם זה ודאי אינו אלא תלוי במאמר פיו של האל ית', ונמשך גם זה אחר ענין שאר ההשפעות, וכמו שביארנו למעלה, ועוד נדבר מזה בס"ד. אמנם מה שיש לנו להבחין עתה הוא - כי כלל המעשים הנעשים בעולם ממנו ית' הוא ענין אחד, וכלל הימצא הבריות שבהם נעשים המעשים ההם הוא ענין אחר. וכשנחקור על הענין הראשון, נשיג סדרי השפעתו ית'; וכשנחקור על הענין הזה השני, נשיג כל סדרי השתנות מציאות הבריות, לעילוי או לירידה, בכל הפרטים התלויים בזה השורש. ונבאר עתה ענין זה:
 
 
+Akıl şöyle dedi: Şimdiye kadar O’nun mübarek etkisi konusundan, yani dünyada yenilenen bütün fiilleri doğuran etkiden söz ettik. Fakat şimdi aşağıdakilerin varlığını, varlıklarında değişen bütün değişiklikleri ve varlıklarına işlenmiş bütün yasaları açıklamamız gerekir. Bu da kesinlikle O’nun mübarek etkilerinden biridir; bununla birlikte kendi başına bir türdür. Çünkü diğer etkiler, HaKadoş Baruh Hu’nun var olanlara akıttığı şeydir; bu etkinin konusu ise var olanların varlığında bulunan şeydir. Bu da kuşkusuz Tanrı’nın, kutsanmış olsun, ağzının sözüne bağlıdır. Bu da diğer etkilerin konusu ardından gelir; yukarıda açıkladığımız gibi ve Tanrı’nın yardımıyla bundan daha da söz edeceğiz. Fakat şimdi ayırt etmemiz gereken şey şudur: Dünyada O’nun tarafından yapılan bütün fiiller bir konudur; bu fiillerin içinde gerçekleştiği yaratılmışların var olması ise başka bir konudur. Birinci konuyu araştırdığımızda O’nun mübarek etkisinin düzenlerini kavrarız. Bu ikinci konuyu araştırdığımızda ise yaratılmışların varlığının, yükseliş veya düşüş yönünde, bu köke bağlı bütün ayrıntılarıyla değişme düzenlerini kavrarız. Şimdi bu konuyu açıklayalım.
+
+
 ###### Da'at Tevunot 158:2
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/158:2](https://torahapp.org/share/book/Da%27at%20Tevunot/r/158:2)
 
 
 הנה כבר אמרתי, גם מציאות הנמצאים אינו אלא תלוי במאמרו ודאי, שאין מציאות לנמצאים אלא מכח שפעו והשגחתו. שאם היה האדון ב"ה מסלק ח"ו שפעו והשגחתו זאת, כבר כל הנמצאים היו לאין ברגע אחד; אבל כח ממנו נמשך ודאי אל הנמצאים להתקיים. ועל דרך משל נאמר, כמו שהנפש מקיימת את הגוף, שזולתה נפסד ודאי, כך השגחת האדון ב"ה מקיימת כל נמצאיו, שזולתה היו נפסדים; על כן תיארו החכמים השגחת הבורא ית' - נשמה לנשמות. וכבר אמרתי - זה ענין נבחן לבדו, מלבד כל כלל ההשפעות שהוא משפיע לעולם, כי אין הכוונה בהשגחה הזאת אלא למציאות הנמצאים, לא למקרים המתילדים ונפעלים בם. ואמנם מה שיש להבין בענין הזה, הוא רק שינויי עידני הבריות, והתחלף ענינם במציאותם, לעילוי או לירידה, כמו שביארנו, שכל אלה ודאי ענינים תלויים במאמרו ית' לפי החוקים שחקק למציאת הנבראים; כי הרי לא יתעלו הנבראים עילוי יתר על מה שבחוקם, ולא ירדו ירידה יתירה מאשר בחוקם. ונבין עתה מה שיש להבין במציאות הזה, שהרי כל זה ייוחס לכח הזה והשגחה הזאת שממנו ית' למציאות הזה:
+
+
+Zaten söyledim: Var olanların varlığı da kesinlikle yalnızca O’nun sözüne bağlıdır; var olanların varlığı ancak O’nun etkisi ve gözetimi gücüyle vardır. Eğer Rab, kutsanmış olsun, Tanrı korusun, bu etkisini ve gözetimini kaldıracak olsaydı, bütün var olanlar bir anda yok olurdu. Fakat O’ndan kesinlikle var olanlara onları ayakta tutacak bir güç uzanır. Benzetme yoluyla şöyle deriz: Nefis bedeni ayakta tutar; onsuz beden kesinlikle bozulur. Aynı şekilde Rabbin, kutsanmış olsun, gözetimi bütün var olanlarını ayakta tutar; onsuz onlar bozulurdu. Bu yüzden bilgeler, Yaratıcı’nın mübarek gözetimini “neşamaların neşaması” diye nitelemişlerdir. Daha önce söylediğim gibi, bu konu, dünyaya akıttığı bütün etkilerin genelinden ayrı olarak kendi başına ayırt edilir. Çünkü bu gözetimde amaç, var olanların varlığıdır; onlarda doğan ve gerçekleşen olaylar değildir. Bu konuda anlaşılması gereken şey, yaratılmışların dönemlerinin değişmesi ve onların varlık durumlarının yükseliş ya da düşüş yönünde başkalaşmasıdır; açıkladığımız gibi. Bunların hepsi, yaratılmışların varlığı için koyduğu yasalara göre O’nun mübarek sözüne bağlı konulardır. Çünkü yaratılmışlar kendi yasalarında bulunandan daha yüksek bir yükselişe çıkamazlar; yine kendi yasalarında bulunandan daha derin bir düşüşe de inemezler. Şimdi bu varlık konusunda anlaşılması gerekeni anlayalım; çünkü bütün bunlar O’ndan, kutsanmış olsun, bu varlığa gelen bu güce ve bu gözetimine nispet edilir.
 
 
 ###### Da'at Tevunot 158:3
@@ -3792,12 +4119,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 הנה עיקר הנבראים הוא האדם, ועיקר האדם - כנסת ישראל. וכבר אמרו ז"ל (ירושלמי שבת סוף פרק ו; ועיין נדרים לב ע"א), מלאכי השרת יושבים מבחוץ וישראל מבפנים, דכתיב (במדבר כג, כג), "כעת יאמר ליעקב ולישראל מה פעל אל". ואמנם צריכים אנו להבחין באדם שתי בחינות הפכיות שיש לו, והוא מה שאמרו ז"ל (ויק"ר יד, א), "זכה, אומרים לו, אתה קדמת לכל מעשי בראשית, לא זכה, אומרים לו, יתוש קדמך". וזה, שאין יש בריה כל כך עלולה לרע כמו האדם, שיש באפשרותו לחטוא ולמרוד ח"ו, ויצר לב האדם רע מנעוריו, מה שאין כן לשום בריה אחרת. אך מצד אחר, כשהוא נתקן ונשלם, הוא המתנשא לכל לראש, ולו מגיע ההתדבק בו ית"ש; וכל שאר הבריות תלויות בו, וכמאמרם ז"ל שזכרנו למעלה. וכן אמרו על ישראל (מגילה טז ע"א) שהם ככוכבי השמים וכעפר הארץ לרום ולעומק. והיינו, כי באמת גזרה החכמה העליונה לעשות מציאות האדם לפי אמתת ענינו נכבד ונעלה מאד, אלא שהשפילו תחילה כדי שישלוט בו הרע הזה, ובזמן שהוא שפל - הוא שפל מכל הנבראים, ששולט בו הרע, שאינו שולט בכל בריה אחרת. אך כשכבר נתקן ונשלם - חוזר לגובה יקר ענינו באמת, ואז הוא נישא ונעלה מן הכל, ועולה למדרגה שאין שום אחד מן הנבראים מגיע לה:
 
 
+Yaratılmışların özü insandır; insanın özü ise Kneset İsrael’dir. Bilgeler z”l şöyle demişlerdir: Hizmet melekleri dışarıda oturur, İsrael ise içeridedir; çünkü şöyle yazılmıştır: “Şimdi Yaakov’a ve İsrael’e Tanrı ne yaptı denilecektir.” Fakat insanda bulunan birbirine karşıt iki yönü ayırt etmemiz gerekir. Bilgeler z”l şöyle demişlerdir: “Hak kazanırsa ona, ‘Sen yaratılış işlerinin hepsinden önce geldin’ denir; hak kazanmazsa ona, ‘Sivrisinek senden önce geldi’ denir.” Bunun anlamı şudur: İnsan kadar kötülüğe yatkın bir yaratılmış yoktur; onda günah işleme ve isyan etme imkanı vardır, Tanrı korusun. “İnsanın kalbinin yetseri gençliğinden beri kötüdür”; bu hiçbir başka yaratılmış için böyle değildir. Fakat öte yandan, insan düzeltildiğinde ve tamamlandığında, hepsinin başına yükselir; O’na, kutsanmış adına, bağlanma ona ulaşır. Diğer bütün yaratılmışlar ona bağlıdır; yukarıda andığımız bilge sözünde olduğu gibi. İsrael hakkında da onların yükseklik ve derinlik bakımından göklerin yıldızları ve yerin toprağı gibi olduklarını söylemişlerdir. Çünkü gerçekte üst hikmet insanın varlığını, konusunun hakikati bakımından çok değerli ve çok yüce yapmayı hükmetmiştir; ancak başlangıçta onu alçaltmıştır ki bu kötülük onda egemen olabilsin. İnsan alçak durumda bulunduğunda, bütün yaratılmışlardan daha aşağıdadır; çünkü onda, hiçbir başka yaratılmışta egemen olmayan kötülük egemen olur. Fakat düzeltildiğinde ve tamamlandığında, konusunun gerçek değer yüksekliğine geri döner. O zaman hepsinden yüce ve üstün olur; hiçbir yaratılmışın ulaşamadığı bir dereceye yükselir.
+
+
 ###### Da'at Tevunot 158:4
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/158:4](https://torahapp.org/share/book/Da%27at%20Tevunot/r/158:4)
 
 
 ותראי שכבר תכלית סיבוב הגלגל הסובב והולך, הלא הוא גילוי היחוד העליון, במה שהרע עצמו ישוב להעיד על יחודו ית', בשוב הרע עצמו לטובה, דהיינו ענין (ישעיהו יב, א), "אודך ה' כי אנפת בי", שפירשתי כבר למעלה. והנה אין דבר זה נעשה אלא בכח ההשפלה הזאת שנשפל מציאותו של האדם, שעל ידי כן הנה הרע שולט בו. וכשהוא מתקן את עצמו ומתעלה, אז מחזיר את הרע לטוב, כי היצר הרע עצמו הוא גורם לו הזכות, ונמצא קלקלתו - תקנתו. כי אם היה תמיד בעילוי, שלא היה הרע שייך בו, גם הוא לא היה מגיע לו תיקון החזרת הרע לטוב, שהוא עיקר שלמות הבריאה:
+
+
+Dönen ve ilerleyen çarkın nihai amacı, üst Birliğin açığa çıkmasıdır; bu da kötülüğün kendisinin O’nun mübarek Birliği’ne tanıklık etmeye dönmesiyle olur. Kötülüğün kendisi iyiliğe döndüğünde, yukarıda açıkladığım “Sana şükredeceğim, Haşem, çünkü bana öfkelendin” ayetinin konusu budur. Bu şey, ancak insanın varlığının bu şekilde alçaltılması gücüyle gerçekleşir; çünkü bu sayede kötülük onda egemen olur. İnsan kendini düzelttiğinde ve yükseldiğinde, kötülüğü iyiliğe geri döndürür; çünkü yetser hara’nın kendisi ona hak kazandıran etken olur. Böylece onun bozulması onun tikun’u olur. Çünkü insan daima yücelik içinde olsaydı ve kötülük ona ait olmasaydı, kötülüğü iyiliğe döndürme tikun’u da ona ulaşmazdı; oysa yaratılışın asıl yetkinliği budur.
 
 
 ###### Da'at Tevunot 158:5
@@ -3808,12 +4141,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 והנה עשה הקב"ה מציאות האדם גדול לפי האמת, אך לא קבע טובו בו שיהיה תמיד ביקרו, אלא עשאו כלבנה זו שהיא אפלה וצריכה לקבל אורה מן השמש, ואז היא מאירה. כך האדם אינו בכוחו מצד עצמו, אלא ישוכלל בכוחו מצד התדבקו בו ית', שיאיר אליו באור פניו, ואז יהיה מושלם:
 
 
+HaKadoş Baruh Hu insanın varlığını hakikatte büyük yaptı; fakat onun iyiliğini, değerinde daima sabit kalacak biçimde içine yerleştirmedi. Onu, karanlık olan ve ışığını güneşten alması gereken ay gibi yaptı; ışığını aldığında aydınlanır. İnsan da kendi başına, kendi gücüyle tamamlanmış değildir; ancak O’na, kutsanmış olsun, bağlanmasıyla kendi gücü bakımından tamamlanır. O, yüzünün ışığıyla insana aydınlık verdiğinde insan tamamlanmış olur.
+
+
 ###### Da'at Tevunot 158:6
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/158:6](https://torahapp.org/share/book/Da%27at%20Tevunot/r/158:6)
 
 
 והנה כל מגמתו ית' בכל סדרי השפעתו היא לעומת כנסת ישראל, שכל הכוונה אליה תמיד, כענין שנאמר (תהלים מ, ו), "נפלאותיך ומחשבותיך אלינו", ועל כן מקבילים הם ודאי סדרי ההשפעה וסדרי מציאותם של ישראל. ובכל סדר שנסדר בהשפעה, נקבע התדבקות לכנסת ישראל בו ית' לפי הסדר ההוא, כפי העילויים המזומנים לה:
+
+
+O’nun mübarek bütün etki düzenlerindeki bütün yönelimi Kneset İsrael’e doğrudur; amaç daima onadır. “Harikaların ve düşüncelerin bize yöneliktir” ayetinde olduğu gibi. Bu nedenle etki düzenleri ile İsrael’in varlık düzenleri kesinlikle birbirine karşılık gelir. Etkide düzenlenen her düzende, o düzene göre ve ona hazırlanmış yükselişler uyarınca, Kneset İsrael için O’na, kutsanmış olsun, bağlanma belirlenir.
 
 
 ###### Da'at Tevunot 158:7
@@ -3824,12 +4163,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 ואמנם צריך שתדעי עיקר גדול בענין העבודה המסורה לאדם, וזה, כי הנה כל הנבראים תלויים בבוראם, ואין להם ענין זולת מה שמושפע בהם ממנו, על כן אינם אדונים בפעולותיהם ומעשיהם, אלא כל מעשיהם בהכרח מצד מה שהם מושפעים ממנו ית'. רק האדם יש לו סגולה זאת פרטית, שיש בידו הבחירה, ויש לו כח לפעול ברצונו בלא הכרח, והוא מה שאמרו ז"ל (ברכות לג ע"ב), "הכל בידי שמים חוץ מיראת שמים". ונמצא, שגם האדם ודאי תלוי בבורא ית' ככל שאר הנבראים, אלא שמצד העבודה ניתן לו מציאות ענין שבו לא יהיה תלוי בבורא ית' כלל, אלא ברצון עצמו; והוא זה שאמרנו, "הכל בידי שמים חוץ מיראת שמים". והנה הנשמות עצמן טרם רדתן לגוף אינן אלא ככל שאר הנבראים - תלויים בבורא ית', לפי שאין להם שם עבודה בבחירה. רק אחר רדתן לגוף אז ניתן להם הבחירה, ואז בדבר זה הן תלויות בעצמן, ולא בבורא ית"ש. אך בכל דבר אחר ודאי שגם האדם תלוי בו לגמרי, וכמו שאמרו, "הכל בידי שמים":
 
 
+İnsana teslim edilmiş çalışma konusunda büyük bir temel bilmen gerekir. Bütün yaratılmışlar Yaratıcılarına bağlıdır; O’ndan kendilerine akıtılandan başka bir konuları yoktur. Bu yüzden kendi fiillerinin ve eylemlerinin efendisi değildirler; bütün eylemleri, O’ndan, kutsanmış olsun, kendilerine akıtılan şey sebebiyle zorunlu olarak gerçekleşir. Yalnızca insanda şu özel özellik vardır: Seçim onun elindedir; zorunluluk olmadan kendi iradesiyle fiil işleme gücüne sahiptir. Bilgelerin z”l söylediği budur: “Her şey Göklerin elindedir, Gök korkusu hariç.” Böylece insanın da diğer bütün yaratılmışlar gibi Yaratıcı’ya, kutsanmış olsun, bağlı olduğu kesinleşir; fakat çalışma açısından ona, Yaratıcı’ya hiç bağlı olmayan, yalnızca kendi iradesine bağlı olan bir konu varlığı verilmiştir. Söylediğimiz söz budur: “Her şey Göklerin elindedir, Gök korkusu hariç.” Neşamaların kendileri bedene inmeden önce diğer bütün yaratılmışlar gibidir; Yaratıcı’ya, kutsanmış olsun, bağlıdırlar, çünkü orada seçimle çalışma yoktur. Ancak bedene indikten sonra onlara seçim verilir. İşte bu konuda kendilerine bağlıdırlar, Yaratıcı’ya, kutsanmış adıyla, bağlı değildirler. Fakat başka her konuda insanın da bütünüyle O’na bağlı olduğu kesindir; söylendiği gibi: “Her şey Göklerin elindedir.”
+
+
 ###### Da'at Tevunot 158:8
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/158:8](https://torahapp.org/share/book/Da%27at%20Tevunot/r/158:8)
 
 
 ותראי כמה כבוד גדול חלק הבורא ב"ה אל הצדיקים שחשבם לשותפים אליו, וכמו שארז"ל (זוהר ח"א, ה ע"א), "עמי אתה" - עימי אתה". כי באמת חלק הניחו להם בתיקונו של עולם ובשכלול הבריאה, וכמו שביארנו לעיל, עד שנמצא תיקון הבריאה, כביכול, מחולק בין הקב"ה והצדיקים, שאינו נשלם אלא בשניהם. והנה, כביכול, כנסת ישראל לבה גס בהקב"ה כאשה לבעלה; וזה מצד היות לה חלק בתיקון העולם עצמו, כמו שביארנו, אשר על כן יש לה פתחון פה לפניו ויכולה להרים ראש, אשר לא "כמאן דאכיל דלאו דיליה דבהית לאסתכולי באפיה" (ירושלמי ערלה פ"א, ה"ג), אלא נהנים מזיו השכינה מתוך שמחה והרמת ראש. מה שאין כן לנשמות טרם בואן בגוף בעולם הזה, כי לא יהיו אלא כעבד דשקיל ואזיל אחרי אדוניו. והנה הם חלק אלוה ממעל. ודאי, ודבוקות בו ית', אך בבושת מקבל הצדקה, כמו שביארנו:
+
+
+Yaratıcı’nın, kutsanmış olsun, tsadiklere ne kadar büyük bir onur payı verdiğini gör: Onları kendisine ortak saymıştır. Bilgelerin z”l söylediği gibi: “Sen benim halkımsın” — “Benimle berabersin.” Çünkü gerçekten onlara dünyanın tikun’unda ve yaratılışın tamamlanmasında bir pay bırakmıştır; yukarıda açıkladığımız gibi. Öyle ki yaratılışın tikun’u, ifade yerindeyse, HaKadoş Baruh Hu ile tsadikler arasında bölünmüş gibidir; yalnızca ikisiyle birlikte tamamlanır. İşte bu açıdan, ifade yerindeyse, Kneset İsrael’in HaKadoş Baruh Hu karşısında kalbi, kadının kocasına karşı rahatlığı gibidir. Bunun sebebi, yukarıda açıkladığımız gibi, dünyanın tikun’unda bizzat bir payının bulunmasıdır. Bu nedenle O’nun huzurunda söz hakkı vardır ve başını kaldırabilir; “kendisine ait olmayanı yiyen ve onun yüzüne bakmaktan utanan kimse” gibi değildir. Aksine, Şekina’nın ışıltısından sevinç ve baş kaldırma içinde yararlanırlar. Bu, bu dünyada bedene gelmeden önceki neşamalar için böyle değildir; onlar efendisinin ardından alıp giden kul gibidirler. Onlar kesinlikle yukarıdan Tanrısal bir paydır ve O’na, kutsanmış olsun, bağlıdırlar; fakat açıkladığımız gibi, sadaka alan kimsenin utancıyla bağlıdırlar.
 
 
 ###### Da'at Tevunot 158:9
@@ -3840,6 +4185,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 ומשל נאה המשיל לענין זה הרשב"י זלה"ה, בענין ההתפלל אליו ית'. אמר, שיש מי שהוא כעבד שאינו כל כך חביב לפני המלך, שמאחרי המלך ישא את קולו להתחנן לפניו על דבר מה, והמלך יגזור אומר ויתנו שאלתו, אך לא יסב המלך את פניו אליו ולא יביט בו. ויש עבד שהוא חביב על המלך, ויקבלהו המלך בסבר פנים יפות, ויחזיר פניו אליו, וידבר עמו כל הצורך. הוא הענין האמור במשה וישראל (דברים ה, ד), "פנים בפנים דבר ה'" וגו'; (שמות לג, יא), "ודבר ה' אל משה פנים אל פנים, כאשר ידבר איש אל רעהו"; וכענין הברכה בברכת כהנים (במדבר ו, כה), "יאר ה' פניו אליך"; ובמקום אחר אומר (שמות לג, כג), "וראית את אחורי ופני לא יראו". וכל זה ענין טבעי הוא, ששני ריעים הפונים באהבה זה אל זה מחזירים פניהם זה לזה, וזה מראה הקירוב ביניהם; ושנים שהם מתרחקים - זה הופך פניו לכאן וזה הופך פניו לכאן; כי הפנים מראים תמיד הפניה, והחזרת העורף יראה הריחוק. וכל הדרכים ייוחסו אל ההתדבקות של התחתונים באדון ב"ה, שבהיותם מתוקנים במעלה הראויה להם, הנה יהיו מתדבקים עם האדון ב"ה בהתדבקות גדול וחיבור של אהבה ממש, כביכול, כשני ריעים המחזירים פניהם זה לעומת זה. אך בלא מעלתם זאת, וטרם היותם מוכנים, הנה יהיו נשואים ונסבלים ממנו ודאי, וכמו שביארנו, שעל כל פנים, הנשמות חלק אלוה ממעל הן, ומתאחזות בו תמיד מצד היותו שרשן ומקורן, אך לא בלב גס והרמת ראש, אלא כשנים ההופכים פניהם זה לכאן וזה לכאן, שמראה זה על הריחוק, שכל אחד פונה לעצמו לבד ולא לחבירו, והם נשואים ממנו רק כדבר שאינו כל כך חביב. וכן הם אין להם פנים לפנות ולהביט אליו, והוא אינו מחזיר פניו אליהם. אך כשנתקנו, אז יביטו זה לזה באהבה, כענין שנאמר (שיר השירים ב, יד), "הראיני את מראיך וגו' ומראיך נאוה":
 
 
+Raşbi z”l bu konuda, O’na, kutsanmış olsun, dua etmek hakkında güzel bir benzetme yapmıştır. Dedi ki: Krala o kadar sevgili olmayan bir kul vardır; kralın arkasından sesini yükseltip bir konuda ona yalvarır. Kral bir söz hükmeder ve isteği verilir; fakat kral yüzünü ona çevirmez ve ona bakmaz. Bir de krala sevgili olan kul vardır; kral onu güler yüzle kabul eder, yüzünü ona çevirir ve onunla gereken her şeyi konuşur. Moşe ve İsrael hakkında söylenen konu budur: “Haşem sizinle yüz yüze konuştu”; “Haşem Moşe ile yüz yüze konuşurdu, insanın arkadaşıyla konuştuğu gibi.” Kohenlerin bereketindeki “Haşem yüzünü sana aydınlatsın” ifadesi de böyledir. Başka bir yerde ise şöyle denir: “Arkamı göreceksin, fakat yüzüm görülmeyecek.” Bütün bunlar doğal bir konudur: Sevgiyle birbirine yönelen iki dost yüzlerini birbirlerine çevirir; bu, aralarındaki yakınlığı gösterir. Birbirinden uzaklaşan iki kişi ise biri yüzünü bir tarafa, diğeri başka tarafa çevirir. Çünkü yüz daima yönelişi gösterir; sırtın çevrilmesi ise uzaklığı gösterir. Bütün bu yollar, aşağıdakilerin Rabbe, kutsanmış olsun, bağlanmasına nispet edilir. Onlar kendilerine uygun dereceyle düzeltilmiş olduklarında, Rabbe, kutsanmış olsun, büyük bir bağlanmayla ve gerçek bir sevgi birleşmesiyle bağlanırlar; ifade yerindeyse, yüzlerini birbirine çeviren iki dost gibi. Fakat bu dereceleri olmadan ve hazır hale gelmeden önce, kesinlikle O’nun tarafından taşınır ve dayanırlar; açıkladığımız gibi. Çünkü neşamalar her durumda yukarıdan Tanrısal bir paydır ve O onların kökü ve kaynağı olduğu için daima O’na tutunurlar. Fakat bu, kalp rahatlığı ve baş kaldırma ile değil; biri yüzünü bir yana, diğeri başka yana çeviren iki kişi gibi olur. Bu, uzaklığı gösterir; her biri yalnızca kendi yönüne döner, arkadaşına değil. Onlar O’nun tarafından ancak çok sevgili olmayan bir şey gibi taşınırlar. Aynı şekilde onların da O’na dönüp bakacak yüzleri yoktur; O da yüzünü onlara çevirmez. Fakat düzeldiklerinde, o zaman birbirlerine sevgiyle bakarlar; “Yüzünü bana göster... yüzün güzeldir” ayetinde olduğu gibi.
+
+
 ###### Da'at Tevunot 158:10
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/158:10](https://torahapp.org/share/book/Da%27at%20Tevunot/r/158:10)
@@ -3848,12 +4196,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 והנה ממוצא דבר תביני, שאף על פי שאין גוף וגויה למעלה ודאי, אמנם יהיו מיני השגחה והשפעה שיקראו בדרך המשל, פנים; ומיני השגחה הנקראים, אחור, וכדברי הכתוב אשר לפנינו, "וראית את אחורי ופני לא יראו". וזה פשוט, שמיני ההשפעה הנקראים פנים, יהיה ענינם כחוק הפנים אשר לאדם, שמראים קירוב ואהבה; ואחור - מיני השגחה והשפעה ענינם כחוק האחור באדם המראה על הריחוק. ובאלה השתי מידות נבחין הקירוב או הריחוק בין ישראל ובינו ית':
 
 
+Bu sözlerden şunu anlayacaksın: Yukarıda kesinlikle beden ve gövde yoktur. Bununla birlikte benzetme yoluyla “yüz” denilen gözetim ve etki türleri, bir de “arka” denilen gözetim türleri vardır; önümüzdeki ayetin “Arkamı göreceksin, fakat yüzüm görülmeyecek” demesi gibi. Bu açıktır: “Yüz” diye adlandırılan etki türlerinin konusu, insanın yüzünün yasası gibi olacaktır; yakınlık ve sevgiyi gösterir. “Arka” ise, insanda uzaklığı gösteren arkanın yasası gibi, gözetim ve etki türleridir. Bu iki nitelikte İsrael ile O’nun, kutsanmış olsun, arasındaki yakınlık veya uzaklığı ayırt ederiz.
+
+
 ###### Da'at Tevunot 158:11
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/158:11](https://torahapp.org/share/book/Da%27at%20Tevunot/r/158:11)
 
 
-[ומה שיש לנו לדעת עוד, שאף על פי שישראל כבר מוכנים הם מצד עצמם להיות לעבודתו ית', וגם הם פועלים בעצמם שלא בהכרח כלל, כמו שביארנו, אמנם כח העבודה עצמה אינו ניתן להם אלא מידו ית', וזה מה שנתן להם בשעת מתן תורה, ומה שמקיים ומחדש לכל אחד ואחד תמיד. ותראי שזהו ענין ההפרש שבין המצווה ועושה למי שאינו מצווה ועושה, כי האדם המצווה יש כח בידו, מסור ממנו ית', שיתקן במעשיו התיקונים המצטרכים בבריאה, מה שאינו כן שאינו מצווה. וראיה לדבר, הכהונה, שהכהן העובד. מתקן כל העולם, וור שעבד - חילל, וחייב מיתה; ולא עוד, אלא שהכהן עצמו שעבד בלא בגדים הרי הוא כזר; כי הכל תלוי בכח העליון, הורמנא דמלכא, שביד המצווה לבדו. אמנם לא ינתן הכח הזה אלא למי שהוא מוכן מצד עצמו לקבלו, כי לא ינתן לא לבהמות וגם לא למלאכים, אלא לבני ישראל שכבר הוכנו לזה מתחילה:
+[ומה שיש לנו לדעת עוד, שאף על פי שישראל כבר מוכנים הם מצד עצמם להיות לעבודתו ית', וגם הם פועלים בעצמם שלא בהכרח כלל, כמו שביארנו, אמנם כח העבודה עצמה אינו ניתן להם אלא מידו ית', וזה מה שנתן להם בשעת מתן תורה, ומה שמקיים ומחדש לכל אחד ואחד תמיד. ותראי שזהו ענין ההפרש שבין המצווה ועושה למי שאינו מצווה ועושה, כי האדם המצווה יש כח בידו, מסור ממנו ית', שיתקן במעשיו התיקונים המצטרכים בבריאה, מה שאינו כן שאינו מצווה. וראיה לדבר, הכהונה, שהכהן העובד. מתקן כל העולם, וזר שעבד - חילל, וחייב מיתה; ולא עוד, אלא שהכהן עצמו שעבד בלא בגדים הרי הוא כזר; כי הכל תלוי בכח העליון, הורמנא דמלכא, שביד המצווה לבדו. אמנם לא ינתן הכח הזה אלא למי שהוא מוכן מצד עצמו לקבלו, כי לא ינתן לא לבהמות וגם לא למלאכים, אלא לבני ישראל שכבר הוכנו לזה מתחילה:
+
+
+Bilmemiz gereken bir şey daha var: İsrael, kendileri bakımından O’nun mübarek çalışmasına hazır olsalar ve açıkladığımız gibi hiçbir zorunluluk olmadan kendileri fiil işleseler de, çalışmanın gücü onlara ancak O’nun elinden verilir. Bu, Tora’nın verilişi sırasında onlara verdiği şeydir; ayrıca her bir kişi için bunu daima ayakta tutar ve yeniler. Gör ki, emredilmiş olup yapan kişi ile emredilmemiş olup yapan kişi arasındaki fark budur. Çünkü emredilmiş insanın elinde, O’ndan, kutsanmış olsun, teslim edilmiş bir güç vardır; bu güçle eylemleri aracılığıyla yaratılışta gerekli tikun’ları yapar. Emredilmemiş kişi için böyle değildir. Bunun kanıtı kohenliktir: Hizmet eden kohen bütün dünyayı düzeltir; fakat hizmet eden kohen olmayan kişi onu bozar ve ölümle yükümlü olur. Dahası, kohenin kendisi bile giysiler olmadan hizmet ederse kohen olmayan kişi gibidir. Çünkü her şey üst güce, kralın yetkisine bağlıdır; bu yetki yalnızca emredilmiş kişinin elindedir. Fakat bu güç, kendisi bakımından onu almaya hazır olan kişiden başkasına verilmez. Ne hayvanlara ne de meleklere verilir; yalnızca başlangıçtan beri buna hazırlanmış olan Bene İsrael’e verilir.
 
 
 ###### Da'at Tevunot 158:12
@@ -3864,12 +4218,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 ותראי כי זה מה שעשה האדון ב"ה לישראל בהר סיני, שהנה לא נתן להם שם התורה כולה במעמד ההוא, אבל היתה הכנה כוללת לכל עבודת המצוות, כי אז השלים להם תחילה כל העיטורים והמעלות הראויים לאדם העשוי לעבוד את יוצרו, שבתחילה נשפל מעלתו להיות עלול ליצר הרע, כמו שביארנו, ואז נמשל כבהמות נדמה. ובבואם אל הר סיני, נתן להם האדון ב"ה כל היקר המגיע להם להשתלם במציאותם, להיות להם כח להיות משרתים אותו. ואז קירבם אליו באהבה, שהוא ענין (הגדה של פסח), "קרבנו לפני הר סיני", וכך מה שאנו אומרים בכל יום, "וקרבתנו לשמך הגדול" וגו', והדביקנו אליו באהבתו, ואז נתן להם תחילה הכח לשמור כל מצוותיו, ושמעשיהם בעבודתו יעשו הפרי הטוב המצטרך לתיקון הבריאה, והוא מה שכתוב (שמות יט, ו), "ואתם תהיו לי ממלכת כהנים וגוי קדוש". ומשם והלאה נשארו ישראל מובדלים מן העמים, ומעוטרים בכח עליון לשמור כל המצוות, לתקן בהם כל הבריאה כולה, וכמו שביארנו. ומתחדש דבר וה תמיד, שאינו נפסק מישראל, אלא כענין שנאמר (דברים כז, ט), "היום הזה נהיית לעם" וגו' - שחייב אדם לראות את עצמו כאילו מקבל תורה מהר סיני (פסיקתא זוטא פ' ואתחנן), כי כל השבח הזה מתחדש לישראל דבר יום ביומו, ודבר בעתו:
 
 
+Rabbin, kutsanmış olsun, Sinay Dağı’nda İsrael’e yaptığı şey işte budur. O makamda onlara Tora’nın tamamını vermedi; fakat bütün mitsva çalışması için genel bir hazırlık verdi. Çünkü önce, Yaratıcısına hizmet etmek üzere yapılmış insana uygun bütün süsleri ve bütün dereceleri onlarda tamamladı. Başlangıçta insanın derecesi, açıkladığımız gibi, yetser hara’ya yatkın olacak biçimde alçaltılmıştı; o zaman “hayvanlara benzer” hale gelir. Sinay Dağı’na geldiklerinde ise Rab, kutsanmış olsun, varlıklarında tamamlanmaları için onlara ulaşması gereken bütün değeri verdi; O’na hizmet edenler olma gücünü verdi. O zaman onları sevgiyle kendisine yaklaştırdı; Pesah Hagadası’nda “bizi Sinay Dağı’nın önüne yaklaştırdı” denilen konu budur. Her gün söylediğimiz “bizi büyük adına yaklaştırdın” sözü de böyledir. Onları sevgisiyle kendisine bağladı. Sonra onlara önce bütün mitsvalarını koruma gücünü verdi; böylece O’na hizmetteki eylemleri, yaratılışın tikun’u için gerekli iyi ürünü doğuracaktı. Yazılmış olan budur: “Siz Bana bir kohenler krallığı ve kutsal bir ulus olacaksınız.” O andan itibaren İsrael halklardan ayrılmış olarak kaldı; bütün mitsvaları korumak ve onlarla bütün yaratılışı düzeltmek için üst güçle süslendi. Bunu açıkladık. Bu şey daima yenilenir; İsrael’den kesilmez. “Bugün Haşem’in halkı oldun” ayetindeki konu gibidir: İnsan kendisini sanki Sinay Dağı’ndan Tora alıyormuş gibi görmelidir. Çünkü bütün bu övgü İsrael için günden güne ve her şey kendi vaktinde yenilenir.
+
+
 ###### Da'at Tevunot 158:13
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/158:13](https://torahapp.org/share/book/Da%27at%20Tevunot/r/158:13)
 
 
 ונבאר עתה מציאות השותפות שהזכרנו בין הצדיקים והקב"ה בתיקון הבריאה. וזה, כי הנה המציא האדון ב"ה מציאות החושך המוטבע בתחתונים שבו תלוי מציאות הרע, וגם העברתו והחזרתו לטובה, וכמו שביארנו, והנה הוא ית"ש משפיע לתחתונים רק כפי הכנתם, על כן נוגע לצדיקים להיות הם הולכים ומתקנים מעט מעט את הטבע החשוך הזה, שהרי כפי מה שהם יתקנו בה - כך ישפיע האדון ב"ה השפעות חדשות ומעולות, לערך ההכנה והתיקון הנעשה בטבע התחתונים. על כן הצדיקים מקריבים לפני האדון ב"ה מציאות הכנה חדשה ותיקון חדש בטבע החשוך שזכרנו, והקב"ה יענם בהשפעה מעולה לפי ערך ההכנה ההיא. וראוי לצדיקים להרבות במציאות התחתונים הכנה על הכנה ותיקון על תיקון, ולעומתם ישפיע האדון ב"ה השפעה על השפעה בתוספת עילוי על עילוי:
+
+
+Şimdi tsadikler ile HaKadoş Baruh Hu arasında yaratılışın tikun’unda andığımız ortaklığın varlığını açıklayalım. Rab, kutsanmış olsun, aşağıdakilere yerleşmiş olan karanlığın varlığını meydana getirdi; kötülüğün varlığı da ona bağlıdır, onun giderilmesi ve iyiliğe döndürülmesi de. Bunu açıklamıştık. O, kutsanmış adıyla, aşağıdakilere ancak onların hazırlığı ölçüsünde etki akıtır. Bu nedenle tsadiklerin görevi, bu karanlık tabiatı yavaş yavaş gidip düzeltmektir. Çünkü onlar onda ne kadar tikun yaparlarsa, Rab, kutsanmış olsun, aşağıdakilerin tabiatında yapılan hazırlık ve tikun ölçüsünde yeni ve üstün etkiler akıtacaktır. Bu yüzden tsadikler Rabbin, kutsanmış olsun, huzuruna andığımız karanlık tabiatta yeni bir hazırlık varlığı ve yeni bir tikun sunarlar; HaKadoş Baruh Hu da o hazırlığın değerine göre onlara üstün bir etkiyle cevap verir. Tsadiklerin aşağıdakilerin varlığında hazırlık üzerine hazırlık, tikun üzerine tikun çoğaltmaları uygundur; buna karşılık Rab, kutsanmış olsun, yükseliş üzerine yükseliş ekleyerek etki üzerine etki akıtır.
 
 
 ###### Da'at Tevunot 158:14
@@ -3880,6 +4240,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 והנה אחר חטאו של אדם ירד העולם ירידה רבה, וכמו שביארנו, ונוסף חסרון על חסרון במציאות התחתונים. על כן מה שצריך עתה הוא לתקן החסרונות הנוספים תחילה. ודבר זה הולך ונעשה עד זמן הגאולה, כי זאת היא הכוונה התכליתית בגלויות לתקן מה שנתקלקל, ולהרויח מה שחסרנו, כדי להשיג אחר כך הטוב שיבואנו אחר כך, כמו שהיה ראוי לבוא לאדם הראשון אילו לא חטא, וכמו שביארנו לעיל. ובהשתלם ענין זה - אז ניגאל גאולה שלמה. ונמצא, שאנו צריכים להרחיק הרע מן הגבול שנרחב לו אחר החטא כמו שביארנוג ולהשיב את הטובות שאבדנו. וכפי מה שמתחדש תמיד מענין זה ממעשי הצדיקים בהכנת התחתונים - כך האדון ב"ה משפיע להם:
 
 
+Adam’ın günahından sonra dünya büyük bir düşüşle düştü; bunu açıklamıştık. Aşağıdakilerin varlığına eksiklik üzerine eksiklik eklendi. Bu yüzden şimdi öncelikle düzeltilmesi gereken şey, eklenen eksiklikleri düzeltmektir. Bu şey kurtuluş zamanına kadar giderek yapılır. Çünkü sürgünlerin nihai amacı, bozulan şeyi düzeltmek ve eksik bıraktığımız şeyi yeniden kazanmaktır; böylece daha sonra bize gelecek iyiliğe ulaşabilelim. Bu, Adam HaRişon günah işlememiş olsaydı ona gelmesi gereken iyilikti; yukarıda açıkladığımız gibi. Bu konu tamamlandığında, o zaman tam kurtuluşla kurtulacağız. Böylece, günah sonrasında genişlemiş olan sınırından kötülüğü uzaklaştırmamız ve kaybettiğimiz iyilikleri geri getirmemiz gerektiği anlaşılır. Tsadiklerin eylemleriyle aşağıdakilerin hazırlanması konusunda bundan ne kadar yenilik doğarsa, Rab, kutsanmış olsun, onlara o ölçüde etki akıtır.
+
+
 ###### Da'at Tevunot 158:15
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/158:15](https://torahapp.org/share/book/Da%27at%20Tevunot/r/158:15)
@@ -3888,12 +4251,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 והנה הקב"ה מחלק מעצם הנהגתו לכנסת ישראל, להיותה. שותפת עמו בהשלמת הבריאה, שיהיה הוא ית' מתקן מצד אחד, והיא מצד אחר, ומיניה ומינה יסתיים התיקון השלם. ובבחינה זאת אמרו ז"ל במדרש (שהש"ר ה, ב; וילק"ש שם), "יונתי תמתי" - תאומתי". ומצינו בכתוב ענין התחבר ההשפעה והקבלה להשלמת הנמצאות, שאמר (ישעיהו מח, יג), "אף ידי יסדה ארץ, וימיני טפחה שמים, קורא אני אליהם יעמדו יחד", שהשמים משפיעים והארץ מקבלת, ואף על פי כן שניהם שקולים. זה כזה, מצד השתלם המציאות מבין שניהם. על כן. אמרו במדרש הנ"ל (ילק"ש שם), "ואף על פי כן לא אני גדול ממנה, ולא היא גדולה ממני". ואמנם יחס עניני ההשפעה לימין, לפי שהיא השולטת, והצורך והקבלה לשמאל, שהיא השפלה מן הימין:
 
 
+HaKadoş Baruh Hu, Kneset İsrael’i yaratılışın tamamlanmasında kendisiyle ortak kılmak için kendi yönetiminin özünden ona pay verir: O, kutsanmış olsun, bir yandan düzeltir; Kneset İsrael de diğer yandan düzeltir. Tam tikun ikisinin birlikte yaptığı işle tamamlanır. Bu açıdan bilgeler z”l midraşta “Benim güvercinim, Benim tam olanım” ifadesini “Benim ikizim” diye yorumlamışlardır. Yazıda, var olanların tamamlanması için etki ile almanın birleşmesi konusunu buluruz. Şöyle denmiştir: “Elim yeri kurdu, sağ elim gökleri yaydı; onlara seslendiğimde birlikte dururlar.” Gökler etki eder, yer alır; buna rağmen ikisi de tartıda denktir. Çünkü varlığın tamamlanması ikisinin arasından gerçekleşir. Bu yüzden aynı midraşta şöyle demişlerdir: “Buna rağmen ben ondan büyük değilim, o da benden büyük değildir.” Etki konularının sağa nispet edilmesi, onun egemen olması sebebiyledir; ihtiyaç ve alma ise sola nispet edilir, çünkü sol sağdan daha aşağıdır.
+
+
 ###### Da'at Tevunot 158:16
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/158:16](https://torahapp.org/share/book/Da%27at%20Tevunot/r/158:16)
 
 
 והנה שמעת כבר איך כל עניני התחתונים תלויים הם במאמר, ועל כן שורש כל הענינים האלה הוא מציאות כח עליון המחזיקם בכל מצביהם. ועניני הכח הזה משתוים ומתיחסים עם עניני השפעותיו ית' בכל סידוריהם, וכמו שביארתי לך למעלה בביאור הפסוק (שמות לג, כג), "וראית את אחורי ופני לא יראו", כי מיני השפעות הם שבהם ישוער הקירוב או הריחוק בין ישראל לאביהם שבשמים, ולפי התיחס והשתוות כח התחתונים עם מיני השפעותיו ית', יתחלף מצב התחתונים בכל עניניהם, שכבר הודעתיך איך כולם קשר אחד, ענפי נוף אחד לבד:
+
+
+Zaten işittin ki aşağıdakilere ait bütün konular söze bağlıdır. Bu nedenle bütün bu konuların kökü, onları bütün durumlarında ayakta tutan üst bir gücün varlığıdır. Bu gücün konuları, O’nun mübarek etkilerinin bütün düzenleriyle eşleşir ve onlara karşılık gelir. Bunu sana yukarıda “Arkamı göreceksin, fakat yüzüm görülmeyecek” ayetinin açıklamasında anlatmıştım. Çünkü İsrael ile Göklerdeki Babaları arasındaki yakınlık veya uzaklığın ölçüldüğü şey etki türleridir. Aşağıdakilerin gücü, O’nun mübarek etki türleriyle nasıl ilişki kurar ve onlara nasıl uyarsa, aşağıdakilerin durumu da bütün konularında ona göre değişir. Sana zaten bildirmiştim: hepsi tek bir bağdır, tek bir gövdenin dallarıdır.
 
 
 
@@ -3907,6 +4276,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמרה הנשמה – ודאי טעמא דמסתבר הוא זה, שבמהות התחתונים המתחלף ממצב למצב יהיו דברים בגו, והיינו איזה מקור שמתחלף, שלפי שנותו את טעמו ישתנו התולדות הנראות בתחתונים, וישתוה התחלפו להתחלף מיני ההשפעה:
 
 
+Nefeş şöyle dedi: Bu gerçekten akla uygun bir sebeptir. Aşağıdakilerin bir durumdan başka bir duruma değişen özünde içsel bir şeyler bulunmalıdır; yani değişen bir kaynak vardır. O kaynak kendi tadını değiştirdikçe, aşağıdakilerde görünen sonuçlar da değişir; onun değişmesi, etki türlerinin değişmesine uygun olur.
+
+
 
 ## Chapter 160
 
@@ -3918,12 +4290,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמר השכל – עוד יש לנו מקום הבחנה במה שבין הכח הזה לתחתונים עצמם; פירוש, כי הנה האדם בנוי מגוף ונשמה, וידענו שכל תנועות הגוף נולדות מן הנשמה. אמנם יש לנו לדעת גם כן איך מתישבת הנשמה בגוף עצמו, ואיך פועלת בו להוליד התנועות ההם בגוף, כך יש לנו עוד לדעת עניני הכח של התחתונים עם התחתונים עצמם:
 
 
+Akıl şöyle dedi: Bu güç ile aşağıdakilerin kendileri arasındaki farkta da ayırt edilecek bir yer vardır. Açıklaması şudur: İnsan beden ve neşamadan kuruludur. Bedenin bütün hareketlerinin neşamadan doğduğunu biliyoruz. Fakat neşamanın bedenin içinde nasıl yerleştiğini ve onda nasıl fiil işleyip o hareketleri bedende doğurduğunu da bilmemiz gerekir. Aynı şekilde, aşağıdakilerin gücünün aşağıdakilerin kendileriyle ilişkisine dair konuları da ayrıca bilmemiz gerekir.
+
+
 ###### Da'at Tevunot 160:2
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/160:2](https://torahapp.org/share/book/Da%27at%20Tevunot/r/160:2)
 
 
 ואודיעך ענין עמוק בזה, והוא, כי הכבוד העליון הוא השורה בכל מקום, והוא המחיה את כל הנמצאות, והעיד הכתוב (נחמיה ט, ו), "ואתה מחיה את כולם", ועל כן נאמר (ישעיהו ו, ג), "מלא כל הארץ כבודו". ואמנם, העוונות של בני האדם מרחיקים הכבוד מן התחתונים, והוא ענין שנאמר(ישעיהו נט, ב) "כי אם עונותיכם היו מבדילים ביניכם לבין אלוקיכם". ולהפך, הזכיות משכינים הכבוד בתחתונים, והוא ענין (שמות כה, ח) "ושכנתי בתוכם". והנה, הכבוד עצמו מתעלה ומתרומם בהיותו שוכן בתחתונים. וכבר אמרו ז"ל (יומא לח. וסוף פרקי אבות), "כל מה שברא הקב"ה בעולמו לא בראו אלא לכבודו". ובגלות נאמר (איכה א, י), "וילכו בלא כח לפני רודף", לפי שהיה הכח העליון רחוק מהם, וכענין (במדבר יד, ט)"סר צלם מעליהם". ובהגאל ישראל נאמר (ישעיהו ס, א), "וכבוד ה' עליך זרח", ואז הכבוד עצמו יתרומם, וזה פשוט:
+
+
+Sana bu konuda derin bir ilke bildireyim: Üst Kavod her yerde bulunan varlıktır; bütün varlıkları yaşatan da O’dur. Nitekim ayet şöyle tanıklık eder: “Sen onların hepsini yaşatırsın” (Nehemya 9:6). Bu yüzden “Bütün yeryüzü O’nun kavod’u ile doludur” (Yeşayahu 6:3) denmiştir. Fakat insanların günahları, kavod’u aşağıdakilerden uzaklaştırır. Bu, “Sizin günahlarınız sizinle Tanrınız arasında ayırıcı oldu” (Yeşayahu 59:2) ayetinin anlamıdır. Bunun tersine, hak edilmiş iyi eylemler kavod’u aşağıdakilerde yerleştirir. Bu da “Onların içinde barınacağım” (Şemot 25:8) ayetinin anlamıdır. İşte kavod’un kendisi, aşağıdakilerde barındığı zaman yükselir ve yücelir. Bilgelerimiz z”l şöyle demiştir: “HaKadoş Baruh Hu dünyasında yarattığı her şeyi ancak kendi kavod’u için yarattı.” Sürgün için “Takip edenin önünde güçsüz yürüdüler” (Eha 1:6) denmiştir; çünkü üst güç onlardan uzaklaşmıştı. Bu, “Gölgesi onların üzerinden çekildi” (Bamidbar 14:9) ifadesindeki gibidir. İsrael kurtarıldığında ise “Haşem’in kavod’u senin üzerine doğdu” (Yeşayahu 60:1) denir. O zaman kavod’un kendisi yükselir. Bu açıktır.
 
 
 ###### Da'at Tevunot 160:3
@@ -3934,12 +4312,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 ותדעי שענין זה מצטרך מאוד לענין המלאכים ופעולותיהם, כי הנה רצה האדון ב"ה לעשות מעשיו על ידי משרתים, הלא הם מלאכיו הקדושים; ועל כן רצה ושיכן שכינתו על המלאכים האלה, הם הם שלוחיו המוציאים כל גזירותיו לפועל; ואדנותו בהם תמיד כמו שאמרו ז"ל (יל"ש ח"ב, תשצז) "ה' בם" - אדנותו בהם". ואמרו (תנחומא משפטים יח) "שמו של הקב"ה משותף עם כל מלאך ומלאך". והנה, זה הכבוד עומד על כל הצבאות, ומתדבק עליהם תמיד, אך בערך המלאך וחשיבותו, כי גם בהם נמנו המדרגות איש לפי ערכו:
 
 
+Şunu da bilmelisin: Bu konu, melekler ve onların işleyişleri bakımından çok gereklidir. Çünkü Efendi, mübarek olsun, işlerini hizmetkarlar aracılığıyla yapmayı diledi; bunlar O’nun kutsal melekleridir. Bu yüzden Şekina’sını bu meleklerin üzerine yerleştirmeyi diledi. Onlar, O’nun bütün hükümlerini fiile çıkaran elçileridir. O’nun efendiliği onların üzerindedir; bilgelerimizin “Haşem onların içindedir” ifadesi hakkında söylediği gibi: “O’nun efendiliği onların içindedir.” Yine şöyle demişlerdir: “HaKadoş Baruh Hu’nun adı her bir meleğe ortak edilmiştir.” İşte bu kavod bütün orduların üzerinde durur ve onlara sürekli bağlı kalır; fakat her meleğin değeri ve önemi ölçüsünde. Çünkü onların arasında da dereceler sayılmıştır; her biri kendi değerine göredir.
+
+
 ###### Da'at Tevunot 160:4
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/160:4](https://torahapp.org/share/book/Da%27at%20Tevunot/r/160:4)
 
 
 ותדעי עוד, שאף על פי שהכבוד בכל מקום, אמנם מתגלה במקום אחד יותר ממקום אחר, והוא מקום מיוחד לו ששם ידרשוהו הרוצים לידבק בו, והוא ענין (דברים יב, ה), "לשכנו תדרשו ובאת שמה", וכתיב (שמות לד, כג), "יראה כל זכורך את פני האדון ה' אלהי ישראל". וכמה סדרים ומערכות יצטרכו לענין זה בהדרגה רבה, עד שיגיע לידבק בקדושתו זאת ית'. ועל ענין זה עומד כל תבנית המשכן והמקדש, מקום לפנים ממקום, עד לפני ולפנים ששם הכבוד שורה לידרש ולימצא למבקשים להידבק בו. וכן יש מקדש למעלה מכוון למקדש של מטה (תנחומא ופס"ז משפטים יח). והנה כל צבא מעלה מעלים שבחו של הכבוד הזה, ואומרים (ישעיהו ו, ג), "מלא כל הארץ כבודו", (יחזקאל ב, יב), "ברוך כבוד ה' ממקומו", כי הוא לבדו כח כל הנמצאים, כמו שביארנו. וכן נאמר (תהלים קד, לא) "יהי כבוד ה' לעולם ישמח ה' במעשיו", כי הכבוד מתעלה משבח מעשיו ית'. ולכך ארז"ל (חולין ס ע"א), "פסוק זה - שר העולם אמרו":
+
+
+Şunu da bilmelisin: Kavod her yerde olsa da, bir yerde başka bir yere göre daha fazla açığa çıkar. Bu, O’na bağlanmak isteyenlerin O’nu arayacağı özel yerdir. “O’nun barınağını arayacak ve oraya geleceksiniz” (Devarim 12:5) ayetinin anlamı budur. Ayrıca “Bütün erkeklerin Efendi Haşem’in, İsrael’in Tanrısı’nın yüzünü görünecektir” (Şemot 34:23) diye yazılmıştır. Bu bağlanmaya, yani O’nun kutsallığına bağlanmaya varıncaya kadar çok büyük bir derecelenme içinde birçok düzen ve sistem gerekir. Mişkan’ın ve Bet HaMikdaş’ın bütün yapısı da bunun üzerinde durur: yerin içinden daha iç yere, en iç bölüme kadar; orada kavod barınır, O’nu arayanlar ve O’na bağlanmak isteyenler tarafından aranıp bulunur. Aşağıdaki Bet HaMikdaş’a karşılık gelen yukarıda bir Bet HaMikdaş da vardır. Bütün üst ordu bu kavod’un övgüsünü yükseltir ve “Bütün yeryüzü O’nun kavod’u ile doludur” (Yeşayahu 6:3), “Haşem’in kavod’u kendi yerinden bereketlidir” (Yehezkel 3:12) der; çünkü açıkladığımız gibi, bütün varlıkların tek gücü O’dur. Yine “Haşem’in kavod’u sonsuza dek olsun; Haşem kendi işlerinde sevinsin” (Tehilim 104:31) denir; çünkü kavod, O’nun işlerinin övgüsüyle yükselir. Bu yüzden bilgelerimiz z”l şöyle demiştir: “Bu ayeti dünyanın meleği söyledi.”
 
 
 ###### Da'at Tevunot 160:5
@@ -3950,12 +4334,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 ואמנם עילויו של הכבוד נעשה מכח כל הנמצאות כולם למיניהם, כל אחד לפי הפעולה המיוחדת לו. וזאת היתה כוונתו של הכהן בעשותו עבודת הקרבנות, בפרט בקרבן התמיד, שנאמר בו (במדבר כח, ב) "את קרבני לחמי", שהוא מה שמקריבים לפניו ית' בכל יום ויום לתועלת כל הנמצאות כולם; והיה מכוון בו להעלות כבודו של מקום ב"ה מקיבוץ כל המינים שבנמצאות, כל אחד לפי מה שנוגע לו. וזאת היתה חכמה גדולה שהיו הכהנים צריכים להתחכם בה, להיות נגשים אל ה' ית' בעד כל ישראל, ושתהיה עבודתם רצויה באמת. ועל כן נאמר (מלאכי ב, ז), "כי שפתי כהן ישמרו דעת ותורה יבקשו מפיהו" וגו'. והיו מכוונים לקשר כל הנבראים בבורא, ויודעים מה שצריך להשלמת ענין זה, ומכוונים בכל הפרטים המצטרכים, שהם סדרי העבודה בכל עניני הקרבן, וכזריקת הדם, וכהקטרת הקטורת, כולם עשויים לסתרים עמוקים להשלמת כל הנמצאות בהדבקם בבורא ית"ש. וביאור זה הדבר מרחיק והולך מאוד, אך אין כאן מקומו. ואמנם הכוונה הכללית הוא לקשר כל הנמצאים, התחתונים והעליונים שעל גביהם, כולם בכבוד העליון, שנאמר בו (ירמיהו כג, כד) "הלא את השמים ואת הארץ אני מלא", וזה באותם הסדרים המתוקנים לזה. וזה בבחינת עבדים המתקבצים תחת צל אדוניהם.
 
 
+Kavod’un yükselişi, bütün varlık türlerinin gücüyle olur; her biri kendine özgü işleyişine göre katkıda bulunur. Kurban ibadetini yaparken kohen’in niyeti de buydu; özellikle sürekli kurbanda. Onun hakkında “Kurbanımı, ekmeğimi” (Bamidbar 28:2) denmiştir; bu, bütün varlıkların yararı için her gün O’nun önünde sunulan şeydir. Kohen, varlık türlerinin bütününden, her birinin kendisiyle ilgili yönü ölçüsünde, Makom’un kavod’unu yükseltmeyi amaçlardı. Bu, kohenlerin üzerinde derinleşmeleri gereken büyük bir hikmetti: bütün İsrael adına Haşem’e yaklaşmak ve ibadetlerinin gerçekten kabul edilir olması. Bu yüzden “Çünkü kohenin dudakları bilgiyi korur; Tora’yı onun ağzından isterler” (Malakhi 2:7) denmiştir. Onlar bütün yaratılanları Yaratan’a bağlamayı amaçlar, bu işin tamamlanması için ne gerektiğini bilir ve gerekli bütün ayrıntılara yönelirlerdi. Bunlar, kurbanın bütün yönlerindeki ibadet düzenleridir: kanın serpilmesi, tütsünün yakılması ve benzeri bütün işler. Bunların hepsi, bütün varlıkların Yaratıcı’ya bağlanarak tamamlanması için derin sırlara göre yapılmıştır. Bu konunun açıklaması çok genişler; fakat yeri burası değildir. Genel niyet şudur: aşağıdaki bütün varlıkları ve onların üzerindeki üst varlıkları, hepsini üst kavod’a bağlamak. Onun hakkında “Gökleri ve yeri Ben doldurmuyor muyum?” (Yirmeyahu 23:24) denmiştir. Bu, bunun için düzenlenmiş sistemler aracılığıyla olur. Bu da efendilerinin gölgesi altında toplanan kullar niteliğindedir.
+
+
 ###### Da'at Tevunot 160:6
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/160:6](https://torahapp.org/share/book/Da%27at%20Tevunot/r/160:6)
 
 
 אמנם עוד לצדיקים ענין פרטי בבחינת העבודה המסורה בידם, כמו שביארנו, שהוא לגמור תיקון הבריאה עצמה, כמו שהודעתיך, בהזמינם בכל יום תיקון חדש במה שנוגע להם, כדי שישפיע לעומתם האדון ב"ה שפע ברכה כנגד התעוררותם והזמנתם:
+
+
+Bununla birlikte tsadiklerin, kendilerine teslim edilmiş avoda bakımından özel bir yönü daha vardır. Açıkladığımız gibi bu, yaratılışın kendisinin tikun’unu tamamlamaktır. Sana bildirdiğim üzere, kendileriyle ilgili alanda her gün yeni bir tikun hazırlarlar; buna karşılık Efendi, mübarek olsun, onların uyanışına ve hazırlığına uygun olarak bereket akışı gönderir.
 
 
 ###### Da'at Tevunot 160:7
@@ -3966,12 +4356,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 והנה כבר שמעת שכל החסרונות שבבריאה הם תולדות העלם שלמותו ויחודו ית'. כי אמנם יחודו בהיותו שולט - פעולתו היא לתקן הבריאה תיקון שלם, ולהעביר כל מונע שמבדיל בין הנבראים והבורא ית', כמו שאמרנו בענין הכתוב (ישעיהו נט, ב) "כי אם עונותיכם היו מבדילים" וגו'. והנה בהיות הצדיקים עובדים העבודה הזאת, יתעורר היחוד העליון, ויגלה קצת גילוי ממנו כפי הכנת העבודה ההיא, עד שיהיה נוסף תיקון בבריאה כולה כערך העבודה ההיא; שאין לך עבודה שאין מוספת תיקון בעולם מצד גילוי מיחודו ית', שהוא המעביר מה שמפריד בין הנבראים ובין הבורא ית', ומדביק הנבראים אל הכבוד העליון. ויתדבק מציאות התחתונים עם קדושתו ית' בכל הדרכים שסידר להיות מאציל מקדושתו עליהם, הם הם מיני השפעותיו שהם כל מיני הברכה שהוא ית' מברך את נמצאיו:
 
 
+Daha önce duydun: yaratılıştaki bütün eksiklikler, O’nun, yüce olsun, yetkinliğinin ve birliğinin gizlenmesinin sonuçlarıdır. Çünkü O’nun birliği egemen olduğunda yaptığı iş, yaratılışı tam bir tikun’a ulaştırmak ve yaratılanlarla Yaratıcı, yüce olsun, arasına giren her engeli kaldırmaktır. “Sizin günahlarınız ayırıcı oldu” (Yeşayahu 59:2) ayeti hakkında söylediğimiz de budur. Tsadikler bu avoda’yı yaptığında üst birlik uyanır ve yapılan avoda’nın hazırlığı ölçüsünde ondan bir parça açığa çıkar; böylece bütün yaratılışa o avoda’nın değeri ölçüsünde tikun eklenir. Çünkü O’nun birliğinin açığa çıkışı yönünden dünyaya tikun eklemeyen hiçbir avoda yoktur. Bu birlik, yaratılanlarla Yaratıcı, yüce olsun, arasındaki ayırıcı şeyi kaldırır ve yaratılanları üst kavod’a bağlar. Aşağıdakilerin varlığı, O’nun kutsallığıyla, O’nun kutsallığını onlara akıtmak için düzenlediği bütün yollar aracılığıyla bağlanır. Bunlar, O’nun etkilerinin türleridir; yani O’nun, yüce olsun, varlıklarına verdiği bütün bereket türleridir.
+
+
 ###### Da'at Tevunot 160:8
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/160:8](https://torahapp.org/share/book/Da%27at%20Tevunot/r/160:8)
 
 
 והנה, בתחילה יתחזק התדבקות הנשמות בקדושתו ית', כחלק המתדבק בכל שלו, שהוא ענין שהמשיל הכתוב (דברים לב, ט), "כי חלק - ה' עמו"; והוא הענין המבואר בתחילת שיר השירים (א, ב), "ישקני מנשיקות פיהו", שהוא מראה עוצם ההתדבקות. והיינו שזה מין התדבקות חזק שיוכל להעשות בין הקב"ה וכנסת ישראל, שבדוגמא לזה הנשיקה באדם. ומתוך עוצם ההתדבקות ישפיע הקב"ה לכנסת ישראל ולכל כללות נמצאיו שפע של קדושה, דהיינו שפע אלקי ורוחני, ושפע של ברכה, שהוא שפע להצלחות אפילו בעולם הזה. והנה בהיות מתדבקים התחתונים בו ית' בדבקות אהבה, יעורר הקב"ה האהבה בינו וביניהם, וירצה בעבודתם, כענין שתיקנו ז"ל, "הבוחר בעמו ישראל באהבה", "רצה ה' אלקינו בעמך ישראל ובתפלתם". כי מצד הרצון הזה הוא היות עבודתם מועלת לתיקון הבריאה, וכמו שביארנו זה למעלה כבר, כי רק כח הציווי והרצון העליון הוא שעושה למעשה המצוות להיות מועיל ומתקן. ומכח הרצון הזה הנה תועיל העבודה למה שתועיל, ויושפע שפע הברכה בכל הדרכים המתוקנים לדבר הזה, ותתחדש הברכה בכלל התחתונים, ואחר כך יגיע אל האישים כל אחד כראוי לו. אלה הם דרכיו ית', ישרים דרכי ה', להתנהג עם התחתונים להנאתם ולטובתם. ומי שיעמיק בהם ימצא טוב טעם ודעת, העמק הגבה בכל התורה ומצוותיה, אחת מהנה לא נעדרה:
+
+
+Başlangıçta neşamaların O’nun kutsallığına bağlanışı güçlenecektir; bu, parçanın kendi bütününe bağlanması gibidir. Ayetin “Çünkü Haşem’in payı O’nun halkıdır” (Devarim 32:9) benzetmesiyle gösterdiği şey budur. Şir HaŞirim’in başındaki “Beni ağzının öpüşleriyle öpsün” (Şir HaŞirim 1:2) ifadesinde açıklanan konu da budur; bu ifade bağlanmanın yoğunluğunu gösterir. Yani HaKadoş Baruh Hu ile Kneset İsrael arasında, insandaki öpüşmeye benzer biçimde, güçlü bir bağlanma türü oluşabilir. Bu bağlanmanın yoğunluğundan HaKadoş Baruh Hu Kneset İsrael’e ve varlıklarının bütün toplamına kutsallık akışı, yani ilahi ve ruhsal akış, ayrıca bereket akışı verir; bu da bu dünyadaki başarıları bile kapsayan bir akıştır. Aşağıdakiler O’na, yüce olsun, sevgi bağlılığıyla bağlandığında, HaKadoş Baruh Hu kendisiyle onlar arasındaki sevgiyi uyandırır ve onların avoda’sından hoşnut olur. Bilgelerimizin düzenlediği “halkı İsrael’i sevgiyle seçen” ve “Haşem Tanrımız, halkın İsrael’den ve onların duasından hoşnut ol” ifadeleri bu bağlamdadır. Çünkü avoda’larının yaratılışın tikun’una yararlı olması bu hoşnutluk yönündendir. Bunu yukarıda açıkladık: mitsva eylemini yararlı ve onarıcı kılan şey yalnızca emrin ve üst iradenin gücüdür. Bu irade sayesinde avoda neye yararlı olacaksa ona yararlı olur; bereket akışı bu iş için düzenlenmiş bütün yollarla gönderilir; aşağıdakilerin genelinde bereket yenilenir; sonra her bireye kendisine uygun biçimde ulaşır. O’nun yolları böyledir; Haşem’in yolları doğrudur. Aşağıdakilerle onların yararı ve iyiliği için böyle davranır. Bunların derinine inen kimse, bütün Tora ve mitsvalarında derin ve yüksek iyi tat ile bilgi bulur; onlardan bir teki bile eksik değildir.
 
 
 ###### Da'at Tevunot 160:9
@@ -3982,12 +4378,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 והנה עוד ענין עיקרי אודיעך, והוא שיש לכנסת ישראל שורש של קדושה, שהיא כללית לכל האומה הקדושה מצד היותם ישראל, ואפילו לרעים שבהם, שהרי ארז"ל (סנהדרין מד ע"א), "אף על פי שחטא - ישראל הוא". ואף על פי שדבר זה מושרש בענינים גבוהים מאוד בהיות ישראל משתלשלים ממנו ית', כמו שאמר הכתוב (איכה ג, כד), "חלקי ה' אמרה נפשי על כן אוחיל לו", אף על פי כן הנהגת העולמות הרבה והרחבה מאוד בכל סדרי הנמצאות לטוב או למוטב אינה תלויה בזה, אלא בענין המעשים של בני האדם, לדון כל אחד לפי מעשיו. ונמצא שיש מציאות לכנסת ישראל - מציאות כללי שאין לו תולדות הרבה וענפים רבים, אבל הוא מציאות שאינו כל כך עיקרי, אף על פי שהוא גבוה הרבה. ועוד יש מציאותה העיקרי, שהוא מציאותה לפי ענין העבודה שבידה, שתלויים בה כל עניני ההנהגה הגדולה והעמוקה:
 
 
+Sana temel bir konu daha bildireyim: Kneset İsrael’in bir kutsallık kökü vardır; bu, İsrael olmaları bakımından bütün kutsal topluluğu genel olarak kapsar, içlerindeki kötüler için bile geçerlidir. Nitekim bilgelerimiz z”l şöyle demiştir: “Günah işlemiş olsa da İsrael’dir.” İsrael’in O’ndan, yüce olsun, zincirleme gelmesi bakımından bu konu çok yüksek alanlarda köklenmiş olsa da, ayetin “Haşem benim payımdır, dedi nefsim; bu yüzden O’nu umut edeceğim” (Eha 3:24) demesi gibi, yine de alemlerin çok geniş ve yaygın yönetimi, varlıkların bütün düzenlerinde iyiye veya tersine doğru işleyiş, buna bağlı değildir. Bu yönetim insanların eylemlerine bağlıdır; her birey eylemlerine göre yargılanır. Buna göre Kneset İsrael’in bir varlığı vardır: çok sayıda sonuç ve dal üretmeyen genel bir varlık. Bu, çok yüce olsa da o kadar asli olmayan bir varlıktır. Bir de onun asıl varlığı vardır: elindeki avoda’ya göre olan varlığı. Büyük ve derin yönetimin bütün yönleri buna bağlıdır.
+
+
 ###### Da'at Tevunot 160:10
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/160:10](https://torahapp.org/share/book/Da%27at%20Tevunot/r/160:10)
 
 
 ועוד צריך שתדעי, כי ענין היום והשבוע הוא סיבוב אחד שהולך וסובב, וכמו שנבאר לקמן בס"ד. והנה עיקר השבוע הוא השבת, ושאר השבוע אינו אלא השלמת מה שתלוי בשבת עצמו. והנה יתחדש שפע בשבת, ובשאר ימי השבוע יוציא השפע ההוא תולדותיו למה שצריך לכל הנמצאות דבר יום ביומו, לפי שיעורו וסדרי הסיבוב. ועיקר היום הוא הבוקר, ושאר זמניו - השלמת ענין,המתחדש בבוקר. ואמנם ההשפעה העיקרית ימשיכוה התחתונים לפי בחינתם העיקרית, ושאר עניני ההשפעה הבלתי ראשוניים ימשכו לפי ענין התחתונים הבלתי עיקרי; וזה פשוט, כי הכל הולך בהקבלה והשוואה, ההשפעה עם מקבליה, והפעולות עם הנפעלים:
+
+
+Şunu da bilmelisin: Gün ve hafta, dönüp duran tek bir çevrimdir; bunu aşağıda, Tanrı’nın yardımıyla, açıklayacağız. Haftanın aslı Şabat’tır; haftanın geri kalanı yalnızca Şabat’ın kendisine bağlı olan şeyin tamamlanmasıdır. Şabat’ta yeni bir akış yenilenir; haftanın diğer günlerinde ise bu akış, bütün varlıklar için her gün gereken sonuçlarını kendi ölçüsüne ve çevrim düzenlerine göre ortaya çıkarır. Günün aslı sabahtır; günün diğer zamanları, sabah yenilenen konunun tamamlanmasıdır. Asıl etkiyi aşağıdakiler kendi asli yönlerine göre çekerler; asıl olmayan diğer etki yönleri ise aşağıdakilerin asıl olmayan yönlerine göre çekilir. Bu açıktır; çünkü her şey karşılıklılık ve uyum içinde ilerler: etki alıcılarıyla, fiiller de kendilerinde fiil gerçekleşenlerle uyumludur.
 
 
 ###### Da'at Tevunot 160:11
@@ -3998,6 +4400,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 והנה תביני שהאדון ב"ה, המרומם ונשגב ובלתי מושג כלל, הנה חידש מיני קדושות המתאצלות ממנו ית' אל התחתונים. ואפילו קדושה זאת אין ענינה כענין קדושתו העצמית הנעלמת ובלתי מושגת, אלא היא ענין משתוה אל הכנת מקבליה. ואף בזאת תיפול ההדרגה, כי יוכל להימצא קדושה גדולה מקדושה, ויש קדשים קלים, ויש קדשי קדשים, וזה פשוט. והנה האדון ב"ה הולך ומחדש תמיד תיקונים חדשים בכללות הבריאה לפי התעוררות התחתונים, כמו שביארנו. ובכל תיקון יצטרכו כל התנאים הצריכים להשלמתו ולהשלמת כל התולדות הצריכות להיולד ממנו, וכל זה נעשה בהתדבק הנבראים בו. ואמנם לחידוש אחד מן התיקונים העקריים יצטרך התדבקות הנבראים, והעיקר - כנסת ישראל, בבחינת עיקריות מציאותם, בבחינתם הנכבדת יותר שכל הנמצאות תלויות בה, ואז ימשיכו ממנו שפע גדול ועיקרי המצטרך לתיקון ההוא המתחדש בם. אך להשלמת עניני התיקון ההוא, לא יצטרך התדבקות כי אם בבחינותיהם משתוות לערך התנאים ההם הנשלמים בו, וזה פשוט לפי טעם ההקבלה והדרגה:
 
 
+Şimdi anlayacaksın ki Efendi, mübarek olsun, yüce, aşkın ve hiçbir şekilde kavranamaz olduğu halde, kendisinden, yüce olsun, aşağıdakilere yayılan çeşitli kutsallık türleri yenilemiştir. Bu kutsallığın kendisi bile O’nun gizli ve kavranamaz öz kutsallığı gibi değildir; alıcılarının hazırlığıyla uyumlu bir konudur. Bunun içinde de derecelenme vardır: bir kutsallıktan daha büyük kutsallık bulunabilir; daha hafif kutsallıklar vardır, en kutsal kutsallıklar vardır. Bu açıktır. Efendi, mübarek olsun, açıkladığımız gibi aşağıdakilerin uyanışına göre yaratılışın genelinde sürekli yeni tikunlar yeniler. Her tikun’da, onun tamamlanması ve ondan doğması gereken bütün sonuçların tamamlanması için gereken bütün şartlar gerekir. Bütün bunlar yaratılanların O’na bağlanmasıyla olur. Asli tikunlardan birinin yenilenmesi için yaratılanların, özellikle de Kneset İsrael’in, varlıklarının asli yönüyle, yani bütün varlıkların bağlı olduğu daha değerli yönleriyle bağlanması gerekir. O zaman ondan, kendilerinde yenilenen o tikun için gereken büyük ve asli bir akış çekerler. Fakat o tikun’un ayrıntılarının tamamlanması için, yalnızca o tikun’da tamamlanan şartların değerine denk gelen yönleriyle bağlanmaları yeterlidir. Bu, karşılıklılık ve derecelenme ilkesine göre açıktır.
+
+
 ###### Da'at Tevunot 160:12
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/160:12](https://torahapp.org/share/book/Da%27at%20Tevunot/r/160:12)
@@ -4006,12 +4411,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 וכל אלה הדברים היו צריכים לדעת הכהנים המקריבים את קרבן ה', תמידין כסדרם ומוספין כהלכתן, לפי חילוקי הזמנים, וכמו שביארנו, לדעת התדבקות הנבראים באיזה מדרגה ממדרגות ההתדבקות הזה יהיה, ואיזה גילוי מן הרצון העליון יתגלה לגביהם, ואיזה שפע ימשך להם, הכל לפי הזמן וצורך השעה:
 
 
+Bütün bu şeyleri, Haşem’in kurbanını sunan kohenlerin bilmesi gerekiyordu: düzenine göre sürekli kurbanları ve halakha’sına göre ek kurbanları, zamanların ayrımına göre sunarken. Açıkladığımız gibi, yaratılanların bu bağlanma derecelerinden hangi derecede bağlanacağını, üst iradeden onlara karşı hangi açığa çıkışın belireceğini ve onlara hangi akışın çekileceğini bilmeleri gerekiyordu; her şey zamana ve o anın gereğine göreydi.
+
+
 ###### Da'at Tevunot 160:13
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/160:13](https://torahapp.org/share/book/Da%27at%20Tevunot/r/160:13)
 
 
 ועד כה עזרני ה' לבאר לך מה שאת צריכה לו בענין הנהגת השכר ועונש, עתה נבוא לבאר ההנהגה השנית שזכרנו, שהיא ההנהגה המסותרת ההולכת אל התכלית של השלמות הכללי, ופה יתבאר ענין, "הכל תלוי במזל", שהזכירו רז"ל (זהר נשא קלד ע"א):
+
+
+Buraya kadar Haşem, ödül ve ceza yönetimi konusunda senin bilmen gerekenleri açıklamam için bana yardım etti. Şimdi sözünü ettiğimiz ikinci yönetimi açıklamaya geçeceğiz: genel yetkinliğin amacına doğru ilerleyen gizli yönetim. Burada bilgelerimizin z”l sözünü ettiği “her şey mazal’e bağlıdır” konusu açıklanacaktır.
 
 
 
@@ -4025,6 +4436,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמרה הנשמה – הזכרת לי דבר שאני תאבה להבנתו הרבה, כי הוא מן הענינים המתקשים עלי יותר, על כן מתאוה אני מאוד לדעת ישובו:
 
 
+Nefeş şöyle dedi: Bana anlamayı çok istediğim bir şeyi hatırlattın; çünkü bu, benim için en zor konulardan biridir. Bu yüzden onun çözümünü bilmeyi çok arzuluyorum.
+
+
 
 ## Chapter 162
 
@@ -4034,6 +4448,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 
 
 אמר השכל – אבל כאן נמצא ענין, "צדיק וטוב לו, צדיק ורע לו", שאינו ניתן להיודע:
+
+
+Akıl şöyle dedi: Fakat burada “tsadik ve onun için iyi; tsadik ve onun için kötü” konusu vardır; bu konu bütünüyle bilinmeye verilmiş değildir.
 
 
 
@@ -4047,6 +4464,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמרה הנשמה – ואם כן, למה העירותני עליו, הואיל ואינך יכול לפרשו?
 
 
+Nefeş şöyle dedi: Öyleyse, açıklayamayacağına göre neden beni bu konuya yönelttin?
+
+
 
 ## Chapter 164
 
@@ -4056,6 +4476,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 
 
 אמר השכל – תחום יש לדבר עד היכן נבין, אחר כן נחדל לחקור. והנה אודיעך מה שדי לנו להתישב בדבר בראותנו יושר ענינו, ומה שלא ניתן להיודע - לא נבקש. אבל תראי, כי מה שאינו ניתן להשיג אינו מבלבל כלל האמונה, ולא מערבב הדעות. כי הנה בעיניך תראי שאינו אלא תוספת ידיעה בלתי מוכרחת לנו. אך הבירור המצטרך לישוב הלב ולבירור האמונה - יש ויש לנו. ולא עשה ה' אלקים דבר שישתבשו בו בני האדם באמונה, שלא ימצאו ישובו, ועל כן נאמר (דברים ד, לט), "וידעת היום והשבות אל לבבך כי ה' הוא האלקים" וגו':
+
+
+Akıl şöyle dedi: Bu konuda anlayabileceğimiz yere kadar bir sınır vardır; ondan sonra araştırmayı bırakırız. Sana, bu konunun doğruluğunu görerek zihnimizi yerleştirmemize yetecek şeyi bildireceğim. Bilinmeye verilmemiş olanı ise istemeyiz. Fakat göreceksin ki kavranmaya verilmemiş olan şey imanı hiçbir şekilde karıştırmaz ve düşünceleri bozmaz. Çünkü kendi gözlerinle göreceksin: bu, bizim için zorunlu olmayan fazladan bir bilgiden ibarettir. Fakat kalbin yerleşmesi ve imanın açıklığa kavuşması için gereken netlik gerçekten bizde vardır. Haşem Tanrı, insanların iman konusunda şaşıracağı ve çözümünü bulamayacağı hiçbir şey yapmamıştır. Bu yüzden “Bugün bilecek ve kalbine yerleştireceksin ki Haşem Tanrı’dır” (Devarim 4:39) denmiştir.
 
 
 
@@ -4069,6 +4492,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמרה הנשמה – אם כן, אמור מה שתדע היות לי צורך בו:
 
 
+Nefeş şöyle dedi: Öyleyse, benim için gerekli olduğunu bildiğin şeyi söyle.
+
+
 
 ## Chapter 166
 
@@ -4080,12 +4506,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמר השכל – הנה כיון ששם האדון ב"ה הנהגת השכר ועונש, מעתה יגיע לכל אדם כפי מעשיו - טוב לטובים ורע לרעים. אמנם העצה העמוקה של האדון ב"ה הוא לגלגל הדברים באופן שלא תהיה ההנהגה אלא לטוב, ולא יהיה מציאות רע כלל בעולם, וזה נקרא תיקון ההנהגה עצמה וזיכוכה. ואמנם כדי לעשות התיקוג הכללי הזה, יצטרך להתנהג על פי שורש הענין של מציאות הטוב ורע, כי הרוצה לרפאות חולי רפואה שלמה צריך שישרש אחר הסיבה, ואז יסור המסובב. כן הדבר הזה, כדי לעשות שההנהגה לא תהיה אלא לטובה, ולא שיהיה בה מציאות רע, צריך לדעת הסיבה הגורמת הימצא עתה הרע בהנהגה, ועל פי הסיבה ההיא יצטרך לגלגל הדברים באופן שיצא הפרי הזה - שלא יהיה עוד בהנהגה הרע. וזה פשוט, כי אין הקב"ה רוצה להנחם, כאדם המתחרט ממעשיו הראשונים, ולעזוב דרך אחד בעבור דרך אחר, אלא על פי המונח הראשון עצמו יגלגל הדברים לבוא אל השלמות שהוא רוצה:
 
 
+Akıl şöyle dedi: Efendi, mübarek olsun, ödül ve ceza yönetimini koyduğuna göre, bundan sonra her insana eylemlerine göre ulaşır: iyilere iyilik, kötülere kötülük. Fakat Efendi’nin, mübarek olsun, derin tasarısı, işleri yönetimin yalnızca iyi olacak ve dünyada hiçbir kötülük varlığı kalmayacak biçimde döndürmektir. Buna yönetimin kendisinin tikun’u ve arınması denir. Bu genel tikun’u yapmak için, iyi ve kötünün varoluş kökü uyarınca yönetmek gerekir. Çünkü bir hastalığı tam bir iyileşmeyle iyileştirmek isteyen kimse, sebebin köküne iner; o zaman sonuç ortadan kalkar. Burada da durum böyledir. Yönetimin yalnızca iyilik olması ve içinde kötülüğün varlığı bulunmaması için, şimdi yönetimde kötülüğün bulunmasına neden olan sebebi bilmek gerekir. İşler, o sebebe göre, bu sonucun çıkacağı biçimde döndürülmelidir: yönetimde artık kötülük bulunmamalıdır. Bu açıktır. Çünkü HaKadoş Baruh Hu, ilk işlerinden pişman olan insan gibi vazgeçip bir yolu başka bir yol uğruna bırakmak istemez. Aksine, ilk konulan temel üzerinden işleri, dilediği yetkinliğe ulaşacak biçimde döndürür.
+
+
 ###### Da'at Tevunot 166:2
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/166:2](https://torahapp.org/share/book/Da%27at%20Tevunot/r/166:2)
 
 
 ואמנם שורש הימצא הרע בהנהגה - כבר פירשנוהו שהוא מטעם גילוי יחודו ית', שצריך לגלות הרע ולהניחו לעשות כל מה שבחוקו, להראות אחר כך יחוד שליטתו ית' בהחזירו אותו לטוב. ומטעם הזה, כל עוד שיתעלם ויסתיר פניו האדון ב"ה, ויניח לרע להתגבר עד הגבול האחרון שאפשר לו להתגבר, דהיינו עד חורבן העולם, ולא עד בכלל, הנה זה יהיה טעם יותר להיגלות ולהיראות אחר כך אמיתת יחודו ית', בתקנו את הקלקולים ההמה בכח שליטתו, והאור ניכר מתוך החושך, וכמו שביארנו לעיל כבר. על כן ברצות האדון ב"ה לקבוע תנהגת העולם לטובה, צריך שיסדר הנהגתו על פי הענין הזה השרשי של גילוי היחוד שזכרנו, שממנו נולד הימצא עתה הטוב ורע:
+
+
+Yönetimde kötülüğün bulunmasının köküne gelince: Bunu daha önce açıkladık. Bu, O’nun, yüce olsun, birliğinin açığa çıkması içindir. Kötülüğün açığa çıkarılması ve kendi sınırı içinde yapabileceği her şeyi yapmasına izin verilmesi gerekir; sonra O’nun, yüce olsun, egemenliğinin birliği, kötülüğü iyiliğe geri döndürmesiyle gösterilir. İşte bundan sonra başka bir yönetim kökü ortaya çıkar; bu, karanlığın ardından gelen ışık, yani kötülükten sonra gelen iyiliktir. O zaman egemenlik tam olarak açığa çıkar; çünkü kötülük kendi gücüyle ayakta durduktan sonra, iyiliğe geri döndürülür. Bunun için, yönetimde bazen kötülüğe güç verilmesi gerekir; bu, iyilerin iyiliğine veya kötülerin kötülüğüne göre değil, genel tikun’un gereğine göredir. Çünkü amaç, kötülüğün kendi varlığı içinde belirmesi ve sonra iyiliğe çevrilmesidir; böylece O’nun birliği açıkça bilinir.
 
 
 ###### Da'at Tevunot 166:3
@@ -4096,6 +4528,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 ואמנם השכר ועונש אינו תגבורת הרע, כי על כל פנים אין רע אלא לרעים, ועוזבי ה' יכלו, אבל אשר ידרשוהו - ידרש להם. אך תגבורת הרע הוא היות הקב"ה מסתיר פניו לגמרי מעולמו, שנאמר בו (משלי א, כח), "אז יקראונני ולא אענה"; (ישעיהו כט, טו), "ותהי האמת נעדרת וסר מרע משתולל", זה יקרא הסתר הגמור העשוי רק כדי לגלות אחר כך תיקון שלם, וכמו שאמר הכתוב (ישעיהו נט, טז), "ותושע לו זרועו וצדקתו היא סטכתהו". והיינו, כי לפי הסדר והנהגה הזאת אין משגיחין על הזכות או החובה, אלא ההנהגה נוהגת לפי סדריה, דהיינו, להניח תגבורת לרע כדי להראות אחר כך שליטת הטוב. וכל זמן תגבורת הרע, הנה גם הטובים יצטרכו לעמוד תחת עוני הרע, לא מפני שהדין כך, אלא שהשעה צריכה לכך. כי על כל פנים, אחר כך יקבלו שכר שלם כשיחזור הטוב ויגלה וישלוט, כפי הרעה שסבלו מתחילה, כמו שכתוב (תהלים צ, טו), "שמחנו כימות עניתנו" וגו'. אך כל זמן תגבורת הרע לא יועיל זכותם להנצל ממנו, וכענין הכתוב (עמוס ה, יג), "לכן המשכיל בעת ההיא ידום כי עת רעה היא". ולא עוד, אלא שבהיות מטבע הרע כל קלקול והשחתת סדר, על כן לא די שלא יועיל הזכות לצדיקים להנצל מן הרעה, אלא שאדרבא, אנשי רע יצליחו, והשעה תשחק להם, והישרים מעונים ונדכאים, וכמו שאמרו (סוטה מט ע"א), "בעקבות משיחא חוצפא יסגי וכו' חכמת סופרים תסרח" וכו'. והכתוב עצמו (ישעיהו נט, טו), "ותהי האמת נעדרת וסר מרע משתולל" וגו':
 
 
+Fakat ödül ve ceza, kötülüğün güç kazanması değildir. Çünkü her durumda kötülük ancak kötülere yöneliktir: Haşem’i terk edenler yok olup gider; O’nu arayanlara ise O karşılık verir. Kötülüğün güç kazanması ise HaKadoş Baruh Hu’nun yüzünü dünyasından bütünüyle gizlemesidir. Bunun hakkında “O zaman beni çağıracaklar, fakat cevap vermeyeceğim” (Mişle 1:28) ve “Hakikat ortadan kayboldu; kötülükten uzak duran yağmaya uğrar” (Yeşayahu 59:15) denmiştir. Buna, yalnızca sonrasında tam tikun’un açığa çıkması için yapılan tam gizlenme denir; ayetin “Kendi kolu O’na kurtuluş getirdi, doğruluğu O’na destek oldu” (Yeşayahu 59:16) demesi de böyledir. Yani bu düzen ve yönetim çizgisine göre hak edişe veya borca bakılmaz; yönetim kendi düzenlerine göre işler: kötülüğe bir süre güç alanı bırakır ki sonrasında iyiliğin egemenliği gösterilsin. Kötülüğün güç kazandığı bütün süre boyunca iyiler de kötülüğün yoksunluğu altında durmak zorunda kalırlar; bu, hüküm böyle olduğu için değil, o saat bunu gerektirdiği içindir. Çünkü her durumda daha sonra iyilik geri dönüp açığa çıktığında ve egemen olduğunda, başlangıçta çektikleri kötülüğe göre tam ödül alacaklardır; “Bizi sıkıntıya uğrattığın günler kadar sevindir” (Tehilim 90:15) ayetinde olduğu gibi. Fakat kötülüğün güç kazandığı süre boyunca hak edişleri onları ondan kurtarmaya yaramaz; “Bu yüzden o zamanda akıllı kişi susar, çünkü o kötü bir zamandır” (Amos 5:13) ayetindeki gibi. Dahası, kötülüğün doğası her türlü bozulma ve düzen yıkımı olduğundan, tsadiklerin hak edişinin onları kötülükten kurtarmaya yetmemesiyle kalmaz; tersine kötü insanlar başarılı olur, zaman onların yüzüne güler, doğru insanlar ise acı çeker ve ezilir. Bilgelerimizin “Maşiah’ın ayak izlerinde küstahlık çoğalacak... yazıcıların bilgeliği kokuşacak...” (Sota 49a) sözleri de bunun gibidir. Ayetin kendisi de “Hakikat ortadan kayboldu; kötülükten uzak duran yağmaya uğrar” (Yeşayahu 59:15) der.
+
+
 ###### Da'at Tevunot 166:4
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/166:4](https://torahapp.org/share/book/Da%27at%20Tevunot/r/166:4)
@@ -4104,12 +4539,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 נמצא, שאם האדון ב"ה רוצה לנהג העולם לפי הנהגת היחוד - להכיר האור מתוך החושך ולעשות שהרע עצמו יחזור לטוב, הנה יצטרך לתת תגבורת לרע בלא השקיף אל זכות הצדיקים; אדרבא, אז נבנו עושי רשעה, והצדיקים - נשפל ראשם לעפר. ואחר זה יגלה ממשלתו, ופרי הגילוי יהיה להחזיר הרע עצמו לטוב, ולא יהיה עוד רע אלא טוב בעולם, ואז יקבלו הצדיקים שכרם, ולא קודם לכן. אך אם הוא מנהג לפי השכר ועונש, אז לא יהיה אלא טוב לטובים ורע לרעים, אמנם אין כאן מה שיגרום תיקון גמור להנהגה שיבטל מציאות הרע, כי למה יבטל וכבר איננו אלא לרעים, והרי הוא מוגבל בתחומו שלא לעשות כטבעו הרע אלא כמשפט הראוי. ולפי שהקב"ה רוצה באמת תיקון הגמור של העולם וביטול הרע לגמרי, על כן הוא רוצה ללכת עם הצדיקים בדרך הנהגת היחוד שזכרנו, שלא יועיל להם צדקתם להצילם מיסורי העוה"ז. וזה לא מטעם השכר ועונש ודאי, אלא כדי שיתוקן על ידם התיקון השלם. וזה טוב להם ודאי, שאז יקבלו שכר יותר גדול ממה שהיה להם לקבל לפי זכותם גרידא. אמנם טוב גם לעולם, כי אם לפי השכר ועונש היה מתנהג עמהם, לא היה יוצא פרי ממעשיהם הטובים אלא שכר מעשיהם, אך לא העברת הרע מן העולם. אך כיון שמה שהם סובלים אינו מטעם מעשיהם אלא מטעם סדר ההנהגה, על גן גם התועלת לא יהיה פרטי להם לתת להם שכר, אלא כללי להנהגה, לגלות בזכותם היחוד העליון, ויבטל הרע מן ההנהגה עצמה:
 
 
+Buna göre, Efendi, mübarek olsun, dünyayı birlik yönetimine göre yönetmek isterse, ışığın karanlıktan tanınması ve kötülüğün kendisinin iyiliğe dönmesi için, tsadiklerin hak edişine bakmadan kötülüğe güç vermesi gerekir. Hatta o zaman kötülük yapanlar kurulur, tsadiklerin başı ise toprağa kadar eğilir. Bundan sonra O kendi egemenliğini açığa çıkarır; bu açığa çıkışın meyvesi kötülüğün kendisini iyiliğe döndürmek olur. Artık dünyada kötülük değil, yalnızca iyilik bulunur. Tsadikler ödüllerini o zaman alırlar, daha önce değil. Fakat yönetim ödül ve cezaya göre yürütülürse, o zaman yalnızca iyilere iyilik, kötülere kötülük olur. Ancak burada yönetimi bütünüyle onaracak ve kötülüğün varlığını iptal edecek bir sebep yoktur. Çünkü kötülük neden iptal edilsin? Zaten yalnızca kötüler içindir ve kötü doğasına göre değil, uygun hukuka göre davranmak üzere kendi sınırı içinde tutulmuştur. HaKadoş Baruh Hu gerçekte dünyanın tam tikun’unu ve kötülüğün bütünüyle iptalini istediği için, tsadiklerle sözünü ettiğimiz birlik yönetimi yolunda yürümek ister. Bu yüzden onların doğrulukları, onları bu dünyanın acılarından kurtarmaya yetmez. Bu kesinlikle ödül ve ceza sebebiyle değil, onların aracılığıyla tam tikun gerçekleşsin diye olur. Bu onlar için de kesinlikle iyidir; çünkü o zaman yalnızca hak edişlerine göre alacaklarından daha büyük bir ödül alırlar. Dünya için de iyidir; çünkü onlarla ödül ve ceza yönetimine göre davranılsaydı, iyi eylemlerinden yalnızca kendi eylemlerinin ödülü doğardı; fakat kötülüğün dünyadan kaldırılması doğmazdı. Ama çektikleri şey kendi eylemlerinden değil, yönetim düzeninden geldiği için, bunun yararı da yalnızca onlara ödül vermek üzere bireysel olmaz; yönetim bakımından genel olur: onların hak edişiyle üst birlik açığa çıkar ve kötülük yönetimin kendisinden iptal edilir.
+
+
 ###### Da'at Tevunot 166:5
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/166:5](https://torahapp.org/share/book/Da%27at%20Tevunot/r/166:5)
 
 
 ותראי איך נוסף עוד תועלת בזה - שאפילו גילוי הממשלה העליונה יהיה בזכות ולא בצדקה לגמרי. כי אף על פי שהוא בצדקה לגבי שאר בני האדם, אך לגבי הצדיקים הוא בזכות, ומטובם יטיב לעולם כולו, ונמצא כלל כנסת ישראל זוכה:
+
+
+Bununla bu konuda ek bir yarar daha göreceksin: Üst egemenliğin açığa çıkışı bile bütünüyle karşılıksız lütufla değil, hak edişle olur. Diğer insanlar bakımından bu bir lütuf olsa da, tsadikler bakımından hak ediştir. Onların iyiliğinden bütün dünyaya iyilik gelir; böylece Kneset İsrael’in bütünü hak kazanmış olur.
 
 
 
@@ -4123,6 +4564,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמרה הנשמה – אמנם לפי הדרך הזה היה ראוי שכל הצדיקים לא יהיו אלא מיוסרים, והרי המציאות אינו כן.לפי טעמי הנהגתו הנעלמים יש תיקונים לקראת התכלית ע"י ריבוי השפע ויש ע"י מיעוט השפעB:
 
 
+Nefeş şöyle dedi: Fakat bu yola göre bütün tsadiklerin yalnızca acı çeken kimseler olması gerekirdi; oysa gerçeklik böyle değildir. O’nun yönetiminin gizli gerekçelerine göre, amaca doğru bazı tikunlar akışın çoğalmasıyla, bazıları ise akışın azalmasıyla gerçekleşir.
+
+
 
 ## Chapter 168
 
@@ -4134,12 +4578,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמר השכל – יש לדבר הזה שורש עמוק מאוד. וזה, כי הנה האדון ב"ה עשה את הרע באותה התכונה שעשאו, ובאותם הגבולים שרצה אותו. והנה הוא מגלגל גלגולים להעבירו מן הבריאה לגמרי, וכמו שביארנו. אמנם צריך שיגלגל גלגולים אלה לפי הענין של הרע, ולפי הסדרים שעשה אותו, וזה פשוט. והנה אחר שעשה האדון ב"ה את הבריאה הזאת חסרת השלמות, הוא מגלגל גלגולים אלה להשלים אותה בהעביר חסרונותיה, והוא ית' לבדו יודע שורש כל הענינים שרצה לעשות, וטעמי כל גזירותיו הנעלמים מבריותיו, כי אין הבריות יודעות אלא מן הגזירות של הרצון העליון והלאה, אך למעלה מזה, פירוש, טעמי הגזירות האלה, באמת לא נמסרו לבריות כלל, והם החקירות האסורות לנו, כי הדברים מושרשים ברוממות הרצון הרוצה אותם, מה שאי אפשר לנו להשיג. והנה הוא ית"ש יודע שלהשלים הבריאה הזאת צריכים שני דברים, הגברת ההארה, דהיינו הגברת ההשפעה וריבויה, והעלמה ומיעוטה. כי יש ענינים שנתקנים בריבוי ההארה וההשפעה, ויש ענינים שנתקנים אדרבא בהעלם ומיעוט, בהניח לרע התגבורת הגדול, כמו שביארנו:
 
 
+Akıl şöyle dedi: Bu konunun çok derin bir kökü vardır. Şöyle ki: Efendi, mübarek olsun, kötülüğü yaptığı nitelikte ve onun için dilediği sınırlar içinde yaptı. Şimdi onu yaratılıştan bütünüyle geçirmek için olayları döndürmektedir; bunu daha önce açıkladık. Fakat bu döndürmeleri kötülüğün niteliğine ve onu yaptığı düzenlere göre yapması gerekir; bu açıktır. Efendi, mübarek olsun, bu yaratılışı yetkinlikten eksik yaptıktan sonra, eksikliklerini geçirerek onu tamamlamak için bu döngüleri döndürür. Bütün yapmak istediği konuların kökünü ve bütün gizli hükümlerinin sebeplerini yalnız O, yüce olsun, bilir. Çünkü yaratılanlar yalnızca üst iradenin hükümlerinden sonrasını bilirler. Bunun üstündeki şeyler, yani bu hükümlerin sebepleri, gerçekte yaratılanlara hiç verilmemiştir. Bizim için yasak olan araştırmalar bunlardır; çünkü meseleler, onları isteyen iradenin yüceliğinde köklenmiştir ve bunu kavramamız mümkün değildir. İşte O, yüce adı kutsansın, bu yaratılışı tamamlamak için iki şey gerektiğini bilir: aydınlanmanın güçlendirilmesi, yani etkinin güçlenmesi ve çoğalması; bir de onun gizlenmesi ve azalması. Çünkü bazı konular aydınlanmanın ve etkinin çoğalmasıyla onarılır; bazı konular ise tersine, gizlenme ve azalma ile, kötülüğe büyük bir güçlenme payı bırakılarak onarılır. Bunu açıkladık.
+
+
 ###### Da'at Tevunot 168:2
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/168:2](https://torahapp.org/share/book/Da%27at%20Tevunot/r/168:2)
 
 
 ודבר זה יראה בבירור למי שישים לב אל כל הנולד בעולם, שימצא שלא יולד דבר, לא לטובה ולא לרעה, שלא ימשך ממנו תועלת וטוב לעולם. וכבר אמרו (ברכות ס ע"א), כל מאי דעבדין מן שמיא לטב. אפס כי הרבה דרכים למקום, אלה מיימינים ואלה משמאילים, ואין הדברים האלה תלויים במעשה ובזכות, אלא בתכונת הבריאה ומהותה. והוא ית' שיודע לבדו מהות הבריאה באמת - יודע גם המצטרך לה. רק זאת ידענו, שיש ענין זה במהות הבריאה שלהשלמתה צריך הריבוי והמיעוט. והוא ענין הכ"ח עתים המוזכרים בספר קהלת (פרק ג), שכנגדם עד בשחק - הלבנה, המתמלאת ומתמעטת להיות דוגמא לענין הזה. ויש בזה הענין ידיעות עמוקות לחכמים בהבנת דרכי הלבנה והליכותיה, והתחברה עם השמש בכל מקריה, שהם דוגמא ממש לכל הענינים הכלליים של ההנהגה הסובבת להשלים הבריאה לפי התכונה הזאת שיש בה, כמו שביארנו, שצריך להשלמת ענינה הריבוי והמיעוט, אשר על כן המשילו כנסת ישראל ללבנה, ואמרו (סנהדרין מב ע"א), "שהם עתידים להתחדש כמותה". והפרטים בענין זה רבים ועמוקים. אך כלל הענין הוא, שהגלגל הסובב על ישראל וכללות הנבראים להשלים תיקונם מצד תכונת הבריאה, לא מצד המעשה של התחתונים - כלל עניניו מתראים בלבנה הזאת וכל הנבחן בה:
+
+
+Dünyada olup bitenlere dikkat eden kimse bunu açıkça görür: İster iyi ister kötü olsun, dünyaya gelen hiçbir olay yoktur ki ondan dünya için bir yarar ve iyilik doğmasın. Nitekim şöyle denmiştir: “Göklerden yapılan her şey iyilik içindir.” Fakat Makom’un birçok yolu vardır: bazıları sağa, bazıları sola gider. Bu şeyler eyleme ve hak edişe bağlı değildir; yaratılışın yapısına ve öz niteliğine bağlıdır. Yaratılışın gerçek özünü yalnız O, yüce olsun, bildiği için, onun neye ihtiyaç duyduğunu da yalnız O bilir. Biz yalnızca şunu biliriz: yaratılışın özünde, tamamlanması için çoğalma ve azalma gerektiren bir yön vardır. Kohelet kitabında anılan yirmi sekiz zamanın konusu budur; gökte buna karşılık ay vardır: dolup eksilerek bu konunun örneği olur. Ayın yollarını, gidişlerini ve güneşle bütün durumlarındaki birleşmesini anlama konusunda bilge kişiler için derin bilgiler vardır. Bunlar, yönetimin yaratılışı tamamlamak üzere dönen genel konularının tam bir örneğidir. Açıkladığımız gibi, yaratılışın yapısında onun tamamlanması için çoğalma ve azalma gereklidir. Bu yüzden Kneset İsrael ayla karşılaştırılmış ve “onlar onun gibi yenilenmeye adaydır” denmiştir. Bu konunun ayrıntıları çok ve derindir. Fakat konunun geneli şudur: İsrael ve yaratılanların bütünü üzerinde, onların tikun’unu tamamlamak üzere dönen çark, aşağıdakilerin eylemi bakımından değil, yaratılışın yapısı bakımından işler. Onun bütün yönleri bu ayda ve ayda ayırt edilen bütün hallerde görünür.
 
 
 ###### Da'at Tevunot 168:3
@@ -4150,12 +4600,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 ואמנם כלל תיקון הבריאה חילק אותו האדון ב"ה בין כל הנשמות אשר עשה לעבדו, לפי מה שידע היות הגון לכל אחד מהן לפי הענין שברא אותו, שהוא דבר נעלם מאוד מאוד, ולא הושג משום נביא וחוזה, כי כל זה נכלל בטעמי הגזירות שזכרנו, שהם נעלמים מן הנבראים, ולא יוודעו לנו אלא התולדות. ונמצא, שיש אדם שיגיע לו מצד שורש ענינו להיות מושפע בריבוי ההשפעה, שהוא אחד מן הדרכים שבהם נשלמת הבריאה כמו שביארנו, ויש אדם שיגיע לו מצד שורש ענינו להיות מושפע במיעוט ההשפעה, שהוא הדרך השני המצטרך להשלמת הבריאה. ואין כאן מצד מעשי בני האדם ההם, אלא מצד מה שמגיע להם לפי מה שחילק האדון ב"ה תיקון הבריאה בין הנבראים, כי זה תיקון לה וזה תיקון לה, כל אחד לפי דרכו:
 
 
+Yaratılışın genel tikun’unu ise Efendi, mübarek olsun, kendisine hizmet etmeleri için yaptığı bütün neşamalar arasında paylaştırdı. Bunu, her biri için onu yarattığı konuya göre uygun olduğunu bildiği şekilde yaptı. Bu son derece gizli bir şeydir; hiçbir peygamber ve hiçbir görücü tarafından kavranmamıştır. Çünkü bütün bunlar, sözünü ettiğimiz hükümlerin sebeplerine dahildir; bunlar yaratılanlardan gizlidir ve bize yalnızca sonuçları bilinir. Buna göre, bazı insanlar kendi kök konuları bakımından etkinin çoğalmasıyla etkilenmeye uygun olur; bu, yaratılışın tamamlandığı yollardan biridir. Bazı insanlar da kendi kök konuları bakımından etkinin azalmasıyla etkilenmeye uygun olur; bu da yaratılışın tamamlanması için gereken ikinci yoldur. Burada bu insanların eylemleri yönünden bir durum yoktur; mesele, Efendi’nin, mübarek olsun, yaratılışın tikun’unu yaratılanlar arasında nasıl paylaştırdığına göre onlara düşen şeydir. Çünkü bu biri için tikun’dur, şu da öbürü için tikun’dur; her biri kendi yoluna göre.
+
+
 ###### Da'at Tevunot 168:4
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/168:4](https://torahapp.org/share/book/Da%27at%20Tevunot/r/168:4)
 
 
 ואמנם המשפט לאלקים הוא, לתת אחר כך שכר טוב לצדיקים, שהיו צדיקים והגיע להם מצד דרכי ההנהגה העליונה להיות מעונים ומיוסרים מצד העינוי שהיה להם בעולם הזה, וכנגד כל מעשיהם הטובים. ואמנם לכלל ההנהגה הזאת שאינה פונה אל הזכות והחובה, אלא פנייתה למה שמצטרך להשלמת הבריאה לפי מהותה, קראוה החכמים ז"ל, "מזל", יען אין ענינה אלא גזירה, ואינה תלויה בבחירת האדם ובזכותו. אמנם כבר אמרתי, אין דבר זה נוהג אלא בעולם הזה, אך בעולם הבא אין שם אלא שכר המעשים, מידה כנגד מידה, אפילו שכר דיבור נאה:
+
+
+Yargı ise Tanrı’ya aittir: Sonra tsadiklere, tsadik oldukları halde üst yönetimin yolları bakımından acı çekmeleri ve sıkıntıya uğramaları kendilerine düşmüşse, hem bu dünyada çektikleri acıya hem de bütün iyi eylemlerine karşılık iyi ödül vermek O’na aittir. Hak ve borca bakmayıp, yaratılışın öz niteliğine göre onun tamamlanması için gerekli olana yönelen bu yönetimin bütününe bilgelerimiz z”l “mazal” demiştir; çünkü onun konusu yalnızca hükümdür, insanın seçimine ve hak edişine bağlı değildir. Fakat daha önce de söyledim: bu şey yalnızca bu dünyada işler. Gelecek dünyada ise yalnızca eylemlerin ödülü vardır; ölçüye ölçü, güzel bir sözün ödülüne kadar.
 
 
 
@@ -4169,6 +4625,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמרה הנשמה – אמנם אם כן נגזר אומר שאין שכר ועונש בעולם הזה כלל, אלא בעולם הבא?
 
 
+Nefeş şöyle dedi: Öyleyse, bu durumda dünyada hiç ödül ve ceza yoktur, yalnızca gelecek dünyada vardır dememiz gerekir mi?
+
+
 
 ## Chapter 170
 
@@ -4180,12 +4639,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 עיקר אותנטיא שלו לא היה ראוי להיות בימי דוד, אלא בימי שאול, אלא על ידי שהיה שאול גרופית של שקמה גלגלו הקב"ה והביאו בימי דוד". וכן אמרו (ב"ר נה, ב), "הפשתני הזה כשהוא בודק פשתנו אינו בודק אלא" וכו'. הרי לפניך שלא תמיד ישתמש האדון ב"ה מן הנהגת המזל הזה, אלא בזמן שהוא יודע שטוב להשתמש בה. כי הנה האדון ב"ה הכין סדרים עמוקים בהשלמת הבריאה, כמו שביארנו, ושם לו שני דרכים, דרך השכר ועונש ודרך המזל, והוא הבוחר, ומשתמש פעם מן הדרך האחד ופעם מן הדרך האחר, מה שהוא יודע היותו יותר טוב לעולמו. אמנם בהשתמשו מן הדרך השכר ועונש - יהיו כל הענינים הנולדים לפי סדרי השכר ועונש בחוקותיהם; ובהשתמשו מדרך המזל - יהיו הענינים. הנולדים לפי סדר הנהגת המזל ותכונת הבריאה, כמו שביארנו:
 
 
+Onun asıl yetki zamanı David’in günlerinde değil, Şaul’un günlerinde olmalıydı; fakat Şaul sıradan bir incir kütüğü gibi olduğu için HaKadoş Baruh Hu işleri döndürdü ve bunu David’in günlerine getirdi. Yine şöyle demişlerdir: “Keten işçisi ketenini sınadığında ancak...” diye başlayan sözlerinde İşte önünde açıkça görüyorsun: Efendi, mübarek olsun, bu mazal yönetimini her zaman kullanmaz; yalnızca onu kullanmanın iyi olduğunu bildiği zamanda kullanır. Çünkü Efendi, mübarek olsun, açıkladığımız gibi yaratılışın tamamlanmasında derin düzenler hazırladı ve onun için iki yol koydu: ödül ve ceza yolu ile mazal yolu. Seçen O’dur; dünyası için daha iyi olduğunu bildiği şeye göre bazen bir yoldan, bazen diğer yoldan kullanır. Ödül ve ceza yolunu kullandığında, doğan bütün konular ödül ve cezanın düzenlerine ve yasalarına göre olur. Mazal yolunu kullandığında ise doğan konular, açıkladığımız gibi mazal yönetiminin düzenine ve yaratılışın yapısına göre olur.
+
+
 ###### Da'at Tevunot 170:2
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/170:2](https://torahapp.org/share/book/Da%27at%20Tevunot/r/170:2)
 
 
 והנה גם זה יוליד לצדיקים זכות יותר, כי אלמלי תמיד היה האדון ב"ה מענה את הצדיקים לבד - היה נסיון, אך לא כל כך גדול, כי על כל פנים היו מתנחמים לדעת שהם ודאי צדיקים, כיון שהם מעונים; וכל בן שכל היה בוחר באלה היסורים, שודאי אינם אלא יסורי הצדיקים, כי הרשעים אינם מיוסרים. אמנם רצה האדון ב"ה שיהיה מקום נסיון יותר גדול, שלא יוכלו בני האדם להבין בבירור מה שהקב"ה עושה בעולם עם כל איש ואיש. אבל מה שיראה לכאורה - הוא היות "הכל כאשר לכל, מקרה אחד לצדיק ולרשע" (קהלת ט, ב). וענין זה ביארוהו במדרש ז"ל (ילק"ש קהלת תתקפט, וע"ש בסי' הקודם לו), שלמה מביט בכל הדורות ורואה דברים שמגיעים לרשעים מגיעים לצדיקים" וכו'. פירוש, כי יראה הקב"ה שמקרה אחד שיוולד לרשע שיהיה, עובר אחת מן העבירות בפרט, ויהיה העונש ההוא מתיחס לעבירה ההיא, יוולד גם כן לצדיקים שיהיו ממש נזהרים עד מאוד באותה העבירה עצמה; והיינו, אברהם ונמרוד, וכל האחרים המוזכרים במדרש שם, שהמעשה מוכיח האמת הזאת שפך הוא ודאי. והנה זה עשוי כדי לתת שכר טוב יותר לצדיקים המתחזקים באמונתם, והוא מה שאמר הכתוב (חבקוק ב, ד), "וצדיק באמונתו יחיה". כי אי אפשר לשום אדם לעמוד על בורים של הדברים שהקב"ה עושה עמו, כי הוא ית' מתנהג פעם בדרך השכר ועונש ופעם בדרך המזל, כמו שביארנו. וכל דבר שיתחדש על האדם, הנה אין שם מי שישפוט אם מן השכר ועונש הוא, וכפי מעשיו, אם מן המזל הגוזר עליו; ויש בכל דבר ודבר פנים לכאן ולכאן, עד שהלב סוער מאוד ברוב מחשבותיו ושרעפיו בקרבו. אבל מי שהוא נאמן לה', צריך שיתקע יתד אמונתו חזק בל ימוט, לדעת שכל מעשה ה', יהיה באיזה דרך שיהיה, ישר ונאמן הוא ודאי, ואין עולה ח"ו, ולא כרשעים שהיו אומרים, לא יתכן דרך ה'; אלא על משמרתו יעמוד לעבוד את בוראו בעבודה תמה, בהשואה אחת בכל מידה ומידה שהוא מודד לו, ואז יקרא תמים ממש:
+
+
+Bu da tsadiklere daha fazla hak kazandırır. Çünkü Efendi, mübarek olsun, her zaman yalnızca tsadikleri sıkıntıya soksaydı, bu bir sınav olurdu ama çok büyük bir sınav olmazdı. Çünkü her durumda onlar, sıkıntı çektiklerine göre kesinlikle tsadik olduklarını bilerek teselli bulurlardı; akıl sahibi herkes de bu acıları seçerdi, çünkü bunlar kesinlikle tsadiklerin acıları olur, kötüler ise acı çekmezdi. Fakat Efendi, mübarek olsun, daha büyük bir sınava yer olmasını diledi: insanlar HaKadoş Baruh Hu’nun dünyada her bir kişiyle ne yaptığını açıkça anlayamasınlar. Görünüşte ise “her şey herkes için aynıdır; tsadik ile kötü için tek bir olay vardır” (Kohelet 9:2) gibi görünür. Bilgelerimiz midraşta bu konuyu açıklamışlardır: “Şelomo bütün kuşaklara bakar ve kötülere gelen şeylerin tsadiklere de geldiğini görür” ve devamı. Yani HaKadoş Baruh Hu, belirli bir günahı işleyen bir kötüye gelen olayın, aynı günaha karşı son derece dikkatli olan tsadiklere de geldiğini gösterir. Midraşta anılan Avraam ve Nimrod ile diğer örnekler de böyledir; olay gerçeğin kesinlikle böyle olduğunu kanıtlar. Bu, imanlarında güçlenen tsadiklere daha iyi bir ödül vermek için yapılmıştır. Ayetin “Tsadik imanıyla yaşayacaktır” (Habakuk 2:4) demesi de budur. Çünkü hiçbir insan, HaKadoş Baruh Hu’nun kendisiyle yaptığı işlerin öz açıklığına ulaşamaz. O, yüce olsun, bazen ödül ve ceza yoluyla, bazen mazal yoluyla davranır; bunu açıkladık. İnsanın başına gelen her olayda, bunun ödül ve cezadan mı, eylemlerine göre mi, yoksa kendisi hakkında hüküm veren mazalden mi geldiğine hükmedecek kimse yoktur. Her olayda iki yöne de bakan yüzler vardır; öyle ki kalp çokça düşünce ve iç tasarımla sarsılır. Fakat Haşem’e bağlı sadık kişi, iman kazığını sarsılmayacak biçimde sağlam çakmalıdır. Haşem’in her işi, hangi yolla olursa olsun, kesinlikle doğru ve güvenilirdir; onda haksızlık yoktur, Tanrı korusun. “Haşem’in yolu doğru değildir” diyen kötüler gibi davranmamalıdır. Aksine kendi nöbet yerinde durmalı, Yaratıcı’sına, kendisine ölçtüğü her ölçüde eşit bağlılıkla, tam bir avoda ile hizmet etmelidir. O zaman gerçekten tam kişi diye adlandırılır.
 
 
 ###### Da'at Tevunot 170:3
@@ -4196,12 +4661,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 כללו של דבר - שני דרכים הם, דרך השכר ועונש ודרך המזל; והאדון ב"ה משתמש מהם לפי מה שהוא יודע היותו טוב לעולמו:
 
 
+Konunun özeti şudur: İki yol vardır: ödül ve ceza yolu ile mazal yolu. Efendi, mübarek olsun, dünyası için iyi olduğunu bildiği şeye göre bunlardan yararlanır.
+
+
 ###### Da'at Tevunot 170:4
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/170:4](https://torahapp.org/share/book/Da%27at%20Tevunot/r/170:4)
 
 
 ובמדרשו של רשב"י נמצא מאמר אחד, שאף על פי שענינו עמוק בסתרי המידות, אבל שטחיותו נראה זר מאוד למי שלא ידע הקדמות אלה שהודעתיך. וז"ל המאמר (תיקוני זוהר, תיקון ע), "ובזמנא דאסתלק הוי"ה מכרסיא דדין ומכרסיא דרחמי, לית תמן לא אגרא ולא עונשא", כי נראה כאילו ח"ו אין שכר ועונש. אמנם הכוונה האמיתית היא להודיענו שיש זמן שאין האדון ב"ה מנהג העולם בהנהגת השכר ועונש, אלא בהנהגת המזל, וכמו שביארנו, שהטוב והרע נמשך ובא לפי עניני ההנהגה לצורך התיקון הכללי. אך ודאי שהשכר ועונש יהיה לעולם הבא, לתת לאיש כדרכיו וכפרי מעלליו. אמנם הודיענו, שבזמן תוקף עקבות משיחא, לא יקשה עלינו אם הצדיקים נשפלים השפלה גדולה, ואם בני האדם צועקים ולא נענים, וכל שאר הדברים הרעים שאמרו רז"ל (סוטה מט ע"ב), "בעקבות משיחא חוצפא יסגי", כי כל זה נולד לפי שאין הצדיקים יכולים אפילו בזכותם לתקן הקלקולים ההם, כי השעה גורמת כך, וכדי להוליד מזה התיקון השלם שיהיה אחר כך בגילוי יחודו ית', וכמו שביארנו:
+
+
+Raşbi’nin midraşında bir söz vardır. Konusu middot’un sırları bakımından derin olsa da, sana bildirdiğim bu öncülleri bilmeyen kimseye dış görünüşü çok garip gelir. Sözün anlamı şudur: “Havaya, yargı tahtından ve rahmet tahtından çekildiği zamanda orada ne ödül vardır ne ceza.” Bu, sanki Tanrı korusun, ödül ve ceza yokmuş gibi görünür. Fakat gerçek niyet bize şunu bildirmektir: Efendi, mübarek olsun, bazen dünyayı ödül ve ceza yönetimiyle değil, açıkladığımız gibi mazal yönetimiyle yönetir. O zaman iyi ve kötü, genel tikun’un ihtiyacına göre yönetimin konularından akıp gelir. Fakat ödül ve ceza elbette gelecek dünyada olacaktır; herkese yollarına ve eylemlerinin meyvesine göre verilecektir. Bununla bize şunu bildirmiştir: Maşiah’ın ayak izlerinin güçlendiği dönemde tsadikler büyük bir düşüşe uğrarsa, insanlar feryat edip cevap alamazsa ve bilgelerimizin “Maşiah’ın ayak izlerinde küstahlık çoğalacak” diye söylediği diğer kötü durumlar gerçekleşirse, bu bize güç gelmemelidir. Çünkü bütün bunlar, tsadiklerin kendi hak edişleriyle bile o bozulmaları düzeltememelerinden doğar; zaman bunu gerektirir. Amaç, sonrasında O’nun birliğinin açığa çıkışıyla gerçekleşecek tam tikun’un bundan doğmasıdır; bunu açıkladık.
 
 
 ###### Da'at Tevunot 170:5
@@ -4212,12 +4683,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 ואמנם צריך שתדעי הקדמה, צריכה לנו הרבה לישוב ספיקות רבים. והוא, כי אפילו בזמן שהאדון ב"ה רוצה לנהג את עולמו בהנהגת המזל שזכרנו, הנה הוא מחזיר ומסבב הדברים, שאפילו מה שצריך לבוא לפי המזל - יגיע מתוך דרכי הנהגת השכר ועונש. וכענין זה מצאנו יסורין של רבי, שאמרו ז"ל (ב"מ פה ע"א), "על ידי מעשה באו ועל ידי מעשה הלכו". ובאמת לא היו היסורין ההם אלא מיסורי הצדיקים, אבל כך היא המידה, שהקב"ה מרכיב שתי ההנהגות אלה ביחד, ואף גזירות המזל לא יבואו אלא על ידי ענין מה המתיחס אל השכר ועונש שיוכלו ליתלות בו, שהרי אגביו יתגלגל כל הצריך להתגלגל, אף על פי שבעצמו לא יהיה אלא דבר קטון:
 
 
+Fakat bilmelisin ki birçok kuşkuyu yerli yerine oturtmak için bize çok gerekli olan bir öncül vardır. O da şudur: Efendi, mübarek olsun, dünyasını sözünü ettiğimiz mazal yönetimiyle yönetmek istediği zamanda bile, işleri geri çevirip döndürür; öyle ki mazal gereği gelmesi gereken şey bile ödül ve ceza yönetiminin yolları içinden gelir. Bu bağlamda Rabbi’nin acılarını buluruz; bilgelerimiz z”l “bir eylemle geldiler ve bir eylemle gittiler” demiştir. Gerçekte o acılar yalnızca tsadiklerin acılarındandı. Fakat ölçü böyledir: HaKadoş Baruh Hu bu iki yönetimi birlikte birleştirir; mazal hükümleri bile, ödül ve cezayla ilişkili ve ona bağlanabilecek bir konu aracılığıyla gelir. Çünkü onun sayesinde dönmesi gereken her şey döner; o şeyin kendisi çok küçük bir şey olsa bile.
+
+
 ###### Da'at Tevunot 170:6
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/170:6](https://torahapp.org/share/book/Da%27at%20Tevunot/r/170:6)
 
 
 כללו של דבר שורש ההנהגה באמת הוא ענין התיקון הכללי של כל הנמצאות, הסובב על קוטבי תכונת הנמצאות עצמם, לפי מה שעשאם הבורא ית"ש; וכל גלגולי ההנהגה הזאת אינם אלא סיבובי דברים ההולכים אל תכלית התיקון הכללי הזה שזכרנו, בהסיר מהם כל החסרונות המצויים בהם. ויש לדבר הזה חוקים וסדרים עמוקים בלתי מושגים כלל. ובעוד שגלגולים אלה מתגלגלים והולכים, יש הנהגת השכר ועונש, שהיא ההנהגה המתגלית, שכל חוקות שמים וארץ תלויים בה. אמנם תוכיות כל הסדרים והחוקים נקשר בענין התיקון הכללי שזכרנו, כי אינם שתי הנהגות הפכיות ומתנגדות, אלא אדרבא, העיקר היא הנהגת התיקון הכללי; אלא שידע האדון ב"ה בחכמתו הנשגבה, לסדר חוקי שכר ועונש ראויים לשמש כל זמן סיבוב ההנהגה הזאת, ויהיו חוקים מתיחסים ונאותים ומשתווים בתוכיותם אל גלגולי ההנהגה של התיקון. ועל כן לא תצא ההנהגה של השכר ועונש חוץ ממרכז הנהגת התיקון הכללי, אדרבא, הנה היא משתווה אליה ומתחברת עמה, ודברי ההנהגה של התיקון עצמה ימשכו ויבואו בדרכי השכר ועונש, וכמו שביארנו:
+
+
+Konunun özeti şudur: Yönetimin gerçek kökü, bütün varlıkların genel tikun’udur. Bu tikun, Yaratıcı’nın, yüce adı kutsansın, onları yaptığı şekle göre, varlıkların kendi yapısının kutupları üzerinde döner. Bu yönetimin bütün döngüleri, sözünü ettiğimiz genel tikun’un amacına doğru giden dönüşlerden başka bir şey değildir; varlıklarda bulunan bütün eksiklikleri onlardan kaldırmaya yöneliktir. Bu konuda hiç kavranamayan derin yasalar ve düzenler vardır. Bu döngüler dönüp giderken ödül ve ceza yönetimi de vardır; bu, görünen yönetimdir ve göklerin ve yerin bütün yasaları ona bağlıdır. Fakat bütün düzenlerin ve yasaların iç kısmı, sözünü ettiğimiz genel tikun konusuna bağlıdır. Çünkü bunlar iki zıt ve birbirine karşı yönetim değildir. Tam tersine, asıl olan genel tikun yönetimidir. Ancak Efendi, mübarek olsun, yüce hikmetiyle, bu yönetim döngüsü sürdüğü sürece hizmet edecek uygun ödül ve ceza yasalarını düzenlemeyi bilmiştir. Bu yasalar, iç yapıları bakımından tikun yönetiminin döngülerine uygun, denk ve uyumlu olur. Bu yüzden ödül ve ceza yönetimi, genel tikun yönetiminin merkezinin dışına çıkmaz. Tam tersine onunla uyumlu olur ve ona bağlanır. Tikun yönetiminin kendi konuları da ödül ve ceza yolları içinde çekilip gelir; bunu açıkladık.
 
 
 ###### Da'at Tevunot 170:7
@@ -4228,12 +4705,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אפס, כי העלים האדון ב"ה מנבראיו השגת ההנהגה העליונה הזאת, ולא היא ועניניה, ולא היחס שבינה ובין הנהגת השכר ועונש מתגלים ונודעים. ולא עמד על בירור הדבר הזה כל נביא וחוזה, אלא ראו מה שראו, ולא עמדו על בוריו, כי אם נשארו תמיד מסופקים בספיקות רבות, וכמו שאמרו ז"ל על הפסוק (שמות לג, יט), "וחנותי את אשר אחון ורחמתי את אשר ארחם" (עי' ברכות ז ע"א):
 
 
+Ancak Efendi, mübarek olsun, bu üst yönetimin kavranışını yaratılanlarından gizlemiştir. Ne bu yönetimin kendisi ve konuları, ne de onunla ödül ve ceza yönetimi arasındaki ilişki açığa çıkarılıp bilinmiştir. Hiçbir peygamber ve hiçbir görücü bu konunun tam açıklığına ulaşmamıştır. Gördüklerini görmüşler, fakat onun öz açıklığına ulaşmamışlardır; sürekli birçok kuşkuyla baş başa kalmışlardır. Bilgelerimizin “Kime lütfedersem ona lütfedeceğim; kime merhamet edersem ona merhamet edeceğim” (Şemot 33:19) ayeti hakkında söyledikleri de bu bağlamdadır.
+
+
 ###### Da'at Tevunot 170:8
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/170:8](https://torahapp.org/share/book/Da%27at%20Tevunot/r/170:8)
 
 
 וצריך שתדעי כי פרי המעשים הטובים שהצדיקים עושים, הוא מה שיהנו מהם לעתיד לבא בעולם הגמול, דהיינו הנצחיות. ואמנם יש במעשים טובים עצמם התיקון שהם מתקנים עתה בבריאה לפי הסדר שהיא מסודרת, ויש השכר מה שראוי להם לקבל לפי התיקון הזה שתיקנו. על כן הנה האדון ב"ה צריך לקחת מעשי בני האדם לפי מה שהם, ולשפוט אותם לפי התולדה הנולדת מהם באמת - לפי מה שהניח הקב"ה לבני האדם לתקן בבריאה כולה. ודבר זה צריך לגזור אותו לפי ענין מהות הבריאה כמו שעשאה האדון ב"ה, ולפי כל ההבחנות הנבחנות בתכונתה:
+
+
+Bilmelisin ki tsadiklerin yaptığı iyi eylemlerin meyvesi, gelecek zamanda, ödül aleminde, yani sonsuzlukta onlardan yararlanacakları şeydir. Fakat iyi eylemlerin kendisinde de, şimdi yaratılışta, onun düzenlendiği düzene göre yaptıkları tikun vardır; bir de bu yaptıkları tikun’a göre almaları uygun olan ödül vardır. Bu yüzden Efendi, mübarek olsun, insanların eylemlerini oldukları gibi almalı ve onları gerçekte onlardan doğan sonuca göre yargılamalıdır; yani HaKadoş Baruh Hu’nun bütün yaratılışta insanlara düzeltmeleri için bıraktığı şeye göre. Bu şey, Efendi’nin, mübarek olsun, yaratılışı yaptığı mahiyetin konusuna ve onun yapısında ayırt edilen bütün ayrımlara göre belirlenmelidir.
 
 
 ###### Da'at Tevunot 170:9
@@ -4244,12 +4727,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 ותדעי שאין שום דבר נשכח לפני כסא כבודו, ואין נעלם מעינו ית' בשפטו המשפט הזה; פירוש, שלא תאמר כיון שנתקלקל דבר, ואחר כך נתקן, לא יזכר לפניו אלא התיקון, והקלקול שהיה כבר נשכח; או להפך, בדבר שהיה מתוקן ונתקלקל לא יזכר תיקונו שהיה; אינו כן אלא אין שכחה לפני כסא כבודו. שאינו דומה התולדה היוצאה מן התיקון הבא אחר הקלקול, או התיקון הבא אחר תיקון אחר, או תיקון שבא אחר שני קלקולים, ועל דרך זה עד אין תכלית, מה שאין הפה יכול לדבר. כי לפי הגלגול של כלל הנמצאות צריך לשפוט כל מעשה על פי העבר ההוה והעתיד, שהרי אין תיקון כלל הבריאה נתקן אלא מכל מה שיתגלגל בכל השיתא אלפי שנין, זמן העולם הזה:
 
 
+Şunu da bilmelisin: Bu yargıda O’nun tahtı önünde hiçbir şey unutulmaz; O’nun, yüce olsun, gözü önünden hiçbir şey gizlenmez. Yani şöyle deme: Bir şey bozulduktan sonra düzeltilirse, O’nun önünde yalnızca tikun hatırlanır ve daha önce olmuş bozulma unutulur; ya da tersine, düzgün olan bir şey bozulursa önceki düzgünlüğü hatırlanmaz. Böyle değildir. Kavod tahtı önünde unutma yoktur. Çünkü bozulmadan sonra gelen tikun’dan doğan sonuç, başka bir tikun’dan sonra gelen tikun’dan doğan sonuca benzemez; iki bozulmadan sonra gelen tikun da ona benzemez. Bu böyle sonsuza kadar gider; ağız bunu anlatamaz. Çünkü bütün varlıkların döngüsüne göre her eylem geçmişe, şimdiye ve geleceğe göre yargılanmalıdır. Zira bütün yaratılışın tikun’u, bu dünyanın zamanı olan altı bin yıl boyunca dönecek olan her şeyden başka bir yolla tamamlanmaz.
+
+
 ###### Da'at Tevunot 170:10
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/170:10](https://torahapp.org/share/book/Da%27at%20Tevunot/r/170:10)
 
 
 והנה האדון ב"ה בידיעתו ידון כל דבר על פי שלושת הזמנים שזכרנו, כי אין תולדת כל מעשה אלא לפי מה שקדם לו, ולפי ההוה עמו, ולפי כל הבא אחריו. ואחר כל המשפט הזה נקבע לו שכר לעתיד לבא, שכר ההגון לו לפי מעשיו, וזה פשוט. והנה ביום הדין הגדול יפרוש האדון ב"ה את השמלה לעיני כל היצור, מכל מה שנעשה מיום ברוא אלקים אדם על הארץ עד היום ההוא, ויראה יושר משפטו בכל מעשה ומעשה, קטון וגדול, ומה נגזר עליו לפי משפטו האמיתי לזמן קיבול, שכר לעתיד לבא. ואחר כך יצאו צדיקים לקבל שכרם, איש איש כפי מעשיו:
+
+
+Efendi, mübarek olsun, bilgisiyle her şeyi sözünü ettiğimiz üç zamana göre yargılar. Çünkü her eylemin sonucu, ancak ondan önce gelen şeye, onunla birlikte bulunan şeye ve ondan sonra gelecek her şeye göre belirlenir. Bu yargının tümünden sonra ona gelecek dünya için bir ödül belirlenir; eylemlerine uygun olan ödül. Bu açıktır. Büyük yargı gününde Efendi, mübarek olsun, Tanrı’nın yeryüzünde insanı yarattığı günden o güne kadar yapılmış olan her şeyi bütün yaratılmışların gözleri önüne bir örtü gibi serecek; küçük ve büyük her eylemde yargısının doğruluğunu ve gelecek dünyada ödülü alma zamanı için gerçek yargısına göre onun hakkında ne hükmedildiğini gösterecektir. Sonra tsadikler ödüllerini almaya çıkacak; her biri kendi eylemlerine göre.
 
 
 
@@ -4263,6 +4752,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמרה הנשמה – ודאי הרבה למדתי, ויכולתי לפחות לסבור איזה סברא שתשקוט בה דעתי בענין השגחתו. וראיתי מקום גדול לעבודת האדם, ומה היא ומה תועלתה. וראיתי תולדות הזמן המתחדשות לבקרים, כמה מקורות יש להם, דהיינו, מידת משפטו ית' ומידת רחמיו, הנהגת המזל, והכוונה התכליתית בכל אלה מה היא. הבנתי מציאות האדם בזמן הזה, ועילויו בזמן שיתעלה. הבנתי ענין ביאת המשיח ותחית המתים ועולם הגמול מה הם ועל מה הם. ועל הכל - תוקף האמונה, לדעת שהכל מאתו ית' בעצה עמוקה, אין דבר במקרה ולא לבטלה, לא קטון ולא גדול, כי הכל גלגל הוא שחוזר בעולם, סובב סובב והולך לתת תיקון כללי אל כל הנמצאות, וסוף סיבובו יהיה התיקון הכללי הזה. והנה אחשוב שעד כאן כללים של חכמה, ואידך פירושא הוא, להבין כל הפרטים שבעולם, איש איש תחת סוגו. די לי שיהיו השרשים בידי, למען היותי לפחות מיושבת באמונתי בבירור:
 
 
+Nefeş şöyle dedi: Gerçekten çok şey öğrendim. En azından O’nun gözetimi konusunda zihnimi yatıştıracak bir görüş kurabildim. İnsanın avoda’sı için büyük bir yer bulunduğunu, onun ne olduğunu ve ne yarar sağladığını gördüm. Her sabah yenilenen zaman sonuçlarının ne kadar çok kaynağı olduğunu gördüm: O’nun, yüce olsun, yargı ölçüsü ve rahmet ölçüsü, mazal yönetimi ve bütün bunlardaki nihai amacın ne olduğu. İnsanın şimdiki zamandaki varlığını ve yükseleceği zamandaki yükselişini anladım. Maşiah’ın gelişi, ölülerin dirilişi ve ödül aleminin ne olduğunu ve neyin üzerine kurulduğunu anladım. Her şeyden önce de imanın gücünü anladım: bilmek gerekir ki her şey O’ndan, yüce olsun, derin bir tasarıyla gelir. Ne küçük ne büyük hiçbir şey rastlantıyla veya boşuna değildir. Çünkü her şey dünyada dönen bir çarktır; döner, dolaşır ve bütün varlıklara genel bir tikun vermek üzere ilerler. Onun dönüşünün sonu da bu genel tikun olacaktır. Şimdi düşünüyorum ki buraya kadar olanlar hikmetin genel ilkeleridir; geri kalanı açıklamadır: dünyadaki bütün ayrıntıları, her birini kendi türünün altında anlamaktır. En azından imanımda açık biçimde yerleşmiş olmam için köklerin elimde bulunması bana yeter.
+
+
 
 ## Chapter 172
 
@@ -4272,6 +4764,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 
 
 אמר השכל – עוד יש לי לבאר לך ענין הזמן ההולך בהיקף על כל האישים בשוה. ומצאנו בו שינויים בחלקיו מטעם הזמן עצמו, פירוש, לא מטעם מעשים שיחודשו בו, אלא מטעם היות העת ההיא. והוא מה שאמר קהלת (ג, א), "לכל זמן ועת לכל חפץ". והלא גם לזה צריך שיהיה שורש הגון ודאי:
+
+
+Akıl şöyle dedi: Sana bütün bireyler üzerinde eşit biçimde dönen zaman konusunu da açıklamam gerekiyor. Bu zamanda, parçalarında zamanın kendisinden kaynaklanan değişiklikler bulduk. Yani bu değişiklikler, onda yenilenecek eylemlerden dolayı değil, o vaktin kendisi böyle olduğu için meydana gelir. Kohelet’in “Her şeyin bir zamanı, her istek için bir vakti vardır” (Kohelet 3:1) sözü budur. Bunun da kesinlikle uygun bir kökü olması gerekir.
 
 
 
@@ -4285,6 +4780,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמרה הנשמה – גם זה ענין נחמד לדעת אותו על בוריו:
 
 
+Nefeş şöyle dedi: Bu da öz açıklığıyla bilinmesi hoş olan bir konudur.
+
+
 
 ## Chapter 174
 
@@ -4296,6 +4794,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמר השכל – ראי, הכוכבים והמזלות הם משפיעים כל אחד ואחד על דבר מיוחד ופרטי בעולם השפל הזה. ומי שהוא מושפע מכוכב אחד אינו מושפע מחבירו. וכל המקבלים מקבלים ממשפיעיהם תמיד בכל מקום. אמנם מלבד הפקודה הזאת אשר להם, הנה יש להם ממשלה ושליטה בסיבוב הזמן, שכל אחד שולט בשעה ועת אשר הוחק לו, וזה ידוע. ואמנם יש הפרש גדול בין שתי השליטות האלה, כי השליטה שיש להם כל אחד על הדברים המיוחדים לו, היא שליטה מגעת בעצם המקבלים, שכל ענינם תלוי בהם, ומתפעלים בתוכיות עצמותם מן ההשפעה שהם משפיעים עליהם. אך השליטה של ההיקף היא שליטה כללית, שכל השולט שולט על כל העולם, בין על הבריות המיוחדות לו, בין על הבריות שאינן מיוחדות. אך מצד אחר, אין השליטה ההיא שליטה גמורה על שום אחד מהם, ואין מקבלים ממנה אלא איזה התפעלות. ורושם הניכר יעשה בבריות מצד השליטה ההיא ודאי, כי אין שום מעשה במעשי האל ית' שיהיה לבטלה, אך אין זאת הפעולה העצמית אשר לכוכבים האלה. אך עצם פעולתם אינו אלא מה שהם פועלים ביחוד בבריות המיוחדות להן, וכמו שביארנו:
 
 
+Akıl şöyle dedi: Bak, yıldızlar ve mazalot bu aşağı dünyada her biri özel ve belirli bir şeye etki eder. Bir yıldızdan etkilenen, diğerinden etkilenmez. Bütün alıcılar da her yerde, sürekli kendi etkileyicilerinden alırlar. Fakat onlara ait bu görevin dışında, zamanın çevrimi içinde bir yönetimleri ve egemenlikleri de vardır; her biri kendisi için belirlenmiş saat ve vakitte egemen olur. Bu bilinen bir şeydir. Fakat bu iki egemenlik arasında büyük bir fark vardır. Her birinin kendisine özel şeyler üzerindeki egemenliği, alıcıların özüne ulaşan bir egemenliktir; onların bütün konusu buna bağlıdır ve üzerlerine akıttıkları etkiden kendi özlerinin içinde etkilenirler. Çevrim egemenliği ise genel bir egemenliktir. Egemen olan her şey bütün dünya üzerinde egemen olur: hem kendisine özel yaratılanlar üzerinde hem de özel olmayan yaratılanlar üzerinde. Fakat başka bir yönden, bu egemenlik onların hiçbirinin üzerinde tam bir egemenlik değildir; ondan yalnızca belli bir etkilenme alırlar. Yine de bu egemenlik yönünden yaratılanlarda tanınabilir bir iz oluşur; çünkü Tanrı’nın, yüce olsun, işlerinde boşuna olan hiçbir eylem yoktur. Fakat bu, o yıldızların asli işleyişi değildir. Onların asli işleyişi, yalnızca kendilerine özel yaratılanlarda özel olarak yaptıkları etkidir; bunu açıkladık.
+
+
 ###### Da'at Tevunot 174:2
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/174:2](https://torahapp.org/share/book/Da%27at%20Tevunot/r/174:2)
@@ -4304,12 +4805,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 ואמנם זאת היא דוגמא עשויה להראות ענינים היותר גבוהים ונעלמים. והיינו, כי הנה מיני השפעות רבות חידש האדון ב"ה להשפיע על בריותיו, השפעות מיוחדות לכל בריה כראוי לה. ומלבד זה, גזר היקף סיבובי לכל מיני ההשפעות האלה, להיות שולטים בסיבוב על העולם, שיהיה סדר שליטתם ופעולתם בסדר סיבוב הזמן. ובכל יום שולט בהנהגה מין ממיני ההשפעות, והיא שליטה כללית על כל הבריאה, אך אין פעולתו בשליטה זו פעולתו העיקרית שהוא עושה בנמצאות המקבלים ממנו ביחוד, אבל עם כל זה יחודשו ענינים בכל הבריאה לפי ענין ההשפעה ההיא, תולדת שליטתה זאת. ובזה גם כן תלויה קדושת ימי המועדות מימים ימימה, וכל שאר הדברים התלויים בזמן. אמנם צריך להבחין ההבחנה שזכרתי, שיש הפרש בין הפעולה המיוחדת מכל השפעה בכל זמן, ובין הפעולה הסיבובית שאינה כל כך עיקרית להגיע בתוכיות עצם המקבל:
 
 
+Fakat bu, daha yüksek ve gizli konuları göstermek için yapılmış bir örnektir. Yani Efendi, mübarek olsun, yaratıklarına etki etmek üzere birçok etki türü yenilemiştir; her yaratık için ona uygun özel etkiler vardır. Bunun dışında, bu etki türlerinin hepsi için döngüsel bir çevrim belirlemiştir; onlar dünya üzerinde çevrim içinde egemen olur, egemenlik ve işleyiş düzenleri zamanın çevrimi düzenine göre yürür. Her gün yönetimde bu etki türlerinden biri egemen olur; bu, bütün yaratılış üzerinde genel bir egemenliktir. Fakat bu egemenlik içindeki işleyişi, kendisinden özel olarak alan varlıklar üzerinde yaptığı asli işleyiş değildir. Bununla birlikte, o etkinin konusu uyarınca bütün yaratılışta yeni konular doğar; bunlar bu egemenliğin sonuçlarıdır. Bayram günlerinin yıldan yıla kutsallığı ve zamana bağlı diğer bütün şeyler de buna bağlıdır. Ancak söylediğim ayrımı ayırt etmek gerekir: her etkinin her zamanda kendine özgü işleyişi ile alıcının özünün iç kısmına o kadar asli biçimde ulaşmayan döngüsel işleyiş arasında fark vardır.
+
+
 ###### Da'at Tevunot 174:3
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/174:3](https://torahapp.org/share/book/Da%27at%20Tevunot/r/174:3)
 
 
 על דרך זה ענין יצירת האדם וכל זמניו, שכבר שמעת היותם מקבילים אל סדרי ההשפעה העליונה. כי ודאי הוא שבכל זמן מזמניו יתנהג על פי סדרי ההשפעות שהזמן ההוא מקביל להם, אך לא על צד התולדות הנולדות ביחוד מן ההשפעות ההם, אלא על צד הכנות גופו ואיבריו על הסדר ההוא. והנה אמרתי לך מה שיספיק לישב דעתך על האמת בעיקרים האלה אשר ביקשת ממני, ותו לא מידי:
+
+
+İnsanın yaratılışı ve bütün zamanları da bu yoldadır. Bunların üst etki düzenlerine karşılık geldiğini zaten duydun. Çünkü kesinlikle, zamanlarının her birinde insan, o zamanın karşılık geldiği etki düzenlerine göre yönetilir. Fakat bu, o etkilerden özel olarak doğan sonuçlar yönünden değil, bedeninin ve organlarının o düzene göre hazırlanması yönündendir. Bana sorduğun bu temel konularda zihnini hakikat üzerinde yerleştirmeye yetecek kadarını söyledim. Bundan fazlası yoktur.
 
 
 
@@ -4323,6 +4830,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמרה הנשמה – עוד ענין אחר אחפוץ לדעת ממך, ואולם איננו ענין כל כך ארוך, וגם לא מן המבהילים הרעיון בהעדר הידיעה בו, כמו הענינים שזכרנו עד עתה; אבל הוא דבר שתאותי לעמוד עליו בבירור:
 
 
+Nefeş şöyle dedi: Senden öğrenmek istediğim başka bir konu daha var. Gerçi çok uzun bir konu değil; ayrıca bilmemekle düşünceyi sarsan konulardan da değil, şimdiye kadar andığımız konular gibi değil. Fakat açık biçimde kavramayı arzuladığım bir şeydir.
+
+
 
 ## Chapter 176
 
@@ -4332,6 +4842,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 
 
 אמר השכל – ומה הוא הענין הזה?
+
+
+Akıl şöyle dedi: Bu konu nedir?
 
 
 
@@ -4345,6 +4858,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמרה הנשמה – ענין הנבואה, מה היא, מה דרכה ומה תועלתה?
 
 
+Nefeş şöyle dedi: Peygamberlik konusu: nedir, yolu nedir ve yararı nedir?
+
+
 
 ## Chapter 178
 
@@ -4354,6 +4870,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 
 
 אמר השכל – הנבואה היא ידיעה והשגה שהקב"ה נותן לנביא מכבודו ית'. ואמנם, הנה שמעת כבר שאמיתת מהותו ית' ושלמותו מה שהוא לפי עצמו - אינו ניתן להיות מושג לנו כלל, ולא ישיגוהו אלא מצד פעולותיו ומצד המידות אשר קבע לעצמו להנהיג את העולם, וכמו שביארנו. וישיגוהו מטיב ומעניש, מרחם, שופט, מחיה, רופא, ובכל שאר כל התארים המיוחסים לו מצד פעולות ו. ויראה להם כל השפעותיו בכל דרכיהם, ויראו כל עניניהם שבהם תלויים כל חוקות השמים והארץ וכל צבאם וכל פרטיהם. ועל כן ידעו העבר והעתיד מה שהקב"ה עושה בעולם, כי הנה ישיגוהו תופס באחת המידות, וישיגו כל התולדות הנולדות מזה בכל הנבראים שיהיו, וישיגוהו תופס במידה שתפס, ובמידה שיתפוס בכל פרטי הענין הזה כולו. אך מהותו הפשוט לא ישיגו. ואף השגה זאת שמשיגים לא תהיה בראיה פשוטה, אלא בדרך מיוחד לנבואה:
+
+
+Akıl şöyle dedi: Peygamberlik, HaKadoş Baruh Hu’nun kendi kavod’undan peygambere verdiği bilgi ve kavrayıştır. Daha önce duydun: O’nun, yüce olsun, öz mahiyetinin ve kendi başına olan yetkinliğinin hakikati bizim için hiçbir şekilde kavranmaya verilmiş değildir. O ancak eylemleri yönünden ve dünyayı yönetmek için kendisi adına belirlediği middot yönünden kavranır; bunu açıkladık. O, iyilik yapan ve cezalandıran, merhamet eden, yargılayan, yaşatan, iyileştiren ve eylemleri yönünden O’na nispet edilen diğer bütün sıfatlarla kavranır. Peygamberler O’nun bütün etkilerini, bütün yolları içinde görürler; göklerin ve yerin bütün yasalarının, bütün ordularının ve bütün ayrıntılarının bağlı olduğu bütün konularını görürler. Bu yüzden HaKadoş Baruh Hu’nun dünyada yaptığı geçmişi ve geleceği bilirler. Çünkü O’nu bir middah’ı tutmuş olarak kavrarlar; bundan bütün yaratılanlarda doğacak bütün sonuçları kavrarlar. O’nu tuttuğu middah’ta ve bütün bu konunun ayrıntılarında tutacağı middah’ta kavrarlar. Fakat O’nun yalın özünü kavrayamazlar. Kavradıkları bu kavrayış bile yalın bir görmeyle değil, peygamberliğe özgü özel bir yolla olur.
 
 
 
@@ -4367,6 +4886,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמרה הנשמה – זה מה שאני מבקשת לדעת, איך היא הראיה הזאת:
 
 
+Nefeş şöyle dedi: Benim bilmek istediğim de bu: bu görme nasıl olur?
+
+
 
 ## Chapter 180
 
@@ -4378,6 +4900,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמר השכל – מקרא מלא הוא (הושע יב, יא), "וביד הנביאים אדמה". ובמשה רבינו ע"ה נאמר (במדבר יב, ח), "ומראה ולא בחידות", הא לאחרים - בחידות. ובהדיא אמר (שם), "בחלום אדבר בו", ורז"ל קיימו מה שקיבלו (ברכות נז ע"א), "חלום - אחד מששים בנבואה". וזה, כי לא ניתן רשות לנביאים לראות הכבוד העליון כמו שהוא, אבל הכבוד המתגלה עליהם יחדש בלבבם דמיונות נבואיים, שיהיו כמו לבושים וחידות לענינים הראויים להגיע לידיעתם, וכמו כל שאר המשלים והחידות שבעולם. ואמנם אין דרך השגתם כמו שמשגת הדעת האנושית בדרך הטבעי; אבל היא השגה נשפעה בהם, וידיעה נחקקת, שלא יפול בה הספק וצורך העיון והרגל המופתים, אלא יתברר להם בלי שום ספק שהמתגלה עליהם ומדבר עמהם יהיה כבודו ית', והוא המחדש בלבם הדמיונות הנבואיים ההם. ותחקק בלבם ידיעה כמו כן - שישיגו פתרון המראה והחידה, וישיגו מה שהאדון ב"ה רוצה לגלות להם. וכדברים האלה כתב הרמב"ם זללה"ה בפרק ז' מיסודי התורה (הלכה ג), זה לשונו, "הדברים שמודיעים לנביאים במראה הנבואה - דרך משל מודיעים לו, ומיד יחקק בלבו פתרון המשל במראה הנבואה, וידע מה הוא":
 
 
+Akıl şöyle dedi: Açık ayet şudur: “Peygamberlerin eliyle benzetmeler kurdum” (Hoşea 12:11). Moşe Rabbenu hakkında ise “Görüntüyle, bilmecelerle değil” (Bamidbar 12:8) denmiştir; demek ki diğerleri için bilmecelerle olur. Aynı yerde açıkça “Onunla rüyada konuşurum” denmiştir. Bilgelerimiz z”l aldıkları geleneği şöyle yerleştirmiştir: “Rüya, peygamberliğin altmışta biridir.” Bunun anlamı şudur: Peygamberlere üst kavod’u olduğu gibi görme izni verilmemiştir. Fakat üzerlerinde açığa çıkan kavod, kalplerinde peygamberlik imgeleri yeniler; bunlar, onların bilgisine ulaşması gereken konular için giysiler ve bilmeceler gibi olur; dünyadaki bütün benzetmeler ve bilmeceler gibi. Bununla birlikte onların kavrama yolu, insan aklının doğal yolla kavramasına benzemez. Bu, onlara akıtılan bir kavrayış ve kalbe kazınan bir bilgidir; onda kuşku, araştırma gereği veya kanıt alışkanlığı bulunmaz. Onlara hiçbir kuşku olmadan açıklık kazanır ki üzerlerinde açığa çıkan ve onlarla konuşan, O’nun, yüce olsun, kavod’udur; kalplerinde bu peygamberlik imgelerini yenileyen de O’dur. Kalplerine aynı şekilde şu bilgi de kazınır: gördükleri görüntünün ve bilmecenin çözümünü kavrarlar; Efendi’nin, mübarek olsun, onlara açmak istediği şeyi kavrarlar. Rambam z”l, Mişne Tora’nın Hilkhot Yesodey HaTora yedinci bölümünde böyle yazmıştır: “Peygamberlere peygamberlik görüntüsünde bildirilen şeyler, benzetme yoluyla bildirilir; hemen peygamberlik görüntüsünde benzetmenin çözümü onun kalbine kazınır ve ne olduğunu bilir.”
+
+
 ###### Da'at Tevunot 180:2
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/180:2](https://torahapp.org/share/book/Da%27at%20Tevunot/r/180:2)
@@ -4386,12 +4911,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 וצריך שתבחיני שיש משלי המידות ומשלי התולדות. פירוש, יש משלים שבהם יתדמה הכבוד העליון על פי מידותיו ופעולותיו, ויש משלים שימשילו הפועל הנפעל ממנו ית'. דרך משל, כשירצה האדון ב"ה להראות כבודו לנביא כמו מטיב ומרחם - יתדמה לו כזקן, כענין שנאמר (דניאל ו, ט) "ועתיק יומין יתיב" וכשירצה להראותו כמו גבור על אויביו - יראה כבחור איש מלחמה, וכמו שאמרו ז"ל (מכילתא יתרו כ, ב), "נגלה על הים כבחור ונגלה על הר סיני כזקן"; (חגיגה יד ע"א), "שבחור נאה למלחמה וזקן נאה לישיבה". אך משלי הפעולות הם כענין מקל שקד דירמיה, וסיר הנפוח, סולם דיעקב, מגילת יחזקאל, איפת זכריה, ומנורת הזהב. והנה משלי המידות, כשיראה הכבוד העליון לעיני הנביא באותם הדמיונות, מיד ישיגו פתרון המראה ההוא. אך משלי הפעולות אפשר להם שלא ישיגום עד שיפרשום להם, וכמו שמצאנו בנביאים (זכריהו ד, ה), "הלא ידעת מה המה אלה, ואומר לא אדוני", וכדברי הרמב"ם ז"ל שם:
 
 
+Şunu da ayırt etmen gerekir: niteliklere ait meseller ve sonuçlara ait meseller vardır. Yani bazı mesellerde Yüce Görkem, kendi nitelikleri ve fiilleri yönünden benzetimli olarak görünür; bazı mesellerde ise O’ndan, kutsansın, meydana gelen fiil ve sonuç temsil edilir. Örneğin Efendi, kutsansın, kendi görkemini peygambere iyilik eden ve merhamet eden biri gibi göstermek istediğinde ona yaşlı biri gibi görünür; “Atik Yomin oturdu” sözünde olduğu gibi. Onu düşmanlarına karşı güçlü biri gibi göstermek istediğinde ise savaş adamı olan genç biri gibi görünür. Hahamlarımız z”l şöyle demiştir: “Deniz’de genç biri gibi, Sinay Dağı’nda yaşlı biri gibi açığa çıktı”; “genç savaş için, yaşlı ise oturuş için uygundur.” Fakat fiillerin meselleri Yeremya’daki badem dalı, kaynayan kazan, Yaakov’un merdiveni, Yehezkel’in tomarı, Zekharya’nın efası ve altın menora gibidir. Niteliklere ait mesellerde, Yüce Görkem peygamberin gözlerine bu benzetimlerle göründüğünde, peygamber hemen o görünümün çözümünü kavrar. Fiillere ait mesellerde ise, kendilerine açıklanıncaya kadar onları kavramamaları mümkündür; peygamberlerde gördüğümüz gibi: “Bunların ne olduğunu bilmiyor musun? Ben de: Hayır, efendim, dedim.” Rambam z”l de orada bunu bu şekilde açıklar.
+
+
 ###### Da'at Tevunot 180:3
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/180:3](https://torahapp.org/share/book/Da%27at%20Tevunot/r/180:3)
 
 
 והנה ממה שאפשר להיות במראיהן - זה הוא ריבוי הדמויות, ואפילו הפכיים זה לזה ברגע אחד. ודבר זה לימדונו חז"ל במסכת סופרים (טז, ב) ז"ל, "פנים בפנים דבר ה' עמכם'. פנים תרי, בפנים - תרי, הא ד' אפין של אימה - למקרא, בינוניות - למשנה, שוחקות - לתלמוד, מסבירות - לאגדה". וכן אמרו (ילק"ש יתרו רפו), "אנכי ה' אלקיך" - אמר ר' חמא בר פפא, הראה להם הקב"ה פנים זועפות, פנים מסבירות וכו'. אמר להם, אף על פי שאתם רואים כל הדמויות הללו - אנכי ה' אלקיך". והרי זה כדרך שאמרו בדיבור גם כן. (ירושלמי נדרים פ"ג ה"ב, וע"ש עוד דברים), "ערות אשת אחיך", "יבמה יבא עליה" - בדיבור אחד נאמרו; "זכור" ו"שמור" - בדיבור אחד נאמרו (שם, ועי' ר"ה כז ע"א). והנה הטעם לזה מבואר הוא, כי כיון שאין הדמויות הללו עצמיים, אלא גילוי נבואי נברא, תלוי ברצונו של מלך שהוא אומר ויהי, שיתדמו דמויות אלה לנפש הנביא. הלא הוא יכול לברוא דמויות כמו שרוצה באיזה דרך שרוצה, ואינו צריך לחוקות הטבע הגשמי הלז, שאינם עשויים אלא לגופים לבד. אמנם זה ודאי שאין שום דבר מדברי ה' לבטלה ח"ו, אלא כל דמות ודמות שהוא מראה לו, אינו אלא להודיעו מידה אחת ממידותיו ית', או ענין ממידותיו. וברצותו להראות לו ענינים שונים, יראה לו דמויות שונים, אף על פי שבעצמם יהיו הפכיים, כי כבר אין התכלית על הדמות המתראה, אלא על המובן לנביא מתוך הדמות ההוא:
+
+
+Peygamberlik görünümlerinde mümkün olan şeylerden biri de görünüm biçimlerinin çoğalmasıdır; hatta birbirine zıt biçimlerin bir anda görünmesi bile mümkündür. Hahamlarımız z”l bunu Masehet Soferim’de öğretmiştir: “‘Haşem sizinle yüz yüze konuştu.’ ‘Yüz’ iki, ‘yüze’ iki; işte dört yüz: korku yüzleri Mikra için, orta yüzler Mişna için, gülen yüzler Talmud için, açıklayıcı yüzler agada için.” Yine şöyle demişlerdir: “‘Ben Haşem, Tanrın’ — Rabbi Hama bar Papa dedi: HaKadoş Baruh Hu onlara sert yüzler, açıklayıcı yüzler vb. gösterdi. Onlara şöyle dedi: Bütün bu suretleri görseniz de, Ben Haşem, Tanrınızım.” Bu, söz hakkında söylediklerinin de aynısıdır: “Kardeşinin karısının çıplaklığı” ve “kayınbiraderi ona gelsin” tek sözde söylendi; “hatırla” ve “koru” da tek sözde söylendi. Bunun sebebi açıktır: Bu suretler özsel değildir; peygamberlik için yaratılmış bir açığa çıkıştır ve “söyledi ve oldu” diyen Kral’ın iradesine bağlıdır. O, bu suretleri peygamberin nefeş’inde dilediği biçimde ve dilediği yolla yaratabilir; yalnızca bedenler için konmuş olan bu maddi doğa yasalarına ihtiyaç duymaz. Bununla birlikte şurası kesindir: Haşem’in sözlerinden hiçbir şey, Tanrı korusun, boşuna değildir. Ona gösterdiği her suret, yalnızca O’nun, kutsansın, niteliklerinden birini ya da niteliklerine ait bir meseleyi bildirmek içindir. Ona farklı meseleleri göstermek istediğinde farklı suretler gösterir; bu suretler kendi içlerinde birbirine zıt olsalar bile. Çünkü amaç, görünen suretin kendisi değil, peygamberin o suretten anladığı anlamdır.
 
 
 
@@ -4405,6 +4936,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמרה הנשמה – אבל קשה לי מאוד מקרא שכתוב (דברים ד, טו), "כי לא ראיתם כל תמונה", שהרי הוא הפך כל הדברים האלה שדיברת:
 
 
+Nefeş şöyle dedi: Fakat şu ayet benim için çok zordur: “Çünkü hiçbir suret görmediniz.” Bu ayet, senin söylediğin bütün bu şeylerin tersidir.
+
+
 
 ## Chapter 182
 
@@ -4414,6 +4948,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 
 
 אמר השכל – וכי בלאו הכי אינו קשה שהכתובים סותרים זה את זה? פסוק אחד אומר, "כי לא ראיתם כל תמונה", ופסוק אחר אומר (במדבר יב, ח), "ותמונת ה' יביט"; וכתיב (יחזקאל א, כו), "דמות כמראה אדם עליו מלמעלה", וכל דכוותיה:
+
+
+Akıl şöyle dedi: Zaten bundan bağımsız olarak da ayetlerin birbirini çelişir görünmesi başlı başına bir güçlük değil midir? Bir ayet “Çünkü hiçbir suret görmediniz” der; başka bir ayet ise “Haşem’in suretine bakar” der. Ayrıca “Yukarıda, onun üzerinde insan görünümüne benzer bir suret vardı” diye yazılıdır; buna benzer başka ayetler de vardır.
 
 
 
@@ -4427,6 +4964,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמרה הנשמה – תשיב אתה לשתיהן:
 
 
+Nefeş şöyle dedi: İkisine de sen cevap ver.
+
+
 
 ## Chapter 184
 
@@ -4438,12 +4978,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמר השכל – כתוב (ישעיהו מ, כה), "ואל מי תדמיוני ואשוה יאמר קדוש", וכן (ישעיהו מ, יח), "ואל מי תדמיון אל ומה דמות תערכו לו". ועיקר זה הוא, שהרי ודאי הוא שאין הקב"ה מכשיל הנביא ח"ו, אלא מחכים אותו ומעמידו על האמת. והנה, שיהיה הקב"ה מראה לו דמויות במקום שאדרבא צריך להתרחק מאוד מדמות, אין לך מכשול גדול מזה. אמנם האמת הוא, שנפש הנביא משגת האמת בבירור. וזה, כי כבר שמעת שאין השגת הנביא וידיעתו כהשגה וידיעה הטבעית, אבל היא השגה מוטבעת ונחקקת בו, שימצא לו בירור גמור בידיעותיו בלא שום ספק. וזה הוא מין ידיעה שלא יוכל דעת האדם הטבעי לשער אותה כלל. והנה על פי הדרך הזה - נפש הנביא תשיג כל ענין הנבואה לאמתו, דהיינו, הנה יתברר לה שהאדון ב"ה הוא המתגלה עליה, ומודיע אותה מה שמודיע אותה; ויתברר לה כמו כן שאי אפשר לה להסתכל בו; לא מבעיא בהסתכלות של עין טבעי, אלא אפילו בהסתכלות נפשי, שאינו אלא השגה והבנה, כי לא תוכל הנפש להשיג ענינו יתברך. ויתברר לה שהכבוד המתגלה עליה מחדש בה דמות נבואי נברא, שמתוכו מקבלת הידיעה שהיא צריכה לקבל, והיינו (הושע יב, יא), "וביד הנביאים אדמה", שהבאנו למעלה:
 
 
+Akıl şöyle dedi: “Beni kime benzeteceksiniz de ona eş olayım? Kutsal Olan böyle der” diye yazılıdır. Yine “Tanrı’yı kime benzeteceksiniz ve O’na hangi sureti düzenleyeceksiniz?” diye yazılıdır. Buradaki esas ilke şudur: HaKadoş Baruh Hu’nun peygamberi yanılgıya düşürmeyeceği, Tanrı korusun, kesindir; tersine, onu bilgeleştirir ve hakikat üzerinde ayakta tutar. Öyleyse HaKadoş Baruh Hu’nun ona suretler göstermesi, üstelik tam da suretten çok uzak durulması gereken yerde bunu yapması, bundan daha büyük bir yanılgı sebebi olamazdı. Fakat hakikat şudur: Peygamberin nefeş’i hakikati açıkça kavrar. Çünkü daha önce işittin: Peygamberin kavrayışı ve bilgisi doğal kavrayış ve doğal bilgi gibi değildir. O, onda yerleşen ve kazınan bir kavrayıştır; böylece bilgilerinde hiçbir kuşku olmadan tam bir kesinlik bulunur. Bu, doğal insan aklının hiçbir şekilde tasavvur edemeyeceği bir bilgi türüdür. Bu yolla peygamberin nefeş’i peygamberlik meselesini hakikatiyle kavrar: Efendi’nin, kutsansın, kendisine açığa çıktığı ve ona bildirdiğini bildirdiği kendisi için açıklık kazanır. Aynı şekilde, O’na bakmasının mümkün olmadığı da kendisi için açıklık kazanır; yalnızca doğal gözün bakışıyla değil, nefsani bakışla da — yani kavrayış ve anlayışla da — O’na bakamaz; çünkü nefeş O’nun, kutsansın, gerçek mahiyetini kavrayamaz. Yine kendisi için açıklık kazanır ki, ona açığa çıkan Görkem, içinde yaratılmış bir peygamberlik sureti yeniler; alması gereken bilgiyi o suretin içinden alır. Yukarıda getirdiğimiz “Peygamberlerin eliyle benzetimli konuşurum” ifadesinin anlamı budur.
+
+
 ###### Da'at Tevunot 184:2
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/184:2](https://torahapp.org/share/book/Da%27at%20Tevunot/r/184:2)
 
 
 ונמצא, שהאמת מתברר לה בירור גמור, ואין לה מקום לטעות, כי הידיעה האמיתית חקוקה בה לדעת כל האמת הזאת. והנה לא תשיג הדמיון הנבואי אלא אם כן באותה השעה עצמה תשיג שאינו אלא דמיון נבואי, ולא עצמותו של האדון ב"ה. ועל כן, אף על פי שנאמר, "וביד הנביאים אדמה", מזהירם תמיד, "ומה דמות תערכו לו", כי הרי אין הנביא רואה דמות בלא שיראה גם כן שאינו אלא דמות נבואי, ולא עצמי, העשוי להבנת הנביא, שאינו יכול להשיג את עצמותו ית' הפשוט מכל דמיון לגמרי. וכן משה רבנו ע"ה מזהיר לישראל (דברים ד, טו), "כי לא ראיתם כל תמונה", כי שם מדבר על העצמות הפשוט של האדון ב"ה, ואומר להם, השמרו מאוד, כי כבר השגתם אתם האמת, וראיתם שלא ראיתם כל תמונה בו ית', אלא ראיתם שאדרבא מחמת היות עצמותו ית' פשוט מכל תמונה, לכן לא השגתם אותו, אלא אחר שברא לכם הדמויות הנבואיים. והמקרא קצר קצת, אך אינו קצר יותר משאר הכתובים, "ואל מי תדמיוני ואשוה", "ומה דמות תערכו לו", כי משה רבנו ע"ה מדבר עם ישראל שראו כל האמת הזאת, והזכיר להם מה שראו באמת:
+
+
+Böylece hakikat onun için tam bir açıklıkla belirginleşir ve yanılgıya yer kalmaz; çünkü gerçek bilgi, bütün bu hakikati bilmesi için onun içine kazınmıştır. Peygamberlikteki benzetimi ancak aynı anda onun yalnızca peygamberlik benzetimi olduğunu, Efendi’nin, kutsansın, özü olmadığını da kavradığı zaman kavrar. Bu yüzden, “Peygamberlerin eliyle benzetimli konuşurum” denmiş olsa da, onları sürekli “O’na hangi sureti düzenleyeceksiniz?” diye uyarır. Çünkü peygamber bir suret görürken, onun yalnızca peygamberin anlayışı için yapılmış peygamberlik sureti olduğunu, özsel bir suret olmadığını da görmeden o sureti görmez; çünkü O’nun, kutsansın, her türlü benzetimden bütünüyle sade olan özünü kavrayamaz. Aynı şekilde Moşe Rabbenu, üzerine esenlik olsun, İsrael’i şöyle uyarır: “Çünkü hiçbir suret görmediniz.” Çünkü orada Efendi’nin, kutsansın, sade özü hakkında konuşur ve onlara şöyle der: Çok dikkat edin; çünkü siz hakikati kavradınız ve O’nda, kutsansın, hiçbir suret görmediğinizi gördünüz. Tersine, O’nun, kutsansın, özü her türlü suretten sade olduğu için O’nu kavramadınız; yalnızca sizin için peygamberlik suretleri yarattıktan sonra kavradınız. Ayet biraz kısadır; fakat “Beni kime benzeteceksiniz de ona eş olayım?” ve “O’na hangi sureti düzenleyeceksiniz?” gibi diğer ayetlerden daha kısa değildir. Çünkü Moşe Rabbenu, üzerine esenlik olsun, bütün bu hakikati görmüş olan İsrael’le konuşur ve onlara gerçekten gördükleri şeyi hatırlatır.
 
 
 
@@ -4457,6 +5003,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמרה הנשמה – פירשת "כי לא ראיתם כל תמונה", אך לא פירשת "ותמונת ה' יביט":
 
 
+Nefeş şöyle dedi: “Çünkü hiçbir suret görmediniz” ifadesini açıkladın; fakat “Haşem’in suretine bakar” ifadesini açıklamadın.
+
+
 
 ## Chapter 186
 
@@ -4466,6 +5015,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 
 
 אמר השכל – אפילו הדמות ההוא המתדמה לנפש הנביא יקרא היטב "תמונת ה'". והוא, כי הנה אין ספק אצל הנביא שהמתגלה להם מתחפש בדמות ההוא אינו אלא האדון היחיד ברוך הוא וברוך שמו, אשר על כך יוכלו לקיים בפה מלא (יחזקאל א, כח), "הוא מראה דמות כבוד ה'", (ישעיהו ו, א), "ואראה את ה'". כי הנה בהשגתם המושפעת יתברר להם היות הדמות ההוא דמות מתחדש מהתגלות עליהם הכבוד העליון, ואין התמונה ההיא אלא הדרך שבו מגיעים להשגת גילויו זה ית'. הא למה זה דומה - לרואה את חבירו מתוך אספקלריא, שהנה אף על פי שאין עצם חבירו בתוך האספקלריא ההיא, הנה מה שהוא רואה הוא באמת רק חבירו, שנראה לו מתוך הסתכלותו באספקלריא. ונולד עוד מזה, שאם האספקלריא תהיה היא משונה, תראה בה צורת חבירו משונה, כפי ענין האספקלריא. ואמנם לא יסתפק הרואה שלא יהיה הגוף ההוא שהוא רואה גוף חבירו העומד שם, אלא שידע שבעמוד חבירו נגד האספקלריא ההיא המשונה, והוא מסתכל באספקלריא ההיא, תתחדש לעיניו הצורה ההיא. כן הדבר הזה, הנה הנביא יודע שהאדון ב"ה הוא המתגלה עליו ודאי במראה ההוא, אף על פי שאין המראה ההוא אלא מה שמתחדש לעיני הנביא מפאת נפשו עצמה, או מה שיהיה שגורם לו ראות הדמות ההוא. ועל נן הדמות - ההוא יקרא היטב "תמונת ה'", ויאמר בו, "ותמונת ה' יביט":
+
+
+Akıl şöyle dedi: Peygamberin nefeş’ine benzetimli olarak görünen o suret bile doğru biçimde “Haşem’in sureti” diye adlandırılır. Çünkü peygamber açısından şu konuda hiçbir kuşku yoktur: O suret içinde kendilerine görünen, yalnızca tek Efendi’dir; O, kutsansın ve adı kutsansın. Bu yüzden açıkça “Bu, Haşem’in görkeminin suretinin görünümüdür” ve “Haşem’i gördüm” diyebilirler. Çünkü kendilerine akıtılan kavrayışta, o suretin Yüce Görkem’in onlara açığa çıkışından doğan yeni bir suret olduğu açıklık kazanır; bu suret, yalnızca O’nun bu açığa çıkışını kavramalarına ulaşan yoldur. Bu neye benzer? Arkadaşını bir ayna içinde gören kimseye benzer. Arkadaşının özü o aynanın içinde bulunmasa da, onun gördüğü şey gerçekten arkadaşıdır; çünkü aynaya bakışı yoluyla arkadaşı ona görünür. Bundan şu da doğar: Ayna değişik olursa, arkadaşının biçimi de aynanın niteliğine göre değişik görünür. Fakat gören kişi, gördüğü bedenin orada duran arkadaşının bedeni olduğundan kuşku duymaz; yalnızca arkadaşının o değişik aynanın karşısında durması ve kendisinin de o aynaya bakması sebebiyle gözlerinde bu biçimin yenilendiğini bilir. Burada da mesele böyledir: Peygamber, Efendi’nin, kutsansın, o görünüm içinde kendisine kesin olarak açığa çıktığını bilir; her ne kadar bu görünüm, peygamberin kendi nefeş’i yönünden veya ona o sureti gördüren sebep yönünden peygamberin gözlerinde yenilenen şeyden ibaret olsa da. Bu yüzden o suret doğru biçimde “Haşem’in sureti” diye adlandırılır ve onun hakkında “Haşem’in suretine bakar” denir.
 
 
 
@@ -4479,6 +5031,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמרה הנשמה – אבל עתה יקשה לי שלפי דבריך אין הפרש בין נבואת משה לשאר הנביאים, כי כולם רואים התמונה הזאת, וכולם רואים שאין תמונה לו ית' לפי עצמותו האמיתי:
 
 
+Nefeş şöyle dedi: Fakat şimdi senin sözlerine göre şu güçlük doğuyor: Moşe’nin peygamberliğiyle diğer peygamberlerin peygamberliği arasında fark kalmaz. Çünkü hepsi bu sureti görür; hepsi de O’nun, kutsansın, gerçek özü bakımından hiçbir sureti olmadığını görür.
+
+
 
 ## Chapter 188
 
@@ -4490,12 +5045,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 וז"ל, "מה בין משה לשאר הנביאים? ר' יהודה אומר, כל הנביאים ראו מתוך תשע אספקלריות וכו', ומשה מתוך אספקלריא אחת; ורבנין אמרי, כל הנביאים ראו מתוך אספקלריא מלוכלכת וכו' ומשה מתוך אספקלריא מצוחצחת". והנה בהיות שאפילו הדמות הנראה להם אינם יכולים לראות אותו היטב, הנה לא ישיגו סוף עניניו, וממילא גם מן הפתרון יחסר להם הבנה, וזה פשוט; כי כבר אין הקב"ה מראה להם דמויות אלו אלא להודיעם ידיעות נכללות בדמות הנבואי ההוא, שבראותם הדמות ישיגו הידיעה הנכללת בו בכל חלקיו; ואם הדמות עצמו לא ישיגוהו כי אם קצת, הנה ודאי הוא שלא תגיע אליהם הידיעה מושלמת בכל חלקיה, אלא הקצת שכנגד הקצת שראו מן הדמות. אמנם משה, לפחות הדמות הנבואי היה משיגו בבירור, ועל כן היתה ידיעתו שלמה במה שאפשר להיות ידיעת הנבראים, והוא הגיע לשיעור היותי גדול של. ידיעות הנבואה. אבל גם הוא לא ראה אלא מה שניתן לו רשות לראות, וזה פשוט:
 
 
+Şöyle demişlerdir: “Moşe ile diğer peygamberler arasında ne fark vardır? Rabbi Yehuda der ki: Bütün peygamberler dokuz ayna içinden gördü, Moşe ise bir ayna içinden gördü. Hahamlar der ki: Bütün peygamberler kirli bir ayna içinden gördü, Moşe ise parlatılmış bir ayna içinden gördü.” Diğer peygamberler kendilerine görünen sureti bile tam olarak göremedikleri için, onun meselesinin sonuna kadar kavrayamazlar; buna bağlı olarak çözümden de onların anlayışında eksiklik kalır. Bu açıktır. Çünkü HaKadoş Baruh Hu onlara bu suretleri yalnızca o peygamberlik suretinde kapsanan bilgileri bildirmek için gösterir; sureti gördüklerinde, onun bütün parçalarında kapsanan bilgiyi kavrarlar. Eğer suretin kendisini ancak kısmen kavrarlarsa, kendilerine ulaşan bilgi de kesinlikle bütün parçalarıyla tamamlanmış olmaz; yalnızca suretten gördükleri kısmın karşılığı olan kısmı kavrarlar. Moşe ise en azından peygamberlik suretini açıklıkla kavrıyordu; bu yüzden onun bilgisi, yaratılmışların bilgisi için mümkün olan ölçüde tamdı. O, peygamberlik bilgilerinin ulaşabileceği en büyük düzeye vardı. Fakat o da yalnızca kendisine görme izni verilen şeyi gördü; bu da açıktır.
+
+
 ###### Da'at Tevunot 188:2
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/188:2](https://torahapp.org/share/book/Da%27at%20Tevunot/r/188:2)
 
 
 ואמנם אעירך עוד על ענין אחד במראה הנבואה הזה, והוא, שאף על פי שמצינו לנביאים שיראו דמויות נבואיים אלו, אין צורך שיראו אותם בראיה כראית העין הגשמי, אלא בראיה הנפשית. כי הנה נושא אחד עצמו יוכל להיראות מהעין הגשמי ומהנפש מופשטת מגוף, ושניהם יקיימו היותו הנושא ההוא. אמנם כל אחד רואה אותו לפי דרכו, הא כדאיתיה והא כדאיתיה, כי הרי הנפש יכולה לראות מה שבחבית ומה שבתוך הכותל, שהעין הגשמי אי אפשר לו מפני דרך ראיתו, שאינו יכול להגיע אליו אלא מה שיכול לפי הגבול אשר שם לו הבורא ית"ש. אך החבית עצמה יראה אותה העין הגשמי בדרכיו, ויקיים היותה חבית, ותראה אותה הנפש בדרכיה, ותקיים גם היא חיותה חבית. כן הדבר הזה, שאין הנביאים צריכים לראות הצורה שיקראוה "אריה", והצורה שיקראוה "נשר" (עי' יחזקאל י, יד), וכן כל כיוצא בזה, כמו שיראו הצורה ההיא עיני הבשר, אלא בדרך הראיה הנפשית, וזה פשוט:
+
+
+Bu peygamberlik görünümü hakkında sana bir noktayı daha hatırlatayım. Peygamberlerin bu peygamberlik suretlerini gördüklerini bulsak da, onları maddi gözün görmesi gibi bir görmeyle görmeleri gerekmez; tersine, nefsani bir görmeyle görürler. Çünkü aynı konu hem maddi gözle hem de bedenden soyutlanmış nefeş tarafından görülebilir; ikisi de onun aynı konu olduğunu kabul eder. Fakat her biri onu kendi yoluna göre görür: biri kendi niteliğine göre, diğeri kendi niteliğine göre. Çünkü nefeş fıçının içindekini ve duvarın arkasındakini görebilir; maddi göz ise kendi görme yolu sebebiyle bunu yapamaz, çünkü ona ancak Yaratıcı’nın, kutsansın, kendisi için koyduğu sınır ölçüsünde ulaşabilir. Fakat fıçanın kendisini maddi göz kendi yollarıyla görür ve onun fıçı olduğunu kabul eder; nefeş de onu kendi yollarıyla görür ve onun fıçı olduğunu kabul eder. Burada da mesele böyledir: Peygamberlerin “aslan” diye adlandıracakları sureti, “kartal” diye adlandıracakları sureti ve buna benzer bütün suretleri, etten gözlerin o sureti gördüğü gibi görmeleri gerekmez; onları nefsani görme yoluyla görürler. Bu da açıktır.
 
 
 
@@ -4509,6 +5070,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמרה הנשמה – עדיין צריכה אני לדעת, מה צורך יש לתמונות האלה? וכי מה היה חסר אם היה הקב"ה מודיע מה שרוצה להודיע מן הידיעות או העתידות בלא שיראוהו דמות כלל ועיקר?
 
 
+Nefeş şöyle dedi: Hala şunu bilmem gerekiyor: Bu suretlere ne gerek var? HaKadoş Baruh Hu bildirmek istediği bilgileri veya gelecekte olacak şeyleri, hiçbir suret görmelerine gerek kalmadan bildirse ne eksik kalırdı?
+
+
 
 ## Chapter 190
 
@@ -4520,12 +5084,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמר השכל – יכולני להשיב לך בדרך נקל ופשוט, והוא, כי רוצה הקב"ה להגלות על בני האדם כדרכי בני אדם, וכמו שביארנו כבר. כי הנבראים בצורתם עצמה מראים על ההשפעות והמידות העליונות, והם דוגמא להם ממש. על כן האדון ב"ה מראה להם כבודו כדמות הנברא ממנו, כי כבר הצורה ההיא למטה אינה אלא דוגמת ההשפעה והמידה ההיא שלמעלה. ותראי, כי גם זו מידה ממידותיו ית' - להעתיק עניני השפעותיו ומידותיו אל עניני הצורה של התחתונים, שתוכל הצורה להיות דוגמא רומזת אל הענינים של ההשפעות ההמה וסידר האדון ב"ה סדר שלם שיספיק לעשות בצורות הנבראים דוגמא לכל הענינים העליונים שהוא רוצה להראות בם, עד שנמצא טעם הגון ושלם לכל חלקי הצורה של הנבראים, שלא יהיה בם שום ענין בהזדמן, אלא הכל מיושב על אפניו על פי השורש הזה - שיהיו הענינים העליונים והרוחניים נרמזים בצורות הנבראים. השפלות עצמם. ומרוממותו של הכבוד העליון הוא, שלא יראה הנביא הענינים העליונים אלא מצד התיחסם לנבראים עצמם, להיותם נרמזים בהם, וכמו שביארנו:
 
 
+Akıl şöyle dedi: Sana kolay ve basit bir yoldan cevap verebilirim: HaKadoş Baruh Hu insanlara, insanların yollarına göre açığa çıkmak ister; bunu daha önce açıklamıştık. Çünkü yaratılmışlar, kendi biçimleriyle, üst etkileri ve üst nitelikleri gösterir; gerçekten onların örneğidirler. Bu yüzden Efendi, kutsansın, onlara kendi görkemini, kendisinden yaratılmış olan varlığın suretiyle gösterir; çünkü aşağıdaki o suret, yukarıdaki etkinin ve niteliğin örneğinden başka bir şey değildir. Şunu gör: Bu da O’nun, kutsansın, niteliklerinden biridir; etkilerinin ve niteliklerinin meselelerini aşağı varlıkların suret meselelerine aktarmak. Böylece suret, o etkilerin meselelerine işaret eden bir örnek olabilir. Efendi, kutsansın, yaratılmışların suretlerinde, onlarda göstermek istediği bütün üst meseleler için örnek olmaya yetecek tam bir düzen kurmuştur. Böylece yaratılmışların suretinin bütün parçaları için uygun ve tam bir gerekçe bulunur; onlarda rastlantısal hiçbir şey olmaz. Her şey şu köke göre yerli yerindedir: üst ve ruhsal meseleler, bizzat aşağı yaratılmışların suretlerinde işaretlenmiş olur. Yüce Görkem’in yüceliği de şudur: Peygamber üst meseleleri ancak yaratılmışlarla ilişkileri yönünden, onlarda işaretlenmiş olmaları bakımından görür; bunu açıkladığımız gibi.
+
+
 ###### Da'at Tevunot 190:2
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/190:2](https://torahapp.org/share/book/Da%27at%20Tevunot/r/190:2)
 
 
 ואמנם יש עוד עומק יותר בענין הזה, והוא, כי הנה הסדר והדרך שלקח האדון ב"ה להיות מעתיק בו עניני ההשפעה אל עניני הצורה של התחתונים, וכמו שביארנו, הוא הפועל הרבה במציאות הנבראים האלה בכל צורותיהם. ואתן לך משל מזה, לפי שרצה הקב"ה להעתיק ענין השגחתו אל ענין העין, על כן יש העין באדם. ולפי שרצה להעתיק מידות השגחתו - מידת החסד מידת הדין ומידת הרחמים - אל ענין הגוונים הלבן האדום והירוק, לכן יש שלושה גוונים אלה בעינו של האדם. ולולא היה רוצה להעתיק ענינים אלה בדרך הזה, לא היו אברים אלה וחלקיהם באדם, אבל אברים וחלקים אחרים, וזה פשוט. וכן בכל שאר התכונות שבנמצאים, ואיכויותיהם, והתגברם פעם בדרך אחד ופעם בדרך אחר, עד שעושים שינויי המצבים בכל הגופים הנבראים - הנה כל זה תלוי בדרך איך שרצה האדון ב"ה להעתיק הענינים העליונים לצורות ותבנית בנבראים. נמצא, שזה הענין הוא שורש גדול לנבראים ולמקריהם. על כן יראה האדון ב"ה את כבודו לנביא בדרך הדמויות האלה, - כדי שיבין המידות הנשפעות, וגם העתיקם אל הצורות התחתונות, כדי שישיג ויבין היטב ההתפעלות שנעשה בתחתונים מן ההשפעות העליונות בכל סידורי הערך, וכל החילוקים אשר עשה בענין הזה:
+
+
+Fakat bu konuda daha derin bir yön daha vardır. Efendi’nin, kutsansın, etki meselelerini aşağı varlıkların suret meselelerine aktarmak için aldığı düzen ve yol — az önce açıkladığımız gibi — bu yaratılmışların bütün biçimleriyle varlığında çok şey meydana getirir. Sana bundan bir örnek vereyim: HaKadoş Baruh Hu kendi gözetimi meselesini göz meselesine aktarmak istediği için insanda göz vardır. Gözetiminin niteliklerini — Hesed niteliğini, Din niteliğini ve Rahamim niteliğini — beyaz, kırmızı ve yeşil renkler meselesine aktarmak istediği için insanın gözünde bu üç renk vardır. Bu meseleleri bu yolla aktarmak istemeseydi, insanda bu organlar ve onların parçaları değil, başka organlar ve başka parçalar olurdu. Bu açıktır. Varlıklardaki diğer bütün özelliklerde, niteliklerinde ve bazen bir yolla bazen başka bir yolla güçlenmelerinde de durum böyledir; yaratılmış bedenlerdeki bütün durum değişimlerini meydana getiren şeyler, Efendi’nin, kutsansın, üst meseleleri yaratılmışlardaki suretlere ve biçime nasıl aktarmak istediğine bağlıdır. Demek ki bu mesele, yaratılmışlar ve onların başlarına gelen durumlar için büyük bir köktür. Bu yüzden Efendi, kutsansın, görkemini peygambere bu suretler yoluyla gösterir: böylece peygamber hem akıtılan nitelikleri anlar, hem de onların aşağı suretlere aktarılışını kavrar; üst etkilerden aşağı varlıklarda meydana gelen etkilenmeyi, bütün değer düzenleriyle ve bu konuda yaptığı bütün ayrımlarla birlikte iyi biçimde kavrayıp anlar.
 
 
 ###### Da'at Tevunot 190:3
@@ -4536,6 +5106,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 ונמצא, שהנביאים יראו דמות אורים גדולים וקטנים, עולים או יורדים, נוסעים ועומדים, וכמה מיני דמויות כעניני דמויות התחתונים, וכמו שמצינו להם הכתובים, בראייתם הנפשית, וכמו שביארנו, ומהם יתבוננו ויעמדו על סדרי ההשפעה וההנהגה העליונה בכל סדריה. ואמנם הוראת הדמויות על המידות הוא על פי המובן מן התמונה עצמה. דרך משל, הצורה הכדורית המקפת, שאין בה לא ימין ולא שמאל, לא ראש ולא סוף, הנה תורה על השקפה אחת כללית המקפת כל הענין אשר תשקיף עליו בשוה. אך הצורה הישרה המתחלקת לצדדין, ימין שמאל ואמצע, ויש בה ראש ורגלים, תורה על השקפה מודרגת ופרטית, ההולכת מן העליון עד התחתון בהדרגה בכל המושקפים ממנה, וכן בחילוק הפרטים - אלו מיימינים ואלו משמאילים, וכן כל שאר התמונות כולם. ופירוש הענין, הנה עולם השפל הזה מושגח כולו בהשגחה כללית לקיומו מן הרצון העליון, ובבחינת הקיום הנה אין הפרש בין מין למין, ולא בין איש לאיש, כי כך צריך קיום הגלגל העליון כמו היתוש הקטן. ונמצא, השגחתו ית' מקפת על כל הנבראים כולם בהשואה אחת, וכולם נשואים ממנו ונסבלים מכוחו. אך ההשגחה המשפטית אשר לענין העבודה, היא השגחה, מתפרטת לפרטים רבים, כי הנה האל ית' שוקל כל דבר במאזני צדק להטיב או להרע, כל דבר ודבר בטעם פרטי לפי מה שהוא:
 
 
+Buna göre peygamberler, nefsani görmelerinde — açıkladığımız gibi ve ayetlerde de gördüğümüz üzere — büyük ve küçük ışık suretleri, yükselen veya inen, hareket eden veya duran suretler ve aşağı suretlerin meseleleri gibi birçok suret türü görürler. Bunlardan üst etkinin ve üst yönetimin bütün düzenleri üzerinde düşünür ve onları kavrarlar. Suretlerin niteliklere işaret etmesi, bizzat suretin kendisinden anlaşılan şeye göredir. Örneğin etrafı kuşatan küresel biçim; onda sağ ve sol, baş ve son yoktur. Bu, üzerine baktığı bütün meseleyi eşit biçimde kuşatan tek bir genel bakışı gösterir. Buna karşılık yanlara — sağa, sola ve ortaya — ayrılan, başı ve ayakları bulunan düz biçim, üstten alta doğru dereceli olarak inen özel ve kademeli bir bakışı gösterir; bu bakış, ondan bakılan bütün şeylerde kademeyle ilerler. Ayrıntıların ayrımında da böyledir: kimileri sağ tarafa, kimileri sol tarafa yönelir; diğer bütün suretlerde de aynı ilke geçerlidir. Meselenin açıklaması şudur: Bu aşağı dünya, varlığını sürdürmesi bakımından bütünüyle Üst İrade tarafından genel bir gözetimle gözetilir. Varlığın sürmesi bakımından tür ile tür, kişi ile kişi arasında fark yoktur; çünkü en yüce gök küresinin varlığını sürdürmesi ne kadar gerekiyorsa, küçük sivrisineğin varlığını sürdürmesi de o kadar gerekir. Böylece O’nun, kutsansın, gözetimi bütün yaratılmışları tek bir eşitlikle kuşatır; hepsi O’nun tarafından taşınır ve O’nun gücüyle ayakta tutulur. Fakat avoda meselesine ilişkin yargısal gözetim, birçok ayrıntıya bölünen bir gözetimdir; çünkü Tanrı, kutsansın, her şeyi doğruluk terazileriyle tartar, iyilik veya kötülük vermek üzere her bir şeyi kendi özel gerekçesine göre değerlendirir.
+
+
 ###### Da'at Tevunot 190:4
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/190:4](https://torahapp.org/share/book/Da%27at%20Tevunot/r/190:4)
@@ -4544,12 +5117,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 והנה ברצות האדון ב"ה להראות לנביאיו כוחו הגדול הסובל כל הנמצאות והשגחתו המקפת את כולם בשוה, איש לא נעדר, ואין נסתר מעיני השקפתו, הנה יראהו כאילו אור מאתו ית' סובב כל העולם כולו, כרקיע הסובב את הארץ מכל צדדיה, וכן נאמר (יחזקאל א, כב), "ודמות על ראשי החיה רקיע" וכו'. וברצותו להראות לו משפטו ית' - יראה לעיניו כמלך יושב על כסאו, צדקה בימינו ומשפט בשמאלו, להעמיד את כל בריותיו במשפט צדקו. ואם ירצה האל ית' להראות את נביאו פרטיות הכוחות הסובלות את העולם אלה על אלה, כענין אמרם ז"ל (חגיגה יב ע"ב), "הארץ על מה היא עומדת? - על העמודים, ועמודים - על המים וכו', וכולם תלויים בזרועו של הקב"ה" - יראה לנביא גלגלים רבים אלה בתוך אלה, כל עליון סובב את התחתון ממנו, והעולם במרכז כולם, והוא ית"ש משקיף וסובל את כולם. וברצותו להראות לו השתלשלות כל הכוחות ההולכים בהדרגה, נמשכים זה מזה, והעולם השפל נמשך מסוף כולם, וכמו שביארנו במקומו, הנה יראה לו מדרגות מדרגות זו תחת זו, והעולם מתחת לכולם. וברצותו להראות לו מדרגת מעלת הנמצאים הקרובים יותר אליו ית' והרחוקים ממנו - בסדר ההדרגה, ובמידות עצמם הקרובות אל שלמותו, והמתרחקות יותר שמתיחסות יותר על ערך התחתונים - יראה לו מדרגות מדרגות זו לפנים מזו, כחדר לפנים מחדר, או כלבוש על גבי לבוש, והעולם השפל חוץ מכולם, חיצוני מכולם:
 
 
+Efendi, kutsansın, peygamberlerine bütün varlıkları taşıyan büyük gücünü ve hepsini eşit biçimde kuşatan gözetimini — hiç kimse eksik kalmadan ve bakışından hiçbir şey gizlenmeden — göstermek istediğinde, ona sanki O’ndan, kutsansın, gelen bir ışık bütün dünyayı her yanından kuşatıyormuş gibi gösterir; yeryüzünü her tarafından kuşatan gök kubbe gibi. “Canlıların başları üzerinde gök kubbe sureti” ifadesi de buna benzer. O’nun, kutsansın, yargısını göstermek istediğinde, peygamberin gözlerine tahtında oturan bir kral gibi görünür; sağında tsedaka, solunda yargı vardır; bütün yaratılmışlarını kendi doğru yargısıyla ayakta tutar. Tanrı, kutsansın, peygamberine dünyayı birbirinin üzerinde taşıyan güçlerin ayrıntısını göstermek isterse — hahamlarımız z”l’in “Yeryüzü neyin üzerinde durur? Sütunların üzerinde; sütunlar suların üzerinde...” ve “hepsi HaKadoş Baruh Hu’nun koluna bağlıdır” sözlerinde olduğu gibi — peygambere iç içe birçok küre gösterir; her üst küre altındakini kuşatır, dünya hepsinin merkezindedir ve O, adı kutsansın, hepsine bakar ve hepsini taşır. Ona bütün güçlerin kademeli zincirlenişini, birbirinden türeyerek ilerlediğini ve aşağı dünyanın hepsinin sonundan çıktığını göstermek istediğinde — bunu kendi yerinde açıkladığımız gibi — ona biri diğerinin altında dereceler gösterir; dünya hepsinin altında bulunur. Ona, O’na, kutsansın, daha yakın olan varlıkların ve O’ndan daha uzak olanların derece düzenindeki üstünlük düzeyini; bizzat nitelikler içinde O’nun tamlığına daha yakın olanları ve aşağı varlıkların değerine daha çok nispet edilen daha uzak nitelikleri göstermek istediğinde, ona iç içe dereceler gösterir; oda içinde oda gibi veya giysi üzerine giysi gibi. Aşağı dünya ise hepsinin dışında, hepsine göre dışsal olarak bulunur.
+
+
 ###### Da'at Tevunot 190:5
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/190:5](https://torahapp.org/share/book/Da%27at%20Tevunot/r/190:5)
 
 
 ולא עוד, אלא שכל המראות הללו יראם לו בבת אחת, אם ירצה להודיע לו כל הענינים שזכרנו ותולדותיהם כולם כאחד, ואף על פי שהם מתנגדות זו לזו, וכענין (ירושלמי נדרים פ"ג, ה"ב), "ערות אשת אחיך" ו"יבמה יבא עליה", "זכור" ו"שמור", שזכרנו למעלה הנאמרים בדיבור אחד; כי מה שהוא למעלה מן הטבע אינו מוגבל בחוקות הטבע. וכבר בחלום, שהוא גם כן ממין הנבואה, וכמאמרם ז"ל (ברכות נז ע"ב), "חלום אחד מששים בנבואה", יקרה קצת מזה - שיתדמו ענינים שאינם לפי הראיה שבעת היקיצה, ויתחלפו הנושאים לחולם ברגע אחד מבלי שיבחין דרך התחלפם. ויראה איש אחד בחלומו, יחשוב שהוא ראובן, וברגע אחר יחשוב שאותו שהוא רואה הוא בית אחד או אבן אחת. סוף דבר, יתרכבו הרכבות שאינם לפי דרך הראיה כלל. כל שכן הנבואה שהיא ממש חוץ לטבע, שהקב"ה ידמה ביד הנביאים מה שהוא רוצה, וכמו שביארנו למעלה כבר:
+
+
+Bundan da öte, eğer daha önce andığımız bütün meseleleri ve onların bütün sonuçlarını bir arada bildirmek isterse, bütün bu görünümleri ona bir anda gösterir; birbirlerine zıt olsalar bile. Bu, yukarıda andığımız gibi “kardeşinin karısının çıplaklığı” ve “kayınbiraderi ona gelsin”, “hatırla” ve “koru” ifadelerinin tek sözde söylenmesine benzer. Çünkü doğanın üstünde olan şey, doğa yasalarıyla sınırlı değildir. Peygamberlik türünden olan rüyada bile — hahamlarımız z”l’in “Rüya peygamberliğin altmışta biridir” sözünde olduğu gibi — bunun bir kısmı gerçekleşir: Uyanıklık anındaki görmeye uygun olmayan meseleler benzetimli olarak görünür; konular rüya gören kişi için bir anda değişir, o da değişimin yolunu ayırt etmez. Bir kimse rüyasında bir adam görür, onun Reuven olduğunu düşünür; bir an sonra gördüğü şeyin bir ev veya bir taş olduğunu düşünür. Kısacası, görmenin olağan yoluna hiç uymayan birleşimler meydana gelir. Peygamberlik ise doğrudan doğanın dışındadır; HaKadoş Baruh Hu peygamberlerin eliyle dilediğini benzetimli olarak gösterir. Bunu yukarıda zaten açıkladık.
 
 
 
@@ -4563,6 +5142,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמרה הנשמה – ישבתני מאוד בדבריך אלה. והנה קודם שנשלים דיבורינו, אשאלה ממך שאלה קטנה שאינה כל כך מצטרכת, אך תשובתה בה יהיה לי לנחת:
 
 
+Nefeş şöyle dedi: Bu sözlerinle beni çok rahatlattın. Konuşmamızı tamamlamadan önce sana küçük bir soru soracağım. Çok zorunlu bir soru değildir; fakat cevabı beni ayrıca rahatlatacaktır.
+
+
 
 ## Chapter 192
 
@@ -4572,6 +5154,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 
 
 אמר השכל – שאלי:
+
+
+Akıl şöyle dedi: Sor.
 
 
 
@@ -4585,6 +5170,9 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמרה הנשמה – ענין הבריאה אם אפשר להבין דרכה, פירוש, איך יצא היש מן האין, אם לא?
 
 
+Nefeş şöyle dedi: Yaratılış meselesinde onun yolunu anlamak mümkün müdür? Yani varlık yokluktan nasıl çıktı; bunu anlayabilir miyiz, yoksa anlayamaz mıyız?
+
+
 
 ## Chapter 194
 
@@ -4596,12 +5184,18 @@ We know, then, with certainty, that even those qualities that we do discern in H
 אמר השכל – איך הקב"ה פועל, כבר הודעתיך שאי אפשר לנו להשיגו, פירוש, באיזה דרך הוא עושה פעולתו. ואין לנו לבקש אלא על מה הוא פועל, ובאיזה סדר הוא פועל. ואשיבך על אשר שאלת. הנה החומר הזה שחידש, חדש הוא חידוש גמור שחידש האדון ב"ה ביכולתו הנשגבה, שאי אפשר לנו להבין איך חידשו. אמנם באיזה סדר פעל לחדש אותו - זה נוכל להבין, שכבר אין אנו מבינים בזה אלא הדרגת הפעולה. ונאמר, כי הנה עשיית החומר הזה שעשה, ודאי היה קדום בחוקו ית' שיזכל לעשותו, ושהיה עתיד לעשותו, כי לא נוכל לחשוב בו ית' שום תוספת או שינוי כלל, שיתחדש אתו ענין מה שלא היה לו; אלא היה קדום ברצונו שיעשה החומר הזה. אמנם יה אינו נקרא אפילו היות העולם בכח, כי אין יחס בין פשיטותו ית' ובין ברואיו, וכל התארים הנופלים בברואיו אינם נופלים בעצמותו ית' כלל. רק כשרצה לחדש ממש החומר הזה, אז חידש מיני השפעות ממנו ית' שהיה בחוקם ממש להוציא החומר הזה, ויש להם יחס לחומר הזה, כי לא חודשו אלא בשיעור הגון להוציא. החומר הזה. ואמנם ההשפעות האלה כבר הודעתיך שהם מיני השפעות ההולכות בסדר הדרגה. אך לא תקרא סיבה קרובה אל החומר הזה בתכונתו כאשר הוא, כי אם המין האחרון והפחות שבכל ההשפעות. וכבר פירשתי לך דבר זה למעלה באר היטב:
 
 
+Akıl şöyle dedi: HaKadoş Baruh Hu’nun nasıl işlediğini sana zaten bildirmiştim: onu kavramamız mümkün değildir; yani fiilini hangi yolla yaptığını bilemeyiz. Bizim aramamız gereken yalnızca şudur: O neyi işler ve hangi düzenle işler? Şimdi sorduğun şeye cevap vereyim. Yenilediği bu madde, Efendi’nin, kutsansın, yüce kudretiyle bütünüyle yeni olarak yenilediği tam bir yeniliktir; onu nasıl yenilediğini anlamamız mümkün değildir. Fakat onu yenilemek için hangi düzende işlediğini anlayabiliriz; çünkü burada yalnızca fiilin kademelenmesini anlarız. Şöyle diyelim: Yaptığı bu maddenin yapılması, O’nun, kutsansın, hükmünde kuşkusuz önceden vardı; onu yapabileceği ve gelecekte yapacağı önceden belirliydi. Çünkü O’nda, kutsansın, hiçbir ekleme veya değişiklik, daha önce O’nda bulunmayan bir şeyin O’nunla yenilenmesi düşünülemez. Tersine, bu maddeyi yapması O’nun iradesinde önceden vardı. Fakat bu, dünyanın güç halinde var olması bile diye adlandırılmaz; çünkü O’nun, kutsansın, sadeliği ile yaratılmışları arasında bir oran yoktur. Yaratılmışlarına düşen bütün nitelendirmeler O’nun, kutsansın, özüne hiçbir şekilde düşmez. Ancak bu maddeyi gerçekten yenilemek istediğinde, kendisinden, kutsansın, birtakım etki türleri yeniledi; bu etkilerin hükmünde doğrudan bu maddeyi ortaya çıkarmak vardı ve bu maddeyle bir ilişkileri vardı. Çünkü yalnızca bu maddeyi ortaya çıkarmaya uygun ölçüde yenilendiler. Bu etkilerin, daha önce sana bildirdiğim gibi, kademeli bir düzende ilerleyen etki türleri olduğunu bilirsin. Fakat bu maddenin şu anki yapısına yakın sebep diye yalnızca bütün etkilerin en son ve en aşağı türü adlandırılır. Bu meseleyi yukarıda sana açıkça açıklamıştım.
+
+
 ###### Da'at Tevunot 194:2
 
 [https://torahapp.org/share/book/Da%27at%20Tevunot/r/194:2](https://torahapp.org/share/book/Da%27at%20Tevunot/r/194:2)
 
 
 ונמצא, שמאז חודשה ההשפעה הראשונה, כבר יש בחוקה עשיית החומר, ונקרא שהחומר הזה כלול בה, כי בחוק ענינה הוא, ולא נתחדשה אלא בעבורו; אך היא עדיין סיבה רחוקה, כי ענינה יותר נכבד ומעולה ממה שמצטרך למציאות החומר השפל. וההשפעה השנית תהיה סיבה יותר קרובה אליו, והוא כלול בחוקה וקרוב יותר לימצא ממה שהוא בראשונה. וכן על דרך זה הולך ומתגלגל בחוקי כל ההשפעות שחידש לבעבור זאת, ומן האחרונה שבהם יוצא בפועל. והנה אין ההשפעה הראשונה אלא מציאות החומר הזה מושפע ממנו ית' ביתר שאת ממה שראוי להיות. וההשפעה השנית כמו כן מציאות החומר הזה מושפע בפחות כח מהראשונה. כי הרי אין ההשפעות אלא מציאות נמצא אחד משולח ומושפע ממנו ית', שעד שהוא משולח ממנו טרם שתצא תולדתו בפועל - נקרא השפעה ממנו. ובצאת ענין ההשפעה בפועל ויעשה נמצא. מן הנמצאות - אז יקרא תולדה. ונמצא ההשפעות והתולדות ענין אחד, אך ההשפעות הם כלל השגחותיו ית', והתולדות הם הנמצאות הנולדות מן ההשגחות. אבל השגחתו היא ככל שאר עניניו ית' הבלתי נודעים מצד עצמם, כידיעתו וזכירתו וחמלתו, שאינם דבר חוץ ממנו, ולא כידיעתנו וזכירתנו וחמלתנו; אבל הם השגחות שמצד פעולתם נשיגם, שאינם אלא המצאת הנמצאות ההם, ושילוח מציאות הנמצאות ההם ועצמותם מאתו ית'. ודי בזה לאשר שאלת:
+
+
+Buna göre ilk etki yenilendiği andan itibaren, maddenin yapılması onun hükmünde zaten vardır; bu madde onda içerilmiş sayılır. Çünkü onun meselesinin hükmünde budur ve o etki yalnızca bu madde uğruna yenilenmiştir. Fakat bu etki hâlâ uzak bir sebeptir; çünkü onun meselesi, aşağı maddenin varlığı için gereken şeyden daha değerli ve daha üstündür. İkinci etki ona daha yakın bir sebep olur; madde onun hükmünde içerilir ve ilk etkide olduğundan daha yakın biçimde varlığa gelmeye yaklaşır. Bu yol üzere, bu amaç uğruna yenilediği bütün etkilerin hükümlerinde mesele ilerler ve dönüşür; sonuncusundan ise fiilen ortaya çıkar. İlk etki, bu maddenin O’ndan, kutsansın, olması gerekenden daha büyük bir güçle akıtılmış varlığından başka bir şey değildir. İkinci etki de aynı şekilde bu maddenin varlığıdır; fakat ilkine göre daha az güçle akıtılmıştır. Çünkü etkiler, O’ndan, kutsansın, gönderilen ve akıtılan tek bir varlığın varoluşundan başka bir şey değildir. O’ndan gönderilmiş olup sonucu fiilen ortaya çıkmadan önce buna O’ndan gelen etki denir. Etkinin meselesi fiile çıkıp varlıklardan bir varlık meydana getirdiğinde ise buna sonuç denir. Böylece etkiler ve sonuçlar aynı meseledir; ancak etkiler O’nun, kutsansın, gözetimlerinin genel halidir, sonuçlar ise bu gözetimlerden doğan varlıklardır. Fakat O’nun gözetimi, O’nun, kutsansın, kendileri bakımından bilinmeyen diğer bütün meseleleri gibidir: bilgisi, hatırlaması ve merhameti gibi. Bunlar O’nun dışında bir şey değildir; bizim bilgimiz, hatırlamamız ve merhametimiz gibi değildir. Fakat fiilleri yönünden kavradığımız gözetimlerdir; bunlar, söz konusu varlıkları var etmekten ve o varlıkların varlığını ve özünü O’ndan, kutsansın, göndermekten başka bir şey değildir. Sorduğun şey için bu kadarı yeterlidir.
 
 
 
@@ -4613,4 +5207,7 @@ We know, then, with certainty, that even those qualities that we do discern in H
 
 
 אמרה הנשמה – ודאי הנני שמחה בחלקי מאוד מאוד, שקבלתי ממך ידיעות גדולות ועמוקות, ונשארתי מיושבת באמונה השלמה והנאמנה בכל הדברים שחייב כל בן דת משה וישראל להיות מושב בהם, ושלום על ישראל. ברוך יי לעולם אמן ואמן:
+
+
+Nefeş şöyle dedi: Kuşkusuz payımdan çok, çok sevinçliyim; çünkü senden büyük ve derin bilgiler aldım. Moşe ve İsrael dininin her mensubunun içinde sağlam biçimde yerleşmiş olması gereken bütün konularda, tam ve güvenilir imanda huzura kavuştum. İsrael üzerine esenlik olsun. Haşem sonsuza dek kutsansın, amen ve amen.
 

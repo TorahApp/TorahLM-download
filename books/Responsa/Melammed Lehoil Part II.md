@@ -14,9 +14,9 @@ Location: Responsa/Acharonim
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Frankfurt am Main, 1926-1932 (Segments: 465, License: unknown)
+Version (He): Frankfurt am Main, 1926-1932 (Segments: 465, License: Public Domain)
 
-Version (En): YU Torah miTzion Beit Midrash (Segments: 20)
+Version (En): Sefaria Community Translation (Segments: 24)
 
 
 ## Teshuva 1
@@ -749,6 +749,9 @@ Version (En): YU Torah miTzion Beit Midrash (Segments: 20)
 צור הערשטעללונג דעז קאזעז ברוכט מאן איינע קולטור פאן באציללען, דיא דורך איבער - אימפפען פאן איינער באציללענהאלטיגען מילך צור אנדערן ערצויגט ווירד. ווענן וויר איינע כשר - מילך פיר אונזערן קאזע האבען, זא מוסס איין קליינעז קוואנטום ניכט - כשר באציללענהאלטיגע מילך הינאיינקאממען, אום דען קאזע צו ערצויגען. עז האנדעלט זיך צוואר נור אום 1 דעציליטער אונטער 100 צטר., אבער עז איזט איין דבר המעמיד, ווענן אויך נור איין איסור דרבנן. איך מיינע נון, דאס מאן עז דאך ערלויבען קאנן, ווייל דער דבר המעמיד ניכט דיא מילך זאנדערן דיא באציללען אדער פילצע זינד, דיא נור אין דער מילך אין ריין - קולטור ערצויגט ווערדען. ווירדען זיא מיר ערלויבען, דיא ראהמקאזע אויף דיעזע ארט מיט צוזאטץ איינעז קליינען קוואנטומז ניכט - כשר מילך הערצושטעללען? ע"כ לשון השאלה ממהור"ר אשר הכהן אבדק"ק באזעל.
 
 
+In order to produce cheese, one needs a bacterial culture, which is obtained by inoculation from one [receptacle of] - bacteria-containing - milk into another. If we use kosher milk (chalav Yisrael) for our cheese, a small quantity of non-kosher, bacteria-containing milk must thus be added to manufacture the cheese. Granted, it is only a matter of 1 dl per hundredweight, but it is a davar hama'amid (additive that prolongs the shelf life or preserves the consistency of food to which it is added, which is not annulled by other ingredients even if it only constitutes a tiny percentage of the final product), although only a Rabbinic prohibition. Now, I think it may still be permissible, because the davar hama'amid is not the milk [itself], but the bacteria or fungi, which are merely cultivated in the milk to obtain a pure culture. Would you permit me to manufacture cream cheese by this method, with the addition of a small quantity of non-kosher milk? Up until here the wording of the query from our teacher, Rabbi Arthur Cohn, the rabbi of Basel.
+
+
 ###### Melammed Lehoil Part II 28:2
 
 [https://torahapp.org/share/book/Melammed%20Lehoil%20Part%20II/r/28:2](https://torahapp.org/share/book/Melammed%20Lehoil%20Part%20II/r/28:2)
@@ -756,6 +759,9 @@ Version (En): YU Torah miTzion Beit Midrash (Segments: 20)
 
 **תשובה:**
 א. מ"ש שאינו אסור מחמת דבר המעמיד משום דהחלב אינו מעמיד כי אם הבאציללען או הפילצע הנולדים בחלב אינו כדאי להתיר דהא בעור קיבה ג"כ הבשר אינו מעמיד אלא החומץ (דיא זוירע) הנבלע בבשר. וע"כ צ"ל כיון דחומץ זה גדל בבשר הוי כהבשר עצמו ואסור, וע"כ אוסר משום דבר המעמיד. וא"כ הכא נמי כנראה פילצע אלו גדלים בחלב והוי כהחלב עצמו. ואם באמת ערבו בחלב חלב טמא (דמטעם זה אנו אוסרים חלב של נכרים) אותן פילצע ג"כ אסורים כחלב טמא, וא"כ אוסרים התערובת מחמת דבר המעמיד. אולם אם יש לברר שא"א לגדל אותן פילצע כי אם בחלב טהור ולא בחלב טמא, א"כ אותן פילצע ודאי מחלב טהור נולדו, ואף שהחלב אסור משום שמא עירב בו חלב טמא (והוא דבר שנאסר במנין), מ"מ הפילצע שהם מעמידין מחלב טהור הם והם היתר, והחלב הטמא המעורב אינו מעמיד כלל, וע"כ ימחול מר ויחקור אחר דבר זה ויכתוב לי מה שאמרו הבקיאים בדבר זה.
+
+
+Responsa: 1. What you wrote - that it should not be prohibited due to being a davar hama'amid because the milk [itself] is not the davar hama'amid, but the bacteria or fungi which come into existence in the milk - is not sufficient to rule permissively, for in the skin of a stomach [used in traditional cheese-making, cf. Avodah Zarah 35a] it is also not the flesh which is the coagulant, but the acid absorbed in the flesh. We must therefore conclude that because this acid is secreted by the flesh, it is like the flesh itself and is prohibited, and it in turn necessarily prohibits [the cheese] because of davar hama'amid. Thus, here too, it would seem that these fungi grow in the milk and are like the milk itself. And if the milk has indeed had milk from non-kosher [animals] added to it (for this [possibility] is the reason why we prohibit milk from gentiles), these fungi are also prohibited like milk from non-kosher [animals], and they therefore prohibit the [cheese] mixture due to being a davar hama'amid. However, could it be determined that it is impossible to grow those fungi in a [medium] other than kosher milk, [i.e.] in milk from non-kosher [animals], the fungi would then by necessity have come into existence in kosher milk, and despite the milk being prohibited due to concern that milk from non-kosher [animals] may have been added to it (which is a decree instituted by a quorum [of sages, which cannot be rescinded]), the fungi - which are the ma'amid - come from kosher milk and are themselves permitted, and the admixed milk from non-kosher [animals] is not a ma'amid at all. Thus, you will indulge me and investigate this matter and write to me what the experts say on this matter.
 
 
 ###### Melammed Lehoil Part II 28:3
@@ -766,12 +772,18 @@ Version (En): YU Torah miTzion Beit Midrash (Segments: 20)
 ב. אך עדיין יש לפקפק בדבר דהא אין מבטלין איסור לכתחילה וכאן מערב לכתחילה, אמנם כאן אין כוונתו לבטל אלא לתקן הגבינה ע"י הפילצע המותרין, ויש בזה פלוגתא בין צ"צ ובין מג"א סי' תמ"ז ס"ק מ"ה, ובדרבנן יש להכריע לקולא.
 
 
+2. Still, one could object that is isn't permissible to annul prohibited things intentionally, and here, the mixing is intentional. However, here, the intention isn't to annul the prohibited thing, but to make cheese by means of the permitted fungi, and this is subject to a dispute between the צ"צ (?) and the Magen Avraham in §447 section 45, and in Rabbinic [prohibitions], one may decide leniently.
+
+
 ###### Melammed Lehoil Part II 28:4
 
 [https://torahapp.org/share/book/Melammed%20Lehoil%20Part%20II/r/28:4](https://torahapp.org/share/book/Melammed%20Lehoil%20Part%20II/r/28:4)
 
 
 ג. גם אין חשש לענ"ד משום מה שהביא המג"א סי' תמ"ב סוף ס"ק א' בשם הרשב"א דכל שעיקרו כך אינו בטל, דזה לא הוי אלא דרבנן, ובנ"ד הוי תרי דרבנן. גם יש לצרף דאפשר דאם א"א לעשות הפילצע אלא מחלב טהור אין לחוש שמא עירבו חלב טמא, וע"כ אם הדבר כן יש להתיר, ויברר דבר זה כמ"ש באות א'.
+
+
+3. Furthermore, there is no concern in my humble opinion from what the Magen Avraham brings in §442 at the end of section 1 in the name of the Rashba - that everything which is - for this is only a Rabbinic [stringency], and in our case, there are two Rabbinic stringencies [which do not have to be observed simultaneously]. We can also add the possibility that if it is impossible to cultivate the fungi in another [medium] than milk from a kosher [animal], we must not be concerned that milk from a non-kosher [animal] may have been admixed with it, therefore, if this is indeed the case, one may rule permissively, and he shall clarify this matter as I have written in section 1.
 
 
 
@@ -2390,7 +2402,7 @@ Regarding accepting for conversion a woman who wants to marry a Jewish man, I ha
 [https://torahapp.org/share/book/Melammed%20Lehoil%20Part%20II/r/85:2](https://torahapp.org/share/book/Melammed%20Lehoil%20Part%20II/r/85:2)
 
 
-והנה בזמננו י"ל כיון דיכולה להנשא ליהודי אף בגיותה ואם אין מקבלין אותה היהודי ישא אותו בציפילעהע, ועוד שאם לא יקבל אותה רב יר"א תלך אצל אחד מהחדשים שמקבלין גיורות בלי טבילה בב"ד ובלי קבלת מצות, ואז תהיה נחשבת לגיורת אף שהיא נכרית, מוטב לאחוז הרע במיעוטו ולקבלה אם תבטיח שהיא מתגיירה לשם שמים ושתקיים כל המצות ובפרט מצות שבת, נדה ומאכלות אסורות וכו'. את כל זה תבטיח "אויף עהרענוואָרט" וגם את בעלה יזהירו שלא יקח את אשתו כי אם בשידוע לו שתקיים כל אלה, דכלא זה הקלקול יתר על התקון, דרך משל אם יבעול נדה גויה אינו מחוייב כרת אלא מדברי קבלה, ואם נתגיירה הוא מחוייב כרת מדאורייתא.
+והנה בזמננו י"ל כיון דיכולה להנשא ליהודי אף בגיותה ואם אין מקבלין אותה היהודי ישא אותה בציפילעהע, ועוד שאם לא יקבל אותה רב יר"א תלך אצל אחד מהחדשים שמקבלין גיורות בלי טבילה בב"ד ובלי קבלת מצות, ואז תהיה נחשבת לגיורת אף שהיא נכרית, מוטב לאחוז הרע במיעוטו ולקבלה אם תבטיח שהיא מתגיירה לשם שמים ושתקיים כל המצות ובפרט מצות שבת, נדה ומאכלות אסורות וכו'. את כל זה תבטיח אויף עהרענווארט וגם את בעלה יזהירו שלא יקח את אשתו כי אם בשידוע לו שתקיים כל אלה, דבלא זה הקלקול יתר על התקון, דרך משל אם יבעול נדה גויה אינו מחוייב כרת אלא מדברי קבלה, ואם נתגיירה הוא מחוייב כרת מדאורייתא.
 
 
 Indeed, nowadays, arguably, since she can marry a Jewish man even while remaining a gentile, and if we do not accept her, the Jewish man will marry her civilly, and if she is not accepted by a God-fearing rabbi she will approach one of those newcomers who accepts converts without immersion in the presence of a rabbinical court and without the acceptance of the commandments, and then she will be considered a convert even though she is a gentile, it is best to minimize the harm and accept her if she promises that she is converting for the sake of heaven and that she will uphold all the commandments, and specifically Shabbat, menstrual purity laws, and the laws of keeping kosher. She should pledge this by giving her word of honor. Her husband should also be cautioned against marrying her unless he is certain that she will uphold all of this. Absent this, there is more harm done than good. For instance, one who has sexual relations with a gentile woman in a state of menstrual impurity does not incur the penalty of extirpation (karet) except at the rabbinic level. However, if she converts, he incurs karet by Torah law.
@@ -2426,7 +2438,8 @@ If the husband attests, after being warned, that his wife is converting for the 
 [https://torahapp.org/share/book/Melammed%20Lehoil%20Part%20II/r/87:1](https://torahapp.org/share/book/Melammed%20Lehoil%20Part%20II/r/87:1)
 
 
-שאלה: בן נכרית מישראל שהניחו אביו לימול ואין אנו יודעין אם גם נטבל, והוא אין שומר מצוה גם מחלל שבת אך הוחזק ליהודי ומשלם גם מס לקופת הקהלה ועתה רוצה לישא אשה ישראלית וא"א להטבילו בקבלת המצות כיון שאינו שומר מצות לא ירצה לקבל אם מותר לסדר לו קידושין, כאשר שיש לחוש שאם לא יסדרו לו ישא אשתו בציפילעהע.
+**שאלה:**
+בן נכרית מישראל שהניחו אביו לימול ואין אנו יודעין אם גם נטבל, והוא אין שומר מצוה גם מחלל שבת אך הוחזק ליהודי ומשלם גם מס לקופת הקהלה ועתה רוצה לישא אשה ישראלית וא"א להטבילו בקבלת המצות כיון שאינו שומר מצות לא ירצה לקבל אם מותר לסדר לו קידושין, באשר שיש לחוש שאם לא יסדרו לו ישא אשתו בציפילעהע.
 
 
 Question: The son of a gentile woman from a Jewish man—whose father brought him to be circumcised, but it is not known whether he was also immersed—does not observe the commandments, and he desecrates Shabbat, but he is established to be Jewish and he pays tax to the communal fund. Now he wants to marry a Jewish woman, and it is impossible for him to immerse while accepting the commandments, since he does not observe the commandments and does not wish to accept them. Is it permitted to officiate at his wedding, given the concern that if we do not officiate for him, he will marry his wife civilly?
@@ -2437,7 +2450,8 @@ Question: The son of a gentile woman from a Jewish man—whose father brought hi
 [https://torahapp.org/share/book/Melammed%20Lehoil%20Part%20II/r/87:2](https://torahapp.org/share/book/Melammed%20Lehoil%20Part%20II/r/87:2)
 
 
-תשובה. מה שרוצה מר לומר בתחילה דאם נחשוב אותו כנכרי צריך הטפת דם ברית לענ"ד זה אינו כיון דנימול לשם מצות מילה א"צ הטפת דם ברית וכבר הוכחתי בזה לעיל, וכן משמע בספר מנחת חינוך על מצות מילה, הובא בס' "וכתורה יעשה" הוספה ד' כ"ט ע"ב.
+**תשובה:**
+מה שרוצה מר לומר בתחילה דאם נחשוב אותו כנכרי צריך הטפת דם ברית לענ"ד זה אינו כיון דנימול לשם מצות מילה א"צ הטפת דם ברית וכבר הוכחתי בזה לעיל, וכן משמע בספר מנחת חינוך על מצות מילה, הובא בס' וכתורה יעשה הוספה ד' כ"ט ע"ב.
 
 
 Answer: That which you wished to say initially, namely, that if we consider him a gentile, he would need to have a drop of blood drawn for the circumcision covenant (hatafat dam brit), is incorrect, in my opinion. Since he was circumcised for the sake of the mitzva of circumcision, there is no need to draw a drop of blood. I proved this above. This is also implied in Minhat Hinukh on the mitzva of circumcision, cited in U-kheTorah Ye’aseh, Appendix D, p. 29b.

@@ -14,11 +14,35 @@ Location: Halakhah
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Aruch HaShulchan, Vilna 1923-29 (Segments: 25265, License: Public Domain)
+Version (He): Arukh HaShulchan, Yoreh De'ah -- Wikisource (Segments: 25265, License: CC-BY-SA)
 
-Version (En): Hupah veKiddushin, trans. by Norman T. Roman. HUC, 1975 (Segments: 275)
+Version (En): Hupah veKiddushin, trans. by Norman T. Roman. HUC, 1975 (Segments: 276)
 
 # Arukh HaShulchan — part 5 of 8
+
+###### Arukh HaShulchan, Yoreh De'ah 270:3
+
+[https://torahapp.org/share/book/Arukh%20HaShulchan/s/Yoreh%20De%27ah/r/270:3](https://torahapp.org/share/book/Arukh%20HaShulchan/s/Yoreh%20De%27ah/r/270:3)
+
+
+ולפי זה תמיהני על רבנו הרמ"א שכתב: שכר לו סופר לכתוב לו ספר תורה או שקנאו, והוא היה מוטעה והגיהו – הרי זה כאילו כתבו. אבל לקחו כך ולא הגיה בו דבר – הוי כחוטף מצוה מן השוק, ואינו יוצא בזה. עד כאן לשונו. מנא ליה לומר שאינו יוצא בזה? וכל הראשונים כתבו כרש"י ותוספות. (ועיין ט"ז סוף סעיף קטן א, שכתב שזהו נגד דברי רש"י. והגר"א סעיף קטן ג כתב דדברי רש"י עיקר, עיין שם. אבל מאין לקח דין זה? ודברי הלבוש תמוהים, שהרכיב שניהם ביחד דברי הרמ"א ודברי רש"י, עיין שם. אולי מדהרמב"ם לא הביא זה, שמע מינה דסבירא ליה דבלא כתיבה לא יצא. דכן מבואר מדבריו שכתב: ואם כתבו בידו – כאילו קבלה מהר סיני. ואם אינו יודע לכתוב – אחרים כותבין לו. וכל המגיה ספר תורה ואפילו אות אחת – כאילו כתבו כולו. עד כאן לשונו. ונראה להדיא שהשמיט הך דלוקח ספר תורה, ומבואר דסבירא ליה דבזה לא יצא כדעת הרמ"א. ואף לפי דעתם נראה לי דהקונה מיד סופר הכותב למכור ספר תורה, דיצא. וראיה מפסחים לה א בחלות תודה ורקיקי נזיר: עשאן למכור בשוק – יוצאין בהן, עיין שם. וגם לדינא העיקר כדעת רש"י, כמו שכתב הגר"א. ודייק ותמצא קל.)
+
+
+###### Arukh HaShulchan, Yoreh De'ah 270:4
+
+[https://torahapp.org/share/book/Arukh%20HaShulchan/s/Yoreh%20De%27ah/r/270:4](https://torahapp.org/share/book/Arukh%20HaShulchan/s/Yoreh%20De%27ah/r/270:4)
+
+
+ובזה שנתבאר דאפילו הניחו לו אבותיו מצוה לכתוב משלו, נראה ברור דאם אבותיו לא גמרוה או שהיה בה טעותים והוא תקנם דיצא ידי חובה. דלא גרעי מאחר, שנתבאר דאם הגיה בה אות אחת – הוי כאילו כתבה בעצמו. וראיתי לאחד מהגדולים שכתב שאפילו לא הניחו לו אבותיו כתובה אלא כל שהוא אפילו תיבה אחת, והוא השלימה, דלא יצא ידי חובה (שאגת אריה סוף סימן ל"ד). ודברים תמוהים הם בעיני. (וכל דבריו שם לא אבין. והפירוש כן הוא: דכיון דעל שירה לחודה לא מצי קאי, בעל כרחך דהכוונה על כל התורה כולה, כדסיימי קראי שם "דברי התורה עד תמם". ובזה מתורץ גם מה שנשאר בתימה דילמא אמשנה תורה קאי, דחומש מותר לכתוב, עיין שם. ולפי מה שכתבתי אתי שפיר. ודייק ותמצא קל.)
+
+
+###### Arukh HaShulchan, Yoreh De'ah 270:5
+
+[https://torahapp.org/share/book/Arukh%20HaShulchan/s/Yoreh%20De%27ah/r/270:5](https://torahapp.org/share/book/Arukh%20HaShulchan/s/Yoreh%20De%27ah/r/270:5)
+
+
+אם נשים חייבות בכתיבת ספר תורה אינו מבואר בפוסקים. ואחד מן הגדולים כתב שחייבות (שאגת אריה סימן ל"ה), דכתיבת ספר תורה אינו תלוי בתלמוד תורה, שהיא מצוה בפני עצמה. וראיה ברורה לזה: דאם המצוה הוי רק משום תלמוד תורה, למה אינו יוצא בספר תורה שהניח לו אביו? ואי משום שאינן מצוות על כל המצות, הרי גם ישראלים אינם מצווים על מצות הכהנים. ואי משום שפסולות לכתוב ספר תורה כמו שיתבאר, ואי סלקא דעתך שחייבות בכתיבתן – למה פסולות בכתיבתן? אך גם זה אין ראיה, שהרי במזוזה נשים חייבות ועם כל זה פסולות לכותבן. אלא גזירת התורה היא ואין עניין זה לזה.
+
 
 ###### Arukh HaShulchan, Yoreh De'ah 270:6
 
@@ -7007,7 +7031,7 @@ One who studies from a book and wishes to elevate it — it is forbidden to plac
 [https://torahapp.org/share/book/Arukh%20HaShulchan/s/Yoreh%20De%27ah/r/308:8](https://torahapp.org/share/book/Arukh%20HaShulchan/s/Yoreh%20De%27ah/r/308:8)
 
 
-כתב הרמב"ם ספ"ג גיזת בכור אפילו גיזת בעל מום שנתערב בגיזי חולין אפילו אחת בכמה אלפים כולן אסורות (בהנאה) שהרי הוא דבר חשוב ומקדש בכל שהוא עכ"ל ודין הראשון הוא בבכורות שם ודין השני היא משנה פ"ג דערלה (מ"ג) ומלא הסיט הוא כשיעור שיש מאצבע לאמה כשמרחיק האצבעות זה מזה ולרמב"ם הוא ב' טפחים ובשלהי תמורה מוקי לה דעביד כי ציפרתא שעשה צורת צפור דחשיבה אבל בלא"ה בטל ברוב ולא חש לה הרמב"ם דשם מיירי בשק דהוא עב ואינו חשוב אבל חוטי בגד כמלא הסיט הוי חשיבות גם בלא זה ואינו בטל (כ"מ) אבל גם בסוף פהמי"ק בשק לא הזכיר ג"כ זה (שם) ויש שתירץ דכוונת הגמ' דממלא הסיט ראוי לעשות ציפרתא או דס"ל דאינו כהלכתא (שם בשם הר"י קורקס) והדוחק מבואר אמנם האמת דשם כל הסוגיא לא מיירי בין היתר לאיסור אלא אם צריך קבורה או שריפה ע"ש ובזה פריך שם וליבטל ברובא לענין דסגי בקבורה ע"ש היטב (הגר"א בשנ"א בערלה שם).
+כתב הרמב"ם ספ"ג גיזת בכור אפילו גיזת בעל מום שנתערב בגיזי חולין אפילו אחת בכמה אלפים כולן אסורות (בהנאה) שהרי הוא דבר חשוב ומקדש בכל שהוא [האורג מלא הסיט מצמר הבכור בבגד ידלק מצמר המוקדשין מקדש בכל שהוא] עכ"ל ודין הראשון הוא בבכורות שם ודין השני היא משנה פ"ג דערלה (מ"ג) ומלא הסיט הוא כשיעור שיש מאצבע לאמה כשמרחיק האצבעות זה מזה ולרמב"ם הוא ב' טפחים ובשלהי תמורה מוקי לה דעביד כי ציפרתא שעשה צורת צפור דחשיבה אבל בלא"ה בטל ברוב ולא חש לה הרמב"ם דשם מיירי בשק דהוא עב ואינו חשוב אבל חוטי בגד כמלא הסיט הוי חשיבות גם בלא זה ואינו בטל (כ"מ) אבל גם בסוף פהמי"ק בשק לא הזכיר ג"כ זה (שם) ויש שתירץ דכוונת הגמ' דממלא הסיט ראוי לעשות ציפרתא או דס"ל דאינו כהלכתא (שם בשם הר"י קורקס) והדוחק מבואר אמנם האמת דשם כל הסוגיא לא מיירי בין היתר לאיסור אלא אם צריך קבורה או שריפה ע"ש ובזה פריך שם וליבטל ברובא לענין דסגי בקבורה ע"ש היטב (הגר"א בשנ"א בערלה שם).
 
 
 ###### Arukh HaShulchan, Yoreh De'ah 308:9
@@ -27492,16 +27516,5 @@ All this (the above) is according to their custom, that she is already betrothed
 We have already written in the name of the Rambam:
 (In the case of) one who betrothes a woman and recites the groom’s benedictions, but does not have “yiḥud” with her in his house - she is still considered only betrothed, for the groom’s benediction does not constitute marriage, only entrance into the “ḥupah” (does).
 However, if he has intercourse with her for the sake of marriage, it is all right (i.e. she is then considered married) as it is written: “the Rambam’s intention is (to show) that if he doess not have intercourse with her, or (if) they do not have ‘yiḥud’ immediately, the benedictions are voided” (see *Ḥelkat Meḥokek*, Note #11).
-
-
-###### Arukh HaShulchan, Even HaEzer 55:23
-
-[https://torahapp.org/share/book/Arukh%20HaShulchan/s/Even%20HaEzer/r/55:23](https://torahapp.org/share/book/Arukh%20HaShulchan/s/Even%20HaEzer/r/55:23)
-
-
-וכן להיפך, אם אירס וכנס לחופה ולא בירך ברכת חתנים – ה"ז נשואה גמורה וחוזר ומברך אפילו אחר כמה ימים, ואע"ג דכל ברכות צריך עובר לעשייתן מ"מ כיון דבברכות אלו לא נזכר כלל מנשואין יכול לברכם גם אח"כ, אבל ברכת אירוסין צריך לברך קודם הקדושין ככל הברכות שצריכים עובר לעשייתן.
-
-
-And also the opposite (case can arise): if he betrothed and entered into the “ḥupah” but did not recite the groom’s benedictions - behold, this is a complete marriage; he should return and recite the benedictions, even after several days. And even though all blessings must precede tha act (cf. Pesaḥim 7b), anyhow, among those blessings, those for marriage are not mentioned at all; one may recite the (marriage) benedictions even afterwards. But, the betrothal blessing must be recited before the betrothal (i.e. that part of the marriage ceremony which is still called betrothal), as all the (other) blessings which must precede the act.
 
 

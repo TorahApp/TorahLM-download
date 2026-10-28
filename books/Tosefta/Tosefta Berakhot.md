@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Tosefta B'rachot (Segments: 151, License: Public Domain)
 
-Version (En): Tosefta Online (Segments: 151)
+Version (En): Sefaria Community Translation (Segments: 151)
 
 
 ## Chapter 1
@@ -1628,7 +1628,7 @@ A person should not enter the Temple Mount2 with money bundled in his cloak, and
 ולא יעשה קפנדריא ורקיקה מק"ו שאין [בו] דרך בזיון אמרה תורה כך על אחת כמה וכמה [וקל וחומר שיש בו דרך בזיון ר' יהודה בר' יוסי] אומר אינו צריך הרי הוא אומר כי אין לבא אל שער המלך בלבוש שק בא וראה על אחת כמה וכמה קלין וחמורין בדבר אם לפני מלך בשר ודם אין עושין כן לא כ"ש לפני מלך מלכי המלכים הקב"ה.
 
 
-Rebbi Yossi Ben Rebbi Yehudah says, “It says [in the verse], ‘… because you cannot come into the gate of the king in sackcloth.’ (Esther 4:2) For sure there are many more Kal Vechomer (a derivation from minor to major) derivations in this case.” And spitting [is forbidden on the Temple Mount] from a Kal Vechomer. Even though a shoe has nothing disgraceful about it, [and still] the Torah says not to go with a shoe [on to the Temple Mount], it is a Kal Vechomer to spitting which is disgraceful, [that it should be for sure forbidden on the Temple Mount].
+Nor should one make it a shortcut. And spitting is prohibited from a *a fortiori* argument: regarding that which has no contempt in it the Torah said thus, all the more so [regarding that which has contempt. Rebbi Yehudah Ben Rebbi Yossi] says, This is unnecessary. It says, ‘For none may enter within the king's gate clothed with sackcloth’ (Esther 4:2) Come and see how many Kal Vechomer [derivations] are in this case. If before a king of flesh and blood they do not do so, all the more so before the King of Kings, the Holy One, blessed be He.
 
 
 ###### Tosefta Berakhot 6:26

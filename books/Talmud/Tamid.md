@@ -321,7 +321,7 @@ the **young men of the priesthood [*pirḥei khehunna*]?** Is there a distinctio
 [https://torahapp.org/share/book/Tamid/r/27a:4](https://torahapp.org/share/book/Tamid/r/27a:4)
 
 
-מְנָהָנֵי מִילֵּי? אָמַר רַב יְהוּדָה מִסּוּרָא, וְאָמְרִי לַהּ בְּמַתְנִיתָא תָּנָא, דִּכְתִיב: ״לַמִּזְרָח הַלְוִיִּם שִׁשָּׁה לַצָּפוֹנָה לְוִיִּם אַרְבָּעָה לַנֶּגְבָּה לְוִיִּם אַרְבָּעָה וְלָאֲסֻפִּים שְׁנַיִם שְׁנָיִם לַפַּרְבָּר לַמַּעֲרָב אַרְבָּעָה לַמְסִלָּה שְׁנַיִם לַפַּרְבָּר״.
+מְנָהָנֵי מִילֵּי? אָמַר רַב יְהוּדָה מִסּוּרָא, וְאָמְרִי לַהּ בְּמַתְנִיתָא תָּנָא, דִּכְתִיב: ״לַמִּזְרָח הַלְוִיִּם שִׁשָּׁה לַצָּפוֹנָה לַיּוֹם אַרְבָּעָה לַנֶּגְבָּה לַיּוֹם אַרְבָּעָה וְלָאֲסֻפִּים שְׁנַיִם שְׁנָיִם לַפַּרְבָּר לַמַּעֲרָב אַרְבָּעָה לַמְסִלָּה שְׁנַיִם לַפַּרְבָּר״.
 
 
 With regard to these twenty-one places where the Levites keep watch, the Gemara asks: **From where are these matters** derived? **Rav Yehuda of Sura said, and some say** that **it was taught in a *baraita*:** This is derived **as it is written** with regard to the Levites assigned by David to serve as gatekeepers upon the future construction of the Temple: **Eastward were six Levites, northward four Levites, southward four Levites, and for the *Asuppim* two and two. For the *Parbar* westward, four at the causeway, and two at the *Parbar*** (see I Chronicles 26:17–18).

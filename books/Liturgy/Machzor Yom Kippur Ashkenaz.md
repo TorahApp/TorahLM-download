@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): The Metsudah Machzor. Metsudah Publications, New York - Heb (paragraph ed.) (Segments: 3029)
 
-Version (En): The Metsudah Machzor. Metsudah Publications, New York - Eng (paragraph ed.) (Segments: 2247)
+Version (En): Majzor para Rosh Hashaná y Iom Kipur, Marcos Edery, Marshall T. Meyer, Seminario Rabínico Latinoamericano. 2020 [es] (Segments: 2248)
 
 
 ## Kaporos
@@ -23579,6 +23579,9 @@ in the presence of all the living
 
 
 אָז מִלִּפְנֵי בְרֵאשִׁית. נָוֶה וְיִנּוֹן הֵשִׁית: תַּלְפִּיּוֹת מָרוֹם מֵרִאשׁוֹן. תִּכֵּן טֶֽרֶם כָּל עַם וְלָשׁוֹן: שִׁכְנוֹ עָץ שָׁם לְהַשְׁרוֹת. שׁוֹגִים לְהַדְרִיךְ בְּדַרְכֵי יְשָׁרוֹת: רֶֽשַׁע אִם הֶאְדִּים. רַחֲצוּ וְהִזַּֽכּוּ הִקְדִּים: קֶֽצֶף אִם קָצַף בַּאֲיֻמָּתוֹ. קָדוֹשׁ לֹא יָעִיר כָּל חֲמָתוֹ: צֻמַּֽתְנוּ בְּבִצְעֵֽנוּ עַד עַתָּה. צוּרֵֽנוּ עָלֵֽינוּ לֹא גַֽעְתָּה: פִּנָּה מֶֽנּוּ מְשִֽׁיחַ צִדְקֵֽנוּ. פֻּלַּֽצְנוּ וְאֵין מִי לְצַדְּקֵֽנוּ: עֲו‍ֹנוֹתֵֽינוּ וְעֹל פְּשָׁעֵֽינוּ. עוֹמֵס וְהוּא מְחוֹלָל מִפְּשָׁעֵֽינוּ: סוֹבֵל עַל שֶֽׁכֶם חַטֹּאתֵֽינוּ. סְלִיחָה מְצֹא לַעֲו‍ֹנוֹתֵֽינוּ: נִרְפָּא לָֽנוּ בְּחַבּוּרָתוֹ. נֶֽצַח בְּרִיָּה חֲדָשָׁה עֵת לִבְרֹאתוֹ: חזן מֵחוּג הַעֲלֵֽהוּ. מִשֵּׂעִיר הַדְלֵֽהוּ: לְהַשְׁמִיעֵֽנוּ בְּהַר הַלְּבָנוֹן. שֵׁנִית בְּיַד יִנּוֹן:
+
+
+Then before creation. A dwelling and Yinon were set: Loftiest heights from the beginning. Prepared before any people or tongue: His Presence is firmly there to rest. Guiding the errant in paths of integrity: If wickedness turns red, wash and purify beforehand: If wrath flares in His anger, The Holy One will not arouse all His fury: We have been cut off by our iniquity until now. Our Rock has not turn to us: Departed from us is our righteous Mashiach. We were left in astonishment with nobody to justify us. And the yoke of our iniquities and rebellions, he carries it and is profaned for our transgressions. Upon his shoulder our sins. To find forgiveness for our iniquities: We are healed by his wound. Everlasting creature is regenerated anew. [chazan:] From the circle of the planet bring him up. From Seir lead him forth: To let us hear upon Mount Lebanon. A second time by the hand of Yinon.
 
 
 ###### Machzor Yom Kippur Ashkenaz, Musaf for Yom Kippur, Kedushah 26

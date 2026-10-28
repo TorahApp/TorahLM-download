@@ -647,7 +647,7 @@ Version (He): On Your Way (Segments: 88, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Haggai/r/2:15:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Haggai/r/2:15:1)
 
 
-**ועתה.** ר״ל אם כי עדיין אין קרבנם לרצון הואיל ואינם יודעים משפטי טומאה וטהרה וא ״כ בנין הבית הוא הכנה לבד להקריב בה כשילמדו כי אז תהיה לרצון:
+**ועתה.** ר״ל אם כי עדיין אין קרבנם לרצון הואיל ואינם יודעים משפטי טומאה וטהרה וא״כ בנין הבית הוא הכנה לבד להקריב בה כשילמדו כי אז תהיה לרצון:
 
 
 ###### Metzudat David on Haggai 2:15:2

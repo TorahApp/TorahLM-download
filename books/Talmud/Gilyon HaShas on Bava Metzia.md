@@ -6,7 +6,7 @@ Link: [https://torahapp.org/share/book/Gilyon%20HaShas%20on%20Bava%20Metzia](htt
 
 דיוני חז״ל בנושאי הלכה, מוסר ותנ"ך שהתקיימו במשך דורות. בנויים כהרחבות על המשנה ושזורים בהם סיפורי אגדה.
 
-19th-century notes of Rabbi Akiva Eiger on the margins of the the Talmud.
+19th-century notes of Rabbi Akiva Eiger on the margins of the Talmud.
 
 Sections: Daf-Comment
 

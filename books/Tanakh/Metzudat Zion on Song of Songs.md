@@ -654,7 +654,7 @@ Version (He): On Your Way (Segments: 328, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Song%20of%20Songs/r/2:9:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Song%20of%20Songs/r/2:9:2)
 
 
-**לעופר כן.** יקרא ילד האיל וכן יקרא ילד הצבי. כמו שנאמר כשני עפרים תאומי צביה (לקמן ד ה):
+**לעופר.** כן יקרא ילד האיל וכן יקרא ילד הצבי. כמו שנאמר כשני עפרים תאומי צביה (לקמן ד ה):
 
 
 ###### Metzudat Zion on Song of Songs 2:9:3
@@ -894,16 +894,19 @@ Version (He): On Your Way (Segments: 328, License: Public Domain)
 **בתר.** ענין חלוקה והפלגה כמו ויבתר אותם בתוך (בראשית טז י):
 
 
-###### Metzudat Zion on Song of Songs 2:17:9
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Song%20of%20Songs/r/2:17:9](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Song%20of%20Songs/r/2:17:9)
-
-
-**ג (ב) בשוקים וברחובות.** כפל המלה בשמות נרדפים וכן אדמת עפר (דניאל יב ב):
-
-
 
 ## Chapter 3
+
+
+### Verse 2
+
+###### Metzudat Zion on Song of Songs 3:2:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Song%20of%20Songs/r/3:2:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Song%20of%20Songs/r/3:2:1)
+
+
+**בשוקים וברחובות.** כפל המלה בשמות נרדפים וכן אדמת עפר (דניאל יב ב):
+
 
 
 ### Verse 4
@@ -1040,7 +1043,7 @@ Version (He): On Your Way (Segments: 328, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Song%20of%20Songs/r/3:10:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Song%20of%20Songs/r/3:10:2)
 
 
-**ן מרכבו.** מלשון רכיבה:
+**מרכבו.** מלשון רכיבה:
 
 
 ###### Metzudat Zion on Song of Songs 3:10:3
@@ -2404,17 +2407,20 @@ Version (He): On Your Way (Segments: 328, License: Public Domain)
 **ברהטים.** הבנינים שעל העליות מחדר לחדר וכן רהיטנו ברותים (לעיל א יז):
 
 
-###### Metzudat Zion on Song of Songs 7:6:5
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Song%20of%20Songs/r/7:6:5](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Song%20of%20Songs/r/7:6:5)
+### Verse 7
+
+###### Metzudat Zion on Song of Songs 7:7:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Song%20of%20Songs/r/7:7:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Song%20of%20Songs/r/7:7:1)
 
 
 **מה יפית.** מלת מה הוכחה על הפלגת הענין וכן מה רב טובך (תהלים לא כ):
 
 
-###### Metzudat Zion on Song of Songs 7:6:6
+###### Metzudat Zion on Song of Songs 7:7:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Song%20of%20Songs/r/7:6:6](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Song%20of%20Songs/r/7:6:6)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Song%20of%20Songs/r/7:7:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Song%20of%20Songs/r/7:7:2)
 
 
 **נעמת.** ענין אהבה כמו אף נעים (לעיל א טז):
@@ -2701,9 +2707,12 @@ Version (He): On Your Way (Segments: 328, License: Public Domain)
 **תחבקני.** ענין סבוב הזרוע בגוף:
 
 
-###### Metzudat Zion on Song of Songs 8:3:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Song%20of%20Songs/r/8:3:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Song%20of%20Songs/r/8:3:2)
+### Verse 4
+
+###### Metzudat Zion on Song of Songs 8:4:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Song%20of%20Songs/r/8:4:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Song%20of%20Songs/r/8:4:1)
 
 
 **תעירו, תעוררו.** מלשון התעוררות, וכפל המלה לחזוק הענין:

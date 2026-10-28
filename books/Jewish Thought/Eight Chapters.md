@@ -653,7 +653,7 @@ footnotes:
 [https://torahapp.org/share/book/Eight%20Chapters/r/5:7](https://torahapp.org/share/book/Eight%20Chapters/r/5:7)
 
 
-ודע, שזאת המדרגה היא מדרגה עליונה מאד וחמורה, לא ישיגוה אלא מעט מזער ואחר הרגל גדול. וכשיזדמן מציאות האדם שזה ענינו - איני אומר שהוא למטה מן הנביאים. ר"ל: שישמש כוחות נפשו כולם וישים תכליתם - ידיעת השם יתברך לבד. ולא יעשה מעשה קטן או גדול, ולא ידבר דבר - אלא שהפועל ההוא, או הדבר ההוא מביא למעלה, או למה שמביא אל מעלה. והוא יחשוב ויסתכל בכל פועל ותנועה ויראה אם יביא אל התכלית ההיא או לא יביא - ואז יעשהו.
+ודע, שזאת המדרגה היא מדרגה עליונה מאד וחמודה, לא ישיגוה אלא מעט מזער ואחר הרגל גדול. וכשיזדמן מציאות האדם שזה ענינו - איני אומר שהוא למטה מן הנביאים. ר"ל: שישמש כוחות נפשו כולם וישים תכליתם - ידיעת השם יתברך לבד. ולא יעשה מעשה קטן או גדול, ולא ידבר דבר - אלא שהפועל ההוא, או הדבר ההוא מביא למעלה, או למה שמביא אל מעלה. והוא יחשוב ויסתכל בכל פועל ותנועה ויראה אם יביא אל התכלית ההיא או לא יביא - ואז יעשהו.
 
 
 Know that to live according to this standard is to arrive at a very high degree of perfection, which, in consequence of the difficulty of attainment, only a few, after long and continuous perseverance on the paths of virtue, have succeeded in reaching. If there be found a man who has accomplished this—that is one who exerts all the faculties of his soul, and directs them towards the sole ideal of comprehending God, using all his powers of mind and body, be they great or small, for the attainment of that which leads directly or indirectly to virtue—I would place him in a rank not lower than that of the prophets. Such a man, before he does a single act or deed, considers and reflects whether or not it will bring him to that goal, and if it will, then, and then only, does he do it.

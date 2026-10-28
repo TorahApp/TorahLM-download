@@ -1973,7 +1973,7 @@ Version (He): William Davidson Edition - Hebrew (Segments: 706, License: CC-BY-N
 [https://torahapp.org/share/book/Steinsaltz%20on%20Makkot/r/9b:15](https://torahapp.org/share/book/Steinsaltz%20on%20Makkot/r/9b:15)
 
 
-ועוד בדין ערי מקלט: **ומכוונות להן דרכים מזו לזו,** כלומר שהיו מסדרים ומיישרים את הדרכים המובילות לערי המקלט, **שנאמר "תכין לך הדרך ושלשת"** (במדבר, יט, ג).
+ועוד בדין ערי מקלט: **ומכוונות להן דרכים מזו לזו,** כלומר שהיו מסדרים ומיישרים את הדרכים המובילות לערי המקלט, **שנאמר "תכין לך הדרך ושלשת"** (דברים יט, ג).
 
 
 ###### Steinsaltz on Makkot 9b:16

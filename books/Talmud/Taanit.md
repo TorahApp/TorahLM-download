@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): William Davidson Edition - Vocalized Aramaic (Segments: 895, License: CC-BY-NC)
 
-Version (En): William Davidson Edition - English (Segments: 892)
+Version (En): Sefaria Community Translation (Segments: 892)
 
 
 ## Daf 2a
@@ -6184,7 +6184,7 @@ Rabbi Yoḥanan elaborates: **Ahijah the Shilonite cursed** the Jewish people **
 נִזְדַּמֵּן לוֹ אָדָם אֶחָד שֶׁהָיָה מְכוֹעָר בְּיוֹתֵר. אָמַר לוֹ: שָׁלוֹם עָלֶיךָ רַבִּי! וְלֹא הֶחְזִיר לוֹ. אָמַר לוֹ: רֵיקָה, כַּמָּה מְכוֹעָר אוֹתוֹ הָאִישׁ! שֶׁמָּא כׇּל בְּנֵי עִירֶךָ מְכוֹעָרִין כְּמוֹתְךָ? אָמַר לוֹ: אֵינִי יוֹדֵעַ, אֶלָּא לֵךְ וֶאֱמוֹר לָאוּמָּן שֶׁעֲשָׂאַנִי: ״כַּמָּה מְכוֹעָר כְּלִי זֶה שֶׁעָשִׂיתָ״. כֵּיוָן שֶׁיָּדַע בְּעַצְמוֹ שֶׁחָטָא, יָרַד מִן הַחֲמוֹר וְנִשְׁתַּטַּח לְפָנָיו, וְאָמַר לוֹ: נַעֲנֵיתִי לְךָ, מְחוֹל לִי! אָמַר לוֹ: אֵינִי מוֹחֵל לְךָ עַד שֶׁתֵּלֵךְ לָאוּמָּן שֶׁעֲשָׂאַנִי וֶאֱמוֹר לוֹ: כַּמָּה מְכוֹעָר כְּלִי זֶה שֶׁעָשִׂיתָ.
 
 
-**He happened** upon **an exceedingly ugly person,** who **said to him: Greetings to you, my rabbi, but** Rabbi Elazar **did not return** his greeting. Instead, Rabbi Elazar **said to him: Worthless [*reika*]** person, **how ugly is that man. Are all the people of your city as ugly as you?** The man **said to him: I do not know, but you** should **go and say to the Craftsman Who made me: How ugly is the vessel you made. When** Rabbi Elazar **realized that he** had **sinned** and insulted this man merely on account of his appearance, **he descended from his donkey and prostrated himself before him, and he said to** the man: **I have sinned against you; forgive me.** The man **said to him: I will not forgive you go until you go to the Craftsman Who made me and say: How ugly is the vessel you made.**
+**He happened** upon **an exceedingly ugly person,** who **said to him: Greetings to you, my rabbi, but** Rabbi Elazar **did not return** his greeting. Instead, Rabbi Elazar **said to him: Worthless [*reika*]** person, **how ugly is that man. Are all the people of your city as ugly as you?** The man **said to him: I do not know, but you** should **go and say to the Craftsman Who made me: How ugly is the vessel you made. When** Rabbi Elazar **realized that he** had **sinned** and insulted this man merely on account of his appearance, **he descended from his donkey and prostrated himself before him, and he said to** the man: **I have sinned against you; forgive me.** The man **said to him: I will not forgive you until you go to the Craftsman Who made me and say: How ugly is the vessel you made.**
 
 
 ###### Taanit 20b:2
@@ -10014,7 +10014,7 @@ It is taught that **those** women **of distinguished lineage among them would sa
 [https://torahapp.org/share/book/Taanit/r/31a:9](https://torahapp.org/share/book/Taanit/r/31a:9)
 
 
-אָמַר עוּלָּא בִּירָאָה, אָמַר רַבִּי אֶלְעָזָר: עָתִיד הַקָּדוֹשׁ בָּרוּךְ הוּא לַעֲשׂוֹת מָחוֹל לְצַדִּיקִים, וְהוּא יוֹשֵׁב בֵּינֵיהֶם בְּגַן עֵדֶן, וְכׇל אֶחָד וְאֶחָד מַרְאֶה בְּאֶצְבָּעוֹ, שֶׁנֶּאֱמַר: ״וָאֹמַר בַּיּוֹם הַהוּא הִנֵּה אֱלֹהֵינוּ זֶה קִוִּינוּ לוֹ וְיוֹשִׁיעֵנוּ זֶה ה׳ קִוִּינוּ לוֹ נָגִילָה וְנִשְׂמְחָה בִּישׁוּעָתוֹ״.
+אָמַר עוּלָּא בִּירָאָה, אָמַר רַבִּי אֶלְעָזָר: עָתִיד הַקָּדוֹשׁ בָּרוּךְ הוּא לַעֲשׂוֹת מָחוֹל לְצַדִּיקִים, וְהוּא יוֹשֵׁב בֵּינֵיהֶם בְּגַן עֵדֶן, וְכׇל אֶחָד וְאֶחָד מַרְאֶה בְּאֶצְבָּעוֹ, שֶׁנֶּאֱמַר: ״וְאָמַר בַּיּוֹם הַהוּא הִנֵּה אֱלֹהֵינוּ זֶה קִוִּינוּ לוֹ וְיוֹשִׁיעֵנוּ זֶה ה׳ קִוִּינוּ לוֹ נָגִילָה וְנִשְׂמְחָה בִּישׁוּעָתוֹ״.
 
 
 The tractate concludes with a statement related to the topic of dancing. **Ulla** of the city of **Bira’a said** that **Rabbi Elazar said:** In the **future,** in the end of days, **the Holy One, Blessed be He, will arrange a dance of the righteous, and He** will **be sitting among them in** the **Garden of Eden, and each and every one** of the righteous will **point** to God **with his finger, as it is stated: “And it shall be said on that day: Behold, this is our God, for whom we waited, that He might save us. This is the Lord; for whom we waited. We will be glad and rejoice in His salvation”** (Isaiah 25:9). God will be revealed, so that every righteous individual will be able to say: This is our God, as though they were pointing at Him with a finger.

@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat Zion/Writings
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 2027, License: Public Domain)
+Version (He): On Your Way (Segments: 2028, License: Public Domain)
 
 Version (En): Sefaria Community Translation (Segments: 2)
 
@@ -2324,20 +2324,20 @@ Version (En): Sefaria Community Translation (Segments: 2)
 **תכריע.** ענינו הנפילה על הברכים:
 
 
-###### Metzudat Zion on Psalms 18:40:2
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/18:40:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/18:40:2)
-
-
-**עורף.** הוא אחורי הפנים:
-
-
 
 ### Verse 41
 
 ###### Metzudat Zion on Psalms 18:41:1
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/18:41:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/18:41:1)
+
+
+**עורף.** הוא אחורי הפנים:
+
+
+###### Metzudat Zion on Psalms 18:41:2
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/18:41:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/18:41:2)
 
 
 **אצמיתם.** אכריתם כמו אותו אצמית (לקמן ק״א):
@@ -3136,9 +3136,12 @@ Magdil ['magnifying']]. From the language of gadol ['magnanimous' or 'great'].
 **מעון.** מדור:
 
 
-###### Metzudat Zion on Psalms 26:8:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/26:8:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/26:8:2)
+### Verse 9
+
+###### Metzudat Zion on Psalms 26:9:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/26:9:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/26:9:1)
 
 
 **תאסף.** ענין מיתה:
@@ -12369,7 +12372,7 @@ Magdil ['magnifying']]. From the language of gadol ['magnanimous' or 'great'].
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/83:3:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/83:3:1)
 
 
-**יהמיו.** מל׳ המיה:
+**יהמיון.** מל׳ המיה:
 
 
 
@@ -15769,16 +15772,19 @@ It is a language of action! Based on Genesis 37:20 “Let us go and kill them.�
 **שוביהם.** מלשון שביה:
 
 
-###### Metzudat Zion on Psalms 106:46:2
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/106:46:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/106:46:2)
-
-
-**.** (ו) ממצוקותיהם מלשון צוקה וצרה:
-
-
 
 ## Chapter 107
+
+
+### Verse 6
+
+###### Metzudat Zion on Psalms 107:6:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/107:6:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/107:6:1)
+
+
+**ממצוקותיהם.** מלשון צוקה וצרה:
+
 
 
 ### Verse 7
@@ -18708,9 +18714,12 @@ It is a language of action! Based on Genesis 37:20 “Let us go and kill them.�
 **תהומות.** עומק המים:
 
 
-###### Metzudat Zion on Psalms 135:6:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/135:6:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/135:6:2)
+### Verse 7
+
+###### Metzudat Zion on Psalms 135:7:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/135:7:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/135:7:1)
 
 
 **נשיאים.** עננים ע״ש שמנשאים עצמן למעלה וכן נשיאים ורוח וגשם אין (משלי כ״ה:י״ד):
@@ -18913,7 +18922,7 @@ It is a language of action! Based on Genesis 37:20 “Let us go and kill them.�
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/137:9:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/137:9:1)
 
 
-**ונפץ.** ענין השבירה עם הרצוץ והפזור כמו ונפוץ הכדים (שופטים ז׳:י״ט)
+**ונפץ.** ענין השבירה עם הרצוץ והפזור כמו ונפוץ הכדים (שופטים ז׳:י״ט):
 
 
 ###### Metzudat Zion on Psalms 137:9:2
@@ -19956,7 +19965,7 @@ It is a language of action! Based on Genesis 37:20 “Let us go and kill them.�
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/144:13:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/144:13:3)
 
 
-**מזן.** מלשון הזנה ומזון (יד) אלופינו. הם השוורים וכן שגר אלפיך (דברים ז):
+**מזן.** מלשון הזנה ומזון:
 
 
 
@@ -19967,7 +19976,7 @@ It is a language of action! Based on Genesis 37:20 “Let us go and kill them.�
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/144:14:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/144:14:1)
 
 
-**מסבלים.** ענין טעינת משא כמו נושא סבל (מ״א ה):
+**אלופינו.** הם השוורים וכן שגר אלפיך (דברים ז):
 
 
 ###### Metzudat Zion on Psalms 144:14:2
@@ -19975,12 +19984,20 @@ It is a language of action! Based on Genesis 37:20 “Let us go and kill them.�
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/144:14:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/144:14:2)
 
 
-**פרץ.** מלשון פרצה:
+**מסבלים.** ענין טעינת משא כמו נושא סבל (מ״א ה):
 
 
 ###### Metzudat Zion on Psalms 144:14:3
 
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/144:14:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/144:14:3)
+
+
+**פרץ.** מלשון פרצה:
+
+
+###### Metzudat Zion on Psalms 144:14:4
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/144:14:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Psalms/r/144:14:4)
 
 
 **צוחה.** ענין הצעקה על הצרה וכן וצוחת ירושלים עלתה (ירמיהו י״ד:ב׳):

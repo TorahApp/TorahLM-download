@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat Zion/Prophets
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 343, License: Public Domain)
+Version (He): On Your Way (Segments: 344, License: Public Domain)
 
 Version (En): Sefaria Community Translation (Segments: 2)
 
@@ -1989,7 +1989,18 @@ Version (En): Sefaria Community Translation (Segments: 2)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Zechariah/r/10:8:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Zechariah/r/10:8:1)
 
 
-**אשרקה.** ענין צפצוף קול הבאה בקבוץ השפתים וכן ושרק לו מקצה הארץ (ישעיהו ה׳:כ״ו) (ט) ואזרעם. מל׳ זריעה והוא ענין פזור והפצה:
+**אשרקה.** ענין צפצוף קול הבאה בקבוץ השפתים וכן ושרק לו מקצה הארץ (ישעיהו ה׳:כ״ו):
+
+
+
+### Verse 9
+
+###### Metzudat Zion on Zechariah 10:9:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Zechariah/r/10:9:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Zechariah/r/10:9:1)
+
+
+**ואזרעם.** מל׳ זריעה והוא ענין פזור והפצה:
 
 
 

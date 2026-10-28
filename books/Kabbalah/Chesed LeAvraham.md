@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Chesed le-Avraham -- grimoar (Segments: 1349, License: Public Domain)
 
-Version (En): chat gpt (Segments: 405)
+Version (En): Sefaria Community Translation (Segments: 405)
 
 
 ## Introduction

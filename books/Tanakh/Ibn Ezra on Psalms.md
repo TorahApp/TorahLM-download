@@ -14,9 +14,9 @@ Location: Tanakh/Rishonim on Tanakh/Ibn Ezra/Writings
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Ibn Ezra on Psalms -- Daat (Segments: 4019, License: Public Domain)
+Version (He): Tanakh, Venice, 1617-1619 (Segments: 4019, License: unknown)
 
-Version (En): Wikisource Mikraot Gedolot (Segments: 167)
+Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 167)
 
 
 ## Introduction

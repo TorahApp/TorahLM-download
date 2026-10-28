@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat David/Prophets
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 706, License: Public Domain)
+Version (He): On Your Way (Segments: 705, License: Public Domain)
 
 Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 20)
 
@@ -837,33 +837,36 @@ It does not say "That I will be with you", even Hashem was saying this, an examp
 **והירדן מלא.** בא להגדיל הנס ולומר אף שמי הירדן מרובים הם, שאפילו בכל ימי קציר שדרך מי הנהרות להתמעט היה הוא מלא על כל שפתיו:
 
 
-###### Metzudat David on Joshua 3:15:3
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/3:15:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/3:15:3)
+### Verse 16
+
+###### Metzudat David on Joshua 3:16:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/3:16:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/3:16:1)
 
 
-**, (טז) ויעמדו.** מוסב למעלה (פסוק טז), לומר, הנה עם כל רבוי המים, עמדו היורדים מלמעלה אחר הכריתה וקמו נד אחד:
+**ויעמדו.** מוסב למעלה (פסוק טז), לומר, הנה עם כל רבוי המים, עמדו היורדים מלמעלה אחר הכריתה וקמו נד אחד:
 
 
-###### Metzudat David on Joshua 3:15:4
+###### Metzudat David on Joshua 3:16:2
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/3:15:4](https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/3:15:4)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/3:16:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/3:16:2)
 
 
 **הרחק מאוד.** הנד ההוא היה רחוק מאוד מהעיר ששמה אדם, העומדת בצד צרתן:
 
 
-###### Metzudat David on Joshua 3:15:5
+###### Metzudat David on Joshua 3:16:3
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/3:15:5](https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/3:15:5)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/3:16:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/3:16:3)
 
 
 **והיורדים.** המים שירדו קודם הכריתה לצד ים הערבה, והוא ים המלח:
 
 
-###### Metzudat David on Joshua 3:15:6
+###### Metzudat David on Joshua 3:16:4
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/3:15:6](https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/3:15:6)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/3:16:4](https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/3:16:4)
 
 
 **תמו נכרתו.** המים ההם תמו ממקומם ונכרתו והלכו להם, ונשאר המקום חורב ויובש:
@@ -3610,7 +3613,7 @@ What does my lord speak: meaning "speak your word and I am here to fulfil it as 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/15:5:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/15:5:3)
 
 
-**עד קצה הירדן.** קצהו הדרומי הנופל בים (אולם משם הלך הירדן בפאת הדרומי כלפי המערב ונפל בים הגדול, כן אמרו רבותינו זכרונם לברכה (בכורות נה א), ובזה ניחא מה שכתוב (בראשית יג יא): ויסע לוט מקדם, כי פנה למערב, לככר הירדן שכלפי המערב, וניחא מה שכתוב (בראשית נ י):
+**עד קצה הירדן.** קצהו הדרומי הנופל בים (אולם משם הלך הירדן בפאת הדרומי כלפי המערב ונפל בים הגדול, כן אמרו רבותינו זכרונם לברכה (בכורות נה א), ובזה ניחא מה שכתוב (בראשית יג יא): ויסע לוט מקדם, כי פנה למערב, לככר הירדן שכלפי המערב, וניחא מה שכתוב (בראשית נ י): ויבאו כו׳ אשר בעבר הירדן. ורצה לומר, בעבר הירדן שכלפי המערב, כי לא היה צורך להם ללכת בדרך עבר הירדן המזרחי):
 
 
 ###### Metzudat David on Joshua 15:5:4
@@ -3618,7 +3621,7 @@ What does my lord speak: meaning "speak your word and I am here to fulfil it as 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/15:5:4](https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/15:5:4)
 
 
-**ויבאו כו׳ אשר בעבר הירדן.** ורצה לומר, בעבר הירדן שכלפי המערב, כי לא היה צורך להם ללכת בדרך עבר הירדן המזרחי) **וגבול לפאת צפונה.** מן המזרח כלפי המערב:
+**וגבול לפאת צפונה.** מן המזרח כלפי המערב:
 
 
 ###### Metzudat David on Joshua 15:5:5
@@ -4055,15 +4058,7 @@ What does my lord speak: meaning "speak your word and I am here to fulfil it as 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/16:1:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/16:1:3)
 
 
-**המדבר עולה מיריחו.** רצה לומר, ממי יריחו עלה אל המדבר:
-
-
-###### Metzudat David on Joshua 16:1:4
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/16:1:4](https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/16:1:4)
-
-
-**ובא בהר בית אל.** ולא זהו בית אל הקרויה לוז:
+**המדבר עולה מיריחו.** רצה לומר, ממי יריחו עלה אל המדבר ובא בהר בית אל. ולא זהו בית אל הקרויה לוז:
 
 
 
@@ -4131,7 +4126,7 @@ What does my lord speak: meaning "speak your word and I am here to fulfil it as 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/16:5:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Joshua/r/16:5:2)
 
 
-**מזרחה.**גבול הרוחב הפונה למזרח היה מעטרות אדר, שעמדה בצפונו של בנימן, עד
+**מזרחה.** גבול הרוחב הפונה למזרח היה מעטרות אדר, שעמדה בצפונו של בנימן, עד
 
 
 ###### Metzudat David on Joshua 16:5:3

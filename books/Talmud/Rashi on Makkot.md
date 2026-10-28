@@ -14,7 +14,7 @@ Location: Talmud/Bavli/Rishonim on Talmud/Rashi/Seder Nezikin
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Vilna Edition (Segments: 859, License: Public Domain)
+Version (He): Vilna Edition (Segments: 860, License: Public Domain)
 
 Version (En): Sefaria Community Translation (Segments: 62)
 
@@ -369,6 +369,14 @@ They (the false witnesses) that did not do a deed - Rather (their action) was on
 ###### Rashi on Makkot 2b:11:1
 
 [https://torahapp.org/share/book/Rashi%20on%20Makkot/r/2b:11:1](https://torahapp.org/share/book/Rashi%20on%20Makkot/r/2b:11:1)
+
+
+כופרא כפרה - לכפר על עצמו שחייב מיתה בידי שמים לפיכך יתן דמי עצמו:
+
+
+###### Rashi on Makkot 2b:11:2
+
+[https://torahapp.org/share/book/Rashi%20on%20Makkot/r/2b:11:2](https://torahapp.org/share/book/Rashi%20on%20Makkot/r/2b:11:2)
 
 
 בדניזק שיימינן - בהכי הויא ליה כפרה כי יהיב דמי ניזק ולקמיה מפרש טעמיה:

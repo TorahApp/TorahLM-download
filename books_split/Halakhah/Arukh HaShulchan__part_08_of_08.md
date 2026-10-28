@@ -14,11 +14,27 @@ Location: Halakhah
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Aruch HaShulchan, Vilna 1923-29 (Segments: 25265, License: Public Domain)
+Version (He): Arukh HaShulchan, Yoreh De'ah -- Wikisource (Segments: 25265, License: CC-BY-SA)
 
-Version (En): Hupah veKiddushin, trans. by Norman T. Roman. HUC, 1975 (Segments: 275)
+Version (En): Hupah veKiddushin, trans. by Norman T. Roman. HUC, 1975 (Segments: 276)
 
 # Arukh HaShulchan — part 8 of 8
+
+###### Arukh HaShulchan, Choshen Mishpat 291:45
+
+[https://torahapp.org/share/book/Arukh%20HaShulchan/s/Choshen%20Mishpat/r/291:45](https://torahapp.org/share/book/Arukh%20HaShulchan/s/Choshen%20Mishpat/r/291:45)
+
+
+מדברים אלו שהקדמנו נ"ל דשומר שרצונו לקבל עליו אחריות אם השני יאבדנו באונס ולא יהיה לו עדים וגם הוא לא יהיה ביכלתו לישבע רשאי למסור הפקדון לאחר וזה שנתבאר בהרמב"ם וש"ע סעיף כ"א דהוה פושע הכוונה הוא דהוא בעצמו פשע שיצטרך לשלם כשלא יראה בעצמו ולא יהיו עדים ומדברי רבינו הרמ"א בסי' שמ"ב יש ראיה לזה כמ"ש שם ועוד ראיה לזה דאל"כ אלא דזה מקרי פשיעה א"כ איך פטרינן ליה כשיכול לישבע או כשיש עדים נימא תחלתו בפשיעה וסופו באונס חייב כשיש לתלות שהאונס לא היה נארע בבית הראשון ועוד דחז"ל אמרו [גיטין שם] אין השואל רשאי להשאיל ואין השוכר רשאי להשכיר לישמעינן רבותא יותר שאפילו שומר אינו רשאי למסור לאחר אלא ודאי דזהו רק בשואל ושוכר שמשתמשין בהחפץ אין רצונו שאיש אחר ישתמש בו אבל בשמירה אין לו נ"מ אם לא יצטרך לנאמנותו של השני [ור"ל דאמר שם בגיטין כאן שנה ר' לא לדמותו לגמרי קאמר ור"י משיבו דהנ"מ הוא להגט ובספ"ק פשיטא שיכול הנפקד לקבל בחזרה ואף שמהרי"ף בב"מ שם משמע דלכתחלה אינו רשאי למסור לאחר ועשה כעין פשרה דגם רבא מודה כתחלה אבל מתוס' ורא"ש לא משמע כן וגם להרי"ף אין זה פשיעה בדיעבד]:
+
+
+###### Arukh HaShulchan, Choshen Mishpat 291:46
+
+[https://torahapp.org/share/book/Arukh%20HaShulchan/s/Choshen%20Mishpat/r/291:46](https://torahapp.org/share/book/Arukh%20HaShulchan/s/Choshen%20Mishpat/r/291:46)
+
+
+ואע"פ שכן נ"ל מ"מ למעשה איני אומר דבר זה מפני שהלשון של רבותינו בעלי הש"ע אינו מורה כן ולכתחלה אסור לשומר למסור לאחר וכן משמע מרמב"ם פ"א משכירות [ודברי הרמ"א בסי' ש"א נתבאר שם בס"ד] וזה דלא חשבינן כתחלתו בפשיעה מפני שאין זה פשיעה גמורה וצ"ע:
+
 
 ###### Arukh HaShulchan, Choshen Mishpat 291:47
 

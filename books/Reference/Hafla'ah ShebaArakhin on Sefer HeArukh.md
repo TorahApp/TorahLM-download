@@ -14,7 +14,7 @@ Location: Reference/Dictionary
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Sefer HeArukh, Lublin 1883 (Segments: 2067, License: Public Domain)
+Version (He): Wien, 1859 (Segments: 2067, License: Public Domain)
 
 
 ## Introduction

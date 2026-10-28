@@ -279,7 +279,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Habakkuk/r/1:12:1](https://torahapp.org/share/book/Rashi%20on%20Habakkuk/r/1:12:1)
 
 
-אָמַר הַנָּבִיא: וְאַתָּה לָמָּה תַחֲרִישׁ לְכָל זֹאת? **הֲלֹא אַתָּה מִקֶּדֶם אֱלֹהַי קְדוֹשִׁי וְכוּ׳**. וְזֶה שֶׁכָּתוּב ״לֹא נָמוּת״ – אֶחָד מִתִּקּוּנֵי סוֹפְרִים שֶׁבַּמִּקְרָא הוּא, שֶׁכִּנָּה הַכָּתוּב. וְכֵן (מלאכי א:יג) ״וְהִפַּחְתֶּם אוֹתוֹ״, וְכֵן הַרְבֵּה הַמְפֹרָשִׁים בְּסִפְרֵי. וּלְפִי תִּיוּן הַסּוֹפְרִים זֶה, פֵּרוּשׁוֹ: הֲלֹא אַתָּה אֱלֹהַי מִקֶּדֶם קְדוֹשִׁי? אַל תִּתְּנֵנִי לָמוּת בְּיָדוֹ.
+אָמַר הַנָּבִיא: וְאַתָּה לָמָּה תַחֲרִישׁ לְכָל זֹאת? **הֲלֹא אַתָּה מִקֶּדֶם אֱלֹהַי קְדוֹשִׁי וְכוּ׳.** וְזֶה שֶׁכָּתוּב ״לֹא נָמוּת״ – אֶחָד מִתִּקּוּנֵי סוֹפְרִים שֶׁבַּמִּקְרָא הוּא, שֶׁכִּנָּה הַכָּתוּב. וְכֵן (מלאכי א:יג) ״וְהִפַּחְתֶּם אוֹתוֹ״, וְכֵן הַרְבֵּה הַמְפֹרָשִׁים בְּסִפְרֵי. וּלְפִי תִּיוּן הַסּוֹפְרִים זֶה, פֵּרוּשׁוֹ: הֲלֹא אַתָּה אֱלֹהַי מִקֶּדֶם קְדוֹשִׁי? אַל תִּתְּנֵנִי לָמוּת בְּיָדוֹ.
 
 
 **Are You not from everlasting, O Lord, my God, my Holy One?** Who shall not die. Now, the reason it is written לֹא נָמוּת we shall not die, is that it is one of the emendations of the scribes in Scripture, by which Scripture euphemizes. Likewise, (Mal. 1:13) “And you sadden it.” And so are many of them [these euphemisms] explained in *Sifre* (Num. 10:35). According to the emendation of the scribes, this is its explanation: Are you not my God from everlasting, my Holy One? Do not deliver us into their hands to die.
@@ -290,7 +290,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Habakkuk/r/1:12:2](https://torahapp.org/share/book/Rashi%20on%20Habakkuk/r/1:12:2)
 
 
-**ה׳ לְמִשְׁפָּט שַׂמְתּוֹ.** יָדַעְתִּי כִּי לֹא הֶעֱמַדְתּוֹ לָזֶה אֶלָּא לִשְׁפּוֹט אֶת הַמּוֹרְדִים בְּךָ, וּמִכָּל מָקוֹם כָּל זֶה לָמָּה יִתְקַיֵּם? הֲלֹא...
+**ה׳ לְמִשְׁפָּט שַׂמְתּוֹ.** יָדַעְתִּי כִּי לֹא הֶעֱמַדְתּוֹ לָזֶה אֶלָּא לִשְׁפּוֹט אֶת הַמּוֹרְדִים בְּךָ, וּמִכָּל מָקוֹם כָּל זֶה לָמָּה יִתְקַיֵּם? הֲלֹא…
 
 
 **O Lord, You have ordained them for judgment** I know that You have set this one [Nebuchadnezzar] up only to judge those who rebel against You. In any case, why should all this come about? Is it not so that...
@@ -354,7 +354,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Habakkuk/r/1:15:1](https://torahapp.org/share/book/Rashi%20on%20Habakkuk/r/1:15:1)
 
 
-**כֻּלֹּה בְּחַכָּה הֶעֱלָה.** כָּל הָאָדָם זֶה נְבוּכַדְנֶצַּר הֶעֱלָה בְּחַכָּה שֶׁלּוֹ.
+**כֻּלֹּה בְּחַכָּה הֵעֲלָה.** כָּל הָאָדָם זֶה נְבוּכַדְנֶצַּר הֶעֱלָה בְּחַכָּה שֶׁלּוֹ.
 
 
 **He takes all of them up with the fishhook** This wicked man takes up all people with his fishhook.
@@ -443,7 +443,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Habakkuk/r/2:1:2](https://torahapp.org/share/book/Rashi%20on%20Habakkuk/r/2:1:2)
 
 
-**וּמַה אָשִׁיב.** אֶל הַבָּאִים לְהִתְוַכֵּחַ לְפָנַי.
+**וּמָה אָשִׁיב.** אֶל הַבָּאִים לְהִתְוַכֵּחַ לְפָנַי.
 
 
 **and what I will reply** to those who come to contend with me.
@@ -468,7 +468,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Habakkuk/r/2:2:1](https://torahapp.org/share/book/Rashi%20on%20Habakkuk/r/2:2:1)
 
 
-**וַיַּעֲנֵנִי ה׳ וַיֹּאמֶר כְּתוֹב לְךָ חָזוֹן.** הַנִּגְלֶה לְךָ, וּבָאֲרֵהוּ עַל הַלּוּחוֹת הֵיטֵב, אֲשֶׁר יָרוּץ הַקּוֹרֵא בּוֹ לִקְרוֹתוֹ מַהֵר שֶׁלֹּא יִכָּשֵׁל, וְזֶהוּ הַחָזוֹן אֲשֶׁר תִּכְתֹּב.
+**וַיַּעֲנֵנִי ה׳ וַיֹּאמֶר כְּתֹב לְךָ חָזוֹן.** הַנִּגְלֶה לְךָ, וּבָאֲרֵהוּ עַל הַלּוּחוֹת הֵיטֵב, אֲשֶׁר יָרוּץ הַקּוֹרֵא בּוֹ לִקְרוֹתוֹ מַהֵר שֶׁלֹּא יִכָּשֵׁל, וְזֶהוּ הַחָזוֹן אֲשֶׁר תִּכְתֹּב.
 
 
 **And the Lord answered me and said: Write** for yourself the vision that will be revealed to you, and explain it well on the tablets so that one may read it swiftly. And this is the vision that you shall write.
@@ -753,7 +753,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Habakkuk/r/2:9:1](https://torahapp.org/share/book/Rashi%20on%20Habakkuk/r/2:9:1)
 
 
-**הוֹי בֹּצֵעַ בֶּצַע רָע לְבֵיתוֹ.** אוֹנֵס מָמוֹן שֶׁהוּא רַע לוֹ **וּלְבֵיתוֹ** לִבְנוֹת לוֹ בַּיִת.
+**הוֹי בֹּצֵעַ בֶּצַע רָע לְבֵיתוֹ.** אוֹנֵס מָמוֹן שֶׁהוּא רַע לוֹ וּלְבֵיתוֹ לִבְנוֹת לוֹ בַּיִת.
 
 
 **Woe to him who gains evil gains** Who robs money which is harmful to him. **for his house** To build a house for himself
@@ -1562,7 +1562,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Habakkuk/r/3:14:2](https://torahapp.org/share/book/Rashi%20on%20Habakkuk/r/3:14:2)
 
 
-**רֹאשׁ פְּרָזָיו.** רָאשֵׁי עָרָיו וְטִירוֹתָיו, כְּמוֹ ״פְּרָזוֹת תֵּשֵׁב יְרוּשָׁלַיִם״ (זכריה ב:ח), ״עָרֵי הַפְּרָזִי״ (דברים ג:ה).
+**רֹאשׁ פְּרָזָו.** רָאשֵׁי עָרָיו וְטִירוֹתָיו, כְּמוֹ ״פְּרָזוֹת תֵּשֵׁב יְרוּשָׁלַיִם״ (זכריה ב:ח), ״עָרֵי הַפְּרָזִי״ (דברים ג:ה).
 
 
 **the heads of his villages** The heads of his towns and his castles, as in (Deut. 3:5) “The open towns” and (Zech. 2:8) “Jerusalem shall be inhabited without walls.”
@@ -1623,7 +1623,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Habakkuk/r/3:16:2](https://torahapp.org/share/book/Rashi%20on%20Habakkuk/r/3:16:2)
 
 
-**לְקוֹל צָלֲלוּ שְׂפָתַי.** לְקוֹל הַשְּׁמוּעָה אֲחָזַנִי רַעַד, עַד שֶׁשְּׂפָתַי נוֹקְשׁוֹת זוֹ לָזוֹ וְקוֹלוֹ נִשְׁמָע.
+**לְקוֹל צָלְלוּ שְׂפָתַי.** לְקוֹל הַשְּׁמוּעָה אֲחָזַנִי רַעַד, עַד שֶׁשְּׂפָתַי נוֹקְשׁוֹת זוֹ לָזוֹ וְקוֹלוֹ נִשְׁמָע.
 
 
 **my lips quivered at the sound** At the sound of the report, trembling took hold of me until my lips knocked one against the other and their sound was heard.
@@ -1634,7 +1634,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Habakkuk/r/3:16:3](https://torahapp.org/share/book/Rashi%20on%20Habakkuk/r/3:16:3)
 
 
-**צָלֲלוּ.** לְשׁוֹן ״מְצִילּוֹת הַסּוּס״ (זכריה יד:כ), טינטי״ר בְּלַעַ״ז.
+**צָלְלוּ.** לְשׁוֹן ״מְצִילּוֹת הַסּוּס״ (זכריה יד:כ), טינטי״ר בְּלַעַ״ז.
 
 
 **quivered** An expression of (Zech. 14:20) “The bells of the horses.” *Tentir* in O.F., to tinkle.
@@ -1731,7 +1731,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Habakkuk/r/3:19:1](https://torahapp.org/share/book/Rashi%20on%20Habakkuk/r/3:19:1)
 
 
-**לַמְנַצֵּחַ בִּנְגִינוֹתַי.** לְבֶן לֵוִי הַמְּנַצֵּחַ בַּשִּׁיר בְּבֵית הַמִּקְדָּשׁ, אַנְעִים לוֹ בִּנְגִינוֹתַי, וְהַלֵּוִי יִתֵּן קוֹל כְּנֶגְדּוֹ בִּכְלֵי הַשִּׁיר.
+**לַמְנַצֵּחַ בִּנְגִינוֹתָי.** לְבֶן לֵוִי הַמְּנַצֵּחַ בַּשִּׁיר בְּבֵית הַמִּקְדָּשׁ, אַנְעִים לוֹ בִּנְגִינוֹתַי, וְהַלֵּוִי יִתֵּן קוֹל כְּנֶגְדּוֹ בִּכְלֵי הַשִּׁיר.
 
 
 **To the conductor [to play] with my melodies** To the Levite who conducts the music in the Temple. I will compose for him [the Levites’ conductor] with my melodies, and the Levite[s] will accompany him with musical instruments.
@@ -1753,7 +1753,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Habakkuk/r/3:19:3](https://torahapp.org/share/book/Rashi%20on%20Habakkuk/r/3:19:3)
 
 
-**בִּנְגִינוֹתַי.** הוּא לְשׁוֹן נְעִימוֹת קוֹל לְהָרִים וּלְהַשְׁפִּיל, אורגנידור״ש בְּלַעַ״ז.
+**בִּנְגִינוֹתָי.** הוּא לְשׁוֹן נְעִימוֹת קוֹל לְהָרִים וּלְהַשְׁפִּיל, אורגנידור״ש בְּלַעַ״ז.
 
 
 **with my melodies** This is an expression of a vocal melody to raise and lower, *orgenedors* in O.F.

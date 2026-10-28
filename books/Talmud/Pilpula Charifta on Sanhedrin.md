@@ -1,6 +1,6 @@
 # Pilpula Charifta on Sanhedrin
 
- פלפולא חריפתא על סנהדרין
+פלפולא חריפתא על סנהדרין
 
 Link: [https://torahapp.org/share/book/Pilpula%20Charifta%20on%20Sanhedrin](https://torahapp.org/share/book/Pilpula%20Charifta%20on%20Sanhedrin)
 

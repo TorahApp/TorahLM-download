@@ -6,7 +6,7 @@ Link: [https://torahapp.org/share/book/Hasagot%20HaRa%27avad%20Ketubot](https://
 
 חיבור שכתב רבי אברהם בן דוד מפושקירה במאה ה-12,  ובו קושיות על ״הלכות הרי״ף״
 
-11th-century code that presents practical legal conclusions of talmudic passages and served later authorities as a basis for determining law.
+Ra'avad's critiques of the Rif's Talmud commentary
 
 Sections: Daf-Comment
 

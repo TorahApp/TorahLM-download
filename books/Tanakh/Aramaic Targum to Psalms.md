@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Mikraot Gedolot (Segments: 2527, License: Public Domain)
 
-Version (En): The Psalms Targum: An English Translation (Edward M. Cook) (Segments: 481)
+Version (En): The Psalms Targum: An English Translation (Edward M. Cook) (Segments: 484)
 
 
 ## Chapter 1
@@ -2305,7 +2305,7 @@ footnotes:
 אֲנָא בְּקוּשְׁטָא אֶחְמֵי סְבַר אַפָּךְ אֶשְׂבַּע בְּעֵדֶן דְאִתְעָר מִן אַיְקָר פַּרְצוּפָךְ:
 
 
-I in truth will see your countenance, I will be satisfied *at the time that/ifrom the glory of* your face.
+I in truth will see your countenance, I will be satisfied *at the time that* I awake, *from the glory of* your face.
 
 
 
@@ -11673,7 +11673,7 @@ Let the children of Ḥam, the Uthmanitesnote, **come from Egypt** to be convert
 [https://torahapp.org/share/book/Aramaic%20Targum%20to%20Psalms/r/78:61](https://torahapp.org/share/book/Aramaic%20Targum%20to%20Psalms/r/78:61)
 
 
-וּמְסַר לְקָטְלִין בְּחַרְבָּא עַמֵיהּ וּבְאַחֲסַנְתֵּיהּ אַרְגִיז:
+וּמְסַר לְשִׁבְיְתָא אוֹרַיְתֵיהּ וְשִׁבְהוֹרֵיהּ בְּיַד מְעִיקָא:
 
 
 ###### Aramaic Targum to Psalms 78:62
@@ -11681,7 +11681,7 @@ Let the children of Ḥam, the Uthmanitesnote, **come from Egypt** to be convert
 [https://torahapp.org/share/book/Aramaic%20Targum%20to%20Psalms/r/78:62](https://torahapp.org/share/book/Aramaic%20Targum%20to%20Psalms/r/78:62)
 
 
-וּמְסַר לְשִׁבְיְתָא אוֹרַיְתֵיהּ וְשִׁבְהוֹרֵיהּ לְקָטְלִין בְּחַרְבָּא עַמֵיהּ וּבְאַחֲסַנְתֵּיהּ אַרְגִין:
+וּמְסַר לְקָטְלִין בְּחַרְבָּא עַמֵיהּ וּבְאַחֲסַנְתֵּיהּ אַרְגִיז:
 
 
 ###### Aramaic Targum to Psalms 78:63
@@ -12299,6 +12299,9 @@ Let the children of Ḥam, the Uthmanitesnote, **come from Egypt** to be convert
 מִשְׁכְּנֵי אֱדוֹמָאֵי וְעַרָבָאֵי מוֹאֲבָאֵי וְהוּנְגְרָאֵי:
 
 
+The tents of the Edomites and the Arabs, the Moabites and the Hungarians,
+
+
 ###### Aramaic Targum to Psalms 83:8
 
 [https://torahapp.org/share/book/Aramaic%20Targum%20to%20Psalms/r/83:8](https://torahapp.org/share/book/Aramaic%20Targum%20to%20Psalms/r/83:8)
@@ -12307,12 +12310,18 @@ Let the children of Ḥam, the Uthmanitesnote, **come from Egypt** to be convert
 גוּבְלָאֵי וְעַמוֹנָאֵי וַעֲמַלְקָאֵי פְּלִשְׁתָּאֵי עִם יָתְבֵי צוֹר:
 
 
+the Byblians and the Ammonites and the Amalekites, the Philistines with the residents of Tyre.
+
+
 ###### Aramaic Targum to Psalms 83:9
 
 [https://torahapp.org/share/book/Aramaic%20Targum%20to%20Psalms/r/83:9](https://torahapp.org/share/book/Aramaic%20Targum%20to%20Psalms/r/83:9)
 
 
 לְחוֹד סַנְחֵרִיב מַלְכָּא דְאַתּוּר אִתְחַבַּר עִמְהוֹן הֲווֹן לִסְעֵיד לִבְנֵי לוֹט לְעָלְמִין:
+
+
+Not to mention Sennacherib king of Assyria, who partnered with them to be help to the children of Lot, forevermore.
 
 
 ###### Aramaic Targum to Psalms 83:10

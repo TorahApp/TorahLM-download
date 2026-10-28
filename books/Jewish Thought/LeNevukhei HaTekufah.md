@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Merkaz Shapira, 2014 (Segments: 2052, License: Public Domain)
 
-Version (En): Sefaria Community Translation (Segments: 3)
+Version (En): Sefaria Community Translation (Segments: 8)
 
 
 ## Foreword
@@ -16402,12 +16402,18 @@ There is an example of this is in the Mishnah (Shabbat 6:4): A man may neither g
 וכך קרה לכשהתחלנו לחלום על דבר שיוויון זכויות לאומיות, שמקודם לא חלמנו כלל על זה, מפני שלא הסתפקנו בכך, כי ״‎רק בך בחר ד׳ להיות לו לעם סגולה״‎, ומעולם לא שאלנו את עצמנו אם הגויים מכירים בנו כעם או לא, כי לא מפיהם אנו חיים. אבל כשהתחלנו לחלום על דבר שיוויון זכויות לאומיות, נעשינו לנבוכים גם בזה; ושוב התחילה הרדיפה אחרי הסכמות. ומקצה העולם ועד קצהו הננו מריעים בחצוצרות, אם איזה קצין מנענע לנו בראש ואומר שגם אנחנו הננו עם ככל העמים, ומצטערים אנו צער גדול בלי הפוגות, אם ח״‎ו אחד מהגויים כופר בזה ואומר: לא היו דברים מעולם.
 
 
+And so it came about: once we began to dream about the matter of national equal rights — something we had never dreamed of before at all, because we did not stoop to be content with that, for "only in you did the Lord choose to be His treasured people," and we never once asked ourselves whether the gentiles recognized us as a nation or not, since it is not from their mouths that we draw our life. But once we began to dream about national equal rights, we became perplexed in this matter too; and once again began the chasing after others' endorsements. From one end of the earth to the other we now sound trumpet-blasts if some official nods his head our way and pronounces that we too are a nation like all the nations — and we grieve a great, unrelenting grief if, God forbid, one of the gentiles denies it and says: "It never happened."
+
+
 ###### LeNevukhei HaTekufah 4:12:46
 
 [https://torahapp.org/share/book/LeNevukhei%20HaTekufah/r/4:12:46](https://torahapp.org/share/book/LeNevukhei%20HaTekufah/r/4:12:46)
 
 
 תקופת היטלר ימ״‎ש, שמחק ח״‎ו חלק גדול מעם ישראל, התחילה לפני עשר שנים בחוקי נירנברג. אנחנו זוכרים עדיין את התאניה ואניה שהרימו בכל מחנות ישראל בכל מקום שהם על הגזירות הללו. בגופא דעובדא, מה חידשו חוקי נירנברג? לא חידשו – ולא כלום! הם רק קיימו את הגזירות שאנחנו בעצמו היינו גוזרים. אלה הם י״‎ח גזירות שגם בית שמאי ובית הלל הסכימו עליהם (על פי עבודה זרה לו, ב): ״‎גזרו על פיתם ושמנם משום יינם, ועל יינם מפני דבר אחר, ועל דבר אחר מפני דבר אחר״‎. ובכו על הגזירות הללו – לא רק מתבוללים מושבעים – אלא גם לאומיים קיצוניים, ואפילו יראי ד׳, הזהירים במצוה קלה כבחמורה, גם אלה בכו על החרפה הגדולה. והחרפה היתה בזה, שהיטלר ביטל את ההסכמות שאחרים נתנו לנו, שגם אנחנו הננו בני אדם ככל בני אדם, ועם אנחנו ככל העמים.
+
+
+The era of Hitler — may his name be blotted out — who erased, God forbid, a great part of the people of Israel, began ten years ago with the Nuremberg Laws. We still remember the mourning and moaning that went up in all the camps of Israel, wherever they are, over these decrees. But in the actual substance of the matter — what did the Nuremberg Laws innovate? They innovated nothing at all! They merely ratified the very decrees that we ourselves had been decreeing. These are the eighteen decrees that even the House of Shammai and the House of Hillel agreed upon (per Avodah Zarah 36b): "They decreed against their bread and their oil on account of their wine, and against their wine on account of another matter, and against another matter on account of yet another matter." And weeping over these decrees were — not only sworn assimilationists — but extreme nationalists as well, and even the God-fearing, who are as scrupulous with a "light" commandment as with a "weighty" one; these too wept over the great disgrace. And the disgrace lay in just this: that Hitler annulled the endorsements that others had granted us — that we too are human beings like all human beings, and that we are a nation like all the nations.
 
 
 ###### LeNevukhei HaTekufah 4:12:47
@@ -16418,6 +16424,9 @@ There is an example of this is in the Mishnah (Shabbat 6:4): A man may neither g
 ומבלי משים אנו נזכרים במאמר חז״‎ל (במדבר רבה טז, כ), על הפסוק (במדבר יד, א): ״‎וַתִּשָּׂא כָּל הָעֵדָה וַיִּתְּנוּ אֶת קוֹלָם וַיִּבְכּוּ הָעָם בַּלַּיְלָה הַהוּא״‎ – חז״‎ל מוסיפים באומרם שאז אמר הקדוש ברוך הוא: ״‎אתם בכיתם בכייה של חינם – ואני אקבע לכם בכייה לדורות״‎, זו היא הבכייה של ״‎בכה תבכה בלילה״‎, הבכייה על חורבן בית ראשון ובית שני, ששניהם היו בתשעה באב. כי גם אז בכו לכתחילה רק בגין: ״‎וַנְּהִי בְעֵינֵינוּ כַּחֲגָבִים – וְכֵן הָיִינוּ בְּעֵינֵיהֶם״‎ (במדבר יג, לג), שהגויים הביטו עליהם כחגבים וזה גרם להם צער הכי גדול. והבכייה שלנו על חוקי נירנברג, האם לא היתה זו מעין בכייה על ״‎וכן היינו בעיניהם״‎?...
 
 
+And without meaning to, we are put in mind of the saying of the Sages (Bamidbar Rabbah 16:20) on the verse (Numbers 14:1): "And all the congregation lifted up and gave forth their voice, and the people wept that night" — to which the Sages add that the Holy One, blessed be He, then said: "You wept a weeping for nothing — and I shall fix for you a weeping for the generations." This is the weeping of "she weeps bitterly in the night," the weeping over the destruction of the First Temple and the Second, both of which fell on the Ninth of Av. For there too they wept, at first, only on account of "and we were in our own eyes as grasshoppers — and so we were in their eyes" (Numbers 13:33) — that is, that the gentiles looked upon them as grasshoppers, and this caused them the very greatest grief. And our own weeping over the Nuremberg Laws — was it not a weeping of just this kind, over "and so we were in their eyes"?...
+
+
 ###### LeNevukhei HaTekufah 4:12:48
 
 [https://torahapp.org/share/book/LeNevukhei%20HaTekufah/r/4:12:48](https://torahapp.org/share/book/LeNevukhei%20HaTekufah/r/4:12:48)
@@ -16426,12 +16435,18 @@ There is an example of this is in the Mishnah (Shabbat 6:4): A man may neither g
 ובוודאי שגם בדורות הקודמים של גלותנו היו היטלרים שכאלה לעשרות ולמאות, אלא שאז לא בכינו כלל כך על דבריהם, וקיימנו צוואתו של יעקב: מותר להחניף לרשעים בעולם הזה; ולא חשבנו את זאת לחרפה, כמו שאין אנו חושבים לחרפה אם נפגעים אנחנו על ידי איזה חיה רעה.
 
 
+And surely in the earlier generations of our exile too there were Hitlers of this sort, by the tens and the hundreds; only that then we did not weep over their words in this way at all, and we kept the testament of Jacob: that one is permitted to flatter the wicked in this world. We did not reckon it a disgrace — just as we do not reckon it a disgrace to be set upon by some wild beast.
+
+
 ###### LeNevukhei HaTekufah 4:12:49
 
 [https://torahapp.org/share/book/LeNevukhei%20HaTekufah/r/4:12:49](https://torahapp.org/share/book/LeNevukhei%20HaTekufah/r/4:12:49)
 
 
 האמנסיפציה לא עלה בידה לבטל את הגלות, אבל עלה בידה לבטל את כוח הביטול שלנו – התבלין נגד הגלות, הרפואה למכה, הרגש האינסטנקטיבי שיש בכל בריה ובריה המכירה בכוח קיומה. וכשכל אלו נתבטלו – אין לנו אפשרות של קיום בגלות.
+
+
+The Emancipation did not manage to abolish the exile, but it did manage to abolish our power of negation — the antidote against exile, the remedy for the wound, that instinctive sense present in every single creature, which recognizes the force of its own existence. And once all these had been abolished — we have no possibility of enduring in exile.
 
 
 ###### LeNevukhei HaTekufah 4:12:50

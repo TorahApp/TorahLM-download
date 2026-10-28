@@ -2566,7 +2566,7 @@ The Gemara rejects that proof: **No, with what are we dealing here?** It is **wi
 [https://torahapp.org/share/book/Ketubot/r/11a:9](https://torahapp.org/share/book/Ketubot/r/11a:9)
 
 
-אָמַר רַב יוֹסֵף: הִגְדִּילוּ — יְכוֹלִין לְמַחוֹת. אֵיתִיבֵיהּ אַבָּיֵי: הַגִּיּוֹרֶת וְהַשְּׁבוּיָה וְהַשִּׁפְחָה שֶׁנִּפְדּוּ וְשֶׁנִּתְגַּיְּירוּ וְשֶׁנִּשְׁתַּחְרְרוּ, פְּחוּתוֹת מִבְּנוֹת שָׁלֹשׁ שָׁנִים וְיוֹם אֶחָד — כְּתוּבָּתָן מָאתַיִם. וְאִי סָלְקָא דַעְתָּךְ הִגְדִּילוּ יְכוֹלִין לְמַחוֹת — יָהֲבִינַן לַהּ כְּתוּבָה דְּאָזְלָה וְאָכְלָה בְּגֵיוּתַהּ?
+אָמַר רַב יוֹסֵף: הִגְדִּילוּ — יְכוֹלִין לְמַחוֹת. אֵיתִיבֵיהּ אַבָּיֵי: הַגִּיּוֹרֶת וְהַשְּׁבוּיָה וְהַשִּׁפְחָה שֶׁנִּפְדּוּ וְשֶׁנִּתְגַּיְּירוּ וְשֶׁנִּשְׁתַּחְרְרוּ, פְּחוּתוֹת מִבְּנוֹת שָׁלֹשׁ שָׁנִים וְיוֹם אֶחָד — כְּתוּבָּתָן מָאתַיִם. וְאִי סָלְקָא דַעְתָּךְ הִגְדִּילוּ יְכוֹלִין לְמַחוֹת — יָהֲבִינַן לַהּ כְּתוּבָה דְּאָזְלָה וְאָכְלָה בְּגַּיּוּתַהּ?
 
 
 **Rav Yosef said:** In any case where minors convert, when **they reach majority they can protest** and annul their conversion. **Abaye raised an objection to his** opinion from the mishna: With regard to **a female convert, or a captive woman, or a maidservant who were ransomed,** or **who converted, or who were freed** when they were **less than three years and one day old, their marriage contract is two hundred** dinars. **And if it enters your mind** to say that when **they reach majority they can protest** and annul their conversion, **do we give her** the payment of the **marriage contract that she** will **go and consume in her gentile** state?

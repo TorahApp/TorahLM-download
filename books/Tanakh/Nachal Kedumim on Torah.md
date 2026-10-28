@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Nachal Kedumim, Warsaw, 1889 (Segments: 677, License: Public Domain)
 
-Version (En): Publicado em 5784, Saymon Pires da Silva [pt] (Segments: 3)
+Version (En): Sefaria Community Translation (Segments: 3)
 
 
 ## Genesis

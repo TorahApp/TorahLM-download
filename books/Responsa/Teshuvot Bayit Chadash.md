@@ -14,7 +14,7 @@ Location: Responsa/Acharonim
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Frankfurt am Main, 1697 (Segments: 1256, License: Public Domain)
+Version (He): Ostroh, 1843 (Segments: 1256, License: Public Domain)
 
 Version (En): Responsum of surrender, trans. Elijah Judah Schochet, 2006 (Segments: 43)
 

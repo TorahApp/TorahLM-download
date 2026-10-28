@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): The Metsudah Siddur, Metsudah Publications, 1981 - HE (Segments: 14818, License: CC-BY)
 
-Version (En): Sefaria Community Translation (Segments: 14600)
+Version (En): The Metsudah Siddur, Metsudah Publications, 1981 - EN (Segments: 14600)
 
 
 ## Eiruv Tavshilin
@@ -159091,9 +159091,10 @@ footnotes:
 הִצַּלְתּוֹ מֵאֵשׁ וּמִמַּֽיִם.
 
 
-You rescued him from fire11 and from water;¹²
+You rescued him from fire¹¹ 38:13. and from water;¹²
 
 footnotes:
+¹¹ This refers to the fiery pit into which Abraham was thrown by Nimrod. See Midrash, Bereishis Rabba
 ¹² This refers to the water that threatened Abraham on his way to Mt. Moriah to sacrifice Isaac. See Midrash Tanchuma to Genesis 32.
 
 

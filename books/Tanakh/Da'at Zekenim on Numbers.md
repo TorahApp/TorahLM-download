@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): daat zekenim (Segments: 229, License: Public Domain)
 
-Version (En): Yalkut, Sifsei Chachomim Chumash, Metsudah Publications, 2009 (Segments: 221)
+Version (En): Daat Zekenim translated by Rb. Eliyahu Munk (Segments: 221)
 
 
 ## Chapter 1

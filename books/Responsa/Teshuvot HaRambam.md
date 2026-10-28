@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Leipzig: H.L. Shnuis, 1859 (Segments: 559)
 
-Version (En): Sefaria Responsa Anthology (Segments: 5)
+Version (En): Sefaria Community Translation (Segments: 5)
 
 
 ## Teshuva 1

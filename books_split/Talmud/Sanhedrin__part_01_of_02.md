@@ -14077,7 +14077,7 @@ The Gemara asks: Are there really **ten** ways in which cases of monetary law ar
 הָא אִיכָּא אַחֲרִיתִי, דְּתַנְיָא: אֵין מוֹשִׁיבִין בְּסַנְהֶדְרִין זָקֵן וְסָרִיס וּמִי שֶׁאֵין לוֹ בָּנִים. רַבִּי יְהוּדָה מוֹסִיף: אַף אַכְזָרִי. וְחִילּוּפֵיהֶן בְּמֵסִית, דְּרַחֲמָנָא אָמַר: ״לֹא תַחְמֹל וְלֹא תְכַסֶּה עָלָיו״.
 
 
-The Gemara answers: **But there is another** difference, **as it is taught** in a *baraita* (*Tosefta* 7:5): The court **does not seat on the Sanhedrin** a very **old person or one who is castrated or one who has no children,** as those who did not recently raise children may lack compassion. **Rabbi Yehuda adds: Even a cruel person** is not eligible. The Gemara comments: **And the opposite of this** is the *halakha* **with regard to one who entices** others to engage in idol worship, **as the Merciful One states** concerning him: **“Neither shall you spare, neither shall you conceal him”** (Deuteronomy 13:9).
+The Gemara answers: **But there is another** difference, **as it is taught** in a *baraita* (*Tosefta* 7:3): The court **does not seat on the Sanhedrin** a very **old person or one who is castrated or one who has no children,** as those who did not recently raise children may lack compassion. **Rabbi Yehuda adds: Even a cruel person** is not eligible. The Gemara comments: **And the opposite of this** is the *halakha* **with regard to one who entices** others to engage in idol worship, **as the Merciful One states** concerning him: **“Neither shall you spare, neither shall you conceal him”** (Deuteronomy 13:9).
 
 
 ###### Sanhedrin 36b:6
@@ -17642,7 +17642,7 @@ The *baraita* teaches that all of the items used in the execution **are buried**
 [https://torahapp.org/share/book/Sanhedrin/r/45b:7](https://torahapp.org/share/book/Sanhedrin/r/45b:7)
 
 
-אָמַר שְׁמוּאֵל: נִקְטְעָה יַד הָעֵדִים – פָּטוּר. מַאי טַעְמָא? דְּבָעֵינָא ״יַד הָעֵדִים תִּהְיֶה בּוֹ בָרִאשׁוֹנָה,״ וְלֵיכָּא.
+אָמַר שְׁמוּאֵל: נִקְטְעָה יַד הָעֵדִים – פָּטוּר. מַאי טַעְמָא? דְּבָעֵינָא ״יַד הָעֵדִים תִּהְיֶה בּוֹ בָרִאשׁוֹנָה״, וְלֵיכָּא.
 
 
 § **Shmuel says:** If **the witnesses’ hands were severed** after the transgressor was sentenced to be stoned, so that they can no longer stone him themselves, the transgressor is **exempt** from punishment and is not executed. **What is the reason** for this? This is **because I need** to fulfill what is stated in the verse: **“The hand of the witnesses shall be first upon him to put him to death”** (Deuteronomy 17:7), **and** here this is **not** possible.
@@ -19500,7 +19500,7 @@ The verse states with regard to Joab: **“And he was buried in his own house, i
 [https://torahapp.org/share/book/Sanhedrin/r/49b:11](https://torahapp.org/share/book/Sanhedrin/r/49b:11)
 
 
-וְנִגְּשָׁה יְבִמְתּוֹ אֵלָיו לְעֵינֵי הַזְּקֵנִים וְחָלְצָה נַעֲלוֹ וְיָרְקָה בְּפָנָיו – רוֹק הַנִּרְאֶה לַדַּיָּינִין. ״וְעָנְתָה וְאָמְרָה כָּכָה יֵעָשֶׂה לְאִישׁ וְגוֹ׳ וְנִקְרָא שְׁמוֹ בְּיִשְׂרָאֵל וְגוֹ׳״.
+״וְנִגְּשָׁה יְבִמְתּוֹ אֵלָיו לְעֵינֵי הַזְּקֵנִים וְחָלְצָה נַעֲלוֹ וְיָרְקָה בְּפָנָיו״ – רוֹק הַנִּרְאֶה לַדַּיָּינִין. ״וְעָנְתָה וְאָמְרָה כָּכָה יֵעָשֶׂה לְאִישׁ וְגוֹ׳ וְנִקְרָא שְׁמוֹ בְּיִשְׂרָאֵל וְגוֹ׳״.
 
 
 The verse states: **“His *yevama* shall approach him, before the elders, and remove his shoe from on his foot and spit before him”** (Deuteronomy 25:9). Accordingly, she removes his shoe and she spits before him a quantity of **spittle that is visible to the judges. “And she shall respond and say: So shall it be done to the man** who does not build his brother’s house. **And his name shall be called in Israel:** The house of he who had his shoe removed” (Deuteronomy 25:9–10).
@@ -21102,7 +21102,7 @@ The Gemara asks: **Which** incident **did he tell** the Sages about **first? If 
 [https://torahapp.org/share/book/Sanhedrin/r/52b:8](https://torahapp.org/share/book/Sanhedrin/r/52b:8)
 
 
-**מַתְנִי׳** מִצְוַת הַנֶּהֱרָגִין הָיוּ מַתִּיזִין אֶת רֹאשׁוֹ בְּסַיִיף, כְּדֶרֶךְ שֶׁהַמַּלְכוּת עוֹשָׂה. רַבִּי יְהוּדָה אוֹמֵר: נִיוּוּל הוּא לוֹ, אֶלָּא מַנִּיחִין אֶת רֹאשׁוֹ עַל הַסַּדָּן וְקוֹצֵץ בְּקוֹפִיץ. אָמְרוּ לוֹ: אֵין מִיתָה מְנוֶּּולֶת מִזּוֹ.
+**מַתְנִי׳** מִצְוַת הַנֶּהֱרָגִין הָיוּ מַתִּיזִין אֶת רֹאשׁוֹ בְּסַיִיף, כְּדֶרֶךְ שֶׁהַמַּלְכוּת עוֹשָׂה. רַבִּי יְהוּדָה אוֹמֵר: נִיוּוּל הוּא לוֹ, אֶלָּא מַנִּיחִין אֶת רֹאשׁוֹ עַל הַסַּדָּן וְקוֹצֵץ בְּקוֹפִיץ. אָמְרוּ לוֹ: אֵין מִיתָה מְנוֶּוּלֶת מִזּוֹ.
 
 
 **MISHNA:** **The mitzva of those who are killed,** i.e., the process of execution by decapitation, is carried out in the following manner: The executioners **cut off his head with a sword, the way that the monarchy does** when a king sentences a person to death. **Rabbi Yehuda says:** This manner of execution is improper, as **it degrades him. Rather, they place the head of** the condemned **on the block, and chop** it off **with a cleaver [*bekofitz*].** The Rabbis **said to him:** If you are concerned about his degradation, **there is no death** penalty more **degrading than that.** It is better for him to be executed in the manner described first.
@@ -40060,7 +40060,7 @@ The verse states: **“That Your enemies taunted, Lord, that they have taunted t
 אָמַר רָבָא: מֵרֵישׁ הֲוָה אָמֵינָא, לֵיכָּא קוּשְׁטָא בְּעָלְמָא. אֲמַר לִי הָהוּא מֵרַבָּנַן, וְרַב טָבוּת שְׁמֵיהּ – וְאָמְרִי לַהּ רַב טָבְיוֹמֵי שְׁמֵיהּ – דְּאִי הֲווֹ יָהֲבִי לֵיהּ כֹּל חֲלָלֵי דְּעָלְמָא לָא הֲוָה מְשַׁנֵּי בְּדִיבּוּרֵיהּ. זִימְנָא חֲדָא אִיקְּלַעִי לְהָהוּא אַתְרָא, וְקוּשְׁטָא שְׁמֵיהּ, וְלָא הֲווֹ מְשַׁנֵּי בְּדִיבּוּרַיְיהוּ, וְלָא הֲוָה מָיֵית אִינִישׁ מֵהָתָם בְּלָא זִימְנֵיהּ. נְסֵיבִי אִיתְּתָא מִינְּהוֹן, וַהֲווֹ לִי תְּרֵין בְּנִין מִינַּהּ.
 
 
-§ Concerning the lack of truth, **Rava says: Initially I would say** that **there is no truth** anywhere **in the world.** There was **a certain one of the Sages, and Rav Tavut is his name, and some say Rav Tavyomei is his name,** who was so honest **that if they were** to **give him the entire world, he would not deviate** from the truth **in his statement.** He said to me: **One time I happened** to come **to a certain place, and Truth is its name, and** its residents **would not deviate** from the truth **in their statements, and no person from there would die prematurely. I married a woman from** among **them, and I had two sons from her.**
+§ Concerning the lack of truth, **Rava says: Initially I would say** that **there is no truth** anywhere **in the world.** There was **a certain one of the Sages, and Rav Tavut is his name, and some say Rav Tavyomei is his name,** who was so honest **that if they were** to **give him the entire world, he would not deviate** from the truth **in his statement. He said to me: One time I happened** to come **to a certain place, and Truth is its name, and** its residents **would not deviate** from the truth **in their statements, and no person from there would die prematurely. I married a woman from** among **them, and I had two sons from her.**
 
 
 ###### Sanhedrin 97a:7

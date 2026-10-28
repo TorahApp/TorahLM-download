@@ -14,9 +14,9 @@ Location: Kabbalah/Zohar
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Zohar with Sulam commentary, Jerusalem 1945 (Segments: 20696, License: unknown)
+Version (He): Zohar with Sulam commentary, Jerusalem 1945 (Segments: 20697, License: unknown)
 
-Version (En): The Sefaria Sulam, 2023 (Segments: 1485)
+Version (En): The Sefaria Sulam, 2023 (Segments: 1487)
 
 # Sulam on Zohar — part 1 of 5
 
@@ -18875,12 +18875,18 @@ The *Zohar* mentions this here in relation to its earlier statement that there a
 **תו תענוגי בני אדם דמתענגי בשינתא דלילה נפקא מנייהו שדה ושדות,** עוד יש לפרש הכתוב, שמתענוגי בני אדם המתענגים בשינת הלילה יוצאים ונולדים מהם שדה ושדות.
 
 
+[b]Furthermore — from the pleasures of human beings who take pleasure in the sleep of the night, from them go forth a field and fields.[/b] [aramaic] There is yet another way to interpret the verse: that from the pleasures of human beings who take pleasure in the sleep of the night, from them go forth and are born a field and fields. [hebrew]
+
+
 ###### Sulam on Zohar, Bereshit I 105:2
 
 [https://torahapp.org/share/book/Sulam%20on%20Zohar/s/Bereshit%20I/r/105:2](https://torahapp.org/share/book/Sulam%20on%20Zohar/s/Bereshit%20I/r/105:2)
 
 
 **וכלא אצטריך קב"ה למברי בעלמא ולאתקנא עלמא בהו:** והכל היה צריך הקב"ה לברוא בעולם, דהיינו כל אלו הקליפות הנ"ל, ולתקן העולם בהן, **וכלא, מוחא לגו וכמה קליפין חפיא למוחא,** והכל הוא כמו האגוז, מוח בפנימיות והרבה קליפות מסבבות את המוח. **וכל עלמא כהאי גוונא, עילא ותתא.** וכל העולמות הם בזה האופן, דהיינו כמו האגוז, מוח בפנימיות והרבה קליפות מסבבות אותו, למעלה ולמטה, כלומר הן בעולמות עליונים והן בעולם הזה, כמ"ש לפנינו.
+
+
+All of this the Holy One, blessed be He, required to create in the world, and to repair the world through them — that is, all these kelipot mentioned above, and to order the world by means of them. And all of it: the brain (marrow) is within, and several husks (shells) cover the brain. All of this is like the walnut — the kernel at the interior, and many shells surrounding the kernel. And the entire world is in this manner, above and below. All the worlds are in this same pattern — that is, like the walnut: a kernel in the innermost part, and many shells surrounding it, above and below — meaning both in the upper worlds and in this world, as we have written before.
 
 
 ###### Sulam on Zohar, Bereshit I 106:1

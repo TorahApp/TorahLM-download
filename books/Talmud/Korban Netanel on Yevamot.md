@@ -1,6 +1,6 @@
 # Korban Netanel on Yevamot
 
- קרבן נתנאל על יבמות
+קרבן נתנאל על יבמות
 
 Link: [https://torahapp.org/share/book/Korban%20Netanel%20on%20Yevamot](https://torahapp.org/share/book/Korban%20Netanel%20on%20Yevamot)
 

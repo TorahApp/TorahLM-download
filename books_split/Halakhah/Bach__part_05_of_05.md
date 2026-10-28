@@ -14,9 +14,9 @@ Location: Halakhah/Tur/Commentary
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Tur Orach Chaim, Vilna, 1923 (Segments: 12561, License: Public Domain)
+Version (He): Tur Orach Chaim, Vilna, 1923 (Segments: 12548, License: Public Domain)
 
-Version (En): YU Torah miTzion Beit Midrash (Segments: 11)
+Version (En): Sefaria Community Translation (Segments: 11)
 
 # Bach — part 5 of 5
 

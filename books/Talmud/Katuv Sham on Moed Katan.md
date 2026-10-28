@@ -6,7 +6,7 @@ Link: [https://torahapp.org/share/book/Katuv%20Sham%20on%20Moed%20Katan](https:/
 
 חיבור שכתב רבי אברהם בן דוד מפושקירה במאה ה-12 שמגן על הרי"ף מפני התקפותיו של בעל המאור
 
-11th-century code that presents practical legal conclusions of talmudic passages and served later authorities as a basis for determining law.
+Ra'avad's defense of the Rif against the critiques of the Ba'al HaMaor
 
 Sections: Daf-Comment
 

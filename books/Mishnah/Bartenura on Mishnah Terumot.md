@@ -744,7 +744,7 @@ Concerning that which is הפקר/ownerless, it is written (Deuteronomy 14:29): 
 **מִפְּנֵי שֶׁהוּא מַאֲכַל פּוֹלִיטִיקִין.** בְּצָלִים שֶׁל בְּנֵי הַמְּדִינָה הוּא מַאֲכָל לַאֲנָשִׁים חֲשׁוּבִים, וְהֵם יָפִים יוֹתֵר מֵאוֹתָן שֶׁל בְּנֵי הַכְּפָרִים. פּוֹלִיטִיקִין, בְּנֵי פַּלְטְרִין שֶׁל מְלָכִים:
 
 
-מפני שהא מאכל פולטיקין – onions of the people of the city people which is the food for important people, and they are better/choicest produce than those of the villagers. פולטיקין/city people, the members of the residence of kings.
+מפני שהא מאכל פולטיקין – onions of the city people, which is the food for important people, and they are better/choicest produce than those of the villagers. פולטיקין/city people, the members of the residence of kings.
 
 
 

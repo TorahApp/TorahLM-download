@@ -14,7 +14,7 @@ Location: Halakhah/Commentary
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Sheiltot d'Rav Achai Gaon; Vilna, 1861 (Segments: 2619, License: Public Domain)
+Version (He): The path of Torah, Urim 2009 (Segments: 2619, License: CC-BY)
 
 Version (En): The path of Torah, introduction to Ha'amek she'elah. Trans. by Elchanan Greenman. Urim, 2009 (Segments: 504)
 

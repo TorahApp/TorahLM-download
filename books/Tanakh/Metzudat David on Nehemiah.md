@@ -1993,7 +1993,7 @@ Version (En): Sefaria Community Translation (Segments: 1)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Nehemiah/r/5:16:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Nehemiah/r/5:16:2)
 
 
-**ושדי וגו׳.** ר״ל ועם כי בעבור התמדת המלאכה לא עסקו במלאכתן להמציא לעצמם די ספוקם עכ״ז לא קנינו מהם שדה לכלכלם בדמי מחיר השדה כ״א בנדבת הלב הייתי מפרנסם:
+**ושדה וגו׳.** ר״ל ועם כי בעבור התמדת המלאכה לא עסקו במלאכתן להמציא לעצמם די ספוקם עכ״ז לא קנינו מהם שדה לכלכלם בדמי מחיר השדה כ״א בנדבת הלב הייתי מפרנסם:
 
 
 ###### Metzudat David on Nehemiah 5:16:3
@@ -2949,46 +2949,46 @@ Version (En): Sefaria Community Translation (Segments: 1)
 
 
 
-### Verse 70
+### Verse 69
 
-###### Metzudat David on Nehemiah 7:70:1
+###### Metzudat David on Nehemiah 7:69:1
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Nehemiah/r/7:70:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Nehemiah/r/7:70:1)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Nehemiah/r/7:69:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Nehemiah/r/7:69:1)
 
 
 **נתנו למלאכה.** אז כאשר עלו עם זרובבל נתנו נדבה למלאכת בית ה׳ ובעזרא הוזכר חשבון הזהב והכסף וכתנות הכהנים:
 
 
-###### Metzudat David on Nehemiah 7:70:2
+###### Metzudat David on Nehemiah 7:69:2
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Nehemiah/r/7:70:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Nehemiah/r/7:70:2)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Nehemiah/r/7:69:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Nehemiah/r/7:69:2)
 
 
 **התרשתא.** הוא נחמיה:
 
 
-###### Metzudat David on Nehemiah 7:70:3
+###### Metzudat David on Nehemiah 7:69:3
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Nehemiah/r/7:70:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Nehemiah/r/7:70:3)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Nehemiah/r/7:69:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Nehemiah/r/7:69:3)
 
 
 **נתן לאוצר.** נתן עתה לאוצר של בית ה׳:
 
 
-###### Metzudat David on Nehemiah 7:70:4
+###### Metzudat David on Nehemiah 7:69:4
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Nehemiah/r/7:70:4](https://torahapp.org/share/book/Metzudat%20David%20on%20Nehemiah/r/7:70:4)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Nehemiah/r/7:69:4](https://torahapp.org/share/book/Metzudat%20David%20on%20Nehemiah/r/7:69:4)
 
 
 **כתנות כהנים.** שילבשו אותם הכהנים בשעת העבודה:
 
 
 
-### Verse 71
+### Verse 70
 
-###### Metzudat David on Nehemiah 7:71:1
+###### Metzudat David on Nehemiah 7:70:1
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Nehemiah/r/7:71:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Nehemiah/r/7:71:1)
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Nehemiah/r/7:70:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Nehemiah/r/7:70:1)
 
 
 **ומראשי.** מקצת מראשי האבות נתנו עתה בימי נחמיה נתנו לאוצר המלאכה ר״ל אל המקום שאצרו שם הזהב והכסף לצורך מלאכת בדק הבית או להוסיף בבנין כי עיקר המקדש כבר נבנה:

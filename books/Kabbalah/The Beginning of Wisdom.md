@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Klalei Hatchalat HaChochmah, Jerusalem 2018 (Segments: 244, License: CC-BY-SA)
 
-Version (En): Sefaria Community Translation (Segments: 227)
+Version (En): El Principio de la Sabiduría 8 [es] (Segments: 227)
 
 
 ## Introduction

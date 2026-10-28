@@ -1,6 +1,6 @@
 # Korban Netanel on Gittin
 
- קרבן נתנאל על גיטין
+קרבן נתנאל על גיטין
 
 Link: [https://torahapp.org/share/book/Korban%20Netanel%20on%20Gittin](https://torahapp.org/share/book/Korban%20Netanel%20on%20Gittin)
 

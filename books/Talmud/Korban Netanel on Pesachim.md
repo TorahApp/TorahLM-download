@@ -1,6 +1,6 @@
 # Korban Netanel on Pesachim
 
- קרבן נתנאל על פסחים
+קרבן נתנאל על פסחים
 
 Link: [https://torahapp.org/share/book/Korban%20Netanel%20on%20Pesachim](https://torahapp.org/share/book/Korban%20Netanel%20on%20Pesachim)
 

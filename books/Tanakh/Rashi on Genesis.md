@@ -14,9 +14,9 @@ Location: Tanakh/Rishonim on Tanakh/Rashi/Torah
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934 (Segments: 2017, License: Public Domain)
+Version (He): Rashi Chumash, Metsudah Publications, 2009 (Segments: 2017, License: CC-BY)
 
-Version (En): Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934 (Segments: 2017)
+Version (En): Sefaria Edition (Segments: 2017)
 
 
 ## Chapter 1
@@ -13435,7 +13435,7 @@ THE VOICE OF JACOB, because he speaks in an entreating strain —“Arise I pray
 **תריד.** לְשׁוֹן צַעַר כְּמוֹ אָרִיד בְּשִׂיחִי, כְּלוֹמַר, כְּשֶׁיַּעַבְרוּ יִשְׂרָאֵל עַל הַתּוֹרָה וְיִהְיֶה לְךָ פִּתְחוֹן פֶּה לְהִצְטַעֵר עַל הַבְּרָכוֹת שֶׁנָּטַל, **ופרקת עלו וגומר**:
 
 
-AND והיה כאשר תריד AND IT SHALL CAME TO PASS THAT WHEN THOU ROVEST ABOUT — The word תריד signifies grief, pain, as (Psalms 40:3) “I am distraught (אריד) in my complaint”. It means: when Israel will transgress the Torah and you will have reason to feel aggrieved with regard to the Blessings, ופרקת עלו וגו THEN THOU SHALT PULL HIS YOKE FROM OFF THY NECK (Genesis Rabbah 67:7).
+AND והיה כאשר תריד AND IT SHALL CAME TO PASS THAT WHEN THOU ROVEST ABOUT — The word תריד signifies grief, pain, as (Psalms 55:3) “I am distraught (אריד) in my complaint”. It means: when Israel will transgress the Torah and you will have reason to feel aggrieved with regard to the Blessings, ופרקת עלו וגו THEN THOU SHALT PULL HIS YOKE FROM OFF THY NECK (Genesis Rabbah 67:7).
 
 
 
@@ -14617,7 +14617,7 @@ AND והיה כאשר תריד AND IT SHALL CAME TO PASS THAT WHEN THOU ROVEST A
 **בא גד.** בָּא מַזָּל טוֹב, כְּמוֹ גַּד גַּדִּי וְסָנוּק לָא (שבת ס"ז), וְדוֹמֶה לוֹ הַעֹרְכִים לַגַּד שֻׁלְחָן (ישעיהו ס"ה), וּמִ"אַ שֶׁנּוֹלַד מָהוּל, כְּמוֹ גֹּדּוּ אִילָנָא (דניאל ד'), וְלֹא יָדַעְתִּי עַל מָה נִכְתְּבָה תֵּבָה אַחַת; דָּ"אַ לָמָּה נִקְרֵאת תֵּבָה אַחַת בָּגָד, כְּמוֹ בָּגַדְתָּ בִּי, כְּשֶׁבָּאתָ אֶל שִׁפְחָתִי, כְּאִישׁ שֶׁבָּגַד בְּאֵשֶׁת נְעוּרִים:
 
 
-בא גד FOR MY HAPPINESS! — Good luck has come, as (Shabbat 67b) “Be lucky, my luck (גד גדי) and tire not”. Similar, also, is (Isaiah 45:11) “That prepare a table for fortune (גד)”. The Midrashic explanation is that he was born with the sign of the covenant upon him. It would then be like (Daniel 4:11) “cut down (גדו) the tree”. I do not know why it (בגד) is written as one word. Another comment on בגד is: why is it read as one word? It may be connected with the root בגד which denotes faithless as though Leah said to Jacob, “You proved faithless to me when you married my handmaid”, like a man who is faithless (בגד) to the wife of his youth).
+בא גד FOR MY HAPPINESS! — Good luck has come, as (Shabbat 67b) “Be lucky, my luck (גד גדי) and tire not”. Similar, also, is (Isaiah 65:11) “That prepare a table for fortune (גד)”. The Midrashic explanation is that he was born with the sign of the covenant upon him. It would then be like (Daniel 4:11) “cut down (גדו) the tree”. I do not know why it (בגד) is written as one word. Another comment on בגד is: why is it read as one word? It may be connected with the root בגד which denotes faithless as though Leah said to Jacob, “You proved faithless to me when you married my handmaid”, like a man who is faithless (בגד) to the wife of his youth).
 
 
 
@@ -19697,7 +19697,7 @@ AND HE KNEW NOT AUGHT HE HAD — he paid no attention to anything.
 [https://torahapp.org/share/book/Rashi%20on%20Genesis/r/39:11:2](https://torahapp.org/share/book/Rashi%20on%20Genesis/r/39:11:2)
 
 
-**לעשות מלאכתו.** רַב וּשְׁמוּאֵל, חַד אָמַר מְלַאכְתּוֹ מַמָּשׁ, וְחַד אָמַר לַעֲשׂוֹת צְרָכָיו עִמָּהּ, אֶלָּא שֶׁנִּרְאֵית לוֹ דְּמוּת דְּיוּקְנוֹ שֶׁל אָבִיו וכו' כִּדְאִיתָא בְּמַסֶּכֶת סוֹטָה (דף ל"ז):
+**לעשות מלאכתו.** רַב וּשְׁמוּאֵל, חַד אָמַר מְלַאכְתּוֹ מַמָּשׁ, וְחַד אָמַר לַעֲשׂוֹת צְרָכָיו עִמָּהּ, אֶלָּא שֶׁנִּרְאֵית לוֹ דְּמוּת דְּיוּקְנוֹ שֶׁל אָבִיו וכו' כִּדְאִיתָא בְּמַסֶּכֶת סוֹטָה (דף ל"ו):
 
 
 לעשות מלאכתו TO DO HIS WORK — Rab and Samuel differ as to what this means. One holds that it means, his actual house-work; the other that it means to associate with her, but a vision of his father’s face appeared to him and he resisted temptation and did not sin as is stated in Treatise Sotah 36b.

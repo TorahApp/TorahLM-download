@@ -14,7 +14,7 @@ Location: Halakhah/Mishneh Torah/Sefer Korbanot
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Torat Emet 363 (Segments: 46, License: Public Domain)
+Version (He): Wikisource Mishneh Torah (Segments: 46, License: CC-BY-SA)
 
 Version (En): Mishneh Torah, trans. by Eliyahu Touger. Jerusalem, Moznaim Pub. c1986-c2007 (Segments: 45)
 

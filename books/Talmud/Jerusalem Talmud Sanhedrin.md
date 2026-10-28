@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015 (Segments: 587, License: CC-BY)
 
-Version (En): Le Talmud de Jérusalem, traduit par Moise Schwab, 1878-1890 [fr] (Segments: 587)
+Version (En): The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015 (Segments: 587)
 
 
 ## Chapter 1
@@ -3564,7 +3564,7 @@ footnotes:
 אֵין לִי אֶלָּא אָבוֹת וּבָנִים. שְׁאָר קְרוֹבִין מְנַיִין. אָמַר רִבִּי זְעִירָא וּבָנִים. לְרַבּוֹת שְׁאָר קְרוֹבִין.
 
 
-So far¹⁶⁷. 24:16. only fathers and sons; from where the other relatives? Rebbi Zeˋira sais, *and sons* includes the remaining relatives.
+So far¹⁶⁷. 24:16. only fathers and sons; from where the other relatives? Rebbi Zeˋira says, *and sons* includes the remaining relatives.
 
 footnotes:
 ¹⁶⁷ Deut

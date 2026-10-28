@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Pesikta de Rav Kahana according to an Oxford manuscript, Dov Mandelbaum ed., N.Y. 1987 (Segments: 304, License: CC-BY)
 
-Version (En): Google Translate (Segments: 43)
+Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 45)
 
 
 ## Paragraph 1
@@ -1144,6 +1144,9 @@ Rabbi Yochanan sat and expounded., "How did the water became for the Jews like a
 [טז] דילמא. ר' שמע' בן יוחי ור' אלע' בריה עבדון טמירין תלת עשרי שנין בחדא מערת' דבקע, אכלין חרובין דתרומן עד שהעלה גופן חלודות חלודות. לסוף תלת עשרי שנין נפק ליה ר' שמעון בן יוחי ויתב ליה על תרע מערתא וחמא חד בר נש פרש מצדתא למצוד צפרין. פרשה זמן קדמאה ושמע ברת קלא אמרה דימיס ואשתזבת. פרשה זמן תניינה ושמע ברת קלא אמרה ספק לה ואיתפשת. א' אפילו ציפור מבלעדי שמיא לא יבדא ואנן יתיבין הכא. כד שמע דמיליא שדיכן א' ניחות וניתסי בהדין די מקר דטבריא. אמרו צריכין אנו להחזיק טובה כדרך שהיו אבותינו עושין, שהיו עושין אטליסין ומוכרין בזול, ועשה אטליס ומכר בזול. אמרין צריכין אנן למדכייא לטברייא, והוה נסב תורמסין ומקציץ ומקליק בשוקא, כל הן דהוה תמן מית הוה טייף וסליק ליה. חמתיה חד כותי אמ' לית אנא אזיל ומדחיך בהדין סבא דיהודאי. מה עבד, נסב חד מית ואזל אטמריה בחד שוק דדכי. אתא לגביי ואמ' ליה דכיתה שוקא פלן, א' ליה אין. אמ' ליה אין אפקת לך מיתא מן בתרך, אמ' ליה גוד חמי לי. צפה ר' שמעון בן יוחי ברוח הקודש שנתנו שם ואמר גוזר אני על העליונים שירדו ועל התחתונים שיעלו, וכן הות ליה. מן דנפק עבר קומי כנישתא דמגדלא ושמע קלא דמינקי ספרא דמגדלא א', הא בר יוחי דדכי טבריא. אמ' ליה ולא מן המיניין הויתה, תלא עיינויי ואסתכל ביה ומיד נעשה גל של עצמות.
 
 
+Here is the translation condensed into a single paragraph:
+
+
 ###### Pesikta DeRav Kahana 11:17
 
 [https://torahapp.org/share/book/Pesikta%20DeRav%20Kahana/r/11:17](https://torahapp.org/share/book/Pesikta%20DeRav%20Kahana/r/11:17)
@@ -1182,6 +1185,9 @@ Rabbi Yochanan sat and expounded., "How did the water became for the Jews like a
 
 
 [כא] ר' לעזר בר' שמע' שאל את ר' שמע' בר' יוסי בר לקוניא חמויי, אמ' ליה מה הוא דין דכת' שמלתך לא בלתה מעליך (דברים ח:ד), שמא כלי קוריות היו מהלכין עים ישר' במדבר, אמ' ליה ענני כבוד היו מעטפין אותם. ולא היו בלים, אמ' ליה שמלתך לא בלתה מעליך. ולא היו גדילין, אמ' ליה חלזון הזה כל מה שהוא גדיל נרתיקו גדיל עמו. ולא היו צריכין תכבוסת, אמ' ליה ענני כבוד היו מגחצין אותן. ואל תתמה אמינטון הזה אין מגחצין אותו אלא באור. ולא היה ריחן קשה מריח הזיעה, אמ' ליה מתכלכלין היו בדשאי הבאר, וריח שלמתיך כריח לבנון (שה"ש ד:יא).
+
+
+[21] Rabbi Eleazar, the son of Rabbi Simeon, asked his father-in-law, Rabbi Simeon, the son of Rabbi Jose, son of Lakonya; he said to him: "What is the meaning of that which is written, 'Your clothing did not wear out upon you' (Deuteronomy 8:4)? Were the Israelites traveling in the wilderness with manufactured clothes from Alexandria [luxury imports]?" He replied to him: "The Clouds of Glory would clothe them, and so [the clothes] did not wear out." He asked him: "[But the verse says] 'Your clothing did not wear out upon you'—did they not grow [as the children grew]?" He replied to him: "Go and look at this snail: as long as it grows, its shell grows along with it." He asked him: "And did they not require laundering?" He replied to him: "The Clouds of Glory would bleach and polish them." [He added:] "And do not be amazed by this—take this amianthus [asbestos/fireproof fabric], which is only cleaned and bleached by fire!" He asked him: "And was their smell not foul from the odor of sweat?" He replied to him: "They would refresh and perfume themselves among the herbs surrounding the Well [of Miriam], and [as the verse states]: 'And the scent of your garments is like the scent of Lebanon' (Song of Songs 4:11)."
 
 
 ###### Pesikta DeRav Kahana 11:22

@@ -169,7 +169,7 @@ Act with restraint in front of everyone. When someone calls you, don't answer lo
 וֶהֱוֵי זָהִיר לִקְרוֹת בַּתּוֹרָה תָּמִיד, אֲשֶׁר תּוּכַל לְקַיְּמָהּ. וְכַאֲשֶׁר תָּקוּם מִן הַסֵּפֶר – תְּחַפֵּשֹ בַּאֲשֶׁר לָמַדְתָּ אִם יֵשׁ בּוֹ דָבָר אֲשֶׁר תּוּכַל לְקַיְּמוֹ. וּתְפַשְׁפֵּשׁ בְּמַעֲשֶֹיךָ בַּבֹּקֶר וּבָעֶרֶב, וּבָזֶה יִהְיוּ כָּל יָמֶיךָ בִּתְשׁוּבָה.
 
 
-Take heed to study Torah constantly, so you will be able to fulfill its commands. When you arise from your learning reflect carefully on what you have studied, to find a lesson in it that you can be put into practice. Examine your actions every morning and evening, and in this way every one of your days will be spent in returning (to God).
+Take heed to study Torah constantly, so you will be able to fulfill its commands. When you arise from your learning reflect carefully on what you have studied, to find a lesson in it that you can put into practice. Examine your actions every morning and evening, and in this way every one of your days will be spent in returning (to God).
 
 
 

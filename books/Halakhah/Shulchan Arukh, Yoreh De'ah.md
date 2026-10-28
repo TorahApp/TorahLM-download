@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Ashlei Ravrevei: Shulchan Aruch Yoreh Deah, Lemberg, 1888 (Segments: 3701)
 
-Version (En): Translation v.1 (Segments: 2770)
+Version (En): Code of Hebrew Law by Chaim N. Denburg, Montreal, 1955 (Segments: 2805)
 
 
 ## Siman 1
@@ -2060,7 +2060,7 @@ One who slaughters a wild animal or a bird and blood did not come out of it, it 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/28:23](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/28:23)
 
 
-כל הדברים שהזרעים הנזרעים בהם מצמיחים הם בכלל עפר ומכסים בהם ואם אינם מצמיחים אם נקראו עפר מכסין בהם לפיכך מכסין בזבל ובחול הדק מאד עד שאין היוצר צריך לכתשו כלל ובסיד ובחרסית ולבינה ומגופה של חרס שכתשן ובשחיקת אבנים ובשחיקת חרסים ובנעורת של פשתן דקה ובנסורת חרשים ובאוכלים או בגדים שרופים עד שנעשו עפר ובשיחור ובכחול ובנקרות הפסולים אבל אין מכסין בזבל גם ולא בחול שהיוצר צריך לכתשו ולא בקמח וסובין ומורסן ולא בשחיקת מתכת אם אינם שרופין חוץ מבזהב שחוק שנקרא עפר דכתיב ועפרות זהב לו ואפר נקרא עפר דכתיב ולקחו לטמא מעפר שרפת החטאת (רמב"ם סוף ה"ש מפכ"ה דף פ"ח ע"ב):
+כל הדברים שהזרעים הנזרעים בהם מצמיחים הם בכלל עפר ומכסים בהם ואם אינם מצמיחים אם נקראו עפר מכסין בהם לפיכך מכסין בזבל ובחול הדק מאד עד שאין היוצר צריך לכתשו כלל ובסיד ובחרסית ולבינה ומגופה של חרס שכתשן ובשחיקת אבנים ובשחיקת חרסים ובנעורת של פשתן דקה ובנסורת חרשים ובאוכלים או בגדים שרופים עד שנעשו עפר ובשיחור ובכחול ובנקרות הפסולים אבל אין מכסין בזבל גס ולא בחול שהיוצר צריך לכתשו ולא בקמח וסובין ומורסן ולא בשחיקת מתכת אם אינם שרופין חוץ מבזהב שחוק שנקרא עפר דכתיב ועפרות זהב לו ואפר נקרא עפר דכתיב ולקחו לטמא מעפר שרפת החטאת (רמב"ם סוף ה"ש מפכ"ה דף פ"ח ע"ב):
 
 
 All things that if one plants seeds in them they would sprout, they are included in "earth" and one may cover [blood] with them. And if they don't sprout, if they are called "עפר" ("earth") one may cover with them. Therefore, one may cover with dung, and with very fine sand, [fine] enough that the potter doesn't need to crush it at all, and with lime, and with an earthenware shard and brick and barrel stopper of earthenware that was crushed, and with ground stones and ground earthenware shards, and scraps of fine flax, and sawdust, and with food or garments that were burnt until they were made into ash, and with powdered coal, and with stibium, and with millstone dust. But one may not cover with coarse dung, and not with sand that a potter needs to crush, and not with flour and bran-flour, and coarse bran, and not with ground metal if it's not burnt [to ash], except for ground gold which is called "עפר" ("earth"), as it is written **"and it has earth of gold"**. And ash is called "עפר" ("earth"), as it is written **"And they should take for the impure from the earth, the burnt [ashes] of the sin-offering"**.
@@ -9407,7 +9407,6 @@ GLOSS: Cleaning and scraping the pan are not sufficient when it has been used th
 
 
 Bread placed hot on the open bung of a barrel of wine intended for idols is forbidden, but the bread thus placed is permitted when it is cold and the opening is open or vice versa. However, when it is made with barley flour, it is forbidden when placed, still hot, on the barrel of wine even if closed.
-GLOSS: Because the bread has absorbed the odor of the wine intended for idols, the case is not the same as in the first article. Rabbi Asher Thesphoth and several famous authors prescribe very strict observance of the prohibition regarding bread that has absorbed the scent of wine intended for idols. The cause of the stringent view of the Talmudic scholars is clearly understood; it is not merely a religious issue, but also a moral one. They aim to distance Israelites from pagan worship and any minor custom found in their morals.
 
 
 ###### Shulchan Arukh, Yoreh De'ah 108:5
@@ -21858,9 +21857,8 @@ footnotes:
 קונם פירות האלו עלי אסור בחילופיהם ובגידוליהם ואין צריך לומר במשקין היוצאין מהן וכן אסור בגידולי גידוליהן אבל חילופי חילופיהן מותרים ואם הוא דבר שזרעו כלה גידולי גידוליו מותרים וכן הדין אם לא אמר האלו אלא היו לפניו ואמר קונם הם עלי: הגה וכן אם אמר פירות פלוני או מקום פלוני הם קונם עלי הוי כאילו אמר פירות אלו. (ב"י בשם הר"ן):
 
 
-**De la différence qui existe entre le vœu formulé ainsi: «Que ce fruit me soit défendu», et le vœu formulé sans l’emploi du démonstratif. — Du vœu concernant un aliment cuit**
-Lorsqu’on dit: «Que ces fruits me soient interdits», ces fruits sont défendus sous n’importe quelle forme, et ceux provenant de leur reproduction sont également défendus. Il va sans dire qu’on ne doit pas boire une boisson qui serait faite avec les fruits en question. Les fruits de la deuxième reproduction sont également interdits, mais non ces fruits qu’on aurait d’abord préparés d’une certaine façon, et auxquels on aurait ensuite donné une forme nouvelle. Quand les fruits sont d’une espèce telle qu’ils ne se reproduisent que par putréfaction et anéantissement de la graine, la seconde reproduction est permise. Si une personne, ayant des fruits devant elle, fait vœu qu’ils lui soient défendus, c’est comme si elle s’était servie du mot «ces».
-GLOSE: Si l’on dit: «Que les fruits d’un tel, ou: que les fruits de tel lieu, me soient défendus», c’est comme si on se servait du démonstratif «ces».
+**The distinction between one who says "these fruits" and one who does not say "these," and the law of one who vows regarding cooked food (and how we follow the language of the Torah in vows).**
+Konam these fruits are forbidden to me: he is forbidden in their exchanges and in their growths, and needless to say in the liquids that come out of them; he is also forbidden in the growths of the growths, but the exchanges of the exchanges are permitted. And if it is something whose seed is consumed [does not regenerate], the growths of the growths are permitted. The same law applies if he did not say "these" but the fruits were before him and he said "they are konam to me."And likewise, if he said "the fruits of so-and-so" or "of such-and-such a place are konam to me," it is as though he said "these fruits." (Beit Yosef in the name of the Ran.)
 
 
 ###### Shulchan Arukh, Yoreh De'ah 216:2
@@ -21871,13 +21869,7 @@ GLOSE: Si l’on dit: «Que les fruits d’un tel, ou: que les fruits de tel lie
 אמר קונם מה שאני אוכל או טועם מהם אם הוא דבר שזרעו כלה כגון חטים וכיוצא בהם מותר בחילופיהם ובגידוליהם ואם הוא דבר שאין זרעו כלה כשזורעין אותו כגון שום ובצלים אפי' גידולי גידולין אסורים וכן משקים היוצאים מהם אסורים וכן אם אמר קונם פירות האלו על פלוני אסור בחילופיהם ובגידוליהם:
 
 
-Lorsqu’on a dit: «Si je mange ou si je goûte de ces fruits, qu’ils me soient défendus», il y a deux cas à considérer:
-1° La graine de ces fruits se pourrit en terre, avant de reproduire, comme cela a lieu pour le froment; alors les mets que l’on prépare avec ces fruits sont permis, ainsi que les fruits de la reproduction;
-2° Si, au contraire, ce sont des fruits qui ne se reproduisent pas par anéantissement de la graine, comme c’est le cas pour l’ail, l’oignon, la seconde reproduction est encore interdite, ainsi que les boissons fabriquées avec ces fruits.¹ Si une personne dit: «Que ces fruits soient interdits à un tel», les fruits sont défendus pour la seconde personne, tout comme si cette personne avait prononcé le vœu elle-même.²
-
-footnotes:
-¹ On comprend l’idée attachée à l’anéantissement ou au non-anéantissement de la graine mise en terre: cette graine faisait partie intégrante du fruit qu’on s’est interdit par le vœu.
-² Bien entendu ces fruits appartiennent à la personne qui prononce le vœu.
+If he said "Konam -- what I eat or taste of them": if it is something whose seed is consumed, such as wheat and the like, he is permitted in its exchanges and growths; but if it is something whose seed is not consumed when planted, such as garlic and onions, even the growths of the growths are forbidden, and likewise the liquids that come out of them are forbidden. Similarly, if he said "Konam -- these fruits are upon so-and-so," he is forbidden in their exchanges and growths.
 
 
 ###### Shulchan Arukh, Yoreh De'ah 216:3
@@ -21888,12 +21880,7 @@ footnotes:
 אמר לאשתו קונם מעשה ידיך עלי אסור בחילופיהם ובגידוליהם. אמר קונם שאני אוכל או שאני טועם ממעשה ידיך מותר בחילופיהן ובגידוליהן בדבר שזרעו כלה אבל בדבר שאין זרעו כלה אפי' גידולי גידולין אסורין:
 
 
-Si un homme dit à sa femme: «Que l’œuvre de tes mains me soit défendue », les fruits obtenus par le travail de sa femme lui sont interdits sous n’importe quelle forme, ainsi que les fruits par reproduction. Mais s’il a dit: «Qu’il me soit défendu de goûter ou de manger le produit de ton travail », il y a deux cas à considérer:
-1° Il s’agit de fruits qui se reproduisent par anéantissement de la graine; les mets que l’on fait avec ces fruits, ainsi que les fruits de la première reproduction, sont permis;
-2° La reproduction se fait sans anéantissement de la graine; la seconde reproduction est encore défendue.¹
-
-footnotes:
-¹ La seconde façon de s’exprimer est beaucoup plus explicite que la première, et on l’assimile à l’emploi du démonstratif «ce » (article 2, fruits se reproduisant sans anéantissement de la graine).
+If he said to his wife, "Konam -- the work of your hands is forbidden to me," he is forbidden in its exchanges and growths. If he said "Konam -- what I eat or taste of the work of your hands," he is permitted in its exchanges and growths for something whose seed is consumed, but for something whose seed is not consumed, even the growths of the growths are forbidden.
 
 
 ###### Shulchan Arukh, Yoreh De'ah 216:4
@@ -21904,13 +21891,7 @@ footnotes:
 אמר לחבירו קונם לביתך שאני נכנס שדך שאני לוקח מת או שמכרן או נתנן לאחר מותר אבל כל שהוא ברשותו אסור אפילו מכרו ואחר כך קנאו או שנפל ובנאו ואפילו לא בנאו במקומו הראשון: הגה אמר לו קונם בית אביך שאיני נכנס בו אע"פ שמת האב אסור דכל יוצאי חלציו קרויין בית אב (מרדכי ספ"ק דגיטין ובא"ע סי' קמ"ו ועס"ק י"ב):
 
 
-Quand une personne a dit à une autre: «Que ta maison me soit défendue, si j’y entre; que ton champ me soit défendu, si je l’achète»; si ensuite le propriétaire de la maison ou du champ meurt, ou vend l’immeuble, ou donne l’immeuble à un tiers, la personne peut acheter la maison ou le champ au nouveau propriétaire.¹ mais tant que l’immeuble reste en la possession du premier propriétaire, il reste défendu à la personne qui a fait le vœu, même si le propriétaire vend l’immeuble, puis le rachète ou si, à la place de sa maison qui se serait écroulée, il en fait bâtir une autre, en changeant l’emplacement.²
-GLOSE: Quand on a dit à quelqu’un: «Que la maison de ton père me soit défendue, si j’y entre»; si ce père meurt, on ne devra pas entrer dans la maison, bien qu’elle appartienne alors au fils, car le fils est le possesseur naturel des biens de son père décédé.³
-
-footnotes:
-¹ En disant: «Que ta maison me soit défendue...», on a voulu s’interdire le propriétaire de la maison plutôt que la maison elle-même; si la maison change de propriétaire, le vœu devient caduc.
-² Même observation: c’est le propriétaire, non l’immeuble, que le vœu visait dans son esprit, sinon dans sa lettre.
-³ Cette glose me paraît fausse. En se reportant à la note (c), qui m’a été inspirée par la michenah de Nedârîm, page 47, 1, on voit que l’expression: «la maison de ton père» s’applique entièrement au père, et non à la maison; «ton» équivaut, dans ce cas, à un démonstratif. On pourrait discuter sur le sens exact du vœu qui a été prononcé, si ce vœu avait été: «Que la maison de ton père me soit défendue», et prétendre, avec la glose, qu’il s’agit non-seulement du père, mais de toute sa descendance. Mais le vœu a été: «Que la maison de ton père me soit défendue, si j’y entre», et on voit bien que l’intention de celui qui a prononcé un tel vœu portait sur le père lui-même, et non sur ses descendants.
+If he said to his fellow, "Konam your house that I enter," or "your field that I take," and the owner died, or sold it, or gave it to another, it is permitted; but as long as it remains in his possession it is forbidden even if he sold it and later bought it back, or if it fell and he rebuilt it, even if not in its original location.If he said to him, "Konam -- your father's house that I will not enter," even if the father died it remains forbidden, since all his offspring are called "his father's house." (Mordechai, end of first chapter of Gittin; Even HaEzer 146; and below.)
 
 
 ###### Shulchan Arukh, Yoreh De'ah 216:5
@@ -21921,11 +21902,7 @@ footnotes:
 אמר קונם לבית זה שאני נכנס בו אסור בו לעולם בין שמת או מכרו או נתנו לאחרים ואם נפל ובנאו אפילו במקומו ובמדתו הראשונה מותר:
 
 
-Quand une personne dit: «Que cette maison me soit défendue, si j’y entre», la maison lui est interdite à jamais, même si le propriétaire meurt, ou vend la maison, ou la donne.¹ Mais si, la maison s’étant écroulée, on en a rebâti une autre, la maison neuve est permise, fût-elle bâtie à la même place que l’ancienne et semblable à celle-ci.²
-
-footnotes:
-¹ De la désignation «cette maison» on conclut que le vœu s’appliquait à la maison elle-même, non pas au propriétaire de la maison.
-² C’est le même raisonnement qu’au début de l’article. La maison n’a pas changé de propriétaire, mais ce n’est plus la même maison. Or le vœu visait la maison alors existante, et non le propriétaire.
+If he said "Konam this house that I enter," he is forbidden in it forever, whether the owner died, sold it, or gave it to others; but if it fell and he rebuilt it, even in its exact place and original dimensions, it is permitted.
 
 
 ###### Shulchan Arukh, Yoreh De'ah 216:6
@@ -21936,13 +21913,7 @@ footnotes:
 אמר קונם לביתך זה שאני נכנס אסור בו לעולם בין שמת או מכרו או נתנו לאחר בין שנפל ובנאו ויש מי שמתיר במת או מכרו או נתנו ואוסר בנפל ובנאו ויש מי שאוסר בזו ומתיר בזו:
 
 
-Quand une personne dit à une autre: «Que cette maison qui t’appartient me soit défendue, si j’y entre», la maison lui sera toujours interdite, que le propriétaire meure, qu’il la vende, ou qu’il la donne, ou qu’il en rebâtisse une autre si la maison s’est écroulée.¹ Un auteur dit que la maison devient permise, si le propriétaire meurt, ou s’il la donne, ou la vend; mais si la maison s’est écroulée, la maison rebâtie sur l’emplacement de la première est défendue.² Un autre auteur permet la maison qui a été construite à la place de la première tombée en ruines, et interdit la maison, si le propriétaire meurt, donne la maison, ou la vend à un tiers.³
-GLOSE: Nous nous rangerons au premier de ces trois avis, qui est l’avis de l’auteur même du Choulhan Aroukh, Joseph Caro, pour les raisons suivantes. Les deux auteurs, dont Caro a enregistré les opinions dans l’article 6, se sont inspirés d’un certain passage du Talmud (traité Baba Metsia, michenah, page 102, 2), que voici: «Si un propriétaire loue sa maison à l’année, les années embolismiques sont à l’avantage du locataire; s’il la loue au mois, les années embolismiques sont à l’avantage du propriétaire.» (On rappelle ici que l’année embolismique juive est une année de 13 mois, au lieu de douze. Il y a 7 de ces années dans un cycle de 19 ans, afin de racheter la différence des nombres de jours de l’année solaire et de l’année lunaire, qui est de 10 environ). «Le fait suivant s’est passé à Séphoris. Une personne avait loué un immeuble à un propriétaire pour douze pièces d’or par an, à raison d’un dinar d’or par mois. Il y eut alors discussion en raison des deux expressions qui avaient été employées dans le contrat, et l’affaire vint devant rabban Siméon, fils de Gamaliel, et rabbi José. Ceux-ci dirent: que le mois supplémentaire en litige (le 13e mois des années embolismiques) soit divisé entre les deux contractants.» Et voici la guemara correspondant à cette michenah: «Rab a dit: Si j’avais été là, j’aurais décidé que le mois supplémentaire tout entier serait payé au propriétaire. Et que veut-il nous faire savoir par là? C’est qu’il eût appliqué la seconde des règles de la michenah (c’est-à-dire: location au mois, avantage du propriétaire).» Les deux auteurs que cite Caro ont voulu imiter les tanaïm (auteurs de la michenah) et les amoraïm (auteurs de la guemara), en décidant entre la première et la seconde des deux expressions employées par la personne qui a prononcé le vœu de l’art. 6. Mais peut-on assimiler des questions de vœux à des questions d’argent? Les règles ne sont-elles pas complètement différentes dans les deux cas? Les vœux ne sont-ils pas autrement graves que les questions d’intérêt? Et puis, y a-t-il réellement deux idées différentes dans le membre de phrase sujet de la discussion: «cette maison qui t’appartient»? Le démonstratif «cette» ne fait qu’insister davantage sur l’interdiction de la maison qu’on désigne. Dans le passage de Baba Metsia, le propriétaire a dit: 12 pièces d’or par an, et il ajoute ensuite: un dinar d’or par mois. On pouvait donc comprendre de deux façons différentes: location à l’année ou location au mois, et les Docteurs pouvaient trancher dans un sens ou dans l’autre. Dans notre question de vœu au contraire, en quoi diffèrent les deux expressions: «cette maison» et: «la maison qui t’appartient»? Simplement en ce que la première renferme le démonstratif «cette», et rend ainsi absolue l’interdiction prononcée sur la maison du propriétaire en question. Alors qu’importent la mort du propriétaire, la vente, la donation ou la reconstruction de la maison? La maison doit demeurer interdite de toutes les façons.
-
-footnotes:
-¹ (Chakh, 15). La personne a désigné la maison de deux façons; elle a dit: «cette maison» et elle a dit: «qui t’appartient». On ne sait donc pas de façon certaine si elle a entendu s’interdire seulement la maison elle-même, ou seulement le propriétaire de la maison; le vœu sera donc considéré comme réel, à la fois quant à la maison et quant à son propriétaire.
-² (Chakh, 16). Cet auteur admet, dans le vœu, la prépondérance de l’expression: «Qui t’appartient». Dès lors le vœu ne visait que le propriétaire: le propriétaire disparaît, le vœu est caduc: la maison disparaît, mais le propriétaire demeure: le vœu subsiste.
-³ Cet auteur donne au contraire la prépondérance à l’expression: «cette maison». Pour lui, le vœu visait uniquement la maison, non son propriétaire.
+If he said "Konam your house that I enter" [to the person directly], he is forbidden in it forever, whether he died, sold it, or gave it to another, or whether it fell and he rebuilt it. But some permit it in the case of death, sale, or gift, and forbid it in the case of falling and rebuilding; and some forbid in the one case and permit in the other.
 
 
 ###### Shulchan Arukh, Yoreh De'ah 216:7
@@ -21953,15 +21924,7 @@ footnotes:
 אמר ראובן לשמעון קונם בית זה שאתה נכנס ומת או שמכרו לאחר אסור שהאוסר דבר שהוא שלו על חבירו אע"פ שיצא מרשותו הרי הוא באיסורו עומד אבל אם אמר לו קונם לביתי שאתה נכנס אם מת או מכרו או נתנו לאחר מותר האומר לבנו הרי אתה אסור בהנייתי או שנשבע שלא יהנה בו אם מת יירשנו שזה כאומר נכסי עליך אסורין אבל אם אסר עליו הנייתו ופירש בין בחייו בין במותו אם מת לא יירשנו שזה כאומר נכסי אלו עליך אסורים (וע"ל סימן רכ"ג) : הגה קהל שנדרו כל מה שיגבו יהיה לצורך בנין בית הכנסת ובנין בית המדרש יתנו מחצה לזה ומחצה לזה אע"פ שלא גבו להספיק א' מהם (ב"י ס"ס רכ"ח בשם תשו' הרשב"א) מי שהשביע את בנו או חבירו שלא ילוה מעותיו לאחרים אם לא ברשות ראובן ושמעון ומת אחד מהם מותר להלוות ברשות הא' דכל מקום שנאמר פלוני ופלוני משמע אפי' א' מהם עד שיפרוט לך שניהם ביחד (ב"י סי' רכ"ח דף ע"ב ע"ד בשם תשובת הרשב"א) מי שנשבע לאשה המשודכת לו שלא ישא אשה עליה וקודם שכנסה נפלה לו יבמה מותר ליבמה דלשון עליה אינה במשמע אלא אם נשאה תחילה ולא יכנוס המשודכת אלא א"כ יתירו לו שבועתו (שם סוף דף רע"ג בשם תשובת רשב"א והיא בסימן תתי"ב):
 
 
-Quand le propriétaire d’une maison dit à une personne: «Que cette maison te soit défendue, si tu y entres», la maison est interdite à cette personne, même si le propriétaire meurt, ou s’il vend la maison, ou la donne; car un homme peut interdire à un autre homme un objet qui lui appartient, et, alors même que la maison n’est plus en sa possession, le mot «cette» dont il s’est servi fait que sa défense subsiste.¹ Si le propriétaire a dit à la personne: «Que ma maison te soit interdite, si tu y entres», il est permis à cette personne d’aller dans l’immeuble, si le propriétaire est mort, ou bien a vendu ou donné sa maison.² Quand un père fait le vœu ou le serment que son fils ne profite pas de lui, le fils peut cependant hériter après la mort du père, parce qu’on assimile ce vœu aux paroles suivantes: «Que mes biens te soient défendus».³ Mais si un père interdit à son fils de profiter de lui, et s’il ajoute: «de mon vivant» ou «après ma mort», il est défendu au fils d’hériter; car c’est comme si le père avait dit: «Je te défends de profiter de ces biens qui m’appartiennent».⁴
-GLOSE: Quand une communauté fait le vœu de donner l’argent de ses encaissements à la synagogue et à l’école rabbinique, elle doit partager cette somme entre les deux institutions dont il s’agit, même si la somme est insuffisante pour une seule d’entre elles. Lorsqu’un père a adjuré son fils, un ami son ami, de ne point prêter d’argent sans l’assentiment de Ruben et de Siméon; si Ruben ou Siméon meurt, le fils, l’ami peuvent prêter avec l’assentiment du seul survivant. En effet, lorsqu’on dit que la permission de Ruben et de Siméon est nécessaire, il est entendu qu’à défaut de l’un d’eux, l’autre suffira, à moins qu’on ait émis l’idée qu’il fallait absolument la permission des deux personnes mentionnées. Si un fiancé jure qu’il ne prendra pas une autre femme que sa fiancée, et si le mari de sa belle-sœur (femme de son frère) meurt avant le mariage, il lui est permis d’épouser cette belle-sœur; car il semble que son serment ait été fait pour le temps qui suivra son union avec sa fiancée, et non pour le temps qui précède cette union. Il ne pourra cependant se marier avec sa belle-sœur qu’après qu’un rabbin lui aura fait remise de son serment.⁵
-
-footnotes:
-¹ Voir la note (f).
-² Le cas est analogue à celui de l’article 4; c’est la personne même du propriétaire qui est interdite dans les deux cas, et non la maison; si donc la maison s’écroule et si le propriétaire la rebâtit, il me semble que la nouvelle maison est, elle aussi, interdite, bien que le texte soit ici muet.
-³ Le cas est identique à celui de la phrase précédente: «Si le propriétaire a dit...»
-⁴ Voir l’article 1.
-⁵ Ces dispositions sont incompréhensibles. D’abord le serment qu’a prêté le fiancé, de ne pas prendre une autre femme que sa fiancée, s’applique évidemment aussi bien au temps qui précédera son mariage avec sa fiancée qu’au temps qui suivra ce mariage. En second lieu, la glose a tort de dire qu’il lui est «permis» d’épouser sa belle-sœur, alors que la chose lui est «prescrite formellement», par le Deutéronome (XXV, 5, 6). Le Talmud (Nédârîm, page 16, 1) dit: «On ne peut pas jurer de transgresser une prescription de la Torah». Un tel serment est donc vain, et l’on doit exécuter la prescription de la Torah. Dans notre cas particulier, le serment de ne pas épouser une autre femme ne peut évidemment pas s’appliquer à la belle-sœur, devenue veuve sans enfant, qu’il est formellement prescrit d’épouser. Comment la glose peut-elle prescrire au fiancé de se faire faire remise d’un serment qui est vain? Que d’erreurs! Nous ne pouvons croire qu’Isserlès (auteur des gloses, appelé aussi par abréviation Réma: rabbi Mocheh Isserlès) les ait commises; des copistes ont dû les lui prêter.
+If Reuven said to Shimon, "Konam -- this house that you enter," and it fell or he sold it to another, it remains forbidden -- for one who forbids something of his own upon his fellow remains bound by the prohibition even after it leaves his possession. But if he said to him, "Konam -- my house that you enter," and he died, sold it, or gave it to another, it is permitted. One who tells his son, "You are forbidden from my benefit," or who swears that his son not benefit from him -- if he dies, the son inherits, since this is like saying "my property is forbidden to you." But if he forbade his benefit and specified "whether in my lifetime or after my death," and he then dies, the son does not inherit, for this is like saying "these particular properties of mine are forbidden to you." (See below, siman 223.) A community that vowed that whatever they collect will go toward building a synagogue and a study hall should split it, half to each, even if what was collected does not suffice for either building alone. (Beit Yosef, end of siman 228, citing a responsum of the Rashba.) One who made his son or fellow swear not to lend out his money except with the permission of Reuven and Shimon, and one of them died -- lending is permitted with the permission of the surviving one, for wherever "so-and-so and so-and-so" is stated, it means even one of them, unless he specifies that both together are required. (Beit Yosef, siman 228, page 72, column 4, citing a responsum of the Rashba.)One who swore to his betrothed that he would not marry another woman "in addition to her," and before marrying her a yevamah fell to him for levirate marriage -- he may marry the yevamah, since "in addition to her" implies only after he has already married her; but he may not then marry the betrothed woman unless she releases him from his oath. (Ibid., end of page 273, citing a responsum of the Rashba, found in siman 812.)
 
 
 ###### Shulchan Arukh, Yoreh De'ah 216:8
@@ -21972,10 +21935,7 @@ footnotes:
 אמר לחבירו ככרי זו אסורה עליך אפי' נתנה לו במתנה או מכרה לו אסורה לו מת ונפלו לו בירושה או שנתנה לאחר והוא נתנה לו מותרת לו שלא אמר אלא ככרי ועתה אינו שלו:
 
 
-Quand une personne a dit à une autre: «Que ce pain qui m’appartient te soit défendu», le pain est interdit à la seconde personne, même si le propriétaire du pain le lui donne ou le lui vend; mais si ce propriétaire meurt, et si la personne hérite du pain, ou bien si le propriétaire donne son pain à une tierce personne, qui le donne à son tour à la seconde personne, cette dernière peut l’accepter. En effet le propriétaire du pain a dit: «Que mon pain te soit interdit», et ce pain n’est plus à lui dans les deux derniers cas considérés.¹
-
-footnotes:
-¹ L’auteur me semble ici contredire ce qu’il a écrit à l’article 6, à propos de la maison dont on a dit: «Que cette maison qui t’appartient me soit défendue, si j’y entre». Taze en effet nous dit que le présent article présente des fautes d’impression, et que les premières éditions ne portaient pas le mot «ce» (ce pain). Alors le pain devient permis, dans le cas où le propriétaire meurt ou donne son pain, sans qu’il y ait contradiction avec l’article 6.
+If he said to his fellow, "This loaf of mine is forbidden to you," it remains forbidden to him even if he later gave it to him as a gift or sold it to him. But if the giver died and the recipient inherited it, or if it was given to a third party who then gave it to him, it is permitted, since he had only said "my loaf" -- and it is no longer his.
 
 
 ###### Shulchan Arukh, Yoreh De'ah 216:9
@@ -21986,11 +21946,7 @@ footnotes:
 אמר קונם בשר ויין עלי מותר בתבשיל שיש בו בשר ויין אע"פ שנותנין בו טעם ואם אמר קונם בשר ויין שאני טועם או שאני אוכל או שאמר קונם בשר או יין זה עלי אסור בתבשיל שיש בו טעם [בשר או] יין:
 
 
-Quand on fait un vœu de ne pas manger de viande, le bouillon et le résidu sont permis.¹ Si l’on fait vœu de ne pas manger de viande, bouillon et résidu sont permis, sauf si l’on a dit: «Que la viande me soit défendue, si je la goûte, ou: si je la mange.»²
-
-footnotes:
-¹ De nos jours, selon un commentateur, le vœu de ne pas manger de viande interdit aussi le bouillon et son résidu; il est seulement permis de manger du poisson.
-² Il y a ici une faute de copiste ou d’impression, le mot «cette» manque; il faudrait, selon les formules données au § 216, art. 9: «Que cette viande me soit défendue» ou bien: «Que la viande que je goûterais, ou: que je mangerais, me soit défendue.»
+If he said "Konam meat and wine are forbidden to me," he is permitted a cooked dish containing meat and wine even though they impart their flavor to it. But if he said "Konam -- meat and wine that I taste" or "that I eat," or "Konam -- this meat or this wine is forbidden to me," he is forbidden a cooked dish that carries the taste of the [meat or] wine.
 
 
 ###### Shulchan Arukh, Yoreh De'ah 216:10
@@ -22001,7 +21957,7 @@ footnotes:
 נתערב יין זה שאסרו על עצמו ביין אחר אפי' טפה בחבית נאסר הכל מפני שיש לו להשאיל על נדרו נעשה כדבר שיש לו מתירין שאינו בטל במינו:
 
 
-Lorsque le vin, qu’une personne s’est interdit par un vœu, se trouve mêlé avec un autre vin, ce mélange est défendu, même s’il n’a que très légèrement le goût du vin interdit; car la personne peut aller demander à un rabbin la remise de son vœu. On considère alors que le vin interdit peut devenir permis dans le mélange, bien qu’en réalité un tel mélange ne puisse jamais être négligé, même si l’aliment de même espèce et permis, avec lequel est mélangé l’aliment défendu, est en quantité mille fois supérieure à celle de l’aliment défendu.
+If wine that he forbade upon himself became mixed into other wine, even a single drop into a whole barrel, the entire barrel becomes forbidden, since he has the option of having a sage release him from his vow; it is therefore treated as "a thing that has one who can permit it," which is not nullified even by an overwhelming majority.
 
 
 ###### Shulchan Arukh, Yoreh De'ah 216:11
@@ -22012,8 +21968,7 @@ Lorsque le vin, qu’une personne s’est interdit par un vœu, se trouve mêlé
 האוסר על עצמו יינו של פלוני או של מקום פלוני דינו כדין האוסר על עצמו יין זה שאסור בתבשיל שנפל בו ויש בו טעם יין והוא הדין אם אותו יין נעשה חומץ אחר הנדר שהוא אסור עליו אבל מה שהיה חומץ בשעת הנדר מותר (דיין אסר עליו ולא חומץ) (ב"י בשם תשובת הרשב"א):
 
 
-Quand on a dit: «Que le vin de tel homme, ou: de tel lieu, me soit défendu», et que ce vin tombe dans du bouillon, le bouillon est également interdit, s’il a pris le goût du vin. De même si, après le vœu, le vin a été transformé en vinaigre, ce vinaigre est défendu; mais si l’on faisait le vinaigre au moment même où le vœu a été formulé le vinaigre est permis.
-GLOSE: Car dans ce dernier cas le vœu portait évidemment sur le vin et non sur le vinaigre.
+One who forbids upon himself the wine of so-and-so, or of a particular place, has the same law as one who forbids "this wine" specifically, he is forbidden a cooked dish it fell into that carries the taste of wine. The same applies if that wine turned to vinegar after the vow, it remains forbidden. But whatever was already vinegar at the time of the vow is permitted.For he forbade wine upon himself, not vinegar. (Beit Yosef, citing a responsum of the Rashba.)
 
 
 ###### Shulchan Arukh, Yoreh De'ah 216:12
@@ -22024,10 +21979,7 @@ GLOSE: Car dans ce dernier cas le vœu portait évidemment sur le vin et non sur
 אמר קונם זיתים וענבים עלי מותר בשמן ויין היוצא מהם אפי' הוא חדש ואם אמר קונם זיתים וענבים שאני טועם או שאמר קונם זיתים אלו עלי אסור אף במשקים היוצאים מהם ובתבשיל שנותנין בהם טעם:
 
 
-Quand une personne dit: «Que les olives, ou les raisins, me soient défendus», les produits fabriqués avec ces fruits, même frais, lui sont permis¹. Mais si le vœu a été formulé ainsi: «Que les olives, ou: les raisins, que je goûterai, me soient défendus», ou bien: «Que ces olives, ou: ces raisins me soient défendus», les produits fabriqués avec les fruits en question sont interdits; il en est de même des aliments cuits avec ces fruits, s’ils ont pris le goût des fruits.
-
-footnotes:
-¹ Parce que le vœu est bien précis et vise simplement les olives, les raisins, non leurs dérivés.
+If he said "Konam olives and grapes are forbidden to me," he is permitted the oil and wine that come from them, even if freshly pressed. But if he said "Konam -- olives and grapes that I taste," or "Konam these olives are forbidden to me," he is forbidden even the liquids that come out of them, and a cooked dish into which they impart flavor.
 
 
 
@@ -25566,6 +25518,10 @@ If a father wants to serve his son, it is permissible to accept [it] from him, u
 חייב אדם בכבוד רבו ויראתו יותר מבשל אביו: הגה אביו שהוא רבו מובהק קורא אותו בדברו רבו אבל ברבו שאין מובהק קורא אותו אבא. (סברת הרב ממשמעות הטור ומש"ס ר"פ הזהב):
 
 
+**Not to issue rulings in the presence of one's rabbi, and the laws of a rabbi who waives his honor. It contains 36 sections:** 
+A person is obligated to honor and revere his rabbi more than his father. Gloss: [If] his father is his primary rabbi (rav muvhak), he addresses him as "my rabbi" when speaking to him, but if he is a rabbi who is not his primary rabbi, he addresses him as "father." (The opinion of the Rav based on the implication of the Tur and the Talmud, the beginning of chapter HaZahav)
+
+
 ###### Shulchan Arukh, Yoreh De'ah 242:2
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:2](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:2)
@@ -25585,12 +25541,18 @@ One who disputes their rabbi is like one who disputes the Divine Presence. One w
 איזהו חולק על רבו כל שקובע לו מדרש ויושב ודורש ומלמד שלא ברשות רבו ורבו קיים אף ע"פ שהוא במדינה אחרת: הגה אבל מותר לחלוק עליו באיזה פסק או הוראה אם יש לו ראיות והוכחות לדבריו שהדין עמו. (פסקי מהרא"י סי' רל"ח):
 
 
+**Who is considered to be disputing his rabbi?** Anyone who establishes a study hall for himself, and sits, preaches, and teaches without his rabbi's permission, while his rabbi is still alive, even if he is in another country. **Gloss:** However, it is permitted to disagree with him regarding a specific ruling or instruction if he has evidence and proofs for his statements that the law is on his side (Piskei Mahari, Siman 238).
+
+
 ###### Shulchan Arukh, Yoreh De'ah 242:4
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:4](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:4)
 
 
 אסור לאדם להורות לפני רבו לעולם וכל המורה לפניו חייב מיתה: הגה ואפילו נטילת רשות לא מהני תוך שלש פרסאות אם הוא רבו מובהק (ב"י בשם תוס' פ"ק דסנהדרין ומהרי"ק שורש ק"ע ואגודה שם וסמ"ק סוף עשין י"ג בשם ר"י ופרק אע"פ) : ואם הוא רחוק מרבו י"ב מיל ושאל לו אדם דבר הלכה בדרך מקרה יכול להשיב אבל לקבוע עצמו להוראה ולישב ולהורות אפילו הוא בסוף העולם אסור להורות עד שימות רבו או עד שיתן לו רשות: הגה וכל זה ברבו מובהק אבל בתלמיד חבר אפי' תוך שלשה פרסאות שרי (רי"ף ורמב"ם כדאיתא בב"י) וי"א דמ"מ לפני רבו ממש אסור (ריב"ש סי' רע"א) ואפי' שלא בפניו ממש אם התחילו בכבוד הרב לומר שישאלו לרב או שהרב מופלג בחכמה וזקנה אין להורות בעירו (בב"י מגמרא בפ' הדר) : וי"א דתלמיד גמור תוך י"ב מיל חייב מיתה אם הוא מורה חוץ לי"ב מיל פטור אבל אסור: הגה וי"א דדוקא ברגיל לבא לעירו של תלמיד אבל אם אינו רגיל לבא שם רק בדרך אקראי מותר כל שהוא חוץ לג' פרסאות (מרדכי בשם ריב"א): תלמיד חבר תוך י"ב מיל פטור אבל אסור וחוץ לי"ב מיל מותר אע"פ שנטל רשות מרב אחד לא סגי עד שיטול רשות מכל רבותיו המובהקים: הגה והאי מובהקים לא מיירי כשאר רבו מובהק שרוב חכמתו ממנו דא"כ לא אפשר להיות לו הרבה רבותיו מובהקים אלא ר"ל תלמיד גמור לאפוקי תלמיד חבר דהיינו שנתגדל בתורה ונעשה חבר לרבו דהיינו שהוא קרוב להיות גדול כרבו (מהרי"ק שורש ק"ע וב"י בשם רשב"ם פ' יש נוחלין) מיהו יש חולקין וסבירא להו דאי קבל רשות מרבו אחד מהני להורות חוץ לג' פרסאות (תשובת הרשב"א סי' קי"א וריב"ש סי' רפ"א) אבל תוך ג' פרסאות לא מהני ליה וי"א דכל שאינו רבו מובהק דהיינו שאין רוב חכמתו ממנו תלמיד חבר הוא (ב"י בשם הרמב"ם):
+
+
+It is forbidden for a person to ever issue rulings in the presence of his rabbi, and anyone who issues rulings in his presence is liable to death [by heavenly decree]. Gloss: And even receiving permission does not help within three parasangs (parsot) if he is his primary rabbi (rav muvhak) (Beit Yosef in the name of Tosafot, the first chapter of Sanhedrin; and Maharik, root 170; and Agudah there; and Semak, end of positive commandments 13 in the name of R.I.; and chapter Af Al Pi). And if he is distanced from his rabbi by 12 mil, and a person asks him a matter of Jewish law (halakha) by chance, he may answer. But to establish himself for instruction and to sit and issue rulings, even if he is at the ends of the earth, it is forbidden to issue rulings until his rabbi dies or until he gives him permission. Gloss: And all of this applies to a primary rabbi. But for a student-colleague (talmid chaver), it is permitted even within three parasangs (Rif and Rambam, as found in the Beit Yosef). And some say that nevertheless, in the actual physical presence of his rabbi, it is forbidden (Rivash, Siman 271). And even when not in his actual presence, if they began to honor the rabbi by saying that they should ask the rabbi, or if the rabbi is exceedingly distinguished in wisdom and old age, one should not issue rulings in his city (Beit Yosef from the Gemara in chapter Hadar). And some say that a complete student (talmid gamur) within 12 mil is liable to death if he issues rulings; outside of 12 mil, he is exempt but it is still forbidden. **Gloss:** And some say this is specifically if the rabbi is accustomed to coming to the student's city. But if he is not accustomed to coming there except occasionally, it is permitted as long as he is outside of three parasangs (Mordechai in the name of Riba). A student-colleague within 12 mil is exempt but it is forbidden, and outside of 12 mil it is permitted. Even though he received permission from one rabbi, it is not sufficient until he receives permission from all of his primary rabbis. Gloss: And this term "primary" does not mean a standard primary rabbi from whom most of his wisdom is derived, for if so, it would be impossible for him to have many primary rabbis. Rather, it means a complete student, excluding a student-colleague—meaning he grew in Torah and became a colleague to his rabbi, meaning he is close to being as great as his rabbi (Maharik, root 170; and Beit Yosef in the name of Rashbam, chapter Yesh Nochalin). However, there are those who disagree and hold that if he received permission from one rabbi, it is effective to allow him to issue rulings outside of three parasangs (Responsa of the Rashba, Siman 111, and Rivash, Siman 281), but within three parasangs it does not help him. And some say that any rabbi from whom he did not derive most of his wisdom, he is considered a student-colleague regarding him (Beit Yosef in the name of the Rambam).
 
 
 ###### Shulchan Arukh, Yoreh De'ah 242:5
@@ -25601,12 +25563,18 @@ One who disputes their rabbi is like one who disputes the Divine Presence. One w
 אין תלמיד יכול לסמוך אחרים במקו' רבו:
 
 
+A student cannot ordain others in the place of his rabbi.
+
+
 ###### Shulchan Arukh, Yoreh De'ah 242:6
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:6](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:6)
 
 
 אם לא קבל הנסמך הסמיכה מיד הרב ההוא הסומך אלא ע"י רבנים אחרים והוא נעשה להם סניף אין לאותו הרב להשתרר עליו כלל אם אינו רבו: הגה אבל אם סמכו לבדו נהגו שהנסמך כפוף קצת לסומכו (מהרי"ק שורש קי"ז וקי"ג) וכן מי שלומד בישיבה זמן א' נהגו לומר שהוא תלמיד בעל הישיבה אע"פ שאפשר שבעל הישיבה שמע יותר חדושים ממנו ויש למנהגים אלו עיקר על מה שיסמוכו (בפסקי מהרא"י):
+
+
+If the ordainee did not receive the ordination directly from the hand of that ordaining rabbi, but rather through other rabbis and he was joined to them as an adjunct, that rabbi has no authority to rule over him at all if he is not his rabbi. Gloss: But if he ordained him alone, it is customary that the ordainee is somewhat subordinate to his ordainer (Maharik, root 117 and 113). And likewise, one who studies in a yeshiva for a certain period of time, it is customary to say that he is a student of the head of the yeshiva, even though it is possible that the head of the yeshiva heard more novel insights from him, and these customs have a valid basis upon which to rely (Piskei Maharai).
 
 
 ###### Shulchan Arukh, Yoreh De'ah 242:7
@@ -25617,12 +25585,18 @@ One who disputes their rabbi is like one who disputes the Divine Presence. One w
 לא מקרי הוראה אלא כשמורה על מעשה שבא לפניו אבל אם שאלו לתלמיד הלכה כדברי מי יוכל לומר מה שבדעתו כיון שאינו מורה על מעשה שבא לפניו:
 
 
+It is not considered issuing a ruling unless one rules on an actual case that comes before him. However, if a student is asked whose opinion the law follows, he may state his own view, since he is not ruling on an actual case that has come before him.
+
+
 ###### Shulchan Arukh, Yoreh De'ah 242:8
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:8](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:8)
 
 
 לא מקרי הוראה אלא בדבר שיש בו חדוש לשואל אבל בהוראה ידועה שהיא פשוטה לכל כגון נותן טעם לפגם או לבטל איסור בששים וכיוצא באלו מותר:
+
+
+It is not considered issuing a ruling except in a matter that contains a novel insight for the questioner. However, regarding a known ruling that is simple to everyone, such as a flavor that impairs or nullifying a prohibition in sixty parts, and similar matters, it is permitted.
 
 
 ###### Shulchan Arukh, Yoreh De'ah 242:9
@@ -25633,12 +25607,18 @@ One who disputes their rabbi is like one who disputes the Divine Presence. One w
 יש מי שכתב שכל הכתוב בספרים מפסקי הגאונים יכול להורות בימי רבו רק לא יורה דבר מלבו ולא יסמוך על ראיותיו לדמות מלתא למלתא מעצמו:
 
 
+There is one who wrote that whatever is written in the books from the rulings of the Geonim, he may use to issue rulings during the lifetime of his rabbi, provided he does not issue a ruling from his own heart and does not rely on his own proofs to compare one matter to another on his own.
+
+
 ###### Shulchan Arukh, Yoreh De'ah 242:10
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:10](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:10)
 
 
 יש מי שכתב שאסור לחכם להתיר דבר התמוה שנראה לרבים שהתיר את האסור:
+
+
+There is one who wrote that it is forbidden for a sage to permit a perplexing matter, as it appears to the public that he has permitted that which is forbidden.
 
 
 ###### Shulchan Arukh, Yoreh De'ah 242:11
@@ -25649,12 +25629,18 @@ One who disputes their rabbi is like one who disputes the Divine Presence. One w
 לאפרושי מאיסורא כגון שרואה אדם שעובר עבירה מפני שאינו יודע שהוא אסור או מפני רשעתו מותר להפרישו ולומר לו שהוא אסור בפני רבו שבכל מקום שיש חילול השם אין חולקין כבוד לרב:
 
 
+To separate someone from a prohibition, such as if one sees a person committing a transgression because he does not know that it is forbidden or because of his wickedness, it is permitted to separate him and tell him that it is forbidden in the presence of his rabbi, for wherever there is a desecration of the Name, one does not impart honor to a rabbi.
+
+
 ###### Shulchan Arukh, Yoreh De'ah 242:12
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:12](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:12)
 
 
 אם בני ביתו של תלמיד הוצרכו להוראה ושאלו לו לא יורה להם במקום רבו: (ולא כל מי שמת רבו מותר לישב ולהורות אא"כ הגיע להוראה) (טור בשם הרמב"ם):
+
+
+If the members of a student's household required a ruling and asked him, he should not issue a ruling to them in the place of his rabbi. (And not everyone whose rabbi has died is permitted to sit and issue rulings, unless he has reached the level of instruction) (Tur in the name of the Rambam).
 
 
 ###### Shulchan Arukh, Yoreh De'ah 242:13
@@ -25665,12 +25651,18 @@ One who disputes their rabbi is like one who disputes the Divine Presence. One w
 תלמיד שלא הגיע להוראה ומורה הרי זה שוטה רשע וגס רוח ועליו נאמר כי רבים חללים הפילה: הגה ותלמידים הקטנים הקופצים להורות ולישב בראש להתגדל בפני ע"ה מרבים מחלוקת ומחריבים העולם ומכבין נרה של תורה (טור מרמב"ם) ויזהר כל אדם שלא יורה כשהוא שתוי יין או שאר דברים המשכרים אפי' בדבר פשוט אם לא שהוא דבר ברור בפוסקים וזיל קרי בי רב הוא (ת"ה מ"ב ובמהרי"ק שורש ק"ע ועס"ק י"ט) ועיין בחוה"מ סי' ז':
 
 
+A student who has not reached the level of instruction and issues a ruling, behold, he is a fool, wicked, and arrogant, and concerning him it is said, "For she has cast down many wounded." Gloss: And the young students who jump to issue rulings and sit at the head to aggrandize themselves before the ignorant, they multiply dispute and destroy the world and extinguish the lamp of Torah (Tur from the Rambam). And every person should be careful not to issue a ruling when he is drunk on wine or other intoxicating substances, even in a simple matter, unless it is a matter that is clear in the poskim and is universally known (Terumat HaDeshen 42 and in Maharik root 170 and section 19) and see in Choshen Mishpat Siman 7.
+
+
 ###### Shulchan Arukh, Yoreh De'ah 242:14
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:14](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:14)
 
 
 כל חכם שהגיע להוראה ואינו מורה הרי זה מונע תורה ונותן מכשולות לפני רבים ועליו נאמר ועצומים כל הרוגיה: הגה ענין הסמיכות שנהגו בזמן הזה כדי שידעו כל העם שהגיע להוראה ומה שמורה הוא ברשות רבו הסומכו ולכן אם כבר מת רבו א"צ לסמיכות וכן בתלמיד חבר כדרך שנתבאר לעיל במקום שא"צ רשות א"צ סמיכות (ריב"ש סי' רע"א ודלא כנחלת אבות פ' שנו חכמים) וי"א דמי שאינו מוסמך למורינו ונותן גיטין וחליצות אין במעשיו כלום ויש לחוש לגיטין וחליצות שנתן אם לא שידוע לכל שמומחה לרבים הוא רק שמצד ענוה ושפלות אינו מבקש גדולות (מהר"ד כהן סי' כ' ומהרי"ו סי' פ"ה וקכ"ב) ויש חולקים ומקילין (תשובת ריב"ש הנ"ל) ובמקום עגון יש להקל אם כבר נתן גיטין וחליצות אבל לא בדרך אחר כי מנהגן של ישראל תורה כן נ"ל ועוד נ"ל שמותר לתת מורינו לאחד שיסדר גיטין ואף על פי שמדין הסמיכה שבימים הראשונים לא הוי דינא הכי מ"מ עכשיו אינו אלא נטילת רשות בעלמא ושרי:
+
+
+Any sage who has reached the level of instruction and does not issue rulings, behold, he withholds Torah and places stumbling blocks before the multitudes, and concerning him it is said, "And mighty are all her slain." Gloss: The matter of ordination that is practiced in this time is so that all the people will know that he has reached the level of instruction and that what he rules is with the permission of his rabbi who ordained him. Therefore, if his rabbi has already died, he does not need ordination. And similarly for a student-colleague, in the manner explained above, in a place where he does not need permission, he does not need ordination (Rivash Siman 271, and not like Nachalat Avot chapter Shanu Chachamim). And some say that one who is not ordained with "Moreinu" and gives divorces (gittin) and chalitzot, there is nothing to his actions, and one must be concerned about the divorces and chalitzot he gave, unless it is known to all that he is an expert for the public, only that out of humility and lowliness he does not seek greatness (Maharad Cohen Siman 20 and Mahariu Siman 85 and 122). And there are those who disagree and are lenient (Responsa of Rivash mentioned above). And in a case of a chained woman (agunah), one may be lenient if he already gave divorces and chalitzot, but not in any other way, because the custom of Israel is Torah, so it appears to me. And furthermore, it appears to me that it is permitted to give "Moreinu" to someone so that he may arrange divorces, and even though according to the law of ordination in the early days this was not the law, nevertheless now it is nothing but taking mere permission, and it is permitted.
 
 
 ###### Shulchan Arukh, Yoreh De'ah 242:15
@@ -25681,12 +25673,18 @@ One who disputes their rabbi is like one who disputes the Divine Presence. One w
 אסור לתלמיד לקרות לרבו בשמו לא בחייו ולא במותו ואפילו לקרות לאחרים ששמם כשמו אסור אם הוא שם פלאי שאין הכל רגילין לקרות בו: הגה אבל שם שרגילין בו מותר להזכיר שלא בפני רבו (ב"י בשם הרמב"ם) וכל זה דוקא כשאינו מזכיר רק שמו לבד אבל מותר לומר ר' מורי פלוני (כן משמע מפירש"י פ' חלק):
 
 
+It is forbidden for a student to call his rabbi by his name, neither during his lifetime nor after his death. It is even forbidden to call others whose name is the same as his if it is an uncommon name that people are not generally accustomed to use. Gloss: But a common name is permitted to be mentioned when not in the presence of his rabbi (Beit Yosef in the name of the Rambam). And all this applies specifically when one mentions only his name alone, but it is permitted to say, "My rabbi and teacher, so-and-so" (thus is implied from Rashi's commentary on chapter Chelek).
+
+
 ###### Shulchan Arukh, Yoreh De'ah 242:16
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:16](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:16)
 
 
 לא יתן שלום לרבו ולא יחזיר לו שלום כדרך שאר העם אלא שוחה לפניו ואומר לו ביראה ובכבוד [שלום עליך רבי ואם נתן לו רבו שלום אומר לו] שלום עליך מורי ורבי. (וכן נוהגין וי"א דאין לתלמיד לשאול בשלום רבו כלל שנאמר ראוני נערים ונחבאו) (ירושלמי הביאו הגהת מיימוני פ"ה וכ"כ תא"ו נתיב ב' וב"י בשם רבינו יונה) ולא יחלוץ תפיליו לפני רבו ולא יסב לפניו אלא יושב כיושב לפני המלך. (היה רבו יושב בסעודה עם אחרים נוטל רשות מרבו ואח"כ מאחרים) (רוקח סי' של"ה) ולא יתפלל לפניו ולא לאחריו ולא בצדו ואין צריך לומר שאסור להלוך בצדו אלא יתרחק לאחר רבו ולא יהא מכוון כנגד אחוריו אלא יצדד עצמו לצד אחר בין כשמתפלל עמו בין כשהולך עמו וחוץ לד' אמות הכל מותר (ועיין בא"ח סי' צ"ד) ולא יכנס עמו למרחץ אא"כ הוא צריך לו: הגה ואם היה התלמיד במרחץ קודם לרבו ובא רבו לשם א"צ לצאת (מהרי"ו בדינין) וכל זה לא מיירי אלא במקום שהולכים ערומי ערוה במרחץ אבל במקום שהולכים במכנסים מותר (אגודה פ' מקום שנהגו) וכן המנהג פשוט ליכנס עם רבו ואביו וחמיו ובעל אמו ובעל אחותו למרחץ אע"פ שבגמ' אסרו כולם והכל הוא מטעם דעכשיו הולכים במכנסים ולא ישב לפניו עד שיאמר לו שב ולא יעמוד עד שיאמר לו עמוד או עד שיטול רשות לעמוד וכשיפטר מלפניו לא יחזיר לו אחוריו אלא נרתע לאחוריו ופניו כנגד פני רבו: הגה והנפטר מרבו ונטל ממנו רשות ולן בעיר צריך לחזור וליטול ממנו רשות (ש"ס פ"ק דמ"ק ור' ירוחם) ודוקא שלא אמר לו מתחלה שרוצה ללון בעיר אבל אם הגיד לו בשעה שנטל רשות א"צ לחזור וליטול ממנו רשות (הר"ן שם) : ולא ישב במקומו ולא יכריע דבריו בפניו ולא יסתור דבריו וחייב לעמוד מפניו משיראנו מרחוק מלא עיניו עד שיתכסה ממנו שלא יראה קומתו ואחר כך ישב ואפילו היה רכוב צריך לעמוד מפניו דחשיב כמהלך: הגה י"א דאין אדם חייב לעמוד לפני רבו רק שחרית וערבית (טור בשם הרמב"ם) ודוקא בבית הרב אבל בפני אחרים שאין יודעים שעמד לפניו חייב לעמוד (ב"י בשם התוס' ומרדכי בשם ר"י וע"פ):
+
+
+He should not greet his rabbi with peace, nor return a greeting of peace to him in the manner of other people. Rather, he should bow before him and say to him in awe and reverence, "Peace be upon you, my rabbi." And if his rabbi greeted him with peace, he says to him, "Peace be upon you, my teacher and my rabbi." (And this is the custom. And some say that a student should not greet his rabbi at all, as it is stated, "The youths saw me and hid.") (Yerushalmi, cited by Hagahot Maimoni chapter 5, and so wrote Toldot Adam v'Chavah netiv 2, and Beit Yosef in the name of Rabbeinu Yonah). And he should not remove his tefillin in the presence of his rabbi, and he should not recline in his presence; rather, he should sit as one sits before a king. (If his rabbi was sitting at a meal with others, he takes permission from his rabbi and afterwards from the others) (Rokeach siman 335). And he should not pray in front of him, nor behind him, nor at his side. And needless to say, it is forbidden to walk at his side; rather, he should distance himself behind his rabbi, and he should not be aligned directly behind him, but should position himself to the side, whether when praying with him or walking with him. And outside of four cubits, everything is permitted. (And see Orach Chayim siman 94). And he should not enter a bathhouse with him unless he needs him. Gloss: And if the student was in the bathhouse prior to his rabbi, and his rabbi arrived there, he does not need to leave (Mahariu on laws). And all of this applies only in a place where they walk completely naked in the bathhouse, but in a place where they wear pants, it is permitted (Agudah chapter Makom SheNahagu). And thus is the simple custom, to enter a bathhouse with his rabbi, his father, his father-in-law, his mother's husband, and his sister's husband, even though in the Gemara they forbade all of them; and it is all for the reason that now they wear pants. And he should not sit in his presence until he tells him to sit. And he should not stand until he tells him to stand, or until he receives permission to stand. And when he takes his leave from his presence, he should not turn his back to him, but should step backward with his face toward his rabbi's face. Gloss: And one who takes leave of his rabbi and received permission from him, and lodged in the city, must go back and receive permission from him (Talmud, first chapter of Moed Katan and Rabbeinu Yerocham). And this is specifically if he did not tell him initially that he wanted to lodge in the city, but if he told him at the time he received permission, he does not need to go back and receive permission from him (Ran there). And he should not sit in his place, and he should not decide his words in his presence, and he should not contradict his words. And he is obligated to stand before him from when he sees him from afar, as far as his eyes can see, until he is hidden from him so he cannot see his stature, and afterwards he may sit. And even if he was riding, he must stand before him, because it is considered like walking. Gloss: Some say that a person is not obligated to stand before his rabbi except morning and evening (Tur in the name of the Rambam), and specifically in the rabbi's house. But in the presence of others who do not know that he stood before him, he is obligated to stand (Beit Yosef in the name of the Tosafot, and Mordechai in the name of the R.I. and Af Al Pi).
 
 
 ###### Shulchan Arukh, Yoreh De'ah 242:17
@@ -25697,12 +25695,18 @@ One who disputes their rabbi is like one who disputes the Divine Presence. One w
 שלשה שהיו מהלכים בדרך הרב באמצע הגדול לימין והקטן לשמאל: הגה והא דאין מכבדים בדרכים אלא בפתח הראוי למזוזה היינו שכל א' הולך לדרכו ואינן בחבורה אחת אבל אם הם בחבורה אחת מכבדים בדרכים (הגהות מיי' פ"ו דהל' ת"ת ובתוספות פרק במה בהמה) ובמקום סכנה א"צ לכבד כלל (מרדכי בשם ראבי"ה פ' ג' שאכלו):
 
 
+Three who were walking on the way, the rabbi is in the middle, the greater one to the right, and the smaller one to the left. Gloss: And that which we do not show honor on the roads except at an entrance fit for a mezuzah, that is when each one is going on his own way and they are not in one group. But if they are in one group, they show honor on the roads (Hagahot Maimoniyot chapter 6 of the laws of Torah study, and in Tosafot chapter Bameh Behemah). And in a place of danger, there is no need to show honor at all (Mordechai in the name of Ra'avyah chapter 3 of She'akhelu).
+
+
 ###### Shulchan Arukh, Yoreh De'ah 242:18
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:18](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:18)
 
 
 אם קראו לרבו לקרות בתורה בצבור אינו צריך לעמוד כל זמן שרבו עומד: הגה וכן כשהרב עומד למעלה בבית והתלמיד על הקרקע א"צ לעמוד לפניו ואפי' כשהס"ת על הבימה אין צבור שבבהכ"נ צריכים לעמוד דהספר ברשות אחרת (ב"י בשם תשובת הרשב"א):
+
+
+If his rabbi was called to read from the Torah in public, he does not need to stand the entire time his rabbi is standing. Gloss: And likewise, when the rabbi is standing above in the house and the student is on the ground, he does not need to stand before him. And even when the Torah scroll is on the bimah, the congregation in the synagogue does not need to stand, because the scroll is in a different domain (Beit Yosef in the name of a responsum of the Rashba).
 
 
 ###### Shulchan Arukh, Yoreh De'ah 242:19
@@ -25713,12 +25717,18 @@ One who disputes their rabbi is like one who disputes the Divine Presence. One w
 כל מלאכות שהעבד עושה לרבו תלמיד עושה לרבו ואם הוא במקום שאין מכירין אותו ואין לו תפילין בראשו וחושש שמא יאמרו עליו שהוא עבד אינו נועל לו מנעל ולא חולצו:
 
 
+All the labors that a slave performs for his master, a student performs for his rabbi. And if he is in a place where they do not know him, and he does not have tefillin on his head, and he is concerned lest they say about him that he is a slave, he does not put on his shoe for him, nor take it off.
+
+
 ###### Shulchan Arukh, Yoreh De'ah 242:20
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:20](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:20)
 
 
 כל המונע תלמידו מלשמשו מונע ממנו חסד ופורק ממנו יראת שמים וכל תלמיד שמזלזל דבר מכל כבוד רבו גורם לשכינה שתסתלק מישראל:
+
+
+Anyone who prevents his student from serving him, withholds kindness from him and removes from him the fear of Heaven; and any student who treats any matter of his rabbi's honor lightly causes the Divine Presence to depart from Israel.
 
 
 ###### Shulchan Arukh, Yoreh De'ah 242:21
@@ -25729,12 +25739,18 @@ One who disputes their rabbi is like one who disputes the Divine Presence. One w
 אין חולקין כבוד לתלמיד בפני רבו אלא אם כן רבו חולק לו כבוד: הגה ואפי' תלמידו של התלמיד או בנו של התלמיד אין להם לעמוד לפני הרב נגד רבו או אבי התלמיד אלא אם כן הרב חולק לו כבוד ודוקא אם הרב הוא גם כן רבו של זה היושב לפניו (ב"י בשם שבולי לקט):
 
 
+One does not bestow honor upon a student in the presence of his rabbi unless his rabbi bestows honor upon him. Gloss: And even the student's student or the student's son, they should not stand before the rabbi in the presence of his rabbi or the student's father unless the rabbi bestows honor upon him, and this is specifically if the rabbi is also the rabbi of the one who is sitting before him (Beit Yosef in the name of Shibolei HaLeket).
+
+
 ###### Shulchan Arukh, Yoreh De'ah 242:22
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:22](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:22)
 
 
 ראה רבו עובר על דברי תורה אומר לו למדתני רבינו כך וכך: הגה ואם רצה לעבור רק על איסור דרבנן אפ"ה צריך למחות בידו (ת"ה סי' מ"ג) . הרואה רבו עושה מעשה ויש לו להקשות על זה אם הוא איסור דאורייתא יקשה לו קודם המעשה ואם הוא איסור דרבנן יניחו לעשות המעשה ואח"כ יקשה לו הואיל ואינו יודע ודאי שעובר אלא שיש לו להקשות על זה (תא"ו נתיב ב'):
+
+
+If he sees his rabbi transgressing the words of the Torah, he says to him, "You taught me, our rabbi, such-and-such." Gloss: And if he wanted to transgress only a rabbinic prohibition, even so, he must protest against him (Terumat HaDeshen Siman 43). He who sees his rabbi performing an action and he has a question about it: if it is a biblical prohibition, he should question him before the action. And if it is a rabbinic prohibition, he should let him perform the action and afterwards question him, since he does not know for certain that he is transgressing, but rather he has a question about it (Toldot Adam v'Chavah, Netiv 2).
 
 
 ###### Shulchan Arukh, Yoreh De'ah 242:23
@@ -25745,12 +25761,18 @@ One who disputes their rabbi is like one who disputes the Divine Presence. One w
 כל זמן שמזכיר שמועה בפניו אומר לו כך למדתני רבינו:
 
 
+Any time he mentions a teaching in his presence, he says to him: "Thus you taught me, our rabbi."
+
+
 ###### Shulchan Arukh, Yoreh De'ah 242:24
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:24](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:24)
 
 
 לא יאמר דבר שלא שמע מרבו עד שיזכיר שם אומרו:
+
+
+He should not say anything he did not hear from his rabbi until he mentions the name of the one who said it.
 
 
 ###### Shulchan Arukh, Yoreh De'ah 242:25
@@ -25761,12 +25783,18 @@ One who disputes their rabbi is like one who disputes the Divine Presence. One w
 כשימות רבו קורע עליו כל בגדיו עד שמגלה לבו ויש אומרים שאינו קורע אלא טפח ואינו מאחה לעולם ומתאבל עליו בחליצה וכל דיני אבילות מקצת יום המיתה או מקצת יום השמועה:
 
 
+When his rabbi dies, he tears all his garments until he uncovers his heart, and some say he only tears a handbreadth, and he never stitches it up, and he mourns for him by tearing [his garments], and all the laws of mourning apply for part of the day of death or part of the day the news is heard.
+
+
 ###### Shulchan Arukh, Yoreh De'ah 242:26
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:26](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:26)
 
 
 אפי' בשמועה רחוקה קורע על רבו כשם שקורע על אביו. (וע"ל סי' ש"מ ושע"ד):
+
+
+Even upon hearing the news from afar, he tears for his rabbi just as he tears for his father. (And see below, Siman 340 and 374)....
 
 
 ###### Shulchan Arukh, Yoreh De'ah 242:27
@@ -25777,12 +25805,18 @@ One who disputes their rabbi is like one who disputes the Divine Presence. One w
 מי שרבו מת מוטל לפניו אינו אוכל בשר ואינו שותה יין כדין מי שמתו מוטל לפניו:
 
 
+Whoever has his rabbi who died lying before him may not eat meat and may not drink wine, according to the law of one whose dead relative lies before him.
+
+
 ###### Shulchan Arukh, Yoreh De'ah 242:28
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:28](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:28)
 
 
 כשמזכיר רבו תוך י"ב חודש צריך לומר הריני כפרת משכבו:
+
+
+When he mentions his rabbi within twelve months, he must say, "May I be an atonement for his resting place."
 
 
 ###### Shulchan Arukh, Yoreh De'ah 242:29
@@ -25793,12 +25827,18 @@ One who disputes their rabbi is like one who disputes the Divine Presence. One w
 רק בפני רבו הוא בכלל כל משנאי אהבו מות: הגה ודוקא כיחו שהוא דבר שיצא מגופו בכח אבל רוק בעלמא מותר דאנוס הוא לרוק (תא"ו נתיב ב'):
 
 
+Only in the presence of his rabbi is he included in the verse, "All who hate me love death." Gloss: And this applies specifically to phlegm, which is something that exits his body with force, but regular saliva is permitted, as he is compelled to spit (Toldot Adam v'Chavah, Netiv 2).
+
+
 ###### Shulchan Arukh, Yoreh De'ah 242:30
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:30](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:30)
 
 
 כל אלו הדברים שאמרנו שצריך לכבד בהם את רבו לא אמרו אלא ברבו מובהק דהיינו שרוב חכמתו ממנו אם מקרא מקרא אם משנה משנה אם גמרא גמרא: הגה ובימים אלו עיקר הרבנות אינו תלוי במי שלמדו הפלפול וחילוקים שנוהגים בהם בזמן הזה רק במי שלמדו פסק ההלכה והעיון והעמידו על האמת והיושר (מהרי"ק שורש ק"ע) אבל אם לא למד רוב חכמתו ממנו אינו חייב לכבדו בכל אלו הדברים אבל עומד מלפניו משיגיע לארבע אמותיו וקורע עליו כשם שהוא קורע על כל המתים שהוא מתאבל עליהם אפילו לא למד ממנו אלא דבר אחד בין קטן בין גדול עומד מלפניו וקורע עליו. (ועיין לקמן סי' ש"מ סעיף ח'):
+
+
+All these things that we said regarding the honor due to one's rabbi were only said regarding a primary rabbi (rav muvhak), meaning one from whom he derived most of his wisdom—if in Scripture, Scripture; if in Mishnah, Mishnah; if in Gemara, Gemara. Gloss: And in these days, the essence of the rabbinate does not depend on one who taught him the pilpul and distinctions that are practiced in these times, but rather on one who taught him the ruling of the halakha and the study, and established him in truth and righteousness (Maharik, root 170). But if he did not derive most of his wisdom from him, he is not obligated to honor him in all these matters. However, he must stand before him when he comes within his four cubits, and he must tear [his garments] for him just as he tears for all the dead for whom he mourns; even if he only learned one thing from him, whether small or large, he must stand before him and tear for him. (And see below, Siman 340, paragraph 8).
 
 
 ###### Shulchan Arukh, Yoreh De'ah 242:31
@@ -25809,12 +25849,18 @@ One who disputes their rabbi is like one who disputes the Divine Presence. One w
 כל תלמיד חכם שדעותיו מכוונות אינו מדבר בפני מי שגדול ממנו בחכמה אע"פ שלא למד ממנו כלום: הגה ואין לאדם להורות עד ארבעים שנה אם יש גדול ממנו בעיר אף על פי שאינו רבו (ב"י בשם הר"ן וסמ"ק ורש"י פרק הנחנקין) . חכם שאסר אין חבירו רשאי להתיר משקול הדעת אבל אם יש לו קבלה שטעה (ר' ירוחם בשם י"א) או שטעה בדבר משנה יוכל להתיר (הר"ן פ"ק דעבודת כוכבים בשם ראב"ד ורשב"א ורמב"ן ז"ל ותוס' ורא"ש ור' ירוחם סוף נתיב ב') ואפילו אם טעה בשקול הדעת יכול לישא וליתן עם המורה עד שיחזור בו (סברת הר"ן) ולכן אין איסור לשואל [לשאול] לשני (שם במרדכי ואגודה ותוס' ורא"ש ור' ירוחם שם) ובלבד שיודיע אותו שכבר הורה הראשון לאסור (רבינו ירוחם נתיב ב' ותוס' ורא"ש) ואפי' אם התיר הראשון וכבר חלה הוראתו אין לשני לאסור מכח שקול הדעת (כן משמע באשיר"י פרק קמא דעבודת כוכבים) וכל זה באותה הוראה עצמה אבל במעשה אחר פשיטא שיכול להורות מה שנראה אליו (מהרי"ק שורש קע"ב וחדושי רשב"א וע"פ):
 
 
+Any Torah scholar whose opinions are sound does not speak in the presence of one who is greater than him in wisdom, even if he did not learn anything from him. Gloss: And a person should not issue rulings until the age of forty if there is someone greater than him in the city, even if he is not his rabbi (Beit Yosef in the name of the Ran, Semak, and Rashi in chapter HaNechnakin). If a sage prohibited something, his colleague is not permitted to permit it based on logical deduction; however, if he has a tradition that he erred, or if he erred in a matter of Mishnah, he may permit it (Rabbeinu Yerocham in the name of some authorities). And even if he erred in logical deduction, he may discuss it with the one who issued the ruling until he retracts his ruling (the opinion of the Ran). Therefore, it is not forbidden for the questioner to ask a second sage (there in the Mordechai, Agudah, Tosafot, Rosh, and Rabbeinu Yerocham), provided that he informs him that the first one already ruled to prohibit it (Rabbeinu Yerocham, Netiv 2, and Tosafot and Rosh). And even if the first permitted it and his ruling has already taken effect, the second one should not prohibit it based on logical deduction (thus is implied in the Asher'i, first chapter of Avodah Zarah). And all of this is regarding that same ruling, but regarding a different case, it is obvious that he may rule what appears correct to him (Maharik, root 172, and Chiddushei Rashba, etc.).
+
+
 ###### Shulchan Arukh, Yoreh De'ah 242:32
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:32](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:32)
 
 
 הרב המובהק שמחל על כבודו בכל הדברים האלו או באחד מהם לכל תלמידיו או לאחד מהם כבודו מחול ואף על פי שמחל מצוה על התלמיד להדרו (ואסור לבזותו) (פסקי מהרא"י סימן קכ"ז):
+
+
+A primary rabbi (rav muvhak) who waives his honor regarding all these matters or one of them, for all his students or for one of them, his honor is waived. And even though he waived it, it is a mitzvah for the student to treat him with respect (and it is forbidden to treat him with disrespect).
 
 
 ###### Shulchan Arukh, Yoreh De'ah 242:33
@@ -25825,12 +25871,18 @@ One who disputes their rabbi is like one who disputes the Divine Presence. One w
 יהי כבוד תלמידך חביב עליך כשלך:
 
 
+Let the honor of your student be as dear to you as your own.(Piskei Mahari, Siman 127).
+
+
 ###### Shulchan Arukh, Yoreh De'ah 242:34
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:34](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:34)
 
 
 אבידת אביו ואבידת רבו (המובהק) (ב"י וטור ופוסקים מהש"ס) אבידת רבו קודמת ואם היה אביו שקול כנגד רבו אבידת אביו קודמת היה אביו ורבו נושאים משאוי מניח של רבו ואח"כ מניח של אביו היה אביו ורבו עומדים בבית השבי פודה את רבו ואח"כ פודה את אביו ואם היה אביו תלמיד חכם פודה את אביו ואחר כך פודה את רבו: הגה וכן מפרק משאו קודם לרבו ואע"פ שאינו שקול בחכמה כרבו אבל אין מחזיר אבידת אביו קודם עד שיהא שקול כנגד רבו (טור בשם הרא"ש והגה"מ וב"י הוכיח כן ע"ש) י"א הא דרבו קודם לאביו היינו שלומד עמו בחנם אבל אם אביו שוכר לו רבי ומלמדו אביו קודם לכל דבר (ספר החסידים) וכן נראה לי עיקר:
+
+
+Regarding the lost item of his father and the lost item of his rabbi (the primary one): The lost item of his rabbi takes precedence. And if his father was equal in wisdom to his rabbi, the lost item of his father takes precedence. If his father and his rabbi were carrying a burden, he unloads his rabbi's burden and afterwards unloads his father's. If his father and his rabbi were standing in a house of captivity, he ransoms his rabbi and afterwards ransoms his father; and if his father was a Torah scholar, he ransoms his father and afterwards ransoms his rabbi. Gloss: And likewise, he unloads his father's burden before his rabbi's, even if he is not equal in wisdom to his rabbi; but he does not return his father's lost item before his rabbi's unless he is equal in wisdom to his rabbi (Tur in the name of the Rosh and Hagahot Maimoniyot, and the Beit Yosef proves this). Some say that this rule that his rabbi takes precedence over his father applies only if he studies with him for free, but if his father hires a teacher for him and teaches him, his father takes precedence over everything (Sefer Chasidim), and thus it appears to me to be the main principle.
 
 
 ###### Shulchan Arukh, Yoreh De'ah 242:35
@@ -25841,12 +25893,18 @@ One who disputes their rabbi is like one who disputes the Divine Presence. One w
 אבידתו קודמת לשל אביו ושל רבו:
 
 
+His own lost item takes precedence over his father's and his rabbi's.
+
+
 ###### Shulchan Arukh, Yoreh De'ah 242:36
 
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:36](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/242:36)
 
 
 האומר לחבירו איני מקבל ממך אם היית כמשה מלקין אותו משום בזיון : הגה ותלמיד חכם שאמר דבר הלכה בדבר השייך לדידיה (תוס' בשם ר"ת ונ"י) אם אמרה קודם מעשה שומעין לו ואם לאו אין שומעין לו (ש"ס פ' הערל ריש (יבמות דף ע"ז) ותוס' ונ"י שם ד"מ ס"ס רמ"ה) ודוקא שאמר כך קבלתי אבל אם אומר דבר מסברא ומראה פנים לדבריו והוא נראה שומעין לו (נ"י בשם הריטב"א) אבל אין שומעין לדידיה דלמא מדמי דברים להדדי שאינן דומים אבל אם הוא פשוט שומעין לו (רבי' ירוחם סוף נתיב ב' ובשם הרא"ש):
+
+
+One who says to his fellow, "I do not accept [the ruling] from you, even if you were like Moses," is punished for insolence. Gloss: And regarding a Torah scholar who stated a matter of halakha regarding a matter pertaining to himself (Tosafot in the name of Rabbeinu Tam and Nimukei Yosef), if he said it before the act, he is listened to; and if not, he is not listened to (Talmud, chapter HaArel, beginning (Yevamot 77a) and Tosafot and Nimukei Yosef there, and Derishah at the end of Siman 245). And this applies specifically if he said, "Thus I have a tradition." But if he says a matter based on his own reasoning and shows aspects of his words, and it seems correct, he is listened to (Nimukei Yosef in the name of the Ritba). However, one should not listen to him regarding himself, lest he compare matters that are not alike. But if it is a simple matter, he is listened to (Rabbeinu Yerocham, end of Netiv 2, and in the name of the Rosh).
 
 
 
@@ -31052,7 +31110,7 @@ A house which has a doorpost here and a doorpost there, and on top there is a bo
 
 
 **With what, and how, it is written.**
-How is the mezuzah written? He writes two sections on one pane (*daf*) in a single sheet (*yeri`ah*): *Shema`* and *Wehayah im-shamo`a*. He leaves a space below and above, approx. half a pinkly-fingernail-width (*tziporen*). When beginning he should measure in order [to leave a top margin] to enable unrolling it after it's rolled. Rem"a: At the bottom he needn't leave any margin. (Tur)
+How is the mezuzah written? He writes two sections on one pane (*daf*) in a single sheet (*yeri`ah*): *Shema`* and *Vehayah im-shamo`a*. He leaves a space below and above, approx. half a pinkly-fingernail-width (*tziporen*). When beginning he should measure in order [to leave a top margin] to enable unrolling it after it's rolled. Rem"a: At the bottom he needn't leave any margin. (Tur)
 
 
 ###### Shulchan Arukh, Yoreh De'ah 288:2
@@ -31184,7 +31242,7 @@ It needs to be written with the right hand, like tefilin.
 ריוח שבין פרשת שמע לפרשת והיה אם שמוע מצוה לעשות פרשה סתומה ואם עשאה פתוח' כשרה לפי שאינה סמוכה לה בתורה:
 
 
-The space between paragraph *Shema`* and paragraph *Wehayah im-shamo`a*, it is a mitzvah to make it a closed space. If he made it an open space, it's kosher, since it's not adjacent in the Torah.
+The space between paragraph *Shema`* and paragraph *Vehayah im-shamo`a*, it is a mitzvah to make it a closed space. If he made it an open space, it's kosher, since it's not adjacent in the Torah.
 
 
 ###### Shulchan Arukh, Yoreh De'ah 288:14
@@ -37016,7 +37074,7 @@ footnotes:
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/340:10](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/r/340:10)
 
 
-אפרקסותו אינו צריך לקרוע יש מפרשין שהוא בגד הזיעה הדבוק לבשרו ויש מפרשים דהיינו בגד העליון שקורין קאפ"ה ופשט המנהג שלא לקרוע הקאפ"ה על שום מת אפי' על אביו ואמו ולקרוע על אביו ואמו גם החלוק שקורין קאמיז"ה. (כל בו בשם רבותיו הפוסקים וסמ"ק לפי' הערוך) : הגה ובמדינות אלו אין נוהגין כן אלא אין קורעין החלוק של פשתן שהוא בגד הזיעה ולא הסרבל העליון אבל שאר בגדיו קורע באביו ואמו ובשאר מתים המלבוש העליון תחת הסרבל (סמ"ג בשם רבותינו הצרפתים):
+אפרקסותו אינו צריך לקרוע יש מפרשין שהוא בגד הזיעה הדבוק לבשרו ויש מפרשים דהיינו בגד העליון שקורין קאפ"ה ופשט המנהג שלא לקרוע הקאפ"ה על שום מת אפי' על אביו ואמו ולקרוע על אביו ואמו גם החלוק שקורין קאמיז"ה. (כל בו בשם רבותיו הפוסקים וסמ"ק לפי' הערוך): הגה ובמדינות אלו אין נוהגין כן אלא אין קורעין החלוק של פשתן שהוא בגד הזיעה ולא הסרבל העליון אבל שאר בגדיו קורע באביו ואמו ובשאר מתים המלבוש העליון תחת הסרבל (סמ"ג בשם רבותינו הצרפתים):
 
 
 One is not required to rend his epikarsion.⁵⁸ ‘And the rending of one’s ἐτπκάρσιλον is not indispensable.’ Cf. *N; Asheri contra RaBaD; W.G.* a.l. Some explain that it refers to the sweat-shirt, next to his skin;⁵⁹ citing *‘Aruk.* ‘Ar. *Comp.* s.v. אפיקרסין Cf. Yad; *Ebel* VIII, 3; *T.A.* I, 164 nn. 503-5. others explain that it refers to he uppermost garment which is called Caffa.⁶⁰ And the custom has spread not to rend the Caffa for any dead whatsoever, even [not] for one's father or mother; and to rend for one's father or mother also the garment called chemise.⁶¹ citing his teachers and *SeMaK* on the basis of *‘Aruk* — *G.* *Gloss*: *In these countries we do not follow this custom*, [*but the law is that*] *we do not rend the linen garment, namely, the sweat-shirt, nor* [*do we rend*] *the top mantle*,⁶² in *Resp.* But one is required to rend his jacket both for parents of for other dead — *ibid. Ta*Z rejects this ruling, viz., to rend the jacket. For it is not definitely established that this garment should be rent according to the law, even if one should desire to adopt a stringent view, — for it may lead to a leniency in the case of other dead where only the top garment, (i.e., beneath the jacket) is required to be rent according to he law. *ShaK* in *Nek. Hak.* agrees with *Mas’ath Biny.* *Kol Bo*(*G*) I, p. 28, 7 who concludes that today we rend the vest. *but all other garments one must rend for his father or mother*,⁶³ par. 9 — *ShaK.* *and in* [*the case of*] *other dead, the top garment under the mantle*.⁶⁴ on the authority of the *French Rabbis* — *G.*

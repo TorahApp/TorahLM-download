@@ -1358,7 +1358,7 @@ On the day when the first man was created, as it is said, "In the day when thou 
 [https://torahapp.org/share/book/Pirkei%20DeRabbi%20Eliezer/r/12:12](https://torahapp.org/share/book/Pirkei%20DeRabbi%20Eliezer/r/12:12)
 
 
-וְהָיוּ מַלְאֲכֵי הַשָּׁרֵת מְהַלְּכִין וְהוֹלְכִין לְפָנָיו כְּמוֹ רוֹעִים הַמְּשַׁמְּרִים אֶת הַחֻפּוֹת, שֶׁנֶּאֱמַר (תהלים צא יא): ״כִּי מַלְאָכָיו יְצַוֶּה לָּךְ לִשְׁמָרְךָ בְּכָל דְּרָכֶיךָ״, וְאֵין דֶּרֶךְ זוֹ אֶלָּא דֶּרֶךְ חֲתָנִים. וְהַקָּדוֹשׁ בָּרוּךְ הוּא כְּחָתָן, מַה דַּרְכּוֹ שֶׁל חָתָן לַעֲמֹד וּלְבָרֵךְ לַכַּלָּה בְּתוֹךְ חֻפָּתָהּ, כָּךְ הַקָּדוֹשׁ בָּרוּךְ הוּא עָמַד וּבֵרַךְ לְאָדָם וּלְעֶזְרוֹ שֶׁנֶּאֱמַר: ״וַיְבָרֶךְ אֹתָם אֱלֹהִים״.
+וְהָיוּ מַלְאֲכֵי הַשָּׁרֵת מְהַלְּכִין וְהוֹלְכִין לְפָנָיו כְּמוֹ רוֹעִים הַמְּשַׁמְּרִים אֶת הַחֻפּוֹת, שֶׁנֶּאֱמַר (תהלים צא יא): ״כִּי מַלְאָכָיו יְצַוֶּה לָּךְ לִשְׁמָרְךָ בְּכָל דְּרָכֶיךָ״, וְאֵין דֶּרֶךְ זוֹ אֶלָּא דֶּרֶךְ חֲתָנִים. וְהַקָּדוֹשׁ בָּרוּךְ הוּא כְּחַזָּן, מַה דַּרְכּוֹ שֶׁל חַזָּן לַעֲמֹד וּלְבָרֵךְ לַכַּלָּה בְּתוֹךְ חֻפָּתָהּ, כָּךְ הַקָּדוֹשׁ בָּרוּךְ הוּא עָמַד וּבֵרַךְ לְאָדָם וּלְעֶזְרוֹ שֶׁנֶּאֱמַר: ״וַיְבָרֶךְ אֹתָם אֱלֹהִים״.
 
 
 The ministering angels were going to and fro and walking before him like friends who guard the wedding canopies, as it is said, "For he shall give his angels charge over thee, to keep thee in all thy *ways*" (Ps. 91:11). (The word) "*way*" here means only the way of bridegrooms. The Holy One, blessed be He, was like a precentor. What is the custom observed by the precentor? He stands and blesses the bride in the midst of her wedding chamber. Likewise the Holy One, blessed be He, stood and blessed Adam and his help-mate, as it is said, "And God blessed them" (Gen. 1:28).

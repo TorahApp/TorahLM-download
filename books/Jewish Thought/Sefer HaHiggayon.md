@@ -17,6 +17,8 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Jerusalem, 1948 (Segments: 233, License: Public Domain)
 
+Version (En): Sefaria Community Translation (Segments: 10)
+
 
 ## Introduction
 
@@ -40,12 +42,18 @@ Version (He): Jerusalem, 1948 (Segments: 233, License: Public Domain)
 **א** הִנֵּה כָּל עֲמַל הַשֵּׂכֶל וְהִשְׁתַּדְּלוּתוֹ הוּא לְהַשִּׂיג הַדְּבָרִים לַאֲמִתָּם. אָמְנָם, יֵשׁ שֶׁיִּקְרֶה לוֹ לִטְעוֹת בָּהֶן וְיִהְיֶה מַה שֶּׁיַּשִּׂיג מֵהֶן כּוֹזֵב, עַל כֵּן יִצְטָרֵךְ לוֹ לִמּוּד לָדַעַת לְהַכִּיר מְקוֹמוֹת הַמִּכְשׁוֹל שֶׁאֶפְשָׁר לוֹ לִכָּשֵׁל בָּם וְיֵדַע אֵיךְ יִשָּׁמֵר מֵהֶם עַד שֶׁתִּהְיֶה הַשָּׂגָתוֹ אֲמִתִּית. וּכְלָל הַלִּמּוּד הַזֶּה הוּא הַנִּקְרָא מְלֶאכֶת הַהִגָּיוֹן.
 
 
+The whole order of logic, what it is and the need for it. The transition from the sensible to the sensible and the imagined, and from the imagined to the abstract and the imagined, and from the imagined to the abstract and the imagined. Here is the whole work of the intellect and its endeavor to attain the truth of things. Indeed, it may happen that it errs in them, and what it attains from them will be false; therefore it will need instruction to recognize the places where error may occur and know how to guard against them until its cognition becomes correct. And the whole of this instruction is what is called the discipline of logic.
+
+
 ###### Sefer HaHiggayon 1:2
 
 [https://torahapp.org/share/book/Sefer%20HaHiggayon/r/1:2](https://torahapp.org/share/book/Sefer%20HaHiggayon/r/1:2)
 
 
 **ב** עִקַּר מְלֶאכֶת הַשֵּׂכֶל בְּבַקָּשָׁתוֹ יְדִיעַת הַדְּבָרִים הוּא הַהַבְחָנָה עַד שֶׁיַּכִּיר כָּל דָּבָר וְדָבָר בִּפְנֵי עַצְמוֹ נִבְחָן וְנִבְדָּל מִכָּל זוּלָתוֹ. אָמְנָם בִּהְיוֹת שֶׁכְּלָל הַמְּצִיאֻיּוֹת יֵשׁ בָּהֶם מַה שֶׁדּוֹמֶה הָאֶחָד לְזוּלָתוֹ וְיֵשׁ בָּהֶם מַה שֶׁנִּבְדָּל הָאֶחָד מִזּוּלָתוֹ, עַל כֵּן לֹא יַגִּיעַ הַשֵּׂכֶל לְסוֹף מְלַאכְתּוֹ עַד שֶׁיִּשְׁתַּלֵּם בִּשְׁתֵּי הַפְּעֻלּוֹת, שֶׁהֵם: הַדִּמְיוֹן וְהַהֶבְדֵּל.
+
+
+The essential activity of the intellect in its pursuit of knowledge is examination, until it recognizes each thing as distinct in itself and distinguished from all else. However, since in all beings there are things that resemble one another and things that differ from one another, the intellect will not complete its task unless it is perfected in both operations, which are: comparison and distinction.
 
 
 ###### Sefer HaHiggayon 1:3
@@ -56,12 +64,18 @@ Version (He): Jerusalem, 1948 (Segments: 233, License: Public Domain)
 **ג** בְּכָל אֶחָד מִשְּׁתֵּי הַפְּעֻלּוֹת יָכוֹל לִפֹּל הַטָּעוּת אִם יְדַמֶּה מַה שֶּׁאֵינוֹ דוֹמֶה, אוֹ יַבְדִּיל מַה שֶּׁלֹּא נִבְדָּל. עַל כֵּן לִשְׁתֵּיהֶן צָרִיךְ לִמּוּד וְאִמּוּן וְחֻקִּים מְסֻדָּרִים, שֶׁיַּעֲמִידוּהוּ בַּנָּתִיב הַיָּשָׁר וְלֹא יִשְׁגֶּה מִמֶּנּוּ, עַד שֶׁיַּשִּׂיג תַּכְלִיתוֹ עַל נָכוֹן.
 
 
+In each of these two operations, error may occur: by treating as similar what is not similar, or by distinguishing what is not truly distinct. Therefore both require study, training, and ordered rules that will keep one on the correct path and prevent deviation, until the goal is properly achieved.
+
+
 ###### Sefer HaHiggayon 1:4
 
 [https://torahapp.org/share/book/Sefer%20HaHiggayon/r/1:4](https://torahapp.org/share/book/Sefer%20HaHiggayon/r/1:4)
 
 
 **ד** כְּלָל הַמְּצִיאֻיּוֹת יִתְחַלֵּק לִשְׁנֵי חֲלָקִים. הָרִאשׁוֹן: מֻרְגָּשׁ אוֹ מוּחָשׁ; וְהַשֵּׁנִי: מֻשְׂכָּל. הַמֻּרְגָּשׁ הוּא שֶׁמֻּשָּׂג מִן אַחַד הַחוּשִׁים; הַמֻּשְׂכָּל הוּא אֲשֶׁר יְדַמֵּהוּ הַשֵּׂכֶל בְּדִמְיוֹנוֹ, אַךְ אֵין מְצִיאוּתוֹ כֵּן חוּץ מִמֶּנּוּ, וִיחֻלַּק גַּם הוּא לִשְׁנַיִם, הָאֶחָד מֻפְרָד וְהָאֶחָד מְדֻמֶּה. פֵּרוּשׁוֹ: הַמּוּחָשׁ הוּא, דֶּרֶךְ מָשָׁל, הָאֶבֶן וְהָעֵץ, שֶׁרוֹאִים אוֹתוֹ בְחוּשׁ; וְהַמֻּשְׂכָּל – כְּגוֹן הַחָכְמָה, הַזִּכָּרוֹן, הַגְּבוּרָה, שֶׁהֵם דְּבָרִים שֶׁמַּשְׂכִּילִים וּמְצַיְּרִים אוֹתָם בַּשֵּׂכֶל, אַךְ אֵין הַחוּשׁ רוֹאֶה אוֹתָם.
+
+
+All of reality is divided into two parts. The first: the sensible; and the second: the intelligible. The sensible is that which is perceived by one of the senses; the intelligible is that which the intellect grasps, even though it has no sensory existence outside the mind. And it is also divided into two: the abstracted and the imagined. The explanation: the sensible is, for example, stone and tree, which are perceived by the senses; while the intelligible includes concepts such as wisdom, memory, and courage, which are grasped by the intellect, even though they are not seen by the senses.
 
 
 ###### Sefer HaHiggayon 1:5
@@ -72,12 +86,18 @@ Version (He): Jerusalem, 1948 (Segments: 233, License: Public Domain)
 **ה** הַמֻּפְרָד הוּא – שֶׁמַּה שֶּׁאֵינוֹ מֻשָּׂג מִן הַחוּשִׁים אֶלָּא בְחִבּוּר עִם זוּלָתוֹ, יַפְרִידֵהוּ הַשֵּׂכֶל בְּדִמְיוֹנוֹ וְיִקָּחֵהוּ לְבַדּוֹ. הַמְדֻמֶּה הוּא – אֲשֶׁר אֵינוֹ מֻשָּׂג מִן הַחוּשִׁים כְּלָל לֹא לְבַדּוֹ וְלֹא בְחִבּוּר אֶלָּא הַשֵּׂכֶל הוּא אֲשֶׁר יְדַמֶּה אוֹתוֹ, וְיִתְחַלֵּק גַּם הוּא לִשְׁנַיִם, הָרִאשׁוֹן מֻשָּׂג וְהַשֵּׁנִי בָדוּי. פֵּרוּשׁוֹ: הַמַּרְאֶה, דְּהַיְנוּ הַלֹּבֶן וְהַשַׁחֲרוּת וּשְׁאָר הַגְּוָנִים אֵין הַחוּשׁ רוֹאֶה אוֹתָם לְבַדָּם אֶלָּא נְתוּנִים בְּאֶחָד מִן הַגּוּפִים, אַךְ הַשֵּׂכֶל מְצַיֵּר הַלֹּבֶן הֱיוֹתוֹ עִנְיָן אֶחָד נוֹסָף עַל הַגּוּף שֶׁהוּא בְתוֹכוֹ, וְנִקְרָא שֶׁמַּפְרִידוֹ בְדִמְיוֹנוֹ מִן הַגּוּף שֶׁהוּא נָתוּן בּוֹ וְזֶהוּ הַמֻּפְרָד, אַךְ הַמְדֻמֶּה אֵינוֹ כֵן, וְיִתְבָּאֵר בַּסִּמָּן שֶׁלְּפָנֵינוּ.
 
 
+The abstracted is that which is not perceived by the senses on its own, but only within something else, and the intellect abstracts it in thought and considers it independently. The imagined is that which is not perceived by the senses at all, neither on its own nor within something else, but the intellect represents it in imagination. And it is divided into two: that which has a basis in reality and that which is purely fictional. For example: color such as whiteness and blackness and the rest of the colors are not seen separately by the senses, but as qualities within bodies; yet the intellect abstracts whiteness as a distinct notion apart from the body in which it appears — this is the abstracted. But the purely imagined is not like this, and will be explained in what follows.
+
+
 ###### Sefer HaHiggayon 1:6
 
 [https://torahapp.org/share/book/Sefer%20HaHiggayon/r/1:6](https://torahapp.org/share/book/Sefer%20HaHiggayon/r/1:6)
 
 
 **ו** הַמֻּשָּׂג הוּא הַדָּבָר שֶׁאַף עַל פִּי שֶׁאֵין מְצִיאוּתוֹ הֹוֶה בְּמַה שֶׁמּוּחָש, רָאוּי לִמְצֹא לְפִי הַהַדְרָגָה, וְנִמְשָׁךְ הַמּוּחָשׁ אַחֲרָיו בְּסֵדֶר, וְהַבָּדוּי הוּא אֲשֶׁר אֵינֶנּוּ לֹא הֹוֶה וְלֹא רָאוּי וְלֹא הַמּוּחָשׁ נִמְשָׁךְ אַחֲרָיו בְּסֵדֶר. פֵּרוּשׁוֹ: הַמֻּשָּׂג הוּא – שֶׁמִּמַּה שֶּׁאָנוּ רוֹאִים בְּחוּשׁ אֲנַחְנוּ דָנִים עַל מְצִיאוּת שֶׁאֵין אָנוּ רוֹאִים. דֶּרֶךְ מָשָׁל: אָנוּ רוֹאִים שֶׁיֵּשׁ בְּנֵי אָדָם וְהֵם חַיִּים, בְּהֵמוֹת וְגַם הֵם חַיִּים, עוֹפוֹת וְגַם הֵם כָּךְ, נֹאמַר שֶׁיֵּשׁ מִין אֶחָד שֶׁל בְּרִיאָה בֵּין הַבְּרִיאוֹת שִׁנִּקְרָא מִין הַבַּעֲלֵי חַיִּים, וְאֵין הַמִּין הַזֶּה דָּבָר הֹוֶה מַמָּשׁ זוּלַת אֵלֶּה הַפְּרָטִים שֶׁלּוֹ שֶׁזָּכַרְנוּ, אֶלָּא הַשֵּׂכֶל מְדַמֶּה כְּאִלּוּ יֵשׁ דָּבָר אֶחָד כְּלָלִי שֶׁמִּתְחַלֵּק לַחֲלָקִים פְּרָטִים, לְפִי שֶׁמִּסֵּדֶר הַהַדְרָגָה הוּא זֶה שֶׁיִּהְיֶה הַכְּלָל וְאַחַר כָּךְ הַפְּרָט, כְּמוֹ הָאִילָן וַעֲנָפָיו, וְנִמְצָא שֶׁהַמּוּחָשׁ נִמְשָׁךְ בְּהַדְרָגָה אַחַר הַמְדֻמֶּה, כְּאִלּוּ הָיָה הַמְדֻּמֶּה הַהוּא עִקָּר וְהַמּוּחָשׁ עֲנָפִים מִמֶּנּוּ. מַה שֶּׁאֵין כֵּן הַבָּדוּי, שֶׁהוּא דִמְיוֹן לְבַד, וְאֵין דָּבָר בַּמּוּחָשׁ שֶׁנָּדוּן מִמֶּנּוּ הֱיוֹת הַבָּדוּי הַהוּא.
+
+
+The concept is that which, although it has no independent existence in the sensory world, is derived in an ordered way from what is perceived, and the sensory follows it in sequence. The fictional, however, is that which has no grounding in reality, nor is it derived from what is sensed in any ordered way. Its meaning: the concept is that through which, from what we see by the senses, we judge about things we do not directly see. For example: we see human beings, animals, and birds, and that they are alive; and we conclude that there is a general class called “living beings,” which is not a separate entity in itself but is understood from these particulars. Thus the universal follows from the particulars in an ordered manner, like a tree and its branches. And in this way the sensible is extended through the intelligible order, as though the universal were the root and the particulars were its branches. This is not the case with the purely imagined, which is only imagination, and there is nothing in the sensible world from which it can be properly inferred.
 
 
 
@@ -92,6 +112,9 @@ Version (He): Jerusalem, 1948 (Segments: 233, License: Public Domain)
 **א** עַד הֵנָּה בֵּאַרְנוּ עִנְיְנֵי הַהַשָּׂגָה וּמַחְלְקוֹתֶיהָ, עַתָּה נְבָאֵר הַמֻּשָּׂגִים לְמַחְלְקוֹתֵיהֶם.
 
 
+Substance, Accident, and their general principles. A Up to this point we have explained matters concerning cognition and its divisions; now we shall explain the concepts according to their classifications.
+
+
 ###### Sefer HaHiggayon 2:2
 
 [https://torahapp.org/share/book/Sefer%20HaHiggayon/r/2:2](https://torahapp.org/share/book/Sefer%20HaHiggayon/r/2:2)
@@ -101,12 +124,18 @@ Version (He): Jerusalem, 1948 (Segments: 233, License: Public Domain)
 פֵּרוּשׁוֹ: בֵּין הַמֻּשָּׂגִים הַמּוּחָשִׁים וְהַמֻּשׂכָּלִים שֶׁנִּתְבָּאֲרוּ לְמָעְלָה.
 
 
+B Every concept is either substance or accident. Its meaning: among the sensible and intelligible concepts explained above.
+
+
 ###### Sefer HaHiggayon 2:3
 
 [https://torahapp.org/share/book/Sefer%20HaHiggayon/r/2:3](https://torahapp.org/share/book/Sefer%20HaHiggayon/r/2:3)
 
 
 **ג** עֶצֶם – הוּא הַדָּבָר הַמַּמָּשִׁיִּי שֶׁעֲמִידָתוֹ בְעַצְמוֹ וְלֹא בְאַחֵר, וּבוֹ עוֹמְדִים הַמִּקְרִים הַמִּתְחַבְּרִים לוֹ. פֵּרוּשׁוֹ: דֶּרֶךְ מָשָׁל, עֶצֶם הָאֶבֶן, הָעֵץ, הַבַּעַל־חַיִּים וְכָל הַנִּמְצָאִים רוּחָנִים וְגַשְׁמִים.
+
+
+C Substance is that which exists in itself and not in another, and in which the accidents that are attached to it subsist. Its meaning: for example, the substance of a stone, a tree, an animal, and all existing things, whether spiritual or material.
 
 
 ###### Sefer HaHiggayon 2:4
@@ -124,6 +153,9 @@ Version (He): Jerusalem, 1948 (Segments: 233, License: Public Domain)
 3 מִקְרֶה מִבִּלְתִּי עֶצֶם נִמְנָע. 
 4 הַמִּקְרֶה לֹא יִתְגַּלְגֵּל מִנּוֹשֵׂא לְנוֹשֵׂא אוֹ מֵעֶצֶם לְעֶצֶם. 
 פֵּרוּשׁוֹ: כִּי הָעֶצֶם הוּא סוֹבֵל מִקְרִים רַבִּים וְיִסְבֹּל מִקְרֶה אֶחָד בִּזְמַן אֶחָד וְאַחַר כָּךְ יִסְבֹּל מִקְרֶה אַחֵר, וְהָעֶצֶם שֶׁסָּבַל הָאֶחָד הוּא שֶׁסּוֹבֵל הַשֵּׁנִי. אַךְ הַמִּקְרֶה שֶׁקּוֹרֶה לָעֶצֶם לֹא יוּכַל לָצֵאת מִמֶּנּוּ וּלְהִתְחַבֵּר אֶל עֶצֶם אַחֵר, אֶלָּא מַה שֶׁקָּרָה לְאֶחָד כְּבָר כָּלָה בְּהֶעְדֵּרוֹ מִמֶּנּוּ, וּמַה שֶּׁיִּקְרֶה לְעֶצֶם אַחֵר – דָּבָר חָדָשׁ וְאֵינוֹ הָרִאשׁוֹן.
+
+
+D Accident is that which exists in a substance and subsists in it, and cannot exist independently of a substance. For example, the appearance mentioned above, beauty, and wisdom, which do not exist by themselves but are found in one of the substances. General principles of accident
 
 
 

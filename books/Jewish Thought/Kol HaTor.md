@@ -14,9 +14,9 @@ Location: Jewish Thought/Acharonim
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Kol HaTor (Segments: 228, License: CC-BY-SA)
+Version (He): Kol HaTor: Chapter 3 (Segments: 228)
 
-Version (En): Kol HaTor (Segments: 217)
+Version (En): Kol HaTor : Chapter 3 (Segments: 217)
 
 
 ## Chapter 1

@@ -14,7 +14,7 @@ Location: Kabbalah/Ramak
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Or Neerav, Furth 1701. (Segments: 1394, License: Public Domain)
+Version (He): Or Neerav -- grimoar (Segments: 1394, License: Public Domain)
 
 Version (En): Moses Cordovero's Introduction to Kabbalah, Annotated trans. of Or ne'erav, Ira Robinson, 1994. (Segments: 1394)
 
@@ -2646,7 +2646,7 @@ footnotes:
 [https://torahapp.org/share/book/Ohr%20Ne%27erav/s/PART%20II/r/1:8](https://torahapp.org/share/book/Ohr%20Ne%27erav/s/PART%20II/r/1:8)
 
 
-"המצוה הזה הוא אלהי העולם אדון כל הארץ, והוא המנהיג הגלגל בכח שאין לו קץ ותכלית בכח שאין לו הפסק, שהגלגל סובב תמיד ואי אפשר שיסוב בלא מסבב, והוא ברוך הוא המסבב אותו בלא יד ובלא גוף, וידיעת דבר זה מצות עשה שנאמר אנכי ה׳‎ אלהיך".
+"המצוי הזה הוא אלהי העולם אדון כל הארץ, והוא המנהיג הגלגל בכח שאין לו קץ ותכלית בכח שאין לו הפסק, שהגלגל סובב תמיד ואי אפשר שיסוב בלא מסבב, והוא ברוך הוא המסבב אותו בלא יד ובלא גוף, וידיעת דבר זה מצות עשה שנאמר אנכי ה׳‎ אלהיך".
 
 
 This existent is the God of the universe, Lord over all the world. It is He who conducts [the motion of the] sphere with a force which has no end or limit or interruption. For the sphere turns continually, and it is impossible that it should turn without a turner. He, blessed be He, turns it with neither hand nor body. Knowledge of this matter is a positive commandment, as it is written, *I am the Lord your God*.
@@ -4454,7 +4454,7 @@ Worthy are those righteous for whom much good is stored away for that [future] w
 [https://torahapp.org/share/book/Ohr%20Ne%27erav/s/PART%20IV/r/2:18](https://torahapp.org/share/book/Ohr%20Ne%27erav/s/PART%20IV/r/2:18)
 
 
-על אלין כתיב (ישעיה סד), "עין לא ראתה אלהים זולתך יעשה למחכה לו", כמה דאתמר (איוב לג) , "חכה את איוב בדברים",
+על אלין כתיב (ישעיה סד), "עין לא ראתה אלהים זולתך יעשה למחכה לו", כמה דאתמר (איוב לב) , "חכה את איוב בדברים",
 
 
 Of these it is written: *No eye has seen [them], O God, but You, who act for those who trust in Him* (Isa. 64:3). As Scripture says: *[Elihu] waited out Job’s speech* (Job 32:4).
@@ -13096,7 +13096,7 @@ footnotes:
 [https://torahapp.org/share/book/Ohr%20Ne%27erav/s/PART%20VII,_Letter%20Ayin/r/61](https://torahapp.org/share/book/Ohr%20Ne%27erav/s/PART%20VII,_Letter%20Ayin/r/61)
 
 
-עשון – כל הספירות במלכות:
+עשרון – כל הספירות במלכות:
 
 
 *’Issaron* (“One Tenth”). All the sefirot in Malkhut.

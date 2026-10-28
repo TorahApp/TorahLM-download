@@ -511,7 +511,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 2)
 [https://torahapp.org/share/book/Malbim%20Beur%20Hamilot%20on%20Psalms/r/6:7:1](https://torahapp.org/share/book/Malbim%20Beur%20Hamilot%20on%20Psalms/r/6:7:1)
 
 
-**מטתי, ערשי.** כבר התבאר (עמוס ג' י"ב) שמטה כולל על העשוי שיטה אדם עליו על צדו, ושרשו נטה, והערש עשוי בצורה מיוחדת למשכב הקטנים והחולים והנשים, ובכלים (פ"ט ז') המטה והעריסה, ופי' רש"י בסנהדרין (דף כ') עריסה עריסת תיקונות.
+**מטתי, ערשי.** כבר התבאר (עמוס ג' י"ב) שמטה כולל על העשוי שיטה אדם עליו על צדו, ושרשו נטה, והערש עשוי בצורה מיוחדת למשכב הקטנים והחולים והנשים, ובכלים (פ"ט ז') המטה והעריסה, ופי' רש"י בסנהדרין (דף כ') עריסה עריסת תינוקות.
 
 
 ###### Malbim Beur Hamilot on Psalms 6:7:2
@@ -5235,7 +5235,7 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 2)
 [https://torahapp.org/share/book/Malbim%20Beur%20Hamilot%20on%20Psalms/r/49:10:1](https://torahapp.org/share/book/Malbim%20Beur%20Hamilot%20on%20Psalms/r/49:10:1)
 
 
-**לנצח.** מציין תמיד זמן הנצחי של האלהי והנשמה והרוחנים שהם למעלה מן הזמן שנקרא בשם עולם, כמ"ש (ישעיה סי' נ"ז):
+**לנצח.** מציין תמיד זמן הנצחי של האלהי והנשמה והרוחנים שהם למעלה מן הזמן שנקרא בשם עולם, כמ"ש (ישעיה סי' נ"ו):
 
 
 

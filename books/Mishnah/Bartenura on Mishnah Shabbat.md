@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): On Your Way (Segments: 886, License: Public Domain)
 
-Version (En): Bartenura on Mishnah, trans. by Rabbi Robert Alpert, 2020 (Segments: 869)
+Version (En): Sefaria Community Translation (Segments: 869)
 
 
 ## Chapter 1

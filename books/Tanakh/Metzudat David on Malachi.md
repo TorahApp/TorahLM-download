@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat David/Prophets
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 138, License: Public Domain)
+Version (He): On Your Way (Segments: 139, License: Public Domain)
 
 
 ## Chapter 1
@@ -122,12 +122,23 @@ Version (He): On Your Way (Segments: 138, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Malachi/r/1:6:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Malachi/r/1:6:1)
 
 
-**בן יכבד.** מוסב למעלה לומר הואיל וכן הוא שאני אוהב אתכם מפאת עצמיכם הלא דרך הבן לכבד אביו על כי אביו אהבו ואמרתם ואם תאמרו בדבר מה אנו מתעבים ומטנפים קרבנך:
+**בן יכבד.** מוסב למעלה לומר הואיל וכן הוא שאני אוהב אתכם מפאת עצמיכם הלא דרך הבן לכבד אביו על כי אביו אהבו:
 
 
-###### Metzudat David on Malachi 1:6:2
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Malachi/r/1:6:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Malachi/r/1:6:2)
+### Verse 7
+
+###### Metzudat David on Malachi 1:7:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Malachi/r/1:7:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Malachi/r/1:7:1)
+
+
+**ואמרתם.** ואם תאמרו בדבר מה אנו מתעבים ומטנפים קרבנך:
+
+
+###### Metzudat David on Malachi 1:7:2
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Malachi/r/1:7:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Malachi/r/1:7:2)
 
 
 **באמרכם.** ר״ל אשיב לכם במה שאתם אומרים שלחן ה׳ והוא המזבח שמסדרים עליו הקרבן לגבוה הוא נבזה כי נזרק עליו הדם ונקטר עליו החלב שנפשו של אדם קצה בהם:

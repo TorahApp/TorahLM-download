@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat Zion/Prophets
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 270, License: Public Domain)
+Version (He): On Your Way (Segments: 269, License: Public Domain)
 
 Version (En): Sefaria Community Translation (Segments: 1)
 
@@ -125,7 +125,7 @@ Version (En): Sefaria Community Translation (Segments: 1)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Joshua/r/1:9:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Joshua/r/1:9:2)
 
 
-**תערוץ ותחת.** שתיהם ענין פחד, כמו (דברים ז כא) לא תערוץ מפניהם וכו׳ ; (שם א כא) ואל תחת:
+**תערוץ ותחת.** שתיהם ענין פחד, כמו (דברים ז כא) לא תערוץ מפניהם וכו׳; (שם א כא) ואל תחת:
 
 
 
@@ -466,7 +466,7 @@ Version (En): Sefaria Community Translation (Segments: 1)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Joshua/r/3:13:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Joshua/r/3:13:1)
 
 
-**נד.**תל וקבוץ אחת, וכן (שמות טו ח) נצבו כמו נד נוזלים:
+**נד.** תל וקבוץ אחת, וכן (שמות טו ח) נצבו כמו נד נוזלים:
 
 
 
@@ -801,19 +801,22 @@ Version (En): Sefaria Community Translation (Segments: 1)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Joshua/r/6:21:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Joshua/r/6:21:1)
 
 
-**לפי חרב.** החדוד של החרב נקרא ׳פה׳ בלשון המקרא (כמו בתהלים קמט ו:
-
-
-###### Metzudat Zion on Joshua 6:21:2
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Joshua/r/6:21:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Joshua/r/6:21:2)
-
-
-**וחרב פיפיות) (א) וימעלו.** ענין חטא ופשע:
+**לפי חרב.** החדוד של החרב נקרא ׳פה׳ בלשון המקרא (כמו בתהלים קמט ו: וחרב פיפיות):
 
 
 
 ## Chapter 7
+
+
+### Verse 1
+
+###### Metzudat Zion on Joshua 7:1:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Joshua/r/7:1:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Joshua/r/7:1:1)
+
+
+**וימעלו.** ענין חטא ופשע:
+
 
 
 ### Verse 2
@@ -2137,17 +2140,6 @@ Version (En): Sefaria Community Translation (Segments: 1)
 
 
 ## Chapter 17
-
-
-### Verse 1
-
-###### Metzudat Zion on Joshua 17:1:1
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Joshua/r/17:1:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Joshua/r/17:1:1)
-
-
-**.**:
-
 
 
 ### Verse 5

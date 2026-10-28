@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Likutei Etzot - rabenubook.com (Segments: 1308, License: unknown)
 
-Version (En): Advice. Breslov Research Inst., 2015 (Segments: 1253)
+Version (En): Sefaria Community Translation (Segments: 1253)
 
 
 ## Introduction to First Edition
@@ -14266,7 +14266,7 @@ When those who were far from holiness draw closer — whether they are proselyte
 [https://torahapp.org/share/book/Likkutei%20Etzot/s/Repentance/r/13](https://torahapp.org/share/book/Likkutei%20Etzot/s/Repentance/r/13)
 
 
-[יג]. עַל־יְדֵי עֲנָוָה וְשִׁפְלוּת בְּתַכְלִית זוֹכִין לְתוֹרָה, עַד שֶׁיּוּכַל לְהָאִיר בְּלִמּוּד תּוֹרָתוֹ בְּשָׁרְשֵׁי נִשְׁמוֹת יִשְׂרָאֵל הַמֻּשְׁרָשִׁים בַּתּוֹרָה, וְעַל־יְדֵי זֶה יוּכַל לְהָאִיר וּלְעוֹרֵר בִּתְשׁוּבָה אֲפִלּוּ הָרְחוֹקִים מִמֶּנּוּ כַּמָּה פַּרְסָאוֹת. וַאֲפִלּוּ פּוֹשְׁעֵי יִשְׂרָאֵלף כָּל זְמַן שֶׁשֵּׁם יִשְׂרָאֵל נִקְרָא עָלָיו, אַף עַל פִּי שֶׁחָטָא יִשְׂרָאֵל הוּא, יְכוֹלִים לְהָאִיר לוֹ אֶל מָקוֹם שֶׁהוּא הֶאָרָה מִשֹּׁרֶשׁ נִשְׁמָתוֹ עַל־יְדֵי הַתּוֹרָה, וְעַל־יְדֵי זֶה חוֹזֵר בִּתְשׁוּבָה: (שם אות ג' ה')
+[יג]. עַל־יְדֵי עֲנָוָה וְשִׁפְלוּת בְּתַכְלִית זוֹכִין לְתוֹרָה, עַד שֶׁיּוּכַל לְהָאִיר בְּלִמּוּד תּוֹרָתוֹ בְּשָׁרְשֵׁי נִשְׁמוֹת יִשְׂרָאֵל הַמֻּשְׁרָשִׁים בַּתּוֹרָה, וְעַל־יְדֵי זֶה יוּכַל לְהָאִיר וּלְעוֹרֵר בִּתְשׁוּבָה אֲפִלּוּ הָרְחוֹקִים מִמֶּנּוּ כַּמָּה פַּרְסָאוֹת. וַאֲפִלּוּ פּוֹשְׁעֵי יִשְׂרָאֵל, כָּל זְמַן שֶׁשֵּׁם יִשְׂרָאֵל נִקְרָא עָלָיו, אַף עַל פִּי שֶׁחָטָא יִשְׂרָאֵל הוּא, יְכוֹלִים לְהָאִיר לוֹ אֶל מָקוֹם שֶׁהוּא הֶאָרָה מִשֹּׁרֶשׁ נִשְׁמָתוֹ עַל־יְדֵי הַתּוֹרָה, וְעַל־יְדֵי זֶה חוֹזֵר בִּתְשׁוּבָה: (שם אות ג' ה')
 
 
 When a person is completely humble and lowly he can reach such a level of attainment in Torah that his very learning can bring radiance to the roots of the souls of Israel, which are to be found in the Torah. He has the power to radiate even to those who are very distant, even to the sinners and those who are farthest removed from Torah. He can arouse them and encourage them to return to God. No matter how greatly a person may have sinned, as long as he is still called by the name of Israel he is still a Jew in spite of his sins, and the radiance of the root of his soul can be transmitted to him wherever he may be by means of the study of Torah. Then he will return to God (*Ibid.* 3-5).

@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Vocalized Edition (Segments: 722)
 
-Version (En): Yalkut, Sifsei Chachomim Chumash, Metsudah Publications, 2009 (Segments: 694)
+Version (En): Sefaria Community Translation (Segments: 699)
 
 
 ## Chapter 1
@@ -436,7 +436,7 @@ He has now decided to deliver us into the hands of the Emorite even though He is
 **וַיַּשְׁמִידוּם.** עֵשָׂו וּמוֹאָב הִשְׁמִידוּ וְהֶחֱרִיבוּ יִשּׁוּב יוֹתֵר מִכְּדֵי צֹרֶךְ יִשּׁוּבָם, כְּדֵי לְהַשְׁמִיד כָּל הַיּוֹשְׁבִים בָּהּ לְפָנִים בַּל יָקוּמוּ וְיִירְשׁוּ אָרֶץ. כִּי גַּם מוֹאָב גַּם עֵשָׂו לֹא מִלְאוּ אֶת כָּל יִשּׁוּב הַחוֹרִי וְיִשּׁוּב הָאֵימִים שֶׁהִשְׁמִידוּ. וּבִהְיוֹת הַר שֵׂעִיר מַגִּיעַ עַד גְּבוּל מוֹאָב, וְשָׁם אֵצֶל גְּבוּל מוֹאָב אֵין שׁוּם יוֹשֵׁב מִבְּנֵי עֵשָׂו, וְכֵן גְּבוּל מוֹאָב מַגִּיעַ עַד הַמִּדְבָּר וְשָׁם אֵצֶל הַמִּדְבָּר אֵין שׁוּם יִשּׁוּב מִבְּנֵי מוֹאָב, לְכָךְ אָמַר שֶׁמִּכָּל מָקוֹם לֹא יַעַבְרוּ דֶּרֶךְ גְּבוּל שׁוּם אֶחָד מֵהֶם.
 
 
-וישמידום. Esau and Moav destroyed more land and people than they needed for themselves. They did so in order to wipe out all the former people residing there so that they could not one day avenge their defeat. This was a totally unjustifiable genocide. Neither Esau nor Moav populated all the land under their control The area known as Har Seir bordered on areas formerly belonging to Moav and was unpopulated by any members of the tribe of Esau. The same was true on the other side of that boundary; it was not populated by any Moabites. This is why Moses is speaking of G’d having told him that although this was in effect “no-man’s land,” the Israelites were not even to traverse this region, as, nominally, it belonged to either the descendants of Lot or those of Esau.
+וישמידום. Esau and Moav destroyed more land and people than they needed for themselves. They did so in order to wipe out all the former people residing there so that they could not one day avenge their defeat. Neither Esau nor Moav populated all the land under their control The area known as Har Seir bordered on areas formerly belonging to Moav and was unpopulated by any members of the tribe of Esau. The same was true on the other side of that boundary; it was not populated by any Moabites. This is why Moses is speaking of G’d having told him that although this was in effect “no-man’s land,” the Israelites were not even to traverse this region, as, nominally, it belonged to either the descendants of Lot or those of Esau.
 
 
 ###### Sforno on Deuteronomy 2:12:2
@@ -696,7 +696,7 @@ He has now decided to deliver us into the hands of the Emorite even though He is
 [https://torahapp.org/share/book/Sforno%20on%20Deuteronomy/r/4:7:1](https://torahapp.org/share/book/Sforno%20on%20Deuteronomy/r/4:7:1)
 
 
-**כִּי מִי גוֹי גָּדוֹל אֲשֶׁר לוֹ אֱלֹהִים קְרֹבִים אֵלָיו.** וְהַטַּעַם שֶׁרָאוּי לְהַקְפִּיד שֶׁתִּהְיוּ נֶחְשָׁבִים חֲכָמִים וּנְבוֹנִים לְעֵינֵי הָעַמִּים, הוּא שֶׁהָאֵל יִתְבָּרַךְ קָרוֹב אֵלֵינוּ בְּכָל קָרְאֵנוּ אֵלָיו. וְזֶה יוֹרֶה שֶׁבָּחַר בָּנוּ מִכָּל הָעַמִּים. וְאִם יַחְשְׁבוּ אֶתְכֶם הָעַמִּים לְסִכְלִים, יִהְיֶה חִלּוּל ה׳ בֶּאֱמֹר ״לְכָל עַם ה׳ אֵלֶּה״ (יחזקאל לו:כ).
+**כִּי מִי גוֹי גָּדוֹל אֲשֶׁר לוֹ אֱלֹהִים קְרֹבִים אֵלָיו.** וְהַטַּעַם שֶׁרָאוּי לְהַקְפִּיד שֶׁתִּהְיוּ נֶחְשָׁבִים חֲכָמִים וּנְבוֹנִים לְעֵינֵי הָעַמִּים, הוּא שֶׁהָאֵל יִתְבָּרַךְ קָרוֹב אֵלֵינוּ בְּכָל קָרְאֵנוּ אֵלָיו. וְזֶה יוֹרֶה שֶׁבָּחַר בָּנוּ מִכָּל הָעַמִּים. וְאִם יַחְשְׁבוּ אֶתְכֶם הָעַמִּים לִסְכָלִים, יִהְיֶה חִלּוּל ה׳ בֶּאֱמֹר לָכֶם ״עַם ה׳ אֵלֶּה״ (יחזקאל לו:כ).
 
 
 כי מי גוי גדול אשר אלוקים קרובים אליו, for it will pay you to be considered intelligent and wise in the eyes of the gentiles seeing that G’d is close to us בכל קראנו אליו, whenever we call upon Him. This teaches the gentiles that we are the chosen people. If the gentiles would consider you as being fools this would be a desecration of G’d’s name for they would then ask derisively: “is this the nation that claims to be G’d’s special nation?” (compare Ezekiel 36,20)
@@ -3024,6 +3024,9 @@ and as a result of such a development ואבדם מהרה, from hunger, which is
 **וְאָמַרְתָּ אֹכְלָה בָשָׂר.** בִּלְתִּי שֶׁאֶצְטָרֵךְ לִטְרֹחַ לְהַעֲלוֹתוֹ לְבֵית הַבְּחִירָה.
 
 
+(1) AND YOU SAY, "I SHALL EAT SOME MEAT." Without my having the burden of bringing it up to the Temple.
+
+
 ###### Sforno on Deuteronomy 12:20:2
 
 [https://torahapp.org/share/book/Sforno%20on%20Deuteronomy/r/12:20:2](https://torahapp.org/share/book/Sforno%20on%20Deuteronomy/r/12:20:2)
@@ -3032,12 +3035,18 @@ and as a result of such a development ואבדם מהרה, from hunger, which is
 **כִּי תְאַוֶּה נַפְשְׁךָ לֶאֱכֹל בָּשָׂר.** גַּם כֵּן כְּשֶׁתְּאַוֶּה לֶאֱכֹל אוֹתוֹ הַחֵלֶק הַנִּתָּן לַכֹּהֲנִים מִן הַזֶּבַח.
 
 
+(2) FOR YOU HAVE THE URGE TO EAT MEAT. Also when you wish to eat that portion that is given to the priests from the sacrifice.
+
+
 ###### Sforno on Deuteronomy 12:20:3
 
 [https://torahapp.org/share/book/Sforno%20on%20Deuteronomy/r/12:20:3](https://torahapp.org/share/book/Sforno%20on%20Deuteronomy/r/12:20:3)
 
 
 **בְּכָל אַוַּת נַפְשְׁךָ תֹּאכַל בָּשָׂר.** אֲבָל לֹא חֵלֶב וָדָם, אַף עַל פִּי שֶׁהֵם חוּלִּין.
+
+
+(3) YOU MAY EAT MEAT WHENEVER YOU WISH. But not the prohibited fat or blood even though they are non-sacrificial animals.
 
 
 
@@ -4076,6 +4085,9 @@ and as a result of such a development ואבדם מהרה, from hunger, which is
 **אֲשֶׁר לֹא צִוִּיתִי.** אֲשֶׁר לֹא מִנִּיתִי בְּשׁוּם מִנּוּי בְּחִירִי, שֶׁיּוּכְלוּ לַעֲשׂוֹת כִּרְצוֹנָם, אֲבָל נָתַתִּי לָהֶם חֹק וְלֹא יַעֲבוֹר. עַל הֵיפֶךְ מַחֲשֶׁבֶת עוֹבְדֵי עֲבוֹדַת גִּלּוּלִים, שֶׁחָשְׁבוּ שֶׁלְּכָל עִיר וָעִיר יֵשׁ שַׂר יָכוֹל כִּרְצוֹנוֹ לְהֵיטִיב וּלְהָרַע, וְשֶׁהוּא מֵטִיב כְּשֶׁיַּעַבְדוּהוּ.
 
 
+(3) WHICH I DID NOT DESIGNATE (JPS: SOMETHING I NEVER COMMANDED). To which I did not assign any function of choosing, such that they could act in furtherance of their will. Rather, I gave them strict [physical] laws, which they could not transgress. This is the opposite of what the idolaters think, that each city has its tutelary spirit, which can, as it wishes, provide benefit or harm, and that it provides benefits if one worships it.
+
+
 
 ### Verse 5
 
@@ -5006,10 +5018,10 @@ so that if that becomes necessary you are already guilty of a sin of omission.
 [https://torahapp.org/share/book/Sforno%20on%20Deuteronomy/r/24:16:1](https://torahapp.org/share/book/Sforno%20on%20Deuteronomy/r/24:16:1)
 
 
-**לֹא יוּמְתוּ אָבוֹת עַל בָּנִים.** אֲפִלּוּ עַל חֵטְא הַמֶּרֶד בְּמַלְכוּת יִשְׂרָאֵל (מציעא), שֶׁמִּנְהַג הַמְּלָכִים הַקַּדְמוֹנִים הָיָה לְהָרֹג גַּם אֶת בְּנֵיהֶם, שֶׁלֹּא יָקוּמוּ לְשׂוֹנְאִים לַמַּלְכוּת. כְּעִנְיַן ״הָכִינוּ לְבָנָיו מַטְבֵּחַ בַּעֲוֹן אֲבוֹתָם, בַּל יָקֻמוּ וְיָרְשׁוּ אָרֶץ וּמָלְאוּ פְנֵי תֵבֵל עָרִים״ (ישעיהו יד:כא). פֵּרוּשׁ ״שׂוֹנְאִים״ כְּמוֹ ״וַיְהִי עָרֶךְ״ (שמואל א כח:יז). מִכָּל מָקוֹם אָסְרָה תוֹרָה לְמַלְכֵי יִשְׂרָאֵל לַהֲרֹג זֶה בִּשְׁבִיל זֶה, בְּחֶמְלַת ה׳ עַל עַמּוֹ. וְזֶה קִיֵּם אֲמַצְיָהוּ מֶלֶךְ יְהוּדָה, כְּאָמְרוֹ ״וַיְהִי כַּאֲשֶׁר חָזְקָה הַמַּמְלָכָה בְּיָדוֹ וַיַּהֲרֹג אֶת עֲבָדָיו הַמַּכִּים אֶת הַמֶּלֶךְ אָבִיו, וְאֶת בְּנֵי הַמַּכִּים לֹא הֵמִית, כַּכָּתוּב בַּתּוֹרָה בְּסֵפֶר מֹשֶׁה אֲשֶׁר צִוָּה ה׳ לֵאמֹר לֹא יוּמְתוּ אָבוֹת עַל בָּנִים וּבָנִים לֹא יוּמְתוּ עַל אָבוֹת״ (דברי הימים ב כה:ג-ד).
+**לֹא יוּמְתוּ אָבוֹת עַל בָּנִים.** אֲפִלּוּ עַל חֵטְא הַמֶּרֶד בְּמַלְכוּת יִשְׂרָאֵל (מציעא), שֶׁמִּנְהַג הַמְּלָכִים הַקַּדְמוֹנִים הָיָה לְהָרֹג גַּם אֶת בְּנֵיהֶם, שֶׁלֹּא יָקוּמוּ לְשׂוֹנְאִים לַמַּלְכוּת. כְּעִנְיַן ״הָכִינוּ לְבָנָיו מַטְבֵּחַ בַּעֲוֹן אֲבוֹתָם, בַּל יָקֻמוּ וְיָרְשׁוּ אָרֶץ וּמָלְאוּ פְנֵי תֵבֵל עָרִים״ (ישעיהו יד:כא). פֵּרוּשׁ ״שׂוֹנְאִים״ כְּמוֹ ״וַיְהִי עָרֶךְ״ (שמואל א כח:טז). מִכָּל מָקוֹם אָסְרָה תוֹרָה לְמַלְכֵי יִשְׂרָאֵל לַהֲרֹג זֶה בִּשְׁבִיל זֶה, בְּחֶמְלַת ה׳ עַל עַמּוֹ. וְזֶה קִיֵּם אֲמַצְיָהוּ מֶלֶךְ יְהוּדָה, כְּאָמְרוֹ ״וַיְהִי כַּאֲשֶׁר חָזְקָה הַמַּמְלָכָה בְּיָדוֹ וַיַּהֲרֹג אֶת עֲבָדָיו הַמַּכִּים אֶת הַמֶּלֶךְ אָבִיו, וְאֶת בְּנֵי הַמַּכִּים לֹא הֵמִית, כַּכָּתוּב בַּתּוֹרָה בְּסֵפֶר מֹשֶׁה אֲשֶׁר צִוָּה ה׳ לֵאמֹר לֹא יוּמְתוּ אָבוֹת עַל בָּנִים וּבָנִים לֹא יוּמְתוּ עַל אָבוֹת״ (דברי הימים ב כה:ג-ד).
 
 
-לא יומתו אבות על בנים, even if the crime involved was insurrection against the established authority, king, etc. It had been a widely accepted rule that kings would also execute the family members of rebels in order to ensure that the surviving relatives of such executed rebels would not form an active opposition to the king as a result of their grievance. Such matters are referred to in Isaiah 14,21 “prepare a slaughtering block for his sons because of the guilt of their father. Let them not arise to possess the earth! Then the world’s face shall be covered with towns.” The meaning of the word שונאים which I used earlier is to be understood as in Samuel I 28,17 ויהי ערך, “he became a foe.” In any event, the Torah prohibits Jewish kings from killing one person as a substitute for another; this is part of G’d’s pity for members of His people. Amatziah, King of Yehudah, abided by this legislation when he executed the servants who had killed his father but did not touch their children (Chronicles II 25, 3-4)
+לא יומתו אבות על בנים, even if the crime involved was insurrection against the established authority, king, etc. It had been a widely accepted rule that kings would also execute the family members of rebels in order to ensure that the surviving relatives of such executed rebels would not form an active opposition to the king as a result of their grievance. Such matters are referred to in Isaiah 14,21 “prepare a slaughtering block for his sons because of the guilt of their father. Let them not arise to possess the earth! Then the world’s face shall be covered with towns.” The meaning of the word שונאים which I used earlier is to be understood as in Samuel I 28,16 ויהי ערך, “he became a foe.” In any event, the Torah prohibits Jewish kings from killing one person as a substitute for another; this is part of G’d’s pity for members of His people. Amatziah, King of Yehudah, abided by this legislation when he executed the servants who had killed his father but did not touch their children (Chronicles II 25, 3-4)
 
 
 
@@ -7173,6 +7185,9 @@ Do not relate to Him differently on account of what you hear in my song about Is
 
 
 **יַעֲקֹב חֶבֶל נַחֲלָתוֹ.** שֶׁהוּא וּבָנָיו עֲבָדִים לָאֵל יִתְעַלֶּה, אֲבָל בְּאֻמּוֹת הָעוֹלָם אִם יִמָּצֵא בֵּינֵיהֶם אֵיזֶה חָסִיד, לֹא יִמָּשֵׁךְ זֶה לְבָנָיו.
+
+
+(2) YA'AKOV, HIS OWN ALLOTMENT. For he and his children were servants to God, may He be exalted, but with the nations of the world, if there be found among them a saint, that would not extend to his children.
 
 
 

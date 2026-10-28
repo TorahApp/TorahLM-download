@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat David/Writings
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 808, License: Public Domain)
+Version (He): On Your Way (Segments: 809, License: Public Domain)
 
 
 ## Chapter 1
@@ -1218,12 +1218,23 @@ Version (He): On Your Way (Segments: 808, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Daniel/r/2:33:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Daniel/r/2:33:1)
 
 
-**שקוהי.** שוקיו היו של ברזל רגליו מקצתם היו של ברזל ומקצתם של חרס ר״ל מקצת של כל רגל היה של ברזל ומקצתו של חרס (לד) חזה הוית. רואה היית עומד על עמדו עד אשר נכרת אבן מעצמו אשר לא בידי אדם:
+**שקוהי.** שוקיו היו של ברזל רגליו מקצתם היו של ברזל ומקצתם של חרס ר״ל מקצת של כל רגל היה של ברזל ומקצתו של חרס:
 
 
-###### Metzudat David on Daniel 2:33:2
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Daniel/r/2:33:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Daniel/r/2:33:2)
+### Verse 34
+
+###### Metzudat David on Daniel 2:34:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Daniel/r/2:34:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Daniel/r/2:34:1)
+
+
+**חזה הוית.** רואה היית עומד על עמדו עד אשר נכרת אבן מעצמו אשר לא בידי אדם:
+
+
+###### Metzudat David on Daniel 2:34:2
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Daniel/r/2:34:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Daniel/r/2:34:2)
 
 
 **ומחת.** והכה להצלם על רגליו אשר מברזל וחרס ושחק אותם דק דק:
@@ -3253,7 +3264,7 @@ Version (He): On Your Way (Segments: 808, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Daniel/r/6:5:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Daniel/r/6:5:3)
 
 
-**סל קבל.** בעבור אשר היה נאמן וכל דבר משגה והשחתה לא נמצא עליו:
+**כל קבל.** בעבור אשר היה נאמן וכל דבר משגה והשחתה לא נמצא עליו:
 
 
 
@@ -4617,7 +4628,7 @@ Version (He): On Your Way (Segments: 808, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Daniel/r/8:22:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Daniel/r/8:22:1)
 
 
-**והנשברת.** ומה שראית כי נשברה הקרן הגדולה ותעמודנה ארבע תחתיה ירמז על כי כאשר יתחזק אלכסנדרוס עד מאוד ימות הוא ובמקומו יעמדו ארבע מלכיות בארבע הרוחות והם רומא ומצרים וא ״י ופרס האמורים למעלה:
+**והנשברת.** ומה שראית כי נשברה הקרן הגדולה ותעמודנה ארבע תחתיה ירמז על כי כאשר יתחזק אלכסנדרוס עד מאוד ימות הוא ובמקומו יעמדו ארבע מלכיות בארבע הרוחות והם רומא ומצרים וא״י ופרס האמורים למעלה:
 
 
 ###### Metzudat David on Daniel 8:22:2

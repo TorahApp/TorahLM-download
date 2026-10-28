@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): On Your Way (Segments: 831, License: unknown)
 
-Version (En): Matan (Segments: 4)
+Version (En): Sefaria Community Translation (Segments: 4)
 
 
 ## Chapter 1

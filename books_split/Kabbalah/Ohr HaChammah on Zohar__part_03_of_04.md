@@ -16,6 +16,8 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Ohr Hachama, Peremyshl, 1896-1898 (Segments: 19757, License: Public Domain)
 
+Version (En): Sefaria Community Translation (Segments: 38)
+
 # Ohr HaChammah on Zohar — part 3 of 4
 
 ### Daf 115a

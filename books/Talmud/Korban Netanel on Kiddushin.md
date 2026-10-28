@@ -1,6 +1,6 @@
 # Korban Netanel on Kiddushin
 
- קרבן נתנאל על קידושין
+קרבן נתנאל על קידושין
 
 Link: [https://torahapp.org/share/book/Korban%20Netanel%20on%20Kiddushin](https://torahapp.org/share/book/Korban%20Netanel%20on%20Kiddushin)
 

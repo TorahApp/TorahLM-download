@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Vocalized Edition (Segments: 1410, License: Public Domain)
 
-Version (En): Yalkut, Sifsei Chachomim Chumash, Metsudah Publications, 2009 (Segments: 1285)
+Version (En): Sefaria Community Translation (Segments: 1285)
 
 
 ## Introduction
@@ -3649,7 +3649,7 @@ This is the meaning of the apparently redundant words מיד איש אחיו א�
 **וַיַּרְא חָם אֲבִי כְנַעַן אֵת עֶרְוַת אָבִיו.** רָאָה בִּזָּיוֹן שֶׁעָשָׂה לוֹ כְּנַעַן בְּנוֹ וְהוּא הַסֵּרוּס (סנהדרין ע.), כְּדִבְרֵי קְצָתָם זִכְרוֹנָם לִבְרָכָה. וְכָתַב בְּרוּסִי הַכַּלְדָּיִי (בראשית ו:ט) שֶׁסֵּרְסוֹ עַל יְדֵי כִּשּׁוּף. וְהוּא בְּרִשְׁעוֹ רָאָה וְלֹא מִחָה. כִּי אָמְנָם הַקָּלוֹן יִקָּרֵא עֶרְוָה, כְּאָמְרוֹ "וְעֶרְוַת מַלְכָּא לָא אֲרִיךְ לָנָא לְמֶחֱזֵי" (עזרא ד:יד), וְכֵן "עֶרְוַת דָּבָר" יֵאָמֵר עַל דָּבָר מְגֻנֶּה (דברים כג:טו).
 
 
-וירא חם אבי כנען את ערות אביו, he saw the shameful deed his son כנען had done to his father Noach when he had castrated him. (according to some of our sages in Sanhedrin 70) According to the historian Berussi Hacaldaii, (compare Genesis 6,9) Canaan castrated his grandfather not surgically, but by some means of sorcery. His father Cham watched his son invoke the witchcraft without protesting or trying to stop him. Disgrace, shame, is also called ערוה, “nakedness.” Compare Ezra 4,14 וערות מלכא לא אריך לנא למחזא “it is not right that we should see the king being disgraced.” Also, in Deuteronomy 21,4 the expression ערות דבר does not refer to either literal nakedness, or to sexual licentiousness, or incest, but refers to “a disgraceful thing.”
+וירא חם אבי כנען את ערות אביו, he saw the shameful deed his son כנען had done to his father Noach when he had castrated him. (according to some of our sages in Sanhedrin 70) According to the historian Berussi Hacaldaii, (compare Genesis 6,9) Canaan castrated his grandfather not surgically, but by some means of sorcery. His father Cham watched his son invoke the witchcraft without protesting or trying to stop him. Disgrace, shame, is also called ערוה, “nakedness.” Compare Ezra 4,14 וערות מלכא לא אריך לנא למחזא “it is not right that we should see the king being disgraced.” Also, in Deuteronomy 24,1 the expression ערות דבר does not refer to either literal nakedness, or to sexual licentiousness, or incest, but refers to “a disgraceful thing.”
 
 
 ###### Sforno on Genesis 9:22:2

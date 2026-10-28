@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Beeri Edition, Koren, Jerusalem, 2019 (Segments: 2043, License: CC-BY-NC)
 
-Version (En): Mechilta, translated by Rabbi Shraga Silverstein (Segments: 1947)
+Version (En): Sefaria Community Translation (Segments: 1947)
 
 
 ## Tractate Pischa
@@ -280,7 +280,7 @@ footnotes:
 ¹ וְהִתְוִיתָ תָּו: תרשום סימן בצורת תו בכתב העברי, X.
 
 
-R. Oshiyah said: When the Holy One Blessed be He decrees good and bad decrees for Israel, a report is returned to Him for the good, but not for the bad, viz. (Ezekiel 9:2-11) "And, behold, six men were coming, etc." — whereupon they fulfilled their embassy. Of those who were commanded to carry out the evil decree (i.e., to destroy), we do not learn that they returned report. Of him who was commanded over the good (i.e., the man clothed in linen), we learn that he returned report (viz. 9:11) "Ben Azzai says: "In the voice that you hear (what is taught), in that voice you teach." (i.e., "Affirmation begets affirmation.").
+R. Oshiyah said: When the Holy One Blessed be He decrees good and bad decrees for Israel, a report is returned to Him for the good, but not for the bad, viz. (Ezekiel 9:2-11) "And, behold, six men were coming, etc." — whereupon they fulfilled their embassy. Of those who were commanded to carry out the evil decree (i.e., to destroy), we do not learn that they returned report. Of him who was commanded over the good (i.e., the man clothed in linen), we learn that he returned report (viz. 9:11).
 
 
 ###### Mekhilta DeRabbi Yishmael, Tractate Pischa 1:22
@@ -291,7 +291,7 @@ R. Oshiyah said: When the Holy One Blessed be He decrees good and bad decrees fo
 שִׁמְעוֹן בֶּן עַזַּי אוֹמֵר: **"לֵאמֹר"**, בַּקּוֹל שֶׁאַתְּ שׁוֹמֵעַ, בּוֹ אַתְּ לָמֵד. רַבִּי עֲקִיבָה אוֹמֵר: **"לֵאמֹר"**, צֵא וֶאֱמֹר לָהֶם, שֶׁבִּזְכוּתָן הוּא מְדַבֵּר עִמִּי, שֶׁכָּל שְׁלֹשִׁים וּשְׁמֹנֶה שָׁנָה שֶׁהָיָה כוֹעֵס עַל יִשְׂרָאֵל, לֹא הָיָה מְדַבֵּר עִם מֹשֶׁה, שֶׁנֶּאֱמַר: (דברים ב,טז-יז) "וַיְהִי כַאֲשֶׁר תַּמּוּ כָּל אַנְשֵׁי הַמִּלְחָמָה לָמוּת מִקֶּרֶב הָעָם, וַיְדַבֵּר יי אֵלַי לֵאמֹר."
 
 
-R. Akiva says (Exodus 12:1) "saying": Go and say to them that it is in their merit that He speaks to me (Moses). And thus do we find, that in all the thirty-eight years that He was angry with Israel (i.e., from the episode of the spies and on), He did not speak with him, viz. (Devarim 2:16-17) And it was, when all the men of war (those from the age of twenty) had finished dying from the midst of the people, that the L–rd spoke to me, saying."
+Ben Azzai says: "In the voice that you hear (what is taught), in that voice you teach." (i.e., "Affirmation begets affirmation."). R. Akiva says (Exodus 12:1) "saying": Go and say to them that it is in their merit that He speaks to me (Moses). And thus do we find, that in all the thirty-eight years that He was angry with Israel (i.e., from the episode of the spies and on), He did not speak with him, viz. (Devarim 2:16-17) And it was, when all the men of war (those from the age of twenty) had finished dying from the midst of the people, that the L–rd spoke to me, saying."
 
 
 ###### Mekhilta DeRabbi Yishmael, Tractate Pischa 1:23
@@ -313,7 +313,7 @@ R. Shimon b. Azzai said: I do not come to detract from my master's words, but to
 [https://torahapp.org/share/book/Mekhilta%20DeRabbi%20Yishmael/s/Tractate%20Pischa/r/1:24](https://torahapp.org/share/book/Mekhilta%20DeRabbi%20Yishmael/s/Tractate%20Pischa/r/1:24)
 
 
-וְכֵן אַתְּ מוֹצֵא בְּבָרוּךְ בֶּן נֵרִיָּה, שֶׁהָיָה מִתְרָעֵם לִפְנֵי הַמָּקוֹם: (ירמיה מה,נ) "אָמַרְתָּ אוֹי נָא לִי, כִּי יָסַף יי יָגוֹן עַל מַכְאֹבִי". מַה נִּשְׁתַּנֵּיתִי אֲנִי מִכָּל תַּלְמִידֵי הַנְּבִיאִים? יְהוֹשֻׁעַ שִׁמֵּשׁ אֶת מֹשֶׁה, וְשָׁרַת עָלָיו רוּחַ הַקֹּדֶשׁ; אֱלִישָׁע שִׁמֵּשׁ אֶת אֵלִיָּהוּ, וְשָׁרַת עָלָיו רוּחַ הַקֹּדֶשׁ. וַאֲנִי, מַה נִּשְׁתַּנֵּיתִי מִכָּל תַּלְמִידֵי הַנְּבִיאִים? "יָגַעְתִּי בְּאַנְחָתִי וּמְנוּחָה לֹא מָצָאתִי." וְאֵין מְנוּחָה אֶלָּא נְבוּאָה, שֶׁנֶּאֱמַר: (במדבר יא,כו) "וַתָּנַח עֲלֵהֶם הָרוּחַ", וְאוֹמֵר (מלכים ב ב,טו) "נָחָה רוּחַ אֵלִיָּהוּ עַל אֱלִישָׁע", וְאוֹמֵר (ישעיה יא,ב) "וְנָחָה עָלָיו רוּחַ יי". בֹּא וּרְאֵה מַה הַמָּקוֹם מְשִׁיבוֹ: (ירמיה מה,ד-ה) "כֹּה תֹּאמַר אֵלָיו: כֹּה אָמַר יי: הִנֵּה, אֲשֶׁר בָּנִיתִי, אֲנִי הֹרֵס, וְאֵת אֲשֶׁר נָטַעְתִּי, אֲנִי נֹתֵשׁ,¹ וְאֶת כָּל הָאָרֶץ הִיא. וְאַתָּה תְּבַקֶּשׁ לְךָ גְדֹלוֹת? אַל תְּבַקֵּשׁ!" וְאֵין גְּדוֹלוֹת אֶלָּא נְבוּאָה, שֶׁנֶּאֱמַר: (מלכים ב ח,ד) "סַפְּרָה נָּא לִי אֵת כָּל הַגְּדֹלוֹת אֲשֶׁר עָשָׂה אֱלִישָׁע." וְאוֹמֵר: (ירמיה לג,ג) "קְרָא אֵלַי וְאֶעֱנֶךָּ, וְאַגִּידָה לְּךָ גְּדֹלוֹת, וּבְצֻרוֹת לֹא יְדַעְתָּם." אָמַר בָּרוּךְ בֶּן נֵרִיָּה: כֶּרֶם אֵין כָּן, סְיָג לָמָּה? צֹאן אֵין כָּן, רוֹעֶה לָמָּה? מִפְּנֵי מָה? (ירמיה מה,ה) "כִּי הִנְנִי מֵבִיא רָעָה עַל כָּל בָּשָׂר, נְאֻם יי, וְנָתַתִּי לְךָ אֶת נַפְשְׁךָ לְשָׁלָל, עַל כָּל הַמְּקֹמוֹת אֲשֶׁר תֵּלֶךְ שָׁם." הָא בְּכָל מָקוֹם אַתְּ מוֹצֵא, שֶׁאֵין הַנְּבִיאִים מִתְנַּבְּאִין אֶלָּא בִזְכוּתָן שֶׁלְּיִשְׂרָאֵל.
+וְכֵן אַתְּ מוֹצֵא בְּבָרוּךְ בֶּן נֵרִיָּה, שֶׁהָיָה מִתְרָעֵם לִפְנֵי הַמָּקוֹם: (ירמיה מה,ג) "אָמַרְתָּ אוֹי נָא לִי, כִּי יָסַף יי יָגוֹן עַל מַכְאֹבִי". מַה נִּשְׁתַּנֵּיתִי אֲנִי מִכָּל תַּלְמִידֵי הַנְּבִיאִים? יְהוֹשֻׁעַ שִׁמֵּשׁ אֶת מֹשֶׁה, וְשָׁרַת עָלָיו רוּחַ הַקֹּדֶשׁ; אֱלִישָׁע שִׁמֵּשׁ אֶת אֵלִיָּהוּ, וְשָׁרַת עָלָיו רוּחַ הַקֹּדֶשׁ. וַאֲנִי, מַה נִּשְׁתַּנֵּיתִי מִכָּל תַּלְמִידֵי הַנְּבִיאִים? "יָגַעְתִּי בְּאַנְחָתִי וּמְנוּחָה לֹא מָצָאתִי." וְאֵין מְנוּחָה אֶלָּא נְבוּאָה, שֶׁנֶּאֱמַר: (במדבר יא,כו) "וַתָּנַח עֲלֵהֶם הָרוּחַ", וְאוֹמֵר (מלכים ב ב,טו) "נָחָה רוּחַ אֵלִיָּהוּ עַל אֱלִישָׁע", וְאוֹמֵר (ישעיה יא,ב) "וְנָחָה עָלָיו רוּחַ יי". בֹּא וּרְאֵה מַה הַמָּקוֹם מְשִׁיבוֹ: (ירמיה מה,ד-ה) "כֹּה תֹּאמַר אֵלָיו: כֹּה אָמַר יי: הִנֵּה, אֲשֶׁר בָּנִיתִי, אֲנִי הֹרֵס, וְאֵת אֲשֶׁר נָטַעְתִּי, אֲנִי נֹתֵשׁ,¹ וְאֶת כָּל הָאָרֶץ הִיא. וְאַתָּה תְּבַקֶּשׁ לְךָ גְדֹלוֹת? אַל תְּבַקֵּשׁ!" וְאֵין גְּדוֹלוֹת אֶלָּא נְבוּאָה, שֶׁנֶּאֱמַר: (מלכים ב ח,ד) "סַפְּרָה נָּא לִי אֵת כָּל הַגְּדֹלוֹת אֲשֶׁר עָשָׂה אֱלִישָׁע." וְאוֹמֵר: (ירמיה לג,ג) "קְרָא אֵלַי וְאֶעֱנֶךָּ, וְאַגִּידָה לְּךָ גְּדֹלוֹת, וּבְצֻרוֹת לֹא יְדַעְתָּם." אָמַר בָּרוּךְ בֶּן נֵרִיָּה: כֶּרֶם אֵין כָּן, סְיָג לָמָּה? צֹאן אֵין כָּן, רוֹעֶה לָמָּה? מִפְּנֵי מָה? (ירמיה מה,ה) "כִּי הִנְנִי מֵבִיא רָעָה עַל כָּל בָּשָׂר, נְאֻם יי, וְנָתַתִּי לְךָ אֶת נַפְשְׁךָ לְשָׁלָל, עַל כָּל הַמְּקֹמוֹת אֲשֶׁר תֵּלֶךְ שָׁם." הָא בְּכָל מָקוֹם אַתְּ מוֹצֵא, שֶׁאֵין הַנְּבִיאִים מִתְנַּבְּאִין אֶלָּא בִזְכוּתָן שֶׁלְּיִשְׂרָאֵל.
 
 footnotes:
 ¹ נֹתֵשׁ: עוקר.
@@ -11377,7 +11377,7 @@ And this is one of the three things that Eliyahu is destined to present to Israe
 (שמות טז,לה) **"וּבְנֵי יִשְׂרָאֵל אָכְלוּ אֶת הַמָּן אַרְבָּעִים שָׁנָה, עַד בֹּאָם אֶל אֶרֶץ נוֹשָׁבֶת, אֶת הַמָּן אָכְלוּ, עַד בֹּאָם אֶל קְצֵה אֶרֶץ כְּנָעַן."** רַבִּי יְהוֹשֻׁעַ אוֹמֵר: אַרְבָּעִים יוֹם אָכְלוּ יִשְׂרָאֵל אֶת הַמָּן אַחַר מִיתָתוֹ שֶׁלְּמֹשֶׁה. כֵּיצַד? מֵת מֹשֶׁה בְּשִׁבְעָה בַאֲדַר, אָכְלוּ מִמֶּנּוּ עֶשְׂרִין וְאַרְבָּעָה שֶׁלַּאֲדַר, וְשִׁשָּׁה עָשָׂר שֶׁלְּנִיסָן, שֶׁנֶּאֱמַר: (יהושע ה,יב) "וַיִּשְׁבֹּת הַמָּן מִמָּחֳרָת, בְּאָכְלָם מֵעֲבוּר הָאָרֶץ, וְלֹא הָיָה עוֹד לִבְנֵי יִשְׂרָאֵל מָן, וַיֹּאכְלוּ מִתְּבוּאַת אֶרֶץ כְּנַעַן בַּשָּׁנָה הַהִיא." רַבִּי אֶלְעָזָר הַמּוֹדָעִי אוֹמֵר: שִׁבְעִין יוֹם אָכְלוּ יִשְׂרָאֵל אֶת הַמָּן אַחַר מִיתָתוֹ שֶׁלְּמֹשֶׁה. כֵּיצַד? מֵת מֹשֶׁה בְּשִׁבְעָה בַאֲדַר, וְאָכְלוּ מִמֶּנּוּ עֶשְׁרִין וְאַרְבָּעָה שֶׁלַּאֲדַר הָרִאשׁוֹן, וּשְׁלֹשִׁין שֶׁלַּאֲדַר הַאַחֲרוֹן, וְעִבּוּר הָיָה אוֹתָהּ הַשָּׁנָה בְאוֹתָהּ הַשָּׁעָה, שִׁשָּׁה עָשָׂר שֶׁלְּנִיסָן, וְאוֹמֵר: (יהושע ה,יב) "וַיִּשְׁבֹּת הַמָּן מִמָּחֳרָת".
 
 
-(Exodus 16:35) "And the children of Israel ate the manna for forty years": R. Yehoshua says: for forty days they ate the manna after the death of Moses. How so? Moses died on the seventh of Adar (when the manna ceased falling), and they ate of it (i.e., of what was left in their vessels) twenty-four days of the first Adar and sixteen of Nissan, making forty. As it is written (Joshua 5:12) "And the manna ceased (from their vessels) on the morrow" (of the first day of Pesach), and (Ibid. 11) "And they ate of the old corn of the land on the morrow of the Pesach, matzoth and parched corn."
+(Exodus 16:35) "And the children of Israel ate the manna for forty years": R. Yehoshua says: for forty days they ate the manna after the death of Moses. How so? Moses died on the seventh of Adar (when the manna ceased falling), and they ate of it (i.e., of what was left in their vessels) twenty-four days of the first Adar and sixteen of Nissan, making forty. As it is written (Joshua 5:12) "And the manna ceased (from their vessels) on the morrow" (of the first day of Pesach), and (Ibid. 11) "And they ate of the old corn of the land on the morrow of the Pesach, matzoth and parched corn." R. Eliezer Hamodai says: They ate the manna for seventy days after the death of Moses. How so? Moses died on the seventh of Adar, and they ate of it (i.e., of what was left in their vessels) twenty-four days of the first Adar and thirty of the second Adar, that year being intercalated, and sixteen of Nissan, making seventy days, viz. "And the manna ceased (from their vessels) on the morrow."
 
 
 ###### Mekhilta DeRabbi Yishmael, Tractate Vayassa 6:19
@@ -11388,7 +11388,7 @@ And this is one of the three things that Eliyahu is destined to present to Israe
 רַבִּי אֱלִיעֶזֶר אוֹמֵר: שִׁבְעִין יוֹם אָכְלוּ יִשְׂרָאֵל אֶת הַמָּן אַחַר מִיתַת מֹשֶׁה. כֵּיצַד? מֵת מֹשֶׁה בְּשִׁבְעָה בִשְׁבָט, אָכְלוּ מִמֶּנּוּ עֶשְׁרִין וְאַרְבָּעָה שֶׁלִּשְׁבָט, וּשְׁלֹשִׁין שֶׁלַּאֲדַר, וְעִבּוּר לֹא הָיָה אוֹתָהּ הַשָּׁנָה בְאוֹתָהּ הַשָּׁעָה, שִׁשָּׁה עָשָׂר שֶׁלְּנִיסָן, וְאוֹמֵר: (יהושע ה,יב) "וַיִּשְׁבֹּת הַמָּן מִמָּחֳרָת".
 
 
-R. Eliezer Hamodai says: They ate the manna for seventy days after the death of Moses. How so? Moses died on the seventh of Adar, and they ate of it (i.e., of what was left in their vessels) twenty-four days of the first Adar and thirty of the second Adar, that year being intercalated, and sixteen of Nissan, making seventy days, viz. "And the manna ceased (from their vessels) on the morrow."
+Rabbi Eliezer says: Israel ate the manna for seventy days after the death of Moses. How so? Moses died on the seventh of Shevat. They ate of it twenty-four days of Shevat, and thirty days of Adar — that year was not intercalated — and sixteen days of Nissan. And it says (Joshua 5:12): "And the manna ceased on the morrow."
 
 
 ###### Mekhilta DeRabbi Yishmael, Tractate Vayassa 6:20

@@ -44315,7 +44315,7 @@ So keep and act upon all the customs and regulations that I am commanding you to
 [https://torahapp.org/share/book/Tafsir%20Rasag/s/Deuteronomy/r/19:13](https://torahapp.org/share/book/Tafsir%20Rasag/s/Deuteronomy/r/19:13)
 
 
-ולא תשפך עליה בל אנף קאתלי אלברי מן בין בני אסראיל ויכ̇אר לך
+ולא תשפק עליה בל אנף קאתלי אלברי מן בין בני אסראיל ויכ̇אר לך
 
 
 ###### Tafsir Rasag, Deuteronomy 19:14

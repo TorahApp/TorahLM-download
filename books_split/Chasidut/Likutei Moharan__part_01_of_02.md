@@ -14,9 +14,9 @@ Location: Chasidut/Breslov
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Likutei Moharan Tinyana - rabenubook.com (Segments: 7182, License: Public Domain)
+Version (He): Likutei Moharan -- MS5 (Segments: 7182, License: CC-BY)
 
-Version (En): Likutey Moharan Volumes 12-15, trans. by Moshe Mykoff. Breslov Research Inst., 1986-2012 (Segments: 7107)
+Version (En): Likutey Moharan Volumes 1-11, trans. by Moshe Mykoff. Breslov Research Inst., 1986-2012 (Segments: 7107)
 
 # Likutei Moharan — part 1 of 2
 

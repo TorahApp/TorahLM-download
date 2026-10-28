@@ -14,7 +14,7 @@ Location: Talmud/Bavli/Rishonim on Talmud/Rashi/Seder Moed
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Vilna Edition (Segments: 983, License: Public Domain)
+Version (He): Vilna Edition (Segments: 984, License: Public Domain)
 
 Version (En): Sefaria Community Translation (Segments: 63)
 
@@ -2737,7 +2737,7 @@ And he also - Rav El'azar ben Azaryah.
 [https://torahapp.org/share/book/Rashi%20on%20Chagigah/r/9a:11:1](https://torahapp.org/share/book/Rashi%20on%20Chagigah/r/9a:11:1)
 
 
-בחדש השביעי - כל ימי החג האמור בחדש השביעי: יכול יהא חוגג והולך כל החדש איזה יום שירצה לתשלומי החג אם לא הקריב בחג:
+בחדש השביעי - כל ימי החג האמור בחדש השביעי:
 
 
 ###### Rashi on Chagigah 9a:11:2
@@ -4759,7 +4759,15 @@ The king of the beasts is the lion, etc. — and these four are on the throne, w
 [https://torahapp.org/share/book/Rashi%20on%20Chagigah/r/13b:6:2](https://torahapp.org/share/book/Rashi%20on%20Chagigah/r/13b:6:2)
 
 
-קטיגור שונא סניגור אוהב מליץ יושר:
+קטיגור - שונא:
+
+
+###### Rashi on Chagigah 13b:6:3
+
+[https://torahapp.org/share/book/Rashi%20on%20Chagigah/r/13b:6:3](https://torahapp.org/share/book/Rashi%20on%20Chagigah/r/13b:6:3)
+
+
+סניגור - אוהב מליץ יושר:
 
 
 
@@ -6110,7 +6118,7 @@ The king of the beasts is the lion, etc. — and these four are on the throne, w
 [https://torahapp.org/share/book/Rashi%20on%20Chagigah/r/16b:19:1](https://torahapp.org/share/book/Rashi%20on%20Chagigah/r/16b:19:1)
 
 
-שמע מינה - מדרבי יוחנן דאוקי טעמא משום שבות צדדין אסורין ואע"ג דגבי שבות רכיבה אמרינן. הוא הדין לכל שימוש ואפילו במקום שאינו עשוי להשתמש כגון צידי הבהמה והוא הדין צידי האילן ופליגי אמוראי בהא מילתא במסכת שבת בפרק בתרא (דף קנד:):
+שמע מינה - מדרבי יוחנן דאוקי טעמא משום שבות צדדין אסורין ואע"ג דגבי שבות רכיבה אמרינן הוא הדין לכל שימוש ואפילו במקום שאינו עשוי להשתמש כגון צידי הבהמה והוא הדין צידי האילן ופליגי אמוראי בהא מילתא במסכת שבת בפרק בתרא (דף קנד:):
 
 
 ###### Rashi on Chagigah 16b:19:2

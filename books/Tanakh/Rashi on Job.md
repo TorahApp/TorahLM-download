@@ -159,7 +159,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/1:5:4](https://torahapp.org/share/book/Rashi%20on%20Job/r/1:5:4)
 
 
-**וּבֵרֲכוּ.** לְשׁוֹן כִּנּוּי כְּלַפֵּי מַעְלָה:
+**וּבֵרְכוּ.** לְשׁוֹן כִּנּוּי כְּלַפֵּי מַעְלָה:
 
 
 **and blasphemed** Heb. וברכו, lit. will do. A euphemism [used in] referring to the Most High.
@@ -342,7 +342,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/1:11:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/1:11:1)
 
 
-**וְאוּלָם.** לוּ הָיִיתָ נוֹגֵעַ בְּכָל אֲשֶׁר לוֹ, **אִם לֹא עַל פָּנֶיךָ יְבָרֲכֶךָּ.** מִיָּד; בִּתְמִיהַּ. וְאָז:
+**וְאוּלָם.** לוּ הָיִיתָ נוֹגֵעַ בְּכָל אֲשֶׁר לוֹ, **אִם לֹא עַל פָּנֶיךָ יְבָרְכֶךָּ.** מִיָּד; בִּתְמִיהַּ. וְאָז:
 
 
 **But** were you to touch all that he has, would he not blaspheme You to Your face immediately? This is a question. And then, the Lord said to the Adversary, “Behold, all that he has is in your hands.”
@@ -1206,7 +1206,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/3:20:2](https://torahapp.org/share/book/Rashi%20on%20Job/r/3:20:2)
 
 
-**לְעָמָל אוֹר.** לְמִי שֶׁגָּדַל בְּעָמָל וְצָרָה, לָמָּה נוֹתֵן לוֹ אוֹר עוֹלָם, וְלֹא הֱמִיתוֹ בְּהִוָּלְדוֹ?
+**לְעָמֵל אוֹר.** לְמִי שֶׁגָּדַל בְּעָמָל וְצָרָה, לָמָּה נוֹתֵן לוֹ אוֹר עוֹלָם, וְלֹא הֱמִיתוֹ בְּהִוָּלְדוֹ?
 
 
 **the toiler light** He who grew up with toil and trouble—why did He give him perpetual light and not slay him at birth?
@@ -1894,7 +1894,7 @@ Now [in] the expression, “And my ear grasped a bit of it,” שֶׁמֶץ, mea
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/5:5:2](https://torahapp.org/share/book/Rashi%20on%20Job/r/5:5:2)
 
 
-**רָעָב יֹאכֵל.** כִּי יָמוּת רָשָׁע, יָבוֹאוּ הָרְעֵבִים שֶׁקִּצֵּץ בְּחַיָּיו, וְיִשְׁתַּלְּמוּ גְזֵלוֹתָיו מִנְּכָסָיו:
+**רָעֵב יֹאכֵל.** כִּי יָמוּת רָשָׁע, יָבוֹאוּ הָרְעֵבִים שֶׁקִּצֵּץ בְּחַיָּיו, וְיִשְׁתַּלְּמוּ גְזֵלוֹתָיו מִנְּכָסָיו:
 
 
 **The hungry shall eat** When the wicked man dies, the hungry whom he cut off during his lifetime shall come and take payment from his property.
@@ -2055,7 +2055,7 @@ Now [in] the expression, “And my ear grasped a bit of it,” שֶׁמֶץ, mea
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/5:12:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/5:12:1)
 
 
-**וְלֹא תַעֲשֶׂינָה יְדֵיהֶם תּוּשִׁיָּה.** אוֹתָהּ עֵצָה שֶׁדִּמּוּ לַעֲשׂוֹת:
+**וְלֹא תַעֲשֶׂנָה יְדֵיהֶם תּוּשִׁיָּה.** אוֹתָהּ עֵצָה שֶׁדִּמּוּ לַעֲשׂוֹת:
 
 
 **so that their hands do not carry out their plans** The counsel that they planned to perform.
@@ -2083,7 +2083,7 @@ Now [in] the expression, “And my ear grasped a bit of it,” שֶׁמֶץ, mea
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/5:14:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/5:14:1)
 
 
-**יוֹמָם יִפְגְּשׁוּ חֹשֶׁךְ.** שֶׁאֵין עֲצָתָם מִתְקַיֶּמֶת וְנַעֲשֵׂית, וְאוֹר חָכְמָתָם נֶהְפַּךְ לְחֹשֶׁךְ:
+**יוֹמָם יְפַגְּשׁוּ חֹשֶׁךְ.** שֶׁאֵין עֲצָתָם מִתְקַיֶּמֶת וְנַעֲשֵׂית, וְאוֹר חָכְמָתָם נֶהְפַּךְ לְחֹשֶׁךְ:
 
 
 **By day, they meet darkness** For their counsel is not executed nor accomplished, and the light of their wisdom is converted to darkness.
@@ -2175,7 +2175,7 @@ Now [in] the expression, “And my ear grasped a bit of it,” שֶׁמֶץ, mea
 **בְּשֵׁשׁ צָרוֹת.** כְּשֶׁיָּבֹאוּ לָעוֹלָם יַצִּילְךָ עַל יְדֵי יִסּוּרִין שֶׁנִּתְיַסַּרְתָּ בָּהֶם, וְגַם בַּשְּׁבִיעִית כְּשֶׁתָּבֹא **לֹא יִגַּע בְּךָ.** וְעַכְשָׁיו הוּא מוֹנֶה אוֹתָן:
 
 
-**In six troubles** When they come to the world, he will save you through the pains with which you wee tormented, and also with the seventh one, which when it comes will not touch you.
+**In six troubles** When they come to the world, he will save you through the pains with which you were tormented, and also with the seventh one, which when it comes will not touch you.
 
 
 
@@ -2378,7 +2378,7 @@ Now [in] the expression, “And my ear grasped a bit of it,” שֶׁמֶץ, mea
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/6:6:2](https://torahapp.org/share/book/Rashi%20on%20Job/r/6:6:2)
 
 
-**אִם יֵשׁ טַעַם בְּרִיר.** הַבָּא מֵחֲמַת הַחֲלָמוֹת כְּשֶׁאוֹכֵל דָּבָר חָזָק שֶׁמַּרְבֶּה רִיר וְרוֹק, כְּגוֹן שׁוּם. כְּלוֹמַר: וְכִי סְבוּרִים אַתֶּם שֶׁיִּהְיוּ מִתְקַבְּלוֹת תְּשׁוּבוֹת שֶׁאֵין בָּהֶם מַמָּשׁ? **רִיר**, כְּמוֹ ״וַיּוֹרֶד רִירוֹ עַל זְקָנוֹ״ (שמואל א כא:יד):
+**אִם יֶשׁ טַעַם בְּרִיר.** הַבָּא מֵחֲמַת הַחֲלָמוֹת כְּשֶׁאוֹכֵל דָּבָר חָזָק שֶׁמַּרְבֶּה רִיר וְרוֹק, כְּגוֹן שׁוּם. כְּלוֹמַר: וְכִי סְבוּרִים אַתֶּם שֶׁיִּהְיוּ מִתְקַבְּלוֹת תְּשׁוּבוֹת שֶׁאֵין בָּהֶם מַמָּשׁ? **רִיר**, כְּמוֹ ״וַיּוֹרֶד רִירוֹ עַל זְקָנוֹ״ (שמואל א כא:יד):
 
 
 **or is there taste in the saliva** that comes from strong tasting foods, for the one who eats a strong-tasting food that increases the saliva, e.g. garlic. That is to say, Do you think their replies that have no substance are acceptable? רִיר [means saliva] as in (I Sam. 2 1:14), “and let his saliva (ריר) run down upon his beard.”
@@ -2472,7 +2472,7 @@ Now [in] the expression, “And my ear grasped a bit of it,” שֶׁמֶץ, mea
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/6:9:4](https://torahapp.org/share/book/Rashi%20on%20Job/r/6:9:4)
 
 
-**וְיִבַצְּעֵנִי.** וִיכַלֵּנִי, כְּמוֹ ״בִּצַּע אֶמְרָתוֹ״ (איכה ב:יז), ״יָדָיו תְּבַצַּעְנָה״ (זכריה ד:ט):
+**וִיבַצְּעֵנִי.** וִיכַלֵּנִי, כְּמוֹ ״בִּצַּע אֶמְרָתוֹ״ (איכה ב:יז), ״יָדָיו תְּבַצַּעְנָה״ (זכריה ד:ט):
 
 
 **and finish me off** Heb. ויבצעני, and finish me off, as in (Lam. 2:17), “He has carried out (בצע) His word,” and (Zech. 4:9), “and his hands shall finish it (תבצענה).”
@@ -3025,7 +3025,7 @@ Now [in] the expression, “And my ear grasped a bit of it,” שֶׁמֶץ, mea
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/7:4:2](https://torahapp.org/share/book/Rashi%20on%20Job/r/7:4:2)
 
 
-**וּמִדַּד עֶרֶב.** מָתַי יָאִיר, וְיָבֹא עֵת קִימָה וְעֵת מִידוּד הַנֶּשֶׁף – לְשׁוֹן ״וַתִּדַּד שְׁנָתִי״ (בראשית לא:מ), וְהַמֵּ״ם הוּא עִקָּר נוֹפֵל, כְּמוֹ ״מַאֲמַר״ (אסתר א:טו), ״מִשְׁמָר״ (בראשית מב:יז):
+**וּמִדַּד עָרֶב.** מָתַי יָאִיר, וְיָבֹא עֵת קִימָה וְעֵת מִידוּד הַנֶּשֶׁף – לְשׁוֹן ״וַתִּדַּד שְׁנָתִי״ (בראשית לא:מ), וְהַמֵּ״ם הוּא עִקָּר נוֹפֵל, כְּמוֹ ״מַאֲמַר״ (אסתר א:טו), ״מִשְׁמָר״ (בראשית מב:יז):
 
 
 **and the evening depart** When will it become light and when will the time of arising come, and when will the evening depart? [The word מדד ] is an expression of (Gen. 31:40) “and sleep was banished (ותדד).” The “mem” is a defective radical, as in מאמר, statement; משמר, watch.
@@ -3769,7 +3769,7 @@ Now [in] the expression, “And my ear grasped a bit of it,” שֶׁמֶץ, mea
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/9:5:2](https://torahapp.org/share/book/Rashi%20on%20Job/r/9:5:2)
 
 
-**וְלֹא יָדְעוּ.** עַד שֶׁנֶּהֶפְכוּ:
+**וְלֹא יָדָעוּ.** עַד שֶׁנֶּהֶפְכוּ:
 
 
 **and they knew not** until He turned them over.
@@ -3922,7 +3922,7 @@ Now [in] the expression, “And my ear grasped a bit of it,” שֶׁמֶץ, mea
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/9:13:2](https://torahapp.org/share/book/Rashi%20on%20Job/r/9:13:2)
 
 
-**תַּחְתָּיו שָׁחֲחוּ.** צְבָא מָרוֹם שֶׁבָּאוּ לַעֲזוֹר אֶת מִצְרַיִם. מִצְרַיִם נִקְרָא רַהַב, שֶׁנֶּאֱמַר ״לָכֵן קָרָאתִי לָזֹאת רַהַב הֵם שָׁבֶת״ (ישעיהו ל:ז) – עַל שֵׁם גַּאֲוָתָם, אֲשֶׁר אָמְרוּ ״מִי ה׳ וְגוֹ׳״ (שמות ה:ב):
+**תַּחְתָּו שָׁחֲחוּ.** צְבָא מָרוֹם שֶׁבָּאוּ לַעֲזוֹר אֶת מִצְרַיִם. מִצְרַיִם נִקְרָא רַהַב, שֶׁנֶּאֱמַר ״לָכֵן קָרָאתִי לָזֹאת רַהַב הֵם שָׁבֶת״ (ישעיהו ל:ז) – עַל שֵׁם גַּאֲוָתָם, אֲשֶׁר אָמְרוּ ״מִי ה׳ וְגוֹ׳״ (שמות ה:ב):
 
 
 **[all the helpers of Rahab] stoop under Him** The celestial host that came to aid the Egyptians. Egypt is called Rahab, as it is said (Isa. 30:7): “Therefore, I called this, ‘They are haughty (רהב) idlers,’” by dint of their haughtiness, for they said, “Who is the Lord? etc.” (Exod. 5:2).
@@ -4334,7 +4334,7 @@ Now [in] the expression, “And my ear grasped a bit of it,” שֶׁמֶץ, mea
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/9:33:2](https://torahapp.org/share/book/Rashi%20on%20Job/r/9:33:2)
 
 
-**יָשֶׁת יָדוֹ.** מִשְׁטַר אֵימָתוֹ וְנִיגוּשׁוֹ:
+**יָשֵׁת יָדוֹ.** מִשְׁטַר אֵימָתוֹ וְנִיגוּשׁוֹ:
 
 
 **who will place his hand** The ruling of his fear and his power.
@@ -4401,7 +4401,7 @@ Now [in] the expression, “And my ear grasped a bit of it,” שֶׁמֶץ, mea
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/10:3:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/10:3:1)
 
 
-**הֲטוֹב.** בִּתְמִיהַּ, כִּי תַעֲשֹׁק וְתִגְזֹל מִן הַצַּדִּיק אֶת צִדְקוֹ, **וְעַל עֲצַת רְשָׁעִים** וּמַקְנִיטִים **הוֹפַעְתָּ** זִיוְךָ, לְהַרְאוֹת לָהֶם פָּנִים שׂוֹחֲקוֹת?
+**הֲטוֹב.** בִּתְמִיהַּ, כִּי תַעֲשֹׁק וְתִגְזֹל מִן הַצַּדִּיק אֶת צִדְקוֹ, **וְעַל עֲצַת רְשָׁעִים** וּמַקְנִיטִים **הוֹפָעְתָּ** זִיוְךָ, לְהַרְאוֹת לָהֶם פָּנִים שׂוֹחֲקוֹת?
 
 
 **Is it good** Heb. הטוב, an interrogative form. [Is it good to You] that You should oppress and rob the righteous man of his righteousness, [while] upon the council of the wicked, who vex You, You shine Your splendor to show them a friendly countenance?
@@ -4596,7 +4596,7 @@ Now [in] the expression, “And my ear grasped a bit of it,” שֶׁמֶץ, mea
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/10:16:2](https://torahapp.org/share/book/Rashi%20on%20Job/r/10:16:2)
 
 
-**וְתָשׁוּב.** מִיּוֹם אֶל יוֹם:
+**וְתָשֹׁב.** מִיּוֹם אֶל יוֹם:
 
 
 **and You repeatedly** from day to day.
@@ -4835,7 +4835,7 @@ Now [in] the expression, “And my ear grasped a bit of it,” שֶׁמֶץ, mea
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/11:8:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/11:8:1)
 
 
-**גָּבְהֵי שָׁמַיִם.** דָּבָר שֶׁהוּא גָּבוֹהַּ כְּגָבְהֵי שָׁמַיִם, **מַה תִּפְעַל** עַתָּה? וַעֲמֻקָּה הִיא הַחָכְמָה **מִשְּׁאוֹל**:
+**גָּבְהֵי שָׁמַיִם.** דָּבָר שֶׁהוּא גָּבוֹהַּ כְּגָבְהֵי שָׁמַיִם, **מַה תִּפְעָל** עַתָּה? וַעֲמֻקָּה הִיא הַחָכְמָה **מִשְּׁאוֹל**:
 
 
 **[In] the heights of heaven** [About] something that is as high as the heights of heaven, what can you do? And the wisdom is deeper than the grave.
@@ -4974,7 +4974,7 @@ and He assembles all His divine ministers to justify His act in having confined.
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/11:14:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/11:14:1)
 
 
-**וְתַרְחֵק אָוֶן** מִיָּדְךָ, **וְאַל תַּשְׁכֵּן בְּאָהָלֶיךָ עַוְלָה**:
+**וְתַרְחֵק אָוֶן** מִיָּדְךָ, **וְאַל תַּשְׁכֵּן בְּאֹהָלֶיךָ עַוְלָה**:
 
 
 **Distance iniquity** from your hand, and do not allow injustice to dwell in your tents.
@@ -5024,7 +5024,7 @@ and you shall forget all your trouble.
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/11:16:2](https://torahapp.org/share/book/Rashi%20on%20Job/r/11:16:2)
 
 
-**וּכְמַיִם עָבְרוּ.** וְחָלְפוּ, כֵּן יִהְיֶה לְךָ כָּל זִכְרוֹן עָמָל:
+וּ**כְּמַיִם עָבְרוּ.** וְחָלְפוּ, כֵּן יִהְיֶה לְךָ כָּל זִכְרוֹן עָמָל:
 
 
 **like water that has passed** and gone by, so shall be the entire memory of your trouble.
@@ -5320,7 +5320,7 @@ and you shall forget all your trouble.
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/12:18:2](https://torahapp.org/share/book/Rashi%20on%20Job/r/12:18:2)
 
 
-**וַיֶּאֱסֹר אֵזוֹר בְּמָתְנֵיהֶם.** בִּתְחִלָּתָם, כְּשֶׁהוּא חָפֵץ בָּהֶם, חוֹגֵר חֲלָצֵיהֶם וּמְזָרְזָם כֹּחַ לַמְּלוּכָה:
+**וַיֶּאְסֹר אֵזוֹר בְּמָתְנֵיהֶם.** בִּתְחִלָּתָם, כְּשֶׁהוּא חָפֵץ בָּהֶם, חוֹגֵר חֲלָצֵיהֶם וּמְזָרְזָם כֹּחַ לַמְּלוּכָה:
 
 
 **and He binds a girdle to their loins** At his start, when He desired him, He girded his loins, and imbued him with strength for kingship.
@@ -5735,7 +5735,7 @@ with which I have conducted myself, to know of what He will find me guilty.
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/13:19:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/13:19:1)
 
 
-**אֶחֱרִישׁ וְאֶגְוָע.** אִם לֹא אָרִיב, **אֶחֱרִישׁ וְאֶגְוָע**:
+**אַחֲרִישׁ וְאֶגְוָע.** אִם לֹא אָרִיב, **אַחֲרִישׁ וְאֶגְוָע**:
 
 
 **I will be silent and perish** If I will not contend, I will be silent and perish.
@@ -5936,7 +5936,7 @@ and the number of months is set with You, and [that] You set this boundary—and
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/14:6:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/14:6:1)
 
 
-**שְׁעֵה מֵעָלָיו.** בְּאוֹתוֹ מִעוּט חָרַץ הַיָּמִים, וְיֶחְדַּל לוֹ מִמַּכְאוֹב, עַד יִרְצֶה בְּזִקְנוּתוֹ וְתַשּׁוּת כֹּחוֹ **אֶת יוֹם מוֹתוֹ כְּשָׂכִיר** הָרוֹצֶה לְהַשְׁלָמַת עֲבוֹדַת יוֹמוֹ. כִּי עֲבִירָתוֹ מִן הָעוֹלָם חֲלוּטָה וְנִצְמֶתֶת מִשְּׁאָר כָּל הָעוֹבְרִים:
+**שְׁעֵה מֵעָלָיו.** בְּאוֹתוֹ מִעוּט חָרַץ הַיָּמִים, וְיֶחְדַּל לוֹ מִמַּכְאוֹב, עַד יִרְצֶה בְּזִקְנוּתוֹ וְתַשּׁוּת כֹּחוֹ אֶת יוֹם מוֹתוֹ כְּשָׂכִיר הָרוֹצֶה לְהַשְׁלָמַת עֲבוֹדַת יוֹמוֹ. כִּי עֲבִירָתוֹ מִן הָעוֹלָם חֲלוּטָה וְנִצְמֶתֶת מִשְּׁאָר כָּל הָעוֹבְרִים:
 
 
 **Turn away from him** during those few limited days and let him rest from pain until he desires, in his old age and the weakness of his strength, the day of his death like a hireling who desires the completion of his day’s work; for his passing from the world is decided and more definite than all passings.
@@ -6286,7 +6286,7 @@ and its bough will not cease from being a branch.
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/15:5:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/15:5:1)
 
 
-**כִּי יְאַלֵּף עֲוֹנְךָ.** יִצְרְךָ הָרָע אֶת פִּיךָ לְדַבֵּר כַּדְּבָרִים הָאֵלֶּה, וְהָיָה לְךָ לִבְחֹר **לְשׁוֹן עֲרוּמִים**:
+**כִּי יְאַלֵּף עֲוֺנְךָ.** יִצְרְךָ הָרָע אֶת פִּיךָ לְדַבֵּר כַּדְּבָרִים הָאֵלֶּה, וְהָיָה לְךָ לִבְחֹר **לְשׁוֹן עֲרוּמִים**:
 
 
 **For your iniquity teaches** Your evil inclination [teaches] your mouth to speak such words, but you should have chosen the tongue of the crafty.
@@ -6570,7 +6570,7 @@ The word מתחולל is an expression of mourning, but I did not hear this.
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/15:22:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/15:22:1)
 
 
-**וְצָפוּ הוּא אֱלֵי חָרֶב.** וְעָתִיד הוּא אֱלֵי חֶרֶב וְעֹנִי, לָנוּד לַלֶּחֶם אַיֵּה יִמְצָאֶנּוּ:
+**וְצָפוּי הוּא אֱלֵי חָרֶב.** וְעָתִיד הוּא אֱלֵי חֶרֶב וְעֹנִי, לָנוּד לַלֶּחֶם אַיֵּה יִמְצָאֶנּוּ:
 
 
 **and he is destined to the sword** Heb. וצפוי. He is destined to the sword, and his eye to wander for bread—where should he find it?
@@ -7379,7 +7379,7 @@ The word מתחולל is an expression of mourning, but I did not hear this.
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/17:8:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/17:8:1)
 
 
-**יִשֹּׁמּוּ.** יִתְמְהוּ:
+**יָשֹׁמּוּ.** יִתְמְהוּ:
 
 
 **will be appalled** they will wonder.
@@ -7526,7 +7526,7 @@ The word מתחולל is an expression of mourning, but I did not hear this.
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/17:13:2](https://torahapp.org/share/book/Rashi%20on%20Job/r/17:13:2)
 
 
-**וּבַחֹשֶׁךְ רִפַּדְתִּי.** שִׁטַּחְתִּי יְצוּעִי בַּקֶּבֶר:
+וּ**בַּחֹשֶׁךְ רִפַּדְתִּי.** שִׁטַּחְתִּי יְצוּעָי בַּקֶּבֶר:
 
 
 **in the darkness I have spread out my couch** I have spread out my couch in the grave.
@@ -7934,7 +7934,7 @@ The word מתחולל is an expression of mourning, but I did not hear this.
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/18:18:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/18:18:1)
 
 
-**יְהַדְּפוּהוּ.** מִן הַשָּׁמַיִם:
+**יֶהְדְּפֻהוּ.** מִן הַשָּׁמַיִם:
 
 
 **They shall drive him** from heaven.
@@ -8861,7 +8861,7 @@ The word מתחולל is an expression of mourning, but I did not hear this.
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/20:27:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/20:27:1)
 
 
-**מִתְקוֹמְמָה.** לְשׁוֹן אוֹיֵב הַקָּם כְּנֶגְדּוֹ:
+**מִתְקוֹמָמָה.** לְשׁוֹן אוֹיֵב הַקָּם כְּנֶגְדּוֹ:
 
 
 **shall rise up** [This is] an expression of an enemy who rises up against him.
@@ -9253,7 +9253,7 @@ The word מתחולל is an expression of mourning, but I did not hear this.
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/21:22:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/21:22:1)
 
 
-**הֲלָאֵל יְלַמֵּד דָּעַת.** הֲיֵשׁ אֶחָד מִכֶּם אֲשֶׁר הוּא תַּחַת הָאֵל, שֶׁיְּלַמֵּד דַּעַת, מַה הִיא הַמִּדָּה הַזֹּאת?
+**הֲלָאֵל יְלַמֶּד דָּעַת.** הֲיֵשׁ אֶחָד מִכֶּם אֲשֶׁר הוּא תַּחַת הָאֵל, שֶׁיְּלַמֵּד דַּעַת, מַה הִיא הַמִּדָּה הַזֹּאת?
 
 
 **Can anyone teach knowledge for God** Is there anyone among you who is in the place of God, who can teach the knowledge of what this standard is [i.e., the standard of God’s judgment]?
@@ -9300,7 +9300,7 @@ The word מתחולל is an expression of mourning, but I did not hear this.
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/21:23:3](https://torahapp.org/share/book/Rashi%20on%20Job/r/21:23:3)
 
 
-**שַׁלְאֲנָן.** כְּמוֹ ״שַׁאֲנָן״ (ירמיהו מח:יא):
+**שַׁלְאֲנַן.** כְּמוֹ ״שַׁאֲנָן״ (ירמיהו מח:יא):
 
 
 **tranquil** Heb. שַׁלְאֲנָן, like שַׁאֲנָן.
@@ -9370,7 +9370,7 @@ The word מתחולל is an expression of mourning, but I did not hear this.
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/21:28:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/21:28:1)
 
 
-**כִּי תֹאמְרוּ וְגוֹ׳.** בִּשְׁבִיל הָרָעָה אֲשֶׁר בָּאַתְנִי אַתֶּם אוֹמְרִים: רְאוּ, **אַיֵּה בֵיתוֹ שֶׁל זֶה,** שֶׁהָיָה נָדִיב, **וְאַיֵּה אֹהֶל וּמִשְׁכְּנוֹת** שְׁאָר **רְשָׁעִים**? כְּלוֹמַר: כָּמוֹהוּ כָּמוֹהֶם, בְּרִשְׁעוֹ אָבַד בֵּיתוֹ (וְלָמָּה אַתֶּם בּוֹטְחִים בְּשַׁלְוַתְכֶם):
+**כִּי תֹאמְרוּ וְגוֹ׳.** בִּשְׁבִיל הָרָעָה אֲשֶׁר בָּאַתְנִי אַתֶּם אוֹמְרִים: רְאוּ, אַיֵּה בֵיתוֹ שֶׁל זֶה, שֶׁהָיָה נָדִיב, **וְאַיֵּה אֹהֶל וּמִשְׁכְּנוֹת** שְׁאָר **רְשָׁעִים**? כְּלוֹמַר: כָּמוֹהוּ כָּמוֹהֶם, בְּרִשְׁעוֹ אָבַד בֵּיתוֹ (וְלָמָּה אַתֶּם בּוֹטְחִים בְּשַׁלְוַתְכֶם):
 
 
 **For etc.** Because of the evil that has befallen me, you say, “Look, where is the house of this man who was a prince, and where is the tent and the dwellings of the other wicked men?” That is to say that he is like them. Because of his wickedness, his house was lost. (Now why do you rely on your tranquility?)
@@ -9434,7 +9434,7 @@ The word מתחולל is an expression of mourning, but I did not hear this.
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/21:31:2](https://torahapp.org/share/book/Rashi%20on%20Job/r/21:31:2)
 
 
-**וּמִי יְשַׁלֶּם לוֹ.** וּגְמוּל רִשְׁעוֹ מִי יְשַׁלֶּם לוֹ?
+וּ**מִי יְשַׁלֶּם לוֹ.** וּגְמוּל רִשְׁעוֹ מִי יְשַׁלֶּם לוֹ?
 
 
 **and who will requite Him** Who will requite Him with the recompense for His wickedness?
@@ -9531,7 +9531,7 @@ The word מתחולל is an expression of mourning, but I did not hear this.
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/22:3:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/22:3:1)
 
 
-**הֶחָפֵץ לְשַׁדַּי.** כְּמוֹ ״כִּי מַה חֶפְצוֹ בְּבֵיתוֹ אַחֲרָיו״ (איוב כא:כא)? הַהֲנָאָה וַחֲשָׁשׁ לוֹ, אִם תַּצְדִּיק מַעֲשֶׂיךָ בְּהִתְוַכֵּחַ לְפָנָיו, שֶׁיָּבֹא עִמְּךָ לְהִתְוַכֵּחַ בִּדְבָרֶיךָ?
+**הַחֵפֶץ לְשַׁדַּי.** כְּמוֹ ״כִּי מַה חֶפְצוֹ בְּבֵיתוֹ אַחֲרָיו״ (איוב כא:כא)? הַהֲנָאָה וַחֲשָׁשׁ לוֹ, אִם תַּצְדִּיק מַעֲשֶׂיךָ בְּהִתְוַכֵּחַ לְפָנָיו, שֶׁיָּבֹא עִמְּךָ לְהִתְוַכֵּחַ בִּדְבָרֶיךָ?
 
 
 **Does the Almighty care** Like (above 21:21), “For what does He care (חפצו) about his house after him?” What pleasure or concern does He have if you are righteous in your deeds, that you reason with Him that He come with you to contest your words?
@@ -9803,7 +9803,7 @@ The word מתחולל is an expression of mourning, but I did not hear this.
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/22:21:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/22:21:1)
 
 
-**הַסְכֵּן.** לְמוֹד לִהְיוֹת עִמּוֹ שָׁלֵם:
+**הַסְכֶּן.** לְמוֹד לִהְיוֹת עִמּוֹ שָׁלֵם:
 
 
 **Accustom yourself** Accustom yourself to be (wholehearted) with him.
@@ -9825,7 +9825,7 @@ The word מתחולל is an expression of mourning, but I did not hear this.
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/22:21:3](https://torahapp.org/share/book/Rashi%20on%20Job/r/22:21:3)
 
 
-**תְּבוֹאָתְךָ טוֹבָה.** תְּבוֹאֲךָ טוֹבָה:
+**תְּבוֹאַתְךָ טוֹבָה.** תְּבוֹאֲךָ טוֹבָה:
 
 
 **with them** With these things.
@@ -9942,7 +9942,7 @@ The word מתחולל is an expression of mourning, but I did not hear this.
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/22:29:3](https://torahapp.org/share/book/Rashi%20on%20Job/r/22:29:3)
 
 
-**יוֹשִׁיעַ.** אוֹתוֹ אֱלוֹהַּ בְּיָדְךָ וּבִתְפִלָּתְךָ:
+**יוֹשִׁעַ.** אוֹתוֹ אֱלוֹהַּ בְּיָדְךָ וּבִתְפִלָּתְךָ:
 
 
 God **will save** through your hands and through your prayer.
@@ -10194,7 +10194,7 @@ God **will save** through your hands and through your prayer.
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/23:9:4](https://torahapp.org/share/book/Rashi%20on%20Job/r/23:9:4)
 
 
-**יַעֲטֹף יָמִין.** כִּסָּה פְּנֵי הַדָּרוֹם בְּפָנָיו, לְמַעַן לֹא אֶרְאֶנּוּ:
+**יַעְטֹף יָמִין.** כִּסָּה פְּנֵי הַדָּרוֹם בְּפָנָיו, לְמַעַן לֹא אֶרְאֶנּוּ:
 
 
 **He wraps up the south** He covers the face of the south before me in order that I should not see Him.
@@ -10580,7 +10580,7 @@ This [word] ימיו, His days, denotes the way He acted in His time, like (belo
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/24:8:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/24:8:1)
 
 
-**מִזֶּרֶם.** הַיּוֹרֵד מִן הֶהָרִים **יִרְטָבוּ** וְיִתְלַחְלְחוּ אוֹתָן הָעֲרוּמִים, לְפִי שֶׁ**מִבְּלִי כִסּוּי אֵין מַחְסֶה לְהֵחָסוֹת בּוֹ**:
+**מִזֶּרֶם.** הַיּוֹרֵד מִן הֶהָרִים **יִרְטָבוּ** וְיִתְלַחְלְחוּ אוֹתָן הָעֲרוּמִים, לְפִי שֶׁמִבְּלִי כִסּוּי אֵין מַחְסֶה לְהֵחָסוֹת בּוֹ:
 
 
 **From the stream** that flows from the mountains, these naked people became wet and damp because they have no cover. They have no refuge under which to shelter themselves.
@@ -10677,7 +10677,7 @@ This [word] ימיו, His days, denotes the way He acted in His time, like (belo
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/24:11:2](https://torahapp.org/share/book/Rashi%20on%20Job/r/24:11:2)
 
 
-**וִיקָבִים דָּרְכוּ.** בַּעֲלֵי כְּרָמִים:
+וְ**יְקָבִים דָּרְכוּ.** בַּעֲלֵי כְּרָמִים:
 
 
 **they tread the winepresses** The owners of the vineyards.
@@ -10988,7 +10988,7 @@ This [word] ימיו, His days, denotes the way He acted in His time, like (belo
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/24:23:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/24:23:1)
 
 
-**יִתֵּן לוֹ לָבֶטַח.** עַד יוֹם אֵידָם, וְנִשְׁעָנוּ:
+**יִתֶּן לוֹ לָבֶטַח.** עַד יוֹם אֵידָם, וְנִשְׁעָנוּ:
 
 
 **He grants him safety** until the day of their catastrophe and they rely [on it].
@@ -11248,7 +11248,7 @@ This [word] ימיו, His days, denotes the way He acted in His time, like (belo
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/26:9:2](https://torahapp.org/share/book/Rashi%20on%20Job/r/26:9:2)
 
 
-**וּפַרְשֵׁז.** עַל הַכִּסֵּא עֲנָנוֹ, כְּמוֹ וּדְמוּת עַל רָאשֵׁי הַחַיּוֹת רָקִיעַ (יחזקאל א:כב):
+וּ**פַּרְשֵׁז.** עַל הַכִּסֵּא עֲנָנוֹ, כְּמוֹ וּדְמוּת עַל רָאשֵׁי הַחַיּוֹת רָקִיעַ (יחזקאל א:כב):
 
 
 **He spreads** over the throne His cloud (Ezek. 1:22), “And there was a likeness over the heads of the living creatures, of an expanse.”
@@ -11468,7 +11468,7 @@ This [word] ימיו, His days, denotes the way He acted in His time, like (belo
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/27:8:2](https://torahapp.org/share/book/Rashi%20on%20Job/r/27:8:2)
 
 
-**כִּי יִשַּׁל.** כִּי יַשְׁלִיךְ הַמָּקוֹם אֶת נַפְשׁוֹ מֵעָלָיו, לְשׁוֹן ״שַׁל נַעַלְךָ״ (שמות ג:ה) ״וְנָשַׁל הַבַּרְזֶל״ (דברים יט:ה):
+**כִּי יֵשֶׁל.** כִּי יַשְׁלִיךְ הַמָּקוֹם אֶת נַפְשׁוֹ מֵעָלָיו, לְשׁוֹן ״שַׁל נַעַלְךָ״ (שמות ג:ה) ״וְנָשַׁל הַבַּרְזֶל״ (דברים יט:ה):
 
 
 **when God casts off** Heb. ישל. When the Omnipresent casts his soul off him. This is an expression of (Exod. 3:5), “Remove (של) your shoes”; (Deut. 19:5), “and the iron [head] slips off (ונשל).”
@@ -11638,7 +11638,7 @@ This [word] ימיו, His days, denotes the way He acted in His time, like (belo
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/27:22:3](https://torahapp.org/share/book/Rashi%20on%20Job/r/27:22:3)
 
 
-**בְּרוּחַ יִבְרָח.** בֶּן עֲצָתוֹ שֶׁהָיָה מְסַיְּעוֹ בַּתְּחִלָּה, יִבְרַח מֵעֲזוֹר יָדוֹ בִּשְׁעַת כִּשְׁלוֹנוֹ. כְּמוֹ שֶׁעָשָׂה חַרְבוֹנָה לְהָמָן (מגילה טז.):
+**בָּרוֹחַ יִבְרָח.** בֶּן עֲצָתוֹ שֶׁהָיָה מְסַיְּעוֹ בַּתְּחִלָּה, יִבְרַח מֵעֲזוֹר יָדוֹ בִּשְׁעַת כִּשְׁלוֹנוֹ. כְּמוֹ שֶׁעָשָׂה חַרְבוֹנָה לְהָמָן (מגילה טז.):
 
 
 **he will flee** His counselor, who assisted him from the start, will flee from assisting him at the time of his downfall, as Charbonah did to Haman (Esther 7:9).
@@ -11897,7 +11897,7 @@ This [word] ימיו, His days, denotes the way He acted in His time, like (belo
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/28:11:2](https://torahapp.org/share/book/Rashi%20on%20Job/r/28:11:2)
 
 
-**חָבַשׁ.** כְּמוֹ ״וַיַּחֲבֹשׁ אֶת־חֲמֹרוֹ״ (בראשית כב:ג). כָּךְ שָׁמַעְתִּי. [ס״א: **מִבְּכִי וְגוֹ׳.** מִפְּנֵי בְּכִיָּתָן שֶׁל יִשְׂרָאֵל, שֶׁהָיוּ בוֹכִין ״לֵאמֹר מַה נִּשְׁתֶּה״ (שמות טו:כד), חָבַשׁ וְתִקֵּן לָהֶם נַהֲרֵי מַיִם מִן הַסֶּלַע; ״וַיַּחֲבֹשׁ לָהֶם״ (ויקרא ח:יג) – מְתַרְגֵּם: ״וְאַתְקֵין״ (תרגום אונקלוס).]
+**חִבֵּשׁ.** כְּמוֹ ״וַיַּחֲבֹשׁ אֶת־חֲמֹרוֹ״ (בראשית כב:ג). כָּךְ שָׁמַעְתִּי. [ס״א: **מִבְּכִי וְגוֹ׳.** מִפְּנֵי בְּכִיָּתָן שֶׁל יִשְׂרָאֵל, שֶׁהָיוּ בוֹכִין ״לֵאמֹר מַה נִּשְׁתֶּה״ (שמות טו:כד), חָבַשׁ וְתִקֵּן לָהֶם נַהֲרֵי מַיִם מִן הַסֶּלַע; ״וַיַּחֲבֹשׁ לָהֶם״ (ויקרא ח:יג) – מְתַרְגֵּם: ״וְאַתְקֵין״ (תרגום אונקלוס).]
 
 
 **bound up** Heb. חבש, like (Gen. 22:3), “and saddled (ויחבש) his donkey.” I did not hear this. [Other editions: **Because of the weeping etc.** Because of the weeping of Israel, who were weeping, saying, “What will we drink,” He bound up and fixed for them water from the rock. (Lev. 8:13),”And he fixed hats (ויחבש) for them,” is translated into Aramaic as ואתקין.]
@@ -12067,7 +12067,7 @@ This [word] ימיו, His days, denotes the way He acted in His time, like (belo
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/28:21:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/28:21:1)
 
 
-**וּמֵעוֹף הַשָּׁמָיִם.** מַלְאָכִים הַמְעוֹפְפִים:
+**וּמֵעוֹף הַשָּׁמַיִם.** מַלְאָכִים הַמְעוֹפְפִים:
 
 
 **and from the winged creatures of the heavens** The angels who fly.
@@ -13039,7 +13039,7 @@ This [word] ימיו, His days, denotes the way He acted in His time, like (belo
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/30:20:2](https://torahapp.org/share/book/Rashi%20on%20Job/r/30:20:2)
 
 
-**וַתִּתְבּוֹנֵן בִּי.** מְחַשֵּׁב עָלַי לִשְׁנוֹת אֶת נְגָעַי:
+**וַתִּתְבֹּנֶן בִּי.** מְחַשֵּׁב עָלַי לִשְׁנוֹת אֶת נְגָעַי:
 
 
 **and You ponder me** You think about me to change my plagues.
@@ -13125,7 +13125,7 @@ This [word] ימיו, His days, denotes the way He acted in His time, like (belo
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/30:24:3](https://torahapp.org/share/book/Rashi%20on%20Job/r/30:24:3)
 
 
-**לָהֶן שׁוּעַ.** הָיָה מְשַׁעֲשְׁעָן תַּנְחוּמִין בְּמִקְצָת. וְכֵן פֵּרְשׁוּ רַבּוֹתֵינוּ (ילקוט שמעוני איוב תתקיח): אֵין הַקָּדוֹשׁ בָּרוּךְ הוּא מַכֶּה אוּמָּה וּמוֹשִׁיבָהּ צָדוּ, אֶלָּא מֵבִיא פִּיד לָזוֹ וּמְשַׁעֲשְׁעָהּ בַּחֲבֶרְתָּהּ שֶׁלָּקְתָה כְּבָר, וּמִתְנַחֶמֶת בָּהּ. הֵבִיא פִּיד לְאַשּׁוּר וְשִׁעֲשֵׁעַ בְּמִצְרַיִם, שֶׁנֶּאֱמַר ״הֲתֵיטְבִי מִנֹּא אָמוֹן״ (נחום ג:ח); הֵבִיא פִּיד לְמִצְרַיִם וְשִׁעֲשֵׁעַ בְּאַשּׁוּר, שֶׁנֶּאֱמַר ״הִנֵּה אַשּׁוּר... בַּלְּבָנוֹן״ (יחזקאל לא:ג). וְעוֹד יִפָּתֵר **לָהֶן שׁוּעַ.** תְּפִלָּה וּתְחִנָּה מוֹעֶלֶת בָּהֶם:
+**לָהֶן שׁוּעַ.** הָיָה מְשַׁעֲשְׁעָן תַּנְחוּמִין בְּמִקְצָת. וְכֵן פֵּרְשׁוּ רַבּוֹתֵינוּ (ילקוט שמעוני איוב תתקיח): אֵין הַקָּדוֹשׁ בָּרוּךְ הוּא מַכֶּה אוּמָּה וּמוֹשִׁיבָהּ צָדוּ, אֶלָּא מֵבִיא פִּיד לָזוֹ וּמְשַׁעֲשְׁעָהּ בַּחֲבֶרְתָּהּ שֶׁלָּקְתָה כְּבָר, וּמִתְנַחֶמֶת בָּהּ. הֵבִיא פִּיד לְאַשּׁוּר וְשִׁעֲשֵׁעַ בְּמִצְרַיִם, שֶׁנֶּאֱמַר ״הֲתֵיטְבִי מִנֹּא אָמוֹן״ (נחום ג:ח); הֵבִיא פִּיד לְמִצְרַיִם וְשִׁעֲשֵׁעַ בְּאַשּׁוּר, שֶׁנֶּאֱמַר ״הִנֵּה אַשּׁוּר… בַּלְּבָנוֹן״ (יחזקאל לא:ג). וְעוֹד יִפָּתֵר **לָהֶן שׁוּעַ.** תְּפִלָּה וּתְחִנָּה מוֹעֶלֶת בָּהֶם:
 
 
 **He would dandle them** He would dandle them with partial consolations. And so did our Sages (Pesikta d’Rav Kahana p. 1 27a) explain it: The Holy One, blessed be He, does not smite a nation and leave it desolate, but He brings misfortune to one and dandles it with its fellow that suffered already, and it is consoled thereby. He brought misfortune upon Assyria and dandled it with Egypt, as it is said (Nahum 3:8): “Are you better than the great No- Amon?” He brought misfortune upon Egypt and dandled them with Assyria, as it is said (Ezek. 31: 3): “Behold Assyria was [a cedar] in the Lebanon.” The words להן שוע may also be interpreted as: Prayer and supplication avail them.
@@ -13374,7 +13374,7 @@ This [word] ימיו, His days, denotes the way He acted in His time, like (belo
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/31:11:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/31:11:1)
 
 
-**כִּי הִיא זִמָּה.** וְיָרֵא הָיִיתִי אִם עָשִׂיתִי, שֶׁהוּא **עָוֹן פְּלִילִי**, עָוֹן שֶׁמִּשְׁפַּט יִסּוּרִין רְאוּיִין לָבֹא עַל יָדוֹ:
+**כִּי הִיא זִמָּה.** וְיָרֵא הָיִיתִי אִם עָשִׂיתִי, שֶׁהוּא **עָוֺן פְּלִילִי**, עָוֹן שֶׁמִּשְׁפַּט יִסּוּרִין רְאוּיִין לָבֹא עַל יָדוֹ:
 
 
 **For that is lewdness** and I feared that if I committed it, that **it is iniquity deserving punishment** iniquity for which judgment of suffering is fit to come.
@@ -13416,7 +13416,7 @@ This [word] ימיו, His days, denotes the way He acted in His time, like (belo
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/31:15:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/31:15:1)
 
 
-**וַיְכוֹנְנוּ בָרֶחֶם.** אֲנִי בְּבֶטֶן אִמִּי, וְהוּא בְּבֶטֶן אִמּוֹ, הֱכִינָנוּ יוֹצֵר אֶחָד:
+**וַיְכֻנֶנּוּ בָרֶחֶם.** אֲנִי בְּבֶטֶן אִמִּי, וְהוּא בְּבֶטֶן אִמּוֹ, הֱכִינָנוּ יוֹצֵר אֶחָד:
 
 
 **and form us both in the womb?** I in my mother’s womb and he in his mother’s womb—did not One creator form us?
@@ -13480,7 +13480,7 @@ This [word] ימיו, His days, denotes the way He acted in His time, like (belo
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/31:22:2](https://torahapp.org/share/book/Rashi%20on%20Job/r/31:22:2)
 
 
-**מִקָּנֶה.** הוּא עֶצֶם הָעֶלְיוֹן, הֶעָגֹל כְּקָנֶה; וְעַל שֶׁהוּא עָגֹל כְּקָנֶה, קוֹרֵא אוֹתוֹ כֵּן:
+**מִקָּנָה.** הוּא עֶצֶם הָעֶלְיוֹן, הֶעָגֹל כְּקָנֶה; וְעַל שֶׁהוּא עָגֹל כְּקָנֶה, קוֹרֵא אוֹתוֹ כֵּן:
 
 
 **from its bone** That is the upper bone, which is round as a reed (קנה), and because it is round as a reed, it is called so.
@@ -13683,7 +13683,7 @@ This [word] ימיו, His days, denotes the way He acted in His time, like (belo
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/31:35:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/31:35:1)
 
 
-**הֵן תָּוִי שַׁדַּי יַעֲנֵנִי.** וּלְוַאי שֶׁיָּעִיד עָלַי הַמָּקוֹם בַּדִּין, כְּמוֹ שֶׁאָמַר עָלַי: ״כִּי אֵין כָּמוֹהוּ בָּאָרֶץ... תָּם וְיָשָׁר וִירֵא אֱלֹהִים״ (איוב א:ח). גַּם מֹשֶׁה שֶׁכָּתַב סִפְרוֹ וְסִפְרִי יָעִיד עָלַי. כֵּן הָיָה אִיּוֹב אוֹמֵר: תְּנָה לְתַוּוֹת אוֹתִי וְאֶת כּוֹשְׁרִי:
+**הֵן תָּוִי שַׁדַּי יַעֲנֵנִי.** וּלְוַאי שֶׁיָּעִיד עָלַי הַמָּקוֹם בַּדִּין, כְּמוֹ שֶׁאָמַר עָלַי: ״כִּי אֵין כָּמוֹהוּ בָּאָרֶץ… תָּם וְיָשָׁר וִירֵא אֱלֹהִים״ (איוב א:ח). גַּם מֹשֶׁה שֶׁכָּתַב סִפְרוֹ וְסִפְרִי יָעִיד עָלַי. כֵּן הָיָה אִיּוֹב אוֹמֵר: תְּנָה לְתַוּוֹת אוֹתִי וְאֶת כּוֹשְׁרִי:
 
 
 **behold my inscription; may the Almighty bear witness for me** Would that the Omnipresent bear witness for me in judgment, as He wrote concerning me (1:8): “For there is none like him on earth, a sincere and upright man, God-fearing.” Also Moses, who wrote his Book and my Book, will bear witness concerning me. (Another explanation:) This is what Job says, “Give it to inscribe me and my virtue.”
@@ -14100,7 +14100,7 @@ Until this point, he repeatedly prophesies many prophecies, and you say: Job’s
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/33:9:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/33:9:1)
 
 
-**חָף.** טָהוֹר וּמְשֻׁפְשָׁף, כְּמוֹ (ביצה לה:) ״נָזִיר לֹא יָחוֹף רֹאשׁוֹ״, וּכְמוֹ (שבת נ.) ״בַּכֹּל חָפִין אֶת הַכֵּלִים״:
+**חַף.** טָהוֹר וּמְשֻׁפְשָׁף, כְּמוֹ (ביצה לה:) ״נָזִיר לֹא יָחוֹף רֹאשׁוֹ״, וּכְמוֹ (שבת נ.) ״בַּכֹּל חָפִין אֶת הַכֵּלִים״:
 
 
 **I am clean** Heb. חף, pure and cleansed, like (Bezah 35b), “A nazirite may not cleanse (יחף) his head...” and like (Shabbath 50a),” we may cleanse (חפין) vessels with anything.”
@@ -14364,7 +14364,7 @@ Until this point, he repeatedly prophesies many prophecies, and you say: Job’s
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/33:25:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/33:25:1)
 
 
-**רֻטֲפַשׁ בְּשָׂרוֹ.** רוֹטְפַשׁ אֶשְׁקוֹשָׁ״א בְּלַעַ״ז:
+**רֻטְפַשׁ בְּשָׂרוֹ.** רוֹטְפַשׁ אֶשְׁקוֹשָׁ״א בְּלַעַ״ז:
 
 
 **His flesh is agitated from shaking** Heb. רֻטֲפַש means escos in French, shaken.
@@ -14411,7 +14411,7 @@ Until this point, he repeatedly prophesies many prophecies, and you say: Job’s
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/33:27:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/33:27:1)
 
 
-**יָשׁוּר עַל אֲנָשִׁים.** יַעֲשֶׂה שׁוּרוֹת שֶׁל אֲנָשִׁים כְּשֶׁנִּצּוֹל מֵחָלְיוֹ, וְיִתְוַדֶּה לְיוֹצְרוֹ:
+**יָשֹׁר עַל אֲנָשִׁים.** יַעֲשֶׂה שׁוּרוֹת שֶׁל אֲנָשִׁים כְּשֶׁנִּצּוֹל מֵחָלְיוֹ, וְיִתְוַדֶּה לְיוֹצְרוֹ:
 
 
 **He makes a row of men** He makes a row of men when he is saved from his illness and confesses [before them] to his Creator.
@@ -14818,7 +14818,7 @@ Until this point, he repeatedly prophesies many prophecies, and you say: Job’s
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/34:29:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/34:29:1)
 
 
-**וְהוּא יַשְׁקִיט.** מַשְׁקִיט אֶת הַדַּלִּים מֵאוֹתָן הָעוֹשְׁקִים, **וּמִי יַרְשִׁיעַ** עוֹד? וּבְעוֹד **שֶׁהִסְתִּיר פָּנִים, מִי יְשׁוּרֶנּוּ**?
+**וְהוּא יַשְׁקִיט.** מַשְׁקִיט אֶת הַדַּלִּים מֵאוֹתָן הָעוֹשְׁקִים, **וּמִי יַרְשִׁיעַ** עוֹד? וּבְעוֹד שֶׁהִסְתִּיר פָּנִים, **מִי יְשׁוּרֶנּוּ**?
 
 
 **When He quiets** He gives the poor [some peace and] quiet from those who oppress [them]. Now who will deal wickedly anymore? And as long as He hid His face, who will see Him?
@@ -15110,7 +15110,7 @@ and what profit will I have more than if I had sinned?’
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/35:11:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/35:11:1)
 
 
-**מְלַפְּנוּ.** מְלַמְּדֵנוּ חָכְמָה יוֹתֵר מִבְּהֵמוֹת, כְּלוֹמַר: חֲשָׁבָנוּ וְגִדְּלָנוּ **מִבַּהֲמוֹת וּמֵעוֹף**:
+**מַלְּפֵנוּ.** מְלַמְּדֵנוּ חָכְמָה יוֹתֵר מִבְּהֵמוֹת, כְּלוֹמַר: חֲשָׁבָנוּ וְגִדְּלָנוּ **מִבַּהֲמוֹת וּמֵעוֹף**:
 
 
 **Who teaches us** He teaches us more wisdom than [He does] the beasts; i.e., He esteemed us and made us greater than the beasts and the birds.
@@ -15447,7 +15447,7 @@ and what profit will I have more than if I had sinned?’
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/36:14:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/36:14:1)
 
 
-**תָּמוּת בַּנֹּעַר.** וּבְשִׁנּוּק שֶׁעֲלֵיהֶם נַפְשָׁם:
+**תָּמֹת בַּנֹּעַר.** וּבְשִׁנּוּק שֶׁעֲלֵיהֶם נַפְשָׁם:
 
 
 **shall die by strangulation** Their soul [shall die] by the strangulation that is upon them,
@@ -15511,7 +15511,7 @@ but the poor man, who makes himself poor in the matter of supplications...**He e
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/36:17:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/36:17:1)
 
 
-**וְדִין רָשָׁע מָלֵאתָ.** וְאִם נִתְמַלֵּאתָ בְּיִסּוּרֵי הָרְשָׁעִים, הַדִּין וְהַמִּשְׁפָּט הֵם הַיִּסּוּרִין; **הֵם יִתְמְכוּ** לְךָ לֶעָתִיד מִגֵּיהִנֹּם, וְיֵשׁ לְךָ לְקַבְּלָם בְּאַהֲבָה:
+**וְדִין רָשָׁע מָלֵאתָ.** וְאִם נִתְמַלֵּאתָ בְּיִסּוּרֵי הָרְשָׁעִים, הַדִּין וְהַמִּשְׁפָּט הֵם הַיִּסּוּרִין; הֵם **יִתְמֹכוּ** לְךָ לֶעָתִיד מִגֵּיהִנֹּם, וְיֵשׁ לְךָ לְקַבְּלָם בְּאַהֲבָה:
 
 
 **And if you have had your fill of the sentence of the wicked** And if you have had your fill of the sufferings of the wicked, the judgment and the sentence—which are [represented by] the sufferings—will support you in the future from Gehinnom, and you must accept them lovingly.
@@ -15803,7 +15803,7 @@ but the poor man, who makes himself poor in the matter of supplications...**He e
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/36:31:2](https://torahapp.org/share/book/Rashi%20on%20Job/r/36:31:2)
 
 
-**יִתֵּן אֹכֶל לְמַכְבִּיר.** מִשָּׁם בָּאִים מְזוֹנוֹת: ״הִנְנִי מַמְטִיר לָכֶם לֶחֶם מִן הַשָּׁמָיִם״ (שמות טז:ד). מָשָׁל לְנַחְתּוֹם הָעוֹמֵד לִפְנֵי הַכִּבְשָׁן – נִכְנַס שׂוֹנְאוֹ, חוֹתֶה גֶּחָלִים וְזוֹרֵק בּוֹ; נִכְנַס אוֹהֲבוֹ, מוֹצִיא פַּת חַמָּה וְנוֹתֵן לוֹ:
+**יִתֶּן אֹכֶל לְמַכְבִּיר.** מִשָּׁם בָּאִים מְזוֹנוֹת: ״הִנְנִי מַמְטִיר לָכֶם לֶחֶם מִן הַשָּׁמָיִם״ (שמות טז:ד). מָשָׁל לְנַחְתּוֹם הָעוֹמֵד לִפְנֵי הַכִּבְשָׁן – נִכְנַס שׂוֹנְאוֹ, חוֹתֶה גֶּחָלִים וְזוֹרֵק בּוֹ; נִכְנַס אוֹהֲבוֹ, מוֹצִיא פַּת חַמָּה וְנוֹתֵן לוֹ:
 
 
 **He gives food to one who has many** From there comes sustenance (Ex. 16:4): “See, I am about to have bread rain down from heaven for you.” This is to be compared to a baker who is standing before the oven. If an enemy comes in, he rakes coals and casts them at him; if his friend comes in, he takes out hot bread and gives it to him.
@@ -16239,7 +16239,7 @@ but the poor man, who makes himself poor in the matter of supplications...**He e
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/37:17:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/37:17:1)
 
 
-**אֲשֶׁר בְּגָדֶיךָ חַמִּים.** בַּמֶּה בְּגָדֶיךָ חַמִּים? **בְּהַשְׁקִיטִי אֶרֶץ מֵרוּחַ דְּרוֹמִית**, שֶׁאֵינָהּ הוֹרֶגֶת אֶת הָעוֹלָם בְּקָרָה; שֶׁרוּחַ מִזְרָחִית מְחַמֶּמֶת, שֶׁנֶּאֱמַר ״רוּחַ קָדִים חֲרִישִׁית״ (יונה ד:ח) – שֶׁמַּשְׁתֶּקֶת כָּל הָרוּחוֹת מִפָּנֶיהָ:
+**אֲשֶׁר בְּגָדֶיךָ חַמִּים.** בַּמֶּה בְּגָדֶיךָ חַמִּים? בְּהַשְׁקִיטִי אֶרֶץ מֵרוּחַ דְּרוֹמִית, שֶׁאֵינָהּ הוֹרֶגֶת אֶת הָעוֹלָם בְּקָרָה; שֶׁרוּחַ מִזְרָחִית מְחַמֶּמֶת, שֶׁנֶּאֱמַר ״רוּחַ קָדִים חֲרִישִׁית״ (יונה ד:ח) – שֶׁמַּשְׁתֶּקֶת כָּל הָרוּחוֹת מִפָּנֶיהָ:
 
 
 **How your garments are warm** How your garments are warm when He silences the earth from the south wind, so that it should not kill the world with cold, because the east wind warms it. As it is stated (Jonah 4:8): “a stilling east wind,” which quiets all other winds before it.
@@ -16479,7 +16479,7 @@ but the wind comes and clears them away, makes them pass away, and no rain falls
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/38:2:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/38:2:1)
 
 
-**מַחְשִׁיךְ עֵצָה.** עֵצָה חֲשֵׁכָה וּסְכָלָה. דָּבָר אַחֵר: **מִי זֶה מַחְשִׁיךְ עֵצָה... בְּלִי דָעַת.** אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא: מִי זֶה הוּא מַחְשִׁיךְ עֵצָה – מְקַלְקֵל בְּמִלִּים וּבְרֹב דְּבָרִים? שֶׁכָּתַבְתִּי ״אִישׁ תָּם וְיָשָׁר״ בִּתְחִלַּת הַסֵּפֶר (איוב א:א), כְּדֵי לָחוּל שְׁמִי עָלָיו; וְהוּא בָּא וְהֶחְשִׁיךְ וְקִלְקֵל מַה שֶּׁיָּעַצְתִּי בְּרֹב דְּבָרָיו! וְאִיּוֹב עָנָהוּ: ״מִי זֶה מַעְלִים עֵצָה״ (איוב מב:ג) – אִלּוּ הָיִיתִי יוֹדֵעַ עֲצָתְךָ, לֹא הָיִיתִי מַרְבֶּה בִדְבָרִים. וְהַקָּדוֹשׁ בָּרוּךְ הוּא הֱשִׁיבוֹ: וַהֲלֹא אַבְרָהָם לֹא הָיָה יוֹדֵעַ, וְעָמַד בְּעֶשֶׂר! כָּךְ מָצָאתִי:
+**מַחְשִׁיךְ עֵצָה.** עֵצָה חֲשֵׁכָה וּסְכָלָה. דָּבָר אַחֵר: **מִי זֶה מַחְשִׁיךְ עֵצָה… בְּלִי דָעַת.** אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא: מִי זֶה הוּא מַחְשִׁיךְ עֵצָה – מְקַלְקֵל בְּמִלִּים וּבְרֹב דְּבָרִים? שֶׁכָּתַבְתִּי ״אִישׁ תָּם וְיָשָׁר״ בִּתְחִלַּת הַסֵּפֶר (איוב א:א), כְּדֵי לָחוּל שְׁמִי עָלָיו; וְהוּא בָּא וְהֶחְשִׁיךְ וְקִלְקֵל מַה שֶּׁיָּעַצְתִּי בְּרֹב דְּבָרָיו! וְאִיּוֹב עָנָהוּ: ״מִי זֶה מַעְלִים עֵצָה״ (איוב מב:ג) – אִלּוּ הָיִיתִי יוֹדֵעַ עֲצָתְךָ, לֹא הָיִיתִי מַרְבֶּה בִדְבָרִים. וְהַקָּדוֹשׁ בָּרוּךְ הוּא הֱשִׁיבוֹ: וַהֲלֹא אַבְרָהָם לֹא הָיָה יוֹדֵעַ, וְעָמַד בְּעֶשֶׂר! כָּךְ מָצָאתִי:
 
 
 **who gives dark counsel** Dark and foolish counsel. Another explanation: Who is this who gives dark counsel...without knowledge? Said the Holy One, blessed be He: Who is this who darkens counsel, frustrates words, i.e., with a multiplicity of words; for I wrote: “and that man was sincere and upright,” at the beginning of the Book, in order that My name should rest on Him, but he came and darkened and frustrated what I counseled with his many words. Whereupon Job replies to Him (below 42:3): “Who is this Who hides counsel?” Had I known Your counsel, I would not have spoken so much. Then the Holy One blessed be He, answers him, “Neither did Abraham know; yet he passed ten” [tests]. So I found.
@@ -16758,7 +16758,7 @@ but the wind comes and clears them away, makes them pass away, and no rain falls
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/38:23:2](https://torahapp.org/share/book/Rashi%20on%20Job/r/38:23:2)
 
 
-**לְעֵת צָר.** לַחֲמֵשֶׁת מְלָכִים בְּגִבְעוֹן (יהושע י:טז-כז):
+**לְעֶת צָר.** לַחֲמֵשֶׁת מְלָכִים בְּגִבְעוֹן (יהושע י:טז-כז):
 
 
 **for a time of trouble** For the five kings in Gibeon.
@@ -17908,7 +17908,7 @@ but the wind comes and clears them away, makes them pass away, and no rain falls
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/40:22:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/40:22:1)
 
 
-**יְסֻכֻּהוּ צֶאֱלִים צִלֲלוֹ.** אוֹתוֹ צֵל שֶׁל **סֵתֶר קָנֶה וּבִצָּה** מְסֻבָּךְ וּמְסֻכָּךְ בְּאִילָנוֹת הַרְבֵּה:
+**יְסֻכֻּהוּ צֶאֱלִים צִלְלוֹ.** אוֹתוֹ צֵל שֶׁל **סֵתֶר קָנֶה וּבִצָּה** מְסֻבָּךְ וּמְסֻכָּךְ בְּאִילָנוֹת הַרְבֵּה:
 
 
 **Do the shadows cover him as his shadow** [Does] the shadow of the covert of the reeds and the swamp, which is entangled [or surrounded—Berechiah] and hedged around with [many] trees.
@@ -18105,7 +18105,7 @@ but the wind comes and clears them away, makes them pass away, and no rain falls
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/40:29:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/40:29:1)
 
 
-**הֲתִשְׂחַק.** אִם תְּשַׂחֵק וּתְטַיֵּל בּוֹ, כְּאִלּוּ הוּא צִפּוֹר קָטָן?
+**הַתְשַׂחֶק.** אִם תְּשַׂחֵק וּתְטַיֵּל בּוֹ, כְּאִלּוּ הוּא צִפּוֹר קָטָן?
 
 
 **Will you play** Will you play and stroll with him as though he were a small bird,
@@ -18130,7 +18130,7 @@ but the wind comes and clears them away, makes them pass away, and no rain falls
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/40:30:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/40:30:1)
 
 
-**יִכְרוּ עָלָיו חֲבֵרִים.** אִם יִכְרוּ וְיַחְכְּמוּ עָלָיו חֲבֵרִים וּמְכַשְּׁפִים, לָצוּד אוֹתוֹ לְהוֹצִיאוֹ מִן הַיָּם עַל יְדֵי מְכַשְּׁפוֹת, שֶׁיֶּחֱצוּהוּ וִיחַלְּקוּהוּ בֵּין תַּגָּרִים; כְּעִנְיָן שֶׁעוֹשִׂים צַיָּדֵי הַיָּם, שֶׁצָּדִין דָּגִים גְּדוֹלִים בְּחָכְמָתָם, וּבָאִים הַתַּגָּרִים וְקוֹנִים מֵהֶם:
+**יִכְרוּ עָלָיו חַבָּרִים.** אִם יִכְרוּ וְיַחְכְּמוּ עָלָיו חֲבֵרִים וּמְכַשְּׁפִים, לָצוּד אוֹתוֹ לְהוֹצִיאוֹ מִן הַיָּם עַל יְדֵי מְכַשְּׁפוֹת, שֶׁיֶּחֱצוּהוּ וִיחַלְּקוּהוּ בֵּין תַּגָּרִים; כְּעִנְיָן שֶׁעוֹשִׂים צַיָּדֵי הַיָּם, שֶׁצָּדִין דָּגִים גְּדוֹלִים בְּחָכְמָתָם, וּבָאִים הַתַּגָּרִים וְקוֹנִים מֵהֶם:
 
 
 **Will charmers dig pits for him** Will charmers and sorcerers dig pits to hunt him? To take him out of the sea by means of sorcery [so] that they can divide him and share him among the merchants, as the sea fishermen do? That is, they catch large fish with their cunning, and the merchants come and purchase from them.
@@ -18152,7 +18152,7 @@ but the wind comes and clears them away, makes them pass away, and no rain falls
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/40:30:3](https://torahapp.org/share/book/Rashi%20on%20Job/r/40:30:3)
 
 
-**חֲבֵרִים.** לְשׁוֹן ״וְחֹבֵר חָבֶר״ (דברים יח:יא):
+**חַבָּרִים.** לְשׁוֹן ״וְחֹבֵר חָבֶר״ (דברים יח:יא):
 
 
 **charmers** Heb. חַבָרִים, an expression of (Deut. 18:11), “a charmer (וְחבֵר חָבֶר).”
@@ -18507,7 +18507,7 @@ but the wind comes and clears them away, makes them pass away, and no rain falls
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/41:11:3](https://torahapp.org/share/book/Rashi%20on%20Job/r/41:11:3)
 
 
-**כְּיִדוֹדֵי אֵשׁ.** כְּמוֹ לַפִּידִים:
+**כִּידוֹדֵי אֵשׁ.** כְּמוֹ לַפִּידִים:
 
 
 **sparks of fire** Like firebrands.
@@ -18618,7 +18618,7 @@ but the wind comes and clears them away, makes them pass away, and no rain falls
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/41:15:3](https://torahapp.org/share/book/Rashi%20on%20Job/r/41:15:3)
 
 
-**דָּבְקוּ.** בֵּי״ת קְמוּצָה בְּקָמַץ קָטָן, כְּמוֹ ״וּלְשׁוֹנָם לְחִכָּם דָּבֵקָה״ (איוב כט:י), וְכֵן הַרְבֵּה בְּאֶתְנַחְתָּא וְסוֹף פָּסוּק:
+**דָבֵקוּ.** בֵּי״ת קְמוּצָה בְּקָמַץ קָטָן, כְּמוֹ ״וּלְשׁוֹנָם לְחִכָּם דָּבֵקָה״ (איוב כט:י), וְכֵן הַרְבֵּה בְּאֶתְנַחְתָּא וְסוֹף פָּסוּק:
 
 
 **are joined together** the “beth” is vowelized by a small “kamatz” (tzeireh), like (Job 29:1O), “and their tongues stuck (דבקה) to their palates,” and many other cantillated by “ethrahta” or “sof pasuk.” [These are the pause accents.]
@@ -18715,7 +18715,7 @@ but the wind comes and clears them away, makes them pass away, and no rain falls
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/41:18:2](https://torahapp.org/share/book/Rashi%20on%20Job/r/41:18:2)
 
 
-**חֲנִית מַסָּע וְשִׁרְיָה.** וְכֵן כָּל כְּלֵי מִלְחָמָה הַלָּלוּ שֶׁבְּיַד הַמַּשִּׂיג, לֹא יִתְקַיְּמוּ וְלֹא יַעַמְדוּ לְפָנָיו שֶׁל לִוְיָתָן. .**מַסָּע.** יֵשׁ לוֹמַר שֶׁהוּא אֶחָד מִכְּלֵי מִלְחָמָה, כְּמוֹ חֶרֶב וַחֲנִית וְשִׁרְיָה. וְיֵשׁ לוֹמַר מַסָּע דּוּגְמַת ״אֶבֶן שְׁלֵמָה מַסָּע וְגוֹ׳״ (מלכים א ו:ז). וְזֶהוּ פִּתְרוֹנוֹ: **חֲנִית מַסָּע** שֶׁהוּא גָּדוֹל וְאֵינוֹ נוֹחַ לְטַלְטֵל כָּל כָּךְ, מִפְּנֵי שֶׁהוּא גָּדוֹל וְחָזָק מְאֹד; כְּעִנְיָן שֶׁנֶּאֱמַר בְּגָלְיַת הַפְּלִשְׁתִּי ״וְחֵץ חֲנִיתוֹ כִּמְנוֹר אֹרְגִים וְלַהֶבֶת חֲנִיתוֹ שֵׁשׁ מֵאוֹת וְגוֹ׳״ (שמואל א יז:ז):
+**חֲנִית מַסָּע וְשִׁרְיָה.** וְכֵן כָּל כְּלֵי מִלְחָמָה הַלָּלוּ שֶׁבְּיַד הַמַּשִּׂיג, לֹא יִתְקַיְּמוּ וְלֹא יַעַמְדוּ לְפָנָיו שֶׁל לִוְיָתָן. **מַסָּע.** יֵשׁ לוֹמַר שֶׁהוּא אֶחָד מִכְּלֵי מִלְחָמָה, כְּמוֹ חֶרֶב וַחֲנִית וְשִׁרְיָה. וְיֵשׁ לוֹמַר מַסָּע דּוּגְמַת ״אֶבֶן שְׁלֵמָה מַסָּע וְגוֹ׳״ (מלכים א ו:ז). וְזֶהוּ פִּתְרוֹנוֹ: **חֲנִית מַסָּע** שֶׁהוּא גָּדוֹל וְאֵינוֹ נוֹחַ לְטַלְטֵל כָּל כָּךְ, מִפְּנֵי שֶׁהוּא גָּדוֹל וְחָזָק מְאֹד; כְּעִנְיָן שֶׁנֶּאֱמַר בְּגָלְיַת הַפְּלִשְׁתִּי ״וְחֵץ חֲנִיתוֹ כִּמְנוֹר אֹרְגִים וְלַהֶבֶת חֲנִיתוֹ שֵׁשׁ מֵאוֹת וְגוֹ׳״ (שמואל א יז:ז):
 
 
 **[neither will] a spear, a slingshot, or a coat of mail** Likewise, none of these weapons that are in the hands of the overtaker will either remain or stand up before the leviathan. The word מַסָע may be said to be one type of weapon, like the sword, spear, and coat of mail(?). מַסָע may also be interpreted after the sample of (I Kings 6:7), “whole stones as they were transported (מַסָע) etc.,” and this is its interpretation: a transported spear, which is large and not so easily moved, because it is large and very strong; as the matter is stated concerning Goliath the Philistine (I Sam. 17:7), “And the shaft of his spear was like a weaver’s beam, and the spear’s head was six hundred shekels, etc.”
@@ -18815,7 +18815,7 @@ but the wind comes and clears them away, makes them pass away, and no rain falls
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/41:22:3](https://torahapp.org/share/book/Rashi%20on%20Job/r/41:22:3)
 
 
-**חֶרֶשׂ.** שֶׁמֶשׁ, כְּמוֹ ״הָאוֹמֵר לַחֶרֶס לֹא יִזְרָח וְגוֹ׳״ (איוב ט:ז), ״בְּטֶרֶם תָּבֹא הַחַרְסָה״ (שופטים יד:יח):
+**חָרֶשׂ.** שֶׁמֶשׁ, כְּמוֹ ״הָאוֹמֵר לַחֶרֶס לֹא יִזְרָח וְגוֹ׳״ (איוב ט:ז), ״בְּטֶרֶם תָּבֹא הַחַרְסָה״ (שופטים יד:יח):
 
 
 **sun** Heb. חרשׂ, the sun, like (above 9:7), “He who spoke to the sun (לחרס) and it did not shine”; (Jud. 14:18); “before the sun (החרסה) set. “
@@ -18926,7 +18926,7 @@ but the wind comes and clears them away, makes them pass away, and no rain falls
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/41:26:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/41:26:1)
 
 
-**אֶת כָּל גָּבֹהַּ יִרְאֶה.** כָּל הַגְּבוֹהִים שֶׁבָּעוֹלָם הוּא רוֹאֶה תַּחְתָּיו, וְכֵן הוּא מִנְהַג הָעוֹלָם, אֲשֶׁר אוֹתוֹ הָעוֹמֵד לְמַעְלָה רוֹאֶה אֶת הַתַּחְתּוֹן יוֹתֵר מִמַּה שֶּׁרוֹאֶה הַתַּחְתּוֹן, וְאֵין לַתַּחְתּוֹן גְּבוּרָה וְנִצָּחוֹן נֶגֶד הָעֶלְיוֹן. וְלִוְיָתָן זֶה רוֹאֶה אֶת כָּל הַגִּבּוֹרִים, לוֹמַר שֶׁאֵין לָהֶם גְּבוּרָה כְּנֶגְדּוֹ:
+**אֵת כָּל גָּבֹהַּ יִרְאֶה.** כָּל הַגְּבוֹהִים שֶׁבָּעוֹלָם הוּא רוֹאֶה תַּחְתָּיו, וְכֵן הוּא מִנְהַג הָעוֹלָם, אֲשֶׁר אוֹתוֹ הָעוֹמֵד לְמַעְלָה רוֹאֶה אֶת הַתַּחְתּוֹן יוֹתֵר מִמַּה שֶּׁרוֹאֶה הַתַּחְתּוֹן, וְאֵין לַתַּחְתּוֹן גְּבוּרָה וְנִצָּחוֹן נֶגֶד הָעֶלְיוֹן. וְלִוְיָתָן זֶה רוֹאֶה אֶת כָּל הַגִּבּוֹרִים, לוֹמַר שֶׁאֵין לָהֶם גְּבוּרָה כְּנֶגְדּוֹ:
 
 
 **He looks at all high things** All the high things in the world he sees beneath himself, for so is the custom of the world, that whoever stands above sees the one below more than the one below sees [him]. Also, the one below has no power or victory against the one above. Now this leviathan sees all mighty men; that is to say, they have no power against him.
@@ -18981,7 +18981,7 @@ but the wind comes and clears them away, makes them pass away, and no rain falls
 [https://torahapp.org/share/book/Rashi%20on%20Job/r/42:3:1](https://torahapp.org/share/book/Rashi%20on%20Job/r/42:3:1)
 
 
-**מִי זֶה מַעְלִים.** אֲשֶׁר הֶעֱלִים וְכִסָּה עֲצָתוֹ וְנִפְלְאוֹתָיו שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא בִּבְלִי דַעַת? יָדַעְתִּי כִּי הַכֹּל בְּיָדְךָ לַעֲשׂוֹת, וְעַל כֵּן **הִגַּדְתִּי** קְצָת מִגְּבוּרוֹתָיו כַּאֲשֶׁר הָיוּ עִם לְבָבִי, כַּאֲשֶׁר **יָדַעְתִּי**:
+**מִי זֶה מַעְלִים.** אֲשֶׁר הֶעֱלִים וְכִסָּה עֲצָתוֹ וְנִפְלְאוֹתָיו שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא בִּבְלִי דַעַת? יָדַעְתִּי כִּי הַכֹּל בְּיָדְךָ לַעֲשׂוֹת, וְעַל כֵּן **הִגַּדְתִּי** קְצָת מִגְּבוּרוֹתָיו כַּאֲשֶׁר הָיוּ עִם לְבָבִי, כַּאֲשֶׁר יָדַעְתִּי:
 
 
 **Who is this** who concealed and covered the counsel and the wonders of the Holy One, blessed be He, without knowledge? I knew that everything is in Your hand to do, and so I related some of Your mighty deeds as were in my heart; as I knew [them].

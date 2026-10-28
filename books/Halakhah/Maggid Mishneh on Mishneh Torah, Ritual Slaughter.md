@@ -14,7 +14,7 @@ Location: Halakhah/Mishneh Torah/Commentary/Maggid Mishneh/Sefer Kedushah
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): ToratEmet (Segments: 456, License: Public Domain)
+Version (He): ToratEmet (Segments: 458, License: Public Domain)
 
 
 ## Chapter 1
@@ -601,6 +601,25 @@ Version (He): ToratEmet (Segments: 456, License: Public Domain)
 
 
 ## Chapter 2
+
+
+### Halakhah 1
+
+###### Maggid Mishneh on Mishneh Torah, Ritual Slaughter 2:1:1
+
+[https://torahapp.org/share/book/Maggid%20Mishneh%20on%20Mishneh%20Torah%2C%20Ritual%20Slaughter/r/2:1:1](https://torahapp.org/share/book/Maggid%20Mishneh%20on%20Mishneh%20Torah%2C%20Ritual%20Slaughter/r/2:1:1)
+
+
+**[והיכן שוחטין] בכל מקום כו'.** פשוט בקדושין פ' האיש מקדש (דף נ"ז) כלשון רבינו דגרסינן התם וחולין שנשחטו בעזרה מנה"מ ואמרינן מושחטו ושחט אותו ושחט אותו תלתא קראי יתירי וכו'. ופירש"י ושחטו ושחט אותו ושחט אותו מה ת"ל ג' פרשיות סמוכות זו לזו בשלמים בראשונה כתיב ושחטו פתח אהל מועד ובשניה כתיב ושחט אותו ומה ת"ל וכו' ופירש בסוף דבריו דתלתא קראי צריכי חד לחיה וחד לעופות וחד לאיסור אכילה בדיעבד. וזהו שכתב רבינו בין בהמה וכו', ובגמרא שקלי וטרו בהאי:
+
+
+###### Maggid Mishneh on Mishneh Torah, Ritual Slaughter 2:1:2
+
+[https://torahapp.org/share/book/Maggid%20Mishneh%20on%20Mishneh%20Torah%2C%20Ritual%20Slaughter/r/2:1:2](https://torahapp.org/share/book/Maggid%20Mishneh%20on%20Mishneh%20Torah%2C%20Ritual%20Slaughter/r/2:1:2)
+
+
+**וכן הוא אומר וכו'.** שם כלשון רבינו יכול לא ישחוט ואם שחט יהיה מותר ת"ל כי ירחק ממך וכו' ואכלת וזבחת מה שאתה זובח בריחוק מקום אתה אוכל ואי אתה אוכל מה שאתה זובח בקירוב מקום פרט לחולין שנשחטו בעזרה:
+
 
 
 ### Halakhah 2

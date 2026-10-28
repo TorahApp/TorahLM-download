@@ -22170,7 +22170,7 @@ This refers to people who express sin outwardly—for example, through mocking, 
 [https://torahapp.org/share/book/Perush%20Kadmon%20on%20Sefer%20Chasidim/r/1122:1:1](https://torahapp.org/share/book/Perush%20Kadmon%20on%20Sefer%20Chasidim/r/1122:1:1)
 
 
-**כתיב וארחצך וגו' צריכה כו'. ע**יין לעיל שפ"ט:
+**כתיב וארחצך וגו' צריכה כו'.** עיין לעיל שפ"ט:
 
 
 

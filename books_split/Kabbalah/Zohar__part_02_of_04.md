@@ -16049,7 +16049,7 @@ When he entered, he dropped his eyes and looked not up. Said R. Simeon to R. Ele
 בְּאֲתָר דִּשְׁבִיבִין זַרְקִין לְכָל עִיבָר, וְכָל שְׁבִיבָא וּשְׁבִיבָא, סָלִיק לִתְלַת מְאָה וְשִׁבְעִין רְתִיכִין. וְכָל רְתִיכָא, אִתְפְּרַשׁ לְאֶלֶף אַלְפִין, וְרִבּוֹא רִבְוָון, עַד דְּמָטוּ לְעַתִּיק יוֹמִין, דְּיָתִיב עַל כֻּרְסְיָיא, וְכֻרְסְיָיא מִזְדַּעְזְעָא מִנֵּיהּ, לְמָאתָן וְשִׁתִּין עָלְמִין.
 
 
-each one ascending to three hundred and seventy-five rows of angels, and each of which spreads itself to thousands and myriads, until they reach the Ancient of Days, who sits upon the Throne. The Throne trembles, and the trembling thereof penetrates through a hundred and sixty worlds
+each one ascending to three hundred and seventy rows of angels, and each of which spreads itself to thousands and myriads, until they reach the Ancient of Days, who sits upon the Throne. The Throne trembles, and the trembling thereof penetrates through a hundred and sixty worlds
 
 
 ###### Zohar, Shemot 25:8

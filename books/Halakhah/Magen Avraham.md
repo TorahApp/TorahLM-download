@@ -14,9 +14,9 @@ Location: Halakhah/Shulchan Arukh/Commentary/Magen Avraham
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Magen Avraham (Segments: 6438, License: Public Domain)
+Version (He): Dyhernfurth, 1692 (Segments: 6438, License: unknown)
 
-Version (En): Hadar Egalitarianism Tshuva (Segments: 212)
+Version (En): [fr[ (Segments: 257)
 
 
 ## An Introduction by the Author's Son
@@ -25050,7 +25050,7 @@ She blesses after lighting, because if she blesses it becomes an acceptance of S
 [https://torahapp.org/share/book/Magen%20Avraham/r/307:14](https://torahapp.org/share/book/Magen%20Avraham/r/307:14)
 
 
-**לזמן מרובה**. דסתם הלואה ל' יום אבל שאלה זמנו לאלתר וא"כ במקום שנוהגין שסתם הלואה רשאי לתבעו לאלתר כמו שנוהגין במדינתינו רשאי לומר הלויני ומשמע בגמרא דוקא יין ושמן ודבר שהוא צורך שבת אבל דבר שאינו צורך שבת אסור להניח משכון ועמ"ש סי' ש"ו ס"ו דקא' וכן ע"פ שחל וכו' מניח טליתו משמע דבשאר דברים אסור רק לצורך קרבן או אכיל' ושתיה וכ"מ בר"ן פ"ק דשבת שהקשה היאך מותר להתפיס מטלטלין לכתובתה הא הוי קונה קנין בשבת וכו':
+**לזמן מרובה**. דסתם הלואה ל' יום אבל שאלה זמנו לאלתר וא"כ במקום שנוהגין שסתם הלואה רשאי לתבעו לאלתר כמו שנוהגין במדינתינו רשאי לומר הלויני ומשמע בגמרא דוקא יין ושמן ודבר שהוא צורך שבת אבל דבר שאינו צורך שבת אסור להניח משכון ועמ"ש סי' ש"ו ס"ו דקא' וכן ע"פ שחל וכו' מניח טליתו משמע דבשאר דברים אסור רק לצורך קרבן או אכיל' ושתיה וכ"מ בר"ן פ"ק (דשבת)[דכתובות] שהקשה היאך מותר להתפיס מטלטלין לכתובתה הא הוי קונה קנין בשבת וכו':
 
 
 ###### Magen Avraham 307:15
@@ -45318,12 +45318,18 @@ There are many reasons for eating dairy, I will copy the reason written in the Z
 **ממעטין בשמחה**. פי' שאין שמחין כלל כמ"ש התו' פ"ק דמגילה:
 
 
+**They minimize rejoicing.** Meaning they do not rejoice at all, as the Tosafot write in the first chapter of Megillah.
+
+
 ###### Magen Avraham 551:2
 
 [https://torahapp.org/share/book/Magen%20Avraham/r/551:2](https://torahapp.org/share/book/Magen%20Avraham/r/551:2)
 
 
 **לישתמיט מיניה**. עד ר"ח אלול (רי"ו וכ"מ בגמ'):
+
+
+**He should avoid it [a beard-cutting occasion].** Until Rosh Chodesh Elul (Riy"u, and so it appears in the Gemara).
 
 
 ###### Magen Avraham 551:3
@@ -45334,12 +45340,18 @@ There are many reasons for eating dairy, I will copy the reason written in the Z
 **ובעל ברית**. לכאור' דוקא אותו שתופס התינוק על ברכיו בשעת המילה כמ"ש בי"ד סי' רס"ה סי"א אבל המכניס ומוציא התינוק אינו בכלל זה ואף שהנשי' רגילות ג"כ ללבוש בגדי שבת היינו לפי שזה הוא עיקר מצותם ומכ"ש בשבת שחל ט"ב שמדינ' אסור ללבוש לבנים דלא שרי אלא להתופס התינוק, אין מחליפין אפי' הטלית (מהרי"ל):
 
 
+**And the sandak [one who holds the child at a brit].** Apparently this refers specifically to the one who holds the infant on his knees during the circumcision, as stated in Yoreh De'ah 265:11 -- but one who merely brings the child in and out is not included in this. And even though the women likewise customarily wear Shabbos clothing, that is because this is their primary role [in the ceremony]; and certainly on a Shabbos when Tisha B'Av falls out, when it is technically forbidden to wear white garments, it is permitted only to the one who holds the infant -- one does not even change his tallit (Maharil).
+
+
 ###### Magen Avraham 551:4
 
 [https://torahapp.org/share/book/Magen%20Avraham/r/551:4](https://torahapp.org/share/book/Magen%20Avraham/r/551:4)
 
 
 **הכתונת לבד**. ומותר אפי' חל ט"ב בשבת (לבוש) והמחמיר שלא להחליפו מנהג שטות הוא שאינו לבוש רק מפני הזיעה (מט"מ):
+
+
+**The shirt alone.** And this is permitted even if Tisha B'Av falls on Shabbos (Levush); one who is stringent not to change it practices foolish stringency, since [changing] is only on account of perspiration (Matteh Moshe).
 
 
 ###### Magen Avraham 551:5
@@ -45350,12 +45362,18 @@ There are many reasons for eating dairy, I will copy the reason written in the Z
 **פרוכת**. וה"ה מפות ומכסאות (מהרי"ל):
 
 
+**Curtain [parochet].** The same applies to tablecloths and chair coverings (Maharil).
+
+
 ###### Magen Avraham 551:6
 
 [https://torahapp.org/share/book/Magen%20Avraham/r/551:6](https://torahapp.org/share/book/Magen%20Avraham/r/551:6)
 
 
 **בגדי שבת**. אבל בגדים חדשים אסור (מ"כ) מהרי"ל עשה שפינה"לץ לבנו ולבש קט"א של שבת לכבוד בנו החתן:
+
+
+**Shabbos clothing.** But new garments are forbidden (Minhagei Chachamim). The Maharil once, when he made a "pidyon ha-ben" [redemption] for his son, wore his Shabbos garments in honor of his son, the bridegroom.
 
 
 ###### Magen Avraham 551:7
@@ -45366,12 +45384,18 @@ There are many reasons for eating dairy, I will copy the reason written in the Z
 **של שמחה**. קאי גם אמשא ומתן כגון צרכי חופה אבל שאר משא ומתן שרי כדרכו (ב"י ב"ח) וכת' מהרי"ל הסרסורי' לא ישאו כלי כסף לסרסר בעיר דשמחה הוא לרואים ובמקום שנהגו איסור בכל משא ומתן צריך התרה עבי"ד סי' רי"ד אבל במקום שנהגו למעט בכל משא ומתן לא מהני התר' כיון דיש פוסקי' ס"ל הכי כבר קבלו אבותיהם כדעה ההוא ובסי' תקנ"ד ססך"ב משמע דממעטין בכל משא ומתן ע"ש: כתב הב"י בשם הר"ן דכל בנין שא"צ לו רק להרוחה בעלמא אסור: אם קצץ עם העכו"ם בקבלנות לצייר ביתו מותר לצייר ואם יכול לפייסו בדבר מועט שימתין עד אחד ט"ב תע"ב (מהרי"ל) ונ"ל דב"ה הוי מצוה דרבים ושרי:
 
 
+**Of rejoicing.** This applies also to business dealings, such as expenses for a wedding canopy, but other ordinary business is permitted as usual (Beit Yosef, Bach). The Maharil wrote that brokers should not carry silverware to broker in the town, since it is [a display of] joy to onlookers; and in a place where the custom is to forbid all business dealings, a formal release [hattarah] is required, as in Yoreh De'ah 214 -- but where the custom is merely to minimize business, no release helps, since there are authorities who hold this way and their ancestors already accepted that view; and in siman 554, end of se'if 2, it implies that one minimizes all business dealings -- see there. The Beit Yosef wrote in the name of the Ran that any construction not needed except for mere convenience is forbidden. If one contracted with a non-Jew for a fixed fee to paint his house, painting is permitted; but if he can appease him for a small sum to wait until after Tisha B'Av, all the better (Maharil). It seems to me that if it is a synagogue, this is a mitzvah of the community and is permitted.
+
+
 ###### Magen Avraham 551:8
 
 [https://torahapp.org/share/book/Magen%20Avraham/r/551:8](https://torahapp.org/share/book/Magen%20Avraham/r/551:8)
 
 
 **ולצורך מצוה**. כגון שאין לו אשה ובנים מותר לבנות בית חתנות (ר"ן) ומה שאין נוהגין לישא אשה כלל היינו משום דלא מסמני מלתא (ב"י) ולכן נהגו לעשות בגדים חדשים לצורך נשואין אבל מי שקיים פ"ו אסור עס"ז:
+
+
+**And for the sake of a mitzvah.** For example, one who has no wife and children may build a wedding house (Ran); and the reason people do not customarily marry at all during this period is that it is not an auspicious time (Beit Yosef) -- and therefore the custom is to make new garments for a wedding; but one who has already fulfilled "be fruitful and multiply" is forbidden -- see siman 7.
 
 
 ###### Magen Avraham 551:9
@@ -45382,12 +45406,18 @@ There are many reasons for eating dairy, I will copy the reason written in the Z
 **ואין נושאין**. אפי' בלא סעודה:
 
 
+**And they do not marry.** Even without a feast.
+
+
 ###### Magen Avraham 551:10
 
 [https://torahapp.org/share/book/Magen%20Avraham/r/551:10](https://torahapp.org/share/book/Magen%20Avraham/r/551:10)
 
 
 **שלא יקדמנו אחר**. ומה"ט מותר לעשות שדוכין ומ"מ נ"ל דאסור לעשות סעוד' ואפי' בלא רקודין ומחולות ול"ד לסעודת ברית מילה דלית בה שמחה כלל משא"כ כאן ונ"ל דאפי' בשבת אסור לעשות דהא בגמ' קתני מר"ח עד התענית אסור וא"א דלית בהו שבת מיהו מה שנוהגין לאכול מיני מרקח' בשעת כתיבת התנאים לא מקרי סעודה, ונ"ל דאסור לעשו' ריקודין ומחולות מי"ז בתמוז ואילך:
+
+
+**Lest another precede him.** For this reason it is permitted to arrange matches (shidduchim); nevertheless it seems to me that making a feast is forbidden, even without dancing and celebrations, and this is not comparable to a brit milah feast which has no joy at all -- unlike here. And it seems to me that even on Shabbos it is forbidden to make [such a feast], since the Gemara states that from Rosh Chodesh until the fast it is forbidden, and it is impossible that there is no Shabbos during that period; however, the custom of eating preserves at the writing of the tenaim (engagement contract) is not called a feast. And it seems to me that dancing and celebrations are forbidden from the 17th of Tammuz onward.
 
 
 ###### Magen Avraham 551:11
@@ -45398,12 +45428,18 @@ There are many reasons for eating dairy, I will copy the reason written in the Z
 **לספר**. שמעתי שיש אוסרין ליטול צפרנים כמו באבל ונ"ל דל"ד דזה הוי כמו צנעה ובאבילות דצנעה ט"ב קיל מאבל כמ"ש התו' פ' החולץ עמ"ש סי' תקנ"ד ס"ב ולכבוד שבת פשיטא דשרי כמ"ש ס"ג וכ"ש לצורך טביל':
 
 
+**To cut hair.** I have heard that some forbid cutting nails as well, as in mourning; but it seems to me this is not comparable, since this is a matter of private conduct, and regarding private mourning practices, Tisha B'Av is more lenient than [actual] mourning, as the Tosafot write in Perek HaCholetz -- see what I wrote in siman 554:2. And for the honor of Shabbos it is obviously permitted, as stated in se'if 3, and all the more so for the sake of immersion [tevilah].
+
+
 ###### Magen Avraham 551:12
 
 [https://torahapp.org/share/book/Magen%20Avraham/r/551:12](https://torahapp.org/share/book/Magen%20Avraham/r/551:12)
 
 
 **ולכבס**. דנראה כמסיח דעתו מהאבילות:
+
+
+**And to launder.** Because it appears as though one is diverting his mind from the mourning.
 
 
 ###### Magen Avraham 551:13
@@ -45414,12 +45450,18 @@ There are many reasons for eating dairy, I will copy the reason written in the Z
 **בט"ב עצמו**. אבל המ"ב משמע שמותרות ללבוש לבנים וכ"מ בב"ח וב"י סי' תקנ"ד בשם מהרי"ק שורש ל"ה:
 
 
+**On Tisha B'Av itself.** But the Magen Avraham implies that women may wear white, and so it appears in the Bach and Beit Yosef, siman 554, in the name of the Maharik, root 35.
+
+
 ###### Magen Avraham 551:14
 
 [https://torahapp.org/share/book/Magen%20Avraham/r/551:14](https://torahapp.org/share/book/Magen%20Avraham/r/551:14)
 
 
 **וכן לכבוד שבת**. משמע שגם לכבוד שבת מותר לכבס ביום ה' וכ"ה בטור ובמשנה וכ"מ ס"ד וכ"כ הב"ח ססי' זה דנוהגין היתר אך הד"מ כ' וז"ל רחיצה היה לנו להתיר בע"ש מק"ו דכיבוס שאסור מדינא ואפ"ה מותר לכבוד שבת ק"ו ברחיצה אלא שנהגו איסור אפי' ברחיצה עכ"ל משמע דבכיבוס נמי נהגו איסור ומ"מ יש להקל אם אין לו כתונת לשבת וכ"מ בהגמ"נ וע"י עכו"ם פשיטא דשרי וכ' בהג"א דתספורת אסור אפי' לכבוד שבת ונ"ל הטעם דבלא"ה אין רגילין לספר בכל שבוע:
+
+
+**And likewise for the honor of Shabbos.** This implies that for the honor of Shabbos too it is permitted to launder on Thursday, and so it is in the Tur and the Mishnah, and so it appears in se'if 4; and so the Bach writes at the end of this siman, that the custom is to permit it. However, the Darkei Moshe writes: "Bathing we would have permitted on Friday by a kal vachomer from laundering, which is forbidden by law and yet is permitted for the honor of Shabbos, all the more so bathing -- except that the custom is to forbid even bathing" -- implying that laundering, too, has become customarily forbidden; nevertheless, one may be lenient if he has no shirt for Shabbos, and so it appears in the Hagahot Maimoniyot. And through a non-Jew it is obviously permitted. And the Hagahot Ashri writes that haircutting is forbidden even for the honor of Shabbos, and it seems to me the reason is that in any case people are not accustomed to cut hair every single week.
 
 
 ###### Magen Avraham 551:15
@@ -45430,12 +45472,18 @@ There are many reasons for eating dairy, I will copy the reason written in the Z
 **מר"ח ואילך**. אפי' א"ל לכבס אחר ט"ב:
 
 
+**From Rosh Chodesh onward.** Even if he tells [the launderer] to launder it after Tisha B'Av.
+
+
 ###### Magen Avraham 551:16
 
 [https://torahapp.org/share/book/Magen%20Avraham/r/551:16](https://torahapp.org/share/book/Magen%20Avraham/r/551:16)
 
 
 **לאחר התענית**. וק"ו שמותר בבשר ויין ואותן הנוהגים איסור בבשר ויין עד שבת נחמו טעות הוא בידם וא"צ התרה (רש"ל בתשובה) וב"ח כ' דצריך התרה דדוקא גבי הטיה בק"ש דלב"ה אין סרך מצוה בהטי' זו ולכן אסור להטות עצמו אבל בכל שאר דברים רשאי כל אדם להחמיר ואותן בני אדם אסורים גם כן לספר ולכבס עד יום ה' מפני כבוד השבת עכ"ל עמ"ש סימן ס"ג ס"ב ועוד נראה לי כיון דרשב"ג ס"ל בגמרא דכל השבת נהגו כרשב"ג ולכן אפי' חל ט"ו באב יום ו' אסורין בבשר ואם נהגו לספר ולכבס מיד אחר התענית נהגו דאין לנו לחייב אותן יותר ממה שנהגו:
+
+
+**After the fast.** And all the more so that meat and wine are permitted, and those who follow the custom of forbidding meat and wine until Shabbos Nachamu are mistaken, and no formal release is needed (Rashal in a responsum). The Bach writes that a release is needed, for it is specifically regarding leaning during the Shema that the Sages held there is no trace of a mitzvah in that leaning, and therefore it is forbidden for one to lean [voluntarily] -- but in all other matters, every person may be stringent for himself, and such people are also forbidden to cut hair and launder until Thursday out of honor for Shabbos -- see what I wrote in siman 63:2. It further seems to me, since Rabban Shimon ben Gamliel holds in the Gemara that [all such stringencies extend] the entire week [containing Tisha B'Av], the custom follows Rabban Shimon ben Gamliel; therefore even if the 15th of Av falls on a Friday, meat is forbidden; but if people have the custom to cut hair and launder immediately after the fast, that custom stands, since we cannot obligate them beyond what they have accepted.
 
 
 ###### Magen Avraham 551:17
@@ -45446,12 +45494,18 @@ There are many reasons for eating dairy, I will copy the reason written in the Z
 **שנהגו לאסור**. היינו היכא שחל בשבת ונדחה אבל חל ביום א' מותר מכ"ע:
 
 
+**That the custom is to forbid.** That is, specifically where [Tisha B'Av] falls on Shabbos and is postponed; but if it falls on Sunday, it is permitted according to all.
+
+
 ###### Magen Avraham 551:18
 
 [https://torahapp.org/share/book/Magen%20Avraham/r/551:18](https://torahapp.org/share/book/Magen%20Avraham/r/551:18)
 
 
 **מיום ה'**. לכבוד שבת אם חל ט"ב ביום ה' אסור לכבס ביום ה' לכבוד שבת אפי' מן המנחה ולמעלה (ר"ן ב"י ד"מ ולבוש) דלא כהתוס' שמקילין בדבר והב"ח כ' דכוונתם דביום ד' עט"ב אחר חצות שרי לכבס לכבוד שבת דא"א להמתין עד ע"ש מפני כבוד שבת וה"ה למי שיוצא בדרך למרחקים בשבת זו מותר לכבס לו ב"פ לכמה שבתות דודאי אי אפשר לו להמתין עד אחר ט"ב ומ"מ טוב לעשות ע"י עכו"ם עכ"ל ודבריו דחוקי' ודחוים דהא תניא חל להיות בה' לפניו אסור ולאחריו מותר חל להיות בערב שבת מותר לכבס בה' מפני כבוד השב' ואי איתא כדבריו למה קתני חל בה' לפניו אסור הוה ליה למתני חל בה' מותר לכבס בד' מפני כבוד השבת ונילף מק"ו דכשחל להיות בערב שבת דמותר בה' דהא א"א לכבס כלל בשבת אלא ע"כ כשחל בה' אסור לכבס בד' דאפשר לכבס בע"ש ועוד דדוקא בה' מותר דניכר שעוש' לצורך שבת משא"כ בד' וכ"מ במשנ' פ"ב דתענית ולכן אין היתר כלל לכבס ביום ד' וק"ו ליוצא בדרך דאסור לכבס לצורך אחר תדע דהא בטלי קצרי דבי רב עבי"ד סי' שפ"ט סס"א, אבל שחל יום ל' שלו בי"ח בתמוז מותר לספר כיון שאינו אלא מנהג והוי תכפוהו אביליו [ב"ח]:
+
+
+**From Thursday.** For the honor of Shabbos: if Tisha B'Av falls on Thursday, it is forbidden to launder on Thursday for the sake of Shabbos, even from the afternoon onward (Ran, Beit Yosef, Darkei Moshe, and Levush) -- unlike the Tosafot who are lenient in this matter. The Bach writes that their intent is that on Wednesday, the eve of Tisha B'Av, after midday, it is permitted to launder for the sake of Shabbos, since one cannot wait until Friday out of honor for Shabbos; and the same applies to one traveling far on this Shabbos -- it is permitted to launder for him twice for several Shabbosos, since certainly he cannot wait until after Tisha B'Av; nevertheless it is best to have it done through a non-Jew. But his words are forced and rejected, for it is taught: if it falls on Thursday before [Tisha B'Av], it is forbidden; and if after, it is permitted; if it falls on Friday eve, it is permitted to launder on Thursday for the honor of Shabbos -- and if it were as he says, why does it teach "if it falls on Thursday before, it is forbidden"? It should have taught "if it falls on Thursday, it is permitted to launder on Wednesday for the honor of Shabbos," deriving it a fortiori from the case where it falls on Friday eve, when it is permitted on Thursday, since laundering cannot be done at all on Shabbos -- rather, it must be that when it falls on Thursday it is forbidden to launder on Wednesday, since one can launder on Friday; and furthermore, specifically on Thursday is it permitted since it is recognizable that one is doing so for the sake of Shabbos, unlike on Wednesday -- and so it appears in the Mishnah, second chapter of Taanit. Therefore there is no permission at all to launder on Wednesday, and all the more so for one traveling, that it is forbidden to launder for any other purpose -- know this, for the laundry workers of the House of the Rav were idle [during this period], see Yoreh De'ah 389:1. But if one's thirtieth day [of mourning] falls on the 18th of Tammuz, he may cut his hair, since it is only a custom, and it is a case of "his mourners have come in close succession" (Bach).
 
 
 ###### Magen Avraham 551:19
@@ -45462,12 +45516,18 @@ There are many reasons for eating dairy, I will copy the reason written in the Z
 **אסו' לעבריות כו'**. אף על גב דמדינא שרי דליכ' שמחה כשמכבס לאחרים מ"מ אסור מפני מראית העין שאין ניכר שהם של עכו"ם [ת"ה] ואפש' דבצנעה יש להקל עמ"ש סי' ש"ה סי"א וה"ה במקום שהעכו"ם יש להם מלבושי' אחרים דניכר שהם של עכו"ם שרי עס"ז בהג"ה:
 
 
+**It is forbidden [to launder] for non-Jewish women, etc.** Even though by strict law it is permitted, since there is no joy when one launders for others, nevertheless it is forbidden because of appearances, since it is not recognizable that the garments belong to non-Jews (Terumat HaDeshen); and perhaps in private it may be lenient -- see what I wrote in siman 305:11. The same applies where the non-Jews have other [distinctive] clothing, so that it is recognizable that they belong to non-Jews -- it is permitted; see below, in the gloss.
+
+
 ###### Magen Avraham 551:20
 
 [https://torahapp.org/share/book/Magen%20Avraham/r/551:20](https://torahapp.org/share/book/Magen%20Avraham/r/551:20)
 
 
 **כלים חדשים**. נ"ל שדרך לכבוש הבגדים במכבש א"כ הוי מגוהצין ואסורים מדינ' ומה"ט נהגו איסו' בבגדי שבת דאע"פ שלבשן כמה שבתות עדיין גיהוצם ניכר:
+
+
+**New garments.** It seems to me that the custom is to press garments with a press, in which case they are considered pressed/ironed and forbidden by law; and for this reason the custom is to forbid Shabbos garments [too, if new] -- for even though he has worn them for several Shabbosos, their pressing is still recognizable.
 
 
 ###### Magen Avraham 551:21
@@ -45478,12 +45538,18 @@ There are many reasons for eating dairy, I will copy the reason written in the Z
 **מר"ח ואילך**. והב"ח כתב דאסו' מי"ז בתמוז ואילך דהא אין מברכין שהחיינו כמ"ש סי"ז ולזה מ"ש שם דבשבת שרי לברך שהחיינו א"כ מותר ללבוש חדשים בשבתות שבין המצרים אבל מר"ח ואילך אסור ללבוש אפי' בשבת א"נ מיירי שקנה בגד מתוקן כמו שהוא ובירך שהחיינו בשעת קניה קודם י"ז בתמוז דאז מותר ללבוש בין המצרים אבל מי שקנה בגד שאינו מתוקן ונתן לאומן לתפור מברך בשעת לבישה עמ"ש סי' רכ"ג ס"ד:
 
 
+**From Rosh Chodesh onward.** The Bach writes that it is forbidden from the 17th of Tammuz onward, since one does not recite Shehecheyanu, as stated in se'if 17; and based on this, what is stated there -- that on Shabbos it is permitted to recite Shehecheyanu -- would imply that it is permitted to wear new garments on the Sabbaths within the Three Weeks; but from Rosh Chodesh onward it is forbidden to wear them even on Shabbos. Alternatively, this refers to one who bought a ready-made garment and recited Shehecheyanu at the time of purchase before the 17th of Tammuz -- in which case it is permitted to wear it during the Three Weeks; but one who bought an unfinished garment and gave it to a craftsman to sew recites the blessing at the time of wearing -- see what I wrote in siman 223:4.
+
+
 ###### Magen Avraham 551:22
 
 [https://torahapp.org/share/book/Magen%20Avraham/r/551:22](https://torahapp.org/share/book/Magen%20Avraham/r/551:22)
 
 
 **ומנעלי' חדשים**. וה"ה דאסור ללבשן [אגודה הגמ"נ]:
+
+
+**And new shoes.** The same law applies, that it is forbidden to wear them (Agudah, Hagahot Maimoniyot).
 
 
 ###### Magen Avraham 551:23
@@ -45494,12 +45560,18 @@ There are many reasons for eating dairy, I will copy the reason written in the Z
 **ויש להחמיר**. ולענין לבישה דעת הרב"י להקל משום דטעם איסור העשי' כמ"ש ס"ח משום שנהגו שלא למשתי עמרא משום שבטל אבן שתי' וכל תיקון בגדים הוי בכלל זה דהשתי' הוי תחלת המלאכה כ"מ בת"ה ובב"י וכתב בד"מ דמטעם זה אפי' עוש' לאחרים אסור ומשמע בת"ה אפי' עושה למכור בשוק אסור אבל לטוות חוטין מותר שאינו בכלל זה עכ"ל: ונ"ל שמותר לעשות אותן שקורין קרוני"ן שאורגין בעצים דלאו בגד הוא ועס"ה:
 
 
+**And one should be stringent.** Regarding wearing [new garments], the view of the Beit Yosef is to be lenient, since the reason for the prohibition on making [them], as stated in se'if 8, is that the custom is not to warp wool, since the "even shetiyah" [foundation stone] has been nullified, and all mending of garments is included in this, since warping is the beginning of the labor -- so it appears in Terumat HaDeshen and the Beit Yosef. And the Darkei Moshe writes that for this reason even doing it for others is forbidden; and it is implied in Terumat HaDeshen that even doing it to sell in the marketplace is forbidden, but spinning threads is permitted, since it is not included in this. It seems to me that it is permitted to make those called "kronin," which are woven on wood [frames], since this is not a garment -- see se'if 5.
+
+
 ###### Magen Avraham 551:24
 
 [https://torahapp.org/share/book/Magen%20Avraham/r/551:24](https://torahapp.org/share/book/Magen%20Avraham/r/551:24)
 
 
 **ונהגו להקל בזה**. משמע דאפי' לישראל נהגו להקל ומיירי שנתן לו קודם ר"ח אבל אחר ר"ח פשיטא דאסור ליתן:
+
+
+**And the custom is to be lenient in this.** This implies that even for a Jew the custom is to be lenient, and this refers to one who gave it to him before Rosh Chodesh; but after Rosh Chodesh it is obviously forbidden to give it.
 
 
 ###### Magen Avraham 551:25
@@ -45510,12 +45582,18 @@ There are many reasons for eating dairy, I will copy the reason written in the Z
 **לאומנים עכו"ם**. אף על גב דבכיבוס אסור כמ"ש סס"ג היינו לפי שנזכר בגמ' לאיסור משא"כ בבגדים חדשים והטעם לפי שעדיין אינו שלו ולא נקרא שמו עליו וכתב בהגמ"נ דאפי' בט"ב עצמו שרי לעשות בגדים ע"י עכו"ם לצורך נישואין עמ"ש ס"ב:
 
 
+**To non-Jewish craftsmen.** Even though regarding laundering it is forbidden, as stated at the end of se'if 3 -- that is because [laundering] is mentioned in the Gemara as forbidden, unlike new garments; and the reason is that it is not yet his and is not called by his name. And the Hagahot Maimoniyot write that even on Tisha B'Av itself it is permitted to have garments made by a non-Jew for the sake of a wedding -- see what I wrote in se'if 2.
+
+
 ###### Magen Avraham 551:26
 
 [https://torahapp.org/share/book/Magen%20Avraham/r/551:26](https://torahapp.org/share/book/Magen%20Avraham/r/551:26)
 
 
 **שלא לאכול בשר**. נ"ל דמיד שהתפללו הקהל ערבית במ"ש אף על פי שהיחיד לא התפלל עדיין אסור בבשר ויין וה"ה בר"ח לדידן ועמ"ש סי' רס"ג ורצ"א ס"ב ובטור סי' קי"ז ובי"ד ססי' שע"ה ויש נמנעין אחר שקיעת החמה:
+
+
+**Not to eat meat.** It seems to me that as soon as the congregation has prayed the evening service on Motzaei Shabbos, even though an individual has not yet prayed, he is forbidden in meat and wine; the same applies on Rosh Chodesh for us -- see what I wrote in siman 263 and 291:2, and in the Tur, siman 117, and Yoreh De'ah, end of siman 375; and some abstain from after sunset.
 
 
 ###### Magen Avraham 551:27
@@ -45526,12 +45604,18 @@ There are many reasons for eating dairy, I will copy the reason written in the Z
 **ומותר בחומץ**. עבי"ד סי' קכ"ג דאין אנו בקיאים איזו מקרי חומץ מ"מ הכא כיון שאינו אלא מנהג כל שבני אדם נמנעין לשתות מפני חמיצותו מקרי חומץ דאזלי' אחר לשון בני אדם עסי' ר"ד ס"ד ובי"ד סי' רי"ז: כתב הב"ח מי שקיבל עליו בפי' שלא לאכול בשר מי"ז בתמוז ועד ט"ב אסור גם בשבת וצריך התרה עכ"ל ולכאורה נראה דכל הנודר אדעתא דמנהגא נודר ומותר בשבת וכמ"ש סי' תק"ע מיהו בספ"ח דנדרים משמע דאסור ע"ש בר"ן מ"מ נ"ל דכל שלא הוציאו בלשון נדר אלא בלשון קבלה בעלמא מותר בשבת עסי' תקי"ח ובסעודת מצוה ג"כ מותר:
 
 
+**And vinegar is permitted.** See Yoreh De'ah 123, that we are not expert in determining what is called vinegar; nevertheless, here, since it is only a custom, whatever people abstain from drinking due to its sourness is called vinegar, since we follow common usage -- see siman 204:4 and Yoreh De'ah 217. The Bach writes: one who explicitly accepted upon himself not to eat meat from the 17th of Tammuz until Tisha B'Av is forbidden even on Shabbos and requires a formal release. But it seems that anyone who makes a vow with the custom in mind [i.e., intending it to follow the customary pattern] vows [only] with that understanding, and is permitted on Shabbos, as stated in siman 570; however, at the end of the eighth chapter of Nedarim it implies that it is forbidden -- see there in the Ran. Nevertheless it seems to me that whenever one has not expressed it in the language of a formal vow but merely as a simple acceptance, it is permitted on Shabbos -- see siman 518 -- and at a mitzvah feast it is likewise permitted.
+
+
 ###### Magen Avraham 551:28
 
 [https://torahapp.org/share/book/Magen%20Avraham/r/551:28](https://torahapp.org/share/book/Magen%20Avraham/r/551:28)
 
 
 **ומצניעין הסכין**. ועבי"ד סי' קי"ז אם מותר לנחור בהמות ובמ"ב: אין שוחטין עד י' באב ואם חל ט"ב ביום ה' מותר לשחוט אחר חצו' לכבוד השבת [ב"ח] אבל באבודרה"ם כתב הטעם דמר"ח עד התענית גזרי' דלמא אתי למיכל מיניה אבל ביום התענית לא שייך למיגזר א"כ לעולם שרי עסי' תקנ"ט ס"י ונ"ל דבמדינתינו שהעכו"ם אין אוכלין בשר ביום ו' וז' וא"כ לא ימצא קונים לבשר טריפה לכן מותרים לשחוט ביום ד' דאל"כ ממנעו ולא שחטו וכ"מ ממ"ש ס"ד ועססי' תצ"ז וסי' תקנ"ד סכ"ג וכן מ"כ מי שא"א לו לאכול מאכלי חלב יאכל בשר עוף שלא היה מקריבין ממנו קרבן וגם אין שמחה אלא בבשר בהמה (ב"ח):
+
+
+**And they put away the knife.** See Yoreh De'ah 117, whether it is permitted to slaughter animals [in general, per] se'if 2. They do not slaughter until the 10th of Av; and if Tisha B'Av falls on Thursday, it is permitted to slaughter after midday for the honor of Shabbos (Bach). But the Abudarham writes the reason that from Rosh Chodesh until the fast we decree [against slaughtering] lest one come to eat from it, but on the day of the fast itself this concern does not apply, so it would always be permitted -- see siman 559:10. And it seems to me that in our country, since non-Jews do not eat meat on Friday and Saturday, one would not find buyers for non-kosher meat [from a possibly-treif animal], and therefore it is permitted to slaughter on Wednesday, for otherwise they would refrain and not slaughter at all -- and so it appears from what is stated in se'if 4, and see siman 497 and siman 554:23. And likewise it is written that one who cannot eat dairy foods should eat poultry, since no sacrifice was ever brought from it, and also there is no [special] joy except in the meat of cattle (Bach).
 
 
 ###### Magen Avraham 551:29
@@ -45542,12 +45626,18 @@ There are many reasons for eating dairy, I will copy the reason written in the Z
 **מותרין בתבשיל**. דלצעורי קמכוון והא אצטער ועוד דדמי לנודר מן הבשר דשרי בתבשיל כמ"ש בי"ד סי' רי"ו ס"ט ונ"ל דשומן של בשר דינו כבשר עצמו ואסור לאכול תבשיל שיש בו שומן והאידנ' נהיגי עלמא לאסור אף בתבשיל של בשר וכ"כ בש"כ בי"ד סי' רי"ז סי"ט לענין נדרים ואסור לשנות המנהג דבנדרים אזלי' בתר מנהג המקו' ועוד דבנדר רגילין להזכיר ל' אכיל' וא"כ מדינא אסורין ג"כ בתבשיל ועוד דהב"י והד"מ כתבו לאסור:
 
 
+**Are permitted in a cooked dish [containing meat].** Since [the prohibition] is intended to cause distress, and one has indeed become distressed; and furthermore, this is comparable to one who vows against meat, who is permitted a cooked dish, as stated in Yoreh De'ah 216:9. And it seems to me that the fat of meat has the same law as the meat itself, and it is forbidden to eat a cooked dish containing it; and nowadays people are accustomed to forbid even a dish cooked with meat, as the Shach writes in Yoreh De'ah 217:19 regarding vows; and one should not deviate from the custom, since in matters of vows we follow local custom, and furthermore, in a vow people commonly use the language of "eating," in which case by law they would also be forbidden in a cooked dish; and furthermore, the Beit Yosef and Darkei Moshe write to forbid it.
+
+
 ###### Magen Avraham 551:30
 
 [https://torahapp.org/share/book/Magen%20Avraham/r/551:30](https://torahapp.org/share/book/Magen%20Avraham/r/551:30)
 
 
 **ובשר מלוח**. אף על גב דלענין בן סורר ומורה לא חשיב בשר:
+
+
+**And salted meat.** Even though regarding a "stubborn and rebellious son" it is not considered meat [in that specific context].
 
 
 ###### Magen Avraham 551:31
@@ -45558,12 +45648,18 @@ There are many reasons for eating dairy, I will copy the reason written in the Z
 **לתינוק**. משמע דמותר ליתן לתינוק בשר ויין בשבת זו דמעיקרא לא נהגו איסור להחמי' בתינוק ודוקא בתינוק שאינו יודע להתאבל על ירושלים ועסי' שמ"ג וסי' תקנ"ט ס"ז וסי' תע"א וא"ל דדוקא משום מצוה מותר דהא בסי' רס"ט משמע דאף משום מצוה לא ספינן לתינוק איסורא אלא ע"כ ליכא בזה איסורא ובהג"מ כתב מהרא"ק הניח לבניו הקטנים לאכול בשר בערב (ע"פ) [ת"ב] שחל בשבת אחר חצות עכ"ל משמע דס"ל דלגדולים אסור ולקטנים מותר והא דכתב בשבת משום דמעשה היה בשבת שנשאר להם מסעודת שחרית כנ"ל:
 
 
+**For an infant.** This implies that it is permitted to give an infant meat and wine on this Shabbos, since the custom was never to be stringent regarding an infant -- specifically an infant who does not yet know how to mourn for Jerusalem; see siman 343, siman 559:7, and siman 471. And one should not say that it is permitted only for the sake of a mitzvah, for in siman 269 it implies that even for the sake of a mitzvah we do not feed an infant something forbidden -- rather, it must be that there is no prohibition here at all. And in the Hagahot Maimoniyot it is written that the Maharak permitted his young children to eat meat on the eve of [the fast of] Tisha B'Av which fell on Shabbos, after midday -- this implies that he held that for adults it is forbidden but for young children it is permitted; and the reason he wrote "on Shabbos" is that the incident occurred on a Shabbos when [meat] remained for them from the morning meal, as above.
+
+
 ###### Magen Avraham 551:32
 
 [https://torahapp.org/share/book/Magen%20Avraham/r/551:32](https://torahapp.org/share/book/Magen%20Avraham/r/551:32)
 
 
 **לשתות הבדלה**. אבל ב"ה יברך בלא כוס (מהרי"ל) עסי' קפ"ב:
+
+
+**To drink [the wine of] Havdalah.** But if there is no one else, one should recite the blessing without a cup (Maharil) -- see siman 182.
 
 
 ###### Magen Avraham 551:33
@@ -45574,12 +45670,18 @@ There are many reasons for eating dairy, I will copy the reason written in the Z
 **וסיום מסכתא**. ע' ברמ"מ סי' קי"ט וביש"ש ב"ק פ"ז סל"ז וכתב הר"א [באמרי שפר] פ' מצורע דגם לגמר מצוה עושין סעודה ועמ"ש סי' תקס"ח:
 
 
+**And the completion of a tractate [siyum].** See Responsa Maharam Mintz, siman 119, and Yesh Sachar, Bava Kamma, chapter 7, se'if 37; and Rabbi Eliezer [in Imrei Shefer], Parshat Metzora, writes that even for the completion of a [single] mitzvah one makes a feast -- see what I wrote in siman 568.
+
+
 ###### Magen Avraham 551:34
 
 [https://torahapp.org/share/book/Magen%20Avraham/r/551:34](https://torahapp.org/share/book/Magen%20Avraham/r/551:34)
 
 
 **וסעודת אירוסין**. קשה דהא כ' בס"ב דאסור לעשות סעודת אירוסין וכ' הש"כ בגליון שמצא בספרי דווקנא של גדולים שמחקו סעודת אירוסין עכ"ל אבל במנהגים איתא ג"כ סעודת אירוסין ודוחק למחוק כל הספרים והב"ח כת' דכשאין לו אשה ובנים שרי לעשות סעודת אירוסין כמש"ל בשם הר"ן מיהו עכשיו נוהגין איסור אפי' אין לו אשה ובנים עכ"ל מיהו אין ראיה כ"כ מהר"ן דשרי לעשות סעודה וגם בכל הפוסקים משמע שמדינא אסור סעודת אירוסין ואפשר לומר דהכא מיירי שלא בשעת אירוסין או שלא בבית ארוסתו דאז ליכא שמחה כ"כ כמ"ש סי' תקמ"ו ואפ"ה הוי סעודת מצוה ועסי' תמ"ד מ"ש דמשמע קצת דלא הוי סעודת מצוה:
+
+
+**And an engagement feast.** This is difficult, for he wrote in se'if 2 that it is forbidden to make an engagement feast; and the Shach writes in the margin that he found in precise manuscripts of great authorities that "engagement feast" was crossed out; but in the Minhagim it likewise states "engagement feast," and it would be a stretch to erase it from all the texts. The Bach writes that when one has no wife and children it is permitted to make an engagement feast, as stated above in the name of the Ran; however, nowadays the custom is to forbid it even when one has no wife and children. Nevertheless, there is not so much proof from the Ran that a feast is permitted, and moreover, all the halachic authorities imply that by law an engagement feast is forbidden; and it is possible to say that this [leniency] refers to a case where it is not held at the time of the actual engagement, or not in the house of the betrothed, since then there is not so much joy, as stated in siman 546; and even so it is considered a mitzvah feast -- see siman 444, where what is written implies somewhat that it is not considered a mitzvah feast.
 
 
 ###### Magen Avraham 551:35
@@ -45590,12 +45692,18 @@ There are many reasons for eating dairy, I will copy the reason written in the Z
 **שלא להוסיף**. ז"ל מהרי"ל ודוקא ההולכים משום קורבה או משום ריעו' אבל ההולכים לשתות עבירה הוא בידם ובלבוש פסק כמ"ש במנהגים דמר"ח עד ט"ב לוקחין מנין מצומצם ויש לוקחים י' מלבד הקרובים השייכים לבעלי הסעודה עכ"ל ומ"כ דנשים השייכות לסעודת מותרים ג"כ בבשר ויין ודוק' במקו' שמזמני' נשים לסעודה זו ומי ששולחין לו לביתו אסור לאכול כמ"ש סי' תקס"ח ס"ב ונ"ל דוקא פסולי עדות מקרי קרובים, עבי"ד סי' שע"ד ס"ו בהג"ה וכ"מ בת"ה סי' רצ"א דיש ללמוד משתה מאבל ובסיום מסכתא אף מי שלא למד עמהם יכול לאכול עמהם משום קורבה או ריעות דהא אמר אביי תיתי לי דכי חזינא צורבא מרבנן דשלים מסכתא עבידנא יומא טבא לכולהו רבנן (רמ"מ יש"ש ספ"ז דב"ק) ונ"ל דאין לנהוג קולות שניהם אלא או כרמ"א בקולו ובחומרו או כלבוש: וט"ב שחל בשבת ונדחה אין לו דין שבת שחל ט"ב לענין זה בזה כ"ע מודים עמ"ש ס"ד:
 
 
+**Not to add [to the quorum].** The words of the Maharil: specifically those who attend on account of kinship or friendship [may attend], but those who go merely to drink commit a transgression. And in the Levush he rules as stated in the Minhagim, that from Rosh Chodesh until Tisha B'Av one takes a fixed minimal quorum, and some take ten aside from the relatives connected to the hosts of the feast. And it is written that women connected to this feast are likewise permitted meat and wine -- specifically in a place where women are invited to this feast; but one to whose home [food] is sent is forbidden to eat, as stated in siman 568:2. And it seems to me that specifically those disqualified from testifying [i.e., close relatives] are called "relatives" -- see Yoreh De'ah 374:6 in the gloss; and so it appears in Terumat HaDeshen, siman 291, that one may learn the laws of a wedding feast from those of mourning, and that at the completion of a tractate even one who did not study with them may eat with them on account of kinship or friendship, for Abaye said, "It should be counted to my credit that whenever I saw a Torah scholar who completed a tractate, I made a festive day for all the rabbis" (Responsa Maharam Mintz; Yesh Sachar, end of chapter 7 of Bava Kamma). And it seems to me that one should not follow both leniencies together, but rather either follow the Rema in both his leniency and his stringency, or follow the Levush [consistently]. And [regarding] Tisha B'Av that falls on Shabbos and is postponed -- it does not have the law of "Shabbos on which Tisha B'Av falls" in this regard; on this all agree -- see what I wrote in se'if 4.
+
+
 ###### Magen Avraham 551:36
 
 [https://torahapp.org/share/book/Magen%20Avraham/r/551:36](https://torahapp.org/share/book/Magen%20Avraham/r/551:36)
 
 
 **מנין מצומצם**. והשאר אוכלים מאכל חלב ועמ"ש סי' קצ"ז ס"ג לענין זימון:
+
+
+**A fixed minimal quorum.** And the rest eat dairy food -- see siman 197:3 regarding zimun (the invitation to Grace after Meals).
 
 
 ###### Magen Avraham 551:37
@@ -45606,12 +45714,18 @@ There are many reasons for eating dairy, I will copy the reason written in the Z
 **בעט"ב שרי**. ונ"ל דעכ"פ יעשנה קודם חצות דבזה ודאי לא מהני מה שאוכלין אח"כ סעודת עראי על הארץ כמ"ש סי' תקנ"ב ס"ט דכיון שאוכלי' בשר יש להחמיר יותר:
 
 
+**On the eve of Tisha B'Av it is permitted.** And it seems to me that in any case one should do it before midday, for after that it certainly would not help that afterward one eats a casual meal on the ground, as stated in siman 552:9, since once they are eating meat, one should be more stringent.
+
+
 ###### Magen Avraham 551:38
 
 [https://torahapp.org/share/book/Magen%20Avraham/r/551:38](https://torahapp.org/share/book/Magen%20Avraham/r/551:38)
 
 
 **לספר לקטנים**. דקטנים נמי שייך בו חינוך אי משום אבילו' אי משום עגמת נפש (ת"ה סי' קנ"ב) וצ"ע דבי"ד סי' שפ"ד פסק דאין אבילות לקטן ונ"ל דבאבילות דרבים מחמירי' טפי:
+
+
+**To cut the hair of young children.** For young children too are subject to education, whether on account of mourning or on account of distress (Terumat HaDeshen, siman 152); and this requires further study, since in Yoreh De'ah 384 it is ruled that there is no mourning obligation for a minor -- but it seems to me that in communal mourning [as opposed to personal mourning] we are more stringent.
 
 
 ###### Magen Avraham 551:39
@@ -45622,12 +45736,18 @@ There are many reasons for eating dairy, I will copy the reason written in the Z
 **מיהו בגדים כו'**. ומ"מ לא יכבסו הרבה ביחד מט"מ והגמ"נ ונ"ל דיכבסו בצנעה אם אין מכבסין ע"ג הנהר עסי' תקל"ד:
 
 
+**However, garments, etc.** Nevertheless, one should not launder many garments together (Matteh Moshe and Hagahot Maimoniyot); and it seems to me that one should launder privately if one does not launder by the river -- see siman 534.
+
+
 ###### Magen Avraham 551:40
 
 [https://torahapp.org/share/book/Magen%20Avraham/r/551:40](https://torahapp.org/share/book/Magen%20Avraham/r/551:40)
 
 
 **שלא לרחוץ**. נ"ל שיולדת מותר' לרחוץ כמ"ש בי"ד סי' שפ"א ס"ג ובברכות דף ט"ז ע"ב כתבו התו' דאפי' בט"ב מותרת לרחוץ ע"ש, ואין להקל בזה דאין אנו רגילין כ"כ ברחיצה: ר"ח שחל בע"ש יש נוהגין לרחוץ לכבוד שבת ויש רוחצין ביום ה' שלפניו (לבוש ומנהגים) וב"ח כתב דמי שרגיל לרחוץ כל ערב שבת ונמנע בזה עבירה היא בידו ודי אם מחמיר בשבת חזון:
+
+
+**Not to bathe.** It seems to me that a woman who has given birth is permitted to bathe, as stated in Yoreh De'ah 381:3; and in Berachot 16b the Tosafot write that even on Tisha B'Av itself she is permitted to bathe -- see there; but one should not be lenient in this, since we are not so accustomed to bathing [in general, to know how to gauge this]. When Rosh Chodesh falls on Friday, some have the custom to bathe in honor of Shabbos, and some bathe on the preceding Thursday (Levush and Minhagim); and the Bach writes that one who is accustomed to bathe every Friday and refrains from doing so during this period commits a transgression, and it suffices if he is stringent [only] during the week of Tisha B'Av itself.
 
 
 ###### Magen Avraham 551:41
@@ -45638,12 +45758,18 @@ There are many reasons for eating dairy, I will copy the reason written in the Z
 **הראש בחמין**. אבל אסור לרחוץ בבורית ומים ואפר שקורין לוי"ג (לבוש) אבל לרחוץ כל גופו נוהגים כל אדם איסו' (ד"מ) ומי שטובל בכל ע"ש לשם מצוה מותר לטבול גם בשבת זו (של"ה) מיהו מי שמבטלה לפעמים מפני שטרוד בעסקיו או מפני הצינה גם עכשיו אסור לטבול:
 
 
+**The head with hot water.** But it is forbidden to bathe with soap and water and ashes, called "laugh" [lye] (Levush); but as for bathing one's entire body, the universal custom is to forbid it (Darkei Moshe). And one who immerses every Friday for the sake of a mitzvah [ritual immersion] is permitted to immerse on this Shabbos as well (Shelah); nevertheless, one who sometimes omits it because he is occupied with his affairs or because of the cold is forbidden to immerse even now.
+
+
 ###### Magen Avraham 551:42
 
 [https://torahapp.org/share/book/Magen%20Avraham/r/551:42](https://torahapp.org/share/book/Magen%20Avraham/r/551:42)
 
 
 **מלומר שהחיינו**. ובשב' שרי (מט"מ בשם ס"ח ולבוש) ובכתבי האר"י אסר אפי' בשבת ונ"ל דאם חל י"ז בתמוז בשבת ונדח' מותר לכ"ע ועס"ד וטעם האיסור נ"ל כיון דהזמן ההוא זמן פורעניות אין לברך שהחיינו לזמן הזה אבל אין הטעם משום אבילות דהא לא מצינו שאבל אסור לברך שהחיינו:
+
+
+**From reciting Shehecheyanu.** But on Shabbos it is permitted (Matteh Moshe in the name of Sefer Chassidim and the Levush). And in the writings of the Ari, it is forbidden even on Shabbos. And it seems to me that if the 17th of Tammuz falls on Shabbos and is postponed [to Sunday], it is permitted according to all -- see se'if 4. And the reason for the prohibition, it seems to me, is that since this is a time of misfortune, one should not recite Shehecheyanu for such a time; but the reason is not on account of mourning, for we do not find that a mourner is forbidden to recite Shehecheyanu.
 
 
 ###### Magen Avraham 551:43
@@ -45654,6 +45780,9 @@ There are many reasons for eating dairy, I will copy the reason written in the Z
 **ולא יחמיץ המצוה**. או הברכה (מהרי"ל) ואף על גב דכשרואה פרי חדש מחמיץ הברכה מ"מ כיון שנהגו להמתין עד שעת אכיל' לא מקרי מחמיץ הברכה עסי' רכ"ה:
 
 
+**And should not delay the mitzvah [or blessing].** Or the blessing (Maharil); and even though when one sees a new fruit the blessing is [technically] delayed, nevertheless, since the custom is to wait until the time of eating, this is not called delaying the blessing, see siman 225.
+
+
 ###### Magen Avraham 551:44
 
 [https://torahapp.org/share/book/Magen%20Avraham/r/551:44](https://torahapp.org/share/book/Magen%20Avraham/r/551:44)
@@ -45662,12 +45791,18 @@ There are many reasons for eating dairy, I will copy the reason written in the Z
 **שלא ימצא**. ולדעת המתירי' בשבת צ"ל שגם בשב' אינו בנמצא ואם יקחהו בחול וישמרהו לשבת יתקלקל כגון גודגדניות קטנות:
 
 
+**Lest it not be found.** And according to the view of those who permit it on Shabbos, one must say that even on Shabbos it is not available, and if one takes it during the week and saves it for Shabbos it would spoil -- such as small cherries.
+
+
 ###### Magen Avraham 551:45
 
 [https://torahapp.org/share/book/Magen%20Avraham/r/551:45](https://torahapp.org/share/book/Magen%20Avraham/r/551:45)
 
 
 **מד' ועד ט'**. באיכה רבתי איתא מסוף ד' עד ראש ט' ובנשא רבתי איתא מראש ד' עד סוף ט' ובכוונות האר"י כתב שיתאבל בימים ההם אחר חצי היום ויבכה כמו חצי שעה:
+
+
+**From the 4th until the 9th.** In Eichah Rabbati it states from the end of the 4th until the beginning of the 9th; and in Bamidbar Rabbati it states from the beginning of the 4th until the end of the 9th; and in the Kavvanot of the Ari it is written that one should mourn during those days after midday and weep for about half an hour.
 
 
 

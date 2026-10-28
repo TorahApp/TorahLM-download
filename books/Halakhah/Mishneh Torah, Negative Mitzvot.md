@@ -880,7 +880,7 @@ Not to violate an oath, as [Leviticus 19:12] states: "Do not swear falsely in My
 [https://torahapp.org/share/book/Mishneh%20Torah%2C%20Negative%20Mitzvot/r/62](https://torahapp.org/share/book/Mishneh%20Torah%2C%20Negative%20Mitzvot/r/62)
 
 
-שלא ישבע לשוא, שנאמר "לֹא תִשָּׂא אֶת שָׁם ה' אֱלֹהֶיךָ לַשָּׁוְא" (שמות כ, ו; דברים ה, י).
+שלא ישבע לשוא, שנאמר "לֹא תִשָּׂא אֶת שֵׁם ה' אֱלֹהֶיךָ לַשָּׁוְא" (שמות כ, ו; דברים ה, י).
 
 
 Not to take an oath in vain, as [Exodus 20:7] states: "Do not take the name of God, your Lord, in vain."

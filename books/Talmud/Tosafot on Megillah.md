@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Vilna Edition (Segments: 233, License: Public Domain)
 
-Version (En): Rabbi Eliezer Chrysler Tosfos Summary (Segments: 28)
+Version (En): Sefaria Community Translation (Segments: 28)
 
 
 ## Daf 2b

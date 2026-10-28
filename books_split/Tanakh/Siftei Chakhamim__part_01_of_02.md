@@ -14,9 +14,9 @@ Location: Tanakh/Acharonim on Tanakh/Siftei Chakhamim
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Siftei Chachamim. Frankfurt, 1712 (Segments: 5882, License: unknown)
+Version (He): Sifsei Chachomim Chumash, Metsudah Publications, 2009 (Segments: 5882, License: CC-BY)
 
-Version (En): Sefaria Community Translation (Segments: 5810)
+Version (En): Sifsei Chachomim Chumash, Metsudah Publications, 2009 (Segments: 5810)
 
 # Siftei Chakhamim — part 1 of 2
 

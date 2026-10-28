@@ -11346,7 +11346,7 @@ A man of form — a person of stature, whose words will be heard and accepted, t
 [https://torahapp.org/share/book/Rashi%20on%20Taanit/r/23a:9:6](https://torahapp.org/share/book/Rashi%20on%20Taanit/r/23a:9:6)
 
 
-נמצא שם שמים מתחלל על על ידך – דזה או זה בא לידי שבועת שוא:
+נמצא שם שמים מתחלל על ידך – דזה או זה בא לידי שבועת שוא:
 
 
 **Wouldn’t the name of Heaven have been desecrated:** As one or the other would come to a vain oath.

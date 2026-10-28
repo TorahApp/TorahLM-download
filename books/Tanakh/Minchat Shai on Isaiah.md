@@ -2120,7 +2120,7 @@ Version (He): Minchat Shai (Segments: 551, License: Public Domain)
 [https://torahapp.org/share/book/Minchat%20Shai%20on%20Isaiah/r/26:2:1](https://torahapp.org/share/book/Minchat%20Shai%20on%20Isaiah/r/26:2:1)
 
 
-**שמר אנים.** אמנים כתיב חסר וא"ו ובפרק כל כתבי אל תקרי אמונים אלא שאומרים אמן:
+**שמר אמנים.** אמנים כתיב חסר וא"ו ובפרק כל כתבי אל תקרי אמונים אלא שאומרים אמן:
 
 
 

@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat Zion/Writings
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 188, License: Public Domain)
+Version (He): On Your Way (Segments: 187, License: Public Domain)
 
 
 ## Chapter 1
@@ -1069,17 +1069,6 @@ Version (He): On Your Way (Segments: 188, License: Public Domain)
 
 
 **רבוא.** הוא עשרת אלפים:
-
-
-
-### Verse 68
-
-###### Metzudat Zion on Nehemiah 7:68:1
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Nehemiah/r/7:68:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Nehemiah/r/7:68:1)
-
-
-**פרדיהם.** הם הבאים מן הסוס והחמור:
 
 
 

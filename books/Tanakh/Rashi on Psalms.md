@@ -40,7 +40,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/1:1:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/1:1:2)
 
 
-**אַשְׁרֵי הָאִישׁ.** (לישפלישמנ״ץ בלע״ז) אִשּׁוּרָיו שֶׁל אִישׁ וּתְהִלּוֹתָיו שֶׁל אָדָם אֵלּוּ הֵם **אֲשֶׁר לֹא הָלַךְ**, כִּי מִתּוֹךְ שֶׁלֹּא הָלַךְ **לֹא עָמַד**, וּמִתּוֹךְ שֶׁלֹּא עָמַד **לֹא יָשָׁב**:
+**אַשְׁרֵי הָאִישׁ.** (לישפלישמנ״ץ בלע״ז) אִשּׁוּרָיו שֶׁל אִישׁ וּתְהִלּוֹתָיו שֶׁל אָדָם אֵלּוּ הֵם **אֲשֶׁר לֹא הָלַךְ**, כִּי מִתּוֹךְ שֶׁלֹּא הָלַךְ **לֹא עָמָד**, וּמִתּוֹךְ שֶׁלֹּא עָמַד **לֹא יָשָׁב**:
 
 
 **The praises of a man** Heb. אשרי les felicements(?) in Old French. The praises of a man, and these are the praises of a man: that he did not follow, because since he did not follow, he did not stand, and since he did not stand, he did not sit.
@@ -193,7 +193,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/2:1:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/2:1:1)
 
 
-**לָמָּה רָגְשׁוּ גוֹיִם.** רַבּוֹתֵינוּ (ברכות ז:) דָּרְשׁוּ אֶת הָעִנְיָן עַל מֶלֶךְ הַמָּשִׁיחַ, וּלְפִי מַשְׁמָעוֹ יִהְיֶה נָכוֹן לְפוֹתְרוֹ עַל דָּוִד עַצְמוֹ, כְּעֵין שֶׁנֶּאֱמַר ״וַיִּשְׁמְעוּ פְלִשְׁתִּים כִּי מָשְׁחוּ יִשְׂרָאֵל אֶת דָּוִד לְמֶלֶךְ עֲלֵיהֶם וַיִּקָּבְצוּ פְלִשְׁתִּים אֶת מַחֲנֵיהֶם״ (שמואל ב ה:יז), וְנָפְלוּ בְיָדוֹ, וַעֲלֵיהֶם אָמַר **לָמָּה רָגְשׁוּ גוֹיִם** וְנִתְקַבְּצוּ כֻּלָּם:
+**לָמָּה רָגְשׁוּ גוֹיִם.** רַבּוֹתֵינוּ (ברכות ז:) דָּרְשׁוּ אֶת הָעִנְיָן עַל מֶלֶךְ הַמָּשִׁיחַ, וּלְפִי מַשְׁמָעוֹ וּלִתְשׁוּבַת הַמִּינִים יִהְיֶה נָכוֹן לְפוֹתְרוֹ עַל דָּוִד עַצְמוֹ, כְּעֵין שֶׁנֶּאֱמַר ״וַיִּשְׁמְעוּ פְלִשְׁתִּים כִּי מָשְׁחוּ יִשְׂרָאֵל אֶת דָּוִד לְמֶלֶךְ עֲלֵיהֶם וַיִּקָּבְצוּ פְלִשְׁתִּים אֶת מַחֲנֵיהֶם״ (שמואל ב ה:יז), וְנָפְלוּ בְיָדוֹ, וַעֲלֵיהֶם אָמַר **לָמָּה רָגְשׁוּ גוֹיִם** וְנִתְקַבְּצוּ כֻּלָּם:
 
 
 **Why have nations gathered** Our Sages (Ber. 7b) expounded the passage as referring to the King Messiah, but according to its apparent meaning, it is proper to interpret it as referring to David himself, as the matter is stated (II Sam. 5:17): “And the Philistines heard that they had anointed David as king over Israel, and all the Philistines went up to seek, etc.,” and they fell into his hands. Concerning them, he says, “Why have nations gathered,” and they all gathered.
@@ -279,7 +279,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/2:4:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/2:4:1)
 
 
-**יִשְׂחָק יִלְעַג יְדַבֵּר.** לְשׁוֹן הֹוֶה הֵם מְשַׁמְּשִׁין:
+**יִשְׂחָק, יִלְעַג, יְדַבֵּר.** לְשׁוֹן הֹוֶה הֵם מְשַׁמְּשִׁין:
 
 
 **laughs...mocks...speaks** They are meant as the present tense.
@@ -393,7 +393,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/2:9:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/2:9:1)
 
 
-**תִּרְעֵם.** תְּרוֹצְצֵם:
+**תְּרֹעֵם.** תְּרוֹצְצֵם:
 
 
 **You shall break them** Heb. תרעם [like] תרוצצם.
@@ -571,7 +571,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/3:6:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/3:6:2)
 
 
-**הֱקִיצוֹתִי.** מִדְּאָגָתִי, כִּי בָטַחְתִּי **כִּי יְהוָה יִסְמְכֵנִי**:
+**הֱקִיצוֹתִי.** מִדְּאָגָתִי, כִּי בָטַחְתִּי **כִּי ה׳ יִסְמְכֵנִי**:
 
 
 **I awoke** from my worry, because I trusted that the Lord would support me.
@@ -939,7 +939,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/5:8:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/5:8:1)
 
 
-**וַאֲנִי אָבוֹא בֵיתְךָ.** לְהוֹדוֹת לְךָ **בְּרֹב חַסְדְּךָ** שֶׁהִפְלֵאתָ עָלֵינוּ, לְהַרְאוֹתֵנוּ נְקָמָה מֵהֶם:
+**וַאֲנִי אָבוֹא בֵיתֶךָ.** לְהוֹדוֹת לְךָ **בְּרֹב חַסְדְּךָ** שֶׁהִפְלֵאתָ עָלֵינוּ, לְהַרְאוֹתֵנוּ נְקָמָה מֵהֶם:
 
 
 **I...shall enter Your House** to thank You for Your great loving-kindness that You have wondrously bestowed upon us, to grant us revenge upon them.
@@ -1039,7 +1039,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/5:12:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/5:12:2)
 
 
-**וְיַעַלְצוּ בְךָ.** כְּשֶׁיִּרְאוּ שֶׁאַתָּה תְּבָרֵךְ רֵעֶיךָ וְאוֹהֲבֶיךָ:
+**וְיַעְלְצוּ בְךָ.** כְּשֶׁיִּרְאוּ שֶׁאַתָּה תְּבָרֵךְ רֵעֶיךָ וְאוֹהֲבֶיךָ:
 
 
 **exult in You** when they see that You bless the righteous man, Jacob, and his seed.
@@ -1075,7 +1075,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/5:13:3](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/5:13:3)
 
 
-**תְּעַטְּרֶנּוּ.** תְּסוֹבְבֶנּוּ, כְּמוֹ (שמואל א כג:כו) ״וְשָׁאוּל וַאֲנָשָׁיו עוֹטְרִים אֶל דָּוִד וְאֶל אֲנָשָׁיו״:
+**תַּעְטְרֶנּוּ.** תְּסוֹבְבֶנּוּ, כְּמוֹ (שמואל א כג:כו) ״וְשָׁאוּל וַאֲנָשָׁיו עוֹטְרִים אֶל דָּוִד וְאֶל אֲנָשָׁיו״:
 
 
 **You shall encompass him** תעטרנו, You shall encompass him (in Sam. 23:26): “but Saul and his men were encircling (עוטרים) David and his men.”
@@ -1106,7 +1106,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/6:3:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/6:3:1)
 
 
-**אֻמְלָל.** נִשְׁחַת וְדַל כֹּחַ (קונפונדו״ץ בלע״ז), כְּמוֹ ״הַיְּהוּדִים הָאֲמֵלָלִים״ דְּעֶזְרָא (נחמיה ג:לד):
+**אֻמְלַל.** נִשְׁחַת וְדַל כֹּחַ (קונפונדו״ץ בלע״ז), כְּמוֹ ״הַיְּהוּדִים הָאֲמֵלָלִים״ דְּעֶזְרָא (נחמיה ג:לד):
 
 
 **languish** אמלל, devastated, and poor in strength, konfondouc in Old French, confounded, perplexed as “these feeble Jews (האמללים),” of Ezra (Neh. 3:34).
@@ -1523,7 +1523,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/7:15:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/7:15:1)
 
 
-**יְחַבֵּל.** לְשׁוֹן הֵרָיוֹן וְלֵידָה, כְּמוֹ ״שָׁמָּה חִבְּלַתְךָ אִמֶּךָ״ (שיר השירים ח:ה):
+**יְחַבֶּל.** לְשׁוֹן הֵרָיוֹן וְלֵידָה, כְּמוֹ ״שָׁמָּה חִבְּלַתְךָ אִמֶּךָ״ (שיר השירים ח:ה):
 
 
 **Behold, he travails** Heb. יחבל an expression of conception and birth, as (in Song 8:5): “there your mother was in travail with you (חבלתך).”
@@ -1654,7 +1654,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/8:8:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/8:8:1)
 
 
-**צֹנֶה וַאֲלָפִים**. צֹאן וּבָקָר, כְּמוֹ (דברים ז:יג) ״שְׁגַר אֲלָפֶיךָ״. צֹנֶה לְשׁוֹן פְּעֻלָּה הוּא, כְּמוֹ ״וּגְדֵרֹת לְצֹנַאֲכֶם״ (במדבר לב:כד), אוביילדי״ץ בְּלַעַ״ז. יֵשׁ מִדְרְשֵׁי אַגָּדָה וְאֵינָם מִתְיַשְּׁבִין לְפִי הַמִּקְרָאוֹת:
+**צֹנֶה וַאֲלָפִים.** צֹאן וּבָקָר, כְּמוֹ (דברים ז:יג) ״שְׁגַר אֲלָפֶיךָ״. צֹנֶה לְשׁוֹן פְּעֻלָּה הוּא, כְּמוֹ ״וּגְדֵרֹת לְצֹנַאֲכֶם״ (במדבר לב:כד), אוביילדי״ץ בְּלַעַ״ז. יֵשׁ מִדְרְשֵׁי אַגָּדָה וְאֵינָם מִתְיַשְּׁבִין לְפִי הַמִּקְרָאוֹת:
 
 
 **Flocks and cattle** Heb. צנה ואלפים [equivalent to] צאן ובקר, like (Deut. 7:13), “the young of your cattle (אלפך).” צנה is an expression of industry, as (in Num. 32:24), “and enclosures for your flocks (לצנאכם)”; oveyledic in Old French, enclosures to pen the small livestock. There are many Aggadic midrashim, but they do not fit the verses.
@@ -1874,7 +1874,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/9:13:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/9:13:1)
 
 
-**אוֹתָם זָכַר.** אֶת הַדָּמִים שֶׁנִּשְׁפְּכוּ בְּיִשְׂרָאֵל:
+**אוֹתָם זָכָר.** אֶת הַדָּמִים שֶׁנִּשְׁפְּכוּ בְּיִשְׂרָאֵל:
 
 
 **remembers them** The blood that was shed in Israel.
@@ -2338,7 +2338,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/10:14:4](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/10:14:4)
 
 
-**עָלֶיךָ יַעֲזֹב חֵלְכָה.** יִשְׂרָאֵל עַמְּךָ, שֶׁהֵם חֵילְךָ, הֵם עוֹזְבִים עָלֶיךָ אֶת הַמַּשָּׂא שֶׁתַּעֲשֶׂה דִּין בָּרְשָׁעִים. וּמְנַחֵם פֵּתַר יַעֲזֹב לְשׁוֹן עֶזְרָה כְּמוֹ ״עָזֹב תַּעֲזֹב עִמּוֹ״ (שמות כג:ה), וּמְנַחֵם פֵּתַר חֵלְכָה לְשׁוֹן דַּל וְחֵלֶךְ וְכ׳ יְסוֹד בַּתֵּיבָה:
+**עָלֶיךָ יַעֲזֹב חֵלֵכָה.** יִשְׂרָאֵל עַמְּךָ, שֶׁהֵם חֵילְךָ, הֵם עוֹזְבִים עָלֶיךָ אֶת הַמַּשָּׂא שֶׁתַּעֲשֶׂה דִּין בָּרְשָׁעִים. וּמְנַחֵם פֵּתַר יַעֲזֹב לְשׁוֹן עֶזְרָה כְּמוֹ ״עָזֹב תַּעֲזֹב עִמּוֹ״ (שמות כג:ה), וּמְנַחֵם פֵּתַר חֵלְכָה לְשׁוֹן דַּל וְחֵלֶךְ וְכ׳ יְסוֹד בַּתֵּיבָה:
 
 
 **upon You Your army leaves** Your people Israel, who are Your army, leave the burden upon You that You should execute justice upon the wicked. Menachem (p. 132) interprets יעזב as an expression of help, as (in Exod. 23:5): “you shall help (עזב תעזב) with him.” He interprets חלכה as an expression of “poor and weak (חלך),” the “chaf” being a radical.
@@ -2546,7 +2546,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/11:3:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/11:3:2)
 
 
-**צַדִּיק מַה פָּעַל.** דָּוִד, שֶׁלֹּא חָטָא, מַה פָּעַל בְּכָל זֹאת? אַתֶּם תִּשְׂאוּ עָוֹן, וְלֹא אֲנִי:
+**צַדִּיק מַה פָּעָל.** דָּוִד, שֶׁלֹּא חָטָא, מַה פָּעַל בְּכָל זֹאת? אַתֶּם תִּשְׂאוּ עָוֹן, וְלֹא אֲנִי:
 
 
 **what did the righteous man do** David, who did not sin, what did he do in this entire matter? [He said to Doeg,] You shall bear the iniquity, not I.
@@ -2688,7 +2688,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/12:2:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/12:2:2)
 
 
-**פָּסּוּ.** פֵיילִירִינְ״ט בְּלַעַ״ז, כְּמוֹ אָפְסוּ, וְכֵן פָּתַר מְנַחֵם:
+**פַסּוּ.** פֵיילִירִינְ״ט בְּלַעַ״ז, כְּמוֹ אָפְסוּ, וְכֵן פָּתַר מְנַחֵם:
 
 
 **have vanished** Heb. פסו, faylirt in Old French, to lack, fail.
@@ -3136,7 +3136,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/15:5:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/15:5:1)
 
 
-**וְשֹׁחַד לֹא לָקַח.** עַל עָנִי לְהַרְשִׁיעוֹ בַּדִּין, לְהַטּוֹת מִשְׁפָּטוֹ. וְעוֹד פֵּרְשׁוּהוּ רַבּוֹתֵינוּ (ספרי דברים קמד): **לֹא לָקַח שֹׁחַד עַל נָקִי** לְנַקּוֹתוֹ בְּדִינוֹ, קַל וָחֹמֶר שֶׁאֵינוֹ לוֹקֵחַ שֹׁחַד לְהַטּוֹת הַמִּשְׁפָּט:
+**וְשֹׁחַד לֹא לָקָח.** עַל עָנִי לְהַרְשִׁיעוֹ בַּדִּין, לְהַטּוֹת מִשְׁפָּטוֹ. וְעוֹד פֵּרְשׁוּהוּ רַבּוֹתֵינוּ (ספרי דברים קמד): **לֹא לָקַח שֹׁחַד עַל נָקִי** לְנַקּוֹתוֹ בְּדִינוֹ, קַל וָחֹמֶר שֶׁאֵינוֹ לוֹקֵחַ שֹׁחַד לְהַטּוֹת הַמִּשְׁפָּט:
 
 
 **nor did he accept a bribe, etc.** against a poor man, to condemn him in judgment by judging perversely. Our Sages explained it further to mean that he would not accept a bribe to exonerate him in judgment, and he certainly will not take a bribe to pervert the judgment.
@@ -3189,7 +3189,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/16:2:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/16:2:1)
 
 
-**אָמַרְתְּ לַה׳ אֲדֹנָי אַתָּה וְגוֹ׳.** לִכְנֶסֶת יִשְׂרָאֵל אָמַר דָּוִד: יֵשׁ עָלַיִךְ לוֹמַר לַה׳: אָדוֹן אַתָּה, וְיָדְךָ עַל הָעֶלְיוֹנָה לְכָל הַבָּא עָלַי. דָּבָר אַחֵר: **אָמַרְתְּ לַה׳ אֲדֹנָי אַתָּה**, לְנַפְשׁוֹ הָיָה אוֹמֵר. וְכֵן מָצִינוּ דֻגְמָתוֹ: ״וַתְּכַל דָּוִד״ (שמואל ב יד:לט), וּפִתְרוֹנוֹ: ׳וַתְּכַל נֶפֶשׁ דָּוִד׳; אַף כָּאן: אָמַרְתְּ נַפְשִׁי לַה׳ – אַתְּ, נַפְשִׁי, יֵשׁ עָלַיִךְ לוֹמַר כֵּן לְהַקָּדוֹשׁ בָּרוּךְ הוּא (ס״א אינו):
+**אָמַרְתְּ לַה׳ אֲדֹנָי אָתָּה וְגוֹ׳.** לִכְנֶסֶת יִשְׂרָאֵל אָמַר דָּוִד: יֵשׁ עָלַיִךְ לוֹמַר לַה׳: אָדוֹן אַתָּה, וְיָדְךָ עַל הָעֶלְיוֹנָה לְכָל הַבָּא עָלַי. דָּבָר אַחֵר: **אָמַרְתְּ לַה׳ אֲדֹנָי אָתָּה**, לְנַפְשׁוֹ הָיָה אוֹמֵר. וְכֵן מָצִינוּ דֻגְמָתוֹ: ״וַתְּכַל דָּוִד״ (שמואל ב יד:לט), וּפִתְרוֹנוֹ: ׳וַתְּכַל נֶפֶשׁ דָּוִד׳; אַף כָּאן: אָמַרְתְּ נַפְשִׁי לַה׳ – אַתְּ, נַפְשִׁי, יֵשׁ עָלַיִךְ לוֹמַר כֵּן לְהַקָּדוֹשׁ בָּרוּךְ הוּא (ס״א אינו):
 
 
 **You should say to the Lord, “You are my Master, etc.”** David addresses the Congregation of Israel. “It is your duty to say to the Lord, ‘You are the Master, and You have the upper hand in all that befalls me.’” Another explanation: You should say to the Lord, “You are my Master.” He [David] was saying this to his soul. Similarly, we find on this order (in II Sam. 13:39): “And David longed,” which means: And the soul of David longed. Here too, “You, my soul, have said to the Lord,” you my soul, should say to the Holy One, blessed be He. (The second interpretation appears in very few early editions.)
@@ -3339,7 +3339,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/16:8:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/16:8:1)
 
 
-**שִׁוִּיתִי ה׳ לְנֶגְדִּי תָמִיד.** בְּכָל מַעֲשַׂי שַׂמְתִּי מוֹרָאוֹ לְנֶגֶד עֵינַי, וְלָמָּה? **כִּי מִימִינִי** הוּא תָּמִיד לְעָזְרֵנִי לְ**בַל אֶמּוֹט**. דָּבָר אַחֵר: **שִׁוִּיתִי ה׳ לְנֶגְדִּי תָמִיד.** סֵפֶר תּוֹרָה הָיָה עִמּוֹ לִקְרוֹת בּוֹ כָּל יְמֵי חַיָּיו (דברים יז:יט), וְזֶה שֶׁאָמַר: **מִימִינִי בַּל אֶמּוֹט.** עַל שֵׁם הַתּוֹרָה שֶׁנִּתְּנָה בִּימִינוֹ, שֶׁאֲנִי עוֹסֵק בָּהּ וּלְפִיכָךְ בַּל אֶמּוֹט (סנהדרין כב.) (ס״א אינו):
+**שִׁוִּיתִי ה׳ לְנֶגְדִּי תָמִיד.** בְּכָל מַעֲשַׂי שַׂמְתִּי מוֹרָאוֹ לְנֶגֶד עֵינַי, וְלָמָּה? **כִּי מִימִינִי** הוּא תָּמִיד לְעָזְרֵנִי לְ**בַל אֶמּוֹט.** דָּבָר אַחֵר: **שִׁוִּיתִי ה׳ לְנֶגְדִּי תָמִיד.** סֵפֶר תּוֹרָה הָיָה עִמּוֹ לִקְרוֹת בּוֹ כָּל יְמֵי חַיָּיו (דברים יז:יט), וְזֶה שֶׁאָמַר: **מִימִינִי בַּל אֶמּוֹט.** עַל שֵׁם הַתּוֹרָה שֶׁנִּתְּנָה בִּימִינוֹ, שֶׁאֲנִי עוֹסֵק בָּהּ וּלְפִיכָךְ בַּל אֶמּוֹט (סנהדרין כב.) (ס״א אינו):
 
 
 **I have placed the Lord before me constantly** In all my deeds, I have placed His fear before my eyes. Why? Because He is always at my right hand to help me so that I should not falter. Another explanation: I have placed the Lord before me constantly. [This alludes to] the sefer Torah [that] was with him [for him] to read all the days of his life [as in Deut. 17:19]. This is what he states: “from my right hand I will not falter,” meaning that because of the Torah in which I am engaged, which was given with His right hand, I will not falter. (This interpretation does not appear in any manuscript. It does, however, appear in several early printed editions.) Rashi to Sanhedrin explains that the “right hand” alludes to the Torah scroll that the king would carry suspended from his arm. David is confident that in the merit of that scroll, he will not falter.
@@ -3475,7 +3475,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/17:3:5](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/17:3:5)
 
 
-**זִמּוֹתִי בַּל יַעֲבָר פִּי.** אִם תַּעֲלֶה עוֹד בְּמַחֲשַׁבְתִּי לִיבָּחֵן לְפָנֶיךָ, בַּל יַעֲבָר פִּי לוֹמַר עוֹד בְּחָנֵנִי וְנַסֵּנִי, כְּמוֹ שֶׁאָמַרְתִּי כְּבָר כְּמוֹ שֶׁנֶּאֱמַר ״בְּחָנֵנִי ה׳ וְנַסֵּנִי״ (תהלים כו:ב). שֶׁאָמַר דָּוִד לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא: מִפְּנֵי מָה אוֹמְרִים אֱלֹהֵי אַבְרָהָם וְאֵין אוֹמְרִים אֱלֹהֵי דָוִד? אָמַר לוֹ: אֲנִי בְּחַנְתִּיו בְּעֶשֶׂר נִסְיוֹנוֹת וְנִמְצָא שָׁלֵם. אָמַר בְּחָנֵנִי וְנַסֵּנִי, כִּדְאִיתָא בְּמַסֶּכֶת שַׁבָּת (שבת קנג:):
+**זַמֹּתִי בַּל יַעֲבָר פִּי.** אִם תַּעֲלֶה עוֹד בְּמַחֲשַׁבְתִּי לִיבָּחֵן לְפָנֶיךָ, בַּל יַעֲבָר פִּי לוֹמַר עוֹד בְּחָנֵנִי וְנַסֵּנִי, כְּמוֹ שֶׁאָמַרְתִּי כְּבָר כְּמוֹ שֶׁנֶּאֱמַר ״בְּחָנֵנִי ה׳ וְנַסֵּנִי״ (תהלים כו:ב). שֶׁאָמַר דָּוִד לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא: מִפְּנֵי מָה אוֹמְרִים אֱלֹהֵי אַבְרָהָם וְאֵין אוֹמְרִים אֱלֹהֵי דָוִד? אָמַר לוֹ: אֲנִי בְּחַנְתִּיו בְּעֶשֶׂר נִסְיוֹנוֹת וְנִמְצָא שָׁלֵם. אָמַר בְּחָנֵנִי וְנַסֵּנִי, כִּדְאִיתָא בְּמַסֶּכֶת שַׁבָּת (שבת קנג:):
 
 
 **If I think, let it not pass my mouth** If it enters my thoughts again to be tried before You, let it not pass my mouth to say again, “Try me, O Lord, and test me,” as I have already said, as is written (26:2) “Try me, O Lord, and test me,” for David asked the Holy One, blessed be He, “Why do they say, ‘the God of Abraham,’ yet they do not say, ‘the God of David’?” He replied, “I tested him with ten tests, and he was found perfect.” He [David] said, “Try me and test me,” as appears in tractate Shabbath (?).
@@ -3823,7 +3823,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/18:4:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/18:4:1)
 
 
-**מְהֻלָּל אֶקְרָא ה׳.** בְּהִלּוּלִים אֶקְרָא וְאֶתְפַּלֵּל לְפָנָיו תָּמִיד, כְּלוֹמַר אַף לִפְנֵי הַתְּשׁוּעָה אֲנִי מְהַלְּלוֹ, לְפִי שֶׁבָּטוּחַ אֲנִי שֶׁ**אִוָּשַׁע** מֵאוֹיְבַי:
+**מְהֻלָּל אֶקְרָא ה׳.** בְּהִלּוּלִים אֶקְרָא וְאֶתְפַּלֵּל לְפָנָיו תָּמִיד, כְּלוֹמַר אַף לִפְנֵי הַתְּשׁוּעָה אֲנִי מְהַלְּלוֹ, לְפִי שֶׁבָּטוּחַ אֲנִי שֶׁ**אִוָּשֵׁעַ** מֵאוֹיְבַי:
 
 
 **With praise I call to the lord** With praises I call Him and pray before Him constantly, i.e., even before the salvation I praise Him, because I am confident that I will be saved from my enemies.
@@ -4032,7 +4032,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/18:17:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/18:17:2)
 
 
-**יִמְשֵׁנִי.** לְשׁוֹן הוֹצָאָה, כְּמוֹ ״כִּי מִן הַמַּיִם מְשִׁיתִהוּ״ (שמות ב:י):
+**יַמְשֵׁנִי.** לְשׁוֹן הוֹצָאָה, כְּמוֹ ״כִּי מִן הַמַּיִם מְשִׁיתִהוּ״ (שמות ב:י):
 
 
 **He drew me out** Heb. ימשני, an expression of drawing out, as (in Exod. 2:10), “I drew him out (משיתהו) of the water.”
@@ -4046,7 +4046,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/18:19:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/18:19:1)
 
 
-**יְקַדְּמוּנִי.** אוֹיְבַי הָיוּ מְמַהֲרִין וּמַקְדִּימִין לָבֹא עָלַי <b>בְיוֹם אֵידִי וַיְהִי ה׳ וְגוֹמֵר״:
+**יְקַדְּמוּנִי.** אוֹיְבַי הָיוּ מְמַהֲרִין וּמַקְדִּימִין לָבֹא עָלַי **בְיוֹם אֵידִי וַיְהִי ה׳** וְגוֹמֵר:
 
 
 **They confronted me** My enemies would hasten and attack me early on the day of my calamity, but the Lord was, etc.
@@ -4110,7 +4110,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/18:26:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/18:26:1)
 
 
-**עִם חָסִיד תִּתְחַסָּד.** כְּלוֹמַר: לְפִי שֶׁכֵּן דְּרָכָיו, לִגְמוֹל מִדָּה כְּנֶגֶד מִדָּה. **חָסִיד**, תָּמִים, **נָבָר** – כְּנֶגֶד שְׁלֹשָׁה אָבוֹת:
+**עִם חָסִיד תִּתְחַסָּד.** כְּלוֹמַר: לְפִי שֶׁכֵּן דְּרָכָיו, לִגְמוֹל מִדָּה כְּנֶגֶד מִדָּה. **חָסִיד**, **תָּמִים**, **נָבָר** – כְּנֶגֶד שְׁלֹשָׁה אָבוֹת:
 
 
 **With a kind one, You show Yourself kind** Because so are His ways, to pay a measure for a measure. Kind...sincere...pure, corresponding to the three patriarchs.
@@ -4244,7 +4244,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/18:36:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/18:36:1)
 
 
-**וְעַנְוָתְךָ תַרְבֵּנִי.** הִרְבֵּיתָה מִדַּת עֲנָוְתְךָ לְהִתְנַהֵג בָּהּ עִמִּי:
+**וְעַנְוַתְךָ תַרְבֵּנִי.** הִרְבֵּיתָה מִדַּת עֲנָוְתְךָ לְהִתְנַהֵג בָּהּ עִמִּי:
 
 
 **and You have treated me with great humility** You have dealt with me with great humility.
@@ -4480,7 +4480,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/18:48:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/18:48:2)
 
 
-**וַיְדַבֵּר.** וְיַהֲרֹג, לְשׁוֹן דֶּבֶר. לָשׁוֹן אַחֵר: כְּמוֹ ״וַיִּנְהַג״ (שמות ג:א), דִּמְתַרְגְּמִינַן: ״וּדְבַר״. וְכֵן חִבְּרוֹ מְנַחֵם, וְגַם כֵּן חִבֵּר ״יַדְבֵּר עַמִּים תַּחְתֵּינוּ״ (תהלים מז:ד):
+**וַיַּדְבֵּר.** וְיַהֲרֹג, לְשׁוֹן דֶּבֶר. לָשׁוֹן אַחֵר: כְּמוֹ ״וַיִּנְהַג״ (שמות ג:א), דִּמְתַרְגְּמִינַן: ״וּדְבַר״. וְכֵן חִבְּרוֹ מְנַחֵם, וְגַם כֵּן חִבֵּר ״יַדְבֵּר עַמִּים תַּחְתֵּינוּ״ (תהלים מז:ד):
 
 
 **and destroys** Heb. וידבר, and He slew, an expression of דבר, pestilence. Another explanation: as (in Exod. 3:1): “and he led (וינהג),” which is translated into Aramaic as וּדְבַר. Menachem (p. 61) too associated it in this manner. Likewise, he associated (below 47:4), “He leads (יַדְבֵּר) peoples under us.”
@@ -4508,7 +4508,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/19:2:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/19:2:1)
 
 
-**הַשָּׁמַיִם מְסַפְּרִים כְּבוֹד אֵל.** הַמְשׁוֹרֵר עַצְמוֹ פֵּרַשׁ אֶת הַדָּבָר: **אֵין אֹמֶר וְאֵין דְּבָרִים**. אֵינָן מְדַבְּרִים עִם הַבְּרִיּוֹת, אֶלָּא מִתּוֹךְ שֶׁ**בְּכָל הָאָרֶץ יָצָא קַוָּם** וּמְאִירִים לַבְּרִיּוֹת, מִתּוֹךְ כָּךְ מְסַפְּרִים הַבְּרִיּוֹת כְּבוֹד אֵל וּמוֹדִים וּמְבָרְכִין עַל הַמְּאוֹרוֹת:
+**הַשָּׁמַיִם מְסַפְּרִים כְּבוֹד אֵל.** הַמְשׁוֹרֵר עַצְמוֹ פֵּרַשׁ אֶת הַדָּבָר: **אֵין אֹמֶר וְאֵין דְּבָרִים.** אֵינָן מְדַבְּרִים עִם הַבְּרִיּוֹת, אֶלָּא מִתּוֹךְ שֶׁ**בְּכָל הָאָרֶץ יָצָא קַוָּם** וּמְאִירִים לַבְּרִיּוֹת, מִתּוֹךְ כָּךְ מְסַפְּרִים הַבְּרִיּוֹת כְּבוֹד אֵל וּמוֹדִים וּמְבָרְכִין עַל הַמְּאוֹרוֹת:
 
 
 **The heavens recite the glory of God** The Psalmist himself explains the matter: There is neither speech nor words. They do not speak with people but since “their line goes forth throughout the earth” and they give light to the people, thereby the creatures recite the glory of God and give thanks and bless [Him] for the luminaries.
@@ -4828,7 +4828,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/20:4:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/20:4:2)
 
 
-**יְדַשְּׁנֶהָ סֶלָה.** לְשׁוֹן שׁוּמָן, כְּמוֹ (דברים לא:כ) ״וְאָכַל וְשָׂבַע וְדָשֵׁן״, כְּלוֹמַר: יְקַבְּלֵם בְּרָצוֹן כְּעוֹלוֹת מְחִים:
+**יְדַשְּׁנֶה סֶלָה.** לְשׁוֹן שׁוּמָן, כְּמוֹ (דברים לא:כ) ״וְאָכַל וְשָׂבַע וְדָשֵׁן״, כְּלוֹמַר: יְקַבְּלֵם בְּרָצוֹן כְּעוֹלוֹת מְחִים:
 
 
 **fat** Heb. ידשנה, an expression of fat, as (in Deut. 31:20): “and it will eat and be satisfied, and it will become obese (ודשן),” i.e., He will accept them [the prayers] willingly like fat burnt offering.
@@ -4853,7 +4853,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/20:6:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/20:6:2)
 
 
-**וּבִשְׁמוֹ נִדְגֹּל.** נִתְאַסֵּף וְנַעֲשֶׂה חַיִל (תהלים ס:יד):
+וּבִשְׁמוֹ **נִדְגֹּל.** נִתְאַסֵּף וְנַעֲשֶׂה חַיִל (תהלים ס:יד):
 
 
 **and let us assemble in the name of our God** Heb. נדגל, let us assemble and become strong.
@@ -5118,7 +5118,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/21:12:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/21:12:2)
 
 
-**בַּל יוּכְלוּ.** לַעֲשׂוֹתָהּ:
+**בַּל יוּכָלוּ.** לַעֲשׂוֹתָהּ:
 
 
 **that they cannot** execute.
@@ -5266,7 +5266,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/22:8:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/22:8:1)
 
 
-**יִפְטִירוּ.** יִפְתְּחוּ, כְּמוֹ פֶּטֶר רֶחֶם וּפֶטֶר חֲמוֹר (שמות יג:יב), ״פּוֹטֵר מַיִם״ (משלי יז:יד):
+**יַפְטִירוּ.** יִפְתְּחוּ, כְּמוֹ פֶּטֶר רֶחֶם וּפֶטֶר חֲמוֹר (שמות יג:יב), ״פּוֹטֵר מַיִם״ (משלי יז:יד):
 
 
 **they will open** Heb. יפטירו, they open, as (in Exod. 13:12, 13): “all that open (פטר) the womb,...and firstling (ופטר) of a donkey.” [Also] (in Prov. 17: 14): “like letting out (פוטר) water.”
@@ -5514,7 +5514,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/22:23:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/22:23:1)
 
 
-**אֲסַפְּרָה שִׁמְךָ לְאֶחָי.** בְּהִתְאַסֵּף כָּל כְּנֵסִיּוֹתַי, וְכֵן אוֹמֵר לָהֶם: **יִרְאֵי ה׳ הַלְלוּהוּ**. אֵלּוּ הַגֵּרִים (תהלים כב:כט), וְכָל זֶרַע יַעֲקֹב:
+**אֲסַפְּרָה שִׁמְךָ לְאֶחָי.** בְּהִתְאַסֵּף כָּל כְּנֵסִיּוֹתַי, וְכֵן אוֹמֵר לָהֶם: **יִרְאֵי ה׳ הַלְלוּהוּ.** אֵלּוּ הַגֵּרִים (תהלים כב:כט), וְכָל זֶרַע יַעֲקֹב:
 
 
 **I will tell Your name to my brothers** when any of my assemblies gathers, and so I will say to them, “You who fear the Lord, praise Him.” This refers to the proselytes, and “all the seed of Jacob.”
@@ -5709,7 +5709,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/23:1:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/23:1:2)
 
 
-**ה׳ רוֹעִי.** בַּמִּדְבָּר הַזֶּה שֶׁאֲנִי הוֹלֵךְ בּוֹ בָּטוּחַ אֲנִי, שֶׁ**לֹּא אֶחְסַר** כְּלוּם:
+**ה׳ רוֹעִי.** בַּמִּדְבָּר הַזֶּה שֶׁאֲנִי הוֹלֵךְ בּוֹ בָּטוּחַ אֲנִי, שֶׁ**לֹּא אֶחְסָר** כְּלוּם:
 
 
 **The Lord is my shepherd** In this desert where I am going, [therefore] I am confident that I will lack nothing.
@@ -5882,7 +5882,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/24:6:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/24:6:1)
 
 
-**זֶה.** שֶׁכָּךְ מַעֲשָׂיו, הוּא **דּוֹר דֹּרְשָׁיו**:
+**זֶה.** שֶׁכָּךְ מַעֲשָׂיו, הוּא **דּוֹר דֹּרְשָׁו**:
 
 
 **This** [generation,] whose deeds are such - this is the generation of those who seek him.
@@ -6033,7 +6033,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/25:11:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/25:11:1)
 
 
-**לְמַעַן שִׁמְךָ.** הָרַב סְלַח </b>לַעֲוֹנִי</b>:
+**לְמַעַן שִׁמְךָ.** הָרַב סְלַח **לַעֲוֹנִי**:
 
 
 **For Your name’s sake** [For the sake of Your] great [name], forgive my iniquity...
@@ -6198,7 +6198,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/26:7:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/26:7:1)
 
 
-**לִשְׁמֹעַ.** כְּמוֹ לְהַשְׁמִיעַ:
+**לַשְׁמִעַ.** כְּמוֹ לְהַשְׁמִיעַ:
 
 
 **To proclaim** Heb. לַשְׁמִעַ, like לְהַשְׁמִיעַ.
@@ -6396,7 +6396,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/27:12:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/27:12:2)
 
 
-**וְיָפֵחַ חָמָס.** דּוֹבְרֵי רָעָה. לָשׁוֹן אַחֵר: לְשׁוֹן מוֹקֵשׁ (ס״א אינו):
+**וִיפֵחַ חָמָס.** דּוֹבְרֵי רָעָה. לָשׁוֹן אַחֵר: לְשׁוֹן מוֹקֵשׁ (ס״א אינו):
 
 
 **and speakers of evil** Heb. ויפח חמס, speakers of evil. Another explanation: An expression of a trap (פח).
@@ -6700,7 +6700,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/29:10:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/29:10:1)
 
 
-**ה׳ לַמַּבּוּל יָשָׁב.** בִּגְדֻלָּתוֹ יְחִידִי, וְגַם עַתָּה **וַיֵּשֶׁב ה׳ לְבַדּוֹ מֶלֶךְ לְעוֹלָם**, ״וְהָאֱלִילִים כָּלִיל יַחֲלֹף״ (ישעיה ב:יח), אֲבָל לְעַמּוֹ יִתֵּן עֹז וּבִרְכַּת שָׁלוֹם. וְרַבּוֹתֵינוּ דְּרָשׁוּהוּ בְּמַתַּן תּוֹרָה (מדרש תהלים כט:ב) שֶׁנִּתְפַּחֲדוּ וְנִתְבַּהֲלוּ הָאֻמּוֹת וּבָאוּ לָהֶם אֵצֶל בִּלְעָם וְאָמְרוּ לוֹ: מַה קּוֹל הֶהָמוֹן שֶׁשָּׁמַעְנוּ? שֶׁמָּא מַבּוּל הוּא בָּא לְהָבִיא לָעוֹלָם? אָמַר לָהֶם: כְּבָר נִשְׁבַּע שֶׁלֹּא יָבִיא מַבּוּל, אֶלָּא קוֹל הֶהָמוֹן שֶׁשְּׁמַעְתֶּם, הַקָּדוֹשׁ בָּרוּךְ הוּא נוֹתֵן תּוֹרָה לְעַמּוֹ:
+**ה׳ לַמַּבּוּל יָשָׁב.** בִּגְדֻלָּתוֹ יְחִידִי, וְגַם עַתָּה וַיֵּשֶׁב ה׳ לְבַדּוֹ מֶלֶךְ לְעוֹלָם, ״וְהָאֱלִילִים כָּלִיל יַחֲלֹף״ (ישעיה ב:יח), אֲבָל לְעַמּוֹ יִתֵּן עֹז וּבִרְכַּת שָׁלוֹם. וְרַבּוֹתֵינוּ דְּרָשׁוּהוּ בְּמַתַּן תּוֹרָה (מדרש תהלים כט:ב) שֶׁנִּתְפַּחֲדוּ וְנִתְבַּהֲלוּ הָאֻמּוֹת וּבָאוּ לָהֶם אֵצֶל בִּלְעָם וְאָמְרוּ לוֹ: מַה קּוֹל הֶהָמוֹן שֶׁשָּׁמַעְנוּ? שֶׁמָּא מַבּוּל הוּא בָּא לְהָבִיא לָעוֹלָם? אָמַר לָהֶם: כְּבָר נִשְׁבַּע שֶׁלֹּא יָבִיא מַבּוּל, אֶלָּא קוֹל הֶהָמוֹן שֶׁשְּׁמַעְתֶּם, הַקָּדוֹשׁ בָּרוּךְ הוּא נוֹתֵן תּוֹרָה לְעַמּוֹ:
 
 
 **The Lord sat [enthroned] at the flood** alone in His greatness, and now also, the Lord sits alone forever, “but the idols will completely pass away,” (as in Isa. 2:18), yet to His people He will give strength and a blessing of peace. Our Sages, however, expounded upon it in Midrash Psalms (29:2) that the nations became frightened and startled, and they came to Balaam and said to him, “What is the sound of the stirring that we heard? Is He going to bring a flood upon the world?” He replied to them, “He already swore that He would not bring a flood. Rather, the sound of the stirring that you heard is that the Holy One, blessed be He, is giving a Torah to His people.”
@@ -6770,7 +6770,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/30:4:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/30:4:1)
 
 
-**מִיָּרְדֵי בוֹר.** כְּמוֹ מִירִידָתִי לַבּוֹר, שֶׁלֹּא אֵרֵד לַגֵּיהִנֹּם:
+**מִיׇּרְדִי בוֹר.** כְּמוֹ מִירִידָתִי לַבּוֹר, שֶׁלֹּא אֵרֵד לַגֵּיהִנֹּם:
 
 
 **from my descent into the Pit, etc.** Heb. מירדי, like מִיְרִדָתִי, from my descent into the Pit, that I should not descend into Gehinnom.
@@ -6893,7 +6893,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/31:4:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/31:4:1)
 
 
-**תְּנַחֲנִי.** מוֹנַארַאשְׁמוֹ״י בְּלַעַ״ז, כְּמוֹ ״לֵךְ נְחֵה אֶת הָעָם וְגוֹ׳״ (שמות לב:לד):
+**תַּנְחֵנִי.** מוֹנַארַאשְׁמוֹ״י בְּלַעַ״ז, כְּמוֹ ״לֵךְ נְחֵה אֶת הָעָם וְגוֹ׳״ (שמות לב:לד):
 
 
 **You shall lead me** Heb. תנחני, mene moi in French, lead me, as (in Exod. 32:34): “go lead (נחה) the people.”
@@ -6988,7 +6988,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/31:12:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/31:12:2)
 
 
-**וְלִשְׁכֵנַי.** אֲנִי חֶרְפָּה **מְאֹד וּפַחַד לִמְיֻדָּעַי.** אֵמִישְׁקְטִיֵישְׁנ״ץ. מִתְפַּחֲדִים עַל קוֹרוֹתַי:
+**וְלִשְׁכֵנַי.** אֲנִי חֶרְפָּה **מְאֹד וּפַחַד לִמְיֻדָּעָי.** אֵמִישְׁקְטִיֵישְׁנ״ץ. מִתְפַּחֲדִים עַל קוֹרוֹתַי:
 
 
 **to my neighbors** I am very much a reproach. **and fright to my acquaintances** A mes connaissances in French, to my acquaintances. They are frightened by what happens to me.
@@ -7269,7 +7269,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/32:1:3](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/32:1:3)
 
 
-**נָשׂוּי.** אַנְפוֹרְדוֹנִי״ץ בְּלַעַ״ז:
+**נְשׂוּי.** אַנְפוֹרְדוֹנִי״ץ בְּלַעַ״ז:
 
 
 (נשוי is anpardone in Old French, pardoned. The implication is forgiveness, because the forgiveness of iniquity represents [the sin] being lifted up and withdrawn from upon a person.)
@@ -7283,7 +7283,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/32:2:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/32:2:1)
 
 
-**וְלֹא יַחְשֹׁב לוֹ עָוֹן.** וּבִלְבַד שֶׁלֹּא תִּהְיֶה בְּרוּחוֹ רְמִיָּה לִהְיוֹת בְּדַעְתּוֹ לָשׁוּב אֶל קִיאוֹ (משלי כו:יא):
+**וְלֹא יַחְשֹׁב לוֹ עָוֺן.** וּבִלְבַד שֶׁלֹּא תִּהְיֶה בְּרוּחוֹ רְמִיָּה לִהְיוֹת בְּדַעְתּוֹ לָשׁוּב אֶל קִיאוֹ (משלי כו:יא):
 
 
 **to whom the Lord ascribes no iniquity** provided that in his spirit there is no guile, thinking to revert to his “vomit.”
@@ -7358,7 +7358,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/32:5:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/32:5:1)
 
 
-**חַטָּאתִי אוֹדִיעֲךָ.** תָּמִיד וּלְשׁוֹן הֹוֶה הוּא, כִּי אָמַרְתִּי: טוֹב שֶׁאוֹדֶה עֲלֵי פְשָׁעַי לַה׳. וְעַתָּה כְּשֶׁהוֹדֵיתִי וְאָמַרְתִּי לְנָתָן הַנָּבִיא ״חָטָאתִי״ (שמואל ב יב:יג), **נָשָׂאתָ עֲוֹן חַטָּאתִי**, כְּעִנְיָן שֶׁנֶּאֱמַר (שם): ״גַּם ה׳ הֶעֱבִיר חַטָּאתְךָ וְגוֹ׳״:
+**חַטָּאתִי אוֹדִיעֲךָ.** תָּמִיד וּלְשׁוֹן הֹוֶה הוּא, כִּי אָמַרְתִּי: טוֹב שֶׁאוֹדֶה עֲלֵי פְשָׁעַי לַה׳. וְעַתָּה כְּשֶׁהוֹדֵיתִי וְאָמַרְתִּי לְנָתָן הַנָּבִיא ״חָטָאתִי״ (שמואל ב יב:יג), **נָשָׂאתָ עֲוֺן חַטָּאתִי**, כְּעִנְיָן שֶׁנֶּאֱמַר (שם): ״גַּם ה׳ הֶעֱבִיר חַטָּאתְךָ וְגוֹ׳״:
 
 
 **I would inform You of my sin** always. This is a present tense. For I said, It is good that I should confess my transgressions to the Lord, and now that I confessed and said to Nathan the prophet, “I have sinned,” (as in II Samuel 12:13)...**You forgave the iniquity of my sin** as the matter that is stated there (verse 13): “Also the Lord has removed your sin, etc.”
@@ -7854,7 +7854,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/35:1:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/35:1:2)
 
 
-**לְחַם.** לְשׁוֹן מִלְחָמָה, וְכֵן **לוֹחֲמַי**: הִלָּחֵם עִם הַנִּלְחָמִים עִמִּי:
+**לְחַם.** לְשׁוֹן מִלְחָמָה, וְכֵן **לֹחֲמָי**: הִלָּחֵם עִם הַנִּלְחָמִים עִמִּי:
 
 
 **battle** Heb. לחם an expression of war (מלחמה), and so לחמי, battle those who battle with me.
@@ -8024,7 +8024,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/35:14:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/35:14:2)
 
 
-**כְּאָבֶל.** אִם כְּבֵן הַמִּתְאַבֵּל עַל אִמּוֹ, אוֹ כְּאֵם הַמִּתְאַבֶּלֶת עַל בְּנָהּ:
+**כַּאֲבֶל.** אִם כְּבֵן הַמִּתְאַבֵּל עַל אִמּוֹ, אוֹ כְּאֵם הַמִּתְאַבֶּלֶת עַל בְּנָהּ:
 
 
 **as the mourning of a mother** As a son who mourns for his mother or as a mother who mourns for her son.
@@ -8157,7 +8157,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/35:19:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/35:19:1)
 
 
-**אוֹיְבֵי שֶׁקֶר.** שֶׁשּׂוֹנְאִין אוֹתִי עַל דְּבַר שֶׁקֶר, שֶׁמְּעִידִין עָלַי מַה שֶּׁלֹּא עָלָה בְמַחֲשַׁבְתִּי מֵעוֹלָם. **אַל יִשְׂמְחוּ** בִּמְפַלְתִּי:
+**אֹיְבַי שֶׁקֶר.** שֶׁשּׂוֹנְאִין אוֹתִי עַל דְּבַר שֶׁקֶר, שֶׁמְּעִידִין עָלַי מַה שֶּׁלֹּא עָלָה בְמַחֲשַׁבְתִּי מֵעוֹלָם. **אַל יִשְׂמְחוּ** בִּמְפַלְתִּי:
 
 
 **those who are my enemies for an unjust cause** who hate me because of a false matter, that they testify against me what never entered my mind. Let them not rejoice at my downfall.
@@ -8249,7 +8249,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/36:2:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/36:2:2)
 
 
-**וּבְקֶרֶב לִבִּי.** כְּאָדָם שֶׁאוֹמֵר: כִּמְדֻמֶּה אֲנִי:
+וּ**בְּקֶרֶב לִבִּי.** כְּאָדָם שֶׁאוֹמֵר: כִּמְדֻמֶּה אֲנִי:
 
 
 **in the midst of my heart** Like a person who says, “It seems to me.”
@@ -8756,7 +8756,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/37:23:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/37:23:1)
 
 
-**מִצְעֲדֵי גָבֶר.** מִי שֶׁהוּא גִּבּוֹר בְּיִרְאַת הַקָּדוֹשׁ בָּרוּךְ הוּא, לִישׁ פָּאשׁ דוּפוֹרְט בְּלַעַ״ז:
+**מִצְעֲדֵי גֶבֶר.** מִי שֶׁהוּא גִּבּוֹר בְּיִרְאַת הַקָּדוֹשׁ בָּרוּךְ הוּא, לִישׁ פָּאשׁ דוּפוֹרְט בְּלַעַ״ז:
 
 
 **a mighty man’s steps** He who is mighty in the fear of the Holy One, blessed be He; les pas du fort in French, the steps of the strong one.
@@ -8909,7 +8909,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/37:37:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/37:37:1)
 
 
-**שְׁמֹר תָּם.** הִסְתַּכְּלוּ בְּדַרְכֵי הַתְּמִימִים, לִלְמֹד מִמַּעֲשֵׂיהֶם:
+**שְׁמׇר תָּם.** הִסְתַּכְּלוּ בְּדַרְכֵי הַתְּמִימִים, לִלְמֹד מִמַּעֲשֵׂיהֶם:
 
 
 **Observe the innocent** Scrutinize the ways of the innocent to learn from their deeds.
@@ -8951,7 +8951,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/38:3:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/38:3:1)
 
 
-**נָחֲתוּ.** נִזְרְקוּ. לְשׁוֹן נַחַת נוֹפֵל בִּנְטִיַּת קֶשֶׁת, וּלְפִי שֶׁעַל יְדֵי דְּרִיכַת הַקֶּשֶׁת נִזְרָקִים הַחִצִּים, כְּתִיב **נָחֲתוּ בִי**, וְכֵן (שמות טו:ט) ״אָרִיק חַרְבִּי״, הָיָה לוֹ לִכְתֹּב אָרִיק תַּעְרִי, אֶלָּא לְפִי שֶׁכְּשֶׁמּוֹצִיאִין חֶרֶב מִתַּעְרָהּ הַתַּעַר רֵיק מִמֶּנָּה, לְכָךְ תּוֹלֶה הָרֵיקוּת בַּחֶרֶב, וְכֵן (תהלים יח:לה) ״וְנִחֲתָה קֶשֶׁת נְחוּשָׁה״. וְאֵין הַנּוּ״ן שֹׁרֶשׁ בַּתֵּבָה, שֶׁאִם הָיְתָה שֹׁרֶשׁ הָיָה לוֹ לוֹמַר נִנְחֲתוּ בִי, אֲבָל נוּ״ן שֶׁל נָחֲתוּ וְכֵן שֶׁל וַתִּנְחַת אֵינָהּ שֹׁרֶשׁ וְנוֹפֶלֶת לִפְרָקִים כְּמוֹ וְנוּ״ן שֶׁל נָגַף, נָשַׁךְ, נָדַר, נָקַם, כְּשֶׁמִּתְפַּעֵל יֹאמַר נִגַּף נִשַּׁךְ נִדַּר נִקַּם כְּמוֹ נִנְגַף נִנְשַׁךְ נִנְדַר נִנְקַם שֶׁהַדָּגֵשׁ בָּא בַתֵּבָה בִּמְקוֹם נוּ״ן, וְכֵן (ויקרא כו:לו) ״עָלֶה נִדָּף״, (איכה ג:מט) ״עֵינִי נִגְּרָה״, כְּמוֹ נִנְדַּף נִנְגְּרָה, כֵּן יֹאמַר נָחֲתוּ כְּמוֹ נִנְחֲתוּ, וְכֵן (תהלים יח:לה) ״וְנִחֲתָה קֶשֶׁת נְחוּשָׁה״ כְּמוֹ וְנִנְחֲתָה, שֶׁדֶּרֶךְ הַחֵי״ת לְהִתְנַהֵג כְּמִנְהַג דַּגְשׁוּת בְּרֹב מְקוֹמוֹת, כְּגוֹן (מלכים א יג:יח) ״כִּחֵשׁ לוֹ״, וּמִמִּשְׁקַל דָּגוּשׁ כְּמוֹ דִּבֵּר מִגִּזְרַת וַיְדַבֵּר, כָּךְ כִּחֵשׁ מִגִּזְרַת (בראשית יח:טו) ״וַתְּכַחֵשׁ שָׂרָה״, וְלֹא יֹאמַר כֵּחַשׁ כַּאֲשֶׁר יֹאמַר מִן הַמְבָרֵךְ בֵּרַךְ וְלֹא יֹאמַר בִּרֵךְ כַּאֲשֶׁר יֹאמַר דִּבֵּר, לְפִי שֶׁאֵין דַּגְשׁוּת נִכָּר בְּרֵי״שׁ, אֲבָל בְּחֵי״ת נִכָּר דַּגְשׁוּת, וְכֵן (דברים לב:ה) ״שִׁחֵת,״ כְּמוֹ כִּפֵּר דִּבֵּר. אַף כָּאן יֹאמַר נָחֲתוּ כְּמוֹ נִגְּשׁוּ נִתְּנוּ מִגְּזַר נָחַת נָתַן נָגַשׁ, וְהַנּוּ״ן יְסוֹד נוֹפֵל לִכָּנֵס דָּגֵשׁ בִּמְקוֹמָהּ כְּשֶׁהִיא מִתְפַּעֵל, וְכֵן (שמואל א ב:ד) ״קֶשֶׁת גִּבֹּרִים חַתִּים״ מִגִּזְרַת נָחַת וְחָתַת, כַּאֲשֶׁר יֹאמַר מִן נָסַב סָבַב, מִן נָשַׁם שָׁמַם, (ויקרא כו:לב) ״וְנָשַׁמּוּ דַרְכֵיכֶם״, (שם) ״וְשָׁמְמוּ עָלֶיהָ״, וְכֵן בָּלַל נָבַל (בראשית יא:ט) ״כִּי שָׁם בָּלַל ה׳״, (בראשית יא:ז) ״וְנָבְלָה שָׁם שְׂפָתָם״, כֵּן יֹאמַר נָחַת וְחָתַת בִּלְשׁוֹן פָּעַל:
+**נִחֲתוּ.** נִזְרְקוּ. לְשׁוֹן נַחַת נוֹפֵל בִּנְטִיַּת קֶשֶׁת, וּלְפִי שֶׁעַל יְדֵי דְּרִיכַת הַקֶּשֶׁת נִזְרָקִים הַחִצִּים, כְּתִיב **נִחֲתוּ בִי**, וְכֵן (שמות טו:ט) ״אָרִיק חַרְבִּי״, הָיָה לוֹ לִכְתֹּב אָרִיק תַּעְרִי, אֶלָּא לְפִי שֶׁכְּשֶׁמּוֹצִיאִין חֶרֶב מִתַּעְרָהּ הַתַּעַר רֵיק מִמֶּנָּה, לְכָךְ תּוֹלֶה הָרֵיקוּת בַּחֶרֶב, וְכֵן (תהלים יח:לה) ״וְנִחֲתָה קֶשֶׁת נְחוּשָׁה״. וְאֵין הַנּוּ״ן שֹׁרֶשׁ בַּתֵּבָה, שֶׁאִם הָיְתָה שֹׁרֶשׁ הָיָה לוֹ לוֹמַר נִנְחֲתוּ בִי, אֲבָל נוּ״ן שֶׁל נָחֲתוּ וְכֵן שֶׁל וַתִּנְחַת אֵינָהּ שֹׁרֶשׁ וְנוֹפֶלֶת לִפְרָקִים כְּמוֹ וְנוּ״ן שֶׁל נָגַף, נָשַׁךְ, נָדַר, נָקַם, כְּשֶׁמִּתְפַּעֵל יֹאמַר נִגַּף נִשַּׁךְ נִדַּר נִקַּם כְּמוֹ נִנְגַף נִנְשַׁךְ נִנְדַר נִנְקַם שֶׁהַדָּגֵשׁ בָּא בַתֵּבָה בִּמְקוֹם נוּ״ן, וְכֵן (ויקרא כו:לו) ״עָלֶה נִדָּף״, (איכה ג:מט) ״עֵינִי נִגְּרָה״, כְּמוֹ נִנְדַּף נִנְגְּרָה, כֵּן יֹאמַר נָחֲתוּ כְּמוֹ נִנְחֲתוּ, וְכֵן (תהלים יח:לה) ״וְנִחֲתָה קֶשֶׁת נְחוּשָׁה״ כְּמוֹ וְנִנְחֲתָה, שֶׁדֶּרֶךְ הַחֵי״ת לְהִתְנַהֵג כְּמִנְהַג דַּגְשׁוּת בְּרֹב מְקוֹמוֹת, כְּגוֹן (מלכים א יג:יח) ״כִּחֵשׁ לוֹ״, וּמִמִּשְׁקַל דָּגוּשׁ כְּמוֹ דִּבֵּר מִגִּזְרַת וַיְדַבֵּר, כָּךְ כִּחֵשׁ מִגִּזְרַת (בראשית יח:טו) ״וַתְּכַחֵשׁ שָׂרָה״, וְלֹא יֹאמַר כֵּחַשׁ כַּאֲשֶׁר יֹאמַר מִן הַמְבָרֵךְ בֵּרַךְ וְלֹא יֹאמַר בִּרֵךְ כַּאֲשֶׁר יֹאמַר דִּבֵּר, לְפִי שֶׁאֵין דַּגְשׁוּת נִכָּר בְּרֵי״שׁ, אֲבָל בְּחֵי״ת נִכָּר דַּגְשׁוּת, וְכֵן (דברים לב:ה) ״שִׁחֵת,״ כְּמוֹ כִּפֵּר דִּבֵּר. אַף כָּאן יֹאמַר נָחֲתוּ כְּמוֹ נִגְּשׁוּ נִתְּנוּ מִגְּזַר נָחַת נָתַן נָגַשׁ, וְהַנּוּ״ן יְסוֹד נוֹפֵל לִכָּנֵס דָּגֵשׁ בִּמְקוֹמָהּ כְּשֶׁהִיא מִתְפַּעֵל, וְכֵן (שמואל א ב:ד) ״קֶשֶׁת גִּבֹּרִים חַתִּים״ מִגִּזְרַת נָחַת וְחָתַת, כַּאֲשֶׁר יֹאמַר מִן נָסַב סָבַב, מִן נָשַׁם שָׁמַם, (ויקרא כו:לב) ״וְנָשַׁמּוּ דַרְכֵיכֶם״, (שם) ״וְשָׁמְמוּ עָלֶיהָ״, וְכֵן בָּלַל נָבַל (בראשית יא:ט) ״כִּי שָׁם בָּלַל ה׳״, (בראשית יא:ז) ״וְנָבְלָה שָׁם שְׂפָתָם״, כֵּן יֹאמַר נָחַת וְחָתַת בִּלְשׁוֹן פָּעַל:
 
 
 **have been shot** Heb. נחתו, have been cast. The expression of נחת applies to the bending of a bow, and since the arrows are shot by bending the bow, he wrote נחתו בי [literally] “were bent in me.” Similarly, (in Exod. 15:9): “I will unsheath my sword (אריק חרבי),” [lit. I emptied my sword.] The Torah should have written: אריק תערי, I will empty my sheath, but because when they draw the sword from its sheath, the sheath is emptied of it, he therefore relates the emptying to the sword. Similarly, (above 18:35): “a copper bow was bent (ונחתה).” The “nun” is not a radical, because, if it were a radical, it would have to be ננחתו, but the “nun” of נחתו, and so ותנחת, is not a radical but is sometimes dropped, like the “nun” of נגף, to smite; נשך, to bite; נדר, to vow; נקם, to avenge. And when it is passive we say: נִגַּף, smitten; נִשַׁךְ, bitten; נִדַּר, vowed; נִקַּם, avenged, like נִנְקַם, נִנְדַּר, נִנְשַׁךְ, נִנְגַּף. The “dagesh” in the word replaces the “nun.” Similarly (in Lev. 26:36), a rattling (נִדַף) leaf,” (in Lam. 3:49), “My eyes stream (נִגְרָה),” like נִנְגְּרָה. So does he say נִחֲתוּ like נִנְחֲתוּ, and so (above 18:35): “and a copper bow was bent (וְנִּחֲתָה),” like וְנִנְחֲתָה. It was customary for the “cheth” to be treated like the letters that do accept a “dagesh” in most places, e.g. (in I Kings 13:18): “He lied (כִּחֶשׁ) to him,” in the form that is punctuated by a “dagesh,” [i.e., the pi’el conjugation,] like דִבֶּר spoke, from the same conjugation as וַיְדַבֶּר, כִּחֶשׁ from the same conjugation as (Gen. 18: 15): “And Sarah lied (וַתְּכַחֵשׁ),” and we do not say כֵּחַשׁ as we say from הַמְבָרֵךְ, בֵּרַךְ and we do not say בִּרֵךְ as we say דִּבֵּר, because the power of the “dagesh”; is not recognizable in the “resh,” but in the “cheth” the power of the “dagesh” is recognizable, and so (in Deut. 32:5): “Have they injured (שִׁחֵת) Him?” like כִּפֵר, atoned, דִּבֵּר, spoke. Here, too, he says, נִחֲתוּ like נִגְּשׁוּ they approached, נִתְּנוּ, they were given, from the roots נחת, נגש, נתן, the “nun” being a defective radical, replaced by a “dagesh” in the passive voice. So is (I Sam. 2: 4): “The bows of the mighty are broken (חתים),” from the root נחת and חתת as you say from נסב, סבב, from נשם, שמם ; (Lev. 26:22), “and your ways shall become desolate (וְנָשַׁמוּ),” (ibid. verse 32), “shall wonder (וְשָׁמְמוּ) over it.” Similarly, בָּלַל, נָבֹל, (Gen. 11:9) “for there the Lord confused בָּלַל” (ibid. verse 7) “and let us confuse (וְנָבְלָה) their language there.” So does he say נחת and חתת in the active voice.
@@ -9074,7 +9074,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/38:12:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/38:12:1)
 
 
-**מִנֶּגֶד נִגְעִי יַעֲמֹדוּ.** אוֹתָם נִרְאִין לִי כְּאוֹהֲבִים בִּשְׁעַת הֲנָאָתָן, וּכְשֶׁרוֹאִין שֶׁהַנֶּגַע בָּא עָלַי אֵין עוֹמְדִין לִי בִּשְׁעַת דָּחְקִי, אֶלָּא **מִנֶּגְדִּי יַעֲמֹדוּ** וְאֵינָם עוֹזְרִים לִי:
+**מִנֶּגֶד נִגְעִי יַעֲמֹדוּ.** אוֹתָם נִרְאִין לִי כְּאוֹהֲבִים בִּשְׁעַת הֲנָאָתָן, וּכְשֶׁרוֹאִין שֶׁהַנֶּגַע בָּא עָלַי אֵין עוֹמְדִין לִי בִּשְׁעַת דָּחְקִי, אֶלָּא מִנֶּגְדִּי יַעֲמֹדוּ וְאֵינָם עוֹזְרִים לִי:
 
 
 **stand aloof from my affliction** Those who appear to me as lovers in time of their pleasure, and when they see that the affliction comes upon me, they do not stand up for me in the time of my strait, but stand aloof and do not aid me.
@@ -9188,7 +9188,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/38:20:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/38:20:1)
 
 
-**חַיִּים עָצְמוּ.** מַעֲצִימִים חַיִּים בְּשָׁלוֹם וּבְטוֹבָה:
+**חַיִּים עָצֵמוּ.** מַעֲצִימִים חַיִּים בְּשָׁלוֹם וּבְטוֹבָה:
 
 
 **are in the vigor of life** They are in the vigor of life with tranquility and goodness.
@@ -9461,7 +9461,7 @@ Heb. חמודו means his flesh, which is his desire (חמדתו).
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/40:2:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/40:2:1)
 
 
-**קַוֹּה קִוִּיתִי ה׳.** בְּמִצְרַיִם, וּמִזְמוֹר זֶה גַּם הוּא כְּנֶגֶד כָּל יִשְׂרָאֵל:
+**קַוֺּה קִוִּיתִי ה׳.** בְּמִצְרַיִם, וּמִזְמוֹר זֶה גַּם הוּא כְּנֶגֶד כָּל יִשְׂרָאֵל:
 
 
 **I have greatly hoped for the Lord** in Egypt, and this psalm is meant for all Israel.
@@ -9803,7 +9803,7 @@ Heb. חמודו means his flesh, which is his desire (חמדתו).
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/41:2:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/41:2:1)
 
 
-**אֶל דַּל.** חוֹלֶה, לְבַקְּרוֹ; כְּעִנְיָן שֶׁנֶּאֱמַר ״מַדּוּעַ אַתָּה כָּכָה דַּל״ (שמואל ב יג:ד) דְּאַמְנוֹן:
+**אֶל דָּל.** חוֹלֶה, לְבַקְּרוֹ; כְּעִנְיָן שֶׁנֶּאֱמַר ״מַדּוּעַ אַתָּה כָּכָה דַּל״ (שמואל ב יג:ד) דְּאַמְנוֹן:
 
 
 **the poor** Heb. דל, the ill, to visit him, as the matter that is stated (in II Sam. 13:4): “Why are you so poor (דל)...?” mentioned in reference to Amnon.
@@ -10068,7 +10068,7 @@ Heb. חמודו means his flesh, which is his desire (חמדתו).
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/42:5:3](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/42:5:3)
 
 
-**אֲדַדֵּם.** אֶדְדֶּה עִמָּהֶם, כְּמוֹ ״וְלֹא יָכְלוּ דַּבְּרוֹ לְשָׁלוֹם״ (בראשית לז:ד) – דַּבֵּר עִמּוֹ בְּשָׁלוֹם:
+**אֶדַּדֵּם.** אֶדְדֶּה עִמָּהֶם, כְּמוֹ ״וְלֹא יָכְלוּ דַּבְּרוֹ לְשָׁלוֹם״ (בראשית לז:ד) – דַּבֵּר עִמּוֹ בְּשָׁלוֹם:
 
 
 **I would walk with them**, as (Gen. 37:4): “And they could not speak with him in peace,” [equivalent to] לדבר עמו בשלום.
@@ -10190,7 +10190,7 @@ Heb. חמודו means his flesh, which is his desire (חמדתו).
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/42:9:3](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/42:9:3)
 
 
-**שִׁירָה עִמִּי.** תְּהֵא חֲנִיָּתוֹ בְּתוֹכֵנוּ, שִׁירָה לְשׁוֹן חֲנִיָּה, כְּדִמְתַרְגְּמִינָן ״וַיִּחַן״ (שמות יט:ב) ״וּשְׁרָא״. זוֹ לָמַדְתִּי מִתּוֹךְ מָסֹרֶת הַגְּדוֹלָה שֶׁחִבֵּר אֶת זֶה עִם ״וַיְהִי שִׁירוֹ חֲמִשָּׁה וָאָלֶף״ (מלכים א ה:יב), בְּאַלְפָ״א בֵּיתָ״א שֶׁל שְׁתֵּי תֵיבוֹת הַחֲלוּקִים בְּפִתְרוֹנָן, לִמֵּד שֶׁאֵין זֶה לְשׁוֹן שִׁיר. וּמִדְרַשׁ הָאַגָּדָה פּוֹתְרוֹ לְשׁוֹן שִׁיר, וְכָךְ הוּא פּוֹתְרוֹ: שֶׁכָּךְ יִשְׂרָאֵל אוֹמְרִים לְהַקָּדוֹשׁ בָּרוּךְ הוּא, זָכְרֵנוּ מַה שֶּׁעָשִׂיתָ לָנוּ בְּמִצְרַיִם, מִצְוָה אַחַת שֶׁצִּוִּיתָנוּ בַּיּוֹם בְּעֶרֶב פֶּסַח וּשְׁמַרְנוּהָ, **וּבַלַּיְלָה** גְּאַלְתָּנוּ וְשַׁרְנוּ לְפָנֶיךָ אֶת הַהַלֵּל, וְעַכְשָׁיו הַרְבֵּה מִצְווֹת אֲנִי שׁוֹמֶרֶת, וְעַל זֹאת **אוֹמְרָה לְאֵל סַלְעִי לָמָּה שְׁכַחְתָּנִי וְגוֹ׳**:
+**שִׁירֹה עִמִּי.** תְּהֵא חֲנִיָּתוֹ בְּתוֹכֵנוּ, שִׁירָה לְשׁוֹן חֲנִיָּה, כְּדִמְתַרְגְּמִינָן ״וַיִּחַן״ (שמות יט:ב) ״וּשְׁרָא״. זוֹ לָמַדְתִּי מִתּוֹךְ מָסֹרֶת הַגְּדוֹלָה שֶׁחִבֵּר אֶת זֶה עִם ״וַיְהִי שִׁירוֹ חֲמִשָּׁה וָאָלֶף״ (מלכים א ה:יב), בְּאַלְפָ״א בֵּיתָ״א שֶׁל שְׁתֵּי תֵיבוֹת הַחֲלוּקִים בְּפִתְרוֹנָן, לִמֵּד שֶׁאֵין זֶה לְשׁוֹן שִׁיר. וּמִדְרַשׁ הָאַגָּדָה פּוֹתְרוֹ לְשׁוֹן שִׁיר, וְכָךְ הוּא פּוֹתְרוֹ: שֶׁכָּךְ יִשְׂרָאֵל אוֹמְרִים לְהַקָּדוֹשׁ בָּרוּךְ הוּא, זָכְרֵנוּ מַה שֶּׁעָשִׂיתָ לָנוּ בְּמִצְרַיִם, מִצְוָה אַחַת שֶׁצִּוִּיתָנוּ בַּיּוֹם בְּעֶרֶב פֶּסַח וּשְׁמַרְנוּהָ, **וּבַלַּיְלָה** גְּאַלְתָּנוּ וְשַׁרְנוּ לְפָנֶיךָ אֶת הַהַלֵּל, וְעַכְשָׁיו הַרְבֵּה מִצְווֹת אֲנִי שׁוֹמֶרֶת, וְעַל זֹאת **אוֹמְרָה לְאֵל סַלְעִי לָמָּה שְׁכַחְתָּנִי וְגוֹ׳**:
 
 
 **may His resting place be with me** Heb. שירה. May His resting place be in our midst. שּׁירה is an expression of camping, as we translate (II Sam. 17:26): “And Israel encamped,” וּשְּׁרָא. I learned this from the Great Masorah, which associates this [word] with (I Kings 5:12): “And his songs (שירו) were a thousand and five,” in the “aleph-beth” of two words with different meanings (homonyms). This taught [me] that this is not an expression of song, but the Midrash Aggadah does interpret it as an expression of song, interpreting in this manner: Israel says to the Holy One, blessed be He: “We remember what You did for us in Egypt. You commanded us one commandment by day on the eve of the Passover, and we observed it, and at night, You redeemed us and we sang Hallel before You. But now we keep many commandments, yet You do not redeem us. Because of this, I will say to God, my Rock, ‘Why have You forgotten me?’ “
@@ -10553,7 +10553,7 @@ Heb. חמודו means his flesh, which is his desire (חמדתו).
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/45:2:3](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/45:2:3)
 
 
-**אוֹמֵר אֲנִי מַעֲשַׂי לַמֶּלֶךְ.** הַשִּׁיר הַזֶּה שֶׁיִּסַּדְתִּי וְעָשִׂיתִי, אֲנִי אוֹמְרוֹ לַמֶּלֶךְ, שֶׁנֶּאֱמַר (משלי ח:טו) ״בִּי מְלָכִים יִמְלֹכוּ״:
+**אוֹמֵר אָנִי מַעֲשַׂי לַמֶּלֶךְ.** הַשִּׁיר הַזֶּה שֶׁיִּסַּדְתִּי וְעָשִׂיתִי, אֲנִי אוֹמְרוֹ לַמֶּלֶךְ, שֶׁנֶּאֱמַר (משלי ח:טו) ״בִּי מְלָכִים יִמְלֹכוּ״:
 
 
 **I say, “My works are for a king”** This song, which I have founded and composed, I say to one who is fit to be a king, as it is stated (Prov. 8:15): “Kings reign with me.”
@@ -10564,7 +10564,7 @@ Heb. חמודו means his flesh, which is his desire (חמדתו).
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/45:2:4](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/45:2:4)
 
 
-**לְשׁוֹנִי.** צַח בְּשִׁירִים כְּעֵט **סוֹפֵר מָהִיר**. רָאִיתִי בִּיסוֹדוֹ שֶׁל רַבִּי מֹשֶׁה הַדַּרְשָׁן: **מָהִיר** בִּלְשׁוֹן עֲרָבִי בָּקִי:
+**לְשׁוֹנִי.** צַח בְּשִׁירִים כְּעֵט **סוֹפֵר מָהִיר.** רָאִיתִי בִּיסוֹדוֹ שֶׁל רַבִּי מֹשֶׁה הַדַּרְשָׁן: **מָהִיר** בִּלְשׁוֹן עֲרָבִי בָּקִי:
 
 
 **my tongue is** as poetic as the pen of an expert scribe. I saw in the commentary of Rabbi Moses the Preacher: מָהִיר in Arabic means expert.
@@ -11605,7 +11605,7 @@ Heb. חמודו means his flesh, which is his desire (חמדתו).
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/49:5:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/49:5:2)
 
 
-**אֶפְתַּח.** לָכֶם **חִידָתִי** זֹאת **בְּכִנּוֹר**, וְזוֹ הִיא הַחִידָה: **לָמָּה** אֲנִי צָרִיךְ לִירָא **בִּימֵי רָע** בְּיוֹם פְּקֻדַּת עָוֹן? לְפִי שֶׁ**עֲוֹן עֲקֵבַי יְסוּבֵּנִי**. עֲוֹנוֹת שֶׁאֲנִי דָּשׁ בֶּעָקֵב, שֶׁאֲנִי מְזַלְזֵל בָּהֶם, שֶׁהֵם בְּעֵינַי עֲבֵרוֹת קַלּוֹת – הֵם מַרְשִׁיעוֹת אוֹתִי בַּדִּין. וְכָל שֶׁכֵּן הָעֲשִׁירִים:
+**אֶפְתַּח.** לָכֶם **חִידָתִי** זֹאת **בְּכִנּוֹר**, וְזוֹ הִיא הַחִידָה: **לָמָּה** אֲנִי צָרִיךְ לִירָא **בִּימֵי רָע** בְּיוֹם פְּקֻדַּת עָוֹן? לְפִי שֶׁ**עֲוֹן עֲקֵבַי יְסוּבֵּנִי.** עֲוֹנוֹת שֶׁאֲנִי דָּשׁ בֶּעָקֵב, שֶׁאֲנִי מְזַלְזֵל בָּהֶם, שֶׁהֵם בְּעֵינַי עֲבֵרוֹת קַלּוֹת – הֵם מַרְשִׁיעוֹת אוֹתִי בַּדִּין. וְכָל שֶׁכֵּן הָעֲשִׁירִים:
 
 
 **I will solve** this my riddle for you with a lyre. And this is the riddle: Why must I fear in days of misfortune, on the day of the visitation for iniquity? Because the iniquity of my heels surrounds me. The iniquities that I tread with my heels, that I treat lightly, that I view as minor sinsthey condemn me in judgment, and surely the wealthy.
@@ -13062,7 +13062,7 @@ Heb. חמודו means his flesh, which is his desire (חמדתו).
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/55:16:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/55:16:1)
 
 
-**יִשַּׁי מָוֶת עָלֵימוֹ.** יַשִּׁיא הַקָּדוֹשׁ בָּרוּךְ הוּא עֲלֵיהֶם אֶת מַלְאַךְ הַמָּוֶת, **יִשַּׁי** יְסַכְסֵךְ וְיָסִית לְשׁוֹן ״הַנָּחָשׁ הִשִּׁיאַנִי וָאֹכַל״ (בראשית ג:יג), וּמְנַחֵם פָּתַר **יִשַּׁי** לְשׁוֹן יֵשׁ כְּמוֹ ״אִם יֶשְׁכֶם עוֹשִׂים״ (בראשית כד:מט) ״אֲשֶׁר יֶשְׁנוֹ פֹּה״ (דברים כט:יד):
+**יַשִּׁי מָוֶת עָלֵימוֹ.** יַשִּׁיא הַקָּדוֹשׁ בָּרוּךְ הוּא עֲלֵיהֶם אֶת מַלְאַךְ הַמָּוֶת, **יַשִּׁי** יְסַכְסֵךְ וְיָסִית לְשׁוֹן ״הַנָּחָשׁ הִשִּׁיאַנִי וָאֹכַל״ (בראשית ג:יג), וּמְנַחֵם פָּתַר **יַשִּׁי** לְשׁוֹן יֵשׁ כְּמוֹ ״אִם יֶשְׁכֶם עוֹשִׂים״ (בראשית כד:מט) ״אֲשֶׁר יֶשְׁנוֹ פֹּה״ (דברים כט:יד):
 
 
 **May He incite Death upon them** May the Holy One, blessed be He, incite the Angel of Death upon them. Heb. יַשִּׁיא, incite and entice, an expression of (Gen. 3:13): “The serpent enticed me and I ate.” Menachem (p. 101) interpreted יַשִּׁיא, as an expression of יש, there is, as (Gen. 24:49): “If you wish (ישכם) to do kindness”; (Deut. 29:14), “who is (ישנו) here.”
@@ -13198,7 +13198,7 @@ Heb. חמודו means his flesh, which is his desire (חמדתו).
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/55:22:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/55:22:1)
 
 
-</b>חָלְקוּ.</b> לְשׁוֹן **חֲלַקְלַקּוֹת**:
+**חָלְקוּ.** לְשׁוֹן חֲלַקְלַקּוֹת:
 
 
 **Smooth were** Heb. חלקו, an expression of (above 35:6): “and slippery (וחלקלקות).”
@@ -13696,7 +13696,7 @@ Heb. חמודו means his flesh, which is his desire (חמדתו).
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/58:2:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/58:2:2)
 
 
-**הַאֻמְנָם אֵלֶם צֶדֶק תְּדַבֵּרוּן וְגוֹ׳.** מִזְמוֹר זֶה אָמַר עַל שֶׁבָּא אֶל הַמַּעְגָּל אֲשֶׁר שָׁאוּל שׁוֹכֵב שָׁם, וְלָקַח אֶת הַחֲנִית וְאֶת הַצַּפַּחַת וְהָלַךְ לוֹ, וְקָרָא: ״הֲלֹא תַעֲנֶה אַבְנֵר״ (שמואל א כו:יד), כְּלוֹמַר: הֲלֹא יֵשׁ לְךָ עַתָּה לְהוֹכִיחַ לְשָׁאוּל וּלְהַרְאוֹתוֹ, שֶׁעַל חִנָּם הוּא רוֹדְפֵנִי; שֶׁאִלּוּ רָצִיתִי הֲרַגְתִּיו. וְכָךְ אָמַר בְּשִׁירוֹ: הַאֻמְנָם נֶאֱלַם מִפִּיכֶם הַצֶּדֶק שֶׁהָיָה לָכֶם לְדַבֵּר, וְהַמֵּישָׁרִים שֶׁהָיָה לָכֶם לִשְׁפֹּט **הַצֶּדֶק אֲשֶׁר תְּדַבֵּרוּן**:
+**הַאֻמְנָם אֵלֶם צֶדֶק תְּדַבֵּרוּן וְגוֹ׳.** מִזְמוֹר זֶה אָמַר עַל שֶׁבָּא אֶל הַמַּעְגָּל אֲשֶׁר שָׁאוּל שׁוֹכֵב שָׁם, וְלָקַח אֶת הַחֲנִית וְאֶת הַצַּפַּחַת וְהָלַךְ לוֹ, וְקָרָא: ״הֲלֹא תַעֲנֶה אַבְנֵר״ (שמואל א כו:יד), כְּלוֹמַר: הֲלֹא יֵשׁ לְךָ עַתָּה לְהוֹכִיחַ לְשָׁאוּל וּלְהַרְאוֹתוֹ, שֶׁעַל חִנָּם הוּא רוֹדְפֵנִי; שֶׁאִלּוּ רָצִיתִי הֲרַגְתִּיו. וְכָךְ אָמַר בְּשִׁירוֹ: הַאֻמְנָם נֶאֱלַם מִפִּיכֶם הַצֶּדֶק שֶׁהָיָה לָכֶם לְדַבֵּר, וְהַמֵּישָׁרִים שֶׁהָיָה לָכֶם לִשְׁפֹּט הַ**צֶּדֶק** אֲשֶׁר **תְּדַבֵּרוּן**:
 
 
 **Is it true that you were silent about the righteousness that you should have spoken, etc.** He recited this psalm concerning [the incident] when he entered the barricade where Saul was lying, took the spear and the jug, went away, and called, “Will you not answer, Abner?” (I Sam. 26:14). That is to say, “Shouldn’t you now prove to Saul and show him that he pursues me for no reason? For had I wished, I would have killed him.” And so did he say in his song: Is it true that the righteousness that you should have said and the equities with which you should have judged have been silenced from your mouth? The righteousness that you should have spoken.
@@ -13846,7 +13846,7 @@ Heb. חמודו means his flesh, which is his desire (חמדתו).
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/58:8:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/58:8:2)
 
 
-**יִדְרֹךְ חִצָּיו.** הַקָּדוֹשׁ בָּרוּךְ הוּא לְנֶגְדָּם, כְּדֵי שֶׁיִּתְמוֹלְלוּ. יִתְמוֹלְלוּ שיאנ״ט פרוייאיי״ץ בְּלַעַ״ז:
+**יִדְרֹךְ חִצָּו.** הַקָּדוֹשׁ בָּרוּךְ הוּא לְנֶגְדָּם, כְּדֵי שֶׁיִּתְמוֹלְלוּ. יִתְמוֹלְלוּ שיאנ״ט פרוייאיי״ץ בְּלַעַ״ז:
 
 
 **He will aim His arrows** i.e., the Holy One, blessed be He, so that they will be cut off. יתמֹללוּ is soyent preciz, let them be cut off.
@@ -13999,7 +13999,7 @@ Heb. חמודו means his flesh, which is his desire (חמדתו).
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/59:5:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/59:5:1)
 
 
-**בְּלִי עָוֹן.** לֹא חָטָאתִי לָהֶם:
+**בְּלִי עָוֺן.** לֹא חָטָאתִי לָהֶם:
 
 
 **Without iniquity** I did not sin against them.
@@ -15107,7 +15107,7 @@ Heb. חמודו means his flesh, which is his desire (חמדתו).
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/63:11:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/63:11:1)
 
 
-**יְגִירוּהוּ עַל יְדֵי חָרֶב.** יָבוֹאוּ עַל רוֹדְפֵי אוֹיְבִים, וִיגִירוּהוּ כָּל אֶחָד מֵהֶם עַל יְדֵי חֶרֶב שֶׁיָּמִיתוּ אוֹתוֹ. וּמִקְרָא קָצָר הוּא זֶה שֶׁלֹּא פֵּירֵשׁ מִי יְגִירוּהוּ. **יְגִירוּהוּ** לְשׁוֹן גְּרִירָה, כְּמוֹ ״מוֹגָרִים בַּמּוֹרָד״ (מיכה א:ד), ״פָּרַץ נַחַל מֵעִם גָּר״ (איוב כח:ד):
+**יַגִּירֻהוּ עַל יְדֵי חָרֶב.** יָבוֹאוּ עַל רוֹדְפֵי אוֹיְבִים, וִיגִירוּהוּ כָּל אֶחָד מֵהֶם עַל יְדֵי חֶרֶב שֶׁיָּמִיתוּ אוֹתוֹ. וּמִקְרָא קָצָר הוּא זֶה שֶׁלֹּא פֵּירֵשׁ מִי יְגִירוּהוּ. **יַגִּירֻהוּ** לְשׁוֹן גְּרִירָה, כְּמוֹ ״מוֹגָרִים בַּמּוֹרָד״ (מיכה א:ד), ״פָּרַץ נַחַל מֵעִם גָּר״ (איוב כח:ד):
 
 
 **May he be dragged by the sword** May enemies come upon my pursuers and drag each one of them with a sword, killing him. This is an elliptical verse, since it does not explain who will drag him. יגירהוּ is an expression of dragging, as (Micah 1:4): “as water poured down (המוגרים) a steep place”; (Job. 28:4), “A stream bursts forth from the place of its flow (גר).”
@@ -15263,7 +15263,7 @@ Heb. חמודו means his flesh, which is his desire (חמדתו).
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/64:7:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/64:7:2)
 
 
-**טָמְנוּ.** בְּלִבָּם וְלֹא גִלּוּ דַּעְתָּם אֶת חֵפֶשׂ הָעֲלִילָה הַמְחֻפָּשׂ עַל יָדָם, **וְקֶרֶב** מַחְשְׁבוֹתָם עֹמֶק לִבָּם:
+**תַּמְנוּ.** בְּלִבָּם וְלֹא גִלּוּ דַּעְתָּם אֶת חֵפֶשׂ הָעֲלִילָה הַמְחֻפָּשׂ עַל יָדָם, **וְקֶרֶב** מַחְשְׁבוֹתָם עֹמֶק לִבָּם:
 
 
 **they hid** Heb. טמנו. They hid their thoughts in their heart and did not reveal the search for a pretext, which was searched out through them, and the midst of their thoughts and the depth of their heart.
@@ -15313,7 +15313,7 @@ Heb. חמודו means his flesh, which is his desire (חמדתו).
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/64:9:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/64:9:2)
 
 
-**יִתְנוֹדֲדוּ.** בְּרֹאשָׁם, לְהָנִיעַ רֹאשׁ וְלִשְׂחוֹק עֲלֵיהֶם **כָּל רֹאֵה בָם**:
+**יִתְנֹדְדוּ.** בְּרֹאשָׁם, לְהָנִיעַ רֹאשׁ וְלִשְׂחוֹק עֲלֵיהֶם **כָּל רֹאֵה בָם**:
 
 
 **will shake their heads** Heb. יתנודדו, will shake their head; all who see them should nod their head and laugh about them.
@@ -15380,7 +15380,7 @@ Heb. חמודו means his flesh, which is his desire (חמדתו).
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/65:4:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/65:4:1)
 
 
-**דִּבְרֵי עֲוֹנוֹת גָּבְרוּ מֶנִּי.** וְאֵין אָנוּ יְכוֹלִים לְהַסְפִּיק לְסַדֵּר כֻּלָּם לְפָנֶיךָ, לְפִי שֶׁהֵם רַב, אֶלָּא בִּכְלָל אֶחָד אָנוּ מִתְפַּלְּלִים לְפָנֶיךָ, שֶׁ**פְּשָׁעֵינוּ אַתָּה תְכַפְּרֵם**:
+**דִּבְרֵי עֲוֺנֹת גָּבְרוּ מֶנִּי.** וְאֵין אָנוּ יְכוֹלִים לְהַסְפִּיק לְסַדֵּר כֻּלָּם לְפָנֶיךָ, לְפִי שֶׁהֵם רַב, אֶלָּא בִּכְלָל אֶחָד אָנוּ מִתְפַּלְּלִים לְפָנֶיךָ, שֶׁ**פְּשָׁעֵינוּ אַתָּה תְכַפְּרֵם**:
 
 
 **Words of iniquities have overcome me** and we cannot manage to arrange them all before You because they are many. However, we offer a general prayer before You that You atone for our transgressions.
@@ -15466,7 +15466,7 @@ Heb. חמודו means his flesh, which is his desire (חמדתו).
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/65:7:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/65:7:2)
 
 
-**נֶאֱזָר בִּגְבוּרָה.** לְפִי שֶׁבָּא לְהַזְכִּיר גְּבוּרַת גְּשָׁמִים, אָמַר: נֶאֱזָר בִּגְבוּרָה:
+**נֶאְזָר בִּגְבוּרָה.** לְפִי שֶׁבָּא לְהַזְכִּיר גְּבוּרַת גְּשָׁמִים, אָמַר: נֶאֱזָר בִּגְבוּרָה:
 
 
 **Who is girded with might** Because he wishes to mention the mighty deeds of the rains, he says, “Who is girded with might.”
@@ -15830,7 +15830,7 @@ Heb. חמודו means his flesh, which is his desire (חמדתו).
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/66:12:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/66:12:1)
 
 
-**הִרְכַּבְתָּ אֱנוֹשׁ לְרֹאשֵׁינוּ.** מַלְכֵי כָּל אוּמָּה וְאוּמָּה (פסיקתא רבתי ה:ב):
+**הִרְכַּבְתָּ אֱנוֹשׁ לְרֹאשֵׁנוּ.** מַלְכֵי כָּל אוּמָּה וְאוּמָּה (פסיקתא רבתי ה:ב):
 
 
 **You caused man to ride at our head** The kings of all the heathen nations.
@@ -15897,7 +15897,7 @@ Heb. חמודו means his flesh, which is his desire (חמדתו).
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/66:17:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/66:17:2)
 
 
-**וְרוֹמָם.** כְּמוֹ וְנִתְרוֹמֵם. מָצָאתִי בְּפִי קָרָאתִי אֵלָיו **וְרוֹמַם** שֵׁם מִלָּה: רוֹמְמוּת שֶׁלּוֹ מוּכָן **תַּחַת לְשׁוֹנִי**, לְהוֹצִיאוֹ בַּפֶּה, כְּמוֹ ״יַכְחִידֶנָּה תַּחַת לְשׁוֹנוֹ״ (איוב כ:יב):
+**וְרוֹמַם.** כְּמוֹ וְנִתְרוֹמֵם. מָצָאתִי בְּפִי קָרָאתִי אֵלָיו **וְרוֹמַם** שֵׁם מִלָּה: רוֹמְמוּת שֶׁלּוֹ מוּכָן **תַּחַת לְשׁוֹנִי**, לְהוֹצִיאוֹ בַּפֶּה, כְּמוֹ ״יַכְחִידֶנָּה תַּחַת לְשׁוֹנוֹ״ (איוב כ:יב):
 
 
 **and He was exalted** Heb. ורומם, like ונתרומם, and He was exalted. I found: With my mouth, I called out to Him. ורומם is a noun. His exaltation is ready under my tongue to be let out of my mouth, as (Job 20:12): “though he hide it under his tongue.”
@@ -16290,7 +16290,7 @@ Heb. חמודו means his flesh, which is his desire (חמדתו).
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/68:12:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/68:12:1)
 
 
-**אֲדֹנָי יִתֵּן אֹמֶר הַמְבַשְּׂרוֹת וְגוֹ׳. אֹמֶר** מַאֲמָר; עוֹד הוּא יִשְׁאַג בְּקוֹל לְהַשְׁמִיעַ צִבְאוֹת הַגּוֹיִם הָרַבִּים, וּמַהוּ הָאֹמֶר?
+**אֲדֹנָי יִתֶּן אֹמֶר הַמְבַשְּׂרוֹת וְגוֹ׳. אֹמֶר** מַאֲמָר; עוֹד הוּא יִשְׁאַג בְּקוֹל לְהַשְׁמִיעַ צִבְאוֹת הַגּוֹיִם הָרַבִּים, וּמַהוּ הָאֹמֶר?
 
 
 **The Lord will give out a word; they will announce it to a great multitude** Heb. אמר, [like] מאמר, statement. He will yet roar with [His] voice to allow the hosts of the great nations to hear it. Now what is the word?
@@ -16401,7 +16401,7 @@ Heb. חמודו means his flesh, which is his desire (חמדתו).
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/68:16:3](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/68:16:3)
 
 
-**גִּבְנֻנִּים.** לְשׁוֹן הָרִים, עַל שֵׁם גָּבְהָם, כְּמוֹ ״וַתִּבְנִי לָךְ גָּב״ (יחזקאל טז:כד). כָּל דָּבָר גָּבוֹהַּ קָרוּי גַּב:
+**גַּבְנֻנִּים.** לְשׁוֹן הָרִים, עַל שֵׁם גָּבְהָם, כְּמוֹ ״וַתִּבְנִי לָךְ גָּב״ (יחזקאל טז:כד). כָּל דָּבָר גָּבוֹהַּ קָרוּי גַּב:
 
 
 **peaks** Heb. גבננים, an expression of mountains, because of their height, as (Ezek. 16:24): “and you built for yourself a platform (גב).” Any high thing is called גַב.
@@ -16836,7 +16836,7 @@ you, the leader of His people, Moses the son of Amram **ascended** on high and t
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/69:4:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/69:4:1)
 
 
-**נָחַר.** יָבֵשׁ, כְּמוֹ ״חָרָה מִנִּי חֹרֶב״ (איוב ל:ל):
+**נִחַר.** יָבֵשׁ, כְּמוֹ ״חָרָה מִנִּי חֹרֶב״ (איוב ל:ל):
 
 
 **has become parched** Heb. נחר, dry, as (Job 30:30): “are burned (חרה) with heat.”
@@ -16861,7 +16861,7 @@ you, the leader of His people, Moses the son of Amram **ascended** on high and t
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/69:5:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/69:5:1)
 
 
-**אוֹיְבֵי שֶׁקֶר.** שׂוֹנְאִים אוֹתִי עַל שֶׁקֶר, שֶׁאֵין אֲנִי רוֹדֵף אַחַר שֶׁקֶר שֶׁלָּהֶם לִתְפֹּשׂ טָעוּתָם:
+**אֹיְבַי שֶׁקֶר.** שׂוֹנְאִים אוֹתִי עַל שֶׁקֶר, שֶׁאֵין אֲנִי רוֹדֵף אַחַר שֶׁקֶר שֶׁלָּהֶם לִתְפֹּשׂ טָעוּתָם:
 
 
 **who are my enemies because of lies** They hate me because of a lie, because I do not pursue their lies to adopt their error.
@@ -16981,7 +16981,7 @@ you, the leader of His people, Moses the son of Amram **ascended** on high and t
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/69:16:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/69:16:1)
 
 
-**וְאַל תֶּאֱטַר.** וְאַל תִּסְגֹּר עָלַי:
+**וְאַל תֶּאְטַר.** וְאַל תִּסְגֹּר עָלַי:
 
 
 **and let not...close** And let it not close over me.
@@ -17003,7 +17003,7 @@ you, the leader of His people, Moses the son of Amram **ascended** on high and t
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/69:16:3](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/69:16:3)
 
 
-**תֵּאָטֵר.** כְּמוֹ ״אִטֵּר יַד יְמִינוֹ״ (שופטים ג:טו) – סָגוּר יַד יְמִינוֹ, שֶׁאֵינוֹ מִשְׁתַּמֵּשׁ בָּהּ:
+**תֶּאְטַר.** כְּמוֹ ״אִטֵּר יַד יְמִינוֹ״ (שופטים ג:טו) – סָגוּר יַד יְמִינוֹ, שֶׁאֵינוֹ מִשְׁתַּמֵּשׁ בָּהּ:
 
 
 **close** Heb. תאטר, as (Jud. 3:15): “with a shriveled (אטר) right hand” that he does not use it.
@@ -17028,7 +17028,7 @@ you, the leader of His people, Moses the son of Amram **ascended** on high and t
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/69:19:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/69:19:2)
 
 
-**גָּאֳלָהּ.** גְּאוֹל אוֹתָהּ:
+**גְאָלָהּ.** גְּאוֹל אוֹתָהּ:
 
 
 **redeem it** Heb. גאלה, [equivalent to] גְאוֹל אוֹתָה.
@@ -17067,7 +17067,7 @@ you, the leader of His people, Moses the son of Amram **ascended** on high and t
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/69:22:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/69:22:1)
 
 
-**בְּבָרוּתִי.** בִּסְעוּדָתִי, כְּמוֹ ״תָּבֹא נָא תָמָר אֲחוֹתִי... וְאֶבְרֶה מִיָּדָהּ״ (שמואל ב יג:ו):
+**בְּבָרוּתִי.** בִּסְעוּדָתִי, כְּמוֹ ״תָּבֹא נָא תָמָר אֲחוֹתִי… וְאֶבְרֶה מִיָּדָהּ״ (שמואל ב יג:ו):
 
 
 **into my food** Heb. בברותי, into my food, as (II Sam. 13:6): “Let my sister Tamar come now, etc., that I may eat (ואברה) from her hand.”
@@ -17932,7 +17932,7 @@ you, the leader of His people, Moses the son of Amram **ascended** on high and t
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/73:2:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/73:2:2)
 
 
-**כִּמְעַט נָטְיוּ רַגְלָי וְשֻׁפְּכוּ אֲשֻׁרַי.** לִנְטוֹת מֵאַחֲרֵי הַמָּקוֹם:
+**כִּמְעַט נָטָיוּ רַגְלָי** וְ**שֻׁפְּכוּ אֲשֻׁרַי.** לִנְטוֹת מֵאַחֲרֵי הַמָּקוֹם:
 
 
 **my feet had almost turned away** and my steps swept away to turn away from following the Omnipresent.
@@ -17996,7 +17996,7 @@ you, the leader of His people, Moses the son of Amram **ascended** on high and t
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/73:6:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/73:6:2)
 
 
-**יַעֲטֹף שִׁית חָמָס לָמוֹ.** הֶחָמָס שֶׁעוֹשִׂין, עוֹשֶׂה אוֹתָם שְׁמֵנִים וְעוֹטֵף אֶת שְׁתוֹתֵיהֶם וַעֲגָבוֹתֵיהֶם בְּעֹבִי שׁוּמָן וּבָשָׂר:
+**יַעֲטָף שִׁית חָמָס לָמוֹ.** הֶחָמָס שֶׁעוֹשִׂין, עוֹשֶׂה אוֹתָם שְׁמֵנִים וְעוֹטֵף אֶת שְׁתוֹתֵיהֶם וַעֲגָבוֹתֵיהֶם בְּעֹבִי שׁוּמָן וּבָשָׂר:
 
 
 **the robbery that they commit envelopes their hips** The robbery they commit makes them fat, enveloping their buttocks and hips with thickness of fat and flesh.
@@ -18221,7 +18221,7 @@ you, the leader of His people, Moses the son of Amram **ascended** on high and t
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/73:16:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/73:16:2)
 
 
-**לָדַעַת זֹאת.** מַה הִיא מִדָּתוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא. כֵּן **הוּא עָמָל בְּעֵינַי.** נִרְאֵית הָיְתָה מִדָּה זֹאת לִי עָמָל וְלֹא מִשְׁפָּט:
+**לָדַעַת זֹאת.** מַה הִיא מִדָּתוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא. כֵּן **הוּא עָמָל בְעֵינָי.** נִרְאֵית הָיְתָה מִדָּה זֹאת לִי עָמָל וְלֹא מִשְׁפָּט:
 
 
 **to know this** what the manner of the Holy One, blessed be He, is. **So it is iniquity in my eyes**. This manner appeared to me as iniquity and not justice.
@@ -18450,7 +18450,7 @@ you, the leader of His people, Moses the son of Amram **ascended** on high and t
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/74:1:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/74:1:1)
 
 
-**יֶעְשַׁן אַפֶּךָ.** כָּל הַכּוֹעֵס, נְחִירָיו מוֹצִיאִין עָשָׁן:
+**יֶעְשַׁן אַפְּךָ.** כָּל הַכּוֹעֵס, נְחִירָיו מוֹצִיאִין עָשָׁן:
 
 
 **is Your wrath kindled** lit. do Your nostrils smoke. Whenever one is angry, the nostrils emit smoke.
@@ -18539,7 +18539,7 @@ you, the leader of His people, Moses the son of Amram **ascended** on high and t
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/74:5:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/74:5:1)
 
 
-**יוֹדַע כְּמֵבִיא לְמַעְלָה בִּסְבָךְ עֵץ קַרְדֻּמּוֹת.** יִוָּדַע הָאוֹיֵב, כְּשֶׁהָיָה מַכֶּה בְּשַׁעֲרֵי פִּתְחֵי הַמִּקְדָּשׁ, שֶׁהוּא כְּמֵבִיא מַכּוֹתָיו לְמַעְלָה בָּרָקִיעַ. וּמִנַּיִן הָיָה יוֹדֵעַ? שֶׁהֲרֵי הָיָה רוֹאֶה שֶׁהָיָה הָעֵץ מְסַבֵּךְ וְאוֹחֵז אֶת הַקַּרְדֻּמּוֹת וּבוֹלְעָן, כְּמוֹ שֶׁאָמְרוּ רַבּוֹתֵינוּ (סנהדרין צו:): כּוּלְּהוּ בְּלַעְתִּינְהוּ חַד תַּרְעָא דִּירוּשָׁלַיִם:
+**יִוָּדַע כְּמֵבִיא לְמַעְלָה בִּסְבָךְ עֵץ קַרְדֻּמּוֹת.** יוֹדֵעַ הָאוֹיֵב, כְּשֶׁהָיָה מַכֶּה בְּשַׁעֲרֵי פִּתְחֵי הַמִּקְדָּשׁ, שֶׁהוּא כְּמֵבִיא מַכּוֹתָיו לְמַעְלָה בָּרָקִיעַ. וּמִנַּיִן הָיָה יוֹדֵעַ? שֶׁהֲרֵי הָיָה רוֹאֶה שֶׁהָיָה הָעֵץ מְסַבֵּךְ וְאוֹחֵז אֶת הַקַּרְדֻּמּוֹת וּבוֹלְעָן, כְּמוֹ שֶׁאָמְרוּ רַבּוֹתֵינוּ (סנהדרין צו:): כּוּלְּהוּ בְּלַעְתִּינְהוּ חַד תַּרְעָא דִּירוּשָׁלַיִם:
 
 
 **May he be known as though bringing on high; the hatchets were in the thicket of the trees** The enemy knows that when he strikes the gates of the entrances of the Sanctuary, it was as though he was bringing his blows on high, even into the sky. Now how did he know it? For he would see that the trees would entangle, grasp, and swallow up the hatchets, as our Rabbis said (Sanh. 96b): One gate of Jerusalem swallowed them all up.
@@ -18550,7 +18550,7 @@ you, the leader of His people, Moses the son of Amram **ascended** on high and t
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/74:5:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/74:5:2)
 
 
-**בְּסֹבֶךְ עֵץ קַרְדֻּמּוֹת.** לְשׁוֹן ״נֶאֱחַז בַּסְּבַךְ״ (בראשית כב:יג), הָעֵץ סוֹבֵךְ אוֹתָם וְהֵם נִסְבָּכִין בּוֹ:
+**בִּסְבׇךְ עֵץ קַרְדֻּמּוֹת.** לְשׁוֹן ״נֶאֱחַז בַּסְּבַךְ״ (בראשית כב:יג), הָעֵץ סוֹבֵךְ אוֹתָם וְהֵם נִסְבָּכִין בּוֹ:
 
 
 **the hatchets were in the thicket of the trees** Heb. בסבך-עץ, an expression of (Gen. 22:13): “caught in the thicket (בסבך).” The tree entangles them, and they become entangled in it.
@@ -18803,7 +18803,7 @@ you, the leader of His people, Moses the son of Amram **ascended** on high and t
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/74:18:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/74:18:1)
 
 
-**זְכֹר זֹאת אוֹיֵב וְגוֹ׳.** וְאַחֲרֵי שֶׁכָּל תְּשׁוּעָתֵנוּ בְּךָ, זְכֹר זֹאת, אֲשֶׁר הָאוֹיֵב חֵרֵף אוֹתְךָ בְּהַשְׁמִידוֹ אוֹתָנוּ:
+**זְכׇר זֹאת אוֹיֵב וְגוֹ׳.** וְאַחֲרֵי שֶׁכָּל תְּשׁוּעָתֵנוּ בְּךָ, זְכׇר זֹאת, אֲשֶׁר הָאוֹיֵב חֵרֵף אוֹתְךָ בְּהַשְׁמִידוֹ אוֹתָנוּ:
 
 
 **Remember how the enemy, etc.** And since all our salvation is through You, remember how the enemy reviled You by destroying us.
@@ -19254,7 +19254,7 @@ you, the leader of His people, Moses the son of Amram **ascended** on high and t
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/76:9:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/76:9:1)
 
 
-**מִשָּׁמַיִם הִשְׁמַעְתָּ דִּין.** כְּשֶׁנִּתְנַבֵּא יְשַׁעְיָה עַל פּוּרְעָנוּתוֹ שֶׁל סַנְחֵרִיב, וְנִתְקַיֵּם בּוֹ: אֶרֶץ יִשְׂרָאֵל, שֶׁיָּרְאָה מִמֶּנּוּ וּמֵאוּכְלוּסָיו, אָז **שָׁקְטָה**:
+**מִשָּׁמַיִם הִשְׁמַעְתָּ דִּין.** כְּשֶׁנִּתְנַבֵּא יְשַׁעְיָה עַל פּוּרְעָנוּתוֹ שֶׁל סַנְחֵרִיב, וְנִתְקַיֵּם בּוֹ: אֶרֶץ יִשְׂרָאֵל, שֶׁיָּרְאָה מִמֶּנּוּ וּמֵאוּכְלוּסָיו, אָז **שָׁקָטָה**:
 
 
 **From heaven, You let judgment be heard** When Isaiah prophesied concerning the retribution of Sennacherib and it was fulfilled in him, then Eretz Israel, which feared him and his hosts, became calm.
@@ -20492,7 +20492,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/80:3:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/80:3:1)
 
 
-**לִפְנֵי אֶפְרַיִם וּבִנְיָמִן וּמְנַשֶּׁה.** כְּשֶׁיִּהְיוּ צְרִיכִים לִתְשׁוּעָתְךָ, אַף עַל פִּי שֶׁהֵם רְשָׁעִים וְאֵינָם כְּדַי, **עוֹרְרָה גְבוּרָתְךָ** לָהֶם. וְלָמָּה? כִּי **לְכָה לִישׁוּעָתָה לָּנוּ**, לְךָ נָאֶה וְעָלֶיךָ לְהוֹשִׁיעַ, בֵּין חַיָּבִים וּבֵין זַכָּאִים. כְּמוֹ שֶׁנֶּאֱמַר לְמֹשֶׁה בְּמִצְרַיִם: (שמות ג:ז) ״רָאֹה רָאִיתִי אֶת עֳנִי עַמִּי״. שְׁתֵּי רְאִיּוֹת הַלָּלוּ לָמָּה? רוֹאֶה אֲנִי שֶׁהֵם עֲתִידִים לְהַכְעִיסֵנִי, וְאַף עַל פִּי כֵן רָאִיתִי אֶת עָנְיָם, מִפְּנֵי הַשְּׁבוּעָה שֶׁנִּשְׁבַּעְתִּי לְאַבְרָהָם (תנחומא, שמות כ):
+**לִפְנֵי אֶפְרַיִם וּבִנְיָמִן וּמְנַשֶּׁה.** כְּשֶׁיִּהְיוּ צְרִיכִים לִתְשׁוּעָתְךָ, אַף עַל פִּי שֶׁהֵם רְשָׁעִים וְאֵינָם כְּדַי, **עוֹרְרָה גְּבוּרָתֶךָ** לָהֶם. וְלָמָּה? כִּי **לְכָה לִישׁוּעָתָה לָּנוּ**, לְךָ נָאֶה וְעָלֶיךָ לְהוֹשִׁיעַ, בֵּין חַיָּבִים וּבֵין זַכָּאִים. כְּמוֹ שֶׁנֶּאֱמַר לְמֹשֶׁה בְּמִצְרַיִם: (שמות ג:ז) ״רָאֹה רָאִיתִי אֶת עֳנִי עַמִּי״. שְׁתֵּי רְאִיּוֹת הַלָּלוּ לָמָּה? רוֹאֶה אֲנִי שֶׁהֵם עֲתִידִים לְהַכְעִיסֵנִי, וְאַף עַל פִּי כֵן רָאִיתִי אֶת עָנְיָם, מִפְּנֵי הַשְּׁבוּעָה שֶׁנִּשְׁבַּעְתִּי לְאַבְרָהָם (תנחומא, שמות כ):
 
 
 **Before Ephraim, Benjamin, and Manasseh** when they need Your salvation. Although they are wicked and undeserving, arouse Your might for them. But why? Because it is for You to save us. It is fitting for You and it is incumbent upon You to save, whether guilty or innocent, as it was said to Moses in Egypt (Exod. 3:7): “I have seen the affliction of My people.” Why is the word for seeing repeated? I see that they are destined to provoke Me. Nevertheless, I have seen their affliction, because of the oath that I swore to Abraham, Isaac, and Jacob.
@@ -21296,7 +21296,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/82:7:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/82:7:2)
 
 
-**וּכְאַחַד הַשָּׂרִים.** הָרִאשׁוֹנִים שֶׁמֵּתוּ, כֵּן **תִּפֹּלוּ**. וּמִדְרַשׁ אַגָּדָה : כְּאַחַד הַשָּׂרִים שֶׁל מַעְלָה, שֶׁנֶּאֱמַר (ישעיהו כד:כא): ״יִפְקֹד ה׳ עַל צְבָא הַמָּרוֹם בַּמָּרוֹם״:
+**וּכְאַחַד הַשָּׂרִים.** הָרִאשׁוֹנִים שֶׁמֵּתוּ, כֵּן **תִּפֹּלוּ.** וּמִדְרַשׁ אַגָּדָה : כְּאַחַד הַשָּׂרִים שֶׁל מַעְלָה, שֶׁנֶּאֱמַר (ישעיהו כד:כא): ״יִפְקֹד ה׳ עַל צְבָא הַמָּרוֹם בַּמָּרוֹם״:
 
 
 **and as one of the princes** the first [princes], who died, so will you fall. The Midrash Aggadah (Mid. Ps. 82:3) [explains]: As one of the celestial princes, for it is said (Isa. 24:21): “the Lord will visit punishment upon the host of heaven on high.”
@@ -21416,7 +21416,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/83:11:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/83:11:1)
 
 
-**נִשְׁמְדוּ בְעֵין דֹּאַר.** אֵינִי יוֹדֵעַ אֵיזוֹ מִן הַמִּלְחָמוֹת הָיְתָה בְּעֵין דֹּאַר, שֶׁל גִּדְעוֹן (שופטים ז:א) אוֹ שֶׁל בָּרָק (שופטים ה:יט):
+**נִשְׁמְדוּ בְעֵין דֹּאר.** אֵינִי יוֹדֵעַ אֵיזוֹ מִן הַמִּלְחָמוֹת הָיְתָה בְּעֵין דֹּאר, שֶׁל גִּדְעוֹן (שופטים ז:א) אוֹ שֶׁל בָּרָק (שופטים ה:יט):
 
 
 **They were destroyed in En-Dor** I do not know which of the wars took place in En-Dor, that of Gideon or that of Barak.
@@ -21452,7 +21452,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/83:13:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/83:13:2)
 
 
-**נִירֲשָׁה לָּנוּ אֵת נְאוֹת אֱלֹהִים.** אֶת נְוֵה בֵּית אֱלֹהִים:
+**נִירְשָׁה לָּנוּ אֵת נְאוֹת אֱלֹהִים.** אֶת נְוֵה בֵּית אֱלֹהִים:
 
 
 **“Let us inherit for ourselves the dwellings of God”** The dwelling of the house of God.
@@ -21641,7 +21641,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/84:7:3](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/84:7:3)
 
 
-**גַּם בְּרָכוֹת יַעֲטֶה מוֹרֶה.** מְבָרְכִים וּמוֹדִים לִשְׁמוֹ, וְאוֹמְרִים: יָפֶה דָּן אוֹתָנוּ וֶאֱמֶת דִּינוֹ, וּבְרָכוֹת יַעֲטֶה לָנוּ הַמּוֹרִים אוֹתָנוּ לָלֶכֶת בְּדֶרֶךְ הַטּוֹב, וְלֹא שָׁמַעְנוּ לוֹ:
+**גַּם בְּרָכוֹת יַעְטֶה מוֹרֶה.** מְבָרְכִים וּמוֹדִים לִשְׁמוֹ, וְאוֹמְרִים: יָפֶה דָּן אוֹתָנוּ וֶאֱמֶת דִּינוֹ, וּבְרָכוֹת יַעֲטֶה לָנוּ הַמּוֹרִים אוֹתָנוּ לָלֶכֶת בְּדֶרֶךְ הַטּוֹב, וְלֹא שָׁמַעְנוּ לוֹ:
 
 
 **also with blessings they enwrap [their] Teacher** They bless and thank His name and say, “He judged us fairly, and His judgment is true.” (Another explanation: Shem Ephraim) And the one who taught us to follow the good way enwraps us with blessings, but we did not obey him.
@@ -21772,7 +21772,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/85:2:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/85:2:1)
 
 
-**רָצִיתָ ה׳ אַרְצְךָ וְגוֹ׳.** אִם שַׁבְתָּ שְׁבוּת יַעֲקֹב וְנָשָׂאתָ אֶת עֲוֹנָם וְכִסִּיתָ חַטָּאתָם, וְאָסַפְתָּ עֶבְרָתְךָ מֵהֶם וַהֲשִׁיבוֹתָ עַצְמְךָ מֵחֲרוֹן אַפֶּךָ, אָז **רָצִיתָ אַרְצֶךָ** וְעוֹלָמְךָ מִתְרַצֶּה. וְכָל זְמַן שֶׁלֹּא תַּעֲשֶׂה זֹאת, אֵין אַרְצְךָ וְעוֹלָמְךָ מִתְרַצֶּה:
+**רָצִיתָ ה׳ אַרְצֶךָ וְגוֹ׳.** אִם שַׁבְתָּ שְׁבוּת יַעֲקֹב וְנָשָׂאתָ אֶת עֲוֹנָם וְכִסִּיתָ חַטָּאתָם, וְאָסַפְתָּ עֶבְרָתְךָ מֵהֶם וַהֲשִׁיבוֹתָ עַצְמְךָ מֵחֲרוֹן אַפֶּךָ, אָז **רָצִיתָ אַרְצֶךָ** וְעוֹלָמְךָ מִתְרַצֶּה. וְכָל זְמַן שֶׁלֹּא תַּעֲשֶׂה זֹאת, אֵין אַרְצְךָ וְעוֹלָמְךָ מִתְרַצֶּה:
 
 
 **O Lord, You have appeased Your land, etc.** If You have returned the captivity of Jacob and forgiven their iniquity, and have concealed their sin and withdrawn Your wrath from them and retreated from Your fierce anger, then You have appeased Your land, and Your world will be appeased. But as long as You do not do this, Your land and Your world will not be appeased.
@@ -21965,7 +21965,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/86:10:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/86:10:1)
 
 
-**וְעֹשֶׂה נִפְלָאוֹת אַתָּה אֱלֹהִים לְבַדֶּךָ.** עַד שֶׁלֹּא נִבְרְאוּ הַמַּלְאָכִים נִבְרְאוּ הַשָּׁמַיִם וְהָאָרֶץ (שו״ט פו, ג). לְפִיכָךְ יְכַבְּדוּ כָל הַגּוֹיִם לִשְׁמֶךָ:
+**וְעֹשֵׂה נִפְלָאוֹת אַתָּה אֱלֹהִים לְבַדֶּךָ.** עַד שֶׁלֹּא נִבְרְאוּ הַמַּלְאָכִים נִבְרְאוּ הַשָּׁמַיִם וְהָאָרֶץ (שו״ט פו, ג). לְפִיכָךְ יְכַבְּדוּ כָל הַגּוֹיִם לִשְׁמֶךָ:
 
 
 **and perform wonders, You, O God, alone** Before the angels were created, heaven and earth were created. Therefore, all the nations will glorify Your name.
@@ -22288,7 +22288,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/88:5:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/88:5:1)
 
 
-**אֵין אַיִל.** אֵין כֹּחַ, כְּמוֹ ״אֱיָלוּתִי לְעֶזְרָתִי חוּשָׁה״ (תהלים כב:כ):
+**אֵין אֱיָל.** אֵין כֹּחַ, כְּמוֹ ״אֱיָלוּתִי לְעֶזְרָתִי חוּשָׁה״ (תהלים כב:כ):
 
 
 **without strength** Heb. איל, as (above 22:20): “My strength (אילותי), hasten to my assistance.”
@@ -22430,7 +22430,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/88:16:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/88:16:1)
 
 
-**וְגוֹעֵעַ מִנֹּעַר.** מֵת מִתּוֹךְ תִּשְׁנוֹק מִיתָה חֲטוּפָה, כְּמוֹ (שמות יד:כז) ״וַיְנַעֵר ה׳״. וַיְנַעֵר פֵּרֵשׁ מְנַחֵם לְשׁוֹן חֲבִיטָה, כְּמוֹ ״נוֹעֵר כַּפָּיו מִתְּמֹךְ בַּשֹּׁחַד״ (ישעיהו לג:טו), ״הִתְנַעֲרִי מֵעָפָר קוּמִי שְׁבִי״ (ישעיהו נב:ב), ״וְהָיָה הֶחָסֹן לִנְעֹרֶת״ (ישעיהו א:לא), ״וְיִנָּעֲרוּ רְשָׁעִים מִמֶּנָּה״ (איוב לח:יג), ״כָּכָה יְהֵא נָעוּר וָרִיק״ (נחמיה ה:יג):
+**וְגֹוֵעַ מִנֹּעַר.** מֵת מִתּוֹךְ תִּשְׁנוֹק מִיתָה חֲטוּפָה, כְּמוֹ (שמות יד:כז) ״וַיְנַעֵר ה׳״. וַיְנַעֵר פֵּרֵשׁ מְנַחֵם לְשׁוֹן חֲבִיטָה, כְּמוֹ ״נוֹעֵר כַּפָּיו מִתְּמֹךְ בַּשֹּׁחַד״ (ישעיהו לג:טו), ״הִתְנַעֲרִי מֵעָפָר קוּמִי שְׁבִי״ (ישעיהו נב:ב), ״וְהָיָה הֶחָסֹן לִנְעֹרֶת״ (ישעיהו א:לא), ״וְיִנָּעֲרוּ רְשָׁעִים מִמֶּנָּה״ (איוב לח:יג), ״כָּכָה יְהֵא נָעוּר וָרִיק״ (נחמיה ה:יג):
 
 
 **and close to sudden death** Heb. וגוע מנער, dying from the strangulation of sudden death, as (Exod. 14:27): “and the Lord strangled (וינער).” Menachem (p. 123) defines וינער as an expression of beating, as (Isa. 33:15): “who shakes (נוער) his hands from taking hold of bribe”; (Isa. 52:2), “Shake yourself (התנערי) from the dust, arise”; (Isa. 1:31), “And the[ir] strength will become as tow (לנערת)”; (Job 38: 13), “so that the wicked will be shaken (וינערו) from it”; (Neh. 5:13), “even thus may he be shaken out (נעור) and emptied.”
@@ -22645,7 +22645,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/89:20:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/89:20:2)
 
 
-**שִׁוִּיתִי עֵזֶר.** עַל דָּוִד, לַעֲזוֹר לוֹ **תָּמִיד**:
+**שִׁוִּיתִי עֵזֶר.** עַל דָּוִד, לַעֲזוֹר לוֹ תָּמִיד:
 
 
 **“I placed help”** on David, to help him constantly.
@@ -22832,7 +22832,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/89:48:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/89:48:1)
 
 
-**זְכֹר אֲנִי מֶה חָלֶד.** מַה זִּקְנָה יֵשׁ לִי? הֲלֹא מְעַט יָמַי, וְדַי לְךָ שֶׁאַתָּה נִפְרָע מִמֶּנִּי בְּמוֹתִי קְצַר יָמִים:
+**זְכׇר אֲנִי מֶה חָלֶד.** מַה זִּקְנָה יֵשׁ לִי? הֲלֹא מְעַט יָמַי, וְדַי לְךָ שֶׁאַתָּה נִפְרָע מִמֶּנִּי בְּמוֹתִי קְצַר יָמִים:
 
 
 **I am mindful what my old age is** Heb. חלד. What old age do I have? Are not my days few? It should suffice You to punish me with my premature death.
@@ -23055,7 +23055,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/90:8:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/90:8:1)
 
 
-**שַׁתָּה עֲוֹנוֹתֵינוּ לְנֶגְדֶּךָ,** וְאֶת **עֲלֻמֵנוּ** – אֶת חַטֹּאת נְעוּרֵינוּ, שַׂמְתָּ **לִמְאוֹר פָּנֶיךָ**:
+**שַׁתָּה עֲוֺנֹתֵינוּ לְנֶגְדֶּךָ,** וְאֶת **עֲלֻמֵנוּ** – אֶת חַטֹּאת נְעוּרֵינוּ, שַׂמְתָּ **לִמְאוֹר פָּנֶיךָ**:
 
 
 **You have placed our iniquities before You** and our youth, the sins of our youth, You have placed before the light of Your countenance.
@@ -23294,7 +23294,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/91:1:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/91:1:1)
 
 
-**יוֹשֵׁב בְּסֵתֶר עֶלְיוֹן.** מִי שֶׁהוּא חוֹסֶה בְּסֵתֶר כַּנְפֵי הַשְּׁכִינָה, הוּא <b>יִתְלוֹנָן בְּצִלּוֹ, שֶׁהַקָּדוֹשׁ בָּרוּךְ הוּא מֵגִין עָלָיו. הֲרֵי מֹשֶׁה רַבֵּינוּ זֶה מַשִּׂיא אֶת בְּנֵי הָאָדָם לַחֲסוֹת בְּכַנְפֵי הַשְּׁכִינָה:
+**יוֹשֵׁב בְּסֵתֶר עֶלְיוֹן.** מִי שֶׁהוּא חוֹסֶה בְּסֵתֶר כַּנְפֵי הַשְּׁכִינָה, הוּא **יִתְלוֹנָן** בְּצִלּוֹ, שֶׁהַקָּדוֹשׁ בָּרוּךְ הוּא מֵגִין עָלָיו. הֲרֵי מֹשֶׁה רַבֵּינוּ זֶה מַשִּׂיא אֶת בְּנֵי הָאָדָם לַחֲסוֹת בְּכַנְפֵי הַשְּׁכִינָה:
 
 
 **He who dwells in the covert of the Most High** He who takes shelter in the covert of the wings of the Shechinah.
@@ -23424,7 +23424,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/91:6:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/91:6:1)
 
 
-**מִדֶּבֶר, וּמִקֶּטֶב.** שֵׁמוֹת שֵׁדִים הֵם, זֶה מַזִּיק בַּלַּיְלָה וְזֶה מַזִּיק בַּצָּהֳרַיִם (פסחים קיא:):
+**מִדֶּבֶר** וּ**מִקֶּטֶב.** שֵׁמוֹת שֵׁדִים הֵם, זֶה מַזִּיק בַּלַּיְלָה וְזֶה מַזִּיק בַּצָּהֳרַיִם (פסחים קיא:):
 
 
 **Pestilence, etc., destruction** These are names of demons; one destroys at night, and one destroys at noon.
@@ -23460,7 +23460,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/91:7:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/91:7:2)
 
 
-**מִצִּדְּךָ.** מִשְּׂמֹאלְךָ יַחֲנוּ **אֶלֶף** שֵׁדִים, **וְאֵלֶיךָ לֹא יִגַּשׁ** לְהַזִּיק:
+**מִצִּדְּךָ.** מִשְּׂמֹאלְךָ יַחֲנוּ **אֶלֶף** שֵׁדִים, **וְאֵלֶיךָ לֹא יִגָּשׁ** לְהַזִּיק:
 
 
 **at your side** At your left a thousand demons will be stationed, and they will not approach you to harm [you].
@@ -23689,7 +23689,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/92:13:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/92:13:1)
 
 
-**צַדִּיק כַּתָּמָר יִפְרָח וְגוֹ׳.** כַּתָּמָר – לַעֲשׂוֹת פֵּרוֹת, וּ<b>כְאֶרֶז בַּלְּבָנוֹן<b> – לְהַחֲלִיף גִּזְעוֹ:
+**צַדִּיק כַּתָּמָר יִפְרָח וְגוֹ׳.** כַּתָּמָר – לַעֲשׂוֹת פֵּרוֹת, וּ**כְאֶרֶז בַּלְּבָנוֹן** – לְהַחֲלִיף גִּזְעוֹ:
 
 
 **The righteous one flourishes like the palm, etc.** Like the palm that produces fruit, and like the cedar insofar as its trunk renews itself.
@@ -23784,7 +23784,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/93:4:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/93:4:1)
 
 
-**מִקֹּלוֹת מַיִם רַבִּים וְגוֹ׳.** יָדַעְתִּי אֲנִי, כִּי יוֹתֵר מִקּוֹלוֹת הַמַּיִם הָרַבִּים אֲשֶׁר יֶהֱמָיוּן עָלֵינוּ (ישעיה יז:יב), וּמֵאַדִּירֵי **מִשְׁבְּרֵי הַיָּם** הַזֶּה, **אַתָּה אַדִּיר בַּמָּרוֹם ה׳**, וְיָדְךָ תַּקִּיפָה עֲלֵיהֶם:
+**מִקֹּלוֹת מַיִם רַבִּים וְגוֹ׳.** יָדַעְתִּי אֲנִי, כִּי יוֹתֵר מִקּוֹלוֹת הַמַּיִם הָרַבִּים אֲשֶׁר יֶהֱמָיוּן עָלֵינוּ (ישעיה יז:יב), וּמֵאַדִּירֵי **מִשְׁבְּרֵי הַיָּם** הַזֶּה, אַתָּה **אַדִּיר בַּמָּרוֹם ה׳**, וְיָדְךָ תַּקִּיפָה עֲלֵיהֶם:
 
 
 **More than the voices of great waters, etc.** I know that more than the voices of great waters, which roar over us, and more than the mightiest breakers of this sea, You are mighty, O Lord, and Your hand is powerful over them.
@@ -23798,7 +23798,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/93:5:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/93:5:1)
 
 
-**עֵדֹתֶיךָ.** שֶׁהֵעִידוּ וְהִבְטִיחוּ נְבִיאֶיךָ **לְבֵיתְךָ**, שֶׁהוּא **נָאוָה קֹדֶשׁ**:
+**עֵדֹתֶיךָ.** שֶׁהֵעִידוּ וְהִבְטִיחוּ נְבִיאֶיךָ **לְבֵיתְךָ**, שֶׁהוּא **נַאֲוָה קֹדֶשׁ**:
 
 
 **Your testimonies** which Your prophets prophesied and promised concerning Your house, which is the dwelling of holiness.
@@ -23820,7 +23820,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/93:5:3](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/93:5:3)
 
 
-**נָאֲוָה.** כְּמוֹ ״נְאוֹת אֱלֹהִים״ (תהלים פג:יג), לְשׁוֹן נָוֶה. וְתֵדַע שֶׁכָּל נָאוֶה שֶׁבַּמִּקְרָא אֵינָן מְפִיקִין אָלֶ״ף, לְפִי שֶׁהֵם לְשׁוֹן נוֹי, וְזֶה מֵפִיק אָלֶ״ף:
+**נַאֲוָה.** כְּמוֹ ״נְאוֹת אֱלֹהִים״ (תהלים פג:יג), לְשׁוֹן נָוֶה. וְתֵדַע שֶׁכָּל נָאוֶה שֶׁבַּמִּקְרָא אֵינָן מְפִיקִין אָלֶ״ף, לְפִי שֶׁהֵם לְשׁוֹן נוֹי, וְזֶה מֵפִיק אָלֶ״ף:
 
 
 **dwelling** Heb. נאוה, like (83:13): “the dwellings נְאוֹת of God,” an expression of נָוֶה. You should know [that this is so] because no instance of נָאוָה has a pronounced “aleph,” for they are an expression of נוֹי beauty, but this one has an “aleph” which is pronounced.
@@ -23879,7 +23879,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/94:9:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/94:9:1)
 
 
-**הֲנוֹטֵעַ אֹזֶן.** שֶׁמָּא הַקָּדוֹשׁ בָּרוּךְ הוּא, שֶׁנָּטַע אֹזֶן, **לֹא יִשְׁמַע** צַעֲקַת עַמּוֹ וְעָנְיוֹ?
+**הֲנֹטַע אֹזֶן.** שֶׁמָּא הַקָּדוֹשׁ בָּרוּךְ הוּא, שֶׁנָּטַע אֹזֶן, **לֹא יִשְׁמָע** צַעֲקַת עַמּוֹ וְעָנְיוֹ?
 
 
 **Will He Who implants the ear** Is it possible that the Holy One, blessed be He, Who implanted the ear, should not hear the cry of His people and their affliction?
@@ -23907,7 +23907,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/94:11:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/94:11:1)
 
 
-**ה׳ יוֹדֵעַ.** מַחְשְׁבוֹתֵיכֶם שֶׁאַתֶּם סְבוּרִין לְהִתְגָּאוֹת בְּנֵזֶר הַמְּלוּכָה, וְתֵדְעוּ **כִּי הֶבֶל הֵם**:
+**ה׳ יוֹדֵעַ.** מַחְשְׁבוֹתֵיכֶם שֶׁאַתֶּם סְבוּרִין לְהִתְגָּאוֹת בְּנֵזֶר הַמְּלוּכָה, וְתֵדְעוּ כִּי הֶבֶל הֵם:
 
 
 **The Lord knows** your thoughts, that you are thinking to be haughty with the crown of the kingdom, and you should know that they [your thoughts] are vanity.
@@ -24153,7 +24153,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/96:1:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/96:1:1)
 
 
-**שִׁיר חָדָשׁ.** מִזְמוֹר זֶה עַל הֶעָתִיד, וְסוֹפוֹ מוֹכִיחַ **כִּי בָא לִשְׁפֹּט אֶת הָאָרֶץ**. בְּכָל מָקוֹם **שִׁיר חָדָשׁ** עַל הֶעָתִיד:
+**שִׁיר חָדָשׁ.** מִזְמוֹר זֶה עַל הֶעָתִיד, וְסוֹפוֹ מוֹכִיחַ **כִּי בָא לִשְׁפֹּט אֶת הָאָרֶץ.** בְּכָל מָקוֹם **שִׁיר חָדָשׁ** עַל הֶעָתִיד:
 
 
 **a new song** This song deals with the future, as is proven by the final verse, “for He has come to judge the earth.” Any reference to a “new song” deals with the future.
@@ -24627,7 +24627,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/100:5:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/100:5:1)
 
 
-**וְעַד דֹּר וָדֹר.** קַיֶּמֶת **אֱמוּנָתוֹ**. כָּל לְשׁוֹן אֱמֶת וֶאֱמוּנָה, אֲמָנַת הַבְטָחָה, שֶׁמַּאֲמִין וּמַבְטִיחַ הַבְטָחָתוֹ:
+**וְעַד דֹּר וָדֹר.** קַיֶּמֶת **אֱמוּנָתוֹ.** כָּל לְשׁוֹן אֱמֶת וֶאֱמוּנָה, אֲמָנַת הַבְטָחָה, שֶׁמַּאֲמִין וּמַבְטִיחַ הַבְטָחָתוֹ:
 
 
 **and until generation after generation** His faith will endure. Every expression of truth (אמת) and faith (אמונה) means the realization of a promise, that He makes true and assures His promise.
@@ -24669,7 +24669,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/101:2:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/101:2:2)
 
 
-**מָתַי תָּבוֹא אֵלַי.** הַדֶּרֶךְ הַיְשָׁרָה לְהִתְהַלֵּךְ בָּהּ, **וְאֶתְהַלֵּךְ בְּתָם לְבָבִי אַף בְּקֶרֶב בֵּיתִי.** בְּהַצְנֵעַ כְּמוֹ בְּפַרְהֶסְיָא:
+**מָתַי תָּבוֹא אֵלָי.** הַדֶּרֶךְ הַיְשָׁרָה לְהִתְהַלֵּךְ בָּהּ, **וְאֶתְהַלֵּךְ בְּתָם לְבָבִי אַף בְּקֶרֶב בֵּיתִי.** בְּהַצְנֵעַ כְּמוֹ בְּפַרְהֶסְיָא:
 
 
 **When will it come to me** The straight path, to walk upon it, and I shall walk with the integrity of my heart even within my house, in private as well as in public.
@@ -24697,7 +24697,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/101:4:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/101:4:1)
 
 
-**רַע לֹא אֵדָע.** לֹא אֹהַב, לֹא אַכִּיר בְּדָבָר רָע:
+**רָע לֹא אֵדָע.** לֹא אֹהַב, לֹא אַכִּיר בְּדָבָר רָע:
 
 
 **I know no evil** I love no [evil] (Another explanation: [Shem Ephraim]) I recognize no evil thing.
@@ -24937,7 +24937,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/102:15:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/102:15:1)
 
 
-**כִּי רָצוּ.** אָהֲבוּ אַף **אֶת אֲבָנֶיהָ וְאֶת עֲפָרָהּ**. וּמִדְרַשׁ אַגָּדָה: כְּשֶׁיָּצָא יְכָנְיָה וְגָלוּתוֹ, נָשְׂאוּ עִמָּהֶם מֵאַבְנֵי יְרוּשָׁלַיִם וַעֲפָרָהּ לִבְנוֹת לָהֶם בְּבָבֶל בֵּית הַכְּנֶסֶת:
+**כִּי רָצוּ.** אָהֲבוּ אַף **אֶת אֲבָנֶיהָ וְאֶת עֲפָרָהּ.** וּמִדְרַשׁ אַגָּדָה: כְּשֶׁיָּצָא יְכָנְיָה וְגָלוּתוֹ, נָשְׂאוּ עִמָּהֶם מֵאַבְנֵי יְרוּשָׁלַיִם וַעֲפָרָהּ לִבְנוֹת לָהֶם בְּבָבֶל בֵּית הַכְּנֶסֶת:
 
 
 **For Your servants desired** They loved even its stones and its earth. [According to] Midrash Aggadah, when Jeconiah and his exile left, they carried with them some of the stones and the earth of Jerusalem to build a synagogue for themselves there in Babylon.
@@ -24965,7 +24965,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/102:18:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/102:18:1)
 
 
-**הֶעָרְעָר.** הַצּוֹעֵק, כְּמוֹ (ישעיהו טו:ה) ״זַעֲקַת שֶׁבֶר יְעֹעֵרוּ״. דָּבָר אַחֵר: עַרְעָר, הָרוּס וְנִשְׁחָת, כְּמוֹ (תהלים קלז:ז) ״עָרוּ עָרוּ״:
+**הָעַרְעָר.** הַצּוֹעֵק, כְּמוֹ (ישעיהו טו:ה) ״זַעֲקַת שֶׁבֶר יְעֹעֵרוּ״. דָּבָר אַחֵר: עַרְעָר, הָרוּס וְנִשְׁחָת, כְּמוֹ (תהלים קלז:ז) ״עָרוּ עָרוּ״:
 
 
 **He has turned to the prayer of those who cried out** Heb. הערער, who cries out, as (Isa. 15:5): “a cry of destruction they will raise (יעוערו).” Another explanation: ערער means devastated and destroyed, as (below 137:7) “who say, ‘Raze it, raze it.’ “
@@ -24979,7 +24979,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/102:19:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/102:19:1)
 
 
-**תִּכָּתֵב זֹאת.** כָּךְ יֹאמְרוּ רוֹאֵי הַיְשׁוּעָה: תִּכָּתֵב הַיְשׁוּעָה הַזֹּאת לְסַפֵּר אוֹתָהּ **לְדוֹר אַחֲרוֹן**:
+**תִּכָּתֶב זֹאת.** כָּךְ יֹאמְרוּ רוֹאֵי הַיְשׁוּעָה: תִּכָּתֵב הַיְשׁוּעָה הַזֹּאת לְסַפֵּר אוֹתָהּ **לְדוֹר אַחֲרוֹן**:
 
 
 **Let this be inscribed** So will those who see the salvation say, “let this salvation be inscribed for the latest generation.”
@@ -25057,7 +25057,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/102:25:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/102:25:2)
 
 
-**אַל תַּעֲלֵנִי בַּחֲצִי יָמַי.** אַל תְּסַלֵּק אוֹתָנוּ לְהַשְׁמִידֵנוּ מִן הָאֲדָמָה בְּיַד אוֹיְבֵינוּ בַּחֲצִי יָמֵינוּ. וּמַה הֵם יָמֵינוּ? כָּל יְמוֹת **דוֹר דּוֹרִים שְׁנוֹתֶיךָ**, הִבְטַחְתָּ לְקַיְּמֵנוּ לְפָנֶיךָ, כְּמוֹ שֶׁאָמַר בְּסוֹף הַמִּזְמוֹר **וּשְׁנוֹתֶיךָ לֹא יִתָּמּוּ**, וְזֶרַע עֲבָדֶיךָ **לְפָנֶיךָ יִכּוֹן**:
+**אַל תַּעֲלֵנִי בַּחֲצִי יָמָי.** אַל תְּסַלֵּק אוֹתָנוּ לְהַשְׁמִידֵנוּ מִן הָאֲדָמָה בְּיַד אוֹיְבֵינוּ בַּחֲצִי יָמֵינוּ. וּמַה הֵם יָמֵינוּ? כָּל יְמוֹת **דוֹר דּוֹרִים שְׁנוֹתֶיךָ**, הִבְטַחְתָּ לְקַיְּמֵנוּ לְפָנֶיךָ, כְּמוֹ שֶׁאָמַר בְּסוֹף הַמִּזְמוֹר **וּשְׁנוֹתֶיךָ לֹא יִתָּמּוּ**, וְזֶרַע עֲבָדֶיךָ **לְפָנֶיךָ יִכּוֹן**:
 
 
 **do not take me away in the middle of my days** Do not take us away to destroy us from the earth in the hands of our enemies in the middle of our days. And what are our days? All the days of all generations, of Your years, You promised to keep us alive before You, as he says at the end of the psalm, “and Your years do not end...and their seed will be established before You.”
@@ -25116,7 +25116,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/103:1:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/103:1:1)
 
 
-**בָּרֲכִי נַפְשִׁי.** חֲמִשָּׁה בָּרֲכִי נַפְשִׁי יֵשׁ כָּאן, כְּנֶגֶד חֲמִשָּׁה עוֹלָמוֹת שֶׁאָדָם דָּר בָּהֶם, כְּמוֹ שֶׁאָמְרוּ רַבּוֹתֵינוּ בְּמַסֶּכֶת בְּרָכוֹת (ברכות י.): דָּר בִּמְעֵי אִמּוֹ, יָנַק מִשְּׁדֵי אִמּוֹ, וְכֵן כֻּלָּם:
+**בָּרְכִי נַפְשִׁי.** חֲמִשָּׁה בָּרֲכִי נַפְשִׁי יֵשׁ כָּאן, כְּנֶגֶד חֲמִשָּׁה עוֹלָמוֹת שֶׁאָדָם דָּר בָּהֶם, כְּמוֹ שֶׁאָמְרוּ רַבּוֹתֵינוּ בְּמַסֶּכֶת בְּרָכוֹת (ברכות י.): דָּר בִּמְעֵי אִמּוֹ, יָנַק מִשְּׁדֵי אִמּוֹ, וְכֵן כֻּלָּם:
 
 
 **My soul, bless** There are five mentions of “My soul, bless” here, corresponding to the five worlds in which man lives, as our Sages said in Tractate Berachoth (10a): “He lived in his mother’s womb, he sucked his mother’s breasts, and so all of them.”
@@ -25158,7 +25158,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/103:14:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/103:14:1)
 
 
-**זָכוּר כִּי עָפָר אֲנַחְנוּ.** זָכוּר הוּא וְלֹא שָׁכַח שֶׁאֲנַחְנוּ עָפָר, וְיוֹדֵעַ שֶׁ**אֱנוֹשׁ כֶּחָצִיר יָמָיו וְגוֹ׳**:
+**זָכוּר כִּי עָפָר אֲנָחְנוּ.** זָכוּר הוּא וְלֹא שָׁכַח שֶׁאֲנַחְנוּ עָפָר, וְיוֹדֵעַ שֶׁ**אֱנוֹשׁ כֶּחָצִיר יָמָיו וְגוֹ׳**:
 
 
 **He remembers that we are dust** He remembers and has not forgotten that we are dust and He knows that: “As for manhis days, etc.”
@@ -25197,7 +25197,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/103:22:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/103:22:1)
 
 
-**בָּרֲכוּ ה׳ כָּל מַעֲשָׂיו.** אֲשֶׁר הֵם בְּכָל מְקוֹמוֹת שֶׁמֶּמְשַׁלְתּוֹ שָׁם:
+**בָּרְכוּ ה׳ כָּל מַעֲשָׂיו.** אֲשֶׁר הֵם בְּכָל מְקוֹמוֹת שֶׁמֶּמְשַׁלְתּוֹ שָׁם:
 
 
 **Bless the Lord, all His works** who are in all the places of His dominion.
@@ -25767,7 +25767,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/105:22:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/105:22:1)
 
 
-**לֶאֱסֹר שָׂרָיו בְּנַפְשׁוֹ.** לְשׁוֹן חִבָּה הוּא זֶה, כְּמוֹ ״וְנֶפֶשׁ יְהוֹנָתָן נִקְשְׁרָה בְּנֶפֶשׁ דָּוִד״ (שמואל א יח:א). כְּשֶׁפָּתַר הַחֲלוֹם חִבְּבוּהוּ כֻּלָּם. אָמַר רַבִּי אִידִי: שָׂרוֹ כְּתִיב, זֶה הָיָה פּוֹטִיפַר:
+**לֶאְסֹר שָׂרָיו בְּנַפְשׁוֹ.** לְשׁוֹן חִבָּה הוּא זֶה, כְּמוֹ ״וְנֶפֶשׁ יְהוֹנָתָן נִקְשְׁרָה בְּנֶפֶשׁ דָּוִד״ (שמואל א יח:א). כְּשֶׁפָּתַר הַחֲלוֹם חִבְּבוּהוּ כֻּלָּם. אָמַר רַבִּי אִידִי: שָׂרוֹ כְּתִיב, זֶה הָיָה פּוֹטִיפַר:
 
 
 **To bind up his princes with his soul** This is an expression of endearment, as (I Sam. 18:1): “that Jonathan’s soul had become attached to David’s soul.” When he interpreted the dream, they all loved him. Said Rabbi Idi: It is written שָׂרוֹ, his prince. This was Potiphar.
@@ -25823,7 +25823,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/105:40:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/105:40:1)
 
 
-**שָׁאַל וַיָּבֵא שְׂלָיו.** שָׁאַל יִשְׂרָאֵל בָּשָׂר, וַיָּבֵא לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא שְׂלָוִים:
+**שָׁאַל וַיָּבֵא שְׂלָו.** שָׁאַל יִשְׂרָאֵל בָּשָׂר, וַיָּבֵא לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא שְׂלָוִים:
 
 
 **They asked, and He brought quails** Israel asked for meat, and the Holy One, blessed be He, brought them quails.
@@ -26186,7 +26186,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/106:45:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/106:45:2)
 
 
-**וַיִּנָּחֵם כְּרֹב חֲסָדָיו.** מִתּוֹךְ הַקֵּץ בְּשָׁמְעוֹ **הוֹשִׁיעֵנוּ וְגוֹ׳**. אַף מֹשֶׁה כְּלָלָם בְּפָסוּק אֶחָד ״בַּצַּר לְךָ וּמְצָאוּךָ וְגוֹ׳״ (דברים ד:ל):
+**וַיִּנָּחֵם כְּרֹב חֲסָדָו.** מִתּוֹךְ הַקֵּץ בְּשָׁמְעוֹ **הוֹשִׁיעֵנוּ וְגוֹ׳.** אַף מֹשֶׁה כְּלָלָם בְּפָסוּק אֶחָד ״בַּצַּר לְךָ וּמְצָאוּךָ וְגוֹ׳״ (דברים ד:ל):
 
 
 **and He relented in accordance with His abundant kindness** On account of the end, when He heard, “Save us, etc.” Moses, too, included them in one verse (Deut. 4:30): “In this distress that will befall you etc.”
@@ -26368,7 +26368,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/107:30:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/107:30:2)
 
 
-**וַיְנַחֵם.** וַיְנַהֲגֵם:
+**וַיַּנְחֵם.** וַיְנַהֲגֵם:
 
 
 ###### Rashi on Psalms 107:30:3
@@ -26742,7 +26742,7 @@ Another explanation: לא זרוּ מתאותם They were not distanced from the
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/109:10:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/109:10:1)
 
 
-**וְשָׁאֲלוּ וְדָרְשׁוּ מֵחָרְבוֹתֵיהֶם.** הַכֹּל יִשְׁאֲלוּ עֲלֵיהֶם: מַה נִּהְיְתָה בִּפְלוֹנִי וּפְלוֹנִי? מִתּוֹךְ קוֹל חוּרְבָּה שֶׁיָּצָא עֲלֵיהֶם:
+**וְשִׁאֵלוּ וְדָרְשׁוּ מֵחָרְבוֹתֵיהֶם.** הַכֹּל יִשְׁאֲלוּ עֲלֵיהֶם: מַה נִּהְיְתָה בִּפְלוֹנִי וּפְלוֹנִי? מִתּוֹךְ קוֹל חוּרְבָּה שֶׁיָּצָא עֲלֵיהֶם:
 
 
 **and [people] should ask and search from their ruins** Everyone will ask about them, what happened to So-and-so and So-and-so, because of the rumor of ruin that emerged about them.
@@ -26795,7 +26795,7 @@ And “search” (וְדָרְשוּ) means from others, because it is vowelized
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/109:14:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/109:14:1)
 
 
-**עֲוֹן אֲבוֹתָיו.** עָוֹן שֶׁהֶעֱוָה עַל אֲבוֹתָיו, לְאַבְרָהָם שֶׁגָּרַע חָמֵשׁ שָׁנִים מֵחַיָּיו (בראשית רבה סג,יב), וּלְאָבִיו גָּרַם כִּהְיוֹן עֵינַיִם (בראשית רבה סה,ד-ה):
+**עֲוֺן אֲבוֹתָיו.** עָוֹן שֶׁהֶעֱוָה עַל אֲבוֹתָיו, לְאַבְרָהָם שֶׁגָּרַע חָמֵשׁ שָׁנִים מֵחַיָּיו (בראשית רבה סג,יב), וּלְאָבִיו גָּרַם כִּהְיוֹן עֵינַיִם (בראשית רבה סה,ד-ה):
 
 
 **the iniquity against his forefathers** The iniquity that he sinned against his forebears, to Abraham, whose life he shortened by five years, and to his father he caused blindness.
@@ -28020,7 +28020,7 @@ And “search” (וְדָרְשוּ) means from others, because it is vowelized
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/118:8:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/118:8:2)
 
 
-**מִבְטָח.** דָּבָר בָּרִיא וְסֶמֶךְ חָזָק, וְאַף עַל פִּי כֵן **לַחֲסוֹת בַּה׳ טוֹב** מֵהַבְטָחַת בְּנֵי אָדָם:
+**מִבְּטֹחַ.** דָּבָר בָּרִיא וְסֶמֶךְ חָזָק, וְאַף עַל פִּי כֵן **לַחֲסוֹת בַּה׳ טוֹב** מֵהַבְטָחַת בְּנֵי אָדָם:
 
 
 Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in the Lord is better than the promises of human beings.
@@ -28059,7 +28059,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/118:12:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/118:12:1)
 
 
-**דָּעֲכוּ כְּאֵשׁ קוֹצִים.** כָּל לְשׁוֹן דְּעִיכָה נוֹפֵל עַל לְשׁוֹן קְפִיצָה וְנִתּוּר: מְמַהֵר לִהְיוֹת נִתָּר וְנִתָּק מִמְּקוֹמוֹ. עַל כֵּן הוּא נוֹפֵל עַל לְשׁוֹן אֵשׁ וְעַל לְשׁוֹן מַיִם, כְּמוֹ ״נִדְעֲכוּ מִמְּקוֹמָם״ (איוב ו:יז), וְכֵן ״יָמַי נִדְעָכוּ״ (איוב יז:א), וְכֵן ״נֵרוֹ עָלָיו יִדְעָךְ״ (איוב יח:ו), כְּדֶרֶךְ שַׁלְהֶבֶת הַנִּתֶּקֶת מִן הַפְּתִילָה וְעוֹלָה לְמַעְלָה כְּשֶׁהִיא כָּבָה:
+**דֹּעֲכוּ כְּאֵשׁ קוֹצִים.** כָּל לְשׁוֹן דְּעִיכָה נוֹפֵל עַל לְשׁוֹן קְפִיצָה וְנִתּוּר: מְמַהֵר לִהְיוֹת נִתָּר וְנִתָּק מִמְּקוֹמוֹ. עַל כֵּן הוּא נוֹפֵל עַל לְשׁוֹן אֵשׁ וְעַל לְשׁוֹן מַיִם, כְּמוֹ ״נִדְעֲכוּ מִמְּקוֹמָם״ (איוב ו:יז), וְכֵן ״יָמַי נִדְעָכוּ״ (איוב יז:א), וְכֵן ״נֵרוֹ עָלָיו יִדְעָךְ״ (איוב יח:ו), כְּדֶרֶךְ שַׁלְהֶבֶת הַנִּתֶּקֶת מִן הַפְּתִילָה וְעוֹלָה לְמַעְלָה כְּשֶׁהִיא כָּבָה:
 
 
 **they were extinguished like a thorn fire** Every expression of דעיכה coincides with an expression of springing and skipping. It hastens to spring and skip from its place. Therefore, it fits with an expression of fire or with an expression of water, like (Job 6:17): “they jump (נדעכו) from their place.” Similarly (Job 17:1), “my days flicker (נדעכו)”; similarly (Job 18:6), “and his candle that is over him shall go out (ידעך),” in the way that the flame springs from the wick and ascends upward when it is extinguished.
@@ -28073,7 +28073,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/118:13:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/118:13:1)
 
 
-**דָּחֹה דְחִיתַנִי לִנְפֹּל.** אַתָּה, אוֹיְבִי:
+**דַּחֹה דְחִיתַנִי לִנְפֹּל.** אַתָּה, אוֹיְבִי:
 
 
 **You pushed me to fall** You, my enemy.
@@ -28238,7 +28238,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/118:27:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/118:27:1)
 
 
-**אִסְרוּ חַג בַּעֲבוֹתִים.** הַזְּבָחִים וְהַחֲגִיגוֹת שֶׁהָיוּ נְקִיִּים וּבְדוּקִין מִמּוּם קוֹשְׁרִין בְּכַרְעֵי מִטּוֹתֵיהֶם, עַד שֶׁיְּבִיאוּם לָעֲזָרָה בְּ**קַרְנוֹת הַמִּזְבֵּחַ**. וְיֵשׁ לִפְתּוֹר כָּל סוֹף הַמִּזְמוֹר הַזֶּה מִ**לֹּא אָמוּת כִּי אֶחְיֶה** בְּדָוִד עַצְמוֹ:
+**אִסְרוּ חַג בַּעֲבוֹתִים.** הַזְּבָחִים וְהַחֲגִיגוֹת שֶׁהָיוּ נְקִיִּים וּבְדוּקִין מִמּוּם קוֹשְׁרִין בְּכַרְעֵי מִטּוֹתֵיהֶם, עַד שֶׁיְּבִיאוּם לָעֲזָרָה בְּ**קַרְנוֹת הַמִּזְבֵּחַ.** וְיֵשׁ לִפְתּוֹר כָּל סוֹף הַמִּזְמוֹר הַזֶּה מִ**לֹּא אָמוּת כִּי אֶחְיֶה** בְּדָוִד עַצְמוֹ:
 
 
 **Bind the sacrifice with ropes** The sacrifices and the festival offerings, which were clean and examined for a blemish, they would bind to the feet of their beds until they brought them to the Temple court at the corners of the altar. It is also possible to interpret the entire end of this psalm from (verse 17), “I shall not die but I shall live,” as referring to David himself:
@@ -28525,7 +28525,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/119:30:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/119:30:1)
 
 
-**מִשְׁפָּטֶיךָ שִׁוִּיתִי.** שַׂמְתִּי עַצְמִי לְמִשְׁפָּטֶיךָ וְדָבַקְתִּי בְּעֵדוֹתֶיךָ, לִבְחוֹר בְּ**דֶרֶךְ אֱמוּנָה**. לְךָ אֲנִי שׁוֹאֵל: **דֶּרֶךְ שֶׁקֶר הָסֵר מִמֶּנִּי**:
+**מִשְׁפָּטֶיךָ שִׁוִּיתִי.** שַׂמְתִּי עַצְמִי לְמִשְׁפָּטֶיךָ וְדָבַקְתִּי בְּעֵדוֹתֶיךָ, לִבְחוֹר בְּ**דֶרֶךְ אֱמוּנָה.** לְךָ אֲנִי שׁוֹאֵל: **דֶּרֶךְ שֶׁקֶר הָסֵר מִמֶּנִּי**:
 
 
 **Your judgments I have set** I applied myself to your judgments and I clung to your testimony, to choose the way of faith. Therefore, I ask, “Remove from me the way of falsehood.”
@@ -28603,7 +28603,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/119:41:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/119:41:1)
 
 
-**וְיִבֹאֻנִי.** תְּשׁוּעָתְךָ תָּבֹא אֵלַי **כְּאִמְרָתֶךָ** שֶׁהִבְטַחְתַּנִי:
+**וִיבֹאֻנִי.** תְּשׁוּעָתְךָ תָּבֹא אֵלַי **כְּאִמְרָתֶךָ** שֶׁהִבְטַחְתַּנִי:
 
 
 **And may...befall me** May Your salvation befall me according to Your word which You promised me.
@@ -28795,7 +28795,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/119:67:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/119:67:2)
 
 
-**אֶעֱנֶה.** לְשׁוֹן שׁוֹנֶה וְהוֹגֶה בְּבֵית הַמִּדְרָשׁ הוּא, כְּמוֹ **תַּעַן לְשׁוֹנִי אִמְרָתֶךָ**. וְכֵן ״יַכְרֵת ה׳ לָאִישׁ אֲשֶׁר יַעֲשֶׂנָּה עֵר וְעֹנֶה מֵאָהֳלֵי יַעֲקֹב״ (מלאכי ב:יב), עֵר בַּחֲכָמִים וְעוֹנֶה בַּתַּלְמִידִים:
+**אֶעֱנֶה.** לְשׁוֹן שׁוֹנֶה וְהוֹגֶה בְּבֵית הַמִּדְרָשׁ הוּא, כְּמוֹ **תַּעַן לְשׁוֹנִי אִמְרָתֶךָ.** וְכֵן ״יַכְרֵת ה׳ לָאִישׁ אֲשֶׁר יַעֲשֶׂנָּה עֵר וְעֹנֶה מֵאָהֳלֵי יַעֲקֹב״ (מלאכי ב:יב), עֵר בַּחֲכָמִים וְעוֹנֶה בַּתַּלְמִידִים:
 
 
 **I recited** Heb. אענה, an expression of studying and reciting in the study hall, like (verse 172): “My tongue will utter (תען) Your word.” Similarly (Mal. 2:12): “From the man who commits it, the Lord shall cut off one of acuity or erudition (ועונה) from the tents of Jacob.” An ingenious one among the sages, and one who can answer among the students.
@@ -28963,7 +28963,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/119:86:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/119:86:1)
 
 
-**כָּל מִצְוֹתֶיךָ אֱמוּנָה.** מוֹאָבִי וְלֹא מוֹאָבִית (יבמות עז.), וְהֵם עַל שֶׁקֶר רָדְפוּ לְאָסְרֵנִי:
+**כָּל מִצְוֺתֶיךָ אֱמוּנָה.** מוֹאָבִי וְלֹא מוֹאָבִית (יבמות עז.), וְהֵם עַל שֶׁקֶר רָדְפוּ לְאָסְרֵנִי:
 
 
 **All Your commandments are faithful** A Moabite and not a Moabitess; but they pursue [me] to prohibit me [from entering the congregation of the Lord].
@@ -29027,7 +29027,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/119:98:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/119:98:1)
 
 
-**מֵאוֹיְבַי תְּחַכְּמֵנִי מִצְוֹתֶיךָ.** עַל דּוֹאֵג וַאֲחִיתֹפֶל אָמְרוּ, דְּלָא אָתְיָא לְהוּ שְׁמַעְתָּא אֲלִיבָּא דְהִלְכְתָא (סוטה כא.). לְעוֹלָם סוֹד הַתּוֹרָה בְּיָדִי, שֶׁכֵּן **מִכָּל מְלַמְּדַי הִשְׂכַּלְתִּי.** מִזֶּה לָמַדְתִּי קְצָת וּמִזֶּה לָמַדְתִּי קְצָת (לְאַחַר שֶׁלָּמַדְתִּי מֵרַבִּי מֻבְהָק):
+**מֵאוֹיְבַי תְּחַכְּמֵנִי מִצְוֺתֶךָ.** עַל דּוֹאֵג וַאֲחִיתֹפֶל אָמְרוּ, דְּלָא אָתְיָא לְהוּ שְׁמַעְתָּא אֲלִיבָּא דְהִלְכְתָא (סוטה כא.). לְעוֹלָם סוֹד הַתּוֹרָה בְּיָדִי, שֶׁכֵּן **מִכָּל מְלַמְּדַי הִשְׂכַּלְתִּי.** מִזֶּה לָמַדְתִּי קְצָת וּמִזֶּה לָמַדְתִּי קְצָת (לְאַחַר שֶׁלָּמַדְתִּי מֵרַבִּי מֻבְהָק):
 
 
 **Each of Your commandments makes me wiser than my enemies** Concerning Doeg and Ahithophel they [the Rabbis] said that their final conclusions did not agree with adopted practice. The secret of the Torah is in my hands forever, for I gained understanding from all my teachers; I learned a little from this one and I learned a little from that one (after I learned from my distinguished teacher).
@@ -29295,7 +29295,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/119:128:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/119:128:2)
 
 
-**יִשַּׁרְתִּי.** יָשְׁרוּ בְּעֵינַי, וְאָמַרְתִּי עֲלֵיהֶם: יָשְׁרוּ. כָּל זֶה כְּדַאי אֲנִי שֶׁתִּמְחוֹל וְתִרְצֶה לִי:
+**יִשָּׁרְתִּי.** יָשְׁרוּ בְּעֵינַי, וְאָמַרְתִּי עֲלֵיהֶם: יָשְׁרוּ. כָּל זֶה כְּדַאי אֲנִי שֶׁתִּמְחוֹל וְתִרְצֶה לִי:
 
 
 **I considered upright** Heb. ישרתי. They were upright in my eyes, and I said about them that they are upright. Because of this, I deserve that You forgive me and favor me.
@@ -29401,7 +29401,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/119:141:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/119:141:1)
 
 
-**צָעִיר אָנֹכִי וְנִבְזֶה.** כְּמָה דְאַתְּ אָמַר ״וְדָוִד הוּא הַקָּטָן״ (שמואל א יז:יד), נִבְזֶה אֲנִי לְהַקְטִין עַצְמִי אֵצֶל עוֹסְקֵי תוֹרָה לְהִתְלַמֵּד, כִּי **פִּקֻּדֶיךָ לֹא שָׁכַחְתִּי** מִלְּסַלְסֵל וּמִלְּפַלְפֵּל בָּהֶם בְּצִדְקָתְךָ שֶׁבְּתוֹכָן צֶדֶק וֶאֱמֶת עוֹלָמִית, וְאַף כִּי מְצָאוּנִי צָרוֹת הָיוּ הֵם עִסְקִי, וּלְעוֹלָם הֲבִינֵנִי צִדְקָם וְאֶחְיֶה בָהֶם ״כִּי הִיא חַיֶּיךָ וְגוֹמֵר״ (דברים ל:כ):
+**צָעִיר אָנֹכִי וְנִבְזֶה.** כְּמָה דְאַתְּ אָמַר ״וְדָוִד הוּא הַקָּטָן״ (שמואל א יז:יד), נִבְזֶה אֲנִי לְהַקְטִין עַצְמִי אֵצֶל עוֹסְקֵי תוֹרָה לְהִתְלַמֵּד, כִּי **פִּקֻּדֶיךָ לֹא שָׁכָחְתִּי** מִלְּסַלְסֵל וּמִלְּפַלְפֵּל בָּהֶם בְּצִדְקָתְךָ שֶׁבְּתוֹכָן צֶדֶק וֶאֱמֶת עוֹלָמִית, וְאַף כִּי מְצָאוּנִי צָרוֹת הָיוּ הֵם עִסְקִי, וּלְעוֹלָם הֲבִינֵנִי צִדְקָם וְאֶחְיֶה בָהֶם ״כִּי הִיא חַיֶּיךָ וְגוֹמֵר״ (דברים ל:כ):
 
 
 **I am young and despised** As it is stated (I Sam. 17:14): “And David was the youngest.” I am despised to the extent that I humble myself beside those who engage in the Torah, to learn, for I have not forgotten Your precepts; [nor have I refrained] from searching and debating with them about Your righteousness that is within them [the precepts], which is righteousness and truth to eternity; and even though troubles have befallen me, they were my occupation. And forever enable me to understand their righteousness and I shall live by them (Deut. 30:20): “for it [the Torah] is your life and the length of your days.”
@@ -29415,7 +29415,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/119:146:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/119:146:1)
 
 
-(הַסִּימָן שֶׁל **עֵדְֹתֶיךָ** דָּמָה בֶּן פֶּרֶ״ץ, הַוָּי״ו חוֹלָם, אֲבָל מִשְּׁאָר עֵדֹתֶיךָ הַדָּלֶ״ת חוֹלָם):
+(הַסִּימָן שֶׁל **עֵדֹתֶיךָ** דָּמָה בֶּן פֶּרֶ״ץ, הַוָּי״ו חוֹלָם, אֲבָל מִשְּׁאָר עֵדֹתֶיךָ הַדָּלֶ״ת חוֹלָם):
 
 
 **and I shall keep** (The acronym of, עֵדְוֹתֶיךָ is דמה בן פֶרֶץ ; the “vav” is vowelized with a “holam,” but in the other instances, it is עֵדֹתֶיךָ ; the “daleth” is vowelized with a “holam.”)
@@ -29574,7 +29574,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/119:169:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/119:169:1)
 
 
-**כְּדִבָרְךָ הֲבִינֵנִי.** דִּבְרֵי תוֹרָתְךָ כְּהִלְכָתָן וְכַהֲוָיָתָן:
+**כִּדְבָרְךָ הֲבִינֵנִי.** דִּבְרֵי תוֹרָתְךָ כְּהִלְכָתָן וְכַהֲוָיָתָן:
 
 
 **according to Your word, enable me to understand** the words of Your Torah; according to their law and in the order in which they stand.
@@ -29781,7 +29781,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/122:2:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/122:2:1)
 
 
-**עוֹמְדוֹת הָיוּ רַגְלֵינוּ.** בַּמִּלְחָמָה בְּכָל מָקוֹם בִּשְׁבִיל **שְׁעָרַיִךְ יְרוּשָׁלַיִם**, שֶׁעוֹסְקִין בָּהֶן בַּתּוֹרָה (מכות י.):
+**עוֹמְדוֹת הָיוּ רַגְלֵינוּ.** בַּמִּלְחָמָה בְּכָל מָקוֹם בִּשְׁבִיל **שְׁעָרַיִךְ יְרוּשָׁלָ͏ִם**, שֶׁעוֹסְקִין בָּהֶן בַּתּוֹרָה (מכות י.):
 
 
 **Our feet were standing** in battle everywhere because of the gates of Jerusalem, where they were engaged in Torah.
@@ -29795,7 +29795,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/122:3:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/122:3:1)
 
 
-**יְרוּשָׁלַיִם הַבְּנוּיָה.** כְּשֶׁיִּבְנֶה שְׁלֹמֹה בְּנִי בֵּית הַמִּקְדָּשׁ בְּתוֹכָהּ, תְּהֵא בְּנוּיָה בִּשְׁכִינָה וּמִקְדָּשׁ וְאָרוֹן וּמִזְבֵּחַ:
+**יְרוּשָׁלַ͏ִם הַבְּנוּיָה.** כְּשֶׁיִּבְנֶה שְׁלֹמֹה בְּנִי בֵּית הַמִּקְדָּשׁ בְּתוֹכָהּ, תְּהֵא בְּנוּיָה בִּשְׁכִינָה וּמִקְדָּשׁ וְאָרוֹן וּמִזְבֵּחַ:
 
 
 **The built-up Jerusalem** When my son Solomon builds the Temple within it [Jerusalem], it will be built with the Shechinah, the Temple, the Ark, and the altar.
@@ -29831,7 +29831,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/122:4:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/122:4:2)
 
 
-**שִׁבְטֵי יָהּ.** שֶׁהוּא **עֵדוּת לְיִשְׂרָאֵל**. לְפִי שֶׁהָיוּ הָאֻמּוֹת מֵלִיזִין אַחֲרֵיהֶם כְּשֶׁיָּצְאוּ מִמִּצְרַיִם וְאוֹמְרִים עֲלֵיהֶם שֶׁהֵם מַמְזֵרִים, אִם בְּגוּפָם הָיוּ שׁוֹלְטִין הַמִּצְרִים בִּנְשׁוֹתֵיהֶם לֹא כָּל שֶׁכֵּן. אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא: אֲנִי מֵעִיד עֲלֵיהֶם שֶׁהֵם בְּנֵי אֲבוֹתֵיהֶם. הֵטִיל שְׁמוֹ עֲלֵיהֶם: הָרְאוּבֵנִי הַשִּׁמְעוֹנִי (במדבר כו:ז,יד), הוֹסִיף עֲלֵיהֶם אוֹתִיּוֹת הַשֵּׁם אַחַת מִכָּאן וְאַחַת מִכָּאן. נִמְצָא הַשֵּׁם הַזֶּה יָהּ עֵדוּת לְיִשְׂרָאֵל:
+**שִׁבְטֵי יָהּ.** שֶׁהוּא **עֵדוּת לְיִשְׂרָאֵל.** לְפִי שֶׁהָיוּ הָאֻמּוֹת מֵלִיזִין אַחֲרֵיהֶם כְּשֶׁיָּצְאוּ מִמִּצְרַיִם וְאוֹמְרִים עֲלֵיהֶם שֶׁהֵם מַמְזֵרִים, אִם בְּגוּפָם הָיוּ שׁוֹלְטִין הַמִּצְרִים בִּנְשׁוֹתֵיהֶם לֹא כָּל שֶׁכֵּן. אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא: אֲנִי מֵעִיד עֲלֵיהֶם שֶׁהֵם בְּנֵי אֲבוֹתֵיהֶם. הֵטִיל שְׁמוֹ עֲלֵיהֶם: הָרְאוּבֵנִי הַשִּׁמְעוֹנִי (במדבר כו:ז,יד), הוֹסִיף עֲלֵיהֶם אוֹתִיּוֹת הַשֵּׁם אַחַת מִכָּאן וְאַחַת מִכָּאן. נִמְצָא הַשֵּׁם הַזֶּה יָהּ עֵדוּת לְיִשְׂרָאֵל:
 
 
 **the tribes of God** Heb. יָ-הּ, which is testimony to Israel, for the heathens were talking about them when they left Egypt, and they would say about them that they were the offspring of adulterous unions. If the Egyptians ruled over their own bodies, surely [they ruled] over their wives. Said the Holy One, blessed be He, “I attest that they are the sons of their fathers.” He bestowed His name upon them: the Reubenites (הראובני), the Simeonites (השמעוני) (Num. 26). He added the letters of the name, one on this side and one on that side. The result is that this name יָ-הּ is testimony to Israel.
@@ -29982,7 +29982,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/124:7:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/124:7:1)
 
 
-**נַפְשֵׁינוּ [כְּצִפּוֹר] נִמְלְטָה.** מֵהֶם כְּצִפּוֹר אֲשֶׁר נִמְלְטָה **מִפַּח יוֹקְשִׁים**:
+**נַפְשֵׁנוּ [כְּצִפּוֹר] נִמְלְטָה.** מֵהֶם כְּצִפּוֹר אֲשֶׁר נִמְלְטָה **מִפַּח יוֹקְשִׁים**:
 
 
 **Our soul escaped like a bird** [It escaped] from them like a bird that escaped from the hunter’s snare.
@@ -29999,7 +29999,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/125:1:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/125:1:1)
 
 
-**שִׁיר הַמַּעֲלוֹת הַבֹּטְחִים בַּה׳.** לֹא יִמּוֹטוּ **כְּהַר צִיּוֹן אֲשֶׁר לֹא יִמּוֹט**, כִּי כַּאֲשֶׁר יְרוּשָׁלַיִם הָרִים סָבִיב לָהּ, כֵּן הַקָּדוֹשׁ בָּרוּךְ הוּא סָבִיב לְעַמּוֹ:
+**שִׁיר הַמַּעֲלוֹת הַבֹּטְחִים בַּה׳.** לֹא יִמּוֹטוּ כְּהַר צִיּוֹן אֲשֶׁר לֹא יִמּוֹט, כִּי כַּאֲשֶׁר יְרוּשָׁלַיִם הָרִים סָבִיב לָהּ, כֵּן הַקָּדוֹשׁ בָּרוּךְ הוּא סָבִיב לְעַמּוֹ:
 
 
 **Those who trust in the Lord** will not falter, like Mount Zion, which will not falter, for just as Jerusalem is surrounded by mountains, so is the Holy One, blessed be He, around His people.
@@ -30172,7 +30172,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/127:3:3](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/127:3:3)
 
 
-**שְׂכַר פְּרִי הַבָּטֶן.** שְׂכַר פְּרִי הַתּוֹרָה שֶׁבַּלֵּב, שֶׁנֶּאֱמַר: ״כִּי נָעִים כִּי תִשְׁמְרֵם בְּבִטְנֶךָ״ (משלי כב:יח):
+**שָׂכָר פְּרִי הַבָּטֶן.** שְׂכַר פְּרִי הַתּוֹרָה שֶׁבַּלֵּב, שֶׁנֶּאֱמַר: ״כִּי נָעִים כִּי תִשְׁמְרֵם בְּבִטְנֶךָ״ (משלי כב:יח):
 
 
 **the reward is the fruit of the innards** The reward is the fruit of the Torah that is in his heart as it is said (Prov. 22:18): “For it is pleasant that you guard them in your innards.”
@@ -30328,7 +30328,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/128:6:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/128:6:1)
 
 
-**וּרְאֵה בָנִים לְבָנֶיךָ.** וְלֹא יָבוֹאוּ לִקְטָטָה עֲבוּר חֲלִיצָה, וְאָז **שָׁלוֹם עַל יִשְׂרָאֵל**. תּוֹסְפוֹת:
+**וּרְאֵה בָנִים לְבָנֶיךָ.** וְלֹא יָבוֹאוּ לִקְטָטָה עֲבוּר חֲלִיצָה, וְאָז **שָׁלוֹם עַל יִשְׂרָאֵל.** תּוֹסְפוֹת:
 
 
 **And may you see children [born] to your children** and they shall not come to quarrel about halitzah, [since that is performed only if there are no children,] and then there will be peace upon Israel (addendum).
@@ -30356,7 +30356,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/129:3:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/129:3:1)
 
 
-**חָרְשִׁים הֶאֱרִיכוּ לְמַעֲנִיתָם.** הוּא תֶּלֶם הַמַּחֲרֵשָׁה, ״כַּבַּחֲצִי מַעֲנָה צֶמֶד שָׂדֶה״ (שמואל א יד:יד):
+**חֹרְשִׁים הֶאֱרִיכוּ לְמַעֲנִיתָם.** הוּא תֶּלֶם הַמַּחֲרֵשָׁה, ״כַּבַּחֲצִי מַעֲנָה צֶמֶד שָׂדֶה״ (שמואל א יד:יד):
 
 
 **the plowmen...they lengthened their furrow** That is the hill of the plowshare, as (I Sam. 13: 14): “about half a furrow (מענה) [which] a yoke [of oxen plow in] a field.”
@@ -30510,7 +30510,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/132:1:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/132:1:1)
 
 
-**שִׁיר הַמַּעֲלוֹת זְכוֹר ה׳ לְדָוִד אֶת כָּל עֻנּוֹתוֹ.** עִנּוּי נַפְשׁוֹ אֲשֶׁר טָרַח וְעָמַל לִמְצֹא לְךָ מָקוֹם (תנחומא, נשא יג):
+**שִׁיר הַמַּעֲלוֹת זְכוֹר ה׳ לְדָוִד אֵת כָּל עֻנּוֹתוֹ.** עִנּוּי נַפְשׁוֹ אֲשֶׁר טָרַח וְעָמַל לִמְצֹא לְךָ מָקוֹם (תנחומא, נשא יג):
 
 
 **A song of ascents. Remember, O Lord, onto David all his affliction** The affliction of his soul, how he worked and toiled to find a place for You.
@@ -30672,7 +30672,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/133:2:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/133:2:2)
 
 
-**שֶׁיּוֹרֵד.** מֵרֹאשׁוֹ אֶל זְקָנוֹ אֶל פִּי רֹאשׁ הַכֻּתֹּנֶת שֶׁלּוֹ, שֶׁהַזָּקָן שׁוֹכֵב עַל פִּי הַכֻּתֹּנֶת. כֵּן נָעִים **טַל חֶרְמוֹן** שֶׁגָּבוֹהַּ **עַל הַרְרֵי צִיּוֹן**, וְהַטַּל יוֹרֵד מֵחֶרְמוֹן לְהַרְרֵי צִיּוֹן. כְּשֵׁם שֶׁשֶּׁמֶן הַמִּשְׁחָה לִגְדֻלָּה, כָּךְ הַר צִיּוֹן לְתִפְאֶרֶת וּלְכָבוֹד לְיִשְׂרָאֵל. **כַּשֶּׁמֶן הַטּוֹב** כֵּן **טַל חֶרְמוֹן**. כָּזֶה כֵּן זֶה, כְּמוֹ ״וְהָיָה כָעָם כַּכֹּהֵן״ (הושע ד:ט). וְרַבּוֹתֵינוּ דָּרְשׁוּ **שֶׁבֶת אַחִים**, מֹשֶׁה וְאַהֲרֹן לְעִנְיַן מְעִילָה בְּשֶׁמֶן הַמִּשְׁחָה בְּמַסֶּכֶת הוֹרָיוֹת (הוריות יב.) כָּל הַמִּזְמוֹר. אֲבָל יֵשׁ בְּדִבְרֵי תוֹרָה וְקַבָּלָה מָשָׁל וּמְלִיצָה וְדִבְרֵי חֲכָמִים וְחִידוֹתָם, וְעִקַּר שִׁיר הַמַּעֲלוֹת עַל בֵּית הַמִּקְדָּשׁ נֶאֱמַר:
+**שֶׁיּוֹרֵד.** מֵרֹאשׁוֹ אֶל זְקָנוֹ אֶל פִּי רֹאשׁ הַכֻּתֹּנֶת שֶׁלּוֹ, שֶׁהַזָּקָן שׁוֹכֵב עַל פִּי הַכֻּתֹּנֶת. כֵּן נָעִים **טַל חֶרְמוֹן** שֶׁגָּבוֹהַּ **עַל הַרְרֵי צִיּוֹן**, וְהַטַּל יוֹרֵד מֵחֶרְמוֹן לְהַרְרֵי צִיּוֹן. כְּשֵׁם שֶׁשֶּׁמֶן הַמִּשְׁחָה לִגְדֻלָּה, כָּךְ הַר צִיּוֹן לְתִפְאֶרֶת וּלְכָבוֹד לְיִשְׂרָאֵל. **כַּשֶּׁמֶן הַטּוֹב** כֵּן **טַל חֶרְמוֹן.** כָּזֶה כֵּן זֶה, כְּמוֹ ״וְהָיָה כָעָם כַּכֹּהֵן״ (הושע ד:ט). וְרַבּוֹתֵינוּ דָּרְשׁוּ **שֶׁבֶת אַחִים**, מֹשֶׁה וְאַהֲרֹן לְעִנְיַן מְעִילָה בְּשֶׁמֶן הַמִּשְׁחָה בְּמַסֶּכֶת הוֹרָיוֹת (הוריות יב.) כָּל הַמִּזְמוֹר. אֲבָל יֵשׁ בְּדִבְרֵי תוֹרָה וְקַבָּלָה מָשָׁל וּמְלִיצָה וְדִבְרֵי חֲכָמִים וְחִידוֹתָם, וְעִקַּר שִׁיר הַמַּעֲלוֹת עַל בֵּית הַמִּקְדָּשׁ נֶאֱמַר:
 
 
 **which runs down** from his head to his beard, to the mouth of his tunic, for the beard rests on the mouth of the tunic. So is the dew of Hermon, which is high, pleasant on the mountains of Zion. Just as the anointing oil is for greatness, so is the dew of Zion for glory and distinction for Israel. Just as the good oil is so, so is the dew of Hermon. Like this, so is that, like (Isa. 24:2): “as with the people, so with the priest.” Our Rabbis explained “for brothers to dwell” as concerning Moses and Aaron, regarding unlawful use of the anointment oil, in tractate Horioth (12a) the entire psalm. But [there is], in words of Torah and post- Mosaic Scriptures, an allegory and a figure, and [in the] words of the wise and their riddles, but the primary meaning of the song of ascents is that it was said regarding the Temple.
@@ -31067,7 +31067,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/138:6:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/138:6:1)
 
 
-**יֵידָע.** יְיַסֵּר, כְּמוֹ ״וַיּוֹדַע בָּהֶם אֶת אַנְשֵׁי סֻכּוֹת״ (שופטים ח:טז):
+**יְיֵדָע.** יְיַסֵּר, כְּמוֹ ״וַיּוֹדַע בָּהֶם אֶת אַנְשֵׁי סֻכּוֹת״ (שופטים ח:טז):
 
 
 **He chastises** Heb. יידע, chastises, like (Jud. 8:16): “and with them he broke (ויודע) the men of Succoth.”
@@ -31301,7 +31301,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/139:15:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/139:15:1)
 
 
-**עֲשִׂיתִי בַסֵּתֶר.** בְּתַשְׁמִישׁ:
+**עֻשֵּׂיתִי בַסֵּתֶר.** בְּתַשְׁמִישׁ:
 
 
 **I was made in secret** In sexual intercourse.
@@ -32691,7 +32691,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/147:18:2](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/147:18:2)
 
 
-**יָשֵּׁב רוּחוֹ.** רוּחַ מַעֲרָבִי לְהַשְׁבִּית הַקֶּרַח, וְ**יִזְּלוּ מָיִם**:
+**יַשֵּׁב רוּחוֹ.** רוּחַ מַעֲרָבִי לְהַשְׁבִּית הַקֶּרַח, וְ**יִזְּלוּ מָיִם**:
 
 
 **He blows His wind** The west wind, to get rid of the ice, and water runs.
@@ -32722,7 +32722,7 @@ Trust (מבטח) is a stout and strong support. Nevertheless, to take shelter in
 [https://torahapp.org/share/book/Rashi%20on%20Psalms/r/148:6:1](https://torahapp.org/share/book/Rashi%20on%20Psalms/r/148:6:1)
 
 
-**חֹק נָתַן.** בָּהֶם, זֶה יְשַׁמֵּשׁ בַּיּוֹם וְזֶה יְשַׁמֵּשׁ בַּלַּיְלָה **וְלֹא יַעֲבוֹר** אוֹתוֹ חֹק:
+**חׇק נָתַן.** בָּהֶם, זֶה יְשַׁמֵּשׁ בַּיּוֹם וְזֶה יְשַׁמֵּשׁ בַּלַּיְלָה **וְלֹא יַעֲבוֹר** אוֹתוֹ חֹק:
 
 
 **He issued a decree** to them, that this one should serve by day and that one should serve by night. **which will not change** That decree.

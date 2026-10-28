@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Haggada Maaseh Nissim, Warsaw 1895 (Segments: 131, License: Public Domain)
 
-Version (En): Rabbi Mark Greenspan (Segments: 78)
+Version (En): Sefaria Community Translation (Segments: 78)
 
 
 ## Kadesh

@@ -173,7 +173,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/1:6:2](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/1:6:2)
 
 
-**כִּי נָשׂא אֶשָּׂא לָהֶם.** אֲחַלֵּק לָהֶם מְנַת כּוֹסָם וּפְעֻלָּתָם, כְּמוֹ ״וַיִּשָּׂא מַשְׂאֹת״ (בראשית מג:לד):
+**כִּי נָשֹׂא אֶשָּׂא לָהֶם.** אֲחַלֵּק לָהֶם מְנַת כּוֹסָם וּפְעֻלָּתָם, כְּמוֹ ״וַיִּשָּׂא מַשְׂאֹת״ (בראשית מג:לד):
 
 
 **but I will mete out their portion to them** I will mete out to them the portion of their cup and their deed. This expression is like (Gen. 43:34), “And he gave out portions (וַיִּשָּׂא מַשְׂאֹת).”
@@ -307,7 +307,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/2:5:1](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/2:5:1)
 
 
-**כְּיוֹם הִוָּלְדָהּ.** כְּיוֹם שֶׁמְּצָאתִיהָ בְּמִצְרַיִם, כְּמוֹ שֶׁמְּפֹרָשׁ בִּיחֶזְקֵאל (יחזקאל טז:ד-ה): ״וּמוֹלַדְתֵּךְ בְּיוֹם הוּלֶּדֶת אוֹתָךְ לֹא כָרַת שָׁרֵּךְ ... וַתֻּשְׁלְכִי אֶל פְּנֵי הַשָּׂדֶה בְּגֹעַל נַפְשֵׁךְ לֹא חָסָה עָלַיִךְ עָיִן״:
+**כְּיוֹם הִוָּלְדָהּ.** כְּיוֹם שֶׁמְּצָאתִיהָ בְּמִצְרַיִם, כְּמוֹ שֶׁמְּפֹרָשׁ בִּיחֶזְקֵאל (יחזקאל טז:ד-ה): ״וּמוֹלַדְתֵּךְ בְּיוֹם הוּלֶּדֶת אוֹתָךְ לֹא כָרַת שָׁרֵּךְ … וַתֻּשְׁלְכִי אֶל פְּנֵי הַשָּׂדֶה בְּגֹעַל נַפְשֵׁךְ לֹא חָסָה עָלַיִךְ עָיִן״:
 
 
 **as [on] the day she was born** Like the day that I found her in Egypt, as is delineated in Ezekiel (16: 4, 5): “And as for your birth, on the day you were born your navel was not cut etc. No eye took pity on you etc. with a loathing of your body.”
@@ -354,7 +354,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/2:7:2](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/2:7:2)
 
 
-**הוֹבִישָׁה הוֹרָתָם.** בְּהִיתוּ מַלְפֵיהוֹן (תרגום יונתן) הַחֲכָמִים הַמּוֹרִים לָהֶם הוֹרָאוֹת, בּוֹשִׁים מִפְּנֵי עַמֵּי הָאָרֶץ. אוֹמְרִים לָהֶם: **לֹא תִגְנֹבוּ** (ויקרא יט:יא), וְהֵם גּוֹנְבִים. לֹא תַלְווּ בְרִבִּית (ויקרא כה:לז), וְהֵם מַלְוִים:
+**הוֹבִישָׁה הוֹרָתָם.** בְּהִיתוּ מַלְפֵיהוֹן (תרגום יונתן) הַחֲכָמִים הַמּוֹרִים לָהֶם הוֹרָאוֹת, בּוֹשִׁים מִפְּנֵי עַמֵּי הָאָרֶץ. אוֹמְרִים לָהֶם: ״לֹא תִגְנֹבוּ״ (ויקרא יט:יא), וְהֵם גּוֹנְבִים. לֹא תַלְווּ בְרִבִּית (ויקרא כה:לז), וְהֵם מַלְוִים:
 
 
 **she who conceived them behaved shamefully** Jonathan, who renders: Their teachers are ashamed. The wise men who teach them with instructions are ashamed before the ignorant populace. They tell them, “You shall not steal,” but they steal. “You shall not lend for interest,” but they lend.
@@ -365,7 +365,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/2:7:3](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/2:7:3)
 
 
-**אַחֲרֵי מְאַהֲבַי**. בְּדַרְכֵי הָעַכּוּ"ם (שמות רבה מו:ד):
+**אַחֲרֵי מְאַהֲבַי.** בְּדַרְכֵי הָעַכּוּ״ם (שמות רבה מו:ד):
 
 
 **after my lovers** In the ways of the nations.
@@ -762,7 +762,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/2:23:1](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/2:23:1)
 
 
-**אֶעֱנֶה אֶת הַשָּׁמַיִם.** לִצוֹק אֶל הַשְּׁחָקִים מִפֶּלֶג הַטּוֹב הַתְּלוּיִים בְּמַאֲמָר, וְהֵם יַעֲנוּ לִצוֹק מַיִם עַל הָאָרֶץ:
+**אֶעֱנֶה אֶת הַשָּׁמָיִם.** לִצוֹק אֶל הַשְּׁחָקִים מִפֶּלֶג הַטּוֹב הַתְּלוּיִים בְּמַאֲמָר, וְהֵם יַעֲנוּ לִצוֹק מַיִם עַל הָאָרֶץ:
 
 
 **I will answer the heavens** to pour upon the clouds from the rivulet of good that depends on My word. They will, in turn, answer to pour water upon the earth.
@@ -1029,7 +1029,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/4:5:2](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/4:5:2)
 
 
-**נְבִיאֵי עַמְּךָ.** נְבִיאִים שֶׁעִמְּךָ:
+**נָבִיא עִמְּךָ.** נְבִיאִים שֶׁעִמְּךָ:
 
 
 **the prophet that is with you** To be understood as the plural: The prophets that are with you.
@@ -1068,7 +1068,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/4:7:1](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/4:7:1)
 
 
-כְּרֻבָּם **כֵּן חָטְאוּ**. כְּשֶׁרָבוּ וְגָדְלוּ כֵּן הוֹסִיפוּ לַחֲטֹא. **כֵּן חָטְאוּ** לְשׁוֹן עִבְרִי כֵּן בְּכַמָּה מְקוֹמוֹת: ״כַאֲשֶׁר יְעַנּוּ אֹתוֹ כֵּן יִרְבֶּה״ (שמות א:יב), ״קָרְאוּ לָהֶם כֵּן הָלְכוּ מִפְּנֵיהֶם״ (הושע יא:ב) – כָּל כַּמָּה שֶׁהַנְּבִיאִים קוֹרְאִין לָהֶם לְהוֹכִיחָן, כֵּן הֵם הָיוּ בּוֹרְחִין מִפְּנֵיהֶם:
+כְּרֻבָּם **כֵּן חָטְאוּ.** כְּשֶׁרָבוּ וְגָדְלוּ כֵּן הוֹסִיפוּ לַחֲטֹא. **כֵּן חָטְאוּ** לְשׁוֹן עִבְרִי כֵּן בְּכַמָּה מְקוֹמוֹת: ״כַאֲשֶׁר יְעַנּוּ אֹתוֹ כֵּן יִרְבֶּה״ (שמות א:יב), ״קָרְאוּ לָהֶם כֵּן הָלְכוּ מִפְּנֵיהֶם״ (הושע יא:ב) – כָּל כַּמָּה שֶׁהַנְּבִיאִים קוֹרְאִין לָהֶם לְהוֹכִיחָן, כֵּן הֵם הָיוּ בּוֹרְחִין מִפְּנֵיהֶם:
 
 
 **the more they have sinned against me** As they multiplied and increased, so they continued to sin. (Heb. כֵן חָטְאוּ.) So is the Hebrew expression in numerous places: “As they afflicted them, so they increased (Heb. כֲּאֲשֶׁר יְעַנוּ אוֹתוֹ כֵן יִרְבֶּה);” “As they called them so they turned away from them, (Heb. קָרְאוּ לָהֶם כֵּן הָלְכוּ מִפְּנֵיהֶם Hosea 11:2),” the more the prophets called after them to rebuke them, so they ran away from them.
@@ -1104,7 +1104,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/4:8:2](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/4:8:2)
 
 
-**וְאֶל עֲוֹנָם** שֶׁל יִשְׂרָאֵל יִשָּׂא הַנָּבִיא נַפְשׁוֹ, וְהַנָּבִיא עַצְמוֹ מְצַפֶּה שֶׁיָּבִיאוּ לוֹ מָמוֹן וְקָרְבָּנוֹת לְכַפָּרָה:
+**וְאֶל עֲוֺנָם.** שֶׁל יִשְׂרָאֵל יִשָּׂא הַנָּבִיא נַפְשׁוֹ, וְהַנָּבִיא עַצְמוֹ מְצַפֶּה שֶׁיָּבִיאוּ לוֹ מָמוֹן וְקָרְבָּנוֹת לְכַפָּרָה:
 
 
 **set their heart on their iniquity** On the iniquity of the people of Israel, the prophet sets his heart; for the prophet himself hopes that they shall bring him money and sacrifices to expiate their sins.
@@ -1243,7 +1243,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/4:14:2](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/4:14:2)
 
 
-**יִפָּרֵדוּ.** תֵּרְגֵּם יוֹנָתָן ״מִסְתַּיְּעָן״, לְשׁוֹן ׳סִיעָה׳, כְּלוֹמַר מִתְחַבְּרִין אַתֶּם לִשְׁתּוֹת יַיִן. וּמְנַחֵם חִבְּרוֹ אֵצֶל ״עָבְשׁוּ פְרֻדוֹת״ (יואל א:יז), שֶׁהֵם חָבִיּוֹת יַיִן:
+**יְפָרֵדוּ.** תֵּרְגֵּם יוֹנָתָן ״מִסְתַּיְּעָן״, לְשׁוֹן ׳סִיעָה׳, כְּלוֹמַר מִתְחַבְּרִין אַתֶּם לִשְׁתּוֹת יַיִן. וּמְנַחֵם חִבְּרוֹ אֵצֶל ״עָבְשׁוּ פְרֻדוֹת״ (יואל א:יז), שֶׁהֵם חָבִיּוֹת יַיִן:
 
 
 **join** Heb. יִפָרֵדוּ. Jonathan translates מִסְתַייעָן from סִיעָה, ‘a company,’ that is, they join with them (the harlots) in drinking wine. Now Menahem [Machbereth Menahem p. 145] connects it with עָבְשוּ פְרוּדוֹת “the wine barrels decay” (of Joel 1:17) where they (פְרוּדוֹת) are wine barrels.
@@ -1412,7 +1412,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/4:19:2](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/4:19:2)
 
 
-**וְאָז יֵבוֹשׁוּ מִזְבְּחוֹתָם.** מִזְבְּחֵי תּוֹעֵבוֹת שֶׁאֵין פּוֹנִים אֲלֵיהֶם, כַּאֲשֶׁר יֹאמַר חָטָא חֲטָאָה, כֵּן יֹאמַר זָבַח זִבְחָה, מִן הַמְּקוֹמוֹת שֶׁהָיוּ זוֹבְחִים שָׁם. וְכֵן תִּרְגֵּם יוֹנָתָן: ״מֵאִיגוּרֵי תּוֹעֲבָתְהוֹן״. מִדְרַשׁ תַּנְחוּמָא (ויקרא רבה יא,ו) מָצָאתִי לְשׁוֹן אַגָּדוֹת: כְּאָדָם הַמְּאַיֵּם עַל אִישׁ הַמַּקְנִיטוֹ, ״חַיֶּיךָ שֶׁאֲנִי צוֹרֵר לְךָ בִּכְנָפֶיךָ״. כָּךְ הַמִּקְרָא הַזֶּה מְאַיֵּם עַל יִשְׂרָאֵל: קִנְאָתִי קְשׁוּרָה וַחֲמָתִי לְהִנָּקֵם בָּאַחֲרִית, וְיֵבוֹשׁוּ מִמַּעֲשֵׂיהֶם.
+וְאָז **יֵבוֹשׁוּ מִזִּבְחוֹתָם.** מִזִּבְחֵי תּוֹעֵבוֹת שֶׁאֵין פּוֹנִים אֲלֵיהֶם, כַּאֲשֶׁר יֹאמַר חָטָא חֲטָאָה, כֵּן יֹאמַר זָבַח זִבְחָה, מִן הַמְּקוֹמוֹת שֶׁהָיוּ זוֹבְחִים שָׁם. וְכֵן תִּרְגֵּם יוֹנָתָן: ״מֵאִיגוּרֵי תּוֹעֲבָתְהוֹן״. מִדְרַשׁ תַּנְחוּמָא (ויקרא רבה יא,ו) מָצָאתִי לְשׁוֹן אַגָּדוֹת: כְּאָדָם הַמְּאַיֵּם עַל אִישׁ הַמַּקְנִיטוֹ, ״חַיֶּיךָ שֶׁאֲנִי צוֹרֵר לְךָ בִּכְנָפֶיךָ״. כָּךְ הַמִּקְרָא הַזֶּה מְאַיֵּם עַל יִשְׂרָאֵל: קִנְאָתִי קְשׁוּרָה וַחֲמָתִי לְהִנָּקֵם בָּאַחֲרִית, וְיֵבוֹשׁוּ מִמַּעֲשֵׂיהֶם.
 
 
 **and they shall be ashamed of their altars** Heb. מִזְבְּחוֹתָם, of the altars of their deities (lit. their abominations), to which they do not turn. Now, just as חֵטְא, sin, can be stated in the feminine as חֲטָאָה, so can one say, instead of זֶבח, זִבְחָה, which denotes the places where they would sacrifice. And so did Jonathan render: of the altars of their abominations. Addendum according to Abarbanel: I found a Midrash Tanhuma, where it is an expression of tying, like a man who threatens a person who provokes him, “[I swear] by your life that I will tie it to you at your end.” So does this verse threaten Israel: “My zeal and My fury are tied up to avenge Myself at the end, and they will be ashamed of their deeds.”
@@ -1443,7 +1443,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/5:2:1](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/5:2:1)
 
 
-**וְשַׁחֲטָה שֵׂטִים הֶעְמִיקוּ.** מֶשֶׁךְ שְׁטִיּוּת **הֶעְמִיקוּ**. אֲנִי אָמַרְתִּי כָּל שֶׁאֵינוֹ עוֹלֶה לָרֶגֶל עוֹבֵר בַּעֲשֵׂה, וְהֵם גָּזְרוּ כָּל הָעוֹלֶה לָרֶגֶל יֵהָרֵג, הֲרֵי שֶׁ**הֶעְמִיקוּ** יוֹתֵר מִמֶּנִּי. **וְשַׁחֲטָה** לְשׁוֹן ״זָהָב שָׁחוּט״ (מלכים א י:טז), נִמְשָׁךְ וְנִטְוֶה. וְיוֹנָתָן תִּרְגֵּם לְשׁוֹן שְׁחִיטַת זְבָחִים לַעֲבוֹדָה זָרָה:
+**וְשַׁחֲטָה שֵׂטִים הֶעְמִיקוּ.** מֶשֶׁךְ שְׁטִיּוּת **הֶעְמִיקוּ.** אֲנִי אָמַרְתִּי כָּל שֶׁאֵינוֹ עוֹלֶה לָרֶגֶל עוֹבֵר בַּעֲשֵׂה, וְהֵם גָּזְרוּ כָּל הָעוֹלֶה לָרֶגֶל יֵהָרֵג, הֲרֵי שֶׁ**הֶעְמִיקוּ** יוֹתֵר מִמֶּנִּי. **וְשַׁחֲטָה** לְשׁוֹן ״זָהָב שָׁחוּט״ (מלכים א י:טז), נִמְשָׁךְ וְנִטְוֶה. וְיוֹנָתָן תִּרְגֵּם לְשׁוֹן שְׁחִיטַת זְבָחִים לַעֲבוֹדָה זָרָה:
 
 
 **The extent of their straying they have deepened** The extent of their straying they have deepened. I said that anyone who does not go up to Jerusalem on the Pilgrimage festivals transgresses a positive commandment, and they decreed that anyone who does go up to Jerusalem shall be put to death. Hence, they went deeper than I. I.e., they were more stringent than I (Sanhedrin 102a). The word שַחֲטָה, translated as ‘extent’ is an expression similar to זָהָב שָׁחוּט, “malleable gold” (I Kings 10:16) stretched and spun. Jonathan, however, renders it as an expression of slaughtering sacrifices to idols.
@@ -1582,7 +1582,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/5:8:2](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/5:8:2)
 
 
-**הָרִיעוּ בֵּית אָוֶן. אַחֲרֶיךָ** הַגַּיִס הוֹלֵךְ אַתָּה **בִּנְיָמִין**, זֹאת **הָרִיעוּ** בְּ**בֵית אָוֶן**. וְיוֹנָתָן תִּרְגֵּם: **תִּקְעוּ שׁוֹפָר** בְּשׂוֹרַת חֶרֶב בָּאָה בְּעָוֹן שֶׁהִמְלִיכוּ עֲלֵיהֶם אֶת שָׁאוּל שֶׁהָיָה **בַּגִּבְעָה** (שמואל א י:כו), וְלֹא שָׁמְעוּ לְקוֹל שְׁמוּאֵל שֶׁהָיָה מִן **הָרָמָה** (שמואל א א:א), וּמַלְכֵיהֶם גָּרְמוּ לָהֶם לָסוּר מֵאַחֲרֵי, כְּגוֹן יָרָבְעָם (מלכים א יב:כח-ל) וַחֲבֵרָיו. **הָרִיעוּ** עֲלֵיהֶם אָוֶן וְשֶׁבֶר גָּדוֹל:
+**הָרִיעוּ בֵּית אָוֶן. אַחֲרֶיךָ** הַגַּיִס הוֹלֵךְ אַתָּה **בִּנְיָמִין**, זֹאת **הָרִיעוּ** בְּ**בֵית אָוֶן.** וְיוֹנָתָן תִּרְגֵּם: **תִּקְעוּ שׁוֹפָר** בְּשׂוֹרַת חֶרֶב בָּאָה בְּעָוֹן שֶׁהִמְלִיכוּ עֲלֵיהֶם אֶת שָׁאוּל שֶׁהָיָה **בַּגִּבְעָה** (שמואל א י:כו), וְלֹא שָׁמְעוּ לְקוֹל שְׁמוּאֵל שֶׁהָיָה מִן **הָרָמָה** (שמואל א א:א), וּמַלְכֵיהֶם גָּרְמוּ לָהֶם לָסוּר מֵאַחֲרֵי, כְּגוֹן יָרָבְעָם (מלכים א יב:כח-ל) וַחֲבֵרָיו. **הָרִיעוּ** עֲלֵיהֶם אָוֶן וְשֶׁבֶר גָּדוֹל:
 
 
 **shout [in] Beth-aven** “After you the troop is coming, you Benjamin!” You shall shout this in Beth-aven. Jonathan, however, renders: Sound a shofar: [O prophets, raise your voices like a shofar.] The news of the sword which is coming as retribution for the iniquity of crowning Saul, who was in Gibeah, and for disobeying Samuel, who was from Ramah. And their kings caused them to turn away from following Me, such as Jeroboam and his ilk. Shout over them, “Violence and great destruction!”
@@ -1629,7 +1629,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/5:9:2](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/5:9:2)
 
 
-**אֶפְרַיִם לְשַׁמָּה וְגוֹ׳. בְּשִׁבְטֵי יִשְׂרָאֵל הוֹדַעְתִּי נֶאֱמָנָה**. רַבִּי אֲבוּהוּ בְּשֵׁם רַבִּי אַחָא בַּר חֲנִינָא אָמַר (איכה רבה, פתיחתא ו): בְּיוֹם שֶׁיִּתְוַכַּח עִמָּהֶם הַקָּדוֹשׁ בָּרוּךְ הוּא בַּדִּין, לֹא יִהְיֶה לָהֶם פִּתְחוֹן פֶּה, שֶׁהֲרֵי בַּשְּׁבָטִים הוֹדַעְתִּי שֶׁהַדִּין דִּין אֱמֶת. אַתָּה מוֹצֵא, כְּשֶׁגָּלוּ עֲשֶׂרֶת הַשְּׁבָטִים, לֹא גָּלוּ יְהוּדָה וּבִנְיָמִין, וְהָיוּ עֲשֶׂרֶת הַשְּׁבָטִים אוֹמְרִים: ״מִפְּנֵי שֶׁהֵם בְּנֵי פַּלְטִין שֶׁלּוֹ, לֹא הִגְלָה אוֹתָן, מַשּׂוֹא פָנִים יֵשׁ בַּדָּבָר״. חַס וְשָׁלוֹם, אֵין מַשּׂוֹא פָנִים, אֶלָּא עֲדַיִן לֹא נִתְמַלְּאָה סְאָתָם. כֵּיוָן שֶׁחָטְאוּ, גָּלוּ. אָז שָׁמְעוּ עֲשֶׂרֶת הַשְּׁבָטִים, מֵאֵין מַעֲנֶה בְּפִיהֶם, וְאָמְרוּ: ״הָא אֱלָהָא, הָא תַּקִּיף, הָא קְשׁוֹט, דַּאֲפִלּוּ לִבְנֵי בֵיתֵיהּ לָא נְסִיב אַפִּין״. לְקַיֵּם מַה שֶּׁנֶּאֱמַר: **בְּשִׁבְטֵי יִשְׂרָאֵל הוֹדַעְתִּי נֶאֱמָנָה**.
+**אֶפְרַיִם לְשַׁמָּה וְגוֹ׳. בְּשִׁבְטֵי יִשְׂרָאֵל הוֹדַעְתִּי נֶאֱמָנָה.** רַבִּי אֲבוּהוּ בְּשֵׁם רַבִּי אַחָא בַּר חֲנִינָא אָמַר (איכה רבה, פתיחתא ו): בְּיוֹם שֶׁיִּתְוַכַּח עִמָּהֶם הַקָּדוֹשׁ בָּרוּךְ הוּא בַּדִּין, לֹא יִהְיֶה לָהֶם פִּתְחוֹן פֶּה, שֶׁהֲרֵי בַּשְּׁבָטִים הוֹדַעְתִּי שֶׁהַדִּין דִּין אֱמֶת. אַתָּה מוֹצֵא, כְּשֶׁגָּלוּ עֲשֶׂרֶת הַשְּׁבָטִים, לֹא גָּלוּ יְהוּדָה וּבִנְיָמִין, וְהָיוּ עֲשֶׂרֶת הַשְּׁבָטִים אוֹמְרִים: ״מִפְּנֵי שֶׁהֵם בְּנֵי פַּלְטִין שֶׁלּוֹ, לֹא הִגְלָה אוֹתָן, מַשּׂוֹא פָנִים יֵשׁ בַּדָּבָר״. חַס וְשָׁלוֹם, אֵין מַשּׂוֹא פָנִים, אֶלָּא עֲדַיִן לֹא נִתְמַלְּאָה סְאָתָם. כֵּיוָן שֶׁחָטְאוּ, גָּלוּ. אָז שָׁמְעוּ עֲשֶׂרֶת הַשְּׁבָטִים, מֵאֵין מַעֲנֶה בְּפִיהֶם, וְאָמְרוּ: ״הָא אֱלָהָא, הָא תַּקִּיף, הָא קְשׁוֹט, דַּאֲפִלּוּ לִבְנֵי בֵיתֵיהּ לָא נְסִיב אַפִּין״. לְקַיֵּם מַה שֶּׁנֶּאֱמַר: **בְּשִׁבְטֵי יִשְׂרָאֵל הוֹדַעְתִּי נֶאֱמָנָה.**
 
 
 **Ephraim shall be bewildered etc. among the tribes of Israel I made known a true [judgment]** Said Rabbi Abahu in the name of Rabbi Yose bar Chanina. On the day that the Holy One, blessed be He, debates with them in judgment, they will not be able to open their mouths, for among their tribes I made known that the judgment is a true judgment. You find that, when the ten tribes were exiled, Benjamin and Judah were not exiled, and the ten tribes were saying, Because they are the dwellers of His palace, He did not exile them. There is favoritism in this matter. God forbid, there is no favoritism, but their measure of sin was not yet full. As soon as they sinned, they were exiled. Then the ten tribes were bewildered, without an answer in their mouths, and they said, “Behold God! Behold the Mighty One! Behold the Just One! For even to those who dwell in His house He shows no favoritism.” This is to fulfill what is stated: Among the tribes of Israel I made known a true judgment. [from Lam. Rabbah, Proem 6]
@@ -1843,7 +1843,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/6:2:1](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/6:2:1)
 
 
-**יְחַיֵּנוּ מִיּוֹמַיִם.** יְחַזְּקֵנוּ מִשְּׁתֵּי פֻּרְעָנוּת שֶׁעָבְרוּ עָלֵינוּ מִשְּׁתֵּי מִקְדָּשׁוֹת שֶׁחָרְבוּ:
+**יְחַיֵּנוּ מִיֹּמָיִם.** יְחַזְּקֵנוּ מִשְּׁתֵּי פֻּרְעָנוּת שֶׁעָבְרוּ עָלֵינוּ מִשְּׁתֵּי מִקְדָּשׁוֹת שֶׁחָרְבוּ:
 
 
 **He will revive us from the two days** He will strengthen us from the two retributions which have passed over us from the two sanctuaries that were destroyed.
@@ -2012,7 +2012,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/6:7:2](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/6:7:2)
 
 
-**שָׁם בָּגְדוּ בוֹ.** בְּאֶרֶץ טוֹבָה שֶׁהוֹשַׁבְתִּים בָּהּ, שָׁם בָּגְדוּ בִי, כְּאָדָם שֶׁהִכְנַסְתִּיו לְגַן עֵדֶן וְעָבַר עַל מִצְוָתִי:
+**שָׁם בָּגְדוּ בִי.** בְּאֶרֶץ טוֹבָה שֶׁהוֹשַׁבְתִּים בָּהּ, שָׁם בָּגְדוּ בִי, כְּאָדָם שֶׁהִכְנַסְתִּיו לְגַן עֵדֶן וְעָבַר עַל מִצְוָתִי:
 
 
 **there they betrayed Me** In a good land where I settled them, there they betrayed Me, like Adam, whom I brought into the Garden of Eden, and he transgressed My commandment. [from Gen. Rabbah 19:9]
@@ -2051,7 +2051,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/6:9:2](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/6:9:2)
 
 
-**כִּי זִמָּה עָשׂוּ.** כִּי עֵצָה הִיא אֲשֶׁר נִתְיַעֲצוּ לִפְנֵי אֲסִיפָתָם לְאֵיזֶה מָקוֹם יֵלְכוּ לִרְצֹחַ וְלִשְׁלֹל שָׁלָל. **וּכְחַכֵּי** אימדור״ש בְּלַעַ״ז, וְאַף בִּלְשׁוֹן מִשְׁנָה חַכֵּי לְשׁוֹן ׳חִבּוּר׳ הוּא (בבא קמא קיט,ב), וְלֹא יַטִּיל בּוֹ יוֹתֵר מִשְּׁלֹשָׁה חַכִּין, הֵם תְּפִירוֹת שֶׁהַסּוֹרֵק מְחַבֵּר בָּהֶן שְׁנֵי רָאשִׁין מִן הַבֶּגֶד יַחַד כְּשֶׁחוֹבְטוֹ בְּמַקְלוֹת. וְלָשׁוֹן זֶה מִשֶּׁלִּי וְהָגוּן בְּעֵינַי וְכֵן פֵּרוּשׁוֹ, וּכְשֶׁיֵּשׁ בָּהֶם חִבּוּר אָדָם הַנֶּאֱסָפִים יַחַד **חֶבֶר כֹּהֲנִים** הוּא **לִרְצֹחַ**. וְהָרִאשׁוֹן מִדִּבְרֵי רַבִּי מֵאִיר שְׁלִיחַ צִבּוּר זצ״ל:
+**כִּי זִמָּה עָשׂוּ.** כִּי עֵצָה הִיא אֲשֶׁר נִתְיַעֲצוּ לִפְנֵי אֲסִיפָתָם לְאֵיזֶה מָקוֹם יֵלְכוּ לִרְצֹחַ וְלִשְׁלֹל שָׁלָל. **וּכְחַכֵּי** אימדור״ש בְּלַעַ״ז, וְאַף בִּלְשׁוֹן מִשְׁנָה חַכֵּי לְשׁוֹן ׳חִבּוּר׳ הוּא (בבא קמא קיט,ב), וְלֹא יַטִּיל בּוֹ יוֹתֵר מִשְּׁלֹשָׁה חַכִּין, הֵם תְּפִירוֹת שֶׁהַסּוֹרֵק מְחַבֵּר בָּהֶן שְׁנֵי רָאשִׁין מִן הַבֶּגֶד יַחַד כְּשֶׁחוֹבְטוֹ בְּמַקְלוֹת. וְלָשׁוֹן זֶה מִשֶּׁלִּי וְהָגוּן בְּעֵינַי וְכֵן פֵּרוּשׁוֹ, וּכְשֶׁיֵּשׁ בָּהֶם חִבּוּר אָדָם הַנֶּאֱסָפִים יַחַד **חֶבֶר כֹּהֲנִים** הוּא **לִרְצֹחַ.** וְהָרִאשׁוֹן מִדִּבְרֵי רַבִּי מֵאִיר שְׁלִיחַ צִבּוּר זצ״ל:
 
 
 **for they devised a plot** For this is a plot which they plotted prior to their gathering, to which place they would go to murder and to loot. וּכְחַכֵּי means ajjmedours in O.F, fishermen. And also in mishnaic Hebrew, חַכֵּי is an expression of joining. The Gemara states (Baba Kamma 119b): “And he shall not put into it more than three חַכִּין.” Those are the stitches with which the comber joins together both ends of the garment when he beats it with sticks. This [following] interpretation is mine, and it seems appropriate, and this is the explanation: And when there is a group of five men gathering together, it is a company of priests to murder. The first one is that of Rabbi Meir Sheliach Zibbur o.b.m.
@@ -2151,7 +2151,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/7:1:1](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/7:1:1)
 
 
-**כְּרָפְאִי לְיִשְׂרָאֵל.** כְּשֶׁאֲנִי חָפֵץ לְהוֹשִׁיעָם וְלִרְפּאוֹת עֲוֹנוֹתָם, נִגְלוּ לְפָנַי **כִּי פָּעֲלוּ** תָּמִיד **שֶׁקֶר וְגַנָּבִים** מֵהֶם תָּמִיד **בָּאִים** וְגוֹנְבִים מָמוֹן חֲבֵרֵיהֶם, וְאַף **פּוֹשְׁטִים גְּדוּדֵיהֶם** בְּלִסְטִיּוּת לְלַסְטֵם אֶת הַבְּרִיּוֹת:
+**כְּרָפְאִי לְיִשְׂרָאֵל.** כְּשֶׁאֲנִי חָפֵץ לְהוֹשִׁיעָם וְלִרְפּאוֹת עֲוֹנוֹתָם, נִגְלוּ לְפָנַי כִּי פָעֲלוּ תָּמִיד שֶׁקֶר וְגַנָּבִים מֵהֶם תָּמִיד בָּאִים וְגוֹנְבִים מָמוֹן חֲבֵרֵיהֶם, וְאַף פּוֹשְׁטִים גְּדוּדֵיהֶם בְּלִסְטִיּוּת לְלַסְטֵם אֶת הַבְּרִיּוֹת:
 
 
 **When I would heal Israel** When I wish to save them and heal them, their iniquities are revealed before Me, for they constantly commit falsehood, and thieves come constantly from them and steal their neighbors’ property, and also their bands spread out with lawlessness, to rob the people.
@@ -2301,7 +2301,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/7:7:1](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/7:7:1)
 
 
-**וְאָכְלוּ אֶת שׁוֹפְטֵיהֶם.** הָרְגוּ אֶת סַנְהֶדְרִין שֶׁלָּהֶם, לְפִי שֶׁהָיוּ מוֹחִים בְּיָדָם. וּמָה עָלְתָה לָהֶם? כָּל מַלְכֵיהֶם נָפְלוּ, לְפִי שֶׁאֵין קוֹרֵא בָּהֶם אֵלַי. וּבִירוּשַׁלְמִי בְּמַסֶּכֶת עֲבוֹדָה זָרָה (א,א) דָּרְשׁוּ: בְּיוֹם שֶׁהִמְלִיכוּ אֶת יָרָבְעָם, הֵחֵלּוּ שָׂרִים חֲמַת מִיַּיִן (הושע ז:ה), כְּמוֹ שֶׁמְּפֹרָשׁ: אָתוֹן לְגַבֵּיהּ אָמְרִין לֵיהּ, ״קוּם עֲבֵד לָן עכום״. אָמַר לוֹן, ״הַשְׁתָּא עִתֵּי רַמְשָׁא הוּא וְכָל עַמָּא שָׁתְיִין״, כְּלוֹמַר עֵת שִׁכְרוּת הוּא, שֶׁמָּא עַכְשָׁיו שִׁכּוֹרִים אַתֶּם וּמָחָר תַּחְזְרוּ בָּכֶם. ״אִיזְלוּן וְאִיתוּ בְּצַפְרָא״. אָזְלוּ וְאָתוּ בְּצַפְרָא, הָדָא הִיא ״כִּי קֵרְבוּ כַתַּנּוּר וגו׳״ (הושע ז:ו). אָמַר לוֹן, ״אֲנָא דָחִיל מִן סַנְהֶדְרִין דִּילְכוֹן״. אָמְרוּן לֵיהּ, ״אֲנַן קָטְלִינַן לוֹן״. הָדָא הִיא **וְאָכְלוּ אֶת שׁוֹפְטֵיהֶם**.
+**וְאָכְלוּ אֶת שׁוֹפְטֵיהֶם.** הָרְגוּ אֶת סַנְהֶדְרִין שֶׁלָּהֶם, לְפִי שֶׁהָיוּ מוֹחִים בְּיָדָם. וּמָה עָלְתָה לָהֶם? כָּל מַלְכֵיהֶם נָפְלוּ, לְפִי שֶׁאֵין קוֹרֵא בָּהֶם אֵלַי. וּבִירוּשַׁלְמִי בְּמַסֶּכֶת עֲבוֹדָה זָרָה (א,א) דָּרְשׁוּ: בְּיוֹם שֶׁהִמְלִיכוּ אֶת יָרָבְעָם, הֵחֵלּוּ שָׂרִים חֲמַת מִיַּיִן (הושע ז:ה), כְּמוֹ שֶׁמְּפֹרָשׁ: אָתוֹן לְגַבֵּיהּ אָמְרִין לֵיהּ, ״קוּם עֲבֵד לָן עכום״. אָמַר לוֹן, ״הַשְׁתָּא עִתֵּי רַמְשָׁא הוּא וְכָל עַמָּא שָׁתְיִין״, כְּלוֹמַר עֵת שִׁכְרוּת הוּא, שֶׁמָּא עַכְשָׁיו שִׁכּוֹרִים אַתֶּם וּמָחָר תַּחְזְרוּ בָּכֶם. ״אִיזְלוּן וְאִיתוּ בְּצַפְרָא״. אָזְלוּ וְאָתוּ בְּצַפְרָא, הָדָא הִיא ״כִּי קֵרְבוּ כַתַּנּוּר וגו׳״ (הושע ז:ו). אָמַר לוֹן, ״אֲנָא דָחִיל מִן סַנְהֶדְרִין דִּילְכוֹן״. אָמְרוּן לֵיהּ, ״אֲנַן קָטְלִינַן לוֹן״. הָדָא הִיא **וְאָכְלוּ אֶת שׁוֹפְטֵיהֶם.**
 
 
 **and they devour their judges** They slew their Sanhedrin because they protested against them, and what happened to them? **All their kings have fallen because** “none of them calls to me.” And in the Palestinian Talmud in tractate Avodah Zarah (1:1) it is expounded as follows: On the day they crowned Jeroboam, “the princes became ill from the heat of wine” as is explained. They came to him and said to him, “Get up! Make idols for us.” He replied, “Now is the time of evening, and all the people are drinking”; i.e., it is a time of drunkenness. Perhaps now you are drunk, and tomorrow you will recant. “Go and return in the morning.” They went and returned in the morning. That is what is written: “For they have made ready etc.” He said to them, “I fear your Sanhedrin.” They replied, “We will kill them.” I.e. what is written: “And they devour their judges.”
@@ -2351,7 +2351,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/7:9:1](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/7:9:1)
 
 
-**וְהוּא לֹא יָדַע.** לֹא שָׂם אֶל לִבּוֹ שֶׁאֲכָלוּהוּ מַלְכֵי אֲרָם בִּימֵי יְהוֹאָחָז, שֶׁנֶּאֱמַר (מלכים ב יג:ז): ״כִּי לֹא הִשְׁאִיר לִיהוֹאָחָז וגומר וַיְשִׂימֵם כֶּעָפָר לָדוּשׁ״, וְאַף עַל פִּי כֵן לֹא חָזַר יָרָבְעָם בְּנוֹ מִדַּעַת (מֵרָעַת ספרים אחרים) אָבִיו:
+**וְהוּא לֹא יָדָע.** לֹא שָׂם אֶל לִבּוֹ שֶׁאֲכָלוּהוּ מַלְכֵי אֲרָם בִּימֵי יְהוֹאָחָז, שֶׁנֶּאֱמַר (מלכים ב יג:ז): ״כִּי לֹא הִשְׁאִיר לִיהוֹאָחָז וגומר וַיְשִׂימֵם כֶּעָפָר לָדוּשׁ״, וְאַף עַל פִּי כֵן לֹא חָזַר יָרָבְעָם בְּנוֹ מִדַּעַת (מֵרָעַת ספרים אחרים) אָבִיו:
 
 
 **but he did not know** He did not lay it up to his heart that the kings of Aram consumed him in the days of Jehoahaz, as it is said: (II Kings 13:7) “For he had not left to Jehoahaz etc. and made them like dust to trample.” Nonetheless, Jeroboam his son did not repent of his father’s evil.
@@ -2426,7 +2426,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/7:12:1](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/7:12:1)
 
 
-**כַּאֲשֶׁר יֵלְכוּ.** לְמִצְרָיִם:
+**כַּאֲשֶׁר יֵלֵכוּ.** לְמִצְרָיִם:
 
 
 **When they go** to Egypt.
@@ -2448,7 +2448,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/7:12:3](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/7:12:3)
 
 
-**אֲיַסְּרֵם כְּשֵׁמַע לַעֲדָתָם.** אָבִיא עֲלֵיהֶם יִסּוּרִים כְּכָל אֲשֶׁר אֲנִי מַשְׁמִיעַ לַעֲדָתָם בְּיַד יִרְמְיָה הַנָּבִיא, שֶׁעֲתִידִין הֵם לוֹמַר לוֹ: ״הִתְפַּלֵּל נָא בַּעֲדֵנוּ וְגוֹ׳״ (ירמיהו מב:ג), ״וְיַגֶּד לָנוּ ה׳ אֱלֹהֶיךָ וְגוֹמֵר אִם טוֹב וְאִם רָע וְגוֹ׳״ וְאָמַר לָהֶם: ״אִם שׂוֹם תָּשִׂימוּ נַפְשְׁכֶם לָשׁוּב מִצְרַיִם וְהָיְתָה הַחֶרֶב אֲשֶׁר אַתֶּם יְרֵאִים מִמֶּנָּה שָׁם תַּשִּׂיג אֶתְכֶם״ (ירמיהו מב:טו-טז), וְכָל הָעִנְיָן.
+**אַיְסִירֵם כְּשֵׁמַע לַעֲדָתָם.** אָבִיא עֲלֵיהֶם יִסּוּרִים כְּכָל אֲשֶׁר אֲנִי מַשְׁמִיעַ לַעֲדָתָם בְּיַד יִרְמְיָה הַנָּבִיא, שֶׁעֲתִידִין הֵם לוֹמַר לוֹ: ״הִתְפַּלֵּל נָא בַּעֲדֵנוּ וְגוֹ׳״ (ירמיהו מב:ג), ״וְיַגֶּד לָנוּ ה׳ אֱלֹהֶיךָ וְגוֹמֵר אִם טוֹב וְאִם רָע וְגוֹ׳״ וְאָמַר לָהֶם: ״אִם שׂוֹם תָּשִׂימוּ נַפְשְׁכֶם לָשׁוּב מִצְרַיִם וְהָיְתָה הַחֶרֶב אֲשֶׁר אַתֶּם יְרֵאִים מִמֶּנָּה שָׁם תַּשִּׂיג אֶתְכֶם״ (ירמיהו מב:טו-טז), וְכָל הָעִנְיָן.
 
 
 **I will chastise them as I let their congregation hear** I will bring chastisements upon them according to all that I let them hear through Jeremiah the prophet, that they are destined to say to him (42:2-6) “And pray in our behalf etc. And let the Lord your God tell etc. Whether good or bad etc.” And he said to them (verse 15f.), “If you direct your faces to come to Egypt etc. the sword that you fear will overtake you there,” and the entire section.
@@ -2459,7 +2459,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/7:12:4](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/7:12:4)
 
 
-**אִיסִירֵם.** לְשׁוֹן ׳יִסּוּרִין׳. וּמְנַחֵם פֵּרֵשׁ: לְשׁוֹן ׳קֶשֶׁר׳ וּ״מוֹסְרוֹתֶיךָ אֲנַתֵּק״ (ירמיהו ל:ח). אֲבָל דּוֹנַשׁ פָּתַר: לְשׁוֹן ׳יִסּוּרִין׳, כְּמוֹ (ויקרא כו:כח) ״לְיַסֵּר אֶתְכֶם״. וְנוֹסַף הַיּוֹ״ד הַשֵּׁנִי בְּ״אִיסִירֵם״, כַּאֲשֶׁר נוֹסַף בְּ״יַיְשִׁירוּ״ – ״וְעַפְעַפֶּיךָ יַיְשִׁירוּ נֶגְדֶּךָ״ (משלי ד:כה). לָשׁוֹן אַחֵר: **כְּעוֹף הַשָּׁמַיִם** הַנִּלְכָּד בָּרֶשֶׁת הַתְּלוּיָה עַל כְּלוֹנְסוֹת, וּלְאַחַר שֶׁהֵם בָּרֶשֶׁת, מוֹרִידִין הָרֶשֶׁת.
+**אַיְסִירֵם.** לְשׁוֹן ׳יִסּוּרִין׳. וּמְנַחֵם פֵּרֵשׁ: לְשׁוֹן ׳קֶשֶׁר׳ וּ״מוֹסְרוֹתֶיךָ אֲנַתֵּק״ (ירמיהו ל:ח). אֲבָל דּוֹנַשׁ פָּתַר: לְשׁוֹן ׳יִסּוּרִין׳, כְּמוֹ (ויקרא כו:כח) ״לְיַסֵּר אֶתְכֶם״. וְנוֹסַף הַיּוֹ״ד הַשֵּׁנִי בְּ״אִיסִירֵם״, כַּאֲשֶׁר נוֹסַף בְּ״יַיְשִׁירוּ״ – ״וְעַפְעַפֶּיךָ יַיְשִׁירוּ נֶגְדֶּךָ״ (משלי ד:כה). לָשׁוֹן אַחֵר: **כְּעוֹף הַשָּׁמַיִם** הַנִּלְכָּד בָּרֶשֶׁת הַתְּלוּיָה עַל כְּלוֹנְסוֹת, וּלְאַחַר שֶׁהֵם בָּרֶשֶׁת, מוֹרִידִין הָרֶשֶׁת.
 
 
 **I will chastise them** Heb. אַיְסִירֵם, an expression of chastisements (יִסּוּרִין) and Menahem (Machbereth Menahem pp. 128f.) explained [it as] an expression of binding. Comp. (Jer. 30:8) “and I will break your thongs (מוֹסְרוֹתֶיךָ),” but Dunash (Teshuvoth Dunash p. 34) interpreted [it as] an expression of chastisements (יִסּוּרִין). Comp. (Lev. 26:18) “to chastise you (לְיַסְרָה).” And the second “yud” in אַיְסִירֵם is added, as it is added in (יַיְשִׁירוּ) (Prov. 4:25) “and your eyelids look straight (יַיְשִירוּ) ahead of you.”
@@ -2473,7 +2473,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/7:13:1](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/7:13:1)
 
 
-**וַאֲנֹכִי אֶפְדֵּם.** אֲנִי הָיִיתִי חָפֵץ לִפְדוֹתָם מֵרָעָה אֲשֶׁר הֵם בָּהּ:
+**וְאָנֹכִי אֶפְדֵּם.** אֲנִי הָיִיתִי חָפֵץ לִפְדוֹתָם מֵרָעָה אֲשֶׁר הֵם בָּהּ:
 
 
 **I would redeem them** I wanted to redeem them from the evil in which they are [found].
@@ -2809,7 +2809,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/8:10:3](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/8:10:3)
 
 
-**וַיָּחֵלּוּ מְעַט מִמַּשָּׂא מֶלֶךְ שָׂרִים.** וְיִכָּנְעוּ מְעַט בְּגָלוּת בְּבָבֶל מִיִּרְאַת מַשָּׂא מֶלֶךְ שָׂרִים, מֵעֹל הָאֻמּוֹת שֶׁהָיוּ בְּתוֹכָם:
+**וַיָּחֵלּוּ מְּעָט מִמַּשָּׂא מֶלֶךְ שָׂרִים.** וְיִכָּנְעוּ מְעַט בְּגָלוּת בְּבָבֶל מִיִּרְאַת מַשָּׂא מֶלֶךְ שָׂרִים, מֵעֹל הָאֻמּוֹת שֶׁהָיוּ בְּתוֹכָם:
 
 
 **and they will be humbled a little from the burden of the king and the princes** And they will be humbled a little in their exile from the fear of the burden of the king and the princes, i.e. from the yoke of the kings of the nations among whom they were.
@@ -2837,7 +2837,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/8:12:1](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/8:12:1)
 
 
-**אֶכְתֹּב לוֹ.** אֲנִי תָמִיד מוֹכִיחוֹ עַל יְדֵי נְבִיאַי, וְכוֹתֵב לוֹ רֻבֵּי תוֹרָתִי וְהֵם כְּמוֹ זָר נֶחְשָׁבוּ:
+**אֶכְתׇּב לוֹ.** אֲנִי תָמִיד מוֹכִיחוֹ עַל יְדֵי נְבִיאַי, וְכוֹתֵב לוֹ רֻבֵּי תוֹרָתִי וְהֵם כְּמוֹ זָר נֶחְשָׁבוּ:
 
 
 **I write for them** I constantly reprimand them through My prophets, and write for them the great things of My Law, but they are considered a strange thing.
@@ -2901,7 +2901,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/9:1:3](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/9:1:3)
 
 
-**עַל כָּל גְּרָנוֹת.** כְּדֶרֶךְ זוֹנָה שֶׁנּוֹתְנִין לָהּ דָּגָן בַּגֹּרֶן בְּאֶתְנַנָּהּ (בראשית רבה נז:ד):
+**עַל כָּל גׇּרְנוֹת.** כְּדֶרֶךְ זוֹנָה שֶׁנּוֹתְנִין לָהּ דָּגָן בַּגֹּרֶן בְּאֶתְנַנָּהּ (בראשית רבה נז:ד):
 
 
 **on all threshing floors of corn** In the manner of the harlot to whom they give corn on the threshing floor for her hire. [after Gen. Rabbah 57:4]
@@ -2962,7 +2962,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/9:4:4](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/9:4:4)
 
 
-**כִּי לַחְמָם לְנַפְשָׁם** רָאוּי הוּא זֶה לָהֶם לְמַאֲכָל וְלֹא לָבוֹא לְבֵית ה׳. דָּבָר אַחֵר: **כְּלֶחֶם אוֹנִים** כְּלֶחֶם אֲבֵלִים שֶׁהוּא טָמֵא (דברים כו:יד), וְסוֹפוֹ מוֹכִיחַ **כָּל אוֹכְלָיו יִטְמָאוּ**:
+**כִּי לַחְמָם לְנַפְשָׁם** רָאוּי הוּא זֶה לָהֶם לְמַאֲכָל וְלֹא לָבוֹא לְבֵית ה׳. דָּבָר אַחֵר: **כְּלֶחֶם אוֹנִים** כְּלֶחֶם אֲבֵלִים שֶׁהוּא טָמֵא (דברים כו:יד), וְסוֹפוֹ מוֹכִיחַ **כָּל אוֹכְלָיו יִטַּמָּאוּ**:
 
 
 **for their bread is for themselves** It is fit for them for food, but not to come into the house of the Lord. Another explanation is: אוֹנִים, like bread of mourners, which is contaminated, and the end of the verse proves it: all those who partake thereof become contaminated.
@@ -3034,7 +3034,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/9:6:4](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/9:6:4)
 
 
-**קִימּוֹשׁ. חוֹחַ** מִינֵי חַיּוֹת תִּרְגֵּם יוֹנָתָן:
+**קִמּוֹשׂ. חוֹחַ.** מִינֵי חַיּוֹת תִּרְגֵּם יוֹנָתָן:
 
 
 **thistles etc. briers** Heb. קִימוֹשׁ חוֹחַ. Jonathan renders these terms as species of beasts.
@@ -3106,7 +3106,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/9:8:2](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/9:8:2)
 
 
-**נָבִיא פַּח יָקוּשׁ עַל כָּל דְּרָכָיו.** וְלִנְבִיאֵי הָאֱמֶת הֵם טוֹמְנִין פַּחִים לְלָכְדָם:
+**נָבִיא פַּח יָקוֹשׁ עַל כָּל דְּרָכָיו.** וְלִנְבִיאֵי הָאֱמֶת הֵם טוֹמְנִין פַּחִים לְלָכְדָם:
 
 
 **[for the] prophet [they lay] a fowler’s snare on all his ways** And for the true prophet they conceal snares to trap them.
@@ -3275,7 +3275,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/9:13:1](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/9:13:1)
 
 
-**אֶפְרַיִם כַּאֲשֶׁר רָאִיתִי לְצוֹר** בְּשַׁלְוָתָהּ מַעֲטִירָה (ישעיה כג:ח) וַעֲשִׁירָה עַל כָּל הַמְּדִינוֹת, כֵּן רָאִיתִי לְאֶפְרַיִם שְׁתוּלָה בְּנָוֶה. וְאֶפְרַיִם מַה גְּמוּל שִׁלֵּם לִי? נִתְעַסֵּק לְהוֹצִיא אֶל הוֹרֵג בָּנָיו לְזָבְחָם לַעֲבוֹדָה זָרָה שֶׁל מֹלֶךְ. כֵּן תִּרְגֵּם יוֹנָתָן:
+**אֶפְרַיִם כַּאֲשֶׁר רָאִיתִי לְצוֹר.** בְּשַׁלְוָתָהּ מַעֲטִירָה (ישעיה כג:ח) וַעֲשִׁירָה עַל כָּל הַמְּדִינוֹת, כֵּן רָאִיתִי לְאֶפְרַיִם שְׁתוּלָה בְּנָוֶה. וְאֶפְרַיִם מַה גְּמוּל שִׁלֵּם לִי? נִתְעַסֵּק לְהוֹצִיא אֶל הוֹרֵג בָּנָיו לְזָבְחָם לַעֲבוֹדָה זָרָה שֶׁל מֹלֶךְ. כֵּן תִּרְגֵּם יוֹנָתָן:
 
 
 **Ephraim, as I saw Tyre** in its tranquility, enjoying royalty and wealth more than all the provinces, so did I see Ephraim, planted in a dwelling place. But Ephraim what recompense did he recompense Me? He occupied himself with taking his children out to the slayer, to slaughter them in worship of the idols. So did Jonathan translate.
@@ -3325,7 +3325,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/9:15:2](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/9:15:2)
 
 
-**לֹא אוֹסִף אַהֲבָתָם.** לֶאֱהוֹב אוֹתָם:
+**לֹא אוֹסֵף אַהֲבָתָם.** לֶאֱהוֹב אוֹתָם:
 
 
 **I will not continue to love them** Heb. לֹא אוֹסֵף אַהֲבָתָם, lit. I will not continue their love.
@@ -3339,7 +3339,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/9:16:1](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/9:16:1)
 
 
-**פְּרִי בַל יַעֲשׂוּן.** לֹא טוֹב לָהֶם לִפְרוֹת וְלִרְבּוֹת, שֶׁהֲרֵי **גַּם כִּי יֵלְדוּ וְהֵמַתִּי מַחֲמַדֵּי בִטְנָם**:
+**פְּרִי בַל יַעֲשׂוּן.** לֹא טוֹב לָהֶם לִפְרוֹת וְלִרְבּוֹת, שֶׁהֲרֵי **גַּם כִּי יֵלֵדוּ וְהֵמַתִּי מַחֲמַדֵּי בִטְנָם**:
 
 
 **they shall not produce fruit** It is not good for them to multiply, for, even if they bear children, I will slay the precious ones of their womb.
@@ -3381,7 +3381,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/10:1:2](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/10:1:2)
 
 
-**פְּרִי יְשַׁוֶּה לוֹ. פְּרִי** אֲשֶׁר **יִשְׁוֶה לוֹ** וְיִיטַב לוֹ:
+**פְּרִי יְשַׁוֶּה לוֹ. פְּרִי** אֲשֶׁר **יְשַׁוֶּה לוֹ** וְיִיטַב לוֹ:
 
 
 **fruit fitting for it** The fruit that is fitting for them and good for them.
@@ -3456,7 +3456,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/10:4:1](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/10:4:1)
 
 
-**אָלוֹת שָׁוְא.** הִשָּׁבַע לַשֶּׁקֶר. ׳אָלוֹת׳ כְּמוֹ ׳כָּרוֹת׳, לְשׁוֹן הוֹוֶה. **כָּרוֹת בְּרִית** לַעֲבוֹדָה זָרָה שֶׁל מלֶךְ, לְפִיכָךְ יִפְרַח עֲלֵיהֶם מִשְׁפָּט יִסּוּרִין וּפֻרְעָנוּת **כָּרֹאשׁ** שֶׁהוּא עֵשֶׂב מַר הַפּוֹרֵחַ **עַל תַּלְמֵי שָׂדָי**. וְיוֹנָתָן תִּרְגִּם **עַל תַּלְמֵי שָׂדָי** בַּעֲוֹן שֶׁמַּסִּיגִין גְּבוּלֵי שָׂדוֹת:
+**אָלוֹת שָׁוְא.** הִשָּׁבַע לַשֶּׁקֶר. ׳אָלוֹת׳ כְּמוֹ ׳כָּרוֹת׳, לְשׁוֹן הוֹוֶה. **כָּרוֹת בְּרִית** לַעֲבוֹדָה זָרָה שֶׁל מלֶךְ, לְפִיכָךְ יִפְרַח עֲלֵיהֶם מִשְׁפָּט יִסּוּרִין וּפֻרְעָנוּת **כָּרֹאשׁ** שֶׁהוּא עֵשֶׂב מַר הַפּוֹרֵחַ **עַל תַּלְמֵי שָׂדָי.** וְיוֹנָתָן תִּרְגִּם **עַל תַּלְמֵי שָׂדָי** בַּעֲוֹן שֶׁמַּסִּיגִין גְּבוּלֵי שָׂדוֹת:
 
 
 **swearing falsely** Heb. אָלוֹת שָוְא, swearing falsely. אָלוֹת is, in construction, like כָּרֹת, a present tense. **forming a covenant** with pagan worship. Therefore, judgment of torments and retribution shall spring up upon them. **like hemlock** which is a bitter grass, springing up on the furrows of the field. And Jonathan renders: **on the furrows of the field** for the iniquity that they move back the boundaries of the field.
@@ -3467,7 +3467,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/10:4:2](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/10:4:2)
 
 
-**תַּלְמֵי שָׂדַי** – מַעֲנִית הַמַּחֲרֵשָׁה קָרוּי ׳תֶּלֶם׳. דָּבָר אַחֵר: **עַל תַּלְמֵי שָׂדַי** – שֶׁהֵם עוֹשִׂים שָׁם מִזְבְּחוֹתָם, כְּמוֹ שֶׁנֶּאֱמַר: ״גַּם מִזְבְּחוֹתָם כְּגַלִּים עַל תַּלְמֵי שָׂדָי״ (לקמן יב:יב), שָׁם יִפְרַח עֲלֵיהֶם מִשְׁפַּט עֲוֹנָם. דָּבָר אַחֵר: **אָלוֹת שָׁוְא** – כָּל בְּרִית שֶׁהֵם כּוֹרְתִים זֶה עִם זֶה עוֹבְרִים עָלָיו. **וּפָרַח כָּרֹאשׁ מִשְׁפָּט עַל תַּלְמֵי שָׂדַי** – כָּרֹאשׁ שֶׁהוּא פּוֹרֵחַ עַל תַּלְמֵי שָׂדַי, שֶׁהוּא עֵשֶׂב מַר, כָּךְ מִשְׁפְּטֵיהֶם פּוֹרְחִים וְגְדֵלִים תַּמְרוּרִים לַעֲנִיִּים וְאֶבְיוֹנִים. וְאַף עָמוֹס אָמַר כֵּן: ״כִּי הֲפַכְתֶּם לְלַעֲנָה מִשְׁפָּט״ (עמוס ו:יב):
+**תַּלְמֵי שָׂדָי** – מַעֲנִית הַמַּחֲרֵשָׁה קָרוּי ׳תֶּלֶם׳. דָּבָר אַחֵר: **עַל תַּלְמֵי שָׂדָי** – שֶׁהֵם עוֹשִׂים שָׁם מִזְבְּחוֹתָם, כְּמוֹ שֶׁנֶּאֱמַר: ״גַּם מִזְבְּחוֹתָם כְּגַלִּים עַל תַּלְמֵי שָׂדָי״ (לקמן יב:יב), שָׁם יִפְרַח עֲלֵיהֶם מִשְׁפַּט עֲוֹנָם. דָּבָר אַחֵר: **אָלוֹת שָׁוְא** – כָּל בְּרִית שֶׁהֵם כּוֹרְתִים זֶה עִם זֶה עוֹבְרִים עָלָיו. **וּפָרַח כָּרֹאשׁ מִשְׁפָּט עַל תַּלְמֵי שָׂדָי** – כָּרֹאשׁ שֶׁהוּא פּוֹרֵחַ עַל תַּלְמֵי שָׂדַי, שֶׁהוּא עֵשֶׂב מַר, כָּךְ מִשְׁפְּטֵיהֶם פּוֹרְחִים וְגְדֵלִים תַּמְרוּרִים לַעֲנִיִּים וְאֶבְיוֹנִים. וְאַף עָמוֹס אָמַר כֵּן: ״כִּי הֲפַכְתֶּם לְלַעֲנָה מִשְׁפָּט״ (עמוס ו:יב):
 
 
 **the furrows** Heb. תַּלְמֵי. The furrow of a plowshare is called תֶּלֶם. Another explanation: **on the furrows of the field** where they erect their altars, as it is said (below 12:12): “like heaps on the furrows of the field.” There the judgment for their iniquity shall spring up on them. Another explanation: **swearing falsely** Every covenant they form with one another they break. **and...shall spring up like hemlock** which springs up on the furrows of the field, which is a bitter grass, so do their judgments spring up and bitterness grows for the poor and needy. Amos, too, says: (6:12) “For you have turned judgment into hemlock.”
@@ -3528,7 +3528,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/10:6:3](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/10:6:3)
 
 
-**בָּשְׁנָה אֶפְרַיִם יִקַּח.** בֹּשֶׁת יִקַּח לוֹ יָרָבְעָם, שֶׁהוּא מִשֵּׁבֶט אֶפְרַיִם, שֶׁהֶעֱמִיד לוֹ עֵגֶל זֶה לֶאֱלוֹהַּ (מלכים א יב:כח-כט):
+**בָּשְׁנָה אֶפְרַיִם יִקָּח.** בֹּשֶׁת יִקַּח לוֹ יָרָבְעָם, שֶׁהוּא מִשֵּׁבֶט אֶפְרַיִם, שֶׁהֶעֱמִיד לוֹ עֵגֶל זֶה לֶאֱלוֹהַּ (מלכים א יב:כח-כט):
 
 
 **Ephraim shall take shame** Heb. בָּשְׁנָה. Jeroboam, who was from the tribe of Ephraim, shall take shame for himself, that he erected this calf for a deity.
@@ -3614,7 +3614,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/10:9:1](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/10:9:1)
 
 
-**מִימֵי הַגִּבְעָה חָטָאת יִשְׂרָאֵל.** חָטָאת זֶה נָקוּד רָפֵי, שֶׁהוּא לְשׁוֹן נְקֵבָה וּלְשֶׁעָבַר, כְּמוֹ: עָשָׂת, בָּאת, אָזְלַת יָד. מִימֵי גִּבְעַת בִּנְיָמִין חָטָאת יִשְׂרָאֵל, לְפִי שֶׁהָיָה מַעֲשֵׂה פִּלֶגֶשׁ בַּגִּבְעָה בִּימֵי עָתְנִיאֵל בֶּן קְנַז, שֶׁהָיָה רִאשׁוֹן לַשּׁוֹפְטִים בִּימֵי כּוּשַׁן רִשְׁעָתַיִם, וּבְיָמָיו הָיָה פֶּסֶל מִיכָה, וְכָל זֶה מָצִינוּ בְּסֵדֶר עוֹלָם:
+**מִימֵי הַגִּבְעָה חָטָאתָ יִשְׂרָאֵל.** חָטָאת זֶה נָקוּד רָפֵי, שֶׁהוּא לְשׁוֹן נְקֵבָה וּלְשֶׁעָבַר, כְּמוֹ: עָשָׂת, בָּאת, אָזְלַת יָד. מִימֵי גִּבְעַת בִּנְיָמִין חָטָאת יִשְׂרָאֵל, לְפִי שֶׁהָיָה מַעֲשֵׂה פִּלֶגֶשׁ בַּגִּבְעָה בִּימֵי עָתְנִיאֵל בֶּן קְנַז, שֶׁהָיָה רִאשׁוֹן לַשּׁוֹפְטִים בִּימֵי כּוּשַׁן רִשְׁעָתַיִם, וּבְיָמָיו הָיָה פֶּסֶל מִיכָה, וְכָל זֶה מָצִינוּ בְּסֵדֶר עוֹלָם:
 
 
 **Since the days of Gibeah, you have sinned, O Israel!** Heb. חָטָאתָ. This word חָטָאת is punctuated weakly, since it is of the feminine gender and of the past tense. Comp. (Lev. 25:21) וְעָשָת, “and it shall produce”; (Gen. 16:8) בָאת, “have you come”; (Deut. 32:36) אָזְלַת, “their power is gone.” From the days of Gibeah of Benjamin, Israel sinned. Since the incident of the concubine in Gibeah (Jud. 19) took place during the time of Othniel the son of Kenaz, who was the first of the judges, at the time of Cushan-rishathaim, and in whose time the image of Micah existed, and all this we find in Seder Olam (ch. 12).
@@ -3794,7 +3794,7 @@ And חֶלְיָתָה is an Arabic term meaning jewelry.
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/10:14:3](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/10:14:3)
 
 
-**בֵּית אַרְבְּאֵל.** יוֹנָתָן תִּרְגְּמוֹ ׳בֵּית מַאֲרָב׳, וְאָלֶ״ף וְלָמֶ״ד יְתֵרָה בּוֹ, כְּמוֹ ׳יִזְרְעֶאל׳ שֶׁאֵינוֹ שֵׁם עִיר, כְּגוֹן (לעיל ב) ״יַעֲנוּ אֶת יִזְרְעֶאל״, וּקְרָאוֹ בִּלְשׁוֹן שֵׁם עִיר. אַף כָּאן קָרָא אוֹתוֹ כְּמִין שֵׁם עִיר, וְכֵן חִבְּרוֹ מְנַחֵם, אֲבָל דּוֹנָשׁ פּוֹתְרוֹ שֵׁם מָקוֹם:
+**בֵּית אַרְבֵאל.** יוֹנָתָן תִּרְגְּמוֹ ׳בֵּית מַאֲרָב׳, וְאָלֶ״ף וְלָמֶ״ד יְתֵרָה בּוֹ, כְּמוֹ ׳יִזְרְעֶאל׳ שֶׁאֵינוֹ שֵׁם עִיר, כְּגוֹן (לעיל ב) ״יַעֲנוּ אֶת יִזְרְעֶאל״, וּקְרָאוֹ בִּלְשׁוֹן שֵׁם עִיר. אַף כָּאן קָרָא אוֹתוֹ כְּמִין שֵׁם עִיר, וְכֵן חִבְּרוֹ מְנַחֵם, אֲבָל דּוֹנָשׁ פּוֹתְרוֹ שֵׁם מָקוֹם:
 
 
 **an ambush** Heb. בֵּית אַרְבֵּאל. Jonathan renders: a place of ambush (בֵּית מַאֲרָב), and the “aleph” “lammed” are superfluous. Comp. יִזְרְעֶאל, which is not the name of a city, e.g., (above 2: 24) “And they shall answer Jezreel,” and he called it with the expression of a name. Here, too, he called it as a sort of name. In this manner, Menahem (Machbereth Menahem p. 34) classified it, but Dunash (Teshuvoth Dunash p. 49) interprets it as a placename.
@@ -3955,7 +3955,7 @@ The form תִּרְגַּלְתִּי is like הִרגַּלְתִּי, I traine
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/11:4:2](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/11:4:2)
 
 
-**וָאֶהְיֶה לָהֶם כִּמְרִימֵי עֹל עַל לְחֵיהֶם.** כְּאִכָּרִים הַטּוֹבִים הַמְּרִימִים עֹל בִּידֵיהֶם עַל יְדֵי לְוָחִים לְהָקֵל מֵעַל הַפָּרָה הַחוֹרֶשֶׁת, כֵּן הָיִיתִי עִמָּם בְּכָל צָרָה לְהָקֵל מֵעֲלֵיהֶן. (ל"א סא"א) **כִּמְרִימֵי עֹל עַל לְחֵיהֶם** – כְּאִכָּרִים הַמְּרִימִים עֹל מֵעַל צַוַּאר הַשּׁוֹר עַל יְדֵי שֶׁמַּאֲרִיכִין אֶת הַכְּלוֹנָס שֶׁהָעֹל נִתַּן בְּרֹאשׁוֹ, לְהָקֵל מֵעַל הַפָּרָה הַחוֹרֶשֶׁת, כֵּן הָיִיתִי עִמָּם בְּכָל צָרָה לְהָקֵל מֵעֲלֵיהֶם. כֵּן תִּרְגֵּם יוֹנָתָן: ״כְּאִיכָּרָא טָבָא וּמוֹרִיךְ בִּלְחֵיאָתְהוֹן״.
+**וָאֶהְיֶה לָהֶם כִּמְרִימֵי עֹל עַל לְחֵיהֶם.** כְּאִכָּרִים הַטּוֹבִים הַמְּרִימִים עֹל בִּידֵיהֶם עַל יְדֵי לְוָחִים לְהָקֵל מֵעַל הַפָּרָה הַחוֹרֶשֶׁת, כֵּן הָיִיתִי עִמָּם בְּכָל צָרָה לְהָקֵל מֵעֲלֵיהֶן. (ל״א סא״א) **כִּמְרִימֵי עֹל עַל לְחֵיהֶם** – כְּאִכָּרִים הַמְּרִימִים עֹל מֵעַל צַוַּאר הַשּׁוֹר עַל יְדֵי שֶׁמַּאֲרִיכִין אֶת הַכְּלוֹנָס שֶׁהָעֹל נִתַּן בְּרֹאשׁוֹ, לְהָקֵל מֵעַל הַפָּרָה הַחוֹרֶשֶׁת, כֵּן הָיִיתִי עִמָּם בְּכָל צָרָה לְהָקֵל מֵעֲלֵיהֶם. כֵּן תִּרְגֵּם יוֹנָתָן: ״כְּאִיכָּרָא טָבָא וּמוֹרִיךְ בִּלְחֵיאָתְהוֹן״.
 
 
 **and I was to them like those who lift the yoke on their bridles** I.e., like the good farmers who lift the yoke with their hands through bridles to lighten it for the cow that is plowing. So was I with them in every trouble, to make it lighter for them. Another explanation: **like those who lift the yoke on their bridles** Like the farmers who lift the yoke off the neck of the cow or the ox by lengthening the peg upon which the yoke is placed, to lighten it for the plowing cow. So was I with them in every trouble to make it lighter for them. So did Jonathan render it: like a good farmer [who makes it lighter for the shoulders of the oxen and lengthens their bridles.]
@@ -3991,7 +3991,7 @@ The form תִּרְגַּלְתִּי is like הִרגַּלְתִּי, I traine
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/11:5:1](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/11:5:1)
 
 
-**לֹא יָשׁוּב אֶל אֶרֶץ מִצְרַיִם.** הִבְטַחְתִּיו ״לֹא תוֹסִיפוּ לִרְאוֹתָם עוֹד וְגוֹ׳״ (שמות יד:יג), וּמַה הוֹעִיל? הֲרֵי עַל כָּרְחוֹ **אַשּׁוּר הוּא מַלְכּוֹ**. הֲרֵי חָטְאוּ וְגָרְמוּ לָהֶם לִהְיוֹת עֲבָדִים לְאַשּׁוּר, עַל **כִּי מֵאֲנוּ לָשׁוּב**.
+**לֹא יָשׁוּב אֶל אֶרֶץ מִצְרַיִם.** הִבְטַחְתִּיו ״לֹא תוֹסִיפוּ לִרְאוֹתָם עוֹד וְגוֹ׳״ (שמות יד:יג), וּמַה הוֹעִיל? הֲרֵי עַל כָּרְחוֹ **אַשּׁוּר הוּא מַלְכּוֹ.** הֲרֵי חָטְאוּ וְגָרְמוּ לָהֶם לִהְיוֹת עֲבָדִים לְאַשּׁוּר, עַל **כִּי מֵאֲנוּ לָשׁוּב.**
 
 
 **He shall not return to the land of Egypt** I promised him (Ex. 14:13): “you shall no longer continue to see them etc.” Now what did it avail? Against his will, Assyria is his king. They sinned and brought about that they should be vassals to Assyria since they refused to repent.
@@ -4016,7 +4016,7 @@ The form תִּרְגַּלְתִּי is like הִרגַּלְתִּי, I traine
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/11:6:2](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/11:6:2)
 
 
-**וְכִלְּתָה בַדָּיו וְאָכְלָה.** וְכִלְּתָה גִבּוֹרָיו וְתֹאכְלֵם:
+**וְכִלְּתָה בַדָּיו וְאָכָלָה.** וְכִלְּתָה גִבּוֹרָיו וְתֹאכְלֵם:
 
 
 **and it shall destroy his branches, and it shall consume** And it shall destroy his mighty men and consume them. [after Targum Jonathan]
@@ -4052,7 +4052,7 @@ The form תִּרְגַּלְתִּי is like הִרגַּלְתִּי, I traine
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/11:7:2](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/11:7:2)
 
 
-**וְאֶל עַל יִקְרָאֻהוּ יַחַד לֹא יְרוֹמֵם.** וְאֶל הַדָּבָר אֲשֶׁר עָלָיו יִקְרָאוּהוּ הַנְּבִיאִים יַחַד, לֹא יְרוֹמְמוּהוּ עַמִּי וְלֹא יֵאוֹת לַעֲשׂוֹתוֹ. וְיֵשׁ מְפָרֵשׁ ״וְאֶל עַל יִקְרָאֻהוּ״ – פְּגָעִים קָשִׁים יִפְגְּעוּם, וְ׳אֶל׳ כְּמוֹ ״יֵשׁ לְאֵל יָדִי״ (בראשית לא:כט), וְאֵין זֹאת, שֶׁהֲרֵי נָקוּד בְּפַתַּח, וְאִם הָיָה וְאֵל שֵׁם דָּבָר הָיָה נָקוּד בְּצֵירֵי. וְיוֹנָתָן תִּרְגֵּם: ״בְּמַרְעָא קַשְׁיָא יִתְעָרְעוּן״, עָשָׂה אֶל (סא"א: עַל) לְשׁוֹן ׳קָשֶׁה׳, וְלִי נִרְאֶה שֶׁפֵּרַשְׁתִּי כַּהֹגֶן:
+**וְאֶל עַל יִקְרָאֻהוּ יַחַד לֹא יְרוֹמֵם.** וְאֶל הַדָּבָר אֲשֶׁר עָלָיו יִקְרָאוּהוּ הַנְּבִיאִים יַחַד, לֹא יְרוֹמְמוּהוּ עַמִּי וְלֹא יֵאוֹת לַעֲשׂוֹתוֹ. וְיֵשׁ מְפָרֵשׁ ״וְאֶל עַל יִקְרָאֻהוּ״ – פְּגָעִים קָשִׁים יִפְגְּעוּם, וְ׳אֶל׳ כְּמוֹ ״יֵשׁ לְאֵל יָדִי״ (בראשית לא:כט), וְאֵין זֹאת, שֶׁהֲרֵי נָקוּד בְּפַתַּח, וְאִם הָיָה וְאֵל שֵׁם דָּבָר הָיָה נָקוּד בְּצֵירֵי. וְיוֹנָתָן תִּרְגֵּם: ״בְּמַרְעָא קַשְׁיָא יִתְעָרְעוּן״, עָשָׂה אֶל (סא״א: עַל) לְשׁוֹן ׳קָשֶׁה׳, וְלִי נִרְאֶה שֶׁפֵּרַשְׁתִּי כַּהֹגֶן:
 
 
 **and to the matter concerning which they call them, together they do not uphold it** And to the matter concerning which the prophets call them, together My people will not uphold it and will not agree to do it. Some explain וְאֶל-עַל יִקְרָאֻהוּ to mean: Harsh happenings shall befall them. The word וְאֶל means the same as (Gen. 31:29) “My hand has power (לְאֵל),” [and the word עַל means the same as עֲלִילוֹת, deeds (Kara). But this is not so since אֶל is vowelized with a “pattah.” [I.e. with a “segol,” called “pattah katan” by the early grammarians.] Were אֶל a noun, it would be vowelized with a “tseireh,” [i.e., אֵל]. Jonathan, however, renders: A harsh happening will befall them. He interprets וְאֶל as an expression of harshness, but it appears to me that I have interpreted it properly.
@@ -4411,7 +4411,7 @@ The form תִּרְגַּלְתִּי is like הִרגַּלְתִּי, I traine
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/12:13:2](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/12:13:2)
 
 
-**וּבְאִשָּׁה שָׁמַר.** אֶת הַצֹּאן:
+**וּבְאִשָּׁה שָׁמָר.** אֶת הַצֹּאן:
 
 
 **and for a wife he guarded** the flocks.
@@ -4594,7 +4594,7 @@ The form תִּרְגַּלְתִּי is like הִרגַּלְתִּי, I traine
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/13:3:2](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/13:3:2)
 
 
-**כְּמוֹץ יְסוֹעַר מִגֹּרֶן.** ״כְּמוֹצָא דְּנָשְׁבָה רוּחַ מֵאִידְרָא״:
+**כְּמוֹץ יְסֹעֵר מִגֹּרֶן.** ״כְּמוֹצָא דְּנָשְׁבָה רוּחַ מֵאִידְרָא״:
 
 
 **like chaff that is driven with the wind out of the threshingfloor** Jonathan renders: Like chaff which the wind blows from the threshingfloor.
@@ -4605,7 +4605,7 @@ The form תִּרְגַּלְתִּי is like הִרגַּלְתִּי, I traine
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/13:3:3](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/13:3:3)
 
 
-**יְסֹעַר.** אֲשֶׁר סְעָרָה תִּשָּׂאֶנּוּ:
+**יְסֹעֵר.** אֲשֶׁר סְעָרָה תִּשָּׂאֶנּוּ:
 
 
 {e wind lifts up.}
@@ -4761,7 +4761,7 @@ The form תִּרְגַּלְתִּי is like הִרגַּלְתִּי, I traine
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/13:12:1](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/13:12:1)
 
 
-**צָרוּר עֲוֹן אֶפְרַיִם.** לֹא וִתַּרְתִּי עָלָיו, ״צָפוּן הוּא אִתִּי״ (דברים לב:לד):
+**צָרוּר עֲוֺן אֶפְרָיִם.** לֹא וִתַּרְתִּי עָלָיו, ״צָפוּן הוּא אִתִּי״ (דברים לב:לד):
 
 
 **The iniquity of Ephraim is bound up** I did not overlook it; it is laid up with Me.
@@ -4858,7 +4858,7 @@ The form תִּרְגַּלְתִּי is like הִרגַּלְתִּי, I traine
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/13:15:2](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/13:15:2)
 
 
-**יַפְרִיא.** לְשׁוֹן ״פּוֹרֶה רֹאשׁ וְלַעֲנָה״ (דברים כט:יז). וַאֲנִי אוֹמֵר ׳אַחִים׳ לְשׁוֹן ״וַתִּרְעֶינָה בָאָחוּ״ (בראשית מא:ב), בֵּין **אַחִים יַפְרִיא** – מַפְרִיחַ וְצוֹמֵחַ בָּאָחוּ בֵּין אַחִים, בֵּין הַגָּדֵל בְּפַלְגֵי מַיִם אֲשֶׁר תָּמִיד יַפְרִיא. וּלְפִי שֶׁדִּמָּהוּ לְאָחוּ הוּא אוֹמֵר **יָבֹא קָדִים וְיֵבוֹשׁ מְקוֹרוֹ**. דָּבָר אַחֵר: **כִּי הוּא בֵּין אַחִים יַפְרִיא** – יָרָבְעָם הוּא בֵּן שֶׁהִפְרִיא אַחֲוָתָן שֶׁל יִשְׂרָאֵל, עַל יָדוֹ נֶחְלְקוּ לִשְׁנֵי מַמְלָכוֹת. יַפְרִיא לְשׁוֹן ״פֶּרֶא אָדָם״ (בראשית טז:יב).
+**יַפְרִיא.** לְשׁוֹן ״פּוֹרֶה רֹאשׁ וְלַעֲנָה״ (דברים כט:יז). וַאֲנִי אוֹמֵר ׳אַחִים׳ לְשׁוֹן ״וַתִּרְעֶינָה בָאָחוּ״ (בראשית מא:ב), בֵּין **אַחִים יַפְרִיא** – מַפְרִיחַ וְצוֹמֵחַ בָּאָחוּ בֵּין אַחִים, בֵּין הַגָּדֵל בְּפַלְגֵי מַיִם אֲשֶׁר תָּמִיד יַפְרִיא. וּלְפִי שֶׁדִּמָּהוּ לְאָחוּ הוּא אוֹמֵר **יָבֹא קָדִים וְיֵבוֹשׁ מְקוֹרוֹ.** דָּבָר אַחֵר: **כִּי הוּא בֵּין אַחִים יַפְרִיא** – יָרָבְעָם הוּא בֵּן שֶׁהִפְרִיא אַחֲוָתָן שֶׁל יִשְׂרָאֵל, עַל יָדוֹ נֶחְלְקוּ לִשְׁנֵי מַמְלָכוֹת. יַפְרִיא לְשׁוֹן ״פֶּרֶא אָדָם״ (בראשית טז:יב).
 
 
 **For though he flourish among the marshes** Heb. יַפְרִיא. Blossoms and grows in the marsh. Among the marshes, among those growing in the marshes, which always flourish. And, since He compares him to a marsh, He says: An east wind shall come... and his spring shall dry up. Another explanation: For he decreased among the brothers, i.e., Jeroboam. He was a son who decreased the brotherhood [other versions: the heritage] of Israel. Through him, they were divided into two kingdoms. Decreased יַפְרִיע. An expression similar to (Gen. 16:12) “One who decreases men (פֶּרֶא אָדָם) .”
@@ -4897,7 +4897,7 @@ The form תִּרְגַּלְתִּי is like הִרגַּלְתִּי, I traine
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/14:1:1](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/14:1:1)
 
 
-**תֵּאָשַׁם שׁוֹמְרוֹן.** מֵעַתָּה תִּגָּלֶה אַשְׁמָתָהּ:
+**תֶּאְשַׁם שׁוֹמְרוֹן.** מֵעַתָּה תִּגָּלֶה אַשְׁמָתָהּ:
 
 
 **Samaria shall be accounted guilty** From now on, her guilt will be revealed.
@@ -4958,7 +4958,7 @@ The form תִּרְגַּלְתִּי is like הִרגַּלְתִּי, I traine
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/14:3:1](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/14:3:1)
 
 
-**כָּל תִּשָּׂא עָוֹן.** כָּל עֲוֹנוֹתֵינוּ סְלַח:
+**כָּל תִּשָּׂא עָוֺן.** כָּל עֲוֹנוֹתֵינוּ סְלַח:
 
 
 **You shall forgive all iniquity** Heb. כָּל-תִּשָׂא עָוֹן. Forgive all our iniquities.
@@ -5119,7 +5119,7 @@ The form תִּרְגַּלְתִּי is like הִרגַּלְתִּי, I traine
 [https://torahapp.org/share/book/Rashi%20on%20Hosea/r/14:9:1](https://torahapp.org/share/book/Rashi%20on%20Hosea/r/14:9:1)
 
 
-**אֶפְרַיִם.** יֹאמַר: ״מַה לִּי עוֹד לָלֶכֶת אַחֲרֵי הָעֲצַבִּים?״ וְיָשׁוּבוּ מֵעֲבוֹדָה זָרָה. (מלכים א יב:כח-כט) **אֲנִי אֶעֱנֶהוּ** מִצָּרָתוֹ:
+**אֶפְרַיִם.** יֹאמַר: ״מַה לִּי עוֹד לָלֶכֶת אַחֲרֵי הָעֲצַבִּים?״ וְיָשׁוּבוּ מֵעֲבוֹדָה זָרָה. (מלכים א יב:כח-כט) אֲנִי אֶעֱנֶהוּ מִצָּרָתוֹ:
 
 
 **Ephraim** will say, “What more do I need to follow the images?” And they will turn away from idolatry. **I will answer him** I will answer him from his trouble.

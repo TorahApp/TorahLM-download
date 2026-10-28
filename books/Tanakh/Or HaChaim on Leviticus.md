@@ -14,9 +14,9 @@ Location: Tanakh/Acharonim on Tanakh/Or HaChaim/Torah
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Vocalized Edition (Segments: 938, License: unknown)
+Version (He): Vocalized Edition (Segments: 938, License: Public Domain)
 
-Version (En): Or Hachayim, trans. Eliyahu Munk (Segments: 908)
+Version (En): Sefaria Community Translation (Segments: 908)
 
 
 ## Chapter 1

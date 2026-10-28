@@ -13676,7 +13676,7 @@ This is what Pharaoh should do: appoint officials [**faithful men**] over the la
 [https://torahapp.org/share/book/Onkelos%20Genesis/r/41:35](https://torahapp.org/share/book/Onkelos%20Genesis/r/41:35)
 
 
-וְיִכְנְשׁוּן יָת כָּל **עִיבוּר** שְׁנַיָּא טָבָן דְּאָתְיָן הָאִלֵּין וְיִצְּבְּרוּן **עִיבוּרָא** תְּחוֹת יְדָא דְפַרְעֹה **עִיבוּרָא** בְּקִירְוַיָּא וְיִטְּרוּן:
+וְיִכְנְשׁוּן יָת כָּל **עִיבוּר** שְׁנַיָּא טָבָן דְּאָתְיָן הָאִלֵּין וְיִצְבְּרוּן **עִיבוּרָא** תְּחוֹת יְדָא דְפַרְעֹה **עִיבוּרָא** בְּקִירְוַיָּא וְיִטְּרוּן:
 
 
 Let them gather in all the food [**grain**] during these good years that are coming, and let them store up grain under the hand [jurisdiction] of Pharaoh. Let the food [**grain**] be [kept] in the cities, and let them safeguard it.

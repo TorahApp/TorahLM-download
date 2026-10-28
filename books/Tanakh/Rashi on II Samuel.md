@@ -330,7 +330,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/2:23:2](https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/2:23:2)
 
 
-**וַיָּמָת תַּחְתָּיו.** (תרגום:) ״וּמִית בְּאַתְרֵיהּ״:
+**וַיָּמָת תַּחְתָּו.** (תרגום:) ״וּמִית בְּאַתְרֵיהּ״:
 
 
 **And died in his place.** And died in his place.⁴
@@ -487,7 +487,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/3:12:1](https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/3:12:1)
 
 
-**תַּחְתָּיו לֵאמֹר.** (תרגום:) ״מֵאַתְרֵיהּ לְמֵימַר מְקַיְּמְנָא בְּמָאן דַּעֲבַד אַרְעָא״:
+**תַּחְתָּו לֵאמֹר.** (תרגום:) ״מֵאַתְרֵיהּ לְמֵימַר מְקַיְּמְנָא בְּמָאן דַּעֲבַד אַרְעָא״:
 
 
 **In his behalf saying.** From his place to say, We shall keep this [oath] by the One Who made the world.
@@ -805,7 +805,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/4:4:2](https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/4:4:2)
 
 
-**נְכֵה רַגְלַיִם.** שְׁבוּר רַגְלַיִם:
+**נְכֵה רַגְלָיִם.** שְׁבוּר רַגְלַיִם:
 
 
 **Broken feet** Broken feet.
@@ -819,7 +819,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/4:6:1](https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/4:6:1)
 
 
-**וְהִנֵּה בָּאוּ עַד תּוֹךְ הַבַּיִת.** עִם תַּגָּרִים לוֹקְחֵי חִטִּים:
+**וְהֵנָּה בָּאוּ עַד תּוֹךְ הַבַּיִת.** עִם תַּגָּרִים לוֹקְחֵי חִטִּים:
 
 
 **They came into the interior of the house.** Together with the traders, the wheat buyers.
@@ -1131,7 +1131,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/6:2:2](https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/6:2:2)
 
 
-**וַיָּקָם וַיֵּלֶךְ דָּוִד וְגוֹ׳ מִבַּעֲלֵי יְהוּדָה.** שֶׁנֶּאֶסְפוּ שָׁם **לְהַעֲלוֹת מִשָּׁם אֶת הָאָרוֹן וְגוֹ׳**:
+**וַיָּקָם וַיֵּלֶךְ דָּוִד וְגוֹ׳ מִבַּעֲלֵי יְהוּדָה.** שֶׁנֶּאֶסְפוּ שָׁם **לְהַעֲלוֹת מִשָּׁם אֵת הָאָרוֹן וְגוֹ׳**:
 
 
 **Dovid arose and went from Baalei Yehuda.** That gathered there to bring up the Ark from there…
@@ -1311,7 +1311,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/6:19:2](https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/6:19:2)
 
 
-**אֲשִׁישָׁה אַחַת.** גַּרְבָּא דְּחַמְרָא (שם):
+**אֲשִׁישָׁה אֶחָת.** גַּרְבָּא דְּחַמְרָא (שם):
 
 
 **A jug [of wine].** A jug of wine.
@@ -1350,7 +1350,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/6:22:2](https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/6:22:2)
 
 
-**עִמָּם אֶכָּבֵדָה.** אֵינָם מְבַזִּין אוֹתִי, אֶלָּא חָשׁוּב אֲנִי בְּעֵינֵיהֶם עַל זֹאת:
+**עִמָּם אִכָּבֵדָה.** אֵינָם מְבַזִּין אוֹתִי, אֶלָּא חָשׁוּב אֲנִי בְּעֵינֵיהֶם עַל זֹאת:
 
 
 **I would be more honoured among them.** They do not ridicule me but I am important in their eyes becasue of this.
@@ -1680,7 +1680,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/7:21:3](https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/7:21:3)
 
 
-**לְהוֹדִיעַ אֶת עַבְדְּךָ.** הַבְּשׂוֹרָה שֶׁבִּשַּׂרְתַּנִי:
+**לְהוֹדִיעַ אֶת עַבְדֶּךָ.** הַבְּשׂוֹרָה שֶׁבִּשַּׂרְתַּנִי:
 
 
 **Of which You have informed Your servant.** The announcement of which You have informed me.¹⁶
@@ -2101,7 +2101,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/10:4:2](https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/10:4:2)
 
 
-**שְׁתוּתֵיהֶם.** הָעֲגָבוֹת:
+**שְׁתוֹתֵיהֶם.** הָעֲגָבוֹת:
 
 
 **Their buttocks.** The buttocks.
@@ -2132,7 +2132,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/11:1:1](https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/11:1:1)
 
 
-**לְעֵת צֵאת הַמַּלְאָכִים.** יֵשׁ עֵת בַּשָּׁנָה שֶׁדֶּרֶךְ הַחַיָּלוֹת לָצֵאת, כְּשֶׁהָאָרֶץ מְלֵאָה קָמוֹת, וְהַסּוּסִים מוֹצְאִים תְּבוּאָה בַּשָּׂדֶה לֶאֱכוֹל:
+**לְעֵת צֵאת הַמְּלָאכִים.** יֵשׁ עֵת בַּשָּׁנָה שֶׁדֶּרֶךְ הַחַיָּלוֹת לָצֵאת, כְּשֶׁהָאָרֶץ מְלֵאָה קָמוֹת, וְהַסּוּסִים מוֹצְאִים תְּבוּאָה בַּשָּׂדֶה לֶאֱכוֹל:
 
 
 **At the time [of year] when kings go forth.** There is a time of year when it is the practice that troops go forth, when the land is full of growth and the horses find produce in the field to eat.
@@ -2461,7 +2461,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/12:31:1](https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/12:31:1)
 
 
-**מְגֵרָה וַחֲרִצִים וּמַגְזְרוֹת.** כְּמִין פְּצִירָה פִּים שֶׁקּוֹרִין לימ״א, מִינֵי יִסּוּרִים הֵם:
+**מְגֵרָה** וַ**חֲרִצִים** וּ**מַגְזְרוֹת.** כְּמִין פְּצִירָה פִּים שֶׁקּוֹרִין לימ״א, מִינֵי יִסּוּרִים הֵם:
 
 
 **Saw-like utensils, iron threshing utensils and iron axes.** They are types of tortures.
@@ -3394,7 +3394,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/15:31:2](https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/15:31:2)
 
 
-**סַכֵּל.** קַלְקֵל, כְּמוֹ (קהלת י:יד): ״הַסָּכָל יַרְבֶּה דְבָרִים״:
+**סַכֶּל.** קַלְקֵל, כְּמוֹ (קהלת י:יד): ״הַסָּכָל יַרְבֶּה דְבָרִים״:
 
 
 **Ruin.** Ruin as we find "The tool talks too much".¹⁴
@@ -3713,7 +3713,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/17:13:2](https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/17:13:2)
 
 
-**עַד הַנָּחַל.** חוֹמַת הָעִיר נִסְחוֹב אֶל הַגַּי:
+**עַד הַנַּחַל.** חוֹמַת הָעִיר נִסְחוֹב אֶל הַגַּי:
 
 
 **Into the valley [below].** We will drag the city wall into the valley.
@@ -3948,7 +3948,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/18:3:4](https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/18:3:4)
 
 
-**כִּי תִהְיֶה לָּנוּ מֵעִיר לַעֲזוֹר.** (תרגום:) ״וּכְעַן טָב אֲרֵי תְצַלֵּי עֲלָנָא מִן קַרְתָּא לְמִסְעַד״:
+**כִּי תִהְיֶה לָּנוּ מֵעִיר לַעְזוֹר.** (תרגום:) ״וּכְעַן טָב אֲרֵי תְצַלֵּי עֲלָנָא מִן קַרְתָּא לְמִסְעַד״:
 
 
 **If you help us from the city.** [Yonoson translates:] "It will be better if you pray for us from the city for help.
@@ -4036,7 +4036,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/18:12:1](https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/18:12:1)
 
 
-**שִׁמְרוּ מִי בַנַּעַר.** כָּל מִי שֶׁיָּבֹא לְיָדוֹ יִשְׁמְרֶנּוּ:
+**שִׁמְרוּ מִי בַּנַּעַר.** כָּל מִי שֶׁיָּבֹא לְיָדוֹ יִשְׁמְרֶנּוּ:
 
 
 **Beware that none harm the young man.** Everyone who meets up with him should preserve him.
@@ -4517,7 +4517,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/19:37:1](https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/19:37:1)
 
 
-**כִּמְעַט יַעֲבֹר עַבְדֶּךָ.** הַלְּוָיָה מוּעֶטֶת יַעֲבֹר עַבְדְּךָ לְלַוּוֹתְךָ, אַחַר שֶׁתַּעֲבֹר אֶת הַיַּרְדֵּן:
+**כִּמְעַט יַעֲבֹר עַבְדְּךָ.** הַלְּוָיָה מוּעֶטֶת יַעֲבֹר עַבְדְּךָ לְלַוּוֹתְךָ, אַחַר שֶׁתַּעֲבֹר אֶת הַיַּרְדֵּן:
 
 
 **Your servant will just cross over.** You servant will accompany you a little further after you cross the Yardein.
@@ -4542,7 +4542,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/19:38:1](https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/19:38:1)
 
 
-**עַבְדְּךָ כִּמְהָם.** בְּנוֹ הָיָה:
+**עַבְדְּךָ כִמְהָם.** בְּנוֹ הָיָה:
 
 
 **Your servant Kimhom.** It was his son.
@@ -4655,7 +4655,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/20:4:1](https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/20:4:1)
 
 
-**הַזְעֵק לִי אֶת אִישׁ יְהוּדָה.** שֶׁיִּהְיוּ כָאן עַד שְׁלֹשָׁה יָמִים:
+**הַזְעֶק לִי אֶת אִישׁ יְהוּדָה.** שֶׁיִּהְיוּ כָאן עַד שְׁלֹשָׁה יָמִים:
 
 
 **Rally the men of Yehudah.** That they should be here within three days.
@@ -4680,7 +4680,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/20:5:1](https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/20:5:1)
 
 
-**וַיּוֹחַר מִן הַמּוֹעֵד.** אַשְׁכְּחִינְהוּ לְרַבָּנָן דְּפָתְחוּ בְּמַסֶּכְתָּא, כִּדְאִיתָא בְּסַנְהֶדְרִין (מט א):
+**וַיּוֹחֶר מִן הַמּוֹעֵד.** אַשְׁכְּחִינְהוּ לְרַבָּנָן דְּפָתְחוּ בְּמַסֶּכְתָּא, כִּדְאִיתָא בְּסַנְהֶדְרִין (מט א):
 
 
 **But was delayed past the appointed time.** He found Rabbis who had begun to learn a tractate in the Talmud, as is stated in Sanhedrin.³
@@ -4860,7 +4860,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/20:18:2](https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/20:18:2)
 
 
-**שָׁאוֹל יִשְׁאָלוּ בְּאָבֵל.** אִם שָׁאֲלוּ בְּנֵי חֵילְךָ בִּשְׁלוֹם הָעִיר הַזֹּאת, שֶׁשְּׁמָהּ אָבֵל:
+**שָׁאוֹל יְשָׁאֲלוּ בְּאָבֵל.** אִם שָׁאֲלוּ בְּנֵי חֵילְךָ בִּשְׁלוֹם הָעִיר הַזֹּאת, שֶׁשְּׁמָהּ אָבֵל:
 
 
 **If you had asked [for peace] with Oveil.** If your soldiers had asked for peace with this city called Oveil.
@@ -5083,7 +5083,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/21:2:4](https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/21:2:4)
 
 
-**בְּקַנְּאֹתוֹ לִבְנֵי יִשְׂרָאֵל.** בְּתִתּוֹ לֵב לְנַקּוֹת וּלְטַהֵר אֶת יִשְׂרָאֵל וְלַעֲשׂוֹת צָרְכֵיהֶם, בִּקֵּשׁ לְהָרְגָם, וְקִנְאָה זוֹ לְטוֹבָה, כְּמוֹ (במדבר יא:כט): ״הַמְקַנֵּא אַתָּה לִי״; וְכֵן (מלכים ב י:טז): ״בְּקִנְאָתִי לַה׳״ דְּיֵהוּא זֶהוּ פְשׁוּטוֹ. וּלְפִי מִדְרָשׁוֹ, לֹא אָמַר לַהֲרוֹג אֶלָּא אֶת הַכֹּהֲנִים, וְקִנְאָה זוֹ הָאֲמוּרָה כָּאן, אֵינָהּ לְטוֹבָה כִּי אִם לְרָעָה, שֶׁיָּדַע שֶׁלֹּא תִּמְשׁוֹךְ מַלְכוּתוֹ מִיּוֹם שֶׁלֹּא שָׁמַר מִצְוַת הַקָּדוֹשׁ בָּרוּךְ הוּא בַּעֲמָלֵק, וּמֵאָז נִתְקַנֵּא בָּהֶם:
+**בְּקַנֹּאתוֹ לִבְנֵי יִשְׂרָאֵל.** בְּתִתּוֹ לֵב לְנַקּוֹת וּלְטַהֵר אֶת יִשְׂרָאֵל וְלַעֲשׂוֹת צָרְכֵיהֶם, בִּקֵּשׁ לְהָרְגָם, וְקִנְאָה זוֹ לְטוֹבָה, כְּמוֹ (במדבר יא:כט): ״הַמְקַנֵּא אַתָּה לִי״; וְכֵן (מלכים ב י:טז): ״בְּקִנְאָתִי לַה׳״ דְּיֵהוּא זֶהוּ פְשׁוּטוֹ. וּלְפִי מִדְרָשׁוֹ, לֹא אָמַר לַהֲרוֹג אֶלָּא אֶת הַכֹּהֲנִים, וְקִנְאָה זוֹ הָאֲמוּרָה כָּאן, אֵינָהּ לְטוֹבָה כִּי אִם לְרָעָה, שֶׁיָּדַע שֶׁלֹּא תִּמְשׁוֹךְ מַלְכוּתוֹ מִיּוֹם שֶׁלֹּא שָׁמַר מִצְוַת הַקָּדוֹשׁ בָּרוּךְ הוּא בַּעֲמָלֵק, וּמֵאָז נִתְקַנֵּא בָּהֶם:
 
 
 **In his zeal to avenge the Bnei Yisroel.** Because he [Shaul] intended to clean and purify Yisroel and to take care of their [Yisroel's] needs, he wanted to kill them. This anger was for a good purpose as we find "Are you zealous for my sake?"⁹ And we also find "by the zeal for God's sake" as was said of Yeihuh.¹⁰ This is the simple explanation of our verse. [But] according to the Midrashic intepretation, he [Shaul] only ordered that the kohanim be killed. And the zeal described here was not for a good purpose but rather for a bad purpose because he [Shaul] knew that his kingdom would not continue further from the day that he did not heed God's commandment concerning Amoleik,¹¹ and from that time on, he was angry [and persecuted] them.
@@ -5851,7 +5851,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/22:26:1](https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/22:26:1)
 
 
-**עִם חָסִיד תָּמִים נְבָר.** כְּנֶגֶד שְׁלֹשָׁה אָבוֹת, שֶׁשִּׁלֵּם הַקָּדוֹשׁ בָּרוּךְ הוּא גְּמוּל צִדְקָתָם לִבְנֵיהֶם:
+**חָסִיד, תָּמִים, נָבָר.** כְּנֶגֶד שְׁלֹשָׁה אָבוֹת, שֶׁשִּׁלֵּם הַקָּדוֹשׁ בָּרוּךְ הוּא גְּמוּל צִדְקָתָם לִבְנֵיהֶם:
 
 
 **To the Kind, Sincere, Pure.** [These three nouns] represent the three Patriarchs. God paid the reward of their righteousness to their children.¹⁵
@@ -5879,7 +5879,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/22:27:2](https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/22:27:2)
 
 
-**תִּתְפַּל.** לְשׁוֹן נִפְתָּל וְעִקֵּשׁ, וּבְסֵפֶר תְּהִלִּים (תהלים יח:כז) כָּתוּב: ״תִּתְפַּתָּל״. דָּבָר אַחֵר: **יִשְׁלַח מִמָּרוֹם יִקָּחֵנִי.** עַל עַצְמוֹ אָמַר, כְּשֶׁהָיָה נֶחְפָּז לָלֶכֶת מִפְּנֵי שָׁאוּל בְּסֶלַע הַמַּחְלְקוֹת וְהָיָה קָרוֹב לְהִתָּפֵשׂ, וּמַלְאָךְ בָּא אֶל שָׁאוּל לֵאמֹר: מַהֲרָה וְלֵכָה כִּי פָשְׁטוּ פְלִשְׁתִּים: **וַיָּשֶׁב וְגוֹ׳ כְּצִדְקָתִי.** שֶׁלֹּא הֲרַגְתִּיו בְּכָרְתִי כְּנַף מְעִילוֹ:
+**תִּתַּפָּל.** לְשׁוֹן נִפְתָּל וְעִקֵּשׁ, וּבְסֵפֶר תְּהִלִּים (תהלים יח:כז) כָּתוּב: ״תִּתְפַּתָּל״. דָּבָר אַחֵר: **יִשְׁלַח מִמָּרוֹם יִקָּחֵנִי.** עַל עַצְמוֹ אָמַר, כְּשֶׁהָיָה נֶחְפָּז לָלֶכֶת מִפְּנֵי שָׁאוּל בְּסֶלַע הַמַּחְלְקוֹת וְהָיָה קָרוֹב לְהִתָּפֵשׂ, וּמַלְאָךְ בָּא אֶל שָׁאוּל לֵאמֹר: מַהֲרָה וְלֵכָה כִּי פָשְׁטוּ פְלִשְׁתִּים: **וַיָּשֶׁב וְגוֹ׳ כְּצִדְקָתִי.** שֶׁלֹּא הֲרַגְתִּיו בְּכָרְתִי כְּנַף מְעִילוֹ:
 
 
 **You act perversely.** [This is] language denoting jagged and crooked. In the book of Tehilim¹⁶ it is written, תִּתְפַּתָּל.¹⁷ An alternative explanation,¹⁸ [when writing] "He delivers [salvation] from on high,"¹⁹ [Dovid] was refering to himself.²⁰ When he was rushing to escape Shaul [and had reached] the rock at the crossroads,²¹ and was close to being captured an angel came to Shaul saying, "Go quickly because the Pelishtim have spread out [in battle formation over the terrain.]"²² "He rewarded me…according to my righteousness."²³ [Refering to the fact] that I did not kill him [Shaul] when I [instead just] cut off the corner of his coat.
@@ -5949,7 +5949,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/22:36:1](https://torahapp.org/share/book/Rashi%20on%20II%20Samuel/r/22:36:1)
 
 
-**וְעַנְוָתְךָ תַּרְבֵּנִי.** הִגְדַּלְתָּ לִי מִדַּת עַנְוְתָנוּתְךָ:
+**וַעֲנֹתְךָ תַּרְבֵּנִי.** הִגְדַּלְתָּ לִי מִדַּת עַנְוְתָנוּתְךָ:
 
 
 **You have been abundant for my sake with Your humility.** You have been abundant for my sake, with Your humility.

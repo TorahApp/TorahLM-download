@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): William Davidson Edition - Vocalized Aramaic (Segments: 709, License: CC-BY-NC)
 
-Version (En): William Davidson Edition - English (Segments: 709)
+Version (En): Sefaria Community Translation (Segments: 709)
 
 
 ## Daf 2a
@@ -26,7 +26,7 @@ Version (En): William Davidson Edition - English (Segments: 709)
 [https://torahapp.org/share/book/Makkot/r/2a:1](https://torahapp.org/share/book/Makkot/r/2a:1)
 
 
-מַתְנִי׳ **כֵּיצַד** הָעֵדִים נַעֲשִׂים זוֹמְמִין? ״מְעִידִין אָנוּ בְּאִישׁ פְּלוֹנִי שֶׁהוּא בֶּן גְּרוּשָׁה אוֹ בֶּן חֲלוּצָה״, אֵין אוֹמְרִים: יֵעָשֶׂה זֶה בֶּן גְּרוּשָׁה אוֹ בֶּן חֲלוּצָה תַּחְתָּיו, אֶלָּא לוֹקֶה אַרְבָּעִים.
+מַתְנִי׳ **כֵּיצַד הָעֵדִים** נַעֲשִׂים זוֹמְמִין? ״מְעִידִין אָנוּ בְּאִישׁ פְּלוֹנִי שֶׁהוּא בֶּן גְּרוּשָׁה אוֹ בֶּן חֲלוּצָה״, אֵין אוֹמְרִים: יֵעָשֶׂה זֶה בֶּן גְּרוּשָׁה אוֹ בֶּן חֲלוּצָה תַּחְתָּיו, אֶלָּא לוֹקֶה אַרְבָּעִים.
 
 
 **MISHNA:** **How are witnesses rendered conspiring** witnesses? This applies in a case where two witnesses came before the court and said: **We testify with regard to so-and-so,** who is a priest, **that he is the son of a divorced woman or the son of a *ḥalutza*,** a *yevama* who performed the rite of *ḥalitza* to free herself from the levirate bond. Those testimonies render him a *ḥalal* (see Leviticus 21:6–7), one disqualified from the priesthood due to flawed lineage. If a second set of witnesses testifies in court and renders the first set conspiring witnesses, **one does not say** with regard to each of the conspiring witnesses: **This** witness **shall be rendered the son of a divorced woman or the son of a *ḥalutza* in his stead. Rather, he receives forty lashes** as punishment for his false testimony.
@@ -968,7 +968,7 @@ The Gemara asks: **And** concerning **the Rabbis,** what do they derive from tha
 [https://torahapp.org/share/book/Makkot/r/5a:6](https://torahapp.org/share/book/Makkot/r/5a:6)
 
 
-כֵּיצַד? אָמְרוּ ״מְעִידִין אֲנִי בְּאִישׁ פְּלוֹנִי שֶׁהָרַג אֶת הַנֶּפֶשׁ״. אָמְרוּ לָהֶם: ״הֵיאַךְ אַתֶּם מְעִידִין? שֶׁהֲרֵי נֶהֱרָג זֶה אוֹ הַהוֹרֵג זֶה הָיָה עִמָּנוּ אוֹתוֹ הַיּוֹם בְּמָקוֹם פְּלוֹנִי!״ – אֵין אֵלּוּ זוֹמְמִין. אֲבָל אָמְרוּ לָהֶם: ״הֵיאַךְ אַתֶּם מְעִידִין? שֶׁהֲרֵי אַתֶּם הֱיִיתֶם עִמָּנוּ אוֹתוֹ הַיּוֹם בְּמָקוֹם פְּלוֹנִי!״ – הֲרֵי אֵלּוּ זוֹמְמִין, וְנֶהֱרָגִין עַל פִּיהֶם.
+כֵּיצַד? אָמְרוּ ״מְעִידִין אָנוּ בְּאִישׁ פְּלוֹנִי שֶׁהָרַג אֶת הַנֶּפֶשׁ״. אָמְרוּ לָהֶם: ״הֵיאַךְ אַתֶּם מְעִידִין? שֶׁהֲרֵי נֶהֱרָג זֶה אוֹ הַהוֹרֵג זֶה הָיָה עִמָּנוּ אוֹתוֹ הַיּוֹם בְּמָקוֹם פְּלוֹנִי!״ – אֵין אֵלּוּ זוֹמְמִין. אֲבָל אָמְרוּ לָהֶם: ״הֵיאַךְ אַתֶּם מְעִידִין? שֶׁהֲרֵי אַתֶּם הֱיִיתֶם עִמָּנוּ אוֹתוֹ הַיּוֹם בְּמָקוֹם פְּלוֹנִי!״ – הֲרֵי אֵלּוּ זוֹמְמִין, וְנֶהֱרָגִין עַל פִּיהֶם.
 
 
 **How so?** A set of witnesses **said: We testify with regard to a man** called **so-and-so that he killed a person,** and they attested to the precise time and place that the murder took place. Then, a second set of witnesses came to court and **said to them: How can you testify** about this event? **This** person who **was killed, or this** person **who killed, was with us,** i.e., with the second set of witnesses, on **that day in such and such place,** which is not the location identified by the first set of witnesses. In that case, although the second set of witnesses contradicted the testimony of the first set, **these** first witnesses are **not** rendered **conspiring** witnesses. **But** if the second set of witnesses came to court and **said to them: How can you testify** about that event? **You were with us** on **that day in such and such place.** In this case, **these** first witnesses are rendered **conspiring** witnesses, **and are executed on the basis of their,** i.e., the second set’s, testimony.

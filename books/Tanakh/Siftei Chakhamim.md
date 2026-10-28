@@ -14,9 +14,9 @@ Location: Tanakh/Acharonim on Tanakh/Siftei Chakhamim
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Siftei Chachamim. Frankfurt, 1712 (Segments: 5882, License: unknown)
+Version (He): Sifsei Chachomim Chumash, Metsudah Publications, 2009 (Segments: 5882, License: CC-BY)
 
-Version (En): Sefaria Community Translation (Segments: 5810)
+Version (En): Sifsei Chachomim Chumash, Metsudah Publications, 2009 (Segments: 5810)
 
 
 ## Genesis
@@ -50448,7 +50448,7 @@ Marital tie (זיקת**) with a husband.** זיקת is an expression of tying. T
 [https://torahapp.org/share/book/Siftei%20Chakhamim/s/Numbers/r/28:15:4](https://torahapp.org/share/book/Siftei%20Chakhamim/s/Numbers/r/28:15:4)
 
 
-**ושאר השעירים למדין ממנו.** פירוש כל שעירים המוספין דרגלים ילפינן משעיר דר"ח, מדכתיב ושעיר בוי"ו מוסיף על מוסף דר"ח, מה שעיר דר"ח מכפר על טומאת מקדש וקדשיו אף שאר שעיריםץ ואותן שאין בהם וי"ו ילפינן כיון דגלי קרא בחד ילפינן אינך מהם דילפינן סתום מן המפורש:
+**ושאר השעירים למדין ממנו.** פירוש כל שעירים המוספין דרגלים ילפינן משעיר דר"ח, מדכתיב ושעיר בוי"ו מוסיף על מוסף דר"ח, מה שעיר דר"ח מכפר על טומאת מקדש וקדשיו אף שאר שעירים. ואותן שאין בהם וי"ו ילפינן כיון דגלי קרא בחד ילפינן אינך מהם דילפינן סתום מן המפורש:
 
 
 **The other goats are derived from this one.** Meaning: One learns [this quality] of the festival musaf goat-offerings from the goat brought on the New Moon. For it is written, “*And* [one] goat,” with a [letter] *vav* denoting something in addition to the musaf of the New Moon. [This teaches that] just as the musaf of the New Moon atones for the defilement of the Sanctuary and its sacred objects, so too the other goats. Those [goat-offerings] that do not have a [letter] *vav* [preceding them] are learned from those cases where the Torah did teach this law, since we learn the general case from the explicit.

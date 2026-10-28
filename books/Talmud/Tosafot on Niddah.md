@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Vilna Edition (Segments: 710, License: Public Domain)
 
-Version (En): david siff source sheet (Segments: 2)
+Version (En): Sefaria Community Translation (Segments: 2)
 
 
 ## Daf 2a

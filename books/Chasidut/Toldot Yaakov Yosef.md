@@ -14,9 +14,9 @@ Location: Chasidut/Early Works
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Eichen edition. Jerusalem, 2011 (Segments: 6821, License: CC-BY-NC)
+Version (He): Toldot Yaakov Yosef, Korets, 1780 (Segments: 6821, License: Public Domain)
 
-Version (En): Sefaria Community Translation (Segments: 45)
+Version (En): Sefaria Community Translation (Segments: 46)
 
 
 ## Title
@@ -9611,6 +9611,9 @@ footnotes:
 
 
 **וכל** זה כשיש לו שלוה, מה שאין כן כשרואה צרות מתחדשות, אז בע"כ יכנע הדמיון, וזש"ה אשר ראיתם מה שעשה למצרים וכו'. ומה שזכר דתן ואבירם ולא קרח, כי בני קרח לא מתו (במדבר כו, יא), ויקח מוסר מדתן ואבירם, באשר שרוב העולם יחטיאו נפשם כדי להנחיל לבניהם, ובאמת לא ישאר בידו מאומה כי אם העונות, כמו שקרה לדתן ואבירם שנאבדו הם ובניהם וכל אשר להם וכו', ובזה לא ימצא נגדיית כח הדמיון. והוא נקל לישראל ג"כ ליראה את ה' כמו למשה וכו', יעו"ש.
+
+
+And all this is when a person enjoys tranquility (shalvah); but it is otherwise when he sees troubles befalling him anew — then, of necessity, the imagination (dimyon) is subdued. And this is what Scripture says: "which you have seen, what He did to Egypt," etc. And as for why [Scripture] mentioned Datan and Aviram and not Korach — because "the sons of Korach did not die" (Numbers 26:11). And one should take the moral lesson from Datan and Aviram: inasmuch as most of the world let their souls sin in order to leave a bequest to their children, when in truth nothing remains in a person's hand but the iniquities — as happened to Datan and Aviram, who were destroyed, they and their children and all that was theirs, etc. — and by way of this [lesson], the imagination's opposing force is no longer found [i.e., the illusion that drives a person to sin for worldly gain is dispelled]. And then it is an easy thing for Israel too to fear the LORD, just as it was for Moses, etc. — see there.
 
 
 ###### Toldot Yaakov Yosef, Vayigash 53

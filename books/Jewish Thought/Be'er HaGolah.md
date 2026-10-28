@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Be'er HaGolah, with footnotes and annotations by Rabbi Yehoshua D. Hartman, Machon Yerushalyim, 2002 (Segments: 529, License: Public Domain)
 
-Version (En): Beer Hagolah, Maharal, translated using AI (Segments: 4)
+Version (En): Sefaria Community Translation (Segments: 6)
 
 
 ## Introduction to Be'er HaGolah
@@ -166,12 +166,18 @@ In that the perfection of man lies in knowing and understanding the beings, it i
 **הבאר הראשון** מים קדושים, חפרוהו שרים, חכמי חרשים. מימיו מכל תעוב מפרישים, שומרים האדם מחלאים קשים, מבריאים ומעבירים נגעי אנשים, מחזיקים ומחלפים כח לחלשים. ומשם יפרד והיה לארבע ראשים.
 
 
+The first well is holy waters. Princes dug it, sages skilled in craft. Its waters separate a person from every defilement. They protect a person from severe illnesses, heal and remove the afflictions of men, and strengthen and renew the power of the weak. From there it divides and becomes four heads.
+
+
 ###### Be'er HaGolah, Well 1 1:2
 
 [https://torahapp.org/share/book/Be%27er%20HaGolah/s/Well%201/r/1:2](https://torahapp.org/share/book/Be%27er%20HaGolah/s/Well%201/r/1:2)
 
 
 **התלונה הראשונה** מה שהם אומרים, כי הוסיפו חכמים על התורה, והם הגזירות אשר גזרו והוסיפו, עד שגדשו הסאה. והם מי מריבה אשר רבו לומר כי בתורה כתיב (דברים ד, ב) "לא תוסיפו". גם יש כאן שתי תורות; התורה שנתנה מפי השם יתברך על ידי משה עליו השלום, ותורת חכמים תורה בפני עצמה, ואין כאן תורה אחת כמו שראוי. גם תורת משה על ידי זה חסירה, כאשר צריך להשלימה על ידי מצות חכמים. גם אמרו שגרעו מן התורה, והכתוב אומר (שם) "לא תגרעו". כך הם דבריהם.
+
+
+The first complaint is their claim that the chachamim added to the Torah through the decrees they enacted and the additions they made, until they overfilled the measure. These are the waters of strife over which they contend, saying that the Torah states, (Devarim 4:2) “You shall not add.” They also claim that there are now two Torahs: the Torah given by Hashem through Moshe, peace be upon him, and a separate Torah of the chachamim, rather than the one Torah that there ought to be. Through this, they say, the Torah of Moshe is itself deficient, since it must be completed by the mitzvos of the chachamim. They further claim that the chachamim subtracted from the Torah, while the verse states there, “You shall not subtract.” Such are their words.
 
 
 ###### Be'er HaGolah, Well 1 1:3
@@ -259,7 +265,7 @@ In that the perfection of man lies in knowing and understanding the beings, it i
 [https://torahapp.org/share/book/Be%27er%20HaGolah/s/Well%201/r/2:3](https://torahapp.org/share/book/Be%27er%20HaGolah/s/Well%201/r/2:3)
 
 
-**וכמו ששמירת** העין ושאר אברים נכנסין בגדר הבריאה, כך גם כן הגזירות שגזרו חכמים לשמירת המצות נכנסים בגדר התורה. לכך חייב לברך עליהם 'אשר קדשנו וכו" כמו על מצות התורה. וכן לכל דבר שבעולם יש שמירה ותיקון גם כן, שהשם יתברך סדר אותו בחכמתו שיהיה נשמר מן ההיזק, ודבר זה ידוע למי שיודע בענין זה. ואיך לא תהיה שמירה למצות שבתורה, שיותר צריך שמירה אל המצות במה ש"יצר לב האדם רע מנעוריו" (בראשית ח, כא), ויש לחוש שיתקלקלו, ולפיכך צריך לגדרים וסייגים ולשמירה, כמו אברי האדם. וכל אשר הוא תחת השמש יש לו שמירה, אשר על ידי אותה שמירה נשמר שלא יבא לידי קלקול, כך צריך שמירה וגדר למצות התורה.
+**וכמו ששמירת** העין ושאר אברים נכנסין בגדר הבריאה, כך גם כן הגזירות שגזרו חכמים לשמירת המצות נכנסים בגדר התורה. לכך חייב לברך עליהם 'אשר קדשנו' וכו' כמו על מצות התורה. וכן לכל דבר שבעולם יש שמירה ותיקון גם כן, שהשם יתברך סדר אותו בחכמתו שיהיה נשמר מן ההיזק, ודבר זה ידוע למי שיודע בענין זה. ואיך לא תהיה שמירה למצות שבתורה, שיותר צריך שמירה אל המצות במה ש"יצר לב האדם רע מנעוריו" (בראשית ח, כא), ויש לחוש שיתקלקלו, ולפיכך צריך לגדרים וסייגים ולשמירה, כמו אברי האדם. וכל אשר הוא תחת השמש יש לו שמירה, אשר על ידי אותה שמירה נשמר שלא יבא לידי קלקול, כך צריך שמירה וגדר למצות התורה.
 
 
 ###### Be'er HaGolah, Well 1 2:4

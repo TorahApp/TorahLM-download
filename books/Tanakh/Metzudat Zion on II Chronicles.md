@@ -198,9 +198,12 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 1)
 **ובבוץ.** הוא פשתן:
 
 
-###### Metzudat Zion on II Chronicles 2:13:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/2:13:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/2:13:2)
+### Verse 15
+
+###### Metzudat Zion on II Chronicles 2:15:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/2:15:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/2:15:1)
 
 
 **רפסדות.** הם דוברות האמור במלכים א׳ והם הקורות הקשורות יחד להשיטם במים אל מקומם הנרצה ולשון רפסודות הוזכר בתלמוד ירושלמי (ברכות פרק ד׳):
@@ -217,16 +220,19 @@ Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 1)
 **מנצחים.** מל׳ נצחון והתגברות ונגישה:
 
 
-###### Metzudat Zion on II Chronicles 2:17:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/2:17:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/2:17:2)
+## Chapter 3
+
+
+### Verse 1
+
+###### Metzudat Zion on II Chronicles 3:1:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/3:1:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/3:1:1)
 
 
 **ויחל.** מל׳ התחלה:
 
-
-
-## Chapter 3
 
 
 ### Verse 5
@@ -2120,17 +2126,6 @@ Dwell – This means a dwelling place, as in “…the dwelling of Your holiness
 ## Chapter 20
 
 
-### Verse 1
-
-###### Metzudat Zion on II Chronicles 20:1:1
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/20:1:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/20:1:1)
-
-
-**.**:
-
-
-
 ### Verse 11
 
 ###### Metzudat Zion on II Chronicles 20:11:1
@@ -2210,11 +2205,11 @@ Dwell – This means a dwelling place, as in “…the dwelling of Your holiness
 
 
 
-### Verse 34
+### Verse 35
 
-###### Metzudat Zion on II Chronicles 20:34:1
+###### Metzudat Zion on II Chronicles 20:35:1
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/20:34:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/20:34:1)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/20:35:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/20:35:1)
 
 
 **אתחבר.** כמו התחבר ובאה האל״ף במקום ה״א:
@@ -3202,9 +3197,12 @@ Dwell – This means a dwelling place, as in “…the dwelling of Your holiness
 **וצפירי עזים.** ושעירי עזים וכן צפירי חטאת (עזרא ח):
 
 
-###### Metzudat Zion on II Chronicles 29:21:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/29:21:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/29:21:2)
+### Verse 25
+
+###### Metzudat Zion on II Chronicles 29:25:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/29:25:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/29:25:1)
 
 
 **במצלתים וגו׳.** שמות מיני כלי זמר:
@@ -4231,12 +4229,23 @@ Dwell – This means a dwelling place, as in “…the dwelling of Your holiness
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/36:15:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/36:15:1)
 
 
-**מעונו.** מדורו כמו השקיפה ממעון קדשך (דברים כ״ו:ט״ו) (טז) מלעיבים. ענין לעג כי והייתי בעיניו כמתעתע (בראשית כ״ז:י״ב) ת״א כמתלעב:
+**מעונו.** מדורו כמו השקיפה ממעון קדשך (דברים כ״ו:ט״ו):
 
 
-###### Metzudat Zion on II Chronicles 36:15:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/36:15:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/36:15:2)
+### Verse 16
+
+###### Metzudat Zion on II Chronicles 36:16:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/36:16:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/36:16:1)
+
+
+**מלעיבים.** ענין לעג כי והייתי בעיניו כמתעתע (בראשית כ״ז:י״ב) ת״א כמתלעב:
+
+
+###### Metzudat Zion on II Chronicles 36:16:2
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/36:16:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Chronicles/r/36:16:2)
 
 
 **במלאכי.** בשלוחי:

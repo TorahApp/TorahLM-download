@@ -193,7 +193,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/1:13:1](https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/1:13:1)
 
 
-**וַיַּעַן ה׳, אֶת הַמַּלְאָךְ הַדּוֹבֵר בִּי דְּבָרִים טוֹבִים.** לֹא שֶׁשָּׁמַע הַנָּבִיא מַה עָנָה, אַךְ מִמַּה שֶּׁאָמַר הַמַּלְאָךְ לוֹ ״קְרָא לֵאמֹר קִנֵּאתִי וְגוֹ׳״, אֲנִי יוֹדֵעַ שֶׁדְּבָרִים טוֹבִים עָנָהוּ:
+**וַיַּעַן ה׳ אֶת הַמַּלְאָךְ הַדּוֹבֵר בִּי דְּבָרִים טוֹבִים.** לֹא שֶׁשָּׁמַע הַנָּבִיא מַה עָנָה, אַךְ מִמַּה שֶּׁאָמַר הַמַּלְאָךְ לוֹ ״קְרָא לֵאמֹר קִנֵּאתִי וְגוֹ׳״, אֲנִי יוֹדֵעַ שֶׁדְּבָרִים טוֹבִים עָנָהוּ:
 
 
 **And the Lord answered the angel who was speaking to me, good words** Not that the prophet heard what He answered [the angel], but from what the angel said to him, “Proclaim, saying, ‘I am jealous etc.,’” I know that He answered him good words.
@@ -739,7 +739,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/3:9:2](https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/3:9:2)
 
 
-**עַל אֶבֶן אַחַת שִׁבְעָה עֵינָיִם.** סוֹפוֹ לְהַרְחִיב עַל אֶחָד **שִׁבְעָה**, וְכֵן תִּרְגֵּם יוֹנָתָן ״עַל אַבְנָא חֲדָא שִׁבְעָה עֵינִין חַזְיָן לָהּ״, וּלְשׁוֹן **עֵינַיִם** לְשׁוֹן מַרְאוֹת. וְלִי נִרְאֶה: **שִׁבְעָה עֵינַיִם** עַל שֵׁם עֵינֵי הַקָּדוֹשׁ בָּרוּךְ הוּא, שֶׁבְּעֵינָיו וּבְלִבּוֹ לְהוֹסִיף עָלָיו **עַל** אֶחָד **שִׁבְעָה**, לְפִי שֶׁדֻּגְמָתוֹ בִּנְבוּאָה זוֹ ״וְרָאוּ אֶת הָאֶבֶן הַבְּדִיל בְּיַד זְרֻבָּבֶל שִׁבְעָה אֵלֶּה עֵינֵי ה׳ הֵמָּה מְשׁוֹטְטִים וְגוֹ׳״ (זכריה ד:י). אֶלָּא לִמֵּד, שֶׁנָּתַן עֵינָיו לְהַרְבּוֹת כְּבוֹד הַבַּיִת בְּבִנְיָנוֹ:
+**עַל אֶבֶן אַחַת שִׁבְעָה עֵינָיִם.** סוֹפוֹ לְהַרְחִיב עַל אֶחָד **שִׁבְעָה**, וְכֵן תִּרְגֵּם יוֹנָתָן ״עַל אַבְנָא חֲדָא שִׁבְעָה עֵינִין חַזְיָן לָהּ״, וּלְשׁוֹן **עֵינָיִם** לְשׁוֹן מַרְאוֹת. וְלִי נִרְאֶה: **שִׁבְעָה עֵינַיִם** עַל שֵׁם עֵינֵי הַקָּדוֹשׁ בָּרוּךְ הוּא, שֶׁבְּעֵינָיו וּבְלִבּוֹ לְהוֹסִיף עָלָיו **עַל** אֶחָד **שִׁבְעָה**, לְפִי שֶׁדֻּגְמָתוֹ בִּנְבוּאָה זוֹ ״וְרָאוּ אֶת הָאֶבֶן הַבְּדִיל בְּיַד זְרֻבָּבֶל שִׁבְעָה אֵלֶּה עֵינֵי ה׳ הֵמָּה מְשׁוֹטְטִים וְגוֹ׳״ (זכריה ד:י). אֶלָּא לִמֵּד, שֶׁנָּתַן עֵינָיו לְהַרְבּוֹת כְּבוֹד הַבַּיִת בְּבִנְיָנוֹ:
 
 
 **Seven eyes are directed to one stone** It will eventually be widened seven times as much. And so did *Jonathan* render: On one stone, seven eyes see it. The expression of עֵינַיִם is an expression of appearances. It appears to me that the seven eyes are because of the eyes of the Holy One, blessed be He in Whose eyes and heart it is [planned] to add seven times as much because of the prophecy similar to this one (4:10): “And they shall see the plummet in the hand of Zerubbabel these seven times; the eyes of the Lord they are roving to and fro throughout the land.” This is but to say that He directed His eyes to increase the glory of the Temple in its building.
@@ -750,7 +750,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/3:9:3](https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/3:9:3)
 
 
-**הִנְנִי מְפַתֵּחַ פְּתוּחָה.** מַתִּיר קִשּׁוּרֶיהָ, מֵפִיר עֲצַת הָאוֹיְבִים אֲשֶׁר כָּתְבוּ שִׂטְנָה לְבַטֵּל הַמְּלָאכָה (עזרא ד:ו):
+**הִנְנִי מְפַתֵּחַ פִּתֻּחָהּ.** מַתִּיר קִשּׁוּרֶיהָ, מֵפִיר עֲצַת הָאוֹיְבִים אֲשֶׁר כָּתְבוּ שִׂטְנָה לְבַטֵּל הַמְּלָאכָה (עזרא ד:ו):
 
 
 **Behold! I untie its knots** I untie its knots I thwart the plot of the enemies who wrote an accusation to stop the work.
@@ -1100,7 +1100,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/5:3:3](https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/5:3:3)
 
 
-**כִּי כָל הַגַּנָּב.** עַד עַכְשָׁיו:
+**כִּי כָל הַגֹּנֵב.** עַד עַכְשָׁיו:
 
 
 **for whoever stole** until now.
@@ -1525,7 +1525,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/6:13:2](https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/6:13:2)
 
 
-**וַיֵּשֶׁב.** כֹּהֵן גָּדוֹל עַל כִּסֵּא הַכְּהֻנָּה:
+**וְיָשַׁב.** כֹּהֵן גָּדוֹל עַל כִּסֵּא הַכְּהֻנָּה:
 
 
 **And he shall sit** The High Priest [shall sit] on the throne of the priesthood.
@@ -1815,7 +1815,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/8:9:3](https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/8:9:3)
 
 
-**אֶת הַדְּבָרִים הָאֵלֶּה.** שֶׁל נִחוּמִים מִפִּי הַנְּבִיאִים אֲשֶׁר נִבְּאוּ לָהֶם אָז **בְּיוֹם יֻסַּד בֵּית ה׳** בִּשְׁנַת שְׁתַּיִם לְדָרְיָוֶשׁ (חגי א:טו) אֶת הַדְּבָרִים לְהַתְחִיל בַּמְּלָאכָה. כִּי נִבְחֲנוּ אוֹתָם הַנְּבִיאִים בְּעֵינֵיהֶם בְּדִבְרֵיהֶם, שֶׁהֵם נְבִיאֵי אֱמֶת, וּלְפִיכָךְ כְּדַאי הֵם לִסְמֹךְ עֲלֵיהֶם אַף בְּדִבְרֵי נִחוּמִים שֶׁל עַכְשָׁיו. וּבַמֶּה נִבְחֲנוּהָ? **כִּי לִפְנֵי הַיָּמִים הָהֵם שְׂכַר הָאָדָם וְגוֹמֵר.** וְהֵם נִבְּאוּ לָכֶם שֶׁמִּשֶּׁתַּתְחִילוּ בַּמְּלָאכָה תָּבֹא בְּרָכָה בְּמַעֲשֵׂה יְדֵיכֶם, וְנִתְקַיְּמוּ דִּבְרֵיהֶם, שֶׁהֲרֵי **עַתָּה לֹא כַיָּמִים הָרִאשֹׁנִים**:
+**אֵת הַדְּבָרִים הָאֵלֶּה.** שֶׁל נִחוּמִים מִפִּי הַנְּבִיאִים אֲשֶׁר נִבְּאוּ לָהֶם אָז **בְּיוֹם יֻסַּד בֵּית ה׳** בִּשְׁנַת שְׁתַּיִם לְדָרְיָוֶשׁ (חגי א:טו) אֶת הַדְּבָרִים לְהַתְחִיל בַּמְּלָאכָה. כִּי נִבְחֲנוּ אוֹתָם הַנְּבִיאִים בְּעֵינֵיהֶם בְּדִבְרֵיהֶם, שֶׁהֵם נְבִיאֵי אֱמֶת, וּלְפִיכָךְ כְּדַאי הֵם לִסְמֹךְ עֲלֵיהֶם אַף בְּדִבְרֵי נִחוּמִים שֶׁל עַכְשָׁיו. וּבַמֶּה נִבְחֲנוּהָ? **כִּי לִפְנֵי הַיָּמִים הָהֵם שְׂכַר הָאָדָם וְגוֹמֵר.** וְהֵם נִבְּאוּ לָכֶם שֶׁמִּשֶּׁתַּתְחִילוּ בַּמְּלָאכָה תָּבֹא בְּרָכָה בְּמַעֲשֵׂה יְדֵיכֶם, וְנִתְקַיְּמוּ דִּבְרֵיהֶם, שֶׁהֲרֵי **עַתָּה לֹא כַיָּמִים הָרִאשֹׁנִים**:
 
 
 **these words** of consolations from the mouths of the prophets who prophesied for [the people] - on the day the foundation of the house of the Lord was laid, in the second year of Darius - to begin the work. Those prophets were proven with their words to be true prophets in your eyes; therefore, it is also worthy to rely on them for the words of consolation concerning the present time. And in what way were they proven? **For before those days, there was no hire for man, etc.** They prophesied for you that when you would begin the work, a blessing would come into the work of your hands; and their words were fulfilled, for now it is not like the early days.
@@ -2007,7 +2007,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/9:3:2](https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/9:3:2)
 
 
-**וַתִּצְבֹּר כֶּסֶף כֶּעָפָר.** וּמִתְהַלֶּלֶת בְּעָשְׁרָהּ׃
+**וַתִּצְבׇּר כֶּסֶף כֶּעָפָר.** וּמִתְהַלֶּלֶת בְּעָשְׁרָהּ׃
 
 
 **and she gathered silver like dust** and boasts of her wealth.
@@ -2386,7 +2386,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/9:13:2](https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/9:13:2)
 
 
-**קֶשֶׁת מִלֵּאתִי אֶפְרָיִם.** מִקְרָא קָצָר הוּא, כְּמוֹ קֶשֶׁת מִלֵּאתִי יַד אֶפְרָיִם, כְּמוֹ ״וְיֵהוּא מִלֵּא יָדוֹ בַקֶּשֶׁת״ (מלכים ב ט:כד). אֶפְרָיִם יִהְיֶה לִי כְּאַשְׁפָּה מְלֵאָה חִצִּים:
+**קֶשֶׁת מִלֵּאתִי אֶפְרַיִם.** מִקְרָא קָצָר הוּא, כְּמוֹ קֶשֶׁת מִלֵּאתִי יַד אֶפְרָיִם, כְּמוֹ ״וְיֵהוּא מִלֵּא יָדוֹ בַקֶּשֶׁת״ (מלכים ב ט:כד). אֶפְרָיִם יִהְיֶה לִי כְּאַשְׁפָּה מְלֵאָה חִצִּים:
 
 
 **a bow; I filled [the hand of] Ephraim** This is an elliptical verse: Like a bow, I filled the hand of Ephraim; as (II Kings 9:24), “And Jehu put all his strength into his bow.” Ephraim shall be as a quiver full of arrows to Me.
@@ -2458,7 +2458,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/9:15:2](https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/9:15:2)
 
 
-**וְכָבְשׁוּ.** תַּחְתֶּיהָ **אַבְנֵי קָלַע**, הֵם הַיְּוָנִים שֶׁהֵם מְלֻמְּדֵי קֶשֶׁת וְלִקְלֹעַ בָּאֶבֶן:
+**וְכָבְשׁוּ.** תַּחְתֶּיהָ **אַבְנֵי קֶלַע**, הֵם הַיְּוָנִים שֶׁהֵם מְלֻמְּדֵי קֶשֶׁת וְלִקְלֹעַ בָּאֶבֶן:
 
 
 **and they shall tread** under them **sling-stones** They are the Greeks, who are trained to use the bow and to sling stones.
@@ -2846,7 +2846,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/10:10:1](https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/10:10:1)
 
 
-**וְלַבְנוֹן.** זֶה בֵּית הַמִּקְדָּשׁ (יומא לט:):
+**וּלְבָנוֹן.** זֶה בֵּית הַמִּקְדָּשׁ (יומא לט:):
 
 
 **and the Lebanon** This is the Temple.
@@ -3054,7 +3054,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/11:5:2](https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/11:5:2)
 
 
-**וָאֶעְשִׁיר.** וַהֲרֵי אֲנִי עָשִׁיר:
+**וַאעְשִׁר.** וַהֲרֵי אֲנִי עָשִׁיר:
 
 
 **for I have become wealthy** And behold! I am wealthy.
@@ -3273,7 +3273,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/11:13:1](https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/11:13:1)
 
 
-**וַיֹּאמֶר ה׳ אֵלַי הַשְׁלִיכֵהוּ אֶל הַיּוֹצֵר.** כְּמוֹ אֶל הָאוֹצָר, שׁוֹמֵר הָאוֹצָר. אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא לַנָּבִיא: כְּתֹב וְהַנַּח אֶת אֵלּוּ, הֵם וְצִדְקָתָם, לִהְיוֹת שָׁמוּר לְסוֹף שִׁבְעִים שָׁנָה שֶׁל גָּלוּת בָּבֶל, וְיִבָּנֶה בֵּית הַמִּקְדָּשׁ עַל יְדֵיהֶם. וּמַהוּ הָאוֹצָר? **אֲדַר הַיְקָר** בֵּית מִקְדָּשִׁי, אֲדַר תִּפְאַרְתִּי:
+**וַיֹּאמֶר ה׳ אֵלַי הַשְׁלִיכֵהוּ אֶל הַיּוֹצֵר.** כְּמוֹ אֶל הָאוֹצָר, שׁוֹמֵר הָאוֹצָר. אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא לַנָּבִיא: כְּתֹב וְהַנַּח אֶת אֵלּוּ, הֵם וְצִדְקָתָם, לִהְיוֹת שָׁמוּר לְסוֹף שִׁבְעִים שָׁנָה שֶׁל גָּלוּת בָּבֶל, וְיִבָּנֶה בֵּית הַמִּקְדָּשׁ עַל יְדֵיהֶם. וּמַהוּ הָאוֹצָר? **אֶדֶר הַיְקָר** בֵּית מִקְדָּשִׁי, אֲדַר תִּפְאַרְתִּי:
 
 
 **And the Lord said to me: Cast it to the keeper of the treasury** like הָאוֹצֵר, the keeper of the treasury. Said the Holy One, blessed be He, to the prophet: Write, and leave over these and their righteousness to be preserved for the end of the seventy years of the Babylonian exile. The Temple shall be built by them. Now what is the treasury? [Cf. below] **the stronghold of glory** My Temple, the stronghold of My glory.
@@ -3428,7 +3428,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/11:17:2](https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/11:17:2)
 
 
-**רוֹעֵי הָאֱלִיל.** רוֹעֵי שֶׁל אַיִן, אֱלִיל לְשׁוֹן אַל, אֵינוֹ רוֹעֶה. וְכֵן רֹפְאֵי אֱלִיל (איוב יג:ד). **רוֹעֵי הָאֱלִיל** יוֹ״ד יְתֵרָה בִּמְקוֹם הֵ״א, כְּמוֹ **וְעֹזְבֵי הַצֹּאן** (כאן), ״שֹׁכְנִי סְנֶה״ (דְּבָרִים לג:טז), ״שֹׁכְנִי לְבָדָד״ (מִיכָה ז:יד):
+**רֹעִי הָאֱלִיל.** רוֹעֵי שֶׁל אַיִן, אֱלִיל לְשׁוֹן אַל, אֵינוֹ רוֹעֶה. וְכֵן רֹפְאֵי אֱלִיל (איוב יג:ד). **רֹעִי הָאֱלִיל** יוֹ״ד יְתֵרָה בִּמְקוֹם הֵ״א, כְּמוֹ **עֹזְבִי הַצֹּאן** (כאן), ״שֹׁכְנִי סְנֶה״ (דְּבָרִים לג:טז), ״שֹׁכְנִי לְבָדָד״ (מִיכָה ז:יד):
 
 
 **worthless shepherd** a shepherd of nought. אֶלִיל, is an expression of אַל, naught; he is not a shepherd. [There is also] (in Job 13:4) “worthless physicians.” רֹעִי The “yud” is superfluous; it is instead of a “he,” as “who abandons the flock”; (Deut. 33:16) who dwells (שׁכְנִי) in the bramble”; and (Micha 7:14) “who dwells alone.”
@@ -3556,7 +3556,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/12:5:2](https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/12:5:2)
 
 
-**אַמְצָה לִי יוֹשֵׁב יְרוּשָׁלִַם וְגוֹ׳.** יוֹשְׁבֵי יְרוּשָׁלַיִם שֶׁיּוֹדְעִים שֶׁעַל כָּרְחֵנוּ אָנוּ בָּאִים עֲלֵיהֶם, אִמְּצוּ לְעֶזְרָתִי בִּתְפִלָּתָן בַּה׳ אֱלֹהֵיהֶם:
+**אַמְצָה לִי יֹשְׁבֵי יְרוּשָׁלִַם וְגוֹ׳.** יוֹשְׁבֵי יְרוּשָׁלַיִם שֶׁיּוֹדְעִים שֶׁעַל כָּרְחֵנוּ אָנוּ בָּאִים עֲלֵיהֶם, אִמְּצוּ לְעֶזְרָתִי בִּתְפִלָּתָן בַּה׳ אֱלֹהֵיהֶם:
 
 
 **The inhabitants of Jerusalem were my strength, etc.** The inhabitants of Jerusalem, who know that we came upon them against our will, strengthened my help with their prayer by the Lord, their God.
@@ -3606,7 +3606,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/12:7:1](https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/12:7:1)
 
 
-**וְהוֹשִׁיעַ ה׳ אֶת אָהֳלֵי יְהוּדָה בָּרִאשׁוֹנָה.** בְּטֶרֶם יָבוֹאוּ בְּנֵי יְרוּשָׁלַיִם לָצֵאת מִן הָעִיר, תִּהְיֶה לָהֶם תְּשׁוּעָה לָשׁוּב אֶל אָהֳלֵיהֶם וְאֶל בֵּיתָם. וְאַחַר כָּךְ תָּבֹא תְּשׁוּעָה לִבְנֵי הָעִיר, הִיא הַתְּשׁוּעָה שֶׁנֶּאֱמַר בָּהּ ״וְיָצָא ה׳ וְנִלְחַם״ (זכריה יד:ג):
+**וְהוֹשִׁעַ ה׳ אֶת אָהֳלֵי יְהוּדָה בָּרִאשׁוֹנָה.** בְּטֶרֶם יָבוֹאוּ בְּנֵי יְרוּשָׁלַיִם לָצֵאת מִן הָעִיר, תִּהְיֶה לָהֶם תְּשׁוּעָה לָשׁוּב אֶל אָהֳלֵיהֶם וְאֶל בֵּיתָם. וְאַחַר כָּךְ תָּבֹא תְּשׁוּעָה לִבְנֵי הָעִיר, הִיא הַתְּשׁוּעָה שֶׁנֶּאֱמַר בָּהּ ״וְיָצָא ה׳ וְנִלְחַם״ (זכריה יד:ג):
 
 
 **And the Lord shall first save the tents of Judah** Before the inhabitants of Jerusalem come out of the city, they shall have a salvation - to return to their tents and to their homes - and afterwards the salvation shall come to the inhabitants of the city. That is the salvation concerning which it is stated (14:3): “And the Lord shall go forth and wage war.”
@@ -3831,7 +3831,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/13:1:1](https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/13:1:1)
 
 
-**לְחַטָּאת וּלְנִדָּה.** לְאַדְיוּתָא, וְכֵן תִּרְגֵּם יוֹנָתָן: ״אֶשְׁבּוֹק לְחוֹבֵיהוֹן כְּמָא דְמִדְכָּן בְּמֵי אַדְיוּתָא וּבְקִטְם תּוֹרְתָא דְחַטָּאתָא״ – בְּאֵפֶר חַטָּאת:
+**לְחַטַּאת וּלְנִדָּה.** לְאַדְיוּתָא, וְכֵן תִּרְגֵּם יוֹנָתָן: ״אֶשְׁבּוֹק לְחוֹבֵיהוֹן כְּמָא דְמִדְכָּן בְּמֵי אַדְיוּתָא וּבְקִטְם תּוֹרְתָא דְחַטָּאתָא״ – בְּאֵפֶר חַטָּאת:
 
 
 **for purification and for sprinkling** and for sprinkling. So did Jonathan paraphrase: I will forgive their sins as they become purified with sprinkling water and with the ashes of the cow of purification; i.e., with the ashes of purification.
@@ -3967,7 +3967,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/13:7:5](https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/13:7:5)
 
 
-**וַהֲשִׁיבוֹתִי יָדִי.** וְאֶשְׁנֶה מַכּוֹתַי שֵׁנִית:
+**וַהֲשִׁבֹתִי יָדִי.** וְאֶשְׁנֶה מַכּוֹתַי שֵׁנִית:
 
 
 **and I will return My hand** And I will repeat My blows a second time.
@@ -4123,7 +4123,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/14:5:1](https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/14:5:1)
 
 
-**וְנִסְתַּם גֵּיא הָרַי.** יוֹנָתָן תִּרְגֵּם: ״וְיִסְתַּתֵּם גֵּיא הָרַי״. לְפִי שֶׁ״יְרוּשָׁלַיִם הָרִים סָבִיב לָהּ״ (תהלים קכה:ב), וְיֵשׁ גַּיְא בֵּין הַר שֶׁבַּצָּפוֹן וּבֵין הַר הַזֵּיתִים, וְכֵן בַּדָּרוֹם. וּכְשֶׁיִּמָּשֵׁךְ חֲצִי הַר הַזֵּיתִים אֵצֶל הַר שֶׁבִּצְפוֹנוֹ, יִסָּתֵם הַגַּיְא שֶׁבֵּינֵיהֶם, וְכֵן בַּדָּרוֹם:
+**וְנַסְתֶּם גֵּיא הָרַי.** יוֹנָתָן תִּרְגֵּם: ״וְיִסְתַּתֵּם גֵּיא הָרַי״. לְפִי שֶׁ״יְרוּשָׁלַיִם הָרִים סָבִיב לָהּ״ (תהלים קכה:ב), וְיֵשׁ גַּיְא בֵּין הַר שֶׁבַּצָּפוֹן וּבֵין הַר הַזֵּיתִים, וְכֵן בַּדָּרוֹם. וּכְשֶׁיִּמָּשֵׁךְ חֲצִי הַר הַזֵּיתִים אֵצֶל הַר שֶׁבִּצְפוֹנוֹ, יִסָּתֵם הַגַּיְא שֶׁבֵּינֵיהֶם, וְכֵן בַּדָּרוֹם:
 
 
 **And you shall flee to the valley of the mountains** Jonathan renders. And the valley of the mountains shall be stopped up. Since Jerusalem is surrounded by mountains, and there is a valley between the mountains in the north and the Mount of Olives, and [this is also] so in the south, when half of the Mount of Olives draws toward the mountain in the north, the valley between them will be stopped up. [This will also be] so in the south.
@@ -4167,7 +4167,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/14:5:5](https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/14:5:5)
 
 
-**כַּאֲשֶׁר נָסְתַּם מִפְּנֵי הָרַעַשׁ.** (יְשַׁעְיָהוּ ו:ד) ״וַיָּנֻעוּ אַמּוֹת הַסִּפִּים״ בְּיוֹם שֶׁנִּתְנַגַּע עֻזִּיָּהוּ:
+**כַּאֲשֶׁר נַסְתֶּם מִפְּנֵי הָרַעַשׁ.** (יְשַׁעְיָהוּ ו:ד) ״וַיָּנֻעוּ אַמּוֹת הַסִּפִּים״ בְּיוֹם שֶׁנִּתְנַגַּע עֻזִּיָּהוּ:
 
 
 **as you fled because of the earthquake** [Isa. 6:4] “And the doorposts quaked” on the day that Uzziah was stricken with zaraath.
@@ -4275,7 +4275,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/14:8:2](https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/14:8:2)
 
 
-**יֵצְאוּ מַיִם חַיִּים מִירוּשָׁלַיִם.** וְיֵלְכוּ לַמִּזְרָח דֶּרֶךְ אוֹתָהּ בְּקִיעָה עַד **הַיָּם הַקַּדְמוֹנִי** שֶׁהוּא לְמִזְרָחוֹ שֶׁל עוֹלָם קֵדְמָה. וְחֶצְיוֹ יִפְנֶה לַמַּעֲרָב אֶל יָם הַמַּעֲרָבִי. הוּא הַמַּעְיָן שֶׁנִּבָּא יוֹאֵל (יואל ד:יח) ״וּמַעְיָן מִבֵּית ה׳ יֵצֵא״, הוּא הַנַּחַל שֶׁנִּבָּא (יחזקאל מז:ד) ״וַיָּמָד אֶלֶף וַיַּעֲבִרֵנִי בַמַּיִם וְגוֹ׳״:
+**יֵצְאוּ מַיִם חַיִּים מִירוּשָׁלַ͏ִם.** וְיֵלְכוּ לַמִּזְרָח דֶּרֶךְ אוֹתָהּ בְּקִיעָה עַד **הַיָּם הַקַּדְמוֹנִי** שֶׁהוּא לְמִזְרָחוֹ שֶׁל עוֹלָם קֵדְמָה. וְחֶצְיוֹ יִפְנֶה לַמַּעֲרָב אֶל יָם הַמַּעֲרָבִי. הוּא הַמַּעְיָן שֶׁנִּבָּא יוֹאֵל (יואל ד:יח) ״וּמַעְיָן מִבֵּית ה׳ יֵצֵא״, הוּא הַנַּחַל שֶׁנִּבָּא (יחזקאל מז:ד) ״וַיָּמָד אֶלֶף וַיַּעֲבִרֵנִי בַמַּיִם וְגוֹ׳״:
 
 
 **spring water shall come forth from Jerusalem** and flow to the east by way of the crevice to... **the eastern sea** which is to the east of the world; and half of it will turn to the west, to the western sea. This is the spring concerning which Joel (4:18) prophesied: “And a spring shall emanate from the house of the Lord.” That is the spring concerning which Ezekiel (47:3) prophesied: “And he measured a thousand cubits and he made me pass through the water.”
@@ -4325,7 +4325,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/14:10:2](https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/14:10:2)
 
 
-**מִגֶּבַע לְרִמּוֹן נֶגֶב יְרוּשָׁלִָם.** שָׁנִינוּ בְּתוֹסֶפְתָּא דְּסוֹטָה (תוספתא סוטה יא,יד): נֶגֶב יְרוּשָׁלִַם מִישׁוֹר הוּא, וְגֶבַע רִמּוֹן טְרָשִׁין וְקַרְקְשִׁין. וְכֵן פִּתְרוֹנוֹ: **מִגֶּבַע לְרִמּוֹן**, שֶׁהוּא מְקוֹם הָרִים, מִשָּׁם יַתְחִילוּ לִהְיוֹת נֶהְפָּכִין לַעֲרָבָה וּלְמִישׁוֹר, וְיִהְיוּ דוֹמִין לְנֶגֶב **יְרוּשָׁלִַם**, שֶׁהוּא מִישׁוֹר:
+**מִגֶּבַע לְרִמּוֹן נֶגֶב יְרוּשָׁלָ͏ִם.** שָׁנִינוּ בְּתוֹסֶפְתָּא דְּסוֹטָה (תוספתא סוטה יא,יד): נֶגֶב יְרוּשָׁלִַם מִישׁוֹר הוּא, וְגֶבַע רִמּוֹן טְרָשִׁין וְקַרְקְשִׁין. וְכֵן פִּתְרוֹנוֹ: **מִגֶּבַע לְרִמּוֹן**, שֶׁהוּא מְקוֹם הָרִים, מִשָּׁם יַתְחִילוּ לִהְיוֹת נֶהְפָּכִין לַעֲרָבָה וּלְמִישׁוֹר, וְיִהְיוּ דוֹמִין לְנֶגֶב **יְרוּשָׁלִַם**, שֶׁהוּא מִישׁוֹר:
 
 
 **from the hill of Rimmon** We learned in Tosefta of Sotah (11:14): South of Jerusalem is a plain, and the hill of Rimmon is rocks and clods. Rather, so is [the] interpretation [of this phrase]: From the hill of Rimmon, which is a mountainous place from there [the mountains of the world] will begin to be changed, to [be] a plain; and they will be like the south of Jerusalem, which is a plain.
@@ -4347,7 +4347,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/14:10:4](https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/14:10:4)
 
 
-**וְיָָָשְׁבָה תַּחְתֶּיהָ.** בִּמְקוֹמָהּ:
+**וְיָשְׁבָה תַּחְתֶּיהָ.** בִּמְקוֹמָהּ:
 
 
 **and remain in its old place** in its place
@@ -4450,7 +4450,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/14:15:1](https://torahapp.org/share/book/Rashi%20on%20Zechariah/r/14:15:1)
 
 
-**כַּמַּגֵּפָה הַזֹּאת.** הַמְפֹרֶשֶׁת לְמַעְלָה **הָמֵק בְּשָׂרוֹ**:
+**כַּמַּגֵּפָה הַזֹּאת.** הַמְפֹרֶשֶׁת לְמַעְלָה ״הָמֵק בְּשָׂרוֹ״:
 
 
 **similar to this plague** which is delineated above, that his flesh shall waste away.

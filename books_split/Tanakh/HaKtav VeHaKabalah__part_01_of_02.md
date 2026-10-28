@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): HaKtav VeHaKabbalah, Frankfurt 1880 (Segments: 2915, License: Public Domain)
 
-Version (En): Yalkut, Sifsei Chachomim Chumash, Metsudah Publications, 2009 (Segments: 75)
+Version (En): Sefaria Community Translation (Segments: 75)
 
 # HaKtav VeHaKabalah — part 1 of 2
 
@@ -16417,7 +16417,7 @@ And [how] I carried you (literally, “bore you up”). Onkelos translates וא�
 [https://torahapp.org/share/book/HaKtav%20VeHaKabalah/s/Numbers/r/8:24:2](https://torahapp.org/share/book/HaKtav%20VeHaKabalah/s/Numbers/r/8:24:2)
 
 
-**לצבא צבא.**פירוש להתאחד עם החברה (זיך דעם פעראיין אנצושליסען) כי עיקר הוראת צבא הוא התאחדות והתחברות, כמ"ש בבא י"ב מ"א צבאות, וממה שאמר כאן, יבא לצבא, העתיד והמקור, ולעיל (דף ל') בבן שלשים אמר הבא לצבא, ההווה והשם יורה ג"כ על אמתת
+**לצבא צבא.**פירוש להתאחד עם החברה (זיך דעם פעראיין אנצושליסען) כי עיקר הוראת צבא הוא התאחדות והתחברות, כמ"ש בבא י"ב מ"א צבאות, וממה שאמר כאן, יבא לצבא, העתיד והמקור, ולעיל (דף ל') בבן שלשים אמר הבא לצבא, ההווה והשם יורה ג"כ על אמתת דעת רבותינו שכאן ידבר מן המתלמד לעבודה ושם משמוש העבודה:
 
 
 ###### HaKtav VeHaKabalah, Numbers 9:2:1

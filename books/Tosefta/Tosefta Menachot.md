@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Tosefta Menahot - Machon Mamre (Segments: 112, License: Public Domain)
 
-Version (En): Rabbi Mike Feuer (Segments: 4)
+Version (En): Sefaria Community Translation (Segments: 4)
 
 
 ## Chapter 1

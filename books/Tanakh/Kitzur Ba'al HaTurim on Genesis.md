@@ -14,7 +14,7 @@ Location: Tanakh/Rishonim on Tanakh/Kitzur Ba'al HaTurim/Torah
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Kitzur Baal HaTurim (Segments: 626, License: unknown)
+Version (He): On Your Way (Segments: 626, License: Public Domain)
 
 Version (En): Yalkut, Sifsei Chachomim Chumash, Metsudah Publications, 2009 Source: (Segments: 181)
 

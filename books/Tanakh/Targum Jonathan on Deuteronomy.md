@@ -604,7 +604,7 @@ You shall buy fresh provision of them for silver, that you may eat, and water sh
 אִזְדַּהֲרוּן דְּלָא תְעִיקוּן לְהוֹן אֲרוּם יְיָ אֱלָהָכוֹן בְּרִיךְ יַתְכוֹן בְּכָל עוֹבְדֵי יְדֵיכוֹן סוּפֵּיק צָרְכֵיכוֹן בְּמֵיהֲכָךְ בְּמַדְבְּרָא רַבָּא הָדֵין דְּנַן אַרְבְּעִין שְׁנִין מֵימְרָא דַיְיָ אֱלָהָכוֹן בְּסַעַדְכוֹן לָא חֲסַרְתּוּן מִדָּעַם
 
 
-Be careful that you vex them not : for the Lord your God hath blessed you in all the works of your hands, he hath supplied your wants in thy journeying in the great wilderness; these forty years hath the Word of the Lord your God been your helper; you have not wanted anything.
+Be careful that you vex them not: for the Lord your God hath blessed you in all the works of your hands, he hath supplied your wants in thy journeying in the great wilderness; these forty years hath the Word of the Lord your God been your helper; you have not wanted anything.
 
 
 ###### Targum Jonathan on Deuteronomy 2:8
@@ -1856,7 +1856,7 @@ Word to word did the Lord speak with you at the mountain from the midst of the f
 אֲנָא הֲוֵית קָאֵים בֵּין מֵימְרָא דַיְיָ וּבֵינֵיכוֹן בְּעִידָנָא הַהוּא לְמִתְנַיָא לְכוֹן יַת פִּתְגָמַיָא דַיְיָ אֲרוּם דְּחֵלְתּוּן מִן קֳדָם קַל מֵימְרָא דַיְיָ דְּמִשְׁתַּמַע מִגוֹ אֵישָׁתָא וְלָא סְלֵיקְתּוּן בְּטוּרָא כַּד אָמַר
 
 
-I stood between the Word of the Lord and you at that time, to declare to you the word of the Lord, because you were afraid before the voice of the Word of the Lord, which you heard from the midst of the fire; neither did you go up to the mountain while He said :
+I stood between the Word of the Lord and you at that time, to declare to you the word of the Lord, because you were afraid before the voice of the Word of the Lord, which you heard from the midst of the fire; neither did you go up to the mountain while He said:
 
 
 ###### Targum Jonathan on Deuteronomy 5:6
@@ -2899,7 +2899,7 @@ Beware that you say not in your heart, Our strength and the might of our hands h
 וְתֶהֱווֹן דְּכִירִין יַת יְיָ אֱלָהָכוֹן אֲרוּם הוּא דִּיהַב לְכוֹן מִלְכָּא לְמִקְנֵי נִיכְסִין מִן בִּגְלַל לְקַיָימָא יַת קְיָימֵיהּ דְּקַיֵּים לְאַבְהַתְכוֹן כִּזְמַן יוֹמָא הָדֵין
 
 
-but remember the Lord your God ; for He it is who giveth thee counsel whereby to get wealth; that He may confirm the covenant which He sware to your fathers at the time of this day.
+but remember the Lord your God; for He it is who giveth thee counsel whereby to get wealth; that He may confirm the covenant which He sware to your fathers at the time of this day.
 
 
 ###### Targum Jonathan on Deuteronomy 8:19
@@ -3133,7 +3133,7 @@ But I prayed for mercy as at the first before the Lord; forty days and forty nig
 בֵּי הִיא זִמְנָא אִשְׁתַּלְחוּן מִן קֳדָם יְיָ חֲמֵשְׁתֵּי מַלְאָכַיָא מְחַבְּלַיָא לְחַבָּלָא יַת יִשְרָאֵל אַף וְחֵמָה וְקֶצֶף וּמַשְׁחִית וַחֲרוֹן כֵּיוַן דִּי שְׁמַע משֶׁה רַבְּהוֹן דְּיִשְרָאֵל אָזַל וְאַדְכַּר שְׁמָא רַבָּא וְיַקִּירָא וְאוֹקֵים מִקִּבְרֵהוֹן אַבְרָהָם וְיִצְחָק וְיַעֲקב וְקָמוֹן בִּצְלוֹתָא קֳדָם יְיָ וּמִן יַד אִתְכְּלִיאוּ תְּלַת מִנְהוֹן וְאִשְׁתַּיְירוּן תְּרֵין אַף וְחֵימָא בָּעָא משֶׁה רַחֲמִין וְאִיתְכְּלִיאוּ אוּף תְּרֵיהוֹן וְחָפַר שִיַיח בְּאַרְעָא דְמוֹאָב וּטְמַרְנוּן בִּשְׁבוּעַת שְׁמָא רַבָּא וּדְחֵילָא דְּהָכִין כְּתִיב אֲרוּם דְּחֵילִית מִן קֳדָם רוּגְזָא וְחֵימְתָא דִרְגַז יְיָ עֲלֵיכוֹן לִמְשֵׁצְיָא יַתְכוֹן וְקַבֵּיל יְיָ צְלוֹתִי אוּף בְּזִמְנָא הַהוּא
 
 
-At that time five destroying angels were sent from the Lord to destroy Israel, Wrath, Burning, Relentlessness, Destruction, and Indignation; but when Mosheh the Rabban of Israel heard, he went and made memorial of the great and glorious Name, and called. And Abraham, Izhak, and Jakob arose from their tomb, and stood in prayer before the Lord; and forthwith three of them were restrained, and two of them, Wrath and Burning, remained. But Mosheh (yet) supplicated mercy, and were also restrained ; and he digged a grave in the land of Moab and buried them, in swearing by the great and tremendous Name; for so it is written: For I was afraid before the anger with which the Lord was angry with you to destroy you, and the Lord received my prayer at that time also.
+At that time five destroying angels were sent from the Lord to destroy Israel, Wrath, Burning, Relentlessness, Destruction, and Indignation; but when Mosheh the Rabban of Israel heard, he went and made memorial of the great and glorious Name, and called. And Abraham, Izhak, and Jakob arose from their tomb, and stood in prayer before the Lord; and forthwith three of them were restrained, and two of them, Wrath and Burning, remained. But Mosheh (yet) supplicated mercy, and were also restrained; and he digged a grave in the land of Moab and buried them, in swearing by the great and tremendous Name; for so it is written: For I was afraid before the anger with which the Lord was angry with you to destroy you, and the Lord received my prayer at that time also.
 
 
 ###### Targum Jonathan on Deuteronomy 9:20
@@ -7507,7 +7507,7 @@ you shall take of the earliest first fruits which are ripe at the beginning of a
 וּתְעַטְרוּן בְּסַלַיָא וְצִינַיָא וּפֵיפוּרַיָא וְתֵיעֲלוּן לְוַת כַּהֲנָא דִי יֶהֱוֵי מְמַנֵי לְכַהֵן רַב בְּיוֹמַיָא הָאִינוּן וְתֵימְרוּן לֵיהּ אוֹדִינָן יוֹמָא דֵין קֳדָם יְיָ אֱלָהָךְ אֲרוּם עָלֵינָן לְאַרְעָא דְקַיֵים יְיָ לְאַבְהָתָן לְמִתַּן לָנָא
 
 
-And you shall put crowns upon the baskets, hampers, and paper cases, and bring them to the priest appointed to be the chief priest in those days, and shall say to him : We acknowledge this day before the Lord thy God that we have come into the land which the Lord sware unto our fathers to give us.
+And you shall put crowns upon the baskets, hampers, and paper cases, and bring them to the priest appointed to be the chief priest in those days, and shall say to him: We acknowledge this day before the Lord thy God that we have come into the land which the Lord sware unto our fathers to give us.
 
 
 ###### Targum Jonathan on Deuteronomy 26:4

@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat David/Prophets
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 1045, License: Public Domain)
+Version (He): On Your Way (Segments: 1043, License: Public Domain)
 
 Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 7)
 
@@ -174,7 +174,7 @@ How do you know- Maybe from assumption, maybe from a rumor.
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/1:19:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/1:19:1)
 
 
-**הצבי ישראל.** כאומר ; אולם עתה עת לקונן במר נפש לומר: הצבי ישראל, רצה לומר: את ארץ ישראל החמודה, וכי ראוי שיהיה חלל על במותיך הם הרי גלבוע, ואיך נפלו שם גבורים, ורצה לומר: הלא אף החלשים יתחזקו בעמדם על ההר, ועל במותיך נפלו אף הגבורים:
+**הצבי ישראל.** כאומר: אולם עתה עת לקונן במר נפש לומר: הצבי ישראל, רצה לומר: את ארץ ישראל החמודה, וכי ראוי שיהיה חלל על במותיך הם הרי גלבוע, ואיך נפלו שם גבורים, ורצה לומר: הלא אף החלשים יתחזקו בעמדם על ההר, ועל במותיך נפלו אף הגבורים:
 
 
 
@@ -1233,7 +1233,7 @@ How do you know- Maybe from assumption, maybe from a rumor.
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/3:36:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/3:36:2)
 
 
-**ככל אשך עשה.** הוטב בעיניהם כל אשר עשה, והם: ההליכה אחר המטה, והבכי, והקינה:
+**ככל אשר עשה.** הוטב בעיניהם כל אשר עשה, והם: ההליכה אחר המטה, והבכי, והקינה:
 
 
 
@@ -1735,7 +1735,7 @@ the stronghold of Zion – This is the name of a strong fortress next to Jebus.
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/5:24:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/5:24:1)
 
 
-**כשמעך.** כאשר תשמע קול צעדה וכו׳, אז תחרץ להלחם כי אז יצא ה׳, רצה לומר: אז שלח מלאכו להכות בהם (ועם שאין מעוצור לה׳ להושיע מבלי תחבולות הסבוב מאחריהם, ומבלי קביעת זמן, מכל מקום אמר כן לנסותו, הישמור מצותיו בדבר המלחמה, או יקל בעניו כאשר הקל בהם שאול):
+**כשמעך.** כאשר תשמע קול צעדה וכו׳, אז תחרץ להלחם כי אז יצא ה׳, רצה לומר: אז שלח מלאכו להכות בהם (ועם שאין מעצור לה׳ להושיע מבלי תחבולות הסבוב מאחריהם, ומבלי קביעת זמן, מכל מקום אמר כן לנסותו, הישמור מצותיו בדבר המלחמה, או יקל בעניו כאשר הקל בהם שאול):
 
 
 
@@ -2746,15 +2746,7 @@ the stronghold of Zion – This is the name of a strong fortress next to Jebus.
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/8:17:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/8:17:1)
 
 
-**כהנים.** רצה לומר:
-
-
-###### Metzudat David on II Samuel 8:17:2
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/8:17:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/8:17:2)
-
-
-**שרי הכהנים, צדוק היה משוח מלחמה, ואחימלך סגן.** ולא חשב את אביתר לכהן גדול, כי לא הועמד עתה כי אם מאז מלך על יהודה, אבל יואב עם שהיה שר הצבא מאז, מכל מקום הועמד עתה להיות שר על כל הצבא, אף משל ישראל או על שחזר דוד והעמיד את צדוק לכהן גדול, לזה לא חשב את אביתר, כי לא היה דבר המתקיים:
+**כהנים.** רצה לומר: שרי הכהנים, צדוק היה משוח מלחמה, ואחימלך סגן. ולא חשב את אביתר לכהן גדול, כי לא הועמד עתה כי אם מאז מלך על יהודה, אבל יואב עם שהיה שר הצבא מאז, מכל מקום הועמד עתה להיות שר על כל הצבא, אף משל ישראל או על שחזר דוד והעמיד את צדוק לכהן גדול, לזה לא חשב את אביתר, כי לא היה דבר המתקיים:
 
 
 
@@ -3781,7 +3773,7 @@ the stronghold of Zion – This is the name of a strong fortress next to Jebus.
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/12:28:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/12:28:2)
 
 
-**פן אלכוד אני.** כי היה קרוב הדבר, הואיל ולכד את המים, ורצה לומר: כשאלכוד אני, פן יקרא שמי עלי, ודוגמתו (דברים ח יב): פן תאכל ושבעת וגו׳ ורם לבבך וגו׳, ומשפטו: כשתאכל ושבעת, פן יהיה רם לבבך:
+**פן אלכוד אני.** כי היה קרוב הדבר, הואיל ולכד את המים, ורצה לומר: כשאלכוד אני, פן יקרא שמי עליה, ודוגמתו (דברים ח יב): פן תאכל ושבעת וגו׳ ורם לבבך וגו׳, ומשפטו: כשתאכל ושבעת, פן יהיה רם לבבך:
 
 
 ###### Metzudat David on II Samuel 12:28:3
@@ -3847,7 +3839,7 @@ And it was on the head of David: it was hung above his head when he was sitting 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/13:1:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/13:1:1)
 
 
-**אחות.** מן האב ומן האם כי, מעכה בת מלך גשור היתה יפת תואר ולקחה דוד במלחמה, ובא עליה קודם שנתגיירה ונתעברה וילדה את תמר, ואת אבשלום ילדה אחר שנתגיירה (סנהדרין כא א):
+**אחות.** מן האב ומן האם, כי מעכה בת מלך גשור היתה יפת תואר ולקחה דוד במלחמה, ובא עליה קודם שנתגיירה ונתעברה וילדה את תמר, ואת אבשלום ילדה אחר שנתגיירה (סנהדרין כא א):
 
 
 
@@ -4625,7 +4617,7 @@ And it was on the head of David: it was hung above his head when he was sitting 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/14:14:1](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/14:14:1)
 
 
-**כי מות נמות.** חזרה להביא טענות לטובת אבשלום, ואמרה ; הלא כולנו מות נמות, ואם כן ההומת קודם זמנו, אין לו תרעומות רב כל כך, אחרי שסופו למות, ואם כן אין להמית הרוצח בעבור זה, הואיל ולא חייבה התורה, כי בלא התראה נהיתה:
+**כי מות נמות.** חזרה להביא טענות לטובת אבשלום, ואמרה: הלא כולנו מות נמות, ואם כן ההומת קודם זמנו, אין לו תרעומות רב כל כך, אחרי שסופו למות, ואם כן אין להמית הרוצח בעבור זה, הואיל ולא חייבה התורה, כי בלא התראה נהיתה:
 
 
 ###### Metzudat David on II Samuel 14:14:2
@@ -5342,15 +5334,7 @@ And it was on the head of David: it was hung above his head when he was sitting 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/15:31:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/15:31:2)
 
 
-**סכל נא וגו׳.** רצה לומר:
-
-
-###### Metzudat David on II Samuel 15:31:3
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/15:31:3](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/15:31:3)
-
-
-**אתה ה׳, סכל עצתו לבל ייעץ בחכמה.** או רצה לומר: שיתן בלב אבשלום, לחשוב אשר עצת אחיתופל היא עצה סכלה:
+**סכל נא וגו׳.** רצה לומר: אתה ה׳, סכל עצתו לבל ייעץ בחכמה. או רצה לומר: שיתן בלב אבשלום, לחשוב אשר עצת אחיתופל היא עצה סכלה:
 
 
 
@@ -7948,7 +7932,7 @@ And it was on the head of David: it was hung above his head when he was sitting 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/21:4:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/21:4:2)
 
 
-**.** מה אתם אומרים רצה לומר: ומה המשפט שאתם חפצים, אמרו נא ואעשנה:
+**מה אתם אומרים.** רצה לומר: ומה המשפט שאתם חפצים, אמרו נא ואעשנה:
 
 
 
@@ -9284,7 +9268,7 @@ And it was on the head of David: it was hung above his head when he was sitting 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/23:8:3](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/23:8:3)
 
 
-**על שמונה מאות.** מוסב למעלה, לומר שהיה יושב בישיבת החכמה, על אשר היה הורג בפעם אחת שמונה מאות חלל, ואף כי נתייגע בהורגו הרג רב, מכל מקום חזר לישב בישיבת החכמה, על ההריגה וסמוך לה (ובדברי הימים נאמר ; הוא עורר את חניתו על שלש מאות חלל וגו׳, כי שם משבחו בהגבורה לבד, לומר על הריגת שלש מאות חלל, וסמוך לה היה עורר את חניתו להלחם עמו כאלו עתה התחיל להלחם, וכאן משבחו באהבת החכמה עם הגבורה):
+**על שמונה מאות.** מוסב למעלה, לומר שהיה יושב בישיבת החכמה, על אשר היה הורג בפעם אחת שמונה מאות חלל, ואף כי נתייגע בהורגו הרג רב, מכל מקום חזר לישב בישיבת החכמה, על ההריגה וסמוך לה (ובדברי הימים נאמר: הוא עורר את חניתו על שלש מאות חלל וגו׳, כי שם משבחו בהגבורה לבד, לומר על הריגת שלש מאות חלל, וסמוך לה היה עורר את חניתו להלחם עמו כאלו עתה התחיל להלחם, וכאן משבחו באהבת החכמה עם הגבורה):
 
 
 
@@ -9778,7 +9762,7 @@ And it was on the head of David: it was hung above his head when he was sitting 
 [https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/24:7:2](https://torahapp.org/share/book/Metzudat%20David%20on%20II%20Samuel/r/24:7:2)
 
 
-**וכל ערי החוי והכנעני.** רוצה לומר: הערים אשר החוי והכנעני יושבים [ בהר ] בהם בתוך בני ישראל:
+**וכל ערי החוי והכנעני.** רוצה לומר: הערים אשר החוי והכנעני יושבים [בהר] בהם בתוך בני ישראל:
 
 
 ###### Metzudat David on II Samuel 24:7:3

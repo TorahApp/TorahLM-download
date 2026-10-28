@@ -2090,7 +2090,7 @@ The Gemara answers that **Rava** could **say to you: With regard to** the anoint
 [https://torahapp.org/share/book/Keritot/r/5a:24](https://torahapp.org/share/book/Keritot/r/5a:24)
 
 
-תְּנָא מִנְיָינָא קָא מַשְׁמַע לַן? תְּנָא הָא קָא קַשְׁיָא לֵיהּ, אֵימָא: קְנֵה בֹשֶׂם כְּקִנְּמׇן בֶּשֶׂם, מָה קִנְּמׇן בֶּשֶׂם מַחֲצִיתוֹ בַּחֲמִשִּׁים וּמָאתַיִם – אַף קְנֵה בֹשֶׂם מַחֲצִיתוֹ חֲמִשִּׁים וּמָאתָיִם, דְּהָווּ לְהוּ תְּרֵין אֲלָפִים.
+תַּנָּא מִנְיָינָא קָא מַשְׁמַע לַן? תַּנָּא הָא קָא קַשְׁיָא לֵיהּ, אֵימָא: קְנֵה בֹשֶׂם כְּקִנְּמׇן בֶּשֶׂם, מָה קִנְּמׇן בֶּשֶׂם מַחֲצִיתוֹ בַּחֲמִשִּׁים וּמָאתַיִם – אַף קְנֵה בֹשֶׂם מַחֲצִיתוֹ חֲמִשִּׁים וּמָאתָיִם, דְּהָווּ לְהוּ תְּרֵין אֲלָפִים.
 
 
 The Gemara expresses surprise at the statement of the *baraita*: **Does the *tanna*** come to **teach us the tally?** Why is it necessary for the *baraita* to state the sum of the amounts? The Gemara answers that **this is difficult for the *tanna*:** Since the verse states: “And of aromatic cinnamon half so much, two hundred and fifty, and of aromatic calamus two hundred and fifty” (Exodus 30:23), one might **say** that the weight of **aromatic calamus** is **like** that of **aromatic cinnamon: Just as half of** the amount of **aromatic cinnamon** is **two hundred and fifty, so too,** the verse means that **half of** the amount of **aromatic calamus** is **two hundred and fifty, which** would mean that the sum total **is two thousand.**
@@ -2723,7 +2723,7 @@ The Gemara analyzes the mishna: **These items** that are **suitable** for use as
 [https://torahapp.org/share/book/Keritot/r/6a:21](https://torahapp.org/share/book/Keritot/r/6a:21)
 
 
-מַתְקֵיף לַהּ רַב יוֹסֵף: הָא בְּכוּלְּהוּ מוּתָּרוֹת תָּנֵי חוֹזְרִין וְלוֹקְחִין אוֹתָהּ מִתְּרוּמָה חֲדָשָׁה, וְהָכָא לָא תָּנֵי!
+מַתְקֵיף לַהּ רַב יוֹסֵף: הָא בְּכוּלְּהוּ מוֹתָרוֹת תָּנֵי חוֹזְרִין וְלוֹקְחִין אוֹתָהּ מִתְּרוּמָה חֲדָשָׁה, וְהָכָא לָא תָּנֵי!
 
 
 **Rav Yosef objects to this** explanation: How can the mishna in *Shekalim* 4:6 be interpreted as referring to artisans who consecrated leftover incense? **With regard to all leftovers** the *tanna* **teaches: They** would **return and purchase** the incense from the artisans with funds **from the new collection** of shekels, as stated in the mishna earlier. **And** yet **here,** in tractate *Shekalim*, the *tanna* **does not teach** this clause, indicating that it is not speaking of incense paid to the artisans and repurchased from them.
@@ -3904,7 +3904,7 @@ to bring **five provisional guilt offerings, when he brings one** offering **is 
 [https://torahapp.org/share/book/Keritot/r/8b:3](https://torahapp.org/share/book/Keritot/r/8b:3)
 
 
-**הֲדַרַן עֲלָךְ שְׁלֹשִׁים וָשֵׁשׁ **
+**הֲדַרַן עֲלָךְ שְׁלֹשִׁים וָשֵׁשׁ**
 
 
 ###### Keritot 8b:4
@@ -3945,7 +3945,7 @@ to bring **five provisional guilt offerings, when he brings one** offering **is 
 [https://torahapp.org/share/book/Keritot/r/8b:7](https://torahapp.org/share/book/Keritot/r/8b:7)
 
 
-**גְּמָ׳** שְׁנָא זָב וְזָבָה דְּמָנֵי לְהוֹן בִּתְרֵין – מִשּׁוּם דַּחֲלוּקָהּ טוּמְאָתוֹ, דְּזָב לָא מְטַמֵּא בְּאוֹנֶס וְזָבָה לָא מְטַמְּאָה בִּרְאִיּוֹת בְיָמִים,
+**גְּמָ׳** מַאי שְׁנָא זָב וְזָבָה דְּמָנֵי לְהוֹן בִּתְרֵין – מִשּׁוּם דַּחֲלוּקָהּ טוּמְאָתוֹ, דְּזָב לָא מְטַמֵּא בְּאוֹנֶס וְזָבָה לָא מְטַמְּאָה בִּרְאִיּוֹת בְיָמִים,
 
 
 **GEMARA:** The mishna lists four individuals whose status is defined as lacking atonement until their offering is brought: The *zav*, the *zava*, the woman after childbirth, and the leper. The Gemara asks: **What is different** about **a *zav* and a *zava*, that** the *tanna* decided to **count them as two** separate cases? The Gemara answers: They are different **due to** the fact **that the impurity of** a *zav* **is distinct** from that of a *zava*, **as a *zav* does not become impure** if he has a discharge **by accident,** i.e., due to a cause such as an illness or having consumed certain foods, whereas there is no such exemption in the case of a *zava*; **and a *zava*,** unlike a *zav*, **does not become impure by** three **sightings** of menstrual-type blood on one day **like** she becomes impure **by** sightings on three consecutive **days.**
@@ -3956,7 +3956,7 @@ to bring **five provisional guilt offerings, when he brings one** offering **is 
 [https://torahapp.org/share/book/Keritot/r/8b:8](https://torahapp.org/share/book/Keritot/r/8b:8)
 
 
-דתניא: ״מבשרו״ – ולא מחמת אונסו. (ומי טמא) [ומיטמא] בראיות כבימים, דתניא: תלה הכתוב את הזכר בראיות ואת הנקבה בימים. וזבה מטמאה באונס, ולא מטמאה בראיות כבימים.
+דְּתַנְיָא: ״מִבְּשָׂרוֹ״ – וְלֹא מֵחֲמַת אוֹנְסוֹ. (וּמִי טָמֵא) [וּמִיטַּמֵּא] בִּרְאִיּוֹת כִּבְיָמִים, דְּתַנְיָא: תָּלָה הַכָּתוּב אֶת הַזָּכָר בִּרְאִיּוֹת וְאֶת הַנְּקֵבָה בְּיָמִים. וְזָבָה מִטַּמְּאָה בְּאוֹנֶס, וְלֹא מִטַּמְּאָה בִּרְאִיּוֹת כִּבְיָמִים.
 
 
 **As it is taught** in a *baraita*: The verse states: “When any man has a discharge from his flesh, his discharge is impure” (Leviticus 15:2). The term **“from his flesh”** teaches that the discharge is impure only if it is due to an internal cause, **and not due to his accident. And** furthermore, a *zav* **becomes impure by** three **sightings** of gonorrhea-like discharge on one day **like** he becomes impure **by** three such sightings on three consecutive **days, as it is taught** in a *baraita*: **The verse links** the impurity of **the male,** i.e., a *zav*, **to** the number of **sightings** on the same day or on consecutive days, **and** of **the female** *zava* **to** the number of consecutive **days** on which she experiences sightings of blood. **And** by contrast, **a *zava* becomes impure** if she has a discharge **by accident, and does not become impure by** three **sightings** on one day **like** she becomes impure **by** sightings on three consecutive **days.** Therefore, the mishna counts them as two separate cases.
@@ -5646,7 +5646,7 @@ The Gemara asks: **What are we dealing with,** in the case where he is informed 
 [https://torahapp.org/share/book/Keritot/r/12a:3](https://torahapp.org/share/book/Keritot/r/12a:3)
 
 
-איבעיא להו: מאי טעמייהו דרבנן, משום דאדם נאמן על עצמו יותר ממאה איש, או דלמא משום דאמרינן: מיגו דאי בעי אמר ״מזיד הייתי״ – פטור, כי אמר נמי ״לא אכלתי״ – מהימן ופטור?
+אִבַּעְיָא לְהוּ: מַאי טַעְמַיְיהוּ דְּרַבָּנַן, מִשּׁוּם דְּאָדָם נֶאֱמָן עַל עַצְמוֹ יוֹתֵר מִמֵּאָה אִישׁ, אוֹ דִּלְמָא מִשּׁוּם דְּאָמְרִינַן: מִיגּוֹ דְּאִי בָּעֵי אָמַר ״מֵזִיד הָיִיתִי״ – פָּטוּר, כִּי אָמַר נָמֵי ״לֹא אָכַלְתִּי״ – מְהֵימַן וּפָטוּר?
 
 
 **A dilemma was raised before** the Sages: **What is the reasoning of the Rabbis,** who deem him exempt from bringing an offering? Is it **because** they hold **that a person is deemed credible about himself more than** the testimony of **one hundred people? Or perhaps** it is **because we say** that **since** he could advance a more advantageous claim **[*miggo*],** in **that if he wishes,** he could **say: I did** so **intentionally,** in which case he would be **exempt** from bringing an offering, therefore, **also when he says: I did not eat, he is deemed credible and is exempt.**
@@ -5657,7 +5657,7 @@ The Gemara asks: **What are we dealing with,** in the case where he is informed 
 [https://torahapp.org/share/book/Keritot/r/12a:4](https://torahapp.org/share/book/Keritot/r/12a:4)
 
 
-ומאי נפקא מינה? למיפשט מינה לטומאה, דאי אמרת טעמייהו דרבנן משום דאדם נאמן על עצמו יותר ממאה איש – לא שנא טומאה חדשה ולא שנא טומאה ישנה.
+וּמַאי נָפְקָא מִינָּה? לְמִיפְשַׁט מִינַּהּ לְטוּמְאָה, דְּאִי אָמְרַתְּ טַעְמַיְיהוּ דְּרַבָּנַן מִשּׁוּם דְּאָדָם נֶאֱמָן עַל עַצְמוֹ יוֹתֵר מִמֵּאָה אִישׁ – לָא שְׁנָא טוּמְאָה חֲדָשָׁה וְלָא שְׁנָא טוּמְאָה יְשָׁנָה.
 
 
 The Gemara asks: **And what is the** practical **difference** between the two possibilities? The Gemara answers: The difference is whether it is possible **to resolve from it** the case **of ritual impurity,** when witnesses testify that one became ritually impure before entering the Temple, and he claims that he did not become impure. **If you say** that **the Rabbis’ reasoning is that a person is deemed credible about himself more than** the testimony of **one hundred people,** then it **is no different** if it is a case of **new impurity,** where they testify that he became impure the day he entered the Temple, **and** it **is no different** if it is a case of **old impurity,** where they testify that he became impure at some earlier date. In either case, the person’s claim that he was not impure when he entered the Temple would be deemed credible.
@@ -5668,7 +5668,7 @@ The Gemara asks: **And what is the** practical **difference** between the two po
 [https://torahapp.org/share/book/Keritot/r/12a:5](https://torahapp.org/share/book/Keritot/r/12a:5)
 
 
-ואי אמרת טעמיהון דרבנן משום דאמר ״מיגו״ היא – פטרי ליה רבנן מטומאה ישנה, אבל מטומאה חדשה מחייב. מאי טעמא? טומאה ישנה, מיגו דאי בעי אמר ״טבלתי״ – פטור, כי אמר נמי ״לא נטמאתי״ – פטור, דאיכא למימר: מאי ״לא נטמאתי״ דקאמר – לא עמדתי בטומאתי אלא טבלתי.
+וְאִי אָמְרַתְּ טַעְמֵיהוֹן דְּרַבָּנַן מִשּׁוּם דְּאָמַר ״מִיגּוֹ״ הִיא – פָּטְרִי לֵיהּ רַבָּנַן מִטּוּמְאָה יְשָׁנָה, אֲבָל מִטּוּמְאָה חֲדָשָׁה מִחַיַּיב. מַאי טַעְמָא? טוּמְאָה יְשָׁנָה, מִיגּוֹ דְּאִי בָּעֵי אָמַר ״טָבַלְתִּי״ – פָּטוּר, כִּי אָמַר נָמֵי ״לֹא נִטְמֵאתִי״ – פָּטוּר, דְּאִיכָּא לְמֵימַר: מַאי ״לֹא נִטְמֵאתִי״ דְּקָאָמַר – לֹא עָמַדְתִּי בְּטוּמְאָתִי אֶלָּא טָבַלְתִּי.
 
 
 **But if you say** that **the reasoning of the Rabbis is that** he can **say *miggo*,** then **the Rabbis** would **deem him exempt from** the obligation to bring a sliding-scale offering in a case of **old impurity, but** in a case **of new impurity** he **would be obligated** to bring a sliding-scale offering. **What is the reason?** With regard to **old impurity, since if he wishes, he could say: I immersed** in a ritual bath after becoming impure and at sunset I became ritually pure, in which case he would be **exempt** from bringing an offering for having entered the Temple the following day, then **also when he says: I did not become impure,** he is **exempt, as it can be said: What** does he mean **when he says: I did not become impure?** He means: **I did not remain in my** state of **impurity,** but **rather I immersed** in a ritual bath.
@@ -5679,7 +5679,7 @@ The Gemara asks: **And what is the** practical **difference** between the two po
 [https://torahapp.org/share/book/Keritot/r/12a:6](https://torahapp.org/share/book/Keritot/r/12a:6)
 
 
-אבל טומאה חדשה – מחייב, מאי טעמא? דכי אמר נמי ״טבלתי״ – מחייב, דאמרו ליה עדים: השתא נטמאת.
+אֲבָל טוּמְאָה חֲדָשָׁה – מִחַיַּיב, מַאי טַעְמָא? דְּכִאי אָמַר נָמֵי ״טָבַלְתִּי״ – מִחַיַּיב, דְּאָמְרוּ לֵיהּ עֵדִים: הַשְׁתָּא נִטְמֵאתָ.
 
 
 **But** in a case of **new impurity,** he **would be obligated** to bring an offering. **What is the reason?** It is **because even when he says: I immersed** in a ritual bath, he **would be obligated** to bring an offering if he entered the Temple, **as the witnesses would say to him: You became impure** just **now,** and you could not have purified yourself in the meantime.
@@ -5690,7 +5690,7 @@ The Gemara asks: **And what is the** practical **difference** between the two po
 [https://torahapp.org/share/book/Keritot/r/12a:7](https://torahapp.org/share/book/Keritot/r/12a:7)
 
 
-מאי? תא שמע: אמר לו עד אחד: נטמאת, והוא אומר: לא נטמאתי – פטור. יכול אפילו שנים? אמר רבי מאיר: קל וחומר, אם הביאוהו שנים למיתה חמורה – לא יביאוהו לידי קרבן הקל? וחכמים אומרים: אדם נאמן על עצמו יותר ממאה איש. שמע מינה טעמייהו דרבנן משום דאמרי: אדם נאמן על עצמו יותר ממאה איש.
+מַאי? תָּא שְׁמַע: אָמַר לוֹ עֵד אֶחָד: נִטְמֵאתָ, וְהוּא אוֹמֵר: לֹא נִטְמֵאתִי – פָּטוּר. יָכוֹל אֲפִילּוּ שְׁנַיִם? אָמַר רַבִּי מֵאִיר: קַל וָחוֹמֶר, אִם הֱבִיאוּהוּ שְׁנַיִם לְמִיתָה חֲמוּרָה – לֹא יְבִיאוּהוּ לִידֵי קׇרְבָּן הַקַּל? וַחֲכָמִים אוֹמְרִים: אָדָם נֶאֱמָן עַל עַצְמוֹ יוֹתֵר מִמֵּאָה אִישׁ. שְׁמַע מִינַּהּ טַעְמַיְיהוּ דְּרַבָּנַן מִשּׁוּם דְּאָמְרִי: אָדָם נֶאֱמָן עַל עַצְמוֹ יוֹתֵר מִמֵּאָה אִישׁ.
 
 
 **What,** then, is the reasoning of the Rabbis? The Gemara suggests: **Come** and **hear** a *baraita*: If **one witness said to** a person: **You became impure, and he says: I did not become impure,** he is **exempt** from bringing an offering. One **might** have thought this is the *halakha* **even** where **two** witnesses said this. **Rabbi Meir said:** This conclusion can be inferred ***a fortiori*: If two** witnesses could have **brought him** liability **to** receive the **severe** punishment of **death,** can **they not bring him** liability **to** bring **an offering, which is** relatively **lenient? And the Rabbis say: A person is deemed credible about himself more than** the testimony of **one hundred people.** The Gemara explains its suggestion: **Learn from** the *baraita* that **the reasoning of the Rabbis is that they say** that **a person is deemed credible about himself more than** the testimony of **one hundred people.**
@@ -7006,7 +7006,7 @@ By contrast, **Rav Naḥman bar Yitzḥak said: Perhaps Sumakhos says** that one
 [https://torahapp.org/share/book/Keritot/r/15a:7](https://torahapp.org/share/book/Keritot/r/15a:7)
 
 
-לוֹ: לֹא שָׁמַעְנוּ, אֲבָל שָׁמַעְנוּ: הַבָּא עַל חָמֵשׁ נָשָׁיו נִדּוֹת בְּהֶעְלֵם (אַחַת) [אֶחָד], שֶׁהוּא חַיָּיב עַל כׇּל אַחַת וְאֶחָת, (וְרוֹאֶה אֲנִי) [וְרוֹאִין אָנוּ] שֶׁהַדְּבָרִים קַל וָחֹמֶר.
+אָמְרוּ לוֹ: לֹא שָׁמַעְנוּ, אֲבָל שָׁמַעְנוּ: הַבָּא עַל חָמֵשׁ נָשָׁיו נִדּוֹת בְּהֶעְלֵם (אַחַת) [אֶחָד], שֶׁהוּא חַיָּיב עַל כׇּל אַחַת וְאֶחָת, (וְרוֹאֶה אֲנִי) [וְרוֹאִין אָנוּ] שֶׁהַדְּבָרִים קַל וָחֹמֶר.
 
 
 **They said to** Rabbi Akiva: **We did not hear** a ruling from our teachers about that case, **but we heard** the following ruling: **One who engages in intercourse with** each of **his five wives** while they are **menstruating, during one lapse of awareness,** we heard **that he is liable** to bring a separate sin offering **for** having engaged in intercourse with **each and every one** of them. **And it appears to me that these matters** can be derived from **an *a fortiori*** inference: If he is liable to bring separate sin offerings for having engaged in intercourse with five menstruating women, who are forbidden by one prohibition, he should certainly be liable to bring separate sin offerings for having engaged in intercourse with his sister, the sister of his father, and the sister of his mother, who are forbidden by three separate prohibitions.
@@ -8327,7 +8327,7 @@ The Gemara asks: **And according to** the opinion of **Ḥiyya bar Rav, who says
 [https://torahapp.org/share/book/Keritot/r/17b:12](https://torahapp.org/share/book/Keritot/r/17b:12)
 
 
-אָמַר רַב יְהוּדָה אָמַר רַב: הָיוּ לְפָנָיו שְׁתֵּי חֲתִיכוֹת, אַחַת שֶׁל שׁוּמָּן וְאַחַת שֶׁל חֵלֶב, אָכַל אַחַת מֵהֶן וְאֵינוֹ יוֹדֵעַ אֵיזוֹ מֵהֶן אָכַל – חַיָּיב חֲתִיכָה אַחַת, סָפֵק שֶׁל חֵלֶב סָפֵק שֶׁל שׁוּמָּן וַאֲכָלָהּ – פָּטוּר.
+אָמַר רַב יְהוּדָה אָמַר רַב: הָיוּ לְפָנָיו שְׁתֵּי חֲתִיכוֹת, אַחַת שֶׁל שׁוּמָּן וְאַחַת שֶׁל חֵלֶב, אָכַל אַחַת מֵהֶן וְאֵינוֹ יוֹדֵעַ אֵיזוֹ מֵהֶן אָכַל – חַיָּיב. חֲתִיכָה אַחַת, סָפֵק שֶׁל חֵלֶב סָפֵק שֶׁל שׁוּמָּן וַאֲכָלָהּ – פָּטוּר.
 
 
 § The Gemara cites a series of virtually identical statements attributed to Rav, followed by different rationales for his opinion, after each of which it raises several objections from a *baraita* or a mishna. **Rav Yehuda says** that **Rav says:** In a case where **one had two pieces** of fat **before him, one of** permitted **fat and one of** forbidden **fat,** if **he ate one of them and he does not know which of them he ate,** he is **obligated** to bring a provisional guilt offering. But if there was only **one piece** before him and there was **uncertainty** whether it was **of** forbidden **fat** and **uncertainty** whether it was **of** permitted **fat, and he ate it,** he is **exempt.**
@@ -9274,7 +9274,7 @@ The *baraita* continues: **But** in a case where there is **uncertainty** whethe
 [https://torahapp.org/share/book/Keritot/r/19b:12](https://torahapp.org/share/book/Keritot/r/19b:12)
 
 
-תָּא שְׁמַע: חָטָא וְלֹא יָדַע בַּמֶּה חָטָא, אוֹ סָפֵק חָטָא סָפֵק לֹא חָטָא – מֵבִיא אָשָׁם תָּלוּי. מַאן שְׁמַעְנָא לֵיהּ דְּאָמַר: חָטָא וְאֵין יָדוּעַ בְּמַאי חָטָא מֵבִיא אָשָׁם תָּלוּי? רַבִּי שִׁמְעוֹן, וְקָא תָנֵי: סָפֵק חָטָא סָפֵק לֹא חָטָא – מֵבִיא אָשָׁם תָּלוּי, שְׁמַע מִינַּהּ: סְבִירָא לֵיהּ לְרַבִּי שִׁמְעוֹן: סָפֵק חֵטְא סָפֵק לֹא חָטָא – מֵבִיא אָשָׁם תָּלוּי.
+תָּא שְׁמַע: חָטָא וְלֹא יָדַע בַּמֶּה חָטָא, אוֹ סָפֵק חָטָא סָפֵק לֹא חָטָא – מֵבִיא אָשָׁם תָּלוּי. מַאן שְׁמַעְנָא לֵיהּ דְּאָמַר: חָטָא וְאֵין יָדוּעַ בְּמַאי חָטָא מֵבִיא אָשָׁם תָּלוּי? רַבִּי שִׁמְעוֹן, וְקָא תָנֵי: סָפֵק חָטָא סָפֵק לֹא חָטָא – מֵבִיא אָשָׁם תָּלוּי, שְׁמַע מִינַּהּ: סְבִירָא לֵיהּ לְרַבִּי שִׁמְעוֹן: סָפֵק חָטָא סָפֵק לֹא חָטָא – מֵבִיא אָשָׁם תָּלוּי.
 
 
 The Gemara suggests: **Come** and **hear** a proof from a *baraita*: If **one sinned and did not know with what** item **he sinned, or** if there is **uncertainty** whether **he sinned** and **uncertainty** whether **he did not sin,** he **brings a provisional guilt offering.** The Gemara infers: **Whom did you hear who says** that if **one sinned and did not know with what** item **he sinned** he must **bring a provisional guilt offering?** It is **Rabbi Shimon.** Consequently, this *baraita* must be in accordance with his opinion, **and it teaches:** If there is **uncertainty** whether **one sinned** and **uncertainty** whether **one did not sin,** he **brings a provisional guilt offering. Conclude from** the *baraita* that **Rabbi Shimon holds:** If there is **uncertainty** if **one sinned** and **uncertainty** if **one did not sin,** he **brings a provisional guilt offering.**
@@ -10020,7 +10020,7 @@ The Gemara asks: **To which** form of **diverse kinds** is this referring? **If 
 [https://torahapp.org/share/book/Keritot/r/21b:12](https://torahapp.org/share/book/Keritot/r/21b:12)
 
 
-מַאי אֵין חַיָּיבִין עָלָיו – כָּרֵת, אֲ[בָל]
+מַאי אֵין חַיָּיבִין עָלָיו – כָּרֵת, אֲ[בָל] לָאו – מִחַיַּיב.
 
 
 The Gemara answers: **What** is the meaning of the clause: **One is not liable for** its consumption? It means that one is not liable to receive ***karet*** for consuming it, but one **is liable for** violating **a prohibition.**
@@ -11231,7 +11231,7 @@ The Gemara responds: With regard to **an idolatrous city, which** involves **man
 [https://torahapp.org/share/book/Keritot/r/24a:16](https://torahapp.org/share/book/Keritot/r/24a:16)
 
 
-וּמַאי שְׁנָא מֵהָא דְּאָמַר רַבָּה בַּר אֲבוּהּ אָמַר רַב שֵׁשֶׁת, וְאָמְרִי לַהּ אָמַר רַבִּי אֲבָהוּ אָמַר רַב שֵׁשֶׁת: מְקַבֵּל מַתָּנָה שֶׁאָמַר לְאַחַר שֶׁבָּאת מַתָּנָה לְיָדוֹ: ״מַתָּנָה זוֹ תִּיבָּטֵל״ – מְבוּטֶּלֶת, ״אִי אֶפְשִׁי בָּהּ״ – דְּבָרָיו קַיָּימִין. ״בְּטֵילָה״, ״אֵינָהּ מַתָּנָה״ – לֹא אָמַר כְּלוּם.
+וּמַאי שְׁנָא מֵהָא דְּאָמַר רַבָּה בַּר אֲבוּהּ אָמַר רַב שֵׁשֶׁת, וְאָמְרִי לַהּ אָמַר רַבִּי אֲבָהוּ אָמַר רַב שֵׁשֶׁת: מְקַבֵּל מַתָּנָה שֶׁאָמַר לְאַחַר שֶׁבָּאת מַתָּנָה לְיָדוֹ: ״מַתָּנָה זוֹ תִּיבָּטֵל״, ״מְבוּטֶּלֶת״, ״אִי אֶפְשִׁי בָּהּ״ – דְּבָרָיו קַיָּימִין. ״בְּטֵילָה״, ״אֵינָהּ מַתָּנָה״ – לֹא אָמַר כְּלוּם.
 
 
 The Gemara raises a difficulty: **And what is different between** this case and **that** statement **which Rabba bar Avuh says** that **Rav Sheshet says, and some say** that **Rabbi Abbahu says** that **Rav Sheshet says:** With regard to **one who receives a gift who, after the gift entered his possession, said: Let this gift become void,** or said: This gift **is rendered void,** or said: **I do not want it, his statement is effective.** But if he said: **It is void,** or: **It is not a gift,** it is as though **he said nothing.**
@@ -11892,7 +11892,7 @@ Abaye continues: If so, when it states: **“And all their transgressions, for a
 [https://torahapp.org/share/book/Keritot/r/26a:1](https://torahapp.org/share/book/Keritot/r/26a:1)
 
 
-לְמִפְשְׁטַיהּ לָא מִדְּרַב דִּימִי וְלָא מִדְּאַבַּיֵּי,
+לְמִפְשְׁטַהּ לָא מִדְּרַב דִּימִי וְלָא מִדְּאַבַּיֵּי,
 
 
 and find a way **to explain** that *halakha*, **neither from** that statement **of Rav Dimi,** who derived it from the verse: “And from their transgressions, for all their sins” (Leviticus 16:16), **nor from that** statement **of Abaye,** who derived it from the verse: “For all their transgressions, for all their sins” (Leviticus 16:21).

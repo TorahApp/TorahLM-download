@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Jerusalem, 1953 (Segments: 1998, License: unknown)
 
-Version (En): Publicado em 5784, Saymon Pires da Silva [pt] (Segments: 6)
+Version (En): Sefaria Community Translation (Segments: 6)
 
 
 ## From Adam to Noah

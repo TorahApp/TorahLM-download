@@ -14,9 +14,9 @@ Location: Tanakh/Rishonim on Tanakh/Chizkuni
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Chizkuni (Segments: 5836, License: Public Domain)
+Version (He): Chizkuni (Segments: 5837, License: Public Domain)
 
-Version (En): Chizkuni, translated and annotated by Eliyahu Munk (Segments: 5528)
+Version (En): Sefaria Community Translation (Segments: 5529)
 
 
 ## Introduction
@@ -17617,7 +17617,7 @@ If you keep refusing to release My firstborn, הנה אנכי הורג את בנ
 **ויהי בדרך במלון** פסוק זה ראוי להיות דבוק אל ויקח משה את אשתו ואת בניו כמו שלם ישלם שדינו להיות דבוק אל חמשה בקר ישלם תחת השור, אלא ע״‎י שמסר לו את דבריו בשעת המסע הפסיק בינתיים.
 
 
-ויהי בדרך למלון, “it was while they had been on the way, at an inn; this verse ought to have been appended to verse 20 where we were told: ויקח מה את אשתו ואת בניו, “Moses took his wife and his sons;” it is similarly out of place as is Exodus 21,36 שלם ישלם “he is to pay double,” really belongs in verse 37 in that chapter. The reason why it is written where it is, is that the Torah did not want to interrupt what G-d had been saying to Moses.
+ויהי בדרך למלון, “it was while they had been on the way, at an inn; this verse ought to have been appended to verse 20 where we were told: ויקח משה את אשתו ואת בניו, “Moses took his wife and his sons;” it is similarly out of place as is Exodus 21,36 שלם ישלם “he is to pay double,” really belongs in verse 37 in that chapter. The reason why it is written where it is, is that the Torah did not want to interrupt what G-d had been saying to Moses.
 
 
 ###### Chizkuni, Exodus 4:24:2
@@ -20064,15 +20064,26 @@ the word נא introduces a request as opposed to a command.
 [https://torahapp.org/share/book/Chizkuni/s/Exodus/r/12:16:1](https://torahapp.org/share/book/Chizkuni/s/Exodus/r/12:16:1)
 
 
-**מקרא קדש** כתרגומו מערע קדיש, בו יארע קדוש י״‎ט. כל מלאכה לא יעשה בהם פרש״‎י אפילו ע״‎י אחרים חז״‎ק אם כן מצינו אמירה לא״‎י מן התורה, ואמרינן בעלמא דאמירה לא״‎י שבות.
+**מקרא קדש** כתרגומו מערע קדיש, בו יארע קדוש י״‎ט.
 
 
-מקרא קדש, “a holy convocation.” According to its translation into Aramaic, this expression means: מארע קדיש, “a festival.” On that day holy things occur.כל מלאכה לא יעשה בהם, “no creative kind of work may be performed on these days. This formulation, according toRashi, includes that no gentile perform such work on behalf of or for the benefit of a Jew. If that were correct, the Torah would have legislated for the gentiles, and this would contradict the statement in the Talmud Shabbat folio 150, that asking a gentile to perform work for you on the Sabbath is a Rabbinical and not Biblical prohibition.
+מקרא קדש, “a holy convocation.” According to its translation into Aramaic, this expression means: מארע קדיש, “a festival.” On that day holy things occur.
 
 
 ###### Chizkuni, Exodus 12:16:2
 
 [https://torahapp.org/share/book/Chizkuni/s/Exodus/r/12:16:2](https://torahapp.org/share/book/Chizkuni/s/Exodus/r/12:16:2)
+
+
+**כל מלאכה לא יעשה בהם** פרש״‎י אפילו ע״‎י אחרים חז״‎ק אם כן מצינו אמירה לא״‎י מן התורה, ואמרינן בעלמא דאמירה לא״‎י שבות.
+
+
+כל מלאכה לא יעשה בהם, “no creative kind of work may be performed on these days. This formulation, according toRashi, includes that no gentile perform such work on behalf of or for the benefit of a Jew. If that were correct, the Torah would have legislated for the gentiles, and this would contradict the statement in the Talmud Shabbat folio 150, that asking a gentile to perform work for you on the Sabbath is a Rabbinical and not Biblical prohibition.
+
+
+###### Chizkuni, Exodus 12:16:3
+
+[https://torahapp.org/share/book/Chizkuni/s/Exodus/r/12:16:3](https://torahapp.org/share/book/Chizkuni/s/Exodus/r/12:16:3)
 
 
 **בהם** בשני הימים ראשון ושביעי.
@@ -20081,9 +20092,9 @@ the word נא introduces a request as opposed to a command.
 בהם, “on them.” On the first and the seventh day of the festival, these types of work are forbidden to be performed.
 
 
-###### Chizkuni, Exodus 12:16:3
+###### Chizkuni, Exodus 12:16:4
 
-[https://torahapp.org/share/book/Chizkuni/s/Exodus/r/12:16:3](https://torahapp.org/share/book/Chizkuni/s/Exodus/r/12:16:3)
+[https://torahapp.org/share/book/Chizkuni/s/Exodus/r/12:16:4](https://torahapp.org/share/book/Chizkuni/s/Exodus/r/12:16:4)
 
 
 **אך אשר יאכל לכל נפש** על שם שכתב כאן כל מלאכה, הוציא מכללה הדבר הנאכל ולכך כתיב בכל החגים במקום אחר כל מלאכת עבודה לא תעשו למעוטי הכנת אוכל נפש שאינה עבודה. אבל בשבת וביום הכפורים שאפילו הכנת אוכל נפש אסורה כתיב בהן כל מלאכה לא תעשו.
@@ -20092,9 +20103,9 @@ the word נא introduces a request as opposed to a command.
 אך אשר יאכל לכל נפש, “However (work needed) for preparing the food for the person is permitted to be performed also on those two days. The reason why the Torah had to add this line is because it had written previously that כל מלאכה, every manner of work is prohibited on these two days, it had to spell out the exception to that rule. On another occasion (Leviticus 23,7) where the festivals are discussed, the work prohibition was mentioned already with the term מלאכת עבודה, the type of menial work performed on the week days, instead of the Torah writing: כל מלאכה “all manner of work.” The Torah wishes us to know that preparing food is not considered “menial work.” The only days on which even this kind of work is forbidden are the Sabbath and Yom Kippur, (which is also called Sabbath) [and had been forbidden in the desert before the Torah had been given as soon as the manna had fallen on the sixth day. Ed.]
 
 
-###### Chizkuni, Exodus 12:16:4
+###### Chizkuni, Exodus 12:16:5
 
-[https://torahapp.org/share/book/Chizkuni/s/Exodus/r/12:16:4](https://torahapp.org/share/book/Chizkuni/s/Exodus/r/12:16:4)
+[https://torahapp.org/share/book/Chizkuni/s/Exodus/r/12:16:5](https://torahapp.org/share/book/Chizkuni/s/Exodus/r/12:16:5)
 
 
 **לכל נפש** פרש״‎י אף לבהמה. והא דאמרינן לכם ולא לכלבים היינו משום שיכול לחזר אחר מזונותיו, יכול לאחרים ת״‎ל אך. ואע״‎ג דכתיב לכם ואמרינן לכם ולא לאחרים תרוייהו צריכי דאי לא כתיב אלא חדא הוה אמינא בשביל האחר עצמו לא יכין אבל להרבות בשבילו מותר להכי איצטריך אך.
@@ -49753,7 +49764,7 @@ The word ניר, means: ”heir;” in the meantime no heir is left of the origi
 **ומחץ פאתי מואב** וגו׳‎ דוגמא הכוכבים ממסילותם נלחמו עם סיסרא. **ומחץ פאתי מואב** הולך ומתנבא שלעתיד יירשו עוד ישראל אדום מואב ועמון כמו שהתנה הקב״‎ה לאברם בברית בין הבתרים את הקיני את הקניזי ואת הקדמוני שהם עמון ומואב ואדום.
 
 
-ומחץ פאתי מואב, “and shall smite even the corners of Moav.” Bileam prophesies that in the future Israel will also capture the territories of Edom, Moav and Ammon. A practical example of this is found in Judges 5,20 during the war between the armies of Barak and Sisera, the Field Marshal of Ammon. During that period even the stars were perceived by the Canaanites and Ammonites as engaging in war against them on behalf of Israel (song of victory by the prophetess Deborah) G-d, in His initial promise to Avraham had included these lands in the ones promised to Avraham’’s descendants. (Genesis chapter 15,1921).
+ומחץ פאתי מואב, “and shall smite even the corners of Moav.” Bileam prophesies that in the future Israel will also capture the territories of Edom, Moav and Ammon. A practical example of this is found in Judges 5,20 during the war between the armies of Barak and Sisera, the Field Marshal of Ammon. During that period even the stars were perceived by the Canaanites and Ammonites as engaging in war against them on behalf of Israel (song of victory by the prophetess Deborah) G-d, in His initial promise to Avraham had included these lands in the ones promised to Avraham’’s descendants. (Genesis chapter 15,19-21).
 
 
 ###### Chizkuni, Numbers 24:17:6
@@ -49764,7 +49775,7 @@ The word ניר, means: ”heir;” in the meantime no heir is left of the origi
 **וקרקר כל בני שת** י״‎מ הם בני מואב שהם בני ערוה וזנות מגזרת חשופי שת.
 
 
-וקרקר כל בני שת, “and break down all the sons of Sheth.” Some commentators understand this prophecy as referring to the Moabites as the latter were the descendants of an incestuous relationship between the daughters of Lot with their father. (Genesis Compare Isaiah 20,5, for use of the word שת in this sense.)
+וקרקר כל בני שת, “and break down all the sons of Sheth.” Some commentators understand this prophecy as referring to the Moabites as the latter were the descendants of an incestuous relationship between the daughters of Lot with their father. (Genesis Compare Isaiah 20:4, for use of the word שת in this sense.)
 
 
 ###### Chizkuni, Numbers 24:18:1
@@ -55538,7 +55549,7 @@ According to the Sifri on the word אחרים, that word could be translated as 
 [https://torahapp.org/share/book/Chizkuni/s/Deuteronomy/r/12:26:1](https://torahapp.org/share/book/Chizkuni/s/Deuteronomy/r/12:26:1)
 
 
-**תשא ובאת אל המקום**הוא שאנו אומרים בתפלה במודעות והשיאנו ה׳‎ אלקינו את ברכת מועדיך וכו'.
+**תשא ובאת אל המקום**הוא שאנו אומרים בתפלה במועדות והשיאנו ה׳‎ אלקינו את ברכת מועדיך וכו'.
 
 
 תשא ובאת אל המקום, “you shall take and go to the place;” when we pray on the festivals we say in our mussaph prayer: והשיאנו ה' אלוקינו את ברכת מועדיך, “cause us O Lord our G-d to take with us the blessing of Your festivals, etc.”

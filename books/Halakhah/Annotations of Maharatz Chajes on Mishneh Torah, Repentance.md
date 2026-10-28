@@ -16,6 +16,8 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Friedberg Edition (Segments: 5, License: Public Domain)
 
+Version (En): Sefaria Community Translation (Segments: 1)
+
 
 ## Chapter 1
 
@@ -39,6 +41,9 @@ Version (He): Friedberg Edition (Segments: 5, License: Public Domain)
 
 
 **הקשו** הכ"מ והלח"מ על הרמב"ם דס"ל דשעיר המשתלח מכפר על הקלות בלי תשובה והרי זבח רשעים תועבה. ונ"ל דהנה אמרינן (זבחים ז':) דעולה דורון הוא דאי ס"ד לכפרה אי עשה תשובה לא זז עד שמוחלין לו ואי לא עשה תשובה זבח רשעים תועבה. ואולם הרמב"ם שפסק פ"ד ממעשה קרבנות דעולה מכפר על עשה ול"ת שניתק לעשה ע"כ דס"ל דלא שייך באיסור עשה זבח רשעים תועבה רק במומר לעכו"ם עי' מל"מ פ"ג משגגות ה"ז באריכות, ומפני זה ניחא שיטת הרמב"ם כאן:
+
+
+The Keseff Mishneh and the Lechem Mishneh raised a difficulty regarding Maimonides, who says that the scapegoat atones for minor transgressions even without repentance, yet isn't it written, "The sacrifice of the wicked is an abomination" (Proverbs 21:27)?
 
 
 

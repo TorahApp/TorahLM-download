@@ -144,7 +144,7 @@ Version (He): On Your Way (Segments: 607, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Samuel/r/1:19:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Samuel/r/1:19:1)
 
 
-**הצבי.** ארץ ישראל קרויה ארץ צבי, כמו שכתוב (יחזקאל כ ו): צבי היא לכל הארצות, והוא ענין פאר וחמוד, כמו (ישעיהו כח ה) **לעטרת צבי.** והה״א של הצבי, היא ה״א הקריאה, כמו (ירמיהו ב לא): הדור אתם ראו:
+**הצבי.** ארץ ישראל קרויה ארץ צבי, כמו שכתוב (יחזקאל כ ו): צבי היא לכל הארצות, והוא ענין פאר וחמוד, כמו (ישעיהו כח ה) לעטרת צבי. והה״א של הצבי, היא ה״א הקריאה, כמו (ירמיהו ב לא): הדור אתם ראו:
 
 
 ###### Metzudat Zion on II Samuel 1:19:2
@@ -163,7 +163,7 @@ Version (He): On Your Way (Segments: 607, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Samuel/r/1:20:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Samuel/r/1:20:1)
 
 
-**תעלזנה.** אף הוא ענין שמחה, כמו (תהלים צו ב): **יעלוז שדי.** וכפל הדבר במלות שונות כדרך המקונן:
+**תעלזנה.** אף הוא ענין שמחה, כמו (תהלים צו ב): יעלוז שדי. וכפל הדבר במלות שונות כדרך המקונן:
 
 
 
@@ -1638,7 +1638,7 @@ Version (He): On Your Way (Segments: 607, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Samuel/r/8:2:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Samuel/r/8:2:1)
 
 
-**ומלא ההבל.** מדת חבל שלם:
+**ומלא החבל.** מדת חבל שלם:
 
 
 
@@ -2468,7 +2468,7 @@ Version (He): On Your Way (Segments: 607, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Samuel/r/13:6:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Samuel/r/13:6:1)
 
 
-**ותלבב לביבות.** תרגם יונתן **ותחלוט חליטתא**. בדברי רבותינו ז״ל (פסחים ו): חלוט של בעלי בתים והמה נקראים על שם המעשה ששולקין אותם ברותחין:
+**ותלבב לביבות.** תרגם יונתן ותחלוט חליטתא. בדברי רבותינו ז״ל (פסחים ו): חלוט של בעלי בתים והמה נקראים על שם המעשה ששולקין אותם ברותחין:
 
 
 ###### Metzudat Zion on II Samuel 13:6:2
@@ -6043,7 +6043,7 @@ Version (He): On Your Way (Segments: 607, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Samuel/r/24:24:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Samuel/r/24:24:2)
 
 
-**במחיר.** ענין דמי הדבר וערכו, כמו (ישעיהו נה א): ובלא מהיר יין וחלב:
+**במחיר.** ענין דמי הדבר וערכו, כמו (ישעיהו נה א): ובלא מחיר יין וחלב:
 
 
 

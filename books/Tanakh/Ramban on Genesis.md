@@ -14,7 +14,7 @@ Location: Tanakh/Rishonim on Tanakh/Ramban/Torah
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Vocalized Edition (Segments: 709, License: CC-BY)
+Version (He): On Your Way (Segments: 709, License: Public Domain)
 
 Version (En): Commentary on the Torah by Ramban (Nachmanides). Translated and annotated by Charles B. Chavel. New York, Shilo Pub. House, 1971-1976 (Segments: 707)
 
@@ -566,7 +566,7 @@ footnotes:
 ⁵⁰ Bereshith Rabbah 1:19.
 ⁵¹ And darkness was upon the face of the deep
 ⁵¹ And darkness was upon the face of the deep
-⁵² Exodus 15:15.
+⁵² Exodus 15:5.
 ⁵³ Ibid.
 ⁵⁴ Jonah 2:6.
 ⁵⁵ Psalms 106:9.

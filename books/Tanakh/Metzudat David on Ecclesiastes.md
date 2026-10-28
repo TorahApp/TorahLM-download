@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat David/Writings
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 555, License: Public Domain)
+Version (He): On Your Way (Segments: 556, License: Public Domain)
 
 Version (En): Sefaria Community Translation (Segments: 1)
 
@@ -1928,12 +1928,23 @@ I know (because) I have studied the ways of the world and what is beneficial, th
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Ecclesiastes/r/5:2:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Ecclesiastes/r/5:2:1)
 
 
-**כי בא.** כי כמו שדרך החלום לבוא במי שמהרהר בהרבה ענינים, כן בא קול כסילות מתלונה ותרעומות במי שמרבה דברים (ג) נדר לאלהים. לעשות צדקה:
+**כי בא.** כי כמו שדרך החלום לבוא במי שמהרהר בהרבה ענינים, כן בא קול כסילות מתלונה ותרעומות במי שמרבה דברים:
 
 
-###### Metzudat David on Ecclesiastes 5:2:2
 
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Ecclesiastes/r/5:2:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Ecclesiastes/r/5:2:2)
+### Verse 3
+
+###### Metzudat David on Ecclesiastes 5:3:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Ecclesiastes/r/5:3:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Ecclesiastes/r/5:3:1)
+
+
+**נדר לאלהים.** לעשות צדקה:
+
+
+###### Metzudat David on Ecclesiastes 5:3:2
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Ecclesiastes/r/5:3:2](https://torahapp.org/share/book/Metzudat%20David%20on%20Ecclesiastes/r/5:3:2)
 
 
 **כי אין חפץ בכסילים.** אין הרצון מתקיים בכסילים, כי פעם יחפוץ בדבר מה ולאחר זמן לא יחפוץ עוד בו והנודר הלא לכסיל יחשב, כי יותר טוב לתת צדקה מבלי נדר. והואיל וכן אל תאחר לשלמו, כי בהאריך הזמן פן לא תחפוץ עוד בהנדר ותמנע לשלמו, לכן את אשר תדור שלם, רוצה לומר שלם מיד בלי איחור:
@@ -4543,16 +4554,19 @@ I know (because) I have studied the ways of the world and what is beneficial, th
 **יגיד דבר.** רוצה לומר דבר הקללה:
 
 
-###### Metzudat David on Ecclesiastes 10:20:7
-
-[https://torahapp.org/share/book/Metzudat%20David%20on%20Ecclesiastes/r/10:20:7](https://torahapp.org/share/book/Metzudat%20David%20on%20Ecclesiastes/r/10:20:7)
-
-
-**יא (א) שלח לחמך על פני המים.** ולא תחשוב שהמים יוליך אותו למרחוק למקום שלא תמצא אותו כי ברבות הימים תמצאנו והוא ענין משל לומר תן מלחמך אף למי שתחשוב עליו שלא תראנו עוד לקבל ממנו הגמול כי אחר ימים רבים תקבל ממנו תשלום גמול:
-
-
 
 ## Chapter 11
+
+
+### Verse 1
+
+###### Metzudat David on Ecclesiastes 11:1:1
+
+[https://torahapp.org/share/book/Metzudat%20David%20on%20Ecclesiastes/r/11:1:1](https://torahapp.org/share/book/Metzudat%20David%20on%20Ecclesiastes/r/11:1:1)
+
+
+**שלח לחמך על פני המים.** ולא תחשוב שהמים יוליך אותו למרחוק למקום שלא תמצא אותו כי ברבות הימים תמצאנו והוא ענין משל לומר תן מלחמך אף למי שתחשוב עליו שלא תראנו עוד לקבל ממנו הגמול כי אחר ימים רבים תקבל ממנו תשלום גמול:
+
 
 
 ### Verse 2
@@ -4884,7 +4898,7 @@ I know (because) I have studied the ways of the world and what is beneficial, th
 [https://torahapp.org/share/book/Metzudat%20David%20on%20Ecclesiastes/r/12:5:3](https://torahapp.org/share/book/Metzudat%20David%20on%20Ecclesiastes/r/12:5:3)
 
 
-**ויסתכל החגב.** אם ישכון עליו חגב תכבד עליו כסובל משא כבד, וזהו לגודל התשות:
+**ויסתבל החגב.** אם ישכון עליו חגב תכבד עליו כסובל משא כבד, וזהו לגודל התשות:
 
 
 ###### Metzudat David on Ecclesiastes 12:5:4

@@ -1766,7 +1766,7 @@ Therefore, **the verse states** the phrase: **“Firstborn of a donkey”** (Exo
 [https://torahapp.org/share/book/Bekhorot/r/6a:3](https://torahapp.org/share/book/Bekhorot/r/6a:3)
 
 
-כְּתַב רַחֲמָנָא ״פֶּטֶר חֲמוֹר״ אַחֲרִינָא, פִּטְרֵי חֲמוֹרִים וְלֹא פִּטְרֵי סוּסִים וּגְמַלִּים, וְאֵימָא: מַעֲטִינְהוּ מֹשֶׁה, וּלְעוֹלָם בְּכׇל דָּבָר!
+כְּתַב רַחֲמָנָא ״פֶּטֶר חֲמוֹר״ אַחֲרִינָא, פִּטְרֵי חֲמוֹרִים וְלֹא פִּטְרֵי סוּסִים וּגְמַלִּים, וְאֵימָא: מַעֲטִינְהוּ מִשֶׂה, וּלְעוֹלָם בְּכׇל דָּבָר!
 
 
 Therefore, **the Merciful One writes: “Firstborn of a donkey,” another** time, to teach that only **firstborn donkeys** must be redeemed by means of a lamb, **but not firstborn horses or camels. And** therefore **I can say** that perhaps the earlier suggestion is correct: The Torah **excluded** firstborn horses and camels **from** being redeemed by means of **a lamb, but actually,** they must still be redeemed **by means of any** other **item.**

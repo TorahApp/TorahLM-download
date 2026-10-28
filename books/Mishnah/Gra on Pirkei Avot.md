@@ -310,7 +310,7 @@ Version (He): Pirkei Avot with commentary of the Vilna Gaon, Vilna 1836 (Segment
 [https://torahapp.org/share/book/Gra%20on%20Pirkei%20Avot/r/1:10:3](https://torahapp.org/share/book/Gra%20on%20Pirkei%20Avot/r/1:10:3)
 
 
-**ואל כו'.** כמ״ש (משלי כ״ח) לעלוקה שתי כו':
+**ואל כו'.** כמ״ש (משלי ל) לעלוקה שתי כו':
 
 
 

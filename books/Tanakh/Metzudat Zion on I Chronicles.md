@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat Zion/Writings
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 256, License: Public Domain)
+Version (He): On Your Way (Segments: 249, License: Public Domain)
 
 
 ## Chapter 1
@@ -163,11 +163,14 @@ Version (He): On Your Way (Segments: 256, License: Public Domain)
 
 
 
+## Chapter 4
+
+
 ### Verse 21
 
-###### Metzudat Zion on I Chronicles 3:21:1
+###### Metzudat Zion on I Chronicles 4:21:1
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/3:21:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/3:21:1)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/4:21:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/4:21:1)
 
 
 **הבוץ.** פשתן כמו אחוז בחבלי בוץ (אסתר א׳:ו׳):
@@ -176,34 +179,20 @@ Version (He): On Your Way (Segments: 256, License: Public Domain)
 
 ### Verse 22
 
-###### Metzudat Zion on I Chronicles 3:22:1
+###### Metzudat Zion on I Chronicles 4:22:1
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/3:22:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/3:22:1)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/4:22:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/4:22:1)
 
 
 **בעלו.** ענין אדון כמו אם בעליו עמו (שמות כ״ב:י״ד):
 
 
-###### Metzudat Zion on I Chronicles 3:22:2
+###### Metzudat Zion on I Chronicles 4:22:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/3:22:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/3:22:2)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/4:22:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/4:22:2)
 
 
 **עתיקים.** ענין יושן כמו ועתיק יומין (דניאל ז׳):
-
-
-
-## Chapter 4
-
-
-### Verse 1
-
-###### Metzudat Zion on I Chronicles 4:1:1
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/4:1:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/4:1:1)
-
-
-**.**:
 
 
 
@@ -465,32 +454,7 @@ Version (He): On Your Way (Segments: 256, License: Public Domain)
 
 
 
-## Chapter 7
-
-
-### Verse 1
-
-###### Metzudat Zion on I Chronicles 7:1:1
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/7:1:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/7:1:1)
-
-
-**.**:
-
-
-
 ## Chapter 8
-
-
-### Verse 1
-
-###### Metzudat Zion on I Chronicles 8:1:1
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/8:1:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/8:1:1)
-
-
-**.**:
-
 
 
 ### Verse 6
@@ -539,17 +503,20 @@ Version (He): On Your Way (Segments: 256, License: Public Domain)
 **והנתינים.** הם הגבעונים ונקראים כן ע״ש שנאמר בהם ויתנם יהושע וכו׳ חוטבי עצים וכו׳ (יהושע ט׳:כ״ז):
 
 
-###### Metzudat Zion on I Chronicles 9:2:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/9:2:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/9:2:2)
+### Verse 17
+
+###### Metzudat Zion on I Chronicles 9:17:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/9:17:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/9:17:1)
 
 
 **והשוערים.** הממונים על שערי בה״מ לשמור ולפתוח ולנעול:
 
 
-###### Metzudat Zion on I Chronicles 9:2:3
+###### Metzudat Zion on I Chronicles 9:17:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/9:2:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/9:2:3)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/9:17:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/9:17:2)
 
 
 **ואחיהם.** וחבריהם וכן בכל הספר:
@@ -806,9 +773,12 @@ Version (He): On Your Way (Segments: 256, License: Public Domain)
 **מצודת.** ענין מבצר חזק כמו ישבו במצדות (ירמיה נ״א):
 
 
-###### Metzudat Zion on I Chronicles 11:5:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/11:5:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/11:5:2)
+### Verse 7
+
+###### Metzudat Zion on I Chronicles 11:7:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/11:7:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/11:7:1)
 
 
 **במצד.** היא מצורת ציון:
@@ -1227,17 +1197,6 @@ Version (He): On Your Way (Segments: 256, License: Public Domain)
 
 
 ## Chapter 15
-
-
-### Verse 1
-
-###### Metzudat Zion on I Chronicles 15:1:1
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/15:1:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/15:1:1)
-
-
-**.**:
-
 
 
 ### Verse 22
@@ -1707,9 +1666,12 @@ Version (He): On Your Way (Segments: 256, License: Public Domain)
 **ואבימלך.** הוא אחימלך הנזכר בשמואל ב׳:
 
 
-###### Metzudat Zion on I Chronicles 18:16:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/18:16:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/18:16:2)
+### Verse 17
+
+###### Metzudat Zion on I Chronicles 18:17:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/18:17:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/18:17:1)
 
 
 **הכרתי והפלתי.** ת״י קשתיא וקלעיא:
@@ -1982,11 +1944,11 @@ Version (He): On Your Way (Segments: 256, License: Public Domain)
 
 
 
-### Verse 26
+### Verse 27
 
-###### Metzudat Zion on I Chronicles 21:26:1
+###### Metzudat Zion on I Chronicles 21:27:1
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/21:26:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/21:26:1)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/21:27:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/21:27:1)
 
 
 **נדנה.** הוא נרתק החרב ודוגמתו בגו נדנה (דניאל ו):
@@ -2154,32 +2116,7 @@ Version (He): On Your Way (Segments: 256, License: Public Domain)
 
 
 
-## Chapter 24
-
-
-### Verse 1
-
-###### Metzudat Zion on I Chronicles 24:1:1
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/24:1:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/24:1:1)
-
-
-**.**:
-
-
-
 ## Chapter 25
-
-
-### Verse 1
-
-###### Metzudat Zion on I Chronicles 25:1:1
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/25:1:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/25:1:1)
-
-
-**.**:
-
 
 
 ### Verse 5
@@ -2227,17 +2164,6 @@ Version (He): On Your Way (Segments: 256, License: Public Domain)
 
 
 ## Chapter 26
-
-
-### Verse 1
-
-###### Metzudat Zion on I Chronicles 26:1:1
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/26:1:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/26:1:1)
-
-
-**.**:
-
 
 
 ### Verse 32
@@ -2549,11 +2475,11 @@ Version (He): On Your Way (Segments: 256, License: Public Domain)
 
 
 
-### Verse 6
+### Verse 7
 
-###### Metzudat Zion on I Chronicles 29:6:1
+###### Metzudat Zion on I Chronicles 29:7:1
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/29:6:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/29:6:1)
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/29:7:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20I%20Chronicles/r/29:7:1)
 
 
 **ואדרכונים.** שם מטבע ידוע אצלם וכן לאדרכונים אלף (עזרא ח):

@@ -14,9 +14,9 @@ Location: Tanakh/Acharonim on Tanakh/Or HaChaim/Torah
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Vocalized Edition (Segments: 1054, License: unknown)
+Version (He): Vocalized Edition (Segments: 1054, License: Public Domain)
 
-Version (En): Or Hachayim, trans. Eliyahu Munk (Segments: 1029)
+Version (En): Sefaria Community Translation (Segments: 1029)
 
 
 ## Chapter 1
@@ -1401,7 +1401,7 @@ When you take into consideration our introduction to this subject from the Talmu
 **וּבָזֶה** נִתְיַשֵּׁב לָמָּה הֻצְרַךְ לַחְזוֹר לְצַוּוֹת לָזֶה, כִּי לְצַד שֶׁעַד עַתָּה הָיָה מֹשֶׁה עוֹשֶׂה כְּסֵדֶר זֶה בְּשִׁבְעַת יְמֵי הַמִּלּוּאִים, וְחָשׁ ה׳ שֶׁיָּדִין אַהֲרֹן בְּדַעְתּוֹ שֶׁאֵין מְעַכֵּב סֵדֶר הַנָּחָתָן, וְאַדְרַבָּא יוֹתֵר הוּא סֵדֶר נָכוֹן שֶׁיִּהְיוּ הַנֵּרוֹת יְשָׁרִים פִּיפִיּוֹתֵיהֶם וְלֹא בַּאֲלַכְסוֹן, לָזֶה צִוָּה ה׳ שֶׁיֹּאמַר לְאַהֲרֹן שֶׁדָּבָר זֶה מְעַכֵּב. וּבָחַר לְסַדֵּר מִצְוָה זוֹ כָּאן וְלֹא סִדְּרָהּ עִם סִדּוּרֵי הַקָּרְבָּנוֹת אֲשֶׁר צִוָּה ה׳ וַעֲבוֹדָה הַמְּעַכֶּבֶת, לְהוֹדִיעֵנוּ הַקְפָּדַת אַהֲרֹן וְרִצּוּיוֹ, מַה שֶׁנִּזְכַּר בְּמַאֲמָרָם זִכְרוֹנָם לִבְרָכָה.
 
 
-This also explains why the Torah had to repeat what appeared at first glance to be a repetition of the instructions given in Exodus 25,37. Up until now Moses had performed these tasks during the seven days of the inauguration of the Tabernacle from the first to the seventh of Nissan. G'd was concerned that Aaron would think that it did not matter in which order the various lamps would be cleaned and filled with oil for the following day. In fact, Aaron would have reasoned that logic dictated that the various lamps be cleaned in a sequential order either from the left to the right, or from the right to the left and not as described in the Talmud that five lamps on one side were cleaned followed by two lamps on the other side. G'd had decided that this was the appropriate moment to instruct Aaron in these details and to impress on him that the correct order for this procedure was an essential part of the whole service. By not informing Aaron of these details when he was informed about other details of the sacrificial service, G'd wanted to demonstrate that He held Aaron in such high esteem that He had accorded him tasks that were more important than those performed by the princes.
+This also explains why the Torah had to repeat what appeared at first glance to be a repetition of the instructions given in Exodus 25,37. Up until now Moses had performed these tasks during the seven days of the inauguration of the Tabernacle. G'd was concerned that Aaron would think that it did not matter in which order the various lamps would be cleaned and filled with oil for the following day. In fact, Aaron would have reasoned that logic dictated that the various lamps be cleaned in a sequential order either from the left to the right, or from the right to the left and not as described in the Talmud that five lamps on one side were cleaned followed by two lamps on the other side. G'd had decided that this was the appropriate moment to instruct Aaron in these details and to impress on him that the correct order for this procedure was an essential part of the whole service. By not informing Aaron of these details when he was informed about other details of the sacrificial service, G'd wanted to demonstrate that He held Aaron in such high esteem that He had accorded him tasks that were more important than those performed by the princes.
 
 
 ###### Or HaChaim on Numbers 8:2:10

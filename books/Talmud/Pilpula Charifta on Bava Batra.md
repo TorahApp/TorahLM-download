@@ -1,6 +1,6 @@
 # Pilpula Charifta on Bava Batra
 
- פלפולא חריפתא על בבא בתרא
+פלפולא חריפתא על בבא בתרא
 
 Link: [https://torahapp.org/share/book/Pilpula%20Charifta%20on%20Bava%20Batra](https://torahapp.org/share/book/Pilpula%20Charifta%20on%20Bava%20Batra)
 

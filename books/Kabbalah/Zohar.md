@@ -21332,7 +21332,7 @@ Both upper and lower (angels) are afraid of this sign, and no torture is inflict
 [https://torahapp.org/share/book/Zohar/s/Lech%20Lecha/r/35:23](https://torahapp.org/share/book/Zohar/s/Lech%20Lecha/r/35:23)
 
 
-כֵּיוָן דְּדָוִד מַלְכָּא לָא נָטַר אָת קְיָימָא דָא כְּדְקָא חָזֵי, אִתְעַדֵּי מִנֵּיהּ מַלְכוּתָא וְאִתְטְרִיד מִיְרוּשָׁלַם. מִיָּד דָּחִיל דְסָבַר דְּיֵיחֲתוּן לֵיהּ מִיָּד וְיִמְסְרוּן לֵיהּ בִּידוֹי דְדוּמָה וְיָמוּת בְּהַהוּא עָלְמָא, עַד דְּאִתְבַּשַּׂר בֵּיהּ דִּכְתִיב, (שמואל ב ב) גַּם יְיָ הֶעֱבִיר חַטָּאתְךָ לֹא תָמוּת. בֵּיהּ שַׁעֲתָא פָּתַח וְאָמַר לוּלֵי יְיָ עֶזְרָתָה לִי כִּמְעַט שָׁכְנָה דוּמָ"ה נַפְשִׁי.
+כֵּיוָן דְּדָוִד מַלְכָּא לָא נָטַר אָת קְיָימָא דָא כְּדְקָא חָזֵי, אִתְעַדֵּי מִנֵּיהּ מַלְכוּתָא וְאִתְטְרִיד מִיְרוּשָׁלַם. מִיָּד דָּחִיל דְסָבַר דְּיֵיחֲתוּן לֵיהּ מִיָּד וְיִמְסְרוּן לֵיהּ בִּידוֹי דְדוּמָה וְיָמוּת בְּהַהוּא עָלְמָא, עַד דְּאִתְבַּשַּׂר בֵּיהּ דִּכְתִיב, (שמואל ב י״ב:י״ג) גַּם יְיָ הֶעֱבִיר חַטָּאתְךָ לֹא תָמוּת. בֵּיהּ שַׁעֲתָא פָּתַח וְאָמַר לוּלֵי יְיָ עֶזְרָתָה לִי כִּמְעַט שָׁכְנָה דוּמָ"ה נַפְשִׁי.
 
 
 So with David, when he was dethroned and driven from Jerusalem, hewas afraid that he would be delivered into the hands of Duma and die in the future world, until the message came to him, “The Lord also hath put away thy sin, thou shalt not die” (II Sam. 12, 13). Then it was that he exclaimed “Unless the Lord had been my help, etc.”’
@@ -28984,7 +28984,7 @@ Rabbi Yitzchak said, It is written, "Elohim of the heaven, and Elohim of the ear
 [https://torahapp.org/share/book/Zohar/s/Chayei%20Sara/r/19:15](https://torahapp.org/share/book/Zohar/s/Chayei%20Sara/r/19:15)
 
 
-אָמַר רַבִּי יִצְּחָק מֵהָכָא מַשְׁמַע שֶׁהוֹאִיל וְאַתָּה הוֹלֵךְ בִּשְׁלִיחוּת זֶה לֹא תִקַּח אִשָּׁה לִבְנִי, כְּלוֹמַר שֶׁלֹּא תִקַּח גּוּף לִבְנִי (ד"אלבנייני) לִיכָּנֵס בְּגוּף אַחֵר בְּגוּף זָר בְּגוּף שֶׁאֵינוֹ רָאוּי לוֹ, אֶלָּא בְּהַהוּא מַמָּשׁ שֶׁהוּא שֶׁלִּי, בְּהַהוּא מַמָּשׁ שֶׁיָּצָּאתִי מִמֶּנּוּ, הֲדָא הוּא דִכְתִיב כִּי אִם אֶל אַרְצִּי וְאֶל מוֹלַדְתִּי תֵּלֵךְ.
+אָמַר רַבִּי יִצְּחָק מֵהָכָא מַשְׁמַע שֶׁהוֹאִיל וְאַתָּה הוֹלֵךְ בִּשְׁלִיחוּת זֶה לֹא תִקַּח אִשָּׁה לִבְנִי, כְּלוֹמַר שֶׁלֹּא תִקַּח גּוּף לִבְנִי (ד"א לבנייני) לִיכָּנֵס בְּגוּף אַחֵר בְּגוּף זָר בְּגוּף שֶׁאֵינוֹ רָאוּי לוֹ, אֶלָּא בְּהַהוּא מַמָּשׁ שֶׁהוּא שֶׁלִּי, בְּהַהוּא מַמָּשׁ שֶׁיָּצָּאתִי מִמֶּנּוּ, הֲדָא הוּא דִכְתִיב כִּי אִם אֶל אַרְצִּי וְאֶל מוֹלַדְתִּי תֵּלֵךְ.
 
 
 Rabbi Yitzchak said, from here, it is understood that the soul said to Metatron, Because you are going on this mission to resurrect the dead, "you shall not take a wife for my son." This means you shall not take a body for my son. He cannot enter another body, an idolatrous body, a body not worthy of him, but only the body which is actually my own, the very one I came from. And this is what is meant by the verse, "But you shall go to my country, and to my kindred" (Ibid. 4).
@@ -58812,7 +58812,7 @@ When he entered, he dropped his eyes and looked not up. Said R. Simeon to R. Ele
 בְּאֲתָר דִּשְׁבִיבִין זַרְקִין לְכָל עִיבָר, וְכָל שְׁבִיבָא וּשְׁבִיבָא, סָלִיק לִתְלַת מְאָה וְשִׁבְעִין רְתִיכִין. וְכָל רְתִיכָא, אִתְפְּרַשׁ לְאֶלֶף אַלְפִין, וְרִבּוֹא רִבְוָון, עַד דְּמָטוּ לְעַתִּיק יוֹמִין, דְּיָתִיב עַל כֻּרְסְיָיא, וְכֻרְסְיָיא מִזְדַּעְזְעָא מִנֵּיהּ, לְמָאתָן וְשִׁתִּין עָלְמִין.
 
 
-each one ascending to three hundred and seventy-five rows of angels, and each of which spreads itself to thousands and myriads, until they reach the Ancient of Days, who sits upon the Throne. The Throne trembles, and the trembling thereof penetrates through a hundred and sixty worlds
+each one ascending to three hundred and seventy rows of angels, and each of which spreads itself to thousands and myriads, until they reach the Ancient of Days, who sits upon the Throne. The Throne trembles, and the trembling thereof penetrates through a hundred and sixty worlds
 
 
 ###### Zohar, Shemot 25:8
@@ -89830,7 +89830,7 @@ But is it not written, “for ye are the fewest of all peoples” (*Ibid.* 95, 7
 [https://torahapp.org/share/book/Zohar/s/Terumah/r/70:3](https://torahapp.org/share/book/Zohar/s/Terumah/r/70:3)
 
 
-תּוּ בְּזִמְנָא דְּקוּדְשָׁא בְּרִיךְ הוּא אָתֵי לְבֵי כְּנִישְׁתָּא, (דאיהו מק2דש מעט) וְכָל עַמָּא אַתְיָין כַּחֲדָא, וּמְצַלָאן, וְאוֹדָן, וּמְשַׁבְּחָן לֵיהּ לְקוּדְשָׁא בְּרִיךְ הוּא, כְּדֵין הִדּוּרָא דְּמֶלֶךְ אִיהוּ, דְּמֶלֶךְ סְתָם דָּא מַלְכָּא קַדִּישָׁא. (ד"א משיחא) דְּאִתְתָּקַּן בִּשְׁפִירוּ וּבְתִקּוּנָא לְסַלְּקָא לְעֵילָּא.
+תּוּ בְּזִמְנָא דְּקוּדְשָׁא בְּרִיךְ הוּא אָתֵי לְבֵי כְּנִישְׁתָּא, (דאיהו מקדש מעט) וְכָל עַמָּא אַתְיָין כַּחֲדָא, וּמְצַלָאן, וְאוֹדָן, וּמְשַׁבְּחָן לֵיהּ לְקוּדְשָׁא בְּרִיךְ הוּא, כְּדֵין הִדּוּרָא דְּמֶלֶךְ אִיהוּ, דְּמֶלֶךְ סְתָם דָּא מַלְכָּא קַדִּישָׁא. (ד"א משיחא) דְּאִתְתָּקַּן בִּשְׁפִירוּ וּבְתִקּוּנָא לְסַלְּקָא לְעֵילָּא.
 
 
 When strengthened by that holy exercise, that the Holy One may be exalted from above and from below in harmony;
@@ -133159,7 +133159,7 @@ And this repentance [*teshuvah*] is called life, because from it are the sources
 [https://torahapp.org/share/book/Zohar/s/Nasso/r/4:11](https://torahapp.org/share/book/Zohar/s/Nasso/r/4:11)
 
 
-וּבְגִין דְּאִיהִי עַל רֵישֵׁיהּ דְּבַּר נָשׁ, אָסִיר לֵיהּ לְבַּר נָשׁ לְמֵיזַל ד' אַמּוֹת בְּגִלוּי דְּרֵישָׁא, דְּאֵם הִיא אִסְתָּלָקַת מֵעַל רֵישֵׁיהּ דְּבַּר נָשׁ, מִיַּד אִסְתְּלָקוּ חַיִּים מִנֵּיהּ.
+וּבְגִין דְּאִיהִי עַל רֵישֵׁיהּ דְּבַּר נָשׁ, אָסִיר לֵיהּ לְבַּר נָשׁ לְמֵיזַל ד' אַמּוֹת בְּגִלוּי דְּרֵישָׁא, דְּאִם הִיא אִסְתָּלָקַת מֵעַל רֵישֵׁיהּ דְּבַּר נָשׁ, מִיַּד אִסְתְּלָקוּ חַיִּים מִנֵּיהּ.
 
 
 And since it is over the heads of people, it is forbidden for people to move four cubits with their head uncovered. For if it would withdraw from above the head of a person, life would immediately withdraw from him.

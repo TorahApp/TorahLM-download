@@ -4916,11 +4916,12 @@ footnotes:
 **כְּכֹל אֲשֶׁר יִקְרָא אֵלֶיךָ הַנָּכְרִי.** וּבְיִשְׂרָאֵל הוּא אוֹמֵר: וְנָתַתָּ לָאִישׁ כְּכָל דְּרָכָיו, לְפִי שֶׁיִּשְׂרָאֵל מַכִּיר בְּהַקָּבָּ"ה, וְיוֹדֵעַ שֶׁהַיְכֹלֶת בְּיָדוֹ, וְאִם אֵין תְּפִלָּתוֹ נִשְׁמַעַת, תּוֹלֶה אֶת הַדָּבָר בְּעַצְמוֹ וּבְחֶטְאוֹ, אֲבָל עוֹבֵד גִּלּוּלִים קוֹרֵא תִּגָּר, וְאוֹמֵר: בַּיִת שֶׁשְּׁמוֹ הוֹלֵךְ לְסוֹף הָעוֹלָם, נִתְיַגַּעְתִּי לְכַמָּה דְּרָכִים וּבָאתִי וְהִתְפַּלַּלְתִּי בּוֹ, וְלֹא מָצָאתִי בּוֹ מַמָּשׁ, כְּשֵׁם שֶׁאֵין מַמָּשׁ בַּעֲבוֹדַת גִּלּוּלִים, לְפִיכָךְ כְּכָל אֲשֶׁר יִקְרָא אֵלֶיךָ הַנָּכְרִי, אֲבָל יִשְׂרָאֵל, אִם אַתָּה רוֹאֶה שֶׁהוּא מַשְׁחִית בְּמָמוֹנוֹ אֶת חֲבֵרוֹ, אַל תִּתֵּן לוֹ.
 
 
-**According to all that the stranger calls out to You.** And relating to the Jew it states, “and give to each one according to all his ways,”²⁷ because the Jew recognizes the Holy One Blessed Is He, and he knows that He has the ability in His power [to answer]; and if his prayers are not heard, he will blame the matter on himself and an account of his sins. But the non-Jew complains and says, “a house [i.e., Beis Hamikdosh], whose fame reaches to the ends of the world, I have exhausted myself on many roads, and have come and prayed in it and found no substance in it, just as there is no substance in idol worship.” Therefore, “according to all that the stranger calls out to You,”²⁸ but a Jew, if You see that he uses his wealth to destroy his friend, do not give him.
+**According to all that the stranger calls out to You.** And relating to the Jew it states, “and give to each one according to all his ways,”²⁷ because the Jew recognizes the Holy One Blessed Is He, and he knows that He has the ability in His power [to answer]; and if his prayers are not heard, he will blame the matter on himself and an account of his sins. But the non-Jew complains and says, “a house [i.e., Beis Hamikdosh], whose fame reaches to the ends of the world, I have exhausted myself on many roads, and have come and prayed in it and found no substance in it, just as there is no substance in idol worship.” Therefore, “according to all that the stranger calls out to You,”²⁸ but a Jew, if You see that he uses his wealth to destroy his friend, do not give him.²⁹
 
 footnotes:
 ²⁷ Alternatively, when the wheat does not reach its normal color but turns to a pale yellow.—Metzudas Tzion
 ²⁸ Above v. 39.
+²⁹ Alternatively, give a non-Jew anything he asks for, as incentive that he turn to God with his prayers, and to publicize God’s Presence in the Beis Hamikdosh.—Ralbag
 
 
 
@@ -4962,11 +4963,11 @@ footnotes:
 **כּוּר הַבַּרְזֶל.** הַחֶרֶס שֶׁמְּזַקְּקִין בּוֹ זָהָב, קָרוּי כּוּר.
 
 
-**The smelting pot of iron.** The earthenware²⁹ utensils used to purify gold of its impurities is called כור.³⁰
+**The smelting pot of iron.** The earthenware³⁰ utensils used to purify gold of its impurities is called כור.³¹
 
 footnotes:
-²⁹ Alternatively, give a non-Jew anything he asks for, as incentive that he turn to God with his prayers, and to publicize God’s Presence in the Beis Hamikdosh.—Ralbag
 ³⁰ The phrase “of iron” refers to the purpose of the pot, not the material of which it is made. The pot itself is earthenware.
+³¹ A crucible used for melting gold.—Metzudas Tzion The oppression suffered by the Bnei Yisroel in Egypt is likened to a furnace which purifies metal, because Bnei Yisroel underwent a process of spiritual purification.
 
 
 
@@ -4980,10 +4981,10 @@ footnotes:
 **כְּכֹל אֲשֶׁר דִּבֵּר.** וְהֵיכָן דִּבֵּר: וְהֵנִיחַ לָכֶם מִכָּל אוֹיְבֵיכֶם.
 
 
-**Like all that He had said.** And where did He speak? “And He will grant you rest from all your enemies.”³¹
+**Like all that He had said.** And where did He speak? “And He will grant you rest from all your enemies.”³²
 
 footnotes:
-³¹ A crucible used for melting gold.—Metzudas Tzion The oppression suffered by the Bnei Yisroel in Egypt is likened to a furnace which purifies metal, because Bnei Yisroel underwent a process of spiritual purification.
+³² Devarim 12:10.
 
 
 
@@ -4997,10 +4998,10 @@ footnotes:
 **לַעֲשׂוֹת מִשְׁפַּט עַבְדּוֹ וּמִשְׁפַּט עַמּוֹ.** לִתְבֹּעַ עֶלְבּוֹנָם מִיַּד הָאוֹיֵב.
 
 
-**To do justice to His servant and the justice of His people.** To avenge their humiliation from their enemy.³²
+**To do justice to His servant and the justice of His people.** To avenge their humiliation from their enemy.³³
 
 footnotes:
-³² Devarim 12:10.
+³³ Alternatively, משפט means “needs,” and the translation of the verse is, “to provide the needs of His servant and the needs of His people.”—Metzudas Tzion
 
 
 
@@ -5014,10 +5015,10 @@ footnotes:
 **אֶת תּוֹךְ הֶחָצֵר.** דְּבָרִים כִּכְתָבָן, דִּבְרֵי רַבִּי יְהוּדָה. קִדֵּשׁ אֶת רִצְפַּת הָעֲזָרָה בִּקְדֻשַּׁת מִזְבֵּחַ, לְהַקְטִיר עַל הָרִצְפָּה.
 
 
-**The inside of the Courtyard.** These words are to be taken literally, according to Rabbi Yehudah; [i.e.,] he hallowed the floor of the court with the [same] sanctity of the Altar, [enabling one] to offer sacrifices on the floor.³³
+**The inside of the Courtyard.** These words are to be taken literally, according to Rabbi Yehudah; [i.e.,] he hallowed the floor of the court with the [same] sanctity of the Altar, [enabling one] to offer sacrifices on the floor.³⁴
 
 footnotes:
-³³ Alternatively, משפט means “needs,” and the translation of the verse is, “to provide the needs of His servant and the needs of His people.”—Metzudas Tzion
+³⁴ Maseches Zevochim 59a.
 
 
 ###### Rashi on I Kings 8:64:2
@@ -5028,10 +5029,10 @@ footnotes:
 **כִּי מִזְבַּח הַנְּחשֶׁת.** מִזְבַּח הָאֲבָנִים שֶׁעָשָׂה תַּחַת מִזְבַּח הַנְּחשֶׁת.
 
 
-**For the copper altar.** The stone altar that he [Shlomo] constructed in lieu of the copper altar.³⁴
+**For the copper altar.** The stone altar that he [Shlomo] constructed in lieu of the copper altar.³⁵
 
 footnotes:
-³⁴ Maseches Zevochim 59a.
+³⁵ According to Ralbag, the copper was primarily made of stone but was plated with copper.
 
 
 ###### Rashi on I Kings 8:64:3
@@ -5042,12 +5043,12 @@ footnotes:
 **קָטֹן מֵהָכִיל אֶת הָעוֹלָה וְאֶת הַמִּנְחָה.** שֶׁהִרְבּוּ לְהָבִיא. אָמַר לוֹ רַבִּי יוֹסִי: וַהֲלֹא כְּבָר נֶאֱמַר: אֶלֶף עוֹלוֹת יַעֲלֶה שְׁלֹמֹה עַל הַמִּזְבֵּחַ שֶׁעָשָׂה משֶׁה, וּכְשֶׁאַתָּה מַגִּיעַ לְחֶשְׁבּוֹן אַמּוֹת וּלְמִנְיַן עוֹלוֹת, זֶה שֶׁל אֲבָנִים גָּדוֹל מִשֶּׁל משֶׁה, שֶׁמִּזְבַּח משֶׁה מְקוֹם מַעֲרַכְתּוֹ אַמָּה עַל אַמָּה, וְזֶהוּ הָיָה מְקוֹם מַעֲרַכְתּוֹ עֶשְׂרִים וְאַרְבַּע עַל עֶשְׂרִים וְאַרְבַּע, הֲרֵי שֶׁל שְׁלֹמֹה חֲמֵשׁ מֵאוֹת שִׁבְעִים וְשֵׁשׁ כְּשֶׁל משֶׁה, אִם כֵּן מַהוּ: קִדַּשׁ הַמֶּלֶךְ אֶת תּוֹךְ הֶחָצֵר, שֶׁקָּבַע בּוֹ מִזְבֵּחַ שֶׁל אֲבָנִים מְחֻבָּר בָּרִצְפָּה.
 
 
-**Too small to contain the burnt-offerings and the meal offerings.** For they brought many. Rabbi Yose said to him [Rabbi Yehudah], “Is it not already written, ‘Shlomo offered a thousand burnt-offerings upon that altar,’³⁵ which Moshe had made,” and when you compute the number of *amohs* and the number of burnt offerings, this one of stones was larger than Moshe’s, for on Moshe’s altar the place used for the sacrifice, was one *amoh* by one *amoh*, but this one’s place used for the sacrifice was twenty-four [*amohs*] by twenty-four [*amohs*]. Therefore Shlomo’s [altar] was 576 times as large as Moshe’s.³⁶ If so, what is the meaning of, “the king sanctified the middle of the Courtyard?” [It means] that he set the stone altar into it, firmly connected to the floor.³⁷
+**Too small to contain the burnt-offerings and the meal offerings.** For they brought many. Rabbi Yose said to him [Rabbi Yehudah], “Is it not already written, ‘Shlomo offered a thousand burnt-offerings upon that altar,’³⁶ which Moshe had made,” and when you compute the number of *amohs* and the number of burnt offerings, this one of stones was larger than Moshe’s, for on Moshe’s altar the place used for the sacrifice, was one *amoh* by one *amoh*, but this one’s place used for the sacrifice was twenty-four [*amohs*] by twenty-four [*amohs*]. Therefore Shlomo’s [altar] was 576 times as large as Moshe’s.³⁷ If so, what is the meaning of, “the king sanctified the middle of the Courtyard?” [It means] that he set the stone altar into it, firmly connected to the floor.³⁸
 
 footnotes:
-³⁵ According to Ralbag, the copper was primarily made of stone but was plated with copper.
 ³⁶ I Melochim 3:4.
 ³⁷ See Maseches Zevochim 59b.
+³⁸ Ibid.
 
 
 ###### Rashi on I Kings 8:64:4
@@ -5058,10 +5059,10 @@ footnotes:
 **קָטֹן מֵהָכִיל.** בְּשֶׁל משֶׁה הוּא אוֹמֵר, כְּאָדָם שֶׁאוֹמֵר לַחֲבֵרוֹ: נַנָּס פְּלוֹנִי וּפָסוּל לַעֲבוֹדָה.
 
 
-**Was too small to contain.** He is referring to Moshe’s [altar], like a person says to his friend, “So and so is a dwarf,” [i.e.,] he is disqualified to perform the service.³⁸
+**Was too small to contain.** He is referring to Moshe’s [altar], like a person says to his friend, “So and so is a dwarf,” [i.e.,] he is disqualified to perform the service.³⁹
 
 footnotes:
-³⁸ Ibid.
+³⁹ See Bamidbar 34:5, 8. There, Targum Yonoson Ben Uziel identifies the “Brook of Egypt” [מצרים נחלה] as the Nile River.
 
 
 
@@ -5086,10 +5087,10 @@ footnotes:
 **עַד נַחַל מִצְרַיִם.** שֶׁהִיא כְּנֶגְדּוֹ בִּדְרוֹמָהּ, בְּאֵלֶּה מַסְעֵי.
 
 
-**To the Brook of Egypt.** Which is opposite it, in the south, [as is delineated] in [the section entitled], “These are the travels.”³⁹
+**To the Brook of Egypt.** Which is opposite it, in the south, [as is delineated] in [the section entitled], “These are the travels.”⁴⁰
 
 footnotes:
-³⁹ See Bamidbar 34:5, 8. There, Targum Yonoson Ben Uziel identifies the “Brook of Egypt” [מצרים נחלה] as the Nile River.
+⁴⁰ The Rabbis in Maseches Mo’ed Katan 9a, deduce from the redundancy of this phrase [“seven days and seven more days”], that one is not permitted to combine one שמחה with another, e.g., one is not allowed to celebrate a wedding on Chol Hamoed.
 
 
 ###### Rashi on I Kings 8:65:3
@@ -5111,10 +5112,9 @@ footnotes:
 **וְשִׁבְעַת יָמִים.** חַג הַסֻּכּוֹת, נִמְצָא שֶׁאָכְלוּ וְשָׁתוּ בְּיוֹם הַכִּפּוּרִים.
 
 
-**And seven [more] days.** Of Succos.⁴⁰ It is found that they ate and drank on Yom Kippur.⁴¹⁴²
+**And seven [more] days.** Of Succos.⁴¹ It is found that they ate and drank on Yom Kippur.⁴²
 
 footnotes:
-⁴⁰ The Rabbis in Maseches Mo’ed Katan 9a, deduce from the redundancy of this phrase [“seven days and seven more days”], that one is not permitted to combine one שמחה with another, e.g., one is not allowed to celebrate a wedding on Chol Hamoed.
 ⁴¹ See Maseches Mo’ed Katan 9a and Rashi there.
 ⁴² They began to celebrate on the eighth of Tishrei and continued for the next fourteen days. Thus, the third day of the dedication was Yom Kippur, the tenth of Tishrei.
 
@@ -5478,7 +5478,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Kings/r/9:25:2](https://torahapp.org/share/book/Rashi%20on%20I%20Kings/r/9:25:2)
 
 
-**וְהִקְטִיר אֹתוֹ.** וְאוֹתוֹ מִזְבַּח הַקְּטֹרֶת אֲשֶׁר לִפְנֵי ה' לִקְטֹרֶת הַסַּמִּים.
+**וְהַקְטֵיר אִתּוֹ.** וְאוֹתוֹ מִזְבַּח הַקְּטֹרֶת אֲשֶׁר לִפְנֵי ה' לִקְטֹרֶת הַסַּמִּים.
 
 
 **And he burnt incense [offerings] with it.** And [he burnt the incense on] the incense altar that was before God for the burning of incense.²²
@@ -6202,7 +6202,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Kings/r/11:39:1](https://torahapp.org/share/book/Rashi%20on%20I%20Kings/r/11:39:1)
 
 
-**אַךְ לֹא כָּל הַיָּמִים.** כִּי לִימוֹת הַמָּשִׁיחַ תָּשׁוּב הַמְּלוּכָה אֵלָיו. וּבְסֵדֶר עוֹלָם מָצָאתִי: וַאעַנֶּה אֶת זֶרַע דָּוִד לְמַעַן זֹאת, כְּנֶגֶד שְׁלשִׁים וָשֵׁשׁ שָׁנָה שֶׁנִּתְחַתֵּן שְׁלֹמֹה אֶת בַּת פַּרְעֹה, שֶׁנְּשָׂאָהּ בַּשָּׁנָה הָרְבִיעִית לְמָלְכוֹ, וּכְנֶגְדּוֹ נִגְזְרָה גְּזֵרָה עַל מַלְכוּת בֵּית דָּוִד לֵחָלֵק, וּרְאוּיָה הָיְתָה הַמְּלוּכָה לַחֲזֹר בִּימֵי אָסָא בִּשְׁנַת שֵׁשׁ עֶשְׂרֶה לְמָלְכוֹ, אֶלָּא שֶׁקִּלְקֵל לִשְׁלֹחַ שֹׁחַד לְמֶלֶךְ אֲרָם, וְלֹא סָמַךְ עַל הַקָּדוֹשׁ בָּרוּךְ הוּא, וְהוּא שֶׁנֶּאֱמַר בְּדִבְרֵי הַיָּמִים: בִּשְׁנַת שְׁלשִׁים וָשֵׁשׁ לְמַלְכוּת אָסָא, בָּנָה בַּעְשָׁא אֶת הָרָמָה, וְאִי אֶפְשָׁר, שֶׁהֲרֵי אָסָא קָבַר אֶת בַּעְשָׁא בִּשְׁנַת עֶשְׂרִים וָשֵׁשׁ לְמַלְכוּתוֹ, אֶלָּא שֵׁשׁ עֶשְׂרֵה שָׁנָה שֶׁלּוֹ, הוּא קוֹרֵא שְׁלשִׁים וָשֵׁשׁ, שֶׁהֵן סוֹף שְׁלשִׁים וָשֵׁשׁ לַחֲלֻקַת הַמַּלְכוּת, וְהִגִּיד הַכָּתוּב שֶׁבְּאוֹתָהּ שָׁנָה קִלְקֵל אָסָא, אַךְ לֹא כָּל הַיָּמִים, אֶלָּא שְׁלשִׁים וָשֵׁשׁ שָׁנָה.
+**אַךְ לֹא כׇל הַיָּמִים.** כִּי לִימוֹת הַמָּשִׁיחַ תָּשׁוּב הַמְּלוּכָה אֵלָיו. וּבְסֵדֶר עוֹלָם מָצָאתִי: וַאעַנֶּה אֶת זֶרַע דָּוִד לְמַעַן זֹאת, כְּנֶגֶד שְׁלשִׁים וָשֵׁשׁ שָׁנָה שֶׁנִּתְחַתֵּן שְׁלֹמֹה אֶת בַּת פַּרְעֹה, שֶׁנְּשָׂאָהּ בַּשָּׁנָה הָרְבִיעִית לְמָלְכוֹ, וּכְנֶגְדּוֹ נִגְזְרָה גְּזֵרָה עַל מַלְכוּת בֵּית דָּוִד לֵחָלֵק, וּרְאוּיָה הָיְתָה הַמְּלוּכָה לַחֲזֹר בִּימֵי אָסָא בִּשְׁנַת שֵׁשׁ עֶשְׂרֶה לְמָלְכוֹ, אֶלָּא שֶׁקִּלְקֵל לִשְׁלֹחַ שֹׁחַד לְמֶלֶךְ אֲרָם, וְלֹא סָמַךְ עַל הַקָּדוֹשׁ בָּרוּךְ הוּא, וְהוּא שֶׁנֶּאֱמַר בְּדִבְרֵי הַיָּמִים: בִּשְׁנַת שְׁלשִׁים וָשֵׁשׁ לְמַלְכוּת אָסָא, בָּנָה בַּעְשָׁא אֶת הָרָמָה, וְאִי אֶפְשָׁר, שֶׁהֲרֵי אָסָא קָבַר אֶת בַּעְשָׁא בִּשְׁנַת עֶשְׂרִים וָשֵׁשׁ לְמַלְכוּתוֹ, אֶלָּא שֵׁשׁ עֶשְׂרֵה שָׁנָה שֶׁלּוֹ, הוּא קוֹרֵא שְׁלשִׁים וָשֵׁשׁ, שֶׁהֵן סוֹף שְׁלשִׁים וָשֵׁשׁ לַחֲלֻקַת הַמַּלְכוּת, וְהִגִּיד הַכָּתוּב שֶׁבְּאוֹתָהּ שָׁנָה קִלְקֵל אָסָא, אַךְ לֹא כָּל הַיָּמִים, אֶלָּא שְׁלשִׁים וָשֵׁשׁ שָׁנָה.
 
 
 **But not for all the days.** For in the days of the Mashiach, the kingdom will be restored to him. In Seder Olam I found: “I shall afflict Dovid’s descendants because of this,” corresponding to the thirty-six years that Shlomo was married to Pharaoh’s daughter. For he married her during the fourth year of his reign, and corresponding to this, the decree was promulgated on the kingdom of the House of Dovid to be divided. The kingdom should have been restored, in Asa’s time, in the sixteenth year of his reign. However, he sinned by sending a bribe to the king of Aram, and did not depend on the Holy One Blessed Is He. This is [the meaning] of what is stated in Divrei Hayomim, “In the thirty-sixth year of Asa’s reign, etc., Baasha built the high place.”¹⁴ This is impossible, because Asa buried Baasha in the twenty-seventh year of his reign. Rather, the sixteenth year of his reign, Scripture calls “the thirty-sixth,” for they are the end of thirty-six years since the division of the kingdom, and Scripture tells us that in that year Asa sinned, “but not for all the days,” only for thirty-six years.
@@ -6561,7 +6561,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Kings/r/13:23:1](https://torahapp.org/share/book/Rashi%20on%20I%20Kings/r/13:23:1)
 
 
-**לַנָּבִיא אֲשֶׁר הֱשִׁיבוֹ.** שֵׁם זֶה לִרְכֹּב עָלָיו אִישׁ הָאֱלֹהִים.
+**לַנָּבִיא אֲשֶׁר הֱשִׁיבוֹ.** שָׂם זֶה לִרְכֹּב עָלָיו אִישׁ הָאֱלֹהִים.
 
 
 **For the prophet that he brought back.** Whom this one [had brought] there, for the man of God to ride upon.
@@ -7226,7 +7226,7 @@ footnotes:
 [https://torahapp.org/share/book/Rashi%20on%20I%20Kings/r/17:7:1](https://torahapp.org/share/book/Rashi%20on%20I%20Kings/r/17:7:1)
 
 
-**וַיִּבַשׁ הַנַּחַל.** כְּדֵי שֶׁיֵּדַע צֹרֶךְ הַגְּשָׁמִים וְיַטְרִיחַ לְגָּלוּת, שֶׁהָיָה קָשֶׁה בְּעֵינֵי הַקָּדוֹשׁ בָּרוּךְ הוּא שֶׁיִּשְׂרָאֵל שְׁרוּיִין בְּרָעָב.
+**וַיִּבַשׁ הַנַּחַל.** כְּדֵי שֶׁיֵּדַע צֹרֶךְ הַגְּשָׁמִים וְיַטְרִיחַ לִגְלוֹת, שֶׁהָיָה קָשֶׁה בְּעֵינֵי הַקָּדוֹשׁ בָּרוּךְ הוּא שֶׁיִּשְׂרָאֵל שְׁרוּיִין בְּרָעָב.
 
 
 **The brook dried up.** In order that he realize the need for rain and trouble himself to go into exile, for it was displeasing to the Holy One Blessed Is He, that Yisroel should be living in hunger.⁵

@@ -1,6 +1,6 @@
 # Tiferet Shmuel on Kiddushin
 
- תפארת שמואל על קידושין
+תפארת שמואל על קידושין
 
 Link: [https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Kiddushin](https://torahapp.org/share/book/Tiferet%20Shmuel%20on%20Kiddushin)
 

@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He):  Noam Elimelech, Lvov, 1788. (Segments: 1555, License: Public Domain)
 
-Version (En): Tzetil Katan en français  (Segments: 202)
+Version (En): Sefaria Community Translation (Segments: 208)
 
 
 ## Introduction
@@ -9245,7 +9245,7 @@ And this is the meaning of the verse "I give Egypt as a kofer for you, Cush and 
 [https://torahapp.org/share/book/Noam%20Elimelekh/s/Sefer%20Bamidbar,_Korach/r/7:1](https://torahapp.org/share/book/Noam%20Elimelekh/s/Sefer%20Bamidbar,_Korach/r/7:1)
 
 
-**וידבר כו' בקר ויודע ה' כו' ואת הקדוש ויקריב אליו כו',** פירוש לא כדבריכם שעל ידיכם באתי למדריגה זו, לא כן הוא, כי אם מחמת שנהגתי עצמי בדרך הזה, שתיכף ומיד בקומי ב"בקר" יחדתי שמו הגדול והנורא ביהודים ודביקות, וזהו "ויודע ה'" מלשון וידע את חוה שפירושו יחוד, וזהו "בקר ויודע ה' את אשר לו" שיחדתי קב"ה ושכינתיה עם העולמות, "ואת הקדוש" פירוש דהצדיק אח"כ מקדש עצמו במחשבות טהורות, "והקריב אליו" פירוש שמקרב עצמו להשי"ת להתפלל לפניו ואחר כך "אשר יבחר בו יקריב אליו" ר"ל מי שהש"י ב"ה בוחר בו, יקריב אליו - הוא מקרב אליו במדריגות קדושות, ולא כדבריכם שאתם אומרים שעל ידכם באתי למדריגה זאת. וק"ל.
+**וידבר כו' בקר ויודע ה' כו' ואת הקדוש ויקריב אליו כו',** פירוש לא כדבריכם שעל ידיכם באתי למדריגה זו, לא כן הוא, כי אם מחמת שנהגתי עצמי בדרך הזה, שתיכף ומיד בקומי ב"בקר" יחדתי שמו הגדול והנורא ביחודים ודביקות, וזהו "ויודע ה'" מלשון וידע את חוה שפירושו יחוד, וזהו "בקר ויודע ה' את אשר לו" שיחדתי קב"ה ושכינתיה עם העולמות, "ואת הקדוש" פירוש דהצדיק אח"כ מקדש עצמו במחשבות טהורות, "והקריב אליו" פירוש שמקרב עצמו להשי"ת להתפלל לפניו ואחר כך "אשר יבחר בו יקריב אליו" ר"ל מי שהש"י ב"ה בוחר בו, יקריב אליו - הוא מקרב אליו במדריגות קדושות, ולא כדבריכם שאתם אומרים שעל ידכם באתי למדריגה זאת. וק"ל.
 
 
 ###### Noam Elimelekh, Sefer Bamidbar, Korach 8:1
@@ -9595,7 +9595,7 @@ And this is the meaning of the verse "I give Egypt as a kofer for you, Cush and 
 [https://torahapp.org/share/book/Noam%20Elimelekh/s/Sefer%20Bamidbar,_Chukat/r/8:1](https://torahapp.org/share/book/Noam%20Elimelekh/s/Sefer%20Bamidbar,_Chukat/r/8:1)
 
 
-**או יאמר** "זאת כו'", דהצדיק כשרוצה לפעול איזה דבר צריך להלביש אותו הדבר באיזה תורה, והתורה היא העולה ומעלה אותו הדבר לפני הש"י ב"ה, ואין לך דבר בעולם שלא יהא לו לבוש בהתורה, וזהו "זאת הקת התורה" ר"ל שהתורה נאמרה כדבר חוק, ועי"ז יוכל אדם לפרש בה ולהלביש בה כל דבר שע"י התורה יפעול כרצונו, וזהו "לאמר" שיוכל לומר על ידה כל מה שירצה. וק"ל.
+**או יאמר** "זאת כו'", דהצדיק כשרוצה לפעול איזה דבר צריך להלביש אותו הדבר באיזה תורה, והתורה היא העולה ומעלה אותו הדבר לפני הש"י ב"ה, ואין לך דבר בעולם שלא יהא לו לבוש בהתורה, וזהו "זאת חקת התורה" ר"ל שהתורה נאמרה כדבר חוק, ועי"ז יוכל אדם לפרש בה ולהלביש בה כל דבר שע"י התורה יפעול כרצונו, וזהו "לאמר" שיוכל לומר על ידה כל מה שירצה. וק"ל.
 
 
 ###### Noam Elimelekh, Sefer Bamidbar, Chukat 9:1
@@ -10562,12 +10562,18 @@ And this is [the meaning of] that which the Holy One, blessed be He, recounts th
 **היום הזה ראינו כי ידבר אלקים את האדם וחי,** ואח"ז כתיב "אם יוספים אנחנו לשמוע כו' עוד ומתנו". הנה השני כתובים הם מכחישים וסותרים זה את זה לכאורה, שהם בעצמם אמרו "כי ידבר אלהים את האדם וחי", והדר אמר "אם יוספים כו' ומתנו".
 
 
+"This day we have seen that God speaks with a human being — and they live." (Deuteronomy 5:21) And after this it is written: "If we continue to hear… any more, we shall die."(Deuteronomy 5:22) Behold, the two verses apparently contradict and refute one another: they themselves said "that God speaks with a human being and they live," and then said, "if we continue… we shall die."
+
+
 ###### Noam Elimelekh, Sefer Devarim, Vaetchanan 4:2
 
 [https://torahapp.org/share/book/Noam%20Elimelekh/s/Sefer%20Devarim,_Vaetchanan/r/4:2](https://torahapp.org/share/book/Noam%20Elimelekh/s/Sefer%20Devarim,_Vaetchanan/r/4:2)
 
 
 ‎ונקדים לפרש פסוק בתהילים "אני אמרתי אלקים אתם ובני עליון כולכם אכן כאדם תמותון". דהנה כתבנו פעמים רבות דהצדיק נקרא "איש אלקים", כמ"ש "משה איש אלקים", מפני שהצדיק הוא בעל הדינים והם בידו לכל אשר יחפוץ יטנו להכניעם ולהמתיק אותם, והצדיק הוא הדיין, כי הדיינים נקראים אלקים, וכאשר ידין ויגזור למטה כן יקום, כי כשיש דין למטה אין דין למעלה, ולכן ע"י זה יכול לבטל כל הדינים מישראל וכל הגזירות, ולכן נקרא הצדיק איש אלקים פירוש בעל אלקים. וזהו דאמרינן בגמרא "הקב"ה גוזר והצדיק מבטל שנאמר (איוב כב, כח) ותגזור אומר ויקם", והנה לכאורה האיך מוכח מזה שהצדיק יבטל הדינים והגזירות שהקב"ה גוזר, והלא משמעות הפסוק הוא כשהצדיק גוזר הקב"ה מקיים, ועפ"י הדברים הנ"ל ניחא שפיר, כשהצדיק דן למטה וגוזר, אין דין למעלה וממילא הם בטלים.
+
+
+Let us preface by interpreting a verse in Tehillim: "I said: you are elohim, children of the Most High, all of you; yet like any human you shall die" (Psalms 82:6–7). For we have written many times that one who is a tzaddik is called ish Elohim — as it is written, "Moshe, the man of God" — because one who is a tzaddik is master of the dinim, and the dinim are in the tzaddik's hand, to be inclined wherever the tzaddik desires: to subdue them and to sweeten them. And the tzaddik is the judge — for judges are called elohim — and as the tzaddik judges and decrees below, so it is established; for when there is judgment below, there is no judgment above. Therefore through this the tzaddik can annul all the dinim from Israel, and all the decrees; and therefore one who is a tzaddik is called ish Elohim — meaning, master of Elohim. And this is what we say in the Gemara: "The Holy One decrees, and the tzaddik annuls, as it is said: You shall decree a word, and it shall be established for you" (Iyov 22:28). At first glance — how is it proved from here that the tzaddik annuls what the Holy One decrees? The plain sense of the verse is that when the tzaddik decrees, the Holy One fulfills! But by the words above it sits well: when the tzaddik judges below and decrees, there is no judgment above — and of themselves the decrees are annulled.
 
 
 ###### Noam Elimelekh, Sefer Devarim, Vaetchanan 4:3
@@ -10578,12 +10584,18 @@ And this is [the meaning of] that which the Holy One, blessed be He, recounts th
 ‎אך זאת צריך להבין, מאין הוא להצדיק שיכול לרפאות לחולה ע"י תפילתו ולהמשיך לו חיות שיחי' האדם, והלא חיותו של הצדיק איננו לעולם, הלא הוא כמקריות והאיך דבר מקרה יכול ליתן חיות לאדם, השי"ת ב"ה וב"ש שהוא חי וקים לעד ולעולמי עולמים וחיותו הוא עצמיות יכול ליתן חיות לאדם המקרי, אבל לא כן האדם שאין חיותו עצמיות. אמנם אין זה כי אם מחמת שהצדיק מדבק עצמו בהש"י ב"ה, ונמצא חיותו דבוק בהחיים הנצחיים העצמיות, והוי ליה חיותו של הצדיק ג"כ עצמיות ונצחיות, כי עצם אל עצם יחד ידובקו, ולכן יש כח ביד הצדיק להמשיך חיות אל החולה. ואם תאמר א"כ יהא הצדיק חי וקים לעולם, זה בלתי אפשרי מחמת שהצדיק אינו תמיד בהדביקות, ולפעמים נפסק מהדביקות כי העולמות כך נבראים, מטי ולא מטי‏ (בזהר ח"א טז, ב) (בזהר ח"א סה, א), דהיינו שהצדיק צריך להיות הולך תמיד ממדריגה למדריגה, וברצותו לעלות להמדריגה היותר גבוה ועליונה, צריך להוריד ולשוב קצת למטה ואח"כ עולה למדריגה היותר גבוה, ובהגיע עת וזמן הילוכו בדרך כל הארץ לעלמא דקשוט והוא נפסק מהדביקות, אזי ילך ויאסף אל עמיו. ואמנם זה היה חפצו ורצונו של המקום ב"ה שנהיה אנחנו כולנו דבקים בו, ולכן אנכי ולא יהיה מפי הגבורה שמענו, כי אנכי הוא מצות עשה, ולא יהיה לך הוא מצות ל"ת באלקות, והם דברי דביקות, ולכן אמר לנו השי"ת ב"ה בעצמו למען נהיה דבקים בו בהחיים הנצחיים.
 
 
+But this one must understand: whence does one who is a tzaddik have the power to heal the sick through prayer, and to draw down aliveness so that the person may live? For the tzaddik's own aliveness is not forever — it is, as it were, on loan — and how can what is borrowed give aliveness to another? The Blessed God, who lives and endures forever and to all eternities, whose aliveness is essential, can give aliveness to the human being whose aliveness is borrowed; but not so a human being, whose aliveness is not their own essence. Rather, it is nothing other than this: because the tzaddik cleaves to the Blessed God, the tzaddik's aliveness is found cleaving to the eternal, essential Life — and that aliveness becomes itself essential and eternal, for essence to Essence cleave together. And therefore there is power in the tzaddik's hand to draw aliveness to the sick. And if you should say: if so, let the tzaddik live and endure forever! — this is impossible, because the tzaddik is not always in devekut. At times the devekut is interrupted, for thus were the worlds created — מטי ולא מטי, touching and not-touching (Zohar I 16b; 65a): one who is a tzaddik must go always from rung to rung, and wishing to ascend to the higher, loftier rung, must first descend and return a little below, and afterward ascend to the rung above. And when the time arrives to go the way of all the earth, to the world of truth, and the devekut is interrupted — then the tzaddik goes, and is gathered in.And indeed, this was the desire and the will of the Omnipresent, blessed be He: that all of us be cleaving to God. And therefore Anochi and Lo yihyeh we heard from the mouth of the Gevurah — for Anochi is a positive commandment, and Lo yihyeh lecha a negative commandment, in Divinity — and they are words of devekut. Therefore the Blessed God spoke them to us directly, in order that we be cleaving to God — to the eternal Life.
+
+
 ###### Noam Elimelekh, Sefer Devarim, Vaetchanan 4:4
 
 [https://torahapp.org/share/book/Noam%20Elimelekh/s/Sefer%20Devarim,_Vaetchanan/r/4:4](https://torahapp.org/share/book/Noam%20Elimelekh/s/Sefer%20Devarim,_Vaetchanan/r/4:4)
 
 
 ‎וזהו פירוש "אני אמרתי אלקים אתם", דהיינו שתהיו דבקים בה' ע"י מדריגת אלקים, היינו הל"ת לא יהיה לך כו', "ובני עליון" היינו מ"ע אנכי שהוא עליון על כל, ונמצא שאתם דבוקים בהחיים הנצחיים, "אכן כאדם תמותון" דהיינו בהפסק עצמכם מהדביקות.
+
+
+And this is the interpretation of "I said: you are elohim" — that you be cleaving to God through the rung of Elohim, namely the negative commandment, Lo yihyeh lecha; "and children of the Most High" — namely the positive commandment, Anochi, which is supreme over all; and thus you are cleaving to the eternal Life. "Yet like any human you shall die" — that is: when you interrupt yourselves from the devekut.
 
 
 ###### Noam Elimelekh, Sefer Devarim, Vaetchanan 4:5
@@ -10594,12 +10606,18 @@ And this is [the meaning of] that which the Holy One, blessed be He, recounts th
 ‎וזהו פירוש ג"כ "ואתם הדבקים בה' חיים כלכם היום", הנה מלת "היום" מיותר. אמנם ע"פ הנ"ל יבואר, דהיינו שאתם דבוקים בה', "כולכם" כל אחד ואחד ע"י דביקות בהשי"ת בחיים הנצחים הוא חי, אך אין זה כי אם "היום", דהיינו בכל יום ויום צריך לחזור ולדבק בו ית' כנ"ל, כי א"א שיהיה בדביקות בתמידות.
 
 
+And this is also the interpretation of "And you who cleave to the Lord your God are alive, all of you, today." The word hayom is superfluous. But by the above it is explained: you who cleave to the Lord — all of you, each and every one, through devekut in the Blessed God, in the eternal Life, is alive; but only "today" — that is, every single day one must return and cleave again, for it is impossible to be in devekut continuously.
+
+
 ###### Noam Elimelekh, Sefer Devarim, Vaetchanan 4:6
 
 [https://torahapp.org/share/book/Noam%20Elimelekh/s/Sefer%20Devarim,_Vaetchanan/r/4:6](https://torahapp.org/share/book/Noam%20Elimelekh/s/Sefer%20Devarim,_Vaetchanan/r/4:6)
 
 
 ‎וזהו שאמרו ישראל "היום הזה ראינו כי ידבר אלקים את האדם", דהיינו עם האדם כמדברים זה אל זה, שהשי"ת ב"ה מדבר וגוזר והצדיק גוזר ומבטל, אף אם נגזר ח"ו מיתה על האדם, הצדיק יכול להמשיך לו חיות, וא"ת כנ"ל האיך האדם אשר חיותו בלתי עצמיות יכול ליתן חיות? לזה אמר "וחי", היינו ע"י הדביקות שיש לו בהשי"ת בחיים הנצחים ונמצא חיותו ג"כ עצמיות, ואמרו "אם יוספים אנחנו" דהיינו מה ששמענו מפי הגבורה אנכי ולא יהיה לך, שהם מ"ע ול"ת באלקות, והוא הדביקות, יכולים היינו שפיר לשמוע ולחיות, אך אם יוספים אנחנו לשמוע שאר מצוות מפי השי"ת ב"ה בעצמו, זה א"א שידבר השי"ת עם האדם וחי כי אם לצורך איזה דבר, היינו שדבר ה' עם משה פנים בפנים כדי לדבר אל ישראל, ואלולי זאת "מי כל בשר כו'", לכן "קרב אתה ושמע".
+
+
+And this is what Israel said: "This day we have seen that God speaks et ha-adam" — with the human being, as two speaking with one another: the Blessed God speaks and decrees, and the tzaddik decrees and annuls; even if death, God forbid, has been decreed upon a person, the tzaddik can draw aliveness to them. And if you say, as above — how can a human being, whose aliveness is not their own essence, give aliveness? — to this it said va-chai: through the devekut the tzaddik has in the Blessed God, in the eternal Life, that aliveness too is found essential. And they said "if we continue" — that is: what we heard from the mouth of the Gevurah, Anochi and Lo yihyeh lecha (Deut. 5:7; Ex. 20:3), the positive and negative commandments in Divinity — that is devekut, and we were well able to hear it, and live. But if we continue to hear the rest of the mitzvot from the Blessed God directly — this is impossible, that God speak with a human being and they live, except for the need of some matter: as God spoke with Moshe panim be-fanim, face to face, in order to speak to Israel. And were it not for this — "who of all flesh…" (Exodus 16:3) Therefore: "you draw near, and hear."
 
 
 
@@ -10818,7 +10836,7 @@ And this is "see!" - meaning, when you are on the level of love, which is called
 **או יאמר** "ראה אנכי נותן לפניכם ברכה כו'". ונקדים לפרש פסוק "זכר רב טובך יביעו כו'", דכבר כתבנו מזה פעמים הרבה שהצדיק הוא מעורר רחמים תמיד ע"י תורתו הקדושה שעוסק בה לשמה, וע"י מצוותיו ית"ש, וע"י השבחים והשירות שנותן ומשבח להבורא ב"ה יתעלה, שאיתערותא דלתתא הוא איתערותא דלעילא, והוא דאמרינן בגמרא "אין טיפה יורדת מלמעלה אלא אם שני טיפות עולות מלמטה". וזהו "זכר רב טובך יביעו", מלשון "מים תבעה אש", כששופכין מים על אש המים מבעבעין (בבא קמא ד, ב), וזהו "זכר רב טובך", פירוש שיזכר רב טובך להשפיע לעולם, "יביעו" ר"ל לזה צריך איתערותא דלתתא, והוא כמשל המים שמבעבעים ועולים ב' טיפות מלמטה, כן הצדיקים מבעבעים קדושתם ואיתערותם דלתתא כפי יכולתם, והשי"ת משפיע לעולם רב טוב ורחמים גדולים, ומה הוא איתערותם דלתתא? ואמר "וצדקתך ירננו", ר"ל ע"י צדק וחסד שעושים ושיר ושבח שנותנים לו ית' ועי"ז נמתקים הדינים, אך גם זאת צריך הצדיק לעורר הגבורות והדינים על האומות, וזהו "כבוד מלכותך יאמרו", פירוש הצדיקים ע"י מעשיהם הטובים כנ"ל ממשיכים את הבורא ב"ה לעולמות, לעשותו מלכות בחסד ורחמים, וזהו "יאמרו" דהיינו אמירה רכה, "וגבורתך ידברו" ר"ל והגבורות הקשים, "דיבור" הוא לשון קשה, צריכין ג"כ למען "להודיע לבני האדם גבורותיו", דבני האדם הם האומות, כדאיתא בתוס' בע"ז (בבא קמא ג, א) החילוק שבין "אדם" ל"האדם", דישראל נקרא "אדם" והאומות נקרא "האדם".
 
 
-Or we can say: "See, I give in front of you, blessing etc" (Deut. 11:26). Beforehand, let's explain the verse "they will speak of the memory of Your goodness etc" (Psalms 145:7) - we already wrote many times about this, that the tzadik arouses compassion at all times, and that through the tzadik's doing the mitzvot of the Blessed One, and through the tzadik's praises and songs and exalting of the Holy Blessed One, [this all is] the arousing of Below becoming arousing of Above, and this is what is said in the Gemara "not one drop comes from above if two drops did not come from below" (Zohar III:247b; Bereishit Rabbah 13:13). And this is "they will speak [יביעו] of the memory of Your goodness", from the expression "fire makes water boil [תבעה]" (Isaiah 64:1), when we
+Or we can say: "See, I give in front of you, blessing etc" (Deut. 11:26). Beforehand, let's explain the verse "they will speak of the memory of Your goodness etc" (Psalms 145:7) - we already wrote many times about this, that the tzadik arouses compassion at all times, and that through the tzadik's doing the mitzvot of the Blessed One, and through the tzadik's praises and songs and exalting of the Holy Blessed One, [this all is] the arousing of Below becoming arousing of Above, and this is what is said in the Gemara "not one drop comes from above if two drops did not come from below" (Zohar III:247b; Bereishit Rabbah 13:13). And this is "they will speak [יביעו] of the memory of Your goodness", from the expression "fire makes water boil [תבעה]" (Isaiah 64:1), when we add water to fire water boils (Baba Kamma 4b) - and this is "the memory of Your goodness" meaning that Your goodness is reminded so You will pour [goodness] to the world. "They will remind" meaning, for this an awakening from below is needed, and this is like the parable of the water that boils and rises 2 drops upwards, so too the tzadikim boil their holiness and awaken the levels below as they are able. And the Holy One of Blessing makes great goodness and great compassion flow to the world. And what is the awakening from below? The verse says "they sing of Your tzedakah" meaning, through them doing righteousness (tzedek) and lovingkindness (chesed), and singing and praising the Holy Blessed Name, through all this they sweeten the judgments, and also the tzadik needs to awaken judgment and harshness towards the nations of the world, and this is "they will speak of the honor of Your Kingship".
 
 
 ###### Noam Elimelekh, Sefer Devarim, Re'eh 2:2

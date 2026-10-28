@@ -14,7 +14,9 @@ Location: Talmud/Bavli/Acharonim on Talmud/Chidushei Agadot/Seder Nezikin
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Vilna Edition (Segments: 78, License: Public Domain)
+Version (He): Vilna Edition (Segments: 77, License: Public Domain)
+
+Version (En): Sefaria Community Translation (Segments: 1)
 
 
 ## Daf 7a
@@ -46,15 +48,7 @@ Version (He): Vilna Edition (Segments: 78, License: Public Domain)
 [https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Makkot/r/9b:1](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Makkot/r/9b:1)
 
 
-**ע"ב**וממך
-
-
-###### Chidushei Agadot on Makkot 9b:2
-
-[https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Makkot/r/9b:2](https://torahapp.org/share/book/Chidushei%20Agadot%20on%20Makkot/r/9b:2)
-
-
-**למד אכסנאי שבא לעיר כו'. הלשון מגומגם קצת ובפ' החובל גרסי' וכבר למד אכסנאי כו' ויש ליישב לשון שמעתין דר"ל ממך למד שאתה גרמת לו להשיב לך אחותי היא כמ"ש כי אמרתי רק אין יראת אלהים במקום הזה ששאלתם אותו בתחלה על עסקי אשתו ולא על אכילה ושתיה וק"ל:**אמר
+**וממך למד אכסנאי שבא לעיר כו'.** הלשון מגומגם קצת ובפ' החובל גרסי' וכבר למד אכסנאי כו' ויש ליישב לשון שמעתין דר"ל ממך למד שאתה גרמת לו להשיב לך אחותי היא כמ"ש כי אמרתי רק אין יראת אלהים במקום הזה ששאלתם אותו בתחלה על עסקי אשתו ולא על אכילה ושתיה וק"ל:
 
 
 
@@ -189,6 +183,9 @@ Version (He): Vilna Edition (Segments: 78, License: Public Domain)
 
 
 **בדרך** שאדם רוצה ליליך מוליכין אותו כו'. עיין בזה במפרשים ואענה גם אני חלקי דלא קאמר שמוליך אותו הקב"ה אלא מוליכין אותו והוא ע"פ מה שכתבנו בכמה מקומות שכל מחשבה ודיבור ומעשה האדם הנה הוא בורא לו מלאך לפי ענינו אם לטוב אם לרע וע"כ אמר בדרך שאדם רוצה לילך שהרשות בידי האדם ממנו ית' ב"ה שהכל בידי שמים חוץ מיראת שמים אבל כפי רצונו ודעתו של אדם מוליכין אותו אותן המלאכים הנבראים מאותו רצון ומחשבה אשר בו ומייתי ראיה מן התורה דכתיב לא תלך עמהם שא"ל הקב"ה כן וכתיב קום לך אתם וגו' שרצונו ודעתו הרעה לילך אתם הביא ששלח לו הקב"ה מלאך כרצונו ומחשבתו שא"ל קום לך אתם ואמר דכתיב אנכי ה' אלהיך מלמדך להועיל וגו' כי כל מצותיו ית' ב"ה אינו מלמדך רק להועיל ולטוב לך אבל מדריכך הוא מלאך שאתה מדריכו בדרך זו תלך כפי דעתך ורצונך ואמר דכתיב אם ללצים הוא יליץ וגו' ר"ל אם ללצים הוא מוסיף לו לץ דהיינו מלאך כפי ליצנותך ואם לענוים הוא יתן חן לעצמו מלאך של חן נגדו ית' ב"ה:
+
+
+3. Along the path a person wishes to proceed, one leads and assists him etc. - See the Commentators on this and I will also give my perspective. It does not say that Holy One Blessed Be He leads the person rather he is led. And this is based on what is written in many places that all thoughts, speech, and actions of a person create a Malach according to the matter, both for good and for bad. Therefore, it says in the way a person wants to go, which is given over to man from the Blessed Be He (i.e. free choice), for all is in the hands of Heaven except for Fear of Heaven. But according to his will, and his understanding of a person he goes, those Malachim are created from that will or thought in him. And the Amora bring a proof from the Torah, as it says "You shall not go with them." Yet the Holy One Blessed Be him says and it written "Arise, go with them." That is his will (Balaam) and bad intention to go with them came a Malach like his will and though that said to him "Arise, go with them." And it says that it is written "I am Hashem Your God" - who teachs for your benefit etc., for all Mitzvos of the Blessed Be He is only to teach for ones benefits and that it s good for you. But your guide is the Malach that you send and you go according to your understanding and will. And it says that it is written "if to the scoffers, he will be a scoffer" etc. In other words, if to the scoffers, he will add to him scoffing that is a Malach to scoff, and if for humbleness he will give him a Malach of grace before him, Blessed be He.
 
 
 ###### Chidushei Agadot on Makkot 10b:4

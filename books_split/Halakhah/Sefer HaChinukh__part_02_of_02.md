@@ -204,7 +204,7 @@ And it appears that [also] included in this commandment is that anyone who the m
 [https://torahapp.org/share/book/Sefer%20HaChinukh/r/415:1](https://torahapp.org/share/book/Sefer%20HaChinukh/r/415:1)
 
 
-**שֶׁלֹּא יִירָא הַדַּיָּן בַּדִּין** – שֶׁנִּמְנַע הַדִּין מִלִּירֹא מֵאִישׁ מִלָּדוּן דִּין אֱמֶת, וַאֲפִלּוּ הוּא אִישׁ מַזִּיק עַז פָּנִים עָב הַמֹּחַ, אֶלָּא יַחְתֹּךְ אֶת הַדִּין, וְלֹא יָשִׂים לִבּוֹ כְּלָל לְמָה שֶׁיִּקְרֶה עָלָיו מֵהַהֶזֵּק בִּשְׁבִיל דִּינוֹ, וְעַל זֶה נֶאֱמַר (דברים א יז) לֹא תָגוּרוּ מִפְּנֵי אִישׁ. וּלְשׁוֹן סִפְרֵי (כאן) שֶׁמָּא תֹּאמַר יָרֵא אֲנִי מֵאִישׁ פְּלוֹנִי, שֶׁמָּא יַהַרְגֵנִי אוֹ יַהֲרֹג אֶחָד מִבְּנֵי בֵּיתִי, אוֹ שֶׁמָּא יַדְלִיק אֶת גְּדִישִׁי אוֹ שֶׁמָּא יִקְצֹץ אֶת נְטִיעָתִי? תַּלְמוּד לוֹמַר לֹא תָגוּרוּ מִפְּנֵי אִישׁ.
+**שֶׁלֹּא יִירָא הַדַּיָּן בַּדִּין** – שֶׁנִּמְנַע הַדַּיָּין מִלִּירֹא מֵאִישׁ מִלָּדוּן דִּין אֱמֶת, וַאֲפִלּוּ הוּא אִישׁ מַזִּיק עַז פָּנִים עָב הַמֹּחַ, אֶלָּא יַחְתֹּךְ אֶת הַדִּין, וְלֹא יָשִׂים לִבּוֹ כְּלָל לְמָה שֶׁיִּקְרֶה עָלָיו מֵהַהֶזֵּק בִּשְׁבִיל דִּינוֹ, וְעַל זֶה נֶאֱמַר (דברים א יז) לֹא תָגוּרוּ מִפְּנֵי אִישׁ. וּלְשׁוֹן סִפְרֵי (כאן) שֶׁמָּא תֹּאמַר יָרֵא אֲנִי מֵאִישׁ פְּלוֹנִי, שֶׁמָּא יַהַרְגֵנִי אוֹ יַהֲרֹג אֶחָד מִבְּנֵי בֵּיתִי, אוֹ שֶׁמָּא יַדְלִיק אֶת גְּדִישִׁי אוֹ שֶׁמָּא יִקְצֹץ אֶת נְטִיעָתִי? תַּלְמוּד לוֹמַר לֹא תָגוּרוּ מִפְּנֵי אִישׁ.
 
 
 **That a judge not fear in judgment:** That the judge is prevented from being afraid of a man, to judge a truthful judgment — even if he is a man [that is] destructive, brazen-faced and thick-headed — but rather, he should make the verdict and not put his heart at all to that which may befall him of the [possible] damage [to himself] as a result of the judgment. And about this is it stated (Deuteronomy 1:17), “Do not fear any man.” And the language of Sifrei Devarim 17:2 [is] “Lest you say, ‘I am afraid of man x lest he kill me or kill one of the people of my home’ or ‘lest he burn my stacks or lest he cut down my plantings.’ [Hence] we learn to say, ‘Do not fear any man.’”
@@ -2627,7 +2627,7 @@ The root of this commandment is written in the previous [commandments] that come
 [https://torahapp.org/share/book/Sefer%20HaChinukh/r/460:1](https://torahapp.org/share/book/Sefer%20HaChinukh/r/460:1)
 
 
-**שֶׁלֹּא לְלַמֵּד זְכוּת לַמֵּסִית** – שֶׁנִּמְנַע הַמּוּסָת שֶׁלֹּא לִטְעֹן דָּבָר שֶׁל זְכוּת עַל הַמֵּסִית וַאֲפִלּוּ יוֹדֵעַ לוֹ זְכוּת, וְלֹא יְלַמְּדֵהוּ וְלֹא יִזְכְּרֵהוּ עָלָיו, וְעַל זֶה נֶאֱמַר וְלֹא תַחְמֹל. וְכֵן אָמְרוּ זִכְרוֹנָם לִבְרָכָה (בספרי) לֹא תְּלַמֵּד עָלָיו זְכוּת. וְעִנְיָנָהּ, כְּמוֹ הָאֲחֵרוֹת שֶׁזָּכַרְנוּ בְּסָמוּךְ.
+**שֶׁלֹּא לְלַמֵּד זְכוּת לַמֵּסִית** – שֶׁנִּמְנַע הַמּוּסָת שֶׁלֹּא לִטְעֹן דָּבָר שֶׁל זְכוּת עַל הַמֵּסִית וַאֲפִלּוּ יוֹדֵעַ לוֹ זְכוּת, וְלֹא יְלַמְּדֵהוּ וְלֹא יִזְכְּרֵהוּ עָלָיו, וְעַל זֶה נֶאֱמַר (דברים יג, ט) וְלֹא תַחְמֹל. וְכֵן אָמְרוּ זִכְרוֹנָם לִבְרָכָה (בספרי) לֹא תְּלַמֵּד עָלָיו זְכוּת. וְעִנְיָנָהּ, כְּמוֹ הָאֲחֵרוֹת שֶׁזָּכַרְנוּ בְּסָמוּךְ.
 
 
 **Not to advocate innocence for a seducer:** That the seduced is prevented not to claim something of merit for the seducer. And even if he knows a merit for him, he should not advocate it and not mention it about him. And about this is it stated (Deuteronomy 13:9), “you shall not have pity.” And so did they, may their memory be blessed, say (Sifrei Devarim 89:4), “Do not advocate innocence for him.” And its content is like the other [related commandments] that we mentioned adjacently.
@@ -8872,7 +8872,7 @@ And one who transgresses this, and sways the judgment of a stranger, violates tw
 [https://torahapp.org/share/book/Sefer%20HaChinukh/r/591:1](https://torahapp.org/share/book/Sefer%20HaChinukh/r/591:1)
 
 
-**שֶׁלֹּא לְמַשְׁכֵּן בֶּגֶד אַלְמָנָה** – שֶׁנִּמְנַעְנוּ מִלְּמַשְׁכֵּן אֶת הָאַלְמָנוֹת, שֶׁנֶּאֱמַר וְלֹא תַחֲבֹל בֶּגֶד אַלְמָנָה. וּלְשׁוֹן הַמִּשְׁנָה (ב"מ קטו א), אַלְמָנָה בֵּין שֶׁהִיא עֲנִיָּה בֵּין שֶׁהִיא עֲשִׁירָה אֵין מְמַשְׁכְּנִין אוֹתָהּ.
+**שֶׁלֹּא לְמַשְׁכֵּן בֶּגֶד אַלְמָנָה** – שֶׁנִּמְנַעְנוּ מִלְּמַשְׁכֵּן אֶת הָאַלְמָנוֹת, שֶׁנֶּאֱמַר (דברים כד יז) וְלֹא תַחֲבֹל בֶּגֶד אַלְמָנָה. וּלְשׁוֹן הַמִּשְׁנָה (ב"מ קטו א), אַלְמָנָה בֵּין שֶׁהִיא עֲנִיָּה בֵּין שֶׁהִיא עֲשִׁירָה אֵין מְמַשְׁכְּנִין אוֹתָהּ.
 
 
 **To not take the garment of a widow as surety:** That we have been prevented from taking surety from a widow, as it states (Deuteronomy 24:17), “you shall not take a widow’s garment in pawn.” And the language of the mishnah is (Mishnah Bava Metzia 9:13) “From a widow, whether she be poor or she be rich, we do not extract surety.”
@@ -9709,7 +9709,7 @@ From the roots of this commandment and all of its content is written in its posi
 [https://torahapp.org/share/book/Sefer%20HaChinukh/r/606:1](https://torahapp.org/share/book/Sefer%20HaChinukh/r/606:1)
 
 
-**מִצְוַת קְרִיאָה עַל הַבִּכּוּרִים** – שֶׁנִּצְטַוִּינוּ בַּהֲבִיאֵנוּ הַבִּכּוּרִים לַמִּקְדָּשׁ לִקְרוֹת עֲלֵיהֶם הַכְּתוּבִים אֵלּוּ הַנִּזְכָּרִים בְּפָרָשָׁה זוֹ, וְהֵן, מֵאֲרַמִּי אֹבֵד אָבִי עַד הִנֵּה הֵבֵאתִי אֶת רֵאשִׁית פְּרִי הָאֲדָמָה אֲשֶׁר נָתַתָּה לִּי יְיָ. וְעַל זֶה נֶאֱמַר (דברים כו ה) וְעָנִיתָ וְאָמַרְתָּ לִפְנֵי יְיָ אֱלֹהֶיךָ וְגוֹ'. וְזֹאת הַמִּצְוָה יִקְרְאוּ זִכְרוֹנָם לִבְרָכָה (סוטה לב א) מִקְרָא בִּכּוּרִים. וּמִצְוַת הֲבָאָתָן כְּתַבְתִּיו בְּסֵדֶר מִשְׁפָּטִים בְּמִצְוַת הֲבָאַת הַבִּכּוּרִים (מצוה עב), וְנִכְפְּלָה הַמִּצְוָה לַהֲבִיאָן כְּמוֹ כֵן בְּפָרָשָׁה זוֹ, וּכְבָר נוֹדַע כִּי הַרְבֵּה מִן הַמִּצְוֹת נִכְפָּלוֹת בַּתּוֹרָה, וְכֻלָּן לְעִנְיָן וּלְצֹרֶךְ גָּדוֹל.
+**מִצְוַת קְרִיאָה עַל הַבִּכּוּרִים** – שֶׁנִּצְטַוִּינוּ בַּהֲבִיאֵנוּ הַבִּכּוּרִים לַמִּקְדָּשׁ לִקְרוֹת עֲלֵיהֶם הַכְּתוּבִים אֵלּוּ הַנִּזְכָּרִים בְּפָרָשָׁה זוֹ, וְהֵן, מֵאֲרַמִּי אֹבֵד אָבִי עַד הִנֵּה הֵבֵאתִי אֶת רֵאשִׁית פְּרִי הָאֲדָמָה אֲשֶׁר נָתַתָּה לִּי יְיָ. וְעַל זֶה נֶאֱמַר (דברים כו ה) וְעָנִיתָ וְאָמַרְתָּ לִפְנֵי יְיָ אֱלֹהֶיךָ וְגוֹ'. וְזֹאת הַמִּצְוָה יִקְרְאוּ זִכְרוֹנָם לִבְרָכָה (סוטה לב א) מִקְרָא בִּכּוּרִים. וּמִצְוַת הֲבָאָתָן כְּתַבְתִּיו בְּסֵדֶר מִשְׁפָּטִים בְּמִצְוַת הֲבָאַת הַבִּכּוּרִים (מצוה צא), וְנִכְפְּלָה הַמִּצְוָה לַהֲבִיאָן כְּמוֹ כֵן בְּפָרָשָׁה זוֹ, וּכְבָר נוֹדַע כִּי הַרְבֵּה מִן הַמִּצְוֹת נִכְפָּלוֹת בַּתּוֹרָה, וְכֻלָּן לְעִנְיָן וּלְצֹרֶךְ גָּדוֹל.
 
 
 **The commandment of recital over the first-fruits:** That we commanded when bringing the first-fruits to the Temple to recite these verses in this section over them; and they are from, “My father was a wandering Aramean” (Deuteronomy 26:5), until “behold I have brought the first of the fruit of the land that the Lord gave me” (Deuteronomy 26:10). And about this is it stated (Deuteronomy 26:5), “And you will answer and you will say in front of the Lord, your God, etc.” And they, may their memory be blessed, called this commandment, (Sotah 32a), “the recital of the first-fruits.” I have written about the commandment of bringing them in the Order of *Mishpatim* (Sefer HaChinukh 91); and the commandment to bring them is likewise repeated in this section. And we already know that many of the commandments are repeated in the Torah; and all of them are for a great matter or necessity.

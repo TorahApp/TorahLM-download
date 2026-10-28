@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat Zion/Prophets
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 1608, License: Public Domain)
+Version (He): On Your Way (Segments: 1611, License: Public Domain)
 
 
 ## Chapter 1
@@ -859,12 +859,23 @@ Version (He): On Your Way (Segments: 1608, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezekiel/r/4:9:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezekiel/r/4:9:1)
 
 
-**חטין וגו׳.** שמות מיני תבואה וקטניות: (, א) במשורה כן נקרא מדת הלח כמו במשקל ובמשורה (ויקרא יט):
+**חטין וגו׳.** שמות מיני תבואה וקטניות:
 
 
-###### Metzudat Zion on Ezekiel 4:9:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezekiel/r/4:9:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezekiel/r/4:9:2)
+### Verse 11
+
+###### Metzudat Zion on Ezekiel 4:11:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezekiel/r/4:11:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezekiel/r/4:11:1)
+
+
+**במשורה.** כן נקרא מדת הלח כמו במשקל ובמשורה (ויקרא יט):
+
+
+###### Metzudat Zion on Ezekiel 4:11:2
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezekiel/r/4:11:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezekiel/r/4:11:2)
 
 
 **ההין.** שם מדה:
@@ -1997,9 +2008,12 @@ Version (He): On Your Way (Segments: 1608, License: Public Domain)
 **הוה.** ענין שבר כמו עד יעבור הוות (תהילים נ״ז:ב׳):
 
 
-###### Metzudat Zion on Ezekiel 7:26:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezekiel/r/7:26:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezekiel/r/7:26:2)
+### Verse 27
+
+###### Metzudat Zion on Ezekiel 7:27:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezekiel/r/7:27:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezekiel/r/7:27:1)
 
 
 **תבהלנה.** מל׳ בהלה ופחד:
@@ -2891,7 +2905,7 @@ Version (He): On Your Way (Segments: 1608, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezekiel/r/12:5:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezekiel/r/12:5:2)
 
 
-**בקיד.** בכותל:
+**בקיר.** בכותל:
 
 
 
@@ -4196,7 +4210,7 @@ Version (He): On Your Way (Segments: 1608, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezekiel/r/16:27:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezekiel/r/16:27:2)
 
 
-**הקיך.** ר״ל מזון קבוע וכן ואכלו את חוקם (בראשית מז):
+**חקיך.** ר״ל מזון קבוע וכן ואכלו את חוקם (בראשית מז):
 
 
 ###### Metzudat Zion on Ezekiel 16:27:3
@@ -5197,7 +5211,18 @@ Version (He): On Your Way (Segments: 1608, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezekiel/r/18:31:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezekiel/r/18:31:1)
 
 
-**ורוח.** ענין רצון כמו אל אשר יהיה שמה הרוח ללכת (לעיל א) (לב) במות המת. קראו מת ע״ש סופו:
+**ורוח.** ענין רצון כמו אל אשר יהיה שמה הרוח ללכת (לעיל א):
+
+
+
+### Verse 32
+
+###### Metzudat Zion on Ezekiel 18:32:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezekiel/r/18:32:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezekiel/r/18:32:1)
+
+
+**במות המת.** קראו מת ע״ש סופו:
 
 
 
@@ -11900,7 +11925,18 @@ Version (He): On Your Way (Segments: 1608, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezekiel/r/36:12:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezekiel/r/36:12:2)
 
 
-**לשכלם.** ענין מיתה ואבדון כמו והארץ משכלת (מ״ב ב) (יז) ובעלילותם. במעשיהם:
+**לשכלם.** ענין מיתה ואבדון כמו והארץ משכלת (מ״ב ב):
+
+
+
+### Verse 17
+
+###### Metzudat Zion on Ezekiel 36:17:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezekiel/r/36:17:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Ezekiel/r/36:17:1)
+
+
+**ובעלילותם.** במעשיהם:
 
 
 

@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Petach Einayim, Jerusalem 1959 (Segments: 291, License: Public Domain)
 
-Version (En): [fr] (Segments: 3)
+Version (En): Sefaria Community Translation (Segments: 3)
 
 
 ## Daf 2a

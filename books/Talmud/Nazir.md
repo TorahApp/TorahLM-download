@@ -6612,7 +6612,7 @@ The Gemara asks: **But he said: Black bull,** and **are we not dealing** even wi
 [https://torahapp.org/share/book/Nazir/r/31a:7](https://torahapp.org/share/book/Nazir/r/31a:7)
 
 
-אֲמַר לֵיהּ רָבָא מִבַּרְנִישׁ לְרַב אָשֵׁי: הַאי הֶקְדֵּשׁ בְּטָעוּת הוּא? הֶקְדֵּשׁ בְּכַוּוֹנָה הוּא! מִשּׁוּם דְּאַטְעֲיֵיהּ לְדִיבּוּרֵיהּ קַמָּא.
+אֲמַר לֵיהּ רָבָא מִבַּרְנִישׁ לְרַב אָשֵׁי: הַאי הֶקְדֵּשׁ בְּטָעוּת הוּא? הֶקְדֵּשׁ בְּכַוָּונָה הוּא! מִשּׁוּם דְּאַטְעֲיֵיהּ לְדִיבּוּרֵיהּ קַמָּא.
 
 
 **Rava from Barnish said to Rav Ashi,** with regard to the explanation of Rav Pappa: Is **this** case he mentioned one of **erroneous consecration? It is intentional consecration.** According to the interpretation of Rav Pappa, there is no error. He intended to consecrate the first black bull that emerged, and that is what was consecrated. The Gemara answers: Nevertheless, it is called an erroneous consecration **because he erred in his first statement.** His statement of consecration gave the mistaken impression that he desired to consecrate the first bull that emerges, even if it is white. In any case, Rav Pappa indicates that even Beit Shammai hold that an erroneous act of consecration does not take effect.

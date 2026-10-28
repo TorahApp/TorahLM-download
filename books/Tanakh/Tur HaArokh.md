@@ -31270,7 +31270,7 @@ You must not dodge your duty to testify against such a person in court.
 [https://torahapp.org/share/book/Tur%20HaArokh/s/Deuteronomy/r/22:24:2](https://torahapp.org/share/book/Tur%20HaArokh/s/Deuteronomy/r/22:24:2)
 
 
-**על דבר אשר ענה את אשת רעהו.**כתב הרמב"ן אע"פ שאינו נקרא עינוי אלא השוכב באונס וזו מזנה לרצון מאחר שהיא חייבת אבל ענין הכתוב כאשר נראה שהאיש אוחז אותה ושוכב עמה נדון האש' כמתרצה בעבור שהית' יכולה להוושע ממנו ונתשוב האיש כמענ' אותה כי לא פיתה ולא דיבר על לבה להשמע אליו:
+**על דבר אשר ענה את אשת רעהו.**כתב הרמב"ן אע"פ שאינו נקרא עינוי אלא השוכב באונס וזו מזנה לרצון מאחר שהיא חייבת אבל ענין הכתוב כאשר נראה שהאיש אוחז אותה ושוכב עמה נדון האש' כמתרצה בעבור שהית' יכולה להוושע ממנו ונחשב האיש כמענ' אותה כי לא פיתה ולא דיבר על לבה להשמע אליו:
 
 
 על דבר אשר ענה את אשת רעהו, “for his having raped the wife of his fellow;” Nachmanides writes that although, generally, the expression עינוי, affliction, is used only when actual rape takes place, as in Genesis 34,2 with Dinah daughter of Yaakov, whereas here the woman in question was a willing partner in the act, why else would the Torah declare her guilty? However the situation described here is one where the man in question has been seen taking hold of her, and was lying down with her and she made no attempt to be rescued or to rescue herself; she is guilty while the man, at the same time, is considered as having raped her, since he initiated the crime without her consent being expressed, and he had made no attempt to seduce her, i.e. to secure her freely given consent.

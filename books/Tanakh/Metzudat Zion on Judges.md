@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat Zion/Prophets
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 608, License: Public Domain)
+Version (He): On Your Way (Segments: 611, License: Public Domain)
 
 Version (En): Sefaria Community Translation (Segments: 105)
 
@@ -381,7 +381,18 @@ Version (En): Sefaria Community Translation (Segments: 105)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Judges/r/2:15:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Judges/r/2:15:1)
 
 
-**ויצר.** מלשון צר ודוחק (יז) זנו. המשילם לזונה העוזבת בעל נעוריה, ותאהב זולתו:
+**ויצר.** מלשון צר ודוחק:
+
+
+
+### Verse 17
+
+###### Metzudat Zion on Judges 2:17:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Judges/r/2:17:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Judges/r/2:17:1)
+
+
+**זנו.** המשילם לזונה העוזבת בעל נעוריה, ותאהב זולתו:
 
 
 
@@ -2296,7 +2307,7 @@ The bank of the sea as in Deuteronomy 1:7 "on the bank of the sea."
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Judges/r/6:19:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Judges/r/6:19:2)
 
 
-**בסל.** שס כלי מה:
+**בסל.** שם כלי מה:
 
 
 ###### Metzudat Zion on Judges 6:19:3
@@ -2312,7 +2323,7 @@ The bank of the sea as in Deuteronomy 1:7 "on the bank of the sea."
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Judges/r/6:19:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Judges/r/6:19:4)
 
 
-**בפדור.** הוא דוד נחושת, כעין יורה, וכן (במדבר יא ח) ובשלו בפרור:
+**בפרור.** הוא דוד נחושת, כעין יורה, וכן (במדבר יא ח) ובשלו בפרור:
 
 
 
@@ -4912,7 +4923,18 @@ The bank of the sea as in Deuteronomy 1:7 "on the bank of the sea."
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Judges/r/17:5:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Judges/r/17:5:3)
 
 
-**וימלא.** ענין חנוך, כמו (שמות כט ט) ומלאת יד אהרן (ז) גר. דר:
+**וימלא.** ענין חנוך, כמו (שמות כט ט) ומלאת יד אהרן:
+
+
+
+### Verse 7
+
+###### Metzudat Zion on Judges 17:7:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Judges/r/17:7:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Judges/r/17:7:1)
+
+
+**גר.** דר:
 
 
 
@@ -5345,7 +5367,7 @@ The bank of the sea as in Deuteronomy 1:7 "on the bank of the sea."
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Judges/r/19:13:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Judges/r/19:13:1)
 
 
-**לך.** הוא מלשון הליכה, ועם [ ש ] היא בלא ה״א וכן (במדבר כג יג) לך נא אתי:
+**לך.** הוא מלשון הליכה, ועם [ש]היא בלא ה״א וכן (במדבר כג יג) לך נא אתי:
 
 
 
@@ -5505,7 +5527,15 @@ The bank of the sea as in Deuteronomy 1:7 "on the bank of the sea."
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Judges/r/19:23:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Judges/r/19:23:3)
 
 
-**אחרי.** ענינו כמו הואיל, וכן (לעיל יא לו) אחרי אשר עשה לך ה׳ נקמות הנבלה. דבר מגונה וכעור:
+**אחרי.** ענינו כמו הואיל, וכן (לעיל יא לו) אחרי אשר עשה לך ה׳ נקמות:
+
+
+###### Metzudat Zion on Judges 19:23:4
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20Judges/r/19:23:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Judges/r/19:23:4)
+
+
+**הנבלה.** דבר מגונה וכעור:
 
 
 

@@ -3639,7 +3639,7 @@ Returning to the tractate’s central topic, **Rava said to Rafram bar Pappa: Le
 אֲמַר לֵיהּ, הָכִי אָמַר רַב חִסְדָּא: מַאי דִּכְתִיב, ״אֹהֵב ה׳ שַׁעֲרֵי צִיּוֹן מִכֹּל מִשְׁכְּנוֹת יַעֲקֹב״: אוֹהֵב ה׳ שְׁעָרִים הַמְצוּיָּינִים בַּהֲלָכָה, יוֹתֵר מִבָּתֵּי כְנֵסִיּוֹת וּמִבָּתֵּי מִדְרָשׁוֹת.
 
 
-Rafram **said to him, Rav Ḥisda said as follows: What is** the meaning of the verse: **“The Lord loves the gates of Zion [*Tziyyon*] more than all the dwellings of Jacob”** (Psalms 87:2)? This means that **the Lord loves the gates distinguished [*metzuyanim*] through** the study of *halakha* as they are the gates of Zion, the outstanding gates, **more than the synagogues and study halls.** Although those places are the most outstanding of the dwellings of Jacob, they are not engaged in the study of *halakha*.
+Rafram **said to him, Rav Ḥisda said as follows: What is** the meaning of the verse: **“The Lord loves the gates of Zion [*Tziyyon*] more than all the dwellings of Jacob”** (Psalms 87:2)? This means that **the Lord loves the gates distinguished [*metzuyanim*] through** the study of ***halakha*** as they are the gates of Zion, the outstanding gates, **more than the synagogues and study halls.** Although those places are the most outstanding of the dwellings of Jacob, they are not engaged in the study of *halakha*.
 
 
 ###### Berakhot 8a:18
@@ -11829,7 +11829,7 @@ It was established in the *baraita*: **And** if there is room to place them, **h
 [https://torahapp.org/share/book/Berakhot/r/23a:14](https://torahapp.org/share/book/Berakhot/r/23a:14)
 
 
-וּמַעֲשֶׂה בְּתַלְמִיד אֶחָד שֶׁהִנִּיחַ תְּפִילָּיו בַּחוֹרִין הַסְּמוּכִים לִרְשׁוּת הָרַבִּים, וּבָאת זוֹנָה אַחַת, וּנְטָלָתַן, וּבָאת לְבֵית הַמִּדְרָשׁ וְאָמְרָה: רָאוּ מַה נָּתַן לִי פְּלוֹנִי בִּשְׂכָרִי! כֵּיוָן שֶׁשָּׁמַע אוֹתוֹ תַּלְמִיד כָּךְ, עָלָה לְרֹאשׁ הַגָּג וְנָפַל וָמֵת. בְּאוֹתָהּ שָׁעָה הִתְקִינוּ שֶׁיְּהֵא אוֹחֲזָן בְּבִגְדוֹ וּבְיָדוֹ, וְנִכְנָס.
+וּמַעֲשֶׂה בְּתַלְמִיד אֶחָד שֶׁהִנִּיחַ תְּפִילָּיו בַּחוֹרִין הַסְּמוּכִים לִרְשׁוּת הָרַבִּים, וּבָאת זוֹנָה אַחַת, וּנְטָלָתַן, וּבָאת לְבֵית הַמִּדְרָשׁ וְאָמְרָה: רְאוּ מַה נָּתַן לִי פְּלוֹנִי בִּשְׂכָרִי! כֵּיוָן שֶׁשָּׁמַע אוֹתוֹ תַּלְמִיד כָּךְ, עָלָה לְרֹאשׁ הַגָּג וְנָפַל וָמֵת. בְּאוֹתָהּ שָׁעָה הִתְקִינוּ שֶׁיְּהֵא אוֹחֲזָן בְּבִגְדוֹ וּבְיָדוֹ, וְנִכְנָס.
 
 
 **And an incident** occurred **involving a student who placed his phylacteries in the holes adjacent to the public domain, and a prostitute passed by and took** the phylacteries. **She came to the study hall and said: See what so-and-so gave me as my payment. When that student heard this, he ascended to the rooftop and fell and died. At that moment they instituted that one should hold them with his garment and in his hand and enter** to avoid situations of that kind.
@@ -14284,7 +14284,7 @@ Rabbi Zeira **said to him:** Did **Rabbi Yoḥanan** himself **say** this *halak
 [https://torahapp.org/share/book/Berakhot/r/28a:18](https://torahapp.org/share/book/Berakhot/r/28a:18)
 
 
-אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: כׇּל הַמִּתְפַּלֵּל תְּפִלָּה שֶׁל מוּסָפִין לְאַחַר שֶׁבַע שָׁעוֹת לְרַבִּי יְהוּדָה עָלָיו הַכָּתוּב אוֹמֵר: ״נוּגֵי מִמּוֹעֵד אָסַפְתִּי מִמֵּךְ הָיוּ״. מַאי מַשְׁמַע דְּהַאי נוּגֵי לִישָּׁנָא דִתְבָרָא הוּא? כְּדִמְתַרְגֵּם רַב יוֹסֵף: תְּבָרָא אָתֵי עַל שָׂנְאֵיהוֹן דְּבֵית יִשְׂרָאֵל עַל דְּאַחַרוּ זִמְנֵי מוֹעֲדַיָּא דְּבִירוּשְׁלֶים.
+אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: כׇּל הַמִּתְפַּלֵּל תְּפִלָּה שֶׁל מוּסָפִין לְאַחַר שֶׁבַע שָׁעוֹת לְרַבִּי יְהוּדָה עָלָיו הַכָּתוּב אוֹמֵר: ״נוּגֵי מִמּוֹעֵד אָסַפְתִּי מִמֵּךְ הָיוּ״. מַאי מַשְׁמַע דְּהַאי נוּגֵי לִישָּׁנָא דִתְבָרָא הוּא? כְּדִמְתַרְגֵּם רַב יוֹסֵף: תְּבָרָא אָתֵי עַל שָׂנְאֵיהוֹן דְּבֵית יִשְׂרָאֵל עַל דְּאַחַרוּ זִמְנֵי מוֹעֲדַיָּא דְּבִירוּשְׁלֶם.
 
 
 **Rabbi Yehoshua ben Levi said:** With regard to **anyone who recites the additional prayer after seven hours** of the day, **according to Rabbi Yehuda, the verse states: “Those who are destroyed [*nugei*] far from the Festivals, I shall gather from you,** they who carried for you the burden of insult” (Zephaniah 3:18). **From where** may it **be inferred that *nugei* is an expression of destruction? As Rav Yosef translated** the verse into Aramaic: **Destruction comes upon the enemies** of **the house of Israel,** a euphemism for Israel itself, **for they have delayed the times of the Festivals in Jerusalem.** This proves both that *nugei* means destruction and that destruction comes upon those who fail to fulfill a mitzva at its appointed time.
@@ -29231,7 +29231,7 @@ The Gemara proceeds to cite additional blessings recited as part of one’s dail
 [https://torahapp.org/share/book/Berakhot/r/60b:6](https://torahapp.org/share/book/Berakhot/r/60b:6)
 
 
-כִּי מִעֲטַף בְּצִיצִית, לֵימָא: ״בָּרוּךְ … אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ לְהִתְעַטֵּף בְּצִיצִית״. כִּי מַנַּח תְּפִילִּין אַדְּרָעֵיהּ, לֵימָא: ״בָּרוּךְ … אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ לְהַנִּיחַ תְּפִילִּין״, אַרֵישֵׁיהּ, לֵימָא: ״בָּרוּךְ … אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ עַל מִצְוַת תְּפִילִּין״. כִּי מָשֵׁי יְדֵיהּ ,לֵימָא: ״בָּרוּךְ … אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ עַל נְטִילַת יָדַיִם״. כִּי מָשֵׁי אַפֵּיהּ, לֵימָא: בָּרוּךְ … הַמַּעֲבִיר חֶבְלֵי שֵׁינָה מֵעֵינָי וּתְנוּמָה מֵעַפְעַפָּי. וִיהִי רָצוֹן מִלְּפָנֶיךָ ה׳ אֱלֹהַי, שֶׁתַּרְגִּילֵנִי בְּתוֹרָתֶךָ, וְדַבְּקֵנִי בְּמִצְוֹתֶיךָ, וְאַל תְּבִיאֵנִי לֹא לִידֵי חֵטְא, וְלֹא לִידֵי עָוֹן, וְלֹא לִידֵי נִסָּיוֹן, וְלֹא לִידֵי בִזָּיוֹן. וְכוֹף אֶת יִצְרִי לְהִשְׁתַּעְבֵּד לָךְ. וְרַחֲקֵנִי מֵאָדָם רָע, וּמֵחָבֵר רָע. וְדַבְּקֵנִי בְּיֵצֶר טוֹב וּבְחָבֵר טוֹב בְּעוֹלָמֶךָ. וּתְנֵנִי הַיּוֹם וּבְכׇל יוֹם לְחֵן וּלְחֶסֶד וּלְרַחֲמִים בְּעֵינֶיךָ וּבְעֵינֵי כׇּל רוֹאַי, וְתִגְמְלֵנִי חֲסָדִים טוֹבִים. בָּרוּךְ אַתָּה ה׳ גּוֹמֵל חֲסָדִים טוֹבִים לְעַמּוֹ יִשְׂרָאֵל״.
+כִּי מִעֲטַף בְּצִיצִית, לֵימָא: ״בָּרוּךְ … אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ לְהִתְעַטֵּף בְּצִיצִית״. כִּי מַנַּח תְּפִילִּין אַדְּרָעֵיהּ, לֵימָא: ״בָּרוּךְ … אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ לְהַנִּיחַ תְּפִילִּין״, אַרֵישֵׁיהּ, לֵימָא: ״בָּרוּךְ … אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ עַל מִצְוַת תְּפִילִּין״. כִּי מָשֵׁי יְדֵיהּ, לֵימָא: ״בָּרוּךְ … אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ עַל נְטִילַת יָדַיִם״. כִּי מָשֵׁי אַפֵּיהּ, לֵימָא: בָּרוּךְ … הַמַּעֲבִיר חֶבְלֵי שֵׁינָה מֵעֵינָי וּתְנוּמָה מֵעַפְעַפָּי. וִיהִי רָצוֹן מִלְּפָנֶיךָ ה׳ אֱלֹהַי, שֶׁתַּרְגִּילֵנִי בְּתוֹרָתֶךָ, וְדַבְּקֵנִי בְּמִצְוֹתֶיךָ, וְאַל תְּבִיאֵנִי לֹא לִידֵי חֵטְא, וְלֹא לִידֵי עָוֹן, וְלֹא לִידֵי נִסָּיוֹן, וְלֹא לִידֵי בִזָּיוֹן. וְכוֹף אֶת יִצְרִי לְהִשְׁתַּעְבֵּד לָךְ. וְרַחֲקֵנִי מֵאָדָם רָע, וּמֵחָבֵר רָע. וְדַבְּקֵנִי בְּיֵצֶר טוֹב וּבְחָבֵר טוֹב בְּעוֹלָמֶךָ. וּתְנֵנִי הַיּוֹם וּבְכׇל יוֹם לְחֵן וּלְחֶסֶד וּלְרַחֲמִים בְּעֵינֶיךָ וּבְעֵינֵי כׇּל רוֹאַי, וְתִגְמְלֵנִי חֲסָדִים טוֹבִים. בָּרוּךְ אַתָּה ה׳ גּוֹמֵל חֲסָדִים טוֹבִים לְעַמּוֹ יִשְׂרָאֵל״.
 
 
 **Upon wrapping himself in ritual fringes, one should recite: Blessed…Who has made us holy through His commandments and has commanded us to wrap ourselves in** a garment with **ritual fringes.** 

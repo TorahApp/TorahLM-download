@@ -14,7 +14,7 @@ Location: Chasidut/Other Chasidut Works
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Yakar MiPaz, 1912. (Segments: 78, License: Public Domain)
+Version (He): Yakar MiPaz, Lvov 1874 (Segments: 78, License: Public Domain)
 
 
 ## Title Page

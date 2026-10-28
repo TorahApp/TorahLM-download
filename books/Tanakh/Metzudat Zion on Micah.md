@@ -528,7 +528,7 @@ Version (He): On Your Way (Segments: 255, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Micah/r/2:7:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Micah/r/2:7:2)
 
 
-**מעלליו.** מעשיו:¶
+**מעלליו.** מעשיו:
 
 
 

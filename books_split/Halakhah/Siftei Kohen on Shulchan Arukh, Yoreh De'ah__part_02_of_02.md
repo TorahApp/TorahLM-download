@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Ashlei Ravrevei: Shulchan Aruch Yoreh Deah, Lemberg, 1888 (Segments: 6729)
 
-Version (En): [fr] (Segments: 112)
+Version (En): [fr] (Segments: 114)
 
 # Siftei Kohen on Shulchan Arukh, Yoreh De'ah — part 2 of 2
 

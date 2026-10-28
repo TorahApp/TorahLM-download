@@ -1,6 +1,6 @@
 # Korban Netanel on Rosh Hashanah
 
- קרבן נתנאל על ראש השנה
+קרבן נתנאל על ראש השנה
 
 Link: [https://torahapp.org/share/book/Korban%20Netanel%20on%20Rosh%20Hashanah](https://torahapp.org/share/book/Korban%20Netanel%20on%20Rosh%20Hashanah)
 

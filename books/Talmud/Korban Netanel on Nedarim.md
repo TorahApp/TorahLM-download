@@ -1,6 +1,6 @@
 # Korban Netanel on Nedarim
 
- קרבן נתנאל על נדרים
+קרבן נתנאל על נדרים
 
 Link: [https://torahapp.org/share/book/Korban%20Netanel%20on%20Nedarim](https://torahapp.org/share/book/Korban%20Netanel%20on%20Nedarim)
 

@@ -14,9 +14,9 @@ Location: Chasidut/Breslov
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Likutei Halachot: Orach Chaim 2 (Segments: 10588)
+Version (He): Likutey Halakhot, Breslov Research Institute. Jerusalem-New York, 2019 (Segments: 10588, License: CC-BY-NC)
 
-Version (En): Sefaria Community Translation (Segments: 568)
+Version (En): Ami Silver, 2020 (Segments: 568)
 
 # Likutei Halakhot — part 4 of 5
 

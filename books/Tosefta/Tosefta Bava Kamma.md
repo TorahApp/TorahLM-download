@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Tosefta Bava Kamma - Machon Mamre (Segments: 100, License: Public Domain)
 
-Version (En): Sefaria Community Translation (Segments: 5)
+Version (En): Sefaria Community Translation (Segments: 6)
 
 
 ## Chapter 1
@@ -27,6 +27,9 @@ Version (En): Sefaria Community Translation (Segments: 5)
 
 
 כל שחייבתי בשמירתו חייבתי בנזקו זה השור והבור הכשרתי במקצת נזקו כהכשר כל נזקו זה הבור חייבתי בתשלומי נזקו מלמד שהבעלים מטפלין בנבילה נכסין שאין בהן מעילה פרט לשור של ישראל שנגח לשור של הקדש ושור של הקדש שנגח לשור של ישראל נכסין שהן של בני ברית פרט לשור של ישראל שנגח לשור של כנעני נכסין המיוחדין פרט לנכסי הפקר חוץ מרשות המיוחדת למזיק פרט לשהזיק שור ברשותו ורשות הניזק והמזיק וכשהזיק חב המזיק כגון חצר השותפין והבקעה נכסין המיוחדין שהן חוץ מרשות המיוחדת למזיק ורשות הניזק והמזיק. והשומר חנם והשואל נושא שכר והשוכר שהזיק שור ברשותו מועד משלם נזק שלם ותם משלם חצי נזק אחד נזקי אדם ואחד נזקי בהמה שמין להם מן העידית שנאמר (שמות כ״ב:ד׳) מיטב שדהו ומיטב כרמו ישלם.
+
+
+Anything that I am obligated in its guarding, I am obligated in its damage (B.K. 1:2)--that is the ox and the pit. [If] I have rendered it fit to cause damage, even in part, it is like rendering it fit to cause damage, in full--that is the pit. [If] I am liable to make restitution for its damage--it teaches that that the owner [of the injured animal] attends to (i.e., maintains ownership of) the animal carcass. Property that does not have "sacrilege" (i.e., that is consecrated to the Temple)--it excludes an ox of an Israelite that gored an ox of the Temple, and an ox of the Temple that gored an ox of an Israelite. Property that does not belong to the children of the covenant--it excludes an ox of an Israelite that gored the ox of a Canaanite. Private property--it excludes ownerless property. Outside the private domain of the one causing damage.
 
 
 ###### Tosefta Bava Kamma 1:2

@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Targum Jonathan on Numbers (Segments: 1288, License: Public Domain)
 
-Version (En): The Targum of Jonathan ben Uzziel, trans. J. W. Etheridge, London, 1862 (Segments: 1284)
+Version (En): Sefaria Community Translation (Segments: 1284)
 
 
 ## Chapter 1

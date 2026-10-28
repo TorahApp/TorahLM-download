@@ -14,9 +14,9 @@ Location: Kabbalah/Zohar
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Zohar with Sulam commentary, Jerusalem 1945 (Segments: 20696, License: unknown)
+Version (He): Zohar with Sulam commentary, Jerusalem 1945 (Segments: 20697, License: unknown)
 
-Version (En): The Sefaria Sulam, 2023 (Segments: 1485)
+Version (En): The Sefaria Sulam, 2023 (Segments: 1487)
 
 # Sulam on Zohar — part 5 of 5
 

@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Wikisource (Segments: 250, License: CC-BY-SA)
 
-Version (En): Sefaria Community Translation (Segments: 77)
+Version (En): Sefaria Community Translation (Segments: 78)
 
 
 ## Siman 1
@@ -763,6 +763,9 @@ After Aleinu, the congregation recites the 'Daily Pslam' followed by mourners Ka
 
 
 נוסח הקדיש יתגדל ויתקדש שני הדלתין בצירי כדעת רש"י בלקוטי פרדס שהוא לשון עברי. כרעותיה הכ"ף בדגש. מברך הרי"ש בפתח כי הוא פעול ללשון ארמי ואם יאמר הרי"ש בצירי יהי' בינוני פועל ללשון עברי ויהי' היפך המכוון. ויתעלה שמיה דקודשא ב"ה ואין אומרים ויתהלל. וצריך לומר קודשא ב"ה כאחד. תתקבל צלותהון הלמד בחולם וכן הה"א. דכל ישראל:
+
+
+The liturgical form for the *qaddish*: *Yithgadd**e**l v-yithqadd**e**sh* — the two *daleth*s have a *tsere*, according to Rashi in Liqutei Pardes, as it is in the Hebrew language. ***K**i-r'uteih* — the *kaph* is plosive. *Məvår**a**kh* — the *resh* has a *pathaḥ*, for it is an Aramaic verb, and if the *resh* is said with a *tsere* it would be a Hebrew participle, which would have the opposite meaning. *Və-yith'alle shəmeih də-qudshå bərikh hu* — and do NOT say *v-yithhallal*. And one must say *qudshå bərikh hu* as one statement. *Tithqabbal tsəl**o**thh**o**n* — the *lamedh* has a *ḥolam* as does the *hei*. *Də-khol Yisråel.*
 
 
 

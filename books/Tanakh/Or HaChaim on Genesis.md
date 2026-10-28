@@ -14,9 +14,9 @@ Location: Tanakh/Acharonim on Tanakh/Or HaChaim/Torah
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way  (Segments: 1575, License: unknown)
+Version (He): Vocalized Edition (Segments: 1575, License: Public Domain)
 
-Version (En): Yalkut, Sifsei Chachomim Chumash, Metsudah Publications, 2009 (Segments: 1519)
+Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 1519)
 
 
 ## Introduction
@@ -1597,7 +1597,7 @@ We must pay close attention to the apparently superfluous words אשר עשה, "
 [https://torahapp.org/share/book/Or%20HaChaim%20on%20Genesis/r/2:2:3](https://torahapp.org/share/book/Or%20HaChaim%20on%20Genesis/r/2:2:3)
 
 
-**וְנִרְאֶה** שֶׁיְּכַוֵּן הַכָּתוּב לוֹמַר עַל דֶּרֶךְ אָמְרָם זִכְרוֹנָם לִבְרָכָה (חגיגה יב:) כִּי הָעוֹלָם הָיָה רוֹפֵף וְרוֹעֵד עַד שֶׁבָּאָה שַׁבָּת וְנִתְקַיֵּם הָעוֹלָם וְנִתְיַסֵּד. וְהַכַּוָּנָה הוּא כִּי בְּיוֹם שַׁבָּת בָּרָא ה׳ נֶפֶשׁ הָעוֹלָם, וְהוּא סוֹד אָמְרוֹ ״וּבַיּוֹם הַשְּׁבִיעִי שָׁבַת וַיִּנָּפַשׁ״. הֲגַם שֶׁחֲזַ״ל (ביצה טז:) דָּרְשׁוּ כֵּיוָן שֶׁיָּצָא שַׁבָּת וַיִּנָּפַשׁ, אֵין זֶה אֶלָּא דֶּרֶךְ דְּרָשׁ שֶׁדָּרְשׁוּ מֵאָמְרוֹ ״וַיִּנָּפַשׁ״ וְלֹא אָמַר ״וְנָפַשׁ״, דָּרְשׁוּ כִּי נִתְכַּוֵּן הַכָּתוּב לִרְמֹז כֵּיוָן שֶׁיָּצָא שַׁבָּת ״וַי״ שֶׁאָבְדָה הַנֶּפֶשׁ, אֲבָל מַשְׁמָעוּת פְּשַׁט הַכָּתוּב אֵינוֹ יוֹצֵא מִמֶּנָּה, שֶׁנִּתְכַּוֵּן לוֹמַר כֵּיוָן שֶׁשָּׁבַת, פֵּרוּשׁ בָּא שַׁבָּת וַיִּנָּפַשׁ, פֵּרוּשׁ נִשְׁפַּע שֶׁפַע הַחִיּוּנִי בְּכָל הַנִּבְרָאִים, כִּי קֹדֶם הַשַּׁבָּת לֹא הָיָה נֶפֶשׁ לְכָל הַנִּבְרָאִים.
+**וְנִרְאֶה** שֶׁיְּכַוֵּן הַכָּתוּב לוֹמַר עַל דֶּרֶךְ אָמְרָם זִכְרוֹנָם לִבְרָכָה (בראשית רבה י,ט) כִּי הָעוֹלָם הָיָה רוֹפֵף וְרוֹעֵד עַד שֶׁבָּאָה שַׁבָּת וְנִתְקַיֵּם הָעוֹלָם וְנִתְיַסֵּד. וְהַכַּוָּנָה הוּא כִּי בְּיוֹם שַׁבָּת בָּרָא ה׳ נֶפֶשׁ הָעוֹלָם, וְהוּא סוֹד אָמְרוֹ ״וּבַיּוֹם הַשְּׁבִיעִי שָׁבַת וַיִּנָּפַשׁ״. הֲגַם שֶׁחֲזַ״ל (ביצה טז:) דָּרְשׁוּ כֵּיוָן שֶׁיָּצָא שַׁבָּת וַיִּנָּפַשׁ, אֵין זֶה אֶלָּא דֶּרֶךְ דְּרָשׁ שֶׁדָּרְשׁוּ מֵאָמְרוֹ ״וַיִּנָּפַשׁ״ וְלֹא אָמַר ״וְנָפַשׁ״, דָּרְשׁוּ כִּי נִתְכַּוֵּן הַכָּתוּב לִרְמֹז כֵּיוָן שֶׁיָּצָא שַׁבָּת ״וַי״ שֶׁאָבְדָה הַנֶּפֶשׁ, אֲבָל מַשְׁמָעוּת פְּשַׁט הַכָּתוּב אֵינוֹ יוֹצֵא מִמֶּנָּה, שֶׁנִּתְכַּוֵּן לוֹמַר כֵּיוָן שֶׁשָּׁבַת, פֵּרוּשׁ בָּא שַׁבָּת וַיִּנָּפַשׁ, פֵּרוּשׁ נִשְׁפַּע שֶׁפַע הַחִיּוּנִי בְּכָל הַנִּבְרָאִים, כִּי קֹדֶם הַשַּׁבָּת לֹא הָיָה נֶפֶשׁ לְכָל הַנִּבְרָאִים.
 
 
 They claim that until the Sabbath the world was trembling and shaking until the advent of the Sabbath. On the seventh day G'd gave the earth מנוחה, tranquillity (compare Rashi's second comment on our verse). On the Sabbath G'd created the "soul" of the world, and that is the deeper meaning of the words וביום השביעי שבת וינפש, and on the seventh day He rested and retreated to His Essence. Although our sages have interpreted the word וינפש as a lament about the withdrawal of the additional soul G'd grants to the Jewish people on each Sabbath (*Beytzah* 17) this is merely homiletics. They base that on the unusual construction וינפש (passive or reflexive) instead of merely, ונפש (ordinary intransitive). The plain meaning is undoubtedly that שבת וינפש, because He rested on the Sabbath and with it the soul arrived. This means that all creatures were granted an abundance of vitality, something they had lacked previously.

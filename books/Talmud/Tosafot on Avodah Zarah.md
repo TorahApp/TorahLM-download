@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Vilna Edition (Segments: 776, License: Public Domain)
 
-Version (En): Sefaria Community Translation (Segments: 112)
+Version (En): Sefaria Community Translation (Segments: 113)
 
 
 ## Daf 2a
@@ -4664,6 +4664,13 @@ Rashi's commentary: The rabbis decreed [that one must not eat "stewed" or cooked
 
 
 איכא בינייהו דגים קטנים וארדי ודייסא - פי' שאינם נאכלים חיים ואין עולין על שולחן מלכים ואור"ת דמדנקט הני ולא נקט דבש וגבינה שעולין על שולחן מלכים ונאכלים חיים ש"מ דבעי למנקט דברים שנעשה בהם לשון אחרון מוסף על הראשון ולהקל עליו דאפילו אינו נאכל חי כיון שאינו עולה לית ביה משום בישולי עובדי כוכבים ולכן פסק ר"ת דהלכתא כהני תרי לישני ואי איכא חד מינייהו או נאכל חי או אינו עולה אין בו משום בישולי עובדי כוכבים דבשל סופרים הלך אחר המיקל וראיה מדאמרינן לקמן בשמעתין (עבודה זרה לח ע"ב) גבי משחא שליקא וכן גבי דבש בסתם התלמוד (לקמן עבודה זרה לט:) אי משום בישולי עובדי כוכבים נאכל כמות שהוא חי הוא פירוש ולא שייך ביה בישולי עובדי כוכבים אע"ג דעולה על שולחן מלכים הוי וגם ר' יוחנן עבד לקמן (עבודה זרה דף נט. ע"ש) עובדא להיתר גבי תורמוסא דשלקי עובדי כוכבים ואכלו ישראל דאסר רשב"ל וא"ל רבי יוחנן אדמקטורך עלך זיל הדר דכל שאינו עולה על שולחן מלכים אין בו משום בישולי עובדי כוכבים ואע"ג דתורמוס אינו נאכל כמו שהוא חי:
+
+
+**There is [a practical difference] between them [concerning] small fish, mushrooms, and porridge.**Explanation: Meaning, these are items that are not eaten raw, and they do not ascend to the table of kings. 
+And Rabbeinu Tam (R"t) explained that since [the Talmud] cited these specific examples and did not cite honey and cheese—which do ascend to the table of kings and are eaten raw—we can learn from this that [the Talmud] specifically wanted to cite things that fit the latter formulation, adding onto the first formulation, in order to rule leniently regarding it. Namely, that even if a food is not eaten raw, as long as it does not ascend to the table of kings, it is not subject to the prohibition of food cooked by gentiles (Bishul Akum).
+ Therefore, Rabbeinu Tam ruled that the law follows both of these formulations [combined leniently]: if either one of the conditions is met—either it is eaten raw, OR it does not ascend to the table of kings—it is not subject to the prohibition of food cooked by gentiles, because with regard to Rabbinic laws, we follow the lenient position. 
+And there is proof for this from what we say later in our sugya (Avodah Zarah 38b) regarding boiled oil, and similarly regarding honey in the anonymous text of the Talmud (further on, Avodah Zarah 39b): "If it is because of food cooked by gentiles—it is eaten as it is, raw." This is the explanation, and therefore the prohibition of food cooked by gentiles does not apply to it, even though it does ascend to the table of kings.
+Furthermore, Rabbi Yochanan acted later on (Avodah Zarah 59a, see there) to permit a case regarding lupines (turmusa) that gentiles boiled and Jews ate. Resh Lakish had prohibited them, but Rabbi Yochanan said to him: "While your cloak is still upon you, turn back [and retract your ruling]! For anything that does not ascend to the table of kings is not subject to the prohibition of food cooked by gentiles." And this is so even though a lupine is not eaten as it is, raw.
 
 
 

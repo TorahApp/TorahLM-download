@@ -96,7 +96,7 @@ The letter "Vav" replaces the letter "Aleph" in the word **"Bekho" (בכו)**, a
 **יהודה** – זכר ונקבה, כישראל ומצרים, "ותחזק מצרים". ויש מפרשים המצרים מדברי מעתיקי הדת ז"ל: "דינא דבר מצרא". והישר בעיני "מן המצר", ואם הוא משונה מעט, והרי"ש ראוי להדגש. נמצא דרך זכר ונקבה כ"בית" ו"מקום":
 
 
-**Yehuda (יהודה)** - is both a masculine and feminine noun, similar to Israel (ישראל) and Egypt (מצרים). In the phrase "Vatechazeik Mitzrayim" (ותחזק מצרים), Mitzrayim is used in the masculine form. There are interpretations from the ancient religious sages (ז"ל) that explain "Dina DeMitzra" (דינא דבר מצרא) - the law of Egypt. However, the straightforward interpretation in my opinion is "Min HaMitzra" (מן המצר), and if it differs slightly, the letter "Hey" should be emphasized. We find a similar pattern of masculine and feminine in "Bayit" (בית) and "Makom" (מקום).
+**Yehuda (יהודה)** - is both a masculine and feminine noun, similar to Israel (ישראל) and Egypt (מצרים). In the phrase "Vatechazeik Mitzrayim" (ותחזק מצרים), Mitzrayim is used in the masculine form.
 
 
 

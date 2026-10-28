@@ -4052,7 +4052,7 @@ footnotes:
 [https://torahapp.org/share/book/Rif%20Chullin/r/37b:2](https://torahapp.org/share/book/Rif%20Chullin/r/37b:2)
 
 
-אמר רב חסדא אכל בשר אסור לאכול גבינה.
+אמר רב חסדא אכל בשר אסור לאכול גבינה. גבינה מותר לאכול בשר.
 
 
 ###### Rif Chullin 37b:3
@@ -4060,7 +4060,7 @@ footnotes:
 [https://torahapp.org/share/book/Rif%20Chullin/r/37b:3](https://torahapp.org/share/book/Rif%20Chullin/r/37b:3)
 
 
-גבינה מותר לאכול בשר א"ל רב אחא בר יוסף לרב חסדא בשר שבין השינים מהו קרי עליה (במדבר י״א:ל״ג) הבשר עודנו בין שיניהם כלומר הבשר שבין השינים בשר הוא:
+א"ל רב אחא בר יוסף לרב חסדא בשר שבין השינים מהו קרי עליה (במדבר י״א:ל״ג) הבשר עודנו בין שיניהם כלומר הבשר שבין השינים בשר הוא:
 
 
 ###### Rif Chullin 37b:4

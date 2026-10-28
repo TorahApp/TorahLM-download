@@ -14,9 +14,9 @@ Location: Responsa/Acharonim
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Noda BeYehuda Warsaw 1880 (Segments: 3317, License: Public Domain)
+Version (He): Noda BeYehuda Warsaw 1880 (Segments: 3168, License: Public Domain)
 
-Version (En): YU Torah miTzion Beit Midrash (Segments: 190)
+Version (En): YU Torah miTzion Beit Midrash (Segments: 4)
 
 # Noda BiYehudah I — part 2 of 2
 

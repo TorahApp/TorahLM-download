@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Sefer HaMitzvot HaKatzar, Sefad 2004 (Segments: 275, License: unknown)
 
-Version (En): The Concise Book of Mitzvoth: The Commandments Which Can Be Observed Today, trans. Charles Wengrov  (Segments: 16)
+Version (En): Sefaria Community Translation (Segments: 16)
 
 
 ## Introduction

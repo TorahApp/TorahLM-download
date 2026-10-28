@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Shulhan Arukh, Hoshen ha-Mishpat, Lemberg, 1898 (Segments: 3694, License: Public Domain)
 
-Version (En): Code of Hebrew Law by Chaim N. Denburg, Montreal, 1955 (Segments: 576)
+Version (En): Code of Hebrew Law by Chaim N. Denburg, Montreal, 1955 (Segments: 577)
 
 
 ## Siman 1
@@ -1161,7 +1161,7 @@ footnotes:
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/12:1](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/12:1)
 
 
-**דיין שבאו לפניו רך וקשה וכל דיני פשרה. ובו יט סעיפים:**
+**דיין שבאו לפניו רך וקשה וכל דיני פשרה. ובו כ סעיפים:**
 שנים שבאו לפניך לדין א' רך וא' קשה עד שלא תשמע דבריהם או משתשמע דבריהם ואי אתה יודע להיכן הדין נוטה אתה רשאי לומר להם איני נזקק לכם שמא יתחייב הקשה ונמצא רודף אחר הדיין אבל משתשמע דבריהם ותדע להיכן הדין נוטה אי אתה רשאי לומר איני נזקק לכם ואם היה ממונה לרבים חייב להזקק להם: הגה וכן אם היו שניהם חזקים צריך לזקק להם (הגהות אשירי ריש סנהדרין וב"י בשם תו') ויש מי שכתב דמ"מ נוהגין עכשיו שלא למחות בעוברי עבירה משום שיש סכנה בדבר שלא ימסרנו למלכות (מהרי"ו):
 
 
@@ -3769,7 +3769,7 @@ This - that a loan following a loan can be combined is where the plaintiff claim
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/34:18](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/34:18)
 
 
-הבזויים פסולים לעדות מדבריהם והם האנשים שהולכים ואוכלים בשוק מפני כל העם וכגון אלו שהולכים ערומים בשוק בעת שהם עסוקים במלאכה מנוולת וכיוצא באלו שאין מקפידים על הבושת שכל אלו חשובי' ככלב ואין מקפידי' על עדות שקר ומכלל אלו המקבלי' צדקה מן העכו"ם בפרהסיא אע"פ שאפשר להם שיזונו בצנעא מבזים עצמם ואינם חוששים כל אלו פסולים מדבריהם: הגה כל מי שנוטל שכר להעיד עדותו בטל כמו הנוטל שכר לדון כמו שנתבאר לעיל סי' ט' ס"ה (רמב"ן) ואינן צריכים הכרזה אלא הדין והעדות בטל מעצמו ואם החזיר הממון דינו ועדותיו קיימים שאין זה כשאר פסולים שצריכין הכרזה ותשובה אלא קנס קנסוהו חכמים שיתבטלו מעשיו כל זמן שנוטל שכר (ר"ן ס"פ האיש מקדש) וכל זה בעדים שכבר ראו המעשה ומחוייבים להעיד כמו שאדם מחויב לדון בין אדם לחבירו אבל מי שאינו מחוייב להעיד ונוטל שכר לילך ולראות הענין שיהיה עד מותר (ב"י סי' כ"ח בשם רשב"א) דיין שדן כבר ובא הבע"ד ליתן לו מתנה על שהפך בזכותו אסור לו לקבלו (כן משמע מאשר"י ס"פ ז"ב) כל מה שאדם מעיד לסיבת יסורין ויראה אין בו ממש (מהרי"ק שורש ס"ח):
+הבזויים פסולים לעדות מדבריהם והם האנשים שהולכים ואוכלים בשוק בפני כל העם וכגון אלו שהולכים ערומים בשוק בעת שהם עסוקים במלאכה מנוולת וכיוצא באלו שאין מקפידים על הבושת שכל אלו חשובי' ככלב ואין מקפידי' על עדות שקר ומכלל אלו המקבלי' צדקה מן העכו"ם בפרהסיא אע"פ שאפשר להם שיזונו בצנעא מבזים עצמם ואינם חוששים כל אלו פסולים מדבריהם: הגה כל מי שנוטל שכר להעיד עדותו בטל כמו הנוטל שכר לדון כמו שנתבאר לעיל סי' ט' ס"ה (רמב"ן) ואינן צריכים הכרזה אלא הדין והעדות בטל מעצמו ואם החזיר הממון דינו ועדותיו קיימים שאין זה כשאר פסולים שצריכין הכרזה ותשובה אלא קנס קנסוהו חכמים שיתבטלו מעשיו כל זמן שנוטל שכר (ר"ן ס"פ האיש מקדש) וכל זה בעדים שכבר ראו המעשה ומחוייבים להעיד כמו שאדם מחויב לדון בין אדם לחבירו אבל מי שאינו מחוייב להעיד ונוטל שכר לילך ולראות הענין שיהיה עד מותר (ב"י סי' כ"ח בשם רשב"א) דיין שדן כבר ובא הבע"ד ליתן לו מתנה על שהפך בזכותו אסור לו לקבלו (כן משמע מאשר"י ס"פ ז"ב) כל מה שאדם מעיד לסיבת יסורין ויראה אין בו ממש (מהרי"ק שורש ס"ח):
 
 
 18. Low-lives are rabbinically disqualified from testifying. These are people who walk and eat in the market in front of everyone. People like this go naked in the market when they are working on a disgusting matter or something similar in that they do not have any shame and are considered like dogs and do not care about testifying falsely. Included in this are those that publicly accept charity from gentiles, even though it is possible for them to be supported privately. They degrade themselves and have no care. All of these are rabbinically disqualified. Anyone who accepts payment to testify has his testimony nullified just like someone who takes payment to judge as was explained above in 9:5. No formal announcement is required. The ruling and testimony are void automatically. If he returns the money, his ruling and testimony are valid because it is not like other disqualifications where a formal announcement and repentance are required. It is merely a fine that the rabbis instituted that any action he takes should be void if he accepts payment. This all applies to witnesses that already saw the incident and are obligated to testify just as a person is obligated to judge between two litigants. However, it is permitted for someone who is not required to testify to accept payment to go and see the future incident. If a judge already ruled and a party brings him a gift for advocating for him, he is prohibited from accepting the gift. Anything a person testifies because of fear of pain has no substance.
@@ -24225,7 +24225,7 @@ Any prohibition against benefit whether it is from the torah or it is from the R
 [https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/259:3](https://torahapp.org/share/book/Shulchan%20Arukh%2C%20Choshen%20Mishpat/r/259:3)
 
 
-כיצד המוציא מציאה במקום שישראל מצוים שם חייב להכריז שלא נתייאשו הבעלים ואפי' העיר מחצה עכו"ם ומחצה ישראל או אפי' רובה עכו"ם והוא מצאה במקום שרוב העוברים שם ישראל חייב להחזיר אבל אם רוב העיר עכו"ם או אפי' רובה ישראל ומצאה במקום שרוב העוברים שם עכו"ם אינו חייב אפי' אם ידע שמישראל נפלה ויש בה סי' שודאי נתייאשו הבעלים וכגון שהוא מדברים שיש לתלות שידע מיד בנפילתו וכמו שיתבאר: הגה וע"ל סי' רס"ב ס"ג וי"א דאם אבד ספרים לא מייאש מינייהו אפי' במקום שרובה עכו"ם (הגהות מרדכי דב"מ):
+כיצד המוצא מציאה במקום שישראל מצוים שם חייב להכריז שלא נתייאשו הבעלים ואפי' העיר מחצה עכו"ם ומחצה ישראל או אפי' רובה עכו"ם והוא מצאה במקום שרוב העוברים שם ישראל חייב להחזיר אבל אם רוב העיר עכו"ם או אפי' רובה ישראל ומצאה במקום שרוב העוברים שם עכו"ם אינו חייב אפי' אם ידע שמישראל נפלה ויש בה סי' שודאי נתייאשו הבעלים וכגון שהוא מדברים שיש לתלות שידע מיד בנפילתו וכמו שיתבאר: הגה וע"ל סי' רס"ב ס"ג וי"א דאם אבד ספרים לא מייאש מינייהו אפי' במקום שרובה עכו"ם (הגהות מרדכי דב"מ):
 
 
 ###### Shulchan Arukh, Choshen Mishpat 259:4
@@ -34179,4 +34179,7 @@ The sages prohibited many things because of danger to a person. And some of them
 
 
 כל העובר על דברים אלו וכיוצא בהם ואמר הריני מסכן בעצמי ומה לאחרים עלי בכך או איני מקפיד בכך מכין אותו מכת מרדות והנזהר מהם עליו תבא ברכת טוב :
+
+
+Anyone who transgresses these matters and similar ones, saying, "I am endangering myself—what does it matter to others?" or "I am not careful about this" is subject to lashes for rebelliousness. But one who takes care to avoid them—may that one be blessed with goodness.
 

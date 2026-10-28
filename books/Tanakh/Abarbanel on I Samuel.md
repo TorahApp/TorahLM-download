@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Abarbanel, Tel Aviv 1960 (Segments: 603, License: unknown)
 
-Version (En): The Biblical Exegesis of Don Isaac Abrabanel. PhD thesis by Dr. David E. Cohen, University of London, 2015 (Segments: 12)
+Version (En): Sefaria Community Translation (Segments: 12)
 
 
 ## Introduction

@@ -356,7 +356,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/1:11:2](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/1:11:2)
 
 
-**הֵעָלוֹת**. לְשׁוֹן (יִפָּעֵל):
+**הֵעָלוֹת.** לְשׁוֹן (יִפָּעֵל):
 
 
 **when the exiles were brought up** Heb. הֵעָלוֹת, [a passive] expression.
@@ -654,7 +654,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/2:65:1](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/2:65:1)
 
 
-**מִלְּבַד עַבְדֵיהֶם וְאַמְהֹתֵיהֶם**. שֶׁלֹּא הָיוּ בִּכְלַל הַקָּהָל:
+**מִלְּבַד עַבְדֵיהֶם וְאַמְהֹתֵיהֶם.** שֶׁלֹּא הָיוּ בִּכְלַל הַקָּהָל:
 
 
 **Besides their slaves and their bondwomen** who were not included in the congregation.
@@ -829,7 +829,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/3:5:4](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/3:5:4)
 
 
-**וּלְכָל מִתְנַדֵּב**. וּלְכָל אוֹתָם הַמִּתְנַדְּבִים נִדְבוֹתֵיהֶם הָיוּ מְקַבְּלִים הַכֹּהֲנִים אוֹתָם לְהַקְרִיבָם, וּמִיּוֹם אֶחָד בְּתִשְׁרֵי הִתְחִילוּ לְהַקְרִיב קָרְבָּנוֹת וַעֲדַיִן לֹא נִבְנָה יְסוֹד הַבַּיִת:
+**וּלְכָל מִתְנַדֵּב.** וּלְכָל אוֹתָם הַמִּתְנַדְּבִים נִדְבוֹתֵיהֶם הָיוּ מְקַבְּלִים הַכֹּהֲנִים אוֹתָם לְהַקְרִיבָם, וּמִיּוֹם אֶחָד בְּתִשְׁרֵי הִתְחִילוּ לְהַקְרִיב קָרְבָּנוֹת וַעֲדַיִן לֹא נִבְנָה יְסוֹד הַבַּיִת:
 
 
 **and for everyone who willingly offered** And for all those who willingly offered their free-will offerings, the priests would accept them to sacrifice them, and from the first day of Tishri they commenced to offer up sacrifices, but the foundation of the Temple was not yet built.
@@ -1270,7 +1270,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:7:2](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:7:2)
 
 
-**כָּתַב בְּשָׁלֵם.** כָּתַב מִכְתָּבוֹ בִּדְבָרִים שֶׁל שָׁלוֹם:
+**כָּתַב בִּשְׁלָם.** כָּתַב מִכְתָּבוֹ בִּדְבָרִים שֶׁל שָׁלוֹם:
 
 
 **wrote with peace** wrote his letter with words of peace.
@@ -1292,7 +1292,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:7:4](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:7:4)
 
 
-**וּשְׁאָר כְּנָוֹתָיו.** חֲבֵרוֹתָיו וְסִיעוֹתָיו:
+**וּשְׁאָר כְּנָוֺתָו.** חֲבֵרוֹתָיו וְסִיעוֹתָיו:
 
 
 **and the rest of his colleagues** Heb. כְּנָותָיו, his companies and his societies.
@@ -1372,7 +1372,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:8:3](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:8:3)
 
 
-**כָּתְבוּ אִגְּרָא.** הַלָּלוּ שְׁנֵיהֶם **רְחוּם וְשִׁמְשַׁי** כָּתְבוּ הָאִגֶּרֶת כַּאֲשֶׁר צִוָּה אֲלֵיהֶם מִתְרְדָת וְטָבְאֵל, וְכֻלָּם הָיוּ מְיֻשָּׁבִים בְּעָרֵי שׁוֹמְרוֹן:
+**כְּתַבוּ אִגְּרָא.** הַלָּלוּ שְׁנֵיהֶם **רְחוּם וְשִׁמְשַׁי** כָּתְבוּ הָאִגֶּרֶת כַּאֲשֶׁר צִוָּה אֲלֵיהֶם מִתְרְדָת וְטָבְאֵל, וְכֻלָּם הָיוּ מְיֻשָּׁבִים בְּעָרֵי שׁוֹמְרוֹן:
 
 
 **they wrote a letter** These two, Rehum and Shimshai, wrote the letter as Mithredath Tabeel had commanded them, and they all were dwellers of the cities of Samaria.
@@ -1383,7 +1383,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:8:4](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:8:4)
 
 
-**עַל יְרוּשָׁלַיִם.** עַל אוֹדוֹת בִּנְיַן בֵּית הַמִּקְדָּשׁ אֲשֶׁר בִּירוּשָׁלַיִם:
+**עַל יְרוּשְׁלֶם.** עַל אוֹדוֹת בִּנְיַן בֵּית הַמִּקְדָּשׁ אֲשֶׁר בִּירוּשָׁלַיִם:
 
 
 **about Jerusalem** about the building of the Temple, which is in Jerusalem.
@@ -1430,7 +1430,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:9:3](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:9:3)
 
 
-**בַּעַל טַעַם.** מַזְכִּיר וּבַעַל דְּבָרִים:
+**בְּעֵל טְעֵם.** מַזְכִּיר וּבַעַל דְּבָרִים:
 
 
 **the secretary** Aram. בְּעֵל טְעֵם secretary and master of words.
@@ -1504,7 +1504,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:9:10](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:9:10)
 
 
-**עֵלְמָיָא.** בְּנֵי עֵילָם. מִכָּל הָעוֹבְדֵי כּוֹכָבִים וּמַזָּלוֹת הַלָּלוּ הוֹשִׁיב סַנְחֵרִיב בְּאֶרֶץ יִשְׂרָאֵל, וְכֻלָּן הָיוּ מְשִׁיבִין וּמַסְכִּימִים בִּשְׁלִיחוּת הַמִּכְתָּב זֶה:
+**עֵלְמָיֵא.** בְּנֵי עֵילָם. מִכָּל הָעוֹבְדֵי כּוֹכָבִים וּמַזָּלוֹת הַלָּלוּ הוֹשִׁיב סַנְחֵרִיב בְּאֶרֶץ יִשְׂרָאֵל, וְכֻלָּן הָיוּ מְשִׁיבִין וּמַסְכִּימִים בִּשְׁלִיחוּת הַמִּכְתָּב זֶה:
 
 
 **the Elamites** the people of Elam. Sennacherib settled all of these peoples in the land of Israel, and all of them were settling and concurring with the commission of this letter.
@@ -1675,7 +1675,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:12:3](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:12:3)
 
 
-**קִרְיְתָא מָרָדְתָּא וּבָאִישְׁתָּא בָּנַיִן.** עִיר מוֹרֶדֶת וְחוֹטֵאת הֵם בּוֹנִים:
+**קִרְיְתָא מָרָדְתָּא וּבִאישְׁתָּא בָּנַיִן.** עִיר מוֹרֶדֶת וְחוֹטֵאת הֵם בּוֹנִים:
 
 
 **the rebellious and sinful city they are building** [as translated,] a rebellious and sinful city they are building.
@@ -1708,7 +1708,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:12:6](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:12:6)
 
 
-**יְחִיטוּ.** לְשׁוֹן פְּתִיל, כְּמוֹ ״אִם מִחוּט״ (בראשית יד:כג), שֶׁהֵם חוֹפְרִים וּמְחַבְּרִים הַכְּתָלִים זֶה עִם זֶה:
+**יַחִיטוּ.** לְשׁוֹן פְּתִיל, כְּמוֹ ״אִם מִחוּט״ (בראשית יד:כג), שֶׁהֵם חוֹפְרִים וּמְחַבְּרִים הַכְּתָלִים זֶה עִם זֶה:
 
 
 **they have joined** Aram. יָחִיטוּ, an expression of a thread, like (Gen. 14:23): “not from a thread, (מִחוּטּ),” for they are “sewing” and joining the walls one to another.
@@ -1744,7 +1744,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:13:3](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:13:3)
 
 
-**דַּךְ.** זֹאת:
+**דָךְ.** זֹאת:
 
 
 **this** [as translated,] this.
@@ -1871,7 +1871,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:15:2](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:15:2)
 
 
-**וְתִהַשְׁכַּח.** וְתִמְצָא בְּסֵפֶר הַזִּכְרוֹנוֹת וְתֵדַע כִּי הָעִיר הַזֹּאת עִיר מוֹרֶדֶת וּמַזֶּקֶת הַמְּלָכִים וְהַמְּדִינוֹת׃
+**וּתְהַשְׁכַּח.** וְתִמְצָא בְּסֵפֶר הַזִּכְרוֹנוֹת וְתֵדַע כִּי הָעִיר הַזֹּאת עִיר מוֹרֶדֶת וּמַזֶּקֶת הַמְּלָכִים וְהַמְּדִינוֹת׃
 
 
 **and you will find** And you will find in the annals, and you will know that this city is a rebellious city, and it injures the kings and the countries.
@@ -1951,7 +1951,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:16:4](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:16:4)
 
 
-**בְּעֵבֶר נַהֲרָא.** הִיא כָּל הָאָרֶץ שֶׁל צַד אֶרֶץ יִשְׂרָאֵל שֶׁהוּא עֵבֶר הַנָּהָר לְאוֹתָן שֶׁבְּבָבֶל:
+**בַּעֲבַר נַהֲרָא.** הִיא כָּל הָאָרֶץ שֶׁל צַד אֶרֶץ יִשְׂרָאֵל שֶׁהוּא עֵבֶר הַנָּהָר לְאוֹתָן שֶׁבְּבָבֶל:
 
 
 **in the other side of the river** That is the entire area of the side of Israel, which is on the other side of the river of those who are in Babylon.
@@ -2001,7 +2001,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:18:1](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:18:1)
 
 
-**נִשְׁתְּוָנָא.** כְּתָב הַנִּשְׁתְּוָן אֲשֶׁר שְׁלַחְתֶּם אֵלֵינוּ הָיָה **מְפֹרָשׁ וְקָרוּי לְפָנַי**׃
+**נִשְׁתְּוָנָא.** כְּתָב הַנִּשְׁתְּוָן אֲשֶׁר שְׁלַחְתֶּם אֵלֵינוּ הָיָה מְפֹרָשׁ וְקָרוּי לְפָנַי׃
 
 
 **The letter** The writ of the letter that you sent to us was explained and read before me.
@@ -2137,7 +2137,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:23:3](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:23:3)
 
 
-**קְרִי קֳדָם.** שֶׁהָיָה כְּתָב הַנִּשְׁתְּוָן קָרוּי לִפְנֵי רְחוּם וְשִׁמְשַׁי וְסִיעָתֵיהֶם, וְהָלְכוּ בִּמְרוּצָה וּבְבֶהָלָה לִירוּשָׁלַיִם אֶל הַיְּהוּדִים, וּבִטְּלוּ אוֹתָם בִּזְרוֹעַ וְכֹחַ שֶׁלֹּא לִבְנוֹת עוֹד הַבִּנְיָן:
+**קֱרִי קֳדָם.** שֶׁהָיָה כְּתָב הַנִּשְׁתְּוָן קָרוּי לִפְנֵי רְחוּם וְשִׁמְשַׁי וְסִיעָתֵיהֶם, וְהָלְכוּ בִּמְרוּצָה וּבְבֶהָלָה לִירוּשָׁלַיִם אֶל הַיְּהוּדִים, וּבִטְּלוּ אוֹתָם בִּזְרוֹעַ וְכֹחַ שֶׁלֹּא לִבְנוֹת עוֹד הַבִּנְיָן:
 
 
 **was read before** for the writ of this letter was read before Rehum and Shimshai and their companies, and they went with speed and haste to Jerusalem, to the Jews, and stopped them with force and might from continuing the construction of the edifice.
@@ -2173,7 +2173,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:24:1](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/4:24:1)
 
 
-**בְּאֵדַיִן.** אָז הָיְתָה בְּטֵלָה מְלֶאכֶת בִּנְיַן בֵּית אֱלֹהִים אֲשֶׁר בִּירוּשָׁלַיִם **עַד שְׁנַת שְׁתַּיִם לְדָרְיָוֶשׁ מֶלֶךְ פָּרָס.** שֶׁאַחַר כּוֹרֶשׁ מָלַךְ אֲחַשְׁוֵרוֹשׁ שֶׁלָּקַח אֶסְתֵּר, וְאַחַר אֲחַשְׁוֵרוֹשׁ מָלַךְ דָּרְיָוֶשׁ בְּנוֹ שֶׁל אֲחַשְׁוֵרוֹשׁ שֶׁהוּא בֶּן אֶסְתֵּר. וּמִשְּׁנַת אַחַת לְכוֹרֶשׁ מֶלֶךְ פָּרַס עַד שְׁנַת שְׁתַּיִם לְדָרְיָוֶשׁ שְׁמֹנֶה עֶשְׂרֵה שָׁנָה, שֶׁהִשְׁלִימוּ שִׁבְעִים שָׁנָה לְחָרְבוֹת יְרוּשָׁלַיִם. שֶׁהֲרֵי מֵחֻרְבַּן הַבַּיִת שֶׁגָּלָה צִדְקִיָּהוּ עַד שְׁנַת אַחַת לְכוֹרֶשׁ חֲמִשִּׁים וּשְׁתַּיִם שָׁנָה, כַּמְפֹרָשׁ בְּסֵדֶר עוֹלָם (פרק כט). וּשְׁמֹנֶה עֶשְׂרֵה שָׁנָה מִשְּׁנַת א׳ לְכוֹרֶשׁ עַד שְׁנַת שְׁתַּיִם לְדָרְיָוֶשׁ, נִמְצְאוּ שִׁבְעִים שָׁנָה שְׁלֵמִים. וּבִשְׁנַת שְׁתַּיִם לְדָרְיָוֶשׁ הִתְחִילוּ לִבְנוֹת הַבִּנְיָן עַד שֶׁגְּמָרוּהוּ:
+**בֵּאדַיִן.** אָז הָיְתָה בְּטֵלָה מְלֶאכֶת בִּנְיַן בֵּית אֱלֹהִים אֲשֶׁר בִּירוּשָׁלַיִם **עַד שְׁנַת שְׁתַּיִם לְדָרְיָוֶשׁ מֶלֶךְ פָּרָס.** שֶׁאַחַר כּוֹרֶשׁ מָלַךְ אֲחַשְׁוֵרוֹשׁ שֶׁלָּקַח אֶסְתֵּר, וְאַחַר אֲחַשְׁוֵרוֹשׁ מָלַךְ דָּרְיָוֶשׁ בְּנוֹ שֶׁל אֲחַשְׁוֵרוֹשׁ שֶׁהוּא בֶּן אֶסְתֵּר. וּמִשְּׁנַת אַחַת לְכוֹרֶשׁ מֶלֶךְ פָּרַס עַד שְׁנַת שְׁתַּיִם לְדָרְיָוֶשׁ שְׁמֹנֶה עֶשְׂרֵה שָׁנָה, שֶׁהִשְׁלִימוּ שִׁבְעִים שָׁנָה לְחָרְבוֹת יְרוּשָׁלַיִם. שֶׁהֲרֵי מֵחֻרְבַּן הַבַּיִת שֶׁגָּלָה צִדְקִיָּהוּ עַד שְׁנַת אַחַת לְכוֹרֶשׁ חֲמִשִּׁים וּשְׁתַּיִם שָׁנָה, כַּמְפֹרָשׁ בְּסֵדֶר עוֹלָם (פרק כט). וּשְׁמֹנֶה עֶשְׂרֵה שָׁנָה מִשְּׁנַת א׳ לְכוֹרֶשׁ עַד שְׁנַת שְׁתַּיִם לְדָרְיָוֶשׁ, נִמְצְאוּ שִׁבְעִים שָׁנָה שְׁלֵמִים. וּבִשְׁנַת שְׁתַּיִם לְדָרְיָוֶשׁ הִתְחִילוּ לִבְנוֹת הַבִּנְיָן עַד שֶׁגְּמָרוּהוּ:
 
 
 **Then** Then the work of the building of the House of God, which was in Jerusalem, was suspended until the second year of Darius, the king of Persia; for after Cyrus, Ahasuerus, who married Esther, reigned, and after Ahasuerus, Darius, the son of Ahasuerus, who was the son of Esther, reigned. And from the first year of Cyrus, the king of Persia, until the second year of Darius were eighteen years, which completed the seventy years from the destruction of Jerusalem. For from the destruction of the Temple, when Zedekiah was exiled, until the first year of Cyrus, were fifty-two years, as is explained in Seder Olam (ch. 29). There were then eighteen years from the first year of Cyrus until the second year of Darius, totaling a complete seventy years, and in the second year of Darius they commenced to build the Temple until they completed it.
@@ -2226,7 +2226,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/5:2:1](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/5:2:1)
 
 
-**בְּאֵדַיִן.** אָז:
+**בֵּאדַיִן.** אָז:
 
 
 **Then** [as translated,] then.
@@ -2237,7 +2237,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/5:2:2](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/5:2:2)
 
 
-**וְשָׂרָיו.** הִתְחִילוּ לִבְנוֹת בֵּיתוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא אֲשֶׁר בִּירוּשָׁלַיִם, וְעִמָּהֶם הַנְּבִיאִים שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא עוֹזְרִין וּמְסַיְּעִין לָהֶם:
+**וְשָׁרִיו.** הִתְחִילוּ לִבְנוֹת בֵּיתוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא אֲשֶׁר בִּירוּשָׁלַיִם, וְעִמָּהֶם הַנְּבִיאִים שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא עוֹזְרִין וּמְסַיְּעִין לָהֶם:
 
 
 **and commenced** They began to build the House of the Holy One, blessed be He, which is in Jerusalem, and with them were the prophets of the Holy One, blessed be He, helping and assisting them.
@@ -2436,7 +2436,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/5:6:2](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/5:6:2)
 
 
-**וּכְנָוֹתֵהּ.** וְסִיעוֹתָיו:
+**וּכְנָוָתֵהּ.** וְסִיעוֹתָיו:
 
 
 **and his companies** [as translated,] and his companies.
@@ -2541,7 +2541,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/5:8:4](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/5:8:4)
 
 
-**גָּלָל.** מַרְמְרָ״א בְּלַעַ״ז:
+**גְּלָל.** מַרְמְרָ״א בְּלַעַ״ז:
 
 
 **marble** Aram. גְּלָּל (marmre in Old French), marble.
@@ -2593,7 +2593,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/5:8:9](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/5:8:9)
 
 
-**וּמַצְלַח בִּידְהוֹם.** וְהֻצְלַח מַעֲשֶׂה זֶה בִּידֵיהֶם:
+**וּמַצְלַח בְּיֶדְהֹם.** וְהֻצְלַח מַעֲשֶׂה זֶה בִּידֵיהֶם:
 
 
 **and they succeeded at it** Aram. וּמַצְלַח בְּיֶדְהם. And this work was successful in their hands.
@@ -2654,7 +2654,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/5:10:1](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/5:10:1)
 
 
-**וְאַף שְׁמָהַתְּהוֹם.** וְאַף שְׁמוֹתָם שֶׁל בּוֹנִים רָאשֵׁי הַבִּנְיָן שָׁאַלְנוּ לָהֶם כְּדֵי לְהוֹדִיעֲךָ:
+**וְאַף שְׁמָהָתְהֹם.** וְאַף שְׁמוֹתָם שֶׁל בּוֹנִים רָאשֵׁי הַבִּנְיָן שָׁאַלְנוּ לָהֶם כְּדֵי לְהוֹדִיעֲךָ:
 
 
 **also...their names** We also asked them the names of the builders, the heads of the construction, in order to let you know.
@@ -2665,7 +2665,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/5:10:2](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/5:10:2)
 
 
-**דִּי נִכְתּוֹב.** אֲשֶׁר נִכְתּוֹב שְׁמוֹת הָאֲנָשִׁים אֵלֶיךָ:
+**דִּי נִכְתֻּב.** אֲשֶׁר נִכְתּוֹב שְׁמוֹת הָאֲנָשִׁים אֵלֶיךָ:
 
 
 **that we should write** that we should write to you the names of the men.
@@ -2848,7 +2848,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/5:16:2](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/5:16:2)
 
 
-**שֵׁשְׁבַּצַּר דָּךְ.** זֶה בָּא וְנָתַן כָּתְלֵי בֵּיתוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא אֲשֶׁר בִּירוּשָׁלַיִם, וּמֵאָז וְעַד עַתָּה הָיָה הַבַּיִת בָּנוּי וְלֹא נִגְמַר הַבִּנְיָן:
+**שֵׁשְׁבַּצַּר דֵּךְ.** זֶה בָּא וְנָתַן כָּתְלֵי בֵּיתוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא אֲשֶׁר בִּירוּשָׁלַיִם, וּמֵאָז וְעַד עַתָּה הָיָה הַבַּיִת בָּנוּי וְלֹא נִגְמַר הַבִּנְיָן:
 
 
 **this Sheshbazzar** Aram. דֵּךְ, came and built the walls of the House of the Holy One, blessed be He, that is in Jerusalem, and from then until now, the House has been built, but the building has not been completed.
@@ -2895,7 +2895,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/5:17:4](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/5:17:4)
 
 
-**עֲלֵינָא.** אֵלֵינוּ. עַד כָּאן מִכְתַּב הָאִגֶּרֶת אֲשֶׁר שָׁלְחוּ תַּתְּנַי וּשְׁתַר בּוֹזְנַי:
+**עֲלֶינָא.** אֵלֵינוּ. עַד כָּאן מִכְתַּב הָאִגֶּרֶת אֲשֶׁר שָׁלְחוּ תַּתְּנַי וּשְׁתַר בּוֹזְנַי:
 
 
 **to us** Aram. עֲלֶינָא, lit. on us. Until here is the text of the letter that Tattenai and Shethar-bozenai sent.
@@ -2912,7 +2912,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/6:1:1](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/6:1:1)
 
 
-**בְּאֵדַיִן.** אָז כַּאֲשֶׁר הִגִּיעַ הַמִּכְתָּב לְיַד דָּרְיָוֶשׁ:
+**בֵּאדַיִן.** אָז כַּאֲשֶׁר הִגִּיעַ הַמִּכְתָּב לְיַד דָּרְיָוֶשׁ:
 
 
 **Then** then when the letter reached Darius’s hand.
@@ -3089,7 +3089,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/6:5:3](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/6:5:3)
 
 
-**יְהֲתִיבוּן.** יִנָּתְנוּ:
+**יַהֲתִיבוּן.** יִנָּתְנוּ:
 
 
 **and brought** which he brought.
@@ -3100,7 +3100,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/6:5:4](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/6:5:4)
 
 
-**וְיִהַךְ.** יֵלֵךְ כָּל הַמַּעֲשֶׂה הַזֶּה לַהֵיכָל אֲשֶׁר בִּירוּשָׁלַיִם לִמְקוֹמוֹ:
+**וִיהָךְ.** יֵלֵךְ כָּל הַמַּעֲשֶׂה הַזֶּה לַהֵיכָל אֲשֶׁר בִּירוּשָׁלַיִם לִמְקוֹמוֹ:
 
 
 **and brought** Let all this work be brought to the Temple that is in Jerusalem, to its place.
@@ -3111,7 +3111,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/6:5:5](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/6:5:5)
 
 
-**וְתַחַת.** וַיְהִי מוּנָּח בְּבֵיתוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא:
+**וְתַחֵת.** וַיְהִי מוּנָּח בְּבֵיתוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא:
 
 
 **and it shall be deposited** And it shall be deposited in the House of the Holy One, blessed be He.
@@ -3147,7 +3147,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/6:6:3](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/6:6:3)
 
 
-**רְחִיקִין הֲווֹ מִן תַּמָּה.** רְחוֹקִים תִּהְיוּ מִשָּׁם, מִבִּנְיַן בֵּית הַמִּקְדָּשׁ שֶׁלֹּא תַּרְפּוּ יְדֵי עוֹשֵׂי הַמְּלָאכָה:
+**רַחִיקִין הֲווֹ מִן תַּמָּה.** רְחוֹקִים תִּהְיוּ מִשָּׁם, מִבִּנְיַן בֵּית הַמִּקְדָּשׁ שֶׁלֹּא תַּרְפּוּ יְדֵי עוֹשֵׂי הַמְּלָאכָה:
 
 
 **distance yourselves from there** Distance yourselves from the building of the Temple, so that you do not disturb the workers.
@@ -3161,7 +3161,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/6:7:1](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/6:7:1)
 
 
-**דַּךְ.** זֶה:
+**דֵךְ.** זֶה:
 
 
 **this** [as translated,] this.
@@ -3252,7 +3252,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/6:8:5](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/6:8:5)
 
 
-**נִפְקְתָא תְּהֵא מִתְיַהֲבָא.** הוֹצָאָה תִּהְיֶה נִתֶּנֶת לָאֲנָשִׁים הָאֵלֶּה אֲשֶׁר לֹא יִתְבַּטְּלוּ מִמְּלַאכְתָּן:
+**נִפְקְתָא תֶּהֱוֵא מִתְיַהֲבָא.** הוֹצָאָה תִּהְיֶה נִתֶּנֶת לָאֲנָשִׁים הָאֵלֶּה אֲשֶׁר לֹא יִתְבַּטְּלוּ מִמְּלַאכְתָּן:
 
 
 **The expenses shall be given** The expenses shall be given to these men so that they should not idle from their work.
@@ -3313,7 +3313,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/6:10:1](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/6:10:1)
 
 
-**דִּי לֶהֱוֹן.** לְמַעַן אֲשֶׁר יִהְיוּ מַקְרִיבִים נִיחוֹחִים לֵאלֹהֵי הַשָּׁמַיִם וְיִהְיוּ מִתְפַּלְּלִים עַל חַיֵּי הַמֶּלֶךְ וּבָנָיו:
+**דִּי לֶהֱוֺן.** לְמַעַן אֲשֶׁר יִהְיוּ מַקְרִיבִים נִיחוֹחִים לֵאלֹהֵי הַשָּׁמַיִם וְיִהְיוּ מִתְפַּלְּלִים עַל חַיֵּי הַמֶּלֶךְ וּבָנָיו:
 
 
 **That they should** in order that they should offer up pleasing sacrificing to the God of the heavens, and that they should pray for the life of the king and his children.
@@ -3407,7 +3407,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/6:12:3](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/6:12:3)
 
 
-**שַׂמְתּ טְעֵם.** שַׂמְתִּי צִוּוּי דָּבָר זֶה אֲשֶׁר יַעֲשֶׂה הַבִּנְיָן מְהֵרָה. עַד כָּאן תְּשׁוּבָתוֹ שֶׁל דָּרְיָוֶשׁ:
+**שָׂמֶת טְעֵם.** שַׂמְתִּי צִוּוּי דָּבָר זֶה אֲשֶׁר יַעֲשֶׂה הַבִּנְיָן מְהֵרָה. עַד כָּאן תְּשׁוּבָתוֹ שֶׁל דָּרְיָוֶשׁ:
 
 
 **have issued an edict** I have issued a command concerning this matter, that the building be constructed swiftly. Until here is Darius’s reply.
@@ -3471,7 +3471,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/6:15:1](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/6:15:1)
 
 
-**וְשֵׁיצִיאָ בַּיְתָה דְנָה.** וְסוֹף תַּשְׁלוּם בַּיִת זֶה הָיָה עַד יוֹם שְׁלִישִׁי לְחֹדֶשׁ **אֲדָר** שֶׁהִיא שְׁנַת שֵׁשׁ לְדָרְיָוֶשׁ הַמֶּלֶךְ, וְנִמְצָא בִּנְיַן הַבַּיִת הָיָה אַרְבַּע שָׁנִים:
+**וְשֵׁיצִיא בַּיְתָה דְנָה.** וְסוֹף תַּשְׁלוּם בַּיִת זֶה הָיָה עַד יוֹם שְׁלִישִׁי לְחֹדֶשׁ **אֲדָר** שֶׁהִיא שְׁנַת שֵׁשׁ לְדָרְיָוֶשׁ הַמֶּלֶךְ, וְנִמְצָא בִּנְיַן הַבַּיִת הָיָה אַרְבַּע שָׁנִים:
 
 
 **And the completion of this House** And the end of the completion of this House was until the third day of the month of Adar, which is the sixth year of King Darius; hence the building of the House took four years.
@@ -3513,7 +3513,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/6:19:1](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/6:19:1)
 
 
-**אֶת הַפֶּסַח.** עַכְשָׁיו עָשׂוּ יִשְׂרָאֵל אֶת הַפֶּסַח בְּאַרְבַּעָה עָשָׂר בְּנִיסָן זֶה הַבָּא אַחַר אֲדָר זֶה שֶׁהֻשְׁלַם הַבִּנְיָן בּוֹ:
+**אֶת הַפָּסַח.** עַכְשָׁיו עָשׂוּ יִשְׂרָאֵל אֶת הַפֶּסַח בְּאַרְבַּעָה עָשָׂר בְּנִיסָן זֶה הַבָּא אַחַר אֲדָר זֶה שֶׁהֻשְׁלַם הַבִּנְיָן בּוֹ:
 
 
 **the Passover [offering]** Now Israel made the Passover offering on this fourteenth of Nissan, which followed this Adar, when the building was completed.
@@ -3661,7 +3661,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/7:9:1](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/7:9:1)
 
 
-**יְסוֹד הַמַּעֲלָה.** יְסוֹד תְּחִלַּת הָעֲלִיָּה:
+**יְסֻד הַמַּעֲלָה.** יְסוֹד תְּחִלַּת הָעֲלִיָּה:
 
 
 **was the commencement of the ascent** the foundation of the commencement of the ascent.
@@ -3814,7 +3814,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/7:16:1](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/7:16:1)
 
 
-**וְכָל כֶּסֶף וּדְהַב.** וְכָל נִדְבַת כֶּסֶף וְזָהָב אֲשֶׁר תִּמְצָא בִּמְדִינַת בָּבֶל עִם שְׁאָר נִדְבַת הָעָם וְהַכֹּהֲנִים אֲשֶׁר מִתְנַדְּבִים לְבֵיתוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא אֲשֶׁר בִּירוּשָׁלַיִם, תּוֹלִיךְ הַכֹּל לִירוּשָׁלָיִם:
+**וְכָל כְּסַף וּדְהַב.** וְכָל נִדְבַת כֶּסֶף וְזָהָב אֲשֶׁר תִּמְצָא בִּמְדִינַת בָּבֶל עִם שְׁאָר נִדְבַת הָעָם וְהַכֹּהֲנִים אֲשֶׁר מִתְנַדְּבִים לְבֵיתוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא אֲשֶׁר בִּירוּשָׁלַיִם, תּוֹלִיךְ הַכֹּל לִירוּשָׁלָיִם:
 
 
 **And all the silver and gold** and all the silver and gold that you will find in the province of Babylon, together with the donations of the people and the priests that they will donate to the House of the Holy One, blessed be He, which is in Jerusalem; you shall take everything to Jerusalem.
@@ -3898,7 +3898,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/7:22:1](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/7:22:1)
 
 
-**דִּי לָא כְתַב.** וּמֶלַח שֶׁאֵין כָּתוּב בּוֹ מִדָּה יִתְּנוּ כְּכָל הַצֹּרֶךְ:
+**דִּי לָא כְתָב.** וּמֶלַח שֶׁאֵין כָּתוּב בּוֹ מִדָּה יִתְּנוּ כְּכָל הַצֹּרֶךְ:
 
 
 **which is not written** And salt, regarding which no measure is written, they shall give according to how much is needed.
@@ -3948,7 +3948,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/7:24:1](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/7:24:1)
 
 
-**וּלְכוֹם מְהוֹדְעִין**. וּלְכֶם אָנוּ מוֹדִיעִים אֲשֶׁר כָּל הַכֹּהֲנִים וְהַלְוִיִּם הַמְשׁוֹרְרִים וְהַשּׁוֹעֲרִים וְהַנְּתִינִים שֶׁהֵם חוֹטְבֵי עֵצִים וְשׁוֹאֲבֵי מַיִם לַמִּזְבֵּחַ וְעוֹבְדִים בְּבַיִת זֶה שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא, לֹא יִשְׁלוֹט אָדָם עֲלֵיהֶם לְהַשְׁלִיךְ עֲלֵיהֶם מַס וְכֶסֶף גֻּלְגֹּלֶת, אֶלָּא יִהְיוּ בְּנֵי חוֹרִין מֵעֲבוֹדַת הַמֶּלֶךְ:
+**וּלְכוֹם מְהוֹדְעִין.** וּלְכֶם אָנוּ מוֹדִיעִים אֲשֶׁר כָּל הַכֹּהֲנִים וְהַלְוִיִּם הַמְשׁוֹרְרִים וְהַשּׁוֹעֲרִים וְהַנְּתִינִים שֶׁהֵם חוֹטְבֵי עֵצִים וְשׁוֹאֲבֵי מַיִם לַמִּזְבֵּחַ וְעוֹבְדִים בְּבַיִת זֶה שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא, לֹא יִשְׁלוֹט אָדָם עֲלֵיהֶם לְהַשְׁלִיךְ עֲלֵיהֶם מַס וְכֶסֶף גֻּלְגֹּלֶת, אֶלָּא יִהְיוּ בְּנֵי חוֹרִין מֵעֲבוֹדַת הַמֶּלֶךְ:
 
 
 **And we are making known to you** And we are making known to you that [over] all the priests, the Levites, the musicians, the gatekeepers, and the Nethinites, who are wood cutters and water drawers for the altar, and those who serve in this House of the Holy One, no man shall be empowered over them to levy upon them any tribute or head tax, but they shall be free from the service of the king.
@@ -4031,7 +4031,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/7:26:5](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/7:26:5)
 
 
-**הֵן לַעֲנוֹשׁ נִכְסִין.** אִם לְעָנְשׁוֹ בְּמָמוֹן:
+**הֵן לַעֲנָשׁ נִכְסִין.** אִם לְעָנְשׁוֹ בְּמָמוֹן:
 
 
 **fined** to be punished with money.
@@ -4081,7 +4081,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/7:28:2](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/7:28:2)
 
 
-**כְּיַד ה׳ אֱלֹהַי עָלָי.** כַּאֲשֶׁר הָיְתָה עֶזְרָתוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא עָלַי, וְקִבַּצְתִּי מִיִּשְׂרָאֵל הַנִּשְׁאָרִים בְּבָבֶל רָאשֵׁי אָבוֹת וּגְדוֹלִים לַעֲלוֹת עִמִּי מִבָּבֶל:
+**כְּיַד ה׳ אֱלֹהַי עָלַי.** כַּאֲשֶׁר הָיְתָה עֶזְרָתוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא עָלַי, וְקִבַּצְתִּי מִיִּשְׂרָאֵל הַנִּשְׁאָרִים בְּבָבֶל רָאשֵׁי אָבוֹת וּגְדוֹלִים לַעֲלוֹת עִמִּי מִבָּבֶל:
 
 
 **according to the hand of the Lord my God upon me** as the help of the Holy One, blessed be He, was upon me; and I gathered from the Israelites remaining in Babylon the chiefs of the fathers’ houses and the great men to ascend with me from Babylon.
@@ -4270,7 +4270,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/8:17:2](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/8:17:2)
 
 
-**עַל אֲדוֹ.** אֶל **אֲדוֹ**:
+**עַל אִדּוֹ.** אֶל אִדּוֹ:
 
 
 **to Iddo** Heb. עַל אִדוֹ, lit. about Iddo.
@@ -4678,7 +4678,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/8:36:4](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/8:36:4)
 
 
-**וְנָשְׂאוּ.** שֶׁהָיוּ מְנַשְּׂאִין וּמְסַיְּעִין:
+**וְנִשְּׂאוּ.** שֶׁהָיוּ מְנַשְּׂאִין וּמְסַיְּעִין:
 
 
 **and they exalted** They were exalting and assisting.
@@ -4773,7 +4773,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/9:7:1](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/9:7:1)
 
 
-**נָתַנּוּ.** כְּמוֹ נְתַנְנוּ, דָּגֵשׁ הַנּוּ״ן תַּחַת חֶסְרוֹן נוּ״ן אַחֶרֶת, כְּמוֹ ״כִּי עָלֶיךָ תִשְּׁעַנוּ״ (דברי הימים ב יד:יד) כְּמוֹ נִשְׁעַנְנוּ, ״וְנָתַנּוּ אֶת בְּנֹתֵינוּ״ (בראשית לד:טז) כְּמוֹ וְנָתַנְנוּ:
+**נִתַּנּוּ.** כְּמוֹ נְתַנְנוּ, דָּגֵשׁ הַנּוּ״ן תַּחַת חֶסְרוֹן נוּ״ן אַחֶרֶת, כְּמוֹ ״כִּי עָלֶיךָ תִשְּׁעַנוּ״ (דברי הימים ב יד:יד) כְּמוֹ נִשְׁעַנְנוּ, ״וְנָתַנּוּ אֶת בְּנֹתֵינוּ״ (בראשית לד:טז) כְּמוֹ וְנָתַנְנוּ:
 
 
 **we were delivered** Heb. נִתַּנוּ, like נִתַּנְנוּ. The “dagesh” in the “nun” is instead of another “nun,” like (II Chron. 14:10): “for we rely (תִשְּׁעַנוּ) on You,” like נִשְּׁעַנְנוּ. (Gen. 34:16): “... then we will give (וְנָתַנוּ) our daughters,” like וְנָתַנְנוּ.
@@ -4878,7 +4878,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/9:9:3](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/9:9:3)
 
 
-**וַיֵּט.** לְשׁוֹן מִפְעָל כְּמוֹ ״מַטֶּה״, הַטֵּה עָלֵינוּ חַסְדּוֹ:
+**וַיַּט.** לְשׁוֹן מִפְעָל כְּמוֹ ״מַטֶּה״, הַטֵּה עָלֵינוּ חַסְדּוֹ:
 
 
 **and He has extended** Heb. וַיַט, an expression of the causative, like מַטֶה. He extended His loving-kindness upon us.
@@ -4956,7 +4956,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/9:14:1](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/9:14:1)
 
 
-**הֲנָשִׁיב.** אִם נָשׁוּב:
+**הֲנָשׁוּב.** אִם נָשׁוּב:
 
 
 **If we revert** Heb. הֲנָשּׁוּב, if we return.
@@ -4998,7 +4998,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/10:1:1](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/10:1:1)
 
 
-**בֶכֶה**. כְּמוֹ בֶּכִי:
+**בֶכֶה.** כְּמוֹ בֶּכִי:
 
 
 **weeping** Heb. בּכֶה, like בֶּכִי.
@@ -5012,7 +5012,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/10:2:1](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/10:2:1)
 
 
-**וְנוֹשֵׁב.** וְהוֹשַׁבְנוּם:
+**וַנֹּשֶׁב.** וְהוֹשַׁבְנוּם:
 
 
 **and we have taken** And we took them in.
@@ -5073,7 +5073,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/10:4:1](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/10:4:1)
 
 
-**וַאֲנַחְנוּ עַמְּךָ.** לִהְיוֹת מַסְכִּימִים עִמָּךְ:
+**וַאֲנַחְנוּ עִמָּךְ.** לִהְיוֹת מַסְכִּימִים עִמָּךְ:
 
 
 **and we are with you** to agree with you.
@@ -5126,7 +5126,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/10:9:2](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/10:9:2)
 
 
-**מְרַעֲדִים עַל הַדָּבָר.** מִתְיָרְאִים עַל הַדָּבָר וּמִתְיָרְאִים הָיוּ מִמִּכְשׁוֹל שֶׁל עֲבֵרָה זֹאת:
+**מַרְעִידִים עַל הַדָּבָר.** מִתְיָרְאִים עַל הַדָּבָר וּמִתְיָרְאִים הָיוּ מִמִּכְשׁוֹל שֶׁל עֲבֵרָה זֹאת:
 
 
 **quaking over the matter** They were afraid over the matter. They were afraid of the stumbling block of this transgression.
@@ -5151,7 +5151,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Ezra/r/10:11:1](https://torahapp.org/share/book/Rashi%20on%20Ezra/r/10:11:1)
 
 
-**תּוֹדָה**. וִדּוּי:
+**תּוֹדָה.** וִדּוּי:
 
 
 **confess** Heb. תּוֹדָה, [which, in this case, means] וִדּוּי, confession.

@@ -10,7 +10,7 @@ Link: [https://torahapp.org/share/book/Melammed%20Lehoil%20Part%20I](https://tor
 
 Sections: Paragraph
 
-Location: Responsa/Acharonim
+Location: Responsa/Acharonim/Melammed Lehoil
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 

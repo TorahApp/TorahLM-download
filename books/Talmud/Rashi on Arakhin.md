@@ -12470,15 +12470,23 @@ Women and servants - And they pay after the time [of their vow] when the woman g
 גמ' מתני' - דקתני הרי זה גואל מיד דמשמע אפי' בו ביום שמכרה מותר לגאול דלא כרבי:
 
 
+###### Rashi on Arakhin 31a:5:2
 
-### Line 7
-
-###### Rashi on Arakhin 31a:7:1
-
-[https://torahapp.org/share/book/Rashi%20on%20Arakhin/r/31a:7:1](https://torahapp.org/share/book/Rashi%20on%20Arakhin/r/31a:7:1)
+[https://torahapp.org/share/book/Rashi%20on%20Arakhin/r/31a:5:2](https://torahapp.org/share/book/Rashi%20on%20Arakhin/r/31a:5:2)
 
 
 ימים תהיה גאולתו ואין ימים פחותין משנים - דלא תשהא ביד לוקח פחות משני ימים:
+
+
+
+### Line 8
+
+###### Rashi on Arakhin 31a:8:1
+
+[https://torahapp.org/share/book/Rashi%20on%20Arakhin/r/31a:8:1](https://torahapp.org/share/book/Rashi%20on%20Arakhin/r/31a:8:1)
+
+
+ורבנן - אין הכי נמי דההיא ודאי מיבעי ליה להכי דממכרו ולא שנת מנין עולם וימים מיבעי ליה למעת לעת שאם מכרה באחד בניסן בחצי היום אין מונין לו שנה עד שיגיע חצי היום של אחד בניסן הבא:
 
 
 
@@ -12508,7 +12516,7 @@ Women and servants - And they pay after the time [of their vow] when the woman g
 [https://torahapp.org/share/book/Rashi%20on%20Arakhin/r/31a:11:1](https://torahapp.org/share/book/Rashi%20on%20Arakhin/r/31a:11:1)
 
 
-ורבנן - אין הכי נמי דההיא ודאי מיבעי ליה להכי דממכרו ולא שנת מנין עולם וימים מיבעי ליה למעת לעת שאם מכרה באחד בניסן בחצי היום אין מונין לו שנה עד שיגיע חצי היום של אחד בניסן הבא:
+מתני' ר' יהודה היא - דאמר צד אחד ברבית מותר דרבית הבאה ע"י מכר קרי צד אחד משום דאין בא לידי רבית משני צדדין שאם לא יגאלנה ותיחלט לו אין כאן רבית אבל הלואה ודאי באה לידי רבית שאינה נחלטת לעולם:
 
 
 ###### Rashi on Arakhin 31a:11:2
@@ -12516,7 +12524,7 @@ Women and servants - And they pay after the time [of their vow] when the woman g
 [https://torahapp.org/share/book/Rashi%20on%20Arakhin/r/31a:11:2](https://torahapp.org/share/book/Rashi%20on%20Arakhin/r/31a:11:2)
 
 
-מתני' ר' יהודה היא - דאמר צד אחד ברבית מותר דרבית הבאה ע"י מכר קרי צד אחד משום דאין בא לידי רבית משני צדדין שאם לא יגאלנה ותיחלט לו אין כאן רבית אבל הלואה ודאי באה לידי רבית שאינה נחלטת לעולם:
+ועשה לו שדהו מכר - שמשכן לו שדהו על אותו מנה וכתב לו אם לא אתן לך מנה מיכן ועד שלש שנים הרי היא שלך:
 
 
 ###### Rashi on Arakhin 31a:11:3
@@ -12524,20 +12532,12 @@ Women and servants - And they pay after the time [of their vow] when the woman g
 [https://torahapp.org/share/book/Rashi%20on%20Arakhin/r/31a:11:3](https://torahapp.org/share/book/Rashi%20on%20Arakhin/r/31a:11:3)
 
 
-ועשה לו שדהו מכר - שמשכן לו שדהו על אותו מנה וכתב לו אם לא אתן לך מנה מיכן ועד שלש שנים הרי היא שלך:
+בזמן שהמוכר אוכל פירות - כל אותן שנים מותר:
 
 
 ###### Rashi on Arakhin 31a:11:4
 
 [https://torahapp.org/share/book/Rashi%20on%20Arakhin/r/31a:11:4](https://torahapp.org/share/book/Rashi%20on%20Arakhin/r/31a:11:4)
-
-
-בזמן שהמוכר אוכל פירות - כל אותן שנים מותר:
-
-
-###### Rashi on Arakhin 31a:11:5
-
-[https://torahapp.org/share/book/Rashi%20on%20Arakhin/r/31a:11:5](https://torahapp.org/share/book/Rashi%20on%20Arakhin/r/31a:11:5)
 
 
 לוקח אוכל פירות אסור - שמא יגאלנה בתוך שלש ונמצא שאכלם ברבית:

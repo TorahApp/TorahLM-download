@@ -1,6 +1,6 @@
 # Korban Netanel on Sukkah
 
- קרבן נתנאל על סוכה
+קרבן נתנאל על סוכה
 
 Link: [https://torahapp.org/share/book/Korban%20Netanel%20on%20Sukkah](https://torahapp.org/share/book/Korban%20Netanel%20on%20Sukkah)
 

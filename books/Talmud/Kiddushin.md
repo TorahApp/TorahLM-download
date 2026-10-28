@@ -10637,7 +10637,7 @@ The Gemara asks: **Is that so? But Rava served drinks** to the guests **at his s
 [https://torahapp.org/share/book/Kiddushin/r/32b:5](https://torahapp.org/share/book/Kiddushin/r/32b:5)
 
 
-אֲמַר לֵיהּ: מָצִינוּ גָּדוֹל מִמֶּנּוּ שֶׁשִּׁמֵּשׁ, אַבְרָהָם גָּדוֹל מִמֶּנּוּ – וְשִׁמֵּשׁ. אַבְרָהָם גְּדוֹל הַדּוֹר הָיָה, וְכָתוּב בּוֹ: ״וְהוּא עָמַד עֲלֵיהֶם״. וְשֶׁמָּא תֹּאמְרוּ: כְּמַלְאֲכֵי הַשָּׁרֵת נִדְמוּ לוֹ – לֹא נִדְמוּ לוֹ אֶלָּא לְעַרְבִיִּים. וְאָנוּ, לֹא יְהֵא רַבָּן גַּמְלִיאֵל בְּרִיבִּי עוֹמֵד וּמַשְׁקֶה עָלֵינוּ?!
+אֲמַר לֵיהּ: מָצִינוּ גָּדוֹל מִמֶּנּוּ שֶׁשִּׁמֵּשׁ, אַבְרָהָם גָּדוֹל מִמֶּנּוּ – וְשִׁמֵּשׁ. אַבְרָהָם גְּדוֹל הַדּוֹר הָיָה, וְכָתוּב בּוֹ: ״וְהוּא עֹמֵד עֲלֵיהֶם״. וְשֶׁמָּא תֹּאמְרוּ: כְּמַלְאֲכֵי הַשָּׁרֵת נִדְמוּ לוֹ – לֹא נִדְמוּ לוֹ אֶלָּא לְעַרְבִיִּים. וְאָנוּ, לֹא יְהֵא רַבָּן גַּמְלִיאֵל בְּרִיבִּי עוֹמֵד וּמַשְׁקֶה עָלֵינוּ?!
 
 
 Rabbi Yehoshua **said to him: We found** one **greater than him who served** his guests, as our forefather **Abraham** was **greater than him and he served** his guests. **Abraham was the greatest** man **of** his **generation and it is written about him: “And he stood over them** under the tree, and they ate” (Genesis 18:8). **And lest you say:** His guests **appeared to him as ministering angels,** and that is why he honored them, in fact **they appeared to him only as Arabs. And** if so, **should not the esteemed Rabban Gamliel stand over us and serve us drinks?**
@@ -13248,7 +13248,7 @@ The Gemara answers: This is **not difficult,** as **this** source, which says th
 תְּנַן הָתָם: אֵין מַקִּיפִין בְּחִילּוּל הַשֵּׁם, אֶחָד שׁוֹגֵג וְאֶחָד מֵזִיד. מַאי ״אֵין מַקִּיפִין״? אָמַר מָר זוּטְרָא: שֶׁאֵין עוֹשִׂים כְּחֶנְווֹנִי. מָר בְּרֵיהּ דְּרַבְנָא אָמַר: לוֹמַר שֶׁאִם הָיְתָה שְׁקוּלָה – מַכְרַעַת.
 
 
-**We learned** in a mishna **there** (see *Avot* 4:5): **Credit is not given with regard to the desecration of** God’s **name, whether** one sinned **unintentionally or intentionally.** The Gemara asks: **What** is the meaning of the phrase: **Credit is not given [*makkifin*]? Mar Zutra says:** This means **that** God **does not act like a storekeeper** and provide credit. Rather, one is punished without delay. **Mar, son of Rabbana, says:** This means **to say that if** one’s merit and sins **were equal,** the sin of the desecration of God’s name **tilts** the balance of the scales toward the side of his sins. In other words, if his sins include the transgression of desecrating God’s name, God does not wait for this individual to perform a mitzva to balance out the sin.
+**We learned** in a mishna **there** (see *Avot* 4:4): **Credit is not given with regard to the desecration of** God’s **name, whether** one sinned **unintentionally or intentionally.** The Gemara asks: **What** is the meaning of the phrase: **Credit is not given [*makkifin*]? Mar Zutra says:** This means **that** God **does not act like a storekeeper** and provide credit. Rather, one is punished without delay. **Mar, son of Rabbana, says:** This means **to say that if** one’s merit and sins **were equal,** the sin of the desecration of God’s name **tilts** the balance of the scales toward the side of his sins. In other words, if his sins include the transgression of desecrating God’s name, God does not wait for this individual to perform a mitzva to balance out the sin.
 
 
 ###### Kiddushin 40a:21
@@ -17283,7 +17283,7 @@ The Gemara asks: **But don’t you understand it by itself** from this verse? Si
 [https://torahapp.org/share/book/Kiddushin/r/53b:3](https://torahapp.org/share/book/Kiddushin/r/53b:3)
 
 
-חֲדָא – לְפִי שֶׁאֵין אִשָּׁה רוֹצֶה, וַחֲדָא – לְפִי שֶׁאֵין שְׁנֵיהֶם רוֹצִים, וְלָא יָדַעְנָא הֵי מִינַּיְיהוּ. אָמַר רַבִּי יִרְמְיָה: נִיחְזֵי אֲנַן: מַעֲשֵׂר – אִיהִי לָא נִיחָא לַהּ מִשּׁוּם טִרְחָא דְאוֹרְחָא, אִיהוּ נִיחָא לֵיהּ דְּנִיקְנֵי אִיתְּתָא מִמֵּילָא. אֶלָּא הֶקְדֵּשׁ – תַּרְוַיְיהוּ לָא נִיחָא לְהוּ דְּנִתַּחִיל הֶקְדֵּשׁ עַל יְדַיְיהוּ.
+חֲדָא – לְפִי שֶׁאֵין אִשָּׁה רוֹצָה, וַחֲדָא – לְפִי שֶׁאֵין שְׁנֵיהֶם רוֹצִים, וְלָא יָדַעְנָא הֵי מִינַּיְיהוּ. אָמַר רַבִּי יִרְמְיָה: נִיחְזֵי אֲנַן: מַעֲשֵׂר – אִיהִי לָא נִיחָא לַהּ מִשּׁוּם טִרְחָא דְאוֹרְחָא, אִיהוּ נִיחָא לֵיהּ דְּנִיקְנֵי אִיתְּתָא מִמֵּילָא. אֶלָּא הֶקְדֵּשׁ – תַּרְוַיְיהוּ לָא נִיחָא לְהוּ דְּנִתַּחִיל הֶקְדֵּשׁ עַל יְדַיְיהוּ.
 
 
 He proceeds to explain. **One** of these *halakhot* is **because the woman does not want** to become betrothed with the item, **and** the reason for the **other** is **because neither** the man nor the woman **wants** it. He adds: **And I do not know which of them** is due to the woman alone, and which is due to both parties. **Rabbi Yirmeya said: Let us see** which reason is applicable to which case. It must be that with regard to second **tithe,** which may be eaten only in Jerusalem, it is **not satisfactory for her** to be betrothed with it **due to the trouble of** transporting it all **the way** to Jerusalem to enjoy it, whereas it is **satisfactory for him** to betroth her with it, **since he acquires a woman by itself,** i.e., by the tithe alone, without having to spend additional money of his own. **But** in the case of **consecrated** items, it is **not satisfactory for the two of them that consecrated** property **be desacralized by their** using it for betrothal.

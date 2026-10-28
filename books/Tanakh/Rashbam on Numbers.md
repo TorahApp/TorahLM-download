@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Rashbam on Numbers -- Daat (Segments: 291, License: Public Domain)
 
-Version (En): Eliyahu Munk, HaChut Hameshulash (Segments: 288)
+Version (En): Sefaria Community Translation (Segments: 288)
 
 
 ## Chapter 1

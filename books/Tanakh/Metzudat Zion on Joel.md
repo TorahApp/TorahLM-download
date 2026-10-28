@@ -408,7 +408,7 @@ Version (He): On Your Way (Segments: 153, License: Public Domain)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20Joel/r/1:20:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20Joel/r/1:20:1)
 
 
-**בהמות שדי.** ועל החיות יאמר וכן ושן בהמות (דברים ל״ב) ות״א חיות ברא תערוג. הוא ענין צעקה כמו כאיל תערוג על אפיקי מים (תהלים מ״ב):
+**בהמות שדה.** ועל החיות יאמר וכן ושן בהמות (דברים ל״ב) ות״א חיות ברא תערוג. הוא ענין צעקה כמו כאיל תערוג על אפיקי מים (תהלים מ״ב):
 
 
 ###### Metzudat Zion on Joel 1:20:2

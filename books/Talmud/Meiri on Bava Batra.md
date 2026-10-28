@@ -14,7 +14,7 @@ Location: Talmud/Bavli/Rishonim on Talmud/Meiri/Seder Nezikin
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Meiri on Shas (Segments: 1647, License: unknown)
+Version (He): Meiri on Shas (Segments: 1648, License: unknown)
 
 
 ## Introduction
@@ -9606,7 +9606,15 @@ Version (He): Meiri on Shas (Segments: 1647, License: unknown)
 [https://torahapp.org/share/book/Meiri%20on%20Bava%20Batra/r/121a:1](https://torahapp.org/share/book/Meiri%20on%20Bava%20Batra/r/121a:1)
 
 
-**כבר** ביארנו בסדר מועד שהמועדות כלן תלויין בקדוש בית דין ובראיית הלבנה ומ"מ שבת בראשית אין בית דין מקדשין אותו כלל מקדש ועומד הוא מעולם לא היו ימים טובים לישראל לשמוח בהם שמחה יתרה כחמשה עשר באב ויום הכפורים שבהם היו בנות ישראל יוצאות וחולות בכרמים וכבר ביארנו הסבות כלן במקומה במסכת תענית פרק פרקים:
+**כבר** ביארנו בסדר מועד שהמועדות כלן תלויין בקדוש בית דין ובראיית הלבנה ומ"מ שבת בראשית אין בית דין מקדשין אותו כלל מקדש ועומד הוא מעולם.
+
+
+###### Meiri on Bava Batra 121a:2
+
+[https://torahapp.org/share/book/Meiri%20on%20Bava%20Batra/r/121a:2](https://torahapp.org/share/book/Meiri%20on%20Bava%20Batra/r/121a:2)
+
+
+**לא היו ימים טובים לישראל** לשמוח בהם שמחה יתרה כחמשה עשר באב ויום הכפורים שבהם היו בנות ישראל יוצאות וחולות בכרמים וכבר ביארנו הסבות כלן במקומה במסכת תענית פרק פרקים:
 
 
 

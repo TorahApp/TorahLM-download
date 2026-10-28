@@ -17895,7 +17895,7 @@ The mishna taught: **And** the **sweetness of the honeycomb [*nofet tzufim*]** a
 [https://torahapp.org/share/book/Sotah/r/49a:6](https://torahapp.org/share/book/Sotah/r/49a:6)
 
 
-רַבִּי אֲבָהוּ אוֹמֵר: מַשְׁבִּיעִין אוֹתוֹ מִזִּיו שְׁכִינָה, שֶׁנֶּאֱמַר: ״וְהָיוּ עֵינֶיךָ רֹאוֹת אֶת מוֹרֶיךָ״. רַבִּי אַחָא בַּר חֲנִינָא אָמַר: אַף אֵין הַפַּרְגּוֹד נִנְעָל בְּפָנָיו, שֶׁנֶּאֱמַר: ״וְלֹא יִכָּנֵף עוֹד מוֹרֶיךָ״.
+רַבִּי אֲבָהוּ אוֹמֵר: מַשְׂבִּיעִין אוֹתוֹ מִזִּיו שְׁכִינָה, שֶׁנֶּאֱמַר: ״וְהָיוּ עֵינֶיךָ רֹאוֹת אֶת מוֹרֶיךָ״. רַבִּי אַחָא בַּר חֲנִינָא אָמַר: אַף אֵין הַפַּרְגּוֹד נִנְעָל בְּפָנָיו, שֶׁנֶּאֱמַר: ״וְלֹא יִכָּנֵף עוֹד מוֹרֶיךָ״.
 
 
 **Rabbi Abbahu says:** A Torah scholar who engages in Torah study despite economic pressures **is satiated with the glory of the Divine Presence, as it is stated** in the same verse, above: **“And your eyes shall behold your Teacher.” Rabbi Aḥa, son of Ḥanina, said: Even the** concealing **partition** [***pargod***] before the Divine Presence **is not locked before him, as it is stated: “And your Teacher shall not hide Himself anymore”** (Isaiah 30:20).

@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Kehot Publication Society (Segments: 5166, License: CC-BY-NC)
 
-Version (En): ? (Segments: 4)
+Version (En): Sefaria Community Translation (Segments: 5)
 
 # Likkutei Torah — part 2 of 2
 

@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): eu5 text (Segments: 17418, License: unknown)
 
-Version (En): [fr] (Segments: 1021)
+Version (En): Mishnah Berurah temp (Segments: 1025)
 
 
 ## Introduction
@@ -13053,7 +13053,7 @@ The chazzan...: in order that he should be able to say Kaddish immediately and s
 [https://torahapp.org/share/book/Mishnah%20Berurah/r/54:9](https://torahapp.org/share/book/Mishnah%20Berurah/r/54:9)
 
 
-(ט) בלא תהלה - או אחר תפלה וכמו שכתבנו בס"ק הקודם וכן אחר שלמד איזה ענין מתורה שבע"פ יוכל לומר קדיש דרבנן ועיין במ"א שמסיק דדוקא אם אמר אח"ז עכ"פ מקצת דבר אגדה ואז יוכל לומר הקדיש דרבנן כי עיקר הקדיש זה נתקן על דבר אגדה וע"כ מנהג כל ישראל לומר אחר פרקי אבות ואחר במה מדליקין המאמר דר' חנניא בן עקשיא או אר"א א"ר =אמר רבי= חנינא ת"ח מרבים שלום וכו'. ולפ"ז יש ליזהר כשלומדים משניות יאמרו בסוף הלימוד המאמר דר' חנניא בן עקשיא וכדומה כדי שיהיו יוכלו לומר עי"ז אח"כ הקדיש דרבנן. ואחר תנ"ך אומרים קדיש שלם אפילו רק אחר ג' פסוקים. ואין לומר קדיש אא"כ היו עשרה אנשים בבהכ"נ בשעת אמירת הפסוקים והלימוד וכמו שיתבאר בסימן נ"ה במ"ב סק"ב ואפילו אם רק ב' וג' לומדים אומרים קדיש כשיש שם עשרה ואפילו מי שלא למד יכול ג"כ לומר הקדיש כמו בפריסת שמע לקמן בסימן ס"ט:
+(ט) בלא תהלה - או אחר תפלה וכמו שכתבנו בס"ק הקודם וכן אחר שלמד איזה ענין מתורה שבע"פ יוכל לומר קדיש דרבנן ועיין במ"א שמסיק דדוקא אם אמר אח"ז עכ"פ מקצת דבר אגדה ואז יוכל לומר הקדיש דרבנן כי עיקר הקדיש זה נתקן על דבר אגדה וע"כ מנהג כל ישראל לומר אחר פרקי אבות ואחר במה מדליקין המאמר דר' חנניא בן עקשיא או אר"א א"ר חנינא ת"ח מרבים שלום וכו'. ולפ"ז יש ליזהר כשלומדים משניות יאמרו בסוף הלימוד המאמר דר' חנניא בן עקשיא וכדומה כדי שיהיו יוכלו לומר עי"ז אח"כ הקדיש דרבנן. ואחר תנ"ך אומרים קדיש שלם אפילו רק אחר ג' פסוקים. ואין לומר קדיש אא"כ היו עשרה אנשים בבהכ"נ בשעת אמירת הפסוקים והלימוד וכמו שיתבאר בסימן נ"ה במ"ב סק"ב ואפילו אם רק ב' וג' לומדים אומרים קדיש כשיש שם עשרה ואפילו מי שלא למד יכול ג"כ לומר הקדיש כמו בפריסת שמע לקמן בסימן ס"ט:
 
 
 ###### Mishnah Berurah 54:10
@@ -31013,7 +31013,7 @@ That were dipped- fruits and vegetables that were dunked in water to clean them 
 (כ) בלא ברכה - כי יש מקצת הראשונים דסברי שלא הצריכו חכמים נט"י לדבר שטיבולו במשקה אלא בימיהם שהיו אוכלים בטהרה משא"כ עכשיו שכולנו טמאי מתים ולכך לא יברך ענט"י שספק ברכות להקל והנה במ"א הביא בשם הל"ח דהעולם נוהגים שלא ליטול ויש להם על מה שיסמוכו היינו על מקצת הראשונים הנ"ל אבל הרבה אחרונים החמירו מאד בדבר וכתבו דהעיקר כרוב הפוסקים דצריך נטילה מדינא אף בזה"ז ועיין בביאור הגר"א שגם דעתו כן והחמיר מאד בזה שאף צריך לברך ע"ז ולכן אף דהעולם אין נוהגין לברך עכ"פ אין להקל לאכול בלי נטילה. וצריך לזה כל דיני נטילה כמו לפת. ומ"מ בפחות מכזית נ"ל פשוט שאין להחמיר בזה כלל דאפי' בפת הרבה אחרונים מקילין וכנ"ל במ"ב:
 
 
-(2) Without a Blessing- Because there are some rishonim who hold that the sages only decreed washing your hands for foods that touch the 7 liquids in the times when we kept the laws of spiritual purity. Now-a-days, since we are all contaminated from the dead, we don't make a blessing because we don't make questionable blessings. The Magein Avrahahm brings in the name of the Lechem Hamudos that people are accustomed to not wash. They have what to rely on (e.g. the rishonim we just mentioned), but many achronim are very strict and say that the law is like the majority of rishonim who require washing even now-a-days. See the Bior HaGra who is very strict to even require a blessing on this. Therefore, even though we don't say a blessing, you shouldn't be so lenient as to eat without washing. This washing requires all the laws of washing like bread. However, less than an olive's volume, it is clear that you needn't wash at all on since even with bread many achronim are lenient on this.
+(20) Without a Blessing- Because there are some rishonim who hold that the sages only decreed washing your hands for foods that touch the 7 liquids in the times when we kept the laws of spiritual purity. Now-a-days, since we are all contaminated from the dead, we don't make a blessing because we don't make questionable blessings. The Magein Avrahahm brings in the name of the Lechem Hamudos that people are accustomed to not wash. They have what to rely on (e.g. the rishonim we just mentioned), but many achronim are very strict and say that the law is like the majority of rishonim who require washing even now-a-days. See the Bior HaGra who is very strict to even require a blessing on this. Therefore, even though we don't say a blessing, you shouldn't be so lenient as to eat without washing. This washing requires all the laws of washing like bread. However, less than an olive's volume, it is clear that you needn't wash at all on since even with bread many achronim are lenient on this.
 
 
 ###### Mishnah Berurah 158:21
@@ -39072,7 +39072,7 @@ Introduction to Siman 178 What Things Are considered an Interruption to the Meal
 [https://torahapp.org/share/book/Mishnah%20Berurah/r/188:9](https://torahapp.org/share/book/Mishnah%20Berurah/r/188:9)
 
 
-(ט) ואין לשנות וכו' - ר"ל דאם אומר בחול רחם יאמר בשבת ג"כ רחם ואע"ג דאסור לתבוע צרכיו בשבת הכא שאני דתופס ברכה כך היא תמיד וגם כל הרחמן יכול לומר בשבת אע"פ שאינן מתופס הברכה שתקנו חכמים שכיון שנהגו הכל לאומרם בכל פעם שמברכין בהמ"ז נעשה להם כטופס ברכה ואין בזה משום שאלת צרכיו בשבת:
+(ט) ואין לשנות וכו' - ר"ל דאם אומר בחול רחם יאמר בשבת ג"כ רחם ואע"ג דאסור לתבוע צרכיו בשבת הכא שאני דטופס ברכה כך היא תמיד וגם כל הרחמן יכול לומר בשבת אע"פ שאינן מטופס הברכה שתקנו חכמים שכיון שנהגו הכל לאומרם בכל פעם שמברכין בהמ"ז נעשה להם כטופס ברכה ואין בזה משום שאלת צרכיו בשבת:
 
 
 ###### Mishnah Berurah 188:10
@@ -52152,7 +52152,7 @@ And even if the perfume etc. - And all the more so when the perfume rests on the
 [https://torahapp.org/share/book/Mishnah%20Berurah/r/257:13](https://torahapp.org/share/book/Mishnah%20Berurah/r/257:13)
 
 
-(יג) אסור להטמין בשבת וכו' - ומ"מ בדיעבד שרי וכנ"ל בסק"ז:
+(יג) אסור להטמין בשבת וכו' - ומ"מ בדיעבד שרי וכנ"ל בסק"ז [סק"ח]:
 
 
 ###### Mishnah Berurah 257:14
@@ -78662,7 +78662,7 @@ There are places where seawater is directed into pools, and the sun evaporates i
 [https://torahapp.org/share/book/Mishnah%20Berurah/r/345:16](https://torahapp.org/share/book/Mishnah%20Berurah/r/345:16)
 
 
-(טז) הוי רה"י - בין תוך חללה ובין גב הכלי מלמעלה וכנ"ל בס"ג וכלי שאין גבוה עשרה העומד בר"ה אין לו דין כרמלית דאין כרמלית בכלים אלא הוי כמו ר"ה דבטל לגבי רשות שהוא עומד בו [מ"א] ולפ"ז אם עומד הכלי בכרמלית דין כרמלית עליו מצד רשות שהוא עומד בו וכן מוכח לקמן בסימן שנ"ה (תו"ש וכ"כ בבית מאיר לדעת המ"א) וכלי המחובר לקרקע מקרי כרמלית אפיל ו הוא בר"ה:
+(טז) הוי רה"י - בין תוך חללה ובין גב הכלי מלמעלה וכנ"ל בס"ג וכלי שאין גבוה עשרה העומד בר"ה אין לו דין כרמלית דאין כרמלית בכלים אלא הוי כמו ר"ה דבטל לגבי רשות שהוא עומד בו [מ"א] ולפ"ז אם עומד הכלי בכרמלית דין כרמלית עליו מצד רשות שהוא עומד בו וכן מוכח לקמן בסימן שנ"ה (תו"ש וכ"כ בבית מאיר לדעת המ"א) וכלי המחובר לקרקע מקרי כרמלית אפילו הוא בר"ה:
 
 
 ###### Mishnah Berurah 345:17
@@ -90843,7 +90843,7 @@ There are places where seawater is directed into pools, and the sun evaporates i
 [https://torahapp.org/share/book/Mishnah%20Berurah/r/392:8](https://torahapp.org/share/book/Mishnah%20Berurah/r/392:8)
 
 
-(ח) בשיתוף שעושים לעצמם ואם היו הנשארים רבים - כצ"ל. ואח"כ גרסינן ואסורים לטלטל בוי"ו [ט"ז]:
+(ח) בשיתוף שעושים לעצמם אם היו הנשארים רבים - כצ"ל. ואח"כ גרסינן ואסורים לטלטל בוי"ו [ט"ז]:
 
 
 ###### Mishnah Berurah 392:9
@@ -121135,7 +121135,7 @@ If the gentile is a sharecropper he may even work on a field. Moreover, even the
 [https://torahapp.org/share/book/Mishnah%20Berurah/r/547:6](https://torahapp.org/share/book/Mishnah%20Berurah/r/547:6)
 
 
-(ו) אסור להספיד עמו וכו' - דעכ"פ דעכ"פ ע"י זה מיתוסף לו עוד צער במועד:
+(ו) אסור להספיד עמו וכו' - דעכ"פ ע"י זה מיתוסף לו עוד צער במועד:
 
 
 ###### Mishnah Berurah 547:7
@@ -121386,7 +121386,7 @@ If the gentile is a sharecropper he may even work on a field. Moreover, even the
 [https://torahapp.org/share/book/Mishnah%20Berurah/r/548:11](https://torahapp.org/share/book/Mishnah%20Berurah/r/548:11)
 
 
-(יא) האחרון - משא"כ משא"כ יו"ט שני של גליות בתחלת פסח או החג לא גרע מחוה"מ:
+(יא) האחרון - משא"כ יו"ט שני של גליות בתחלת פסח או החג לא גרע מחוה"מ:
 
 
 ###### Mishnah Berurah 548:12
@@ -123012,6 +123012,9 @@ And it is not required ... while it is still day... [That is,] as is required on
 
 
 (ח) ונהגו וכו' - דתורה משמחת הלב ומ"מ כ"ז אינו מדינא דהא מותר בעט"ב מדינא כל החמשה עינויים ועיקר הטעם משום דהוא יכול ללמוד דברים המותרים בט"ב. והנה מהרבה אחרונים משמע שתפסו המנהג הזה ולא ערערו עליו דאפילו אם חל בשבת הסכימו כמה אחרונים להתנהג כמ"ש הרמ"א וכמו שאכתוב לקמיה אמנם יש איזה אחרונים שפקפקו מאד על המנהג הזה ראשון לכל הרש"ל כתבו עליו שלמד בעצמו אחר חצות והתיר גם לאחרים בזה גם הגר"א בביאורו כתב דחומרא יתירא היא וכן המאמר מרדכי בספרו מאריך בזה וכתב דהוא מביא הרבה לידי ביטול תורה להלומדים שמתרשלים ללמוד דברים המותרים בט"ב דאין אדם לומד אלא מה שלבו חפץ וע"כ דעתו להקל בזה וכתב דכן היה הוא נוהג ע"ש וכן הח"א כתב דהוא חומרא בעלמא וע"כ נראה דמי שרוצה להקל בזה אין מוחין בידו:
+
+
+**And the custom is, etc.** - For Torah gladdens the heart; nevertheless, all of this is not required by strict law, since by law one is permitted to study all the matters that are permitted to be studied on Tisha B'Av itself even on its eve, and the main reason [for the restriction beforehand] is that one is [otherwise] able to study the things permitted [to be studied] on Tisha B'Av [and so should save them for then]. Now, it appears that many later authorities (Acharonim) accepted this custom and did not challenge it. Indeed, even if it falls on Shabbos, several Acharonim agreed to conduct themselves as the Rema wrote, as I will write further on. However, there are some Acharonim who raised serious objections to this custom. First among them is the Rashal, who wrote of himself that he studied [these forbidden topics] after midday and permitted this for others as well; also the Gra in his commentary wrote that this is an excessive stringency; and likewise the Ma'amar Mordechai elaborates at length on this in his work, writing that it leads many people to neglect of Torah study, since those who study come to be lax about studying the things that are permitted on Tisha B'Av, for a person only studies what his heart desires and therefore his opinion is to be lenient in this, and he writes that this is how he himself conducted himself, see there. And likewise the Chayei Adam wrote that this is merely a stringency. Therefore it appears that one who wishes to be lenient in this matter is not to be protested against.
 
 
 ###### Mishnah Berurah 553:9
@@ -127634,7 +127637,7 @@ The Holy Temple - One who enters a holy place suffers karet because we are all t
 [https://torahapp.org/share/book/Mishnah%20Berurah/r/585:4](https://torahapp.org/share/book/Mishnah%20Berurah/r/585:4)
 
 
-(ד) יברך לשמוע וכו' - ר"ל שלא יאמר לתקוע בך בשופר דלאו בתקיעה תליא מילתא אלא בשמיעה שהרי התוקע ולא שמע קול שופר לא יצא כמו שנתבאר בסימן תקפ"ז ע"ש ולא יאמר בקול דמשמע לעשות רצונו ובדיעבד אם בירך לתקוע בשופר או על תקיעת שופר או לשמוע בקול שופר יצא. אם נטלו השופר באמצע התקיעות והביאו לו שופר אחר א"צ לברך אבל בין בין ברכה לתחילת התקיעות צריך לברך:
+(ד) יברך לשמוע וכו' - ר"ל שלא יאמר לתקוע בשופר דלאו בתקיעה תליא מילתא אלא בשמיעה שהרי התוקע ולא שמע קול שופר לא יצא כמו שנתבאר בסימן תקפ"ז ע"ש ולא יאמר בקול דמשמע לעשות רצונו ובדיעבד אם בירך לתקוע בשופר או על תקיעת שופר או לשמוע בקול שופר יצא. אם נטלו השופר באמצע התקיעות והביאו לו שופר אחר א"צ לברך אבל בין בין ברכה לתחילת התקיעות צריך לברך:
 
 
 ###### Mishnah Berurah 585:5
@@ -132736,6 +132739,9 @@ For I have caused them to dwell in Sukkot: These are the clouds of glory. And as
 (ב) בכל ענין - ר"ל אפילו אם השפיל הענפים למטה ועירבן עם סכך הסוכה וסכך הסוכה רבה עליהם ואינו ניכר אפ"ה פסול דאף שהסוכה צילתה מרובה מחמתה כיון שהאילן ג"כ צילתו מרובה מחמתו א"כ אין סכך הסוכה מועיל כלום [ב"ח]:
 
 
+Meaning, even if he lowered the branches and mixed them the sechach of the sukkah and the sechach of the sukkah was greater than them [i.e., the lowered branches] and it is not noticeable, even so the sukkah is invalid because even though the sukkah's shade is greater than its sunny area, because the shade of the tree is also greater than its sunny area the sechach of the sukkah is of no use.
+
+
 ###### Mishnah Berurah 626:3
 
 [https://torahapp.org/share/book/Mishnah%20Berurah/r/626:3](https://torahapp.org/share/book/Mishnah%20Berurah/r/626:3)
@@ -132899,12 +132905,18 @@ For I have caused them to dwell in Sukkot: These are the clouds of glory. And as
 (א) צריך לישב וכו' - הקדים בזה כדי לידע הטעם בישן תחת המטה דלא יצא שאינו ישן בצל הסוכה אלא בצל אוהל:
 
 
+He began with this in order to make known the reason regarding one who sleeps under a bed that he did not fulfill the mitzvah since he did not sleep in the shade of the sukkah but in the shade of a tent [made by the bed].
+
+
 ###### Mishnah Berurah 627:2
 
 [https://torahapp.org/share/book/Mishnah%20Berurah/r/627:2](https://torahapp.org/share/book/Mishnah%20Berurah/r/627:2)
 
 
 (ב) הישן וכו' - דעיקר ישיבת הסוכה הוא אכילה שתיה ושינה:
+
+
+Since the essence of "dwelling" in the sukkah is eating, drinking and sleeping.
 
 
 ###### Mishnah Berurah 627:3

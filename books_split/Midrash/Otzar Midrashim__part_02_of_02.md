@@ -14,9 +14,9 @@ Location: Midrash/Aggadah
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Otzar Midrashim, New York, 1915 (Segments: 7560, License: Public Domain)
+Version (He): Zohar Ruth - Midrash HaNe'elam (Segments: 7559, License: unknown)
 
-Version (En): Otzar Midrashim, New York, 1915 (Segments: 463)
+Version (En): Rabbi Mike Feuer, Jerusalem Anthology (Segments: 463)
 
 # Otzar Midrashim — part 2 of 2
 

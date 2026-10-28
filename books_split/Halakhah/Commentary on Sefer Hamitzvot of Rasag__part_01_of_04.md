@@ -14,7 +14,7 @@ Location: Halakhah/Commentary/Commentary on Sefer Hamitzvot of Rasag
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Sefer Hamitzvot L'Rasag, Warsaw, 1914 -- vol. 1 (Segments: 5506, License: Public Domain)
+Version (He): Sefer Hamitzvot L'Rasag, Warsaw, 1914 -- vol. 3 (Segments: 5506, License: Public Domain)
 
 Version (En): Sefaria Community Translation (Segments: 2)
 

@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Jerusalem, 2001 (Segments: 2805, License: CC-BY-NC)
 
-Version (En): Likutim em português  (Segments: 47)
+Version (En): Sefaria Community Translation (Segments: 47)
 
 
 ## Bereshit

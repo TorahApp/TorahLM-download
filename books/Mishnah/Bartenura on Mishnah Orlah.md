@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Torat-Emet (Segments: 124, License: CC-BY-NC)
 
-Version (En): Bartenura on Mishnah, trans. by Rabbi Robert Alpert, 2020 (Segments: 123)
+Version (En): Sefaria Community Translation (Segments: 123)
 
 
 ## Chapter 1

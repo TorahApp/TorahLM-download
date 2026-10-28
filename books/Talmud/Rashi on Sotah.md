@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Vilna Edition (Segments: 2421, License: Public Domain)
 
-Version (En): Rashi on Sotah 21b:1:2 (Segments: 201)
+Version (En): Sefaria Community Translation (Segments: 201)
 
 
 ## Daf 2a

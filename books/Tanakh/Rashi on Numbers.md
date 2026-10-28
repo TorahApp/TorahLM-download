@@ -4067,7 +4067,7 @@ It must be שערים BARLEY, and not wheat; because she committed a bestial act
 [https://torahapp.org/share/book/Rashi%20on%20Numbers/r/10:31:3](https://torahapp.org/share/book/Rashi%20on%20Numbers/r/10:31:3)
 
 
-**כי על כן ידעת.** כְּמוֹ עַל אֲשֶׁר יָדַעְתָּ, כְּמוֹ "כִּי עַל כֵּן לֹא נְתַתִּיהָ לְשֵׁלָה בְנִי" (בראשית ל"ח), "כִּי עַ"כַּ בָּאוּ" (שם י"ט), "כִּי עַל כֵּן רָאִיתִי פָנֶיךָ" (שם ל"ג):
+**כי על כן ידעת.** כְּמוֹ עַל אֲשֶׁר יָדַעְתָּ, כְּמוֹ "כִּי עַל כֵּן לֹא נְתַתִּיהָ לְשֵׁלָה בְנִי" (בראשית ל"ח), "כִּי עַל כֵּן עֲבַרְתֶּם" (בראשית י"ט), "כִּי עַל כֵּן בָּאוּ" (בראשית י"ט), "כִּי עַל כֵּן רָאִיתִי פָנֶיךָ" (בראשית ל"ג):
 
 
 כי על כן ידעת — This is similar to על אשר ידעת, like (Genesis 38:26) “For (כי) she has acted rightly, because (על כן) I did not give her to Selah, my son”; (Genesis 19:8): “For (כי) this kindness please do out of respect to me, because (על כן) they have come under the shadow of my roof”; (Genesis 33:10): “For (כי) it is fitting and proper for you to accept my present, because (על כן) I have seen your face."
@@ -10855,7 +10855,7 @@ FROM THE CAMP — From the place where they encamped.
 [https://torahapp.org/share/book/Rashi%20on%20Numbers/r/22:23:1](https://torahapp.org/share/book/Rashi%20on%20Numbers/r/22:23:1)
 
 
-**ותרא האתון.** וְהוּא לֹא רָאָה שֶׁנָּתַן הַקָּבָּ"ה רְשׁוּת לַבְּהֵמָה לִרְאוֹת יוֹתֵר מִן הָאָדָם, שֶׁמִּתוֹךְ שֶׁיֵּשׁ בּוֹ דַּעַת, תִּטָּרֵף דַּעְתּוֹ כְּשֶׁיִּרְאֶה מַזִּיקִין:
+**ותרא האתון.** וְהוּא לֹא רָאָה שֶׁנָּתַן הַקָּבָּ"ה רְשׁוּת לַבְּהֵמָה לִרְאוֹת יוֹתֵר מִן הָאָדָם, שֶׁמִּתּוֹךְ שֶׁיֵּשׁ בּוֹ דַּעַת, תִּטָּרֵף דַּעְתּוֹ כְּשֶׁיִּרְאֶה מַזִּיקִין:
 
 
 ותרא האתון AND THE SHE-ASS SAW [THE ANGEL] — but he did not see him, for the Holy One, blessed be He, gave an animal power to see more than the man, for just because he possesses sense his mind would become perturbed if he sees noxious beings.
@@ -13444,7 +13444,7 @@ FROM THE CAMP — From the place where they encamped.
 [https://torahapp.org/share/book/Rashi%20on%20Numbers/r/27:18:1](https://torahapp.org/share/book/Rashi%20on%20Numbers/r/27:18:1)
 
 
-**קח לך.** קָחֶנּוּ בִּדְבָרִים — אַשְׁרֶךָ שֶׁזָּכִיתָ לְהַנְהִיג בָּנָיו שֶׁל מָקוֹם:
+**קח לך.** קָחֶנּוּ בִּדְבָרִים — אַשְׁרֶיךָ שֶׁזָּכִיתָ לְהַנְהִיג בָּנָיו שֶׁל מָקוֹם:
 
 
 קח לך TAKE TO THEE [JOSHUA] — take him through fine words, saying,“Fortunate are you that you have merited to lead the children of the Omnipresent!” (cf. Sifrei Bamidbar 92 on 11:16).

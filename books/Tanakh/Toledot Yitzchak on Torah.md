@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): Toledot Yitzchak, Warsaw 1877 (Segments: 839, License: Public Domain)
 
-Version (En): Publicado em 5784, Saymon Pires da Silva [pt] (Segments: 2)
+Version (En): Sefaria Community Translation (Segments: 2)
 
 
 ## Introduction

@@ -15350,7 +15350,7 @@ The Gemara asks: **Ultimately, what loss is there? But doesn’t** the bailee **
 [https://torahapp.org/share/book/Bava%20Metzia/r/43a:4](https://torahapp.org/share/book/Bava%20Metzia/r/43a:4)
 
 
-מוּתָּרִין יִשְׁתַּמֵּשׁ בָּהֶן כּוּ׳. אָמַר רַב הוּנָא: וַאֲפִילּוּ נֶאֶנְסוּ. וְהָא ״אָבְדוּ״ קָתָנֵי! כִּדְרַבָּה דְּאָמַר רַבָּה: ״נִגְנְבוּ״ – בְּלִסְטֵיס מְזוּיָּין, ״אָבְדוּ״ – שֶׁטָּבְעָה סְפִינָתוֹ בַּיָּם.
+מוּתָּרִין יִשְׁתַּמֵּשׁ בָּהֶן כּוּ׳. אָמַר רַב הוּנָא: וַאֲפִילּוּ נֶאֶנְסוּ. וְהָא ״אָבְדוּ״ קָתָנֵי! כִּדְרַבָּה. דְּאָמַר רַבָּה: ״נִגְנְבוּ״ – בְּלִסְטֵיס מְזוּיָּין, ״אָבְדוּ״ – שֶׁטָּבְעָה סְפִינָתוֹ בַּיָּם.
 
 
 § The mishna teaches that if the money is **unbound** the money changer **may use it,** and therefore he bears responsibility if it is lost. **Rav Huna says: And even if it was** taken from him under **circumstances beyond his control** he is liable to pay. The Gemara asks: **But isn’t it taught** in the mishna: **It is lost,** from which it may be inferred that only if the money was lost does he bear responsibility, but not if it was taken by force? The Gemara answers: This must be understood **in accordance with** that **which Rabba** stated in a different context, **as Rabba says: They were stolen;** this is referring to a case where the items were stolen by force **by armed bandits. They were lost;** this is referring to a case where **his ship sunk at sea.**

@@ -8215,7 +8215,7 @@ Adonoy heard Yisroel’s voice [**prayers**], and He delivered the Canaanites (i
 [https://torahapp.org/share/book/Onkelos%20Numbers/r/21:4](https://torahapp.org/share/book/Onkelos%20Numbers/r/21:4)
 
 
-וּנְטָלוּ מְהֹר טוּרָא אֹרַח יַמָּא דְסוּף לְאַקָּפָא יָת אַרְעָא דֶאֱדוֹם וַעֲקַת **נַפְשָׁא** דְעַמָּא בְּאוֹרְחָא:
+וּנְטָלוּ מֵהֹר טוּרָא אֹרַח יַמָּא דְסוּף לְאַקָּפָא יָת אַרְעָא דֶאֱדוֹם וַעֲקַת **נַפְשָׁא** דְעַמָּא בְּאוֹרְחָא:
 
 
 They then traveled from Mount Hor by the Reed Sea route, in order to circle around the land of Edom; traveling was insufferable to the [**soul of the**] people.
@@ -8435,7 +8435,7 @@ But Sichon did not allow Yisroel to pass through his territory; Sichon gathered 
 [https://torahapp.org/share/book/Onkelos%20Numbers/r/21:24](https://torahapp.org/share/book/Onkelos%20Numbers/r/21:24)
 
 
-וּמְחָהִי יִשְׂרָאֵל לְפִתְגַּם דְּחָרֶב וִירֵת יָת אַרְעֵיהּ מְאַרְנוֹנָא עַד יוּבְקָא עַד בְּנֵי עַמּוֹן אֲרֵי תַקִּיף תְּחוּמָא דִּבְנֵי עַמּוֹן:
+וּמְחָהִי יִשְׂרָאֵל לְפִתְגַּם דְּחָרֶב וִירֵת יָת אַרְעֵיהּ מֵאַרְנוֹנָא עַד יוּבְקָא עַד בְּנֵי עַמּוֹן אֲרֵי תַקִּיף תְּחוּמָא דִּבְנֵי עַמּוֹן:
 
 
 Yisroel defeated him with the edge of the sword and took possession of his land; from Arnon to the Yabok, as far as Amon[’s border], because Amon’s border was impregnable.
@@ -10078,7 +10078,7 @@ These are the families of Yehudah and they numbered seventy-six thousand and fiv
 [https://torahapp.org/share/book/Onkelos%20Numbers/r/26:23](https://torahapp.org/share/book/Onkelos%20Numbers/r/26:23)
 
 
-בְּנֵי יִשָׂשכָר לְזַרְעֲיַתְהוֹן תּוֹלָע זַרְעִית תּוֹלָע לְפֻוָּה זַרְעִית פּוּנִי:
+בְּנֵי יִשָׂשכָר לְזַרְעֲיַתְהוֹן תּוֹלָע זַרְעִית תּוֹלָע לְפֻוָּה זַרְעִית פֻּוָה:
 
 
 The descendants of Yissachar by their families are: The Tolaite family from Tola, the Punite family from Puva,

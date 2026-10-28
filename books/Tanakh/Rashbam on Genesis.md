@@ -16,7 +16,7 @@ Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://tor
 
 Version (He): daat (Segments: 797, License: Public Domain)
 
-Version (En): Eliyahu Munk, HaChut Hameshulash (Segments: 779)
+Version (En): Sefaria Community Translation (Segments: 779)
 
 
 ## Chapter 1
@@ -3912,7 +3912,7 @@ The word is derived from the root תלה, “to hang,” We find it used in this
 גם ברוך יהיה - שמיהר לעובדני וגם ידע שבעצת רבקה עשה הכל והיא הייתה מכרת בו שראוי לברכות.
 
 
-גם בראך יהיה. “Because he carried out my request so promptly.” Also, Yitzchok was aware that Yaakov had done what he did at the advice and request of Rivkah. Clearly, he reasoned, Rivkah had realised that Yaakov was entitled to this blessing.
+גם ברוך יהיה. “Because he carried out my request so promptly.” Also, Yitzchok was aware that Yaakov had done what he did at the advice and request of Rivkah. Clearly, he reasoned, Rivkah had realised that Yaakov was entitled to this blessing.
 
 
 

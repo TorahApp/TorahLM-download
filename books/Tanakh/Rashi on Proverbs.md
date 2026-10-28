@@ -265,7 +265,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/1:10:2](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/1:10:2)
 
 
-**אַל תָּבֹא.** אַל תֹּאבֶה לָהֶם:
+**אַל תֹּבֵא.** אַל תֹּאבֶה לָהֶם:
 
 
 **do not consent** Heb. אל תבא, do not consent to them.
@@ -970,7 +970,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/3:8:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/3:8:1)
 
 
-**רְפֻאוּת תְּהִי לְשָׁרֶּךָ.** הַחָכְמָה. **שָׁרֶּךָ** כְּמוֹ ״שָׁרְרֵךְ״ (שיר השירים ז:ג), וְזֶהוּ טִיבּוּרֶךָ:
+**רִפְאוּת תְּהִי לְשָׁרֶּךָ.** הַחָכְמָה. **שָׁרֶּךָ** כְּמוֹ ״שָׁרְרֵךְ״ (שיר השירים ז:ג), וְזֶהוּ טִיבּוּרֶךָ:
 
 
 **It shall be healing for your navel** Heb. לשרך. The wisdom shall be healing. שרך is like (Song 7:4): שררך, which means, your navel.
@@ -1578,7 +1578,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/4:10:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/4:10:1)
 
 
-**שְׁמַע בְּנִי וְקַח אֲמָרַי וְגוֹ׳**:
+**שמע בני וקח אמרי וגו':**
 
 
 
@@ -1631,7 +1631,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/4:15:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/4:15:1)
 
 
-**פָּרְעֵהוּ.** בַּטְּלֵהוּ:
+**פְּרָעֵהוּ.** בַּטְּלֵהוּ:
 
 
 **Avoid it** Heb. פרע, put it to naught.
@@ -1806,7 +1806,7 @@ Version (En): The Judaica Press complete Tanach with Rashi, translated by A. J. 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/4:25:2](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/4:25:2)
 
 
-**יַיְשִׁירוּ נֶגְדֶּךָ.** יִסְתַּכְּלוּ עַל הַיְשָׁרָה, לְיַשֵּׁר דַּרְכְּךָ נֶגְדֶּךָ:
+**יַיְשִׁרוּ נֶגְדֶּךָ.** יִסְתַּכְּלוּ עַל הַיְשָׁרָה, לְיַשֵּׁר דַּרְכְּךָ נֶגְדֶּךָ:
 
 
 **and let your eyelids look straight ahead of you** Let them look at what is upright, to straighten your way before you.
@@ -2432,7 +2432,7 @@ Another explanation: **[1] My son, if you stood surety for your Friend** After y
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/6:13:3](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/6:13:3)
 
 
-**וּמוֹרֶה בְּאֶצְבְּעוֹתָיו.** כֻּלָּם מִן לְשׁוֹן רְמָזִים הֵם, זֶה נוֹפֵל עַל הָעַיִן וְזֶה נוֹפֵל עַל הָרֶגֶל וְזֶה נוֹפֵל עַל הָאֶצְבַּע. וְהָעִקָּר – הוּא מְדַבֵּר עַל הָרְשָׁעִים הַמְּסִיתִין אֶת הַבְּרִיּוֹת לַעֲבוֹדָת גִּלּוּלִים:
+וּ**מֹרֶה בְּאֶצְבְּעוֹתָיו.** כֻּלָּם מִן לְשׁוֹן רְמָזִים הֵם, זֶה נוֹפֵל עַל הָעַיִן וְזֶה נוֹפֵל עַל הָרֶגֶל וְזֶה נוֹפֵל עַל הָאֶצְבַּע. וְהָעִקָּר – הוּא מְדַבֵּר עַל הָרְשָׁעִים הַמְּסִיתִין אֶת הַבְּרִיּוֹת לַעֲבוֹדָת גִּלּוּלִים:
 
 
 **points with his fingers** They are all expressions of hinting: one applies to the eye, one applies to the foot, and one applies to the finger, but the main idea is that it is speaking of the wicked.
@@ -2446,7 +2446,7 @@ Another explanation: **[1] My son, if you stood surety for your Friend** After y
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/6:14:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/6:14:1)
 
 
-**מְדָנִים יְשַׁלַּח.** בֵּין אָדָם לְבוֹרְאוֹ:
+**מִדְיָנִים יְשַׁלֵּחַ.** בֵּין אָדָם לְבוֹרְאוֹ:
 
 
 **he incites quarrels** between man and his Creator.
@@ -2766,7 +2766,7 @@ Another explanation: **[1] My son, if you stood surety for your Friend** After y
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/6:35:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/6:35:1)
 
 
-**לֹא יִשָּׂא.** פָּנִים, לְכָל מָמוֹן לְכַפֵּר עַל אֲשֶׁר כָּפַר בּוֹ וְנִדְבַּק בַּעֲבוֹדַת גִּלּוּלִים. וְרַבּוֹתֵינוּ דָּרְשׁוּ (תוספתא בבא קמא ז:ג): לֹא יָבוּזוּ לַגַּנָּב, זֶה הַמִּתְגַּנֵּב מֵאַחַר חֲבֵירוֹ הוֹלֵךְ לְבֵית הַמִּדְרָשׁ וְעוֹסֵק בַּתּוֹרָה, וְנִמְצָא יְשַׁלֵּם שִׁבְעָתַיִם, סוֹפוֹ שֶׁמִּתְמַנֶּה דַּיָּן וּמוֹרֶה הוֹרָאוֹת שֶׁאֵין שִׁבְעָתַיִם אֶלָּא תּוֹרָה שֶׁנֶּאֱמַר ״מְזֻקָּק שִׁבְעָתָיִם״ (תהלים יב:ז):
+**לֹא יִשָּׂא.** פָּנִים, לְכָל מָמוֹן לְכַפֵּר עַל אֲשֶׁר כָּפַר בּוֹ וְנִדְבַּק בַּעֲבוֹדַת גִּלּוּלִים. וְרַבּוֹתֵינוּ דָּרְשׁוּ (תוספתא בבא קמא ז:יג): לֹא יָבוּזוּ לַגַּנָּב, זֶה הַמִּתְגַּנֵּב מֵאַחַר חֲבֵירוֹ הוֹלֵךְ לְבֵית הַמִּדְרָשׁ וְעוֹסֵק בַּתּוֹרָה, וְנִמְצָא יְשַׁלֵּם שִׁבְעָתַיִם, סוֹפוֹ שֶׁמִּתְמַנֶּה דַּיָּן וּמוֹרֶה הוֹרָאוֹת שֶׁאֵין שִׁבְעָתַיִם אֶלָּא תּוֹרָה שֶׁנֶּאֱמַר ״מְזֻקָּק שִׁבְעָתָיִם״ (תהלים יב:ז):
 
 
 **He will not have regard** for any money to expiate for his denial of Him and his cleaving to idolatry. And our Rabbis expounded (Tosefta Baba Kamma 7:3): They will not despise a thief—This is one who steals away from his friend and goes to the study hall and engages in Torah. If he is found, he will pay sevenfold. [The intention is that] eventually, he will be appointed as a judge, and he will render legal decisions, for “sevenfold” refers only to the Torah, as it is said (Ps. 12:7): “refined sevenfold.”
@@ -2783,7 +2783,7 @@ Another explanation: **[1] My son, if you stood surety for your Friend** After y
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/7:1:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/7:1:1)
 
 
-**בְּנִי שְׁמֹר אֲמָרַי וּמִצְוֹתַי**:
+**בני שמור אמרי ומצותי:**
 
 
 
@@ -3265,7 +3265,7 @@ Another explanation: **[1] My son, if you stood surety for your Friend** After y
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/8:17:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/8:17:1)
 
 
-**אֹהַב.** כְּמוֹ אֶאֱהַב:
+**אֵהַב.** כְּמוֹ אֶאֱהַב:
 
 
 **I will love those who love me** Heb. אהבי. [This is the reading.] The text is written: אוהביה, those who love her. Said the Holy One, blessed be He: “I will love those who love the Torah.” I heard this from Rabbi Aaron in the name of Rabbi Nathan.
@@ -3276,7 +3276,7 @@ Another explanation: **[1] My son, if you stood surety for your Friend** After y
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/8:17:2](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/8:17:2)
 
 
-**אֹהֲבַי.** אֹהֲבֶיהָ כְּתִיב, אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא: אֲנִי **אֹהֲבֶיהָ** שֶׁל תּוֹרָה **אֹהָב.** זוֹ שָׁמַעְתִּי מֵרַבִּי אַהֲרֹן, בְּשֵׁם רַבִּי נָתָן:
+**אֹהֲבַי.** אֹהֲבֶיהָ כְּתִיב, אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא: אֲנִי **אֹהֲבֶיהָ** שֶׁל תּוֹרָה **אֵהָב.** זוֹ שָׁמַעְתִּי מֵרַבִּי אַהֲרֹן, בְּשֵׁם רַבִּי נָתָן:
 
 
 **I will love** Heb. אהב, like אאהב.
@@ -3789,7 +3789,7 @@ Another explanation: **[1] My son, if you stood surety for your Friend** After y
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/10:1:2](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/10:1:2)
 
 
-**וּבֶן כְּסִיל תּוּגַת אִמּוֹ.** תָּמִיד הוּא עִם אִמּוֹ בַּבַּיִת, וְרוֹאָה אֶת שְׁטוּתוֹ וּמְצֵרָה. וּלְפִי הַמָּשָׁל: **בֵּן כְּסִיל** כְּמוֹ יָרָבְעָם בֶּן נְבָט (ברכות לה:):
+**וּבֵן כְּסִיל תּוּגַת אִמּוֹ.** תָּמִיד הוּא עִם אִמּוֹ בַּבַּיִת, וְרוֹאָה אֶת שְׁטוּתוֹ וּמְצֵרָה. וּלְפִי הַמָּשָׁל: **בֵּן כְּסִיל** כְּמוֹ יָרָבְעָם בֶּן נְבָט (ברכות לה:):
 
 
 **but a foolish son is the grief of his mother** He is always with his mother at home, and she sees his foolishness and is troubled. And according to the allegory, a foolish son, like Jeroboam the son of Nebat,
@@ -3853,7 +3853,7 @@ Another explanation: **[1] My son, if you stood surety for your Friend** After y
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/10:4:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/10:4:1)
 
 
-**רֹאשׁ עֹשֶׂה כַף רְמִיָּה.** מִי שֶׁעָנִי בַּתּוֹרָה, מוֹרֶה הוֹרָאוֹת שֶׁקֶר:
+**רָאשׁ עֹשֶׂה כַף רְמִיָּה.** מִי שֶׁעָנִי בַּתּוֹרָה, מוֹרֶה הוֹרָאוֹת שֶׁקֶר:
 
 
 **A poor man makes a deceitful scale** Whoever is impoverished in [his knowledge of] Torah promulgates false decisions.
@@ -3875,7 +3875,7 @@ Another explanation: **[1] My son, if you stood surety for your Friend** After y
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/10:4:3](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/10:4:3)
 
 
-**וְיַד חֲרוּצִים.** יְשָׁרִים, שֶׁחוֹרְצִים דָּבָר בַּאֲמִתּוֹ וּמִשְׁפָּטוֹ בְּלֹא עַוְלָה:
+**וְיַד חָרוּצִים.** יְשָׁרִים, שֶׁחוֹרְצִים דָּבָר בַּאֲמִתּוֹ וּמִשְׁפָּטוֹ בְּלֹא עַוְלָה:
 
 
 **and the hand of those who make true decisions** The upright, who decide a matter truly and justly without injustice.
@@ -3928,7 +3928,7 @@ Another explanation: **[1] My son, if you stood surety for your Friend** After y
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/10:8:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/10:8:1)
 
 
-**חֲכַם לֵב יִקַּח מִצְוֹת.** מֹשֶׁה רַבֵּינוּ, שֶׁכָּל יִשְׂרָאֵל הָיוּ עוֹסְקִין בְּבִזַּת מִצְרַיִם, וְהוּא הָיָה עוֹסֵק בְּמִצְוֹת, שֶׁנֶּאֱמַר ״וַיִּקַּח מֹשֶׁה אֶת עַצְמוֹת יוֹסֵף וְגוֹ׳״ (שמות יג:יט):
+**חֲכַם לֵב יִקַּח מִצְוֺת.** מֹשֶׁה רַבֵּינוּ, שֶׁכָּל יִשְׂרָאֵל הָיוּ עוֹסְקִין בְּבִזַּת מִצְרַיִם, וְהוּא הָיָה עוֹסֵק בְּמִצְוֹת, שֶׁנֶּאֱמַר ״וַיִּקַּח מֹשֶׁה אֶת עַצְמוֹת יוֹסֵף וְגוֹ׳״ (שמות יג:יט):
 
 
 **The wise-hearted takes commandments** This alludes to our teacher, Moses, for all Israel were busy with the plunder of Egypt, and he was busy with the commandments, as is it said (Exod. 13:19): “And Moses took Joseph’s bones, etc.”
@@ -4106,7 +4106,7 @@ Another explanation: **[1] My son, if you stood surety for your Friend** After y
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/10:16:2](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/10:16:2)
 
 
-**וּתְבוּאַת רָשָׁע.** תְּבוּאָתוֹ (ס״א: הֲבָאָתוֹ) שֶׁל מְנַשֶּׁה (דברי הימים ב לג:ז), שֶׁהִכְנִיס בּוֹ הַסֶּמֶל, הִיא הָיְתָה לְחַטָּאת:
+וּ**תְּבוּאַת רָשָׁע.** תְּבוּאָתוֹ (ס״א: הֲבָאָתוֹ) שֶׁל מְנַשֶּׁה (דברי הימים ב לג:ז), שֶׁהִכְנִיס בּוֹ הַסֶּמֶל, הִיא הָיְתָה לְחַטָּאת:
 
 
 **what the wicked bring in** What Manasseh brought in, for he brought in the image—that was for sin.
@@ -4605,7 +4605,7 @@ Another explanation: **[1] My son, if you stood surety for your Friend** After y
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/11:17:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/11:17:1)
 
 
-**גּוֹמֵל נַפְשׁוֹ.** גּוֹמֵל טוֹבָה לִקְרוֹבָיו. **אִישׁ חֶסֶד** אִישׁ שֶׁהוּא חָסִיד:
+**גּוֹמֵל נַפְשׁוֹ.** גּוֹמֵל טוֹבָה לִקְרוֹבָיו. **אִישׁ חָסֶד** אִישׁ שֶׁהוּא חָסִיד:
 
 
 **does himself good** He does good to his kin. **A kind man** lit. a man of kindness, a man who is kind.
@@ -4641,7 +4641,7 @@ Another explanation: **[1] My son, if you stood surety for your Friend** After y
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/11:18:2](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/11:18:2)
 
 
-**וְזוֹרֵעַ צְדָקָה שְׂכַר אֱמֶת.** וְהַזּוֹרֵעַ צְדָקָה הִיא פְּעֻלָּה שֶׁל אֱמֶת, כִּי בְּוַדַּאי בָּטוּחַ הוּא שֶׁיְּקַבֵּל פָּעֳלוֹ בַּסּוֹף:
+**וְזוֹרֵעַ צְדָקָה שֶׂכֶר אֱמֶת.** וְהַזּוֹרֵעַ צְדָקָה הִיא פְּעֻלָּה שֶׁל אֱמֶת, כִּי בְּוַדַּאי בָּטוּחַ הוּא שֶׁיְּקַבֵּל פָּעֳלוֹ בַּסּוֹף:
 
 
 **but he who sows charity [receives] a true reward** But he who sows charity, it is a wage of truth, for he is surely confident that he will receive his wage at the end.
@@ -4652,7 +4652,7 @@ Another explanation: **[1] My son, if you stood surety for your Friend** After y
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/11:18:3](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/11:18:3)
 
 
-**שָׂכָר.** קְרוֹנִיאָ״ל בְּלַעַ״ז, כְּאָדָם הַסּוֹכֵר אַמַּת הַמַּיִם כְּדֵי לִלְקוֹט דָּגִים, וּבָטוּחַ שֶׁיִּמְצָא שָׁם דָּגִים הַרְבֵּה. וְדוֹמֶה לוֹ ״כָּל עֹשֵׂי שֶׂכֶר אַגְמֵי נָפֶשׁ״ (ישעיהו יט:י):
+**שֶׂכֶר.** קְרוֹנִיאָ״ל בְּלַעַ״ז, כְּאָדָם הַסּוֹכֵר אַמַּת הַמַּיִם כְּדֵי לִלְקוֹט דָּגִים, וּבָטוּחַ שֶׁיִּמְצָא שָׁם דָּגִים הַרְבֵּה. וְדוֹמֶה לוֹ ״כָּל עֹשֵׂי שֶׂכֶר אַגְמֵי נָפֶשׁ״ (ישעיהו יט:י):
 
 
 שכר cornial in Old French. [This appears to mean a weir in several dialects; i.e., a fence placed in the water to catch fish.] Manuscripts of Rashi yield: eclusse or esklusa, which is e’cluse [in modern French]; in German wasserschleuse, a lock or a sluice gate). Like a man who locks a canal in order to gather fish, and he is confident that he will find many fish there. A similar instance is (Isa. 19:10): “all who make dams (שכר) for still ponds.”
@@ -5298,7 +5298,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/12:24:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/12:24:1)
 
 
-**יַד חֲרוּצִים.** יְשָׁרִים:
+**יַד חָרֻצִים.** יְשָׁרִים:
 
 
 **The hand of the diligent** The upright.
@@ -5523,7 +5523,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/13:4:2](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/13:4:2)
 
 
-**וְנֶפֶשׁ חֲרֻצִים תְּדֻשָּׁן:** יְשָׁרִים הָאוֹכְלִים יְגִיעַ כַּפֵּיהֶם. זֶהוּ מַשְׁמָעוֹ לְפִי פְּשׁוּטוֹ. וּלְפִי מְשָׁלוֹ: לֶעָתִיד יִרְאֶה בִּכְבוֹד תַּלְמִידֵי חֲכָמִים וְיִתְאַוֶּה, וְלֹא יַשִּׂיג לוֹ:
+**וְנֶפֶשׁ חָרֻצִים תְּדֻשָּׁן:** יְשָׁרִים הָאוֹכְלִים יְגִיעַ כַּפֵּיהֶם. זֶהוּ מַשְׁמָעוֹ לְפִי פְּשׁוּטוֹ. וּלְפִי מְשָׁלוֹ: לֶעָתִיד יִרְאֶה בִּכְבוֹד תַּלְמִידֵי חֲכָמִים וְיִתְאַוֶּה, וְלֹא יַשִּׂיג לוֹ:
 
 
 **but the soul of the diligent shall be sated** The upright who eat from the toil of their hands. This is its meaning according to its simple interpretation. According to its allegorical meaning, in the future he will see the glory of the Torah scholar and long for it, but he will not achieve it.
@@ -5832,7 +5832,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/13:19:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/13:19:1)
 
 
-**תֶּעֱרַב לַנֶּפֶשׁ.** כְּשֶׁבָּאָה תַּאֲוָתוֹ לוֹ לָאָדָם, הִיא עֲרֵבָה לְנַפְשׁוֹ; וּלְכָךְ תּוֹעֲבַת כְּסִיל לָסוּר מֵרָע, לְפִי שֶׁעָרֵב לָהֶם לְמַלֵּא תַּאֲוָתָם:
+**תֶּעֱרַב לְנָפֶשׁ.** כְּשֶׁבָּאָה תַּאֲוָתוֹ לוֹ לָאָדָם, הִיא עֲרֵבָה לְנַפְשׁוֹ; וּלְכָךְ תּוֹעֲבַת כְּסִיל לָסוּר מֵרָע, לְפִי שֶׁעָרֵב לָהֶם לְמַלֵּא תַּאֲוָתָם:
 
 
 **pleases the soul** When a person’s desire comes to him it pleases his soul. Therefore, it is an abomination to a fool to turn away from evil because it pleases him to gratify his desire.
@@ -5988,7 +5988,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/14:1:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/14:1:1)
 
 
-**חָכְמוֹת נָשִׁים בָּנְתָה בֵיתָהּ.** חָכְמוֹת נָקוּד פַּתָּח, שֶׁאֵינוֹ שֵׁם דָּבָר, אֶלָּא הַחֲכָמוֹת שֶׁבַּנָּשִׁים בּוֹנוֹת אֶת בָּתֵּיהֶם – שֶׁמִּתְקַיְּמוֹת עַל יְדֵיהֶן; כְּמוֹ אִשְׁתּוֹ שֶׁל אוֹן בֶּן פֶּלֶת, כְּמוֹ שֶׁמְּפֹרָשׁ בְּפֶרֶק ׳חֵלֶק׳ (סנהדרין קט:-קי.):
+**חַכְמוֹת נָשִׁים בָּנְתָה בֵיתָהּ.** חָכְמוֹת נָקוּד פַּתָּח, שֶׁאֵינוֹ שֵׁם דָּבָר, אֶלָּא הַחֲכָמוֹת שֶׁבַּנָּשִׁים בּוֹנוֹת אֶת בָּתֵּיהֶם – שֶׁמִּתְקַיְּמוֹת עַל יְדֵיהֶן; כְּמוֹ אִשְׁתּוֹ שֶׁל אוֹן בֶּן פֶּלֶת, כְּמוֹ שֶׁמְּפֹרָשׁ בְּפֶרֶק ׳חֵלֶק׳ (סנהדרין קט:-קי.):
 
 
 **The wisest of women** Heb. חכמות, vowelized with a “patach,” is not a noun, but [it means that] the wisest of women build their houses, for they are preserved by them, like the wife of On the son of Peleth, as is explained in the chapter entitled “Chelek.”
@@ -6024,7 +6024,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/14:2:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/14:2:1)
 
 
-**הוֹלֵךְ בְּיָשְׁרוֹ יָרֵא.** מִי שֶׁהוּא יְרֵא ה׳, וּמִי שֶׁהוּא נְלוֹז דְּרָכִים, כְּלוֹמַר: עוֹקֵם דְּרָכָיו:
+**הוֹלֵךְ בְּיָשְׁרוֹ יְרֵא.** מִי שֶׁהוּא יְרֵא ה׳, וּמִי שֶׁהוּא נְלוֹז דְּרָכִים, כְּלוֹמַר: עוֹקֵם דְּרָכָיו:
 
 
 **He who fears the Lord goes in his uprightness** Heb. ירא ה', he who fears the Lord, and he who is crooked in his ways...
@@ -6113,7 +6113,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/14:6:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/14:6:1)
 
 
-**בִּקֵּשׁ לֵץ חָכְמָה.** כְּשֶׁהוּא צָרִיךְ אֶל הַחָכְמָה אֵינוֹ מוֹצְאָהּ בְּלִבּוֹ:
+**בִּקֶּשׁ לֵץ חָכְמָה.** כְּשֶׁהוּא צָרִיךְ אֶל הַחָכְמָה אֵינוֹ מוֹצְאָהּ בְּלִבּוֹ:
 
 
 **The scorner sought wisdom** When he needs wisdom, he does not find it in his heart.
@@ -6280,7 +6280,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/14:15:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/14:15:1)
 
 
-**פֶּתִי יַאֲמִין.** לְדִבְרֵיהֶם וְנִסָּת אַחֲרֵיהֶם. דָּבָר אַחֵר: **בִּשְׂחוֹק יִכְאַב לֵב,** ״שְׂחוֹק לִכְסִיל עֲשׂוֹת זִמָּה״ (משלי י:כג), וְסוֹפוֹ **יִכְאַב לֵב**. **סוּג לֵב** – רָשָׁע, כְּמוֹ ״כֶּסֶף סִיגִים״ (משלי כו:כג). סוּג הוּא שֵׁם הַפְּסֹלֶת, סוּג הוּא הַכֶּסֶף הַמְעֻרְבָּב בַּפְּסֹלֶת:
+**פֶּתִי יַאֲמִין.** לְדִבְרֵיהֶם וְנִסָּת אַחֲרֵיהֶם. דָּבָר אַחֵר: **בִּשְׂחוֹק יִכְאַב לֵב,** ״שְׂחוֹק לִכְסִיל עֲשׂוֹת זִמָּה״ (משלי י:כג), וְסוֹפוֹ **יִכְאַב לֵב.** **סוּג לֵב** – רָשָׁע, כְּמוֹ ״כֶּסֶף סִיגִים״ (משלי כו:כג). סוּג הוּא שֵׁם הַפְּסֹלֶת, סוּג הוּא הַכֶּסֶף הַמְעֻרְבָּב בַּפְּסֹלֶת:
 
 
 **A fool believes** their words and is enticed after them. Another explanation: **with laughter the heart aches** It is sport for a fool to carry out a sinful plot (above 10:23), and ultimately, his heart will ache. The one with an impure heart is a wicked man, as in (below 26:23) “Impure (סיגים) silver.” סיג is the name of the dross. סוג is the silver mixed with the dross.
@@ -6513,7 +6513,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/14:26:3](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/14:26:3)
 
 
-**מַחֲסֶה.** שֶׁיֵּחָסוּ וְיִתְחַבֵּא בְּצֵל זְכוּתוֹ:
+**מַחְסֶה.** שֶׁיֵּחָסוּ וְיִתְחַבֵּא בְּצֵל זְכוּתוֹ:
 
 
 **a shelter** For they will take shelter and hide in the shadow of his merit.
@@ -6936,7 +6936,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/15:19:2](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/15:19:2)
 
 
-**מְשׂוּכַת.** גָּדֵר, כְּמוֹ ״הָסֵר מְשׂוּכָתוֹ״ (ישעיה ה:ה). **חֵדֶק** – קוֹצִים:
+**מְשׂוּכַת.** גָּדֵר, כְּמוֹ ״הָסֵר מְשׂוּכָתוֹ״ (ישעיה ה:ה). **חָדֶק** – קוֹצִים:
 
 
 **like a hedge of** Heb. כמשכת. A fence, as in (Isa. 5:5): “I will remove its hedge (משוכתו).”
@@ -7727,7 +7727,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/17:2:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/17:2:1)
 
 
-**עֶבֶד מַשְׂכִּיל וְגוֹ׳.** עַל שֶׁהִשְׂכִּיל נְבוּכַדְנֶצַּר לִפְסֹעַ שָׁלֹשׁ פְּסִיעוֹת לִכְבוֹדוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא, עָלָה לִגְדֻלָּה וּמָשַׁל בְּיִשְׂרָאֵל, שֶׁהוֹבִישׁוּ מַעֲשֵׂיהֶם **וְחָלַק נַחֲלָתָם לְעֵינֵיהֶם.** דָּבָר אַחֵר: גֵּר צֶדֶק טוֹב מֵאֶזְרָח רָשָׁע, וְלֶעָתִיד לָבוֹא יְחַלֵּק שָׁלָל וְנַחֲלָה בְּתוֹךְ בְּנֵי יִשְׂרָאֵל, שֶׁנֶּאֱמַר ״וְהָיָה בַשֵּׁבֶט אֲשֶׁר גָּר הַגֵּר וְגוֹ׳״ (יחזקאל מז:כג):
+**עֶבֶד מַשְׂכִּיל וְגוֹ׳.** עַל שֶׁהִשְׂכִּיל נְבוּכַדְנֶצַּר לִפְסֹעַ שָׁלֹשׁ פְּסִיעוֹת לִכְבוֹדוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא, עָלָה לִגְדֻלָּה וּמָשַׁל בְּיִשְׂרָאֵל, שֶׁהוֹבִישׁוּ מַעֲשֵׂיהֶם וְחָלַק נַחֲלָתָם לְעֵינֵיהֶם. דָּבָר אַחֵר: גֵּר צֶדֶק טוֹב מֵאֶזְרָח רָשָׁע, וְלֶעָתִיד לָבוֹא יְחַלֵּק שָׁלָל וְנַחֲלָה בְּתוֹךְ בְּנֵי יִשְׂרָאֵל, שֶׁנֶּאֱמַר ״וְהָיָה בַשֵּׁבֶט אֲשֶׁר גָּר הַגֵּר וְגוֹ׳״ (יחזקאל מז:כג):
 
 
 **An intelligent slave, etc.** Because Nebuchadnezzar was wise enough to take three steps in honor of the Holy One, blessed be He, he achieved greatness and ruled over Israel, who performed disgraceful deeds, and he divided their inheritance before their eyes. Another explanation: A righteous proselyte is better than a wicked person who was home born, and in the future, he will share the spoils and the inheritance among the children of Israel, as it is said (Ezek. 47:23): “And it shall be, in whatever tribe the stranger will live, etc.”
@@ -7799,7 +7799,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/17:4:3](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/17:4:3)
 
 
-**מֵזִין.** מַאֲזִין, מִי שֶׁהוּא מְשַׁקֵּר מַאֲזִין **עַל לְשׁוֹן הַוּוֹת**:
+**מֵזִין.** מַאֲזִין, מִי שֶׁהוּא מְשַׁקֵּר מַאֲזִין **עַל לְשׁוֹן הַוֺּת**:
 
 
 **lends an ear** Heb. מזין like מאזין He who lies lends an ear to destructive speech.
@@ -7924,7 +7924,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/17:10:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/17:10:1)
 
 
-**תַּחַת גְּעָרָה בְמֵבִין.** תַּחַת זוֹ טַעֲמוֹ לְמַעְלָה בַּתָּי״ו, מַה שֶּׁאֵין כֵּן בְּכָל הַמִּקְרָא, לְכָךְ אֲנִי אוֹמֵר שֶׁהִיא שֵׁם דָּבָר כְּמוֹ ״חִתַּת״ (בראשית לה:ה), וְכֵן פֵּרוּשׁוֹ: הַכְנָעַת גְּעָרָה נִכֶּרֶת בְּמֵבִין יוֹתֵר מִמֵּאָה מַכּוֹת שֶׁמַּכִּין אֶת הַכְּסִיל:
+**תֵּחַת גְּעָרָה בְמֵבִין.** תַּחַת זוֹ טַעֲמוֹ לְמַעְלָה בַּתָּי״ו, מַה שֶּׁאֵין כֵּן בְּכָל הַמִּקְרָא, לְכָךְ אֲנִי אוֹמֵר שֶׁהִיא שֵׁם דָּבָר כְּמוֹ ״חִתַּת״ (בראשית לה:ה), וְכֵן פֵּרוּשׁוֹ: הַכְנָעַת גְּעָרָה נִכֶּרֶת בְּמֵבִין יוֹתֵר מִמֵּאָה מַכּוֹת שֶׁמַּכִּין אֶת הַכְּסִיל:
 
 
 **The humility caused by the rebuke of an understanding person** Heb. תחת. The accent in the word תחת is above on the “tav,” unlike the rest of the Scriptures. Therefore, I say that it is a noun, like תחת and its explanation is as follows. The humility caused by a rebuke is recognizable in an understanding person more than one hundred blows that they strike the fool.
@@ -8191,7 +8191,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/17:26:2](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/17:26:2)
 
 
-**לְהַכּוֹת נְדִיבִים עֲלֵי יֹשֶׁר.** לְהַכּוֹת הַטּוֹבִים שֶׁבָּהֶם שֶׁהָיוּ נְדִיבִים עֲלֵי יֹשֶׁר, שֶׁנֶּאֱמַר: ״וְהִשְׁאַרְתִּי בְיִשְׂרָאֵל שִׁבְעַת אֲלָפִים כָּל הַבִּרְכַּיִם אֲשֶׁר לֹא כָרְעוּ לַבַּעַל״ (מלכים א יט:יח):
+**לְהַכּוֹת נְדִיבִים עַל יֹשֶׁר.** לְהַכּוֹת הַטּוֹבִים שֶׁבָּהֶם שֶׁהָיוּ נְדִיבִים עֲלֵי יֹשֶׁר, שֶׁנֶּאֱמַר: ״וְהִשְׁאַרְתִּי בְיִשְׂרָאֵל שִׁבְעַת אֲלָפִים כָּל הַבִּרְכַּיִם אֲשֶׁר לֹא כָרְעוּ לַבַּעַל״ (מלכים א יט:יח):
 
 
 **to strike the generous who possess uprightness** To strike the good people among them, who were generous and possessing uprightness, as it is said (I Kings 19:18): “And I will leave over in Israel seven thousand—all the knees that did not kneel to the Baal.”
@@ -8202,7 +8202,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/17:26:3](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/17:26:3)
 
 
-**נְדִיבִים עֲלֵי יֹשֶׁר.** דֻּגְמַת הָאָמוּר בְּמָקוֹם אַחֵר ״וְנָדִיב נְדִיבוֹת יָעָץ וְהוּא עַל נְדִיבוֹת יָקוּם״ (ישעיהו לב:ח), נִמְצָא ״נָדִיב״ עַל ״נְדִיבוֹת״:
+**נְדִיבִים עַל יֹשֶׁר.** דֻּגְמַת הָאָמוּר בְּמָקוֹם אַחֵר ״וְנָדִיב נְדִיבוֹת יָעָץ וְהוּא עַל נְדִיבוֹת יָקוּם״ (ישעיהו לב:ח), נִמְצָא ״נָדִיב״ עַל ״נְדִיבוֹת״:
 
 
 **the generous who possess uprightness** Heb. נדיבים עלי ישר, an analogy of what is stated elsewhere (Isa. 32:8): “But the generous person plans generous deeds, and he, because of generous deeds, shall stand.” We find “a generous man because of generous deeds.”
@@ -8453,7 +8453,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/18:16:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/18:16:1)
 
 
-**מַתַּן אָדָם יַרְחִיב.** כִּפְשׁוּטוֹ, וּמִדְרָשׁוֹ (במדבר רבה יג:יז): בְּנוֹתְנֵי צְדָקָה מְדַבֵּר, שֶׁ**מַּרְחִיב לוֹ** חֶלְקוֹ לֶעָתִיד לָבוֹא, וְגַם בְּחַיָּיו **לִפְנֵי גְדוֹלִים יַנְחֶנּוּ**, וְאוֹמְרִים עָלָיו שֶׁהוּא חָשׁוּב:
+**מַתָּן אָדָם יַרְחִיב.** כִּפְשׁוּטוֹ, וּמִדְרָשׁוֹ (במדבר רבה יג:יז): בְּנוֹתְנֵי צְדָקָה מְדַבֵּר, שֶׁ**מַּרְחִיב לוֹ** חֶלְקוֹ לֶעָתִיד לָבוֹא, וְגַם בְּחַיָּיו **לִפְנֵי גְדוֹלִים יַנְחֶנּוּ**, וְאוֹמְרִים עָלָיו שֶׁהוּא חָשׁוּב:
 
 
 **A man’s gift will make room** [This is to be understood] according to its simple meaning, but, according to its midrashic interpretation, it deals with those who give (sic) charity, which widens his share in the future world, as well as during his lifetime, and it will lead him before the great, who say that he is esteemed.
@@ -8545,7 +8545,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/18:23:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/18:23:1)
 
 
-**תַּחֲנוּנִים יְדַבֵּר רָשׁ.** דֶּרֶךְ זֶה בְּכָךְ וְדֶרֶךְ זֶה בְּכָךְ; לִמֶּדְךָ דֶּרֶךְ אֶרֶץ, שֶׁאַף עַל פִּי **שֶׁעָשִׁיר יַעֲנֶה עַזּוֹת**, **הָרָשׁ יְדַבֵּר תַּחֲנוּנִים.** וְכֵן הָעִנְיָן הָרַב לַתַּלְמִיד:
+**תַּחֲנוּנִים יְדַבֶּר רָשׁ.** דֶּרֶךְ זֶה בְּכָךְ וְדֶרֶךְ זֶה בְּכָךְ; לִמֶּדְךָ דֶּרֶךְ אֶרֶץ, שֶׁאַף עַל פִּי **שֶׁעָשִׁיר יַעֲנֶה עַזּוֹת**, **הָרָשׁ יְדַבֵּר תַּחֲנוּנִים.** וְכֵן הָעִנְיָן הָרַב לַתַּלְמִיד:
 
 
 **A poor man speaks with supplications** This one is accustomed to [speak] in this manner, and that one is accustomed to [speak] in that manner. He teaches you a rule of conduct; that although the rich man answers with impudence, the poor man should speak with supplications, and so is the matter of a teacher to a pupil.
@@ -8835,7 +8835,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/19:19:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/19:19:1)
 
 
-**גְּדָָל חֵמָה נֹשֵׂא עֹנֶשׁ וְגוֹ׳.** אִם תַּעֲבִיר עַל חֲמָתְךָ וְתַצִּיל אֶת שׂוֹנַאֲךָ אִם רָאִיתָ רָעָה בָּאָה לוֹ, **עוֹד תּוֹסִיף** יָמִים וְטוֹבָה:
+**גְּדׇל חֵמָה נֹשֵׂא עֹנֶשׁ וְגוֹ׳.** אִם תַּעֲבִיר עַל חֲמָתְךָ וְתַצִּיל אֶת שׂוֹנַאֲךָ אִם רָאִיתָ רָעָה בָּאָה לוֹ, **עוֹד תּוֹסִיף** יָמִים וְטוֹבָה:
 
 
 **A hot-tempered man incurs punishment, etc.** But if you pass over your anger and save your enemy if you see harm coming to him, you will yet increase your days and have much goodness.
@@ -8874,7 +8874,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/19:23:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/19:23:1)
 
 
-**וְשָׂבֵעַ יָלִין.** הַיָּרֵא אֶת הַשֵּׁם, שֶׁלֹּא **יִפָּקֵד** בְּשׁוּם רָעָה:
+**וְשָׂבֵעַ יָלִין.** הַיָּרֵא אֶת הַשֵּׁם, שֶׁלֹּא יִפָּקֶד בְּשׁוּם רָעָה:
 
 
 **and he will rest satisfied** He who fears the Lord will rest, satisfied that he will not be visited by any evil.
@@ -8916,7 +8916,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/19:26:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/19:26:1)
 
 
-**מְשַׁדֵּד אָב יַבְרִיחַ אֵם.** מַבְרִיחַ אֵם:
+**מְשַׁדֶּד אָב יַבְרִיחַ אֵם.** מַבְרִיחַ אֵם:
 
 
 **A son who causes shame and disgrace robs his father, puts his mother to flight** Heb. יבריח, puts his mother to flight.
@@ -8941,7 +8941,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/19:27:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/19:27:1)
 
 
-**חֲדַל בְּנִי לִשְׁמֹעַ וְגוֹ׳.** מִקְרָא קָצָר הוּא וְזֶהוּ פֵּרוּשׁוֹ: **חֲדַל בְּנִי לִשְׁגּוֹת מֵאִמְרֵי דַעַת** בִּשְׁבִיל **לִשְׁמֹעַ מוּסָר**:
+**חֲדַל בְּנִי לִשְׁמֹעַ וְגוֹ׳.** מִקְרָא קָצָר הוּא וְזֶהוּ פֵּרוּשׁוֹ: **חֲדַל בְּנִי לִשְׁגּוֹת מֵאִמְרֵי דָעַת** בִּשְׁבִיל **לִשְׁמֹעַ מוּסָר**:
 
 
 **My son, cease to stray, etc.** This is an elliptical verse, and this is its explanation: My son, cease to stray from words of knowledge in order to hear discipline.
@@ -9551,7 +9551,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/21:11:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/21:11:1)
 
 
-**בַּעֲנֹשׁ לֵץ יֶחְכַּם פֶּתִי.** עַל יְדֵי יִסּוּרֵי הַלֵּצִים הַפְּתָאִים מִתְחַכְּמִים וְשָׁבִים בִּתְשׁוּבָה:
+**בַּעֲנׇשׁ לֵץ יֶחְכַּם פֶּתִי.** עַל יְדֵי יִסּוּרֵי הַלֵּצִים הַפְּתָאִים מִתְחַכְּמִים וְשָׁבִים בִּתְשׁוּבָה:
 
 
 **When a scorner is punished, a fool gains wisdom** Through the chastisements of scorners, fools gain wisdom and return [to God] in repentance.
@@ -9590,7 +9590,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/21:14:2](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/21:14:2)
 
 
-**וְשֹׁחַד בַּחֵק.** אַף זוֹ צְדָקָה. **יִכְפֶּה אַף**, יִכְפֶּה **חֵמָה עַזָּה**:
+**וְשֹׁחַד בַּחֵק.** אַף זוֹ צְדָקָה. **יִכְפֶּה אָף**, יִכְפֶּה **חֵמָה עַזָּה**:
 
 
 **and a bribe in the pocket** This too refers to charity. It will appease even strong wrath.
@@ -10003,7 +10003,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/22:11:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/22:11:1)
 
 
-**אוֹהֵב טְהַר לֵב חֵן שְׂפָתָיו.** מִי שֶׁשְּׂפָתָיו חֵן:
+**אוֹהֵב טְהׇר לֵב חֵן שְׂפָתָיו.** מִי שֶׁשְּׂפָתָיו חֵן:
 
 
 **He who loves one pure of heart with charm on his lips** One whose lips have grace.
@@ -10103,7 +10103,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/22:17:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/22:17:1)
 
 
-**הַט אָזְנְךָ שְׁמַע דִּבְרֵי חֲכָמִים.** לִלְמוֹד תּוֹרָה מֵחָכָם כָּל שֶׁהוּא:
+**הַט אָזְנְךָ וּשְׁמַע דִּבְרֵי חֲכָמִים.** לִלְמוֹד תּוֹרָה מֵחָכָם כָּל שֶׁהוּא:
 
 
 **Incline your ear and hearken to the words of the wise** to learn the Torah from a sage of any stature.
@@ -10170,7 +10170,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/22:21:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/22:21:1)
 
 
-**לְהוֹדִיעֲךָ קֹשְׁטְ.** **שָׁלִישִׁים כָּתַבְתִּי לְךָ** כְּדֵי שֶׁתָּבִין מִתּוֹכָם **קֹשְׁטְ אִמְרֵי אֱמֶת.** לְהָשִׁיב אֲמָרִים אֱמֶת:
+**לְהוֹדִיעֲךָ קֹשְׁטְ.** שָׁלִישִׁים כָּתַבְתִּי לְךָ כְּדֵי שֶׁתָּבִין מִתּוֹכָם **קֹשְׁטְ אִמְרֵי אֱמֶת.** לְהָשִׁיב אֲמָרִים אֱמֶת:
 
 
 **to make known to you the certainty** I wrote thirds for you in order that you should understand from them the certainty of the true words.
@@ -10276,7 +10276,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/22:28:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/22:28:1)
 
 
-**אַל תַּסֵּג גְּבוּל עוֹלָם.** אַל תָּשֵׁג אָחוֹר מִנְהַג אֲבוֹתֶיךָ. וְאָמְרוּ זִכְרוֹנָם לִבְרָכָה (תורת כהנים קדושים פרשתא א פרק ג): הַמַּנִּיחַ כַּלְכָּלָה תַּחַת הַגֶּפֶן בִּשְׁעַת בְּצִירָה כְּדֵי שֶׁיִּפּוֹל בְּתוֹכוֹ הַפֶּרֶט, עַל זֶה נֶאֱמַר **אַל תַּסֵּג גְּבוּל וְגוֹ׳**. **תַּסֵּג** כְּמוֹ ״יִסּוֹגוּ אָחוֹר״ (תהלים קכט:ה):
+**אַל תַּסֵּג גְּבוּל עוֹלָם.** אַל תָּשֵׁג אָחוֹר מִנְהַג אֲבוֹתֶיךָ. וְאָמְרוּ זִכְרוֹנָם לִבְרָכָה (תורת כהנים קדושים פרשתא א פרק ג): הַמַּנִּיחַ כַּלְכָּלָה תַּחַת הַגֶּפֶן בִּשְׁעַת בְּצִירָה כְּדֵי שֶׁיִּפּוֹל בְּתוֹכוֹ הַפֶּרֶט, עַל זֶה נֶאֱמַר **אַל תַּסֵּג גְּבוּל וְגוֹ׳.** **תַּסֵּג** כְּמוֹ ״יִסּוֹגוּ אָחוֹר״ (תהלים קכט:ה):
 
 
 **Do not remove an ancient boundary** Do not turn away from the custom of your forefathers. Our Sages of blessed memory said: If one places a basket under a vine at the time of vintage so that the fallen grapes should fall into it, concerning this was stated: “Do not remove an ancient boundary, etc.” **remove** Heb. תסג, as in (Ps. 129:5) “and shall draw backwards (ויסגו).”
@@ -10864,7 +10864,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/24:11:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/24:11:1)
 
 
-**הַצֵּל לְקוּחִים וְגוֹ׳.** לְהַצִּיל אֶת הַלְּקוּחִים לַמָּוֶת, אֶת הַ**מָּטִים לַהֶרֶג**:
+**הַצֵּל לְקוּחִים וְגוֹ׳.** לְהַצִּיל אֶת הַלְּקוּחִים לַמָּוֶת, אֶת הַ**מָטִים לַהֶרֶג**:
 
 
 **rescuing those taken, etc.** To rescue those taken to death.
@@ -11257,7 +11257,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/25:9:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/25:9:1)
 
 
-**רִיבְךָ רִיב אֶת רֵעֶךָ.** וְאִם עַל כָּרְחֲךָ אַתָּה צָרִיךְ לָרִיב וּלְהוֹכִיחַ עִם רֵעֶךָ, מִכָּל מָקוֹם, **סוֹד אַחֵר אַל תְּגַל.** לֹא תַזְכִּיר לוֹ דֹּפִי אֲבוֹתָיו שֶׁמֵּתוּ, שֶׁאֵין הַכֹּל יוֹדְעִין אוֹתוֹ וְאַתָּה מְגַלֵּהוּ (סנהדרין מד:):
+**רִיבְךָ רִיב אֶת רֵעֶךָ.** וְאִם עַל כָּרְחֲךָ אַתָּה צָרִיךְ לָרִיב וּלְהוֹכִיחַ עִם רֵעֶךָ, מִכָּל מָקוֹם, **סוֹד אַחֵר אַל תְּגָל.** לֹא תַזְכִּיר לוֹ דֹּפִי אֲבוֹתָיו שֶׁמֵּתוּ, שֶׁאֵין הַכֹּל יוֹדְעִין אוֹתוֹ וְאַתָּה מְגַלֵּהוּ (סנהדרין מד:):
 
 
 **Have your quarrel with your friend** But if, perforce, you must quarrel and debate with your friend, in any event, **do not divulge another’s secret** Do not mention to him the disgrace of his ancestors, which not everyone knows, and you are revealing it.
@@ -11285,7 +11285,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/25:11:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/25:11:1)
 
 
-**תַּפּוּחֵי זָהָב.** כְּעֵין כַּפְתּוֹרִין מְצֻיָּרִין עַל **מַשְׂכִּיּוֹת כָּסֶף**. **מַשְׂכִּיּוֹת** כֵּלִים הַמְצֻפִּין בְּכֶסֶף, כְּמוֹ ״וְשַׂכֹּתִי כַפִּי״ (שמות לג:כב):
+**תַּפּוּחֵי זָהָב.** כְּעֵין כַּפְתּוֹרִין מְצֻיָּרִין עַל **מַשְׂכִּיּוֹת כָּסֶף.** **מַשְׂכִּיּוֹת** כֵּלִים הַמְצֻפִּין בְּכֶסֶף, כְּמוֹ ״וְשַׂכֹּתִי כַפִּי״ (שמות לג:כב):
 
 
 **golden apples** Like knobs depicted on silverplated vessels. **silverplated vessels** Heb. משכיות כסף, vessels plated with silver, as in (Ex. 33:22): “and I will cover (ושכתי) you with My hand.”
@@ -11441,7 +11441,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/25:19:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/25:19:1)
 
 
-**שֵׁן רָעָה.** רְצוּצָה:
+**שֵׁן רֹעָה.** רְצוּצָה:
 
 
 **a broken tooth** Heb. רעה, broken.
@@ -11463,7 +11463,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/25:19:3](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/25:19:3)
 
 
-**מִבְטַח בּוֹגֵד.** מְכַזֵּב בּוֹ בְּיוֹם צָרָתוֹ כְּשֵׁן רְצוּצָה וּמוּעֶדֶת:
+**מִבְטָח בּוֹגֵד.** מְכַזֵּב בּוֹ בְּיוֹם צָרָתוֹ כְּשֵׁן רְצוּצָה וּמוּעֶדֶת:
 
 
 **trust in a traitor** He disappoints him on the day of his trouble like a broken tooth and an unsteady [foot].
@@ -11477,7 +11477,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/25:20:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/25:20:1)
 
 
-**מַעֲדֶה בֶּגֶד בְּיוֹם קָרָה.** ״בֶּגֶד עִדִּים״ (ישעיה סד:ה): בֶּגֶד מוּסָר, כְּלִי שֶׁהוּא רָאוּי לַהֲסִירוֹ מֵעָלָיו לְפִי שֶׁהוּא בָּלוּי; כְּדִמְתַרְגְּמִינָן ״וַיָּסַר״ (בראשית ח:יג): ״וְיַעְדֵּי״ (תרגום אונקלוס). וְזֶה פִּתְרוֹנוֹ: בֶּגֶד בָּלוּי הֲרֵי הוּא בְּיוֹם קָרָה **כְּחֹמֶץ עַל נָתֶר** .**נָתֶר.** מִין אֲדָמָה רַכָּה, כְּגוֹן אֲדָמָה שֶׁלָּנוּ הַנִּקְרָא קְרִידָ״א, וְהָיוּ חוֹקְקִים אוֹתָהּ וְעוֹשִׂין כֵּלִים; וְאִם יִפֹּל בּוֹ חֹמֶץ, מְמַסְמְסוֹ וְנִשְׁחָת. אַף **שָׁר בַּשִּׁירִים עַל לֶב רָע.** דּוֹמֶה לִשְׁנֵיהֶם. וּמַה הוּא שָׁר בַּשִּׁירִים? זֶה הַמְּלַמֵּד תּוֹרָה לְתַלְמִיד רָשָׁע אֲשֶׁר אֵין בְּלִבּוֹ לְקַיְּמָהּ (חולין קלג.):
+**מַעֲדֶה בֶּגֶד בְּיוֹם קָרָה.** ״בֶּגֶד עִדִּים״ (ישעיה סד:ה): בֶּגֶד מוּסָר, כְּלִי שֶׁהוּא רָאוּי לַהֲסִירוֹ מֵעָלָיו לְפִי שֶׁהוּא בָּלוּי; כְּדִמְתַרְגְּמִינָן ״וַיָּסַר״ (בראשית ח:יג): ״וְיַעְדֵּי״ (תרגום אונקלוס). וְזֶה פִּתְרוֹנוֹ: בֶּגֶד בָּלוּי הֲרֵי הוּא בְּיוֹם קָרָה **כְּחֹמֶץ עַל נָתֶר. נָתֶר.** מִין אֲדָמָה רַכָּה, כְּגוֹן אֲדָמָה שֶׁלָּנוּ הַנִּקְרָא קְרִידָ״א, וְהָיוּ חוֹקְקִים אוֹתָהּ וְעוֹשִׂין כֵּלִים; וְאִם יִפֹּל בּוֹ חֹמֶץ, מְמַסְמְסוֹ וְנִשְׁחָת. אַף **שָׁר בַּשִּׁרִים עַל לֶב רָע.** דּוֹמֶה לִשְׁנֵיהֶם. וּמַה הוּא שָׁר בַּשִּׁירִים? זֶה הַמְּלַמֵּד תּוֹרָה לְתַלְמִיד רָשָׁע אֲשֶׁר אֵין בְּלִבּוֹ לְקַיְּמָהּ (חולין קלג.):
 
 
 **A worn-out garment on a cold day** Heb. מעדה בגד, synonymous with (Isa. 64:5): “בגד עדים, a discarded garment,” a worn-out garment that is fit to be taken off since it is worn out, as we translate into Aramaic “ויסר” (Ex. 7:24) as ויעדי, and He shall remove. Now this is its interpretation: A worn-out garment on a cold day is like vinegar on chalk. **chalk** Heb. נתר, a kind of soft earth, like our earth that is called creide, which they would hew and make vessels therefrom, and if vinegar falls on it, [the earth] is dissolved and ruined. So... **is one who sings songs to a broken heart** [lit. on a bad heart. This one] resembles them both. Now what is one who sings songs? This is one who teaches the Torah to a wicked student, who has no intention in his heart to fulfill it.
@@ -11552,7 +11552,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/25:23:2](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/25:23:2)
 
 
-**וּפָנִים נִזְעָמִים תְּחוֹלֵל לְשׁוֹן סֵתֶר.** לָשׁוֹן הָרָע גּוֹרֵם שֶׁיִּהְיוּ פְּנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא נִזְעָמִים. וְכֵן דִּמְיוֹן פִּתְרוֹן הַמִּקְרָא: **רוּחַ צָפוֹן** עֲשׂוּיָה לְ**חוֹלֵל גָּשֶׁם<b>, וְ<b>לְשׁוֹן סָתֶר** עֲשׂוּיָה **לְפָנִים נִזְעָמִים**:
+**וּפָנִים נִזְעָמִים תְּחוֹלֵל לְשׁוֹן סָתֶר.** לָשׁוֹן הָרָע גּוֹרֵם שֶׁיִּהְיוּ פְּנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא נִזְעָמִים. וְכֵן דִּמְיוֹן פִּתְרוֹן הַמִּקְרָא: **רוּחַ צָפוֹן** עֲשׂוּיָה לְ**חוֹלֵל גָּשֶׁם**, וְ**לְשׁוֹן סָתֶר** עֲשׂוּיָה **לְפָנִים נִזְעָמִים**:
 
 
 **an angry countenance** A backbiting tongue begets [an angry countenance]. Slander causes the countenance of the Holy One, blessed be He, to be angry, and this is the comparison [of the interpretation] of the verse. [The bracketed words do not appear in the Salonica edition, which seems more correct than our edition.] The north wind is accustomed to beget rain and a backbiting tongue is accustomed to [beget] an angry countenance.
@@ -11577,7 +11577,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/25:24:2](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/25:24:2)
 
 
-**מֵאֵשֶׁת מְדִינִים.** כְּנֶסֶת יִשְׂרָאֵל שֶׁהִרְשִׁיעוּ אֶת מַעֲשֵׂיהֶם וְהִקְנִיטוּ לְהַקָּדוֹשׁ בָּרוּךְ הוּא:
+**מֵאֵשֶׁת מִדְיָנִים.** כְּנֶסֶת יִשְׂרָאֵל שֶׁהִרְשִׁיעוּ אֶת מַעֲשֵׂיהֶם וְהִקְנִיטוּ לְהַקָּדוֹשׁ בָּרוּךְ הוּא:
 
 
 **than a quarrelsome wife** The nation of lsrael, who dealt wickedly and provoked the Holy One, blessed be He.
@@ -11705,7 +11705,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/26:2:2](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/26:2:2)
 
 
-**כֵּן קִלְלַת חִנָּם לֹא תָבוֹא.** לְמִי שֶׁהוֹצִיאָהּ בְּפִיו:
+**כֵּן קִלְלַת חִנָּם לוֹ תָבוֹא.** לְמִי שֶׁהוֹצִיאָהּ בְּפִיו:
 
 
 **will a vain curse come home** to the one who uttered it with his mouth.
@@ -12037,7 +12037,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/26:26:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/26:26:1)
 
 
-**תְּכֻסֶּה שִׂנְאָה.** הָעוֹשֶׂה מַעֲשָׂיו בַּמַּחְשָׁךְ וּמְכַסֶּה בְּמַשָּׁאוֹן, שֶׁהוּא חֹשֶׁךְ (ס״א: שׁוֹאַת חֹשֶׁךְ), אֶת הַדָּבָר הַשָּׂנאוּי לְהַקָּדוֹשׁ בָּרוּךְ הוּא, סוֹף שֶׁהַקָּדוֹשׁ בָּרוּךְ הוּא **מְגַלֶּה רָעָתוֹ בְקָהָל**, שֶׁיַּכִּירוּ בּוֹ שֶׁהוּא רָשָׁע (סוטה ט.):
+**תִּכַּסֶּה שִׂנְאָה.** הָעוֹשֶׂה מַעֲשָׂיו בַּמַּחְשָׁךְ וּמְכַסֶּה בְּמַשָּׁאוֹן, שֶׁהוּא חֹשֶׁךְ (ס״א: שׁוֹאַת חֹשֶׁךְ), אֶת הַדָּבָר הַשָּׂנאוּי לְהַקָּדוֹשׁ בָּרוּךְ הוּא, סוֹף שֶׁהַקָּדוֹשׁ בָּרוּךְ הוּא **מְגַלֶּה רָעָתוֹ בְקָהָל**, שֶׁיַּכִּירוּ בּוֹ שֶׁהוּא רָשָׁע (סוטה ט.):
 
 
 **When the hatred is covered with darkness** If one performs his deed in the darkness and conceals with משאון, which is pitch darkness (שואת חשך) the thing that is hated by the Holy One, blessed be He, [then] ultimately the Holy One, blessed be He, will reveal his evil in public, so that they should recognize that he is wicked.
@@ -12176,7 +12176,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/27:4:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/27:4:1)
 
 
-**וְשֶׁטֶף אַף, וּמִי יַעֲמֹד.** לִפְנֵי קִנְאָתוֹ שֶׁל קַנָּא וְנַקָּם:
+**וְשֶׁטֶף אָף וּמִי יַעֲמֹד.** לִפְנֵי קִנְאָתוֹ שֶׁל קַנָּא וְנַקָּם:
 
 
 **but who can stand up before jealousy** Who can stand up before the jealousy of He Who is jealous and vengeful?
@@ -12507,7 +12507,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/27:20:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/27:20:1)
 
 
-**שְׁאוֹל וַאֲבַדָּה.** לֹא תִשְׂבַּעְנָה מִלְּקַבֵּל אֶת הָרְשָׁעִים לְתוֹכָם, כְּשֵׁם שֶׁעֵינֵי הָאָדָם רָשָׁע לֹא תִשְׂבַּעְנָה מִלָּשׁוּט אַחַר יֵצֶר הָרָע, מִלְּמַלְּאוֹת תַּאֲוָתוֹ:
+**שְׁאוֹל וַאֲבַדֹּה.** לֹא תִשְׂבַּעְנָה מִלְּקַבֵּל אֶת הָרְשָׁעִים לְתוֹכָם, כְּשֵׁם שֶׁעֵינֵי הָאָדָם רָשָׁע לֹא תִשְׂבַּעְנָה מִלָּשׁוּט אַחַר יֵצֶר הָרָע, מִלְּמַלְּאוֹת תַּאֲוָתוֹ:
 
 
 **The grave and Gehinnom will not be sated** from receiving the wicked therein, just as the eyes of a wicked man will not be sated from wandering after temptation and gratifying his lust.
@@ -12975,7 +12975,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/28:18:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/28:18:1)
 
 
-**יִפּוֹל בְּאַחַת.** בְּרָעָה אַחַת, וְאֵין תְּקוּמָה לְמַפַּלְתּוֹ:
+**יִפּוֹל בְּאֶחָת.** בְּרָעָה אַחַת, וְאֵין תְּקוּמָה לְמַפַּלְתּוֹ:
 
 
 **will fall in one** In one evil, and there will be no rising up after his downfall.
@@ -13078,7 +13078,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/28:23:2](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/28:23:2)
 
 
-**אַחֲרֵי חֵן.** לְאַחַר זְמַן חֵן יִמְצָא בְּעֵינָיו יוֹתֵר **מִמַּחֲלִיק לָשׁוֹן**. מָצִינוּ בִּבְרֵאשִׁית רַבָּה (בראשית רבה מד:ה): כָּל מָקוֹם שֶׁנֶּאֱמַר ׳אַחֲרֵי׳ אֵינוֹ אֶלָּא מֻפְלָג, ׳אַחַר׳ סָמוּךְ. בְּתַנְחוּמָא (תנחומא, הוספה לפרשת דברים ב) עַל ״אֵלֶּה הַדְּבָרִים״ (דברים א:א): **מוֹכִיחַ אָדָם אַחֲרֵי**, זֶה מֹשֶׁה שֶׁהוֹכִיחַ אֶת יִשְׂרָאֵל אַחַר הַקָּדוֹשׁ בָּרוּךְ הוּא, שֶׁנִּקְרְאוּ ׳אָדָם׳, שֶׁנֶּאֱמַר ״אָדָם אַתֶּם״ (יחזקאל לד:לא), וְנֶאֱמַר בּוֹ ״כִּי מָצָאתָ חֵן בְּעֵינַי״ (שמות לג:יז); **מִמַּחֲלִיק לָשׁוֹן.** זֶה בִּלְעָם, הָאוֹמֵר לְיִשְׂרָאֵל דְּבָרִים מְתֻקָּנִים ״מַה טֹּבוּ אֹהָלֶיךָ יַעֲקֹב״ (במדבר כד:ה). מֹשֶׁה מַכְרִיז: ״הִשָּׁמְרוּ לָכֶם פֶּן יִפְתֶּה״ (דברים יא:טז), וּבִלְעָם מַכְרִיז וּמַחֲנִיף: עֲשׂוּ תַּאֲוַתְכֶם וְאֵינוֹ מַקְפִּיד! ״לֹא אִישׁ אֵל וִיכַזֵּב״ (במדבר כג:יט) – בָּאֻמּוֹת, אֲבָל בָּכֶם אוֹמֵר וְלֹא יַעֲשֶׂה (ראה שם). וּשְׁלֹמֹה צָוַח עַל שְׁנֵיהֶם: ״נֶאֱמָנִים פִּצְעֵי אוֹהֵב וְנַעְתָּרוֹת נְשִׁיקוֹת שׂוֹנֵא״ (משלי כז:ו):
+**אַחֲרַי חֵן.** לְאַחַר זְמַן חֵן יִמְצָא בְּעֵינָיו יוֹתֵר **מִמַּחֲלִיק לָשׁוֹן.** מָצִינוּ בִּבְרֵאשִׁית רַבָּה (בראשית רבה מד:ה): כָּל מָקוֹם שֶׁנֶּאֱמַר ׳אַחֲרֵי׳ אֵינוֹ אֶלָּא מֻפְלָג, ׳אַחַר׳ סָמוּךְ. בְּתַנְחוּמָא (תנחומא, הוספה לפרשת דברים ב) עַל ״אֵלֶּה הַדְּבָרִים״ (דברים א:א): **מוֹכִיחַ אָדָם אַחֲרַי**, זֶה מֹשֶׁה שֶׁהוֹכִיחַ אֶת יִשְׂרָאֵל אַחַר הַקָּדוֹשׁ בָּרוּךְ הוּא, שֶׁנִּקְרְאוּ ׳אָדָם׳, שֶׁנֶּאֱמַר ״אָדָם אַתֶּם״ (יחזקאל לד:לא), וְנֶאֱמַר בּוֹ ״כִּי מָצָאתָ חֵן בְּעֵינַי״ (שמות לג:יז); **מִמַּחֲלִיק לָשׁוֹן.** זֶה בִּלְעָם, הָאוֹמֵר לְיִשְׂרָאֵל דְּבָרִים מְתֻקָּנִים ״מַה טֹּבוּ אֹהָלֶיךָ יַעֲקֹב״ (במדבר כד:ה). מֹשֶׁה מַכְרִיז: ״הִשָּׁמְרוּ לָכֶם פֶּן יִפְתֶּה״ (דברים יא:טז), וּבִלְעָם מַכְרִיז וּמַחֲנִיף: עֲשׂוּ תַּאֲוַתְכֶם וְאֵינוֹ מַקְפִּיד! ״לֹא אִישׁ אֵל וִיכַזֵּב״ (במדבר כג:יט) – בָּאֻמּוֹת, אֲבָל בָּכֶם אוֹמֵר וְלֹא יַעֲשֶׂה (ראה שם). וּשְׁלֹמֹה צָוַח עַל שְׁנֵיהֶם: ״נֶאֱמָנִים פִּצְעֵי אוֹהֵב וְנַעְתָּרוֹת נְשִׁיקוֹת שׂוֹנֵא״ (משלי כז:ו):
 
 
 **afterwards will find more favor** After a time, he will find more favor in his eyes than one who speaks with flattery. We find in Gen. Rabbah (44:5): “Wherever it says אחרי, it means only long after; אחר, it is soon after. In Tanhuma, in the portion entitled “These are the words”: “He who admonishes man after Me”—this refers to Moses, who admonished Israel after the Holy One, blessed be He, who were called “man,” as it is stated (Ezek. 34:31): “You are men,” and it stated concerning him (Ex. 33: 17): “For you have found favor in My sight.” **more favor than he who speaks with flattery** This refers to Balaam, who said fine things to Israel (Num. 24:5): “How goodly are your tents, O Jacob!” Moses announces (Deut. 11:16): “Beware lest your heart be deceived,” and Balaam announces and flatters, “Do what your heart desires; He does not care: (Num. 23:19) ‘God is not a man that He should lie,’ concerning the nations, but concerning you, ‘He says but He does not do.’” And Solomon cries about both of them, (above 27:6): “Wounds of a lover are faithful, whereas kisses of an enemy are burdensome.”
@@ -13538,7 +13538,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/29:26:2](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/29:26:2)
 
 
-**וּמֵיְהוָה מִשְׁפַּט אִישׁ.** אִם יִזְכֶּה אוֹ אִם יִתְחַיֵּב. וּבַמּוֹשְׁלִים דִּבֵּר הַכָּתוּב:
+**וּמֵה׳ מִשְׁפַּט אִישׁ.** אִם יִזְכֶּה אוֹ אִם יִתְחַיֵּב. וּבַמּוֹשְׁלִים דִּבֵּר הַכָּתוּב:
 
 
 **but the judgment of a person** Any [judgment], whether he will be adjudged innocent or guilty. Scripture [here] speaks of the gentile kings.
@@ -13755,7 +13755,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/30:8:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/30:8:1)
 
 
-**רֹאשׁ.** דַּלּוּת:
+**רֵאשׁ.** דַּלּוּת:
 
 
 **poverty** Heb. ראש, poverty.
@@ -13916,7 +13916,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/30:17:1](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/30:17:1)
 
 
-**לִיקֲּהַת אֵם.** לִקְמָטִים הַנִּקְבָּצִים וְנִקְהִין בִּפְנֵי אִמּוֹ, לְשׁוֹן ״יִקְּהַת עַמִּים״ (בראשית מט:י) – קְבוּצַת עַמִּים. וְהַיּוֹ״ד יְסוֹד, כְּמוֹ ״יִפְעַת״ (יחזקאל כח:ז), ״וְיַעֲלַת חֵן״ (משלי ה:יט):
+**לִיקְּהַת אֵם.** לִקְמָטִים הַנִּקְבָּצִים וְנִקְהִין בִּפְנֵי אִמּוֹ, לְשׁוֹן ״יִקְּהַת עַמִּים״ (בראשית מט:י) – קְבוּצַת עַמִּים. וְהַיּוֹ״ד יְסוֹד, כְּמוֹ ״יִפְעַת״ (יחזקאל כח:ז), ״וְיַעֲלַת חֵן״ (משלי ה:יט):
 
 
 **the mother’s wrinkles** Heb. ליקהת, the wrinkles that gather (נקהין) in his mother’s face, from the expression of (Gen. 49:10): “a gathering (יקהת) of peoples.” The “yud” is a radical, like יפעת, splendor; (יעלת חן) (Prov. 5:19), a graceful mountain goat.
@@ -14074,7 +14074,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/30:31:6](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/30:31:6)
 
 
-(יט) **דֶּרֶךְ הַנֶּשֶׁר.** זוֹ בָּבֶל, ״הַנֶּשֶׁר הַגָּדוֹל... אֶרֶךְ הָאֵבֶר״ (יחזקאל יז:ג):
+(יט) **דֶּרֶךְ הַנֶּשֶׁר.** זוֹ בָּבֶל, ״הַנֶּשֶׁר הַגָּדוֹל… אֶרֶךְ הָאֵבֶר״ (יחזקאל יז:ג):
 
 
 **[19] The way of the eagle** This is Babylon, the great eagle, with the long wings (Ezek. 17:3).
@@ -14206,7 +14206,7 @@ Heb. נעוה, as in (Isa. 21:3): “I have become confused (נעויתי) from 
 [https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/30:31:18](https://torahapp.org/share/book/Rashi%20on%20Proverbs/r/30:31:18)
 
 
-**וַיָּכִינוּ בַקַּיִץ לַחְמָם.** נְבוּכַדְנֶצַּר עָשָׂה כָבוֹד אַחַר לְהַקָּדוֹשׁ בָּרוּךְ הוּא בִּימֵי מְרֹדַךְ בַּלְאֲדָן אֲשֶׁר שָׁלַח סְפָרִים לְחִזְקִיָּהוּ וְכָתַב שָׁם: שְׁלָם לְמַלְכָּא חִזְקִיָּהוּ, שְׁלָם לְקַרְתָּא דִירוּשְׁלֵם, שְׁלָם לֶאֱלָהָא רַבָּא. וּנְבוּכַדְנֶצַּר כּוֹתֵב אִגְּרוֹתָיו הָיָה, וְלֹא הָיָה שָׁם אוֹתוֹ הַיּוֹם; וּכְשֶׁבָּא וְסִפְּרוּ לוֹ מַה שֶּׁעָשׂוּ, אָמַר לָהֶם: אֱלָהָא רַבָּא קְרִיתוּ לֵיהּ וּכְתַבִיתוּ לֵיהּ בְּסוֹף? רָץ אַחַר הַשָּׁלִיחַ וְהֶחֱזִירוֹ. בִּשְׁבִיל אוֹתוֹ מְרוּצָה זָכָה לַמַּלְכוּת; הֲרֵי שֶׁהֵכִין בַּקַּיִץ לַחְמוֹ כְּדֶרֶךְ הַנְּמָלָה (סנהדרין צו.):
+**וַיָּכִינוּ בַקַּיִץ לַחְמָם.** נְבוּכַדְנֶצַּר עָשָׂה כָבוֹד אֶחָד לְהַקָּדוֹשׁ בָּרוּךְ הוּא בִּימֵי מְרֹדַךְ בַּלְאֲדָן אֲשֶׁר שָׁלַח סְפָרִים לְחִזְקִיָּהוּ וְכָתַב שָׁם: שְׁלָם לְמַלְכָּא חִזְקִיָּהוּ, שְׁלָם לְקַרְתָּא דִירוּשְׁלֵם, שְׁלָם לֶאֱלָהָא רַבָּא. וּנְבוּכַדְנֶצַּר כּוֹתֵב אִגְּרוֹתָיו הָיָה, וְלֹא הָיָה שָׁם אוֹתוֹ הַיּוֹם; וּכְשֶׁבָּא וְסִפְּרוּ לוֹ מַה שֶּׁעָשׂוּ, אָמַר לָהֶם: אֱלָהָא רַבָּא קְרִיתוּ לֵיהּ וּכְתַבִיתוּ לֵיהּ בְּסוֹף? רָץ אַחַר הַשָּׁלִיחַ וְהֶחֱזִירוֹ. בִּשְׁבִיל אוֹתוֹ מְרוּצָה זָכָה לַמַּלְכוּת; הֲרֵי שֶׁהֵכִין בַּקַּיִץ לַחְמוֹ כְּדֶרֶךְ הַנְּמָלָה (סנהדרין צו.):
 
 
 **yet they prepare their food in the summer** [This refers to] Nebuchadnezzar, who performed one [act of] honor to the Holy One, blessed be He, in the days of Merodach-baladan, when he sent letters to Hezekiah, and wrote therein, “Peace to King Hezekiah; peace to city of Jerusalem; peace to the great God.” Nebuchadnezzar was the one who wrote his letters, but he was not there that day, and when he came and they told him what they had done, he responded, “You call Him the great God, yet you address Him last!” He ran after the messenger and brought him back. For that [act of] pursuit, he merited the kingship. This is how he “prepared his bread in the summer,” like the ant.

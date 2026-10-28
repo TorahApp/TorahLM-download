@@ -14,7 +14,7 @@ Location: Tanakh/Acharonim on Tanakh/Metzudat Zion/Prophets
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): On Your Way (Segments: 442, License: Public Domain)
+Version (He): On Your Way (Segments: 441, License: Public Domain)
 
 Version (En): Sefaria Community Translation (Segments: 28)
 
@@ -166,9 +166,12 @@ Version (En): Sefaria Community Translation (Segments: 28)
 **נחה.** ענין חניה:
 
 
-###### Metzudat Zion on II Kings 2:15:2
 
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Kings/r/2:15:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Kings/r/2:15:2)
+### Verse 16
+
+###### Metzudat Zion on II Kings 2:16:1
+
+[https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Kings/r/2:16:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Kings/r/2:16:1)
 
 
 **הגאיות.** מלשון גיא ועמק:
@@ -1225,7 +1228,7 @@ Version (En): Sefaria Community Translation (Segments: 28)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Kings/r/6:25:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Kings/r/6:25:1)
 
 
-**דביונים.** צואה הזב מן היונים, כי [ אשר ] יזוב (ויקרא טו כה) תרגומו: ארי ידוב, ובהם היו מדליקין האש, לחסרון העצים בעבור המצור:
+**דביונים.** צואה הזב מן היונים, כי [אשר] יזוב (ויקרא טו כה) תרגומו: ארי ידוב, ובהם היו מדליקין האש, לחסרון העצים בעבור המצור:
 
 
 
@@ -2197,15 +2200,7 @@ Version (En): Sefaria Community Translation (Segments: 28)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Kings/r/12:10:3](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Kings/r/12:10:3)
 
 
-**שומרי הסף.** שומרי מזתות השערים, כי סף הוא מזוזה, וכן תרגם יונתן:
-
-
-###### Metzudat Zion on II Kings 12:10:4
-
-[https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Kings/r/12:10:4](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Kings/r/12:10:4)
-
-
-**אמרכליא.** והאמרכלים היו שבעה, לשבעה שערי העזרה:
+**שומרי הסף.** שומרי מזתות השערים, כי סף הוא מזוזה, וכן תרגם יונתן: אמרכליא. והאמרכלים היו שבעה, לשבעה שערי העזרה:
 
 
 
@@ -2235,7 +2230,7 @@ Version (En): Sefaria Community Translation (Segments: 28)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Kings/r/12:12:1](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Kings/r/12:12:1)
 
 
-**המתכן.** המנוי, כמו (שמות ה ח):
+**המתכן.** המנוי, כמו (שמות ה ח): מתכונת הלבנים:
 
 
 ###### Metzudat Zion on II Kings 12:12:2
@@ -2243,7 +2238,7 @@ Version (En): Sefaria Community Translation (Segments: 28)
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Kings/r/12:12:2](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Kings/r/12:12:2)
 
 
-**מתכונת הלבנים.** על ידי אל ידי:
+**על ידי.** אל ידי:
 
 
 ###### Metzudat Zion on II Kings 12:12:3
@@ -3344,7 +3339,7 @@ It refers to a forest and a river.
 [https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Kings/r/19:24:6](https://torahapp.org/share/book/Metzudat%20Zion%20on%20II%20Kings/r/19:24:6)
 
 
-**מצור.** ענין חתק, והוא מלשון צור:
+**מצור.** ענין חוזק, והוא מלשון צור:
 
 
 Referring to siege, and is from the meaning of rock.

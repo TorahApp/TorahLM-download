@@ -14,11 +14,22 @@ Location: Halakhah
 
 Originally from [Sefaria](https://www.sefaria.org) via [TorahLM.org](https://torahlm.org) — see [licensing](https://torahlm.org/sefaria_license).
 
-Version (He): Aruch HaShulchan, Vilna 1923-29 (Segments: 25265, License: Public Domain)
+Version (He): Arukh HaShulchan, Yoreh De'ah -- Wikisource (Segments: 25265, License: CC-BY-SA)
 
-Version (En): Hupah veKiddushin, trans. by Norman T. Roman. HUC, 1975 (Segments: 275)
+Version (En): Hupah veKiddushin, trans. by Norman T. Roman. HUC, 1975 (Segments: 276)
 
 # Arukh HaShulchan — part 6 of 8
+
+###### Arukh HaShulchan, Even HaEzer 55:23
+
+[https://torahapp.org/share/book/Arukh%20HaShulchan/s/Even%20HaEzer/r/55:23](https://torahapp.org/share/book/Arukh%20HaShulchan/s/Even%20HaEzer/r/55:23)
+
+
+וכן להיפך, אם אירס וכנס לחופה ולא בירך ברכת חתנים – ה"ז נשואה גמורה וחוזר ומברך אפילו אחר כמה ימים, ואע"ג דכל ברכות צריך עובר לעשייתן מ"מ כיון דבברכות אלו לא נזכר כלל מנשואין יכול לברכם גם אח"כ, אבל ברכת אירוסין צריך לברך קודם הקדושין ככל הברכות שצריכים עובר לעשייתן.
+
+
+And also the opposite (case can arise): if he betrothed and entered into the “ḥupah” but did not recite the groom’s benedictions - behold, this is a complete marriage; he should return and recite the benedictions, even after several days. And even though all blessings must precede tha act (cf. Pesaḥim 7b), anyhow, among those blessings, those for marriage are not mentioned at all; one may recite the (marriage) benedictions even afterwards. But, the betrothal blessing must be recited before the betrothal (i.e. that part of the marriage ceremony which is still called betrothal), as all the (other) blessings which must precede the act.
+
 
 ###### Arukh HaShulchan, Even HaEzer 55:24
 
@@ -27422,13 +27433,5 @@ De nombreux grands sages ont crié comme des grues à propos de ceux qui mention
 
 
 שטר בחת"י הלוה ועדים ג"כ חתומים בו אם אין העדים מעידים על גוף ההלואה אלא מעידים שזו היא חתימתו אין לו דין שטר בעדים אבל כשעדים מעידים על גוף המעשה שכותבים אנחנו מעידים שפלוני לוה מפלוני ובפנינו חתם הלוה א"ע יש לזה כל דין שטר ואינו נאמן לומר פרעתי וגובה ממשועבדים ואפילו כשכל השטר הוא לשון של הלוה שכתוב בו מודה אני הח"מ ולא לשון עדים מ"מ כיון שהעדים חתמו א"ע על גוף המעשה יש לזה כל דין מלוה בשטר בעדים:
-
-
-###### Arukh HaShulchan, Choshen Mishpat 69:7
-
-[https://torahapp.org/share/book/Arukh%20HaShulchan/s/Choshen%20Mishpat/r/69:7](https://torahapp.org/share/book/Arukh%20HaShulchan/s/Choshen%20Mishpat/r/69:7)
-
-
-כתב רבינו הב"י פנקס שחתמו עליו בעלי הדברים והחתימו עד אחד עמהם אינו נאמן לומר פרעתי כל זמן שהפנקס ביד חבירו עכ"ל ויש חולקין בזה דלפי הטעם שנתבאר בסעי' א' דכל שהשטר בלא עדים לא חשש להניחו בידו א"כ גם בפנקס זה לא חשש להניחו בידו כיון שאינו גובה בו ממשועבדים ודיעה ראשונה סוברת דהטעם מה שנאמן לומר פרעתי בשטר בכתב ידו הוא מפני שיכול לומר כיון שאין עדים על השטר שכחתי עליו וטעם זה לא שייך בפנקס תמידי אבל באמת עיקר הטעם היא כמ"ש [ש"ך] אמנם העיקר תלוי לפי ראות עיני הדיינים ולפי המנהג דיש לפעמים ששותפים עושים פנקס לכתחלה לכתוב שם קבלות כל אחד ואחד וכיון שעשוי לכך מתחלה הוה ראיה גמורה וכן יש סוחרים וחנונים שנותנים סחורה בהקפה ויש להם פנקס שמקבל הסחורה כותב בהפנקס בכת"י קבלתי כך וכך סחורה וכשמשלם מוחק מן הפנקס פנקס כזה וודאי דהוה ראיה גמורה וכיוצא בזה צריכים הדיינים להבין דרכי המסחור וערך הבע"ד לפי אמונתם ועשרם ותהיה אז ביכולתם להוציא הדין לאמיתו ואם אין ביכולת לברר זאת ע"פ הבנתם ישבע הנתבע היסת ויפטר:
 
 
